@@ -3,8 +3,8 @@ title: Psilocybe antioquensis
 created: 2026-04-28
 type: species
 tags:
-  - [[psilocybin-mushroom]]
-  - [[agaricales]]
+  - psilocybin-mushroom
+  - agaricales
   - hymenogastraceae
   - neotropical-fungi
   - colombian-species

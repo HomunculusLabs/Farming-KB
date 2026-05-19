@@ -2,7 +2,7 @@
 title: Snow Mold Fungi Cold Temperature Plant Pathogens
 created: 2026-04-26
 tags:
-  - [[mycology]]
+  - mycology
   - plant-pathology
   - cold-ecology
   - psychrotolerant

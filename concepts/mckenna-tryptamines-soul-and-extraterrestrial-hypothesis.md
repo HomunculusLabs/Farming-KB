@@ -5,7 +5,7 @@ tags:
   - philosophy
   - consciousness
   - dmt
-  - [[psilocybin]]
+  - psilocybin
   - tryptamines
   - mckenna
   - extraterrestrial

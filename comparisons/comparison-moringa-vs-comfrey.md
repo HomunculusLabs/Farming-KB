@@ -1,6 +1,6 @@
 ---
 title: Comparison Moringa Vs Comfrey
-tags: [comparison, moringa, comfrey, [[permaculture]], [[dynamic-accumulators]]
+tags: [comparison, moringa, comfrey, permaculture, dynamic-accumulators
 date: 2026-04-28
 updated: 2026-04-28
 sources: []

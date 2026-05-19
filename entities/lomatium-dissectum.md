@@ -12,7 +12,7 @@ tags:
   - immunomodulatory
   - north-america
   - wild-harvesting
-  - [[ghouled-field-guide-historical-context]] to Western Medicinal Plants and Herbs." Houghton Mifflin.
+  - ghouled-field-guide-historical-context to Western Medicinal Plants and Herbs." Houghton Mifflin.
   - Tilford, G.L. (1997). "Edible and Medicinal Plants of the West." Mountain Press Publishing.
   - McIntyre, P. (2009). "Medicinal Plants of the Northwest." Wild Roots Botanicals.
   - Kindscher, K. (1992). "Medicinal Wild Plants of the Prairie." University Press of Kansas.

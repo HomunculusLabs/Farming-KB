@@ -9,7 +9,7 @@ tags:
   - medicinal-plant
   - pollinator-plant
   - native-plant
-  - [[permaculture]]
+  - permaculture
   - edible
 sources:
   - Kindscher, K. (1992). "Medicinal Wild Plants of the Prairie." University Press

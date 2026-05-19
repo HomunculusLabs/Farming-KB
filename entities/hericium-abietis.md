@@ -9,13 +9,13 @@ tags:
   - medicinal-mushroom
   - hericiaceae
   - russulales
-  - [[basidiomycota]]
+  - basidiomycota
   - conifer-associate
   - pacific-northwest
   - neuroprotective
   - nerve-growth-factor
-  - [[erinacines]]
-  - [[hericenones]]
+  - erinacines
+  - hericenones
   - mycophagy
 date: 2026-04-28
 updated: 2026-04-28

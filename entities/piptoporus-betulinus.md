@@ -2,7 +2,7 @@
 title: piptoporus betulinus
 created: 2026-04-28
 type: species
-tags: [[mycology]], polypores, birch, piptoporus]
+tags: mycology, polypores, birch, piptoporus]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]

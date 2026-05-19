@@ -2,11 +2,11 @@
 title: Mollison Designers Woven Fence Hedge Live Barrier
 created: 2026-04-28
 tags:
-  - [[agroforestry]]
+  - agroforestry
   - farm-infrastructure
   - windbreak-design
   - livestock-management
-  - [[permaculture-design]]
+  - permaculture-design
 date: 2026-04-25
 updated: 2026-04-25
 sources:

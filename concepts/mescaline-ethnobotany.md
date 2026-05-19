@@ -5,7 +5,7 @@ updated: 2026-04-23
 sources:
   - "Schultes and Hofmann - Plants of the Gods"
 type: concept
-tags: [ethnobotany, [[peyote]]
+tags: [ethnobotany, peyote
 ---
 
 # Mescaline Ethnobotany in Plants of the Gods

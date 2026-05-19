@@ -8,7 +8,7 @@ tags:
   - cannabis
   - history
   - ethnobotany
-  - [[shamanism]]
+  - shamanism
 sources:
   - "[McKenna, Food of the Gods (1992)]"
 ---

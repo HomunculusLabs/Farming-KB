@@ -5,8 +5,8 @@ tags:
   - steroid-regulation
   - fungal-development
   - steroidal-signaling
-  - [[mycology]]
-  - [[brassinosteroids]]
+  - mycology
+  - brassinosteroids
   - phytohormones
   - eukaryotic-signaling
   - cross-kingdom

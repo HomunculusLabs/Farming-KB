@@ -14,9 +14,9 @@ updated: 2026-04-28
 sources:
   - title: FAO Quinoa Technical Guidelines
     url: https://www.fao.org/quinoa/en/
-  - title: USDA NRCS Plant Guide — [[chenopodium-quinoa]]
+  - title: USDA NRCS Plant Guide — chenopodium-quinoa
     url: https://plants.usda.gov/home/plantProfile?symbol=CHQU2
-  - title: Rodale Institute — [[cover-crop-guide-detailed]]
+  - title: Rodale Institute — cover-crop-guide-detailed
     url: https://rodaleinstitute.org/why-organic/organic-farming-practices/cover-crops/
   - title: Native Seeds/SEARCH — Amaranth comparison-bean-growing-guide-vs-pepper-growing-guide
     url: https://www.nativeseeds.org/pages/growing-guides

@@ -7,7 +7,7 @@ tags:
   - bolete
   - rubroboletus
   - boletaceae
-  - [[mushroom-identification]]
+  - mushroom-identification
   - foraging
   - temperate
   - gi-distress

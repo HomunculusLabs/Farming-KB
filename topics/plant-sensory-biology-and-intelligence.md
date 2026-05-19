@@ -1,86 +1,149 @@
 ---
-title: Plant plant-sensory-biology-smell-touch-hearing and Intelligence
+title: Plant Sensory Biology and Intelligence
 subtitle: How Plants Perceive, Communicate, and Remember Their World
 tags: [plant-biology, sensory-ecology, plant-intelligence, botany,
-  plant-communication, photobiology, ecological-interactions]
-date: 2026-04-28
-updated: 2026-04-28
+  plant-communication, photobiology, ecological-interactions,
+  mechanoreception, volatile-organic-compounds, plant-memory]
+date: 2026-05-19
+updated: 2026-05-19
 sources:
-  - "raw/papers/what-a-plant-knows-daniel-chamovitz.md"
-  - "raw/papers/tompkins-secret-life-of-plants.md"
+  - "Chamovitz D (2012) What a Plant Knows. Oneworld Publications."
+  - "Karban R (2015) Plant Sensing and Communication. Univ of Chicago Press."
+  - "Tompkins P, Bird C (1973) The Secret Life of Plants."
+  - "McKenna T (1992) Food of the Gods. Bantam."
 related_concepts:
-  - companion-planting-and-polycultures
-  - mycorrhizal-fungi
+  - plant-sensory-systems
+  - plant-communication-volatile-organic-compounds
+  - chamovitz-plant-senses-overview
+  - mycorrhizal-networks
   - the-soil-food-web
-  - korean-natural-farming-and-jadam
-  - permaculture-design-principles
-  - ethnobotany-and-sacred-plant-traditions
+  - companion-planting-and-polycultures
 ---
-
 # Plant Sensory Biology and Intelligence
+Plants perceive far more of their environment than most people realize.
+They detect light across spectrums invisible to human eyes, smell volatile
+chemicals carried on the wind, feel the pressure of touch and the pull of
+gravity, and retain biochemical memories of past stresses that shape their
+future responses. The study of plant sensory biology has moved from the
+margins of speculative philosophy into the mainstream of molecular biology.
+This research reveals sophisticated information-processing systems that
+challenge traditional boundaries between the perceived passivity of
+vegetation and the apparent agency of animals. Daniel Chamovitz's *What
+a Plant Knows* (2012) systematically explored these capabilities, while
+decades of research on volatile signaling, mycorrhizal networks, and
+plant electrophysiology have built a compelling picture of organisms that
+actively sense, communicate, and remember.
+## Historical Foundations
 
-Plants perceive far more of their environment than most people imagine. They
-detect light across spectrums invisible to human eyes, smell volatile chemicals
-carried on the wind, feel the mechanical pressure of touch and the constant pull
-of gravity, and retain biochemical memories of past stresses that shape their
-future responses. The study of plant sensory biology has moved from the margins
-of speculative philosophy into the mainstream of molecular biology, revealing
-sophisticated information-processing systems that challenge traditional
-boundaries between the perceived passivity of vegetation and the apparent agency
-of animals. This article examines what modern science and historical
-investigation have revealed about how plants sense their surroundings,
-communicate with one another, and maintain forms of [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. Darwin's 1880 book, *The Power of
-Movement in Plants*, demonstrated through meticulous experimentation that every
-tendril possesses its own power of independent movement, bending and reaching
-with what Darwin called an inherent sensitivity exercised "when it is of some
-advantage to them."
+The investigation of plant sensitivity has deep historical roots.
+Charles Darwin's 1880 book *The Power of Movement in Plants* demonstrated
+through meticulous experimentation that every tendril possesses its own
+power of independent movement, bending and reaching with what Darwin
+called an inherent sensitivity exercised "when it is of some advantage."
 
-At the turn of the [[jagadis-chandra-bose-plant-research]] conducted pioneering experiments in the early
-1900s demonstrating that plants respond to electrical stimuli in ways remarkably
-similar to animal nervous tissue. Using his own invention, the crescograph, Bose
-showed that plants exhibited fatigue from repeated stimulation, recovery from
-anaesthesia, and accelerated growth when exposed to certain frequencies of
-electromagnetic radiation. His findings, initially dismissed by Western
-scientists, have been largely vindicated by modern research into plant
-electrophysiology.
+Jagadis Chandra Bose conducted pioneering experiments in the early 1900s
+demonstrating that plants respond to electrical stimuli in ways remarkably
+similar to animal nervous tissue. Using his own invention, the crescograph,
+Bose showed that plants exhibited fatigue from repeated stimulation,
+recovery from anaesthesia, and accelerated growth under certain
+electromagnetic frequencies. His findings, initially dismissed by Western
+scientists, have been largely vindicated by modern electrophysiology.
+
+In the 1960s, Cleve Backster's polygraph experiments on plants generated
+enormous public interest but failed to meet scientific standards of
+repeatability. Marcel Vogel, an IBM research chemist, claimed to
+demonstrate plant-human bioelectric communication but faced similar
+replication challenges. While these fringe investigations captured public
+imagination, the real revolution in plant sensory biology came from
+rigorous molecular biology.
 
 ## Plant Vision and Photoreception
 
-Plants see. This statement, which would have sounded mystical a century ago, is
-now an uncontested fact of plant physiology. Plants monitor their visible
-environment continuously, detecting the presence and direction of light,
-distinguishing between colors across a broader spectral range than human eyes
-can perceive, measuring the duration of light exposure with extraordinary
-precision, and adjusting their growth, development, and metabolism accordingly.
+Plants see. This statement, once mystical, is now uncontested physiology.
+Plants continuously monitor their light environment, detecting the presence
+and direction of light, distinguishing colors across a broader spectral
+range than human eyes, measuring light duration with extraordinary
+precision, and adjusting growth and development accordingly.
 
-Human vision relies on photoreceptor proteins called rhodopsins and photopsins
-located in the retinas of our eyes. Plants possess an analogous but more diverse
-array of photoreceptor proteins, each tuned to different wavelengths and serving
-different functions. The most studied of these are the phototropins, which
-respond primarily to blue light; the cryptochromes, which sense blue and
-ultraviolet light; and the phytochromes, which operate as molecular switches
-sensitive to red and far-red light.
+Plants possess multiple families of photoreceptor proteins. Phytochromes
+detect red and far-red light, operating as molecular switches that toggle
+between two interconvertible forms. Cryptochromes sense blue and
+ultraviolet-A light, regulating circadian rhythms and flowering time.
+Phototropins mediate directional growth toward blue light. UVR8 receptors
+detect ultraviolet-B radiation and trigger protective pigment production.
 
-The discovery of phototropism, the tendency of plants to bend toward light,
-dates to Charles Darwin's experiments with canary grass. Darwin and his son
-Francis grew seedlings in total darkness, then illuminated them with a gas lamp
-so dim they could barely see their own instruments. After only three hours, the
-plants had curved unmistakably toward the light source. Through a series of
-elegant experiments involving the removal or covering of seedling tips, the
-Darwins demonstrated that the "eye" of the plant resided at the shoot tip,
-which perceived light and transmitted that information downward to the growing
-stem, directing it to bend toward the illumination. This was the first rigorous
-demonstration of a directed sensory response in plants.
+The discovery of phototropism dates to Darwin's experiments with canary
+grass seedlings. He demonstrated that the "eye" of the plant resided at
+the shoot tip, which perceived light and transmitted that information
+downward to direct bending. Julius von Sachs later established that blue
+light specifically triggers directional growth, proving plants process
+specific wavelengths as environmental information, not just energy.
 
-The specific color sensitivity of phototropism was established by Julius von
-Sachs, who showed that blue light is the primary trigger for directional
-bending, while other colors have little effect. This finding proved that plants
-were not simply using light as an energy source through photosynthesis, but
-were processing specific wavelengths of light as environmental information.
+## Photoperiodism and Shade Avoidance
 
-Perhaps more remarkable than directional light sensing is photoperiodism, the
-ability of plants to measure the length of day and night and to use this
-information to trigger flowering. This capacity was discovered through the
-investigation of a peculiar tobacco strain called [[julius-von-sachs-blue-light-phototropism-discovery]]
-- [[plant-sensory-biology-smell-touch-hearing]]
-- [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]]
+Plants measure the length of continuous darkness with remarkable accuracy
+to determine when to flower. This capacity, called photoperiodism, was
+discovered through investigation of the Maryland Mammoth tobacco strain,
+which grew prodigiously but refused to flower during summer's long days.
+Garner and Allard showed that the plant needed uninterrupted darkness
+exceeding a critical duration to initiate flowering.
+
+Short-day plants flower when nights exceed a critical length. Long-day
+plants flower when nights are shorter. A brief flash of red light in the
+middle of the night resets the darkness counter, demonstrating that
+phytochrome mediates the timing mechanism. Commercial greenhouse growers
+routinely manipulate photoperiod to control flowering schedules.
+
+Plants also detect the ratio of red to far-red light to assess shading.
+Chlorophyll in neighboring leaves absorbs red light but reflects far-red,
+shifting the ratio detected by phytochromes. A low red-to-far-red ratio
+triggers stem elongation, leaf repositioning, and accelerated flowering.
+The plant is quite literally reaching for light.
+
+## Chemical Sensing and Olfaction
+
+Plants detect and respond to a vast array of volatile organic compounds
+through mechanisms analogous to olfaction. Ripening fruit releases
+ethylene gas that triggers neighboring fruits to ripen in concert. The
+familiar practice of placing a ripe banana next to unripe avocados
+exploits this phenomenon. Commercial fruit shippers use ethylene to
+synchronize ripening in shipments of climacteric fruits.
+
+When plants suffer herbivore attack, they release methyl jasmonate and
+other airborne defense signals. Neighboring plants detect these volatiles
+and activate their own chemical defenses before pests arrive. This was
+first documented systematically by Clarence Ryan and colleagues in the
+1990s and has since been confirmed across many species.
+
+The parasitic dodder plant demonstrates sophisticated odor detection.
+Dodder seedlings grow toward specific host species based on volatile
+chemicals they emit. Experiments show dodder distinguishes between wheat
+and tomato based solely on volatile profiles, actively growing toward
+the preferred species. This is genuine olfactory navigation.
+
+## Interspecies Volatile Communication
+
+Some plants release volatiles that attract predators of the herbivores
+attacking them, an indirect defense strategy. Corn plants attacked by
+caterpillars emit compounds that attract parasitic wasps. The wasps lay
+eggs in the caterpillars, killing them. The plant effectively calls for
+help using chemical signals.
+
+This tri-trophic interaction requires the plant to detect herbivore
+damage through mechanoreception and specific compounds in oral secretions,
+then synthesize and emit the correct wasp-attractant volatiles. It
+represents sophisticated multi-signal integration and targeted chemical
+communication across kingdoms.
+
+Green leaf volatiles, the compounds responsible for the smell of freshly
+cut grass, are immediate distress signals released upon tissue damage.
+These compounds prime defense responses in neighboring plants and can
+attract predatory insects. The pleasant smell of a mowed lawn is, in
+biological terms, a chemical alarm.
+
+## See Also
+- [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering|chamovitz phytochrome mobile signal leaf to flowering]]
+- [[chamovitz-plant-photoreceptors-beyond-phytochrome|chamovitz plant photoreceptors beyond phytochrome]]
+- [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory|chamovitz red far red phytochrome switch and plant memory]]
+- [[far-red-light-phytochrome-antagonism-floral-regulation|far red light phytochrome antagonism floral regulation]]
+- [[far-red-light-phytochrome-switch-mechanism|far red light phytochrome switch mechanism]]

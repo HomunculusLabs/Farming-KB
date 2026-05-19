@@ -3,7 +3,7 @@ title: Mushroom Immunomodulation Mechanisms
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [[mycology]], mushrooms, cultivation]
+tags: mycology, mushrooms, cultivation]
 sources: []
 ---
 # Mushroom Immunomodulation Mechanisms

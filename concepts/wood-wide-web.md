@@ -1,7 +1,7 @@
 ---
 title: Wood Wide Web
 created: 2026-04-28
-tags: [ecology, [[mycology]], forestry, networks, symbiosis]
+tags: [ecology, mycology, forestry, networks, symbiosis]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]

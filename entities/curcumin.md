@@ -4,7 +4,7 @@ created: 2026-04-28
 type: chemical
 tags:
   - curcuminoid
-  - [[polyphenol]]
+  - polyphenol
   - anti-inflammatory
   - antioxidant
   - turmeric

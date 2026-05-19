@@ -2,10 +2,10 @@
 title: Puffball Fungi
 created: 2026-04-28
 tags:
-  - [[mycology]]
-  - [[basidiomycota]]
+  - mycology
+  - basidiomycota
   - gasteromycetes
-  - [[spore-dispersal]]
+  - spore-dispersal
   - fungal-fruiting-bodies
 date: 2026-04-28
 updated: 2026-04-28

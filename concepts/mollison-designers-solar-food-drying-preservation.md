@@ -2,10 +2,10 @@
 title: Mollison Designers Solar Food Drying Preservation
 created: 2026-04-28
 tags:
-  - [[permaculture]]
+  - permaculture
   - solar-drying
   - food-preservation
-  - [[appropriate-technology]]
+  - appropriate-technology
   - solar-energy
 date: 2026-04-25
 updated: 2026-04-25

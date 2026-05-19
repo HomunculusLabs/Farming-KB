@@ -1,7 +1,7 @@
 ---
 title: Stamets Cultivator Wood Lovers Bed Preparation Outdoor
 created: 2026-04-28
-tags: [outdoor-cultivation, wood-chips, natural-culture, perennial-beds, [[permaculture]]
+tags: [outdoor-cultivation, wood-chips, natural-culture, perennial-beds, permaculture
 date: 2026-04-28
 updated: 2026-04-28
 sources:

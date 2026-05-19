@@ -2,7 +2,7 @@
 title: Mollison Designers Aquatic Edge Planted Wetland Design
 created: 2026-04-28
 tags:
-  - [[permaculture]]
+  - permaculture
   - wetland-design
   - water-management
   - aquaculture

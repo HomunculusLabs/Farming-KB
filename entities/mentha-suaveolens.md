@@ -15,7 +15,7 @@ tags:
   - culinary-herb
   - aromatic
   - essential-oil
-  - [[companion-planting]]
+  - companion-planting
   - temperate-climate
   - herbalism
   - edible

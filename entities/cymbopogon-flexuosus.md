@@ -10,7 +10,7 @@ tags:
   - malabar-lemongrass
   - essential-oil
   - citral
-  - [[companion-planting]]
+  - companion-planting
   - pest-deterrent
   - medicinal-herb
   - culinary-herb

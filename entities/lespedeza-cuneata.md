@@ -6,14 +6,14 @@ tags:
   - fabaceae
   - nitrogen-fixer
   - forage
-  - [[cover-crop]]
-  - [[permaculture]]
+  - cover-crop
+  - permaculture
   - erosion-control
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Isely D (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern."
-    Vol. 3, Part 2. Leguminosae. University of [[north-carolina-mycodiversity]] Press.
+    Vol. 3, Part 2. Leguminosae. University of north-carolina-mycodiversity Press.
   - Clewell AF (1966). "History, present status, and potential of sericea
     lespedeza." Advances in Agronomy, 18: 69-101.
   - Henson PR, Covell MV, Darrow RA (1965). "Sericea lespedeza." USDA
@@ -21,7 +21,7 @@ sources:
   - Min BR, Hart SP, Miller D, Tomita G, Loetz E, Sahlu T (2005).
     "The effect of sericea lespedeza on fecal egg counts of goats."
     Journal of Animal Science, 83(12): 2777-2784.
-  - Bouton JH (2007). "Breeding lucerne, [[fukuoka-white-clover-cover-crop-system]], birdsfoot
+  - Bouton JH (2007). "Breeding lucerne, fukuoka-white-clover-cover-crop-system, birdsfoot
     trefoil and sericea for the tropics and subtropics." Tropical
     Grasslands, 41(1): 51-59.created: 2026-05-07
 

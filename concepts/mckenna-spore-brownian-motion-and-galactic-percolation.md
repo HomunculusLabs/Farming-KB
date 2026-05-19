@@ -3,7 +3,7 @@ title: Mckenna Spore Brownian Motion and Galactic Percolation
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [panspermia, spores, [[stropharia-cubensis]], [[mycology]], interstellar, mckenna, hypothesis, dispersal]
+tags: [panspermia, spores, stropharia-cubensis, mycology, interstellar, mckenna, hypothesis, dispersal]
 sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 ---
 

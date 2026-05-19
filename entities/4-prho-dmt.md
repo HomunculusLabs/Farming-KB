@@ -2,7 +2,7 @@
 title: "4-PrO-DMT"
 type: chemical
 tags:
-  - [[tryptamine]]
+  - tryptamine
   - psychedelic
   - hallucinogen
   - serotonin-receptor

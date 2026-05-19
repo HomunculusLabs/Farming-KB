@@ -3,7 +3,7 @@ title: Cattle Husbandry And Permaculture Integration
 created: 2026-05-18
 updated: 2026-05-18
 type: topic
-tags: [animal-husbandry, permaculture, livestock, cattle, [[holistic-grazing-and-pasture-management]], homesteading, dairy, beef]
+tags: [animal-husbandry, permaculture, livestock, cattle, holistic-grazing-and-pasture-management, homesteading, dairy, beef]
 synthesized_from:
   - cattle-husbandry
   - cattle-keeping-guide

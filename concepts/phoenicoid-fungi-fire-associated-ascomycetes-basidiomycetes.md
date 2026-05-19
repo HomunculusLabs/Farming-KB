@@ -3,7 +3,7 @@ title: Phoenicoid Fungi Fire Associated Ascomycetes Basidiomycetes
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mycology]], fungi]
+tags: mycology, fungi]
 sources: []
 ---
 # Phoenicoid Fungi — Fire-Associated Ascomycetes and Basidiomycetes

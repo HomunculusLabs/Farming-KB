@@ -2,8 +2,8 @@
 title: Spent Mushroom Substrate
 created: 2026-04-28
 tags:
-  - [[mushroom-cultivation]]
-  - [[composting]]
+  - mushroom-cultivation
+  - composting
   - waste-management
   - soil-health
   - recycling

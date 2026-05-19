@@ -1,7 +1,7 @@
 ---
 title: "Chamovitz Retina Photoreceptor Rod Cone Resolution Plant Comparison"
 source: grahamholmes-what-a-plant-knowsindd.md
-tags: [photoreceptor, retina, rod, cone, rhodopsin, photopsin, [[plant-perception]], Chamovitz, vision, botany]
+tags: [photoreceptor, retina, rod, cone, rhodopsin, photopsin, plant-perception, Chamovitz, vision, botany]
 ---
 
 # Retinal Photoreceptors — Rods, Cones, and Resolution Compared to Plant Light Perception

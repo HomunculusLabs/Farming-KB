@@ -7,7 +7,7 @@ aliases:
   - Cider Cup Fungus
 tags:
   - fungi
-  - [[ascomycota]]
+  - ascomycota
   - helvellaceae
   - helvella
   - cup-fungus
@@ -15,7 +15,7 @@ tags:
   - temperate-fungi
   - forest-fungi
   - foraging
-  - [[mycology]]
+  - mycology
   - spring-fungi
   - european-fungi
 date: 2026-04-28

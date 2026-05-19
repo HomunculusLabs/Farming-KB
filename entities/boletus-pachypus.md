@@ -2,7 +2,7 @@
 title: Boletus pachypus
 source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
-tags: [fungi, [[basidiomycota]], agaricomycetes, boletales, boletaceae, boletus, edible]
+tags: [fungi, basidiomycota, agaricomycetes, boletales, boletaceae, boletus, edible]
 ---
 
 # Boletus pachypus

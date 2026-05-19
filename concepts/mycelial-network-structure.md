@@ -3,7 +3,7 @@ title: Mycelial Network Structure
 created: 2026-04-28
 updated: 2026-05-09
 type: concept
-tags: [[mycology]], networks, biology, fungi]
+tags: mycology, networks, biology, fungi]
 sources: [/Users/t3erpz/wiki/raw/papers/unknown-mycelium-running.md]
 ---
 

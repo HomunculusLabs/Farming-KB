@@ -1,7 +1,7 @@
 ---
 title: Pleurotus Natural Log Cultivation Methods
 created: 2026-04-28
-tags: [log-cultivation, [[oyster-mushroom]], spawn, outdoor-growing]
+tags: [log-cultivation, oyster-mushroom, spawn, outdoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]

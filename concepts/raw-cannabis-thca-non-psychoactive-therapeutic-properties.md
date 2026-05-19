@@ -1,7 +1,7 @@
 ---
 title: Raw Cannabis Thca Non Psychoactive Therapeutic Properties
 source: uwe-blesching-the-cannabis-health-index.md
-tags: [cannabis, THCA, raw-cannabis, [[decarboxylation]], non-psychoactive, anti-inflammatory]
+tags: [cannabis, THCA, raw-cannabis, decarboxylation, non-psychoactive, anti-inflammatory]
 created: 2026-05-08
 ---
 

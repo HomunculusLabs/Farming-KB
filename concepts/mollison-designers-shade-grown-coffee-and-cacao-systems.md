@@ -2,7 +2,7 @@
 title: Mollison Designers Shade Grown Coffee And Cacao Systems
 created: 2026-04-26
 tags:
-  - [[permaculture]]
+  - permaculture
   - coffee
   - cacao
   - shade-cropping

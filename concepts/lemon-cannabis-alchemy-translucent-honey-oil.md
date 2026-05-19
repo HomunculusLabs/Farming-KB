@@ -1,7 +1,7 @@
 ---
 title: Preparation of Translucent (Honey) Oil
 created: 2026-04-28
-tags: [cannabis, [[honey-oil]], purification, charcoal, extraction]
+tags: [cannabis, honey-oil, purification, charcoal, extraction]
 date: 2026-04-28
 updated: 2026-04-28
 sources:

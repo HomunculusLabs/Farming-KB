@@ -7,8 +7,8 @@ tags:
   - rosaceae
   - shrub
   - fruit-tree
-  - [[permaculture]]
-  - [[food-forest]]
+  - permaculture
+  - food-forest
   - edible-landscape
   - nitrogen-fixer-associate
   - pollinator-support

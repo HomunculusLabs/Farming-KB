@@ -1,7 +1,7 @@
 ---
 title: Mckenna Exteriorized Soul And Psychedelic Bar Mitzvah
 source: mckenna_t-tryptamines_consciousness.md
-tags: [[terence-mckenna]], exteriorized-soul, translinguistic-matter,
+tags: terence-mckenna, exteriorized-soul, translinguistic-matter,
   superconducting-lens, holographic-body, self-replicating-information,
   noosphere, eschatology, consciousness]
 created: 2026-05-08

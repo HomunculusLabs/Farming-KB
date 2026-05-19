@@ -3,7 +3,7 @@ title: Goose Keeping and Husbandry Guide
 created: 2026-05-18
 updated: 2026-05-18
 type: topic
-tags: [goose, poultry, livestock, [[permaculture-design-principles]], [[homesteading]] ing, animal-husbandry]
+tags: [goose, poultry, livestock, permaculture-design-principles, homesteading ing, animal-husbandry]
 synonyms: [goose farming, geese husbandry, anser domesticus, domestic goose keeping]
 related_topics:
   - duck-keeping-and-integration-into-permaculture-systems

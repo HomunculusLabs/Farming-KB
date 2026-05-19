@@ -4,7 +4,7 @@ created: 2026-04-28
 tags:
   - ethnobotany
   - san-pedro
-  - [[mescaline]]
+  - mescaline
   - curanderismo
   - andean-ceremonies
 date: 2026-04-28

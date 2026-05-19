@@ -1,7 +1,7 @@
 ---
 title: "metzner talking staff and preparation integration in hybrid ceremonies and Preparation-Integration in Hybrid Ceremonies"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
-tags: [[ralph-metzner]], talking-staff, council-practice, neoshamanic,
+tags: ralph-metzner, talking-staff, council-practice, neoshamanic,
   preparation, integration, intention-sharing, meditation, expressive-arts,
   hybrid-ceremony]
 created: 2026-05-08

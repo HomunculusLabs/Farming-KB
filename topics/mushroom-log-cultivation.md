@@ -23,7 +23,7 @@ sources:
     Technology, NCAT, 2011.
   - "Shiitake Mushroom Production on Logs." Field & Forest Products, 2022.
   - Kozak, Margaret, and Joe Krawczyk. Mushroom Cultivator: A Practical Guide
-    to [[query-how-to-start-growing-mushrooms-at-home]] Home. MycoMedia, 2012.
+    to query-how-to-start-growing-mushrooms-at-home Home. MycoMedia, 2012.
   - "Growing Shiitake Mushrooms in a Forest Farming System." USDA National
     Agroforestry Center, 2018.
 ---

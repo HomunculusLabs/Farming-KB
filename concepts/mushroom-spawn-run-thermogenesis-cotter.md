@@ -3,7 +3,7 @@ title: Mushroom Spawn Run Thermogenesis Cotter
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [mushroom, spawn-run, thermogenesis, [[mycelium]], colonization, cotter]
+tags: [mushroom, spawn-run, thermogenesis, mycelium, colonization, cotter]
 sources:
   - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 ---

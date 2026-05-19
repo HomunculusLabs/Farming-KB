@@ -3,7 +3,7 @@ title: Soil Moisture Monitoring And Field Capacity — Irrigation Management Sen
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
-tags: [irrigation, soil-moisture, sensors, [[water-management]]
+tags: [irrigation, soil-moisture, sensors, water-management
 sources: []
 ---
 # Soil Moisture Monitoring for Irrigation Management

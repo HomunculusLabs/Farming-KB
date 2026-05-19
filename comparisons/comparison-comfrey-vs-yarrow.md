@@ -1,7 +1,7 @@
 ---
 title: Comparison Comfrey Vs Yarrow
 created: 2026-04-28
-tags: [comparison, [[dynamic-accumulators]], [[companion-planting]], herbs]
+tags: [comparison, dynamic-accumulators, companion-planting, herbs]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []

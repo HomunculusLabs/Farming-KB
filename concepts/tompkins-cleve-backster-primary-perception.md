@@ -1,7 +1,7 @@
 ---
 title: Tompkins Cleve Backster Primary Perception
 created: 2026-04-28
-tags: [[plant-perception]], backster-effect, galvanometer, esp, polygraph,
+tags: plant-perception, backster-effect, galvanometer, esp, polygraph,
       consciousness, plant-intelligence]
 date: 2026-04-25
 updated: 2026-04-25

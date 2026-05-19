@@ -1,7 +1,7 @@
 ---
 title: "psilocybe magnivelaris"
 created: 2026-04-28
-tags: [species, fungus, [[psilocybin-mushroom]], psilocybe]
+tags: [species, fungus, psilocybin-mushroom, psilocybe]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [psilocybin-mushrooms-of-the-world-stamets.md]

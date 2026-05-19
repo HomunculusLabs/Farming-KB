@@ -1,7 +1,7 @@
 ---
 title: Query How To Build A Cob Oven For Outdoor Cooking
 created: 2026-04-28
-tags: [query, [[permaculture]]
+tags: [query, permaculture
 date: 2026-04-25
 updated: 2026-04-25
 sources: []

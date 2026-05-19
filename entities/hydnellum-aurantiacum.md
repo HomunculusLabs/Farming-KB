@@ -3,7 +3,7 @@ title: "Hydnellum aurantiacum"
 type: species
 tags:
   - fungi
-  - [[basidiomycota]]
+  - basidiomycota
   - thelephorales
   - mycorrhizal
   - tooth-fungus

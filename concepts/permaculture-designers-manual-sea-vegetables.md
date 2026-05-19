@@ -3,7 +3,7 @@ title: Sea Vegetables
 created: 2026-04-15
 updated: 2026-04-21
 type: concept
-tags: [[permaculture]], design]
+tags: permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 # Sea Vegetables updated: 2026-04-18 From: permaculture-designers-manual-marine-resources - broader marine systems - permaculture-designers-manual-mulch-systems - seaweed as mulch - [[permaculture-designers-manual-climatic-zones-tropical]]

@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Stamets, Paul. growing-gourmet-abalone-oyster-cystidiosus-cultivation and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed., Ten Speed
     Press, 2000.
-  - "Shiitake stamets-stump-cultivation-mushroom-production-forestry on Logs." Field & [[mollison-specialist-tropical-crops-forest-products]], 2022.
+  - "Shiitake stamets-stump-cultivation-mushroom-production-forestry on Logs." Field & mollison-specialist-tropical-crops-forest-products, 2022.
   - "Growing query-how-to-grow-shiitake-mushrooms-on-logs in a Forest Farming System." USDA National
     Agroforestry Center, 2018.
   - "Log-Grown Specialty Mushrooms." ATTRA — National Center for Appropriate

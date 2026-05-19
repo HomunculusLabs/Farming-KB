@@ -3,7 +3,7 @@ title: Basic Plumbing for Homestead
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], water, [[water-management]], equipment, engineering]
+tags: homesteading, water, water-management, equipment, engineering]
 sources: []
 ---
 

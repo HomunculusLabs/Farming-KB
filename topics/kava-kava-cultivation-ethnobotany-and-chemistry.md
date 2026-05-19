@@ -2,12 +2,12 @@
 title: Kava Kava Cultivation Ethnobotany and Chemistry
 tags:
   - kava
-  - [[piper-methysticum]]
+  - piper-methysticum
   - ethnobotany
   - medicinal-plants
   - psychoactive-plants
   - pacific-islands
-  - [[kavalactones]]
+  - kavalactones
   - cultivation
   - tropical-agriculture
   - traditional-medicine

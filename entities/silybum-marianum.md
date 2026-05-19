@@ -2,7 +2,7 @@
 title: "Silybum marianum"
 created: 2026-04-28
 type: species
-tags: [herbal-plant, hepatoprotective, asteraceae, medicinal-plant, antioxidant, [[permaculture]]
+tags: [herbal-plant, hepatoprotective, asteraceae, medicinal-plant, antioxidant, permaculture
 date: 2026-04-28
 updated: 2026-04-28
 sources:

@@ -4,9 +4,9 @@ created: 2026-04-28
 type: species
 tags:
   - fungi
-  - [[polypore]]
+  - polypore
   - edible-mushroom
-  - [[mycology]]
+  - mycology
   - north-america
   - foraging
   - tree-pathogen

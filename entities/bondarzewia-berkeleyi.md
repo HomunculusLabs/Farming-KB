@@ -22,7 +22,7 @@ sources:
   - Gilbertson R.L., Ryvarden L. (1986). "growing-gourmet-north-american-reishi-species Polypores." Fungiflora,
     Oslo, Vol. 1, pp. 156-159.
   - Spirin W.A. et al. (2015). "Molecular phylogeny of the polypore genus
-    Bondarzewia ([[basidiomycota]], Russulales)." Mycological Progress 14: 102.
+    Bondarzewia (basidiomycota, Russulales)." Mycological Progress 14: 102.
   - Kuo M. (2024). "Bondarzewia berkeleyi." MushroomExpert.com.
   -=https://www.mushroomexpert.com/bondarzewia_berkeleyi.html
   -=https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=155001

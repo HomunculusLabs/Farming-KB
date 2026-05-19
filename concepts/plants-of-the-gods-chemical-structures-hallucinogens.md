@@ -5,7 +5,7 @@ tags:
   - chemistry
   - alkaloids
   - molecular-structure
-  - [[tryptamine]]
+  - tryptamine
   - schultes
 date: 2026-04-28
 updated: 2026-04-28

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags:
   - phosphorus
   - potassium
-  - [[dynamic-accumulators]]
+  - dynamic-accumulators
   - soil-minerals
   - organic-gardening
 date: 2026-04-28

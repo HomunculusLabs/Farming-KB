@@ -1,7 +1,7 @@
 ---
 title: "Hallucinogens in Medical Psychotherapy"
 created: 2026-04-28
-tags: [psychotherapy, lsd, [[mescaline]], psycholysis,
+tags: [psychotherapy, lsd, mescaline, psycholysis,
   psychedelic-therapy, psychiatry, consciousness]
 date: 2026-04-28
 updated: 2026-04-28

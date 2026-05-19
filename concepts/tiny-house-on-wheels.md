@@ -3,7 +3,7 @@ title: Tiny House on Wheels
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [construction, [[homesteading]], off-grid, design, sustainability, engineering]
+tags: [construction, homesteading, off-grid, design, sustainability, engineering]
 sources: []
 ---
 

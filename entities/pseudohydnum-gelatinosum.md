@@ -14,9 +14,9 @@ sources:
     Nytt Magasin for Botanikk.
   - Corner, E.J.H. (1970). "Supplementary monograph of Pseudohydnum."
     Nova Hedwigia.
-  - Roberts, P. (1999). "British [[tremellales-mycoparasitic-jelly-fungi]]." Mycologist.
+  - Roberts, P. (1999). "British tremellales-mycoparasitic-jelly-fungi." Mycologist.
   - Larsson, E. & Larsson, K.H. (2003). "Phylogenetic relationships of
-    Pseudohydnum." [[mycological-research-institutions]].
+    Pseudohydnum." mycological-research-institutions.
 ---
 
 ## Overview

@@ -4,13 +4,13 @@ created: 2026-04-28
 type: species
 tags:
   - fungi
-  - [[basidiomycota]]
-  - [[agaricales]]
+  - basidiomycota
+  - agaricales
   - coprinoid
   - edible
   - saprotrophic
   - wood-decay
-  - [[mycology]]
+  - mycology
   - temperate
   - urban-mushroom
   - decomposer

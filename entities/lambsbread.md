@@ -17,7 +17,7 @@ sources:
   - https://www.wikileaf.com/strain/lambsbread/
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany."
     University of California Press.
-  - ElSohly, M.A. et al. (2016). "Changes in [[cannabis-potency-enhanced-flowers]] Over the Last
+  - ElSohly, M.A. et al. (2016). "Changes in cannabis-potency-enhanced-flowers Over the Last
     Two Decades." Biological Psychiatry.
   - Ruben, B. (2020). "Cannabis and Jamaican Rastafari: A Historical Review."
     Journal of Ethnopharmacology.

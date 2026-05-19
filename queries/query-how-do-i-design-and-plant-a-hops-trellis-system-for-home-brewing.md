@@ -5,11 +5,11 @@ tags:
   - trellis
   - homebrewing
   - beer
-  - [[homesteading]]
+  - homesteading
   - perennial-crops
   - garden-design
   - diy-projects
-  - [[bill-mollison]] (1988)"
+  - bill-mollison (1988)"
 created: 2026-04-28
 type: query
 ---

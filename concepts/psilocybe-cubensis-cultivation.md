@@ -1,7 +1,7 @@
 ---
 title: Psilocybe Cubensis Cultivation
 created: 2026-04-28
-tags: [cultivation, psilocybe-cubensis, [[mycology]], fungiculture, psychedelics]
+tags: [cultivation, psilocybe-cubensis, mycology, fungiculture, psychedelics]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-psilocybin-mushroom-image-guide.md]

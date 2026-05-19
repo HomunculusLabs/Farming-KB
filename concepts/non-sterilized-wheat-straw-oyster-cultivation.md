@@ -1,6 +1,6 @@
 ---
 title: Non Sterilized Wheat Straw Oyster Cultivation
-tags: [oyster-mushroom, wheat-straw, substrate, pasteurization, lime, low-cost, cultivation, [[pleurotus]]
+tags: [oyster-mushroom, wheat-straw, substrate, pasteurization, lime, low-cost, cultivation, pleurotus
 date: 2026-04-28
 updated: 2026-04-28
 sources:

@@ -5,7 +5,7 @@ type: species
 tags:
   - cactus
   - psychedelic
-  - [[mescaline]]
+  - mescaline
   - entheogen
   - entheogenic-cactus
   - succulent

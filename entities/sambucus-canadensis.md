@@ -5,7 +5,7 @@ tags:
   - herbal-plant
   - medicinal-plant
   - edible-fruit
-  - [[permaculture]]
+  - permaculture
   - caprifoliaceae
 date: 2026-04-28
 updated: 2026-04-28
