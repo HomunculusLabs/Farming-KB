@@ -5,6 +5,7 @@ source: [[fukuoka-natural-foods-movement-america]]
   - Michio Kushi
   - dietary transformation
   - [[falconer-mushroom-cooking-selection-and-preparation]].
+---
 
 During his lifetime, Ohsawa was virtually ignored by the Japanese public. The dietary habits of post-war Japan were shifting rapidly toward Western-style eating, and Ohsawa's teachings about traditional foods seemed backward to a population eager for modernisation and prosperity.
 

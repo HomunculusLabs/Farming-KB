@@ -20,6 +20,7 @@ sources:
   - AllBud. "Fire OG [[blesching-cannabis-strain-selection-receptor-targeting]] created by crossing **SFV OG** (San
 Fernando Valley OG) with an **OG Kush** backcross. Developed in Southern California during
 the early 2000s medical cannabis era, Fire OG has become a staple of the [[cannabis-terpene-profile]].
+---
 
 The genetic ratio is approximately 70% indica / 30% sativa. Both parent strains trace
 back to the original Chemdawg × Lemon Thai × [[cannabis-glandular-trichome-types-resin-production-clarke]] is abundant, making buds sticky to the touch with a

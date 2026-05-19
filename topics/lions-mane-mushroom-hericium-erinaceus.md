@@ -18,6 +18,7 @@ sources:
   - Mori, K. et al. (2009). "Improving effects of the mushroom Yamabushitake on cognitive function." Phytotherapy Research, 23(3), 367-372.
   - Wang, C.X. et al. (2020). "Neurotrophic properties of Hericium erinaceus and its active compounds." Journal of Fungi, 6(4), 286.
   - Wasser, S.P. (2014). "Medicinal mushroom science: History, current status, future trends, and unsolved problems." International Journal of cancer-medicinal-mushrooms, 16(3), 237-256.---
+---
 
 ## Lion's Mane Mushroom (Hericium erinaceus)
 

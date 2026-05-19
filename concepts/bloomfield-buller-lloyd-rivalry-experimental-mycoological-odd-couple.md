@@ -7,6 +7,7 @@ Reginald Buller and Curtis Gates Lloyd — the laboratory experimentalist and th
 self-taught taxonomic collector whose intersecting careers illuminate enduring
 tensions between different modes of scientific inquiry that persist in biology
 to this day.
+---
 
 ## A. H. R. Buller: The Experimentalist
 

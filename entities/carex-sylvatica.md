@@ -15,6 +15,7 @@ sources:
   - Reznicek, A.A. (2002). "Carex in [[berry-growing]], Vol. 23. Oxford University Press.
   - Stace, C.A. (2019). New Flora of the British Isles, 4th ed. C&M Floristics.
   - [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], drawing nutrients from deeper soil layers and returning them through leaf [[dighton-fungal-drought-tolerance-plant-water-relations]] is low compared to many other Carex species.
+---
 
 The species is hardy to USDA Zone 5 and tolerates cold winters without protection. It performs best in regions with cool, moist summers.
 

@@ -19,6 +19,7 @@ sources:
     genetics." In: Biotechnology and Plant Genetic Resources. CABI.
   - Arnolin, R. et al. (2017). "The domestication of yam." Economic Botany.
   - Lebot, V. (2009). [[psilocybin-mushroom-species-overview]]
+---
 
 **Dioscorea trifida**, commonly known as cush-cush yam, ají yam, or yampee,
 is a species of yam in the family Dioscoreaceae native to the Caribbean and

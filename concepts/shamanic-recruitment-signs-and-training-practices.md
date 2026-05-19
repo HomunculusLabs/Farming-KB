@@ -7,6 +7,7 @@ are taught. His account emphasizes that shamanism is primarily a set of
 techniques rather than a system of ritual, and that the selection process
 favors individuals who demonstrate particular forms of psychological
 resilience and perceptual sensitivity.
+---
 
 ## Signs of Shamanic Potential
 

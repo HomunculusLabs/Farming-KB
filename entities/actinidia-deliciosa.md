@@ -15,6 +15,7 @@ sources:
   - Beever, D.J. & Hopkirk, G. (1990). Fruit Physiology and Production. In: Kiwifruit: Science and Management. Ray Richards Publisher.
   - McGhie, T.K. & Ainge, G.D. (2002). "Color in fruit of the genus Actinidia." Journal of Agricultural and Food Chemistry, 50(1), 117–123.
   - USDA ARS. (2024). "GRIN Taxonomy: Actinidia deliciosa." Germplasm Resources [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and often sparsely covered with reddish-brown hairs.
+---
 
 **Flowers** are white to cream-colored, approximately 3–5 cm in diameter, borne in axillary cymes of 1–3 flowers.
 

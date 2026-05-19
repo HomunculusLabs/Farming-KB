@@ -1,4 +1,4 @@
------------|----------------------|---------------------|
+---
 | Social organization | Egalitarian, matrifocal | Hierarchical, patriarchal |
 | Relationship to nature | Symbiotic, reverent | Extractive, exploitative |
 | Religion | Immanent, experiential | Transcendent, dogmatic |
@@ -6,6 +6,7 @@
 | Language | Creative, participatory | Rigid, instrumental |
 | Gender | Complementary, fluid | Oppressive, binary |
 | Economy | Gift, sharing | Accumulation, competition |
+---
 
 McKenna does not present this as a simple good-versus-evil binary but as a spectrum along which all human societies can be placed. His argument is that the trajectory of [[five-historical-periods-neurotropic-fungi-discovery-guzman-1998]] into a simplistic framework
 - **Determinism**: McKenna tends to attribute complex historical changes to a single cause (the presence or absence of psychoactive plants), neglecting economic, geographic, and technological factors

@@ -8,6 +8,7 @@ maintain boundaries between human and supernatural realms. In Amaringo's
 tradition, icaros are not merely musical compositions — they are living
 technologies of consciousness, each encoding specific spiritual knowledge,
 protective powers, and relationships with particular plant teachers.
+---
 
 ## Nature and Origin of Icaros
 

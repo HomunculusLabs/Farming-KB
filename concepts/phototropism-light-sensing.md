@@ -12,6 +12,7 @@ aliases: [phototropism, plant light tracking, [[darwin-power-of-movement-in-plan
   the lit side.
 - **Kenneth Thimann** (1930s): Confirmed auxin's role and showed that the
   lateral redistribution of auxin drives asymmetric growth.
+---
 
 ## Mechanism of Action
 

@@ -15,6 +15,7 @@ sources:
   - Wilson, K.A. (1994). "Strawberry Guava — A Weed of Hawaiian Forests." Weed Technology 8(4): 964-966.
   - Vasconcelos, L. et al. (2019). "chemical-composition-of-hallucinogens and Antioxidant Activity of Psidium cattleianum Fruit." Food Chemistry 274: 165-171.
   - GBIF Secretariat (2023). "Psidium cattleianum Sabine." GBIF Backbone Taxonomy.---
+---
 
 ## Overview
 

@@ -16,6 +16,7 @@ beliefs and my call to natural-scientific research: we will attain to
 knowledge of the universe through the spirit of truth, and thereby to
 understanding of our being one with the deepest, most comprehensive
 reality, God."
+---
 
 ## Critique of Ecclesiastical Christianity
 

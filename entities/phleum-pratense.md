@@ -13,6 +13,7 @@ sources:
   - Moore KJ, Moser LE, Vogel KP, et al. (1995). "Timothy." In: Barnes RF, Miller DA, Nelson CJ, editors. Forages: An Introduction to Grassland Agriculture. 5th ed. Iowa State University Press.
   - Bélanger G, Michaud R, Jefferson PG, et al. (1999). "Fall dormancy and yield of timothy in eastern Canada." Canadian Journal of Plant Science 79(4): 761–768.
   - Berg K, Christensen BT, Rasmussen J. (2019). "Forage quality of timothy as affected by [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Eurasia and North Africa.
+---
 
 The **inflorescence** is a dense, cylindrical, spike-like panicle, 5–15 cm long and 4–7 mm wide, resembling a rat's tail — giving rise to the common name "cat's-tail grass." It is the most distinctive morphological feature of the species.
 

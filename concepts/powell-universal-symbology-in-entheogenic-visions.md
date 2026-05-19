@@ -16,6 +16,7 @@ movie-like fashion during the entheogenic state represents meaning in perhaps
 its purest, most informationally rich form. To partake of a visionary
 dialogue is to be overwhelmed by the direct apprehension of naked, unmuddied
 meaning arising from highly integrative informational processes.
+---
 
 ## The Analogy with Snowflakes
 

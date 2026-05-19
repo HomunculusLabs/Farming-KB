@@ -16,6 +16,7 @@ sources:
   - Li, B. et al. (2017). "Fucoidan: structure and bioactivity." Molecules, 22(10), 1731.
   - Nielsen, M.M. et al. (2016). "Productivity of the bladder wrack Fucus vesiculosus in the western Baltic Sea." Marine Ecology Progress Series, 554, 67–78.
   - Amsler, C.D. & Fairhead, V.A. (2006). "Defensive and sensory plant-volatile-communication-chemical-ecology of brown algae." Advances in Botanical Research, 43, 1–91.---
+---
 
 ## Overview
 

@@ -13,6 +13,7 @@ sources:
   - Upson, T.M. & Andrews, S. (2004). "The Genus Lavandula." Royal Botanic Gardens, Kew.
   - Lis-Balchin, M. (2002). "Lavender: The Genus Lavandula." Taylor & Francis.
   - Charles, D.J. & Simon, J.E. (1990). "Comparison of Oil Content and Composition of Lavandin Cultivars." Journal of [[lavandula-angustifolia]] (English lavender) and Lavandula latifolia (spike lavender). The hybrid occurs naturally where the parent species overlap in range and has been extensively cultivated for essential oil production.
+---
 
 Lavandin is the most commercially important Lavandula taxon for essential oil yield, producing three to five times more oil per hectare than English lavender. The oil is widely used in perfumery, aromatherapy, cosmetics, and household cleaning products.
 

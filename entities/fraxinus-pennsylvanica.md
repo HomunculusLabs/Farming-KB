@@ -13,6 +13,7 @@ updated: 2026-05-08
 sources:
   - Miller, R.O. (1955). "A revision of the Ashes of polypore-fungi-eastern-north-america America." Rhodora, 57(677), 69-95.
   - Cappert, D. et al. (2005). "Emerald ash borer in [[coleman-overwintered-onions-and-early-spring-crops]]. Male flowers are in compact clusters, female flowers in loose panicles; both are purple and inconspicuous.
+---
 
 Fruit is a samara 2.5–5 cm long, with a flattened wing extending from the base to near the seed apex. Samaras ripen from late summer to fall and are dispersed primarily by wind.
 

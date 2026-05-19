@@ -8,6 +8,7 @@ was first rigorously characterized by Charles Darwin and his son Francis in
 their 1880 book *The [[darwin-power-of-movement-in-plants]] in Plants*. Their experiments
 demonstrated that plants possess a form of rudimentary sight: the ability to
 detect light direction and translate that information into differential growth.
+---
 
 ## Darwin's Experiments
 

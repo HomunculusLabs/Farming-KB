@@ -15,6 +15,7 @@ sources:
   - Flora [[sphagnum-palustre]], [[aulacomnium-palustre]] in transition mires where mineral-rich groundwater
 meets ombrotrophic peat. The species can tolerate moderate shading but
 achieves maximum growth in open, sunny fen conditions.
+---
 
 ## Ecology
 

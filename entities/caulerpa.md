@@ -15,6 +15,7 @@ sources:
   - Meinesz, A. (1999). "Killer Algae." University of Chicago Press.
   - Verlaque, M., et al. (2000). "The [[fungal-life-cycles-sexual-reproduction-metamorphosis]] involves anisogamous gametes released en masse in
 a holocarpic event that exhausts the entire thallus.
+---
 
 ## Distribution and Habitat
 

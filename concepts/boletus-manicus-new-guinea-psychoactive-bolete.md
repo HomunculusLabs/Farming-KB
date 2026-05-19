@@ -4,6 +4,7 @@ tags: [boletus, neurotropic-fungi, species-profile, new-guinea, boletaceae]
 source: "Guzmán, Allen & Gartz (1998) — World-Wide Distribution of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] documented in
 mycological literature. Unlike the vast majority of [[mexico-center-neurotropic-fungal-biodiversity]] species, placed in
 the subgenus Tubiporus.
+---
 
 The species was originally described by [[cattle-dispersal-psychoactive-fungi-australia]] from Mexico and New Guinea
 during the mid-20th century. The epithet "manicus" likely derives from the Manus

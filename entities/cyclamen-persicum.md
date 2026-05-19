@@ -11,6 +11,7 @@ updated: 2026-05-10
 sources:
   - Grey-Wilson, C. (1988). The Genus Cyclamen. Kew Publishing, Royal Botanic Gardens.
   - Debussche, M. & Thompson, J.D. (2002). "Mediterranean Plant-Animal Interactions." In: Handbook of [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark green, often with a silvery or light green marbled pattern along the veins.
+---
 
 The leaf underside is typically purplish-red or green with reddish tones. Leaf petioles are 5 to 20 cm long, slightly grooved on the upper surface, and emerge from the center of the tuber.
 

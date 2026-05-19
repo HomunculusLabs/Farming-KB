@@ -7,6 +7,7 @@ tags:
   - ericaceae
   - superfood
   - [[psilocybin-north-america-pacific-northwest]], it is one of the most economically important wild-harvested berries globally.
+---
 
 Renowned for exceptionally high anthocyanin content (300–700 mg/100 g 
 fresh fruit), bilberry extracts are among the best-selling botanical supplements for visual function, cardiovascular health, and glycemic regulation. Unlike cultivated highbush blueberry (*V. corymbosum*), bilberry produces smaller, more intensely colored berries with significantly higher polyphenol concentrations.

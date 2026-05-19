@@ -13,6 +13,7 @@ updated: 2026-04-28
 sources:
   - Leafly Staff (2024). "Wedding Cake Strain Information." Leafly.com.
   - AllBud (2024). "Wedding Cake [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by Seed Junky Genetics in Southern California.
+---
 
 The strain won first place in the Hybrid category at the 2018 High Times Cannabis Cup in Santa Rosa, California.
 

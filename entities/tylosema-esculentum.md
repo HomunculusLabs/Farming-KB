@@ -4,6 +4,7 @@ type: species
 tags:
   - fabaceae
   - [[fukuoka-natural-farming-in-arid-regions]] of southern Africa.
+---
 
 It produces both large edible seeds comparable to peanuts and substantial underground tubers that serve as a carbohydrate and water reserve.
 

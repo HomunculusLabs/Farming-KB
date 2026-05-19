@@ -4,8 +4,6 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
----
-
 ## Composting and Soil Health
 
 ### Bio-Dynamic Farming and Gardening — Ehrenfried Pfeiffer

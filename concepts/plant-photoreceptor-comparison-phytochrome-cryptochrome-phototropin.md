@@ -13,6 +13,7 @@ approximately 660 nanometers; upon absorbing a red photon, it isomerizes into
 the active form, Pfr, which absorbs far-red light at approximately 730
 nanometers. Exposure to far-red light converts Pfr back to Pr. This reversible
 switch gives phytochrome the ability to function as a biological toggle.
+---
 
 The biological roles of phytochrome are extraordinarily diverse. In seeds, the
 Pr-to-Pfr conversion serves as a germination cue: many seeds will only sprout

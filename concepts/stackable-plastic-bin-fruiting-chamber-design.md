@@ -15,6 +15,7 @@ deliberately low-tech, cost-effective solution built from readily available
 materials. It prioritizes simplicity, space efficiency, and reliability over
 complex automated setups. The design centers on clear plastic bins with
 [[cannabis-breeding-traits-selection-criteria-clarke]]:
+---
 
 - **Transparent or translucent** walls for visual monitoring.
 - **Rigid enough** to support stacking without collapsing.

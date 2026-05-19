@@ -15,6 +15,7 @@ sources:
   - RHS (2024). "Mertensia virginica." Royal Horticultural Society Plant Finder.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern [[dmt-containing-plants-united-states-halpern]] and Adjacent Canada, 2nd ed. New York Botanical Garden.
   - Weakley, A.S. (2020). Flora of the Southeastern United States. University of [[polypore-fungi-eastern-north-america]] and is among the most recognizable wildflowers of eastern deciduous forests.
+---
 
 The plant produces nodding, trumpet-shaped flowers that emerge pink and mature to a distinctive porcelain blue. It forms large, showy colonies in floodplain forests and moist woodlands in early to mid-spring.
 

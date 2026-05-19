@@ -15,6 +15,7 @@ sources:
   - Roschek, B. et al. (2009). "Nettle extract (Urtica dioica) affects key receptors and enzymes associated with allergic rhinitis." Phytotherapy Research.
   - Wagner, H. et al. (1995). "Search for the antiprostatic principle of Urtica dioica roots." Phytomedicine.
   - Kavalali, G. (2003). "Urtica dioica ([[psilocybin-north-america-pacific-northwest]], and is widely naturalized across [[nutrient-dynamic-accumulator-reference]], its value as a companion plant, and its utility in producing nutrient-rich liquid fertilizers from biomass.
+---
 
 ## Taxonomy and Morphology
 

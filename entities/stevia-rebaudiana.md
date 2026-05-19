@@ -24,6 +24,7 @@ sources:
   - Carakostas, M.C. et al. (2008). "Overview: The History, Technical Function, and Safety of Rebiana." Food and Chemical Toxicology, 46, S1-S10.
   - Geuns, J.M.C. (2003). "Molecules of Interest: Stevioside." Phytochemistry, 64(5), 913-921.
   - https://www.fsai.ie/legislation/food_legislation/additives/sweeteners/steviol_glycosides.html---
+---
 
 ## Overview
 

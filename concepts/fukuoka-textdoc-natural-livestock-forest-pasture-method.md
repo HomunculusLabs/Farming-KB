@@ -3,6 +3,7 @@ title: Fukuoka Textdoc Natural Livestock Forest Pasture Method
 source: administrator-microsoft-word-fukuoka-textdoc.md
 author: [[cho-loess-powder-in-natural-farming]]
 as inefficient.
+---
 
 ## The Question of Efficiency
 

@@ -13,6 +13,7 @@ sources:
   - Farjon, A. (2017). "A Handbook of the World's Conifers." Brill.
   - Issli, H. (1937). "Abies alba." In: Hegi, G., "Illustrierte Flora von Mitteleuropa."
   - Bastien, J.C., et al. (2013). "[[dighton-fungal-drought-tolerance-plant-water-relations]] relative to Norway spruce.
+---
 
 ## Taxonomy and Morphology
 

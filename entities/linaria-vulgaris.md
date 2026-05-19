@@ -19,6 +19,7 @@ sources:
 and other [[cordyceps-cancer-bioactive-compounds]], including
 iridoid glycosides (particularly picroside I and antirrhinoside) and
 flavonoid glycosides, which contribute to both its [[hamilton-clearing-uncultivated-ground]].
+---
 
 Like Antirrhinum, Linaria was traditionally placed in Scrophulariaceae but
 was reclassified to Plantaginaceae based on molecular phylogenetics. The

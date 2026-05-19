@@ -19,6 +19,7 @@ sources:
 pores. The name derives from Greek: gaster meaning stomach and mycetes
 meaning fungi. This group has evolved an extraordinary circus of spore
 dispersal strategies that rival the inventiveness of flowering plants.
+---
 
 ## What Defines a Gasteromycete
 

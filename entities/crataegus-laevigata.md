@@ -15,6 +15,7 @@ sources:
   - European Medicines Agency (2015). "Assessment report on Crataegus spp., folium cum flore." EMA/HMPC/562048/2009.
   - Chang, Q. et al. (2002). "Hawthorn." Journal of Ethnopharmacology, 79(3), 365–378.
   - Bean, W.J. (1976). "[[query-how-do-i-grow-and-use-edible-flowers-in-my-garden]].
+---
 
 Its flavonoid-rich fruits have a long history of use in European [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] and develops shallow fissures with age.
 

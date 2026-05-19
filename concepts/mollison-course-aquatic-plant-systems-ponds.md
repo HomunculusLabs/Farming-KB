@@ -6,6 +6,7 @@ four feet down. This is a poplar spot or a willow spot. Some swamp trees
 produce the most durable woods in the world, and some of them are the
 lightest woods in the world. They hold water in the stems. A lot of them
 have air cells throughout their stems and root systems.
+---
 
 Other important aquatic plants include the arrowheads and duck potatoes,
 an important wildfowl food. The duck potato has at least 80 species and a

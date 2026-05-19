@@ -21,6 +21,7 @@ updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - Green, J. (2003). "The [[query-how-does-no-till-cannabis-cultivation-work]]. Originally developed in the United States during the 1980s from Afghani genetics, it was stabilized and popularized by Sensi Seeds of the Netherlands.
+---
 
 The strain earned its name from its massive, dense colas that can reach extraordinary sizes under optimal growing conditions. It remains a staple for commercial growers seeking maximum output and has served as a genetic parent for numerous high-yielding [[cervantes-breeding-program-design-goal-setting]].
 

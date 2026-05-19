@@ -14,6 +14,7 @@ sources:
   - Paniagua, C. et al. (2017). "Phylogeny and Evolution of Carnivorous Plants." Botanical Journal of the Linnean Society 184(4): 551–572.
   - Fleischmann, A. et al. (2010). "[[mollison-climate-zones-permaculture-strategies]]. Recent genomic evidence suggests its carnivorous habit evolved
 independently from other Droseraceae.
+---
 
 ## Taxonomy and Morphology
 

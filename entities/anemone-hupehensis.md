@@ -12,6 +12,7 @@ updated: 2026-05-10
 sources:
   - RHS (2023). "Anemone hupehensis — Plant Finder." rhs.org.uk.
   - Ley, L. (2005). "Anemone to Zinnia: Growing [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, valued for reliability, shade tolerance, and long bloom period.
+---
 
 Several hybrid cultivars derived from Anemone hupehensis and its close relative A. hybrida dominate the [[ground-cover-plants]] but requires management in smaller garden spaces.
 

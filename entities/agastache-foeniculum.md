@@ -10,6 +10,7 @@ tags:
   - [[psilocybin-north-america-pacific-northwest]]. It is widely recognized for its aromatic,
 anise-scented foliage and its exceptional value as a pollinator plant,
 attracting bees, butterflies, and hummingbirds in large numbers.
+---
 
 The species has a long history of use among Indigenous peoples of the Great
 Plains for medicinal purposes, including treatment of coughs, fevers, and

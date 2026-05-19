@@ -1,6 +1,5 @@
 ---
 
----
 ## Natural Orchard Development
 
 updated: 2026-04-18

@@ -16,6 +16,7 @@ sources:
   - Bhandari, P.R. (2012). "Curry leaf (Murraya koenigii) — a multipurpose green leafy vegetable." International Journal of Pharmaceutical Sciences and Research, 3(4), 1035.
   - Tachibana, Y. et al. (2001). "Aqueous extracts of curry leaf (Murraya koenigii) and fenugreek (Trigonella foenum-graecum) as antioxidants." Food Science and Technology Research, 7(2), 151-155.
   - Samanta, A.K. et al. (2018). "A comprehensive review on curry leaf (Murraya koenigii) and its metzner-ayahuasca-therapeutic-potential." Journal of Applied Pharmaceutical Science, 8(10), 146-157.---
+---
 
 ## Overview
 

@@ -15,6 +15,7 @@ sources:
   - Mogea, J.P., Gandawidjaja, D., Woltmann, B., & Dransfield, J. (2001). "A Guide to the Utilization of the Sugar Palm (Arenga pinnata)." CIFOR.
   - Sanyal, S.N. (1980). "The Palms of India." Oxford & IBH Publishing.
   - Elevitch, C.R. & Manner, H.I. (2006). "Arenga pinnata (sugar palm), ver. 2.1." In "Species Profiles for Pacific Island [[psilocybe-southeast-asia-pacific]]. It is one of the most economically important palms in its native range, valued primarily for the production of palm sugar and palm wine (toddy).
+---
 
 The species has been cultivated for centuries across island Southeast Asia and is deeply embedded in traditional agrarian economies. Its versatility as a source of food, fiber, and construction material has earned it the designation of a "multi-purpose tree" in agroforestry systems.
 

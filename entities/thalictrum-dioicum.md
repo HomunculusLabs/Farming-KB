@@ -16,6 +16,7 @@ sources:
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States. 2nd ed. New York Botanical Garden.
   - Kaplan, S.M. & Mulcahy, D.L. (1971). "Mode of pollination in Thalictrum." Evolution, 25(3): 536-540.
   - Coffey, T.B. (1993). The History and Folklore of [[polypore-fungi-eastern-north-america]], where it grows in rich deciduous woodlands and moist slopes. The species is notable for its delicate, columbine-like foliage and wind-pollinated flowers.
+---
 
 Unlike many Ranunculaceae, Thalictrum dioicum is dioecious, with separate male and female plants. The male flowers are showier, with dangling yellow stamens, while female flowers are more subtle with greenish pistils.
 

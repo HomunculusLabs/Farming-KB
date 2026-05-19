@@ -13,6 +13,7 @@ to detect environmental stimuli. The book examines what plants sense --
 light,
 smell, taste, hearing, touch, proprioception, and memory -- challenging
 anthropocentric views of sensory experience.
+---
 
 ## What Plants See
 

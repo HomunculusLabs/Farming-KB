@@ -15,6 +15,7 @@ sources:
   - Singh, G. et al. (2010). "Curcuma amada: phytochemistry, pharmacology, and applications." Pharmacognosy Reviews 4(8): 170-177.
   - Joshi, R.K. et al. (2014). "Chemical composition and antimicrobial activity of Curcuma amada rhizome permaculture-designers-manual-essential-oil-plants." Natural Product Communications 9(4): 501-504.
   - Gupta, S.C. et al. (2013). "Curcuminoids from Curcuma species." [[psilocybe-southeast-asia-pacific]].
+---
 
 The species is native to the Indian subcontinent and has been used in Ayurvedic
 medicine for centuries, primarily for digestive and [[curcuma-longa]]) but is distinguished by its

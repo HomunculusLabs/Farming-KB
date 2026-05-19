@@ -16,6 +16,7 @@ sources:
   - "Morris, H. & Wallach, J. (2014). \"From [[pcp]] to MXE.\" Drug Science, Policy and Law, 1, 1–17."
   - "Wallach, J. et al. (2019). \"The pharmacology of dissociative anesthetics.\" In Pharmacology of LSD. Springer."
   - "EMCDDA. (2024). EU Early Warning System: New [[ketamine]] by removal of the chloro substituent on the phenyl ring.
+---
 
 It functions primarily as an NMDA receptor antagonist, producing dissociative, analgesic, and hallucinogenic effects similar to ketamine but with distinct pharmacokinetic and subjective properties.
 

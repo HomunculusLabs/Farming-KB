@@ -7,6 +7,7 @@ water-damaged buildings, although none of these genera produce the same
 potent trichothecene toxins. Even when Stachybotrys chartarum is
 identified in a home, this does not signify imminent doom, because only
 a subset of strains within the species actually produce trichothecenes.
+---
 
 The distinctive appearance of Stachybotrys conidiophores (spore-bearing
 stalks) and conidia under the microscope allows definitive

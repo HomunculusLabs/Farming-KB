@@ -17,6 +17,7 @@ sources:
   - "Schardl, C.L. et al. (2006). \"Ergot Alkaloids—Biology and Molecular Biology.\" Alkaloids: Chemistry and Biology, 63, 45–86."
   - "Pertz, H.H. & Eich, E. (1999). \"Ergot Alkaloids and Their Derivatives as Ligands for [[bloomfield-ergot-claviceps-purpurea-ergotism]]* ([[claviceps-purpurea]]* through the
 ergot alkaloid pathway:
+---
 
 1. **Prenylation of L-tryptophan** by dimethylallyltryptophan synthase
    (DMATS) to form 4-dimethylallyl-L-tryptophan.

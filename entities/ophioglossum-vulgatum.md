@@ -13,6 +13,7 @@ sources:
   - Page, C. N. (1997). "Ferns: British and European." HarperCollins.
   - Preston, C. D., Pearman, D. A. & Dines, T. D. (2002). "New Atlas of the British and Irish Flora." Oxford University Press.
   - Wagner, W. H. & Wagner, F. S. (1993). "Ophioglossaceae." In Flora [[guzman-psilocybin-mushrooms-north-america]]. It grows in damp meadows, pastures, and open woodlands on neutral to slightly acidic soils.
+---
 
 The genus Ophioglossum is remarkable for having the highest chromosome count of any known organism, with some species exceeding 2n = 1,400. Ophioglossum vulgatum itself has 2n = 240–480, varying by population.
 

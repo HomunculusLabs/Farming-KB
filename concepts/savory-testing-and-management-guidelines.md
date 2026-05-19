@@ -10,6 +10,7 @@ fails to pass any test, it is not ruled out automatically, as there may
 be no alternative at that moment. However, applying a tool known to
 fail means the manager will ultimately fail to reach their goal unless
 a better way is found.
+---
 
 Although this testing process is thorough and better than anything
 previously available, it is far from foolproof. To account for human

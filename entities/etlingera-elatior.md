@@ -14,6 +14,7 @@ sources:
   - Lim, T.K. (2015). "Edible Medicinal and Non-Medicinal Plants." Springer, Volume 9.
   - Ong, H.C. & Norzalina, I. (2009). "wasted-human-resources-and-traditional-knowledge of the usage of Etlingera elatior among Malay community in Peninsular Malaysia." Ethnobotanical Leaflets, 13, 1042–1051.
   - Sirirugsa, P. (1999). "Thai Zingiberaceae: Species diversity and their uses." International Conference on Biodiversity and Bioresources Conservation.---
+---
 
 ## Etlingera elatior
 

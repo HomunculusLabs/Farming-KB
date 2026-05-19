@@ -11,6 +11,7 @@ methods. He documented his findings in *Waterwise Vegetables* (now out
 of print). The technique was standard practice before pressurized water
 systems and remains viable in any climate with a reliably wet season,
 including Mediterranean, continental, and maritime climates.
+---
 
 ## Core Principle
 

@@ -18,6 +18,7 @@ sources:
 a microscopic filamentous **conchocelis phase** (living within calcium carbonate
 substrate such as shells) and a macroscopic leafy **gametophyte phase** (the
 harvested nori blade). This complex [[psilocybin-potency-variation-species-strain-growth-conditions]], and desiccation state.
+---
 
 The blade is attached to substrate by a small basal holdfast and expands
 through marginal cell division. This pattern produces the characteristic

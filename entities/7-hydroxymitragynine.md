@@ -9,6 +9,7 @@ sources:
   - "Takayama, H. et al. (2002). \"7-Hydroxymitragynine, an aminopropyl-silica-gel-chromatography-indole-alkaloid-purification derived from kratom-mitragyna-speciosa-pharmacology.\" Organic Letters, 4(18), 3149-3151."
   - "Matsumoto, K. et al. (2004). \"Isolation of 7-hydroxymitragynine from Thai kratom.\" Bioorganic & Medicinal Chemistry Letters, 14(7), 1649-1651."
   - "Kruegel, A.C. et al. (2016). \"[[indole]] alkaloid and the primary active metabolite of mitragynine, the most abundant alkaloid in kratom (*[[kratom-mitragyna-speciosa-pharmacology]]*). First isolated and characterized in 2002 by Takayama and colleagues from Thai kratom leaves, 7-OH is recognized as the most potent opioid receptor agonist naturally occurring in the kratom plant. Despite constituting only a trace fraction of the raw leaf alkaloid profile, 7-OH is formed in vivo through hepatic metabolism and is believed to be largely responsible for the pronounced analgesic effects attributed to kratom consumption. Its unique pharmacological profile — combining high MOR affinity with G-protein biased signaling — has made it a focal point of research into next-generation analgesics with improved safety margins. Simultaneously, its high potency has drawn regulatory scrutiny as a compound of public health concern.
+---
 
 ## Chemical Identity
 

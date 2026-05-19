@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Richens, A. & Matheson, P. (1978). "Primula species: A monograph of the genus Primula." Journal of the Linnean Society of Botany.
   - Chevallier, A. (2016). "Encyclopedia of [[cannabis-for-skin-conditions-detailed]].
+---
 
 Cowslip is easily recognized by its umbel of nodding, fragrant yellow flowers. It is a classic indicator species of species-rich old meadows and unimproved pastures.
 

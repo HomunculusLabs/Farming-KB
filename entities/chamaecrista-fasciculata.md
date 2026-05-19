@@ -19,6 +19,7 @@ sources:
   - https://www.wildflower.org/plants/result.php?id_plant=CAFA2
   - USDA NRCS Plant Guide (2024)
   - E. L. Little, Jr., Atlas of [[psilocybin-north-america-pacific-northwest]]. It is highly valued in permaculture, [[tompkins-mimosa-pudica-sensitive-plant-experiments]]*.
+---
 
 ## Description
 

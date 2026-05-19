@@ -18,6 +18,7 @@ sources:
 broken down into three basic phases: a trigger event, the reaction, and
 the reward phase. This framework applies equally to minor habits like
 foot-tapping and severe addictions.
+---
 
 The mind-body medicine approach to habit transformation focuses on
 creating awareness about the trigger phase, replacing choices in the

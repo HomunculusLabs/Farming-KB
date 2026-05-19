@@ -11,6 +11,7 @@ that distinguishes it from potentially dangerous lookalikes. The species
 is also relevant to permaculture systems as an indicator of healthy,
 undisturbed [[rolf-singer]]
 in 1938 based on [[comparison-spore-print-collection-vs-spore-syringe-production]] | White to pale cream |
+---
 
 ### Microscopic Features
 

@@ -16,6 +16,7 @@ sources:
   - Isely, D. (1990). Vascular Flora of the Eastern United States, Vol. 3, Part 2. New York Botanical Garden Press.
   - USDA NRCS (2024). "Plant Guide: Roundhead lespedeza." USDA Natural Resources Conservation Service.
   - Millar, B.D. & Baden, C. (2015). "Lespedeza." In: Flora [[comparison-prairie-restoration-vs-silvopasture]], and [[cannabis-controlled-pollination-seed-production]].
+---
 
 Roundhead lespedeza provides excellent forage for deer, rabbits, and upland game birds, and serves as a host plant for several butterfly species.
 

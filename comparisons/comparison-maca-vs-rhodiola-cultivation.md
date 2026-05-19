@@ -14,6 +14,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - Gonzales GF et al. "Maca (lepidium-meyenii-entity Walp.), a nutritious Andean crop." Natural Product Communications, 2019.
   - Panossian A, Wikman G. "Evidence-based efficacy of [[chiric-caspi-brunfelsia-south-american-hallucinogen]] herbs cat's claw (uncaria-tomentosa) and maca ([[fukuoka-natural-farming-temperate-climates]], maca must be planted in late summer or autumn, overwintered as a rosette, and harvested the following summer. It is not viable as a warm-season crop.
+---
 
 **Rhodiola** evolved in arctic and alpine environments across the Northern Hemisphere. While similarly cold-tolerant, it tolerates a wider range of summer temperatures than maca, performing well from near-freezing to approximately 25°C. It requires a dormancy period (vernalization) for optimal root development and compound accumulation. Unlike maca, rhodiola is perennial and survives freezing temperatures indefinitely, making it far easier to grow as a multi-year crop in cold climates.
 

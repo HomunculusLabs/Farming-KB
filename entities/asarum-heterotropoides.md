@@ -13,6 +13,7 @@ sources:
   - "Li, B. et al. (2006). Asarum (Aristolochiaceae). Flora of China, 5, 270-278."
   - "Sugawara, T. et al. (2004). Phylogeny and biogeography of East Asian Asarum. Journal of Plant Research, 117(5), 365-375."
   - "Zhang, X. et al. (2015). [[dmt-botanical-sources-pharmacology]] of the traditional Chinese medicine (TCM) drug *Xi Xin* (细辛).
+---
 
 It is a shade-loving forest floor plant with distinctive kidney-shaped leaves and inconspicuous brownish-purple flowers borne at ground level. The aromatic roots have been used in Chinese, Japanese, and Korean traditional medicine for over two millennia.
 

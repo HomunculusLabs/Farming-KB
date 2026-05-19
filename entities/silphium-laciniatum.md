@@ -18,6 +18,7 @@ Named for its distinctive north-south oriented basal leaves that track
 the sun, it is a deep-rooted, long-lived species reaching heights of
 2–3.5 meters. The compass plant is valued in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], and ethnobotanical traditions for its resinous
 medicinal gum, [[dighton-fungal-drought-tolerance-plant-water-relations]].
+---
 
 ## Taxonomy
 

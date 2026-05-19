@@ -16,6 +16,7 @@ sources:
   - Cavanagh, H.M.A. & Wilkinson, J.M. (2002). "Biological activities of lavender permaculture-designers-manual-essential-oil-plants." Phytotherapy Research.
   - European Medicines Agency (2013). "Assessment report on Lavandula angustifolia Mill." EMA/HMPC/5892/2009.
   - Prashar, A. et al. (2004). "Chemical composition of [[cannabis-honey-oil-production]].
+---
 
 Lavender essential oil is among the top-selling [[psilocybin-north-america-pacific-northwest]], and parts of Australia.
 

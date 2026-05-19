@@ -25,6 +25,7 @@ sources:
   - Foster, S. & Duke, J.A. (2014). "Peterson [[polypore-fungi-eastern-north-america]] America and the sole
 [[halpern-sacramental-peyote-and-native-american-church]] medicine, culinary
 traditions, and commercial flavoring.
+---
 
 The species is easily identified by its distinctive leaves, which occur in three shapes
 on the same tree: unlobed oval, two-lobed mitten-shaped, and three-lobed. This

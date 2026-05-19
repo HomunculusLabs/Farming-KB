@@ -24,6 +24,7 @@ updated: 2026-04-28
 sources:
   - López-Arnau, R. et al. (2012). "3,4-Methylenedioxymethcathinone (Methylone): Pharmacology." Current Neuropharmacology 10(3): 279–285.
   - Baumann, M.H. et al. (2012). "Methylone and [[serotonin]] transporter affinity.
+---
 
 ## Pharmacology
 

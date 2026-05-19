@@ -15,6 +15,7 @@ sources:
   - "Rauwald, H.W. et al. (1991). \"Tannins and related polyphenols from Hamamelis bark.\" Planta Medica, 57(2), 154-158."
   - "Foster, S. & Duke, J.A. (2014). Peterson [[polypore-fungi-eastern-north-america]] America and the sole
 [[childrens-herbal-medicine]].
+---
 
 ## Taxonomy
 

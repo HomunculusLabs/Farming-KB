@@ -3,6 +3,7 @@ title: Psilocybe Weldenii Tropical American Neurotropic Species Guzman 1998
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 author: Gastón Guzmán, J.W. Allen, J. Gartz
 topics: mycology, taxonomy, psilocybe, mexico, veracruz, [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] zone of the Gulf Coast of Mexico.
+---
 
 ### Biogeographic Context
 

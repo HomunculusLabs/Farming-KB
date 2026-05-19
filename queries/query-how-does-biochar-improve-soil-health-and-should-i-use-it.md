@@ -1,6 +1,5 @@
 ---
 
----
 ## How Does Biochar Improve Soil Health and Should I Use It?
 
 ## Short Answer
@@ -78,3 +77,5 @@ Successful implementation requires attention to multiple interacting factors. En
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
 This question remains an active area of investigation and practical experimentation.
+
+Consider your specific soil type, crop needs, and local biochar availability when deciding whether to incorporate biochar into your growing system.

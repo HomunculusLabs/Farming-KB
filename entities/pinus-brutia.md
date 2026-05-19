@@ -13,6 +13,7 @@ sources:
   - Boydak, M. (2006). "Silviculture of Pinus brutia." In: Proceedings of the International Conference on Pinus brutia, Antalya, Turkey.
   - Panetsos, K.P. (1981). "Monograph of Pinus brutia." Institute of Forest Genetics, Volos, Greece.
   - Korakis, G. (2000). "[[knf-seed-diversity-and-conservation]]." In: Biodiversity in [[mollison-specialist-tropical-crops-forest-products]] across its range.
+---
 
 It also plays a critical role in [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] on steep Mediterranean hillsides.
 

@@ -14,6 +14,7 @@ sources:
   - USDA NRCS (2024). "Plant Profile: Nyssa ogeche." plants.usda.gov.
   - Ayers, G.S. & Harman, J.R. (1992). "Beekeeping in the United States." USDA Agricultural Handbook.
   - Godfrey, R.K. & Wooten, J.W. (1981). "[[growing-gourmet-north-american-reishi-species]] species are commonly called tupelos or sour gums.
+---
 
 The tree typically grows 9 to 15 meters tall with a narrow, conical crown. The trunk is straight and can reach 50 to 60 centimeters in diameter at maturity.
 

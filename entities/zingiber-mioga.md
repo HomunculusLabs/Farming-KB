@@ -14,6 +14,7 @@ sources:
   - "Kumar, A. et al. (2013). \"Zingiber mioga: A review of its botany, ethnobotany, pharmacology and phytochemistry.\" Journal of Pharmacy Research, 7(1), 44-49."
   - "Itokawa, H. et al. (1987). \"Antitumor principles from Zingiber mioga.\" Chemical & Pharmaceutical Bulletin, 35(8), 3304-3308."
   - "Matsumoto, K. et al. (2016). \"[[coleman-cold-hardiness-testing-ratings]] distinguishes it from most tropical Zingiber species and allows cultivation in [[dmt-containing-plants-united-states-halpern]], established populations occur in the [[cannabis-harvest-timing-visual-cues]]. Key cultivars include:
+---
 
 - **'Daruma'** — A high-yielding standard variety with large flower buds. Most widely grown commercially in Japan.
 - **'Ichiban'** — An early-flowering cultivar, producing buds 2–3 weeks ahead of standard types. Commands premium market prices.

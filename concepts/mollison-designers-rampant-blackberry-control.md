@@ -10,6 +10,7 @@ to be eradicated with chemicals but a plant that can be managed,
 confined, and even productively integrated into farm and garden
 systems using biological and mechanical strategies that avoid
 dangerous herbicides.
+---
 
 ## Blackberry as Both Problem and Resource
 

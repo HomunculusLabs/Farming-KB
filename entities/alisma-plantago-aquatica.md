@@ -12,6 +12,7 @@ updated: 2026-05-08
 sources:
   - Lin, L. et al. (2005). "Alisma orientale." In: Chinese herbal-materia-medica, Vol. 6. Shanghai Scientific and Technical Publishers.
   - Zhang, J.D. et al. (2012). "[[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]] in Europe, Asia, and North Africa.
+---
 
 The species is recognized by its distinctive basal rosette of elliptical leaves and tall, branching inflorescences bearing numerous small white to pale pink flowers. It is one of the most widely distributed aquatic monocots.
 

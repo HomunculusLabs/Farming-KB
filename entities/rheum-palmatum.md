@@ -27,6 +27,7 @@ sources:
     Chemistry, and Pharmacology." Journal of Ethnopharmacology.
   - Li, T.K. (1974). "An Introduction to Chinese [[holzer-medicinal-and-culinary-herbs-compendium]]
 - [[permaculture-plants-edible-perennials-understory]]
+---
 ## Practical Considerations
 
 When working with rheum palmatum, several practical factors should be

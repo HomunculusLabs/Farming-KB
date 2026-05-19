@@ -12,6 +12,7 @@ updated: 2026-05-08
 sources:
   - Shurtleff, M.C. (1980). "Compendium of Corn Diseases." 2nd ed. American Phytopathological Society.
   - Ranum, P. et al. (2014). "Nutritional impact of diversified maize-based foods." Journal of [[holzer-climate-zone-microclimate-creation]] from the tropics to [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]], industrial raw material, and increasingly as a biofuel feedstock.
+---
 
 ## Taxonomy and Morphology
 

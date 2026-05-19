@@ -1,6 +1,5 @@
 ---
 
----
 ## Fukuoka Critique of Modern Agriculture
 
 Masanobu Fukuoka's critique of modern agriculture is one of the most thorough and penetrating in the literature of natural farming. Drawing on thirty to forty years of direct farming experience and a career as a plant pathologist, he systematically dismantles the assumptions underlying scientific agriculture. His approach is grounded in the fukuoka-one-straw-revolution-impact.

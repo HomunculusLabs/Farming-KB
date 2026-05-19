@@ -22,6 +22,7 @@ updated: 2026-04-28
 sources:
   - Keshavarzi, M. et al. (2019). "A review on phytochemistry and pharmacological effects of elaeagnus-angustifolia." J Pharmacy & Bioallied Sciences, 11(4), 388-393.
   - Balandari, A. et al. (2020). "Nutritional and [[psilocybin-north-america-pacific-northwest]] where it is invasive in western riparian zones.
+---
 
 In permaculture, Russian olive is valued for **actinorhizal [[dighton-fungal-drought-tolerance-plant-water-relations]], windbreak utility, and edible fruit. The
 silvery berries are rich in vitamins, antioxidants, and [[guzman-psilocybin-mushrooms-north-america]] (Great Plains to Pacific

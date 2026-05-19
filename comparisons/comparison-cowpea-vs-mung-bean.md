@@ -4,6 +4,7 @@ subtitle: Comparing two warm-season [[vigna-radiata]]*) are two warm-season grai
 | **Domestication** | ~5,000–7,000 years ago | ~4,000–4,500 years ago |
 | **Primary Gene Pool** | Sub-Saharan Africa | Indian subcontinent |
 | **Wild Progenitor** | *V. unguiculata* ssp. *dekindtiana* | *V. radiata* var. *sublobata* |
+---
 
 Both species belong to the *Vigna* genus (subgenus *Ceratotropis*), which is distinct from [[legume-nitrogen-fixation-mechanism]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also

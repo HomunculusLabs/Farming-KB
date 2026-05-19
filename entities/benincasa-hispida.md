@@ -16,6 +16,7 @@ sources:
   - Morton JF (1971). "The Wax Gourd, Benincasa hispida." Proceedings of the Florida State Horticultural Society, 84, 120-125.
   - Acharya D et al. (2006). "Some wild edible plants of Sikkim." Natural Product Radiance, 5(5), 398-404.
   - Grover JK, Yadav SP (2004). "Pharmacological actions and potential uses of [[neurotropic-fungi-japan-east-asia-species-cultural-context]], valued both as a culinary staple and in traditional medicine systems including Ayurveda and Traditional Chinese Medicine.
+---
 
 The mature fruit develops a characteristic waxy coating that provides exceptional post-harvest storage life, often lasting several months at ambient temperatures without refrigeration.
 

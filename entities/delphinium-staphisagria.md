@@ -14,6 +14,7 @@ sources:
   - Tutin, T.G. (1964). "Delphinium." Flora Europaea, Vol. 1. Cambridge University Press.
   - Mshvildadze, V. et al. (2004). "Diterpenoid alkaloids from Delphinium staphisagria." Phytochemistry, 65(15), 2193-2200.
   - Pelletier, S.W. & Djarmati, Z. (1976). "Alkaloids of Delphinium staphisagria." Journal of [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
+---
 
 Some taxonomists segregate the annual and biennial Consolida species from Delphinium, but molecular evidence supports retaining them within a broadly defined Delphinium. Delphinium staphisagria falls within the core Delphinium clade.
 

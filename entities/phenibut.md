@@ -18,6 +18,7 @@ itself. The phenyl group provides lipophilicity, enabling central nervous
 for anxiety, insomnia, and post-traumatic stress disorder. In the West, it
 exists in a regulatory gray area as an unapproved dietary supplement sold
 through online vendors.
+---
 
 ## Chemical Identity
 

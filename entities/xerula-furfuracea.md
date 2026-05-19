@@ -13,6 +13,7 @@ sources:
   - Redhead, S.A. et al. (1987). "Xerula and related genera." Mycotaxon, 28, 501-519.
   - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
   - Arnolds, E. (2005). "The conservation of Xerula species in Europe." Czech [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of [[guzman-psilocybin-mushrooms-north-america]], it occurs from eastern Canada to the southeastern [[dmt-containing-plants-united-states-halpern]], with scattered reports from the Pacific Northwest.
+---
 
 The species fruits from late spring through autumn, typically appearing after sustained rainfall.
 

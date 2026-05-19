@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [[bill-mollison]],
 Section 8.18 (pp. 218-222)
+---
 
 ## The Problem of Compacted Soils
 The great plains of the world are in many places once-fertile

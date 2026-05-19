@@ -14,6 +14,7 @@ sources:
   - Adamec, L. (1999). "Functional Characteristics of Traps of Aquatic Carnivorous Utricularia and Aldrovanda." Annals of Botany 84(2): 127–136.
   - Plachno, B.J. et al. (2006). "Architecture of the Digestive Glands in Aldrovanda vesiculosa." Annals of Botany 98(2): 281–288.
   - Krízsik, V. et al. (2021). "[[dionaea-muscipula]]*) and the sundews (*Drosera*).
+---
 
 The plant consists of a stem 5–20 cm long with whorls of 6–8 leaves at each
 node. Each leaf terminates in a snap-trap mechanism that closely resembles a

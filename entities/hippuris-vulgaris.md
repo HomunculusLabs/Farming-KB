@@ -13,6 +13,7 @@ sources:
   - Cook, C.D.K. (1990). Aquatic Plant Book. SPB Academic Publishing, The Hague.
   - Barrat-Segretain, M.H. (1996). "Strategies of reproduction, clonal growth and habitat selection in the aquatic macrophyte Hippuris vulgaris L." Oecologia, 107(3), 357-362.
   - Weih, M. & Rönberg-Wästljung, A.C. (2007). "Shoot morphology affects [[neurotropic-fungi-endemic-species-and-restricted-ranges-guzman-1998]] in western North America and Patagonia respectively. Some authorities consider these as subspecies of a single polymorphic species.
+---
 
 The plant grows from a creeping rhizome anchored in the substrate. Erect stems are 10–60 cm tall, simple, and unbranched under normal conditions. Stems are slender, 1–3 mm in diameter, and slightly angular.
 

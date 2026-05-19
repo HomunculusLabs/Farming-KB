@@ -8,6 +8,7 @@ the upturned cap signal sporulation is underway. Purple spore deposits on
 surfaces below provide definitive evidence of active spore release.
 Cultivators must balance maximum spore production (full maturity) against
 optimal potency (peaking earlier in the fruiting cycle).
+---
 
 ## Spore Printing Equipment
 

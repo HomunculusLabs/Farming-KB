@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Stein, J. (2017). "Native Trees of the Midwest." Indiana University Press.
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[quercus-macrocarpa]] (bur oak), occurs naturally where ranges overlap. These inter-specific crosses can complicate [[bolete-fungi-appalachian-region]].
+---
 
 It is often found in mixed hardwood stands alongside green ash, silver maple, pin oak, and American elm.
 

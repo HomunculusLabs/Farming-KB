@@ -2,6 +2,7 @@
 title: Natural Farming Soil Ecology
 aliases:
   - soil ecology [[natural-farming-rice-barley-clover-method]] Soil Ecology
+---
 
 Masanobu [[fukuoka-natural-farming-method]]. Rather than treating soil as an inert substrate requiring human
 management through tilling, fertilizing, and amending, Fukuoka demonstrated that soil

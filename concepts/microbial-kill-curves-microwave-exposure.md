@@ -1,3 +1,9 @@
+---
+title: "Microbial Kill Curves Microwave Exposure"
+tags: []
+sources: []
+---
+
 
 ## Microbial Kill Curves — Microwave Exposure
 

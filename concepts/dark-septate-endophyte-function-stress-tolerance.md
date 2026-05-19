@@ -14,6 +14,7 @@ sources:
   - Mandyam K, Jumpponen A (2005). "Seeking the elusive function of the root-colonising dark septate endophytic fungi." Studies in Mycology, 53, 173-189.
   - Addy HD, Piercey MM, Currah RS (2005). "Microfungal endophytes in roots." Canadian Journal of Botany, 83(1), 1-13.
   - Knapp DG, Pintado A, Santos PM (2018). "Dual colonization of plants by arbuscular-mycorrhizal-fungi and dark septate endophytes." In Mycorrhizal Fungi, Springer.---
+---
 
 ## Dark Septate Endophyte Function in Plant Stress Tolerance
 

@@ -15,6 +15,7 @@ sources:
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. I.
   - Chen, Y. et al. (2018). "Iridoid glycosides from Gentiana siphonantha and their anti-inflammatory activity." Natural Product Research, 32(15): 1812–1818.
   - Zhang, X.P. et al. (2021). "[[gentiana-macrophylla]] group.
+---
 
 It is one of several species known as "Qin Jiao" in traditional Chinese medicine, valued for the iridoid glycoside content of its roots. The plant grows in harsh alpine conditions at elevations ranging from 3,000 to 4,800 meters.
 

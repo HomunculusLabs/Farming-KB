@@ -14,6 +14,7 @@ sources:
   - Johnson, P.S., Shifley, S.R. & Rogers, R. (2009). "The Ecology and Silviculture of Oaks." CABI Publishing.
   - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agriculture Handbook.
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[mycofiltration-watershed-protection]] and soil stabilization on dry, erodible sites. The extensive root systems help prevent erosion on steep, sandy slopes.
+---
 
 ## Uses and Cultural Significance
 

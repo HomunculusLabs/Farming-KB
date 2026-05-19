@@ -13,6 +13,7 @@ sources:
   - "AllBud Strain Information." https://www.allbud.com/marijuana-strains/hybrid/jedi-kush
   - Smart, R. et al. (2010). "Cannabinoid and cannabis-terpene-profiles-sativa of Popular [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing
 **SFV OG Kush** with **Death Star**. Bred by the California-based [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] varieties:
+---
 
 - **SFV OG Kush** (pollen parent): An indica-dominant phenotype of OG Kush
   originating from California's San Fernando Valley. Provides the foundational

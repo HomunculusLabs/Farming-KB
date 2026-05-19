@@ -26,6 +26,7 @@ sources:
   - Taber, W.A., Heacock, R.A. (1962). "[[ipomoea-tricolor]]*, *I. violacea*, *[[albert-hofmann]] first isolated ergine from *[[rivea-corymbosa]]*
 seeds in 1960, confirming these plants as the botanical source of the
 Aztec entheogen *ololiuqui*.
+---
 
 Ergine is a structural analog of LSD, with an amide group in place of
 LSD's diethylamide substituent. It is approximately 10–30 times less

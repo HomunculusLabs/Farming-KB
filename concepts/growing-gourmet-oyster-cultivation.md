@@ -14,6 +14,7 @@ sources:
 - Coffee residues (grounds, hulls, stalks, leaves)
 - Banana fronds, cottonseed hulls, agave waste, soy pulp
 - Paper and cardboard products
+---
 
 This extraordinary substrate range makes Oyster mushrooms ideal for waste-recycling cultivation systems.
 

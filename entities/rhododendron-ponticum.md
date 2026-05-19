@@ -15,6 +15,7 @@ sources:
   - Milne, R.I. & Abbott, R.J. (2000). "Origin and evolution of invasive naturalized material of Rhododendron ponticum L. in the British Isles." Molecular Ecology, 9(5), 541-556.
   - Rotherham, I.D. (2005). "Invasive plants: ecology, history, and policy." In: Rotherham, I.D. (ed.), Invasive Species and the British Landscape. packard Publishing.
   - Stout, J.C. (2007). "Linking [[growing-gourmet-north-american-reishi-species]] species introduced for ornamental breeding).
+---
 
 **Leaves** are evergreen, broadly elliptic to oblanceolate, 10–20 cm long and 3–6 cm wide. The upper surface is dark green and glossy; the lower surface is pale green with a dense indumentum of scales.
 

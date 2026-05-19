@@ -10,6 +10,7 @@ sources:
   - https://pubchem.ncbi.nlm.nih.gov/compound/ibogaine
   - Alper, K.R. et al. (2001). "Ibogaine: A Review." The Journal of the American Board of Family Practice.
   - Samorini, G. (1995). "The plants-of-the-gods-tabernanthe-iboga."---
+---
 
 ## Iboga (Tabernanthe iboga)
 

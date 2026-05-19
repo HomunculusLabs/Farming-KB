@@ -14,6 +14,7 @@ sources:
   - Stace, C.A. (2019). "New Flora of the British Isles." 4th ed., C&M Floristics.
   - Tutin, T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
   - Pérez-García, F. et al. (2006). "[[calluna-vulgaris]]*), bilberry (*[[pteridium-aquilinum]]*). It is a common component of Atlantic heathland communities.
+---
 
 Elevational range extends from sea level to approximately 1,500 metres in mountainous areas of southern Europe. It is absent from the Mediterranean lowlands where summer drought is severe.
 

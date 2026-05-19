@@ -12,6 +12,7 @@ updated: 2026-05-10
 sources:
   - Lammers, T.G. (2007). "Campanulaceae." In The Families and Genera of Vascular Plants, Springer.
   - Lakusic, D. & Lakusic, R. (2007). "[[query-how-do-i-use-cover-crops-in-a-no-till-cannabis-garden]]s and alpine troughs.
+---
 
 Edraianthus is distinguished from the closely related Campanula by its funnel-shaped rather than bell-shaped corolla and its dense, tufted growth form adapted to harsh montane conditions.
 

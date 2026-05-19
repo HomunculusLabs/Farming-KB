@@ -9,6 +9,7 @@ and activates changes across the CNS, immune system, and ANS at once. Notably,
 changes in frame of mind — fear versus relaxation — similarly affect both the
 nervous and immune systems, demonstrating the deep link between psychology and
 physiology.
+---
 
 ## The Adrenal Glands and Their Hormones
 

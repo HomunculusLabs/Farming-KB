@@ -19,6 +19,7 @@ sources:
   - "Stickel, F. & Seitz, H.K. (2000). The efficacy and safety of comfrey. Public Health Nutrition, 3(4A), 501–508."
   - "Marschner, H. (2012). Mineral Nutrition of Higher Plants. 3rd Edition. Academic Press."
   - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens. chelsea-green-publishing."---
+---
 
 ## Symphytum officinale
 

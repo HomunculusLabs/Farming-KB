@@ -10,6 +10,7 @@ tags:
 the primary growing container. The approach is designed to be accessible to
 home cultivators, requiring relatively inexpensive equipment and readily
 available materials. The technique combines elements of [[mushroom-humidity-chamber-design-operation]].
+---
 
 ## Overview
 

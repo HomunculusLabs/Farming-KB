@@ -16,6 +16,7 @@ sources:
   - Chopra, R.N. et al. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
   - Uddin, M.K. et al. (2014). "Cyperus rotundus L.: Traditional uses, phytochemistry, and pharmacological activities." Asian Pacific Journal of Tropical Disease, 4(Suppl 2), S674-S682.
   - Husain, S.S. et al. (2005). Cyperus rotundus L.: A potential weed. In "Weed Management for [[copelandia-cyanescens-pantropical-distribution-and-ecology]] is found in tropical, subtropical, and warm [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
+---
 
 C. rotundus tolerates a wide range of soil types including sandy, loamy, and clay soils, from acidic to moderately alkaline pH.
 

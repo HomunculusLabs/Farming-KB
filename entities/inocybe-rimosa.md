@@ -10,6 +10,7 @@ tags:
 snuff-brown to tobacco-brown. Pleurocystidia are thin-walled, cylindrical
 to lageniform, often with a crystalline incrustation at the tip. Cheilocystidia
 are similar but more abundant.
+---
 
 ## Distribution and Habitat
 

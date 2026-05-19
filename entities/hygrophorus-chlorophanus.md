@@ -15,6 +15,7 @@ sources:
   - Arnolds, E. (2010). "The Hygrophorus of Europe." Koninklijke Nederlandse Mycologische Vereniging.
   - Kibby, G. (2012). "The genus Hygrophorus in Britain." Field [[partial-veil-tropism-protection-before-spore-release]]
 often leaving a fleeting ring or fibrillose zone.
+---
 
 **Flesh:** Thin, white, rubbery and pliant. Odor mild or slightly
 farinaceous. Taste not distinctive.

@@ -14,6 +14,7 @@ sources:
   - Hedenäs, L. (1997). "A Revision of Sanionia." The Bryologist 100(1): 65-88.
   - Flora huckleberries-and-wild-berries-of-north-america, Vol. 28. "Bryophyta: Bryophytes." Oxford University Press.
   - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University.---
+---
 
 ## Overview
 

@@ -4,6 +4,7 @@ tags: [phytochrome, photoperiodism, plant-flowering, red-light, far-red-light, m
 source: "Chamovitz, D. (2012). What a Plant Knows: A [[phytochrome-photoperiodism]] is a photoreceptor pigment mediating plant responses to red and
 far-red light, central to [[chamovitz-maryland-mammoth-photoperiodism-discovery]], photoperiodism revealed that
 plants measure continuous darkness rather than [[chamovitz-maryland-mammoth-photoperiodism-discovery]], it prevented seed harvest for the next crop.
+---
 
 In 1918, Wightman W. Garner and Harry A. Allard at the USDA discovered that
 simply limiting light exposure — moving plants to a dark shed each afternoon —

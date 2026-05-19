@@ -5,6 +5,7 @@ source: EMCDDA "[[emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-poten
 - **Growing conditions**: Substrate composition, humidity, temperature, and light exposure all affect alkaloid production
 - **Storage**: Improper storage can lead to degradation of active compounds over time
 - **Part consumed**: Caps typically contain higher alkaloid concentrations than [[mushroom-potency-harvest-age]] for a detailed analysis of how harvest timing affects potency.
+---
 
 ## Methods of Ingestion
 

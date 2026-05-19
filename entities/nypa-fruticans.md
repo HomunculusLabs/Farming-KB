@@ -15,6 +15,7 @@ sources:
   - Tomlinson, P.B. (2016). "The Botany of Mangroves." Cambridge University Press.
   - Matsui, N. et al. (2014). "Nypa fruticans: A potential bioethanol source in [[dighton-fungal-responses-climate-change]]." Estuarine, Coastal and Shelf Science, 76(1), 1-13.
   - Ellison, J.C. & Farnsworth, E.J. (1996). "Anthropogenic disturbance of Caribbean [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]] and mangrove ecosystem stability. Its dense root networks stabilize shorelines and reduce erosion from waves and storm surges.
+---
 
 The species has been utilized by coastal communities for millennia across its range. Archaeological evidence from Southeast Asia suggests nipa palm exploitation dates back at least 3,000 years.
 

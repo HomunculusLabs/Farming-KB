@@ -2,6 +2,7 @@
 title: Precipitation Types And Dew Collection
 source: bill-[[permaculture-design]] depends on understanding both categories and their
 regional characteristics.
+---
 
 ## Global Precipitation Overview
 

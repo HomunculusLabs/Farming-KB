@@ -3,6 +3,7 @@ title: "Fungal Biodiversity Estimation Methods"
 source: "[[fungal-biodiversity-estimates]]. Fungal communities
 exhibit patterns at multiple scales, from microhabitat patches to landscape
 gradients. Sampling design must account for:
+---
 
 - **Alpha diversity**: Diversity within a single sampling unit or habitat.
 - **Beta diversity**: Variation in composition among sampling units.

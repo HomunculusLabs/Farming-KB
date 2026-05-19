@@ -11,6 +11,7 @@ updated: 2026-05-08
 sources:
   - Elix, J.A. (2009). "Xanthoparmelia in Australia." Flora of Australia Supplementary Series.
   - Hale, M.E. (1990). "A Monograph of Xanthoparmelia in [[antifungal-secondary-metabolites-coprophilous-fungi]].
+---
 
 ## Taxonomy and Morphology
 

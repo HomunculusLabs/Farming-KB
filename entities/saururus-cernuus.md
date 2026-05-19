@@ -16,6 +16,7 @@ sources:
   - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-[[native-american-church]] Ethnobotany." Timber Press.
   - USDA NRCS (2024). "Saururus cernuus Plant Guide." USDA Natural Resources Conservation Service.
   - Cook, C.D.K. (1996). "[[polypore-fungi-eastern-north-america]]. It is commonly known as lizard's tail, a name referring to the arching, tail-like inflorescence that curves downward at its tip.
+---
 
 The species grows in shallow water and saturated soils along stream banks, marshes, swamps, and pond margins. It forms dense colonies through creeping rhizomes and can dominate wetland understories where conditions are favorable.
 

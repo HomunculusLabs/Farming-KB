@@ -6,6 +6,7 @@ subtitle: Cool-season and warm-season legumes cultivated for their edible dry se
 | Mung Bean | *Vigna radiata* | South/Southeast Asia | Warm-season annual |
 | Lupin (Sweet) | *Lupinus albus* | Mediterranean, South America | Cool-season annual |
 | Bamba vigna subterranea igna subterranea* | Sub-Saharan Africa | Warm-season annual |lathyrus sativus Lathyrus sativus* | South Asia, Ethiopia | Cool-season annual |
+---
 
 ## Nutritional Profile
 

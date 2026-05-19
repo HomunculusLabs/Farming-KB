@@ -6,6 +6,7 @@ deliberately avoided excessive scientific terminology while still
 providing generic names to enable identification. His anatomical
 descriptions emphasize practical recognition features rather than
 microscopic detail.
+---
 
 ## The Four Grand Divisions
 

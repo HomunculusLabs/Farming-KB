@@ -18,6 +18,7 @@ sources:
   - Gao Q.H. et al. (2012). "[[comparison-ginkgo-biloba-vs-panax-ginseng]]* but is considerably milder, making it suitable for
 long-term daily use. It is valued for tonifying the spleen and lung *qi*,
 nourishing the blood, and promoting the production of body fluids.
+---
 
 Modern pharmacological research has validated adaptogenic, immunomodulatory,
 gastroprotective, and neuroprotective activities. Global demand has made

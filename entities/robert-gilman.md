@@ -84,7 +84,3 @@ Each concept described here operates within a larger web of ecological and socia
 The systems thinking approach that underlies these concepts emphasizes feedback loops, emergent properties, and the importance of working with natural processes rather than against them.
 
 The interdisciplinary nature of these topics means that insights from one domain often prove valuable in others. Cross-pollination of ideas between ecology, agriculture, design, and community development continues to drive innovation.
-
-The interdisciplinary nature of these topics means that insights from one domain often prove valuable in others. Cross-pollination of ideas between ecology, agriculture, design, and community development continues to drive innovation.
-
-The interdisciplinary nature of these topics means that insights from one domain often prove valuable in others. Cross-pollination of ideas between ecology, agriculture, design, and community development continues to drive innovation.

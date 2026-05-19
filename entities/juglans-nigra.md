@@ -15,6 +15,7 @@ sources:
   - Jose, S. (2009). "[[polypore-fungi-eastern-north-america]] America. It is one
 of the most valuable timber trees and a significant species in
 permaculture and agroforestry systems.
+---
 
 The tree is known for producing premium dark wood prized in
 furniture-making, and for the allelopathic compound juglone

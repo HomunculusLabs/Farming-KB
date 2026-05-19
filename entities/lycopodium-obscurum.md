@@ -16,6 +16,7 @@ sources:
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
   - Jones, G.P. (1987). "Lycopodium Alkaloids." In: S.W. Pelletier (ed.), "Alkaloids: Chemical and Biological Perspectives." Wiley.
   - Flora [[fungal-diversity-boreal-forests-taiga]] of North America, where it forms extensive colonies on moist forest floors.
+---
 
 The species is named for its resemblance to small pine seedlings, with dense radial clusters of sterile branches creating a miniature tree-like silhouette.
 

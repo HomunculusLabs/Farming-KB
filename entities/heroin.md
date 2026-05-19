@@ -17,6 +17,7 @@ sources:
   - Ritter, A. et al. (2021). "Heroin-assisted treatment: the state of the evidence." International Journal of Drug Policy, 93, 103187.
   - White, J.M. & Irvine, R.J. (1999). "Mechanisms of fatal opioid overdose." Addiction, 94(7), 961–972.
   - Fischer, B. et al. (2015). "The 'opioid flood' and its socio-economic correlates." Drug and [[morphine]] by acetylation of the 3-hydroxyl and 6-hydroxyl groups. It was first synthesized in 1874 by Charles Romley Alder Wright at St. Mary's Hospital Medical School in London, though its analgesic properties were not recognized until Heinrich Dreser at Bayer Pharmaceuticals began commercial marketing in 1898 under the trade name Heroin (from the German *heroisch*, meaning heroic).
+---
 
 Heroin is one of the most potent and widely abused opioid drugs globally. It acts as a prodrug, being rapidly metabolized in the brain to 6-monoacetylmorphine (6-MAM) and then to [[fentanyl]] in many markets, though heroin remains the dominant illicit opioid in parts of Europe, Asia, and Africa.
 

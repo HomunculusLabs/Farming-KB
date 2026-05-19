@@ -5,6 +5,7 @@ type: chemical
 tags:
   - psychedelic
   - [[alexander-shulgin]] and documented in TIHKAL.
+---
 
 It acts as a [[psilocybin]], distinguished by its unique dipropyl substitution pattern on the tryptamine nitrogen.
 

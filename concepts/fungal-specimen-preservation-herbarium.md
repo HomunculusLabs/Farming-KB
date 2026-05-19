@@ -1,6 +1,7 @@
 ---
 title: "Fungal Specimen Preservation and Herbarium Management"
 source: "[[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]] must be accompanied by comprehensive metadata:
+---
 
 - **Locality**: Geographic location, preferably with GPS coordinates.
 - **Habitat**: Ecological context (forest type, grassland, wetland, etc.).

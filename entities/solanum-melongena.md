@@ -14,6 +14,7 @@ sources:
   - Knapp, S. et al. (2013). "Phylogenetics of the eggplant and wild relatives." In: Eggplant, Springer.
   - Plazas, M. et al. (2014). "The history of eggplant domestication." Annals of Botany.
   - Raigón, M.D. et al. (2008). "The aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham of eggplant." Journal of Agricultural and Food Chemistry.---
+---
 
 ## Solanum melongena
 

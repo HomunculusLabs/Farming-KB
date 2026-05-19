@@ -8,6 +8,7 @@ concepts:
   - gaia hypothesis
   - [[query-what-is-ecological-succession-and-how-can-farmers-use-it]] to forest
 - [[mycelial-foraging-resource-allocation]]:
+---
 
 1. **First priority:** Survive — [[permaculture-design]]
 - [[permaculture]]

@@ -6,6 +6,7 @@ tags:
   - medicinal-plant
   - antidepressant
   - [[panax-ginseng]] and regarded as a problematic invasive species in some regions.
+---
 
 ## Taxonomy and Classification
 

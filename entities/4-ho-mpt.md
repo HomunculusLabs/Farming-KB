@@ -14,6 +14,7 @@ sources:
   - Shulgin, A.T. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
   - Trachsel, D. et al. (2013). "Psilocybin, psilocin, and baeocystin." In: The Psychotropic Drugs, 4th Ed.
   - Dean, B.V. et al. (2013). "Legal highs: review of the situation." [[4-hydroxytryptamine]] class of serotonergic psychedelics and acts primarily as a partial agonist at the 5-HT2A receptor.
+---
 
 The compound is known among the research chemical community for its psilocin-like effects with a reportedly shorter duration and slightly altered character. It has never been approved for medical use and exists in a legal gray area in most jurisdictions.
 

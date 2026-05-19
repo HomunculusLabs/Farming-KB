@@ -14,6 +14,7 @@ sources:
   - "Smith, A.H. & Thiers, H.D. (1971). The Boletes of Michigan. University of Michigan Press."
   - "Kuo, M. (2024). Leccinum insigne. MushroomExpert.com."
   - "Fischer, D. & Bessette, A.E. (2012). Mushrooms of the Northeastern [[populus-tremuloides]]*) and cottonwood (*P. deltoides*).
+---
 
 The species is edible when thoroughly cooked, though some individuals
 report gastrointestinal upset — a pattern common across the genus

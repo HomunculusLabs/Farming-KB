@@ -1,6 +1,5 @@
 ---
 
----
 ## Maga: The Great Gift and Root of Magic
 
 In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter identifies the Proto-Indo-European word "Maga" (The Great Gift) as the original name for amanita-muscaria-living-vessel-grail), produced healing and visionary experiences, and transformed simple food and water into a communion meal with a "Living God." The "Magic" was real natural phenomena that appeared miraculous to people who did not understand mycology.
@@ -137,8 +136,18 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- amanita-muscaria-herb-of-immortality-soma-hypothesis
-- amanita-muscaria-living-vessel-grail
+- [[golden-guide-amanita-muscaria-and-soma]]
+- [[amanita-muscaria-herb-of-immortality-soma-discovery]]
+- [[amanita-muscaria-pharmacology-dosing-guide]]
+- [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]
+- [[amanita-muscaria-living-vessel-grail]]
 ---
 Source: [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] (Teeter), Chapters 1, 4, 6-7, 11, 14; pp 5, 13, 17-20, 37, 49-54, 56-58
 - [[amanita]]
+
+## See Also
+
+- [[amanita-muscaria]] - The fly agaric mushroom central to Maga mythology
+- [[mycology]] - The scientific study of fungi
+- [[mycelium]] - The vegetative body of fungi, central to the "living vessel" concept
+- [[amanita-muscaria-cultural-history]] - Cultural and historical significance of Amanita muscaria

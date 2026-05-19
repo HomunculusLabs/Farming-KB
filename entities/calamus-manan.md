@@ -15,6 +15,7 @@ sources:
   - Dransfield, J. & Manokaran, N. (1993). "Plant Resources of South-East Asia No. 6: Rattans." Pudoc Scientific Publishers.
   - Bhat, K.M. & Mohamed, N.A. (1992). "Rattan — A Potential Resource for the Future." KFRI Handbook No. 3.
   - Siebert, S.F. (2001). "The [[psilocybe-southeast-asia-pacific]]. It is one of the most commercially important rattan species in the global cane furniture industry.
+---
 
 The species produces stout, durable canes that can exceed 100 meters in length, making it the largest rattan species in the world. Manau rattan is prized for its strength, flexibility, and attractive light golden color.
 

@@ -16,6 +16,7 @@ sources:
   - "Mudge, E.M. et al. (2019). \"Cannabinoid and Terpene Profiling of Cannabis.\" Molecules."
   - "Russo, E.B. (2011). \"Taming THC: Potential Cannabis Synergy and Phytocannabinoid-Terpenoid beta-caryophyllene-entourage-effects-cannabis.\" British Journal of Pharmacology."
   - "Casajuana Cogul, E. et al. (2018). \"The Association Between [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain that has earned legendary status in the cannabis community for its extraordinarily high [[equatorial-photoperiod-early-flowering]] |
+---
 
 ## Appearance
 

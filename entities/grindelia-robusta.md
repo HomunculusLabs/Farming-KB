@@ -7,6 +7,7 @@ aliases:
   - "Great Valley Gumweed"
   - "Rosinweed"
   - "[[psilocybin-north-america-pacific-northwest]] from California to British Columbia.
+---
 
 The species is distinguished by its bright yellow composite flower heads and copious sticky, resinous exudate (gum) that coats the flower buds, giving the plant its common name.
 

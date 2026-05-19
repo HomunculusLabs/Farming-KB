@@ -17,6 +17,7 @@ sources:
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
   - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Pteridaceae." Flora huckleberries-and-wild-berries-of-north-america, Vol. 2.
   - Jones, D.L. (1998). "Encyclopaedia of Ferns." Timber Press.---
+---
 
 ## Overview
 

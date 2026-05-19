@@ -17,6 +17,7 @@ sources:
 with disputed [[psilocybin-north-america-pacific-northwest]] (Pacific
 Northwest), and Asia (Japan). The epithet "cyanopus" refers to blue-staining
 at the stipe base. It falls under Hongo's Type 2 (Northern hemisphere species).
+---
 
 ### Conocybe smithii Watling
 

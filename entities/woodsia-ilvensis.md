@@ -11,6 +11,7 @@ updated: 2026-05-09
 sources:
   - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993+). Flora of guzman-psilocybin-mushrooms-north-america North of Mexico. Oxford University Press.
   - Jermy, A.C. & Camus, J. (1991). The Illustrated [[cystopteris-fragilis]] in the field due to similar size and habitat preferences. However, the conspicuously scaly and rusty stipe of Woodsia ilvensis provides an immediate distinguishing character.
+---
 
 Individual plants typically produce 5 to 15 fronds per [[woodsia-obtusa]], a more common [[asplenium-trichomanes]], Cystopteris fragilis, and [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] is relatively low compared to larger ferns, but the wind-dispersed spores can travel considerable distances. This dispersal capacity explains the species' disjunct distribution across isolated mountain ranges.
 

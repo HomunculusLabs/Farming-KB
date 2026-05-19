@@ -7,6 +7,7 @@ source: [[chrysanthemum-morifolium]]) — flowers in autumn when nights exceed ~
 - Soybean (Glycine max) — flowers as days shorten in late summer
 - Poinsettia ([[hordeum-vulgare]]) — flowers as days lengthen in spring
 - Spinach ([[arabidopsis-thaliana]]) — the model organism flowers rapidly under long days
+---
 
 ### Day-Neutral Plants
 

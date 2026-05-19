@@ -21,6 +21,7 @@ sources:
   - https://www.frontiersin.org/articles/10.3389/fphar.2021.641088/full
   - Burt, S. (2004). "Essential oils: their antibacterial properties and potential applications in foods." International Journal of Food Microbiology, 94(3), 223-253.
   - Sharifi-Rad, M. et al. (2018). "Biological activities of [[origanum-vulgare-entity]]) essential oil, typically comprising 60–85% of the total volatile fraction in the most common chemotypes. It is a structural isomer of [[dmt-botanical-sources-pharmacology]] include:
+---
 
 - **Origanum vulgare** (oregano): The premier natural source; carvacrol-dominated chemotypes produce essential oil containing 60–85% carvacrol. Greek and Turkish oregano cultivars are particularly valued for high carvacrol content.
 - **Origanum onites** (Turkish oregano): Contains 50–70% carvacrol in essential oil; commercially important for essential oil production.

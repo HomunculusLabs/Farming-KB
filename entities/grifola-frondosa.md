@@ -16,6 +16,7 @@ sources:
   - "Kodama, N. et al. (2002). \"Maitake D-Fraction: healing and preventive potential for cancer.\" Journal of Orthomolecular Medicine, 17(1), 41-48."
   - "Matsuzaki, S. et al. (2020). \"A systematic review of the query-what-are-the-main-bioactive-compounds-in-medicinal-plants of [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and [[comparison-chaga-vs-turkey-tail]]-medicinal-mushrooms-comprehensive. Ten Speed Press."
   - "Wasser, S.P. (2014). \"[[oyster-mushroom-supplemented-sawdust-blocks]] substrates and is among the top three medicinal mushrooms by global market value.
+---
 
 ## Taxonomy
 

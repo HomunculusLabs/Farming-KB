@@ -12,6 +12,7 @@ tags:
 sources:
   - Gartz, J. (1996). "Distribution and psilocybin content of gartz-pluteus-salicinus-wood-inhabiting-psilocybin." Mycological Research, 100(7), 803-804.
   - Allen, J.W. & Gartz, J. (2001). "New observations on the [[hplc-analysis-of-psilocybin-and-psilocin]] in European collections during the 1990s. It remains a rarely collected species with limited distribution data.
+---
 
 ## Taxonomy and Morphology
 

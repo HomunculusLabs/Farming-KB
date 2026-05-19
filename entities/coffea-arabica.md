@@ -8,6 +8,7 @@ tags:
   - alkaloid
   - [[caffeine]] content compared to C. canephora, and greater
 susceptibility to certain diseases.
+---
 
 ## Taxonomy and Morphology
 

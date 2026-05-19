@@ -5,6 +5,7 @@ source: grahamholmes-what-a-plant-knowsindd.md
 tags: [plant-biology, olfaction, volatile-organic-compounds, plant-communication, ethylene, jasmonate]
 aliases: [Plant Smell, Plant [[bloomfield-fungal-reproduction-and-chemical-communication]] network that
 pervades every ecosystem.
+---
 
 ## Volatile Organic Compounds as Chemical Signals
 

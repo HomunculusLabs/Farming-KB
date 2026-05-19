@@ -13,6 +13,7 @@ sources:
   - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications.
   - Orange, A., James, P.W. & White, F.J. (2010). Microchemical Methods for the Identification of Lichens. British Lichen Society.
   - Spribille, T. et al. (2014). "Ochrolechia (Ochrolechiaceae) in the psilocybin-north-america-pacific-northwest." The Bryologist, 117(3), 251-280.---
+---
 
 ## Overview
 

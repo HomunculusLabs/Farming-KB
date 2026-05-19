@@ -16,6 +16,7 @@ sources:
   - Great Plains Flora Association (1986). Flora of the Great Plains. University Press of Kansas.
   - USDA NRCS (2024). "Plant Guide: Illinois tick-trefoil." USDA Natural Resources Conservation Service.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada, 2nd ed. New York Botanical Garden Press.---
+---
 
 ## Overview
 

@@ -5,6 +5,7 @@ topics: [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in Europe, rev
 commercial ecosystem that expanded rapidly during the late 1990s and
 early 2000s before being curtailed by legislative changes in multiple
 EU member states.
+---
 
 ## The Dutch Smartshop Market
 

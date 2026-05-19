@@ -15,6 +15,7 @@ sources:
   - Dyer, R.A. (1965). "The Cycads of Southern Africa." Bothalia, 9(1), 1-45.
   - IUCN Red List (2020). "Encephalartos altensteinii." IUCN Red List of Threatened Species.
   - Grobbelaar, N. et al. (1986). "Pollination biology of Encephalartos." [[cannabis-leaf-morphology-and-phyllotaxy]]. Careful examination of cone scale morphology and leaflet characteristics is required for accurate [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]], the species often develops a more robust and compact crown compared to [[query-how-to-read-cannabis-plants-for-nutrient-problems]] and water availability in garden conditions.
+---
 
 Leaves are pinnate, 1.5 to 3 meters long, with 120 to 200 leaflets arranged in a V-shaped orientation. Leaflets are lanceolate, 15 to 25 cm long and 2 to 4 cm wide, with serrated margins near the tip and a glossy dark green color.
 

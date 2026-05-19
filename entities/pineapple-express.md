@@ -21,6 +21,7 @@ sources:
   - "AllBud. 'Pineapple Express marijuana-strain-guide-hybrid Information.' AllBud, https://www.allbud.com/marijuana-strains/hybrid/pineapple-express"
   - "Eichler, M. et al. (2022). 'Phytocannabinoid Profiling of Popular cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains.' Cannabis and Cannabinoid Research."
   - " Cannabis Now. 'The Real Story Behind Pineapple Express.' https://cannabisnow.com"---
+---
 
 ## Pineapple Express
 

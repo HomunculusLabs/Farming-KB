@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Ball, P.W. & Reznicek, A.A. (2002). "Carex in [[guzman-psilocybin-mushrooms-north-america]] north of Mexico." Contributions from the University of Michigan Herbarium 20: 1-258.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern [[humulus-lupulus]].
+---
 
 The species is common in bottomland hardwood forests, floodplain swamps, and
 riparian corridors throughout its range. It is a facultative wetland plant

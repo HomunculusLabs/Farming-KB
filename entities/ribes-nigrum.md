@@ -17,6 +17,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - Tabart, J. et al. (2006). "Polyphenols and antioxidants in blackcurrants." J. Agric. Food Chem.
   - Brennan, R.M. (1996). "Currants and gooseberries." In: Temperate [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of central and northern Europe and northern Asia. It is among the most nutrient-dense fruits available — exceptionally rich in **vitamin C, anthocyanins, and polyphenols**. The species has major economic importance in Europe (UK, Poland, Germany, France) for juices, jams, cordials, and nutraceuticals. In permaculture, it serves as a productive understory shrub yielding abundant fruit with minimal maintenance.
+---
 
 ## Taxonomy
 

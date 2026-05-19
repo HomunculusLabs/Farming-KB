@@ -15,6 +15,7 @@ sources:
   - "Hofmann, A. (1978). \"The [[bloomfield-ergot-claviceps-purpurea-ergotism]]* and related fungi.
 It is a cyclic tripeptide derivative of [[ergot-and-lysergic-acid-history]], classified
 structurally as an ergoline.
+---
 
 Ergocryptine exists in two epimeric forms: α-ergocryptine and
 β-ergocryptine (also called ergocristinine), differing in stereochemistry

@@ -6,6 +6,7 @@ sources:
   - william-falconer - Mushrooms: How to Grow Them (1891)
 type: concept
 tags: [[mushroom-cultivation-fruiting-chambers]]
+---
 
 ## Applications and Use Cases
 

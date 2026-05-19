@@ -13,6 +13,7 @@ sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Johnson, P.S., Shifley, S.R. & Rogers, R. (2009). "The Ecology and Silviculture of Oaks." CABI Publishing.
   - Abrams, M.D. (1996). "Distribution, historical development and ecophysiological attributes of oak species in the eastern [[guzman-psilocybin-mushrooms-north-america]].
+---
 
 It is one of the most important timber species in the eastern United States, prized for its strong, durable heartwood and distinctive pale color.
 

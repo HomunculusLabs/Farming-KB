@@ -12,6 +12,7 @@ updated: 2026-05-10
 sources:
   - Wood, J.G. & Weaver, R.E. (1982). "The Gentians huckleberries-and-wild-berries-of-north-america." Journal of the Arnold Arboretum 63: 241–290.
   - Weakley, A.S. (2022). Flora of the Southeastern United States. University of [[gentiana-saponaria]] and [[cannabis-seed-germination]] requires cold stratification and may benefit from [[plants-without-mycorrhizal-associations]].
+---
 
 The species is fire-adapted, surviving prescribed burns through its protected rootstock and benefiting from post-burn canopy opening.
 

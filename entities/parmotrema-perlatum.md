@@ -12,6 +12,7 @@ sources:
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
   - Kirk, P.M., Cannon, P.F., Minter, D.W., Stalpers, J.A. (2008). "Ainsworth & Bisby's Dictionary of the Fungi." 10th ed. CABI.
   - Nash III, T.H. et al. (2004). "[[polypore-fungi-eastern-north-america]] America, and parts of [[cervantes-air-quality-ventilation]], though it tolerates some pollution.
+---
 
 Elevation range extends from sea level to approximately 1500 m in montane habitats.
 

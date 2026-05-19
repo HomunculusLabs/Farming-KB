@@ -15,6 +15,7 @@ sources:
   - Hajhashemi V. et al. (2000). "Antinociceptive and Anti-inflammatory Effects of S. sclarea permaculture-designers-manual-essential-oil-plants." Journal of Ethnopharmacology, 69(2), 141-146.
   - Ulubelen A. (2003). "Cardiovascular and Central Nervous System Effects of Salvia sclarea." Phytotherapy Research, 17(1), 20-23.
   - Pistelli L. et al. (1997). "[[psilocybin-north-america-pacific-northwest]], [[dmt-containing-plants-united-states-halpern]], particularly in disturbed sites and roadsides.
+---
 
 The species prefers dry, calcareous soils in full sun. It is common in scrubland, grassland margins, and rocky slopes at elevations up to 1500 m.
 

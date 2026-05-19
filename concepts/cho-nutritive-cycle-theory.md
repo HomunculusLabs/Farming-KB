@@ -6,6 +6,7 @@ their entire growth cycle and guides farmers in applying the right inputs
 at the right time in the right amounts. Rather than following a fixed
 fertilizer schedule, the Nutritive Cycle Theory aligns nutrient
 management with the natural physiological stages of plant development.
+---
 
 ## Core Principles
 

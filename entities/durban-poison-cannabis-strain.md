@@ -18,6 +18,7 @@ sources:
   - Mudge, E.M. et al. (2019). "cannabis-sativa L. (Cannabaceae): A review of its traditional uses, phytochemistry, and pharmacology." Planta Medica, 85(12), 1007-1020.
   - Smart, R. et al. (2017). "The Phytochemical Diversity of Commercial Cannabis in the United States." PLoS ONE, 12(12), e0188826.
   - Hazekamp, A. & Fischedick, J.T. (2012). "Cannabis — from cultivar to chemovar." Drug [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] ancestry. It remains one of the few strains widely recognized as a true or near-true landrace variety in commercial markets.
+---
 
 ## Genetic Background
 

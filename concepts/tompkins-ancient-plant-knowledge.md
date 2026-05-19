@@ -5,6 +5,7 @@ aliases: [historical plant wisdom, traditional plant lore, Vedic plant knowledge
 tags: [history, ethnobotany, traditional-knowledge, philosophy]
 related: [[tompkins-plant-animal-relationships]], [[fukuoka-road-critique-of-modern-science]] began
 investigating the concept.
+---
 
 ## The Zendavesta: First Agricultural Textbook
 

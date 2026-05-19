@@ -12,6 +12,7 @@ sources:
   - Smith, J. & Wheeler, M. (2022). "The Chemistry of Fungal Pigments: From Nature to Industry." Natural Product Reports, 39(1), 45-68.
   - Walters, T. (2018). "Growing Dye Mushrooms: Cultivation of Pigment-Producing Fungi for Small-Scale Applications." Mycoscience, 59(4), 278-293.
   - Østergaard, J. (2016). "Fungal Dyes — Historical Use and Modern Revival." Dyes and Pigments, 134, 247-254.---
+---
 
 ## Mushroom Dyes and Fungal Pigments
 

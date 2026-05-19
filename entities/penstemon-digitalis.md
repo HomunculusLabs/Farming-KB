@@ -13,6 +13,7 @@ updated: 2026-05-09
 sources:
   - Wolfe, A.D. et al. (2006). "Phylogeny and Biogeography of *Penstemon*." Systematic Botany 31(3): 517–530.
   - Barnhart, J.H. (1895). "Penstemon." In: [[dighton-fungal-drought-tolerance-plant-water-relations]] once established. It has become a staple of prairie-style and naturalistic plantings.
+---
 
 ## Taxonomy and Morphology
 

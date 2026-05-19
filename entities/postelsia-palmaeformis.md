@@ -15,6 +15,7 @@ sources:
   - Blanchette, C.A. et al. (2002). "Long-term persistence of Postelsia." Ecology, 83, 3343-3352.
   - Dayton, P.K. (1973). "Dispersion, dispersal, and persistence of Postelsia." Ecological Monographs, 43, 417-439.
   - Foreman, R.E. (1977). "Benthic community modification and recovery following experimental removal of Postelsia." Journal of Experimental Marine [[psilocybin-north-america-pacific-northwest]], resembling a miniature palm tree with its thick, flexible stipe and frond-like blades.
+---
 
 The species is restricted to the most wave-exposed rocky intertidal zones from central California to British Columbia. Its peculiar morphology and ecological specialization have made it a classic [[bloomfield-fungal-life-cycle-spiral-versus-circle]] within a single year. Populations are maintained by a balance between local spore recruitment and disturbance-driven colonization of newly available space in mussel beds.
 

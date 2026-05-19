@@ -8,6 +8,7 @@ capacity of a given greenhouse footprint while reducing construction costs and
 improving soil health through crop rotation. The concept was first documented in 1898
 in England, where a large glasshouse on railroad wheels running on steel rails proved
 that greenhouse mobility was both practical and safe.
+---
 
 ## Historical Origins
 

@@ -5,6 +5,7 @@ tags: [[hydnum-repandum]]) is the common example, usually
 yellow to reddish, firm-fleshed, with a deformed or eccentric stem.
 Palmer cited Smith's authority that all species of any size enjoy a
 good character, making this a safe group for beginners.
+---
 
 ### 4. Lycoperdons (Puffballs)
 

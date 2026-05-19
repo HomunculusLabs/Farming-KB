@@ -15,6 +15,7 @@ sources:
   - Simpson, R.S. (2004). "Papyrus." Oxford Encyclopedia of Ancient Egypt.
   - Täckholm, V. & Drar, M. (1950). "Flora of Egypt." Bulletin of the Faculty of Science, Cairo University.
   - Haines, R.W. & Lye, K.A. (1983). The Sedges and Rushes of East Africa. [[guzman-psilocybin-mushrooms-south-america]], where it is considered introduced.
+---
 
 The species is strongly associated with shallow freshwater systems including lake margins, river banks, swamps, and seasonal floodplains.
 

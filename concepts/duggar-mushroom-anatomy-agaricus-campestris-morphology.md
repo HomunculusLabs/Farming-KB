@@ -13,6 +13,7 @@ the early [[spore-print]] — Detailed methods for
 - [[history-of-commercial-mushroom-cultivation]] — Historical overview
  of commercial mushroom growing in the United States.
 - — Ring morphology across [[duggar-cultivated-agaricus-taxonomy-and-variety]] species.
+---
 
 ## Overview
 

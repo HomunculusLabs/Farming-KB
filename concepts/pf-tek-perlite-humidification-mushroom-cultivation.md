@@ -2,6 +2,7 @@
 title: Pf [[pf-tek-perlite-humidification-technique]] [[accessible-mushroom-cultivation-for-disabilities]]
 source: PF TEK - [[passive-humidity-fruit-chamber-polyethylene-sheeting]] management technique central to
 the [[dual-chambered-terrarium]].
+---
 
 When properly prepared in the terrarium base, wet perlite maintains 90%+ relative
 humidity through continuous surface evaporation. This eliminates the need for

@@ -14,6 +14,7 @@ sources:
   - Viereck, L.A. & Johnston, W.F. (1990). "Betula papyrifera." In: Silvics huckleberries-and-wild-berries-of-north-america. USDA Forest Service.
   - Safford, L.O. (1970). "Biology of Paper Birch." USDA Forest Service Northeastern Forest Experiment Station.
   - Barnes, B.V. & Wagner, W.H. (2004). "Michigan Trees." University of Michigan Press.---
+---
 
 ## Overview
 

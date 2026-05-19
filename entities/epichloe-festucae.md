@@ -22,6 +22,7 @@ sources:
 genus *Festuca*. Unlike [[dighton-fungal-drought-tolerance-plant-water-relations]],
 improved [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] toxic to livestock,
 making strain selection critical for pastoral use.
+---
 
 ## Taxonomy and Classification
 

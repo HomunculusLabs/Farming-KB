@@ -1,6 +1,5 @@
 ---
 
----
 ## Liberty Cap Discovery and Naturalisation in Britain
 
 ## Taxonomic History

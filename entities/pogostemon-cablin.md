@@ -13,6 +13,7 @@ sources:
   - Hu, C.Y. et al. (2016). "Pogostemon cablin: A review of phytochemistry, bioactivities, and uses." Journal of Ethnopharmacology, 194, 844–853.
   - SWHA (2017). "Patchouli oil (Pogostemon cablin)." In WHO Monographs on Medicinal Plants, Vol. 5, WHO, Geneva.
   - Lawrence, B.M. (2003). "Patchouli: The raw material, its cannabis-resin-production-and-quality-traits-clarke." In [[psilocybe-southeast-asia-pacific]], it is cultivated worldwide for its essential oil, which is one of the most important and widely used natural fragrance materials in perfumery.
+---
 
 Patchouli oil possesses a distinctive, earthy, and camphoraceous aroma that serves as a base note in countless perfumes, cosmetics, and personal care products. The oil is also valued in traditional medicine systems across Asia for its antimicrobial, anti-inflammatory, and insect-repellent properties.
 

@@ -14,6 +14,7 @@ sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics huckleberries-and-wild-berries-of-north-america: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
   - Kral, R. (1993). "Carya." In: Flora of North America North of Mexico, Vol. 3, pp. 267-273.---
+---
 
 ## Overview
 

@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada. New York Botanical Garden Press.
   - Moerman, D.E. (1998). Native [[polypore-fungi-eastern-north-america]].
+---
 
 The species is named for its brilliant yellow roots and rhizomes, which contain the alkaloid berberine and have been used for centuries in traditional medicine. The roots also yield a bright yellow dye used in textile coloring.
 

@@ -2,6 +2,7 @@
 source: mckenna_t-food_of_the_gods.md
 source_author: [[cultural-evolution-and-psychoactive-substances]] as
 objects of sustained personal and philosophical inquiry.
+---
 
 ## The Confessions
 

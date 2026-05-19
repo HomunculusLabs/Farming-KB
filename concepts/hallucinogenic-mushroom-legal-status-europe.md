@@ -8,6 +8,7 @@ tags:
 controlled since 1971, the mushrooms that contain them have occupied a
 legal grey area in many countries, leading to a patchwork of national
 approaches that evolved significantly between 2001 and 2006.
+---
 
 ## International Control
 

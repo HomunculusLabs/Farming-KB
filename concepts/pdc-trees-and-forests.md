@@ -6,6 +6,7 @@ type: concept
 tags: [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course contains Bill
 Mollison's most detailed treatment of forests — not as timber resources
 but as the primary organising system of land, climate, and water.
+---
 ## The Forest and Atmosphere
 ### Wind
 "Wind completely disappears in an effective forest within a thousand

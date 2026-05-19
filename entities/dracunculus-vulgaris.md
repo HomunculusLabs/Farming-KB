@@ -13,6 +13,7 @@ sources:
   - Boyce, P.C. (1993). "The Genus Dracunculus." Aroideana, 16, 13-42.
   - Kite, G.C. & Hetterscheid, W.L.A. (1997). "Inflorescence Odours of Amorphophallus and Pseudodracontium." International Aroid Society Newsletter, 17(4), 10-14.
   - Meeuse, B.J.D. & Raskin, I. (1988). "[[query-how-to-grow-and-use-oca-in-temperate-climates]]. It is increasingly popular in specialty plant collections for its prehistoric appearance and unusual pollination biology.
+---
 
 ## Taxonomy and Morphology
 

@@ -15,6 +15,7 @@ sources:
   - Kershaw, L. et al. (2001). "Edible and Medicinal Plants of the Rockies." Lone Pine Publishing.
   - Farrar, D.R. (2006). "Ophioglossaceae." in: Flora huckleberries-and-wild-berries-of-north-america Editorial Committee.
   - Kato, M. (1987). "A phylogenetic classification of Ophioglossaceae." Botanical Magazine Tokyo 100: 3–14.---
+---
 
 ## Overview
 

@@ -15,6 +15,7 @@ entrainment, de-etiolation, and flowering. They share structural
 similarity
 with DNA photolyase enzymes but serve signaling rather than repair
 functions.
+---
 
 **UVR8** detects ultraviolet-B radiation and triggers production of
 protective

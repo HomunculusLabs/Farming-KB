@@ -17,6 +17,7 @@ sources:
   - Flora of [[guzman-psilocybin-mushrooms-north-america]], with disjunct populations suggesting an ancient Tertiary
 lineage. It is strongly associated with limestone substrates and calcareous
 habitats.
+---
 
 Hart's-tongue fern has a long history of medicinal use in European herbalism
 and is widely cultivated as an ornamental plant. Several cultivars with

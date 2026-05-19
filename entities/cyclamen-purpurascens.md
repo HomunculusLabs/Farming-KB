@@ -12,6 +12,7 @@ sources:
   - Grey-Wilson, C. (1997). "Cyclamen: A Guide for Gardeners, Horticulturists and Botanists." Timber Press.
   - Compton, J.A. et al. (2004). "Phylogeny of Cyclamen L. (Myrsinaceae) based on chloroplast DNA sequences." Kew Bulletin, 59(1), 89–98.
   - Youssef, D.T.A. (2008). "Saponins from [[palmer-mushroom-hunting-field-identification]] character.
+---
 
 The plant produces a subglobose tuber 3–6 cm in diameter, which grows at or near the soil surface.
 

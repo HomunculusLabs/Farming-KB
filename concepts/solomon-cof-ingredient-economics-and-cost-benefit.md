@@ -8,6 +8,7 @@ quantity is intended to fertilize a substantial garden area for an entire
 growing season. The exact proportions can be adjusted based on soil test
 results, but the general framework remains consistent across different garden
 situations.
+---
 ## Cost Analysis at 2005 Prices
 
 Solomon provides a detailed cost breakdown of the COF ingredients at mid-2000s

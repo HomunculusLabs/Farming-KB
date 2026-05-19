@@ -7,6 +7,7 @@ aliases:
 substances at the center of any serious inquiry into the nature of consciousness,
 arguing that their pharmacological properties reveal something profound about the
 relationship between [[dosage-unpredictability-psilocybin-subjective-experience]].
+---
 
 ## Chemical Structure and Tryptophan Derivation
 

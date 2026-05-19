@@ -16,6 +16,7 @@ sources:
   - Frishman, W.H. & Grewall, P. (2000). "Serpentine (rauwolfia-serpentina): history, phytochemistry, pharmacology, and clinical use." Cardiovascular Drug Reviews, 18(2), 101-113.
   - Henningfield, J.E. et al. (1999). "Reserpine: cannabis-for-alcohol-dependence, 56(1), 7-14.
   - Lopez-Munoz, F. et al. (2005). "The historical evolution of reserpine use." Journal of Clinical Psychopharmacology, 25(5), 521-526.---
+---
 
 ## Reserpine
 

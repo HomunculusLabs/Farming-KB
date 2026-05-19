@@ -12,6 +12,7 @@ updated: 2026-05-10
 sources:
   - Paton, J.A. (1999). "The Liverwort Flora of the British Isles." Harley Books.
   - Schuster, R.M. (1966). "The Hepaticae and Anthocerotae [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
+---
 
 The species is easily recognized by its large, glossy green thallus with a reticulate pattern of hexagonal air pores on the upper surface. Its strong, earthy scent when crushed gives rise to the common name great scented liverwort.
 

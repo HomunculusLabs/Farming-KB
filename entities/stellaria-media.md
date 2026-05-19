@@ -10,6 +10,7 @@ tags:
   - [[panax-ginseng]]. Its mild
 flavor, tender texture, and year-round availability in many climates make it a
 staple for foragers. In permaculture systems, it serves as a [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] habitat.
+---
 
 ## Taxonomy
 

@@ -8,6 +8,7 @@ tags:
 vigor (heterosis) and inbreeding depression. These opposing forces
 govern much of the strategy behind breeding programs. Understanding
 them is essential for creating vigorous, productive cannabis varieties.
+---
 
 ## Hybrid Vigor (Heterosis)
 

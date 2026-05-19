@@ -16,6 +16,7 @@ sources:
   - "Kuo, M. (2023). Verpa bohemica. MushroomExpert.com. https://www.mushroomexpert.com/verpa_bohemica.html"
   - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
   - "Weber, N.S. & Smith, A.H. (1985). A [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
+---
 
 It is one of the earliest spring-fruiting [[ascomycota]]
 - **Subdivision:** Pezizomycotina

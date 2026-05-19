@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Huang, P. et al. (2019). "Phytochemical constituents and bioactivities of Neolitsea species." Fitoterapia, 134, 238–250.
   - Li, J. et al. (2017). "[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]].
+---
 
 *Neolitsea aurata* is increasingly planted as an ornamental tree in parks and gardens for its glossy foliage, golden pubescence, and tolerance of partial shade.
 

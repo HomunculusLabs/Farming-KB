@@ -4,6 +4,7 @@ source: mckenna_t-food_of_the_gods.md
 topic: "Shamanism as the original human religion and its suppression by [[powell-ancient-entheogenic-cults-and-the-religious-impulse]] of the
 human species, one that predates and underlies all subsequent
 spiritual traditions.
+---
 
 ## Eliade's "Techniques of Ecstasy"
 

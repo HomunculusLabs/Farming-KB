@@ -25,6 +25,7 @@ diameter logs of oak, maple, beech, birch, alder, and willow. It is
 rarely found on large standing trunks, preferring the thinner branches
 that decompose more rapidly. The fungus often forms extensive,
 overlapping fruiting structures along the length of fallen branches.
+---
 
 ## Ecological Role
 

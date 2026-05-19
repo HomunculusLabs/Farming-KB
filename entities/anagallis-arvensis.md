@@ -14,6 +14,7 @@ sources:
   - Usher, G. (1974). "A Dictionary of Plants Used by Man." Constable.
   - Meli, R. et al. (2010). "Cytotoxic saponins from Anagallis arvensis." Phytochemistry Letters.
   - Duke, J.A. (2002). "Handbook of [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
+---
 
 The species is renowned for its distinctive flowers, which are typically bright scarlet-orange with a darker center. A less common blue-flowered form also occurs naturally in some populations.
 

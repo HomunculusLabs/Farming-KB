@@ -17,6 +17,7 @@ sources:
   - E. J. H. Corner (1950). *A Monograph of Clavaria and Allied Genera.* Oxford University Press.
   - D. N. Pegler et al. (1996). "British Club and Coral Fungi." Royal Botanic Gardens, Kew.
   - D. Arora (1986). *Mushrooms Demystified* (2nd ed.). Ten Speed Press.---
+---
 
 ## Overview
 

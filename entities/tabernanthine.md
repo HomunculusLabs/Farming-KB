@@ -18,6 +18,7 @@ sources:
 - **Opioid receptors:** Weak affinity for mu and kappa opioid receptors; insufficient to produce analgesia or dependence
 - **Sigma receptors:** Moderate binding affinity; role in the anti-addictive mechanism remains speculative
 - **Sodium channels:** Weak blockade of voltage-gated sodium channels; lower potency than ibogaine at this target
+---
 
 The compound's overall pharmacological profile is qualitatively similar to ibogaine but with significantly reduced potency across most targets. This lower potency may result in a more favorable [[cannabis-therapeutic-index-overview]] of tabernanthine has not been established in human subjects. In the absence of controlled clinical data, any assessment of safety must be extrapolated from animal studies and the broader iboga alkaloid literature.
 

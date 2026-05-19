@@ -25,6 +25,7 @@ with additional effects on dopamine and norepinephrine systems. Its subjective
 effects are broadly similar to [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] on the benzofuran ring. Both compounds are
 structural analogues of MDMA, where the methylenedioxy phenyl ring is replaced
 by a benzofuran ring system.
+---
 
 The benzofuran substitution increases lipophilicity compared to MDMA, which
 affects blood-brain barrier penetration and metabolic pathways. The free base

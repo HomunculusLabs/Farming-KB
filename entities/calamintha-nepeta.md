@@ -14,6 +14,7 @@ sources:
   - Formisano C. et al. (2012). "Chemical Composition and Antimicrobial Activity of Calamintha nepeta permaculture-designers-manual-essential-oil-plants." Chemistry & Biodiversity, 9(4), 723-734.
   - Tutin T.G. et al. (1972). Flora Europaea, Vol. 3. Cambridge University Press.
   - Piccaglia R. et al. (1993). "[[psilocybin-north-america-pacific-northwest]] (northeastern [[savory-growing-season-and-non-growing-season-management]]. It is drought-tolerant once established.
+---
 
 ## Cultivation
 

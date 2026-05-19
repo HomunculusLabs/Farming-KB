@@ -8,6 +8,7 @@ gets a rest — it is continuously cropped, and problems with soil nutrient
 imbalance, disease buildup, and compaction accumulate over time. The mobile
 greenhouse eliminates these problems by allowing the covered soil to be
 rotated with uncovered outdoor beds on a regular schedule.
+---
 
 ## The Soil Exposure Advantage
 

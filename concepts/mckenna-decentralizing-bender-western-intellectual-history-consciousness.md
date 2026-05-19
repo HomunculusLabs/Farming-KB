@@ -18,6 +18,7 @@ source_talk: "Tryptamine [[terence-mckenna]]'s characterization of the
 five-hundred-year trajectory of Western intellectual history as a progressive
 movement away from anthropocentrism. In *"Tryptamine Hallucinogens and
 Consciousness,"* he argues that [[mckenna-catalyzing-consciousness-and-language]].
+---
 
 The framework presupposes mind-independent temporality. For McKenna this is
 itself a product of the decentralizing impulse: a universe unfolding without

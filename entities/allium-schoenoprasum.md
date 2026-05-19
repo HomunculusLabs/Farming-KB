@@ -20,6 +20,7 @@ sources:
   - Hanelt, P. (1990). "Taxonomy, evolution and history." In: Onions and Allied Crops, Vol. 1.
   - Krest, I. et al. (2000). "Antimicrobial activity of [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe, Asia,
 and [[holzer-medicinal-and-culinary-herbs-compendium]] globally.
+---
 
 Chives are distinguished from other *Allium* species by their hollow, tubular leaves and
 delicate purple-pink flowers borne on spherical umbels. The leaves and flowers are both

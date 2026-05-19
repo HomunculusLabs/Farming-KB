@@ -8,6 +8,7 @@ century, involves the formation and collapse of a fluid droplet called
 **Buller's drop** on the spore surface. The discharge is extraordinarily
 fast — accelerating a spore to speeds equivalent to a human vaulting from
 a cliff at 400 miles per hour.
+---
 
 ## The Basidium and Its Spores
 

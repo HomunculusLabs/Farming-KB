@@ -13,6 +13,7 @@ sources:
   - Montgomery J.D. (2000). "The genus Dryopteris in the eastern [[polypore-fungi-eastern-north-america]]. It is one of
 the most common woodland ferns in its range, valued for its durable, leathery
 fronds that persist through winter.
+---
 
 The species epithet "marginalis" refers to the position of the sori (spore-
 bearing structures) on the margins of the pinnule undersides, a distinctive

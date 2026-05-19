@@ -12,6 +12,7 @@ sources:
   - 'Mao, Q.Q., et al. (2019). "Ginger and its bioactive constituents: a review of their potential as chemopreventive and therapeutic agents." Phytotherapy Research, 33(8), 1967–1981.'
   - 'FAO (2023). FAOSTAT — Crops and livestock products: query-how-do-i-grow-and-use-ginger-and-turmeric psilocybe-cubensis-miniculture-production-data-and-flush-longevity.'
 type: comparison---
+---
 
 ## Turmeric vs Ginger: A Complete Comparison
 

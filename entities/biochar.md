@@ -14,6 +14,7 @@ updated: 2026-04-28
 sources:
   - "Lehmann, J. & Joseph, S. (2015). Biochar for Environmental Management: Science, Technology and Implementation. 2nd ed. Routledge."
   - "Glaser, B., Haumaier, L., Guggenberger, G., & Zech, W. (2001). \"The 'Terra Preta' phenomenon: A model for [[gadd-fungal-carbon-sequestration]].
+---
 
 The concept of biochar as a deliberate soil amendment is inspired by **Terra Preta** (Portuguese for "black soil"), the remarkably fertile anthropogenic soils of the Amazon Basin created by indigenous peoples over 500 to 2,500 years ago. These dark, carbon-rich soils remain fertile to this day, in stark contrast to the highly weathered, nutrient-poor oxisols and ultisols that dominate the Amazon. Modern biochar research, which accelerated dramatically after Wim Sombroek's work in the 1960s and Johannes Lehmann's publications in the early 2000s, seeks to replicate and understand the mechanisms behind Terra Preta's extraordinary longevity and fertility.
 

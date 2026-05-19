@@ -11,6 +11,7 @@ Piperine is classified as a bioenhancer — a substance that increases the bioav
 The bioenhancer concept originated from Ayurvedic medicine, where black pepper (Maricha) was routinely combined with other herbs.
 Piperine is the most extensively studied natural bioenhancer and is widely adopted in commercial nutraceutical formulations.
 It is marketed under the trade name BioPerine (Sabinsa Corporation) as a standardized 95% piperine extract.
+---
 
 ## Chemical Identity
 - **IUPAC Name:** 1-[5-(1,3-Benzodioxol-5-yl)-1-oxo-2,4-pentadienyl]piperidine

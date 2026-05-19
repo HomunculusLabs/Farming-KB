@@ -14,6 +14,7 @@ sources:
   - Hegi G (1965). "Illustrierte Flora von Mitteleuropa." Carl Hanser Verlag.
   - Duke JA (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." CRC Press.
   - Valentini G, Bella S, Ferro S (2002). "[[growing-gourmet-north-american-reishi-species]] wild ginger (*[[fukuoka-citrus-orchard-ground-cover-cultivation]], particularly in woodland gardens and shaded borders.
+---
 
 ## Taxonomy and Morphology
 

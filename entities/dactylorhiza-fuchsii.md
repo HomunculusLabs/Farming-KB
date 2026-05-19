@@ -12,6 +12,7 @@ updated: 2026-05-10
 sources:
   - Pedersen HA, Hedrén M (2010). "Systematics and evolution of Dactylorhiza." In: Prideon AM, Cribb PJ, Chase MW (eds), Genera Orchidacearum, Vol. 5. Oxford University Press.
   - Bateman RM, Hollingsworth PM (2004). "Morphological and molecular investigation of the [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] with closely related species in the *Dactylorhiza maculata* complex. Molecular studies have helped clarify these relationships.
+---
 
 *Dactylorhiza fuchsii* is an allotetraploid species (2n = 80), originating from ancient hybridization between diploid ancestors. This polyploid origin contributes to its ecological versatility and morphological variability.
 

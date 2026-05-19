@@ -9,6 +9,7 @@ sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     author: [[fukuoka-do-nothing-farming-philosophy-and-practice]]. Rather than attempting
 to understand and reverse desertification through [[fukuoka-ecological-balance-principles]].
+---
 
 ## The Clay Pellet Technique
 

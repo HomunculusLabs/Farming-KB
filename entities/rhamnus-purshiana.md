@@ -16,6 +16,7 @@ sources:
   - Tyler, V.E. (1993). "The Honest Herbal: A Sensible Guide to the Use of Herbs." 3rd ed., Haworth Press.
   - McGuffin, M. et al. (1997). "American Herbal Product Association's Botanical Safety Handbook." CRC Press.
   - Bradley, P.R. (1992). "British Herbal Compendium, Vol. 1." British [[psilocybin-north-america-pacific-northwest]].
+---
 
 It is the botanical source of cascara, one of the most widely used herbal laxatives in Western pharmacopeias for over a century. The dried, aged bark contains anthraquinone glycosides that stimulate colonic motility.
 

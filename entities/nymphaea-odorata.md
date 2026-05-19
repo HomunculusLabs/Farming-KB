@@ -16,6 +16,7 @@ sources:
     Conservation Service.
   - Wiersema, J.H. (1988). "[[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is bright green; the underside is often reddish or
 purplish.
+---
 
 Flowers are fragrant, white to pinkish, 7–15 cm in diameter, with 20–25
 petals arranged in overlapping whorls.

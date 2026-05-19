@@ -17,6 +17,7 @@ sources:
 Netherlands-based seed bank known for award-winning genetics. The strain was created
 by crossing Sideshow with a Lavender × Amnesia cross, producing a heavy-bodied
 variety with deeply relaxing effects.
+---
 
 The name reflects its powerful sedative properties — users report feeling "couch-
 locked" or immobilized, reminiscent of the zombie archetype in popular culture.

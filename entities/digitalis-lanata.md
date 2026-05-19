@@ -14,6 +14,7 @@ sources:
   - "Digitalis lanata." European Medicines Agency, Committee on Herbal Medicinal Products (HMPC).
   - Whiting, B. (1980). "Clinical Pharmacokinetics of Digoxin." Clinical Pharmacokinetics, 5(2), 137-155.
   - Steyn, D.G. (1934). "The Chemistry of the Cardiac Poisons of the Digitalis Species." [[digitalis-purpurea]]), Digitalis lanata produces a higher proportion of therapeutically valuable lanatoside glycosides. These compounds are extracted for use in heart failure and arrhythmia treatment worldwide.
+---
 
 The species is cultivated commercially on a significant scale in Europe, [[berry-growing]].
 

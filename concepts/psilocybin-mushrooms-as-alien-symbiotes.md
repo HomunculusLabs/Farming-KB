@@ -8,6 +8,7 @@ type: concept
 tags: [psilocybin, [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness, Terence
 McKenna advanced the controversial hypothesis that *[[australian-magic-mushroom-common-names]] Grower's Guide*, frames the mushroom-human relationship as one of
 deliberate symbiosis.
+---
 
 ## The Mushroom's Self-Description
 

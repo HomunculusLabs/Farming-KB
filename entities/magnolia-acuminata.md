@@ -13,6 +13,7 @@ sources:
   - Callaway, D.J. (1994). "The World of Magnolias." Timber Press.
   - United States Forest Service. "Silvics of guzman-psilocybin-mushrooms-north-america: Magnolia acuminata."
   - Treseder, L.C. (1994). "Magnolias of the World." Royal Botanic Gardens, Kew.---
+---
 
 ## Overview
 

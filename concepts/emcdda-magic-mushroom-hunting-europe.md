@@ -7,6 +7,7 @@ documented evidence [[duggar-wild-mushroom-markets-and-seasonal-harvesting]]
 internet sales, wild foraging remained an important source of hallucinogenic
 mushrooms in Europe, particularly in regions where psychoactive species grow
 naturally.
+---
 
 ## Definition and Context
 

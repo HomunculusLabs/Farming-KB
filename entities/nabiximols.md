@@ -17,6 +17,7 @@ psychoactive effects of THC, reducing intoxication, anxiety, and cognitive
 impairment while preserving analgesic and anti-spastic properties. This
 [[mushroom-cancer-clinical-trials-overview]] demonstrate significant reductions in spasm
 frequency, severity, and patient-reported spasticity scores.
+---
 
 ### Cancer Pain
 

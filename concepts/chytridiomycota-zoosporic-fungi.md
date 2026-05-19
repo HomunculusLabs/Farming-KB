@@ -9,6 +9,7 @@ source: "[[maintaining-organic-matter-in-vegetable-gardens]] [[fungal-biodiversi
 - **Parasites of invertebrates**: Chytrids infect various aquatic invertebrates, including nematodes, rotifers, and insect larvae.
 - **Symbionts in herbivore guts**: Neocallimastigales chytrids inhabit the rumen of cattle and other herbivores, where they ferment cellulose and contribute to digestion.
 - **Plant parasites**: Some chytrids cause plant diseases, such as *Synchytrium endobioticum*, which causes potato wart disease, and *Olpidium brassicae*, which transmits plant viruses.
+---
 
 ## Batrachochytrium dendrobatidis: The Amphibian Killer
 

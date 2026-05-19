@@ -7,6 +7,7 @@ by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
 to local conditions always taking precedence over textbook approaches.
+---
 
 Common pitfalls and mistakes that practitioners should be aware of
 include inadequate preparation, poor timing of interventions, failure

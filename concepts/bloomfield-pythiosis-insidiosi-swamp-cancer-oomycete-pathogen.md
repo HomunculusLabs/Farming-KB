@@ -21,6 +21,7 @@ kingdom, this organism causes devastating infections in mammals including
 horses, dogs, cats, cattle, humans, and even a polar bear in a zoo. The
 disease is classified among the **emerging mycoses** — conditions whose
 future disease-causing potential is troubling to medical mycologists.
+---
 
 ## The Pathogen: Not a True Fungus
 

@@ -13,6 +13,7 @@ sources:
   - Ukwuoma, C.C. & Obeleme, P. (1999). "chemical-composition-of-hallucinogens tiger nut tubers." Plant Foods for Human Nutrition, 54(3), 187-191.
   - Adekanmi, A. et al. (2009). "Nutritional and health benefits of tigernut." Journal of Food Technology, 7(1), 1-7.
   - Sánchez-Zapata, E. et al. (2012). "Tigernut (Cyperus esculentus) commercialization." Trends in Food Science & Technology, 25(2), 121-130.---
+---
 
 ## Overview
 

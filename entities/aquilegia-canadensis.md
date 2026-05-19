@@ -13,6 +13,7 @@ updated: 2026-05-09
 sources:
   - Munz, P.A. (1946). "A revision of the genus Aquilegia." Madroño, 8(6), 177–203.
   - Taylor, R.J. (1984). "The biosystematics of Aquilegia in the eastern [[guzman-psilocybin-mushrooms-mexico-central-america]] [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]] recognizable native wildflowers of [[query-how-do-i-use-wood-chips-to-grow-mushrooms-in-my-garden]]s and woodland plantings for its attractive flowers and delicate foliage.
+---
 
 ## Taxonomy and Morphology
 

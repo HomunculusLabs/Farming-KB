@@ -15,6 +15,7 @@ sources:
   - Nichols SA, Shaw BH (1986). "Ecological life histories of the three aquatic plants myriophyllum-spicatum, potamogeton-crispus, and Elodea canadensis." Hydrobiologia 131(1): 3-21.
   - Bowmer KH, Jacobs SWL, Sainty GR (1995). "Identification, biology and management of Elodea canadensis, Elodea nuttallii and Lagarosiphon major." CSIRO Division of Water Resources Consultancy Report.
   - USDA NRCS (2024). "Elodea canadensis Michx." PLANTS Database.---
+---
 
 ## Overview
 

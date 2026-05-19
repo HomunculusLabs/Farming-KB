@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of [[psilocybin-north-america-pacific-northwest]]: Volume 2 — Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Stein, J.D. et al. (2003). "Quercus." In: Flora [[bolete-fungi-appalachian-region]] and adjacent areas of [[castanea-dentata]]*), giving the tree its common name.
+---
 
 ## Taxonomy and Morphology
 

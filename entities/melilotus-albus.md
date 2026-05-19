@@ -13,6 +13,7 @@ sources:
   - Smith, C.R. & Gorz, H.J. (1965. "Sweetclover improvement." Advances in Agronomy, 17, 163-231.
   - Turkington, R. et al. (1978. "The biology of Canadian weeds: Melilotus alba." Canadian Journal of Plant Science, 58(2), 525-537.
   - Baskin, J.M. & Baskin, C.C. (1999. "Ecology of [[melilotus-officinalis]].
+---
 
 It is a biennial herb growing 1 to 3 meters tall with an erect, branching stem arising from a prominent taproot in its first year.
 

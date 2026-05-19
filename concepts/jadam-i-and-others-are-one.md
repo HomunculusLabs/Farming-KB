@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [jadam, [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] often contains antibiotics
 - [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and toxins accumulate
+---
 
 Just as overeating with unbalanced diet causes obesity and disease in humans, overfertilization with nutritionally unbalanced inputs causes problems in crops. This manifests as:
 - [[jadam-rice-bran-problems]], perilla pulp, and press cakes as primary fertilizers. These are leftovers -- peels and skins. You cannot expect big fruits from feeding crops peels.

@@ -15,6 +15,7 @@ sources:
   - https://link.springer.com/article/10.1007/s11046-005-0039-2
 aliases:
   - [[medicinal-mushrooms]] globally, the visible chaga "conk" is not the [[dmt-containing-plants-united-states-halpern]], and parts of Central and Eastern Europe.
+---
 
 ## Taxonomy
 

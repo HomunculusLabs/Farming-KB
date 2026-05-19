@@ -1,6 +1,7 @@
 ---
 title: "King king stropharia ecological interactions permaculture Interactions in Permaculture"
 source: "Growing Gourmet and [[biodiversity-of-fungi-ecosystem-services-agriculture]] that no other cultivated mushroom species has been shown to offer. These interactions were first systematically documented by Paul Stamets and have since inspired ongoing research into mycofiltration and mycorestoration.
+---
 
 ## The Bee-Mycelium Interaction
 

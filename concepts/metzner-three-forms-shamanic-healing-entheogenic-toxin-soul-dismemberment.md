@@ -1,6 +1,7 @@
 ---
 title: Metzner Three Forms Shamanic Healing Entheogenic Toxin Soul Dismemberment
 source: Metzner (1998) - Hallucinogenic Drugs and Plants in [[blesching-cannabis-healing-practices-setting-intention-affirmations]] identified three primary variations of healing experiences that occur within [[cannabidiol-therapeutic-mechanisms]] from those recognized in Western psychotherapy, and their existence challenges Western assumptions about the nature of illness and healing.
+---
 
 ## The Three Forms
 

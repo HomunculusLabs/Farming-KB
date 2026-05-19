@@ -13,6 +13,7 @@ sources:
   - Brodo IM, Sharnoff SD, Sharnoff S (2001). *Lichens of psilocybin-north-america-pacific-northwest*. Yale University Press.
   - Hale ME (1979). "How to Know the Lichens." 2nd ed. Wm. C. Brown Company.
   - Nash TH III (2008). *[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
+---
 
 The species is immediately recognizable by its broad, pale green to yellow-green lobes
 with a distinctive pattern of white macules (pseudocyphellae) on the upper surface. It

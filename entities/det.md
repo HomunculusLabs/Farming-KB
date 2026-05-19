@@ -4,6 +4,7 @@ type: chemical
 tags:
   - [[reserpine]]." Journal of the American Chemical Society, 76, 6206.
   - Glennon, R.A., et al. (1992). "[[alexander-shulgin]]'s TiHKAL (entry #39), where it received a ++ rating for psychedelic activity.
+---
 
 The compound acts primarily as a 5-HT2A receptor agonist, producing visual and cognitive effects similar to DMT but with a longer duration and different character.
 

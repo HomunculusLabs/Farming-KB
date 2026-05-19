@@ -13,6 +13,7 @@ sources:
   - Schultes, R.E. & Hofmann, A. (1992). "Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers." Healing Arts Press.
   - Emboden, W. (1979). "Ergot on the Seed of Argyreia nervosa." Economic Botany, 33(2), 207-209.
   - Chao, J.M. & Der Marderosian, A.H. (1973). "Identification of [[lysergic-acid-amide]] (LSA, ergine), at concentrations significantly higher than those found in [[dmt-botanical-sources-pharmacology]] of naturally occurring lysergic acid derivatives.
+---
 
 In traditional Indian medicine (Ayurveda), the plant has been used for centuries as a treatment for various ailments. The roots, leaves, and seeds each hold distinct positions in the Ayurvedic pharmacopoeia.
 

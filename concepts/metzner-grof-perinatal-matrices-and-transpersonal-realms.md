@@ -5,6 +5,7 @@ tags: [[stanislav-grof]]'s groundbreaking
 discovery within [[metzner-sandoz-psycholytic-therapy-european-clinical-model]], patients were given LSD in a series of
 sessions at gradually increasing doses while undergoing analytic
 interactions using a Freudian perspective.
+---
 
 The rationale was that through psycholysis, the loosening of
 psychological defenses, the patient would become more vividly aware

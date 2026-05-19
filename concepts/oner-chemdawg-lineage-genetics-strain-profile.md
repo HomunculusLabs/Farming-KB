@@ -3,6 +3,7 @@ title: Chemdawg Cannabis Strain - Lineage and Genetics
 source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 source_author: S.T. Oner, The Rev
 topics: chemdawg, cannabis strain, sativa, lineage, genetics, [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] [[oner-trainwreck-humboldt-seed-organisation-arcata-classic]], Chemdawg occupies a central position in the family tree of countless contemporary hybrid strains. Its exact genetic origins remain the subject of debate and legend, but its impact on [[vic-high-cannabis-genetics-mendelian-inheritance]].
+---
 
 ### Uncertain Parentage
 

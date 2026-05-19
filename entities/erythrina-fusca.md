@@ -1,3 +1,9 @@
+---
+title: Erythrina Fusca
+type: entity
+tags: [species]
+sources: []
+---
 
 ## Erythrina fusca
 
@@ -59,3 +65,18 @@ conditions. USDA Zones 10–12, minimum ~2°C.
 E. fusca contains tetracyclic erythrina alkaloids in seeds and bark:
 
 - **Erythraline** — major alkaloid; spasmolytic and neuromuscular activity
+
+## Habitat and Distribution
+
+Native to tropical lowland forests of Central and South America, thriving in seasonally flooded areas, river margins, and swamp edges from sea level to 500m elevation.
+The species tolerates prolonged waterlogging and is found throughout the Amazon basin, Caribbean, and parts of Mesoamerica in riparian zones.
+
+## Ecological Role
+
+As a nitrogen-fixing legume, E. fusca enriches soils in flood-prone areas where other nitrogen fixers struggle, providing critical nutrient cycling in wetland ecosystems.
+The bright orange-red flowers attract hummingbirds and perching birds, making the tree an important nectar source in tropical agroforestry systems.
+
+## Agroforestry Applications
+
+Used as a shade tree in cacao and coffee plantations, providing nitrogen fixation, living fence posts, and erosion control along stream banks and drainage channels.
+Fast growth rate (2-3m/year) and vigorous resprouting after coppicing make it valuable for fuelwood production in tropical smallholder systems.

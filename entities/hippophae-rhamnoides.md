@@ -14,6 +14,7 @@ sources:
   - Li, T.S.C. & T.H.J. Beveridge (2003). "Sea Buckthorn (seaberry-hippophae-rhamnoides L.): Production and Utilization." NRC Research Press, Ottawa.
   - Zeb, A. (2004). "Chemical and Nutritional Constituents of Sea Buckthorn Juice." Pakistan Journal of Nutrition 3(2): 99-106.
   - Suryakumar, G. & A. Gupta (2011). "Medicinal and [[soil-erosion-control]] soil stabilization across its native range. The berries contain one of the highest concentrations of vitamin C found in any fruit.
+---
 
 The plant is dioecious, with separate male and female individuals. It has been cultivated for centuries in Central Asia, the Himalayas, and Siberia for food, medicine, and animal fodder. Commercial cultivation has expanded globally since the 1990s.
 

@@ -7,6 +7,7 @@ intermediate undergoes an intramolecular conversion to a zwitterionic
 derivative that can be isolated by simple filtration in high yield, enabling
 gram-scale production of psilocybin without any chromatographic purification.
 This represented a dramatic improvement over previous synthetic routes.
+---
 
 ## The Challenge of Psilocybin Synthesis
 

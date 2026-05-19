@@ -15,6 +15,7 @@ sources:
   - Kühner, R. (1936). "Le genre Coprinus." Encyclopédie Mycologique 7: 1-280.
   - Redhead, S.A., Vilgalys, R., Moncalvo, J.M., Johnson, J., Hopple, J.S. (2001). "Coprinus Pers. and the disposition of Coprinus species sensu lato." Taxon 50(1): 203-241.
   - Lincoff, G.H. (1981). "National Audubon Society [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]] and its closest relatives.
+---
 
 **Synonyms:**
 

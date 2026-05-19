@@ -24,6 +24,7 @@ sources:
   - Tiwari, H.K. et al. (2023). "Tryptamine derivatives: a review of occurrence, synthesis, and pharmacology." Frontiers in Chemistry, 11, 1185.
   - Jacob, M.S. & Presti, D.E. (2005). "Endogenous psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins reconsidered." Journal of Psychoactive Drugs, 37(2), 167–178.
 created: 2026-05-07---
+---
 
 ## Overview
 

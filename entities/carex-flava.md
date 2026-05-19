@@ -13,6 +13,7 @@ sources:
   - Jermy, A.C. & Tutin, T.G. (1968). "Carex L." in Flora Europaea, Vol. 5. Cambridge University Press.
   - Schultze-Motel, W. (1967). "Cyperaceae." in Hegi, G., Illustrierte Flora von Mitteleuropa, Vol. II(1). Carl Hanser Verlag.
   - [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], who noted the continuous morphological variation between putative species. Modern cytological and molecular studies have confirmed the complexity of the group, with hybridisation contributing to taxonomic difficulties.
+---
 
 Chromosome counts within the aggregate show variation, with diploid and polyploid cytotypes documented across different species. Polyploid individuals tend to be more robust and may have broader ecological tolerances than their diploid counterparts.
 

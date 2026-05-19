@@ -2,6 +2,7 @@
 title: "Maitake (maitake-grifola-frondosa-comprehensive-profile) — Overview of Cultivation"
 source: "Chen, A.W. (1999). A Practical Guide for Synthetic-Log Cultivation of [[lentinula-edodes]]*). Several
 factors contribute to this difficulty:
+---
 
 - **[[fungi-cultivated-mushrooms-pathogens-competitors]], maitake
   cannot share growing rooms with other species. Its specific

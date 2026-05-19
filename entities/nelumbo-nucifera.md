@@ -14,6 +14,7 @@ sources:
   - Mukherjee PK et al. (2009). "Studies on anti-inflammatory, analgesic and antipyretic properties of Nelumbo nucifera rhizome extract." Journal of Ethnopharmacology.
   - Sridhar KR, Bhat R (2007). "Aquatic macrophytes as sources of food and nutrition." Journal of Food Science and Technology.
   - Tung YT et al. (2008). "Anti-inflammatory activities of [[hamilton-vegetative-propagation]] structure.
+---
 
 Leaves are peltate (petiole attached to the center rather than the margin), circular, and 30–80
 cm in diameter. Young leaves float flat on the water surface, while mature leaves are held

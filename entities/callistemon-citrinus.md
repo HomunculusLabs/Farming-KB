@@ -14,6 +14,7 @@ sources:
   - Harden, G.J. et al. (2014). "Flora of NSW, Volume 2." Royal Botanic Gardens & Domain Trust.
   - Wrigley, J.W. & Fagg, M. (1993). "Bottlebrushes, Paperbarks and Tea Trees." Angus & Robertson.
   - Brophy, J.J. et al. (2000). "[[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] worldwide.
+---
 
 In cultivation, compact forms are widely available, with dwarf cultivars reaching only 0.5–1.0 meters. These smaller selections are popular for [[permaculture-designers-manual-essential-oil-plants]] rich in 1,8-cineole and citral, which has commercial value in perfumery and traditional medicine. The species is also important as a nectar source for birds and insects.
 

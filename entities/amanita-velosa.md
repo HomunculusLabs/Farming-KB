@@ -14,6 +14,7 @@ species native to the western [[psilocybin-north-america-pacific-northwest]]. De
 — which includes deadly species like *A. phalloides* and
 *A. virosa* — *A. velosa* is distinctive in appearance and
 reliably identifiable when key features are observed.
+---
 
 The species was first described by mycologist William Alphonso
 Murrill in 1912 from collections made in California.

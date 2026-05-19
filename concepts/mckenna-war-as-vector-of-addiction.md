@@ -6,6 +6,7 @@ pipeline for drug dependence, creating markets and habits that outlast the
 conflicts themselves. This pattern is not accidental but structural — war
 creates the conditions (mass trauma, disrupted supply chains, covert funding
 needs) that make drug proliferation inevitable.
+---
 
 ## Morphine and the American Civil War
 

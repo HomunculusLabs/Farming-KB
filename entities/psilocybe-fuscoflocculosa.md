@@ -2,6 +2,7 @@
 title: Psilocybe fuscoflocculosa
 created: 2026-04-28
 type: [[species-specific-cold-shock-and-fruiting-behavior-psilocybe-guide]] fuscoflocculosa
+---
 
 **Psilocybe fuscoflocculosa** is a tropical and subtropical [[mushroom-environmental-requirements-temperature-moisture-light]]ly amygdaliform
 - Thick-walled, with a distinct germ pore

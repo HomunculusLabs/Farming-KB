@@ -3,6 +3,7 @@ title: [[mollison-designers-diversion-drains-and-interceptor-banks]] Spreader Ba
 source: bill-[[permaculture-design]] for managing overland water flow, controlling
 salinity, distributing irrigation water, and enabling wildfire suppression. When
 combined with dams, swales, and appropriate [[water-management]] across large areas
+---
 
 ### Automated and Remote Spill Gates
 

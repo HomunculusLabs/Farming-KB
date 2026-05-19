@@ -32,6 +32,7 @@ making horse chestnut seed extract one of the most extensively studied and
 clinically validated herbal medicines for chronic venous insufficiency.
 Despite its medicinal value, the raw seeds are toxic and should not be
 ingested without processing.
+---
 
 ## Taxonomy
 

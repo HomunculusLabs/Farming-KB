@@ -1,4 +1,4 @@
---- title: Boletus Species with Alarming Color Changes source: mushrooms
+---
 ---poisionous-fungi-by-john-ramsbottom-1945.md type: concept ---
 Several species of Boletus produce dramatic colour changes when their
 flesh is cut, bruised, or exposed to air. The most spectacular is an
@@ -9,6 +9,7 @@ widespread belief that blue-staining boletes are necessarily poisonous.
 His treatment of Boletus satanas, B. luridus, B. erythropus, and B.
 felleus illustrates how colour change has misled generations of
 collectors.
+---
 ## The Chemistry of Flesh Colour Change
 The colour change in boletes is a chemical phenomenon. Certain
 substances called chromogens (for example, boletol in Boletus species)

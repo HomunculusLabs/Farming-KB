@@ -3,6 +3,7 @@ title: Holzer Rebel Farmer Philosophy
 created: 2026-04-26
 tags:
   - [[fukuoka-natural-farming-philosophy-road-back-to-nature|natural]], independent farming.
+---
 
 ## The Farmstead of the Future
 

@@ -4,6 +4,7 @@ source: Gaia's Garden - A Guide to Home-Scale Permaculture (Toby Hemenway)
 topics: plant succession, [[cervantes-companion-planting-pest-deterrent]], [[pattern-understanding-in-ecological-design]] to protect, establish, and support vulnerable or desirable plants. These concepts, drawn from natural plant [[cervantes-microclimate-frost-protection]]**: Modifying microclimate to reduce frost damage.
 - **Fertility**: Nitrogen-fixing chaperones enrich soil for their charges.
 - **[[wildlife-habitat-creation]]. Several bird species that are insensitive to capsaicin (the compound that makes chiles hot) prefer hackberries for perching and nesting. The birds disperse most chiltepine seeds they have eaten beneath hackberries, creating an interdependent three-species network: hackberry, bird, and wild chile.
+---
 
 ### Design Application
 

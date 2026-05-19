@@ -18,6 +18,7 @@ sources:
   - "Ma, G. et al. (2015). \"Isolation of digoxin from [[cannabis-cancer-symptom-management]] in
 heart failure with reduced ejection fraction (HFrEF). Its [[blesching-cannabis-therapeutic-window-dosing]] is
 notoriously narrow, requiring serum level monitoring to avoid toxicity.
+---
 
 Digoxin acts by inhibiting the sodium-potassium ATPase (Na+/K+-ATPase) on
 cardiac myocytes, which indirectly increases intracellular calcium concentration

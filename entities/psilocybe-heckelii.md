@@ -15,6 +15,7 @@ sources:
   - Guzmán G, Ott J. (1976). "Second and third species in the dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis series." Mycotaxon, 4(1), 188-191.
   - Stamets P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - Guzmán G, et al. (2000). "A worldwide [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]** and northern **South America**. The species was first described from material collected in **Colombia** and has since been recorded across a range extending from southern Mexico through Panama, Colombia, and into Ecuador.
+---
 
 P. heckelii is closely allied with the **Psilocybe mexicana** species complex. It produces moderate levels of [[traditional-indigenous-use-sacred-fungi]] ceremonies in several Mesoamerican cultural contexts. The species is less well-characterized biochemically than its close relatives P. mexicana and P. caerulescens.
 

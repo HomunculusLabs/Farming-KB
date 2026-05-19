@@ -4,7 +4,6 @@ tags:
   - concept
 ---
 
----
 created: 2026-05-08
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [pf-tek, steam-sterilization, pressure-cooker-alternative, canning, mushroom-cultivation, home-mycology, sterilization]

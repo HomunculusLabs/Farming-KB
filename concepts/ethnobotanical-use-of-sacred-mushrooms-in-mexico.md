@@ -6,6 +6,7 @@ ethnobotanical tradition surrounding these fungi is among the richest
 and most complex of any psychoactive plant or fungus tradition in the
 world, encompassing more than 200 documented common names and spanning
 numerous ethnic groups across southern Mexico.
+---
 
 ## The Name Teonanácatl
 

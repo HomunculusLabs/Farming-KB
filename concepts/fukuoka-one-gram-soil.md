@@ -11,6 +11,7 @@ updated: 2026-05-08
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - [[clay-pellet-desert-revegetation]] and his [[fukuoka-critique-laws-agricultural-science]].
+---
 
 ## The Living Soil
 

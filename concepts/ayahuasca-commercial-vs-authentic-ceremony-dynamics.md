@@ -15,6 +15,7 @@ far beyond the ceremony itself. Participants typically
 know the shaman personally, have observed the
 preparation of the brew, and share a cultural
 understanding of the experience's purpose and meaning.
+---
 
 The ceremony serves multiple functions: healing
 physical and psychological ailments, resolving

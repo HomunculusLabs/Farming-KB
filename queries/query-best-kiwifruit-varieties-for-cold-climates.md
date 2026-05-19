@@ -20,6 +20,7 @@ sources:
   - University of Minnesota Extension: Hardy Kiwi in Minnesota.
 type: query
 created: 2026-05-03---
+---
 
 ## What Are the Best Kiwifruit Varieties for Cold Climates?
 

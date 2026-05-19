@@ -6,6 +6,7 @@ type: concept
 tags: [[natural-farming]] and
 [[root-cellaring]] is ideal.
    The meat should stay edible for several months.
+---
 
 3. **The science of salt curing:** Salt dissolves into the water in the
    meat, preventing bacterial growth if the balance exceeds 3.5% salt

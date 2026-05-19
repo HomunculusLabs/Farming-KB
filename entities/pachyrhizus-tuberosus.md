@@ -19,6 +19,7 @@ sources:
   - Castellanos, J.Z. et al. (1997). "Nitrogen accumulation in the root and seed of pachyrhizus-erosus, P. tuberosus and P. ahipa." Field Crops Research, 52(1-2), 75-81.
   - Clauss, E. (2005). "Genetic resources of Pachyrhizus tuberosus (Lam.) Spreng." PhD thesis, University of Göttingen.
 created: 2026-04-28---
+---
 
 ## Pachyrhizus tuberosus
 

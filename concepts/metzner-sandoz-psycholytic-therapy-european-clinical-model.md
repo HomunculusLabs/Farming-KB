@@ -7,6 +7,7 @@ focused not on treatment but on exploring psychedelic possibilities
 for "normals" — mostly graduate students — as well as artists,
 musicians, poets and writers, in relatively unstructured but
 supportive, home-like settings.
+---
 
 ## Overview
 

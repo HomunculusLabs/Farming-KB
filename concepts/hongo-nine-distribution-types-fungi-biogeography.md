@@ -4,7 +4,6 @@ tags:
   - concept
 ---
 
----
 created: 2026-05-08
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 tags: [biogeography, distribution, mycology, hongo, neurotropic-fungi, fungal-ecology, species-distribution]

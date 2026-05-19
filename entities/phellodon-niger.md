@@ -14,6 +14,7 @@ sources:
   - Maas Geesteranus, R.A. (1968). "Preliminary revision of the genus Phellodon." Persoonia, 5(2), 145-155.
   - Harrison, K.A. (1972). "Thelephorales (Aphyllophorales)." In: Ainsworth, Sparrow & Sussman, The Fungi, Vol. 4B.
   - Keller, C. (2006). "Tooth Fungi of Europe." Phellodon [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
+---
 
 The species is recognized by its dark, funnel-shaped [[psilocybin-north-america-pacific-northwest]], though it is
 uncommon and considered threatened in several European countries due to habitat

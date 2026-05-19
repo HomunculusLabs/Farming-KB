@@ -24,6 +24,7 @@ sources:
   - Kuo, M. (2024). "Pholiota squarrosa." MushroomExpert.com. https://www.mushroomexpert.com/pholiota_squarrosa.html
   - Stamets, P. (1996). "[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern
 Hemisphere.
+---
 
 Although P. squarrosa is technically edible after thorough cooking, it is
 generally considered unpalatable due to its bitter taste and slimy texture.

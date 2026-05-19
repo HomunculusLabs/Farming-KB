@@ -12,6 +12,7 @@ sources:
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
   - Smith, C.W. et al. (2009). "The Lichens of Great Britain and Ireland." British Lichen Society.
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] and provides a secondary means of [[polypore-fungi-eastern-north-america]]. It extends from the British Isles and Scandinavia southward to the Mediterranean region and occurs across the Appalachian Mountains and eastern deciduous forests of North America.
+---
 
 Scattered populations have been reported from the Pacific Northwest of North America, but the species is far less common west of the continental divide.
 

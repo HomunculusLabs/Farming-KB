@@ -13,6 +13,7 @@ sources:
   - "Mullins, M.G., Bouquet, A. & Williams, L.E. (1992). Biology of the Grapevine. Cambridge University Press."
   - "Alleweldt, G. & Possingham, J.V. (1988). \"The Origin of Vitis labrusca.\" Vitis, 27(1), 11-20."
   - "Reisch, B.I., Goodman, R.N. & Martens, M.H. (1993). \"Grape [[polypore-fungi-eastern-north-america]] America, commonly known as the fox grape. It is the parent species of many important American grape cultivars, most notably the Concord grape.
+---
 
 The species is distinguished by its characteristic "foxy" aroma, a musky scent attributed to methyl anthranilate, which sets it apart from the European wine grape *[[growing-gourmet-north-american-reishi-species]] grapes once classified under this species have since been reassigned to other taxa.
 

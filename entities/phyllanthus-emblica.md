@@ -19,6 +19,7 @@ is among the richest natural sources of ascorbic acid and contains a complex
 array of tannins, flavonoids, and polyphenols. Amla is a premier rasayana
 (rejuvenative) herb in Ayurvedic medicine with over three millennia of
 documented use across South Asian medical traditions.
+---
 
 ## Taxonomy
 

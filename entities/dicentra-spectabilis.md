@@ -13,6 +13,7 @@ updated: 2026-05-09
 sources:
   - Went, J.L. (1956). "The Taxonomy of Dicentra." Proceedings of the California Academy of Sciences 28(12): 361–394.
   - Layne, D.R. (2006). "Dicentra." In: Flora [[hamilton-cottage-garden-design]] perennials.
+---
 
 ## Taxonomy and Morphology
 

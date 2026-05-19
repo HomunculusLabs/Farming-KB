@@ -6,6 +6,7 @@ topic: mycology, [[hplc-analysis-of-psilocybin-and-psilocin]] [[agaricus-bisporu
 (1976) and adapted into the "miniculture" format by Bigwood and Beug themselves,
 establishing a foundational [[indoor-morel-cultivation-protocol]] that would influence decades of
 small-scale mushroom research.
+---
 
 ## San Antonio's Original Protocol (1971)
 

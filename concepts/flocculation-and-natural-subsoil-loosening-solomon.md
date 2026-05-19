@@ -16,6 +16,7 @@ support dense populations that process the organic material and distribute it
 throughout the topsoil and into the upper subsoil. The worm burrows themselves
 serve as macropores that improve both water infiltration and root penetration,
 compounding the benefits of the flocculation process.
+---
 ## The Plow Pan Problem
 
 Understanding flocculation is essential for grasping why plow pans are so

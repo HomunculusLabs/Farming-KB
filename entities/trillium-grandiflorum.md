@@ -13,6 +13,7 @@ updated: 2026-05-08
 sources:
   - Case, F.W. & Case, R.B. (1997). *Trilliums of psilocybin-north-america-pacific-northwest*. Timber Press.
   - Freeman, C.C. (2009). "Trillium." In: Flora [[polypore-fungi-eastern-north-america]] America. It is one of the most recognizable spring ephemerals of deciduous forests, producing large showy white flowers with three petals that fade to pink as they age.
+---
 
 The species is the provincial flower of Ontario and the state wildflower of Ohio. It serves as an important indicator of high-quality, undisturbed forest habitat.
 

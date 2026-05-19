@@ -4,6 +4,7 @@ subtitle: "Species-specific cultivation methods, [[genetic-improvement-agaricus-
 Paris around 1868, and today dozens of species can be grown
 commercially or by dedicated home cultivators, each demanding its own
 specific environmental parameters and cultivation techniques.
+---
 
 Paul Stamets' Growing Gourmet and Medicinal Mushrooms remains the
 single most comprehensive practical guide to the field, documenting

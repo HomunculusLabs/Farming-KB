@@ -14,6 +14,7 @@ sources:
   - RHS (2024). "Gypsophila paniculata." Royal Horticultural Society Plant Finder.
   - Madhani, H. et al. (2018). "Taxonomy of Gypsophila (Caryophyllaceae) in Iran." Phytotaxa, 374(1): 1–60.
   - Anderson, N.O. (2006). "Gypsophila." In: Anderson, N.O. (ed.) Flower [[guzman-psilocybin-mushrooms-north-america]], where it is considered invasive in parts of the Great Lakes region and the [[clay-pellet-seed-dispersal]] from garden plantings and commercial flower operations.
+---
 
 In the Great Lakes dune systems, Gypsophila paniculata can produce over 13,000 seeds per plant per season. This prolific [[cannabis-controlled-pollination-seed-production]] drives its invasive potential in sandy, open habitats.
 

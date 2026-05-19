@@ -15,6 +15,7 @@ sources:
   - Hofmann, A. (1964). "The Active Principles of the [[ergot-fungus]]." Perspectives in Biology and Medicine 7(2): 152–163.
   - Gröger, D. & Floss, H.G. (1998). "Biochemistry of [[gadd-aspergillus-fumigatus-glucan-virulence]]*, and several [[ergot-and-lysergic-acid-history]] amides, placing it in the "simple clavine"
 subclass alongside lysergol, setoclavine, and elymoclavine.
+---
 
 Agroclavine exhibits uterotonic, vasoconstrictive, and mild psychoactive
 properties, though its pharmacological potency is significantly lower

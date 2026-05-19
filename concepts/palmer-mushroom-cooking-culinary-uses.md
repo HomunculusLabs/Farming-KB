@@ -9,6 +9,7 @@ tags: [[palmer-edible-mushrooms-north-america]], [[edible-wild-mushrooms-by-regi
 of eating them "three times a day" during the season. He was sharply
 critical of prevailing cook-book practices that disguised the natural
 flavor of fungi.
+---
 
 ## The Two Proper Cooking Methods
 

@@ -19,6 +19,7 @@ sources:
   - McPartland, J.M. (2018). "Cannabis: Sativa, Indica, and the Origin of 'Kush'." Journal of vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015 1: 1.
   - Schultes, R.E. & Hofmann, A. (1980). "The Botany and Chemistry of Hallucinogens." 2nd ed. Thomas.
 created: 2026-05-07---
+---
 
 ## Hindu Kush
 

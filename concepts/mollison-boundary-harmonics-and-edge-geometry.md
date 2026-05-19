@@ -5,6 +5,7 @@ tags:
   - [[gaias-garden-keyhole-beds-and-mandala-gardens]]
 common in nature, are obviously sheltered, spacious habitats for
 gardens and settlements.
+---
 
 As for surface and flow phenomena, we can partition water surfaces to
 reduce wind effect, or design to deliberately create turbulence and

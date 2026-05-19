@@ -14,6 +14,7 @@ sources:
   - Frahm, J.P. & Frey, W. (1992). Moosflora. 3rd ed. Ulmer Verlag.
   - Ignatov, M.S. & Hedenäs, L. (2007). "Orthotrichales." In: Flora [[guzman-psilocybin-mushrooms-north-america]], extending southward
 in mountainous regions.
+---
 
 In Europe, it is widespread from Scandinavia and the British Isles southward to
 the Mediterranean mountains and eastward to the Caucasus. In North America, it

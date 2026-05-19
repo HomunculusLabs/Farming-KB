@@ -14,6 +14,7 @@ sources:
   - Fabjan, N. et al. (2003). "Tartary buckwheat (Fagopyrum tataricum Gaertn.) as a source of dietary rutin." Journal of Agricultural and Food Chemistry, 51(22), 6452-6455.
   - Zhu, F. (2016). "chemical-composition-of-hallucinogens and health effects of Tartary buckwheat." Food Chemistry, 203, 231-245.
   - Gao, J. et al. (2020). "A review of Tartary buckwheat: Composition, bioactivities, and applications." Trends in Food Science & Technology, 103, 61-73.---
+---
 
 ## Overview
 

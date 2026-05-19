@@ -6,6 +6,7 @@ stop growing and begin to deteriorate before reaching maturity. The PF Tek
 method, developed by Robert McPherson (Psilocybe Fanaticus), specifically
 recommended harvesting and consuming aborts, noting their reportedly high
 potency relative to their small size.
+---
 
 The phenomenon of concentrated alkaloids in aborted mushrooms raises
 interesting questions about fungal biochemistry and the dynamics of

@@ -13,6 +13,7 @@ sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Mitton, J.B. & Grant, M.C. (1996). "Genetic variation and the natural history of quaking aspen." BioScience, 46(1), 25-31.
   - DeByle, N.V. & Winokur, R.P. (1985). "Aspen: [[berry-growing]].
+---
 
 It is the most widely distributed tree species on the continent, ranging from Alaska to Newfoundland and south to [[mollison-designers-food-forest-succession-design]] across boreal and montane landscapes.
 

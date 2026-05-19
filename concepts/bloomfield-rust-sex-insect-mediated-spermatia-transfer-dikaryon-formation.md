@@ -10,6 +10,7 @@ path that diverged hundreds of millions of years before the first
 flower existed. The convergence between rust spermagonia and angiosperm
 flowers represents one of the most striking examples of evolutionary
 convergence between kingdoms.
+---
 
 ## Spermagonia as Fungal Flowers
 

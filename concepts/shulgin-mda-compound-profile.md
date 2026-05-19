@@ -6,6 +6,7 @@ is 3,4-methylenedioxyamphetamine, occupying a central position as the parent com
 which both MDMA (N-methylation) and MDE (N-ethylation) are derived. MDA is humorously
 called one of the "Ten [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] —
 is a [[2c-c-pihkal-entry-22]] describes two methods:
+---
 
 ### From Piperonal (via Nitrostyrene)
 

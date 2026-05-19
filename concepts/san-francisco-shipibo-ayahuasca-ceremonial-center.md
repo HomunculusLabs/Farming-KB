@@ -14,6 +14,7 @@ tags:
 source:
   - "Stuart, R. 'ayahuasca-tourism|[[ayahuasca-tourism-economics-peruvian-amazon]]. It has declared itself the
 "Centro Ceremonial del Ayahuasca" — the san francisco shipibo [[ayahuasca-ceremony-pharmacology-safety]] for visitors.
+---
 
 San Francisco is one of the two primary nodes of [[western-spiritual-tourism-chronology]].
 

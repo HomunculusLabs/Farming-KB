@@ -15,6 +15,7 @@ sources:
   - https://www.leafly.com/ — strain databases and user reviews
   - https://www.wikileaf.com/ — [[cannabis-genetic-stability]] research
   - Clarke, R.C. "[[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] growers in Mediterranean and subtropical regions.
+---
 
 ## Genetic Lineage
 

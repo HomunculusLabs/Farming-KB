@@ -2,6 +2,7 @@
 title: "[[endophytic-fungi]] [[biodiversity-of-fungi-macrofungi-sampling-methods]] [[arbuscular-mycorrhizal-colonization-patterns]]"
 source: "[[dighton-fungal-drought-tolerance-plant-water-relations]] in exchange for nutrition and
 dispersal.
+---
 
 In contrast, most non-grass endophytes exhibit limited domain colonization.
 Rather than pervading all tissues, these fungi occupy restricted areas —

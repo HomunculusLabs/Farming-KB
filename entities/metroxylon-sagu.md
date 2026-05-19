@@ -17,6 +17,7 @@ sources:
   - Dransfield, J., Uhl, N.W., Asmussen, C.B. et al. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
   - Johnson, D.V. (2013). "World Checklist of Palms." International Palm Society.
   - Jong, W. (1995). "In Search of the [[guzman-allen-gartz-trans-pacific-species-pairs-psilocybe-biogeography]] native to the swamps and lowlands of [[green-cannabis-grow-bible-flowering-phase-and-harvest]] event, producing massive inflorescences.
+---
 
 Sago palm starch has served as a staple carbohydrate for millions of people across the Malay Archipelago for centuries.
 

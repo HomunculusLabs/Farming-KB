@@ -7,6 +7,7 @@ aliases: [psilocybin effects, [[set-and-setting]]
 - Philosophical or spiritual insights
 - Enhanced appreciation of music and art
 - Difficulty distinguishing imagination from external perception
+---
 
 ### Unpleasant Effects
 

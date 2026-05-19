@@ -3,6 +3,7 @@ title: Small Dam Types and Placement
 source: bill-[[permaculture]]
 water [[water-conservation]] and gravity-fed flow irrigation, involving
    patterning, [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]], soil treatment, and fencing.
+---
 
 ## Dam Types and Landscape Locations
 

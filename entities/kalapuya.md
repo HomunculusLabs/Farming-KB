@@ -24,6 +24,7 @@ sources:
   - Phylos Bioscience. "Kalapuya Strain Profile." https://phylosbioscience.com
   - Leafly. "Kalapuya Strain Information." https://www.leafly.com
   - AllBud. "Kalapuya [[psilocybin-north-america-pacific-northwest]] [[query-how-does-no-till-cannabis-cultivation-work]].
+---
 
 The cultivar is known for its sweet, fruity aroma dominated by strawberry notes, combined with balanced hybrid effects that deliver both cerebral stimulation and physical relaxation. It is considered a regional specialty, less widely available than mainstream commercial strains.
 

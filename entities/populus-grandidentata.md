@@ -14,6 +14,7 @@ sources:
   - B. V. Barnes & W. H. Wagner (2004). "Michigan Trees." University of Michigan Press.
   - USDA Forest Service (2024). "Silvics of psilocybin-north-america-pacific-northwest: Populus grandidentata." fs.usda.gov.
   - G. W. Argus (2010). "Salicaceae." In Flora [[fungal-life-cycles-sexual-reproduction-metamorphosis]] is largely limited to years when seed dispersal coincides with favorable moisture conditions on exposed mineral soil. Vegetative reproduction through root suckering is therefore the dominant mode of stand persistence.
+---
 
 ## Distribution and Habitat
 

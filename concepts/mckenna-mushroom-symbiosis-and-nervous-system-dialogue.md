@@ -7,6 +7,7 @@ McKenna approached it as an intelligent interlocutor. The
 culmination of this dialogue is the mushroom's own self-
 description: "I require the nervous system of a mammal. Do you
 have one handy?"
+---
 
 This statement encapsulates McKenna's central thesis: the
 psilocybin mushroom is a **symbiotic organism** whose evolutionary

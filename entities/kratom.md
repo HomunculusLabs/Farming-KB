@@ -18,6 +18,7 @@ sources:
   - Prozialeck, W.C. et al. (2012). "Kratom ([[kratom-mitragyna-speciosa-pharmacology]]): An overview of the science and implications for practitioners." Journal of the American Osteopathic Association, 112(12), 782–787.
   - Hassan, Z. et al. (2013). "Mechanism of antinociceptive action of Mitragyna speciosa: involvement of supraspinal opioid receptors." International Journal of Molecular Sciences, 14(12), 23482–23496.
   - Grundmann, O. (2017). "Patterns of kratom use and health impact in the US." Drug and [[7-hydroxymitragynine]] being the primary psychoactive constituents. Kratom has been used traditionally for centuries as a stimulant, analgesic, and treatment for opioid withdrawal in its countries of origin.
+---
 
 The pharmacological profile of kratom is unusual in that it produces both stimulant-like effects at lower doses and opioid-like effects at higher doses. This biphasic action has generated significant scientific and public health interest, particularly as kratom has been increasingly used in Western countries as a self-managed treatment for chronic pain, anxiety, and opioid dependence. The US DEA estimated approximately 10–15 million kratom users in the United States as of the mid-2020s.
 

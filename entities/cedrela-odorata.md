@@ -15,6 +15,7 @@ sources:
   - Styles, B.T. & Khosla, P.K. (1976). "Cedrela: a revision." Kew Bulletin, 31(3), 339-405.
   - Marín, E.A. & Barajas, M.G. (1996). "Cedrela odorata: Useful Trees of Tropical America." CATIE Technical Series.
   - Newton, A.C. et al. (1993). "Genetic variation in Cedrela odorata." Forest [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern [[mollison-designers-legume-shade-tree-pasture-systems]], windbreak, and timber crop in diversified tropical plantings.
+---
 
 The species is listed as Vulnerable on the IUCN Red List due to overexploitation and habitat loss.
 

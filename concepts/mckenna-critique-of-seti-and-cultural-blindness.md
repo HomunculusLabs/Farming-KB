@@ -14,6 +14,7 @@ Intelligence (SETI) program, arguing that its methodological assumptions reflect
 profound cultural biases that virtually guarantee failure. His critique extends beyond
 SETI to encompass what he saw as a broader Western scientific refusal to acknowledge
 forms of intelligence and information that do not conform to sanctioned instrumentalities.
+---
 
 ## The Italian Restaurant Fallacy
 

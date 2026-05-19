@@ -6,6 +6,7 @@ intervention and failure that characterizes [[fukuoka-spider-ecosystem-drama-ric
 applications per year, yet insect damage remained the same as in unsprayed
 fields. The pesticide was not reducing damage — it was maintaining perpetual
 imbalance to ensure continued need for application.
+---
 
 ## The Forest Ecosystem Cascade
 

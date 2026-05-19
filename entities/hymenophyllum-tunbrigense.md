@@ -13,6 +13,7 @@ sources:
   - Page, C. N. (1997). "Ferns: British and European." HarperCollins.
   - Iwatsuki, K. (1984). "Hymenophyllaceae." In K. U. Kramer & P. S. Green, The Families and Genera of Vascular Plants, Vol. 1. Springer.
   - Jermy, A. C. & Camus, J. M. (1991). "The Illustrated [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]], occurring in western Europe, the Azores, Madeira, the Canary Islands, [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] regions.
+---
 
 The family Hymenophyllaceae is one of the most ancient fern lineages, with a fossil record extending to the Carboniferous period. These ferns are characterized by their one-cell-thick laminae, which lack stomata entirely.
 

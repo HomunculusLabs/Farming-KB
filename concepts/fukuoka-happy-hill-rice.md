@@ -20,6 +20,7 @@ be grain enough to sow a half-acre the following year, fifty acres two years hen
 7,000 acres in the fourth year. This handful of grain could, in Fukuoka's vision, become
 the seed rice for an entire nation, opening up the road to independence for a starving
 people.
+---
 
 The arithmetic of this exponential expansion reflects the extraordinary fecundity of the
 rice plant. A single head of rice typically contains several hundred grains, and each

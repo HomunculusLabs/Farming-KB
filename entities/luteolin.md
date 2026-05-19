@@ -13,6 +13,7 @@ updated: 2026-04-28
 sources:
   - López-Lázaro, M. (2009). "Distribution and Biological Activities of the Flavonoid Luteolin." Mini-Reviews in Medicinal Chemistry, 9(1), 31–59.
   - Lin, Y. et al. (2011). "Luteolin, a Flavonoid with Potential for [[reactive-oxygen-species-and-oxidative-stress]].
+---
 
 The compound is yellow crystalline at room temperature, with limited water
 solubility (approximately 5.6 mg/L at 25°C). It is soluble in ethanol,

@@ -4,6 +4,7 @@ aliases: [seed saving, [[cervantes-open-pollinated-heirloom-seeds]], open-pollin
 tags: [gardening, seeds, plant-breeding, food-sovereignty, heirloom-varieties, genetic-diversity]
 created: 2026-05-09
 source: Gardening When It Counts ([[spanish-cannabis-seed-companies]] offer tested varieties with known germination rates and disease resistance. However, Solomon points out several risks in seed dependence:
+---
 
 - **Supply disruption:** Seed companies may face crop failures, shipping delays, or business closures
 - **Variety discontinuation:** Popular varieties can be dropped from catalogs without warning

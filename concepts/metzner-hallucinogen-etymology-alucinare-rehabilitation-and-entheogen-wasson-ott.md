@@ -7,6 +7,7 @@ a distinct relationship to the cultural forces that have shaped — and
 repeatedly disrupted — the [[leary-psychedelic-experience-bardo-mapping]] not as a break from reality but as an exploration
 of dimensions of consciousness that are normally inaccessible — a wandering
 through the interior landscape of the mind.
+---
 
 The rehabilitation of "hallucinogenic" is significant because it reclaims
 the dominant scientific term from its pathological associations without

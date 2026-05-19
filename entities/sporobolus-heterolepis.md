@@ -17,6 +17,7 @@ sources:
   - Hitchcock, A.S. & A. Chase (1950). Manual of the Grasses of the United States, 2nd ed. USDA Miscellaneous Publication No. 200.
   - Darke, R. (2007). The Encyclopedia of Grasses for Livable Landscapes. Timber Press.
   - Howe, H.F. (1994). "Managing Species Diversity in Tallgrass Prairie: Assumptions and Implications." fungal-conservation-biology, 8(3), 691-704.---
+---
 
 ## Overview
 

@@ -21,6 +21,7 @@ combining the aromas of cinnamon, nutmeg, clove, and [[comparison-cacao-vs-black
 functionally dioecious reproductive system, though the [[strain-isolation-from-wild-specimens]] occasionally reaching 18 meters. The
 trunk is short and often twisted, with bark that is smooth and grey when
 young, becoming rough and fissured with age.
+---
 
 Leaves are opposite, simple, elliptic to oblong, 8–15 cm long and 3–6 cm
 wide, leathery, glossy dark green above and paler below. When crushed, the

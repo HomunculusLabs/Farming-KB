@@ -16,6 +16,7 @@ sources:
   - Lourens ACU et al. (2004). "Oleuropein — a lead compound for the treatment of hypertension." Phytomedicine, 11, 38–39.
   - FAO (2023). "FAOSTAT: Olives — area harvested, production quantity." Food and Agriculture Organization.
   - Conceição M et al. (2021). "[[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], with archaeological evidence [[ancient-greek-mystery-cults-comparison]] culture, a symbolism that persists to the present day.
+---
 
 Spanish missionaries introduced olives to the Americas in the 16th century, and the tree is now cultivated in California, [[fukuoka-australia-fruit-fly-incident]] (*Bactrocera oleae*), olive moth (*Prays oleae*), and black scale (*Saissetia oleae*).
 

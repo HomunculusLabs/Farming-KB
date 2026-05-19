@@ -8,6 +8,7 @@ fertilizers, and without pesticides. Fukuoka referred to this method also as the
 revolution" in rice and barley cropping, and he regarded it as the basic pattern of natural
 farming because it enabled the farmer, for the first time, to grow staple crops without any
 dependence on chemical inputs or large machinery.
+---
 
 The annual cycle begins in early autumn. In early or mid-October, Fukuoka sowed clover seeds
 over the standing heads of rice that were approaching maturity. About two weeks before the

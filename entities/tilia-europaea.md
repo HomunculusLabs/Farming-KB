@@ -12,6 +12,7 @@ updated: 2026-05-08
 sources:
   - Pigott, C.D. (2012). Lime-trees and Basswoods. Cambridge University Press.
   - Farrar, J.L. (1995). Trees of the Northern [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It is a natural hybrid between *[[ethnomycology-cultural-significance-sacred-fungi]] in Europe. Linden trees have been planted in village squares, monastery gardens, and royal estates for centuries. They symbolize peace, justice, and community in Germanic and Slavic folklore.
+---
 
 Linden flowers produce one of the world's most prized honeys, known as linden or basswood honey. The flowers and bracts have been used medicinally for millennia, particularly as a calming tea for anxiety and insomnia.
 

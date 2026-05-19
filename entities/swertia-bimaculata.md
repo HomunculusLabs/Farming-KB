@@ -13,6 +13,7 @@ sources:
   - Ho, T.N. & Pringle, J.S. (1995). "Gentianaceae." Flora of China, Vol. 16, 1–139.
   - Kumar, V. & Van Staden, J. (2016). "Swertia: A genus of potent medicinal plants." Journal of Ethnopharmacology, 176, 209–229.
   - Joshi, P. & Dhawan, V. (2005). "[[psilocybe-southeast-asia-pacific]], where it grows in damp meadows and forest clearings.
+---
 
 The species is named for the two prominent dark nectar glands (maculae) on each corolla lobe. These distinctive markings make it one of the more ornamental Swertia species.
 

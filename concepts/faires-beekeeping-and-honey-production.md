@@ -5,6 +5,7 @@ updated: 2026-05-09
 type: concept
 tags: [[comparison-natural-farming-vs-permaculture]] and [[acacia]], or
 built up soil beds planted with thyme, catmint, or field daisies.
+---
 
 The pollen producers around the house that you have probably already
 planted to provide shade can be willow, acacia, pine, and vines like

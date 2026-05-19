@@ -3,6 +3,7 @@ title: "Morus rubra"
 type: species
 tags:
   - [[psilocybin-north-america-pacific-northwest]].
+---
 
 It produces sweet, dark reddish-purple berries that have been used as food by Indigenous peoples for millennia.
 

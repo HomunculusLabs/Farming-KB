@@ -14,6 +14,7 @@ sources:
   - Valentine, D.H. (1948). "Studies in British Primulas II. Hybridisation between Primula elatior and P. veris." New Phytologist, 47(2), 210–219.
   - Huxley, A. (1992). The New RHS Dictionary of Gardening. Macmillan.
   - Widrlechner, M.P. (1982). "A biosystematic study of the Primula elatior complex in [[primula-veris]]*) by its taller stature, larger flowers, and habitat preference.
+---
 
 The oxlip is a characteristic species of European lowland deciduous forests and is considered an indicator of ancient woodland in parts of its range. It has received increasing conservation attention as its habitat has declined across much of western Europe.
 

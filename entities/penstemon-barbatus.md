@@ -12,6 +12,7 @@ updated: 2026-05-10
 sources:
   - Crosswhite, F.S. (1967). "A Revision of Penstemon Section Barbati." American Midland Naturalist 77(1): 69–88.
   - Freeman, C.C. (2019). "Penstemon." Flora [[dmt-containing-plants-united-states-halpern]] and northern Mexico. It produces tall spikes of brilliant coral-red to scarlet flowers that are among the showiest in the genus.
+---
 
 The species is one of approximately 280 *Penstemon* species, all native to North America except one species from East Asia. Its vivid red tubular flowers are adapted to hummingbird pollination.
 

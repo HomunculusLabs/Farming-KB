@@ -17,6 +17,7 @@ sources:
   - "Roy, S. et al. (2007). \"The root endophyte association in Alnus glutinosa.\" Mycorrhiza, 17(6), 539-545."
   - "Mills, D. et al. (2017). \"Frankia alni symbiosis and [[soil-temperature-plant-growth-rate-doubling-rule]]:** Rapid; 60–90 cm/year in youth, slowing after 20 years
 - **Root system:** Shallow, spreading lateral roots with prominent nitrogen-fixing root nodules; often develops adventitious roots in waterlogged conditions
+---
 
 ### Aerial Parts
 

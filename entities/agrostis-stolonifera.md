@@ -11,6 +11,7 @@ updated: 2026-05-09
 sources:
   - Soreng RJ, Peterson PM, Romaschenko K, et al. (2017). "A worldwide phylogenetic classification of the Poaceae (Gramineae)." Journal of Systematics and Evolution 55(2): 131–153.
   - Lyman GT, Johnson CR, Throssell CS, Vargas JM Jr. (2007). "Creeping bentgrass putting green performance as affected by [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. It is now established in [[guzman-psilocybin-mushrooms-south-america]], Australia, New Zealand, and parts of East Asia.
+---
 
 Optimal growth occurs in cool, moist environments with mean temperatures of 15–22 °C during [[psilocybin-north-america-pacific-northwest]], and maritime regions of Canada. It is considered invasive in some wetland habitats where it displaces native wetland grass species.
 

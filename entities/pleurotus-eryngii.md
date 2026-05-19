@@ -14,6 +14,7 @@ sources:
   - Zadrazil, F. (1978). "The ecology and industrial production of cancer-medicinal-mushrooms-pleurotus-ostreatus." Mushroom Science X(1): 621-628.
   - Sánchez, C. (2010). "Cultivation of Pleurotus ostreatus and other [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed. Ten Speed Press.
   - Oei, P. (2003). accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Techniques for [[query-how-do-i-grow-king-oyster-mushrooms]] are cultivated commercially on supplemented straw, sawdust, or a mixture of both. They are among the most commercially valuable *Pleurotus* species due to shelf life and texture.
+---
 
 **Substrate:** Wheat or rice straw, hardwood sawdust (oak, beech), supplemented with wheat bran (10–20%) or soybean meal (5–10%). Pasteurization at 65–70°C for 8–12 hours.
 

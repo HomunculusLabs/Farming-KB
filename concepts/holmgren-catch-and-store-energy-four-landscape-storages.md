@@ -4,6 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 source_author: [[permaculture-principle-apply-self-regulation]] — Catch and Store Energy — addresses the most fundamental challenge facing human civilisation: we have been living by consuming global capital in a reckless manner that would send any business bankrupt. This principle deals with the capture and long-term storage of energy as savings and investment to build natural and human capital, in contrast to Principle 3 ([[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]] and [[passive-solar-design]], water heaters and photovoltaic panels
 - **Wind energy**: pumping water and power generation
 - **Biomass**: sustainable management of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] — that can be used for soil improvement, fuel, and animal feed. These manufactured resources are not necessarily renewable, but they can be tapped in the transition to low-energy systems.
+---
 
 ## Energy Laws and Entropy
 

@@ -9,6 +9,7 @@ sources:
   - "The Natural Way of Farming - [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]] and human knowledge. While unable to fully grasp the totality of
 these interrelationships, any rash endeavor such as the selective extermination or
 raising of a species only serves to upset the balance and order of nature.
+---
 
 ## The Pine Forest Collapse: A Chain of Cascading Effects
 

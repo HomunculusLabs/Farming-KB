@@ -19,6 +19,7 @@ sources:
   - Zervakis, G., et al. (2012). "Cultivation of the bloomfield-boletus-satanus-edible-mushroom-hazards Stropharia rugosoannulata on Agro-Industrial Residues." Bioresource Technology, 114, 494-502.
   - Piattoni, F., et al. (2014). "Soil Fertility and Mycological Properties as Affected by Stropharia rugosoannulata." Applied Soil Ecology, 73, 1-9.
   - Cleary, T., et al. (2019). "Optimization of comparison-maitake-vs-wine-cap-cultivation Cultivation on Hardwood Chips." fungal-education-curriculum-mushroom-science, 19(2), 167-178.---
+---
 
 ## Overview
 

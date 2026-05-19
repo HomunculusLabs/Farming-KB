@@ -14,6 +14,7 @@ sources:
   - Tutin, T.G. et al. (1968–1980). "Flora Europaea, Vol. 4." Cambridge University Press.
   - Pieroni, A. et al. (2002). "Ethnobotanical knowledge in south-eastern Italy." Journal of Ethnopharmacology, 79(2), 217–228.
   - Christensen, K.I. (2004). "Fraxinus." In: Flora of [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] and velvety, opposite, with visible bud scales. Young twigs are grey-green and s[[guzman-central-america-neurotropic-fungi-species-distribution]] and Habitat
+---
 
 *Fraxinus ornus* is native to southern and central Europe, from Italy and the Balkan Peninsula eastward to Turkey, Lebanon, and the Caucasus. It also occurs in southern France and Switzerland.
 

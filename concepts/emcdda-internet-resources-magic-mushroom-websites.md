@@ -7,6 +7,7 @@ mushrooms, including identification guides, cultivation instructions, dosage
 information, legal resources, trip reports, and community forums. This online
 ecosystem played a significant role in the diffusion of knowledge about
 hallucinogenic mushrooms across Europe and globally.
+---
 
 ## Major International Resources
 

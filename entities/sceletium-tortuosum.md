@@ -8,6 +8,7 @@ tags:
   - succulent
   - south-african
   - [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]]), Northern Cape (Great Karoo), Eastern Cape, and southern Free State. Found on rocky outcrops, quartzite gravel flats, semi-arid renosterveld, and sandy well-drained soils at elevations up to ~1,200 m. Drought-tolerant; winter-rainfall Mediterranean [[kava-traditional-preparation-ceremonial-context]] involves a critical **[[mushroom-compost-fermentation-process]]**: fresh leaves/stems are crushed, placed in closed containers, and fermented 5–8 days. This converts precursor alkaloids into the more psychoactive mesembrine-type compounds. The fermented material is sun-dried, then chewed, sniffed as snuff, or smoked. Unfermented material is significantly less potent.
+---
 
 ### Historical Documentation
 

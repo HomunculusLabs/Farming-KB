@@ -10,6 +10,7 @@ suspension are wrapped in tin foil and pressure cooked at 15 psi for 20
 minutes. Glass jars used for collecting spore prints are sterilized in an oven
 at half maximum heat for 30 minutes. These parallel sterilization processes
 ensure that contamination is not introduced during inoculation.
+---
 
 ## Common Issues
 

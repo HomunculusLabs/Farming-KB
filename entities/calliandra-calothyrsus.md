@@ -17,6 +17,7 @@ sources:
   - Carsan S, Karanja J, Staudt M, et al. (2012). "A review on the quality of Calliandra calothyrsus as a fodder for ruminants." Agroforestry Systems, 86(2), 247-256.
   - Sumberg JE. (1985). "Calliandra calothyrsus: An agroforestry tree for the humid tropics." NFTA, Wau, Papua New Guinea.
   - Orwa C, Mutua A, Kindt R, et al. (2009). "Agroforestree Database: a tree reference [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and widely adopted across tropical agroforestry systems worldwide.
+---
 
 Commonly known as red calliandra or pajón, it has become one of the most important [[comparison-arid-vs-tropical-permaculture]] and smallholder farming systems.
 

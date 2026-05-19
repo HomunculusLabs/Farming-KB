@@ -15,6 +15,7 @@ sources:
   - Darke, R. (2007). "The Encyclopedia of Grasses for Livable Landscapes." Timber Press.
   - Valdés, B. et al. (1987). "Flora Vascular de Andalucía Occidental." Ketres Editora.
   - USDA ARS (2024). "Germplasm Resources [[savory-perennial-grass-and-desertification]] in the family Poaceae, commonly known as golden oats or giant feather grass.
+---
 
 It is native to the western Mediterranean region, including the Iberian Peninsula, Morocco, and southern France.
 

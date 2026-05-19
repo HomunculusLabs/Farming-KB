@@ -37,7 +37,6 @@ This principle applies not only to farming but to every domain of human activity
 
 - [[fukuoka-the-one-straw-revolution-final-chapter]]
 
-- [[fukuoka-the-one-straw-revolution-final-chapter]]
 - [[fukuoka-one-straw-revolution-principles]]
 - [[fukuoka-one-straw-revolution-impact]]
 

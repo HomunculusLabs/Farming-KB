@@ -4,6 +4,7 @@ created: 2026-05-09
 tags: [plant-biology, darwin, [[gravitropism]], plant-movement]
 date: 2026-05-09
 aliases: [Darwin Plant Experiments, [[two-phase-directed-growth-psilocybe-cubensis-basidiocarp-development]] responses.
+---
 
 ## Context: Darwin's Botanical Career
 

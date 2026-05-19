@@ -18,6 +18,7 @@ sources:
 - ***P. citrinopileatus*** (Golden oyster) — bright yellow, nutty flavor
 - ***P. djamor*** (Pink oyster) — vibrant pink, tropical, fast-growing
 - ***P. tuber-regium*** (King tuber) — produces edible sclerotia in tropical Africa
+---
 
 ## Identification
 

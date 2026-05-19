@@ -27,6 +27,7 @@ accepted lineage describes Bubblegum as a cross between an unknown Indiana
 Afghani indica and a mixed sativa-dominant hybrid. The genetics traveled
 from Indiana to New England before reaching the Netherlands, where
 growers in Amsterdam stabilized the line over several generations.
+---
 
 The resulting stabilized strain is approximately 80% indica / 20% sativa,
 reflecting its predominantly Afghan genetics. Bubblegum has since been

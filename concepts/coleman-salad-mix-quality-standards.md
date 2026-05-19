@@ -11,6 +11,7 @@ tags:
 - The deep red color of 'Bull's Blood' beet leaves intensifies under cold stress
 - All ingredients maintain the delicate textures expected of baby leaves
 - Leaves grow more slowly, producing denser, more flavorful foliage
+---
 
 ## Quality as the Primary Concern
 

@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens huckleberries-and-wild-berries-of-north-america. Yale University Press.
   - Nash, T.H. III (2008). [[guzman-psilocybin-mushrooms-north-america]], where it colonizes exposed granitic and volcanic rock faces.
+---
 
 It has a long history of use as a starvation food by Indigenous peoples and early European explorers in western [[huckleberries-and-wild-berries-of-north-america]].
 

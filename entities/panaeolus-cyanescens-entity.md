@@ -21,6 +21,7 @@ sources:
 | **Norbaeocystin** | Trace | Minor tryptamine alkaloid |
 | **Serotonin** | Trace | Present in many coprophilous fungi |
 | **Urea** | Present | Common in dung-inhabiting species |
+---
 
 The high psilocin:psilocybin ratio (approaching 1:1 in some specimens) contributes to the rapid onset and intensity of effects compared to *[[serotonin-receptor-interference-psychedelic-mechanism]]**, with additional activity at 5-HT₁A, 5-HT₂C, and 5-HT₂B receptors.
 

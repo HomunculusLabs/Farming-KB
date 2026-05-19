@@ -11,6 +11,7 @@ updated: 2026-05-09
 sources:
   - Royal Horticultural Society. "Kerria japonica." RHS Plant Finder.
   - Bean, W.J. (1981). [[equatorial-photoperiod-early-flowering]] makes kerria an important nectar source when few other plants are in bloom.
+---
 
 In Japanese garden tradition, kerria is associated with spring renewal and is often planted near stone pathways and water features. Its cheerful yellow flowers contrast effectively against the subdued greens of ferns and hostas.
 

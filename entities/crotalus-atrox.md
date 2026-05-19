@@ -14,6 +14,7 @@ sources:
   - Campbell, J.A. & Lamar, W.W. (2004). The Venomous Reptiles of the Western Hemisphere. Cornell University Press.
   - Mackessy, S.P. (2009). "Handbook of Venoms and Toxins of Reptiles." CRC Press.
   - Ernst, C.H. & Ernst, E.M. (2003). Snakes of the [[guzman-psilocybin-mushrooms-north-america]]. It ranges from central Arkansas and southeastern California through much of the southwestern [[psychoactive-cacti-of-central-mexico]].
+---
 
 This species is responsible for the majority of medically significant snakebites within its range. Its large body size, potent hemotoxic venom, and willingness to defend itself make it one of the most dangerous rattlesnakes in [[psilocin-accumulation-pattern-across-flushes]] rattlesnake species.
 

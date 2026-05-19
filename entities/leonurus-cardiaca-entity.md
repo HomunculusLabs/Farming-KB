@@ -17,6 +17,7 @@ sources:
   - Barnes J, Anderson LA, Phillipson JD. (2007). "Herbal Medicines." 3rd ed. Pharmaceutical Press.
   - Wichtl M. (2004). "Herbal Drugs and Phytopharmaceuticals." 4th ed. Medpharm.
   - Kuchta M, Pokluda R, Kubinova R, et al. (2016). "aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham from Leonurus cardiaca." Natural Product Communications, 11(2), 187-190.---
+---
 
 ## Leonurus cardiaca
 

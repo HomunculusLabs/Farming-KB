@@ -4,6 +4,7 @@ created: 2026-04-28
 type: species
 tags: [herbal-plant, adaptogen, traditional-chinese-medicine, immunomodulator, [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] herbs in Traditional Chinese Medicine (TCM). Native to the arid and semi-arid regions of northern China, Mongolia, and Korea, it has been used medicinally for over 2,000 years to strengthen vitality, support immune function, and [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]] typically 4–5 years old. Astragalus is classified as a premier **adaptogen** — a substance that helps the body maintain homeostasis and resist the damaging effects of stress through broad, non-specific physiological support.
 In modern [[adaptogenic-herbs-guide]], with over 3,000 published scientific studies.
+---
 
 ## Taxonomy
 

@@ -18,6 +18,7 @@ sources:
   - "Aprotosoaie, A.C. et al. (2014). \"[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of many aromatic plants and in numerous cannabis
 cultivars. It exists as two isomers: cis-nerolidol and trans-nerolidol, with
 trans being more common in nature.
+---
 
 The compound is valued for its sedative, anti-inflammatory, and antimicrobial
 properties. In cannabis, it contributes to the characteristic woody, floral

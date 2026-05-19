@@ -5,6 +5,7 @@ legendary William's Wonder, Temple represents the intersection of [[cannabis-ter
 only medium height and finishes in just 9-10 weeks. For growers who want sativa
 quality without the space and time demands of typical sativa cultivars, Temple is
 an exceptional choice.
+---
 
 ## Genetic Lineage
 

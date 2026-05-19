@@ -22,6 +22,7 @@ sources:
 - **Genus:** *Glycyrrhiza* L.
 - **Species:** *G. uralensis* Fisch. ex DC.
 - **Authority:** Published by de Candolle (1825) based on Fischer's earlier work
+---
 
 Two closely related species are also used medicinally: *G. glabra* L.
 (European licorice) and *G. inflata* Batalin (Xinjiang licorice). All three

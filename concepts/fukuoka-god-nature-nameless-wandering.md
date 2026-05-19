@@ -4,6 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]] onto a mountain, if this flows left, it becomes [[fukuoka-western-eastern-philosophy-agriculture]]
+---
 
 - When seen from the left, the individual sitting on the summit may appear as the face of Christ
 

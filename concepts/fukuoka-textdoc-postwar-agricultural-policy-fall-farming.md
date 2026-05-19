@@ -7,6 +7,7 @@ use in industry and housing than for food production. City dwellers began to see
 farmers, who were reluctant to part with their land, as selfish monopolizers of
 land. Laborers and office workers joined in the effort to drive farmers off their
 land, and taxes as high as those on housing land were levied on farmland.
+---
 
 ## The Farmer Loses Land and Freedom
 Fukuoka documented how the effort by farmers to raise food production backfired

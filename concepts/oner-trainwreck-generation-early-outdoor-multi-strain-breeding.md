@@ -9,6 +9,7 @@ firsthand account of how [[cannabis-sativa-indoor-cultivation-techniques]]. He d
 pollination events that characterized cannabis breeding in the late 1970s and
 early 1980s. This breeding method, born of practical necessity, produced some of
 the most legendary and genetically diverse cannabis lines in history.
+---
 
 ## Pre-Indoor Breeding Context
 

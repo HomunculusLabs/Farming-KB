@@ -10,6 +10,7 @@ proof of the dynamic linkage at the formative level between quantum mechanically
 described matter and mind." The exquisite sensitivity of subjective experience
 to molecular structure suggests that consciousness and physical matter share a
 fundamental operational level.
+---
 
 ## The Logos: Language Beyond Language
 

@@ -15,6 +15,7 @@ sources:
   - Froldi G et al. (1997). "Calcium antagonist activity of glaucine in isolated rat aorta." Pharmacological Research 36(3): 229-233.
   - Schmeller T et al. (1997). "Biochemical activities of aporphine alkaloids." Phytochemistry 44(3): 443-449.
   - Orallo F (1996). "Study of the in vivo and in vitro [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] with [[apomorphine]] and has been investigated for a range of pharmacological activities including bronchodilation, anti-inflammatory, and antitussive effects.
+---
 
 Unlike benzylisoquinoline opium alkaloids, glaucine belongs to the aporphine structural class, formed by oxidative coupling of benzylisoquinoline precursors.
 

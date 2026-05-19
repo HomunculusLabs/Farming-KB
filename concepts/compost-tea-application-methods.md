@@ -6,6 +6,7 @@ created: 2026-05-09
 source: The Field Guide for Actively [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance
 - Providing nutrient supplementation (compost tea contains soluble nutrients)
 - Treating stressed plants with biological support
+---
 
 ### Seed Treatment
 

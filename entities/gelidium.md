@@ -17,6 +17,7 @@ Gelidiaceae) comprising approximately 125 described species distributed across
 Gelidium remains essential for high-purity applications including
 microbiological [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]] beds
 in several regions, particularly along the Iberian Peninsula and Japan.
+---
 
 ## Taxonomy and [[fukuoka-textdoc-energy-efficiency-natural-farming]]. The genus is particularly diverse along the Pacific coasts
 of Japan, Korea, and Mexico, as well as the Atlantic coasts of Portugal,

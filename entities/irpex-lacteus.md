@@ -24,6 +24,7 @@ sources:
   - Šnajdr J, Baldrian P (2007). "Temperature and culture medium affect the production and composition of [[biodiversity-fungi-temperate-boreal-forests]] of the Northern Hemisphere. It is
 recognized as one of the most efficient lignin-degrading fungi known, producing powerful
 oxidative enzymes that break down woody substrates comprehensively.
+---
 
 The species has attracted significant attention in applied mycology for bioremediation of
 persistent organic pollutants (PAHs, dyes, endocrine disruptors, pharmaceuticals) and

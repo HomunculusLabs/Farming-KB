@@ -4,6 +4,7 @@ created: 2026-04-26
 aliases: [plant-human communication, Vogel plant experiments, psychic energy and plants]
 tags: [botany, consciousness, parapsychology, bioenergetics]
 related: [[tompkins-plant-electrical-signals]], [[savory-living-organisms-as-tools]].
+---
 
 ## Teaching Children Plant Communication
 

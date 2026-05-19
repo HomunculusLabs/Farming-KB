@@ -6,6 +6,7 @@ sources:
   - raw/papers/julius-auboineau-palmer-about-mushrooms.md
 type: concept
 tags: [habitat, [[mycelium]]. A heavy dew or evening shower straightens the stem and expands the cap, breaking the earth during the night -- so the gatherer finds white buttons in the morning where nothing was visible the day before.
+---
 
 But days and even weeks are necessary for full production, just as for a rose. The common mushroom requires about ten days from a pin-head button to a disk three or four inches in diameter. This is the average period for other kinds, although the Coprinariae consume less than half that time. "Popular error has made [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.

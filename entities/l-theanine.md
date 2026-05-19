@@ -26,6 +26,7 @@ sources:
 weight. First identified in green tea in 1949, it is responsible for the characteristic
 "umami" flavor of high-quality tea and for the calming, focused alertness that
 distinguishes tea stimulation from coffee.
+---
 
 L-theanine has become one of the most widely used nootropic compounds worldwide, marketed
 for anxiety reduction, improved focus, and sleep quality. Its mechanism involves modulation

@@ -13,6 +13,7 @@ sources:
   - Kardell, L. et al. (2009). "Cloudberry (Rubus chamaemorus L.) in Scandinavia." Small Fruits Review, 4(3), 85-101.
   - Martinussen, I. et al. (2010). "Propagation and cultivation of cloudberry." Acta Agriculturae Scandinavica, 60(2), 134-144.
   - USDA ARS. "Rubus chamaemorus L., cloudberry." Germplasm Resources [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark green and sparsely hairy; the lower surface is pale and tomentose.
+---
 
 Flowers are white, 15-25 mm in diameter, solitary and terminal on the stem.
 

@@ -14,6 +14,7 @@ sources:
   - Hayashi, L. et al. (2011). "Kappaphycus alvarezii: a review of cultivation and applications." Journal of Applied Phycology, 23, 987–996.
   - Bixler, H.J. & Porse, H. (2011). "A decade of change in the seaweed hydrocolloids industry." Journal of Applied Phycology, 23, 321–335.
   - Valderrama, D. et al. (2013). "Social and economic dimensions of carrageenan seaweed-farming-and-marine-aquaculture." FAO Fisheries Technical Paper, 580.---
+---
 
 ## Kappaphycus alvarezii
 

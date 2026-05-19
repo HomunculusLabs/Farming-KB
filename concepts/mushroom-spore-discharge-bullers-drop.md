@@ -6,6 +6,7 @@ and [[single-spore-isolation-and-monokaryon-culture]], only ten-millionths of a 
 in length, is catapulted from its gill with an acceleration that would
 atomize a human being, reaching a speed equivalent to 400 miles per hour at
 human scale.
+---
 
 ## The Fruiting Body as a Spore-Production Device
 

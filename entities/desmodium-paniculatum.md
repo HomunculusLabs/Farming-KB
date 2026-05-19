@@ -16,6 +16,7 @@ sources:
   - Weakley A.S. (2023). "Flora of the Southeastern United States." University of North Carolina Herbarium.
   - USDA NRCS (2024). "The PLANTS Database." National Plant Data Team, Baton Rouge, LA.
   - Cusick A.W. (2004). "Desmodium." In: Flora [[polypore-fungi-eastern-north-america]].
+---
 
 The species is easily distinguished from related tick-trefoils by its relatively tall stature, open paniculate inflorescence, and the combination of narrow leaflets with a preference for drier upland sites. In the field, it is most commonly confused with [[schizachyrium-scoparium]] (little bluestem), Sorghastrum nutans (indiangrass), [[lespedeza-capitata]], and various Asteraceae and Poaceae species.
 

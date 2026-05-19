@@ -10,6 +10,7 @@ planted in mass as a hedge or border. The late bloom time fills
 a gap in the garden's seasonal color sequence. The dried stalks
 provide winter interest and vertical structure in the dormant
 garden.
+---
 
 ## Design Integration
 

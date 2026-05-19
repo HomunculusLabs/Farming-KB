@@ -17,6 +17,7 @@ sources:
   - Shakeri, A., et al. (2016). "Melissa officinalis L.: A Review of Its Traditional Uses." Phytotherapy Research, 30(4), 543-554.
   - Ulbricht, C., et al. (2005). "An Evidence-Based Systematic Review of comparison-echinacea-vs-lemon-balm." Journal of Herbal Pharmacotherapy, 5(2), 71-114.
   - Sedigheh, A., et al. (2011). "Melissa officinalis in the Treatment of Dementia." CNS Drugs, 25(8), 691-701.---
+---
 
 ## Overview
 

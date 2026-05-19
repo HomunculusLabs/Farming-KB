@@ -16,6 +16,7 @@ sources:
   - "Kuo, M. (2023). Tricholoma equestre at MushroomExpert.com. https://www.mushroomexpert.com/tricholoma_equestre.html"
   - "Siłus, M. et al. (2009). \"Tricholoma equestre: a [[bloomfield-boletus-satanus-edible-mushroom-hazards]] across Europe, it was reclassified as poisonous following a series of documented [[spore-print]]:** White.
 - **Chemical reactions:** KOH on cap surface — negative to faintly yellow. Melzer's on spores — inamyloid.
+---
 
 ### Microscopic Features
 

@@ -8,6 +8,7 @@ indigenous entheogenic traditions worldwide and represent a
 fundamental contrast with Western therapeutic approaches that
 emphasize verbal processing, well-lit clinical settings, and
 sustained dialogue between therapist and patient.
+---
 
 Understanding these three features is essential for grasping why
 shamanic approaches to hallucinogenic plants produce different

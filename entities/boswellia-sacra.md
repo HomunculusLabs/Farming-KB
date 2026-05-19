@@ -19,6 +19,7 @@ Arabian Peninsula and the Horn of Africa. Revered for over 5,000 years,
 frankincense was one of the most valuable commodities of [[fungal-diversity-arid-environments]]. The bark
 is papery, peeling in thin flakes to reveal a smooth, greenish underlayer. The
 tree is frequently leafless during the dry season to reduce water loss.
+---
 
 Leaves are alternate, imparipinnate, with 7 to 15 pairs of opposite
 leaflets plus a terminal leaflet. Leaflets are oblong to elliptic, 5 to 25

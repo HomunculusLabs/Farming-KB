@@ -14,6 +14,7 @@ sources:
   - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
   - Ledig, F.T. et al. (2005). "Genetic variation in Picea breweriana." Canadian Journal of Forest Research 35(6): 1407–1418.
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[chamaecyparis-lawsoniana]]*), white fir (*Abies concolor*), Shasta red fir (*[[tsuga-mertensiana]]*).
+---
 
 The Klamath-Siskiyou region is a recognized global biodiversity hotspot, with high rates of plant endemism. Brewer spruce is one of 30+ endemic conifers in the region.
 

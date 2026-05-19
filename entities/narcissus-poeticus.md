@@ -14,6 +14,7 @@ sources:
   - Bastida, J. et al. (2011). "Amaryllidaceae alkaloids: A review of their ayahuasca-pharmacology-and-cultural-context toxicology." Pharmaceutical Biology, 49(11), 1142-1158.
   - Pettit, G.R. et al. (1993). "Antineoplastic agents, 261. Isolation and synthesis of narciclasine from Narcissus." Journal of Natural Products, 56(10), 1687-1692.
   - Mathew, B. (2002). "The Genus Narcissus." Royal Botanic Gardens, Kew.---
+---
 
 ## Overview
 

@@ -4,6 +4,7 @@ source: "What a Plant Knows - [[chamovitz-ultraviolet-and-infrared-plant-light-p
 considered legitimate sensory systems. Comparing human and plant photoreception reveals both
 surprising parallels and profound differences in how two kingdoms of life have evolved to
 interpret their light environment.
+---
 
 ## Human Photoreception
 

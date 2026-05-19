@@ -14,6 +14,7 @@ updated: 2026-05-09
 sources:
   - Dransfield, J., Uhl, N.W., Asmussen, C.B. et al. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
   - Henderson, A., Galeano, G., Bernal, R. (1995). "[[psilocybe-southeast-asia-pacific]].
+---
 
 It is one of the most widely cultivated ornamental palms in tropical and subtropical landscapes worldwide.
 

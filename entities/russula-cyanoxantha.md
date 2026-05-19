@@ -22,6 +22,7 @@ species widely recommended for beginners due to its reliable edibility and
 [[comparison-spore-print-collection-vs-spore-syringe-production]]:** White to pale cream (3a–3b in Romagnesi color scale)
 - **Spores:** Globose to broadly ellipsoid, 6.5–9 × 5.5–7.5 µm; ornamented
   with isolated warts connected by fine ridges forming a partial reticulum
+---
 
 ## Microscopic Features
 

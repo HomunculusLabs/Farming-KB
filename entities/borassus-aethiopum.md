@@ -13,6 +13,7 @@ sources:
   - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., & Lewis, C.E. (2008). Genera Palmarum: The Evolution and Classification of Palms. Royal Botanic Gardens, Kew.
   - Barot, S., et al. (2002). "Life history of the African palm Borassus aethiopum." Annals of Botany 89(4): 411-417.
   - Sambou, B., et al. (2002). "Structure, growth and productivity of Borassus aethiopum palm forests in West Africa." Forest [[borassus-flabellifer]], the Asian palmyra palm, which is one of the most economically important palms in South and [[guzman-thailand-southeast-asia-psychoactive-fungi-distribution]], and New Guinea. The African species B. aethiopum is the most widespread member of the genus.
+---
 
 ## Taxonomy and Morphology
 

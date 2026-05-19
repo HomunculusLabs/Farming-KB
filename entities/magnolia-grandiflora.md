@@ -13,6 +13,7 @@ updated: 2026-05-09
 sources:
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
   - Little, E.L. (1979). "Checklist of [[north-carolina-mycodiversity]] south to central Florida and west to eastern Texas.
+---
 
 Its range extends inland along river valleys into Arkansas, Oklahoma, and the eastern edge of Tennessee.
 

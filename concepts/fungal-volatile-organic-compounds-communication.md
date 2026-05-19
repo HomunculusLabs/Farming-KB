@@ -11,6 +11,7 @@ evaporate at [[growing-gourmet-spore-germination-strain-isolation]] of competito
 response to VOCs produced by neighboring colonies of the
 same species, coordinating collective behaviors such as
 spore dispersal timing and resource allocation.
+---
 
 Sexual development in fungi can be triggered by volatile
 pheromones. Trichoderma species produce 6-pentyl-α-pyrone

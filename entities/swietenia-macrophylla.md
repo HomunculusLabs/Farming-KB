@@ -13,6 +13,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Lamb, F.B. (1966). "Mahogany of Tropical America." University of Michigan Press.
   - Grogan, J. & Barreto, P. (2005). "Big-leaf mahogany growth and survival." Forest [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to the Amazon basin.
+---
 
 The species produces one of the world's most valuable and sought-after tropical hardwoods, prized for its rich reddish-brown color and workability.
 

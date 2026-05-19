@@ -13,6 +13,7 @@ sources:
   - Hitchcock, A.S. (1951). "Manual of the Grasses of the dmt-containing-plants-united-states-halpern." USDA.
   - Clayton, W.D. et al. (2006). "World Grass Species." Royal Botanic Gardens, Kew.
   - Greenlee, J. (1992). "The Encyclopedia of [[blesching-cannabinoid-pharmacology]].
+---
 
 ## Taxonomy and Morphology
 

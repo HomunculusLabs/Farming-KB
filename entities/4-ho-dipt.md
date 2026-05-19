@@ -7,6 +7,7 @@ tags:
 a synthetic substituted tryptamine with [[serotonin-receptor-interference-psychedelic-mechanism]] properties. It is a
 hydroxylated analogue of DiPT, first synthesized and characterized by Alexander
 Shulgin and documented in TIHKAL (Tryptamines I Have Known and Loved).
+---
 
 The compound is notable for its distinctive auditory effects, which are
 reported to be more prominent than its visual effects compared to other

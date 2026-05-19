@@ -21,6 +21,7 @@ sources:
   - "Hutchings, A., Scott, A.H., Lewis, G., & Cunningham, A.B. (1996). Zulu Medicinal Plants: An Inventory. University of Natal Press."
   - "Watt, J.M. & Breyer-Brandwijk, M.G. (1962). The Medicinal and Poisonous Plants of Southern and Eastern Africa. 2nd ed. Livingstone."
   - "De Beer, J.J. & van Wyk, B.E. (2011). An ethnobotanical survey of the Agter-Hantam, Northern Cape. [[psilocybe-southeast-asia-pacific]] use the seeds for divination, dream incubation, communication with ancestors, and as a general tonic.
+---
 
 ## Taxonomy
 

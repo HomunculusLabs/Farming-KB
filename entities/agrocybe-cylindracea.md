@@ -19,6 +19,7 @@ sources:
   - Ding, Z. et al. (2010). "Agrocybe cylindracea: A review of its cultivation, query-what-are-the-main-bioactive-compounds-in-medicinal-plants, and health benefits." Journal of Agricultural and Food Chemistry.
   - https://www.mycobank.org/ (neurotropic-fungi-taxonomic-classification)
   - Kuo, M. (2024). "Agrocybe cylindracea." MushroomExpert.com.---
+---
 
 ## Agrocybe cylindracea (Chestnut Mushroom)
 

@@ -15,6 +15,7 @@ sources:
   - Martínez, D. et al. (2004). "Genome sequence of the lignocellulose degrading fungus Ceriporiopsis subvermispora." Nature Biotechnology, 22(6), 679-684.
   - Rayner, A.D.M. & Boddy, L. (1988). Fungal Decomposition of Wood. Cambridge University Press.
   - Otjen, L. & Blanchette, R.A. (1986). "A discussion of [[guzman-psilocybin-mushrooms-north-america]], Europe, East Asia, and South America.
+---
 
 It primarily colonizes fallen hardwood logs and branches, especially angiosperm substrates such as oak, beech, birch, and eucalyptus. It has also been isolated from softwood substrates including pine and spruce.
 

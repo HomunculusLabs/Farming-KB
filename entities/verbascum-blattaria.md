@@ -14,6 +14,7 @@ sources:
   - Hultén, E. & Fries, M. (1986). Atlas of North European Vascular Plants. Koeltz Scientific Books.
   - USDA NRCS Plants Database. "Verbascum blattaria." https://plants.usda.gov
   - Gross, K.L. (1980). "Colonization of [[guzman-psilocybin-mushrooms-north-america]] and other [[guzman-psilocybin-mushrooms-south-america]], Australia, and New Zealand.
+---
 
 In North America, it is naturalized across most of the eastern and central United States and southern Canada. It is less common in the arid West, where it is confined to irrigated areas.
 

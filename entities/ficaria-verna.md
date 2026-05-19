@@ -12,6 +12,7 @@ updated: 2026-05-10
 sources:
   - Haeupler, M. & Muer, T. (2000). "Bildatlas der Farn- und Blütenpflanzen Deutschlands." Ulmer Verlag.
   - RHS (2023). "[[guzman-psilocybin-mushrooms-north-america]]. It spreads rapidly through tubers and bulbils, forming dense mats that suppress native spring ephemerals.
+---
 
 Ficaria verna has been referenced in English literature for centuries. William Wordsworth wrote a poem dedicated to the lesser celandine, calling it the "first-born of the spring."
 

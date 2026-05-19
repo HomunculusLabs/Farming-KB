@@ -7,6 +7,7 @@ principles. Reusing household wastewater closes a critical
 loop in the garden ecosystem, transforming waste into fertility
 and reducing dependence on municipal water and sewer systems.
 Greywater is one of the "organs" that most gardens are missing.
+---
 
 ## What is Greywater?
 

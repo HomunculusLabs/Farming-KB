@@ -16,6 +16,7 @@ synonyms:
   - endocannabinoid deficiency
   - THC tolerance
   - [[endocannabinoid-system]].
+---
 
 ## THC as a Partial Agonist
 

@@ -13,6 +13,7 @@ sources:
   - Blum, B.M. (1990). "Picea rubens Sarg." Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA FS.
   - Peart, D.R. (1984). "[[mycorrhiza-bioassays-ecological-studies]] 96. Springer.
   - White, P.S. & Cogbill, C.V. (1992). "Spruce-Fir Forests of [[dmt-containing-plants-united-states-halpern]] and southeastern Canada.
+---
 
 It is a defining [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]]d dramatically during the late 20th century due to acid
 rain deposition, causing widespread dieback across its range.

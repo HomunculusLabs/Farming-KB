@@ -13,6 +13,7 @@ sources:
   - Winston ME et al. (2014). "Understanding Cultivar-Specificity and Soil Determinants of the Cannabis Microbiome." PLoS ONE 9(6): e99641.
   - Bulgarelli D et al. (2013). "Revealing structure and assembly cues for Arabidopsis root-inhabiting bacterial microbiota." Nature 488: 91-95.
   - Lundberg DS et al. (2012). "Defining the core [[endorhiza-endophytic-bacteria]] within the orders Gammaproteobacteria and Alphaproteobacteria. Understanding this core is essential for developing targeted microbial inoculants that can improve Cannabis growth and stress tolerance.
+---
 
 ## Defining the Core Community
 

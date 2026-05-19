@@ -17,6 +17,7 @@ sources:
   - Schultes, R.E. (1969). "Virola as an Oral Hallucinogen Among the Bororo and Paresi Indians of Brazil." Economic Botany, 23(4), 355-357.
   - Farnsworth, N.R. (1968). "Hallucinogenic Plants." Science, 162(3860), 1400-1405.
   - Holmstedt, B. & Lindgren, J.E. (1967). "[[fungal-biodiversity-tropical-forests]].
+---
 
 ## Taxonomy and Morphology
 

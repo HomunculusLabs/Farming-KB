@@ -17,6 +17,7 @@ sources:
   - Netmann, C. (2000). "The Genus Carex in the Nordic Countries." Nordic Journal of Botany, 20(4), 435–456.
   - Global Biodiversity Information Facility (GBIF). "Carex vulpina L." GBIF.org.
   - Blackburn, G.A. & Seal, C.E. (2015). "Clonality in Wetland Plant Communities." Wetlands [[hamilton-vegetative-propagation]].
+---
 
 Seed production is moderate, with viability declining rapidly under waterlogged conditions. Germination occurs on exposed mud substrates during drawdown periods in late spring and early summer.
 

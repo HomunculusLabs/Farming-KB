@@ -3,6 +3,7 @@ title: [[fukuoka-textdoc-absence-no-fertilizer-tests]] Us 1979 Agriculture Visit
 source: administrator-[[microsoft-word]]-fukuoka-textdoc.md
 author: [[fukuoka-descartes-western-philosophy-nature]] and that scientific
 agriculture was leading humanity toward an abyss.
+---
 
 ## Desertification Through Livestock Grazing
 

@@ -16,6 +16,7 @@ sources:
   - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
   - Isely, D. (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern." University of [[polypore-fungi-eastern-north-america]] America and is widely planted as an ornamental for its showy pink-purple spring flowers.
+---
 
 Eastern redbud is one of the first trees to bloom in spring, producing flowers directly on older branches and the trunk before leaf emergence.
 

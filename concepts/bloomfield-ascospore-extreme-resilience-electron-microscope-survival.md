@@ -10,6 +10,7 @@ Nick Read at the University of Edinburgh demonstrated that
 ascospores can endure conditions inside an electron microscope
 that would destroy virtually any other biological material, then
 go on to germinate normally upon removal.
+---
 
 ## Electron Microscope Survival Experiments
 

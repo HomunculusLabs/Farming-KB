@@ -15,6 +15,7 @@ sources:
   - Hammer, S. (1995). "Cladonia." In: Purvis, O.W. et al. (eds), The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
   - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and habitat quality in European
 conservation monitoring.
+---
 
 ## Taxonomy and Morphology
 

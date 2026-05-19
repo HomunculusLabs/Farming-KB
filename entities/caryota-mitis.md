@@ -11,6 +11,7 @@ updated: 2026-05-09
 sources:
   - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., & Lewis, C.E. (2008). Genera Palmarum: The Evolution and Classification of Palms. Royal Botanic Gardens, Kew.
   - Henderson, A. (2009). [[psilocybe-southeast-asia-pacific]].
+---
 
 It is distinguished by its bipinnate leaves with wedge-shaped leaflets that resemble the tail of a fish. This trait is shared with all species in the genus Caryota.
 

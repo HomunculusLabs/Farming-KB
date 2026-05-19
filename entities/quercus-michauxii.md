@@ -14,6 +14,7 @@ sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics huckleberries-and-wild-berries-of-north-america, Vol. 2: Hardwoods." USDA Forest Service.
   - Stein, J. et al. (2003). "Native Trees of the Midwest." Purdue University Press.
   - Nixon, K.C. (2021). "Quercus michauxii." Flora of [[dmt-containing-plants-united-states-halpern]]. It is a member of the white oak group (section Quercus) and is closely related to chestnut oak and chinkapin oak.
+---
 
 The species is named in honor of André Michaux, the French botanist who collected extensively in North America in the late 18th century. The common name "basket oak" refers to the traditional use of its split wood for basket weaving by Indigenous peoples and early settlers.
 

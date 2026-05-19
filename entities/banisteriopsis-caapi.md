@@ -19,6 +19,7 @@ sources:
   - Riba, J. et al. (2006). "Single dose of ayahuasca, a tropical hallucinogenic botanical beverage, enhances moods and cognitive performance." Journal of Psychoactive Drugs, 38(2), 175-182.
   - Hamill, J.F. et al. (2019). "Ayahuasca: Pharmacology, clinical use, and toxicology." In: Handbook of permaculture-plants-medicinal-herbs-healing, 2nd ed. CRC Press.
   - McKenna, D.J. (2004). "Clinical investigations of the [[turner-harmala-alkaloids-preparation-and-dosage]] — primarily harmine, harmaline, and tetrahydroharmine (THH) — which act as reversible monoamine oxidase inhibitors (MAOIs). This pharmacological activity is essential to the ayahuasca experience: by inhibiting monoamine oxidase in the gastrointestinal tract, *B. caapi* allows orally ingested DMT (from co-administered plants like *[[blesching-cannabis-healing-practices-setting-intention-affirmations]], and ceremonial life of numerous ethnic groups across the western Amazon.
+---
 
 ## Taxonomy and Botany
 

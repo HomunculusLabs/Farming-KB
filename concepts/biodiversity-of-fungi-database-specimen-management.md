@@ -6,6 +6,7 @@ monitoring, and comparative studies. Modern database software enables
 researchers to design applications that serve both personal research needs and
 the broader biodiversity community. A well-designed [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]]
 - [[biodiversity-of-fungi-fungal-survey-design-baseline-monitoring]]
+---
 
 ## Overview
 

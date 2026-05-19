@@ -13,6 +13,7 @@ sources:
   - "USDA NRCS — Soil Health and Ecological Principles"
   - "Shepherd J (2015) — Restoration Agriculture"
 type: query---
+---
 
 ## What Is Ecological Succession and How Can Farmers Use It?
 

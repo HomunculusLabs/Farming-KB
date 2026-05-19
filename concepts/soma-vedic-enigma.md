@@ -10,6 +10,7 @@ muscaria is toxic and can cause nausea, delirium, and agitation at
 effective doses; it does not grow in the Indian subcontinent's lowlands
 where the Vedic rituals were performed; and its effects differ significantly
 from the ecstatic visionary experiences described in the Rigveda.
+---
 
 McKenna noted that Wasson himself expressed doubts about the Amanita
 theory later in life, and that the toxic and unpredictable effects of fly

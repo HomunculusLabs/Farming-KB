@@ -8,6 +8,7 @@ sunchoke, topinambur, wild sunflower, and earth apple. Despite the name, it is n
 closely related to the globe artichoke; the artichoke comparison refers to tuber flavor. In permaculture
 writing it appears as a high-yield, persistent, animal-friendly, and low-input perennial carbohydrate
 crop.
+---
 
 ## Classification
 

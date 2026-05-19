@@ -5,6 +5,7 @@ using ordinary kitchen cookware. Unlike professional cultivation requiring a
 [[hamilton-greenhouse-heating-and-temperature-control]])
 - Professional grade masking tape
 - Optional: tin foil as lid substitute for drinking glasses
+---
 
 The steamer pot provides the enclosed environment necessary to generate and
 maintain steam at atmospheric pressure throughout the sterilization cycle.

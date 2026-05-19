@@ -12,6 +12,7 @@ sources:
   - Bartnicki-Garcia S (2002). "gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction: Outstanding Questions." Molecular Microbiology 45:1347-1352.
   - Harris SD (2006). "Cell Polarity conidia-and-asexual-reproduction-in-filamentous-fungi: Shaping the Mold." Mycologia 98:6-12.
   - Riquelme M, Bartnicki-Garcia S (2008). "Key Differences Between Distantly Related Fungi." fungal-genetics and Biology 45:1377-1387.---
+---
 
 The Spitzenkörper (German for "apical body") is a dense, membrane-
 associated organelle found at the growing tips of filamentous fungi.

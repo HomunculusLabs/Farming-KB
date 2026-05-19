@@ -12,6 +12,7 @@ updated: 2026-05-10
 sources:
   - Pringle, J.S. (1967). "Taxonomy of Gentiana, Section Pneumonanthe." Rhodora 69: 1–78.
   - Weakley, A.S. (2022). Flora of the Southeastern United States. University of [[polypore-fungi-eastern-north-america]]. It is notable for its deep blue, bottle-shaped flowers that never fully open, relying exclusively on bumblebees for pollination.
+---
 
 The species grows 30–70 cm tall in moist meadows, floodplains, and wetland margins across the eastern United States and southeastern Canada. It is one of the most widespread closed gentians in North America.
 

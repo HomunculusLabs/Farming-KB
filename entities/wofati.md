@@ -19,6 +19,7 @@ sources:
   - Kern K. (2013). "The Earth-Sheltered House: An Architect's Sketchbook." New Society Publishers.
   - Mollison B. (1988). "Permaculture: A Designers' Manual." tagari-publications.
 created: 2026-04-28---
+---
 
 ## Wofati
 

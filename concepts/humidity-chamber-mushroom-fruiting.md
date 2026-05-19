@@ -4,6 +4,7 @@ slug: humidity-chamber-mushroom-fruiting
 tags: [mycology, mushroom-cultivation, fruiting, humidity, grow-chamber]
 related: [straw-substrate-mushroom-cultivation-boil-a-bag, spore-syringe-preparation-mushroom-cultivation]
 source: [[antimicrobial-compounds-mushroom-mycelium]] has fully colonized a substrate, it must be exposed to conditions that trigger fruiting — the formation of mushroom fruiting bodies. The primary [[comparison-laminar-flow-hood-vs-fruiting-chamber]] or grow chamber) is the enclosure that provides these conditions.
+---
 
 ## Why Humidity Matters
 

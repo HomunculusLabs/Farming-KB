@@ -4,7 +4,6 @@ tags:
   - concept
 ---
 
----
 created: 2026-05-08
 source: mckenna_t-food_of_the_gods.md
 tags: [mckenna, language-evolution, psychedelic-plants, stoned-ape, consciousness, synesthesia, shamanism, human-origins]

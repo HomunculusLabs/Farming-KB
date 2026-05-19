@@ -4,6 +4,7 @@ type: species
 tags:
   - ericaceae
   - [[fungal-diversity-mediterranean-ecosystems]].
+---
 
 ## Bioactive Compounds
 

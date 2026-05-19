@@ -17,6 +17,7 @@ sources:
   - "Falk, B. (2019). The Resilient Farm and Homestead, Revised and Expanded Edition. Chelsea Green Publishing."
   - "Falk, B. (2021). \"Adaptive Land Use in a Changing Climate.\" bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Magazine, 98, 22-29."
   - "Whole Systems Design LLC. (2024). \"About.\" wholesystemsdesign.com."---
+---
 
 ## Ben Falk
 

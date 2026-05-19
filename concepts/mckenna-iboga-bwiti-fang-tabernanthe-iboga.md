@@ -7,6 +7,7 @@ found growing outside of cultivation. The psychoactive portion of the
 plant is concentrated in the root bark, which contains the indole
 alkaloid ibogaine. The root scrapings are consumed in prodigious amounts
 during Bwiti ceremonies.
+---
 
 Unlike psilocybin-containing mushrooms or DMT-rich grasses, iboga is a
 forest plant with a relatively recent documented history of human use.

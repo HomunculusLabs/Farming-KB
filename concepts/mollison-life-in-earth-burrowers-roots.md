@@ -15,6 +15,7 @@ deposited as stone-like secretions by root-associated fungi and
 bacteria. Root space sharing is scheduled, so that spring bulbs
 have fed, flowered, and died before the tree roots begin their
 upward thrust for nutrients and water.
+---
 
 ## Air Pumps and Nutrient Cyclers
 

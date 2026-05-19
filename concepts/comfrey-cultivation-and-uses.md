@@ -19,6 +19,7 @@ sources:
   - PFAF. "comfrey-symphytum-officinale — Comfrey." Plants For A Future Database, pfaf.org.
   - Couplan, François. The Encyclopedia of Edible Plants huckleberries-and-wild-berries-of-north-america. Keats Publishing, 1998.
   - Hill, Andrew. "Comfrey: A Review of Its Biological and Chemical Properties." Journal of Botany, 2015.---
+---
 
 ## Overview
 

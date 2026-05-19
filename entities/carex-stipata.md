@@ -13,6 +13,7 @@ sources:
   - Ball, P.W. & Reznicek, A.A. (2002). "Carex in guzman-psilocybin-mushrooms-north-america north of Mexico." Contributions from the University of Michigan Herbarium 20: 1-258.
   - Flora of North America Editorial Committee (2002). Flora of North America Vol. 23: Cyperaceae. Oxford University Press.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern [[guzman-magic-mushrooms-temperate-zone-species]].
+---
 
 The species is recognized by its sharply pointed, awn-tipped perigynia and
 stout, densely flowered spikes. It is highly adaptable and occurs in a wide

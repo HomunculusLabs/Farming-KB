@@ -1,4 +1,4 @@
---- title: Inocybe Species Toxicity and Identification source: mushrooms
+---
 ---poisionous-fungi-by-john-ramsbottom-1945.md type: concept ---
 Inocybe is a genus of agaric fungi characterised by radiating fibrils or
 scales on the cap surface, dull brown spores, and generally small
@@ -8,6 +8,7 @@ Fungi*, emphasised that several Inocybe species contain muscarine-type
 toxins and should be regarded as dangerous. While none are known to be
 edible, only a handful have been definitively linked to poisoning
 incidents.
+---
 ## Muscarine-Type Poisoning in Inocybe
 The toxic species of Inocybe produce symptoms similar to those of
 [[amanita-muscaria]], though the active principle differs. Ramsbottom

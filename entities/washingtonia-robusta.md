@@ -13,6 +13,7 @@ sources:
   - Hodel, D.R., Johnson, D. (2007). "A revision of Washingtonia (Arecaceae)." Palms, 51(2), 61-77.
   - Henderson, A., Galeano, G., Bernal, R. (1995). "Field Guide to the Palms of the Americas." Princeton University Press.
   - GBIF (2023). "Washingtonia robusta H.Wendl." [[george-washington-carver-plant-work]] by the German botanist Hermann Wendland, who described it in 1879. The genus Washingtonia contains only two species.
+---
 
 Washingtonia robusta is frequently confused with the closely related [[fukuoka-natural-farming-temperate-climates]]. It is among the most commonly planted street trees in cities across the Mediterranean basin.
 

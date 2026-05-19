@@ -6,6 +6,7 @@ documented examples of **cross-kingdom growth regulation** by brassinosteroids. 
 phenomenon challenges the traditional view that brassinosteroids function exclusively
 as plant hormones and opens a broader question: to what extent do plant-derived growth
 regulators influence fungal biology?
+---
 
 ## Brassinosteroids: Originally Plant-Only Compounds
 

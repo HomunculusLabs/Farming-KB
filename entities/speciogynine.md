@@ -16,6 +16,7 @@ sources:
   - Kruegel AC, Grundmann O (2018). "The medicinal chemistry and neuropharmacology of kratom." Planta Medica 84(12-13): 890-899.
   - Varadi A, Marrone GF, Palmer TC, et al. (2016). "Mitragynine/corynantheidine pseudoindoxyls as opioid analgesics with mu agonism and delta antagonism." Journal of Medicinal Chemistry 59(18): 8381-8397.
 created: 2026-04-28---
+---
 
 ## Overview
 

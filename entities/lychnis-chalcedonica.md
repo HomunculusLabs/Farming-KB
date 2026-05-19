@@ -14,6 +14,7 @@ sources:
   - Liberty Hyde Bailey. (1976). Hortus Third. Macmillan Publishing.
   - Brickell C., et al. (2016). RHS A-Z Encyclopedia of Garden Plants. DK Publishing.
   - Morton J.K. (2005). "Caryophyllaceae." In: Flora [[gaias-garden-perennial-food-plants]].
+---
 
 Maltese cross is valued for its bold vertical accent in perennial borders and cottage gardens. The species blooms prolifically from early to midsummer, with occasional reblooming if spent flowers are removed.
 

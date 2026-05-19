@@ -1,6 +1,7 @@
 ---
 title: Windbreak Species Selection and Permeability
 source: [[permaculture-design]], directly influencing crop yields, microclimate stability, and overall system resilience. Selecting the right species and engineering proper permeability determines whether a shelterbelt functions as a productive, multi-use asset or becomes a liability that competes with crops for water and nutrients.
+---
 
 ## Core Selection Principles
 

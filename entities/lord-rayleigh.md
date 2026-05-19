@@ -30,6 +30,7 @@ Rayleigh also consoled Bose during opposition to his plant-response work.
 In that context Rayleigh appears as a senior scientist recognizing difficult novelty.
 His presence helps connect Bose's plant physiology to mainstream physics.
 The link is important because Bose's work crossed disciplinary boundaries.
+---
 
 ## Positions and Institutions
 

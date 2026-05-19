@@ -7,6 +7,7 @@ source: [[query-how-to-store-mushroom-spores-long-term]] in sterile water, which
 - **Isopropyl alcohol** — for surface disinfection
 - **Cotton wool buds** — for applying alcohol to inoculation points
 - **Metal tweezers and scissors** — for handling [[boil-a-bag-long-needle-inoculation-method-jarrold]] (which is easier and more reliable), a longer needle can be made by:
+---
 
 1. Removing the original short needle from its plastic hub using pliers
 2. Obtaining thin stainless steel tubing from model or craft shops, or metal engineering suppliers

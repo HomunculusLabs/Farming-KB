@@ -14,6 +14,7 @@ sources:
   - Weakley, A.S. (2023). Flora of the Southeastern dmt-containing-plants-united-states-halpern. University of north-carolina-mycodiversity Herbarium.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern [[polypore-fungi-eastern-north-america]]. It is named for its deeply lobed leaves
 that closely resemble those of maple trees.
+---
 
 The species typically grows 1.5 to 2 meters tall and forms loose, open thickets
 in the understory of deciduous forests. It is valued in native plant landscaping

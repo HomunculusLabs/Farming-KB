@@ -19,6 +19,7 @@ sources:
   - Ma G. et al. (2015). "Nuciferine induces apoptosis in cancer cells." Biochemical and Biophysical Research Communications 458(4): 868–873.
   - Paton D.M. et al. (2018). "Aporphine alkaloids: pharmacology and [[nelumbo-nucifera]]* (sacred lotus). It occurs in the leaves, seeds, and
 embryos of the plant at concentrations of 0.02–0.06% dry weight.
+---
 
 The compound has attracted pharmacological interest for its complex
 receptor profile, acting as a partial agonist at dopamine D2 and D3

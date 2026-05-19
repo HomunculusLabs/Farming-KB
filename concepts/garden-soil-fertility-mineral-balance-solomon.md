@@ -9,6 +9,7 @@ demonstrates that these alone are insufficient to produce maximally
 nutritious food. The key insight is that soil must contain the right
 balance of all essential minerals, not merely adequate organic matter
 and the three major nutrients (NPK).
+---
 
 ## The Mineral Depletion Problem
 

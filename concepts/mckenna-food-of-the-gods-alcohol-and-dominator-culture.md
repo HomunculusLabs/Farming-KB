@@ -4,6 +4,7 @@ source: mckenna_t-food_of_the_gods.md
 source_author: [[powell-mayan-civilisation-and-psilocybin-mushroom-use]]
 by alcohol, and argues that this substitution marks one of the most profound
 shifts in human social values ever to occur.
+---
 
 ## The Four Stages of Abandoning the Mystery
 

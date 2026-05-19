@@ -17,6 +17,7 @@ It is a direct metabolic precursor in the biosynthetic pathway leading to
 [[lsd-d-lysergic-acid-diethylamide]] (LSD).
 Lysergol itself possesses mild psychoactive properties but is significantly
 less potent than its downstream derivatives.
+---
 
 The compound was first isolated and characterized from *Ipomoea* species
 in the early 1970s. It occupies a critical node in ergoline biosynthesis,

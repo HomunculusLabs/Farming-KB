@@ -20,6 +20,7 @@ updated: 2026-04-28
 sources:
   - Morris, H. & Wallach, J. (2014). "From PCP to MXE." Drug Science.
   - Champion, E. et al. (2022). "Novel [[ketamine]] and MXE-like effects.
+---
 
 The compound acts primarily as an NMDA receptor antagonist, producing characteristic
 dissociative effects including [[methoxetamine]]),

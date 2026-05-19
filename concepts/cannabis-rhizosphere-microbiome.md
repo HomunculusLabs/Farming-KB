@@ -3,6 +3,7 @@ title: Cannabis Rhizosphere Microbiome
 aliases:
   - cannabis root zone microbiome
   - [[cannabis-endorhiza-bacterial-communities]] shaped by both edaphic (soil) factors and host plant identity.
+---
 
 The rhizosphere concept was first introduced by Hiltner in 1904. The rhizosphere is
 recognized as one of the most complex microbial habitats on Earth, with microbial densities typically 10 to 1000 times higher than in

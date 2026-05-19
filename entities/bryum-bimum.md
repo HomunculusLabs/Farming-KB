@@ -13,6 +13,7 @@ sources:
   - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed. Cambridge University Press.
   - Holyoak, D.T. (2004). "European BRYACEAE." http://www.holyoakbooks.co.uk
   - Spence, J.R. (2005). "Bryaceae." Flora of [[palmer-mushroom-hunting-field-identification]].
+---
 
 *Bryum* is one of the largest moss genera with over 500 species worldwide,
 many of which are morphologically similar and difficult to distinguish. *B.

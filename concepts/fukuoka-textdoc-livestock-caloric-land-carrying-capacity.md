@@ -2,6 +2,7 @@
 title: Fukuoka Textdoc Livestock Caloric Land Carrying Capacity
 source: administrator-microsoft-word-fukuoka-textdoc.md
 topics: livestock, caloric-efficiency, carrying-capacity, [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]
+---
 
 Fukuoka begins with a striking analogy: raising one yellowtail fish to marketable size
 requires ten times its weight in sardines. Similarly, a silver fox consumes ten times its

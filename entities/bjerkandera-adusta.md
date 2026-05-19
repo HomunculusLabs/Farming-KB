@@ -1,3 +1,10 @@
+---
+title: Bjerkandera Adusta
+type: entity
+tags: [species]
+sources: []
+---
+
 ## Bjerkandera adusta
 
 **Bjerkandera adusta**, the **smoky polypore**, is a cosmopolitan [[lignin-peroxidase-mechanism]] (LiP), and [[mollison-designers-wastewater-treatment-wetlands]].
@@ -51,3 +58,23 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 ## Performance Metrics
 
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
+
+## Identification
+
+Fruiting bodies are effused-reflexed to pileate, forming semicircular brackets 2-8cm wide with pale gray to cream upper surface darkening to smoky brown with age.
+The pore surface is gray to dark smoky brown, with 3-5 angular pores per mm, darkening distinctly when bruised. Spore print white to pale cream.
+
+## Habitat and Ecology
+
+A saprotrophic white-rot fungus on dead hardwood logs, stumps, and fallen branches, favoring birch, beech, oak, and willow in temperate deciduous forests.
+Common year-round but most visible in autumn and winter. Plays significant role in forest nutrient cycling by decomposing lignin and cellulose.
+
+## Biotechnological Significance
+
+Produces bioactive compounds including benzaldehyde derivatives and sesquiterpenes with antimicrobial properties.
+Lignin-degrading enzymes (laccase, manganese peroxidase) are studied for bioremediation of polluted soils and industrial wastewater treatment.
+Also investigated for biobleaching in the paper industry and degradation of polycyclic aromatic hydrocarbons.
+
+## Distribution
+
+Widespread across temperate Northern Hemisphere throughout Europe, North America, and temperate Asia. Also reported from Australia and New Zealand.

@@ -11,6 +11,7 @@ sources:
   - "Guzmán, G. (2009). The Genus Psilocybe: A Systematic Revision of the Known Species. Beihefte zur Nova Hedwigia 74."
   - "Lincoff, G. (1981). National Audubon Society Field Guide to [[hplc-analysis-of-psilocybin-and-psilocin]], though it is also reported to contain other toxic compounds that make its consumption inadvisable. The species epithet *junonius* refers to Juno, the Roman goddess, a reference to the mushroom's large, majestic fruiting habit. Despite its psychoactive properties, *G. junonius* is generally considered a [[gymnopilus-spectabilis-entity]]* (Fr.) A.H. Sm. & Singer (widely used in North American literature), *Agaricus spectabilis* Fr., *Fulvidula spectabilis* (Fr.) Pat.
 - **Common names:** Laughing gym, laughing Jim, spectacular rustgill, big laughing gym
+---
 
 ### Taxonomic Notes
 The *Gymnopilus junonius*–*spectabilis* complex has undergone significant taxonomic revision. North American mycologists historically used *G. spectabilis*, while European workers used *G. junonius*. Modern molecular studies suggest these may represent a species complex with multiple distinct lineages across different geographic regions. Japanese specimens assigned to *G. junonius* have been confirmed to contain psilocybin and bis-noryangonin, while some North American collections identified as *G. spectabilis* show variable or absent psychoactive alkaloid profiles.

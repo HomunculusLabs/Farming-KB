@@ -10,6 +10,7 @@ tags:
 inflammation and thinning of the urinary bladder lining. The condition belongs
 to a broader category of bladder and urinary conditions explored in the source
 text.
+---
 
 ## Overview of Interstitial Cystitis
 

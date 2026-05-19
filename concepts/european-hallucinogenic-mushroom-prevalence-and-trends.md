@@ -5,6 +5,7 @@ prevalence profile across Europe. Data from the EMCDDA 2006 case study reveals
 significant variation between countries, survey methodologies, and demographic
 groups. Understanding these patterns is essential for public health monitoring
 and drug policy formulation across the European Union.
+---
 
 ## General Population Prevalence (15-24 Year Olds)
 

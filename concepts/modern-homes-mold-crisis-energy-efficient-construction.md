@@ -4,7 +4,6 @@ tags:
   - concept
 ---
 
----
 created: 2026-05-08
 source: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 tags: [indoor-mold, stachybotrys, building-science, indoor-air-quality, [[nicholas-money]] documented this phenomenon in Mr. Bloomfield's Orchard, noting that the horror of black mold begins not with the fungus itself but with the building practices that invite it in. The Cleveland infant hemorrhage incidents of 1993-1994 brought this crisis to public attention, but the underlying cause — the evolution of home construction — remains insufficiently addressed.

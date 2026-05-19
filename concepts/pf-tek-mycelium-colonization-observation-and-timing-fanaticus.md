@@ -6,6 +6,7 @@ this period, fungal mycelium spreads through the brown rice flour and
 [[bulk-substrate-preparation]], viable spores, and a sterile
 [[inoculation-technique-and-alcohol-flaming]]. Any deviation from optimal conditions will extend this
 timeline.
+---
 
 ## Incubation Temperature
 

@@ -7,6 +7,7 @@ updated: 2026-04-28
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "The Natural Way of Farming, [[fukuoka-critique-of-scientific-agriculture]] agriculture and his advocacy for non-intervention.
+---
 
 ## The Fallacy of Analytical Knowledge
 

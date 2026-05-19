@@ -4,6 +4,7 @@ slug: straw-substrate-mushroom-cultivation-boil-bag
 tags: [mycology, mushroom-cultivation, substrate, straw, sterilization]
 related: [spore-syringe-preparation-mushroom-cultivation, humidity-chamber-mushroom-fruiting]
 source: [[growing-gourmet-saprophytic-mushrooms-decomposers]]. The boil-a-bag technique described by D.H. Jarrold provides a straightforward method for preparing straw-based substrate using household equipment. This approach is particularly well-suited for beginners as it requires minimal specialized equipment and uses readily available materials.
+---
 
 ## Why Straw?
 

@@ -28,6 +28,7 @@ and the Gulf Coast states:
 - **Hawaii**: An extremely rich and diverse Copelandia flora exists in
   the Hawaiian Islands (Heim et al., 1966a, 1967; Pollock, 1976; Stamets,
   1978; Stijve, 1992, 1995; Merlin and Allen, 1993; Allen, 1998).
+---
 
 ### Asia
 

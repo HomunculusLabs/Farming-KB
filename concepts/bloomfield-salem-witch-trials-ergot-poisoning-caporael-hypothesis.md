@@ -18,6 +18,7 @@ concepts:
 tags: [history, [[claviceps-purpurea]]*, the ergot
 fungus. This hypothesis connects one of the most notorious episodes in
 American colonial history to mycotoxicology.
+---
 
 ## The Salem Context
 

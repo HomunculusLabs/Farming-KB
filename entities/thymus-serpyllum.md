@@ -17,6 +17,7 @@ sources:
 distinguished by its prostrate growth habit, smaller leaves, and lower-growing
 stature. It has been valued for centuries as a culinary herb, medicinal plant,
 and ornamental [[permaculture-designers-manual-essential-oil-plants]], rich in [[carvacrol]], has documented antimicrobial and antiseptic properties.
+---
 
 ## Taxonomy and Morphology
 

@@ -14,6 +14,7 @@ sources:
   - Khare, C.P. (2007). Indian Medicinal Plants: An Illustrated Dictionary. Springer-Verlag.
   - Chopra, R.N., Nayar, S.L. & Chopra, I.C. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
   - Nadkarni, K.M. (1976). Indian [[copelandia-cyanescens-pantropical-distribution-and-ecology]], occurring across South and [[guzman-psilocybin-mushrooms-south-america]], and the Caribbean. It is particularly abundant in India, where it grows throughout the country from sea level to 1,800 meters elevation.
+---
 
 The species colonizes a wide range of habitats including roadsides, wastelands, pastures, cultivated fields, and forest margins. It is tolerant of poor, compacted, and saline soils, contributing to its success as a weed species.
 

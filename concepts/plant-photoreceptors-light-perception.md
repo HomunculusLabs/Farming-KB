@@ -4,6 +4,7 @@ tags: [photoreceptors, phytochrome, cryptochrome, phototropin, phototropism, ult
 source: "Chamovitz, D. (2012). What a Plant Knows: A [[plant-photoreceptor-evolution-from-photolyases]] classes. While fundamentally different
 from animal vision, these systems constitute a legitimate form of plant
 perception.
+---
 
 ## The Electromagnetic Spectrum
 

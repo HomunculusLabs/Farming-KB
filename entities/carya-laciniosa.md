@@ -13,6 +13,7 @@ sources:
   - USDA NRCS (2024). "Carya laciniosa." PLANTS Database.
   - Grauke, L.J. & Woeste, K.E. (2016). "Carya." In: Jepsen, D. (ed.), Flora [[guzman-psilocybin-mushrooms-north-america]]: Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Little, E.L. (1979). "Checklist of [[growing-gourmet-north-american-reishi-species]] hardwoods by virtually every mechanical property measurement.
+---
 
 The specific gravity of shellbark hickory wood ranges from 0.60–0.72, with an average Janka hardness of approximately 1450 pounds-force. These values place it among the top tier of North American woods for applications requiring resistance to impact and abrasion.
 

@@ -2,6 +2,7 @@
 title: Mckenna Witch Ointments Tropane Alkaloids Flying Salves
 source: mckenna_t-food_of_the_gods.md
 author: [[mckenna-inquisition-suppression-of-plant-knowledge]]
+---
 
 The late medieval Church that conducted the great witch burnings wanted
 all magic and derangement to be attributed to the Devil. For this

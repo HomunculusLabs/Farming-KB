@@ -9,6 +9,7 @@ Without bees, pollination of crops fails and humans follow. His natural
 beekeeping approach contrasts sharply with industrial methods that he argues
 are causing the massive collapse of bee populations worldwide. The approach
 emphasises working with bees rather than exploiting them.
+---
 
 ## The Bee Crisis
 

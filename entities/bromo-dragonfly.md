@@ -26,6 +26,7 @@ intended for human consumption. It entered the recreational market as a
 research chemical in the mid-2000s and has been associated with multiple
 deaths due to its exceptional potency, delayed onset, and prolonged
 duration — making it one of the most dangerous [[psychedelic-compounds-reference]] known.
+---
 
 ## Chemical Properties
 

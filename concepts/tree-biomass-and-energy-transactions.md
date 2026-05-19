@@ -2,6 +2,7 @@
 title: Tree Biomass [[trees-and-energy-transactions]]
 source: [[bill-mollison]]-[[permaculture-design]], understanding how trees manage
 energy flows is essential to creating productive, resilient landscapes.
+---
 
 [[tree-biomass-forest-living-system|system]]. Solar radiation is captured
 by foliage and converted through photosynthesis into chemical energy stored in

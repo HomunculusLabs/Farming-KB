@@ -7,6 +7,7 @@ hallucinogenic constituents of "[[psilocin-and-psilocybin-chemistry]] had been r
 by Japan's Narcotics and Psychotropic Control Law. Chromatographic
 [[shirota-forensic-standard-compounds-magic-mushroom-identification]],
 which were difficult to obtain in pure form from natural sources.
+---
 
 ## The Psilocin Synthesis Route
 

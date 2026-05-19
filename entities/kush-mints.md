@@ -16,6 +16,7 @@ sources:
   - AllBud (2024). "Kush Mints Weed Strain." AllBud.com.
   - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Mint [[cannabis-terpene-profile]], and deeply relaxing effects that blend
 body sedation with cerebral calm.
+---
 
 Kush Mints has served as a foundational parent for numerous
 successful crosses, including Jet Fuel Gelato and Animal Mints,

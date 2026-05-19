@@ -34,6 +34,7 @@ aliases:
   - Brazilian arrowroot
   - manihot
   - [[guzman-psilocybin-mushrooms-south-america]].
+---
 
 The species is now cultivated across the global tropics between approximately 30°N and 30°S latitude.
 

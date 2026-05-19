@@ -16,6 +16,7 @@ sources:
   - "Small, E. (2017). Cannabis: A Complete Guide. CRC Press."
   - "Mills, S. et al. (2020). \"Genetic structure of [[cervantes-landrace-cannabis-populations]] strain originating from the
 Hindu Kush mountain range spanning Afghanistan and northern Pakistan.
+---
 
 It is one of the most genetically influential [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]] varieties.
 

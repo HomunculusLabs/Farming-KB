@@ -7,10 +7,6 @@ tags: urban-permaculture-food-forest-succession design principles]
 
 - permaculture-food-forest-design-principles
 
-- permaculture-food-forest-design-principles
-
-- permaculture-food-forest-design-principles
-
 - permaculture-dogwood-cornus-capitata
 
 - permaculture-food-forest-design-principles

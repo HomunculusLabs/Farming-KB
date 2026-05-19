@@ -8,6 +8,7 @@ programme. Designed specifically for people with disabilities in
 rural areas of Thailand, the model addresses the interconnected
 challenges of physical limitation, economic exclusion, and lack of
 marketable skills through a unified curriculum.
+---
 
 ## Origins and Rationale
 

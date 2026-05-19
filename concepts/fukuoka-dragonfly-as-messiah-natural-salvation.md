@@ -6,6 +6,7 @@ his conviction that true salvation for humanity lies not in religious doctrine, 
 scriptures, or institutionalized belief systems, but in a direct, unmediated relationship
 with nature. The dragonfly—a simple creature living freely in harmony with its
 environment—serves as Fukuoka's emblem of the natural life that humanity has abandoned.
+---
 
 ## Context Within Fukuoka's Philosophy
 

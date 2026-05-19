@@ -5,6 +5,7 @@ source_authors: "[[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms
 potency and ensuring long-term storage stability. The PF Tek method, developed
 by Robert McPherson (Psilocybe Fanaticus), recommended using desiccant drying
 as a simple, effective, and accessible method for home cultivators.
+---
 
 The choice of drying method directly affects the chemical stability of the
 active compounds [[enzymatic-degradation-in-mycoremediation]]. However, the low temperature minimizes

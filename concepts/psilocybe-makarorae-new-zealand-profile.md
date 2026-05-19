@@ -6,6 +6,7 @@ Buchanan and is one of several Psilocybe species native to the New Zealand
 region. P. makarorae is particularly notable for its phylogenetic relationships
 within Section Mexicanae, connecting the mycoflora of New Zealand to the
 tropical and subtropical psychoactive species of Asia and the Americas.
+---
 
 ## Taxonomy and Classification
 

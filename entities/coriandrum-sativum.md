@@ -9,6 +9,7 @@ tags:
   - ethnobotany
   - [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Major producers include India, Russia, Morocco,
 Romania, and Mexico.
+---
 
 Cilantro prefers full sun to partial shade and well-drained, loamy soils
 with pH 6.2–6.8. It is a cool-season crop that bolts rapidly (flowers and

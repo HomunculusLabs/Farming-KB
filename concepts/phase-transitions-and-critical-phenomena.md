@@ -7,6 +7,7 @@ tags: [physics, thermodynamics, statistical-mechanics, condensed-matter, materia
 related: [[heat-transfer-mechanisms]], [[superconductivity]] — and their study connects thermodynamics, [[mollison-designers-fish-pond-water-quality-and-aeration]] of temperature T, pressure P, and chemical potential μ = (∂G/∂N)_{T,P} between coexisting phases. The phase with
 the lowest Gibbs free energy G = U − TS + PV is thermodynamically stable. For a first-order transition, the Clausius-Clapeyron equation dP/dT = ΔS/ΔV
 = L/(TΔV) determines the slope of phase boundaries in the P-T diagram, where L is the latent heat.
+---
 
 The Ehrenfest classification (1933) defines an nth-order transition as one where the (n−1)th derivatives of G are continuous but the nth derivatives
 are discontinuous. While conceptually useful, this classification has limitations — actual second-order transitions typically involve divergences

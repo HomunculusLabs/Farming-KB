@@ -11,6 +11,7 @@ tags:
 - **Seeds:** 1–2 cm diameter; starchy white kernel inside hard shell
 - **[[psilocybe-southeast-asia-pacific]]. Invasive in northeastern [[psilocybin-north-america-pacific-northwest]],
 parts of Australia and Africa.
+---
 
 Habitat: still or slow freshwater (ponds, lakes, backwaters, rice
 paddies), 0.5–3 m depth, nutrient-rich substrate, water temperature

@@ -7,6 +7,7 @@ aliases: [[terence-mckenna]] described
 ayahuasca as "a combination of dimethyltryptamine and a monoamine oxidase
 inhibitor that is taken orally" — a deceptively simple description of one
 of the most sophisticated pharmacological discoveries in human history.
+---
 
 ## The Pharmacological Problem
 

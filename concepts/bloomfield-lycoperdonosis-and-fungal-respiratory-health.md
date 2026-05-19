@@ -6,6 +6,7 @@ type: concept
 tags:
   - [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] that a spritz up the nostrils delivers
 millions of the spiny cells directly into the lungs.
+---
 
 Within a few days of exposure, the Wisconsin teens developed breathing
 difficulties, high fevers, and myalgia, or muscle pain. Biopsies taken

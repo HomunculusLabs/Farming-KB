@@ -13,6 +13,7 @@ The base may be slightly enlarged or rooting.
 Odor is mild to slightly fruity when young, becoming unpleasant with age.
 - **Spores:** Elliptical, smooth, hyaline, with two oil droplets, 18–24 × 8–12 µm.
 [[palmer-mushroom-hunting-field-identification]] method.
+---
 
 ## Distribution and Habitat
 G. esculenta has a wide distribution across the Northern Hemisphere.

@@ -1,6 +1,5 @@
 ---
 
----
 ## Magic Mushrooms in European Folklore
 
 updated: 2026-04-24

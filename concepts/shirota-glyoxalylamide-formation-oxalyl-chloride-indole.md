@@ -2,6 +2,7 @@
 title: "[[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]] Formation [[shirota-oxalyl-chloride-glyoxalylamide-crystallization-psilocin-route]] [[indole]]"
 aliases: ["oxalyl chloride indole acylation", "[[glyoxalylamide-intermediate-in-tryptamine-synthesis]] tryptamine", "Shirota oxalyl chloride procedure"]
 tags: [synthesis, [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] that will ultimately become the ethylamine moiety of psilocin. The reaction proceeds through a crystalline glyoxalyl chloride intermediate that is isolated as yellow crystals.
+---
 
 ## The Two-Step Conversion
 

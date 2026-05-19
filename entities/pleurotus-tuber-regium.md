@@ -19,6 +19,7 @@ sources:
   - Okhuoya J.A., Okogun J.I. (1992). "Nutritional Value of Pleurotus tuber-regium (Fr.) Singer." Mushroom Science, 14(2), 405-410.
   - Akindahunsi A.A., Oyetayo F.L. (2006). "Nutritive and Antinutritive Evaluation of Pleurotus tuber-regium Sclerotium." Journal of Food Biochemistry, 30(1), 40-50.
   - Jonathan S.G., Fasidi I.O. (2001). "Studies on Pleurotus tuber-regium (Fr.) Singer: [[palmer-edible-mushrooms-north-america]] for producing large underground **sclerotia** — dense, nutrient-storage masses that can exceed 1 kg in weight.
+---
 
 The species is native to tropical and subtropical regions of Africa and Asia, where it has been used for centuries as both food and traditional medicine. The sclerotium is the primary part harvested in traditional practice, valued for its nutritional content and purported [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]].
 

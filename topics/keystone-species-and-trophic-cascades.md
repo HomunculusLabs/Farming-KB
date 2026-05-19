@@ -9,6 +9,7 @@ sources:
   - Ripple, W.J. & Beschta, R.L. (2012). "query-how-do-trophic-cascades-work in Yellowstone: The First 15 Years After Wolf Reintroduction." Biological Conservation, 145(1), 205-213.
   - Power, M.E. et al. (1996). "Challenges in the Quest for Keystones." BioScience, 46(8), 609-620.
   - Soulé, M.E. et al. (2003). "Ecological Effectiveness: Conservation Goals for Interactive Species." mycelium-running-conservation-biology-and-fungi, 17(5), 1238-1250.---
+---
 
 ## Keystone Species and Trophic Cascades
 

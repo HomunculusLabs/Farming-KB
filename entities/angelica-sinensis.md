@@ -11,6 +11,7 @@ tags:
   - [[medicinal-mushroom-extraction-bioactive-compounds]] It cannot
 tolerate heat or drought, making it challenging to cultivate outside its
 native range.
+---
 
 ## Bioactive Compounds
 

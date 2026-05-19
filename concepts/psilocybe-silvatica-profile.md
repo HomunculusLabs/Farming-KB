@@ -15,6 +15,7 @@ updated: 2026-05-10
 sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "Guzmán, Allen & Gartz (1998) - A Worldwide [[berry-growing]] and Northern Europe. Originally described by Singer & Smith in 1958, it is a wood-inhabiting species that fruits on decaying wood debris, forest litter, and sometimes on wood chips in landscaped areas. The specific epithet "silvatica" means "of the forest," reflecting its natural woodland habitat.
+---
 
 ## Taxonomic Position
 

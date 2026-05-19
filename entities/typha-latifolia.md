@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Grace JB, Wetzel RG (1981). "Habitat partitioning and competitive displacement in cattails (Typha): experimental field studies." American Journal of Botany.
   - Kuehn MM, White BN (1999). "Morphological variation in Typha latifolia and [[phosphate-accumulators-sustainable-agriculture]]." Journal of [[hemenway-backyard-wildlife-habitat]] provision.
+---
 
 Nearly all parts of the plant are edible at specific [[psilocybin-north-america-pacific-northwest]] and Europe.
 

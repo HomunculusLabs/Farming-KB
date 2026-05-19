@@ -15,6 +15,7 @@ sources:
   - Corden, T.C. (2005). "American hazelnut as an alternative crop for the Midwest." HortTechnology, 15(3), 510-514.
   - Andrews, M. (2011). "The use of nitrogen isotope ratios in environmental studies." In Nitrogen in the Environment. Elsevier.
   - Molano-Flores, B. (2001). "[[guzman-psilocybin-mushrooms-north-america]].
+---
 
 The species produces edible nuts that are smaller but similarly flavored to commercially grown European hazelnuts from [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 

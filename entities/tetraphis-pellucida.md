@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." Cambridge University Press.
   - Crum, H.A. & Anderson, L.E. (1981). "Mosses of [[guzman-psilocybin-mushrooms-north-america]], Europe, and Asia.
+---
 
 The species is notable for its distinctive cup-shaped gemmae-bearing structures, a reproductive feature uncommon among mosses.
 

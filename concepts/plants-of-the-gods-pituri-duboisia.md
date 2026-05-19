@@ -8,6 +8,7 @@ Pituri as a substance for social enjoyment, a shamanic magic drug,
 and a valuable good for trade across the Australian continent. It
 represents one of the oldest continuously used psychoactive plants in
 human history.
+---
 
 ## Botanical Description
 

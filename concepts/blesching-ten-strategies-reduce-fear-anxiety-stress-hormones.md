@@ -4,8 +4,6 @@ tags:
   - concept
 ---
 
----
-
 ## The Stress Hormone Problem
 
 Acute fear is a great motivator that has the body's survival in mind. However, chronic fears that persist produce stress molecules (adrenalin, cortisol) on a continuous basis in higher amounts. This chronic elevation has numerous serious ill-effects: increased vulnerability to infections, higher risk of [[blesching-conscious-intervention-stress-hormone-reduction-endocannabinoid]]. By constructively processing fears — not denying them (which only suppresses) — we can release emotions associated with unhealthy molecules and foster signals that support healing.

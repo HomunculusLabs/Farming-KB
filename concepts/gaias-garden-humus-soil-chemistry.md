@@ -6,6 +6,7 @@ complex group of molecules that only slowly undergoes further
 breakdown. [[soil-life]] quickly converts to energy,
 [[query-can-fungi-break-down-plastic-pollution]] these tenacious
 molecules.
+---
 
 In a process that is poorly understood, microbes and other
 forces of decomposition convert lignins and the other hard-core

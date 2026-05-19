@@ -15,6 +15,7 @@ sources:
   - Small, E. (2017). "Cannabis: A Complete Guide." CRC Press.
   - Peace, M.R. et al. (2016). "Cannabinoid profile of popular strains." Journal of Forensic Sciences 61(2): 472-479.
   - Potter, D.J. et al. (2008). "Variation in cannabinoid content of herbal cannabis." Journal of Forensic Sciences 53(3): 615-621.---
+---
 ## Purple Kush
 
 ## Overview

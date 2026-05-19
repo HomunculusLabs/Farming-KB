@@ -14,6 +14,7 @@ sources:
   - Bogin, C. (1955). "Revision of the Genus Sagittaria." Memoirs of the New York Botanical Garden, 9(1), 179-251.
   - Haynes, R.R. & Holm-Nielsen, L.B. (1994). "Alismataceae." Flora of Ecuador, 49, 1-63.
   - Cook, C.D.K. (1996). [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] for emergent leaves.
+---
 
 **Inflorescences** are racemose, rising on erect peduncles 20–80 cm above the water. Each peduncle bears 3–12 whorls of flowers, with female flowers in the lower whorls and male flowers in the upper whorls.
 

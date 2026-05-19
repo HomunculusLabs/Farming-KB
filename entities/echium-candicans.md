@@ -14,6 +14,7 @@ sources:
   - Royal Horticultural Society (2023). "Echium candicans — RHS Plant Finder." rhs.org.uk.
   - Gibbs, P.E. (1971). "Studies on the Genus Echium (Boraginaceae)." Boletim do Museu Municipal do Funchal 25: 67–81.
   - PlantZAfrica (2024). "Echium candicans." [[cannabis-vegetative-growth-stage]] and extends the plant's lifespan by 2–3 years.
+---
 
 ## Taxonomy and Morphology
 

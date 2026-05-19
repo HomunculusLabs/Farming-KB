@@ -10,6 +10,7 @@ in southern California and adjacent parts of Arizona and Mexico. Over
 (excluding Mucor and Rhizopus). In comparison, 78 species in 26 genera
 were reported for Pakistan after 5 years of extensive collecting, and
 in more temperate Switzerland, 20 species in 10 genera were found.
+---
 
 Zygomycetes generally are observed early in succession on dung (within
 5-14 days). They are often isolated preferentially from fresh dung,

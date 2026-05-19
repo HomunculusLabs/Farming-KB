@@ -14,6 +14,7 @@ sources:
   - Renuka, C. (2017). "Borassus flabellifer — a multipurpose palm." Indian Journal of wasted-human-resources-and-traditional-knowledge 16(2): 266–275.
   - Sanyal, P.K. et al. (2019). "Palmyra palm: biology, cultivation and uses." Springer.
   - Morton, J.F. (1988). "Notes on distribution, propagation, and products of Borassus palms." Economic Botany 42(2): 220–231.---
+---
 
 ## Overview
 

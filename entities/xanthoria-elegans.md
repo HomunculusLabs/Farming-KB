@@ -14,6 +14,7 @@ sources:
   - Poelt, J. (1969). "Bestimmungsschlüssel europäischer Flechten." J. Cramer.
   - Wirth, V. (1995). "Die Flechten Baden-Württembergs." Eugen Ulmer Verlag.
   - Nash, T.H. III (2008). "[[psilocybe-semilanceata]] and is particularly abundant in montane, arctic, and coastal environments. Its vivid coloration and preference for exposed rock surfaces make it a familiar sight to hikers and naturalists worldwide.
+---
 
 X. elegans is notable for its use as a biological weathering agent and as a bioindicator of substrate stability. Its ability to colonize fresh rock surfaces makes it a [[lichenicolous-fungi]], including *Xanthoriicola physciae* and several *Arthonia* species. These parasites can reduce thallus vitality and reproductive output.
 

@@ -14,6 +14,7 @@ sources:
   - Goldblatt, P. & Manning, J.C. (2008). "The Iris Family." Timber Press.
   - Fennell, C.W. & Light, M.E. (2010). "Iridaceae: [[iris-pallida]] (Dalmatian iris)
 and Iris variegata (hungarian iris), both native to the Balkans.
+---
 
 The plant grows from thick, fleshy rhizomes that spread horizontally at or
 just below the soil surface. These rhizomes store starches and fragrant

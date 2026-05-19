@@ -25,6 +25,7 @@ sources:
   - Leafly Staff (2024). "Bacio Gelato Weed Strain Information." Leafly.com.
   - AllBud (2024). "Bacio Gelato Strain Review." AllBud.com.
   - Cookies Brand (2023). "Gelato [[blesching-cannabis-strain-selection-receptor-targeting]] from the Cookie family lineage. It is one of the 33 numbered phenotypes selected from the original Gelato cross ([[girl-scout-cookies]] Thin Mint), bred by Bay Area genetics legend Sherbinski in collaboration with the Cookies brand.
+---
 
 Bacio stands out among the Gelato phenotypes for its exceptionally sweet, dessert-like aroma combining cookie dough, lavender, and dark berry notes. It consistently tests at 25–30% THC, placing it among the highest-potency Gelato selections.
 

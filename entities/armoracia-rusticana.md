@@ -16,6 +16,7 @@ sources:
   - Lazányi, J. et al. (2011). "Antimicrobial activity of horseradish juice." Acta Alimentaria, 40(2), 227-235.
   - Rideout, M. et al. (2003). "Horseradish peroxidase: a review of biotechnological applications." Critical Reviews in Biotechnology, 23(2), 127-148.
   - Wedelsbäck Bladh, K. & Olsson, K.M. (2011). "Introduction and use of horseradish (Armoracia rusticana) as food and medicine from antiquity to the present." [[fungal-btex-volatile-compound-degradation]] is responsible for the characteristic sharp, nasal-clearing heat.
+---
 
 Horseradish has been used as a food, medicine, and preservative for over 3,000 years. It is commercially significant for both its culinary applications and as a source of the industrial enzyme horseradish peroxidase (HRP).
 

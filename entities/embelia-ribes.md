@@ -24,6 +24,7 @@ sources:
   - Bhandari, A.K. et al. (2013). "Phytochemistry and pharmacology of Embelia ribes." Asian Pacific Journal of Tropical Disease, 3(1), 68-74.
   - Dharmendra et al. (2012). "Embelin: a review of its [[blesching-cannabis-skin-diseases]]. The small, pepper-like berries are the primary medicinal part, containing
 the bioactive quinone embelin as their principal constituent.
+---
 
 The species is native to the Indian subcontinent and [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]")
 - **Seeds:** One per fruit, globular, 2–3 mm, brownish

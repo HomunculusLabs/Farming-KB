@@ -14,6 +14,7 @@ sources:
   - Tiffney, W. N. (1984). "The role of Gaultheria shallon in Pacific Northwest forest succession." Madroño.
   - USDA NRCS. "Gaultheria shallon" PLANTS Database. https://plants.usda.gov/
   - Minore, D. (1972). "The huckleberries-and-wild-berries-of-north-america the Pacific Northwest." USDA Forest Service General Technical Report PNW.---
+---
 
 ## Overview
 

@@ -11,6 +11,7 @@ updated: 2026-05-09
 sources:
   - Mackey AP, Swarbrick JT (1997). "The Biology of Australian Weeds. 32. Cabomba caroliniana." Plant Protection Quarterly 12(4): 154–165.
   - Schooler SS, Julien MH, Walsh GC (2006). "Cabomba caroliniana Gray (Cabombaceae)." In: "[[guzman-psilocybin-mushrooms-north-america]] and parts of [[berry-growing]].
+---
 
 Dense growth of Cabomba caroliniana can obstruct waterways, impede recreational use, and displace native aquatic vegetation. Its management is a major concern for water resource authorities worldwide.
 

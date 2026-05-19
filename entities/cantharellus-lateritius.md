@@ -23,6 +23,7 @@ sources:
 - **Ecology:** Ectomycorrhizal mutualist; forms nutrient-exchange relationships with tree root systems; contributes to forest [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:** Ergosterol (pro-vitamin D₂), ergothioneine (antioxidant amino acid), β-glucans (immunomodulatory polysaccharides), lovastatin precursors
 - **Antioxidant capacity:** High ORAC value; ergothioneine and selenium contribute to significant free-radical scavenging activity
 - **Caloric value:** Approximately 25–35 kcal per 100 g fresh weight
+---
 
 ## Distinguishing from Similar Species
 

@@ -9,6 +9,7 @@ include the production of toxic [[comparison-jasmonate-vs-salicylic-acid-defense
 role to methyl jasmonate in [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] that travels
 both through the air and through the vascular system to activate defense
 genes throughout the plant and potentially in nearby plants as well.
+---
 
 Salicylic acid itself is a critical hormone in plant immunity, and its
 volatile methylated form extends the reach of this defense signal beyond the

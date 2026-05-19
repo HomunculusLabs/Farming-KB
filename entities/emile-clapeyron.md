@@ -21,6 +21,7 @@ associated_with:
 - École des Ponts et Chaussées
 - [[sadi-carnot]]'s heat-engine theory accessible and analytical.
 - He gave graphical form to the cycle now discussed on [[query-what-are-mycelium-materials-and-how-are-they-made]]
+---
 
 ## Overview
 

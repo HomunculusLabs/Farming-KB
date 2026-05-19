@@ -3,6 +3,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 source_author: [[comparison-natural-farming-vs-permaculture]] method. Rather than preparing compost
 or applying [[cultivator-compost-preparation-phase-methods]]. He saw it as an unnecessary
 transfer of organic matter from one place to another:
+---
 
 - Compost requires labor to collect, pile, turn, and transport materials.
 - The act of removing organic matter from one area depletes that area.

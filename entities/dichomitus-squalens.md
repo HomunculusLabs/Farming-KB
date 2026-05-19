@@ -9,6 +9,7 @@ tags:
   - [[staycare-phanerochaete-chrysosporium-in-bioremediation]] strain RP78." Nature Biotechnology, 22(6), 695-700.
   - Floudas, D. et al. (2012). "The Paleozoic origin of enzymatic lignin decomposition reconstructed from 31 fungal genomes." Science, 336(6089), 1715-1719.
   - Hofrichter, M. et al. (2010). "[[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]." [[brown-rot-fungi-cellulose-degradation-wood-decay]] species recognized for its aggressive [[singh-white-rot-fungi-lignin-modifying-enzymes]] in the breakdown of woody substrate.
+---
 
 Its bio[[fungal-degradation-of-pcbs-by-white-rot-fungi]] recalcitrant pollutants.
 

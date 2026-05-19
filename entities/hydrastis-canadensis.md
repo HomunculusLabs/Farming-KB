@@ -21,6 +21,7 @@ sources:
   - "Bone, K. & Mills, S. (2013). The [[polypore-fungi-eastern-north-america]] American deciduous forests, valued for its rhizome containing berberine, hydrastine, and canadine.
 Overharvested in the wild to near commercial extinction, cultivated supply chains are essential.
 Berberine receives significant clinical attention for metabolic and antimicrobial applications.
+---
 
 ## Taxonomy
 

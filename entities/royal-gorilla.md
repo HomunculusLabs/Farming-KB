@@ -19,6 +19,7 @@ Chem's Sister (a phenotype of Chemdawg) with Sour Dubb and Chocolate Diesel.
 Originally bred by the Spanish seed bank Symbiotic Genetics, it gained
 international fame after Snoop Dogg selected it for his Leafs by Snoop product
 line in 2016. It won first place at the 2016 European Cannabis Flower Cup.
+---
 
 The strain is notable for its exceptionally high THC content (often exceeding
 25%) combined with meaningful CBD levels (1–3%), making it one of the few

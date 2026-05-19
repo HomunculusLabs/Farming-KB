@@ -5,6 +5,7 @@ is the environment where fully colonized substrate bags are transitioned from th
 growth phase to the fruiting (mushroom production) phase. Jarrold's design uses a standard
 glass aquarium as the foundation of a simple, effective fruiting chamber that can be
 constructed from readily available materials at minimal cost.
+---
 
 ## The Fruiting Environment
 

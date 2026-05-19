@@ -6,6 +6,7 @@ related: mycelial-growth-enhancement-with-phytohormones
 source: Gartz et al. (1990) - Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and fruiting in *Psilocybe
 cubensis*. It represents one of the few brassinosteroids tested for
 biological activity outside the plant kingdom.
+---
 
 ## Chemical Identity
 

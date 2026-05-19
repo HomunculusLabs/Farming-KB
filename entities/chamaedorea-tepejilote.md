@@ -7,6 +7,7 @@ tags:
   - edible-plants
   - mesoamerica
   - [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]. It is widely cultivated for its edible male inflorescences, which are a traditional vegetable in Mesoamerican cuisine.
+---
 
 The species is one of the most economically important non-timber [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to Colombia and Ecuador. It occurs on both the Atlantic and Pacific slopes of the Central American isthmus.
 

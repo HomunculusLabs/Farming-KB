@@ -17,6 +17,7 @@ sources:
   - Foster S., Hobbs C. (2002). "A [[psilocybin-north-america-pacific-northwest]]. Reaching heights of 1–5 meters, it is
 among the most distinctive understory plants in its range, instantly recognizable
 by its dense covering of yellowish spines on stems, petioles, and leaf veins.
+---
 
 The species occupies a central role in the ethnobotany of virtually every Indigenous
 group within its range. Inner bark preparations have been used as medicine for

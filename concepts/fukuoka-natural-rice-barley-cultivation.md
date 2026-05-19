@@ -1,6 +1,5 @@
 ---
 
----
 ## Fukuoka's Natural Rice and Barley Cultivation
 
 **Updated:** 2026-04-18

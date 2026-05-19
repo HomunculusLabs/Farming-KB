@@ -14,6 +14,7 @@ updated: 2026-04-28
 sources:
   - Tucker, A.O. et al. (2010). "The genus Monarda (Lamiaceae)." Advances in Economic Botany, 13, 1-76.
   - Nair, M.G. et al. (2002). "Mosquitocidal activity of monarda [[polypore-fungi-eastern-north-america]] America, it is cultivated widely for its striking scarlet flowers, aromatic foliage, [[candida-albicans]]). Mechanism involves disruption of bacterial cell membranes via interaction with lipid bilayers.
+---
 
 **Antioxidant activity:** The essential oil demonstrates significant free radical scavenging activity in DPPH and ABTS assays, primarily attributed to the phenolic terpenoids.
 

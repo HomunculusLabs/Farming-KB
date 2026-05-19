@@ -13,6 +13,7 @@ sources:
   - Arai M. (2008). "Seaweeds of Japan." Hokkaido University Press.
   - Nisizawa K. (1971). "Seaweeds and their uses in Japan." Botanica Marina, 14, 89–96.
   - Jiménez-Escrig A. et al. (2001). "Nutritional evaluation and [[sargassum]]* as *[[coleman-overwintered-onions-and-early-spring-crops]] (March–April), reaching maximum biomass by mid-summer. Fronds senesce and erode through autumn and winter, with the holdfast persisting as the overwintering structure.
+---
 
 [[ph-and-nutrient-availability-garden-soils]]. Shaded, wave-protected sites produce longer but thinner fronds, while exposed sites yield shorter, sturdier plants. Anthropogenic nutrient inputs from coastal agriculture and aquaculture have been associated with increased growth rates and expanded distribution in some regions.
 

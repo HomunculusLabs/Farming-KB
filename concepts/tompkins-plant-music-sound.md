@@ -7,6 +7,7 @@ related: [[tompkins-plant-electrical-signals]], [[cannabis-strain-south-indian-l
 "Maya-malava-gaula raga" to mimosas for a fortnight, the experimental
 plants developed 66% more stomata per unit area, thicker epidermal
 walls, and palisade cells up to 50% longer and broader.
+---
 
 A virtuoso played the "Kara-hara-priya raga" on the veena to balsam
 plants for 25 minutes daily. By the fifth week, experimental plants had

@@ -7,6 +7,7 @@ tags: [amanita-muscaria, fly-agaric, ibotenic-acid, muscimol, gabaergic,
 aliases: [[allegro-amanita-muscaria-properties-and-pharmacology]] effects, [[psilocybin-mushrooms]],
 A. muscaria does not contain serotonergic psychedelics. Its active compounds
 — [[fungal-diversity-boreal-forests-taiga]] across the Northern Hemisphere.
+---
 
 ## Active Compounds
 

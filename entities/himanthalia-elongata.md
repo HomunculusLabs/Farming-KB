@@ -14,6 +14,7 @@ sources:
   - Guiry, M.D. & Guiry, G.M. (2025). "Himanthalia elongata." AlgaeBase. National University of Ireland.
   - Fleurence, J. (2016). "Seaweeds as food." In: Seaweed in Health and cervantes-pest-disease-prevention-overview. Academic Press, pp. 149-167.
   - Jiménez-Escrig, A. et al. (2012). "Dietary fiber and [[fucus-vesiculosus]]**, **[[laminaria-digitata]]**. It attaches firmly to stable rock substrates and is absent from sandy or muddy bottoms.
+---
 
 ## Nutritional Value
 

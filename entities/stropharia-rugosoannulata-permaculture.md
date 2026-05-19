@@ -19,6 +19,7 @@ sources:
   - Zerova, M.Y. et al. (1986). "Symbiosis between higher plants and Stropharia rugosoannulata in garden ecosystems." Mikologiya i Fitopatologiya, 20, 455-460.
   - Traquair, J.A. (1985). "Wine-cap Stropharia, a potentially useful cultivated mushroom." Mushroom Journal for the Tropics, 5(1), 15-20.
   - Szudyga, K. et al. (2021). "Cultivation of Stropharia rugosoannulata on [[comparison-vermicomposting-vs-composting-organic-garden]] matter.
+---
 
 The wine cap has become one of the most significant fungi [[fungal-nematode-predation-and-trapping-mechanisms]], and plant growth promotion. It is arguably the single best mushroom species for integration into home gardens, food forests, and broad-acre permaculture systems.
 

@@ -6,6 +6,7 @@ global biogeochemical cycles. The British Mycological Society has
 highlighted mycorrhizas as a central theme in modern environmental
 mycology research, reflecting their recognized importance in ecosystem
 science.
+---
 
 ## Types of Mycorrhizal Associations
 

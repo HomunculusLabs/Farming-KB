@@ -14,6 +14,7 @@ sources:
   - Masters, D., and R. Benes. "Role of halophytes in the rehabilitation of degraded saline soils." Journal of fungal-diversity-arid-environments, vol. 175, 2020, 104079.
   - Bronick, C.J., and R. Lal. "Soil structure and management: a review." Geoderma, vol. 124, no. 1-2, 2005, pp. 3-22.
 type: query---
+---
 
 ## How Do I Restore Saline and Compacted Soil?
 

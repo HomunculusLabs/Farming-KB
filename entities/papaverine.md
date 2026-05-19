@@ -15,6 +15,7 @@ sources:
   - Bülbring E, Tomita T (1987). "Action of papaverine on smooth muscle." Journal of Physiology 389: 131-146.
   - Kukovetz WR, Pöch G (1970). "Inhibition of cyclic-3',5'-nucleotide phosphodiesterase by papaverine." Naunyn-Schmiedebergs Archives of Pharmacology 267(2): 189-194.
   - Preziosi P (1983). "The pharmacology of papaverine and related benzylisoquinoline alkaloids." Medical [[morphine]] and [[salvinorin-a-kappa-opioid-receptor-pharmacology]] activity and produces no analgesic, euphoric, or dependence-producing effects.
+---
 
 Papaverine is classified pharmacologically as a non-nitrogenous phosphodiesterase inhibitor with direct vasodilatory and antispasmodic properties.
 

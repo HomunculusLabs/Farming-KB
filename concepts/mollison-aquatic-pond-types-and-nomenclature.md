@@ -8,6 +8,7 @@ tags:
 follows the work of Chakroff and Yeoman. Understanding these categories is
 essential for anyone working with permaculture-dam-design for optimal siting and
 construction.
+---
 ## Diversion Ponds
 
 Diversion ponds are filled by a diversion channel, which leads water from a

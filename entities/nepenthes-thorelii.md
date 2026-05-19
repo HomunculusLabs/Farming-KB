@@ -15,6 +15,7 @@ sources:
   - Schlauer, J. (2020). "Nepenthes nomenclatural database." Carnivorous Plant Database.
   - McPherson, S.R. (2009). "Pitcher Plants of the [[garden-myths-native-plants-and-invasive-species]]
 - [[nepenthes-lowii]]
+---
 
 ## Overview
 

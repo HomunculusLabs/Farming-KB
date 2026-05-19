@@ -10,6 +10,7 @@ a plant is turned upside down, it will begin to reorient its growth within
 hours, curving roots back downward and shoots back upward. This persistent
 correction demonstrates that plants possess a robust gravity-sensing
 mechanism operating continuously throughout their lives.
+---
 
 The universality of gravitropism across the plant kingdom underscores its
 evolutionary importance. From the smallest annuals to the tallest trees,

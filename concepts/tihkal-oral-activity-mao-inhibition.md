@@ -3,6 +3,7 @@ title: Tihkal Oral Activity Mao Inhibition
 created: 2026-04-26
 sources: "TIHKAL - Tryptamines I Have Known and Loved (Shulgin & Shulgin)"
 tags: [MAO, oral activity, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] Problem
+---
 
 The single [[guzman-allen-gartz-neurotropic-fungi-classification-system]] that oxidatively deaminates primary and secondary amines, rendering them pharmacologically inactive.
 

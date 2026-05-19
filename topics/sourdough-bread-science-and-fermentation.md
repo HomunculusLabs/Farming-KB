@@ -5,6 +5,7 @@ The culture, commonly called a starter, replaces commercial baker's yeast
 as the main source of carbon dioxide. It also acidifies the dough,
 changes the behavior of gluten and starch, and produces the flavor that
 makes sourdough distinct from quickly yeasted breads.
+---
 
 The science of sourdough is inseparable from practice. A jar of starter
 is a small ecosystem maintained by feeding, temperature, hydration, and

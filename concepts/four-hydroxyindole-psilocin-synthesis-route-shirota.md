@@ -10,6 +10,7 @@ purification. The synthesis begins from commercially available
 followed by a phosphorylation step for psilocybin. The choice of
 4-hydroxyindole as starting material and acetylation as the protection
 strategy distinguish this route from earlier approaches.
+---
 
 ## Why 4-Hydroxyindole
 

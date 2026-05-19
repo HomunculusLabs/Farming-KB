@@ -11,6 +11,7 @@ updated: 2026-05-10
 sources:
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens huckleberries-and-wild-berries-of-north-america. Yale University Press.
   - Nash, T.H. III (2008). [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe, [[antifungal-secondary-metabolites-coprophilous-fungi]]. The genus name refers to the blood-red coloration of the apothecial discs.
+---
 
 The species was historically used in [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] are consistent with the order Lecanorales.
 

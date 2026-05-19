@@ -15,6 +15,7 @@ sources:
 Australian blackwood (not to be confused with A. melanoxylon), is a
 fast-growing nitrogen-fixing tree in the family Fabaceae, subfamily
 Mimosoideae.
+---
 
 Native to southeastern Australia, it has become one of the most
 commercially significant wattle species worldwide, extensively planted

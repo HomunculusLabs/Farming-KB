@@ -6,6 +6,7 @@ tags:
   - zygophyllaceae
   - [[golden-guide-syrian-rue-and-maoi-plants]], Harmal, Harmel, Aspand, Esfand, African Rue, Wild Rue,
 Harmala.
+---
 
 ## Taxonomy
 

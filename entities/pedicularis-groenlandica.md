@@ -25,6 +25,7 @@ magenta flowers with projecting beak-like galeas resembles an elephant's
 trunk, earning the common name **elephant's head**. Indigenous peoples of
 the Rocky Mountains and Sierra Nevada used the plant as a muscle relaxant
 and analgesic, and modern herbalists value it for similar applications.
+---
 
 The species is a root hemiparasite, supplementing its photosynthesis by
 extracting water, mineral nutrients, and [[growing-gourmet-north-american-reishi-species]] Rockies than in Greenland. No

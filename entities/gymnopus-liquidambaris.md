@@ -22,6 +22,7 @@ sources:
   - Halling, R.E. (1983). "Marasmius and related genera from the Greater Antilles." Memoirs of the New York Botanical Garden, 37, 1-86.
   - Antonín, V. & Noordeloos, M.E. (2010). "Monograph of Marasmius, Collybia and related genera in Europe." IHW-Verlag, Eching.
   - Lodge, D.J. et al. (2014). "Mycodiversity of the Caribbean." In: Mueller, G.M. (ed.), [[liquidambar-styraciflua]]*).
+---
 
 Originally described by Rolf Singer in the genus *Marasmius*, it was transferred to *Gymnopus* following taxonomic revisions that redefined generic boundaries within the Marasmiaceae complex.
 

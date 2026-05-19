@@ -13,6 +13,7 @@ sources:
   - Moran, R.C. (2004). "A Natural History of Ferns." Timber Press.
   - Farnsworth, E. et al. (2007). "Wild edible ferns of Asia." Economic Botany, 61(1), 1-15.
   - Cheng, H.H. et al. (2016). "[[psilocybe-southeast-asia-pacific]], where it is known by numerous local names including pako (Philippines), ningro (India), and pucuk pakis (Indonesia).
+---
 
 The young fronds are harvested as a [[hamilton-composting-and-organic-matter-management]].
 

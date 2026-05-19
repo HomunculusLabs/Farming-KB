@@ -15,6 +15,7 @@ sources:
   - Pawlus, A.D. et al. (2007). "Annonaceous acetogenins: Recent progress." Journal of Natural Products 70(2): 289-294.
   - George, V.C. et al. (2015). "Systematic review and meta-analysis of anticancer properties of *Annona muricata*." Evidence-Based Complementary and Alternative Medicine 2015: 587296.
   - Rady, I. et al. (2018). "Graviola: A novel promising natural-derived drug that inhibits tumorigenicity and metastasis of [[comparison-berry-growing-vs-fruit-tree-pruning]] in the family Annonaceae.
+---
 
 It is native to the [[panax-ginseng]].
 

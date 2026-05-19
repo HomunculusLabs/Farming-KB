@@ -15,6 +15,7 @@ sources:
   - Nishiyama, I. (2007). "chemical-composition-of-hallucinogens and Authenticity of Kiwifruit." Food Science and Technology Research, 13(1), 1–12.
   - Li, J. et al. (2013). "Genome Sequence of the Polar Kiwifruit." Nature Communications, 4, 2640.
   - Beever, D.J. & Hopkirk, G. (1990). "Fruit Development and Maturation." In Warrington, I.J. & Weston, G.C. (eds.), Kiwifruit: Science and Management. Ray Richards Publisher.---
+---
 
 ## Overview
 

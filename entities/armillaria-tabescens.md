@@ -24,6 +24,7 @@ sources:
   - Tirmenstein, D. (1990). "Armillaria tabescens." In: "Silvics of psilocybin-north-america-pacific-northwest," USDA Forest Service.
   - Baumgartner, K. & Bega, R.V. (1994). "Armillaria singh-bioaugmentation-vs-biostimulation-fungal-strategies of bloomfield-wood-decay-fungi-spalted-timber in Trees." Springer.
   - Watling, R. et al. (1982). "The Genus Armillaria." Royal Botanic Garden Edinburgh.---
+---
 
 ## Armillaria tabescens
 

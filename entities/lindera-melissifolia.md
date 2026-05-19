@@ -15,6 +15,7 @@ sources:
   - Wright, J.H. (1990). "Clonal growth and fukuoka-textdoc-microclimate-mite-scale-population-dynamics of Lindera melissifolia." Castanea, 55(4), 218-227.
   - Barton, A.M. (1993). "Factors controlling plant distributions: drought, competition, and fire in a sandplain community." Ecology, 74(6), 1829-1841.
   - Haw, R.G. & Hauge, R.Y. (2007). "Propagation of endangered pondberry from cuttings." Native Plants Journal, 8(1), 35-40.---
+---
 
 ## Overview
 

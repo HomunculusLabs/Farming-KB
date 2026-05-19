@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Zona, S. (1990). "A monograph of Roystonea (Arecaceae: Arecoideae)." Brittonia, 42(2), 128-153.
   - Henderson, A., Galeano, G. & Bernal, R. (1995). "[[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] and the Caribbean. It is one of the most iconic ornamental palms in tropical landscapes, recognized by its smooth, gray-white trunk, massive green crownshaft, and gracefully arching pinnate leaves.
+---
 
 The species reaches heights of 20-30 meters and is widely planted throughout the tropics and subtropics as a street tree, specimen tree, and landscape focal point. Its stately silhouette has made it a symbol of tropical elegance worldwide.
 

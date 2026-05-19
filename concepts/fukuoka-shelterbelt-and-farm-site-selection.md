@@ -5,6 +5,7 @@ author: Masanobu Fukuoka
 topics: [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]] y, existing vegetation, and [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]] rops, strip soil, and break plant stems.
 2. **Soil fertility maintenance**: Trees in the shelterbelt shed leaves and branches that decompose into organic matter, continuously feeding the soil.
 3. **Environmental improvement**: The shelterbelt creates a habitat [[complete-organic-fertilizer-cof-recipe-solomon]] for the farm. The wood preserve serves three critical functions:
+---
 
 1. It anchors the hillside soil and prevents erosion.
 2. It generates a continuous supply of leaf litter, branch material, and woody debris that feeds the farm's soil.

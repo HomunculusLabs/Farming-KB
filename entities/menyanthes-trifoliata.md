@@ -13,6 +13,7 @@ sources:
   - European Medicines Agency (2013). "[[permaculture-site-assessment-report-writing]] on Menyanthes trifoliata L., folium." EMA/HMPC.
   - Mølgaard P (1992). "[[psilocybin-north-america-pacific-northwest]]. In Europe, it ranges from
 Scandinavia and the British Isles southward to the Alps and the Balkans.
+---
 
 The species is restricted to acidic, oligotrophic to mesotrophic wetland habitats including
 raised bogs, blanket bogs, transition mires, and the margins of dystrophic lakes. It requires

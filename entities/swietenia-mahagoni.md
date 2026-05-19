@@ -12,6 +12,7 @@ updated: 2026-05-08
 sources:
   - Lamb, F.B. (1966). "Mahogany of Tropical America." University of Michigan Press.
   - Styles, B.T. & Khosla, P.K. (1976). "Cytology and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
+---
 
 West Indian mahogany was the first New World timber species to be commercially exploited by European colonists, beginning in the early 16th century. The species became the benchmark for fine cabinetry and shipbuilding wood, giving rise to the term "mahogany" as a generic descriptor for reddish-brown tropical hardwoods.
 

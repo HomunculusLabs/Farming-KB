@@ -3,6 +3,7 @@ title: All One Has to Do Is to Live
 created: 2026-04-28
 tags: [philosophy, life, nature, civilization, [[fukuoka-road-man-does-not-live-by-bread-alone]]
 - [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
+---
 
 ## Practical Applications
 

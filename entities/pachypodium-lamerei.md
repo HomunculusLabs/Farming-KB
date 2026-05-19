@@ -13,6 +13,7 @@ sources:
   - Lüthy, J.M. (2004). "The genus Pachypodium in Madagascar." Cactus and Succulent Journal, 76: 146-162.
   - Eggli, U. & Newton, L.E. (2004). Etymological Dictionary of Succulent allegro-plant-names-mushroom-mystery-cult-secrecy. Springer.
   - Royal Horticultural Society. Pachypodium lamerei RHS Plant Finder record.---
+---
 
 ## Overview
 

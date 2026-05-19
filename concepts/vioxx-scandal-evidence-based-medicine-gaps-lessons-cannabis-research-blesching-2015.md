@@ -7,6 +7,7 @@ weaknesses in the pharmaceutical drug approval and post-marketing surveillance
 system. This comparison frames the need for evidence-based approaches to
 cannabis therapeutics while highlighting that the conventional pharmaceutical
 system itself suffers from significant evidence gaps and safety failures.
+---
 
 ## The Vioxx Timeline
 

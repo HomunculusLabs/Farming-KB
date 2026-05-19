@@ -25,6 +25,7 @@ sources:
   - Ryvarden, L. & Gilbourn, C.L. (2004). "Polyporaceae." Synopsis Fungorum 21: 1–708.
   - Floudas, D. et al. (2012). "The Paleozoic Origin of Enzymatic Lignin Decomposition Reconstructed from 31 Fungal Genomes." Science 336(6089): 1715–1719.
   - Dashtban, M. et al. (2010). "[[singh-fungal-laccase-enzymes-bioremediation]] used in biotechnology and bioremediation.
+---
 
 The species colonizes dead and dying hardwood, particularly fallen branches and stumps of oak, beech, and birch. It fruits as tough, semicircular brackets with a distinctive zonate upper surface and a gray-to-cream pore layer underneath.
 

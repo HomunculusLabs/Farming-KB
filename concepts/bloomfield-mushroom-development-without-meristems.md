@@ -4,6 +4,7 @@ source: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-myc
 author: Nicholas P. Money
 topics: mycology, mushroom development, [[hplc-analysis-psilocybin-psilocin-mushroom-tissue]] reveals not differentiated cell layers but the cut ends
 of innumerable hyphal tubes packed tightly together.
+---
 
 ## Embryonic Mushroom Formation
 

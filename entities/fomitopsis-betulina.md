@@ -14,6 +14,7 @@ sources:
   - Niemelä, T. (2005). "Polypores of Finland." Finnish Museum of Natural History.
   - Spirin, V. & Zmitrovich, I. (2018). "Polyporoid fungi of Russia." National Lincean Academy.
   - Smith, J.E. et al. (2002). "The medicinal value of the [[iceman-otzi-birch-polypore-prehistoric-mushroom-use]]** or **razor-strop fungus**.
+---
 
 It is a brown-rot decomposer found almost exclusively on dead or dying birch trees (*Betula* spp.) across the temperate Northern Hemisphere.
 

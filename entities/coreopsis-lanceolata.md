@@ -13,6 +13,7 @@ sources:
   - Smith, E.B. (2006). "Coreopsis." In Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 21. Oxford University Press.
   - USDA NRCS (2024). "Coreopsis lanceolata L." PLANTS Database. https://plants.usda.gov
   - Radford, A.E. et al. (1968). *Manual of the Vascular Flora of the Carolinas*. University of [[dmt-containing-plants-united-states-halpern]], where it inhabits open woodlands, prairies, and roadsides.
+---
 
 The species is recognized by its solitary, long-stemmed flower heads with bright yellow ray florets and a contrasting reddish-brown disk. It is among the most widely cultivated Coreopsis species, valued for its [[coleman-overwintered-onions-and-early-spring-crops]] green cover in garden settings.
 

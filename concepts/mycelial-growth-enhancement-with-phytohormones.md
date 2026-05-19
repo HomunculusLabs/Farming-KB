@@ -5,6 +5,7 @@ tags: [mycelium, phytohormones, growth-promotion, brassinosteroids, auxins, gibb
 related: 22s-23s-homobrassinolide
 source: Gartz et al. (1990) - Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of [[psilocybe-cubensis-miniculture-on-rye-grain]]*, but other hormone
 classes have also shown activity.
+---
 
 ## Historical Context
 

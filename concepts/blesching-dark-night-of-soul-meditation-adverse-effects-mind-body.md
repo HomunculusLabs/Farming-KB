@@ -4,8 +4,6 @@ tags:
   - concept
 ---
 
----
-
 ## Overview
 
 After acknowledging the vast and significant potential health benefits of mind-body medicine, it is equally important to examine the rare but potential downside. Observations from long-term mindfulness practitioners, psychotherapists, meditation teachers, and shamanic practitioners suggest that a very small percentage of people using mind-body modalities may experience significant disturbances.

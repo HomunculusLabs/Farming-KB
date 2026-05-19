@@ -13,6 +13,7 @@ sources:
   - Stritch, L. (2015). "Baptisia tinctoria." IUCN Red List of Threatened Species.
   - Fernald, M.L. (1950). Gray's Manual of Botany, 8th ed. American Book Company.
   - Moerman, D. (1998). Native [[guzman-psilocybin-mushrooms-north-america]], ranging from Maine to Florida and west to Minnesota and Texas.
+---
 
 The species produces bright yellow, pea-like flowers in terminal racemes during early to mid-summer. Mature plants form rounded mounds of blue-green foliage reaching 60–90 cm in height.
 

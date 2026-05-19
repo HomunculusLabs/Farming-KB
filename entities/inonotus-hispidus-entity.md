@@ -13,6 +13,7 @@ Northern Hemisphere regions, the species has attracted medicinal interest
 for its [[hispolon]], and immunomodulatory
 polysaccharides — with demonstrated antioxidant, anti-inflammatory, and
 antitumor activities in preclinical studies.
+---
 
 ## Taxonomy and Naming
 

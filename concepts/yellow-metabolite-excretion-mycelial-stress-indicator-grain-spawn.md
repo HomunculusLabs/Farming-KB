@@ -10,6 +10,7 @@ functions. When mycelium encounters stress conditions, it shifts metabolic resou
 from primary growth (biomass accumulation) to secondary metabolism, producing these
 compounds in larger quantities. The yellow color typically observed results from
 a mixture of compounds including:
+---
 
 - **[[psilocybin-degradation-volatility-and-specimen-age]] products**: In *Psilocybe* species, oxidative degradation
   of psilocybin and related tryptamine alkaloids may contribute to yellow coloration.

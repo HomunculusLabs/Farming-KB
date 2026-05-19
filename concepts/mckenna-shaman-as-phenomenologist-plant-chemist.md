@@ -7,6 +7,7 @@ aliases: [[terence-mckenna]] argued that indigenous shamans are not primitive my
 sophisticated phenomenologists who possess deep empirical knowledge of plant
 chemistry, consciousness, and the nature of reality — knowledge they encode
 in the language of "spirit" rather than the language of molecules.
+---
 
 ## The Shaman as Phenomenologist
 

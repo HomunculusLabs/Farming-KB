@@ -16,6 +16,7 @@ tags:
   - Wei, J. et al. (2022). "[[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] conditions.
 Originally isolated from plant tissues in the Ecuadorian Amazon, this species
 represents a significant discovery .
+---
 
 Beyond plastic degradation, P. microspora produces diverse **secondary
 metabolites** with antimicrobial and antitumor properties. As an endophyte,

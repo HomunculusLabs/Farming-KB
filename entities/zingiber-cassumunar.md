@@ -14,6 +14,7 @@ sources:
   - Oonmetta-aree, J. et al. (2021). "Anti-inflammatory activity of cassumunar ginger oil formulations." Phytomedicine, 85, 153575.
   - Jeenapongsa, R. et al. (2019). "Topical analgesic and anti-inflammatory effects of Zingiber cassumunar." Journal of Ethnopharmacology, 237, 1-8.
   - Suksamrarn, A. et al. (2018). "[[psilocybe-southeast-asia-pacific]] and is one of the most important medicinal plants in Thai traditional medicine.
+---
 
 The species is distinguished from common ginger by its smaller stature, distinct rhizome aroma, and characteristic lanceolate leaves with a purplish tinge along the midrib. The rhizome has a camphoraceous, slightly sweet fragrance.
 

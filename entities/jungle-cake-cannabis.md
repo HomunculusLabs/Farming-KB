@@ -20,6 +20,7 @@ It first gained commercial availability around 2019 and has since become a
 sought-after variety among experienced consumers for its potent effects and
 complex [[african-landrace-sativa-modern-hybrids]]. Its reputation centers on a smooth onset that
 builds into deeply relaxing body effects paired with an uplifted cerebral state.
+---
 
 ## Lineage
 

@@ -7,6 +7,7 @@ tags: [mushrooms, cultivation, spawn, grain, inoculation, mycelium, sterilizatio
 sources:
   - "raw/papers/mycelium-running-stamets.md"
   - label: "Growing Gourmet and [[cultivator-grain-spawn-preparation-and-inoculation]], the grain master system (G1, G2, G3), [[growing-gourmet-mushroom-dehydration-methods-equipment]] growers utilize organically grown rye or wheat grain.
+---
 
 ## Grain Selection and Quality
 

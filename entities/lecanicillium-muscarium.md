@@ -23,6 +23,7 @@ aliases:
   - L. muscarium
   - [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent with dual activity against insect pests
 and [[cervantes-powdery-mildew-prevention-treatment]] across greenhouse and field crops.
+---
 
 ## Taxonomy and Classification
 

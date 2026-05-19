@@ -3,6 +3,7 @@ title: Alder as Nitrogen-Fixing Non-Legume Tree
 created: 2026-04-28
 tags:
   - [[permaculture-pioneer-species]] and soil builders.
+---
 
 ## Nitrogen Fixation and Soil Building
 

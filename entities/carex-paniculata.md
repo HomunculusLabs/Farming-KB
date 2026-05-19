@@ -14,6 +14,7 @@ sources:
   - Reznicek, A.A. (2002). "Carex in [[berry-growing]], Vol. 23. Oxford University Press.
   - Stace, C.A. (2019). New Flora of the British Isles, 4th ed. C&M Floristics.
   - [[ground-beetles-carabidae-and-biological-pest-control]] and spiders colonize the tussock interior.
+---
 
 The dense root mass stabilizes wetland soils and reduces erosion along watercourses. Tussocks can persist for decades or even centuries under stable conditions.
 

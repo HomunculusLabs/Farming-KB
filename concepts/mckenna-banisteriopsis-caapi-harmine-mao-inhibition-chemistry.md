@@ -7,6 +7,7 @@ The biochemical mechanism — monoamine oxidase inhibition — was not
 understood by Western science until the 1950s, yet indigenous peoples had
 been exploiting this pharmacological synergy for centuries or possibly
 millennia.
+---
 
 ## The Ayahuasca Vine
 

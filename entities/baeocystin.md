@@ -15,6 +15,7 @@ sources:
   - Tsujikawa, K. et al. (2003). "Determination of psilocin, psilocybin, and baeocystin in mushroom samples." Forensic Science International.
   - Jensen, M.P. et al. (2021). "Pharmacology of baeocystin: A comprehensive review of preclinical evidence." ACS Pharmacology & Translational Science.
   - Repke, D.B. et al. (1977). "Cyclization of [[archaeology-of-psychedelic-mushrooms]], baeocystin remains significantly less studied than psilocybin. Its pharmacological profile, subjective effects, and contribution to the overall [[leary-psychedelic-experience-bardo-mapping]] of mushroom consumption are still subjects of active investigation.
+---
 
 ## Chemical Properties
 

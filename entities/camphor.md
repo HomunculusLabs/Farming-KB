@@ -16,6 +16,7 @@ sources:
 in several other aromatic plant species. Historically one of the most important
 commodity terpenes in global trade, camphor has been used for millennia in
 traditional Chinese, Japanese, and Indian medicine.
+---
 
 Modern applications span topical analgesics, cough suppressants, embalming
 fluids, and industrial chemistry. Its dual role as both a therapeutic agent

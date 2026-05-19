@@ -12,6 +12,7 @@ climates -- Spain, the Southwestern [[cervantes-dolomite-lime-ph-buffering]] lim
 8, and EDTA chelate is slow to cause leaf burn. Important: chelates
 decompose rapidly in UV light including HID bulbs and sunlight. Keep
 chelates out of light to protect them from rapid decomposition.
+---
 
 ## Zinc (Zn) -- Mobile
 

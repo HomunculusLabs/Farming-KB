@@ -14,6 +14,7 @@ sources:
   - Fugh-Berman A. (2003). "Herbal Medicine: What Can Phytochemistry Contribute?" Journal of Pharmacy and Pharmacology 55(5): 563–568.
   - Ammon H.P.T., Kaul R. (1994). "Pharmacology of Crataegus Extracts." Pharmacological Reviews 46(2): 141–166.
   - USDA NRCS. "[[polypore-fungi-eastern-north-america]] America, New Zealand, and temperate [[psilocybin-north-america-pacific-northwest]] of the [[prunus-spinosa]]* (blackthorn), *Crataegus monogyna*, and various *Rosa* species. These mixed hedges serve as livestock barriers, [[blesching-cannabis-hypertension-cardiovascular-effects]] include positive inotropic action (increased myocardial contractility), coronary vasodilation, and mild ACE-inhibitory activity. [[mushroom-cancer-clinical-trials-overview]] have demonstrated reductions in blood pressure and improvements in exercise tolerance in patients with NYHA class II heart failure.
+---
 
 The European Medicines Agency recognizes hawthorn leaf and flower extracts as a "well-established use" herbal medicine for mild heart failure (HMPC monograph, 2016). Typical therapeutic doses range from 160–900 mg of standardized extract daily.
 

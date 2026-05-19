@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Iezzoni, A.F. et al. (1990). "A sour cherry germplasm collection." holzer-recommended-old-fruit-varieties Journal, 44(4), 217-224.
   - Blando, F. & Oomah, B.D. (2019). "[[medicinal-mushroom-dietary-supplements]].
+---
 
 The species is believed to have originated from a natural hybridization between the sweet cherry (Prunus avium) and the ground cherry (Prunus fruticosa). This hybrid origin accounts for its intermediate morphology and its tetraploid genome (2n = 4x = 32).
 

@@ -14,6 +14,7 @@ sources:
   - May, P.H. et al. (1985). "babassu-palm in the agroforestry Systems of Brazil's Mid-North Region." Agroforestry Systems 3(3).
   - Lorenzi, H. et al. (2010). Brazilian Flora: Arecaceae (Palms). Instituto Plantarum.
   - Balick, M.J. (1986). "Taxonomy and Ecology of the Babassu Palm." Advances in Economic Botany 3.---
+---
 
 ## Overview
 

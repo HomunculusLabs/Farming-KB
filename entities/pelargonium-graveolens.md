@@ -8,6 +8,7 @@ tags:
   - medicinal-plant
   - [[permaculture-designers-manual-essential-oil-plants]], widely used in perfumery,
 aromatherapy, and traditional medicine.
+---
 
 The species is distinguished by its deeply lobed, velvety leaves and
 intensely fragrant foliage. Its essential oil profile closely resembles

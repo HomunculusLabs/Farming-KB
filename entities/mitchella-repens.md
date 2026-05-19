@@ -17,6 +17,7 @@ sources:
   - Fernald, M.L. (1950). "Gray's Manual of Botany." 8th ed. American Book Company.
   - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - Foster, S. & Duke, J.A. (2014). "A [[psilocybin-north-america-pacific-northwest]]. It is one of the most recognizable woodland [[polypore-fungi-eastern-north-america]] American forests, known for its paired white flowers and distinctive bright red berries.
+---
 
 The species is the only member of its genus found in [[cannabis-sex-determination-floral-biology]]: each "flower" is actually a pair of fused flowers that produce a single berry, resulting in the characteristic double-blossom scar (two dimples) visible on the ripe fruit.
 

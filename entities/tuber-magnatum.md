@@ -14,6 +14,7 @@ updated: 2026-04-28
 sources:
   - Hall, I.R., Brown, G.T., & Zambonelli, A. (2007). "Taming the Truffle." Timber Press.
   - Mello, A., et al. (2006). "Tuber magnatum Pico: a review of its [[corylus-avellana]]*), poplar (*Populus* spp.), willow (*Salix* spp.), linden (*Tilia* spp.), and hornbeam (*[[powdery-mildews-erysiphaceae-diversity-host-range]] is unusual among truffle species and partially explains its scattered, unpredictable distribution across different forest types.
+---
 
 The aroma of T. magnatum is extraordinarily complex, dominated by volatile sulfur compounds including dimethyl sulfide (DMS), bis(methylthio)methane, and 2,4-dithiapentane.
 

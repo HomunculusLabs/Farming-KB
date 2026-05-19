@@ -12,6 +12,7 @@ updated: 2026-05-08
 sources:
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Nash, T.H. III et al. (2002). "[[polypore-fungi-eastern-north-america]] America. It is particularly common in oceanic and suboceanic regions of western Europe, including the British Isles, Atlantic France, and Scandinavia.
+---
 
 The species is strongly associated with nutrient-enriched bark, especially on ash (*Fraxinus excelsior*), oak (*Quercus* spp.), elm (*Ulmus* spp.), and sycamore (*Acer pseudoplatanus*). It also colonizes fence posts, stone walls, and occasionally rock surfaces in nutrient-dusted environments.
 

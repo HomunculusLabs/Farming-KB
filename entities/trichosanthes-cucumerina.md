@@ -14,6 +14,7 @@ sources:
   - Rachkeeree, S. et al. (2018). "Nutritional ginseng-cultivation-and-medicinal-properties of snake gourd (Trichosanthes cucumerina)." Food Science and Nutrition, 6(1), 142-149.
   - Pandey, S. et al. (2019). "Cucurbitaceae: traditional uses, phytochemistry, and pharmacology." In: Medicinal Plants of South Asia, Elsevier.
   - PROTA (Plant Resources of Tropical Africa). "Trichosanthes cucumerina L." Record 7873.---
+---
 
 ## Overview
 

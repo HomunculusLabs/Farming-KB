@@ -14,6 +14,7 @@ sources:
   - Farjon, A. (2005). "A Monograph of Cupressaceae and Sciadopitys." Royal Botanic Gardens, Kew.
   - Little, E.L. (1979). "Checklist of United States Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
   - Adams, R.P., Bartel, J.A. & Price, R.A. (2009). "A New Genus, Hesperocyparis, for the Cypresses of Western [[dighton-fungal-drought-tolerance-plant-water-relations]], and rapid growth rate, making it one of the most widely planted ornamental conifers in arid and semi-arid regions.
+---
 
 The species typically reaches 10–25 meters in height with a conical to columnar crown. Its distinctive powdery-blue to glaucous foliage and attractive, shredding reddish bark give it strong ornamental appeal. Several cultivars with intensified blue coloration have been selected for landscape use.
 

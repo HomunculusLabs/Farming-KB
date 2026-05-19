@@ -16,6 +16,7 @@ sources:
   - "Onwueme, I.C. (1999). [[psilocybe-southeast-asia-pacific]], South Asia,
 and West Africa. The species is highly adaptable, tolerates waterlogged
 conditions, and provides both edible corms and nutritious leaf greens.
+---
 
 ## Taxonomy
 

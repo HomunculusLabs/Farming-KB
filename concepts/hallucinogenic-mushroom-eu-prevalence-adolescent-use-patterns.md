@@ -4,7 +4,6 @@ tags:
   - concept
 ---
 
----
 created: 2026-05-08
 source: carolina-mushrooms_08qxp.md
 tags: [emcdda, prevalence, adolescent, school-survey, europe, hallucinogenic-mushrooms, epidemiology, drug-use-patterns]

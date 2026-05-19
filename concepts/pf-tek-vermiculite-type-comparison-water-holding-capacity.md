@@ -4,7 +4,6 @@ tags:
   - concept
 ---
 
----
 created: 2026-05-08
 source: fanaticus-[[pf-tek-psilocybe-fanaticus]].md
 tags: [pf-tek, vermiculite, substrate, water-holding-capacity, cultivation, mushroom-growing, horticultural-media]

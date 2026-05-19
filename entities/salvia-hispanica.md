@@ -7,6 +7,7 @@ tags:
   - superfood
   - omega-3
   - [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], dietary fiber, and protein.
+---
 
 Native to central and southern Mexico and Guatemala, chia was a staple crop of pre-Columbian Mesoamerican civilizations, valued by the Aztecs and Maya as a food, medicine, and religious offering.
 

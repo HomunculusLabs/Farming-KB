@@ -15,6 +15,7 @@ sources:
   - Welsh, S.L. et al. (2015). "A Utah Flora." Brigham Young University.
   - Van Pelt, R. (2001). "Conifers of the psilocybin-north-america-pacific-northwest." Oregon State University Press.
   - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 2." Oxford University Press.---
+---
 
 ## Juniperus horizontalis
 

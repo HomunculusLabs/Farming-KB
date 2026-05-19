@@ -3,6 +3,7 @@ title: "4-AcO-DET"
 type: chemical
 tags:
   - [[alexander-shulgin]] in TIHKAL (1997).
+---
 
 It is primarily encountered as a research chemical with limited history of human use.
 

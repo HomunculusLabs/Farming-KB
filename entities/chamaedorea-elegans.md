@@ -14,6 +14,7 @@ sources:
   - Donahue, J. (2012). "Indoor Palms." Brooklyn Botanic Garden Guides.
   - Cerny, T.A., Barfod, A.S. (2006). "A taxonomic revision of the Chamaedorea elegans complex." Palms 50(3): 131-146.
   - Montufar, R., Pintaud, J.C. (2010). "Phenology of Chamaedorea elegans in Mexican [[darkness-low-light-facilitation-entheogenic-ceremonies]], dry air, and neglect made it ideal for the poorly lit, centrally heated rooms of the period.
+---
 
 By the late 19th century, the parlor palm was a standard feature of Victorian parlors, drawing rooms, and conservatories across Britain and [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]].
 

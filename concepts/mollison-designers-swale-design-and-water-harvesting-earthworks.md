@@ -5,6 +5,7 @@ tags:
   - [[mollison-designers-earthworks-for-erosion-control]],
 and the establishment of productive tree systems. Properly designed swales can
 transform degraded, eroding land into hydrated, fertile productive zones.
+---
 
 ## What Is a Swale
 

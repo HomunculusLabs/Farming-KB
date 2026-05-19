@@ -1,4 +1,9 @@
 ---
+title: "Urban Permaculture Edge Effect Microclimate"
+tags: []
+sources: []
+---
+
 ## Edge Effect and Microclimate Design The herb-spiral-microclimate-design by manipulating:
 
 - **[[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]] are rich with existing edges: walls, fences, curb strips, building foundations, and [[fukuoka-textdoc-increased-production-not-increased-yields]].

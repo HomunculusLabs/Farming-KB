@@ -15,6 +15,7 @@ sources:
   - Lock O. (2011). "query-what-are-the-main-bioactive-compounds-in-medicinal-plants from Natural Sources." CRC Press.
   - Upton R. (2004). "Pau d'Arco ([[guzman-psilocybin-mushrooms-south-america]]. It is one of the most important medicinal trees in
 [[mollison-designers-gallery-forests-and-valley-bottomland-systems]].
+---
 
 ## Overview
 

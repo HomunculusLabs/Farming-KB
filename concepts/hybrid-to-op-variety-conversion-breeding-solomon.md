@@ -1,6 +1,7 @@
 ---
 title: Hybrid to Open-Pollinated Variety Conversion Breeding
 source: Gardening When It Counts - [[biodiversity-fungal-genetic-diversity]], [[cervantes-hybrid-varieties-types]] into stable open-pollinated (OP) ones, drawing from his experience as a seedsman and the work of plant breeders like Tim Peters and Carol Deppe. The motivation is clear: as economic conditions tighten and seed prices rise with petroleum costs, gardeners who can save their own seed gain food security and independence.
+---
 
 ## Why Convert Hybrids to Open-Pollinated Varieties
 

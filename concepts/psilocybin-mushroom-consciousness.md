@@ -12,6 +12,7 @@ relationship with human consciousness that transcends ordinary biological catego
 The mushroom, in McKenna's framework, is not merely a drug but an interlocutor — a
 biological system capable of transmitting coherent, transformative content to the
 human mind.
+---
 
 ## Psilocybin as Tryptamine
 

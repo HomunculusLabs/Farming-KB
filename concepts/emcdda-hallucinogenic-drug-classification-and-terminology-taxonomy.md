@@ -6,6 +6,7 @@ ongoing debate among psychiatrists, psychologists, psychopharmacologists,
 and drug users. The EMCDDA's 2006 thematic paper provides a thorough
 taxonomy of competing terms used to describe this chemically diverse
 class of substances, each carrying different connotations.
+---
 
 ## Competing Terminology
 

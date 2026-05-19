@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Barkworth, M.E. et al. (2007). "Flora huckleberries-and-wild-berries-of-north-america Vol. 24: Poaceae." Oxford University Press.
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern [[polypore-fungi-eastern-north-america]], ranging from Ontario and Quebec south through the Appalachian Mountains to northern Georgia and Alabama.
+---
 
 The species is named for its distinctive inflorescence, which resembles a bottlebrush or bristly caterpillar with long, straight awns extending outward from a dense spike.
 

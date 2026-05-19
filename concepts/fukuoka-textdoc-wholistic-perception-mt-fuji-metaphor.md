@@ -4,6 +4,7 @@ created: 2026-04-28
 tags: [fukuoka, [[masanobu-fukuoka]]'s most powerful philosophical arguments against the
 [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] cannot grasp
 the truth of this mountain.
+---
 
 ## The Paradox of Parts and Whole
 

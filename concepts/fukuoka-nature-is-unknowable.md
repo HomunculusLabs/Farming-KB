@@ -4,6 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, [[fukuoka-nature-transcends-human-knowledge]].
+---
 
 ## Crossing Mountains Gets You Nowwhere
 

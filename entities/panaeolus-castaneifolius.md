@@ -4,6 +4,7 @@ created: 2026-04-28
 type: species
 tags: [panaeolus, [[stamets-psilocybin-genera-beyond-psilocybe]], with only some species producing psychoactive
 compounds.
+---
 
 ## Description
 

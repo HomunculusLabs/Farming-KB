@@ -10,6 +10,7 @@ technology has been able to isolate the relevant compounds for use in
 controlled experiments. At least 30 mushroom species have yielded
 compounds with pronounced anticancer actions in xenografts, but only
 a small number have proceeded to objective clinical assessment.
+---
 
 ## Water-Soluble Polysaccharides
 

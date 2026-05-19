@@ -24,6 +24,7 @@ updated: 2026-04-28
 sources:
   - Lukhoba, C.W. et al. (2006). "Plectranthus: A review of ethnobotanical uses." Journal of Ethnopharmacology 103(1): 1-24.
   - Omidbaigi, R. et al. (2009). "permaculture-designers-manual-essential-oil-plants composition of Plectranthus amboinicus." Journal of [[medicinal-herbs-for-livestock]] in warm climates.
+---
 
 Despite its common names, the species is native to East Africa (Kenya and Tanzania) and has spread globally through human cultivation. It is not a true oregano (*Origanum* spp.) but shares a similar aromatic profile due to overlapping essential oil constituents.
 

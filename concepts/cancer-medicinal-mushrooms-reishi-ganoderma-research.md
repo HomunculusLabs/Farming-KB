@@ -19,6 +19,7 @@ any [[mycelium]] contain a rich array of [[tihkal-receptor-binding-serotonin]] o
   - Increases serum C3 levels in clinical studies (aged patients, 6 weeks)
   - Influences humoral (B cell) immunity: repeat LZ-8 administration
     reduces antibody production in mice
+---
 
 ## Anti-Cancer Activity
 

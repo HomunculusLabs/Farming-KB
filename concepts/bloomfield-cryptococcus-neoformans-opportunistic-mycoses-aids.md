@@ -8,6 +8,7 @@ significant opportunistic [[fungal-virulence-factors-host-immune-evasion]] cells
 fungus is very widespread in the environment, and humans probably encounter its cells
 on a frequent basis through inhalation of spores or yeast cells from soil contaminated
 with bird droppings.
+---
 
 ## Infection Pathway
 

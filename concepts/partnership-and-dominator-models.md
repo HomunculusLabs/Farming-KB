@@ -6,6 +6,7 @@ tags:
   - cultural theory
   - Riane Eisler
   - [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern and European sites, particularly the Neolithic settlement of [[mckenna-dominator-culture-and-suppression-of-ecstasy]] was directly linked to the abandonment of [[partnership-and-dominator-cultures-in-human-history]].
+---
 
 ### Gender Relations
 

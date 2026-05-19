@@ -13,6 +13,7 @@ sources:
   - "Chemdog: The Unlikely Strain That Changed Everything." Leafly (2023).
   - "The History of Chemdawg." High Times, 2019.
   - Pearson, D. et al. (2019). "A genetic and chemical survey of [[cannabis-hybrid-vigor-and-phenotypes-clarke]] that serves as the direct parent or grandparent of dozens of the most influential modern strains.
+---
 
 It emerged from the legendary Chemdawg phenotype lineage that surfaced in the early 1990s at a [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] regularly testing between 22–28%.
 

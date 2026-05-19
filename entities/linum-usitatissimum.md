@@ -14,6 +14,7 @@ tags:
 sources:
   - Oplinger, E.S., Oelke, E.A., Doll, J.D., et al. (1989). "Flax." Alternative Field Crops Manual, University of Wisconsin-Extension.
   - Zohary, D., Hopf, M. (2000). "Domestication of Plants in the [[carbon-isotope-labelling-mycorrhizal-fatty-acids]] and lignans) and its bast fibers (used in textiles, composites, and specialty papers).
+---
 
 ## Taxonomy and Morphology
 

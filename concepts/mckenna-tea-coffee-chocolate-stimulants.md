@@ -10,6 +10,7 @@ were over 250 coffee houses in the city. In the years immediately preceding the
 French Revolution there were nearly 2,000 coffee establishments operating.
 McKenna observes that if wild talk is the mother of revolution, then certainly
 coffee and coffee houses must be its midwife.
+---
 
 Coffee was not without its detractors. It was widely blamed for the death of the
 French minister Colbert and was suspected of causing impotence. Goethe blamed

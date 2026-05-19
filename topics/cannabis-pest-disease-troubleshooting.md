@@ -5,6 +5,7 @@ subtitle: A comprehensive guide to identifying, preventing, and managing pests,
 like spider mites and thrips to devastating [[cervantes-powdery-mildew-prevention-treatment]] spores on a cola can trigger total
 rejection by testing laboratories. Cannabis IPM therefore operates at very low
 tolerance levels, with the goal of maintaining a near-pest-free environment.
+---
 
 Record-keeping is a critical but often overlooked IPM component. Documenting
 pest sightings, environmental conditions, interventions, and outcomes allows

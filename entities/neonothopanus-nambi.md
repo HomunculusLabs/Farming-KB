@@ -18,6 +18,7 @@ sources:
   - Stevani, C.V., et al. (2013). "[[guzman-psilocybin-mushrooms-south-america]], where it grows as a
 saprotroph on [[singh-fungal-biosensors-environmental-monitoring]], and
 synthetic biology applications.
+---
 
 ## Taxonomy and Morphology
 

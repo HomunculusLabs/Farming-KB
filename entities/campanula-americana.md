@@ -12,6 +12,7 @@ updated: 2025-05-10
 sources:
   - Lammers, T.G. (2007). "Campanulaceae." In Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 19. Oxford University Press.
   - Shetler, S.G. & Morin, N.R. (1986). "Seed morphology in [[polypore-fungi-eastern-north-america]]. It is among the tallest members of the genus Campanula, routinely reaching 1.2–2.0 m in height under favorable conditions.
+---
 
 The plant produces erect terminal racemes of star-shaped, violet-blue flowers with prominent white centers during mid-summer to early fall. Unlike most Campanula species which display the classic bell-shaped corolla, this species bears flowers that are deeply lobed and nearly rotate (flat-faced) in form.
 

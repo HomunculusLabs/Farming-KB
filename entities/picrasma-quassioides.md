@@ -31,6 +31,7 @@ sources:
 a class of highly bitter triterpenoid lactones with diverse
 pharmacological activities including anti-inflammatory, antimalarial,
 and antitumor properties.
+---
 
 The species has a long history of use in traditional Chinese medicine
 (TCM) and Japanese Kampo medicine, where the bark and wood are prepared

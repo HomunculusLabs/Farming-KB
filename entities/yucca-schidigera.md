@@ -7,6 +7,7 @@ tags:
   - saponins
   - herbal-plant
   - [[psilocybin-north-america-pacific-northwest]].
+---
 
 The species is commercially significant for its high saponin content, extracted and sold as a natural surfactant and feed additive.
 

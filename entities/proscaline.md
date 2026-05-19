@@ -13,6 +13,7 @@ updated: 2026-04-28
 sources:
   - Shulgin, A. & Shulgin, A. (1991). "PiHKAL: A Chemical Love Story." Transform Press.
   - Trachsel, D. et al. (2013). "The Psychopharmacology of Novel [[alexander-shulgin]], who documented its synthesis and subjective effects in *PiHKAL* (Phenethylamines I Have Known and Loved), published in 1991. Shulgin assigned it the designation #39 in his research sequence.
+---
 
 Proscaline produces effects broadly similar to mescaline, including visual hallucinations, enhanced [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to scheduled phenethylamines.
 

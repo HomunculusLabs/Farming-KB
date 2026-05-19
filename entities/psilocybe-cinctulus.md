@@ -15,6 +15,7 @@ sources:
   - Allen JW, Merlin MD, Jansen RK (1992). "An ethnomycological review of emcdda-hallucinogenic-mushrooms-emerging-trend-europe in Australia and New Zealand." Journal of Psychoactive Drugs, 24(1), 73-80.
   - Stijve T, Kuyper TW (1988). "Absorption of psilocybin from Psilocybe mushrooms." Planta Medica, 54(3), 271-274.
   - Gartz J (1994). "Extracting psilocybin from [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] globally, found across Europe, North America, South America, Asia, and Australasia.
+---
 
 The species was originally described as *Agaricus cinctulus* by Elias Magnus Fries in 1838. It has undergone extensive taxonomic revision, previously placed in genera including *Deconica*, *Copelandia*, and *Panaeolus* before its current placement in *Psilocybe* sensu stricto.
 

@@ -4,6 +4,7 @@ created: 2026-04-26
 aliases: [holistic goal setting, HRM model, testing guidelines, holistic context]
 tags: [decision-making, goal-setting, management-framework, holism]
 related: [[savory-ranch-financial-planning]], [[savory-holistic-management-overview]] decision-making framework provides a structured process for making decisions that simultaneously consider economic, social, and ecological factors. At its heart is a "thought model" that enables practitioners to see the whole they are managing and test every action against a comprehensive goal.
+---
 
 ## The Three-Part Goal
 

@@ -13,6 +13,7 @@ updated: 2026-04-28
 sources:
   - "Landolt, E. (1986). \"The family of Lemnaceae — a monographic study.\" Veröffentlichungen des Geobotanischen Institutes der ETH, Stiftung Rübel, 71."
   - "Leng, R.A. et al. (1995). \"Duckweed — a potential high-protein feed resource for [[mollison-designers-wastewater-treatment-wetlands]], and potential biofuel feedstock.
+---
 
 Despite its diminutive size (fronds 1–8 mm), duckweed plays outsized ecological [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], L. minor produces specialized starch-dense fronds called turions that sink to the bottom and survive freezing temperatures. Turions resume growth when water temperatures rise above 10°C in spring. The turion production is triggered by decreasing photoperiod and temperature, ensuring population survival through unfavorable conditions.
 

@@ -7,6 +7,7 @@ tags:
 families. The size of the factor itself (times 3 for river branches)
 changes with the dimensions of the system (times 10 for trophic
 pyramids).
+---
 
 Physical entities from protons to universes display such order, with
 a consequent increase in the ratio, dimensions, and behaviours

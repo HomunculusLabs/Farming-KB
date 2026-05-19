@@ -11,6 +11,7 @@ sources:
   - "ATTRA / NCAT, Garlic: Organic Production (ncat.org/attra-pub/summaries/summary.php?pub=111)"
   - "Ira Wallace, The Timber Press Guide to [[home-vegetable-garden-planning]] in the Southeast (Timber Press, 2013)"
 type: comparison---
+---
 
 ## Hardneck Garlic vs Softneck Garlic
 

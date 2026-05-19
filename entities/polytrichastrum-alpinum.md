@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Smith, A.J.E. (2004). The Moss Flora of Britain and Ireland. Cambridge University Press.
   - Crum, H. & Anderson, L.E. (1981). Mosses of [[dighton-fungi-boreal-tundra-ecosystems]], where it contributes to insulating permafrost soils and provides forage for caribou and other herbivores.
+---
 
 ## Taxonomy and Morphology
 

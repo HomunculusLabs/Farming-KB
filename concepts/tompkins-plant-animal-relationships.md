@@ -6,6 +6,7 @@ tags: [botany, ecology, evolution, entomology]
 related: [[tompkins-plant-roots-intelligence]], [[cannabis-hybrid-vigor-and-phenotypes-clarke]]" as the evolutionary
 advantage driving plants to develop elaborate mechanisms for ensuring
 cross-fertilization.
+---
 
 ## Orchid Deception
 

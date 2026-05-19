@@ -1,6 +1,7 @@
 ---
 title: Bokashi bokashi composting and effective microorganisms Microorganisms
 subtitle: [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] scientist Teruo Higa in the 1980s, the technique diverges fundamentally from traditional aerobic composting by relying on lactic acid fermentation rather than thermophilic decomposition. The word "bokashi" (ぼかし) is a Japanese term meaning "fermented organic matter" or "shading/fermentation," reflecting its origins in traditional East Asian farming practices where rice bran was fermented with beneficial microbes before incorporation into soil.
+---
 
 Unlike conventional composting, which requires oxygen and generates heat through microbial respiration, bokashi processing occurs in sealed, airtight containers where lactic acid bacteria, yeast, and photosynthetic bacteria dominate the [[fungal-mycelial-networks-nutrient-translocation]] that physically bind soil particles, improve aggregation, and create channels for water infiltration and root growth.
 

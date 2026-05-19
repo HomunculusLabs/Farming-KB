@@ -28,6 +28,7 @@ Archive Seed Bank in Oregon, crossing the legendary [[psilocybin-north-america-p
 winning multiple awards and quickly becoming a parent strain for numerous
 successful crosses. Its dense, frosty buds and sweet, earthy aroma make it
 instantly recognizable in dispensaries.
+---
 
 ## Strain Classification
 

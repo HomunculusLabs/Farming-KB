@@ -15,6 +15,7 @@ sources:
   - Moore KA, Wetzel RL (2000). "Seasonal variations in eelgrass (Zostera marina L.) responses to nutrient enrichment and reduced light availability in experimental ecosystems." Journal of Experimental Marine epiphyte-biology-and-ecology 244(1): 1-26.
   - Larkum AWD, Orth RJ, Duarte CM (2006). "Seagrasses: Biology, Ecology and Conservation." Springer.
   - USDA NRCS (2024). "Vallisneria americana Michx." PLANTS Database.---
+---
 
 ## Overview
 

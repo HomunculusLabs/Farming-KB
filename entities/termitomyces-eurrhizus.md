@@ -15,6 +15,7 @@ sources:
   - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of psilocybe-southeast-asia-pacific." Kew Bulletin 49(4): 717-737.
   - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." Proceedings of the National Academy of Sciences 99(23): 14887-14892.
   - Katoh, H. et al. (2002). "[[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Lyophyllaceae.
+---
 
 It is an obligate symbiont of fungus-growing termites (Macrotermitinae), cultivated within termite mounds across tropical Africa and South and [[edible-wild-mushrooms-by-region]] in several African and Asian countries.
 

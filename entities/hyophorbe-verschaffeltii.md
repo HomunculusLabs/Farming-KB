@@ -13,6 +13,7 @@ updated: 2026-05-10
 sources:
   - Dransfield, J., et al. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Royal Botanic Gardens, Kew.
   - Henderson, A., Galeano, G., & Bernal, R. (1995). "[[hyophorbe-lagenicaulis]] (bottle palm) of Round Island, Mauritius, and the extinct Hyophorbe amaricaulis of Mauritius.
+---
 
 The trunk reaches 4–6 meters in height with a characteristic spindle shape: swollen at the midpoint and narrowing toward both the base and the crownshaft. Maximum trunk diameter at the swollen portion is approximately 30–40 centimeters. The surface is smooth and light gray, marked with prominent leaf scar rings.
 

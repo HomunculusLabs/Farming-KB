@@ -4,6 +4,7 @@ created: 2026-05-09
 tags: [mycology, cultivation, contamination, sterilization, pathology]
 date: 2026-05-09
 aliases: [Mushroom Contamination, [[substrate-preparation]] can introduce bacteria.
+---
 
 ## Common Bacterial Contaminants
 

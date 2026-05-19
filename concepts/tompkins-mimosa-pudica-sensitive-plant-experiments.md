@@ -10,6 +10,7 @@ leaflets collapsing when disturbed, made it an ideal candidate for
 early [[cleve-backster-plant-perception-experiments]]
 later expanded these investigations into the realm of consciousness and
 perception.
+---
 
 ## Byrd's Instrumentation Experiments
 

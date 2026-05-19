@@ -16,6 +16,7 @@ sources:
   - FAO (2024). "FAOSTAT: Rye [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]], and
 industrial purposes. It is the most cold-tolerant of the major cereal
 crops, thriving where wheat and barley struggle.
+---
 
 Rye was domesticated from wild rye (*Secale strictum*, synonym *S.
 montanum*) in the [[dighton-fungal-drought-tolerance-plant-water-relations]] and soil-binding

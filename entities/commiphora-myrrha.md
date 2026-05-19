@@ -18,6 +18,7 @@ sources:
   - Hanuš, L.O. et al. (2005). "Myrrh — Commiphora molmol and C. myrrha." In: Traditional Medicinal Plants and Malaria. CRC Press.
   - Dolara, P. et al. (2000). "Analgesic effects of myrrh." Phytotherapy Research, 14(6), 460-462.
   - Shen, T. et al. (2012). "[[cervantes-selfing-single-seed-descent]].
+---
 
 ## Distribution and Habitat
 

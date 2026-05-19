@@ -5,6 +5,7 @@ tags:
   - food-systems
   - local-food
   - [[williams-pdc-food-systems]]
+---
 ## Practical Applications
 
 Food Systems, Distribution and Local Self-Reliance has a range of practical applications that make it relevant to

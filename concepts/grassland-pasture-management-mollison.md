@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [[bill-mollison]],
 Section 12.12 (pp. 436-439)
+---
 ## The Importance of Grasslands
 Of all of earth's great plant systems, it is grasslands that we most
 favour by our use of fire and plough. About 24% of the earth's surface

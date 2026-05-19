@@ -4,6 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, [[fukuoka-critique-of-scientific-agriculture]] knowledge to the realm of economics. Just as [[ancient-greek-mystery-cults-comparison]] philosophers said that it was necessary to know only the five elements -- earth, water, fire, wind, and light. But Fukuoka suspected that they really wanted to reject even the five elements. Far less, then, did the need exist to study and acquire four hundred elementary particles and elements.
+---
 
 - Mankind today sees value in science, but just what is this value?
 

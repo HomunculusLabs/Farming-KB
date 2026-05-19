@@ -24,6 +24,7 @@ sources:
   - Panossian, A. & Wikman, G. (2008). "Pharmacology of Schisandra chinensis Bail.: An Overview of Russian Research and Uses in Medicine." J. Ethnopharmacol., 118(2), 183–212.
   - Huang, W.H. et al. (2007). "Schisandrin B from Schisandra chinensis Protects Heart from Ischemia-Reperfusion Injury." Cell Mol. Life Sci., 64(4), 408–421.
   - Li, X.N. et al. (2012). "[[schisandra-chinensis]] (northern five-flavor berry). It is native to central and southwestern China and its dried ripe fruits are a major commercial medicinal material in traditional Chinese medicine (TCM), listed in the Chinese Pharmacopoeia under the name "Nan Wu-wei-zi" (Southern five-flavor fruit).
+---
 
 The fruit of *S. sphenanthera* contains a distinct lignan profile that differs from *S. chinensis*, with schisandrin A (schisandrol A) as the primary bioactive marker compound rather than schisandrin B. Despite this distinction, the two species have historically been used interchangeably in some TCM formulations, though modern pharmacopoeias treat them as separate drugs.
 

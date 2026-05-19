@@ -5,6 +5,7 @@ author: [[cho-loess-powder-in-natural-farming]], [[solomon-chemical-fertilizer-i
 stimulates the crop but weakens the soil's [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]]. Pesticides are applied, which kill beneficial
 organisms along with the pests. The soil further deteriorates, requiring
 more fertilizer, which produces weaker plants still.
+---
 
 Each rotation of the spiral demands more energy, more chemicals, more
 machinery, and more specialized knowledge. The farmer becomes

@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - "Bremness, L. (2001). Herbs. DK Publishing."
   - "Chevallier, A. (2016). Encyclopedia of [[palmer-mushroom-hunting-field-identification]] more challenging.
+---
 
 Stem leaves are smaller, sessile, and clasping, with reduced spotting compared to the basal leaves. All leaves are rough-hairy, a characteristic feature of the Boraginaceae.
 

@@ -22,6 +22,7 @@ sources:
   - Gleason, H.A. & Cronquist, A. (1991). "bergeys-manual-of-bacteriology Vascular Plants of Northeastern permaculture-plants-medicinal-herbs-healing." CRC Press.
   - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists." Timber Press.
   - USDA, NRCS. "Veratrum viride." PLANTS Database. https://plants.usda.gov/---
+---
 
 ## Overview
 

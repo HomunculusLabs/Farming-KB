@@ -12,6 +12,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada.
   - Hitchcock, C.L. & Cronquist, A. (1959). "Vaccinium." In Vascular Plants of the [[guzman-psilocybin-mushrooms-north-america]], ranging from Alaska across Canada to the northeastern [[comparison-honey-bees-vs-native-solitary-bees]] adapted to cold alpine conditions with short flight seasons.
+---
 
 The [[vaccinium-scoparium]]*, *[[vaccinium-deliciosum]]* in western subalpine communities.
 

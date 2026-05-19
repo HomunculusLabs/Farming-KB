@@ -14,6 +14,7 @@ sources:
   - Ask, E.I. & Azanza, R.V. (2002). "Advances in cultivation technology of commercial eucheumatoid species." Hydrobiologia, 512, 181–188.
   - Trono, G.C. (1992). "Eucheuma and Kappaphycus: Taxonomy and cultivation." Marine Farming Centre, Singapore.
   - Hayashi, L. et al. (2011). "[[psilocybe-southeast-asia-pacific]], East Africa, and the [[seaweed-farming-and-marine-aquaculture]] operations worldwide, supporting millions of smallholder farmers in tropical [[fungal-life-cycles-sexual-reproduction-metamorphosis]] rarely observed in farmed populations.
+---
 
 ## Distribution and Habitat
 

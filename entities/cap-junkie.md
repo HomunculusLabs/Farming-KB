@@ -21,6 +21,7 @@ Capulator's MAC ([[thc-content-factors-cultivation-freshness-storage-degradation
 complex [[kush-mints]] #11, adds a heavy OG backbone, deep mint
 and gas aromatics, and potent sedative body effects. Kush Mints #11 is
 a select phenotype of the Kush Mints line ([[trichoderma-forest-green-mold-guide]] and vivid purple, with occasional black undertones.
+---
 
 Trichome coverage is exceptional, coating buds in a thick, frosty layer
 of translucent and amber glandular trichomes. Pistils are abundant, long,

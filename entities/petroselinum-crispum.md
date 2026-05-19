@@ -19,6 +19,7 @@ updated: 2026-04-28
 sources:
   - Simon, J.E. (1990). "Parsley, Petroselinum crispum." In J. Janick & J.E. Simon (Eds.), Advances in New Crops. Timber Press.
   - Farooq, A. et al. (2013). "A review on [[apium-graveolens]]) and shares many of its aromatic and phytochemical characteristics.
+---
 
 ## Morphology
 

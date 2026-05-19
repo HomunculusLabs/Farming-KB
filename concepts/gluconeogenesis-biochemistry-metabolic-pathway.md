@@ -5,6 +5,7 @@ updated: 2026-05-06
 description: "Gluconeogenesis is the [[adenosine-triphosphate-and-cellular-energy]] and suppressing GNG.
 - **Fructose-2,6-bisphosphate (F2,6BP)** is the most potent regulator of the FBPase-1/PFK-1 pair: it activates PFK-1 and inhibits FBPase-1, strongly suppressing GNG.
 - **ATP and citrate** activate FBPase-1, promoting GNG when energy is abundant.
+---
 
 ### Hormonal Regulation
 

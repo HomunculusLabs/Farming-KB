@@ -8,6 +8,7 @@ sources:
   - "Weisman, Max. Cob Cottage Company. cobcottage.com — workshops and building guides."
   - "Evans, Ianto, Linda Smiley, and Michael G. Smith. The Hand-Sculpted House: A Practical and Philosophical Guide to Building a Cob Cottage. Chelsea Green, 2002."
   - "Oikos [[comparison-windbreak-vs-thermal-mass]] of earthen materials to bake, roast, and slow-cook food. Cob ovens, a subset of earth oven construction using the [[mason-jar-preserving-guide]] test**: fill a jar 1/3 with soil, add water to the top, shake vigorously, and let settle for 24 hours. Sand settles first (bottom), then silt, then clay (top). You want roughly 20–30% clay content.
+---
 
 A **ball test** confirms workability: form a golf-ball-sized ball of moist soil, drop it from waist height. If it cracks badly, add clay. If it deforms into a pancake, add sand. If it holds its shape with minor surface cracking, you have good cob soil.
 

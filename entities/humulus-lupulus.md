@@ -27,6 +27,7 @@ cohumulone, adhumulone), beta acids, and [[savory-growing-season-and-non-growing
 - **Prenylated flavonoids:** Xanthohumol (most abundant; 0.1–1%); 8-prenylnaringenin
   (potent phytoestrogen); desmethylxanthohumol
 - **Tannins:** Provide astringency and aid protein coagulation in brewing
+---
 
 ## Medicinal Properties
 

@@ -26,6 +26,7 @@ sources:
 piney, floral, herbal, and slightly fruity aroma notes. Terpinolene occurs
 naturally in lilac, tea tree, cumin, nutmeg, and apples, and is widely used
 in the flavor and fragrance industry.
+---
 
 Despite being classified as one of the major [[sensi-star]].
 

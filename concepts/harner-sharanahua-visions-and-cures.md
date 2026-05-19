@@ -7,6 +7,7 @@ tags:
 Siskind, is particularly significant for understanding how cultural
 factors shape the hallucinogenic experience and contribute to therapeutic
 outcomes.
+---
 
 ## Communal Ayahuasca Practice
 

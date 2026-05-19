@@ -22,6 +22,7 @@ sources:
 renowned for its potent cerebral effects and pungent diesel-fuel aroma. Bred by 303 Seeds
 in Colorado, it combines the energetic genetics of Aspen OG with the legendary
 High Country Diesel lineage.
+---
 
 The strain has earned a devoted following among medical and recreational users seeking
 strong daytime stimulation without heavy sedation. Its name directly references the

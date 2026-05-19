@@ -17,6 +17,7 @@ sources:
   - Permaculture: A Designers' Manual, bill-mollison
   - The Duck Commander Family, Phil Robertson (breed and habitat references)
   - USDA Extension: Duck Production and Management (extension.umn.edu)---
+---
 
 ## Duck Keeping and Integration into Permaculture Systems
 

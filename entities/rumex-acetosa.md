@@ -11,6 +11,7 @@ designs, sorrel serves as a productive ground-cover perennial
 that provides [[blesching-cannabis-rheumatoid-arthritis]] should consume
 sorrel in moderation due to oxalate's potential to aggravate
 these conditions. Cooking reduces oxalic acid content by 30-50%.
+---
 
 ## Culinary Uses
 

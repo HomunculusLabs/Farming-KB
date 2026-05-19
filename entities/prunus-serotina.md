@@ -16,6 +16,7 @@ sources:
   - Hough, R.B. (1957). Hough's Encyclopedia of American Woods. Robert Clarke Co.
   - USDA NRCS (2024). Plant Profile: *Prunus serotina*.
   - Duke, J.A. (2002). Handbook of [[polypore-fungi-eastern-north-america]] America, valued for its fine woodworking timber and distinctive dark, bitter fruit. It is the largest of the native [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] hardwoods, second only to black walnut in per-board-foot value.
+---
 
 All parts of the tree except the ripe fruit pulp contain cyanogenic glycosides, primarily amygdalin, which release hydrogen cyanide upon tissue damage. This toxicity is a significant consideration for [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] associations, enhancing nutrient uptake.
 

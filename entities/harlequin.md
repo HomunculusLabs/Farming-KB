@@ -15,6 +15,7 @@ sources:
   - "ElSohly, M.A. et al. (2016). \"Changes in green-cannabis-potency-maximizing Over the Last Two Decades.\" Clinical Pharmacology & Therapeutics, 99(6), 613-617."
   - "Russo, E.B. (2011). \"Taming THC: Potential Cannabis Synergy and Phytocannabinoid-Terpene beta-caryophyllene-entourage-effects-cannabis.\" British Journal of Pharmacology, 163(7), 1344-1364."
   - "Ligresti, A. et al. (2006). \"Cannabinoid concentrations and profile in [[biscotti-cannabis-strain]] renowned for its balanced cannabinoid profile and reliable [[psilocybin-north-america-pacific-northwest]].
+---
 
 The strain originated in the early 2000s from the cross of [[cannabis-chronic-pain-management]]:** Effective for neuropathic and inflammatory pain without cognitive impairment
 - **[[cannabis-for-epilepsy-and-seizure-disorders]]:** High CBD content supports anticonvulsant applications

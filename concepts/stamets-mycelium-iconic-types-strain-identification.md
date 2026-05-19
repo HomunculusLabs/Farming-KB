@@ -23,6 +23,7 @@ summary: >
 - **Cottony:** Loose, undifferentiated aerial mat without organized internal structure. A very common growth form, but generally less vigorous than strandy types. Often the default for stressed cultures.
 - **Appressed:** Mycelium pressed flat against the agar surface with minimal aerial component, creating a thin, sometimes translucent mat closely adhering to the medium. Some species, notably certain *Trametes* and *Ganoderma* isolates, grow naturally appressed.
 - **Tomentose:** A dense, felt-like mat intermediate between cottony and appressed. The surface appears uniformly fuzzy but maintains a low profile without significant vertical expansion.
+---
 
 ## Morphology as an Indicator of Vigor and Fruiting Potential
 

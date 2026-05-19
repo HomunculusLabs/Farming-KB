@@ -15,6 +15,7 @@ sources:
   - Chen X et al. (2002). "Anti-inflammatory and antioxidant activities of Lithospermum erythrorhizon." Phytotherapy Research, 16(4), 321-326.
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China.
   - Yadav DK et al. (2017). "Shikonin and its derivatives: A comprehensive review." European Journal of Medicinal Chemistry, 136, 36-48.---
+---
 
 ## Overview
 

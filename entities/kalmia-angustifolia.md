@@ -14,6 +14,7 @@ sources:
   - USDA NRCS. (2024). "Kalmia angustifolia." PLANTS Database.
   - Mulligan, G.A. & Munro, D.B. (1981). "Toxic plants of Canada." Agriculture Canada Publication.
   - Kingsbury, J.M. (1964). Poisonous Plants of the [[polypore-fungi-eastern-north-america]] America, ranging from eastern Canada south to the Appalachian Mountains.
+---
 
 The species is noted for its attractive pink flowers and significant toxicity to livestock and humans.
 

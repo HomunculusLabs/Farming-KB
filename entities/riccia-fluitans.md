@@ -14,6 +14,7 @@ sources:
   - Paton, J.A. (1999). "The Liverwort Flora of the British Isles." Harley Books.
   - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University.
   - Schuster, R.M. (1966). "The Hepaticae and Anthocerotae [[fungal-roles-aquatic-environments]] including ponds, ditches, slow-moving streams, marshes, and lake margins. It tolerates both acidic and alkaline water conditions.
+---
 
 It frequently grows among other aquatic bryophytes and macrophytes, forming mixed mats on the water surface. These floating mats provide habitat for numerous invertebrate species.
 

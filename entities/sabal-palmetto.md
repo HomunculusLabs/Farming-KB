@@ -13,6 +13,7 @@ updated: 2026-05-09
 sources:
   - Zona, S. (1990). "A monograph of Sabal (Arecaceae: Coryphoideae)." Aliso, 12(2), 583-666.
   - Henderson, A. et al. (1995). "[[dmt-containing-plants-united-states-halpern]], the Bahamas, Cuba, and the Turks and Caicos Islands. It is the state tree of both Florida and South Carolina.
+---
 
 The species is one of the most recognizable palms in the United States, iconic for its silhouette on the South Carolina state flag and its ubiquity in coastal landscapes throughout the Gulf and Atlantic seaboard. Its tolerance of salt spray, wind, and occasional freezing temperatures makes it a dominant component of subtropical [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]. Sabal palmetto is among the most widely cultivated species in the genus.
 

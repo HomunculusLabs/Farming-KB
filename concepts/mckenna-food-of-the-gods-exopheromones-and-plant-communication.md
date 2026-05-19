@@ -4,6 +4,7 @@ source: "food-of-the-gods.md"
 source_author: "[[plant-volatile-communication-chemical-ecology]]. If
 exopheromones exist, they imply a web of biochemical communication that
 links otherwise separate species into a single informational network.
+---
 
 Crucially, McKenna suggested that some exopheromones possess outsized
 leverage: a small group of individuals producing or carrying these compounds

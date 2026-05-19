@@ -11,6 +11,7 @@ seed suppliers, permaculture practitioners observe their growing conditions,
 identify the best-performing individual plants, and save seed exclusively
 from these elite performers to progressively improve their crop populations
 over successive generations.
+---
 
 ## Philosophical Foundation
 

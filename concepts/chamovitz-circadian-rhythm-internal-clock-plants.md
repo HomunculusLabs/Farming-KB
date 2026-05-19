@@ -17,6 +17,7 @@ in the fourth century BCE when he observed tamarind leaves moving up and
 down each day, represent one of the oldest known examples of circadian
 behavior. Linnaeus later catalogued flowers opening and closing at specific
 times, creating floral clocks that could predict the time of day.
+---
 
 ## The Molecular Architecture: CCA1, LHY, and TOC1
 

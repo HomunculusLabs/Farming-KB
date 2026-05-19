@@ -15,6 +15,7 @@ sources:
   - Kuo, M. (2024). "Suillus cavipes." MushroomExpert.com.
   - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[pinus-strobus]]*,
 *P. monticola*, *P. flexilis*) across North America.
+---
 
 The species is distinguished by its prominently hollow stipe, sticky
 chestnut-brown cap, and tendency to bruise slowly reddish-brown.

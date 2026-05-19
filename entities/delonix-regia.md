@@ -14,6 +14,7 @@ sources:
   - Allen, O.N. & Allen, E.K. (1981). "The Leguminosae: A Source Book of Characteristics, Uses, and Nodulation." University of Wisconsin Press.
   - Isely, D. (1975). "Leguminosae of the dmt-containing-plants-united-states-halpern: II. Subfamily Caesalpinioideae." Memoirs of the New York Botanical Garden.
   - Orwa, C. et al. (2009). "Agroforestree Database: a tree reference [[hamilton-ornamental-trees]].
+---
 
 The species produces massive displays of brilliant scarlet-red flowers that blanket the canopy for weeks during the dry season.
 

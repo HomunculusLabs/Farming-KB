@@ -4,6 +4,7 @@ source: "Elaine Ingham Ph.D. - The Field Guide I for [[mycorrhizal-agricultural-
 Elaine Ingham's research demonstrates that [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]] associate with Ericaceae family plants (blueberries, cranberries,
 rhododendrons). Other specialized types exist for orchids. Each type is adapted to
 specific soil conditions and plant requirements.
+---
 
 ## The Nutrient Exchange Mechanism
 

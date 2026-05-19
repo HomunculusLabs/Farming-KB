@@ -4,6 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [fukuoka, [[fukuoka-rice-straw-mulch-central-technique]] to the fields is deceptively simple but was met with decades of resistance from agricultural institutions. The basic practice is this: after the rice is harvested and threshed, scatter the straw back over the field uncut. The more disorderly the scattered straw, the better. The barley grows up through the spaces left between the straw. The layer of straw should be thick. It is best to return all the straw to the field, whether you have three, four, or five hundred pounds of it.
+---
 
 - Just scatter it all, right over the barley shoots
 

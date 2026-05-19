@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 23.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern [[polypore-fungi-eastern-north-america]], ranging from Ontario and Quebec south to Georgia and west to Minnesota and Arkansas.
+---
 
 The specific epithet laxiflora refers to the loosely arranged, spreading spikelets that characterize the inflorescence. This feature distinguishes it from the more congested inflorescences of related Carex species.
 

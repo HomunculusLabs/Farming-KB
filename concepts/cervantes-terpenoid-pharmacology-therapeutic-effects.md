@@ -15,6 +15,7 @@ synonyms:
   - linalool cannabis
   - [[carvacrol]]** - found in oregano and thyme, acetylcholine-enhancing
 - **Pulegone** - found in mint, also supports acetylcholine pathways
+---
 
 ## Neurotransmitter Modulation
 

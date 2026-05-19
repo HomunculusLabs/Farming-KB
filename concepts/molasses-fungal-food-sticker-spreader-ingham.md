@@ -16,6 +16,7 @@ sources:
 - **Unsulfured molasses**: Sulfur is a potent fungicide, so molasses treated with sulfur will inhibit the very fungi it is intended to support. Always use unsulfured products.
 - **Dried cane sugar and dried molasses**: These products lose the humic acid residue during the drying process, which is nearly impossible to dry down. Testing shows dried cane products grow mostly bacteria, whereas blackstrap molasses supports both bacteria and beneficial fungi.
 - **Beet molasses**: An alternative to cane molasses that works similarly, available in regions where beet sugar is produced.
+---
 
 Color variation between batches indicates compositional differences year to year, which can affect microbial growth outcomes.
 

@@ -16,6 +16,7 @@ sources:
 cyanobacterial photobionts, making it a tripartite lichen with significant
 nitrogen-fixing capability. It is considered an indicator of forest
 continuity and ecological health.
+---
 
 ## Taxonomy and Morphology
 

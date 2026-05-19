@@ -12,6 +12,7 @@ yields that exceed the natural productivity of the land, but Fukuoka contended t
 was not so. These were merely endeavors by man to artificially restore full productivity
 after he had hamstrung nature so that it could not exercise its full powers. Man creates
 adverse conditions through plowing, [[critique-of-scientific-agriculture]].
+---
 
 On the question of food quality, Fukuoka was equally unsparing. He argued that science is
 no match for nature in terms of the quality of the food it helps create. Ever since man

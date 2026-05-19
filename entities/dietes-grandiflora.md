@@ -12,6 +12,7 @@ updated: 2026-05-10
 sources:
   - Goldblatt, P. & Manning, J. (2008). "The Iris Family: Natural History and Classification." Timber Press.
   - Pooley, E. (1998). "A [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Avoid waterlogging, which promotes rhizome rot.
+---
 
 Space plants 60–90 cm apart to accommodate clump expansion. Division every 3–5 years prevents overcrowding and maintains flowering vigor.
 

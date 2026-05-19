@@ -22,6 +22,7 @@ both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
 reflects the fundamental importance of this topic across disciplines.
+---
 
 Implementation varies based on scale, available resources, and
 specific objectives. Small-scale applications may be relatively

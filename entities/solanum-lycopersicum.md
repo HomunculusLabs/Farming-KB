@@ -15,6 +15,7 @@ sources:
   - USFDA (2019). "Tomatoes — Raw." FoodData Central, fdc.nal.usda.gov.
   - Peralta, I.E. & Spooner, D.M. (2007). "History, Origin and Early Cultivation of Tomato." in [[guzman-psilocybin-mushrooms-south-america]], it was domesticated in Mesoamerica
 by pre-Columbian peoples and subsequently spread globally following Spanish colonization.
+---
 
 Tomato is the second-most-consumed [[psilocybe-southeast-asia-pacific]], and worldwide by the 18th century.
 

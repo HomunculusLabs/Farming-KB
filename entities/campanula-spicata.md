@@ -12,6 +12,7 @@ updated: 2025-05-10
 sources:
   - Fedorov, A.A. & Kovanda, M. (1978). "Campanula." In Flora Europaea, Vol. 4. Cambridge University Press.
   - Kovanda, M. (1970). "Polyploidy and variation in the [[fukuoka-european-distribution-system-critique]]. Close relatives include [[campanula-cenisia]].
+---
 
 **Roots and basal rosette:** The rootstock is slender, fibrous, and sometimes stoloniferous, producing offsets at the base. The basal rosette is typically small and may be sparse or absent at [[cannabis-controlled-pollination-seed-production]] per plant is modest compared to lowland Campanula species, typically 500–2,000 seeds per individual. This reflects the compressed [[comparison-native-bee-pollinators-vs-honeybees]] common in alpine environments.
 

@@ -14,6 +14,7 @@ sources:
   - Wagner W.H. Jr. & Beitel J.M. (1993). "Thelypteris." Michigan Flora Online.
   - USDA NRCS (2024). "Thelypteris noveboracensis Plant Profile." plants.usda.gov.
   - Hoshizaki B.J. & Moran R.C. (2001). "Fern Grower's Manual." Timber Press.---
+---
 
 ## Overview
 

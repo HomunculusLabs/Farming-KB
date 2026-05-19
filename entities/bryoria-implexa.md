@@ -14,6 +14,7 @@ sources:
   - Goward, T. (1999). "The Lichens of British Columbia: Illustrated Keys." Royal BC Museum.
   - Spribille, T., et al. (2014). "Molecular phylogeny of Bryoria (Parmeliaceae)." The Lichenologist, 46(3), 329–350.
   - McCune, B. & Geiser, L. (2009). "Macrolichens of the [[fungal-diversity-boreal-forests-taiga]].
+---
 
 The species epithet *implexa* refers to its densely entangled, interwoven
 thallus. Unlike many Bryoria species that hang in distinct pendant strands,

@@ -8,6 +8,7 @@ topics: ["DMT", "visual cortex", "hallucination", "tryptamine",
 film." An ascending tone accompanies this. Simultaneously the
 normal hallucinogenic modality appears: a shifting geometric
 surface of migrating colored forms.
+---
 
 At the synaptic site, "all available bond sites are being
 

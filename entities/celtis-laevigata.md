@@ -13,6 +13,7 @@ updated: 2026-05-09
 sources:
   - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees." USDA Forest Service Agriculture Handbook 541.
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[celtis-occidentalis]]*) and is sometimes considered conspecific by some authorities. Sugarberry is distinguished by its smoother bark, narrower leaves, and sweeter fruit.
+---
 
 Sugarberry typically reaches 15–25 meters in height with a trunk diameter of 40–80 cm. It develops a broad, rounded to vase-shaped crown with arching branches. In open positions, the crown spreads wider than it is tall.
 

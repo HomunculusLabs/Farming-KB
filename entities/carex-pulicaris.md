@@ -14,6 +14,7 @@ sources:
   - Stace, C.A. (2019). *New Flora of the British Isles*, 4th ed. C&M Floristics.
   - Luceño, M. & Jiménez-Mejías, P. (2008). "Systematics of Carex section Paludosae." *Botanical Journal of the Linnean Society* 158: 1-22.
   - [[palmer-mushroom-hunting-field-identification]].
+---
 
 Carex pulicaris belongs to Carex section Paludosae, a group of small, tufted sedges adapted to acidic mire conditions. The species typically flowers from April through June.
 

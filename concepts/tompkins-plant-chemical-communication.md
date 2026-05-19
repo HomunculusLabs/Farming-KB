@@ -5,6 +5,7 @@ aliases: [allelopathy, plant signaling, [[solomon-root-exudates-and-allelopathy]
 tags: [botany, biochemistry, ecology, chemical-ecology]
 related: [[tompkins-plant-animal-relationships]], [[fungal-melanin-biosynthesis-ecological-functions]] rather
 than being mere nuisances:
+---
 
 - Sorrels, docks, and horsetails indicate soil becoming too acidic
 - Dandelions heal soil by transporting minerals (especially calcium)

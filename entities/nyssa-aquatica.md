@@ -14,6 +14,7 @@ sources:
   - Hook, D.D. (1984). "Waterlogging tolerance of lowland tree species of the South." Southern Journal of Applied Forestry, 8(3), 136–149.
   - Kellison, R.C. & Young, M.J. (1997). "Bottomland hardwood forests of the southeastern United States." In: Ecology and Conservation of Bottomland Hardwoods. Wiley.
   - Hodges, J.D. (1997). "Development and ecology of bottomland hardwood sites." Forest [[guzman-psilocybin-mushrooms-north-america]], capable of surviving continuous inundation for 6 to 8 months per year. This adaptation makes it a keystone species in deepwater swamp ecosystems.
+---
 
 ## Taxonomy and Morphology
 

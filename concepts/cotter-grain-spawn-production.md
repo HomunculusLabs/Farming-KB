@@ -4,6 +4,7 @@ created: 2026-04-26
 tags: [spawn-production, grain, [[mason-jar-preserving-guide]] lids
 - Drilled holes stuffed with cotton or polyester fill
 - Tyvek (woven house wrap) secured over drilled holes
+---
 
 Autoclavable bags with aeration filters are used for large quantities. Oven
 bags or microwavable bags work in a pinch. The preferred expansion path is

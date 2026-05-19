@@ -20,6 +20,7 @@ Historically blamed for absinthe's purported psychoactive toxicity ("absinthism"
 modern research attributes thujone's primary pharmacological action to
 GABA_A receptor modulation, though its psychoactive potency is now
 considered modest compared to the ethanol content of absinthe.
+---
 
 ## Chemical Properties
 

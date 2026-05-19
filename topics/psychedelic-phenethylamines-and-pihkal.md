@@ -5,6 +5,7 @@ of years. But the phenethylamine landscape extends far beyond this single
 natural compound: through the work of chemists over the past century, hundreds
 of synthetic variants have been created, each with subtly different properties,
 potencies, durations, and subjective effects.
+---
 
 The phenethylamine family is distinguished from the tryptamine family
 (lsd, psilocybin, dmt) by its fundamental chemical architecture. Where

@@ -17,6 +17,7 @@ sources:
   - https://en.wikipedia.org/wiki/Trametes_versicolor
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5698685/
   - Stamets, P. (1996). [[cancer-medicinal-mushrooms-extraction-bioavailability]]. Its fruiting bodies display striking concentric zones of color — browns, whites, blues, and oranges — resembling the tail plumage of a wild turkey. The species has been the subject of over 400 peer-reviewed publications investigating its immunomodulatory, antitumor, antiviral, and bioremediation properties, and its polysaccharide extracts (notably PSK and PSP) are approved as prescription cancer adjuvants in several Asian countries.
+---
 
 ## Taxonomy and Classification
 

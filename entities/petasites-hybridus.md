@@ -23,6 +23,7 @@ sources:
   - Schmitz, K. et al. (2019). "Petasin and isopetasin from Petasites." Phytomedicine, 55, 81-88.
   - Blumenthal, M. et al. (2000). herbal-medicine: Expanded Commission E Monographs. Integrative Medicine Communications.
   - Meister, A. et al. (1999). "Petasites hybridus for allergic rhinitis." BMJ, 318(7177), 80.---
+---
 
 ## Overview
 

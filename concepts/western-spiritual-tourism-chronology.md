@@ -15,6 +15,7 @@ generation gravitating toward a different imported tradition.
 This chronological pattern reveals persistent cultural
 dissatisfaction with mainstream religion and an ongoing
 search for authentic spiritual experience.
+---
 
 ## The Beat Generation and Zen Buddhism (1950s)
 

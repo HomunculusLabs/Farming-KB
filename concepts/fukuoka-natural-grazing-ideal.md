@@ -7,6 +7,7 @@ food for man. The problem lies elsewhere, in the prejudiced view that sees
 [[doc]]
 - [[permaculture]]
 - [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
+---
 
 ## Overview
 

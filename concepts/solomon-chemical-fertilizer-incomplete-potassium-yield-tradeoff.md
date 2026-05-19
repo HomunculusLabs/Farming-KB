@@ -15,6 +15,7 @@ related:
   mineral profile.
 - Their [[plant-defense-mechanisms]]
 that characterize truly healthy food.
+---
 
 ## The Potassium-Yield vs Nutrition Tradeoff
 

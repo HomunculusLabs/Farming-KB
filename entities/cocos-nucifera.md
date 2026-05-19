@@ -13,6 +13,7 @@ updated: 2026-05-08
 sources:
   - Gunn BF, Baudouin L, Olsen KM (2011). "Independent origins of cultivated coconut (Cocos nucifera L.) in the datura-metel-old-world-ethnobotany and New World." PLoS ONE, 6(6), e21143.
   - Teulat B et al. (2000). "An analysis of [[mollison-coconut-palm-polyculture-systems]], is a perennial arborescent monocot in the family Arecaceae.
+---
 
 It is cultivated throughout the humid tropics between 23°N and 23°S latitude, often described as the "tree of life" due to its extraordinary range of uses.
 

@@ -26,6 +26,7 @@ sources:
 - **Insomnia:** Powerful sedative; reliable sleep aid for treatment-resistant insomnia
 - **Muscle spasms:** Deep muscle relaxation reduces cramping and spasticity
 - **Stress/anxiety:** Euphoric onset calms racing thoughts; terpenes enhance anxiolysis
+---
 
 ## Overview
 

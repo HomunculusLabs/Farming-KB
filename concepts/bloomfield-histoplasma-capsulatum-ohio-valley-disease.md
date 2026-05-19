@@ -12,6 +12,7 @@ organism's ability to persist asymptomatically for decades—only to emerge as
 a devastating systemic infection when the immune system falters—makes it a
 paradigmatic example of the complex relationship between environmental fungi
 and human health.
+---
 
 ## Discovery and Taxonomy
 

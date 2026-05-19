@@ -14,6 +14,7 @@ sources:
   - Brodo IM, Sharnoff SD, Sharnoff S (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Purvis OW, Coppins BJ, Hawksworth DL, James PW, Moore DM (1992). "The Lichen Flora of Great Britain and Ireland." stropharia-cubensis-identification-and-natural-history Museum Publications.
   - Hawksworth DL, Rose F (1970). "Qualitative scale for estimating sulphur dioxide singh-fungal-biosensors-environmental-monitoring in Europe." Bibliotheca Lichenologica 91: 47–69.---
+---
 
 ## Overview
 

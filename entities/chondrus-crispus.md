@@ -13,6 +13,7 @@ updated: 2026-05-08
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "Craigie, J.S. (1990). \"[[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] conditions and reproductive state.
+---
 
 Global carrageenan production exceeds 80,000 tonnes annually, with *C. crispus* and related *Gigartina* species as the principal sources. The species has been harvested in Ireland and the Scottish Highlands for over 600 years.
 

@@ -5,6 +5,7 @@ source: "Guzmán, Allen & Gartz (1998) — World-Wide Distribution of [[mexico-c
 (1998), one of the most surprising [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] communities
 in a manner analogous to the use of Psilocybe species by the Mazatec and other
 groups.
+---
 
 The documentation of a puffball species used as a psychoactive fungus by the
 Mixtec people is remarkable for several reasons:

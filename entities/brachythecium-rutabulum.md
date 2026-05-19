@@ -15,6 +15,7 @@ sources:
   - Flora [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], thriving in
 both natural woodlands and [[dmt-containing-plants-united-states-halpern]], with highest abundance in the Northeast and Pacific
 Northwest. It is notably absent from [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and desiccation.
+---
 
 The species plays an important role in initial substrate stabilization on
 disturbed ground, trapping sediment and organic particles to facilitate soil

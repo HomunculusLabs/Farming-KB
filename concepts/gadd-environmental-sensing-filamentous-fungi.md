@@ -6,6 +6,7 @@ topics: mycology, environmental sensing, fungal hyphae, [[mycelial-foraging-reso
 and defense. The environmental sensing capabilities of fungi rival those of
 much more complex organisms and are essential to their ecological success as
 decomposers, pathogens, and symbionts.
+---
 ## Chemical Sensing and Chemotropism
 
 Chemical sensing is perhaps the most important environmental detection system

@@ -7,6 +7,7 @@ crops — millets, azuki beans, and buckwheat — are the most suitable foods fo
 human health. He traces this conclusion through [[fukuoka-road-critique-of-modern-science]] agriculture's "bigger is better"
 mentality extends from fruits to grains, challenging the assumption that larger
 yields and larger seeds equate to better nutrition.
+---
 
 ## The Five Grains Tradition
 

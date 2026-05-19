@@ -10,6 +10,7 @@ winds carry pollen to female plants at a distance. Multiple female and male vari
 were often used simultaneously, creating first-generation seeds from what breeders
 called "train wrecks" of genetics — unpredictable crosses of "all killer genetics"
 where you couldn't be sure which male pollinated which female.
+---
 
 These "[[equatorial-photoperiod-early-flowering]]. Growers should plan canopy management accordingly.
 

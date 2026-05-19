@@ -20,6 +20,7 @@ sources:
   - https://www.plantoftheworld.org/ (neurotropic-fungi-taxonomic-classification, Kew)
   - Chopra, R.N. et al. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
   - Perry, L.M. (1980). Medicinal Plants of East and Southeast Asia. MIT Press.---
+---
 
 ## Tabernaemontana divaricata (Pinwheel Flower)
 

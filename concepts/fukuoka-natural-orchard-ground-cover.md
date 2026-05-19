@@ -12,6 +12,7 @@ updated: 2026-05-08
 sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - [[hamilton-organic-fertilizers-and-plant-nutrition]].
+---
 
 Fukuoka inverted this approach. By maintaining a permanent living ground
 cover, the soil was continuously fed from below. Clover and alfalfa, both

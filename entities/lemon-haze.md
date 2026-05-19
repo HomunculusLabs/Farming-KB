@@ -22,6 +22,7 @@ sources:
   - https://www.leafly.com/strains/lemon-haze ([[cannabis-hybrid-vigor-and-phenotypes-clarke]] created by crossing **[[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] worldwide after winning the **High Times Cannabis Cup** in 2008. The strain is celebrated for its **intense citrus aroma and flavor**, clear-headed and uplifting cerebral effects, and vigorous growth characteristics. It typically tests at 17–22% THC with negligible CBD content. The [[screen-of-green]]) and LST ([[amnesia-haze]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
+---
 
 ## Key Considerations
 

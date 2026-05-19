@@ -15,6 +15,7 @@ sources:
   - Kerrigan, R.W. (2016). "Agaricus of psilocybin-north-america-pacific-northwest." Memoirs of the New York Botanical Garden.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - Boertmann, D. (1995). "The Genus Agaricus in Denmark." Danish british-mycological-society.---
+---
 
 ## Overview
 

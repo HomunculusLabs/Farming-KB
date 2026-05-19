@@ -4,6 +4,7 @@ created: 2026-04-26
 tags:
   - [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]] can enhance local
 precipitation through several well-documented mechanisms.
+---
 
 ## The Water Cycle and Biological Effects
 

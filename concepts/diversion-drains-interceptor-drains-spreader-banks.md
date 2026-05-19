@@ -1,6 +1,7 @@
 ---
 title: [[diversion-drains-and-spreader-banks]] [[interceptor-drains-and-desertification-control]] [[spreader-banks-and-interceptor-drains]]
 source: bill-[[mollison-designers-diversion-drains-and-interceptor-banks|Banks]]
+---
 
 These three types of [[permaculture-water-harvesting]] system. While swales hold water and dams store it, diversion drains, interceptor drains, and spreader banks **move, control, and distribute** water across the landscape. Together, they enable the [[oyster-mushroom-pests-sciarid-cecid-phorid-fly-mite-integrated-management]] of floodwaters, irrigation, wildfire control, and [[irrigation-systems]], sand beds, or swales for absorption. Unlike swales, diversion drains are **built to flow** after rain — they convey water from overland flow or feeder streams to destinations where it can be stored or used.
 

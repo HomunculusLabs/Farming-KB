@@ -13,6 +13,7 @@ sources:
   - Greven, H.C. (2003). Grimmias of the World. Backhuys Publishers.
   - Smith, A.J.E. (2004). The Moss Flora of Britain and Ireland. Cambridge University Press.
   - Crum, H. & Anderson, L.E. (1981). Mosses of [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the world.
+---
 
 The species forms distinctive dark green to blackish cushions on rocks, walls, and occasionally on tree bark. It is characterized by its smooth capsule when mature and its strongly incurved leaf margins.
 

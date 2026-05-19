@@ -19,6 +19,7 @@ sources:
   - Fröhlich, J. & Hyde, K.D. (2000). "Biodiversity of saprotrophic
     fungi." [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest
 ecosystems.
+---
 
 Beyond its [[xylaria-hypoxylon]]* sensu auct. non L.
 

@@ -12,6 +12,7 @@ updated: 2026-05-08
 sources:
   - Taylor, J.R.N. & Awika, J.M. (2017). "Sorghum and Millets: Chemistry, Technology, and Nutritional Attributes." 2nd ed. AACC International Press.
   - Dahlberg, J. et al. (2011). "Assessment of sorghum [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]], biofuel production, and traditional alcoholic beverages.
+---
 
 ## Taxonomy and Morphology
 

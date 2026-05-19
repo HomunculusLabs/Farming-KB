@@ -15,6 +15,7 @@ sources:
   - Passie, T. et al. (2008). "The pharmacology of lsd-d-lysergic-acid-diethylamide: a review." CNS Neuroscience & Therapeutics 14(4): 295-314.
   - Schmid, G. & Eich, E. (2001). "Ergot alkaloids: Pharmacology and biosynthesis." In: Bioactive Natural Products, Elsevier.
 created: 2026-04-28---
+---
 
 ## Overview
 

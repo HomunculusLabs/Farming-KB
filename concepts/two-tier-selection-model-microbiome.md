@@ -8,6 +8,7 @@ This model was articulated based on findings from the first comprehensive survey
 cannabis (Cannabis sativa L.) microbiome by Winston et al. (2014), which examined
 endophytic (endorhiza), rhizosphere, and bulk soil bacterial communities across five
 cultivars and multiple soil types.
+---
 
 The model provides a framework for understanding why root microbiomes vary across
 environments and genotypes, with implications for microbiome engineering

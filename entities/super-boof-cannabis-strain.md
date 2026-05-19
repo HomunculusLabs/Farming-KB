@@ -18,6 +18,7 @@ sources:
   - AllBud (2024). "Super Boof Weed Strain." AllBud.com.
   - Weedmaps (2024). "Super Boof Strain Review." Weedmaps.
   - Cookies Fam Genetics. Strain database entries.---
+---
 
 ## Super Boof
 

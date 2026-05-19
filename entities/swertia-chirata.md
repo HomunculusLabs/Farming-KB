@@ -17,6 +17,7 @@ sources:
   - Brahmachari, G. & Mondal, S. (2014). "The genus Swertia: A review of
     phytochemistry and pharmacology." Pharmacognosy Reviews, 8(16), 60-68.
   - Negi, J.S. et al. (2011). "[[phytochrome-red-far-red-light-switch-plant-pigment]]s in traditional medicine.
+---
 
 Commonly known as **chirayita** or **bhunimba**, it is native to the
 Himalayan region at elevations of 1,200–3,000 meters.

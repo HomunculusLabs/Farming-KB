@@ -10,6 +10,7 @@ sources:
   - "Robertson, G.P. & Swinton, S.M. (2005). Reconciling agricultural productivity and environmental integrity: A grand challenge for agriculture. *Frontiers in Ecology and the Environment*, 3(1), 38-46."
 type: query
 created: 2026-04-28---
+---
 
 ## How Does Nitrogen Cycling Work in a Permaculture System?
 

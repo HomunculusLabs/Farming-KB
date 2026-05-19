@@ -19,6 +19,7 @@ sources:
   - Permaculture: A Designers' Manual, bill-mollison
   - The Farming Handbook, Peter Nuthall
 type: comparison---
+---
 
 ## Living Fences vs Conventional Fencing
 

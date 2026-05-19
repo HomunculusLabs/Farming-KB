@@ -15,6 +15,7 @@ sources:
   - Yang, B. et al. (2006). "Anti-inflammatory and immunomodulatory activities of polysaccharides from longan." Journal of Agricultural and Food Chemistry, 54(12), 4294-4299.
   - Chen, J. & Li, C.Y. (2004). "chemical-composition-of-hallucinogens longan (Dimocarpus longan Lour.) seed." Journal of Food Lipids, 11(2), 161-170.
   - Zheng, G. et al. (2021). "A review of the phytochemistry and pharmacology of Dimocarpus longan." Frontiers in Pharmacology, 12, 689520.---
+---
 
 ## Dimocarpus longan
 

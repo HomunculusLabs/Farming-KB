@@ -2,6 +2,7 @@
 title: Partnership Vs Dominator Culture
 aliases:
   - [[partnership-and-dominator-cultures-in-human-history]] organization.
+---
 
 McKenna describes Eisler's work as a brilliant synthesis of the emergence of human culture in the ancient Near East and the unfolding political debate concerning the feminizing of culture and the need to overcome patterns of male dominance in creating a viable future. Her contribution was to move the discussion from the crude binary of matriarchy versus patriarchy to a more sophisticated understanding of how partnership and dominator tendencies coexist and compete within and between societies.
 

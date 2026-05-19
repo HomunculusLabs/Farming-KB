@@ -4,6 +4,7 @@ created: 2026-04-28
 type: species
 tags:
   - [[spore]] s, which are unusual within the genus. It was described from Asian tropical collections and represents one of the more morphologically distinctive members of the genus.
+---
 
 ## Taxonomy
 

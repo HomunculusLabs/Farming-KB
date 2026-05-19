@@ -14,6 +14,7 @@ Stachybotrys. The county coroner subsequently reexamined all infant
 deaths in Cleveland in the early 1990s and found that another six
 children may have died of the same cause. These fatalities had
 originally been classified as sudden infant death syndrome (SIDS).
+---
 
 Not all strains of Stachybotrys chartarum produce trichothecenes, which
 complicates risk assessment. Susan Kaminskyj, a biologist at the

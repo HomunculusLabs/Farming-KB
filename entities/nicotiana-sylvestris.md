@@ -16,6 +16,7 @@ sources:
   - Knapp, S., M.W. Chase & J.J. Clarkson (2004). "Nomenclatural Changes and a New Sectional Classification in Nicotiana (Solanaceae)." Taxon, 53(1), 73-94.
   - Lewis, R.S. (2011). "An Overview of the Genus Nicotiana." In Nicotiana and Tobacco, pp. 1-26. Springer.
   - Burbank, L. (1914). "The Development of the Burbank Tobacco." In [[guzman-psilocybin-mushrooms-south-america]].
+---
 
 It is prized in ornamental horticulture for its tall, elegant habit and intensely fragrant, tubular white flowers that open in the evening.
 

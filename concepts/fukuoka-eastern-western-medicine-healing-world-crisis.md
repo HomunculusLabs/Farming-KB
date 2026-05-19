@@ -9,6 +9,7 @@ medicine addresses the whole person, and that this fundamental divergence mirror
 difference between conventional agriculture (which attacks [[fukuoka-desert-revegetation-natural-farming]] is
 explicitly modeled on the Eastern medical approach—restore the whole system rather
 than attack individual symptoms.
+---
 
 ## The Ethiopian Refugee Hospital
 

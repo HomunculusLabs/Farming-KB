@@ -13,6 +13,7 @@ sources:
   - Zohary, M. & Heller, D. (1984). The Genus Trifolium. The Israel Academy of Sciences and Humanities, Jerusalem.
   - Allen, O.N. & Allen, E.K. (1981). The Leguminosae: A Source Book of Characteristics, Uses, and Nodulation. University of Wisconsin Press.
   - Ellison, A.M. et al. (2005). "The role of Trifolium species in temperate [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
+---
 
 The species is a common component of dry grasslands, agricultural fields, roadsides, and other disturbed habitats throughout its range.
 

@@ -21,6 +21,7 @@ sources:
   - Flieger, M. et al. (1997). "Ergot alkaloids — Sources, structures
     and [[analytical-methods-psilocybin-psilocin-quantification]]." Folia Microbiologica.
 created: 2026-04-28---
+---
 
 ## Overview
 

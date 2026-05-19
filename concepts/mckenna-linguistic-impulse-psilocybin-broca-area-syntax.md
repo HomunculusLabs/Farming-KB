@@ -7,6 +7,7 @@ topics:
 that the Mazatec attributed agency to the mushrooms themselves—that the mushroom "spoke through" the 
 person—resonated with McKenna's broader thesis that the mushroom was an active participant in the 
 co-evolutionary relationship with humans.
+---
 
 ## The "Going Forth of the Word"
 

@@ -20,6 +20,7 @@ sources:
   - Via Campesina (2019). "Ernst Götsch and Syntropic Farming in Brazil." La Via Campesina Documentation Series.
   - Tavares M.S. (2015). "Life in Syntropy: A Film About Ernst Götsch." Documentary film, 45 min.
   - Fonseca M.L. (2020). "comparison-hugelkultur-vs-syntropic-agriculture as a Regenerative Strategy for Degraded Pastures in the Brazilian Atlantic Forest." Agroforestry Systems, 94(4), 1485-1497.---
+---
 
 ## Ernst Götsch
 

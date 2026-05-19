@@ -7,6 +7,7 @@ Historically, determining the species diversity of fungi has been
 complicated by our inability to culture many fungi, the ephemeral
 nature of sporocarp production, and intraspecific variation in fungal
 morphology and biochemistry.
+---
 
 ## Impediments to Understanding Fungal Diversity
 

@@ -16,6 +16,7 @@ source:
 in *Gardening When It Counts* (2005) for successfully [[solomon-fine-seedbed-soil-tilth-clod-management-raking]] — soil that is free of physical obstacles, with
 adequate [[cannabis-seed-germination]] process before contact with garden soil, they face less
 resistance and establish more quickly.
+---
 
 ## Raised Beds and Fine Seedbeds
 

@@ -1,6 +1,7 @@
 ---
 title: Fukuoka Organic To Natural Farming Transition
 source: [[critique-of-scientific-agriculture]] and were attempting to make organic farming work. He found them baffled by a specific practical problem: **how to handle compost and manure on large acreages**.
+---
 
 With the help of machinery, farmers could feed hay and fodder to cattle and collect animal wastes, but they generally had trouble when it came to transporting that compost and manure out to the fields and spreading it over large areas. Even at the Rodale farm — the flagship of American organic agriculture — he saw large piles of compost and manure left exposed everywhere on the fields.
 

@@ -11,6 +11,7 @@ the 5-HT2A [[psilocybin]], DMT, LSD), the
 phenethylamine-based hallucinogens ([[atropine]], [[mushroom-taste-route-of-administration-and-consumption-barriers]] significantly affects both intensity and
 duration, with smoking producing a much more intense, shorter
 experience.
+---
 
 ## Comparison with Classical Hallucinogens
 

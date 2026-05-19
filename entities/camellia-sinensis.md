@@ -14,6 +14,7 @@ updated: 2026-05-09
 sources:
   - Graham, H.N. (1992). "Green tea composition, consumption, and polyphenol chemistry." Preventive Medicine, 21(3), 334-350.
   - Yang, C.S. et al. (2009). "[[psilocybe-southeast-asia-pacific]]. It is the sole source of true tea, producing leaves that are processed into green, black, white, oolong, and dark teas through varying degrees of oxidation and fermentation.
+---
 
 The plant has been cultivated for over 5,000 years, making it one of humanity's oldest crop species. Its global economic importance is immense, with tea ranking as the second most consumed beverage worldwide after water.
 

@@ -5,6 +5,7 @@ natural environments. The most accessible techniques include arbitrarily
 primed PCR (apPCR) and random amplified polymorphic DNA (RAPD) analysis,
 which exploit vast sequence diversity in fungal genomes to generate
 species-specific molecular fingerprints without prior sequence knowledge.
+---
 
 ## apPCR / RAPD Analysis
 

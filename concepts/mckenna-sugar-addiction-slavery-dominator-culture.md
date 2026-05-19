@@ -5,6 +5,7 @@ author: [[mckenna-food-gods-sugar-addiction-slavery]] are exemplified by bulimic
 sugar-saturated food and then induce vomiting or use a laxative purge to
 enable them to eat more sugar. After alcohol and tobacco, sugar is the
 most damaging addictive substance consumed by human beings.
+---
 
 Sugar abuse rarely occurs alone as a syndrome. Mixed addictions, for
 example sugar and [[caffeine]], are more common. Some addicts use diet pills

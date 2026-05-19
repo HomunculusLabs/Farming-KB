@@ -14,6 +14,7 @@ updated: 2026-04-28
 sources:
   - Guzmán, G. (1983). "The genus Psilocybe: A systematic revision of the known species including the history, distribution and chemistry of the hallucinogenic species." Beihefte zur Nova Hedwigia, 74: 1-439.
   - Guzmán, G., et al. (2004). "A new bluing species of [[ethnomycology-cultural-significance-sacred-fungi]], *P. oaxacensis* remains poorly documented in the mycological literature relative to better-known species like *P. cubensis* and *P. mexicana*.
+---
 
 ## Taxonomy and Morphology
 

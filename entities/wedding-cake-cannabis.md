@@ -18,6 +18,7 @@ sources:
   - Leafly Strain Database. https://www.leafly.com/strains/wedding-cake
   - AllBud. https://www.allbud.com/marijuana-strains/hybrid/wedding-cake
   - Mudge, E. et al. (2018). "Cannabinoid and cannabis-terpene-profiles of popular [[cannabis-terpene-profile]] inherited from its Cookies family ancestry.
+---
 
 Also known as **Triangle Mints #23**, Wedding Cake has become one of the most commercially successful cannabis strains of the 2020s. It is widely available in both medical and recreational markets across North America and Europe, and has served as a parent or grandparent to numerous derivative cultivars including *Ice Cream Cake*, *Jungle Cake*, and *Birthday Cake*.
 

@@ -17,6 +17,7 @@ sources:
     Conservation Service.
   - Godfrey, R.K. & Wooten, J.W. (1979). "permaculture-plants-aquatic-and-wetland-species Plants of
     Southeastern [[psilocybin-north-america-pacific-northwest]].
+---
 
 Its dense root systems stabilize substrates in littoral zones, making it
 valuable for [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].

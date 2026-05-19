@@ -8,6 +8,7 @@ tags:
   - [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]]
 pests. Their rapid reproduction and ability to vector viruses
 make them a serious threat to any garden.
+---
 
 ## Identification
 

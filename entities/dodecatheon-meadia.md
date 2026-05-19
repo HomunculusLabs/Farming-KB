@@ -13,6 +13,7 @@ sources:
   - Thompson, R.H. (1953). "The Biosystematics of Dodecatheon." Contributions from the Dudley Herbarium.
   - Great Plains Flora Association (1986). "Flora of the Great Plains." University Press of Kansas.
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern [[guzman-psilocybin-mushrooms-north-america]], where it grows in open woodlands, prairies, and rocky slopes.
+---
 
 The species is among the most distinctive and beloved spring wildflowers of the [[coleman-overwintered-onions-and-early-spring-crops]] bloom make it a valued component of native plant landscapes.
 

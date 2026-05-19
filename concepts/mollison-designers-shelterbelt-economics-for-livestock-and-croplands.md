@@ -5,6 +5,7 @@ tags:
   - [[cervantes-wind-protection-outdoor-cannabis]] for crops such as kiwifruit and
 avocado, giving the greatest increases in yield while reducing wind
 damage to fruit and leaf.
+---
 
 Specific [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] or good mulch potential from leaves and
   trimmings

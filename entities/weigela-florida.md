@@ -17,6 +17,7 @@ sources:
   - Krüssmann, G. (1984). Manual [[classification-of-cultivated-mushroom-species]] Broad-Leaved [[neurotropic-fungi-japan-east-asia-species-cultural-context]], belonging to
 the honeysuckle family. It is one of the most widely planted ornamental shrubs
 [[query-how-to-grow-and-use-oca-in-temperate-climates]] gardens worldwide.
+---
 
 The species is renowned for its prolific tubular flowers, which range in color
 from soft pink to deep crimson depending on the cultivar. Blooming occurs in

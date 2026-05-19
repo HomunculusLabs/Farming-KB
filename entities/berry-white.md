@@ -13,6 +13,7 @@ sources:
   - AllBud. "Berry White Weed Strain." www.allbud.com.
   - "Strainbank Genetics Database." www.strainbank.com.
   - Mudge EM, Murch SJ (2020). "Cannabinoid and cannabis-terpene-profiles-sativa of Commercial [[green-cannabis-grow-bible-nutrient-management-ppm]]. Its flowering time of 8–9 weeks and respectable yields make it accessible to experienced home growers.
+---
 
 ## Lineage and Genetics
 

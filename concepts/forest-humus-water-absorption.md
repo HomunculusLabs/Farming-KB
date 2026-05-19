@@ -6,6 +6,7 @@ source: [[forest-water-interaction-and-soil-storage|storage and management syste
          → Bedrock / Deep Roots (40m+ penetration, slow recharge)
          → Streams & Aquifers (1–40 year percolation lag)
 ```
+---
 
 Each stage transforms the water — chemically, physically, and biologically — before it moves deeper into the soil profile.
 

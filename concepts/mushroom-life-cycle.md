@@ -13,6 +13,7 @@ their appearance remain fascinating even to the most experienced mycologists.
 The cycle progresses through several distinct phases: spore release,
 germination, [[growing-gourmet-primordia-formation-pinning]], fruiting body
 development, and spore production.
+---
 
 ## Spore Release and Dispersal
 

@@ -15,6 +15,7 @@ sources:
   - Minore, D. (1972). "The Wild Huckleberries of Oregon and Washington: A [[ghouled-field-guide-historical-context]]." USDA Forest Service Research Paper PNW-143.
   - Pitcher, D. & McKern, J. (1998). "Vaccinium deliciosum: Taxonomy, distribution, and ecology." Madroño, 45(3), 187-194.
   - Höerdemann, M.L. (2018). "Huckleberries of the [[guzman-psilocybin-mushrooms-north-america]]. It is closely related to and frequently confused with V. membranaceum, but differs in leaf texture, berry color, and habitat preference.
+---
 
 The species produces sweet, flavorful berries ranging from blue to dark purple. The specific epithet "deliciosum" reflects the exceptional palatability of the fruit, which is considered among the finest huckleberries and wild berries of [[huckleberries-and-wild-berries-of-north-america]] in the Pacific Northwest.
 

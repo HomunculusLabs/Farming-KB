@@ -8,6 +8,7 @@ of soil [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontro
 insights. His work demonstrates that careful, patient observation of
 natural systems can yield understanding that formal scientific
 methodology, when applied reductively, may miss entirely.
+---
 
 ## Overview
 

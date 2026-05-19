@@ -25,6 +25,7 @@ sources:
   - "Isopulegol." PubChem Compound Summary. pubchem.ncbi.nlm.nih.gov.
   - Kamatou GPP, Viljoen AM (2008). "A Review of the Application and lsd-discovery-aftermath-pharmacological-properties of *Agathosma betulina*." Journal of Ethnopharmacology 119(3): 421–430.
 created: 2026-04-28---
+---
 
 ## Overview
 

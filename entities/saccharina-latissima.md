@@ -14,6 +14,7 @@ updated: 2026-05-08
 sources:
   - "Bartsch, I. et al. (2008). \"The genus Laminaria s.l.\" In: Biology of Seaweeds. Springer."
   - "Kerrison, P.D. et al. (2015). \"SACCHARINA: New crops for [[soil-temperature-plant-growth-rate-doubling-rule]], nutritional value, and industrial polysaccharide content.
+---
 
 The species forms a single elongated blade 1–5 m in length with a distinctive wavy or ruffled margin. The common name derives from the white, sweet-tasting mannitol deposits that appear on drying fronds.
 

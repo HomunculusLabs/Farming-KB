@@ -5,6 +5,7 @@ tags:
   - rubiaceae
   - food-crop
   - [[fungal-biodiversity-tropical-forests]] of Central and West Africa.
+---
 
 It is the second most widely cultivated coffee species in the world after [[biodiversity-fungal-genetic-diversity]] is in the Democratic Republic of the Congo, Uganda, and Cameroon.
 

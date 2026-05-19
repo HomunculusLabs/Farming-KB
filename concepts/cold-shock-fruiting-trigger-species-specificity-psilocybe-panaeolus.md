@@ -11,6 +11,7 @@ before transfer to [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-amer
 - ***[[fruiting-chamber]]
 - [[cold-shock-fruiting-selectivity-psilocybe-species]]
 - [[species-specific-cold-shock-response-psilocybe]]
+---
 
 ## Overview
 

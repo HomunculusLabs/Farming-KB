@@ -15,6 +15,7 @@ sources:
   - Smith, S.G. (1987). "Typhaceae." In: Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 22, pp. 199-210. Oxford University Press.
   - Dykyjová, D. & Kvet, J. (1978). "Productivity of Typha angustifolia L. stands." In: Dykyjová, D. & Kvet, J. (eds.), Pond Littoral Ecosystems, pp. 225-239. Springer.
   - Apahidean, A.I. et al. (2014). "Heavy metal phytoremediation potential of Typha angustifolia and Typha latifolia." Notulae Botanicae Horti Agrobotanici Cluj-Napoca, 42(2), 388-394.---
+---
 
 ## Typha angustifolia
 

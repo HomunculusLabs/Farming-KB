@@ -8,6 +8,7 @@ generating three times more revenue than any other single crop at the
 farm stand. The greenhouse provides essential protection in the cool
 Maine coastal climate, where outdoor tomatoes do not begin ripening
 until early August.
+---
 
 Coleman considers three crops most economically significant for
 [[soil-moisture-management-and-root-growth]]. Seeds germinate in mini-blocks on heat

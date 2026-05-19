@@ -9,6 +9,7 @@ tags:
   - food-of-the-gods
   - [[fukuoka-america-revisited-agricultural-revolution]] into a coherent narrative about how language
 arose, who possessed it, and what its emergence cost humanity.
+---
 
 ## The Hunter Versus the Gatherer
 

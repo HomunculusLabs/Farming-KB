@@ -4,7 +4,6 @@ tags:
   - concept
 ---
 
----
 created: 2026-05-08
 source: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 tags: [fungal-predation, soil-bacteria, nitrogen-acquisition, mycology, soil-ecology, antibiotics, nematode-trapping, bacterial-predators]

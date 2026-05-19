@@ -11,6 +11,7 @@ updated: 2026-05-09
 sources:
   - Bassett, I.J. & Munro, D.B. (1986). "The biology of Canadian weeds. 73. Solanum carolinense L." Canadian Journal of Plant Science, 66(4), 977-991.
   - Cipollini, D.F. et al. (2008). "The potential for [[guzman-psilocybin-mushrooms-north-america]] as an aggressive agricultural weed.
+---
 
 The plant is notable for its sharp spines, yellow berries, and high toxicity due to solanine glycoalkaloids. All parts of the plant are poisonous to livestock and humans if ingested.
 

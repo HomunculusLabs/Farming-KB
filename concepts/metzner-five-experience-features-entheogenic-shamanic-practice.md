@@ -4,6 +4,7 @@ source: "[[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] and Plants in 
 experiences of shamanistic indigenous societies with [[shamanic-healing-modalities-extraction-soul-retrieval-dismemberment]] — drumming, vision questing, conscious dreaming — confirming
 that they are properties of the shamanic state of consciousness rather
 than pharmacological artifacts of any particular substance.
+---
 
 ## Feature One: The Central Role of the Guide
 

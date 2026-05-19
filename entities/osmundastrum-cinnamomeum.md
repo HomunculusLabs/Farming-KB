@@ -13,6 +13,7 @@ sources:
   - Metzgar, J.S. et al. (2008). "The resurrection of Osmundastrum." American Fern Journal, 98(3), 104–115.
   - Yatskievych, G. (1999). "Steyermark's Flora of Missouri." Vol. 1. Missouri Botanical Garden Press.
   - Flora [[polypore-fungi-eastern-north-america]], Central and [[osmunda-cinnamomea]]* by Linnaeus in 1753. Presl transferred it to *Osmundastrum* in 1848, but it remained in *Osmunda* for most of the 20th century. Molecular studies by Metzgar et al. (2008) confirmed its placement in a separate genus.
+---
 
 The genus *Osmundastrum* is monotypic, containing only this single species. It is the oldest living lineage of leptosporangiate ferns, with a fossil record extending back to the Triassic period, over 200 million years ago. Fossil osmundaceous material attributed to *Osmundastrum* has been found on every continent except Antarctica.
 

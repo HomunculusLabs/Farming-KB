@@ -13,6 +13,7 @@ updated: 2026-05-08
 sources:
   - Gruen, M. (2014). "Jasmine: The genus Jasminum." In Medicinal and Aromatic Plants – Industrial Profiles, CRC Press.
   - Shukla, A. et al. (2008). "[[permaculture-designers-manual-essential-oil-plants]] composition of Jasminum grandiflorum." Journal of [[entheogenic-folk-religious-ceremonies]], wedding garlands, and traditional medicine.
+---
 
 ## Taxonomy and Morphology
 

@@ -17,6 +17,7 @@ sources:
 - **Season:** Late summer to late autumn (August–November in the Northern Hemisphere); fruiting triggered by cool, moist conditions
 - **Frequency:** Occasional to locally common; can be found in the same locations year after year in suitable habitat
 - **Sclerotia:** Forms small, dark, hard sclerotia (tubercles) at the base of the stem or in the substrate — a notable feature of the species
+---
 
 ## Phytochemistry
 

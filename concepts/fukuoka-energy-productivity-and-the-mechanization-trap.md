@@ -7,6 +7,7 @@ updated: 2026-04-28
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "The Natural Way of Farming, [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] is staggeringly inefficient. Fukuoka framed the rise of [[energy-efficiency-farming-systems-comparison]] across farming systems:
+---
 
 - **Natural farming**: produces approximately 130 pounds of rice, equivalent to roughly 200,000 kilocalories of food energy, per **man-day of labor** with no outside material inputs. This is roughly 100 times the daily caloric intake of a farmer on a natural diet.
 - **Traditional farming** (with draft animals): required approximately **ten times more energy input** per unit of food produced than natural farming.

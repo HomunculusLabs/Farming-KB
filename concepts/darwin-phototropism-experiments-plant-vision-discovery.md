@@ -13,6 +13,7 @@ associated with animal nervous systems. The Darwins were careful not to
 overstate the analogy, but the implication was clear: plants possess
 specialized sensory structures that detect environmental cues and trigger
 coordinated physiological responses.
+---
 
 ## Julius von Sachs and the Blue Light Discovery
 

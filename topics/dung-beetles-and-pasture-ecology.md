@@ -15,6 +15,7 @@ sources:
   - Dung Beetle Ecology by Ilkka Hanski
   - teaming-with-microbes-actinomycetes by Jeff Lowenfels
   - Soil Biology Primer by USDA NRCS---
+---
 
 ## Dung Beetles and Pasture Ecology
 

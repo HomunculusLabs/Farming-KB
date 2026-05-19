@@ -17,6 +17,7 @@ sources:
 - **Limonene** (~0.1–0.3%) — Citrus notes; mood elevation, stress relief
 - **Linalool** (trace) — Floral; anxiolytic, sedative properties
 - **Caryophyllene oxide** (trace) — Woody, spicy; may contribute to anti-fungal properties
+---
 
 The interplay between myrcene (sedating) and pinene (stimulating) is thought to contribute to Blue Dream's characteristically balanced effects.
 

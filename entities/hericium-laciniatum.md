@@ -14,6 +14,7 @@ sources:
   - Harrison, K.A. (1973). "The Genus Hericium in psilocybin-north-america-pacific-northwest." Michigan Botanist 12: 165-179.
   - Petersen, R.H. (1984). "Type Studies in the Hericiaceae." Mycotaxon 20: 379-388.
   - Kuo, M. (2023). "Hericium Species [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Hericiaceae. It produces cascading, branched fruiting bodies with long, slender spines hanging from a central core, resembling a waterfall of white icicles.
+---
 
 The species is closely related to and often confused with lion's mane ([[panax-ginseng]], including neuroprotective and immunomodulatory compounds shared with other Hericium species.
 

@@ -7,6 +7,7 @@ source:
   advantages over log culture including extended productive life, reduced labor,
   and [[ginseng-cultivation-and-medicinal-properties]]. Slow growth is well-matched
 to the extended productive life of stumps.
+---
 
 ## Preparation Methods
 

@@ -5,6 +5,7 @@ author: Terence McKenna
 topics: soma, [[shroom-cultural-history-western-discovery-valentina-wasson]] proposed that the ancient Vedic sacrament Soma was
 *Amanita muscaria* — the [[gartz-wasson-mexican-mushroom-cult-rediscovery]] cults in the
 1950s. Their magnum opus, *Soma: [[powell-shamanic-wisdom-and-ritual-practice]] and cultural memory.
+---
 
 ## See Also
 

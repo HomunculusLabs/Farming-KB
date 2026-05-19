@@ -8,6 +8,7 @@ continuously expose new surfaces bearing immature spores, allowing
 the mushroom to release spores over an extended period. Coprinus
 atramentarius grows in dense clusters on stumps, buried roots, and
 disturbed ground, frequently in urban and suburban settings.
+---
 
 ## Biochemical Mechanism
 

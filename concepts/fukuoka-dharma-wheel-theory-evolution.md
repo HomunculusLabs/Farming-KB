@@ -5,6 +5,7 @@ tags:
   - evolution
   - biology
   - [[masanobu-fukuoka]]'s alternative to Darwin's [[fukuoka-critique-darwinian-evolution]]:
+---
 
 ### The Problem of Superiority and Inferiority
 

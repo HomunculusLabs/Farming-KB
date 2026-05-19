@@ -1,6 +1,7 @@
 ---
 title: Chemical Studies Neurotropic Fungi Reliability and Challenges
 source: Guzmán, Allen & Gartz "Worldwide [[chemical-analysis-psilocybin-mushrooms]] of neurotropic fungi has produced a substantial body of literature since Albert Hofmann's isolation of psilocybin in 1958. However, the reliability of many published chemical studies has been seriously questioned by mycologists and chemists. Problems including species misidentification, mixed-species collections, specimen age and preservation, and the volatility of key alkaloids have introduced significant errors into the published record. Understanding these methodological challenges is essential for interpreting the chemical literature on [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] for additional discussion.
+---
 
 ## Species Misidentification
 

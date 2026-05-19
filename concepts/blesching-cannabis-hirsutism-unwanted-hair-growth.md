@@ -11,6 +11,7 @@ in the skin and its role in hair [[blesching-cannabis-hair-loss-alopecia]]
 (alopecia), where CB1 down-regulation stimulates hair growth. The
 bidirectional nature of CB1's effects on hair follicles makes it a unique
 therapeutic target:
+---
 
 - CB1 up-regulation suppresses unwanted hair growth (hirsutism)
 - CB1 down-regulation stimulates hair growth (addresses hair loss)

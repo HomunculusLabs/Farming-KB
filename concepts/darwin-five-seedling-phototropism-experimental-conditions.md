@@ -8,6 +8,7 @@ aliases:
 grass (*phalaris canariensis*) seedlings, the Darwins systematically tested how
 [[daniel-chamovitz]]'s *what a plant knows* (Chapter 1: What a Plant Sees), where they serve as a foundational example
 of how plants perceive and respond to light.
+---
 
 ## Historical Background
 

@@ -17,6 +17,7 @@ sources:
   - Appenroth, K.J. et al. (2017). "Recommendation of Guidelines for the Definition of Duckweed Species." Aquatic Botany, 140, 83-87.
   - Thanh, N.C. & Böhme, M. (2017). "Aquatic Plants for Food and Feed." Journal of Applied Phycology, 29, 2363-2374.
   - Xu, J. et al. (2011). "The Potential of Duckweed for [[psilocybe-semilanceata]] in tropical and subtropical regions. It is found across Africa, southern Europe, South and [[soil-temperature-plant-growth-rate-doubling-rule]] makes it one of the fastest-growing plants known.
+---
 
 ## Taxonomy and Morphology
 

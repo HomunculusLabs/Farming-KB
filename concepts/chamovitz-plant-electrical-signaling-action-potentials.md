@@ -9,6 +9,7 @@ plants to the slower systemic signals that coordinate defense responses
 across entire plant bodies. While these signals share superficial
 similarities with animal neuronal action potentials, they operate through
 fundamentally different mechanisms and serve different biological functions.
+---
 
 ## Action Potentials in Venus Flytrap
 

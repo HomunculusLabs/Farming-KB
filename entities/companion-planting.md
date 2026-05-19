@@ -15,6 +15,7 @@ sources:
   - "Hart, R. (1996). Forest Gardening. Green Books."
   - "Crawford, M. (2010). Creating a Forest Garden. Green Books."
   - "Caroline, M. (2014). [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], and increase overall crop yields. It is a foundational technique in permaculture, [[gaias-garden-keyhole-beds-and-mandala-gardens]] (Java, Indonesia)**: Circular garden designs incorporating diverse companion plantings for food security.
+---
 
 Modern scientific validation of these traditional systems began in the 1970s with the work of agroecologists like Miguel Altieri and Stephen Gliessman, who demonstrated measurable yield advantages and ecological benefits of intercropping and companion planting.
 

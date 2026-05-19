@@ -16,6 +16,7 @@ sources:
   - Francis, J.K. (1992). "Terminalia catappa L." SO-ITF-SM-52. USDA Forest Service, Institute of Tropical Forestry.
   - Elevitch, C.R. (2006). "Terminalia catappa (tropical almond)." Species Profiles for Pacific Island Agroforestry.
   - Chandrasekaran, M. & Senthilkumar, A. (2013). "Terminalia catappa: a [[mollison-designers-legume-shade-tree-pasture-systems]], ornamental, and agroforestry species.
+---
 
 The tree produces edible almond-flavored seeds that are commercially harvested in many tropical countries. Its broad, symmetrical canopy and [[psilocybe-southeast-asia-pacific]] and the [[guzman-psilocybin-mushrooms-south-america]], Hawaii, and much of Polynesia.
 

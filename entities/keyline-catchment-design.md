@@ -61,21 +61,20 @@ The systems thinking approach that underlies these concepts emphasizes feedback 
 
 The interdisciplinary nature of these topics means that insights from one domain often prove valuable in others. Cross-pollination of ideas between ecology, agriculture, design, and community development continues to drive innovation.
 
-The interdisciplinary nature of these topics means that insights from one domain often prove valuable in others. Cross-pollination of ideas between ecology, agriculture, design, and community development continues to drive innovation.
-
-The interdisciplinary nature of these topics means that insights from one domain often prove valuable in others. Cross-pollination of ideas between ecology, agriculture, design, and community development continues to drive innovation.
-
-The interdisciplinary nature of these topics means that insights from one domain often prove valuable in others. Cross-pollination of ideas between ecology, agriculture, design, and community development continues to drive innovation.
-
-The interdisciplinary nature of these topics means that insights from one domain often prove valuable in others. Cross-pollination of ideas between ecology, agriculture, design, and community development continues to drive innovation.
-
-The interdisciplinary nature of these topics means that insights from one domain often prove valuable in others. Cross-pollination of ideas between ecology, agriculture, design, and community development continues to drive innovation.
-
-The interdisciplinary nature of these topics means that insights from one domain often prove valuable in others. Cross-pollination of ideas between ecology, agriculture, design, and community development continues to drive innovation.
-
 ## See Also
 - [[permaculture]]
 - [[permaculture-water-harvesting]]
 - [[tompkins-soil-health-humus-connection]]
 - [[david-holmgren]]
 - [[p-a-yeomans]]
+
+## Design Considerations
+
+Keyline design requires accurate topographic mapping to identify the primary and secondary ridgelines and valleys that determine water flow patterns across the landscape.
+The keyline point, where the primary valley floor transitions from convex to concave, determines the elevation for the main water channel that distributes runoff to ridges.
+Contour ripping along keyline parallels (gently off-contour lines sloping toward ridges) directs water from valleys to drier ridge areas, improving moisture distribution.
+
+## Applications in Permaculture
+
+Keyline patterning integrates with swale systems, dam construction, and rotational grazing to create comprehensive water management strategies at farm scale.
+The approach is particularly effective on broadacre properties where large-scale water redistribution can significantly improve pasture productivity and drought resilience.

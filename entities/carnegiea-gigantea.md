@@ -13,6 +13,7 @@ sources:
   - Drezner, T.D. (2014). "The saguaro cactus: A review of its ecology, paleoecology, and ethnobotany." Journal of the Arizona-Nevada Academy of Science, 46(1), 30-46.
   - Steenbergh, W.F. & Lowe, C.H. (1983). Ecology of the Saguaro: II. National Park Service Scientific Monograph Series No. 17.
   - Benson, L. (1982). The Cacti of the [[dmt-maoi-plants-united-states]] and an iconic symbol of the Sonoran Desert. These massive columnar cacti can reach heights exceeding 12 meters and live for 150 to 200 years.
+---
 
 The saguaro is a keystone species of the Sonoran Desert ecosystem, providing critical nesting habitat, food, and shelter for dozens of animal species. Its striking silhouette has become emblematic of the American Southwest in art, film, and popular culture.
 

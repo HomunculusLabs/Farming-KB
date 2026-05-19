@@ -14,6 +14,7 @@ sources:
   - Galeano, G. & Bernal, R. (2005). "Palmas de Colombia: Guía de Campo." Instituto de Ciencias Naturales, Universidad Nacional de Colombia.
   - Borchsenius, F., Borgtoft-Pedersen, H., & Baslev, H. (1998). "Manual to the Palms of Ecuador." AAU Reports 37, University of Aarhus.
   - Henderson, A., Galeano, G., & Bernal, R. (1995). "[[amanita-muscaria]].
+---
 
 The species is classified as Endangered on the IUCN Red List due to habitat destruction, overharvesting of young leaves for Palm Sunday observances, and the [[cannabis-seed-germination]] is slow and irregular, often requiring 6 to 12 months under humid conditions. Pre-germination treatments including warm water soaking and removal of the fleshy pericarp have been shown to improve germination rates modestly.
 

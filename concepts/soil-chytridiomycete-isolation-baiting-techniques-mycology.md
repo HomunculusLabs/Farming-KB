@@ -5,6 +5,7 @@ column. By introducing suitable bait materials — substrates that chytrids can
 colonize and digest — researchers can selectively attract zoospores to
 localized surfaces where they encyst, germinate, and establish visible colonies.
 This baiting approach is the foundation of chytrid isolation from soil.
+---
 
 ## Substrate Utilization and Bait Selection
 

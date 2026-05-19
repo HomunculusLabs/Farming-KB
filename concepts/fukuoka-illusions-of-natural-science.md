@@ -3,6 +3,7 @@ title: Fukuoka's fukuoka-critique-of-scientific-agriculture Agriculture and the 
 source: administrator-microsoft-word-fukuoka-textdoc.md
 author: Masanobu Fukuoka
 topics: [[lowenfels-nutrients-soil-chemistry-ph-cec]], pest population, crop genetics — and attempts to optimize it independently of all others is, in Fukuoka's view, engaged in a futile exercise. The farmer who understands the whole field as a single living process will achieve better results than the scientist who understands every chemical component of the soil but nothing about the field as a whole.
+---
 
 ## The Limits of Human Knowledge
 

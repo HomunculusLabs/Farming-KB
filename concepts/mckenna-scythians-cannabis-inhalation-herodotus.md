@@ -4,6 +4,7 @@ source: mckenna_t-food_of_the_gods.md
 author: [[mckenna-scythian-cannabis-ritual-smoke-bath-herodotus]] use. The comparison to [[hashish]]
 and tobacco. How long chelums have been used in India is debated, but
 the method is extremely effective.
+---
 
 The Scythian kurgan burials have yielded actual cannabis residues and
 burning implements, confirming that Herodotus's descriptions were based

@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Magnusson, B. & Magnússon, S.H. (2009). "Lupinus nootkatensis in Iceland: A review of its ecology and impact." Flora Nordica, 12, 45-62.
   - Ljaža, A. et al. (2022). "The role of Lupinus nootkatensis in [[psilocybin-north-america-pacific-northwest]].
+---
 
 The species is best known for its controversial introduction to Iceland beginning in 1945, where it was planted extensively [[biodiversity-of-fungi-ecosystem-services-agriculture]] including [[fukuoka-desert-reclamation-projects]] in cold, dry, and windy environments.
 

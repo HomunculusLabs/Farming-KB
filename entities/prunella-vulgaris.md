@@ -24,6 +24,7 @@ sources:
   - Psotova, J. et al. (2003). "Biologically active compounds from Prunella vulgaris." Fitoterapia 74(7–8): 641–644.
   - Nam, M.H. et al. (2017). "[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of
 Europe, Asia, Africa, and [[cannabis-for-inflammatory-conditions]].
+---
 
 The genus name *Prunella* likely derives from the German *Brunelle* (quinsy),
 referring to its traditional use for throat ailments. The common name "self-heal"

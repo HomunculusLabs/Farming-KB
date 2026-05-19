@@ -13,6 +13,7 @@ sources:
   - Fedorov A (1976). "Campanula L." In: Flora Europaea, Vol. 4. Cambridge University Press.
   - Royal Horticultural Society (2023). "Campanula portenschlagiana." RHS Plant Finder.
   - Kovanda M (1970). "Polyploidy and Variation in the [[campanula-poscharskyana]] in the "garganica group." It is a tetraploid (2n = 68) while C. garganica is diploid, supporting their separation as distinct species despite horticultural confusion.
+---
 
 **Morphology:**
 - Height: 5–15 cm, spreading to 50 cm or more

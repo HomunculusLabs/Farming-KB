@@ -13,6 +13,7 @@ sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest, Volume 2." USDA Forest Service.
   - de Tredici, P. (2001). "Dendrology: The study of woody plants." Arnoldia, 61(2), 2–16.
   - Braatne, J.H., Rood, S.B. & Heilman, P.E. (1996). "Life history, ecology, and conservation of riparian cottonwoods in [[polypore-fungi-eastern-north-america]] America, providing early nectar for awakening pollinators. Its abundant [[maple-syrup-production]] from silver maple is possible but requires roughly twice the sap volume for equivalent yield.
+---
 
 Mature silver maples typically reach 20 to 30 meters in height, with exceptionally large specimens exceeding 35 meters. The crown is broad and open, with spreading branches that develop a graceful, weeping habit in old age.
 

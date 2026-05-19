@@ -9,6 +9,7 @@ at 0 degrees C to form the 3-glyoxalyl-4-acetylindole intermediate
 (compound 5). After stirring for 15 minutes, n-hexane is added and the
 reaction flask is stored in a freezer overnight. The product precipitates
 as yellow crystals, which are separated by filtration.
+---
 
 This electrophilic substitution at the 3-position of the indole ring is
 facilitated by the electron-rich nature of the indole system. The oxalyl

@@ -13,6 +13,7 @@ sources:
   - Lock, G.W. (1962). "Sisal: Twenty-five Years' Sisal Research in East Africa." Longman.
   - FAO (2021). "FAOSTAT: Fibres of Vegetable Origin — Sisal." Food and Agriculture Organization.
   - Gibson, A.C. (2002). "Agaves of Continental [[agave-americana]].
+---
 
 The leaf color ranges from dark green to grayish-green, with a waxy cuticle that reduces water loss. The leaf cross-section reveals numerous fiber bundles embedded in the parenchymatous tissue. These fibers run longitudinally through the leaf and are extracted by a process called decortication.
 

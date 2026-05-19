@@ -15,6 +15,7 @@ sources:
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. 2nd ed. New York Botanical Garden.
   - USDA NRCS. (2024). "Gleditsia aquatica." PLANTS Database. https://plants.usda.gov/home/plantProfile?symbol=GLAQ
   - Godfrey, R.K. & Wooten, J.W. (1981). [[gleditsia-triacanthos]]*) but is distinguished by its preference for wetland habitats and its smaller, less formidable thorns. Water locust is found along riverbanks, swamps, and floodplain forests.
+---
 
 Water locust typically reaches heights of 9–15 meters, with a spreading crown and often leaning or leaning habit when growing in frequently flooded sites. It is a moderately fast-growing tree with strong wood.
 

@@ -16,6 +16,7 @@ sources:
   - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists." 2nd ed. Timber Press.
   - USDA NRCS. "Aconitum columbianum Nutt. — Columbian monkshood." PLANTS Database.
   - Mead, J.W. (1972). "The [[aconitum-napellus]].
+---
 
 The distinctive helmet-shaped blue to purple flowers make it recognizable in montane and subalpine meadows throughout its range.
 

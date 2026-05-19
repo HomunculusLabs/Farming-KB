@@ -16,6 +16,7 @@ sources:
   - Fraser, C.I. et al. (2012). "Rafting by bull kelp." Journal of the Royal Society of New Zealand, 42, 1-12.
   - Collantes, G. et al. (2002). "Studies in the genus Durvillaea." Gayana Botánica, 59, 53-58.
   - Bischoff-Bäsmann, B. & Wiencke, C. (1996). "[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], forming extensive beds along the coasts of Chile, New Zealand, and subantarctic islands.
+---
 
 The species is remarkable for its buoyant, honeycomb-filled fronds and its role in long-distance rafting dispersal. It is culturally significant as a traditional food source for Māori and Mapuche peoples and is commercially harvested in Chile.
 

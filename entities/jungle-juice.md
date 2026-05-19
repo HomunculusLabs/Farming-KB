@@ -15,6 +15,7 @@ sources:
   - AllBud. "Jungle Juice Weed Strain Information." allbud.com.
   - Weedmaps. "Jungle Juice blesching-cannabis-strain-selection-receptor-targeting." weedmaps.com.
   - MJBizDaily. "2024 [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain renowned for its intensely tropical aroma and deeply relaxing effects. The strain is believed to be a cross of **White Widow** and an unknown Afghani indica, though some phenotypic variants suggest additional tropical-lineage genetics.
+---
 
 It has gained a dedicated following among recreational users for its smooth onset and body-heavy sedation, while medical patients value it for evening [[cannabis-glandular-trichome-types-resin-production-clarke]] and balanced potency.
 - **Afghani landrace** — contributing dense bud structure, heavy body effects, and shortened [[cannabis-terpene-profile]], possibly a Thai or Hawaiian sativa, though this has not been genetically verified. The indica dominance is typically reported at 65–70%.

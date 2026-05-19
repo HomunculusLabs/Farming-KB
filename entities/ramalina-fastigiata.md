@@ -15,6 +15,7 @@ sources:
   - Nimis, P.L. & Martellos, S. (2008). "ITALIC - The Information System on Italian [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Seaward, M.R.D. (2010). "Ramalina." In: Nash III, T.H. et al. (eds), [[cervantes-air-quality-ventilation]] and is
 used in lichen diversity surveys across Europe.
+---
 
 ## Taxonomy and Morphology
 

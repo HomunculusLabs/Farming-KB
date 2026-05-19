@@ -16,6 +16,7 @@ sources:
   - Mollison B, Holmgren D. "Permaculture One." Transworld Publishers. 1978.
   - Yeomans PA. "Water for Every Farm." K.G. Murray Publishing. 1954.
   - Lancaster B. "[[regenerative-agriculture]] design. By transforming destructive erosion flows into beneficial infiltration, swales simultaneously address water scarcity, soil degradation, desertification, and food production challenges.
+---
 
 ## Core Principles
 

@@ -19,6 +19,7 @@ synopsis: >-
   exude organic acids to dissolve minerals, filter toxic metals, and
   redistribute carbon and nutrients through mycelial networks,
   fundamentally shaping soil chemistry and [[mycorrhizal-fungi]] Biogeochemistry
+---
 
 ## Overview
 

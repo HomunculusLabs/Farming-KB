@@ -20,6 +20,7 @@ sources:
   - Imbert, C. (1998). "Discovering podophyllotoxins." Biochimie, 80(3), 207-222.
   - Moerman, D.E. (1998). halpern-sacramental-peyote-and-native-american-church Ethnobotany. Timber Press.
   - Lloyd, J.U. (1924). "Podophyllum peltatum." Bulletin of the [[lloyd-library]]|[[polypore-fungi-eastern-north-america]] America. It is the primary natural source of podophyllotoxin, a lignan compound used in the semi-synthesis of the anticancer drugs etoposide and teniposide.
+---
 
 The species is immediately recognizable by its single large, umbrella-like leaf (two leaves in mature, fruiting plants) and the single waxy white flower that nodds beneath the leaf canopy. The common name "mayapple" reflects its emergence in spring and the apple-like fruit that ripens in late summer.
 

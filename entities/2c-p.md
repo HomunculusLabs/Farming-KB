@@ -14,6 +14,7 @@ sources:
   - Ray, T.S. (2010). "Psychoactive shulgin-designer-drugs-analysis: The '2C' Family." Drug Enforcement Administration Microgram Journal 8(1): 1–10.
   - Dean, B.V. et al. (2013). "2C Phenethylamines and NBOMe Compounds." American Journal of Health-System Pharmacy 70(23): 2111–2117.
   - EMCDDA. (2014). "Europol-EMCDDA Report on New [[alexander-shulgin]]. It is entry #26 in PIHKAL (*Phenethylamines I Have Known and Loved*), published in 1991.
+---
 
 The compound is distinguished among the 2C series by its exceptionally long duration of action — typically 10–16 hours — and its high potency, with active doses ranging from 6–12 mg. These characteristics make 2C-P one of the longest-lasting and most potent members of the 2C family.
 

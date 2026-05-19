@@ -18,6 +18,7 @@ sources:
   (or according to stereochemical conventions for ergopeptines)
 - **Solubility:** Sparingly soluble in water; soluble in chloroform,
   ethanol, and dilute acetic acid
+---
 
 The distinguishing feature among the four principal ergopeptines is the
 first amino acid in the tripeptide moiety:

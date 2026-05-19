@@ -15,6 +15,7 @@ sources:
   - Okafor, J.C. (1975). "Varietal delimitation in Irvingia gabonensis." Nigerian Journal of Forestry, 5(1), 34-37.
   - Ngondi, J.L. et al. (2005). "Irvingia gabonensis extract affects body weight and metabolic parameters." Lipids in Health and Disease, 4, 12.
   - Atawodi, S.E. et al. (2009). "[[fungal-biodiversity-tropical-forests]] of West and Central Africa. It is commonly known as African mango, bush mango, wild mango, or ogbono.
+---
 
 The species produces edible fruits with sweet, fibrous mesocarp and large seeds that are widely used as a thickening agent in West African soups and stews. The kernels, traded commercially as ogbono or dika nuts, are a significant source of dietary fat and protein.
 

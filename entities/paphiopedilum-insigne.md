@@ -12,6 +12,7 @@ updated: 2026-05-10
 sources:
   - Cribb PJ (1998). "The Genus Paphiopedilum." 2nd ed. Natural History Publications, Kota Kinabalu.
   - Koopowitz H (2000). "A [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]], surviving temperatures near freezing that would kill most tropical *Paphiopedilum* species.
+---
 
 ## Taxonomy and Morphology
 

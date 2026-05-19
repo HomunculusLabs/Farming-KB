@@ -16,6 +16,7 @@ sources:
   - Yoon, Y.H. et al. (2014). "Distribution of Sargassum horneri in Korean Waters." Algae 29(1): 13–20.
   - Komatsu, T. et al. (2014). "Sargassum horneri Invasion in the Northeast Pacific." Coastal Management 42(1): 1–13.
   - Li, R. et al. (2020). "[[sargassum]] horneri** (devil weed, wireweed, horneri sargassum) is a large brown macroalga in the family Sargassaceae, order Fucales.
+---
 
 It is native to the northwest Pacific, occurring along the coasts of Japan, Korea, and China, where it forms extensive subtidal beds.
 

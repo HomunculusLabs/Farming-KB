@@ -21,6 +21,7 @@ sources:
   - "ElSohly, M.A., et al. (2016). Changes in green-cannabis-potency-maximizing over the last two decades. Biological Psychiatry, 79(7), 613-619."
   - "Mudge, E.M., et al. (2018). Cannabis sativa L. cultivar nomenclature. Journal of AOAC International, 101(5), 1436-1442."
   - "Hazekamp, A. & Fischedick, J.T. (2012). Cannabis — from cultivar to chemovar. Drug [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]** in modern [[african-landrace-sativa-modern-hybrids]] and remains one of the most widely available strains in coffee shops, dispensaries, and seed banks worldwide.
+---
 
 ## Lineage and Breeding History
 

@@ -13,6 +13,7 @@ further plant growth, and contributing to cloud formation and precipitation at r
 Remove the plants, and the feedback loop runs in reverse: less transpiration means less 
 atmospheric moisture, which means less rain, which means less vegetation—a self-reinforcing 
 cycle of desertification.
+---
 
 ## The Transpiration-Precipitation Feedback Loop
 

@@ -31,6 +31,7 @@ death_place: Boston, Massachusetts, [[plants-of-the-gods-overview-hallucinogenic
 - Marcel Breuer collaborated with him after also leaving Europe.
 - The Gropius House in Lincoln adapted modernist [[hallucinogenic-plants-native-to-united-states]] Embassy in Athens, with TAC.
 - University of Baghdad projects, with TAC involvement.
+---
 
 ## Overview
 

@@ -10,6 +10,7 @@ farmers from accessing farmland. Combined with soaring land
 prices driven by speculative zoning, the legal system
 effectively removes land from the hands of those who wish to
 work it.
+---
 
 ## The Vision of Farming for All
 

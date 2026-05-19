@@ -14,6 +14,7 @@ sources:
   - Ratsch, C. (2005). "The Encyclopedia of Psychoactive Plants." Park Street Press.
   - Schultes, R.E. & Hofmann, A. (1992). "Plants of the Gods." Healing Arts Press.
   - Bieri, S. et al. (2006). "[[erythroxylum-coca]]. It is one of the four cultivated coca species and the primary source of commercially harvested coca leaves in Colombia.
+---
 
 The species is distinguished from Erythroxylum coca by several morphological features including smaller, thinner leaves and differences in fruit shape. It is generally considered to have higher cocaine alkaloid content than Erythroxylum coca var. coca.
 

@@ -11,6 +11,7 @@ updated: 2026-05-09
 sources:
   - Isely, D. (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern, Volume 3, Leguminosae." University of north-carolina-mycodiversity Press.
   - Tucker, S.C. (2009). "Leguminosae (Fabaceae)." In: Flora [[robinia-pseudoacacia]]) but distinguished by its rose-pink flowers and densely bristly stems.
+---
 
 The species is valued as an ornamental for its showy floral display and has been widely planted outside its native range. In parts of the northeastern United States and beyond, it has escaped cultivation and become locally invasive.
 

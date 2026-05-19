@@ -15,6 +15,7 @@ sources:
   - Dransfield J., Uhl N.W. et al. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
   - IUCN Red List (2020). "Brahea edulis."
   - Henderson A., Galeano G., Bernal R. (1995). "[[brahea-armata]].
+---
 
 **Inflorescence:** Interfoliar, erect, 1.0 to 1.5 meters long, branching to
 two or three orders. Flowers small, cream to yellowish, male and female on

@@ -22,6 +22,7 @@ sources:
   - Pedraza-Chaverri, J. et al. (2008). "[[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]." HortScience, 41(7), 1602–1607.
   - Martin, F.W. (1980). "Durian and mangosteen." In: Tropical and Subtropical Fruits. AVI Publishing.
   - Osman, A. & Milan, A.R. (2006). Production Practices and [[psilocybe-southeast-asia-pacific]].
+---
 
 The species is believed to have originated in the Sunda Islands and the Moluccas of Indonesia. It has been cultivated throughout Southeast Asia for centuries and was introduced to tropical America and Australia in more recent times.
 

@@ -17,6 +17,7 @@ sources:
   - https://www.mycobank.org/
   - https://www.firstnature.com/fungi/lepista-nuda.php
   - Mushrooms Demystified, [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere and is one of the most recognizable late-season [[clitocybe-nuda]]*, reflecting ongoing taxonomic revision within the Tricholomataceae complex.
+---
 
 ## Description
 

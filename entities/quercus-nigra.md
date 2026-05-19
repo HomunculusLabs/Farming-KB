@@ -14,6 +14,7 @@ sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics huckleberries-and-wild-berries-of-north-america, Vol. 2: Hardwoods." USDA Forest Service.
   - Stein, J. et al. (2003). "Native Trees of the Midwest." Purdue University Press.
   - Nixon, K.C. (2021). "Quercus nigra." Flora of [[hemenway-backyard-wildlife-habitat]].
+---
 
 Water oak is a pioneer species on disturbed bottomland sites, often establishing rapidly after agricultural abandonment or timber harvest. Its ability to produce abundant acorns at a young age makes it a critical early-successional food source for wildlife.
 

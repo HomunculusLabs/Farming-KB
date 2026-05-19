@@ -8,6 +8,7 @@ prevents premature germination before conditions are favorable, and allows for t
 distribution of seeds over large areas without the need for plowing, tilling, or individual
 planting. The technique is central to Fukuoka's system of no-tillage [[clay-seed-pellet-production-method-concrete-mixer]]
 can be used to mechanize the process.
+---
 
 Fukuoka emphasized that the clay used for the pellets should be relatively pure and not
 overly rich in topsoil. If the pellets crumble too early in the spring, the seed inside will

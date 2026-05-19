@@ -16,6 +16,7 @@ sources:
   - Hegwood, D.A. (1990). "The wild grapes of Texas." Proceedings of the Texas Grape Growers Association, 19, 20-33.
   - Millardet, P.M.A. (1889). "Le mildiou et le black-rot des vignes." Annales de l'École Nationale d'Agriculture de Montpellier, 11, 181-220.
   - Wan, Y. et al. (2007). "The genome of [[dmt-containing-plants-united-states-halpern]], commonly known as the rock grape, sand grape, or mountain grape.
+---
 
 It is one of the most commercially significant [[dmt-maoi-plants-united-states]], with a range extending from Missouri and Kansas south through Oklahoma, Texas, Arkansas, and Louisiana.
 

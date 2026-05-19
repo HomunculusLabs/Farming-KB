@@ -15,6 +15,7 @@ sources:
   - Luceño, M. & Jiménez-Mejías, P. (2008). "Systematics and evolution of Carex section Sylvaticae." *Botanical Review* 74: 1-30.
   - psilocybe-genus-global-biodiversity Information Facility (GBIF). *Carex remota L.* https://www.gbif.org/species/2723185
   - Ellenberg, H. (1988). *Vegetation Ecology of Central Europe*. Cambridge University Press.---
+---
 
 ## Overview
 

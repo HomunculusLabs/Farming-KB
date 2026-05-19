@@ -14,6 +14,7 @@ sources:
   - WCSP (2024). "World Checklist of Selected Plant Families." Royal Botanic Gardens, Kew.
   - Smith N.M. (2002). "Weeds of the Wet/Dry Tropics of Australia." Environment Centre NT.
   - Richardson F.J. et al. (2006). "Weeds of the South-East." CRC [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], with major centers of diversity in southern Africa and Australasia. Australian *Wahlenbergia* species are characterized by their often narrow, linear leaves and small, open corollas.
+---
 
 The plant grows 20–60 cm tall from a thickened, often tuberous rootstock. Stems are slender, erect, branching above, and typically glabrous or sparsely hairy.
 

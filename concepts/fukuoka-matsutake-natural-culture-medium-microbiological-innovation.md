@@ -10,6 +10,7 @@ format: epub
 chars: 272157
 tags: [fukuoka, matsutake, mycology, culture-medium, mycorrhiza, fungi, natural-farming, microbiology, tricholoma-matsutake, mushroom-cultivation]
 aliases: [matsutake culture medium, fukuoka [[tricholoma-matsutake]]*) and other microorganisms. Developed as Appendix C of *Sowing Seeds in the Desert*, this medium achieves approximately ten times faster hyphal growth than the standard Hamada medium while producing dense, vigorous hyphae and enabling [[fukuoka-matsutake-artificial-cultivation-attempt]] has proven extraordinarily difficult for several reasons:
+---
 
 - **Isolation difficulty**: Pure isolation of hyphae is extremely challenging
 - **Slow growth**: Hyphae grow at rates that make practical cultivation nearly impossible

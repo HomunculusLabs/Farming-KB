@@ -6,6 +6,7 @@ tags:
   - [[comparison-sepp-holzer-vs-biodynamic]]'s approach to
 permaculture. Before any earthworks, planting, or [[desertification-causes-reversal]], and loss of
 biodiversity appear as logical consequences of human interference.
+---
 
 From above, one can see how land consolidation has emptied landscapes. Regions
 once covered with mixed forests are now bare monocultures. The humid habitats

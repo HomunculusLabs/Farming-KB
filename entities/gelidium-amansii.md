@@ -12,6 +12,7 @@ updated: 2026-05-08
 sources:
   - Armisen, R. & Galatas, F. (1987). "Production, properties and uses of agar." FAO Fisheries Technical Paper, 288, 1-57.
   - Santelices, B. & Doty, M.S. (1989). "A review of [[neurotropic-fungi-japan-east-asia-species-cultural-context]], where it has been used for centuries in traditional food preparation.
+---
 
 Agar extracted from *G. amansii* commands premium prices due to its superior gel strength compared to agar from Gracilaria species.
 

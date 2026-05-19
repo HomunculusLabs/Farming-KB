@@ -15,6 +15,7 @@ sources:
   - Soejarto, D.D. (1969). "Artocarpus heterophyllus: the jackfruit." Economic Botany, 23(4), 325-340.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:630757-1
 created: 2026-04-28---
+---
 
 ## Overview
 

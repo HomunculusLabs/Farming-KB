@@ -17,6 +17,7 @@ synonyms:
   - physician recommendation
   - Marinol [[cannabis-as-medicine-clinical-reference]] clinical reference, covering its history,
 pharmacology, qualifying conditions, and the regulatory landscape.
+---
 
 ## Historical Context
 

@@ -8,6 +8,7 @@ substance provides comfort without liberation, satiety without meaning, and
 pleasure without transformation. McKenna suggests that this is precisely why
 sugar was promoted and disseminated so aggressively by the forces of European
 colonial expansion.
+---
 
 ## Sugar and the Slave Trade
 

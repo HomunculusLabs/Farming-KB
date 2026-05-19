@@ -19,6 +19,7 @@ primarily for fiber, seed, and industrial applications rather than
 psychoactive [[jorge-cervantes]] provides key information
 about hemp's characteristics and its implications for drug cannabis
 growers.
+---
 
 ## What is Hemp?
 

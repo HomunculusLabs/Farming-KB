@@ -3,6 +3,7 @@ title: "comparison-composting-toilets-vs-greywater-systems-detailed"
 created: 2026-04-28
 tags: [permaculture, [[bill-mollison]] strongly advocated for
 composting toilets as a fundamental permaculture technology.
+---
 
 ## The Problem with Flush Toilets
 

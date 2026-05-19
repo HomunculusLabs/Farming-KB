@@ -7,6 +7,7 @@ farming. The curriculum would extend far beyond agronomy to encompass the philos
 **mu** (nothingness) and the principle of non-intervention with nature. Students would
 learn that the most productive approach to the land is to stop interfering with it
 entirely — to let nature cultivate itself.
+---
 
 The university represented Fukuoka's answer to the growing ecological crisis. He
 believed that conventional agriculture, with its dependence on chemicals, machinery, and

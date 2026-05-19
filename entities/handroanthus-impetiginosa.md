@@ -13,6 +13,7 @@ sources:
   - Odonne, G. et al. (2017). "Medicinal plants from the Guiana high plateau: ethnobotanical survey." Journal of Ethnopharmacology, 195, 60–71.
   - Udenigwe, C.C. et al. (2004). "Antimicrobial activity of lapachol." Phytotherapy Research, 18(7), 565–568.
   - Lock, O. (2011). "[[guzman-psilocybin-mushrooms-south-america]], from Mexico to northern Argentina.
+---
 
 The species is valued both as a premium timber tree and as a traditional medicinal plant with a long history of indigenous use.
 

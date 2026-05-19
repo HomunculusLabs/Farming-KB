@@ -21,6 +21,7 @@ sources:
   - "Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press."
   - "ElSohly, M.A., et al. (2016). Changes in [[cuthill-mushroom-cultivation-history-19th-century]]. Originating from Afghani indica landrace genetics and refined in the [[hindu-kush]] mountains, Afghanistan | Pure indica morphology, resin density, sedative effects, hashish quality |
 | **Afghani Indica #2** | Separate Afghani landrace selection | [[jack-herer]], Shiva Skunk, and many others. Sensi Seeds acquired the full Northern Lights program and continues to offer original genetics to this day.
+---
 
 ## Morphology and Growing Characteristics
 

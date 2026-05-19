@@ -13,6 +13,7 @@ updated: 2026-04-28
 sources:
   - Guzmán, G. (2005). "Species Diversity of the Genus Psilocybe (Basidiomycotina, Agaricales, Strophariaceae) in the World Mycobiota, with Special Attention to Hallucinogenic Properties." International Journal of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, 7(4), 305-316.
   - Guzmán, G., Tapia, F. & Gándara, D. (2004). "A new bluing species of [[brassinosteroid-substrate-comparison-agar-vs-dung-grain-psilocybe-cubensis]] margaritalis
+---
 
 ## Overview
 

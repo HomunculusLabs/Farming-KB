@@ -12,6 +12,7 @@ updated: 2026-05-10
 sources:
   - Jones S.B. (1970). "Revision of Vernonia sect. Vernonia in guzman-psilocybin-mushrooms-north-america." Rhodora, 72(791), 204–230.
   - URBATSCH L.E. (2006). "Vernonia." In Flora [[dmt-containing-plants-united-states-halpern]]. It is the most widely distributed ironweed in the Northeast.
+---
 
 The species hybridizes with Vernonia glauca where their ranges overlap. Hybrids show intermediate floral and leaf characteristics.
 

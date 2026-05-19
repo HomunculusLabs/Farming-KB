@@ -5,6 +5,7 @@ tags: [economics, production-costs, [[fukuoka-textdoc-vegetable-factory-hydropon
 that sophisticated agricultural technology inevitably makes food more expensive,
 not less, because nature produces without calling for supplies or remuneration
 while human effort always demands payment in return.
+---
 
 ## The Vegetable Factory Thought Experiment
 

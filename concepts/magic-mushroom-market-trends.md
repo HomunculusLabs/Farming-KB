@@ -4,6 +4,7 @@ created: 2026-05-11
 source: EMCDDA (2006) - Hallucinogenic Mushrooms: An Emerging Trend Case Study
 tags: [market, commerce, smartshop, internet, retail, supply-chain, europe, drug-market]
 aliases: [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] Europe underwent a dramatic transformation between the late 1990s and mid-2000s, evolving from a marginal underground activity to a visible retail trade facilitated by smartshops, internet commerce, and festival vending. The EMCDDA's 2006 case study documented this market development in unprecedented detail, revealing how lifestyle trends and economic interests can drive the emergence and diffusion of drug trends independently of traditional supply chains.
+---
 
 ## Market Development Timeline
 

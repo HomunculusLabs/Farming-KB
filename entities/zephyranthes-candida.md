@@ -15,6 +15,7 @@ sources:
   - H. T. Flagg and G.L. Kirchoff (2014). "Systematics of Zephyranthes." American Journal of Botany 101(4).
   - USDA NRCS (2024). "Zephyranthes candida." PLANTS Database.
   - A. Meerow (2019). "Amaryllidaceae." In "Flora [[guzman-psilocybin-mushrooms-south-america]] and has become widely naturalized in warm-temperate and subtropical regions worldwide.
+---
 
 The species is valued for its profuse, star-shaped white flowers that appear suddenly after rainfall, typically from late summer through autumn. This rain-triggered blooming habit gives the genus its common name "rain lily" and makes the plant a reliable and predictable element of [[dmt-containing-plants-united-states-halpern]], southern Africa, India, China, and Australia. It is occasionally regarded as a minor weed in disturbed habitats but poses no significant invasive threat.
 

@@ -9,6 +9,7 @@ selected the pyrophosphate method using tetrabenzylpyrophosphate and
 n-butyllithium as the optimal approach for large-scale synthesis. This
 step led to the unexpected discovery of a zwitterionic N,O-dibenzyl
 phosphate derivative (8) that proved key to the overall route.
+---
 
 ## The Phosphorylation Challenge
 

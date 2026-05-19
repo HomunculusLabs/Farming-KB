@@ -4,7 +4,6 @@ tags:
   - concept
 ---
 
----
 created: 2026-05-08
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 tags: [panaeolus, copelandia, misidentification, taxonomy, neurotropic-fungi, field-identification, mycology]

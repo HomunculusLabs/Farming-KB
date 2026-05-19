@@ -16,6 +16,7 @@ sources:
   - Pomper, K.W. et al. (2009). "[[ghouled-field-guide-historical-context]] to [[dmt-containing-plants-united-states-halpern]] and the only temperate species in the tropical
 family Annonaceae. It produces a sweet, custard-like fruit with a flavor
 often described as a blend of banana, mango, and melon.
+---
 
 The species ranges from the Atlantic coast to the eastern edge of the Great
 Plains, and from northern Florida to southern Ontario. Despite its wide native

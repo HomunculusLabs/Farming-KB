@@ -10,6 +10,7 @@ tags: [cannabis, sativa, strain-profile, medical-seeds, kali-mist, amnesia, [[ka
 **Flowering Time:** 90 days (indoor)
 **Outdoor Harvest:** Early November
 **Yield:** ~550g per plant (outdoor) / ~550g per square yard (indoor ScrOG)
+---
 
 ## Overview
 

@@ -19,6 +19,7 @@ sources:
   - "Lee, S.S. et al. (2012). \"Lignosus rhizophorae: A new species from Malaysia.\" Mycotaxon 121(1): 57-63."
   - "Tan, N.H. et al. (2015). \"Anti-inflammatory and immunomodulatory activities of Lignosus rhizophorae.\" BMC Complementary and Alternative Medicine 15: 332."
   - "Wong, K.K. et al. (2017). \"Taxonomic and phylogenetic studies of Lignosus (Polyporaceae) in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] medicine.
+---
 
 ## Taxonomy and Morphology
 

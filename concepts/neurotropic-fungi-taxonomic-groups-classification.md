@@ -1,6 +1,7 @@
 ---
 title: Neurotropic Fungi Taxonomic Groups Classification
 source: Guzmán, Allen & Gartz "Worldwide [[global-distribution-of-neurotropic-fungi]] psychoactive fungi.
+---
 
 ## Group 1: Psilocybin and Indole-Containing Fungi
 

@@ -14,6 +14,7 @@ sources:
   - Hummel, M. & Kiviat, E. (2004). "Review of world literature on water chestnut." Journal of Aquatic Plant Management, 42, 17–28.
   - Groth, D. et al. (1996). "Seed bank dynamics of Trapa natans." Aquatic Botany, 54(2-3), 183–194.
   - Zhai, S. et al. (2020). "[[fukuoka-natural-farming-in-tropical-regions]] of Eurasia and has been cultivated for its edible fruits for thousands of years.
+---
 
 The plant produces distinctive horned or spined fruits that float on the water surface and contain a single large starchy seed.
 

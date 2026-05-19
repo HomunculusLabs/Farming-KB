@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - Thomson, J.W. (1984). "American Arctic Lichens: 1. The Macrolichens." Columbia University Press.
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens [[guzman-psilocybin-mushrooms-north-america]], Greenland, and northern Europe. It is one of the less frequently collected macrolichens in the Arctic, owing to its cryptic growth habit and restricted habitat preferences.
+---
 
 The species was named in honor of a Scottish lichenologist and has been the subject of relatively few ecological or taxonomic studies compared to more common Arctic lichens.
 

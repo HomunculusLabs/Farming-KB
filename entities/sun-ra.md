@@ -12,6 +12,7 @@ aliases:
   - Sun Ra Arkestra
 tags: [person, jazz, [[octavia-e-butler]]
 - [[peyote-and-psychoactive-cacti]]
+---
 ## Practical Applications
 
 Sun Ra has a range of practical applications that make it relevant to

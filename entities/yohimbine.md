@@ -20,6 +20,7 @@ sources:
 - α₁-adrenergic: Kᵢ ≈ 100–1000 nM (weak antagonist)
 - 5-HT₁A: Kᵢ ≈ 200–500 nM (weak antagonist)
 - Dopamine D₂: Minimal affinity
+---
 
 ## Effects and Dosage
 

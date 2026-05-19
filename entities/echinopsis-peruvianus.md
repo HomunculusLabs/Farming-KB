@@ -15,6 +15,7 @@ sources:
   - Torres, C.M. & Repke, D.B. (2006). Anadenanthera. Visionary Plant Books.
   - Trout, K. (2005). Sacred Cacti. 2nd ed. Trout's Notes.
   - Ogunbodede, O. et al. (2010). "[[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]] cactus**, is a fast-growing columnar cactus in the family Cactaceae, native to the western slopes of the Andes in Peru and Ecuador.
+---
 
 The species is one of the four principal mescaline-containing cactos traditionally used in Andean ethnomedicine [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] (*[[echinopsis-lageniformis]]*), and peyote (*[[trichocereus-peruvianus]]*, and most recently to *Echinopsis peruvianus* following taxonomic revisions of the Trichocereeae tribe.
 

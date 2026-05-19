@@ -15,6 +15,7 @@ sources:
   - Nash, T.H. III (2008). fungi-in-the-environment-lichen-biology (2nd ed.). Cambridge University Press.
   - Benedict, J.B. (2009). "Experiments on lichen growth." Arctic, Antarctic, and Alpine Research, 41(4), 462–472.
   - Wetmore, C.M. (2007). "The Rhizocarpaceae of guzman-psilocybin-mushrooms-north-america." Contributions from the University of Michigan Herbarium, 25.---
+---
 
 ## Overview
 

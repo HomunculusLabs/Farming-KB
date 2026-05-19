@@ -13,6 +13,7 @@ tags:
   - "Hegnauer, R. (1966). Chemotaxonomie der Pflanzen. Birkhäuser Verlag."
   - "Sprent, J.I. (2009). Legume Nodulation. Wiley-Blackwell."
   - "Mills, S.Y. (1991). The Essential Book of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
+---
 
 Sweetgale was a primary flavoring agent in European gruit beers before the
 adoption of hops (*[[coleman-overwintered-onions-and-early-spring-crops]]. Female catkins shorter,

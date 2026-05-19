@@ -5,6 +5,7 @@ underground activity into a structured retail economy spanning physical shops,
 delivery services, and online commerce. The EMCDDA documented the rapid
 expansion and subsequent regulatory challenges of this market through the
 2000s, providing insight into how psychoactive fungi became commercialized.
+---
 
 ## Smartshop Origins
 

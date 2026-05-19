@@ -1,6 +1,7 @@
 ---
 title: [[windbreak-design-and-configurations]] Configuration
 source: [[comparison-windbreak-design-vs-species-selection|Windbreak]] Design and Configuration
+---
 
 Windbreaks are a fundamental element in [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter|shelter]] for crops,
 livestock, and soil by modifying wind flow across a site. Their effectiveness depends

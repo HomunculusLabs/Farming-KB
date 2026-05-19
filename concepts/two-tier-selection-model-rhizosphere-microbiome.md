@@ -9,6 +9,7 @@ source: [[edaphic-factors-microbial-community-structure]] across geographic scal
 - **Organic carbon** — total organic carbon provides the primary energy source for heterotrophic soil microbes, driving community composition
 - **Water content** — soil moisture affects oxygen availability, diffusion of soluble compounds, and microbial metabolic rates
 - **Soil texture** — the ratio of sand, silt, and clay influences water retention, nutrient availability, pore space connectivity, and microbial habitat structure
+---
 
 When plant roots exude compounds into the surrounding soil — a process called rhizodeposition — the local environment shifts dramatically. Root exudates include sugars, amino acids, organic acids, mucilage, phenolics, [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] variation (PC1 = 32.06%), making it the most important determinant of which microbes were present in any given sample.
 

@@ -4,7 +4,6 @@ tags:
   - concept
 ---
 
----
 created: 2026-05-08
 source: carolina-mushrooms_08qxp.md
 tags: [psilocybin, pharmacology, 5-ht2a, serotonin, neuropharmacology, hallucinogens, receptor, mechanism-of-action]

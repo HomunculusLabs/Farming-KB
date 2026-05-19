@@ -12,6 +12,7 @@ updated: 2026-05-08
 sources:
   - Dyer, L.A. & Palmer, A.D. (2004). "Piper: A Model Genus for Studies of Phytochemistry, Ecology, and Evolution." Springer.
   - Gupta, M.P. (1995). "270 Plants of South America with [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] into northern South America.
+---
 
 The species is most widely recognized for its large, heart-shaped leaves that emit a distinctive anise-like aroma when crushed. This characteristic scent is primarily due to the presence of safrole in its essential oil.
 

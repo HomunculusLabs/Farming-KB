@@ -11,6 +11,7 @@ sources:
   - 'FDA (2023). "functional-foods-and-dietary-supplements-from-medicinal-mushrooms: What You Need to Know." U.S. Food and Drug Administration Guidance Document.'
 created: 2026-05-07
 type: comparison---
+---
 
 ## Fruiting Body vs Mycelium-on-Grain Extracts for [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] defensively during growth, whereas mycelium grown on grain has less physiological incentive to produce these metabolites.
 - Many clinical studies demonstrating immune benefits used **isolated fruiting body preparations**, not mycelium-on-grain products — so the evidence base is largely one-sided.

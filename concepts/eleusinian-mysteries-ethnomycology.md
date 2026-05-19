@@ -4,6 +4,7 @@ aliases: [eleusinian mysteries, ethnomycology, mushroom cults, ancient mushroom 
 tags: [mycology, history, ethnobotany, ancient-greece, religion, ethnomycology]
 created: 2026-05-10
 source: "Growing Gourmet and [[plutarch-and-cicero-on-the-eleusinian-mysteries]] were the most sacred [[bloomfield-ergot-claviceps-purpurea-ergotism]]*), which contains alkaloids related to LSD. This hypothesis, detailed in *The Road to Eleusis* (1978), fundamentally transformed the field of ethnomycology and our understanding of fungi's role in shaping human consciousness and civilization.
+---
 
 ## The Eleusinian Ceremony
 

@@ -14,6 +14,7 @@ sources:
   - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed. Cambridge University Press.
   - Flora [[fungal-ecology-forest-floor]] moisture retention and
 provides microhabitat for numerous invertebrate species.
+---
 
 ## Taxonomy and Morphology
 

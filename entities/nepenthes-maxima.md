@@ -13,6 +13,7 @@ sources:
   - Murphy, D.J. (2017). "Carnivorous Plants of the World." Timber Press.
   - Danser, B.H. (1928). "The Nepenthaceae of the Netherlands Indies." Bulletin de Jardin de Botanique.
   - McPherson, S.R. (2009). "Pitcher Plants of the [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] radiation.
+---
 
 The species exhibits considerable morphological [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]], and aquatic mites. These commensals feed on captured prey and contribute to digestion.
 

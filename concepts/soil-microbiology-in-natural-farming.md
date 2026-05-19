@@ -8,6 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] by [[masanobu-fukuoka]]'s [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], organic matter decomposition, soil structure
 maintenance, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
+---
 
 ## Soil Bacteria and Nitrogen Fixation
 

@@ -13,6 +13,7 @@ sources:
   - Botella, J.R. & Smith, M.K. (2008). "Pineapple." In Encyclopedia of Fruit and Nuts, 329–336.
   - Lobo, M.G. & Paull, R.E. (2017). "Pineapple." In Postharvest Biology and Technology of Tropical and Subtropical Fruits, 149–177.
   - Xuan, T.D. et al. (2008). "[[psilocybin-therapeutic-applications]]. The enzyme is concentrated in the stem and fruit core.
+---
 
 ## Taxonomy and Morphology
 

@@ -15,6 +15,7 @@ sources:
   - Pennington, T.D. & Sarukhán, J. (2005). *Árboles Tropicales de México.* UNAM, Mexico City.
   - Francis, J.K. (2004). "Haematoxylum campechianum L." USDA Forest Service, SO-ITF-SM-57.
   - Cook, B.F. (1949). "Logwood: History, Uses, and Trade." Economic Botany, 3(4), 383–397.---
+---
 
 ## Overview
 

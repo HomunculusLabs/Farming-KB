@@ -5,6 +5,7 @@ type: species
 tags:
   - [[hofmann-lsd-clinical-research-early-studies]] supports its efficacy for bruising,
 muscle soreness, and postoperative swelling.
+---
 
 The species is critically endangered in several European countries due to
 overharvesting of wild populations and habitat loss. Most commercial arnica is

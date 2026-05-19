@@ -1,3 +1,9 @@
+---
+title: Hydnellum Aurantiacum
+type: entity
+tags: [species]
+sources: []
+---
 
 ## Overview
 
@@ -59,3 +65,17 @@ inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
+
+## Identification Features
+
+The fruiting body has an irregularly shaped cap with velvety to slightly rough surface in orange-brown to reddish-brown shades with paler margins when young.
+Distinctive teeth-like spines on the underside descend along the stem, a characteristic of the Bankeraceae family that differentiates it from gilled mushrooms.
+
+## Habitat and Ecology
+
+Found in coniferous forests under pine and spruce on acidic, nutrient-poor soils, forming ectomycorrhizal associations essential for nutrient exchange with host trees.
+Fruiting from late summer through autumn in temperate North America and Europe, often appearing as solitary specimens on the forest floor.
+
+## Conservation
+
+Like many tooth fungi, H. aurantiacum is sensitive to habitat disturbance and declining in parts of its European range due to forestry practices and nitrogen deposition.

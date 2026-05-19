@@ -1,6 +1,7 @@
 ---
 title: Wind Tunnel Mushroom Research
 concept_category: [[adaptive-significance-mushroom-tropisms-spore-dispersal]] — the directional growth responses of [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* provides a replicable framework for investigating anemotropism, geotropism, and phototropism in basidiomycetes. This page describes the apparatus, culture preparation, and experimental protocols.
+---
 
 ## Wind Tunnel Design
 

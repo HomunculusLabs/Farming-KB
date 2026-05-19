@@ -16,6 +16,7 @@ sources:
   - "Dean, A.C. et al. (2019). 'Psilocybin-Assisted Treatment [[alexander-shulgin]]. It is
 documented in TIHKAL (Tryptamines I Have Known and Loved) with a full
 self-experiment report.
+---
 
 MIPT is structurally related to DMT and DPT, differing by the N-alkyl
 substitution pattern. The isopropyl group confers unique pharmacokinetic

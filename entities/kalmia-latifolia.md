@@ -14,6 +14,7 @@ sources:
   - USDA NRCS (2024). "Kalmia latifolia L. — Mountain Laurel." PLANTS Database.
   - Leach, W.J. (1962). "A Revision of the Genus Kalmia." Virginia Agricultural Experiment Station Bulletin 154.
   - U.S. Forest Service (2024). "Silvics of [[polypore-fungi-eastern-north-america]] America.
+---
 
 It is celebrated for its showy clusters of pink-to-white flowers and glossy, dark green foliage.
 

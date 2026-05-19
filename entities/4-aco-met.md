@@ -14,6 +14,7 @@ psychedelics, producing vivid color enhancement, geometric patterning, and
 entactogenic warmth at common doses while maintaining a manageable headspace
 compared to psilocin or LSD. It is not controlled in most jurisdictions and
 circulates primarily through online research chemical markets.
+---
 
 ## Chemical Identity
 

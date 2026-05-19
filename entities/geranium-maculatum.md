@@ -12,6 +12,7 @@ updated: 2026-05-09
 sources:
   - "Foster, S. & Duke, J.A. (1990). A Field Guide to Medicinal Plants. Houghton Mifflin."
   - "Moerman, D. (1998). Native [[polypore-fungi-eastern-north-america]]. It is widely recognized for its showy lavender-pink flowers and deeply lobed, palmately divided leaves.
+---
 
 The species is one of the most important native medicinal plants of eastern North America, with a long history of use among Indigenous peoples and later European settlers. The root contains significant concentrations of tannins, which account for its potent astringent properties.
 

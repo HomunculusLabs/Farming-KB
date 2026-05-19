@@ -4,6 +4,7 @@ source: mckenna_t-food_of_the_gods.md
 author: [[cultural-evolution-and-psychoactive-substances]] and [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] constitute the drug
 experience, regardless of whether the program is a sitcom, a news
 broadcast, or a nature documentary.
+---
 
 ## Heroin and Television Compared
 

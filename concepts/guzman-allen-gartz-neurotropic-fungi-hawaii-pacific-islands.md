@@ -15,6 +15,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
   - Guzman G, Allen JW, Gartz J (2000) A worldwide [[claviceps-paspali]]. This diversity is largely attributable to the
 introduction of livestock and the resulting coprophilous habitats.
+---
 
 ## Hawaiian Neurotropic Mycoflora
 

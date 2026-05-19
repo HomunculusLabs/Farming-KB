@@ -19,6 +19,7 @@ sources:
 dissociative and euphoric effects, typically inhaled from balloons filled with
 whipped-cream chargers. It is the second most-used recreational inhalant after
 nitrites in many countries.
+---
 
 ## Chemical Properties
 

@@ -9,6 +9,7 @@ tags:
 [[biodiversity-fungal-genetic-diversity]] and allow
 growers to save their own seed, preserving valuable traits across
 generations.
+---
 
 ## Open Pollinated Varieties
 

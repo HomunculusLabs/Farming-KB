@@ -14,6 +14,7 @@ sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics huckleberries-and-wild-berries-of-north-america, Vol. 2: Hardwoods." USDA Forest Service.
   - Stein, J. et al. (2003). "Native Trees of the Midwest." Purdue University Press.
   - Nixon, K.C. (2021). "Quercus falcata." Flora of [[dmt-containing-plants-united-states-halpern]]. It is a member of the red oak group (section Lobatae) and is one of the most widespread and commercially important upland oaks in the region.
+---
 
 The species is valued for its timber quality, wildlife value, and role as a dominant component of upland hardwood forests across the southeastern Piedmont and Coastal Plain. Southern red oak wood is marketed interchangeably with other red oaks for flooring, furniture, and construction lumber.
 

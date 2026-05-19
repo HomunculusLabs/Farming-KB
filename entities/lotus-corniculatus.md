@@ -19,6 +19,7 @@ sources:
     and breeding." [[fungi-in-the-environment-symbiotic-relationships]] with rhizobia to fix atmospheric
 nitrogen, making it valuable in [[psilocybin-north-america-pacific-northwest]], [[guzman-psilocybin-mushrooms-north-america]],
 it occurs in all contiguous US states and most Canadian provinces.
+---
 
 Grows in a wide range of habitats: grasslands, meadows, roadsides,
 pastures, and disturbed sites. Tolerates poor, acidic, and shallow soils

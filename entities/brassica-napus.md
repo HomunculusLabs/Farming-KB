@@ -16,6 +16,7 @@ sources:
   - FAOSTAT (2024). "Rapeseed [[jadam-canola-oil-surfactant-method]], extracted from low-erucic-acid, low-glucosinolate cultivars, is one
 of the most widely used vegetable oils globally for cooking, biodiesel
 production, and industrial applications.
+---
 
 Global rapeseed production exceeds 75 million tonnes annually, with the European
 Union, Canada, China, and India as the leading producers.

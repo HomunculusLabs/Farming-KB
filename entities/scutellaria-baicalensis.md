@@ -14,6 +14,7 @@ updated: 2026-04-28
 sources:
   - "Li, C. et al. (2020). \"Baicalin — a review of pharmacological effects and pharmacokinetics.\" Phytomedicine, 76, 153255."
   - "Wang, H. et al. (2018). \"Neuroprotective effects of baicalin in [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]], geographic origin, and processing method. Roots harvested in spring (before flowering) typically contain higher baicalin concentrations than autumn-harvested roots.
+---
 
 ## Pharmacology and Bioactivity
 

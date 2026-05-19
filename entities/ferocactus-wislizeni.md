@@ -15,6 +15,7 @@ sources:
   - D. Yetman et al. (2010). "The Great Cacti: Ethnobotany and Biogeography." University of Arizona Press.
   - R.S. Felger (2000). "Flora of the Gran Desierto." University of Arizona Press.
   - L.C. Benson (1982). "The Cacti of the [[fukuoka-natural-farming-in-arid-regions]] of the southwestern United States and northern Mexico, where it is one of the most recognizable and iconic elements of the Sonoran and Chihuahuan Desert landscapes.
+---
 
 The species typically grows 1 to 2 meters tall and 60 to 100 centimeters in diameter, with prominent ribs armed with heavy, hooked central spines. It is a long-lived species, with individual plants reaching 100 years or more in age under favorable conditions.
 

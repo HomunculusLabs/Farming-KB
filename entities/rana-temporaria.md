@@ -8,6 +8,7 @@ tags:
   - raniidae
   - europe
   - [[canary-grass-phototropism-model-organism]] in developmental biology and physiology research.
+---
 
 Common frogs are among the first amphibians to breed in spring, often beginning while ice still partially covers breeding ponds. This early breeding strategy gives their tadpoles a head start before newt and dragonfly predators become active.
 

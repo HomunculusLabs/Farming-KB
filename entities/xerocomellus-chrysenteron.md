@@ -16,6 +16,7 @@ sources:
   - Šutara, J. (2008). "Xerocomus s.l. in the Czech Republic." Czech Mycology, 60(1), 43-69.
   - Nieves-Rivera, Á.M. & Denson, D.R. (2001). "Notes on boletes from Puerto Rico." Mycotaxon, 78, 189-198.
   - Halling, R.E. (2001). "Ectomycorrhizae of boletes." In [[psilocybin-north-america-pacific-northwest]].
+---
 
 It is recognized by its brown cap that develops distinctive pinkish-red cracks as it matures, revealing the paler flesh beneath.
 

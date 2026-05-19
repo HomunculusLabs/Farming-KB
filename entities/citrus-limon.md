@@ -15,6 +15,7 @@ sources:
   - Ladaniya, M.S. (2008). Citrus Fruit: Biology, Technology and Evaluation. Academic Press.
   - O'Brien, R.D. (2009). Fats and Oils: Formulating and Processing for Applications. CRC Press.
   - USDA ARS (2024). "Citrus limon (L.) Burm. f." Germplasm Resources [[permaculture-designers-manual-essential-oil-plants]].
+---
 
 The tree typically reaches 3–6 m in height, with glossy green elliptic leaves and fragrant white flowers. Fruit are ellipsoidal to ovoid, 5–12 cm long, with a prominent apical nipple.
 

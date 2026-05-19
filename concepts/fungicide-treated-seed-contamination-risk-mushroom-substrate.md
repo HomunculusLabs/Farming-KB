@@ -11,6 +11,7 @@ is routinely treated with systemic and contact fungicides that can persist throu
   particularly in humid conditions.
 - **Regulatory requirements**: Some jurisdictions mandate fungicide treatment for
   certified seed to prevent the spread of regulated plant pathogens.
+---
 
 Common seed treatment fungicides include:
 - **Captan** (N-trichloromethylthio-4-cyclohexene-1,2-dicarboximide)

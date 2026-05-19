@@ -14,6 +14,7 @@ sources:
   - Martins AP et al. (2015). "chemical-composition-of-hallucinogens and bioactivity of Eryngium foetidum permaculture-designers-manual-essential-oil-plants." Journal of Ethnopharmacology 173: 359–365.
   - Gupta MP (1995). "270 Plants of Panama." Editorial Universitaria.
   - Bello J et al. (1998). "Eryngium foetidum: A traditional herb with multiple uses." Economic Botany 52(4): 392–403.---
+---
 
 ## Overview
 

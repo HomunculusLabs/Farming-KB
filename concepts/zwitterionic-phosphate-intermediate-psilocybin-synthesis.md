@@ -4,6 +4,7 @@ source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamat
 topic: [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis]].md
   - [[gottlieb-psilocybin-production-extraction-methods]] without any chromatographic
 purification—a significant practical advance over previous routes.
+---
 
 ## The Phosphorylation Challenge
 

@@ -7,6 +7,7 @@ decomposition. In some soils, fungal grazers can consume a substantial
 fraction of the annual fungal production, making grazing resistance a critical
 trait for soil fungi. The evolutionary arms race between fungi and their
 grazers has produced a remarkable array of defensive strategies.
+---
 ## Mycelial Network Architecture and Grazing Tolerance
 
 The interconnected, network-like architecture of mycelial colonies provides

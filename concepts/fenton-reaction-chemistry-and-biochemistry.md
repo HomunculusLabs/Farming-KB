@@ -7,6 +7,7 @@ aliases:
   - iron-catalyzed oxidation
   - Haber-Weiss reaction
   - [[cervantes-hydrogen-peroxide-sterilization]] (H2O2) to produce the hydroxyl radical (OH.), one of the strongest oxidants known in chemistry. The canonical equation is:
+---
 
 **Fe2+ + H2O2 -> Fe3+ + OH. + OH-**
 

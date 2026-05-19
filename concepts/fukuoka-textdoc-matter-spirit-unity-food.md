@@ -5,6 +5,7 @@ tags: [fukuoka, [[cho-natural-farming-philosophy-of-non-interference]] into the 
 nourishment but a meeting point of matter and spirit. Drawing on Buddhist philosophy
 and his own observations of nature, he presents a view in which flavor, color, and
 nutrition are inseparable from spiritual experience.
+---
 
 ## The Buddhist Foundation: Form is Emptiness
 

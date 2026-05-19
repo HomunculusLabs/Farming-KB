@@ -15,6 +15,7 @@ sources:
   - Drake, M. & Drake, J. (2014). "Korean Natural Farming Handbook." Cho Global Natural Farming.
   - Patel, H. et al. (2019). "Korean Natural Farming: A sustainable approach to agriculture." Indian Journal of Agricultural Sciences, 89(4), 604-610.
   - Joshi, D. et al. (2020). "[[mushroom-pests-and-diseases]] without synthetic chemical inputs.
+---
 
 KNF is part of a broader family of indigenous microorganism (IMO)-based farming systems found across East Asia, sharing philosophical and practical roots with Japanese natural farming (Masanobu Fukuoka), [[green-cannabis-grow-bible-nutrient-management-ppm]].
 

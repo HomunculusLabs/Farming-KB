@@ -4,6 +4,7 @@ tags: [mycology, [[accessible-mushroom-cultivation-for-disabilities]]. Despite i
 meaningful protection against airborne contaminants by shielding the
 workspace from drafts while allowing the cultivator to work through an
 open front panel.
+---
 
 ## Why Draft Prevention Matters
 

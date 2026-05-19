@@ -5,6 +5,7 @@ source_author: "[[terence-mckenna]]"
 topics: ["DMT", "[[psychedelic-substances-comparison]] known to science, administered through snuffing
 traditions that stretch back thousands of years. Among these, the bark
 resins of *Virola* species and the seeds of *[[mexican-sacred-mushroom-traditions]].
+---
 
 ## N,N-Dimethyltryptamine (DMT)
 

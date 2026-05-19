@@ -2,6 +2,7 @@
 title: Coleman Succession Planting
 created: 2026-04-26
 tags: [succession-planting, crop-rotation, year-round-harvest, [[winter-succession-planting]]
+---
 
 - coleman-winter-greens — Individual crop details
 - coleman-greenhouse-soil-management — Soil care between plantings

@@ -14,6 +14,7 @@ sources:
   - Hardy FG, Guiry MD (2006). "A Check-list and Atlas of the Seaweeds of Britain and Ireland." British Phycological Society.
   - Nielsen R, Gunnarsson K (2013). "Fucus spiralis (Phaeophyceae) — a species with two seasonal reproductive peaks in Iceland." Nordic Journal of Botany, 31(3), 351–357.
   - Stengel DB, Dring MJ (1997). "Morphology and in situ [[fucus-vesiculosus]]. It is commonly found on moderately exposed to sheltered rocky shores.
+---
 
 Spiral wrack tolerates prolonged emersion, surviving up to 90% of each tidal cycle out of water. It is less tolerant of wave action than Fucus vesiculosus and is generally absent from very exposed coastlines.
 

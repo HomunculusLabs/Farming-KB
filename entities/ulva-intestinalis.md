@@ -12,6 +12,7 @@ updated: 2026-05-08
 sources:
   - Hayden H.S. et al. (2003). "Cryptic Species of Ulva (Ulvales, Ulvophyceae) in the British Isles." Journal of Phycology, 39(2), 369-377.
   - Steentoft M. et al. (1995). "A Checklist of Marine Benthic [[fungal-single-cell-protein-production]] thick. This simple sheet rolls into a tube during development, creating the characteristic hollow structure.
+---
 
 Cells are approximately 10–15 μm in diameter, arranged in a regular pattern. Each cell contains a single parietal chloroplast with one or more pyrenoids.
 

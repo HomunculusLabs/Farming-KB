@@ -15,6 +15,7 @@ pressure cooking at 15 psi as well as [[mushroom-cultivation-jar-lid-management-
 5. **Attached lid:** The original can lid is left connected by approximately 1 inch
    of metal. This allows the lid to serve as a convenient attached cover that can
    be flipped open or closed as needed during handling.
+---
 
 ### Function
 

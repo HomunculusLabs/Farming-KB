@@ -11,6 +11,7 @@ and [[pihkal-dob-doi-dom-amphetamine-series-comparison]], dopamine, and
 among Native Americans, with approximately 300,000 members in the United States
 and Canada. [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] represent the central sacramental practice and have
 been legally protected under federal law for Native American members.
+---
 
 ### Ceremony Structure
 

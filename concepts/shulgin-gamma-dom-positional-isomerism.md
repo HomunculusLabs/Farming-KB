@@ -2,6 +2,7 @@
 title: Gamma-[[dom]] (Z-7) - Positional Isomerism in Psychedelic Amphetamines
 source: shulgin-a-pihkal.md
 author: [[2c-b-pihkal-entry-20]] #69, gamma-DOM provides a critical data point in understanding structure-activity relationships within the DO series.
+---
 
 ## Chemical Identity
 

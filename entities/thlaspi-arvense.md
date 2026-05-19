@@ -13,6 +13,7 @@ sources:
   - Warwick, S.I. et al. (2002). "Biology of Canadian weeds. 131. Thlaspi arvense L." Canadian Journal of Plant Science, 82(4), 817–833.
   - Dushenkov, V. et al. (1995). "Removal of uranium from water using terrestrial plants." Environmental Science & Technology, 29(5), 1232–1238.
   - Moser, B.R. et al. (2009). "Brassica carinata and Thlaspi arvense feedstocks for [[guzman-psilocybin-mushrooms-north-america]].
+---
 
 The species has attracted significant agronomic interest as a potential winter-hardy oilseed crop and as a phytoremediation tool for heavy-metal-contaminated soils.
 

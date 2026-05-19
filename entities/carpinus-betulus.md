@@ -13,6 +13,7 @@ sources:
   - Schweingruber, F.H. (1990). "Anatomy of European Woods." Paul Haupt Verlag.
   - Rackham, O. (1986). "The History of the Countryside." J.M. Dent & Sons.
   - Bean, W.J. (1980). "[[coleman-sunlight-and-winter-crop-growth-rates]] increase once the root system is established.
+---
 
 The genus name *Carpinus* derives from the Celtic word for wood, reflecting the historical importance of its timber. The specific epithet *betulus* refers to its birch-like leaves.
 

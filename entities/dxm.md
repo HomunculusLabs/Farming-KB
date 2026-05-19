@@ -16,6 +16,7 @@ sources:
   - Zhang, Y. et al. (2006). "Dextromethorphan: pharmacology and clinical applications." CNS Drug Reviews 12(3-4): 167–183.
   - FDA (2023). "Dextromethorphan [[ketamine]]
 and PCP.
+---
 
 In 2022, the FDA approved a combination of dextromethorphan and bupropion
 (Auvelity) for treatment-resistant major depressive disorder, marking a

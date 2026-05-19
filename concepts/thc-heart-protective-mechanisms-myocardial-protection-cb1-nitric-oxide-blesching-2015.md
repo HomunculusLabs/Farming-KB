@@ -8,6 +8,7 @@ mitigate injury from myocardial infarction (heart attack). Multiple distinct
 mechanisms have been identified through preclinical research, suggesting that
 cannabinoid-based cardiac protection operates through several complementary
 pathways rather than a single mechanism.
+---
 
 ## Mechanism 1: Reduction of Heart Attack Size
 

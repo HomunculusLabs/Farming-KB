@@ -7,6 +7,7 @@ than fifty species of Phytophthora are recognized, and they
 infect almost every kind of broad-leaved plant. Among the most
 alarming of these is the newly identified species responsible
 for sudden oak death in California.
+---
 
 ## Sudden Oak Death in California
 

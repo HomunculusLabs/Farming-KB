@@ -11,6 +11,7 @@ updated: 2026-05-08
 sources:
   - Formisano, C. et al. (2010). "Chemical composition and antimicrobial activity of Clinopodium vulgare [[permaculture]]-designers-manual-essential-oil-plants." Chemistry of Biodiversity, 7(8), 1824–1832.
   - Tuttolomondo, T. et al. (2013). "[[ocimum-basilicum]]*). The similarity in aroma is superficial.
+---
 
 The species is widespread across temperate Europe and Asia. It has a long history of use in European folk medicine as an astringent, carminative, and wound-healing herb.
 

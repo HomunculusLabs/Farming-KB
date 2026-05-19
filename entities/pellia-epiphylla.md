@@ -12,6 +12,7 @@ updated: 2026-05-10
 sources:
   - Paton, J.A. (1999). "The Liverwort Flora of the British Isles." Harley Books.
   - Schuster, R.M. (1966). "The Hepaticae and Anthocerotae [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
+---
 
 The species forms extensive, dark green to purplish-green mats on damp soil, rocks, and decaying wood along stream banks and in moist woodlands. Its thallus is relatively large for a simple thalloid liverwort.
 

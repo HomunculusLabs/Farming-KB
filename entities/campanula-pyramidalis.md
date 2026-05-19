@@ -13,6 +13,7 @@ sources:
   - Fedorov, A.A. & Kovanda, M. (1978). "Campanula." In: Flora Europaea, Vol. 3. Cambridge University Press.
   - Lammers, T.G. (2007). "Campanulaceae." In: The extended-families-and-intentional-community Genera of Vascular Plants. Springer.
   - Richards, A.J. (1982). "Campanulas: Their Cultivation climatic-zones-and-classification-systems." Batsford.---
+---
 
 ## Overview
 

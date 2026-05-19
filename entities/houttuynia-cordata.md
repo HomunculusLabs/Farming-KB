@@ -39,6 +39,7 @@ rhizomes are the primary means of vegetative spread and are
 remarkably persistent — even small rhizome fragments can regenerate
 into new plants, making the species difficult to eradicate once
 established.
+---
 ## Distribution and Habitat
 - **Native range:** [[polypore-fungi-eastern-north-america]] America,
   parts of Europe, and Australia. Often escapes cultivation due to

@@ -9,6 +9,7 @@ tags:
   - [[natural-farming-guide-integrated-pest-management]]
 - [[natural-farming]]
 - permaculture
+---
 ## Practical Applications
 
 Natural Orchard Management has a range of practical applications that make it relevant to

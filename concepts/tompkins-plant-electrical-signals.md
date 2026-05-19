@@ -7,6 +7,7 @@ related: [[tompkins-plant-growth-regulators]], [[phototropism-darwin-plant-light
 leaves and in animal retinas. Plants became as fatigued by continuous
 stimulation as animal muscles, whether hypersensitive mimosas or
 undemonstrative radishes.
+---
 
 Poisons stopping plant pulsation would also stop an animal heart, and
 the antidote for this poison could bring both organisms back to life.

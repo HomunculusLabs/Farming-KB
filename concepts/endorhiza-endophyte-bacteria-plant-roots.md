@@ -4,6 +4,7 @@ slug: endorhiza-endophyte-bacteria-plant-roots
 tags: [microbiology, endophytes, plant-roots, cannabis, rhizosphere]
 related: [two-tier-selection-model-rhizosphere-microbiome, cultivar-specificity-microbiome-plant-genotype]
 source: [[fungal-elicitors-enhanced-secondary-metabolite-production]].
+---
 
 ## Defining the Endorhiza
 

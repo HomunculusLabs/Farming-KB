@@ -4,6 +4,7 @@ created: 2026-04-26
 tags:
   - [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] of windbreaks, water features,
 and aerodynamic structures.
+---
 
 ## The Overbeck Jet Model
 

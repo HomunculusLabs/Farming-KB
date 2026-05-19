@@ -5,6 +5,7 @@ source: grahamholmes-what-a-plant-knowsindd.md
 tags: [darwin, phototropism, phototropism, plant-vision, canary-grass, seedling-tip, light-perception]
 aliases: [[darwin-phototropism-experiments-plant-vision]], conducted with his son Francis and published
 in "The [[chamovitz-ultraviolet-and-infrared-plant-light-perception]].
+---
 
 **Condition C (Tip covered with opaque cap):** The tip was covered with a
 lightproof cap that prevented any light from reaching it. The seedling did NOT bend,

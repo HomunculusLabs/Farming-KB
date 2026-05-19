@@ -15,6 +15,7 @@ sources:
   - Nichols, S.A. & Shaw, B.H. (1986). "Ecological life histories of the three aquatic nuisance plants, Myriophyllum spicatum, elodea-canadensis." Hydrobiologia, 131, 3–21.
   - Smith, C.S. & Barko, J.W. (1990). "Ecology of Eurasian watermilfoil." Journal of Aquatic Plant Management, 28, 55–64.
   - Eiswerth, M.E. et al. (2000). "Economic analysis of watermilfoil control." Journal of Aquatic Plant Management, 38, 49–56.---
+---
 
 ## Overview
 

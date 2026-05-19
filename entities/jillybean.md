@@ -16,6 +16,7 @@ sources:
 Genetics** (The Green Avengers). It is a cross between **Orange Velvet** and
 **[[cannabis-glandular-trichome-types-resin-production-clarke]], and a subtle diesel-pine undertone to the aroma
 complex.
+---
 
 ## Appearance
 

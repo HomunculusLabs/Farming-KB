@@ -4,6 +4,7 @@ source: "[[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabi
 in the United States. Named after the genius alter ego of the Marvel Comics character the Hulk,
 this strain combines genetics from Strawberry Diesel and Ghost OG to produce a plant known for
 its exceptional potency, vibrant coloration, and balanced psychoactive effects.
+---
 
 ## Genetics and Lineage
 

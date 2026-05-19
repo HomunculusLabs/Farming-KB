@@ -9,6 +9,7 @@ tags:
   - edible-fruit
   - medicinal-plant
   - [[equatorial-photoperiod-early-flowering]] makes blackthorn an important early nectar source; however, late frosts frequently damage the blossoms.
+---
 
 **Fruit:** Drupes (stone fruits), 10–15 mm diameter, round to slightly oblong, blue-black with a waxy bloom, ripening September–October.
 

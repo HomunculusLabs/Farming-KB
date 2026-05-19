@@ -1,6 +1,7 @@
 ---
 title: "Fungal Genet vs Ramet: Defining the Fungal Individual in Biodiversity Studies"
 source: "[[dighton-soil-fungal-biodiversity-assessment]] is defining what constitutes an "individual" fungus. Unlike animals and most plants, fungi possess an **indeterminate body plan** through their mycelial growth form, making the concept of an individual far more complex than simply counting discrete organisms. The distinction between **genet** (the genetic individual) and **ramet** (the physically discrete unit) is central to accurate fungal biodiversity quantification.
+---
 
 ## The Mycelial Growth Form
 

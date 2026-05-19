@@ -4,6 +4,7 @@ created: 2026-05-11
 source: PF TEK by Psilocybe Fanaticus (1996)
 tags: [substrate, vermiculite, brown-rice, cultivation, mycology, PF-TEK, mushroom-growing]
 aliases: [BRF substrate, brown rice flour substrate, [[boil-a-bag-mushroom-cultivation-method]]. Developed by Psilocybe Fanaticus, this substrate formulation combines **vermiculite** (as a structural, moisture-retaining matrix) with **powdered brown rice** (as a nutrient source) and water to create an ideal growth medium for *Psilocybe cubensis* mycelium. This combination replaced earlier grain-based substrates and remains the standard beginner substrate more than three decades after its introduction.
+---
 
 ## PF Substrate Formula
 

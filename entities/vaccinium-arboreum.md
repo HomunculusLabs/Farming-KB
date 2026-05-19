@@ -15,6 +15,7 @@ sources:
   - Vander Kloet, S.P. & Dickinson, T.A. (2009). "A subgeneric classification of the genus Vaccinium and the metamorphosis of V. section Bracteata." Botanical Review, 75(2), 159-197.
   - Camp, W.H. (1945). "The growing-gourmet-north-american-reishi-species blueberries with notes on other groups of Vacciniaceae." Brittonia, 5(3), 203-275.
   - Kirkman, L.K., Mitchell, R.J., Helton, R.C. & Drew, M.B. (2001). "Productivity and species richness in an avian [[polypore-fungi-eastern-north-america]] America.
+---
 
 Sparkleberry produces small, black, glossy berries that persist on the plant through winter. The fruit is consumed by wildlife and has limited human food use. The species is increasingly valued in horticulture for its ornamental qualities and [[plants-without-mycorrhizal-associations]] that enhance its ability to grow on nutrient-poor acidic soils. These associations are particularly important on the sandy, drought-prone sites where sparkleberry is often most abundant.
 

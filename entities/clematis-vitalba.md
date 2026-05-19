@@ -11,6 +11,7 @@ sources:
   - "Walters, S.M. (1993). Clematis vitalba. In: Flora Europaea, Vol. 1. Cambridge University Press."
   - "RHS (2023). Clematis vitalba. Royal Horticultural Society."
   - "Sheppard, A. et al. (2006). \"Biology and [[nitrogen-fixing-trees-and-shrubs]] in its native and introduced ranges.
+---
 
 C. vitalba is considered an invasive weed in New Zealand and parts of [[clematis-integrifolia]] var. integrifolia
 
