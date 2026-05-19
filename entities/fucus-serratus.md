@@ -67,7 +67,7 @@ Polyphenolic compounds, primarily phlorotannins, provide antioxidant activity an
 
 Protein content ranges from 5–15% of dry weight with a balanced [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]].
 
-Mannitol is the principal storage carbohydrate, present at 10–15% of dry weight. It serves both as a carbon reserve and as an osmotic调节agent in fluctuating salinity conditions.
+Mannitol is the principal storage carbohydrate, present at 10–15% of dry weight. It serves both as a carbon reserve and as an osmoticregulatoryagent in fluctuating salinity conditions.
 
 Vitamin content includes significant concentrations of B-group vitamins, particularly B12 and folate. [[teaming-with-nutrients-micronutrients-and-trace-elements]] such as iron, zinc, and manganese are present at levels comparable to terrestrial leafy vegetables.
 

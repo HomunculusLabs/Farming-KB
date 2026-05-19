@@ -111,7 +111,7 @@ accounts of these species for a general audience. His emphasis on the
 difficulty of field identification and his documentation of actual
 poisoning cases provided a foundation for later mycotoxicological work.
 The specific cases he recorded, the 1937 Surrey fatality and the 1925
-soldiers' incident, remain cited in modern毒理学 literature.
+soldiers' incident, remain cited in moderntoxicological literature.
 His observation that Inocybe geophylla lacks confirmed poisoning
 records, despite being "often said to be poisonous," illustrates the gap
 between field guide caution and scientific evidence. This gap persists

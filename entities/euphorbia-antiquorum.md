@@ -24,7 +24,7 @@ Euphorbia antiquorum is a large, succulent, thorny shrub or small tree in the Eu
 - Native to tropical and subtropical Asia: India, Sri Lanka, [[guzman-thailand-southeast-asia-psychoactive-fungi-distribution]], southern China
 - Thick, fleshy, angular stems with prominent spines along the ridges
 - Stems are 3-4 angled (triangular to quadrangular cross-section), segmented
-- Small,短暂 leaves that drop quickly; photosynthesis occurs primarily through green stems
+- Small,short-lived leaves that drop quickly; photosynthesis occurs primarily through green stems
 - Produces typical Euphorbia cyathia (specialized inflorescence) with yellow-green bracts
 - All parts contain toxic, irritant milky latex typical of the genus
 - Latex can cause severe skin irritation, eye damage, and internal poisoning if ingested

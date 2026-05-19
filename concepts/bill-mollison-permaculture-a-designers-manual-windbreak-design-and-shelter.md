@@ -1,5 +1,5 @@
 ---
-title: [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]] [[windbreak-design-and-configuration]] Shelter
+title: bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources windbreak-design-and-configuration Shelter
 source: bill-mollison-permaculture-a-designers-manual.md
 source_author: bill-mollison
 category: permaculture

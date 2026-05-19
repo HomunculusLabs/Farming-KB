@@ -32,7 +32,7 @@ Fired pottery was one of the most essential agrarian innovations in human histor
 
 The concept of **"next best use"** is central: before discarding any container or material, ask what its next most appropriate application might be. Returnable milk bottles, once a standard system, demonstrate how reusable containers can function at scale before being displaced by disposable alternatives.
 
-At Melliodora, the permaculture demonstration site, container reuse is practised extensively. Spring Valley water bottles, plastic bags, beer bottles, egg cartons, cardboard boxes, and plant pots are all given extended lives. Glass flagons serve as cloches for frost protection, film containers store seeds, milk cartons become seedling pots, and olive oil drums, pickle barrels, nylon buckets, and take-away containers all find further用途. Collecting useful materials from other householders multiplies the resource stream available for reuse.
+At Melliodora, the permaculture demonstration site, container reuse is practised extensively. Spring Valley water bottles, plastic bags, beer bottles, egg cartons, cardboard boxes, and plant pots are all given extended lives. Glass flagons serve as cloches for frost protection, film containers store seeds, milk cartons become seedling pots, and olive oil drums, pickle barrels, nylon buckets, and take-away containers all find furtheruse. Collecting useful materials from other householders multiplies the resource stream available for reuse.
 
 ## Food and Water Waste
 

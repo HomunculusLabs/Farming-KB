@@ -35,7 +35,7 @@ Genicula are composed of elongated, thin-walled cells that provide flexibility t
 
 Molecular phylogenetic studies have revealed that *C. officinalis* as currently circumscribed may represent a species complex. Populations from different geographic regions show genetic differentiation that may warrant taxonomic revision, though morphological characters remain insufficient for reliable species delimitation.
 
-The holdfast is crustose and firmly attached to rock surfaces,贝壳-like in morphology. In young plants the holdfast may be discoid, becoming irregularly expanded in mature individuals. The holdfast anchors the plant against strong wave forces.
+The holdfast is crustose and firmly attached to rock surfaces,shell-like in morphology. In young plants the holdfast may be discoid, becoming irregularly expanded in mature individuals. The holdfast anchors the plant against strong wave forces.
 
 Reproductive structures occur in conceptacles: flask-shaped chambers embedded within the thallus surface. The species is dioecious, with separate male and female plants producing spermatangia and carposporangia respectively. Tetrasporangiate plants produce meiospores in distinct conceptacle types.
 

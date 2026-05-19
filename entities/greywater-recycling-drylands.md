@@ -29,7 +29,7 @@ Greywater recycling in dryland permaculture refers to the systematic capture, tr
 - **Zone 1 (Garden)**: Subsurface irrigation of food crops via slot-pipe or waste channels
 - **Zone 2-3 (Orchard/Windbreak)**: Arbor system for productive trees
 - **Zone 3-4 (Fuel forest)**: Ponded and settled greywater for coppice forestry
-- **Zone 5 (Wild)**:最终的filtration and absorption
+- **Zone 5 (Wild)**:final的filtration and absorption
 
 ## References
 
