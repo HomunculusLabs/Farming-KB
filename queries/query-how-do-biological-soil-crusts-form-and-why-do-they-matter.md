@@ -9,7 +9,7 @@ type: query
 
 Biological soil crusts — also called cryptogamic, microbiotic, or cryptobiotic crusts — are living ground covers found in arid and semi-arid regions worldwide.
 
-They form when communities of [[cyanobacteria]], mosses, [[lichen|lichens]], fungi, and algae colonize the soil surface and bind particles together into a cohesive layer.
+They form when communities of [[cyanophyta]], mosses, [[lichen|lichens]], fungi, and algae colonize the soil surface and bind particles together into a cohesive layer.
 
 These crusts are sometimes called "the living skin of the desert" because they play foundational roles in ecosystem stability.
 
