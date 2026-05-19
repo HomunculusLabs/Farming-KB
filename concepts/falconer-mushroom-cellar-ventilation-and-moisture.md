@@ -148,8 +148,3 @@ current understanding and implementation strategies.
 ## Integration Strategies
 
 Successful integration of falconer mushroom cellar ventilation and moisture into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
