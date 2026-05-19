@@ -117,4 +117,3 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[plant-immune-system-pti-eti]] and [[tompkins-bose-plant-nervous-system-hypothesis]] for related information.Related topics include [[aact-nitrogen-forms-nitrate-amino-sugars-plant-nutrition-ingham]] and associated practices.
-

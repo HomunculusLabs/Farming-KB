@@ -117,11 +117,9 @@ Early experiments established foundational principles that continue to inform
 modern practices. The evolution of understanding has been marked by
 significant breakthroughs in methodology and application.
 
-
 ## Common Methods
 
 Practitioners employ various methods to achieve optimal results with coprophilous fungi ecology.
 Each approach offers distinct advantages depending on scale, available resources,
 and specific objectives. Selection of the appropriate method requires
 careful consideration of the operating environment.
-

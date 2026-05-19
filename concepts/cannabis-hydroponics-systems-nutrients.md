@@ -109,14 +109,12 @@ Researchers and practitioners have developed standardized approaches that balanc
 efficiency with safety. Field studies demonstrate consistent results across
 multiple environments and growing conditions.
 
-
 ## Historical Context
 
 Historical development of cannabis hydroponics systems spans several decades of research.
 Early experiments established foundational principles that continue to inform
 modern practices. The evolution of understanding has been marked by
 significant breakthroughs in methodology and application.
-
 
 ## Key Considerations
 
@@ -125,11 +123,9 @@ Temperature, humidity, and substrate composition each play critical roles
 in determining outcomes. Proper monitoring and adjustment of these variables
 ensures consistent and reproducible results.
 
-
 ## Common Methods
 
 Practitioners employ various methods to achieve optimal results with cannabis hydroponics systems.
 Each approach offers distinct advantages depending on scale, available resources,
 and specific objectives. Selection of the appropriate method requires
 careful consideration of the operating environment.
-

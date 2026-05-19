@@ -117,4 +117,3 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] and [[mycorrhizal-inoculation-guide]] for related information.Related topics include [[aact-forest-litter-fungi-mycorrhizal-ingham]] and associated practices.
-

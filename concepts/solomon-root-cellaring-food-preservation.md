@@ -2,7 +2,7 @@
 title: comparison-root-cellaring-guide-vs-canning-and-preserving and Food Preservation
 created: 2026-04-26
 updated: 2026-04-24
-sources: "steve-solomon, [[gardening-when-it-counts]]"
+sources: "steve-solomon, gardening-when-it-counts"
 wikilinks: "winter-gardening-season-extension solomon-vegetable-varieties-self-sufficiency solomon-soil-mineral-depletion solomon-double-digging solomon-raised-beds solomon-fertilizer-selection-application solomon-compost-organic-matter solomon-irrigation-water-scarce solomon-seed-saving-vegetable-breeding solomon-pest-management-without-chemicals solomon-garden-planning-calorie-production"
 type: concept
 tags: [reference]

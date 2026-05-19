@@ -120,11 +120,9 @@ Researchers and practitioners have developed standardized approaches that balanc
 efficiency with safety. Field studies demonstrate consistent results across
 multiple environments and growing conditions.
 
-
 ## Historical Context
 
 Historical development of psilocybin liquid culture spans several decades of research.
 Early experiments established foundational principles that continue to inform
 modern practices. The evolution of understanding has been marked by
 significant breakthroughs in methodology and application.
-
