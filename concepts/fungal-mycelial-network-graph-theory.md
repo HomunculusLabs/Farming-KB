@@ -1,5 +1,5 @@
 ---
-title: [[mycelial-network-graph-theory-analysis]] of [[fungal-mycelial-networks-ecosystem-engineers]]
+title: Fungal Mycelial Network Graph Theory
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---

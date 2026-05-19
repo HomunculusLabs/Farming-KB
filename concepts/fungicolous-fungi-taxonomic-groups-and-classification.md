@@ -1,5 +1,5 @@
 ---
-title: [[fungicolous-fungi-taxonomic-groups]] Groups And Classification
+title: Fungicolous Fungi Taxonomic Groups And Classification
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---

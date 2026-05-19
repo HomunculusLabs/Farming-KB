@@ -1,5 +1,5 @@
 ---
-title: [[fungi-environment-mycelial-nutrient-transport-imaging]] and Network Dynamics in Fungi
+title: Mycelial Nutrient Transport Network Dynamics
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---

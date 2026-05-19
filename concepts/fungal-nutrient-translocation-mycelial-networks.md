@@ -1,5 +1,5 @@
 ---
-title: [[dighton-fungal-nutrient-translocation-element-redistribution]] in Mycelial Networks
+title: Fungal Nutrient Translocation Mycelial Networks
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
