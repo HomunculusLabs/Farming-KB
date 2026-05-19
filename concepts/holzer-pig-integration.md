@@ -6,7 +6,6 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Pigs as Landscape Workers
 
@@ -118,3 +117,5 @@ Integration with existing systems often yields better results than complete repl
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+
+Understanding holzer pig integration provides essential context for both practical application and deeper theoretical study in this domain.

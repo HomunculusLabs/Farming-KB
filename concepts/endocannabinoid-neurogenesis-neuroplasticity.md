@@ -127,7 +127,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[endocannabinoid-system]]
-- [[endocannabinoid-system]]
 - [[psilocybin]]
 - [[ethanol]]
 - [[blesching-conscious-intervention-stress-hormone-reduction-endocannabinoid]]

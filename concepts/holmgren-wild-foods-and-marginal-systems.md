@@ -6,7 +6,6 @@ type: concept
 tags: [permaculture, forage, food-forest]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 ## Wild Foods and Marginal Systems
 
@@ -118,3 +117,5 @@ Field experience and systematic observation remain the most reliable guides for 
 ## Future Directions
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
+
+Understanding holmgren wild foods and marginal systems provides essential context for both practical application and deeper theoretical study in this domain.

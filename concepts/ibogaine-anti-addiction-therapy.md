@@ -7,7 +7,6 @@ tags: [pharmacology, psychedelics]
 sources:
   - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
 ---
----
 title: Ibogaine Anti-Addiction Therapy
 tags: [pharmacology, ibogaine, addiction-treatment, psychedelics]
 date: 2026-04-28

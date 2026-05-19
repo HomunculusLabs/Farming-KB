@@ -51,8 +51,6 @@ succession are key principles that guide practical implementation of designs.
 These principles demonstrate the interconnected nature of ecological systems
 and their relevance to sustainable design practice and regenerative land use.
 The integration of these concepts supports resilient and productive landscape design.
-The integration of these concepts supports resilient and productive landscape design.
-The integration of these concepts supports resilient and productive landscape design.
 
 ## Overview
 

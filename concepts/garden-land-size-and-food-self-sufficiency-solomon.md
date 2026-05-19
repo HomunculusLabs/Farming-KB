@@ -36,7 +36,6 @@ impractically large garden. With potatoes or sweet potatoes as the caloric
 base, complete self-sufficiency becomes achievable on a quarter-acre or less
 of total land (including [[complete-organic-fertilizer-cof-recipe-solomon]] recipe solomon
 - complete organic fertilizer recipe solomon
-- complete organic fertilizer recipe solomon
 
 ## Source
 

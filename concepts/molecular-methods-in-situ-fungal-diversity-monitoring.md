@@ -6,7 +6,6 @@ type: concept
 tags: [fungal ecology], mycology, research-methods]
 sources: []
 ---
----
 title: Molecular Methods for In-Situ growing gourmet global Monitoring
 created: 2026-04-26
 tags:

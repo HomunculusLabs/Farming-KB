@@ -114,7 +114,6 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[ashwagandha]]
-- [[ashwagandha]]
 - [[comparison-ashwagandha-vs-echinacea]]
 - [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
 - [[query-how-to-grow-ashwagandha-at-home]]

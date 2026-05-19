@@ -6,7 +6,6 @@ type: concept
 tags: [diet, culture, cooking, japan]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Fukuoka Japanese Cooking Culture Disappearing
@@ -118,3 +117,5 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[fukuoka-culture-of-clothing-traditional-garb-natural-farming]] and [[fukuoka-matsutake-natural-culture-medium-microbiological-innovation]] for related information.
+
+Understanding fukuoka japanese cooking culture disappearing provides essential context for both practical application and deeper theoretical study in this domain.

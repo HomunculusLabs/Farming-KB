@@ -146,5 +146,4 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[cervantes-companion-planting-pest-deterrent]]
 - [[companion-planting]]
-- [[companion-planting]]
 - [[query-how-to-use-companion-planting-in-your-garden]]

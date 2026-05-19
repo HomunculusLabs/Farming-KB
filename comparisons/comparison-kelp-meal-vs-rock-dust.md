@@ -6,15 +6,12 @@ type: comparison
 tags: [amendments, soil-science]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
----
 ---
 title: "Kelp Meal vs Rock Dust"
 tags: [comparison, soil-amendments, fertilizers, trace-minerals]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 

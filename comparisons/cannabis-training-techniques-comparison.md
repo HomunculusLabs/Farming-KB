@@ -6,7 +6,6 @@ type: comparison
 tags: [cannabis, cultivation]
 sources: []
 ---
----
 title: cannabis training techniques comparison
 created: 2026-04-13
 updated: 2026-04-13

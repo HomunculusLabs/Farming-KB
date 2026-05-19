@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
- - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 ## Fukuoka's Critique of the Green Revolution
 
@@ -118,3 +117,5 @@ Documentation of results enables continuous improvement and knowledge sharing.
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
 Collaborative networks facilitate rapid dissemination of innovations and best practices.
+
+Understanding fukuoka critique green revolution provides essential context for both practical application and deeper theoretical study in this domain.

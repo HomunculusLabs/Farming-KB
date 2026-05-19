@@ -82,4 +82,3 @@ Cultivation history reflects the ongoing refinement of techniques adapted to thi
 
 - lentinus tigrinus cotter
 - [[lentinus-strigosus]]
-- [[lentinus-strigosus]]

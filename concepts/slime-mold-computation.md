@@ -116,5 +116,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[biodiversity-of-fungi-slime-molds-protostelid-dictyostelid]]
 - [[myxomycetes-slime-molds]]
 - [[slime-molds]]
-- [[slime-molds]]
 - [[teaming-with-microbes-algae-slime-molds]]
+
+Understanding slime mold computation provides essential context for both practical application and deeper theoretical study in this domain.

@@ -6,8 +6,6 @@ type: concept
 tags: [gardening, homesteading]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
----
 ---
 title: seasonal garden tasks calendar
 created: 2026-04-20
@@ -15,7 +13,6 @@ updated: 2026-04-20
 type: concept
 tags: [gardening, organic-gardening]
 sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 

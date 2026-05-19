@@ -116,5 +116,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[comparison-moringa-vs-comfrey]]
 - [[moringa-oleifera]]
 - [[moringa-oleifera-horseradish-tree-permaculture]]
-- [[moringa-oleifera-horseradish-tree-permaculture]]
 - [[permaculture-moringa]]

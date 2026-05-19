@@ -6,7 +6,6 @@ type: concept
 tags: [permaculture, economics, community-finance]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 ## Economic and Social Succession
 

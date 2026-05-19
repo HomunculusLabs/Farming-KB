@@ -1,5 +1,4 @@
 ---
----
 ## The Growing Room System
 
 A growing room must maintain temperature range at high humidity via insulation and an integrated control system incorporating heating, cooling, humidification, and air handling. Modern systems integrate all these functions into a single air handling system for balanced conditions.

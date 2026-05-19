@@ -4,7 +4,6 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 tags: [energy]
 ---
@@ -118,3 +117,5 @@ The application of holmgren energy descent planning requires site-specific adapt
 - [[permaculture-energy-descent-planning]]
 - [[det]]
 - [[permaculture]]
+
+Understanding holmgren energy descent planning provides essential context for both practical application and deeper theoretical study in this domain.

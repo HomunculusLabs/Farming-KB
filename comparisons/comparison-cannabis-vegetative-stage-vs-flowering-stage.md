@@ -1,5 +1,4 @@
 ---
----
 title: "cannabis-vegetative-stage vs Flowering Stage"
 tags: [comparison, growth-stages, flowering, vegetative, light-cycles]
 date: 2026-04-25

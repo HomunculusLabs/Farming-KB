@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## Natural Fruit Tree Disease and Pest Control

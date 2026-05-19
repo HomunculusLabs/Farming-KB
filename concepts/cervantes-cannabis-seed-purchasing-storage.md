@@ -10,7 +10,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - seed ordering
   - cannabis-seed-germination-methods storage
@@ -118,3 +117,5 @@ Flexible approaches that respond to changing conditions. For cervantes cannabis 
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
+
+Understanding cervantes cannabis seed purchasing storage provides essential context for both practical application and deeper theoretical study in this domain.

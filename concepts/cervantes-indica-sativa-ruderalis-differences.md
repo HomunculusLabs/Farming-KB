@@ -3,7 +3,6 @@ title: Cannabis Indica, Sativa, Ruderalis, and Afghanica Differences
 created: 2026-04-26
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
     title: Marijuana Horticulture - Jorge Cervantes
     author: Jorge Cervantes
 updated: 2026-04-25

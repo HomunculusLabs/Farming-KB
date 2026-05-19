@@ -5,7 +5,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## How Do I Improve Heavy Clay Soil in My Garden?

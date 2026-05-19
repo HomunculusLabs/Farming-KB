@@ -6,7 +6,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 ## Chicken Tractor Systems A chicken tractor is a portable, floorless enclosure that houses chickens while allowing them to work the soil beneath them. Bill Mollison championed chicken tractors as a prime example of "stacking functions" in [[gaias-garden-cover-crops-soil-building]] are planted.

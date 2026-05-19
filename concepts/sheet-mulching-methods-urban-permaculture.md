@@ -120,4 +120,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[gaias-garden-sheet-mulching-composting-in-place]]
 - [[natural-farming-guide-sheet-mulching-no-dig-garden-preparation]]
 - [[sheet-mulching]]
-- [[sheet-mulching]]

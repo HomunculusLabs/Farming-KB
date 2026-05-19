@@ -67,7 +67,6 @@ observation, and a willingness to adapt approaches based on results.
 
 - [[chrysanthemum-morifolium]]
 - [[chrysanthemum-greenhouse-photoperiod-manipulation]]
-- [[chrysanthemum-greenhouse-photoperiod-manipulation]]
 - [[pyrethrum-chrysanthemum-cinerariifolium]]
 - [[night-interruption-photoperiodism]]
 

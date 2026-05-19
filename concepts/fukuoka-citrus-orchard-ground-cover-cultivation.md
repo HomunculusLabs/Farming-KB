@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Citrus Orchard Ground Cover Cultivation
@@ -15,7 +14,6 @@ updated: 2026-04-18
 
 When Fukuoka set out to revive his father's orchard of old [[citrus-reticulata]]
 
-- [[fukuoka-white-clover-ground-cover]]
 - [[fukuoka-white-clover-ground-cover]]
 ## Practical Applications
 

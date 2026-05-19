@@ -45,7 +45,6 @@ McKenna's analysis of sugar, slavery, and dominance remains relevant in the 21st
 
 McKenna's analysis fits within his broader framework of the [[mckenna-food-of-the-gods-thesis]]
 - [[psychedelic-plants-and-civilization]]
-- [[psychedelic-plants-and-civilization]]
 ## Practical Considerations
 
 Successful implementation of McKenna on Sugar, Slavery, and Dominance requires attention to

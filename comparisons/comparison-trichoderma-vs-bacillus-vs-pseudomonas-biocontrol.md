@@ -79,4 +79,3 @@ Progression from basic understanding to advanced application follows structured 
 ## Notes
 
 Additional context and supporting information relevant to this topic area.
-Additional context and supporting information relevant to this topic area.

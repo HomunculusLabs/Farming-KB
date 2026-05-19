@@ -11,7 +11,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -118,3 +117,5 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[cervantes-breeding-program-design-goal-setting]] and [[marijuana-horticulture-cervantes-hydroponic-growing-systems]] for related information.
+
+Understanding cervantes beetle borers bees wasps loopers provides essential context for both practical application and deeper theoretical study in this domain.

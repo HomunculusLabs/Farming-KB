@@ -40,7 +40,6 @@ Livestock play a large role in Holzer's permaculture system. They provide high-q
 ## Related
 
 - [[holzer-raised-bed-design]]
-- [[holzer-raised-bed-design]]
 - [[holzer-indicator-plants]]
 - [[sepp-holzer-methods]]
 - [[vermicomposting]]

@@ -6,7 +6,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: comparison
 ---
 
@@ -78,3 +77,5 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 ## Performance Metrics
 
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
+
+Understanding comparison biodynamic vs permaculture provides essential context for both practical application and deeper theoretical study in this domain.

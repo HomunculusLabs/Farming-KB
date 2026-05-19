@@ -6,7 +6,6 @@ type: query
 tags: [composting, soil-science]
 sources: []
 ---
----
 title: "What Is the Difference Between Aerobic and Anaerobic Composting"
 tags: [query, composting, soil-health, organic-farming, waste-management]
 date: 2026-04-25

@@ -144,7 +144,6 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[chaga]]
-- [[chaga]]
 - [[comparison-chaga-vs-turkey-tail]]
 - [[comparison-shiitake-vs-chaga]]
 - [[query-how-to-grow-chaga-mushroom]]

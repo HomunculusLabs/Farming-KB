@@ -141,7 +141,6 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[stoned-ape-hypothesis]]
-- [[stoned-ape-hypothesis]]
 - [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]]
 - [[stoned-ape-hypothesis-psilocybin-human-evolution]]
 - [[terence-mckenna-stoned-ape-hypothesis]]

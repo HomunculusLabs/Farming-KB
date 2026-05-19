@@ -6,7 +6,6 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 ## Holzer Mushroom Logs, Mycorrhizae and Fungi Cultivation
@@ -118,3 +117,5 @@ Documentation of results enables continuous improvement and knowledge sharing.
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
 Collaborative networks facilitate rapid dissemination of innovations and best practices.
+
+Understanding holzer mushroom logs mycorrhizae and fungi cultivation provides essential context for both practical application and deeper theoretical study in this domain.

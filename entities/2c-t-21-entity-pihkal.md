@@ -48,8 +48,6 @@ sources: ["Shulgin - PIHKAL"]
 >
 > (with 8 mg) Comes on very gradually and slowly. Takes about an hour
 >
->
->
 > to feel. Reasonably intense in two hours, ++. Very pleasant
 > material, enhancing communication, clear thinking, good feeling.
 > There is a feeling of closeness; the bondedness with the group grows

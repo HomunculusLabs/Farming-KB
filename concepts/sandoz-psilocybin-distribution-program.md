@@ -7,7 +7,6 @@ tags: [history, mycology, psychedelics]
 sources:
   - "raw/papers/j-gartz-narrenschwamme.md"
 ---
----
 titlpsilocybinPsilocybin Distribution Program
 created: 2026-04-19
 updated: 2026-04-18

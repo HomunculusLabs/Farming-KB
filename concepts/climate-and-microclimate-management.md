@@ -6,7 +6,6 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
   - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
 ---
@@ -118,3 +117,5 @@ Flexible approaches that respond to changing conditions. For climate microclimat
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
+
+Understanding climate and microclimate management provides essential context for both practical application and deeper theoretical study in this domain.

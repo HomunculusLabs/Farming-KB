@@ -6,15 +6,12 @@ type: comparison
 tags: [composting, soil-science]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
----
 ---
 title: "Black Soldier Fly Composting vs Hot Composting"
 tags: [comparison, composting, waste-management, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 

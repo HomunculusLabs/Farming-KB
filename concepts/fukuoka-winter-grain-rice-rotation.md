@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 ## Fukuoka Winter Grain/Rice Rotation
 
@@ -118,3 +117,5 @@ Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
+
+Understanding fukuoka winter grain rice rotation provides essential context for both practical application and deeper theoretical study in this domain.

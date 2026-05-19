@@ -28,8 +28,6 @@ The classic [[rocket-stove]] uses a J-tube layout:
 ```
         Heat Riser (insulated)
             │
-            │
-            │
 Feed ──────┘
 Tube
 (horizon.)

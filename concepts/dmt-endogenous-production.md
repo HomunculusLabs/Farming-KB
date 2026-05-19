@@ -7,7 +7,6 @@ tags: [pharmacology, psychedelics]
 sources:
   - "raw/papers/terence-mckenna-food-of-the-gods.md"
 ---
----
 title: Dimethyltryptamine Endogenous Production
 tags: [neuroscience, dmt, endogenous-psychedelics, tryptamines]
 date: 2026-04-28
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
+
+Understanding dmt endogenous production provides essential context for both practical application and deeper theoretical study in this domain.

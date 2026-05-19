@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Pine Blight and Matsutake as Portent of Desertification
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[natural-farming-fukuoka]]
 ## Further Reading
 Continued research and field trials yield new insights into this subject.
+
+Understanding fukuoka pine blight matsutake portent provides essential context for both practical application and deeper theoretical study in this domain.

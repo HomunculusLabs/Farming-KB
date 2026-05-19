@@ -6,7 +6,6 @@ type: concept
 tags: [regenerative, soil]
 sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
 
 ## Somalia Desert Greening Mission

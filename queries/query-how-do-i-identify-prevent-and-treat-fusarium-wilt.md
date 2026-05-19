@@ -5,7 +5,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## How Do I Identify, Prevent, and Treat Fusarium Wilt?

@@ -124,7 +124,6 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[duck-keeping]]
-- [[duck-keeping]]
 - [[duck-tractor]]
 - [[fukuoka-duck-rice-fish-symbiosis]]
 - [[permaculture-duck-pond-systems]]

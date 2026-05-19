@@ -7,7 +7,6 @@ tags: [comparison, permaculture, garden-design, intensive-gardening,
 small-space]
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - "raw/papers/gaias-garden-toby-hemenway.md"
 type: comparison
 ---
 

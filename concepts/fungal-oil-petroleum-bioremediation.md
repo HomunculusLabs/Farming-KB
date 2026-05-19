@@ -6,7 +6,6 @@ type: concept
 tags: [mycology, fungi]
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
 ## Mycoremediation of Oil and Petroleum Hydrocarbons
 

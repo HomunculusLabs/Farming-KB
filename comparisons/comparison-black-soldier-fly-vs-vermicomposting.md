@@ -1,5 +1,4 @@
 ---
----
 title: "Black Soldier Fly vs Vermicomposting"
 tags: [composting, soil, waste-management, insects]
 date: 2026-04-25

@@ -6,7 +6,6 @@ type: comparison
 tags: [food-preservation, homesteading]
 sources: []
 ---
----
 title: "Smoking vs Canning"
 tags: [comparison, food-preservation, meat, homesteading]
 date: 2026-04-25

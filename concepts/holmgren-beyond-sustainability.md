@@ -4,7 +4,6 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 tags: [reference]
 ---

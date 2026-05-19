@@ -1,5 +1,4 @@
 ---
----
 title: "fruit-tree-pruning"
 tags: [comparison, fruit, orcharding, pruning, perennial]
 date: 2026-04-25

@@ -1,5 +1,4 @@
 ---
----
 title: "Bamboo vs cordwood-construction"
 tags:
   - natural-building

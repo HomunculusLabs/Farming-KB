@@ -127,4 +127,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
 - [[comparison-schisandra-vs-rhodiola]]
 - [[rhodiola-rosea]]
-- [[rhodiola-rosea]]

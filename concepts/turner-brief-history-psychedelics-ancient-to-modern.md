@@ -7,7 +7,6 @@ tags: [reference]
 sources:
   - "raw/papers/the-essential-psychedelic-guide-by-dimitri-turner.md"
 ---
----
 title: Brief History of Psychedelics from Ancient Times to Modern Era (Turner)
 created: 2026-04-18
 updated: 2026-04-18

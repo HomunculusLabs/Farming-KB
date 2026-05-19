@@ -6,7 +6,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
   - "raw/papers/eliot-coleman-winter-harvest-handbook.md"
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"

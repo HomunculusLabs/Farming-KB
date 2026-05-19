@@ -6,7 +6,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
+
+Understanding cervantes organic mineral amendments provides essential context for both practical application and deeper theoretical study in this domain.

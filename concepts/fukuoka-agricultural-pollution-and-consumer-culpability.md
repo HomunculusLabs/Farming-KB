@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 ## Fukuoka on Agricultural Pollution and Consumer Culpability
 
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]
 - [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
 - [[fukuoka-western-vs-japanese-attitudes]]
+
+Understanding fukuoka agricultural pollution and consumer culpability provides essential context for both practical application and deeper theoretical study in this domain.

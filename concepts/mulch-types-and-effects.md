@@ -6,7 +6,6 @@ type: concept
 tags: [soil, gardening]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## Mulch Types and Effects

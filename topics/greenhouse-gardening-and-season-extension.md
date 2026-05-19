@@ -1,45 +1,3 @@
----
-title: "coleman protected cultivation, from cold frames to high tunnels to climate-controlled greenhouses"
-tags: [greenhouse, season-extension, cold-frames, high-tunnels, polytunnels, four-season-farming, protected-cultivation, winter-gardening]
-date: 2026-04-30
-updated: 2026-04-30
-sources:
-  - cold-frame-construction
-  - cold-frame-gardening
-  - coleman-cool-greenhouse
-  - coleman-four-season-farm
-  - coleman-greenhouse-soil-management
-  - [[coleman-greenhouse-tomato-vertical-growing]]
-  - coleman-deep-organic-farming
-  - coleman-deep-organic-history-and-philosophy
-  - coleman-cold-hardy-varieties
-  - [[coleman-cold-hardiness-testing-ratings]]
-  - coleman-high-tunnel-cold-frame-design
-  - coleman-drip-irrigation-and-water-management
-  - underground-greenhouse-walipini
-  - passive-solar-and-biomass-energy
-  - greenhouse-growing-essentials
-  - solomon-greenhouse-and-season-extension-basics
-  - solomon-row-covers-and-season-extension
-  - coleman-parisian-maraicher-system
-  - holzer-frost-protection-techniques
-  - coleman-mobile-greenhouse-crop-rotation-patterns
-  - winter-gardening-season-extension
-  - faires-season-extension-cold-frames
-related_concepts:
-  - cold-frame-construction
-  - cold-frame-gardening
-  - coleman-four-season-farm
-  - coleman-cool-greenhouse
-  - coleman-cold-hardy-varieties
-  - coleman-high-tunnel-cold-frame-design
-  - coleman-greenhouse-soil-management
-  - coleman-drip-irrigation-and-water-management
-  - underground-greenhouse-walipini
-  - coleman-mobile-greenhouse-crop-rotation-patterns
-  - winter-gardening-season-extension
-  - solomon-greenhouse-and-season-extension-basics
----
 
 ## Greenhouse Gardening and Season Extension
 
@@ -68,7 +26,7 @@ The economic and nutritional motivations for season extension are compelling.
 For commercial growers, extending the harvest season by even a few weeks at
 either end can dramatically increase revenue per acre by capturing early- and
 late-market premiums. [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]; and the practical
-innovations of organic pioneers such as Albert Howard and Lady Eve Balfour.
+innovations of organic pioneers such as [[albert-howard]] and [[lady-eve-balfour]].
 Contemporary practitioners like Coleman, [[sepp-holzer]] have
 synthesized these traditions with new materials -- plastic films, spun-bonded
 fabrics, polycarbonate panels -- creating a toolkit accessible to growers at
@@ -87,7 +45,7 @@ knowledge two thousand years ago, establishing an agricultural sophistication
 that included early forms of season extension.
 
 The most significant pre-modern system emerged in France. Under Jean-Baptiste
-La Quintinie at the royal potager of Versailles in the 1670s and 1680s,
+[[la-quintinie]] at the royal potager of Versailles in the 1670s and 1680s,
 sophisticated techniques were developed for producing out-of-season produce.
 These reached their full expression with the Parisian maraichers (market
 gardeners) between 1850 and 1900. Operating on plots of one to two acres within
@@ -95,8 +53,8 @@ Paris, the maraichers achieved four to eight harvests per year using 100 to 400
 tons of horse manure per acre, glass-covered cold frames, and glass bell jars
 called cloches. Hotbeds heated by decomposing manure produced fresh salads in
 January. The system declined after 1915 as horses were replaced by automobiles,
-but the techniques were documented by writers including Prince Peter Kropotkin
-and survived in old gardening books. Eliot Coleman visited Louis Savier's
+but the techniques were documented by writers including Prince [[peter-kropotkin]]
+and survived in old gardening books. [[eliot-coleman]] visited [[louis-savier]]'s
 maraicher garden near Paris in 1974 and found the nineteenth-century techniques
 still alive, adapted with lightweight rail tracks and self-propelled irrigation.
 

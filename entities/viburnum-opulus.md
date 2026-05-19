@@ -6,7 +6,6 @@ type: entity
 tags: [species, herbalism]
 sources: [raw/papers/medicinal-herb-profiles.md]
 ---
----
 title: Viburnum opulus
 type: species
 tags:

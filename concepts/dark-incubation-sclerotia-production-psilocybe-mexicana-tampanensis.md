@@ -104,7 +104,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]]
 - [[dark-septate-endophytes]]
-- [[dark-septate-endophytes]]
 - [[dark-taxa-fungi]]
 - [[mycological-dark-taxa]]
 ## Practical Applications

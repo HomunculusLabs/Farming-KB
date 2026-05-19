@@ -1,5 +1,4 @@
 ---
----
 ## Ingham — Glomalin and Biological Soil Glues
 
 Elaine Ingham views glomalin as part of a much broader category of biological glue compounds produced by many soil organisms, not just [[fungal-peat-decomposition-and-carbon-storage]].

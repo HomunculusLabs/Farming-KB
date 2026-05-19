@@ -6,7 +6,6 @@ type: concept
 tags: [permaculture, design, season-extension, microclimate]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ## Greenhouse Growing in Cool Climates (Mollison)
 Updated: 2026-04-18

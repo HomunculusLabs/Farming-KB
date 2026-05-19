@@ -78,4 +78,3 @@ Dichloran-glycerol medium (commonly designated DG18) is a selective culture medi
 
 ## Related
 - [[dichloran-glycerol-18-medium]]
-- [[dichloran-glycerol-18-medium]]

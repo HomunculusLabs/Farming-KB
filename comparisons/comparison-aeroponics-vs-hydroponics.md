@@ -6,7 +6,6 @@ type: comparison
 tags: [gardening, hydroponics]
 sources: []
 ---
----
 title: "Aeroponics vs Hydroponics"
 tags: [comparison, hydroponics, cannabis, growing-methods, water-culture]
 date: 2026-04-25

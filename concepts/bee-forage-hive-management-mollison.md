@@ -6,7 +6,6 @@ type: concept
 tags: [permaculture, design, animal-husbandry, beekeeping, forage]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ## Bee Forage and Hive Management (Mollison)
 Updated: 2026-04-18
@@ -118,3 +117,5 @@ Integration with existing systems often yields better results than complete repl
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+
+Understanding bee forage hive management mollison provides essential context for both practical application and deeper theoretical study in this domain.

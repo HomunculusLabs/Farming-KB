@@ -6,7 +6,6 @@ type: concept
 tags: [cannabis, nutrients]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## Cannabis Nutrient Management and Deficiency Symptoms

@@ -1,5 +1,4 @@
 ---
----
 title: "ectomycorrhizal-fungi"
 tags: [comparison, mycorrhizal-fungi, amf, ecm, symbiosis]
 date: 2026-04-25

@@ -135,5 +135,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[biodiversity-smut-fungi-diversity]]
 - [[osmophilic-osmotolerant-fungi-low-water-activity]]
 - [[smut-fungi]]
-- [[smut-fungi]]
 - [[ustilaginomycetes-smut-fungi-classification-diversity]]

@@ -6,7 +6,6 @@ date: 2026-05-02
 updated: 2026-05-02
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - "raw/papers/gaias-garden-toby-hemenway.md"
 type: query
 ---
 

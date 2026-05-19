@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Fukuoka Mu Economics
@@ -118,3 +117,5 @@ The application of fukuoka mu economics requires site-specific adaptation and on
 - [[fukuoka-textdoc-farming-economics-quarter-acre-self-sufficiency]]
 - [[det]]
 - [[natural-farming]]
+
+Understanding fukuoka mu economics provides essential context for both practical application and deeper theoretical study in this domain.

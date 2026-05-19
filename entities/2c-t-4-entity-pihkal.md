@@ -42,8 +42,6 @@ sources: ["Shulgin - PIHKAL"]
 >
 > (with 9 mg) An important characteristic of this experience was the
 >
->
->
 > sense of letting go and flowing with it. Just follow where it leads.
 > This seemed to lead to a growing euphoria, a feeling of clearing out
 > of body residues, and the handling of very impressive insights. My
@@ -79,3 +77,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+Understanding 2c t 4 entity pihkal provides essential context for both practical application and deeper theoretical study in this domain.

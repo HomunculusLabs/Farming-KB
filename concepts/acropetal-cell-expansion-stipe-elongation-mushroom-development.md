@@ -102,7 +102,6 @@ which together determine the evaporative demand hypothesis proposed by Badham:
 | Humidity | Modulates water loss | Evaporative demand gradient |
 | Temperature | Affects metabolic rate | Enzyme activity, membrane properties |
 | Light | May trigger hormonal responses | Photoreceptor-mediated signaling |
-| Light | May trigger hormonal responses | Photoreceptor-mediated signaling |
 
 ## Implications for Cultivation
 
@@ -118,3 +117,5 @@ Understanding stipe elongation has practical implications:
 - [[mushroom-geotropism-spore-formation]] — Gravity response linked to sporulation
 ## Further Reading
 Continued research and field trials yield new insights into this subject.
+
+Understanding acropetal cell expansion stipe elongation mushroom development provides essential context for both practical application and deeper theoretical study in this domain.

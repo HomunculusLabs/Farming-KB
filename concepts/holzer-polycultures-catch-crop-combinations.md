@@ -6,7 +6,6 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 ## Holzer Polyculture and Catch Crop Combinations
@@ -118,3 +117,5 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[holzer-catch-crop-and-polyculture-design]] and [[holzer-green-manure-crop-compendium]] for related information.
+
+Understanding holzer polycultures catch crop combinations provides essential context for both practical application and deeper theoretical study in this domain.

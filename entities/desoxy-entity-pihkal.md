@@ -32,8 +32,6 @@ sources: ["Shulgin - PIHKAL"]
 > auditory hallucination, or an out-of-the-blue startle. So take it
 > easy going up. [Some 24 hours after this experiment had been
 >
->
->
 > completed, and a normal baseline re-established, a complex and
 > psycho-logically disruptive syndrome occurred, that lasted for the
 > better part of a week. The temporal juxtaposition [[cannabis-spiritual-ritual-use]] crisis" initially suggested some

@@ -6,7 +6,6 @@ type: concept
 tags: [permaculture, design, fruit-trees, native-plants]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ## Pawpaw (Asimina triloba)
 

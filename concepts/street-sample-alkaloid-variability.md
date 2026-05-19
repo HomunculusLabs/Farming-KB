@@ -121,6 +121,5 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[psilocybe-cubensis-street-sample-potency-variability]]
 - [[psilocybe-cubensis-street-sample-potency-variability-bigwood-beug-1982]]
-- [[psilocybe-cubensis-street-sample-potency-variability-bigwood-beug-1982]]
 - [[street-sample-potency-variability-in-psilocybe-cubensis]]
 - [[street-sample-tenfold-variability-dosage-unpredictability-bigwood-beug-1982]]

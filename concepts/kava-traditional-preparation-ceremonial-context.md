@@ -109,7 +109,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[comparison-kava-vs-kratom-cultivation-chemistry-and-uses]]
 - [[kava]]
-- [[kava]]
 - [[kava-kava-ethnobotany-chemistry]]
 - [[plants-of-the-gods-piper-methysticum-kava]]
 ## Further Reading

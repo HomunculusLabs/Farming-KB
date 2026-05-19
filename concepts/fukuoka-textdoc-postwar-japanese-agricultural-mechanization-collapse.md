@@ -6,7 +6,6 @@ type: concept
 tags: [natural-farming, fukuoka]
 sources: [raw/papers/fukuoka-the-one-straw-revolution.md]
 ---
----
 title: Postwar Japanese Agricultural Mechanization and Village Collapse
 tags:
   - fukuoka

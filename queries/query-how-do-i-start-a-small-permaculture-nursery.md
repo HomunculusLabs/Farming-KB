@@ -6,7 +6,6 @@ date: 2026-05-02
 updated: 2026-05-02
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
 

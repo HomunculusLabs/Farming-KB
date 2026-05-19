@@ -6,7 +6,6 @@ type: concept
 tags: [cannabis]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## Cannabis Pest and Disease Identification
@@ -118,3 +117,5 @@ Documentation of results enables continuous improvement and knowledge sharing.
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
 Collaborative networks facilitate rapid dissemination of innovations and best practices.
+
+Understanding cervantes pest disease provides essential context for both practical application and deeper theoretical study in this domain.

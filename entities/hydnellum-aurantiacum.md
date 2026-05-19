@@ -1,22 +1,3 @@
----
-title: "Hydnellum aurantiacum"
-type: species
-tags:
-  - fungi
-  - [[basidiomycota]]
-  - thelephorales
-  - mycorrhizal
-  - tooth-fungus
-  - forest-ecology
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Maas Geesteranus, R.A. (1971). "Hydnellum (Hydnum) in the Netherlands." Persoonia.
-  - Harrison, K.A. (1964). "A Monograph of the genus Hydnellum (Fungi: Hydnaceae)." Nova Hedwigia.
-  - Kõljalg, U. et al. (2013). "Towards a unified paradigm for sequence-based identification of fungi." Molecular Ecology, 22(21), 5271-5277.
-  - URL: https://www.mycobank.org/
-created: 2026-04-28
----
 
 ## Overview
 
@@ -29,7 +10,7 @@ The species produces tough, corky basidiocarps that are inedible due to their ex
 ### Taxonomy
 
 - **Kingdom:** Fungi
-- **Division:** Basidiomycota
+- **Division:** [[basidiomycota]]
 - **Class:** Agaricomycetes
 - **Order:** Thelephorales
 - **Family:** Bankeraceae

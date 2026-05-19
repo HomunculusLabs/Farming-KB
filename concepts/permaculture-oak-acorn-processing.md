@@ -6,7 +6,6 @@ type: concept
 tags: [permaculture, design]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 Updated: 2026-04-18 Oaks (Quercus spp.) are massive, long-lived trees providing
 timber, wildlife habitat, and a traditional food source — acorns — that predated

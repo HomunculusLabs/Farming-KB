@@ -6,7 +6,6 @@ type: concept
 tags: [psychedelics, ethnobotany, philosophy]
 sources: [raw/papers/food-of-the-gods-mckenna.md]
 ---
----
 title: Archaic Sexuality and the Partnership Society
 tags: [sexuality, partnership-society, dominator-culture, feminism, ibogaine, Bwiti, McKenna, gender]
 date: 2026-04-28

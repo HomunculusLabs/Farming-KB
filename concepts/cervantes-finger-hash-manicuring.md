@@ -6,7 +6,6 @@ type: concept
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, manicuring, harvest, kief]
 ---
 
@@ -118,3 +117,5 @@ Practitioners frequently encounter several challenges when working with
 these concepts. [[isopropyl-alcohol]]
 - [[cervantes-15-bag-water-hash-extraction]]
 - [[cervantes-dry-sieve-hash-pollinator]]
+
+Understanding cervantes finger hash manicuring provides essential context for both practical application and deeper theoretical study in this domain.

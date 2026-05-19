@@ -125,6 +125,5 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[comparison-kava-vs-kratom-cultivation-chemistry-and-uses]]
 - [[kava]]
-- [[kava]]
 - [[kava-traditional-preparation-ceremonial-context]]
 - [[plants-of-the-gods-piper-methysticum-kava]]

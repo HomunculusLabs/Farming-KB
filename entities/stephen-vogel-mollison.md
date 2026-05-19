@@ -74,9 +74,6 @@ These ideas continue to influence ecological design education worldwide.
 These principles demonstrate the interconnected nature of ecological systems
 and their relevance to sustainable design practice and regenerative land use.
 The integration of these concepts supports resilient and productive landscape design.
-The integration of these concepts supports resilient and productive landscape design.
-The integration of these concepts supports resilient and productive landscape design.
-The integration of these concepts supports resilient and productive landscape design.
 
 ## Overview
 

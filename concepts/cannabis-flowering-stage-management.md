@@ -6,7 +6,6 @@ type: concept
 tags: [cannabis, cultivation]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 ## Cannabis Flowering Stage Management
 

@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 ## Fukuoka on Japan's Postwar Agricultural Transformation
 
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]
 - [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
 - [[fukuoka-western-vs-japanese-attitudes]]
+
+Understanding fukuoka japan postwar agriculture provides essential context for both practical application and deeper theoretical study in this domain.

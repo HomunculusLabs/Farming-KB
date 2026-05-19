@@ -6,7 +6,6 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 ## Holzer Wild Fruit Trees and Hedges
@@ -118,3 +117,5 @@ Flexible approaches that respond to changing conditions. For holzer wild fruit t
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
+
+Understanding holzer wild fruit trees and hedges provides essential context for both practical application and deeper theoretical study in this domain.

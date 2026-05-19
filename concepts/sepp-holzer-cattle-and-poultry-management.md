@@ -6,7 +6,6 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 Updated: 2026-04-18
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[sepp-holzer-animal-integration]]
 - [[sepp-holzer-terrace-systems-and-raised-beds]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
+
+Understanding sepp holzer cattle and poultry management provides essential context for both practical application and deeper theoretical study in this domain.

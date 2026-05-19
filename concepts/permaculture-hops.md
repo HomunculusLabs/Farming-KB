@@ -6,7 +6,6 @@ type: concept
 tags: [permaculture, design]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 Updated: 2026-04-18 Hops (Humulus lupulus) are perennial climbing plants best known for their role in beer production. The flowers contain antimicrobial compounds and natural sedative properties. They serve multiple functions in willows-salix-spp, hazelnut, or [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] [[cervantes-powdery-mildew-prevention-treatment]] are the most common diseases. [[stamets-growing-room-air-circulation-co2-management]] around the base of the vines. Remove and destroy infected foliage. See [[jadam-fruit-tree-winter-pest-control]]
 ## Practical Applications

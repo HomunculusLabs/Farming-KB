@@ -1,29 +1,9 @@
----
-title: Withania Somnifera
-type: species
-tags:
-  - herbal-plant
-  - adaptogen
-  - ayurveda
-  - [[solanaceae]]
-  - withanolides
-  - [[ashwagandha]]
-  - nootropic
-  - anti-inflammatory
-  - rasayana
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Indian Journal of Psychological Medicine - Ashwagandha RCTs
-  - Alternative Medicine Review - Withanolide pharmacology
-  - Ayurvedic Pharmacopoeia of India
----
 
 ## Withania somnifera (Ashwagandha)
 
 ## Overview
 
-*Withania somnifera*, commonly known as **Ashwagandha**, **Indian Ginseng**, or **Winter Cherry**, is a perennial shrub in the family Solanaceae. One of the most important herbs in Ayurvedic medicine, it has been classified as a *Rasayana* (rejuvenator) and used for over 3,000 years to promote vitality, reduce stress, and enhance cognitive function. The name "ashwagandha" derives from Sanskrit: *ashwa* (horse) + *gandha* (smell), referring to the horse-like odor of the root and its traditional association with conferring the strength and vitality of a stallion.
+*Withania somnifera*, commonly known as **[[ashwagandha]]**, **Indian Ginseng**, or **Winter Cherry**, is a perennial shrub in the family [[solanaceae]]. One of the most important herbs in Ayurvedic medicine, it has been classified as a *Rasayana* (rejuvenator) and used for over 3,000 years to promote vitality, reduce stress, and enhance cognitive function. The name "ashwagandha" derives from Sanskrit: *ashwa* (horse) + *gandha* (smell), referring to the horse-like odor of the root and its traditional association with conferring the strength and vitality of a stallion.
 
 ## Taxonomy
 

@@ -116,7 +116,6 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[biointensive-gardening-overview]]
-- [[biointensive-gardening-overview]]
 - [[biointensive-mini-farming]]
 - [[jeavons-grow-biointensive-method-overview]]
 - [[query-what-is-the-difference-between-biointensive-and-no-till-gardening]]

@@ -6,7 +6,6 @@ type: concept
 tags: [gardening, organic-gardening]
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 
 ## Gaia's Garden Sheet Mulching Guide

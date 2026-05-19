@@ -6,7 +6,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: comparison
 ---
 
@@ -78,3 +77,5 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+
+Understanding comparison wicking bed vs passive wick hydroponics provides essential context for both practical application and deeper theoretical study in this domain.

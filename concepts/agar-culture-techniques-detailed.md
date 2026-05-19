@@ -1,5 +1,4 @@
 ---
----
 ## Agar Culture Techniques
 
 Agar culture is the foundational laboratory technique in strain-isolation-from-wild-specimens or spore prints

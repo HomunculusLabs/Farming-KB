@@ -6,7 +6,6 @@ type: concept
 tags: [soil-biology, bacteria, decomposition]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## Bacteria — The Smallest Workers

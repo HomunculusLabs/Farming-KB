@@ -1,5 +1,4 @@
 ---
----
 title: Coprophilous Fungi as Biodiversity Indicators
 created: 2026-04-26
 tags:

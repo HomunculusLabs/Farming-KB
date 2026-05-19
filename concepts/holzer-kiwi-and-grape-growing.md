@@ -6,7 +6,6 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 ## Holzer Kiwi and Grape Growing
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[holzer-pond-construction-and-aquaculture]]
 - [[sepp-holzer-terrace-systems-and-raised-beds]]
 Ongoing developments continue to expand practical applications and theoretical understanding.
+
+Understanding holzer kiwi and grape growing provides essential context for both practical application and deeper theoretical study in this domain.

@@ -6,7 +6,6 @@ type: concept
 tags: [gardening, organic-gardening]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 ## Forest Garden Seven Layers
 

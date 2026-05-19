@@ -6,8 +6,6 @@ type: topic
 tags: [permaculture, urban, guerrilla-gardening, community, food-security, sustainability, city-farming]
 sources:
   - "raw/papers/urban-permaculture-guerilla-gardening.md"
-  - "raw/papers/urban-permaculture-guerilla-gardening.md"
-  - "raw/papers/urban-permaculture-guerilla-gardening.md"
 ---
 
 ## Urban Permaculture and Guerrilla Gardening

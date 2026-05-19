@@ -11,7 +11,6 @@ tags:
   - resource-efficiency
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 ## [[holmgren-wind-power-and-renewable-energy-debate]]. [[holmgren-biomass-fuels-and-energy-yield-ratios]] barely above 1, wood plantations
 yield 1.5 to 4, and 300-year-old rainforest yields 12. The pattern is clear:
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
+
+Understanding permaculture energy cycling and resource efficiency provides essential context for both practical application and deeper theoretical study in this domain.

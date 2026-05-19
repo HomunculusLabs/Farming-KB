@@ -6,7 +6,6 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 ## Holzer Problem Plant Regulation
@@ -118,3 +117,5 @@ Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
+
+Understanding holzer problem plant regulation provides essential context for both practical application and deeper theoretical study in this domain.

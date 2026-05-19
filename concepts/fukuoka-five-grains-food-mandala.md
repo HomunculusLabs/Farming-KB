@@ -6,7 +6,6 @@ type: concept
 tags: [diet]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Fukuoka Five Grains and Food Mandala

@@ -6,7 +6,6 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Mushrooms as a Farm Enterprise
 
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[holzer-permaculture-landscape-design]]
 - [[holzer-pond-construction-and-aquaculture]]
 - [[sepp-holzer-terrace-systems-and-raised-beds]]
+
+Understanding holzer mushroom cultivation provides essential context for both practical application and deeper theoretical study in this domain.

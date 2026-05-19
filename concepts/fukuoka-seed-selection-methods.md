@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 ## Fukuoka Seed Selection Methods
 
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
 - [[fukuoka-western-vs-japanese-attitudes]]
 Ongoing developments continue to expand practical applications and theoretical understanding.
+
+Understanding fukuoka seed selection methods provides essential context for both practical application and deeper theoretical study in this domain.

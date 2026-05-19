@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 ## Fukuoka's Tasty Rice Illusion
 
@@ -118,3 +117,5 @@ Field experience and systematic observation remain the most reliable guides for 
 ## Future Directions
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
+
+Understanding fukuoka tasty rice illusion provides essential context for both practical application and deeper theoretical study in this domain.

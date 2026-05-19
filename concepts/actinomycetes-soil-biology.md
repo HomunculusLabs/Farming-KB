@@ -6,7 +6,6 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
 
 ## What Are Actinomycetes

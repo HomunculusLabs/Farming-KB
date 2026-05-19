@@ -6,7 +6,6 @@ type: concept
 tags: [herbalism, herbs, medicine]
 sources: []
 ---
----
 title: Herbal Baths and Hydrotherapy
 created: 2026-04-17
 updated: 2026-04-17
@@ -32,7 +31,6 @@ Herbal baths complement internal [[herbal-poultices-and-compresses]] with soothi
 
 ## Related
 
-- [[herbal-poultices-and-compresses]]
 - [[herbal-poultices-and-compresses]]
 
 - [[deep-relaxation-and-mind-body-healing]]

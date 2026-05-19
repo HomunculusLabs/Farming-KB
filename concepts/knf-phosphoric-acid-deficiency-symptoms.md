@@ -67,7 +67,6 @@ type: concept
 2. Water
 3. Jar or det
 - [[knf-water-soluble-phosphoric-acid]]
-- [[knf-water-soluble-phosphoric-acid]]
 
 ## Overview
 

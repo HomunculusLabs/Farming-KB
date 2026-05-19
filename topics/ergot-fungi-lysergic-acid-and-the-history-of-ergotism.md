@@ -142,4 +142,3 @@ The second clinical form of ergotism produced neurological rather than
 circulatory symptoms. Convulsive ergotism began similarly with gastrointestinal
 distress but progressed to painful spasms of limb muscles, culminating in
 epileptic-like convulsions and delirium.
-

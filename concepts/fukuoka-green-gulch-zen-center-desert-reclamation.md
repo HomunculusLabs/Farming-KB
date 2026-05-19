@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming]
 sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 

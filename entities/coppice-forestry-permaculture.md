@@ -137,5 +137,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[comparison-willow-vs-poplar-for-coppice-and-bioenergy]]
 - [[cool-temperate-forage-systems-and-coppice]]
 - [[coppice-and-pollard-systems]]
-- [[coppice-and-pollard-systems]]
 - [[permplant-chestnuts-castanea-nut-crop-coppice]]

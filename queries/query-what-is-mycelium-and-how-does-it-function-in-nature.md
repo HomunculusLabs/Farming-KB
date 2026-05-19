@@ -8,13 +8,11 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
----
 title: "What Is Mycelium and How Does It Function in Nature"
 tags: [query, mycology, fungal-biology, mycelium, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/mycelium-running-stamets.md"
 ---
 

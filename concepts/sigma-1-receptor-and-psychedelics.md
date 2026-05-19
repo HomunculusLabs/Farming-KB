@@ -7,7 +7,6 @@ tags: [pharmacology, psychedelics]
 sources:
   - "raw/papers/blesching-cannabis-pain-management.md"
 ---
----
 title: Sigma-1 Receptor and Psychedelics
 tags: [neuroscience, sigma-receptors, psychedelics, neuroprotection]
 date: 2026-04-28

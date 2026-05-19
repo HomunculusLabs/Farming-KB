@@ -33,7 +33,6 @@ sources: ["Shulgin - PIHKAL"]
 > there was no one to be seen in any direction. And then one of us
 > spotted a sheet of paper, torn to the center where there was a small
 >
->
 > hole, and it was flattened up against the kite. There was a message.
 > Apparently whoever had been flying it had put a message on the string,
 > and let the wind take it up to the kite itself. I reached for the
@@ -78,3 +77,5 @@ Applied methodologies translate theoretical knowledge into actionable strategies
 
 Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, [[ingham-compost-tea-application-rates-and-timing]] considerations all influence outcomes significantly.
 Further research may reveal additional [[mycoremediation-applications-and-advanced-fungal-research]] ecological relationships.
+
+Understanding tm entity pihkal provides essential context for both practical application and deeper theoretical study in this domain.

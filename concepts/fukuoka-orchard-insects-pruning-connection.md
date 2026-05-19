@@ -6,7 +6,6 @@ type: concept
 tags: [regenerative, troubleshooting]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Orchard Insects and the Pruning Connection

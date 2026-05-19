@@ -5,7 +5,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 ## Pond Design vs Dam Construction

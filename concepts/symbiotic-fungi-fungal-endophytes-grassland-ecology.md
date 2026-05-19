@@ -7,7 +7,6 @@ tags: [fungal-ecology, mycology]
 sources:
   - "raw/papers/symbiotic-fungi.md"
 ---
----
 title: Fungal Endophytes in Grassland Ecology
 created: 2026-04-24
 updated: 2026-04-24

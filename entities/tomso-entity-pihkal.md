@@ -13,7 +13,6 @@ sources: ["Shulgin - PIHKAL"]
 > unable to estimate the age of anybody who was female, at least by
 > looking at her face. All aspects, both child-like and old, seemed to
 >
->
 > be amalgamated into each face, all at the same time. There was
 > remarkable time-slowing; overall the experience was favorable. That
 > certainly was not the effect of the alcohol in the wine. Food

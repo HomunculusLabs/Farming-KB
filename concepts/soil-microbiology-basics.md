@@ -6,7 +6,6 @@ type: concept
 tags: [soil, agriculture]
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
 ## Soil Microbiology Basics
 

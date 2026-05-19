@@ -6,7 +6,6 @@ type: concept
 tags: [diet, philosophy, civilization]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Fukuoka Diet, Blood, Thought, and Civilization
@@ -118,3 +117,5 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[fukuoka-food-civilization-critique]] and [[fukuoka-textdoc-centrifugal-centripetal-forces-civilization]] for related information.
+
+Understanding fukuoka diet blood thought civilization provides essential context for both practical application and deeper theoretical study in this domain.

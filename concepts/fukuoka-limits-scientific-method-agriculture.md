@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
   - raw/papers/masanobu-fukuoka-the-one-straw-revolution.md
 ---
 

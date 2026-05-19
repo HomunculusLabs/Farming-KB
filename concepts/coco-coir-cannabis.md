@@ -4,7 +4,6 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[query-what-is-the-difference-between-coco-coir-and-peat-moss]]
 ## Further Reading
 Continued research and field trials yield new insights into this subject.
+
+Understanding coco coir cannabis provides essential context for both practical application and deeper theoretical study in this domain.

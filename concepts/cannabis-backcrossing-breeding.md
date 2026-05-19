@@ -6,7 +6,6 @@ type: concept
 tags: [cannabis, breeding, genetics, techniques]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## Cannabis Backcrossing Breeding
@@ -118,3 +117,5 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
+
+Understanding cannabis backcrossing breeding provides essential context for both practical application and deeper theoretical study in this domain.

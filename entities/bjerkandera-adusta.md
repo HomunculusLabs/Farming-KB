@@ -1,30 +1,3 @@
----
-title: "bjerkandera adusta"
-created: 2026-04-28
-updated: 2026-05-06
-type: organism
-aliases:
-  - "smoky polypore"
-  - "smoky bracket"
-  - "B. adusta"
-  - "Polyporus adustus"
-taxon:
-  kingdom: Fungi
-  phylum: Basidiomycota
-  class: Agaricomycetes
-  order: Polyporales
-  family: Meruliaceae
-  genus: Bjerkandera
-  species: B. adusta
-authority: "(Willd.) P. Karst. (1879)"
-habitat: "Dead hardwood, fallen logs, stumps in broadleaf forests"
-distribution: "Cosmopolitan; [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide"
-nutritional_mode: "Saprotrophic (white-rot)"
-genome_size: "~35-40 Mb"
-tags: [profile]
-sources:
-  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
----
 ## Bjerkandera adusta
 
 **Bjerkandera adusta**, the **smoky polypore**, is a cosmopolitan [[lignin-peroxidase-mechanism]] (LiP), and [[mollison-designers-wastewater-treatment-wetlands]].
@@ -47,7 +20,7 @@ Sequenced by the US DOE Joint Genome Institute (JGI MycoCosm portal). The ~35–
 genome encodes multiple MnP isoenzymes, numerous laccase and LiP genes, auxiliary
 H2O2-generating enzymes, and an expanded cytochrome P450 complement for xenobiotic
 metabolism. The CAZy profile is rich in AA1 laccases, AA2 peroxidases, and GH
-families for cellulose/hemicellulose degradation.
+families for cellulose/[[hemicellulose]] degradation.
 
 ## Key References
 

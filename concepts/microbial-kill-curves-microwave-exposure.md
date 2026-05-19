@@ -1,10 +1,3 @@
----
-title: Microbial Kill Curves — Microwave Exposure
-source: NASA Technical Support Package MSC-22484
-extracted: 2026-05-10
-type: concept
-tags: [microbiology, [[sterilization]], microwaves, kill-curves, dose-response, CFU]
----
 
 ## Microbial Kill Curves — Microwave Exposure
 
@@ -24,7 +17,7 @@ All three curves demonstrate a characteristic pattern.
 
 An initial steep decline in viable population is followed by a pronounced tailing region at higher exposure doses.
 
-This biphasic pattern is typical of sterilization processes that must overcome organisms with differing resistance levels.
+This biphasic pattern is typical of [[sterilization]] processes that must overcome organisms with differing resistance levels.
 
 ## [[bacillus-pumilus-radiation-resistance-surface-decontamination]]*** — a Gram-positive, spore-forming bacterium.
 
@@ -80,7 +73,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish microbial kill curves microwave exposure
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 

@@ -6,7 +6,6 @@ type: comparison
 tags: [general]
 sources: []
 ---
----
 title: "Chop-and-Drop Mulching vs Mulching"
 tags: [comparison, soil, mulching, permaculture]
 date: 2026-04-25

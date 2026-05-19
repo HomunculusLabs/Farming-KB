@@ -7,7 +7,6 @@ tags: [fungi, plants]
 sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
----
 title: Fungal Plant Pathogens - Functional Genomics Perspective
 updated: 2026-04-24
 sources:

@@ -25,7 +25,6 @@ sources: ["Shulgin - PIHKAL"]
 
 > (with 3.0 mg) There was an amphetamine-like
 >
->
 > stimulation that was apparent an hour into it, and considerable
 > anxiety. I had stomach cramps, but there were indications that there
 > might be something hallucinogenic at a higher dose.
@@ -78,3 +77,5 @@ nations explicitly control DOx compounds including DON. It is listed in
 ## Similar Compounds
 - [[don-entity]]
 - [[tma-5-entity-pihkal]]
+
+Understanding don entity pihkal provides essential context for both practical application and deeper theoretical study in this domain.

@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, monoculture, livestock, natural-farming, agriculture-critique, soil-fertility]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Fukuoka on Monoculture and the Meat-Based Agricultural System

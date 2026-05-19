@@ -6,7 +6,6 @@ type: concept
 tags: [psychedelics, ethnobotany, philosophy]
 sources: [raw/papers/food-of-the-gods-mckenna.md]
 ---
----
 title: Hyperspace and Human Freedom
 tags: [DMT, hyperspace, drug-policy, freedom, consciousness, McKenna, law, prohibition]
 date: 2026-04-28

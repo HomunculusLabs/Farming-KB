@@ -11,7 +11,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[cervantes-nutrient-burn-over-fertilization]]
 - [[cervantes-root-zone-heating]]
 - [[cervantes-screen-of-green-technique]]
+
+Understanding cervantes sex determination pre flowering provides essential context for both practical application and deeper theoretical study in this domain.

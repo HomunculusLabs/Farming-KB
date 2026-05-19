@@ -11,7 +11,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -118,3 +117,5 @@ Documentation of results enables continuous improvement and knowledge sharing.
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
 Collaborative networks facilitate rapid dissemination of innovations and best practices.
+
+Understanding stamets cultivator coprinus comatus shaggy mane cultivation provides essential context for both practical application and deeper theoretical study in this domain.

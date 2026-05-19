@@ -6,7 +6,6 @@ type: concept
 tags: [permaculture, design, soil]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ## Earthmoving Tools and Machinery in Permaculture
 Updated: 2026-04-18

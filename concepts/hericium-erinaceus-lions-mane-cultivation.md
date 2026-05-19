@@ -117,4 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[hericium-americanum]]
 - [[hericium-erinaceus]]
 - [[lions-mane-hericium-erinaceus]]
-- [[lions-mane-hericium-erinaceus]]
+
+Understanding hericium erinaceus lions mane cultivation provides essential context for both practical application and deeper theoretical study in this domain.

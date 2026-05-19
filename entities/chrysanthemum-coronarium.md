@@ -123,7 +123,6 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[chrysanthemum-greenhouse-photoperiod-manipulation]]
-- [[chrysanthemum-greenhouse-photoperiod-manipulation]]
 - [[chrysanthemum-morifolium]]
 - [[chrysanthemum-night-interruption-flowering-commercial-horticulture]]
 - [[pyrethrum-chrysanthemum-cinerariifolium]]

@@ -130,4 +130,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
 - [[growing-gourmet-lions-mane-cultivation]]
 - [[lions-mane-guide]]
-- [[lions-mane-guide]]

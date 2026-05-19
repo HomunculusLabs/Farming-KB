@@ -6,7 +6,6 @@ type: comparison
 tags: [gardening, permaculture, water-management]
 sources: []
 ---
----
 title: "Rain Garden vs Constructed Wetland"
 tags: [comparison, water-management, phytoremediation,
      ecological-engineering]

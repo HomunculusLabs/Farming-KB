@@ -6,15 +6,12 @@ type: comparison
 tags: [cannabis, processing]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
 ---
 title: "Phytoextraction vs Phytostabilization"
 tags: [comparison, phytoremediation, soil-remediation, heavy-metals]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 

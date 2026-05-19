@@ -6,7 +6,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: comparison
 ---
 
@@ -78,3 +77,5 @@ Emerging research, technological advances, and evolving understanding continue t
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+
+Understanding comparison greenhouse vs cold frame provides essential context for both practical application and deeper theoretical study in this domain.

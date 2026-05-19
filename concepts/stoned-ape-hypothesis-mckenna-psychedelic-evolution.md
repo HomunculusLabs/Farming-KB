@@ -121,6 +121,5 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[mckenna-human-cognition-and-the-stoned-age]]
 - [[stoned-ape-hypothesis]]
-- [[stoned-ape-hypothesis]]
 - [[stoned-ape-hypothesis-psilocybin-human-evolution]]
 - [[terence-mckenna-stoned-ape-hypothesis]]

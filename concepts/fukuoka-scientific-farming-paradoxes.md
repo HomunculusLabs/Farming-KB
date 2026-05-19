@@ -6,7 +6,6 @@ type: concept
 tags: [agriculture, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Fukuoka Scientific Farming Paradoxes
@@ -118,3 +117,5 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[fukuoka-paradoxes-scientific-farming]] and [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] for related information.
+
+Understanding fukuoka scientific farming paradoxes provides essential context for both practical application and deeper theoretical study in this domain.

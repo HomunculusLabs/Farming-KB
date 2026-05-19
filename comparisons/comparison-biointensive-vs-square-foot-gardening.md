@@ -1,5 +1,4 @@
 ---
----
 title: "Biointensive vs square-foot-gardening"
 tags: [comparison, gardening, biointensive, square-foot, intensive-agriculture]
 date: 2026-04-25

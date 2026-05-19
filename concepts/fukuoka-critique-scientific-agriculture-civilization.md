@@ -6,7 +6,6 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
 - [[fukuoka-western-vs-japanese-attitudes]]
 Ongoing developments continue to expand practical applications and theoretical understanding.
+
+Understanding fukuoka critique scientific agriculture civilization provides essential context for both practical application and deeper theoretical study in this domain.

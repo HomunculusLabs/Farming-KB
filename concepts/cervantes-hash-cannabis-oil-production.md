@@ -6,7 +6,6 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -118,3 +117,5 @@ observation, and a willingness to adapt approaches based on results.
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
+
+Understanding cervantes hash cannabis oil production provides essential context for both practical application and deeper theoretical study in this domain.

@@ -106,7 +106,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[dynamic-accumulators]]
 - [[nutrient-dynamic-accumulator-reference]]
 - [[permaculture-dynamic-accumulator-plants]]
-- [[permaculture-dynamic-accumulator-plants]]
 
 ## Practical Considerations
 

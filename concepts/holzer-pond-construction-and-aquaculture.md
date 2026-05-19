@@ -6,7 +6,6 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 ## Holzer Pond Construction and Aquaculture
@@ -86,7 +85,6 @@ to inform current best practices and research directions.
 
 ## See Also
 - [[holzer-aquaculture-pond-construction]]
-- [[pond-design-and-construction]]
 - [[pond-design-and-construction]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

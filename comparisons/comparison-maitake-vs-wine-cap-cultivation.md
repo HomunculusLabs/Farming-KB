@@ -103,7 +103,6 @@ near-zero production cost makes them highly economical for home food
 production.
 
 ## Decision Guide
-## Decision Guide
 
 | Your Situation | Best Choice |
 |----------------|-------------|

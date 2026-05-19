@@ -1,5 +1,4 @@
 ---
----
 title: "mycoremediation"
 tags: [comparison, bioremediation, soil, pollution, fungi]
 date: 2026-04-25

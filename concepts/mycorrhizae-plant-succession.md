@@ -137,7 +137,6 @@ Fungi provide multiple ecosystem services relevant to plant succession and commu
 
 - [[mycorrhizae-plant-fitness]]
 - [[mycorrhizae-plant-fitness-community-structure]]
-- [[mycorrhizae-plant-fitness-community-structure]]
 - [[mycorrhizae-plant-fitness-competition]]
 - [[mycorrhizae-plant-pathogen-interactions]]
 - [[mycorrhizae-plant-succession-regulation]]

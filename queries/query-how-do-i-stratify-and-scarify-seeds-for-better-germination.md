@@ -5,7 +5,6 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## How Do I Stratify and Scarify Seeds for Better Germination?

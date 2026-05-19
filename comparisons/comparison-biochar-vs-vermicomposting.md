@@ -1,5 +1,4 @@
 ---
----
 title: "Biochar vs Vermicomposting"
 tags: [comparison, soil-amendment, biochar, vermicomposting, organic]
 date: 2026-04-25

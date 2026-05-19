@@ -12,7 +12,6 @@ sources: ["Shulgin - PIHKAL"]
 > substances in these experiments agreed only to a limited extent with
 > the effects described for mescaline by, for example, Beringer. It
 >
->
 > must be remembered, however, in this connection, that the quantities
 > used by Beringer were larger than the doses administered in these
 > experiments. Nevertheless, it may be concluded that the

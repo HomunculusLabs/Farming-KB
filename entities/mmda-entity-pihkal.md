@@ -17,7 +17,6 @@ sources: ["Shulgin - PIHKAL"]
 > head expanding. Soon a cold feeling set in with shivering Q this was
 > not unpleasant. My state in about two hours seemed to be one of
 >
->
 > empathy and passivity, compassion of an impersonal sort. The music
 > sounded artificial and canned and tinny, in contrast to the voices,
 > which sounded rich and full and finely articulated and melodious.

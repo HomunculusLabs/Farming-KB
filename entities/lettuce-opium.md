@@ -37,7 +37,6 @@ tags: [extract, binder, cannabis-processing, lactuca, hash-production]
 - No addiction potential or opioid activity
 - [[charas]]
 - [[isomerizer]]
-- [[isomerizer]]
 - [[cannabis-alchemy-book]]
 
 ## Overview

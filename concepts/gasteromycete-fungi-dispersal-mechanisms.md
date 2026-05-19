@@ -133,5 +133,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[bloomfield-gasteromycete-polyphyly-ragbag-taxon-not-natural-group]]
 - [[gasteromycete-fruiting-bodies]]
 - [[gasteromycete-fungi]]
-- [[gasteromycete-fungi]]
 - [[stinkhorn-fungi-gasteromycete-fruiting-bodies]]

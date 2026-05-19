@@ -83,5 +83,4 @@ Rangeland management illustrates the [[permaculture]] principle that polyculture
 ## See Also
 
 - [[rangeland-ecology-and-multispecies-grazing]]
-- [[rangeland-ecology-and-multispecies-grazing]]
 - [[rangeland-polyculture-management]]

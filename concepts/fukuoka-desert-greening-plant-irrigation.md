@@ -6,7 +6,6 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
-  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
 
 ## Fukuoka's Desert Greening and Plant Irrigation Method
@@ -118,3 +117,5 @@ Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
+
+Understanding fukuoka desert greening plant irrigation provides essential context for both practical application and deeper theoretical study in this domain.

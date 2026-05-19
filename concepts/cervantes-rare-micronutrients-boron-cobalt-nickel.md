@@ -6,7 +6,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -118,3 +117,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[cannabis-boron-nutrient]]
 ## Further Reading
 Continued research and field trials yield new insights into this subject.
+
+Understanding cervantes rare micronutrients boron cobalt nickel provides essential context for both practical application and deeper theoretical study in this domain.

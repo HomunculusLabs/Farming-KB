@@ -1,5 +1,4 @@
 ---
----
 title: "biochar-soil-remediation vs Phytoremediation"
 tags: [soil-remediation, biochar, phytoremediation, contamination, comparison]
 date: 2026-04-25

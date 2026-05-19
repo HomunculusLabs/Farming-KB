@@ -1,5 +1,4 @@
 ---
----
 title: "ericoid-mycorrhiza"
 tags:
   - mycorrhiza
@@ -78,3 +77,5 @@ Examining this topic alongside related approaches reveals complementary strategi
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+
+Understanding comparison amf vs ericoid mycorrhiza provides essential context for both practical application and deeper theoretical study in this domain.

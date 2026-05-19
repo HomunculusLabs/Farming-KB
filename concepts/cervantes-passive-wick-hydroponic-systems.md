@@ -6,7 +6,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -118,3 +117,5 @@ Field experience and systematic observation remain the most reliable guides for 
 ## Future Directions
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
+
+Understanding cervantes passive wick hydroponic systems provides essential context for both practical application and deeper theoretical study in this domain.

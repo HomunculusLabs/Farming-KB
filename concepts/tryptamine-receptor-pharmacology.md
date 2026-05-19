@@ -1,5 +1,4 @@
 ---
----
 title: tryptamine Receptor Pharmacology
 tags: [neuroscience, serotonin-receptors, tryptamines, psychopharmacology]
 date: 2026-04-28

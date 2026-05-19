@@ -1,5 +1,4 @@
 ---
----
 title: Phase I Compost Preparation for Agaricus
 tags: [composting, agaricus, mushroom-cultivation, substrate]
 date: 2026-04-25

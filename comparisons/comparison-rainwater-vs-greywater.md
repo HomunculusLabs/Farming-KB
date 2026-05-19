@@ -6,7 +6,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 
@@ -78,3 +77,5 @@ Connecting this topic with complementary approaches and related disciplines crea
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+
+Understanding comparison rainwater vs greywater provides essential context for both practical application and deeper theoretical study in this domain.

@@ -5,7 +5,6 @@ updated: 2026-05-02
 type: concept
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 tags: [regenerative, agriculture, soil-health, carbon-sequestration, farming, ecology, sustainability, biology, conservation, soil-building]
 ---
 

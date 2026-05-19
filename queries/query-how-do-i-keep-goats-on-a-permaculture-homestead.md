@@ -6,7 +6,6 @@ date: 2026-05-02
 updated: 2026-05-02
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
 
@@ -78,3 +77,5 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
+
+Understanding query how do i keep goats on a permaculture homestead provides essential context for both practical application and deeper theoretical study in this domain.

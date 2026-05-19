@@ -139,6 +139,5 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[bloomfield-ingold-childhood-benson-brook]]
 - [[terence-mckenna]]
-- [[terence-mckenna]]
 - [[terence-mckenna-stoned-ape-hypothesis]]
 - [[terence-mckenna-tryptamine-hypothesis]]

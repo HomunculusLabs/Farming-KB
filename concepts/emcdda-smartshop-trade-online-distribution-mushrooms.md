@@ -6,7 +6,6 @@ type: concept
 tags: [psychedelics, policy, mycology]
 sources: [raw/papers/emcdda-hallucinogenic-mushrooms-emerging-trend-europe.md]
 ---
----
 title: European Smartshop Trade and Online Distribution of Hallucinogenic Mushrooms
 tags:
   - emcdda

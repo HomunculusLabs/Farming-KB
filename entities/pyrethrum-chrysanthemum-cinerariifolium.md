@@ -17,7 +17,6 @@ Pyrethrum, also known as Dalmatian chrysanthemum, is a perennial flowering plant
 Pyrethrum occupies a unique niche in permaculture as a naturally produced, on-farm insecticide and ectoparasite treatment. Unlike synthetic chemical treatments, pyrethrum can be grown, harvested, dried, and applied directly on the farm without specialised equipment. The rapid degradation of pyrethrins in UV light means they leave no harmful residues in soil or water, preserving beneficial soil organisms including [[cervantes-pyrethrum-pyrethroid-insecticides]]
 - [[fukuoka-textdoc-traditional-pest-control-pyrethrum-derris-fowl]]
 - [[pyrethrum]]
-- [[pyrethrum]]
 
 ## Overview
 

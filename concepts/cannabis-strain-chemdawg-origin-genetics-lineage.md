@@ -90,7 +90,6 @@ produces effects that are both intensely psychoactive and therapeutically versat
 The effects are characterized by a powerful cerebral onset that is simultaneously euphoric and mentally stimulating.
 Users frequently report enhanced [[cannabis-strain-acapulco-gold-heirloom-mexican-sativa]]
 - [[cannabis-strain-amnesia-haze-genetics-history]]
-- [[cannabis-strain-amnesia-haze-genetics-history]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

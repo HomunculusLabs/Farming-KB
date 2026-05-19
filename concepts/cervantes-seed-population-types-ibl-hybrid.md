@@ -11,7 +11,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -118,3 +117,5 @@ Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
+
+Understanding cervantes seed population types ibl hybrid provides essential context for both practical application and deeper theoretical study in this domain.

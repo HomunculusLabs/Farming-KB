@@ -7,7 +7,6 @@ tags: [comparison, permaculture, garden-design, intensive-gardening,
 small-space]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: comparison
 ---
 

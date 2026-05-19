@@ -7,7 +7,6 @@ tags: [natural-farming, soil-science]
 sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
----
 title: Seed Treatment and Soil Foundation with Microbial Activator (M-A)
 created: 2026-04-20
 updated: 2026-04-20
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[query-how-to-start-seed-saving]]
 - [[seed-starting-indoors]]
 - [[slimy-clump-water-logged-grass-seed-substrate-failure-modes]]
+
+Understanding knf seed treatment and soil foundation provides essential context for both practical application and deeper theoretical study in this domain.

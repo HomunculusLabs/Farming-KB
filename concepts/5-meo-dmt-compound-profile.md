@@ -90,7 +90,6 @@ Like DMT, 5-MeO-DMT becomes orally active when combined with harmaline or other 
 - [[tryptamine-family-overview]]
 - [[ayahuasca-pharmacology]]
 - [[5-meo-dmt-reference]]
-- [[5-meo-dmt-reference]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
@@ -118,3 +117,5 @@ Field experience and systematic observation remain the most reliable guides for 
 ## Future Directions
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
+
+Understanding 5 meo dmt compound profile provides essential context for both practical application and deeper theoretical study in this domain.

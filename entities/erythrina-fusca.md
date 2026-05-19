@@ -1,27 +1,3 @@
----
-title: "Erythrina fusca"
-created: 2026-04-28
-type: species
-tags:
-  - fabaceae
-  - nitrogen-fixing
-  - [[permaculture]]|permaculture
-  - tropical
-  - alkaloid
-  - ornamental
-  - [[agroforestry]]|agroforestry
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Krukoff, B.A. & Barneby, R.C. (1974). "Conspectus of Species of the
-    Genus Erythrina." Lloydia 37(4): 332-459.
-  - Allen, O.N. & Allen, E.K. (1981). The Leguminosae: A Source Book of
-    Characteristics, Uses, and Nodulation. University of Wisconsin Press.
-  - Rice, R.P. et al. (1990). "Erythrina fusca: A [[mollison-designers-chestnut-as-multipurpose-tree-crop]] for
-    the [[humid-tropics-design-and-climate-zones]]." [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]] Tree Research Reports 8: 98-104.
-  - Pennington, T.D. (1997). The Genus Inga: Botany. Royal Botanic
-    Gardens, Kew.
----
 
 ## Erythrina fusca
 
@@ -30,8 +6,8 @@ deciduous tree in the Fabaceae (legume) family native to tropical America,
 from southern Mexico through [[guzman-psilocybin-mushrooms-south-america]], and
 widely naturalized across the tropics.
 
-Reaching heights of 15–25 m, E. fusca is valued in agroforestry and
-permaculture for rapid growth, [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], vanilla, and yam.
+Reaching heights of 15–25 m, E. fusca is valued in [[agroforestry]] and
+[[permaculture]] for rapid growth, [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], vanilla, and yam.
 
 The species contains erythrina alkaloids (erythraline, erythrinine) in
 seeds and bark with traditional medicinal and toxicological significance.

@@ -6,7 +6,6 @@ type: concept
 tags: [cannabis, pruning]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## Cannabis Pruning and Training Techniques (SOG, SCROG, LST)

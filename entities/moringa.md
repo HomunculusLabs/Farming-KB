@@ -7,7 +7,6 @@ updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
----
 title: "moringa"
 created: 2026-04-28
 tags: [species, plant, tree, superfood, multipurpose]
@@ -130,6 +129,5 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[comparison-moringa-vs-comfrey]]
 - [[moringa-oleifera]]
-- [[moringa-oleifera-horseradish-tree-permaculture]]
 - [[moringa-oleifera-horseradish-tree-permaculture]]
 - [[permaculture-moringa]]

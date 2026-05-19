@@ -6,7 +6,6 @@ type: concept
 tags: [regenerative, living-soil, permaculture, soil]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Fukuoka's Mountain Soil Restoration

@@ -1,5 +1,4 @@
 ---
----
 title: "raised-bed-gardening"
 tags: [comparison, growing-methods, intensive-gardening, water-management, permaculture]
 date: 2026-04-25

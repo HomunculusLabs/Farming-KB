@@ -101,7 +101,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[comparison-constructed-wetlands-vs-bioswales]]
 - [[comparison-mangrove-restoration-vs-constructed-wetlands]]
 - [[constructed-wetlands-wastewater-treatment]]
-- [[constructed-wetlands-wastewater-treatment]]
 - [[holzer-raised-bed-design]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
@@ -118,3 +117,5 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
+
+Understanding constructed wetland design provides essential context for both practical application and deeper theoretical study in this domain.

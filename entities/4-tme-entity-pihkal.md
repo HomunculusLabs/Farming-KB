@@ -12,7 +12,6 @@ sources: ["Shulgin - PIHKAL"]
 
 > (with 60 mg) There was a strange off-baseness
 >
->
 > for several hours in the middle of the day, which was replaced by a
 > mild gastric upset in the evening. The mild mental disturbance is
 > neither visual nor particularly interesting.

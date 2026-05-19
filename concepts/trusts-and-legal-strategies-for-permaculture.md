@@ -114,7 +114,8 @@ As so few dedicated people can operate a trust effectively, it is far better to 
 Several small, independent but cooperative Permaculture Institutes and allied groups already exist with associated non-profit trusts operating businesses to fund them. In this way, many trusts are independent of gifts or grants and become self-reliant for funds. This model — a cooperative network of small, independent trusts rather than one large centralized organization — is the recommended approach for permaculture implementation at scale.
 ## See Also
 - trusts and legal strategies for permaculture
-- trusts and legal strategies for permaculture
 - [[water-permaculture-global-local-strategies]]
 ## Further Reading
 Continued research and field trials yield new insights into this subject.
+
+Understanding trusts and legal strategies for permaculture provides essential context for both practical application and deeper theoretical study in this domain.

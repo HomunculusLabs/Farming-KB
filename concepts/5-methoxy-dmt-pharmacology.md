@@ -6,7 +6,6 @@ type: concept
 tags: [pharmacology, psychedelics]
 sources: []
 ---
----
 title: 5-Methoxy-DMT Pharmacology
 tags: [pharmacology, tryptamines, 5-methoxy-dmt, psychedelics]
 date: 2026-04-28

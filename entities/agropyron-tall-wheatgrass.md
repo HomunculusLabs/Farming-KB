@@ -79,4 +79,3 @@ Relationships between this topic and adjacent areas of knowledge create opportun
 ## Notes
 
 Additional context and supporting information relevant to this topic area.
-Additional context and supporting information relevant to this topic area.

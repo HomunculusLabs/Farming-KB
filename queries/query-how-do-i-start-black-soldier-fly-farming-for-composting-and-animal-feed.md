@@ -5,7 +5,6 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 
 ## How Do I Start Black Soldier Fly Farming for [[hemenway-chicken-tractor-and-poultry-integration|integrated homestead system]].

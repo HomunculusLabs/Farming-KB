@@ -6,7 +6,6 @@ type: concept
 tags: [permaculture, construction, sustainability]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 ## Renewability Versus Durability in the Built Environment
 Source: [[permaculture-principle-creatively-use-and-respond-to-change]])

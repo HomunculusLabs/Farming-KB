@@ -6,7 +6,6 @@ type: comparison
 tags: [gardening, permaculture]
 sources: []
 ---
----
 title: "Annual vs Perennial"
 tags: [comparison, plants, farming, food-forests, permaculture]
 date: 2026-04-25

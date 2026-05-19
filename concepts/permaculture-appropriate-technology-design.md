@@ -6,7 +6,6 @@ type: concept
 tags: [permaculture, design]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 ## Permaculture Appropriate Technology Design
 Updated: 2026-04-18
@@ -118,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[system-yield-permaculture-design]]
 ## Further Reading
 Continued research and field trials yield new insights into this subject.
+
+Understanding permaculture appropriate technology design provides essential context for both practical application and deeper theoretical study in this domain.

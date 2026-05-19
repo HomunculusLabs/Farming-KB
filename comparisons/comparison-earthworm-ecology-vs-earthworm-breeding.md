@@ -6,7 +6,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: comparison
 ---
 
@@ -78,3 +77,5 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
 Continued investigation of these approaches may reveal additional trade-offs and synergies.
+
+Understanding comparison earthworm ecology vs earthworm breeding provides essential context for both practical application and deeper theoretical study in this domain.
