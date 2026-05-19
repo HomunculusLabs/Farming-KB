@@ -115,3 +115,6 @@ directly influenced modern techniques including:
   And/Or Press, Berkeley, California.
 - Bigwood, J. and Beug, M.W. (1982). Variation of [[psilocybin-and-psilocin-biosynthesis-variation]] levels
   with repeated flushes of *Psilocybe cubensis*. J. Ethnopharmacol. 5, 287-291.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

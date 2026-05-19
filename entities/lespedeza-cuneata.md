@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Isely D (1990). "Vascular Flora of the Southeastern [[dmt-containing-plants-united-states-halpern]]."
+  - Isely D (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern."
     Vol. 3, Part 2. Leguminosae. University of [[north-carolina-mycodiversity]] Press.
   - Clewell AF (1966). "History, present status, and potential of sericea
     lespedeza." Advances in Agronomy, 18: 69-101.

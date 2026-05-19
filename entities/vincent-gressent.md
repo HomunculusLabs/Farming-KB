@@ -78,13 +78,3 @@ Gressent's insights remain directly applicable to modern cultivation:
 ## See Also
 
 - [[parisian-maraichage]]
-- Louis Savier
-- Eliot Coleman
-- La Quintinie
-
-## See Also
-- [[solomon-pest-management-organic|Solomon Pest Management Organic]]
-- [[query-what-is-integrated-pest-management-for-organic-gardens|Query What Is Integrated Pest Management For Organic Gardens]]
-- [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation|Query What Is Integrated Pest Management For Organic Mushroom Cultivation]]
-- [[organic-pest-and-disease-management|Organic Pest And Disease Management]]
-- [[organic-greenhouse-pest-management|Organic Greenhouse Pest Management]]

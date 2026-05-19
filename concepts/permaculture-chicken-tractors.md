@@ -114,3 +114,7 @@ Chickens on pasture still need supplemental feed, especially in winter or when f
 - [[permaculture-guild-design]] — chickens as part of plant guilds
 - [[permaculture-food-waste-cycling]] — feeding chickens from food waste systems
 - [[permaculture-duck-pond-systems]] — comparison with duck-based systems
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

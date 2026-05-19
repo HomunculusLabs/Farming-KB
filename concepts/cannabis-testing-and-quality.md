@@ -114,3 +114,7 @@ Testing is a snapshot. Other quality factors include:
 - **Microscope:** For pest and mold identification
 
 These supplement but do not replace professional lab testing. Quality [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] genetics can produce excellent testing results when cultivated properly.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

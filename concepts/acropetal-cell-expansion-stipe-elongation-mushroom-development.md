@@ -116,3 +116,5 @@ Understanding stipe elongation has practical implications:
 - **Lighting**: Necessary for fruiting initiation [[evaporative-demand-hypothesis-mushroom-tropism]] — Environmental gradient model
 - [[psilocybe-cubensis-anemotropism]] — Wind-directed growth
 - [[mushroom-geotropism-spore-formation]] — Gravity response linked to sporulation
+## Further Reading
+Continued research and field trials yield new insights into this subject.

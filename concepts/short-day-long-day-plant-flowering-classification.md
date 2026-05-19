@@ -117,3 +117,4 @@ photoperiod, offering advantages in regions with short growing seasons.
 - [[night-interruption-photoperiodism]]
 - [[blesching-cannabinoid-pharmacology]]
 - [[phytochrome-ecological-red-far-red-dusk-dawn-signaling]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

@@ -113,3 +113,8 @@ Several critical questions remain incompletely answered:
 - What are the long-term consequences of manipulating fungal communities (both pathogens and symbionts) for ecosystem function?
 
 The co-evolution of plants, mycorrhizal fungi, and pathogens has likely produced finely tuned balances in natural ecosystems. Disrupting these balances — through agricultural intensification, climate change, or deliberate manipulation — may have cascading effects on ecosystem stability and resilience.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.
+Integration with ecological principles enhances long-term sustainability.

@@ -1,5 +1,5 @@
 ---
-title: "[[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]]"
+title: White Widow Entity
 created: 2026-05-06
 type: strain
 tags:

@@ -80,13 +80,12 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[mycelial-networks]]
-- [[phanerochaete-velutina]]
-- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
-- [[alpha-1-3-glucan-fungal-cell-wall-human-pathogens]]
-- [[cannabis-microbiome-alpha-diversity-gradient]]
-## See Also
 
-- [[isotopic-tracers-mycorrhizal-research]]
+- [[alpha-1-3-glucan-fungal-cell-wall-human-pathogens]]
+- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
+- [[cannabis-microbiome-alpha-diversity-gradient]]
 - [[fungal-biology-fundamentals]]
 - [[fungal-mycelial-networks-nutrient-translocation]]
+- [[isotopic-tracers-mycorrhizal-research]]
+- [[mycelial-networks]]
+- [[phanerochaete-velutina]]

@@ -137,7 +137,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - mollison-designers-wind-effects-and-design
 - mollison-designers-precipitation-and-global-weather

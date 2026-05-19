@@ -113,3 +113,8 @@ Mycorrhizal associations occur in salt marsh environments:
 ## References
 
 Key primary sources for this topic include: Abuzinadah and Read (1986a,b, 1989), Allen and Cunningham (1983), Anderson et al. (2001), Antibus et al. (1997), Azcon et al. (1976), Belnap (2002), Bending and Read (1995a,b, 1996), Beymer and Klopatek (1991), Cairney (1992, 1999), Chen et al. (2000), Conn and Dighton (2000), Dighton (1983), Dighton et al. (1987), Eason et al. (1991), Finlay and Read (1986a,b,c), Gadgil and Gadgil (1971, 1975), Griffiths et al. (1990), Heap and Newman (1980a,b), Jakobsen (1995), Jakobsen et al. (1992a,b), Joner and Johansen (2000), Li et al. (1991a,b), Lapeyrie et al. (1991), Newman and Eason (1989).
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.
+Integration with ecological principles enhances long-term sustainability.

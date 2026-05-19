@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]
 - [[nut-tree-cultivation-for-permaculture-food-forests]]
 - [[organic-fruit-tree-care-calendar]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

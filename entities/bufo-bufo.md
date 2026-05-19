@@ -128,7 +128,5 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[5-meo-dmt-and-bufo-alvarius]]
-
-## See Also
 - [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]
 - [[metzner-three-features-shamanic-entheogenic-ceremonies]]

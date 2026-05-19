@@ -1,5 +1,5 @@
 ---
-title: [[coleman-intensive-cropping-double-cropping-greenhouse-productivity]]
+title: Intensive Cropping Coleman
 source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 tags: [technique, cropping-system, space-efficiency, organic-farming, rotation]

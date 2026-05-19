@@ -114,3 +114,7 @@ See also: [[2c-b-compound-profile]], [[2c-i-compound-profile]], [[2c-e-compound-
 ## Related
 
 - [[mdoi-compound-profile]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[holzer-permaculture-landscape-design]]
 - [[holzer-pond-construction-and-aquaculture]]
 - [[sepp-holzer-terrace-systems-and-raised-beds]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

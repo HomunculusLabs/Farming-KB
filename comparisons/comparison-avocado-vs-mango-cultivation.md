@@ -1,5 +1,5 @@
 ---
-title: "[[avocado-cultivation-and-variety-guide]] [[comparison-citrus-vs-mango-cultivation]]"
+title: Comparison Avocado Vs Mango Cultivation
 created: 2026-04-28
 tags:
   - permaculture

@@ -95,15 +95,3 @@ The floating row cover concept has direct applications beyond vegetable producti
 | Popularized By | Eliot Coleman |
 
 ## See Also
-
-- E. M. Emmert
-- Four Season Farm
-- Cold House (Unheated Greenhouse)
-- Cold-Hardy Vegetables
-
-## See Also
-- [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel|Query How Do I Choose Between A Cold Frame Row Cover And Low Tunnel]]
-- [[coleman-row-cover-fabric-management|Coleman Row Cover Fabric Management]]
-- [[coleman-double-layer-protection-greenhouse-row-cover|Coleman Double Layer Protection Greenhouse Row Cover]]
-- [[coleman-row-cover-trial-lightweight-heavyweight-sun-run|Coleman Row Cover Trial Lightweight Heavyweight Sun Run]]
-- [[query-how-do-i-choose-the-right-cover-crop-for-my-garden|Query How Do I Choose The Right Cover Crop For My Garden]]

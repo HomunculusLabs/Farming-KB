@@ -116,3 +116,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[beauveria]]
 - [[query-how-to-fix-boron-deficiency-in-cannabis]]
 - [[cannabis-boron-nutrient]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

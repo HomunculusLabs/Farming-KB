@@ -132,7 +132,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[korean-natural-farming]] IMO for the foundational microbial input
   used alongside FPJ in the KNF system

@@ -38,16 +38,15 @@ Research in this area draws on multidisciplinary approaches combining field obse
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
 ## See Also
+
+- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
+- [[amanita-muscaria]]
+- [[doc]]
+- [[dom]]
 - [[egyptian-mystery-schools-and-pyramid-initiation]]
 - [[secret-societies-entheogenic-knowledge]]
-- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
-- [[tompkins-ancient-plant-knowledge]]
 - [[shamanism-and-entheogenic-death-rebirth]]
-
-## See Also
-- [[amanita-muscaria]]
-- [[dom]]
-- [[doc]]
+- [[tompkins-ancient-plant-knowledge]]
 
 ## Overview
 

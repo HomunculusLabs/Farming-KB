@@ -49,16 +49,13 @@ Research in this area draws on multidisciplinary approaches combining field obse
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
 ## See Also
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
+
 - [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
+- [[det]]
+- [[mushroom-cultivation-phases]]
 - [[mushroom-fruiting-biology-light-tropisms-and-environmental-triggers]]
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-- [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
-
-## See Also
 - [[yasushi-inoue]]
-- [[mushroom-cultivation-phases]]
-- [[det]]
 
 ## Overview
 

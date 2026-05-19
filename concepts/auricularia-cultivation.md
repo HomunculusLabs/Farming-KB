@@ -115,3 +115,6 @@ Fresh wood ears keep 3–4 weeks at 38–42°F (3–6°C). They dry exceptionall
 ## Mycoremediation Applications
 
 *Auricularia* mushrooms are best suited for **habitat renewal** in devastated ecosystems rich in lignicolous (woody) debris, such as logged forests. Their ability to thrive with more sun exposure than other wood-decomposing fungi makes them useful for building soil in arid, sunny environments where other decomposer species would struggle. They serve as pioneer decomposers, breaking down woody material and creating conditions for subsequent [[ecological-succession]].
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

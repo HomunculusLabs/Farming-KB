@@ -90,12 +90,10 @@ stimulant action that increases with increased dose. Always the
 simple and ephemeral catalyst of euphoria without substance and
 
 ## See Also
-- [[methyl-j-entity-pihkal]]
 
-## See Also
-
-- [[doi-entity]]
-- [[mp-entity-pihkal]]
 - [[4-ho-det-entity-tihkal]]
+- [[doi-entity]]
 - [[jealousy-cannabis-strain-entity]]
 - [[mckenna-i-thou-ethics-entity-encounter]]
+- [[methyl-j-entity-pihkal]]
+- [[mp-entity-pihkal]]

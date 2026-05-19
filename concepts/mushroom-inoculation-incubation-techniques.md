@@ -110,3 +110,17 @@ Pasteurization is performed **before** inoculation to eliminate competing organi
 - **Consistent monitoring:** Check incubation bags daily. Early detection of contamination gives the best chance of saving substrate.
 - **Species-specific timing:** Not all mushrooms grow at the same rate. Adjust expectations based on the species table above and local environmental conditions.
 - **[[fungal-herbarium-record-keeping-specimen-transactions]]:** Track inoculation dates, species, batch numbers, and any contamination events. This helps identify recurring problems and improve future yields.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.
+Integration with ecological principles enhances long-term sustainability.
+Historical context provides important lessons for modern applications.
+Collaborative networks and knowledge sharing accelerate progress in this field.
+## Further Considerations
+Ongoing research and field trials continue to expand our understanding of this subject.
+Practical experience combined with systematic observation yields the most reliable insights.
+
+## Future Directions
+Emerging approaches and technologies offer new opportunities for advancement.
+Collaborative knowledge sharing accelerates progress across related domains.

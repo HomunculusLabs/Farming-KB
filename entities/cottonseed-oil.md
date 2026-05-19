@@ -45,16 +45,14 @@ This subject has relevance across multiple disciplines and applications. Underst
 Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
 
 ## See Also
-- [[lemon-cannabis-alchemy-historical-perspective-and-references]]
-- [[hamilton-greenhouse-heating-and-temperature-control]]
-- [[hamilton-greenhouse-heating-and-temperature-control]]
-- [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]
-- [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]
 
-## See Also
+- [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]
+- [[hamilton-greenhouse-heating-and-temperature-control]]
+- [[lemon-cannabis-alchemy-historical-perspective-and-references]]
+- [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]
 - [[methanol]]
-- [[thc-acetate]]
 - [[petroleum-ether]]
+- [[thc-acetate]]
 
 ## Overview
 

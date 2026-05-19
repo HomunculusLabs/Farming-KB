@@ -116,3 +116,5 @@ This page is presented as educational and historical content documenting organic
 - **Esterification reactions** — General organic chemistry of carboxylic acid ester formation
 - **Roger Adams** — The chemist whose cannabinoid research established the foundational pharmacological framework
 - **Prodrug pharmacology** — The broader pharmacological concept of inactive precursors activated by metabolic conversion
+## Further Reading
+Continued research and field trials yield new insights into this subject.

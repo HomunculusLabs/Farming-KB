@@ -60,16 +60,11 @@ Many suslik species have experienced significant population declines due to agri
 
 ## See Also
 
-- [Burrowers and Soil Life](burrowers-soil-life-mollison.md)
-- [Comfrey (*Symphytum officinale*)](comfrey-symphytum-officinale.md)
-- [Woodchuck (Marmot)](woodchuck-marmota.md)
-
-## See Also
-- [[fukuoka-natural-orchard-ground-cover-system]]
-- [[permaculture-plants-ground-covers-living-mulches]]
 - [[coastal-ground-covers-hedges-permaculture]]
 - [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-natural-orchard-ground-cover-system]]
 - [[jeavons-root-systems-below-ground-composting]]
+- [[permaculture-plants-ground-covers-living-mulches]]
 
 ## Overview
 

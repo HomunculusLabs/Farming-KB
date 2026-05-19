@@ -87,12 +87,9 @@ It requires full sun and well-drained, poor to moderately fertile soil.
 Centaurium scilloides is hardy to approximately USDA zone 7, tolerating light frost but not prolonged wet freezing.
 
 ## See Also
-- [[centaurium-umbellatum]]
 
-## See Also
-
-- [[centaurium-montanum]]
-- [[centaurium-minus]]
-- [[centaurium-umbellatum]]
 - [[centaurium-erythraea]]
+- [[centaurium-minus]]
+- [[centaurium-montanum]]
 - [[centaurium-pulchellum]]
+- [[centaurium-umbellatum]]

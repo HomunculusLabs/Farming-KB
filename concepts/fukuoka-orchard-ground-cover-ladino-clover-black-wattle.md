@@ -116,3 +116,5 @@ A succession of different herbs over the years enriches the soil progressively a
 ### Replacing Weeds with Vegetables
 
 Fukuoka also discovered that by sowing vegetable seeds of the same family as the dominant weeds, the vegetables can gradually replace the weeds. This technique exploits the [[ecological-niche]] already established by the weeds, allowing cultivated crops to fill the same role without requiring soil disturbance.
+## Further Reading
+Continued research and field trials yield new insights into this subject.

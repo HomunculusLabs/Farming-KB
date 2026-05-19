@@ -105,7 +105,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[wasson-rediscovery-of-psilocybin]]
 - [[psilocybin]]
@@ -116,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[hofmann-lsd-consciousness-and-philosophy]]
 - [[hofmann-lsd-psychedelic-art-expression]]
 - [[wasson-hofmann-psilocybin-connection]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

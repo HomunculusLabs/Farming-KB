@@ -116,3 +116,5 @@ Woronin bodies exemplify several important themes in cell biology:
 - [[woronin-bodies]]
 - [[hex-1-protein]]
 - [[septal-pore-cap]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

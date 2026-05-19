@@ -124,7 +124,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - McKenna T. (1983/1992) "Tryptamine Hallucinogens and Consciousness." The [[archaic-revival-partnership-vs-dominator-cultures]]. HarperSanFrancisco.
 - Shulgin A, Shulgin A. (1997) "TIHKAL: The Continuation." Transform Press.

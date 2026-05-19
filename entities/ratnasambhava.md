@@ -69,29 +69,16 @@ Environmental factors play a significant role in understanding this subject. Cha
 ## Community Impact
 
 The practical implications for communities and practitioners are substantial. Knowledge transfer and education remain important priorities for sustainable implementation.
+
 ## See Also
-- [[buddha-vairochana]]
-- [[amoghasiddhi]]
+
 - [[akshobhya]]
 - [[amitabbha]]
+- [[amoghasiddhi]]
+- [[buddha-vairochana]]
 - [[chonyid-bardo]]
-
-## Cultural and Historical Significance
-
-The study and understanding of ratnasambhava connects to broader themes in
-mycology, ethnobotany, and the history of natural science. Documentation of
-this subject appears in both historical texts and contemporary research,
-reflecting ongoing interest in its properties and applications.
-
-Research into related organisms and concepts continues to expand, with modern
-molecular techniques providing new insights. Field observations complement
-laboratory studies, building a more complete picture of its ecological role
-and significance.
-
-## See Also
-
-- [[leary-psychedelic-experience-bardo-mapping]]
-- [[wrathful-visions-psychedelic-experience]]
-- [[turner-psychedelic-combination-experience-reports]]
 - [[implicate-order-and-unity-of-nature]]
+- [[leary-psychedelic-experience-bardo-mapping]]
 - [[psychedelic-paradigm-shifting-and-reality-reconception]]
+- [[turner-psychedelic-combination-experience-reports]]
+- [[wrathful-visions-psychedelic-experience]]

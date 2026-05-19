@@ -116,7 +116,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[complexity-and-connections-in-permaculture]] — how niches create functional connections
 - [[permaculture-design-framework]] — overall design philosophy

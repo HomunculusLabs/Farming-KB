@@ -130,7 +130,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[ancient-cannabis-use-near-east-and-egypt]] — ancient cannabis use in the Near East.
 [[turner-brief-history-psychedelics-ancient-to-modern]]

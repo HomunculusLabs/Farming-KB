@@ -122,7 +122,6 @@ The five key design inputs for low island systems are:
 4. Use shallow marine waters for aquaculture and pond fish
 5. Develop energy resources locally
 
-
 ## See Also
 - Tropical Hedgerow And Windbreak — Hedgerow establishment for coastal stabilization
 - [[savannah-forestry-rehabilitation]] — Broader land restoration principles applicable to island contexts

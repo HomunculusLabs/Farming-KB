@@ -131,7 +131,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[laccase-mediator-system-dye]] -- key oxidative enzyme in fungal metabolism
 - heavy metal contamination -- metals targeted by exudate-mediated

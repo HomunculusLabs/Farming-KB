@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[jarrold-straw-substrate-preparation-marmite-supplementation]]
 - [[mushroom-cultivation-equipment-sourcing-jarrold]]
 - [[spore-syringe-preparation-jarrold-method]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

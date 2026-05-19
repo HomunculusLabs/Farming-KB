@@ -114,3 +114,7 @@ Flexible approaches that respond to changing conditions. For zeri circular econo
 - [[vermicomposting]] — Worm composting integration
 - [[integrated-homestead-design]] — Capstone homestead synthesis
 - [[soil-food-web-nutrient-cycling]] — How fungal networks integrate with soil biology
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

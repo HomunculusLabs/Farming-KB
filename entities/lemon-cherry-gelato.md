@@ -1,5 +1,5 @@
 ---
-title: Lemon [[white-cherry-gelato]]
+title: Lemon Cherry Gelato
 type: strain
 tags:
   - cannabis
@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly (2024). "Lemon Cherry [[gelato-strain]] Information." www.leafly.com.
+  - Leafly (2024). "Lemon Cherry gelato-strain Information." www.leafly.com.
   - AllBud (2024). "Lemon Cherry Gelato." www.allbud.com.
   - Wikileaf (2024). "Lemon Cherry Gelato Strain Review." www.wikileaf.com.
   - query-sog-vs-scrog-cannabis-training-methods University (2023). "Gelato Family Tree and Lineage Guide."

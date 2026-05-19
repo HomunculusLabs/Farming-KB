@@ -125,7 +125,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[2c-b-psychedelic-empathogen-guide]] — 2C-B details
 - [[ecstasy-mdma-guide]] — MDMA combinations

@@ -114,3 +114,7 @@ Additional species presently included in other genera will likely be transferred
 
 ## Related
 - [[arbuscular-mycorrhizal-fungal-diversity]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

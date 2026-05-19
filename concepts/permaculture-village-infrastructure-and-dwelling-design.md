@@ -116,3 +116,5 @@ Forward-thinking village plans should reserve areas for:
 - **Accommodation**: Camp area for casual visitors (with toilets and showers), potentially a youth or student hostel
 
 By reserving these areas from the outset, the village avoids the costly and disruptive process of retrofitting infrastructure into an already-settled landscape. The general plan of resources should be published and accessible to all participants, ensuring transparency and enabling informed decision-making about future development priorities.
+## Further Reading
+Continued research and field trials yield new insights into this subject.

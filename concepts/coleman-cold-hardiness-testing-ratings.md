@@ -132,7 +132,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[coleman-winter-spinach-dependable-cold-house-crop]]
 - [[coleman-winter-kale-brassica-cold-house-management]]

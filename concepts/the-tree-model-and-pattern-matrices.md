@@ -117,7 +117,6 @@ The tree model and matrix understanding provide designers with:
 - Recognition of tessellation principles for composing whole-system designs from pattern units
 - Insight into the multi-scaled nature of natural systems, from cellular to planetary
 
-
 ## See Also
 - [[general-pattern-model-events]]
 - [[nut-tree-cultivation-for-permaculture-food-forests]]

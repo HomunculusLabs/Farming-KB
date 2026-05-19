@@ -1,5 +1,5 @@
 ---
-title: [[urban-permaculture-and-city-farming]] Guerrilla Gardening
+title: Urban Permaculture And Guerrilla Gardening
 created: 2026-05-18
 updated: 2026-05-18
 type: topic
@@ -142,12 +142,7 @@ fast-growing annuals that can establish quickly in harsh conditions.
 Native wildflowers, clovers, and hardy vegetables like radish and arugula
 are common choices.
 
-Timing matters. Deploy seed bombs before seasonal rains so natural
-precipitation triggers germination. Spring and early autumn are the
-optimal windows in most [[fukuoka-natural-farming-temperate-climates]].
-
 ## See Also
-
 - [[permaculture-design-principles]]
 - [[food-forest]]
 - [[permaculture-zones]]

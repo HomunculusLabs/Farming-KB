@@ -60,16 +60,14 @@ The compound exhibits characteristic reactivity patterns determined by its molec
 Detection and quantification utilize spectroscopic, chromatographic, and colorimetric techniques. Standardized testing protocols ensure reproducible and reliable results across laboratories.
 
 ## See Also
-- [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
-- [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
-- [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]]
-- [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
-- [[cannabis-evidence-based-medicine-chi-methodology]]
 
-## See Also
-- [[florisil]]
+- [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
+- [[cannabis-evidence-based-medicine-chi-methodology]]
 - [[cyclohexane]]
 - [[doc]]
+- [[florisil]]
+- [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
+- [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]]
 
 ## Overview
 

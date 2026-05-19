@@ -1,5 +1,5 @@
 ---
-title: Olive holzer-fig-and-mediterranean-species [[mollison-designers-avocado-mango-and-subtropical-tree-crops]]
+title: Mollison Designers Olive Fig And Mediterranean Tree Crops
 created: 2026-04-28
 tags:
   - tree-crops

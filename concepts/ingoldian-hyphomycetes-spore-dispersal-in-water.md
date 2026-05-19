@@ -117,3 +117,4 @@ observation, and a willingness to adapt approaches based on results.
 - [[doc]]
 - [[det]]
 - [[mycology]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

@@ -133,7 +133,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[broadscale-forage-planning-and-forest-pasture-systems]]
 - [[broadscale-landscape-analysis-and-slope-design]]

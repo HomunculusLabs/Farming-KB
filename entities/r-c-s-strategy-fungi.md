@@ -62,26 +62,20 @@ The R-C-S framework is relevant to mushroom cultivation because cultivated speci
 - Andrews, J.H. (1992). Fungal life history models.
 
 ## See Also
+
+- [[fungal-life-history-strategies]]
+- [[oyster-mushroom]]
+- [[oyster-mushrooms]]
 - [[saprotrophic-fungi]]
 - [[substrate-formulation]]
-- [[fungal-life-history-strategies]]
-- [[oyster-mushrooms]]
-- [[oyster-mushroom]]
 
-- John Dighton - author of the source text
-- Saprotrophic fungi - the organisms to which the R-C-S model applies
-- Fungal succession - the community dynamics predicted by the model
-## Practical Applications in Substrate Management
+## Practical Applications
 
-In mushroom cultivation, understanding the R-C-S strategy of a species helps optimize substrate formulation and environmental conditions. R-strategist species like oyster mushrooms prefer fresh, nutrient-rich substrates and colonize rapidly. C-strategist species like shiitake tolerate more recalcitrant substrates and grow more slowly but persist longer. Matching substrate complexity and preparation to the fungal strategy improves colonization success and yield.
+Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
+## Key Considerations
 
-## Integration with Fungal Community Ecology
+Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
 
-The R-C-S framework integrates with broader concepts in fungal community ecology. Fungal diversity within a habitat is partly maintained by the temporal and spatial heterogeneity of resources, which creates niches for different strategies. Environmental disturbance (fire, flooding, tillage) resets succession by creating new resource pulses that favor R strategists. Understanding these dynamics helps predict how fungal communities will respond to environmental change.
+## Mechanisms and Processes
 
-## See Also
-
-- John Dighton - author of the source text
-- Saprotrophic fungi - the organisms classified by the R-C-S model
-- Fungal succession - the community dynamics the model predicts
-- Fungal hyphae - the structures that implement different growth strategies
+Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.

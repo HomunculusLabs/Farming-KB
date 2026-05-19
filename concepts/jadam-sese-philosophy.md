@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[jadam-potassium-fertilizer]]
 - [[jadam-rice-bakanae-treatment]]
 - [[jadam-soil-management-no-till-and-weed-control]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

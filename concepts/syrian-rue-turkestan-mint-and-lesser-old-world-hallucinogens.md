@@ -116,3 +116,5 @@ Beyond the well-known fly agaric, cannabis, and [[lycanthropy-solanaceous-halluc
 - [[old-world-hallucinogenic-plants-overview]]
 - [[amanita-muscaria-ethnobotany]]
 - [[indole-hallucinogen-classification]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

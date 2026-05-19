@@ -58,18 +58,13 @@ Research in this area draws on multidisciplinary approaches combining field obse
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
 ## See Also
-- [[amanita]]
-- [[egyptian-mystery-schools-and-pyramid-initiation]]
-- [[plant-light-discrimination-beyond-human-vision]]
-- [[powell-shamanic-wisdom-and-ritual-practice]]
-- [[egyptian-mystery-schools-and-pyramid-initiation]]
 
-## See Also
-- [[powell-shamanic-wisdom-and-ritual-practice]]
-- [[plant-light-discrimination-beyond-human-vision]]
-- [[mycology]]
 - [[amanita]]
 - [[doc]]
+- [[egyptian-mystery-schools-and-pyramid-initiation]]
+- [[mycology]]
+- [[plant-light-discrimination-beyond-human-vision]]
+- [[powell-shamanic-wisdom-and-ritual-practice]]
 
 ## Overview
 

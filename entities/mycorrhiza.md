@@ -63,31 +63,18 @@ Understanding mycorrhizal associations is essential for both plant cultivation a
 - Pirozynski, K.A. and Malloch, D.W. (1975). On the origin of land plants.
 
 ## See Also
+
+- [[common-mycorrhizal-networks]]
 - [[ericoid-mycorrhiza]]
 - [[orchid-mycorrhiza]]
-- [[common-mycorrhizal-networks]]
-- [[soil-aggregate-formation]]
 - [[saprotrophic-fungi]]
+- [[soil-aggregate-formation]]
 
-- John Dighton - author of the source text
-- Saprotrophic fungi - the other major fungal functional group
-- Fungal hyphae - the structures that form mycorrhizal connections
-- Soil aggregate formation - the process mycorrhizae contribute to
-## Types of Mycorrhizae
+## Practical Applications
 
-The major types of mycorrhizal associations include arbuscular mycorrhizae (AM), ectomycorrhizae (ECM), ericoid mycorrhizae, and orchid mycorrhizae. Arbuscular mycorrhizae are the most common, found in approximately 80% of plant species, and are characterized by the formation of arbuscules (tree-like structures) inside root cortical cells. Ectomycorrhizae form a fungal mantle around roots and a Hartig net between root cells, and are common in temperate and boreal forest trees. Each type has distinct morphology, physiology, and ecological significance.
+Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
+## Key Considerations
 
-## Agricultural Implications
+Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
 
-The disruption of mycorrhizal networks by intensive tillage is one of the hidden costs of conventional agriculture. Reduced mycorrhizal colonization leads to decreased nutrient uptake efficiency, requiring greater fertilizer applications. The resulting nutrient pollution and soil degradation create a negative feedback loop. No-till and reduced-tillage agricultural systems that preserve mycorrhizal networks can maintain soil fertility with lower external inputs, demonstrating the economic value of managing these symbiotic relationships.
-
-## Mycorrhizal Networks and Carbon Transfer
-
-Research has shown that mycorrhizal networks can facilitate the transfer of carbon between plants, creating underground resource-sharing networks sometimes called the "wood wide web." Through common mycorrhizal networks, older, established trees can transfer carbon and nutrients to younger seedlings, improving their establishment and survival. This discovery has profound implications for our understanding of forest ecology and plant community dynamics.
-
-## See Also
-
-- Arbuscular mycorrhiza - the most common type
-- Ectomycorrhiza - common in forest trees
-- Fungal hyphae - the structures forming the connection
-- John Dighton - author of the source text
+Understanding these principles enables more effective application in diverse contexts.

@@ -120,7 +120,6 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 - Indoor storage: same sand/sawdust method as carrots
 - Larger roots store better than small ones
 
-
 ## See Also
 - root vegetable storage guide
 - [[vegetable-harvest-and-storage-guide]]

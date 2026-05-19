@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[oner-diesel-strain-lineage]]
 - [[oner-diesel-strain-lineage-and-profiles]]
 - [[sour-diesel]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

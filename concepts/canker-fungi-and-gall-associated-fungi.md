@@ -117,3 +117,4 @@ Genera are distinguished by cystosori organization: Plasmodiophora (irregularly 
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.
+Ongoing developments continue to expand practical applications and theoretical understanding.

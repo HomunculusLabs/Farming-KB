@@ -96,13 +96,12 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[urban-ayahuasca-iquitos-healing]]
-- [[belen-iquitos-slum]]
-- [[belen-iquitos]]
-- [[ayahuasca-healing-ceremonies-iquitos]]
-- [[curing-with-ayahuasca-urban-iquitos]]
-## See Also
 
-- [[ayahuasquero]] — mestizo ayahuasca shaman
-- [[curandero]] — broader folk healing tradition
-- [[campa-people]] — indigenous Amazonian ayahuasca practitioners
+- [[ayahuasca-healing-ceremonies-iquitos]]
+- [[ayahuasquero]]
+- [[belen-iquitos]]
+- [[belen-iquitos-slum]]
+- [[campa-people]]
+- [[curandero]]
+- [[curing-with-ayahuasca-urban-iquitos]]
+- [[urban-ayahuasca-iquitos-healing]]

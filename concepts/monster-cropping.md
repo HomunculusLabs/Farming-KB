@@ -109,7 +109,6 @@ between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
 
-
 ## See Also
 - [[cannabis-photoperiodism-and-light-cycles]] -- understanding light schedules for re-vegging
 - [[topping-cannabis]] -- further increasing branching on re-vegged plants

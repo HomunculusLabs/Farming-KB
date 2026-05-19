@@ -130,7 +130,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[mollison-designers-glasshouse-protected-cropping]]
 - [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]

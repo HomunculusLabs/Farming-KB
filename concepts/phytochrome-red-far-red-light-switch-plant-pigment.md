@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[phytochrome-photoreceptor-red-far-red-light]]
 - [[phytochrome-photoreceptors-photoperiodism]]
 - [[phytochrome-red-far-red-switch-and-photoperiodism]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

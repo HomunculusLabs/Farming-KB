@@ -1,5 +1,5 @@
 ---
-title: "What Are C3, C4, and comparison-c3-c4-and-cam-photosynthesis-pathways, and Why Does It [[query-what-is-plant-phenology-and-why-does-it-matter-for-growers]]?"
+title: Query What Are C3 C4 And Cam Photosynthesis And Why Does It Matter For Growers
 created: 2026-04-28
 tags:
   - photosynthesis

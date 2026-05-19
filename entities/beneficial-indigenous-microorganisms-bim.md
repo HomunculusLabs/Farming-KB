@@ -60,19 +60,16 @@ Research in this area draws on multidisciplinary approaches combining field obse
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
 ## See Also
+
+- [[beneficial-indigenous-microorganisms-natural-farming]]
+- [[bionutrients]]
 - [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
 - [[forest-bamboo-plant-specific-microorganism-culturing]]
-- [[korean-natural-farming-imo-collection-fermented-plant-extracts]]
-- [[straw-substrate-yeast-extract-mushroom-cultivation-preparation]]
-- [[beneficial-indigenous-microorganisms-natural-farming]]
-
-## See Also
-- [[forest-bamboo-plant-specific-microorganism-culturing]]
-- [[straw-substrate-yeast-extract-mushroom-cultivation-preparation]]
-- [[lactic-acid-bacteria]]
-- [[bionutrients]]
 - [[han-kyu-cho]]
+- [[korean-natural-farming-imo-collection-fermented-plant-extracts]]
+- [[lactic-acid-bacteria]]
 - [[rhizobium]]
+- [[straw-substrate-yeast-extract-mushroom-cultivation-preparation]]
 
 ## Overview
 

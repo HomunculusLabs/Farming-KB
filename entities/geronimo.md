@@ -87,10 +87,7 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[chiricahua-apache]]
-- [[mescalero-indian-reservation]]
-## See Also
 
-- [[chiricahua-apache]] — his tribal group
-- [[mescalero-indian-reservation]] — where his people eventually settled
-- [[mescalero-apache]] — fellow tribe on the reservation
+- [[chiricahua-apache]]
+- [[mescalero-apache]]
+- [[mescalero-indian-reservation]]

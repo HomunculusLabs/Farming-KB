@@ -138,7 +138,6 @@ systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
-
 ## See Also
 - [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
 - [[powdery-mildew-cannabis]]

@@ -1,5 +1,5 @@
 ---
-title: [[hippophae-rhamnoides]] Permaculture
+title: Hippophae Rhamnoides Permaculture
 created: 2026-04-28
 type: species
 tags:

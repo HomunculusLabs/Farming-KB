@@ -114,7 +114,6 @@ Empirical findings continue to refine our understanding
 and suggest promising directions for future investigation
 across multiple disciplines and application domains.
 
-
 ## See Also
 - [[holzer-fruit-growing-marginal-climates]]
 - [[holzer-wild-fruit-trees-and-hedges]]

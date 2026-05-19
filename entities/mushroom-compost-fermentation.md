@@ -81,13 +81,10 @@ The fermentation principles described by Duggar remain the foundation of modern 
 
 ## See Also
 
-- [[mushroom-spawn]]
 - [[agaricus-campestris]]
-
-## See Also
-
-- [[telluride-mushroom-festival-modern-mycological-culture]]
-- [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
 - [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]
 - [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]
 - [[mushroom-poisoning-guide]]
+- [[mushroom-spawn]]
+- [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
+- [[telluride-mushroom-festival-modern-mycological-culture]]

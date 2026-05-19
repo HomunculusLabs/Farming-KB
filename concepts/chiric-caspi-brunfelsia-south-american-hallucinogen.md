@@ -1,5 +1,5 @@
 ---
-title: Chiric Caspi Brunfelsia [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] Hallucinogen
+title: Chiric Caspi Brunfelsia South American Hallucinogen
 created: 2026-04-28
 tags: [ethnobotany, solanaceae, colombia, ecuador, peru, brazil,
   hallucinogenic-plants, schultes, jivaro, kofan]

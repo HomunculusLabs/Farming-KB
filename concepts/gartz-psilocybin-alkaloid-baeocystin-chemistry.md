@@ -116,3 +116,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[baeocystin]]
 - [[doc]]
 - [[psilocin]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

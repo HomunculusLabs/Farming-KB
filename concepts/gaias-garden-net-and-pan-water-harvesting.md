@@ -132,7 +132,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - gaias garden [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] — edge effect in [[gaias-garden-cover-crops-soil-building]]
 - [[dom]]

@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[psilocybin-pharmacology-and-serotonin-receptors]]
 - [[serotonin]]
 - [[shirota-psilocin-serotonin-structural-pharmacology]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

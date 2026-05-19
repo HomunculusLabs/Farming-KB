@@ -116,3 +116,5 @@ The Chernobyl fungal communities demonstrate several important principles:
 - [[radiotropism-and-chernobyl-fungal-communities]]
 - [[fungal-communities-at-chernobyl]]
 - [[fungal-communities-water-aquatic-ecosystems]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

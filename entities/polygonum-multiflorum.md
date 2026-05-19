@@ -84,7 +84,6 @@ subtropical to warm [[query-what-are-the-main-bioactive-compounds-in-medicinal-p
 is 2,3,5,4'-tetrahydroxystilbene-2-O-β-D-glucoside (THSG) at 1.5–3.0% dry
 
 ## See Also
-- [[tryptamine-family-overview]]
 
-## See Also
 - [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
+- [[tryptamine-family-overview]]

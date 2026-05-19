@@ -124,7 +124,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[stamets-psi-psilocybe-cubensis-species-guide]]
 - [[woodlovers-mycelium-running-pathway-technique]]

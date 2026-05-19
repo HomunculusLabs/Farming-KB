@@ -115,3 +115,6 @@ Lichen-forming ascomycetes produce a wide range of polyphenolic secondary metabo
 
 - [[fungal-bioweathering-rocks-minerals]] — Lichens in geomycology
 - [[mycogenic-mineral-precipitation]] — Mineral formation by lichens
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

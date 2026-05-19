@@ -114,7 +114,6 @@ This closed-loop system means that the forest is largely self-sustaining in nutr
 | Water quality | Enriched with nutrients through throughfall | Carries away topsoil and nutrients |
 | Long-term water supply | Steady, regulated streamflow | Flood and drought cycle |
 
-
 ## See Also
 - [[tree-rain-interception-and-throughfall]]
 - [[permplant-persimmon-diospyros-kaki-fruit-tree]]

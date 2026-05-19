@@ -68,10 +68,8 @@ are typically magenta-pink with a yellow palate marked by darker nectar guides.
 
 ## See Also
 
-- [[tropaeolum-majus]]
-
-## See Also
 - [[chelidonium-majus]]
+- [[tropaeolum-majus]]
 
 ## Overview
 

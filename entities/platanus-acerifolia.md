@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Bean, W.J. (1980). "[[nitrogen-fixing-trees-and-shrubs]] Hardy in the British Isles." 8th ed. John Murray.
+  - Bean, W.J. (1980). "nitrogen-fixing-trees-and-shrubs Hardy in the British Isles." 8th ed. John Murray.
   - Tormo, J. et al. (1996). "Platanus pollen allergens." Journal of Allergy and Clinical Immunology, 98(5), 977–987.
   - Pezeshki, S.R. & Chambers, J.L. (1986). "Variation in flood tolerance of green ash, sycamore, and sweetgum." Forest Science, 32(3), 616–622.
   - Santamour, F.S. (1972). "Interspecific hybridization in Platanus." Forest Science, 18(3), 236–239.

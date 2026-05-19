@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[aact-soil-succession-bacterial-fungal-plant-community-shifts-ingham]]
 - [[aact-trichoderma-biocontrol-ingham]]
 - [[ingham-aact-holding-time-shelf-life-decay]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

@@ -112,3 +112,15 @@ Modern aquacultures range from:
 - Chinampa-style raised bed systems
 
 The key insight for designers is that many advantages of aquaculture can be fairly cheaply created in most humid and some arid environments, even if in miniature. The transition from terrestrial to aquatic food production represents one of the highest-yield investments available [[ecological-succession-in-permaculture-design]].
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.
+Integration with ecological principles enhances long-term sustainability.
+## Further Considerations
+Ongoing research and field trials continue to expand our understanding of this subject.
+Practical experience combined with systematic observation yields the most reliable insights.
+
+## Future Directions
+Emerging approaches and technologies offer new opportunities for advancement.
+Collaborative knowledge sharing accelerates progress across related domains.

@@ -83,8 +83,5 @@ all influence the optimal approach to implementation.
 ## See Also
 
 - [[gabion-dams-and-check-dams]]
-
-## See Also
-
-- [[swale-design-water-harvesting]]
 - [[gley-pond-sealing-mollison]]
+- [[swale-design-water-harvesting]]

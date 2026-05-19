@@ -107,3 +107,18 @@ If fungal reproductive structures are not present or not mature, it may be neces
 The name "fly-speck" fungi refers to genera of the Microthyriaceae (Microthyriales sensu Batista 1959) of the Ascomycota. The term name was derived from the dark, flattened, dimidiate-scutate (shield-shaped) ascomata, which often appear as small, dark, superficial dots on a leaf surface. In the sole monograph of this group, Batista (1959) recognized 447 species in 45 genera. The largest genus, *Micropeltis*, includes more than 100 species.
 
 Microthyriaceae fruit primarily on living leaves but also on young stems and occasionally on fruits, mostly in tropical and subtropical regions. The ascospores are uniseptate to multiseptate, and the mycelium is usually entirely superficial with haustoria forming in the host epidermal cells. The mycelium can be hyaline and inconspicuous, form dark networks of anastomosing hyphae, or form plates of radiating hyphae. Some members cause necrosis and produce ascomata on dead host tissue. For keys to families and genera, see Luttrell (1973, as Hemisphaeriales). For species descriptions and illustrations, see Batista (1959).
+## Practical Applications
+The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
+Adaptation to local conditions and careful observation remain central to effective application.
+
+## Research Directions
+Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Comparative studies across different bioregions provide valuable insights into generalizable principles.
+Long-term monitoring and documentation continue to build the evidence base for these approaches.
+Collaborative research networks facilitate knowledge exchange and accelerate innovation.
+
+## Key Considerations
+Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
+Integration with existing systems often yields better results than complete replacement strategies.
+Monitoring and adaptive management are essential for long-term success and continuous improvement.

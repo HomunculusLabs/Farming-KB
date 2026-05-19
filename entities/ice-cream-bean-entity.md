@@ -1,5 +1,5 @@
 ---
-title: "Ice [[ice-cream-bean-inga-species]] entity"
+title: Ice Cream Bean Entity
 created: 2026-04-28
 tags: [species, plant, nitrogen-fixer, tropical-tree, edible-fruit]
 date: 2026-04-25

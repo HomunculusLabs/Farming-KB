@@ -117,3 +117,4 @@ When applying these concepts, several factors warrant attention: environmental c
 - [[endophytic-fungi]]
 - [[fungal-volatile-organic-compounds-communication]]
 - [[arbuscular-mycorrhizal-fungi]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

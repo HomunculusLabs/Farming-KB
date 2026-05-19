@@ -64,18 +64,16 @@ Research in this area draws on multidisciplinary approaches combining field obse
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
 ## See Also
-- [[ingham-nitrate-amino-sugars-plant-nutrition]]
-- [[beneficial-indigenous-microorganisms-natural-farming]]
+
 - [[aact-nitrogen-forms-nitrate-amino-sugars-plant-nutrition-ingham]]
+- [[beneficial-indigenous-microorganisms-natural-farming]]
 - [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
 - [[cho-morning-sickness-and-plant-cross-over-period]]
-
-## See Also
-- [[fermented-plant-juice-preparation-and-application]]
-- [[aact-nitrogen-forms-nitrate-amino-sugars-plant-nutrition-ingham]]
-- [[nutrioperiodism]]
-- [[fish-amino-acid]]
 - [[designer-compost-bokashi]]
+- [[fermented-plant-juice-preparation-and-application]]
+- [[fish-amino-acid]]
+- [[ingham-nitrate-amino-sugars-plant-nutrition]]
+- [[nutrioperiodism]]
 
 ## Overview
 

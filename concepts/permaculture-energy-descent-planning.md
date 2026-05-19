@@ -116,3 +116,5 @@ Holmgren suggests that energy descent will not be a sudden collapse but a steppe
 - [[permaculture-community-resilience]]
 - [[permaculture-climate-adaptation]]
 - [[homestead-energy-conservation]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

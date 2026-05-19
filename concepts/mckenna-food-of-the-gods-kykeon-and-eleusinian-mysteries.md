@@ -113,7 +113,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[eleusinian-mysteries]] -- the historical rite itself
 - mckenna food of the gods kykeon and eleusinian mysteries -- Wasson, Hofmann, and Ruck's full argument

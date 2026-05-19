@@ -115,3 +115,6 @@ Dr. Cho's view: providing nutrients in excess to plants is not needed -- it will
 - [[knf-oriental-herbal-nutrient]]
 - [[knf-lactic-acid-bacteria-serum]]
 - [[knf-fpj-ratio-guide]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

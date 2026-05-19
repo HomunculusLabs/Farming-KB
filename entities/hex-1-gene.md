@@ -89,13 +89,11 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[woronin-bodies]]
-- [[septal-pore-cap]]
-- [[gene-drives]]
-- [[plant-epigenetic-memory-gene-based-remembering]]
-- [[cannabis-gene-pool-preservation-acclimatization-clarke]]
-## See Also
 
-- [[woronin-bodies]]
-- [[hex-1-protein]]
+- [[cannabis-gene-pool-preservation-acclimatization-clarke]]
 - [[fungal-biology-fundamentals]]
+- [[gene-drives]]
+- [[hex-1-protein]]
+- [[plant-epigenetic-memory-gene-based-remembering]]
+- [[septal-pore-cap]]
+- [[woronin-bodies]]

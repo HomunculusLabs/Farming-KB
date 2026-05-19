@@ -120,7 +120,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] Host is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic

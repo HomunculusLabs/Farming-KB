@@ -9,7 +9,7 @@ tags: [technique, manure-management, grassland, soil-fertility, nitrogen]
 
 ## Description
 
-Slurry injection is a technique for applying liquid animal manure (slurry) directly into the subsoil of grasslands, typically 18 cm below the sward surface. The method prevents nitrogen loss to the atmosphere, eliminates surface pollution and odour problems, and maximizes nutrient uptake by pasture roots. Mollison describes it as a significant advancement in grassland fertility management, citing New Scientist (August 1987) as a reference.
+Slurry injection is a technique for applying liquid animal manure (slurry) directly into the subsoil of grasslands, typically 18 cm below the sward surface. The method prevents nitrogen loss to the atmosphere, eliminates surface pollution and odour problems, and maximizes [[nutrient-uptake-by-plant-roots]] pasture roots. Mollison describes it as a significant advancement in grassland [[coleman-compost-and-organic-fertility-management]], citing New Scientist (August 1987) as a reference.
 
 ## Classification
 
@@ -42,11 +42,11 @@ Slurry injection addresses a critical problem in confined livestock systems — 
 
 4. **Integrated system design**: Slurry injection pairs naturally with the cut-and-feed system, where all manure is collected from housed animals and returned to the forage production area. Together, these methods close the nutrient loop at the farm scale.
 
-5. **Soil aeration bonus**: The injection tines create physical channels in the soil, providing incidental aeration that benefits root growth and microbial activity — a secondary benefit beyond nutrient delivery.
+5. **Soil aeration bonus**: The injection tines create physical channels in the soil, providing incidental aeration that benefits root growth and microbial activity — a secondary benefit beyond [[solomon-fertigation-bucket-drip-water-nutrient-delivery]].
 
 ## Broader Context
 
-Mollison contrasts this efficient biological cycling with the broader problem of nitrogen fertiliser use on grasslands. He notes that UK farmers applied nitrogen at "20 times their prewar rate" but the resulting increase in carrying capacity was "scarcely doubled" — and that increase was attributable more to improved grain feeds and lime application than to nitrogen itself. The fertiliser push originated from "overproduction in explosives factories, or in fact war surplus dumped on farms."
+Mollison contrasts this efficient biological cycling with the broader problem of nitrogen fertiliser use on grasslands. He notes that UK farmers applied nitrogen at "20 times their prewar rate" but the resulting increase in [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] was "scarcely doubled" — and that increase was attributable more to improved grain feeds and lime application than to nitrogen itself. The fertiliser push originated from "overproduction in explosives factories, or in fact war surplus dumped on farms."
 
 ## Practical Considerations
 
@@ -66,62 +66,17 @@ Application rates calculated based on soil nutrient status and crop requirements
 
 Proper injection depth minimizes ammonia volatilization and odor emissions.
 Buffer zones around waterways protect against nutrient leaching into aquatic systems.
-Nutrient management planning ensures application matches crop uptake capacity.
+[[cannabis-nutrient-management]] planning ensures application matches crop uptake capacity.
 
 ## Benefits for Grassland Productivity
 
-Improved nutrient retention compared to surface spreading methods.
+Improved [[bacterial-biofilms-and-nutrient-retention]] compared to surface spreading methods.
 Enhanced soil biological activity from incorporated organic matter.
 Cost-effective recycling of livestock waste as valuable nutrient resource.
 
 ## See Also
 
-- [[cut-and-feed-system]](cut-and-feed-system.md)
-- [Ley Farming](ley-farming.md)
-- [Grassland Management](../topics/grasslands-mollison.md)
-
-## Overview
-
-Slurry Injection Grassland represents an important component within sustainable design
-and ecological management systems. Understanding its role helps inform better
-integration strategies for diverse environments. The interactions between
-slurry and surrounding ecological systems create complex
-feedback loops that enhance overall resilience.
-
-## Characteristics
-
-Key characteristics include adaptability to varying environmental conditions,
-integration potential with existing systems, and contribution to biodiversity
-and ecological function. Seasonal variations affect performance and management
-requirements. Regional differences necessitate site-specific approaches.
-
-## Practical Applications
-
-Slurry Injection Grassland has several practical applications in sustainable systems.
-Integration with [[permaculture-design-principles]] enhances its utility.
-Consideration of local climate and soil conditions is essential.
-Multiple functions can be served within a single system design.
-
-## Management Considerations
-
-Effective management requires understanding of seasonal patterns and
-environmental feedback. Monitoring and adaptive management improve long-term
-outcomes. Integration with other system components maximizes benefits and
-reduces external input requirements over time.
-
-## Ecological Context
-
-The ecological relationships involving slurry extend across
-multiple trophic levels and functional groups. Soil biology, water cycles, and
-energy flows are all relevant factors in understanding these connections.
-
-## Sustainability Considerations
-
-Sustainable management practices are important for slurry injection grassland.
-Biodiversity considerations should guide implementation decisions.
-Long-term ecological health depends on responsible stewardship and monitoring.
-
-## See Also
+- [[cut-and-feed-system]]
 - [[dighton-fungal-communities-grassland-soils]]
 - [[grassland-ecology-and-soil-biology]]
 - [[stamets-spore-mass-slurry-inoculation-mycelium-transplantation]]

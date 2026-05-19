@@ -120,7 +120,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[hemenway-oak-tree-ecological-model]] for the gold standard of wildlife
   habitat trees

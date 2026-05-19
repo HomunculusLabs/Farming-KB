@@ -66,32 +66,15 @@ In mushroom cultivation, hyphal growth is the primary indicator of healthy mycel
 - Rayner, A.D.M. (1991). Hyphal growth dynamics.
 
 ## See Also
+
 - [[fungal-translocation]]
 - [[mycelial-colonization]]
-- [[saprotrophic-fungi]]
 - [[mycelial-network-structure]]
 - [[nutrient-mineralization]]
+- [[saprotrophic-fungi]]
 
-- John Dighton - author of the source text
-- Mycorrhiza - hyphal associations with plant roots
-- Saprotrophic fungi - the nutritional mode enabled by hyphae
-- Fungal translocation - the movement of resources through hyphae
-## Hyphal Fusion and Network Formation
+## Practical Applications
 
-Individual hyphae can undergo fusion (anastomosis) to create interconnected networks. This fusion allows for the exchange of cytoplasm, nuclei, and organelles between formerly separate hyphal branches, creating a coordinated functional unit. The resulting mycelial network can share resources, transmit signals, and respond to environmental stimuli as an integrated organism. Network formation is critical for the efficient exploitation of heterogeneous resources and for the translocation of nutrients over long distances.
+Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
 
-## The Mycelial Network as a Resource Exploration System
-
-Rayner et al. (1986) described the mycelial network as a branching linear organ designed as a means of entry into and exit from a resource. The direction and degree of hyphal branching are controlled by feedback mechanisms that respond to resource quality. In nutrient-rich zones, hyphae branch densely to maximize absorption surface. In nutrient-poor zones, hyphae grow in straighter lines to efficiently explore new territory. This adaptive growth strategy allows fungi to optimally allocate their limited biomass to resource acquisition.
-
-## Sources
-
-- Dighton, John. (2003). Fungi in Ecosystem Processes. Marcel Dekker.
-- Harley, J.L. (1971). Surface area data for fungal hyphae.
-- Rayner, A.D.M. et al. (1986). Mycelial network structure and function.
-
-## See Also
-
-- Mycorrhiza - hyphal associations with plant roots
-- Saprotrophic fungi - the nutritional mode enabled by hyphae
-- Fungal translocation - how nutrients move through hyphal networks
+Understanding these principles enables more effective application in diverse contexts.

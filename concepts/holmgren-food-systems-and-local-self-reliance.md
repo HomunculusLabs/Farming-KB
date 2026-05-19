@@ -108,7 +108,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[det]]
 - [[mycorrhiza]]
@@ -118,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[holmgren-mineral-balance-soil-fertility]]
 - [[holmgren-observe-and-interact-detailed]]
 - [[holmgren-obtain-a-yield-detailed]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

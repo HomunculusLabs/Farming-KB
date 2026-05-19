@@ -115,3 +115,6 @@ When a nutrient cannot be translocated, it remains fixed in the tissue where it 
 3. Biochemical function groups provide a framework for understanding why certain nutrients share similar deficiency patterns or interact synergistically.
 4. [[soil-ph]] is a primary driver of micronutrient availability — acidic conditions generally improve uptake of iron, manganese, zinc, and copper, while alkaline conditions can lock them out.
 5. Foliar feeding is a useful short-term corrective tool, particularly for immobile nutrients, but does not replace the need to address soil chemistry and biological activity for long-term plant health.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

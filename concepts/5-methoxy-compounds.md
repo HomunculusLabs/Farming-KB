@@ -113,7 +113,6 @@ with practical application and field observation,
 providing a framework for both academic study and
 hands-on implementation in real-world scenarios.
 
-
 ## See Also
 - [[beta-carboline-chemistry]]
 - [[dom]]

@@ -120,7 +120,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - ethnomycology history mushrooms human civilization - Broader ethnomycology
 - wasson soma divine mushroom immortality - Soma hypothesis in detail

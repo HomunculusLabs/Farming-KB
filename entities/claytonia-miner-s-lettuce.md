@@ -98,14 +98,4 @@ Claytonia's extremely low light requirements make it an ideal candidate for:
 
 ## See Also
 
-- Mâche ([[mache-valerianella-locusta]])
-- Minutina
-- Cold-Hardy Vegetables
-- Four Season Farm
-
-## See Also
-- [[claytonia|Claytonia Perfoliata]]
-- [[coleman-claytonia-winter-harvest-cultivation|Coleman Claytonia Winter Harvest Cultivation]]
-- [[claytonia|Claytonia]]
-- [[lettuce-opium|Lettuce Opium]]
-- [[growing-lettuce-salad-greens|Growing Lettuce Salad Greens]]
+- [[mache-valerianella-locusta]]

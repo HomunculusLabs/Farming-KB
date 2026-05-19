@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[comparison-rockwool-vs-coco-coir]]
 - [[query-dwc-vs-coco-coir-vs-soil-cannabis-growing]]
 - [[query-what-is-the-difference-between-coco-coir-and-peat-moss]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

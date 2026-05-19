@@ -95,13 +95,10 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]
-- [[native-american-church-peyote-ceremony-structure-roles-roadman]]
+
+- [[curandero]]
 - [[halpern-sacramental-peyote-and-native-american-church]]
 - [[lophophora-williamsii]]
 - [[mescalero-apache]]
-## See Also
-
-- [[lophophora-williamsii]] — the peyote cactus
-- [[mescalero-apache]] — contrasting peyote experience
-- [[curandero]] — Mexican folk healing tradition
+- [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]
+- [[native-american-church-peyote-ceremony-structure-roles-roadman]]

@@ -115,7 +115,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[mollison-hedgerow-barrier-species-selection]]
 - [[mollison-designers-mixed-orchard-design-species-selection]]

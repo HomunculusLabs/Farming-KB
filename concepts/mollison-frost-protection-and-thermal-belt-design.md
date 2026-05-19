@@ -1,5 +1,5 @@
 ---
-title: "[[holzer-frost-protection-techniques]] and [[permaculture-thermal-belt-siting]] Design"
+title: Mollison Frost Protection And Thermal Belt Design
 created: 2026-04-26
 tags:
   - permaculture

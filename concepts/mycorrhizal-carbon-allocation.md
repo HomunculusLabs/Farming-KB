@@ -109,7 +109,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[mycorrhizal-carbon-sequestration]]
 - [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]] labelling in signature fatty acids to track carbon allocation in arbuscular mycorrhiza. In: Varma A, Kharkwal AC (eds) [[arbuscular-mycorrhizal-fungi]] can jumpstart carbon allocation pathways and accelerate soil building

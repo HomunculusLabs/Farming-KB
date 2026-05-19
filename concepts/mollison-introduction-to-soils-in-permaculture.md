@@ -129,7 +129,6 @@ restoration of soils and forests for the sake of a healthy earth
 itself, not to clear or ruin any more land, but first to put in order
 what we have destroyed.
 
-
 ## See Also
 - [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
 - [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]]

@@ -116,3 +116,5 @@ Most psilocybin mushrooms have a mild, farinaceous (flour-like or mealy) odor. A
 - [[psilocybin-mushroom-global-distribution]] for geographic range
 - [[psychedelic-harm-reduction]] for comprehensive safety practices
 - [[psychedelic-mushroom-pharmacology]] for chemistry and dosage
+## Further Reading
+Continued research and field trials yield new insights into this subject.

@@ -130,7 +130,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[cannabinoid-receptors-cb1-cb2]]
 - [[fungi-in-the-environment-fungal-endophytes-plant-communities]]

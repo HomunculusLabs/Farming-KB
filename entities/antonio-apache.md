@@ -89,14 +89,11 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[lipan-apache]]
-- [[carrizo-indians]]
-- [[san-antonio-cased-grain-spawn-method-origin-modern-miniculture-bigwood-beug-1982]]
-- [[chiricahua-apache]]
-- [[mescalero-apache-peyote-prohibition]]
-## See Also
 
-- [[carrizo-indians]] — peyote source identified by Antonio Apache
-- [[lipan-apache]] — intermediary tribe in the transmission chain
-- [[mescalero-apache]] — recipients of peyote knowledge
-- [[tonkawa]] — alternative transmission route
+- [[carrizo-indians]]
+- [[chiricahua-apache]]
+- [[lipan-apache]]
+- [[mescalero-apache]]
+- [[mescalero-apache-peyote-prohibition]]
+- [[san-antonio-cased-grain-spawn-method-origin-modern-miniculture-bigwood-beug-1982]]
+- [[tonkawa]]

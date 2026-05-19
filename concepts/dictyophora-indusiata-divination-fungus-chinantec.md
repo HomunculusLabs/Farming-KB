@@ -117,3 +117,4 @@ The documentation of D. indusiata as a divination fungus among the Chinantec is 
 - [[guzman-allen-gartz-sacred-non-psilocybin-fungi-polypores-boletes-puffballs]]
 - [[stinkhorn-fungi-morphology-and-ecology]]
 - [[traditional-indigenous-use-sacred-fungi]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

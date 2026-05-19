@@ -24,7 +24,7 @@ Pistia is a monotypic genus of aquatic plant in the family Araceae, represented 
 - Individual rosettes are 5–15 cm across but can form dense mats covering entire water surfaces.
 - Reproduces both sexually by seed and vegetatively by stolons, with vegetative spread being the primary mode of colonization.
 - Capable of doubling biomass in 7–10 days under optimal tropical conditions, making it one of the fastest-growing aquatic plants.
-- Absorbs nutrients (particularly nitrogen and phosphorus) efficiently from water, making it effective for wastewater treatment.
+- Absorbs nutrients (particularly nitrogen and phosphorus) efficiently from water, making it effective for [[biological-wastewater-treatment]].
 - Provides habitat for fish fry, aquatic invertebrates, and amphibians; shade from mats moderates water temperature.
 
 ## Relevance to Cultivation and Permaculture
@@ -33,7 +33,7 @@ Mollison references Pistia specifically in the context of [[tropical-mulch-syste
 
 - **High-quality mulch source**: In Mollison's mulch comparison (referencing Okigbo and Lal), Pistia (waterplant) mulch is noted for producing marked positive responses in maize yields. The aquatic plant accumulates nutrients from nutrient-rich water and transfers them to terrestrial growing systems when harvested and applied as mulch.
 - **Aquaculture integration**: Grown in ponds, greywater treatment systems, and chinampa-style aquaculture setups where it serves multiple functions: water purification, fish habitat, and mulch production.
-- **Nutrient harvesting**: Pistia effectively "mines" dissolved nutrients from eutrophic water bodies. When harvested and applied to gardens, it transfers these captured nutrients to soil systems, embodying the permaculture principle of turning problems into solutions.
+- **Nutrient harvesting**: Pistia effectively "mines" dissolved nutrients from eutrophic water bodies. When harvested and applied to gardens, it transfers these captured nutrients to soil systems, embodying the [[permaculture-principle-1-observe-interact]] of turning problems into solutions.
 - **Wastewater treatment**: Can be cultivated in greywater or wastewater treatment lagoons where it absorbs excess nutrients and pollutants, producing clean water and harvestable biomass simultaneously.
 
 ## Ecological Considerations
@@ -54,32 +54,14 @@ Mollison references Pistia specifically in the context of [[tropical-mulch-syste
 
 ## See Also
 
-- [[soil-ph]]
 - [[cover-crops]]
-
-## Practical Applications
-Pistia has several practical applications in sustainable systems.
-Integration with [[permaculture-design-principles]] enhances its utility.
-Consideration of local climate and soil conditions is essential.
-Multiple functions can be served within a single system design.
-
-## Historical Significance
-Pistia has been recognized for its contributions to various fields.
-Traditional knowledge systems have long valued its properties.
-Modern research continues to validate and expand upon traditional uses.
-
-## Sustainability Considerations
-Sustainable management practices are important for pistia.
-Biodiversity considerations should guide implementation decisions.
-Long-term ecological health depends on responsible stewardship.
-
-## See Also
 - [[pistia-stratiotes]]
+- [[soil-ph]]
 
 ## Overview
 
 Pistia represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -100,7 +82,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pistia finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -108,7 +90,7 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
@@ -129,7 +111,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 pistia and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -117,3 +117,4 @@ The integrated land management approach rests on several key principles:
 
 - [[tropical-food-system-development]]
 - [[agroforestry]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

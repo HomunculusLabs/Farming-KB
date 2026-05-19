@@ -115,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[ethanol-pasteurization-selective-fungal-isolation]]
 - [[selective-agents-fungal-isolation-antibiotics-fungicides]]
 - [[selective-isolation-saprobic-basidiomycetes-soil]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

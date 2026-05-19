@@ -103,3 +103,18 @@ Emerging plant pathogens of global concern include late blight of potato and tom
 ## Fungi in the Broader Context of Primary Production
 
 ECM biocontrol is one facet of the broader role fungi play in moderating primary production in ecosystems. As partners in mycorrhizal symbiosis, fungi regulate nutrient supply for plant growth. The existence of linkages among plants by mycorrhizal hyphae, and the sharing of nutrients among plants of different species, has begun to alter our understanding of plant community interactions (Simard et al., 1997a, b). How these interplant connections interact with pathogen defense mechanisms remains an exciting frontier in fungal ecology.
+## Practical Applications
+The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
+Adaptation to local conditions and careful observation remain central to effective application.
+
+## Research Directions
+Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Comparative studies across different bioregions provide valuable insights into generalizable principles.
+Long-term monitoring and documentation continue to build the evidence base for these approaches.
+Collaborative research networks facilitate knowledge exchange and accelerate innovation.
+
+## Key Considerations
+Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
+Integration with existing systems often yields better results than complete replacement strategies.
+Monitoring and adaptive management are essential for long-term success and continuous improvement.

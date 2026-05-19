@@ -59,16 +59,14 @@ Research in this area draws on multidisciplinary approaches combining field obse
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
 ## See Also
-- [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
-- [[growing-gourmet-light-requirements-mushroom-fruiting]]
-- [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
-- [[bionutrients-lab-calcium-phosphate-calamansi]]
-- [[contamination-prevention-in-mushroom-cultivation]]
 
-## See Also
+- [[bionutrients-lab-calcium-phosphate-calamansi]]
+- [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
+- [[contamination-prevention-in-mushroom-cultivation]]
+- [[growing-gourmet-light-requirements-mushroom-fruiting]]
+- [[korean-natural-farming]]
 - [[mycology]]
 - [[natural-farming]]
-- [[korean-natural-farming]]
 
 ## Overview
 

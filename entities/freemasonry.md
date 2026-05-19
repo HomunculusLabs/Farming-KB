@@ -53,18 +53,14 @@ Research in this area draws on multidisciplinary approaches combining field obse
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
 ## See Also
-- [[mckenna-sin-nannar-harran-moon-god-mushroom-iconography]]
-- [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]
-- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
-- [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]
-- [[mckenna-sin-nannar-harran-moon-god-mushroom-iconography]]
 
-## See Also
-- [[mckenna-sin-nannar-harran-moon-god-mushroom-iconography]]
-- [[egyptian-mystery-schools-and-pyramid-initiation]]
-- [[mycology]]
+- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
 - [[amanita]]
 - [[dom]]
+- [[egyptian-mystery-schools-and-pyramid-initiation]]
+- [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]
+- [[mckenna-sin-nannar-harran-moon-god-mushroom-iconography]]
+- [[mycology]]
 
 ## Overview
 

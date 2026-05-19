@@ -128,7 +128,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[fukuoka-rice-barley-dual-culture]] — seed ball use in [[fukuoka-natural-fertility-cycle]] — natural soil building
 - [[fukuoka-clay-pellet-desert-greening]] and scattered over the field in mid-November or later.

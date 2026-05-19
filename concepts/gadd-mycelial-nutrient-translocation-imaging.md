@@ -124,7 +124,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[gadd-colony-morphogenesis-hyphal-growth|Colony Morphogenesis and Hyphal Growth]]
 - [[mycelial-nutrient-translocation]]

@@ -113,7 +113,6 @@ While Fourier-based analysis of pulsatile transport has provided transformative 
 - **Species variation** — Most detailed studies have been conducted on model fungal species. The extent to which pulsatile transport and phase domain organization occur across ecologically and agriculturally important taxa remains to be systematically characterized.
 - **Field validation** — Most observations come from controlled laboratory conditions. Translating these findings to the complex, multi-species context of agricultural soils is an important next step.
 
-
 ## See Also
 - Mycorrhizal Fungi and Nutrient Cycling
 - [[soil-food-web]] Dynamics

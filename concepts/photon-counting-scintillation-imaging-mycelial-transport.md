@@ -106,7 +106,6 @@ Despite these limitations, PCSI has provided unprecedented insights into fungal 
 
 Ongoing work is extending PCSI approaches to study a broader range of fungal species beyond *P. velutina*, including ectomycorrhizal and pathogenic fungi. Integration with complementary techniques — such as confocal microscopy for subcellular transport, and network graph analysis for colony-level organization — promises to bridge the gap between cellular and ecosystem scales of fungal nutrient dynamics.
 
-
 ## See Also
 - [[vacuolar-nutrient-transport-in-fungi]]
 - [[pulsatile-nutrient-transport-fungal-mycelia]] in Fungal Mycelia
@@ -114,3 +113,8 @@ Ongoing work is extending PCSI approaches to study a broader range of fungal spe
 - [[photon-counting-scintillation-imaging]]
 - [[isotopic-tracers-mycorrhizal-research]]
 - [[fungal-biology-fundamentals]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.
+Integration with ecological principles enhances long-term sustainability.

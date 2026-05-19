@@ -116,3 +116,5 @@ Open-water systems should not be created too frequently unless silt dams of up t
 - [[floodwater-harvesting-and-braided-streams]]
 - [[infiltration-slope-stabilisation-and-floodwater-harvesting]]
 - [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

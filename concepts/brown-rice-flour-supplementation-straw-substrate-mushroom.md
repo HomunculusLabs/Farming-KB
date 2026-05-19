@@ -115,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[comparison-white-rot-vs-brown-rot-bioremediation]]
 - [[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]]
 - [[query-difference-between-white-rot-and-brown-rot-fungi]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

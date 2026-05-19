@@ -115,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[permplant-leucaena-tropical-nitrogen-fixing-tree]]
 - [[regolith-tropical-soils-mollison]]
 - [[tropical-forage-legumes]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

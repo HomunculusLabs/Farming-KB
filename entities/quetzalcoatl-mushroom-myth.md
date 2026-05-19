@@ -61,27 +61,20 @@ The Quetzalcoatl-mushroom myth continues to inform the contemporary use of psilo
 The Quetzalcoatl-mushroom myth demonstrates that indigenous psychedelic traditions are not merely pharmacological practices but are embedded in complex mythological and cosmological systems. Understanding these systems is essential for respectful engagement with traditional plant medicine practices and for developing culturally informed approaches to psychedelic therapy. The myth also illustrates how indigenous peoples have developed sophisticated systems of meaning around psychoactive substances that serve protective, educational, and therapeutic functions for their communities.
 
 ## See Also
-- [[psilocybin-mushroom]]
-- [[mazatec-mushroom-velada]]
-- [[mazatec-mushroom-tradition]]
-- [[roman-estrada]]
+
 - [[irene-pineda-de-figueroa]]
-
-- Mazatec mushroom velada — the ceremony in which this myth is contextually embedded
-- Sierra Mazateca — the geographic setting of the myth and the mushrooms it describes
-- Irene Pineda de Figueroa — the shamaness who invokes these sacred narratives during ceremony
-
-## Ritual Implications
-
-The Quetzalcoatl-Christ-mushroom origin myth has direct implications for how the mushrooms are handled in ceremony. Because they are understood as the blood of a divine being, they must be treated with utmost reverence. They are blessed in copal smoke before consumption, eaten in pairs symbolizing the dual principle of creation, and consumed only at night in darkness. The prohibition against casual use, daylight consumption, or improper handling is reinforced by the belief that the mushrooms are literally divine flesh and blood. Breaking these prohibitions is understood as a form of sacrilege that could bring misfortune rather than healing.
-
-## See Also
-
-- Mazatec mushroom velada - the ceremony informed by this origin myth
-- Sierra Mazateca - the mountains where the myth is geographically grounded
-- Irene Pineda de Figueroa - the shamaness who invokes these sacred narratives during ceremony
-- Roman Estrada - the shaman whose practice is informed by this cosmological framework
+- [[mazatec-mushroom-tradition]]
+- [[mazatec-mushroom-velada]]
+- [[psilocybin-mushroom]]
+- [[roman-estrada]]
 
 ## Historical Transmission
 
 The Quetzalcoatl-mushroom myth has been transmitted orally across generations of Mazatec people, adapting and evolving with each retelling. The incorporation of Catholic elements (Christ, the Virgin, saints) occurred during the colonial period when Spanish missionaries actively suppressed indigenous religious practices. The Mazatec response was not to abandon their mushroom traditions but to reframe them in Catholic terms, preserving the essential structure and practice while adopting the external vocabulary of the dominant religion. This adaptive strategy enabled the survival of mushroom ceremony traditions into the modern era.
+
+## Practical Applications
+
+Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
+
+These factors interact dynamically, requiring adaptive management strategies.
+Proper implementation yields significant improvements in outcomes.

@@ -114,7 +114,6 @@ Methods for improving efficiency and quality for cotter mushroom rescue modules 
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 
-
 ## See Also
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.

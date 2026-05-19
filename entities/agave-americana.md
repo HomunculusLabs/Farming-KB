@@ -21,7 +21,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gentry, H.S. (1982). "Agaves of Continental [[psilocybin-north-america-pacific-northwest]]." University of Arizona Press.
+  - Gentry, H.S. (1982). "Agaves of Continental psilocybin-north-america-pacific-northwest." University of Arizona Press.
   - Garcia-Mendoza, A. (2007). "Agavaceae." In: "Flora del Valle de Tehuacán-Cuicatlán," UNAM.
   - Eguiarte, L.E. et al. (2000). "Agave (Agavaceae)." In: "Economic Botany," Springer.
   - Colunga-GarcíaMarín, P. et al. (2007). "Diversidad y Distribución del Género Agave." Boletín de la Sociedad Botánica de México, 81, 43–52.

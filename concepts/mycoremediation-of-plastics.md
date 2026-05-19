@@ -122,7 +122,6 @@ Fungi often degrade plastics more effectively when alternative carbon sources ar
 - Consortium approaches combining multiple fungal and bacterial species
 - Life cycle assessment comparing fungal degradation to conventional disposal methods
 
-
 ## See Also
 - [[mycoremediation-of-oil-spills]] -- established fungal remediation of petroleum hydrocarbons
 - [[mycoremediation-heavy-metals]] -- fungal biosorption and immobilization of toxic metals

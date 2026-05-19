@@ -115,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[earthworms-soil]]
 - [[lowenfels-earthworms-soil-food-web]]
 - [[query-what-is-the-role-of-earthworms-in-soil-health]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

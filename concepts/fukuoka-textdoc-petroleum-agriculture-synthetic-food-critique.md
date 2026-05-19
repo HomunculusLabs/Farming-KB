@@ -117,3 +117,4 @@ The transition away from petroleum-dependent agriculture will eventually be forc
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-clover-succession]]
 - [[fukuoka-artificial-food-synthesis-degradation-food-quality]]
 - [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

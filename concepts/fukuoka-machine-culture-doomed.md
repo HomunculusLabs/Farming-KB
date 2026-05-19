@@ -112,7 +112,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 [[fukuoka-road-back-to-nature-overview]], [[fukuoka-no-weeding-no-pesticides]]
 - [[fukuoka-direct-observation-method]].

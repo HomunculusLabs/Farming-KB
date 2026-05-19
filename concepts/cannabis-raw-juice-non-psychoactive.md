@@ -103,7 +103,6 @@ Techniques discussed here can be adapted across a wide range of scales, from sma
 
 Climate adaptation is essential for long-term success. What works in temperate regions may require significant modification for tropical or arid environments. Local knowledge, experimentation, and careful observation of results guide successful adaptation across diverse conditions and resource availability levels.
 
-
 ## See Also
 - [[doc]]
 - [[decarboxylation]]
@@ -116,3 +115,6 @@ Climate adaptation is essential for long-term success. What works in temperate r
 - [[afghani-cannabis]]
 - [[ak-47-cannabis]]
 - [[alpha-beta-diversity-cannabis-root-microbiomes]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

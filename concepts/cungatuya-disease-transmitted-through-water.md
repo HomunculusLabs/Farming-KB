@@ -138,7 +138,6 @@ Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
 
-
 ## See Also
 - [[ayahuasca-ceremony-and-mariri-system]]
 - [[shamanic-powers-and-mariris]]

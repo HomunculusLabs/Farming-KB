@@ -115,3 +115,6 @@ The true finesse of earthworks is best entrusted to experienced machinery driver
 - [[fukuoka-natural-orchard-management-three-dimensional-system]]
 - [[building-with-natural-materials]]
 - [[query-how-do-i-start-natural-dyeing-with-plants]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

@@ -82,9 +82,6 @@ kidney and bladder meridians. Primary indications include damp-heat in the
 
 ## See Also
 
-- mycelium-running-mushroom-antimicrobial-properties-species-chart
-
-## See Also
+- [[mycelium-running-gourmet-mushroom-species]]
 - [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 - [[mycelium-running-mushroom-bioaccumulation-heavy-metals-species-guide]]
-- [[mycelium-running-gourmet-mushroom-species]]

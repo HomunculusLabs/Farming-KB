@@ -109,7 +109,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[savory-community-organization-and-shared-grazing]]
 - [[ozier-pdc-biomes-ecotones-edge-effect]]
@@ -117,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[ozier-pdc-ecological-design]]
 - [[ozier-pdc-hydro-cycle-and-watershed-management]]
 - [[ozier-pdc-maslows-hierarchy-sustainable-design]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

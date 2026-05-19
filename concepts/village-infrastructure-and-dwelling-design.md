@@ -116,3 +116,5 @@ infrequently used assets to residents as needed, yields even greater savings. A
 total vehicle leasing system with fleet purchase and insurance, local
 maintenance, and bulk fuel supply should be closely investigated by any sensible
 village development group.
+## Further Reading
+Continued research and field trials yield new insights into this subject.

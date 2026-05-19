@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-alley-cropping-vs-silvopasture]] Food Forest"
+title: Comparison Alley Cropping Vs Food Forest
 tags: [comparison, agroforestry, alley-cropping, food-forest, permaculture]
 date: 2026-05-12
 updated: 2026-05-12

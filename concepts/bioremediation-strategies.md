@@ -116,3 +116,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[dom]]
 - [[composting]]
 - [[mycoremediation]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

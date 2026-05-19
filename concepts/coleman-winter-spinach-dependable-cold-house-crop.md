@@ -117,3 +117,4 @@ building soil fertility and biological activity while allowing natural cleansing
 Winter spinach is the crop most susceptible to the aphid problem Coleman solved through nitrogen flushing (see [[coleman-overwintered-spinach-cold-house-production]]
 - [[coleman-mobile-greenhouse-crop-rotation-design]]
 - [[coleman-persephone-months-winter-day-length]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

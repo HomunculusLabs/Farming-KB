@@ -137,7 +137,6 @@ Monitoring integration outcomes supports adaptive management.
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 
-
 ## See Also
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what

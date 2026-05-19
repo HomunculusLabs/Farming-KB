@@ -90,8 +90,7 @@ Key pharmacological actions of tetrandrine:
 - **Antifibrotic:** Suppresses hepatic stellate cells and TGF-β/Smad
 
 ## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
 - [[mollison-designers-vine-and-fruit-tree-integration]]
 - [[no-pruning-fruit-trees]]
-
-## See Also
-- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]

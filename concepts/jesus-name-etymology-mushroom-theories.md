@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[entheogen-etymology-and-terminology]]
 - [[metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott]]
 - [[oner-jesus-christ-and-jack-47]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

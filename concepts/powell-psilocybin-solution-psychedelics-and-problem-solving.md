@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[powell-numinous-experience-and-psychedelic-awe]]
 - [[powell-sleeping-dreams-and-waking-dreams]]
 - [[simon-powell]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

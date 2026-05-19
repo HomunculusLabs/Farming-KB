@@ -142,7 +142,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[cannabidivarin]]
 - [[query-what-is-the-difference-between-thc-cbd-and-minor-cannabinoids]]

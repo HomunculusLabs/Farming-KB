@@ -86,6 +86,4 @@ The earliest reliable documentation of Sinicuichi use comes from the work of Mex
 ## See Also
 
 - [[capuli-cherry-prunus-salicifolia-andean-fruit-tree]]
-
-## See Also
 - [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]]

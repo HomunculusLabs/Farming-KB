@@ -115,3 +115,6 @@ Proper moisture content is critical throughout composting:
 ## Cool Composting as an Alternative
 
 For gardeners who cannot manage hot composting, cool (cold) composting is a viable alternative: simply pile organic matter in a corner and leave it. While decomposition takes a year or more (versus weeks for hot composting), the end product is still compost. Cool compost tends to have higher populations of worms, beetles, millipedes, and micro- and macroarthropods, contributing valuable diversity to [[the-soil-food-web]]. Maintaining a cool compost pile alongside hot composting is recommended for maximizing organismal diversity.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

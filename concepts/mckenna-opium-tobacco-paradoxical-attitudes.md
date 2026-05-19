@@ -128,7 +128,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[mckenna-food-of-the-gods-thesis]]
 - [[psychedelic-plants-and-civilization]]

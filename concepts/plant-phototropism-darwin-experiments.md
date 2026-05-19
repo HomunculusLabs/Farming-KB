@@ -141,7 +141,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - Darwin C, Darwin F. (1880) "The Power of Movement in Plants." John Murray.
 - Chamovitz D. (2012) "What a Plant Knows." Oneworld Publications. Chapter 1: What a Plant Sees.

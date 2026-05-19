@@ -133,7 +133,5 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[lewis-thomas]]
-
-## See Also
 - [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]
+- [[lewis-thomas]]

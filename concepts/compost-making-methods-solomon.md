@@ -115,3 +115,6 @@ observation, and a willingness to adapt approaches based on results.
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[decomposition]]
 - [[solomon-low-grade-compost-making-methods]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

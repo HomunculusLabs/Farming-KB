@@ -80,16 +80,13 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
+
 - [[chiricahua-apache]]
 - [[hallucinogens-and-shamanism]]
 - [[lipan-apache]]
-- [[mescalero-indian-reservation]]
-- [[mescalero-apache]]
-## See Also
-
-- [[mescalero-apache]]
 - [[lophophora-williamsii]]
-- [[chiricahua-apache]]
+- [[mescalero-apache]]
+- [[mescalero-indian-reservation]]
 
 ## References
 

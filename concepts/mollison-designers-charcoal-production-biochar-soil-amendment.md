@@ -130,7 +130,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - permaculture-designers-manual-bamboo -- source reference
 - [[keyline-design]] -- integrating biochar into broadacre design

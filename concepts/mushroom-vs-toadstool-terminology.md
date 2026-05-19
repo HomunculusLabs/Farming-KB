@@ -114,3 +114,7 @@ Palmer's core teaching was that exactly what is done with one variety of fungus 
 The key is not general rules about color, habitat, or odor, but specific knowledge of each species — learned through direct experience and disciplined observation, developed over time through the kind of patient practice that transforms confusion into recognition.
 
 Palmer closed one of his articles with a sobering report: since the first number of his mushroom papers was printed, there had been three cases of poisoning reported by the daily press from as many different localities. While wishing that more study might be given to this part of nature's kingdom, he could not too strongly warn persons from simply meddling with fungi. The consequences of casual experimentation, he made clear, could be swift and irreversible.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

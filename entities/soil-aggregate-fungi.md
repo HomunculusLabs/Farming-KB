@@ -61,27 +61,20 @@ Understanding the role of fungi in soil aggregate formation has direct implicati
 - Tisdall, J.M. and Oades, J.M. (1982). Organic matter and water-stable aggregates.
 
 ## See Also
+
+- [[arbuscular-mycorrhizal-fungi]]
+- [[mycorrhizal-fungi]]
 - [[soil-aggregate-formation]]
 - [[soil-food-web]]
 - [[soil-ph]]
-- [[mycorrhizal-fungi]]
-- [[arbuscular-mycorrhizal-fungi]]
 
-- John Dighton - author of the source text
-- Fungal hyphae - the structures that bind soil particles
-- Mycorrhiza - a major contributor to aggregate formation
-- Saprotrophic fungi - the other contributor to aggregate stability
-## Soil Health Assessment
+## Practical Applications
 
-Soil aggregate stability is increasingly used as a key indicator of soil health. Various tests measure the resistance of aggregates to disruption by water (slaking) or mechanical energy. Soils with healthy fungal communities consistently show greater aggregate stability. This relationship provides a practical tool for assessing the biological quality of agricultural soils and the impact of different management practices on soil ecosystem function.
+Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
+## Key Considerations
 
-## Implications for Sustainable Agriculture
+Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
 
-The role of fungi in aggregate formation provides a strong scientific basis for sustainable agricultural practices. Cover cropping, reduced tillage, organic amendment, and crop rotation all support fungal communities and, through them, soil structure and fertility. The "soil food web" approach to soil management explicitly recognizes the importance of fungal networks in maintaining the physical, chemical, and biological properties of healthy soil.
+## Mechanisms and Processes
 
-## See Also
-
-- John Dighton - author of the source text
-- Fungal hyphae - the physical structures that bind soil particles
-- Mycorrhiza - major contributors to aggregate stability through glomalin production
-- Saprotrophic fungi - decomposers that contribute organic matter to aggregates
+Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.

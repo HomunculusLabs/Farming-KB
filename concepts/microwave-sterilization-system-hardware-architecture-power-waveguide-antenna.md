@@ -7,7 +7,7 @@ elements.
 
 ## Practical Applications
 
-Real-world applications and implementation strategies for microwave sterilization system hardware architectu. Understanding
+Real-world applications and implementation strategies for [[microwave-sterilization-system-hardware-architecture]] hardware architectu. Understanding
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 
@@ -25,7 +25,7 @@ Careful observation and documentation support ongoing improvement.
 
 ## Research Developments
 
-Current research directions and emerging findings for microwave sterilization system hardware architectu. Understanding
+[[psychedelic-therapy-current-research]] directions and emerging findings for microwave sterilization system hardware architectu. Understanding
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 

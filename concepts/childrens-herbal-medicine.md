@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[herbal-poultices-and-compresses]]
 - [[herbal-tincture-making]]
 - [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

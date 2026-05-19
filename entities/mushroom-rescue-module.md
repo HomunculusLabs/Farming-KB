@@ -1,5 +1,5 @@
 ---
-title: [[cotter-mushroom-rescue-modules-disaster-relief]] Module
+title: Mushroom Rescue Module
 source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 tags: [disaster-relief, food-security, low-tech, humanitarian, cultivation-system]

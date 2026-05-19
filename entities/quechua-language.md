@@ -70,17 +70,15 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[hallucinogens-and-shamanism]]
-- [[ayahuasca-ceremony]]
-- [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
-- [[three-dimensional-visible-language-future-human-capacity-tryptamine-mckenna]]
-- [[holmgren-pattern-thinking-and-pattern-language]]
-## See Also
 
 - [[ayahuasca]]
 - [[ayahuasca-ceremony]]
+- [[hallucinogens-and-shamanism]]
+- [[holmgren-pattern-thinking-and-pattern-language]]
 - [[iquitos]]
 - [[marlene-dobkin-de-rios]]
+- [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
+- [[three-dimensional-visible-language-future-human-capacity-tryptamine-mckenna]]
 
 ## References
 

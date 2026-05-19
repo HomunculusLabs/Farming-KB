@@ -133,7 +133,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - emcdda-hallucinogenic-mushroom-consequences-and-health-risks
 - emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management

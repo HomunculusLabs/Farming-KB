@@ -87,14 +87,14 @@ Common cultivation challenges and their solutions have been documented through p
 Traditional knowledge systems have recognized and utilized this organism across multiple cultural contexts.
 Ethnographic documentation provides historical perspective on traditional uses, management practices, and cultural significance.
 Contemporary cultural relevance continues in traditional, recreational, and research contexts.
+
 ## See Also
+
+- [[alpha-1-3-glucan-fungal-cell-wall-human-pathogens]]
+- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
+- [[fungal-biology-fundamentals]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
+- [[isotopic-tracers-mycorrhizal-research]]
 - [[mushroom-cultivation]]
 - [[mycelial-networks]]
 - [[phanerochaete-velutina]]
-- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
-- [[alpha-1-3-glucan-fungal-cell-wall-human-pathogens]]
-## See Also
-
-- [[isotopic-tracers-mycorrhizal-research]]
-- [[fungal-biology-fundamentals]]
-- [[fungal-mycelial-networks-nutrient-translocation]]

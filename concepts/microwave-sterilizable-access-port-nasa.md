@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[microbial-kill-curve-microwave-surface-sterilization-kinetics]]
 - [[microwave-sterilization-power-density-calibration-3-6-w-cm2]]
 - [[thermally-gentle-microwave-surface-sterilization]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

@@ -123,7 +123,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[mckenna-epilogue-from-grasslands-to-the-starship]]
 - [[mckenna-baconian-exploration-tryptamine-research-methodology]]

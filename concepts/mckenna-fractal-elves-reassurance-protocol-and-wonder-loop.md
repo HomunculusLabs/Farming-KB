@@ -117,3 +117,4 @@ McKenna's detailed account of the reassurance protocol and wonder loop has impli
 ## Sources
 
 - McKenna, T. (1983/1992). "Tryptamine Hallucinogens and Consciousness." *The Archaic Revival*, HarperSanFrancisco.
+Ongoing developments continue to expand practical applications and theoretical understanding.

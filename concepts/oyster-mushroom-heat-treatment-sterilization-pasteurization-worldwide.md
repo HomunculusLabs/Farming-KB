@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[oyster-mushroom-pasteurized-straw-cultivation]]
 - [[oyster-mushroom-species-variety]]
 - [[oyster-straw-substrate-preparation]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

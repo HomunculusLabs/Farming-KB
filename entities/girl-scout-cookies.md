@@ -1,5 +1,5 @@
 ---
-title: [[oner-cookie-wreck-trainwreck-girl-scout-cookies-hybrid]]
+title: Girl Scout Cookies
 created: 2026-04-28
 type: strain
 tags: [cannabis, strain, hybrid, cookie-family, bay-area-genetics, high-thc]

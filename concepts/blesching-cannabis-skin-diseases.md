@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[blesching-cannabis-therapeutic-window-methodology]]
 - [[cbd-faah-inhibition-anandamide-preservation-blesching]]
 - [[endocannabinoid-dopamine-regulation-adhd-parkinsons-blesching]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

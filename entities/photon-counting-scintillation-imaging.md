@@ -87,13 +87,11 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[photon-counting-scintillation-imaging-mycelial-transport]]
-- [[photon-counting-scintillation-imaging-pcsi]]
-- [[photon-counting-scintillation-imaging-fungi]]
+
+- [[fungal-biology-fundamentals]]
+- [[isotopic-tracers-mycorrhizal-research]]
 - [[mushroom-cultivation]]
 - [[mycelial-networks]]
-## See Also
-
 - [[photon-counting-scintillation-imaging-fungi]]
-- [[isotopic-tracers-mycorrhizal-research]]
-- [[fungal-biology-fundamentals]]
+- [[photon-counting-scintillation-imaging-mycelial-transport]]
+- [[photon-counting-scintillation-imaging-pcsi]]

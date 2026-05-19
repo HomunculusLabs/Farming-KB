@@ -64,23 +64,17 @@ The Mazatec understanding of susto and its treatment with mushrooms bears striki
 In Mazatec communities, the concept of susto also serves a preventive function. The awareness that traumatic events can cause soul-loss encourages community members to seek spiritual treatment promptly after frightening experiences, before the condition becomes chronic. The availability of mushroom-based treatment for susto means that community members have access to effective psychological intervention without depending on external medical systems. This preventive and community-based approach to mental health represents a sophisticated indigenous public health system.
 
 ## See Also
-- [[mazatec-mushroom-velada]]
-- [[roman-estrada]]
+
 - [[hallucinogens-and-shamanism]]
-- [[psilocybin-mushrooms]]
+- [[mazatec-mushroom-velada]]
 - [[psilocybin-mushroom]]
-
-- Roman Estrada — the shaman whose own susto and cure are documented in detail
-- Mazatec mushroom velada — the ceremony used to treat susto and other conditions
-- Ayahuasca — another plant medicine used to treat similar conditions in the Amazon
-
-## See Also
-
-- Roman Estrada - detailed case study of susto onset, progression, and mushroom-based cure
-- Mazatec mushroom velada - the primary therapeutic intervention for susto
-- Mazatec mushroom velada - the ceremony in which the shaman tracks and retrieves the lost spirit
-- Sierra Mazateca - the landscape whose features are believed to harbor spirits that can cause susto
+- [[psilocybin-mushrooms]]
+- [[roman-estrada]]
 
 ## Spiritual Geography of Fright
 
 The Mazatec understanding of susto is intimately connected to the dramatic physical landscape of the Sierra Mazateca. The mountains are believed to be populated by supernatural beings: spirits inhabiting rivers and wells, gnomes and dwarfs living in mysterious groves, and malevolent forces dwelling in grottos and abysses. Winds that whirl up from the depths at night are understood as supernatural forces that can frighten the soul from the body. The spiritual geography of the Sierra Mazateca provides a detailed etiological framework for understanding why and where susto occurs.
+
+## Practical Applications
+
+Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.

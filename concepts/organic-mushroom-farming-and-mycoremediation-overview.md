@@ -113,3 +113,8 @@ Cotter's work includes creating mushroom rescue modules for:
 
 ## Ecological Observation Method
 "I spend a great amount of time observing the natural cycles of these mushrooms in the wild in the hope of catching clues from the mushrooms in their natural habitat, and I encourage all growers to spend more time collecting fungi to build an understanding of the ecological connections that trigger them to fruit."
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.
+Integration with ecological principles enhances long-term sustainability.

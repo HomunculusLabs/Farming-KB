@@ -108,7 +108,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 - [[humid-cool-climate-characteristics-mollison]]
@@ -116,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mollison-designers-climate-zone-3-farm-forestry]]
 - [[mollison-designers-earthworks-for-erosion-control]]
 - [[soya-bean-mollison]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

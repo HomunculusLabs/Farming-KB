@@ -142,7 +142,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[aact-brewing-ingredients-molasses-humic-kelp-fish-ingham]]
 - [[ingham-molasses-brewing-ingredient-science]]

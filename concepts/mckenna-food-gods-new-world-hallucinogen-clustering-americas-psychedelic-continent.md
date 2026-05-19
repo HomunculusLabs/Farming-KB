@@ -132,7 +132,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[mckenna-food-gods-dmt-virola-anadenanthera-amazonian-snuff-traditions]]
 - [[mckenna-food-gods-european-witchcraft-psychoactive-plants-thornapple-mandrake-nightshade]]

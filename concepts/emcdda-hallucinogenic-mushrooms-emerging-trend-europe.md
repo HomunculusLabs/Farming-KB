@@ -115,7 +115,6 @@ Incorporating practices into larger systems for emcdda hallucinogenic mushrooms 
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 
-
 ## See Also
 - [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
 - [[psilocybe-moravica]]

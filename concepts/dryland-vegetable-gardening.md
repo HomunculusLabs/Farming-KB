@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[dryland-permaculture-strategies]]
 - [[dryland-settlements-and-interceptor-banks]]
 - [[dryland-strategies-and-desert-ecology]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

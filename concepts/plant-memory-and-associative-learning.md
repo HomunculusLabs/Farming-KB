@@ -120,7 +120,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]]-red-far-red-switch-photoperiodism
 - [[plant-memory]]

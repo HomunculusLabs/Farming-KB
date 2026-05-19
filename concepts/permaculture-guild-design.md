@@ -110,3 +110,17 @@ Poultry in guilds provide pest control (eating codling moth larvae, plum curculi
 - [[permaculture-animal-integration]] — adding animals to guild systems
 - [[permaculture-forest-garden-establishment]] — guilds at the scale of entire food forests
 - [[permaculture-site-analysis]] — choosing guild locations based on site conditions
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.
+Integration with ecological principles enhances long-term sustainability.
+Historical context provides important lessons for modern applications.
+Collaborative networks and knowledge sharing accelerate progress in this field.
+## Further Considerations
+Ongoing research and field trials continue to expand our understanding of this subject.
+Practical experience combined with systematic observation yields the most reliable insights.
+
+## Future Directions
+Emerging approaches and technologies offer new opportunities for advancement.
+Collaborative knowledge sharing accelerates progress across related domains.

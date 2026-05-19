@@ -134,7 +134,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[psychedelic-mushroom-history]]
 - [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and [[weil-cultural-attitudes-toward-altered-states]] death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.

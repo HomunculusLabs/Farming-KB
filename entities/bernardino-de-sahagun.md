@@ -36,39 +36,12 @@ Bernardino de Sahagun (c. 1499-1590) was a Franciscan friar and pioneering ethno
 Sahagun's chronicles are among the earliest and most important historical sources documenting the pre-Columbian use of psychoactive mushrooms (teonanacatl) and other plant medicines in Mesoamerica. Without his careful documentation, knowledge of the Aztec mushroom cult might have been completely lost, and the 20th-century rediscovery of psychoactive mushroom use by Wasson, Hofmann, and others would have lacked the historical foundation that guided their research. His work demonstrates the critical importance of preserving ethnographic knowledge of indigenous plant use for future generations of researchers.
 
 ## See Also
-- [[richard-evans-schultes]]
-- [[lysergic-acid-amide]]
-- [[rivea-corymbosa]]
+
 - [[albert-hofmann]]
 - [[lysergic-acid]]
-
-- Ololiuhqui - one of the plants he documented
-- Richard Evans Schultes - modern ethnobotanist who cited his work
-- Albert Hofmann - chemist who referenced his chronicles
-- Francisco Hernandez - another colonial chronicler of Mexican plant medicines
-## Methodology and Innovation
-
-Sahagun's ethnographic methodology was remarkably advanced for the sixteenth century. Rather than simply observing and recording Aztec culture from a European perspective, he trained native Nahuatl speakers to gather information from elders and write accounts of their own traditions in their own language. He then used these native accounts as the basis for his encyclopedic compilation, creating a collaborative ethnography that preserved indigenous voices in a way that was unprecedented in colonial scholarship. This methodology is now recognized as a precursor to modern participatory ethnography.
-
-## Preservation of Psychoactive Plant Knowledge
-
-Sahagun's documentation of ololiuhqui, teonanacatl, and peyotl preserved knowledge that was actively being suppressed by the Spanish colonial authorities and the Catholic Church. The colonial campaign against indigenous religious practices included the destruction of codices and the persecution of native priests and healers. Without Sahagun's systematic documentation, the knowledge that these plants were used in pre-Columbian religious ceremonies might have been completely lost. His work thus represents an irreplaceable link in the chain of knowledge that enabled the twentieth-century rediscovery of Mesoamerican psychoactive plant traditions by Wasson, Hofmann, and Schultes.
-
-## The Codex Florentinus
-
-Sahagun's magnum opus survives as the Codex Florentinus (also known as the Florentine Codex), a bilingual Nahuatl-Spanish manuscript completed around 1577. This twelve-volume encyclopedic work covers all aspects of Aztec civilization including religion, natural history, medicine, astronomy, commerce, and daily life. The section on medicinal herbs and their properties contains some of the most detailed early descriptions of psychoactive plants available anywhere in the world. The manuscript's bilingual format, with Nahuatl text alongside Spanish translation, has made it invaluable for modern scholars seeking to understand indigenous plant knowledge in its original linguistic and cultural context.
-
-## Legacy in Ethnopharmacology
-
-Sahagun's work established the documentary foundation upon which all subsequent research into Mesoamerican psychoactive plant traditions has been built. When Richard Evans Schultes began his investigation of ololiuhqui in 1941, he relied heavily on Sahagun's descriptions for botanical identification and historical context. When Hofmann analyzed the chemical composition of ololiuhqui and teonanacatl, the colonial chronicles provided essential information about how these plants were traditionally used, in what doses, and for what purposes. The ethnopharmacological research that produced psilocybin, the identification of Salvia divinorum, and the understanding of lysergic acid amides in morning glory seeds all ultimately trace their documentary origins to the foundational work of this sixteenth-century Franciscan friar.
-
-## See Also
-
-- Francisco Hernandez - fellow colonial chronicler of Mexican plants
-- Richard Evans Schultes - modern ethnobotanist who built on his work
-- Ololiuhqui - one of the plants he documented
-- Teonanacatl - the sacred mushrooms he described
-- Albert Hofmann - chemist who relied on his historical accounts
+- [[lysergic-acid-amide]]
+- [[richard-evans-schultes]]
+- [[rivea-corymbosa]]
 
 ## The Challenge of Translation
 
@@ -87,3 +60,21 @@ Sahagun's documentation of teonanacatl ("flesh of the gods"), the sacred mushroo
 - Sahagun, B. de (c. 1577). Historia General de las Cosas de Nueva Espana (Florentine Codex).
 - Schultes, R.E. (1941). "A Contribution to Our Knowledge of Rivea corymbosa."
 - Hofmann, A. (1980). LSD: My Problem Child. McGraw-Hill.
+
+## Practical Applications
+
+Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
+## Key Considerations
+
+Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
+## Comparative Analysis
+
+Examining this topic alongside related approaches reveals complementary strategies and unique advantages. Multiple perspectives enrich understanding and inform better decision-making.
+
+## Mechanisms and Processes
+
+Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## Management Approaches
+
+Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
+Further research may reveal additional applications and ecological relationships.

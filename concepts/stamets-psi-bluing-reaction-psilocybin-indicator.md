@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[stamets-mycorrhizal-mushrooms-forest-ecology-cultivation-challenges]]
 - [[stamets-outdoor-natural-culture-methods]]
 - [[stamets-stump-cultivation-mushroom-production-forestry]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

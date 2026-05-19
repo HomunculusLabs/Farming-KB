@@ -115,3 +115,6 @@ observation, and a willingness to adapt approaches based on results.
 - [[doc]]
 - [[comparison-vermicomposting-vs-composting-organic-garden]]
 - [[organic-garden-soil-preparation]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

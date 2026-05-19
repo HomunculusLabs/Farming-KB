@@ -71,15 +71,14 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[set-and-setting]]
-- [[hallucinogens-and-shamanism]]
-- [[schacapa]]
-## See Also
 
 - [[ayahuasca]]
 - [[ayahuasca-ceremony]]
-- [[marlene-dobkin-de-rios]]
+- [[hallucinogens-and-shamanism]]
 - [[iquitos]]
+- [[marlene-dobkin-de-rios]]
+- [[schacapa]]
+- [[set-and-setting]]
 
 ## References
 

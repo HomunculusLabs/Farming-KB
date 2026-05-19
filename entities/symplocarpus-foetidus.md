@@ -102,6 +102,4 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[helleborus-foetidus]]
-
-## See Also
 - [[permaculture-energy-cycling-and-resource-efficiency]]

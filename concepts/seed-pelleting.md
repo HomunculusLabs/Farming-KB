@@ -116,3 +116,5 @@ or enhanced [[ph-and-nutrient-availability-garden-soils]] during the critical ge
 - [[mycorrhizal-fungi-rock-penetration-soil-formation]]
 - [[neem-azadirachta-indica-arid-zone-multipurpose-tree]]
 - [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

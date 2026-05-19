@@ -88,13 +88,11 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[woronin-bodies]]
+
 - [[ascobolus-pulcherrimus]]
+- [[fungal-biology-fundamentals]]
 - [[fungal-woronin-bodies-and-septal-pore-organization]]
 - [[hex1-protein-woronin-body-assembly]]
 - [[jedd-woronin-bodies-hex1-septal-pore-sealing]]
-## See Also
-
-- [[woronin-bodies]]
 - [[septal-pore-cap]]
-- [[fungal-biology-fundamentals]]
+- [[woronin-bodies]]

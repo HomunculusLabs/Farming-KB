@@ -93,9 +93,8 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[woronin-bodies]]
-## See Also
 
 - [[fungal-biology-fundamentals]]
-- [[fungal-sexual-reproduction]]
 - [[fungal-ecology]]
+- [[fungal-sexual-reproduction]]
+- [[woronin-bodies]]

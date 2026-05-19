@@ -71,17 +71,14 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
+
+- [[ayahuasca]]
+- [[ayahuasca-ceremony]]
+- [[ayahuasca-preparation]]
+- [[banisteriopsis-caapi]]
 - [[banisteriopsis-rusbyana]]
 - [[datura-suaveolens]]
 - [[hallucinogens-and-shamanism]]
-- [[banisteriopsis-caapi]]
-- [[ayahuasca-preparation]]
-## See Also
-
-- [[ayahuasca]]
-- [[banisteriopsis-caapi]]
-- [[banisteriopsis-rusbyana]]
-- [[ayahuasca-ceremony]]
 
 ## References
 

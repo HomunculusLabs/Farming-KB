@@ -1,5 +1,5 @@
 ---
-title: "What Is the Difference Between a High Tunnel and a [[grow-tunnel-and-hoop-house]]?"
+title: Query What Is The Difference Between A High Tunnel And A Hoop House
 tags: [query, season-extension, greenhouse, high-tunnel, hoop-house]
 date: 2026-05-09
 updated: 2026-05-09

@@ -1,5 +1,5 @@
 ---
-title: "[[permaculture-neem-and-indian-beech-utility-trees]]"
+title: Indian Beech
 created: 2026-04-28
 tags: [species, plant, tree, nitrogen-fixer, multipurpose]
 date: 2026-04-25

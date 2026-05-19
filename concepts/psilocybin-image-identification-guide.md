@@ -115,7 +115,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[magic-mushrooms-australia-new-zealand]] — Australian/NZ species with photos
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]

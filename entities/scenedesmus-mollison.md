@@ -85,12 +85,9 @@ all influence the optimal approach to implementation.
 ## See Also
 
 - [[chlamydomonas-mollison]]
-- [[phragmites-australis]]
-
-## See Also
-
-- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
-- [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
 - [[humus-soil-amendment-mollison]]
 - [[minamata-disease-mollison]]
+- [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
+- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
 - [[mollison-drought-proofing-strategies]]
+- [[phragmites-australis]]

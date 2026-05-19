@@ -142,7 +142,6 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 
-
 ## See Also
 - [[falconer-who-should-grow-mushrooms]]
 - [[dom]]

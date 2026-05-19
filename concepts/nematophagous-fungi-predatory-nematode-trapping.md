@@ -1,5 +1,5 @@
 ---
-title: [[endophytes-woody-plants-nematophagous-fungi]] — Predatory Fungi That Trap and Kill Nematodes
+title: Nematophagous Fungi Predatory Nematode Trapping
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
@@ -114,3 +114,7 @@ Flexible approaches that respond to changing conditions. For nematophagous fungi
 
 - [[functional-genomics-fungal-pathogens]] — Genomics approaches for fungal pathogens
 - [[fungal-foraging-strategies-heterogeneous-environments]] — Fungal foraging behaviour
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

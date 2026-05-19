@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[williams-pdc-non-violent-communication]]
 - [[williams-pdc-sustainability-history-and-definition]]
 - [[williams-pdc-zone-analysis]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

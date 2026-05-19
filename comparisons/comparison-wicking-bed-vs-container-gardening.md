@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-wicking-bed-vs-passive-wick-hydroponics]] [[comparison-cold-frame-gardening-vs-container-gardening-guide]] vs comparison-cold-frame-gardening-vs-container-gardening-guide"
+title: Comparison Wicking Bed Vs Container Gardening
 tags: [comparison, water-management, gardening, containers, raised-beds]
 date: 2026-05-08
 updated: 2026-05-08

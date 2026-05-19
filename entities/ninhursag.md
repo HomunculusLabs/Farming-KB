@@ -39,18 +39,13 @@ Research in this area draws on multidisciplinary approaches combining field obse
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
 ## See Also
-- [[allegro-plants-drugs-ancient-pharmacology-astrological-medicine]]
-- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
-- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
-- [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]
-- [[allegro-plants-drugs-ancient-pharmacology-astrological-medicine]]
 
-## See Also
-- [[amanita-muscaria]]
+- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
+- [[allegro-plants-drugs-ancient-pharmacology-astrological-medicine]]
 - [[amanita]]
+- [[amanita-muscaria]]
+- [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]
 - [[dom]]
-
-> This entry is part of the comprehensive wiki database.
 
 ## Overview
 

@@ -91,9 +91,6 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[schoenoplectus-tabernaemontani]]
-
-## See Also
-
 - [[phragmites-australis]]
+- [[schoenoplectus-tabernaemontani]]
 - [[typha-latifolia]]

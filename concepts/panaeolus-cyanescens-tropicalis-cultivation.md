@@ -114,3 +114,7 @@ This document outlines a practical cultivation method for *Panaeolus cyanescens*
 4. **Temperature:** Maintain 25°C or slightly higher for optimal growth
 5. **Strain selection:** Clone from the best performers rather than relying solely on multispore
 6. **Casing thickness:** Keep thin at 1–1.5 cm — too thick delays colonization
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

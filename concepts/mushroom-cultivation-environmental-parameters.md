@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mushroom-biology-nutrition-health-properties]]
 - [[mushroom-rhizomorphic-vs-cottony]]
 - [[mushroom-tissue-culture]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

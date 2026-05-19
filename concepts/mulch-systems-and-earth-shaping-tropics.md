@@ -114,3 +114,7 @@ Rehabilitating degraded or poor soils requires a strategic, patient approach:
 3. **Expand at the periphery** — as the nucleus improves soil conditions, extend outward gradually
 4. Use the pioneer mulch crops listed above to generate organic matter on-site
 5. Integrate animal systems to accelerate [[soil-protozoa-nutrient-cycling-and-mineralization]] problem plant control
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

@@ -66,28 +66,15 @@ Environmental factors play a significant role in understanding this subject. Cha
 ## Community Impact
 
 The practical implications for communities and practitioners are substantial. Knowledge transfer and education remain important priorities for sustainable implementation.
+
 ## See Also
+
 - [[bardo-thodol]]
+- [[buddha-vairochana]]
 - [[chikhai-bardo]]
 - [[clear-light-consciousness]]
-- [[buddha-vairochana]]
-
-## Cultural and Historical Significance
-
-The study and understanding of george gamow connects to broader themes in
-mycology, ethnobotany, and the history of natural science. Documentation of
-this subject appears in both historical texts and contemporary research,
-reflecting ongoing interest in its properties and applications.
-
-Research into related organisms and concepts continues to expand, with modern
-molecular techniques providing new insights. Field observations complement
-laboratory studies, building a more complete picture of its ecological role
-and significance.
-
-## See Also
-
-- [[psychedelic-experience-tibetan-book-of-the-dead]]
-- [[psychedelic-experience-tibetan-bardo-framework]]
 - [[leary-psychedelic-experience-bardo-mapping]]
-- [[wrathful-visions-psychedelic-experience]]
+- [[psychedelic-experience-tibetan-bardo-framework]]
+- [[psychedelic-experience-tibetan-book-of-the-dead]]
 - [[turner-psychedelic-combination-experience-reports]]
+- [[wrathful-visions-psychedelic-experience]]

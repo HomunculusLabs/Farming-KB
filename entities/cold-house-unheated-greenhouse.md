@@ -103,16 +103,3 @@ The cold house concept has direct applications to [[accessible-mushroom-cultivat
 | Annual Crops/Bed | 3-4 |
 
 ## See Also
-
-- Four Season Farm
-- Eliot Coleman
-- Floating Row Cover
-- Mobile Greenhouse
-- Cold-Hardy Vegetables
-
-## See Also
-- [[cold-greenhouse-design-unheated|Cold Greenhouse Design Unheated]]
-- [[cold-greenhouse-winter-harvest|Cold Greenhouse Winter Harvest]]
-- [[coleman-winter-kale-brassica-cold-house-management|Coleman Winter Kale Brassica Cold House Management]]
-- [[coleman-cool-house-vs-cold-house-economics-winter-production|Coleman Cool House Vs Cold House Economics Winter Production]]
-- [[coleman-cool-greenhouse-vs-cold-greenhouse-temperature-comparison|Coleman Cool Greenhouse Vs Cold Greenhouse Temperature Comparison]]

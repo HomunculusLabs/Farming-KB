@@ -115,3 +115,6 @@ Free water that moves beyond the root zone does not reach streams quickly. In fo
 - [[food-forest-layers-and-species]]
 - [[canopy-layer-design-food-forests]]
 - [[mollison-humus-and-organic-matter-in-soils]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

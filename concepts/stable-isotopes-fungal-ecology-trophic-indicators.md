@@ -117,3 +117,4 @@ Abraham & Hesse (2003) examined four fungal species (zygomycetes and ascomycetes
 
 - [[mycorrhizal-mineral-weathering]] — ECM fungi in mineral cycling
 - [[molecular-methods-geoactive-fungal-communities]] — Molecular tools for [[fungal-diversity-indices-community-analysis]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

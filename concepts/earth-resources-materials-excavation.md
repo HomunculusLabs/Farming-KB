@@ -113,3 +113,8 @@ Boulders serve multiple practical functions:
 - **Walling and [[windbreak-design-and-configuration|windbreak]] material** — gains and radiates heat
 - **Tools** — some boulders serve as pounders, others as excellent mortar and pestles
 - **Weights** — anchors and ballast in boats
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.
+Integration with ecological principles enhances long-term sustainability.

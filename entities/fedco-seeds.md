@@ -72,23 +72,10 @@ Fedco Seeds plays an important supporting role in the [[winter-harvest-system]]:
 
 ## See Also
 
-- [Johnny's Selected Seeds]([[johnnys-selected-seeds]].md)
-- [Territorial Seed Company](territorial-seed-company.md)
-- [Eliot Coleman](eliot-coleman.md)
-- [Deep-Organic Farming]([[deep-organic-farming]].md)
-
-## Practical Applications
-
-Fedco Seeds has several important applications in sustainable agriculture
-and organic growing systems. Growers and researchers have developed
-practical methods for implementation across diverse climate zones.
-Understanding these applications helps integrate the concept into
-broader farming and gardening practice.
-
-## See Also
-
-- [[oner-y-griega-kali-mist-amnesia-medical-seeds]]
 - [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]]
-- [[saving-seeds]]
 - [[critical-haze-strain-profile-resin-seeds-oner]]
+- [[deep-organic-farming]]
+- [[johnnys-selected-seeds]]
 - [[oner-satori-mandala-seeds-nepalese-high-thc-strain-profile]]
+- [[oner-y-griega-kali-mist-amnesia-medical-seeds]]
+- [[saving-seeds]]

@@ -72,16 +72,15 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[ayahuasca-visions]]
-- [[set-and-setting]]
-- [[hallucinogens-and-shamanism]]
-- [[doctrinal-compliance-magical-psychotherapy]]
-- [[ayahuasca-vision-diagnosis-doctrinal-compliance]]
-## See Also
 
 - [[ayahuasca]]
 - [[ayahuasca-ceremony]]
+- [[ayahuasca-vision-diagnosis-doctrinal-compliance]]
+- [[ayahuasca-visions]]
+- [[doctrinal-compliance-magical-psychotherapy]]
+- [[hallucinogens-and-shamanism]]
 - [[marlene-dobkin-de-rios]]
+- [[set-and-setting]]
 
 ## References
 

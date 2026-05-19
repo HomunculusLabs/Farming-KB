@@ -129,7 +129,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[oyster-mushroom-species-and-strain-selection]]
 - [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]

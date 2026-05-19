@@ -116,3 +116,5 @@ Patterning is the way we frame our designs — the template into which we fit:
 
 - Bohm, D. (1980). *Wholeness and the Implicate Order*. The philosophical foundation for understanding time, pattern, and totality.
 - Mollison, B. (1988). *Permaculture: A Designer's Manual*. The primary source for the event classification system and pattern model.
+## Further Reading
+Continued research and field trials yield new insights into this subject.

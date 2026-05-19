@@ -129,7 +129,6 @@ When designing with patterns, consider:
 - Chappell, in *Landform Evolution in Australia*, ANU Press, 1978
 - Virbella Institute, Emerson College, Forest Row, East Sussex (Flowform designs and research)
 
-
 ## See Also
 - [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
 - [[permaculture-pattern-references-and-design-checklist]]

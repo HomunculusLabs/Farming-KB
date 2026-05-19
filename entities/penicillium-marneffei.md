@@ -72,12 +72,11 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[gadd-penicillium-marneffei-population-genetics]]
-- [[penicillium-expansum]]
-- [[penicillium-simplicissimum]]
-- [[penicillium-chrysogenum]]
-## See Also
 
+- [[bloomfield-fungal-plant-pathogens]]
 - [[chitin-chitosan-fungal-cell-wall]]
 - [[fungal-biology-fundamentals]]
-- [[bloomfield-fungal-plant-pathogens]]
+- [[gadd-penicillium-marneffei-population-genetics]]
+- [[penicillium-chrysogenum]]
+- [[penicillium-expansum]]
+- [[penicillium-simplicissimum]]

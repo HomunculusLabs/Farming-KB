@@ -116,3 +116,5 @@ A side view of the building reveals two pathways:
 
 In truth, Course II success is largely attributable to favorable natural
 conditions, not scientific management. Fukuoka's diagrams, while
+## Further Reading
+Continued research and field trials yield new insights into this subject.

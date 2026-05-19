@@ -115,7 +115,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[phase-ii-composting]] — compost conditioning procedures
 mushroom-composting — [[mushroom-market-and-economics]] — economics of tray vs. shelf systems

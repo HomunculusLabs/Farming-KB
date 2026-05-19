@@ -67,27 +67,14 @@ Environmental factors play a significant role in understanding this subject. Cha
 ## Community Impact
 
 The practical implications for communities and practitioners are substantial. Knowledge transfer and education remain important priorities for sustainable implementation.
+
 ## See Also
-- [[hermann-hesse]]
+
 - [[chonyid-bardo]]
-- [[mescaline]]
-
-## Cultural and Historical Significance
-
-The study and understanding of henri michaux connects to broader themes in
-mycology, ethnobotany, and the history of natural science. Documentation of
-this subject appears in both historical texts and contemporary research,
-reflecting ongoing interest in its properties and applications.
-
-Research into related organisms and concepts continues to expand, with modern
-molecular techniques providing new insights. Field observations complement
-laboratory studies, building a more complete picture of its ecological role
-and significance.
-
-## See Also
-
-- [[retinal-circus-and-magic-theatre]]
+- [[hermann-hesse]]
 - [[leary-psychedelic-manual-approach]]
+- [[mescaline]]
+- [[psychedelic-prohibition-and-the-war-on-consciousness]]
 - [[query-how-do-psychedelics-change-consciousness]]
 - [[query-how-to-build-a-compost-pile-that-works]]
-- [[psychedelic-prohibition-and-the-war-on-consciousness]]
+- [[retinal-circus-and-magic-theatre]]

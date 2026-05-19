@@ -110,7 +110,6 @@ on scale, market access, and resource availability. Small-scale
 operations often achieve better per-unit economics through reduced
 overhead and direct market channels compared to industrial approaches.
 
-
 ## See Also
 - [[holzer-pond-lake-design]]
 - [[holzer-tamera-water-landscape-project]]

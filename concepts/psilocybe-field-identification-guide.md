@@ -116,7 +116,6 @@ Beds should be approximately 12 inches deep in easily manageable containers. Tra
 
 Psilocybin can be extracted by drying specimens, grinding to powder, and soaking in methyl alcohol for several days. The alcohol is strained and evaporated in a shallow dish, and the residue is scraped and stored cool. The process can be repeated with pentane for further refinement. All solvent must be completely evaporated before ingestion, and potency should be carefully assessed.
 
-
 ## See Also
 - [[field-guide-psilocybin-mushroom-species-identification]]
 - [[psilocybe-cubensis-fruiting-timeline-flush-patterns-dung-grain-substrate]]

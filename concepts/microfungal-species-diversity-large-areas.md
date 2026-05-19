@@ -130,7 +130,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[fungal-species-richness-and-diversity-indices]]
 - [[fungal-species-concept-and-taxonomy]]

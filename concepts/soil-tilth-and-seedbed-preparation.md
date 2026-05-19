@@ -135,7 +135,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[solomon-fine-seedbed-soil-tilth-clod-management-raking]]
 - [[cool-temperate-soil-characteristics]]

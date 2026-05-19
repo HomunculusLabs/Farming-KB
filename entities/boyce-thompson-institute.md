@@ -74,13 +74,12 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[mycorrhizal-fungi]]
-- [[mycorrhizal-symbiosis]]
-- [[arbuscular-mycorrhizal-symbiosis]]
-- [[thompson-gazelle]]
-- [[soil-foodweb-institute]]
-## See Also
 
+- [[arbuscular-mycorrhizal-symbiosis]]
 - [[fungal-biology-fundamentals]]
 - [[fungal-ecology]]
+- [[mycorrhizal-fungi]]
+- [[mycorrhizal-symbiosis]]
 - [[research-institutions-environmental-mycology]]
+- [[soil-foodweb-institute]]
+- [[thompson-gazelle]]

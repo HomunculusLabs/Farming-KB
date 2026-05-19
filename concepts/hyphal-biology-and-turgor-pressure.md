@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[bloomfield-mushroom-formation-hyphal-construction-no-meristems]]
 - [[hyphal-branching-regulation-nutrient-sensing-gadd]]
 - [[hyphal-growth-mechanics-and-invasion]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

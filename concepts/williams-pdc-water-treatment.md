@@ -109,7 +109,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[williams-pdc-water-courses]]
 - [[williams-pdc-climates-and-biomes]]
@@ -117,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[williams-pdc-earthworks]]
 - [[williams-pdc-food-systems]]
 - [[williams-pdc-sustainability-history-and-definition]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

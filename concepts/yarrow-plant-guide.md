@@ -135,7 +135,6 @@ moisture can cause powdery mildew or root rot. Aphids occasionally appear
 but rarely cause significant damage. The aromatic foliage naturally deters
 deer and rabbits.
 
-
 ## See Also
 - [[echinacea-growing-guide]] -- combine with yarrow in immune-support teas
 - [[cover-cropping-guide]] -- yarrow can be integrated into polyculture cover mixes

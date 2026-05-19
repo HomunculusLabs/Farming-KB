@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Staff (2023). "Headband [[blesching-cannabis-strain-selection-receptor-targeting]] Information."
+  - Leafly Staff (2023). "Headband blesching-cannabis-strain-selection-receptor-targeting Information."
     www.leafly.com/strains/headband
   - AllBud (2024). "Headband [[marijuana-strain-guide-hybrid]] Information."
     www.allbud.com/marijuana-strains/hybrid/headband

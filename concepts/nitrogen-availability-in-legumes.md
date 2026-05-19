@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[nitrogen-deposition-ectomycorrhizal-diversity]]
 - [[nitrogen-deposition-ectomycorrhizal-diversity-function]]
 - [[nitrogen-deposition-fungal-communities]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

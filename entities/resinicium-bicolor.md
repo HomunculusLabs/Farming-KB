@@ -88,14 +88,14 @@ Common cultivation challenges and their solutions have been documented through p
 Traditional knowledge systems have recognized and utilized this organism across multiple cultural contexts.
 Ethnographic documentation provides historical perspective on traditional uses, management practices, and cultural significance.
 Contemporary cultural relevance continues in traditional, recreational, and research contexts.
-## See Also
-- [[mushroom-cultivation]]
-- [[hypholoma-fasciculare]]
-- [[mycelial-networks]]
-- [[mycelial-cord]]
-- [[folsomia-candida]]
+
 ## See Also
 
-- [[mycelial-network-structure]]
+- [[folsomia-candida]]
 - [[fungal-biology-fundamentals]]
 - [[fungal-ecology]]
+- [[hypholoma-fasciculare]]
+- [[mushroom-cultivation]]
+- [[mycelial-cord]]
+- [[mycelial-network-structure]]
+- [[mycelial-networks]]

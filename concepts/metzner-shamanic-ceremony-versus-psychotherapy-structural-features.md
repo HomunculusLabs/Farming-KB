@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[metzner-indigenous-plant-knowledge-and-entheogen-safety]]
 - [[metzner-military-cia-lsd-psychotomimetic-weapon-research]]
 - [[metzner-western-psychology-freud-jung-reich-entheogenic-integration]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

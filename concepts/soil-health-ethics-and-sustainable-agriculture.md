@@ -126,7 +126,6 @@ The sane procedure for health, as Mollison summarizes:
 
 The rest is up to chance, traffic accidents, megalomaniacs, and wars — which demand commonsense changes to social systems, plus a little good luck.
 
-
 ## See Also
 - [[comparison-biochar-in-agriculture-vs-biochar-soil-remediation]]
 - [[query-how-does-crop-rotation-improve-soil-health]]

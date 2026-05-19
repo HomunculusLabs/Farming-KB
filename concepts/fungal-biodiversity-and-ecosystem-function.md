@@ -117,3 +117,4 @@ The challenge remains to develop tools that can identify and quantify fungal spe
 - [[fungal-mycelial-networks-ecosystem-engineers]]
 - [[frontiers-fungal-ecology-research]]
 - [[fungal-community-interactions-keystone-species]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

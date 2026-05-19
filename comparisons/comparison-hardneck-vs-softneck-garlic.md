@@ -1,11 +1,11 @@
 ---
-title: Comparison Hardneck Vs [[query-what-is-the-difference-between-hardneck-and-softneck-garlic]]
+title: Comparison Hardneck Vs Softneck Garlic
 created: 2026-04-28
 tags: [garlic, alliums, comparisons, planting-guide, varieties, root-crops]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Filaree Garlic Farm — [[comparison-bean-growing-guide-vs-pepper-growing-guide]], filareefarm.com"
+  - "Filaree Garlic Farm — comparison-bean-growing-guide-vs-pepper-growing-guide, filareefarm.com"
   - "Ted Jordan Meredith, The Complete Book of Garlic (Timber Press, 2008)"
   - "Bret L. Markham, [[biointensive-mini-farming]]: Self-Sufficiency on 1/4 Acre (Skyhorse, 2010)"
   - "ATTRA / NCAT, Garlic: Organic Production (ncat.org/attra-pub/summaries/summary.php?pub=111)"

@@ -119,7 +119,6 @@ The key insight is that the forest itself is the model for sustainable tropical 
 - Trewartha, G.T., 1954 (climatic classification basis)
 - Moore, New Scientist, 21/8/86 (forest structure)
 
-
 ## See Also
 - [[nitrogen-fixing-trees-and-shrubs]]
 - [[mulching-guide]]

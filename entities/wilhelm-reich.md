@@ -60,17 +60,13 @@ Research in this area draws on multidisciplinary approaches combining field obse
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
 ## See Also
+
+- [[dom]]
+- [[entheogenic-churches-cultural-transformation-movement-metzner]]
 - [[indigenous-plant-knowledge-versus-synthetic-drug-safety-metzner]]
 - [[metzner-indigenous-plant-knowledge-and-entheogen-safety]]
 - [[metzner-western-psychology-freud-jung-reich-entheogenic-integration]]
-- [[entheogenic-churches-cultural-transformation-movement-metzner]]
 - [[patriarchal-law-and-social-control]]
-
-## See Also
-- [[dom]]
-- [[metzner-western-psychology-freud-jung-reich-entheogenic-integration]]
-
-> This entry is part of the comprehensive wiki database.
 
 ## Overview
 

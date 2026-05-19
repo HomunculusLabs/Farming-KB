@@ -72,13 +72,11 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[mycelial-cord]]
-- [[mycelial-networks]]
-- [[mushroom-cultivation]]
-- [[dighton-fungal-rhizomorphs-mycelial-cords]]
-- [[mycelial-network-graph-theory-analysis]]
-## See Also
 
-- [[mycelial-cord]]
-- [[mycelial-network-structure]]
+- [[dighton-fungal-rhizomorphs-mycelial-cords]]
 - [[fungal-biology-fundamentals]]
+- [[mushroom-cultivation]]
+- [[mycelial-cord]]
+- [[mycelial-network-graph-theory-analysis]]
+- [[mycelial-network-structure]]
+- [[mycelial-networks]]

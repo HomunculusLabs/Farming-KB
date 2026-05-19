@@ -135,7 +135,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - McKenna T. (1983/1992) "[[tryptamine-hypercontinuum-and-invisible-landscape]]: Mind, Hallucinogens, and the I Ching." Seabury Press.
 - Dick PK. (1981) "Valis." Bantam Books.

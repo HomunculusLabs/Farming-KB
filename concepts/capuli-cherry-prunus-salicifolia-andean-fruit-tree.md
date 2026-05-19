@@ -107,7 +107,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[permaculture-fruit-tree-guide]] — Tropical fruit species for warm climates
 - [[prunus-avium]]
@@ -118,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[lemon-cherry-gelato]]
 - [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]]
 - [[white-cherry-gelato]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

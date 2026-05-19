@@ -114,3 +114,7 @@ A critical finding across multiple studies is that fruit body surveys may not ac
 - [[acidifying-pollutants-mycorrhizae-plant-nutrition]]
 - [[nitrogen-deposition-ectomycorrhizal-community-structure]]
 - [[mycorrhizal-fungi-community-structure]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

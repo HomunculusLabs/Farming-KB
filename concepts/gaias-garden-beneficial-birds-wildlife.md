@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[gaias-garden-design-process]]
 - [[gaias-garden-multipurpose-plants]]
 - [[gaias-garden-plant-roles-ecological-theater]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

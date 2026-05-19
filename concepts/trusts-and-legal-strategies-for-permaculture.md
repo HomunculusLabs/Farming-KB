@@ -116,3 +116,5 @@ Several small, independent but cooperative Permaculture Institutes and allied gr
 - trusts and legal strategies for permaculture
 - trusts and legal strategies for permaculture
 - [[water-permaculture-global-local-strategies]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

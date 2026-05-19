@@ -70,19 +70,11 @@ Scott Nearing (1883–1983) was an American economist, educator, and homesteader
 - Their influence extends through Coleman to the modern organic farming and local food movements
 
 ## See Also
-- [[eliot-coleman]] — mentee who built his farming career on Nearing land
-- [[helen-nearing]] — Scott's wife and collaborator
-- [[parisian-maraicher]] — another historical tradition of intensive land use
-- [[alfalfa-meal]] — one of the amendments Coleman uses on the former Nearing land
 
-## Practical Applications
-
-Scott Nearing has several important applications in sustainable agriculture
-and organic growing systems. Growers and researchers have developed
-practical methods for implementation across diverse climate zones.
-Understanding these applications helps integrate the concept into
-broader farming and gardening practice.
-
-## See Also
-
+- [[alfalfa-meal]]
+- [[eliot-coleman]]
+- [[helen-nearing]]
+- [[parisian-maraicher]]
 - [[scott-and-helen-nearing]]
+
+Understanding these principles enables more effective application in diverse contexts.

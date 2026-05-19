@@ -114,3 +114,7 @@ Several landmark reviews have shaped the field:
 - **Read (1991a,b)**: Articulated the role of mycorrhizae in ecosystem function and as "nature's response to the Law of the Minimum"
 - **Brundrett (1991)**: Reviewed mycorrhizas in natural ecosystems, highlighting the gap between agricultural and ecological research
 - **Leake (2001)**: Questioned whether ECM fungal diversity is important for ecosystem function, stimulating debate on functional redundancy vs. complementarity
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

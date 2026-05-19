@@ -135,7 +135,6 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 
-
 ## See Also
 - [[cannabidiol-cbd]]
 - cannabis

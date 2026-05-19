@@ -39,18 +39,15 @@ Comparative studies reveal both commonalities and distinctions across related sy
 The field continues to evolve with new discoveries, refined methodologies, and expanding applications. Interdisciplinary collaboration and technological advances accelerate progress, while traditional knowledge systems provide essential contextual frameworks.
 
 ## See Also
-- [[mushroom-species-selection-cultivation-methods]]
-- [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]
-- [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]
-- [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]]
-- [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]
 
-## See Also
-- [[antifungal-secondary-metabolites-coprophilous-fungi]]
-- [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]
-- [[dmt]]
-- [[syrian-rue]]
 - [[amanita-muscaria]]
+- [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]
+- [[antifungal-secondary-metabolites-coprophilous-fungi]]
+- [[dmt]]
+- [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]
+- [[mushroom-species-selection-cultivation-methods]]
+- [[syrian-rue]]
+- [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]]
 
 ## Overview
 

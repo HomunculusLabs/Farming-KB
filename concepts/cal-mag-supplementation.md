@@ -129,7 +129,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[co2-enrichment-cannabis]] -- increased nutrient demand
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]

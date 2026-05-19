@@ -74,13 +74,12 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[mushroom-cultivation]]
-- [[ganoderma-lucidum]]
-- [[pleurotus-ostreatus]]
-- [[lentinula-edodes]]
-- [[mycelial-networks]]
-## See Also
 
 - [[fungal-biology-fundamentals]]
 - [[fungal-sexual-reproduction]]
+- [[ganoderma-lucidum]]
+- [[lentinula-edodes]]
+- [[mushroom-cultivation]]
 - [[mycelial-network-structure]]
+- [[mycelial-networks]]
+- [[pleurotus-ostreatus]]

@@ -88,7 +88,5 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[symbiotic-fungi-mycorrhiza-history-frank-discovery]]
-
-## See Also
 - [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
+- [[symbiotic-fungi-mycorrhiza-history-frank-discovery]]

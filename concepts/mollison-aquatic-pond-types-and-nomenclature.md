@@ -115,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mollison-orographic-and-forest-rainfall-effects]]
 - [[mollison-spiral-patterns-in-nature-and-design]]
 - [[soil-ph-nutrient-availability-mollison]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

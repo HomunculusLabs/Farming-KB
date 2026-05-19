@@ -116,3 +116,5 @@ The decomposition of organic fertilizers into bioavailable ionic forms depends p
 - **Soil moisture**: Adequate (but not excessive) moisture supports microbial activity and nutrient diffusion to root surfaces.
 - **Soil testing**: The single most important practice. Test before setting up a feeding program, retest at end of season or start of next, and thereafter every 2–3 years, adjusting programs accordingly. Without testing, even the best organic inputs can create imbalances.
 - **[[cation-exchange-capacity]] (CEC)**: Soils with higher CEC (clay and organic matter) hold nutrients longer and release them more gradually, reducing leaching losses.
+## Further Reading
+Continued research and field trials yield new insights into this subject.

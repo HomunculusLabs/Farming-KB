@@ -116,3 +116,5 @@ After the anaerobic stage, effluent passes to facultative ponds where conditions
 
 - [[anaerobic-sewage-digestion-methane]]
 - [[biogas-digesters-and-anaerobic-digestion-systems]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

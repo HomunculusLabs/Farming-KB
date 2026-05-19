@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]
 - [[sphingomonas-wittichii-maui-wowie]]
 - [[sphingomonas-wittichii-maui-wowie-phenazine-metabolism]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

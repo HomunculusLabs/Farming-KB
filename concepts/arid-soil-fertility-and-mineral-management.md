@@ -116,3 +116,5 @@ These thresholds underscore why industrial contamination, mining waste, and chem
 - [[dighton-fungi-desert-arid-ecosystems]]
 - [[comparison-arid-vs-tropical-permaculture]]
 - [[mollison-arid-lands-aquatic-species]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

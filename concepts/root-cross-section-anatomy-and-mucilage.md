@@ -107,3 +107,18 @@ These same four tissue systems extend throughout the entire plant body — into 
 4. **Lateral roots** originate from the pericycle, enabling the root system to branch and explore new soil volumes for nutrients and water.
 5. **Vascular tissue arrangement** differs between monocots (polyarch, ring-shaped bundles) and dicots (diarch to hexarch, star-shaped xylem), reflecting different evolutionary strategies for structural support and transport.
 6. All four **tissue systems** (meristematic, dermal, ground, vascular) are represented in the root cross-section and are continuous with equivalent tissues throughout the plant body.
+## Practical Applications
+The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
+Adaptation to local conditions and careful observation remain central to effective application.
+
+## Research Directions
+Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Comparative studies across different bioregions provide valuable insights into generalizable principles.
+Long-term monitoring and documentation continue to build the evidence base for these approaches.
+Collaborative research networks facilitate knowledge exchange and accelerate innovation.
+
+## Key Considerations
+Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
+Integration with existing systems often yields better results than complete replacement strategies.
+Monitoring and adaptive management are essential for long-term success and continuous improvement.

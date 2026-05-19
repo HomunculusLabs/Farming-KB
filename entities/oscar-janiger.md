@@ -65,22 +65,17 @@ Janiger's work has experienced a renaissance of interest as psychedelic research
 Janiger's research on hallucinogenic tobacco bridges directly to the Mazatec mushroom tradition documented by Munn, where tobacco serves multiple ceremonial functions. In the velada, the shamaness Irene Pineda de Figueroa rubbed ground tobacco on her wrists and forearms as a bodily tonic, and the shaman Roman Estrada was presented with ground tobacco on a table as one of the signs of the shamanic vocation. This parallels the use of tobacco in Peruvian ayahuasca ceremonies documented by Dobkin de Rios, where mapacho smoke is used for purification and protection. Janiger's recognition that tobacco itself may have hallucinogenic properties when used in traditional preparations adds an important dimension to understanding the multi-substance pharmacology of indigenous ceremonies.
 
 ## See Also
-- [[roman-estrada]]
-- [[irene-pineda-de-figueroa]]
+
 - [[copal-incense]]
-- [[henry-munn]]
 - [[hallucinogens-and-shamanism]]
+- [[henry-munn]]
+- [[irene-pineda-de-figueroa]]
+- [[roman-estrada]]
 
-- Marlene Dobkin de Rios — his collaborator on tobacco research and ayahuasca studies
-- Mazatec mushroom velada — the ceremony where tobacco is used alongside mushrooms
-- Copal incense — another plant substance used in Mazatec mushroom ceremonies
+## Practical Applications
 
-## See Also
+Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
 
-- Marlene Dobkin de Rios - anthropologist collaborator on tobacco research
-- Mazatec mushroom velada - ceremony where tobacco is used alongside mushrooms
-- Copal incense - another plant adjunct used in Mazatec ceremony
-- Theodore Barber - another LSD researcher cited in the same volume
+## Mechanisms and Processes
 
-- Henry Munn - the ethnographer who documented Mazatec ceremonial tobacco use
-- Theodore Barber - another LSD and consciousness researcher cited in the same volume
+Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.

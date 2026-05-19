@@ -117,3 +117,4 @@ The process of developing a rotation is itself an ongoing experiment. Many growe
 - [[cold-frames-and-season-extension]]
 - [[coleman-french-historical-winter-vegetable-production]]
 - [[protected-cultivation-double-layer-system]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

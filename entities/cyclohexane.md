@@ -53,16 +53,14 @@ This subject has relevance across multiple disciplines and applications. Underst
 Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
 
 ## See Also
+
 - [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]
+- [[isopropyl-alcohol]]
 - [[lemon-cannabis-alchemy-high-volume-extraction-method]]
 - [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]
-- [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]]
-- [[lemon-cannabis-alchemy-high-volume-extraction-method]]
-
-## See Also
 - [[mycology]]
+- [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]]
 - [[thc-isomerization]]
-- [[isopropyl-alcohol]]
 
 ## Overview
 

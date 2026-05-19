@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mckenna-telepathine-harmala-alkaloid-discovery]]
 - [[syrian-rue-peganum-harmala-ethnobotany]]
 - [[tihkal-harmala-alkaloids]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

@@ -131,7 +131,6 @@ The study of patterns, whether in traditional navigation systems or in the branc
 - Mollison, B. (1988). *Permaculture: A Designer's Manual*. Tagari Publications.
 - Lewis, D. (1972). *We, the Navigators: The Ancient Art of Landfinding in the Pacific*. University of Hawaii Press.
 
-
 ## See Also
 - [[pattern-applications-in-permaculture-design]]
 - [[pattern-recognition-and-geometric-garden-design-permaculture]]

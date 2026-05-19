@@ -122,7 +122,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[ingham-manure-antibiotics-chemical-residues-composting]]
 - [[ingham-wood-chips-compost-fungal-domination]]

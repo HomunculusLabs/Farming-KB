@@ -132,7 +132,5 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[ocotea-foetens-mollison]]
-
-## See Also
 - [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
+- [[ocotea-foetens-mollison]]

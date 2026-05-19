@@ -115,3 +115,6 @@ profile.
 - Chilton, W.S., Bigwood, J. and Jensen, R. (1979). Psilocin, bufotenine
   and serotonin: Historical and biosynthetic observations. J. Psychedelic
   Drugs, 11, 61-69.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

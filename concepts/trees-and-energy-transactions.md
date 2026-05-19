@@ -125,7 +125,6 @@ The energy transactions of trees can be distilled into several core principles f
 
 In permaculture design, understanding and harnessing these performances — rather than treating trees merely as sources of timber or fruit — is essential to creating productive, stable, and self-maintaining landscapes. Every tree planted is a living water management system, a soil engineer, a microclimate modifier, and a reservoir of ecological intelligence. To overlook these functions is to ignore the most powerful and far-reaching services that trees provide to the earth and its inhabitants.
 
-
 ## See Also
 - [[tree-energy-transactions]]
 - [[tree-biomass-and-energy-transactions]]

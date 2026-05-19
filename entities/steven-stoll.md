@@ -69,21 +69,12 @@ Steven Stoll is an American historian and author whose 2002 book *Larding the Le
 - The integration of science, history, and practical farming enriches all agricultural traditions
 
 ## See Also
-- [[eliot-coleman]] — who quotes Stoll as framing for soil preparation
-- [[scott-nearing]] — practiced the soil-building philosophy Stoll describes historically
-- [[parisian-maraicher]] — historical tradition of intensive soil management
-- [[alfalfa-meal]] — modern tool for the soil improvement Stoll chronicles historically
 
-## Practical Applications
-
-Steven Stoll has several important applications in sustainable agriculture
-and organic growing systems. Growers and researchers have developed
-practical methods for implementation across diverse climate zones.
-Understanding these applications helps integrate the concept into
-broader farming and gardening practice.
-
-## See Also
-
+- [[alfalfa-meal]]
+- [[eliot-coleman]]
+- [[parisian-maraicher]]
+- [[scott-nearing]]
 - [[steven-pollock]]
 - [[steven-vogel-mollison]]
 - [[walter-stoll]]
+Further research may reveal additional applications and ecological relationships.

@@ -1,5 +1,5 @@
 ---
-title: [[comparison-arnica-vs-st-johns-wort]] [[calendula-cultivation-and-medicinal-uses]] Uses
+title: St Johns Wort Cultivation And Medicinal Uses
 tags:
   - st-johns-wort
   - hypericum-perforatum

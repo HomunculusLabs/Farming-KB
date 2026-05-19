@@ -116,3 +116,5 @@ Remove particles using staged filtration:
 - [[off-grid-electricity-basics]] for powering water pumps
 - [[root-cellaring-guide]] for utilizing cool water in food storage
 - [[wildlife-habitat-creation]] for managing water features on the homestead
+## Further Reading
+Continued research and field trials yield new insights into this subject.

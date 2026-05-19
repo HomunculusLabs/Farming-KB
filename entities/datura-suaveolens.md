@@ -73,16 +73,15 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[brugmansia-suaveolens]]
-- [[harmala-alkaloids]]
-- [[hallucinogens-and-shamanism]]
-- [[richard-evans-schultes]]
-- [[datura-as-hallucinogen]]
-## See Also
 
 - [[ayahuasca]]
-- [[chacruna]]
 - [[banisteriopsis-caapi]]
+- [[brugmansia-suaveolens]]
+- [[chacruna]]
+- [[datura-as-hallucinogen]]
+- [[hallucinogens-and-shamanism]]
+- [[harmala-alkaloids]]
+- [[richard-evans-schultes]]
 
 ## References
 

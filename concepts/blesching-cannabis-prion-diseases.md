@@ -1,5 +1,5 @@
 ---
-title: "[[blesching-cannabis-abortion-miscarriage-fertility]] [[cannabis-and-prion-diseases]]"
+title: Blesching Cannabis Prion Diseases
 created: 2026-04-26
 tags:
   - cannabis

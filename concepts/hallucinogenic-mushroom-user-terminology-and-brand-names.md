@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[hallucinogenic-drugs-in-psychotherapy-history]]
 - [[hallucinogenic-mushroom-markets]]
 - [[hallucinogenic-mushroom-markets-europe]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

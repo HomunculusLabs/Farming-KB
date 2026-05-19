@@ -114,3 +114,7 @@ healing sect whose name likely derives from the same root.
 The [[powell-shamanic-wisdom-and-ritual-practice]]
 rooted in the Amanita muscaria mushroom. The crucible was not figurative. The
 purification was not symbolic. The temptation was the mushroom itself.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

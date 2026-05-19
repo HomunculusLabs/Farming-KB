@@ -1,5 +1,5 @@
 ---
-title: "Essential [[query-how-do-i-extract-essential-oils-and-hydrosols-at-home]] hydrosol distillation Distillation"
+title: Essential Oils And Hydrosol Distillation
 subtitle: "A comprehensive guide to extracting aromatic plant compounds through comparison-steam-distillation-vs-co2-extraction-for-essential-oils"
 tags: [essential-oils, hydrosols, distillation, aromatic-plants, herbalism, herbal-medicine]
 date: 2026-04-28

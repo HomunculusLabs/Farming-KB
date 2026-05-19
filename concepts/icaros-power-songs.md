@@ -114,3 +114,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[icaros-shamanic-chanting]]
 - [[mckenna-ayahuasca-healing-icaros-sound-suggestion]]
 - [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

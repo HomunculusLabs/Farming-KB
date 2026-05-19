@@ -115,3 +115,6 @@ The bigger the plant at maturity, the more space it needs. A single [[winter-squ
 - [[raised-beds-and-raised-rows]]
 - [[making-hills-for-planting]]
 - [[thinning-and-spacing]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

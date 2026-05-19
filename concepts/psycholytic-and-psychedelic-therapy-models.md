@@ -139,7 +139,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[psycholytic-versus-psychedelic-therapy-models]]
 - [[metzner-lsd-origins-sandoz-psycholytic-osmond-hoffer-alcoholism-and-consciousness-expansion]]

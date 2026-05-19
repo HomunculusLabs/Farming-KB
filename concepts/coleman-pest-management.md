@@ -116,3 +116,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[ghb]]
 - [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - [[solomon-pest-management-without-chemicals]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

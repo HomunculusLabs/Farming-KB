@@ -116,3 +116,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[ingham-citric-acid-chlorine-removal-water-treatment]]
 - [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
 - [[cannabis-for-gerd-and-acid-reflux]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

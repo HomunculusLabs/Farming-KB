@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[dighton-fungal-grazing-feedbacks-decomposition]]
 - [[dighton-fungal-greenhouse-gas-nitrogen-saturation]]
 - [[dighton-fungal-nutrient-translocation-element-redistribution]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

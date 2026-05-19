@@ -117,3 +117,4 @@ Key species for fire-prone areas: carob, black locust, English oak, holm oak, co
 - [[permaculture-plant-species-botanical-index-m-t]]
 - [[permaculture-plant-species-catalog-t-z]]
 - [[permaculture-plant-species-reference]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

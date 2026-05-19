@@ -67,16 +67,15 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[mushroom-cultivation]]
-- [[gardening-when-it-counts]]
-- [[steve-solomon]]
-- [[oner-la-roja-panama-red-colombian-sativa-jamaica-seeds]]
-- [[comparison-seed-saving-vs-hybrid-seeds]]
-## See Also
 
+- [[comparison-seed-saving-vs-hybrid-seeds]]
+- [[gardening-when-it-counts]]
+- [[mushroom-cultivation]]
+- [[oner-la-roja-panama-red-colombian-sativa-jamaica-seeds]]
+- [[plant-propagation]]
 - [[seed-company-supplier-reference]]
 - [[seed-saving-techniques]]
-- [[plant-propagation]]
+- [[steve-solomon]]
 
 ## Comparative Analysis
 

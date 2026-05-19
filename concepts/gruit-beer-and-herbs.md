@@ -137,7 +137,6 @@ Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
 
-
 ## See Also
 - [[beer-brewing-basics]] for general brewing technique
 - ale vs lager fermentation for fermentation science

@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[permaculture-design-methods-summary]]
 - [[permaculture-design-science-concepts-themes]]
 - [[permaculture-designers-manual-wildlife-corridors]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

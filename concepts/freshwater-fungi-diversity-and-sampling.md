@@ -114,3 +114,7 @@ Flexible approaches that respond to changing conditions. For freshwater fungi di
 - [[freshwater-fungal-habitats-conservation-urgency]]
 - [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
 - [[freshwater-fungi-biodiversity]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

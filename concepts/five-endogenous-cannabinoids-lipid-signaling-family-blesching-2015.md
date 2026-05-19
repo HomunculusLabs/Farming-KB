@@ -115,3 +115,6 @@ for therapeutic strategies:
   agonist of the cannabinoid CB1 receptor. PNAS, 98, 3662-3665.
 - Bisogno, T. et al. (2000). Molecular targets for the endocannabinoid
   system. Mol. Pharmacol. 57, 868-876.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

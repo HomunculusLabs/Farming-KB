@@ -116,3 +116,5 @@ Whether this epistemological humility can be reconciled with the practical deman
 - [[fukuoka-natural-diet-theory]]
 - [[fukuoka-textdoc-genetic-engineering-warning]]
 - [[comparison-fukuoka-vs-jadam-farming]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mushroom-spawn-making-pure-culture]]
 - [[oner-dawgtown-daze-pure-haze-chemdawg-hybrid]]
 - [[pure-culture-spawn-method-duggar-usda-1902]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

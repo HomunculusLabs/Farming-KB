@@ -119,8 +119,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[sunset-sherbet]]
-
-## See Also
-- [[trichoderma-forest-green-mold-guide]]
 - [[permaculture-energy-cycling-and-resource-efficiency]]
+- [[sunset-sherbet]]
+- [[trichoderma-forest-green-mold-guide]]

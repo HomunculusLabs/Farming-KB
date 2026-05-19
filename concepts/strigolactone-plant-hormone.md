@@ -115,3 +115,6 @@ promoting root growth for water acquisition.
 
 - [[mycorrhizal-symbiosis]]
 - [[mycorrhizal-carbon-cycle]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

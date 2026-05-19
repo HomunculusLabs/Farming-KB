@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[stamets-king-stropharia-permaculture-mycofiltration]]
 - [[stamets-mushroom-cropping-containers-design-comparison]]
 - [[stamets-saprophytic-mushroom-decomposer-succession]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

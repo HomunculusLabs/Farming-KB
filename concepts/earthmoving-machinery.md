@@ -117,7 +117,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[earthmoving-machinery-permaculture]]
 - [[mollison-designers-swale-design-and-water-harvesting-earthworks]]

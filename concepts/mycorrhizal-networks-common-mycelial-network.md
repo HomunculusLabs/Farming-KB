@@ -1,5 +1,5 @@
 ---
-title: [[arbuscular-mycorrhizal-networks]] (Common Mycelial Network)
+title: Mycorrhizal Networks Common Mycelial Network
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

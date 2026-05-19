@@ -79,14 +79,9 @@ toxin is heat-stable — cooking does not destroy it.
 ## Pharmacology and Traditional Medicine
 
 ## See Also
-- dom
-- aconitine
-- aconitum-lycoctonum
 
-## See Also
-
-- [[aconitum-columbianum]]
 - [[aconitum-anthora]]
-- [[aconitum-septentrionale]]
 - [[aconitum-carmichaelii]]
+- [[aconitum-columbianum]]
+- [[aconitum-septentrionale]]
 - [[aconitum-variegatum]]

@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[halotolerant-halophilic-fungi]]
 - [[halotolerant-halophilic-fungi-saline-environments]]
 - [[osmophilic-osmotolerant-fungi-low-water-activity]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

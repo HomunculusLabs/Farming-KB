@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[faires-meat-processing-curing-and-smoking]]
 - [[faires-permaculture-water-harvesting]]
 - [[nicole-faires]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

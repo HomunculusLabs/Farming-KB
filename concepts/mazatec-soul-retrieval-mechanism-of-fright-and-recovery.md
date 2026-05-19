@@ -117,3 +117,4 @@ This description positions the mushroom not as a passive agent (a drug that simp
 - [[shamanic-initiation-through-illness]] — How fright leads to shamanic vocation
 - [[mazatec-shaman-healing-medicine-woman-practices]] — Parallel healing methods among medicine women
 - [[mazatec-mushroom-shamanism-language-and-revelation]] — The linguistic framework of shamanic healing
+Ongoing developments continue to expand practical applications and theoretical understanding.

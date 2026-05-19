@@ -114,7 +114,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[mckenna-food-gods-set-setting-psychedelic-preparation]]
 - [[mckenna-food-gods-shamanism-techniques-of-ecstasy-mircea-eliade]]

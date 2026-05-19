@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]]
 - [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]]
 - [[oner-brazilian-white-sativa-early-finishing-equatorial-genetics]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

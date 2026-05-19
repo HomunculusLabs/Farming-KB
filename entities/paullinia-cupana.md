@@ -88,7 +88,6 @@ that of coffee beans, making it the most potent natural caffeine source.
 ### Comparison to Other Caffeine Sources
 
 ## See Also
-- [[neurotropic-fungi-colombia-species-diversity-and-ecology]]
 
-## See Also
 - [[guzman-neurotropic-fungi-genus-diversity-overview]]
+- [[neurotropic-fungi-colombia-species-diversity-and-ecology]]

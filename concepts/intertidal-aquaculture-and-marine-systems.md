@@ -114,3 +114,7 @@ The permaculture preference is for reasonably small impoundments that serve loca
 - [[tidal-estuarine-aquaculture-mollison]]
 - [[mollison-designers-aquatic-edge-planted-wetland-design]]
 - [[biological-sewage-treatment-with-aquatic-plants]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

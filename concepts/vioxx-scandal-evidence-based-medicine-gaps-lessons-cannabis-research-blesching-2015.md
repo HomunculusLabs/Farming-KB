@@ -116,3 +116,5 @@ evidence-based framework.
   risk. JAMA, 296, 1653-1656.
 - Topol, E.J. (2004). Failing the public health — rofecoxib, Merck, and the
   FDA. N. Engl. J. Med., 351, 1707-1709.
+## Further Reading
+Continued research and field trials yield new insights into this subject.

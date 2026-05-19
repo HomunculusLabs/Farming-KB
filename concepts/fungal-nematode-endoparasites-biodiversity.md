@@ -140,7 +140,6 @@ Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
 
-
 ## See Also
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.

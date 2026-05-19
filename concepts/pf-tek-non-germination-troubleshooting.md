@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[solomon-seed-germination-science-laboratory-methods]]
 - [[solomon-seed-quality-and-germination-testing]]
 - [[usda-seed-germination-standards-and-law]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

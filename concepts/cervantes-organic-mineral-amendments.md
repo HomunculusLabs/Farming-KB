@@ -115,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[cervantes-indoor-grow-room-setup]]
 - [[cervantes-root-pruning-rootbound-management]]
 - [[cervantes-temperature-management]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

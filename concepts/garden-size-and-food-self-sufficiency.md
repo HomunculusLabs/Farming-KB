@@ -115,3 +115,6 @@ The popular intensive-gardening approach of several small raised beds in a tiny 
 - [[solomon-drought-gardening-and-water-conservation]]
 - [[crop-rotation-in-protected-cultivation]]
 - [[complete-organic-fertilizer-cof]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

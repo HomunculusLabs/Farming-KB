@@ -87,14 +87,10 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[lophophora-williamsii]]
+
 - [[antonio-apache]]
 - [[lipan-apache]]
+- [[lophophora-williamsii]]
 - [[mescalero-apache]]
+- [[tonkawa]]
 - [[yage-common-themes-south-american-indians]]
-## See Also
-
-- [[lipan-apache]] — recipients of Carrizo peyote knowledge
-- [[mescalero-apache]] — downstream recipients
-- [[antonio-apache]] — informant who documented the transmission
-- [[tonkawa]] — alternative transmission route

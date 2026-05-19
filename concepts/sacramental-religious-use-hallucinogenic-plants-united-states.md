@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[halpern-sacramental-peyote-and-native-american-church]]
 - [[sacramental-psychedelic-legal-protections]]
 - [[sacramental-use-of-psychedelic-plants-in-us]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

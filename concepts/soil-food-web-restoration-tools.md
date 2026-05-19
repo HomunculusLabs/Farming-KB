@@ -114,3 +114,7 @@ The soil food web gardener's toolkit is elegantly simple: **apply proper compost
 - [[soil-food-web]] — the biological community these tools support
 - [[mycorrhizal-fungi]] — fungal partners critical for plant nutrition
 - [[bacteria-and-microorganisms-in-mushroom-fruiting]], [[fungi-in-garden-ecosystems]], [[protozoa-and-soil-ecology]], [[nematodes-in-soil-ecology]] — key members of the soil food web
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

@@ -116,3 +116,5 @@ Holmgren cites old English farm landscapes as the archetypal edge-rich design: "
 - [[permaculture-plant-catalog]] -- Low-fire-potential species for hedgerows
 - [[fungal-biodiversity]] -- (if exists) diversity principles
 - [[pond-and-aquaculture]] -- Pond edge design
+## Further Reading
+Continued research and field trials yield new insights into this subject.

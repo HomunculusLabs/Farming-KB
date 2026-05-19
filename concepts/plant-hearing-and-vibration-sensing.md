@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[plant-memory-epigenetic-recall-mechanisms]]
 - [[plant-olfaction-volatile-chemical-perception]]
 - [[tompkins-marcel-vogel-plant-human-communication]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

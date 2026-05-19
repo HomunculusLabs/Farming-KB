@@ -140,7 +140,6 @@ Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
 
-
 ## See Also
 - [[masanobu-fukuoka]]
 - [[det]]

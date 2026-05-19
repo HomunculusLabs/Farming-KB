@@ -114,3 +114,7 @@ Effective polyculture mixtures for rice paddies include combinations of *Helosto
 ## The Euryale Integration
 
 Fish in tropical still ponds combine well with the crop plant *[[euryale-ferox]]*, a spiny floating plant of the water-lily family whose period of yield and harvest coincides with fish maturation. Ponds used are 1–1.5 m deep, and the fish help control malarial mosquitoes, providing multiple benefits. Seeds of *Euryale* are marketed as a "popcorn" in India.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

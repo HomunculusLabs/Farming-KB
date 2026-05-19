@@ -1,5 +1,5 @@
 ---
-title: "JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA)"
+title: Ultra Low Jadam Wetting Agent Jwa
 created: 2026-04-28
 tags: [jadam, wetting-agent, pesticide, surfactant, ultra-low-cost]
 date: 2026-04-28

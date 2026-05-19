@@ -116,3 +116,5 @@ After initial soil treatment, the safest long-term strategy is to **grow your ow
 
 - [[query-what-are-the-best-soil-amendments-for-organic-gardening]]
 - [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

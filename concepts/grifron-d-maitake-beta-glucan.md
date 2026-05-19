@@ -128,7 +128,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[synthetic-log-cultivation-methods-guide]] for [[mushroom-immunomodulation-mechanisms]] — immune activation mechanisms
 - mushroom-cytokine-production-immune-activation

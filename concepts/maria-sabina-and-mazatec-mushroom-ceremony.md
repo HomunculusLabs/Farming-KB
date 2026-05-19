@@ -137,7 +137,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[r-gordon-wasson]] — The banker-turned-ethnomycologist who publicized the Mazatec tradition
 - [[albert-hofmann]] — The Swiss chemist who isolated psilocybin

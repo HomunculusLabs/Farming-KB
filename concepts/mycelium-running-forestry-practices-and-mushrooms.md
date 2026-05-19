@@ -138,7 +138,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[mycoforestry-spored-oil-techniques]] -- spored oil method
 - [[forest-ecology-basics]] -- [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] fundamentals

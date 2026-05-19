@@ -116,3 +116,5 @@ Mollison emphasises that working with these soil organisms — rather than again
 | Granitic sands require structural solutions | Plastic-lined trenches or log-box gardens |
 | Termites are allies, not pests | They drive [[soil-ph|soil]] building |
 | [[soil-ph-management]] is critical | Lime after trees; [[mulching-guide|mulch]] on coral cays to reduce alkalinity |
+## Further Reading
+Continued research and field trials yield new insights into this subject.

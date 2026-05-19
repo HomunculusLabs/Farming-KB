@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[cage-fungi-clathrus-anthurus-laternea-structure-and-evolution]]
 - [[cage-fungi-geodesic-structures-in-nature]]
 - [[stinkhorns-and-cage-fungi]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

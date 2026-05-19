@@ -88,12 +88,9 @@ Watering should be regular during [[compost]]. Germination occurs in spring with
 Basal cuttings are not a viable propagation method due to the plant's monocarpic tendency. However, non-flowering side rosettes can be carefully removed and rooted in damp grit.
 
 ## See Also
-- [[symphyandra-hofmannii]]
 
-## See Also
-
-- [[symphyandra-hofmannii]]
-- [[symphyandra-wanneri]]
-- [[symphyandra-pendula]]
-- [[symphyandra-hoffmannii]]
 - [[pteris-cretica]]
+- [[symphyandra-hoffmannii]]
+- [[symphyandra-hofmannii]]
+- [[symphyandra-pendula]]
+- [[symphyandra-wanneri]]

@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[cellvibrio-post-harvest-root-decay-cannabis]]
 - [[cellvibrio-root-decay-indicator-cannabis-endorhiza]]
 - [[comparison-root-cellaring-guide-vs-canning-and-preserving]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

@@ -147,4 +147,3 @@ bucket or trough works for this purpose.
 For swimming, geese appreciate but do not strictly require a pond. A
 child's wading pool serves small flocks well. The key rule is no more
 than 6 geese per acre of water surface to prevent contamination.
-

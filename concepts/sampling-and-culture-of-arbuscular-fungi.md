@@ -116,3 +116,5 @@ Once a culture contains only one species, volume can be multiplied by transferri
 ## Related
 - [[arbuscular-mycorrhizal-fungi-species-characterization]]
 - [[taxonomy-and-diversity-of-glomales]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

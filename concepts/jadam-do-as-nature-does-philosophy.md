@@ -118,7 +118,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[jadam-monoculture-critique]] -- nature's answer to monoculture
 - [[jadam-cover-crop-method]] -- working with natural vegetation cycles

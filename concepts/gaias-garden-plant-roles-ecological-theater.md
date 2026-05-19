@@ -115,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[gaias-garden-design-process]]
 - [[gaias-garden-multipurpose-plants]]
 - [[gaias-garden-net-and-pan-water-harvesting]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

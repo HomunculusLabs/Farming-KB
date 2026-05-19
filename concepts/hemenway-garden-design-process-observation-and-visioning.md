@@ -31,7 +31,6 @@ prolonged observation of how plants, animals, and elements
 interact will reveal opportunities for refinement and
 improvement that no amount of initial planning could predict.
 
-
 - [[gaias-garden-many-gardens-garden-design-process]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
@@ -118,3 +117,4 @@ This overview of hemenway garden design process observation visioni covers the e
 - [[maps]]
 - [[permaculture]]
 - [[mycorrhiza]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

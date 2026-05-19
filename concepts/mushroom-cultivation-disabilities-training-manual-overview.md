@@ -126,7 +126,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - mushroom-training-manual-overview
 - [[casing-soil-mushroom-cultivation]]

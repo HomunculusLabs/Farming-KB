@@ -125,7 +125,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - neurotropic-fungi-world-checklist for the classification framework these disputes inform
 - [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]

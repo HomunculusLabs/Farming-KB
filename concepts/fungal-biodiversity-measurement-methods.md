@@ -116,3 +116,5 @@ Each method captures a partially overlapping subset of the total fungal communit
 ## Related
 
 - [[fungal-biodiversity-conservation-status]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

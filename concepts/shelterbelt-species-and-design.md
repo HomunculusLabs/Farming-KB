@@ -117,3 +117,4 @@ A well-designed shelterbelt system integrates multiple functions:
 4. **Biodiversity support** through habitat for predatory insects and birds
 5. **Productive yield** from forage, timber, fuel, mulch, and food species
 6. **Frost mitigation** through canopy heat trapping
+Ongoing developments continue to expand practical applications and theoretical understanding.

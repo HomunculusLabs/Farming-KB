@@ -130,7 +130,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[spore]]
 - [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]]

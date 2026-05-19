@@ -1,5 +1,5 @@
 ---
-title: [[clear-light-consciousness]]
+title: Clear Light
 source: leary-t-the-psychedelic-experience.md
 type: entity
 ---

@@ -17,7 +17,7 @@ tags:
   - usa-genetics
   - recreational
 sources:
-  - Seed Junky Genetics. "Georgia Pie [[chupacabra-strain-profile-sickmeds-oner]]." seedjunky.com.
+  - Seed Junky Genetics. "Georgia Pie chupacabra-strain-profile-sickmeds-oner." seedjunky.com.
   - Leafly. "Georgia Pie blesching-cannabis-strain-selection-receptor-targeting Information." leafly.com/strains/georgia-pie.
   - AllBud. "Georgia Pie Strain." allbud.com/georgia-pie.
   - Wikileaf. "Georgia Pie Strain Review." wikileaf.com/strain/georgia-pie.

@@ -1,5 +1,5 @@
 ---
-title: [[tagasaste-chamaecytisus-palmensis]]
+title: Chamaecytisus Palmensis
 created: 2026-04-28
 tags: [species, tree, nitrogen-fixer, fodder, pioneer]
 date: 2026-04-25

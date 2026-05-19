@@ -1,5 +1,5 @@
 ---
-title: "[[cannabis-strain-super-lemon-haze-greenhouse-seed-co]] (blesching-cannabis-strain-selection-receptor-targeting)"
+title: Lemon Haze Cannabis
 type: strain
 tags: [cannabis, sativa, citrus, terpenes, limonene, uplifting]
 date: 2026-04-28

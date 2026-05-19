@@ -117,3 +117,4 @@ Major national project involving industry, government, and academic laboratories
 
 - [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]
 - [[ganoderma-and-psk-psp-immunomodulatory-mechanisms]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

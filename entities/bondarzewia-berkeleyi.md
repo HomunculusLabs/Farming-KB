@@ -19,7 +19,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gilbertson R.L., Ryvarden L. (1986). "[[growing-gourmet-north-american-reishi-species]] Polypores." Fungiflora,
+  - Gilbertson R.L., Ryvarden L. (1986). "growing-gourmet-north-american-reishi-species Polypores." Fungiflora,
     Oslo, Vol. 1, pp. 156-159.
   - Spirin W.A. et al. (2015). "Molecular phylogeny of the polypore genus
     Bondarzewia ([[basidiomycota]], Russulales)." Mycological Progress 14: 102.

@@ -115,3 +115,6 @@ event — making thoughtful design investment pay extraordinary
 long-term dividends.
 ## See Also
 - [[pond-climatic-orientation]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

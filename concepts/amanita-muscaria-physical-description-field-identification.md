@@ -114,3 +114,7 @@ For rapid field identification, look for this combination of traits:
   Siberian preparations involved drying, boiling, or fermentation.
 - **Never consume without expert identification.** Several [[palmer-poisonous-mushrooms-deadly-species]]
   resemble *A. muscaria* to the untrained eye. When in doubt, do not consume.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

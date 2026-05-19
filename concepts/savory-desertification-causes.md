@@ -117,3 +117,4 @@ of its effectiveness accumulates across diverse ranching operations.
 - [[cold-area-grazing-and-wildfire]]
 - [[comparison-rotational-grazing-vs-continuous-grazing]]
 - [[comparison-rotational-grazing-vs-set-stocking]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

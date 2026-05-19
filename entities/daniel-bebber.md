@@ -89,14 +89,14 @@ Common cultivation challenges and their solutions have been documented through p
 Traditional knowledge systems have recognized and utilized this organism across multiple cultural contexts.
 Ethnographic documentation provides historical perspective on traditional uses, management practices, and cultural significance.
 Contemporary cultural relevance continues in traditional, recreational, and research contexts.
-## See Also
-- [[mushroom-cultivation]]
-- [[lynne-boddy]]
-- [[mycelial-networks]]
-- [[fungal-ecology]]
-- [[daniel-chamovitz]]
+
 ## See Also
 
-- [[fungal-biology-fundamentals]]
-- [[geoffrey-gadd]]
 - [[british-mycological-society]]
+- [[daniel-chamovitz]]
+- [[fungal-biology-fundamentals]]
+- [[fungal-ecology]]
+- [[geoffrey-gadd]]
+- [[lynne-boddy]]
+- [[mushroom-cultivation]]
+- [[mycelial-networks]]

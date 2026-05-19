@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
 - [[cancer-medicinal-mushrooms-mixed-extracts-synergism]]
 - [[cannabis-for-colon-cancer]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

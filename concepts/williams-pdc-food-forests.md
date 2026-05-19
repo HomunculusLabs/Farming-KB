@@ -109,7 +109,6 @@ and real-world implementation challenges. Practitioners
 must balance ideal approaches with available resources
 and site-specific conditions to achieve meaningful results.
 
-
 ## See Also
 - [[teaming-with-microbes-soil-food-web-overview]]
 - [[query-how-can-i-design-a-climate-resilient-food-forest]]
@@ -118,3 +117,4 @@ and site-specific conditions to achieve meaningful results.
 - [[williams-pdc-community-design]]
 - [[williams-pdc-earthworks]]
 - [[williams-pdc-food-systems]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

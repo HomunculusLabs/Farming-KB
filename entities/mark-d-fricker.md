@@ -89,13 +89,13 @@ Common cultivation challenges and their solutions have been documented through p
 Traditional knowledge systems have recognized and utilized this organism across multiple cultural contexts.
 Ethnographic documentation provides historical perspective on traditional uses, management practices, and cultural significance.
 Contemporary cultural relevance continues in traditional, recreational, and research contexts.
-## See Also
-- [[fluorescence-recovery-after-photobleaching]]
-- [[mycelial-networks]]
-- [[phanerochaete-velutina]]
-- [[mark-shepard]]
+
 ## See Also
 
-- [[mycelial-network-structure]]
-- [[fungal-mycelial-networks-nutrient-translocation]]
+- [[fluorescence-recovery-after-photobleaching]]
 - [[fungal-biology-fundamentals]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
+- [[mark-shepard]]
+- [[mycelial-network-structure]]
+- [[mycelial-networks]]
+- [[phanerochaete-velutina]]

@@ -66,16 +66,11 @@ It requires the most management skill but offers the highest ecological and econ
 
 ## See Also
 
-- [J. Savage (Victoria, Australia)]([[j-savage-victoria]].md)
-- [Pig Tractor System](pig-tractor-system.md)
-- [Strip Grazing](strip-grazing.md)
-- [[cut-and-feed-system]](cut-and-feed-system.md)
-- [Comfrey (*Symphytum officinale*)](comfrey-symphytum-officinale.md)
-
-## See Also
-- [[permaculture-livestock-forage-systems]]
+- [[cut-and-feed-system]]
+- [[j-savage-victoria]]
 - [[mollison-designers-mixed-orchard-design-species-selection]]
 - [[natural-farming-livestock-integration]]
+- [[permaculture-livestock-forage-systems]]
 
 ## Overview
 

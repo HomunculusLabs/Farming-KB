@@ -123,7 +123,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[holmgren-ethical-principles-care-earth-people-fair-shares]]
 - [[sepp-holzer-earth-cellars-and-philosophy]]

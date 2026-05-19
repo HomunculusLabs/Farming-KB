@@ -119,7 +119,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - cannabis cultivar specificity endorhiza microbiome — cultivar-specific selection mechanisms
 - [[fukuoka-soil-microbiome-and-natural-balance]] — edaphic drivers of community composition

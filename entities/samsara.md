@@ -46,15 +46,14 @@ Research in this area draws on multidisciplinary approaches combining field obse
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
 ## See Also
-- [[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]]
-- [[amanita-muscaria-seers-milk-preparation-ancient-modern]]
-- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
-- [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]
-- [[amanita-soma-haoma-ambrosia-cross-cultural-sacred-plant-names]]
 
-## See Also
+- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
 - [[amanita-muscaria]]
+- [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]
+- [[amanita-muscaria-seers-milk-preparation-ancient-modern]]
+- [[amanita-soma-haoma-ambrosia-cross-cultural-sacred-plant-names]]
 - [[doc]]
+- [[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]]
 - [[soma]]
 
 ## Overview

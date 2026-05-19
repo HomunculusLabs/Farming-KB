@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[schultes-ergot-st-anthonys-fire]]
 - [[schultes-panaeolus-mushrooms-shamanic]]
 - [[schultes-psilocybe-little-flowers-gods]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

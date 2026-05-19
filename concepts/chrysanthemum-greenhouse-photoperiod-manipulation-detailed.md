@@ -116,3 +116,5 @@ chrysanthemum grower's toolkit.
 - [[short-day-long-day-plant-flowering-classification]]
 - [[photoperiodism-garner-allard-discovery]]
 - [[chamovitz-maryland-mammoth-photoperiodism-discovery]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[soma]]
 - [[soma-vedic-history]]
 - [[wasson-brough-soma-debate]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

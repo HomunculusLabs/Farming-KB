@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[ingham-compost-tea-application-rates-and-timing]]
 - [[ingham-field-guide-compost-tea-ingredients-and-recipes]]
 - [[ingham-yeasts-molds-compost-tea]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

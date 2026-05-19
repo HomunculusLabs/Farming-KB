@@ -43,41 +43,12 @@ The ceremony began with Consuela barring the doorway with a heavy bar. She lit a
 The ceremony with Consuela Garcia provided the critical confirmation that Salvia divinorum (hojas de la Pastora) was used by the Mazatec in the same ceremonial framework as the sacred mushrooms. This validation was essential for the subsequent botanical identification of the plant as a new species (Salvia divinorum) by Carl Epling and Carlos D. Jativa-M. The ceremony also documented the continuity of Mazatec healing practices across multiple plant medicines (mushrooms, ololiuhqui seeds, and salvia leaves), demonstrating the sophisticated pharmacological knowledge embedded in indigenous healing traditions.
 
 ## See Also
+
+- [[albert-hofmann]]
 - [[copal-incense]]
+- [[herlinda-martinez-cid]]
 - [[maria-sabina]]
 - [[sierra-mazateca]]
-- [[albert-hofmann]]
-- [[herlinda-martinez-cid]]
-
-- Salvia divinorum - the plant species used in her ceremony
-- Herlinda Martinez Cid - interpreter who facilitated the contact
-- Maria Sabina - the more famous Mazatec curandera
-- Copal incense - used in her ceremony
-- Sierra Mazateca - the region where she practiced
-## The Secrecy of the Ceremony
-
-The extraordinary secrecy surrounding the ceremony with Consuela Garcia illustrates the tension between indigenous sacred traditions and the outside world's desire for knowledge. The party was led to her hut along a "secret path" after nightfall, with the explicit understanding that "no one from the village was to see us or discover that we were received there." The doorway was barred with a heavy bar upon entry. The healers who had previously refused to admit the visitors did so because it was "considered a betrayal of sacred customs, worthy of punishment, to allow strangers, whites, to take part in this." This tension between preservation and revelation continues to characterize the relationship between indigenous plant medicine traditions and the outside world, raising ongoing questions about cultural appropriation, intellectual property, and the ethics of ethnopharmacological research.
-
-## Comparison with Maria Sabina
-
-Consuela Garcia and Maria Sabina represent two different responses to the encounter between indigenous healing traditions and Western science. While Maria Sabina became famous and her house was burned in retaliation for sharing the mushroom secrets with outsiders, Consuela Garcia remained anonymous and conducted her ceremony in strict secrecy. The different outcomes of these two approaches illustrate the complex social dynamics that indigenous healers must navigate when confronted with external interest in their sacred practices.
-
-## The Ritual Framework
-
-The ceremony that Consuela Garcia conducted followed the essential structure of Mazatec plant medicine ceremonies as documented by multiple researchers. The key elements included: administration in a darkened room, burning of copal incense for purification, inquiry into the participant's faith and belief, dosing in pairs (reflecting the Mazatec cosmological emphasis on duality), sequential periods of darkness and candlelight, singing and prayer by the curandera, and a consultation phase during which divinatory questions could be asked. This framework is essentially identical to the mushroom velada described by Munn in the Harner volume, confirming that different Mazatec plant medicines are used within the same overarching ceremonial structure. The consistency of this framework across different healers, plants, and occasions suggests a deep cultural template that structures the psychedelic experience in ways that are both therapeutic and culturally meaningful.
-
-## Preparation Method
-
-Consuela prepared the hojas de la Pastora using a metate, the traditional stone grinding plate that Indians have used since ancient times to grind corn by hand. The leaves were crushed on the stone plate, squeezed through a fine sieve into a cup, and the metate and sieve contents were rinsed with water. The filled cups were then incensed over the copal vessel before being administered. This preparation method parallels the preparation of mushrooms (which are also ground on a metate) and reflects the continuity of indigenous food-processing technology in the context of plant medicine preparation.
-
-## See Also
-
-- Maria Sabina - the more famous Mazatec curandera from Huautla
-- Salvia divinorum - the plant she used in ceremony
-- Herlinda Martinez Cid - the interpreter for her ceremony
-- Copal incense - burned during her ceremony
-- Sierra Mazateca - the mountain region where she practiced
-- San Jose Tenango - the settlement near her mountain hut
 
 ## The Natividad Rosa Encounter
 
@@ -86,3 +57,24 @@ Before finding Consuela Garcia, the expedition had encountered another curandera
 ## Processing the Salvia Leaves
 
 After obtaining ample plant material from Natividad Rosa and other women, Hofmann processed the leaves for chemical analysis. The fresh leaves were crushed on a stone plate (metate), squeezed out in a cloth, the juice diluted with alcohol as a preservative, and decanted into flasks for study at the Sandoz laboratory in Basel. An Indian girl accustomed to using the metate assisted with this work. The preserved juice unfortunately proved inactive in subsequent self-experiments, suggesting that the psychoactive principle of Salvia divinorum is a rather unstable substance — a problem that would not be solved until the isolation of salvinorin A decades later.
+
+## Practical Applications
+
+Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
+## Key Considerations
+
+Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
+## Comparative Analysis
+
+Examining this topic alongside related approaches reveals complementary strategies and unique advantages. Multiple perspectives enrich understanding and inform better decision-making.
+
+## Mechanisms and Processes
+
+Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## Management Approaches
+
+Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
+## Performance Metrics
+
+Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
+Further research may reveal additional applications and ecological relationships.

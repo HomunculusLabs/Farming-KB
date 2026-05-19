@@ -85,7 +85,6 @@ Local effects at the bite site are typically minimal, with little swelling or pa
 Polyvalent antivenoms produced by the [[psilocybin-therapeutic-applications]].
 
 ## See Also
-- [[blesching-cannabis-hypertension-cardiovascular-effects]]
 
-## See Also
+- [[blesching-cannabis-hypertension-cardiovascular-effects]]
 - [[psilocybin-intoxication-medical-management-and-first-aid]]

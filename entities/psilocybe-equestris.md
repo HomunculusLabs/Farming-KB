@@ -2,7 +2,7 @@
 title: "Psilocybe equestris"
 created: 2026-04-28
 type: species
-tags: [fungi, psilocybe, psychedelic-mushroom, entheogen, [[agaricales]]]
+tags: [fungi, psilocybe, psychedelic-mushroom, entheogen, [[agaricales]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:

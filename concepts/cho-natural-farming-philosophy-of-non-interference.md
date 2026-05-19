@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[natural-dye-plants]]
 - [[natural-farming-animal-husbandry]]
 - [[natural-farming-fukuoka]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

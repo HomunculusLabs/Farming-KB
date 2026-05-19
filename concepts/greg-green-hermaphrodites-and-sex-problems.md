@@ -115,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[greg-green-temperature-and-humidity-control]]
 - [[greg-green-thc-and-cannabinoid-science]]
 - [[greg-green-trichomes-and-resin-glands]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

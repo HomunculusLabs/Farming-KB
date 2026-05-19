@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mollison-co-action-analysis-and-species-interaction-in-guild-design]]
 - [[psilocybin-mushroom-species-identification]]
 - [[psilocybin-mushrooms-species-and-pharmacology]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

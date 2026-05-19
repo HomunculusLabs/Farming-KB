@@ -113,3 +113,8 @@ Improper [[history-of-commercial-mushroom-cultivation]] spawn production
 The concept proved that effective [[pf-tek]] — the complete cultivation method developed by Psilocybe Fanaticus
 - [[brown-rice-flour-substrate]] — the nutrient component of PF Tek jars
 - [[mushroom-cultivation-contamination]] — causes and prevention of contamination
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.
+Integration with ecological principles enhances long-term sustainability.

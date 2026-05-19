@@ -8,7 +8,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Fritsch, R.M. & Friesen, N. (2002). "Evolution, domestication and taxonomy." Allium [[brassinosteroid-anti-stress-effects-crop-science]].
+  - Fritsch, R.M. & Friesen, N. (2002). "Evolution, domestication and taxonomy." Allium brassinosteroid-anti-stress-effects-crop-science.
   - Block, E. (2010). Garlic and Other Alliums: The Lore and the Science. Royal Society of Chemistry.
   - Kamenetsky, R. (2007). "Allium." Handbook of Plant Breeding, Springer.
   - McCollum, G.D. (1976). "Onions and allies." Horticulture 283, USDA.

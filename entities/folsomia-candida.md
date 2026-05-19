@@ -89,13 +89,12 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[mushroom-cultivation]]
+
+- [[bloomfield-fungal-plant-pathogens]]
+- [[fungal-biology-fundamentals]]
+- [[fungal-ecology]]
 - [[hypholoma-fasciculare]]
 - [[mushroom-compost]]
-- [[mycelial-networks]]
+- [[mushroom-cultivation]]
 - [[mycelial-cord]]
-## See Also
-
-- [[fungal-ecology]]
-- [[fungal-biology-fundamentals]]
-- [[bloomfield-fungal-plant-pathogens]]
+- [[mycelial-networks]]

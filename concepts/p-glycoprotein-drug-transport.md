@@ -106,7 +106,6 @@ on scale, market access, and resource availability. Small-scale
 operations often achieve better per-unit economics through reduced
 overhead and direct market channels compared to industrial approaches.
 
-
 ## See Also
 - [[mycelial-nutrient-transport-network-dynamics]]
 - [[xylem-phloem-nutrient-transport]]
@@ -118,3 +117,4 @@ overhead and direct market channels compared to industrial approaches.
 - [[ayahuasca-drug-interactions]]
 - [[weil-drug-use-as-innate-human-drive]]
 - [[metzner-non-drug-methods-consciousness-transformation]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

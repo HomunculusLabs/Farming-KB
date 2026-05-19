@@ -106,7 +106,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[phytochrome]] — Red/far-red light sensing in plants
 - plant photoreceptor families beyond phytochrome — Modern photoreceptor
@@ -117,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[darwin-five-condition-phototropism-experimental-design]]
 - [[phototropism-darwin-plant-light-response]]
 - [[phototropism-darwin-plant-light-sensing]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

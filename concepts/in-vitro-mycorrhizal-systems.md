@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mycorrhizal-pathogen-resistance-mechanisms]]
 - [[query-what-are-the-different-types-of-mycorrhizal-fungi]]
 - [[symbiotic-fungi-compartmented-in-vitro-amf-transport-systems]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

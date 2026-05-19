@@ -117,3 +117,4 @@ A quality shovel, properly sharpened and maintained, will dig all summer without
 5. **Sharpen at 15° for shovels, 20° for hoes**, with a consistent chisel-like bevel.
 6. **Always remove the wire edge** after sharpening with light back-side strokes.
 7. **Three tools are essential**: combination shovel, bow rake, hoe — plus a file.
+Ongoing developments continue to expand practical applications and theoretical understanding.

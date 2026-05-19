@@ -124,7 +124,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[sepp-holzer-method]], [[holzer-raised-bed-design-principles]], [[holzer-green-manure-crops]], [[mollison-designers-microclimate-creation-frost-protection]].
 [[accessible-mushroom-cultivation-for-disabilities]] on logs and in raised beds provides additional food production and aids decomposition.

@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[gaias-garden-bringing-the-soil-to-life]]
 - [[soil-rehabilitation-methods]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

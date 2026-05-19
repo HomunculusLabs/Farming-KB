@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[ayahuasca-tourism-peruvian-amazon]]
 - [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]]
 - [[peruvian-drug-war-and-ayahuasca-acceptance]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

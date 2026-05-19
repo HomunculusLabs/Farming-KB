@@ -68,13 +68,13 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[mushroom-cultivation]]
+
 - [[gardening-when-it-counts]]
+- [[mushroom-cultivation]]
+- [[plant-propagation]]
+- [[seed-company-supplier-reference]]
+- [[seed-saving-techniques]]
 - [[steve-solomon]]
 - [[william-falconer]]
 - [[william-ozier-williams]]
-## See Also
-
-- [[seed-company-supplier-reference]]
-- [[seed-saving-techniques]]
-- [[plant-propagation]]
+Further research may reveal additional applications and ecological relationships.

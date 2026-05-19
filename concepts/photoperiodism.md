@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[photoperiodism-plant-flowering]]
 - [[phytochrome-photoperiodism]]
 - [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

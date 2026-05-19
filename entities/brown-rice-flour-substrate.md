@@ -72,22 +72,12 @@ Brown rice flour is central to the PF TEK for several reasons:
 - Standard mycological substrate references
 
 ## See Also
+
 - [[brown-rice-flour-supplementation-straw-substrate-mushroom]]
-- [[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]]
-- [[pf-tek-brown-rice-vermiculite-substrate-method]]
-
-## Practical Applications
-
-Brown Rice Flour (Substrate Component) has several important applications in sustainable agriculture
-and organic growing systems. Growers and researchers have developed
-practical methods for implementation across diverse climate zones.
-Understanding these applications helps integrate the concept into
-broader farming and gardening practice.
-
-## See Also
-
-- [[pf-tek-brown-rice-vermiculite-substrate-formulation]]
+- [[jadam-brown-rice-vinegar-production]]
 - [[pf-tek-brown-rice-flour-freshness-and-preparation]]
 - [[pf-tek-brown-rice-vermiculite-substrate]]
+- [[pf-tek-brown-rice-vermiculite-substrate-formulation]]
+- [[pf-tek-brown-rice-vermiculite-substrate-method]]
+- [[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]]
 - [[vermiculite-brown-rice-substrate]]
-- [[jadam-brown-rice-vinegar-production]]

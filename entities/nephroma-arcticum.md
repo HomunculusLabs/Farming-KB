@@ -139,8 +139,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
+- [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
 - [[nephroma-expansible]]
 - [[nephroma-laevigatum]]
-
-## See Also
-- [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]

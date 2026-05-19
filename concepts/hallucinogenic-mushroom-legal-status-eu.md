@@ -136,7 +136,6 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 
-
 ## See Also
 - [[psilocybe-cubensis]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also

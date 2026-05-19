@@ -131,7 +131,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[dom]]
 - [[oner-super-lemon-haze-greenhouse-strain-profile]]

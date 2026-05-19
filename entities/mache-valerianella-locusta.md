@@ -94,14 +94,3 @@ Mache is an ideal companion crop in integrated winter production systems. Its lo
 | Height | 2-4 inches |
 
 ## See Also
-
-- Claytonia (Miner's Lettuce)
-- Minutina
-- Cold-Hardy Vegetables
-- Four Season Farm
-- Floating Row Cover
-
-## See Also
-- [[mache|Mache]]
-- [[coleman-mache-and-specialty-winter-greens|Coleman Mache And Specialty Winter Greens]]
-- [[coleman-mache|Coleman Mache]]

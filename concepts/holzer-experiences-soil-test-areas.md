@@ -105,7 +105,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-microclimates-permaculture]], [[holzer-terrace-construction-guide]], [[hugelkultur-bed-construction-detailed]], [[mollison-designers-microclimate-creation-frost-protection]].
 Terrace construction on slopes prevents erosion while creating level planting areas with improved water retention.
@@ -117,3 +116,5 @@ Terrace construction on slopes prevents erosion while creating level planting ar
 - [[holzer-permaculture-landscape-design]]
 - [[holzer-pond-construction-and-aquaculture]]
 - [[sepp-holzer-terrace-systems-and-raised-beds]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

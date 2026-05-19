@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[jeavons-master-planning-mini-farms]]
 - [[jeavons-potato-growing]]
 - [[jeavons-transplanting-techniques]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

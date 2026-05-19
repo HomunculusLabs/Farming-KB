@@ -70,13 +70,12 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[nematophagous-fungi]]
-- [[nematode-trapping-fungi-predatory-mechanisms-biocontrol]]
-- [[nematophagous-fungi-predatory-nematode-trapping]]
-- [[molecular-analysis-nematode-trapping-fungi-cytoskeleton]]
-- [[gadd-nematode-trapping-fungi-dna-microarray-interaction]]
-## See Also
 
+- [[bloomfield-fungal-plant-pathogens]]
 - [[fungal-biology-fundamentals]]
 - [[fungal-ecology]]
-- [[bloomfield-fungal-plant-pathogens]]
+- [[gadd-nematode-trapping-fungi-dna-microarray-interaction]]
+- [[molecular-analysis-nematode-trapping-fungi-cytoskeleton]]
+- [[nematode-trapping-fungi-predatory-mechanisms-biocontrol]]
+- [[nematophagous-fungi]]
+- [[nematophagous-fungi-predatory-nematode-trapping]]

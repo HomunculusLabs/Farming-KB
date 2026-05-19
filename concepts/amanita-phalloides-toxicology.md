@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[amanita-vaginata]]
 - [[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]
 - [[siberian-shamanism-and-amanita]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

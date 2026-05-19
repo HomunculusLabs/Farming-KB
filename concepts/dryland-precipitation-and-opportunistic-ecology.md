@@ -111,7 +111,6 @@ Empirical findings continue to refine our understanding
 and suggest promising directions for future investigation
 across multiple disciplines and application domains.
 
-
 ## See Also
 - [[dryland-soils-and-mineral-nutrition]]
 - [[dryland-building-and-settlement]]

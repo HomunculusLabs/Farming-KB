@@ -95,9 +95,6 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]
-- [[super-silver-haze]]
-
-## See Also
 - [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]]
+- [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]
 - [[super-silver-haze]]

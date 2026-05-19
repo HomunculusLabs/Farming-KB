@@ -119,7 +119,6 @@ The overarching ethic is one of conservation and local production. External mine
 - Leeper, G.W. (1982). *Managing the Earth*. Thomas Nelson, Australia.
 - Vogel, S. (1981). *Life in Moving Fluids*. Princeton University Press.
 
-
 ## See Also
 - [[plant-primary-nutrients-and-mineral-sources]]
 - [[organic-nutrients-vs-synthetic-nutrients]]

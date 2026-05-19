@@ -88,8 +88,7 @@ approaches related to kaolin in different contexts. These include
 local climate conditions, available resources, and specific management goals.
 
 ## See Also
-- [[kaolin-clay-mollison]]
-- [[gadd-fungal-metal-immobilization-biomineralization-oxalate-carbonate-phosphate]]
 
-## See Also
+- [[gadd-fungal-metal-immobilization-biomineralization-oxalate-carbonate-phosphate]]
+- [[kaolin-clay-mollison]]
 - [[mollison-designers-tropical-soils-and-cation-exchange-management]]

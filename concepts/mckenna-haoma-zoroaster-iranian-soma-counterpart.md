@@ -113,3 +113,8 @@ original botanical identity does not diminish the significance of
 this tradition; rather, it underscores the fragility of plant
 knowledge and the importance of ecological context in maintaining
 cultural practices that depend on specific species.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.
+Integration with ecological principles enhances long-term sustainability.

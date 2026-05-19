@@ -1,5 +1,5 @@
 ---
-title: "How Do I query how do i start [[mollison-designers-wool-processing-natural-dyeing]] with plants Dyeing with Plants?"
+title: Query How Do I Start Natural Dyeing With Plants
 created: 2026-05-06
 tags: [query, natural-dyeing, plants, textiles, fiber-arts]
 date: 2026-04-28

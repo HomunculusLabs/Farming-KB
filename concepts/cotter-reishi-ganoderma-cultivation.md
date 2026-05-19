@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[cotter-mycoremediation-techniques]]
 - [[cotter-substrate-preparation]]
 - [[mushroom-spawn-run-thermogenesis-cotter]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

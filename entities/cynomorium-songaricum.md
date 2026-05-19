@@ -83,9 +83,6 @@ songaricum may also parasitize [[tamarix]] and other desert shrubs.
 
 ## See Also
 
-- guzman-central-america-neurotropic-fungi-species-distribution
-
-## See Also
 - [[guzman-central-america-neurotropic-fungi-species-distribution]]
-- [[neurotropic-fungi-japan-east-asia-species-cultural-context]]
 - [[guzman-neurotropic-fungi-genus-diversity-overview]]
+- [[neurotropic-fungi-japan-east-asia-species-cultural-context]]

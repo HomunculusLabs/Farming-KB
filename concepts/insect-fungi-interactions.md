@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fukuoka-textdoc-scale-insect-biological-control-case-studies]]
 - [[insect-fungi-gardening-symbioses]]
 - [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

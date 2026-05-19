@@ -115,8 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[thalictrum-thalictroides]]
-
-## See Also
-- [[phototropin-blue-light-receptor-plant-directional-sensing]]
 - [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]
+- [[phototropin-blue-light-receptor-plant-directional-sensing]]
+- [[thalictrum-thalictroides]]

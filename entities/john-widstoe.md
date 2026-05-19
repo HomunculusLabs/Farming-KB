@@ -71,13 +71,12 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[mushroom-cultivation]]
-- [[gardening-when-it-counts]]
-- [[steve-solomon]]
-- [[outdoor-mushroom-bed]]
-- [[water-management]]
-## See Also
 
+- [[gardening-when-it-counts]]
+- [[mushroom-cultivation]]
+- [[outdoor-mushroom-bed]]
+- [[permaculture-design]]
 - [[plant-propagation]]
 - [[solomon-complete-organic-fertilizer-soil-science]]
-- [[permaculture-design]]
+- [[steve-solomon]]
+- [[water-management]]

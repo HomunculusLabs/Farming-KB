@@ -108,7 +108,6 @@ This natural succession pattern — bramble nursery to fruit tree orchard —
 may represent how our forest ancestors developed orchards, assisted by
 indigenous birds and mammals.
 
-
 ## See Also
 - [[berry-species-guide]] — Individual species profiles
 - [[cool-climate-home-garden-mollison]] — Cool climate garden design
@@ -117,3 +116,5 @@ indigenous birds and mammals.
 - [[berry-production-and-blackberry-control]]
 - [[berry-growing]]
 - [[comparison-berry-growing-vs-fruit-tree-pruning]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

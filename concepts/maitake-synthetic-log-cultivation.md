@@ -115,3 +115,6 @@ Soil casing can approximately double yields, making it an attractive option desp
 - [[synthetic-log-mushroom-cultivation]]
 - [[synthetic-log-cultivation-species-selection]]
 - [[synthetic-log-cultivation-methods-guide]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

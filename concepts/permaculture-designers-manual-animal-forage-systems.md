@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[permaculture-designers-checklist-for-drylands]]
 - [[permaculture-designers-manual-overview]]
 - [[permaculture-designers-manual-reference-trees]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

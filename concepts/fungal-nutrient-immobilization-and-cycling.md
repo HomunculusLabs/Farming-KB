@@ -113,3 +113,8 @@ Fungi can immobilize nutrient elements and metal ions for extended periods throu
 - Olsson, P.A. and Jennings, D.H. (1991). Translocation of ¹⁴C and ³²P through hyphae.
 - Stark, N. (1972). Nutrient content of fungal hyphae on pine litter.
 - Wells, J.M. and Boddy, L. (1990, 1995a,b). Phosphorus translocation in cord-forming fungi.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.
+Integration with ecological principles enhances long-term sustainability.

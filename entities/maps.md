@@ -1,5 +1,5 @@
 ---
-title: "maps-multidisciplinary-association-for-psychedelic-studies [[maps-multidisciplinary-association-for-psychedelic-studies]]"
+title: Maps
 type: organization
 aliases:
   - MAPS

@@ -116,3 +116,5 @@ soil to wind and water erosion, and opens the way for weed invasion. In both cas
 the solution involves restoring diverse, deep-rooted plant communities — forests,
 shrublands, and mixed pastures — that provide both productive [[time-yield-and-ecological-succession]]
 resilience.
+## Further Reading
+Continued research and field trials yield new insights into this subject.

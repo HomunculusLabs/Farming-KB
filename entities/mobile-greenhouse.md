@@ -90,14 +90,5 @@ The mobile greenhouse concept has direct applications for integrated mushroom-ve
 
 ## See Also
 
-- Four Season Farm
-- Eliot Coleman
-- Cold House ([[coleman-unheated-greenhouse-design]])
+- [[coleman-unheated-greenhouse-design]]
 - [[floating-row-cover]]
-
-## See Also
-- [[coleman-mobile-greenhouse-mechanical-systems-skids-rails-runners-anchors|Coleman Mobile Greenhouse Mechanical Systems Skids Rails Runners Anchors]]
-- [[coleman-greenhouse-end-wall-ventilation-design-mobile-houses|Coleman Greenhouse End Wall Ventilation Design Mobile Houses]]
-- [[coleman-mobile-greenhouse-crop-rotation-design|Coleman Mobile Greenhouse Crop Rotation Design]]
-- [[mobile-greenhouse-system|Mobile Greenhouse System]]
-- [[coleman-mobile-greenhouse-green-manure-soil-building|Coleman Mobile Greenhouse Green Manure Soil Building]]

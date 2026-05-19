@@ -115,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
 - [[guzman-psilocybin-mushrooms-north-america]]
 - [[neurotropic-fungi-southern-hemisphere-origin-biogeography-guzman-1998]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

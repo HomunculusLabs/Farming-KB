@@ -74,11 +74,7 @@ Scientific research continues to validate and refine practical implementation me
 
 ## See Also
 
-- [Mixed Livestock Rotation](mixed-livestock-rotation.md)
-- [[cut-and-feed-system]]([[cut-and-feed-system]].md)
-- [Ley Farming](ley-farming.md)
-
-## See Also
-- [[fukuoka-textdoc-livestock-open-grazing-forest-pasture-method]]
 - [[comparison-rotational-grazing-vs-set-stocking]]
+- [[cut-and-feed-system]]
+- [[fukuoka-textdoc-livestock-open-grazing-forest-pasture-method]]
 - [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]

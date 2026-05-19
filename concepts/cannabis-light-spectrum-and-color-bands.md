@@ -130,7 +130,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[led-grow-lights]]
 - [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]]

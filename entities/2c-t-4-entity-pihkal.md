@@ -1,5 +1,5 @@
 ---
-title: "2C-T-4 -- 2,5-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE -- [[2c-b-pihkal-entry-20]] #41"
+title: 2C T 4 [[2-4-dma-entity-pihkal]]
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-T-4
 
-PIHKAL entry #41. 2,5-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #41. 2,5-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE.
 
 ## Chemical Name
 

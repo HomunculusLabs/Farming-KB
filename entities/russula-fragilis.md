@@ -71,15 +71,11 @@ Described by Ramsbottom (1945) on Plate 8 alongside R. emetica, R. fellea, and R
 
 ## See Also
 
-- [[russula-emetica]] — the closely related Sickener
-- [[russula-fellea]] — Bitter Russula
-- [[russula-drimeia]] — Pungent Russula
-- [[lactarius-torminosus]] — Woolly Milk Cap, a related genus
-
-## See Also
-
-- [[russula-vesca]]
-- [[guzman-allen-gartz-new-guinea-sacred-fungi-boletus-russula-controversy]]
 - [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
-- [[russula-fellea]]
+- [[guzman-allen-gartz-new-guinea-sacred-fungi-boletus-russula-controversy]]
+- [[lactarius-torminosus]]
 - [[russula-brevipes]]
+- [[russula-drimeia]]
+- [[russula-emetica]]
+- [[russula-fellea]]
+- [[russula-vesca]]

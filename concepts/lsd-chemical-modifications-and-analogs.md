@@ -135,7 +135,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[ergot-and-lysergic-acid-history]]
 - [[tryptamine-family-overview]]

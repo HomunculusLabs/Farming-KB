@@ -1,5 +1,5 @@
 ---
-title: [[faires-permaculture-water-harvesting]]
+title: Permaculture Water Harvesting
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -114,3 +114,7 @@ Flexible approaches that respond to changing conditions. For permaculture water 
 - [[permaculture-aquaculture-guide]]
 - [[permaculture-site-analysis]]
 - [[homestead-water-systems]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

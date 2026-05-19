@@ -66,30 +66,17 @@ Environmental factors play a significant role in understanding this subject. Cha
 ## Community Impact
 
 The practical implications for communities and practitioners are substantial. Knowledge transfer and education remain important priorities for sustainable implementation.
+
 ## See Also
-- [[buddha-vairochana]]
-- [[amoghasiddhi]]
+
 - [[akshobhya]]
 - [[amitabbha]]
-- [[ratnasambhava]]
+- [[amoghasiddhi]]
+- [[buddha-vairochana]]
 - [[chonyid-bardo]]
-
-## Cultural and Historical Significance
-
-The study and understanding of vajrasattva connects to broader themes in
-mycology, ethnobotany, and the history of natural science. Documentation of
-this subject appears in both historical texts and contemporary research,
-reflecting ongoing interest in its properties and applications.
-
-Research into related organisms and concepts continues to expand, with modern
-molecular techniques providing new insights. Field observations complement
-laboratory studies, building a more complete picture of its ecological role
-and significance.
-
-## See Also
-
-- [[turner-psychedelic-combination-experience-reports]]
-- [[psychedelic-integration-guide]]
-- [[wrathful-visions-psychedelic-experience]]
-- [[psychedelic-integration-practices]]
 - [[psychedelic-combination-guide]]
+- [[psychedelic-integration-guide]]
+- [[psychedelic-integration-practices]]
+- [[ratnasambhava]]
+- [[turner-psychedelic-combination-experience-reports]]
+- [[wrathful-visions-psychedelic-experience]]

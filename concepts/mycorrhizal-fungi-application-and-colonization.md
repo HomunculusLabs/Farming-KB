@@ -116,3 +116,5 @@ Glomalin represents only the tip of the iceberg in terms of sticky materials in 
 - **Soil food web**: The complete community of organisms in soil, from bacteria through earthworms
 - **Disease suppression**: How diverse microbial communities prevent plant diseases
 - **Soil structure**: How biological glues and [[fungal-hyphae]] create and maintain soil aggregation
+## Further Reading
+Continued research and field trials yield new insights into this subject.

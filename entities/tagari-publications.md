@@ -65,15 +65,8 @@ Tagari Publications serves the cultivation community by:
 
 ## See Also
 
-- [[permaculture-institute]]
 - [[david-holmgren]]
-
-## Practical Significance
-- Relevant to sustainable land management and design
-- Applications in permaculture and ecological systems
-- Connected to broader themes of resource management
-
-## See Also
+- [[permaculture-institute]]
 
 ## Overview
 

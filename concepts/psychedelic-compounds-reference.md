@@ -118,7 +118,6 @@ Climate adaptation is essential for long-term success. What works in temperate r
 - [[simon-powell]]
 - [[ibogaine-reference]]
 
-
 ## See Also
 [[cannabis-oil-isomerization]]
 - [[psychedelic-mushroom-history]] for historical context

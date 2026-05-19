@@ -81,7 +81,6 @@ Biodiversity considerations should guide implementation decisions.
 Long-term ecological health depends on responsible stewardship.
 
 ## See Also
-- [[bassia-desert-pioneer-mollison]]
 
-## See Also
+- [[bassia-desert-pioneer-mollison]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

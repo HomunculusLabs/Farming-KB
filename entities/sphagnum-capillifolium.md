@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Crum, H.A. (1984). "Sphagnopsida: Sphagnaceae." [[growing-gourmet-north-american-reishi-species]] Flora, Series II, Part 11.
+  - Crum, H.A. (1984). "Sphagnopsida: Sphagnaceae." growing-gourmet-north-american-reishi-species Flora, Series II, Part 11.
   - Rydin, H. & Jeglum, J.K. (2013). "The Biology of Peatlands." 2nd ed. Oxford University Press.
   - Daniels, R.E. & Eddy, A. (1990). "Handbook of European Sphagna." HMSO, London.
   - Flatberg, K.I. (2013). "Sphagnum capillifolium and related species." Lindbergia, 37, 1–28.

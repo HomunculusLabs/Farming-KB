@@ -130,7 +130,6 @@ The full permaculture water storage system integrates:
 6. **Include biological design** from the start — aquaculture, wildlife habitat, and irrigation integration
 7. **Aim for 10–15% water surface** in humid landscapes to eliminate drought and flood risk
 
-
 ## See Also
 - [[mollison-designers-check-dam-types-and-landscape-placement]]
 - dam types and landscape placement

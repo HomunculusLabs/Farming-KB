@@ -102,15 +102,10 @@ both species will be secure.
 
 ## See Also
 
-- [[goat-husbandry]]
-- rotational grazing
-- multi species grazing
-- [[pasture-management]]
-
-## See Also
-
-- [[comparison-king-stropharia-vs-paddy-straw-mushroom]]
-- [[comparison-valerian-vs-passionflower]]
-- [[comparison-cob-oven-vs-rocket-stove]]
-- [[comparison-rocket-stove-vs-masonry-heater]]
 - [[comparison-biochar-vs-mycorrhiza]]
+- [[comparison-cob-oven-vs-rocket-stove]]
+- [[comparison-king-stropharia-vs-paddy-straw-mushroom]]
+- [[comparison-rocket-stove-vs-masonry-heater]]
+- [[comparison-valerian-vs-passionflower]]
+- [[goat-husbandry]]
+- [[pasture-management]]

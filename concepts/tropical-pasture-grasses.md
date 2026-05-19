@@ -117,7 +117,6 @@ At every stage of pasture establishment:
 
 The leaf swards valued by graziers also suit green-crop cover for orchardists where regular slashing for easy fruit harvest is practiced. Soils under slashed pastures are of excellent structure, and erosion is effectively stopped. It is essential that the orchard crop is well established using manures before twining legumes are planted.
 
-
 ## See Also
 - [[savannah-forestry-rehabilitation]] — Restoring degraded grasslands to productive systems
 - [[animal-tractor-systems]] — Using animals for land preparation before pasture establishment

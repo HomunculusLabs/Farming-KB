@@ -92,7 +92,7 @@ Careful observation and documentation support ongoing improvement.
 
 ## Research Developments
 
-Current research directions and emerging findings for phototropism darwin experiments. Understanding
+[[psychedelic-therapy-current-research]] directions and emerging findings for phototropism darwin experiments. Understanding
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 

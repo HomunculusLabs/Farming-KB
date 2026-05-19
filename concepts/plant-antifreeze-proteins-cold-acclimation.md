@@ -117,3 +117,4 @@ Vernalization requirements in winter cereals interact with cold acclimation path
 - [[plant-photoreceptor-comparison-phytochrome-cryptochrome-phototropin]]
 - [[plant-phototropism]]
 - [[plant-phototropism-and-photoperiodism]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

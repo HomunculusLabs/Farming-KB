@@ -58,18 +58,15 @@ Research in this area draws on multidisciplinary approaches combining field obse
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
 ## See Also
-- [[allegro-the-sacred-mushroom-amanita-identification]]
-- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
-- [[amanita-muscaria-physical-description-field-identification]]
-- [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
-- [[andrija-puharich-sacred-mushroom-1959]]
 
-## See Also
+- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
 - [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
-- [[andrija-puharich-sacred-mushroom-1959]]
-- [[mycology]]
+- [[allegro-the-sacred-mushroom-amanita-identification]]
 - [[amanita]]
+- [[amanita-muscaria-physical-description-field-identification]]
+- [[andrija-puharich-sacred-mushroom-1959]]
 - [[ethnomycology]]
+- [[mycology]]
 
 ## Overview
 

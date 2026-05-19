@@ -113,3 +113,8 @@ A critical concern for gardens located on former farmland: clay soils (and indee
 4. Excessive organic matter amendment can harm [[solomon-vegetable-nutritional-decline-trace-minerals]] quality by unbalancing soil minerals
 5. Clay has high nutrient-holding capacity — once "charged," it retains fertility well
 6. Always check for plow pans on former agricultural land and break through them manually
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.
+Integration with ecological principles enhances long-term sustainability.

@@ -117,3 +117,4 @@ The rapid spread of online videos showing recreational use contributed significa
 - [[entheogen-culture]] for broader indigenous plant-use knowledge
 - [[harm-reduction-guide]] for general safety principles
 - [[salvinorin-reference]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

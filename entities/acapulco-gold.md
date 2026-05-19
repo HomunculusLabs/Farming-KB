@@ -1,5 +1,5 @@
 ---
-title: "[[acapulco-gold-heirloom-mexican-sativa]]"
+title: Acapulco Gold
 type: strain
 tags:
   - cannabis

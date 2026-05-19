@@ -84,12 +84,9 @@ The bulbs were considered so valuable that single rare cultivars changed hands f
 Hyacinth perfumery reached its peak in the late 19th and early 20th centuries. The flowers yield an absolute used in high-end perfumes, though synthetic replacements have largely supplanted natural hyacinth extract in modern fragrance production.
 
 ## See Also
+
+- [[fagus-orientalis]]
 - [[helleborus-orientalis]]
-
-## See Also
-
 - [[picea-orientalis]]
 - [[platanus-orientalis]]
-- [[fagus-orientalis]]
 - [[trametes-orientalis]]
-- [[helleborus-orientalis]]

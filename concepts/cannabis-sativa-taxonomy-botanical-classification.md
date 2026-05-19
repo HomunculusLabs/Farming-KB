@@ -124,7 +124,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - haze lineage and genetic history — The iconic sativa lineage
 - cannabis landrace preservation — Conserving original genetic diversity

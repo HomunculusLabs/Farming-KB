@@ -113,7 +113,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[holmgren-melliodora-permaculture-demonstration-site-hepburn-springs]]
 - [[holmgren-permaculture-flower-conceptual-framework]]

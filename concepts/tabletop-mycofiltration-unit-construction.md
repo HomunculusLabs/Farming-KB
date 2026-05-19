@@ -115,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mycofiltration-membrane-construction]]
 - [[mycofiltration-of-chemical-runoff]]
 - [[stamets-king-stropharia-permaculture-mycofiltration]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

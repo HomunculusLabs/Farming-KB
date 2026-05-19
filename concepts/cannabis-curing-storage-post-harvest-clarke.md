@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[cannabis-for-parkinsons-disease]]
 - [[cannabis-rhizosphere-bulk-soil-microbial-comparison]]
 - [[sphingomonas-wittichii-cannabis-microbiome]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

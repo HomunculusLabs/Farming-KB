@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-cannabis-sativa-vs-cannabis-ruderalis]] vs [[cannabis-indica]] vs Cannabis Indica"
+title: Comparison Cannabis Sativa Vs Cannabis Indica
 created: 2026-04-28
 tags: [comparison, cannabis, botany, taxonomy]
 date: 2026-04-25

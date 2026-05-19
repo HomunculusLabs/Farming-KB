@@ -141,7 +141,6 @@ Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
 
-
 ## See Also
 - [[bloomfield-turkey-x-disease-aflatoxin-discovery-1960]]
 - [[composting]]

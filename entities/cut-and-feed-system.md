@@ -73,53 +73,8 @@ Reduces waste by converting surplus growth into stored or immediate feed resourc
 
 ## See Also
 
-- [Slurry Injection in Grasslands]([[slurry-injection-grassland]].md)
-- [Strip Grazing](strip-grazing.md)
-- [[mixed-livestock-rotation]](mixed-livestock-rotation.md)
-- [Leucaena (*Leucaena leucocephala*)](leucaena-leucocephala.md)
-
-## Overview
-
-Cut And Feed System represents an important component within sustainable design
-and ecological management systems. Understanding its role helps inform better
-integration strategies for diverse environments. The interactions between
-cut and surrounding ecological systems create complex
-feedback loops that enhance overall resilience.
-
-## Characteristics
-
-Key characteristics include adaptability to varying environmental conditions,
-integration potential with existing systems, and contribution to biodiversity
-and ecological function. Seasonal variations affect performance and management
-requirements. Regional differences necessitate site-specific approaches.
-
-## Practical Applications
-
-Cut And Feed System has several practical applications in sustainable systems.
-Integration with permaculture design principles enhances its utility.
-Consideration of local climate and soil conditions is essential.
-Multiple functions can be served within a single system design.
-
-## Management Considerations
-
-Effective management requires understanding of seasonal patterns and
-environmental feedback. Monitoring and adaptive management improve long-term
-outcomes. Integration with other system components maximizes benefits and
-reduces external input requirements over time.
-
-## Ecological Context
-
-The ecological relationships involving cut extend across
-multiple trophic levels and functional groups. Soil biology, water cycles, and
-energy flows are all relevant factors in understanding these connections.
-
-## Sustainability Considerations
-
-Sustainable management practices are important for cut and feed system.
-Biodiversity considerations should guide implementation decisions.
-Long-term ecological health depends on responsible stewardship and monitoring.
-
-## See Also
 - [[knf-poultry-feed-preparation]]
 - [[livestock-feed-formulation]]
+- [[mixed-livestock-rotation]]
 - [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]
+- [[slurry-injection-grassland]]

@@ -1,5 +1,5 @@
 ---
-title: "[[dighton-fungi-volcanic-glacier-primary-succession]] vs Secondary Succession"
+title: Comparison Primary Vs Secondary Succession
 tags: [ecology, succession, disturbance, restoration, pioneer-species]
 date: 2026-04-28
 updated: 2026-04-28

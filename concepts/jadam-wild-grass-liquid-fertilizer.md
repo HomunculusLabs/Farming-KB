@@ -116,3 +116,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[det]]
 - [[jadam-coexisting-with-wild-grass]]
 - [[jadam-cover-crop-wild-grass-symbiosis]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

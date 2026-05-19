@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[guzman-psilocybin-mushrooms-africa]]
 - [[neurotropic-fungi-taxonomic-misidentification-problems-guzman-1998]]
 - [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

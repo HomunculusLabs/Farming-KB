@@ -114,3 +114,7 @@ Aboriginal Australians managed their landscape through controlled burning, creat
 ## The Client and the Environment
 
 The designer's ultimate responsibility is to make the marriage between what the client wants and what the environment needs, looking out for the environment before looking after the client. Keep the swan, protect the emus, and still look after the client — using useful corridors, guarded gardens, and controlled access for wild elements rather than extermination.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

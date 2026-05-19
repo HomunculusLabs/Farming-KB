@@ -79,16 +79,3 @@ Four Season Farm demonstrates that year-round production is economically viable 
 | Heating | None (cold houses) or minimal propane (cool house) |
 
 ## See Also
-
-- Eliot Coleman
-- Barbara Damrosch
-- Cold House (Unheated Greenhouse)
-- Mobile Greenhouse
-- Floating Row Cover
-
-## See Also
-- [[coleman-wash-pack-infrastructure-four-season-farm|Coleman Wash Pack Infrastructure Four Season Farm]]
-- [[coleman-four-season-farm|Coleman Four Season Farm]]
-- four season farm
-- [[fukuoka-textdoc-four-types-of-diet-classification|Fukuoka Textdoc Four Types Of Diet Classification]]
-- [[fukuoka-natural-farming-four-principles|Fukuoka Natural Farming Four Principles]]

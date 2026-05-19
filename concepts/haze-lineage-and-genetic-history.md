@@ -115,3 +115,6 @@ Haze strains present specific challenges for indoor cultivation:
 - [[cannabis-sativa-taxonomy-botanical-classification]] — Sativa classification framework
 - cannabis landrace preservation — Original genetics behind Haze's parents
 - [[terpene-profiles-in-sativa-strains]] — Aroma chemistry of Haze-type strains
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

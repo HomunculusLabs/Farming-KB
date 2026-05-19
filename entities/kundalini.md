@@ -66,28 +66,15 @@ Environmental factors play a significant role in understanding this subject. Cha
 ## Community Impact
 
 The practical implications for communities and practitioners are substantial. Knowledge transfer and education remain important priorities for sustainable implementation.
+
 ## See Also
-- [[chikhai-bardo]]
-- [[r-c-zaehner]]
+
 - [[bardo-thodol]]
+- [[chikhai-bardo]]
+- [[first-bardo-ego-loss-clear-light]]
 - [[lama-govinda]]
-
-## Cultural and Historical Significance
-
-The study and understanding of kundalini connects to broader themes in
-mycology, ethnobotany, and the history of natural science. Documentation of
-this subject appears in both historical texts and contemporary research,
-reflecting ongoing interest in its properties and applications.
-
-Research into related organisms and concepts continues to expand, with modern
-molecular techniques providing new insights. Field observations complement
-laboratory studies, building a more complete picture of its ecological role
-and significance.
-
-## See Also
-
+- [[leary-psychedelic-bardo-model]]
 - [[leary-psychedelic-experience-bardo-mapping]]
 - [[psychedelic-experience-bardo-framework]]
-- [[leary-psychedelic-bardo-model]]
-- [[first-bardo-ego-loss-clear-light]]
 - [[psychedelic-experience-tibetan-bardo-framework]]
+- [[r-c-zaehner]]

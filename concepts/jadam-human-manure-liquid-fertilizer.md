@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[jadam-potassium-fertilizer]]
 - [[jadam-rice-bakanae-treatment]]
 - [[jadam-water-softener-pesticide]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

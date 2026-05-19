@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[earth-resources-and-materials]]
 - [[earth-respiration-mollison]]
 - [[earth-shaping-and-mulch-application-tropics]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

@@ -114,3 +114,7 @@ Mollison argues that primary yield increases from site design are not in the com
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
 - [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]]
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

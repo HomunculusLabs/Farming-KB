@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[organic-vegetable-garden-rotation-deep-beds]]
 - [[query-how-do-i-plan-and-start-a-vegetable-garden-from-scratch]]
 - [[vegetable-garden-harvest]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

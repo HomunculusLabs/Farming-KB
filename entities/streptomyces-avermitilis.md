@@ -15,7 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ikeda, H. et al. (2003). "Complete genome [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] analysis
+  - Ikeda, H. et al. (2003). "Complete genome eleusinian-initiation-ritual-sequence-and-comparative-mysteries analysis
     of the industrial microorganism Streptomyces avermitilis." Nature
     Biotechnology, 21(5), 526-531.
   - Ōmura, S. & Crump, A. (2004). "The life and times of ivermectin." Nature

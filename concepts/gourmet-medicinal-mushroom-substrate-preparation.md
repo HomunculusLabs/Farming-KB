@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[growing-gourmet-mushrooms-mycelium-mycopermaculture-ecological-landscaping]]
 - [[growing-gourmet-mycelial-morphology-classification-agar-media]]
 - [[growing-gourmet-poisonous-mushroom-lookalikes]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

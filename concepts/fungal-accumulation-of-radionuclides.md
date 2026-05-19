@@ -116,3 +116,5 @@ Radionuclides accumulated in fungi enter food webs through consumption:
 - [[fungal-resource-quality-and-enzyme-production]]
 - [[fungal-spawn-and-mycelium-growth]]
 - [[fungal-succession-soil-weathering]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

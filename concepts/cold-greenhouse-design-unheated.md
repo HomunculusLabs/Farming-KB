@@ -123,7 +123,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - deep organic soil management — Soil fertility practices for greenhouse growing
 - winter harvest scheduling — Crop scheduling for year-round production

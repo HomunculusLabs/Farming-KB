@@ -69,13 +69,12 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
+
+- [[fungal-woronin-bodies-and-septal-pore-organization]]
+- [[gregory-jedd]]
 - [[mushroom-cultivation]]
 - [[mycelial-networks]]
-- [[gregory-jedd]]
 - [[neurospora-crassa]]
-- [[fungal-woronin-bodies-and-septal-pore-organization]]
-## See Also
-
 - [[woronin-bodies-and-septal-pore-organization]]
 - [[woronin-bodies-multicellular-fungi]]
 - [[woronin-bodies-septal-pore-organelles]]

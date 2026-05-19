@@ -1,5 +1,5 @@
 ---
-title: "Lion's Mane [[comparison-chaga-vs-oyster-mushroom]]"
+title: Comparison Lions Mane Vs Oyster Cultivation
 tags: [comparison, lions-mane, oyster-mushroom, medicinal-mushrooms, mushroom-cultivation, hericium, pleurotus]
 date: 2026-05-11
 updated: 2026-05-11

@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-nft-vs-dwc]] [[comparison-dwc-vs-ebb-and-flow]] and Flow"
+title: Comparison Nft Vs Ebb And Flow
 created: 2026-04-28
 tags: [comparison, hydroponics, growing-methods, cannabis]
 date: 2026-04-25

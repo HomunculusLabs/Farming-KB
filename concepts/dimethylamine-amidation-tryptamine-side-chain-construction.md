@@ -116,3 +116,5 @@ The addition of anhydrous diethyl ether to maintain a liquid phase is an
 important practical detail for scaling the reaction, as complete
 solidification could make stirring impossible and lead to incomplete reaction.
 This solidification also indirectly confirms that the reaction is proceeding
+## Further Reading
+Continued research and field trials yield new insights into this subject.

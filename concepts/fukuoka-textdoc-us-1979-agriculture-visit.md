@@ -114,3 +114,7 @@ to spread natural farming beyond Japan. The errors he identified in American
 agriculture—dependence on petroleum energy, soil destruction through overgrazing
 and mechanization, the illusion of cheap food produced at vast scale—were the
 same errors being replicated throughout the developed and developing world.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

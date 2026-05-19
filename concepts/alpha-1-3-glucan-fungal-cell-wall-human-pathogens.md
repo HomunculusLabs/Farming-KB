@@ -117,3 +117,4 @@ Deletion or mutation of *AGS* genes, and their regulation, has been extensively 
 
 - [[fungal-bioweathering-rocks-minerals]] — Fungal cell walls in environmental contexts
 - [[functional-genomics-fungal-pathogens]] — Genomic approaches to fungal pathogenicity
+Ongoing developments continue to expand practical applications and theoretical understanding.

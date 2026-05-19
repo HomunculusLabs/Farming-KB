@@ -1,5 +1,5 @@
 ---
-title: Parisian Maraichage (French Intensive Market Gardening)
+title: [[parisian-maraichage-history]] (French [[coleman-french-maraicher-parisian-intensive-market-gardening]])
 source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 tags: [technique, historical, french, intensive-cultivation, market-gardening]
@@ -7,15 +7,15 @@ tags: [technique, historical, french, intensive-cultivation, market-gardening]
 
 ## Overview
 
-Parisian maraichage was the intensive system of market gardening practiced in and around Paris, France, from approximately 1850 to 1900. It represented the apex of pre-industrial vegetable production, achieving remarkable levels of productivity, sustainability, and year-round output on very small land areas using hand labor, horse manure hotbeds, and glass cloches. The system is a direct historical ancestor of modern intensive and four-season growing methods.
+Parisian maraichage was the intensive system of market gardening practiced in and around Paris, France, from approximately 1850 to 1900. It represented the apex of pre-industrial [[coleman-french-historical-winter-vegetable-production]], achieving remarkable levels of productivity, sustainability, and year-round output on very small land areas using hand labor, horse manure hotbeds, and glass cloches. The system is a direct historical ancestor of modern intensive and four-season growing methods.
 
 ## Historical Timeline
 
 | Period | Development |
 |--------|-------------|
-| 1670s-80s | La Quintinie pioneers season extension at Versailles potager using primitive cold frames |
+| 1670s-80s | La Quintinie pioneers season extension at [[coleman-la-quentinie-versailles-potager]] using primitive cold frames |
 | 1850-1900 | Golden age of Parisian maraichage - 600 hectares (~6% of Paris) in vegetable production |
-| 1869 | William Robinson publishes Parks and Gardens of Paris |
+| 1869 | [[william-robinson]] publishes Parks and Gardens of Paris |
 | 1898-99 | Prince Peter Kropotkin praises the system in Fields, Factories and Workshops |
 | 1905 | British market gardeners visit Paris; surge of interest in England |
 | 1910s-20s | Decline due to urbanization, loss of horse manure, chemical fertilizers |
@@ -68,7 +68,7 @@ The system was remarkably sustainable:
 - Energy powered entirely by decomposing horse manure (urban transportation by-product)
 - Composted manure maintained and increased soil fertility despite intensive production
 - Transportation waste fully recycled through the food system
-- Vincent Gressent observed in 1870 that pest problems were absent wherever copious
+- [[vincent-gressent]] observed in 1870 that pest problems were absent wherever copious
   compost use and rational crop rotations were practiced
 - Food produced within the city it fed (zero food miles)
 
@@ -107,17 +107,3 @@ protection approach prefigures modern [[mushroom-house-design]].
 | Path Width | 10 inches |
 
 ## See Also
-
-- Louis Savier
-- Eliot Coleman
-- La Quintinie
-- Vincent Gressent
-- William Robinson
-- Floating Row Cover
-
-## See Also
-- [[parisian-maraichage-history|Parisian Maraichage History]]
-- [[coleman-french-maraicher-parisian-intensive-market-gardening|Coleman French Maraicher Parisian Intensive Market Gardening]]
-- [[coleman-parisian-maraicher-system|Coleman Parisian Maraicher System]]
-- [[parisian-market-gardening|Parisian Market Gardening]]
-- [[french-market-gardening-maraichage|French Market Gardening Maraichage]]

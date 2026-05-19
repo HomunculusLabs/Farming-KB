@@ -62,41 +62,19 @@ The principles of ley farming are experiencing renewed interest as fertilizer co
 
 ## See Also
 
-- [Strip Grazing](strip-grazing.md)
-- [[mixed-livestock-rotation]](mixed-livestock-rotation.md)
-- [Slurry Injection in Grasslands]([[slurry-injection-grassland]].md)
-- [Trifolium (Clover)](trifolium-repens.md)
-- [Medicago (Lucerne/Alfalfa)](medicago-sativa.md)
-
-## Implementation Framework
-
-Ley farming systems require careful planning of crop and pasture rotations.
-The cycle typically involves 2-4 years of pasture followed by 1-2 years of arable crops.
-Soil nitrogen fixation during the pasture phase reduces need for synthetic fertilizers.
-Root development improves soil structure and water infiltration capacity.
-
-## Economic Considerations
-
-Ley farming reduces input costs through natural fertility building and pest suppression.
-Livestock integration provides diversified income streams alongside crop production.
-Long-term soil health improvements reduce vulnerability to market fluctuations.
-Transition periods require careful financial planning and risk management.
-
-## Environmental Benefits
-
-Carbon sequestration in pasture phases contributes to climate change mitigation.
-Enhanced biodiversity supports beneficial insect populations and pollinator services.
-Reduced erosion and improved water quality result from continuous ground cover.
-Soil organic matter accumulation improves nutrient cycling and retention.
-
-## Regional Adaptations
-
-Temperate regions favor grass-clover leys with cereal or root crop phases.
-Mediterranean climates require drought-tolerant pasture species selection.
-Tropical adaptations incorporate leguminous trees and cover crop systems.
-Local knowledge and experimentation optimize rotation sequences for each context.
-
-## See Also
 - [[fukuoka-critique-of-organic-farming]]
 - [[fukuoka-road-to-natural-farming]]
+- [[mixed-livestock-rotation]]
 - [[natural-farming-principles]]
+- [[slurry-injection-grassland]]
+
+## Practical Applications
+
+Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
+## Key Considerations
+
+Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
+
+## Mechanisms and Processes
+
+Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.

@@ -121,7 +121,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - bigwood-beug-psilocybin-psilocin-variation-analysis - Full analysis of flush-to-flush variation
 - [[psilocybe-cubensis]] - Species overview and cultivation

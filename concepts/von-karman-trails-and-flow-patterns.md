@@ -115,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[von-karman-trail]]
 - [[von-karman-trails-and-ekman-spirals]]
 - [[von-karman-trails-and-fluid-flow-patterns]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

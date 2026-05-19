@@ -40,16 +40,14 @@ Research in this area draws on multidisciplinary approaches combining field obse
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
 ## See Also
-- [[spore-syringe-preparation-sterile-technique-mushroom-cultivation]]
-- [[forest-bamboo-plant-specific-microorganism-culturing]]
-- [[spore-syringe-preparation-sterile-technique-mushroom-cultivation]]
-- [[comparison-mushroom-liquid-culture-vs-spore-syringe]]
-- [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]
 
-## See Also
+- [[comparison-mushroom-liquid-culture-vs-spore-syringe]]
+- [[forest-bamboo-plant-specific-microorganism-culturing]]
 - [[indigenous-microorganisms]]
-- [[natural-farming]]
 - [[korean-natural-farming]]
+- [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]
+- [[natural-farming]]
+- [[spore-syringe-preparation-sterile-technique-mushroom-cultivation]]
 
 ## Overview
 

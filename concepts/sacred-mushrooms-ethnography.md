@@ -117,3 +117,4 @@ This division underscores the outsized impact that ethnographic research on psyc
 - [[psilocybe-genus-distribution]]
 - [[psilocybin-chemistry]]
 - [[maria-sabina]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

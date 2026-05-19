@@ -73,21 +73,18 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[marlene-dobkin-de-rios]]
-- [[mal-de-ojo]]
-- [[hallucinogens-and-shamanism]]
-- [[belen-iquitos-slum]]
-- [[urban-ayahuasca-iquitos-healing]]
-## See Also
 
-- [[iquitos]]
 - [[ayahuasca]]
 - [[ayahuasca-ceremony]]
-- [[marlene-dobkin-de-rios]]
-- [[susto]]
+- [[belen-iquitos-slum]]
 - [[dano]]
-- [[pulsario]]
+- [[hallucinogens-and-shamanism]]
+- [[iquitos]]
 - [[mal-de-ojo]]
+- [[marlene-dobkin-de-rios]]
+- [[pulsario]]
+- [[susto]]
+- [[urban-ayahuasca-iquitos-healing]]
 
 ## References
 

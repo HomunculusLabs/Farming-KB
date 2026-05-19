@@ -115,3 +115,6 @@ See also: [[shulgin-dosage-guidelines]], [[pihkal-introduction-and-methodology]]
 ## Related
 
 - [[pihkal-qualitative-effects-themes]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

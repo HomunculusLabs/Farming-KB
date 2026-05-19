@@ -117,3 +117,4 @@ The concept of [[psychedelic-mushroom-set-and-setting|set and setting]] applies 
 - [[psychedelic-mushroom-set-and-setting]] for the set and setting framework
 - [[psilocybin-therapeutic-applications]] for clinical integration models
 - [[psychedelic-harm-reduction]] for safety practices
+Ongoing developments continue to expand practical applications and theoretical understanding.

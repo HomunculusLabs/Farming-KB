@@ -117,3 +117,4 @@ The production of inhibitory metabolites and wall-degrading hydrolytic enzymes i
 - [[lichenicolous-fungi]]
 - [[fungal-mycoparasitism-and-biocontrol-interactions]]
 - [[trichoderma-and-biocontrol-fungi]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

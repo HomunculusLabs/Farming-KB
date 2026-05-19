@@ -115,3 +115,6 @@ yield is arguably more important than total weight harvested.
 ## See Also
 
 - [[variety-trials-seed-company-quality-solomon]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

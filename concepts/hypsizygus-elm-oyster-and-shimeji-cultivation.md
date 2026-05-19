@@ -116,3 +116,5 @@ The compatibility of *Hypsizygus* with mycorrhizal fungi is particularly notewor
 - **Contamination during browning:** While *Hypsizygus* does not have the same pronounced browning phase as shiitake, exposed mycelial blocks can be vulnerable to green mold (*Trichoderma* spp.) during the transition from incubation to fruiting. Maintain strict hygiene during this period.
 - **Low humidity causing cracked caps:** Shimeji in particular can develop cracked or split caps if humidity fluctuates significantly during fruiting. Consistent fogging or misting is essential for market-quality appearance.
 - **Strain degeneration:** Avoid expanding spawn more than five generations on the same media to prevent loss of vigor and reduced yields. Regularly refresh cultures from fresh isolations or purchased spawn.
+## Further Reading
+Continued research and field trials yield new insights into this subject.

@@ -124,7 +124,6 @@ Humid tropical environments pose significant health challenges including skin ca
 
 James Fox's analysis of Indonesian palm polycultures (1977) demonstrates that ancient tropical civilisations achieved remarkable stability through sustainable land use patterns. The FAO has acknowledged failure in transferring mechanised monocultural systems — barely sustainable even in temperate moist areas — to fragile tropical soils. Complex perennial fodder and food systems are known to be stable but remain outside mainstream agricultural funding. What is needed is continuous local education of experienced people and lateral transfer of their evolved skills.
 
-
 ## See Also
 - [[nitrogen-fixing-trees-and-shrubs]]
 - [[mulching-guide]]

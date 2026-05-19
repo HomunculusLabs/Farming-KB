@@ -116,3 +116,5 @@ Coastal permaculture design should consider:
 8. **Water management** — Fresh water may be limited; select drought-adapted species alongside salt-tolerant ones
 ## See Also
 - [[coastal-edible-plants-permaculture]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

@@ -120,7 +120,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[jadam-cover-crop-soil-temperature-management]]
 - [[fukuoka-no-pesticides-principle-seeing-nature-wholistic]]

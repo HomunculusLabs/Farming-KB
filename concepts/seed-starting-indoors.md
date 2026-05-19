@@ -117,3 +117,4 @@ Solomon's [[transplanting-technique]]:
 - [[soil-testing-and-analysis]] — Soil and nutrients for seed starting
 - [[vegetable-garden-guide]] — Crop-specific timing and variety recommendations
 - [[vegetable-growing-guide]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

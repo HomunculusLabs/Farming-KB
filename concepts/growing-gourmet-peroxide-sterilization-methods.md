@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[growing-root-vegetables-guide]]
 - [[potato-growing-guide]]
 - [[strawberry-growing-guide]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

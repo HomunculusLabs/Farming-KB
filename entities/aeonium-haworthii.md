@@ -72,10 +72,8 @@ Aeonium decorum has more open rosettes and white to pink flowers, also native to
 
 ## See Also
 
-- [[senecio-haworthii]]
-
-## See Also
 - [[hamilton-annual-flowers-organic]]
+- [[senecio-haworthii]]
 
 ## Overview
 

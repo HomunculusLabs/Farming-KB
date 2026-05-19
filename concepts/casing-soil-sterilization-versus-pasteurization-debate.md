@@ -117,3 +117,4 @@ Contemporary research continues to explore the underlying principles and effecti
 - [[sterilization]]
 - [[det]]
 - [[spore]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

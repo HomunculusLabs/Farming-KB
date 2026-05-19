@@ -82,11 +82,8 @@ Camu camu is most notable for its extraordinary vitamin C content:
 - **Anthocyanins:** 50–200 mg/100g, primarily cyanidin-3-glucoside
 
 ## See Also
-- dighton-fungal-nutritional-composition-animal-diets
-- nut-tree-cultivation-for-[[permaculture]]-food-forests
-- query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle
 
-## See Also
-- [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]
 - [[dighton-fungal-nutritional-composition-animal-diets]]
+- [[permaculture]]
 - [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
+- [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]

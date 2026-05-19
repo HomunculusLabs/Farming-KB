@@ -60,16 +60,15 @@ This subject has relevance across multiple disciplines and applications. Underst
 Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
 
 ## See Also
-- [[straw-substrate-yeast-extract-mushroom-cultivation-preparation]]
-- [[straw-substrate-preparation-mushroom-cultivation]]
+
+- [[cannabis-advanced-refinement-fractional-distillation]]
+- [[chaga]]
 - [[emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-potency-variability-2006]]
 - [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[cannabis-advanced-refinement-fractional-distillation]]
-
-## See Also
 - [[saccharomyces-cerevisiae]]
 - [[sterilization]]
-- [[chaga]]
+- [[straw-substrate-preparation-mushroom-cultivation]]
+- [[straw-substrate-yeast-extract-mushroom-cultivation-preparation]]
 
 ## Overview
 

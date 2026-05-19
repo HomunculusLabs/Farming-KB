@@ -116,3 +116,5 @@ use of ayahuasca.
 
 - [[mckenna-television-as-electronic-drug-media-narcotic]]
 - [[mckenna-food-of-the-gods-thesis]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

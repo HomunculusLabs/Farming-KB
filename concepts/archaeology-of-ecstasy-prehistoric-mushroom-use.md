@@ -108,7 +108,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[soma-and-the-sacred-mushroom-debate]]
 - mushroom-polymorphous-symbolism
@@ -117,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mckenna-tryptamine-ecstasy-and-platonic-eternity]]
 - [[shamanism-as-archaic-technique-of-ecstasy]]
 - [[teonanacatl-aztec-codices-archaeology]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

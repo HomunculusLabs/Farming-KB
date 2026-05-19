@@ -129,7 +129,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] — full analysis
 - [[cannabis-rhizosphere-bulk-soil-similarity-endorhiza-divergence]] — compartment comparison

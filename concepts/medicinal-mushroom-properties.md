@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 - [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]
 - [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

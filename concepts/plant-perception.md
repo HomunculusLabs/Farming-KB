@@ -115,3 +115,6 @@ Plants exhibit forms of memory:
 - [[cannabis-flowering-stage]] — photoperiod control for flowering
 - [[cannabis-pest-management]] — plant defense responses to pest attack
 - [[soil-food-web-nutrient-cycling]] — chemical signaling in the root zone
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

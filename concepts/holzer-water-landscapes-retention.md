@@ -140,7 +140,6 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 
-
 ## See Also
 - [[holzer-ten-step-plan-world-hunger]] for the broader strategy
 - [[det]]

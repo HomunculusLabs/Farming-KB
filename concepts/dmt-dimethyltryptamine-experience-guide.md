@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[dimethyltryptamine-n-oxide]]
 - [[dmt-nn-dimethyltryptamine]]
 - [[dmt-nn-dimethyltryptamine-comprehensive]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

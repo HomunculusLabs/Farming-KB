@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[query-how-to-grow-king-stropharia-garden-giant-mushrooms]]
 - [[stamets-king-stropharia-garden-giant-cultivation-stamets]]
 - [[stamets-king-stropharia-permaculture-mycofiltration]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

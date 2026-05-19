@@ -114,3 +114,7 @@ The diversity of mycoparasitic mechanisms across Basidiomycota and Zygomycota re
 ## Related
 - [[mycoparasitic-zygomycota-and-ascomycota]]
 - [[fungal-mycoparasitism-and-biocontrol-interactions]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

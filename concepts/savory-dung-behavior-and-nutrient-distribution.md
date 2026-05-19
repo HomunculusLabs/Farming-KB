@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[savory-holistic-management-overview]]
 - [[savory-mineral-cycle-management]]
 - [[savory-reductionist-vs-holistic-science]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

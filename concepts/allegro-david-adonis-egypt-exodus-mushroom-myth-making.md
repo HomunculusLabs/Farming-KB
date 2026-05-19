@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[allegro-womans-part-in-the-creative-process]]
 - [[allegro-zealots-sicarii-masada-drug-cult-revolts]]
 - [[john-allegro]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

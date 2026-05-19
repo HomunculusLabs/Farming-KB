@@ -128,7 +128,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 [[syrian-rue-peganum-harmala-ethnobotany]] — [[turner-harmala-alkaloids-preparation-and-dosage]]
 - [[cultural-evolution-and-psychoactive-substances]]

@@ -117,3 +117,4 @@ This test also reveals the uniformity (or lack thereof) of your sprinkler's dist
 - [[sprinkler-irrigation-methods]]
 - [[fertigation-techniques]]
 - [[intensive-vs-extensive-gardening-water-philosophy]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

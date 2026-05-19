@@ -110,7 +110,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 Understanding the practical applications of this topic requires considering both theoretical frameworks and real-world implementation challenges.
 
-
 ## See Also
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

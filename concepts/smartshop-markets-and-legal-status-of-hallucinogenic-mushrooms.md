@@ -112,7 +112,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]]
 - [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]

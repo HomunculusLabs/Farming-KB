@@ -88,10 +88,8 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[mescalero-apache]]
-## See Also
 
-- [[mescalero-apache]] — potential recipients of Tonkawa peyote knowledge
-- [[lipan-apache]] — alternative transmission pathway
-- [[carrizo-indians]] — another peyote source group
-- [[antonio-apache]] — informant documenting transmission routes
+- [[antonio-apache]]
+- [[carrizo-indians]]
+- [[lipan-apache]]
+- [[mescalero-apache]]

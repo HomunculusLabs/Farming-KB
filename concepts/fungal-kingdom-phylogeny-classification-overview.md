@@ -116,3 +116,5 @@ and the integration of genome-scale data into fungal classification systems.
 
 - [[fungal-biodiversity-similarity-indices-beta-diversity]]
 - [[environmental-dna-metabarcoding-fungi]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

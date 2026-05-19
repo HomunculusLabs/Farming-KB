@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[dighton-soil-fungal-biodiversity-assessment]]
 - [[yeast-biodiversity-isolation-ecology]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

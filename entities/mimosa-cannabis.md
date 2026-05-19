@@ -1,5 +1,5 @@
 ---
-title: Mimosa ([[blesching-cannabis-strain-selection-receptor-targeting]])
+title: Mimosa Cannabis
 created: 2026-04-28
 type: strain
 tags:

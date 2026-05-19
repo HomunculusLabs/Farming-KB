@@ -1,5 +1,5 @@
 ---
-title: [[clay-pellet-seeding-technique]]
+title: Clay Pellet Seeding
 source: masanobu-fukuoka-fukuoka.md
 type: entity
 tags: [technique, natural-farming, seed-treatment, direct-seeding, fukuoka]

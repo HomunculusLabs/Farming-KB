@@ -140,7 +140,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[mckenna-food-gods-cannabis-culture-dreaming-weavers]]
 - [[permaculture-plants-nitrogen-fixing-trees]]

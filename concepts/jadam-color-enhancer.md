@@ -117,7 +117,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[decomposition]]
 - [[cannabis-light-spectrum-and-color-bands]]

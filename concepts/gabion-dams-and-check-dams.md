@@ -120,7 +120,6 @@ In eroding gullies, strong wire gabion baskets containing stones or shingle are 
 
 The combination of gabion check dams, silt traps, diversion structures, and carefully planned earth storage represents a comprehensive approach to watershed management that works with natural processes rather than against them.
 
-
 ## See Also
 - [[comparison-gabions-vs-check-dams]]
 - [[dam-spillways-and-sealing-leaky-dams]]

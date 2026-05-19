@@ -68,13 +68,13 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[gardening-when-it-counts]]
-- [[steve-solomon]]
-- [[oyster-mushroom]]
-- [[wine-cap]]
-- [[mushroom-inoculation]]
-## See Also
 
+- [[gardening-when-it-counts]]
+- [[mushroom-inoculation]]
+- [[oyster-mushroom]]
+- [[plant-propagation]]
 - [[seed-company-supplier-reference]]
 - [[seed-saving-techniques]]
-- [[plant-propagation]]
+- [[steve-solomon]]
+- [[wine-cap]]
+Further research may reveal additional applications and ecological relationships.

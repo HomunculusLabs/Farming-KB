@@ -139,7 +139,6 @@ systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
-
 ## See Also
 - Ascomycetes and Yeast
 - bloomfield-ascobolus-ascomycete-fruiting-body-evolution-ascus-discharge-dung|Ascobolus Ascus Discharge

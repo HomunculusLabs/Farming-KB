@@ -117,7 +117,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[mckenna-food-gods-reko-schultes-mexican-mushroom-discovery]]
 - [[mckenna-food-gods-minoan-crete-mushroom-religion]]

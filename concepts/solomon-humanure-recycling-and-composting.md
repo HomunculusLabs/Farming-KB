@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[solomon-harvesting-techniques-and-timing]]
 - [[solomon-seed-germination-science-laboratory-methods]]
 - [[solomon-soil-testing-laboratory-analysis-low-input-gardening]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

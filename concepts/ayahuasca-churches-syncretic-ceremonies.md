@@ -115,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[ayahuasca-chullachaki-forest-spirits-huairamama-wind-serpent]]
 - [[ayahuasca-diy-home-brewing-as-tourism-alternative]]
 - [[ayahuasca-visions]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

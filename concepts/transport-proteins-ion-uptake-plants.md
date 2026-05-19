@@ -115,3 +115,6 @@ Certain **hormones** also travel through the xylem, including chemical signals t
 ## Summary
 
 Nutrient uptake across the plasmalemma is governed by three classes of transport proteins: channels (passive, extremely fast, gated), carriers (binding-dependent, moderate speed, capable of active transport via symporters and antiporters), and pumps (ATP-powered, creating gradients). The tonoplast coordinates with the plasmalemma to maintain cytosolic pH around 7.2 by sequestering excess hydrogen ions in the vacuole. Anions and micronutrients typically require active transport against concentration gradients, while some cations enter passively by diffusion. Once inside the root, nutrients travel via symplastic and apoplastic pathways to the xylem, where transpiration and root pressure drive their distribution throughout the plant. The entire system demonstrates the remarkable precision and efficiency of plant cellular machinery.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

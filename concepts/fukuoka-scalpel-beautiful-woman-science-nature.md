@@ -116,3 +116,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[det]]
 - [[fukuoka-textdoc-science-fragmentation-blind-men-elephant-nature]]
 - [[fukuoka-sericulture-nature-vs-science]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

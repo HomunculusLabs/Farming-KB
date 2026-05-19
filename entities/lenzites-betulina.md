@@ -114,8 +114,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[fomitopsis-betulina]]
-
-## See Also
 - [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
+- [[fomitopsis-betulina]]
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]

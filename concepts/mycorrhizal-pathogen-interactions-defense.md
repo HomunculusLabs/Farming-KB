@@ -116,3 +116,5 @@ Mycorrhizal-pathogen interactions add a critical dimension to our understanding 
 - [[mycorrhizal-community-feedback-plant-pathogens]]
 - [[mycorrhizae-plant-fitness]]
 - [[saprotroph-pathogen-biocontrol-interactions]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

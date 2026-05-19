@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[permaculture-plants-aquatic-and-wetland-species]]
 - [[permaculture-zone-and-sector-planning]]
 - [[system-yield-permaculture-design]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fukuoka-textdoc-four-types-of-diet-classification]]
 - [[fukuoka-textdoc-laying-waste-land-sea]]
 - [[natural-farming-fukuoka]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

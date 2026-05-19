@@ -114,3 +114,7 @@ This closed-loop system is recommended for every bioregion where forests are to 
 
 ### Bioregional Planning
 Part of bioregional planning must include keeping monocultures of inflammable trees to uninhabited ridgetops, or better, scattering such stands throughout grazed or wet-forested areas where they can be managed with fuel reduction programs.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.
+Cross-disciplinary approaches offer promising avenues for further investigation.

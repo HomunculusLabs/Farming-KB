@@ -1,5 +1,5 @@
 ---
-title: Granitic [[arid-landscape-permaculture]]
+title: Granitic Landscape Permaculture Mollison
 source: bill-mollison-permaculture-design-course.md
 type: entity
 ---

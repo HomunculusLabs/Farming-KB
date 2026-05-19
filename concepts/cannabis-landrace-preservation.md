@@ -130,7 +130,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - cannabis sativa taxonomy botanical classification — Taxonomic framework for cannabis
 - haze lineage and genetic history — Landrace genetics in the most influential hybrid

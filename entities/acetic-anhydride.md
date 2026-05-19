@@ -46,16 +46,14 @@ The compound exhibits characteristic reactivity patterns determined by its molec
 Detection and quantification utilize spectroscopic, chromatographic, and colorimetric techniques. Standardized testing protocols ensure reproducible and reliable results across laboratories.
 
 ## See Also
-- [[plant-olfaction-volatile-organic-compound-signaling]]
-- [[psilocybin-mushroom-dose-potency-acute-effects-emcdda-2006]]
-- [[plant-olfaction-volatile-organic-compound-signaling]]
-- [[plant-olfaction-and-volatile-signaling]]
-- [[emcdda-psilocybin-mushroom-potency-species-comparison-dosage-guidelines]]
 
-## See Also
-- [[psilocin]]
+- [[emcdda-psilocybin-mushroom-potency-species-comparison-dosage-guidelines]]
 - [[mycotoxins]]
+- [[plant-olfaction-and-volatile-signaling]]
+- [[plant-olfaction-volatile-organic-compound-signaling]]
+- [[psilocin]]
 - [[psilocybin]]
+- [[psilocybin-mushroom-dose-potency-acute-effects-emcdda-2006]]
 
 ## Overview
 

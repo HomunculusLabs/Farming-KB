@@ -72,13 +72,11 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[fungal-biodiversity]]
-- [[fungal-ecology]]
-- [[magic-mushrooms-british-underground]]
-- [[london-underground-and-british-magic-mushroom-discovery]]
-- [[robert-graves-british-mushroom-connection]]
-## See Also
 
+- [[fungal-biodiversity]]
 - [[fungal-biology-fundamentals]]
 - [[fungal-ecology]]
+- [[london-underground-and-british-magic-mushroom-discovery]]
+- [[magic-mushrooms-british-underground]]
+- [[robert-graves-british-mushroom-connection]]
 - [[sarah-watkinson]]

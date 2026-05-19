@@ -116,3 +116,5 @@ The elegant solution to flat land water problems is making slopes, raising tanks
 ## Design Philosophy
 
 Mollison emphasizes that you cannot give a general approach to flatlands. Instead, the designer must study the specific flora, understand the client's priorities (privacy, noise, water, views), and build solutions from the available earth, water, and vegetation. The three case studies presented demonstrate entirely different approaches to the same basic condition of flat topography, each tailored to the unique problems and desires of the client.
+## Further Reading
+Continued research and field trials yield new insights into this subject.

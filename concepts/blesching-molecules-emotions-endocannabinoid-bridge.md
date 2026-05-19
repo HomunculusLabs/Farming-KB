@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[blesching-cannabis-skin-diseases]]
 - [[blesching-cannabis-therapeutic-window-methodology]]
 - [[cbd-faah-inhibition-anandamide-preservation-blesching]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

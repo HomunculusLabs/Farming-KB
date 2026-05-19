@@ -1,5 +1,5 @@
 ---
-title: Sterile [[comparison-spore-print-collection-vs-spore-syringe-production]] Glass [[cannabis-curing-jar-technique]]
+title: Sterile Spore Print Collection Glass Jar Technique
 source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
 tags: [mushroom-cultivation, spore-print, sterile-technique, jarrold, spore-collection, genetics]
 created: 2026-05-09

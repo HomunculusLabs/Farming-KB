@@ -126,7 +126,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[ayahuasca]] — DMT-MAOI brew traditions of the Amazon
 - pineal gland dmt — Endogenous DMT production in the human brain

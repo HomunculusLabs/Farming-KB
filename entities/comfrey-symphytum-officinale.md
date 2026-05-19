@@ -1,5 +1,5 @@
 ---
-title: [[comfrey]] Symphytum Officinale
+title: Comfrey Symphytum Officinale
 type: species
 tags:
   - [[permaculture]]

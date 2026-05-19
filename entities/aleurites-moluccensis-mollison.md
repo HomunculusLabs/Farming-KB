@@ -79,13 +79,10 @@ Bill Mollison, *Permaculture: A Designers' Manual* (Tagari Publications, 1988), 
 
 ## See Also
 
-- [[permaculture-plants-comfrey-chop-and-drop]]
-- [[soil-ph]]
-
-## See Also
-
-- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
-- [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
 - [[humus-soil-amendment-mollison]]
 - [[minamata-disease-mollison]]
+- [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
+- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
 - [[mollison-drought-proofing-strategies]]
+- [[permaculture-plants-comfrey-chop-and-drop]]
+- [[soil-ph]]

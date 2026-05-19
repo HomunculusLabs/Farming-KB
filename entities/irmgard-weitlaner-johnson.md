@@ -38,40 +38,12 @@ The Weitlaner-Johnson family represents a remarkable dynasty of researchers conn
 Irmgard Weitlaner Johnson's participation in the 1962 expedition connected the earlier generation of mushroom cult researchers (her father and husband) with the new era of chemical investigation (Hofmann) and international documentation (Wasson). Her expertise in Indian textiles provided an additional cultural dimension to the expedition's understanding of Mazatec material culture. The family's sustained engagement with Mexican psychoactive plant traditions over three decades demonstrates the importance of long-term scholarly commitment to understanding indigenous plant medicine practices.
 
 ## See Also
+
+- [[albert-hofmann]]
+- [[herlinda-martinez-cid]]
 - [[huautla-de-jimenez]]
 - [[maria-sabina]]
 - [[sierra-mazateca]]
-- [[albert-hofmann]]
-- [[herlinda-martinez-cid]]
-
-- Maria Sabina - curandera whose ceremony she attended
-- Albert Hofmann - expedition leader
-- R. Gordon Wasson - expedition organizer
-- Huautla de Jimenez - the Mazatec town central to the expedition
-## The Land Journey to Sierra Mazateca
-
-The journey to the Sierra Mazateca that Johnson participated in was a two-day expedition in a Land Rover from Mexico City, passing the snow-capped Popocatepetl, through Puebla, down into the Valley of Orizaba with its tropical vegetation, across the Papaloapan (Butterfly River) by ferry, through the former Aztec garrison Tuxtepec, to the Mazatec village of Jalapa de Diaz. From there, the party continued on mules through the Sierra Mazateca, passing tropical forests, clearings with banana groves and coffee plantations, and the broad riverbed of the Rio Santo Domingo. This arduous journey illustrates the logistical challenges of conducting ethnopharmacological research in remote indigenous regions.
-
-## The Mushroom Ceremony Experience
-
-Johnson received one psilocybin pill during the ceremony with Maria Sabina and experienced "a euphoric condition of inebriation" that was "influenced by the strange, mystical atmosphere." Her experience, alongside those of Hofmann, Wasson, and Hofmann's wife Anita, provided multiple perspectives on the effects of synthetic psilocybin administered in a traditional ceremonial context. The combination of Western scientific observation with authentic Mazatec ceremonial practice made this session uniquely valuable for understanding both the pharmacological and cultural dimensions of the psychedelic experience.
-
-## The Mule Journey Through Sierra Mazateca
-
-The expedition from Jalapa de Diaz into the Sierra Mazateca was conducted on mules, which Hofmann described as "the most ideal type of travel that I know of." The party consisted of guide Guadelupe, the four expedition members (Hofmann, his wife Anita, Wasson, and Johnson), and two young fellows named Teodosio and Pedro who ran barefoot alongside the baggage mules. The route followed the Rio Santo Domingo through tropical forests, clearings, and steep mountain paths. During a tropical downpour, the party used long oilcloth ponchos, while the Indian guides protected themselves with gigantic heart-shaped leaves chopped from the roadside. The first night was spent at La Providencia ranch with Don Joaquin Garcia, where Hofmann awoke to find a pig grunting over his face.
-
-## Accommodations in Ayautla
-
-The party lodged in Ayautla with Dona Donata Sosa de Garcia, who managed a large family, an ailing husband, and the regional coffee cultivation. Hofmann described the scene of young Indian women returning from the coffee harvest in bright garments adorned with colored borders, carrying coffee sacks on their backs by headbands. The thatched huts with walls of wooden poles, open fireplaces on stamped clay floors, and shared living with domestic animals represented the everyday reality of Mazatec life that formed the context for the sacred plant medicine ceremonies the expedition sought to document.
-
-## See Also
-
-- Maria Sabina - curandera whose ceremony she attended
-- Albert Hofmann - expedition leader
-- R. Gordon Wasson - expedition organizer
-- Herlinda Martinez Cid - interpreter and fellow participant
-- Robert J. Weitlaner - her father, pioneer of mushroom cult rediscovery
-- Jean B. Johnson - her husband, killed in World War II
 
 ## The Weitlaner Legacy
 
@@ -84,3 +56,25 @@ Johnson's professional expertise in Indian textiles provided an often overlooked
 ## The Transformative Impact on Mazatec Country
 
 Johnson witnessed firsthand the beginning of the transformation of Mazatec country that followed the publication of the Wassons' work on the sacred mushrooms. Hofmann described how the publication had "unleashed an invasion of hippies and drug seekers into the Mazatec country, many of whom behaved badly, some even criminally." The development of tourism in Huautla de Jimenez eradicated the originality of the place, while Maria Sabina's house had been burned by residents angered or envious that she had divulged the secret of teonanacatl to strangers. These consequences illustrate the complex ethical dilemmas inherent in ethnopharmacological research and the difficulty of balancing the advancement of scientific knowledge with the preservation of indigenous cultural traditions. The Weitlaner-Johnson family's long engagement with these communities makes this tension particularly poignant in their case.
+
+## Practical Applications
+
+Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
+## Key Considerations
+
+Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
+## Comparative Analysis
+
+Examining this topic alongside related approaches reveals complementary strategies and unique advantages. Multiple perspectives enrich understanding and inform better decision-making.
+
+## Mechanisms and Processes
+
+Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## Management Approaches
+
+Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
+## Performance Metrics
+
+Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
+
+Understanding these principles enables more effective application in diverse contexts.

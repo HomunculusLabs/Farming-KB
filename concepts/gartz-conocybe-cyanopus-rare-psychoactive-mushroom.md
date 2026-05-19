@@ -139,7 +139,6 @@ Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
 
-
 ## See Also
 - [[conocybe-cyanopus]]
 - [[gaston-guzman]]

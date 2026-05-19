@@ -116,3 +116,5 @@ For secondary decomposers (button mushrooms, etc.):
 2. Ensure starting nitrogen content in correct range (1.5-1.7%)
 3. Periodic sampling and nitrogen testing via soil test kit or university analysis
 4. Adjust ratios as needed based on test results
+## Further Reading
+Continued research and field trials yield new insights into this subject.

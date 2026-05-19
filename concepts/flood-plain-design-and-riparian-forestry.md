@@ -116,3 +116,5 @@ Riparian design does not exist in isolation. Flood plains connect upland catchme
 - **Lateral connections**: How does the riparian zone interact with adjacent terrestrial ecosystems?
 
 This systems perspective ensures that riparian interventions contribute positively to the broader landscape rather than creating unintended consequences in connected systems.
+## Further Reading
+Continued research and field trials yield new insights into this subject.

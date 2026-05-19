@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[san-francisco-yarina-shipibo-ayahuasca-ceremonial-center]]
 - [[shipibo-ayahuasca-traditions]]
 - [[shipibo-people-and-ayahuasca-tradition]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

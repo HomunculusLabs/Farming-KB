@@ -70,12 +70,11 @@ Emerging applications span ecological management, therapeutic protocols, and mat
 
 ## See Also
 
+- [[acetic-anhydride]]
+- [[isomerization-cannabis]]
+- [[lemon-cannabis-alchemy-advanced-refinement-techniques]]
+- [[lemon-cannabis-alchemy-thc-extraction-purification]]
+- [[tetrahydrocannabinol]]
 - [[thc-bomb]]
 - [[thc-o-acetate]]
-
-## See Also
-- [[lemon-cannabis-alchemy-thc-extraction-purification]]
-- [[lemon-cannabis-alchemy-advanced-refinement-techniques]]
-- [[tetrahydrocannabinol]] — parent compound
-- [[acetic-anhydride]] — key reagent
-- [[isomerization-cannabis]] — preceding step (CBD → THC, low-rotating → high-rotating)
+Further research may reveal additional applications and ecological relationships.

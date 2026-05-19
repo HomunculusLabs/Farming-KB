@@ -137,7 +137,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - **[[cannabis-oil-extraction]]** — The prerequisite process for obtaining the purified cannabis oil used in both hashish making and flower potentiation.
 - **Cannabinoid isomerization** — Converting CBD to THC to increase the potency of extracted oil before it is used in hashish production.

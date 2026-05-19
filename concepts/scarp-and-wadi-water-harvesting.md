@@ -117,3 +117,4 @@ Modern research continues to validate and expand upon traditional uses.
 - [[gadd-lichens-water-relations-symbiosis]]
 - [[scarp-and-wadi-water-harvesting-systems]]
 - [[water-storage-scarp-wadi-landscapes]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

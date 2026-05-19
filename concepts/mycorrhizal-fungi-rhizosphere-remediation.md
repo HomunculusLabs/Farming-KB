@@ -126,7 +126,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[combined-biological-remediation-approaches]] — multi-organism remediation strategies
 - [[singh-mycorrhizal-fungi-rhizosphere-remediation]] — Author-specific treatment of the same topic

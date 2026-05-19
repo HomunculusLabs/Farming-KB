@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fungal-endemism-host-specificity]]
 - [[fungal-metal-transformations-biosorption]]
 - [[fungal-nutrient-cycling-forests]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

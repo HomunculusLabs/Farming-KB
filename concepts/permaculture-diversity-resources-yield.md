@@ -116,3 +116,5 @@ The probability of species extinction is greatest at both very high and very low
 
 No human society dependent on its own genetic health can persist below approximately 300 individuals, and not even at that number without rigorous genetic management. High-density populations accumulate genetic disasters and mutations. Both extremes are dangerous, and the factor of number is one that most [[holmgren-community-design-and-intentional-communities]] ignore.
 - [[mollison-co-action-analysis-and-species-interaction-in-guild-design]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

@@ -117,3 +117,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[ingham-foliar-pest-deterrence-aact]]
 - [[ingham-osmotic-shock-sugar-selection-bacteria-fungi]]
 - [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

@@ -117,3 +117,4 @@ Savier's progression from organic to biodynamic practices represents an interest
 - [[coleman-parisian-maraicher-system]]
 - [[coleman-french-intensive-bed-method]]
 - [[parisian-market-gardening]]
+Ongoing developments continue to expand practical applications and theoretical understanding.

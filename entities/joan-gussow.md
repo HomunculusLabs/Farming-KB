@@ -67,9 +67,6 @@ Joan Gussow's relevance to cultivation comes through the connection between farm
 
 ## See Also
 
-- [Deep-Organic Farming](deep-organic-farming.md)
-- [Eliot Coleman](eliot-coleman.md)
-## See Also
 - [[barry-commoner]]
 
 ## Practical Applications
@@ -79,3 +76,5 @@ and organic growing systems. Growers and researchers have developed
 practical methods for implementation across diverse climate zones.
 Understanding these applications helps integrate the concept into
 broader farming and gardening practice.
+
+Understanding these principles enables more effective application in diverse contexts.

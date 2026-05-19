@@ -116,3 +116,5 @@ The development of a systematic taxonomy of empathogen effects would significant
 - [[default-mode-network-and-ego-dissolution]]
 - [[mescaline-compound-profile]]
 - [[shamanic-healing-hallucinogenic-plants]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

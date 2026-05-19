@@ -112,7 +112,6 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-
 ## See Also
 - [[gruit-beer-and-herbs]] for sacred European herbal brewing
 - herbal beer ingredients for psychoactive and medicinal brewing herbs

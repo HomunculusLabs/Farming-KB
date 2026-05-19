@@ -110,7 +110,6 @@ with practical application and field observation,
 providing a framework for both academic study and
 hands-on implementation in real-world scenarios.
 
-
 ## See Also
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what

@@ -1,5 +1,5 @@
 ---
-title: [[bioregional-organisation]]
+title: Bioregional Organisation Mollison
 source: bill-mollison-permaculture-a-designers-manual
 type: entity
 ---

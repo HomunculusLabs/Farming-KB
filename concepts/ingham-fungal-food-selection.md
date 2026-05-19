@@ -116,3 +116,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[det]]
 - [[brassinosteroid]]
 - [[ingham-bacterial-to-fungal-succession-soil-food-web]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

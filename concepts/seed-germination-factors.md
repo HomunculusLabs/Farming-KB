@@ -116,3 +116,5 @@ The proportion of heat loss on a cold night is proportional to the area of the n
 
 A staged approach might involve planting the whole area to a frost-tolerant legume like silver wattle (*[[plants-as-heaters-and-seed-germination-factors]]
 - [[mollison-designers-seed-dormancy-and-germination-treatments]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

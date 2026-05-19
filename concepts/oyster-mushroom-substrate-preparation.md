@@ -1,5 +1,5 @@
 ---
-title: Oyster [[fungicide-treated-seed-hazard-mushroom-substrate-preparation]]
+title: Oyster Mushroom Substrate Preparation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

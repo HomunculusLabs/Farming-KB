@@ -88,14 +88,13 @@ Common cultivation challenges and their solutions have been documented through p
 Traditional knowledge systems have recognized and utilized this organism across multiple cultural contexts.
 Ethnographic documentation provides historical perspective on traditional uses, management practices, and cultural significance.
 Contemporary cultural relevance continues in traditional, recreational, and research contexts.
-## See Also
-- [[woronin-bodies]]
-- [[protein-folding-and-misfolding-diseases-biochemistry]]
-- [[singh-single-cell-protein-fungal-wastewater-treatment]]
-- [[hex1-protein-woronin-body-assembly]]
-- [[protein-fat-wastewater-fungi]]
+
 ## See Also
 
-- [[woronin-bodies]]
-- [[septal-pore-cap]]
 - [[fungal-biology-fundamentals]]
+- [[hex1-protein-woronin-body-assembly]]
+- [[protein-fat-wastewater-fungi]]
+- [[protein-folding-and-misfolding-diseases-biochemistry]]
+- [[septal-pore-cap]]
+- [[singh-single-cell-protein-fungal-wastewater-treatment]]
+- [[woronin-bodies]]

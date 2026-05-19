@@ -62,28 +62,20 @@ Friedberg's 1965 paper remains a frequently cited reference in the ayahuasca lit
 Friedberg's work on Banisteriopsis is part of a larger ethnobotanical research program documenting the plant knowledge of indigenous South American peoples. Her research demonstrated that traditional communities possessed detailed botanical knowledge including species identification, preparation methods, dosage guidelines, and therapeutic applications for psychoactive plants. This knowledge, developed through centuries of empirical observation and use, represents a valuable scientific resource that complements and sometimes anticipates Western pharmacological discoveries.
 
 ## See Also
-- [[hallucinogens-and-shamanism]]
-- [[banisteriopsis-caapi]]
-- [[marlene-dobkin-de-rios]]
-- [[hallucinogenic-drugs]]
+
 - [[ayahuasca-preparation]]
+- [[banisteriopsis-caapi]]
+- [[hallucinogenic-drugs]]
+- [[hallucinogens-and-shamanism]]
+- [[marlene-dobkin-de-rios]]
 
-- Banisteriopsis caapi — the primary ayahuasca vine species she documented
-- Banisteriopsis rusbyana — the DMT-containing species studied by Der Marderosian et al.
-- Marlene Dobkin de Rios — anthropologist who studied ayahuasca use in Peru
-- Harmine — the primary beta-carboline alkaloid in Banisteriopsis species
+## Practical Applications
 
-## See Also
+Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
+## Key Considerations
 
-- Banisteriopsis caapi - the primary ayahuasca vine species she documented
-- Marlene Dobkin de Rios - anthropologist cited alongside Friedberg in ayahuasca literature
-- Harmine - the beta-carboline alkaloid found in Banisteriopsis species
-- N,N-Dimethyltryptamine (DMT) - the psychoactive compound potentiated by Banisteriopsis alkaloids
+Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
 
-## See Also
+## Mechanisms and Processes
 
-- Banisteriopsis caapi - the primary ayahuasca vine species she documented
-- Marlene Dobkin de Rios - anthropologist cited alongside Friedberg in ayahuasca literature
-- Harmine - the beta-carboline alkaloid found in Banisteriopsis species
-- DMT (N,N-Dimethyltryptamine) - the psychoactive compound potentiated by Banisteriopsis alkaloids
-- Der Marderosian et al. (1968) - companion reference on Banisteriopsis chemistry
+Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.

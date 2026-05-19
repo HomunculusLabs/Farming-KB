@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[juncao-grass-substrate-technique]]
 - [[mushroom-substrate-preparation-composting]]
 - [[oyster-straw-substrate-preparation]]
+## Further Reading
+Continued research and field trials yield new insights into this subject.

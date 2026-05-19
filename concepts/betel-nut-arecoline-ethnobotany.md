@@ -115,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[ethnobotany-of-psychedelic-fungi]]
 - [[fly-agaric-ethnobotany]]
 - [[psilocybin-mushroom-history-ethnobotany]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

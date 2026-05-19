@@ -115,3 +115,6 @@ Some progress is being made using selective enrichment of PCR-amplified DNA to p
 - Lee, J., and R.E. Koske. 1994. Gigaspora gigantea: seasonal abundance and aging of spores in a sand dune. Mycologia 86: 869-875.
 - Whittaker, R.H. 1975. Communities and Ecosystems. 2nd ed. Macmillan.
 - Clapp, J.P., J.P.W. Young, J.W. Merryweather, and A.H. Fitter. 1995. Diversity of fungal symbionts in arbuscular mycorrhizas from a natural grassland. New Phytologist 130: 259-265.
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

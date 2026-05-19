@@ -116,3 +116,5 @@ Established mycofilters require minimal intervention but benefit from periodic m
 - [[stamets-mycoremediation-case-studies]] - Bioremediation applications
 - [[natural-culture-myco-landscaping]] - Creating mycological landscapes
 - [[singh-mycofiltration-water-runoff]] - Technical mycofiltration methods
+## Further Reading
+Continued research and field trials yield new insights into this subject.

@@ -85,12 +85,10 @@ with distilled or reverse-osmosis water. During the winter succulent phase,
 watering should be reduced and the soil allowed to dry slightly.
 
 ## See Also
+
 - [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]
-
-## See Also
-
-- [[pinguicula-primuliflora]]
-- [[pinguicula-vulgaris]]
 - [[pinguicula-grandiflora]]
 - [[pinguicula-macroceras]]
 - [[pinguicula-moranensis]]
+- [[pinguicula-primuliflora]]
+- [[pinguicula-vulgaris]]

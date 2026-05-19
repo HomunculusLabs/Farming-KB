@@ -115,3 +115,6 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[chytridiomycota-phylogeny-diversity]]
 - [[chytridiomycota-zoosporic-fungi-amphibian-decline]]
 - [[rozella-intracellular-parasitism-chytridiomycota]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

@@ -115,3 +115,6 @@ Mollison noted that his treatment of keyline differs significantly from P.A. Yeo
 - dam construction for water storage
 - contour mapping in design
 - [[permaculture-design-principles]]
+## Further Reading
+Continued research and practical application deepen understanding of this topic.
+Field observations and experimental data continue to inform best practices.

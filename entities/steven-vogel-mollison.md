@@ -69,12 +69,10 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[stephen-vogel-mollison]]
-- [[tompkins-marcel-vogel-plant-human-communication]]
-
-## See Also
-- [[steven-pollock]]
 - [[marcel-vogel-plant-communication]]
+- [[stephen-vogel-mollison]]
+- [[steven-pollock]]
+- [[tompkins-marcel-vogel-plant-human-communication]]
 
 ## Overview
 
