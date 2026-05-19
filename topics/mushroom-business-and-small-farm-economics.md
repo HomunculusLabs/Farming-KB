@@ -144,12 +144,6 @@ sticky mat floor decontamination pads. Interior surfaces must be
 non-biodegradable: walls with non-mildewing enamel, floors with chemically
 resistant matting, and stainless steel counters. Wire mesh shelving allows
 heat dissipation from incubating bags.
-
-Air filtration systems progress from pre-filters through electrostatic filters
-to HEPA filters rated at 99.99 percent efficiency at 0.3 microns. The blower
-must overcome cumulative static pressures approaching 1.25 inches of water
-column, with face velocity exceeding 200 feet per minute.
-
 ## See Also
 - [[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]]
 - [[oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid]]

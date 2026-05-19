@@ -1,150 +1,151 @@
 ---
-title: Cannabis Advanced Growing Techniques
-subtitle: "A comprehensive guide to canopy management, plant training, environmental optimization, [[solomon-fertigation-bucket-drip-water-nutrient-delivery]], and post-harvest processing for high-performance [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]."
+title: cannabis advanced growing techniques
+subtitle: "A comprehensive guide to canopy management, plant training, environmental optimization, and post-harvest processing for high-performance cannabis cultivation."
 tags:
   - cannabis
   - plant-training
   - scrog
   - sog
   - supercropping
-  - defoliation
+  - [[defoliation-cannabis|defoliation]]
   - low-stress-training
-  - nutrient-management
   - co2-enrichment
-  - cloning
   - harvesting
-  - curing
+  - [[cannabis-drying-and-curing|curing]]
+  - hashish
+  - rosin
+  - extraction
 date: 2026-05-01
 updated: 2026-05-19
 sources:
-  - "Cervantes, Jorge. marijuana-horticulture-cervantes-artificial-lighting-and-electricity: The Indoor/Outdoor Medical Grower's Bible"
-  - "Green, Greg. The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]"
+  - "Cervantes, Jorge. Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible"
+  - "Green, Greg. The Cannabis Grow Bible"
   - "Rosenthal, Ed. The Cannabis Encyclopedia"
   - "Clarke, Robert Connell. Marijuana Botany"
+  - "Oner, S.T. [[cannabis-sativa]] Volume 3: The Essential Guide"
 ---
 
 ## Cannabis Advanced Growing Techniques
 
-Advanced cannabis growing goes far beyond planting a seed and waiting for harvest.
-
-It involves deliberate manipulation of plant architecture, canopy structure,
-environmental conditions, and nutrient delivery to maximize yield, potency,
-and overall quality. These techniques transform a basic grow into a precision
-horticultural operation.
+Advanced cannabis cultivation goes far beyond planting a seed and
+waiting for harvest. It involves deliberate manipulation of plant
+architecture, canopy structure, environmental conditions, and
+post-harvest processing to maximize yield, potency, and quality.
 
 The core principle behind every advanced technique is light management.
-Every method described in this article — from low-stress training to Screen
-of Green — ultimately serves to distribute light more evenly across bud sites.
+Every training method — from [[low-stress-training|low-stress bending]] to [[screen-of-green]] —
+ultimately serves to distribute light more evenly across bud sites.
 
-An untrained cannabis plant grows as a single dominant cola with shaded,
-underdeveloped lower branches. Training flattens and widens the canopy so
-every bud site receives direct, intense light.
+An untrained [[cannabis-plant-anatomy|cannabis plant]] grows as a single dominant cola with
+shaded, underdeveloped lower branches. Training flattens and widens
+the canopy so every bud site receives direct, intense light.
 
 ## Plant Architecture and Apical Dominance
 
-Cannabis naturally grows with apical dominance — a single main stem that
-suppresses lateral branch development through auxin hormones.
+Cannabis naturally grows with apical dominance — a single main stem
+that suppresses lateral branch development through auxin hormones.
 
-The top growing tip, called the apical meristem, produces auxins that flow
-downward and inhibit the growth of lower branches. This creates the classic
-Christmas-tree shape with one large top cola and progressively smaller
-branches below.
+The apical meristem at the top produces auxins that flow downward
+and inhibit the growth of lower branches. This creates the classic
+Christmas-tree shape with one large top cola and smaller branches
+below.
 
-Advanced techniques disrupt this hormonal hierarchy. By removing, bending,
-or pinching the main stem, growers redistribute auxins and force the plant
-to develop multiple dominant colas instead of just one.
+Every training technique disrupts this hormonal hierarchy differently.
+Topping cuts the auxin source entirely. Bending redirects auxin flow.
+Supercropping damages the transport tissue. Each approach has
+trade-offs in recovery time, stress level, and final plant shape.
 
-Understanding this mechanism is essential because every training technique
-exploits it differently. Topping cuts the auxin source entirely. Bending
-redirects auxin flow. Supercropping damages the transport tissue. Each
-approach has trade-offs in recovery time, stress level, and final shape.
+Understanding this mechanism is essential because every method
+described in this article exploits it in a different way.
 
 ## Low-Stress Training (LST)
 
 Low-stress training is the gentlest approach to canopy management.
+It involves bending and tying branches to alter the plant's shape
+without any cutting or tissue damage.
 
-It involves bending and tying branches to alter the plant's shape without
-any cutting. Soft plant ties — pipe cleaners, rubber-coated wire, or padded
-twist ties — hold branches in position.
+Soft plant ties — pipe cleaners, rubber-coated wire, or padded
+twist ties — hold branches in position. The process starts early
+when stems are still flexible. Growers bend the main stem
+horizontally and tie it to the pot rim or a stake.
 
-The process starts early, when stems are still flexible. Growers bend the
-main stem horizontally and tie it to the pot rim or a stake. As new branches
-grow upward from the bent stem, each one is bent outward and tied down.
+As new branches grow upward from the bent stem, each one is
+bent outward and tied down. Over weeks, this creates a flat,
+even canopy with many bud sites at equal height.
 
-Cervantes notes that bending changes hormone concentrations less than pruning
-and is nearly impossible to overdo. The plant continues growing normally with
-no recovery period. LST is reversible — ties can be adjusted or removed.
+Cervantes notes that bending changes hormone concentrations less
+than pruning and is nearly impossible to overdo. LST is reversible
+— ties can be adjusted or removed at any time.
 
-LST works especially well for autoflowering strains, which have limited
-vegetative time and cannot afford the recovery delay that topping requires.
-It is also ideal for beginners because serious harm is almost impossible.
+LST works especially well for autoflowering strains, which have
+limited vegetative time and cannot afford the recovery delay that
+topping requires. It is ideal for beginners.
 
-## Topping and FIM Technique
+## Topping and FIM Techniques
 
-Topping removes the apical meristem entirely with a clean cut.
+Topping is the removal of the apical meristem — the very top growing
+tip of the main stem. This breaks apical dominance and forces the
+plant to develop two new main colas from the nodes below the cut.
 
-This breaks apical dominance at the source. Two new growth tips emerge from
-the nodes immediately below the cut, creating a Y-shaped fork where there
-was once a single stem. The plant recovers in three to seven days.
+The plant should have 4-6 true nodes before topping. Use clean,
+sharp scissors or a scalpel to cut through the stem just above
+the highest set of full leaves. Recovery takes 3-7 days.
 
-Topping should be performed after the plant has developed four to six true
-nodes. Each subsequent topping doubles the number of main colas. A plant
-topped twice produces four main colas; topped three times, eight colas.
+Growers can top multiple times to create 4, 8, or even 16 main
+colas. Each topping doubles the number of dominant growth tips.
 
-FIM is a variation where the grower cuts roughly 75 percent of the apical
-tip instead of removing it cleanly. This often produces three or four new
-colas instead of two, though results are less predictable than a clean cut.
+FIM (Fuck I Missed) is a variation where roughly 75% of the
+apical tip is cut instead of removing it cleanly. This often
+produces 3-4 new colas instead of 2, though results are less
+predictable than a clean top.
 
-Both techniques introduce high stress and require recovery time. They are
-best performed during vegetative growth when the plant has ample energy to
-heal and redirect growth.
+Both techniques should be performed during vegetative growth only.
+Topping during flowering stresses the plant without providing
+enough recovery time to benefit from additional colas.
 
 ## Supercropping and High-Stress Training
 
-Supercropping is a high-stress technique that intentionally damages the
-stem to create a knuckle joint.
+Supercropping is a high-stress technique that deliberately damages
+stem tissue to create stronger, more productive branches.
 
-The grower gently crushes and bends the stem until the inner tissue softens
-and the branch bends at roughly 90 degrees. The plant heals the damaged
-tissue by forming a thickened knuckle at the bend point.
+The grower pinches a branch firmly between thumb and index finger,
+rolling it back and forth to crush the inner tissue without
+breaking the outer skin. The branch becomes pliable and is bent
+to the desired angle.
 
-This knuckle is significantly stronger than the original stem, better
-supporting heavy buds later in flower. The technique also controls height
-and promotes lateral growth by redirecting auxin flow away from the tip.
+A knuckle forms at the bend point that becomes structurally
+stronger than the original stem. Nutrient flow increases to the
+damaged area, often resulting in thicker bud development at
+that branch.
 
-Green recommends performing supercropping during vegetative growth, typically
-three to six weeks in. Select branches that are pencil-thickness or greater.
-Ensure the plant is well-hydrated before starting — water one to two hours
-before.
+Support the bent branch with a tie for the first few days.
+Recovery typically takes 5-7 days. Supercropping is best performed
+during early to mid-vegetative growth.
 
-If a branch snaps completely during supercropping, it can often be saved.
-Realign the broken ends, wrap tightly with tape, and support with a stake.
-The branch may heal in one to three weeks with a thick knuckle at the
-repair point.
+This technique is particularly useful for managing height. A tall
+branch can be supercropped to bring it level with the rest of the
+canopy, improving light distribution without removing the branch.
 
-## Screen of Green (ScrOG)
+## Main-Lining and Manifolding
 
-ScrOG uses a horizontal screen or net suspended above the plants to create
-an even, flat canopy of bud sites.
+Main-lining is a systematic approach that creates a perfectly
+symmetrical plant with evenly spaced colas. It combines topping
+with LST in a structured sequence.
 
-As plants grow through the screen, branches are woven and tied back under
-the openings. This process continues until the screen is roughly 70 to 80
-percent filled, at which point flowering is initiated.
+The process begins with a first top at the 3rd node. Two new
+branches emerge and are tied down to separate quadrants. Each
+branch is then [[topping-cannabis|topped]] again above the 3rd or 4th node.
 
-The screen is positioned 8 to 20 inches above the growing medium, depending
-on available headroom. During flowering, branches continue growing upward
-through the screen, producing an even canopy of colas at equal height.
+This doubling continues until the desired number of main colas
+is reached — typically 8 or 16. Every cola is a main cola with
+uniform size and quality.
 
-ScrOG uses fewer plants per square foot than SOG, typically one to two
-plants in larger containers. Some growers use a single large plant trained
-across a substantial screen. This makes ScrOG more suitable for areas with
-plant count restrictions.
+The result is exceptional airflow through the open structure,
+reduced need for defoliation, and the most even canopy possible.
+All colas receive equal light intensity.
 
-The main disadvantage is labor intensity. Tucking branches requires regular
-attention throughout the vegetative period. If the screen is allowed to
-fill too densely, airflow suffers and bud rot risk increases.
 ## See Also
-
-- [[cannabis-growing-mediums]]
-- [[cannabis-training-techniques]]
-- [[cannabis-curing-storage-post-harvest-clarke]]
+- [[cannabis-drying-and-curing]]
+- [[defoliation-cannabis]]
+- [[cannabis-hydroponics-systems-nutrients]]
+- [[cannabis-screen-of-green-scrog-guide]]

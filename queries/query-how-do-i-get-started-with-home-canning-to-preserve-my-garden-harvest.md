@@ -112,7 +112,7 @@ Not checking seals within 24 hours of processing means spoiled food could go unn
 
 ## Related Questions
 
-- [[query-how-do-i-preserve-my-harvest-for-year-round-food]]
+- [[food-preservation-and-storage-methods]]
 - [[query-how-do-i-preserve-and-store-mushrooms-after-harvest]]
 - [[query-how-to-build-and-use-a-solar-food-dehydrator]]
 - [[query-how-does-lacto-fermentation-work-for-food-preservation]]
