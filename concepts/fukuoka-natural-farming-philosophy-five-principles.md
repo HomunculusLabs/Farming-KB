@@ -8,7 +8,7 @@ type: concept
 
 > "All begins by relinquishing human knowledge."
 
-Masanobu Fukuoka's *The Natural Way of Farming: The Theory and Practice of Green Philosophy* presents a radical vision of agriculture grounded in the conviction that nature, left to itself, is sufficient. Drawing on decades of experimentation on his farm in Japan, Fukuoka argues that virtually every technique of modern — and even organic — farming is an act of destruction masquerading as improvement.
+Masanobu Fukuoka's *The Natural Way of Farming: The Theory and Practice of [[green-philosophy]]* presents a radical vision of agriculture grounded in the conviction that nature, left to itself, is sufficient. Drawing on decades of experimentation on his farm in Japan, Fukuoka argues that virtually every technique of modern — and even organic — farming is an act of destruction masquerading as improvement.
 
 His work is both a practical guide and a philosophical treatise, rooted in the concept of **"Mu" (nothingness)** — the idea that in farming, as in life, "all is unnecessary." This is not a doctrine of laziness but of humility: the recognition that human knowledge, applied to nature, more often distorts than improves.
 
@@ -100,7 +100,7 @@ The yields are not merely sustained — the land improves with each passing seas
 
 Fukuoka's philosophy extends beyond cultivated fields to the global landscape. He envisioned a large-scale revegetation program for the world's deserts and savannahs based on the same principles of minimal intervention:
 
-- Seeds of green manure trees (such as black wattle), clover, alfalfa, and bur clover are mixed with grain and vegetable seeds.
+- Seeds of [[green-manure]] trees (such as black wattle), clover, alfalfa, and bur clover are mixed with grain and vegetable seeds.
 - The seed mix is coated in a layer of soil, then encased in clay to form microbe-containing clay pellets.
 - These pellets are scattered by hand over deserts and degraded lands.
 

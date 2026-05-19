@@ -27,7 +27,7 @@ Vetiver grass (*Chrysopogon zizanioides*) and bamboo are two of the most widely 
 
 Both species have been deployed at scale across tropical and subtropical regions, with vetiver systems documented in over 100 countries and bamboo erosion control projects spanning Asia, Africa, and Latin America. Understanding when to use each — and when to combine them — is critical for effective bioengineering outcomes.
 
-Vetiver was first promoted for soil conservation by the World Bank in the 1980s and has since become a standard bioengineering tool in road construction, mining rehabilitation, and watershed management. Bamboo has a much longer history of use in Asia, where it has served as both an erosion control species and a primary construction material for centuries.
+Vetiver was first promoted for soil conservation by the World Bank in the 1980s and has since become a standard bioengineering tool in road construction, mining rehabilitation, and [[watershed-management]]. Bamboo has a much longer history of use in Asia, where it has served as both an erosion control species and a primary construction material for centuries.
 
 ## Comparison Table
 
@@ -49,7 +49,7 @@ Vetiver was first promoted for soil conservation by the World Bank in the 1980s 
 
 Vetiver grass produces a dense, fibrous root system that extends vertically 2–4 meters within the first year of growth, with tensile strength comparable to mild steel reinforcement bars (approximately 75 MPa). Individual root counts can exceed 300 per plant, forming a cylindrical curtain that reinforces the entire soil column from surface to depth. These roots strengthen over time rather than decaying, with root tensile strength increasing as roots mature and lignify.
 
-Bamboo relies on a lateral rhizome network that typically extends 0.3–1 meter deep, binding the topsoil layer effectively but lacking the deep vertical penetration that makes vetiver superior for deep-seated slope instability and failure plane reinforcement. Bamboo roots are strong in shear but do not penetrate deeply enough to anchor soils below the typical slip surface depth on steep slopes. The root system is concentrated in the upper soil horizons, making it effective for surface erosion but limited for mass movement control.
+Bamboo relies on a lateral rhizome network that typically extends 0.3–1 meter deep, binding the topsoil layer effectively but lacking the deep vertical penetration that makes vetiver superior for deep-seated slope instability and failure plane reinforcement. Bamboo roots are strong in shear but do not penetrate deeply enough to anchor soils below the typical slip surface depth on steep slopes. The root system is concentrated in the upper [[soil-horizons]], making it effective for surface erosion but limited for mass movement control.
 
 ### Erosion Control Effectiveness
 

@@ -91,7 +91,7 @@ Root pressure also plays a role in refilling xylem vessels that have become embo
 
 In early spring, before leaves emerge and transpiration begins, some trees produce a sugary xylem sap that can be harvested for syrup:
 
-- **Maple syrup** is produced primarily from sugar maples (*Acer saccharum*), while **birch syrup** comes from birch species (*Betula* spp.).
+- **Maple syrup** is produced primarily from sugar maples (*[[acer-saccharum]]*), while **birch syrup** comes from birch species (*Betula* spp.).
 - The sap flow is driven by **freeze-thaw cycles** in the stem rather than by root pressure or transpiration. During warm daytime temperatures, CO₂ dissolves in the xylem sap, lowering the pH and causing gas spaces within the wood to compress. This compression generates positive pressure that pushes sap upward from the roots. At night, when temperatures drop below freezing, the CO₂ comes out of solution and gas spaces expand, creating negative pressure that draws water in from the soil.
 - The xylem sap contains **sugars** (primarily sucrose) that were stored as starch in the root and stem tissues the previous growing season and converted back to soluble sugars during the spring thaw. This cycle of freeze-thaw-driven sap flow can continue for several weeks, providing the harvest window for syrup production.
 
@@ -103,7 +103,7 @@ The ability of the xylem to carry hormones means that root conditions directly i
 
 ## Regulation of Transport Protein Activity
 
-The activity of membrane transport proteins is not static — it is dynamically regulated in response to environmental conditions, nutrient availability, and developmental signals. Several mechanisms modulate transport capacity:
+The activity of membrane transport proteins is not static — it is dynamically regulated in response to environmental conditions, [[nutrient-availability]], and developmental signals. Several mechanisms modulate transport capacity:
 
 - **Transcriptional regulation:** The expression levels of transport protein genes change in response to nutrient status. For example, when soil phosphate is low, plants upregulate high-affinity phosphate transporter genes to increase uptake capacity. Similarly, nitrate starvation triggers expression of specific nitrate transporter families.
 - **Post-translational modification:** Many transport proteins are activated or inhibited by phosphorylation. The plasma membrane H⁺-ATPase, for instance, is activated by phosphorylation of a C-terminal threonine residue, which increases its pumping activity in response to signals such as blue light or auxin.

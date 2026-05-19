@@ -93,7 +93,7 @@ The proposed mechanism involves activation of the NGF gene promoter via ERK and 
 - **Log cultivation**: Outdoor cultivation on hardwood logs, slower but produces robust fruiting bodies
 - **Liquid culture**: Used for biomass and erinacine production in bioreactors
 
-Typical biological efficiency ranges from 50–100% on first flush, with 2–3 flushes per block.
+Typical [[biological-efficiency]] ranges from 50–100% on first flush, with 2–3 flushes per block.
 
 ## Culinary Use
 
@@ -126,11 +126,11 @@ Current research is exploring Lion's Mane for:
 - Potential anti-depressant mechanisms through BDNF upregulation
 - Anti-inflammatory effects in colitis models
 - Hepatoprotective activity against alcohol-induced liver damage
-- Synergistic effects with other medicinal mushrooms in stacked formulations
+- Synergistic effects with other [[medicinal-mushrooms]] in stacked formulations
 
 ## Related Species
 
-- *Hericium coralloides* (Coral Tooth) — similar bioactivity, branching morphology
+- *[[hericium-coralloides]]* (Coral Tooth) — similar bioactivity, branching morphology
 - *Hericium americanum* (Bear's Head Tooth) — North American relative
 - *Hericium abietis* (Conifer Coral) — found on conifer substrates in western North America
 
