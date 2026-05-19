@@ -1,5 +1,5 @@
 ---
-title: Comparison Central Leader Vs Open Center Fruit Tree Training
+title: Comparison Central Leader Vs Open Center [[espalier-fruit-tree-training-and-design]]
 tags:
   - fruit-trees
   - pruning

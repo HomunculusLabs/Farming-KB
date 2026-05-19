@@ -72,10 +72,10 @@ Research by B.N. Okigbo and R. Lal (International Conference on Ecological Agric
 | *Pennisetum* straw | 3.3 | 1.2 | 1.4 | 14.2 |
 | Elephant grass | 3.3 | 0.9 | 1.3 | 16.6 |
 | Millet straw | 3.6 | 2.4 | 0.15 | 15.5 |
-| [[mulching-guide|mulch]]
+| [[mulching-guide]]
 - Legumes responded well to grass and sawdust mulch
-- [[water-wise-vegetable-gardening|Water]] rotting:** Bundle and immerse in covered water pits
-5. **Pig processing:** Pigs eliminate or eat nut-grasses, rhizomes, bulbs, and sedges that resprout from [[plant-micronutrient-functions|nutrient]] leaching, and condensing groundwater at night — but it does not add [[soil-ph|soil]].
+- [[water-wise-vegetable-gardening]] rotting:** Bundle and immerse in covered water pits
+5. **Pig processing:** Pigs eliminate or eat nut-grasses, rhizomes, bulbs, and sedges that resprout from [[plant-micronutrient-functions]] leaching, and condensing groundwater at night — but it does not add [[soil-ph]].
 
 ## Application Guidelines
 
@@ -89,7 +89,7 @@ Research by B.N. Okigbo and R. Lal (International Conference on Ecological Agric
 
 ## Building Mulch Systems Over Time
 
-Growing in exhausted or poor tropical soils requires hard work, seed, essential fertiliser resources, and a strategy of starting small and expanding at the periphery. A pioneer planting of quick-growing [[wet-dry-and-monsoon-tropical-climates|monsoon]] [[permplant-willows-salix-erosion-control-fodder|erosion]].
+Growing in exhausted or poor tropical soils requires hard work, seed, essential fertiliser resources, and a strategy of starting small and expanding at the periphery. A pioneer planting of quick-growing [[wet-dry-and-monsoon-tropical-climates]] [[permplant-willows-salix-erosion-control-fodder]].
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

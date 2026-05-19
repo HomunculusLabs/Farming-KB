@@ -75,8 +75,8 @@ Double coverage does not extend the growing season in the sense of maintaining s
 - **Cool house**: A minimally heated greenhouse that may or may not use double coverage
 
 ## See Also
-- [[double-digging|Double Digging]]
-- [[jeavons-double-digging-bed-preparation|Jeavons Double Digging Bed Preparation]]
-- [[double-layer-tinfoil-jar-covering-pressure-cooker-method|Double Layer Tinfoil Jar Covering Pressure Cooker Method]]
-- [[protected-cultivation-double-layer-system|Protected Cultivation Double Layer System]]
-- [[coleman-double-layer-protection-temperature-performance|Coleman Double Layer Protection Temperature Performance]]
+- [[double-digging]]
+- [[jeavons-double-digging-bed-preparation]]
+- [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]
+- [[protected-cultivation-double-layer-system]]
+- [[coleman-double-layer-protection-temperature-performance]]

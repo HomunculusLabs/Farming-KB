@@ -16,7 +16,7 @@ Alice W. Chen is a mycologist and mushroom cultivation specialist based in Penfi
 
 ## Key Facts
 
-- Authored the seminal practical guide "A Practical Guide for [[synthetic-log-cultivation|Synthetic-Log Cultivation]] of Medicinal Mushroom Grifola frondosa (Maitake)" published in the International Journal of Medicinal Mushrooms (Vol. 1, pp. 153-167, 1999).
+- Authored the seminal practical guide "A Practical Guide for [[synthetic-log-cultivation]] of Medicinal Mushroom Grifola frondosa (Maitake)" published in the International Journal of Medicinal Mushrooms (Vol. 1, pp. 153-167, 1999).
 - Published multiple papers on maitake cultivation in 1998 (Chen et al., 1998a–c), establishing detailed growth parameters and cultivation protocols.
 - Emphasized the importance of understanding morphogenetic transitions in mushroom cultivation, including mycelial-coat formation, primordia initiation, and fruiting-body development.
 - Advocated for single-minded devotion and dedicated growing rooms for G. frondosa cultivation, noting its greater complexity compared to oyster or reishi mushroom production.
@@ -28,9 +28,9 @@ Alice W. Chen's work has had significant impact on practical mushroom cultivatio
 
 1. **Strain selection guidance:** Documented that a high percentage of G. frondosa strains do not fruit well, making strain testing essential before production-scale cultivation.
 2. **Growth parameter tables:** Created detailed tabular guidelines for temperature, relative humidity, light, ventilation (CO₂ vs O₂), and timing for each growth stage across different regional practices.
-3. **Substrate formulation:** Documented multiple substrate recipes for [[maitake-cultivation|maitake cultivation]], including [[hardwood-sawdust-substrate|hardwood sawdust-based formulas]] with wheat bran, calcium compounds, and optional forest soil amendments.
+3. **Substrate formulation:** Documented multiple substrate recipes for [[maitake-cultivation]], including [[hardwood-sawdust-substrate]] with wheat bran, calcium compounds, and optional forest soil amendments.
 4. **Problem-solving framework:** Provided troubleshooting guidance for common cultivation difficulties, benefiting both novice and experienced growers.
-5. **Spawn type documentation:** Catalogued [[liquid-spawn|liquid spawn]], grain spawn, [[sawdust-spawn|sawdust spawn]], and wooden stick spawn types with their respective advantages.
+5. **Spawn type documentation:** Catalogued [[liquid-spawn]], grain spawn, [[sawdust-spawn]], and wooden stick spawn types with their respective advantages.
 
 ## Morphogenetic Stage Framework
 
@@ -58,7 +58,7 @@ Chen's approach to cultivation emphasized several key principles:
 
 1. **Species dedication:** She strongly recommended that maitake not share growing space with other mushroom species, due to its specific environmental requirements and high oxygen demand during fruiting.
 2. **Strain verification:** Before investing in large-scale production, growers should verify that their strain produces acceptable yields in trial runs.
-3. **Environmental precision:** Maitake cultivation requires more precise environmental control than [[oyster-mushroom|oyster mushroom]] or [[ganoderma|reishi]] production.
+3. **Environmental precision:** Maitake cultivation requires more precise environmental control than [[oyster-mushroom]] or [[ganoderma]] production.
 4. **Adaptive methodology:** Growers should adapt methods from different regional traditions to their local conditions rather than following any single prescribed method.
 
 ## Relevance to Cultivation and Mycology

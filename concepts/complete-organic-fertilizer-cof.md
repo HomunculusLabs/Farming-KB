@@ -136,10 +136,10 @@ Proper use of COF contributes to plant health, which is the first line of defens
 
 ## Related Topics
 
-- [[composting-toilets|Composting]] — biological soil amendment that complements COF mineral nutrition
-- [[cover-crops|Cover Crops]] — green manures that add organic matter and fix nitrogen
-- [[fertigation-techniques|Fertigation]] — liquid feeding technique using dissolved COF
-- [[organic-garden-soil-preparation|Soil Preparation]] — proper bed preparation before COF application
-- [[mushroom-nutrition-guide|Seedling Nutrition]] — fertilizing young plants for strong start
-- [[jadam-making-organic-farming-inputs|Drought and Dry Farming]] — water management during shortages
-- [[green-manures-organic-gardening|Organic Gardening]] — holistic approach to food production
+- [[composting-toilets]] — biological soil amendment that complements COF mineral nutrition
+- [[cover-crops]] — green manures that add organic matter and fix nitrogen
+- [[fertigation-techniques]] — liquid feeding technique using dissolved COF
+- [[organic-garden-soil-preparation]] — proper bed preparation before COF application
+- [[mushroom-nutrition-guide]] — fertilizing young plants for strong start
+- [[jadam-making-organic-farming-inputs]] — water management during shortages
+- [[green-manures-organic-gardening]] — holistic approach to food production

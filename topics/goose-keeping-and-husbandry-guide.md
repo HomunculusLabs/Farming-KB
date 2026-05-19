@@ -3,7 +3,7 @@ title: Goose Keeping and Husbandry Guide
 created: 2026-05-18
 updated: 2026-05-18
 type: topic
-tags: [goose, poultry, livestock, [[permaculture-design-principles|permaculture]], [[homesteading|homestead]]ing, animal-husbandry]
+tags: [goose, poultry, livestock, [[permaculture-design-principles]], [[homesteading]] ing, animal-husbandry]
 synonyms: [goose farming, geese husbandry, anser domesticus, domestic goose keeping]
 related_topics:
   - duck-keeping-and-integration-into-permaculture-systems
@@ -16,10 +16,10 @@ related_topics:
 
 Geese are among the most self-sufficient and productive livestock a
 homesteader or permaculturist can raise. They convert grass and weeds
-into meat, eggs, feathers, and [[composting-science-solomon|fertilizer]] with minimal supplemental feed.
+into meat, eggs, feathers, and [[composting-science-solomon]] with minimal supplemental feed.
 
-Unlike chickens, geese are primarily [[duck-keeping|grazers]]. A flock on good pasture
-can meet nearly all its nutritional needs from [[pasture-management|forage]] alone. This makes
+Unlike chickens, geese are primarily [[duck-keeping]]. A flock on good pasture
+can meet nearly all its nutritional needs from [[pasture-management]] alone. This makes
 them extraordinarily economical to keep — often costing a fraction of
 what grain-fed poultry requires.
 

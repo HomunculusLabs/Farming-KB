@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Sterile technique is the set of practices used to prevent [[mushroom-contamination-identification|contamination]] during mushroom cultivation. Contamination by molds, bacteria, or competing fungi is the primary cause of cultivation failure. Proper sterile technique reduces contamination rates from potentially 50%+ for careless work down to 1-5% for experienced cultivators working with good equipment. This page covers the practical, hands-on techniques used at every stage of the cultivation process.
+Sterile technique is the set of practices used to prevent [[mushroom-contamination-identification]] during mushroom cultivation. Contamination by molds, bacteria, or competing fungi is the primary cause of cultivation failure. Proper sterile technique reduces contamination rates from potentially 50%+ for careless work down to 1-5% for experienced cultivators working with good equipment. This page covers the practical, hands-on techniques used at every stage of the cultivation process.
 
 ## Sources of Contamination
 
@@ -65,7 +65,7 @@ Flame sterilization is used to sterilize metal tools (scalpels, inoculation loop
 
 ### Needle Sterilization
 
-For [[mushroom-spore-syringe-preparation|spore syringe]]s, flame the needle tip until red-hot, then squirt a small amount of liquid through the needle to cool it. Wipe with an alcohol wipe between flame and use. The alcohol wipe is for cleaning the outside of the needle, not for sterilization — only the flame achieves true sterilization.
+For [[mushroom-spore-syringe-preparation]] s, flame the needle tip until red-hot, then squirt a small amount of liquid through the needle to cool it. Wipe with an alcohol wipe between flame and use. The alcohol wipe is for cleaning the outside of the needle, not for sterilization — only the flame achieves true sterilization.
 
 ## Isopropyl Alcohol Use
 

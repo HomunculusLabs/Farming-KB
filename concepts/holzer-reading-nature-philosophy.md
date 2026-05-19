@@ -1,5 +1,5 @@
 ---
-title: Holzer Reading Nature Philosophy
+title: Holzer Reading [[fukuoka-return-to-nature-philosophy]]
 created: 2026-04-26
 tags: permaculture, nature-observation, philosophy, holistic-thinking, holzer]
 date: 2026-04-25
@@ -91,12 +91,12 @@ the most critical skill in the observational toolkit. Water reveals
 - [[holzer-livestock-philosophy-paddock-system]]
 - [[holzer-vole-management-philosophy]]
 ## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+The principles discussed here have direct applications in agricultural systems, [[mycorrhizal-fungi-ecological-restoration]], and sustainable [[savory-holistic-resource-management-animal-impact]].
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+[[psychedelic-therapy-current-research]] explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

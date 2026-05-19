@@ -12,7 +12,7 @@ sources: []
 
 Compost tea is a liquid extract made by steeping finished compost in water, either with aeration (actively aerated compost tea, or AACT) or without (fermentative compost tea).
 The goal is to multiply beneficial microorganisms from the compost and deliver them to soil or plant foliage as a biological inoculant.
-Scientific evidence is mixed: well-brewed [[actively-aerated-compost-tea-aact-brewing|AACT]], you are providing oxygen, food sources, and warm conditions that allow bacteria, fungi, and protozoa to multiply by 10 to 1,000 times over 24 to 48 hours.
+Scientific evidence is mixed: well-brewed [[actively-aerated-compost-tea-aact-brewing]], you are providing oxygen, food sources, and warm conditions that allow bacteria, fungi, and protozoa to multiply by 10 to 1,000 times over 24 to 48 hours.
 The resulting liquid contains billions of microbes per milliliter, along with soluble nutrients extracted from the compost.
 This is different from simply mixing compost with water, which produces a nutrient-rich leachate but does not significantly increase microbial populations.
 
@@ -30,7 +30,7 @@ Every brew is different depending on the starting compost, the food sources adde
 A [[bokashi]] shows that biochar provides long-term soil structure and nutrient retention, while compost tea delivers an immediate pulse of microbial activity.
 They complement each other well: biochar creates habitat for microbes, and compost tea populates that habitat.
 
-Similarly, [[comparison-compost-tea-vs-vermicompost-tea|vermicompost tea]] is a subtype of compost tea made specifically from worm castings.
+Similarly, [[comparison-compost-tea-vs-vermicompost-tea]] is a subtype of compost tea made specifically from worm castings.
 It tends to be higher in beneficial bacteria and plant growth hormones compared to teas made from thermal compost.
 
 ## What About Fermented Plant Extracts?
@@ -62,14 +62,14 @@ In a healthy, mature soil ecosystem, the soil already contains robust microbial 
 For cannabis growers and organic vegetable producers who work in soilless media or recently amended beds, compost tea can make a noticeable difference in plant vigor and disease resistance.
 It is also useful as a foliar spray for high-value crops where disease prevention justifies the labor and equipment costs.
 
-The [[actively-aerated-compost-tea|Actively aerated compost tea]] multiplies beneficial microbes by providing oxygen and food during a 24 to 48 hour brew cycle.
+The [[actively-aerated-compost-tea]] multiplies beneficial microbes by providing oxygen and food during a 24 to 48 hour brew cycle.
 - Scientific evidence is mixed because compost tea is a living product whose effectiveness depends on compost quality, brewing technique, and application timing.
-- [[comparison-compost-tea-vs-biochar|biochar]] and [[aact-soil-food-web-twelve-step-balancing-protocol|soil food web protocol]] show the most consistent positive results.
+- [[comparison-compost-tea-vs-biochar]] and [[aact-soil-food-web-twelve-step-balancing-protocol]] show the most consistent positive results.
 
 ## Related Questions
 
-- [[comparison-bokashi-vs-compost-tea|Is bokashi tea the same as compost tea?]]
-- [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe|What is the difference between compost tea and fermented plant extracts?]]
+- [[comparison-bokashi-vs-compost-tea]]
+- [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]]
 
 ## Overview
 

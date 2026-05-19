@@ -1,5 +1,5 @@
 ---
-title: Secret Societies Entheogenic Knowledge
+title: Secret Societies [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]
 source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
@@ -104,12 +104,12 @@ The fundamental argument against all forms of mediated spirituality is that dire
 
 The Sumerian concept of **Star-Fire** — the "gold of the gods," the "red gold," produced from the lunar essence of the goddess [[entheogens-in-ancient-cultures]] that possessed it.
 ## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+The principles discussed here have direct applications in agricultural systems, [[mycorrhizal-fungi-ecological-restoration]], and sustainable [[savory-holistic-resource-management-animal-impact]].
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+[[psychedelic-therapy-current-research]] explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

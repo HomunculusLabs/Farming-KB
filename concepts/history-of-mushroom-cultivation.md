@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-The cultivation of mushrooms has a rich history spanning thousands of years, from ancient Chinese practices with [[medicinal-mushroom-guide|medicinal fungi]] to the sophisticated commercial operations of today. The development of mushroom cultivation represents one of humanity's oldest and most fascinating relationships with fungi.
+The cultivation of mushrooms has a rich history spanning thousands of years, from ancient Chinese practices with [[medicinal-mushroom-guide]] to the sophisticated commercial operations of today. The development of mushroom cultivation represents one of humanity's oldest and most fascinating relationships with fungi.
 
 ## Ancient China (circa 600 AD and earlier)
 
@@ -35,7 +35,7 @@ These early cultivation methods were empirical -- growers understood that certai
 Mushrooms held a complex place in Roman culture. While wild foraging was common, some Roman authors documented mushroom cultivation practices:
 
 - Roman agricultural writers described methods for encouraging mushroom growth on tree stumps and in prepared beds
-- Mushrooms were both prized as delicacies and feared as instruments of assassination (the death of Emperor Claudius in 54 AD was famously attributed to poisoned mushrooms, possibly [[amanita-muscaria-guide|Amanita phalloides]])
+- Mushrooms were both prized as delicacies and feared as instruments of assassination (the death of Emperor Claudius in 54 AD was famously attributed to poisoned mushrooms, possibly [[amanita-muscaria-guide]])
 - Duggar's historical account notes the importance of mushrooms in Roman times, with detailed descriptions of wild mushroom markets and consumption
 
 ## Medieval and Renaissance Europe (1400s-1600s)
@@ -52,7 +52,7 @@ The modern history of mushroom cultivation begins in France:
 - Mushroom beds were prepared using horse manure, which was the primary substrate
 - Spawn was produced by collecting mycelium-rich material from established beds and transferring it to fresh substrate
 - The concept of "spawn" as a distinct product for mushroom cultivation developed during this period
-- [[nineteenth-century-mushroom-cultivation|19th century]] practices were already surprisingly sophisticated, with detailed guides available for growers
+- [[nineteenth-century-mushroom-cultivation]] practices were already surprisingly sophisticated, with detailed guides available for growers
 
 ## 18th-19th Century Developments
 
@@ -80,15 +80,15 @@ The single most important advancement in modern mushroom cultivation was the dev
 ### Agaricus Industry Expansion (1940s-1970s)
 
 - The button mushroom (Agaricus bisporus) industry expanded dramatically, particularly in the United States, Netherlands, and United Kingdom
-- Development of standardized composting methods (Phase I and Phase II composting) and [[mushroom-compost-substrates|compost substrate formulations]]
+- Development of standardized composting methods (Phase I and Phase II composting) and [[mushroom-compost-substrates]]
 - Mechanization of spawning, casing, and harvesting
 - The Mushroom Cultivator (Stamets, 1983) codified much of this knowledge, providing detailed technical parameters for commercial operations
 
 ### The Specialty Mushroom Revolution (1970s-Present)
 
 - **Shiitake cultivation:** Traditional log methods were supplemented with sawdust-based cultivation, dramatically expanding production
-- **Oyster mushrooms:** [[oyster-mushroom-pleurotus-ostreatus|Pleurotus ostreatus]] cultivation on straw and sawdust became widespread, particularly in Asia
-- **Medicinal mushrooms:** Growing scientific interest in the [[medicinal-mushroom-guide|medicinal properties]] of reishi, maitake, lion's mane, and cordyceps drove new cultivation programs
+- **Oyster mushrooms:** [[oyster-mushroom-pleurotus-ostreatus]] cultivation on straw and sawdust became widespread, particularly in Asia
+- **Medicinal mushrooms:** Growing scientific interest in the [[medicinal-mushroom-guide]] of reishi, maitake, lion's mane, and cordyceps drove new cultivation programs
 - **Stamets' contributions:** Paul Stamets' books, particularly Growing Gourmet and Medicinal Mushrooms (1993) and The Mushroom Cultivator (1983), democratized cultivation knowledge, making techniques for dozens of species accessible to home growers and small commercial operations
 
 ## 21st Century Trends
@@ -101,10 +101,10 @@ The single most important advancement in modern mushroom cultivation was the dev
 
 ## See Also
 
-- [[historical-mushroom-cultivation|historical mushroom cultivation]]
-- [[nineteenth-century-mushroom-cultivation|19th century cultivation]]
-- [[mushroom-cultivation-basics|modern cultivation fundamentals]]
-- [[mushroom-taxonomy-history|mushroom taxonomy history]]
+- [[historical-mushroom-cultivation]]
+- [[nineteenth-century-mushroom-cultivation]]
+- [[mushroom-cultivation-basics]]
+- [[mushroom-taxonomy-history]]
 
 ## Related
 

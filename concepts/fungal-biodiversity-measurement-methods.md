@@ -34,11 +34,11 @@ The oldest and most intuitive method: counting and identifying visible mushroom 
 - Captures only a fraction of total diversity (often less than 10-20%)
 - Highly seasonal and weather-dependent
 - Biased toward large, conspicuous, fleshy fungi
-- Misses microfungi, [[endophytic-fungi|endophytes]], and species with inconspicuous fruiting structures
+- Misses microfungi, [[endophytic-fungi]], and species with inconspicuous fruiting structures
 
 ### Structured Plot Surveys
 
-Standardized plots (typically 100-1000 m²) surveyed at regular intervals through fruiting seasons. The [[fungal-sampling-methods|plot-based approach]] allows for quantitative comparisons between sites and over time. Permanent plots established in long-term ecological research networks provide invaluable baseline data.
+Standardized plots (typically 100-1000 m²) surveyed at regular intervals through fruiting seasons. The [[fungal-sampling-methods]] allows for quantitative comparisons between sites and over time. Permanent plots established in long-term ecological research networks provide invaluable baseline data.
 
 ## Molecular and Sequencing Methods
 
@@ -59,7 +59,7 @@ The revolution in fungal biodiversity assessment. Soil, water, air, or substrate
 - Cannot distinguish between active, dormant, and dead biomass
 - Sequence reference databases remain incomplete, especially for tropical and soil species
 - Does not produce voucher specimens
-- [[fungal-dna-barcoding|DNA barcode]] reference gaps lead to unidentified OTUs (operational taxonomic units)
+- [[fungal-dna-barcoding]] reference gaps lead to unidentified OTUs (operational taxonomic units)
 
 ### Culture-Dependent Methods
 
@@ -72,13 +72,13 @@ Isolation of fungi onto artificial media from environmental samples. While labor
 
 ### Direct Microscopy
 
-Examination of substrates (soil, leaf litter, wood) under compound or scanning electron microscopy. Useful for documenting fungal biomass, hyphal morphology, and [[fungal-succession-in-decomposition|successional patterns]] in decomposition.
+Examination of substrates (soil, leaf litter, wood) under compound or scanning electron microscopy. Useful for documenting fungal biomass, hyphal morphology, and [[fungal-succession-in-decomposition]] in decomposition.
 
 ## Culturing and Isolation Techniques
 
 ### Selective Media
 
-Different [[fungal-culture-media|culture media]] can be formulated to selectively isolate particular fungal groups:
+Different [[fungal-culture-media]] can be formulated to selectively isolate particular fungal groups:
 
 - Acidified media for isolating fungi from bacterial-rich samples
 - Media with antibiotics to suppress bacterial growth
@@ -86,11 +86,11 @@ Different [[fungal-culture-media|culture media]] can be formulated to selectivel
 
 ### Baiting Techniques
 
-Substrate baits (cellulose, chitin, keratin, pollen) placed in environmental samples to capture fungi capable of degrading specific materials. This is particularly valuable for aquatic fungi and [[coprophilous-fungi|coprophilous]] fungi.
+Substrate baits (cellulose, chitin, keratin, pollen) placed in environmental samples to capture fungi capable of degrading specific materials. This is particularly valuable for aquatic fungi and [[coprophilous-fungi]] fungi.
 
 ## Integrating Multiple Methods
 
-No single method captures the full spectrum of fungal diversity. Best practice in [[fungal-biodiversity|fungal biodiversity]] assessment combines:
+No single method captures the full spectrum of fungal diversity. Best practice in [[fungal-biodiversity]] assessment combines:
 
 1. **Fruit-body surveys** for macrofungi baseline data
 2. **eDNA metabarcoding** for comprehensive community profiling
@@ -108,10 +108,10 @@ Each method captures a partially overlapping subset of the total fungal communit
 
 ## See Also
 
-- [[fungal-biodiversity|fungal biodiversity overview]]
-- [[fungal-biodiversity-in-extreme-environments|fungi in extreme environments]]
-- [[fungal-dna-barcoding|DNA barcoding for fungi]]
-- [[fungal-species-concept-and-taxonomy|species concepts in mycology]]
+- [[fungal-biodiversity]]
+- [[fungal-biodiversity-in-extreme-environments]]
+- [[fungal-dna-barcoding]]
+- [[fungal-species-concept-and-taxonomy]]
 
 ## Related
 

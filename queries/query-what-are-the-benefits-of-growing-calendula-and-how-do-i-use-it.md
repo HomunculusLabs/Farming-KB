@@ -17,15 +17,15 @@ It serves simultaneously as a companion plant that attracts beneficial insects, 
 
 Calendula is easy to grow from seed, tolerates a wide range of conditions, and blooms prolifically from spring through fall with minimal care.
 
-Every part of the plant has a practical use, making it an essential addition to [[companion-planting|companion plant]] for vegetable gardens and food forests.
+Every part of the plant has a practical use, making it an essential addition to [[companion-planting]] for vegetable gardens and food forests.
 
 Its bright orange and yellow flowers attract pollinators and predatory insects that help keep pest populations in check.
 
 Aphids are often drawn to calendula plants, which can serve as a trap crop that keeps them away from your prized vegetables.
 
-This sacrificial role is a form of [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them|dynamic accumulator]], drawing nutrients from deep soil layers into its leaves and stems.
+This sacrificial role is a form of [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]], drawing nutrients from deep soil layers into its leaves and stems.
 
-While not as vigorous as [[comparison-living-mulch-vs-cover-crops|living mulch]] between larger crops, suppressing weeds and protecting bare soil.
+While not as vigorous as [[comparison-living-mulch-vs-cover-crops]] between larger crops, suppressing weeds and protecting bare soil.
 
 Its relatively shallow root system helps prevent soil erosion without competing aggressively with neighboring plants.
 
@@ -43,7 +43,7 @@ Hoverflies attracted to calendula are particularly valuable because their larvae
 
 The medicinal use of calendula dates back centuries and is supported by modern phytochemical research.
 
-Key active compounds include triterpenoids (faradiol), flavonoids like [[comparison-arnica-vs-calendula|comparison with arnica]] shows calendula is gentler and safer for open wounds, while arnica is better for bruising.
+Key active compounds include triterpenoids (faradiol), flavonoids like [[comparison-arnica-vs-calendula]] shows calendula is gentler and safer for open wounds, while arnica is better for bruising.
 
 Internal use of calendula tea has traditionally supported digestive health and lymphatic function.
 
@@ -60,20 +60,20 @@ Internal use of calendula tea has traditionally supported digestive health and l
 
 ### Culinary and Edible Flower Uses
 
-Calendula petals are one of the most popular [[query-how-to-make-herbal-infused-oils-at-home|herbal-infused oil]] is the foundation for most calendula preparations.
+Calendula petals are one of the most popular [[query-how-to-make-herbal-infused-oils-at-home]] is the foundation for most calendula preparations.
 
 Dried calendula flowers are steeped in a carrier oil like olive or coconut oil for several weeks.
 
-This infused oil can be used directly on the skin or incorporated into a [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home|tincture]] offers a concentrated extract for longer-term storage and precise dosing.
+This infused oil can be used directly on the skin or incorporated into a [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]] offers a concentrated extract for longer-term storage and precise dosing.
 
 ### Growing Calendula Successfully
 
-Calendula is one of the easiest flowers to grow from seed, making it ideal for beginners starting a [[companion-planting|companion plant]], medicinal herb, and edible flower all in one.
-- It attracts pollinators and beneficial insects while potentially acting as a [[calendula-officinalis|Calendula]] contains triterpenoids and flavonoids like [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them|dynamic accumulator]] and can serve as living mulch.
+Calendula is one of the easiest flowers to grow from seed, making it ideal for beginners starting a [[companion-planting]], medicinal herb, and edible flower all in one.
+- It attracts pollinators and beneficial insects while potentially acting as a [[calendula-officinalis]] contains triterpenoids and flavonoids like [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]] and can serve as living mulch.
 - The petals are edible and add both color and a peppery flavor to culinary dishes.
-- Compared to [[comparison-calendula-vs-chamomile|How does calendula compare to chamomile?]]
-- [[query-how-to-attract-and-support-native-bee-pollinators|How do I attract and support native bee pollinators?]]
-- [[query-how-to-make-herbal-infused-oils-at-home|How do I make herbal infused oils at home?]]
+- Compared to [[comparison-calendula-vs-chamomile]]
+- [[query-how-to-attract-and-support-native-bee-pollinators]]
+- [[query-how-to-make-herbal-infused-oils-at-home]]
 
 ## Overview
 

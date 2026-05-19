@@ -13,24 +13,24 @@ sources:
 
 The best soil amendments for organic gardening depend on your soil type, climate, and what you are growing.
 Compost, vermicompost, and biochar are three of the most versatile amendments that improve almost any soil.
-[[comparison-biochar-vs-compost|Compost compared to biochar]] shows that compost provides more immediately available nutrients while biochar excels at long-term carbon storage.
+[[comparison-biochar-vs-compost]] shows that compost provides more immediately available nutrients while biochar excels at long-term carbon storage.
 Vermicompost, produced by earthworms, contains higher levels of plant-available nutrients and beneficial microbes than standard thermal compost.
-[[comparison-biochar-vs-vermicomposting|Biochar versus vermicomposting]] reveals that biochar lasts for centuries in soil while vermicompost decomposes within months.
+[[comparison-biochar-vs-vermicomposting]] reveals that biochar lasts for centuries in soil while vermicompost decomposes within months.
 Before applying biochar, it should be "charged" or inoculated by soaking it in compost tea, worm castings, or nutrient-rich liquid for at least one week.
-[[comparison-biochar-vs-composting-soil-amendment|Biochar composting as a soil amendment]] is another effective approach where biochar is added during the composting process itself.
+[[comparison-biochar-vs-composting-soil-amendment]] is another effective approach where biochar is added during the composting process itself.
 
 ### Mineral Amendments
 
 Rock dust provides a broad spectrum of trace minerals that are often depleted in agricultural soils.
-[[agricultural-mycorrhizae|Mycorrhizal inoculants]] form symbiotic relationships with plant roots, dramatically expanding the effective root zone.
-[[aact-brewing-ingredients-molasses-humic-kelp-fish-ingham|Compost tea brewing ingredients]] like kelp and humic acids support both the microbes and the plants they colonize.
+[[agricultural-mycorrhizae]] form symbiotic relationships with plant roots, dramatically expanding the effective root zone.
+[[aact-brewing-ingredients-molasses-humic-kelp-fish-ingham]] like kelp and humic acids support both the microbes and the plants they colonize.
 
 ### Cover Crops as Living Amendments
 
-[[query-how-do-i-choose-the-right-cover-crop-for-my-garden|Choosing the right cover crop]] depends on your climate, season, and specific soil improvement goals.
+[[query-how-do-i-choose-the-right-cover-crop-for-my-garden]] depends on your climate, season, and specific soil improvement goals.
 Legume cover crops like clover, vetch, and peas convert atmospheric nitrogen into plant-available forms through symbiotic bacteria.
 Grass cover crops like rye and oats produce massive biomass that feeds soil microbes when terminated and incorporated.
-[[query-how-do-i-make-compost-tea|Making compost tea]] at home requires only a bucket, compost, molasses, and an air pump for basic AACT production.
+[[query-how-do-i-make-compost-tea]] at home requires only a bucket, compost, molasses, and an air pump for basic AACT production.
 Fish emulsion delivers a quick nitrogen boost but has a strong odor that some gardeners find unpleasant.
 Liquid kelp extract contains natural growth hormones (cytokinins and auxins) that stimulate root development.
 Apply liquid amendments as soil drenches or foliar sprays every 2-4 weeks during peak growing season.
@@ -40,14 +40,14 @@ Apply liquid amendments as soil drenches or foliar sprays every 2-4 weeks during
 Amendments applied in fall have all winter to integrate with soil biology before spring planting.
 Heavy amendments like compost, biochar, and mineral powders are best worked into the top few inches of soil.
 Liquid and biological amendments are most effective when applied during active plant growth when roots can immediately benefit.
-[[comparison-bokashi-vs-vermicomposting|Bokashi compared to vermicomposting]] illustrates that even fermented kitchen waste needs further processing before it becomes true soil.
+[[comparison-bokashi-vs-vermicomposting]] illustrates that even fermented kitchen waste needs further processing before it becomes true soil.
 Rotating amendment types each season prevents nutrient imbalances and ensures a diverse soil ecosystem over time.
 
 ## Key Points
 
 - Compost and vermicompost are the most universally beneficial soil amendments for organic gardens.
-- [[agricultural-mycorrhizae|Mycorrhizal inoculants]] dramatically increase nutrient uptake when applied at transplant time.
-- [[actively-aerated-compost-tea|Compost tea]] delivers fast microbial boosts but is supplemental, not a replacement for solid amendments.
+- [[agricultural-mycorrhizae]] dramatically increase nutrient uptake when applied at transplant time.
+- [[actively-aerated-compost-tea]] delivers fast microbial boosts but is supplemental, not a replacement for solid amendments.
 - Liquid amendments like kelp extract and fish emulsion are best used during active growth periods.
 - Fall application of heavy amendments gives soil biology time to integrate before spring planting.
 

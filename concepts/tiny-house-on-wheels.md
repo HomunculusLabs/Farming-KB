@@ -119,28 +119,28 @@ Weight is the critical constraint in THOW design. Every material choice has weig
 - Battery bank: 200-400 Ah lithium (LiFePO4 preferred)
 - Charge controller and inverter: 2000-3000W pure sine wave
 - Daily capacity: 2-4 kWh (enough for lights, laptop, phone, water pump)
-- See [[homestead-internet-options|connectivity options]] for off-grid communication
+- See [[homestead-internet-options]] for off-grid communication
 
 ### Water System
 
 - Fresh water tank: 30-50 gallons
 - 12V water pump and pressure tank
 - Propane tankless water heater
-- Greywater tank: 20-40 gallons (or [[off-grid-waste-management|greywater]] disposal system)
+- Greywater tank: 20-40 gallons (or [[off-grid-waste-management]] disposal system)
 
 ### Composting Toilet
 
 - Nature's Head, Separett, or Air Head are popular THOW models
 - No blackwater tank needed — significant weight and complexity savings
 - Vent fan requires small 12V power draw
-- See [[off-grid-waste-management|waste management]] for detailed comparison
+- See [[off-grid-waste-management]] for detailed comparison
 
 ### Heating and Cooling
 
 - Propane heater: Dickinson Newport or similar marine heater (vented)
 - Mini-split: 9,000 BTU unit heats and cools (requires 1500W power)
 - Wood stove: Cubic Mini or similar small wood stove (requires proper clearance and venting)
-- [[passive-solar-design|Passive solar]] orientation helps with both heating and cooling
+- [[passive-solar-design]] orientation helps with both heating and cooling
 
 ## Design Considerations
 

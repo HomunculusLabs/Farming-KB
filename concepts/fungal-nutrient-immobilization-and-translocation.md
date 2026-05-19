@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Fungi play a central role in ecosystem [[nutrient-mineralization-fungi|nutrient cycling]] through two interrelated processes: **nutrient immobilization** (the incorporation of inorganic minerals into fungal biomass) and **nutrient translocation** (the movement of nutrients across space via [[fungal-hyphae|mycelial networks]]). Together, these processes allow fungi to sequester limiting nutrients, redistribute them across heterogeneous environments, and regulate the availability of elements to plants and other organisms. The significance of these processes varies with fungal functional group, [[substrate-preparation|substrate quality]], and environmental conditions.
+Fungi play a central role in ecosystem [[nutrient-mineralization-fungi]] through two interrelated processes: **nutrient immobilization** (the incorporation of inorganic minerals into fungal biomass) and **nutrient translocation** (the movement of nutrients across space via [[fungal-hyphae]]). Together, these processes allow fungi to sequester limiting nutrients, redistribute them across heterogeneous environments, and regulate the availability of elements to plants and other organisms. The significance of these processes varies with fungal functional group, [[substrate-preparation]], and environmental conditions.
 
 ## Nutrient Immobilization
 
@@ -18,7 +18,7 @@ During decomposition, fungi absorb inorganic nutrients (particularly nitrogen an
 
 Fungal groups differ substantially in their immobilization capacity:
 
-- **Basidiomycetes** — long-lived mycelia and [[fungal-fruiting-body|fruiting bodies]] with slow turnover rates, providing a large and persistent nutrient sink.
+- **Basidiomycetes** — long-lived mycelia and [[fungal-fruiting-body]] with slow turnover rates, providing a large and persistent nutrient sink.
 - **Ephemeral molds** (e.g., zygomycetes and many ascomycetes) — rapid colonization and short lifespans, leading to quick nutrient turnover and relatively lower net accumulation.
 
 The longer the fungal residence time, the greater the cumulative nutrient accumulation potential within a given ecosystem.
@@ -92,7 +92,7 @@ Fungal nutrient dynamics are significantly affected by **grazing pressure** from
 - Collembola consume fungal hyphae, which alters the spatial distribution of mycelia and changes the pattern of nutrient immobilization across the soil profile.
 - Grazing accelerates nitrogen cycling by converting slow-turnover fungal biomass into faster-turnover collembola biomass and excretory products, thereby shortening the residence time of immobilized nitrogen.
 
-The grazing–immobilization interaction represents a key link between fungal decomposition pathways and higher trophic levels in [[soil-food-web|soil food webs]].
+The grazing–immobilization interaction represents a key link between fungal decomposition pathways and higher trophic levels in [[soil-food-web]].
 
 ## Ecosystem-Scale Significance
 

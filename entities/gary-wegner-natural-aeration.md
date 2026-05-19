@@ -76,8 +76,8 @@ Practices and outcomes vary significantly by climate zone, soil type, and local 
 
 ## See Also
 
-- [[natural-swimming-pools|Natural Swimming Pools]]
-- [[natural-sewage-treatment-systems|Natural Sewage Treatment Systems]]
-- [[natural-farming-seed-balls|Natural Farming Seed Balls]]
-- [[fukuoka-creating-natural-farm-site-selection-establishment|Fukuoka Creating Natural Farm Site Selection Establishment]]
-- [[solomon-tilling-and-soil-aeration|Solomon Tilling And Soil Aeration]]
+- [[natural-swimming-pools]]
+- [[natural-sewage-treatment-systems]]
+- [[natural-farming-seed-balls]]
+- [[fukuoka-creating-natural-farm-site-selection-establishment]]
+- [[solomon-tilling-and-soil-aeration]]

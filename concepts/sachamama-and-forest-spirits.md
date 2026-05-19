@@ -1,5 +1,5 @@
 ---
-title: Sachamama And Forest Spirits
+title: Sachamama And [[ayahuasca-chullachaki-forest-spirits-huairamama-wind-serpent]]
 source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
@@ -99,12 +99,12 @@ The huya-runa snakes fight against Puma-runa (jaguar-man), whose paws and head a
 
 The supay-caiman (devil caiman) possesses marble quills. Its icaro is sung to cure the mal aire del agua (illness produced by an evil breeze from the water), demonstrating that even ostensibly demonic beings can be called upon for healing when approached with proper knowledge and respect.
 ## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+The principles discussed here have direct applications in agricultural systems, [[mycorrhizal-fungi-ecological-restoration]], and sustainable [[savory-holistic-resource-management-animal-impact]].
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+[[psychedelic-therapy-current-research]] explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

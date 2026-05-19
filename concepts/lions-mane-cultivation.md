@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-Lion's Mane (Hericium erinaceus) is a prized edible and medicinal mushroom in the Hericiaceae family, easily recognized by its cascading white spines that resemble a flowing mane. It is one of the most popular [[gourmet-mushroom-species-guide|gourmet mushrooms]] for both home and commercial cultivation due to its distinctive appearance, excellent culinary qualities, and well-documented [[lions-mane-guide|medicinal properties]].
+Lion's Mane (Hericium erinaceus) is a prized edible and medicinal mushroom in the Hericiaceae family, easily recognized by its cascading white spines that resemble a flowing mane. It is one of the most popular [[gourmet-mushroom-species-guide]] for both home and commercial cultivation due to its distinctive appearance, excellent culinary qualities, and well-documented [[lions-mane-guide]].
 
 ## Species Description
 
@@ -43,7 +43,7 @@ Substrate is packed into autoclavable bags or jars and sterilized at 15 psi for 
 
 Lion's Mane can also fruit on:
 - Straw (less productive but accessible)
-- [[log-cultivation-methods|hardwood log inoculation]] (oak, beech)
+- [[log-cultivation-methods]] (oak, beech)
 - Paper/cardboard waste (low-yield experimental substrate)
 - Coffee grounds mixed with sawdust
 
@@ -71,7 +71,7 @@ Once fully colonized, Lion's Mane benefits from a cold shock (moving blocks to 5
 
 ### Fruiting Chamber
 
-A [[mushroom-cultivation-fruiting-chambers|fruiting chamber]] with high humidity (90-95%) and good fresh air exchange is essential. Lion's Mane requires more fresh air than many other cultivated species -- inadequate air exchange leads to elongated, sparse spines and poor fruiting body development.
+A [[mushroom-cultivation-fruiting-chambers]] with high humidity (90-95%) and good fresh air exchange is essential. Lion's Mane requires more fresh air than many other cultivated species -- inadequate air exchange leads to elongated, sparse spines and poor fruiting body development.
 
 ## Harvest and Post-Harvest
 
@@ -85,7 +85,7 @@ Cut the fruiting body cleanly at the base with a sharp knife or scissors. Avoid 
 
 ### Storage
 
-Refrigerate fresh at 34-38°F (1-3°C) in paper bags for up to 2 weeks. For longer storage, dehydrate at 95-110°F (35-43°C) until crispy. Dried Lion's Mane reconstitutes well for cooking and is the preferred form for [[medicinal-mushroom-guide-lions-mane|medicinal preparations]].
+Refrigerate fresh at 34-38°F (1-3°C) in paper bags for up to 2 weeks. For longer storage, dehydrate at 95-110°F (35-43°C) until crispy. Dried Lion's Mane reconstitutes well for cooking and is the preferred form for [[medicinal-mushroom-guide-lions-mane]].
 
 ## Yield Expectations
 
@@ -95,7 +95,7 @@ Refrigerate fresh at 34-38°F (1-3°C) in paper bags for up to 2 weeks. For long
 
 ## Medicinal Value
 
-Lion's Mane is one of the most researched [[medicinal-mushroom-guide|medicinal mushrooms]], with studies demonstrating:
+Lion's Mane is one of the most researched [[medicinal-mushroom-guide]], with studies demonstrating:
 
 - **Nerve growth factor (NGF) stimulation:** Hericenones and erinacines promote NGF synthesis, supporting nerve regeneration and cognitive function
 - **Neuroprotective effects:** Potential applications in Alzheimer's disease, Parkinson's disease, and peripheral neuropathy
@@ -106,15 +106,15 @@ Lion's Mane is one of the most researched [[medicinal-mushroom-guide|medicinal m
 
 - **Coral-like growth (sparse spines):** Usually caused by insufficient fresh air exchange
 - **Browning:** Excessive light, temperature stress, or delayed harvest
-- **Contamination:** Trichoderma green mold is the most common competitor; maintain strict [[mushroom-cultivation-sterile-technique|sterile technique]]
+- **Contamination:** Trichoderma green mold is the most common competitor; maintain strict [[mushroom-cultivation-sterile-technique]]
 - **No fruiting:** Usually caused by insufficient humidity or air exchange
 
 ## See Also
 
-- [[lions-mane-guide|Lion's Mane comprehensive guide]]
-- [[medicinal-mushroom-guide-lions-mane|medicinal properties of Lion's Mane]]
-- [[bulk-substrate-preparation|bulk substrate preparation]]
-- [[mushroom-cultivation-basics|mushroom cultivation fundamentals]]
+- [[lions-mane-guide]]
+- [[medicinal-mushroom-guide-lions-mane]]
+- [[bulk-substrate-preparation]]
+- [[mushroom-cultivation-basics]]
 
 ## Related
 

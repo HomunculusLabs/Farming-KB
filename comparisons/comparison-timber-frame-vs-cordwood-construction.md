@@ -19,7 +19,7 @@ choose the right approach for their climate, budget, and skill level.
 
 ## Timber Frame Construction
 
-[[comparison-cob-vs-hempcrete|hempcrete]],
+[[comparison-cob-vs-hempcrete]],
 or light straw clay.
 
 Timber frames excel in structural spans, allowing open interior spaces without
@@ -30,7 +30,7 @@ often involving community labor or a crane.
 
 ## Cordwood Construction
 
-[[straw-bale-construction|straw bale]] or hempcrete infill for a hybrid
+[[straw-bale-construction]] or hempcrete infill for a hybrid
 building that combines structural elegance with high energy performance.
 
 ## When to Choose Cordwood Construction
@@ -45,7 +45,7 @@ reduce heating costs.
 Cordwood is also an excellent choice when the building site produces its own
 material. If you are clearing land for the building footprint, the resulting
 logs can become the walls. The technique works well for small cabins, garden
-walls, and outbuildings. When paired with a simple [[comparison-cob-vs-cordwood|post-and-beam structure]] for the roof,
+walls, and outbuildings. When paired with a simple [[comparison-cob-vs-cordwood]] for the roof,
 cordwood creates a complete, comfortable shelter at minimal expense.
 
 ## Hybrid Approaches

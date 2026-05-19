@@ -13,7 +13,7 @@ sources:
 ## Short Answer
 
 Protecting plants from frost requires a combination of passive and active strategies that insulate crops from freezing temperatures.
-Passive methods like [[cervantes-mulch-outdoor-moisture-conservation|mulching]] reduce heat loss from the soil surface.
+Passive methods like [[cervantes-mulch-outdoor-moisture-conservation]] reduce heat loss from the soil surface.
 Active methods include row covers, cold frames, and greenhouse structures that trap radiant heat around vulnerable plants.
 The best approach layers multiple techniques together, creating a buffer zone that keeps plant tissues above their critical damage threshold.
 
@@ -25,7 +25,7 @@ Frost occurs when surface temperatures drop to 0°C (32°F) or below while air t
 A freeze event involves a broader mass of cold air pushing temperatures well below freezing for sustained periods.
 Radiation frosts happen on clear, calm nights when heat radiates away from the ground faster than it is replaced.
 Advection freezes are driven by wind carrying cold arctic air masses and are much harder to protect against.
-Understanding which type you face determines which [[cervantes-season-extension-cloches-row-covers|Cloches and row covers]] work by trapping ground heat that would otherwise escape into the night sky.
+Understanding which type you face determines which [[cervantes-season-extension-cloches-row-covers]] work by trapping ground heat that would otherwise escape into the night sky.
 For added warmth, use a double layer of row cover fabric supported by wire hoops to prevent fabric from touching foliage.
 Remove covers during sunny days to allow air circulation and prevent overheating, then re-cover before nightfall.
 Heavier weight fabrics provide more insulation but transmit less light, creating a tradeoff between protection and photosynthesis.
@@ -33,21 +33,21 @@ Heavier weight fabrics provide more insulation but transmit less light, creating
 ### Cold Frames and Low Tunnels
 
 Cold frames are bottomless boxes with transparent tops that capture solar energy and protect plants from wind chill.
-A well-built [[cold-frame-gardening|Cold frame gardening]] allows you to extend the harvest season by months in temperate climates.
+A well-built [[cold-frame-gardening]] allows you to extend the harvest season by months in temperate climates.
 Low tunnels made from hoops covered with plastic or row cover fabric offer similar benefits at larger scale.
 Ventilation is critical on sunny days — even in winter, a closed cold frame can overheat and cook tender plants within hours.
 
 ### Greenhouse and High Tunnel Strategies
 
 Greenhouses provide the most comprehensive frost protection but require greater investment in materials and management.
-Eliot Coleman's [[coleman-greenhouse-heating-options-winter-production|Greenhouse heating options]] range from passive thermal mass to active propane or electric systems.
+Eliot Coleman's [[coleman-greenhouse-heating-options-winter-production]] range from passive thermal mass to active propane or electric systems.
 High tunnels (hoop houses) offer a middle ground — less expensive than glass greenhouses but providing 3–5°C of frost protection.
-The [[coleman-cold-house-wind-protection-microclimate|wind protection]] around greenhouse structures dramatically improves their thermal performance.
+The [[coleman-cold-house-wind-protection-microclimate]] around greenhouse structures dramatically improves their thermal performance.
 
 ### Selecting Cold-Hardy Varieties
 
 Choosing the right varieties is the most energy-efficient form of frost protection available to any grower.
-[[coleman-cold-hardiness-testing-ratings|Cold hardiness ratings]] help growers compare variety performance under specific temperature thresholds.
+[[coleman-cold-hardiness-testing-ratings]] help growers compare variety performance under specific temperature thresholds.
 Many brassicas, alliums, and root crops actually improve in flavor after exposure to light frost due to starch-to-sugar conversion.
 Fall-planted varieties that overwinter in a semi-dormant state resume rapid growth during the first warm days of spring.
 Matching your crop selection to your hardiness zone and expected minimum temperatures reduces the need for artificial protection.
@@ -55,7 +55,7 @@ Matching your crop selection to your hardiness zone and expected minimum tempera
 ### Mulching and Soil Insulation
 
 A thick layer of organic mulch acts as a thermal blanket that moderates soil temperature fluctuations.
-[[coleman-overwintered-spinach-cold-house-production|overwintering structures]] designed for cold climates.
+[[coleman-overwintered-spinach-cold-house-production]] designed for cold climates.
 Terracotta and ceramic pots are especially prone to cracking during freeze-thaw cycles and should be wrapped or moved indoors.
 
 ### What About Water and Irrigation for Frost Protection?
@@ -81,7 +81,7 @@ Perennial herbs like rosemary and lavender benefit from a gravel mulch that impr
 
 - Identify whether you face radiation frost or advection freeze to choose the right protection strategy.
 - Floating row covers provide 2–4°C of protection and are the most cost-effective option for most growers.
-- [[coleman-cold-hardy-winter-vegetables|cold-hardy varieties]] is the most sustainable long-term frost management approach.
+- [[coleman-cold-hardy-winter-vegetables]] is the most sustainable long-term frost management approach.
 - Mulch moderates soil temperature and protects roots but should not contact stems directly.
 - Container plants need extra attention since their root systems lack ground insulation.
 - Always ventilate enclosed protection structures on sunny days to prevent heat damage.

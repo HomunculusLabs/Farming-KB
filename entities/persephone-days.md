@@ -78,8 +78,8 @@ W. J. C. Lawrence, the eminent British greenhouse researcher, confirmed the ten-
 - **Day length and latitude**: Geographic factors determining the length of the Persephone period
 
 ## See Also
-- [[coleman-winter-day-length-and-persephone-months|Coleman Winter Day Length And Persephone Months]]
-- [[demeter-and-persephone-in-eleusinian-mythology|Demeter And Persephone In Eleusinian Mythology]]
-- [[persephone-and-demeter-in-the-mysteries|Persephone And Demeter In The Mysteries]]
-- [[coleman-persephone-months-winter-day-length|Coleman Persephone Months Winter Day Length]]
-- [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth|Demeter And Persephone The Homeric Hymn And Eleusinian Foundation Myth]]
+- [[coleman-winter-day-length-and-persephone-months]]
+- [[demeter-and-persephone-in-eleusinian-mythology]]
+- [[persephone-and-demeter-in-the-mysteries]]
+- [[coleman-persephone-months-winter-day-length]]
+- [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]]

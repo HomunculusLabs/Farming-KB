@@ -32,7 +32,7 @@ Related: [[mushroom-species-guide]], [[herbal-medicine]], [[fungal-ecology]]
 - **Lentinan**: Beta-glucan specific to shiitake (Lentinula edodes). FDA-approved as adjunct cancer therapy in Japan.
 - **PSK (Polysaccharide-K)**: Protein-bound polysaccharide from turkey tail (Trametes versicolor). Approved anticancer drug in Japan since 1977. Brand name Krestin.
 - **PSP (Polysaccharide-Peptide)**: From Trametes versicolor. Similar to PSK but with different protein binding. Approved in China.
-- **Ganoderic acids**: Triterpenoids from [[reishi-cultivation|reishi]] (Ganoderma lucidum). Anti-inflammatory, hepatoprotective, anticancer via apoptosis induction.
+- **Ganoderic acids**: Triterpenoids from [[reishi-cultivation]] (Ganoderma lucidum). Anti-inflammatory, hepatoprotective, anticancer via apoptosis induction.
 - **Hericenones and erinacines**: Compounds from lion's mane (Hericium erinaceus). Stimulate NGF (nerve growth factor) synthesis. Erinacines in mycelium; hericenones in fruiting body.
 - **Cordycepin (3'-deoxyadenosine)**: Nucleoside analog from Cordyceps militaris. Anti-proliferative, immunomodulatory, anti-inflammatory.
 - **Ergothioneine**: Amino acid antioxidant found in all mushrooms. Protects against oxidative stress. High concentrations in shiitake, oyster, porcini.
@@ -66,7 +66,7 @@ Related: [[mushroom-species-guide]], [[herbal-medicine]], [[fungal-ecology]]
 - **Preparations**: Fresh: cook like seafood (crab/lobster flavor). Dried powder in capsules. Dual extract tincture (mycelium for erinacines, fruiting body for hericenones). Tea from dried slices
 - **Dosage**: 500-3000 mg extract/day; 2-4 g dried mushroom/day; fresh: 100-250 g cooked
 - **Cultivation**: Moderate. Prefers hardwood supplemented sawdust. Fruiting in 2-4 weeks after primordia. Can be grown on logs but less reliable than indoor cultivation.
-- **Sourcing**: Fresh at specialty [[mushroom-market-and-economics|market]]s. Supplements widely available. Both mycelium and fruiting body products sold -- ideally use both for full spectrum of compounds.
+- **Sourcing**: Fresh at specialty [[mushroom-market-and-economics]] s. Supplements widely available. Both mycelium and fruiting body products sold -- ideally use both for full spectrum of compounds.
 - **Cautions**: Rare cases of contact dermatitis from fresh mushrooms. Generally very safe.
 
 ### Cordyceps (Cordyceps militaris / C. sinensis)
@@ -89,7 +89,7 @@ Related: [[mushroom-species-guide]], [[herbal-medicine]], [[fungal-ecology]]
 - **Sourcing**: Widely available fresh and dried at grocery stores. Supplements less common than reishi/turkey tail.
 - **Cautions**: "Shiitake dermatitis" (flagellate erythema) in rare cases from raw or undercooked mushrooms. Always cook thoroughly. Rare allergic reactions.
 
-### [[maitake-cultivation|Maitake]] / Hen of the Woods (Grifola frondosa)
+### [[maitake-cultivation]] / Hen of the Woods (Grifola frondosa)
 
 - **Active compounds**: Maitake D-fraction (MD-fraction, specific beta-glucan), grifolan, beta-glucans, ergosterol
 - **Health benefits**: MD-fraction activates macrophages, NK cells, and T-cells. Anti-tumor activity in animal models and early clinical trials. Insulin sensitization -- may help manage type 2 diabetes and metabolic syndrome. Hypotensive. Hepatoprotective.
@@ -109,7 +109,7 @@ Related: [[mushroom-species-guide]], [[herbal-medicine]], [[fungal-ecology]]
 - **Sourcing**: Wild harvested from birch forests (Siberia, Canada, northern US, Scandinavia). Quality varies widely. Look for betulin content and third-party testing for heavy metals. Overharvesting is a conservation concern.
 - **Cautions**: High oxalate content -- may contribute to kidney stones with heavy use. Contains compounds that may interact with blood thinners. Avoid in pregnancy (traditional禁忌). Potential for contamination with heavy metals from polluted environments.
 
-### [[medicinal-mushroom-guide-agaricus-blazei|Agaricus blazei]] (Agaricus subrufescens)
+### [[medicinal-mushroom-guide-agaricus-blazei]] (Agaricus subrufescens)
 
 - **Active compounds**: Beta-glucans (high concentration), ergosterol, agaritine, blazein, linoleic acid derivatives
 - **Health benefits**: Originally discovered in Brazil where local populations had very low cancer rates. Immunostimulatory (NK cell activation). Anti-tumor activity in animal models and some clinical trials. Anti-inflammatory. Anti-diabetic. Antioxidant.

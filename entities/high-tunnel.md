@@ -80,8 +80,8 @@ The high tunnel environment supports a remarkable diversity of crops across the 
 - **Winter harvest**: The primary production system enabled by high tunnels
 
 ## See Also
-- [[coleman-high-tunnel-cold-frame-design|Coleman High Tunnel Cold Frame Design]]
-- [[query-what-is-the-difference-between-a-high-tunnel-and-a-hoop-house|Query What Is The Difference Between A High Tunnel And A Hoop House]]
-- [[comparison-high-tunnel-vs-walipini|Comparison High Tunnel Vs Walipini]]
-- [[saddle-dams-and-high-water-storages|Saddle Dams And High Water Storages]]
-- [[fukuoka-high-yield-theory-photosynthesis-critique|Fukuoka High Yield Theory Photosynthesis Critique]]
+- [[coleman-high-tunnel-cold-frame-design]]
+- [[query-what-is-the-difference-between-a-high-tunnel-and-a-hoop-house]]
+- [[comparison-high-tunnel-vs-walipini]]
+- [[saddle-dams-and-high-water-storages]]
+- [[fukuoka-high-yield-theory-photosynthesis-critique]]

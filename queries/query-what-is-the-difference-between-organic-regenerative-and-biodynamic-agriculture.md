@@ -13,13 +13,13 @@ type: query
 
 ## Short Answer
 [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], and ecosystem restoration as measurable
-outcomes; and [[regenerative-agriculture|Regenerative agriculture]] represents a more
+outcomes; and [[regenerative-agriculture]] represents a more
 outcome-focused evolution. Rather than defining farming by what inputs
 are avoided, regenerative agriculture defines it by what it achieves:
 improved soil health, increased biodiversity, enhanced water cycling,
 and carbon sequestration. The  regenerative agriculture overview emphasizes measurable soil health
-indicators like [[teaming-with-microbes-cover-crops-soil-health|cover cropping for soil health]] are foundational regenerative practices that build
-[[comparison-biodynamic-vs-permaculture|comparison between biodynamic and permaculture]] reveals interesting philosophical overlaps, particularly
+indicators like [[teaming-with-microbes-cover-crops-soil-health]] are foundational regenerative practices that build
+[[comparison-biodynamic-vs-permaculture]] reveals interesting philosophical overlaps, particularly
 around viewing the farm as a self-sustaining organism.
 
 From a practical standpoint, the three approaches can be complementary
@@ -28,14 +28,14 @@ preparations for their observable effects on compost biology and soil
 vitality. Permaculture designers often integrate all three philosophies,
 using organic standards as a baseline, regenerative outcomes as goals,
 and biodynamic timing and preparations as tools. The
-[[soil-food-web|soil food web]] is central to regenerative and
+[[soil-food-web]] is central to regenerative and
   biodynamic thinking but less emphasized in mainstream organic
 
 ## Related
 
 - [[query-what-is-the-difference-between-thc-cbd-and-minor-cannabinoids]]
 - [[query-what-are-the-12-permaculture-principles]]
-- [[comparison-knf-vs-biodynamic|KNF vs Biodynamic Farming]]
+- [[comparison-knf-vs-biodynamic]]
 ## Practical Considerations
 
 When working with What Is the Difference Between Organic Regenerative and Biodynamic Agriculture, several practical factors should be

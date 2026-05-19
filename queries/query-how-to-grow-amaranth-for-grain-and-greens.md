@@ -34,13 +34,13 @@ Amaranth is naturally drought-tolerant once established, making it an excellent 
 
 ## Choosing the Right Variety
 
-Different amaranth species are bred or selected for either [[amaranthus-cruentus|Amaranthus cruentus]] is the most versatile species, producing both edible leaves and substantial grain heads.
+Different amaranth species are bred or selected for either [[amaranthus-cruentus]] is the most versatile species, producing both edible leaves and substantial grain heads.
 
-It is widely grown in Mexico, [[amaranthus-hypochondriacus|Amaranthus hypochondriacus]] is the premier grain-producing species with the largest seed heads.
+It is widely grown in Mexico, [[amaranthus-hypochondriacus]] is the premier grain-producing species with the largest seed heads.
 
 This species was a sacred crop of the Aztecs and produces yields comparable to quinoa in favorable conditions.
 
-[[amaranthus-tricolor|Amaranthus tricolor]] is primarily grown for its spectacular edible leaves that come in red, yellow, and green.
+[[amaranthus-tricolor]] is primarily grown for its spectacular edible leaves that come in red, yellow, and green.
 
 This species is popular in Asian stir-fries and salads and performs best when harvested young and tender.
 
@@ -78,7 +78,7 @@ Cross-pollination can occur between different amaranth species grown nearby, so 
 
 ## Key Points
 
-- Amaranth produces both protein-rich grain and nutritious [[amaranthus-hypochondriacus|Amaranthus hypochondriacus]] is the top choice for grain production with large seed heads.
-- [[chenopodium-quinoa|quinoa]] and other warm-season crops.
+- Amaranth produces both protein-rich grain and nutritious [[amaranthus-hypochondriacus]] is the top choice for grain production with large seed heads.
+- [[chenopodium-quinoa]] and other warm-season crops.
 - See [[natural-farming-philosophy-of-mu]]
-- [[query-best-cover-crops-for-sandy-soil|What are the best cover crops for sandy soil?]]
+- [[query-best-cover-crops-for-sandy-soil]]

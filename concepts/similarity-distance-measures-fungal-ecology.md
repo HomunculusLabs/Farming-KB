@@ -6,7 +6,7 @@ type: concept
 
 # Similarity and Distance Measures in Fungal Community Ecology
 
-[[distance-coefficients-fungal-community-comparison|Similarity and distance coefficients]] are fundamental tools in [[fungal-diversity-fire-ecology|fungal community ecology]]
+[[distance-coefficients-fungal-community-comparison]] are fundamental tools in [[fungal-diversity-fire-ecology]]
 for comparing species assemblages across samples, sites, or environmental gradients.
 They reduce complex multivariate data into pairwise indices used as input for
 **ordination**, **[[cluster-analysis-fungal-biodiversity-classification]]**, and hypothesis testing. The choice depends on
@@ -83,7 +83,7 @@ of differences.
 
 ### Percent Similarity (Renkonen Index)
 
-Sums the minimum abundance across all shared species:
+Sums [[von-liebig-law-of-the-minimum-and-fertilizer-history]] abundance across all shared species:
 
 $$PS_{jk} = \sum_{i=1}^{S} \min(X_{ij},\, X_{ik})$$
 
@@ -114,9 +114,9 @@ $$\text{GDD}_{jk} = \arccos(\text{cosine similarity}_{jk})$$
 Values range from 0 (identical) to approximately 1.57 (π/2; maximally dissimilar).
 Provides a well-bounded metric distance useful for ordination and clustering.
 
-### [[bray-curtis-dissimilarity|Bray–Curtis Dissimilarity]]
+### [[bray-curtis-dissimilarity]]
 
-Among the most widely used [[quantitative-indices-fungal-diversity|quantitative indices]] in fungal ecology. Bounded 0 to 1, it
+Among the most widely used [[quantitative-indices-fungal-diversity]]] in fungal ecology. Bounded 0 to 1, it
 gives less weight to dominant species than Euclidean distance and handles
 heterogeneous, zero-inflated datasets typical of fungal studies well.
 
@@ -139,12 +139,12 @@ changes. A site pair may share most species (high Jaccard) but differ in dominan
 ## Applications in Fungal Ecology
 - **Ordination** (NMDS, PCoA) of assemblages across [[soil-ph]], host species, or land use
 - **[[cluster-analysis-fungal-biodiversity-classification]]** to identify community types (tropical vs. temperate)
-- **Temporal comparisons** of seasonal succession in ectomycorrhizal communities
+- **Temporal comparisons** of [[mushroom-seasonal-succession-perennial-spawn]] al-succession-in-permaculture-design]] ectomycorrhizal communities
 - **Biogeographic analyses** comparing fungal floras across continents or islands
 
 ## See Also
 
 - Ordination methods in fungal ecology
-- [[cluster-analysis-fungal-biodiversity-classification|Cluster analysis]] of community data
-- DNA metabarcoding and sequence-based fungal surveys
-- [[alpha-beta-gamma-diversity-fungi|Alpha]] and [[alpha-beta-gamma-diversity-fungi|beta diversity]]
+- [[cluster-analysis-fungal-biodiversity-classification]] of community data
+- [[environmental-dna-metabarcoding]] and sequence-based fungal surveys
+- [[alpha-beta-gamma-diversity-fungi]] and [[alpha-beta-gamma-diversity-fungi]]]

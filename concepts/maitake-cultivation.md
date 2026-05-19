@@ -16,17 +16,17 @@ sources:
 
 ## Overview
 
-Maitake (Grifola frondosa), commonly called Hen of the Woods, is a highly prized edible and medicinal mushroom that forms large, clustered, overlapping caps at the base of oak trees and other hardwoods. It is among the more challenging gourmet mushrooms to cultivate commercially, but its culinary quality and [[maitake-mushroom-research|medicinal reputation]] make it a valuable target for cultivators.
+Maitake (Grifola frondosa), commonly called Hen of the Woods, is a highly prized edible and medicinal mushroom that forms large, clustered, overlapping caps at the base of oak trees and other hardwoods. It is among the more challenging gourmet mushrooms to cultivate commercially, but its culinary quality and [[maitake-mushroom-research]] make it a valuable target for cultivators.
 
 ## Species Description
 
 Maitake produces large fruiting bodies composed of multiple rosettes of grayish-brown, fan-shaped caps that overlap like the feathers of a hen. A single specimen can weigh 10-50 pounds in the wild. The flesh is firm, white, and has a rich, earthy, peppery flavor that is highly regarded in Japanese and Western cuisine.
 
-Natural habitat: found at the base of oak trees (Quercus species) and occasionally other hardwoods, forming a [[saprotrophic-fungi|saprotrophic]] or possibly weak parasitic relationship with living roots. Distributed across temperate regions of eastern North America, Europe, and Japan.
+Natural habitat: found at the base of oak trees (Quercus species) and occasionally other hardwoods, forming a [[saprotrophic-fungi]] or possibly weak parasitic relationship with living roots. Distributed across temperate regions of eastern North America, Europe, and Japan.
 
 ## Cultivation Challenges
 
-Maitake presents several difficulties that make it more demanding than [[oyster-mushroom-pleurotus-ostreatus|oyster mushrooms]] or [[shiitake-cultivation-guide|shiitake]]:
+Maitake presents several difficulties that make it more demanding than [[oyster-mushroom-pleurotus-ostreatus]] or [[shiitake-cultivation-guide]]:
 
 - **Slow colonization:** Mycelium grows more slowly than many other cultivated species
 - **Specific substrate requirements:** Performs best on oak-based substrates; alternatives are less reliable
@@ -108,7 +108,7 @@ Refrigerate at 34-38°F (1-3°C). Maitake has a shorter shelf life than many mus
 
 ## Medicinal Value
 
-Maitake is extensively studied as a [[medicinal-mushroom-guide-maitake|medicinal mushroom]]:
+Maitake is extensively studied as a [[medicinal-mushroom-guide-maitake]]:
 
 - **D-fraction (beta-glucan):** The most researched Maitake extract, showing immune-modulating and potential anti-tumor activity in laboratory and clinical studies
 - **Blood sugar regulation:** Evidence for reducing insulin resistance and improving glucose metabolism
@@ -117,10 +117,10 @@ Maitake is extensively studied as a [[medicinal-mushroom-guide-maitake|medicinal
 
 ## See Also
 
-- [[maitake-cultivation-guide|Maitake detailed cultivation guide]]
-- [[maitake-mushroom-research|Maitake research summary]]
-- [[medicinal-mushroom-guide-maitake|Maitake medicinal properties]]
-- [[mushroom-cultivation-basics|mushroom cultivation fundamentals]]
+- [[maitake-cultivation-guide]]
+- [[maitake-mushroom-research]]
+- [[medicinal-mushroom-guide-maitake]]
+- [[mushroom-cultivation-basics]]
 
 ## Related
 

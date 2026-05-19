@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-The King Oyster (Pleurotus eryngii), also known as Eryngii, is the largest member of the [[oyster-mushroom-species-guide|oyster mushroom genus]]. It produces thick, meaty stems and small caps that make it one of the most commercially valuable specialty mushrooms. Its texture and flavor are often compared to abalone or scallops, making it popular in high-end cuisine.
+The King Oyster (Pleurotus eryngii), also known as Eryngii, is the largest member of the [[oyster-mushroom-species-guide]]. It produces thick, meaty stems and small caps that make it one of the most commercially valuable specialty mushrooms. Its texture and flavor are often compared to abalone or scallops, making it popular in high-end cuisine.
 
 ## Species Description
 
@@ -129,10 +129,10 @@ King Oyster is valued for its:
 
 ## See Also
 
-- [[oyster-mushroom-cultivation|oyster mushroom cultivation]]
-- [[oyster-mushroom-species-guide|oyster mushroom species comparison]]
-- [[bulk-substrate-preparation|bulk substrate preparation]]
-- [[mushroom-cultivation-basics|mushroom cultivation fundamentals]]
+- [[oyster-mushroom-cultivation]]
+- [[oyster-mushroom-species-guide]]
+- [[bulk-substrate-preparation]]
+- [[mushroom-cultivation-basics]]
 
 ## Related
 

@@ -18,9 +18,9 @@ Because the wet season of the wet-dry tropics closely mirrors conditions found i
 
 ### Landscape and Vegetation
 
-The wet tropics feature **perennial streams** fed by consistent rainfall, **deeply weathered regolith** (ancient, leached rock underlying thin soils), **rounded hills** shaped by prolonged chemical weathering, **rapid [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch|canopy]], up to **800 tree species per km²** in the most diverse stands, shaded [[cover-crops|pasture]]. Large mammalian fauna is limited compared to savannah regions.
+The wet tropics feature **perennial streams** fed by consistent rainfall, **deeply weathered regolith** (ancient, leached rock underlying thin soils), **rounded hills** shaped by prolonged chemical weathering, **rapid [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]], up to **800 tree species per km²** in the most diverse stands, shaded [[cover-crops]]. Large mammalian fauna is limited compared to savannah regions.
 
-A critical insight for [[soil-ph|soil]]. When rainforest is cleared, the thin, heavily leached soils become rapidly infertile. Sustainable design must maintain continuous biomass and [[permaculture-plants-comfrey-chop-and-drop|cassava]], yams, coconut, corn, taro, paddy rice, ducks, pigs, poultry, and fish. Trade crops: spices, copra, palm oil, cacao, rubber, manilla hemp, hardwoods, balsa, and chicle. Traditional housing is adapted to continuous heat and moisture — **raised structures**, **steep roofs** for heavy rainfall, **thatched roofing** with permeable walls for ventilation, and **screened openings** to exclude insects.
+A critical insight for [[soil-ph]]. When rainforest is cleared, the thin, heavily leached soils become rapidly infertile. Sustainable design must maintain continuous biomass and [[permaculture-plants-comfrey-chop-and-drop]], yams, coconut, corn, taro, paddy rice, ducks, pigs, poultry, and fish. Trade crops: spices, copra, palm oil, cacao, rubber, manilla hemp, hardwoods, balsa, and chicle. Traditional housing is adapted to continuous heat and moisture — **raised structures**, **steep roofs** for heavy rainfall, **thatched roofing** with permeable walls for ventilation, and **screened openings** to exclude insects.
 
 ---
 
@@ -70,17 +70,17 @@ Staples: corn, millet, wheat, beans, potatoes, cucurbits, peanuts, cattle, and g
 Mollison identifies the following as critical design strategies:
 
 1. **Water storage** — the single most important element; ponds, tanks, and earthworks capture wet-season rainfall for dry-season survival
-2. **Hedgerows** — windbreaks against desiccating dry-season winds, livestock control, and microclimate creation
-3. **Tree legumes (especially *[[legume-nitrogen-fixation-mechanism|nitrogen]], provide fodder, offer shade without competing intensely with crops due to reverse leafing phenology
+2. **Hedgerows** — windbreaks against desiccating dry-season winds, livestock control, and [[holzer-climate-zone-microclimate-creation]]
+3. **Tree legumes (especially *[[legume-nitrogen-fixation-mechanism]], provide fodder, offer shade without competing intensely with crops due to reverse leafing phenology
 4. **Improved stock breeds** — selecting livestock adapted to heat, drought, and seasonal feed scarcity
 5. **Natural herding** — mimicking migratory grazing patterns to prevent overgrazing during the vulnerable dry season
-6. **Grass [[permaculture-terrace-design-slopes|contour]]-based [[water-management]] to distribute floodwater across the landscape
+6. **Grass [[permaculture-terrace-design-slopes]]-based [[water-management]] to distribute floodwater across the landscape
 12. **Soakage pits** — encouraging deep infiltration rather than surface runoff
 13. **Domestic fuelwood** — dedicated, sustainably managed woodlots to protect remaining trees
 
 ---
 
-## [[permaculture-design]] in these regions centers on **capturing and storing water** from the wet season, **protecting and building soils** against [[permplant-willows-salix-erosion-control-fodder|erosion]] and degradation, **selecting adapted species** (especially deep-rooted trees and drought-tolerant perennials), and **managing fire and grazing** to maintain ecological health. The monsoon tropics variant adds the complexity of large populations and erratic rainfall, making restoration and intensive, water-wise food production equally urgent.
+## [[permaculture-design]] in these regions centers on **capturing and storing water** from the wet season, **protecting and building soils** against [[permplant-willows-salix-erosion-control-fodder]] and degradation, **selecting adapted species** (especially deep-rooted trees and drought-tolerant perennials), and **managing fire and grazing** to maintain ecological health. The monsoon tropics variant adds the complexity of large populations and erratic rainfall, making restoration and intensive, water-wise food production equally urgent.
 
 ## Theoretical Background
 
@@ -96,7 +96,7 @@ Quality control protocols ensure reliable and reproducible outcomes. Standard op
 Approaches that work at small scale require careful adaptation for larger implementations. Critical factors include resource availability, logistical complexity, and system responsiveness.
 ## Educational Value
 
-Knowledge transfer and capacity building strengthen community resilience and enable broader adoption of effective practices. Documentation of lessons learned accelerates collective progress.
+Knowledge transfer and capacity building strengthen [[permaculture-community-resilience]] and enable broader adoption of effective practices. Documentation of lessons learned accelerates collective progress.
 ## Environmental Interactions
 
 Understanding environmental feedback mechanisms and system boundaries helps predict outcomes and avoid unintended consequences. Complex interactions require holistic assessment approaches.
@@ -105,14 +105,14 @@ Understanding environmental feedback mechanisms and system boundaries helps pred
 Flexible management approaches that incorporate monitoring feedback and enable course correction prove more resilient than rigid plans in dynamic environments.
 ## Resource Efficiency
 
-Optimizing resource utilization reduces waste, lowers costs, and minimizes environmental impact. Circular economy principles transform waste streams into valuable inputs.
+Optimizing resource utilization reduces waste, lowers costs, and minimizes [[fertilizer-pollution-environmental-impact]]. Circular economy principles transform waste streams into valuable inputs.
 ## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+The principles discussed here have direct applications in agricultural systems, [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]], and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

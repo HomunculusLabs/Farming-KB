@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Outdoor mushroom beds offer one of the simplest and most natural methods of mushroom cultivation, requiring minimal equipment while producing substantial yields. This approach is ideal for [[wine-cap-stropharia-cultivation|wine cap]] (Stropharia rugosoannulata), [[kings-stropharia-garden-giant|King Stropharia]], [[morel-mushroom-guide|morels]], and other species adapted to ground-level fruiting.
+Outdoor mushroom beds offer one of the simplest and most natural methods of mushroom cultivation, requiring minimal equipment while producing substantial yields. This approach is ideal for [[wine-cap-stropharia-cultivation]] (Stropharia rugosoannulata), [[kings-stropharia-garden-giant]], [[morel-mushroom-guide]], and other species adapted to ground-level fruiting.
 
 ## Site Selection
 
@@ -29,7 +29,7 @@ Outdoor mushroom beds offer one of the simplest and most natural methods of mush
 - **Moisture:** Consistent moisture without waterlogging. Beds near downspouts, natural drainage channels, or with easy access to irrigation are preferred.
 - **Protection from wind:** Wind accelerates drying. Natural windbreaks (fences, hedges, buildings) help maintain humidity.
 - **Soil quality:** Well-draining native soil as a base. Heavy clay should be amended with sand or organic matter.
-- **Proximity to woody plants:** Many outdoor species benefit from proximity to tree roots and the [[mycorrhizal-networks|mycorrhizal networks]] they support.
+- **Proximity to woody plants:** Many outdoor species benefit from proximity to tree roots and the [[mycorrhizal-networks]] they support.
 
 ## Bed Construction
 
@@ -68,7 +68,7 @@ The most popular and reliable outdoor bed species:
 Similar to wine cap, King Stropharia (Stropharia rugosoannulata var. larger) thrives in garden settings:
 
 - Particularly well-suited to mulched pathways and perennial garden beds
-- Can be integrated into [[food-forest-design|food forest]] systems
+- Can be integrated into [[food-forest-design]] systems
 - Helps decompose woody mulch while producing edible mushrooms
 - Tolerates a wider range of wood types than many other cultivated species
 
@@ -83,7 +83,7 @@ Morel cultivation outdoors remains challenging but has been achieved:
 
 ### Oyster Mushroom Outdoor Beds
 
-[[oyster-mushroom-pleurotus-ostreatus|Oyster mushrooms]] can be grown in outdoor beds:
+[[oyster-mushroom-pleurotus-ostreatus]] can be grown in outdoor beds:
 
 - **Straw-based beds:** Layers of pasteurized straw and spawn, topped with a protective layer of straw or leaves
 - **Stump inoculation:** Drilling holes in stumps and filling with spawn; stumps fruit for several years
@@ -135,7 +135,7 @@ Morel cultivation outdoors remains challenging but has been achieved:
 
 ## See Also
 
-- [[wine-cap-stropharia-cultivation|wine cap cultivation]]
-- [[kings-stropharia-garden-giant|King Stropharia]]
-- [[outdoor-mushroom-bed|outdoor mushroom beds]]
-- [[log-cultivation-methods|log cultivation methods]]
+- [[wine-cap-stropharia-cultivation]]
+- [[kings-stropharia-garden-giant]]
+- [[outdoor-mushroom-bed]]
+- [[log-cultivation-methods]]

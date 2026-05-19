@@ -25,7 +25,7 @@ type: query
 
 ## Short Answer
 
-PGPR (Plant Growth-Promoting Rhizobacteria) are beneficial soil bacteria that colonize plant roots and directly or indirectly stimulate plant growth. They do this by fixing atmospheric nitrogen, solubilizing locked-up phosphorus and potassium, producing plant hormones like auxins and gibberellins, and protecting roots from pathogens through antibiotic production and [[root-exudates|root exudates]] and returning the favor with nutrients, growth hormones, and disease protection.
+PGPR (Plant Growth-Promoting Rhizobacteria) are beneficial soil bacteria that colonize plant roots and directly or indirectly stimulate plant growth. They do this by fixing atmospheric nitrogen, solubilizing locked-up phosphorus and potassium, producing plant hormones like auxins and gibberellins, and protecting roots from pathogens through antibiotic production and [[root-exudates]] and returning the favor with nutrients, growth hormones, and disease protection.
 
 ## What Does PGPR Stand For?
 
@@ -43,7 +43,7 @@ PGPR make essential nutrients available to plants that would otherwise be inacce
 
 - **Nitrogen fixation:** Free-living bacteria like *Azotobacter* and *Azospirillum* convert atmospheric N₂ into ammonium (NH₄⁺) that plants can absorb. This complements the work of symbiotic [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]] and development:
 
-- **Indole-3-acetic acid (IAA):** The most common bacterial auxin. IAA-producing PGPR increase root surface area, lateral root formation, and root hair density, which improves nutrient and water uptake. Up to 80% of [[biofertilizers-and-soil-inoculants|microbial inoculants]]. Here are the main application methods:
+- **Indole-3-acetic acid (IAA):** The most common bacterial auxin. IAA-producing PGPR increase root surface area, lateral root formation, and root hair density, which improves nutrient and water uptake. Up to 80% of [[biofertilizers-and-soil-inoculants]]. Here are the main application methods:
 
 ### Seed Coating
 
@@ -66,8 +66,8 @@ Yes. The PGPR genera most commonly used in agriculture (*Bacillus*, *Pseudomonas
 - **Variable field results:** Greenhouse trials often show dramatic responses; field results can be inconsistent. Expect incremental improvements (10–30% yield gains under good conditions) rather than transformations.
 - **Not a substitute for good soil management:** PGPR work best as part of a holistic approach. See [[query-what-are-adaptogenic-herbs-and-how-do-they-work]]
 
-- [[integrated-pest-management|Integrated Pest Management (IPM)]]
-- [[biochar-in-agriculture|Biochar in Regenerative Agriculture]]
+- [[integrated-pest-management]]
+- [[biochar-in-agriculture]]
 
 ## Overview
 

@@ -76,8 +76,8 @@ Practices and outcomes vary significantly by climate zone, soil type, and local 
 
 ## See Also
 
-- [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae|Comparison Orchid Mycorrhizae Vs Ericoid Mycorrhizae]]
-- [[fertilizers-and-mycorrhizae|Fertilizers And Mycorrhizae]]
-- [[beneficial-fungi-trichoderma-and-mycorrhizae|Beneficial Fungi Trichoderma And Mycorrhizae]]
-- [[ericoid-mycorrhizae-types-and-ecology|Ericoid Mycorrhizae Types And Ecology]]
-- [[ericoid-and-orchid-mycorrhizae|Ericoid And Orchid Mycorrhizae]]
+- [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]]
+- [[fertilizers-and-mycorrhizae]]
+- [[beneficial-fungi-trichoderma-and-mycorrhizae]]
+- [[ericoid-mycorrhizae-types-and-ecology]]
+- [[ericoid-and-orchid-mycorrhizae]]

@@ -8,13 +8,13 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# How Do I Use [[beauveria-bassiana|Beauveria bassiana]] is a naturally occurring soil fungus that infects and kills over 700 species of insects.
+# How Do I Use [[beauveria-bassiana]] is a naturally occurring soil fungus that infects and kills over 700 species of insects.
 
 It works by landing on an insect's cuticle, germinating, and penetrating the body where it multiplies and eventually kills the host.
 
 Unlike chemical pesticides, it is safe for humans, pets, and most beneficial insects when applied correctly.
 
-It is available as a commercial biological insecticide and can be integrated into any [[beauveria|Beauveria]] is a genus of entomopathogenic fungi found in soils worldwide.
+It is available as a commercial biological insecticide and can be integrated into any [[beauveria]] is a genus of entomopathogenic fungi found in soils worldwide.
 
 [[spore]] s contact an insect, they attach to the exoskeleton using hydrophobic interactions and enzymes.
 
@@ -24,9 +24,9 @@ After the insect dies, the fungus erupts from the cadaver and releases new spore
 
 This cycle creates a self-sustaining population control effect under the right environmental conditions.
 
-[[aphids-cannabis|aphids]], [[cervantes-thrips-pest-control|thrips]].
+[[aphids-cannabis]], [[cervantes-thrips-pest-control]].
 
-It also targets [[cervantes-fungus-gnats|fungus gnats]] in indoor grows.
+It also targets [[cervantes-fungus-gnats]] in indoor grows.
 
 Other susceptible pests include grasshoppers, caterpillars, beetles, weevils, and certain ant species.
 
@@ -84,9 +84,9 @@ In greenhouse environments, the humidity and temperature control make Beauveria 
 
 ## Integration With Other Pest Control Methods
 
-Beauveria works best as part of a broader [[hamilton-beneficial-insects-and-biological-pest-control|beneficial insects]] because the fungus primarily targets pest species.
+Beauveria works best as part of a broader [[hamilton-beneficial-insects-and-biological-pest-control]] because the fungus primarily targets pest species.
 
-[[jadam-pest-control-with-natural-pesticides-jhs|botanical pesticides]] like [[trichoderma]] can be rotated with Beauveria to target different pest life stages and reduce resistance development.
+[[jadam-pest-control-with-natural-pesticides-jhs]] like [[trichoderma]] can be rotated with Beauveria to target different pest life stages and reduce resistance development.
 
 ## Safety and Precautions
 
@@ -106,7 +106,7 @@ Store commercial products in a cool, dry place away from direct sunlight to main
 
 ## Key Points
 
-- [[integrated-pest-management|integrated pest management]] program for maximum effectiveness.
+- [[integrated-pest-management]] program for maximum effectiveness.
 - Avoid applying fungicides at the same time, as they can kill the Beauveria spores.
 - Wear protective equipment during application, especially if you have allergies or immune sensitivity.
 ## Related Questions

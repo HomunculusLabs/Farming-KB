@@ -101,11 +101,11 @@ While the original French intensive system as practiced by the 19th-century mara
 The French garden system stands as a historical proof of concept: that small, intensively managed plots, fed with biological fertility and tended with skilled labor, can outproduce industrial-scale agriculture on a per-acre basis while maintaining soil health and crop quality.
 
 ## See Also
-- [[coleman-louis-savier-french-market-garden-modernization|Coleman Louis Savier French Market Garden Modernization]]
-- [[french-maraicher-system|French Maraicher System]]
-- [[coleman-british-adoption-of-french-intensive-gardening|Coleman British Adoption Of French Intensive Gardening]]
-- [[coleman-french-maraicher-horse-manure-hotbed-system|Coleman French Maraicher Horse Manure Hotbed System]]
-- [[coleman-french-maraicher-manure-system-and-compost-quality|Coleman French Maraicher Manure System And Compost Quality]]
+- [[coleman-louis-savier-french-market-garden-modernization]]
+- [[french-maraicher-system]]
+- [[coleman-british-adoption-of-french-intensive-gardening]]
+- [[coleman-french-maraicher-horse-manure-hotbed-system]]
+- [[coleman-french-maraicher-manure-system-and-compost-quality]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

@@ -12,7 +12,7 @@ sources: []
 
 A first aid herb garden focuses on plants that treat minor cuts, burns, insect bites, rashes, and everyday ailments with minimal processing.
 
-The most essential herbs include [[comfrey-plant-guide|comfrey]] for sprains and skin repair.
+The most essential herbs include [[comfrey-plant-guide]] for sprains and skin repair.
 
 Growing these plants at home gives you immediate access to safe, effective remedies that work alongside conventional first aid supplies.
 
@@ -28,9 +28,9 @@ Fresh herbs are often more potent than dried store-bought alternatives because v
 
 A home garden also ensures you know exactly how the plants were grown, avoiding pesticide residues on herbs meant for topical use.
 
-Integrating medicinal herbs into your landscape follows [[calendula-officinalis|Calendula]] ([[calendula-salve-making|calendula salve]] made by infusing dried flowers into oil is one of the most versatile topical preparations you can make.
+Integrating medicinal herbs into your landscape follows [[calendula-officinalis]] ([[calendula-salve-making]] made by infusing dried flowers into oil is one of the most versatile topical preparations you can make.
 
-The [[yarrow-achillea-millefolium|Yarrow]] ([[comfrey-plant-guide|Comfrey]] (Symphytum officinale) is famous for its ability to speed the healing of broken bones, sprains, and strains.
+The [[yarrow-achillea-millefolium]] ([[comfrey-plant-guide]] (Symphytum officinale) is famous for its ability to speed the healing of broken bones, sprains, and strains.
 
 The key active compound is allantoin, which stimulates cell proliferation and tissue regeneration.
 
@@ -40,7 +40,7 @@ It should never be applied to deep puncture wounds or dirty cuts because it can 
 
 A comfrey leaf poultice wrapped around a sprained ankle provides noticeable relief within hours.
 
-The [[aloe-vera|Aloe vera]] is the go-to plant for burns, sunburns, and minor skin irritations.
+The [[aloe-vera]] is the go-to plant for burns, sunburns, and minor skin irritations.
 
 The clear gel inside the thick leaves provides immediate cooling, anti-inflammatory, and moisturizing effects.
 
@@ -54,7 +54,7 @@ Keeping a mature aloe plant in the kitchen ensures instant burn relief is always
 
 ## Plantain for Insect Bites and Stings
 
-[[lavandula-angustifolia|Lavender]] (Lavandula angustifolia) provides essential oil that is antiseptic, anti-inflammatory, and calming.
+[[lavandula-angustifolia]] (Lavandula angustifolia) provides essential oil that is antiseptic, anti-inflammatory, and calming.
 
 A few drops of lavender essential oil applied to a minor burn reduce pain and promote healing.
 
@@ -62,11 +62,11 @@ The scent alone has documented anxiolytic effects, making it useful for calming 
 
 Dried lavender buds in a sachet can be placed in a first aid kit to keep supplies smelling fresh and to repel moths.
 
-[[calendula-officinalis|Calendula]] is the top first aid herb for wound healing and skin inflammation.
-- [[comfrey-plant-guide|Comfrey]] accelerates tissue repair for sprains, strains, and bruises.
-- [[plantago-major|Plantain]] is a common weed that treats insect bites and draws out splinters.
-- [[chamomile-growing-guide|Chamomile]] soothes digestive upset and skin inflammation.
-- [[calendula-salve-making|Making a calendula salve]] is the best first project for a beginner herbalist.
+[[calendula-officinalis]] is the top first aid herb for wound healing and skin inflammation.
+- [[comfrey-plant-guide]] accelerates tissue repair for sprains, strains, and bruises.
+- [[plantago-major]] is a common weed that treats insect bites and draws out splinters.
+- [[chamomile-growing-guide]] soothes digestive upset and skin inflammation.
+- [[calendula-salve-making]] is the best first project for a beginner herbalist.
 ## Related Questions
 
 - [[comparison-arnica-vs-calendula]]
