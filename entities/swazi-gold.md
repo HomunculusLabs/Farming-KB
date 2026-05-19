@@ -34,47 +34,47 @@ Genetic analysis places it within the southern African cannabis [[cannabis-strai
 
 Swazi Gold plants grow exceptionally tall, often exceeding 3 meters outdoors in favorable conditions.
 
-The plant structure is典型热带型，带有细长的节间和大叶指状叶。
+The plant structure is typical of tropical sativa varieties, with elongated internodes and large finger-like leaves.
 
-成熟的芽在主要花冠上形成细长、松散的，尖状簇状结构，缺乏现代杂交品种的致密结构。
+Mature buds form elongated, loose, pointed cluster structures on the main cola, lacking the density of modern hybrid varieties.
 
-三腺毛密布，赋予花蕾一种金/琥珀色光泽，从而得名“金”。
+Trichomes are densely distributed, giving the buds a golden/amber sheen, hence the name "gold."
 
-当环境温度波动时，花蕾可能呈现出淡紫色色调。
+When environmental temperatures fluctuate, buds may develop light purple hues.
 
-叶子从浅绿色到深绿色不等，带有窄叶指状叶特征，即每个叶指都有明显的锯齿边缘。
+Leaves range from light to dark green, with narrow finger-like leaflets featuring distinctly serrated edges.
 
 ## Aroma and Flavor
 
-香气以强烈的甜/果香特征主导，带有明显的芒果、柑橘和土壤底香。
+The aroma is dominated by strong sweet/fruity notes, with distinct mango, citrus, and earthy undertones.
 
-粉碎后，会释放出辛辣、略带木质和辛辣的底调。
+When crushed, it releases spicy, slightly woody and pungent undertones.
 
-品尝口感是甜和泥土味的，带有贯穿始终的香料和柑橘的味道，并在呼出时伴有持久的辛辣/木质感。
+The taste is sweet and earthy, with spice and citrus flavors throughout, and a lingering spicy/woody note on exhale.
 
-香气强度从中等到强，在开花晚期达到顶峰。
+Aroma intensity ranges from moderate to strong, peaking in late flowering.
 
-该菌株独特的芳香特征被认为是受斯威士兰高地风土的影响，包括其火山土壤和高海拔。
+The strain's distinctive aromatic profile is believed to be influenced by the Swaziland highlands terroir, including its volcanic soils and high elevation.
 
 ## Terpene and Cannabinoid Profile
 
-主导萜烯包括myrcene（甜/泥土底调）、[[pinene]]（松树）和linalool（花香）。
+Dominant terpenes include myrcene (sweet/earthy undertones), [[pinene]] (pine), and linalool (floral).
 
-THC含量在经典的未选择种群中通常在12–18%之间，但经过选育的系可以达到20%以上。
+THC content typically ranges 12-18% in classic unselected populations, but selected lines can reach 20%+.
 
-CBD含量通常很低，通常在0.1–0.5%以下，符合该菌株的药物型谱系。
+CBD content is typically low, usually below 0.1-0.5%, consistent with the strain's drug-type lineage.
 
-其他微量 cannabinoids 包括CBG和THCV，后者可能促成了其刺激性和持久的效应。
+Other minor cannabinoids include CBG and THCV, the latter of which may contribute to its stimulating and long-lasting effects.
 
 ## Cultivation
 
-Swazi Gold需要漫长的开花时间，室内需要12–14周，室外则需要到11月至12月才能在赤道气候下成熟。
+Swazi Gold requires a long flowering time, 12-14 weeks indoors, and until November-December outdoors to mature in equatorial climates.
 
-该菌株具有极强的生长力，即使在低肥条件下也能茁壮成长，这反映了其适应贫瘠山地土壤的能力。
+The strain is extremely vigorous, thriving even in low-fertility conditions, reflecting its adaptation to poor mountain soils.
 
-由于体型较大，它在温暖的温带或亚热带户外环境中表现最佳，可提供高产，通常每株可产300-500克。
+Due to its large size, it performs best outdoors in warm temperate or subtropical environments, yielding 300-500g per plant.
 
-室内种植者通常会使用scrOG训练或早期 topping 以控制其伸展。
+Indoor growers typically use [[screen-of-green|scrOG]] training or early topping to control its stretch.
 
 ## Overview
 
