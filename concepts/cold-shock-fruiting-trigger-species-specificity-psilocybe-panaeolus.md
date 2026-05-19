@@ -1,16 +1,16 @@
 ---
 title: Cold Shock Fruiting Trigger and Species-Specific Response Variability
 source: guid-mhtml_file___e___textos__mycology__exotic_.md
-topics: [cold shock, fruiting trigger, species specificity, pinning, [[fruiting-initiation]]: harder-to-fruit strains are placed in a refrigerator overnight
-before transfer to [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] that
+topics: [cold shock, fruiting trigger, species specificity, pinning, fruiting-initiation: harder-to-fruit strains are placed in a refrigerator overnight
+before transfer to guzman-allen-gartz-neurotropic-fungi-caribbean-central-america that
   fruits during warm, wet seasons. Cold shock does not match its natural fruiting
   cues and may actually delay or reduce fruiting performance.
 - ***P. tampanensis***: Known from only a few collections in Florida and
   Mississippi, this species fruits in warm conditions. Its natural habitat does
   not experience significant seasonal cooling.
-- ***[[fruiting-chamber]]
-- [[cold-shock-fruiting-selectivity-psilocybe-species]]
-- [[species-specific-cold-shock-response-psilocybe]]
+- ***fruiting-chamber
+- cold-shock-fruiting-selectivity-psilocybe-species
+- species-specific-cold-shock-response-psilocybe
 ---
 
 ## Overview

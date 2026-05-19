@@ -1,6 +1,6 @@
 ---
 title: Sprinkler Irrigation Systems
-source: gardening-when-it-counts-steve-[[solomon-irrigation-systems-sprinkler-design|solomon]].md
+source: gardening-when-it-counts-steve-solomon-irrigation-systems-sprinkler-design|solomon.md
 type: concept
 ---
 

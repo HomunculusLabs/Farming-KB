@@ -3,7 +3,7 @@ title: Fungal Biodiversity Patterns
 created: 2026-04-28
 tags:
   - mycelium develops. Once
-established, [[brassinosteroid-fungal-growth-promotion]] form, the concept of individual
+established, brassinosteroid-fungal-growth-promotion form, the concept of individual
 as used for animals and plants does not apply. Each investigator must
 establish a unit by which presence-absence, biomass, density, or
 frequency can be estimated over space and time.

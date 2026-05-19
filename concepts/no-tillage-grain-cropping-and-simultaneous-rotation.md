@@ -1,6 +1,6 @@
 ---
 title: No Tillage Grain Cropping And Simultaneous Rotation
-source: bill-[[mollison-permaculture-two-no-tillage-grain-cropping|mollison]]-permaculture-two-practical-design-for-to.md
+source: bill-mollison-permaculture-two-no-tillage-grain-cropping|mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 

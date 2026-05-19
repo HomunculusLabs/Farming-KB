@@ -13,7 +13,7 @@ sources:
   - Fedorov A.A. (1957). "Campanula." In: Flora URSS, Vol. 24. Academy of Sciences USSR.
   - Kolakovsky A.A. (1988). "Genus Campanula in the Caucasus." Nauka, Leningrad.
   - WCSP (2024). "World Checklist of Selected Plant Families." Royal Botanic Gardens, Kew.
-  - Kovanda M. (1977). "Polyploidy and Variation in the [[dighton-fungal-drought-tolerance-plant-water-relations]].
+  - Kovanda M. (1977). "Polyploidy and Variation in the dighton-fungal-drought-tolerance-plant-water-relations.
 ---
 
 Unlike many bellflower species that favor moist, shaded habitats, Campanula sibirica is adapted to continental climates with hot, dry summers and cold winters. Its deep taproot system allows survival during extended drought periods.

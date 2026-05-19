@@ -1,6 +1,6 @@
 ---
 title: Essential Gardening Tools and Their Proper Care and Sharpening
-source: [[gardening-when-it-counts]] - steve-solomon (2005)
+source: gardening-when-it-counts - steve-solomon (2005)
 tags: [gardening, tools, sharpening, hand-tools, low-input, self-sufficiency]
 related: [solomon-seed-starting-transplanting, solomon-irrigation-water-management, solomon-disease-identification-and-organic-remedies]
 ---

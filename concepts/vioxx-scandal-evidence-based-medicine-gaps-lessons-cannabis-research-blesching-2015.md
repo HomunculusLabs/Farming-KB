@@ -1,7 +1,7 @@
 ---
 title: Vioxx Scandal and Evidence-Based Medicine Gaps — Lessons for Cannabis Research
 source: raw/papers/uwe-blesching-the-cannabis-health-index.md
-author: [[blesching-cannabis-health-index-autoimmune-conditions]]*, [[uwe-blesching]] uses the
+author: blesching-cannabis-health-index-autoimmune-conditions*, uwe-blesching uses the
 Vioxx (rofecoxib) scandal as a case study to illustrate fundamental
 weaknesses in the pharmaceutical drug approval and post-marketing surveillance
 system. This comparison frames the need for evidence-based approaches to

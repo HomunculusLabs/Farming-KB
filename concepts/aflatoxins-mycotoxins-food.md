@@ -4,7 +4,7 @@ created: 2026-04-28
 tags:
   - antifungal-secondary-metabolites-coprophilous-fungi produced by comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms toxins like ergot-fungus
 - Fungal contamination of food
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+- arbuscular-mycorrhizal-inoculum-production-best-practices with
 creative adaptation to local conditions and emerging challenges.
 ---
 

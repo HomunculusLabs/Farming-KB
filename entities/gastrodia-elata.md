@@ -14,7 +14,7 @@ sources:
   - Xu, J. et al. (2016). "armillaria-mellea-entity." Mycobiology, 44(4), 273–280.
   - Yuan, C.S. et al. (1998). "Traditional Chinese ." American Journal of Chinese Medicine, 26(2), 133–145.
   - Liu, Z. et al. (2018). "Gastrodin: A Review of Its Pharmacological Effects and Mechanisms." Evidence-Based Complementary and Alternative Medicine, 2018, 7421409.
-  - Huang, L.Q. et al. (2020). "Cultivation and [[blesching-cannabis-contaminants-testing-quality-control]] of Gastrodia elata in China." Journal of Ethnopharmacology, 254, 112681.---
+  - Huang, L.Q. et al. (2020). "Cultivation and blesching-cannabis-contaminants-testing-quality-control of Gastrodia elata in China." Journal of Ethnopharmacology, 254, 112681.---
 ---# Overview
 
 Gastrodia elata, known as Tianma in Chinese, is a fully mycoheterotrophic orchid in the family Orchidaceae.
@@ -77,3 +77,5 @@ Emerging research, technological advances, and evolving understanding continue t
 ## Summary
 
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
+
+Understanding this topic in its broader ecological context enhances practical application.

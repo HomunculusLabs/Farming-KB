@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[singh-fungal-biosorption-reactors-heavy-metals]]
 - [[singh-mycorrhizae-and-plant-stress-amelioration]]
 - [[singh-wood-rot-fungi-structural-timber-decay]]
+
+These interconnections demonstrate the importance of integrated approaches to understanding and applying this knowledge.

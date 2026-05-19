@@ -14,7 +14,7 @@ tags:
   - bioenergy
 sources:
   - Kays, S.J. & Nottingham, S.F. (2008). "Biology and Chemistry of comparison-jerusalem-artichoke-vs-potato." CRC Press.
-  - Kosaric, N. et al. (1984). "The [[psilocybin-north-america-pacific-northwest]]. It is cultivated for its edible tubers, which store inulin rather than starch as their primary carbohydrate.
+  - Kosaric, N. et al. (1984). "The psilocybin-north-america-pacific-northwest. It is cultivated for its edible tubers, which store inulin rather than starch as their primary carbohydrate.
 ---
 
 Despite its common name, the species is unrelated to the globe artichoke (*[[phosphate-accumulators-sustainable-agriculture]], and food security contexts due to its exceptional hardiness, high yields, low input requirements, and multiple [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Flowers are attractive to a wide range of pollinators.

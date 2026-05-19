@@ -11,7 +11,7 @@ sources:
   - Stuart, M. (1979). "The Encyclopedia of Herbs and Herbalism." Orbis Publishing.
   - Chevallier, A. (1996). "The Encyclopedia of Medicinal Plants." DK Publishing.
   - Small, E. (2006). "holzer-medicinal-and-culinary-herbs-compendium." NRC Research Press.
-  - Al-Snafi, A.E. (2015). "[[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]].
+  - Al-Snafi, A.E. (2015). "query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions.
 ---
 
 The species was valued in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], including parts of North and [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] and waste ground.

@@ -1,6 +1,6 @@
 ---
 title: "Fungal Biodiversity Estimation Methods"
-source: "[[fungal-biodiversity-estimates]]. Fungal communities
+source: "fungal-biodiversity-estimates. Fungal communities
 exhibit patterns at multiple scales, from microhabitat patches to landscape
 gradients. Sampling design must account for:
 ---

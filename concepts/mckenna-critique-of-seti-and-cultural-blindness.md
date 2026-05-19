@@ -9,7 +9,7 @@ type: concept
   - mckenna
   - cultural-bias
   - epistemology
-  - [[terence-mckenna]] launched a pointed critique of the Search for Extraterrestrial
+  - terence-mckenna launched a pointed critique of the Search for Extraterrestrial
 Intelligence (SETI) program, arguing that its methodological assumptions reflect
 profound cultural biases that virtually guarantee failure. His critique extends beyond
 SETI to encompass what he saw as a broader Western scientific refusal to acknowledge
@@ -148,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
 - [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]
-- [[mckenna-teonanacatl-franciscan-theophagy-suppression]]

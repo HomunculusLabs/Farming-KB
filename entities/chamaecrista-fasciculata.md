@@ -16,7 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - USDA NRCS Plant Guide (2024)
-  - E. L. Little, Jr., Atlas of [[psilocybin-north-america-pacific-northwest]]. It is highly valued in permaculture, [[tompkins-mimosa-pudica-sensitive-plant-experiments]]*.
+  - E. L. Little, Jr., Atlas of psilocybin-north-america-pacific-northwest. It is highly valued in permaculture, tompkins-mimosa-pudica-sensitive-plant-experiments*.
 ---# Description
 
 ### Growth Habit

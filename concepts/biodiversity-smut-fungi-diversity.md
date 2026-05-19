@@ -3,7 +3,7 @@ title: smut-fungi Diversity
 created: 2026-04-28
 tags:
   - biodiversity-fungi-plant-pathogens
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+- arbuscular-mycorrhizal-inoculum-production-best-practices with
 creative adaptation to local conditions and emerging challenges.
 ---
 

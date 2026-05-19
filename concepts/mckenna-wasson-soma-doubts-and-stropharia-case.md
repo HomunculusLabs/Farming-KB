@@ -2,7 +2,8 @@
 title: "Mckenna Wasson Soma Doubts And Stropharia Case"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/mckenna_t-tryptamines_consciousness.md"
 ---
 
 ## See Also

@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China. Vol. I.
 - Wang, Z., et al. (2015). "Glycyrrhiza uralensis: A review of its traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 175, 1–16.
-- Asl, M.N., Hosseinzadeh, H. (2008). "Review of pharmacological effects of Glycyrrhiza sp. and its [[dom]]:** Plantae
+- Asl, M.N., Hosseinzadeh, H. (2008). "Review of pharmacological effects of Glycyrrhiza sp. and its dom:** Plantae
 - **Order:** Fabales
 - **Family:** Fabaceae
 - **Subfamily:** Faboideae

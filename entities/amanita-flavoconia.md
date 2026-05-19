@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Tulloss, R.E. & Yang, Z.L. (2021). \"Amanita — overview and taxonomic framework.\" MycoKeys, 81, 1–71."
   - "Lincoff, G.H. (1981). National Audubon Society Field Guide to growing-gourmet-north-american-reishi-species Mushrooms. Knopf."
-  - "Miller, O.K. & Miller, H.H. (2006). [[mycelium-running-mycorrhizal-mushroom-gardens]] in the family Amanitaceae.
+  - "Miller, O.K. & Miller, H.H. (2006). mycelium-running-mycorrhizal-mushroom-gardens in the family Amanitaceae.
 ---
 
 It is widespread in [[amanita-muscaria-and-ibotenic-acid-containing-fungi]] and muscimol, the same primary toxins found in *A. muscaria*, though typically in lower concentrations.

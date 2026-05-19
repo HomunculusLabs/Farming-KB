@@ -17,9 +17,9 @@ sources:
 numerous aromatic plants, including rose, geranium, palmarosa, citronella,
 and lemon. It is one of the most commercially important fragrance compounds
 globally, used extensively in perfumery, cosmetics, food flavoring, and
-[[staphylococcus-aureus]]* (64 µg/mL),
-*Escherichia coli* (256 µg/mL), and *[[rosa-damascena]]* (damask rose) | 10–25% | Perfumery standard |
-| *[[ocimum-basilicum]]* (basil) | 1–8% | Culinary herb |
+staphylococcus-aureus* (64 µg/mL),
+*Escherichia coli* (256 µg/mL), and *rosa-damascena* (damask rose) | 10–25% | Perfumery standard |
+| *ocimum-basilicum* (basil) | 1–8% | Culinary herb |
 | Cannabis cultivars | Trace – 0.5% | Floral-rosy aroma contributor |
 ---n cannabis, geraniol is classified as a minor terpene but contributes
 a distinctive sweet, floral, and slightly citrusy aroma. It is more

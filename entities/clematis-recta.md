@@ -13,7 +13,7 @@ sources:
   - Johnson, M. (2001). "Clematis: The Genus." Timber Press.
   - Toomaj, H. et al. (2020). "Ranunculaceae: Medicinal Plants and Phytochemistry." Phytochemistry Reviews, 19(4), 1-28.
   - RHS (2024). "Clematis recta — Plant Finder." Royal Horticultural Society.
-  - GRIN (2024). "Germplasm Resources [[extending-growing-season]] to establish roots. Once established, C. recta shows good [[mushroom-pests-and-diseases]]:** Generally trouble-free. Occasional [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] for germination the following spring. Division of established clumps in early spring is reliable. Softwood cuttings taken in late spring root well under mist.
+  - GRIN (2024). "Germplasm Resources extending-growing-season to establish roots. Once established, C. recta shows good mushroom-pests-and-diseases:** Generally trouble-free. Occasional query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel for germination the following spring. Division of established clumps in early spring is reliable. Softwood cuttings taken in late spring root well under mist.
 ---
 
 ## Ecology and Applications

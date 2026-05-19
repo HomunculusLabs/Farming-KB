@@ -15,7 +15,7 @@ sources:
   - Turner, N.J. (1996). "Food Plants of Interior First Peoples." UBC Press.
   - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists." 2nd ed. Timber Press.
   - USDA NRCS. "Aconitum columbianum Nutt. — Columbian monkshood." PLANTS Database.
-  - Mead, J.W. (1972). "The [[aconitum-napellus]].
+  - Mead, J.W. (1972). "The aconitum-napellus.
 ---
 
 The distinctive helmet-shaped blue to purple flowers make it recognizable in montane and subalpine meadows throughout its range.

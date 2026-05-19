@@ -18,7 +18,7 @@ sources:
   - Rehner, S.A. et al. (2011). "Multilocus phylogenetic taxonomy of the Beauveria." Mycologia 103(5): 1069-1083.
   - Inglis, G.D. et al. (2001). "Use of hyphomycetous fungi for managing .
   - Zimmermann, G. (2007). "A review of fifty years of fukuoka-textdoc-biological-control-fallacy-pheromone-critique with Beauveria." Biocontrol Science and Technology 17(6): 567-594.
-  - Feng, M.G. et al. (1994). "[[powdery-mildews-erysiphaceae-diversity-host-range]] and greater efficacy against scarab pests.
+  - Feng, M.G. et al. (1994). "powdery-mildews-erysiphaceae-diversity-host-range and greater efficacy against scarab pests.
 ---# Taxonomy and Classification
 
 Division: Ascomycota → Subdivision: Pezizomycotina → Class: Sordariomycetes → Order:

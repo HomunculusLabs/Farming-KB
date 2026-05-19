@@ -1,6 +1,6 @@
 ---
 title: Permaculture Design Criteria And Implementation Priorities
-source: [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design|bill]]-mollison-permaculture-two-practical-design-for-to.md
+source: bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design|bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 

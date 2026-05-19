@@ -11,7 +11,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Richens, R.H. (1983). "Elm." Cambridge University Press.
-  - Brasier, C.M. (1996). "New horizons in Dutch elm [[guzman-psilocybin-mushrooms-north-america]], Australia, and New Zealand.
+  - Brasier, C.M. (1996). "New horizons in Dutch elm guzman-psilocybin-mushrooms-north-america, Australia, and New Zealand.
 ---
 
 ## Ecological Role

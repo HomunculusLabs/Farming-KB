@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Bailey, L.H. (1924). "The Cultivated Atriplexes." Gentes Herbarum, 1(3), 135–168.
-  - Fedoroff, N.V. et al. (2010). "[[spinacia-oleracea]]*).
+  - Fedoroff, N.V. et al. (2010). "spinacia-oleracea*).
 ---
 
 Garden orache produces large, tender leaves with a mild, slightly salty flavor. The young leaves are eaten raw in salads, while mature leaves are cooked like spinach.

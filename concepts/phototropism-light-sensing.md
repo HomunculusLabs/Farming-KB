@@ -3,7 +3,7 @@ title: Phototropism Light Sensing
 created: 2026-05-09
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [phototropism, auxin, plant-growth, blue-light, shade-avoidance, botany]
-aliases: [phototropism, plant light tracking, [[darwin-power-of-movement-in-plants]] in Plants*): Demonstrated
+aliases: [phototropism, plant light tracking, darwin-power-of-movement-in-plants in Plants*): Demonstrated
   that the light-sensitive region is the coleoptile tip, not the growing
   region below. When the tip was covered, the plant did not bend toward light.
 - **Frits Went** (1926): Isolated **auxin** (indole-3-acetic acid, IAA) as

@@ -13,7 +13,7 @@ sources:
   - Jermy, A.C. & Camus, J.M. (1991). "The Genus Polypodium." Kew Publishing.
   - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
   - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
-  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Polypodiaceae." Flora [[growing-gourmet-north-american-reishi-species]] P. virginianum complex.
+  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Polypodiaceae." Flora growing-gourmet-north-american-reishi-species P. virginianum complex.
 ---
 
 ## Taxonomy and Morphology

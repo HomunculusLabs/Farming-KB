@@ -1,7 +1,7 @@
 ---
 title: Spore Germination And Tissue Culturing
 created: 2026-05-13
-source: cotter-organic-[[mushroom-cultivator-life-cycle-and-spore-germination|mushroom]]-farming-mycoremediation.md
+source: cotter-organic-mushroom-cultivator-life-cycle-and-spore-germination|mushroom-farming-mycoremediation.md
 tags: [spore-germination, tissue-culture, cloning, mushroom-cultivation, spore-streaking, mycelium, strain-isolation, agar-culture]
 aliases: [Mushroom Cloning, Spore Streaking Technique, Starting Mushroom Cultures]
 ---

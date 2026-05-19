@@ -1,6 +1,6 @@
 ---
 title: "mckenna-translinguistic-objects-cognitive-dissonance-tryptamine and Hyperdimensional Language in Tryptamine Experiences"
-aliases: ["[[glossolalia-tryptamine-language]] entities"]
+aliases: ["glossolalia-tryptamine-language entities"]
 tags: [dmt, tryptamines, phenomenology, language, entities, mckenna, hyperdimensional]
 ---
 

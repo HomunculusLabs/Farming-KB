@@ -19,7 +19,7 @@ sources:
   - Block, E. (2010). Garlic and Other Alliums: The Lore and the Science. Royal Society of Chemistry.
   - Hanelt, P. (1990). "Taxonomy, evolution and history." In: Onions and Allied Crops, Vol. 1.
   - Krest, I. et al. (2000). "Antimicrobial activity of  of Europe, Asia,
-and [[holzer-medicinal-and-culinary-herbs-compendium]] globally.
+and holzer-medicinal-and-culinary-herbs-compendium globally.
 ---hives are distinguished from other *Allium* species by their hollow, tubular leaves and
 delicate purple-pink flowers borne on spherical umbels. The leaves and flowers are both
 edible, providing a mild onion flavor widely used in European, Asian, and [[datura-metel-old-world-ethnobotany]] species, with *A. schoenoprasum*

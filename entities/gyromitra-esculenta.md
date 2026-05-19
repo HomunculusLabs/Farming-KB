@@ -3,7 +3,7 @@ title: Gyromitra esculenta
 created: 2026-04-28
 type: species
 aliases:
-  - [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] that superficially resembles true morels:
+  - bloomfield-mushroom-formation-fruiting-body-development-cultivation that superficially resembles true morels:
 - **Cap:** 4–12 cm tall, 3–8 cm wide, irregularly brain-like or convoluted, lacking the defined pits and ridges of true morels.
 Color ranges from reddish-brown to dark brown or purplish-brown.
 The cap attaches to the stem at multiple points — a key distinguishing feature.
@@ -12,7 +12,7 @@ The base may be slightly enlarged or rooting.
 - **Flesh:** Thin, waxy, brittle in the cap, white to cream-colored.
 Odor is mild to slightly fruity when young, becoming unpleasant with age.
 - **Spores:** Elliptical, smooth, hyaline, with two oil droplets, 18–24 × 8–12 µm.
-[[palmer-mushroom-hunting-field-identification]] method.
+palmer-mushroom-hunting-field-identification method.
 ---
 
 ## Distribution and Habitat

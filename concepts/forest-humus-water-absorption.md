@@ -1,6 +1,6 @@
 ---
 title: Forest Humus and Water Absorption
-source: [[forest-water-interaction-and-soil-storage|storage and management systems]]. The humus layer beneath a forest floor is one of the most critical components in the global hydrological cycle, capable of absorbing, retaining, and slowly releasing vast quantities of water. [[fungal-hyphae]], bacterial gels, detritus)
+source: forest-water-interaction-and-soil-storage|storage and management systems. The humus layer beneath a forest floor is one of the most critical components in the global hydrological cycle, capable of absorbing, retaining, and slowly releasing vast quantities of water. fungal-hyphae, bacterial gels, detritus)
          → Root Mat (active uptake, transpiration pull)
          → Deep Soil Profile (retention, interstitial, and humus storage)
          → Bedrock / Deep Roots (40m+ penetration, slow recharge)

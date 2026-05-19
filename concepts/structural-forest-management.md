@@ -1,6 +1,6 @@
 ---
 title: Structural Forest Management
-source: bill-[[mollison-course-coppice-forest-management|mollison]]-permaculture-design-course.md
+source: bill-mollison-course-coppice-forest-management|mollison-permaculture-design-course.md
 type: concept
 ---
 

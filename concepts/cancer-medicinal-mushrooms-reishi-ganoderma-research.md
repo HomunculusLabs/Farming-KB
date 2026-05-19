@@ -6,11 +6,11 @@ sources:
   - "raw/papers/cancer-treatments-medicinal-mushrooms.md"
 type: concept
 tags: [medicine, ganoderma-lucidum (Reishi or Ling Zhi) has the longest historical usage of
-any [[mycelium]] contain a rich array of [[tihkal-receptor-binding-serotonin]] overrides tumour resistance to iC3b-mediated
+any mycelium contain a rich array of tihkal-receptor-binding-serotonin overrides tumour resistance to iC3b-mediated
     cytotoxicity, allowing complement system function against tumours
   - Macrophage activation causes anti-proliferation and apoptosis in
     HL-60 and U937 leukemic cells via IFN-gamma and TNF-alpha synergy
-  - LZ-8 protein mediates T [[soil-aggregate-formation-fungal-contributions]] and proliferation
+  - LZ-8 protein mediates T soil-aggregate-formation-fungal-contributions and proliferation
   - Ganoderan beta-D-glucan and GLB increase MHC class II molecule
     expression on antigen-presenting macrophages
   - Activates both classical and alternative complement pathways

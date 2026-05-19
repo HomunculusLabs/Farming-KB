@@ -77,3 +77,5 @@ The most well-documented therapeutic application of Lion's Mane is in neurologic
 - **Axonal regeneration** following nerve injury
 
 Animal studies have demonstrated improved cognitive function in aged rats, with increased recognition memory and reduced age-related cognitive decline. Human clinical trials have shown promising results for mild cognitive impairment (MCI), with significant improvements in cognitive function after 16 weeks of supplementation.
+
+Understanding this topic in its broader ecological context enhances practical application.

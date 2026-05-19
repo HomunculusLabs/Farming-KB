@@ -1,15 +1,15 @@
 ---
 title: "Blueberry avocado-cultivation-and-variety-guide Guide"
-subtitle: "Comprehensive guide to growing blueberries, from soil preparation and variety selection to pruning, [[psilocybin-north-america-pacific-northwest]] and
-[[permaculture|permaculture]] for integrating blueberries into
+subtitle: "Comprehensive guide to growing blueberries, from soil preparation and variety selection to pruning, psilocybin-north-america-pacific-northwest and
+permaculture|permaculture for integrating blueberries into
   food forest designs and guild systems
-- [[acid-and-alkaline-soil-management]] for broader soil pH amendment
+- acid-and-alkaline-soil-management for broader soil pH amendment
   strategies
-- [[integrated-pest-management-ipm]] for systematic pest management
+- integrated-pest-management-ipm for systematic pest management
   approaches
-- [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations
+- dighton-ericoid-mycorrhizal-nutrient-acquisition associations
   in acidic soils
-- [[composting-and-soil-biology]] for [[hamilton-composting-and-organic-matter-management]] management in blueberry
+- composting-and-soil-biology for hamilton-composting-and-organic-matter-management management in blueberry
   plantings
 ---
 

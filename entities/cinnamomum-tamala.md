@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Rao, P.V. & Gan, S.H. (2014). "Cinnamon: A Multifaceted Medicinal Plant." Evidence-Based Complementary and Alternative Medicine, 2014, 642942.
   - Srivastava, P.K. (2010). "Cinnamomum tamala (Lauraceae): A Review on Ethnobotany, Phytochemistry, and Pharmacology." Pharmacognosy Reviews, 4(8), 177-183.
-  - Barthakur, S. & Arnold, N.P. (1991). "[[laurus-nobilis]].
+  - Barthakur, S. & Arnold, N.P. (1991). "laurus-nobilis.
 ---
 
 Indian bay leaf is a fundamental component of garam masala blends and is used to flavor rice dishes, curries, and meat preparations. The leaves are typically removed before serving, as they remain tough and fibrous even after prolonged cooking.

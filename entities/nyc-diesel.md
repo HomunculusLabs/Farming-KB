@@ -21,7 +21,7 @@ updated: 2026-04-28
 sources:
   - Soma (2007). "Soma: Intuitive Cultivation." Red Eye Press.
   - Clarke RC, Merlin MD (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
-  - ElSohly MA, Slade D (2005). "[[blesching-cannabis-strain-selection-receptor-targeting]] created by **Soma** (Soma Sacred Seeds) in the early 2000s in New York City.
+  - ElSohly MA, Slade D (2005). "blesching-cannabis-strain-selection-receptor-targeting created by **Soma** (Soma Sacred Seeds) in the early 2000s in New York City.
 ---
 
 A cross between a **[[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]].
@@ -148,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.

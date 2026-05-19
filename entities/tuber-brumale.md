@@ -19,7 +19,7 @@ updated: 2026-04-28
 sources:
   - Ceruti, A., Fontana, A., & Nosenzo, C. (2003). "Le specie epigee in Piemonte." Centro Studi Fungarli.
   - Chevalier, G. (2012). "comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation in Europe." In Fungi: Biology and Applications (2nd ed.). Wiley-Blackwell.
-  - Bonito, G. et al. (2010). "[[coleman-overwintered-onions-and-early-spring-crops]] in European deciduous and mixed forests.
+  - Bonito, G. et al. (2010). "coleman-overwintered-onions-and-early-spring-crops in European deciduous and mixed forests.
 ---
 
 Its aroma is distinctively pungent, often described as musky or reminiscent of fermented turnips and cured meats, setting it apart from the more delicate Tuber melanosporum.

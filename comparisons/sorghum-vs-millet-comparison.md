@@ -15,7 +15,7 @@ sources:
   - National Research Council. "Lost Crops of Africa: Volume I — Grains." National Academies Press, 1996.
   - CGIAR  and  systems as understory crops in young tree plantings
 - As nurse crops for establishing perennial pastures
-- Both contribute to soil [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+- Both contribute to soil arbuscular-mycorrhizal-inoculum-production-best-practices with
 creative adaptation to local conditions and emerging challenges.
 ---# Key Considerations
 

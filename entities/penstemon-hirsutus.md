@@ -12,7 +12,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Keck, D.D. (1932). "Studies in Penstemon: A revision of the Penstemons." University of California Publications in Botany.
-  - Freeman, C.C. (2019). "Penstemon." Flora [[polypore-fungi-eastern-north-america]], it is one of the most adaptable and widely distributed penstemon species in the region.
+  - Freeman, C.C. (2019). "Penstemon." Flora polypore-fungi-eastern-north-america, it is one of the most adaptable and widely distributed penstemon species in the region.
 ---
 
 The plant produces upright flower spikes bearing tubular lavender-purple flowers with white throats. Blooms appear in late spring to early summer, lasting 3–4 weeks.

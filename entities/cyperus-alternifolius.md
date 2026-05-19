@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Tucker, G.C. (1994). "Cyperus." Flora huckleberries-and-wild-berries-of-north-america North of Mexico 23: 141–191.
   - Gordon-Gray, K.D. (1995). Cyperaceae in Natal. Strelitzia 2. National Botanical Institute, Pretoria.
-  - Haines, R.W. & Lye, K.A. (1983). The Sedges and Rushes of East Africa. [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. It forms dense monotypic stands in disturbed wetlands and drainage ditches.
+  - Haines, R.W. & Lye, K.A. (1983). The Sedges and Rushes of East Africa. guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands. It forms dense monotypic stands in disturbed wetlands and drainage ditches.
 ---
 
 ## Taxonomy and Morphology

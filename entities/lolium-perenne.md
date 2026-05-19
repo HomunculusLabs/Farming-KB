@@ -12,7 +12,7 @@ sources:
   - Soreng RJ, Peterson PM, Romaschenko K, et al. (2017). "A worldwide phylogenetic classification of the Poaceae (Gramineae)." Journal of Systematics and Evolution 55(2): 131–153.
   - Stewart AV, Joachimiak M, defect A. (2020). "Perennial ryegrass (Lolium perenne L.)." In: Kole C, editor. Genome Mapping and Genomics in Animals and Plants. Springer.
   - Easton HS, Latch GCM, Tapper BA, Ball OJ-P. (2002). "Neotyphodium lolii endophyte in perennial ryegrass." Proceedings of the New Zealand Grassland Association 64: 159–166.
-  - Wilkins PW, Humphreys MO. (2003). "Progress in breeding perennial forage grasses for temperate agriculture." Journal of [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
+  - Wilkins PW, Humphreys MO. (2003). "Progress in breeding perennial forage grasses for temperate agriculture." Journal of oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide.
 ---
 
 Valued for rapid establishment, high nutritive value, and persistent grazing tolerance, perennial ryegrass is a cornerstone of pastoral agriculture in New Zealand, northwestern Europe, and parts of North and [[coleman-winter-greens-nutritional-quality-cold-sweetening]], and [[trifolium-repens]]* and *[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], naturalized populations are widespread in southeastern Australia, New Zealand, and parts of South America. It is considered an environmental weed in some conservation areas where it displaces native grassland communities.

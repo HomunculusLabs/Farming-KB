@@ -1,6 +1,6 @@
 ---
 title: Pond Polyculture Design
-source: bill-[[mollison-pdc-small-pond-frog-habitat-design|mollison]]-permaculture-design-course.md
+source: bill-mollison-pdc-small-pond-frog-habitat-design|mollison-permaculture-design-course.md
 type: concept
 ---
 

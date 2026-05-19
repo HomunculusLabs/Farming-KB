@@ -21,8 +21,8 @@ sources:
   - Vega, F.E. et al. (2009). "Fungal entomopathogens: new insights into their ecology." Fungal Ecology 2(4): 149-159.
 aliases:
   - L. muscarium
-  - [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent with dual activity against insect pests
-and [[cervantes-powdery-mildew-prevention-treatment]] across greenhouse and field crops.
+  - fukuoka-textdoc-biological-control-fallacy-pheromone-critique agent with dual activity against insect pests
+and cervantes-powdery-mildew-prevention-treatment across greenhouse and field crops.
 ---
 
 ## Taxonomy and Classification

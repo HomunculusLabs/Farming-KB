@@ -3,10 +3,10 @@ title: Photoperiodism — How Plants Measure the Length of Night
 slug: photoperiodism-plants-measure-night-length
 tags: [photobiology, photoperiodism, flowering, plant-physiology, circadian]
 related: [phytochrome-photoreceptor-red-far-red-light]
-source: [[chrysanthemum-morifolium]]) — flowers in autumn when nights exceed ~12 hours
+source: chrysanthemum-morifolium) — flowers in autumn when nights exceed ~12 hours
 - Soybean (Glycine max) — flowers as days shorten in late summer
-- Poinsettia ([[hordeum-vulgare]]) — flowers as days lengthen in spring
-- Spinach ([[arabidopsis-thaliana]]) — the model organism flowers rapidly under long days
+- Poinsettia (hordeum-vulgare) — flowers as days lengthen in spring
+- Spinach (arabidopsis-thaliana) — the model organism flowers rapidly under long days
 ---
 
 ### Day-Neutral Plants

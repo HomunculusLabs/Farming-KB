@@ -117,3 +117,5 @@ The application of holzer crater garden design requires site-specific adaptation
 - [[det]]
 - [[permaculture]]
 - [[holzer-terraced-landscape-design]]
+
+Understanding this topic in its broader ecological context enhances practical application.

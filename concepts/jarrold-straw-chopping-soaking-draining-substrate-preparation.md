@@ -1,7 +1,7 @@
 ---
 title: Jarrold Straw Chopping Soaking Draining Substrate Preparation
 wiki: llm-wiki
-category: [[oyster-straw-substrate-preparation]]** is a method for processing cereal straw into a suitable growing medium for [[duggar-mushroom-growing-history-and-methods]] Technique for the Boil-A-Bag*. The procedure converts raw straw into a hydrated, nutrient-supplemented substrate through a sequence of chopping, soaking with [[brown-rice-flour-substrate]]. It is designed to be accessible to amateur growers using household equipment.
+category: oyster-straw-substrate-preparation** is a method for processing cereal straw into a suitable growing medium for duggar-mushroom-growing-history-and-methods Technique for the Boil-A-Bag*. The procedure converts raw straw into a hydrated, nutrient-supplemented substrate through a sequence of chopping, soaking with brown-rice-flour-substrate. It is designed to be accessible to amateur growers using household equipment.
 ---
 
 ## Overview

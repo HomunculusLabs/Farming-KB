@@ -3,7 +3,7 @@ title: Shamans as Phenomenologists — Plant Chemists Calling It Spirit
 created: 2026-05-09
 tags: tryptamine, consciousness]
 source: mckenna_t-tryptamines_consciousness.md
-aliases: [[terence-mckenna]] argued that indigenous shamans are not primitive mystics but
+aliases: terence-mckenna argued that indigenous shamans are not primitive mystics but
 sophisticated phenomenologists who possess deep empirical knowledge of plant
 chemistry, consciousness, and the nature of reality — knowledge they encode
 in the language of "spirit" rather than the language of molecules.

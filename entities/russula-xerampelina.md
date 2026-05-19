@@ -12,7 +12,7 @@ sources:
   - "Lincoff, G.H. (1981). National Audubon Society Field Guide to  in the family Russulaceae. It is widely regarded as one of the finest
 edible species within the genus *Russula*, prized by foragers for its mild flavor and
 distinctive seafood-like aroma reminiscent of cooked shrimp or crab when the flesh is
-cut or bruised. The species occurs across [[ectomycorrhizal-associations]] with both coniferous and hardwood trees.
+cut or bruised. The species occurs across ectomycorrhizal-associations with both coniferous and hardwood trees.
 ---# Taxonomy and Classification
 
 - **Kingdom:** Fungi

@@ -12,7 +12,7 @@ updated: 2026-05-10
 sources:
   - Tamura, M. (1995). "Ranunculaceae." In: Kubitzki, K. (ed.) The Families and Genera of Vascular Plants, Vol. II. Springer.
   - RHS (2024). "Nigella orientalis — Plant Finder." Royal Horticultural Society.
-  - GREVEN Handbooks (2022). "[[nigella-damascena]]), which bears blue or white flowers, Nigella orientalis produces soft yellow blooms. This unique coloration within the genus makes it a valuable subject for garden designers seeking unusual warm-toned annuals.
+  - GREVEN Handbooks (2022). "nigella-damascena), which bears blue or white flowers, Nigella orientalis produces soft yellow blooms. This unique coloration within the genus makes it a valuable subject for garden designers seeking unusual warm-toned annuals.
 ---
 
 The species grows 30–50 cm tall and blooms in early to mid-summer. It is easily grown from direct-sown seed and self-seeds modestly in suitable garden conditions.

@@ -1,11 +1,3 @@
----
-title: "arnica montana"
-created: 2026-04-28
-type: species
-tags:
-  - hofmann-lsd-clinical-research-early-studies supports its efficacy for bruising,
-muscle soreness, and postoperative swelling.
----
 
 The species is critically endangered in several European countries due to
 overharvesting of wild populations and habitat loss. Most commercial arnica is
@@ -78,7 +70,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish arnica montana
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -92,7 +84,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Arnica Montana finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -148,4 +140,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[arnica-chamissonis]]
-- [[comparison-arnica-vs-calendula]]

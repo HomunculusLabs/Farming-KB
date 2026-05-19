@@ -1,8 +1,8 @@
 ---
 title: Fungal Community Characterization Collection Effort Curves
-source: "[[edaphic-determinants-cannabis-microbiome-community-structure]] analysis
+source: "edaphic-determinants-cannabis-microbiome-community-structure analysis
   - species accumulation curve fungi
-  - [[biodiversity-fungi-soil-fungal-communities]] requires careful attention to sampling design, effort quantification, and appropriate analytical frameworks that account for the unique biology of fungi.
+  - biodiversity-fungi-soil-fungal-communities requires careful attention to sampling design, effort quantification, and appropriate analytical frameworks that account for the unique biology of fungi.
 ---
 
 ## Types of Community Data

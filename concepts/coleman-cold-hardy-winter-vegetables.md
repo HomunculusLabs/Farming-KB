@@ -2,7 +2,7 @@
 title: Coleman Cold Hardy Winter Vegetables
 created: 2026-05-08
 tags: [farming, vegetables, winter-harvest, dandelion
-- [[coleman-cold-hardy-varieties]] winter vegetables
+- coleman-cold-hardy-varieties winter vegetables
 ---
 
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

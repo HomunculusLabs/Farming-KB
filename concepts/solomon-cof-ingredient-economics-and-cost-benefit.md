@@ -2,8 +2,8 @@
 title: COF Ingredient Economics and Cost-Benefit Analysis - Solomon
 source: Gardening When It Counts - Steve Solomon (2005)
 source_path: ~/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
-topics: [[azomite-mineral-amendment]]
-designed to provide balanced nutrition to [[dynamic-accumulator-plants-calcium-and-magnesium]]. This
+topics: azomite-mineral-amendment
+designed to provide balanced nutrition to dynamic-accumulator-plants-calcium-and-magnesium. This
 quantity is intended to fertilize a substantial garden area for an entire
 growing season. The exact proportions can be adjusted based on soil test
 results, but the general framework remains consistent across different garden

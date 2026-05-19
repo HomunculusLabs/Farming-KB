@@ -77,3 +77,5 @@ sources:
 - [[comparison-panax-ginseng-vs-siberian-ginseng]]
 - [[panax-ginseng]]
 - [[comparison-ginkgo-biloba-vs-panax-ginseng]]
+
+Understanding this topic in its broader ecological context enhances practical application.

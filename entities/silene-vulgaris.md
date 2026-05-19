@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - "Jurtzev, B.N. et al. (1993). Silene. In Flora Europaea, Vol. 1. Cambridge University Press."
   - "Mabey, R. (2012). Food for Free. Collins."
-  - "Couplan, F. (1990). The Encyclopedia of Edible Plants [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. It is recognized by its distinctive inflated calyx, which gives the plant its common name bladder campion.
+  - "Couplan, F. (1990). The Encyclopedia of Edible Plants oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide. It is recognized by its distinctive inflated calyx, which gives the plant its common name bladder campion.
 ---
 
 The species is valued as a wild edible green in many European and Mediterranean cuisines. Young shoots and leaves have a mild, slightly sweet flavor and are used in salads, soups, and cooked greens.

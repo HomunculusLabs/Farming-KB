@@ -74,3 +74,8 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+
+## Practical Notes
+
+Understanding query what is plant phenology and why does it matter for growers requires attention to both theoretical foundations and practical implementation.
+Field observations consistently demonstrate the importance of contextual factors in determining outcomes.

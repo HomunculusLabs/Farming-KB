@@ -1,6 +1,6 @@
 ---
 title: Icaros Shamanic Power Songs
-source: [[ayahuasca]]
+source: ayahuasca
 Visions*. These melodic incantations, received directly from plant spirits
 during dieta and ceremonial work, are the primary tool through which
 vegetalistas interact with the spirit world, direct healing energy, and

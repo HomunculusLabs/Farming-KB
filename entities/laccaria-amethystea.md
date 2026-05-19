@@ -4,7 +4,7 @@ type: species
 aliases:
   - Amethyst Laccaria
   - Amethyst Deceiver
-  - [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It is named for its vivid amethyst-purple coloration, which fades as the mushroom ages — giving rise to its common name "Amethyst Deceiver."
+  - oyster-mushroom-log-cultivation-temperate-regions-short-log-method of the Northern Hemisphere. It is named for its vivid amethyst-purple coloration, which fades as the mushroom ages — giving rise to its common name "Amethyst Deceiver."
 ---
 
 The species is an ectomycorrhizal associate of broadleaf and coniferous trees and is one of the most commonly encountered purple fungi in temperate forests. While edible and widely consumed in some cultures, it is thin-fleshed and generally considered of limited culinary value.

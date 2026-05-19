@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - "Eck, P. (1990). The American Cranberry. Rutgers University Press."
   - "Roper, T.R. & Vorsa, N. (1997). \"Cranberry: Botany and Horticulture.\" Horticultural Reviews, 21, 215-249."
-  - "Côté, J.S. et al. (2010). \"Phytochemistry and Health Benefits of Cranberries.\" Journal of [[psilocybin-north-america-pacific-northwest]]. It is one of only three commercially cultivated cranberry species worldwide and the dominant species in the United States cranberry industry.
+  - "Côté, J.S. et al. (2010). \"Phytochemistry and Health Benefits of Cranberries.\" Journal of psilocybin-north-america-pacific-northwest. It is one of only three commercially cultivated cranberry species worldwide and the dominant species in the United States cranberry industry.
 ---
 
 The plant produces tart, red berries that are among the most economically important small fruits native to [[jeavons-climate-adaptation-growing-seasons]] before abscising.

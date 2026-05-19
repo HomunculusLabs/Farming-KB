@@ -1,6 +1,6 @@
 ---
 title: Arid Zone Species Selection And Forage Systems
-source: bill-mollison-[[permaculture-zone-two-orchard-and-animal-systems|permaculture]]-two-practical-design-for-to.md
+source: bill-mollison-permaculture-zone-two-orchard-and-animal-systems|permaculture-two-practical-design-for-to.md
 type: concept
 ---
 

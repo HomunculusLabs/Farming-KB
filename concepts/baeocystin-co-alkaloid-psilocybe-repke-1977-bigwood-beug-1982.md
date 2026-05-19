@@ -2,7 +2,7 @@
 title: Baeocystin as a Co-Alkaloid in Psilocybe — The Repke 1977 Reference
 source: raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 author: Bigwood & Beug (1982), citing Repke et al. (1977)
-topic: mycology, [[ergot-alkaloid-chemistry-history]], tryptamine compounds
+topic: mycology, ergot-alkaloid-chemistry-history, tryptamine compounds
 mined: 2026-05-11
 ---
 

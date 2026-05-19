@@ -13,7 +13,7 @@ sources:
   - Fedorov A (1969). "Campanula L." In: Flora URSS, Vol. 24.
   - Tutin TG, et al. (1972). Flora Europaea, Vol. 3. Cambridge University Press.
   - Kirschner J (2004). "Campanula rapunculus." In: Euro+Med PlantBase.
-  - Couplan F (1998). The Encyclopedia of Edible Plants [[fukuoka-western-root-vegetable-deficiency]]. Its white, fleshy taproot was widely cultivated in Europe from the Middle Ages through the 19th century for culinary use.
+  - Couplan F (1998). The Encyclopedia of Edible Plants fukuoka-western-root-vegetable-deficiency. Its white, fleshy taproot was widely cultivated in Europe from the Middle Ages through the 19th century for culinary use.
 ---
 
 The Brothers Grimm fairy tale "Rapunzel" takes its name from this plant, reflecting its [[mandrake-mandragora-officinarum-in-european-folklore]] and cuisine. The name "rapunculus" derives from the Latin diminutive of rapa (turnip), referencing the turnip-like root.

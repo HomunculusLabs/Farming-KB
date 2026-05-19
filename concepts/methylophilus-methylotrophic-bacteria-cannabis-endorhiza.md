@@ -2,7 +2,7 @@
 title: "Methylophilus — Methylotrophic Bacteria in Cannabis Endorhiza"
 slug: "methylophilus-methylotrophic-bacteria-cannabis-endorhiza"
 tags: [microbiome, cannabis, methylotroph, methylophilus, endophyte, strain-specificity]
-source: [[winston-cannabis-microbiome-study-design]]. This genus of methylotrophic bacteria showed extreme cultivar-specific enrichment in the endorhiza of Cannabis, comprising 13% of the entire endorhiza microbial community in Bookoo Kush while being virtually absent from Burmese (0.13%) and completely undetectable in Sour Diesel. This dramatic strain-level difference was the single most statistically significant OTU abundance difference between Cannabis cultivars (FDR-corrected p = 0.012).
+source: winston-cannabis-microbiome-study-design. This genus of methylotrophic bacteria showed extreme cultivar-specific enrichment in the endorhiza of Cannabis, comprising 13% of the entire endorhiza microbial community in Bookoo Kush while being virtually absent from Burmese (0.13%) and completely undetectable in Sour Diesel. This dramatic strain-level difference was the single most statistically significant OTU abundance difference between Cannabis cultivars (FDR-corrected p = 0.012).
 ---
 
 ## Taxonomy and Biology of Methylophilus

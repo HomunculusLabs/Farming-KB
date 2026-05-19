@@ -22,7 +22,7 @@ sources:
   - Kuo, M. (2024). "Suillus brevipes." MushroomExpert.com. https://www.mushroomexpert.com/suillus_brevipes.html
   - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). ".
 The species epithet *brevipes* ("short foot") refers to its characteristically
-stumpy, nearly absent stipe. It forms [[psilocybin-north-america-pacific-northwest]] and Rocky Mountains.
+stumpy, nearly absent stipe. It forms psilocybin-north-america-pacific-northwest and Rocky Mountains.
 ---nlike many Suillus species, S. brevipes lacks a [[palmer-mushroom-hunting-field-identification]]
 relatively straightforward.
 

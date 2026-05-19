@@ -13,7 +13,7 @@ sources:
   - Hickey M, King C (2000). "The Cambridge Illustrated Glossary of Botanical Terms." Cambridge University Press.
   - Murphy K (2016). "Aquatic Plant Management in Lakes and Reservoirs." CRC Press.
   - Hanelt P (2001). "Mansfeld's Encyclopedia of Agricultural and Horticultural Crops." Springer.
-  - Wiersema JH (2022). "Nymphaea (Nymphaeaceae)." In: Flora [[psilocybe-southeast-asia-pacific]].
+  - Wiersema JH (2022). "Nymphaea (Nymphaeaceae)." In: Flora psilocybe-southeast-asia-pacific.
 ---
 
 The species is distinguished by its fragrant white flowers that open during the day and its broadly ovate floating leaves. Nymphaea lotus holds deep [[cannabis-vegetative-growth-stage]]. Dense shading by overhanging trees can reduce flower production but the plant persists vegetatively.

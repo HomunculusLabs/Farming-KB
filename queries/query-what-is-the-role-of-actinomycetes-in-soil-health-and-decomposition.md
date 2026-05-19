@@ -77,3 +77,5 @@ Actinomycetes are among the most important **naturally occurring [[singh-entomop
 - **Soil acidification**: Below pH 5.5, populations decline sharply
 - **Excessive [[teaming-with-microbes-earthworm-ecology-and-vermicomposting]]
 - [[query-what-is-the-role-of-actinomycetes-in-soil-health]]
+
+Understanding this topic in its broader ecological context enhances practical application.

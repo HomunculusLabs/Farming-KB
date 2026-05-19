@@ -1,7 +1,7 @@
 ---
 title: "Abort Harvesting and Alkaloid Concentration in PF Tek"
 source: "fanaticus-pf-tek-psilocybe-fanaticus.md"
-source_authors: "[[contamination-prevention-in-mushroom-cultivation]], "aborts" are mushroom primordia (baby mushrooms) that
+source_authors: "contamination-prevention-in-mushroom-cultivation, "aborts" are mushroom primordia (baby mushrooms) that
 stop growing and begin to deteriorate before reaching maturity. The PF Tek
 method, developed by Robert McPherson (Psilocybe Fanaticus), specifically
 recommended harvesting and consuming aborts, noting their reportedly high

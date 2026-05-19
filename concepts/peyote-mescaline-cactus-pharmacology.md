@@ -1,15 +1,15 @@
 ---
 title: "golden-guide-peyote-and-mescaline-cacti Cactus Pharmacology"
 tags: [peyote, mescaline, lophophora-williamsii, trichocereus, native-american-church, cactaceae, hallucinogens, sacramental-use]
-source: "Halpern, J.H. (2004). Hallucinogens and dissociative agents naturally growing in the [[peyote-ceremony]] (Lophophora williamsii) is a small, spineless cactus native to a narrow
+source: "Halpern, J.H. (2004). Hallucinogens and dissociative agents naturally growing in the peyote-ceremony (Lophophora williamsii) is a small, spineless cactus native to a narrow
 strip of desert along the Texas-Mexico border, extending deeply into Mexico's
 Chihuahuan Desert. It is the most culturally significant hallucinogenic plant in
-[[halpern-sacramental-peyote-and-native-american-church]] (NAC) for over a century. Peyote contains more than 60 identified
-alkaloids, with [[trichocereus-pachanoi]] (San Pedro)
-and [[pihkal-dob-doi-dom-amphetamine-series-comparison]], dopamine, and
-[[lsd]], [[halpern-sacramental-peyote-and-native-american-church]] is the largest pan-tribal religious organization
+halpern-sacramental-peyote-and-native-american-church (NAC) for over a century. Peyote contains more than 60 identified
+alkaloids, with trichocereus-pachanoi (San Pedro)
+and pihkal-dob-doi-dom-amphetamine-series-comparison, dopamine, and
+lsd, halpern-sacramental-peyote-and-native-american-church is the largest pan-tribal religious organization
 among Native Americans, with approximately 300,000 members in the United States
-and Canada. [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] represent the central sacramental practice and have
+and Canada. metzner-peyote-ceremonies-native-american-church-and-huichol-traditions represent the central sacramental practice and have
 been legally protected under federal law for Native American members.
 ---
 

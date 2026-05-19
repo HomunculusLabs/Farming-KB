@@ -116,3 +116,5 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[mollison-designers-food-forest-succession-design]] and [[mollison-designers-climate-zone-2-orchard-food-forest]] for related information.
+
+These interconnections demonstrate the importance of integrated approaches to understanding and applying this knowledge.

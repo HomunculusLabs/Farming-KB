@@ -1,6 +1,6 @@
 ---
 title: Coleman Sunlight Geometry Winter Greenhouse Daylength
-source: The [[winter-harvest-handbook-guide]], Eliot Coleman, Chapter 5
+source: The winter-harvest-handbook-guide, Eliot Coleman, Chapter 5
 tags:
   - winter-harvest
   - greenhouse

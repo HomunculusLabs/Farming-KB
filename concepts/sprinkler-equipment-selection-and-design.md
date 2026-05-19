@@ -1,6 +1,6 @@
 ---
 title: Sprinkler Equipment Selection And Design
-source: gardening-when-it-counts-steve-[[solomon-irrigation-systems-sprinkler-design]].md
+source: gardening-when-it-counts-steve-solomon-irrigation-systems-sprinkler-design.md
 type: concept
 ---
 

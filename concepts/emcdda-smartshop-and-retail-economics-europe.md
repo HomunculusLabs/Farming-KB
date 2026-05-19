@@ -1,7 +1,7 @@
 ---
 title: "EMCDDA emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets Economics in Europe"
 source: carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper, 2006)
-topics: [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in Europe, revealing a
+topics: emcdda-hallucinogenic-mushrooms-emerging-trend-europe in Europe, revealing a
 commercial ecosystem that expanded rapidly during the late 1990s and
 early 2000s before being curtailed by legislative changes in multiple
 EU member states.

@@ -14,7 +14,7 @@ sources:
   - USDA NRCS. "Schizachyrium scoparium." PLANTS Database.
   - Hitchcock, A.S. (1950). "Manual of the Grasses of the United States." USDA Misc. Publ. No. 200.
   - Barkworth, M.E. et al. (2007). "Manual of Grasses for North America." Intermountain Herbarium, Utah State University.
-  - Harpes, J.L. et al. (2003). "Schizachyrium scoparium (Michx.) Nash." In: Flora [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]], ornamental landscaping, and livestock forage.
+  - Harpes, J.L. et al. (2003). "Schizachyrium scoparium (Michx.) Nash." In: Flora tropical-rainforest-seedling-mycorrhiza-ecological-restoration, ornamental landscaping, and livestock forage.
 ---
 
 The species is recognized by its slender blue-green foliage that turns striking shades of copper, orange, and red in autumn. It typically grows 60–120 cm tall and forms dense basal tussocks with an upright, columnar habit.

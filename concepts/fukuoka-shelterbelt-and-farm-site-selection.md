@@ -2,9 +2,9 @@
 title: Fukuoka's Shelterbelt Design and Natural Farm Site Selection
 source: administrator-microsoft-word-fukuoka-textdoc.md
 author: Masanobu Fukuoka
-topics: [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]] y, existing vegetation, and [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]] rops, strip soil, and break plant stems.
+topics: natural-farming-guide-forest-garden-strategy-and-ecological-succession y, existing vegetation, and query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly rops, strip soil, and break plant stems.
 2. **Soil fertility maintenance**: Trees in the shelterbelt shed leaves and branches that decompose into organic matter, continuously feeding the soil.
-3. **Environmental improvement**: The shelterbelt creates a habitat [[complete-organic-fertilizer-cof-recipe-solomon]] for the farm. The wood preserve serves three critical functions:
+3. **Environmental improvement**: The shelterbelt creates a habitat complete-organic-fertilizer-cof-recipe-solomon for the farm. The wood preserve serves three critical functions:
 ---
 
 1. It anchors the hillside soil and prevents erosion.

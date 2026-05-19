@@ -16,9 +16,9 @@ sources:
   - "Sanchez-Moreiras, A.M. et al. (2003). \"Allelopathic potential of Linaria vulgaris.\" Allelopathy Journal, 12(1), 43-52."
   - "Nadeau, L.B. & King, J.R. (1991). \"Seed dispersal and seedling establishment of Linaria vulgaris.\" Canadian Journal of Plant Science, 71, 711-722."
   - "Vranová, V. et al. (2011). \"Allelopathic activity of essential oils from invasive Linaria vulgaris.\" Journal of 
-and other [[cordyceps-cancer-bioactive-compounds]], including
+and other cordyceps-cancer-bioactive-compounds, including
 iridoid glycosides (particularly picroside I and antirrhinoside) and
-flavonoid glycosides, which contribute to both its [[hamilton-clearing-uncultivated-ground]].
+flavonoid glycosides, which contribute to both its hamilton-clearing-uncultivated-ground.
 ---ike Antirrhinum, Linaria was traditionally placed in Scrophulariaceae but
 was reclassified to Plantaginaceae based on molecular phylogenetics. The
 species is a diploid with 2n = 12 chromosomes. Several subspecies have been

@@ -15,7 +15,7 @@ sources:
   - Stone, D.E. (1963). "A review of the genus Carya in China." Journal of the Arnold Arboretum, 44, 359-379.
   - Lu, A.M. & Stone, D.E. (1994). "Juglandaceae." In: Flora of China, Vol. 4, 267-275.
   - Grauke, L.J. et al. (2011). "A phylogenetic analysis of Carya." Tree Genetics and Genomes, 7(2), 329-341.
-  - Fang, J.Y. et al. (2012). "Forest [[growing-gourmet-north-american-reishi-species]] relatives such as pecan ([[polypore-fungi-eastern-north-america]] and eastern Asia.
+  - Fang, J.Y. et al. (2012). "Forest growing-gourmet-north-american-reishi-species relatives such as pecan (polypore-fungi-eastern-north-america and eastern Asia.
 ---
 
 The Asian and [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] and managed nut orchards. Remaining wild stands are fragmented and restricted to steeper, less accessible terrain.

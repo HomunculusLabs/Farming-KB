@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-22
 type: concept
 tags: natural-farming and
-[[root-cellaring]] is ideal.
+root-cellaring is ideal.
    The meat should stay edible for several months.
 ---
 

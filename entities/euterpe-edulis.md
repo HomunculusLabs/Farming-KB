@@ -15,7 +15,7 @@ sources:
   - Dransfield J., Uhl N.W. et al. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
   - IUCN Red List (2023). "Euterpe edulis."
   - Reis M.S. et al. (2000). "Management and Conservation of Euterpe edulis." Forest ly known as jussara or açaí-do-Brasil, is a slender
-monoecious palm [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]]
+monoecious palm query-how-do-i-identify-the-most-common-edible-wild-mushrooms
 economically important native palms in Brazil, harvested extensively for its
 edible palm heart.
 ---he [[euterpe-oleracea]],
@@ -77,3 +77,5 @@ Successful implementation requires attention to multiple interacting factors. En
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
 Further research may reveal additional applications and ecological relationships.
+
+Understanding this topic in its broader ecological context enhances practical application.

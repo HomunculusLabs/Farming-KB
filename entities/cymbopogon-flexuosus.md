@@ -74,3 +74,9 @@ the synthesis of ionones, vitamin A, and retinol.
 
 **Culinary:** Less commonly used in cooking than *C. citratus*, but employed in
 [[cannabis-strain-south-indian-landrace-autofem-oner]], Sri Lankan, and Burmese cuisines. The fresh leaves are bruised and
+
+## See Also
+
+- [[cymbopogon-winterianus]]
+- [[cymbopogon-martinii]]
+- [[cymbopogon-citratus]]

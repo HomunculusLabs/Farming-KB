@@ -4,14 +4,14 @@ aliases:
   - plant spacing
   - row gardening
   - intensive spacing
-  - [[solomon-wide-spacing-versus-intensive-gardening-debate]]
+  - solomon-wide-spacing-versus-intensive-gardening-debate
 tags:
   - gardening
   - vegetable-production
   - plant-spacing
   - irrigation
   - steve-solomon
-source: Gardening When It Counts - [[steve-solomon]] (2005)
+source: Gardening When It Counts - steve-solomon (2005)
 created: 2026-05-11
 ---
 

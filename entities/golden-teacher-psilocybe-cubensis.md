@@ -17,7 +17,7 @@ sources:
   - Tylš, F. et al. (2014). "Psilocybin: pharmacology and subjective effects." *Journal of Psychopharmacology*, 28(2), 141-150.
   - Carhart-Harris, R.L. et al. (2016). "Psilocybin with psychological support for treatment-resistant depression." *The Lancet Psychiatry*, 3(7), 619-627.
   - Johns Hopkins University Center for Psychedelic and Consciousness Research.
-  - Erowid [[psilocybe-cubensis]])
+  - Erowid psilocybe-cubensis)
 ---
 
 Golden Teacher is one of the most widely recognized and cultivated strains of *Psilocybe cubensis*, a [[hplc-analysis-of-psilocybin-and-psilocin]]. Known for its distinctive golden-brown caps and its reputation as a forgiving strain for novice cultivators, Golden Teacher has become a foundational variety in both recreational and research contexts within the psychedelic mycology community.

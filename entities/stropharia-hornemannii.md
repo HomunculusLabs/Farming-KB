@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Noordeloos, M.E. (2011). Strophariaceae s. lato. Fungi Europaei, Vol. 13. Candusso Alba.
   - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
-  - Gartz, J. (1994). "Distribution and habitat of [[guzman-psilocybin-mushrooms-north-america]].
+  - Gartz, J. (1994). "Distribution and habitat of guzman-psilocybin-mushrooms-north-america.
 ---
 
 **Europe:** Scandinavia (particularly common in Norway and Sweden), the Baltic states, northern Russia, the Alps, and the Carpathian Mountains. Recorded less frequently in the British Isles and western Europe.

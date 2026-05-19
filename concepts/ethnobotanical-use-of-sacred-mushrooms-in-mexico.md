@@ -1,6 +1,6 @@
 ---
 title: Ethnobotanical Use Of Sacred Mushrooms In Mexico
-source: "Guzmán, Allen & Gartz – Worldwide [[ceremonial-shamanic-use-psychoactive-mushrooms]] in
+source: "Guzmán, Allen & Gartz – Worldwide ceremonial-shamanic-use-psychoactive-mushrooms in
 sacred and healing ceremonies for centuries, possibly millennia. The
 ethnobotanical tradition surrounding these fungi is among the richest
 and most complex of any psychoactive plant or fungus tradition in the
@@ -148,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.

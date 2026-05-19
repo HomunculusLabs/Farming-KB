@@ -10,7 +10,7 @@ updated: 2026-05-08
 sources:
   - "Green, P.S. (2004). A revision of Jasminum (Oleaceae) in Asia. Kew Bulletin, 59, 491–515."
   - "RHS (2023). Jasminum officinale. Royal Horticultural Society."
-  - "Khalil, A.K. et al. (2020). \"[[jasminum-grandiflorum]] subsp. officinale
+  - "Khalil, A.K. et al. (2020). \"jasminum-grandiflorum subsp. officinale
 ---
 
 Stems are slender, climbing, and can reach 6–10 m in length when supported.

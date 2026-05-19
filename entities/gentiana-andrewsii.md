@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Pringle, J.S. (2014). "Gentianaceae of the dmt-containing-plants-united-states-halpern and Canada." Journal of the Botanical Research Institute of Texas, 8(1), 291–336.
   - Struwe, L. & Albert, V.A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Moerman, D.E. (1998). "Native [[guzman-psilocybin-mushrooms-north-america]]. It is noted for its striking deep blue, never-fully-opening flowers that resemble small bottles, a characteristic that distinguishes it from most other Gentiana species.
+  - Moerman, D.E. (1998). "Native guzman-psilocybin-mushrooms-north-america. It is noted for its striking deep blue, never-fully-opening flowers that resemble small bottles, a characteristic that distinguishes it from most other Gentiana species.
 ---
 
 The species typically grows 30–60 cm tall, forming clumps of upright stems bearing lance-shaped leaves. Flowering occurs from late summer through autumn (August–October), providing late-season nectar for bumblebees, which are the primary pollinators capable of forcing open the closed corollas.

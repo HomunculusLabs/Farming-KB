@@ -73,3 +73,8 @@ Effective management integrates monitoring, assessment, and adaptive response. S
 ## Performance Metrics
 
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
+
+## Practical Notes
+
+Understanding comparison bacteriophages vs antibiotics requires attention to both theoretical foundations and practical implementation.
+Field observations consistently demonstrate the importance of contextual factors in determining outcomes.

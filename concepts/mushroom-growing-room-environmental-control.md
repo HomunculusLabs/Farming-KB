@@ -1,5 +1,5 @@
 ---
-title: "duggar-mushroom-growing-history-and-methods Room eclss-environmental-control-life-support"
+title: Mushroom Growing Room Environmental Control
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
@@ -8,8 +8,13 @@ sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
---- title: duggar-mushroom-growing-room-design chen-maitake-growth-parameters-environmental-control System created: 2026-04-26 tags: [mycology, mushroom-cultivation, environmental-control, ventilation, stamets date: 2026-04-25 updated: 2026-04-25 sources: [raw/papers/the-mushroom-cultivator-stamets.md] type: concept --- # duggar-mushroom-growing-history-and-methods Room [[duggar-mushroom-growing-history-and-methods]] room must maintain a selected query-what-is-the-ideal-temperature-range-for-growing-cannabis at high relative humidities. This is accomplished through adequate insulation and an environmental control system providing heating, cooling, humidification, and air handling. [[fruiting-conditions]]:   supplies oxygen to [[stamets-growing-room-air-circulation-co2-management]], enhancing circulation and eliminating dead-air
-    pockets.
+
+## Overview
+
+Mushroom growing room environmental control encompasses the heating, cooling,
+humidification, and air handling systems required to maintain optimal conditions
+for mushroom cultivation. The growing room must maintain a selected temperature
+at high relative humidities through adequate insulation and environmental control.
 
 ### Air Recirculation
 

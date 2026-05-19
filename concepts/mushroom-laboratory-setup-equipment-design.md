@@ -1,7 +1,7 @@
 ---
 title: Mushroom Laboratory Setup Equipment Design
 created: 2026-05-13
-source: cotter-organic-[[mushroom-cultivation-laboratory-setup|mushroom]]-farming-mycoremediation.md
+source: cotter-organic-mushroom-cultivation-laboratory-setup|mushroom-farming-mycoremediation.md
 tags: [laboratory, mushroom-cultivation, sterile-technique, laminar-flow-hood, HEPA-filter, equipment, spawn-production, mycology-lab]
 aliases: [Home Mycology Lab, Fungal Culture Laboratory, Mushroom Lab Construction]
 ---

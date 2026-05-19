@@ -1,5 +1,5 @@
 ---
-source: "The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] - masanobu-fukuoka"
+source: "The fukuoka-natural-way-of-farming-theory-of-natural-farming - masanobu-fukuoka"
 source_file: administrator-microsoft-word-fukuoka-textdoc.md
 extracted: 2026-04-10
 type: concept

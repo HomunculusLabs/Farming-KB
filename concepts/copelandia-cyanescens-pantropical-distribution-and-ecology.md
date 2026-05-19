@@ -17,7 +17,7 @@ sources:
 by Berkeley and Broome (1871) from Sri Lanka. The species was later
 transferred to the genus Copelandia by Singer (1951). The genus
 Copelandia is placed within the family Panaeolaceae (order Agaricales)
-and is characterized by its [[dmt-containing-plants-united-states-halpern]], primarily in Florida
+and is characterized by its dmt-containing-plants-united-states-halpern, primarily in Florida
 and the Gulf Coast states:
 - **Florida**: One of the most reliable locations in the continental
   United States, reported by Singer (1960a), Pollock (1976), Stamets

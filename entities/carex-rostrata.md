@@ -13,7 +13,7 @@ sources:
   - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora huckleberries-and-wild-berries-of-north-america 23: 254–572.
   - Flora of China Editorial Committee (2010). "Carex rostrata." Flora of China 23: 312.
   - USDA NRCS (2024). "PLANTS Profile — Carex rostrata."
-  - Thormann, M.N. & Bayley, S.E. (1997). "Aboveground net [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere, where it forms extensive sedge mats in shallow water and marshes.
+  - Thormann, M.N. & Bayley, S.E. (1997). "Aboveground net oyster-mushroom-log-cultivation-temperate-regions-short-log-method of the Northern Hemisphere, where it forms extensive sedge mats in shallow water and marshes.
 ---
 
 It plays a significant ecological role in [[psilocybin-north-america-pacific-northwest]], Great Lakes region, and New England.

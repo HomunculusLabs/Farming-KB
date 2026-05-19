@@ -12,7 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Dunn, D.B. (1971). "A Revised Classification of Lupinus." Contributions from the Royal Botanic Garden, Edinburgh.
-  - Isely, D. (1990). "Vascular Flora of the Southeastern United States, Volume 3." University of [[biological-nitrogen-fixation-agriculture]].
+  - Isely, D. (1990). "Vascular Flora of the Southeastern United States, Volume 3." University of biological-nitrogen-fixation-agriculture.
 ---
 
 Plants grow 30 to 60 cm tall from a thick woody taproot. The habit is typically erect and sparingly branched, with multiple flowering stems arising from a basal rosette.

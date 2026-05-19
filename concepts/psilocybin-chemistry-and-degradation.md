@@ -1,8 +1,8 @@
 ---
 title: Psilocybin Chemistry And Degradation
-source: "Guzmán, Allen & Gartz; EMCDDA – [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] of the genus
+source: "Guzmán, Allen & Gartz; EMCDDA – emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006 of the genus
 *Psilocybe* and related genera. Understanding their chemistry,
-pharmacological mechanism, and [[hofmann-lsd-clinical-research-early-studies]] [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found [[psilocybin-pharmacology-and-serotonin-receptors]] in the brain to produce psychedelic effects.
+pharmacological mechanism, and hofmann-lsd-clinical-research-early-studies aminopropyl-silica-gel-chromatography-indole-alkaloid-purification found psilocybin-pharmacology-and-serotonin-receptors in the brain to produce psychedelic effects.
 ---
 
 ## Structural Similarity to Serotonin

@@ -1,9 +1,9 @@
 ---
 title: Tompkins Plant Chemical Communication
 created: 2026-04-26
-aliases: [allelopathy, plant signaling, [[solomon-root-exudates-and-allelopathy]] between plants]
+aliases: [allelopathy, plant signaling, solomon-root-exudates-and-allelopathy between plants]
 tags: [botany, biochemistry, ecology, chemical-ecology]
-related: [[tompkins-plant-animal-relationships]], [[fungal-melanin-biosynthesis-ecological-functions]] rather
+related: tompkins-plant-animal-relationships, fungal-melanin-biosynthesis-ecological-functions rather
 than being mere nuisances:
 ---
 

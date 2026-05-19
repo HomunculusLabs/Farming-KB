@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[cotter-mushroom-composting]]
 - [[cotter-mushroom-rescue-modules-disaster-relief]]
 - [[cotter-reishi-ganoderma-cultivation]]
+
+These interconnections demonstrate the importance of integrated approaches to understanding and applying this knowledge.

@@ -76,3 +76,7 @@ As a primary decomposer of hardwood leaf litter, *G. dryophilus* contributes sig
 ## Seasonality and Ecological Cycling
 
 The fruiting period varies by latitude: in Western Europe, *G. dryophilus* appears from June through November, peaking in September and October. In North America, it fruits from mid-summer through the first hard frosts. In mild maritime climates ([[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] is most significant in oak-dominated forests, where it is one of the primary agents of leaf litter decomposition, converting complex organic matter into forms available for plant uptake. Fruit body production is estimated at 50–200 g fresh weight per hectare per year in productive oak stands, representing a significant but often overlooked component of forest carbon flux.
+
+## See Also
+
+[[gymnopus-peronatus]], [[gymnopus-liquidambaris]], [[gymnopus-junonius]]

@@ -11,7 +11,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Struwe, L. & Albert, V.A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
-  - Klips, R.A. (2015). "Alpine Plant Life: A Review of [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit and delicate flowers make it a desirable species for specialist alpine garden collections.
+  - Klips, R.A. (2015). "Alpine Plant Life: A Review of fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield habit and delicate flowers make it a desirable species for specialist alpine garden collections.
 ---
 
 The specific epithet *cachemirica* refers to the Kashmir region, the center of the species' distribution. It was first described by the British botanist Charles Baron Clarke in 1883.

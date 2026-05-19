@@ -3,10 +3,10 @@ title: "Spore Syringe Preparation Mushroom Cultivation"
 slug: spore-syringe-preparation-mushroom-cultivation
 tags: [mycology, spore-syringe, mushroom-cultivation, inoculation, sterilization]
 related: [straw-substrate-mushroom-cultivation-boil-a-bag, humidity-chamber-mushroom-fruiting]
-source: [[query-how-to-store-mushroom-spores-long-term]] in sterile water, which is used to introduce fungal spores into a prepared substrate. The boil-a-bag method described by D.H. Jarrold details a reliable technique for preparing [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]] of tools
+source: query-how-to-store-mushroom-spores-long-term in sterile water, which is used to introduce fungal spores into a prepared substrate. The boil-a-bag method described by D.H. Jarrold details a reliable technique for preparing flammability-hazard-alcohol-lysol-flame-sterilization-mycology of tools
 - **Isopropyl alcohol** — for surface disinfection
 - **Cotton wool buds** — for applying alcohol to inoculation points
-- **Metal tweezers and scissors** — for handling [[boil-a-bag-long-needle-inoculation-method-jarrold]] (which is easier and more reliable), a longer needle can be made by:
+- **Metal tweezers and scissors** — for handling boil-a-bag-long-needle-inoculation-method-jarrold (which is easier and more reliable), a longer needle can be made by:
 ---
 
 1. Removing the original short needle from its plastic hub using pliers

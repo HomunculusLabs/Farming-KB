@@ -26,7 +26,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Haslam, S.M. (2010). "A Book of Wetland and Passage." Forrest Text.
-  - Chambers, R.M. et al. (1999). "Expansion of Phragmites australis into tidal wetlands [[hemenway-backyard-wildlife-habitat]], and impede water flow.
+  - Chambers, R.M. et al. (1999). "Expansion of Phragmites australis into tidal wetlands hemenway-backyard-wildlife-habitat, and impede water flow.
 ---
 
 Genetic research by Saltonstall (2002) demonstrated that the invasive North American lineage is distinct from native *P. australis* populations. The invasive genotype (haplotype M) is more aggressive, taller, and more tolerant of salinity and disturbance than the native haplotype. Control methods include herbicide application, prescribed burning, hydrological manipulation, and cutting during the growing season.

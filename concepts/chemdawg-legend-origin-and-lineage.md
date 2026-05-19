@@ -1,6 +1,6 @@
 ---
 title: "Chemdawg - Legend, Origin and Lineage"
-source: "[[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] [[cannabis-genetics-and-breeding]] can spread and evolve through informal networks of enthusiasts long before
+source: "cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains cannabis-genetics-and-breeding can spread and evolve through informal networks of enthusiasts long before
 the era of commercial seed banks and regulated breeding programs.
 ---
 

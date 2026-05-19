@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Reynolds, T. (2004). "Aloes: The Genus Aloe." CRC Press.
   - Grace, O.M. et al. (2009). "Organoleptic and phytochemical properties of Aloe arborescens leaf gel." kanna-sceletium-south-african-narcotic Journal of Botany 75(1): 44-51.
-  - Surjushe, A. et al. (2008). "[[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dull green to blue-green with a slight glaucous bloom.
+  - Surjushe, A. et al. (2008). "bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation is dull green to blue-green with a slight glaucous bloom.
 ---
 
 Marginal teeth are prominent, triangular, and coral-colored, spaced 10–15 mm apart.

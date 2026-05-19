@@ -1,7 +1,7 @@
 ---
 title: "Temple — Bodhi Seeds"
-source: "S.T. Oner, The Rev - [[super-silver-haze]] and the
-legendary William's Wonder, Temple represents the intersection of [[cannabis-terpene-profiles]] in a compact, manageable package — a sativa "shorty" that reaches
+source: "S.T. Oner, The Rev - super-silver-haze and the
+legendary William's Wonder, Temple represents the intersection of cannabis-terpene-profiles in a compact, manageable package — a sativa "shorty" that reaches
 only medium height and finishes in just 9-10 weeks. For growers who want sativa
 quality without the space and time demands of typical sativa cultivars, Temple is
 an exceptional choice.

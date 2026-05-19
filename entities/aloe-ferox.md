@@ -12,7 +12,7 @@ sources:
   - Van Wyk, B.E. & Wink, M. (2004). Medicinal Plants of the World. Timber Press.
   - Grace, O.M. et al. (2009). "Taxonomic and nomenclatural history of Aloe ferox." Bothalia, 39(1): 77-83.
   - Chen, W. et al. (2012). "Aloe-emodin: a review of its pharmacology and toxicology." Frontiers in Pharmacology, 3: 128.
-  - [[fungal-diversity-arid-environments]]. The stem surface is smooth and gray, marked by leaf scars from shed foliage.
+  - fungal-diversity-arid-environments. The stem surface is smooth and gray, marked by leaf scars from shed foliage.
 ---
 
 Inflorescences are multi-branched racemes reaching 1.2 m tall. Flowers are bright orange-red to scarlet, occasionally yellow, appearing May–July in the [[portulacaria-afra]] and Euphorbia species in thicket vegetation. Bird pollination by sunbirds (Nectarinia spp.) is the primary pollination mechanism.

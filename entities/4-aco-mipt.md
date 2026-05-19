@@ -13,7 +13,7 @@ sources:
   - Shulgin, A. & Shulgin, A. (1997). TIHKAL: The Continuation. Transform Press.
   - Dean, R.A. et al. (2013). "Metabolism of 4-acetoxy-N-methyl-N-isopropyltryptamine." Journal of Analytical Toxicology 37(7): 437-443.
   - Brandt, S.D. et al. (2010). "Use of 4-substituted tryptamines in the UK." psychedelic-drug-testing-and-adulterant-screening and Analysis 2(9): 431-440.
-  - EMCDDA (2014). "4-AcO-MiPT: EMCDDA-Europol Joint Report on new [[alexander-shulgin]], with details published in TIHKAL (1997).
+  - EMCDDA (2014). "4-AcO-MiPT: EMCDDA-Europol Joint Report on new alexander-shulgin, with details published in TIHKAL (1997).
 ---
 
 The compound is valued by the research chemical community for its balanced psychedelic profile, which combines visual and cognitive effects with a relatively comfortable physical sensation. It is considered less intense than 4-AcO-DMT but more stimulating and visual than 4-AcO-DET.

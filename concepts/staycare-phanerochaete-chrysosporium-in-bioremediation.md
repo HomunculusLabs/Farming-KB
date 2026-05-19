@@ -3,7 +3,7 @@ title: staycare Phanerochaete Chrysosporium in bioremediation in Bioremediation
 created: 2026-04-26
 synonyms:
   - P. chrysosporium bioremediation
-  - Phanerochaete chrysosporium [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
+  - Phanerochaete chrysosporium staycare-bjerkandera-and-pleurotus-in-pollutant-degradation
   - white rot model organism
 type: concept
 tags: [pollution]

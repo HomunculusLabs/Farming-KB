@@ -1,6 +1,6 @@
 ---
 title: Casing Soils And Microbial Slurries
-source: [[cotter-casing-soils-microbial-triggers|cotter]]-organic-mushroom-farming-mycoremediation.md
+source: cotter-casing-soils-microbial-triggers|cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 

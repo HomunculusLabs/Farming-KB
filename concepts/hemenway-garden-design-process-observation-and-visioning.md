@@ -116,3 +116,5 @@ This overview of hemenway garden design process observation visioni covers the e
 - [[permaculture]]
 - [[mycorrhiza]]
 Ongoing developments continue to expand practical applications and theoretical understanding.
+
+These interconnections demonstrate the importance of integrated approaches to understanding and applying this knowledge.

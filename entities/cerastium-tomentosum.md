@@ -12,7 +12,7 @@ updated: 2026-05-10
 sources:
   - Royal Botanic Gardens Kew. "Cerastium tomentosum." Plants of the World Online. https://powo.science.kew.org/
   - Brickell C., et al. (2016). RHS A-Z Encyclopedia of Garden Plants. DK Publishing.
-  - Morton J.K. (2005). "Caryophyllaceae." In: Flora [[dighton-fungal-drought-tolerance-plant-water-relations]] and ability to thrive in poor, well-drained soils.
+  - Morton J.K. (2005). "Caryophyllaceae." In: Flora dighton-fungal-drought-tolerance-plant-water-relations and ability to thrive in poor, well-drained soils.
 ---
 
 The plant received the Royal Horticultural Society Award of Garden Merit, confirming its reliability and garden worthiness. It remains one of the most popular silver-leaved groundcovers in temperate horticulture.

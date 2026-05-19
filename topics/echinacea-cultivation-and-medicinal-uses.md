@@ -1,7 +1,7 @@
 ---
 title: Echinacea Cultivation And Medicinal Uses
 subtitle: "A comprehensive guide to growing, harvesting, and using purple coneflower
-  as medicine, from [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]] to modern [[hofmann-lsd-clinical-research-early-studies]]"
+  as medicine, from sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions to modern hofmann-lsd-clinical-research-early-studies"
 tags: [echinacea, medicinal-herbs, cultivation, immunology, herbal-medicine,
   ethnobotany, permaculture, native-plants]
 date: 2026-05-11

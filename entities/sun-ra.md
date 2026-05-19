@@ -11,7 +11,7 @@ aliases:
   - Sonny Blount
   - Sun Ra Arkestra
 tags: [person, jazz, octavia-e-butler
-- [[peyote-and-psychoactive-cacti]]
+- peyote-and-psychoactive-cacti
 ---
 ## Practical Applications
 

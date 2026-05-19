@@ -74,3 +74,10 @@ Mimosa is a **THC-dominant strain** with virtually no CBD. The [[cannabis-terpen
 - Mild body relaxation from the Purple Punch lineage
 - Reduced anxiety and stress in moderate doses
 - [[cannabis-for-cachexia-and-appetite-stimulation]] (moderate)
+
+## See Also
+
+- [[zookies-cannabis]]
+- [[winston-cannabis-microbiome-study-design]]
+- [[wick-system-cannabis]]
+- [[whiteflies-cannabis]]

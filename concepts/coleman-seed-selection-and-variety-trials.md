@@ -117,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[coleman-double-layer-protection-greenhouse-row-cover]]
 - [[coleman-mobile-greenhouse-system]]
 - [[coleman-tools-small-farm]]
+
+Understanding this topic in its broader ecological context enhances practical application.

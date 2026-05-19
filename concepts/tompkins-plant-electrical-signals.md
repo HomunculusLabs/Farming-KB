@@ -1,9 +1,9 @@
 ---
 title: Plant Electrical Signals
 created: 2026-04-26
-aliases: [plant bioelectricity, [[chamovitz-plant-electrical-signaling-action-potentials]] in plants, plant nervous system]
+aliases: [plant bioelectricity, chamovitz-plant-electrical-signaling-action-potentials in plants, plant nervous system]
 tags: [botany, biophysics, electrophysiology, Bose]
-related: [[tompkins-plant-growth-regulators]], [[phototropism-darwin-plant-light-response]] in
+related: tompkins-plant-growth-regulators, phototropism-darwin-plant-light-response in
 leaves and in animal retinas. Plants became as fatigued by continuous
 stimulation as animal muscles, whether hypersensitive mimosas or
 undemonstrative radishes.

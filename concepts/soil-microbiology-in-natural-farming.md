@@ -2,7 +2,8 @@
 title: "Soil Microbiology In Natural Farming"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 ---
 
 ## Soil Bacteria and Nitrogen Fixation

@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Les, D.H. et al. (2006). "Phylogeny and systematics of Ceratophyllaceae." In: Monocots: Comparative Biology and Evolution, pp. 339-345. CSIRO Publishing.
-  - Best, E.P.H. (1977). "Seasonal changes in mineral and organic components of Ceratophyllum demersum and [[hamilton-vegetative-propagation]] make it both ecologically valuable and potentially invasive outside its native range.
+  - Best, E.P.H. (1977). "Seasonal changes in mineral and organic components of Ceratophyllum demersum and hamilton-vegetative-propagation make it both ecologically valuable and potentially invasive outside its native range.
 ---
 
 ## Taxonomy and Morphology

@@ -117,3 +117,5 @@ This overview of halotolerant halophilic fungi saline environments covers the es
 - [[doc]]
 - [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]
 - [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]]
+
+Understanding this topic in its broader ecological context enhances practical application.

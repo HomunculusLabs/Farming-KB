@@ -1,10 +1,10 @@
 ---
 title: Pf Tek Measurement Calibration And Substrate Formula Precision
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
-topics: measurement calibration, substrate formula, metric conversions, [[pf-tek-psilocybe-fanaticus-cultivation-method]] emphasised that measurement accuracy is critical
-to successful [[pf-tek-substrate-moisture-diagnosis-and-correction]] formula uses
+topics: measurement calibration, substrate formula, metric conversions, pf-tek-psilocybe-fanaticus-cultivation-method emphasised that measurement accuracy is critical
+to successful pf-tek-substrate-moisture-diagnosis-and-correction formula uses
 small volumes in half-pint jars, where even minor measurement errors
-can lead to [[jar-shaking-grain-redistribution-mycelial-colonisation]] speed.
+can lead to jar-shaking-grain-redistribution-mycelial-colonisation speed.
 ---
 
 ### Source

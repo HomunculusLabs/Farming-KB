@@ -14,7 +14,7 @@ sources:
   - Mey, F.S. (2013). "Nepenthes thorelii ex situ." Carnivorous Plant Newsletter, 42(4), 120-126.
   - Schlauer, J. (2020). "Nepenthes nomenclatural database." Carnivorous Plant Database.
   - McPherson, S.R. (2009). "Pitcher Plants of the 
-- [[nepenthes-lowii]]
+- nepenthes-lowii
 ---# Overview
 
 Nepenthes Thorelii represents an important element within sustainable

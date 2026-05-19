@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff. (2023). "Liquid Gelato Strain Information." Leafly.com.
-  - AllBud. (2024). "Liquid [[cannabis-resin-production-and-quality-traits-clarke]] dessert-like terpene profile, it has gained recognition among cultivators and consumers for its heavy trichome coverage and strong psychoactive effects.
+  - AllBud. (2024). "Liquid cannabis-resin-production-and-quality-traits-clarke dessert-like terpene profile, it has gained recognition among cultivators and consumers for its heavy trichome coverage and strong psychoactive effects.
 ---
 
 The strain emerged from the competitive West Coast breeding scene as a select phenotype or backcross within the Gelato family. Its name references the viscous, syrupy resin consistency that coats the buds at harvest maturity.

@@ -15,9 +15,9 @@ sources:
   - Abuye, A. et al. (2003). "A processed complementary food supplement from Moringa stenopetala leaves." Plant Foods for Human Nutrition, 58(1), 1-9.
   - Olson, M.E. & Carlquist, S. (2001). "Stem and * but produces larger leaves
 and greater leaf biomass per tree. In its native range, it serves as a staple
-leaf vegetable, [[dighton-fungal-communities-grassland-soils]] in southern Ethiopia rely on *M. stenopetala* as a primary
+leaf vegetable, dighton-fungal-communities-grassland-soils in southern Ethiopia rely on *M. stenopetala* as a primary
 micronutrient source during dry seasons. The tree is increasingly recognized
-for [[water-absorption-variability-grass-seed-substrate-preparation]]s. It is drought-deciduous, dropping leaves in dry periods and
+for water-absorption-variability-grass-seed-substrate-preparations. It is drought-deciduous, dropping leaves in dry periods and
 refoliating rapidly with rains.
 ---ntroduced to Tanzania, Uganda, and India for [[query-how-to-extract-and-use-fungal-pigments-for-natural-dyeing]]s contain glucomoringin (a Moringaceae-specific glucosinolate),
 quercetin, kaempferol, and chlorogenic acid as primary constituents.

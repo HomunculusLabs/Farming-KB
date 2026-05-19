@@ -11,7 +11,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Parry, C.C. (1864). "Collections Made in Colorado Territory." American Journal of Science and Arts.
-  - Kelso, S. (1991). "Taxonomy of Primula sects. Aleuritia and Armerina in [[growing-gourmet-north-american-reishi-species]] Primula species and a hallmark of alpine wetland habitats.
+  - Kelso, S. (1991). "Taxonomy of Primula sects. Aleuritia and Armerina in growing-gourmet-north-american-reishi-species Primula species and a hallmark of alpine wetland habitats.
 ---
 
 Parry's primrose is named after the pioneering botanist Charles Christopher Parry (1823–1890), who collected the type specimen near Gray's Peak, Colorado, in 1862. It remains a treasured find for hikers in the Rocky Mountain alpine zone.

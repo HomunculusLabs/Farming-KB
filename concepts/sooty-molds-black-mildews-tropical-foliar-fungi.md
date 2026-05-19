@@ -117,3 +117,5 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[foliar-fungi-sooty-molds-black-mildews-downy-mildews]] and [[foliar-fungi-sooty-and-black-mildews]] for related information.
+
+Understanding this topic in its broader ecological context enhances practical application.

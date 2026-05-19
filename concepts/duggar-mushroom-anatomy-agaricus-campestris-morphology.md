@@ -7,12 +7,12 @@ tags:
  - duggar
  - mushroom-growing
  - agaricaceae
-source: "Duggar, B.M. (1915). [[mushroom-industry-african-countries]] of
-the early [[spore-print]] — Detailed methods for
+source: "Duggar, B.M. (1915). mushroom-industry-african-countries of
+the early spore-print — Detailed methods for
  making and interpreting spore prints.
-- [[history-of-commercial-mushroom-cultivation]] — Historical overview
+- history-of-commercial-mushroom-cultivation — Historical overview
  of commercial mushroom growing in the United States.
-- — Ring morphology across [[duggar-cultivated-agaricus-taxonomy-and-variety]] species.
+- — Ring morphology across duggar-cultivated-agaricus-taxonomy-and-variety species.
 ---
 
 ## Overview

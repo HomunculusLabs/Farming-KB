@@ -1,7 +1,7 @@
 ---
 title: Mckenna Tv Dominator Drug
 source: "Food of the Gods"
-author: "[[dominator-culture-and-partnership-society]]'s capacity to shape human
+author: "dominator-culture-and-partnership-society's capacity to shape human
 consciousness and values.
 ---
 

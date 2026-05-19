@@ -11,7 +11,7 @@ updated: 2026-05-09
 sources:
   - Stevenson, D.W.M. (1987). "Monograph of Zamiaceae." PhD Thesis, Cornell University.
   - Norstog, K.J. & Nicholls, T.J. (1997). "The Biology of the Cycads." Cornell University Press.
-  - González-Astorga, J. et al. (2008). "[[biological-nitrogen-fixation-agriculture]]. This symbiotic association supplements the plant's [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+  - González-Astorga, J. et al. (2008). "biological-nitrogen-fixation-agriculture. This symbiotic association supplements the plant's query-how-to-protect-plants-from-frost-and-extend-the-growing-season.
 ---
 
 Propagation is primarily from seed, which requires scarification and soaking before germination. Germination typically occurs within 1 to 3 months at temperatures of 25 to 30°C.

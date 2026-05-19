@@ -10,7 +10,7 @@ tags:
 - ducks
 - goats
 - byproducts
-- [[homesteading]]
+- homesteading
 - recipe
 - ethics
 - harvesting

@@ -1,7 +1,7 @@
 ---
 title: Brassinosteroid Cross-Kingdom Growth Regulation from Plants to Fungi
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
-topics: [cross-kingdom signaling, brassinosteroid, phytohormone, fungal biology, [[brassinosteroid-growth-promotion-psilocybe-cubensis]]* represents one of the earliest
+topics: [cross-kingdom signaling, brassinosteroid, phytohormone, fungal biology, brassinosteroid-growth-promotion-psilocybe-cubensis* represents one of the earliest
 documented examples of **cross-kingdom growth regulation** by brassinosteroids. This
 phenomenon challenges the traditional view that brassinosteroids function exclusively
 as plant hormones and opens a broader question: to what extent do plant-derived growth

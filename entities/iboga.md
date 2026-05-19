@@ -75,3 +75,7 @@ The primary active metabolite, produced by hepatic CYP2D6 metabolism:
 - Accumulates with repeated dosing due to long half-life
 
 ## Anti-Addictive Properties
+
+## See Also
+
+[[tabernanthe-iboga]], [[schultes-iboga-bwiti-cult]], [[plants-of-the-gods-tabernanthe-iboga-chemistry]]

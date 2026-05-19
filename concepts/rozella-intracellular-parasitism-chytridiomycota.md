@@ -3,7 +3,7 @@ title: "Rozella: rozella intracellular parasitism chytridiomycota in Chytridiomy
 created: 2026-04-26
 tags:
   - fungal-evolution. These organisms are part of the
-broader community of zoosporic mycoparasites [[fungal-endemism-host-specificity]] and Host Groups
+broader community of zoosporic mycoparasites fungal-endemism-host-specificity and Host Groups
 ---
 
 Held (1981) provided a comprehensive treatment of Rozella

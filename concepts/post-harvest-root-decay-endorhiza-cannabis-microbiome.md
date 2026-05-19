@@ -1,7 +1,7 @@
 ---
 title: Post Harvest Root Decay Endorhiza Cannabis Microbiome
 aliases:
-  - "[[winston-cannabis-microbiome-study-design]] was the dramatic difference in endorhiza [[cannabis-rhizosphere-endorhiza-communities]] despite the confounding effects of root decay. This suggests that the cultivar-specific microbial signatures established during the plant's life are robust enough to persist, at least partially, through the initial stages of tissue senescence. However, the magnitude of cultivar-specific effects was almost certainly attenuated by the decay signal.
+  - "winston-cannabis-microbiome-study-design was the dramatic difference in endorhiza cannabis-rhizosphere-endorhiza-communities despite the confounding effects of root decay. This suggests that the cultivar-specific microbial signatures established during the plant's life are robust enough to persist, at least partially, through the initial stages of tissue senescence. However, the magnitude of cultivar-specific effects was almost certainly attenuated by the decay signal.
 ---
 
 ### Rhizosphere Signal Masking

@@ -2,7 +2,7 @@
 title: Sacred Non-Psilocybin Fungi — Polypores, Boletes, Puffballs, and Indigenous Religious Use
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 source_author: Gastón Guzmán, John W. Allen, Jochen Gartz
-source_title: "A Worldwide Geographical Distribution of the [[stamets-reishi-ganoderma-lucidum-cultivation]]** — Perhaps the most famous [[cattle-dispersal-psychoactive-fungi-australia]]."
+source_title: "A Worldwide Geographical Distribution of the stamets-reishi-ganoderma-lucidum-cultivation** — Perhaps the most famous cattle-dispersal-psychoactive-fungi-australia."
 ---
 
 ## [[harner-american-indian-peyote-rituals]] peoples, puffballs growing in fairy rings on the prairies were referred to as **"fallen stars"** — a cosmological name connecting the humble earthbound fungus to celestial phenomena. Burk (1983) discussed the magic and religious uses of several unidentified puffball species among these communities.

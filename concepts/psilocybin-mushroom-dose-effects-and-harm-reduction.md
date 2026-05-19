@@ -1,10 +1,10 @@
 ---
 title: Psilocybin Mushroom Dose Effects And Harm Reduction
-source: EMCDDA "[[emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-potency-variability-2006]] Dosing, Effects, [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]] vary widely depending on dose, species potency, individual sensitivity, set and setting, and the method of ingestion. Understanding the dose-response relationship, the spectrum of possible effects, and appropriate harm reduction strategies is essential for anyone seeking to minimize risks associated with mushroom use. See [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] are typically consumed in doses of approximately 10 to 30 grams. The water content of fresh mushrooms means that this weight range corresponds to a relatively small amount of actual fungal [[hplc-analysis-of-psilocybin-and-psilocin]]
+source: EMCDDA "emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-potency-variability-2006 Dosing, Effects, query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat vary widely depending on dose, species potency, individual sensitivity, set and setting, and the method of ingestion. Understanding the dose-response relationship, the spectrum of possible effects, and appropriate harm reduction strategies is essential for anyone seeking to minimize risks associated with mushroom use. See cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms are typically consumed in doses of approximately 10 to 30 grams. The water content of fresh mushrooms means that this weight range corresponds to a relatively small amount of actual fungal hplc-analysis-of-psilocybin-and-psilocin
 - **Age**: Potency changes as the mushroom matures; very young and very old specimens may differ markedly
 - **Growing conditions**: Substrate composition, humidity, temperature, and light exposure all affect alkaloid production
 - **Storage**: Improper storage can lead to degradation of active compounds over time
-- **Part consumed**: Caps typically contain higher alkaloid concentrations than [[mushroom-potency-harvest-age]] for a detailed analysis of how harvest timing affects potency.
+- **Part consumed**: Caps typically contain higher alkaloid concentrations than mushroom-potency-harvest-age for a detailed analysis of how harvest timing affects potency.
 ---
 
 ## Methods of Ingestion

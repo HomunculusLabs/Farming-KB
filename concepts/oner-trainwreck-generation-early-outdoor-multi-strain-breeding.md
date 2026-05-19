@@ -3,8 +3,8 @@ title: Oner Trainwreck Generation Early Outdoor Multi Strain Breeding
 source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 source_author: S.T. Oner / The Rev
 topics: cannabis, Trainwreck, outdoor breeding, pollen, multi-strain cross, cannabis history
-wikilinks: [[blesching-cannabis-sativa-indica-classification]] Volume 3, The Rev provides a fascinating
-firsthand account of how [[cannabis-sativa-indoor-cultivation-techniques]]. He describes the "Trainwreck generation"
+wikilinks: blesching-cannabis-sativa-indica-classification Volume 3, The Rev provides a fascinating
+firsthand account of how cannabis-sativa-indoor-cultivation-techniques. He describes the "Trainwreck generation"
 — a term referring to the first-generation seeds produced by outdoor multi-strain
 pollination events that characterized cannabis breeding in the late 1970s and
 early 1980s. This breeding method, born of practical necessity, produced some of

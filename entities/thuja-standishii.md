@@ -13,7 +13,7 @@ sources:
   - "Farjon, A. (2005). A Monograph of Cupressaceae and Sciadopitys. Royal Botanic Gardens, Kew."
   - "Kartesz, J.T. (2015). The Biota of  Plant Atlas."
   - "Yamazaki, T. (1995). Thuja standishii (Gordon) Carrière. In Iwatsuki, K. et al. (eds.), Flora of Japan, Vol. I. Kodansha."
-  - "Adams, R.P. et al. (2011). Leaf [[thuja-plicata]] and [[coleman-cold-hardiness-testing-ratings]], dense foliage, and aromatic timber, and it has contributed to the development of hybrid cultivars.
+  - "Adams, R.P. et al. (2011). Leaf thuja-plicata and coleman-cold-hardiness-testing-ratings, dense foliage, and aromatic timber, and it has contributed to the development of hybrid cultivars.
 ---# Taxonomy and Morphology
 
 - **Kingdom:** Plantae

@@ -1,10 +1,10 @@
 ---
 title: Weighted Unifrac Strain Clustering Cannabis Endorhiza Community Structure
 wiki: "LLM Wiki"
-category: "[[cannabis-microbiome-agricultural-implications-and-future-directions]]"
+category: "cannabis-microbiome-agricultural-implications-and-future-directions"
   - "weighted unifrac"
   - "unweighted unifrac"
-  - "[[cannabis-endorhiza-microbiome]] reveals a critical distinction in how cultivar selection and [[cannabis-rhizosphere-microbial-communities]]. This insight, drawn from Winston et al. (2014), demonstrates that cannabis cultivars influence the *relative abundance* of microbial taxa rather than determining which taxa are present—a nuance that is frequently overlooked in studies relying on a single beta-diversity metric.
+  - "cannabis-endorhiza-microbiome reveals a critical distinction in how cultivar selection and cannabis-rhizosphere-microbial-communities. This insight, drawn from Winston et al. (2014), demonstrates that cannabis cultivars influence the *relative abundance* of microbial taxa rather than determining which taxa are present—a nuance that is frequently overlooked in studies relying on a single beta-diversity metric.
 ---
 
 ## Background

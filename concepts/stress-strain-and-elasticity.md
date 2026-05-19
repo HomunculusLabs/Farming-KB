@@ -3,7 +3,7 @@ title: "Stress, Strain, and Elasticity"
 type: concept
 category: materials-science
 related:
-  - [[fracture-mechanics-engineering-materials]]
+  - fracture-mechanics-engineering-materials
 tags: [mechanics, materials-science, elasticity, stress, strain, hooke-law, solid-mechanics, engineering]
 created: 2026-05-02
 updated: 2026-05-06

@@ -14,7 +14,7 @@ sources:
   - Tutin, T.G. (1993). "Ranunculus L." Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
   - Harper, J.L. (1957). "Ranunculus." Biological Flora of the British Isles, Journal of Ecology, 45: 289-342.
   - Sarukhán, J. & Harper, J.L. (1973). "Studies on plant demography: Ranunculus repens L. and R. acris L." Journal of Ecology, 61(3): 675-716.
-  - Whittemore, A.T. (1997). "Ranunculus." Flora [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. The plant is distinguished by its creeping stolons that root at the nodes, forming dense mats of foliage.
+  - Whittemore, A.T. (1997). "Ranunculus." Flora oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide. The plant is distinguished by its creeping stolons that root at the nodes, forming dense mats of foliage.
 ---
 
 Creeping buttercup is considered a noxious weed in many agricultural settings, particularly in damp pastures and meadows. Like other Ranunculus species, it contains protoanemonin, a toxic compound that causes blistering and irritation.

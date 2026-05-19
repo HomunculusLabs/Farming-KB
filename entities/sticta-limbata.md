@@ -14,7 +14,7 @@ sources:
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Goward, T., McCune, B. & Meidinger, D. (1994). "The Lichens of British Columbia." Ministry of Forests, Victoria.
   - James, P.W. et al. (1977). "New or interesting British lichens IV." "Lichenologist" 9(2): 161–179.
-  - McCune, B. & Geiser, L. (2009). "Macrolichens of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] and disjunctly in the northern hemisphere.
+  - McCune, B. & Geiser, L. (2009). "Macrolichens of the guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi and disjunctly in the northern hemisphere.
 ---
 
 ## Taxonomy and Morphology

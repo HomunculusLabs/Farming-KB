@@ -1,7 +1,7 @@
 ---
 title: "Hallucinogenic Drug Classification and Terminology Taxonomy"
 source: carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper, 2006)
-topics: [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] has been a source of
+topics: metzner-hallucinogenic-drugs-psychotherapy-shamanism has been a source of
 ongoing debate among psychiatrists, psychologists, psychopharmacologists,
 and drug users. The EMCDDA's 2006 thematic paper provides a thorough
 taxonomy of competing terms used to describe this chemically diverse

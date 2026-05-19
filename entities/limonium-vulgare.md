@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Boorman, L.A. (1967). "Limonium vulgare and L. humile in salt marshes." Journal of Ecology, 55(1), 221-233.
   - Rozema, J., et al. (1985). "Ecophysiological adaptations of coastal halophytes to salinity." In Physiological Ecology of Halophytes. Springer.
-  - Ingold, A. (1994). "Seed bank and [[dighton-fungi-mangrove-coastal-ecosystems]].
+  - Ingold, A. (1994). "Seed bank and dighton-fungi-mangrove-coastal-ecosystems.
 ---
 
 Despite its common name, sea lavender is not related to true lavenders but belongs to the leadwort family alongside sea pinks and plumbagos.

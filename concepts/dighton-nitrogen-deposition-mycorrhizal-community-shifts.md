@@ -116,3 +116,5 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[nitrogen-deposition-ectomycorrhizal-community-structure]] and [[dighton-selective-grazing-fungal-community-shifts]] for related information.
+
+These interconnections demonstrate the importance of integrated approaches to understanding and applying this knowledge.

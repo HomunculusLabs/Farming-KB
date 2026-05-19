@@ -1,6 +1,6 @@
 ---
 title: "Plants Tolerant of Alkaline Soils"
-source: a-selection-[[alkaline-soil-tolerant-plants-permaculture|permaculture]]|[[eucalyptus-camaldulensis]]** (river red gum) — One of the most widely planted eucalypts; tolerates a range of soil pH
+source: a-selection-alkaline-soil-tolerant-plants-permaculture|permaculture|eucalyptus-camaldulensis** (river red gum) — One of the most widely planted eucalypts; tolerates a range of soil pH
 - **Eucalyptus citriodora** (lemon-scented gum)
 - **Eucalyptus diversifolia**
 - **Eucalyptus erythrocorys** (illyarrie)
@@ -8,8 +8,8 @@ source: a-selection-[[alkaline-soil-tolerant-plants-permaculture|permaculture]]|
 - **Eucalyptus lansdowneana** (sub-alpine mallee)
 - **Eucalyptus leucoxylon** (yellow gum)
 - **Eucalyptus nutans** (jilarno)
-- **[[alkaline-soil-tolerant-plants-permaculture]]
-- [[alkaline-soil-plants]]
+- **alkaline-soil-tolerant-plants-permaculture
+- alkaline-soil-plants
 ---
 
 ## Overview

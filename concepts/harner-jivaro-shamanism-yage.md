@@ -4,8 +4,8 @@ created: 2026-04-26
 sources: Harner (ed.), hallucinogens-and-shamanism-harner-anthology (1973), Ch. 2 (Harner)
 related:
   - amazonian-ayahuasca-shamanism
-  - [[tsentsak]]
-  - [[banisteriopsis-caapi]]
+  - tsentsak
+  - banisteriopsis-caapi
 tags: [ethnobotany, shamanism, jivaro, ecuador, ayahuasca, natem, witchcraft]
 type: concept
 updated: 2026-04-26

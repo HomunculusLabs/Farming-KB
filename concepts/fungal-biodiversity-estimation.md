@@ -3,7 +3,7 @@ title: Fungal Biodiversity Estimation
 aliases: [fungal diversity, species estimation, undiscovered fungi, fungal inventory]
 tags: [mycology, biodiversity, ecology, conservation, taxonomy]
 created: 2026-05-10
-source: "[[dighton-soil-fungal-biodiversity-assessment]] that make them much harder to inventory than plants or animals:
+source: "dighton-soil-fungal-biodiversity-assessment that make them much harder to inventory than plants or animals:
 ---
 
 - **No comprehensive survey exists**: No single site on Earth has been comprehensively surveyed for all types of fungi. Even the most intensively studied locations have only sampled specific groups.

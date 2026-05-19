@@ -3,7 +3,7 @@ title: Plant-Animal Relationships
 created: 2026-04-26
 aliases: [coevolution, plant-insect interactions, pollination, carnivorous plants]
 tags: [botany, ecology, evolution, entomology]
-related: [[tompkins-plant-roots-intelligence]], [[cannabis-hybrid-vigor-and-phenotypes-clarke]]" as the evolutionary
+related: tompkins-plant-roots-intelligence, cannabis-hybrid-vigor-and-phenotypes-clarke" as the evolutionary
 advantage driving plants to develop elaborate mechanisms for ensuring
 cross-fertilization.
 ---

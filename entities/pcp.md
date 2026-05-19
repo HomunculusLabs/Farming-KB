@@ -15,7 +15,7 @@ sources:
   - Morris, H. & Wallach, J. (2014). "From PCP to MXE." Drug Science 2(1).
   - Aniline, O. & Pitts, D.K. (1982). "Phencyclidine: a review." Neuroscience & Biobehavioral Reviews 6(1): 1–16.
   - DEA (2020). "Drugs of Abuse: Phencyclidine (PCP)."
-  - Reich, D. & Silvay, G. (1989). "[[dmt-containing-plants-united-states-halpern]].
+  - Reich, D. & Silvay, G. (1989). "dmt-containing-plants-united-states-halpern.
 ---
 
 ## Chemical Properties

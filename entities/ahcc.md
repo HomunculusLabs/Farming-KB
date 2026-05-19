@@ -17,7 +17,7 @@ updated: 2026-05-09
 sources:
   - Ghoneum, M. (1995). "Augmentation of NK cell activity in cancer patients by ahcc-active-hexose-correlated-compound Compound (AHCC)." Anti-Cancer Drugs, 6(3), 434-438.
   - Matsui, Y., et al. (2002). "Improved method for the preparation of AHCC." Japanese Patent JP2002356801.
-  - Ito, K., et al. (2014. "Effect of AHCC on immune response in healthy volunteers." Journal of [[cancer-medicinal-mushrooms-ahcc-clinical-outcomes]], primarily *Lentinula edodes* (shiitake). Developed in Japan in the late 1980s, AHCC is one of the most clinically researched mushroom-derived immunomodulatory supplements, with over 30 human [[blesching-cannabis-immune-system-modulation]] function, cancer outcomes, liver health, and infectious disease. It is marketed as a [[blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy]] alongside conventional cancer treatment.
+  - Ito, K., et al. (2014. "Effect of AHCC on immune response in healthy volunteers." Journal of cancer-medicinal-mushrooms-ahcc-clinical-outcomes, primarily *Lentinula edodes* (shiitake). Developed in Japan in the late 1980s, AHCC is one of the most clinically researched mushroom-derived immunomodulatory supplements, with over 30 human blesching-cannabis-immune-system-modulation function, cancer outcomes, liver health, and infectious disease. It is marketed as a blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy alongside conventional cancer treatment.
 ---
 
 ## Composition and Manufacture

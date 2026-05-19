@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Baker, W.J. & Baker, E.G. (1968). "Fiber morphology of the kapok tree, Ceiba pentandra." Economic Botany, 22(4), 369-382.
   - Kew Royal Botanic Gardens. "Ceiba pentandra (L.) Gaertn." Plants of the World Online.
-  - Gentry, A.H. (1993). "A Field Guide to the Families and Genera of Woody Plants of Northwest [[mollison-wet-tropical-forest-structure-and-polyculture]] soils.
+  - Gentry, A.H. (1993). "A Field Guide to the Families and Genera of Woody Plants of Northwest mollison-wet-tropical-forest-structure-and-polyculture soils.
 ---
 
 The trunk is straight and cylindrical, typically 1 to 3 meters in diameter at breast height, covered in smooth, gray to pale green bark armed with thick, conical prickles when young. Older bark becomes relatively smooth and loses most of its prickles.

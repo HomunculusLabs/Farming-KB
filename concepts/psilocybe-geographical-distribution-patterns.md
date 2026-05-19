@@ -1,6 +1,6 @@
 ---
 title: "Psilocybe Geographical Distribution Patterns"
-source: "Guzmán, Allen & Gartz – Worldwide [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]] worldwide. The global
+source: "Guzmán, Allen & Gartz – Worldwide guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions worldwide. The global
 distribution of these fungi is far from uniform, with pronounced
 latitudinal gradients and clear centers of diversity.
 ---

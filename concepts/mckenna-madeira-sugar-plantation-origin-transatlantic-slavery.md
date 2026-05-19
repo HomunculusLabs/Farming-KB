@@ -1,7 +1,7 @@
 ---
 title: Mckenna Madeira Sugar Plantation Origin Transatlantic Slavery
 source: mckenna_t-food_of_the_gods.md
-author: [[terence-mckenna]]
+author: terence-mckenna
 topics: [history, sugar, slavery, colonialism, Madeira, Atlantic-trade, plantation-economy]
 ---
 

@@ -13,7 +13,7 @@ sources:
   - Peichl, M. et al. (2002). "dighton-fungal-biomass-production-aquatic-ecosystems and nutrient use in short rotation willow." Canadian Journal of Forest Research, 32, 1763–1774.
   - Newsholme, C. (1992). "Willows: The Genus Salix." B.T. Batsford Ltd, London.
   - Karp, A. et al. (2011). "Willow as a bioenergy crop." In: Halford, N. & Karp, A. (eds.), Energy Crops. Royal Society of Chemistry.
-  - Wikberg, H. & Öberg, G. (2007). "Distribution of halogenated [[salix-viminalis]]*.
+  - Wikberg, H. & Öberg, G. (2007). "Distribution of halogenated salix-viminalis*.
 ---
 
 The species typically reaches 1–4 meters in height with slender, flexible rods that turn distinctive purple, red, or violet in winter. This winter stem color makes it a popular ornamental plant alongside its practical uses.

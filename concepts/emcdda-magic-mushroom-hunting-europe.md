@@ -1,9 +1,9 @@
 ---
 title: Emcdda Magic Mushroom Hunting Europe
 tags: [emcdda, foraging, wild-mushrooms, europe, psilocybe-semilanceata]
-source: "EMCDDA (2006) — [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] — represents one of the oldest methods of obtaining
+source: "EMCDDA (2006) — emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006 — represents one of the oldest methods of obtaining
 psychoactive fungi. The EMCDDA thematic paper on hallucinogenic mushrooms (2006)
-documented evidence [[duggar-wild-mushroom-markets-and-seasonal-harvesting]]
+documented evidence duggar-wild-mushroom-markets-and-seasonal-harvesting
 internet sales, wild foraging remained an important source of hallucinogenic
 mushrooms in Europe, particularly in regions where psychoactive species grow
 naturally.

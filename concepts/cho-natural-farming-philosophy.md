@@ -1,6 +1,6 @@
 ---
 title: Cho's Natural fukuoka-do-nothing-farming-philosophy-and-practice
-source: Dr. Cho Han Kyu's [[small-farm-livestock-management]], environmental stewardship, and economic well-being.
+source: Dr. Cho Han Kyu's small-farm-livestock-management, environmental stewardship, and economic well-being.
 ---
 
 ## Historical Development

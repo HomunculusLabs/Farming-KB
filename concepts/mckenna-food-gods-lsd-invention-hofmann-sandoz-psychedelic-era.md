@@ -1,7 +1,7 @@
 ---
 title: "LSD, Hofmann, and the Opening of Pandora's Box"
 source: mckenna_t-food_of_the_gods.md
-topic: "The [[mckenna-invention-of-lsd-and-psychedelic-sixties]] by [[albert-hofmann]] and its escape into culture"
+topic: "The mckenna-invention-of-lsd-and-psychedelic-sixties by albert-hofmann and its escape into culture"
 type: concept
 tags:
   - lsd

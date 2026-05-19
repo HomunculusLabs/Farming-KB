@@ -117,3 +117,5 @@ This overview of mollison frost protection thermal belt design covers the essent
   air drainage.
 - Stone walls absorb heat by day and release it slowly at night.
 - Water bodies moderate temperature extremes nearby.
+
+Understanding this topic in its broader ecological context enhances practical application.

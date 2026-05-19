@@ -1,6 +1,6 @@
 ---
 title: "Fukuoka's 'fukuoka dragonfly as messiah natural salvation' — Natural Salvation Philosophy"
-source: "Sowing Seeds in the Desert (2012), Chapter 1: 'The Call to [[masanobu-fukuoka]],
+source: "Sowing Seeds in the Desert (2012), Chapter 1: 'The Call to masanobu-fukuoka,
 appearing at the conclusion of Chapter 1 of *Sowing Seeds in the Desert*. It encapsulates
 his conviction that true salvation for humanity lies not in religious doctrine, sacred
 scriptures, or institutionalized belief systems, but in a direct, unmediated relationship

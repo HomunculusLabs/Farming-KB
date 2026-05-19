@@ -1,7 +1,7 @@
 ---
 title: DOM (STP) - Phenethylamine and Amphetamine Family Relationship
 source: shulgin-a-pihkal.md
-author: [[2c-b-pihkal-entry-20]] #68, DOM illustrates how the addition of a single alpha-methyl group to a phenethylamine backbone transforms the pharmacological profile — increasing potency, extending duration, and shifting the character of the experience. The DOM/STP story also represents one of the most significant episodes in [[mdma]], where the S-isomer carries the primary activity — one of the first clear distinctions suggesting MDMA acts through a different mechanism than classical psychedelics.
+author: 2c-b-pihkal-entry-20 #68, DOM illustrates how the addition of a single alpha-methyl group to a phenethylamine backbone transforms the pharmacological profile — increasing potency, extending duration, and shifting the character of the experience. The DOM/STP story also represents one of the most significant episodes in mdma, where the S-isomer carries the primary activity — one of the first clear distinctions suggesting MDMA acts through a different mechanism than classical psychedelics.
 ---
 
 ## The STP Incident of 1967

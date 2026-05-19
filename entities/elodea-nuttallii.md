@@ -11,7 +11,7 @@ updated: 2026-05-09
 sources:
   - Stuckey, R.L. (1979). "Taxonomic and nomenclatural changes in the genus Elodea (Hydrocharitaceae)." Rhodora, 81(825), 1-6.
   - Simpson, D.A. (1984). A short history of the introduction and spread of Elodea Michx in the British Isles. Watsonia, 15(1), 1-9.
-  - Thiébaut, G. (2005). "Does competition for phosphate differ between Elodea nuttallii and [[biodiversity-fungi-freshwater-aquatic-habitats]] plant in the family Hydrocharitaceae. It is commonly known as Nuttall's waterweed or narrow-leaved waterweed. The species is native to [[growing-gourmet-north-american-reishi-species]] flora in the early 19th century. It belongs to the order Alismatales, family Hydrocharitaceae.
+  - Thiébaut, G. (2005). "Does competition for phosphate differ between Elodea nuttallii and biodiversity-fungi-freshwater-aquatic-habitats plant in the family Hydrocharitaceae. It is commonly known as Nuttall's waterweed or narrow-leaved waterweed. The species is native to growing-gourmet-north-american-reishi-species flora in the early 19th century. It belongs to the order Alismatales, family Hydrocharitaceae.
 ---
 
 The genus Elodea contains approximately 12 species distributed primarily in the Americas. E. nuttallii was long confused with E. canadensis in European botanical records. The two species were only reliably distinguished in European herbaria beginning in the 1960s.

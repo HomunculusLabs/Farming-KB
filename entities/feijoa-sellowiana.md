@@ -14,7 +14,7 @@ sources:
   - Sharpe, R.H. (1975). "Feijoas in Florida." Proceedings of the Florida State Horticultural Society, 88, 527–531.
   - Basile, A. et al. (1997). "Antibacterial activity of Feijoa sellowiana." Journal of Ethnopharmacology, 56(2), 171–174.
   - Crile, G. & Quiring, D.P. (1940). "Organ weights of the adult dog." American Journal of Anatomy, 67(2), 237–244.
-  - Westphalen, S.L. et al. (2020). "[[guzman-psilocybin-mushrooms-south-america]].
+  - Westphalen, S.L. et al. (2020). "guzman-psilocybin-mushrooms-south-america.
 ---
 
 The genus name *Feijoa* honors João da Silva Feijó, an 18th-century Brazilian naturalist and collector. The specific epithet *sellowiana* commemorates Friedrich Sellow, a German botanist who collected extensively in southern Brazil. The common name "pineapple guava" reflects the characteristic flavor of the fruit and its familial relationship to guava species.

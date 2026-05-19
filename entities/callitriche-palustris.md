@@ -11,7 +11,7 @@ updated: 2026-05-09
 sources:
   - Philbrick, C.T. & Les, D.H. (2000). " phylogeny of Callitriche." Systematic Botany, 25(2), 215–233.
   - Lansdown, R.V. (2006). "Callitriche." In: Manual of the Aquatic Plants of Europe. pp. 127–145.
-  - Martin, A.C. & Uhler, F.M. (1939). "Food of game ducks in the [[guzman-psilocybin-mushrooms-north-america]].
+  - Martin, A.C. & Uhler, F.M. (1939). "Food of game ducks in the guzman-psilocybin-mushrooms-north-america.
 ---
 
 The species exhibits heterophylly, producing both submerged and floating leaf forms depending on water depth and growing conditions.

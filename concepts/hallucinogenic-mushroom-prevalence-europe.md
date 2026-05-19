@@ -1,9 +1,9 @@
 ---
 title: Hallucinogenic Mushroom Prevalence Europe
 created: 2026-05-11
-source: EMCDDA (2006) - [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]]: An Emerging Trend Case Study
+source: EMCDDA (2006) - emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006: An Emerging Trend Case Study
 tags: [epidemiology, prevalence, europe, hallucinogenic-mushrooms, drug-survey, youth, EMCDDA]
-aliases: [[european-prevalence-and-patterns-of-magic-mushroom-use]] europe, psilocybin prevalence EU, hallucinogenic mushroom statistics]
+aliases: european-prevalence-and-patterns-of-magic-mushroom-use europe, psilocybin prevalence EU, hallucinogenic mushroom statistics]
 ---
 
 ## Hallucinogenic Mushroom Prevalence in Europe

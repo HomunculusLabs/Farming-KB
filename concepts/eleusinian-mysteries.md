@@ -3,7 +3,7 @@ title: Eleusinian Mysteries
 aliases: [Eleusis, Eleusinian rites, demeter-and-persephone-in-eleusinian-mythology mysteries]
 tags: [history, religion, ancient-greece, psychedelics, mystery-cults]
 created: 2026-05-10
-source: [[terence-mckenna]] - Food of the Gods
+source: terence-mckenna - Food of the Gods
 ---
 
 ## The Eleusinian Mysteries

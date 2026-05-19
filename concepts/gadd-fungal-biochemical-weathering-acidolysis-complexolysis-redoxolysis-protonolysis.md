@@ -1,6 +1,6 @@
 ---
 title: Gadd Fungal Biochemical Weathering Acidolysis Complexolysis Redoxolysis Protonolysis
-source: [[fungi-in-the-environment-bioremediation-applications]] (Gadd, Watkinson, Dyer)
+source: fungi-in-the-environment-bioremediation-applications (Gadd, Watkinson, Dyer)
 topics: [fungal-bioweathering, mineral-dissolution, acidolysis, complexolysis, redoxolysis, protonolysis, organic-acids, biogeochemistry]
 ---
 

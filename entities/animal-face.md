@@ -77,3 +77,5 @@ The overall aroma is dominated by a pungent, diesel-kush musk overlaid with swee
 ## Cultivation
 
 - **Difficulty:** Moderate to advanced; not recommended for first-time growers due to sensitivity to environmental conditions [[cannabis-sativa-indoor-cultivation-techniques]]:** Performs well in soil or hydroponic systems; responds well to low-stress training (LST) and scrog methods; requires adequate airflow to prevent bud rot in the dense colas. Maintaining daytime temperatures at 24–27°C and nighttime temperatures at 18–20°C during flowering encourages optimal terpene production. Some phenotypes express purple coloration more intensely when nighttime temperatures drop below 15°C in the final two weeks.
+
+Understanding this topic in its broader ecological context enhances practical application.

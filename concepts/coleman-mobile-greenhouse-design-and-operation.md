@@ -1,6 +1,6 @@
 ---
 title: Coleman Mobile Greenhouse Design And Operation
-source: "Eliot Coleman - The [[cervantes-season-extension-cloches-row-covers]] that Eliot Coleman
+source: "Eliot Coleman - The cervantes-season-extension-cloches-row-covers that Eliot Coleman
 revived from historical European practices. Rather than building multiple permanent
 greenhouses, a single structure is moved along a track system to cover different
 growing areas throughout the year. This approach dramatically increases the productive

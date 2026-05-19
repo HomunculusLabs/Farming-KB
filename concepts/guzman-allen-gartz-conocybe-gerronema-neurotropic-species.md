@@ -13,8 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzman G, Allen JW, Gartz J (2000) A worldwide psilocybe-geographical-distribution-patterns
-    of the [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]],
-with disputed [[psilocybin-north-america-pacific-northwest]] (Pacific
+    of the guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy,
+with disputed psilocybin-north-america-pacific-northwest (Pacific
 Northwest), and Asia (Japan). The epithet "cyanopus" refers to blue-staining
 at the stipe base. It falls under Hongo's Type 2 (Northern hemisphere species).
 ---

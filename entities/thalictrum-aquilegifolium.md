@@ -12,7 +12,7 @@ updated: 2026-05-10
 sources:
   - Tutin, T.G. (1993). "Thalictrum." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
   - RHS (2023). "Thalictrum aquilegifolium." Royal Horticultural Society Plant Finder.
-  - Boivin, B. (1944). "American Thalictra and Their [[thalictrum-delavayi]] and [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. These species share similar tall, airy flower panicles and columbine-like foliage.
+  - Boivin, B. (1944). "American Thalictra and Their thalictrum-delavayi and neurotropic-fungi-japan-east-asia-species-cultural-context. These species share similar tall, airy flower panicles and columbine-like foliage.
 ---
 
 The chromosome number is 2n = 14. This is the base number for the genus and is consistent across most European Thalictrum species.

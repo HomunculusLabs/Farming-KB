@@ -6,7 +6,7 @@ type: concept
 tags: [mushrooms, cultivation, morel, morchella, outdoor]
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - label: "Growing Gourmet and [[synthetic-log-cultivation-methods-guide]], reflecting the difficulty of reliable indoor fruiting.
+  - label: "Growing Gourmet and synthetic-log-cultivation-methods-guide, reflecting the difficulty of reliable indoor fruiting.
 ---
 
 ## Introduction

@@ -11,9 +11,9 @@ updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
-  - [[limonene]] cannabis
+  - limonene cannabis
   - linalool cannabis
-  - [[carvacrol]]** - found in oregano and thyme, acetylcholine-enhancing
+  - carvacrol** - found in oregano and thyme, acetylcholine-enhancing
 - **Pulegone** - found in mint, also supports acetylcholine pathways
 ---
 

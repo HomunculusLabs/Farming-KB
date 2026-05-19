@@ -14,7 +14,7 @@ sources:
   - Pfosser M et al. (2012). "Molecular Phylogenetics of Dracaena (Asparagaceae)." Taxon 61(4).
   - Wolverton BC et al. (1989). "Interior Landscape Plants for Indoor Air Pollution Abatement." NASA.
   - Mabberley DJ (2017). "Mabberley's Plant-Book." 4th ed. Cambridge University Press.
-  - GRIN Taxonomy (2024). "Dracaena trifasciata." USDA [[dighton-fungal-drought-tolerance-plant-water-relations]]. A waxy cuticle covers the leaf surface, further reducing water loss.
+  - GRIN Taxonomy (2024). "Dracaena trifasciata." USDA dighton-fungal-drought-tolerance-plant-water-relations. A waxy cuticle covers the leaf surface, further reducing water loss.
 ---
 
 Inflorescences are paniculate racemes bearing small, greenish-white, tubular flowers. Flowers are fragrant, producing a strong sweet scent especially in the evening hours.

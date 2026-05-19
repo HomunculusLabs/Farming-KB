@@ -116,3 +116,5 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[fungal-nitrogen-cycling-pollution-responses]] and [[soil-fungal-community-isolation-survey-methods]] for related information.
+
+These interconnections demonstrate the importance of integrated approaches to understanding and applying this knowledge.

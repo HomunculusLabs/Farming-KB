@@ -1,6 +1,6 @@
 ---
 title: European Hallucinogenic Mushroom Prevalence And Trends
-source: EMCDDA 2006 [[hplc-analysis-of-psilocybin-and-psilocin]] have a complex
+source: EMCDDA 2006 hplc-analysis-of-psilocybin-and-psilocin have a complex
 prevalence profile across Europe. Data from the EMCDDA 2006 case study reveals
 significant variation between countries, survey methodologies, and demographic
 groups. Understanding these patterns is essential for public health monitoring

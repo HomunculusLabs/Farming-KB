@@ -1,6 +1,6 @@
 ---
 title: Peat Calcium Carbonate Perlite Casing Psilocybe Cubensis Miniculture Method
-aliases: [miniculture [[accessible-mushroom-cultivation-for-disabilities]], half-pint jar mushroom grow, rye-grain-miniculture-production-parameters
+aliases: [miniculture accessible-mushroom-cultivation-for-disabilities, half-pint jar mushroom grow, rye-grain-miniculture-production-parameters
 tags: [mycology, cultivation, psilocybe-cubensis, miniculture, rye-grain, sterile-technique, flush-harvest]
 created: 2026-05-10
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md

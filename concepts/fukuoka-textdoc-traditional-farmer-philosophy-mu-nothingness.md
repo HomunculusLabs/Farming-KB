@@ -2,8 +2,8 @@
 title: Fukuoka Textdoc Traditional Farmer Philosophy Mu Nothingness
 created: 2026-04-28
 tags: [farming-philosophy, mu, fukuoka-textdoc-epilogue-barley-philosophy
-- [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]]
-- [[fukuoka-textdoc-japan-postwar-farmer-alienation-mechanization-food-policy]]
+- fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom
+- fukuoka-textdoc-japan-postwar-farmer-alienation-mechanization-food-policy
 ---
 
 ## Practical Applications

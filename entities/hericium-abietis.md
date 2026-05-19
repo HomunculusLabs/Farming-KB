@@ -72,3 +72,16 @@ sources:
 - **Preparation:** Best sautéed, tempura-fried, or in soups; do not eat raw
 - **Storage:** 3–7 days refrigerated; dehydrates and reconstitutes well
 - **Pairs with:** Butter, cream, garlic, thyme, white wine
+
+## Practical Notes
+
+Understanding hericium abietis requires attention to both theoretical foundations and practical implementation.
+Field observations consistently demonstrate the importance of contextual factors in determining outcomes.
+
+## See Also
+
+- [[stamets-cultivator-log-cultivation-shiitake-hericium]]
+- [[lions-mane-mushroom-hericium-erinaceus]]
+- [[lions-mane-hericium-erinaceus]]
+- [[lions-mane-brick-top-cultivation-hericium-hypholoma]]
+- [[hericium-ramosum]]

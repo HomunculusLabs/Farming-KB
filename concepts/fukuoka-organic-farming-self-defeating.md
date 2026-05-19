@@ -2,7 +2,7 @@
 title: "Fukuoka Organic Farming Self Defeating"
 source: "The Road Back to Nature by Masanobu Fukuoka (1987)"
 source_chapter: "Chapter 6: Seeding a Real Green Revolution"
-source_section: "[[eliot-coleman]] Ecology Are Self-Defeating"
+source_section: "eliot-coleman Ecology Are Self-Defeating"
 topic_tags:
   - natural-farming
   - organic-farming

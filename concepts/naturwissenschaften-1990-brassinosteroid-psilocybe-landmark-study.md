@@ -7,7 +7,7 @@ source:
     - "Gartz, J."
     - "Adam, G."
     - "Vorbrodt, H.-M."
-  title: "Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus [[ceremonial-shamanic-use-psychoactive-mushrooms]] and their [[brassica-napus]]*) pollen in 1979 by Grove et al. By 1990, approximately **30 brassinosteroids** had been identified across the plant kingdom, occurring in:
+  title: "Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus ceremonial-shamanic-use-psychoactive-mushrooms and their brassica-napus*) pollen in 1979 by Grove et al. By 1990, approximately **30 brassinosteroids** had been identified across the plant kingdom, occurring in:
 ---
 
 - **Angiospermae** (flowering plants) — the most widely studied group

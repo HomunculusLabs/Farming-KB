@@ -1,6 +1,6 @@
 ---
 title: Mushroom Phototropism
-aliases: [light response fungi, phototropic growth mushrooms, blue light [[acropetal-cell-expansion-stipe-elongation-mushroom-development]]
+aliases: [light response fungi, phototropic growth mushrooms, blue light acropetal-cell-expansion-stipe-elongation-mushroom-development
 tags: [mycology, phototropism, mushroom-development, light-response, psilocybe-cubensis, fruiting]
 created: 2026-05-10
 source: tropisms-in-the-mushroom-psilocybe-cubensis.md

@@ -76,3 +76,6 @@ Thus GaAs complements silicon rather than replacing it across the electronics in
 ## Band-Structure Relevance
 In [[singh-selenium-arsenic-biotransformation-fungi]]
 - [[singh-composted-fungal-biomass-heavy-metal-immobilization]]
+The band-structure properties of GaAs continue to drive research into novel optoelectronic and high-frequency applications.
+
+Understanding this topic in its broader ecological context enhances practical application.

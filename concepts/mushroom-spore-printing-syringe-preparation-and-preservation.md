@@ -1,7 +1,7 @@
 ---
 title: Mushroom Spore Printing Syringe Preparation And Preservation
-source: PF TEK [[accessible-mushroom-cultivation-for-disabilities]]. The PF TEK methodology provides detailed
-protocols for each stage, emphasizing [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]], though they tend to have weaker potency compared to
+source: PF TEK accessible-mushroom-cultivation-for-disabilities. The PF TEK methodology provides detailed
+protocols for each stage, emphasizing spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982, though they tend to have weaker potency compared to
 specimens harvested earlier. As a mushroom matures, its cap upturns and
 expands, revealing the gill structure. Dark-colored gills visible through
 the upturned cap signal sporulation is underway. Purple spore deposits on

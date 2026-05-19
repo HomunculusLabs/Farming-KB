@@ -17,7 +17,7 @@ updated: 2026-04-28
 sources:
   - "Singh, Y.N. (1992). 'Kava: An overview.' Journal of Ethnopharmacology, vol. 37, no. 1, pp. 13-45."
   - "Sarris, J. et al. (2011). 'Kava for Generalized Anxiety Disorder.' Journal of Clinical Psychopharmacology, vol. 33, no. 5."
-  - "Lebot, V. & Lévesque, J. (1989). 'The origin and distribution of kava ([[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]] for its psychoactive rhizome, which has been used for millennia as a social beverage, ceremonial sacrament, and medicinal remedy. The active constituents are a group of lipid-soluble lactones called kavalactones (or kavapyrones), which produce anxiolytic, sedative, and mildly euphoric effects without impairing cognitive clarity. Kava occupies a central role in Pacific Islander cultures, where it is consumed in communal rituals that reinforce social bonds and spiritual practice.
+  - "Lebot, V. & Lévesque, J. (1989). 'The origin and distribution of kava (guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands for its psychoactive rhizome, which has been used for millennia as a social beverage, ceremonial sacrament, and medicinal remedy. The active constituents are a group of lipid-soluble lactones called kavalactones (or kavapyrones), which produce anxiolytic, sedative, and mildly euphoric effects without impairing cognitive clarity. Kava occupies a central role in Pacific Islander cultures, where it is consumed in communal rituals that reinforce social bonds and spiritual practice.
 ---
 
 ## Taxonomy

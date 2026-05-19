@@ -15,7 +15,7 @@ tags:
   - plant-vision
   - plant-senses
 source:
-  - "[[plant-photoreceptors-and-mechanism-of-light-perception]] for phototropism is at the shoot tip (coleoptile apex), not the bending region itself. Their five-condition experiment with canary grass seedlings proved that covering the tip with a lightproof cap prevented phototropic bending, while covering the middle section did not.
+  - "plant-photoreceptors-and-mechanism-of-light-perception for phototropism is at the shoot tip (coleoptile apex), not the bending region itself. Their five-condition experiment with canary grass seedlings proved that covering the tip with a lightproof cap prevented phototropic bending, while covering the middle section did not.
 ---
 
 ### Mechanism

@@ -15,7 +15,7 @@ sources:
   - Hauke, R.L. (1978). "A taxonomic monograph of Equisetum subgenus Equisetum." Nova Hedwigia, 30, 385-455.
   - Page, C.N. (1997). "The ferns of Britain and Ireland." Cambridge University Press, 2nd edition.
   - Rumsey, F. et al. (2010). "The Equisetum genome: insights into an ancient lineage." New Phytologist, 188(3), 725-730.
-  - Øllgaard, B. (2012). "New species and combinations in [[coleman-overwintered-onions-and-early-spring-crops]] bearing a cone-like strobilus, and a green, sterile, photosynthetic stem that persists through summer.
+  - Øllgaard, B. (2012). "New species and combinations in coleman-overwintered-onions-and-early-spring-crops bearing a cone-like strobilus, and a green, sterile, photosynthetic stem that persists through summer.
 ---
 
 Like all Equisetum species, it is a living fossil with a lineage dating back over 300 million years to the Paleozoic era, when tree-sized horsetails dominated Carboniferous forests.

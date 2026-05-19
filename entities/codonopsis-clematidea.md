@@ -12,7 +12,7 @@ updated: 2026-05-10
 sources:
   - Hong, D.Y. & Pan, K.Y. (2012). "Campanulaceae." In Flora of China, Vol. 19, Science Press.
   - Lammers, T.G. (2007). "Campanulaceae." In The Families and Genera of Vascular Plants, Springer.
-  - He, J.Y. et al. (2015). "[[codonopsis-pilosula]] (dang shen). The roots contain triterpenoid saponins, polysaccharides, and alkaloids with documented pharmacological activities.
+  - He, J.Y. et al. (2015). "codonopsis-pilosula (dang shen). The roots contain triterpenoid saponins, polysaccharides, and alkaloids with documented pharmacological activities.
 ---
 
 Bonnet bellflower is a herbaceous climbing perennial valued in horticulture for its delicate, nodding, bell-shaped flowers and in traditional medicine for its fleshy, adaptogenic roots. The species is native to the mountains of Central Asia and belongs to the bellflower family (Campanulaceae).

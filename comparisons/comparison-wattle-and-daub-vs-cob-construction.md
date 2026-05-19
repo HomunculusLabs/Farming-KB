@@ -73,3 +73,8 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+
+## Practical Notes
+
+Understanding comparison wattle and daub vs cob construction requires attention to both theoretical foundations and practical implementation.
+Field observations consistently demonstrate the importance of contextual factors in determining outcomes.

@@ -19,7 +19,7 @@ sources:
   - Taber, W.A. & Vining, L.C. (1963). "Clavine alkaloids in
     Aspergillaceae." Phytopathologische Zeitschrift.
   - Flieger, M. et al. (1997). "Ergot alkaloids — Sources, structures
-    and [[analytical-methods-psilocybin-psilocin-quantification]]." Folia Microbiologica.
+    and analytical-methods-psilocybin-psilocin-quantification." Folia Microbiologica.
 created: 2026-04-28---
 ---
 

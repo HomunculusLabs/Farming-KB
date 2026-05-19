@@ -12,7 +12,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Dransfield, J., et al. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Royal Botanic Gardens, Kew.
-  - Henderson, A., Galeano, G., & Bernal, R. (1995). "[[soil-temperature-plant-growth-rate-doubling-rule]] is moderate, with mature trees producing approximately 4–6 new leaves per year. The trunk retains old leaf bases for several years before they are shed, giving the upper trunk a characteristic bearded appearance.
+  - Henderson, A., Galeano, G., & Bernal, R. (1995). "soil-temperature-plant-growth-rate-doubling-rule is moderate, with mature trees producing approximately 4–6 new leaves per year. The trunk retains old leaf bases for several years before they are shed, giving the upper trunk a characteristic bearded appearance.
 ---
 
 Leaves are palmate (fan-shaped), costapalmate, and 2–3 meters in diameter. The leaf blade is divided into 60–80 rigid, lanceolate segments, each 60–100 centimeters long. The upper leaf surface is covered with a distinctive waxy blue-gray indumentum, while the lower surface is silvery-white.

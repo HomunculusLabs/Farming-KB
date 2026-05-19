@@ -1,6 +1,6 @@
 ---
 title: Oyster Mushroom Species Pleurotus Diversity
-source: Growing Gourmet and [[anti-cancer-polysaccharides-from-medicinal-mushrooms]] (Stamets, 1993)
+source: Growing Gourmet and anti-cancer-polysaccharides-from-medicinal-mushrooms (Stamets, 1993)
 tags: [mycology, mushroom-cultivation, oyster-mushroom, pleurotus, species-diversity]
 created: 2026-05-11
 ---

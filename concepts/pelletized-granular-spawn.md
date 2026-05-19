@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - [[accessible-mushroom-cultivation-for-disabilities]] technology designed to accelerate the colonization process after inoculation. Unlike traditional grain spawn, which uses whole cereal kernels as carriers, pelletized spawn consists of specially formed particles that are engineered for optimal dispersal, [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]] and conventional grain-based spawn systems, offering potential advantages in commercial-scale operations.
+  - accessible-mushroom-cultivation-for-disabilities technology designed to accelerate the colonization process after inoculation. Unlike traditional grain spawn, which uses whole cereal kernels as carriers, pelletized spawn consists of specially formed particles that are engineered for optimal dispersal, mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison and conventional grain-based spawn systems, offering potential advantages in commercial-scale operations.
 ---
 
 ## What Is Pelletized Spawn

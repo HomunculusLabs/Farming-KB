@@ -1,9 +1,9 @@
 ---
 title: Mushroom Nutrified Agar Media Formulations
-source: "[[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and accessible-mushroom-cultivation-for-disabilities
-  - [[malt-extract-agar]] yeast agar MYA
+source: "growing-gourmet-abalone-oyster-cystidiosus-cultivation and accessible-mushroom-cultivation-for-disabilities
+  - malt-extract-agar yeast agar MYA
   - potato dextrose yeast agar PDYA
-  - [[mushroom-tissue-culture]] media
+  - mushroom-tissue-culture media
   - nutrified agar preparation
 tags:
   - mycology

@@ -15,7 +15,7 @@ updated: 2026-05-08
 sources:
   - Pasiecznik, N.M. et al. (2001). "The prosopis-juliflora–Prosopis pallida complex." Oxford Forestry Institute.
   - Arce, H. et al. (1993). "Chemical composition and forage quality of Acacia farnesiana." Tropical Grasslands, 27, 279–284.
-  - Orwa, C. et al. (2009). "Agroforestree Database: a tree reference [[dmt-containing-plants-united-states-halpern]] through [[guzman-psilocybin-mushrooms-south-america]].
+  - Orwa, C. et al. (2009). "Agroforestree Database: a tree reference dmt-containing-plants-united-states-halpern through guzman-psilocybin-mushrooms-south-america.
 ---
 
 The species is renowned for its intensely fragrant golden-yellow flowers, which yield the perfume ingredient cassie absolute. This fragrance has been used in high-end perfumery since the 16th century.

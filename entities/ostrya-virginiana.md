@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics huckleberries-and-wild-berries-of-north-america, Vol. 2." USDA Forest Service Agriculture Handbook 654.
-  - Little, E.L. (1979). "Checklist of [[polypore-fungi-eastern-north-america]], ranging from Nova Scotia to Minnesota and south to Florida and eastern Texas.
+  - Little, E.L. (1979). "Checklist of polypore-fungi-eastern-north-america, ranging from Nova Scotia to Minnesota and south to Florida and eastern Texas.
 ---
 
 The species is renowned for its exceptionally dense, hard wood — among the hardest of all [[carpinus-caroliniana]]*), which occupies similar habitats. Key distinguishing features include the shaggy bark of hophornbeam versus the smooth, blue-grey bark of hornbeam, and the longer fruiting clusters of hophornbeam.

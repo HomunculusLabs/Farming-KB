@@ -21,7 +21,7 @@ sources:
   - Mollison, B. (1988). Permaculture: A Designer's Manual. Tagari Publications.
 aliases:
   - lasagna gardening
-  - [[hugelkultur|permaculture]] practitioners, sheet mulching has become a foundational technique for establishing food forests, garden beds, and comfrey leaves, [[hugelkultur|Hugelkultur]] hybrid:** Place logs and branches beneath the sheet mulch layers to create buried wood cores, combining the water-retention benefits of hugelkultur with the weed suppression and soil building of sheet mulching.
+  - hugelkultur|permaculture practitioners, sheet mulching has become a foundational technique for establishing food forests, garden beds, and comfrey leaves, hugelkultur|Hugelkultur hybrid:** Place logs and branches beneath the sheet mulch layers to create buried wood cores, combining the water-retention benefits of hugelkultur with the weed suppression and soil building of sheet mulching.
 ---
 
 ## Applications

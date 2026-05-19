@@ -1,7 +1,7 @@
 ---
 title: Mckenna Mushroom Symbiote Epistemological Crisis Modern Science
-source: McKenna (1983/1992) - Tryptamine [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]
-  - [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] use.
+source: McKenna (1983/1992) - Tryptamine mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal
+  - gartz-conocybe-cyanopus-rare-psychoactive-mushroom use.
 ---
 
 ## The Alien Intelligence and Galactic Society

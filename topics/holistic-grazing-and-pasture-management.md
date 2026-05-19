@@ -1,6 +1,6 @@
 ---
 title: Holistic holistic grazing and pasture management Management
-subtitle: Allan Savory's framework for reversing desertification through planned [[fukuoka-american-agricultural-decline]] practices were developed.
+subtitle: Allan Savory's framework for reversing desertification through planned fukuoka-american-agricultural-decline practices were developed.
 ---
 
 In brittle environments near position ten, rainfall is highly seasonal and unreliable. Decay is primarily chemical and physical, driven by oxidation and weathering from the top down rather than biological decomposition from the base. Plant spacing is open and distinct, with bare soil between bunches. Soil surfaces are often capped with a hard crust that resists water infiltration. Critically, when brittle environments are rested from grazing, old plant material oxidizes slowly, blocks sunlight from reaching growing points, and the soil surface degrades progressively without the periodic disturbance that animal impact once provided.

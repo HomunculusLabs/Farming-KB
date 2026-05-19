@@ -1,7 +1,7 @@
 ---
 title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting Cap and cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms Distribution
 created: 2026-05-08
-source: "Bigwood & Beug (1982). Variation of [[psilocybe-cubensis]]* is not uniform. [[spore]]-bearing tissue.
+source: "Bigwood & Beug (1982). Variation of psilocybe-cubensis* is not uniform. spore-bearing tissue.
 ---
 
 The practical consequence is that cap-heavy preparations will tend to have

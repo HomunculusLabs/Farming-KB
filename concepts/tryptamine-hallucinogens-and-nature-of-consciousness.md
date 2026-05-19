@@ -2,7 +2,8 @@
 title: "Tryptamine Hallucinogens And Nature Of Consciousness"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/mckenna_t-tryptamines_consciousness.md"
 ---
 
 ## The Logos: Language Beyond Language

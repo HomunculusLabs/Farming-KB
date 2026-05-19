@@ -1,12 +1,12 @@
 ---
 title: Fungicide Treated Seed Contamination Risk Mushroom Substrate
 source: guid-mhtml_file___e___textos__mycology__exotic_.md
-topics: [fungicide, [[grass-seed-cultivation-of-psilocybe-mushrooms]] guide for *Psilocybe* species includes a critical safety
+topics: [fungicide, grass-seed-cultivation-of-psilocybe-mushrooms guide for *Psilocybe* species includes a critical safety
 warning: **ensure that grass seed has not been treated with fungicides**. This
 seemingly obvious precaution addresses a frequently overlooked source of cultivation
 failure. Commercial grass seed, particularly that sold for agricultural or lawn use,
 is routinely treated with systemic and contact fungicides that can persist through
-[[bloomfield-fungal-pathogens-and-parasites]].
+bloomfield-fungal-pathogens-and-parasites.
 - **Shelf life extension**: Treated seeds resist mold growth during storage,
   particularly in humid conditions.
 - **Regulatory requirements**: Some jurisdictions mandate fungicide treatment for

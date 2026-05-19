@@ -2,7 +2,7 @@
 title: Gadd Environmental Sensing Filamentous Fungi
 source: Fungi in the Environment - Gadd, Watkinson, Dyer (2006)
 source_path: ~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
-topics: mycology, environmental sensing, fungal hyphae, [[mycelial-foraging-resource-allocation]], reproduction,
+topics: mycology, environmental sensing, fungal hyphae, mycelial-foraging-resource-allocation, reproduction,
 and defense. The environmental sensing capabilities of fungi rival those of
 much more complex organisms and are essential to their ecological success as
 decomposers, pathogens, and symbionts.

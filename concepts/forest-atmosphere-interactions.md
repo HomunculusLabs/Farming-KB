@@ -1,6 +1,6 @@
 ---
 title: Forest-Atmosphere Interactions and the Hydrological Cycle
-source: bill-mollison-[[permaculture-forest-garden-establishment|permaculture]]-[[query-how-to-design-a-food-forest-for-a-tropical-climate|design]]-course.md
+source: bill-mollison-permaculture-forest-garden-establishment|permaculture-query-how-to-design-a-food-forest-for-a-tropical-climate|design-course.md
 type: concept
 ---
 

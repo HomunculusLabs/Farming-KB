@@ -18,8 +18,8 @@ sources:
   - Snoop Dogg's Leaf List (2022). "Mimosa Strain Review." LeafsbySnoop.com.
   - Wikileaf (2023). "Mimosa Strain: Effects, Flavor, and Grow Info." Wikileaf.com.
   - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Citrus  strain created by crossing
-[[psilocybin-north-america-pacific-northwest]]
-and Europe. [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]], deep
+psilocybin-north-america-pacific-northwest
+and Europe. green-cannabis-plant-anatomy-calyx-pistil-bud-structure, deep
 purple coloration potential, and a sweet grape-forward terpene background.
 ---*Clementine** (male parent) — a sativa-dominant cross of Tangie and
 Lemon Skunk. Clementine contributes the dominant citrus [[trichoderma-forest-green-mold-guide]],

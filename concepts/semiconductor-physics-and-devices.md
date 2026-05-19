@@ -3,9 +3,9 @@ title: Semiconductor Physics and Devices
 type: concept
 category: physics
 related:
-  - [[crystal-structure-and-crystal-defects]]
-  - [[maxwell-equations-electromagnetism]]
-  - [[dislocation-theory-crystal-plasticity]]
+  - crystal-structure-and-crystal-defects
+  - maxwell-equations-electromagnetism
+  - dislocation-theory-crystal-plasticity
 tags: [physics, semiconductor, band-theory, pn-junction, transistor,
   MOSFET, optoelectronics, fabrication, quantum-wells, doping,
   carrier-transport, integrated-circuits, materials-science]

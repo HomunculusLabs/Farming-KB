@@ -13,7 +13,7 @@ sources:
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Nimis, P.L. (2016). "The Lichens of Italy: A Second Annotated Catalogue." EUT Edizioni Università di Trieste.
   - Spribille, T. et al. (2014). "Bryoria section Implexae (Parmeliaceae, Lecanoromycetes) in western North America." "The Bryologist" 117(4): 311–325.
-  - McCune, B. & Geiser, L. (2009). "Macrolichens of the [[bryoria-implexa]]* complex before being recognized as distinct based on morphological and chemical characters. It is widespread across northern hemisphere conifer forests but has declined significantly in regions affected by air pollution.
+  - McCune, B. & Geiser, L. (2009). "Macrolichens of the bryoria-implexa* complex before being recognized as distinct based on morphological and chemical characters. It is widespread across northern hemisphere conifer forests but has declined significantly in regions affected by air pollution.
 ---
 
 ## Taxonomy and Morphology

@@ -11,7 +11,7 @@ date: 2025-05-10
 updated: 2025-05-10
 sources:
   - Fedorov, A.A. & Kovanda, M. (1978). "Campanula." In Flora Europaea, Vol. 4. Cambridge University Press.
-  - Kovanda, M. (1970). "Polyploidy and variation in the [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] and showy blossoms make it one of the most attractive alpine bellflowers in the Balkan Peninsula.
+  - Kovanda, M. (1970). "Polyploidy and variation in the fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield and showy blossoms make it one of the most attractive alpine bellflowers in the Balkan Peninsula.
 ---
 
 Campanula waldsteiniana is restricted to limestone cliffs and rocky outcrops in Croatia, Bosnia-Herzegovina, and Montenegro. It is a strict calcicole, never occurring on acidic substrates, and is found exclusively at montane to subalpine elevations.

@@ -27,7 +27,7 @@ sources:
   - Okano K, Fukamiya N, Okutani K, et al. (1990). "Structures of
     New Quassinoids from Picrasma quassioides." Chemical &
     Pharmaceutical Bulletin 38(5): 1372-1375.
-  - Zhu YP (1998). Chinese [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. It is one of the principal sources of quassinoids,
+  - Zhu YP (1998). Chinese neurotropic-fungi-japan-east-asia-species-cultural-context. It is one of the principal sources of quassinoids,
 a class of highly bitter triterpenoid lactones with diverse
 pharmacological activities including anti-inflammatory, antimalarial,
 and antitumor properties.

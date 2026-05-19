@@ -15,7 +15,7 @@ sources:
   - "Hall, I.R., Brown, G.T. & Zambonelli, A. (2007). Taming the Truffle. Timber Press."
   - "Mello, A. et al. (2006). \"Tuber aestivum: a species complex or a polymorphic species?\" Mycorrhiza, 16(4), 239-246."
   - "Bonito, G. et al. (2010). \"Tuber aestivum Vittad. and Tuber uncinatum Chatin.\" bloomfield-fungal-biology-and-hyphal-growth, 114(1), 63-72."
-  - "Stobbe, U. et al. (2013). \"Tuber aestivum synthesis with [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] outside traditional Mediterranean zones.
+  - "Stobbe, U. et al. (2013). \"Tuber aestivum synthesis with comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation outside traditional Mediterranean zones.
 ---
 
 ## Taxonomy

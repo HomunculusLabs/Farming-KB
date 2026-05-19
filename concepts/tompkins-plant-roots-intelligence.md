@@ -1,9 +1,9 @@
 ---
 title: Plant Root Intelligence
 created: 2026-04-26
-aliases: [root systems, root communication, [[dighton-mycorrhizal-networks-carbon-transfer]], radicle brain]
+aliases: [root systems, root communication, dighton-mycorrhizal-networks-carbon-transfer, radicle brain]
 tags: [botany, ecology, soil-science, plant-intelligence]
-related: [[tompkins-plant-animal-relationships]], [[desmodium-gyrans]] (the telegraph plant), Bose found that if the cut
+related: tompkins-plant-animal-relationships, desmodium-gyrans (the telegraph plant), Bose found that if the cut
 ---
 
 ## Overview

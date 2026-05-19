@@ -2,7 +2,7 @@
 title: Neurotropic Fungi Underground Trade Legislation Guzman 1998
 created: 2026-05-06
 tags: psilocybe-geographical-distribution-patterns survey by four-groups-neurotropic-fungi-global-distribution-guzman-1998
-- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
+- four-groups-neurotropic-fungi-global-distribution-guzman-1998
 ---
 ## Background and Context
 

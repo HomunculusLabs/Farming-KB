@@ -1,7 +1,7 @@
 ---
 title: Metzner Three Distinctive Features Shamanic Entheogenic Ceremonies
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
-topics: ["shamanism", "[[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]] sessions. These features — **minimal
+topics: ["shamanism", "metzner-five-fundamental-conclusions-psychedelic-psychotherapy sessions. These features — **minimal
 verbal interaction, essential singing or chanting, and darkness
 or low light** — are consistently present across diverse
 indigenous entheogenic traditions worldwide and represent a

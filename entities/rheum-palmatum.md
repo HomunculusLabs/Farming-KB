@@ -25,8 +25,8 @@ sources:
   - Huang, K.C. (1999). "The Pharmacology of Chinese Herbs." CRC Press.
   - Crownover, R.J. (2010). "Rheum palmatum: A Review of Botany,
     Chemistry, and Pharmacology." Journal of Ethnopharmacology.
-  - Li, T.K. (1974). "An Introduction to Chinese [[holzer-medicinal-and-culinary-herbs-compendium]]
-- [[permaculture-plants-edible-perennials-understory]]
+  - Li, T.K. (1974). "An Introduction to Chinese holzer-medicinal-and-culinary-herbs-compendium
+- permaculture-plants-edible-perennials-understory
 ---
 ## Practical Considerations
 

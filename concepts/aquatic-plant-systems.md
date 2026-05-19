@@ -1,6 +1,6 @@
 ---
 title: Aquatic Plant Systems
-source: bill-[[mollison-course-aquatic-plant-systems-ponds|mollison]]-permaculture-design-course.md
+source: bill-mollison-course-aquatic-plant-systems-ponds|mollison-permaculture-design-course.md
 type: concept
 ---
 

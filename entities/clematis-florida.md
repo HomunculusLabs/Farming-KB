@@ -12,7 +12,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Grey-Wilson, C. (2000). Clematis: The Genus. Timber Press.
-  - Johnson, M. (2001). The Genus Clematis: A [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. The species prefers dappled shade with roots in cool, moist soil and stems in partial to full sun.
+  - Johnson, M. (2001). The Genus Clematis: A fukuoka-textdoc-composting-critique-futility-prepared-organic-matter. The species prefers dappled shade with roots in cool, moist soil and stems in partial to full sun.
 ---
 
 The warm-temperate to [[coleman-overwintered-onions-and-early-spring-crops]], and trim remaining stems to strong buds. The species flowers on both old and new wood, producing a main flush in early summer and a smaller repeat in autumn.

@@ -1,7 +1,7 @@
 ---
 title: Mckenna Cognitive Dissonance Translinguistic Object
 source: mckenna_t-tryptamines_consciousness.md
-author: [[terence-mckenna]]
+author: terence-mckenna
 tags: [cognitive-dissonance, translinguistic, dmt, language, wonder, glossolalia, cognition]
 created: 2026-05-08
 ---

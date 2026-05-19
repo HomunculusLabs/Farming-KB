@@ -1,7 +1,7 @@
 ---
 title: Fukuoka Textdoc Cottony Cushion Red Wax Scale
 source: administrator-microsoft-word-fukuoka-textdoc.md
-author: [[masanobu-fukuoka]]
+author: masanobu-fukuoka
 tags:
   - biological-control
   - citrus-pests

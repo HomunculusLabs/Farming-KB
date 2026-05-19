@@ -1,7 +1,7 @@
 ---
 title: Psilocybe Makarorae New Zealand Profile
 tags: [psilocybe, neurotropic-fungi, species-profile, new-zealand, australasia]
-source: "Guzmán, Allen & Gartz (1998) — World-Wide Distribution of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]. The species was described by Johnston &
+source: "Guzmán, Allen & Gartz (1998) — World-Wide Distribution of challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification. The species was described by Johnston &
 Buchanan and is one of several Psilocybe species native to the New Zealand
 region. P. makarorae is particularly notable for its phylogenetic relationships
 within Section Mexicanae, connecting the mycoflora of New Zealand to the

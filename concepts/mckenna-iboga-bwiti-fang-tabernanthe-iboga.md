@@ -1,7 +1,7 @@
 ---
 title: Mckenna Iboga Bwiti Fang Tabernanthe Iboga
 source: mckenna_t-food_of_the_gods.md
-author: [[fungal-biodiversity-tropical-forests]]
+author: fungal-biodiversity-tropical-forests
 of West and Central Africa. It is not a grassland plant and is rarely
 found growing outside of cultivation. The psychoactive portion of the
 plant is concentrated in the root bark, which contains the indole

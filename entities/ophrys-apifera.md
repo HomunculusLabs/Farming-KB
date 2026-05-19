@@ -14,7 +14,7 @@ sources:
   - Kull, T. & Arditti, J. (2003). "Orchidaceae: A Model for the Evolution of Plant-Pollinator Interactions." Orchid Biology: Reviews and Perspectives VIII, 193–210.
   - Pedersen, H. Æ. & Faurholdt, N. (2007). Ophrys: The Bee Orchids of Europe. Kew Publishing.
   - Schlüter, P.M. et al. (2009). "Pollinator Adaptation and the Evolution of Reproductive Isolation in Sexually Deceptive Orchids." Proceedings of the Royal Society B, 276(1677), 3775–3782.
-  - Stöckl, J. et al. (2021). "The Chemical Basis of Pollinator Attraction in Ophrys Orchids." Journal of [[plants-tolerant-of-alkaline-soils]].
+  - Stöckl, J. et al. (2021). "The Chemical Basis of Pollinator Attraction in Ophrys Orchids." Journal of plants-tolerant-of-alkaline-soils.
 ---
 
 It grows at elevations from sea level to approximately 1,600 meters.

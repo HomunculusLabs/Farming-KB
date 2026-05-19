@@ -1,10 +1,10 @@
 ---
 title: "metzner hallucinogen etymology alucinare rehabilitation and entheogen wasson ott: Alucinare, Rehabilitation, and the Entheogen of Wasson and Ott"
-source: "Ralph Metzner — [[mckenna-suppression-psychedelic-research-lsd-therapy]]. He uses
+source: "Ralph Metzner — mckenna-suppression-psychedelic-research-lsd-therapy. He uses
 the terms "psychedelic," "hallucinogenic," and "entheogenic" interchangeably,
 but each term carries a distinct history, a distinct set of assumptions, and
 a distinct relationship to the cultural forces that have shaped — and
-repeatedly disrupted — the [[leary-psychedelic-experience-bardo-mapping]] not as a break from reality but as an exploration
+repeatedly disrupted — the leary-psychedelic-experience-bardo-mapping not as a break from reality but as an exploration
 of dimensions of consciousness that are normally inaccessible — a wandering
 through the interior landscape of the mind.
 ---

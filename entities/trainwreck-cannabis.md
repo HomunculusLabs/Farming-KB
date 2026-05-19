@@ -75,3 +75,7 @@ Trainwreck is considered moderately challenging to cultivate and is best suited 
 | Cannabinoid | Typical Range |
 |-------------|--------------|
 | THC | 18–26% (modern tested samples) |
+
+## See Also
+
+[[cannabis-strain-trainwreck-history-genetics]], [[zookies-cannabis]], [[winston-cannabis-microbiome-study-design]]

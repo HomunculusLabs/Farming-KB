@@ -1,8 +1,8 @@
 ---
 title: "Sugar as a Dominator Tool"
 source: "mckenna_t-food_of_the_gods.md"
-source_author: "[[terence-mckenna]] presents sugar as a central pillar
-of what he calls [[mckenna-dissolution-of-the-dominator-culture]]. A population
+source_author: "terence-mckenna presents sugar as a central pillar
+of what he calls mckenna-dissolution-of-the-dominator-culture. A population
 addicted to sugar is a population that can be more easily managed. The
 substance provides comfort without liberation, satiety without meaning, and
 pleasure without transformation. McKenna suggests that this is precisely why

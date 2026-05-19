@@ -1,10 +1,10 @@
 ---
 title: Fukuoka Natural Diet Movement America
-source: [[fukuoka-natural-foods-movement-america]]
+source: fukuoka-natural-foods-movement-america
   - George Ohsawa
   - Michio Kushi
   - dietary transformation
-  - [[falconer-mushroom-cooking-selection-and-preparation]].
+  - falconer-mushroom-cooking-selection-and-preparation.
 ---
 
 During his lifetime, Ohsawa was virtually ignored by the Japanese public. The dietary habits of post-war Japan were shifting rapidly toward Western-style eating, and Ohsawa's teachings about traditional foods seemed backward to a population eager for modernisation and prosperity.

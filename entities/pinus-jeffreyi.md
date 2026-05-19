@@ -11,7 +11,7 @@ updated: 2026-05-09
 sources:
   - Gucker, C.L. (2007). "Pinus jeffreyi." In: Fire Effects Information System, USDA Forest Service.
   - Griffin, J.R. & Critchfield, W.B. (1976). "The distribution of forest trees in California." USDA Forest Service Research Paper PSW-82.
-  - Kral, R. (1993). "Pinus." In: Flora [[pinus-ponderosa]].
+  - Kral, R. (1993). "Pinus." In: Flora pinus-ponderosa.
 ---
 
 The authority is often cited as Balf. (Balfour), though some treatments attribute it to Murray.

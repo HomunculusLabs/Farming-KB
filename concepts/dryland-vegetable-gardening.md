@@ -3,7 +3,7 @@ title: "Dryland Vegetable Gardening"
 aliases:
   - dry gardening
   - waterwise vegetables
-  - [[container-growing-vegetables-herbs]] without
+  - container-growing-vegetables-herbs without
 any irrigation, relying entirely on natural rainfall and soil moisture.
 Steve Solomon mastered this system after selling Territorial Seed Company
 in 1986 and dedicating years to researching pre-irrigation gardening

@@ -15,7 +15,7 @@ inchi_key: ZMJGSOSNSPKHNH-UHFFFAOYSA-N
 created: 2026-05-02
 updated: 2026-05-02
 related_concepts:
-  - [[pyridoxal-phosphate-coenzyme-chemistry]]
+  - pyridoxal-phosphate-coenzyme-chemistry
 sources:
 tags: [profile]
 ---# Pyridoxamine Phosphate

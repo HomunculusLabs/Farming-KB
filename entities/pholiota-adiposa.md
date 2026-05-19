@@ -17,7 +17,7 @@ sources:
   - "Singer, R. (1986). The Agaricales in Modern Taxonomy, 4th edition. Koeltz Scientific Books."
   - "Stamets, P. (2000). Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, 3rd edition. Ten Speed Press."
   - "Waterhouse, J.N. & Steel, E.C. (2003). A taxonomic revision of Pholiota sect. Pholiota. Mycotaxon, 86, 197-210."
-  - "Oei, P. (2003). accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Techniques for [[panax-ginseng]] of substances occurring in higher Basidiomycetes mushrooms: current perspectives. International Journal of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with medicinal potential. The epithet *adiposa* refers to the viscid, fatty texture of the cap surface when wet.
+  - "Oei, P. (2003). accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Techniques for panax-ginseng of substances occurring in higher Basidiomycetes mushrooms: current perspectives. International Journal of query-what-are-the-main-bioactive-compounds-in-medicinal-plants with medicinal potential. The epithet *adiposa* refers to the viscid, fatty texture of the cap surface when wet.
 ---
 
 ## Taxonomy

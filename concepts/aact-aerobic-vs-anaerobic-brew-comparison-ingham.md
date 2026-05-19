@@ -2,7 +2,7 @@
 title: "AACT comparison-aerobic-vs-anaerobic-composting Brew Comparison — Ingham Framework"
 aliases:
   - aerobic versus anaerobic compost tea
-  - [[actively-aerated-compost-tea]] is fundamentally different from and superior to anaerobic fermentative teas for soil and plant health.
+  - actively-aerated-compost-tea is fundamentally different from and superior to anaerobic fermentative teas for soil and plant health.
 ---
 
 ## The Five Criteria for Beneficial Amendments

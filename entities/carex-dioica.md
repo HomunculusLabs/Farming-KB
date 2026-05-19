@@ -15,7 +15,7 @@ sources:
   - Jermy, A.C. et al. (2007). "The Illustrated Field Flora of Britain and Northern Europe." A&C Black.
   - Akeroyd, J.R. & Prest, R. (2011). "Carex L." In: Flora of the British Isles, 4th ed. Cambridge University Press.
   - Netmann, C. (2000). "The Genus Carex in the Nordic Countries." Nordic Journal of Botany, 20(4), 435–456.
-  - [[cannabis-controlled-pollination-seed-production]] is impossible.
+  - cannabis-controlled-pollination-seed-production is impossible.
 ---
 
 ## Distribution and Habitat

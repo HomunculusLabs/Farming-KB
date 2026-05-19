@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Moore, M. (1979). "Medicinal Plants of the Mountain West." Museum of New Mexico Press.
   - Kindscher, K. (1992). "Medicinal Wild Plants of the Prairie." University Press of Kansas.
-  - Foster, S. & Duke, J.A. (2014). "Peterson [[psilocybin-north-america-pacific-northwest]].
+  - Foster, S. & Duke, J.A. (2014). "Peterson psilocybin-north-america-pacific-northwest.
 ---
 
 It is one of the most important traditional respiratory remedies of the

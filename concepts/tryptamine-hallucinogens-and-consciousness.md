@@ -3,9 +3,9 @@ title: Tryptamine Hallucinogens And Consciousness
 aliases:
   - Tryptamines and mind
   - Psychedelic consciousness
-  - Hallucinogens [[grass-seed-cultivation-of-psilocybe-mushrooms]] worldwide. Psilocybin is a prodrug that is converted to the active compound psilocin in the body. Produces a 4-6 hour experience with effects similar to but distinct from DMT.
+  - Hallucinogens grass-seed-cultivation-of-psilocybe-mushrooms worldwide. Psilocybin is a prodrug that is converted to the active compound psilocin in the body. Produces a 4-6 hour experience with effects similar to but distinct from DMT.
 - **5-MeO-DMT (5-methoxy-N,N-dimethyltryptamine)**: A related compound found in certain plant species and the venom of the Bufo alvarius toad. Produces an experience often described as more "impersonal" and overwhelming than DMT, with less entity contact.
-- **Ayahuasca**: A brew combining DMT-containing plants (typically [[philosophical-implications-of-psychedelics]] are significant: if consciousness can, under certain conditions, access modes of information and communication that transcend ordinary language and symbolic thought, this suggests that the relationship between mind and reality is more complex and intimate than materialist neuroscience typically acknowledges. The Logos experience implies that consciousness is not merely processing information but is capable of directly apprehending informational structures that underlie ordinary reality.
+- **Ayahuasca**: A brew combining DMT-containing plants (typically philosophical-implications-of-psychedelics are significant: if consciousness can, under certain conditions, access modes of information and communication that transcend ordinary language and symbolic thought, this suggests that the relationship between mind and reality is more complex and intimate than materialist neuroscience typically acknowledges. The Logos experience implies that consciousness is not merely processing information but is capable of directly apprehending informational structures that underlie ordinary reality.
 ---
 
 ## The I/Thou Relationship with the Unknown

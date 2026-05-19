@@ -1,7 +1,7 @@
 ---
 title: "Plant Photoreceptors and plant-vision-and-light-perception-mechanisms"
 tags: [photoreceptors, phytochrome, cryptochrome, phototropin, phototropism, ultraviolet, infrared, plant-vision, light-spectrum]
-source: "Chamovitz, D. (2012). What a Plant Knows: A [[plant-photoreceptor-evolution-from-photolyases]] classes. While fundamentally different
+source: "Chamovitz, D. (2012). What a Plant Knows: A plant-photoreceptor-evolution-from-photolyases classes. While fundamentally different
 from animal vision, these systems constitute a legitimate form of plant
 perception.
 ---

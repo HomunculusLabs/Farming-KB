@@ -3,7 +3,7 @@ title: Mycoremediation of Soil Erosion and Oil Spills
 created: 2026-05-13
 source: cotter-organic-mushroom-farming-mycoremediation.md
 tags: [mycoremediation, soil-erosion, oil-spill, bioremediation, fungi, hydrocarbon-degradation, water-filtration, environmental-science]
-aliases: [Fungal [[mollison-soil-erosion-control]], Mushroom Oil Spill Cleanup, Biological [[dighton-fungal-roles-soil-erosion-prevention]]
+aliases: [Fungal mollison-soil-erosion-control, Mushroom Oil Spill Cleanup, Biological dighton-fungal-roles-soil-erosion-prevention
 ---
 
 ## Mycoremediation of Soil Erosion and Oil Spills

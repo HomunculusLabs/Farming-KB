@@ -3,7 +3,7 @@ title: "The Linguistic Impulse: Psilocybin, Broca's Area, and the Origin of Synt
 source: "Food of the Gods - Terence McKenna"
 topics:
   - psilocybin
-  - [[mckenna-psilocybin-and-language-formation]] that he believed had shaped human cognitive evolution. Munn's observation 
+  - mckenna-psilocybin-and-language-formation that he believed had shaped human cognitive evolution. Munn's observation 
 that the Mazatec attributed agency to the mushrooms themselves—that the mushroom "spoke through" the 
 person—resonated with McKenna's broader thesis that the mushroom was an active participant in the 
 co-evolutionary relationship with humans.

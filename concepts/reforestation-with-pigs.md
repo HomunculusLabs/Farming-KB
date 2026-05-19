@@ -116,3 +116,5 @@ combines species with complementary functions. Animals are integrated
 as workers providing fertilizer, pest control, and food production.
 Succession planning guides the evolution from pioneer species to
 mature food forest systems over time.
+
+These interconnections demonstrate the importance of integrated approaches to understanding and applying this knowledge.

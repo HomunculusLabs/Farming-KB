@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - Leafly Staff (2023). "White Cherry [[cannabis-cultivar-effects-soil-microbiome]] descended from the Gelato genetic line. It is valued for its complex sweet-and-earthy flavor profile, dense trichome coverage, and versatile effects that blend cerebral stimulation with physical relaxation.
+  - Leafly Staff (2023). "White Cherry cannabis-cultivar-effects-soil-microbiome descended from the Gelato genetic line. It is valued for its complex sweet-and-earthy flavor profile, dense trichome coverage, and versatile effects that blend cerebral stimulation with physical relaxation.
 ---
 
 The strain emerged from the West Coast breeding scene during the 2018 to 2020 wave of Gelato crosses. It has become a staple in licensed dispensaries across North America, particularly popular among consumers seeking dessert-flavored varieties with moderate to high potency.

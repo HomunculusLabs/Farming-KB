@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff (2023). "Thin Mint Cookies Strain Information." Leafly.com.
-  - AllBud (2023). "Thin Mint [[san-francisco-shipibo-ayahuasca-ceremonial-center]] Bay Area cannabis scene and quickly became one of the most sought-after phenotypes within the GSC genetic line.
+  - AllBud (2023). "Thin Mint san-francisco-shipibo-ayahuasca-ceremonial-center Bay Area cannabis scene and quickly became one of the most sought-after phenotypes within the GSC genetic line.
 ---
 
 The strain is known for its complex mint-chocolate aroma, deep purple-green coloring, and potent psychoactive effects.

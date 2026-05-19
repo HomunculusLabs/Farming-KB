@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden Press.
-  - Moerman, D.E. (1998). Native [[polypore-fungi-eastern-north-america]], occurring primarily in the Ohio River Valley and southern Great Lakes region.
+  - Moerman, D.E. (1998). Native polypore-fungi-eastern-north-america, occurring primarily in the Ohio River Valley and southern Great Lakes region.
 ---
 
 The species produces showy yellow-orange flowers in spring and early summer, making it one of the most colorful native woodland wildflowers. Its sap is bright orange-yellow and contains isoquinoline alkaloids similar to those found in its European relative, greater celandine (*[[what-a-plant-knows-photoperiodism-flowering-time-measurement]]. Despite the common name "celandine poppy," it is not closely related to true celandine (*[[guzman-psilocybin-mushrooms-north-america]] and two Asian species.

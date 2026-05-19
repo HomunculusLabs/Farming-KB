@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Chambers, S.M., Liu, G. & Cairney, J.W.G. (2000). "Isolates of Pisolithus from eastern Australia show a high degree of genetic variability." Mycological Research, 104, 1301-1307.
   - Martin, F., Delaruelle, C. & Ivory, M.H. (1998). "Genetic variability in intercontinental populations of the ectomycorrhizal fungus  of Australian plants." In: Symbiotic Fungi. Berlin: Springer.
-  - Watling, R. (2006). "Mycorrhizas in [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], East Africa, and parts of [[ph-and-nutrient-availability-garden-soils]], high aluminum concentrations, and drought — making it a pioneer ectomycorrhizal colonizer of harsh sites.
+  - Watling, R. (2006). "Mycorrhizas in guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands, East Africa, and parts of ph-and-nutrient-availability-garden-soils, high aluminum concentrations, and drought — making it a pioneer ectomycorrhizal colonizer of harsh sites.
 ---# Mycorrhizal Symbiosis
 
 *Pisolithus albus* forms ectomycorrhizal associations with an exceptionally broad host range spanning multiple plant families:

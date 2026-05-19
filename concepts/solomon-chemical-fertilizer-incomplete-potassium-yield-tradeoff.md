@@ -8,12 +8,12 @@ tags:
   - nutrition
   - organic-gardening
 related:
-  - "[[teaming-with-nutrients-plant-nutrient-essentials-npk]]"
-  - "[[teaming-with-nutrients-plant-nutrient-essentials-npk]] — nitrogen, phosphorus, and [[solomon-insects-and-diseases-integrated-approach]], suggesting that
+  - "teaming-with-nutrients-plant-nutrient-essentials-npk"
+  - "teaming-with-nutrients-plant-nutrient-essentials-npk — nitrogen, phosphorus, and solomon-insects-and-diseases-integrated-approach, suggesting that
   mineral-deficient plants have weaker natural defenses.
 - They do not grow as large or as well as vegetables nourished by a complete
   mineral profile.
-- Their [[plant-defense-mechanisms]]
+- Their plant-defense-mechanisms
 that characterize truly healthy food.
 ---
 

@@ -3,7 +3,7 @@ title: Southeast Asian Sativa Heritage: Thai, Vietnamese, and Cambodian
 source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 source_author: S.T. Oner / The Rev
 topics: cannabis sativa, Southeast Asia, Thai, Vietnamese, Cambodian, landrace, haze lineage
-wikilinks: haze-[[oner-brazilian-white-sativa-early-finishing-equatorial-genetics|genetics]], southeast asian sativa
+wikilinks: haze-oner-brazilian-white-sativa-early-finishing-equatorial-genetics|genetics, southeast asian sativa
 created: 2026-05-10
 ---
 

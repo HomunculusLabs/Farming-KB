@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Sander, I.L. (1990). "Quercus coccinea Muenchh." in Silvics of psilocybin-north-america-pacific-northwest. USDA Forest Service.
   - Farrar, J.L. (1995). Trees of the Northern dmt-containing-plants-united-states-halpern and Canada. Iowa State University Press.
-  - Burns, R.M., Honkala, B.H. (1990). Silvics [[polypore-fungi-eastern-north-america]] America. It is renowned for its brilliant scarlet-red autumn foliage, considered among the most vivid of any [[bolete-fungi-appalachian-region]] and northeastern United States, where it is a dominant component of oak-heath forests.
+  - Burns, R.M., Honkala, B.H. (1990). Silvics polypore-fungi-eastern-north-america America. It is renowned for its brilliant scarlet-red autumn foliage, considered among the most vivid of any bolete-fungi-appalachian-region and northeastern United States, where it is a dominant component of oak-heath forests.
 ---
 
 The species is economically important for timber, [[jeavons-climate-adaptation-growing-seasons]].

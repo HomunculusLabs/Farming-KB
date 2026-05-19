@@ -2,8 +2,8 @@
 title: Coleman Mobile Greenhouse Green Manure Soil Building
 source: eliot-coleman-winter-harvest-handbook.md
 source_author: Eliot Coleman
-topics: [[cold-house-winter-harvest-system]]
-wikilinks: mobile greenhouse, green manure, [[green-manure-crops]]. In a permanent greenhouse, the soil never
+topics: cold-house-winter-harvest-system
+wikilinks: mobile greenhouse, green manure, green-manure-crops. In a permanent greenhouse, the soil never
 gets a rest — it is continuously cropped, and problems with soil nutrient
 imbalance, disease buildup, and compaction accumulate over time. The mobile
 greenhouse eliminates these problems by allowing the covered soil to be

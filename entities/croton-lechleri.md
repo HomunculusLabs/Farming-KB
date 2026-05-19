@@ -23,7 +23,7 @@ updated: 2026-04-28
 sources:
   - Cai, Y. et al. (1991). "Polyphenolic compounds from Croton lechleri."
     Phytochemistry 30(3): 953-955.
-  - Perdue, G.P. et al. (1979). "[[medicinal-mushroom-dietary-supplements]] and topical treatments.
+  - Perdue, G.P. et al. (1979). "medicinal-mushroom-dietary-supplements and topical treatments.
 ---
 
 ## Taxonomy and Morphology

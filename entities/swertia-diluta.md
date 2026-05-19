@@ -13,7 +13,7 @@ sources:
   - Ho, T.N. & Pringle, J.S. (1995). "Gentianaceae." In: Flora of China, Vol. 16. Science Press.
   - Chen, S. et al. (2011). "Swertia: A comprehensive review of phytochemistry and pharmacology." Journal of Ethnopharmacology 138(1): 57-73.
   - Wang, Z. et al. (2019). "Xanthones and secoiridoids from Swertia diluta." Phytochemistry 157: 1-12.
-  - Kumar, V. & Van Staden, J. (2016). "A review of Swertia species: Pharmacology and phytochemistry." [[cannabis-for-inflammatory-conditions]].
+  - Kumar, V. & Van Staden, J. (2016). "A review of Swertia species: Pharmacology and phytochemistry." cannabis-for-inflammatory-conditions.
 ---
 
 ## Taxonomy and Morphology

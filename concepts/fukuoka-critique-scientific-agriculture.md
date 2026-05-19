@@ -1,17 +1,17 @@
 ---
 title: Fukuoka Critique Scientific Agriculture
-source: "The Natural Way of Farming — [[fukuoka-road-critique-of-modern-science]] scientific
+source: "The Natural Way of Farming — fukuoka-road-critique-of-modern-science scientific
 agriculture, arguing that it is fundamentally misguided in its assumptions, destructive in
 its consequences, and ultimately doomed to failure because of its inherent contradictions.
 His critique extended beyond specific farming practices to challenge the entire worldview
 of Western scientific materialism that underpins industrial agriculture, and he framed
-[[fukuoka-illusions-of-scientific-farming]] are actually
+fukuoka-illusions-of-scientific-farming are actually
 smaller than the yields attainable under the full powers of nature. High-yield practices and
 scientific methods of increasing production were thought to have given humanity increased
 yields that exceed the natural productivity of the land, but Fukuoka contended that this
 was not so. These were merely endeavors by man to artificially restore full productivity
 after he had hamstrung nature so that it could not exercise its full powers. Man creates
-adverse conditions through plowing, [[critique-of-scientific-agriculture]].
+adverse conditions through plowing, critique-of-scientific-agriculture.
 ---
 
 On the question of food quality, Fukuoka was equally unsparing. He argued that science is

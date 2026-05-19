@@ -19,7 +19,7 @@ sources:
   - Leafly. "Fire OG Strain Information." leafly.com/strains/fire-og.
   - AllBud. "Fire OG  created by crossing **SFV OG** (San
 Fernando Valley OG) with an **OG Kush** backcross. Developed in Southern California during
-the early 2000s medical cannabis era, Fire OG has become a staple of the [[cannabis-terpene-profile]].
+the early 2000s medical cannabis era, Fire OG has become a staple of the cannabis-terpene-profile.
 ---he genetic ratio is approximately 70% indica / 30% sativa. Both parent strains trace
 back to the original Chemdawg × Lemon Thai × [[cannabis-glandular-trichome-types-resin-production-clarke]] is abundant, making buds sticky to the touch with a
 slightly oily texture. Interior calyxes may show subtle purple hues in cooler growing

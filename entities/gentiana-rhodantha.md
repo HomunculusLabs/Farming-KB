@@ -13,7 +13,7 @@ sources:
   - Ho, T.N. & Liu, S.W. (1990). "A revision of Gentiana sect. Chondrophyllae (Gentianaceae)." Bulletin of British Museum (Natural History), Botany.
   - Struwe, L. & Albert, V.A. (2002). "Gentianaceae: Systematics and Natural History." Cambridge University Press.
   - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." China Medical Science Press.
-  - He, J.S. et al. (2019). "[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+  - He, J.S. et al. (2019). "query-how-to-protect-plants-from-frost-and-extend-the-growing-season.
 ---
 
 Population density varies from scattered individuals in forest margins to dense stands in favorable meadow habitats. The species shows some tolerance of disturbed sites and can colonize road cuts and trail margins.

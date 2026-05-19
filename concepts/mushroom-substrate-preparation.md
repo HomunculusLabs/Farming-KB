@@ -1,6 +1,6 @@
 ---
 title: Mushroom Substrate Preparation
-source: MushWorld, [[enterprise-development-mushroom-growers]]' Handbook 1: cotter-oyster-mushroom-cultivation (2004)
+source: MushWorld, enterprise-development-mushroom-growers' Handbook 1: cotter-oyster-mushroom-cultivation (2004)
 tags: [mushroom, cultivation, fungi, substrate, pasteurization, sterilization]
 created: 2026-05-11
 ---

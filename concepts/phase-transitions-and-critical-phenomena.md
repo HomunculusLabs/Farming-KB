@@ -4,7 +4,7 @@ created: 2026-04-28
 updated: 2026-05-06
 aliases: [phase transitions, critical phenomena, critical exponents, universality, renormalization group]
 tags: [physics, thermodynamics, statistical-mechanics, condensed-matter, materials-science]
-related: [[heat-transfer-mechanisms]], [[superconductivity]] — and their study connects thermodynamics, [[mollison-designers-fish-pond-water-quality-and-aeration]] of temperature T, pressure P, and chemical potential μ = (∂G/∂N)_{T,P} between coexisting phases. The phase with
+related: heat-transfer-mechanisms, superconductivity — and their study connects thermodynamics, mollison-designers-fish-pond-water-quality-and-aeration of temperature T, pressure P, and chemical potential μ = (∂G/∂N)_{T,P} between coexisting phases. The phase with
 the lowest Gibbs free energy G = U − TS + PV is thermodynamically stable. For a first-order transition, the Clausius-Clapeyron equation dP/dT = ΔS/ΔV
 = L/(TΔV) determines the slope of phase boundaries in the P-T diagram, where L is the latent heat.
 ---

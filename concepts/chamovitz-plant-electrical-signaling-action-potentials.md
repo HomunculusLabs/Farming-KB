@@ -1,6 +1,6 @@
 ---
 title: "Electrical Signaling and Action Potentials in Plants"
-source: "What a Plant Knows - [[tompkins-plant-electrical-signals]]
+source: "What a Plant Knows - tompkins-plant-electrical-signals
 represented a profound challenge to the assumption that electrical
 excitability is exclusive to animals. In "What a Plant Knows," Daniel
 Chamovitz examines the electrical signaling systems found in plants,

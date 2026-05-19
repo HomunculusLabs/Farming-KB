@@ -1,8 +1,8 @@
 ---
 title: "Sandoz european-psycholytic-therapy-1960s-1970s and the European Clinical Model"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
-topics: ["[[metzner-grof-perinatal-matrices-and-transpersonal-realms]]", "[[hallucinogenic-drugs-in-psychotherapy-and-shamanism]]
-[[european-psycholytic-therapy-1960s-1970s]] and Anglo-American [[hofmann-leary-case-and-harvard-research]] project. Leary's work
+topics: ["metzner-grof-perinatal-matrices-and-transpersonal-realms", "hallucinogenic-drugs-in-psychotherapy-and-shamanism
+european-psycholytic-therapy-1960s-1970s and Anglo-American hofmann-leary-case-and-harvard-research project. Leary's work
 focused not on treatment but on exploring psychedelic possibilities
 for "normals" — mostly graduate students — as well as artists,
 musicians, poets and writers, in relatively unstructured but

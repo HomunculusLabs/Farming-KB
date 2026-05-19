@@ -21,7 +21,7 @@ updated: 2026-04-28
 sources:
   - Simon JE, Chadwick AF, Craker LE (1984). "Herbs: An Indexed Bibliography 1971–1980." Elsevier.
   - SAR (2000). "Monographs on the Medicinal Uses of Plant Drugs: Dill Fruit." European Scientific Cooperative on Phytotherapy (ESCOP).
-  - Jana S, Shekhawat GS (2010). "Anethum graveolens: An Indian Traditional [[maintaining-organic-matter-in-vegetable-gardens]], attracting [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. Major commercial producers include India, Egypt, Poland, Hungary, and the United States.
+  - Jana S, Shekhawat GS (2010). "Anethum graveolens: An Indian Traditional maintaining-organic-matter-in-vegetable-gardens, attracting oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide. Major commercial producers include India, Egypt, Poland, Hungary, and the United States.
 ---
 
 Dill is a cool-season annual that prefers full sun and well-drained, fertile loam with pH 5.5–6.5. Optimal germination temperature is 15–21°C; seeds germinate in 7–14 days.

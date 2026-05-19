@@ -1,7 +1,7 @@
 ---
 title: Five Endogenous Cannabinoids — The Complete Lipid Signaling Family
 source: raw/papers/uwe-blesching-the-cannabis-health-index.md
-author: [[uwe-blesching]] (2015)
+author: uwe-blesching (2015)
 topic: endocannabinoid system, lipid signaling, neurochemistry
 mined: 2026-05-11
 ---

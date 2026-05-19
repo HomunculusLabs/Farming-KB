@@ -1,10 +1,10 @@
 ---
 title: Pf Tek Mycelium Colonization Observation And Timing Fanaticus
 source: pf-tek-psilocybe-fanaticus.md
-author: [[mushroom-spore-inoculation-technique]] and the onset of fruiting. During
+author: mushroom-spore-inoculation-technique and the onset of fruiting. During
 this period, fungal mycelium spreads through the brown rice flour and
-[[bulk-substrate-preparation]], viable spores, and a sterile
-[[inoculation-technique-and-alcohol-flaming]]. Any deviation from optimal conditions will extend this
+bulk-substrate-preparation, viable spores, and a sterile
+inoculation-technique-and-alcohol-flaming. Any deviation from optimal conditions will extend this
 timeline.
 ---
 

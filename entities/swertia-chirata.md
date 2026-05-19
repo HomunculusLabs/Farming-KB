@@ -16,7 +16,7 @@ sources:
     89(4), 635-641.
   - Brahmachari, G. & Mondal, S. (2014). "The genus Swertia: A review of
     phytochemistry and pharmacology." Pharmacognosy Reviews, 8(16), 60-68.
-  - Negi, J.S. et al. (2011). "[[phytochrome-red-far-red-light-switch-plant-pigment]]s in traditional medicine.
+  - Negi, J.S. et al. (2011). "phytochrome-red-far-red-light-switch-plant-pigments in traditional medicine.
 ---
 
 Commonly known as **chirayita** or **bhunimba**, it is native to the

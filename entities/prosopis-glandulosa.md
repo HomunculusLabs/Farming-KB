@@ -16,7 +16,7 @@ sources:
   - Burkart, A. (1976). "A monograph of the genus *Prosopis* (Leguminosae subfam. Mimosoideae)." Journal of the Arnold Arboretum 57(3-4): 219-249, 450-525.
   - Pasiecznik, N.M. et al. (2001). "The Prosopis juliflora-Prosopis pallida Complex: A Monograph." HDRA, Coventry, UK.
   - Archer, S. (1995). "Herbivore mediation of grass-woody plant interactions." Tropical Grasslands 29(4): 218-235.
-  - Felker, P. (1979). "Mesquite: An all-purpose leguminous arid land tree." In: New [[dmt-containing-plants-united-states-halpern]], Mexico, and parts of [[dighton-fungal-drought-tolerance-plant-water-relations]], edible pods, and quality hardwood, making it relevant to permaculture and [[psychoactive-cacti-of-central-mexico]].
+  - Felker, P. (1979). "Mesquite: An all-purpose leguminous arid land tree." In: New dmt-containing-plants-united-states-halpern, Mexico, and parts of dighton-fungal-drought-tolerance-plant-water-relations, edible pods, and quality hardwood, making it relevant to permaculture and psychoactive-cacti-of-central-mexico.
 ---
 
 Its range extends from Kansas and Oklahoma south through Texas, New Mexico, and Arizona into central Mexico.

@@ -14,7 +14,7 @@ sources:
   - Leafly Staff (2023). "Jillybean Strain Information." Leafly.com.
   - AllBud (2024). "Jillybean  strain bred by **Subcool of TGA
 Genetics** (The Green Avengers). It is a cross between **Orange Velvet** and
-**[[cannabis-glandular-trichome-types-resin-production-clarke]], and a subtle diesel-pine undertone to the aroma
+**cannabis-glandular-trichome-types-resin-production-clarke, and a subtle diesel-pine undertone to the aroma
 complex.
 ---# Appearance
 

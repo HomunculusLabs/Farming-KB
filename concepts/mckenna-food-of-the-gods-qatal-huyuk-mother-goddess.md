@@ -1,7 +1,7 @@
 ---
 title: Mckenna Qatal Huyuk Naturalistic Art Vitiation Partnership Society and the Mother Goddess
 source: mckenna_t-food_of_the_gods.md
-source_author: [[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]]
+source_author: terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence
 source_title: Food of the Gods
 published: 1992
 tags:

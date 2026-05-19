@@ -77,3 +77,5 @@ recognize.
 - [[doc]]
 - [[ectomycorrhiza]]
 - [[spore]]
+
+Understanding this topic in its broader ecological context enhances practical application.

@@ -2,7 +2,8 @@
 title: "Mckenna Banisteriopsis Caapi Harmine Mao Inhibition Chemistry"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/mckenna_t-tryptamines_consciousness.md"
 ---
 
 ## The Ayahuasca Vine

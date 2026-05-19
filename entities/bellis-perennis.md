@@ -10,7 +10,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Barros, L., et al. (2014). "Bioactivity and chemical characterization of Bellis perennis." Food Chemistry, 153, 404-410.
-  - Kovačević, N., et al. (2006). "[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], occurring naturally in meadows, pastures, and lawns across its range.
+  - Kovačević, N., et al. (2006). "oyster-mushroom-log-cultivation-temperate-regions-short-log-method, occurring naturally in meadows, pastures, and lawns across its range.
 ---
 
 The species has a long history of use in European folk medicine, where the flowers and leaves have been employed to treat wounds, bruises, and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]], and varied flower colors. Its ability to tolerate close mowing has made it a persistent component of temperate lawns worldwide.

@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Jermy, A.C. & Tutin, T.G. (1968). "Carex L." in Flora Europaea, Vol. 5. Cambridge University Press.
   - Egorova, T.V. (1999). The Sedges (Carex L.) of Russia. St. Petersburg State University.
-  - [[guzman-psilocybin-mushrooms-north-america]].
+  - guzman-psilocybin-mushrooms-north-america.
 ---
 
 The species is a dominant component of many mire, fen, and wet meadow communities, where its dense rhizomatous mats contribute to peat formation and water retention. Its dark blackish inflorescences give rise to both its scientific and common names.

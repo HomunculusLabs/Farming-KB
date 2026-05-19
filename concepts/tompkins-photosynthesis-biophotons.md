@@ -1,9 +1,9 @@
 ---
 title: Photosynthesis and Biophotons
 created: 2026-04-26
-aliases: [biophotons, [[phototropism-and-plant-light-responses]], mitogenetic radiation]
+aliases: [biophotons, phototropism-and-plant-light-responses, mitogenetic radiation]
 tags: [botany, biophysics, photosynthesis, light-biology]
-related: [[tompkins-plant-growth-regulators]], [[savory-living-organisms-as-tools]] are adapted to "the formation, storage, and use
+related: tompkins-plant-growth-regulators, savory-living-organisms-as-tools are adapted to "the formation, storage, and use
 of electrical energy." The genesis of this energy was "ultra-microscopic
 units or furnaces in protoplasm" which Crile called radiogens. He
 predicted that future radio-diagnosticians could detect disease before

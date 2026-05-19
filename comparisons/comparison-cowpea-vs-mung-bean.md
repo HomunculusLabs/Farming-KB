@@ -1,6 +1,6 @@
 ---
 title: "comparison cowpea vs mung bean Bean"
-subtitle: Comparing two warm-season [[vigna-radiata]]*) are two warm-season grain legumes that share the same genus but occupy distinct ecological niches and culinary traditions. Both are critical protein sources across the tropics and subtropics, valued for their short growing seasons, nitrogen-fixing ability, and adaptability to low-input farming. This comparison examines their agronomic, nutritional, and culinary differences to help growers [[psilocybe-southeast-asia-pacific]] |
+subtitle: Comparing two warm-season vigna-radiata*) are two warm-season grain legumes that share the same genus but occupy distinct ecological niches and culinary traditions. Both are critical protein sources across the tropics and subtropics, valued for their short growing seasons, nitrogen-fixing ability, and adaptability to low-input farming. This comparison examines their agronomic, nutritional, and culinary differences to help growers psilocybe-southeast-asia-pacific |
 | **Domestication** | ~5,000–7,000 years ago | ~4,000–4,500 years ago |
 | **Primary Gene Pool** | Sub-Saharan Africa | Indian subcontinent |
 | **Wild Progenitor** | *V. unguiculata* ssp. *dekindtiana* | *V. radiata* var. *sublobata* |

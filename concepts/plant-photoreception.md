@@ -3,7 +3,7 @@ title: Plant Photoreception
 aliases:
   - Plant vision
   - Photoreceptors in plants
-  - [[phototropism-and-shade-avoidance]], flowering time, and chloroplast development. The shade avoidance response is particularly dramatic—when phytochromes detect a low red-to-far-red ratio, the plant allocates more resources to stem elongation in an attempt to grow above competing vegetation, often at the expense of leaf development and root growth.
+  - phototropism-and-shade-avoidance, flowering time, and chloroplast development. The shade avoidance response is particularly dramatic—when phytochromes detect a low red-to-far-red ratio, the plant allocates more resources to stem elongation in an attempt to grow above competing vegetation, often at the expense of leaf development and root growth.
 ---
 
 ### Cryptochromes

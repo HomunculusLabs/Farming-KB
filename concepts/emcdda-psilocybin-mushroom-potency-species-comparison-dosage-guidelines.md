@@ -3,7 +3,7 @@ title: "Emcdda Psilocybin Mushroom Potency Species Comparison Dosage Guidelines"
 aliases:
   - "mushroom potency comparison"
   - "psilocybin concentration species"
-  - "magic [[psilocybin-north-america-pacific-northwest]] [[hplc-analysis-of-psilocybin-and-psilocin]] content up to **0.6%** by dry weight. This species dominates the smartshop market due to ease of cultivation rather than potency. The EMCDDA notes that the research of Jochen Gartz has shown *P. cubensis* can achieve a baseline psilocybin content of 1% under optimal conditions (brown rice substrate, young harvest), potentially matching *P. semilanceata* potency
+  - "magic psilocybin-north-america-pacific-northwest hplc-analysis-of-psilocybin-and-psilocin content up to **0.6%** by dry weight. This species dominates the smartshop market due to ease of cultivation rather than potency. The EMCDDA notes that the research of Jochen Gartz has shown *P. cubensis* can achieve a baseline psilocybin content of 1% under optimal conditions (brown rice substrate, young harvest), potentially matching *P. semilanceata* potency
 - **Panaeolus cyanescens** (Copelandia) — Marketed as "Hawaiian" in smartshops, with potency generally considered higher than typical *P. cubensis*
 ---
 

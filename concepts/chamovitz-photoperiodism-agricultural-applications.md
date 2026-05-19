@@ -1,6 +1,6 @@
 ---
 title: "Chamovitz Photoperiodism and Agricultural Applications"
-source: grahamholmes-what-a-plant-knowsindd.md ([[blesching-cannabinoid-pharmacology]].
+source: grahamholmes-what-a-plant-knowsindd.md (blesching-cannabinoid-pharmacology.
 ---
 
 ## The Maryland Mammoth Discovery

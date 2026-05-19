@@ -18,7 +18,7 @@ summary: >
   Identification of mushroom strains through visual mycelium morphology
   on agar, covering Stamets' classification of cottony, rhizomorphic,
   fluffy, appressed, and tomentose types and their correlation with
-  vigor, fruiting potential, and [[arbuscule-isolation-metabolic-activity-assays]] but may also result from overly rich media formulations.
+  vigor, fruiting potential, and arbuscule-isolation-metabolic-activity-assays but may also result from overly rich media formulations.
 - **Strandy (Rhizomorphic):** Cord-like, organized hyphal bundles that extend radially with clear directionality. Considered the gold standard for strain vigor. Typically fast-colonizing and associated with reliable, prolific fruiting performance.
 - **Cottony:** Loose, undifferentiated aerial mat without organized internal structure. A very common growth form, but generally less vigorous than strandy types. Often the default for stressed cultures.
 - **Appressed:** Mycelium pressed flat against the agar surface with minimal aerial component, creating a thin, sometimes translucent mat closely adhering to the medium. Some species, notably certain *Trametes* and *Ganoderma* isolates, grow naturally appressed.

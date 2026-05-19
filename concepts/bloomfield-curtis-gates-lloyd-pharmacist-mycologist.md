@@ -3,7 +3,7 @@ title: bloomfield curtis gates lloyd pharmacist mycologist Lloyd — Eccentric P
 created: 2026-04-28
 tags:
   - bloomfield-rust-fungi-life-cycles-barberry-wheat
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+- arbuscular-mycorrhizal-inoculum-production-best-practices with
 creative adaptation to local conditions and emerging challenges.
 ---
 

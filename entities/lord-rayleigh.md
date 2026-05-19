@@ -14,11 +14,11 @@ fields:
   - physics
   - acoustics
   - optics
-  - [[what-a-plant-knows-plant-mechanosensation-touch-response]]-research-context
+  - what-a-plant-knows-plant-mechanosensation-touch-response-research-context
   - nobel-prize
 sources:
 related_concepts:
-  - [[jagadis-chandra-bose]] studied there.
+  - jagadis-chandra-bose studied there.
 Bose's Cambridge training placed him inside elite British experimental physics.
 The concept page notes Rayleigh among Bose's teachers and later supporters.
 Bose learned physics in an environment shaped by Rayleigh's standards.

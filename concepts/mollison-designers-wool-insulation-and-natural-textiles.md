@@ -116,3 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mollison-designers-climate-zone-3-farm-forestry]]
 - [[mollison-designers-earthworks-for-erosion-control]]
 - [[soya-bean-mollison]]
+
+These interconnections demonstrate the importance of integrated approaches to understanding and applying this knowledge.

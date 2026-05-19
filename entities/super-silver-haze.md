@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press."
-  - "[[cannabis-strain-mango-haze-northern-lights-skunk-haze]] #5, Haze, and Skunk #1 — it dominated the High Times Cannabis Cup, winning three consecutive first-place titles from 1997 to 1999. Known for its intensely euphoric, long-lasting cerebral high and complex spicy-citrus aroma, Super Silver Haze remains one of the most influential [[haze-lineage-and-legacy-in-modern-breeding]] history. Its genetics have been used in hundreds of subsequent crosses.
+  - "cannabis-strain-mango-haze-northern-lights-skunk-haze #5, Haze, and Skunk #1 — it dominated the High Times Cannabis Cup, winning three consecutive first-place titles from 1997 to 1999. Known for its intensely euphoric, long-lasting cerebral high and complex spicy-citrus aroma, Super Silver Haze remains one of the most influential haze-lineage-and-legacy-in-modern-breeding history. Its genetics have been used in hundreds of subsequent crosses.
 ---
 
 ## Strain Classification

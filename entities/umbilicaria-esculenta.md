@@ -13,7 +13,7 @@ sources:
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Wei, J.C. (1991). "An Enumeration of Lichens in China." International Academic Publishers.
   - Yoshimura, I. (1971). "The Genus Umbilicaria in Japan and Adjacent Areas." Journal of the Hattori Botanical Laboratory.
-  - Nash III, T.H. et al. (2004). "[[neurotropic-fungi-japan-east-asia-species-cultural-context]].
+  - Nash III, T.H. et al. (2004). "neurotropic-fungi-japan-east-asia-species-cultural-context.
 ---
 
 The species forms broad, leathery, umbilicate thalli attached to rocks at a single central holdfast point. Its common name "rock tripe" refers to the resemblance of its thallus to tripe (animal stomach lining).

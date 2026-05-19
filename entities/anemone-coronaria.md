@@ -12,7 +12,7 @@ updated: 2026-05-10
 sources:
   - Ehrendorfer, F. (2009). "Ranunculaceae: Anemone." In: Kubitzki, K. (ed.), The Families and Genera of Vascular Plants. Springer.
   - Hyde, K. & Wrigley, G. (1993). "Florist Crops: Anemone." In: Larson, R.A. (ed.), Introduction to Floriculture. Academic Press.
-  - Horovitz, A. (1976). "[[ancient-greek-mystery-cults-comparison]] festival of Adonia.
+  - Horovitz, A. (1976). "ancient-greek-mystery-cults-comparison festival of Adonia.
 ---
 
 The genus name Anemone derives from the Greek word for wind, referencing the delicate flowers that appear to open in the breeze. The specific epithet coronaria means "used for garlands," reflecting its historical use in Mediterranean floral decoration.

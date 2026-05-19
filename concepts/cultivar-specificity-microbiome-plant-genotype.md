@@ -3,7 +3,7 @@ title: Cultivar Specificity in Plant Microbiomes
 slug: cultivar-specificity-microbiome-plant-genotype
 tags: [microbiology, plant-genetics, cultivar, cannabis, microbiome]
 related: [two-tier-selection-model-rhizosphere-microbiome, endorhiza-endophyte-bacteria-plant-roots]
-source: [[edaphic-factors-microbial-community-structure]] within the endorhiza was significantly different between cultivars (weighted UniFrac, ADONIS R2 = 0.59, p = 0.004 in experiment 2)
+source: edaphic-factors-microbial-community-structure within the endorhiza was significantly different between cultivars (weighted UniFrac, ADONIS R2 = 0.59, p = 0.004 in experiment 2)
 ---
 
 2. **Cultivar affected abundance, not presence** — in weighted (abundance-based) analysis, 71 OTUs differed significantly between strains. In unweighted (presence/absence) analysis, zero OTUs differed between strains. This means cultivar selection modulates how abundant each microbe becomes inside the root, but not whether it can enter at all.
@@ -148,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 ## Challenges and Solutions
 
 Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and

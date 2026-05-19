@@ -16,9 +16,9 @@ sources:
   - Littlewood, Michael. septic-tanks-and-natural-swimming-pools: A Guide for Building.
     Hygia Press, 2015.
   - "Natural Swimming Pools/Ponds." BioNova Natural Pools, 2023.
-  - "Residential Swimming Pools: Health [[ayahuasca-tourism-practitioners-and-safety-considerations]]." EPA,
+  - "Residential Swimming Pools: Health ayahuasca-tourism-practitioners-and-safety-considerations." EPA,
     2022.
-  - Wagenführ, Rainer, and Werner Pötschke. "[[biological-water-purification]]
+  - Wagenführ, Rainer, and Werner Pötschke. "biological-water-purification
     in Natural Swimming Pools." Journal of Applied Phycology, vol. 30, 2018.
   - "Pool and Spa Maintenance Guidelines." CDC, 2023.
 type: comparison---

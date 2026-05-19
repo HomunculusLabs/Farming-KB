@@ -11,7 +11,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Tammaro, A. et al. (2019). "Pulsatilla species: Botany, Phytochemistry and Biological Activities." Phytochemistry Reviews, 18(4), 939-965.
-  - Wang, C. et al. (2021). "Ranunculin-derived lactones in Pulsatilla: [[pulsatilla-vulgaris]] by its smaller, nodding flowers that are typically dark violet to purple-black.
+  - Wang, C. et al. (2021). "Ranunculin-derived lactones in Pulsatilla: pulsatilla-vulgaris by its smaller, nodding flowers that are typically dark violet to purple-black.
 ---
 
 Like other Pulsatilla species, it contains ranunculin-derived protoanemonin compounds that render it toxic if ingested fresh. It has a long history of use in traditional European folk medicine, particularly in homeopathic preparations.

@@ -6,7 +6,7 @@ tags:
 between Eastern and Western approaches to medicine and their corresponding agricultural
 philosophies. He argues that Western medicine treats symptoms locally while Eastern
 medicine addresses the whole person, and that this fundamental divergence mirrors the
-difference between conventional agriculture (which attacks [[fukuoka-desert-revegetation-natural-farming]] is
+difference between conventional agriculture (which attacks fukuoka-desert-revegetation-natural-farming is
 explicitly modeled on the Eastern medical approach—restore the whole system rather
 than attack individual symptoms.
 ---

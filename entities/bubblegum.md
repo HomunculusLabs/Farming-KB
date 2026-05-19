@@ -22,7 +22,7 @@ sources:
   - Cannabis Cup Archives. "High Times Cannabis Cup Winners 1994–1999." https://hightimes.com
   - ElSohly, M.A. et al. (2016). "Changes in  with a
 legendary status among cannabis enthusiasts. Originally developed in the
-[[spanish-cannabis-breeding-scene-history]]. The most widely
+spanish-cannabis-breeding-scene-history. The most widely
 accepted lineage describes Bubblegum as a cross between an unknown Indiana
 Afghani indica and a mixed sativa-dominant hybrid. The genetics traveled
 from Indiana to New England before reaching the Netherlands, where

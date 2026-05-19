@@ -37,7 +37,7 @@ An important effect of air circulation and fresh air supply is evaporation of mo
 
 ## Practical Considerations
 
-When working with [[duggar-mushroom-growing-history-and-methods]], several practical factors should be
+When working with duggar-mushroom-growing-history-and-methods, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -51,9 +51,9 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-[[doc]]
-- [[mushroom-growing-room-environmental-control]]
-- [[mushroom-training-environmental-control]]
+doc
+- mushroom-growing-room-environmental-control
+- mushroom-training-environmental-control
 
 ## Overview
 

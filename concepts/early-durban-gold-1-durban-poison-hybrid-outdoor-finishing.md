@@ -3,7 +3,7 @@ title: Early Durban Gold 1 Durban Poison Hybrid Outdoor Finishing
 source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 author: S.T. Oner
 topics:
-  - [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]]).
+  - east-coast-sour-diesel-clone-lineage-chemdawg-family-tree).
 ---
 
 ## Genetic Background

@@ -12,7 +12,7 @@ sources:
   - Fumanal, B., et al. (2007). "clarke-marijuana-botany-sex-determination-reproductive-biology of Ambrosia artemisiifolia in Europe." Weed Research, 47(3), 260-268.
   - Smith, E.G., et al. (2013). "Ragweed pollen production and allergen release." Annals of Allergy, Asthma & Immunology, 111(3), 200-204.
   - Ghimire, R., et al. (2016). "Biology, impact and management of common ragweed." Crop Protection, 78, 129-139.
-  - Žun, J., et al. (2021). "[[guzman-psilocybin-mushrooms-north-america]]. It is one of the most significant allergenic plants worldwide, producing copious amounts of highly allergenic pollen that causes severe hay fever and allergic asthma.
+  - Žun, J., et al. (2021). "guzman-psilocybin-mushrooms-north-america. It is one of the most significant allergenic plants worldwide, producing copious amounts of highly allergenic pollen that causes severe hay fever and allergic asthma.
 ---
 
 The species has spread globally as an invasive weed, establishing populations across Europe, Asia, Australia, and [[artemisia-absinthium]], hence the specific epithet artemisiifolia.

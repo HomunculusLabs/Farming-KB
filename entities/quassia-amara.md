@@ -13,7 +13,7 @@ sources:
   - Gupta, M.P. (1995). "270 Plants of guzman-psilocybin-mushrooms-south-america with Antimalarial Activity." Revista de Biología Tropical, 43(1-3), 237-239.
   - O'Neill, M.J. et al. (1987). "Biologically active quassinoids from Quassia amara." Tetrahedron, 43(9), 1971-1980.
   - Lorenzi, H. & Matos, F.J.A. (2002). Plantas Medicinais no Brasil. Instituto Plantarum de Estudos da Flora.
-  - de Sousa, D.P. (2015). "Bioactivity of [[mollison-designers-neem-tree-as-natural-insecticide]] formulations.
+  - de Sousa, D.P. (2015). "Bioactivity of mollison-designers-neem-tree-as-natural-insecticide formulations.
 ---
 
 The species was among the first New World medicinal plants adopted into European pharmacopoeias during the colonial period, appearing in the London Pharmacopoeia by the late 18th century as "Quassia lignum."

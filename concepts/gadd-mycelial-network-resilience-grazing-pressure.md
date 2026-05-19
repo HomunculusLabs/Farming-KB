@@ -2,7 +2,7 @@
 title: Gadd Mycelial Network Resilience Grazing Pressure
 source: Fungi in the Environment - Gadd, Watkinson, Dyer (2006)
 source_path: ~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
-topics: mycology, [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] and
+topics: mycology, dighton-ericoid-mycorrhizal-nutrient-acquisition and
 decomposition. In some soils, fungal grazers can consume a substantial
 fraction of the annual fungal production, making grazing resistance a critical
 trait for soil fungi. The evolutionary arms race between fungi and their

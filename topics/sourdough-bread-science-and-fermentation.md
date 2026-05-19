@@ -1,6 +1,6 @@
 ---
 title: query-how-to-make-sourdough-bread-at-home Science and Fermentation
-subtitle: The [[lactic-acid-bacteria-knf]].
+subtitle: The lactic-acid-bacteria-knf.
 The culture, commonly called a starter, replaces commercial baker's yeast
 as the main source of carbon dioxide. It also acidifies the dough,
 changes the behavior of gluten and starch, and produces the flavor that

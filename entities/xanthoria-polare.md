@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Thomson, J.W. (1997). "American Arctic Lichens. 2. The Microlichens." University of Wisconsin Press.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens [[fukuoka-natural-farming-in-tropical-regions]].
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens fukuoka-natural-farming-in-tropical-regions.
 ---
 
 Its bright coloration makes it one of the most recognizable lichens in polar regions, where it stands out vividly against gray rock and snow-covered landscapes.

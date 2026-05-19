@@ -9,7 +9,7 @@ aliases:
 birth_date: 1899-06-12
 death_date: 1994-05-09
 birth_place: Berlin, German Empire
-death_place: Orange, Connecticut, [[bill-mollison]] [[cladonia-alpestris]]
+death_place: Orange, Connecticut, bill-mollison cladonia-alpestris
 ---
 ## Practical Considerations
 

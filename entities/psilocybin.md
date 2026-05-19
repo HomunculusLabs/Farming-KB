@@ -16,7 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Johns Hopkins Center for Psychedelic Research
-  - MAPS ([[psilocybin-pharmacology-and-serotonin-receptors]]**, producing profound alterations in perception, cognition, emotion, and sense of self.
+  - MAPS (psilocybin-pharmacology-and-serotonin-receptors**, producing profound alterations in perception, cognition, emotion, and sense of self.
 ---
 
 ## Chemical Profile

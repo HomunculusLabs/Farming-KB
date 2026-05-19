@@ -1,12 +1,12 @@
 ---
 title: Chamovitz Plant Scent Communication Volatile Organic Compounds
-source: "What a Plant Knows - [[jasmonic-acid-plant-defense-signaling]] from linolenic acid via the octadecanoid
+source: "What a Plant Knows - jasmonic-acid-plant-defense-signaling from linolenic acid via the octadecanoid
 pathway. This acid is then methylated to form methyl jasmonate, a volatile
 compound that can travel through the air to neighboring plants. Upon
 detection, receiving plants convert methyl jasmonate back to jasmonic acid,
 which then activates a cascade of defense-related genes. These defenses
-include the production of toxic [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]], plays a complementary
-role to methyl jasmonate in [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] that travels
+include the production of toxic comparison-jasmonate-vs-salicylic-acid-defense-signaling, plays a complementary
+role to methyl jasmonate in chamovitz-phytochrome-mobile-signal-leaf-to-flowering that travels
 both through the air and through the vascular system to activate defense
 genes throughout the plant and potentially in nearby plants as well.
 ---

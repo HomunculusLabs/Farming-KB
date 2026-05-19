@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Davy, A.J. et al. (2001). "Developmental plasticity in Salicornia." In: Coastal Saltmarsh Management. Elsevier.
-  - Kentsch, M. (2019). "Salicornia europaea: biology, ecology, and uses." Wetlands [[psilocybin-north-america-pacific-northwest]], and Asia. Its jointed, translucent green stems give rise to the name "glasswort," historically referencing its use in glassmaking as a soda ash source.
+  - Kentsch, M. (2019). "Salicornia europaea: biology, ecology, and uses." Wetlands psilocybin-north-america-pacific-northwest, and Asia. Its jointed, translucent green stems give rise to the name "glasswort," historically referencing its use in glassmaking as a soda ash source.
 ---
 
 The young shoots are commercially harvested as a gourmet vegetable, increasingly popular in high-end restaurants for their crisp texture and briny flavor. The plant is also gaining attention in halophyte agriculture as a salt-adapted crop for saline-irrigated farming systems.

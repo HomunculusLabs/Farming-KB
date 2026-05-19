@@ -6,7 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] - [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]:
+  - "The fukuoka-natural-way-of-farming-theory-of-natural-farming - fukuoka-textdoc-natural-livestock-farming-open-grazing:
 ---
 
 | Animal Type | Energy Efficiency (output/input) |
@@ -148,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.

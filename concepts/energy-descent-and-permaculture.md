@@ -1,6 +1,6 @@
 ---
 title: Energy Descent and Permaculture
-source: David Holmgren, Permaculture: Principles & [[permaculture-principles-pathways-beyond-sustainability]] (2002)
+source: David Holmgren, Permaculture: Principles & permaculture-principles-pathways-beyond-sustainability (2002)
 tags: [permaculture, energy, fossil-fuels, peak-oil, sustainability]
 created: 2026-05-11
 ---

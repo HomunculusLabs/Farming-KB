@@ -1,6 +1,6 @@
 ---
 title: Mycoremediation Fundamentals
-source: cotter-organic-mushroom-farming-[[mycoremediation|mycoremediation]].md
+source: cotter-organic-mushroom-farming-mycoremediation|mycoremediation.md
 type: concept
 ---
 

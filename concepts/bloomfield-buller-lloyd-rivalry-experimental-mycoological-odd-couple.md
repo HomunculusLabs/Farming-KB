@@ -1,8 +1,8 @@
 ---
 title: Bloomfield Buller Lloyd Rivalry Experimental Mycoological Odd Couple
 source: "Mr. Bloomfield's Orchard"
-source_author: "[[nicholas-money]]"
-topics: ["mycology", "history of science", "[[bloomfield-history-of-mycology-pioneers]] features no more fascinating contrast than Arthur Henry
+source_author: "nicholas-money"
+topics: ["mycology", "history of science", "bloomfield-history-of-mycology-pioneers features no more fascinating contrast than Arthur Henry
 Reginald Buller and Curtis Gates Lloyd — the laboratory experimentalist and the
 self-taught taxonomic collector whose intersecting careers illuminate enduring
 tensions between different modes of scientific inquiry that persist in biology

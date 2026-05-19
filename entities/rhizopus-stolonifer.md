@@ -18,9 +18,9 @@ tags:
   - saprotroph
 sources:
 related_concepts:
-  - [[mushroom-cultivation]]-pests-and-contamination
-  - [[spore-syringe-production]]
-  - [[accessible-mushroom-cultivation-for-disabilities]] it matters because its fast, cottony growth can overrun grain, agar, or moist substrates.
+  - mushroom-cultivation-pests-and-contamination
+  - spore-syringe-production
+  - accessible-mushroom-cultivation-for-disabilities it matters because its fast, cottony growth can overrun grain, agar, or moist substrates.
 The species is also an important decomposer of stored foods, fruits, vegetables, and other nutrient-rich materials.
 ---# Taxonomic position
 

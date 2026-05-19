@@ -1,15 +1,15 @@
 ---
 title: Jarrold Pressure Cooker Sterilization Boil Bag Mushroom Cultivation
 wiki: llm-wiki
-category: [[mushroom-agar-media-pouring-sterilization-techniques]]
-source: D.H. Jarrold, "Indoor [[mushroom-cultivation]] as described by D.H. Jarrold in *Indoor Mushroom Growing
+category: mushroom-agar-media-pouring-sterilization-techniques
+source: D.H. Jarrold, "Indoor mushroom-cultivation as described by D.H. Jarrold in *Indoor Mushroom Growing
 Technique for the Boil-A-Bag*. The process involves sealing prepared substrate
 inside heat-resistant boil-a-bags fitted with custom filter can devices, then
 sterilizing under pressure to eliminate competing organisms before inoculation
-with [[spore-syringe-preparation-jarrold-method]] are manufactured by Lakeland Plastics.
+with spore-syringe-preparation-jarrold-method are manufactured by Lakeland Plastics.
 Each bag measures 20 cm × 30 cm (approximately 8 × 12 inches) and is sold in packs
 of 50 for roughly £2.50. These bags can withstand the extreme temperatures of
-pressure cooking at 15 psi as well as [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]].
+pressure cooking at 15 psi as well as mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange.
 4. **Top cap:** A final layer of rockwool is placed on top to hold the filter
    material securely in place.
 5. **Attached lid:** The original can lid is left connected by approximately 1 inch

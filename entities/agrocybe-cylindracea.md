@@ -77,3 +77,5 @@ communities, and systematic experimentation to build expertise.
 
 The species is commercially cultivated in parts of East Asia and Southern Europe, where it commands premium prices in fresh markets.
 - [[cyclocybe-cylindracea]]
+
+Understanding this topic in its broader ecological context enhances practical application.

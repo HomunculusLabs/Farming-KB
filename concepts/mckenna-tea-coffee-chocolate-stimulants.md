@@ -1,8 +1,8 @@
 ---
 title: "Tea, Coffee, and Chocolate as Civilizing Stimulants"
 source: "Food of the Gods"
-author: "[[fukuoka-european-civilization-standstill]] and provided the pharmacological foundation for the
-[[plant-science-exploring-rich-history]] as a facilitator of public intellectual
+author: "fukuoka-european-civilization-standstill and provided the pharmacological foundation for the
+plant-science-exploring-rich-history as a facilitator of public intellectual
 life. The eleventh-century Persian polymath Avicenna was one of the first to
 write about coffee, though it had been in use for some time in Ethiopia and
 Arabia. Coffee was introduced in Paris in 1643, and within thirty years there

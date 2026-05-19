@@ -15,7 +15,7 @@ sources:
   - Desjardin DE, Oliveira AG, Stevani CV. (2008). "Fungal bioluminescence: biochemistry and genetic bases." Applied Microbiology and Biotechnology, 81(6), 989-999.
   - Arora D, Burk WR. (1982). "A preliminary account of the western growing-gourmet-north-american-reishi-species Omphalotus species." Mycotaxon, 15, 309-316.
   - Methven AS, Banning JT, Alford RE. (2010). "Omphalotus olivascens." MycoBank, Fungal Nomenclator.
-  - Kuo M. (2024). "[[guzman-psilocybin-mushrooms-north-america]].
+  - Kuo M. (2024). "guzman-psilocybin-mushrooms-north-america.
 ---
 
 It is one of several Omphalotus species that produce a greenish glow in darkness via the enzyme luciferase oxidizing the substrate luciferin.

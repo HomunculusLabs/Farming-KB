@@ -1,6 +1,6 @@
 ---
 title: Tree Biomass And Energy Transactions
-source: [[bill-mollison]]-[[permaculture-design]], understanding how trees manage
+source: bill-mollison-permaculture-design, understanding how trees manage
 energy flows is essential to creating productive, resilient landscapes.
 ---
 

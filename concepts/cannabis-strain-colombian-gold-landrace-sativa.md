@@ -3,7 +3,7 @@ title: "Colombian Gold - Landrace Sativa from the Andean Highlands"
 source: "s-t-oner-the-rev-cannabis-sativa-volume-3"
 source_author: "S.T. Oner, The Rev"
 topics: ["cannabis", "strains", "landrace", "sativa", "colombian-cannabis"]
-aliases: ["Colombian Gold strain", "[[cannabis-genetics-and-breeding]]. During the 1960s and 1970s, Colombian varieties were among the most sought-after cannabis products in the United States and Europe. The term "Colombian" became synonymous with high-quality sativa, and Colombian Gold was one of the most celebrated varieties of that era.
+aliases: ["Colombian Gold strain", "cannabis-genetics-and-breeding. During the 1960s and 1970s, Colombian varieties were among the most sought-after cannabis products in the United States and Europe. The term "Colombian" became synonymous with high-quality sativa, and Colombian Gold was one of the most celebrated varieties of that era.
 ---
 
 The strain was part of the broader landscape of Latin American sativas that also included Mexican, Panamanian, and Brazilian varieties. These [[cervantes-breeding-program-design-goal-setting]] focuses on maintaining the purity of the landrace genetics while ensuring the strain remains viable for modern cultivation. This preservation work is critical, as many landrace varieties are at risk of being lost as commercial breeding increasingly focuses on hybrid varieties.

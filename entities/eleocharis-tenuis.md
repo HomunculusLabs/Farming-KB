@@ -10,7 +10,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - González-Elizondo, M.S. & Peterson, P.M. (2009). "A revision of Eleocharis subg. Limnochloa in the Americas." Sida, Botanical Miscellany 33.
-  - Smith, S.G. (2002). "Eleocharis in Flora [[psilocybin-north-america-pacific-northwest]] and has been reported from parts of [[bolete-fungi-appalachian-region]].
+  - Smith, S.G. (2002). "Eleocharis in Flora psilocybin-north-america-pacific-northwest and has been reported from parts of bolete-fungi-appalachian-region.
 ---
 
 ## Ecology

@@ -12,7 +12,7 @@ sources:
   - Crum, H. & Anderson, L.E. (1981). "Mosses of polypore-fungi-eastern-north-america America." Columbia University Press.
   - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed., Cambridge University Press.
   - Ireland, R.R. (1982). "Moss Flora of the Maritime Provinces." Publications in Botany, National Museum of Natural Sciences, Ottawa.
-  - Åström, M. & Dynesius, M. (2019). "Bryophyte [[guzman-psilocybin-mushrooms-north-america]].
+  - Åström, M. & Dynesius, M. (2019). "Bryophyte guzman-psilocybin-mushrooms-north-america.
 ---
 
 The species is among the largest and most conspicuous feathermosses, forming extensive golden-green carpets on the forest floor of boreal and sub-boreal coniferous woodlands.

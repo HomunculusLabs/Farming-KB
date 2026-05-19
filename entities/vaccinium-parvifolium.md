@@ -11,7 +11,7 @@ updated: 2026-05-09
 sources:
   - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada.
   - USDA NRCS (2024). "Vaccinium parvifolium Plant Guide." Natural Resources Conservation Service.
-  - Pojar, J. & MacKinnon, A. (1994). "Plants of the [[guzman-psilocybin-mushrooms-north-america]].
+  - Pojar, J. & MacKinnon, A. (1994). "Plants of the guzman-psilocybin-mushrooms-north-america.
 ---
 
 It is valued for its tart, bright-red berries which are gathered from the wild

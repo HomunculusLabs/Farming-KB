@@ -3,7 +3,7 @@ title: Chytridiomycota (Zoosporic Fungi)
 aliases: [chytrids, zoosporic fungi, batrachochytrium, chytridiomycosis]
 tags: [mycology, taxonomy, phylogeny, aquatic-fungi, amphibian-disease]
 created: 2026-05-10
-source: "[[maintaining-organic-matter-in-vegetable-gardens]] [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]], particularly in decomposing refractory materials like insect exoskeletons and fungal cell walls.
+source: "maintaining-organic-matter-in-vegetable-gardens fungal-biodiversity-marine-ecosystems-coastal-deep-sea, particularly in decomposing refractory materials like insect exoskeletons and fungal cell walls.
 - **Parasites of algae**: Chytrids parasitize freshwater and marine algae, including diatoms and filamentous green algae. Some parasitic chytrids can significantly reduce algal populations during blooms, acting as natural population controls.
 - **Parasites of other fungi**: Some chytrids are mycoparasites, attacking and decomposing other fungal species. This includes parasites of water molds (oomycetes) and other chytrids.
 - **Parasites of invertebrates**: Chytrids infect various aquatic invertebrates, including nematodes, rotifers, and insect larvae.

@@ -1,8 +1,8 @@
 ---
 title: Fungal Spore Discharge Mechanism
-aliases: [Buller's drop, [[mycology]], biophysics, fungi, [[fungal-kingdom-diversity]]. Gilled
+aliases: [Buller's drop, mycology, biophysics, fungi, fungal-kingdom-diversity. Gilled
 mushrooms (Agaricales) propel basidiospores from the surfaces of their
-gills using a microscopic [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]]
+gills using a microscopic bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism
 of water. This process, understood in detail only in the late twentieth
 century, involves the formation and collapse of a fluid droplet called
 **Buller's drop** on the spore surface. The discharge is extraordinarily

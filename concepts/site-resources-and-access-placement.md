@@ -1,6 +1,6 @@
 ---
 title: Site Resources And Access Placement
-source: "Bill Mollison, [[mollison-permaculture-design-course-curriculum]] (Chunk 19, Lines 3801–4000)"
+source: "Bill Mollison, mollison-permaculture-design-course-curriculum (Chunk 19, Lines 3801–4000)"
 type: concept
 ---
 

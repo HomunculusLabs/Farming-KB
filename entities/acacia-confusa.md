@@ -13,7 +13,7 @@ sources:
   - Ott, J. (1994). "Ayahuasca Analogues: Pangaean Entheogens." Natural Product Reports.
   - Joubran, J. et al. (2003). "Determination of N,N-dimethyltryptamine in Acacia confusa." Journal of Forensic Sciences, 48(5).
   - Ratsch, C. (2005). "The Encyclopedia of Psychoactive Plants." Park Street Press.
-  - W.H. Hocking (1993). "Acacia confusa Merr.: A [[psilocybe-southeast-asia-pacific]] and the [[first-pass-metabolism-and-oral-bioavailability]] of DMT.
+  - W.H. Hocking (1993). "Acacia confusa Merr.: A psilocybe-southeast-asia-pacific and the first-pass-metabolism-and-oral-bioavailability of DMT.
 ---
 
 Tannin content is exceptionally high in the bark, reaching 20–30% by dry weight. This has historically made Acacia confusa bark valuable for leather tanning and dye production across its native range.

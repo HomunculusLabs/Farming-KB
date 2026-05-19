@@ -1,7 +1,7 @@
 ---
 title: Wide-Row Spacing vs solomon-wide-spacing-versus-intensive-gardening-debate
 source: Gardening When It Counts - steve-solomon
-source_author: [[steve-solomon]]
+source_author: steve-solomon
 tags: [gardening, spacing, intensive, water-efficiency, vegetable-production]
 created: 2026-05-08
 ---

@@ -1,11 +1,11 @@
 ---
 title: savory testing and management guidelines Guidelines
 created: 2026-04-26
-aliases: [testing guidelines, management guidelines, [[savory-weak-link-analysis]], whole ecosystem test, HRM guidelines]
+aliases: [testing guidelines, management guidelines, savory-weak-link-analysis, whole ecosystem test, HRM guidelines]
 tags: [decision-making, testing-guidelines, management-framework,
       holistic-management, ecosystem-health]
-related: [savory-holistic-decision-making, [[savory-ecosystem-foundation-blocks]], [[savory-holistic-resource-management-animal-impact]] Management model serve as the
-practical bridge between understanding [[savory-holistic-goal-definition]] at any time. If a tool
+related: [savory-holistic-decision-making, savory-ecosystem-foundation-blocks, savory-holistic-resource-management-animal-impact Management model serve as the
+practical bridge between understanding savory-holistic-goal-definition at any time. If a tool
 fails to pass any test, it is not ruled out automatically, as there may
 be no alternative at that moment. However, applying a tool known to
 fail means the manager will ultimately fail to reach their goal unless

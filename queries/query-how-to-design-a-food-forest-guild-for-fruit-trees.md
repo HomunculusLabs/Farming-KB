@@ -3,7 +3,7 @@ title: "How to Design a toby-hemenway"
     publisher: "Chelsea Green Publishing"
     year: 2009
     url: "https://www.chelseagreen.com/product/gaias-garden-second-edition/"
-  - title: "Edible [[plant-guild]] is a group of plants deliberately assembled to support a central element — usually a fruit tree — by performing complementary ecological functions. Rather than planting a tree in isolation with grass beneath it, a guild builds a miniature ecosystem around it. Each member provides at least one of the following: nitrogen fixation, nutrient accumulation, pest deterrence, pollinator attraction, mulch production, or ground cover to suppress weeds. The concept originates from permaculture and draws heavily on natural forest-edge ecosystems where plants co-evolved to support one another.
+  - title: "Edible plant-guild is a group of plants deliberately assembled to support a central element — usually a fruit tree — by performing complementary ecological functions. Rather than planting a tree in isolation with grass beneath it, a guild builds a miniature ecosystem around it. Each member provides at least one of the following: nitrogen fixation, nutrient accumulation, pest deterrence, pollinator attraction, mulch production, or ground cover to suppress weeds. The concept originates from permaculture and draws heavily on natural forest-edge ecosystems where plants co-evolved to support one another.
 ---
 
 ### What are the 7 layers of a food forest?

@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly (2023). "Mochi Strain Information." leafly.com.
-  - AllBud (2023). "[[girl-scout-cookies]] and [[psilocybin-north-america-pacific-northwest]].
+  - AllBud (2023). "girl-scout-cookies and psilocybin-north-america-pacific-northwest.
 ---
 
 ## Lineage

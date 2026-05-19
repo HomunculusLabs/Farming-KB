@@ -1,11 +1,3 @@
----
-title: Metzner Grof Perinatal Matrices And Transpersonal Realms
-source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
-tags: stanislav-grof's groundbreaking
-discovery within [[metzner-sandoz-psycholytic-therapy-european-clinical-model]], patients were given LSD in a series of
-sessions at gradually increasing doses while undergoing analytic
-interactions using a Freudian perspective.
----
 
 The rationale was that through psycholysis, the loosening of
 psychological defenses, the patient would become more vividly aware
@@ -85,7 +77,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish metzner grof perinatal matrices and transpersonal realms
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -99,7 +91,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Metzner Grof Perinatal Matrices And Transpersonal Realms finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -148,4 +140,3 @@ Successful integration of metzner grof perinatal matrices and transpersonal real
 - [[metzner-mdma-assisted-therapy-research]]
 - [[neoshamanic-participant-psychospiritual-backgrounds-metzner]]
 - [[metzner-harvard-psilocybin-prison-project-behavior-change]]
-- [[metzner-five-experience-features-entheogenic-shamanic-practice]]

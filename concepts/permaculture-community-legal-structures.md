@@ -1,6 +1,6 @@
 ---
 title: Permaculture Community Legal Structures
-source: bill-mollison-[[permaculture-community-legal-structure|permaculture]]-design-course.md
+source: bill-mollison-permaculture-community-legal-structure|permaculture-design-course.md
 type: concept
 ---
 

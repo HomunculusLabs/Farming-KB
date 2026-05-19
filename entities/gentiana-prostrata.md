@@ -13,7 +13,7 @@ sources:
   - Richardson, J.S. (2001). "Gentians of the Rocky Mountains." University Press of Colorado.
   - Kew Royal Botanic Gardens. "Gentiana prostrata." Plants of the World Online.
   - Welsh, S.L. et al. (2003). "A Utah Flora." Brigham Young University Press.
-  - Straley, G.B. (1986). "Gentians of the [[guzman-psilocybin-mushrooms-north-america]] and parts of northeastern Asia. Its prostrate growth habit and small stature make it one of the most easily overlooked gentians in its range.
+  - Straley, G.B. (1986). "Gentians of the guzman-psilocybin-mushrooms-north-america and parts of northeastern Asia. Its prostrate growth habit and small stature make it one of the most easily overlooked gentians in its range.
 ---
 
 Despite its modest appearance, Gentiana prostrata is prized by alpine plant enthusiasts for its intense blue flowers. It is considered a challenging but rewarding subject for rock-garden cultivation.

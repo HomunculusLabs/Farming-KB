@@ -1,6 +1,6 @@
 ---
 title: Growing Tomatoes Peppers And Eggplant
-source: gardening-when-it-counts-steve-[[solomon-growing-peppers-eggplant|solomon]].md
+source: gardening-when-it-counts-steve-solomon-growing-peppers-eggplant|solomon.md
 type: concept
 ---
 

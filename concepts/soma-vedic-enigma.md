@@ -3,8 +3,8 @@ title: Soma Vedic Enigma
 aliases: [Soma, haoma, Vedic ritual drink, Indo-European sacred beverage]
 tags: [history, religion, vedic, psychedelics, ancient-india]
 created: 2026-05-10
-source: [[gordon-wasson-comparative-method-ethnomycology]] in 1968, is the
-fly agaric mushroom ([[harner-amanita-muscaria-siberian-shamanism]], and linguistic connections between
+source: gordon-wasson-comparative-method-ethnomycology in 1968, is the
+fly agaric mushroom (harner-amanita-muscaria-siberian-shamanism, and linguistic connections between
 Sanskrit and Siberian languages. However, objections are substantial: A.
 muscaria is toxic and can cause nausea, delirium, and agitation at
 effective doses; it does not grow in the Indian subcontinent's lowlands

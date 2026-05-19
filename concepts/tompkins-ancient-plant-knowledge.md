@@ -3,7 +3,7 @@ title: Ancient Plant Knowledge
 created: 2026-04-26
 aliases: [historical plant wisdom, traditional plant lore, Vedic plant knowledge]
 tags: [history, ethnobotany, traditional-knowledge, philosophy]
-related: [[tompkins-plant-animal-relationships]], [[fukuoka-road-critique-of-modern-science]] began
+related: tompkins-plant-animal-relationships, fukuoka-road-critique-of-modern-science began
 investigating the concept.
 ---
 

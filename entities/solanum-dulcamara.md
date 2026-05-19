@@ -14,7 +14,7 @@ sources:
   - Schilling, E.E. (1981). "Systematics of Solanum section Dulcamara." Systematic Botany Monographs, 3, 1-156.
   - Cipollini, D.F. & Levey, D.J. (1997). "Why are some fruits toxic?" Ecology, 78(6), 1802-1812.
   - Milne, S. (2009). "Bittersweet: The Story of Sugar." Penguin.
-  - Wink, M. (2010). "[[guzman-psilocybin-mushrooms-north-america]].
+  - Wink, M. (2010). "guzman-psilocybin-mushrooms-north-america.
 ---
 
 The species is recognized by its purple flowers with reflexed petals and bright red, ovoid berries that are toxic to humans and livestock. The common name "bittersweet" refers to the distinctive taste of the stem, which is bitter at first but becomes sweet when chewed.

@@ -1,18 +1,3 @@
----
-title: "Paphiopedilum insigne"
-type: species
-tags:
-  - orchidaceae
-  - orchid
-  - ornamental
-  - slipper-orchid
-  - houseplant
-date: 2026-05-10
-updated: 2026-05-10
-sources:
-  - Cribb PJ (1998). "The Genus Paphiopedilum." 2nd ed. Natural History Publications, Kota Kinabalu.
-  - Koopowitz H (2000). "A [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]], surviving temperatures near freezing that would kill most tropical *Paphiopedilum* species.
----
 
 ## Taxonomy and Morphology
 
@@ -79,7 +64,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish paphiopedilum insigne
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -147,5 +132,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[leccinum-insigne]]

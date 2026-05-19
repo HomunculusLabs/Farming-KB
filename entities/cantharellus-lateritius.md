@@ -20,7 +20,7 @@ sources:
   - Phillips, Roger. Mushrooms , prized for its mild fruity aroma, peppery flavor, and firm texture. Often confused with the golden chanterelle (* and parts of Asia
 - **Habitat:** Ectomycorrhizal with hardwoods — primarily oaks (*Quercus* spp.), but also found with hickories (*Carya*), beech (*Fagus*), tulip poplar (*Liriodendron*), and occasionally conifers
 - **Season:** Summer through autumn (June–October), typically peaking later than *C. cibarius* — hence the common name "late chanterelle"
-- **Ecology:** Ectomycorrhizal mutualist; forms nutrient-exchange relationships with tree root systems; contributes to forest [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:** Ergosterol (pro-vitamin D₂), ergothioneine (antioxidant amino acid), β-glucans (immunomodulatory polysaccharides), lovastatin precursors
+- **Ecology:** Ectomycorrhizal mutualist; forms nutrient-exchange relationships with tree root systems; contributes to forest query-what-are-the-main-bioactive-compounds-in-medicinal-plants:** Ergosterol (pro-vitamin D₂), ergothioneine (antioxidant amino acid), β-glucans (immunomodulatory polysaccharides), lovastatin precursors
 - **Antioxidant capacity:** High ORAC value; ergothioneine and selenium contribute to significant free-radical scavenging activity
 - **Caloric value:** Approximately 25–35 kcal per 100 g fresh weight
 ---# Distinguishing from Similar Species

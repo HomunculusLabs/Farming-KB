@@ -1,6 +1,6 @@
 ---
 title: "Human vs Plant Photoreception - A Comparative Analysis"
-source: "What a Plant Knows - [[chamovitz-ultraviolet-and-infrared-plant-light-perception]] that, while fundamentally different from human vision, deserve to be
+source: "What a Plant Knows - chamovitz-ultraviolet-and-infrared-plant-light-perception that, while fundamentally different from human vision, deserve to be
 considered legitimate sensory systems. Comparing human and plant photoreception reveals both
 surprising parallels and profound differences in how two kingdoms of life have evolved to
 interpret their light environment.
@@ -148,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[fukuoka-nature-transcends-human-knowledge]]
 - [[human-eye-photoreceptor-analogy-plant-light-perception]]
-- [[indole-hallucinogens-and-human-evolution]]

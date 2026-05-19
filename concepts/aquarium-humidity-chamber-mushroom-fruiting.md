@@ -1,6 +1,6 @@
 ---
 title: "Aquarium-Based Humidity Chamber for Mushroom Fruiting"
-source: "Indoor [[accessible-mushroom-cultivation-for-disabilities]] method described by D.H. Jarrold, the humidity chamber
+source: "Indoor accessible-mushroom-cultivation-for-disabilities method described by D.H. Jarrold, the humidity chamber
 is the environment where fully colonized substrate bags are transitioned from the mycelial
 growth phase to the fruiting (mushroom production) phase. Jarrold's design uses a standard
 glass aquarium as the foundation of a simple, effective fruiting chamber that can be

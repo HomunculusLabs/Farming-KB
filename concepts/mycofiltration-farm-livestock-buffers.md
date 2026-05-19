@@ -1,6 +1,6 @@
 ---
 title: Mycofiltration Farm Livestock Buffers
-source: [[antimicrobial-compounds-mushroom-mycelium]] can intercept, consume, and neutralize these biological contaminants before they reach downstream ecosystems.
+source: antimicrobial-compounds-mushroom-mycelium can intercept, consume, and neutralize these biological contaminants before they reach downstream ecosystems.
 ---
 
 ## The Scale of Agricultural Water Pollution

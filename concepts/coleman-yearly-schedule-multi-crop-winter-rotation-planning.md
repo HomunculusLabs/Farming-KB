@@ -6,7 +6,7 @@ topics:
   - winter harvest
   - crop rotation
   - yearly schedule
-  - [[jadam-vegetable-farming-techniques]]. The yearly schedule is built around the principle that winter production is not an extension of summer but an entirely distinct season with its own crops, timing logic, and management demands. The schedule revolves around three annual phases: the summer production season, the fall harvest and transition period, and the deep winter rest period. (see [[coleman-overwintered-onions-and-early-spring-crops]]—tomatoes, peppers, eggplants, cucumbers, melons, and sweet potatoes. Simultaneously, outdoor fields produce artichokes, beans, cabbage, cauliflower, celery, peas, summer squash, and many of the same greens that will later fill the winter houses.
+  - jadam-vegetable-farming-techniques. The yearly schedule is built around the principle that winter production is not an extension of summer but an entirely distinct season with its own crops, timing logic, and management demands. The schedule revolves around three annual phases: the summer production season, the fall harvest and transition period, and the deep winter rest period. (see coleman-overwintered-onions-and-early-spring-crops—tomatoes, peppers, eggplants, cucumbers, melons, and sweet potatoes. Simultaneously, outdoor fields produce artichokes, beans, cabbage, cauliflower, celery, peas, summer squash, and many of the same greens that will later fill the winter houses.
 ---
 
 While the summer crops [[coleman-mobile-greenhouse-system]]: it means that when the summer crop season ends in mid to late October, mature or near-mature winter crops are already waiting in the field to be covered.

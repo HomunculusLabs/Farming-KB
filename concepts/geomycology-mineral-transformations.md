@@ -3,7 +3,7 @@ title: Geomycology Mineral Transformations
 aliases:
   - geomycology
   - fungal biogeochemistry
-  - [[ectomycorrhizal-mineral-weathering-phosphate-mobilization-gadd]] by fungi
+  - ectomycorrhizal-mineral-weathering-phosphate-mobilization-gadd by fungi
   - fungal biomineralization
 tags:
   - mycology

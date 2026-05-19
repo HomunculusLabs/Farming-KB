@@ -12,7 +12,7 @@ sources:
   - Jermy, A.C. & Tutin, T.G. (1978). "Carex L." In: Flora Europaea, Vol. 5. Cambridge University Press.
   - Akeroyd, J.R. (1992). "Carex pilosa." In: Flora of Great Britain and Ireland, Vol. 5. CUP.
   - Ellmauer, T. & Mucina, L. (1993). "Carpinion betuli." In: Mucina, L. et al., Die Pflanzengesellschaften Österreichs, Teil I. Gustav Fischer.
-  - Pykälä, J. (2001). "Changes in the frequency of basidiomycete species in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]." Environmental [[fungal-ecology-forest-floor]], active in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects targeting oak-hornbeam forest reestablishment.
+  - Pykälä, J. (2001). "Changes in the frequency of basidiomycete species in dighton-fungi-acidifying-pollutants-forest-ecosystems." Environmental fungal-ecology-forest-floor, active in tropical-rainforest-seedling-mycorrhiza-ecological-restoration projects targeting oak-hornbeam forest reestablishment.
 ---
 
 ## Overview

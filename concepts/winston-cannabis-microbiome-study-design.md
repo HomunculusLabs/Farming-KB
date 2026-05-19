@@ -2,7 +2,7 @@
 title: Winston Cannabis Microbiome Study Design
 slug: "winston-cannabis-microbiome-study-design"
 tags: [microbiome, cannabis, research-methodology, 16s-rrna, experimental-design]
-source: understanding [[cannabis-microbiome-experimental-design]] to address complementary questions about Cannabis-associated [[cultivar-cannabis-microbiome-two-tier-selection-model]]
+source: understanding cannabis-microbiome-experimental-design to address complementary questions about Cannabis-associated cultivar-cannabis-microbiome-two-tier-selection-model
 - Cross-soil OTU sharing analysis between endorhiza and bulk soil
 ---
 

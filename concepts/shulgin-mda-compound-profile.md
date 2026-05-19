@@ -1,11 +1,11 @@
 ---
 title: MDA (3,4-Methylenedioxyamphetamine)
 source: shulgin-a-pihkal.md
-author: [[2c-b-pihkal-entry-20]] #100, extensively documented in Shulgin's catalogue. Its chemical name
+author: 2c-b-pihkal-entry-20 #100, extensively documented in Shulgin's catalogue. Its chemical name
 is 3,4-methylenedioxyamphetamine, occupying a central position as the parent compound from
 which both MDMA (N-methylation) and MDE (N-ethylation) are derived. MDA is humorously
-called one of the "Ten [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] —
-is a [[2c-c-pihkal-entry-22]] describes two methods:
+called one of the "Ten comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap —
+is a 2c-c-pihkal-entry-22 describes two methods:
 ---
 
 ### From Piperonal (via Nitrostyrene)

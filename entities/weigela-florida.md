@@ -16,7 +16,7 @@ sources:
   - Royal Horticultural Society (2024). "Weigela." https://www.rhs.org.uk/
   - Krüssmann, G. (1984). Manual  Broad-Leaved , belonging to
 the honeysuckle family. It is one of the most widely planted ornamental shrubs
-[[query-how-to-grow-and-use-oca-in-temperate-climates]] gardens worldwide.
+query-how-to-grow-and-use-oca-in-temperate-climates gardens worldwide.
 ---he species is renowned for its prolific tubular flowers, which range in color
 from soft pink to deep crimson depending on the cultivar. Blooming occurs in
 late spring, with many cultivars reblooming sporadically through summer.

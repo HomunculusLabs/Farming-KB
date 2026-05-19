@@ -117,3 +117,5 @@ Documentation of results enables continuous improvement and knowledge sharing.
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
 Collaborative networks facilitate rapid dissemination of innovations [[knf-imo-diversity-and-best-practices]].
+
+Understanding this topic in its broader ecological context enhances practical application.

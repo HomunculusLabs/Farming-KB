@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Buck, G.W., P.H. Dernoeden, & J.M. Vargas (2009). "Diseases and Disorders of Ornamental Palms." APS Press.
   - Sleper, D.A. & Buckner, R.C. (1995). "The Fescues." Crop Science Society of America.
-  - Bouton, J.H. (2009). "Endophyte-infected tall fescue and its use in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
+  - Bouton, J.H. (2009). "Endophyte-infected tall fescue and its use in oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide.
 ---
 
 The species is notable for its association with the fungal endophyte *Epichloë coenophiala*, which confers insect resistance and stress tolerance but produces ergot alkaloids toxic to livestock. Endophyte-free and novel endophyte varieties have been developed to mitigate this toxicity.

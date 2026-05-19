@@ -1,7 +1,7 @@
 ---
 title: Mckenna Sugar Addiction Slavery Dominator Culture
 source: mckenna_t-food_of_the_gods.md
-author: [[mckenna-food-gods-sugar-addiction-slavery]] are exemplified by bulimics who may binge on
+author: mckenna-food-gods-sugar-addiction-slavery are exemplified by bulimics who may binge on
 sugar-saturated food and then induce vomiting or use a laxative purge to
 enable them to eat more sugar. After alcohol and tobacco, sugar is the
 most damaging addictive substance consumed by human beings.

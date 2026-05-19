@@ -12,7 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Tutin, T.G. et al. (1976). "Flora Europaea, Vol. 4." Cambridge University Press.
-  - Meusel, H. & Jäger, E.J. (1992). "Comparative Chorology of the [[berry-growing]] but has not become widely naturalized.
+  - Meusel, H. & Jäger, E.J. (1992). "Comparative Chorology of the berry-growing but has not become widely naturalized.
 ---
 
 The species occurs in dry, nutrient-poor grasslands, heathlands, sand dunes, rocky outcrops, and open woodlands. It prefers calcareous or neutral soils with good drainage and full sun exposure. It is intolerant of heavy shade and waterlogged conditions.

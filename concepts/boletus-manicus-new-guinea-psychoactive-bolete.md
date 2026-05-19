@@ -1,8 +1,8 @@
 ---
 title: Boletus manicus — The New boletus manicus new guinea psychoactive bolete Bolete
 tags: [boletus, neurotropic-fungi, species-profile, new-guinea, boletaceae]
-source: "Guzmán, Allen & Gartz (1998) — World-Wide Distribution of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] documented in
-mycological literature. Unlike the vast majority of [[mexico-center-neurotropic-fungal-biodiversity]] species, placed in
+source: "Guzmán, Allen & Gartz (1998) — World-Wide Distribution of challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification documented in
+mycological literature. Unlike the vast majority of mexico-center-neurotropic-fungal-biodiversity species, placed in
 the subgenus Tubiporus.
 ---
 

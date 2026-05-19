@@ -17,7 +17,7 @@ sources:
   - Petrini, L.E. & Petrini, O. (1985). "Xylariaceous fungi as
     endophytes." Sydowia.
   - Fröhlich, J. & Hyde, K.D. (2000). "Biodiversity of saprotrophic
-    fungi." [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest
+    fungi." comparison-nutrient-cycling-vs-nutrient-dense-gardening in forest
 ecosystems.
 ---
 

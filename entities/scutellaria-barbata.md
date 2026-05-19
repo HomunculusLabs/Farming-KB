@@ -14,7 +14,7 @@ sources:
   - Wang, X. et al. (2018). "Anticancer activities of Scutellaria barbata extracts." Journal of Ethnopharmacology, 221, 17-29.
   - Zhou, L. et al. (2020). "Scutellarin from Scutellaria barbata: pharmacological effects and mechanisms." Phytomedicine, 67, 153161.
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. I.
-  - Wu, W. et al. (2021). "[[scutellaria-baicalensis]] (Huang Qin) but differs in its preferred wetland habitat and phytochemical profile.
+  - Wu, W. et al. (2021). "scutellaria-baicalensis (Huang Qin) but differs in its preferred wetland habitat and phytochemical profile.
 ---
 
 The species has attracted significant research interest for its potent anticancer, anti-inflammatory, and hepatoprotective properties. It is one of the most frequently prescribed herbs in modern Chinese anticancer formulations.

@@ -1,8 +1,8 @@
 ---
 title: "Straw Substrate Yeast Extract Enrichment Preparation"
-source: "Indoor [[boil-a-bag-mushroom-cultivation-method]], the substrate — the material in which [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]. Straw is an agricultural byproduct consisting of
+source: "Indoor boil-a-bag-mushroom-cultivation-method, the substrate — the material in which brassinosteroid-psilocybe-cubensis-mycelial-growth-research. Straw is an agricultural byproduct consisting of
 the dried stalks of cereal grains after the grain and chaff have been removed. It is widely
-available, inexpensive, and has been used in [[mycelial-colonization]], allowing the fungus to spread rapidly through the substrate.
+available, inexpensive, and has been used in mycelial-colonization, allowing the fungus to spread rapidly through the substrate.
 ---
 
 ## Chopping and Preparation

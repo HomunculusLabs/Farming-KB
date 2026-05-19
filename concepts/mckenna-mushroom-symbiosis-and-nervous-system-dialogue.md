@@ -1,7 +1,7 @@
 ---
 title: "mckenna mushroom symbiosis and nervous system dialogue and the Nervous System Dialogue"
 source: mckenna_t-tryptamines_consciousness.md
-topics: ["[[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]], particularly *Stropharia cubensis*. Rather
+topics: ["emcdda-psilocybin-non-addictive-profile-tolerance-dynamics, particularly *Stropharia cubensis*. Rather
 than treating the mushroom as a passive pharmacological agent,
 McKenna approached it as an intelligent interlocutor. The
 culmination of this dialogue is the mushroom's own self-

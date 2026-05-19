@@ -16,7 +16,7 @@ sources:
   - Oliveira, A.G., et al. (2015). "The decay of wood luminescence in ." bloomfield-fungal-biology-and-hyphal-growth, 119(8), 739–746.
   - Kotlobay, A.A., et al. (2018). "fukuoka-textdoc-genetic-engineering-critique-warning of hispidin biosynthesis in yeast." Proceedings of the National Academy of Sciences, 115(6), 1276–1281.
   - Stevani, C.V., et al. (2013). ", where it grows as a
-saprotroph on [[singh-fungal-biosensors-environmental-monitoring]], and
+saprotroph on singh-fungal-biosensors-environmental-monitoring, and
 synthetic biology applications.
 ---# Taxonomy and Morphology
 

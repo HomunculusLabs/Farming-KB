@@ -1,7 +1,7 @@
 ---
 title: Metzner Five Experience Features Entheogenic Shamanic Practice
-source: "[[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] and Plants in [[metzner-shamanic-ceremony-three-features-darkness-singing-silence]] of [[metzner-therapist-experiential-prerequisite-psychedelic-therapy]] features "found in the anthropological literature on the
-experiences of shamanistic indigenous societies with [[shamanic-healing-modalities-extraction-soul-retrieval-dismemberment]] — drumming, vision questing, conscious dreaming — confirming
+source: "metzner-hallucinogenic-drugs-psychotherapy-shamanism and Plants in metzner-shamanic-ceremony-three-features-darkness-singing-silence of metzner-therapist-experiential-prerequisite-psychedelic-therapy features "found in the anthropological literature on the
+experiences of shamanistic indigenous societies with shamanic-healing-modalities-extraction-soul-retrieval-dismemberment — drumming, vision questing, conscious dreaming — confirming
 that they are properties of the shamanic state of consciousness rather
 than pharmacological artifacts of any particular substance.
 ---

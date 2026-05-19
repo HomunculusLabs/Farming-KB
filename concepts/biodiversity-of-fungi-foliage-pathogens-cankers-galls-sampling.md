@@ -3,7 +3,7 @@ title: "Foliage Pathogens, Cankers, and Galls — Fungal Sampling Methods"
 source: "biodiversity-of-fungi-biodiversity-patterns-ecosystems (Mueller, Bills, Foster)"
 source_key: "unknown-biodiversity-of-fungi.md"
 topics: [mycology, fungal-biodiversity, plant-pathology, foliage-fungi, cankers, galls, sampling]
-aliases: [leaf pathogens, [[canker-fungi-and-gall-associated-fungi]], gall fungi, foliar parasites]
+aliases: [leaf pathogens, canker-fungi-and-gall-associated-fungi, gall fungi, foliar parasites]
 ---
 
 ## Foliage Pathogens, Cankers, and Galls — Fungal Sampling

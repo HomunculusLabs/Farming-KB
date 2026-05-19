@@ -4,7 +4,7 @@ created: 2026-05-08
 tags: [psilocybin, organic-chemistry, phosphorylation, zwitterion, benzyl-migration, NMR, shirota-synthesis, tryptamine-chemistry]
 date: 2026-05-08
 source: "Shirota, Hakamata & Goda (2003) — J. Nat. Prod. 66, 885–887"
-aliases: [zwitterionic [[psilocin]] using tetrabenzylpyrophosphate and n-BuLi (Shirota route, 2003), an unexpected intramolecular rearrangement converts the expected O,O-dibenzyl phosphate derivative into a zwitterionic N,O-dibenzyl phosphate. This migration was discovered when the crude product failed to dissolve in dichloromethane, and a new spot appeared at the origin on TLC. The zwitterionic nature of the rearranged product proved to be the key to scalable, chromatography-free psilocybin synthesis, raising isolated yields from psilocin from 20–47% to greater than 72%.
+aliases: [zwitterionic psilocin using tetrabenzylpyrophosphate and n-BuLi (Shirota route, 2003), an unexpected intramolecular rearrangement converts the expected O,O-dibenzyl phosphate derivative into a zwitterionic N,O-dibenzyl phosphate. This migration was discovered when the crude product failed to dissolve in dichloromethane, and a new spot appeared at the origin on TLC. The zwitterionic nature of the rearranged product proved to be the key to scalable, chromatography-free psilocybin synthesis, raising isolated yields from psilocin from 20–47% to greater than 72%.
 ---
 
 ## Context: The Phosphorylation Step
@@ -148,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[clamp-connection-formation-and-nuclear-migration]]
 - [[psilocybin-phosphorylation-via-zwitterionic-intermediate]]
 - [[shirota-acetyl-versus-benzyl-protection-psilocin-synthesis-stability-forensic-standards]]
-- [[shirota-zwitterion-discovery-intramolecular-benzyl-migration-phosphorylation]]

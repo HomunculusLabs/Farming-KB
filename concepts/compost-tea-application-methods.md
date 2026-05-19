@@ -3,7 +3,7 @@ title: Compost Tea Application Methods
 aliases: [compost tea application, tea application rates, foliar tea, soil drench, tea spraying, biological amendment]
 tags: [compost-tea, organic-agriculture, application-methods, foliar-spray, soil-drench, biocontrol, crop-management]
 created: 2026-05-09
-source: The Field Guide for Actively [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance
+source: The Field Guide for Actively endophytic-mycorrhizal-induced-systemic-resistance resistance
 - Providing nutrient supplementation (compost tea contains soluble nutrients)
 - Treating stressed plants with biological support
 ---

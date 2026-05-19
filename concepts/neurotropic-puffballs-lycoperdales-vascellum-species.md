@@ -1,8 +1,8 @@
 ---
 title: Neurotropic Puffballs and Vascellum Species — Lycoperdales as cattle-dispersal-psychoactive-fungi-australia
 tags: [lycoperdales, puffball, vascellum, neurotropic-fungi, mexico, ethnobotany]
-source: "Guzmán, Allen & Gartz (1998) — World-Wide Distribution of [[mexico-center-neurotropic-fungal-biodiversity]] species catalogued by Guzmán, Allen & Gartz
-(1998), one of the most surprising [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] communities
+source: "Guzmán, Allen & Gartz (1998) — World-Wide Distribution of mexico-center-neurotropic-fungal-biodiversity species catalogued by Guzmán, Allen & Gartz
+(1998), one of the most surprising guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names communities
 in a manner analogous to the use of Psilocybe species by the Mazatec and other
 groups.
 ---

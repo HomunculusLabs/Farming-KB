@@ -2,7 +2,7 @@
 title: comparison-jerusalem-artichoke-vs-potato
 created: 2026-04-28
 type: species
-scientific_name: [[polypore-fungi-eastern-north-america]] America and is now
+scientific_name: polypore-fungi-eastern-north-america America and is now
 cultivated or naturalized through much of the temperate world. The crop is also known as sunroot,
 sunchoke, topinambur, wild sunflower, and earth apple. Despite the name, it is neither from Jerusalem nor
 closely related to the globe artichoke; the artichoke comparison refers to tuber flavor. In permaculture

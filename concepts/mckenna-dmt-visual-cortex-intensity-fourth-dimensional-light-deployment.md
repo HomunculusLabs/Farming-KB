@@ -3,8 +3,8 @@ title: Mckenna Dmt Visual Cortex Intensity Fourth Dimensional Light Deployment
 source: mckenna_t-tryptamines_consciousness.md
 topics: ["DMT", "visual cortex", "hallucination", "tryptamine",
   "fourth dimension", "phenomenology", "consciousness",
-  "[[terence-mckenna]] identified a distinctive characteristic of the
-[[mckenna-dmt-onset-phenomenology-ripping-cellophane]], like someone crumpling up plastic
+  "terence-mckenna identified a distinctive characteristic of the
+mckenna-dmt-onset-phenomenology-ripping-cellophane, like someone crumpling up plastic
 film." An ascending tone accompanies this. Simultaneously the
 normal hallucinogenic modality appears: a shifting geometric
 surface of migrating colored forms.

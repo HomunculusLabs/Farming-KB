@@ -3,7 +3,7 @@ title: Plants and Music/Sound
 created: 2026-04-26
 aliases: [Dorothy Retallack, plant music experiments, sonic botany]
 tags: [botany, acoustics, music, plant-growth]
-related: [[tompkins-plant-electrical-signals]], [[cannabis-strain-south-indian-landrace-autofem-oner]] indian landrace autofem oner
+related: tompkins-plant-electrical-signals, cannabis-strain-south-indian-landrace-autofem-oner indian landrace autofem oner
 "Maya-malava-gaula raga" to mimosas for a fortnight, the experimental
 plants developed 66% more stomata per unit area, thicker epidermal
 walls, and palisade cells up to 50% longer and broader.

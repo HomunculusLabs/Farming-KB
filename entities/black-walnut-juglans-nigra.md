@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Jose, S. (2009). "Black Walnut (juglans-nigra L.): Ecological and Agroforestry Perspectives." Agroforestry Systems.
   - Rietveld, W.J. & Schreiber, J.D. (2011). "Juglone toxicity and its role in black walnut allelopathy." Journal of  America, valued for its high-quality timber, edible nuts, and its role in agroforestry and permaculture systems. The species is famous for producing **juglone** (5-hydroxy-1,4-naphthoquinone), an allelopathic compound that suppresses the growth of many plant species growing beneath its canopy — a property that makes black walnut both a challenging companion plant and a powerful weed management tool. Black walnut is one of the most economically valuable native *):** Similar but smaller; softer, lighter wood; oblong nuts with deeply ridged shells
-- **English walnut (*[[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] trees.
+- **English walnut (*north-american-dmt-containing-plants-phalaris-desmanthus-peganum trees.
 - **Leaves:** Pinnately compound, 30–60 cm long, with 15–23 leaflets. Leaflets are lanceolate, 6–12 cm long, yellow-green above, paler below with scattered hairs. Margins are finely serrate. Foliage has a distinctive, slightly spicy odor when crushed.
 - **Twigs:** Stout, brown to gray-brown, with chambered pith (a key diagnostic feature — cross-sections show dark chambers separated by lighter septa)
 - **Flowers:** Monoecious. Male catkins: pendulous, green-yellow, 5–10 cm long, appearing with or before leaves in spring. Female flowers: small, in clusters of 2–5 at twig tips, with bright red stigmas.

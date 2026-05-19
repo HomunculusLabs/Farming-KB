@@ -10,7 +10,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Landolt E (1986). "The Family of Lemnaceae — A Monographic Study." Veröffentlichungen des Geobotanischen Institutes ETH, Stiftung Rübel, Zürich.
-  - Cross JW (2002). "Lemnaceae." In: Flora [[constructed-wetland-design]].
+  - Cross JW (2002). "Lemnaceae." In: Flora constructed-wetland-design.
 ---
 
 ## Taxonomy and Morphology

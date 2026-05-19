@@ -2,9 +2,9 @@
 title: San Antonio Cased Grain Spawn Method — Origin of Modern Mini-Culture Techniques
 source: raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 author: Bigwood & Beug (1982), citing San Antonio (1971)
-topic: mycology, [[hplc-analysis-of-psilocybin-and-psilocin]] [[agaricus-bisporus]]*. This technique was subsequently refined by Oss and Oeric
+topic: mycology, hplc-analysis-of-psilocybin-and-psilocin agaricus-bisporus*. This technique was subsequently refined by Oss and Oeric
 (1976) and adapted into the "miniculture" format by Bigwood and Beug themselves,
-establishing a foundational [[indoor-morel-cultivation-protocol]] that would influence decades of
+establishing a foundational indoor-morel-cultivation-protocol that would influence decades of
 small-scale mushroom research.
 ---
 

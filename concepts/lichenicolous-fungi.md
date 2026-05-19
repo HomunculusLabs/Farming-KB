@@ -5,7 +5,7 @@ updated: 2026-04-16
 type: concept
 tags: lichens, either as parasites,
 commensals, or saprotrophs. They represent a diverse and specialized group
-found across multiple taxonomic lineages of [[fukuoka-natural-farming-in-tropical-regions]].
+found across multiple taxonomic lineages of fukuoka-natural-farming-in-tropical-regions.
 ---
 
 ## Taxonomic Distribution

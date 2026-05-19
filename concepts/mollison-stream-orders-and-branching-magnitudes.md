@@ -3,7 +3,7 @@ title: mollison stream orders and branching magnitudes and Branching Magnitudes
 created: 2026-04-26
 tags:
   - mollison-classification-of-events-and-orders-in-design
-- [[mollison-avenue-cropping-with-legumes]]
+- mollison-avenue-cropping-with-legumes
 ---
 
 ## Overview

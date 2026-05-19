@@ -1,7 +1,7 @@
 ---
 title: "Mckenna Food Of The Gods Exopheromones And Plant Communication"
 source: "food-of-the-gods.md"
-source_author: "[[plant-volatile-communication-chemical-ecology]]. If
+source_author: "plant-volatile-communication-chemical-ecology. If
 exopheromones exist, they imply a web of biochemical communication that
 links otherwise separate species into a single informational network.
 ---

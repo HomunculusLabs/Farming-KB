@@ -1,6 +1,6 @@
 ---
 title: Soil Chytridiomycete Isolation Baiting Techniques Mycology
-source: [[fungal-sclerotia-and-resting-structures]]) germinate and release zoospores that swim through the water
+source: fungal-sclerotia-and-resting-structures) germinate and release zoospores that swim through the water
 column. By introducing suitable bait materials — substrates that chytrids can
 colonize and digest — researchers can selectively attract zoospores to
 localized surfaces where they encyst, germinate, and establish visible colonies.

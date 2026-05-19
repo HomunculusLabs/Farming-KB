@@ -1,10 +1,10 @@
 ---
 title: Presporulating Mycelium as Trojan Horse Mycopesticides
-source: [[comparison-trichoderma-vs-entomopathogenic-fungi]]
-  - [[beauveria-bassiana]]
+source: comparison-trichoderma-vs-entomopathogenic-fungi
+  - beauveria-bassiana
   - presporulating mycelium
   - termite control
-  - [[biological-pest-control-balance]] emerged from Paul Stamets' observation that entomopathogenic fungi could be rendered invisible to their insect targets by inducing a presporulating (sporeless) state. Normally, insects detect and avoid the spores of pathogenic fungi like *Metarhizium anisopliae* and *[[mollison-designers-termite-and-ant-mound-niche-gardening]] nests can number in the millions of individuals, with sentry systems guarding the queen. If an infected individual is recognized, it is promptly killed and placed in a graveyard away from the nest. Insects detect entomopathogenic spores by smell and mobilize to prevent colony infection. Spore-carrying workers are refused entry, with several tiers of guards preventing disease-bearing insects from entering.
+  - biological-pest-control-balance emerged from Paul Stamets' observation that entomopathogenic fungi could be rendered invisible to their insect targets by inducing a presporulating (sporeless) state. Normally, insects detect and avoid the spores of pathogenic fungi like *Metarhizium anisopliae* and *mollison-designers-termite-and-ant-mound-niche-gardening nests can number in the millions of individuals, with sentry systems guarding the queen. If an infected individual is recognized, it is promptly killed and placed in a graveyard away from the nest. Insects detect entomopathogenic spores by smell and mobilize to prevent colony infection. Spore-carrying workers are refused entry, with several tiers of guards preventing disease-bearing insects from entering.
 ---
 
 Natural selection has given insects a decided advantage: they can detect infectious spores and avoid them. A fungus that always alerts its target with smelly spores would be selected against unless an alternative strategy existed for tricking insects to engage the fungus.

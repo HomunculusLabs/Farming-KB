@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Maslin, B.R. et al. (1999). "Acacia acuminata." Flora of Australia, CSIRO Publishing.
   - Lassak, E.V. & McCarthy, T. (2011). Australian Medicinal Plants. New Holland Publishers.
-  - Smith, J.A. et al. (2020). "[[bufotenin]]) in some populations.
+  - Smith, J.A. et al. (2020). "bufotenin) in some populations.
 ---
 
 The roots have not been found to contain significant tryptamine concentrations; the bark is the primary alkaloid-bearing tissue.

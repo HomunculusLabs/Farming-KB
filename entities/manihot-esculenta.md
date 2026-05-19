@@ -32,7 +32,7 @@ aliases:
   - tapioca plant
   - Brazilian arrowroot
   - manihot
-  - [[guzman-psilocybin-mushrooms-south-america]].
+  - guzman-psilocybin-mushrooms-south-america.
 ---he species is now cultivated across the global tropics between approximately 30°N and 30°S latitude.
 
 - **Major producers:** Nigeria (world's largest), Democratic Republic of Congo, Thailand, Indonesia, Brazil, Ghana, Mozambique, Cambodia, Vietnam, Angola.

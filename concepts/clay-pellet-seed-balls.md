@@ -10,7 +10,7 @@ tags:
   - natural-farming
   - sustainability
   - agriculture
-source: "the [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]  fukuoka"
+source: "the fukuoka-natural-way-of-farming-theory-of-natural-farming  fukuoka"
 ---
 
 ## Clay Pellet Seed Balls

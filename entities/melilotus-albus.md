@@ -1,19 +1,3 @@
----
-title: "Melilotus albus"
-type: species
-tags:
-  - fabaceae
-  - forage
-  - nitrogen-fixer
-  - invasive-species
-  - phytoremediation
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Smith, C.R. & Gorz, H.J. (1965. "Sweetclover improvement." Advances in Agronomy, 17, 163-231.
-  - Turkington, R. et al. (1978. "The biology of Canadian weeds: Melilotus alba." Canadian Journal of Plant Science, 58(2), 525-537.
-  - Baskin, J.M. & Baskin, C.C. (1999. "Ecology of [[melilotus-officinalis]].
----
 
 It is a biennial herb growing 1 to 3 meters tall with an erect, branching stem arising from a prominent taproot in its first year.
 
@@ -51,13 +35,13 @@ The species is an important nectar source for honeybees, producing a light, mild
 
 White sweetclover contributes substantial nitrogen to soils, with fixation rates estimated at 100 to 200 kilograms per hectare over its biennial life cycle.
 
-Its deep taproot penetrates compacted soil layers and brings nutrients from subsoil horizons to the surface through leaf litter decomposition.
+Its deep taproot penetrates compacted soil layers and brings nutrients from subsoil horizons to the surface through leaf litter [[decomposition]].
 
 In riparian systems, white sweetclover alters flood dynamics by increasing bank stability in the short term but reducing native vegetation structural diversity.
 
 Coumarin in foliage and seeds can cause sweetclover disease in livestock when moldy hay containing dicoumarol is consumed, leading to internal hemorrhaging.
 
-The species has been investigated for phytoremediation of hydrocarbon-contaminated soils, showing tolerance to petroleum compounds and promoting rhizosphere degradation.
+The species has been investigated for [[phytoremediation]] of hydrocarbon-contaminated soils, showing tolerance to petroleum compounds and promoting [[rhizosphere]] degradation.
 
 ## Cultivation and Uses
 
@@ -77,7 +61,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish melilotus albus
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -91,7 +75,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Melilotus Albus finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -148,4 +132,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[dictamnus-albus]]
 - [[lupinus-albus]]
-- [[melilotus-officinalis]]

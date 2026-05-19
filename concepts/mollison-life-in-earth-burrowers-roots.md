@@ -8,7 +8,7 @@ cut open the soil, it was thoroughly dug, aerated, and
 overturned by multitudes of industrious burrowers. The
 unploughed meadows of Europe and America are as soft as a great
 mattress, well aerated due to moles, gophers, worms, prairie
-dogs, rodents, and larvae eternally at work [[fungal-endophytes-agricultural-crops]] exploit from 0.6-4 m below the earth,
+dogs, rodents, and larvae eternally at work fungal-endophytes-agricultural-crops exploit from 0.6-4 m below the earth,
 some trees may penetrate to 50 m in deep desert sands. Around
 the roots of dune trees, calcium and other minerals are
 deposited as stone-like secretions by root-associated fungi and

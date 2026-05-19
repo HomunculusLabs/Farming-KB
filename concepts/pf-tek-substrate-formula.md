@@ -3,10 +3,10 @@ title: Pf Tek Substrate Formula
 created: 2026-05-09
 tags: [mycology, cultivation, substrate, psilocybe, vermiculite]
 date: 2026-05-09
-aliases: [PF Substrate, Brown [[pf-tek-psilocybe-fanaticus]]) substrate formula is a revolutionary [[pf-tek-psilocybe-fanaticus-cultivation-method]]) in the early 1990s. It represents a
+aliases: [PF Substrate, Brown pf-tek-psilocybe-fanaticus) substrate formula is a revolutionary pf-tek-psilocybe-fanaticus-cultivation-method) in the early 1990s. It represents a
 simplified approach to fungal cultivation that uses commonly available kitchen materials
 rather than specialized laboratory equipment. The formula combines brown rice powder with
-horticultural vermiculite and water to create an ideal growth medium for **[[stamets-saprophytic-mushroom-decomposer-succession]] species.
+horticultural vermiculite and water to create an ideal growth medium for **stamets-saprophytic-mushroom-decomposer-succession species.
 ---
 
 ## Core Ingredients

@@ -10,7 +10,7 @@ sources:
 centuries, possibly millennia. The rediscovery of these traditions by
 Western science in the mid-20th century, catalyzed by the work of R. Gordon
 Wasson, Roger Heim, and Rolf Singer, profoundly influenced both mycology and
-the broader study of [[psilocybin-chemistry-stability-indigenous-knowledge]] and colonial cultural
+the broader study of psilocybin-chemistry-stability-indigenous-knowledge and colonial cultural
 transformation.
 ---# Historical Overview
 

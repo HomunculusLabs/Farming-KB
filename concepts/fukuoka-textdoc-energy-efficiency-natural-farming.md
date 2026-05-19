@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - [[microdosing-theory-and-practice]] of [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] comparing five methods of rice cultivation, demonstrating that natural farming achieves dramatically higher energy returns than any mechanized approach.
+  - microdosing-theory-and-practice of fukuoka-energy-analysis-rice-production-natural-vs-mechanized comparing five methods of rice cultivation, demonstrating that natural farming achieves dramatically higher energy returns than any mechanized approach.
 ---
 
 His data showed that natural farming requires only one man-day of labor to recover 200,000 kilocalories of food energy from a quarter-acre of land.

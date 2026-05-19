@@ -1,9 +1,9 @@
 ---
 title: "Leaf Litter Microfungi Survey Methods"
-source: "[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller, Bills, Foster)"
+source: "biodiversity-of-fungi-biodiversity-patterns-ecosystems (Mueller, Bills, Foster)"
 source_key: "unknown-biodiversity-of-fungi.md"
 topics: [mycology, fungal-biodiversity, survey-methods, microfungi, leaf-litter, sampling]
-aliases: [litter fungi, leaf litter microfungi, [[leaf-litter-microfungal-diversity-tropical-temperate]]
+aliases: [litter fungi, leaf litter microfungi, leaf-litter-microfungal-diversity-tropical-temperate
 ---
 
 ## Leaf Litter Microfungi Survey Methods

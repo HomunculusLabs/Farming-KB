@@ -1,15 +1,15 @@
 ---
 title: "Boil A Bag Filter Can Construction"
-source: "Indoor [[jarrold-boil-a-bag-mushroom-cultivation-method]] developed
+source: "Indoor jarrold-boil-a-bag-mushroom-cultivation-method developed
 by D.H. Jarrold. It serves as a breathable yet contaminant-resistant barrier that allows gas
-exchange during [[oyster-mushroom-non-sterilized-substrate-cultivation]]. The filter can is inserted into the neck of the boil-a-bag and secured
-with tape, creating a self-contained [[contamination-prevention-in-mushroom-cultivation]], the mycelium requires oxygen to grow and produces carbon dioxide as a
+exchange during oyster-mushroom-non-sterilized-substrate-cultivation. The filter can is inserted into the neck of the boil-a-bag and secured
+with tape, creating a self-contained contamination-prevention-in-mushroom-cultivation, the mycelium requires oxygen to grow and produces carbon dioxide as a
 metabolic byproduct. In a sealed bag, the mycelium would quickly consume all available oxygen
 and suffocate. Conversely, an open bag would allow airborne mold spores and bacterial
-contaminants to enter and colonize the nutrient-rich substrate before the [[pf-tek-sterilization-and-inoculation-techniques]]. When
-secured in the bag's neck, it creates a sealed environment that can withstand [[spore]]
-- [[sterilization]]
-- [[boil-a-bag-pressure-sterilization-technique]]
+contaminants to enter and colonize the nutrient-rich substrate before the pf-tek-sterilization-and-inoculation-techniques. When
+secured in the bag's neck, it creates a sealed environment that can withstand spore
+- sterilization
+- boil-a-bag-pressure-sterilization-technique
 ---
 
 ## Overview

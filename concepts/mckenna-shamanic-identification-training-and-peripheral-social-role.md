@@ -1,7 +1,7 @@
 ---
 title: Mckenna Shamanic Identification Training And Peripheral Social Role
 source: mckenna_t-tryptamines_consciousness.md
-author: [[shamanism]], training, initiation, indigenous-knowledge, social-structure]
+author: shamanism, training, initiation, indigenous-knowledge, social-structure]
 ---
 
 ## Shamanic Identification, Training, and the Peripheral Social Role

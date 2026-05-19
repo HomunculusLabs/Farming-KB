@@ -6,7 +6,7 @@ tags:
  - plant-breeding
  - genetic-diversity
  - local-adaptation
- - [[green-cannabis-grow-bible-seed-selection-and-seed-banks]] saving. Rather than depending on commercial
+ - green-cannabis-grow-bible-seed-selection-and-seed-banks saving. Rather than depending on commercial
 seed suppliers, permaculture practitioners observe their growing conditions,
 identify the best-performing individual plants, and save seed exclusively
 from these elite performers to progressively improve their crop populations

@@ -1,7 +1,7 @@
 ---
 title: Mushroom Spawn Making Pure Culture
 slug: mushroom-spawn-making-pure-culture
-source: [[benjamin-duggar]]-mushroom-growing-history-and-methods (1915)
+source: benjamin-duggar-mushroom-growing-history-and-methods (1915)
 tags: [spawn, pure-culture, brick-spawn, mycelium, inoculation, mushroom-cultivation]
 ---
 

@@ -6,7 +6,7 @@ tags:
 ant-fungus partnership. The most significant of these is
 Escovopsis, a genus of ascomycete fungi that parasitizes
 the cultivated fungal gardens and represents a major
-threat to ant colonies. The evolutionary [[ant-termite-fungal-symbiosis]].
+threat to ant colonies. The evolutionary ant-termite-fungal-symbiosis.
 ---
 
 ## The Attine Ant-Fungus Mutualism

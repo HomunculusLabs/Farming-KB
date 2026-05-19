@@ -2,7 +2,8 @@
 title: "Mckenna Food Gods Shamanism Techniques Of Ecstasy Mircea Eliade"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/mckenna_t-tryptamines_consciousness.md"
 ---
 
 ## Eliade's "Techniques of Ecstasy"

@@ -1,6 +1,6 @@
 ---
 title: "Fukuoka's Happy Hill Rice: A Hardy Variety for Global Food Security"
-source: "The Natural Way of Farming — [[masanobu-fukuoka-natural-farming-philosophy]]'s contributions to agriculture, one of the most remarkable was his
+source: "The Natural Way of Farming — masanobu-fukuoka-natural-farming-philosophy's contributions to agriculture, one of the most remarkable was his
 development of a rice variety he named "Happy Hill." Created through decades of natural
 selection on his farm in Ehime Prefecture, Japan, Happy Hill rice is notable for combining
 the genetic hardiness of wild rice variants with some of the highest grain yields of any
@@ -8,12 +8,12 @@ rice strain in the world. Fukuoka described the variety as having been created "
 with the insects in my fields," emphasizing that its development was not the product of
 laboratory breeding programs or genetic manipulation but of a process of natural
 cultivation in which the rice plants were allowed to evolve and adapt to local conditions
-without the protection of pesticides, [[cho-loess-powder-in-natural-farming]] conditions were substantial.
+without the protection of pesticides, cho-loess-powder-in-natural-farming conditions were substantial.
 On his farm, Fukuoka generally observed about 250 heads of grain per square yard in his
 paddy fields, with an average of 200 grains per head, producing a harvest of
 approximately 33 bushels for every quarter-acre. He reported consistently harvesting close
 to 22 bushels of rice per quarter-acre, with a goal of eventually achieving 33 bushels.
-Through [[fungi-around-the-world-species-distribution]]. He calculated that if a single head of Happy Hill
+Through fungi-around-the-world-species-distribution. He calculated that if a single head of Happy Hill
 rice were sent across the sea to a country where food is scarce and there sown over a ten-
 square-yard area, a single grain would yield 5,000 grains in one year's time. There would
 be grain enough to sow a half-acre the following year, fifty acres two years hence, and

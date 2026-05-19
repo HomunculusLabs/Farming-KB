@@ -13,7 +13,7 @@ sources:
   - USDA NRCS (2024). "Aesculus flava." PLANTS Database.
   - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agriculture Handbook 541.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[guzman-psilocybin-mushrooms-north-america]] and Europe. Its tolerance of urban conditions is moderate, though it performs best in areas with reliable growing-season moisture.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics guzman-psilocybin-mushrooms-north-america and Europe. Its tolerance of urban conditions is moderate, though it performs best in areas with reliable growing-season moisture.
 ---
 
 ## Taxonomy and Morphology

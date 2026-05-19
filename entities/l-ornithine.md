@@ -74,3 +74,8 @@ Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
+
+## Practical Notes
+
+Understanding l ornithine requires attention to both theoretical foundations and practical implementation.
+Field observations consistently demonstrate the importance of contextual factors in determining outcomes.

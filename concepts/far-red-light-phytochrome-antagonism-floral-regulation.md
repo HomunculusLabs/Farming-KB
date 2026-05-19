@@ -15,7 +15,7 @@ tags:
   - photomorphogenesis
   - plant-senses
 source:
-  - "[[phytochrome-signaling-plant-light-perception]] signalling system that controls flowering in plants. Discovered by Borthwick, Hendricks, and colleagues in the early 1950s, the red/far-red reversibility of photoperiodic responses revealed that a single photoreceptor could exist in two interconvertible forms, each responding to a different wavelength and producing opposite biological effects.
+  - "phytochrome-signaling-plant-light-perception signalling system that controls flowering in plants. Discovered by Borthwick, Hendricks, and colleagues in the early 1950s, the red/far-red reversibility of photoperiodic responses revealed that a single photoreceptor could exist in two interconvertible forms, each responding to a different wavelength and producing opposite biological effects.
 ---
 
 Far-red light converts the active phytochrome form (Pfr) back to the inactive form (Pr), effectively cancelling any flowering signal initiated by red light. This antagonistic relationship is one of the most elegant examples of molecular signal switching in plant biology, and it has profound practical implications for agriculture, horticulture, and [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]]. At sunset, the ratio of red to far-red light drops dramatically because sunlight passes through a longer atmospheric path and because chlorophyll in vegetation preferentially absorbs red while transmitting far-red. This natural far-red enrichment at dusk converts remaining Pfr to Pr, providing a reliable daily signal that night is beginning.

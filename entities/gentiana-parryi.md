@@ -11,7 +11,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Parry, C.C. (1877). "Botanical Explorations in Colorado." American Naturalist.
-  - Gray, A. (1880). "Synoptical Flora [[dmt-containing-plants-united-states-halpern]].
+  - Gray, A. (1880). "Synoptical Flora dmt-containing-plants-united-states-halpern.
 ---
 
 The species produces striking deep blue to violet-blue funnel-shaped flowers, typically blooming in mid to late summer. It is named after Charles Christopher Parry, a prominent 19th-century American botanist who collected extensively in the Rocky Mountains.

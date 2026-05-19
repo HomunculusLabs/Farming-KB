@@ -1,6 +1,6 @@
 ---
 title: Windbreak Establishment And Benefits
-source: [[permaculture]], particularly on exposed sites. The chill factor — the removal of heat from surfaces and evaporation of fluids — creates cool to [[query-best-kiwifruit-varieties-for-cold-climates]] in the tropics at lower altitudes than adiabatic or altitude factors would indicate. This chill factor retards plant growth and lowers the efficiency of solar devices and insulation. In cyclonic or hurricane areas, catastrophic winds may become the overriding design consideration around which all other factors must be arranged.
+source: permaculture, particularly on exposed sites. The chill factor — the removal of heat from surfaces and evaporation of fluids — creates cool to query-best-kiwifruit-varieties-for-cold-climates in the tropics at lower altitudes than adiabatic or altitude factors would indicate. This chill factor retards plant growth and lowers the efficiency of solar devices and insulation. In cyclonic or hurricane areas, catastrophic winds may become the overriding design consideration around which all other factors must be arranged.
 ---
 
 ## Windbreak Design Strategy

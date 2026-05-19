@@ -117,3 +117,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[magic-mushroom-markets-europe]]
 - [[shirota-forensic-standard-compounds-magic-mushroom-identification]]
 - [[shirota-japan-2002-magic-mushroom-regulation-forensic-analysis]]
+
+Understanding this topic in its broader ecological context enhances practical application.

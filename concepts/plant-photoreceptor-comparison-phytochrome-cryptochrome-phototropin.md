@@ -1,13 +1,13 @@
 ---
 title: Comparison of Major Plant Photoreceptor Families
 slug: plant-photoreceptor-comparison-phytochrome-cryptochrome-phototropin
-source: "What a Plant Knows by [[rhodopsin-photopsins-animal-visual-pigments-plant-photoreceptor-parallels]] system. As
+source: "What a Plant Knows by rhodopsin-photopsins-animal-visual-pigments-plant-photoreceptor-parallels system. As
 Daniel Chamovitz describes in "What a Plant Knows," plants "see" ultraviolet,
 visible, and infrared light — a far wider range than human eyes, which are
 limited to a narrow band between roughly 400 and 700 nanometers. Plant
 photoreception is not about forming images; rather, it extracts biologically
 critical information from light: its color (wavelength), direction, intensity,
-and duration. Three major families dominate [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] Center, phytochrome exists in two
+and duration. Three major families dominate fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research Center, phytochrome exists in two
 interconvertible molecular forms. The inactive form, Pr, absorbs red light at
 approximately 660 nanometers; upon absorbing a red photon, it isomerizes into
 the active form, Pfr, which absorbs far-red light at approximately 730

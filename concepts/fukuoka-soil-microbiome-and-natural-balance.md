@@ -1,10 +1,10 @@
 ---
 title: Fukuoka's Soil fukuoka soil microbiome and natural balance Balance
 source: administrator-microsoft-word-fukuoka-textdoc.md
-topics: soil ecology, microorganisms, [[natural-farming]] rests on a profound understanding of
+topics: soil ecology, microorganisms, natural-farming rests on a profound understanding of
 soil ecology that anticipated modern microbiome science by decades. His
-observations about the role of microorganisms, [[mycorrhizal-networks]], the role
-of soil [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] have all validated his core
+observations about the role of microorganisms, mycorrhizal-networks, the role
+of soil comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol have all validated his core
 insights. His work demonstrates that careful, patient observation of
 natural systems can yield understanding that formal scientific
 methodology, when applied reductively, may miss entirely.

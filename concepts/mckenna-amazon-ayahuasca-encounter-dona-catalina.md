@@ -1,6 +1,6 @@
 ---
 title: McKenna's Amazon Ayahuasca Encounter with Dona Catalina
-source: Food of the Gods - [[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]]
+source: Food of the Gods - terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence
 tags: [mckenna, ayahuasca, amazon, shamanism, dona-catalina, visionary, colombia, putumayo]
 created: 2026-05-11
 ---

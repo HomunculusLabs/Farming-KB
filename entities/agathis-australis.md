@@ -13,7 +13,7 @@ updated: 2026-05-09
 sources:
   - ecological Society of New Zealand (1999). "The Kauri (Agathis australis) of New Zealand." Proceedings of the Ecological Society, 17, 1-42.
   - Halkett, A. (1921). "The Kauri Tree of New Zealand." New Zealand Forest Service Bulletin.
-  - Ogden, J. & Stewart, G.H. (1995). "[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], with historical specimens exceeding 5 meters in trunk diameter and 2,000 years in age.
+  - Ogden, J. & Stewart, G.H. (1995). "guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi, with historical specimens exceeding 5 meters in trunk diameter and 2,000 years in age.
 ---
 
 The species is of immense ecological, cultural, and economic significance in New Zealand. Kauri forests once dominated much of the northern North Island but were extensively logged during the 19th and 20th centuries.

@@ -1,6 +1,6 @@
 ---
 title: Metzner Shamanic Ceremony Three Features Darkness Singing Silence
-source: "Ralph Metzner — Hallucinogenic Drugs and Plants in [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]] (1998)"
+source: "Ralph Metzner — Hallucinogenic Drugs and Plants in hallucinogenic-drugs-in-psychotherapy-and-shamanism (1998)"
 topic: "shamanic-ceremony-structure"
 tags:
   - shamanic-ritual

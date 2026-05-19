@@ -1,6 +1,6 @@
 ---
 title: Endophytic Fungi Sampling Methods Colonization Patterns
-source: "[[dighton-fungal-drought-tolerance-plant-water-relations]] in exchange for nutrition and
+source: "dighton-fungal-drought-tolerance-plant-water-relations in exchange for nutrition and
 dispersal.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Pf Tek Brown Rice Vermiculite Substrate Method
-source: PF TEK - [[pf-tek-substrate-formula]] method, developed by Robert "Psilocybe Fanaticus" McPherson, represents one of the most significant innovations in the history of amateur [[substrate-preparation]] for broader context on [[pf-tek-substrate-formula-details]] consists of three simple ingredients combined in specific proportions:
+source: PF TEK - pf-tek-substrate-formula method, developed by Robert "Psilocybe Fanaticus" McPherson, represents one of the most significant innovations in the history of amateur substrate-preparation for broader context on pf-tek-substrate-formula-details consists of three simple ingredients combined in specific proportions:
 ---
 
 - **Brown rice powder (BRP)**: 1/8 cup

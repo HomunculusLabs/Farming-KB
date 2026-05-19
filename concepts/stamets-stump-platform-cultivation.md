@@ -1,11 +1,11 @@
 ---
 title: Stamets Stump Platform Cultivation
 source:
-  author: "[[paul-stamets]]"
-  title: "Growing Gourmet and [[stamets-outdoor-natural-culture-methods]],
+  author: "paul-stamets"
+  title: "Growing Gourmet and stamets-outdoor-natural-culture-methods,
   this technique transforms waste wood into productive fungal habitat, offering
   advantages over log culture including extended productive life, reduced labor,
-  and [[ginseng-cultivation-and-medicinal-properties]]. Slow growth is well-matched
+  and ginseng-cultivation-and-medicinal-properties. Slow growth is well-matched
 to the extended productive life of stumps.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Holmgren Design Thinking Guidelines - The Problem Is the Solution
 source: david-holmgren-permaculture-principles-pathways-beyon.md
-source_author: [[david-holmgren]]
+source_author: david-holmgren
 extracted: 2026-05-10
 tags: [permaculture, design-thinking, holmgren, problem-is-solution, observation, minimal-intervention, systems-thinking]
 ---

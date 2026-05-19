@@ -1,6 +1,6 @@
 ---
 title: Complete Organic Fertilizer Cof Recipe And Application
-source: gardening-when-it-counts-steve-[[solomon-complete-organic-fertilizer-cof-recipe|solomon]].md
+source: gardening-when-it-counts-steve-solomon-complete-organic-fertilizer-cof-recipe|solomon.md
 type: concept
 ---
 

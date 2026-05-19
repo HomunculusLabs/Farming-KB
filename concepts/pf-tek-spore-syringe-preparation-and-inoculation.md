@@ -1,9 +1,9 @@
 ---
 title: Pf Tek Spore Syringe Preparation And Inoculation
-source: PF TEK - [[spore-syringe]] preparation and inoculation are fundamental techniques in the PF
+source: PF TEK - spore-syringe preparation and inoculation are fundamental techniques in the PF
 TEK method. The spore syringe serves as both the inoculation tool and the
-primary means of preserving and distributing [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]]
-- [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]
+primary means of preserving and distributing query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation
+- flammability-hazard-alcohol-lysol-flame-sterilization-mycology
 ---
 
 ### Process

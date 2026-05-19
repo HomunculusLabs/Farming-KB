@@ -77,3 +77,5 @@ The principal bioactive constituents are steroidal saponins, comprising 1.5–2.
 Major saponins include sarsasaponin, smilasaponin, and parillin, all yielding the sapogenins sarsasapogenin and smilagenin upon hydrolysis.
 
 Additional constituents include flavonoids (astilbin, [[stigmasterol]]).
+
+Understanding this topic in its broader ecological context enhances practical application.

@@ -10,7 +10,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Cook, C.D.K. & Nicholls, M.S. (1986). "A Monographic Study of the Genus Sparganium." Cramer, Vaduz.
-  - Kaul, R.B. (2002). "Sparganium in Flora [[guzman-psilocybin-mushrooms-north-america]], where it grows in shallow marshes, pond margins, and slow-moving streams.
+  - Kaul, R.B. (2002). "Sparganium in Flora guzman-psilocybin-mushrooms-north-america, where it grows in shallow marshes, pond margins, and slow-moving streams.
 ---
 
 The species is recognized by its narrow, ribbon-like leaves and distinctive spherical bur-like fruiting heads.

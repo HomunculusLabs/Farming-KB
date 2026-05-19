@@ -1,6 +1,6 @@
 ---
 title: Tidal Fisheries And Salicornia Flat Aquaculture
-source: bill-[[mollison-salicornia-flats-and-estuarine-aquaculture|mollison]]-permaculture-two-practical-design-for-to.md
+source: bill-mollison-salicornia-flats-and-estuarine-aquaculture|mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 

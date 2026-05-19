@@ -1,11 +1,11 @@
 ---
 title: "Fungal Database and Specimen Data Management"
-source: "[[mycology]], database-design, specimen-data, biodiversity-informatics, data-management]
-aliases: [fungal databases, specimen management, [[biodiversity-fungal-biodiversity-estimation-methods]] data is essential for inventory,
+source: "mycology, database-design, specimen-data, biodiversity-informatics, data-management]
+aliases: [fungal databases, specimen management, biodiversity-fungal-biodiversity-estimation-methods data is essential for inventory,
 monitoring, and comparative studies. Modern database software enables
 researchers to design applications that serve both personal research needs and
-the broader biodiversity community. A well-designed [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]]
-- [[biodiversity-of-fungi-fungal-survey-design-baseline-monitoring]]
+the broader biodiversity community. A well-designed biodiversity-of-fungi-herbarium-specimen-curation-best-practices
+- biodiversity-of-fungi-fungal-survey-design-baseline-monitoring
 ---
 
 ## Overview

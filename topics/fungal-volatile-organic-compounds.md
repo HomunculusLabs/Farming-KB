@@ -74,3 +74,10 @@ Fungal volatiles are also relevant to biofuel production, where ethanol, butanol
 Solid-phase microextraction (SPME) using fibers coated with divinylbenzene/carboxen/polydimethylsiloxane (DVB/CAR/PDMS) is the standard method for capturing FVOCs. Headspace samples are collected from fungal cultures in sealed vials, with the SPME fiber exposed for 15–60 minutes depending on emission rates. Thermal desorption of the fiber directly into a gas chromatograph provides sensitive detection down to ng/L concentrations.
 
 ### Gas Chromatography-Mass Spectrometry (GC-MS)
+
+## See Also
+
+- [[singh-fungal-volatile-organic-compounds-biodegradation]]
+- [[fungal-volatile-organic-compounds-vocs-chemistry-ecology]]
+- [[fungal-volatile-organic-compounds-communication]]
+- [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]

@@ -1,8 +1,8 @@
 ---
 title: Cannabis Endophytes and Terroir
 aliases:
-  - [[cannabis-root-microbiome]] is shaped by both soil conditions (which vary by
-location) and host cultivar, and that [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]].
+  - cannabis-root-microbiome is shaped by both soil conditions (which vary by
+location) and host cultivar, and that cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis.
 ---
 
 This finding suggests that the microbial communities associated with cannabis roots may

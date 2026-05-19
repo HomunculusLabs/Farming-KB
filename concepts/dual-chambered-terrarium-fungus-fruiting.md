@@ -1,7 +1,7 @@
 ---
 title: Dual-Chambered Terrarium Fungus Fruiting
-source: PF TEK [[comparison-laminar-flow-hood-vs-fruiting-chamber]] design
-originating from the PF TEK [[brassinosteroid-effects-on-fungal-fruiting-morphology]] bodies.
+source: PF TEK comparison-laminar-flow-hood-vs-fruiting-chamber design
+originating from the PF TEK brassinosteroid-effects-on-fungal-fruiting-morphology bodies.
 ---
 
 ## Core Design Concept

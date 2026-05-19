@@ -11,7 +11,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Fedorov, A.A. & Kovanda, M. (1978). "Campanula." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 4. Cambridge University Press.
-  - Kovanda, M. (1977). "Polyploidy and Variation in the [[campanula-scheuchzeri]].
+  - Kovanda, M. (1977). "Polyploidy and Variation in the campanula-scheuchzeri.
 ---
 
 The species has no significant horticultural or economic use, though it is occasionally included in wildflower seed mixes for alpine meadow restoration projects. Its ecological value lies in its contribution to montane grassland diversity.

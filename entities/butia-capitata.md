@@ -13,7 +13,7 @@ updated: 2026-05-09
 sources:
   - Noblick, L.R. (2010). "A revision of the genus Butia (Arecaceae)." Ph.D. thesis, City University of New York.
   - Lorenzi, H., Kahn, F., Noblick, L.R., Ferreira, E. (2010). "Flora Brasileira: Arecaceae (Palmeiras)." Instituto Plantarum de Estudos da Flora.
-  - Rech, A.C., Pufal, M., Santos, S.E. (2014). "Phenology and [[guzman-psilocybin-mushrooms-south-america]]. Several Butia species are endangered due to habitat loss and overharvesting.
+  - Rech, A.C., Pufal, M., Santos, S.E. (2014). "Phenology and guzman-psilocybin-mushrooms-south-america. Several Butia species are endangered due to habitat loss and overharvesting.
 ---
 
 The species is increasingly valued in permaculture and food forestry for its edible fruits, ornamental qualities, and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].

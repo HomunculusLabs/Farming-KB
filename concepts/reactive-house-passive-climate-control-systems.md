@@ -1,6 +1,6 @@
 ---
 title: Reactive House Passive Climate Control Systems
-source: bill-[[mollison-pdc-trellis-systems-climate-control|mollison]]-permaculture-two-practical-design-for-to.md
+source: bill-mollison-pdc-trellis-systems-climate-control|mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 

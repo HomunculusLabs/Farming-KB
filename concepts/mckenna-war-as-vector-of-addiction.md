@@ -2,7 +2,8 @@
 title: "Mckenna War As Vector Of Addiction"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/mckenna_t-tryptamines_consciousness.md"
 ---
 
 ## Morphine and the American Civil War

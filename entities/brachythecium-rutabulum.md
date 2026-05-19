@@ -13,8 +13,8 @@ sources:
   - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed. Cambridge University Press.
   - Crum, H. (2004). "Mosses of the Great Lakes Forest." University of Michigan Herbarium.
   - Flora , thriving in
-both natural woodlands and [[dmt-containing-plants-united-states-halpern]], with highest abundance in the Northeast and Pacific
-Northwest. It is notably absent from [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and desiccation.
+both natural woodlands and dmt-containing-plants-united-states-halpern, with highest abundance in the Northeast and Pacific
+Northwest. It is notably absent from dighton-nitrogen-deposition-mycorrhizal-community-shifts and desiccation.
 ---he species plays an important role in initial substrate stabilization on
 disturbed ground, trapping sediment and organic particles to facilitate soil
 development. In urban ecosystems, it contributes to green infrastructure by

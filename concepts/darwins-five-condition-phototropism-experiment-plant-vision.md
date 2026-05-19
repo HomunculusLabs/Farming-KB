@@ -3,8 +3,8 @@ title: Darwin's Five-Condition Phototropism Experiment and Plant Vision
 created: 2026-05-11
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [darwin, phototropism, phototropism, plant-vision, canary-grass, seedling-tip, light-perception]
-aliases: [[darwin-phototropism-experiments-plant-vision]], conducted with his son Francis and published
-in "The [[chamovitz-ultraviolet-and-infrared-plant-light-perception]].
+aliases: darwin-phototropism-experiments-plant-vision, conducted with his son Francis and published
+in "The chamovitz-ultraviolet-and-infrared-plant-light-perception.
 ---
 
 **Condition C (Tip covered with opaque cap):** The tip was covered with a

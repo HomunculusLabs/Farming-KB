@@ -11,7 +11,7 @@ updated: 2026-05-09
 sources:
   - Edgar, J.A., et al. (2011). "Pyrrolizidine alkaloids in food: a spectrum of potentially toxic compounds." Food Additives & Contaminants, 28(1), 59-71.
   - Rietjens, I.M., et al. (2005). "The potential toxicity of natural toxins in food: pyrrolizidine alkaloids." Food and Chemical Toxicology, 43(9), 1381-1390.
-  - Lüthy, J., et al. (1983). "Pyrralizidin-Alkaloide in Klee ([[extending-growing-season]]. This trait, combined with prolific seed production, makes it a persistent weed in cultivated fields, gardens, and [[guzman-psilocybin-mushrooms-north-america]], with archaeological records confirming its presence in colonial-era settlements. Its association with human habitation and agriculture has facilitated its global dispersal over several centuries.
+  - Lüthy, J., et al. (1983). "Pyrralizidin-Alkaloide in Klee (extending-growing-season. This trait, combined with prolific seed production, makes it a persistent weed in cultivated fields, gardens, and guzman-psilocybin-mushrooms-north-america, with archaeological records confirming its presence in colonial-era settlements. Its association with human habitation and agriculture has facilitated its global dispersal over several centuries.
 ---
 
 ## Taxonomy and Morphology

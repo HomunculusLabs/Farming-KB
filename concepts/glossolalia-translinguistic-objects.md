@@ -3,7 +3,7 @@ title: Glossolalia and Translinguistic Objects
 created: 2026-05-09
 source: mckenna_t-tryptamines_consciousness.md
 tags: [glossolalia, dmt, language, psychedelics, mcKenna, logos]
-aliases: [speaking in tongues, DMT language, [[terence-mckenna]] argued that DMT "invokes the Logos" by acting
+aliases: [speaking in tongues, DMT language, terence-mckenna argued that DMT "invokes the Logos" by acting
 directly on brain regions involved in language generation.
 ---
 

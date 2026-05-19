@@ -1,8 +1,8 @@
 ---
 title: Fukuoka International Nature University Peace March
-author: [[comparison-natural-farming-vs-permaculture]] and ecological consciousness across the globe. This proposal was deeply
+author: comparison-natural-farming-vs-permaculture and ecological consciousness across the globe. This proposal was deeply
 connected to his participation in the **Paris Peace March** and his broader conviction
-that [[fungi-around-the-world-species-distribution]] could come together to learn the methods and philosophy of natural
+that fungi-around-the-world-species-distribution could come together to learn the methods and philosophy of natural
 farming. The curriculum would extend far beyond agronomy to encompass the philosophy of
 **mu** (nothingness) and the principle of non-intervention with nature. Students would
 learn that the most productive approach to the land is to stop interfering with it

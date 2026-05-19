@@ -15,7 +15,7 @@ sources:
   - Brüne, S. et al. (2018). "Pharmacological profiling of NBOMe compounds at 5-HT2A and 5-HT2C receptors." Biochemical Pharmacology 158: 321-328.
   - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews 68(2): 264-355.
   - Suzuki, J. et al. (2015). "25B-NBOMe-related death." Journal of Analytical Toxicology 39(8): 644-646.
-  - EMCDDA (2014). "Risk assessment of [[25i-nbome]]." EMCDDA-Europol.---
+  - EMCDDA (2014). "Risk assessment of 25i-nbome." EMCDDA-Europol.---
 ---
 
 ## 25B-NBOMe

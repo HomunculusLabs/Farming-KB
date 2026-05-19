@@ -1,7 +1,7 @@
 ---
 title: The Scythians and Cannabis — Ancient Inhalation Practices in Central Asia
 source: mckenna_t-food_of_the_gods.md
-author: [[mckenna-scythian-cannabis-ritual-smoke-bath-herodotus]] use. The comparison to [[hashish]]
+author: mckenna-scythian-cannabis-ritual-smoke-bath-herodotus use. The comparison to hashish
 and tobacco. How long chelums have been used in India is debated, but
 the method is extremely effective.
 ---

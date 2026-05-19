@@ -76,3 +76,7 @@ A classic permaculture tree guild: **Apple** (primary food), **Comfrey** (dynami
 **Tomato** (main crop) with: **Basil** (repels hornworms/aphids; may improve flavor), **Marigold** (repels root-knot nematodes/whiteflies), **Carrot** (different soil depth; breaks soil), **Borage** (pollinators; trace minerals; hornworm repellent), **Nasturtium** (aphid trap crop).
 
 ### The Medicinal Herb Guild
+
+## See Also
+
+[[solomon-companion-planting-evidence-based]], [[query-what-is-companion-planting-and-how-does-it-work]], [[query-how-to-use-companion-planting-in-your-garden]]

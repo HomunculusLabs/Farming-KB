@@ -11,7 +11,7 @@ updated: 2026-04-28
 sources:
   - cannabis-strain-super-lemon-haze-greenhouse-seed-co. (2000s). Sensi Star strain documentation.
   - Leafly Strain Database. "Sensi Star." leafly.com.
-  - AllBud. "Sensi Star [[blesching-cannabis-strain-selection-receptor-targeting]] originally bred by Paradise Seeds in the Netherlands.
+  - AllBud. "Sensi Star blesching-cannabis-strain-selection-receptor-targeting originally bred by Paradise Seeds in the Netherlands.
 ---
 
 It won the High Times Cannabis Cup in 1999, establishing its reputation among elite legacy varieties.

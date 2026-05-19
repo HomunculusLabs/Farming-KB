@@ -3,7 +3,7 @@ title: emcdda-psilocybin-mushroom-dose-and-effects Health Risks and Pharmacology
 source: carolina-mushrooms_08qxp.md
 mined: 2026-05-08
 tags: [psilocybin, pharmacology, health-risks, mushrooms, serotonin]
-aliases: [psilocybin effects, [[set-and-setting]]
+aliases: [psilocybin effects, set-and-setting
 - Philosophical or spiritual insights
 - Enhanced appreciation of music and art
 - Difficulty distinguishing imagination from external perception

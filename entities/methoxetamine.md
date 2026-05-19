@@ -77,3 +77,5 @@ psychoactive substance (NPS) [[mckenna-modest-proposal-drug-policy-reform]].
   impairment, nausea, elevated heart rate and blood pressure, pupil dilation,
   nystagmus, loss of coordination
 - **Cognitive:** Dissociation from body and environment, [[psilocybin-ego-dissolution-mechanisms]],
+
+Understanding this topic in its broader ecological context enhances practical application.

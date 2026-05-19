@@ -1,7 +1,7 @@
 ---
 title: Emcdda Internet Resources Magic Mushroom Websites
 tags: [emcdda, internet, information, community, harm-reduction, europe]
-source: "EMCDDA (2006) — [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] (2006) documented the extensive network
+source: "EMCDDA (2006) — emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006 (2006) documented the extensive network
 of websites that had developed specifically to provide information on magic
 mushrooms, including identification guides, cultivation instructions, dosage
 information, legal resources, trip reports, and community forums. This online

@@ -12,7 +12,7 @@ sources:
   - Hall, I.R. et al. (2003). "Edible mycorrhizal-mushrooms and Their Cultivation." CRC Press.
   - Tulloss, R.E. (1998). "Amanita — distribution, taxonomy, & usage." https://www.amanitaceae.org
   - Boa, E. (2004). "Wild Edible Fungi: A Global Overview of Their Use and Importance to People." FAO.
-  - Consiglio, G. et al. (2002). "[[edible-wild-mushrooms-by-region]] in European gastronomy.
+  - Consiglio, G. et al. (2002). "edible-wild-mushrooms-by-region in European gastronomy.
 ---
 
 The species is easily recognized by its brilliant orange-red cap, white gills, prominent

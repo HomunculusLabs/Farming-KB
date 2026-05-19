@@ -1,6 +1,6 @@
 ---
 title: Urban Permaculture Design Strategies
-source: bill-[[mollison-designers-community-garden-design-urban-permaculture|mollison]]-permaculture-design-course.md
+source: bill-mollison-designers-community-garden-design-urban-permaculture|mollison-permaculture-design-course.md
 type: concept
 ---
 

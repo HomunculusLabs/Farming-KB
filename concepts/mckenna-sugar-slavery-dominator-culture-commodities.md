@@ -7,7 +7,7 @@ topics:
   - slavery
   - dominator-culture
   - colonialism
-  - [[terence-mckenna]] positions sugar not merely as a dietary ingredient but as a central pillar of what he calls "dominator culture" — the hierarchical, patriarchal, and expansionist social formation that arose with the decline of partnership societies and the loss of the mushroom-centered ecstatic religions of antiquity. Sugar, McKenna argues, is a drug whose addictive properties drove some of the most brutal chapters of European colonial history, including the transatlantic slave trade. Its role in fueling the [[mckenna-food-gods-sugar-addiction-slavery]] describes patterns indistinguishable from those of recognized substance dependencies.
+  - terence-mckenna positions sugar not merely as a dietary ingredient but as a central pillar of what he calls "dominator culture" — the hierarchical, patriarchal, and expansionist social formation that arose with the decline of partnership societies and the loss of the mushroom-centered ecstatic religions of antiquity. Sugar, McKenna argues, is a drug whose addictive properties drove some of the most brutal chapters of European colonial history, including the transatlantic slave trade. Its role in fueling the mckenna-food-gods-sugar-addiction-slavery describes patterns indistinguishable from those of recognized substance dependencies.
 ---
 
 ### Behavioral Parallels

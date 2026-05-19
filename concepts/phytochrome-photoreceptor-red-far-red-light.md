@@ -3,7 +3,7 @@ title: Phytochrome — The Red and Far-Red Light Photoreceptor
 slug: phytochrome-photoreceptor-red-far-red-light
 tags: [photobiology, photoreceptors, phytochrome, plant-physiology, light]
 related: [photoperiodism-plants-measure-night-length]
-source: [[garner-allard-maryland-mammoth-tobacco-experiment]] experiments of Garner and Allard (1918-1920). Their work established that plants measure the length of continuous darkness to determine when to flower.
+source: garner-allard-maryland-mammoth-tobacco-experiment experiments of Garner and Allard (1918-1920). Their work established that plants measure the length of continuous darkness to determine when to flower.
 ---
 
 In the 1940s, researchers discovered that a brief flash of red light (approximately 660 nm) in the middle of the night could disrupt this measurement. A short-day plant like soybean, which normally flowers in short days, would fail to flower if given a flash of red light during the dark period. Conversely, a long-day plant like iris, which normally requires long days, could be induced to flower in winter by a red light flash during the night.

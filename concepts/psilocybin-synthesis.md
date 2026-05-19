@@ -1,6 +1,6 @@
 ---
 title: Psilocybin Synthesis
-aliases: [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] intermediate]
+aliases: hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin intermediate]
 tags: [chemistry, synthesis, psilocybin, tryptamines, psilocin represents the more challenging half of the Shirota, Hakamata, and
 Goda synthesis. The key innovation was the discovery that the phosphorylated
 intermediate undergoes an intramolecular conversion to a zwitterionic

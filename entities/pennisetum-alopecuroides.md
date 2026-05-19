@@ -13,7 +13,7 @@ updated: 2026-05-09
 sources:
   - Wipff, J.K. (2004). "Pennisetum." In Flora huckleberries-and-wild-berries-of-north-america Editorial Committee, Flora of North America North of Mexico, Vol. 25. Oxford University Press.
   -Quattrocchi, U. (2006). World Dictionary of Grasses: Common Names, Scientific Names, Eponyms, Synonyms, and Etymology. CRC Press.
-  - Meyer, M.H. & J.M. Meyer (2021). "[[psilocybe-southeast-asia-pacific]].
+  - Meyer, M.H. & J.M. Meyer (2021). "psilocybe-southeast-asia-pacific.
 ---
 
 The species is widely cultivated as an ornamental landscape grass for its arching habit, fuzzy bottlebrush inflorescences, and reliable fall color.

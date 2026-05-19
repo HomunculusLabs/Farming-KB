@@ -22,7 +22,7 @@ and moist atmosphere, and will not thrive where draughts,
 or sudden fluctuations of temperature or moisture prevail.
 Proper ventilation is therefore essential but must be carefully
 managed to avoid these harmful conditions. Understanding
-[[mushroom-growing-temperature-and-moisture]] parameters is critical
+mushroom-growing-temperature-and-moisture parameters is critical
 for successful cultivation.
 
 ## The Ventilation Challenge
@@ -33,7 +33,7 @@ double doors, where the entrance is from the outside, but if
 from another building single doors will suffice. A chimney-
 like shaft or shafts rising from the ceiling should be used as
 ventilators in winter, when we cannot ventilate from doors or
-windows. These principles align with broader [[mushroom-cultivation-environmental-parameters]]
+windows. These principles align with broader mushroom-cultivation-environmental-parameters
 for indoor growing environments.
 
 Side ventilation at any time when the beds are in bearing
@@ -55,7 +55,7 @@ windows and shaft is given. But as soon as there is any sign
 of the mushrooms appearing, all ventilators except the shaft
 in the middle are shut and kept closed. This practice ensures
 that ventilation continues without exposing the bearing beds
-to cold draughts. Compare with [[growing-gourmet-growing-room-ventilation-air-exchange]]
+to cold draughts. Compare with growing-gourmet-growing-room-ventilation-air-exchange
 for modern approaches to growing room airflow management.
 
 ## The Dosoris Ventilation Lesson
@@ -70,15 +70,15 @@ One tall wooden chimney-like shaft would have been a
 better ventilator than the three ventilating holes, which were
 covered over with an iron and glass grating. Multiple small
 ventilators create localized cold spots that reduce productivity
-directly beneath them. For more on [[falconer-mushroom-cultivation-victorian-methods]],
+directly beneath them. For more on falconer-mushroom-cultivation-victorian-methods,
 see the broader historical context of Victorian mushroom houses.
 
 ## Condensation and Drip
 
-One of the chief troubles with flat-roofed [[falconer-mushroom-cellar-management]]
-- [[falconer-mushroom-spawn-types-and-merits]]
-- [[falconer-mushroom-preserving-and-drying]]
-- [[falconer-mushroom-cellar-management]]
+One of the chief troubles with flat-roofed falconer-mushroom-cellar-management
+- falconer-mushroom-spawn-types-and-merits
+- falconer-mushroom-preserving-and-drying
+- falconer-mushroom-cellar-management
 
 ## Overview
 
@@ -104,7 +104,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Falconer Mushroom Cellar Ventilation And Moisture finds practical application in multiple design contexts.
-[[permaculture-principles]] guide integration strategies that maximize
+permaculture-principles guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -146,3 +146,12 @@ current understanding and implementation strategies.
 ## Integration Strategies
 
 Successful integration of falconer mushroom cellar ventilation and moisture into broader
+
+## See Also
+
+- [[advanced-gourmet-mushroom-cultivation]]
+- [[growing-gourmet-casing-soils-mushroom-cultivation]]
+- [[mushroom-cultivation-environmental-parameters]]
+- [[buildings-tools-equipment-mushroom-cultivation]]
+- [[humidity-chamber-designs-jarrold-mushroom-cultivation]]
+

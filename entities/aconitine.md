@@ -74,3 +74,7 @@ The lethal dose in adults is approximately 1–2 mg orally (0.015 mg/kg). Onset 
 ### Treatment
 
 Management of aconitine poisoning focuses on cardiovascular stabilization and arrhythmia control. Activated charcoal is administered if within 1 hour of ingestion. Intravenous amiodarone or flecainide may be used for ventricular arrhythmias, though responses are often poor. Lidocaine has shown some efficacy in experimental models due to its sodium channel blocking properties, which counteract aconitine's persistent sodium current. Mechanical ventilation, inotropic support, and extracorporeal membrane oxygenation (ECMO) have been employed in severe cases. GI decontamination and enhanced elimination are of limited benefit due to rapid absorption. No specific antidote exists for aconitine poisoning.
+
+## Safety and Regulation
+
+Due to its extreme toxicity, aconitine is regulated in most countries and requires specialized handling protocols in research settings.

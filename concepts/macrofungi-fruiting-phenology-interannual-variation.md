@@ -1,6 +1,6 @@
 ---
 title: "Macrofungi macrofungal-fruiting-phenology-climate-variability and Interannual Variation"
-source: "Biodiversity of Fungi: Inventory and [[azurescens-fruiting-seasons-and-conditions]], with the fall season progressively later at lower latitudes — in some regions occurring after the winter solstice. At high elevations and latitudes, or in temperate regions with summer rain, summer may be the most productive season.
+source: "Biodiversity of Fungi: Inventory and azurescens-fruiting-seasons-and-conditions, with the fall season progressively later at lower latitudes — in some regions occurring after the winter solstice. At high elevations and latitudes, or in temperate regions with summer rain, summer may be the most productive season.
 ---
 
 ### Unusual Weather Events

@@ -8,8 +8,8 @@ sources:
   - Singh, H. (2006). Mycoremediation. John Wiley & Sons.
   - Gadd, G.M. (2001).  recalcitrant organic
 compounds. These intracellular enzymes catalyze the initial oxidation of
-diverse xenobiotics including aliphatic and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]. They serve as
-critical entry points in [[ligninolytic-enzymes]] of white-rot fungi, P450
+diverse xenobiotics including aliphatic and aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham. They serve as
+critical entry points in ligninolytic-enzymes of white-rot fungi, P450
 systems operate inside fungal cells and are found across a broad
 taxonomic range of fungi.
 --- Enzyme System Architecture

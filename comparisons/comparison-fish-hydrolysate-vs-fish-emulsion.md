@@ -74,3 +74,10 @@ Fish emulsion is the pragmatic choice when you need a quick, cheap nitrogen boos
 - **Rapid nitrogen correction** in nitrogen-deficient plants showing chlorosis, where immediate ammonium uptake is needed
 - **Large-scale row crops** where cost per acre is the dominant constraint and soil biology is already well-established
 - **[[query-how-does-no-till-cannabis-cultivation-work]], fish emulsion is generally not recommended during flowering due to its strong odor and potential for synthetic nitrogen contamination. See [[comparison-seaweed-extract-vs-fish-hydrolysate]]
+
+## See Also
+
+- [[comparison-seaweed-extract-vs-fish-hydrolysate]]
+- [[solomon-foliar-feeding-fish-emulsion-and-kelp]]
+- [[query-what-is-fish-hydrolysate-and-how-do-i-use-it-as-fertilizer]]
+- [[query-how-to-make-fish-hydrolysate-fertilizer]]

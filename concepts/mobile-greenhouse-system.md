@@ -1,6 +1,6 @@
 ---
 title: Mobile Greenhouse System
-source: Eliot Coleman - The [[winter-harvest-handbook-guide]]
+source: Eliot Coleman - The winter-harvest-handbook-guide
 tags:
   - winter-harvest
   - mobile-greenhouse

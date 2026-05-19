@@ -3,14 +3,14 @@ title: Plant Vision Light Perception
 aliases:
   - Plant sight
   - Plant vision
-  - Plant [[chamovitz-ultraviolet-and-infrared-plant-light-perception]] systems that rival animal
+  - Plant chamovitz-ultraviolet-and-infrared-plant-light-perception systems that rival animal
 vision
 in complexity. While lacking eyes and a nervous system, they have
 evolved an
 array of photoreceptors that detect light intensity, direction,
 duration, and
 color quality. This ability to "see" is fundamental to survival, guiding
-processes from [[chrysanthemum-coronarium]]
+processes from chrysanthemum-coronarium
 entrainment, de-etiolation, and flowering. They share structural
 similarity
 with DNA photolyase enzymes but serve signaling rather than repair

@@ -13,7 +13,7 @@ sources:
   - Urbatsch, L.E. (2000). "Rudbeckia." In Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 21. Oxford University Press.
   - USDA NRCS (2024). "Rudbeckia laciniata L." PLANTS Database. https://plants.usda.gov/home/plantProfile?symbol=RULA
   - Fernald, M.L. (1950). Gray's Manual of Botany, 8th ed. American Book Company.
-  - Kindscher, K. (1987). [[guzman-psilocybin-mushrooms-north-america]], where it grows in moist woodlands, thickets, and along stream banks.
+  - Kindscher, K. (1987). guzman-psilocybin-mushrooms-north-america, where it grows in moist woodlands, thickets, and along stream banks.
 ---
 
 The species is notable for its tall stature, reaching up to 3 meters, and its bright yellow ray florets surrounding a distinctive greenish central disk.

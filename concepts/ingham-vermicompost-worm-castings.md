@@ -116,3 +116,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[det]]
 - [[ingham-thermal-worm-compost-comparison]]
 - [[ingham-thermal-compost-versus-worm-compost]]
+
+These interconnections demonstrate the importance of integrated approaches to understanding and applying this knowledge.

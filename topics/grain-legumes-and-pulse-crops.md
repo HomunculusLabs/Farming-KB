@@ -1,8 +1,8 @@
 ---
 title: Grain grain legumes and pulse crops Crops
 subtitle: Cool-season and warm-season legumes cultivated for their edible dry seeds,
-  providing protein-rich food, [[cicer-arietinum]]* | Mediterranean, South Asia | Cool-season annual |
-| Dry Pea | *[[cajanus-cajan]]* | South Asia, tropical Africa | Perennial shrub |
+  providing protein-rich food, cicer-arietinum* | Mediterranean, South Asia | Cool-season annual |
+| Dry Pea | *cajanus-cajan* | South Asia, tropical Africa | Perennial shrub |
 | Mung Bean | *Vigna radiata* | South/Southeast Asia | Warm-season annual |
 | Lupin (Sweet) | *Lupinus albus* | Mediterranean, South America | Cool-season annual |
 | Bamba vigna subterranea igna subterranea* | Sub-Saharan Africa | Warm-season annual |lathyrus sativus Lathyrus sativus* | South Asia, Ethiopia | Cool-season annual |

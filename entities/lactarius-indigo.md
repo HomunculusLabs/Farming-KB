@@ -18,7 +18,7 @@ updated: 2026-04-28
 sources:
  (Lactarius indigo taxonomy)
   - Hesler, L.R. & Smith, A.H. (1979). growing-gourmet-north-american-reishi-species Species of Lactarius. Univ. Michigan Press.
-  - Garibay-Orijel, R. et al. (2009). "Ethnomycological knowledge of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], instantly recognizable by its deep blue-to-indigo fruiting body and the intensely blue latex (milk) exuded when the flesh is cut or damaged. Widely collected as an edible mushroom in Mexico, Guatemala, and parts of the southern United States, it has been an important food source in indigenous Mesoamerican communities for centuries.
+  - Garibay-Orijel, R. et al. (2009). "Ethnomycological knowledge of guzman-allen-gartz-neurotropic-fungi-central-america-caribbean, instantly recognizable by its deep blue-to-indigo fruiting body and the intensely blue latex (milk) exuded when the flesh is cut or damaged. Widely collected as an edible mushroom in Mexico, Guatemala, and parts of the southern United States, it has been an important food source in indigenous Mesoamerican communities for centuries.
 ---# Taxonomy
 
 - **Kingdom:** Fungi

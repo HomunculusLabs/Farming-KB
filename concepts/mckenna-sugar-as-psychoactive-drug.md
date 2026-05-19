@@ -1,7 +1,7 @@
 ---
 title: "Sugar as Psychoactive Drug"
 source: "Food of the Gods"
-author: "[[mdma-crack-cocaine-drug-terror-1980s]] in the
+author: "mdma-crack-cocaine-drug-terror-1980s in the
 modern era, he argues, is nothing compared with what the European desire for
 sugar did in the seventeenth and eighteenth centuries.
 ---

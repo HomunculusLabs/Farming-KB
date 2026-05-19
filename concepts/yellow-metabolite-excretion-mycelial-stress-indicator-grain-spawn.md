@@ -1,10 +1,10 @@
 ---
 title: Yellow Metabolite Excretion Mycelial Stress Indicator Grain Spawn
 source: guid-mhtml_file___e___textos__mycology__exotic_.md
-topics: [mycelial metabolites, stress indicator, grain spawn, over-incubation, [[grass-seed-cultivation-of-psilocybe-mushrooms]] guide for *Psilocybe* species includes an important
+topics: [mycelial metabolites, stress indicator, grain spawn, over-incubation, grass-seed-cultivation-of-psilocybe-mushrooms guide for *Psilocybe* species includes an important
 diagnostic observation: "When jars are incubated too long or at too high a temperature
 the mycelium will excrete yellowish metabolites." This yellow metabolite excretion is
-a well-known but poorly understood phenomenon [[antifungal-secondary-metabolites-coprophilous-fungi]] — chemical compounds produced by the
+a well-known but poorly understood phenomenon antifungal-secondary-metabolites-coprophilous-fungi — chemical compounds produced by the
 fungus that are not directly required for growth but serve various ecological
 functions. When mycelium encounters stress conditions, it shifts metabolic resources
 from primary growth (biomass accumulation) to secondary metabolism, producing these

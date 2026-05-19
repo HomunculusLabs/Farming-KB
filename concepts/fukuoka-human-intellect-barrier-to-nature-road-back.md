@@ -5,7 +5,7 @@ aliases:
   - human intellect destroys nature
   - fukuoka knowledge as obstacle
   - road back to nature philosophy
-  - fukuoka [[fukuoka-textdoc-errors-of-human-intellect]]. The "road back to nature" is therefore the effort to reunify what has been split apart — but this reunion is impossible through the same intellectual faculty that caused the separation.
+  - fukuoka fukuoka-textdoc-errors-of-human-intellect. The "road back to nature" is therefore the effort to reunify what has been split apart — but this reunion is impossible through the same intellectual faculty that caused the separation.
 ---
 
 He writes that "the fragmented and diffusive development [[four-principles-of-natural-farming]]. Each "no" is a refusal to impose human intellectual judgments on natural processes:

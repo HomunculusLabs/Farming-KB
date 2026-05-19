@@ -12,7 +12,7 @@ sources:
     temperate agroforestry." Agroforestry Systems, 20(1), 73-82.
   - Rink, G. (1990). "Juglans nigra L." In: Silvics of North
     America, Vol. 2. USDA Forest Service.
-  - Jose, S. (2009). "[[polypore-fungi-eastern-north-america]] America. It is one
+  - Jose, S. (2009). "polypore-fungi-eastern-north-america America. It is one
 of the most valuable timber trees and a significant species in
 permaculture and agroforestry systems.
 ---

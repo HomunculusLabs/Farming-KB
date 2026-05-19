@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Ceruti, A., Fontana, G., & Nosenzo, C. (2003). "Le Specie Europee del Genere Tuber." Museo Regionale di Scienze Naturali, Torino.
   - Bonito, G. et al. (2010). "Tuber macrosporum Vittad.: A Rare Truffle with Potential for Cultivation." Mycorrhiza, 20(8), 555-563.
-  - Mello, A. et al. (2005). "Molecular Analysis of [[european-truffles]], often compared favorably to the more famous [[ectomycorrhizal-associations]] with broadleaf trees. Primary hosts include willow (*Salix* spp.), poplar (*Populus* spp.), oak (*Quercus* spp.), and hazel (*[[fungal-volatile-organic-compounds-communication]] compounds responsible for its aroma. Major volatiles include dimethyl sulfide, 2-methylbutanal, and phenylacetaldehyde.
+  - Mello, A. et al. (2005). "Molecular Analysis of european-truffles, often compared favorably to the more famous ectomycorrhizal-associations with broadleaf trees. Primary hosts include willow (*Salix* spp.), poplar (*Populus* spp.), oak (*Quercus* spp.), and hazel (*fungal-volatile-organic-compounds-communication compounds responsible for its aroma. Major volatiles include dimethyl sulfide, 2-methylbutanal, and phenylacetaldehyde.
 ---
 
 The aroma profile is notably dominated by sulfur-containing compounds, which contribute to the species' reputation as one of the most powerfully scented truffles. These compounds are similar to but more concentrated than those found in T. melanosporum.

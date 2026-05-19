@@ -1,6 +1,6 @@
 ---
 title: Smartshop Hallucinogenic Mushroom Market Europe
-source: EMCDDA "[[1960s-counterculture-and-magic-mushrooms]] for [[cultural-evolution-and-psychoactive-substances]]. While the Netherlands maintained strict controls on many drugs, fresh psilocybin mushrooms occupied a legal gray area that smartshop operators were able to exploit. The shops proliferated rapidly, particularly in Amsterdam and other tourist destinations, creating a readily accessible retail channel for both domestic and international consumers.
+source: EMCDDA "1960s-counterculture-and-magic-mushrooms for cultural-evolution-and-psychoactive-substances. While the Netherlands maintained strict controls on many drugs, fresh psilocybin mushrooms occupied a legal gray area that smartshop operators were able to exploit. The shops proliferated rapidly, particularly in Amsterdam and other tourist destinations, creating a readily accessible retail channel for both domestic and international consumers.
 ---
 
 ### Product Range

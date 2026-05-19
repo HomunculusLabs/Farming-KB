@@ -1,8 +1,8 @@
 ---
 title: Centrifugal and Centripetal Forces in Modern Civilization
 source: administrator-microsoft-word-fukuoka-textdoc.md
-author: [[cho-loess-powder-in-natural-farming]], [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]] is applied, it
-stimulates the crop but weakens the soil's [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]]. Pesticides are applied, which kill beneficial
+author: cho-loess-powder-in-natural-farming, solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff is applied, it
+stimulates the crop but weakens the soil's query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease. Pesticides are applied, which kill beneficial
 organisms along with the pests. The soil further deteriorates, requiring
 more fertilizer, which produces weaker plants still.
 ---

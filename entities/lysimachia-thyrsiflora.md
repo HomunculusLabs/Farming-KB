@@ -10,7 +10,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Hu, C.M. & Kelso, S. (1996). "Primulaceae." In: Wu, Z.Y. & Raven, P.H. (eds.), Flora of China, Vol. 15, 99–185.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern [[berry-growing]], Europe, and Asia, where it grows in wetlands, marshes, fens, and along stream margins.
+  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern berry-growing, Europe, and Asia, where it grows in wetlands, marshes, fens, and along stream margins.
 ---
 
 The species is recognized by its upright stems bearing dense, cylindrical spikes of star-shaped yellow flowers. Each flower features a distinctive orange-red eye at the center, creating a vivid display in mid-summer that attracts numerous pollinators.

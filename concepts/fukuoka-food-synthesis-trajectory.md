@@ -2,7 +2,7 @@
 title: "Food Synthesis Trajectory"
 aliases:
   - "Trajectory to Total Food Synthesis"
-  - "[[natural-farming]] represents an idealized version of this relationship — farming that works with nature rather than against it, requiring no plowing, no chemicals, no pruning, and no imported inputs. Even before his own methods, traditional peasant agriculture across the world maintained a participatory relationship with soil, weather, and local ecology. The farmer understood that food was a gift of the land, not a product of human ingenuity alone.
+  - "natural-farming represents an idealized version of this relationship — farming that works with nature rather than against it, requiring no plowing, no chemicals, no pruning, and no imported inputs. Even before his own methods, traditional peasant agriculture across the world maintained a participatory relationship with soil, weather, and local ecology. The farmer understood that food was a gift of the land, not a product of human ingenuity alone.
 ---
 
 ### Stage 2: Scientific Agriculture with Chemicals

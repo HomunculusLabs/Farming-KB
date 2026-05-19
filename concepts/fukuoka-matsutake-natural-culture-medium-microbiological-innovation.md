@@ -3,13 +3,13 @@ title: fukuoka matsutake natural culture medium microbiological innovation Cultu
 concept_type: scientific_method
 source: "Masanobu Fukuoka, Sowing Seeds in the Desert"
 source_author: "Masanobu Fukuoka"
-source_path: "/Users/t3erpz/Documents/Ebooks/Calibre/Masanobu Fukuoka - Fukuoka - The [[fukuoka-one-straw-revolution-conclusion]] (epub).epub"
+source_path: "/Users/t3erpz/Documents/Ebooks/Calibre/Masanobu Fukuoka - Fukuoka - The fukuoka-one-straw-revolution-conclusion (epub).epub"
 extracted: "2025-05-08"
 type: paper
 format: epub
 chars: 272157
 tags: [fukuoka, matsutake, mycology, culture-medium, mycorrhiza, fungi, natural-farming, microbiology, tricholoma-matsutake, mushroom-cultivation]
-aliases: [matsutake culture medium, fukuoka [[tricholoma-matsutake]]*) and other microorganisms. Developed as Appendix C of *Sowing Seeds in the Desert*, this medium achieves approximately ten times faster hyphal growth than the standard Hamada medium while producing dense, vigorous hyphae and enabling [[fukuoka-matsutake-artificial-cultivation-attempt]] has proven extraordinarily difficult for several reasons:
+aliases: [matsutake culture medium, fukuoka tricholoma-matsutake*) and other microorganisms. Developed as Appendix C of *Sowing Seeds in the Desert*, this medium achieves approximately ten times faster hyphal growth than the standard Hamada medium while producing dense, vigorous hyphae and enabling fukuoka-matsutake-artificial-cultivation-attempt has proven extraordinarily difficult for several reasons:
 ---
 
 - **Isolation difficulty**: Pure isolation of hyphae is extremely challenging

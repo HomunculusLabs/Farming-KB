@@ -15,7 +15,7 @@ synonyms:
   - partial agonist
   - endocannabinoid deficiency
   - THC tolerance
-  - [[endocannabinoid-system]].
+  - endocannabinoid-system.
 ---
 
 ## THC as a Partial Agonist

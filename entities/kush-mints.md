@@ -14,7 +14,7 @@ sources:
   - Leafly Staff (2024). "Kush Mints Cannabis Strain Information."
     Leafly.com.
   - AllBud (2024). "Kush Mints Weed Strain." AllBud.com.
-  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Mint [[cannabis-terpene-profile]], and deeply relaxing effects that blend
+  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Mint cannabis-terpene-profile, and deeply relaxing effects that blend
 body sedation with cerebral calm.
 ---
 

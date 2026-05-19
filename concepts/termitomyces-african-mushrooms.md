@@ -1,7 +1,7 @@
 ---
 title: Terfas of Africa and the Orient
 created: 2026-04-28
-tags: mycology, africa, asia, subterranean-[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with|fungi]]
+tags: mycology, africa, asia, subterranean-query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with|fungi
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]

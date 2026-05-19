@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Barneby, R.C. (1989). "Lupinus of the dmt-containing-plants-united-states-halpern." Memoirs of the New York Botanical Garden.
-  - Hitchcock, C.L. & Cronquist, A. (1973). "Flora of the [[guzman-psilocybin-mushrooms-north-america]] from Alaska to California, it has become widely naturalized in Europe, New Zealand, and parts of [[biodiversity-fungal-genetic-diversity]] within the species is considerable, with several infraspecific taxa recognized. Populations from coastal California tend to be more compact and earlier-flowering than those from inland mountain habitats.
+  - Hitchcock, C.L. & Cronquist, A. (1973). "Flora of the guzman-psilocybin-mushrooms-north-america from Alaska to California, it has become widely naturalized in Europe, New Zealand, and parts of biodiversity-fungal-genetic-diversity within the species is considerable, with several infraspecific taxa recognized. Populations from coastal California tend to be more compact and earlier-flowering than those from inland mountain habitats.
 ---
 
 ## Taxonomy and Morphology

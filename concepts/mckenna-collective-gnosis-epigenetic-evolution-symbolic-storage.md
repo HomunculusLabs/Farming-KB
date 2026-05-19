@@ -1,6 +1,6 @@
 ---
 title: "Collective Gnosis and Epigenetic Evolution: Symbols, Language, and the End of Biological Evolution"
-source: "Food of the Gods - [[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]]"
+source: "Food of the Gods - terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence"
 topics:
   - epigenetic-evolution
   - symbolic-storage

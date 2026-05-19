@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Druehl, L.D. (2000). "Pacific Seaweeds." Harbour Publishing.
-  - Gabriel, W.L. (1974). "[[fucus-vesiculosus]]*.
+  - Gabriel, W.L. (1974). "fucus-vesiculosus*.
 ---
 
 It attaches to stable rock substrates in areas with clean, nutrient-rich water. The species is absent from heavily sedimented or polluted coasts.

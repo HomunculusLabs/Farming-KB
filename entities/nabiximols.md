@@ -15,7 +15,7 @@ sources:
   - Barnes M.P. (2006). "Sativex: clinical efficacy and tolerability in the treatment of symptoms of  and  is therapeutically significant. CBD modulates the
 psychoactive effects of THC, reducing intoxication, anxiety, and cognitive
 impairment while preserving analgesic and anti-spastic properties. This
-[[mushroom-cancer-clinical-trials-overview]] demonstrate significant reductions in spasm
+mushroom-cancer-clinical-trials-overview demonstrate significant reductions in spasm
 frequency, severity, and patient-reported spasticity scores.
 ---## Cancer Pain
 

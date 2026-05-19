@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - López-Lázaro, M. (2009). "Distribution and Biological Activities of the Flavonoid Luteolin." Mini-Reviews in Medicinal Chemistry, 9(1), 31–59.
-  - Lin, Y. et al. (2011). "Luteolin, a Flavonoid with Potential for [[reactive-oxygen-species-and-oxidative-stress]].
+  - Lin, Y. et al. (2011). "Luteolin, a Flavonoid with Potential for reactive-oxygen-species-and-oxidative-stress.
 ---
 
 The compound is yellow crystalline at room temperature, with limited water

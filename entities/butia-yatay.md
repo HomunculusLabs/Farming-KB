@@ -13,7 +13,7 @@ sources:
   - Noblick, L.R. (2017). "A revision of Butia (Arecaceae)." Phytotaxa, 344(1), 1–96.
   - Lorenzi, H. et al. (2010). "Flora Brasileira: Arecaceae (Palmeiras)." Instituto Plantarum.
   - Glassman, S.F. (1979). "A revision of B. E. Dahlgren's classification of the palms." Fieldiana: Botany, new series, 2, 1–140.
-  - Moller, J. & Goettsch, B. (2018). "[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
+  - Moller, J. & Goettsch, B. (2018). "oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide.
 ---
 
 The species typically reaches 10–14 meters in height with a stout, curved trunk and gracefully arching, blue-green pinnate fronds. It forms extensive palm savannas (palmares) in its native range, creating distinctive landscapes in the pampas and campos regions.

@@ -1,12 +1,12 @@
 ---
 title: Darwin Five Seedling Phototropism Experimental Conditions
 aliases:
-  - "[[phototropism]]"
+  - "phototropism"
   - "auxin"
   - "what a plant knows"
-  - "[[darwin-power-of-movement-in-plants]] in Plants*. Using canary
+  - "darwin-power-of-movement-in-plants in Plants*. Using canary
 grass (*phalaris canariensis*) seedlings, the Darwins systematically tested how
-[[daniel-chamovitz]]'s *what a plant knows* (Chapter 1: What a Plant Sees), where they serve as a foundational example
+daniel-chamovitz's *what a plant knows* (Chapter 1: What a Plant Sees), where they serve as a foundational example
 of how plants perceive and respond to light.
 ---
 

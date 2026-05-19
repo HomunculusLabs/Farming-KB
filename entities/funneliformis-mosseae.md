@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Walker C, Schüßler A (2010). "The Glomeromycota: a species list with descriptions." Mycorrhiza, 20(4), 241-253.
-  - Smith SE, Read DJ (2008). "[[arbuscular-mycorrhizal-fungi]] (AMF) in the Glomeromycota phylum.
+  - Smith SE, Read DJ (2008). "arbuscular-mycorrhizal-fungi (AMF) in the Glomeromycota phylum.
 ---
 
 It forms symbiotic associations with the roots of approximately 80% of terrestrial plant families, enhancing nutrient uptake and stress tolerance in agricultural and natural ecosystems.

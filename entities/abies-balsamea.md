@@ -13,7 +13,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 1. Conifers." USDA Forest Service Agriculture Handbook 654.
   - Farrar, J.L. (1995). "Trees of the Northern United States and Canada." Iowa State University Press.
-  - Nienstaedt, H. & Zasada, J.C. (1990). "Abies balsamea (L.) Mill.: Balsam Fir." In: Silvics [[jeavons-climate-adaptation-growing-seasons]] range from 80 to 150 days depending on latitude and elevation.
+  - Nienstaedt, H. & Zasada, J.C. (1990). "Abies balsamea (L.) Mill.: Balsam Fir." In: Silvics jeavons-climate-adaptation-growing-seasons range from 80 to 150 days depending on latitude and elevation.
 ---
 
 Soil pH preference ranges from 4.0 to 6.5, with optimal growth on moderately acidic sites. The species is absent from calcareous soils and limestone-derived substrates throughout its range, reflecting an acidophilic adaptation.

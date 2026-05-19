@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - [[hamilton-organic-fertilizers-and-plant-nutrition]].
+  - hamilton-organic-fertilizers-and-plant-nutrition.
 ---
 
 Fukuoka inverted this approach. By maintaining a permanent living ground
@@ -148,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 ## Challenges and Solutions
 
 Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and

@@ -14,7 +14,7 @@ sources:
   - Moodley, D. et al. (2019). "Ecological impacts of invasive Hedychium gardnerianum in Hawaiian montane forests." Biological Invasions, 21, 3417-3432.
   - Nag, S. et al. (2020). "Phytochemistry and pharmacology of Hedychium gardnerianum." Pharmacognosy Reviews, 14(28), 102-108.
   - Sheppard, C.S. et al. (2018). "Invasion of Kahili ginger in New Zealand: distribution, impacts, and management." New Zealand Journal of Ecology, 42(1), 45-56.
-  - Patel, S. et al. (2021). "[[permaculture-designers-manual-essential-oil-plants]] composition of Hedychium species." Journal of Essential Oil-Bearing Plants, 24(3), 671-685.---
+  - Patel, S. et al. (2021). "permaculture-designers-manual-essential-oil-plants composition of Hedychium species." Journal of Essential Oil-Bearing Plants, 24(3), 671-685.---
 ---
 
 ## Hedychium gardnerianum

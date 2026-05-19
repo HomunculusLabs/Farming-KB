@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of the African region." Kew Bulletin, 49(4), 727-740.
   - Hegde, D.M. & Anke, T. (2012). "The genus Termitomyces: A review." Mycobiology, 40(3), 157-165.
-  - Oei, P. (2005). "accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Technologies for [[palmer-edible-mushrooms-north-america]] on the African continent, sought after for both its substantial size and excellent culinary qualities. The species forms an obligate mutualism with termites of the genus *Macrotermes*, which cultivate the fungus within their subterranean comb structures.
+  - Oei, P. (2005). "accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Technologies for palmer-edible-mushrooms-north-america on the African continent, sought after for both its substantial size and excellent culinary qualities. The species forms an obligate mutualism with termites of the genus *Macrotermes*, which cultivate the fungus within their subterranean comb structures.
 ---
 
 [[psilocybe-southeast-asia-pacific]], where termite [[edible-wild-mushrooms-by-region]] in Africa. In many regions, it is collected for both subsistence consumption and local market sale, where prices can exceed those of [[kava-traditional-preparation-ceremonial-context]] methods vary by region, with some communities smoking the dried mushrooms over firewood to enhance shelf life and develop a deeper umami flavor.

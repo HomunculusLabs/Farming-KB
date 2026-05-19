@@ -14,7 +14,7 @@ sources:
   - Faust, M. & Surányi, D. (1999). "Origin and dissemination of plums." Horticultural Reviews, 23, 179-231.
   - Watson, M. & Dearnaley, J.D.W. (2019). "Plum cultivation and history." Economic Botany, 73(1), 1-15.
   - Crisosto, C.H. et al. (2004). "Plum." In: Commercial fukuoka-fruit-processing-and-natural-food-marketing. Wiley-Blackwell.
-  - Byrne, D.H. & Raseira, M.C.B. (2000). "Plums." In: Temperate [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
+  - Byrne, D.H. & Raseira, M.C.B. (2000). "Plums." In: Temperate oyster-mushroom-log-cultivation-temperate-regions-short-log-method worldwide.
 ---
 
 ## Taxonomy and Morphology

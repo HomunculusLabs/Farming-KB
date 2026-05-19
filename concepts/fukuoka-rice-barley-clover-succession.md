@@ -1,6 +1,6 @@
 ---
 title: "Fukuoka's Rice-Barley-Clover Succession: No-Tillage Direct-Seeding Method"
-source: "The Natural Way of Farming — [[masanobu-fukuoka-natural-farming-philosophy]] on his farm in Ehime Prefecture,
+source: "The Natural Way of Farming — masanobu-fukuoka-natural-farming-philosophy on his farm in Ehime Prefecture,
 Japan, is what he called "direct-seeded, no-tillage, winter grain/rice succession in a clover
 cover." This system allows for the continuous production of both a summer rice crop and a
 winter grain crop of barley or wheat on the same field without plowing, without chemical

@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Rivadavia, F. et al. (2003). "Drosera." Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 8.
-  - Gibson, T.C. (1991). "Morphometric variation in the [[guzman-psilocybin-mushrooms-north-america]], occurring in Canada and the northern United States.
+  - Gibson, T.C. (1991). "Morphometric variation in the guzman-psilocybin-mushrooms-north-america, occurring in Canada and the northern United States.
 ---
 
 The species is recognized by its distinctive narrow, linear leaves that distinguish it from the broader-leaved D. rotundifolia. It produces glandular tentacles that secrete sticky mucilage to trap small insects.

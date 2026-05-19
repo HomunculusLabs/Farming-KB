@@ -4,8 +4,8 @@ created: 2026-05-10
 tags: [cultivation, earthing-up, hilling, potatoes, soil-management, weed-control]
 source: "steve-solomon-gardening-when-it-counts"
 related:
-  - "[[sprinkler-nozzle-selection-vegetable-gardens-solomon]]"
-  - "[[cervantes-green-algae-growing-medium]] for [[hamilton-potato-growing-organic]] but applies to several other vegetables
+  - "sprinkler-nozzle-selection-vegetable-gardens-solomon"
+  - "cervantes-green-algae-growing-medium for hamilton-potato-growing-organic but applies to several other vegetables
 including leeks, corn, and asparagus. Proper hilling technique is one
 of the most important skills a vegetable gardener can master.
 ---

@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Woodson RE (1954). "The growing-gourmet-north-american-reishi-species Species of Asclepias L." Annals of the Missouri Botanical Garden.
   - Kindscher K (1992). "Medicinal Wild Plants of the Prairie." University Press of Kansas.
-  - Bodkin FL (1935). "Medicinal and Economic Uses of [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit, has made it one of the most commercially popular native perennials in North American horticulture.
+  - Bodkin FL (1935). "Medicinal and Economic Uses of fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield habit, has made it one of the most commercially popular native perennials in North American horticulture.
 ---
 
 ## Taxonomy and Morphology

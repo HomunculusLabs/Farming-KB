@@ -14,7 +14,7 @@ sources:
   - AllBud (2023). "London Pound Cake blesching-cannabis-strain-selection-receptor-targeting." AllBud.com.
   - Wikileaf (2023). "London Pound Cake: The UK's Most Decadent Export." Wikileaf.com.
   - Cookies Fam (2022). "London Pound Cake — Strain Library." cookiesfam.com.
-  - cannabis-md (2022). "[[sunset-sherbert]] and an unspecified or closely held parent line often described as a heavy indica phenotype from the Cookies gene pool. Its reputation for high potency — routinely testing between 25–30% THC — has made it a favorite among experienced consumers and a frequent building block for new crosses.
+  - cannabis-md (2022). "sunset-sherbert and an unspecified or closely held parent line often described as a heavy indica phenotype from the Cookies gene pool. Its reputation for high potency — routinely testing between 25–30% THC — has made it a favorite among experienced consumers and a frequent building block for new crosses.
 ---
 
 ## Lineage

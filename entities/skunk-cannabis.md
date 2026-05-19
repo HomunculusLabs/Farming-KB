@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Clarke RC, Merlin MD (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
   - ElSohly MA et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
-  - Hazekamp A, Fischedick JT (2012). "Cannabis — from cultivar to chemovar." Drug [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in breeding history, serving as a genetic cornerstone for hundreds of modern varieties.
+  - Hazekamp A, Fischedick JT (2012). "Cannabis — from cultivar to chemovar." Drug cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains in breeding history, serving as a genetic cornerstone for hundreds of modern varieties.
 ---
 
 The strain resulted from crossing Afghani indica landrace genetics with acapulco gold ld and [[vic-high-cannabis-genetics-mendelian-inheritance]] in history.

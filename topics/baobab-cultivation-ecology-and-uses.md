@@ -73,3 +73,10 @@ Baobabs are relatively pest-free compared to most cultivated fruit trees, though
 ### Growth Rate and Fruiting
 
 Baobabs are slow-growing but long-lived. Growth rates vary considerably depending on rainfall, soil, and temperature:
+
+## See Also
+
+- [[womens-health-herbs-cultivation-and-uses]]
+- [[willow-cultivation-and-uses]]
+- [[vanilla-cultivation-and-orchid-ecology]]
+- [[truffle-cultivation-and-ecology]]

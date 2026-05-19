@@ -2,7 +2,7 @@
 title: Ley Farming System - Grass-Clover Rotation for Soil Restoration
 source: gardening-when-it-counts-steve-solomon.md
 source_author: Solomon (2005)
-topics: ley farming, grass rotation, soil restoration, clover, [[dryland-vegetable-gardening]]:
+topics: ley farming, grass rotation, soil restoration, clover, dryland-vegetable-gardening:
 ---
 
 > "It is probably not possible to grow [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] by specific crop families creates deficiencies

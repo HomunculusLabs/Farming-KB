@@ -1,6 +1,6 @@
 ---
 title: Bloomfield Hyphal Proton Pump Nutrient Uptake Electrical Biology
-source: "Mr. Bloomfield's Orchard - [[nicholas-money-mycologist]]"
+source: "Mr. Bloomfield's Orchard - nicholas-money-mycologist"
 topics: [mycology, fungal-physiology, membrane-biology, proton-pumps, nutrient-uptake]
 ---
 

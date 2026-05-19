@@ -12,7 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Corley, R.H.V. & Tinker, P.B. (2016). "The Oil Palm." 5th ed. Wiley-Blackwell.
-  - Basiron, Y. (2007). "Palm [[guzman-psilocybin-mushrooms-south-america]].
+  - Basiron, Y. (2007). "Palm guzman-psilocybin-mushrooms-south-america.
 ---
 
 The African oil palm is a large, single-stemmed, monoecious palm reaching 20 to 30 meters in height under plantation conditions. The trunk is robust, 40 to 75 cm in diameter, with prominent leaf scar rings and a crown of 30 to 40 pinnate leaves.

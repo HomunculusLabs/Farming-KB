@@ -2,7 +2,7 @@
 title: Bloomfield Rust Sex Insect Mediated Spermatia Transfer Dikaryon Formation
 source: "Mr. Bloomfield's Orchard"
 source_author: "Nicholas P. Money"
-topics: ["mycology", "rust fungi", "[[fungal-kingdom-diversity]], and their reproduction depends critically on the active
+topics: ["mycology", "rust fungi", "fungal-kingdom-diversity, and their reproduction depends critically on the active
 participation of insects. This dependency creates a remarkable parallel
 with insect-pollinated flowers in the plant world, though the rusts
 arrived at this strategy through a completely independent evolutionary

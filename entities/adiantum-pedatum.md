@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
   - Lellinger, D.B. (1985). "A Field Manual of the Ferns and Fern-Allies of the United States and Canada." Smithsonian Institution Press.
-  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Pteridaceae." Flora [[polypore-fungi-eastern-north-america]] America and eastern Asia. The disjunct distribution between the two continents is a classic example of the Arcto-Tertiary geoflora pattern shared by many temperate forest plants.
+  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Pteridaceae." Flora polypore-fungi-eastern-north-america America and eastern Asia. The disjunct distribution between the two continents is a classic example of the Arcto-Tertiary geoflora pattern shared by many temperate forest plants.
 ---
 
 The species is distinct from the commonly cultivated A. raddianum (Delta maidenhair), which is a tropical species intolerant of freezing temperatures. A. pedatum is fully cold-hardy and one of the few Adiantum species suited to outdoor cultivation [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. The genus is placed in the subfamily Vittarioideae within Pteridaceae.

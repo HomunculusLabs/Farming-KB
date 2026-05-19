@@ -16,7 +16,7 @@ sources:
   - Lincoff, G.H. (1981). "National Audubon Society Field Guide to North American Mushrooms." Knopf.
   - Kuo, M. (2012). "Cantharellus cinnabarinus." MushroomExpert.com.
   - Buyck, B. et al. (2016). "The nomenclature of the cinnabar chanterelle." Mycotaxon, 131(3), 693–699.
-  - Pilz, D. & Molina, R. (2002). "Commercial Harvests of Edible Mushrooms from the Forests of the [[polypore-fungi-eastern-north-america]]**, from eastern Canada through the Appalachian Mountains and into the southeastern United States. It fruits from early summer through autumn, often in association with oak and hardwood forests.
+  - Pilz, D. & Molina, R. (2002). "Commercial Harvests of Edible Mushrooms from the Forests of the polypore-fungi-eastern-north-america**, from eastern Canada through the Appalachian Mountains and into the southeastern United States. It fruits from early summer through autumn, often in association with oak and hardwood forests.
 ---
 
 Like other chanterelles, *C. cinnabarinus* is an **obligate mycorrhizal species**, forming symbiotic associations with tree roots. It cannot be cultivated commercially and is exclusively harvested from wild populations. Despite its smaller size compared to the golden chanterelle (*C. cibarius*), it is considered equally edible and is prized by foragers for its color and peppery flavor.

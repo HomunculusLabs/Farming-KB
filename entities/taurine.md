@@ -14,7 +14,7 @@ sources:
   - Schaffer S., Kim H.W. (2018). "Regulation of glutamate homeostasis by taurine." Advances in Experimental Medicine and Biology.
   - Oudit G.Y. et al. (2003). "Taurine supplementation reduces blesching-cannabis-oxidative-stress-and-antioxidant-defense and improves cardiovascular function." Circulation.
   - El Idrissi A. (2008). "Taurine improves learning and retention in age-related memory decline." Neurochemical Research.
-  - Ripps H., Shen W. (2012). "Review: taurine: a very essential [[fungal-organic-acid-metal-solubilization]] and one of the most abundant free amino acids in the human body.
+  - Ripps H., Shen W. (2012). "Review: taurine: a very essential fungal-organic-acid-metal-solubilization and one of the most abundant free amino acids in the human body.
 ---
 
 Despite its common classification as an amino acid, taurine is technically an amino sulfonic acid — it contains a sulfonic acid group rather than a carboxylic acid group.

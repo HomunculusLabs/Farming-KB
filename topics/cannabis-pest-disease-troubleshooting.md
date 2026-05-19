@@ -1,8 +1,8 @@
 ---
 title: Cannabis hamilton-pest-and-disease-control-organic Troubleshooting
 subtitle: A comprehensive guide to identifying, preventing, and managing pests,
-  pathogens, and abiotic disorders in [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] in cannabis gardens range from nearly invisible arthropods
-like spider mites and thrips to devastating [[cervantes-powdery-mildew-prevention-treatment]] spores on a cola can trigger total
+  pathogens, and abiotic disorders in query-how-to-manage-pests-and-diseases-in-mushroom-cultivation in cannabis gardens range from nearly invisible arthropods
+like spider mites and thrips to devastating cervantes-powdery-mildew-prevention-treatment spores on a cola can trigger total
 rejection by testing laboratories. Cannabis IPM therefore operates at very low
 tolerance levels, with the goal of maintaining a near-pest-free environment.
 ---

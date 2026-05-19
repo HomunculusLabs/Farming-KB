@@ -1,6 +1,6 @@
 ---
 title: Cho's cho nutritive cycle theory Theory
-source: Dr. Cho Han Kyu's Korean [[natural-farming]] system. Developed in the 1960s, this theory provides
+source: Dr. Cho Han Kyu's Korean natural-farming system. Developed in the 1960s, this theory provides
 a framework for understanding the nutritional needs of plants throughout
 their entire growth cycle and guides farmers in applying the right inputs
 at the right time in the right amounts. Rather than following a fixed

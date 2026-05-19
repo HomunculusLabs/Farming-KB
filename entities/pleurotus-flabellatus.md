@@ -15,7 +15,7 @@ sources:
   - Oei, P. (2003). accessible-mushroom-cultivation-for-disabilities: mollison-designers-appropriate-technology-small-scale-tools for Mushroom Growers. TOOL Publications.
   - Stamets, P. (1993). Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. Ten Speed Press.
   - Zadrazil, F. & Kurtzman, R.H. (1982). "The biology of Pleurotus cultivation in the tropics." In Tropical Mushrooms.
-  - Chang, S.T. & Hayes, W.A. (1978). The [[agricultural-waste-substrates]] and its reliable fruiting in warm, humid conditions.
+  - Chang, S.T. & Hayes, W.A. (1978). The agricultural-waste-substrates and its reliable fruiting in warm, humid conditions.
 ---
 
 The species is commercially significant in tropical mushroom farming due to its fast colonization speed, broad substrate range, and [[fukuoka-natural-farming-in-tropical-regions]]. It requires no cold shock for fruiting, distinguishing it from temperate *Pleurotus* species.

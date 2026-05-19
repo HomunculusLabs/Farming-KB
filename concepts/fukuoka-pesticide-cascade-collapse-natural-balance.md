@@ -1,8 +1,8 @@
 ---
 source: administrator-microsoft-word-fukuoka-textdoc.md
-source_author: [[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]] worse.
+source_author: fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard worse.
 He called this the "pesticide cascade" — a self-perpetuating cycle of
-intervention and failure that characterizes [[fukuoka-spider-ecosystem-drama-rice-fields]] received at least eight chemical
+intervention and failure that characterizes fukuoka-spider-ecosystem-drama-rice-fields received at least eight chemical
 applications per year, yet insect damage remained the same as in unsprayed
 fields. The pesticide was not reducing damage — it was maintaining perpetual
 imbalance to ensure continued need for application.

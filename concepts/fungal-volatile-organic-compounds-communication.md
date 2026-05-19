@@ -4,10 +4,10 @@ source: general knowledge
 topics:
   - mycology
   - chemical ecology
-  - [[plant-olfaction-volatile-organic-compound-signaling]]
+  - plant-olfaction-volatile-organic-compound-signaling
 compounds (VOCs)—low-molecular-weight chemicals that
-evaporate at [[growing-gourmet-spore-germination-strain-isolation]] of competitors—a form of
-[[arbuscule-isolation-metabolic-activity-assays]] in
+evaporate at growing-gourmet-spore-germination-strain-isolation of competitors—a form of
+arbuscule-isolation-metabolic-activity-assays in
 response to VOCs produced by neighboring colonies of the
 same species, coordinating collective behaviors such as
 spore dispersal timing and resource allocation.

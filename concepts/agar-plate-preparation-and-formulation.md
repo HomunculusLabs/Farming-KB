@@ -3,7 +3,7 @@ title: Agar Plate Preparation And Formulation
 created: 2026-05-13
 source: cotter-organic-mushroom-farming-mycoremediation.md
 tags: [agar, petri-plates, tissue-culture, sterile-technique, mycology-laboratory-setup-and-agar-plate-preparation|mycology-lab, media-preparation, fungal-culture, sterilization]
-aliases: [Making Agar Plates, [[fungal-culture-media]], Potato Agar Recipe]
+aliases: [Making Agar Plates, fungal-culture-media, Potato Agar Recipe]
 ---
 
 ## Agar Plate Preparation and Formulation

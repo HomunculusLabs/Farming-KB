@@ -1,13 +1,13 @@
 ---
 title: Darwin Phototropism Experiments Plant Vision Discovery
-source: "What a Plant Knows ([[daniel-chamovitz]], 2012)"
+source: "What a Plant Knows (daniel-chamovitz, 2012)"
 tags: [plant-biology, phototropism, history-of-science, darwin,
      plant-sensory-biology, experimental-design, auxin]
-related: "[[phytochrome]], plant photoreceptor families beyond phytochrome,
-          [[darwin-power-of-movement-in-plants]]
+related: "phytochrome, plant photoreceptor families beyond phytochrome,
+          darwin-power-of-movement-in-plants
 in Plants*, a work that fundamentally reshaped our understanding of how plants
 perceive and respond to their environment. Among the book's many contributions,
-the Darwins' experiments on [[plant-sensory-perception]] (in the tip)
+the Darwins' experiments on plant-sensory-perception (in the tip)
 and motor response (in the elongation zone), a principle previously
 associated with animal nervous systems. The Darwins were careful not to
 overstate the analogy, but the implication was clear: plants possess

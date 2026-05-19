@@ -1,6 +1,6 @@
 ---
 title: "Harbored Anger, Guilt, and Martyrdom — Three Destructive Emotional Patterns"
-source: "The [[blesching-cannabis-health-index-autoimmune-conditions]] (Blesching)"
+source: "The blesching-cannabis-health-index-autoimmune-conditions (Blesching)"
 source_key: "uwe-blesching-the-cannabis-health-index.md"
 topics: [mind-body-medicine, emotions, anger, guilt, martyrdom, psychosomatic-health, emotional-healing]
 aliases: [destructive emotions, harbored anger, guilt as motivation, martyrdom complex, righteous anger, emotional toxicity]

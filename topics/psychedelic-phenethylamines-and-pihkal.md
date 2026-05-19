@@ -1,6 +1,6 @@
 ---
 title: Psychedelic Phenethylamines and PIHKAL
-subtitle: The chemistry, pharmacology, and [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]], which has been used in Indigenous ceremonial contexts for thousands
+subtitle: The chemistry, pharmacology, and gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch, which has been used in Indigenous ceremonial contexts for thousands
 of years. But the phenethylamine landscape extends far beyond this single
 natural compound: through the work of chemists over the past century, hundreds
 of synthetic variants have been created, each with subtly different properties,

@@ -1,6 +1,6 @@
 ---
 title: Fao Three In One Training Rehabilitation Mushroom Enterprise
-source: FAO Training Manual - [[solomon-insects-and-diseases-integrated-approach]] developed
+source: FAO Training Manual - solomon-insects-and-diseases-integrated-approach developed
 by the FAO Regional Office for Asia and the Pacific that combines
 rehabilitation of the mind and body, mushroom cultivation skills,
 and enterprise development into a single comprehensive training

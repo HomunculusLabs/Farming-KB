@@ -11,7 +11,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Tutin, T.G. (1993). "Ranunculus L." Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
-  - Whittemore, A.T. (1997). "Ranunculus." Flora [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] where it naturalizes readily in pastures and open grasslands. Like all buttercups, Ranunculus bulbosus contains the toxic compound protoanemonin.
+  - Whittemore, A.T. (1997). "Ranunculus." Flora oyster-mushroom-log-cultivation-temperate-regions-short-log-method where it naturalizes readily in pastures and open grasslands. Like all buttercups, Ranunculus bulbosus contains the toxic compound protoanemonin.
 ---
 
 This compound causes blistering upon contact with skin or mucous membranes and makes the plant strongly unpalatable to livestock.

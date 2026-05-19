@@ -1,8 +1,8 @@
 ---
 title: Zwitterionic Phosphate Intermediate Psilocybin Synthesis
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
-topic: [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis]].md
-  - [[gottlieb-psilocybin-production-extraction-methods]] without any chromatographic
+topic: intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis.md
+  - gottlieb-psilocybin-production-extraction-methods without any chromatographic
 purification—a significant practical advance over previous routes.
 ---
 

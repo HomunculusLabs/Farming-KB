@@ -1,6 +1,6 @@
 ---
 title: Sweet Pink Grapefruit (Alpine Seeds) — Refined SPG Line
-source: [[blesching-cannabis-sativa-indica-classification]] Vol 3
+source: blesching-cannabis-sativa-indica-classification Vol 3
 tags:
   - cannabis-strain
   - sativa-dominant

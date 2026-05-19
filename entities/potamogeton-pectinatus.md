@@ -12,7 +12,7 @@ sources:
   - Wiegleb G, Kaplan Z (1998). "An Account of the Species of Potamogeton L. (Potamogetonaceae)." Folia Geobotanica 33(3): 241–288.
   - Preston CD (1995). "Pondweeds of Great Britain and Ireland." BSBI Handbook No. 8.
   - Murphy K (2016). "Aquatic Plant Management in Lakes and Reservoirs." CRC Press.
-  - van Wijk RJ (1988). "[[dighton-fungal-biomass-production-aquatic-ecosystems]]. Dense beds provide habitat for fish and invertebrates, stabilize sediments, and influence water quality through nutrient uptake.
+  - van Wijk RJ (1988). "dighton-fungal-biomass-production-aquatic-ecosystems. Dense beds provide habitat for fish and invertebrates, stabilize sediments, and influence water quality through nutrient uptake.
 ---
 
 ## Taxonomy and Morphology
