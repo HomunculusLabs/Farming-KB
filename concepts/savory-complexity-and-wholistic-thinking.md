@@ -1,5 +1,5 @@
 ---
-title: savory complexity and wholistic thinking Thinking
+title: Savory Complexity and Wholistic Thinking
 created: 2026-04-28
 tags:
   - holism

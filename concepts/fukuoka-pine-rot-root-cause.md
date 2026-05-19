@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka pine rot root cause Research
+title: Fukuoka Pine Rot Root Cause
 created: 2026-04-20
 updated: 2026-04-20
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis terpenoid profiles detailed
+title: Cannabis Terpenoid Profiles Detailed
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

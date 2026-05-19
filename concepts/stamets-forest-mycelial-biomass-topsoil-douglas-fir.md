@@ -2,7 +2,7 @@
 
 ## Overview
 
-The [[mycelial-networks]] of fungi constitute a remarkably large proportion of total forest biomass, particularly in the topsoil horizon. In [[pseudotsuga-menziesii]]*) forests:
+The [[fungal-mycelial-networks-nutrient-translocation]] of fungi constitute a remarkably large proportion of total forest biomass, particularly in the topsoil horizon. In [[pseudotsuga-menziesii]]*) forests:
 - Mycelial biomass in the topsoil approaches 10% of total ecosystem biomass
 - This estimate is considered conservative, as it does not fully account for endomycorrhizal fungi and yeast-like organisms in the topsoil
 - The actual mycelial contribution may be substantially higher when considering the full depth of the rooting zone and the three-dimensional extent of mycelial networks

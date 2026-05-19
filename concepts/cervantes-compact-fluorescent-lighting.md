@@ -1,5 +1,5 @@
 ---
-title: cervantes compact fluorescent lighting Lighting for Cannabis
+title: Cervantes Compact Fluorescent Lighting
 created: 2026-04-28
 tags:
   - cannabis

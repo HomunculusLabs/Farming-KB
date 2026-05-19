@@ -1,5 +1,5 @@
 ---
-title: Grass grass seed cultivation of psilocybe mushrooms of Psilocybe Mushrooms
+title: Grass Seed Cultivation of Psilocybe Mushrooms
 created: 2026-04-28
 tags:
   - cultivation

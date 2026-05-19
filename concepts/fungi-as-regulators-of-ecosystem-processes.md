@@ -50,7 +50,7 @@ This principle is being applied to agricultural pest management, where introduce
 
 ## Connectivity and Resource Redistribution
 
-A distinguishing feature of fungi among ecosystem organisms is their ability to **connect spatially separated ecosystem components** through perennial [[mycelial-networks]]:
+A distinguishing feature of fungi among ecosystem organisms is their ability to **connect spatially separated ecosystem components** through perennial [[fungal-mycelial-networks-nutrient-translocation]]:
 
 - **Below-ground**: [[mycorrhizal-networks]] link trees and herbaceous plants, enabling interplant transfer of carbon, nutrients, and water in response to source-sink dynamics
 - **Above-ground**: [[mycelial-cords]] in tree canopies and at the soil surface connect decomposing litter, facilitating coordinated decomposition across spatially separated resource patches

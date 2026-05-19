@@ -1,5 +1,5 @@
 ---
-title: metzner lsd psychotherapy approaches Approaches
+title: Metzner Lsd Psychotherapy Approaches
 created: 2026-04-24
 updated: 2026-04-24
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Qualitative qualitative comments methodology pihkal in PiHKAL
+title: Qualitative Comments Methodology Pihkal
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

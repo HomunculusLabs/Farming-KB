@@ -1,5 +1,5 @@
 ---
-title: "How to query how to germinate cannabis seeds Seeds Successfully?"
+title: "Query How to Germinate Cannabis Seeds"
 created: 2026-04-28
 tags: [query, cannabis, seeds, germination, beginner]
 date: 2026-04-25

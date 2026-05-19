@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal kingdom taxonomy classification and Classification
+title: Fungal Kingdom Taxonomy Classification
 created: 2026-04-28
 tags: [mycology, taxonomy, fungal-classification, kingdom-fungi]
 date: 2026-04-28

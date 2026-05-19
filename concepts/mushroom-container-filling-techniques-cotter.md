@@ -1,5 +1,5 @@
 ---
-title: Mushroom mushroom container filling techniques cotter Techniques and Spy Bags
+title: Mushroom Container Filling Techniques Cotter
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

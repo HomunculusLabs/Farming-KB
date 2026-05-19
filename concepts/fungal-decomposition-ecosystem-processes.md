@@ -24,7 +24,7 @@ The functional diversity of fungi involved in decomposition is immense. Differen
 - **[[aquatic-hyphomycetes]]** (aero-aquatic fungi) are specialized for decomposing submerged plant litter in streams and freshwater systems
 - **Marine fungi** contribute to the breakdown of detritus in estuarine and coastal environments
 
-This taxonomic diversity translates into functional redundancy and complementarity, ensuring that decomposition proceeds across a wide range of environmental conditions and substrate qualities. Fungi are not merely decomposers — they are ecosystem engineers that physically modify their environments through hyphal penetration, aggregate formation, and the creation of resource-translocating [[mycelial-networks]].
+This taxonomic diversity translates into functional redundancy and complementarity, ensuring that decomposition proceeds across a wide range of environmental conditions and substrate qualities. Fungi are not merely decomposers — they are ecosystem engineers that physically modify their environments through hyphal penetration, aggregate formation, and the creation of resource-translocating [[fungal-mycelial-networks-nutrient-translocation]].
 
 ---
 

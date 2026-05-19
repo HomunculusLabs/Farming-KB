@@ -16,7 +16,7 @@ sources:
 - **Context:** Thin (0.5–1 mm), tough and corky; white to pale
   cream; distinctly duplex with a darker upper layer
 - **Spores:** Cylindrical to allantoid (sausage-shaped), 5–7 × 1.5–2
-  μm, hyaline, smooth, inamyloid; [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate
+  μm, hyaline, smooth, inamyloid; [[psilocybe-semilanceata]] in temperate
 and subtropical regions. It is found across Europe, North America, Asia,
 Africa, and Australasia. The species fruits year-round in mild climates
 and from spring through autumn in temperate zones. It grows almost

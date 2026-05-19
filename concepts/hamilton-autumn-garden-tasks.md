@@ -1,5 +1,5 @@
 ---
-title: hamilton autumn garden tasks Tasks
+title: Hamilton Autumn Garden Tasks
 created: 2026-04-28
 tags:
   - organic-gardening

@@ -1,5 +1,5 @@
 ---
-title: "comparison adobe vs rammed earth Earth"
+title: "Comparison Adobe vs Rammed Earth"
 created: 2026-04-28
 tags: [comparison, natural-building, adobe, rammed-earth, earth-architecture]
 date: 2026-04-25

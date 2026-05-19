@@ -39,7 +39,7 @@ The Australasian region (Australia, Tasmania, and New Zealand) harbors several e
 
 - **Citations**: Guzmán et al., 1991, 1993b; Johnston & Buchanan, 1995; Stamets, 1996
 - **Distribution**: New Zealand (endemic)
-- **Significance**: Named for the Auckland region of New Zealand's North Island. This species appears to be restricted to New Zealand and has not been reported from Australia or elsewhere, making it one of the few confirmed [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** — confirmed from Australia, Tasmania, and New Zealand. Despite being primarily a Northern Hemisphere temperate species, it has established significant populations in the [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** — reported from Australia by Margot & Watling (1981) and from Tasmania by multiple authors. This species may have been introduced or may represent a natural Southern Hemisphere population.
+- **Significance**: Named for the Auckland region of New Zealand's North Island. This species appears to be restricted to New Zealand and has not been reported from Australia or elsewhere, making it one of the few confirmed [[psilocybe-semilanceata]]** — confirmed from Australia, Tasmania, and New Zealand. Despite being primarily a Northern Hemisphere temperate species, it has established significant populations in the [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** — reported from Australia by Margot & Watling (1981) and from Tasmania by multiple authors. This species may have been introduced or may represent a natural Southern Hemisphere population.
 - **[[psilocybe-aucklandii]]
 - [[psilocybe-tasmaniana]]
 - [[psilocybe-subaeruginosa]]

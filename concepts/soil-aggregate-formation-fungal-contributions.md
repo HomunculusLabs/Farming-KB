@@ -1,5 +1,5 @@
 ---
-title: Soil soil aggregate formation fungal contributions and Fungal Contributions
+title: Soil Aggregate Formation Fungal Contributions
 source: general knowledge
 topics:
   - soil science

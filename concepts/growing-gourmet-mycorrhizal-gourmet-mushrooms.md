@@ -1,5 +1,5 @@
 ---
-title: "growing gourmet mycorrhizal gourmet mushrooms Mushrooms: Matsutake, Boletes, Chanterelles, Truffles"
+title: "Growing Gourmet Mycorrhizal Gourmet Mushrooms"
 created: 2026-04-26
 tags:
   - mycorrhizal

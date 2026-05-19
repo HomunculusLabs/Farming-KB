@@ -1,5 +1,5 @@
 ---
-title: mollison designers chickweed and edible weeds Weeds in Permaculture
+title: Mollison Designers Chickweed and Edible Weeds
 created: 2026-04-28
 tags:
   - permaculture

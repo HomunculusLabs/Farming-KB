@@ -1,5 +1,5 @@
 ---
-title: "teaming with nutrients micronutrients and trace elements Elements"
+title: "Teaming With Nutrients Micronutrients and Trace Elements"
 created: "2026-04-24"
 updated: "2026-04-24"
 type: concept

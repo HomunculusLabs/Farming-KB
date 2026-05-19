@@ -1,5 +1,5 @@
 ---
-title: mollison designers triazonal cultivation system System
+title: Mollison Designers Triazonal Cultivation System
 created: 2026-04-28
 tags:
   - permaculture

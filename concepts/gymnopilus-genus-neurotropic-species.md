@@ -1,5 +1,5 @@
 ---
-title: Gymnopilus gymnopilus genus neurotropic species Species
+title: Gymnopilus Genus Neurotropic Species
 created: 2026-04-28
 tags:
   - mycology

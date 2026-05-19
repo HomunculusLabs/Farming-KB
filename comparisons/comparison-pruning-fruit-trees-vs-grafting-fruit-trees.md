@@ -1,5 +1,5 @@
 ---
-title: "comparison pruning fruit trees vs grafting fruit trees Trees vs holzer-grafting-fruit-forest Trees"
+title: "Comparison Pruning Fruit Trees vs Grafting Fruit Trees"
 created: 2026-04-28
 tags: [comparison, fruit-trees, orchard-management, propagation]
 date: 2026-04-25

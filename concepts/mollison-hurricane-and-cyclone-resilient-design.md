@@ -1,5 +1,5 @@
 ---
-title: "Hurricane and mollison hurricane and cyclone resilient design Design"
+title: "Mollison Hurricane and Cyclone Resilient Design"
 created: 2026-04-26
 tags:
   - permaculture

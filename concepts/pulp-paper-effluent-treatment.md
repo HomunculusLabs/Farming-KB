@@ -1,5 +1,5 @@
 ---
-title: Pulp and pulp paper effluent treatment Treatment
+title: Pulp Paper Effluent Treatment
 created: 2026-04-14
 updated: 2026-04-14
 type: concept

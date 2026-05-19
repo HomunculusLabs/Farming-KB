@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam nutritional balance fertilizer Fertilizer
+title: Jadam Nutritional Balance Fertilizer
 created: 2026-04-14
 updated: 2026-04-14
 type: concept

@@ -1,6 +1,6 @@
 ---
 title: "Medicinal Herb comparison-bean-growing-guide-vs-pepper-growing-guide"
-subtitle: "A comprehensive guide to cultivating, harvesting, and using permaculture-plants-medicinal-herbs-healing in home gardens"
+subtitle: "A comprehensive guide to cultivating, harvesting, and using medicinal herbs in home gardens"
 tags: [herbalism, medicinal-herbs, herb-growing, gardening, permaculture,
   herbal-medicine, plant-propagation, sustainable-agriculture]
 date: 2026-05-02

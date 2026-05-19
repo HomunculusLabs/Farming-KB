@@ -8,7 +8,7 @@ tags: [psilocybin, dose, effects, onset, duration, clinical, emcdda]
 # Hallucinogenic Mushroom Dose and Clinical Effects
 
 This page summarizes the clinical pharmacology of psilocybin-
-[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* | ~1% (highest commonly available) |
+[[psilocybe-semilanceata]]* | ~1% (highest commonly available) |
 | *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* | ~0.6% |
 | *[[doc]]
 - [[psilocybin]]

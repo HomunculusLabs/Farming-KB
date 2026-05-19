@@ -1,5 +1,5 @@
 ---
-title: "coleman moveable greenhouse system System"
+title: "Coleman Moveable Greenhouse System"
 created: 2026-04-28
 tags: [greenhouse, innovation, soil-building, season-extension, design]
 date: 2026-04-25

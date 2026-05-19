@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer permaculture landscape design Design
+title: Holzer Permaculture Landscape Design
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

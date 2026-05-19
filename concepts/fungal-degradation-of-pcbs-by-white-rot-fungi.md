@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal degradation of pcbs by white rot fungi by White-Rot Fungi
+title: Fungal Degradation of Pcbs by White Rot Fungi
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

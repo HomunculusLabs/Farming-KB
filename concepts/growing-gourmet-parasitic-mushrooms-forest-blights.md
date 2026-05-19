@@ -1,5 +1,5 @@
 ---
-title: "growing gourmet parasitic mushrooms forest blights: Blights of the Forest"
+title: "Growing Gourmet Parasitic Mushrooms Forest Blights"
 created: 2026-04-26
 tags:
   - mycology

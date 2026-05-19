@@ -1,5 +1,5 @@
 ---
-title: Tea Cultivation and tea cultivation and camellia sinensis processing Processing
+title: Tea Cultivation and Camellia Sinensis Processing
 tags:
   - tea
   - camellia-sinensis

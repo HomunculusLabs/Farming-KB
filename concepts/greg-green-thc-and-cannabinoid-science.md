@@ -1,5 +1,5 @@
 ---
-title: "greg green thc and cannabinoid science Science"
+title: "Greg Green Thc and Cannabinoid Science"
 created: 2026-04-28
 tags: [cannabis, thc, cannabinoids, potency, chemistry]
 date: 2026-04-25

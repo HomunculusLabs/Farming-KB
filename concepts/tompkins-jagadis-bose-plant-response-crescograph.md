@@ -1,5 +1,5 @@
 ---
-title: Tompkins tompkins jagadis bose plant response crescograph Plant Response Crescograph
+title: Tompkins Jagadis Bose Plant Response Crescograph
 created: 2026-04-28
 tags: [jagadis-bose, crescograph, plant-response, radio-waves,
       electromotive-force, plant-physiology, india, history-of-science]

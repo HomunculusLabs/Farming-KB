@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe psilocybe global biodiversity hotspots Hotspots"
+title: "Psilocybe Global Biodiversity Hotspots"
 type: concept
 tags:
   - psilocybe

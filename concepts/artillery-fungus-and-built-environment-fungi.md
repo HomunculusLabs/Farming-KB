@@ -1,5 +1,5 @@
 ---
-title: "bloomfield-sphaerobolus-artillery-fungus-spore-launch and artillery fungus and built environment fungi Fungi"
+title: "Artillery Fungus and Built Environment Fungi"
 created: 2026-04-26
 tags:
   - mycology

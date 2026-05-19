@@ -1,5 +1,5 @@
 ---
-title: Battelle battelle diesel mycoremediation study Study
+title: Battelle Diesel Mycoremediation Study
 created: 2026-04-22
 updated: 2026-04-22
 type: concept

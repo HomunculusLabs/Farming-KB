@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis seed germination methods Methods
+title: Cannabis Seed Germination Methods
 created: 2026-04-13
 updated: 2026-04-15
 type: concept

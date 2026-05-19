@@ -1,5 +1,5 @@
 ---
-title: "Fungi in Volcanic and dighton fungi volcanic glacier primary succession Succession"
+title: "Dighton Fungi Volcanic Glacier Primary Succession"
 created: 2026-04-26
 tags:
   - mycology

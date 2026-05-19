@@ -1,5 +1,5 @@
 ---
-title: "L. George Lawrence and tompkins lawrence biological interstellar communication Communication"
+title: "Tompkins Lawrence Biological Interstellar Communication"
 created: 2026-04-28
 tags: [lawrence, interstellar-communication, ceti, plant-stimulation, biodynamic-field-station, stellartron, parapsychology]
 date: 2026-04-25

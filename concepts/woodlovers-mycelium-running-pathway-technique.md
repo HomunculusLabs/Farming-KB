@@ -5,8 +5,8 @@ updated: 2026-04-24
 type: concept
 tags: [cultivation, mycology, expansion]
 sources:
-  - growing-psilocybe-azurescens
-  - growing-the-woodlovers-outdoors
+  - "raw/papers/growing-psilocybe-azurescens.md"
+  - "raw/papers/growing-the-woodlovers-outdoors.md"
 ---
 # Woodlovers Mycelium Running Pathway Technique
 

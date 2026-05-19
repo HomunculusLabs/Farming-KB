@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis microbiome experimental design Design
+title: Cannabis Microbiome Experimental Design
 created: 2026-04-28
 tags: [microbiome, methods, cannabis, experimental-design]
 date: 2026-04-28

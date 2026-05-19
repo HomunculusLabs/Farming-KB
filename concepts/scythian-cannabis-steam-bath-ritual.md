@@ -1,5 +1,5 @@
 ---
-title: "Scythian scythian cannabis steam bath ritual Bath Ritual"
+title: "Scythian Cannabis Steam Bath Ritual"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept

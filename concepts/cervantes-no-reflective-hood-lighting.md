@@ -1,5 +1,5 @@
 ---
-title: "No cervantes no reflective hood lighting Lighting (Bare Bulb)"
+title: "Cervantes No Reflective Hood Lighting"
 created: 2026-04-28
 tags:
   - cannabis-lighting

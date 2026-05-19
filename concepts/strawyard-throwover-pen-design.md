@@ -1,5 +1,5 @@
 ---
-title: Strawyard strawyard throwover pen design Design
+title: Strawyard Throwover Pen Design
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

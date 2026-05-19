@@ -14,7 +14,7 @@ The potency of psilocybin-containing mushrooms is not static — it changes dram
 
 Psilocybin content in mushrooms peaks before sporulation begins and declines steadily afterward. When a mushroom cap opens, the veil tears away, gills turn dark brown to purple, and spore deposits gather on the stem, the specimen has passed its prime for psychedelic use. This principle appears to hold true across all [[emcdda-psilocybin-mushroom-species-and-identification]], whether cultivated or wild-harvested.
 
-Research by Jochen Gartz demonstrated that *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* can achieve a baseline psilocybin content of 1% by dry weight — comparable to the more famously potent *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* (liberty cap). However, reaching this level depends on several converging factors:
+Research by Jochen Gartz demonstrated that *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* can achieve a baseline psilocybin content of 1% by dry weight — comparable to the more famously potent *[[psilocybe-semilanceata]]* (liberty cap). However, reaching this level depends on several converging factors:
 
 - **Substrate**: Brown rice provides an excellent base for potency development
 - **Age/maturity**: Young, pre-veil-break specimens contain the highest concentrations

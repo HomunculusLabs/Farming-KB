@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Foraging cord-forming basidiomycetes face continuous pressure from soil invertebrate grazers, particularly Collembola (springtails). Grazing triggers dramatic changes in mycelial morphology, foraging patterns, and physiology — analogous to herbivory effects on plants. At the other extreme of the foraging spectrum, large, persistent [[mycelial-networks]] employ a "sit and wait" strategy, capitalizing on resources that arrive within their already-established territory. These responses highlight the remarkable plasticity and resilience of fungal mycelial systems.
+Foraging cord-forming basidiomycetes face continuous pressure from soil invertebrate grazers, particularly Collembola (springtails). Grazing triggers dramatic changes in mycelial morphology, foraging patterns, and physiology — analogous to herbivory effects on plants. At the other extreme of the foraging spectrum, large, persistent [[fungal-mycelial-networks-nutrient-translocation]] employ a "sit and wait" strategy, capitalizing on resources that arrive within their already-established territory. These responses highlight the remarkable plasticity and resilience of fungal mycelial systems.
 
 ## Invertebrate Grazing Effects
 

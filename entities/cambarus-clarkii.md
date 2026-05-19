@@ -50,7 +50,7 @@ tags: [crustacean, aquaculture, freshwater, crayfish, permaculture]
 - Crayfish pond sediments and waste contribute to organic matter accumulation useful for composting
 - The rice-crayfish dual-crop model parallels the integrated cultivation approach used in mushroom-crop systems
 - Detritivore function mirrors the decomposer role of fungi [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]
-- Burrowing and sediment turnover by crayfish parallels the substrate-colonising behaviour of [[mycelial-networks]]
+- Burrowing and sediment turnover by crayfish parallels the substrate-colonising behaviour of [[fungal-mycelial-networks-nutrient-translocation]]
 
 ## References
 - Mollison, B. (1988). *[[permaculture]]: A Designers' Manual*. [[tagari-publications]]. Chapter 13.

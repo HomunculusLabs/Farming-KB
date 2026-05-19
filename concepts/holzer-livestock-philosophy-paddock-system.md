@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer livestock philosophy paddock system and Paddock System
+title: Holzer Livestock Philosophy Paddock System
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

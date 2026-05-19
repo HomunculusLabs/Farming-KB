@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis chemotype classification cannabinoid breeding and Cannabinoid Level Breeding (Clarke)
+title: Cannabis Chemotype Classification Cannabinoid Breeding
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

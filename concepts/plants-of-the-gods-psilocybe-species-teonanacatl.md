@@ -36,7 +36,7 @@ psychoactive species include:
   cosmopolitan in the tropics, known in Oaxaca as Hongo de
   San Isidro or Di-shi-tjo-le-rra-ja ("[[soma-controversy-fly-agaric-as-divine-mushroom]] of
   manure").
-- [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (Liberty Cap) — cosmopolitan
+- [[psilocybe-semilanceata]] (Liberty Cap) — cosmopolitan
   except Mexico, the most common [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] — known only from the slopes of the
   volcano Popocatepetl, depicted on the pedestal of the
   Xochipilli statue.

@@ -1,5 +1,5 @@
 ---
-title: teaming with nutrients natural vs synthetic fertilizers Fertilizers
+title: Teaming With Nutrients Natural vs Synthetic Fertilizers
 created: 2026-04-18
 updated: 2026-04-21
 type: concept

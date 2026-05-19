@@ -39,7 +39,7 @@ The genus Saprolegnia serves as type genus. Water molds are common in
 freshwater environments where they decompose organic matter and cycle nutrients.
 Some species are significant pathogens of fish and aquatic organisms, impacting
 both wild populations and aquaculture. These organisms produce zoospores that
-germinate on suitable substrates to form extensive [[mycelial-networks]].
+germinate on suitable substrates to form extensive [[fungal-mycelial-networks-nutrient-translocation]].
 
 ### Peronosporomycetidae — Plant and Animal Parasites
 

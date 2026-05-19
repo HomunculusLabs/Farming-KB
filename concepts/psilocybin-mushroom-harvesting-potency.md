@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The potency of psilocybin-containing mushrooms is not static — it changes dramatically throughout the mushroom's life cycle. Understanding when and how to harvest is critical for maximizing the concentration of active alkaloids ([[hplc-analysis-of-psilocybin-and-psilocin]]). Research by Jochen Gartz demonstrated that *Psilocybe cubensis* can achieve a baseline psilocybin content of 1%, comparable to *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]*, but only under optimal conditions.
+The potency of psilocybin-containing mushrooms is not static — it changes dramatically throughout the mushroom's life cycle. Understanding when and how to harvest is critical for maximizing the concentration of active alkaloids ([[hplc-analysis-of-psilocybin-and-psilocin]]). Research by Jochen Gartz demonstrated that *Psilocybe cubensis* can achieve a baseline psilocybin content of 1%, comparable to *[[psilocybe-semilanceata]]*, but only under optimal conditions.
 
 ## Factors Affecting Potency
 

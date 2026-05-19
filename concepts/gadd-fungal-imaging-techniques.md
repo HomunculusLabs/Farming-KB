@@ -1,5 +1,5 @@
 ---
-title: gadd fungal imaging techniques Techniques
+title: Gadd Fungal Imaging Techniques
 created: 2026-04-28
 tags:
   - microscopy
@@ -62,7 +62,7 @@ Radiolabelling involves incorporating radioactive isotopes into
 molecules to track their movement and transformation. In fungal
 research, radiolabelled substrates (carbon-14, tritium) have been used
 to study translocation of nutrients within [[doc]]
-- [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]]
+- [[fungal-symbiosis]]
 - [[gadd-beetle-gut-fungal-symbiosis]]
 
 ## Overview

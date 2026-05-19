@@ -145,5 +145,5 @@ Artificial soil structures were created by randomly removing hexagonal cell bloc
 ## See Also
 
 - [[fungal-mycelial-network-graph-theory]] — Network topology analysis of corded mycelia
-- [[fungal-network-resilience-evolution]] — Resilience and evolutionary dynamics of [[mycelial-networks]]
+- [[fungal-network-resilience-evolution]] — Resilience and evolutionary dynamics of [[fungal-mycelial-networks-nutrient-translocation]]
 - [[pulsatile-nutrient-transport-fungal-mycelia]] — Oscillatory nutrient dynamics in mycelia

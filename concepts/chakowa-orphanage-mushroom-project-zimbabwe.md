@@ -1,5 +1,5 @@
 ---
-title: Chakowa chakowa orphanage mushroom project zimbabwe Project — Zimbabwe Case Study
+title: Chakowa Orphanage Mushroom Project Zimbabwe
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

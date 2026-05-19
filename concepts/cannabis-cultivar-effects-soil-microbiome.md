@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis cultivar effects soil microbiome on Soil Microbiome
+title: Cannabis Cultivar Effects Soil Microbiome
 slug: cannabis-cultivar-effects-soil-microbiome
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 created: 2026-05-08

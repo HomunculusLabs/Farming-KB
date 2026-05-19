@@ -1,5 +1,5 @@
 ---
-title: "DMT, dmt finnegans wake and the merry go raum, and the Merry Go Raum"
+title: "Dmt Finnegans Wake and the Merry Go Raum"
 tags:
   - dmt
   - mckenna

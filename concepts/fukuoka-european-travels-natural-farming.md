@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka european travels natural farming and comparison-natural-farming-vs-permaculture Spread
+title: Fukuoka European Travels Natural Farming
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

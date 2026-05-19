@@ -59,7 +59,7 @@ touching. Amateur collectors would not be knowledgeable enough to
 separate the deadly species from the psilocybin one.
 
 Similarly, deadly Galerinas have been found growing near Psilocybe
-cyanescens, [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]. In some
+cyanescens, [[psilocybe-semilanceata]]. In some
 cases, woodland Galerinas coexist in the same habitat as grassland
 Psilocybes, especially in lands recently converted to pastures. This
 habitat overlap is one of the most dangerous aspects of psilocybin

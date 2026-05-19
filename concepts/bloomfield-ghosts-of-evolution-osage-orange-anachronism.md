@@ -1,5 +1,5 @@
 ---
-title: Ghosts of Evolution and the bloomfield ghosts of evolution osage orange anachronism Anachronism
+title: Bloomfield Ghosts of Evolution Osage Orange Anachronism
 created: 2026-04-28
 tags:
   - mycology

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-**Photon-Counting Scintillation Imaging (PCSI)** is a novel non-invasive technique developed to track the movement of radiolabelled compounds through fungal [[mycelial-networks]]. It enables continuous, real-time visualization of nutrient translocation at the millimetre to centimetre scale in growing mycelia, providing unprecedented insight into how saprotrophic basidiomycetes distribute resources through their foraging networks.
+**Photon-Counting Scintillation Imaging (PCSI)** is a novel non-invasive technique developed to track the movement of radiolabelled compounds through fungal [[fungal-mycelial-networks-nutrient-translocation]]. It enables continuous, real-time visualization of nutrient translocation at the millimetre to centimetre scale in growing mycelia, providing unprecedented insight into how saprotrophic basidiomycetes distribute resources through their foraging networks.
 
 ## Principle of Operation
 

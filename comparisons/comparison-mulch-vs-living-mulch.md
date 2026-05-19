@@ -1,5 +1,5 @@
 ---
-title: "comparison mulch vs living mulch Mulch"
+title: "Comparison Mulch vs Living Mulch"
 created: 2026-04-28
 tags: [comparison, soil, mulch, ground-cover, no-till]
 date: 2026-04-25

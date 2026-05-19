@@ -25,7 +25,7 @@ sources:
 
 Dictyophora indusiata is commercially cultivated in China, particularly in Fujian, Guizhou, and Yunnan provinces, where it is considered a delicacy.
 
-- **Substrate:** Traditionally grown on bamboo sawdust mixed with rice bran (80:20 ratio). Alternative substrates include hardwood sawdust (beech, oak), wheat straw, [[spawn-preparation]]:** Grain spawn (wheat, rye, or sorghum) inoculated from pure culture. [[fruiting-conditions]] ions:** Requires high humidity (85–95%), temperature 22–28°C, diffuse light, and adequate fresh air exchange. A cold shock or temperature fluctuation can stimulate [[stamets-biological-efficiency-yield]] ficiency typically 40–60% over 2–3 flushes. First flush produces the largest [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
+- **Substrate:** Traditionally grown on bamboo sawdust mixed with rice bran (80:20 ratio). Alternative substrates include hardwood sawdust (beech, oak), wheat straw, [[spawn-preparation]]:** Grain spawn (wheat, rye, or sorghum) inoculated from pure culture. [[fruiting-conditions]] ions:** Requires high humidity (85–95%), temperature 22–28°C, diffuse light, and adequate fresh air exchange. A cold shock or temperature fluctuation can stimulate [[biological-efficiency]] ficiency typically 40–60% over 2–3 flushes. First flush produces the largest [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 - **Growth cycle:** From inoculation to first harvest is approximately 50–70 days. Total cropping cycle is 3–4 months.
 - **Challenges:** Susceptible to contamination by Trichoderma and other molds during spawn run. The egg stage is vulnerable to insect larvae and mites.
 

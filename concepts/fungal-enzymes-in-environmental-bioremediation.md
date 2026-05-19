@@ -1,5 +1,5 @@
 ---
-title: fungal fungal enzymes in environmental bioremediation bioremediation
+title: Fungal Enzymes in Environmental Bioremediation
 created: 2026-04-28
 tags: [mycology, enzymes, bioremediation, biochemistry, environmental-science]
 date: 2026-04-28

@@ -1,5 +1,5 @@
 ---
-title: growing gourmet straw pasteurization methods Methods for accessible-mushroom-cultivation-for-disabilities
+title: Growing Gourmet Straw Pasteurization Methods
 created: 2026-04-26
 tags:
   - mycology

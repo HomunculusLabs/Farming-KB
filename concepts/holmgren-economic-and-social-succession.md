@@ -1,5 +1,5 @@
 ---
-title: holmgren economic and social succession Succession
+title: Holmgren Economic and Social Succession
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

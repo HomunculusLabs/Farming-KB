@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis indoor ventilation setup Setup
+title: Cannabis Indoor Ventilation Setup
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

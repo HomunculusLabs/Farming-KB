@@ -8,18 +8,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - grain-spawn-preparation
-  - sterile-cultivation-technique
-  - agar-culture-and-isolation
-  - strain-isolation-from-wild-specimens
-  - substrate-preparation-and-pasteurization
-  - sterilization-techniques-mushroom-cultivation
-  - strain-selection-development
-  - agar-medium-preparation
-  - mushroom-cultivation-fundamentals
-  - psilocybin-mushroom-cultivation-guide
-  - troubleshooting-mushroom-contamination
-  - biological-efficiency
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 related_concepts:
   - grain-spawn-preparation
   - sterile-cultivation-technique

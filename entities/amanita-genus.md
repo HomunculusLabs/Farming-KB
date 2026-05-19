@@ -66,7 +66,7 @@ Palmer described a particularly dangerous confusion between Amanitas and Russula
 
 ## Ecological Notes
 
-Palmer observed that Amanitas grow in the same locations year after year. The underground [[mycelial-networks]] persist and produce fruiting bodies in predictable patterns, much like perennial plants. This regularity means that once a location is identified as harboring dangerous Amanitas, foragers can be forewarned in future seasons.
+Palmer observed that Amanitas grow in the same locations year after year. The underground [[fungal-mycelial-networks-nutrient-translocation]] persist and produce fruiting bodies in predictable patterns, much like perennial plants. This regularity means that once a location is identified as harboring dangerous Amanitas, foragers can be forewarned in future seasons.
 
 ## Relevance to Mycology and Foraging Safety
 

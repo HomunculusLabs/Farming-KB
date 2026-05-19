@@ -1,5 +1,5 @@
 ---
-title: Permaculture permaculture integrated animal systems Systems
+title: Permaculture Integrated Animal Systems
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

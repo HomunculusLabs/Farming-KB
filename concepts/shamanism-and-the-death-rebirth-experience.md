@@ -12,7 +12,7 @@ Shamanism represents humanity's oldest and most indigenous form of spiritual pra
 
 ## The Shamanic Paradigm
 
-At the core of [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] of these stories across ancient documents suggests a common historical source — the indigenous natural practice of shamanism.
+At the core of [[psilocybe-semilanceata]] of these stories across ancient documents suggests a common historical source — the indigenous natural practice of shamanism.
 
 Before the development of writing or organized religion, early humans who encountered consciousness-expanding plants became aware of realities beyond normal physical perception. This discovery likely catalyzed:
 

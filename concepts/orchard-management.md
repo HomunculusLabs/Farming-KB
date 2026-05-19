@@ -22,7 +22,6 @@ sources:
 - raw/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 - raw/mr-bloomfields-orchard
 - raw/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
-- web-research
 ---
 
 # Orchard Management

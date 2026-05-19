@@ -1,5 +1,5 @@
 ---
-title: savory holistic resource management brittle vs nonbrittle environments Environments
+title: Savory Holistic Resource Management Brittle vs Nonbrittle Environments
 created: 2026-04-28
 tags:
   - holistic-management

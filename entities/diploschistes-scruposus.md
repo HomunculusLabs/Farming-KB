@@ -47,7 +47,7 @@ Pycnidia are common and immersed within the thalline areoles, producing small co
 
 ## Distribution, Habitat and Ecology
 
-Diploschistes scruposus has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], occurring on every continent except Antarctica. It is particularly abundant in Mediterranean climates, [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], and arid to semi-arid environments. The species ranges from sea level to elevations exceeding 2500 meters in mountainous areas, demonstrating considerable ecological amplitude.
+Diploschistes scruposus has a [[psilocybe-semilanceata]], occurring on every continent except Antarctica. It is particularly abundant in Mediterranean climates, [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], and arid to semi-arid environments. The species ranges from sea level to elevations exceeding 2500 meters in mountainous areas, demonstrating considerable ecological amplitude.
 
 In North America, Diploschistes scruposus is widespread across the southern and western [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the lichen microecosystem and may facilitate [[cervantes-air-quality-ventilation]] in lichen biomonitoring studies.
 

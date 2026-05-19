@@ -1,5 +1,5 @@
 ---
-title: coleman quick hoops construction Construction
+title: Coleman Quick Hoops Construction
 created: 2026-04-28
 tags:
   - season-extension

@@ -1,5 +1,5 @@
 ---
-title: Psychedelic psychedelic therapy shamanism comparison Comparison
+title: Psychedelic Therapy Shamanism Comparison
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

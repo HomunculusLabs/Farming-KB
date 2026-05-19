@@ -1,5 +1,5 @@
 ---
-title: "Natural Dye Plants and natural dye plants and textile fiber crops Crops"
+title: "Natural Dye Plants and Textile Fiber Crops"
 subtitle: "A comprehensive guide to growing plants for natural color and sustainable textiles"
 tags: [natural-dyeing, fiber-crops, textiles, permaculture, sustainable-craft]
 date: 2026-04-28

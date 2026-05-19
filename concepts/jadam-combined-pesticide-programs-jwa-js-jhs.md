@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam combined pesticide programs jwa js jhs Programs with JWA JS and JHS
+title: Jadam Combined Pesticide Programs Jwa Js Jhs
 created: 2026-04-28
 tags: [jadam, pesticide-programs, jwa-js-jhs, integrated-pest-management]
 date: 2026-04-25

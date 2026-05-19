@@ -1,5 +1,5 @@
 ---
-title: "comparison aerobic vs anaerobic composting Composting"
+title: "Comparison Aerobic vs Anaerobic Composting"
 created: 2026-04-28
 tags: [comparison, composting, soil, nutrients, fermentation]
 date: 2026-04-25

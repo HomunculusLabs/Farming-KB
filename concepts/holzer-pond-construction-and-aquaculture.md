@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer pond construction and aquaculture and Aquaculture
+title: Holzer Pond Construction and Aquaculture
 created: 2026-04-21
 updated: 2026-04-18
 type: concept

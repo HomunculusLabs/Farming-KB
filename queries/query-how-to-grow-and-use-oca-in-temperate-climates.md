@@ -1,5 +1,5 @@
 ---
-title: "How to Grow and Use query how to grow and use oca in temperate climates Climates"
+title: "Query How to Grow and Use Oca in Temperate Climates"
 tags: [oca, growing-guide, temperate-climates, root-crops, daylength, tuber-crops, faq, cultivation]
 created: 2026-05-03
 updated: 2026-05-03

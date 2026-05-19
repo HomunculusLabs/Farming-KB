@@ -20,7 +20,7 @@ The Pacific Northwest of psilocybin north america pacific northwest -- encompass
 
 ### Panaeolus subbalteatus (Red Cap)
 
-[[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] users in the United States outnumbered LSD users for the first time. The total number of [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in the region from the late 1960s onward.
+[[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] users in the United States outnumbered LSD users for the first time. The total number of [[psilocybe-semilanceata]] in the region from the late 1960s onward.
 
 ## Hawaii
 

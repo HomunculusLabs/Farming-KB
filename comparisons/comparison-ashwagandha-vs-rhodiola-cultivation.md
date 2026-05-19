@@ -1,5 +1,5 @@
 ---
-title: "comparison ashwagandha vs rhodiola cultivation Cultivation"
+title: "Comparison Ashwagandha vs Rhodiola Cultivation"
 tags: [ashwagandha, rhodiola, adaptogen, medicinal-herbs, cultivation-comparison]
 date: 2026-05-03
 updated: 2026-05-03

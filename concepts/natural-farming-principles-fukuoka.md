@@ -1,5 +1,5 @@
 ---
-title: Natural natural farming principles fukuoka of Masanobu Fukuoka
+title: Natural Farming Principles Fukuoka
 created: 2026-05-06
 tags:
   - farming

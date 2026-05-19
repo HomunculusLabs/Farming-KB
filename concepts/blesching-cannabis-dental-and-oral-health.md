@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and blesching cannabis dental and oral health Health"
+title: "Blesching Cannabis Dental and Oral Health"
 created: 2026-04-26
 tags:
   - cannabis

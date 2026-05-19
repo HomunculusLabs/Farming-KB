@@ -1,5 +1,5 @@
 ---
-title: Psilocybin as psilocybin as catalyst for paradigm shift Shift
+title: Psilocybin as Catalyst for Paradigm Shift
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

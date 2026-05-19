@@ -1,5 +1,5 @@
 ---
-title: Pezizales and pezizales discomycete ascomycete diversity Diversity
+title: Pezizales Discomycete Ascomycete Diversity
 created: 2026-04-26
 tags:
   - pezizales

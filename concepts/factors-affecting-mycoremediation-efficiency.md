@@ -1,5 +1,5 @@
 ---
-title: Factors factors affecting mycoremediation efficiency Efficiency
+title: Factors Affecting Mycoremediation Efficiency
 created: 2026-04-15
 updated: 2026-04-15
 type: concept

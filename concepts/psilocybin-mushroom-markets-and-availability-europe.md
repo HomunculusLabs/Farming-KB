@@ -65,7 +65,7 @@ quality, and eliminate the risk of misidentification with toxic lookalikes — a
 significant concern given that several deadly poisonous mushrooms resemble
 psilocybin-containing species. Key wild European species include:
 
-- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]**: The most common wild species, found in wet grassy
+- **[[psilocybe-semilanceata]]**: The most common wild species, found in wet grassy
   fields and uncultivated pastures across central and northern Europe.
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-title: "comparison keyline vs swale design Design"
+title: "Comparison Keyline vs Swale Design"
 created: 2026-04-28
 tags: [comparison, permaculture, water-management, earthworks, erosion-control]
 date: 2026-04-25

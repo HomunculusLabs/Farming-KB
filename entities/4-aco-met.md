@@ -142,6 +142,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[4-aco-det-entity]]
+- [[4-acetoxy-det]]
 - [[4-aco-dipt]]
 - [[4-aco-dmt]]

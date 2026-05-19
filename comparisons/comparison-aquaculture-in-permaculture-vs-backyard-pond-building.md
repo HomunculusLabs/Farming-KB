@@ -1,5 +1,5 @@
 ---
-title: "Aquaculture in Permaculture vs comparison aquaculture in permaculture vs backyard pond building Building"
+title: "Comparison Aquaculture in Permaculture vs Backyard Pond Building"
 created: 2026-04-28
 tags: [comparison, water-systems, aquaculture, permaculture, pond-management]
 date: 2026-04-25

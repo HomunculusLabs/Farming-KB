@@ -19,7 +19,7 @@ source:
 
 ## Overview
 
-Psilocybin mushrooms are a group of [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* (liberty cap),
+Psilocybin mushrooms are a group of [[psilocybe-semilanceata]]* (liberty cap),
 *[[stamets-psi-psilocybe-azurescens-species-guide]]*, each with distinct
 morphological features and potency profiles. Many *Psilocybe* species are
 small and inconspicuous, thriving in grasslands, pastures, and decaying wood.

@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer crater gardens hugelkultur and Hugelkultur
+title: Holzer Crater Gardens Hugelkultur
 created: 2026-04-26
 tags:
   - earthworks

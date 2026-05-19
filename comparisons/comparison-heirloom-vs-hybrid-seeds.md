@@ -1,5 +1,5 @@
 ---
-title: "comparison heirloom vs hybrid seeds Seeds"
+title: "Comparison Heirloom vs Hybrid Seeds"
 tags: [comparison, seeds, plant-breeding, seed-saving, genetics]
 date: 2026-04-28
 updated: 2026-04-28

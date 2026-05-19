@@ -1,5 +1,5 @@
 ---
-title: holzer humus storage ditches Ditches
+title: Holzer Humus Storage Ditches
 created: 2026-04-26
 tags:
   - water-management

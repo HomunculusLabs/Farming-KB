@@ -47,7 +47,7 @@ sources:
 - Documented since Ming Dynasty
 - **Indications:** Chronic cough, excessive phlegm, dry throat; fatigue, co [[jadam-rice-bran-problems]] 3–5%, gypsum 1–2%, sucrose 1%; moisture 60–65%
 - **Process:** Autoclave 121°C/1.5–2h in bags/bottles; incubate 20–25°C dark 25–30 days; fruit at 15–20°C, 85–95% humidity, 100–300 lux light
-- **Yield:** 30–50 days to harvest; 80–150 g/bag fresh; 2–3 flushes; [[stamets-biological-efficiency-yield]] 25–40%
+- **Yield:** 30–50 days to harvest; 80–150 g/bag fresh; 2–3 flushes; [[biological-efficiency]] 25–40%
 - **Log method (traditional):** Hardwood logs buried 8–12 months; lower yield, superior quality
 - **Production:** China ~5,000–10,000 MT fresh annually; Yunnan primary region
 

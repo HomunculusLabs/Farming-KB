@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis harvesting and curing techniques Techniques
+title: Cannabis Harvesting and Curing Techniques
 created: 2026-04-28
 tags: [cannabis, harvesting, curing, post-harvest, quality]
 date: 2026-04-25

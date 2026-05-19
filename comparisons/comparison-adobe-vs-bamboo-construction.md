@@ -1,5 +1,5 @@
 ---
-title: comparison adobe vs bamboo construction Construction
+title: Comparison Adobe vs Bamboo Construction
 created: 2026-04-28
 tags:
   - natural-building

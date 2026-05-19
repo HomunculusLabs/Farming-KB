@@ -1,5 +1,5 @@
 ---
-title: Cannabis For cannabis for skin conditions detailed Detailed
+title: Cannabis for Skin Conditions Detailed
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

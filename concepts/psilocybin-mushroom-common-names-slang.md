@@ -1,5 +1,5 @@
 ---
-title: Psilocybin psilocybin mushroom common names slang and Slang
+title: Psilocybin Mushroom Common Names Slang
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -26,7 +26,7 @@ This cross-Pacific surfing culture appears to have facilitated the exchange of c
 
 ## European Names: "Liberty Cap" and "Psilos"
 
-In the [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* is often referred to as the "liberty cap" (see Allen 1997a and 1997b). The name derives from the distinctive shape of the cap, which resembles the Phrygian cap worn as a symbol of liberty during the French Revolution.
+In the [[psilocybe-semilanceata]]* is often referred to as the "liberty cap" (see Allen 1997a and 1997b). The name derives from the distinctive shape of the cap, which resembles the Phrygian cap worn as a symbol of liberty during the French Revolution.
 
 The species is also known to many Europeans simply as "Psilos" — a shorthand derived from the genus name *Psilocybe* that has entered common slang usage. This abbreviation reflects how deeply embedded these mushrooms have become in European drug culture.
 

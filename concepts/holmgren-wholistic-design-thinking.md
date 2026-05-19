@@ -1,5 +1,5 @@
 ---
-title: Holmgren holmgren wholistic design thinking Thinking
+title: Holmgren Wholistic Design Thinking
 created: 2026-04-26
 updated: 2026-04-23
 sources:

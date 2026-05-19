@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer sweet chestnut and nut trees and Nut Trees
+title: Holzer Sweet Chestnut and Nut Trees
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

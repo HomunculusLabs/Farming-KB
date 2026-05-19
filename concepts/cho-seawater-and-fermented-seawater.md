@@ -1,5 +1,5 @@
 ---
-title: "Cho's cho seawater and fermented seawater Seawater"
+title: "Cho Seawater and Fermented Seawater"
 created: 2026-04-28
 tags: [korean-natural-farming, seawater, minerals, trace-elements,
        cho-global]

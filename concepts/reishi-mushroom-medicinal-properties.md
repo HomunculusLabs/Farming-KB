@@ -1,5 +1,5 @@
 ---
-title: Reishi reishi mushroom medicinal properties Properties
+title: Reishi Mushroom Medicinal Properties
 created: 2026-04-14
 updated: 2026-04-15
 type: concept

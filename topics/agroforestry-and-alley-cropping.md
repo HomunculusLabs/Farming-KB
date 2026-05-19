@@ -14,20 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - mollison-designers-alley-cropping-and-contour-hedgerow-systems
-  - mollison-designers-silvopasture-integrated-tree-livestock
-  - mollison-designers-multi-strata-canopy-design
-  - mollison-designers-windbreak-design-species
-  - mollison-designers-windbreak-configurations-for-crops-and-orchards
-  - mollison-designers-casuarina-windbreak-erosion-control
-  - nitrogen-fixing-trees-and-shrubs
-  - nitrogen-fixing-trees
-  - leucaena-alley-cropping-systems
-  - leucaena-alley-cropping-tropical-forage
-  - holmgren-food-forests-agroforestry
-  - forest-edge-windbreak-rainfall-compression
-  - mollison-windbreak-design
-  - permaculture-designers-manual-nitrogen-fixing-trees
+  - "raw/papers/permaculture-beginners-guide.md"
 related_concepts:
   - forest-gardening-and-food-forests
   - permaculture-design-principles

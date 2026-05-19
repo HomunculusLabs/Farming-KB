@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam transition conventional to organic to Organic
+title: Jadam Transition Conventional to Organic
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

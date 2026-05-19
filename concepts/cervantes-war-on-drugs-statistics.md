@@ -1,5 +1,5 @@
 ---
-title: cervantes war on drugs statistics Statistics and Cannabis Arrest Data
+title: Cervantes War on Drugs Statistics
 created: 2026-04-28
 tags:
   - drug-war

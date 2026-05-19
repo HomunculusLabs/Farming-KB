@@ -1,5 +1,5 @@
 ---
-title: Compost and coleman compost and organic fertility management Management
+title: Coleman Compost and Organic Fertility Management
 created: 2026-04-28
 tags:
   - soil-fertility

@@ -1,5 +1,5 @@
 ---
-title: Sepp sepp holzer fruit tree varieties Tree Varieties
+title: Sepp Holzer Fruit Tree Varieties
 created: 2026-04-15
 updated: 2026-04-18
 type: concept

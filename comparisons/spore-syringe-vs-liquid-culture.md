@@ -1,5 +1,5 @@
 ---
-title: Spore spore syringe vs liquid culture Culture Comparison
+title: Spore Syringe vs Liquid Culture
 created: 2026-04-17
 updated: 2026-04-17
 type: comparison

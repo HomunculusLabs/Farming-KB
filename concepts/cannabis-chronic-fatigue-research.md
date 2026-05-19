@@ -1,5 +1,5 @@
 ---
-title: Cannabis and cannabis chronic fatigue research Research
+title: Cannabis Chronic Fatigue Research
 created: 2026-04-18
 updated: 2026-04-19
 type: concept

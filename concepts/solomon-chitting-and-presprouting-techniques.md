@@ -1,5 +1,5 @@
 ---
-title: solomon chitting and presprouting techniques Techniques (Solomon)
+title: Solomon Chitting and Presprouting Techniques
 created: 2026-04-21
 updated: 2026-04-27
 type: concept

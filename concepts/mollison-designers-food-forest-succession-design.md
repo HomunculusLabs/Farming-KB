@@ -1,5 +1,5 @@
 ---
-title: Food mollison designers food forest succession design Design
+title: Mollison Designers Food Forest Succession Design
 created: 2026-04-28
 tags:
   - permaculture

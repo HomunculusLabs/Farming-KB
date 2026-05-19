@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer vole management philosophy Philosophy
+title: Holzer Vole Management Philosophy
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

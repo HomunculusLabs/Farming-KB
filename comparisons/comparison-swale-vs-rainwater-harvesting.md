@@ -1,5 +1,5 @@
 ---
-title: "comparison swale vs rainwater harvesting Harvesting"
+title: "Comparison Swale vs Rainwater Harvesting"
 created: 2026-04-28
 tags: [comparison, water-management, permaculture, earthworks, water-harvesting]
 date: 2026-04-25

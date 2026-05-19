@@ -1,5 +1,5 @@
 ---
-title: Greek greek wine and herbal inebriants Inebriants
+title: Greek Wine and Herbal Inebriants
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

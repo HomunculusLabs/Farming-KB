@@ -1,5 +1,5 @@
 ---
-title: Growing growing gourmet wood ear auricularia cultivation Ear Auricularia Cultivation
+title: Growing Gourmet Wood Ear Auricularia Cultivation
 created: 2026-04-26
 tags:
   - mushroom-cultivation

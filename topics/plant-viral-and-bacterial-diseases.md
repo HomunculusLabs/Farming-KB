@@ -1,5 +1,5 @@
 ---
-title: "Plant plant viral and bacterial diseases Diseases"
+title: "Plant Viral and Bacterial Diseases"
 subtitle: "Pathogens, symptoms, transmission, and management of viral and bacterial diseases in crops"
 tags: [plant-disease, virology, bacteriology, plant-pathology, crop-protection]
 date: 2026-04-28

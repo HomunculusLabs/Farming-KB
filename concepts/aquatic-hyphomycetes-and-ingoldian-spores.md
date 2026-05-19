@@ -1,5 +1,5 @@
 ---
-title: Aquatic aquatic hyphomycetes and ingoldian spores Spores
+title: Aquatic Hyphomycetes and Ingoldian Spores
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

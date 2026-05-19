@@ -21,7 +21,6 @@ sources:
 - raw/papers/mr-bloomfields-orchard
 - raw/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
 - raw/greg-green-the-cannabis-grow-bible.md
-- web-research
 ---
 
 # Orchard Pest Management

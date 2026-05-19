@@ -1,5 +1,5 @@
 ---
-title: Ecological comparison-mandala-garden-design-vs-keyhole-garden-design - gaias garden mature vs immature ecosystems Ecosystems
+title: Gaias Garden Mature vs Immature Ecosystems
 source: a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 author: Toby Hemenway
 topics: ecology, succession, garden-design, permaculture, ecosystems, maturity

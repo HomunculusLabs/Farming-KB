@@ -1,6 +1,6 @@
 ---
 title: "Eliot Coleman's Coleman Deep Organic Farming and Cold House Winter Harvest System"
-subtitle: "A comprehensive guide to year-round dry-gardening-unirrigated-vegetable-production-solomon without heating, from the pioneer of unheated winter growing"
+subtitle: ""A comprehensive guide to year-round without heating, from the pioneer of unheated winter growing""
 tags: [organic-farming, winter-harvest, greenhouse, season-extension, deep-organic, coleman, four-season-farming, soil-health, small-farm]
 date: 2026-05-09
 updated: 2026-05-09

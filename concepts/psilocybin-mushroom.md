@@ -19,7 +19,7 @@ contain psilocybin or related tryptamine alkaloids:
 
 - **Psilocybe cubensis**: The most widely cultivated species, native to
   subtropical regions. Easily identified by its golden-brown cap that
-  bruises blue when damaged. See [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty cap): Found in temperate
+  bruises blue when damaged. See [[psilocybe-semilanceata]]** (liberty cap): Found in temperate
   grasslands of Europe and North America. Considered one of the most
   potent naturally occurring species. See [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** (wavy caps): Known for high potency, found
   in woody debris and mulched areas in temperate coastal regions.

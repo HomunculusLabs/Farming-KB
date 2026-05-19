@@ -1,5 +1,5 @@
 ---
-title: Water mollison designers water purification and storage principles Principles
+title: Mollison Designers Water Purification and Storage Principles
 created: 2026-04-28
 tags:
   - permaculture

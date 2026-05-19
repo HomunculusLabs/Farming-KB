@@ -1,6 +1,6 @@
 ---
 title: "Salvia salvia-divinorum-and-salvinorin-a"
-subtitle: "The Mazatec diviner sage, its unusual diterpene chemistry, and modern mckenna-suppression-psychedelic-research-lsd-therapy"
+subtitle: ""The Mazatec diviner sage, its unusual diterpene chemistry, and modern ""
 tags: [salvia, ethnobotany, psychedelics, pharmacology, mazatec, harm-reduction, botany]
 date: 2026-04-28
 updated: 2026-04-28

@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal microscopic examination mounting media techniques and Mounting Media
+title: Fungal Microscopic Examination Mounting Media Techniques
 source: unknown-biodiversity-of-fungi.md
 tags: [mycology], microscopy, mounting-media, lactophenol, fungal-identification, slide-preparation]
 ---

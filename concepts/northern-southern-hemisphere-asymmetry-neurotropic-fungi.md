@@ -7,7 +7,7 @@ tags: [neurotropic-fungi, distribution, biogeography, psilocybe, diversity, hemi
 
 ## Overview
 
-The [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] being the
+The [[psilocybe-semilanceata]] being the
   most widespread and abundant
 - **Asia**: Approximately 15 species, concentrated in Southeast
   Asia (Thailand, Cambodia, Japan) and India

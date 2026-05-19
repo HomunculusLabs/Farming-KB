@@ -1,5 +1,5 @@
 ---
-title: Gaian gaian psychotherapy and entheogenic plants Plants
+title: Gaian Psychotherapy and Entheogenic Plants
 created: 2026-04-28
 tags: [gaia-theory, psychotherapy, entheogens, ecology, consciousness]
 date: 2026-04-25

@@ -1,5 +1,5 @@
 ---
-title: fukuoka direct observation method Method
+title: Fukuoka Direct Observation Method
 created: 2026-04-18
 updated: 2026-04-20
 type: concept

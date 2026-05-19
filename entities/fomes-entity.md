@@ -8,7 +8,7 @@ sources: []
 ---
 # Fomes
 
-*Fomes* is a genus of bracket fungi (polypores) in the family Polyporaceae, order Polyporales. The genus contains several species of wood-decay fungi that are ecologically significant as decomposers of dead and dying hardwood and conifer trees. The most well-known species is *[[mycelial-networks]] they establish within wood contribute significantly to carbon flow through forest ecosystems.
+*Fomes* is a genus of bracket fungi (polypores) in the family Polyporaceae, order Polyporales. The genus contains several species of wood-decay fungi that are ecologically significant as decomposers of dead and dying hardwood and conifer trees. The most well-known species is *[[fungal-mycelial-networks-nutrient-translocation]] they establish within wood contribute significantly to carbon flow through forest ecosystems.
 
 In forest ecosystems, Fomes species serve as important habitat for other organisms. The cavities and crevices of old fruiting bodies provide shelter for insects, mites, and other arthropods. Birds and small mammals may use large bracket fungi as nesting sites or foraging platforms. The fungi also create entry points for secondary decomposers and contribute to the formation of hollow trees, which are critical habitat features for cavity-nesting wildlife.
 

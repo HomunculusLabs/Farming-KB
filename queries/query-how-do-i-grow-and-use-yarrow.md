@@ -75,7 +75,7 @@ Move pots to a sheltered location in zones 3 and below for winter protection.
 - Yarrow ([[yarrow-achillea-millefolium]]) is a low-maintenance perennial herb hardy to zone 3
 - It functions as a [[dynamic-accumulators|dynamic accumulator]], mining calcium, potassium, and trace minerals from deep soil
 - The flowers attract [[beneficial-insects-pollinators|pollinators]] and predatory insects that control garden pests
-- Yarrow enhances [[companion-planting-guilds|companion planting guilds]] when grown near fruit trees and vegetables
+- Yarrow enhances [[companion-planting-guild|companion planting guilds]] when grown near fruit trees and vegetables
 - Medicinal preparations include [[herbal-tinctures-guide|tinctures]], salves, poultices, and digestive teas
 - Harvest flowers at full bloom and dry them in a warm, dark, ventilated space
 - The plant tolerates drought, poor soil, and neglect once established

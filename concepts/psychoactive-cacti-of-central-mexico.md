@@ -1,5 +1,5 @@
 ---
-title: Psychoactive psychoactive cacti of central mexico Mexico
+title: Psychoactive Cacti of Central Mexico
 created: 2026-04-23
 updated: 2026-04-27
 type: concept

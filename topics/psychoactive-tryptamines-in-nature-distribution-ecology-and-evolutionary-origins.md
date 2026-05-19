@@ -1,5 +1,5 @@
 ---
-title: "Psychoactive psychoactive tryptamines in nature distribution ecology and evolutionary origins: Distribution, Ecology, and Evolutionary Origins"
+title: "Psychoactive Tryptamines in Nature Distribution Ecology and Evolutionary Origins"
 subtitle: "The biogeography, ecological functions, and evolutionary puzzles of naturally occurring psychedelic compounds across fungi, plants, and animals"
 tags: [biogeography, ecology, tryptamine, evolution, distribution, ethnobotany, mycology, neurotropic-fungi]
 date: 2026-04-28

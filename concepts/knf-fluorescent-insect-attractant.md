@@ -1,5 +1,5 @@
 ---
-title: knf fluorescent insect attractant Attractant (FIA)
+title: Knf Fluorescent Insect Attractant
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

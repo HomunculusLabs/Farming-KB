@@ -9,19 +9,8 @@ updated: 2026-04-28
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - aquaponics
-  - aquaponics-guide
-  - aquaponics-fish-species
-  - aquaponics-plant-selection
-  - aquaculture-design-in-permaculture
-  - aquaculture-in-permaculture
-  - faires-aquaculture-pond-systems
-  - faires-pond-design-and-aquaculture
-  - holzer-aquaculture-fish-farming
-  - backyard-pond-building
-  - hemenway-water-harvesting-and-pond-design
-  - bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems
-  - fukuoka-duck-rice-fish-polyculture
-  - fukuoka-duck-rice-fish-symbiosis
+  - "raw/papers/holzer-desert-or-paradise.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 related_concepts:
   - aquaponics
   - aquaponics-guide

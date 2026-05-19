@@ -1,5 +1,5 @@
 ---
-title: "What Is the query what is the cannabis entourage effect Effect"
+title: "Query What is the Cannabis Entourage Effect"
 created: 2026-04-28
 tags: [query, cannabis, cannabinoids, terpenes, science]
 date: 2026-04-25

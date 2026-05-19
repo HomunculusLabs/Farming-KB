@@ -1,5 +1,5 @@
 ---
-title: Psilocybe psilocybe natalensis african species Species
+title: Psilocybe Natalensis African Species
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

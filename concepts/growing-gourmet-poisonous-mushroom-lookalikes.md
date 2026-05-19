@@ -1,5 +1,5 @@
 ---
-title: growing gourmet poisonous mushroom lookalikes Lookalikes in Cultivation
+title: Growing Gourmet Poisonous Mushroom Lookalikes
 created: 2026-04-26
 tags:
   - mushroom-safety

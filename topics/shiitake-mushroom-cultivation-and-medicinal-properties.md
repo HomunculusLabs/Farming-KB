@@ -1,6 +1,6 @@
 ---
 title: Shiitake Mushroom calendula-cultivation-and-medicinal-uses Properties
-subtitle: A comprehensive guide to the biology, ethnomycology-cultural-significance-sacred-fungi of Lentinula edodes
+subtitle: A comprehensive guide to the biology, of Lentinula edodes
 tags:
   - shiitake
   - mushroom-cultivation

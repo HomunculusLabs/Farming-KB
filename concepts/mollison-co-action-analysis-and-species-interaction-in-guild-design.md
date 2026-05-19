@@ -1,5 +1,5 @@
 ---
-title: Co-Action Analysis and Species mollison co action analysis and species interaction in guild design Design
+title: Mollison Co Action Analysis and Species Interaction in Guild Design
 created: 2026-04-26
 tags:
   - permaculture

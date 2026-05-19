@@ -61,7 +61,7 @@ In contemporary Chinese herbal medicine, sanghuang preparations are prescribed a
 
 Korean traditional medicine also recognizes sanghuang as a valuable medicinal mushroom, where it is used for [[fukuoka-matsutake-artificial-cultivation-attempt]] has been achieved on supplemented hardwood sawdust substrates, primarily using oak or beech sawdust enriched with wheat bran and gypsum.
 
-Optimal [[stamets-biological-efficiency-yield]] on sawdust substrates is relatively low at 5-15% fresh weight, reflecting the slow-growing nature of the species. Research on liquid culture fermentation for production of mycelial biomass and extracellular polysaccharides offers a more efficient alternative for industrial-scale bioactive compound production.
+Optimal [[biological-efficiency]] on sawdust substrates is relatively low at 5-15% fresh weight, reflecting the slow-growing nature of the species. Research on liquid culture fermentation for production of mycelial biomass and extracellular polysaccharides offers a more efficient alternative for industrial-scale bioactive compound production.
 
 [[biodiversity-fungal-molecular-identification-dna-barcoding]] using ITS (internal transcribed spacer) region sequencing has become the standard method for species discrimination within the genus. Phylogenetic analysis reveals that Sanghuangporus species form distinct clades corresponding to their geographic origin and host associations.
 

@@ -1,5 +1,5 @@
 ---
-title: European european psycholytic therapy 1960s 1970s Results 1960s 1970s
+title: European Psycholytic Therapy 1960s 1970s
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

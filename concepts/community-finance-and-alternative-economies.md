@@ -1,5 +1,5 @@
 ---
-title: Community community finance and alternative economies Economies
+title: Community Finance and Alternative Economies
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

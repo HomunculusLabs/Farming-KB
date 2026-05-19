@@ -1,5 +1,5 @@
 ---
-title: Myxomycete myxomycete sampling collection moist chamber culturing and Moist Chamber Culturing
+title: Myxomycete Sampling Collection Moist Chamber Culturing
 source: unknown-biodiversity-of-fungi.md
 tags: [mycology, myxomycetes, slime-molds, sampling-methods, moist-chamber, field-collection]
 ---

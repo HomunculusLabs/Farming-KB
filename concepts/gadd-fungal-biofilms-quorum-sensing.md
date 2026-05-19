@@ -38,7 +38,7 @@ protocols regardless of circumstances or local variation.
 
 [[doc]]
 - [[fungal-biomechanical-biochemical-weathering-mechanisms-gadd]]
-- [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]]
+- [[fungal-symbiosis]]
 
 ## Overview
 

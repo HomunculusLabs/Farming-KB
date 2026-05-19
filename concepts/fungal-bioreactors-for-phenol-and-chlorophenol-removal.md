@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal bioreactors for phenol and chlorophenol removal and Chlorophenol Removal
+title: Fungal Bioreactors for Phenol and Chlorophenol Removal
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

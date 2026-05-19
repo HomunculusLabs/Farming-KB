@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis potency enhancement intact flowers of Intact Flowers
+title: Cannabis Potency Enhancement Intact Flowers
 created: 2026-04-14
 updated: 2026-04-18
 type: concept

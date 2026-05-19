@@ -1,5 +1,5 @@
 ---
-title: "metzner metzner hybrid circle ritual structure and council practice Ritual Structure and Council Practice"
+title: "Metzner Hybrid Circle Ritual Structure and Council Practice"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

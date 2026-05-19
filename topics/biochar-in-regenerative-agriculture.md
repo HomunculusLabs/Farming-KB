@@ -15,13 +15,6 @@ updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - biochar
-  - biochar-in-agriculture
-  - biochar-production-guide
-  - biochar-soil-amendment
-  - biochar-soil-remediation
-  - biochar-and-fungi
-  - mollison-designers-charcoal-production-biochar-soil-amendment
-  - ingham-charcoal-biochar-compost-tea
 related_concepts:
   - the-soil-food-web
   - mycorrhizal-fungi

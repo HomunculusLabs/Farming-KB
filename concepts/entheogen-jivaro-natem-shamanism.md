@@ -1,5 +1,5 @@
 ---
-title: "entheogen jivaro natem shamanism Shamanism"
+title: "Entheogen Jivaro Natem Shamanism"
 created: 2026-04-28
 tags: [ethnobotany, shamanism, ayahuasca, banisteriopsis, amazonian]
 date: 2026-04-25

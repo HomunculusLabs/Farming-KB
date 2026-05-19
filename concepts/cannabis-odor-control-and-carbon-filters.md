@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis odor control and carbon filters And Carbon Filters
+title: Cannabis Odor Control and Carbon Filters
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

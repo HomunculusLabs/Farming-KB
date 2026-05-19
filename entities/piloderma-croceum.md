@@ -29,7 +29,7 @@ type: entity
 - Plays a significant role in phosphorus mobilization from recalcitrant mineral sources
 - Late-stage successional species in mycorrhizal community development
 - Contributes substantially to below-ground carbon allocation from host trees
-- Forms extensive [[mycelial-networks]] connecting multiple host plants
+- Forms extensive [[fungal-mycelial-networks-nutrient-translocation]] connecting multiple host plants
 - Commonly found in nutrient-poor, acidic forest soils across Europe and North America
 - Studied in microcosm and mesocosm experiments for understanding carbon flux in mycorrhizal systems
 

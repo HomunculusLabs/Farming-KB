@@ -22,7 +22,7 @@ Similar successional patterns occur in ectomycorrhizal communities during forest
 Despite the emphasis on competition, several observations challenge this framework:
 
 - **Helper bacteria**: Bacterial communities around ectomycorrhizal roots can solubilize phosphates (Leyval and Berthelin, 1983) and facilitate mycorrhizal development as "helper bacteria" (Garbaye, 1994)
-- **[[mycelial-networks]]**: Shared [[mycorrhizal-networks]] facilitate resource transfer between plants of different species
+- **[[fungal-mycelial-networks-nutrient-translocation]]**: Shared [[mycorrhizal-networks]] facilitate resource transfer between plants of different species
 - **Close associations**: Fungi form intimate associations with many organisms (mycorrhizae, endophytes, termite gardens, lichen symbioses)
 
 How much of fungal community structure is the product of synergistic co-evolution rather than competitive exclusion remains largely unknown. Hyde (2001a,b) posed the question "Where are the missing fungi?"—and a parallel question applies to missing ecological interactions that have been overlooked.

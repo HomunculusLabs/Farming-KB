@@ -1,5 +1,5 @@
 ---
-title: cervantes reservoir temperature management Management
+title: Cervantes Reservoir Temperature Management
 created: 2026-04-28
 tags:
   - cannabis

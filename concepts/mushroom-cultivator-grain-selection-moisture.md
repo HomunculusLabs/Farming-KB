@@ -1,5 +1,5 @@
 ---
-title: Mushroom mushroom cultivator grain selection moisture Selection and Moisture Control
+title: Mushroom Cultivator Grain Selection Moisture
 created: 2026-04-28
 tags: [grain-spawn, spawn-production, mushroom-cultivation, sterilization, substrate-preparation]
 date: 2026-04-25

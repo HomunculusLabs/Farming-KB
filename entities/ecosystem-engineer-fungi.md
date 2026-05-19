@@ -17,7 +17,7 @@ networks physically structure soil, mediate nutrient and water transport between
 plants, influence soil aggregation and porosity, and create persistent belowground
 infrastructure underpinning terrestrial ecosystems.
 
-Rayner (1993, 1998) likened fungal [[mycelial-networks]] in forests to urban
+Rayner (1993, 1998) likened fungal [[fungal-mycelial-networks-nutrient-translocation]] in forests to urban
 infrastructure — communication systems, power supply, plumbing, and sewage.
 Fungi function as the "plumbers" of the forest (Rayner, 1998), transporting
 water, dissolved nutrients, and carbon compounds between organisms that would

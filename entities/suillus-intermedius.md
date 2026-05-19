@@ -43,7 +43,7 @@ S. intermedius is found in coniferous forest ecosystems, where it associates pri
 - Pine-dominated forests and woodlands
 - Acidic, sandy, or well-drained soils
 - Forest floor environments with accumulations of coniferous leaf litter
-- [[mycelial-networks]] extending through organic and mineral soil horizons
+- [[fungal-mycelial-networks-nutrient-translocation]] extending through organic and mineral soil horizons
 
 As a member of the suilloid ectomycorrhizal community, S. intermedius plays a critical role in mobilizing phosphorus and nitrogen from organic matter and transferring these nutrients to host trees.
 

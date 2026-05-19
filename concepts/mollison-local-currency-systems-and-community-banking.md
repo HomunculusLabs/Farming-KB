@@ -1,5 +1,5 @@
 ---
-title: Mollison: mollison local currency systems and community banking Systems and Community Banking
+title: Mollison Local Currency Systems and Community Banking
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

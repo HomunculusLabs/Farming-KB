@@ -1,5 +1,5 @@
 ---
-title: "savory grasshopper and insect outbreaks Outbreaks"
+title: "Savory Grasshopper and Insect Outbreaks"
 created: 2026-04-28
 tags: [holistic-management, grasshoppers, insect-outbreaks, succession,
       biological-control, ecosystem-health]

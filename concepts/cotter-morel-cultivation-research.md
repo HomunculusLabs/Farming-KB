@@ -1,5 +1,5 @@
 ---
-title: cotter morel cultivation research Research Update
+title: Cotter Morel Cultivation Research
 created: 2026-04-26
 tags: [morel, morchella, advanced-cultivation, research, mycorrhiza]
 date: 2026-04-25

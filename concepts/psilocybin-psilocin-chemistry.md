@@ -66,7 +66,7 @@ Potency varies significantly by species, growing conditions, and age:
 
 | Species | Approximate Psilocybin Content (dry) |
 |---------|--------------------------------------|
-| [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] | Up to ~1% |
+| [[psilocybe-semilanceata]] | Up to ~1% |
 | [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] | 0.5-1.0% |
 
 P. cubensis, the most commonly cultivated species, is relatively low in

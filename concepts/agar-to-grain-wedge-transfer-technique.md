@@ -1,5 +1,5 @@
 ---
-title: "Agar-to-Grain agar to grain wedge transfer technique Technique"
+title: "Agar to Grain Wedge Transfer Technique"
 type: concept
 tags:
   - spawn-production
@@ -12,7 +12,7 @@ type: concept
 updated: 2026-04-27
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - the-mushroom-cultivator-stamets
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Agar-to-Grain Wedge Transfer Technique

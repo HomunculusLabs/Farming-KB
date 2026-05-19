@@ -63,7 +63,7 @@ It shows moderate substrate specificity, preferring heartwood of large-diameter 
 Research has identified several bioactive constituents in *D. quercina* fruiting bodies:
 
 - **Daedaleol A and B**: Triterpenoid compounds with demonstrated anti-inflammatory activity in vitro, isolated from methanolic extracts of the basidiocarp.
-- **Quercinic acid**: A fatty acid derivative exhibiting mild [[stamets-biological-efficiency-yield]] is low (10–25%) compared to cultivated gourmet polypores. The primary value is in research and bioactive compound extraction rather than food production.
+- **Quercinic acid**: A fatty acid derivative exhibiting mild [[biological-efficiency]] is low (10–25%) compared to cultivated gourmet polypores. The primary value is in research and bioactive compound extraction rather than food production.
 - **Cycle time**: Spawn run 3–4 weeks, [[bioremediation-fenton-chemistry-brown-rot-fungi]] — the fungus generates hydroxyl radicals via extracellular [[cervantes-hydrogen-peroxide-sterilization]] and ferrous iron, which depolymerize cellulose chains. This non-enzymatic system is more efficient at degrading crystalline cellulose than white-rot enzymatic pathways.
 
 In forest ecosystems, *D. quercina* contributes to snag decomposition, cavity creation for wildlife habitat, and nutrient release. Its preference for oak heartwood makes it a late-stage successional decomposer, often following initial colonization by white-rot species.

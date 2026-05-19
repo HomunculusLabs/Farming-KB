@@ -1,5 +1,5 @@
 ---
-title: Shulgin shulgin safety principles self experimentation for Self-Experimentation
+title: Shulgin Safety Principles Self Experimentation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Solomon on solomon mulching and cover cropping Cropping
+title: Solomon Mulching and Cover Cropping
 created: 2026-04-21
 updated: 2026-04-18
 type: concept

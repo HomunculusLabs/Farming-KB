@@ -7,7 +7,7 @@ tags: [species, collembola, soil-invertebrate, fungal-grazing]
 
 ## Description
 
-Folsomia candida is a species of springtail (Collembola) commonly found in soil ecosystems worldwide. It is one of the most extensively studied soil microarthropods and serves as a model organism in soil ecology and ecotoxicology. In mycological research, F. candida is significant as a fungal grazer that interacts directly with [[mycelial-networks]], affecting their morphology, growth patterns, and nutrient cycling dynamics. Studies by Tordoff, Jones, and Boddy (2006) demonstrated that grazing by F. candida differentially affects the mycelial morphology of cord-forming basidiomycete fungi.
+Folsomia candida is a species of springtail (Collembola) commonly found in soil ecosystems worldwide. It is one of the most extensively studied soil microarthropods and serves as a model organism in soil ecology and ecotoxicology. In mycological research, F. candida is significant as a fungal grazer that interacts directly with [[fungal-mycelial-networks-nutrient-translocation]], affecting their morphology, growth patterns, and nutrient cycling dynamics. Studies by Tordoff, Jones, and Boddy (2006) demonstrated that grazing by F. candida differentially affects the mycelial morphology of cord-forming basidiomycete fungi.
 
 ## Classification
 
@@ -97,4 +97,4 @@ Monitoring protocols help track population trends and inform adaptive management
 - [[mushroom-compost]]
 - [[mushroom-cultivation]]
 - [[mycelial-cord]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]

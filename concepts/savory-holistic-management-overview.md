@@ -1,5 +1,5 @@
 ---
-title: savory holistic management overview Overview
+title: Savory Holistic Management Overview
 created: 2026-04-26
 aliases: savory-holistic-resource-management-animal-impact management, HRM, Allan Savory]
 tags: [regenerative-agriculture, grazing, land-management, holism, sustainability]

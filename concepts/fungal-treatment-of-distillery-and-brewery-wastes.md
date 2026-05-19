@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal treatment of distillery and brewery wastes and Brewery Wastes
+title: Fungal Treatment of Distillery and Brewery Wastes
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

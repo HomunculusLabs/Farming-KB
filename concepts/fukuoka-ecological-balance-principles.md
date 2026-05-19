@@ -1,5 +1,5 @@
 ---
-title: fukuoka ecological balance principles Principles
+title: Fukuoka Ecological Balance Principles
 created: 2026-04-18
 updated: 2026-04-20
 type: concept

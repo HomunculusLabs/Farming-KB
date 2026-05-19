@@ -1,5 +1,5 @@
 ---
-title: Polycarbonate vs comparison polycarbonate vs glass greenhouse glazing Glazing
+title: Comparison Polycarbonate vs Glass Greenhouse Glazing
 created: 2026-04-28
 tags: [greenhouse, glazing, polycarbonate, glass, construction, season-extension, horticulture, permaculture]
 date: 2026-04-28

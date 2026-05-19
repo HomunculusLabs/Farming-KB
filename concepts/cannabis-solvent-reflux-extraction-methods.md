@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis solvent reflux extraction methods Extraction Methods
+title: Cannabis Solvent Reflux Extraction Methods
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

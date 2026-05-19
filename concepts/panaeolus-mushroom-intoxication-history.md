@@ -20,7 +20,7 @@ of psilocybin by more than a century.
 ## The 1816 Hyde Park Incident
 
 In 1816, an impoverished man collected mushrooms in London's Hyde Park
-which he thought to be edible white mushrooms ([[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] from St. James Green Park described by
+which he thought to be edible white mushrooms ([[psilocybe-semilanceata]] from St. James Green Park described by
 Everard Brande. The similarity of symptoms across different mushroom
 genera suggested a common psychoactive principle, though this would not
 be confirmed until the isolation of psilocybin in 1958.

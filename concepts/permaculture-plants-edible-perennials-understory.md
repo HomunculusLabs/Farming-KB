@@ -1,5 +1,5 @@
 ---
-title: Permaculture permaculture plants edible perennials understory and Food Forest Understory
+title: Permaculture Plants Edible Perennials Understory
 created: 2026-04-26
 updated: 2026-04-24
 sources:

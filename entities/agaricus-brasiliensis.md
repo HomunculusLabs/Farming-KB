@@ -42,7 +42,7 @@ aliases: agaricus-subrufescens, almond mushroom, Himematsutake, Cogumelo do Sol,
 
 ## Cultivation
 
-Cultivation follows methods similar to the [[stamets-biological-efficiency-yield]] ranges from 30-60% (kg fresh mushrooms per kg dry substrate). Production is primarily in plastic bags or bottles (Japanese method). China dominates production with large-scale facility operations.
+Cultivation follows methods similar to the [[biological-efficiency]] ranges from 30-60% (kg fresh mushrooms per kg dry substrate). Production is primarily in plastic bags or bottles (Japanese method). China dominates production with large-scale facility operations.
 
 ## Chemical Composition
 

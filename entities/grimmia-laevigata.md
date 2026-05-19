@@ -34,7 +34,7 @@ The peristome consists of 16 lanceolate teeth that are split into two filiform s
 
 Spores are 10–14 μm in diameter, finely papillose, and mature from late winter through spring. The seta is elongated, typically 3–8 mm, and is twisted clockwise when dry.
 
-The clockwise twisting of the dry seta is a consistent character within the species and aids in [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate regions, occurring across Europe, Asia, Africa, North and [[dighton-fungi-volcanic-glacier-primary-succession]]. Its colonization of stone surfaces initiates the accumulation of [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]] with moderate levels of atmospheric pollutants, making it a less reliable air quality bioindicator than more sensitive species.
+The clockwise twisting of the dry seta is a consistent character within the species and aids in [[psilocybe-semilanceata]] in temperate regions, occurring across Europe, Asia, Africa, North and [[dighton-fungi-volcanic-glacier-primary-succession]]. Its colonization of stone surfaces initiates the accumulation of [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]] with moderate levels of atmospheric pollutants, making it a less reliable air quality bioindicator than more sensitive species.
 
 Despite its pollution tolerance, Grimmia laevigata shows measurable reductions in growth rate and reproductive output in heavily polluted urban areas. [[psilocybin-isolation-and-early-scientific-research]], the species has been extensively studied as a [[singh-endophytic-fungi-plant-protection-mechanisms]].
 

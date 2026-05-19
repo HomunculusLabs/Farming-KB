@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis delivery methods comparison Comparison
+title: Cannabis Delivery Methods Comparison
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

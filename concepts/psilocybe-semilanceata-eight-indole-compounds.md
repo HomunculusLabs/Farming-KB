@@ -1,5 +1,5 @@
 ---
-title: Psilocybe psilocybe semilanceata eight indole compounds Compounds
+title: Psilocybe Semilanceata Eight Indole Compounds
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

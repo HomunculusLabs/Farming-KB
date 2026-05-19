@@ -1,5 +1,5 @@
 ---
-title: fungi in the environment saltmarsh cordgrass laccase decomposition Decomposition and Ascomycete Laccases
+title: Fungi in the Environment Saltmarsh Cordgrass Laccase Decomposition
 tags:
   - mycology
   - saltmarsh-ecology

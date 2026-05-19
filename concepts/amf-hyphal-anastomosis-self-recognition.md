@@ -1,5 +1,5 @@
 ---
-title: "AMF amf hyphal anastomosis self recognition and Self-Recognition"
+title: "Amf Hyphal Anastomosis Self Recognition"
 created: 2026-04-26
 tags: [mycorrhiza, glomeromycota, fungal-biology, symbiosis]
 date: 2026-04-25

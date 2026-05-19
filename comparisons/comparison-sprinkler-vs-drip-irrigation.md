@@ -1,5 +1,5 @@
 ---
-title: "comparison sprinkler vs drip irrigation Irrigation"
+title: "Comparison Sprinkler vs Drip Irrigation"
 created: 2026-04-28
 tags: [comparison, irrigation, water-management, homesteading]
 date: 2026-04-25

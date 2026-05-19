@@ -1,5 +1,5 @@
 ---
-title: Plant plant secondary macronutrients calcium magnesium and sulfur Calcium Magnesium and Sulfur
+title: Plant Secondary Macronutrients Calcium Magnesium and Sulfur
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

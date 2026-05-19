@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal mycorrhizal drought and temperature tolerance Tolerance
+title: Mycorrhizal Drought and Temperature Tolerance
 created: 2026-04-29
 updated: 2026-04-29
 type: concept

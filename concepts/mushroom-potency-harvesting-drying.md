@@ -7,7 +7,7 @@ tags: [potency, harvesting, drying, desiccation, cultivation, dosage]
 # Mushroom Potency, Harvesting, and Drying
 
 The psychoactive potency of [[hplc-analysis-of-psilocybin-and-psilocin]]:
-- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** — averages approximately 1% dry weight; widely considered one of the most potent naturally occurring species.
+- **[[psilocybe-semilanceata]]** — averages approximately 1% dry weight; widely considered one of the most potent naturally occurring species.
 - **Psilocybe bohemica / P. serbica** — high potency, comparable to P. semilanceata.
 - **[[duggar-mushroom-environmental-factors-temperature-moisture-light]] influence the concentration of active alkaloids:
 

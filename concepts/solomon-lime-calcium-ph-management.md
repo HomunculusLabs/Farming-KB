@@ -1,5 +1,5 @@
 ---
-title: Solomon solomon lime calcium ph management Ph Management
+title: Solomon Lime Calcium Ph Management
 created: 2026-04-26
 tags:
   - gardening

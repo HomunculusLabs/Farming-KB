@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka japanese cooking culture disappearing Culture Disappearing
+title: Fukuoka Japanese Cooking Culture Disappearing
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

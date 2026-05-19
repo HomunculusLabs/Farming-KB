@@ -1,5 +1,5 @@
 ---
-title: comparison Comparison Chicken Keeping Vs Duck Keeping vs Comparison Rabbit Husbandry Vs Chicken Keeping comparison-rabbit-husbandry-vs-chicken-keeping
+title: Comparison Duck Keeping vs Rabbit Husbandry
 created: 2026-04-28
 tags: [homesteading, livestock, poultry, small-scale-farming]
 date: 2026-04-28

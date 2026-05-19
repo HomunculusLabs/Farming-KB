@@ -1,5 +1,5 @@
 ---
-title: Thermal vs. ingham thermal worm compost comparison Comparison
+title: Ingham Thermal Worm Compost Comparison
 created: 2026-04-26
 tags: [compost, vermicompost, thermal-compost, soil-biology, ingham]
 date: 2026-04-25

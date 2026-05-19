@@ -46,7 +46,7 @@ restored at the free festivals that defined the era.
 
 The Liberty Cap's discovery transformed Britain's relationship with its native
 fungi. What had been regarded as a worthless, obscure poison was revalued as a
-powerful [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]]. The [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] was confined to academic circles — it had been
+powerful [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]]. The [[psilocybe-semilanceata]] was confined to academic circles — it had been
 described by Elias Magnus Fries as early as 1838 and was well known to British
 mycologists as a common but unremarkable species of pastureland. The critical
 transition was the dissemination of this taxonomic knowledge to a

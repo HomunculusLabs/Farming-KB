@@ -76,7 +76,7 @@ Multiple retail channels emerged across Europe:
 - **Market stalls** — informal retail at markets and festivals
 
 Most recreationally used mushrooms in Europe were cultivated rather than wild-
-harvested, despite the [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty caps) — the most common wild species, found
+harvested, despite the [[psilocybe-semilanceata]]** (liberty caps) — the most common wild species, found
   in the UK, Norway, Germany, and across northern Europe
 - **[[european-hallucinogenic-mushroom-prevalence-and-trends]]
 - [[psilocybin]]

@@ -1,5 +1,5 @@
 ---
-title: Soil pH soil ph management for vegetable gardens Gardens
+title: Soil Ph Management for Vegetable Gardens
 created: 2026-04-28
 tags: [soil-ph, vegetable-gardening, soil-management, lime, sulfur]
 date: 2026-04-28

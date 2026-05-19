@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal nitrogen mineralization pathways Pathways
+title: Fungal Nitrogen Mineralization Pathways
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

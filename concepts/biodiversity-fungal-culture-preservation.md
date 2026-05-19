@@ -1,5 +1,5 @@
 ---
-title: biodiversity fungal culture preservation Preservation
+title: Biodiversity Fungal Culture Preservation
 created: 2026-04-28
 tags:
   - mycology

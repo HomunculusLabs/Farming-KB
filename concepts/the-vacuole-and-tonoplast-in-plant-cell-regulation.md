@@ -1,5 +1,5 @@
 ---
-title: The the vacuole and tonoplast in plant cell regulation in Plant Cell Regulation
+title: The Vacuole and Tonoplast in Plant Cell Regulation
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

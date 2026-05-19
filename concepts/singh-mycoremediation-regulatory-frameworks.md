@@ -1,5 +1,5 @@
 ---
-title: "singh mycoremediation regulatory frameworks Frameworks"
+title: "Singh Mycoremediation Regulatory Frameworks"
 created: 2026-04-28
 tags: [mycoremediation, regulation, environmental-policy, remediation-standards, compliance]
 date: 2026-04-25

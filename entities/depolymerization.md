@@ -61,7 +61,7 @@ Depolymerization is the biological process by which long, complex polymer chains
 
 ## Relevance to Cultivation and Mycology
 
-- **Substrate availability:** Depolymerization of cellulose in compost and substrates makes carbon available to fungi, including [[mycelial-networks]]. Mushroom mycelium benefits from the shorter glucose chains produced by bacterial depolymerization.
+- **Substrate availability:** Depolymerization of cellulose in compost and substrates makes carbon available to fungi, including [[fungal-mycelial-networks-nutrient-translocation]]. Mushroom mycelium benefits from the shorter glucose chains produced by bacterial depolymerization.
 
 - **Compost maturity:** The extent of depolymerization is a key indicator of compost maturity. Well-decomposed compost has undergone nearly complete cellulose depolymerization, leaving only humic substances.
 

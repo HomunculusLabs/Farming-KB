@@ -1,5 +1,5 @@
 ---
-title: "How to query how to identify amanita muscaria Muscaria (amanita-muscaria-fly-agaric-history-and-pharmacology)"
+title: "Query How to Identify Amanita Muscaria"
 created: 2026-04-28
 tags: [query, mushroom-identification, amanita, foraging, mycology]
 date: 2026-04-28

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka: fukuoka pollution conference modest solution and the Modest Solution
+title: Fukuoka Pollution Conference Modest Solution
 created: 2026-04-18
 updated: 2026-04-21
 type: concept

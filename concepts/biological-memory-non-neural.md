@@ -20,7 +20,7 @@ information processing is a fundamental property of living matter.
 
 ### Habituation
 Repeated exposure to a non-harmful stimulus leads to a decreased response.
-*[[mycelial-networks]]
+*[[fungal-mycelial-networks-nutrient-translocation]]
 retain traces of previous nutrient distributions in their tube architecture,
 influencing future growth decisions — a form of structural memory used in
 [[dighton-fungal-drought-tolerance-plant-water-relations]].

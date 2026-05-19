@@ -10,7 +10,7 @@ tags:
   - endocannabinoid
   - lipid-signaling
 sources:
-  - "uwe-blesching-the-cannabis-health-index"
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 synopsis: >-
   Anandamide (N-arachidonoylethanolamide, AEA) is an endogenous
   endocannabinoid discovered in the 1990s, known as the "Bliss Molecule."

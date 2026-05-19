@@ -10,7 +10,7 @@ tags:
   - biogeochemistry
   - mineral-weathering
 sources:
-  - "geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment"
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 synopsis: >-
   Fungal bioweathering is the erosion, decay, and decomposition of rocks
   and minerals mediated by living fungi. Fungi dissolve minerals and

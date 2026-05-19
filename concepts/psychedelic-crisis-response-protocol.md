@@ -1,5 +1,5 @@
 ---
-title: psychedelic psychedelic crisis response protocol protocol
+title: Psychedelic Crisis Response Protocol
 created: 2026-04-17
 updated: 2026-04-18
 type: concept

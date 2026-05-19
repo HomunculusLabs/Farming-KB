@@ -18,7 +18,7 @@ type: concept
   spreads rapidly in poorly pasteurized substrate
 - **[[eclss-environmental-control-life-support]],
 and biological controls is more effective than chemical treatments, which
-can leave residues on [[stamets-biological-efficiency-yield]] ranges from
+can leave residues on [[biological-efficiency]] ranges from
 60-130% depending on species, substrate, and growing conditions.
 
 ## Practical Considerations

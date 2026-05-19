@@ -26,7 +26,7 @@ Collybia is a genus of basidiomycete fungi historically encompassing many small 
 - They are basidiomycete fungi with greater enzymatic competence than earlier-succession ascomycete colonizers, capable of degrading cellulose and contributing to lignin breakdown.
 - Collybia is one of four genera (alongside Marasmius, Marasmiellus, and Mycena) primarily responsible for leaf litter trapping on forest floors in tropical ecosystems (Lodge and Asbury, 1988).
 - These genera bind leaf litter together through hyphal networks and cords, reducing downslope litter loss by 35-45% depending on slope angle.
-- As basidiomycetes, Collybia species contribute to nutrient immobilization and translocation through [[mycelial-networks]].
+- As basidiomycetes, Collybia species contribute to nutrient immobilization and translocation through [[fungal-mycelial-networks-nutrient-translocation]].
 
 ## Ecological Role
 

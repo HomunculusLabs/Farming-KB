@@ -1,5 +1,5 @@
 ---
-title: Sea sea buckthorn cultivation and uses and Uses
+title: Sea Buckthorn Cultivation and Uses
 tags:
   - sea-buckthorn
   - superfood

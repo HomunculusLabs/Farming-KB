@@ -1,5 +1,5 @@
 ---
-title: Ayahuasquero ayahuasquero practitioner profiles ethics ucayali region and Ethics in the Ucayali Region
+title: Ayahuasquero Practitioner Profiles Ethics Ucayali Region
 source: stuart-r-ayahuasca-tourism.md
 tags: [ayahuasca, shaman, ayahuasquero, ethics, peru, ucayali, pucallpa, tourism]
 created: 2026-05-08

@@ -1,5 +1,5 @@
 ---
-title: Kava kava kava ethnobotany chemistry and Chemistry
+title: Kava Kava Ethnobotany Chemistry
 created: 2026-04-28
 tags: [kava, ethnobotany, psychoactive-plants, kavalactones]
 date: 2026-04-25

@@ -1,5 +1,5 @@
 ---
-title: "Water greg green water quality and hard water Water Management"
+title: "Greg Green Water Quality and Hard Water"
 created: 2026-04-28
 tags: [cannabis, water-quality, ph, hydroponics, nutrients]
 date: 2026-04-25

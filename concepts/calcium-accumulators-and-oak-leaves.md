@@ -1,5 +1,5 @@
 ---
-title: Calcium calcium accumulators and oak leaves Leaves
+title: Calcium Accumulators and Oak Leaves
 created: 2026-04-28
 tags:
   - calcium

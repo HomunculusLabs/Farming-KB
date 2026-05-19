@@ -1,5 +1,5 @@
 ---
-title: permaculture quinoa growing guide Guide
+title: Permaculture Quinoa Growing Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

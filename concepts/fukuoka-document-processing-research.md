@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka document processing research Research
+title: Fukuoka Document Processing Research
 created: 2026-04-28
 tags: [document-processing, text-analysis, research-methodology,
       japanese-nlp, format-migration]

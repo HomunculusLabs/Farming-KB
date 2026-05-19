@@ -1,5 +1,5 @@
 ---
-title: savory society and culture guideline Guideline
+title: Savory Society and Culture Guideline
 created: 2026-04-28
 tags: [ethics, community, quality-of-life, social-impact, testing-guidelines]
 date: 2026-04-25

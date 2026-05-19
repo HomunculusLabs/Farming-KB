@@ -1,5 +1,5 @@
 ---
-title: Bloomfield bloomfield fungal pathogens and parasites and Parasites
+title: Bloomfield Fungal Pathogens and Parasites
 created: 2026-04-21
 updated: 2026-04-18
 type: concept

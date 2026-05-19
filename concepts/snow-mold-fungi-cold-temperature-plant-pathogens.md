@@ -1,5 +1,5 @@
 ---
-title: Snow snow mold fungi cold temperature plant pathogens - Cold-Temperature Plant Pathogens
+title: Snow Mold Fungi Cold Temperature Plant Pathogens
 created: 2026-04-26
 tags:
   - [[mycology]]

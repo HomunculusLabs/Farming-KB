@@ -1,5 +1,5 @@
 ---
-title: False Peyotes — false peyotes mexican cactus ethnobotany Ethnobotany
+title: False Peyotes Mexican Cactus Ethnobotany
 created: 2026-04-22
 updated: 2026-04-22
 type: concept

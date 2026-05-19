@@ -1,5 +1,5 @@
 ---
-title: Top-Bar comparison top bar hive vs warre hive Hive
+title: Comparison Top Bar Hive vs Warre Hive
 created: 2026-04-28
 tags:
   - beekeeping

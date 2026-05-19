@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Observation of fukuoka american agricultural decline Decline"
+title: "Fukuoka American Agricultural Decline"
 tags: [fukuoka, agriculture, soil-degradation, desertification, monoculture, energy-efficiency]
 date: 2026-04-28
 updated: 2026-04-28

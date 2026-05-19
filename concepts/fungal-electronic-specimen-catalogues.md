@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal electronic specimen catalogues Catalogues and Databases
+title: Fungal Electronic Specimen Catalogues
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

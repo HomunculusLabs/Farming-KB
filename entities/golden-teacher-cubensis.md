@@ -40,7 +40,7 @@ The strain colonizes a wide range of substrates including brown rice flour (the 
 Colonization speed is moderate, typically requiring 10–14 days from inoculation to full colonization of grain spawn at temperatures of 24–27°C (75–80°F).
 The mycelium is rhizomorphic to somewhat cottony in texture, with a bright white coloration that makes contamination detection relatively straightforward.
 
-The strain is forgiving of minor environmental fluctuations and contaminant pressures relative to more finicky varieties, though standard [[stamets-biological-efficiency-yield]] l efficiency on standard grain-to-bulk substrate configurations is typically 100–150%, with 2–4 productive flushes before substrate exhaustion.
+The strain is forgiving of minor environmental fluctuations and contaminant pressures relative to more finicky varieties, though standard [[biological-efficiency]] l efficiency on standard grain-to-bulk substrate configurations is typically 100–150%, with 2–4 productive flushes before substrate exhaustion.
 The strain is also amenable to outdoor cultivation in appropriate climates and has been successfully grown on composted straw and wood chip beds.
 
 ## Potency and Chemistry

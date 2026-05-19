@@ -1,5 +1,5 @@
 ---
-title: Nitrogen nitrogen supplementation for mushroom substrates Substrates
+title: Nitrogen Supplementation for Mushroom Substrates
 created: 2026-04-28
 tags:
   - mushroom-cultivation

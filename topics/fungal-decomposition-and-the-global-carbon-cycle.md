@@ -1,6 +1,6 @@
 ---
 title: Fungal Decomposition and the Global Carbon Cycle
-subtitle: How fungi drive comparison-nutrient-cycling-vs-nutrient-dense-gardening, soil formation, and carbon dynamics
+subtitle: How fungi drive, soil formation, and carbon dynamics
   across terrestrial ecosystems
 tags: [mycology, ecology, decomposition, carbon-cycle, nutrient-cycling,
   wood-decay, climate-change, soil-science]

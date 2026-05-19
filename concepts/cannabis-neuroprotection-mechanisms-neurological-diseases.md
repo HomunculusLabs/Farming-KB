@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis neuroprotection mechanisms neurological diseases Across Neurological Diseases
+title: Cannabis Neuroprotection Mechanisms Neurological Diseases
 source: uwe-blesching-the-cannabis-health-index.md
 type: concept
 tags: [cannabis, neuroprotection, endocannabinoid, THC, CBD, neurodegeneration, Alzheimer, Parkinson, MS, ALS]

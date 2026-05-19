@@ -1,5 +1,5 @@
 ---
-title: "comparison hugelkultur vs syntropic agriculture Agriculture"
+title: "Comparison Hugelkultur vs Syntropic Agriculture"
 created: 2026-04-28
 tags: regenerative-agriculture, hugelkultur, syntropic-agriculture, soil-building, permaculture, food-forests, agroforestry, comparison
 date: 2026-04-28

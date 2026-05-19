@@ -1,5 +1,5 @@
 ---
-title: Purdue Four-Step purdue four step garden fertilization program Program
+title: Purdue Four Step Garden Fertilization Program
 created: 2026-04-28
 tags:
   - garden-fertilization

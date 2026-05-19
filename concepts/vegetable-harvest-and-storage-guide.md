@@ -1,5 +1,5 @@
 ---
-title: Vegetable vegetable harvest and storage guide Guide
+title: Vegetable Harvest and Storage Guide
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

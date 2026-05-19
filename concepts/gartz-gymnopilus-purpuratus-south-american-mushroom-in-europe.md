@@ -1,5 +1,5 @@
 ---
-title: "Gartz gartz gymnopilus purpuratus south american mushroom in europe chiric-caspi-brunfelsia-south-american-hallucinogen Mushroom In Europe"
+title: "Gartz Gymnopilus Purpuratus South American Mushroom in Europe"
 created: 2026-05-02
 updated: 2026-05-02
 type: concept

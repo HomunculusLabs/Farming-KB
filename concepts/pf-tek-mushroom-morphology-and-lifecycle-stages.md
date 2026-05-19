@@ -17,7 +17,7 @@ sources:
 # PF TEK Mushroom Morphology and Lifecycle Stages
 
 The PF TEK documentation provides detailed observations of the morphological
-stages that [[mushroom-cultivation-contamination-troubleshooting]], and overall
+stages that [[contamination-identification]], and overall
 cultivation success.
 
 ## Spore Germination

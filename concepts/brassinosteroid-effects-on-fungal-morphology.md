@@ -1,5 +1,5 @@
 ---
-title: "Brassinosteroid brassinosteroid effects on fungal morphology Morphology"
+title: "Brassinosteroid Effects on Fungal Morphology"
 created: 2026-04-28
 tags: [mycology, brassinosteroid, fungal-morphology, developmental-biology, phytohormones]
 date: 2026-04-28

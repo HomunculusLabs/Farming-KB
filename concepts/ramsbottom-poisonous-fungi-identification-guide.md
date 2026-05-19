@@ -1,5 +1,5 @@
 ---
-title: Ramsbottom ramsbottom poisonous fungi identification guide Identification Guide
+title: Ramsbottom Poisonous Fungi Identification Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:

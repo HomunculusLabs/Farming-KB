@@ -1,5 +1,5 @@
 ---
-title: singh-fungal-laccase-enzymes-bioremediation and fungal laccase and textile dye decolorization Decolorization
+title: Fungal Laccase and Textile Dye Decolorization
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

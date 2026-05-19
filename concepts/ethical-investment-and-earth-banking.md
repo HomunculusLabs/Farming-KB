@@ -1,5 +1,5 @@
 ---
-title: Ethical ethical investment and earth banking Banking
+title: Ethical Investment and Earth Banking
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

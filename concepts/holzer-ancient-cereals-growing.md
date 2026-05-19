@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer ancient cereals growing Growing
+title: Holzer Ancient Cereals Growing
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

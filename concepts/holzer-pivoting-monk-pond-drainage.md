@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer pivoting monk pond drainage - Pond Drainage Invention
+title: Holzer Pivoting Monk Pond Drainage
 created: 2026-04-26
 tags: [water-management, pond-construction, drainage, permaculture, holzer]
 date: 2026-04-25

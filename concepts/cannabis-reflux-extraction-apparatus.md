@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis reflux extraction apparatus Apparatus
+title: Cannabis Reflux Extraction Apparatus
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

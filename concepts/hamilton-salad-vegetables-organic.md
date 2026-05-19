@@ -1,5 +1,5 @@
 ---
-title: hamilton salad vegetables organic Organic Growing
+title: Hamilton Salad Vegetables Organic
 created: 2026-04-28
 tags:
   - organic-gardening

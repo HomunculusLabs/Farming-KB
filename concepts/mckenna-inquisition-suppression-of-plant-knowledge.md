@@ -1,5 +1,5 @@
 ---
-title: McKenna mckenna inquisition suppression of plant knowledge of Plant Knowledge
+title: Mckenna Inquisition Suppression of Plant Knowledge
 created: 2026-04-28
 tags: [history, inquisition, witchcraft, ethnobotany, suppression]
 date: 2026-04-25

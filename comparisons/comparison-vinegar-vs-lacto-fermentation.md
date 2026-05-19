@@ -1,5 +1,5 @@
 ---
-title: "comparison vinegar vs lacto fermentation Fermentation"
+title: "Comparison Vinegar vs Lacto Fermentation"
 created: 2026-04-28
 tags: [comparison, fermentation, food-preservation, probiotics, homesteading]
 date: 2026-04-25

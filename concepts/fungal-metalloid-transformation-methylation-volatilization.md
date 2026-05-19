@@ -1,5 +1,5 @@
 ---
-title: "Fungal fungal metalloid transformation methylation volatilization and Methylation"
+title: "Fungal Metalloid Transformation Methylation Volatilization"
 created: 2026-04-28
 tags: [metalloid, biomethylation, volatilization, bioremediation, arsenic, selenium]
 date: 2026-04-25

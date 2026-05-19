@@ -1,5 +1,5 @@
 ---
-title: Tabletop tabletop mycofiltration unit construction Construction
+title: Tabletop Mycofiltration Unit Construction
 created: 2026-04-28
 tags: [DIY, mycofiltration, water-treatment, fungi]
 date: 2026-04-25

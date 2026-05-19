@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam phyllite mineral solution Solution
+title: Jadam Phyllite Mineral Solution
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

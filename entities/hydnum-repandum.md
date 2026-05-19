@@ -22,7 +22,7 @@ The mushroom typically fruits from late summer through autumn (August to Novembe
 
 *Hydnum repandum* is an ectomycorrhizal fungus that forms mutualistic associations with the roots of numerous tree species. The fungal mycelium envelops root tips in a characteristic mantle and penetrates between root cortical cells to form a Hartig net, the site of nutrient exchange between the symbiotic partners. The extraradical mycelium extends far into the surrounding soil, exploring a volume of substrate that greatly exceeds the tree's own root system.
 
-As an ectomycorrhizal partner, *H. repandum* provides its host trees with mineral nutrients—particularly nitrogen, phosphorus, and micronutrients—mobilized from soil organic matter through the action of [[mycelial-networks]] has revealed that they can connect multiple individual trees, facilitating the transfer of carbon, nitrogen, and signaling compounds between trees of the same or different species. This "wood wide web" function is increasingly recognized as a critical component of forest ecosystem dynamics.
+As an ectomycorrhizal partner, *H. repandum* provides its host trees with mineral nutrients—particularly nitrogen, phosphorus, and micronutrients—mobilized from soil organic matter through the action of [[fungal-mycelial-networks-nutrient-translocation]] has revealed that they can connect multiple individual trees, facilitating the transfer of carbon, nitrogen, and signaling compounds between trees of the same or different species. This "wood wide web" function is increasingly recognized as a critical component of forest ecosystem dynamics.
 
 ## Culinary Value
 

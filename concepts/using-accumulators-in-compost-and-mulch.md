@@ -1,5 +1,5 @@
 ---
-title: Using using accumulators in compost and mulch and Mulch
+title: Using Accumulators in Compost and Mulch
 created: 2026-04-28
 tags:
   - composting

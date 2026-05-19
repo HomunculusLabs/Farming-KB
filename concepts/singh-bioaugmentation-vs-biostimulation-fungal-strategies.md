@@ -1,5 +1,5 @@
 ---
-title: Singh Bioaugmentation Vs singh bioaugmentation vs biostimulation fungal strategies Strategies
+title: Singh Bioaugmentation vs Biostimulation Fungal Strategies
 created: 2026-04-26
 tags:
   - bioaugmentation

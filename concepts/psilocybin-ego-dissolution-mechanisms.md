@@ -1,5 +1,5 @@
 ---
-title: psilocybin and psilocybin ego dissolution mechanisms Mechanisms
+title: Psilocybin Ego Dissolution Mechanisms
 created: 2026-04-26
 updated: 2026-04-24
 sources:

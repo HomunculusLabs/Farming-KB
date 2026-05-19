@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka critique of scientific agriculture Agriculture
+title: Fukuoka Critique of Scientific Agriculture
 source: administrator-microsoft-word-fukuoka-textdoc.md
 topics: philosophy of science, agriculture, reductionism, ecology
 ---

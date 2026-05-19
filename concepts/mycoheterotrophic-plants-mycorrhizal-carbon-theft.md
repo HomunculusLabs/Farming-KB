@@ -1,5 +1,5 @@
 ---
-title: Mycoheterotrophic Plants mycoheterotrophic plants mycorrhizal carbon theft Theft
+title: Mycoheterotrophic Plants Mycorrhizal Carbon Theft
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

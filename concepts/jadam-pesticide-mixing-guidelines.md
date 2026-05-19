@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam pesticide mixing guidelines Guidelines
+title: Jadam Pesticide Mixing Guidelines
 created: 2026-04-20
 updated: 2026-04-20
 type: concept

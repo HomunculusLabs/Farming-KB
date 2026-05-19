@@ -23,7 +23,7 @@ type: concept
 ## Which Mushrooms Are Controlled?
 
 Legal controls do not always apply to the same mushrooms. Denmark controls
-'[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] containing these substances that have been
+'[[psilocybe-semilanceata]], [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] containing these substances that have been
 'prepared' by being dried, mashed, or processed in food (or processed into
 any other form), but not to fresh mushrooms.
 

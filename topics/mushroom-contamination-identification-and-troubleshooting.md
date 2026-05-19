@@ -1,5 +1,5 @@
 ---
-title: Mushroom mushroom contamination identification and troubleshooting and Troubleshooting
+title: Mushroom Contamination Identification and Troubleshooting
 subtitle: A comprehensive guide to identifying, preventing, and managing
   contaminant organisms in accessible-mushroom-cultivation-for-disabilities
 tags: [mycology, contamination, troubleshooting, mushroom-cultivation,
@@ -8,18 +8,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - troubleshooting-mushroom-contamination
-  - trichoderma-forest-green-mold-guide
-  - substrate-contamination
-  - verticillium-dry-bubble-mushroom-disease
-  - sterile-cultivation-technique
-  - sterilization-techniques-mushroom-cultivation
-  - agar-medium-preparation
-  - grain-spawn-preparation
-  - mushroom-cultivation-fundamentals
-  - biological-efficiency
-  - psilocybin-mushroom-cultivation-guide
-  - mushroom-fruiting-biology-light-tropisms-and-environmental-triggers
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 related_concepts:
   - troubleshooting-mushroom-contamination
   - trichoderma-forest-green-mold-guide

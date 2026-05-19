@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe psilocybe cubensis strains names and marketing, Names and Marketing"
+title: "Psilocybe Cubensis Strains Names and Marketing"
 created: 2026-04-26
 tags:
   - mycology

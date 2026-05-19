@@ -1,5 +1,5 @@
 ---
-title: Vanilla vanilla cultivation and orchid ecology Ecology
+title: Vanilla Cultivation and Orchid Ecology
 tags: [vanilla, orchid, cultivation, tropical-crops, spices, pollination, curing, permaculture, ethnobotany]
 date: 2026-05-03
 updated: 2026-05-03

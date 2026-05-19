@@ -1,5 +1,5 @@
 ---
-title: "fukuoka traditional paddy construction Construction vs. Modern Concrete Fields"
+title: "Fukuoka Traditional Paddy Construction"
 created: 2026-04-28
 tags: [rice-paddy, traditional-agriculture, terracing, mechanization, soil-degradation, japan]
 date: 2026-04-25

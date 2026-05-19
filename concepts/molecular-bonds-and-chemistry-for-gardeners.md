@@ -1,5 +1,5 @@
 ---
-title: Molecular molecular bonds and chemistry for gardeners for Gardeners
+title: Molecular Bonds and Chemistry for Gardeners
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

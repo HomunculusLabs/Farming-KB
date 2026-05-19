@@ -1,5 +1,5 @@
 ---
-title: "comparison hugelkultur vs keyline design Design"
+title: "Comparison Hugelkultur vs Keyline Design"
 created: 2026-04-28
 tags:
   - permaculture

@@ -1,5 +1,5 @@
 ---
-title: Fungicolous fungicolous fungi parasitic interfaces Interfaces and Ecology
+title: Fungicolous Fungi Parasitic Interfaces
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

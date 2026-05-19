@@ -1,5 +1,5 @@
 ---
-title: Mollison mollison pdc design report methodology Report Methodology
+title: Mollison Pdc Design Report Methodology
 created: 2026-04-28
 tags:
   - permaculture

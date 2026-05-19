@@ -1,6 +1,6 @@
 ---
-title: "Garlic Cultivation and garlic cultivation and allium growing guide Guide"
-subtitle: "Comprehensive guide to solomon-growing-garlic-onions-leeks, onions, leeks, shallots, and chives"
+title: "Garlic Cultivation and Allium Growing Guide"
+subtitle: "Comprehensive guide to growing garlic, onions, leeks, shallots, and chives"
 tags: [garlic, alliums, onions, leeks, shallots, vegetable-cultivation]
 date: 2026-04-28
 updated: 2026-04-28

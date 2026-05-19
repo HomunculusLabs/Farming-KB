@@ -1,5 +1,5 @@
 ---
-title: Soil soil compaction solutions ingham (Ingham Approach)
+title: Soil Compaction Solutions Ingham
 created: 2026-04-20
 updated: 2026-04-20
 type: concept

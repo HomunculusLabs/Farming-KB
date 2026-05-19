@@ -1,5 +1,5 @@
 ---
-title: Four four families of indole hallucinogens Hallucinogens
+title: Four Families of Indole Hallucinogens
 created: 2026-04-28
 tags: [indole-hallucinogens, mckenna, tryptamines, psychedelics, ethnobotany]
 date: 2026-04-25

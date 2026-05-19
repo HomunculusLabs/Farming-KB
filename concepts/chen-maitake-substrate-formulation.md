@@ -1,5 +1,5 @@
 ---
-title: "Chen - chen maitake substrate formulation Formulation for Synthetic-Log Cultivation"
+title: "Chen Maitake Substrate Formulation"
 created: 2026-04-28
 tags: [maitake, substrate, mushroom-cultivation, grifola-frondosa, sawdust]
 date: 2026-04-28

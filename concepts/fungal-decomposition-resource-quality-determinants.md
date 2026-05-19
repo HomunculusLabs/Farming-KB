@@ -1,5 +1,5 @@
 ---
-title: Fungal Decomposition and fungal decomposition resource quality determinants Determinants
+title: Fungal Decomposition Resource Quality Determinants
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

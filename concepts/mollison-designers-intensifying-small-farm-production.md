@@ -1,5 +1,5 @@
 ---
-title: mollison designers intensifying small farm production Production
+title: Mollison Designers Intensifying Small Farm Production
 created: 2026-04-28
 tags:
   - permaculture

@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam rejection of sugar molasses and Molasses
+title: Jadam Rejection of Sugar Molasses
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

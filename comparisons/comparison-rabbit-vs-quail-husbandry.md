@@ -1,5 +1,5 @@
 ---
-title: "comparison rabbit vs quail husbandry Husbandry"
+title: "Comparison Rabbit vs Quail Husbandry"
 created: 2026-04-28
 tags: [comparison, livestock, homesteading, micro-livestock, poultry]
 date: 2026-04-25

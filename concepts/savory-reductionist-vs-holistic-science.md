@@ -1,5 +1,5 @@
 ---
-title: savory reductionist vs holistic science Science
+title: Savory Reductionist vs Holistic Science
 created: 2026-04-28
 tags: [research, science, paradigm, methodology, holism]
 date: 2026-04-25

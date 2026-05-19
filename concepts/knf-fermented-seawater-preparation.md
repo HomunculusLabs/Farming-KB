@@ -1,5 +1,5 @@
 ---
-title: KNF knf fermented seawater preparation Preparation
+title: Knf Fermented Seawater Preparation
 created: 2026-04-28
 tags: [knf, fermented-seawater, minerals, korean-natural-farming, soil-health]
 date: 2026-04-27

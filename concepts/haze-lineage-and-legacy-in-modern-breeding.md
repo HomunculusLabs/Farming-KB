@@ -1,5 +1,5 @@
 ---
-title: Haze haze lineage and legacy in modern breeding in Modern Breeding
+title: Haze Lineage and Legacy in Modern Breeding
 created: 2026-05-08
 type: concept
 tags: [cannabis, sativa, breeding, haze, lineage, genetics]

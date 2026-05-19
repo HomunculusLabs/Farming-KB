@@ -1,5 +1,5 @@
 ---
-title: "Magic magic mushroom tipping point 1970s america Point in 1970s America"
+title: "Magic Mushroom Tipping Point 1970s America"
 created: 2026-04-26
 tags:
   - history

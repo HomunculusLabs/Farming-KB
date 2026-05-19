@@ -1,6 +1,6 @@
 ---
 title: "comparison-stinging-nettle-vs-horsetail: Cultivation, Foraging, Nutrition, and Uses"
-subtitle: "The multifunctional powerhouse plant of permaculture, herbal medicine, and natural-farming-sustainable-living-principles"
+subtitle: ""The multifunctional powerhouse plant of permaculture, herbal medicine, and ""
 tags: [permaculture, dynamic-accumulators, medicinal-herbs, foraging, fiber-crops]
 date: 2026-04-28
 updated: 2026-04-28

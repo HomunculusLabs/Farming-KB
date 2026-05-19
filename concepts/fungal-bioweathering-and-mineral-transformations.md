@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal bioweathering and mineral transformations Transformations
+title: Fungal Bioweathering and Mineral Transformations
 tags: [geomycology, bioweathering, fungi, mineral-transformations, biogeochemistry, soil-science]
 date: 2026-04-28
 updated: 2026-04-28

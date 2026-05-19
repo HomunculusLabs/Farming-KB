@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis advanced growing techniques Techniques
+title: Cannabis Advanced Growing Techniques
 subtitle: A comprehensive guide to sophisticated canopy management, plant training, and cultivation optimization for cannabis.
 tags:
   - cannabis

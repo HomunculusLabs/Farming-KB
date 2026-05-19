@@ -1,5 +1,5 @@
 ---
-title: Solomon solomon liquid fertilizers and foliar feeding and comparison-foliar-feeding-vs-compost-tea-nutrients
+title: Solomon Liquid Fertilizers and Foliar Feeding
 created: 2026-04-26
 updated: 2026-04-23
 sources:

@@ -18,7 +18,7 @@ fungi playing the dominant role in terrestrial decomposition of complex
 plant polymers. Decomposition is the engine of [[hamilton-composting-and-organic-matter-management]] (litterfall, [[comparison-brown-rot-vs-white-rot-bioremediation]] basidiomycetes, can
 efficiently mineralize lignin to carbon dioxide.
 
-[[mycelial-networks]]
+[[fungal-mycelial-networks-nutrient-translocation]]
 - mycorrhizal-symbiosis
 ## Practical Considerations
 

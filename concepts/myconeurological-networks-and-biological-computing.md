@@ -1,5 +1,5 @@
 ---
-title: Myconeurological myconeurological networks and biological computing Computing
+title: Myconeurological Networks and Biological Computing
 created: 2026-04-28
 tags:
   - mycology

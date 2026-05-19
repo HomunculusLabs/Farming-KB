@@ -1,5 +1,5 @@
 ---
-title: Amazonian amazonian sorcery illness and curing practices and Curing Practices
+title: Amazonian Sorcery Illness and Curing Practices
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

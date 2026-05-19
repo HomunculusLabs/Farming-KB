@@ -1,5 +1,5 @@
 ---
-title: Soil soil structure and aggregate ecology Ecology
+title: Soil Structure and Aggregate Ecology
 tags:
   - soil-science
   - soil-ecology

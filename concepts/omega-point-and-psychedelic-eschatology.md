@@ -1,5 +1,5 @@
 ---
-title: Omega omega point and psychedelic eschatology Eschatology
+title: Omega Point and Psychedelic Eschatology
 created: 2026-04-17
 updated: 2026-04-18
 type: concept

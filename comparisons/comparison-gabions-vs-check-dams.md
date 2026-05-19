@@ -1,5 +1,5 @@
 ---
-title: "comparison gabions vs check dams Dams"
+title: "Comparison Gabions vs Check Dams"
 created: 2026-04-28
 tags: [comparison, earthworks, erosion-control, water-management]
 date: 2026-04-25

@@ -1,5 +1,5 @@
 ---
-title: "McKenna mckenna tryptamine hallucinogens and consciousness and Consciousness"
+title: "Mckenna Tryptamine Hallucinogens and Consciousness"
 created: 2026-04-28
 tags: [terence-mckenna, dmt, psilocybin, consciousness, phenomenology, logos, tryptamine, entity-encounter, esalen]
 date: 2026-04-28

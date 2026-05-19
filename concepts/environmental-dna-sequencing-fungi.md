@@ -1,5 +1,5 @@
 ---
-title: Environmental environmental dna sequencing fungi for Fungi
+title: Environmental Dna Sequencing Fungi
 created: 2026-04-28
 tags: mycology, metagenomics, sequencing, methodology]
 date: 2026-04-28

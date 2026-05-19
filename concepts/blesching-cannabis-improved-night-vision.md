@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and blesching cannabis improved night vision Vision"
+title: "Blesching Cannabis Improved Night Vision"
 created: 2026-04-26
 tags:
   - cannabis

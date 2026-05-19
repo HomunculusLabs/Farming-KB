@@ -1,5 +1,5 @@
 ---
-title: Heavy heavy metal remediation fungi by Fungi
+title: Heavy Metal Remediation Fungi
 created: 2026-04-28
 tags:
   - bioremediation

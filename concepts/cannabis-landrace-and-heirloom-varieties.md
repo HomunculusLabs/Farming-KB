@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis landrace and heirloom varieties Varieties
+title: Cannabis Landrace and Heirloom Varieties
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

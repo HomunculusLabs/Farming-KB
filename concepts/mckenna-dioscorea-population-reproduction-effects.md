@@ -1,5 +1,5 @@
 ---
-title: "mckenna dioscorea population reproduction effects Effects and Plant Impact on Reproduction"
+title: "Mckenna Dioscorea Population Reproduction Effects"
 created: 2026-04-28
 tags: [botany, reproduction, evolution, population-genetics, dioscorea, mckenna]
 date: 2026-04-28

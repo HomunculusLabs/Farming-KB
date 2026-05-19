@@ -1,5 +1,5 @@
 ---
-title: "comparison chayote vs taro cultivation Cultivation"
+title: "Comparison Chayote vs Taro Cultivation"
 tags: [chayote, taro, tropical-crops, root-crops, perennial-vegetables, comparison]
 date: 2026-04-28
 updated: 2026-04-28

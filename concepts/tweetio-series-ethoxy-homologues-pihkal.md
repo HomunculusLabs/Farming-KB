@@ -1,5 +1,5 @@
 ---
-title: Tweetio tweetio series ethoxy homologues pihkal Homologues Pihkal
+title: Tweetio Series Ethoxy Homologues Pihkal
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

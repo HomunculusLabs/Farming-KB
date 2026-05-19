@@ -73,7 +73,7 @@ Monitoring protocols help track population trends and inform adaptive management
 - [[fungal-woronin-bodies-and-septal-pore-organization]]
 - [[gregory-jedd]]
 - [[mushroom-cultivation]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[neurospora-crassa]]
 - [[woronin-bodies-and-septal-pore-organization]]
 - [[woronin-bodies-multicellular-fungi]]

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Fungal activation is a pre-brewing technique used to boost fungal populations in compost tea. Rather than relying on the [[compost-tea-brewing]] process alone to grow fungi, the compost is first inoculated with fungal foods and incubated for several days. This gives fungi time to multiply and form robust [[mycelial-networks]] before being brewed into aerated compost tea (ACT). The method is described in detail in *Teaming with Microbes* by [[jeff-lowenfels]] and [[wayne-lewis]].
+Fungal activation is a pre-brewing technique used to boost fungal populations in compost tea. Rather than relying on the [[compost-tea-brewing]] process alone to grow fungi, the compost is first inoculated with fungal foods and incubated for several days. This gives fungi time to multiply and form robust [[fungal-mycelial-networks-nutrient-translocation]] before being brewed into aerated compost tea (ACT). The method is described in detail in *Teaming with Microbes* by [[jeff-lowenfels]] and [[wayne-lewis]].
 
 ## The Problem: Fungi Don't Multiply During Brewing
 

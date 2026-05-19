@@ -1,5 +1,5 @@
 ---
-title: "comparison mulch vs cover crops Crops"
+title: "Comparison Mulch vs Cover Crops"
 created: 2026-04-28
 tags: [comparison, soil-health, mulch, cover-crops, organic-matter]
 date: 2026-04-25

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Do-Nothing fukuoka do nothing farming and spiritual life Life
+title: Fukuoka Do Nothing Farming and Spiritual Life
 created: 2026-04-13
 updated: 2026-04-15
 type: concept

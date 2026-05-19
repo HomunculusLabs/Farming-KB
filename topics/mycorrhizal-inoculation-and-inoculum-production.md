@@ -1,5 +1,5 @@
 ---
-title: "Mycorrhizal mycorrhizal inoculation and inoculum production Production"
+title: "Mycorrhizal Inoculation and Inoculum Production"
 subtitle: "Methods, formulations, and techniques for introducing and producing beneficial mycorrhizal fungi in agriculture, horticulture, and restoration"
 tags: [mycorrhizae, inoculation, inoculum-production, biofertilizers, soil-biology, agriculture, fungal-symbiosis, organic-farming, rhizosphere, soil-health]
 date: 2026-05-08

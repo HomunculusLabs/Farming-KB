@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal metal transformations biosorption and Biosorption
+title: Fungal Metal Transformations Biosorption
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

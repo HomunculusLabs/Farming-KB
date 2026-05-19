@@ -47,7 +47,7 @@ The bolond gomba provides evidence of continuous European knowledge [[historical
 - Also known in Germany as "Narrenschwamm"
 - Referenced by Polish poet Vaclav Potocki (1625–1699)
 - Mentioned in John Parkinson's *Theatricum Botanicum* (1640)
-- Most likely *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* or *Psilocybe bohemica*
+- Most likely *[[psilocybe-semilanceata]]* or *Psilocybe bohemica*
 
 ## Connection to Other Historical Terms
 

@@ -31,7 +31,7 @@ principles of fungal physiology and ecology.
 [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] piles, bird and
 alligator nests, coal tips, and volcanic hot springs.
 Thermophilism is strongly developed in the phycomycetes,
-ascomycetes, and [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]. A reservoir
+ascomycetes, and [[psilocybe-semilanceata]]. A reservoir
 of propagules persists in most soils throughout the year.
 
 ### Psychrophilic and Psychrotolerant Fungi

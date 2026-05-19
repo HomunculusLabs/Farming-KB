@@ -1,5 +1,5 @@
 ---
-title: "Magic magic mushroom preparation and consumption methods and Consumption Methods"
+title: "Magic Mushroom Preparation and Consumption Methods"
 created: 2026-04-26
 tags:
   - preparation

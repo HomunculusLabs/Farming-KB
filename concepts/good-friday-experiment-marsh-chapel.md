@@ -1,5 +1,5 @@
 ---
-title: Good good friday experiment marsh chapel (Marsh Chapel)
+title: Good Friday Experiment Marsh Chapel
 created: 2026-04-17
 updated: 2026-04-18
 type: concept

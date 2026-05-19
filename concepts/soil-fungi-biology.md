@@ -28,7 +28,7 @@ Fungi grow from spores into thread-like structures called **hyphae** (singular: 
 - A teaspoon of good garden soil may contain several **yards** of [[fungal-hyphae]]
 - Masses of hyphae growing together form visible threads called **mycelia** (singular: mycelium)
 
-Mushrooms, toadstools, bracket fungi, and puffballs are simply the **fruiting bodies**—reproductive structures—of fungi. The vast majority of the organism exists as unseen [[mycelial-networks]] in soil and organic matter.
+Mushrooms, toadstools, bracket fungi, and puffballs are simply the **fruiting bodies**—reproductive structures—of fungi. The vast majority of the organism exists as unseen [[fungal-mycelial-networks-nutrient-translocation]] in soil and organic matter.
 
 ## Advantages Over Bacteria
 

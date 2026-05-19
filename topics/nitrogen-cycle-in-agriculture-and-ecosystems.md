@@ -1,5 +1,5 @@
 ---
-title: "Nitrogen nitrogen cycle in agriculture and ecosystems and Ecosystems"
+title: "Nitrogen Cycle in Agriculture and Ecosystems"
 tags: [topic, nitrogen-cycle, soil-science, biogeochemistry, agriculture, ecology, nutrient-cycling, nitrogen-fixation, organic-farming]
 date: 2026-04-28
 updated: 2026-04-28

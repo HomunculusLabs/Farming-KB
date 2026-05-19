@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Branching patterns are among the most pervasive structures in nature, appearing in trees, river networks, lungs, kidneys, root systems, and even social organizations. In [[mycelial-networks]] branching through substrate for nutrient exchange
+Branching patterns are among the most pervasive structures in nature, appearing in trees, river networks, lungs, kidneys, root systems, and even social organizations. In [[fungal-mycelial-networks-nutrient-translocation]] branching through substrate for nutrient exchange
 - **Palm trees**: Frond branching for light capture and gas exchange
 - **Root systems**: Underground branching for water and mineral collection
 

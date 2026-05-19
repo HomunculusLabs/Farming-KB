@@ -1,5 +1,5 @@
 ---
-title: Porphyry and porphyry mushrooms as divine food Food
+title: Porphyry Mushrooms as Divine Food
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

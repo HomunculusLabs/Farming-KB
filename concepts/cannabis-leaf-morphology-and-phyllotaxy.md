@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis leaf morphology and phyllotaxy and Phyllotaxy
+title: Cannabis Leaf Morphology and Phyllotaxy
 created: 2026-04-28
 tags: [botany, cannabis, morphology, leaf-structure, plant-anatomy]
 date: 2026-04-25

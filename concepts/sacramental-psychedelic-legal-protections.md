@@ -1,5 +1,5 @@
 ---
-title: Sacramental sacramental psychedelic legal protections Protections
+title: Sacramental Psychedelic Legal Protections
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

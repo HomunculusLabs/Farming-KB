@@ -1,5 +1,5 @@
 ---
-title: lsd-set-and-setting-framework — set and setting eleusinian initiation methodology Methodology
+title: Set and Setting Eleusinian Initiation Methodology
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

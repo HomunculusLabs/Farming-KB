@@ -9,7 +9,7 @@ created: 2026-05-09
 
 ## Overview
 
-The emergence of [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* in
+The emergence of [[psilocybe-semilanceata]]* in
 central and northern Europe), the EMCDDA assessment indicates that most
 recreationally used mushrooms are cultivated rather than picked wild.
 Cultivation offers several advantages for the commercial market:

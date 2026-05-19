@@ -1,5 +1,5 @@
 ---
-title: Kykeon Composition and kykeon composition and ergot alkaloid hypothesis Hypothesis
+title: Kykeon Composition and Ergot Alkaloid Hypothesis
 created: 2026-04-13
 updated: 2026-04-15
 type: concept

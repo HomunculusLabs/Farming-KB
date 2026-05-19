@@ -10,7 +10,7 @@ use [[psilocybe-baeocystis]] and P. cyanescens analyzed 20-60 days after
 collection showed "no trace of indoles." The active compounds had degraded or
 evaporated entirely within two months of drying.
 
-Ohenoja et al. (1987) provided quantitative evidence from [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]. They found progressively lower psilocybin concentrations
+Ohenoja et al. (1987) provided quantitative evidence from [[psilocybe-semilanceata]]. They found progressively lower psilocybin concentrations
 corresponding to specimen age: 0.84% dry weight in specimens from 1976, 0.67% in
 specimens from 1954, and only 0.014% in specimens from 1869. This represents a
 60-fold decrease over roughly a century of storage, with the steepest losses

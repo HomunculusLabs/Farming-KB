@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam sulfur germicide js (JS)
+title: Jadam Sulfur Germicide Js
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Calendula calendula cultivation and medicinal uses Uses
+title: Calendula Cultivation and Medicinal Uses
 tags:
   - calendula
   - medicinal-herbs

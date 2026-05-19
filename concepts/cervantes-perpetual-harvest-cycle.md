@@ -1,5 +1,5 @@
 ---
-title: cervantes perpetual harvest cycle Cycle for Cannabis
+title: Cervantes Perpetual Harvest Cycle
 created: 2026-04-26
 tags: [cannabis, perpetual-harvest, scheduling, indoor-growing, efficiency]
 date: 2026-04-25

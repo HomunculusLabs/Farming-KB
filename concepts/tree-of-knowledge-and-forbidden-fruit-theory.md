@@ -1,5 +1,5 @@
 ---
-title: Tree of Knowledge and tree of knowledge and forbidden fruit theory Theory
+title: Tree of Knowledge and Forbidden Fruit Theory
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

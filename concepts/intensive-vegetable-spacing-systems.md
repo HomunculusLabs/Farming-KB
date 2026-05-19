@@ -1,5 +1,5 @@
 ---
-title: Intensive intensive vegetable spacing systems Systems
+title: Intensive Vegetable Spacing Systems
 aliases: [close spacing, intensive planting, square foot gardening, wide row planting]
 tags: [gardening, horticulture, vegetable-production, spacing, soil-fertility]
 created: 2026-05-09

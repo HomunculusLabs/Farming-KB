@@ -1,5 +1,5 @@
 ---
-title: Adenosine adenosine triphosphate and cellular energy Energy
+title: Adenosine Triphosphate and Cellular Energy
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

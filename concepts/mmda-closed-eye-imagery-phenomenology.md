@@ -1,5 +1,5 @@
 ---
-title: Mmda mmda closed eye imagery phenomenology Imagery Phenomenology
+title: Mmda Closed Eye Imagery Phenomenology
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

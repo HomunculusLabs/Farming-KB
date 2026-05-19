@@ -1,5 +1,5 @@
 ---
-title: Solomon solomon disease identification and organic remedies and Organic Remedies
+title: Solomon Disease Identification and Organic Remedies
 created: 2026-04-26
 updated: 2026-04-23
 sources:

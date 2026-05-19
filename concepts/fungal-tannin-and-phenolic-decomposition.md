@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal tannin and phenolic decomposition Decomposition
+title: Fungal Tannin and Phenolic Decomposition
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

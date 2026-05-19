@@ -1,5 +1,5 @@
 ---
-title: "Gartz gartz conocybe cyanopus rare psychoactive mushroom: Rare Tiny Mushrooms of Remarkable Potency"
+title: "Gartz Conocybe Cyanopus Rare Psychoactive Mushroom"
 created: 2026-04-28
 tags: [conocybe-cyanopus, gartz, psilocybin, baeocystin, rare-mushroom, sclerotia, bolbitiaceae, mycology]
 date: 2026-04-25

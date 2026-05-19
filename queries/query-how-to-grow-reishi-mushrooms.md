@@ -1,5 +1,5 @@
 ---
-title: How to query how to grow reishi mushrooms Mushrooms
+title: Query How to Grow Reishi Mushrooms
 created: 2026-04-28
 tags:
   - mushroom-cultivation

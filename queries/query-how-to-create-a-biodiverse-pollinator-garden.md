@@ -1,5 +1,5 @@
 ---
-title: "How to Create a query how to create a biodiverse pollinator garden Garden"
+title: "Query How to Create a Biodiverse Pollinator Garden"
 created: 2026-04-28
 tags: [query, pollinators, bees, biodiversity, garden-design]
 date: 2026-04-25

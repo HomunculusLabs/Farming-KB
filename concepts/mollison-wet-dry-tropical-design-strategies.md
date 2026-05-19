@@ -1,5 +1,5 @@
 ---
-title: "Wet-Dry mollison wet dry tropical design strategies Strategies in permaculture"
+title: "Mollison Wet Dry Tropical Design Strategies"
 created: 2026-04-26
 tags:
   - permaculture

@@ -1,5 +1,5 @@
 ---
-title: "How to query how to increase cannabis yield Yield"
+title: "Query How to Increase Cannabis Yield"
 created: 2026-04-28
 tags: [query, cannabis, yield, optimization, growing]
 date: 2026-04-25

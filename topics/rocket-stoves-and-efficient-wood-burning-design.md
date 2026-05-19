@@ -1,5 +1,5 @@
 ---
-title: Rocket rocket stoves and efficient wood burning design Wood-Burning Design
+title: Rocket Stoves and Efficient Wood Burning Design
 tags: [rocket-stove, wood-burning, efficient-heating, natural-building, permaculture, homesteading, thermal-mass, appropriate-technology]
 date: 2026-05-03
 updated: 2026-05-03

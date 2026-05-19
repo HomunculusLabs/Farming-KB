@@ -1,5 +1,5 @@
 ---
-title: Psilocybin psilocybin mushroom dissemination 1950s 1970s 1950s-1970s
+title: Psilocybin Mushroom Dissemination 1950s 1970s
 created: 2026-04-26
 updated: 2026-04-23
 sources:

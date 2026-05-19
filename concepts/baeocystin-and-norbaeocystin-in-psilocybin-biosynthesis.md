@@ -1,5 +1,5 @@
 ---
-title: "Baeocystin and baeocystin and norbaeocystin in psilocybin biosynthesis Biosynthesis"
+title: "Baeocystin and Norbaeocystin in Psilocybin Biosynthesis"
 created: 2026-04-28
 tags: [biochemistry, psilocybin, baeocystin, norbaeocystin, fungal-alkaloids]
 date: 2026-04-28

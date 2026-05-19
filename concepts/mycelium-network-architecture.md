@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
 
-# [[mycelial-networks]]
+# [[fungal-mycelial-networks-nutrient-translocation]]
 maintain connectivity while maximizing resource capture through a combination
 of [[fungal-mycelial-networks-nutrient-translocation]] move resources through two primary mechanisms:
 

@@ -1,5 +1,5 @@
 ---
-title: "Fungal fungal siderophores iron acquisition mycorrhiza Acquisition Mycorrhiza"
+title: "Fungal Siderophores Iron Acquisition Mycorrhiza"
 created: 2026-04-28
 tags: [mycology, siderophore, mycorrhiza, iron, biogeochemistry]
 date: 2026-04-25

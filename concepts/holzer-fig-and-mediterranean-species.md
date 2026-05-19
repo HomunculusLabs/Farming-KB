@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer fig and mediterranean species Species
+title: Holzer Fig and Mediterranean Species
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

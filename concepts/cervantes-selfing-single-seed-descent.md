@@ -1,5 +1,5 @@
 ---
-title: Selfing and cervantes selfing single seed descent Descent
+title: Cervantes Selfing Single Seed Descent
 created: 2026-04-26
 tags:
   - cannabis

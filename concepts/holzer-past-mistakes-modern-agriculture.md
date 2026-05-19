@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer past mistakes modern agriculture in Modern Agriculture
+title: Holzer Past Mistakes Modern Agriculture
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

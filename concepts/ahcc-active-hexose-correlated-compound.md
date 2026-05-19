@@ -1,5 +1,5 @@
 ---
-title: AHCC ahcc active hexose correlated compound Correlated Compound
+title: Ahcc Active Hexose Correlated Compound
 created: 2026-04-26
 updated: 2026-04-23
 sources:

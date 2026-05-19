@@ -1,5 +1,5 @@
 ---
-title: Fungi and the fungi convention on biological diversity Diversity
+title: Fungi Convention on Biological Diversity
 created: 2026-04-26
 tags:
   - biodiversity policy

@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal microaggregate formation and soil stability and Soil Stability
+title: Fungal Microaggregate Formation and Soil Stability
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

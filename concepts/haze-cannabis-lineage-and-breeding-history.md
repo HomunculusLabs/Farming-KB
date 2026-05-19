@@ -1,5 +1,5 @@
 ---
-title: Haze haze cannabis lineage and breeding history and Breeding History
+title: Haze Cannabis Lineage and Breeding History
 source: comparison-cannabis-sativa-vs-cannabis-indica Volume 3 - S.T. Oner, The Rev
 created: 2026-05-08
 tags: [cannabis, sativa, haze, breeding, genetics, history]

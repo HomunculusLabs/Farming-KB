@@ -1,5 +1,5 @@
 ---
-title: Sacred sacred road pilgrimage to eleusis to Eleusis
+title: Sacred Road Pilgrimage to Eleusis
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

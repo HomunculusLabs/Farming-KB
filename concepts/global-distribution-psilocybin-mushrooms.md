@@ -5,7 +5,7 @@ neurotropic fungi is best documented. The authors noted that "the majority of th
 [of *Psilocybe*] are found in or near the [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] have been documented since the 1950s.
 
 Other significant centers of diversity include Brazil, Colombia, and other tropical South
-American countries; Southeast Asia (particularly Thailand, where *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* (the liberty cap) is the most widely
+American countries; Southeast Asia (particularly Thailand, where *[[psilocybe-semilanceata]]* (the liberty cap) is the most widely
 distributed [[panaeolina-foenisecii]]*,
 commonly known as the haymaker's mushroom or mowers' mushroom, is cosmopolitan in
 temperate grasslands worldwide, though its psychoactive status remains debated. Most

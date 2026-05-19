@@ -1,5 +1,5 @@
 ---
-title: "Fungal fungal siderophore detection analytical methods and Analytical Methods"
+title: "Fungal Siderophore Detection Analytical Methods"
 created: 2026-04-28
 tags: [siderophores, analytical-methods, mycorrhiza, HPLC, mass-spectrometry]
 date: 2026-04-25

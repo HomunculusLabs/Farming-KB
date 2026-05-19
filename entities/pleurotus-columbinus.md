@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Stamets, P. (2006). woodlovers-mycelium-running-pathway-technique. Ten Speed Press.
-  - Stamets, P. & Chilton, J.S. (1983). [[accessible-mushroom-cultivation-for-disabilities]] with Special Emphasis on Appropriate Techniques for [[stamets-biological-efficiency-yield]]. The species is a close relative of *P. ostreatus* and is sometimes classified as a color variant or subspecies within that complex.
+  - Stamets, P. & Chilton, J.S. (1983). [[accessible-mushroom-cultivation-for-disabilities]] with Special Emphasis on Appropriate Techniques for [[biological-efficiency]]. The species is a close relative of *P. ostreatus* and is sometimes classified as a color variant or subspecies within that complex.
 
 ## Taxonomy
 

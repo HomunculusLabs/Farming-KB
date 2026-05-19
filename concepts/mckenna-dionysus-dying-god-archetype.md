@@ -1,5 +1,5 @@
 ---
-title: Dionysus and the mckenna dionysus dying god archetype Archetype
+title: Mckenna Dionysus Dying God Archetype
 created: 2026-04-28
 tags:
   - mckenna

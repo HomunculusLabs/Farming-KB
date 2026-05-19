@@ -1,5 +1,5 @@
 ---
-title: "Soil fukuoka textdoc soil building as multigenerational legacy Legacy"
+title: "Fukuoka Textdoc Soil Building as Multigenerational Legacy"
 created: 2026-04-28
 tags: [fukuoka, natural-farming, soil, cover-crops, orchard-management, legacy, ecology]
 date: 2026-04-28

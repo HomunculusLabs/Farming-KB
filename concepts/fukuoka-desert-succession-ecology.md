@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's fukuoka desert succession ecology Ecology
+title: Fukuoka Desert Succession Ecology
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Panaeolus and panaeolus panaeolina neurotropic species Species
+title: Panaeolus Panaeolina Neurotropic Species
 created: 2026-04-28
 tags:
   - mycology

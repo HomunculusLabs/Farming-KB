@@ -1,5 +1,5 @@
 ---
-title: Home home cheesemaking and dairy fermentation Fermentation
+title: Home Cheesemaking and Dairy Fermentation
 subtitle: Household-scale transformation of milk into cheese, yogurt, kefir, butter, and integrated homestead dairy products.
 tags:
   - cheesemaking

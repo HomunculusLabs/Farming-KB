@@ -1,5 +1,5 @@
 ---
-title: The Four savory ecosystem foundation blocks Blocks
+title: Savory Ecosystem Foundation Blocks
 created: 2026-04-26
 aliases: [ecosystem foundation blocks, four savory-mineral-cycle-management, savory-energy-flow-and-solar-capture
 tags: [ecosystem-processes, succession, water-cycle, mineral-cycle,

@@ -13,20 +13,15 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - amanita-phalloides-death-cap
-  - amanita-poisoning-identification-antidotes-palmer
-  - palmer-amanitine-poison-mechanism
-  - palmer-poisonous-mushrooms-deadly-species
-  - mushroom-poisoning-guide
-  - mushroom-poisoning-and-lookalikes
-  - fungal-poisons-and-toxicology
-  - bloomfield-mushroom-poisons-and-toxidromes
-  - mushroom-foraging-safety
-  - mushroom-identification-basics
-  - growing-gourmet-poisonous-mushroom-lookalikes
-  - gartz-mushroom-identification-dangers-and-tips
-  - mushroom-toxins-and-poisoning
-  - palmer-about-mushrooms-poisonous-species-to-avoid
+  - "raw/papers/amanita-muscaria-herb-of-immortality.md"
+  - "raw/papers/amanita-muscaria-herb-of-immortality.md"
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
+  - "raw/papers/growing-the-woodlovers-outdoors.md"
+  - "raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md"
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 related_concepts:
   - mushroom-identification-basics
   - mushroom-identification-resources

@@ -50,7 +50,7 @@ Understanding the septal pore cap is important for cultivators working with basi
 - **Damage response**: The SPC ability to rapidly seal septal pores protects the colony from cytoplasmic loss when hyphae are damaged during handling or substrate colonization.
 - **Intercellular transport**: SPC regulation of septal pore patency directly influences nutrient and signal translocation through the mycelial network.
 - **Species identification**: SPC ultrastructure is used as a taxonomic character in fungal classification.
-- **Colony resilience**: The SPC contributes to the remarkable resilience of basidiomycete [[mycelial-networks]] to physical disruption.
+- **Colony resilience**: The SPC contributes to the remarkable resilience of basidiomycete [[fungal-mycelial-networks-nutrient-translocation]] to physical disruption.
 
 ## References
 

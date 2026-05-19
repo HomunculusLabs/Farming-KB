@@ -1,5 +1,5 @@
 ---
-title: "Fungal fungal tropisms and gravitropic responses Responses"
+title: "Fungal Tropisms and Gravitropic Responses"
 concept_type: biology
 topic: mycology
 related: ["two-phase-directed-growth-psilocybe-cubensis-basidiocarp-development", "anemotropism-in-fungi", "stropharia-cubensis-extraterrestrial-hypothesis"]

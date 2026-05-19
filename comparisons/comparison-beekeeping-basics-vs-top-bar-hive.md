@@ -1,5 +1,5 @@
 ---
-title: "Comparison comparison beekeeping basics vs top bar hive Vs comparison-top-bar-hive-vs-warre-hive Hive"
+title: "Comparison Beekeeping Basics vs Top Bar Hive"
 created: 2026-05-02
 updated: 2026-05-02
 type: comparison

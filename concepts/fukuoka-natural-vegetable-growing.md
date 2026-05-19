@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka natural vegetable growing Growing
+title: Fukuoka Natural Vegetable Growing
 created: 2026-04-20
 updated: 2026-04-20
 type: concept

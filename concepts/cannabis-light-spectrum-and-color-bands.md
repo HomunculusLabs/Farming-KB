@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis light spectrum and color bands and Color Bands
+title: Cannabis Light Spectrum and Color Bands
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

@@ -25,7 +25,7 @@ Oceania — particularly Australia and New Guinea — has a distinctive neurotro
 
 ### Africa
 
-Africa remains the most underexplored continent for neurotropic fungi. While species have been recorded from West Africa, Central Africa, East Africa, and Southern Africa, the [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]*, *P. cyanescens*, *P. serbica*, *[[ethnobotanical-use-of-neurotropic-fungi-in-mexico]] Europe is limited to the historical use of *[[fungal-biogeography]]
+Africa remains the most underexplored continent for neurotropic fungi. While species have been recorded from West Africa, Central Africa, East Africa, and Southern Africa, the [[psilocybe-semilanceata]]*, *P. cyanescens*, *P. serbica*, *[[ethnobotanical-use-of-neurotropic-fungi-in-mexico]] Europe is limited to the historical use of *[[fungal-biogeography]]
 - teonanacatl divine mushroom mesoamerica
 
 ## References

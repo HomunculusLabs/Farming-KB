@@ -20,7 +20,7 @@ Construct shallow tray-based erosion units (roughly 30 × 60 cm) filled with a s
 
 ### Simulating Runoff with "Water Runs"
 
-Set up angled troughs or PVC channels beneath the trays to capture runoff. The troughs direct water into collection containers positioned at the lower end. Each run delivers a measured volume of water (simulating rainfall) at a consistent flow rate. Students record the time it takes water to exit the tray, giving them **retention time** (how long water is held in the soil matrix) and **contact time** (how long water interacts with [[mycelial-networks]]).
+Set up angled troughs or PVC channels beneath the trays to capture runoff. The troughs direct water into collection containers positioned at the lower end. Each run delivers a measured volume of water (simulating rainfall) at a consistent flow rate. Students record the time it takes water to exit the tray, giving them **retention time** (how long water is held in the soil matrix) and **contact time** (how long water interacts with [[fungal-mycelial-networks-nutrient-translocation]]).
 
 ### Treatment Comparison
 

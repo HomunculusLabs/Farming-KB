@@ -1,5 +1,5 @@
 ---
-title: Sepp sepp holzer soil fertility and green manure and comparison-green-manure-guide-vs-mulch-types-and-effects
+title: Sepp Holzer Soil Fertility and Green Manure
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

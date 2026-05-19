@@ -69,7 +69,7 @@ Not all cords transport simultaneously. A remarkable phenomenon termed **route-s
 - These cords filled at rates similar to primary transport routes but carried signal only transiently (declining after ~30 hours).
 - Some subsidiary cords exhibited **multiple filling phases** separated by quiescent intervals, with the second phase beginning days after the first.
 
-Route-switching demonstrates that [[mycelial-networks]] maintain **redundant transport pathways** that can be activated or deactivated as conditions change, providing both resilience and flexibility in resource allocation.
+Route-switching demonstrates that [[fungal-mycelial-networks-nutrient-translocation]] maintain **redundant transport pathways** that can be activated or deactivated as conditions change, providing both resilience and flexibility in resource allocation.
 
 ## Biological Significance
 

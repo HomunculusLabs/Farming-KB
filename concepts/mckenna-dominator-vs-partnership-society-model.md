@@ -1,5 +1,5 @@
 ---
-title: McKenna's Dominator vs mckenna dominator vs partnership society model Model
+title: Mckenna Dominator vs Partnership Society Model
 created: 2026-04-26
 updated: 2026-04-23
 sources:

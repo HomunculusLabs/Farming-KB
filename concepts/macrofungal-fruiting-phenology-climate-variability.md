@@ -1,5 +1,5 @@
 ---
-title: Macrofungal macrofungal fruiting phenology climate variability and Climate Variability
+title: Macrofungal Fruiting Phenology Climate Variability
 created: 2026-04-26
 tags:
   - fungal-ecology

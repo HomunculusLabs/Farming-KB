@@ -1,5 +1,5 @@
 ---
-title: holzer stone cellar construction Construction
+title: Holzer Stone Cellar Construction
 created: 2026-04-26
 tags:
   - root-cellar

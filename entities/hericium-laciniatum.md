@@ -55,7 +55,7 @@ Hericium laciniatum has a broad distribution across [[mushroom-species-cultivati
 
 **Spawn run:** Optimal temperature 20–25°C. Full colonization typically takes 18–25 days, slightly slower than H. erinaceus.
 
-**[[stamets-biological-efficiency-yield]] ranges from 50–85%, lower than the 100–150% achievable with H. erinaceus. The species is sensitive to contamination, particularly Trichoderma, during the spawn run.
+**[[biological-efficiency]] ranges from 50–85%, lower than the 100–150% achievable with H. erinaceus. The species is sensitive to contamination, particularly Trichoderma, during the spawn run.
 
 **Harvest:** Fruit bodies should be harvested when spines are fully elongated but still white. Post-harvest shelf life is limited — 5–7 days refrigerated.
 

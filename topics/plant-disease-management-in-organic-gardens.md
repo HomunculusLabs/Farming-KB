@@ -1,6 +1,6 @@
 ---
 title: "Plant plant-disease-management-solomon in Organic Gardens"
-subtitle: "Ecological diagnosis, prevention, and organic plant hamilton-pest-and-disease-control-organic."
+subtitle: "Ecological diagnosis, prevention, and organic plant disease management"
 tags: [plant-pathology, organic-gardening, diseases, fungi, oomycetes, bacteria]
 date: 2026-04-28
 updated: 2026-04-28

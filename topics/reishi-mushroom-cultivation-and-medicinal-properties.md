@@ -1,6 +1,6 @@
 ---
 title: "Reishi Mushroom calendula-cultivation-and-medicinal-uses Properties"
-subtitle: "A comprehensive guide to growing query-what-are-the-main-bioactive-compounds-in-medicinal-plants, pharmacology, and traditional uses"
+subtitle: ""A comprehensive guide to growing, pharmacology, and traditional uses""
 tags: [medicinal-mushrooms, ganoderma, reishi, cultivation, immunology, triterpenoids, traditional-chinese-medicine, mycology]
 date: 2026-05-08
 updated: 2026-05-08

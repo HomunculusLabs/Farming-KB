@@ -35,7 +35,7 @@ The study of mycelial network resilience has inspired applications in several fi
 
 - **Computer network design**: Fungal network optimization principles have been applied to the design of distributed computer networks and internet routing protocols that must route around damaged nodes.
 
-- **Swarm robotics**: Decentralized growth algorithms inspired by [[mycelial-networks]]
+- **Swarm robotics**: Decentralized growth algorithms inspired by [[fungal-mycelial-networks-nutrient-translocation]]
 - [[mycelium]]
 - [[ghb]]
 

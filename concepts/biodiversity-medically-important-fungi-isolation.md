@@ -1,5 +1,5 @@
 ---
-title: "biodiversity medically important fungi isolation: Isolation and Ecology"
+title: "Biodiversity Medically Important Fungi Isolation"
 created: 2026-04-28
 tags:
   - biodiversity-pathogens

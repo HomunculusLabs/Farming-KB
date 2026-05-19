@@ -5,7 +5,7 @@ updated: 2026-05-09
 type: concept
 tags: [mycology, spawn, cultivation, grain, sawdust, mycelium]
 sources:
-  - cotter-organic-mushroom-farming-mycoremediation
+  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 ---
 # Spawn Production for Mushroom Cultivation
 Spawn is mycelium that is ready to be planted into a growing medium. It

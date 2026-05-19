@@ -1,5 +1,5 @@
 ---
-title: Turner turner psychedelic combination experience reports Experience Reports
+title: Turner Psychedelic Combination Experience Reports
 created: 2026-04-13
 updated: 2026-04-15
 type: concept

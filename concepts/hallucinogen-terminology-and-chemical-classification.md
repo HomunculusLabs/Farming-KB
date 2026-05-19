@@ -1,5 +1,5 @@
 ---
-title: Hallucinogen hallucinogen terminology and chemical classification Classification
+title: Hallucinogen Terminology and Chemical Classification
 created: 2026-05-06
 tags: [hallucinogens, terminology, chemistry, tryptamines, phenethylamines, classification, pharmacology]
 date: 2026-04-28

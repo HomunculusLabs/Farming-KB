@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam farm economics market viability and Market Viability
+title: Jadam Farm Economics Market Viability
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

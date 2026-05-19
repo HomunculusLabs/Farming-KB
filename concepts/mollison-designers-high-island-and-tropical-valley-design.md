@@ -1,5 +1,5 @@
 ---
-title: "High Island and mollison designers high island and tropical valley design Design Systems"
+title: "Mollison Designers High Island and Tropical Valley Design"
 created: 2026-04-26
 tags:
   - tropical-design

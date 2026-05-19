@@ -1,5 +1,5 @@
 ---
-title: Solomon on solomon transplanting and hardening off Off
+title: Solomon Transplanting and Hardening Off
 created: 2026-04-21
 updated: 2026-04-18
 type: concept

@@ -73,7 +73,7 @@ Monitoring protocols help track population trends and inform adaptive management
 
 ## See Also
 - [[saprotrophic-fungi]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[mycelial-cord]]
 - [[agaricus-bisporus]]
 - [[serpula-lacrimans]]

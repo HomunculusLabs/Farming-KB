@@ -1,5 +1,5 @@
 ---
-title: mollison designers design for disaster resilience Resilience
+title: Mollison Designers Design for Disaster Resilience
 created: 2026-04-28
 tags:
   - disaster-resilience

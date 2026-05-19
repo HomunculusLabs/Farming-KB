@@ -1,5 +1,5 @@
 ---
-title: "Old old world hallucinogenic plants overview Plants: Overview and ethnomycology-cultural-significance-sacred-fungi"
+title: "Old World Hallucinogenic Plants Overview"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept

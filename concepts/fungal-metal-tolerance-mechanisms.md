@@ -1,5 +1,5 @@
 ---
-title: "Fungal fungal metal tolerance mechanisms Mechanisms"
+title: "Fungal Metal Tolerance Mechanisms"
 created: 2026-04-28
 tags: [heavy-metals, fungal-tolerance, bioremediation, metal-resistance, adaptation]
 date: 2026-04-25

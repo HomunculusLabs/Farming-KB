@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer ring water feeder living water supply - Living Water Supply for Communities
+title: Holzer Ring Water Feeder Living Water Supply
 created: 2026-04-26
 tags: [water-management, permaculture, community-design, drinking-water, holzer]
 date: 2026-04-25

@@ -1,5 +1,5 @@
 ---
-title: "Cinnamon cinnamon cultivation and spice production Production"
+title: "Cinnamon Cultivation and Spice Production"
 tags:
   - cinnamon
   - spices

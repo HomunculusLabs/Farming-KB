@@ -1,5 +1,5 @@
 ---
-title: "JADAM jadam anaerobic fermentation principles Principles — Core Theory Behind All JADAM Inputs"
+title: "Jadam Anaerobic Fermentation Principles"
 created: 2026-04-14
 updated: 2026-04-14
 type: concept

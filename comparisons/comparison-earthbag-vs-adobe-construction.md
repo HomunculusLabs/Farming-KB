@@ -1,5 +1,5 @@
 ---
-title: comparison earthbag vs adobe construction Construction
+title: Comparison Earthbag vs Adobe Construction
 created: 2026-04-28
 tags: [natural-building, permaculture, earth-building, sustainable-housing, homesteading]
 date: 2026-04-28

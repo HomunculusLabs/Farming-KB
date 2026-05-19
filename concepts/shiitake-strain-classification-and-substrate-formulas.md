@@ -1,5 +1,5 @@
 ---
-title: Shiitake shiitake strain classification and substrate formulas and Substrate Formulas
+title: Shiitake Strain Classification and Substrate Formulas
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

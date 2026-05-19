@@ -1,5 +1,5 @@
 ---
-title: Sport sport fishery critique mollison Mollison
+title: Sport Fishery Critique Mollison
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

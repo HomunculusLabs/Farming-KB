@@ -1,5 +1,5 @@
 ---
-title: Ketamine ketamine psychedelic journey guide Guide
+title: Ketamine Psychedelic Journey Guide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

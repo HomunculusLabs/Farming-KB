@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis safety profile and overdose risk And Overdose Risk
+title: Cannabis Safety Profile and Overdose Risk
 created: 2026-04-26
 updated: 2026-04-23
 sources:

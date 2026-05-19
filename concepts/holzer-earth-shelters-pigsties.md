@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer earth shelters pigsties - Pigsties and permaculture-designers-manual-animal-housing-detailed
+title: Holzer Earth Shelters Pigsties
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

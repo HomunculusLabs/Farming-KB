@@ -1,5 +1,5 @@
 ---
-title: Controlled controlled substances act and psychedelic research and mckenna-suppression-psychedelic-research-lsd-therapy
+title: Controlled Substances Act and Psychedelic Research
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

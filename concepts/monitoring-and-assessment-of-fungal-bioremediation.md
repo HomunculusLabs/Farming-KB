@@ -1,5 +1,5 @@
 ---
-title: Monitoring and monitoring and assessment of fungal bioremediation Bioremediation
+title: Monitoring and Assessment of Fungal Bioremediation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

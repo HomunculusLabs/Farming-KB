@@ -50,7 +50,7 @@ The Japanese bottle method is the industry standard:
 
 1. Polypropylene bottles filled with [[comparison-grain-spawn-vs-grain-to-grain-transfer]] at 10-15% rate
 3. Incubate at 70-75 F for 2-3 weeks
-4. Cold shock to 45-50 F for [[mushroom-pinning-primordia-formation-strategies]]. Long-stemmed, small-capped mushrooms commonly form along inside periphery of petri dish or during [[stamets-biological-efficiency-yield]]: up to 150% (preponderance is stem mass)
+4. Cold shock to 45-50 F for [[mushroom-pinning-primordia-formation-strategies]]. Long-stemmed, small-capped mushrooms commonly form along inside periphery of petri dish or during [[biological-efficiency]]: up to 150% (preponderance is stem mass)
 - Standard yield from 1-liter bottles: 3-5 oz per first flush
 - Clusters average 5-6 oz (140-170 grams) per bottle in commercial operations
 - Multiple flushes possible but first flush is dominant

@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam microorganism solution culturing and Culturing Methods
+title: Jadam Microorganism Solution Culturing
 created: 2026-04-28
 tags: [jadam, microorganisms, organic-farming, soil-biology, fermentation]
 date: 2026-04-25

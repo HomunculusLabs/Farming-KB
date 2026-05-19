@@ -1,5 +1,5 @@
 ---
-title: Peruvian Government Ayahuasca peruvian ayahuasca government festivals and presidential ceremony Ceremony Participation
+title: Peruvian Ayahuasca Government Festivals and Presidential Ceremony
 source: stuart-r-ayahuasca-tourism.md
 tags: [ayahuasca, peru, government, tourism, culture, ceremony, festival]
 created: 2026-05-08

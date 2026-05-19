@@ -1,5 +1,5 @@
 ---
-title: Bloomfield bloomfield mycorrhizal symbiosis and fungal ecology and gadd-fungal-ecology-endophytes
+title: Bloomfield Mycorrhizal Symbiosis and Fungal Ecology
 created: 2026-04-21
 updated: 2026-04-18
 type: concept

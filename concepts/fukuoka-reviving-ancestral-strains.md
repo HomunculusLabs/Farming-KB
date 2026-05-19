@@ -1,5 +1,5 @@
 ---
-title: Fukuoka — fukuoka reviving ancestral strains Strains
+title: Fukuoka Reviving Ancestral Strains
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

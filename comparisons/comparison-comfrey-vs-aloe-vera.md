@@ -1,5 +1,5 @@
 ---
-title: "comparison comfrey vs aloe vera Vera"
+title: "Comparison Comfrey vs Aloe Vera"
 tags: [comparison, medicinal-plants, permaculture, herbs, first-aid]
 date: 2026-05-08
 updated: 2026-05-08

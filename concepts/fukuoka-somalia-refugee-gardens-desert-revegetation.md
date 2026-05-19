@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka somalia refugee gardens desert revegetation Gardens fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique
+title: Fukuoka Somalia Refugee Gardens Desert Revegetation
 tags: [somalia, africa, desert-greening, refugee, vegetable-garden, seed-scattering, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28

@@ -1,5 +1,5 @@
 ---
-title: Kombucha and kombucha and fermented teas guide Guide
+title: Kombucha and Fermented Teas Guide
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

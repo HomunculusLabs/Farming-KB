@@ -1,5 +1,5 @@
 ---
-title: Sepp sepp holzer global projects Projects: Scotland and Thailand
+title: Sepp Holzer Global Projects
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

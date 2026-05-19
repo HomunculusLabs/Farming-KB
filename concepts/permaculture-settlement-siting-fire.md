@@ -1,5 +1,5 @@
 ---
-title: permaculture permaculture settlement siting fire for Fire Safety
+title: Permaculture Settlement Siting Fire
 created: 2026-04-28
 tags: [permaculture, fire-control, settlement-siting, landscape-design, hazard-planning, zone-planning]
 date: 2026-04-25

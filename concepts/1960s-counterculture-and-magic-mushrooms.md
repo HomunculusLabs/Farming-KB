@@ -1,5 +1,5 @@
 ---
-title: 1960s 1960s counterculture and magic mushrooms Mushrooms
+title: 1960s Counterculture and Magic Mushrooms
 created: 2026-04-26
 updated: 2026-04-23
 sources:

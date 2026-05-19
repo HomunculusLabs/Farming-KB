@@ -1,5 +1,5 @@
 ---
-title: Four four principles of natural farming Farming
+title: Four Principles of Natural Farming
 created: 2026-04-28
 updated: 2026-05-08
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Jadam jadam animal byproduct liquid fertilizer jadam-liquid-fertilizer-nutritional-perspective
+title: Jadam Animal Byproduct Liquid Fertilizer
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis cloning and mother plants Plants
+title: Cannabis Cloning and Mother Plants
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

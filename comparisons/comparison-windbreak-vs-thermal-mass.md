@@ -1,5 +1,5 @@
 ---
-title: "comparison windbreak vs thermal mass Mass"
+title: "Comparison Windbreak vs Thermal Mass"
 created: 2026-04-28
 tags: [comparison, microclimate, windbreak, thermal-mass, permaculture]
 date: 2026-04-28

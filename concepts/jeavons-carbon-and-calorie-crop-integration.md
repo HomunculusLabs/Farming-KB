@@ -1,5 +1,5 @@
 ---
-title: Carbon and jeavons carbon and calorie crop integration Integration
+title: Jeavons Carbon and Calorie Crop Integration
 created: 2026-04-28
 tags: [biointensive, calorie-crops, carbon-crops, sustainability, jeavons]
 date: 2026-04-28

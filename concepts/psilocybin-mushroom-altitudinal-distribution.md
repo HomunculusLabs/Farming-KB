@@ -1,5 +1,5 @@
 ---
-title: Psilocybin psilocybin mushroom altitudinal distribution Distribution
+title: Psilocybin Mushroom Altitudinal Distribution
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

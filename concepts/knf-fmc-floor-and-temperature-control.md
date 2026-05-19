@@ -1,5 +1,5 @@
 ---
-title: "KNF knf fmc floor and temperature control and Temperature Control"
+title: "Knf Fmc Floor and Temperature Control"
 created: 2026-04-28
 tags: [knf, natural-farming, fmc, compost, fermentation, soil-health]
 date: 2026-04-25

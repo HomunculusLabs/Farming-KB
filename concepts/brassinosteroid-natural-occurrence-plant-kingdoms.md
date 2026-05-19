@@ -1,5 +1,5 @@
 ---
-title: Brassinosteroid brassinosteroid natural occurrence plant kingdoms Plant Kingdoms
+title: Brassinosteroid Natural Occurrence Plant Kingdoms
 created: 2026-04-28
 tags:
   - brassinosteroids

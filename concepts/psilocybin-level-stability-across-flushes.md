@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Level psilocybin level stability across flushes Flushes in brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting
+title: Psilocybin Level Stability Across Flushes
 tags:
   - psilocybin
   - psilocybin-stability

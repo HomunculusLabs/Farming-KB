@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's fukuoka natural predator protection Protection in the Orchard
+title: Fukuoka Natural Predator Protection
 created: 2026-04-18
 updated: 2026-04-21
 type: concept

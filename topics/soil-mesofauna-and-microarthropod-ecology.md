@@ -1,5 +1,5 @@
 ---
-title: Soil soil mesofauna and microarthropod ecology Ecology
+title: Soil Mesofauna and Microarthropod Ecology
 tags:
   - soil-biology
   - mesofauna

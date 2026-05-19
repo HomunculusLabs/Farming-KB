@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis reefers and tincture preparation Preparation
+title: Cannabis Reefers and Tincture Preparation
 created: 2026-04-14
 updated: 2026-04-27
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: comparison bromeliad vs orchid care Care
+title: Comparison Bromeliad vs Orchid Care
 tags: [epiphytes, bromeliads, orchids, houseplants, cultivation, care-guide, comparison]
 date: 2026-04-28
 updated: 2026-04-28

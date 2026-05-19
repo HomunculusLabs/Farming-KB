@@ -1,5 +1,5 @@
 ---
-title: Arbuscule Isolation and arbuscule isolation and nutrient exchange mechanisms Mechanisms
+title: Arbuscule Isolation and Nutrient Exchange Mechanisms
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "Willow Water and mollison designers willow water and natural rooting propagation Propagation"
+title: "Mollison Designers Willow Water and Natural Rooting Propagation"
 created: 2026-04-26
 tags:
   - permaculture

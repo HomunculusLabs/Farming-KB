@@ -1,5 +1,5 @@
 ---
-title: "Microclimate microclimate design for garden and farm and Farm"
+title: "Microclimate Design for Garden and Farm"
 subtitle: "Creating and managing localized climate conditions to extend growing seasons and optimize plant health"
 tags: [microclimate, permaculture, landscape-design, frost-protection, thermal-mass]
 date: 2026-04-28

@@ -1,5 +1,5 @@
 ---
-title: Shipibo shipibo san francisco ceremonial center ucayali Ceremonial Center Ucayali
+title: Shipibo San Francisco Ceremonial Center Ucayali
 created: 2026-05-09
 updated: 2026-05-09
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam natural pesticide institute and research Institute and Research
+title: Jadam Natural Pesticide Institute and Research
 created: 2026-04-28
 tags: [jadam, research-institute, collective-intelligence, agricultural-innovation]
 date: 2026-04-25

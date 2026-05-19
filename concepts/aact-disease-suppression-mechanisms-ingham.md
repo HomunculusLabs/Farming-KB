@@ -1,5 +1,5 @@
 ---
-title: "AACT aact disease suppression mechanisms ingham Mechanisms"
+title: "Aact Disease Suppression Mechanisms Ingham"
 tags: [aact, compost-tea, disease-suppression, ingham, soil-food-web, biocontrol]
 date: 2026-04-28
 updated: 2026-04-28

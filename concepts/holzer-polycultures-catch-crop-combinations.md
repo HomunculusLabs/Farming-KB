@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer polycultures catch crop combinations Crop Combinations
+title: Holzer Polycultures Catch Crop Combinations
 created: 2026-04-21
 updated: 2026-04-18
 type: concept

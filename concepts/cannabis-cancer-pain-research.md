@@ -1,5 +1,5 @@
 ---
-title: Cannabis and cannabis cancer pain research Research
+title: Cannabis Cancer Pain Research
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

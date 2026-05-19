@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka pine environment collapse japan Collapse in Japan
+title: Fukuoka Pine Environment Collapse Japan
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

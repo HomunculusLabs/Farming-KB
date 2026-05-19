@@ -47,7 +47,7 @@ Spores are ellipsoid to broadly fusiform, 1-septate, colorless, and measure 15â€
 
 The photobiont is a trebouxia-like green alga characteristic of many crustose lichens.
 
-Chemically, the species contains rhizocarpic acid and numerous related depsidones as its primary [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], occurring on every continent including Antarctica.
+Chemically, the species contains rhizocarpic acid and numerous related depsidones as its primary [[psilocybe-semilanceata]], occurring on every continent including Antarctica.
 
 It is found across arctic, alpine, and [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] populations occur in montane New Zealand, Patagonia, and the subantarctic islands.
 

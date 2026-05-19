@@ -1,5 +1,5 @@
 ---
-title: "Food Mandala and fukuoka textdoc food mandala yin yang seasonal natural diet Diet"
+title: "Fukuoka Textdoc Food Mandala Yin Yang Seasonal Natural Diet"
 created: 2026-04-28
 tags: [fukuoka, natural-diet, yin-yang, seasonal-eating, food-philosophy, japanese-cuisine]
 date: 2026-04-28

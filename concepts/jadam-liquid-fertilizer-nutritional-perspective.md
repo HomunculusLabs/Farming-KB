@@ -1,5 +1,5 @@
 ---
-title: jadam jadam liquid fertilizer nutritional perspective nutritional perspective
+title: Jadam Liquid Fertilizer Nutritional Perspective
 created: 2026-04-28
 tags: [jadam, liquid-fertilizer, nutritional-balance, crop-residue-fertilizer]
 date: 2026-04-25

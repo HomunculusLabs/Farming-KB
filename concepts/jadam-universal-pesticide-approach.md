@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam universal pesticide approach Approach
+title: Jadam Universal Pesticide Approach
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

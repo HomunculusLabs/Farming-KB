@@ -1,5 +1,5 @@
 ---
-title: Entities/A O a o dms entity tihkal Tihkal
+title: A O Dms Entity Tihkal
 created: 2026-04-17
 updated: 2026-04-17
 type: entity

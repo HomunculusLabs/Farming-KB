@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis cannabinoid receptor pharmacology Pharmacology (CB1 and CB2)
+title: Cannabis Cannabinoid Receptor Pharmacology
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

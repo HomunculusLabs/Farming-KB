@@ -1,5 +1,5 @@
 ---
-title: Psilocybe psilocybe genus taxonomy and chemistry and Chemistry
+title: Psilocybe Genus Taxonomy and Chemistry
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 topics: mycology, taxonomy, psilocybin, chemistry, classification
 ---

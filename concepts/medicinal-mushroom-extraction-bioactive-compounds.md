@@ -1,5 +1,5 @@
 ---
-title: Medicinal medicinal mushroom extraction bioactive compounds and query-what-are-the-main-bioactive-compounds-in-medicinal-plants
+title: Medicinal Mushroom Extraction Bioactive Compounds
 created: 2026-04-28
 tags: mycology, extraction, medicinal, beta-glucans, triterpenes]
 date: 2026-04-28

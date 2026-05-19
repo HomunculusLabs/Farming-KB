@@ -1,5 +1,5 @@
 ---
-title: Holmgren holmgren community design and intentional communities and Intentional Communities
+title: Holmgren Community Design and Intentional Communities
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

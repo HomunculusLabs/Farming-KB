@@ -1,5 +1,5 @@
 ---
-title: Cage cage fungi and polyhedral structures Structures
+title: Cage Fungi and Polyhedral Structures
 created: 2026-05-09
 tags: [mycology, fungi, cage-fungi, clathrus, anthurus, laternea, ileodictyon, polyhedral, phallales]
 date: 2026-05-09

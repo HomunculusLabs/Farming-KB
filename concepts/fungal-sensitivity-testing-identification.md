@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal sensitivity testing identification and Identification
+title: Fungal Sensitivity Testing Identification
 created: 2026-04-18
 updated: 2026-04-19
 type: concept

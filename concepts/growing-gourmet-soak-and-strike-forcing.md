@@ -1,5 +1,5 @@
 ---
-title: "growing gourmet soak and strike forcing Forcing of Log-Grown Mushrooms"
+title: "Growing Gourmet Soak and Strike Forcing"
 created: 2026-04-26
 tags:
   - mushroom-cultivation

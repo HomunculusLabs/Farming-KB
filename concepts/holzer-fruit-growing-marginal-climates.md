@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer fruit growing marginal climates in Marginal Climates
+title: Holzer Fruit Growing Marginal Climates
 created: 2026-04-14
 updated: 2026-04-14
 type: concept

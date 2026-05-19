@@ -1,5 +1,5 @@
 ---
-title: Community community supported agriculture csa (CSA)
+title: Community Supported Agriculture Csa
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

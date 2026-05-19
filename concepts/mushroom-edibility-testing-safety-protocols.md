@@ -1,5 +1,5 @@
 ---
-title: "Mushroom mushroom edibility testing safety protocols and Safety Protocols"
+title: "Mushroom Edibility Testing Safety Protocols"
 tags: [edibility-testing, mushroom-safety, foraging, toxic-mushrooms, identification, spore-print]
 date: 2026-04-28
 updated: 2026-04-28

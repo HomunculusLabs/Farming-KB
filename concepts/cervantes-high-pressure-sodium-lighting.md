@@ -1,5 +1,5 @@
 ---
-title: High cervantes high pressure sodium lighting Lighting
+title: Cervantes High Pressure Sodium Lighting
 created: 2026-04-28
 tags: [cannabis, lighting, hps, hid, indoor-growing]
 date: 2026-04-28

@@ -102,7 +102,7 @@ Network resilience estimates the extent to which network properties change as no
 ### Key Findings
 - Fungal networks show **greater resilience** than random networks or MST-type networks
 - The resilience approaches that of DT-type networks in some respects
-- In real [[mycelial-networks]], damage is unlikely to be random -- grazing by soil invertebrates occurs preferentially in specific locations where hyphae are more palatable
+- In real [[fungal-mycelial-networks-nutrient-translocation]], damage is unlikely to be random -- grazing by soil invertebrates occurs preferentially in specific locations where hyphae are more palatable
 - A self-organizing spatial network may have considerable advantages in the **cost, consistency, and efficacy of the rewiring process** needed to re-establish a functioning system after damage
 
 ## Spatial Constraints

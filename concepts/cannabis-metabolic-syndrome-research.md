@@ -1,5 +1,5 @@
 ---
-title: Cannabis and cannabis metabolic syndrome research Research
+title: Cannabis Metabolic Syndrome Research
 created: 2026-04-18
 updated: 2026-04-19
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "JADAM jadam microbial solution jms preparation and use (JMS) -- Preparation and Use"
+title: "Jadam Microbial Solution Jms Preparation and Use"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept

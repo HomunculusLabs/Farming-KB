@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam herbal smoker livestock for Livestock and organic-greenhouse-pest-management Control
+title: Jadam Herbal Smoker Livestock
 created: 2026-04-28
 tags: [jadam, herbal-smoker, greenhouse-pest-control, smoke-pesticide, natural-pesticide, tobacco-smoke]
 date: 2026-04-25

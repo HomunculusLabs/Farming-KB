@@ -1,5 +1,5 @@
 ---
-title: "comparison vermicomposting vs hot composting Composting"
+title: "Comparison Vermicomposting vs Hot Composting"
 created: 2026-04-28
 tags: [comparison, composting, vermicomposting, hot-composting, soil-amendment]
 date: 2026-04-25

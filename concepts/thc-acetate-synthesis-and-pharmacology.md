@@ -1,5 +1,5 @@
 ---
-title: THC thc acetate synthesis and pharmacology and Pharmacology
+title: Thc Acetate Synthesis and Pharmacology
 created: 2026-04-13
 updated: 2026-04-15
 type: concept

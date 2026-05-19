@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis cabinet and stealth growing Growing
+title: Cannabis Cabinet and Stealth Growing
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

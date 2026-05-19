@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis fractional distillation cannabinoids
+title: Cannabis Fractional Distillation Cannabinoids
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

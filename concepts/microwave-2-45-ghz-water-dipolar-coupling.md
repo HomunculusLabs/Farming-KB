@@ -1,5 +1,5 @@
 ---
-title: Microwave 2.45 microwave 2 45 ghz water dipolar coupling Coupling Mechanism
+title: Microwave 2 45 Ghz Water Dipolar Coupling
 created: 2026-04-28
 tags: [physics, microwaves, electromagnetic-spectrum, water-chemistry, sterilization, dielectric-heating]
 date: 2026-04-28

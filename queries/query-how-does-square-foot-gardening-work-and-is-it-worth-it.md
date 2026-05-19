@@ -81,7 +81,7 @@ Keep a simple garden journal tracking what was planted in each square and when, 
 
 ### What About Adapting Square Foot Gardening for Permaculture?
 
-Permaculture practitioners often adapt square foot concepts by integrating [[companion-planting-guilds|plant guilds]] into the grid system.
+Permaculture practitioners often adapt square foot concepts by integrating [[companion-planting-guild|plant guilds]] into the grid system.
 Instead of planting single crops per square, polyculture squares can combine root, leaf, and climbing crops that benefit each other.
 The grid layout can serve as a starting framework that gets progressively overlaid with [[polyculture-design-hemenway|polyculture patterns]] over time.
 Dynamic accumulator plants can be tucked into square foot spaces to mine minerals and feed neighboring vegetables.

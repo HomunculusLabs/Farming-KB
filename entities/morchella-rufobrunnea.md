@@ -52,7 +52,7 @@ sources:
 
 ## Distribution and Habitat
 
-- **Geographic range:** Originally described from California; now known across western [[stamets-biological-efficiency-yield]] of 10-30% and total cycle time of 60-90 days. Key challenges include Trichoderma and Mucor contamination, specific microclimate requirements for [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]:** C8 alcohols and ketones responsible for the characteristic morel aroma
+- **Geographic range:** Originally described from California; now known across western [[biological-efficiency]] of 10-30% and total cycle time of 60-90 days. Key challenges include Trichoderma and Mucor contamination, specific microclimate requirements for [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]:** C8 alcohols and ketones responsible for the characteristic morel aroma
 
 ## Culinary and Nutritional Value
 

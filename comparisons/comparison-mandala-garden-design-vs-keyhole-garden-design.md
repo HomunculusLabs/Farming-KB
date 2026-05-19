@@ -1,5 +1,5 @@
 ---
-title: comparison mandala garden design vs keyhole garden design Design vs Keyhole Garden Design
+title: Comparison Mandala Garden Design vs Keyhole Garden Design
 created: 2026-04-28
 date: 2026-04-25
 updated: 2026-04-25
@@ -69,7 +69,7 @@ improved moisture management in dry climates.
 - permaculture-designers-manual-keyhole-garden for detailed building instructions
 - [[mandala-garden-design]] for the original design 
 [[keyhole-garden-design]]
-- [[companion-planting-guilds]]
+- [[companion-planting-guild]]
 
 ## Overview
 

@@ -1,5 +1,5 @@
 ---
-title: "Cervantes - Passive and cervantes passive wick hydroponic systems Systems for Cannabis"
+title: "Cervantes Passive Wick Hydroponic Systems"
 created: 2026-04-26
 tags: [cannabis, hydroponics, wick-systems, passive-irrigation, growing-systems]
 date: 2026-04-25

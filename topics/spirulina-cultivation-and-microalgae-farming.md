@@ -1,5 +1,5 @@
 ---
-title: Spirulina spirulina cultivation and microalgae farming Farming
+title: Spirulina Cultivation and Microalgae Farming
 tags: spirulina, microalgae, aquaculture, protein, homesteading, permaculture
 date: 2026-04-28
 updated: 2026-04-28

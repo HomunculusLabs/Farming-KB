@@ -1,5 +1,5 @@
 ---
-title: Solomon solomon potting mix and seedling soil recipe and Seedling Soil Recipe
+title: Solomon Potting Mix and Seedling Soil Recipe
 created: 2026-04-26
 updated: 2026-04-23
 sources:

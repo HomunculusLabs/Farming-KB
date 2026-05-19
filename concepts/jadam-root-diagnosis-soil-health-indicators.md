@@ -1,5 +1,5 @@
 ---
-title: "JADAM jadam root diagnosis soil health indicators and Soil Health Indicators"
+title: "Jadam Root Diagnosis Soil Health Indicators"
 created: 2026-04-28
 tags:
   - soil-health

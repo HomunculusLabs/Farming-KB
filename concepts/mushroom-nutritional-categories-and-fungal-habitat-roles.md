@@ -1,5 +1,5 @@
 ---
-title: Mushroom mushroom nutritional categories and fungal habitat roles and Fungal Habitat Roles
+title: Mushroom Nutritional Categories and Fungal Habitat Roles
 tags:
   - mycology
   - fungal-ecology

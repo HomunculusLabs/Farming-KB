@@ -1,5 +1,5 @@
 ---
-title: Phenethylamine phenethylamine chain length effects Effects
+title: Phenethylamine Chain Length Effects
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

@@ -29,7 +29,7 @@ G. liquiritiae, G. sapineus, G. aeruginosus, and G. dilepis are also
 present. G. spectabilis has been used historically in Europe and Japan
 as an intoxicating species.
 
-**Inocybe**: Europe is the center of diversity for [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] is the
+**Inocybe**: Europe is the center of diversity for [[psilocybe-semilanceata]] is the
 classic autumn species, fruiting after the first autumn rains. P.
 cyanescens fruits later in autumn and into early winter, sometimes
 persisting through mild winters. Spring fruiting is less common but

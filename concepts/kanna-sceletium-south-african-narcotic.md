@@ -1,5 +1,5 @@
 ---
-title: "Kanna (Sceletium tortuosum): kanna sceletium south african narcotic Narcotic Plant"
+title: "Kanna Sceletium South African Narcotic"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept

@@ -40,7 +40,7 @@ The taxonomy of the Solanum nigrum complex remains contested. Several taxa previ
 
 ## Distribution and Habitat
 
-Solanum nigrum is native to Europe, Asia, and North Africa. It has been introduced and naturalized in the Americas, Australia, and many [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]].
+Solanum nigrum is native to Europe, Asia, and North Africa. It has been introduced and naturalized in the Americas, Australia, and many [[psilocybe-semilanceata]].
 
 The species thrives in disturbed habitats including agricultural fields, waste grounds, roadsides, forest edges, and riverbanks. It grows from sea level to approximately 2000 m elevation in tropical and temperate zones.
 

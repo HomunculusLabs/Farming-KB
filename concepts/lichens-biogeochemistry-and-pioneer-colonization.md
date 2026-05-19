@@ -1,5 +1,5 @@
 ---
-title: "Lichens - lichens biogeochemistry and pioneer colonization Colonization"
+title: "Lichens Biogeochemistry and Pioneer Colonization"
 created: 2026-04-26
 tags:
   - mycology

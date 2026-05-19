@@ -1,5 +1,5 @@
 ---
-title: "Food comparison food forest vs backyard orchard Orchard"
+title: "Comparison Food Forest vs Backyard Orchard"
 created: 2026-04-28
 tags: [comparison, food-production, permaculture, fruit-trees]
 date: 2026-04-25

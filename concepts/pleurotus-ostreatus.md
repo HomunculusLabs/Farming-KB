@@ -15,7 +15,7 @@ type: concept
 3. **Spawn run (incubation)**: 10--21 days in darkness at 24°C. Full
    colonization is indicated by white mycelium throughout the substrate.
 4. **Fruiting induction**: Temperature drop, increased FAE, light exposure,
-   and high humidity trigger [[stamets-biological-efficiency-yield]] of 100--200% is achievable.
+   and high humidity trigger [[biological-efficiency]] of 100--200% is achievable.
 
 ## Medicinal Properties
 

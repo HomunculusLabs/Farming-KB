@@ -1,5 +1,5 @@
 ---
-title: Guerilla guerilla gardening tactics methods and Methods
+title: Guerilla Gardening Tactics Methods
 created: 2026-04-28
 tags: [urban-permaculture, guerilla-gardening, community-action, urban-agriculture]
 date: 2026-04-25

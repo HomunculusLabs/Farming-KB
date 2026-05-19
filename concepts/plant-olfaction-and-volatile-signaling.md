@@ -1,5 +1,5 @@
 ---
-title: Plant plant olfaction and volatile signaling Signaling
+title: Plant Olfaction and Volatile Signaling
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

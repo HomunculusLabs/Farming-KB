@@ -1,5 +1,5 @@
 ---
-title: hamilton geoffhamilton nick organic gardening mulching and weed suppression Suppression
+title: Hamilton Geoffhamilton Nick Organic Gardening Mulching and Weed Suppression
 created: 2026-04-28
 tags: [mulching, weed-control, organic-gardening, soil-moisture, soil-protection]
 date: 2026-04-25

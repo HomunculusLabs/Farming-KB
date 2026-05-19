@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal lichen stress tolerance and poikilohydry Tolerance and
+title: Fungal Lichen Stress Tolerance and Poikilohydry
 Poikilohydry
 created: 2026-04-19
 updated: 2026-04-20

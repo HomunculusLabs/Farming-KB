@@ -1,5 +1,5 @@
 ---
-title: Equatorial equatorial photoperiod early flowering Flowering
+title: Equatorial Photoperiod Early Flowering
 tags: [cannabis, photoperiod, breeding, sativa, flowering-time]
 date: 2026-04-28
 updated: 2026-04-28

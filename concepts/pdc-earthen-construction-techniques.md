@@ -1,5 +1,5 @@
 ---
-title: pdc earthen construction techniques Techniques
+title: Earthen Construction Techniques
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Cannabis for cannabis for bone cancer pain Pain
+title: Cannabis for Bone Cancer Pain
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

@@ -40,7 +40,7 @@ The typical agaricalean life cycle follows this sequence:
 6. **Meiosis** → reduction division producing four haploid nuclei per basidium
 7. **Basidiospore formation** → haploid nuclei become basidiospores
 
-The dikaryotic mycelium stage is the most prolonged and the main assimilative phase of the life cycle. The mushroom (basidiocarp) represents only a small portion of the total fungal mass; the bulk exists as underground [[mycelial-networks]].
+The dikaryotic mycelium stage is the most prolonged and the main assimilative phase of the life cycle. The mushroom (basidiocarp) represents only a small portion of the total fungal mass; the bulk exists as underground [[fungal-mycelial-networks-nutrient-translocation]].
 
 ## Notable Genera and Species
 

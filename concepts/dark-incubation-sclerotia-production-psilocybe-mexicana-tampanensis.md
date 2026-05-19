@@ -1,5 +1,5 @@
 ---
-title: "Dark dark incubation sclerotia production psilocybe mexicana tampanensis Production in Psilocybe mexicana and P. tampanensis"
+title: "Dark Incubation Sclerotia Production Psilocybe Mexicana Tampanensis"
 created: 2026-05-08
 tags: [sclerotia, psilocybe-mexicana, psilocybe-tampanensis, truffles, dark-incubation, grass-seed-substrate, stone-mushrooms, sclerotogenesis]
 date: 2026-05-08

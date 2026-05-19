@@ -1,5 +1,5 @@
 ---
-title: stamets cultivator pasteurization vs sterilization methods Methods
+title: Stamets Cultivator Pasteurization vs Sterilization Methods
 created: 2026-04-28
 tags: [substrate-preparation, pasteurization, sterilization, hygiene, contamination-control]
 date: 2026-04-28

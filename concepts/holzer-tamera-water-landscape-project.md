@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer tamera water landscape project Project
+title: Holzer Tamera Water Landscape Project
 created: 2026-04-26
 tags: [case-study, water-management, permaculture, community, holzer]
 date: 2026-04-25

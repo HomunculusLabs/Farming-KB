@@ -1,5 +1,5 @@
 ---
-title: comparison xeriscaping vs drought gardening Gardening
+title: Comparison Xeriscaping vs Drought Gardening
 created: 2026-04-28
 tags: [water-conservation, landscaping, vegetable-gardening, drought-tolerance]
 date: 2026-04-25

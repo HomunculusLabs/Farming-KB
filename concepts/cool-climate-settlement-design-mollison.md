@@ -1,5 +1,5 @@
 ---
-title: Cool cool climate settlement design mollison and House Design (Mollison)
+title: Cool Climate Settlement Design Mollison
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

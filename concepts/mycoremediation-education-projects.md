@@ -28,7 +28,7 @@ Students inspect the bins weekly by gently peeling back layers to photograph and
 
 ## Soil Erosion Control with Fungi
 
-Fungi contribute to erosion control through their [[mycelial-networks]], which physically bind soil particles together. Students construct small biological erosion and pollution control units in trays by combining ground covers, plants, and fungi in an appropriate substrate. Key experimental variables include the type of ground cover, plant species, and fungal inoculant, while keeping the soil base constant across all units.
+Fungi contribute to erosion control through their [[fungal-mycelial-networks-nutrient-translocation]], which physically bind soil particles together. Students construct small biological erosion and pollution control units in trays by combining ground covers, plants, and fungi in an appropriate substrate. Key experimental variables include the type of ground cover, plant species, and fungal inoculant, while keeping the soil base constant across all units.
 
 A "water run" apparatus simulates site runoff using a long trough or channel angled at a desired slope, filled with myceliated mushroom biomass. Clean water is run through first to establish baseline flow rates, since water filtration effectiveness depends on retention and contact time. The measured volume of water is poured into the upper end and collected at the base. Students time the runoff, measure the collected volume (which should closely match the input volume), and measure silt levels by dry weight after each run.
 

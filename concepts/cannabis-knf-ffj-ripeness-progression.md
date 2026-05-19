@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis knf ffj ripeness progression Ripeness Progression Through Flowering
+title: Cannabis Knf Ffj Ripeness Progression
 created: 2026-04-28
 tags: [knf, cannabis, fermentation, flowering, organic-cultivation]
 date: 2026-04-28

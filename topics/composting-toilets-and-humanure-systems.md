@@ -1,5 +1,5 @@
 ---
-title: Composting composting toilets and humanure systems Systems
+title: Composting Toilets and Humanure Systems
 subtitle: Waterless sanitation systems that compost human excreta into stable
   soil amendments while conserving water and closing nutrient cycles.
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Espalier Fruit Tree Training and Design"
-subtitle: "The art and science of hamilton-pruning-and-training-fruit-trees trees into two-dimensional forms for space efficiency, yield, and beauty"
+subtitle: "The art and science of training trees into two-dimensional forms for space efficiency, yield, and aesthetics"
 tags: [espalier, fruit-trees, pruning, orchard-design, ornamental, permaculture, space-efficiency]
 date: 2026-05-08
 updated: 2026-05-08

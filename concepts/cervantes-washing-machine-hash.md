@@ -1,5 +1,5 @@
 ---
-title: cervantes washing machine hash Hash Production
+title: Cervantes Washing Machine Hash
 type: concept
 created: 2026-04-25
 type: concept

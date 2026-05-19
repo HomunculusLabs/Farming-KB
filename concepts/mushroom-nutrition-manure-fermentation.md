@@ -50,7 +50,7 @@ As bacterial metabolism generates heat, thermophilic organisms replace mesophili
 
 ## Modern Composting Methods
 
-Contemporary commercial [[stamets-biological-efficiency-yield]] than traditional outdoor methods.
+Contemporary commercial [[biological-efficiency]] than traditional outdoor methods.
 
 ## Alternative Substrates
 

@@ -1,5 +1,5 @@
 ---
-title: Blesching blesching cannabis gaba glutamate endocannabinoid system Glutamate endocannabinoid-system
+title: Blesching Cannabis Gaba Glutamate Endocannabinoid System
 created: 2026-04-26
 tags: [gaba, glutamate, neurotransmitters, endocannabinoid-system, neurochemistry]
 date: 2026-04-25

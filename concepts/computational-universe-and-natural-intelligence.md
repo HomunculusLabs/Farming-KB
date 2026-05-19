@@ -1,5 +1,5 @@
 ---
-title: Computational computational universe and natural intelligence Intelligence
+title: Computational Universe and Natural Intelligence
 created: 2026-04-17
 updated: 2026-04-18
 type: concept

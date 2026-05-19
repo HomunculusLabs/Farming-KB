@@ -27,7 +27,7 @@ updates in 1995, established the modern taxonomic framework that was used in
 the 1998 distribution study. The neurotropic species of Psilocybe are
 organized into sections based on morphological characteristics, particularly
 the presence or absence of the characteristic [[geographic-distribution-of-psilocybe-species]] species reveals a striking pattern: the
-majority of species are found in or near the [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], the liberty cap, is one of the
+majority of species are found in or near the [[psilocybe-semilanceata]], the liberty cap, is one of the
 most widely distributed temperate species, found across Europe, North
 America, and parts of the [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] grows at high elevations
 in the mountains of Mexico, reaching altitudes of 4000 meters.

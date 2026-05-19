@@ -1,5 +1,5 @@
 ---
-title: "comparison rockwool vs coco coir Coir"
+title: "Comparison Rockwool vs Coco Coir"
 created: 2026-04-28
 tags: [comparison, growing-mediums, cannabis, hydroponics]
 date: 2026-04-25

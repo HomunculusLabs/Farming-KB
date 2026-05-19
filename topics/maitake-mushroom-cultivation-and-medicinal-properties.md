@@ -1,6 +1,6 @@
 ---
 title: "Maitake Mushroom calendula-cultivation-and-medicinal-uses Properties"
-subtitle: "A comprehensive guide to growing and using maitake-grifola-frondosa-comprehensive-profile, the prized hen of the woods mushroom"
+subtitle: "A comprehensive guide to growing and using maitake, the prized hen of the woods mushroom"
 tags: [maitake, grifola-frondosa, mushroom-cultivation, medicinal-mushrooms, beta-glucan, immunology]
 date: 2026-05-08
 updated: 2026-05-08

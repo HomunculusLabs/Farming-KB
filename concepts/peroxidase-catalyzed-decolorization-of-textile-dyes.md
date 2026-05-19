@@ -1,5 +1,5 @@
 ---
-title: Peroxidase-Catalyzed peroxidase catalyzed decolorization of textile dyes Dyes
+title: Peroxidase Catalyzed Decolorization of Textile Dyes
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

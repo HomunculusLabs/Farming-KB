@@ -48,7 +48,7 @@ A typical mushroom trip lasts 4-6 hours, somewhat shorter than LSD. The onset is
 
 ## Species Potency Comparison
 
-Psilocybin content varies enormously between species. Psilocybe cubensis, the most commonly cultivated species, typically contains 0.5-1.0% psilocybin by dry weight. More potent species include [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (liberty caps, 0.5-2.5%). Wood-loving species like P. azurescens and P. cyanescens tend to be significantly more potent than dung-loving species like P. cubensis.
+Psilocybin content varies enormously between species. Psilocybe cubensis, the most commonly cultivated species, typically contains 0.5-1.0% psilocybin by dry weight. More potent species include [[psilocybe-semilanceata]] (liberty caps, 0.5-2.5%). Wood-loving species like P. azurescens and P. cyanescens tend to be significantly more potent than dung-loving species like P. cubensis.
 
 ## Cultivation and Identification
 

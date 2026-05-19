@@ -1,5 +1,5 @@
 ---
-title: Psilocybe psilocybe semilanceata transcontinental distribution patterns guzman-global-distribution-patterns-neurotropic-fungi
+title: Psilocybe Semilanceata Transcontinental Distribution Patterns
 created: 2026-04-28
 tags:
   - mycology

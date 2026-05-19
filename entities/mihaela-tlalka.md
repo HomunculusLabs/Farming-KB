@@ -7,7 +7,7 @@ tags: [person, mycology, nutrient-transport, pulsatile-transport, basidiomycete]
 
 ## Description
 
-Mihaela Tlalka is a researcher known for her contributions to understanding nutrient translocation dynamics in filamentous fungi, particularly the discovery and characterization of pulsatile amino acid transport in [[mycelial-networks]] of Phanerochaete velutina.
+Mihaela Tlalka is a researcher known for her contributions to understanding nutrient translocation dynamics in filamentous fungi, particularly the discovery and characterization of pulsatile amino acid transport in [[fungal-mycelial-networks-nutrient-translocation]] of Phanerochaete velutina.
 
 ## Classification
 
@@ -96,5 +96,5 @@ Contemporary cultural relevance continues in traditional, recreational, and rese
 - [[fungal-mycelial-networks-nutrient-translocation]]
 - [[mushroom-cultivation]]
 - [[mycelial-network-structure]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[phanerochaete-velutina]]

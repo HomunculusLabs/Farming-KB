@@ -86,7 +86,7 @@ consistent, committed maintenance over generations.
 - **Long-Term Thinking**: The 900-year continuity at Taos Pueblo embodies the
   permaculture principle of designing for future generations, relevant to
   establishing perennial cultivation systems including long-term mushroom
-  production beds and [[mycelial-networks]].
+  production beds and [[fungal-mycelial-networks-nutrient-translocation]].
 
 ## Source References
 

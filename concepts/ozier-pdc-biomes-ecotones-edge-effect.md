@@ -1,5 +1,5 @@
 ---
-title: Ozier ozier pdc biomes ecotones edge effect Ecotones bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design
+title: Ozier Pdc Biomes Ecotones Edge Effect
 source: william-ozier-williams-pdc_-a-permaculture-design-cours.md
 author: William WR Ozier
 topics: biomes, ecotones, edge-effect, climate, permaculture, ecology, biodiversity

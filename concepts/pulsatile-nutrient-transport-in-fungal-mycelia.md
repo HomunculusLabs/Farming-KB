@@ -6,7 +6,7 @@ type: concept
 
 # Pulsatile Nutrient Transport in Fungal Mycelia
 
-Pulsatile nutrient transport refers to the rhythmic, oscillatory movement of metabolites and resources through fungal [[mycelial-networks]]. Unlike steady-state diffusion, this transport mechanism operates through coordinated, wave-like pulses that enable efficient distribution of nitrogen, carbon, and other essential nutrients across extensive colony structures. Understanding this phenomenon is critical for mycology, soil ecology, and agricultural applications where fungal networks mediate nutrient cycling and plant-fungal symbioses.
+Pulsatile nutrient transport refers to the rhythmic, oscillatory movement of metabolites and resources through fungal [[fungal-mycelial-networks-nutrient-translocation]]. Unlike steady-state diffusion, this transport mechanism operates through coordinated, wave-like pulses that enable efficient distribution of nitrogen, carbon, and other essential nutrients across extensive colony structures. Understanding this phenomenon is critical for mycology, soil ecology, and agricultural applications where fungal networks mediate nutrient cycling and plant-fungal symbioses.
 
 ## Biological Significance in Agricultural Contexts
 

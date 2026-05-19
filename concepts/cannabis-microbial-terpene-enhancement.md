@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis microbial terpene enhancement Enhancement
+title: Cannabis Microbial Terpene Enhancement
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

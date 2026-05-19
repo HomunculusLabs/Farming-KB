@@ -29,7 +29,7 @@ assimilation mechanisms.
 The rapid colonization of the substrate by treated mycelium has
 practical implications for cultivation efficiency, as faster
 colonization reduces the window of vulnerability to competitor
-organisms and contamination. In commercial [[stamets-biological-efficiency-yield]].
+organisms and contamination. In commercial [[biological-efficiency]].
 
 ## Reduction of Abnormalities
 

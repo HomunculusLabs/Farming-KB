@@ -44,7 +44,7 @@ Originally described as *Agaricus adiposus* by Elias Fries in 1821, transferred 
 | Humidity | 85–95% relative humidity |
 | Light | Indirect light, 500–1000 lux |
 | CO₂ | < 1000 ppm for normal fruiting |
-| Yield | 150–300 g fresh per kg substrate ([[stamets-biological-efficiency-yield]] 15–30%) |
+| Yield | 150–300 g fresh per kg substrate ([[biological-efficiency]] 15–30%) |
 | Harvest cycle | 2–3 flushes over 4–6 weeks |
 
 ## Overview

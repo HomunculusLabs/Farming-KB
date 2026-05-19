@@ -1,5 +1,5 @@
 ---
-title: emcdda-psilocybin-mushroom-dose-and-effects psilocybin image identification guide Guide
+title: Psilocybin Image Identification Guide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

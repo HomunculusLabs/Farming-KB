@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka european agriculture observations Observations
+title: Fukuoka European Agriculture Observations
 created: 2026-04-18
 updated: 2026-04-20
 type: concept

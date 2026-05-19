@@ -1,5 +1,5 @@
 ---
-title: Archaeology of Ecstasy — archaeology of ecstasy prehistoric mushroom use Use Debate
+title: Archaeology of Ecstasy Prehistoric Mushroom Use
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

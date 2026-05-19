@@ -1,5 +1,5 @@
 ---
-title: comparison bokashi vs effective microorganisms Microorganisms (EM)
+title: Comparison Bokashi vs Effective Microorganisms
 tags:
   - composting
   - fermentation

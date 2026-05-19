@@ -1,5 +1,5 @@
 ---
-title: Plant plant chemotropism and root navigation Navigation
+title: Plant Chemotropism and Root Navigation
 tags:
   - plant-biology
   - root-systems

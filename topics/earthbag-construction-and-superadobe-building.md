@@ -1,5 +1,5 @@
 ---
-title: "Earthbag earthbag construction and superadobe building Building"
+title: "Earthbag Construction and Superadobe Building"
 subtitle: "Low-cost, disaster-resistant building with stacked soil-filled bags"
 tags: [natural-building, earthbag, superadobe, permaculture, sustainable-housing]
 date: 2026-05-08

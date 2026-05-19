@@ -1,5 +1,5 @@
 ---
-title: Mescaline mescaline biosynthesis and precursor enhancement Enhancement
+title: Mescaline Biosynthesis and Precursor Enhancement
 created: 2026-04-23
 updated: 2026-04-23
 type: concept

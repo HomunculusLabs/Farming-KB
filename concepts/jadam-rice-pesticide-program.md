@@ -1,5 +1,5 @@
 ---
-title: Comprehensive jadam rice pesticide program Program (JADAM Recipe #3)
+title: Jadam Rice Pesticide Program
 created: 2026-04-20
 updated: 2026-04-18
 type: concept

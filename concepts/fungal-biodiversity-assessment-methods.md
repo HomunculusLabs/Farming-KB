@@ -10,7 +10,7 @@ Assessing [[fungal-biodiversity]] presents unique challenges that distinguish my
 
 ## The Fungal Unit Problem
 
-The most fundamental challenge in fungal biodiversity is defining **what constitutes an individual**. Unlike animals and plants, fungi do not have a determinate body plan. Their [[mycelial-networks]] can grow indefinitely, fragment, and fuse in complex ways.
+The most fundamental challenge in fungal biodiversity is defining **what constitutes an individual**. Unlike animals and plants, fungi do not have a determinate body plan. Their [[fungal-mycelial-networks-nutrient-translocation]] can grow indefinitely, fragment, and fuse in complex ways.
 
 This ambiguity creates the **fungal unit problem**: researchers must decide what counts as one organism before they can count organisms at all.
 

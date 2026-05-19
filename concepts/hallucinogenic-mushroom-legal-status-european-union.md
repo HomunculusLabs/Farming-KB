@@ -23,7 +23,7 @@ effective mechanisms to control supply.
 
 Between 2001 and 2006, six EU Member States tightened their legislation on
 hallucinogenic mushrooms, coinciding with concerns about increasing
-prevalence of use in these countries. The [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], Psilocybe cubensis or other fungi/spores
+prevalence of use in these countries. The [[psilocybe-semilanceata]], Psilocybe cubensis or other fungi/spores
 containing psilocin or psilocybin, including grown, dried or processed in
 any other manner' as a controlled substance.
 

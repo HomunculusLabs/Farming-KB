@@ -1,5 +1,5 @@
 ---
-title: Cervantes Medical cervantes cannabis contamination prevention Prevention
+title: Cervantes Cannabis Contamination Prevention
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

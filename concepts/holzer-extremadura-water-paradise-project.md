@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer extremadura water paradise project - Sixteen Lakes in Spain
+title: Holzer Extremadura Water Paradise Project
 created: 2026-04-26
 tags: [case-study, water-management, pond-construction, permaculture, holzer]
 date: 2026-04-25

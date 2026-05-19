@@ -1,5 +1,5 @@
 ---
-title: "comparison french marigold vs mustard biofumigation Biofumigation vs Mustard Biofumigation"
+title: "Comparison French Marigold vs Mustard Biofumigation"
 tags:
   - biofumigation
   - marigold

@@ -50,7 +50,7 @@ nutty flavor, firm [[agrocybe-aegerita-pioppino-medicinal-profile]] sensu auct. 
 ## Distribution and Habitat
 
 Cyclocybe cylindracea is broadly distributed across temperate and subtropical
-regions of Europe, Asia, and [[stamets-biological-efficiency-yield]] typically 60–100% on supplemented
+regions of Europe, Asia, and [[biological-efficiency]] typically 60–100% on supplemented
   sawdust.
 - **Yields:** 0.8–1.2 kg fresh per kg dry substrate across 3–4 flushes.
 

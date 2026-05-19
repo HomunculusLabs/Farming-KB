@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis screen of green scrog guide (SCROG) Technique
+title: Cannabis Screen of Green Scrog Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

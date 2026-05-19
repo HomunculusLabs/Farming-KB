@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka mandarin orange citrus and Citrus Orchard
+title: Fukuoka Mandarin Orange Citrus
 created: 2026-04-15
 updated: 2026-04-15
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Paris paris mushroom caves champignonieres (Champignonnières)
+title: Paris Mushroom Caves Champignonieres
 slug: paris-mushroom-caves-champignonieres
 source: Benjamin duggar-mushroom-growing-history-and-methods (1915)
 tags: [paris-caves, champignonniere, mushroom-cultivation, underground, france, limestone-quarries]

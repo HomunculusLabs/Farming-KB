@@ -34,7 +34,7 @@ coordinated manner. As the colony grows out from a resource base,
 [[fungal-vacuolar-system-nutrient-translocation]] in fungi are
 not yet fully known but are thought to include mass flow, diffusion,
 generalized cytoplasmic streaming, and specific vesicular transport. The
-highly dynamic pleiomorphic vacuolar system present [[mycelial-networks]].
+highly dynamic pleiomorphic vacuolar system present [[fungal-mycelial-networks-nutrient-translocation]].
 Using the non-metabolized amino acid analogue a-amino-isobutyrate
 
 ## Overview

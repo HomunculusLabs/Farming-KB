@@ -44,7 +44,7 @@ A piece of this vine transplanted would continue to ramify, and in time show the
 
 Palmer used this observation to disprove the popular belief that toadstools spring up overnight in unforeseen places. He demonstrated that the entire earth beneath one's feet is alive with fungal vegetation to a great depth.
 
-The [[mycelial-networks]] (spawn) are just as distinct from one another as visible plants like hop-vines and woodbine, the ivy and the virgin's bower that twine their tendrils above.
+The [[fungal-mycelial-networks-nutrient-translocation]] (spawn) are just as distinct from one another as visible plants like hop-vines and woodbine, the ivy and the virgin's bower that twine their tendrils above.
 
 ## Growth Patterns and Seasonality
 

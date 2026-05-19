@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam natural nitrogen fertilizer jadam-liquid-fertilizer-nutritional-perspective
+title: Jadam Natural Nitrogen Fertilizer
 created: 2026-04-14
 updated: 2026-04-14
 type: concept

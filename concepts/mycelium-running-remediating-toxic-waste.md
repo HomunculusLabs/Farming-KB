@@ -1,5 +1,5 @@
 ---
-title: "mycelium running remediating toxic waste Waste with Fungi"
+title: "Mycelium Running Remediating Toxic Waste"
 created: 2026-04-26
 updated: "2025-04-23"
 sources: ["raw/papers/mycelium-running-stamets.md"]

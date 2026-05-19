@@ -1,5 +1,5 @@
 ---
-title: Soil soil chytridiomycete isolation baiting techniques — Baiting Techniques and Bait Types
+title: Soil Chytridiomycete Isolation Baiting Techniques
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

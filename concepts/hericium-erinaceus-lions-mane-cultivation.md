@@ -1,5 +1,5 @@
 ---
-title: Hericium hericium erinaceus lions mane cultivation Mane Cultivation
+title: Hericium Erinaceus Lions Mane Cultivation
 tags: [hericium-erinaceus, lions-mane, mushroom-cultivation, medicinal-mushrooms, sawdust-cultivation, nerve-growth-factor]
 date: 2026-04-28
 updated: 2026-04-28

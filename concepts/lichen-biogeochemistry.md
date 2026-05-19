@@ -11,7 +11,7 @@ tags:
   - symbiosis
   - pioneer-species
 sources:
-  - "geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment"
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 synopsis: >-
   Lichens are symbiotic associations between fungi (mycobionts) and
   photosynthetic partners (photobionts) that pioneer rock surfaces

@@ -1,5 +1,5 @@
 ---
-title: fukuoka-natural-farming fukuoka natural farming weed and insect philosophy Philosophy
+title: Fukuoka Natural Farming Weed and Insect Philosophy
 created: 2026-04-26
 updated: "2026-04-24"
 sources:

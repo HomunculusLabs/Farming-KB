@@ -32,7 +32,7 @@ The thallus forms rosette-shaped colonies up to 5 centimeters in diameter, consi
 
 The upper surface is gray to blue-gray, often with a white pruina near the lobe tips. The lower surface is characteristically dark brown to black with sparse, simple to branched rhizines.
 
-The pruina consists of a crystalline deposit of [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate regions. It occurs throughout Europe, North America, and Asia, with additional records from parts of South America and Africa.
+The pruina consists of a crystalline deposit of [[psilocybe-semilanceata]] in temperate regions. It occurs throughout Europe, North America, and Asia, with additional records from parts of South America and Africa.
 
 The species is highly successful in urban and suburban environments, where it colonizes the bark of street trees, garden trees, and ornamental plantings. It is particularly common on nutrient-rich bark, such as that of Acer and Tilia species.
 

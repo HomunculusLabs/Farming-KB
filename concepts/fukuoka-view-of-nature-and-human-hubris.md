@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka view of nature and human hubris and Human Hubris
+title: Fukuoka View of Nature and Human Hubris
 created: 2026-04-14
 updated: 2026-04-15
 type: concept

@@ -30,7 +30,7 @@ pine and other Pinaceae hosts in **temperate forest** and **taiga** ecosystems.
 *[[thelephora-terrestris]]* similarly colonizes young seedlings in regenerating stands.
 The concept of **source-sink strength** governs carbon allocation between host
 trees and their mycorrhizal partners: vigorous hosts act as strong carbon sources,
-fueling extensive extraradical [[mycelial-networks]] that forage for phosphorus and
+fueling extensive extraradical [[fungal-mycelial-networks-nutrient-translocation]] that forage for phosphorus and
 nitrogen. These networks contribute significantly to **soil carbon** pools through
 continuous hyphal turnover. **Truffles** (hypogeous ECM fruiting bodies) represent
 a specialized reproductive strategy within late-successional ECM communities,

@@ -1,5 +1,5 @@
 ---
-title: Conventional vs savory conventional vs holistic range management Management
+title: Savory Conventional vs Holistic Range Management
 created: 2026-04-28
 tags:
   - range-management

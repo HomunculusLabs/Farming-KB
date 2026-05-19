@@ -1,5 +1,5 @@
 ---
-title: fukuoka illusions of scientific farming Farming
+title: Fukuoka Illusions of Scientific Farming
 created: 2026-04-28
 tags:
   - farming

@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam plastic mulch problems Problems and Alternatives
+title: Jadam Plastic Mulch Problems
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

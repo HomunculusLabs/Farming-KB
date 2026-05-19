@@ -1,5 +1,5 @@
 ---
-title: "Koji vs comparison koji vs scoby fermentation culture Culture"
+title: "Comparison Koji vs Scoby Fermentation Culture"
 created: 2026-04-28
 tags: [fermentation, koji, scoby, kombucha, cultured-foods, comparison]
 date: 2026-04-28

@@ -1,5 +1,5 @@
 ---
-title: "Query query difference between shiitake and oyster mushrooms And Oyster Mushrooms"
+title: "Query Difference Between Shiitake and Oyster Mushrooms"
 created: 2026-05-02
 updated: 2026-05-02
 type: query

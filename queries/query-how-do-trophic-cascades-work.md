@@ -1,5 +1,5 @@
 ---
-title: How Do query how do trophic cascades work Work and Why Do They Matter?
+title: Query How Do Trophic Cascades Work
 tags: trophic-cascade, ecology, predator-prey, food-web, keystone-species, ecosystem-dynamics, conservation, top-down-regulation
 date: 2026-04-28
 updated: 2026-04-28

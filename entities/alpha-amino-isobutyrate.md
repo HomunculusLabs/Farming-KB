@@ -96,5 +96,5 @@ Contemporary cultural relevance continues in traditional, recreational, and rese
 - [[fungal-mycelial-networks-nutrient-translocation]]
 - [[isotopic-tracers-mycorrhizal-research]]
 - [[mushroom-cultivation]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[phanerochaete-velutina]]

@@ -4,7 +4,7 @@ Mushroom strain improvement combines classical genetics with modern molecular
 techniques to develop cultivars with enhanced yield, disease resistance,
 environmental tolerance, and fruiting quality. Unlike green plants, mushrooms
 present unique breeding challenges due to their complex mating systems, extended
-[[stamets-biological-efficiency-yield]],
+[[biological-efficiency]],
 disease resistance (Trichoderma, [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], CO₂ tolerance), [[eclss-environmental-control-life-support]] needs).
 
 ## Classical Breeding Approaches

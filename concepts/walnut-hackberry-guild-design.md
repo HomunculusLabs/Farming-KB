@@ -1,5 +1,5 @@
 ---
-title: Walnut walnut hackberry guild design Design
+title: Walnut Hackberry Guild Design
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

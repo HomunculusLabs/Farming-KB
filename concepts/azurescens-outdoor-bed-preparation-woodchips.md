@@ -5,8 +5,8 @@ updated: 2026-04-24
 type: concept
 tags: [cultivation, mycology, outdoor]
 sources:
-  - growing-psilocybe-azurescens
-  - growing-the-woodlovers-outdoors
+  - "raw/papers/growing-psilocybe-azurescens.md"
+  - "raw/papers/growing-the-woodlovers-outdoors.md"
 ---
 # Azurescens Outdoor Bed Preparation with Woodchips
 

@@ -1,5 +1,5 @@
 ---
-title: "Datura metel: datura metel old world ethnobotany Ethnobotany and shroom-cultural-history-hippie-revolution-and-counterculture"
+title: "Datura Metel Old World Ethnobotany"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept

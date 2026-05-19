@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's fukuoka wholistic nature perception Perception
+title: Fukuoka Wholistic Nature Perception
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

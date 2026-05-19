@@ -1,5 +1,5 @@
 ---
-title: Cannabis, Apoptosis, and blesching cannabis apoptosis and cancer cell death Death
+title: Blesching Cannabis Apoptosis and Cancer Cell Death
 created: 2026-04-28
 tags: [cannabis, apoptosis, cancer, cannabinoids, cell-death]
 date: 2026-04-28

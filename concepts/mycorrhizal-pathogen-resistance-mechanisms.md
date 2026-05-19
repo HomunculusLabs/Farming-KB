@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal mycorrhizal pathogen resistance mechanisms Mechanisms
+title: Mycorrhizal Pathogen Resistance Mechanisms
 created: 2026-04-29
 updated: 2026-04-29
 type: concept

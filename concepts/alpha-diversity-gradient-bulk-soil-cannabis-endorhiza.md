@@ -1,5 +1,5 @@
 ---
-title: Alpha alpha diversity gradient bulk soil cannabis endorhiza from Bulk Soil to edaphic-factors-cannabis-endorhiza-microbiome-assembly
+title: Alpha Diversity Gradient Bulk Soil Cannabis Endorhiza
 tags:
   - cannabis
   - microbiome

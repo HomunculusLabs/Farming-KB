@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremed
 
 # Pleurotus pulmonarius
 
-**Pleurotus pulmonarius**, commonly known as the phoenix mushroom, Indian oyster, or lung oyster, is a close relative of *P. ostreatus* distinguished by its preference for warmer temperatures, faster colonization speed, and superior performance on [[stamets-biological-efficiency-yield]] on straw substrates ranges from 60–120%.
+**Pleurotus pulmonarius**, commonly known as the phoenix mushroom, Indian oyster, or lung oyster, is a close relative of *P. ostreatus* distinguished by its preference for warmer temperatures, faster colonization speed, and superior performance on [[biological-efficiency]] on straw substrates ranges from 60–120%.
 * **Spent substrate utilization:** After mushroom harvest, the spent substrate is partially decomposed, enriched with fungal enzymes, and serves as excellent organic fertilizer, animal feed supplement, or vermicomposting feedstock.
 * **Biological pest control:** *Pleurotus* species produce nematocidal compounds that suppress plant-parasitic nematodes, making them valuable in [[fungal-manganese-peroxidase-remediation]] (MnP, EC 1.11.1.13):** An extracellular heme peroxidase that oxidizes Mn²⁺ to Mn³⁺, which then diffuses into lignin polymers to initiate oxidative degradation. MnP requires [[singh-versatile-peroxidase-vp-multifunctional]] (VP):** A hybrid enzyme combining catalytic properties of both MnP and lignin peroxidase, capable of oxidizing phenolic and non-phenolic compounds, Mn²⁺, and various aromatic dyes.
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Cord-forming saprotrophic basidiomycetes build extensive [[mycelial-networks]] that function as both foraging structures and transport systems. These networks are not static—they evolve dynamically through three distinct developmental phases and must maintain function despite damage from grazing invertebrates, physical disruption, and environmental stress. Research on *[[phanerochaete-velutina]]* has revealed that fungal networks balance efficient transport against resilience, using architectural strategies that differ markedly from random or engineered networks.
+Cord-forming saprotrophic basidiomycetes build extensive [[fungal-mycelial-networks-nutrient-translocation]] that function as both foraging structures and transport systems. These networks are not static—they evolve dynamically through three distinct developmental phases and must maintain function despite damage from grazing invertebrates, physical disruption, and environmental stress. Research on *[[phanerochaete-velutina]]* has revealed that fungal networks balance efficient transport against resilience, using architectural strategies that differ markedly from random or engineered networks.
 
 ## Three-Phase Network Development
 

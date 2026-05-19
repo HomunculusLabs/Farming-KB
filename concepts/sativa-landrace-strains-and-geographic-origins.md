@@ -1,5 +1,5 @@
 ---
-title: Sativa sativa landrace strains and geographic origins and Geographic Origins
+title: Sativa Landrace Strains and Geographic Origins
 created: 2026-04-28
 tags: [cannabis, landrace, sativa, genetics, strain-history]
 date: 2026-04-28

@@ -1,5 +1,5 @@
 ---
-title: symbiotic fungi ectomycorrhizal networks overview Overview
+title: Symbiotic Fungi Ectomycorrhizal Networks Overview
 created: 2026-04-24
 updated: 2026-04-24
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Biogeography of biogeography austral hemisphere fungi Fungi
+title: Biogeography Austral Hemisphere Fungi
 created: 2026-04-28
 tags:
   - biogeography

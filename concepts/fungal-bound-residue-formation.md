@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal bound residue formation Formation in Soil Bioremediation
+title: Fungal Bound Residue Formation
 created: 2026-04-15
 updated: 2026-04-15
 type: concept

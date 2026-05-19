@@ -1,5 +1,5 @@
 ---
-title: "Golden Guide: golden guide datura and nightshade deliriants Deliriants"
+title: "Golden Guide Datura and Nightshade Deliriants"
 created: 2026-04-28
 tags: [hallucinogenic-plants, datura, nightshade, solanaceae, deliriants,
   tropane-alkaloids, scopolamine, atropine, belladonna, henbane, mandrake,

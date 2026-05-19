@@ -1,5 +1,5 @@
 ---
-title: Eleusinian eleusinian profanes scandal of 415 bce of 415 BCE
+title: Eleusinian Profanes Scandal of 415 Bce
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

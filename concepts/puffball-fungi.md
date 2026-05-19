@@ -24,7 +24,7 @@ single opening or by disintegration of the [[symbiotic-fungi-piriformospora-indi
 - [[endophytic-fungi]]-and-plant-health
 
 - [[fungal-spore-biology]](fungal-spore-biology.md)
-- [[mycelial-networks]](mycelium-network.md)
+- [[fungal-mycelial-networks-nutrient-translocation]](mycelium-network.md)
 
 ## References
 

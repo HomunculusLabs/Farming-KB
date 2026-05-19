@@ -1,5 +1,5 @@
 ---
-title: Combined combined biological remediation approaches Approaches
+title: Combined Biological Remediation Approaches
 created: 2026-04-14
 updated: 2026-04-14
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Green green park incident 1799 psilocybin 1799 First Psilocybin Intoxication
+title: Green Park Incident 1799 Psilocybin
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

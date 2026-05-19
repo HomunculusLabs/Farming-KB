@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal cosubstrate enhanced bioremediation Bioremediation
+title: Fungal Cosubstrate Enhanced Bioremediation
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

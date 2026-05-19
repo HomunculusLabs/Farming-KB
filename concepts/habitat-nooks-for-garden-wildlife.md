@@ -1,5 +1,5 @@
 ---
-title: Habitat habitat nooks for garden wildlife Wildlife
+title: Habitat Nooks for Garden Wildlife
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

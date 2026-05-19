@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's fukuoka road critique of modern science Science and Reductionism
+title: Fukuoka Road Critique of Modern Science
 created: 2026-04-24
 updated: 2026-04-25
 type: concept

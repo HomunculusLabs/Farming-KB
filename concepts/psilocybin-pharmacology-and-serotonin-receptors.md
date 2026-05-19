@@ -1,5 +1,5 @@
 ---
-title: Psilocybin psilocybin pharmacology and serotonin receptors Receptors
+title: Psilocybin Pharmacology and Serotonin Receptors
 source: carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper)
 mined: 2026-05-08
 tags: [pharmacology, psilocybin, serotonin, tryptamines, neuroscience, mycology]

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka dry field rice compact plant theory Rice and Compact Plant Theory
+title: Fukuoka Dry Field Rice Compact Plant Theory
 tags: [fukuoka, rice, no-till, dry-farming, plant-physiology, grain-production]
 date: 2026-04-28
 updated: 2026-04-28

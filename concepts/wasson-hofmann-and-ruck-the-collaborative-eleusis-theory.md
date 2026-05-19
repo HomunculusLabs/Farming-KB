@@ -1,5 +1,5 @@
 ---
-title: Wasson Hofmann and Ruck the wasson hofmann and ruck the collaborative eleusis theory Theory
+title: Wasson Hofmann and Ruck the Collaborative Eleusis Theory
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

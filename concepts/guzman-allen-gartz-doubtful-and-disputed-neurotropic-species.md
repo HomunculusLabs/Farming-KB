@@ -1,5 +1,5 @@
 ---
-title: Doubtful and guzman allen gartz doubtful and disputed neurotropic species Species
+title: Guzman Allen Gartz Doubtful and Disputed Neurotropic Species
 created: 2026-04-28
 tags:
   - taxonomy

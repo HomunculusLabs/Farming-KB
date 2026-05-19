@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal succession woody debris ecology Debris Ecology
+title: Fungal Succession Woody Debris Ecology
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

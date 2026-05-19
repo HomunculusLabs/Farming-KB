@@ -1,5 +1,5 @@
 ---
-title: "chamovitz chamovitz phytochrome mobile signal leaf to flowering Signal from Leaf to Flowering"
+title: "Chamovitz Phytochrome Mobile Signal Leaf to Flowering"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

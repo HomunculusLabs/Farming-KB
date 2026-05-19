@@ -1,5 +1,5 @@
 ---
-title: Arbuscular arbuscular mycorrhizal colonization patterns Patterns
+title: Arbuscular Mycorrhizal Colonization Patterns
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

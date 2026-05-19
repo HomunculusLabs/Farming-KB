@@ -64,7 +64,7 @@ Understanding translocation is important for mushroom cultivation because it det
 ## See Also
 
 - [[fungal-hyphae]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[mycorrhizal-fungi]]
 - [[mycorrhizal-networks]]
 - [[saprotrophic-fungi]]

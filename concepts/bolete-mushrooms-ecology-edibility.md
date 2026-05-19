@@ -1,5 +1,5 @@
 ---
-title: Bolete bolete mushrooms ecology edibility and Edibility
+title: Bolete Mushrooms Ecology Edibility
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

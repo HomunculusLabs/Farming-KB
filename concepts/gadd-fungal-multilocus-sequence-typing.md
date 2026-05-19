@@ -129,7 +129,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]]
+- [[fungal-symbiosis]]
 - [[gadd-fungal-biodegradation-bioremediation]]
 - [[psilocybin]]
 - [[fungi-multilocus-sequence-typing-molecular-epidemiology]]

@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic Versus emcdda hallucinogenic vs psychedelic terminology debate Debate
+title: Emcdda Hallucinogenic vs Psychedelic Terminology Debate
 created: 2026-04-28
 tags:
   - terminology

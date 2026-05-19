@@ -1,5 +1,5 @@
 ---
-title: Panaeolus panaeolus foenisecii taxonomy debate Debate
+title: Panaeolus Foenisecii Taxonomy Debate
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

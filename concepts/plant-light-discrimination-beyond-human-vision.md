@@ -1,5 +1,5 @@
 ---
-title: Plant plant light discrimination beyond human vision Beyond Human Vision
+title: Plant Light Discrimination Beyond Human Vision
 tags: [botany, photoreception, ultraviolet, far-red, plant-vision, light-perception, photobiology]
 date: 2026-04-28
 updated: 2026-04-28

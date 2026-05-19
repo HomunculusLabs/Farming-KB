@@ -75,7 +75,7 @@ The EMCDDA drew explicit comparisons between the diffusion potential of magic mu
 - **Convenient form factor**: Tablets are easy to transport, conceal, and consume discreetly
 - **Predictable dosing**: Each tablet contains a known quantity of active compound
 - **Sociable effects**: Empathy and emotional openness facilitate social bonding
-- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] grows abundantly (UK, Ireland, Poland, Czech Republic), wild harvesting remains a relatively specialized activity rather than a mainstream acquisition method.
+- **[[psilocybe-semilanceata]] grows abundantly (UK, Ireland, Poland, Czech Republic), wild harvesting remains a relatively specialized activity rather than a mainstream acquisition method.
 
 The difficulty of reliable field identification, combined with the potentially fatal consequences of misidentification (particularly confusion with species in the Galerina genus which contain deadly amatoxins), creates an additional barrier that is unique to mycological psychoactive substances. Synthetic drugs and cultivated products do not carry this identification risk, making mushrooms comparatively less accessible despite their natural abundance in many European regions.
 

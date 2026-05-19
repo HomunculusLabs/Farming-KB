@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam monoculture disorder crop residues and Crop Residues
+title: Jadam Monoculture Disorder Crop Residues
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

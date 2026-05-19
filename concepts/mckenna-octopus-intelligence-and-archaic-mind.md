@@ -1,5 +1,5 @@
 ---
-title: Mckenna mckenna octopus intelligence and archaic mind and the Archaic Mind
+title: Mckenna Octopus Intelligence and Archaic Mind
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

@@ -19,7 +19,7 @@ and productivity.
 
 ## 1. Inter-Plant Carbon Transfer via Mycorrhizal Networks
 
-Common [[mycelial-networks]] (CMNs) physically interconnect individual plants,
+Common [[fungal-mycelial-networks-nutrient-translocation]] (CMNs) physically interconnect individual plants,
 enabling translocation of carbon and nutrients between them. Finlay & Read
 (1986a) demonstrated the movement of 14C-labelled carbon between plants
 linked by shared mycelium, providing direct isotopic evidence that

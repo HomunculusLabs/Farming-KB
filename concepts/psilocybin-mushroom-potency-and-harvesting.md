@@ -16,7 +16,7 @@ This inverse relationship between size and potency is consistent across [[emcdda
 
 ## The Gartz Research Benchmark
 
-Research conducted by mycologist Jochen Gartz demonstrated that *Psilocybe cubensis* can achieve a baseline psilocybin content of approximately 1% by dry weight — a figure comparable to the more celebrated *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* (liberty cap). However, achieving this potential requires optimal conditions across several variables:
+Research conducted by mycologist Jochen Gartz demonstrated that *Psilocybe cubensis* can achieve a baseline psilocybin content of approximately 1% by dry weight — a figure comparable to the more celebrated *[[psilocybe-semilanceata]]* (liberty cap). However, achieving this potential requires optimal conditions across several variables:
 
 - **Substrate**: Brown rice provides an excellent nutritional base for maximizing alkaloid production.
 - **Age**: Young, pre-sporulation specimens contain the highest concentrations.

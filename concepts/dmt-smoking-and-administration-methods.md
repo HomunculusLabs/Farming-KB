@@ -1,5 +1,5 @@
 ---
-title: DMT dmt smoking and administration methods Methods
+title: Dmt Smoking and Administration Methods
 created: 2026-04-13
 updated: 2026-04-15
 type: concept

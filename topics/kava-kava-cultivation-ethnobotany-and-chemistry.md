@@ -1,5 +1,5 @@
 ---
-title: Kava Kava Cultivation Ethnobotany And Chemistry
+title: Kava Kava Cultivation Ethnobotany and Chemistry
 tags:
   - kava
   - [[piper-methysticum]]

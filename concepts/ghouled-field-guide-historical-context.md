@@ -1,5 +1,5 @@
 ---
-title: Ghouled ghouled field guide historical context to the emcdda-psilocybin-mushroom-dose-and-effects - Historical Context
+title: Ghouled Field Guide Historical Context
 created: 2026-04-28
 tags:
   - psilocybin

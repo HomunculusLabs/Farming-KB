@@ -1,5 +1,5 @@
 ---
-title: Holmgren holmgren ecological succession and pulsing and Pulsing Systems
+title: Holmgren Ecological Succession and Pulsing
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

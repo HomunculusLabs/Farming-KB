@@ -39,7 +39,7 @@ The species prefers well-drained loam or sandy loam soils rich in [[dighton-fung
 
 Primary substrate is pasteurized [[casing-layer-microbiology]] is a peat-vermiculite mix (3:1 ratio), applied at 3–4 cm depth, with pH adjusted to 7.5–8.0.
 
-Fruiting is triggered by dropping air temperature to 16–18°C, maintaining 90–95% relative humidity, and introducing fresh [[stamets-biological-efficiency-yield]] typically reaches 60–80% over 2–3 flushes.
+Fruiting is triggered by dropping air temperature to 16–18°C, maintaining 90–95% relative humidity, and introducing fresh [[biological-efficiency]] typically reaches 60–80% over 2–3 flushes.
 
 The species shows moderate resistance to *Verticillium* and *Mycogone* compared to *A. bisporus*, though standard hygiene protocols remain essential.
 

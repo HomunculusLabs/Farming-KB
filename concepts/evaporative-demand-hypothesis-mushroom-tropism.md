@@ -1,5 +1,5 @@
 ---
-title: Evaporative evaporative demand hypothesis mushroom tropism for phycomyces-anemotropism-comparison-mushroom-tropism-mechanisms
+title: Evaporative Demand Hypothesis Mushroom Tropism
 created: 2026-05-09
 updated: 2026-05-09
 type: concept

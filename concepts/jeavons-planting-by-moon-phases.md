@@ -1,5 +1,5 @@
 ---
-title: jeavons planting by moon phases Phases
+title: Jeavons Planting by Moon Phases
 created: 2026-04-28
 tags: [biointensive, seed-propagation, moon-phases, lunar-gardening, planting-calendar]
 date: 2026-04-28

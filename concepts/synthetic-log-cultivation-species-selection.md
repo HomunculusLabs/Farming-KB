@@ -8,7 +8,7 @@ type: concept
 tags: [cultivation, species]
 ---
 
-Species and strain selection is arguably the most critical decision in [[maitake-grifola-frondosa-comprehensive-profile]] is a temperate-climate mushroom forming fruiting bodies in the fall, which defines its temperature requirements for cultivation. It presents particular challenges compared to more easily cultivated species like oyster mushrooms ([[stamets-biological-efficiency-yield]] between strains.
+Species and strain selection is arguably the most critical decision in [[maitake-grifola-frondosa-comprehensive-profile]] is a temperate-climate mushroom forming fruiting bodies in the fall, which defines its temperature requirements for cultivation. It presents particular challenges compared to more easily cultivated species like oyster mushrooms ([[biological-efficiency]] between strains.
 - **Temperature requirements:** Fruiting temperature ranges vary: 8-15 C (some strains), 10-15.6 C with upper limit 18 C (North American), 16-18 C (Japanese), 15-20 C (Chinese strains). Finding the optimal fruiting temperature for a given strain is essential.
 - **Fruiting body features:** Cap color (light gray, grayish white, light brownish yellow), shape of caps, branching patterns, and cluster morphology all vary by strain.
 - **Spawn run duration:** Strains with 30-day spawn runs before [[mushroom-cultivation-in-kenya]]:

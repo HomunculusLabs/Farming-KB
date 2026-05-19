@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka centrifugal centripetal farming model Farming Model
+title: Fukuoka Centrifugal Centripetal Farming Model
 source: "natural-way-of-farming-guide fukuoka-theory-three-ways-of-farming: The Theory"
 tags: [natural-farming, scientific-farming, centrifugal, centripetal, farming-philosophy, energy-efficiency, fukuoka, agricultural-theory]
 created: 2026-05-08

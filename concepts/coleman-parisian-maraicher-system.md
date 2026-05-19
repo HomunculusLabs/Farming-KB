@@ -1,5 +1,5 @@
 ---
-title: coleman parisian maraicher system System
+title: Coleman Parisian Maraicher System
 created: 2026-04-28
 tags:
   - history

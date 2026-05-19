@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer alpine farming techniques Techniques
+title: Holzer Alpine Farming Techniques
 created: 2026-04-14
 updated: 2026-04-14
 type: concept

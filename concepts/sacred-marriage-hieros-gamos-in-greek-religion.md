@@ -1,5 +1,5 @@
 ---
-title: Sacred sacred marriage hieros gamos in greek religion Gamos in Greek Religion
+title: Sacred Marriage Hieros Gamos in Greek Religion
 created: 2026-04-13
 updated: 2026-04-15
 type: concept

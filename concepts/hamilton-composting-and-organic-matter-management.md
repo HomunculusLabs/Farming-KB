@@ -1,5 +1,5 @@
 ---
-title: Hamilton Composting and hamilton composting and organic matter management Management
+title: Hamilton Composting and Organic Matter Management
 created: 2026-04-21
 updated: 2026-04-18
 type: concept

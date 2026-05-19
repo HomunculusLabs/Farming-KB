@@ -1,5 +1,5 @@
 ---
-title: "Agrovoltaics vs comparison agrovoltaics vs traditional solar farms Farms"
+title: "Comparison Agrovoltaics vs Traditional Solar Farms"
 created: 2026-05-06
 tags: [agrovoltaics, solar-energy, agriculture, dual-use-land, renewable-energy, land-use-efficiency]
 type: comparison

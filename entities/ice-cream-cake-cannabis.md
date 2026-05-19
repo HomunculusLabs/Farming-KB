@@ -1,5 +1,5 @@
 ---
-title: "Ice ice cream cake cannabis"
+title: "Ice Cream Cake Cannabis"
 created: 2026-04-28
 type: strain
 tags: [cannabis, strain, indica-dominant, hybrid, gsc-lineage,

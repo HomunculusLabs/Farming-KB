@@ -36,7 +36,7 @@ Repke et al. (1977a) demonstrated that the presence of baeocystin varies signifi
 
 ### Herbarium Specimen Analysis
 
-Ohenoja et al. (1987) conducted a landmark study measuring psilocybin content in herbarium specimens of [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] across different collection dates. Their findings demonstrated a clear inverse relationship between specimen age and psilocybin content:
+Ohenoja et al. (1987) conducted a landmark study measuring psilocybin content in herbarium specimens of [[psilocybe-semilanceata]] across different collection dates. Their findings demonstrated a clear inverse relationship between specimen age and psilocybin content:
 
 | Collection Year | Age at Analysis | Psilocybin (% dry weight) |
 |---|---|---|

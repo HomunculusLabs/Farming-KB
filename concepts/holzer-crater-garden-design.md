@@ -1,5 +1,5 @@
 ---
-title: holzer crater garden design Design
+title: Holzer Crater Garden Design
 created: 2026-04-26
 tags:
   - landscape-design

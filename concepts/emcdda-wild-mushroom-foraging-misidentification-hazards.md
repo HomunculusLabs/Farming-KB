@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-The EMCDDA 2006 thematic paper documented evidence of wild [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty caps): The most common wild European hallucinogenic mushroom, documented in the UK, Norway, Germany, and widely across temperate Europe
+The EMCDDA 2006 thematic paper documented evidence of wild [[psilocybe-semilanceata]]** (liberty caps): The most common wild European hallucinogenic mushroom, documented in the UK, Norway, Germany, and widely across temperate Europe
 - **[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] was reported in the Czech Republic, consistent with the presence of Psilocybe bohemica and Psilocybe moravica as documented Czech species. The Czech Republic also had the highest or near-highest prevalence estimates for mushroom use across multiple survey types, potentially reflecting cultural familiarity with local psychoactive fungi.
 
 ### Norway

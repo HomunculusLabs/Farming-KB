@@ -1,5 +1,5 @@
 ---
-title: hamilton fruit vegetables organic Organic Growing
+title: Hamilton Fruit Vegetables Organic
 created: 2026-04-28
 tags:
   - organic-gardening

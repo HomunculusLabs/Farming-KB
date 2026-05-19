@@ -46,7 +46,7 @@ Microscopic features include cheilocystidia that are utriform (flask-shaped) to 
 
 ## Distribution and Habitat
 
-*Parasola plicatilis* has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] across temperate and subtropical regions. It is reported from Europe, [[hamilton-composting-and-organic-matter-management]] in soil. It plays a minor role in [[aquatic-fungi-spore-dispersal-ingold]] occurs primarily through the deliquescing gill mechanism. As the cap and gills liquefy, a black, spore-laden fluid drips from the cap margins, depositing spores onto the soil surface below.
+*Parasola plicatilis* has a [[psilocybe-semilanceata]] across temperate and subtropical regions. It is reported from Europe, [[hamilton-composting-and-organic-matter-management]] in soil. It plays a minor role in [[aquatic-fungi-spore-dispersal-ingold]] occurs primarily through the deliquescing gill mechanism. As the cap and gills liquefy, a black, spore-laden fluid drips from the cap margins, depositing spores onto the soil surface below.
 
 The fungus is occasionally parasitized by *Volvariella surrecta*, a rare bolete parasite that fruits directly from the decaying inkcap. This relationship is one of the best-documented examples of [[fungal-microscopic-examination-mounting-media-techniques]] of spore size and cheilocystidia morphology is typically required for certain identification.
 

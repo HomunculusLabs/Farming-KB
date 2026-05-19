@@ -1,5 +1,5 @@
 ---
-title: Plant plant cellulose and carbohydrate chemistry Chemistry
+title: Plant Cellulose and Carbohydrate Chemistry
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

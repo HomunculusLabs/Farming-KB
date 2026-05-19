@@ -1,5 +1,5 @@
 ---
-title: "Naranjo naranjo harmaline yage experiment Experiment"
+title: "Naranjo Harmaline Yage Experiment"
 created: "2026-04-16"
 updated: "2026-04-16"
 type: concept

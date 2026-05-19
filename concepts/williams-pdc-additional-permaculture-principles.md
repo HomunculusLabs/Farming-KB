@@ -1,5 +1,5 @@
 ---
-title: Williams williams pdc additional permaculture principles permaculture-principles
+title: Williams Pdc Additional Permaculture Principles
 created: 2026-04-28
 tags: [permaculture, principles, stacking-functions, problem-solution, ecology]
 date: 2026-04-28

@@ -1,5 +1,5 @@
 ---
-title: "JADAM jadam fertilizer program design Design"
+title: "Jadam Fertilizer Program Design"
 created: 2026-04-28
 tags: [jadam, fertilizer-program, nutrient-management, soil-fertility, ultra-low-cost]
 date: 2026-04-25

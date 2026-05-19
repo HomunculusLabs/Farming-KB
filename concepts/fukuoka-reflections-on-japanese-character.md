@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka reflections on japanese character Character and Culture
+title: Fukuoka Reflections on Japanese Character
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

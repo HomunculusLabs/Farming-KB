@@ -1,5 +1,5 @@
 ---
-title: Home home vegetable gardening essentials Essentials
+title: Home Vegetable Gardening Essentials
 subtitle: A comprehensive guide to growing the most popular garden vegetables from seed to harvest
 tags: [gardening, vegetables, organic, homesteading, food-production]
 date: 2026-04-28

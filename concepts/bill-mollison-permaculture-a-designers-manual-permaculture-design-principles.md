@@ -1,5 +1,5 @@
 ---
-title: bill mollison permaculture a designers manual permaculture design principles Principles
+title: Bill Mollison Permaculture a Designers Manual Permaculture Design Principles
 created: 2026-04-28
 tags: [permaculture, design, ethics, principles, ecology]
 date: 2026-04-25

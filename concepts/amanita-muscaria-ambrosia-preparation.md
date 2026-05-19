@@ -1,5 +1,5 @@
 ---
-title: Amanita amanita muscaria ambrosia preparation Preparation
+title: Amanita Muscaria Ambrosia Preparation
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

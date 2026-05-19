@@ -1,5 +1,5 @@
 ---
-title: "guzman allen gartz clavicipitalean neurotropic fungi Fungi: Claviceps and Cordyceps Species"
+title: "Guzman Allen Gartz Clavicipitalean Neurotropic Fungi"
 created: 2026-04-28
 tags:
   - mycology

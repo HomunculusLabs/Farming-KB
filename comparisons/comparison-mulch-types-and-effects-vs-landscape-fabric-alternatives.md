@@ -1,5 +1,5 @@
 ---
-title: "Mulch Types and Effects vs comparison mulch types and effects vs landscape fabric alternatives Alternatives"
+title: "Comparison Mulch Types and Effects vs Landscape Fabric Alternatives"
 tags: [comparison, mulch, soil, weed-suppression, permaculture]
 date: 2026-05-08
 updated: 2026-05-08

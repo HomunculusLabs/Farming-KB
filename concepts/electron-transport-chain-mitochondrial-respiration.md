@@ -1,5 +1,5 @@
 ---
-title: "Electron electron transport chain mitochondrial respiration — Mitochondrial Oxidative Phosphorylation"
+title: "Electron Transport Chain Mitochondrial Respiration"
 created: 2026-04-28
 updated: 2026-05-06
 tags: [biochemistry, cellular-respiration, mitochondria, electron-transport, oxidative-phosphorylation]

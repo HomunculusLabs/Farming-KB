@@ -1,5 +1,5 @@
 ---
-title: "How to Start a query how to start a backyard chicken flock Flock"
+title: "Query How to Start a Backyard Chicken Flock"
 created: 2026-04-28
 tags: [query, permaculture, homesteading, poultry, livestock]
 date: 2026-04-25

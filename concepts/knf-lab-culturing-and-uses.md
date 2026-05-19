@@ -1,5 +1,5 @@
 ---
-title: "KNF knf lab culturing and uses and Uses"
+title: "Knf Lab Culturing and Uses"
 created: 2026-04-28
 tags: [knf, natural-farming, lab, lactic-acid-bacteria, fermentation]
 date: 2026-04-25

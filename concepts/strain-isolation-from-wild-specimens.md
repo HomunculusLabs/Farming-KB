@@ -1,5 +1,5 @@
 ---
-title: Strain strain isolation from wild specimens Specimens
+title: Strain Isolation From Wild Specimens
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

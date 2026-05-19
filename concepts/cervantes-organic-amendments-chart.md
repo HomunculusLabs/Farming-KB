@@ -1,5 +1,5 @@
 ---
-title: cervantes organic amendments chart Chart for Cannabis
+title: Cervantes Organic Amendments Chart
 created: 2026-04-26
 tags:
   - cannabis

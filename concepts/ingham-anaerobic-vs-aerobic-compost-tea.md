@@ -1,5 +1,5 @@
 ---
-title: Ingham — Anaerobic vs ingham anaerobic vs aerobic compost tea Tea
+title: Ingham Anaerobic vs Aerobic Compost Tea
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

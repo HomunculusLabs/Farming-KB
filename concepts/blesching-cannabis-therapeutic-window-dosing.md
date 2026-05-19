@@ -1,5 +1,5 @@
 ---
-title: Blesching blesching cannabis therapeutic window dosing Window Dosing
+title: Blesching Cannabis Therapeutic Window Dosing
 source: Uwe Blesching - The cannabis-health-index (2015)
 source_id: uwe-blesching-the-cannabis-health-index
 tags: [cannabis, dosing, therapeutic-window, titration, tolerance, individualized-medicine, patient-guided-dosing]

@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis grow nutrient deficiency problem solving and maitake-problem-solving-troubleshooting
+title: Cannabis Grow Nutrient Deficiency Problem Solving
 created: 2026-04-28
 tags: [cannabis, nutrients, deficiency, NPK, pH, troubleshooting, grow-bible]
 date: 2026-04-25

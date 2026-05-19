@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal allelopathy mechanisms and ecological effects and Ecological Effects
+title: Fungal Allelopathy Mechanisms and Ecological Effects
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

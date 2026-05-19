@@ -1,5 +1,5 @@
 ---
-title: Amazonian amazonian vegetalista shamanism degrees and hierarchy Degrees and Hierarchy
+title: Amazonian Vegetalista Shamanism Degrees and Hierarchy
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

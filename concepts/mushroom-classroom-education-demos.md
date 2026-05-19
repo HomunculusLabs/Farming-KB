@@ -1,5 +1,5 @@
 ---
-title: "Mushroom mushroom classroom education demos Demonstrations"
+title: "Mushroom Classroom Education Demos"
 created: 2026-04-28
 tags:
   - mushroom-education
@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - cotter-organic-mushroom-farming-mycoremediation
+  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 type: concept
 ---
 

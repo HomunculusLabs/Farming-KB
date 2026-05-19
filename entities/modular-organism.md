@@ -97,7 +97,7 @@ Ethnographic documentation provides historical perspective on traditional uses, 
 Contemporary cultural relevance continues in traditional, recreational, and research contexts.
 ## See Also
 - [[armillaria-ostoyae]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[spawn-production]]
 - [[mycelium-as-network-organism]]
 - [[bacillus-pumilus-space-relevant-challenge-organism-sterilization-validation]]

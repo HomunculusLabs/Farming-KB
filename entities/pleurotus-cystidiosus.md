@@ -25,7 +25,7 @@ sources:
 
 pleurotus cystidiosus, commonly known as the Abalone Mushroom, Maple Oyster
 Mushroom, or Miller's Oyster Mushroom, is a unique and morphologically distinctive
-member of the genus *Pleurotus*. It is closely related to [[stamets-biological-efficiency-yield]] ranges from 50 to 75%, with higher yields on sawdust than
+member of the genus *Pleurotus*. It is closely related to [[biological-efficiency]] ranges from 50 to 75%, with higher yields on sawdust than
 on straw. pleurotus cystidiosus is commercially cultivated in Taiwan and
 Thailand. It yields abundantly on rice straw but less productively on wheat straw.
 Strains are more narrowly specific in [[beta-glucans]], lovastatin, and other [[antifungal-secondary-metabolites-coprophilous-fungi]] of interest for future pharmacological investigation.

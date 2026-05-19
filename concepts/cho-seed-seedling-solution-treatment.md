@@ -1,5 +1,5 @@
 ---
-title: "Cho's Seed and cho seed seedling solution treatment Treatment"
+title: "Cho Seed Seedling Solution Treatment"
 created: 2026-04-28
 tags: [korean-natural-farming, seed-treatment, nursery, germination,
        cho-global]

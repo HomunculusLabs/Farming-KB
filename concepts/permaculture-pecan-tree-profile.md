@@ -1,5 +1,5 @@
 ---
-title: "permaculture pecan tree profile Profile for Permaculture Systems"
+title: "Permaculture Pecan Tree Profile"
 created: 2026-04-28
 tags:
   - permaculture

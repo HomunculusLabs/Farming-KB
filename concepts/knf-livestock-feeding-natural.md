@@ -1,5 +1,5 @@
 ---
-title: KNF knf livestock feeding natural Natural
+title: Knf Livestock Feeding Natural
 created: 2026-04-20
 updated: 2026-04-20
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: CBD to cbd to thc isomerization chemistry Chemistry
+title: Cbd to Thc Isomerization Chemistry
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

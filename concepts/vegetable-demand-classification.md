@@ -10,7 +10,7 @@ tags:
   - crop-selection
   - soil-fertility
 sources:
-  - "gardening-when-it-counts-steve-solomon"
+  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 synopsis: >-
   Steve Solomon classifies vegetables into three demand tiers based on
   soil fertility requirements: low-demand, medium-demand, and

@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam local material collection and use Collection and Use
+title: Jadam Local Material Collection and Use
 created: 2026-04-26
 updated: 2026-04-23
 sources:

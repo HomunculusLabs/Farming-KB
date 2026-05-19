@@ -1,5 +1,5 @@
 ---
-title: Lactic lactic acid bacteria knf in KNF
+title: Lactic Acid Bacteria Knf
 created: 2026-04-28
 tags: [knf, lactic-acid-bacteria, fermentation, microorganisms]
 date: 2026-04-25

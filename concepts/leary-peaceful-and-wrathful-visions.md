@@ -1,5 +1,5 @@
 ---
-title: Leary's leary peaceful and wrathful visions Visions
+title: Leary Peaceful and Wrathful Visions
 created: 2026-04-23
 updated: 2026-04-23
 type: concept

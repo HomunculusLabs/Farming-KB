@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal virulence factors host immune evasion and Host Immune Evasion
+title: Fungal Virulence Factors Host Immune Evasion
 created: 2026-04-26
 tags: [fungal-pathogen, virulence, immune-evasion, medical-mycology, melanin]
 date: 2026-04-25

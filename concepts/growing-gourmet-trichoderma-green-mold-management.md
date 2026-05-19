@@ -1,5 +1,5 @@
 ---
-title: Trichoderma and growing gourmet trichoderma green mold management Management
+title: Growing Gourmet Trichoderma Green Mold Management
 created: 2026-04-26
 tags:
   - mycology

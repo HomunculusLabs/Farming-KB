@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer roundwood shelters earth cellars and sepp-holzer-earth-cellars-and-philosophy
+title: Holzer Roundwood Shelters Earth Cellars
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

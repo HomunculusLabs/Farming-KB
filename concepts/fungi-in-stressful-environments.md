@@ -38,7 +38,7 @@ Most fungi are mesophilic, growing between 5-35 degrees C with optima at
 also at 40-50 degrees C. These fungi are ubiquitous in soils worldwide and
 are commonly isolated from compost piles, mushroom beds, municipal waste
 deposits, bird and alligator nests, coal tips, volcanic hot springs, and soils
-of arid and [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]. Notable genera
+of arid and [[psilocybe-semilanceata]]. Notable genera
 include Thermomyces, Talaromyces, Thermoascus, Scytalidium, Rhizomucor, and
 Myriococcum. Recent estimates put the number at approximately 70 species.
 Thermophilism is strongly developed in Zygomycota, Ascomycota, and mitosporic

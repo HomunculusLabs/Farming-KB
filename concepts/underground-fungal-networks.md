@@ -18,7 +18,7 @@ type: concept
 
 Underground fungal networks, often called [[mycelium-as-natures-internet]]
 
-- [[mycelial-networks]](mycelium-network.md)
+- [[fungal-mycelial-networks-nutrient-translocation]](mycelium-network.md)
 - [[bloomfield-fungal-pathogens-and-parasites]] and Human Disease]([[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]].
 - Webster, J. (1980). *Introduction to Fungi*. Cambridge University
   Press.

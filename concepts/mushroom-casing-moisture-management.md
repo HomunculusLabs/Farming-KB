@@ -1,5 +1,5 @@
 ---
-title: mushroom casing moisture management Management
+title: Mushroom Casing Moisture Management
 created: 2026-04-28
 tags: [mycology, casing, moisture, substrate, Stamets]
 date: 2026-04-25

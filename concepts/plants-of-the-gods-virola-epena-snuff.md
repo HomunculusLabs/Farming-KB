@@ -1,5 +1,5 @@
 ---
-title: plants of the gods virola epena snuff Snuff in Plants of the Gods
+title: Plants of the Gods Virola Epena Snuff
 created: 2026-04-28
 tags: [ethnobotany, virola, snuff, dmt, amazon]
 date: 2026-04-28

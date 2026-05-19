@@ -1,5 +1,5 @@
 ---
-title: Faires faires meat processing curing and smoking Curing and Smoking
+title: Faires Meat Processing Curing and Smoking
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

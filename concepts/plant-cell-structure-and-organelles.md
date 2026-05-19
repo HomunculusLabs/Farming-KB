@@ -1,5 +1,5 @@
 ---
-title: Plant plant cell structure and organelles and Organelles
+title: Plant Cell Structure and Organelles
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

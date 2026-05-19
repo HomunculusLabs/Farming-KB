@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer wild cattle and old breeds and Old Breeds
+title: Holzer Wild Cattle and Old Breeds
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

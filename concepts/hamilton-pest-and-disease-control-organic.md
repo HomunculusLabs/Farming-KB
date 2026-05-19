@@ -1,5 +1,5 @@
 ---
-title: Hamilton Pest and hamilton pest and disease control organic Organic
+title: Hamilton Pest and Disease Control Organic
 created: 2026-04-21
 updated: 2026-04-18
 type: concept

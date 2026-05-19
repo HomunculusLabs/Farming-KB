@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca ayahuasca interactions with prescription medications Medications
+title: Ayahuasca Interactions With Prescription Medications
 created: 2026-04-28
 tags:
   - ayahuasca

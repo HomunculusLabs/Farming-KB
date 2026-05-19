@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal formulation and inoculation for in situ bioremediation for In staycare-fungal-in-situ-bioremediation-formulation-strategies
+title: Fungal Formulation and Inoculation for in Situ Bioremediation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

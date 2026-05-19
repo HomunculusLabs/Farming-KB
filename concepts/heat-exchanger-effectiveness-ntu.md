@@ -1,5 +1,5 @@
 ---
-title: "Heat heat exchanger effectiveness ntu and NTU Method"
+title: "Heat Exchanger Effectiveness Ntu"
 aliases: [effectiveness NTU method, number of transfer units, heat exchanger effectiveness, NTU analysis]
 tags: [thermal-engineering, heat-transfer, mechanical-engineering, thermodynamics, process-engineering]
 created: 2026-05-02

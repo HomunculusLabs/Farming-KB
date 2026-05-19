@@ -5,7 +5,7 @@ updated: 2026-05-09
 type: concept
 tags: [mycology, garden, outdoor-cultivation, permaculture]
 sources:
-  - cotter-organic-mushroom-farming-mycoremediation
+  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 ---
 
 # Mushroom Garden Design

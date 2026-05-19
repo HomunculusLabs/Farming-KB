@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-Event classification and pattern unity form a foundational framework in [[mycelial-networks]], ripples on water, branching river systems viewed from above.
+Event classification and pattern unity form a foundational framework in [[fungal-mycelial-networks-nutrient-translocation]], ripples on water, branching river systems viewed from above.
 - **C3 — Three (Solid / Trees)**: Events that occupy volume — a standing tree, a boulder, a soil profile.
 - **C4 — Four (Moving Solid + Time)**: Events that involve a three-dimensional object changing through time — a falling boulder, a growing organism, a migrating herd.
 - **C5 — More (Conceptual / Models of Particles)**: Events that transcend conventional spatial dimensions — ecosystem models, theoretical frameworks, multi-variable interactions.

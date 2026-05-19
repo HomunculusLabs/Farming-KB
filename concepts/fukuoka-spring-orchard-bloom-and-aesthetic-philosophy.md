@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka spring orchard bloom and aesthetic philosophy Bloom and the Aesthetic Philosophy of Nature
+title: Fukuoka Spring Orchard Bloom and Aesthetic Philosophy
 created: 2026-04-28
 tags:
   - natural-farming

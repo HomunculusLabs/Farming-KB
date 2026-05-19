@@ -1,5 +1,5 @@
 ---
-title: Growing growing soft fruit organically Organically
+title: Growing Soft Fruit Organically
 created: 2026-04-14
 updated: 2026-04-14
 type: concept

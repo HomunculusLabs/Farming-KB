@@ -1,5 +1,5 @@
 ---
-title: hamilton slug and snail control Control in the Organic Garden
+title: Hamilton Slug and Snail Control
 created: 2026-04-28
 tags:
   - organic-gardening

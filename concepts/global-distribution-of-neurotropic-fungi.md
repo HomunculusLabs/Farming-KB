@@ -1,5 +1,5 @@
 ---
-title: Global global distribution of neurotropic fungi Fungi
+title: Global Distribution of Neurotropic Fungi
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 topics: mycology, biogeography, psilocybin, ethnobotany
 ---

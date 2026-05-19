@@ -1,5 +1,5 @@
 ---
-title: mushroom spawn generation limits Limits and Transfer Logistics
+title: Mushroom Spawn Generation Limits
 created: 2026-04-28
 tags: [mycology, spawn, grain-transfer, contamination, stamets]
 date: 2026-04-25

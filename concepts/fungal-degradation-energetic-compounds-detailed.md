@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal degradation energetic compounds detailed Compounds Detailed
+title: Fungal Degradation Energetic Compounds Detailed
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

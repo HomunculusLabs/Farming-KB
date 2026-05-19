@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis phenotype and genotype guide Guide
+title: Cannabis Phenotype and Genotype Guide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

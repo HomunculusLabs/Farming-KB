@@ -1,5 +1,5 @@
 ---
-title: "How Do I query how to build healthy garden soil Soil for a fukuoka-dutch-priest-vegetable-garden-spiritual-renewal?"
+title: "Query How to Build Healthy Garden Soil"
 created: 2026-04-28
 tags: [query, soil-health, compost, organic-gardening, vegetable-growing]
 date: 2026-04-25

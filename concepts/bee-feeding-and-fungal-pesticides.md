@@ -1,5 +1,5 @@
 ---
-title: Bee bee feeding and fungal pesticides Pesticides
+title: Bee Feeding and Fungal Pesticides
 created: 2026-04-13
 updated: 2026-04-15
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "Tryptophan tryptophan decarboxylase inhibition and regulation and Regulation"
+title: "Tryptophan Decarboxylase Inhibition and Regulation"
 created: 2026-04-28
 tags: [biochemistry, enzymology, decarboxylase, regulation, tryptamine]
 date: 2026-04-28

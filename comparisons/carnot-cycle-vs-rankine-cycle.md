@@ -1,5 +1,5 @@
 ---
-title: "Carnot carnot cycle vs rankine cycle Cycle"
+title: "Carnot Cycle vs Rankine Cycle"
 type: comparison
 tags: [thermodynamics, heat-engines, power-cycles, steam-power, efficiency]
 related: [carnot-cycle-and-heat-engines, rankine-cycle]

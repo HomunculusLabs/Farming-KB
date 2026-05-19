@@ -1,5 +1,5 @@
 ---
-title: Fungi fungi around the world species distribution -- Species Distribution
+title: Fungi Around the World Species Distribution
 created: 2026-04-13
 updated: 2026-04-15
 type: concept

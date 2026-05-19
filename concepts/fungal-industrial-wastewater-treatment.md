@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal industrial wastewater treatment Treatment
+title: Fungal Industrial Wastewater Treatment
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

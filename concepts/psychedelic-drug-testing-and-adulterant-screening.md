@@ -1,5 +1,5 @@
 ---
-title: Psychedelic psychedelic drug testing and adulterant screening and Adulterant Screening
+title: Psychedelic Drug Testing and Adulterant Screening
 created: 2026-04-17
 updated: 2026-04-18
 type: concept

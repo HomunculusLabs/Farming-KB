@@ -1,5 +1,5 @@
 ---
-title: Partial partial veil tropism protection before spore release Protection Before Spore Release
+title: Partial Veil Tropism Protection Before Spore Release
 created: 2026-05-09
 updated: 2026-05-09
 type: concept

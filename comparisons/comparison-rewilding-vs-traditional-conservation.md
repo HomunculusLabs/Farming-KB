@@ -1,5 +1,5 @@
 ---
-title: comparison rewilding vs traditional conservation Conservation
+title: Comparison Rewilding vs Traditional Conservation
 tags: conservation, rewilding, ecosystem-restoration, protected-areas, biodiversity, wildlife-management, trophic-cascade
 date: 2026-04-28
 updated: 2026-04-28

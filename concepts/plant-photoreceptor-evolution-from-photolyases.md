@@ -1,5 +1,5 @@
 ---
-title: Plant plant photoreceptor evolution from photolyases from Photolyases
+title: Plant Photoreceptor Evolution From Photolyases
 created: 2026-04-28
 tags: [botany, evolution, photoreceptors, cryptochrome, photolyase, phytochrome, circadian-rhythm, molecular-evolution]
 date: 2026-04-28

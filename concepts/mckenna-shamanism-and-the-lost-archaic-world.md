@@ -1,5 +1,5 @@
 ---
-title: McKenna on Shamanism and the mckenna shamanism and the lost archaic world World
+title: Mckenna Shamanism and the Lost Archaic World
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

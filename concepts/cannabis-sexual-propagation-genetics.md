@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis sexual propagation genetics and Genetics
+title: Cannabis Sexual Propagation Genetics
 created: 2026-04-28
 tags: [cannabis, propagation, genetics, breeding, plant-biology]
 date: 2026-04-25

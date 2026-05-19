@@ -1,5 +1,5 @@
 ---
-title: "First-Pass first pass metabolism and oral bioavailability Bioavailability"
+title: "First Pass Metabolism and Oral Bioavailability"
 created: 2026-04-28
 updated: 2026-05-06
 aliases: [first pass effect, presystemic metabolism, oral bioavailability, extraction ratio, hepatic extraction]

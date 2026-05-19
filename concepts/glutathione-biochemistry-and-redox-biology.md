@@ -1,5 +1,5 @@
 ---
-title: Glutathione glutathione biochemistry and redox biology Biology
+title: Glutathione Biochemistry and Redox Biology
 type: concept
 aliases: [GSH, glutathione, reduced glutathione, oxidized glutathione, GSSG, one-carbon-metabolism-vs-glutathione-redox-biology, mercapturic acid pathway]
 tags: [biochemistry, redox, antioxidant, detoxification, pharmacology, peptide, thiol, cell-biology, ferroptosis]

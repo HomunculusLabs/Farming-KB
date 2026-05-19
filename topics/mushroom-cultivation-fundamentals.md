@@ -6,8 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - growing-gourmet
-  - stamets-cultivator
+  - "raw/papers/growing-the-woodlovers-outdoors.md"
   - cotter
   - oyster
   - falconer

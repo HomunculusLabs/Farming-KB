@@ -75,7 +75,7 @@ Monitoring protocols help track population trends and inform adaptive management
 
 ## See Also
 - [[mushroom-cultivation]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[mycelial-cord]]
 - [[oyster-mushroom]]
 - [[fungal-translocation]]

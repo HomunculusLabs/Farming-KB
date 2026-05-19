@@ -1,5 +1,5 @@
 ---
-title: Metzner metzner shamanic healing and divination paradigm and Divination Paradigm
+title: Metzner Shamanic Healing and Divination Paradigm
 tags: [shamanism, entheogen, psychotherapy, divination, healing, plant-teachers, consciousness, metzner]
 date: 2026-04-28
 updated: 2026-04-28

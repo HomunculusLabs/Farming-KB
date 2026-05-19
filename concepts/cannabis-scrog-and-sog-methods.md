@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis scrog and sog methods Methods
+title: Cannabis Scrog and Sog Methods
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

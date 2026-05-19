@@ -1,5 +1,5 @@
 ---
-title: Cortes cortes island mycoforestry project Project
+title: Cortes Island Mycoforestry Project
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

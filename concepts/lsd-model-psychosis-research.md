@@ -1,5 +1,5 @@
 ---
-title: LSD lsd model psychosis research Research
+title: Lsd Model Psychosis Research
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

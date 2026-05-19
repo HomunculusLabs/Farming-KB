@@ -1,5 +1,5 @@
 ---
-title: "mushroom cultivator compost pile management Management Turning and Temperature"
+title: "Mushroom Cultivator Compost Pile Management"
 created: 2026-04-28
 tags: [mycology], composting, temperature-management, phase-i, aeration,
       mushroom-cultivator]

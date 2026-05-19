@@ -1,5 +1,5 @@
 ---
-title: "Chorismate chorismate metabolism and branch pathways Pathways"
+title: "Chorismate Metabolism and Branch Pathways"
 created: 2026-04-28
 tags: [biochemistry, metabolism, shikimate, chorismate, aromatic-amino-acids]
 date: 2026-04-28

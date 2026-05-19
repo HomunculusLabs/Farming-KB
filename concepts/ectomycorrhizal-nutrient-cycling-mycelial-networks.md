@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Ectomycorrhizal (ECM) fungi form extensive [[mycelial-networks]] that connect individual host plants and drive critical nutrient cycling processes in forest ecosystems. These networks facilitate interplant carbon and nutrient transfer, mobilize nutrients from organic matter, and interact with other soil organisms to shape ecosystem function. Understanding these belowground networks is essential for comprehending forest productivity, stability, and resilience.
+Ectomycorrhizal (ECM) fungi form extensive [[fungal-mycelial-networks-nutrient-translocation]] that connect individual host plants and drive critical nutrient cycling processes in forest ecosystems. These networks facilitate interplant carbon and nutrient transfer, mobilize nutrients from organic matter, and interact with other soil organisms to shape ecosystem function. Understanding these belowground networks is essential for comprehending forest productivity, stability, and resilience.
 
 ## Mycelial Interconnections Between Plants
 

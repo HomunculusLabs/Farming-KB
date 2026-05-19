@@ -1,5 +1,5 @@
 ---
-title: Fukuoka: fukuoka orchard soil restoration barren clay from Barren Clay
+title: Fukuoka Orchard Soil Restoration Barren Clay
 created: 2026-04-18
 updated: 2026-04-21
 type: concept

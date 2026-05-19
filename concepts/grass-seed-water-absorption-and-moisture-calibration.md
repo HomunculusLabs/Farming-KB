@@ -1,5 +1,5 @@
 ---
-title: Grass grass seed water absorption and moisture calibration and Moisture Calibration
+title: Grass Seed Water Absorption and Moisture Calibration
 created: 2026-04-28
 tags:
   - mycology

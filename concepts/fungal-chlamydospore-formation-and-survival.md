@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal chlamydospore formation and survival and Survival
+title: Fungal Chlamydospore Formation and Survival
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

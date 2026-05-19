@@ -1,5 +1,5 @@
 ---
-title: PiHKAL pihkal cautionary note and legal context and Legal Context
+title: Pihkal Cautionary Note and Legal Context
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

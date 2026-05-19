@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis photoperiodism and light cycles Cycles
+title: Cannabis Photoperiodism and Light Cycles
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

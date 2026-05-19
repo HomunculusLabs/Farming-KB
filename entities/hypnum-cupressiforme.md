@@ -50,7 +50,7 @@ Spores are 10–14 μm in diameter, finely papillose, and produced in large quan
 
 ## Distribution and Habitat
 
-*Hypnum cupressiforme* has a virtually [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]. It occurs throughout Europe, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest canopies. Epiphytic mats intercept atmospheric deposition and throughfall, trapping particulate matter and dissolved nutrients that are slowly released to the host tree ecosystem.
+*Hypnum cupressiforme* has a virtually [[psilocybe-semilanceata]]. It occurs throughout Europe, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest canopies. Epiphytic mats intercept atmospheric deposition and throughfall, trapping particulate matter and dissolved nutrients that are slowly released to the host tree ecosystem.
 
 It serves as a substrate for other bryophytes and lichens. Mature *H. cupressiforme* cushions frequently support colonies of liverworts and crustose lichens that establish on the moss surface.
 

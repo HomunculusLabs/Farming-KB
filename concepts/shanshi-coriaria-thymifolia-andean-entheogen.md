@@ -1,5 +1,5 @@
 ---
-title: "Shanshi shanshi coriaria thymifolia andean entheogen Andean Entheogen"
+title: "Shanshi Coriaria Thymifolia Andean Entheogen"
 created: 2026-04-28
 tags: [ethnobotany, entheogen, coriariaceae, andes, toxicology]
 date: 2026-04-25

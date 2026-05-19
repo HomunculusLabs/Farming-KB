@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka ignorant agriculture pit of knowledge and the fukuoka-pit-of-knowledge-fragmented-science
+title: Fukuoka Ignorant Agriculture Pit of Knowledge
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

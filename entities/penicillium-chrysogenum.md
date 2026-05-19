@@ -26,7 +26,7 @@ civilization as a source of medicine.
 
 ## Taxonomy and Classification
 - **Kingdom:** Fungi
-- **Division:** [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in soil, decaying vegetation, and
+- **Division:** [[psilocybe-semilanceata]] in soil, decaying vegetation, and
   indoor environments
 - Commonly isolated from household dust, air samples, and food
   products

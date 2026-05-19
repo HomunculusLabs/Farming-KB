@@ -1,5 +1,5 @@
 ---
-title: knf bone charcoal preparation Preparation
+title: Knf Bone Charcoal Preparation
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

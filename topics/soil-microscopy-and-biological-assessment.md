@@ -1,5 +1,5 @@
 ---
-title: "Soil soil microscopy and biological assessment Assessment"
+title: "Soil Microscopy and Biological Assessment"
 subtitle: "Using direct microscopy to evaluate soil food web health, organism biomass, and compost tea quality"
 tags: [soil-biology, microscopy, soil-food-web, compost-tea, nematodes, protozoa, regenerative-agriculture, biological-farming]
 date: 2026-05-08

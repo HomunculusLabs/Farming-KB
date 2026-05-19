@@ -1,5 +1,5 @@
 ---
-title: Cannabis For cannabis for cachexia and appetite stimulation Stimulation
+title: Cannabis for Cachexia and Appetite Stimulation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

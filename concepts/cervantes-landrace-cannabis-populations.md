@@ -1,5 +1,5 @@
 ---
-title: cervantes landrace cannabis populations Populations
+title: Cervantes Landrace Cannabis Populations
 created: 2026-04-26
 tags:
   - cannabis

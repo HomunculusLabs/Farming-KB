@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam seawater mineral supplementation Supplementation
+title: Jadam Seawater Mineral Supplementation
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

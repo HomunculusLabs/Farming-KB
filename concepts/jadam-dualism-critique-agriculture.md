@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam dualism critique agriculture in Agriculture
+title: Jadam Dualism Critique Agriculture
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

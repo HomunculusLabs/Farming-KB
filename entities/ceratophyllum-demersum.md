@@ -27,7 +27,7 @@ Key morphological features:
 - **Fruit:** A spiny achene, 4–6 mm, with two basal spines and surface spines.
 - **Color:** Dark green to olive-green, often with a reddish tinge in high-light conditions.
 
-The chromosome number is 2n = 24. The species exhibits phenotypic plasticity in leaf segment number and branching pattern depending on water depth, [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in freshwater systems worldwide. It occurs in ponds, lakes, slow rivers, canals, ditches, and reservoirs from tropical to cold-temperate regions. It is absent only from Antarctica and some remote oceanic islands.
+The chromosome number is 2n = 24. The species exhibits phenotypic plasticity in leaf segment number and branching pattern depending on water depth, [[psilocybe-semilanceata]] in freshwater systems worldwide. It occurs in ponds, lakes, slow rivers, canals, ditches, and reservoirs from tropical to cold-temperate regions. It is absent only from Antarctica and some remote oceanic islands.
 
 The species tolerates a wide range of ecological conditions. It grows in water from 0.3 to 10+ meters deep, though dense stands typically form at 1–3 meters. It tolerates pH from 5.5 to 9.0, moderate hardness, and conductivity up to 1,500 μS/cm.
 

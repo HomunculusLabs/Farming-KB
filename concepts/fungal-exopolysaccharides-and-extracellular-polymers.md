@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal exopolysaccharides and extracellular polymers Polymers
+title: Fungal Exopolysaccharides and Extracellular Polymers
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

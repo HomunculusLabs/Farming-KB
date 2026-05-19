@@ -12,7 +12,7 @@ Fungi are increasingly recognized as **ecosystem engineers**—organisms that mo
 
 ## The Individual Fungal Organism: Size and Scope
 
-Individual fungal genets can cover hectares of forest floor. Smith et al. (1992) documented that *[[armillaria-bulbosa]]* is among the largest and oldest living organisms, with persistent [[mycelial-networks]] linking vast areas. Unlike discrete organisms, fungi are clonal and non-discrete, exhibiting considerable phenotypic plasticity that allows a single genetic individual to perform radically different functions across its extent.
+Individual fungal genets can cover hectares of forest floor. Smith et al. (1992) documented that *[[armillaria-bulbosa]]* is among the largest and oldest living organisms, with persistent [[fungal-mycelial-networks-nutrient-translocation]] linking vast areas. Unlike discrete organisms, fungi are clonal and non-discrete, exhibiting considerable phenotypic plasticity that allows a single genetic individual to perform radically different functions across its extent.
 
 ## Phenotypic Plasticity and Growth Strategies
 

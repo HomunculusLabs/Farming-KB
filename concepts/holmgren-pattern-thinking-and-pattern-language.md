@@ -1,5 +1,5 @@
 ---
-title: Holmgren holmgren pattern thinking and pattern language and Pattern Language
+title: Holmgren Pattern Thinking and Pattern Language
 created: 2026-04-26
 updated: 2026-04-23
 sources:

@@ -1,5 +1,5 @@
 ---
-title: "Pioneer Species pioneer species selection for permaculture systems Systems"
+title: "Pioneer Species Selection for Permaculture Systems"
 created: 2026-04-28
 tags: [pioneer-species, nitrogen-fixing, succession, permaculture]
 date: 2026-04-25

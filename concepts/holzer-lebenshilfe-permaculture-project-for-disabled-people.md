@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer lebenshilfe permaculture project for disabled people Project for Disabled People
+title: Holzer Lebenshilfe Permaculture Project for Disabled People
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

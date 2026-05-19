@@ -1,5 +1,5 @@
 ---
-title: Tagasaste as permplant tagasaste pioneer fodder tree Tree in Permaculture
+title: Tagasaste Pioneer Fodder Tree
 created: 2026-04-28
 tags:
   - permaculture

@@ -1,5 +1,5 @@
 ---
-title: mushroom mushroom cultivation environmental parameters parameters
+title: Mushroom Cultivation Environmental Parameters
 created: 2026-04-28
 tags: [mycology, fruiting, environment, humidity, temperature]
 date: 2026-04-28

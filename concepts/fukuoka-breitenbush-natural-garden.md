@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka breitenbush natural garden Garden
+title: Fukuoka Breitenbush Natural Garden
 created: 2026-04-18
 updated: 2026-04-21
 type: concept

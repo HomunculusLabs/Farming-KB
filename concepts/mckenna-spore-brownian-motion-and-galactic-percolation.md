@@ -1,5 +1,5 @@
 ---
-title: Mckenna mckenna spore brownian motion and galactic percolation Motion And Galactic Percolation
+title: Mckenna Spore Brownian Motion and Galactic Percolation
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

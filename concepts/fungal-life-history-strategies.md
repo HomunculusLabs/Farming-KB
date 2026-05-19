@@ -90,7 +90,7 @@ Systems thinking reveals feedback loops and emergent properties that affect over
 ## See Also
 - [[fungal-ecology]]
 - [[saprotrophic-fungi]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[mycorrhizal-fungi]]
 - [[fungal-saprotrophic-enzymatic-strategies]]
 - [[fungal-hyphal-structure-resource-exploitation]]

@@ -1,5 +1,5 @@
 ---
-title: "comparison coffee vs cacao cultivation Cultivation — A Side-by-Side Comparison"
+title: "Comparison Coffee vs Cacao Cultivation"
 created: 2026-05-06
 tags:
 type: comparison

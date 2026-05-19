@@ -1,5 +1,5 @@
 ---
-title: teaming with microbes humic and fulvic acids Acids
+title: Teaming With Microbes Humic and Fulvic Acids
 created: 2026-04-21
 updated: 2026-04-27
 type: concept

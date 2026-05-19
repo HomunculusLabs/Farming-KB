@@ -1,5 +1,5 @@
 ---
-title: savory weak link analysis Analysis
+title: Savory Weak Link Analysis
 created: 2026-04-28
 tags: [financial-planning, decision-making, management-guidelines]
 date: 2026-04-25

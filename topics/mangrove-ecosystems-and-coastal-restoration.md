@@ -1,5 +1,5 @@
 ---
-title: "Mangrove mangrove ecosystems and coastal restoration Restoration"
+title: "Mangrove Ecosystems and Coastal Restoration"
 tags:
   - mangroves
   - coastal-restoration

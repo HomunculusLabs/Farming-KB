@@ -53,7 +53,7 @@ is frequently sterile in urban populations, reproducing primarily through
 soredia from marginal soralia.
 
 Chemically, the thallus contains **[[usnic-acid]]** and **zeorin** as major
-[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate
+[[psilocybe-semilanceata]] in temperate
 regions, occurring across Europe, [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]] s
 to the species' [[lichen-desiccation-tolerance-cavitation-ice-nucleation]]. Zeorin has demonstrated
 anti-inflammatory and cytotoxic activities in pharmacological screening.

@@ -1,5 +1,5 @@
 ---
-title: "Soil Food Web vs comparison soil food web vs arbuscular mycorrhizal fungi Fungi"
+title: "Comparison Soil Food Web vs Arbuscular Mycorrhizal Fungi"
 created: 2026-04-28
 tags: [comparison, soil-science, mycology, ecology]
 date: 2026-04-25

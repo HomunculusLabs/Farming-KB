@@ -1,5 +1,5 @@
 ---
-title: Underground House and underground house and earth berm construction Construction
+title: Underground House and Earth Berm Construction
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

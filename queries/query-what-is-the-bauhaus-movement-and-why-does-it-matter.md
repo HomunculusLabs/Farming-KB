@@ -1,7 +1,7 @@
 ---
 title: Query What Is The bauhaus-movement And Why Does It Matter
 created: 2026-04-28
-subtitle: A concise FAQ on the Bauhaus as a school, [[permaculture-guild-design-method]], and modernist legacy
+subtitle: A concise FAQ on the Bauhaus as a school, permaculture-guild-design-method, and modernist legacy
 tags: [query, bauhaus, design-history, architecture, modernism, industrial-design]
 date: 2026-05-02
 updated: 2026-05-02

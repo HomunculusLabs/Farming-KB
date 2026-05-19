@@ -19,7 +19,7 @@ Basidiomycetes (phylum Basidiomycota) are one of the two major groups of higher 
 ## Key Facts
 
 - Basidiomycetes are the primary decomposers of lignocellulose (wood) in terrestrial ecosystems, possessing unique enzymatic capabilities including lignin-degrading peroxidases (lignin peroxidase, manganese peroxidase) and laccases.
-- They are the dominant fungal biomass component in forest soils, where their [[mycelial-networks]] can comprise the largest pool of biomass, exceeding other microorganisms and invertebrates.
+- They are the dominant fungal biomass component in forest soils, where their [[fungal-mycelial-networks-nutrient-translocation]] can comprise the largest pool of biomass, exceeding other microorganisms and invertebrates.
 - Both saprotrophic and ectomycorrhizal basidiomycetes form [[mycelial-cords]] — specialized high-conductivity channels that enable long-distance nutrient transport across meters or hectares.
 - Basidiomycetes exhibit complex multicellular organization, including differentiated tissues in fruiting bodies (pileus, stipe, lamellae/hymenophore) and specialized hyphal types (vessel hyphae, fiber hyphae, generative hyphae).
 - The group includes the majority of commercially cultivated mushroom species: Agaricus bisporus (button mushroom), Pleurotus ostreatus (oyster mushroom), Lentinula edodes (shiitake), Ganoderma lucidum (reishi), and many others.
@@ -81,5 +81,5 @@ Monitoring protocols help track population trends and inform adaptive management
 - [[lentinula-edodes]]
 - [[mushroom-cultivation]]
 - [[mycelial-network-structure]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[pleurotus-ostreatus]]

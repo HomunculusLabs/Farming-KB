@@ -16,7 +16,7 @@ type: concept
 
 # Neurotropic Fungi of Europe
 
-Europe presents a distinctive profile in the [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] is the most widespread
+Europe presents a distinctive profile in the [[psilocybe-semilanceata]] is the most widespread
 and extensively studied species, documented from nearly every
 European country. P. cyanescens, P. fimetaria, P. pelliculosa,
 P. silvatica and P. strictipes are also common to both North

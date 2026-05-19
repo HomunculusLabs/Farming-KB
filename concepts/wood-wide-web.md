@@ -11,7 +11,7 @@ type: concept
 # Wood Wide Web
 
 [[teaming-with-microbes-fungi-the-underground-network]] of
-[[mycelial-networks]]
+[[fungal-mycelial-networks-nutrient-translocation]]
 - [[soil-food-web]]
 ## Background and Context
 

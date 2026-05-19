@@ -1,5 +1,5 @@
 ---
-title: 2C-B 2c b psychedelic empathogen guide Guide
+title: 2c B Psychedelic Empathogen Guide
 created: 2026-04-13
 updated: 2026-04-15
 type: concept

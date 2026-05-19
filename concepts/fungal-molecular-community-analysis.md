@@ -1,5 +1,5 @@
 ---
-title: "Fungal fungal molecular community analysis Analysis"
+title: "Fungal Molecular Community Analysis"
 created: 2026-04-26
 tags:
   - molecular-ecology

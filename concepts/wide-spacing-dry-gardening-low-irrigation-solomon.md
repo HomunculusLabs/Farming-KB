@@ -5,7 +5,6 @@ tags: [gardening, dry-farming, water-conservation, vegetable-production, sustain
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - solomon-gardening-when-it-counts-2005
 type: concept
 ---
 

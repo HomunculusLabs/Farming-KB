@@ -1,5 +1,5 @@
 ---
-title: "Native native american planting methods and indigenous agriculture Methods and Indigenous Agriculture"
+title: "Native American Planting Methods and Indigenous Agriculture"
 tags: [agriculture, indigenous, permaculture, history, polyculture, three-sisters]
 date: 2026-04-28
 updated: 2026-04-28

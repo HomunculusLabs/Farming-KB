@@ -1,5 +1,5 @@
 ---
-title: coleman greenhouse ventilation design Design for Mobile and Sliding Houses
+title: Coleman Greenhouse Ventilation Design
 tags:
   - farming
   - greenhouse-design

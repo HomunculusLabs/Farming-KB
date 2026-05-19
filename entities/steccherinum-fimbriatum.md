@@ -54,7 +54,7 @@ The growth form plasticity has practical implications:
 
 - **Morphological plasticity:** Demonstrates that fungal growth form is not fixed but responds to biotic conditions
 - **Indirect grazing effects:** Shows how faunal grazing indirectly alters ecosystem processes by changing fungal morphology
-- **Cord system dynamics:** Provides insights into how [[mycelial-networks]] transport nutrients across heterogeneous soil environments
+- **Cord system dynamics:** Provides insights into how [[fungal-mycelial-networks-nutrient-translocation]] transport nutrients across heterogeneous soil environments
 - **Foraging ecology:** Illustrates the trade-offs between exploration and exploitation in fungal foraging strategies
 
 ### Phosphorus Translocation

@@ -1,5 +1,5 @@
 ---
-title: "Cannabis for cannabis for hepatitis and liver conditions Conditions"
+title: "Cannabis for Hepatitis and Liver Conditions"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept

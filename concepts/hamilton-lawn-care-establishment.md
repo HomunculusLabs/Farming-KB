@@ -1,5 +1,5 @@
 ---
-title: Hamilton: hamilton lawn care establishment and Establishment
+title: Hamilton Lawn Care Establishment
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Hashish hashish binding pressing and storage techniques and Storage Techniques
+title: Hashish Binding Pressing and Storage Techniques
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

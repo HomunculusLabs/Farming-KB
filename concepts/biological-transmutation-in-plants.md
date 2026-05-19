@@ -140,4 +140,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[biological-nitrification-inhibition]]
 - [[biological-soil-indicators]]
 - [[compost]]
-- [[stamets-biological-efficiency-yield]]
+- [[biological-efficiency]]

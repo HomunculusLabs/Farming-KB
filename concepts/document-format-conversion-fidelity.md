@@ -1,5 +1,5 @@
 ---
-title: Document document format conversion fidelity Fidelity
+title: Document Format Conversion Fidelity
 created: 2026-04-28
 tags: [document-processing, format-migration, quality-assessment,
       file-formats, interoperability]

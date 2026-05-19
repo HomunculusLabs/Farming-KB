@@ -6,7 +6,7 @@ type: concept
 
 # Mycoremediation Testing Protocols
 
-Mycoremediation testing protocols are low-cost, accessible methods for evaluating the effectiveness of fungal biomass in degrading, sequestering, or filtering biological and chemical contaminants. These protocols enable growers and remediation practitioners to assess mycofiltration system efficiency without reliance on expensive laboratory instrumentation. Together, they form a practical toolkit for field-level verification that [[mycelial-networks]] are actively processing target pollutants.
+Mycoremediation testing protocols are low-cost, accessible methods for evaluating the effectiveness of fungal biomass in degrading, sequestering, or filtering biological and chemical contaminants. These protocols enable growers and remediation practitioners to assess mycofiltration system efficiency without reliance on expensive laboratory instrumentation. Together, they form a practical toolkit for field-level verification that [[fungal-mycelial-networks-nutrient-translocation]] are actively processing target pollutants.
 
 ## Eliciting Metabolic Responses from Mycelium
 

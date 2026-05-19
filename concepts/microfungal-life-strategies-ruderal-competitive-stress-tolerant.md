@@ -1,5 +1,5 @@
 ---
-title: Microfungal microfungal life strategies ruderal competitive stress tolerant — Ruderal, Competitive, and Stress-Tolerant
+title: Microfungal Life Strategies Ruderal Competitive Stress Tolerant
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "solomon shade and sunlight requirements Requirements"
+title: "Solomon Shade and Sunlight Requirements"
 created: 2026-04-28
 tags: [sunlight, shade, photosynthesis, garden-planning, microclimate]
 date: 2026-04-28

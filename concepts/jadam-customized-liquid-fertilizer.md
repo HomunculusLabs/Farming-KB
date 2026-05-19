@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam customized liquid fertilizer Fertilizer
+title: Jadam Customized Liquid Fertilizer
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

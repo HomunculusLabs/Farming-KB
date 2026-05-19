@@ -1,5 +1,5 @@
 ---
-title: Outdoor outdoor woodlover bed preparation Preparation
+title: Outdoor Woodlover Bed Preparation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

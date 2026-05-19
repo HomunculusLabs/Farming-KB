@@ -1,5 +1,5 @@
 ---
-title: La la chorrera experiment mckenna McKenna
+title: La Chorrera Experiment Mckenna
 created: 2026-04-28
 tags: [mckenna, psychedelics, experiment, stropharia]
 date: 2026-04-25

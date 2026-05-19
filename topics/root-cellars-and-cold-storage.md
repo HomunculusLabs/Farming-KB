@@ -1,5 +1,5 @@
 ---
-title: "Root root cellars and cold storage Storage"
+title: "Root Cellars and Cold Storage"
 subtitle: "Earth-tempered storage for keeping fresh crops through winter without mechanical refrigeration."
 tags: [root-cellars, cold-storage, food-preservation, homesteading, permaculture, post-harvest, vegetables]
 date: 2026-04-28

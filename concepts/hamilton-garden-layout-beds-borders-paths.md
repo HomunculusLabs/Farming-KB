@@ -1,5 +1,5 @@
 ---
-title: Hamilton: hamilton garden layout beds borders paths — Beds, Borders, Paths, and Terraces
+title: Hamilton Garden Layout Beds Borders Paths
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

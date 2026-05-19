@@ -18,7 +18,7 @@ The mapping of a fungal mycelial cord system onto a graph is conceptually straig
 
 - **Nodes (vertices)**: Branch points, junctions, anastomoses (cord fusions), and tip endpoints. Food resources colonized by the fungus are also represented as nodes, typically acting as high-degree **hub nodes**.
 - **Links (edges)**: The cords connecting pairs of nodes, representing the physical conduits through which water, nutrients, and signals are transported.
-- **Planar constraint**: Because [[mycelial-networks]] grow across two-dimensional substrates (e.g., soil surfaces, agar plates, wood surfaces), they are inherently **planar graphs** — links cannot cross one another without forming an additional junction node. This spatial constraint fundamentally shapes the topology and limits the density of connections achievable.
+- **Planar constraint**: Because [[fungal-mycelial-networks-nutrient-translocation]] grow across two-dimensional substrates (e.g., soil surfaces, agar plates, wood surfaces), they are inherently **planar graphs** — links cannot cross one another without forming an additional junction node. This spatial constraint fundamentally shapes the topology and limits the density of connections achievable.
 
 A typical *Phanerochaete velutina* colony grown in a 24 cm microcosm yields a graph of approximately 300–500 main nodes, providing a tractable yet richly connected network for analysis. The mapping is typically performed using time-lapse imaging combined with automated image analysis to trace cords and identify junctions over the course of colony development.
 

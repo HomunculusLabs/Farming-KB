@@ -1,5 +1,5 @@
 ---
-title: "Bufo bufo"
+title: "Bufo Bufo"
 type: species
 tags:
   - amphibian

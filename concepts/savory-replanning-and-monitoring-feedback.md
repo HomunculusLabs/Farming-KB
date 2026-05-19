@@ -1,5 +1,5 @@
 ---
-title: savory replanning and monitoring feedback Feedback
+title: Savory Replanning and Monitoring Feedback
 created: 2026-04-28
 tags: [holistic-management, planning, monitoring, feedback, decision-making]
 date: 2026-04-25

@@ -1,5 +1,5 @@
 ---
-title: Plant Photoreceptors and the plant photoreceptors and mechanism of light perception Perception
+title: Plant Photoreceptors and Mechanism of Light Perception
 created: 2026-04-28
 tags:
   - botany

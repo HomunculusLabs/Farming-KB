@@ -10,7 +10,7 @@ tags:
   - nutrient-cycling
   - basidiomycete
 sources:
-  - "geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment"
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 synopsis: >-
   fungal-mycelial-networks-nutrient-translocation with specialized
   cord systems that translocate nutrients over meters. These networks

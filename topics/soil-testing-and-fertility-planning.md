@@ -1,6 +1,6 @@
 ---
-title: "Soil soil testing and fertility planning Planning"
-subtitle: "Using soil analysis, holmgren-mineral-balance-soil-fertility, organic matter, and ecological design to guide long-term fertility."
+title: "Soil Testing and Fertility Planning"
+subtitle: "Using soil analysis, mineral balance, organic matter, and ecological design to guide long-term fertility"
 tags: [soil-testing, soil-fertility, minerals, organic-matter, compost, regenerative-agriculture, plant-nutrition]
 date: 2026-04-28
 updated: 2026-04-28

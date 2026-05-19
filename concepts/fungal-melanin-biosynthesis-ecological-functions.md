@@ -1,5 +1,5 @@
 ---
-title: "Fungal fungal melanin biosynthesis ecological functions and Ecological Functions"
+title: "Fungal Melanin Biosynthesis Ecological Functions"
 concept_type: biochemistry
 topic: mycology
 related: ["spalting-pigments-wood-inhabiting-fungi-chemistry", "xerophilic-xerotolerant-fungi", "acidophilic-alkalophilic-fungi"]

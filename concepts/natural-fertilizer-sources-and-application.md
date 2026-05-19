@@ -1,5 +1,5 @@
 ---
-title: Natural natural fertilizer sources and application and Application Guide
+title: Natural Fertilizer Sources and Application
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

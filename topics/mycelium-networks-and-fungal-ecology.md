@@ -1,5 +1,5 @@
 ---
-title: Mycelium mycelium networks and fungal ecology Ecology
+title: Mycelium Networks and Fungal Ecology
 subtitle: The hidden architecture of Earth's biological internet and the keystone
   role of fungi in terrestrial ecosystems
 tags: [mycelium, fungal-ecology, decomposition, mycorrhiza, wood-wide-web,

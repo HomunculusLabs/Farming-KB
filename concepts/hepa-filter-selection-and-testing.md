@@ -1,5 +1,5 @@
 ---
-title: HEPA hepa filter selection and testing and Testing for accessible-mushroom-cultivation-for-disabilities
+title: Hepa Filter Selection and Testing
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -130,7 +130,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood usage and protocol
 - [[cultivator-sterile-technique-and-agar-culture]] principles
-- [[mushroom-cultivation-contamination-troubleshooting]] and prevention
+- [[contamination-identification]] and prevention
 - [[hepa-filter]]
 - [[spore]]
 - [[teaming-with-nutrients-ph-testing-and-soil-amendment]]

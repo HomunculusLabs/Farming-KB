@@ -1,5 +1,5 @@
 ---
-title: Cannabis for cannabis for epilepsy and seizure disorders Disorders
+title: Cannabis for Epilepsy and Seizure Disorders
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

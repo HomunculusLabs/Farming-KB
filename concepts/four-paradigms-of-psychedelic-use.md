@@ -1,5 +1,5 @@
 ---
-title: Four four paradigms of psychedelic use Use
+title: Four Paradigms of Psychedelic Use
 concept_type: framework
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 tags: [psychedelic, psychotherapy, shamanism, paradigm, Metzner, entheogen, ceremonial]

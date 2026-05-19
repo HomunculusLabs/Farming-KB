@@ -1,5 +1,5 @@
 ---
-title: Seed seed starting indoors solomon (Solomon)
+title: Seed Starting Indoors Solomon
 created: 2026-04-20
 updated: 2026-04-20
 type: concept

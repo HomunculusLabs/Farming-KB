@@ -1,5 +1,5 @@
 ---
-title: Palmer on palmer fungus reproduction spawn Spawn and Cryptogamic Mystery
+title: Palmer Fungus Reproduction Spawn
 created: 2026-04-28
 tags: [mushroom-spawn, fungal-reproduction, mycelium, cryptogams, palmer]
 date: 2026-04-28

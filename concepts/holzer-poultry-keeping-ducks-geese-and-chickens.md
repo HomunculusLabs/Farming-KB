@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer poultry keeping ducks geese and chickens Ducks Geese and Chickens
+title: Holzer Poultry Keeping Ducks Geese and Chickens
 created: 2026-04-21
 updated: 2026-04-18
 type: concept

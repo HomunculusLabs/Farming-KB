@@ -1,5 +1,5 @@
 ---
-title: Essential essential amphetamines and natural precursors Precursors
+title: Essential Amphetamines and Natural Precursors
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

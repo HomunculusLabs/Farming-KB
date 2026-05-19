@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis propagation sexual vs asexual clarke vs Asexual Methods (Clarke)
+title: Cannabis Propagation Sexual vs Asexual Clarke
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

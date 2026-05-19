@@ -1,5 +1,5 @@
 ---
-title: "Carbon carbon isotope labelling mycorrhizal fatty acids in Mycorrhizal Fatty Acid Research"
+title: "Carbon Isotope Labelling Mycorrhizal Fatty Acids"
 created: 2026-04-26
 tags: [mycorrhiza, carbon-cycling, isotopes, fatty-acids, methods]
 date: 2026-04-25

@@ -1,5 +1,5 @@
 ---
-title: Formulation and formulation and delivery of fungal inocula Inocula
+title: Formulation and Delivery of Fungal Inocula
 created: 2026-04-14
 updated: 2026-04-14
 type: concept

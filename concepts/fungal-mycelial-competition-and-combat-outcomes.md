@@ -4,7 +4,7 @@
 
 [[decomposer-fungi-succession]] on
 soil and [[dighton-fungal-rhizomorphs-mycelial-cords]] increase in diameter near combat zones,
-  reinforcing resource [[mycelial-networks]]
+  reinforcing resource [[fungal-mycelial-networks-nutrient-translocation]]
 - [[dom]]
 - [[spore]]
 

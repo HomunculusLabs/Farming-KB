@@ -1,5 +1,5 @@
 ---
-title: "comparison chaga vs reishi medicinal Medicinal Profile"
+title: "Comparison Chaga vs Reishi Medicinal"
 created: 2026-04-28
 tags:
   - medicinal-mushrooms

@@ -1,5 +1,5 @@
 ---
-title: Mycetozoan mycetozoan survey methods substratum plating and Substratum Plating
+title: Mycetozoan Survey Methods Substratum Plating
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

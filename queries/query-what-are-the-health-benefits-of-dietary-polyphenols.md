@@ -1,5 +1,5 @@
 ---
-title: What Are the Health query what are the health benefits of dietary polyphenols Polyphenols and Which Foods Are the Best Sources?
+title: Query What Are the Health Benefits of Dietary Polyphenols
 tags:
   - polyphenols
   - nutrition

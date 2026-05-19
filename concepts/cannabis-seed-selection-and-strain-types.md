@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis seed selection and strain types and Strain Types
+title: Cannabis Seed Selection and Strain Types
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

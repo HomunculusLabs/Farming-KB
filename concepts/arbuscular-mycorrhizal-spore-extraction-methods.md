@@ -1,5 +1,5 @@
 ---
-title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Fungal arbuscular mycorrhizal spore extraction methods Methods
+title: Arbuscular Mycorrhizal Spore Extraction Methods
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

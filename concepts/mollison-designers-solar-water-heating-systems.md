@@ -1,5 +1,5 @@
 ---
-title: mollison designers solar water heating systems Systems
+title: Mollison Designers Solar Water Heating Systems
 created: 2026-04-28
 tags:
   - solar-energy

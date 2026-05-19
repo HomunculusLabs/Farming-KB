@@ -1,5 +1,5 @@
 ---
-title: "Oyster oyster mushroom supplemented sawdust blocks Sawdust Blocks"
+title: "Oyster Mushroom Supplemented Sawdust Blocks"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:

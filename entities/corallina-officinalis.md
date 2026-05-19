@@ -43,7 +43,7 @@ Color ranges from pale pink to deep purple-red, with branch tips often appearing
 
 ## Distribution and Habitat
 
-*Corallina officinalis* has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate and cold waters. It occurs on both sides of the North Atlantic, throughout the Mediterranean, in the North Pacific, and in the Southern Ocean around New Zealand, Australia, and South America.
+*Corallina officinalis* has a nearly [[psilocybe-semilanceata]] in temperate and cold waters. It occurs on both sides of the North Atlantic, throughout the Mediterranean, in the North Pacific, and in the Southern Ocean around New Zealand, Australia, and South America.
 
 The species is predominantly intertidal, occurring from the mid-tide level to the upper subtidal zone. It is most abundant on semi-exposed to exposed rocky shores where moderate wave action provides water motion and nutrient delivery without dislodging the plants.
 

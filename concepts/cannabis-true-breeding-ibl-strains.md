@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis true breeding ibl strains and IBL Strains
+title: Cannabis True Breeding Ibl Strains
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

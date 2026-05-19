@@ -1,5 +1,5 @@
 ---
-title: "Query: query best chestnut varieties for different climates and uses Varieties for Different Climates and Uses" tags:
+title: Query Best Chestnut Varieties for Different Climates and Uses
 type: query
 created: 2026-05-06
   - chestnut   - nut-trees

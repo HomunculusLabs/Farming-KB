@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam nature as teacher philosophy Philosophy
+title: Jadam Nature as Teacher Philosophy
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

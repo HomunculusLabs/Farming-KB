@@ -1,5 +1,5 @@
 ---
-title: Jesus jesus name etymology mushroom theories and Mushroom Theories
+title: Jesus Name Etymology Mushroom Theories
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

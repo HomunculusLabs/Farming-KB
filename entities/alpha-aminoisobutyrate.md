@@ -87,5 +87,5 @@ Monitoring protocols help track population trends and inform adaptive management
 - [[fungal-biology-fundamentals]]
 - [[fungal-mycelial-networks-nutrient-translocation]]
 - [[isotopic-tracers-mycorrhizal-research]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[phanerochaete-velutina]]

@@ -1,5 +1,5 @@
 ---
-title: "greg green temperature and humidity control Control"
+title: "Greg Green Temperature and Humidity Control"
 created: 2026-04-28
 tags: [cannabis, temperature, humidity, environment, climate]
 date: 2026-04-25

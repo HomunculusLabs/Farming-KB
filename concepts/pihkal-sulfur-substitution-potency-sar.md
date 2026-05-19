@@ -1,5 +1,5 @@
 ---
-title: PiHKAL pihkal sulfur substitution potency sar and Potency in Phenethylamine SAR
+title: Pihkal Sulfur Substitution Potency Sar
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "Lumsden-Wilson mckenna lumsden wilson gene culture coevolution Coevolution Theory"
+title: "Mckenna Lumsden Wilson Gene Culture Coevolution"
 created: 2026-04-28
 tags: [evolution, genetics, culture, gene-culture-coevolution, memetics, epigenetics, mckenna]
 date: 2026-04-28

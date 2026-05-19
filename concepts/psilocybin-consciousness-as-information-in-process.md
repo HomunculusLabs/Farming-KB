@@ -1,5 +1,5 @@
 ---
-title: Psilocybin psilocybin consciousness as information in process in Process
+title: Psilocybin Consciousness as Information in Process
 created: 2026-04-26
 updated: 2026-04-23
 sources:

@@ -1,5 +1,5 @@
 ---
-title: Turner turner cydelikspace and psychedelic reality Reality
+title: Turner Cydelikspace and Psychedelic Reality
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

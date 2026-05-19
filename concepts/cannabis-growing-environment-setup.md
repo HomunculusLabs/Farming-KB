@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis growing environment setup Setup
+title: Cannabis Growing Environment Setup
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: bill mollison permaculture a designers manual tropical grassland rehabilitation Rehabilitation
+title: Bill Mollison Permaculture a Designers Manual Tropical Grassland Rehabilitation
 source: bill-mollison-permaculture-a-designers-manual.md
 author: Bill Mollison
 topics:

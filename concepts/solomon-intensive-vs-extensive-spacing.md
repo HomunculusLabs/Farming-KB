@@ -1,5 +1,5 @@
 ---
-title: Solomon solomon intensive vs extensive spacing Spacing
+title: Solomon Intensive vs Extensive Spacing
 created: 2026-04-18
 updated: 2026-04-18
 sources: Gardening When It Counts (Steve Solomon)

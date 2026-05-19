@@ -1,5 +1,5 @@
 ---
-title: Consumer consumer versus conserver society Society
+title: Consumer Versus Conserver Society
 created: 2026-04-14
 updated: 2026-04-15
 type: concept

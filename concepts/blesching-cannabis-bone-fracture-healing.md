@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and blesching cannabis bone fracture healing Healing"
+title: "Blesching Cannabis Bone Fracture Healing"
 created: 2026-04-26
 tags:
   - cannabis

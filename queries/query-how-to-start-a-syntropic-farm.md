@@ -1,5 +1,5 @@
 ---
-title: How to query how to start a syntropic farm Farm — Frequently Asked Questions
+title: Query How to Start a Syntropic Farm
 created: 2026-04-28
 tags:
   - syntropic-agriculture

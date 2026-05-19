@@ -1,5 +1,5 @@
 ---
-title: "JADAM jadam microorganism diversity over disinfection Over Disinfection"
+title: "Jadam Microorganism Diversity Over Disinfection"
 created: 2026-04-28
 tags:
   - natural-farming

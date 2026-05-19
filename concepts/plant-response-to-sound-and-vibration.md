@@ -1,5 +1,5 @@
 ---
-title: "plant plant response to sound and vibration and vibration"
+title: "Plant Response to Sound and Vibration"
 created: 2026-04-28
 tags: [plant-biology, sound-perception, vibration, mechanosensing]
 date: 2026-04-28

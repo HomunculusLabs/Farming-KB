@@ -1,5 +1,5 @@
 ---
-title: Companion companion cultivation of mushrooms with garden vegetables with Garden Vegetables
+title: Companion Cultivation of Mushrooms With Garden Vegetables
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

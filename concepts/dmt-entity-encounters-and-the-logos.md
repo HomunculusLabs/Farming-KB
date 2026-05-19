@@ -1,5 +1,5 @@
 ---
-title: DMT dmt entity encounters and the logos and the Logos
+title: Dmt Entity Encounters and the Logos
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

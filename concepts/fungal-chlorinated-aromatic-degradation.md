@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal chlorinated aromatic degradation Compound Degradation
+title: Fungal Chlorinated Aromatic Degradation
 created: 2026-04-28
 tags: [bioremediation, chlorinated-compounds, PCB, dioxins, mycoremediation]
 date: 2026-04-25

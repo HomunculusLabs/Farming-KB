@@ -1,5 +1,5 @@
 ---
-title: Turner turner further explorations and future of psychedelics and Future of Psychedelics
+title: Turner Further Explorations and Future of Psychedelics
 created: 2026-04-13
 updated: 2026-04-15
 type: concept

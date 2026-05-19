@@ -48,7 +48,7 @@ The genus *Ulva* has undergone significant taxonomic revision with
 molecular phylogenetics. Some previously described species have been
 synonymized, and *U. lactuca* is now considered a species complex.
 
-## [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate and [[coleman-sunlight-and-winter-crop-growth-rates]] are rapid, with *Ulva* capable of doubling its biomass every
+## [[psilocybe-semilanceata]] in temperate and [[coleman-sunlight-and-winter-crop-growth-rates]] are rapid, with *Ulva* capable of doubling its biomass every
 2–3 days under optimal conditions of light, temperature, and nutrient
 availability.
 

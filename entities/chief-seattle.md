@@ -27,7 +27,7 @@ Chief Seattle (also Sealth, Si'ahl; c. 1786–1866) was a Suquamish and Duwamish
 
 ## Relevance to Cultivation and Mycology
 
-Chief Seattle's ecological philosophy aligns closely with [[mycelial-networks]] that connect plants, trees, and soil organisms in underground symbiotic relationships essential to forest health.
+Chief Seattle's ecological philosophy aligns closely with [[fungal-mycelial-networks-nutrient-translocation]] that connect plants, trees, and soil organisms in underground symbiotic relationships essential to forest health.
 
 ## Sources
 

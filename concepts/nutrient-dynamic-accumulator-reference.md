@@ -1,5 +1,5 @@
 ---
-title: Nutrient nutrient dynamic accumulator reference Reference
+title: Nutrient Dynamic Accumulator Reference
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Cho's Seed and cho seed and seedling vitality restoration Restoration
+title: Cho Seed and Seedling Vitality Restoration
 tags: [natural-farming, seed-treatment, cho-han-kyu, plant-propagation]
 date: 2026-04-28
 updated: 2026-04-28

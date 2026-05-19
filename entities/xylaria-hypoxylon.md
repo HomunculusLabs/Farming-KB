@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Xylaria hypoxylon**, commonly known as candlesnuff fungus, candlestick fungus, or stag's horn fungus, is a saprotrophic ascomycete fungus in the family Xylariaceae. It is one of the most recognizable and widely distributed pyrophilous (fire-associated) fungi in the world, commonly found on dead wood of hardwood trees in temperate and subtropical forests. Its striking black and white fruiting bodies, which resemble extinguished candle wicks, have made it a familiar sight to forest walkers. Beyond its visual distinctiveness, X. hypoxylon is of considerable scientific interest for its bioluminescent properties, production of bioactive [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate and subtropical regions:
+**Xylaria hypoxylon**, commonly known as candlesnuff fungus, candlestick fungus, or stag's horn fungus, is a saprotrophic ascomycete fungus in the family Xylariaceae. It is one of the most recognizable and widely distributed pyrophilous (fire-associated) fungi in the world, commonly found on dead wood of hardwood trees in temperate and subtropical forests. Its striking black and white fruiting bodies, which resemble extinguished candle wicks, have made it a familiar sight to forest walkers. Beyond its visual distinctiveness, X. hypoxylon is of considerable scientific interest for its bioluminescent properties, production of bioactive [[psilocybe-semilanceata]] in temperate and subtropical regions:
 
 - **Europe:** Extremely common and widespread throughout, from the Mediterranean to Scandinavia
 - **[[guzman-psilocybin-mushrooms-south-america]]:** Reported from Brazil, Argentina, and other countries

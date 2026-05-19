@@ -1,5 +1,5 @@
 ---
-title: Pleurotus tuber-regium - The growing gourmet pleurotus tuber regium african sclerotial oyster Oyster Mushroom
+title: Growing Gourmet Pleurotus Tuber Regium African Sclerotial Oyster
 created: 2026-04-26
 tags:
   - mushroom-cultivation

@@ -1,6 +1,6 @@
 ---
 title: Ergot Fungi, ergot-and-lysergic-acid-history, and the History of Ergotism
-subtitle: From quinoa-and-ancient-grain-cultivation parasites and medieval plagues to the discovery of LSD
+subtitle: From parasites and medieval plagues to the discovery of LSD
 tags: [ergot, claviceps, lysergic-acid, lsd, mycology, history, toxicology,
   psychedelics]
 date: 2026-04-28

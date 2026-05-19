@@ -29,7 +29,7 @@ fungal challenge of nitrogen shortage, as plant tissues yield sugar but negligib
 Ergotism is a classic example of poisoning by food contaminated with a
 fungal microorganism. Caused by *[[amanita-phalloides-death-cap|Amanita Phalloides (Death Cap)]]
 - [[fungal-spore-biology]](fungal-spore-biology.md)
-- [[mycelial-networks]](mycelium-network.md)
+- [[fungal-mycelial-networks-nutrient-translocation]](mycelium-network.md)
 
 ## References
 

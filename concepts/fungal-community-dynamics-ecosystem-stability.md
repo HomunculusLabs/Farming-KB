@@ -17,7 +17,7 @@ Classical ecology has largely modeled communities as products of **competitive i
 However, mounting evidence suggests that **synergistic and mutualistic interactions** among fungi have been significantly underestimated:
 
 - **Helper bacteria**: Certain bacterial communities around ectomycorrhizal roots can solubilize phosphates (Leyval and Berthelin, 1983) and facilitate mycorrhizal development as "helper bacteria" (Garbaye, 1994)
-- **[[mycelial-networks]]**: Fungi physically connect plants of different species, enabling resource sharing and blurring the boundaries between competition and cooperation
+- **[[fungal-mycelial-networks-nutrient-translocation]]**: Fungi physically connect plants of different species, enabling resource sharing and blurring the boundaries between competition and cooperation
 - **Continuum of interactions**: The relationship between fungi and other organisms spans a continuum from mutualism and symbiosis to pathogenicity, with environmental conditions potentially shifting the balance along this continuum
 
 The fundamental question remains: what is the ratio between competitive and synergistic interactions among fungi in the environment, and how have synergistic relationships been overlooked in ecosystem theory?

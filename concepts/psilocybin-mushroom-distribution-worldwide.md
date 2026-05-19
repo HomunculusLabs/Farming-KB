@@ -1,5 +1,5 @@
 ---
-title: Psilocybin psilocybin mushroom distribution worldwide Worldwide
+title: Psilocybin Mushroom Distribution Worldwide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

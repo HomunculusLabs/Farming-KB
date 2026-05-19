@@ -1,5 +1,5 @@
 ---
-title: KNF knf fish farming integration Integration
+title: Knf Fish Farming Integration
 created: 2026-04-20
 updated: 2026-04-20
 type: concept

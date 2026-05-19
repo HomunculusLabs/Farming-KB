@@ -1,5 +1,5 @@
 ---
-title: "comparison monotub vs martha tent Tent"
+title: "Comparison Monotub vs Martha Tent"
 created: 2026-04-28
 tags: [comparison, mushroom-cultivation, fruiting-chambers]
 date: 2026-04-25

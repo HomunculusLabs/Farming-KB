@@ -1,5 +1,5 @@
 ---
-title: Avocado avocado cultivation and variety guide Guide
+title: Avocado Cultivation and Variety Guide
 tags:
   - avocado
   - fruit-trees

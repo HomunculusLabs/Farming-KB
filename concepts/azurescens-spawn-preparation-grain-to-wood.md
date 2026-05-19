@@ -6,8 +6,8 @@ type: concept
 tags: [cultivation, mycology, spawn]
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - growing-psilocybe-azurescens
-  - growing-the-woodlovers-outdoors
+  - "raw/papers/growing-psilocybe-azurescens.md"
+  - "raw/papers/growing-the-woodlovers-outdoors.md"
 ---
 # Azurescens Spawn Preparation — Grain to Wood Transfer
 

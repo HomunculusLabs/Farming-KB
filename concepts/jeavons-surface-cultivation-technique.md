@@ -1,5 +1,5 @@
 ---
-title: jeavons surface cultivation technique Technique
+title: Jeavons Surface Cultivation Technique
 created: 2026-04-28
 tags: [biointensive, soil-preparation, bed-maintenance, double-digging, soil-structure]
 date: 2026-04-28

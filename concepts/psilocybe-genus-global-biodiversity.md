@@ -8,7 +8,7 @@ Psilocybe represents 54% of all known neurotropic fungal species and is the genu
 most strongly associated with recreational and traditional use worldwide. The genus
 exhibits its greatest diversity in subtropical humid forests, particularly in the
 [[fungal-biodiversity-tropical-forests]], the diversity is highest, though
-[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (Liberty Caps) — one of the most widely distributed
+[[psilocybe-semilanceata]]** (Liberty Caps) — one of the most widely distributed
   species, found across Europe, North America, and parts of Asia. It is the most
   common wild [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** (Wavy Caps) — found in the [[psilocybe-azurescens]]** — restricted to the Pacific Northwest coast of North
   America, particularly Oregon

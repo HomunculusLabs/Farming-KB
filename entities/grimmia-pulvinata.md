@@ -45,7 +45,7 @@ Capsules are produced frequently in response to moist conditions. The seta is sh
 
 ## Distribution and Habitat
 
-G. pulvinata has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate regions. It occurs throughout Europe, [[guzman-psilocybin-mushrooms-north-america]], East Asia, and parts of Africa, South America, and Australasia.
+G. pulvinata has a nearly [[psilocybe-semilanceata]] in temperate regions. It occurs throughout Europe, [[guzman-psilocybin-mushrooms-north-america]], East Asia, and parts of Africa, South America, and Australasia.
 
 The species is less common [[fukuoka-natural-farming-in-tropical-regions]] but occurs at montane elevations in Southeast Asia and [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], populations are established in New Zealand, southeastern Australia, and southern South America.
 

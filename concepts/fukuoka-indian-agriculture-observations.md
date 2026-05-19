@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka fukuoka indian agriculture observations Observations"
+title: "Fukuoka Indian Agriculture Observations"
 created: 2026-04-18
 updated: 2026-04-20
 type: concept

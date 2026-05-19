@@ -5,7 +5,7 @@
 Most surveyed wastes fall within C/N ratios of **32–600** and pH of **5.0–7.5** (Poppe, 2000). Key implications:
 
 - High C/N substrates (like sawdust at C/N=244) require **nitrogen supplementation** via wheat or rice bran
-- Legume straws naturally higher in nitrogen s [[stamets-biological-efficiency-yield]]** (Pani et al., 1997). Soybean husks and straw also good for *P. ostreatus* in Yugoslavia
+- Legume straws naturally higher in nitrogen s [[biological-efficiency]]** (Pani et al., 1997). Soybean husks and straw also good for *P. ostreatus* in Yugoslavia
 - **Pea straw** (*Pisum* sp.): 43% cellulose, 15% lignin, 0.9% N, C/N=45. Good basic substrate for *Pleurotus*
 - **Bean pods and straw**: Useful as substrate component or in bulk for *Pleurotus* (Poppe et al., 1995)
 - **French bean haulms**: For *Pleurotus* (Sohi et al., 1989)

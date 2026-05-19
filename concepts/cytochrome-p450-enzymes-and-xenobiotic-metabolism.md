@@ -1,5 +1,5 @@
 ---
-title: "Cytochrome P450 cytochrome p450 enzymes and xenobiotic metabolism Metabolism"
+title: "Cytochrome P450 Enzymes and Xenobiotic Metabolism"
 created: 2026-04-28
 updated: 2026-05-06
 aliases:

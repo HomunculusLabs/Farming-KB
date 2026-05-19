@@ -1,5 +1,5 @@
 ---
-title: "dighton aboveground herbivory mycorrhizal effects Effects on Mycorrhizal Communities"
+title: "Dighton Aboveground Herbivory Mycorrhizal Effects"
 created: 2026-04-28
 tags:
   - herbivory

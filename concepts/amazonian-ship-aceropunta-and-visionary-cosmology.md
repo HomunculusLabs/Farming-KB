@@ -1,5 +1,5 @@
 ---
-title: Amazonian amazonian ship aceropunta and visionary cosmology and Visionary Cosmology
+title: Amazonian Ship Aceropunta and Visionary Cosmology
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

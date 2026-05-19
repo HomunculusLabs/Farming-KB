@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka spider swarm natural predator balance and fukuoka-natural-predator-protection Balance
+title: Fukuoka Spider Swarm Natural Predator Balance
 tags: [fukuoka, natural-farming, pest-control, spiders, ecology, biological-control]
 date: 2026-04-28
 updated: 2026-04-28

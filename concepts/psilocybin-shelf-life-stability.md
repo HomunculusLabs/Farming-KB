@@ -1,5 +1,5 @@
 ---
-title: Psilocybin psilocybin shelf life stability and Stability
+title: Psilocybin Shelf Life Stability
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

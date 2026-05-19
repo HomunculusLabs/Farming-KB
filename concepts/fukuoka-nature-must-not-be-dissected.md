@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka fukuoka nature must not be dissected Not Be Dissected"
+title: "Fukuoka Nature Must Not Be Dissected"
 created: 2026-04-28
 tags:
   - natural-farming

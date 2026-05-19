@@ -1,5 +1,5 @@
 ---
-title: "Cannabis for cannabis for diabetes and metabolic syndrome Syndrome"
+title: "Cannabis for Diabetes and Metabolic Syndrome"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept

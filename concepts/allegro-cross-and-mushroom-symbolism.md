@@ -1,5 +1,5 @@
 ---
-title: The allegro cross and mushroom symbolism Symbolism (Allegro)
+title: Allegro Cross and Mushroom Symbolism
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

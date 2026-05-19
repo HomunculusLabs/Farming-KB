@@ -1,5 +1,5 @@
 ---
-title: Permaculture permaculture difficult sites plant guide Plant Guide
+title: Permaculture Difficult Sites Plant Guide
 created: 2026-04-14
 updated: 2026-04-14
 type: concept

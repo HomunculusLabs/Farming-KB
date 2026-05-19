@@ -1,5 +1,5 @@
 ---
-title: Mollison mollison guild analysis and species interaction And Species Interaction
+title: Mollison Guild Analysis and Species Interaction
 created: 2026-04-26
 tags:
   - permaculture

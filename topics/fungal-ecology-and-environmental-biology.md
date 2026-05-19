@@ -1,6 +1,6 @@
 ---
 title: "Fungal Ecology and Environmental Biology"
-subtitle: "A comprehensive synthesis of fungal roles in ecosystems, from decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] to bioremediation, geomycology, and global biogeochemical cycles"
+subtitle: "A comprehensive synthesis of fungal roles in ecosystems, from decomposition and nutrient cycling to symbiosis and pathogenesis"
 tags: [fungi, ecology, decomposition, bioremediation, geomycology, mycology, soil-biology, biogeochemistry, environmental-science]
 date: 2026-05-09
 updated: 2026-05-09

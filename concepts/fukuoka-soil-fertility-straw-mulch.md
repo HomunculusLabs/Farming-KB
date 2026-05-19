@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Soil fukuoka soil fertility straw mulch Mulch
+title: Fukuoka Soil Fertility Straw Mulch
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

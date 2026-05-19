@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam crop residue fertilizer as Fertilizer
+title: Jadam Crop Residue Fertilizer
 created: 2026-04-18
 updated: 2026-04-20
 type: concept

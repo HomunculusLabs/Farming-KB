@@ -1,5 +1,5 @@
 ---
-title: Core core endorhiza bacterial community composition cannabis Community Composition in Cannabis
+title: Core Endorhiza Bacterial Community Composition Cannabis
 tags:
   - cannabis
   - microbiome

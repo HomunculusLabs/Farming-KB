@@ -1,5 +1,5 @@
 ---
-title: "Antifungal antifungal secondary metabolites coprophilous fungi from Coprophilous Fungi"
+title: "Antifungal Secondary Metabolites Coprophilous Fungi"
 created: 2026-04-26
 tags:
   - mycology

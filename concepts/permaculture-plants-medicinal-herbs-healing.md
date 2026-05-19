@@ -1,5 +1,5 @@
 ---
-title: Permaculture permaculture plants medicinal herbs healing and Healing Plants
+title: Permaculture Plants Medicinal Herbs Healing
 created: 2026-04-26
 updated: 2026-04-24
 sources:

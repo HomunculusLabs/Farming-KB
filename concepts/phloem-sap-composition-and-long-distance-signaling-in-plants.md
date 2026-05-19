@@ -1,5 +1,5 @@
 ---
-title: Phloem phloem sap composition and long distance signaling in plants and Long Distance Signaling in Plants
+title: Phloem Sap Composition and Long Distance Signaling in Plants
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: The Profanation of 415 BC and Historical the profanation of 415 bc and evidence for eleusinian psychoactivity Psychoactivity
+title: The Profanation of 415 Bc and Evidence for Eleusinian Psychoactivity
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

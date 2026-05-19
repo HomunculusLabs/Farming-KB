@@ -9,7 +9,7 @@ type: concept
 ---
 # Spawn Rate Optimization in Mushroom Cultivation
 
-Spawn rate, the ratio of [[stamets-biological-efficiency-yield]], and
+Spawn rate, the ratio of [[biological-efficiency]], and
 overall economics. Finding the optimal spawn rate is a balance between
 maximizing yield and minimizing cost.
 

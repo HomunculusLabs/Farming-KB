@@ -1,5 +1,5 @@
 ---
-title: mckenna ecstasy as social catalyst Catalyst in Shamanic Mushroom Rituals
+title: Mckenna Ecstasy as Social Catalyst
 created: 2026-04-28
 tags:
   - anthropology

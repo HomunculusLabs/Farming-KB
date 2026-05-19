@@ -1,5 +1,5 @@
 ---
-title: Fungal Indicators Soil fungal indicators soil quality ecosystem health Health
+title: Fungal Indicators Soil Quality Ecosystem Health
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

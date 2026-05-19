@@ -1,5 +1,5 @@
 ---
-title: Chestnut as mollison designers chestnut as multipurpose tree crop Crop
+title: Mollison Designers Chestnut as Multipurpose Tree Crop
 created: 2026-04-26
 tags:
   - permaculture

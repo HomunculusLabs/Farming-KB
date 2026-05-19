@@ -1,5 +1,5 @@
 ---
-title: Historical historical mushroom manure sources Sources and Selection
+title: Historical Mushroom Manure Sources
 slug: historical-mushroom-manure-sources
 source: William Falconer, Mushrooms: How to Grow Them (1891)
 tags: [horse-manure, mushroom-compost, historical-agriculture, mule-manure, cellar-manure, stable-manure, manure-selection]

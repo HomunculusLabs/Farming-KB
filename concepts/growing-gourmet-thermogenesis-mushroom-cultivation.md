@@ -1,5 +1,5 @@
 ---
-title: Growing growing gourmet thermogenesis mushroom cultivation accessible-mushroom-cultivation-for-disabilities
+title: Growing Gourmet Thermogenesis Mushroom Cultivation
 created: 2026-04-26
 tags:
   - mycology

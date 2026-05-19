@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal bioremediation formulation delivery Delivery
+title: Fungal Bioremediation Formulation Delivery
 created: 2026-04-28
 tags: [bioremediation, formulation, bioaugmentation, delivery, inoculum]
 date: 2026-04-25

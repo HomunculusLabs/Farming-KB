@@ -26,7 +26,7 @@ Brisbane at Indooroopilly, Brisbane, Carboolture, and Beechmont, Queensland;
 and Hobart, Tasmania. Gregarious, rarely solitary or scattered, on cow dung,
 sometimes on rich pasture soils. *P. cubensis* is the most popular of these
 species and is well known throughout much of the world. It was first
-documented as a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] and occurs in the
+documented as a [[psilocybe-semilanceata]] and occurs in the
 tropics and neotropics of both hemispheres. Common in the dung of cows,
 water buffalo, and sometimes horses. Known for its intense blue-staining
 reaction and relatively high potency. The epithet "blue meanies" refers to

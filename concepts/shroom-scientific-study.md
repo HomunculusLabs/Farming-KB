@@ -34,7 +34,7 @@ The identification of the Liberty Cap as a psychoactive species was
 made in the late 1960s. The American mycologist Dr Rolf Singer stumbled
 across an episode in James Sowerby's Coloured Plates of English Fungi
 (1797-1815) in which a British mycological society had tested the
-effects of what were certainly Liberty Caps, [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]].
+effects of what were certainly Liberty Caps, [[psilocybe-semilanceata]].
 Nineteenth-century advances in microscopy and fungal taxonomy eventually
 allowed scientists to reclassify the species accurately.
 

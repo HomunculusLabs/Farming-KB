@@ -68,7 +68,7 @@ identification feature after the yellowing reaction.
 
 ## Distribution and Habitat
 
-*A. xanthodermus* has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] and is found across temperate and
+*A. xanthodermus* has a [[psilocybe-semilanceata]] and is found across temperate and
 subtropical regions worldwide. It is particularly common in Europe, [[guzman-psilocybin-mushrooms-north-america]],
 Australia, and parts of Asia. Originally described from Europe, the species complex
 has since been recognized as containing multiple cryptic taxa.

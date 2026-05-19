@@ -1,5 +1,5 @@
 ---
-title: "Cervantes - cervantes downy mildew fungal blight, Blight, and Foliar Fungal Diseases"
+title: "Cervantes Downy Mildew Fungal Blight"
 created: 2026-04-26
 tags: [cannabis, fungal-disease, downy-mildew, blight, foliar-disease]
 date: 2026-04-25

@@ -1,5 +1,5 @@
 ---
-title: Iboga and the iboga and the bwiti cult initiation Initiation
+title: Iboga and the Bwiti Cult Initiation
 created: 2026-04-28
 tags: [ethnobotany, iboga, ibogaine, african-shamanism, initiation]
 date: 2026-04-25

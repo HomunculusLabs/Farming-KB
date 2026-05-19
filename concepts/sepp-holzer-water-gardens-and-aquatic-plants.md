@@ -1,5 +1,5 @@
 ---
-title: Sepp sepp holzer water gardens and aquatic plants and Aquatic Plant Systems
+title: Sepp Holzer Water Gardens and Aquatic Plants
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

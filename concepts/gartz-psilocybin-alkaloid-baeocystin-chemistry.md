@@ -33,7 +33,7 @@ The three principal indole alkaloids found in psychoactive mushrooms are:
 - **Psilocybin** (4-PO-DMT): The phosphate ester of psilocin and the
   primary psychoactive compound. It is remarkably stable as part of dried
   mushroom material. Gartz notes that psilocybin's decay rate is slowest
-  in [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] samples. The
+  in [[psilocybe-semilanceata]] samples. The
 presence of this additional psychoactive compound may explain the
 discrepancy between measured psilocybin content and experienced potency.
 

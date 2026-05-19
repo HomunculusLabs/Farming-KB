@@ -1,5 +1,5 @@
 ---
-title: Dominator dominator culture and partnership society Society
+title: Dominator Culture and Partnership Society
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

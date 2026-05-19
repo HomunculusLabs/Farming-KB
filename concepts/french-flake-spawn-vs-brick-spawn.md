@@ -1,5 +1,5 @@
 ---
-title: French french flake spawn vs brick spawn Versus English Brick Spawn
+title: French Flake Spawn vs Brick Spawn
 slug: french-flake-spawn-vs-brick-spawn
 source: william-falconer, Mushrooms: How to Grow Them (1891)
 tags: [mushroom-spawn, brick-spawn, flake-spawn, french-spawn, english-spawn, spawn-making, historical-mycology]

@@ -1,5 +1,5 @@
 ---
-title: comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive as medicinal mushrooms biological response modifiers Modifiers
+title: Medicinal Mushrooms Biological Response Modifiers
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

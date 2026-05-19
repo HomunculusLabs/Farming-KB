@@ -1,5 +1,5 @@
 ---
-title: Cannabis for cannabis for libido and sexual function Function
+title: Cannabis for Libido and Sexual Function
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Growing growing sweet corn organically Organically
+title: Growing Sweet Corn Organically
 created: 2026-04-14
 updated: 2026-04-15
 type: concept

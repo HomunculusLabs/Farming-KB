@@ -1,12 +1,12 @@
 ---
-title: Woodlovers woodlovers outdoor alder chip method Chip Method
+title: Woodlovers Outdoor Alder Chip Method
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
 tags: [cultivation, mycology, outdoor]
 sources:
-  - growing-psilocybe-azurescens
-  - growing-the-woodlovers-outdoors
+  - "raw/papers/growing-psilocybe-azurescens.md"
+  - "raw/papers/growing-the-woodlovers-outdoors.md"
 ---
 # Woodlovers Outdoor Alder Chip Method
 

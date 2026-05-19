@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Mycelial cords (also called rhizomorphs in some species) are specialized, aggregated hyphal structures formed by many basidiomycete fungi that function as high-conductivity transport channels within [[mycelial-networks]]. These cord-like structures develop when individual hyphae align, aggregate, and differentiate into organized bundles capable of efficiently transporting water, nutrients, and carbon compounds over distances ranging from centimeters to many meters. Mycelial cords are central to the foraging and nutrient redistribution strategies of both saprotrophic and [[ectomycorrhizal-fungi]] in forest ecosystems.
+Mycelial cords (also called rhizomorphs in some species) are specialized, aggregated hyphal structures formed by many basidiomycete fungi that function as high-conductivity transport channels within [[fungal-mycelial-networks-nutrient-translocation]]. These cord-like structures develop when individual hyphae align, aggregate, and differentiate into organized bundles capable of efficiently transporting water, nutrients, and carbon compounds over distances ranging from centimeters to many meters. Mycelial cords are central to the foraging and nutrient redistribution strategies of both saprotrophic and [[ectomycorrhizal-fungi]] in forest ecosystems.
 
 ## Classification
 
@@ -79,4 +79,4 @@ Monitoring protocols help track population trends and inform adaptive management
 - [[mycelial-cord]]
 - [[mycelial-network-graph-theory-analysis]]
 - [[mycelial-network-structure]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]

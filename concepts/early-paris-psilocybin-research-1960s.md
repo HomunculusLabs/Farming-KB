@@ -1,5 +1,5 @@
 ---
-title: "Early early paris psilocybin research 1960s Research (1960s)"
+title: "Early Paris Psilocybin Research 1960s"
 created: 2026-04-26
 tags:
   - history

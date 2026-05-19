@@ -1,5 +1,5 @@
 ---
-title: Plant chamovitz plant photoreceptors beyond phytochrome Phytochrome
+title: Chamovitz Plant Photoreceptors Beyond Phytochrome
 source: what-a-plant-knows-daniel-chamovitz.md
 tags: [botany, photobiology, photoreceptors, cryptochrome, phototropin, plants]
 ---

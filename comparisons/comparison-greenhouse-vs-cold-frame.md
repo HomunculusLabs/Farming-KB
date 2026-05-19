@@ -1,5 +1,5 @@
 ---
-title: "comparison greenhouse vs cold frame Frame"
+title: "Comparison Greenhouse vs Cold Frame"
 created: 2026-04-28
 tags: [comparison, season-extension, structures, growing-infrastructure]
 date: 2026-04-25

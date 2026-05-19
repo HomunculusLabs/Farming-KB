@@ -1,5 +1,5 @@
 ---
-title: "growing gourmet shaggy mane coprinus cultivation Cultivation (Coprinus comatus)"
+title: "Growing Gourmet Shaggy Mane Coprinus Cultivation"
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -49,7 +49,7 @@ colonized in two weeks with cottony, non-rhizomorphic mycelium. A
 moist casing (peat moss/gypsum) layer is applied. After 10 days,
 mycelium reaches through the casing surface. Lower temperature,
 increase watering, and introduce light to stimulate fruiting.
-Yields increase substantially if the [[stamets-biological-efficiency-yield]], though lower
+Yields increase substantially if the [[biological-efficiency]], though lower
 than manure compost which often exceeds 100% BE. Mushrooms should be
 picked before the slightest hint of gills turning black. Young
 shaggy manes can be thinly sliced and quickly dried. Freeze drying

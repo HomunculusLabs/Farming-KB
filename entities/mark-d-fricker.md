@@ -97,5 +97,5 @@ Contemporary cultural relevance continues in traditional, recreational, and rese
 - [[fungal-mycelial-networks-nutrient-translocation]]
 - [[mark-shepard]]
 - [[mycelial-network-structure]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[phanerochaete-velutina]]

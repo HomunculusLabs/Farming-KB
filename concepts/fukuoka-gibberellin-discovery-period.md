@@ -1,5 +1,5 @@
 ---
-title: fukuoka gibberellin discovery period Period in Fukuoka's Life
+title: Fukuoka Gibberellin Discovery Period
 created: 2026-04-28
 tags:
   - history-of-science

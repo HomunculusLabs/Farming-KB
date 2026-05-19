@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal sclerotia and resting structures Structures
+title: Fungal Sclerotia and Resting Structures
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

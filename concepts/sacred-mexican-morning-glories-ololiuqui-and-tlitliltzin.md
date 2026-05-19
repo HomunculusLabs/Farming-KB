@@ -1,5 +1,5 @@
 ---
-title: "Sacred sacred mexican morning glories ololiuqui and tlitliltzin Glories: Ololiuqui and Tlitliltzin"
+title: "Sacred Mexican Morning Glories Ololiuqui and Tlitliltzin"
 created: "2026-04-17"
 updated: "2026-04-17"
 type: concept

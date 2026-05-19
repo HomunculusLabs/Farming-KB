@@ -1,5 +1,5 @@
 ---
-title: Challenge Microorganisms for challenge microorganisms microwave surface sterilization Sterilization
+title: Challenge Microorganisms Microwave Surface Sterilization
 tags:
   - sterilization
   - microwave

@@ -1,5 +1,5 @@
 ---
-title: "cultivator contaminants of mushroom culture Culture Identification and Control"
+title: "Cultivator Contaminants of Mushroom Culture"
 created: 2026-04-28
 tags: [mushroom-cultivation, contaminants, mold-identification, disease-control, mycology]
 date: 2026-04-25

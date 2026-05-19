@@ -10,7 +10,7 @@ sources:
   - ingham
   - singh
   - dighton
-  - teaming-with-microbes
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
 related_concepts:
   - bacterial-vs-fungal-soil
   - bacterial-to-fungal-soil-succession

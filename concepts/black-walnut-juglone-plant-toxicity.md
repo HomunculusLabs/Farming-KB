@@ -1,5 +1,5 @@
 ---
-title: Black black walnut juglone plant toxicity Plant Toxicity
+title: Black Walnut Juglone Plant Toxicity
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

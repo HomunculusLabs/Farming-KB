@@ -1,5 +1,5 @@
 ---
-title: Plant plant life rhythms pulsatory growth and Pulsatory Growth
+title: Plant Life Rhythms Pulsatory Growth
 created: 2026-04-28
 tags: [plant-physiology, growth-rhythms, bose, secret-life-of-plants, crescograph]
 date: 2026-04-25

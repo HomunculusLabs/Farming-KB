@@ -1,5 +1,5 @@
 ---
-title: Ancient ancient greek mystery cults comparison Cults Comparison
+title: Ancient Greek Mystery Cults Comparison
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: jadam jadam microbe culturing stages and indicators stages and indicators
+title: Jadam Microbe Culturing Stages and Indicators
 created: 2026-04-28
 tags: [jadam, microorganism-culturing, fermentation-stages, jms-production]
 date: 2026-04-25

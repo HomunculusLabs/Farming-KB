@@ -1,5 +1,5 @@
 ---
-title: Mushroom mushroom hematopoietic restoration post chemo Post-Chemotherapy
+title: Mushroom Hematopoietic Restoration Post Chemo
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

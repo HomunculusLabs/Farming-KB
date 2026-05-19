@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka western eastern philosophy agriculture Philosophy Agriculture
+title: Fukuoka Western Eastern Philosophy Agriculture
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Trellis trellis shadehouse design mollison Mollison
+title: Trellis Shadehouse Design Mollison
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

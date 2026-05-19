@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis sativa morphology and plant architecture and Plant Architecture
+title: Cannabis Sativa Morphology and Plant Architecture
 created: 2026-04-28
 tags: [cannabis, botany, sativa, morphology, plant-science]
 date: 2026-04-28

@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam customized microorganism medium Medium
+title: Jadam Customized Microorganism Medium
 created: 2026-04-14
 updated: 2026-04-14
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "Oss & Oeric: oss oeric harvesting and crop management Management"
+title: "Oss Oeric Harvesting and Crop Management"
 created: 2026-04-28
 tags: [mycology, harvesting, crop-management, fruiting, oss-oeric]
 date: 2026-04-28

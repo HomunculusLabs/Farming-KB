@@ -1,5 +1,5 @@
 ---
-title: Truffle truffle evolution and hypogeous fungi Fungi
+title: Truffle Evolution and Hypogeous Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

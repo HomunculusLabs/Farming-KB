@@ -1,5 +1,5 @@
 ---
-title: "comparison Organic Vs Chemical Fertilizers And Manure Quality amendments Amendments"
+title: "Comparison Organic vs Chemical Amendments"
 created: 2026-04-28
 tags: [comparison, cannabis, nutrients, fertilizers, soil-amendments]
 date: 2026-04-25

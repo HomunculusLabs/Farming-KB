@@ -1,5 +1,5 @@
 ---
-title: Natural Plasters and natural plasters and earthen wall finishes Finishes
+title: Natural Plasters and Earthen Wall Finishes
 tags:
   - natural-building
   - plaster

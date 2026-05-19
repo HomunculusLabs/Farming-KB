@@ -1,5 +1,5 @@
 ---
-title: Ehrlich ehrlich reagent tryptamine detection tlc mycology Detection Tlc Mycology
+title: Ehrlich Reagent Tryptamine Detection Tlc Mycology
 source: concise-large-scale-synthesis-of-and-shirota-hakamata-goda.md
 topic: analytical-chemistry
 tags: [analytical-chemistry, tryptamine, ehrlich-reagent, tlc, psilocin, psilocybin, detection, forensic]

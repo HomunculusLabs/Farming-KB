@@ -1,5 +1,5 @@
 ---
-title: Medicinal medicinal mushroom antioxidant anti inflammatory and Anti-inflammatory Properties
+title: Medicinal Mushroom Antioxidant Anti Inflammatory
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Energy energy descent action planning Planning
+title: Energy Descent Action Planning
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

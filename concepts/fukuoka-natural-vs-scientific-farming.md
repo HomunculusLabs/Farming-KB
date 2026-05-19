@@ -1,5 +1,5 @@
 ---
-title: fukuoka natural vs scientific farming Farming
+title: Fukuoka Natural vs Scientific Farming
 created: 2026-04-18
 updated: 2026-04-20
 type: concept

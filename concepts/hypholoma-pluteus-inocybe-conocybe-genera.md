@@ -1,5 +1,5 @@
 ---
-title: Hypholoma hypholoma pluteus inocybe conocybe genera and Conocybe Genera
+title: Hypholoma Pluteus Inocybe Conocybe Genera
 created: 2026-04-28
 tags:
   - mycology

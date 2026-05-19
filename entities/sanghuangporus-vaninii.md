@@ -63,7 +63,7 @@ Polyphenolic compounds, including hispidin and its oligomers, contribute to the 
 
 Sesquiterpenoids, sterols, and [[fukuoka-matsutake-artificial-cultivation-attempt]] has been attempted on various hardwood substrates including oak and mulberry sawdust, supplemented with wheat bran and calcium carbonate.
 
-Optimal [[stamets-biological-efficiency-yield]] on [[comparison-liquid-culture-vs-grain-spawn]] fermentation offers a more practical approach for producing mycelial biomass and extracellular polysaccharides. Optimal fermentation conditions include 28°C, pH 5.5–6.0, with agitation at 150 rpm. Polysaccharide yields in submerged culture reach 2–4 g/L.
+Optimal [[biological-efficiency]] on [[comparison-liquid-culture-vs-grain-spawn]] fermentation offers a more practical approach for producing mycelial biomass and extracellular polysaccharides. Optimal fermentation conditions include 28°C, pH 5.5–6.0, with agitation at 150 rpm. Polysaccharide yields in submerged culture reach 2–4 g/L.
 
 Conservation concerns have prompted research into sustainable harvesting practices and improved cultivation techniques for all sanghuang species.
 

@@ -1,5 +1,5 @@
 ---
-title: permaculture designers manual climatic zones tropical: Tropical
+title: Permaculture Designers Manual Climatic Zones Tropical
 created: 2026-04-18
 updated: 2026-05-09
 type: concept

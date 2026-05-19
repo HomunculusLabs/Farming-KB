@@ -1,5 +1,5 @@
 ---
-title: "Naja naja"
+title: "Naja Naja"
 type: species
 tags:
   - reptile

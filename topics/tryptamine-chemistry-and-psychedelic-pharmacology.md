@@ -1,5 +1,5 @@
 ---
-title: "Tryptamine tryptamine chemistry and psychedelic pharmacology Pharmacology"
+title: "Tryptamine Chemistry and Psychedelic Pharmacology"
 subtitle: "The molecular biology, biosynthesis, structure-activity relationships, and pharmacology of psychedelic tryptamine compounds"
 tags: [chemistry, pharmacology, tryptamine, psilocybin, DMT, biosynthesis, shulgin]
 date: 2026-04-28

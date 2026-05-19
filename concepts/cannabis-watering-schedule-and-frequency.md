@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis watering schedule and frequency And Frequency
+title: Cannabis Watering Schedule and Frequency
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

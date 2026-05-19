@@ -1,5 +1,5 @@
 ---
-title: "Fungal fungal stable isotope ecology Ecology"
+title: "Fungal Stable Isotope Ecology"
 created: 2026-04-26
 tags:
   - mycology

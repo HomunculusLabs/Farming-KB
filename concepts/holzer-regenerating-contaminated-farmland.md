@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer regenerating contaminated farmland Farmland
+title: Holzer Regenerating Contaminated Farmland
 created: 2026-04-26
 tags:
   - soil-regeneration

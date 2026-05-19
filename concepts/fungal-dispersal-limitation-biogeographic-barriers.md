@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal dispersal limitation biogeographic barriers and Biogeographic Barriers
+title: Fungal Dispersal Limitation Biogeographic Barriers
 created: 2026-04-26
 tags:
   - fungal-biogeography

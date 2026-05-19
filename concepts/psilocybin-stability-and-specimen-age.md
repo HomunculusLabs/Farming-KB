@@ -23,7 +23,7 @@ by Guzmán during fieldwork in Oaxaca, Mexico in 1958. While sleeping in a small
 closed-door room filled with freshly collected or semi-fermented specimens of
 [[herbarium-specimens-fungal-collections]] follows a clear
 time-dependent pattern. Ohenoja et al. (1987) measured psilocybin content in
-herbarium specimens of [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] of different ages:
+herbarium specimens of [[psilocybe-semilanceata]] of different ages:
 
 - **1869 specimen**: 0.014% dry weight
 - **1954 specimen**: 0.67% dry weight

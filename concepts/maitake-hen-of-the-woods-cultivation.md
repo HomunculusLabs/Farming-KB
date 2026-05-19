@@ -28,7 +28,7 @@ Maitake is among the more difficult gourmet mushrooms to cultivate indoors. The 
 ## Cultivation Method: Supplemented Sawdust Blocks
 - Substrate: hardwood sawdust (oak preferred) supplemented with 20-30% bran (rice bran or wheat bran)
 - Container: heat-resistant polypropylene bags or bottles
-- Sterilization: autoclave or [[stamets-biological-efficiency-yield]]: 50-100% on supplemented sawdust (moderate)
+- Sterilization: autoclave or [[biological-efficiency]]: 50-100% on supplemented sawdust (moderate)
 - Typically 1-2 flushes per block; second flush often weak
 - Market price is premium, offsetting lower yields compared to oysters
 

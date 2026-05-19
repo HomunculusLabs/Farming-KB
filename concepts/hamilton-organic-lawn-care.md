@@ -1,5 +1,5 @@
 ---
-title: hamilton organic lawn care Care Alternatives
+title: Hamilton Organic Lawn Care
 created: 2026-04-26
 author: Geoff Hamilton
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md

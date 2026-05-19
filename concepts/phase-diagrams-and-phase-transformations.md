@@ -1,5 +1,5 @@
 ---
-title: Phase phase diagrams and phase transformations Transformations
+title: Phase Diagrams and Phase Transformations
 type: concept
 aliases: [phase diagram, phase equilibria, Gibbs phase rule, eutectic, peritectic, TTT diagram, CCT diagram, precipitation hardening, CALPHAD]
 tags: [physics, materials-science, thermodynamics, metallurgy, phase-transformations, alloy-design, engineering]

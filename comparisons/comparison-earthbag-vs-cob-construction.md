@@ -1,5 +1,5 @@
 ---
-title: "comparison earthbag vs cob construction Construction"
+title: "Comparison Earthbag vs Cob Construction"
 tags: [comparison, earthbag, cob, natural-building]
 date: 2026-04-28
 updated: 2026-04-28

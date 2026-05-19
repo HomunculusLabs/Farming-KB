@@ -1,5 +1,5 @@
 ---
-title: KNF knf chicken house design Design
+title: Knf Chicken House Design
 created: 2026-04-20
 updated: 2026-04-20
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal radionuclide accumulation and bioremediation and Bioremediation
+title: Fungal Radionuclide Accumulation and Bioremediation
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

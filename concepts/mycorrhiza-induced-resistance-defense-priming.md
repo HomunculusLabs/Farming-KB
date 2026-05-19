@@ -1,5 +1,5 @@
 ---
-title: "Mycorrhiza mycorrhiza induced resistance defense priming Defense Priming"
+title: "Mycorrhiza Induced Resistance Defense Priming"
 created: 2026-04-28
 tags:
   - plant-defense

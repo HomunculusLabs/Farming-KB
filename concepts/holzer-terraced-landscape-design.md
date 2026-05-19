@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer terraced landscape design Design
+title: Holzer Terraced Landscape Design
 created: 2026-04-26
 updated: 2026-04-23
 sources:

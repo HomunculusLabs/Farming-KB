@@ -1,5 +1,5 @@
 ---
-title: Ergosterol as a ergosterol fungal drug target Target
+title: Ergosterol Fungal Drug Target
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

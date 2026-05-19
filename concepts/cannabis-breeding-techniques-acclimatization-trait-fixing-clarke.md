@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis breeding techniques acclimatization trait fixing clarke Acclimatization and Trait Fixing (Clarke)
+title: Cannabis Breeding Techniques Acclimatization Trait Fixing Clarke
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

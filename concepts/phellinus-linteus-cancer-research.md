@@ -1,5 +1,5 @@
 ---
-title: Phellinus phellinus linteus cancer research Research
+title: Phellinus Linteus Cancer Research
 created: 2026-04-26
 updated: 2026-04-23
 sources:

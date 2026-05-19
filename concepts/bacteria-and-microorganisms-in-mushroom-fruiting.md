@@ -1,5 +1,5 @@
 ---
-title: Bacteria and bacteria and microorganisms in mushroom fruiting Fruiting
+title: Bacteria and Microorganisms in Mushroom Fruiting
 created: 2026-04-16
 updated: 2026-04-18
 type: concept

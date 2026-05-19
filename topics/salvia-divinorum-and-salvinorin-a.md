@@ -1,6 +1,6 @@
 ---
-title: "Salvia salvia divinorum and salvinorin a A"
-subtitle: "The ethnobotany, pharmacology, and shroom-cultural-history-hippie-revolution-and-counterculture of diviner's sage."
+title: "Salvia Divinorum and Salvinorin a"
+subtitle: "The ethnobotany, pharmacology, and cultural history of diviner's sage"
 tags: [salvia, salvinorin, ethnobotany, psychedelics, mazatec, pharmacology]
 date: 2026-04-28
 updated: 2026-04-28

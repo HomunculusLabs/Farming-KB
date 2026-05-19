@@ -1,5 +1,5 @@
 ---
-title: "comparison brassica vs nightshade gardening Gardening"
+title: "Comparison Brassica vs Nightshade Gardening"
 created: 2026-04-28
 tags: [comparison, brassicas, nightshades, vegetable-gardening, cool-season, warm-season]
 date: 2026-04-28

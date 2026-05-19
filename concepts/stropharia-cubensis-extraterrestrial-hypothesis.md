@@ -1,5 +1,5 @@
 ---
-title: "Stropharia stropharia cubensis extraterrestrial hypothesis Hypothesis"
+title: "Stropharia Cubensis Extraterrestrial Hypothesis"
 created: 2026-04-28
 tags: [stropharia-cubensis, extraterrestrial, panspermia, spores,
       mckenna, mushroom, symbiosis]

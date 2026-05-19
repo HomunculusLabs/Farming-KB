@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka hybrid rice international drama International Drama
+title: Fukuoka Hybrid Rice International Drama
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

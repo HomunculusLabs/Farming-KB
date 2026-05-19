@@ -1,5 +1,5 @@
 ---
-title: Fly-Agaric in fly agaric siberian shamanic practice Practice
+title: Fly Agaric Siberian Shamanic Practice
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

@@ -24,7 +24,7 @@ specific conditions and target markets.
 ## Pleurotus ostreatus - The Classic Oyster
 
 *Pleurotus ostreatus* is the type species of the genus and the most widely
-cultivated oyster mushroom worldwide. It fruits in a [[stamets-biological-efficiency-yield]] on straw substrates typically ranges from
+cultivated oyster mushroom worldwide. It fruits in a [[biological-efficiency]] on straw substrates typically ranges from
 50-100%, making it a reliable producer for commercial operations.
 
 ## Pleurotus pulmonarius - The Indian or Phoenix Oyster

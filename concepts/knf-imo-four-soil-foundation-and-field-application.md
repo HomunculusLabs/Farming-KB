@@ -1,5 +1,5 @@
 ---
-title: "master-cho-knf-imo-indigenous-microorganism-collection 4 Soil knf imo four soil foundation and field application Application"
+title: "Knf Imo Four Soil Foundation and Field Application"
 created: 2026-04-28
 tags:
  - knf

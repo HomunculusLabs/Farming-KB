@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal growth kinetics mass transfer Mass Transfer
+title: Fungal Growth Kinetics Mass Transfer
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

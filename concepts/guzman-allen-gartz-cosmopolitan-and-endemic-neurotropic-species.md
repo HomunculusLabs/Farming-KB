@@ -1,5 +1,5 @@
 ---
-title: Cosmopolitan and guzman allen gartz cosmopolitan and endemic neurotropic species Species
+title: Guzman Allen Gartz Cosmopolitan and Endemic Neurotropic Species
 created: 2026-04-28
 tags:
   - biogeography

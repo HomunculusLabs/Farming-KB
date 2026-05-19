@@ -1,5 +1,5 @@
 ---
-title: Eleusinian eleusinian hierophantic families eumolpidae kerykes — Eumolpidae and Kerykes
+title: Eleusinian Hierophantic Families Eumolpidae Kerykes
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

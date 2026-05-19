@@ -1,5 +1,5 @@
 ---
-title: Microwave microwave sterilization system hardware architecture Architecture
+title: Microwave Sterilization System Hardware Architecture
 tags:
   - sterilization
   - microwave

@@ -1,5 +1,5 @@
 ---
-title: "How to query how to design a pollinator garden Garden"
+title: "Query How to Design a Pollinator Garden"
 created: 2026-04-28
 tags: [query, pollinators, gardening, bees, ecology]
 date: 2026-04-25

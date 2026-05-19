@@ -14,7 +14,7 @@ Psilocin, or 4-hydroxy-N,N-dimethyltryptamine, is the pharmacologically active c
 
 ### Baeocystin and Norbaeocystin
 
-Two additional tryptamines — baeocystin (4-PO-NMT) and norbaeocystin (4-OH-NMT) — are present in many psilocybin-containing species but are considered less active than [[dmt-tryptamine-hallucinogens]] share structural similarity with serotonin, which explains their activity at serotonergic receptor sites. [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty cap) — averages approximately 1% psilocybin/psilocin content by dry weight; considered one of the most potent naturally occurring species.
+Two additional tryptamines — baeocystin (4-PO-NMT) and norbaeocystin (4-OH-NMT) — are present in many psilocybin-containing species but are considered less active than [[dmt-tryptamine-hallucinogens]] share structural similarity with serotonin, which explains their activity at serotonergic receptor sites. [[psilocybe-semilanceata]]** (liberty cap) — averages approximately 1% psilocybin/psilocin content by dry weight; considered one of the most potent naturally occurring species.
 - **Psilocybe azurescens** — reported to be among the most potent, with concentrations potentially exceeding 1%.
 - **Psilocybe bohemica** — also reported with high potency.
 - **Psilocybe cubensis** — typically 0.3-0.6% psilocybin/psilocin; the most commonly cultivated species but relatively moderate in potency.

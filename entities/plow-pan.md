@@ -43,7 +43,7 @@ A plow pan (also called a "plow sole" or "hardpan") is a dense, compacted layer 
 - **Water perching:** Compacted layers cause water to pool above the pan, creating anaerobic conditions unfavorable to aerobic fungi and beneficial soil biology
 - **Mushroom bed preparation:** Deep digging to break up plow pans is essential before establishing outdoor mushroom beds or mycelial pathways
 - **[[soil-food-web]] disruption:** The anaerobic zone at the plow pan favors pathogenic organisms over beneficial aerobic decomposers
-- **Remediation for cultivation:** Breaking the plow pan through hand-digging allows deep nutrient access and creates conditions favorable for both deep-rooted plants and extensive [[mycelial-networks]]
+- **Remediation for cultivation:** Breaking the plow pan through hand-digging allows deep nutrient access and creates conditions favorable for both deep-rooted plants and extensive [[fungal-mycelial-networks-nutrient-translocation]]
 - **Hugelkultur alternative:** Raised bed and hugelkultur methods can bypass plow pan problems by building soil upward rather than trying to remediate compacted subsoil
 
 ## Remedy

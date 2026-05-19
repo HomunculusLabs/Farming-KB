@@ -1,5 +1,5 @@
 ---
-title: Fungi in Composting and fungi in composting and agricultural waste conversion Conversion
+title: Fungi in Composting and Agricultural Waste Conversion
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

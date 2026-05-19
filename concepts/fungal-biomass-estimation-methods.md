@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal biomass estimation methods Methods
+title: Fungal Biomass Estimation Methods
 created: 2026-04-16
 updated: 2026-05-09
 type: concept

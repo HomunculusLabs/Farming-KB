@@ -9,7 +9,7 @@ tags: [psilocybin, mushrooms]
 
 # Psilocybin Mushroom Legal Status Worldwide
 
-The legal status of [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in Italy began in about 1980/1981 and had been rising steadily. At the same time, there had been no clinically relevant cases, nor any legislative action on the matter.
+The legal status of [[psilocybe-semilanceata]] in Italy began in about 1980/1981 and had been rising steadily. At the same time, there had been no clinically relevant cases, nor any legislative action on the matter.
 
 ### Czech Republic (Former Czechoslovakia)
 

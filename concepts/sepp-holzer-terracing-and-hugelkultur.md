@@ -1,5 +1,5 @@
 ---
-title: Sepp sepp holzer terracing and hugelkultur and Hugelkultur
+title: Sepp Holzer Terracing and Hugelkultur
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

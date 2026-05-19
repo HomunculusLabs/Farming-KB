@@ -1,6 +1,6 @@
 ---
 title: "Swale Design and Earthwork Construction"
-subtitle: "allen-australian-psilocybe-species-comprehensive-guide to swales, keyline design, dams, and landscape water management earthworks"
+subtitle: "A guide to swales, keyline design, dams, and landscape water management earthworks"
 tags: [permaculture, earthworks, swales, water-harvesting, keyline-design, dams, ponds, erosion-control, contour, land-restoration]
 date: 2026-05-09
 updated: 2026-05-09

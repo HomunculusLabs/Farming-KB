@@ -1,5 +1,5 @@
 ---
-title: Hyphal hyphal biology and turgor pressure Pressure
+title: Hyphal Biology and Turgor Pressure
 created: 2026-04-28
 tags:
   - mycology

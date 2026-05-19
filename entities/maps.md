@@ -9,7 +9,6 @@ tags: [organization, nonprofit, psychedelic-research, mdma, clinical-trials]
 created: 2026-05-02
 updated: 2026-05-02
 sources:
-  - "training-knowledge"
 ---
 
 # Multidisciplinary Association for Psychedelic Studies (MAPS)

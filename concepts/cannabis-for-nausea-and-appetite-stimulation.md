@@ -1,5 +1,5 @@
 ---
-title: Cannabis for cannabis for nausea and appetite stimulation Stimulation
+title: Cannabis for Nausea and Appetite Stimulation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

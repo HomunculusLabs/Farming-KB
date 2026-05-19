@@ -18,7 +18,7 @@ The psychoactive potency of psilocybin-containing mushrooms varies enormously �
 
 Reported psilocybin concentrations (dry weight basis) vary dramatically across species:
 
-- ***[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]*** (liberty cap): 0.2–1.5%
+- ***[[psilocybe-semilanceata]]*** (liberty cap): 0.2–1.5%
 - ***[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]***: 0.3–1.5%
 - ***Psilocybe cubensis***: 0.3–1.3% (cultivated)
 - ***[[psilocybe-baeocystis]]***: 0.3–0.8%

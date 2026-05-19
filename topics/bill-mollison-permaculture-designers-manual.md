@@ -1,6 +1,6 @@
 ---
 title: "Bill Mollison's Permaculture: A Designers' Manual"
-subtitle: "A [[allen-australian-psilocybe-species-comprehensive-guide]] to the foundational text of [[bee-forage-systems-permaculture-design]], its methodology, principles, and practical systems for sustainable land use"
+subtitle: ""A to the foundational text of, its methodology, principles, and practical systems for sustainable land use""
 tags: [permaculture, bill-mollison, design-methods, sustainable-agriculture, land-use-planning, ecological-design, food-forests, water-management]
 date: 2026-05-11
 updated: 2026-05-11

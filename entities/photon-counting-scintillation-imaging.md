@@ -91,7 +91,7 @@ Monitoring protocols help track population trends and inform adaptive management
 - [[fungal-biology-fundamentals]]
 - [[isotopic-tracers-mycorrhizal-research]]
 - [[mushroom-cultivation]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[photon-counting-scintillation-imaging-fungi]]
 - [[photon-counting-scintillation-imaging-mycelial-transport]]
 - [[photon-counting-scintillation-imaging-pcsi]]

@@ -1,5 +1,5 @@
 ---
-title: McKenna on mckenna ayahuasca and amazonian shamanism Shamanism
+title: Mckenna Ayahuasca and Amazonian Shamanism
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

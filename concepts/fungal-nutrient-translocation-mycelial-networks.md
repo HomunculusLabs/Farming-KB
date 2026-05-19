@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Fungal [[mycelial-networks]] are among the most remarkable biological transport systems on Earth. Basidiomycete fungi, which serve as primary agents of wood decomposition in forest ecosystems, construct extensive mycelial networks that forage for and redistribute nutrients across considerable distances. Understanding how nutrients — particularly nitrogen — move through these networks is central to grasping fungal ecology, carbon cycling, and the engineering principles underlying biological distribution systems.
+Fungal [[fungal-mycelial-networks-nutrient-translocation]] are among the most remarkable biological transport systems on Earth. Basidiomycete fungi, which serve as primary agents of wood decomposition in forest ecosystems, construct extensive mycelial networks that forage for and redistribute nutrients across considerable distances. Understanding how nutrients — particularly nitrogen — move through these networks is central to grasping fungal ecology, carbon cycling, and the engineering principles underlying biological distribution systems.
 
 This concept page synthesizes findings from Bebber et al. (Chapter 1 of *Fungi in the Environment*, Gadd, Watkinson & Dyer, eds.) on imaging complex nutrient dynamics in mycelial networks, with emphasis on the physiological mechanisms of translocation, the architecture of the vacuolar system, and the experimental methodologies used to quantify transport in vivo.
 

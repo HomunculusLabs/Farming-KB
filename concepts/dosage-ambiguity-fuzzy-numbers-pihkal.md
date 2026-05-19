@@ -1,5 +1,5 @@
 ---
-title: Dosage dosage ambiguity fuzzy numbers pihkal Numbers Pihkal
+title: Dosage Ambiguity Fuzzy Numbers Pihkal
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

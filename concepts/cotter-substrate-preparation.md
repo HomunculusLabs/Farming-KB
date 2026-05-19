@@ -5,7 +5,7 @@ updated: 2026-05-09
 type: concept
 tags: [mycology, substrate, pasteurization, sterilization, mushroom-cultivation]
 sources:
-  - cotter-organic-mushroom-farming-mycoremediation
+  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 ---
 # Substrate Preparation for Mushroom Cultivation
 The [[antimicrobial-compounds-mushroom-mycelium]] feeds and

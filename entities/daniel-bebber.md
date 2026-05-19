@@ -99,4 +99,4 @@ Contemporary cultural relevance continues in traditional, recreational, and rese
 - [[geoffrey-gadd]]
 - [[lynne-boddy]]
 - [[mushroom-cultivation]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]

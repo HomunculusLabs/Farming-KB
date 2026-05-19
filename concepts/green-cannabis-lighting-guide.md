@@ -1,5 +1,5 @@
 ---
-title: green cannabis lighting guide Guide - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
+title: Green Cannabis Lighting Guide
 created: 2026-04-26
 updated: 2026-04-25
 sources:

@@ -1,5 +1,5 @@
 ---
-title: "comparison vermicomposting vs leaf mold Mold"
+title: "Comparison Vermicomposting vs Leaf Mold"
 created: 2026-04-28
 tags: [comparison, composting, soil-amendment, organic-matter, soil-health]
 date: 2026-04-25

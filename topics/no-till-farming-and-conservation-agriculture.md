@@ -1,5 +1,5 @@
 ---
-title: No-Till no till farming and conservation agriculture Agriculture
+title: No Till Farming and Conservation Agriculture
 subtitle: Minimizing Soil Disturbance to Preserve Ecosystem Health and Build Resilient Food Systems
 tags: [agriculture, soil-health, regenerative, no-till, permaculture, soil-food-web, carbon-sequestration, sustainable-farming]
 date: 2026-04-28

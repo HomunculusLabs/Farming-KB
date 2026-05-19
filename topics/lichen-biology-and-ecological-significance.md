@@ -1,5 +1,5 @@
 ---
-title: Lichen lichen biology and ecological significance Significance
+title: Lichen Biology and Ecological Significance
 subtitle: Symbiosis, Ecology, and Environmental Importance of Lichenized Fungi
 tags:
   - lichens
@@ -13,16 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - lichen-biology-guide
-  - lichen-symbiosis-fungi-algae-partnership
-  - lichen-symbiosis-mechanisms-photobiont-selection
-  - lichen-growth-forms-substrate-ecology
-  - lichen-ecology-and-soil-formation
-  - lichen-ecology-environmental-sensitivity
-  - lichen-poikilohydry-and-drought-stress-responses
-  - lichen-biodiversity-sampling-protocols-data-analysis
-  - lichen-diversity-estimates-and-geography
-  - lichen-air-quality-biomonitoring-sampling-protocols
 related_concepts:
   - lichen-biology-guide
   - lichen-symbiosis-fungi-algae-partnership

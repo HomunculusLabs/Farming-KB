@@ -28,7 +28,7 @@ surface, with a tough, carbonaceous texture when mature.
 
 Young stromata are grayish to tan with a powdery outer surface (the
 conidial anamorph stage) before darkening to black as perithecia mature.
-This color transition is a key [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] across temperate and tropical
+This color transition is a key [[psilocybe-semilanceata]] across temperate and tropical
 regions worldwide, with confirmed records from [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Stroma persist on wood for months
 and can be found in all seasons.
 

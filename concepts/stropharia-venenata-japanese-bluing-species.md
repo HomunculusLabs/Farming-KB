@@ -1,5 +1,5 @@
 ---
-title: Stropharia stropharia venenata japanese bluing species Bluing Species
+title: Stropharia Venenata Japanese Bluing Species
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

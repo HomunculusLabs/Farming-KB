@@ -91,7 +91,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[det]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[fungal-biodiversity-power-analysis-statistical-design-zak-willig]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

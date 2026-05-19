@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis oil purification techniques Techniques
+title: Cannabis Oil Purification Techniques
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

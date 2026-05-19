@@ -1,5 +1,5 @@
 ---
-title: "Cervantes - cervantes whitefly pest control Control on Cannabis"
+title: "Cervantes Whitefly Pest Control"
 created: 2026-04-26
 tags: [cannabis, pest-control, whiteflies, integrated-pest-management, insects]
 date: 2026-04-25

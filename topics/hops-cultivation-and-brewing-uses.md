@@ -1,5 +1,5 @@
 ---
-title: Hops hops cultivation and brewing uses Uses
+title: Hops Cultivation and Brewing Uses
 tags:
   - hops
   - humulus-lupulus

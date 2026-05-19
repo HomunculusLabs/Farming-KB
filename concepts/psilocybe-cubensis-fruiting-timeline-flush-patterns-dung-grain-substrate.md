@@ -18,7 +18,7 @@ during the fruiting period. However, the variation in mushroom number
 between flushes was notable, with the brassinosteroid-treated cultures
 showing more consistent production [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] is economically
 important in cultivation, as it maximizes the yield obtained from the labor
-and materials invested in substrate [[stamets-biological-efficiency-yield]] (dry mass yield divided by
+and materials invested in substrate [[biological-efficiency]] (dry mass yield divided by
 dry substrate mass) of approximately 23-29%.
 
 ### Brassinosteroid Yield

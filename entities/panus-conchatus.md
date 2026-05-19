@@ -38,7 +38,7 @@ It has been investigated experimentally as a candidate for cultivation on lignoc
 
 Like other Panus species, it readily colonizes sawdust-based substrates supplemented with bran.
 
-Fruiting requires high humidity and cooler temperatures, similar to conditions for [[stamets-biological-efficiency-yield]] is moderate, estimated at 30–50% on hardwood sawdust.
+Fruiting requires high humidity and cooler temperatures, similar to conditions for [[biological-efficiency]] is moderate, estimated at 30–50% on hardwood sawdust.
 
 Interest in cultivation is primarily academic, as the species has no significant commercial demand.
 

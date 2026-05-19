@@ -1,5 +1,5 @@
 ---
-title: stamets-panaeolus-cyanescens-copelandia-identification-ecology vs panaeolus tropicalis cultivation differences Differences
+title: Panaeolus Tropicalis Cultivation Differences
 created: 2026-04-24
 updated: 2026-04-24
 type: concept

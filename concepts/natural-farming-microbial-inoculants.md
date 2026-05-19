@@ -1,5 +1,5 @@
 ---
-title: Natural natural farming microbial inoculants Inoculants
+title: Natural Farming Microbial Inoculants
 created: 2026-04-28
 tags: [microbial-inoculants, soil-biology, natural-farming, knf, jadam]
 date: 2026-04-25

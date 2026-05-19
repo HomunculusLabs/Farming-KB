@@ -1,5 +1,5 @@
 ---
-title: Benjamin benjamin minge duggar mushroom cultivation research accessible-mushroom-cultivation-for-disabilities Research
+title: Benjamin Minge Duggar Mushroom Cultivation Research
 created: 2026-04-28
 tags: mycology, mushroom-cultivation, history-of-science,
       agricultural-research, antibiotics]

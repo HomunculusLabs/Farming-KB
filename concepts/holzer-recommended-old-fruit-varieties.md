@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer recommended old fruit varieties holzer-stone-fruit-varieties-and-growing
+title: Holzer Recommended Old Fruit Varieties
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

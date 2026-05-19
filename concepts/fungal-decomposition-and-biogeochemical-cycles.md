@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal decomposition and biogeochemical cycles Cycles
+title: Fungal Decomposition and Biogeochemical Cycles
 aliases: [geomycology, fungal-mineral-transformations-biogeochemical-cycles, fungal weathering, biogeochemical cycling, fungal biomineralization]
 tags: [mycology, ecology, biogeochemistry, geomycology, mineral-transformations, soil-science, environmental-microbiology]
 created: 2026-05-09

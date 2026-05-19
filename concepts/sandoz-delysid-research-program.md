@@ -1,5 +1,5 @@
 ---
-title: Sandoz sandoz delysid research program Program
+title: Sandoz Delysid Research Program
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

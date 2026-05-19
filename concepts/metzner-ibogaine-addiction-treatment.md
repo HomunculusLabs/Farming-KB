@@ -1,5 +1,5 @@
 ---
-title: metzner ibogaine addiction treatment Treatment
+title: Metzner Ibogaine Addiction Treatment
 created: 2026-04-24
 updated: 2026-04-24
 type: concept

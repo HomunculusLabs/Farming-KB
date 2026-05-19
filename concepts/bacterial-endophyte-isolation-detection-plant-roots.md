@@ -1,5 +1,5 @@
 ---
-title: Bacterial bacterial endophyte isolation detection plant roots and Detection in Plant Roots
+title: Bacterial Endophyte Isolation Detection Plant Roots
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

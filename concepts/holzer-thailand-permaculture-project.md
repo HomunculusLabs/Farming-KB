@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer thailand permaculture project Project
+title: Holzer Thailand Permaculture Project
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

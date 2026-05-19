@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka fertilizer critique detailed - Detailed Analysis
+title: Fukuoka Fertilizer Critique Detailed
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "Broadscale broadscale watershed restoration techniques Techniques"
+title: "Broadscale Watershed Restoration Techniques"
 created: 2026-04-28
 tags: [restoration, watershed, swales, erosion, water-harvesting]
 date: 2026-04-25

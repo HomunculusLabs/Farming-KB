@@ -98,4 +98,4 @@ Contemporary cultural relevance continues in traditional, recreational, and rese
 - [[mushroom-cultivation]]
 - [[mycelial-cord]]
 - [[mycelial-network-structure]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]

@@ -8,20 +8,14 @@ updated: 2026-04-28
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - hugelkultur
-  - hemenway-hugelkultur-guide
-  - holzer-crater-gardens-hugelkultur
-  - holzer-raised-bed-design
-  - holzer-raised-bed-design-principles
-  - holzer-raised-bed-techniques-hugelkultur
-  - holzer-raised-beds-systems
-  - faires-hugelkultur-and-forest-garden-strategy
-  - faires-hugelkultur-and-forest-mimicry
-  - faires-hugelkultur-and-soil-building
-  - gaias-garden-hugelkultur
-  - gaias-garden-sheet-mulching-guide
-  - hemenway-sheet-mulching-guide
-  - hamilton-container-raised-bed-gardening
-  - cervantes-raised-beds-mound-planting
+  - "raw/papers/holzer-desert-or-paradise.md"
+  - "raw/papers/holzer-desert-or-paradise.md"
+  - "raw/papers/holzer-desert-or-paradise.md"
+  - "raw/papers/holzer-desert-or-paradise.md"
+  - "raw/papers/holzer-desert-or-paradise.md"
+  - "raw/papers/gaias-garden-toby-hemenway.md"
+  - "raw/papers/gaias-garden-toby-hemenway.md"
+  - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 related_concepts:
   - hugelkultur
   - hemenway-hugelkultur-guide

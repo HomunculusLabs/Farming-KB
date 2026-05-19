@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam natural vs chemical pesticide Pesticide Distinction
+title: Jadam Natural vs Chemical Pesticide
 created: 2026-04-18
 updated: 2026-04-21
 type: concept

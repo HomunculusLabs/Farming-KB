@@ -1,5 +1,5 @@
 ---
-title: Biodiversity biodiversity rust fungi urediniomycetes Urediniomycetes
+title: Biodiversity Rust Fungi Urediniomycetes
 rust-fungist Fungi (Urediniomycetes) psilocybe-genus-diversity-and-taxonomy"
 tags: [mycology, rust-fungi, urediniomycetes, plant-pathogens, biodiversity]
 date: 2026-04-28

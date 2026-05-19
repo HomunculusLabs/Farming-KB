@@ -1,5 +1,5 @@
 ---
-title: Trichoderma trichoderma forest green mold guide Mold Guide
+title: Trichoderma Forest Green Mold Guide
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

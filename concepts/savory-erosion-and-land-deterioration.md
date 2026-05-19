@@ -1,5 +1,5 @@
 ---
-title: savory erosion and land deterioration Deterioration
+title: Savory Erosion and Land Deterioration
 created: 2026-04-28
 tags: [erosion, soil-health, watershed-management]
 date: 2026-04-25

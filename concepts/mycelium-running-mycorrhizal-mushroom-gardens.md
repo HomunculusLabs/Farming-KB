@@ -1,5 +1,5 @@
 ---
-title: "mycelium running mycorrhizal mushroom gardens Gardens and Cultivation"
+title: "Mycelium Running Mycorrhizal Mushroom Gardens"
 created: 2026-04-26
 updated: "2025-04-23"
 sources: ["raw/papers/mycelium-running-stamets.md"]

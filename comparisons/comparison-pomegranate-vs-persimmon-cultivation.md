@@ -1,5 +1,5 @@
 ---
-title: "comparison pomegranate vs persimmon cultivation Cultivation"
+title: "Comparison Pomegranate vs Persimmon Cultivation"
 created: 2026-05-06
 tags: [pomegranate, persimmon, diospyros, fruit-trees, comparison, cultivation, orchard]
 date: 2026-05-03

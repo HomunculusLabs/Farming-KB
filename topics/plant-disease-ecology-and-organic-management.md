@@ -1,6 +1,6 @@
 ---
-title: "Plant plant disease ecology and organic management and Organic Management"
-subtitle: "An ecological guide to plant pathogens, jadam-weed-control-strategies-natural."
+title: "Plant Disease Ecology and Organic Management"
+subtitle: ""An ecological guide to plant pathogens, .""
 tags: [plant-pathology, organic-gardening, disease-management, fungi, bacteria, soil-health, integrated-pest-management]
 date: 2026-04-28
 updated: 2026-04-28

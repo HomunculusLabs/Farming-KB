@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis pruning and defoliation guide Guide
+title: Cannabis Pruning and Defoliation Guide
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

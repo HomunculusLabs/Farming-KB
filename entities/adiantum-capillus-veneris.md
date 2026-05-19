@@ -20,7 +20,7 @@ sources:
 
 **Adiantum capillus-veneris**, the **southern maidenhair fern** or **Venus's hair fern**, is a delicate perennial fern in the family Pteridaceae. It is among the most widely recognized ferns in horticulture, valued for its fan-shaped leaflets on dark, wiry stalks.
 
-The species has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate and subtropical regions of both hemispheres. It grows on moist calcareous substrates including limestone cliffs, waterfall spray zones, cave entrances, and shaded well walls.
+The species has a nearly [[psilocybe-semilanceata]] in temperate and subtropical regions of both hemispheres. It grows on moist calcareous substrates including limestone cliffs, waterfall spray zones, cave entrances, and shaded well walls.
 
 In traditional medicine, A. capillus-veneris has been used as an expectorant, diuretic, and hair tonic across European, Asian, and Middle Eastern herbal traditions. The species name references Venus and the fine, hair-like appearance of its dark stipes.
 

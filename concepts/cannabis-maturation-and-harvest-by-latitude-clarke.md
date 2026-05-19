@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis maturation and harvest by latitude clarke by Latitude (Clarke)
+title: Cannabis Maturation and Harvest by Latitude Clarke
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: bill mollison permaculture a designers manual broadacre and rural design Design
+title: Bill Mollison Permaculture a Designers Manual Broadacre and Rural Design
 created: 2026-04-28
 tags: [permaculture, farming, broadacre, agroforestry, rural]
 date: 2026-04-25

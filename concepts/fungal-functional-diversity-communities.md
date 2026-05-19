@@ -23,7 +23,7 @@ A **fungal community** is the assemblage of fungal species co-occurring in a giv
 habitat, shaped by biotic interactions and abiotic filters (pH, moisture, temperature,
 substrate). A **K-strategist** fungus invests heavily in resource acquisition and
 persistence, dominating stable environments, while r-strategists colonize disturbed
-patches. **Fire effects** eliminate surface decomposers and shallow [[mycelial-networks]]
+patches. **Fire effects** eliminate surface decomposers and shallow [[fungal-mycelial-networks-nutrient-translocation]]
 while stimulating pyrophilous species; ECM and **Hypogeous fungi** may take years to
 recover.
 

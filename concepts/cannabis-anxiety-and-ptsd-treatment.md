@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis anxiety and ptsd treatment Treatment
+title: Cannabis Anxiety and Ptsd Treatment
 created: 2026-04-26
 updated: 2026-04-23
 sources:

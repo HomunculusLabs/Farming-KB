@@ -1,5 +1,5 @@
 ---
-title: "Bigwood and bigwood beug miniculture rye grain flush variation method Method for Flush Variation in brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting"
+title: "Bigwood Beug Miniculture Rye Grain Flush Variation Method"
 tags:
   - psilocybin
   - psilocin

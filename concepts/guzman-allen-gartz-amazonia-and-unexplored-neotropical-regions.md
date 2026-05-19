@@ -1,5 +1,5 @@
 ---
-title: Amazonia and guzman allen gartz amazonia and unexplored neotropical regions Regions
+title: Guzman Allen Gartz Amazonia and Unexplored Neotropical Regions
 created: 2026-04-28
 tags:
   - amazonia

@@ -1,5 +1,5 @@
 ---
-title: Amazonian amazonian graded powers and the seven rays of wisdom and the Seven Rays of Wisdom
+title: Amazonian Graded Powers and the Seven Rays of Wisdom
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

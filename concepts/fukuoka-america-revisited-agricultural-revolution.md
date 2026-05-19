@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka america revisited agricultural revolution and Agricultural Revolution
+title: Fukuoka America Revisited Agricultural Revolution
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

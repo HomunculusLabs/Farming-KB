@@ -5,15 +5,9 @@ updated: 2026-05-18
 type: topic
 tags: [permaculture, urban, guerrilla-gardening, community, food-security, sustainability, city-farming]
 sources:
-  - urban-permaculture-and-city-farming
-  - urban-guerrilla-gardening
-  - urban-guerrilla-food-growing-city-agriculture
-  - guerrilla-gardening-techniques
-  - pdc-urban-permaculture-design-principles
-  - sheet-mulching-methods-urban-permaculture
-  - mollison-designers-community-garden-design-urban-permaculture
-  - cannabis-guerrilla-growing-guide
-  - cervantes-guerrilla-growing-tactics
+  - "raw/papers/urban-permaculture-guerilla-gardening.md"
+  - "raw/papers/urban-permaculture-guerilla-gardening.md"
+  - "raw/papers/urban-permaculture-guerilla-gardening.md"
 ---
 
 # Urban Permaculture and Guerrilla Gardening

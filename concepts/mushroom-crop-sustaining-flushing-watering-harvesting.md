@@ -1,5 +1,5 @@
 ---
-title: Mushroom mushroom crop sustaining flushing watering harvesting, Flushing, Watering, and Harvesting
+title: Mushroom Crop Sustaining Flushing Watering Harvesting
 created: 2026-04-26
 tags: [mycology, mushroom-cultivation, harvesting, flushing, watering, environmental-control, crop-management, stamets]
 date: 2026-04-25

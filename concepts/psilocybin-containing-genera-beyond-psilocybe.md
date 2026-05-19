@@ -1,5 +1,5 @@
 ---
-title: Psilocybin-Containing psilocybin containing genera beyond psilocybe Psilocybe
+title: Psilocybin Containing Genera Beyond Psilocybe
 created: 2026-04-28
 tags: [mycology, psilocybin, chemistry, taxonomy]
 date: 2026-04-28

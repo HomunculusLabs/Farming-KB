@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal specimen collection herbarium management and Herbarium Management
+title: Fungal Specimen Collection Herbarium Management
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Amazonian amazonian shamanic battles and defensive powers and Defensive Powers
+title: Amazonian Shamanic Battles and Defensive Powers
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

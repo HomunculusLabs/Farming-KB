@@ -1,5 +1,5 @@
 ---
-title: LSD lsd chemical modifications and analogs and Analogs
+title: Lsd Chemical Modifications and Analogs
 created: 2026-04-23
 updated: 2026-04-23
 type: concept

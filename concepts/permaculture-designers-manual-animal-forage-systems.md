@@ -1,5 +1,5 @@
 ---
-title: permaculture designers manual animal forage systems Systems
+title: Permaculture Designers Manual Animal Forage Systems
 created: 2026-04-15
 updated: 2026-04-21
 type: concept

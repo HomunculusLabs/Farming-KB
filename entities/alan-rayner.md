@@ -102,7 +102,7 @@ key intellectual contributor and is cited extensively throughout the text.*
 ## See Also
 
 - [[john-dighton]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[mushroom-cultivation]]
 - [[saprotrophic-fungi]]
 - [[fungal-ecology]]

@@ -23,7 +23,7 @@ exists among users in several EU Member States. The EMCDDA 2006 thematic
 paper noted that evidence on the extent of wild collection was sparse but
 identified qualitative reports from multiple countries confirming the
 practice. Wild foraging represents an alternative supply channel to retail
-purchase, particularly in regions where [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty caps): The most common wild European
+purchase, particularly in regions where [[psilocybe-semilanceata]]** (liberty caps): The most common wild European
   hallucinogenic mushroom, found in wet grassy fields and uncultivated
   pastures. Reported in the UK, Norway, Germany, and many other countries.
 - **[[psilocybe-bohemica]]**: Particularly reported in the Czech Republic.

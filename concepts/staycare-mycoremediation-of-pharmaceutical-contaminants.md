@@ -1,5 +1,5 @@
 ---
-title: staycare mycoremediation of pharmaceutical contaminants Contaminants
+title: Staycare Mycoremediation of Pharmaceutical Contaminants
 created: 2026-04-26
 synonyms:
   - fungal degradation of pharmaceuticals

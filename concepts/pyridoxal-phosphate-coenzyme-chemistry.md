@@ -1,5 +1,5 @@
 ---
-title: "Pyridoxal pyridoxal phosphate coenzyme chemistry Chemistry"
+title: "Pyridoxal Phosphate Coenzyme Chemistry"
 aliases: [PLP, pyridoxal 5 phosphate, vitamin B6 coenzyme]
 tags: [biochemistry, coenzymes, amino-acid-metabolism, enzymology, pharmacology]
 created: 2026-05-02

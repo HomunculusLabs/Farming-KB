@@ -15,7 +15,7 @@ type: concept
 
 Fungi demonstrate remarkable capacity to accumulate and concentrate
 radionuclides from contaminated environments. Singh's treatment of
-[[mycelial-networks]]
+[[fungal-mycelial-networks-nutrient-translocation]]
 - **Species variation**: Wide interspecific differences; Xerocomus and
   Rozites genera show very high accumulation factors
 - **Forest persistence**: Cs-137 remains bioavailable in forest

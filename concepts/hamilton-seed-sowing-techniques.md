@@ -1,5 +1,5 @@
 ---
-title: hamilton seed sowing techniques Techniques in hamilton-geoffhamilton-nick-organic-gardening-companion-planting
+title: Hamilton Seed Sowing Techniques
 created: 2026-04-28
 tags: [seeds, propagation, organic-gardening, hamilton, cultivation]
 date: 2026-04-25

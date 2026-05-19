@@ -1,5 +1,5 @@
 ---
-title: Street street sample alkaloid variability street-sample-potency-variability-in-psilocybe-cubensis cubensis
+title: Street Sample Alkaloid Variability
 date: 2026-04-28
 updated: 2026-04-28
 tags: [psilocybin, psilocin, street-samples, variability, dosing, psilocybe-cubensis, harm-reduction]

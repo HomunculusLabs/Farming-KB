@@ -1,5 +1,5 @@
 ---
-title: Lentinan LEM and lentinan lem lap shiitake compounds Compounds
+title: Lentinan Lem Lap Shiitake Compounds
 created: 2026-04-26
 updated: 2026-04-23
 sources:

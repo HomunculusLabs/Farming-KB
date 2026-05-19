@@ -1,5 +1,5 @@
 ---
-title: ingham root disease treatment Treatment from Ingham AACT ghouled-field-guide-historical-context
+title: Ingham Root Disease Treatment
 created: 2026-04-21
 updated: 2026-04-18
 type: concept

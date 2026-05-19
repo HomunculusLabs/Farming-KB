@@ -31,7 +31,7 @@ The mycelium required approximately one month to fully colonize the 10 grams of 
 
 ### Time to First Flush
 
-First flush occurred **4 to 5 weeks after inoculation**, which translates to approximately **2 weeks after casing**. This timeline is consistent with general [[stamets-biological-efficiency-yield]] of approximately 27% (dry mushroom weight per dry substrate weight). While this efficiency is modest compared to optimized bulk [[pf-tek-mycelium-senescence-spore-mass-inoculation]], was the primary factor limiting production longevity. In a perfectly sterile environment, the cultures might have continued producing beyond the 20-week observation period.
+First flush occurred **4 to 5 weeks after inoculation**, which translates to approximately **2 weeks after casing**. This timeline is consistent with general [[biological-efficiency]] of approximately 27% (dry mushroom weight per dry substrate weight). While this efficiency is modest compared to optimized bulk [[pf-tek-mycelium-senescence-spore-mass-inoculation]], was the primary factor limiting production longevity. In a perfectly sterile environment, the cultures might have continued producing beyond the 20-week observation period.
 
 ### Substrate Depletion
 

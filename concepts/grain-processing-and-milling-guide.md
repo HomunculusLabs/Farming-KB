@@ -1,5 +1,5 @@
 ---
-title: Grain grain processing and milling guide Guide
+title: Grain Processing and Milling Guide
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

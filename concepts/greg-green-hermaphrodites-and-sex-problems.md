@@ -1,5 +1,5 @@
 ---
-title: "greg green hermaphrodites and sex problems Problems"
+title: "Greg Green Hermaphrodites and Sex Problems"
 created: 2026-04-28
 tags: [cannabis, hermaphrodite, sexing, stress, breeding]
 date: 2026-04-25

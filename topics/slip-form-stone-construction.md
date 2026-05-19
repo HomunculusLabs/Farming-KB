@@ -1,6 +1,6 @@
 ---
 title: comparison-slip-form-stone-vs-timber-frame Construction
-subtitle: A query-how-do-i-choose-a-natural-building-method-for-my-climate method that casts stone and concrete walls inside reusable temporary forms
+subtitle: "A natural building method that casts stone and concrete walls inside reusable temporary forms"
 tags: [natural-building, stone-masonry, slipform, homesteading, thermal-mass, owner-builder]
 date: 2026-05-02
 updated: 2026-05-02

@@ -1,5 +1,5 @@
 ---
-title: Dairy dairy wastewater fungal treatment Treatment
+title: Dairy Wastewater Fungal Treatment
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

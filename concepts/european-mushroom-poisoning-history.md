@@ -1,5 +1,5 @@
 ---
-title: European european mushroom poisoning history History
+title: European Mushroom Poisoning History
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

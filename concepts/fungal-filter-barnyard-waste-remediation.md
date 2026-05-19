@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal filter barnyard waste remediation Waste Remediation
+title: Fungal Filter Barnyard Waste Remediation
 created: 2026-04-28
 tags: [mycoremediation, water-filtration, fungi, pollution-control]
 date: 2026-04-25

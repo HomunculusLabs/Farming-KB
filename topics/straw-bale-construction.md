@@ -1,6 +1,6 @@
 ---
 title: Straw Bale Construction
-subtitle: A query-how-do-i-choose-a-natural-building-method-for-my-climate system using plastered agricultural straw bales as structural or insulating walls
+subtitle: "A natural building method using plastered agricultural straw bales for structural and insulative wall systems"
 tags: [natural-building, straw-bale, sustainable-architecture, homesteading, insulation, owner-builder]
 date: 2026-05-02
 updated: 2026-05-02

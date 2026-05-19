@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka night heron revelation origin story Revelation and cannabis-chemdawg-origin-story-lineage
+title: Fukuoka Night Heron Revelation Origin Story
 tags: [fukuoka, natural-farming, spiritual-awakening, biography, japan]
 date: 2026-04-28
 updated: 2026-04-28

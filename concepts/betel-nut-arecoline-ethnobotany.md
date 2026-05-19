@@ -1,5 +1,5 @@
 ---
-title: betel betel nut arecoline ethnobotany ethnobotany
+title: Betel Nut Arecoline Ethnobotany
 created: 2026-04-28
 tags: [betel-nut, ethnobotany, arecoline, stimulant-plants]
 date: 2026-04-25

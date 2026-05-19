@@ -1,5 +1,5 @@
 ---
-title: Fukuoka on fukuoka western vs japanese attitudes Attitudes to Nature
+title: Fukuoka Western vs Japanese Attitudes
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

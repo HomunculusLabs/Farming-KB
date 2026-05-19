@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Fungal mycelia are among the most remarkable transport networks in biology. Basidiomycete fungi — the major agents of decomposition and nutrient cycling in forest ecosystems — form interconnected cord systems that can extend for metres or even hectares. These [[mycelial-networks]] scavenge and sequester nutrients from soil, concentrate nutrients from decomposing organic matter, and relocate resources between different organic patches. Understanding how nutrients move through these networks is fundamental to grasping the role of fungi in ecosystem processes, from carbon cycling to plant nutrition.
+Fungal mycelia are among the most remarkable transport networks in biology. Basidiomycete fungi — the major agents of decomposition and nutrient cycling in forest ecosystems — form interconnected cord systems that can extend for metres or even hectares. These [[fungal-mycelial-networks-nutrient-translocation]] scavenge and sequester nutrients from soil, concentrate nutrients from decomposing organic matter, and relocate resources between different organic patches. Understanding how nutrients move through these networks is fundamental to grasping the role of fungi in ecosystem processes, from carbon cycling to plant nutrition.
 
 ## Ecological Roles of Mycelial Networks
 

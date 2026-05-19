@@ -1,7 +1,7 @@
 # Barriers to Hallucinogenic Mushroom Trend Diffusion in the EU
 
 ## Overview
-The EMCDDA 2006 thematic paper on [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]) may contain up to 1% psilocybin, while P. cubensis
+The EMCDDA 2006 thematic paper on [[psilocybe-semilanceata]]) may contain up to 1% psilocybin, while P. cubensis
 typically contains 0.6% or less. Some higher-potency species like P. azurescens and P. bohemica
 have been reported with even greater concentrations. This variability makes dose calibration
 extremely difficult for users, contributing to anxiety and inconsistent experiences that

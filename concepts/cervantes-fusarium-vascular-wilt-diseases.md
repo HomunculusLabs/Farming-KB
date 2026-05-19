@@ -1,5 +1,5 @@
 ---
-title: Fusarium and cervantes fusarium vascular wilt diseases Diseases in Cannabis
+title: Cervantes Fusarium Vascular Wilt Diseases
 created: 2026-04-26
 tags: [cannabis, fusarium, verticillium, pythium, disease]
 date: 2026-04-25

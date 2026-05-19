@@ -1,5 +1,5 @@
 ---
-title: "King Congo: Congo Pointe Noire × Ciskei African Pure Sativa"
+title: "Oner King Congo Congo Pointe Noire Ciskei African Sativa"
 source: "S.T. Oner - blesching-cannabis-sativa-indica-classification Vol. 3"
 source_id: "oner-cannabis-sativa-vol3"
 topics: [cannabis, sativa, strain-profile, african-landrace, congo, tropical-seeds, cannabis-genetics]

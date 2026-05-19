@@ -1,5 +1,5 @@
 ---
-title: African and Indian Cannabis cannabis african indian strain descriptions clarke (Clarke)
+title: Cannabis African Indian Strain Descriptions Clarke
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis hermaphrodite prevention and management and Management
+title: Cannabis Hermaphrodite Prevention and Management
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

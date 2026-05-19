@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam healthy living guidelines Guidelines
+title: Jadam Healthy Living Guidelines
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

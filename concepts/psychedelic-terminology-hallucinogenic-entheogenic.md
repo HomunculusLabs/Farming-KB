@@ -1,5 +1,5 @@
 ---
-title: Psychedelic psychedelic terminology hallucinogenic entheogenic Entheogenic
+title: Psychedelic Terminology Hallucinogenic Entheogenic
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

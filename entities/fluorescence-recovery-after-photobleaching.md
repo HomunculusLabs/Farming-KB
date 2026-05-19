@@ -64,7 +64,7 @@ Fluorescence Recovery After Photobleaching (FRAP) is a microscopic technique use
 ## Relevance to Cultivation and Mycology
 
 ### Understanding Fungal Transport
-- FRAP-derived transport parameters explain how nutrients move through [[mycelial-networks]]
+- FRAP-derived transport parameters explain how nutrients move through [[fungal-mycelial-networks-nutrient-translocation]]
 - The technique revealed that vacuolar transport alone can support hyphal growth over limited distances
 - Combined with cord-level transport studies, FRAP data contribute to a multi-scale understanding of fungal nutrient distribution
 

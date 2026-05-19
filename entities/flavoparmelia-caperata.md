@@ -18,7 +18,7 @@ The species is immediately recognizable by its broad, pale green to yellow-green
 with a distinctive pattern of white macules (pseudocyphellae) on the upper surface. It
 forms extensive rosettes up to 20 cm in diameter on trunks and branches.
 
-*F. caperata* is widely used as a bioindicator of [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate and subtropical
+*F. caperata* is widely used as a bioindicator of [[psilocybe-semilanceata]] in temperate and subtropical
 regions. It occurs across Europe, North and [[guzman-psilocybin-mushrooms-south-america]], Africa, Asia, and Oceania,
 making it one of the most widely distributed foliose lichens.
 

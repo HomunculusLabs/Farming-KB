@@ -1,5 +1,5 @@
 ---
-title: Mexican mexican indigenous nomenclature sacred mushrooms for mexican-sacred-mushrooms-indigenous-use-and-ethnobotany
+title: Mexican Indigenous Nomenclature Sacred Mushrooms
 created: 2026-04-28
 tags:
   - ethnobotany

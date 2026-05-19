@@ -1,5 +1,5 @@
 ---
-title: "cervantes sterilizing grow systems Systems and Mediums"
+title: "Cervantes Sterilizing Grow Systems"
 created: 2026-04-28
 tags:
   - cannabis-cultivation

@@ -1,5 +1,5 @@
 ---
-title: Harmala harmala alkaloids and ayahuasca preparation Preparation
+title: Harmala Alkaloids and Ayahuasca Preparation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: vic high backcrossing and inbreeding techniques Techniques
+title: Vic High Backcrossing and Inbreeding Techniques
 created: 2026-04-26
 updated: 2026-04-24
 sources:

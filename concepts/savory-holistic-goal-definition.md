@@ -1,5 +1,5 @@
 ---
-title: savory holistic goal definition Definition
+title: Savory Holistic Goal Definition
 created: 2026-04-28
 tags: [holistic-management, goal-setting, decision-framework, sustainability]
 date: 2026-04-25

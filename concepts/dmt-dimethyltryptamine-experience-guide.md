@@ -1,5 +1,5 @@
 ---
-title: DMT dmt dimethyltryptamine experience guide Guide
+title: Dmt Dimethyltryptamine Experience Guide
 created: 2026-04-13
 updated: 2026-04-15
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka: Spider and fukuoka spider leafhopper natural balance Balance
+title: Fukuoka Spider Leafhopper Natural Balance
 created: 2026-04-18
 updated: 2026-04-21
 type: concept

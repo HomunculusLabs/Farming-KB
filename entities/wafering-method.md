@@ -50,7 +50,7 @@ The wafering method is complementary to the log disk method. Where the log disk 
 
 ## Relevance to Cultivation and Mycology
 
-The wafering method exemplifies the principle of working with available resources rather than purchasing specialized materials. It is particularly relevant for permaculture systems, off-grid operations, and guerrilla mushrooming (inoculating logs in public spaces). The ability to reuse cardboard wafers across multiple logs creates a multiplier effect that can establish extensive [[mycelial-networks]] across a landscape with minimal starting material.
+The wafering method exemplifies the principle of working with available resources rather than purchasing specialized materials. It is particularly relevant for permaculture systems, off-grid operations, and guerrilla mushrooming (inoculating logs in public spaces). The ability to reuse cardboard wafers across multiple logs creates a multiplier effect that can establish extensive [[fungal-mycelial-networks-nutrient-translocation]] across a landscape with minimal starting material.
 
 ## See Also
 

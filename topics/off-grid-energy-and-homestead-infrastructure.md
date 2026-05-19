@@ -1,42 +1,18 @@
 ---
-title: Off-Grid off grid energy and homestead infrastructure Infrastructure
-subtitle: A comprehensive guide to holmgren-wind-power-and-renewable-energy-debate systems, water
-  infrastructure, and utility systems for self-sufficient rural living
-tags: [energy, off-grid, homesteading, water, infrastructure, sustainability,
-  construction, self-sufficiency]
+title: Off-Grid Energy and Homestead Infrastructure
+subtitle: Renewable energy systems, water infrastructure, and utility systems for self-sufficient rural living
+tags: [energy, off-grid, homesteading, water, infrastructure, sustainability, construction, self-sufficiency]
 date: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-19
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - wind-power-basics
-  - biogas-digester-basics
-  - basic-electrical-for-homestead
-  - basic-plumbing-for-homestead
-  - biodiesel-production
-  - water-tank-selection-and-construction
-  - well-drilling-and-maintenance
-  - water-conservation
-  - water-storage-techniques
-  - passive-solar-design
-  - rocket-stove
-  - rocket-stove-design
-  - biochar-production-guide
 related_concepts:
   - wind-power-basics
   - biogas-digester-basics
   - basic-electrical-for-homestead
-  - basic-plumbing-for-homestead
-  - biodiesel-production
-  - water-tank-selection-and-construction
-  - well-drilling-and-maintenance
   - water-conservation
-  - water-storage-techniques
   - passive-solar-design
   - rocket-stove
-  - rocket-stove-design
-  - biochar-production-guide
-  - homesteading-self-sufficiency-skills
-  - passive-solar-greenhouse-design-and-energy-systems
   - rainwater-harvesting-and-graywater-recycling
 ---
 
@@ -62,21 +38,70 @@ solar power with grid backup for heavy loads. The optimal configuration
 depends on climate, budget, property size, local regulations, and personal
 tolerance for maintenance and inconvenience.
 
-Designing these systems requires thinking in terms of energy flows rather
-than individual components. A solar array produces electricity during the
-day, which charges batteries that power lights and appliances at night. A
-[[wind-power-basics]]
-- [[basic-electrical-for-homestead]]
-- [[biodiesel-production]]
-- [[well-drilling-and-maintenance]]
-- [[water-storage-techniques]]
+## Solar and Wind Power Systems
+
+Photovoltaic solar panels are the most common starting point for off-grid
+electricity. A basic system includes panels, a charge controller, battery
+bank, and inverter. Panel sizing depends on daily energy consumption and
+peak sun hours for your latitude. In temperate regions, a 1 kW array
+produces roughly 3-5 kWh per day in summer and 1-2 kWh in winter. Battery
+banks should store 2-3 days of consumption to bridge cloudy periods.
+
+Wind turbines complement solar by generating power during storms and winter
+months when solar output is lowest. Small-scale turbines rated at 400-1000
+watts can supplement a solar system effectively, though they require
+consistent wind speeds above 8 mph and regular maintenance. Micro-hydro
+systems offer the most consistent renewable power where flowing water is
+available, producing electricity 24 hours a day regardless of weather.
+
+## Water Supply and Storage
+
+Reliable water access is arguably more critical than electricity for
+homestead viability. Options include drilled wells, hand-dug wells, spring
+development, rainwater harvesting, and surface water from streams or ponds.
+Each has different requirements for permitting, infrastructure cost, and
+maintenance. [[rainwater-harvesting-and-graywater-recycling]] systems can
+supplement primary water sources with minimal infrastructure.
+
+Water storage ensures supply during dry periods and equipment failures.
+Cisterns range from 500-gallon poly tanks to 10,000+ gallon ferrocement
+reservoirs. Storage should exceed peak demand by at least 50 percent to
+accommodate drought and system downtime. Gravity-fed systems eliminate
+the need for pumps by positioning storage above point-of-use, reducing
+energy consumption and mechanical complexity.
+
+## Heating and Cooking
+
+Wood heating remains the primary choice for off-grid homesteads in cold
+climates. Rocket mass heaters achieve combustion efficiency above 90
+percent using small branches and scrap wood, storing heat in a thermal
+mass bench that radiates warmth for 12-24 hours after the fire goes out.
+Solar thermal collectors can preheat domestic water, reducing wood or
+propane consumption for bathing and washing.
+
+Propane is the most common backup fuel for cooking and refrigeration in
+off-grid homes. Energy-efficient DC refrigerators consume 40-80 percent
+less power than AC models, making them compatible with modest solar
+systems. [[passive-solar-greenhouse-design-and-energy-systems]] extend the
+growing season and reduce heating costs for attached greenhouses and
+sunspaces.
+
+## Waste Management
+
+Composting toilets eliminate the need for septic systems in many
+jurisdictions, converting human waste into stable compost through aerobic
+decomposition. Greywater systems redirect sink and shower drainage to
+mulch basins or constructed wetlands for landscape irrigation, reducing
+freshwater demand. Properly designed greywater systems process 15-40
+gallons per person per day without health risks when local codes permit
+surface discharge.
+
+## See Also
+
+- [[wind-power-basics]]
+- [[biogas-digester-basics]]
+- [[water-conservation]]
+- [[passive-solar-design]]
 - [[rocket-stove]]
-- [[biochar-production-guide]]
-- [[passive-solar-greenhouse-design-and-energy-systems]]
-- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]. Tagari Publications,
-  1988.
-- Hemenway, Toby. Gaia's Garden: A Guide to Home-Scale Permaculture.
-  Chelsea Green Publishing, 2001.
-- Winiarski, Larry. Rocket Stove [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]] for Drylands and Beyond.
-  Watershed Media, 2006.
-- Art Ludwig. Create an Oasis with Greywater. Oasis Design, 2015.
+- [[biochar-in-regenerative-agriculture]]
+- [[homesteading-self-sufficiency-skills]]

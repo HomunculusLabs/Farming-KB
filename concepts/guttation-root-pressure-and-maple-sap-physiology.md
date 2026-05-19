@@ -1,5 +1,5 @@
 ---
-title: Guttation guttation root pressure and maple sap physiology and Maple Sap Physiology
+title: Guttation Root Pressure and Maple Sap Physiology
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

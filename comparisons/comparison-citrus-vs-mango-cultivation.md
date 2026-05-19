@@ -1,5 +1,5 @@
 ---
-title: comparison citrus vs mango cultivation Cultivation
+title: Comparison Citrus vs Mango Cultivation
 created: 2026-05-06
 tags:
   - citrus

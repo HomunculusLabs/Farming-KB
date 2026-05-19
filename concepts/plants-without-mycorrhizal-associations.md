@@ -10,7 +10,7 @@ sources:
 
 # Plants Without Mycorrhizal Associations
 
-Most plants form [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]].
+Most plants form [[fungal-symbiosis]].
 
 ## Root Adaptations of Non-Mycorrhizal Plants
 

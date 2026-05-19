@@ -1,5 +1,5 @@
 ---
-title: Cannabis and cannabis and sickle cell disease Disease
+title: Cannabis and Sickle Cell Disease
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

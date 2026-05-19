@@ -1,5 +1,5 @@
 ---
-title: Psilocybin psilocybin psychotherapy research history History
+title: Psilocybin Psychotherapy Research History
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

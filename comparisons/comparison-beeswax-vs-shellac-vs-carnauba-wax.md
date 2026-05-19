@@ -1,5 +1,5 @@
 ---
-title: "Comparison: comparison beeswax vs shellac vs carnauba wax vs Carnauba Wax"
+title: "Comparison Beeswax vs Shellac vs Carnauba Wax"
 tags: [comparison, beeswax, shellac, carnauba-wax, natural-finish, wood-finishing, food-coating, sustainable-materials, wax, resin]
 date: 2026-04-28
 updated: 2026-04-28

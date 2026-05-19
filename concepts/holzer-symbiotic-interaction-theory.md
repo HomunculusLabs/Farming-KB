@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer symbiotic interaction theory Theory - Plant Communication and Exchange
+title: Holzer Symbiotic Interaction Theory
 created: 2026-04-26
 tags: [soil-biology, mycorrhiza, polyculture, plant-physiology, holzer]
 date: 2026-04-25

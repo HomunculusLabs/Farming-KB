@@ -1,5 +1,5 @@
 ---
-title: Turmeric and turmeric and ginger rhizome cultivation Cultivation
+title: Turmeric and Ginger Rhizome Cultivation
 tags: [turmeric, ginger, rhizome, tropical-crops, spice, cultivation, permaculture, medicinal-plants]
 date: 2026-04-28
 updated: 2026-04-28

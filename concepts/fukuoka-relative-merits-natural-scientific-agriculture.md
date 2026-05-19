@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka relative merits natural scientific agriculture of comparison-natural-farming-vs-permaculture and fukuoka-critique-scientific-agriculture-civilization
+title: Fukuoka Relative Merits Natural Scientific Agriculture
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

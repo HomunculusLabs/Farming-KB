@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal functional diversity decomposition Decomposition
+title: Fungal Functional Diversity Decomposition
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

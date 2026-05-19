@@ -1,6 +1,6 @@
 ---
 title: "Fukuoka Weed Management And Green Manure Ecological Weed Control"
-subtitle: "A [[allen-australian-psilocybe-species-comprehensive-guide]] to understanding weeds ecologically and managing them without chemicals"
+subtitle: ""A to understanding weeds ecologically and managing them without chemicals""
 tags: [weeds, weed-management, organic-gardening, no-till, permaculture, soil-ecology, natural-farming]
 date: 2026-05-09
 updated: 2026-05-09

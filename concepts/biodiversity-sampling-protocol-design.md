@@ -1,5 +1,5 @@
 ---
-title: "biodiversity sampling protocol design Design for fungal-biodiversity Studies"
+title: "Biodiversity Sampling Protocol Design"
 created: 2026-04-28
 tags:
   - sampling-design

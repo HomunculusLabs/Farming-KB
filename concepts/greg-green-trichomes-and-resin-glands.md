@@ -1,5 +1,5 @@
 ---
-title: "greg green trichomes and resin glands Glands"
+title: "Greg Green Trichomes and Resin Glands"
 created: 2026-04-28
 tags: [cannabis, trichomes, resin, thc, plant-anatomy]
 date: 2026-04-25

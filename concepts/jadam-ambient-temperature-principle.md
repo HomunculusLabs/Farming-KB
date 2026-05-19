@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam ambient temperature principle Principle
+title: Jadam Ambient Temperature Principle
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

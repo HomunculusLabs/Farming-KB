@@ -1,5 +1,5 @@
 ---
-title: Zoroaster zoroaster mazda religion haoma and Haoma
+title: Zoroaster Mazda Religion Haoma
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

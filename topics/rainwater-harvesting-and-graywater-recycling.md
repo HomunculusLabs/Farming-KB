@@ -1,6 +1,6 @@
 ---
-title: Rainwater rainwater harvesting and graywater recycling Recycling
-subtitle: Capturing, storing, and reusing household water for natural-farming-sustainable-living-principles
+title: Rainwater Harvesting and Graywater Recycling
+subtitle: Capturing, storing, and reusing household water for
 tags: [water, conservation, permaculture, homesteading, sustainability]
 date: 2026-04-28
 updated: 2026-04-28

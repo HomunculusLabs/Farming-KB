@@ -1,5 +1,5 @@
 ---
-title: Grafting vs comparison grafting vs budding fruit trees Trees
+title: Comparison Grafting vs Budding Fruit Trees
 created: 2026-04-28
 tags: grafting, budding, fruit-trees, propagation, plant-propagation, orcharding
 date: 2026-04-28

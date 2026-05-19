@@ -1,5 +1,5 @@
 ---
-title: Fukuoka fukuoka visit to africa detailed and the Bushman
+title: Fukuoka Visit to Africa Detailed
 created: 2026-04-20
 updated: 2026-04-20
 type: concept

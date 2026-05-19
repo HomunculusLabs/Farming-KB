@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer pig keeping paddock system and Paddock System
+title: Holzer Pig Keeping Paddock System
 created: 2026-04-21
 updated: 2026-04-22
 type: concept

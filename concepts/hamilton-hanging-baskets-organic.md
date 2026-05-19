@@ -1,5 +1,5 @@
 ---
-title: "hamilton hanging baskets organic Organic"
+title: "Hamilton Hanging Baskets Organic"
 created: 2026-04-28
 tags: [hanging-baskets, containers, ornamental-gardening, flowers]
 date: 2026-04-25

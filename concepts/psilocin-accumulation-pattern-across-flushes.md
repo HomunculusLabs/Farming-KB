@@ -1,5 +1,5 @@
 ---
-title: Psilocin psilocin accumulation pattern across flushes Across Flushes in brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting
+title: Psilocin Accumulation Pattern Across Flushes
 tags:
   - psilocin
   - psilocybe-cubensis

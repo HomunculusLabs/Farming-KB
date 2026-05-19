@@ -21,7 +21,7 @@ sources:
 
 **Physcia tenella** is a small foliose lichen in the family Physciaceae, commonly known as the **delicate rosette lichen**. It forms pale gray to whitish rosettes 1–3 cm in diameter on the bark of trees, particularly in nutrient-enriched and urban environments.
 
-The species is one of the most widespread and common foliose lichens in [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] across temperate regions worldwide. It occurs throughout Europe, North America, South America, southern Africa, eastern Asia, and Australasia, making it one of the most widely distributed lichen species on Earth.
+The species is one of the most widespread and common foliose lichens in [[psilocybe-semilanceata]] across temperate regions worldwide. It occurs throughout Europe, North America, South America, southern Africa, eastern Asia, and Australasia, making it one of the most widely distributed lichen species on Earth.
 
 The species is found primarily as an epiphyte on tree bark, favoring nutrient-enriched and eutrophicated substrates. It is particularly common on trees in agricultural landscapes, along roadsides, and in urban parks and gardens.
 

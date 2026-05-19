@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's fukuoka european natural farming Farming Travels"
+title: "Fukuoka European Natural Farming"
 type: concept
 tags:
   - natural-farming

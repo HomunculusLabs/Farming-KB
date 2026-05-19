@@ -21,7 +21,7 @@ sources:
 
 **Colonization:** 20–25°C, 85–90% relative humidity, 14–21 days for full colonization.
 
-**[[stamets-biological-efficiency-yield]] of 60–100% over 2–3 flushes. First flush typically accounts for 60–70% of total yield.
+**[[biological-efficiency]] of 60–100% over 2–3 flushes. First flush typically accounts for 60–70% of total yield.
 
 ## Bioactive Compounds
 

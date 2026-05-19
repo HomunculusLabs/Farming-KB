@@ -1,5 +1,5 @@
 ---
-title: Demeter and demeter and persephone in eleusinian mythology Mythology
+title: Demeter and Persephone in Eleusinian Mythology
 created: 2026-04-13
 updated: 2026-04-15
 type: concept

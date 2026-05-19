@@ -1,7 +1,7 @@
 ---
 title: How Do I Choose Between comparison-cob-construction-vs-straw-bale-construction and comparison-earthbag-construction-vs-cob-construction?
 created: 2026-04-28
-subtitle: An FAQ for matching query-how-do-i-choose-a-natural-building-method-for-my-climate wall systems to climate, budget, labor, and building use
+subtitle: "An FAQ comparing straw bale and earthbag wall systems for climate, budget, labor, and building use"
 tags: [query, natural-building, straw-bale, earthbag, homesteading, owner-builder]
 date: 2026-05-02
 updated: 2026-05-02

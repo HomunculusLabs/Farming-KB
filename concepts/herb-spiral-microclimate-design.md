@@ -1,5 +1,5 @@
 ---
-title: Herb herb spiral microclimate design Design
+title: Herb Spiral Microclimate Design
 created: 2026-04-14
 updated: 2026-04-15
 type: concept

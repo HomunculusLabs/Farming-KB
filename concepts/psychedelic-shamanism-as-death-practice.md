@@ -1,5 +1,5 @@
 ---
-title: Psychedelic psychedelic shamanism as death practice Practice
+title: Psychedelic Shamanism as Death Practice
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

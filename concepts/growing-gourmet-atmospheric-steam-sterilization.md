@@ -1,5 +1,5 @@
 ---
-title: growing gourmet atmospheric steam sterilization Sterilization of Sawdust Substrates
+title: Growing Gourmet Atmospheric Steam Sterilization
 created: 2026-04-26
 tags: [sterilization, mushroom-cultivation, sawdust, steam-treatment, spawn-production]
 date: 2026-04-25

@@ -1,5 +1,5 @@
 ---
-title: "JADAM jadam seed treatment and nursery management and Nursery Management"
+title: "Jadam Seed Treatment and Nursery Management"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept

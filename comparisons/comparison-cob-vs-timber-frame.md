@@ -1,5 +1,5 @@
 ---
-title: "comparison cob vs timber frame Frame Construction"
+title: "Comparison Cob vs Timber Frame"
 created: 2026-04-28
 tags:
   - natural-building

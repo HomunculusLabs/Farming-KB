@@ -1,5 +1,5 @@
 ---
-title: fukuoka natural fertility cycle Cycle
+title: Fukuoka Natural Fertility Cycle
 created: 2026-04-14
 updated: 2026-04-15
 type: concept

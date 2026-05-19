@@ -47,7 +47,7 @@ mushroom viral disease, where spores or mycelial fragments from infected
 mushrooms may transfer viral particles, but this has not been experimentally
 confirmed.
 
-The sporadic nature of viral outbreaks in oyster [[stamets-biological-efficiency-yield]] on affected substrate
+The sporadic nature of viral outbreaks in oyster [[biological-efficiency]] on affected substrate
 - Unmarketable mushrooms due to abnormal morphology
 - Complete substrate loss when fruiting fails entirely
 - Contaminated spawn stock if the virus enters the spawn production chain

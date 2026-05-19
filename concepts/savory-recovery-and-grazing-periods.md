@@ -1,5 +1,5 @@
 ---
-title: savory recovery and grazing periods Periods
+title: Savory Recovery and Grazing Periods
 created: 2026-04-28
 tags: [grazing-planning, time-management, holistic-management]
 date: 2026-04-25

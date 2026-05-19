@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer intercropping by height suntraps and Suntraps
+title: Holzer Intercropping by Height Suntraps
 created: 2026-04-26
 tags:
   - polyculture

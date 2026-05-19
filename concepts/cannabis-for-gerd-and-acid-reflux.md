@@ -1,5 +1,5 @@
 ---
-title: Cannabis For cannabis for gerd and acid reflux Reflux
+title: Cannabis for Gerd and Acid Reflux
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

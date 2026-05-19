@@ -1,5 +1,5 @@
 ---
-title: jeavons seed propagation techniques Techniques in jeavons-grow-biointensive-method-overview
+title: Jeavons Seed Propagation Techniques
 created: 2026-04-28
 tags: [biointensive, seed-propagation, seed-starting, flats, jeavons]
 date: 2026-04-28

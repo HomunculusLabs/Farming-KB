@@ -82,7 +82,7 @@ Monitoring protocols help track population trends and inform adaptive management
 
 ## See Also
 - [[ectomycorrhizal-fungi]]
-- [[mycelial-networks]]
+- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[mycelial-cord]]
 - [[british-mycological-society]]
 - [[mycorrhizal-fungi]]

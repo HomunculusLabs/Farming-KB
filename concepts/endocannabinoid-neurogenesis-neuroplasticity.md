@@ -5,7 +5,6 @@ tags: [neuroscience, endocannabinoid-system, neurogenesis, neuroplasticity, cann
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - blesching-the-cannabis-health-index-2015
 type: concept
 ---
 

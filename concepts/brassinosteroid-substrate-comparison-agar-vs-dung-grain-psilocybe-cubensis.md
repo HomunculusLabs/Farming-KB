@@ -23,7 +23,7 @@ The 2–3× acceleration on agar was a striking result, as it represented one of
 
 On the dung/grain substrate, the brassinosteroid effect manifested differently, affecting the timing and productivity of fruiting rather than (or in addition to) vegetative growth rate:
 
-- **Earlier first flush** — the first flush of fruit bodies appeared at 3–3.5 weeks after inoculation in [[stamets-biological-efficiency-yield]]
+- **Earlier first flush** — the first flush of fruit bodies appeared at 3–3.5 weeks after inoculation in [[biological-efficiency]]
 - **Reduced malformed fruit bodies** — incomplete or malformed mushrooms that commonly appear in standard cultivation were "almost completely suppressed" by brassinosteroid treatment
 
 ## Comparative Analysis of Substrate Responses

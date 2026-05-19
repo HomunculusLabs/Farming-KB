@@ -13,7 +13,7 @@ Psilocybin (4-PO-DMT) is a naturally occurring psychedelic prodrug produced by
 over 200 species of fungi, primarily in the genera Psilocybe, Panaeolus,
 Inocybe, and Gymnopilus. Along with its active metabolite psilocin
 (4-HO-DMT), it belongs to the tryptamine family of hallucinogens and acts
-primarily as a serotonin 5-HT₂A receptor agonist. [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty cap): Found in temperate grasslands
+primarily as a serotonin 5-HT₂A receptor agonist. [[psilocybe-semilanceata]]** (liberty cap): Found in temperate grasslands
   of Europe and North America; small but potent.
 - **Psilocybe mexicana**: The species used traditionally by Mazatec
   healers; also notable for producing sclerotia (truffle-like underground

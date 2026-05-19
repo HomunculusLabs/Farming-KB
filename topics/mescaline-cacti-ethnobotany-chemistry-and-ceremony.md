@@ -1,6 +1,6 @@
 ---
 title: "trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern: Ethnobotany, Chemistry, and Ceremonial Use"
-subtitle: "From ancient entheogen-trichocereus-genus-mescaline-cacti"
+subtitle: "Ancient and modern use of mescaline-containing cacti across cultures, chemistry, and ceremonial practice"
 tags: [mescaline, peyote, san-pedro, cacti, ethnobotany, phenethylamine, ceremony, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
