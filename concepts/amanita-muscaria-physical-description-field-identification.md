@@ -1,5 +1,5 @@
 ---
-title: "Amanita Muscaria Physical Description Field Identification"
+title: "[[allegro-amanita-muscaria-properties-and-pharmacology]] Physical Description [[palmer-mushroom-hunting-field-identification]]"
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
@@ -38,7 +38,7 @@ The gills on the underside of the cap are critical for identification.
 - **Color:** The gills are **white or off-white**, sometimes with a faint cream
   tint in older specimens. They do not change color when bruised.
 - **Arrangement:** Gills radiate outward from the center in a **radial pattern,
-  like spokes of a wheel**, maximizing surface area for spore production.
+  like spokes of a wheel**, maximizing surface area for [[geotropism-and-spore-production-in-mushrooms]].
 - **Attachment:** The gills are **free** — **not attached to the stem**. A
   small gap exists between the innermost gill ends and the stem surface, an
   important feature distinguishing *Amanita* from genera with attached gills.

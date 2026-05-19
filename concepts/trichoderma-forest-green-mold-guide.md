@@ -10,7 +10,7 @@ sources:
 
 # Trichoderma Forest Green Mold Guide
 
-Trichoderma is the most common and damaging mold contaminant in [[pf-tek-mushroom-growth-timeline]] and mold proliferation. Understanding its identification, prevention, and control is essential for every mushroom cultivator.
+Trichoderma is the most common and damaging mold contaminant in [[pf-tek-mushroom-growth-timeline]] and mold proliferation. Understanding its identification, prevention, and control is essential for every [[coprinus-atrementarius-entity-the-mushroom-cultivator]].
 
 See mushroom-contamination-control-strategies for general prevention methods, and [[stamets-growing-room-air-circulation-co2-management]] or reducing the depth of the compost fill can help bring temperatures back into the safe range.
 
@@ -18,7 +18,7 @@ See mushroom-contamination-control-strategies for general prevention methods, an
 
 Trichoderma often appears alongside or following other contaminant problems. Bacterial contamination in compost creates conditions that favor Trichoderma by producing wet, nutrient-rich areas. Insect pests, particularly mushroom flies and mites, can carry Trichoderma spores from contaminated areas to clean cultures, acting as vectors for spread.
 
-For this reason, Trichoderma control should be part of an integrated approach that also addresses bacterial contamination, insect pests, and general facility hygiene. A clean [[eclss-environmental-control-life-support]] is the best defense against all contaminants simultaneously. See mushroom-contamination-control-strategies
+For this reason, Trichoderma control should be part of an [[solomon-insects-and-diseases-integrated-approach]] that also addresses bacterial contamination, insect pests, and general facility hygiene. A clean [[eclss-environmental-control-life-support]] is the best defense against all contaminants simultaneously. See mushroom-contamination-control-strategies
 - [[mycelium-running-pest-control-with-fungi]]
 - [[mushroom-cultivation-pests-mites-flies]]
 ## Practical Applications
@@ -107,7 +107,7 @@ Regional variations, seasonal changes, and local ecosystem conditions all play s
 ## Implementation Guidelines
 
 Step-by-step implementation approach and recommended practices. Success with trichoderma forest green mold guide depends on systematic evaluation of local conditions and careful planning. Experienced practitioners recommend starting small and expanding based on documented results. Regular assessment allows for timely adjustments and prevents compounding errors.
-Key metrics include growth rates, resource efficiency, and outcome quality. Document baseline conditions before beginning and track changes systematically throughout the process for evidence-based optimization.
+Key metrics include growth rates, [[permaculture-energy-cycling-and-resource-efficiency]], and outcome quality. Document baseline conditions before beginning and track changes systematically throughout the process for evidence-based optimization.
 
 ## Quality Indicators
 

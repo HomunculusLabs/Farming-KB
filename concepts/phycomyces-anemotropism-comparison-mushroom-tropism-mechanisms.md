@@ -46,7 +46,7 @@ Badham proposed that the same water-vapor-based mechanism explains Phase 1 anemo
 
 ### Gravitropic Sensitivity
 
-Dennison (1961) showed that *Phycomyces* sporangiophore growth responds to both gravity and centrifugal force, similar to how higher plants respond to gravitational stimuli. *P. cubensis* shows negative geotropism only during Phase 2, and this response is coupled to spore production — a feature not described in *Phycomyces*.
+Dennison (1961) showed that *Phycomyces* sporangiophore growth responds to both gravity and centrifugal force, similar to how higher plants respond to gravitational stimuli. *P. cubensis* shows [[mushroom-negative-geotropism]] only during Phase 2, and this response is coupled to spore production — a feature not described in *Phycomyces*.
 
 ## The Ethylene Hypothesis
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Phycomyces Anemotropism Comparison Mushroom Tropism Mechanisms finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 phycomyces anemotropism comparison mushroom tropism mechanisms and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

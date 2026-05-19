@@ -61,7 +61,7 @@ leaf sensors provide several advantages:
 
 2. **Averaging**: Multiple sensors reduce noise from brief light
    fluctuations (clouds, passing animals) that shouldn't trigger
-   a flowering response
+   a [[mollison-designers-day-length-and-flowering-response]]
 
 3. **Canopy integration**: Leaves at different positions in the
    canopy experience different light environments. Distributed
@@ -102,7 +102,7 @@ activated by specific wavelengths:
 - A few seconds of either wavelength is sufficient for switching
 - The plant effectively "remembers" the last color it saw
 
-Ecologically, this makes sense: the last light at dusk is far-red
+Ecologically, this [[coleman-first-rule-nature-makes-sense]]: the last light at dusk is far-red
 (deactivating phytochrome), while morning light is red (activating
 it). The duration of continuous Pfr-to-Pr conversion (night
 length) determines whether short-day or long-day plants flower.
@@ -116,5 +116,5 @@ The dual-architecture model has practical implications:
 - [[photoperiodism-phytochrome-red-far-red]]
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
+Field observations and experimental data continue to inform [[arbuscular-mycorrhizal-inoculum-production-best-practices]].
 Cross-disciplinary approaches offer promising avenues for further investigation.

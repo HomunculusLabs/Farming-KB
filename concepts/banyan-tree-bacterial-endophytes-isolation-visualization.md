@@ -1,5 +1,5 @@
 ---
-title: "Banyan banyan tree bacterial endophytes isolation visualization Endophytes: Isolation and Visualization"
+title: "Banyan banyan tree [[bacterial-endophytes-plant-roots]] isolation visualization Endophytes: Isolation and Visualization"
 created: 2026-04-28
 tags: [endophytes, bacteria, banyan-tree, Ficus-bengalensis,
       isolation-methods, microscopy, vital-staining, symbiotic-fungi]
@@ -76,7 +76,7 @@ bacteria.
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers
 continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+adapting [[wasted-human-resources-and-traditional-knowledge]] to contemporary challenges and opportunities.
 
 ## Key Considerations
 
@@ -87,7 +87,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.

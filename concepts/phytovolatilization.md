@@ -23,7 +23,7 @@ Indian mustard (Brassica juncea) and canola (Brassica napus) are effective selen
 
 Brake fern (Pteris vittata) demonstrates both arsenic hyperaccumulation and limited arsenic volatilization. Other fern species including Pteris cretica and certain wetland grasses also show capacity for arsenic transformation and volatilization in hydroponic and soil systems.
 
-Tobacco (Nicotiana tabacum) and cottonwood (Populus deltoides) have been investigated for mercury phytovolatilization. Transgenic lines expressing bacterial mercury reductase (merA) genes have demonstrated enhanced mercury volatilization rates in laboratory and greenhouse studies, though field deployment of transgenic remediation species faces significant regulatory hurdles.
+Tobacco ([[nicotiana-tabacum]]) and cottonwood ([[populus-deltoides]]) have been investigated for mercury phytovolatilization. Transgenic lines expressing bacterial mercury reductase (merA) genes have demonstrated enhanced mercury volatilization rates in laboratory and greenhouse studies, though field deployment of transgenic remediation species faces significant regulatory hurdles.
 
 ## Advantages of Phytovolatilization
 
@@ -31,7 +31,7 @@ The principal advantage of phytovolatilization is that the contaminant is remove
 
 ## Research Directions and Future Prospects
 
-Ongoing research in phytovolatilization focuses on several key areas. [[biostimulation-techniques]] offers potential for enhancing the rhizosphere microbial communities that support plant health and contaminant uptake. Microbial partners may contribute directly to contaminant transformation or may enhance plant growth and [[mycorrhizal-fungi-rhizosphere-remediation]] in phytovolatilization is increasingly recognized. Mycorrhizal associations can extend the effective root zone for contaminant access, [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+Ongoing research in phytovolatilization focuses on several key areas. [[biostimulation-techniques]] offers potential for enhancing the [[cannabis-rhizosphere-microbial-communities]] that support plant health and contaminant uptake. Microbial partners may contribute directly to contaminant transformation or may enhance plant growth and [[mycorrhizal-fungi-rhizosphere-remediation]] in phytovolatilization is increasingly recognized. Mycorrhizal associations can extend the effective root zone for contaminant access, [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.

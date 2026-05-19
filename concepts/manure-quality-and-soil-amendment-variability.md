@@ -1,5 +1,5 @@
 ---
-title: Manure Quality and Soil Amendment Variability
+title: [[manure-quality-and-soil-fertility]] Amendment Variability
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-One of the most overlooked realities in organic gardening is that not all manure and compost is created equal. Steve Solomon draws on decades of practical experience to demonstrate that the nutritional value of animal manures varies enormously — and that relying on manure alone without understanding its quality is a recipe for disappointing gardens and nutritionally poor food.
+One of the most overlooked realities [[hamilton-kelp-and-seaweed-in-organic-gardening]] is that not all manure and compost is created equal. Steve Solomon draws on decades of practical experience to demonstrate that the nutritional value of animal manures varies enormously — and that relying on manure alone without understanding its quality is a recipe for disappointing gardens and nutritionally poor food.
 
 ## The Problem with Manure Reliance
 
@@ -111,7 +111,7 @@ Compost suffers from the same problem as manure — its quality depends entirely
 
 Adding too much manure or compost can cause problems:
 
-- **Nutrient imbalance**: Excessive potassium from manure can suppress uptake of calcium and magnesium
+- **Nutrient imbalance**: Excessive potassium from manure can suppress uptake of [[dynamic-accumulator-plants-calcium-and-magnesium]]
 - **Nitrate accumulation**: Over-fertilized soil can accumulate nitrates, some of which may leach into groundwater
 - **Salt buildup**: Some manures contain significant salt, which can damage soil structure over time
 - **pH shifts**: Heavy manure application can make soil too alkaline

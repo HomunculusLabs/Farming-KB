@@ -6,7 +6,7 @@ type: concept
 
 # Pond Depth Zones and Water Stratification
 
-Depth is one of the most fundamental variables in pond and lake ecology. Like surface area and volume, depth has its own orders of magnitude, each supporting different biological communities, physical processes, and management requirements. Understanding depth effects is essential for designing productive aquaculture systems.
+Depth is one of the most fundamental variables in pond and lake ecology. Like surface area and volume, depth has its own [[event-classification-and-orders-of-magnitude]], each supporting different biological communities, physical processes, and management requirements. Understanding depth effects is essential for designing productive aquaculture systems.
 
 ## Depth Orders and Their Ecological Effects
 
@@ -105,7 +105,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

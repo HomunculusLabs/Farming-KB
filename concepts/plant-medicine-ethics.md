@@ -20,7 +20,7 @@ The growing global interest in psychedelic and entheogenic plant medicines — a
 Many psychedelic plant medicines are sacred to indigenous communities who have used them for centuries or millennia:
 
 - Ayahuasca: Indigenous peoples of the Amazon basin (Shipibo, Ashaninka, Quechua, and many others)
-- Peyote: Native American Church members, Huichol (Wixarika) people of Mexico
+- Peyote: [[halpern-sacramental-peyote-and-native-american-church]] members, Huichol (Wixarika) people of Mexico
 - Iboga: Bwiti spiritual tradition of Gabon and surrounding regions
 - Psilocybin mushrooms: Mazatec people of Oaxaca, Mexico; various Mesoamerican cultures
 - San Pedro (Echinopsis pachanoi): Andean indigenous traditions
@@ -47,7 +47,7 @@ Distinguish appropriation from appreciation:
 
 ### Peyote Crisis
 
-Lophophora williamsii (peyote) is experiencing severe population decline:
+[[lophophora-williamsii]] (peyote) is experiencing severe population decline:
 
 - Overharvesting driven by both Native American Church use and recreational/neo-shamanic demand
 - Slow growth rate: peyote takes 10-30 years to reach maturity in the wild
@@ -57,7 +57,7 @@ Lophophora williamsii (peyote) is experiencing severe population decline:
 
 ### Ayahuasca Supply Chain
 
-- Chacruna (Psychotria viridis) and ayahuasca vine (Banisteriopsis caapi) are increasingly harvested from wild populations
+- Chacruna ([[chacruna-psychotria-viridis]]) and ayahuasca vine (Banisteriopsis caapi) are increasingly harvested from wild populations
 - Commercial cultivation exists but wild harvesting continues due to demand
 - Deforestation in the Amazon threatens the long-term viability of wild sources
 - Some retreat centers harvest unsustainably to meet tourist demand

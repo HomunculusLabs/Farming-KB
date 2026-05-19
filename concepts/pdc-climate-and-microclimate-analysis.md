@@ -1,5 +1,5 @@
 ---
-title: pdc climate and microclimate analysis Analysis
+title: pdc [[climate-and-microclimate-management]] analysis Analysis
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -12,7 +12,7 @@ tags: [climate, microclimate]
 
 Understanding climate is perhaps the most important thing for [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]. All deserts in the world fall within a latitude range that puts them near the equator.
 - **Land mass** determines wind patterns and humidity.
-- **Altitude** affects temperature and oxygen concentrations. All mountain tops tend to have similar climates because of their altitude.
+- **Altitude** affects [[soil-temperature-and-oxygen]] concentrations. All mountain tops tend to have similar climates because of their altitude.
 
 Areas with similar factors will have similar climates. For example, areas at similar latitudes with similar land masses will share temperature and rainfall patterns.
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pdc Climate And Microclimate Analysis finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

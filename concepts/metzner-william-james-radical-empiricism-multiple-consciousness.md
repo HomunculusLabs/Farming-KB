@@ -15,7 +15,7 @@ that "no account of the universe in its totality can be final which leaves
 these other forms of consciousness quite disregarded." Metzner used this
 century-old observation to frame the convergence he saw between Western
 [[mckenna-suppression-psychedelic-research-lsd-therapy]]. James found that the gas produced
-states of consciousness in which the boundaries of the self dissolved, in
+[[mckenna-food-gods-designer-states-of-consciousness]] in which the boundaries of the self dissolved, in
 which metaphysical insights appeared with overwhelming certainty, and in which
 the relationship between mind and matter appeared fundamentally different from
 the assumptions of ordinary consciousness.
@@ -59,7 +59,7 @@ reality that James's radical empiricism had anticipated.
 
 Metzner identified two elements in shamanic traditions that pose "the most
 direct and radical challenge to the accepted Western worldview": (1) the
-belief that there are multiple realities or "worlds" that can be explored in
+belief that there are [[metzner-spirit-beings-multiple-realities-entheogens]] or "worlds" that can be explored in
 expanded states of consciousness; and (2) the belief that "spirits," the
 beings one encounters in dreams and visions, are just as real as the physical
 organism.
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 metzner william james radical empiricism multiple consciousness and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

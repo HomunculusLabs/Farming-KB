@@ -45,7 +45,7 @@ directly to consumers.
 ## Brand Names and User Terminology
 
 There is significant overlap between brand names used by retailers and terms
-used by consumers of hallucinogenic mushrooms. Hallucinogenic mushrooms are
+used by consumers [[smartshop-markets-and-legal-status-of-hallucinogenic-mushrooms]]. Hallucinogenic mushrooms are
 commonly known as 'magic mushrooms' but are also widely known by users as
 'paddos' in the Netherlands, 'shrooms' in the UK, and 'Zauberpilze' in
 Germany. Other English-language names include mush, mushies, boomers,
@@ -80,7 +80,7 @@ across Europe during the late 1990s and early 2000s.
 
 ## Overview
 
-Emcdda European Magic Mushroom Smartshop Market represents an important element within sustainable
+Emcdda European Magic [[eu-hallucinogenic-mushroom-smartshop-market-2006]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Emcdda European Magic Mushroom Smartshop Market finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -27,9 +27,9 @@ The recommended workflow (Figure 13.4 in the source) proceeds through sequential
 3. **Preparation of isolation plates, colony selection** — standardized plating with predetermined colony targets
 4. **Sorting and counting of isolates** — morphological grouping on uniform agar slants
 5. **Selection of unique or representative strains** — reduction of redundancy
-6. **Identification in Petri dishes** — microscopic examination and taxonomic assignment
+6. **Identification in Petri dishes** — [[fungal-microscopic-examination-mounting-media-techniques]] and taxonomic assignment
 7. **Growth and purification for preservation of isolates** — transfer to fresh media
-8. **Preservation and storage of representative strains** — lyophilization, ultra-cold freezing
+8. **[[food-preservation-and-storage-methods]] of representative strains** — lyophilization, ultra-cold freezing
 9. **Data tabulation in electronic spreadsheet** — frequencies and relative densities
 10. **Secondary analysis of sterile isolates** — physiological tests, molecular methods
 11. **Analyses and reporting** — diversity indices, ordination, multivariate analysis
@@ -41,7 +41,7 @@ The recommended workflow (Figure 13.4 in the source) proceeds through sequential
 
 **Step 2 — Colony targets:** Isolate a standard number of colonies per soil sample — minimum 25–30 from temperate forest soils and 30–40 from temperate grassland soils, where densities for top-ranking species are often lower. Sampling should be repeated during several seasons to measure seasonal variation.
 
-**Step 3 — Medium selection:** Use a standard, low-nutrient medium such as soil-extract agar (SEA) made with soil from the area under study, Gochenaur's glucose ammonium nitrate agar (GAN), carboxymethyl [[cellulose]] agar (CMC), or dilute [[malt-extract-agar]] with antibiotics. After a primary medium is selected, experimental trials determine the soil/water ratios yielding 5–30 colonies per plate and the medium/antibiotic combination that eliminates bacteria while maximizing fungal taxa.
+**Step 3 — Medium selection:** Use a standard, low-nutrient medium such as soil-extract agar (SEA) made with soil from the area under study, Gochenaur's glucose [[plant-available-nitrogen-ammonium-nitrate]] agar (GAN), carboxymethyl [[cellulose]] agar (CMC), or dilute [[malt-extract-agar]] with antibiotics. After a primary medium is selected, experimental trials determine the soil/water ratios yielding 5–30 colonies per plate and the medium/antibiotic combination that eliminates bacteria while maximizing fungal taxa.
 
 **Step 4 — Incubation:** Incubate surface-inoculated plates at 15–20°C or at in situ [[soil-temperature]]; if a cooling incubator is unavailable, incubate at room temperature for 4–14 days or longer.
 

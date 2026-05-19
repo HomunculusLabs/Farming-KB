@@ -46,7 +46,7 @@ The flake form was generally considered more vigorous than brick spawn by many e
 
 ### Cultural Significance
 
-The rivalry between English brick spawn and French flake spawn was a persistent topic of debate among Victorian mushroom cultivators. Falconer reported that some growers used both types, leaning toward one or the other based on their personal experience, but noted that no definitive controlled comparison had been conducted.
+The rivalry between English brick spawn and French flake spawn was a persistent topic of debate among Victorian mushroom cultivators. Falconer reported that some growers used both types, leaning toward one or the other based on their [[palmer-mushroom-cooking-and-personal-experience]], but noted that no definitive controlled comparison had been conducted.
 
 ## Mill-Track Spawn (Natural Spawn)
 
@@ -79,7 +79,7 @@ Virgin spawn was the term for natural or wild spawn that occurred without any ar
 
 ## Overview
 
-Victorian Mushroom Spawn Types represents an important element within sustainable
+[[victorian-mushroom-spawn-cultivation]] Types represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Victorian Mushroom Spawn Types finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

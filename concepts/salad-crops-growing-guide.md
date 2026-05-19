@@ -99,7 +99,7 @@ Regional variations, seasonal changes, and local ecosystem conditions all play s
 ## Implementation Guidelines
 
 Step-by-step implementation approach and recommended practices. Success with salad crops growing guide depends on systematic evaluation of local conditions and careful planning. Experienced practitioners recommend starting small and expanding based on documented results. Regular assessment allows for timely adjustments and prevents compounding errors.
-Key metrics include growth rates, resource efficiency, and outcome quality. Document baseline conditions before beginning and track changes systematically throughout the process for evidence-based optimization.
+Key metrics include growth rates, [[permaculture-energy-cycling-and-resource-efficiency]], and outcome quality. Document baseline conditions before beginning and [[track-changes]] systematically throughout the process for evidence-based optimization.
 
 ## Quality Indicators
 
@@ -114,7 +114,7 @@ This overview of salad crops growing guide covers the essential aspects needed f
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that

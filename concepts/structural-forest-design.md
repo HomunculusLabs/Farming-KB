@@ -6,7 +6,7 @@ type: concept
 
 # Structural Forest Design
 
-Structural forests are a foundational concept in permaculture, focusing on the production of timber, poles, fencing, and building materials through carefully managed tree plantings. Unlike conventional forestry oriented toward sawlog production, permaculture structural forestry emphasizes round pole timber, coppice systems, and integration with food-producing forests.
+[[structural-forests-and-forest-product-management]] are a foundational concept in permaculture, focusing on the production of timber, poles, fencing, and building materials through carefully managed tree plantings. Unlike conventional forestry oriented toward sawlog production, permaculture structural forestry emphasizes round pole timber, coppice systems, and integration with food-producing forests.
 
 ## The Case for Round Pole Timber
 
@@ -24,7 +24,7 @@ Bamboo must be harvested at the correct age — typically two to four years — 
 
 ## coppice Systems
 
-Coppice forestry involves cutting trees at or near ground level and allowing them to regrow from the stump, producing multiple stems. This is one of the oldest and most sustainable forms of woodland management.
+[[coppice-forestry-permaculture]] involves cutting trees at or near ground level and allowing them to regrow from the stump, producing multiple stems. This is one of the oldest and most sustainable forms of woodland management.
 
 ### Suitable Coppice Species
 
@@ -115,7 +115,7 @@ Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
+[[ghouled-field-guide-historical-context]] provides important lessons for modern applications.
 Collaborative networks and knowledge sharing accelerate progress in this field.
 ## Further Considerations
 Ongoing research and field trials continue to expand our understanding of this subject.

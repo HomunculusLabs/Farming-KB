@@ -1,5 +1,5 @@
 ---
-title: Thermal Germination and Stratification
+title: Thermal [[seed-germination-and-stratification]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -122,7 +122,7 @@ Day length varies dramatically with latitude and season, creating fundamentally 
 
 - **Select photoperiod-appropriate species** for your latitude — importing seed from very different latitudes can result in poor flowering, bolting, or failure to produce
 - **Day-neutral varieties** are the safest choice for uncertain or equatorial conditions
-- **Use shade cloth or supplemental lighting** to manipulate photoperiod in protected cultivation (greenhouses, polytunnels) for out-of-season production
+- **Use shade cloth or supplemental lighting** to manipulate photoperiod [[crop-rotation-in-protected-cultivation]] (greenhouses, polytunnels) for out-of-season production
 - **Understand your local photoperiod curve** — sunrise/sunset tables are freely available and invaluable for planning succession plantings and predicting flowering times
 - **Breeding and selection** over generations can adapt photoperiod-sensitive plants to new latitudes; save seed from plants that perform best in your conditions
 
@@ -131,7 +131,7 @@ Day length varies dramatically with latitude and season, creating fundamentally 
 A skilled permaculture designer uses knowledge of **thermal conditions, light requirements, stratification needs, and photoperiod responses** to:
 
 1. **Match species to site** — selecting plants whose germination and flowering requirements align with local climate and day length patterns
-2. **Create favorable microclimates** — using thermal mass, wind protection, water bodies, and orientation to extend growing seasons and meet species-specific temperature requirements
+2. **Create favorable microclimates** — using thermal mass, wind protection, water bodies, and orientation to extend [[jeavons-climate-adaptation-growing-seasons]] and meet species-specific temperature requirements
 3. **Time propagation correctly** — applying stratification, heat treatment, or digestive scarification as needed, and sowing at the right soil temperature rather than by calendar date
 4. **Design polycultures that work with natural cycles** — leveraging day-length responses to stagger flowering and harvest times across the year
 5. **Reduce reliance on artificial inputs** — working with biological processes (animal digestion, seasonal temperature cycles) instead of against them

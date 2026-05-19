@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-A well-curated reference library is essential for any serious gardener pursuing sustainable, low-input food production. Steve Solomon's *Gardening When It Counts* concludes with an extensive bibliography that draws from both historical and contemporary sources on organic farming, soil science, composting, and vegetable cultivation. These references represent decades of accumulated wisdom from researchers, practitioners, and agricultural pioneers.
+A well-curated reference library is essential for any serious gardener pursuing sustainable, low-input food production. Steve Solomon's *[[gardening-when-it-counts]]* concludes with an extensive bibliography that draws from both historical and contemporary sources on organic farming, soil science, composting, and vegetable cultivation. These references represent decades of accumulated wisdom from researchers, practitioners, and agricultural pioneers.
 
 ## Key Historical Sources
 
@@ -22,7 +22,7 @@ Sir **Albert Howard** (referenced at page 207 and 217) is a central figure in th
 
 ### Ehrenfried Pfeiffer
 
-**Ehrenfried Pfeiffer's** *Soil Fertility, Renewal and Preservation* (Faber & Faber, 1947) is listed as another key text available through the Soil and Health Library. Pfeiffer, a student of Rudolf Steiner's biodynamic agriculture, developed practical soil testing methods and contributed significantly to the understanding of compost quality and humus formation.
+**Ehrenfried Pfeiffer's** *Soil Fertility, Renewal and Preservation* (Faber & Faber, 1947) is listed as another key text available through the Soil and Health Library. Pfeiffer, a student of Rudolf Steiner's biodynamic agriculture, developed practical [[soil-testing-methods-interpretation]] and contributed significantly to the understanding of compost quality and humus formation.
 
 ### George Sheffield Oliver
 
@@ -88,7 +88,7 @@ No single author has all the answers. Solomon's bibliography itself demonstrates
 
 ## The Value of Pre-1960 Agricultural Literature
 
-Much of the most valuable content in the recommended library dates from before 1960. This era predates the widespread adoption of synthetic fertilizers and pesticides, meaning these authors were working with fundamentally organic methods out of necessity. Their practical experience with composting, cover cropping, crop rotation, and natural pest management remains highly relevant today and often contains insights lost in the rush toward chemical agriculture.
+Much of the most valuable content in the recommended library dates from before 1960. This era predates the widespread adoption of synthetic fertilizers and pesticides, meaning these authors were working with fundamentally organic methods out of necessity. Their practical experience with composting, cover cropping, crop rotation, [[diatomaceous-earth-and-natural-pest-management]] remains highly relevant today and often contains insights lost in the rush toward chemical agriculture.
 ## See Also
 - [[holistic-gardening-reference-library]]
 - [[solomon-soil-freezing-requirements-sustainable-gardening]]

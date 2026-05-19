@@ -6,7 +6,7 @@ type: concept
 
 # Wastewater Purification Wetland Systems
 
-Wastewater purification through constructed wetlands and biological treatment systems is a cornerstone of permaculture design for water management. Rather than relying on energy-intensive chemical treatment, these systems harness natural biological processes — aquatic plants, algae, bacteria, and sediment filtration — to clean and recycle water while simultaneously producing useful yields.
+Wastewater purification through [[constructed-wetlands-and-ecological-wastewater-treatment]] biological treatment systems is a cornerstone of permaculture design for water management. Rather than relying on energy-intensive chemical treatment, these systems harness natural biological processes — aquatic plants, algae, bacteria, and sediment filtration — to clean and recycle water while simultaneously producing useful yields.
 
 ## Biological Species for Pathogen Removal
 
@@ -15,7 +15,7 @@ Several plant species are active in pathogen removal from wastewater. These must
 - **Alisma plantago-aquatica** — water plantain
 - **Mentha aquatica** — water mint
 - **Juncus effusus** — soft rush
-- **Schoenoplectus lacustris** — lake bulrush
+- **[[schoenoplectus-lacustris]]** — lake bulrush
 - **Spartina spp.** — cordgrasses
 - **Iris pseudocorus** — yellow flag iris
 
@@ -35,7 +35,7 @@ All systems require careful monitoring in field conditions. Water quality parame
 
 ## Comfrey Beds for Faecal Waste
 
-For domestic-scale animal waste treatment, **comfrey beds** are highly effective. Comfrey (*Symphytum officinale*) can absorb heavy inputs of raw faeces in solution where wash-water from yards or pens is available. The resulting crop has multiple uses:
+For domestic-scale animal waste treatment, **comfrey beds** are highly effective. Comfrey (*[[comfrey-symphytum-officinale]]*) can absorb heavy inputs of raw faeces in solution where wash-water from yards or pens is available. The resulting crop has multiple uses:
 
 - **Fodder** — Comfrey is high in protein and minerals, suitable for livestock feed
 - **Compost** — Trenched as "instant compost" under crops such as potatoes

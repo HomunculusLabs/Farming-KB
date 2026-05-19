@@ -6,13 +6,13 @@ type: concept
 
 # Organic vs Chemical Fertilizers and Manure Quality
 
-Steve Solomon's *Gardening When It Counts* provides a detailed comparison of organic and chemical fertilizers, explaining why organic approaches produce more nutritious food. The book also offers important cautions about manure quality — one of the most misunderstood aspects of organic gardening.
+Steve Solomon's *[[gardening-when-it-counts]]* provides a detailed comparison of organic and chemical fertilizers, explaining why organic approaches produce more nutritious food. The book also offers important cautions about manure quality — one of the most misunderstood aspects of organic gardening.
 
 ## Chemical Fertilizers: The Problem
 
 ### Incomplete Nutrition
 
-Most so-called complete chemical fertilizers have an NPK analysis around 5-10-10 or similar. They are entirely incomplete. While they provide nitrogen, phosphorus, and potassium (depending on formulation, they may also contain sulfur), they lack the broad spectrum of other essential minerals that plants need in tiny traces. Plants grown with chemical fertilizers alone are more easily attacked by insects and diseases, and often don't grow as large or as well.
+Most so-called complete chemical fertilizers have an NPK analysis around 5-10-10 or similar. They are entirely incomplete. While they provide nitrogen, phosphorus, and potassium (depending on formulation, they may also contain sulfur), they lack the broad spectrum of other essential minerals that plants need in tiny traces. Plants grown with chemical fertilizers alone are more easily attacked by [[solomon-insects-and-diseases-integrated-approach]], and often don't grow as large or as well.
 
 ### The Feast-and-Famine Cycle
 
@@ -65,7 +65,7 @@ It is not easy to obtain manure that you can be confident will grow a great gard
 
 ## Why COF Over Manure Alone
 
-The complete organic fertilizer approach has several advantages over relying solely on manure:
+The [[complete-organic-fertilizer]] approach has several advantages over relying solely on manure:
 
 1. **Predictable nutrition**: You know exactly what minerals you are adding and in what quantities.
 2. **Complete spectrum**: COF provides trace minerals that manure may lack.

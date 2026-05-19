@@ -37,7 +37,7 @@ Coleman provides a practical temperature reference scale for [[greenhouse-growin
 
 ## Four Temperature Factors for Winter Salad Crops
 
-Winter salad crops in protected cultivation are affected by four key temperature factors:
+Winter salad crops [[crop-rotation-in-protected-cultivation]] are affected by four key temperature factors:
 
 1. **Rate of temperature drop** — How quickly the temperature falls matters. Gradual cooling allows plants to acclimate; rapid freezes cause more cellular damage. Greenhouses with thermal mass (soil, water barrels, stone walls) moderate the rate of temperature change.
 
@@ -51,7 +51,7 @@ Winter salad crops in protected cultivation are affected by four key temperature
 
 ### Regional Variation
 
-The continental United States spans an enormous range of summer maximum temperatures. The southern plains and desert Southwest regularly exceed 100°F, while the Pacific Northwest and coastal New England rarely see temperatures above 90°F. This variation has direct implications for [[greenhouse-design]] and management.
+The continental United States spans an enormous range of summer maximum temperatures. The southern plains and desert Southwest regularly exceed 100°F, while the [[psilocybin-north-america-pacific-northwest]] and coastal New England rarely see temperatures above 90°F. This variation has direct implications for [[greenhouse-design]] and management.
 
 ### Ventilation Requirements
 
@@ -62,7 +62,7 @@ Key ventilation strategies include:
 - **Roll-up or drop-down sides** that can be fully opened during hot weather
 - **Roof vents** or ridge ventilation for hot air exhaust (hot air rises)
 - **End-wall ventilation** with large doors or removable panels
-- **Fan-and-pad evaporative cooling systems** for hot, dry climates
+- **Fan-and-pad [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]] systems** for hot, dry climates
 - **Shade cloth** to reduce solar heat gain during peak summer
 
 ### Soil Solarization

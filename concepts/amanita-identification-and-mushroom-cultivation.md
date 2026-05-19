@@ -1,5 +1,5 @@
 ---
-title: Amanita Identification and Mushroom Cultivation
+title: [[amanita-identification-and-antidote-treatment]] Mushroom Cultivation
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
@@ -44,7 +44,7 @@ At the time of Palmer's writing, physicians were described as "absolutely powerl
 
 ### The Uncertainty of Fungal Agriculture
 
-The cultivation of mushrooms presents an element of uncertainty entirely foreign to other forms of vegetable cultivation. While farmers understand the soil conditions, timing, and care required for grapevines, tobacco, wheat, and potatoes, the same cannot be said for most fungi. With a single exception — the common horse-mushroom (*[[agaricus-arvensis]]*) — the conditions necessary for propagating mushrooms were not well understood in Palmer's era.
+The [[companion-cultivation-of-mushrooms-with-garden-vegetables]] presents an element of uncertainty entirely foreign to other forms of vegetable cultivation. While farmers understand the soil conditions, timing, and care required for grapevines, tobacco, wheat, and potatoes, the same cannot be said for most fungi. With a single exception — the common horse-mushroom (*[[agaricus-arvensis]]*) — the conditions necessary for propagating mushrooms were not well understood in Palmer's era.
 
 This fundamental ignorance explains why the term "mushroom" in popular usage refers to only one variety of fungus. Because it is the only type that can be reliably cultivated, it has become "the mushroom" of commerce, while the hundreds of other edible species are indiscriminately lumped together as "toadstools." The limitation is not botanical but agricultural — we cultivate only what we understand, and we understand almost nothing about the vast majority of fungal species.
 
@@ -82,7 +82,7 @@ Despite this seemingly straightforward process, many gardeners found mushroom cu
 
 ### The Moisture Problem
 
-Supplying adequate moisture proved to be the most difficult problem in mushroom cultivation. Watering the ground directly is described as "worse than useless" — it compacts the soil and disturbs the mycelium. The moisture must come from beneath, like natural dew, or from the surrounding atmosphere. For this reason, Palmer advised that mushroom beds should have nothing between them and mother earth — no concrete floors, no tile, no barriers to the natural upward movement of moisture from the soil.
+Supplying adequate moisture proved to be the most difficult problem [[contamination-prevention-in-mushroom-cultivation]]. Watering the ground directly is described as "worse than useless" — it compacts the soil and disturbs the mycelium. The moisture must come from beneath, like natural dew, or from the surrounding atmosphere. For this reason, Palmer advised that mushroom beds should have nothing between them and mother earth — no concrete floors, no tile, no barriers to the natural upward movement of moisture from the soil.
 
 The ideal atmosphere mimics the humid conditions of "dog-days" (the hottest, most humid part of summer). This can be achieved unintentionally through daily watering of other plants in a greenhouse — the water evaporates under the sun's rays through glass or artificial heat, charging the air with moisture. But Palmer advocates a more deliberate approach: the proper use of **steam**.
 

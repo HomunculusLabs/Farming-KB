@@ -1,5 +1,5 @@
 ---
-title: Pf Tek Desiccant Types Sourcing Cool Drying Technique
+title: [[pf-tek-desiccant-drying-chemistry-and-materials-guide]] Types Sourcing Cool Drying Technique
 source: "Fanaticus PF TEK — pf-tek-psilocybe-fanaticus (PF)"
 tags: [pf-tek, desiccant, drying, preservation, drierite, silica-gel, cool-desiccation]
 created: 2026-05-11
@@ -46,7 +46,7 @@ Desiccant can be reused indefinitely:
 3. Allow to cool in an airtight container
 4. The desiccant is ready for another drying cycle
 
-This makes desiccant drying a highly economical preservation method over time, despite the initial purchase cost.
+This makes [[desiccant-drying-psilocybin-potency-preservation]] a highly economical preservation method over time, despite the initial purchase cost.
 
 ## Cool Desiccation Procedure
 
@@ -96,7 +96,7 @@ Factors for scaling operations effectively. For desiccant types sourcing cool dr
 
 ## Monitoring Protocols
 
-Systematic observation and data collection methods. For desiccant types sourcing cool drying technique, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+Systematic observation and data [[biodiversity-of-fungi-freshwater-survey-collection-methods]]. For desiccant types sourcing cool drying technique, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
 
 ## Resource Requirements
 

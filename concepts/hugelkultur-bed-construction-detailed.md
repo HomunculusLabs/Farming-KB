@@ -1,5 +1,5 @@
 ---
-title: Hugelkultur Bed Construction Detailed
+title: [[hugelkultur-bed-construction]] Detailed
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -19,7 +19,7 @@ The hugelkultur bed mimics the natural forest floor where fallen trees break dow
 
 - Large logs and branches (6-12 inches diameter preferred)
 - Smaller branches and twigs
-- Nitrogen source: composted manure, grass clippings, or [[cover-crop-guide-detailed|cover crop]] residue
+- Nitrogen source: composted manure, grass clippings, or [[cover-crop-guide-detailed]] residue
 - Finished compost or leaf mold
 - Topsoil
 - Mulch material (straw, leaves, wood chips)
@@ -41,7 +41,7 @@ Fill the trench with the largest logs first, laying them parallel. Pack branches
 
 ### Step 4: Nitrogen Layer
 
-Cover the wood with a thick layer (4-6 inches) of nitrogen-rich material. Composted manure works excellently. Fresh manure can generate excessive heat — compost it first or use aged manure. Grass clippings, kitchen scraps, or legume [[cover-crop-guide-detailed|cover crop]] residue are alternatives. This nitrogen layer fuels the microbial decomposition of the carbon-rich wood below.
+Cover the wood with a thick layer (4-6 inches) of nitrogen-rich material. Composted manure works excellently. Fresh manure can generate excessive heat — compost it first or use aged manure. Grass clippings, kitchen scraps, or legume [[cover-crop-guide-detailed]] residue are alternatives. This nitrogen layer fuels the microbial decomposition of the carbon-rich wood below.
 
 ### Step 5: Organic Matter Layer
 
@@ -59,7 +59,7 @@ Top with 2-4 inches of straw, leaves, or wood chip mulch. This conserves moistur
 
 ### Year 1: Establishment
 
-The decomposition process generates heat and can temporarily tie up nitrogen. Plant nitrogen-fixing legumes (beans, peas), shallow-rooted crops, and [[cover-crop-guide-detailed|cover crops]] like buckwheat or crimson clover. Avoid heavy feeders like corn or tomatoes directly in the first season unless you amend heavily.
+The decomposition process generates heat and can temporarily tie up nitrogen. Plant nitrogen-fixing legumes (beans, peas), shallow-rooted crops, and [[cover-crop-guide-detailed]] like buckwheat or crimson clover. Avoid heavy feeders like corn or tomatoes directly in the first season unless you amend heavily.
 
 ### Year 2: Maturation
 
@@ -106,7 +106,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

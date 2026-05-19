@@ -1,5 +1,5 @@
 ---
-title: Mindful Healing Protocol - Setting Intention for Cannabis Therapy
+title: [[cannabis-mindful-healing-protocol-setting-intention-exploration-blesching]] - [[blesching-cannabis-healing-practices-setting-intention-affirmations]] for Cannabis Therapy
 source: uwe-blesching-the-cannabis-health-index.md (Blesching 2015)
 created: 2026-05-11
 tags: [mindfulness, cannabis, therapy, intention, setting, healing, blesching, psychoneuroimmunology, affirmations, meditation]
@@ -65,7 +65,7 @@ The practice of self-observation during and after the therapeutic experience:
 - **Emotional awareness**: Noticing emotional states without judgment,
   observing how they shift during the session.
 - **Journaling**: Recording observations after each session creates a
-  longitudinal record of the healing process and supports pattern recognition.
+  longitudinal record of the healing process and supports [[pattern-recognition-and-geometric-garden-design-permaculture]].
 - **Integration**: Reflecting on insights and changes that emerge during
   sessions, considering how they might be incorporated into daily life.
 

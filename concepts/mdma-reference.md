@@ -41,7 +41,7 @@ MDMA is structurally related to:
 - Gained popularity in recreational settings in the early 1980s
 - Emergency scheduling by the DEA in 1985 despite ongoing legal challenges
 - Made permanently Schedule I in 1986
-- Rick Doblin founded MAPS (Multidisciplinary Association for Psychedelic Studies) in 1986 to pursue MDMA research
+- Rick Doblin founded MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]]) in 1986 to pursue MDMA research
 - MAPS-sponsored Phase 3 clinical trials for MDMA-assisted therapy for PTSD completed in 2021-2024 with positive results
 - FDA advisory committee review for MDMA-PTSD approval began in 2024
 
@@ -73,7 +73,7 @@ The serotonin release mechanism is the key differentiator. While classical psych
 
 - High-dose or frequent use depletes serotonin stores and may damage serotonergic neurons (animal studies)
 - Relevance to humans is debated; human SERT density can recover with abstinence
-- Hyperthermia is a major risk factor; antioxidants and temperature control may help
+- Hyperthermia is a major risk factor; antioxidants [[hamilton-greenhouse-heating-and-temperature-control]] may help
 - Risk is dose- and frequency-dependent: occasional moderate doses carry much lower risk
 
 ## Dosage
@@ -126,7 +126,7 @@ This is the most advanced clinical application:
   - ~67% of MDMA-assisted therapy participants no longer met PTSD diagnostic criteria
   - ~88% showed clinically significant improvement
   - Compared to ~32% in placebo-assisted therapy group
-- Protocol: 3 MDMA therapy sessions (80-120 mg) spaced 3-5 weeks apart, with extensive preparation and integration therapy
+- Protocol: 3 MDMA therapy sessions (80-120 mg) spaced 3-5 weeks apart, with extensive [[metzner-neoshamanic-preparation-and-integration-practices]] therapy
 - MDMA allows patients to revisit traumatic memories with reduced fear and increased emotional processing capacity
 - The empathogenic effects enhance the therapeutic alliance between patient and therapist
 - FDA review for approval was initiated in 2024

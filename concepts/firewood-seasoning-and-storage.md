@@ -26,12 +26,12 @@ BTU (British Thermal Unit) values are measured per cord (128 cubic feet) of drie
 | Birch (Yellow) | 21.8 | Moderate | 6-12 months |
 | Cherry | 20.0 | Moderate | 6-12 months |
 | Elm | 20.0 | Very hard | 12+ months |
-| Black Walnut | 20.0 | Moderate | 12 months |
+| [[black-walnut-juglans-allelopathy]] | 20.0 | Moderate | 12 months |
 
 **Softwoods (good for kindling and quick fires):**
 | Species | BTU per Cord (million) | Splitting Difficulty | Seasoning Time |
 |---|---|---|---|
-| Douglas Fir | 21.3 | Moderate | 6-12 months |
+| [[douglas-fir]] | 21.3 | Moderate | 6-12 months |
 | Pine (Ponderosa) | 16.2 | Easy | 6 months |
 | Cedar | 12.8 | Easy | 6 months |
 | Spruce | 14.5 | Easy | 6 months |
@@ -70,7 +70,7 @@ Aim for pieces 3-6 inches across the widest face. This size dries efficiently an
 
 The most common method. Wood is stacked in parallel rows with the ends visible.
 
-**Best practices:**
+**[[arbuscular-mycorrhizal-inoculum-production-best-practices]]:**
 - Stack on treated wood pallets or rails — never directly on dirt
 - Stack in single rows with 2-3 inches of space between for airflow
 - Cover only the top with a tarp — never wrap the sides

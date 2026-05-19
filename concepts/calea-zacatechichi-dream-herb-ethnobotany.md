@@ -103,17 +103,17 @@ Knowledge transfer and capacity building strengthen community resilience and ena
 Understanding environmental feedback mechanisms and system boundaries helps predict outcomes and avoid unintended consequences. Complex interactions require holistic assessment approaches.
 ## Adaptive Management
 
-Flexible management approaches that incorporate monitoring feedback and enable course correction prove more resilient than rigid plans in dynamic environments.
+Flexible management approaches that incorporate [[savory-replanning-and-monitoring-feedback]] and enable course correction prove more resilient than rigid plans in dynamic environments.
 ## Resource Efficiency
 
-Optimizing resource utilization reduces waste, lowers costs, and minimizes environmental impact. Circular economy principles transform waste streams into valuable inputs.
+Optimizing resource utilization reduces waste, lowers costs, and minimizes environmental impact. [[zeri-circular-economy-systems]] principles transform waste streams into valuable inputs.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

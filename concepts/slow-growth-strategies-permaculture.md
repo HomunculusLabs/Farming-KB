@@ -1,5 +1,5 @@
 ---
-title: Slow-Growth Strategies in Permaculture
+title: Slow-Growth [[yield-theory-and-strategies-in-permaculture-design]]
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
@@ -24,7 +24,7 @@ The most fundamental demonstration of "slow is sane" in permaculture is the stra
 
 - **Reduced soil disturbance** — no annual cultivation or replanting
 - **Lower energy inputs** — significant savings in labor, fuel, and machinery
-- **Ecosystem services** — deeper root systems prevent erosion, improve soil structure, and cycle nutrients
+- **Ecosystem services** — deeper root systems prevent erosion, [[query-how-do-fungi-improve-soil-structure]], and cycle nutrients
 - **Resilience** — established root systems withstand drought and other stresses better than newly planted annuals
 
 ### Specific Examples
@@ -100,7 +100,7 @@ The principle that one should "learn to crawl before you walk" has wide currency
 
 There is a genuine tension in permaculture between building durable, long-term structures and the need for experimentation. Holmgren's personal experience building dry stone walls illustrates this: rushing the job led to rebuilding a decade later. However, the innovation inherent in much permaculture work means that over-investment in current ideas may foreclose new opportunities.
 
-This tension resolves into a practical principle: **slow down and think carefully before acting, but once committed, do not be easily diverted or rushed**. Temporary solutions have their place (discussed under Principle 12: Creatively Use and Respond to Change), but the default should favor durability and permanence.
+This tension resolves into a practical principle: **slow down and think carefully before acting, but once committed, do not be easily diverted or rushed**. Temporary solutions have their place (discussed under Principle 12: [[creatively-use-and-respond-to-change]]), but the default should favor durability and permanence.
 
 ## Key Takeaways
 

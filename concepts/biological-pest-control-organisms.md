@@ -1,5 +1,5 @@
 ---
-title: Biological Pest Control Organisms
+title: [[beneficial-insects-and-biological-pest-control]] Organisms
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
@@ -58,7 +58,7 @@ The oxygen dynamics are particularly important: living green algae on the surfac
 
 A Sustainable Agriculture Research and Education (SARE) grant project provided rigorous data on AACT effectiveness in vineyard disease management. The key findings include:
 
-- **Fungal biomass is critical**: Adequate fungal biomass on leaf surfaces was the determining factor for disease protection. When fungal biomass in the tea was sufficient, leaf surfaces were protected. When it was limited, protection failed — even though bacterial biomass was consistently high.
+- **Fungal biomass is critical**: Adequate fungal biomass on leaf surfaces was the determining factor for disease protection. When fungal biomass in the tea was sufficient, leaf surfaces were protected. When it was limited, protection failed — even though [[fungal-bacterial-biomass-ratio]] was consistently high.
 - **Late-season vulnerability**: Late in the growing season, when fungal biomass was limited, the team had trouble maintaining leaf surface protection. This highlights the importance of monitoring fungal biomass throughout the season, not just early on.
 - **Chemical spray reduction**: The program reduced sulfur and other chemical sprays from **10–14 applications per season down to just one** — a remarkable reduction for a technology still being optimized for application frequency and concentration.
 
@@ -109,7 +109,7 @@ Dr. Ingham strongly emphasizes the need for empirical validation before investin
 2. Do they **survive and grow in the compost** after application?
 3. Do they **survive and establish in the soil** under field conditions?
 
-Without this data, practitioners risk spending significant resources on products that may not perform as advertised. Survival through the brewing process, through application, and through establishment in the target environment must all be verified. Biological products are living organisms — their viability depends on temperature, pH, oxygen availability, competition from resident microbiology, and compatibility with the tea recipe and application method. Collecting this data is not merely academic; it is essential for making informed purchasing and application decisions.
+Without this data, practitioners risk spending significant resources on products that may not perform as advertised. Survival through the brewing process, through application, and through establishment in the target environment must all be verified. Biological products are living organisms — their viability depends on temperature, pH, oxygen availability, competition from resident microbiology, and compatibility with the tea [[complete-organic-fertilizer-cof-recipe-and-application]] method. Collecting this data is not merely academic; it is essential for making informed purchasing and application decisions.
 
 ## Integrating Biological Control with AACT Programs
 

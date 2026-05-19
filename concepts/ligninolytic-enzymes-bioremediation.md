@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal
 ---
 # Ligninolytic Enzymes in Fungal Bioremediation
 
-The ligninolytic enzyme system of fungal-environmental-sensing. These extracellular enzymes evolved to depolymerize lignin -- one of nature's most resistant polymers -- and their non-specific oxidative chemistry enables them to transform a remarkably wide range of xenobiotic compounds.
+The ligninolytic enzyme system of fungal-environmental-sensing. These [[fungal-extracellular-enzymes]] evolved to depolymerize lignin -- one of nature's most resistant polymers -- and their non-specific oxidative chemistry enables them to transform a remarkably wide range of xenobiotic compounds.
 
 ## The Three Major Ligninolytic Enzymes
 
@@ -20,7 +20,7 @@ The ligninolytic enzyme system of fungal-environmental-sensing. These extracellu
 - **Discovery:** First described by Kuwahara et al. (1984)
 - **Mechanism:** Oxidizes Mn(II) to Mn(III), which forms chelates with organic acids (oxalate, malate, malonate)
 - **Redox potential:** Mn(III)-organic acid chelates act as diffusible oxidants (~0.9V)
-- **Substrate range:** Phenolic compounds, amines, dyes, and some PAHs
+- **Substrate range:** [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], amines, dyes, and some PAHs
 - **Cofactors:** Heme, requires H2O2, Mn(II)
 - **Advantages over LiP:** MnP is more widely distributed among [[white-rot-fungi]] and can be produced under less restrictive nutritional conditions
 - **Production:** Bjerkandera adusta produces MnP under nitrogen-sufficient conditions, unlike P. chrysosporium
@@ -47,7 +47,7 @@ The ligninolytic enzyme system of fungal-environmental-sensing. These extracellu
 
 Immunological assays have been used for the detection of fungi in culture and the detection of decay fungi in wood since the mid-1980s. These techniques leverage the specificity of antigen-antibody interactions to identify and quantify fungal species or their metabolites in complex environmental matrices.
 
-Monoclonal antibodies to Postia placenta using extracellular culture filtrates were first produced in 1986. Subsequently, monoclonal antibodies were developed to detect fungal metabolites such as manganese peroxidase (MnP) in wood by Phanerochaete chrysosporium, and polyclonal antibodies were recognized for laccase by Lentinus (Lentinula) edodes.
+Monoclonal antibodies to Postia placenta using extracellular culture filtrates were first produced in 1986. Subsequently, monoclonal antibodies were developed to detect fungal metabolites such as manganese peroxidase (MnP) in wood by [[phanerochaete-chrysosporium]], and polyclonal antibodies were recognized for laccase by Lentinus (Lentinula) edodes.
 
 A range of immunological techniques has been developed for application to wood decay fungi and other degradative fungi:
 

@@ -24,7 +24,7 @@ The production of glomalin and related soil glues is a fundamental function of a
 - Improve soil structure and porosity
 - Enhance water infiltration and retention
 - Protect soil organic matter from rapid decomposition
-- Create habitat for beneficial microorganisms
+- Create [[query-how-do-i-design-habitat-for-beneficial-insects]] microorganisms
 
 ## R.C. Foster's Research
 
@@ -84,7 +84,7 @@ Decomposition in soil and compost follows a characteristic succession:
 
 2. **Fungi follow** — As bacterial activity depletes simple compounds, fungi move in to decompose more complex materials like cellulose, lignin, and other recalcitrant organic molecules.
 
-This succession is fundamental to proper composting and soil organic matter dynamics.
+This succession is fundamental to proper composting and [[soil-organic-matter-dynamics-and-fungal-decomposition-interactions]].
 
 ## Humus, Humic Acid, and Fulvic Acid
 
@@ -123,7 +123,7 @@ Brix is a measurement of dissolved solids (primarily sugars) in plant sap, typic
 
 ### Protein Synthesis and Pest Attraction
 
-When plants have adequate nutrients and a healthy soil foodweb, they synthesize complete proteins efficiently. Plants grown with healthy foodwebs contain **3 to 10 times more protein** than those grown in biologically depleted soils.
+When plants have adequate nutrients and a [[establishing-healthy-soil-foodweb]], they synthesize complete proteins efficiently. Plants grown with healthy foodwebs contain **3 to 10 times more protein** than those grown in biologically depleted soils.
 
 When protein synthesis is incomplete due to nutrient deficiencies, plants accumulate **free amino acids** in their tissues. These free amino acids are highly attractive to insect pests and foliar diseases. Essentially, pest problems are often symptoms of incomplete protein synthesis rather than the primary problem.
 

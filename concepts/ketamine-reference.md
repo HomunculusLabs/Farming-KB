@@ -17,7 +17,7 @@ Ketamine is a dissociative anesthetic with a unique pharmacological profile that
 - Chemical formula: C13H16ClNO
 - Molecular weight: 237.73 g/mol
 - CAS number: 1867-66-9
-- Structure: arylcyclohexylamine — shares structural features with PCP (phencyclidine) and DXM (dextromethorphan)
+- Structure: arylcyclohexylamine — shares [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] with PCP (phencyclidine) and DXM (dextromethorphan)
 - Stereoisomers: exists as two enantiomers, S-ketamine (esketamine) and R-ketamine (arketamine)
 - Physical form: white crystalline powder or clear liquid (in pharmaceutical preparations)
 - Routes of administration: intravenous (IV), intramuscular (IM), intranasal, oral, sublingual
@@ -109,7 +109,7 @@ This mechanism is fundamentally different from classical psychedelics (5-HT2A ag
 
 - Originally developed as an anesthetic/analgesic
 - Effective for neuropathic pain, CRPS, and fibromyalgia at subanesthetic doses
-- May reduce opioid tolerance and dependence
+- May reduce opioid [[cannabis-tolerance-and-dependence]]
 
 ### PTSD and Addiction
 
@@ -127,7 +127,7 @@ This mechanism is fundamentally different from classical psychedelics (5-HT2A ag
 - Visual distortions (not typically true hallucinations at therapeutic doses)
 - Altered body image (feeling larger/smaller, floating)
 - Dreamlike or trance-like state
-- Enhanced introspection and emotional processing
+- Enhanced introspection and [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
 - Some users describe ego dissolution at higher doses
 
 ### Psychological Aftereffects

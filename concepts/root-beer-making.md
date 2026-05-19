@@ -15,7 +15,7 @@ Traditional homemade root beer is a lightly fermented beverage with natural carb
 
 ## Historical Context
 
-Root beer evolved from "small beer" — low-alcohol fermented beverages common in colonial America. These were brewed from locally available roots, barks, and herbs as a safer alternative to often-contaminated water. The primary flavoring, sassafras root, was widely used in Indigenous American medicine and cooking long before European contact.
+Root beer evolved from "small beer" — low-alcohol [[comparison-mead-vs-kvass-fermented-beverages]] common in colonial America. These were brewed from locally available roots, barks, and herbs as a safer alternative to often-contaminated water. The primary flavoring, sassafras root, was widely used in Indigenous American medicine and cooking long before European contact.
 
 In 1960, the FDA banned sassafras root and oil as food additives after studies showed safrole (the primary aromatic compound) caused liver cancer in rats. Modern commercial root beers use artificial sassafras flavoring or safrole-free extracts. Home brewers can use safrole-free sassafras extract or alternative roots.
 
@@ -24,7 +24,7 @@ In 1960, the FDA banned sassafras root and oil as food additives after studies s
 ### Sassafras (Safrole-Free)
 
 - Traditional sassafras root bark provides the distinctive root beer flavor — creamy, vanilla-like, and slightly medicinal
-- Safrole-free sassafras extract is commercially available and legal for home brewing
+- Safrole-free sassafras extract is commercially available and legal [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]]
 - Some home brewers use small amounts of traditional sassafras root bark, understanding the safrole risk — the FDA ban applies to commercial products, not home use
 - Sassafras leaves (file powder) do not contain significant safrole and are safe to use
 
@@ -42,7 +42,7 @@ A traditional root beer recipe includes a blend of:
 - Sassafras root bark (or safrole-free extract): primary flavor
 - Sarsaparilla root: secondary base flavor
 - Sassafras root bark or extract: main flavor note
-- Wintergreen ( Gaultheria procumbens): minty, sweet
+- Wintergreen ( [[gaultheria-procumbens]]): minty, sweet
 - Birch bark: wintergreen-like, creamy
 - Licorice root: sweet, anise-like, natural sweetness
 - Vanilla bean or extract: rounds out the flavor

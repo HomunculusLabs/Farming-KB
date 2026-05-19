@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Harvesting and Fruiting Management"
+title: "[[mushroom-harvesting-and-post-harvest-handling]] Fruiting Management"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
@@ -114,7 +114,7 @@ Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
+[[ghouled-field-guide-historical-context]] provides important lessons for modern applications.
 Collaborative networks and knowledge sharing accelerate progress in this field.
 Emerging technologies offer new tools for analysis and implementation.
 ## Practical Applications
@@ -123,5 +123,5 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.

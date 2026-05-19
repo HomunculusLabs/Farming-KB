@@ -22,7 +22,7 @@ and open research questions surrounding [[mycorrhizal-biocontrol]].
   and pathogenic species.
 - **Climate change projections**: Models predict enhanced fungal pathogen
   outbreaks on crops, increasing the urgency for sustainable biocontrol.
-- **Emerging pathogens**: Fungal, viral, and bacterial diseases — including
+- **Emerging pathogens**: Fungal, viral, [[plant-viral-and-bacterial-diseases]] — including
   [[late-blight]], downy mildew, rust, and karnal bunt — are recognized threats
   that may require genetic manipulation for disease resistance (Table 3.22).
 
@@ -55,7 +55,7 @@ pathogen access and impede nematode invasion of root tissues.
   antifungal or antibacterial properties.
 - **Fungal–fungal interference**: Mycorrhizal mycelium competes directly with
   pathogenic fungi through allelopathy and lytic enzymes.
-- **Induced systemic resistance**: Mycorrhizal colonization primes the
+- **[[endophytic-mycorrhizal-induced-systemic-resistance]]**: Mycorrhizal colonization primes the
   host plant's defense pathways for faster or stronger responses.
 
 ### Indirect Effects via Improved Plant Nutrition
@@ -130,7 +130,7 @@ against foliar pathogens, though this remains an active research area.
    with pesticide use, crop rotation, and existing agricultural practices?
 5. **Climate change feedbacks**: How will shifting conditions alter biocontrol
    efficacy against pathogens predicted to increase under climate change?
-6. **Molecular mechanisms**: What signaling pathways and secondary metabolites
+6. **Molecular mechanisms**: What signaling pathways [[plant-defense-chemistry-and-secondary-metabolites]]
    mediate mycorrhizal-induced pathogen resistance?
 
 ## Summary

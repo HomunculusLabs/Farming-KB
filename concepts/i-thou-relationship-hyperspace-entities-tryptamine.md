@@ -1,5 +1,5 @@
 ---
-title: I Thou Relationship Hyperspace Entities Tryptamine
+title: I Thou Relationship [[dmt-hyperspace-entities]] Tryptamine
 source: mckenna_t-tryptamines_consciousness.md
 topic: entity_encounter_philosophy
 related:
@@ -76,7 +76,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
@@ -103,7 +103,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

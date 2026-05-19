@@ -1,5 +1,5 @@
 ---
-title: Fungal Nutrient Immobilization and Cycling
+title: [[fungal-nutrient-immobilization-and-translocation]] Cycling
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -47,7 +47,7 @@ Calcium was the only element more concentrated in the substrate than in fungal t
 
 ## Nutrient Immobilization in Tropical Forests
 
-Lodge (1993) highlighted the critical role of fungal nutrient immobilization in tropical forest ecosystems, where large nutrient capitals are stored in plant biomass but nutrient supply from soil is frequently limited:
+Lodge (1993) highlighted the critical role of fungal nutrient immobilization in [[dighton-fungi-tropical-forest-ecosystems]], where large nutrient capitals are stored in plant biomass but nutrient supply from soil is frequently limited:
 
 - **Phosphorus limitation**: Phosphorus binds to aluminum and iron oxides in tropical soils, reducing plant availability. Fungal tissues can contain 5–36 mg/g phosphorus, and leaf litter phosphorus content can increase 10-fold due to fungal immobilization.
 - **Leaching prevention**: Due to high rainfall, nitrogen and potassium are prone to leaching from the rooting zone. Fungi immobilize these nutrients at times of maximum leaching risk.
@@ -109,7 +109,7 @@ Fungi can immobilize nutrient elements and metal ions for extended periods throu
 - Fogel, R. and Hunt, G. (1983). Fungal biomass in Douglas fir forest ecosystem.
 - Lodge, D.J. (1993). Nutrient cycling by fungi in tropical forests.
 - Marumoto, T. et al. (1982). Decomposition of microbial cells.
-- Newell, K. (1984a,b). Collembola grazing and fungal community structure.
+- Newell, K. (1984a,b). Collembola grazing and [[mineralogical-controls-fungal-community-structure]].
 - Olsson, P.A. and Jennings, D.H. (1991). Translocation of ¹⁴C and ³²P through hyphae.
 - Stark, N. (1972). Nutrient content of fungal hyphae on pine litter.
 - Wells, J.M. and Boddy, L. (1990, 1995a,b). Phosphorus translocation in cord-forming fungi.

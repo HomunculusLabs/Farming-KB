@@ -50,7 +50,7 @@ colonies.
 
 A perforated 200-litre drum filled with paper, old wood,
 cardboard, and straw, then watered, attracts termites in
-tropical areas or can be seeded with sowbugs in cool climates.
+tropical areas or can be seeded with sowbugs in [[glasshouse-heat-management-cool-climates-mollison]].
 
 Plague locusts up to the 4th or 5th instar form flightless
 ground swarms that can be vacuumed or trawled with a side-towed
@@ -87,7 +87,7 @@ with snails, builds dense populations over several years.
 Arum or [[agapanthus]] clumps every 10 m² form permanent harbours.
 
 The large tropical snail Achatina thrives on papaya with a
-ground cover of cucurbits and nasturtium.
+[[fukuoka-citrus-orchard-ground-cover-cultivation]] of cucurbits and nasturtium.
 
 Desert snails gather on fence posts in swales to avoid soil
 heat and can be collected from there.
@@ -105,7 +105,7 @@ ample food.
 Midge larvae and tubifex worms in rich, shallow, organic ponds
 supply essential fry food.
 
-Brine shrimp (Artemia) from salt pans are another critical fry
+[[artemia-brine-shrimp]] (Artemia) from salt pans are another critical fry
 food — one of the very few productive uses of saline inland
 ponds.
 

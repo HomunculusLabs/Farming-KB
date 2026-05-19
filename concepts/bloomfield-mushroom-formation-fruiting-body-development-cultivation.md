@@ -1,5 +1,5 @@
 ---
-title: Bloomfield Mushroom Formation Fruiting Body Development Cultivation
+title: [[bloomfield-mushroom-formation-hyphal-construction-no-meristems]] [[fruiting-body-development]] Cultivation
 created: 2026-04-28
 tags:
   - mycology
@@ -60,7 +60,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.

@@ -116,17 +116,17 @@ Modern techniques allow researchers to identify biosynthetic gene clusters (BGCs
 
 - Co-culturing fungi with bacteria to trigger defensive compound production
 - Epigenetic modulators (histone deacetylase inhibitors, DNA methyltransferase inhibitors) to activate silent genes
-- Heterologous expression of BGCs in model fungal hosts (Aspergillus oryzae, Saccharomyces cerevisiae)
+- Heterologous expression of BGCs in model fungal hosts (Aspergillus oryzae, [[saccharomyces-cerevisiae]])
 
 ### Environmental Sampling
 
 Underexplored environments are being targeted for novel fungal isolates:
 
 - Deep-sea sediments and hydrothermal vents
-- Endophytic fungi living inside plant tissues
+- [[endophytic-fungi-living-inside-plants]] plant tissues
 - Fungi associated with insects (especially social insects with sophisticated antimicrobial defenses)
 - Cave and mine environments
-- Polar and extreme environments
+- Polar [[fungal-rock-colonization-and-extreme-environments]]
 
 ### Novel Compound Classes
 

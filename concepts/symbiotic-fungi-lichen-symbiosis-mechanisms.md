@@ -35,7 +35,7 @@ kingdom:
 - Coralloid roots at soil surface infected with Anabaena and Nostoc
 - Algae found in midcortical zone as a conspicuous ring
 - Roots become negatively geotropic, forming dichotomously branched coralloid masses
-- Only cycads form these symbiotic relationships among gymnosperms
+- Only cycads form these [[fungi-in-the-environment-symbiotic-relationships]] among gymnosperms
 
 ### Angiosperms (Gunnera)
 
@@ -50,7 +50,7 @@ kingdom:
 species create novel organismal forms with emergent properties. Key ecological roles:
 
 - Bioindicators of [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] contributes to ecosystem nitrogen inputs
-- Important in nutrient-poor and extreme environments
+- Important in nutrient-poor [[fungal-rock-colonization-and-extreme-environments]]
 - Model systems for studying fundamental symbiotic mechanisms
 
 See also: [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]]
@@ -75,7 +75,7 @@ communities, and systematic experimentation to build expertise.
 
 ## Overview
 
-Symbiotic Fungi Lichen Symbiosis Mechanisms represents an important element within sustainable
+[[symbiotic-fungi-lichen-symbiosis-agriculture]] Mechanisms represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

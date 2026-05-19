@@ -26,7 +26,7 @@ making it an excellent daytime smoke for social or creative use.
   performance, good yields, and starry trichome coverage (the name "Nebula"[[chicken-of-the-woods]] nce of the resin-covered buds). Nebula has been a staple of
   European breeding for its man [[garden-land-size-and-food-self-sufficiency-solomon]] size and consistent results.
 - **Male parent:** Grapefruit — an indica that contributes the distinctive grapefruit
-  and berry flavor profile. Grapefruit is known for its citrus-cannabis terpenes and the entourage effect enes and
+  and berry flavor profile. Grapefruit is known for its citrus-cannabis [[cannabis-terpenes-and-the-entourage-effect]] enes and
   compact growth characteristics.
 
 This cross represents Ultra Genetics' strategy of combining their favorite fast-
@@ -90,7 +90,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

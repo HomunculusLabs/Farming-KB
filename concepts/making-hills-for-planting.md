@@ -6,7 +6,7 @@ type: concept
 
 # Making Hills for Planting
 
-Hills are concentrated zones of highly fertile soil where individual plants or small clusters are grown. The technique of planting in hills is one of the oldest horticultural methods — it was the standard approach used by Native American gardeners for centuries. Hills remain one of the most efficient ways to grow large, nutrient-demanding plants, especially when resources or time are limited.
+Hills are concentrated zones of highly fertile soil where individual plants or small clusters are grown. The technique of planting in hills is one of the oldest horticultural methods — it was the standard approach used by [[halpern-sacramental-peyote-and-native-american-church]] gardeners for centuries. Hills remain one of the most efficient ways to grow large, nutrient-demanding plants, especially when resources or time are limited.
 
 ## What Is a Hill?
 
@@ -16,7 +16,7 @@ A hill is not necessarily a raised mound (though it often is). Agronomically, a 
 
 Plants started in hills get a fast start because of the high fertility created immediately below where the seeds are sown. The principle is simple: rather than trying to make the entire garden soil equally fertile (which requires enormous amounts of amendment), you concentrate your limited resources into small zones where they have the greatest impact.
 
-Hills are especially frugal because it would not be practical to turn the entire garden into soil that meets the high nutritional demands of crops like winter squash or corn.
+Hills are especially frugal because it would not be practical to turn the entire garden into soil that meets the high nutritional demands of crops like [[winter-squash-guide]] or corn.
 
 ## Standard Hill Dimensions and Spacing
 
@@ -103,7 +103,7 @@ Documentation of results enables continuous improvement and knowledge sharing.
 ## Future Directions
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
-Collaborative networks facilitate rapid dissemination of innovations and best practices.
+Collaborative networks facilitate rapid dissemination of innovations [[knf-imo-diversity-and-best-practices]].
 
 ## Implementation Notes
 Start with small-scale trials before expanding to larger operations.

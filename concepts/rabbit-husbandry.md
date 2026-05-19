@@ -1,5 +1,5 @@
 ---
-title: Rabbit Husbandry
+title: [[comparison-quail-husbandry-vs-rabbit-husbandry]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -96,7 +96,7 @@ fertilizer that can be applied directly without composting.
 ### Fresh Feed
 - 10-20% of diet can be fresh greens: dandelion, plantain, comfrey,
   raspberry leaves, clover, parsley.
-- Avoid iceberg lettuce (causes diarrhea), cabbage family in excess,
+- Avoid iceberg lettuce (causes diarrhea), [[cabbage-family-pests]] in excess,
   potatoes, rhubarb.
 - Introduce new greens gradually to prevent digestive upset.
 - Apple branches and willow provide both food and dental wear.

@@ -33,7 +33,7 @@ Understanding plant communication has significant implications
 for ecology and agriculture. The ability of plants to warn
 neighbors of insect attack through volatile signals suggests
 possibilities for developing [[mycorrhizal-fungi]] in facilitating inter-plant nutrient transfer
-and defense signaling is an active area of research with
+and [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] is an active area of research with
 direct applications to sustainable farming practices.
 
 ## Scientific Controversy
@@ -91,7 +91,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Plant Intelligence And Communication finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -120,7 +120,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 plant intelligence and communication and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

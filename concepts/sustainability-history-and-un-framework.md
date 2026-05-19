@@ -64,7 +64,7 @@ The global plan for sustainable development revealed at Rio became known as **Ag
 
 Key features of Agenda 21:
 - A blueprint for sustainable development across all sectors
-- Recognition that environmental protection is integral to economic and social development
+- Recognition that environmental protection is integral to [[economic-and-social-succession]] development
 - Emphasis on community-level participation and local capacity building
 - Framework for international cooperation on shared environmental challenges
 
@@ -113,7 +113,7 @@ This linguistic proliferation indicates how the concept has permeated virtually 
 
 Sustainability serves as one expression of a broader shift in perspective represented by the Green Movement, which emphasizes:
 
-- **Ecological preservation** over resource exploitation
+- **Ecological preservation** over [[fungal-hyphal-structure-resource-exploitation]]
 - **Biodiversity** as a value in itself and a source of resilience
 - **Local community empowerment** over centralized economic control
 - **Systems thinking** over reductionist approaches
@@ -123,7 +123,7 @@ Sustainability serves as one expression of a broader shift in perspective repres
 
 The response to the UN's reports and initiatives has been extensive. Scores of organizations, both governmental and non-governmental, have arisen to work toward sustainability across all areas of human activity:
 
-- **Economic**: Sustainable business models, circular economy
+- **Economic**: Sustainable business models, [[zeri-circular-economy-systems]]
 - **Ethical**: Environmental ethics, intergenerational justice
 - **Social**: Community resilience, equitable resource distribution
 - **Technological**: Clean energy, green chemistry, biomimicry

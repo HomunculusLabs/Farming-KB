@@ -28,7 +28,7 @@ Swale spacing must account for slope, soil type, and expected rainfall intensity
 
 ## Gabions and Floodway Stabilization
 
-Gabions are wire cages or baskets filled with rocks, used to stabilize watercourses, prevent erosion, and shape floodwater flow. They are particularly valuable in drylands where infrequent but intense rainfall produces destructive flash floods capable of reshaping entire landscapes in hours.
+Gabions are wire cages or baskets filled with rocks, used to stabilize watercourses, [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]], and shape floodwater flow. They are particularly valuable in drylands where infrequent but intense rainfall produces destructive flash floods capable of reshaping entire landscapes in hours.
 
 ### Applications
 
@@ -78,7 +78,7 @@ The Canary Islands provide an outstanding example of vernacular dryland architec
 
 ## Windstorm and Dust Management
 
-Dryland settlements frequently suffer from windstorm dust problems. Wind erosion of exposed soil generates airborne particulates that degrade air quality, damage infrastructure, and create serious respiratory health hazards. Mitigation strategies include:
+[[dryland-settlements-and-interceptor-banks]] frequently suffer from windstorm dust problems. Wind erosion of exposed soil generates airborne particulates that degrade air quality, damage infrastructure, and create serious respiratory health hazards. Mitigation strategies include:
 
 - **Street paving** to eliminate exposed dirt surfaces serving as dust sources within settlements
 - **Street re-alignment** perpendicular to prevailing wind directions to reduce channeling effects
@@ -109,7 +109,7 @@ In dryland soils, many elements are present but unavailable due to high pH, low 
 | Guano harvesting | Concentrated fertilizer production | Tree roosts, various | Arid |
 | Arroyo harvesting with galeria | Floodwater storage | Desert washes, SW USA | Arid |
 | Cave dwellings in tuff | Energy-free shelter | Canary Islands | Arid |
-| Wind management | Dust and erosion control | Dryland settlements | Arid |
+| Wind management | Dust [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] | Dryland settlements | Arid |
 
 ## Integration and Design Synthesis
 

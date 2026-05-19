@@ -17,7 +17,7 @@ A curated selection of fruit-producing trees and shrubs suited to permaculture-f
 - **[[ceratonia-siliqua]]
 
 [[food-forest-design]] for integrating fruit trees into perennial polyculture systems.
-permaculture-feijoa for one of the most cold-hardy subtropical fruit trees.
+permaculture-feijoa for one of the most cold-hardy [[permaculture-andean-subtropical-fruit-trees]].
 ## Practical Applications
 
 Permaculture Fruit Trees Selection has a range of practical applications that make it relevant to
@@ -94,7 +94,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

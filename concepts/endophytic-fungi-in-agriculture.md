@@ -39,13 +39,13 @@ sources: []
 
 ### Pest and Herbivore Resistance
 - Production of alkaloid deterrents (clavicipitaceous endophytes)
-- Induction of plant volatile organic compounds (VOCs) that attract natural enemies of pests
+- Induction of [[plant-volatile-organic-compounds-and-chemical-ecology]] (VOCs) that attract natural enemies of pests
 - Priming of jasmonic acid defense pathways
 - Physical reinforcement of cell walls through callose deposition
 - Production of protease inhibitors that reduce insect digestion
 
 ### Disease Resistance
-- Induced Systemic Resistance (ISR): Endophytes prime plant immune responses
+- [[endophytic-mycorrhizal-induced-systemic-resistance]] (ISR): Endophytes prime plant immune responses
 - Production of antimicrobial compounds (antibiotics, siderophores)
 - Competition with pathogens for colonization sites and nutrients
 - Activation of plant pathogenesis-related (PR) proteins
@@ -60,7 +60,7 @@ sources: []
 - [[dark-septate-endophytes]] particularly effective for drought tolerance
 
 ### Nutrient Enhancement
-- Biological nitrogen fixation by some endophytic species
+- [[biological-nitrogen-fixation-agriculture]] by some endophytic species
 - Phosphorus solubilization through organic acid production
 - Enhanced iron acquisition through siderophore production
 - Increased root branching and exploration

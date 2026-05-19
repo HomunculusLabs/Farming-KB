@@ -1,5 +1,5 @@
 ---
-title: Pf Tek Contamination Prevention And Troubleshooting
+title: Pf Tek [[cervantes-cannabis-contamination-prevention]] And Troubleshooting
 concept_type: topic
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 created: 2026-05-09
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pf Tek Contamination Prevention And Troubleshooting finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 pf tek contamination prevention and troubleshooting and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -42,7 +42,7 @@ Overheating is a bigger problem than cold for most greenhouse growers. Proper ve
 - Roll-up sides on hoop houses provide rapid cooling
 - Exhaust fans with intake louvers for larger structures
 - Shade cloth (30-50%) reduces summer heat gain
-- Evaporative cooling (wet wall systems) for hot, dry climates
+- [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]] (wet wall systems) for hot, dry climates
 - Automated vent openers use wax cylinders that expand with heat -- no electricity needed
 
 ## Growing Year-Round
@@ -51,7 +51,7 @@ Overheating is a bigger problem than cold for most greenhouse growers. Proper ve
 Start seeds 6-8 weeks before last frost. Cold-hardy transplants go into beds first. Succession plant lettuce, radishes, and peas every 2 weeks.
 
 ### Summer
-Grow heat-loving crops: tomatoes, peppers, cucumbers, eggplant. Maximize ventilation and shade. Watch for pest pressure -- greenhouses can amplify aphid and whitefly problems. Introduce beneficial insects.
+Grow heat-loving crops: tomatoes, peppers, cucumbers, eggplant. Maximize ventilation and shade. Watch for pest pressure -- greenhouses can amplify aphid and whitefly problems. Introduce [[beneficial-insects-and-biological-pest-control]].
 
 ### Fall
 Transition back to cool-season crops. Plant carrots, beets, chard, and brassicas. Add row covers inside the greenhouse for double protection on cold nights.
@@ -89,7 +89,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

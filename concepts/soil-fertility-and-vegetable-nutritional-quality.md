@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The nutritional quality of vegetables is directly determined by the mineral balance and biological activity of the soil in which they grow. This relationship, explored by researchers like William Albrecht and Krasil'nikov, reveals that simply adding organic matter is not sufficient — the specific mineral balance matters enormously for producing truly nutritious food.
+The nutritional quality of vegetables is directly determined by the mineral balance and biological activity of the soil in which they grow. This relationship, explored by researchers like [[william-albrecht]] and Krasil'nikov, reveals that simply adding organic matter is not sufficient — the specific mineral balance matters enormously for producing truly nutritious food.
 
 ## How Plants Absorb Nutrients
 
@@ -73,7 +73,7 @@ Solomon's answer to this problem is the [[complete-organic-fertilizer]] (COF) �
 
 1. Organic matter alone (compost/manure) cannot correct mineral imbalances
 2. Rock powders and seed meals provide slow-release, biologically available minerals
-3. The right balance of calcium and magnesium is essential (hence the mix of agricultural lime, dolomite, and gypsum)
+3. The right balance of [[dynamic-accumulator-plants-calcium-and-magnesium]] is essential (hence the mix of agricultural lime, dolomite, and gypsum)
 4. Kelp meal or basalt dust supplies trace minerals that most soils lack
 
 ## Medium and High Demand Vegetables
@@ -94,7 +94,7 @@ Solomon advises ignoring soil pH testing. Rather than liming to adjust pH:
 2. Add compost/manure and lime as recommended in the soil improvement schedule
 3. The pH will correct itself over time, primarily due to increasing organic matter rather than direct lime addition
 
-The concept of soil pH is controversial in organic gardening circles. Albrecht's work suggests that mineral balance matters far more than pH reading.
+The concept of soil pH is controversial [[hamilton-kelp-and-seaweed-in-organic-gardening]] circles. Albrecht's work suggests that mineral balance matters far more than pH reading.
 
 ## The Bottom Line
 

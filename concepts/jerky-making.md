@@ -36,7 +36,7 @@ Homemade jerky allows full control over ingredients, flavor, and quality, avoidi
 - Turkey breast — lean, mild, takes marinades well
 - Chicken breast — must be cooked to 165F before dehydrating
 - Pork loin — lean portions work; be extra careful about fat
-- Salmon — fish jerky is a Pacific Northwest tradition
+- Salmon — fish jerky is a [[psilocybin-north-america-pacific-northwest]] tradition
 - Bison — similar to beef, leaner
 
 ## Slicing Technique
@@ -63,7 +63,7 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 
 - Salt: soy sauce, Worcestershire sauce, or straight salt — 1-2 teaspoons per pound of meat minimum
 - Acid: vinegar, lemon juice, lime juice — tenderizes and adds tang
-- Sweetener: brown sugar, honey, maple syrup, molasses — balances salt and heat
+- Sweetener: brown sugar, honey, [[maple-syrup-production]], molasses — balances salt and heat
 - Umami: soy sauce, Worcestershire, fish sauce, MSG
 - Liquid smoke: hickory, mesquite, applewood — for smoky flavor without a smoker
 - Spices: black pepper, garlic powder, onion powder, chili powder, cayenne, cumin, smoked paprika
@@ -127,7 +127,7 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 
 - Set oven to the lowest setting (usually 170F / 77C)
 - Prop the door open slightly with a wooden spoon to allow moisture to escape
-- Place wire racks over sheet pans to allow air circulation
+- Place wire racks over sheet pans to allow [[stamets-growing-room-air-circulation-co2-management]]
 - Flip jerky every 2 hours
 - Total time: 4-8 hours
 

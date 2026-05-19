@@ -1,5 +1,5 @@
 ---
-title: Permaculture Ethical Principles Care for Earth People and Limits
+title: [[permaculture-ethical-principles-holmgren]] Care for Earth People and Limits
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
@@ -63,7 +63,7 @@ Holmgren maps a conceptual landscape of converging and diverging materialist and
 **Creative union pathway** (toward integration):
 - Inclusive and ecological spirituality → Environmental and New Age spirituality
 - [[permaculture-design]] science → Systems ecology → [[gaia-hypothesis]]
-- Jungian psychology → Quantum mechanics
+- Jungian psychology → [[quantum-mechanics-fundamentals]]
 - Steiner's spiritual science
 
 **Destructive union pathway** (toward polarization):
@@ -124,7 +124,7 @@ The third principle has multiple dimensions:
 
 ## Indigenous Ethics as Foundation
 
-The [[permaculture-ethics]] are common to all indigenous tribal peoples. Permaculture's focus on learning from indigenous cultures is based on evidence that these cultures have:
+The [[permaculture-ethics]] are common to all indigenous tribal peoples. Permaculture's focus on learning from [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] is based on evidence that these cultures have:
 
 - Existed in relative balance with their environment
 - Survived longer than any recent experiments in civilization

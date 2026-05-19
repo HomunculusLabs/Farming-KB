@@ -18,11 +18,11 @@ His reasoning: all of these are **palliatives** — from the Latin *pallium*, a 
 
 ## The Organic Farmer's Mistake
 
-Coleman was unsparing in his critique of organic farmers who rely on natural pesticides:
+Coleman was unsparing in his [[fukuoka-critique-of-organic-farming]] farmers who rely on natural pesticides:
 
 > "From the point of view of creating a long-term dependable agriculture, the organic farmer who uses natural insecticides is no wiser than his chemical counterpart; different materials but the same mistake."
 
-This is a provocative position. It asserts that the distinction between chemical and organic pest control is superficial — both treat symptoms rather than causes. The real difference is not what you spray but whether you need to spray at all.
+This is a provocative position. It asserts that the distinction between chemical and [[cervantes-neem-oil-organic-pest-control]] is superficial — both treat symptoms rather than causes. The real difference is not what you spray but whether you need to spray at all.
 
 ## The Paradigm Shift: Pests as Coworkers
 
@@ -93,7 +93,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.

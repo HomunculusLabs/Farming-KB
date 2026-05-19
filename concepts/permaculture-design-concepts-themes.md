@@ -58,7 +58,7 @@ This indigenous wisdom, predating modern ecology by a century, expresses the sam
 - Requires consideration of multiple interacting factors
 
 ## Practical Applications
-- Applied in permaculture design and sustainable land management
+- Applied [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] sustainable land management
 - Supports decision-making in agricultural and ecological contexts
 - Used in conservation and environmental restoration projects
 - Helps practitioners develop more resilient and productive systems
@@ -66,7 +66,7 @@ This indigenous wisdom, predating modern ecology by a century, expresses the sam
 ## Ecological Significance
 - Contributes to understanding of ecosystem dynamics and function
 - Supports biodiversity and enhances natural system resilience
-- Plays role in nutrient cycling and energy flow processes
+- Plays role in [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] energy flow processes
 - Understanding improves capacity for sustainable resource management
 
 ## Related Concepts
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Permaculture Design Concepts Themes finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

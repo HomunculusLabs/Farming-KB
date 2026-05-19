@@ -21,7 +21,7 @@ Powell's The [[philosophical-implications-of-psychedelics]]
 
 ## Overview
 
-The "piggyback" or "window exploitation" technique represents one of the most significant methodological innovations documented in PiHKAL for the therapeutic use of psychedelic compounds. First discovered and explored with MDE, this approach was subsequently extended most successfully with MDMA, and has implications for clinical [[blesching-cannabis-therapeutic-window-dosing]]
+The "piggyback" or "window exploitation" technique represents one of the most significant methodological innovations documented in PiHKAL for the therapeutic use of [[psychedelic-compounds-reference]]. First discovered and explored with MDE, this approach was subsequently extended most successfully with MDMA, and has implications for clinical [[blesching-cannabis-therapeutic-window-dosing]]
 2. Supplemental MDMA dose (typically 40 mg) at approximately 1.5 hours to extend effects
 3. At the drop-off period, introduction of a second compound at reduced dosage
 
@@ -76,7 +76,7 @@ than assuming perfect predictability or control over outcomes.
 ## Overview
 
 Psychedelic Therapeutic Frameworks represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 psychedelic therapeutic frameworks and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

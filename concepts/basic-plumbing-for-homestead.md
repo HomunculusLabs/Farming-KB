@@ -3,7 +3,7 @@ title: Basic Plumbing for Homestead
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, water, water-management, equipment, engineering]
+tags: [[homesteading]], water, [[water-management]], equipment, engineering]
 sources: []
 ---
 
@@ -51,7 +51,7 @@ Traditional plumbing material with a proven track record spanning decades.
 - Higher material and labor cost
 - Requires soldering skills and a torch
 - Can develop pinhole leaks from acidic water
-- More susceptible to freeze damage than PEX
+- More susceptible to [[query-how-do-i-protect-plants-from-frost-and-freeze-damage]] than PEX
 - Water hammer can be an issue without air chambers
 
 **Installation:**

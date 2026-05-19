@@ -1,5 +1,5 @@
 ---
-title: Contour Swale Irrigation Design
+title: [[comparison-swale-design-vs-contour-swale-irrigation-design]]
 created: 2026-04-28
 tags: [swales, contour, irrigation, water-harvesting, [[bill-mollison]]'s [[water-management]]. They
 transform destructive runoff into productive soil moisture, charge
@@ -32,7 +32,7 @@ wider sections are dug where soil is more permeable.
 ### Construction Methods
 
 Swales can be dug by hand with shovels, by small crawler tractors, or with
-larger earthmoving equipment for broadscale applications. The most efficient
+larger [[advanced-earthmoving-equipment]] for broadscale applications. The most efficient
 hand-digging method uses two people: one with a broad shovel placed in the
 ground, the other pulling with a rope attached to the shovel neck. This
 rocking motion allows two people to throw up earth banks as fast as they can
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Contour Swale Irrigation Design finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

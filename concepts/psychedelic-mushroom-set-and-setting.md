@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The concepts of "set" and "setting" are foundational principles in psychedelic use, first articulated by Timothy Leary and popularized through the counterculture movement. Set refers to the internal psychological state of the person, while setting refers to the external physical and social environment. Together, they are the most significant determinants of the quality, safety, and therapeutic value of a psychedelic experience — often more so than the dose itself.
+The concepts of "set" and "setting" are foundational principles in psychedelic use, first articulated by Timothy Leary and popularized through the counterculture movement. Set refers to the internal psychological state of the person, while setting refers to the external physical and social environment. Together, they are the most significant determinants of the quality, safety, and therapeutic value of a [[leary-psychedelic-experience-bardo-mapping]] — often more so than the dose itself.
 
 ## Set: Mental Preparation
 
@@ -35,8 +35,8 @@ Current mental health significantly affects the experience:
 - **Recent stress**: Can amplify anxiety during the experience; consider postponing
 - **Grief or loss**: Can surface powerfully; may be therapeutic with proper support or destabilizing without
 - **Depression**: Clinical depression does not preclude therapeutic use but requires careful screening and professional guidance
-- **Anxiety disorders**: Generalized anxiety can be amplified; controlled settings with professional support are essential
-- **Bipolar disorder**: Risk of manic episodes; generally contraindicated without psychiatric supervision
+- **[[cannabis-for-anxiety-disorders]]**: Generalized anxiety can be amplified; controlled settings with professional support are essential
+- **[[blesching-cannabis-bipolar-disorder]]**: Risk of manic episodes; generally contraindicated without psychiatric supervision
 - **Psychosis risk**: Personal or family history of psychotic disorders is a strong contraindication
 - **Recent substance use**: Alcohol, stimulants, and other drugs can unpredictably interact; avoid for at least 24-48 hours before
 

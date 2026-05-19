@@ -1,12 +1,12 @@
 ---
-title: Soil Microbiology In Natural Farming
+title: Soil Microbiology [[cho-loess-powder-in-natural-farming]]
 created: 2026-05-09
 tags: [farming, soil, microbiology, ecology, nitrogen-fixation]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - The Natural Way of Farming by [[masanobu-fukuoka]]'s [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], organic matter decomposition, soil structure
+  - The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] by [[masanobu-fukuoka]]'s [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], organic matter decomposition, soil structure
 maintenance, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 
 ## Soil Bacteria and Nitrogen Fixation
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 ## Research and Development
 
 Ongoing research continues to expand understanding of
-soil microbiology in natural farming and its applications. Active investigation
+soil microbiology in [[korean-natural-farming-and-jadam]] its applications. Active investigation
 areas include ecological interactions and optimization.
 Published findings contribute to an evolving evidence base.
 

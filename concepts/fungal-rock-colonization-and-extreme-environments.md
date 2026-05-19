@@ -1,5 +1,5 @@
 ---
-title: Fungal Rock Colonization and Extreme Environments
+title: Fungal Rock Colonization and [[fungal-biodiversity-in-extreme-environments]]
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 authors: [Geoffrey M. Gadd, Euan P. Burford, Marina Fomina, Karrie Melville]
 tags: [fungi, extremophiles, rock-weathering, biogeology, Chernobyl, desert-fungi, lithophytic]
@@ -11,7 +11,7 @@ created: 2026-05-11
 Fungi colonize rocks and minerals in virtually every environment on Earth,
 from Antarctic dry valleys to radioactive nuclear reactor containment
 structures. Their ability to survive and actively weather rocks under extreme
-conditions makes them key agents in geomorphology, biogeochemical cycling,
+conditions makes them key agents in geomorphology, [[arbuscular-mycorrhizal-phosphorus-biogeochemical-cycling]],
 and even the degradation of human-built structures.
 
 ## Lithic Fungal Communities
@@ -71,7 +71,7 @@ Fungi weather rocks through two interconnected categories of mechanisms:
 
 ### Biomechanical Weathering
 
-- **Direct**: Hyphal penetration into rocks via turgor pressure and
+- **Direct**: Hyphal penetration into rocks via [[bloomfield-turgor-pressure-and-hyphal-invasion]]
   enzymatic softening of mineral matrices
 - **Indirect**: Expansion and contraction of hydrated mucilage and
   extracellular polymeric substances in rock cracks, physically

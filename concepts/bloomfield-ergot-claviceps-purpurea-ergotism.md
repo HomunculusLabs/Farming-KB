@@ -1,5 +1,5 @@
 ---
-title: Bloomfield Ergot Claviceps Purpurea Ergotism
+title: Bloomfield Ergot [[claviceps-purpurea]] Ergotism
 created: 2026-04-28
 tags:
   - mycology
@@ -62,7 +62,7 @@ The greatest value from this topic often comes through integration
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Bloomfield Ergot Claviceps Purpurea Ergotism finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

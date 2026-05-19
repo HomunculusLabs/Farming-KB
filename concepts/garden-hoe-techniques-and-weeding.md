@@ -1,5 +1,5 @@
 ---
-title: Garden Hoe Techniques And Weeding
+title: [[solomon-garden-hoe-and-cultivation-techniques]] Techniques And Weeding
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
@@ -115,7 +115,7 @@ A special hoe design well worth having in addition to the standard garden hoe:
 
 ## Weeding Frequency and Timing
 
-- **Once a week during peak growing season**: Keeps all weeds small and easily killed
+- **Once a week during peak [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]**: Keeps all weeds small and easily killed
 - **Less often as summer wanes**: Weed growth slows as temperatures moderate
 - **Spring is critical**: Everything is growing rapidly, and unsettled weather often keeps the gardener out of action while weeds reach the size that demands exhausting chopping rather than easy scraping
 

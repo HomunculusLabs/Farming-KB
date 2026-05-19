@@ -46,7 +46,7 @@ This is the best example of the paralysis of public discourse due to an absence 
 
 ### The Fundamentalism-Globalization Paradox
 
-Dr Sherif Youssef Hetata, a leading Egyptian activist against religious fundamentalism, pointed out that globalization as delivered by hegemonic Western power not only drives the rise of religious fundamentalism but also shares many characteristics with religious fundamentalism. This apparent conflict can be understood as the destructive pathway to the emergent union of materialist and spiritual aspects.
+Dr Sherif Youssef Hetata, a leading Egyptian activist against religious fundamentalism, pointed out that globalization as delivered by hegemonic Western power not only drives the rise of religious fundamentalism but also shares many characteristics with religious fundamentalism. This apparent conflict can be understood as the destructive pathway to the emergent union of materialist and [[fukuoka-road-spiritual-aspects-farming]].
 
 Just as important as the decadent power elite is the complicity of the billion or so middle-class recipients of most of the fossil-fuel wealth that flows from this system of power.
 
@@ -73,7 +73,7 @@ Understanding and applying top-down thinking and bottom-up action is the key to 
 
 The theoretical basis for this concept draws from systems thinking,
 ecology, and design science. It integrates principles of energy flow,
-nutrient cycling, and community dynamics to create practical frameworks
+nutrient cycling, [[savory-plant-succession-and-community-dynamics]] to create practical frameworks
 for sustainable design and management.
 ## Implementation Strategies
 
@@ -85,7 +85,7 @@ evolve in response to changing conditions and emerging feedback.
 
 Documented examples demonstrate successful application across diverse
 climates and scales. Common success factors include thorough site
-analysis, community engagement, appropriate technology selection,
+analysis, community engagement, [[appropriate-technology]] selection,
 and long-term monitoring and adaptation.
 ## Sustainability Metrics
 

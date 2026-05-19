@@ -30,7 +30,7 @@ Stamets devised an ingenious technique for fungal inoculation: mixing mushroom s
 
 Stamets describes mycelium's role eloquently:
 
-> Mushroom mycelium is the grand demolecularizer of plant fibers (lignin and cellulose), creating soil as an end consequence. My goal is to make use of fungi's appetite for wood chips to increase soil depth so that the soil has a greater carrying capacity for the tree successions that spring from it. I see wood chips as valuable ecological currency that should be reinvested into the forest's ecobank to enhance sustainability.
+> Mushroom mycelium is the grand demolecularizer of plant fibers (lignin and cellulose), creating soil as an end consequence. My goal is to make use of fungi's appetite for wood chips to increase soil depth so that the soil has a greater [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] for the tree successions that spring from it. I see wood chips as valuable ecological currency that should be reinvested into the forest's ecobank to enhance sustainability.
 
 This passage captures the essence of mycoforestry: treating woody debris not as waste but as **ecological currency** — a resource to be reinvested into the forest ecosystem to build soil, increase water retention, and support future tree growth.
 
@@ -102,7 +102,7 @@ The greatest extinction in Earth's history occurred at the end of the Permian ag
 The Sustainable Communities / ZERI-New Mexico program provides a real-world model of mycoforestry in action:
 
 - **Problem**: Overgrown National Forests create severe fire hazard; thinning creates mountains of woody waste
-- **Solution**: Use woody refuse as mushroom substrate (oyster, shiitake), then use spent substrate as livestock feed
+- **Solution**: Use woody refuse [[grass-seed-as-mushroom-substrate]] (oyster, shiitake), then use spent substrate as livestock feed
 - **Additional benefit**: Even wood digested by mushrooms becomes digestible feed for cows, sheep, bison, and worms
 - **Erosion control**: Myceliated wood chips deployed in erosion-prone areas
 
@@ -112,7 +112,7 @@ With global warming recognized as a serious threat, mycoforestry offers several 
 
 1. **Carbon sequestration**: Fungi build stable soil organic matter that locks carbon underground
 2. **Reduced wildfire risk**: Forest thinning combined with fungal inoculation reduces fuel loads
-3. **Soil moisture retention**: Mycelial networks improve soil structure and water-holding capacity
+3. **Soil moisture retention**: Mycelial networks [[query-how-do-fungi-improve-soil-structure]] and water-holding capacity
 4. **Reduced need for synthetic inputs**: Fungal-mediated nutrient cycling replaces fossil-fuel-dependent fertilizers
 
 ## See Also

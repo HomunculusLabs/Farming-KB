@@ -1,5 +1,5 @@
 ---
-title: Mushroom mushroom strain preservation senescence and Senescence
+title: Mushroom [[mushroom-strain-preservation-species-banking]] senescence and Senescence
 created: 2026-04-22
 updated: 2026-04-22
 type: concept
@@ -28,7 +28,7 @@ The rate of senescence varies enormously between species and even between strain
 The simplest preservation method, suitable for short-to-medium term storage (up to one year):
 
 1. Maintain stock cultures on [[growing-gourmet-agar-media-formulas-preparation]] formulations for successive stock culture transfers
-- If PDA (Potato Dextrose Agar) is used for the first transfer, use MEA ([[malt-extract-agar]]) for the second, then PDA again
+- If PDA ([[potato-dextrose-agar]]) is used for the first transfer, use MEA ([[malt-extract-agar]]) for the second, then PDA again
 - This alternation provides different nutrient profiles that may help maintain metabolic flexibility
 - The biochemical stress of adapting to new media may trigger beneficial gene expression patterns
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mushroom Strain Preservation Senescence finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -18,7 +18,7 @@ and the hormonal basis of symbiosis-in-fungi.
 
 ## Bioassay for IAA Detection
 
-A plant-based bioassay using Arabidopsis thaliana provides a rapid screening
+A plant-based bioassay using [[arabidopsis-thaliana]] provides a rapid screening
 method for auxin production by symbiotic fungi:
 
 ### Single-Medium Bioassay
@@ -103,10 +103,10 @@ Knowledge transfer and capacity building strengthen community resilience and ena
 Understanding environmental feedback mechanisms and system boundaries helps predict outcomes and avoid unintended consequences. Complex interactions require holistic assessment approaches.
 ## Adaptive Management
 
-Flexible management approaches that incorporate monitoring feedback and enable course correction prove more resilient than rigid plans in dynamic environments.
+Flexible management approaches that incorporate [[savory-replanning-and-monitoring-feedback]] and enable course correction prove more resilient than rigid plans in dynamic environments.
 ## Resource Efficiency
 
-Optimizing resource utilization reduces waste, lowers costs, and minimizes environmental impact. Circular economy principles transform waste streams into valuable inputs.
+Optimizing resource utilization reduces waste, lowers costs, and minimizes environmental impact. [[zeri-circular-economy-systems]] principles transform waste streams into valuable inputs.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

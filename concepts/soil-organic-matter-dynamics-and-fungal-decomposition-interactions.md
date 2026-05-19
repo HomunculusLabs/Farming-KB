@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The decomposition of soil organic matter by fungi involves complex interactions among fungal species, soil fauna, bacteria, and the chemical properties of the organic substrate. This page covers the key processes governing soil organic matter turnover, including microbial biomass recycling, enzyme-mediated decomposition, and the physical role of fungi in soil structure formation.
+The decomposition of soil organic matter by fungi involves complex interactions among fungal species, soil fauna, bacteria, and the chemical properties of the organic substrate. This page covers the key processes governing soil organic matter turnover, including microbial biomass recycling, enzyme-mediated decomposition, and the physical role of fungi in [[soil-structure-formation]].
 
 ## Microbial Biomass Turnover
 
@@ -53,7 +53,7 @@ The lignin-to-nitrogen ratio has become a widely used predictor of decomposition
 
 ## Fungi in Desert and Extreme Environments
 
-Fungi are surprisingly important in extreme environments:
+Fungi are surprisingly important [[fungal-biodiversity-in-extreme-environments]]:
 
 - **States and Christensen (2001)** documented fungi associated with [[biological-soil-indicators]] in desert grasslands of Utah and Wyoming
 - **Schmidt (1999)** characterized microbial properties of permafrost soils on the Taimyr Peninsula in central Siberia
@@ -78,7 +78,7 @@ Fungi can concentrate certain radionuclides, with implications for both ecology 
 - **Dighton and Horrill (1988)** measured radiocaesium accumulation in mycorrhizal fungi (*Lactarius rufus* and *Inocybe longicystis*) in upland Britain
 - **Gray et al. (1995)** used autoradiography and quantitative image analysis to measure real-time uptake and translocation of ¹³⁷Cs within *Schizophyllum commune* mycelium
 
-This bioaccumulation capacity means that fungi can serve as both biological indicators of contamination and vectors for radionuclide transfer into food webs.
+This bioaccumulation capacity means that fungi can serve as both [[biological-indicators-of-soil]] contamination and vectors for radionuclide transfer into food webs.
 
 ## Key References
 

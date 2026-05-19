@@ -28,12 +28,12 @@ The mycophobia/mycophilia divide has real ecological consequences:
 
 - Mycophilic cultures tend to have better knowledge of local fungal biodiversity, which supports conservation of fungal habitats and recognition of ecological roles played by fungi.
 - Mycophobic cultures may inadvertently destroy important fungal habitats through ignorance — for example, removing dead wood that serves as substrate for saprophytic fungi that are essential for forest nutrient cycling.
-- Education programs that teach safe foraging practices can help shift cultures from mycophobia toward informed mycophilia.
+- Education programs that teach safe [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]] can help shift cultures from mycophobia toward informed mycophilia.
 - The growing interest in foraging, fueled by social media and farm-to-table cuisine movements, is gradually reducing mycophobia in previously fearful cultures.
 
 ## Mushrooms in Language and Folklore
 
-Cultural attitudes toward mushrooms are reflected in language and folklore:
+[[weil-cultural-attitudes-toward-altered-states]] mushrooms are reflected in language and folklore:
 
 - **English**: Mushroom-related idioms tend to be negative — "to mushroom" means to grow rapidly and uncontrollably; "mushroom cloud" refers to nuclear explosions.
 - **Russian**: The Russian language has over a hundred terms for different mushroom species and conditions, reflecting deep cultural familiarity. "Quiet hunting" (тихая охота) is the poetic Russian term for mushroom foraging.
@@ -45,7 +45,7 @@ Cultural attitudes toward mushrooms are reflected in language and folklore:
 Contemporary attitudes are shifting in complex ways:
 
 - **Gourmet mushroom market**: The global market for specialty mushrooms (shiitake, oyster, maitake, lion's mane) is growing rapidly, introducing mycophobic cultures to mushroom diversity through safe, cultivated products. The specialty mushroom market is valued at over $50 billion globally and continues to expand.
-- **Functional mushrooms**: Medicinal mushroom products (reishi, cordyceps, turkey tail) in the wellness industry are popularizing fungal knowledge among health-conscious consumers. Products like mushroom coffee, adaptogenic blends, and immune support supplements have become mainstream.
+- **Functional mushrooms**: [[regulatory-frameworks-for-medicinal-mushroom-products-worldwide]] (reishi, cordyceps, turkey tail) in the wellness industry are popularizing fungal knowledge among health-conscious consumers. Products like mushroom coffee, adaptogenic blends, and immune support supplements have become mainstream.
 - **Foraging revival**: Television shows, social media, and foraging workshops are teaching safe identification skills to new generations. Apps like iNaturalist and dedicated mushroom identification apps have democratized access to expert knowledge.
 - **Cultivation at home**: DIY mushroom growing kits have made home cultivation accessible, bridging the gap between mycophobia and hands-on fungal experience. Companies like Back to the Roots and North Spore have brought mushroom growing into mainstream retail.
 - **Mycotourism**: Mushroom festivals, guided foraging tours, and mycologically focused ecotourism are growing industries in regions with strong fungal diversity. The annual Fungus Fair in Santa Cruz, California, and the Borgotaro mushroom festival in Italy draw thousands of attendees each year.

@@ -22,7 +22,7 @@ sources:
 
 # Vegetable Garden Fertilization
 
-Comprehensive fertilization program for home vegetable gardens, based on Purdue Extension guidelines. Covers soil test-based fertility, annual maintenance fertilization, starter solutions for transplants, nitrogen side-dressing by crop, soil pH adjustment, and organic matter management.
+Comprehensive fertilization program for home vegetable gardens, based on Purdue Extension guidelines. Covers soil test-based fertility, annual maintenance fertilization, starter solutions for transplants, nitrogen side-dressing by crop, soil pH adjustment, [[hamilton-composting-and-organic-matter-management]].
 
 Related: [[vegetable-garden-guide]], [[soil-testing]], [[interpreting-soil-test-results]], [[soil-fertility-management]]
 
@@ -43,7 +43,7 @@ Apply balanced fertilizer (N-P-K) in spring, worked into upper 3-5 inches. Commo
 
 ## Step 3: Starter Fertilizer for Transplants
 
-Use high-phosphorus water-soluble fertilizer (5-10-5, 10-52-17, 8-32-16, 12-24-14, 15-30-15, or 13-26-13) at 1-2 tablespoons per gallon. Apply 1-2 cups around roots of each transplant. Phosphorus is the most critical element for transplant establishment.
+Use high-phosphorus water-soluble fertilizer (5-10-5, 10-52-17, 8-32-16, 12-24-14, 15-30-15, or 13-26-13) at 1-2 tablespoons per gallon. Apply 1-2 cups around roots of each transplant. Phosphorus is the most critical element for [[solomon-fertigation-and-transplant-establishment]].
 
 ## Step 4: Nitrogen Side-Dressing
 
@@ -104,7 +104,7 @@ Plant half the garden to winter green manure (Sep/Oct), apply well-rotted manure
 - [[soil-testing]] — Soil analysis methods
 - [[interpreting-soil-test-results]] — Understanding soil test reports
 - [[soil-fertility-management]] — Organic fertility management
-- [[cover-cropping-guide]] — Green manures and cover crops
+- [[cover-cropping-guide]] — [[green-manures-and-cover-crops]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

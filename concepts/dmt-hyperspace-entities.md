@@ -1,5 +1,5 @@
 ---
-title: DMT Hyperspace Entities
+title: DMT [[i-thou-relationship-hyperspace-entities-tryptamine]]
 aliases:
   - mckenna-translinguistic-objects-cognitive-dissonance-tryptamine
   - hyperdimensional beings
@@ -24,7 +24,7 @@ source: "McKenna, T. (1983/1992). archaic-revival-partnership-vs-dominator-cultu
 One of the most consistently reported features of the DMT experience is the
 encounter with apparently autonomous, intelligent entities inhabiting what Terence
 McKenna called "hyperspace." These beings — most famously described as "self-
-transforming machine elves" — are encountered by a significant proportion of DMT
+[[dmt-self-transforming-machine-elves-mckenna]]" — are encountered by a significant proportion of DMT
 experiencers across diverse cultural backgrounds, suggesting they represent a stable
 feature of the DMT state rather than idiosyncratic projections. In his 1983 Esalen
 lecture, McKenna treated these encounters not as hallucinatory artifacts but as
@@ -67,7 +67,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The **cluster flower stage** is the defining growth phase of *Grifola frondosa* (maitake) fruiting bodies, during which the characteristic overlapping, fan-shaped caps develop along elongated stems to form a large, bouquet-like cluster. Recognizing the signs of optimal maturity during this stage and executing a timely harvest are critical for achieving high-quality mushrooms suitable for fresh-market sale.
+The **cluster flower stage** is the defining growth phase of *[[grifola-frondosa-maitake]]* (maitake) fruiting bodies, during which the characteristic overlapping, fan-shaped caps develop along elongated stems to form a large, bouquet-like cluster. Recognizing the signs of optimal maturity during this stage and executing a timely harvest are critical for achieving high-quality mushrooms suitable for fresh-market sale.
 
 ## The Cluster Flower Stage
 
@@ -94,11 +94,11 @@ Rice paper wrapping is preferred because it allows some moisture exchange while 
 
 ## Yield Expectations
 
-Maitake cultivation on synthetic logs or supplemented sawdust bags typically produces **modest yields**:
+Maitake cultivation on synthetic logs or [[oyster-mushroom-supplemented-sawdust-blocks]] bags typically produces **modest yields**:
 
 - **1.1–2.2 kg per bag** under standard conditions.
 - Exceptional bags may yield up to **4.4 kg**, though this is uncommon.
-- Overall yields are generally considered **low** compared to other cultivated mushrooms.
+- Overall yields are generally considered **low** compared to other [[fungi-cultivated-mushrooms-pathogens-competitors]].
 
 ### Market Considerations
 

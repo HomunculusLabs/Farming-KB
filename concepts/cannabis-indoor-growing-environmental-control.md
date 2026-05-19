@@ -1,5 +1,5 @@
 ---
-title: Cannabis Indoor Growing — Environmental Control Fundamentals
+title: [[cannabis-indoor-growing-basics]] — Environmental Control Fundamentals
 source: greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
@@ -44,7 +44,7 @@ A well-balanced growing medium provides:
 
 ### Macronutrients
 
-| Nutrient | Role | Deficiency Symptoms |
+| Nutrient | Role | [[knf-calcium-deficiency-symptoms]] |
 |---|---|---|
 | Nitrogen (N) | Vegetative growth, chlorophyll | Yellowing of lower leaves |
 | Phosphorus (P) | Root development, flowering | Dark/green-purple leaves, slow growth |
@@ -66,7 +66,7 @@ Calcium, magnesium, sulfur, iron, manganese, zinc, copper, boron, and molybdenum
 
 - Fresh air exchange is essential for:
   - **CO₂ replenishment**: Plants consume CO₂ during photosynthesis.
-  - **Temperature regulation**: Removing excess heat from lighting.
+  - **[[blesching-cannabis-fever-temperature-regulation]]**: Removing excess heat from lighting.
   - **Humidity control**: Preventing mould and mildew.
   - **Strengthening stems**: Air movement causes plants to develop stronger structural tissues.
 

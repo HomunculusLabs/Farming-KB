@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[claudio-naranjo]]'s experimental research documented recurring visions of large felines (tigers, panthers, jaguars), reptiles (snakes, crocodiles, lizards), dragons, and prehistoric creatures among subjects under the influence of yage and harmaline. These visions closely parallel the animal spirits encountered by indigenous Amazonian shamans, providing further evidence for the biochemical basis of cross-cultural shamanic imagery.
+[[claudio-naranjo]]'s experimental research documented recurring visions of large felines (tigers, panthers, jaguars), reptiles (snakes, crocodiles, lizards), dragons, and prehistoric creatures among subjects under the influence of yage and harmaline. These visions closely parallel the animal spirits encountered by indigenous [[ayahuasqueros-amazonian-shamans]], providing further evidence for the biochemical basis of cross-cultural shamanic imagery.
 
 ## Feline Visions
 
@@ -50,7 +50,7 @@ The transition from feline to reptilian to microbial imagery suggests a regressi
 
 ### Regression Through Time
 
-The progression from complex mammals (tigers, panthers) through reptiles (crocodiles, lizards) to single-celled organisms (algae, micro-organisms) mirrors the evolutionary history of life on Earth. This suggests that the yage experience may activate brain systems that store evolutionary memory, or at least that the visual cortex under the influence of harmala alkaloids generates imagery that follows an evolutionary logic.
+The progression from complex mammals (tigers, panthers) through reptiles (crocodiles, lizards) to single-celled organisms (algae, micro-organisms) mirrors the evolutionary history of life on Earth. This suggests that the yage experience may activate brain systems that store evolutionary memory, or at least that the visual cortex under the influence of [[harmala-alkaloids]] generates imagery that follows an evolutionary logic.
 
 ### The Prehistoric Pond
 
@@ -60,7 +60,7 @@ The "prehistoric pond" vision, with its "primitive forms of life," represents th
 
 ### Indigenous Feline Spirits
 
-The prominence of feline visions in Naranjo's Chilean subjects mirrors the centrality of jaguar spirits in Amazonian shamanism. Among the Amahuaca, the jaguar yoshi is the most important spirit connected with both healing and witchcraft. Among the Jivaro, the jaguar appears in diagnostic visions. The consistency of feline imagery across cultures and settings supports the biochemical reinforcement thesis.
+The prominence of feline visions in Naranjo's Chilean subjects mirrors the centrality of jaguar spirits [[chullachaki-and-soul-recovery-in-amazonian-shamanism]]. Among the Amahuaca, the jaguar yoshi is the most important spirit connected with both healing and witchcraft. Among the Jivaro, the jaguar appears in diagnostic visions. The consistency of feline imagery across cultures and settings supports the biochemical reinforcement thesis.
 
 ### Dragons
 

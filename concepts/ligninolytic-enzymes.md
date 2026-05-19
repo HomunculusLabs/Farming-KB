@@ -37,7 +37,7 @@ Several accessory enzymes support the ligninolytic enzyme system:
   alcohols, supplying the peroxide needed by MnP and VP.
 - **Glyoxal oxidase**: Produces H2O2 from glyoxal and other alpha-hydroxy
   carbonyl compounds.
-- **Manganese-independent peroxidase**: Directly oxidizes phenolic compounds
+- **Manganese-independent peroxidase**: Directly oxidizes [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
   using H2O2 without manganese involvement.
 - **Glucose oxidase**: Generates H2O2 from glucose, providing peroxide in
   glucose-rich environments.
@@ -47,7 +47,7 @@ Several accessory enzymes support the ligninolytic enzyme system:
 
 Ligninolytic enzyme expression in *Pleurotus* species is regulated by multiple
 [[mushroom-cultivation]]:
-too much nitrogen supplementation can suppress enzyme production and reduce
+too much [[nitrogen-supplementation-for-mushroom-substrates]] can suppress enzyme production and reduce
 
 ## Practical Considerations
 
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Ligninolytic Enzymes finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Plant Spirits
+title: [[ayahuasca-plant-spirits-sacha-huarmi-piripiri-icaro-healing]]
 source: ayahuasca-visions
 topics:
   - plant-spirits
@@ -78,7 +78,7 @@ travels through these regions during [[plant-mothers-spirits]]
 ## Overview
 
 Ayahuasca Plant Spirits represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 ayahuasca plant spirits and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

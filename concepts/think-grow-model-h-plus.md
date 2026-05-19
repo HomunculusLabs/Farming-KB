@@ -38,7 +38,7 @@ The four independent channels typically correspond to:
 1. **White channel** — full-spectrum white LEDs providing baseline illumination and canopy penetration (green wavelengths)
 2. **Blue channel** — 450nm blue LEDs for vegetative growth, compact internode spacing, and chlorophyll production
 3. **Red channel** — 630-660nm red LEDs, the primary driver of photosynthesis and flowering
-4. **UV/Far-Red channel** — supplementary wavelengths: UV for trichome stimulation, far-red (730nm) for phytochrome-mediated flowering response
+4. **UV/Far-Red channel** — supplementary wavelengths: UV for trichome stimulation, far-red (730nm) for phytochrome-mediated [[mollison-designers-day-length-and-flowering-response]]
 
 ## Channel Programming by Stage
 
@@ -95,7 +95,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

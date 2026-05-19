@@ -26,7 +26,7 @@ This distinction is critical: if effects are perceptible, the dose is too high a
 
 The most commonly microdosed psychedelic:
 
-- Source: Dried Psilocybe cubensis mushrooms (most common)
+- Source: Dried [[query-how-to-identify-psilocybe-cubensis-mushrooms]] (most common)
 - Typical microdose range: 0.05-0.25 g dried mushroom (approximately 0.5-2.5 mg psilocybin)
 - Mushroom potency varies enormously; same species can differ 3-5x in active compound content
 - Variability makes consistent dosing with whole mushrooms challenging
@@ -46,7 +46,7 @@ Occasionally microdosed, less commonly:
 - Mescaline: 25-75 mg (from San Pedro or peyote)
 - DMT: 1-5 mg (uncommon; short duration may not suit microdosing schedules)
 - Iboga: 50-100 mg of root bark (used in traditional contexts; cardiotoxicity risk even at low doses)
-- MDMA: 5-10 mg (concerns about serotonergic neurotoxicity with repeated dosing)
+- MDMA: 5-10 mg (concerns about [[mdma-serotonergic-neurotoxicity]] with repeated dosing)
 
 ## Protocols
 
@@ -68,7 +68,7 @@ Paul Stamets proposed a more intensive schedule:
 
 - 4 days on, 3 days off, continuously
 - Often combined with Lion's Mane mushroom (Hericium erinaceus) and niacin (vitamin B3)
-- The combination is claimed to promote neurogenesis and neuroplasticity
+- The combination is claimed to promote [[blesching-cannabis-neurogenesis-and-neuroplasticity]]
 - Niacin is included to increase blood flow and distribute compounds to the brain
 
 Rationale: More consistent blood levels, with Lion's Mane providing complementary nerve growth stimulation.

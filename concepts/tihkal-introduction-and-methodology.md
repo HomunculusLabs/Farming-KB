@@ -52,14 +52,14 @@ The compounds cataloged in TIHKAL illustrate several structure-activity relation
 Each entry follows a consistent format:
 1. Chemical names (systematic IUPAC and common/trivial names)
 2. Synthesis procedure with detailed reagents, conditions, and yields
-3. Dosage ranges by route of administration
+3. Dosage ranges by [[mushroom-taste-route-of-administration-and-consumption-barriers]]
 4. Duration of effects
-5. Qualitative comments from human trials (first-person experience reports)
+5. [[qualitative-comments-methodology-pihkal]] from human trials (first-person experience reports)
 6. Extensions and commentary — pharmacology, natural occurrence, historical context, comparative analysis
 
 ## Pharmacological Context
 
-Tryptamines primarily act as serotonin receptor agonists, particularly at 5-HT2A and 5-HT1A receptors. The Shulgin compounds span a wide range of receptor affinities and functional selectivities, from the extremely potent lysergamides (microgram range) to the simpler tryptamines (milligram range).
+Tryptamines primarily act as [[serotonin-receptor-interference-psychedelic-mechanism]] agonists, particularly at 5-HT2A and 5-HT1A receptors. The Shulgin compounds span a wide range of receptor affinities and functional selectivities, from the extremely potent lysergamides (microgram range) to the simpler tryptamines (milligram range).
 
 ## Overview
 

@@ -20,7 +20,7 @@ Nonsystemic "P-endophytes" of grasses, mainly *Phialophora* and *Gliocladium* sp
 
 Scattered reports exist of systemic seed-borne endophytes outside the grass family:
 
-- *Phomopsis casuarinae* in *Casuarina equisetifolia* (Bose 1947)
+- *Phomopsis casuarinae* in *[[casuarina-equisetifolia]]* (Bose 1947)
 - Unidentified endophytes in *Helianthemum chamaecistus* (Boursnell 1950)
 - Ericaceae (Rayner 1915, 1929)
 
@@ -100,8 +100,8 @@ For delicate tissues (especially roots), serial washing removes surface contamin
 
 Routine mycological media are suitable for endophyte isolation. [[malt-extract-agar]] (MEA) at 1–2% is the most widely used base medium, sometimes supplemented with yeast extract (0.1–0.2%). Colony-limiting agents and antibiotics are often added to suppress fast-growing contaminants and bacteria:
 
-- **Bills and Polishook (1992):** 1% malt + 0.2% yeast + 50 ppm streptomycin + chlortetracycline yielded the highest species richness from *Chamaecyparis thyoides*.
-- **Bills and Polishook (1991):** Fungal growth inhibitors added to media produced greater species richness from *Carpinus caroliniana* bark.
+- **Bills and Polishook (1992):** 1% malt + 0.2% yeast + 50 ppm streptomycin + chlortetracycline yielded the highest species richness from *[[chamaecyparis-thyoides]]*.
+- **Bills and Polishook (1991):** Fungal growth inhibitors added to media produced greater species richness from *[[carpinus-caroliniana]]* bark.
 - **Water agar** can be used for initial isolations — it reduces bacterial and fungal contamination but produces more diffuse, spreading colonies that may be harder to transfer.
 
 Fungi isolated on selective media should be **subcultured quickly** onto media without inhibitors to restore normal growth and sporulation.

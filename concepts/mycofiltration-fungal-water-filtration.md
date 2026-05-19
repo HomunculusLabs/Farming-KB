@@ -18,7 +18,7 @@ The three-dimensional structure means that water follows tortuous paths through 
 
 Beyond physical straining, mycelium secretes a remarkable array of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), certain pesticides, and [[cancer-medicinal-mushrooms-pleurotus-ostreatus]]* (oyster mushroom) produce antibiotics that kill *Escherichia coli*, *Salmonella*, and other pathogenic bacteria.
 
-The mycelium effectively creates a biological kill zone, reducing bacterial concentrations by several orders of magnitude as water moves through the substrate. This antimicrobial exudation is continuous and self-renewing, unlike chemical disinfectants such as chlorine that must be repeatedly applied and that can create toxic byproducts. The specificity of fungal antimicrobials is also noteworthy: they tend to target pathogenic organisms while sparing beneficial bacteria.
+The mycelium effectively creates a biological kill zone, reducing bacterial concentrations by several [[event-classification-and-orders-of-magnitude]] as water moves through the substrate. This antimicrobial exudation is continuous and self-renewing, unlike chemical disinfectants such as chlorine that must be repeatedly applied and that can create toxic byproducts. The specificity of fungal antimicrobials is also noteworthy: they tend to target pathogenic organisms while sparing beneficial bacteria.
 
 ### Bioaccumulation and Competitive Exclusion
 
@@ -63,7 +63,7 @@ too slow and the system becomes anaerobic. Substrate depth, porosity, and
 surface area all affect contact time and filtration efficiency. Stamets
 recommends a minimum contact time of 2-3 minutes for basic particulate
 and biological filtration, with longer retention times needed for chemical
-pollutant removal.
+[[singh-fungal-biosurfactants-pollutant-removal]].
 
 ## Species Selection for Specific Contaminants
 Different fungal species exhibit different filtration capabilities:
@@ -74,7 +74,7 @@ Different fungal species exhibit different filtration capabilities:
 - *Ganoderma lucidum*: Strong enzymatic activity for chemical pollutant
   degradation; produces antimicrobial compounds
 - *Trametes versicolor*: Powerful lignin-degrading enzymes effective
-  against PAHs, dyes, and pharmaceutical contaminants
+  against PAHs, dyes, and [[staycare-mycoremediation-of-pharmaceutical-contaminants]]
 
 ## Maintenance and Longevity
 Mycofiltration systems require periodic maintenance to remain effective.

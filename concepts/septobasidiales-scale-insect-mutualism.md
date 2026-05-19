@@ -66,14 +66,14 @@ Septobasidiales are perennial fungi.
 Growth occurs during the wet season.
 Growth slows or stops during dry or cold periods.
 Probasidia are produced near the end of growth or during dormancy.
-They germinate at the onset of the next growing season.
+They germinate at the onset of the next [[extending-growing-season]].
 Timing matters because basidia are taxonomically important.
 The best material is often collected near dormancy's end.
 Colonies tolerate periodic drying.
 Probasidia function as dormant perennating structures.
-Extreme heat should be avoided because it can kill probasidia.
+[[extreme-heat-preparedness]] should be avoided because it can kill probasidia.
 Air drying with moving air is preferable.
-Desiccants or low heat may be needed in humid climates.
+Desiccants or low heat may be needed in [[berry-fruit-production-cool-humid-climates]].
 The goal is to dry specimens without cooking them.
 ## Preparing Specimens
 Identification may require haustoria, probasidia, basidia, and basidiospores.

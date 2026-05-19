@@ -20,7 +20,7 @@ type: concept
 
 # The Okuninushi Sack Parable and the Limits of Human Knowledge
 
-In *The Natural Way of Farming*, [[fukuoka-textdoc-no-good-or-evil-in-nature]]
+In *The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]*, [[fukuoka-textdoc-no-good-or-evil-in-nature]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
@@ -72,7 +72,7 @@ is increasingly recognized as essential for sustainable outcomes.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
@@ -85,7 +85,7 @@ Careful observation and documentation support ongoing improvement.
 
 ## Research Developments
 
-Current research directions and emerging findings for fukuoka textdoc okuninushi sack parable nature unk. Understanding
+[[psychedelic-therapy-current-research]] directions and emerging findings for fukuoka textdoc okuninushi sack parable nature unk. Understanding
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 

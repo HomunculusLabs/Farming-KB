@@ -79,7 +79,7 @@ to home cultivation for interested consumers.
 The potency of sclerotia compared to the fruiting bodies of the same
 species is an important consideration for users. Both sclerotia and
 fruiting bodies of Psilocybe mexicana and Psilocybe tampanensis contain
-the same primary psychoactive compounds, psilocybin and psilocin, but
+the same primary psychoactive compounds, [[psilocybin-and-psilocin-biosynthesis-variation]], but
 the concentrations may differ between the two forms.
 
 As with all hallucinogenic mushrooms, potency depends on multiple factors
@@ -97,7 +97,7 @@ fruiting bodies, which have a limited shelf life of approximately seven
 to ten days. The different physical form also means that sclerotia may
 be prepared and consumed differently, with users chopping them up or
 brewing them in tea, similar to the preparation methods used for
-fruiting bodies of hallucinogenic mushrooms.
+fruiting bodies [[health-risks-of-hallucinogenic-mushrooms]].
 
 ## See Also
 - [[psilocybin-mushroom-cultivation-compost-basics]]
@@ -108,7 +108,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

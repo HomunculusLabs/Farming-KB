@@ -10,7 +10,7 @@ aliases:
 
 ## Overview
 
-Night interruption (also called "night break" or "light break") is a photoperiod manipulation technique where a brief pulse of light is delivered during the dark period to prevent or delay flowering in short-day plants. Chrysanthemum (mollison-designers-day-length-and-flowering-response. Far-red light (~730 nm) can reverse the effect of a red-light night break, further confirming the phytochrome mechanism—the far-red light converts Pfr back to Pr, effectively cancelling the interruption.
+Night interruption (also called "night break" or "light break") is a [[commercial-photoperiod-manipulation-agriculture]] technique where a brief pulse of light is delivered during the dark period to prevent or delay flowering in short-day plants. Chrysanthemum (mollison-designers-day-length-and-flowering-response. Far-red light (~730 nm) can reverse the effect of a red-light night break, further confirming the phytochrome mechanism—the far-red light converts Pfr back to Pr, effectively cancelling the interruption.
 
 ## Commercial Implementation
 
@@ -40,7 +40,7 @@ Modern greenhouse operations increasingly use LED fixtures for night interruptio
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers
 continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+adapting [[wasted-human-resources-and-traditional-knowledge]] to contemporary challenges and opportunities.
 
 ## Key Considerations
 
@@ -51,7 +51,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.

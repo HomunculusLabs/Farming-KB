@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Strawberries are one of the most rewarding fruits for home gardeners — they produce fruit quickly (within the first year for some types), take up relatively little space, and the flavor of homegrown berries far exceeds anything from the store. This guide covers the three main types, runner management, bed renovation, and variety selection.
+Strawberries are one of the most rewarding fruits for home gardeners — they produce fruit quickly (within the first year for some types), take up relatively little space, and the flavor of homegrown berries far exceeds anything from the store. This guide covers the three main types, runner management, bed renovation, [[seed-saving-and-variety-selection]].
 
 ## Strawberry Types
 
@@ -33,7 +33,7 @@ Strawberries are one of the most rewarding fruits for home gardeners — they pr
 - Good choice for steady fresh eating throughout the season
 
 ### Day-Neutral
-- Produce fruit continuously throughout the growing season regardless of day length
+- Produce fruit continuously throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] regardless of day length
 - Start bearing about 3 months after planting
 - Smallest berries of the three types but most consistent production
 - Most productive in the first year
@@ -46,7 +46,7 @@ Strawberries are one of the most rewarding fruits for home gardeners — they pr
 - Want a big harvest for freezing/jam: June-bearing
 - Want steady fresh berries all season: Day-neutral
 - Want moderate harvests with less maintenance: Everbearing
-- Container growing: Day-neutral (compact, few runners)
+- [[container-growing-vegetables-herbs]]: Day-neutral (compact, few runners)
 - Many gardeners plant a combination
 
 ## Site Selection and Soil

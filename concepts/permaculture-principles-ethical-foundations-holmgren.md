@@ -45,7 +45,7 @@ Discourage inappropriate activity to ensure that systems can continue to functio
 ### 5. Use and Value Renewable Resources and Services
 *"Let nature take its course"*
 
-Make the best use of nature's abundance to reduce our consumptive behavior and dependence on non-renewable resources. Renewable services (such as biological pest control) are often more valuable than renewable products.
+Make the best use of nature's abundance to reduce our consumptive behavior and dependence on non-renewable resources. Renewable services (such as [[beneficial-insects-and-biological-pest-control]]) are often more valuable than renewable products.
 
 ### 6. Produce No Waste
 *"A stitch in time saves nine" / "Waste not, want not"*
@@ -108,7 +108,7 @@ Holmgren argues that the concept of "sustainability" is insufficient — we need
 
 - **H.T. Odum's systems ecology** — Energy hierarchy, emergy, maximum power principle
 - **Bill Mollison's practical design** — [[zone-and-sector-analysis]], pattern understanding
-- **Traditional and indigenous knowledge** — Pre-industrial land management practices
+- **Traditional [[desert-food-systems-and-indigenous-knowledge]]** — Pre-industrial land management practices
 - **Post-modern and ecological thought** — Holism, sense of place, deep ecology
 
 ## Applications Across Scales
@@ -137,7 +137,7 @@ Permaculture addresses these problems through front-end design rather than back-
 
 ## Melliodora as Demonstration
 
-Holmgren's property at Hepburn Springs, Victoria, Australia — Melliodora — serves as one of Australia's best-known permaculture demonstration sites. Together with his partner Su Dennett and their son Oliver, he maintains the property as a living example of permaculture principles in practice, illustrating zone and sector analysis, [[passive-solar-design]], integrated food production, water harvesting, and community-scale sustainable living.
+Holmgren's property at Hepburn Springs, Victoria, Australia — Melliodora — serves as one of Australia's best-known permaculture demonstration sites. Together with his partner Su Dennett and their son Oliver, he maintains the property as a living example of permaculture principles in practice, illustrating [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]], [[passive-solar-design]], integrated food production, water harvesting, and community-scale sustainable living.
 
 ## Key Takeaways
 

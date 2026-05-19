@@ -6,7 +6,7 @@ type: concept
 
 # Soil Foodweb Establishment and AACT Mechanisms
 
-Establishing a healthy soil foodweb is the primary goal of Actively Aerated Compost Tea (AACT) applications. The *Field Guide for Actively Aerated Compost Tea* outlines a systematic approach to assessing, building, and monitoring soil biology, along with the mechanisms by which AACT improves plant and soil health. This page covers the procedures for establishing beneficial biology and the scientific mechanisms through which AACT achieves its effects.
+Establishing a healthy soil foodweb is the primary goal of [[actively-aerated-compost-tea-aact-brewing]] (AACT) applications. The *Field Guide for Actively Aerated Compost Tea* outlines a systematic approach to assessing, building, and monitoring soil biology, along with the mechanisms by which AACT improves plant and soil health. This page covers the procedures for establishing beneficial biology and the scientific mechanisms through which AACT achieves its effects.
 
 ## Establishing What Biology You Have
 
@@ -65,7 +65,7 @@ The primary mechanism of disease suppression is competitive exclusion. When AACT
 1. **Occupy physical space**: Bacterial biofilms and fungal hyphae cover root surfaces and leaf surfaces, leaving no room for pathogens to establish
 2. **Consume food resources**: Beneficial organisms rapidly consume the sugars, amino acids, and other exudates that pathogens need, starving potential invaders
 3. **Create hostile microenvironments**: Metabolic byproducts of beneficial organisms (organic acids, enzymes, antibiotics) make the local environment less favorable for pathogens
-4. **Activate plant defenses**: Some beneficial organisms trigger induced systemic resistance in plants, priming their immune responses against future pathogen attack
+4. **Activate plant defenses**: Some beneficial organisms trigger [[endophytic-mycorrhizal-induced-systemic-resistance]] in plants, priming their immune responses against future pathogen attack
 
 ### Food as a Control Point
 
@@ -121,7 +121,7 @@ The field guide provides guidance on typical amounts and timing of inputs for AA
 ## See Also
 - Actively aerated compost tea overview
 - Soil foodweb and microbial ecology
-- Compost tea brewing methods and quality control
+- [[compost-tea-brewing-methods]] and quality control
 - Biological disease suppression in soils
 - Direct microscopy for soil biology assessment
 - [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]

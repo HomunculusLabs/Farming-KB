@@ -1,5 +1,5 @@
 ---
-title: Psilocin Biosynthetic Delay and Accumulation Across Successive Flushes
+title: [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] and Accumulation Across Successive Flushes
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md (Bigwood & Beug 1982)
 created: 2026-05-11
 tags: [mycology, psilocin, biosynthesis, flush, accumulation, delay, psilocybe-cubensis, bigwood-beug, dephosphorylation]
@@ -12,7 +12,7 @@ tags: [mycology, psilocin, biosynthesis, flush, accumulation, delay, psilocybe-c
 Bigwood and Beug (1982) discovered that [[psilocin]] is generally absent in the first
 one or two flushes of *[[psilocybe-cubensis]]* from a given culture, reaches maximum
 concentration by the fourth flush, and then begins to decline. This delayed
-accumulation pattern suggests that psilocin is not a direct biosynthetic precursor
+accumulation pattern suggests that psilocin is not a direct [[stigmasterol-as-brassinosteroid-biosynthetic-precursor]]
 to psilocybin but rather a metabolite that accumulates as the mycelium ages and
 metabolic pathways shift across successive fruiting cycles.
 
@@ -40,7 +40,7 @@ Key features of the pattern:
 ## Biosynthetic Interpretation
 
 The delayed appearance of psilocin has important implications for understanding
-the biosynthetic relationship between psilocybin and psilocin:
+the biosynthetic relationship [[query-what-is-the-difference-between-psilocybin-and-psilocin]]:
 
 ### Psilocybin-First Hypothesis
 

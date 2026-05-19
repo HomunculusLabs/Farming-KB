@@ -29,7 +29,7 @@ The inventors of artificial grow mediums discovered that plants primarily
 need a suitable material that holds minerals, provides drainage, and
 allows air to reach the roots. If a non-toxic medium could be created,
 the plant would grow as well as it would in soil. The key insight came
-from ancient civilizations that grew plants directly in running streams,
+from [[shroom-cultural-history-mushroom-in-ancient-civilizations]] that grew plants directly in running streams,
 using reeds or bushes to keep stems above the rushing water.
 
 This led to the development of hydroponics -- small units that hold a
@@ -97,7 +97,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Green Cannabis Rockwool Hydroponic Growing Media finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 green cannabis rockwool hydroponic growing media and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

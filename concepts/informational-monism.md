@@ -32,7 +32,7 @@ The concept of information in this framework is broad. Books carry information, 
 
 The question of whether atoms themselves are units of information is the more challenging claim. However, if both consciousness and matter can be described in informational terms, then the mind and body can be seen as consisting of essentially the same kind of substance.
 
-Of course the concept of what information itself is, or what information actually means, is a decidedly muddy issue. As to the notion of atoms being units of information also, the case is less clear. However, should we succeed in accurately defining the nature of consciousness and matter in informational terms, then we should also be able to explain more clearly why psilocybin is able to generate both Other-derived visions and an altered perception of reality.
+Of course the concept of what information itself is, or what information actually means, is a decidedly muddy issue. As to the notion of atoms being units of information also, the case is less clear. However, should we succeed in accurately defining the [[tryptamine-hallucinogens-and-nature-of-consciousness]] and matter in informational terms, then we should also be able to explain more clearly why psilocybin is able to generate both Other-derived visions and an altered perception of reality.
 
 ## Entheogenic Evidence
 
@@ -47,7 +47,7 @@ The fact that entheogenic visions are loaded with powerful and often [[natural-i
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers
 continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+adapting [[wasted-human-resources-and-traditional-knowledge]] to contemporary challenges and opportunities.
 
 ## Key Considerations
 
@@ -58,7 +58,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.

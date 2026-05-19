@@ -1,12 +1,12 @@
 ---
-title: Equatorial House Design Essentials
+title: [[equatorial-house-design-principles]] Essentials
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Equatorial House Design Essentials
 
-Designing for the equatorial tropics—where there is no cold season and the primary challenge is reducing heat—requires a fundamentally different approach from temperate or even subtropical housing. The equatorial house prioritizes ventilation, shade, and lightweight construction, drawing on centuries of traditional building wisdom from regions like Fiji, the Philippines, and across the Pacific Islands.
+Designing for the equatorial tropics—where there is no cold season and the primary challenge is reducing heat—requires a fundamentally different approach from temperate or even subtropical housing. The equatorial house prioritizes ventilation, shade, and lightweight construction, drawing on centuries of traditional building wisdom from regions like Fiji, the Philippines, and across the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 ## Site Selection Principles
 
@@ -76,7 +76,7 @@ Large bamboo groves placed to the windward side of the house bend to the wind wi
 
 ### The Fijian Buré
 
-The Fijian buré represents an ideal equatorial house type: earth-sheltered and well-fastened (traditionally by complex rope cross-binding). It is ideal for hurricane areas, provides cool living conditions, offers structural strength, is inexpensive to build, and uses only local materials. The earth-sheltering provides thermal moderation, while the rope cross-binding distributes wind loads across the entire structure rather than concentrating stress at rigid joints.
+The Fijian buré represents an ideal equatorial house type: earth-sheltered and well-fastened (traditionally by complex rope cross-binding). It is ideal for hurricane areas, provides cool living conditions, offers [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]], is inexpensive to build, and uses only local materials. The earth-sheltering provides thermal moderation, while the rope cross-binding distributes wind loads across the entire structure rather than concentrating stress at rigid joints.
 
 ### Japanese Typhoon-Proof Coastal Housing
 

@@ -1,5 +1,5 @@
 ---
-title: Fungal Diversity and Ecosystem Function
+title: Fungal [[mycorrhizal-diversity-and-ecosystem-function]]
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
@@ -30,7 +30,7 @@ Ecosystem function continues to increase as species diversity increases. Each ad
 ### Type B Response (Saturation)
 Ecosystem function reaches a plateau before maximum species diversity is attained. Beyond a certain threshold, additional species are **functionally redundant** — they perform roles already covered by other community members. Under this model, biodiversity loss is inconsequential to function until diversity drops below a critical threshold or until a **keystone species** is removed (Paine, 1966).
 
-Schwartz et al. (2000) analyzed 40 datasets and found that the majority supported a Type B relationship. However, different ecosystem functions within the same system may follow different patterns. Van der Heijden et al. (1998) showed that plant shoot biomass saturated at approximately 50% of arbuscular mycorrhizal diversity (Type B), while root biomass continued to increase with added mycorrhizal diversity (Type A).
+Schwartz et al. (2000) analyzed 40 datasets and found that the majority supported a Type B relationship. However, different ecosystem functions within the same system may follow different patterns. Van der Heijden et al. (1998) showed that plant shoot biomass saturated at approximately 50% of [[singh-arbuscular-mycorrhizal-diversity-grassland-ecosystems]] (Type B), while root biomass continued to increase with added mycorrhizal diversity (Type A).
 
 ## Ecosystem Functions Performed by Fungi
 
@@ -71,7 +71,7 @@ Ecologists have employed both **top-down** and **bottom-up** approaches to bridg
 
 ## Evolutionary Context
 
-The evolutionary history of fungi in terrestrial ecosystems remains poorly understood due to a nearly absent fossil record. The earliest fossil evidence of fungi comes from their association with primitive land plants (*Rhynia* and *Asteroxylon*) in the Silurian period ([[kidston-and-lang]], 1921). Pirozynski and Malloch (1975) hypothesized that these represented primitive **mycorrhizal associations**, suggesting that land plants evolved only in conjunction with mycorrhizal fungal partners. However, alternative interpretations — including the possibility that the fungi were pathogens, endophytes, or saprotrophs colonizing dead tissue — remain debated.
+The evolutionary history of fungi in terrestrial ecosystems remains poorly understood due to a nearly absent fossil record. The earliest fossil evidence of fungi comes from their association with primitive land plants (*Rhynia* and *Asteroxylon*) in the Silurian period ([[kidston-and-lang]], 1921). [[pirozynski-and-malloch-hypothesis]] (1975) hypothesized that these represented primitive **mycorrhizal associations**, suggesting that land plants evolved only in conjunction with mycorrhizal fungal partners. However, alternative interpretations — including the possibility that the fungi were pathogens, endophytes, or saprotrophs colonizing dead tissue — remain debated.
 
 Whatever their evolutionary origins, fungi clearly possess a variety of **functional groups** and have ancient associations with both plants and animals.
 

@@ -20,7 +20,7 @@ Kale and other brassica greens represent some of the most cold-tolerant vegetabl
 - **Tatsoi** (B. rapa var. narinosa): Rosette-forming; very cold-hardy [[lettuce-and-leafy-greens]]).
 - **Mustard greens** (B. juncea): Spicy flavor intensifies with cold; moderate cold tolerance.
 - **Pak choi** (B. rapa var. chinensis): Thick-stemmed; excellent for baby-leaf or full-head harvest.
-- **Radish** (Raphanus sativus): Both root and leaf production; some varieties bred for winter.
+- **Radish** ([[raphanus-sativus]]): Both root and leaf production; some varieties bred for winter.
 - **Turnip** (B. rapa var. rapa): Roots and greens; Hakurei variety particularly suited to winter.
 - **Kohlrabi** (B. oleracea var. gongylodes): Can be stored or harvested in situ in mild winters.
 
@@ -30,7 +30,7 @@ Coleman distinguishes between two levels of winter protection:
 
 **Cold houses** (unheated, single or double-layer plastic): Suitable for the hardiest brassicas—kale, collards, tatsoi, and mizuna. These crops can survive temperatures down to 10°F (-12°C) or lower under the inner row cover layer. The limiting factor is not killing temperature but growth rate: below approximately 35°F (2°C) daytime temperatures, brassica growth essentially stops.
 
-**Cool houses** (minimal supplementary heat maintaining temperatures just above freezing): Enable active growth of a wider range of brassicas through the winter months, including pak choi, mustard greens, and broccoli raab. The small amount of heat—just enough to keep temperatures above freezing—makes the difference between survival and active production.
+**Cool houses** ([[coleman-cool-house-minimal-supplementary-heat]] maintaining temperatures just above freezing): Enable active growth of a wider range of brassicas through the winter months, including pak choi, mustard greens, and broccoli raab. The small amount of heat—just enough to keep temperatures above freezing—makes the difference between survival and active production.
 
 ## Sowing Schedule for Winter Brassicas
 
@@ -97,7 +97,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.

@@ -38,7 +38,7 @@ is the primary feature separating this species from P. ostreatus.
 Transfer cultures from nutrified [[growing-gourmet-polypore-mushrooms-cultivation-overview]]
 ## Practical Considerations
 
-Successful implementation of Tarragon Oyster Mushroom (Pleurotus euosmus) Cultivation requires attention to
+Successful implementation of Tarragon Oyster Mushroom ([[pleurotus-euosmus]]) Cultivation requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -71,7 +71,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
@@ -93,7 +93,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

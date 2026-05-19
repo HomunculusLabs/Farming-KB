@@ -55,7 +55,7 @@ The S-180 assay was instrumental in the discovery of the major mushroom-derived 
 - Intraperitoneal administration (primary screen) bypasses first-pass metabolism and may overestimate oral bioavailability
 - The assay does not distinguish between immunomodulatory and direct cytotoxic mechanisms
 - Results in this model have not always translated to clinical success in human trials
-- While many mushroom polysaccharides show "considerable antitumour activity in several xenographs only a limited number have undergone [[medicinal-mushroom-dietary-supplements]] supplementation. Diets enriched with 5-20% dried mushroom powder (L. edodes, G. frondosa, P. ostreatus) significantly reduced tumour incidence in carcinogen-treated mice, suggesting a role for mycoremediation-scale-up-challenges
+- While many [[clinical-trials-of-mushroom-polysaccharides-in-cancer-treatment]] show "considerable antitumour activity in several xenographs only a limited number have undergone [[medicinal-mushroom-dietary-supplements]] supplementation. Diets enriched with 5-20% dried mushroom powder (L. edodes, G. frondosa, P. ostreatus) significantly reduced tumour incidence in carcinogen-treated mice, suggesting a role for mycoremediation-scale-up-challenges
 - [[psychedelic-dose-response]]
 ## Practical Considerations
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Sarcoma 180 Antitumour Assay finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -129,7 +129,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 sarcoma 180 antitumour assay and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -1,5 +1,5 @@
 ---
-title: Parasitic Wasps Biological Pest Control
+title: Parasitic Wasps [[beneficial-insects-and-biological-pest-control]]
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Parasitic Wasps — Biological Pest Control Agents
 
-[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agents used in agriculture, forestry, and greenhouse production.
+[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agents used in agriculture, forestry, and [[economics-of-winter-greenhouse-production]].
 Unlike true parasites, parasitoids develop on or inside a single host and
 invariably kill it by emergence. This life history makes them uniquely suited as
 precision biocontrol tools within IPM programs that minimize chemical inputs.
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 parasitic wasps biological pest control and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -25,7 +25,7 @@ Fungi occupy a unique position: they are **non-motile** (like plants, due to the
 
 Being unable to move means fungi must respond to changing conditions **in situ**:
 
-- Growth direction and branching patterns change rapidly in response to local gradients.
+- Growth direction [[fractals-and-branching-patterns]] change rapidly in response to local gradients.
 - Hyphae selectively grow from nutrient-depleted to nutrient-rich zones.
 - Sporulation can be initiated very quickly for dispersal or persistence.
 - Differentiated structures (sclerotia, rhizomorphs, fruit bodies) provide resistance, transport, or reproductive escape.
@@ -40,7 +40,7 @@ These affect the entire colony uniformly:
 
 | Signal | Parameters | Examples of Effects |
 |---|---|---|
-| **Light** | Intensity, wavelength, periodicity | Circadian rhythms, photomorphogenesis, reproductive timing |
+| **Light** | Intensity, wavelength, periodicity | [[plant-circadian-rhythms]], photomorphogenesis, reproductive timing |
 | **Temperature** | Absolute level, rate of change | Growth rate, thermal tolerance, developmental switching |
 | **Relative humidity** | Ambient moisture | Sporulation, desiccation responses, hyphal emergence |
 
@@ -79,7 +79,7 @@ Self-produced chemical signals, collectively called **autoregulators**, that coo
 
 ## Intracellular Signal Transduction Pathways
 
-Genomic analysis of *Neurospora crassa* reveals a substantially expanded signalling repertoire compared to *Saccharomyces cerevisiae*.
+Genomic analysis of *Neurospora crassa* reveals a substantially expanded signalling repertoire compared to *[[saccharomyces-cerevisiae]]*.
 
 ### Two-Component Signalling Systems
 

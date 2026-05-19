@@ -1,6 +1,6 @@
 # Hybrid vs Open-Pollinated Seed Nutrition and Variety Decline
 
-**Source:** [[gardening-when-it-counts]] — Steve Solomon (2005)
+**Source:** [[gardening-when-it-counts]] — [[steve-solomon]] (2005)
 
 ## Core Concept
 
@@ -10,7 +10,7 @@ Modern [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 
 For thousands of years, each family raised seed for its own unique varieties,
 selected over generations to suit the family's needs, tastes, and local soil
-conditions. The nutritional quality of each variety was different. Before
+conditions. The [[soil-fertility-and-vegetable-nutritional-quality]] of each variety was different. Before
 modern medicine and sanitation, children faced high mortality from childhood
 diseases. Some families lost most of their children before age seven; others
 rarely lost any. The families with better vegetable and cereal varieties
@@ -109,7 +109,7 @@ yield is arguably more important than total weight harvested.
 1. Do not assume an "heirloom" or "OP" label guarantees nutritional quality
 2. Focus on flavor as a proxy for nutritional content when selecting varieties
 3. Save seed from self-pollinated species to maintain locally adapted genetics
-4. Seek out small seed companies that select for flavor and nutrition
+4. Seek out small [[ethical-seed-companies-and-mail-order-sources]] that select for flavor and nutrition
 5. Be skeptical of premium hybrid pricing — some "hybrids" may be OP
 
 ## See Also

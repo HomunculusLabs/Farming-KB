@@ -8,7 +8,7 @@ created: 2026-05-11
 
 # Solomon's Sprinkler Irrigation System Design
 
-[[steve-solomon]] dedicates an entire chapter of "Gardening When It Counts" to
+[[steve-solomon]] dedicates an entire chapter of "[[gardening-when-it-counts]]" to
 sprinkler irrigation, providing practical guidance for designing effective
 watering systems for home vegetable gardens. His approach prioritizes
 simplicity, reliability, and water efficiency over complex automated systems.
@@ -16,7 +16,7 @@ simplicity, reliability, and water efficiency over complex automated systems.
 ## Why Sprinkler Irrigation?
 
 While [[drip-irrigation]] has become fashionable, Solomon argues that properly
-designed sprinkler systems offer several advantages for vegetable gardens:
+designed sprinkler systems offer several advantages [[soil-ph-management-for-vegetable-gardens]]:
 
 - **Complete coverage**: Sprinklers water the entire soil surface, promoting
   even moisture distribution and supporting capillary rise throughout the bed
@@ -25,7 +25,7 @@ designed sprinkler systems offer several advantages for vegetable gardens:
 - **Frost protection**: Overhead sprinklers can protect crops from light
   frosts by continuously applying water during freezing temperatures
 - **Foliar feeding compatibility**: Sprinklers can double as a delivery
-  system for liquid fertilizers and foliar sprays
+  system for [[solomon-liquid-fertilizers-and-foliar-feeding]] sprays
 - **Lower initial cost**: Basic sprinkler systems cost significantly less
   than drip irrigation setups
 

@@ -54,7 +54,7 @@ Of the 103 known elements, soils are predominantly composed of **aluminium**, **
 
 Mollison raises an important caution regarding **radioactive elements** found in some clays, bricks, paints, and stone, as well as emissions from domestic appliances. Awareness of elemental composition is essential for safe building and land use.
 
-Permaculture designers should test materials intended for earth building, especially clays and rock dusts, for elevated radioactivity. The periodic table provides a framework for understanding not just nutrient availability but also potential hazards in the soil and built environment.
+Permaculture designers should test materials intended for earth building, especially clays and rock dusts, for elevated radioactivity. The periodic table provides a framework for understanding not just nutrient availability but also potential hazards in the soil [[artillery-fungus-and-built-environment-fungi]].
 
 ## Particle Size Classification
 
@@ -91,7 +91,7 @@ Particles settle by size: sand falls first (within 1–2 minutes), then silt (wi
 
 ## Related Concepts
 
-- **Soil ecology** — the living organisms within soil that drive decomposition and nutrient cycling
+- **Soil ecology** — the living organisms within soil that drive decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
 - **Earthworks** — dam and swale construction relying on appropriate soil composition
 - **Catena** — slope-position soil sequences and their implications for water management
 - **Keyline design** — working with soil contours and moisture patterns across landscapes
@@ -113,7 +113,7 @@ Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
+[[ghouled-field-guide-historical-context]] provides important lessons for modern applications.
 Collaborative networks and knowledge sharing accelerate progress in this field.
 Emerging technologies offer new tools for analysis and implementation.
 Local adaptation and context-specific strategies remain essential for success.

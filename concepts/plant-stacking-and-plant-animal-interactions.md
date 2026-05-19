@@ -89,7 +89,7 @@ Drawing from Atsatt and O'Dowd's "plant defense guilds" research (Science, 1976)
 ### Manurial Factors
 
 - Comfrey and coprosma provide potash for potatoes (as mulch or trenched leaves)
-- Tree lucerne and Leucaena provide essential nitrogen as mulch
+- [[canary-island-tree-lucerne-mollison]] and Leucaena provide essential nitrogen as mulch
 - Smaller legumes provide nitrogen through root nodulation
 - Deep-rooted and mat-rooted perennials probe below leached upper soil levels
 
@@ -105,14 +105,14 @@ Animals provide ten categories of useful function:
 6. **Living tractors**: Poultry, pigs, and fish as soil-turning, weeding, manuring machines
 7. **Draught animals**: Operating pumps and vehicles
 8. **Pioneer bulldozers**: Clearing and manuring difficult areas prior to planting
-9. **Pest control**: Devouring pupae and eggs of pests in fallen fruit and shrubs
+9. **[[beneficial-insects-and-biological-pest-control]]**: Devouring pupae and eggs of pests in fallen fruit and shrubs
 10. **Nutrient concentrators**: Nitrogen and phosphates from flies and wasps
 11. **Water cleansing filters**
 12. **Short grazers**: Aiding in fire control
 
 ## Population Management
 
-All animal populations produce surplus from natural increase when managed as breeders. Like crowded forests, too many animals become non-productive. Dense populations are self-thinned by starvation, crowding stress, or epidemic mortality.
+All [[fungal-pathogens-animal-populations]] produce surplus from natural increase when managed as breeders. Like crowded forests, too many animals become non-productive. Dense populations are self-thinned by starvation, crowding stress, or epidemic mortality.
 
 ### The Fishery Fallacy
 

@@ -45,7 +45,7 @@ Mobile nutrients can be redistributed from older tissues to areas of new growth 
 - Deficiency causes interveinal chlorosis (yellowing between leaf veins) in older leaves
 - Central atom in the chlorophyll molecule — essential for photosynthesis
 - Also activates enzymes involved in phosphorus transport
-- Found in dolomitic limestone and Epsom salts as common garden sources
+- Found in [[dolomitic-limestone]] and Epsom salts as common garden sources
 
 ## Immobile (or Semi-Mobile) Nutrients
 
@@ -57,7 +57,7 @@ Immobile nutrients cannot be readily relocated from older tissues. Deficiency sy
 - Essential for cell wall structure (calcium pectate in middle lamella)
 - Moves through the plant primarily via the transpiration stream in xylem
 - Meristematic tissue (growing tips) has high calcium requirements
-- Soil calcium availability is strongly influenced by pH and cation exchange capacity
+- Soil calcium availability is strongly influenced by pH and [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]]
 - Sources include limestone (calcium carbonate), gypsum (calcium sulfate), and bone meal
 
 ### Iron (Fe)
@@ -138,7 +138,7 @@ Multiple soil and environmental factors affect whether nutrients are accessible 
 
 ### Temperature
 - Influences microbial activity that makes nutrients available
-- Affects root growth and metabolic activity
+- Affects root growth and [[arbuscule-isolation-metabolic-activity-assays]]
 - Cold soils slow nutrient uptake even when nutrients are present
 - Nitrogen fixation by Rhizobia is temperature-dependent
 

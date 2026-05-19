@@ -52,7 +52,7 @@ The core insight of nuclear reforestation is deceptively simple: **plant densely
 
 ### Why Nuclei Work
 
-- **Microclimate creation:** A dense cluster of trees quickly creates its own protected microclimate—shade, humidity, wind shelter, and leaf litter—that benefits every individual within it.
+- **[[holzer-climate-zone-microclimate-creation]]:** A dense cluster of trees quickly creates its own protected microclimate—shade, humidity, wind shelter, and leaf litter—that benefits every individual within it.
 - **Mutual protection:** Trees in a group shelter each other from wind, desiccation, and animal browse.
 - **Seed dispersal:** Established nuclei become seed sources, with birds and wind spreading seeds outward from the edges.
 - **Grass suppression:** A concentrated planting can overwhelm local grass competition more effectively than scattered seedlings.
@@ -90,7 +90,7 @@ Mollison extends the nuclear reforestation concept to severely degraded sites in
 
 - **Buried metallic waste:** Scrap metal and other metallic waste can be buried in planting holes or across sites. The metal creates condensation surfaces that harvest dew, provides mineral micronutrients as it slowly corrodes, and can help anchor organic material.
 - **pH adjustment:** Many degraded sites have extreme soil pH. Simple amendments—lime for acidic soils, organic matter generally—can bring pH into a range where pioneer species can establish.
-- **Nursery techniques:** Growing seedlings in controlled nursery conditions before outplanting dramatically improves survival on hostile sites. Even basic nursery practices—potting, hardening off, timing planting with seasonal moisture—make the difference between failure and establishment.
+- **[[food-forest-design-and-nursery-techniques]]:** Growing seedlings in controlled nursery conditions before outplanting dramatically improves survival on hostile sites. Even basic nursery practices—potting, hardening off, timing planting with seasonal moisture—make the difference between failure and establishment.
 - **Basic nutrients:** Providing starter nutrients at planting time gives seedlings the resources they need to reach a size where they can access deeper moisture and nutrient reserves.
 
 ## Tree Establishment Best Practices
@@ -99,7 +99,7 @@ Mollison synthesizes the practical techniques for successful tree establishment:
 
 - **Start with nursery-grown stock** rather than direct seeding on difficult sites.
 - **Plant in nuclei**, not individually—densities of dozens to hundreds of trees per nucleus.
-- **Select pioneers matched to site conditions** (drought tolerance, grass competition, soil type).
+- **Select pioneers matched to site conditions** ([[dighton-fungal-drought-tolerance-plant-water-relations]], grass competition, soil type).
 - **Use pioneers as manurial crops** to prepare sites for climax or productive species.
 - **Provide basic nutrients and pH correction** at planting time.
 - **Protect from grazing** during the critical establishment period.

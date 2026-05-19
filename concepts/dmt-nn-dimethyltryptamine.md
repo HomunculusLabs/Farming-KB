@@ -29,7 +29,7 @@ temperatures, making it suitable for inhalation. It is soluble in organic
 solvents and poorly soluble in water as a free base; the salt forms (fumarate,
 hydrochloride) are water-soluble and suitable for injection.
 
-The structural similarity of DMT to serotonin (5-HT) is central to its
+The [[serotonin-psilocin-structural-similarity-hallucinogenic-mechanism]] of DMT to serotonin (5-HT) is central to its
 pharmacological activity. Both compounds are agonists at the 5-HT₂A serotonin
 receptor subtype, which is the primary receptor mediating the hallucinogenic
 effects of classical psychedelics. DMT also has affinity for other serotonin
@@ -39,7 +39,7 @@ receptors and the trace amine-associated receptor (TAAR).
 ## Natural Occurrence
 
 DMT is biosynthesised by a remarkably wide range of organisms. In the plant
-kingdom, it is found in *Psychotria viridis* (chacruna) and *Diplopterys
+kingdom, it is found in *[[chacruna-psychotria-viridis]]* (chacruna) and *Diplopterys
 cabrerana* — the two most common DMT-containing admixture plants used in
 ayahuasca preparations — as well as in *Mimosa tenuiflora* (jurema),
 *Acacia* species, *[[harner-amazonian-ayahuasca-preparation-methods]] preparations combine DMT-containing
@@ -62,7 +62,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.

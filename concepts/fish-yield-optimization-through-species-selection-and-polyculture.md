@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Fish yield in aquaculture ponds is governed by several critical factors: species selection based on trophic level, selective breeding within species, and polyculture design that exploits complementary ecological niches. [[bill-mollison]]'s analysis, drawing heavily on Swingle (1966), demonstrates that yields can vary by orders of magnitude depending on how these factors are managed.
+Fish yield in aquaculture ponds is governed by several critical factors: species selection based on trophic level, selective breeding within species, and polyculture design that exploits complementary ecological niches. [[bill-mollison]]'s analysis, drawing heavily on Swingle (1966), demonstrates that yields can vary by [[event-classification-and-orders-of-magnitude]] depending on how these factors are managed.
 
 ## Trophic Level and Species Selection
 
@@ -19,7 +19,7 @@ Fish positioned lower on the trophic scale — those feeding on plankton, algae,
 - **Bluegill** (insectivore) — good yield
 - **Java Tilapia** (plankton feeder) — highest yield
 
-This ordering is not absolute, however. When pelleted food is supplied, the hierarchy can reverse: catfish may outperform bluegill, because food type and availability fundamentally alter conversion efficiency. Each trial must be conducted under the specific food management schedule proposed, as fish harvest different foods with varying efficiency.
+This ordering is not absolute, however. When pelleted food is supplied, the hierarchy can reverse: catfish may outperform bluegill, because food type and availability fundamentally alter [[energy-conversion-efficiency]]. Each trial must be conducted under the specific food management schedule proposed, as fish harvest different foods with varying efficiency.
 
 ## Selective Breeding Within Species
 
@@ -96,7 +96,7 @@ Adaptation to local conditions and careful observation remain central to effecti
 Field trials provide essential data for validating theoretical approaches and refining methodologies.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

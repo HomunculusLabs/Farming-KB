@@ -43,7 +43,7 @@ cascade of interventions collapses.
 
 [[fukuoka-natural-farming-method]] lamented the destruction of this non-interventionist philosophy
 by modernization. The mechanization of agriculture extinguished the
-light of ancient farming fukuoka textdoc sunken hearth extinction village culture. Fireside discussions vanished,
+light of ancient farming [[fukuoka-textdoc-sunken-hearth-extinction-village-culture]] culture. Fireside discussions vanished,
 and with them, the accumulated wisdom of generations.
 
 The farmer may have thought that modern developments would make the job
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Fukuoka Dialectic Elimination Farming Method finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 fukuoka dialectic elimination farming method and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

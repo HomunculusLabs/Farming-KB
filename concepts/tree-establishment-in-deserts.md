@@ -38,7 +38,7 @@ Bentonite clay assists sands to hold moisture. When mixed into sandy planting ho
 
 ### Dried Seaweed
 
-Dried seaweed crumble added to planting holes forms a gel in rain, enabling seedlings to penetrate to deeper levels in the first season. The gel also retains moisture around the root zone and slowly releases minerals and trace elements as it decomposes.
+Dried seaweed crumble added to planting holes forms a gel in rain, enabling seedlings to penetrate to deeper levels in the first season. The gel also retains moisture around the root zone and slowly releases minerals [[teaming-with-nutrients-micronutrients-and-trace-elements]] as it decomposes.
 
 ### Commercial Soil Gel Additives
 
@@ -68,7 +68,7 @@ The ideal desert tree establishment combines multiple protective strategies simu
 8. **Sun protection** of stems until bark thickens
 9. **Proper timing** during cool periods with acceptable soil temperatures
 
-No single technique is sufficient on its own—the integrated approach dramatically improves survival rates and growth rates compared to any individual method applied alone.
+No single technique is sufficient on its own—the [[solomon-insects-and-diseases-integrated-approach]] dramatically improves survival rates and growth rates compared to any individual method applied alone.
 
 ## Overview
 
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Tree Establishment In Deserts finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

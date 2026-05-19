@@ -1,5 +1,5 @@
 ---
-title: Psilocybe Genus Taxonomy
+title: [[psilocybe-genus-taxonomy-and-chemistry]]
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-gartz
 tags: [mycology, taxonomy, psilocybe, neurotropic-fungi, classification]
 created: 2026-05-09
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Psilocybe Genus Taxonomy finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 psilocybe genus taxonomy and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

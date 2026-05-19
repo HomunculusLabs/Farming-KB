@@ -1,5 +1,5 @@
 ---
-title: Cannabis Strain Acapulco Gold Heirloom Mexican Sativa
+title: Cannabis Strain [[acapulco-gold-heirloom-mexican-sativa]]
 source: s-t-oner-the-rev-cannabis-sativa-volume-3.md
 tags: [cannabis, strain, acapulco-gold, mexican-sativa, heirloom, landrace]
 created: 2026-05-11
@@ -97,7 +97,7 @@ despite its premium quality and historical significance.
 
 Authentic Acapulco Gold landrace genetics are considered endangered.
 Decades of prohibition,  eradication programs,
-and the displacement of traditional landrace varieties by modern hybrids have dramatically reduced the population of genuine Acapulco Gold plants in their native region.
+and the displacement of traditional [[query-what-are-heirloom-and-landrace-varieties-and-why-do-they-matter]] by modern hybrids have dramatically reduced the population of genuine Acapulco Gold plants in their native region.
 Several seed preservation organizations and private breeders maintain collections of Acapulco Gold genetics,
 but the genetic diversity within these collections is necessarily limited compared to the original landrace population.
 
@@ -114,7 +114,7 @@ Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
+[[ghouled-field-guide-historical-context]] provides important lessons for modern applications.
 Collaborative networks and knowledge sharing accelerate progress in this field.
 Emerging technologies offer new tools for analysis and implementation.
 ## Further Considerations

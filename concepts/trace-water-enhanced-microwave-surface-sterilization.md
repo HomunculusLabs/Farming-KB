@@ -1,5 +1,5 @@
 ---
-title: Trace Water Enhanced microwave-surface-sterilization Mechanism
+title: [[trace-water-enhanced-microwave-sterilization]] microwave-surface-sterilization Mechanism
 topic: sterilization
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 created: 2026-05-08
@@ -21,7 +21,7 @@ including resistant spores through a localized flash-steam mechanism.
 ### 2.45 GHz Frequency and Dipolar Coupling
 
 The system operates at 2.45 GHz, the standard microwave oven frequency. This
-frequency was chosen because it corresponds to a rotational transition of the
+frequency was chosen because it corresponds to a [[rotational-transition-water-dipole-microwave-physics-sterilization]] of the
 water molecule's dipole moment. When 2.45 GHz microwave energy encounters water
 molecules:
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 trace water enhanced microwave surface sterilization and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

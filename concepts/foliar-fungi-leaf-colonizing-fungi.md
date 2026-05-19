@@ -10,7 +10,7 @@ Foliar fungi encompass the diverse assemblage of fungal organisms that colonize 
 
 ## Sooty Molds (Dothideales)
 
-Sooty molds are saprobic ascomycetes within the order Dothideales that form dense, dark, velvety to crusty mats on the surfaces of living leaves and stems. They are especially abundant in tropical regions but occur worldwide wherever honeydew-producing insects are present.
+Sooty molds are saprobic ascomycetes within the order Dothideales that form dense, dark, velvety to crusty mats on the surfaces of living leaves and stems. They are especially abundant [[fukuoka-natural-farming-in-tropical-regions]] but occur worldwide wherever honeydew-producing insects are present.
 
 ### Ecology and Nutrition
 
@@ -96,7 +96,7 @@ The Protomycetales are represented primarily by the genus *Protomyces*, with app
 
 ### Epiphytic Yeasts and Common Saprobes
 
-The phyllosphere supports a rich community of yeast species, including *Sporobolomyces*, *Rhodotorula*, and *Cryptococcus*. The ubiquitous ascomycete *Aureobasidium pullulans* is also a common leaf-surface colonist, often appearing as a slimy black coating on senescing foliage.
+The phyllosphere supports a rich community of yeast species, including *Sporobolomyces*, *Rhodotorula*, and *Cryptococcus*. The ubiquitous ascomycete *[[aureobasidium-pullulans]]* is also a common leaf-surface colonist, often appearing as a slimy black coating on senescing foliage.
 
 ### Leaf-Spotting Fungi
 
@@ -115,7 +115,7 @@ On the foliage of temperate forest trees, several genera are particularly import
 
 ### Tropical Pathogens
 
-*Pyricularia grisea* (rice blast) is among the most devastating foliar diseases in tropical agriculture, causing extensive yield losses in rice production worldwide.
+*Pyricularia grisea* (rice blast) is among the most devastating foliar diseases [[termite-and-ant-ecology-in-tropical-agriculture]], causing extensive yield losses in rice production worldwide.
 
 ### Needle-Cast Fungi on Conifers
 

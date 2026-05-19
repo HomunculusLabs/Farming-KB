@@ -66,9 +66,9 @@ explanatory power once those factors are already included.
 
 ## Statistical Significance and Robustness
 
-All individual edaphic factors showed statistically significant correlations
+All individual [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] showed statistically significant correlations
 with community distance at p = 0.001, confirming that each factor exerts a
-genuine influence on the Cannabis root microbiome. The consistency of results
+genuine influence on the [[cannabis-root-microbiome]]. The consistency of results
 across both weighted and unweighted analyses further strengthens confidence in
 the findings, as the two metrics capture different aspects of community
 variation.
@@ -108,7 +108,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

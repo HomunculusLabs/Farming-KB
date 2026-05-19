@@ -6,7 +6,7 @@ type: concept
 
 # Guild Design and Species Interactions
 
-Guild design is the methodology of assembling beneficial plant and animal communities — polycultures — that cooperate to enhance productivity, reduce inputs, and create self-managing ecosystems. Building on the spatial framework of zones and sectors, guild design addresses the biological relationships between species, seeking to maximize mutual benefits while minimizing antagonism.
+Guild design is the methodology of assembling beneficial plant and animal communities — polycultures — that cooperate to enhance productivity, reduce inputs, and create self-managing ecosystems. Building on the spatial framework of [[permaculture-beginners-guide-zones-and-sectors]], guild design addresses the biological relationships between species, seeking to maximize mutual benefits while minimizing antagonism.
 
 ## Defining the Guild
 
@@ -103,7 +103,7 @@ Because of the vagaries of weather in any given year, many farmers accept a **(~
 
 ## Design Implications
 
-Every designer and gardener can plan guilds for specific target species, specific pests and weed control needs, and specific garden beds or orchards. The guild concept transforms agriculture from a battle against nature into a collaboration with it — assembling communities of species that work together to produce food, manage pests, build soil, and moderate climate, all while reducing the energy and material inputs required from the human manager.
+Every designer and gardener can plan guilds for specific target species, specific pests [[jadam-soil-management-no-till-and-weed-control]] needs, and specific garden beds or orchards. The guild concept transforms agriculture from a battle against nature into a collaboration with it — assembling communities of species that work together to produce food, manage pests, build soil, and moderate climate, all while reducing the energy and material inputs required from the human manager.
 
 The apple-centred guild illustrated in Mollison's text demonstrates the principle: a central apple tree surrounded by nitrogen-fixing legumes, pest-deterring companion plants, predator-hosting umbellifers, mulch-providing comfrey, wind-sheltering bamboo, and foraging poultry that clean up fallen fruit — each element serving multiple functions, each function served by multiple elements.
 
@@ -114,7 +114,7 @@ Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
+[[ghouled-field-guide-historical-context]] provides important lessons for modern applications.
 Collaborative networks and knowledge sharing accelerate progress in this field.
 Emerging technologies offer new tools for analysis and implementation.
 ## Further Considerations

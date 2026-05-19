@@ -1,6 +1,6 @@
 ---
 
-title: Mushroom Spore Printing and Storage
+title: [[mushroom-spore-printing-syringe-preparation-and-preservation]] and Storage
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -24,7 +24,7 @@ sources:
 
 # Mushroom Spore Printing and Storage
 
-Spore collection is the foundation of mushroom cultivation — every grow begins with spores. Techniques range from simple field prints for identification to sterile lab methods for long-term cultivation stock. See [[mushroom-identification]] for spore print colors as an ID feature, and [[fungal-biology-fundamentals]] for the role of spores in the fungal life cycle.
+Spore collection is the foundation [[historical-development-of-mushroom-cultivation]] — every grow begins with spores. Techniques range from simple field prints for identification to sterile lab methods for long-term cultivation stock. See [[mushroom-identification]] for spore print colors as an ID feature, and [[fungal-biology-fundamentals]] for the role of spores in the fungal life cycle.
 
 ## Spore Print Technique
 
@@ -68,7 +68,7 @@ Species with a partial veil (e.g., *Psilocybe cubensis*, *Agaricus brunnescens*)
 | *Ganoderma lucidum* (Reishi) | Brown |
 | *Amanita muscaria* | White |
 | *Coprinus comatus* | Black (deliquesces) |
-| *Laetiporus sulphureus* (Chicken of the woods) | White |
+| *Laetiporus sulphureus* ([[chicken-of-the-woods]]) | White |
 
 ## Making a Spore Syringe
 

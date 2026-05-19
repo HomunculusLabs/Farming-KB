@@ -8,7 +8,7 @@ topics: [mycology, taxonomy, oomycetes, stramenopila, fungal-classification]
 
 ## The Taxonomic Revolution in Mycology
 
-One of the most significant conceptual shifts in modern [[mycology]] has been the recognition that organisms long treated as fungi—including the notorious water molds and downy mildews—actually belong to an entirely different kingdom of life called the **Stramenopila**. This reclassification, driven by molecular phylogenetics, has profound implications for understanding [[fungal-spore-biology]]
+One of the most significant conceptual shifts in modern [[mycology]] has been the recognition that organisms long treated as fungi—including the notorious water molds and [[foliar-fungi-sooty-molds-black-mildews-downy-mildews]]—actually belong to an entirely different kingdom of life called the **Stramenopila**. This reclassification, driven by molecular phylogenetics, has profound implications for understanding [[fungal-spore-biology]]
 
 ## The Stramenopila: A Separate Evolutionary Lineage
 
@@ -72,7 +72,7 @@ Human oomycete infections (pythiosis) require surgical debridement combined with
 The independent evolution of hyphal growth in fungi and oomycetes demonstrates the power of convergent evolution. As Money argues, "there are few, if any, better solutions to the challenge of penetrating solid substances" than the hyphal form. The fact that two unrelated lineages arrived at essentially the same solution speaks to the universality of this adaptive strategy.
 
 ### Ecological Roles
-Oomycetes fill ecological niches analogous to true fungi—as decomposers, pathogens, and symbionts—yet their evolutionary history and biochemical toolkit are fundamentally different. Understanding these differences is essential for predicting how these organisms will respond to environmental change.
+Oomycetes fill ecological niches analogous to true fungi—as decomposers, pathogens, and symbionts—yet their evolutionary history and biochemical toolkit are fundamentally different. Understanding these differences is essential for predicting how these organisms will respond to [[ectomycorrhizal-fungi-environmental-change]].
 
 ## Historical Context
 
@@ -118,7 +118,7 @@ and site-specific conditions to achieve meaningful results.
 
 ## Research Context
 
-Current research in this area builds upon foundational
+[[psychedelic-therapy-current-research]] in this area builds upon foundational
 principles while exploring new methodological approaches.
 Empirical findings continue to refine our understanding
 and suggest promising directions for future investigation

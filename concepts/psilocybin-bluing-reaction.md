@@ -1,6 +1,6 @@
 ---
 
-title: Psilocybin Bluing Reaction
+title: [[field-guide-psilocybin-bluing-reaction-identification]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -45,8 +45,8 @@ Different psilocybin-containing species show markedly different bluing behavior:
 | *Psilocybe cubensis* | Strong stem bluing, caps often don't blue | Stems develop deep blue to blackish-blue |
 | *Psilocybe cyanescens* | Strong overall bluing | Cap and stem both blue readily |
 | *Psilocybe semilanceata* | Slight stem staining, delayed | May take considerable time to appear |
-| *Conocybe cyanopus* | Slight stem staining, delayed | Similar to P. semilanceata |
-| *Inocybe aeruginascens* | Slight stem staining, delayed | Only trace psilocin |
+| *[[conocybe-cyanopus]]* | Slight stem staining, delayed | Similar to P. semilanceata |
+| *[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]* | Slight stem staining, delayed | Only trace psilocin |
 | *Gymnopilus purpuratus* | Moderate, intermediate timing | Falls between extremes |
 | *Panaeolus subbalteatus* | Minimal to none | Despite containing psilocybin at similar levels to strongly bluing species |
 

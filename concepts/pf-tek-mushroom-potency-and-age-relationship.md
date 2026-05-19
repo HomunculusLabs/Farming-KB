@@ -29,7 +29,7 @@ One of the most important and counterintuitive findings in [[cannabis-yield-opti
 
 ### Scientific Basis
 
-"It has been scientifically proven that the small immature specimens are significantly more potent than the larger mature specimens." This is not a matter of subjective perception but a measurable difference in alkaloid concentration per unit of dried weight.
+"It has been scientifically proven that the small immature specimens are significantly more potent than the larger mature specimens." This is not a matter of subjective perception but a measurable difference in [[abort-harvesting-alkaloid-concentration-pf-tek]] per unit of dried weight.
 
 As a mushroom matures and its cap expands "like an umbrella," the mushroom's size increases substantially, but "by weight the potency will decrease." The total alkaloid content may increase slightly with size, but the concentration (mg of psilocybin/psilocin per gram of dried material) decreases significantly.
 
@@ -92,7 +92,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

@@ -16,7 +16,7 @@ Both ectomycorrhizal (ECM) and arbuscular mycorrhizal (AM) fungi can form hyphal
 
 ### Trenching Experiments: Simard et al. (1997)
 
-The seminal work of Simard et al. (1997) investigated whether belowground fungal connections between mature canopy trees and regenerating seedlings could measurably affect seedling physiology and survival. The study was conducted in birch-dominated (*Betula*) forest communities in the Pacific Northwest, where [[douglas-fir]] commonly regenerates beneath a birch overstory.
+The seminal work of Simard et al. (1997) investigated whether belowground fungal connections between mature canopy trees and regenerating seedlings could measurably affect seedling physiology and survival. The study was conducted in birch-dominated (*Betula*) forest communities in the [[psilocybin-north-america-pacific-northwest]], where [[douglas-fir]] commonly regenerates beneath a birch overstory.
 
 The researchers used a trenching approach to sever hyphal connections between seedlings and the surrounding mature tree root network while leaving aboveground interactions intact. This experimental design allowed them to isolate the specific contribution of [[mycorrhizal-networks]]—separate from aboveground competition or facilitation—to seedling performance.
 
@@ -47,7 +47,7 @@ Walter et al. (1996) investigated arbuscular mycorrhizal (AM) interplant connect
 - P transfer **decreased with distance** between connected plants, suggesting that hyphal transport efficiency declines over longer pathways or that fungal hyphae preferentially allocate resources to nearby hosts.
 - Transfer was **greater within forbs and C3 grasses** than between C4 grasses, indicating that photosynthetic pathway and growth form influence the direction and magnitude of resource flow through shared networks.
 
-These findings established that AM-mediated interplant transfer is not a uniform process but is modulated by plant identity, functional group, and spatial arrangement within the community.
+These findings established that AM-mediated [[mycorrhizal-carbon-storage-and-interplant-transfer]] is not a uniform process but is modulated by plant identity, functional group, and spatial arrangement within the community.
 
 ### Genetic Specificity: Ronsheim and Anderson (2001)
 
@@ -67,7 +67,7 @@ This critical negative result underscores that mere co-colonization by the same 
 Plants are not always restricted to a single mycorrhizal type. Several species exhibit remarkable flexibility that expands interplant connectivity across different mycorrhizal guilds:
 
 - **Lodge and Wentworth (1990):** ECM fungi can **displace AM associations** on *Populus* and *Salix* as soil moisture increases, indicating that environmental conditions—particularly water availability—mediate which mycorrhizal type dominates on a given host.
-- **Rhododendron** species support **both ericoid and ECM symbioses** simultaneously (Largent et al. 1980; Dighton and Coleman 1992; J.E. Smith et al. 1995). This dual colonization is unusual: Rhododendron may serve as an ecological "bridge" species connecting ericoid and ectomycorrhizal networks within the same community.
+- **Rhododendron** species support **both ericoid and ECM symbioses** simultaneously (Largent et al. 1980; Dighton and Coleman 1992; J.E. Smith et al. 1995). This dual colonization is unusual: Rhododendron may serve as an ecological "bridge" species connecting ericoid and [[symbiotic-fungi-ectomycorrhizal-networks-overview]] within the same community.
 - ***Pseudotsuga menziesii***, typically considered an obligate ECM host, can develop **AM associations with *Glomus intraradices*** when grown alongside the grass *Calamagrostis rubescens* (J.E. Smith et al. 1998). The neighboring C3 grass appears to facilitate AM colonization of the normally ECM-dominant conifer, suggesting that plant neighbors can alter each other's mycorrhizal colonization profiles.
 
 ## Ecological Significance

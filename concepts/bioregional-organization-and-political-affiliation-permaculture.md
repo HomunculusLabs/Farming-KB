@@ -1,5 +1,5 @@
 ---
-title: Bioregional Organization and Political Affiliation Strategies
+title: [[bioregional-organization-and-bioregionalism]] Political Affiliation Strategies
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -21,7 +21,7 @@ The acid test of a bioregion is that it is recognized as such by its inhabitants
 
 ### Optimal Scale
 
-Ideally, a bioregion encompasses 7,000 to 40,000 people. Of these, perhaps only a hundred will initially be interested in any regional association, and fewer still will be actively involved. This small active core can nevertheless accomplish significant work through systematic resource assessment and targeted action.
+Ideally, a bioregion encompasses 7,000 to 40,000 people. Of these, perhaps only a hundred will initially be interested in any regional association, and fewer still will be actively involved. This small active core can nevertheless accomplish significant work through systematic [[permaculture-resource-assessment-and-client-consultation]] targeted action.
 
 ## Work of the Bioregional Group
 
@@ -95,7 +95,7 @@ Mollison cautions against framing policy on purely local or trivial matters init
 
 ## Federal and Global Congresses
 
-Just as bioregions need periodic federal congresses, they also need global congresses. Societies and families need global meetings to break down the idea of defended regional boundaries. Ethics and principles of self-governance, interdependence, and voluntary simplicity apply at both regional and global levels.
+Just as bioregions need periodic federal congresses, they also need global congresses. Societies and families need global meetings to break down the idea of defended regional boundaries. Ethics and principles of self-governance, interdependence, and [[voluntary-simplicity]] apply at both regional and global levels.
 
 ## Practical Implementation Notes
 

@@ -25,8 +25,8 @@ The concept of mushroom hormones emerged independently in several laboratories:
   Removal of the pileus altered growth patterns, suggesting a top-down regulatory
   signal.
 
-- **Hagimoto (1963)**: Proposed the existence of a specific "mushroom growth hormone"
-  linked to the geotropic response of fruiting bodies in *Agaricus bisporus*. This
+- **Hagimoto (1963)**: Proposed the existence of a specific "[[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]]"
+  linked to the [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]] of fruiting bodies in *Agaricus bisporus*. This
   hormone appeared to control the upward curvature of the stipe during maturation.
 
 - **Hagimoto and Konishi (1960)**: Showed that agar diffusates from the gills could
@@ -43,7 +43,7 @@ Decapitation (removal of the pileus/cap) has been the primary experimental appro
 for demonstrating gill-derived hormonal regulation:
 
 1. In intact fruiting bodies, the stipe elongates and then curves upward
-  (negative geotropism) as the pileus expands and spores mature.
+  ([[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]]) as the pileus expands and spores mature.
 
 2. When the pileus is removed before this transition, the stipe continues to
   elongate but does not exhibit the characteristic upward curvature.

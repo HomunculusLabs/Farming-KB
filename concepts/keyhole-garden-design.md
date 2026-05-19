@@ -1,5 +1,5 @@
 ---
-title: Keyhole Garden Design
+title: [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Keyhole Garden Design
 
-A keyhole garden is a raised, circular garden bed with a central compost basket and a wedge-shaped notch (the "keyhole") that provides access to the center. Originally developed in Africa for drought-prone regions, keyhole gardens combine composting, water conservation, and intensive vegetable production in a compact, accessible design.
+A keyhole garden is a raised, circular garden bed with a central compost basket and a wedge-shaped notch (the "keyhole") that provides access to the center. Originally developed in Africa for drought-prone regions, keyhole gardens combine composting, water conservation, and intensive [[coleman-french-historical-winter-vegetable-production]] in a compact, accessible design.
 
 ## Origin and Purpose
 
@@ -20,7 +20,7 @@ Key advantages of the keyhole design:
 - **Integrated composting:** A central basket continuously feeds the garden with nutrients from kitchen scraps and yard waste
 - **Water efficiency:** The compost basket distributes moisture throughout the bed via wicking action
 - **Accessibility:** The raised bed design reduces bending; the keyhole path provides easy access to the entire bed from one spot
-- **Intensive production:** The circular design maximizes growing area per square foot
+- **[[mollison-designers-market-garden-intensive-production-design]]:** The circular design maximizes growing area per square foot
 - **Soil building:** Continuous composting builds rich, living soil over time
 
 ## Design and Dimensions

@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom (Pleurotus ostreatus) — Medicinal Mushroom Guide
+title: Oyster Mushroom (Pleurotus ostreatus) — [[medicinal-mushroom-guide]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -131,14 +131,14 @@ Oyster mushrooms are nutritionally dense:
 
 ## Cultivation
 
-Oyster mushrooms are among the easiest mushrooms to cultivate, making them ideal for home growers:
+Oyster mushrooms are among the easiest [[choosing-mushrooms-to-cultivate-and-infrastructure-planning]], making them ideal for home growers:
 
 - **Substrate:** Extremely versatile — hardwood sawdust, straw, coffee grounds, agricultural waste, cardboard, paper.
 - **Colonization:** 10-21 days at 72-78°F (22-26°C).
 - **Fruiting:** Requires high humidity (85-95%), fresh air, and indirect light.
 - **Temperature:** Varies by species (P. ostreatus fruits at 55-75°F).
 - **Biological efficiency:** 50-200% depending on substrate.
-- **Methods:** Bucket tek, straw logs, monotubs, outdoor log inoculation.
+- **Methods:** Bucket tek, straw logs, monotubs, [[growing-gourmet-outdoor-log-inoculation-techniques]].
 
 ## See Also
 

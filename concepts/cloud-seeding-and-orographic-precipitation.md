@@ -1,5 +1,5 @@
 ---
-title: Cloud Seeding and Orographic Precipitation
+title: [[cloud-seeding-and-orographic-rainfall-enhancement]] Precipitation
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -34,7 +34,7 @@ Cloud seeding programs have demonstrated measurable increases in precipitation:
 
 **Secondary effects** include enhanced groundwater recharge, improved downstream streamflow, increased vegetation growth in marginal areas, and feedback loops where additional vegetation further improves local condensation and rainfall patterns.
 
-The cost-effectiveness of cloud seeding has improved substantially with modern weather radar and satellite monitoring, which allow operators to target only clouds with the right temperature and moisture profiles. Despite this, Mollison cautions that seeding should never be undertaken in isolation from broader catchment management strategies.
+The cost-effectiveness of cloud seeding has improved substantially with modern weather radar and satellite monitoring, which allow operators to target only clouds with the right [[mushroom-growing-temperature-and-moisture]] profiles. Despite this, Mollison cautions that seeding should never be undertaken in isolation from broader catchment management strategies.
 
 ## Pre-Developing Ground Storage Before Seeding
 
@@ -70,7 +70,7 @@ At the boundary between open terrain and forest, an **Ekman spiral** effect deve
 
 Vegetation plays multiple roles in the precipitation cycle beyond simple transpiration:
 
-1. **Condensation nuclei provision**: Many plant species release volatile organic compounds (VOCs), pollen, spores, and biological particles that serve as cloud condensation nuclei (CCN). Mollison advocates assessing vegetation specifically for its capacity to provide rain nuclei.
+1. **Condensation nuclei provision**: Many plant species release [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (VOCs), pollen, spores, and biological particles that serve as cloud condensation nuclei (CCN). Mollison advocates assessing vegetation specifically for its capacity to provide rain nuclei.
 2. **Condensation surface**: Forest canopies themselves act as massive condensation surfaces, intercepting fog and cloud droplets directly—a process called **occult precipitation** or **horizontal precipitation**. In cloud forests, this can equal or exceed vertical rainfall.
 3. **Humidity maintenance**: Continuous transpiration from established vegetation maintains atmospheric moisture levels, creating conditions favourable for recurrent rainfall.
 

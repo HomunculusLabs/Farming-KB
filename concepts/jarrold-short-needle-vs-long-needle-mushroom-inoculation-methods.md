@@ -1,5 +1,5 @@
 ---
-title: Jarrold Short Needle Vs Long Needle Mushroom Inoculation Methods
+title: Jarrold [[short-needle-vs-long-needle-mushroom-inoculation-methods]] Inoculation Methods
 topic: mushroom_cultivation
 source: "D.H. Jarrold, Indoor mushroom-spore-inoculation-technique
   - vermiculite filter
@@ -23,7 +23,7 @@ Before inoculation, two inoculation points must be prepared on each bag:
 
 1. **Tape placement**: Small pieces of adhesive tape are positioned at two points on the bag wall, below the filter level. Jarrold describes a **loop-back tape design** where the tape is folded back on itself, leaving a non-adhesive tab. This allows the operator to quickly cover the needle puncture site immediately after withdrawing the needle, without fumbling.
 
-2. **Sterilisation of inoculation points**: Each inoculation site is wiped with a isopropyl-alcohol (isopropyl alcohol) to surface-sterilise the bag wall before needle insertion.
+2. **Sterilisation of inoculation points**: Each inoculation site is wiped with a isopropyl-alcohol ([[isopropyl-alcohol]]) to surface-sterilise the bag wall before needle insertion.
 
 ### Inoculation Procedure
 
@@ -71,7 +71,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.

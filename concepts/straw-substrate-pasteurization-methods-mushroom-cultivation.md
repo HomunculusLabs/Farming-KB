@@ -1,5 +1,5 @@
 ---
-title: Straw Substrate Pasteurization Methods Mushroom Cultivation
+title: Straw [[substrate-pasteurization]] Methods Mushroom Cultivation
 source: cancer-medicinal-mushrooms-extraction-bioavailability (Paul Stamets, 2000), pp. 182-190
 topics:
   - bulk-substrate-preparation
@@ -59,7 +59,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Straw Substrate Pasteurization Methods Mushroom Cultivation finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -87,7 +87,7 @@ Economic sustainability balances environmental and social needs.
 ## Research and Development
 
 Ongoing research continues to expand understanding of
-straw substrate pasteurization methods mushroom cultivation and its applications. Active investigation
+straw substrate pasteurization methods [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] its applications. Active investigation
 areas include ecological interactions and optimization.
 Published findings contribute to an evolving evidence base.
 

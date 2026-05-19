@@ -44,7 +44,7 @@ Ben Lemon recommends a simple extraction process to strip these oils from the du
 
 According to Lemon, this technique can increase flower potency to **over 12 times their original THC content**. The exact multiplier depends on oil solution concentration, flower absorption capacity, and oil type. Acetylated and isomerized oils produce the highest gains.
 
-This method is particularly valuable for lower-potency starting material, effectively transforming ordinary leaf or bud into an exceptionally potent product while maintaining the familiar appearance and handling characteristics of natural cannabis.
+This method is particularly valuable for lower-potency [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]], effectively transforming ordinary leaf or bud into an exceptionally potent product while maintaining the familiar appearance and handling characteristics of natural cannabis.
 
 The technique also opens possibilities for creating custom cannabinoid profiles. By selecting different oil preparations — purified, isomerized, or acetylated — the practitioner can tailor the psychoactive character of the treated flowers to achieve specific effects beyond what any naturally grown strain could provide.
 
@@ -84,7 +84,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Hashish Preparation From Cannabis Oil finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -113,7 +113,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 hashish preparation from cannabis oil and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

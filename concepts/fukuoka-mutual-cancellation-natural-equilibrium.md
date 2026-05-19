@@ -11,7 +11,7 @@ created: "2026-05-08"
 
 ## Overview
 
-Masanobu Fukuoka identified a fundamental property of agricultural systems: individual improvement measures, when applied collectively, tend to cancel each other out. This "mutual cancellation" arises from the equilibrium of nature, which inherently abhors the unnatural and works to return to its true state by discarding human techniques for increasing harvests. This principle is central to Fukuoka's [[cervantes-chemical-fertilizers-guide]] causes excessive vegetative growth—the plant becomes tall, lush, and leafy. This luxuriant growth again defeats attempts to improve light exposure within the canopy. The more fertilizer applied, the worse the problem of shading becomes, and the more the farmer must intervene with other measures to correct the imbalance created by the first intervention. The plant, stimulated beyond its natural capacity, produces abundant foliage but poor grain fill—a classic case of quantity without quality.
+Masanobu Fukuoka identified a [[consciousness-as-fundamental-property]] of agricultural systems: individual improvement measures, when applied collectively, tend to cancel each other out. This "mutual cancellation" arises from the equilibrium of nature, which inherently abhors the unnatural and works to return to its true state by discarding human techniques for increasing harvests. This principle is central to Fukuoka's [[cervantes-chemical-fertilizers-guide]] causes excessive vegetative growth—the plant becomes tall, lush, and leafy. This luxuriant growth again defeats attempts to improve light exposure within the canopy. The more fertilizer applied, the worse the problem of shading becomes, and the more the farmer must intervene with other measures to correct the imbalance created by the first intervention. The plant, stimulated beyond its natural capacity, produces abundant foliage but poor grain fill—a classic case of quantity without quality.
 
 ### Pest Control vs. Lodging
 
@@ -45,7 +45,7 @@ The causal relationships between factors in nature are too entangled for humans 
 
 Each piece of knowledge creates two new queries in the mind. Solving these gives rise to yet new questions. As the body of scholarly data grows, the antecedent causes of causes increase in number and depth, becoming incredibly complex. Far from unraveling the tangled web of cause and effect, science succeeds only in explaining in ever greater detail each of the individual threads—while the overall tapestry remains incomprehensible.
 
-To resolve the single matter of poor grain maturation, one must be prepared to resolve at the same time elements in every field of study that bears upon it—weather, biological environment, [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] is the sum of knowledge extracted from nature by the human intellect—finite, closely circumscribed, and inherently incomplete. Natural farming, by contrast, relies on the vast, boundless, perfect knowledge and power of nature itself. No matter how desperately he struggles, man will never be more than a small, imperfect part of nature's totality. As imperfection can never be the equal of perfection, so scientific farming must always yield a step to natural farming.
+To resolve the single matter of poor grain maturation, one must be prepared to resolve at the same time elements in every field of study that bears upon it—weather, biological environment, [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] is the sum of knowledge extracted from nature by the human intellect—finite, closely circumscribed, and inherently incomplete. Natural farming, by contrast, relies on the vast, boundless, perfect knowledge and power of nature itself. No matter how desperately he struggles, man will never be more than a small, imperfect part of nature's totality. As imperfection can never be the equal of perfection, so scientific farming must always yield a step [[fukuoka-organic-to-natural-farming-transition]].
 
 The Mahayana farmer recognizes that the search for agricultural improvement through science is like a man digging a pit: the more he digs, the deeper the pit, and the more darkness surrounds him. The Hinayana farmer, seeking to approach nature by casting off human knowledge, begins climbing out of the pit. Only the Mahayana farmer, who never entered the pit at all, stands in the full light of day.
 
@@ -65,7 +65,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.

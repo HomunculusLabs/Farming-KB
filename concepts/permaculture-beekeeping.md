@@ -1,5 +1,5 @@
 ---
-title: Permaculture Beekeeping
+title: [[comparison-permaculture-beekeeping-vs-natural-beekeeping]]
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -86,12 +86,12 @@ with and enhances other elements of the broader system within which
 they are working. This systems thinking approach generates synergies
 that exceed the sum of individual component contributions.
 ## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+The principles discussed here have direct applications in agricultural systems, [[mycorrhizal-fungi-ecological-restoration]], and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

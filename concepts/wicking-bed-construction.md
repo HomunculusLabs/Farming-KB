@@ -9,7 +9,7 @@ sources: []
 
 # Wicking Bed Construction
 
-A wicking bed is a self-watering garden bed that uses capillary action to draw water upward from a built-in reservoir below the soil. Plants access water from below, reducing surface evaporation and dramatically cutting water use. Wicking beds can reduce water consumption by 50-80% compared to conventional garden beds while providing more consistent soil moisture.
+[[query-how-do-i-build-a-wicking-bed-for-my-garden]] is a self-watering garden bed that uses capillary action to draw water upward from a built-in reservoir below the soil. Plants access water from below, reducing surface evaporation and dramatically cutting water use. Wicking beds can reduce water consumption by 50-80% compared to conventional garden beds while providing more consistent soil moisture.
 
 ## How Wicking Beds Work
 
@@ -137,7 +137,7 @@ The growing medium sits on top of the wicking medium:
 
 - Space plants as you would in a conventional raised bed
 - Tall plants on the north side (to avoid shading), short plants on the south
-- Consider companion planting for pest management and efficient space use
+- Consider [[cervantes-companion-planting-pest-deterrent]] [[biofumigation-and-brassica-cover-crops-for-pest-management]] and efficient space use
 
 ## Maintenance
 

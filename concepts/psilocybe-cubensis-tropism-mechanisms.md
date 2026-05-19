@@ -65,7 +65,7 @@ identity of the gill-derived tropism-modifying substance is an open question.
 Light influences tropism through physical (heating the stipe surface, increasing
 evaporation) and biochemical (triggering hormonic developmental transitions) pathways.
 Light is required for **basidiocarp initiation** (Badham 1980), **spore formation**, and
-**geotropic sensitivity**. Conversely, light **inhibits stipe elongation**, potentially as
+**[[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]]**. Conversely, light **inhibits stipe elongation**, potentially as
 a braking mechanism. Eger-Hummel (1980) described **four distinct light responses** in
 mushrooms; *P. cubensis* is broadly similar to *Coprinus congregatus*.
 
@@ -78,7 +78,7 @@ mushrooms; *P. cubensis* is broadly similar to *Coprinus congregatus*.
 | Anemotropism | Evaporative demand model | Direct + avoidance response |
 | Avoidance response | Not established | Johnson & Gamow (1971) |
 | Ethylene involvement | Unknown | Russo et al. (1977) |
-| Wind sensing | Boundary layer redistribution | Wind + water vapor |
+| Wind sensing | [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]] | Wind + water vapor |
 | Force response | Possible (analogous) | Gravity + centrifugal (Dennison 1961) |
 
 **Johnson & Gamow (1971)** showed *Phycomyces* avoidance requires both wind and water
@@ -132,7 +132,7 @@ Spore release → optimal ballistic dispersal from horizontal gills
 - Craig & Gull 1977 — stipe elongation in *Agaricus bisporus*
 - Dennison 1961 — tropic responses to gravitational/centrifugal stimuli
 - Eger-Hummel 1980 — blue light photomorphogenesis in mushrooms
-- Hagimoto 1963 — mushroom growth hormone and geotropic response
+- Hagimoto 1963 — [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] and geotropic response
 - Hagimoto & Konishi 1960 — growth hormone in *A. bisporus* fruit body
 - Johnson & Gamow 1971 — avoidance response in *Phycomyces*
 - Konishi & Hagimoto 1961 — IAA in *Agaricus bisporus*

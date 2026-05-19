@@ -1,12 +1,12 @@
 ---
-title: Lawn Soil Food Web Management
+title: Lawn [[soil-food-web-management-for-farmers]]
 source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
 ## Overview
 
-Managing a lawn through its [[soil-food-web]] represents a fundamentally different approach from chemical lawn care. Instead of feeding grass directly with soluble salts, the gardener feeds soil microbes, which in turn feed the grass roots. This section covers assessment, feeding, aeration, weeding, pH management, and application techniques specific to lawn soil food web restoration.
+Managing a lawn through its [[soil-food-web]] represents a fundamentally different approach from chemical lawn care. Instead of feeding grass directly with soluble salts, the gardener feeds soil microbes, which in turn feed the grass roots. This section covers assessment, feeding, aeration, weeding, pH management, and application techniques specific to lawn [[soil-food-web-restoration-tools]].
 
 ## Assessing Lawn Soil Biology
 
@@ -45,7 +45,7 @@ Lawns prefer slightly bacterially dominated soils (Rule #2). Leaving grass clipp
 
 - Provides sugars that attract healthy bacterial populations
 - Fosters protozoa for nutrient cycling
-- Reduces mowing frequency (absent high nitrate uptake from chemical fertilizers)
+- Reduces mowing frequency (absent high nitrate uptake from [[cannabis-chemical-fertilizers]])
 
 ### Leaf and Twig Mulching
 

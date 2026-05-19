@@ -1,5 +1,5 @@
 ---
-title: Plant Water Transport Pathways
+title: Plant [[water-transport-pathways-plants]]
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
@@ -58,7 +58,7 @@ While the xylem moves water and minerals upward, the phloem distributes the orga
 
 Getting sugars into the phloem requires energy through a process called **phloem loading**. Plants use two strategies:
 
-- **Apoplastic loaders** pump hydrogen ions out of the cell membrane, creating a gradient that drives sugar uptake into companion cells. Transport proteins specific for sucrose or proteins are embedded in the companion cell membrane. This route is common in temperate climates and most herbaceous plants.
+- **Apoplastic loaders** pump hydrogen ions out of the cell membrane, creating a gradient that drives sugar uptake into companion cells. Transport proteins specific for sucrose or proteins are embedded in the companion cell membrane. This route is common [[query-how-to-grow-and-use-oca-in-temperate-climates]] and most herbaceous plants.
 - **Symplastic loaders** move sugars through plasmodesmata into companion cells, where transport proteins facilitate their entry. This route predominates in tropical plants and most trees.
 
 The path taken depends on environmental factors and plant species. In general, sucrose travels the apoplastic pathway while other sugars use the symplastic route.
@@ -105,7 +105,7 @@ Understanding environmental feedback mechanisms and system boundaries helps pred
 Flexible management approaches that incorporate monitoring feedback and enable course correction prove more resilient than rigid plans in dynamic environments.
 ## Resource Efficiency
 
-Optimizing resource utilization reduces waste, lowers costs, and minimizes environmental impact. Circular economy principles transform waste streams into valuable inputs.
+Optimizing resource utilization reduces waste, lowers costs, and minimizes environmental impact. [[zeri-circular-economy-systems]] principles transform waste streams into valuable inputs.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

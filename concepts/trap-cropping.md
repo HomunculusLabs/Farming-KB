@@ -9,7 +9,7 @@ sources: []
 
 # Trap Cropping
 
-Trap cropping is the practice of growing a sacrificial "trap" crop that attracts pests away from the main cash crop. The pests concentrate on the trap crop, which is then monitored, managed, or destroyed along with the pests. It is a key strategy in integrated pest management (IPM) and pairs well with [[companion-planting-reference]] and [[insectary-plantings]].
+Trap cropping is the practice of growing a sacrificial "trap" crop that attracts pests away from the main cash crop. The pests concentrate on the trap crop, which is then monitored, managed, or destroyed along with the pests. It is a key strategy in [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (IPM) and pairs well with [[companion-planting-reference]] and [[insectary-plantings]].
 
 ## How Trap Cropping Works
 
@@ -77,7 +77,7 @@ Tomato hornworms (Manduca quinquemaculata) and tobacco hornworms (Manduca sexta)
 
 **Trap Crops:**
 - **Dill**: Hornworms prefer dill over tomatoes. Plant dill at the perimeter of tomato beds. Adult moths are also attracted to dill flowers for nectar.
-- **Borage**: Attracts hornworms and also repels them through volatile compounds (conflicting research — may depend on density). Plant near tomatoes.
+- **Borage**: Attracts hornworms and also repels them through [[mycovolatiles-fungal-volatile-compounds]] (conflicting research — may depend on density). Plant near tomatoes.
 - **Moonflowers (Datura inoxia)**: Extremely attractive to hornworm adults for egg-laying. A "dead-end" trap crop — larvae that feed on datura die from the toxic alkaloids.
 
 **Management:**
@@ -96,7 +96,7 @@ Imported cabbageworm, cabbage looper, and diamondback moth larvae damage brassic
 
 **Management:**
 - Monitor trap crops for eggs and small larvae
-- Apply Bacillus thuringiensis (Bt) to trap crops only, or to the entire brassica bed when larvae are small
+- Apply [[bacillus-thuringiensis]] (Bt) to trap crops only, or to the entire brassica bed when larvae are small
 - Use floating row covers on the main crop until the trap crop is established
 - Destroy trap crop at end of season to reduce overwintering population
 

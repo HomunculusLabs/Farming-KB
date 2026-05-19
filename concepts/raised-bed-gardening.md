@@ -1,5 +1,5 @@
 ---
-title: Raised Bed Gardening Guide
+title: [[comparison-chinampas-vs-raised-bed-gardening]] Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Raised Bed Gardening Guide
 
-Raised beds elevate the growing surface above ground level, improving drainage, reducing soil compaction, extending the growing season, and providing better control over soil quality. They are the foundation of most home vegetable gardens.
+Raised beds elevate the growing surface above ground level, improving drainage, reducing soil compaction, extending [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], and providing better control over soil quality. They are the foundation of most home vegetable gardens.
 
 ## Benefits
 
@@ -44,7 +44,7 @@ Raised beds elevate the growing surface above ground level, improving drainage, 
 
 ## Mel's Mix (Square Foot Garden Soil)
 
-Developed by Mel Bartholomew for square foot gardening, this soil mix works well in any raised bed:
+Developed by Mel Bartholomew for [[comparison-keyhole-garden-vs-square-foot-gardening]], this soil mix works well in any raised bed:
 
 **1/3 blended compost** (mix 4-5 types: leaf, manure, mushroom, kitchen, worm castings)
 **1/3 peat moss** (or coco coir for sustainability)

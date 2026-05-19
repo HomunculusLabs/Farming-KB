@@ -65,7 +65,7 @@ Sissoo combines well with:
 
 ## Summary
 
-Dalbergia sissoo is one of the most versatile multi-purpose trees available for permaculture in semi-arid and tropical regions. Its combination of valuable timber, nitrogen fixation, erosion control, livestock forage, and coppice resilience makes it an excellent choice for integrated land management systems seeking to maximise yields while building soil and ecosystem health.
+Dalbergia sissoo is one of the most versatile multi-purpose trees available for permaculture in semi-arid and tropical regions. Its combination of valuable timber, nitrogen fixation, erosion control, livestock forage, and coppice resilience makes it an excellent choice for [[integrated-land-management-and-polyculture-design]] systems seeking to maximise yields while building soil and ecosystem health.
 ## Overview
 
 Dalbergia Sissoo Permaculture Timber Tree represents an important element within sustainable
@@ -90,7 +90,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Dalbergia Sissoo Permaculture Timber Tree finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -119,7 +119,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 dalbergia sissoo permaculture timber tree and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

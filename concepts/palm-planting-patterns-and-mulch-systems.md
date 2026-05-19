@@ -6,7 +6,7 @@ type: concept
 
 # Palm Planting Patterns and Mulch Systems
 
-The design of palm polycultures—particularly coconut-based systems—is a central topic in tropical [[permaculture]]. The choice between clump and grid planting, combined with strategic mulch provision and earth shaping, determines both yield and the amount of ground area available for intercropping, livestock, and water harvesting.
+The design of palm polycultures—particularly coconut-based systems—is a central topic in tropical [[permaculture]]. The choice between clump and grid planting, combined with strategic mulch provision [[mollison-designers-tropical-terrace-design-and-earth-shaping]], determines both yield and the amount of ground area available for intercropping, livestock, and water harvesting.
 
 ## Village Zonation Around Palm Polyculture
 
@@ -73,7 +73,7 @@ Local agricultural advisors should be consulted for site-specific adjustments.
 
 ## Access Roads and Grassed Ways
 
-Sensible roading or grassed access ways are essential for gathering and handling heavy crop. Provision for these must be made even where horses or donkeys with panniers are used. Broad swales in the land patterning can double as harvest access routes, reducing the total area devoted to roads. Access design should also account for the transport of mulch materials—hedge foliage, intercrop leaf, and palm by-products—between mulch source zones and crop beds.
+Sensible roading or grassed access ways are essential for gathering and handling heavy crop. Provision for these must be made even where horses or donkeys with panniers are used. Broad swales in the land patterning can double as harvest access routes, reducing the total area devoted to roads. Access design should also account for the transport of [[mollison-mulch-materials-sources-and-tropical-application]]—hedge foliage, intercrop leaf, and palm by-products—between mulch source zones and crop beds.
 
 ## Mulch Layout Systems
 
@@ -118,7 +118,7 @@ and site-specific conditions to achieve meaningful results.
 
 ## Research Context
 
-Current research in this area builds upon foundational
+[[psychedelic-therapy-current-research]] in this area builds upon foundational
 principles while exploring new methodological approaches.
 Empirical findings continue to refine our understanding
 and suggest promising directions for future investigation

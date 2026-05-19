@@ -1,5 +1,5 @@
 ---
-title: Permaculture Village Development and Trust Structures
+title: [[permaculture-village-development-process]] and Trust Structures
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[permaculture-village-development]] follows a structured, phased approach that integrates legal, financial, and social frameworks from the outset. Bill Mollison outlines a comprehensive process for establishing self-reliant communities that balance individual autonomy with collective resource management through carefully designed trust structures.
+[[permaculture-village-development]] follows a structured, phased approach that integrates legal, financial, and social frameworks from the outset. Bill Mollison outlines a comprehensive process for establishing self-reliant communities that balance individual autonomy with collective [[savory-holistic-resource-management-animal-impact]] through carefully designed trust structures.
 
 ## The Development Process
 
@@ -102,7 +102,7 @@ Mollison recommends starting small (about 30 adults), building to 200–300 peop
 
 ### The Mondragon Model
 
-The Mondragon Cooperatives of Spain initially grew large (3,000–5,000 members) but later reduced to cooperatives of 300–500 to preserve individual identity. However, a group of such small cooperatives can manufacture any vehicle or machine if each produces a component part — this is organised by the smaller cooperatives in the Mondragon system.
+The [[mondragon-cooperatives]] of Spain initially grew large (3,000–5,000 members) but later reduced to cooperatives of 300–500 to preserve individual identity. However, a group of such small cooperatives can manufacture any vehicle or machine if each produces a component part — this is organised by the smaller cooperatives in the Mondragon system.
 
 ### The Neighbourhood Factor
 

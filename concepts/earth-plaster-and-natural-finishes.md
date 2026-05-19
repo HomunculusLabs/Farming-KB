@@ -9,7 +9,7 @@ sources: []
 
 # Earth Plaster and Natural Finishes
 
-Natural wall finishes protect building surfaces while maintaining breathability. Unlike conventional paint and gypsum plaster, natural finishes allow moisture vapor to pass through walls, preventing trapped moisture that causes mold and decay. This is essential for earth, straw, and timber-based buildings.
+Natural [[natural-plasters-and-earthen-wall-finishes]] protect building surfaces while maintaining breathability. Unlike conventional paint and gypsum plaster, natural finishes allow moisture vapor to pass through walls, preventing trapped moisture that causes mold and decay. This is essential for earth, straw, and timber-based buildings.
 
 ## Why Natural Finishes Matter
 
@@ -60,7 +60,7 @@ Lime wash is a thin, breathable coating made from hydrated lime (type S) and wat
 
 - **Hydrated lime (type S):** 1 part by volume
 - **Water:** 3-5 parts by volume
-- **Optional pigment:** natural mineral pigments (ochres, iron oxides) for color
+- **Optional pigment:** [[jadam-natural-mineral-leaching-and-replenishment]] pigments (ochres, iron oxides) for color
 - **Optional salt:** 1 tablespoon per gallon to improve adhesion on porous surfaces
 
 ### Application
@@ -116,7 +116,7 @@ Alis is a traditional earthen finish coat from the American Southwest, used on a
 - **Clay soil (fine):** 1 part
 - **Fine sand:** 0.5-1 part (optional, for reducing shrinkage)
 - **Water:** enough for a creamy consistency
-- **Additives (choose some):** wheat paste (1/4 cup per gallon), cactus juice (prickly pear pad extract), borax (1/4 cup), linseed oil (1/4 cup), milk (1 cup), or manure (1 cup)
+- **Additives (choose some):** wheat paste (1/4 cup per gallon), cactus juice ([[comparison-agave-vs-prickly-pear-cultivation]] pad extract), borax (1/4 cup), linseed oil (1/4 cup), milk (1 cup), or manure (1 cup)
 
 ### Application
 

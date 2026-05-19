@@ -1,5 +1,5 @@
 ---
-title: Mixed Population Kill Kinetics Microwave Surface Sterilization Nasa
+title: Mixed Population Kill Kinetics [[challenge-microorganisms-microwave-surface-sterilization]] Nasa
 created: 2026-05-09
 tags: [microwave-sterilization, kill-kinetics, microbial-population, dose-response, bacillus-pumilus, e-coli, pseudomonas]
 date: 2026-05-09
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mixed Population Kill Kinetics Microwave Surface Sterilization Nasa finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mixed population kill kinetics microwave surface sterilization nasa and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

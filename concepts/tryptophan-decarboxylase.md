@@ -9,9 +9,9 @@ sources:
 ---
 # Tryptophan Decarboxylase
 
-Tryptophan decarboxylase (TDC) is the enzyme that catalyzes the conversion of the [[psilocybin-biosynthesis-pathway]], [[psilocybin-biosynthesis-pathway]], tryptophan decarboxylase occupies the position just after tryptophan is produced from the Shikimate pathway:
+Tryptophan decarboxylase (TDC) is the enzyme that catalyzes the conversion of the [[psilocybin-biosynthesis-pathway]], [[psilocybin-biosynthesis-pathway]], tryptophan decarboxylase occupies the position just after tryptophan is produced from [[primary-metabolic-precursors-to-the-shikimate-pathway]]:
 
-1. Glucose → (glycolysis + pentose phosphate pathway) → PEP + E4P
+1. Glucose → (glycolysis + [[pentose-phosphate-pathway]]) → PEP + E4P
 2. PEP + E4P → (Shikimate pathway) → Chorismate → Anthranilate → Tryptophan
 3. **Tryptophan → Tryptamine** (tryptophan decarboxylase)
 4. Tryptamine → (multiple steps, not fully elucidated) → Norbaeocystin → Baeocystin → Psilocin → Psilocybin
@@ -50,7 +50,7 @@ The inhibition pattern reveals important structure-activity relationships. Compe
 
 ### The Gartz Method
 
-Jochen Gartz demonstrated that adding tryptamine hydrochloride directly to the mushroom-substrates|substrate increases total alkaloid production in [[arbuscule-isolation-metabolic-activity-assays]] may increase flux through the entire pathway
+Jochen Gartz demonstrated that adding tryptamine hydrochloride directly to the mushroom-substrates|substrate increases total [[mycelial-broth-alkaloid-production]] in [[arbuscule-isolation-metabolic-activity-assays]] may increase flux through the entire pathway
 
 ## Distribution Among Fungi
 

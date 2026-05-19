@@ -61,7 +61,7 @@ In tribal society, wisdom is measured not by years lived but by **degree of reve
 Pattern, song, and dance offer powerful educational tools that are easy to accurately reproduce. As designers, we should consider reviving meaningful geometries, songs, and dances that encode practical knowledge — reconnecting art with science, society, and functional needs.
 
 ## Cultural Context
-Traditional knowledge systems encode sophisticated ecological understanding
+[[wasted-human-resources-and-traditional-knowledge]] systems encode sophisticated ecological understanding
 through narrative, song, and spatial pattern recognition. These indigenous
 knowledge frameworks represent millennia of careful observation and adaptive
 management of complex natural systems across diverse environments.
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Tribal Pattern Encoding And Mnemonics finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 tribal pattern encoding and mnemonics and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

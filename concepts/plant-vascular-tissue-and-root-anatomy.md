@@ -16,7 +16,7 @@ The xylem is the primary vascular tissue responsible for transporting water and 
 
 ### How Water Moves Through Xylem
 
-Water enters the plant root through root hairs and travels via osmosis into root cells. There is usually a higher concentration of nutrients inside root cells than outside, creating osmotic pressure that draws water in across the root cell membranes (the plasmalemma), likely through aquaporin channels.
+Water enters the plant root through root hairs and travels via osmosis into root cells. There is usually a higher concentration of nutrients inside root cells than outside, creating [[fungal-fruiting-body-mechanics-osmotic-pressure]] that draws water in across the root cell membranes (the plasmalemma), likely through aquaporin channels.
 
 Once inside the plant cell, water enters the symplastic pathway, moving from cell to cell toward the xylem tissue at the center of the root. Three forces drive the upward movement of water through the xylem:
 
@@ -100,7 +100,7 @@ Leaves are optimized to expose maximum chloroplast surface area to sunlight. A t
 
 ## Roots: Structure and Growth
 
-Roots come in various forms—fibrous (near-surface, quick water absorption) and taproot (deep-reaching)—but share common structural features.
+Roots come in various forms—fibrous (near-surface, quick water absorption) and taproot (deep-reaching)—but share common [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]].
 
 ### Root Growth Zones
 
@@ -121,4 +121,4 @@ Root cap cells help build mucilage that lubricates the root-soil interface, incr
 - **Dermal tissue** (epidermis and periderm) provides waterproofing and protection.
 - **Root hairs** are single cells that massively increase surface area for nutrient uptake, guided by calcium sensing.
 - **Mucilage** lubricates roots and creates a chemical environment that enhances nutrient absorption.
-- Plant structure is an elegant integration of tissues optimized for water transport, sugar distribution, protection, and nutrient acquisition.
+- Plant structure is an elegant integration of tissues optimized for water transport, sugar distribution, protection, and [[dighton-ericoid-mycorrhizal-nutrient-acquisition]].

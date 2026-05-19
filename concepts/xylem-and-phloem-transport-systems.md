@@ -1,5 +1,5 @@
 ---
-title: Xylem and Phloem Transport Systems
+title: [[xylem-and-phloem-transport-systems-in-plants]]
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
@@ -68,7 +68,7 @@ Phloem longevity varies by species. Some plants replace their phloem annually, w
 
 Loading sugars into the phloem requires energy and occurs through two distinct strategies:
 
-**Apoplastic loaders** pump hydrogen ions out of the companion cell membrane into the cell wall space. The resulting electrochemical gradient drives sugar molecules into companion cells through specialized transport proteins. This pathway is widely used in **temperate climates** and by most **herbaceous plants**. Sucrose is the primary sugar transported via this route.
+**Apoplastic loaders** pump hydrogen ions out of the companion cell membrane into the cell wall space. The resulting electrochemical gradient drives sugar molecules into companion cells through specialized transport proteins. This pathway is widely used in **[[fukuoka-natural-farming-temperate-climates]]** and by most **herbaceous plants**. Sucrose is the primary sugar transported via this route.
 
 **Symplastic loaders** pass sugars and amino acids into companion cells through plasmodesmata, using specific transport proteins embedded in the companion cell membrane. Most **trees** and **tropical plants** use this pathway, which carries a wider variety of sugars beyond sucrose.
 
@@ -115,7 +115,7 @@ The xylem and phloem are functionally linked. The high sugar concentration loade
 - Xylem sap carries mineral nutrients and, in spring, stored sugars (the source of maple and birch syrups).
 - Phloem loading uses either apoplastic (temperate, herbaceous plants) or symplastic (trees, tropical plants) pathways.
 - The pressure flow mechanism—driven by source loading, osmotic water entry, and sink unloading—is the primary driver of phloem transport.
-- Phloem sap contains mRNA and proteins that serve long-distance signaling functions, coordinating defense, development, and stress responses.
+- Phloem sap contains mRNA and proteins that serve long-distance signaling functions, coordinating defense, development, [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]].
 - Tree rings, formed by seasonal variation in xylem cell size, serve as historical records of climate conditions.
 
 ## Practical Considerations

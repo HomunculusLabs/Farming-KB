@@ -1,5 +1,5 @@
 ---
-title: Piule - Rhynchosia Seeds Mexican Hallucinogen
+title: Piule - Rhynchosia [[colorines-erythrina-seeds-mexican-hallucinogen]]
 created: 2026-04-28
 tags: [ethnobotany, mexico, rhynchosia, leguminosae, aztec, seeds,
   hallucinogenic-plants, schultes, tepantitla]
@@ -36,14 +36,14 @@ narcotic or hallucinogen may extend back at least 1,600 years.
 The association of the seeds with the rain god Tlaloc is significant, as
 Tlaloc was one of the most important deities in the Mesoamerican
 pantheon. His association with rain, fertility, and agricultural abundance
-made him a central figure in religious ceremonies, and the depiction of
+made him a central figure in [[entheogenic-folk-religious-ceremonies]], and the depiction of
 psychoactive seeds in his hand suggests that these plants played a role in
 rituals aimed at ensuring rainfall and agricultural productivity.
 
 ## The Name Piule: A Shared Designation
 
 The name "piule" is shared between Rhynchosia seeds and hallucinogenic
-[[morning-glory-seeds]] ([[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] contain ergoline alkaloids
+[[morning-glory-seeds]] ([[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] contain [[morning-glory-ergoline-alkaloids-chemistry]]
 closely related to LSD, while the chemistry of Rhynchosia seeds is less
 well characterized.
 

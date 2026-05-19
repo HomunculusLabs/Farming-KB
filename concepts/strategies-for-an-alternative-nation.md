@@ -26,7 +26,7 @@ This reframing of wealth from abstract financial instruments to tangible regiona
 
 The chapter references traditional systems as evidence that sustainable self-governance is not only possible but has been achieved for millennia:
 
-- **[[ifugao-terraces]]** (Philippines): In use for at least 3,000 years, these wet terrace systems demonstrate that community organization and self-control are inherent to the construction and maintenance of common canal systems and shared irrigation
+- **[[ifugao-terraces]]** (Philippines): In use for at least 3,000 years, these wet terrace systems demonstrate that [[savory-community-organization-and-shared-grazing]] self-control are inherent to the construction and maintenance of common canal systems and shared irrigation
 - **Nile flood cultures**: Probably 17,000 years old, now sadly but perhaps temporarily ended
 - **Chinampa systems** (Mexico): Also antique, combining canal and bank systems for intensive food production
 - **Flood-plain, lakeside, and river cultures** of Asia: Demonstrating long-term sustainability of water-based food systems
@@ -68,7 +68,7 @@ The strategies presented in Chapter 14 may, in fact, be of more assistance to re
 
 ## The Biocide Imperative
 
-Running throughout the aquaculture and broader design chapters is the imperative for minimal to zero biocide use near or in waterways. This principle extends to all land management: the susceptibility of living systems to poisons means that sustainable design must exclude chemical interventions almost entirely. This has political implications—it requires resisting agricultural chemical companies, industrial pollution, and regulatory frameworks that permit the poisoning of water and soil.
+Running throughout the aquaculture and broader design chapters is the imperative for minimal to zero biocide use near or in waterways. This principle extends to all land management: the susceptibility of living systems to poisons means that sustainable design must exclude chemical interventions almost entirely. This has political implications—it requires resisting agricultural chemical companies, industrial pollution, and [[medicinal-mushroom-cancer-regulatory-frameworks]] that permit the poisoning of water and soil.
 
 ## Spiritual and Mystical Dimensions
 
@@ -135,4 +135,4 @@ The traditional water cultures described—the Ifugao, the chinampa builders, th
 - Iversen, E.S.: *Farming the Edge of the Sea*, Fishing News Books, Surrey, U.K., 1968
 - Augusthy, K.T.: *Fish Farming in Nepal*, Institute of Agriculture and Science, Tribhuvan University, 1979
 - Chakroff, Marilyn (1982): *Freshwater Fish Pond Culture and Management*, Peace Corps/VITA Publications
-- Darlington, P.J. Jr: *Zoogeography: the geographical distribution of animals*, John Wiley & Sons, 1963
+- Darlington, P.J. Jr: *Zoogeography: the [[psilocybe-geographical-distribution-patterns]] of animals*, John Wiley & Sons, 1963

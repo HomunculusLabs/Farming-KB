@@ -2,7 +2,7 @@
 title: comparison-root-cellaring-guide-vs-canning-and-preserving and Food Preservation
 created: 2026-04-26
 updated: 2026-04-24
-sources: "steve-solomon, Gardening When It Counts"
+sources: "steve-solomon, [[gardening-when-it-counts]]"
 wikilinks: "winter-gardening-season-extension solomon-vegetable-varieties-self-sufficiency solomon-soil-mineral-depletion solomon-double-digging solomon-raised-beds solomon-fertilizer-selection-application solomon-compost-organic-matter solomon-irrigation-water-scarce solomon-seed-saving-vegetable-breeding solomon-pest-management-without-chemicals solomon-garden-planning-calorie-production"
 type: concept
 tags: [reference]
@@ -81,7 +81,7 @@ better results with each iteration of practice and experimentation.
 
 ## Research Directions
 
-Current areas of investigation and emerging findings. Understanding solomon root cellaring food preservation requires attention to multiple interacting factors. Practitioners should evaluate their specific context and conditions before applying generalized recommendations. The effectiveness of any approach depends on proper implementation and ongoing monitoring.
+Current areas of investigation and emerging findings. Understanding [[solomon-root-cellaring-and-crop-storage]] food preservation requires attention to multiple interacting factors. Practitioners should evaluate their specific context and conditions before applying generalized recommendations. The effectiveness of any approach depends on proper implementation and ongoing monitoring.
 Regional variations, seasonal changes, and local ecosystem conditions all play significant roles in determining optimal strategies. Documentation of results and adaptive management help refine techniques over time for better outcomes.
 
 ## Integration Strategies
@@ -107,7 +107,7 @@ Regional variations, seasonal changes, and local ecosystem conditions all play s
 ## Implementation Guidelines
 
 Step-by-step implementation approach and recommended practices. Success with solomon root cellaring food preservation depends on systematic evaluation of local conditions and careful planning. Experienced practitioners recommend starting small and expanding based on documented results. Regular assessment allows for timely adjustments and prevents compounding errors.
-Key metrics include growth rates, resource efficiency, and outcome quality. Document baseline conditions before beginning and track changes systematically throughout the process for evidence-based optimization.
+Key metrics include growth rates, [[permaculture-energy-cycling-and-resource-efficiency]], and outcome quality. Document baseline conditions before beginning and track changes systematically throughout the process for evidence-based optimization.
 
 ## Quality Indicators
 

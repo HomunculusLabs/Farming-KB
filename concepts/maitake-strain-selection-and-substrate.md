@@ -1,12 +1,12 @@
 ---
-title: Maitake Strain Selection and Substrate Options
+title: [[maitake-strain-selection-and-spawn-types]] Substrate Options
 source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
 # Maitake Strain Selection and Substrate Options
 
-Successful *Grifola frondosa* (maitake) cultivation depends critically on selecting appropriate strains and substrate materials. The interaction between fungal genetics and substrate composition determines colonization speed, fruiting body quality, and overall yield. This concept covers strain selection criteria, substrate plant species options, and their implications for commercial and home cultivation.
+Successful *[[grifola-frondosa-maitake]]* (maitake) cultivation depends critically on selecting appropriate strains and substrate materials. The interaction between fungal genetics and substrate composition determines colonization speed, fruiting body quality, and overall yield. This concept covers strain selection criteria, substrate plant species options, and their implications for commercial and home cultivation.
 
 ## Strain Selection
 
@@ -48,7 +48,7 @@ Numerous hardwood species can be used for maitake cultivation, depending on regi
 | **Maple** | Widely available; good alternative to oak |
 | **Elm** | Suitable; may require adjusting moisture content |
 | **Beech** | Common in Europe; good nutritional profile |
-| **Alder** | Pacific Northwest availability; soft hardwood |
+| **Alder** | [[psilocybin-north-america-pacific-northwest]] availability; soft hardwood |
 | **Black gum** | Less common but suitable |
 | **Larch** | Conifer but acceptable for some strains |
 | **Poplar** | Fast-growing; widely available; softer wood |

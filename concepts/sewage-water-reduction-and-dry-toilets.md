@@ -28,7 +28,7 @@ Dry toilets are specifically useful where:
 - **Soils do not suit** septic tanks
 - **Cities have critical water supply** problems
 
-Dry toilets are unnecessary on farms or in well-drained soils, or wherever sewage is used to produce methane by anaerobic digestion in tanks. In fact, dry toilets reduce the potential uses of sewage, just as compost is a reduction in the potential use of mulch. They are quite specifically appropriate for water-critical urban environments.
+Dry toilets are unnecessary on farms or in well-drained soils, or wherever sewage is used to produce methane by [[biogas-digesters-and-anaerobic-digestion-systems]] in tanks. In fact, dry toilets reduce the potential uses of sewage, just as compost is a reduction in the potential use of mulch. They are quite specifically appropriate for water-critical urban environments.
 
 ## Greywater Chemistry and Soil Safety
 
@@ -43,7 +43,7 @@ When using wastewater from kitchen, bathroom, and laundry, it is essential to un
 
 ### Safe Concentrations
 
-Most of these contaminants can be dealt with by soil organisms, but critical thresholds exist:
+Most of these contaminants can be dealt with by soil organisms, but [[ingham-dissolved-oxygen-critical-thresholds-compost-tea]] exist:
 
 - **Sodium and potassium salts**: Can deflocculate soil clays or damage leaves at concentrations >1,000 ppm, especially problematic if the base water supply is already saline
 - **Borates**: At >0.5 ppm can create excessive boron concentration in soils; above 1.0 ppm is harmful to soil life and plants
@@ -94,7 +94,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

@@ -41,7 +41,7 @@ Synthetic chemicals—particularly high-nitrogen fertilizers and broad-spectrum 
 
 ### Understanding Weeds as a Signal
 
-In [[soil-food-web]] gardening, weeds are viewed not merely as nuisances but as indicators of soil conditions. Opportunistic annual weeds, in particular, tend to thrive in soils that have been disrupted by chemicals, compaction, or excessive nitrogen fertilization. When the soil food web is restored, many persistent weeds simply disappear—one notable example is chickweed, which vanished entirely once the soil biology was brought back into balance.
+In [[soil-food-web]] gardening, weeds are viewed not merely as nuisances but as [[biological-indicators-of-soil-conditions]]. Opportunistic annual weeds, in particular, tend to thrive in soils that have been disrupted by chemicals, compaction, or excessive nitrogen fertilization. When the soil food web is restored, many persistent weeds simply disappear—one notable example is chickweed, which vanished entirely once the soil biology was brought back into balance.
 
 ### The Problem with Herbicides
 
@@ -66,7 +66,7 @@ At the mulch-soil interface, a biochemical process occurs: nitrogen, phosphate, 
 
 ### Fertilizers and Weed Encouragement
 
-High-nitrogen synthetic fertilizers actively encourage opportunistic annual weeds. These weeds are adapted to take advantage of sudden nutrient surges—exactly what synthetic fertilizers provide. By contrast, the slow, steady nutrient release from bacterial compost and a healthy soil food web favors crop plants over weedy species.
+High-nitrogen [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] actively encourage opportunistic annual weeds. These weeds are adapted to take advantage of sudden nutrient surges—exactly what synthetic fertilizers provide. By contrast, the slow, steady nutrient release from bacterial compost and a healthy soil food web favors crop plants over weedy species.
 
 ---
 
@@ -103,7 +103,7 @@ When pest intervention is necessary, prefer options with minimal impact on soil 
 
 - **Insecticidal soaps**: contact-based, break down quickly, minimal soil residue
 - **Botanical insecticides**: derived from plants (e.g., neem, pyrethrin); use sparingly
-- **Bt (Bacillus thuringiensis)**: a soil bacterium that targets specific pest larvae; relatively benign to non-target organisms
+- **Bt ([[bacillus-thuringiensis]])**: a soil bacterium that targets specific pest larvae; relatively benign to non-target organisms
 
 These tools should be used as last resorts, not first responses. The primary pest management strategy is maintaining a healthy soil food web that supports robust, pest-resistant plants and thriving populations of beneficial predators.
 

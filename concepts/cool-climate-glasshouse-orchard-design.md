@@ -26,7 +26,7 @@ Insulation is essential at multiple levels of the glasshouse structure:
 Inside the greenhouse, where the whole earth floor is insulated from the cold earth outside, several additional heat masses can be provided:
 
 - **Water storage**: Plastic or metal tanks or drums of water (some can serve as fish ponds)
-- **Active heat from animals**: Areas below plant benches can house rabbits, guinea pigs, poultry, or small domestic animals at night, providing considerable winter heat
+- **Active heat from animals**: Areas below plant benches can house rabbits, guinea pigs, poultry, or small [[permaculture-domestic-animals]] at night, providing considerable winter heat
 - **[[permaculture]] strategies for the humid landscape.
 
 ### Integration with Water and Landscape
@@ -52,7 +52,7 @@ Orchards in cool climates are ideal for integration with livestock:
 
 The design of orchards should account for:
 
-- **Contour planting** on slopes to prevent erosion and facilitate irrigation
+- **Contour planting** on slopes to [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]] and facilitate irrigation
 - **Species selection** based on frost-hardiness and chilling-hour requirements
 - **Pollination partners** planted in appropriate ratios and proximities
 - **Access lanes** for harvesting, pruning, and animal management
@@ -63,7 +63,7 @@ The design of orchards should account for:
 Both glasshouse and orchard systems in cool humid climates demonstrate the permaculture principle that **every element should perform multiple functions**:
 
 - A greenhouse provides not only crop production but also house heating, animal shelter, compost processing, and water storage
-- An orchard provides fruit, livestock forage, wind protection, soil building, [[water-management]], and wildlife habitat
+- An orchard provides fruit, livestock forage, wind protection, soil building, [[water-management]], and [[hemenway-backyard-wildlife-habitat]]
 - Water serves irrigation, domestic use, energy, aquaculture, nutrient transport, and fire control simultaneously
 
 The cool humid climate, despite its challenges of cold, wind, and seasonal limitation, offers abundant rainfall, fertile glacial soils, and natural forest productivity. By designing glasshouses and orchards as integrated components of a whole landscape system — rather than isolated production units — the permaculture designer can create resilient, energy-efficient food systems that leverage the strengths of this climate while mitigating its constraints.

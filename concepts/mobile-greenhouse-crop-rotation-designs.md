@@ -38,7 +38,7 @@ winter salad crops before cold damage.
 |------|---------------------|---------------------|----------------------|
 | A1   | Tomatoes            | —                   | —                    |
 | A2   | —                   | Onions → Spinach    | Spinach              |
-| B1   | —                   | Peas → Carrots      | Winter Carrots       |
+| B1   | —                   | Peas → Carrots      | [[coleman-sweet-winter-carrots-cold-sweetening]]       |
 | B2   | Arugula, pak choi, parsley, flowers | — | — |
 
 In the fall, houses shift to cover A2 (spinach) and B1 (carrots). Come spring,
@@ -83,7 +83,7 @@ expression of progressive hardiness determining move timing.
 
 | Date         | Move                    | Purpose                                     |
 |--------------|-------------------------|---------------------------------------------|
-| Winter       | House on Plot 1         | Protect overwintered onions or spinach      |
+| Winter       | House on Plot 1         | Protect [[coleman-overwintered-onions-and-early-spring-crops]] or spinach      |
 | March 25     | Move to Plot 2          | Warm soil for April 1 carrots and beets     |
 | April 25     | Move to Plot 3          | Warm soil for May 1 zucchini and bush beans |
 | Late May     | Move to Plot 4          | Cover summer tomatoes                       |
@@ -109,7 +109,7 @@ house covers Plot 3's onions at Thanksgiving and Plot 1 is readied for spring.
 - **Temporal**: The greenhouse moves in sync with seasonal progression, placing
   protection where it delivers the greatest value.
 - **Biological**: Progressive hardiness determines the move sequence — each
-  crop's cold tolerance dictates when it can be left uncovered.
+  crop's [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] dictates when it can be left uncovered.
 
 ### Extraordinary Yield from Minimal Infrastructure
 

@@ -6,7 +6,7 @@ type: concept
 
 # Terrace Construction and Earthworks
 
-Terraces are among the most important earth-shaping strategies in permaculture, transforming slopes into productive, stable agricultural land. They control erosion, enable irrigation, and create accessible growing surfaces on otherwise unusable terrain.
+Terraces are among the most important earth-shaping [[yield-theory-and-strategies-in-permaculture-design]], transforming slopes into productive, stable agricultural land. They control erosion, enable irrigation, and create accessible growing surfaces on otherwise unusable terrain.
 
 ## Common Mistakes in Terracing
 
@@ -66,7 +66,7 @@ Every terrace system should ideally be designed to accommodate **perennial bund 
 ## Overview
 
 Terrace Construction Earthworks represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -116,7 +116,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 terrace construction earthworks and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

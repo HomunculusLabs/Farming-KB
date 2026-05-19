@@ -1,5 +1,5 @@
 ---
-title: Pf Tek Inoculation Without Lids And Alcohol Flaming
+title: Pf Tek Inoculation Without Lids [[inoculation-technique-and-alcohol-flaming]]
 created: 2026-04-28
 tags:
   - pf-tek
@@ -93,7 +93,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Pf Tek Inoculation Without Lids And Alcohol Flaming finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 pf tek inoculation without lids and alcohol flaming and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

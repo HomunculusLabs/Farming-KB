@@ -6,7 +6,7 @@ type: concept
 
 # Vegetable Domestication and Gardening Basics
 
-Understanding what a vegetable actually is — and how it differs from its wild ancestors — is fundamental to successful gardening. Steve Solomon's *Gardening When It Counts* begins with these basics because few modern people have grown up on farms, and new vegetable gardeners must catch up on fundamental knowledge that was once common.
+Understanding what a vegetable actually is — and how it differs from its wild ancestors — is fundamental to successful gardening. Steve Solomon's *[[gardening-when-it-counts]]* begins with these basics because few modern people have grown up on farms, and new vegetable gardeners must catch up on fundamental knowledge that was once common.
 
 ## What Is a Vegetable?
 
@@ -55,7 +55,7 @@ Solomon classifies vegetables by their soil fertility demands:
 
 - **Low-demand vegetables**: Carrots, parsnips, beans, peas — these grow to their maximum potential with basic soil fertility.
 - **Medium-demand vegetables**: Most common garden vegetables fall in this category and need moderate fertilization.
-- **High-demand vegetables**: Celery, cauliflower, and other demanding crops require extremely high levels of specific soil nutrients. These are best grown using concentrated organic fertilizer blends in dedicated beds.
+- **High-demand vegetables**: Celery, cauliflower, and other demanding crops require extremely high levels of specific soil nutrients. These are best grown using [[hamilton-concentrated-organic-fertilizer-products]] blends in dedicated beds.
 
 ## The Solomon Seed Company Experience
 
@@ -97,7 +97,7 @@ Adaptation to local conditions and careful observation remain central to effecti
 Field trials provide essential data for validating theoretical approaches and refining methodologies.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

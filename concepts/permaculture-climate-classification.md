@@ -15,13 +15,13 @@ sources:
 
 # Permaculture Climate Classification
 
-Chapter 5 of the Designers' Manual covers climatic factors, providing the framework for all subsequent climate-specific design chapters. Understanding climate zones is the first step in permaculture design, as plants, techniques, and strategies do not split neatly into climatic areas but overlap significantly.
+Chapter 5 of the Designers' Manual covers [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]], providing the framework for all subsequent climate-specific design chapters. Understanding climate zones is the first step in permaculture design, as plants, techniques, and strategies do not split neatly into climatic areas but overlap significantly.
 
 ## Classification of Broad Climatic Zones
 
 The Manual uses the Trewartha (1954) classification system as its primary framework, while acknowledging Koppen and other systems. The broad climatic zones addressed include:
 
-- **Humid tropics** (wet tropics, wet-dry tropics): River basins and wet coasts from latitudes 0-25 degrees. Temperature fluctuates little (21-32C), humidity constantly high, frost unknown, rainfall 152-328 cm. Major areas: Amazon, Congo basins, Central America, Sri Lanka, Malaya, Borneo, New Guinea.
+- **Humid tropics** (wet tropics, wet-dry tropics): River basins and wet coasts from latitudes 0-25 degrees. Temperature fluctuates little (21-32C), humidity constantly high, frost unknown, rainfall 152-328 cm. Major areas: Amazon, Congo basins, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], Sri Lanka, Malaya, Borneo, New Guinea.
 
 - **Dry tropics and subtropics**: Areas with seasonal drought, including savannah, desert, and semi-arid regions.
 
@@ -35,7 +35,7 @@ The Manual uses the Trewartha (1954) classification system as its primary framew
 
 ### Patterning in Global Weather Systems
 
-The engines of the atmosphere -- solar radiation, earth rotation, and the distribution of land and water masses -- create the global weather patterns that determine local climate. Understanding these large-scale patterns helps designers work with rather than against climatic forces.
+The engines of the atmosphere -- solar radiation, earth rotation, and the distribution of land and water masses -- create the [[climatic-zones-and-global-weather-patterns]] that determine local climate. Understanding these large-scale patterns helps designers work with rather than against climatic forces.
 
 ### Precipitation
 

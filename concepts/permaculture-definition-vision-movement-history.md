@@ -1,5 +1,5 @@
 ---
-title: Permaculture Definition Vision and Movement History
+title: [[permaculture-definition-and-philosophy]] Vision and Movement History
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
@@ -90,7 +90,7 @@ The perception of permaculture as countercultural lifestyle has provided a wholi
 
 ### Positive Reactions
 
-- "Permaculture provides a valuable conceptual framework for future thought on sane, sustainable societies" — Earle Barnhart, [[new-alchemy-institute]]
+- "Permaculture provides a valuable [[holmgren-permaculture-flower-conceptual-framework]] for future thought on sane, sustainable societies" — Earle Barnhart, [[new-alchemy-institute]]
 - University courses incorporating permaculture, including a postgraduate sustainable agriculture unit at UNE Orange (1992)
 - Academic study from sociological, political, educational, ecological, and agricultural perspectives
 
@@ -103,7 +103,7 @@ The perception of permaculture as countercultural lifestyle has provided a wholi
 
 ### Stuart Hill's Contribution
 
-Stuart Hill's "Deep Sustainability" perspective reinforces personal and bottom-up strategies for change. His analysis is primarily psychosocial rather than just political — requiring recognition of personal responsibility and self-change before pointing fingers at others.
+Stuart Hill's "Deep Sustainability" perspective reinforces personal and bottom-up strategies for change. His analysis is primarily psychosocial rather than just political — requiring recognition of [[permaculture-self-regulation-energy-hierarchy-personal-responsibility]] and self-change before pointing fingers at others.
 
 ## Permaculture vs. Green Tech Optimism
 

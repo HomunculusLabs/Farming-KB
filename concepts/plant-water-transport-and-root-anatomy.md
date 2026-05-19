@@ -6,7 +6,7 @@ type: concept
 
 # Plant Water Transport and Root Anatomy
 
-Plants depend on a sophisticated internal transport system to move water, nutrients, and sugars between their organs. Two vascular tissues—[[xylem]] and [[phloem]]—serve as the plant's circulatory system, while dermal tissue, [[root-hairs]], leaves, and specialized root structures all play critical roles in supporting plant life.
+Plants depend on a sophisticated internal transport system to move water, nutrients, and sugars between their organs. Two [[water-transport-vascular-tissues-plants]]—[[xylem]] and [[phloem]]—serve as the plant's circulatory system, while dermal tissue, [[root-hairs]], leaves, and specialized root structures all play critical roles in supporting plant life.
 
 ## Water Movement Through the Xylem
 
@@ -90,7 +90,7 @@ At night, when stomata are closed and soil water is abundant relative to root ce
 
 ## Root Anatomy
 
-Roots anchor the plant and absorb water and nutrients. While root forms vary widely—from fibrous surface roots designed for rapid water capture to deep taproots—most garden plant roots share common structural features.
+Roots anchor the plant and absorb water and nutrients. While root forms vary widely—from fibrous surface roots designed for rapid water capture to deep taproots—most garden plant roots share common [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]].
 
 ### Root Tip and Meristem
 
@@ -102,7 +102,7 @@ Root cap cells contain **statoliths**—dense, heavy organelles that settle to t
 
 ### Mucilage and the Rhizosphere
 
-Root cap cells produce **mucilage**, a lubricating substance that eases soil penetration and improves root-soil contact. Outer root tip cells are continuously sloughed off and replaced by new meristematic cells. These discarded cells, combined with [[root-exudates]] (primarily sugars and amino acids), attract beneficial microbes to the **rhizosphere**—the narrow zone of soil directly influenced by root activity. The microbial community in the rhizosphere digests sloughed-off cellular material and produces waste products containing essential plant nutrients, closing a vital nutrient-recycling loop.
+Root cap cells produce **mucilage**, a lubricating substance that eases soil penetration and improves root-soil contact. Outer root tip cells are continuously sloughed off and replaced by new meristematic cells. These discarded cells, combined with [[root-exudates]] (primarily sugars and amino acids), attract beneficial microbes to the **rhizosphere**—the narrow zone of soil directly influenced by root activity. The microbial community in the rhizosphere digests sloughed-off cellular material and produces waste products containing [[teaming-with-nutrients-essential-plant-nutrients]], closing a vital nutrient-recycling loop.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

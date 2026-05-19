@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Blueberries are long-lived perennial shrubs that produce delicious, antioxidant-rich fruit for decades when properly established. Their primary requirement — acidic soil — makes them unique among common garden fruits. With proper site preparation and variety selection, blueberries are reliable and productive in home gardens across most temperate regions.
+Blueberries are long-lived perennial shrubs that produce delicious, antioxidant-rich fruit for decades when properly established. Their primary requirement — acidic soil — makes them unique among common garden fruits. With proper site preparation [[seed-saving-and-variety-selection]], blueberries are reliable and productive in home gardens across most [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 ## Soil Acidification
 
@@ -61,7 +61,7 @@ Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critica
 - Fall planting works in mild climates where roots can establish before freezing
 
 ### Site Selection
-- Full sun (6-8+ hours) for maximum fruit production
+- Full sun (6-8+ hours) [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]
 - Afternoon shade beneficial in very hot climates (zone 8+)
 - Good air circulation to reduce disease
 - Avoid frost pockets (low-lying areas where cold air settles)

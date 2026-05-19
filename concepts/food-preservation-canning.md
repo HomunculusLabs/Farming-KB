@@ -9,7 +9,7 @@ sources: []
 
 # Food Preservation and Canning
 
-Food preservation is the practice of treating and storing food so it remains safe and nutritious long after harvest. For homesteaders and gardeners, preservation transforms seasonal abundance into year-round food security. Methods include water bath canning, pressure canning, fermentation, drying, freezing, and root cellaring. Each method is suited to different types of food and has specific safety requirements.
+Food preservation is the practice of treating and storing food so it remains safe and nutritious long after harvest. For homesteaders and gardeners, preservation transforms seasonal abundance into year-round food security. Methods include water bath canning, [[pressure-canning-food-preservation]], fermentation, drying, freezing, and root cellaring. Each method is suited to different types of food and has specific safety requirements.
 
 ## Water Bath Canning
 
@@ -34,7 +34,7 @@ Water bath canning (boiling water canning) processes jars of high-acid foods in 
 ### Process
 
 1. **Prepare jars**: Wash jars in hot, soapy water. Keep hot until ready to fill (in simmering water or the dishwasher).
-2. **Prepare food**: Follow a tested recipe from a reliable source (USDA, Ball Blue Book, NCHFP). Do not improvise with canning recipes — safety depends on specific acid levels, processing times, and ingredient ratios.
+2. **Prepare food**: Follow a tested recipe from a reliable source (USDA, Ball Blue Book, NCHFP). Do not improvise with [[homestead-canning-recipes]] — safety depends on specific acid levels, processing times, and ingredient ratios.
 3. **Fill jars**: Pack food into hot jars. Leave the recommended headspace (space between food and jar lid) — typically 1/4 to 1/2 inch depending on the recipe.
 4. **Remove air bubbles**: Run a non-metallic spatula or bubble remover around the inside of the jar to release trapped air.
 5. **Clean rims**: Wipe jar rims with a clean, damp cloth. Any food on the rim prevents a proper seal.
@@ -101,7 +101,7 @@ Uses lactic acid bacteria (LAB) to produce acid, which preserves the food.
 Removing moisture from food to levels that prevent microbial growth (typically below 10-15% moisture).
 
 ### Methods
-- **Electric dehydrator**: Most consistent and reliable. Temperature control. Recommended for beginners.
+- **[[comparison-solar-dehydrator-vs-electric-dehydrator]]**: Most consistent and reliable. Temperature control. Recommended for beginners.
 - **Oven drying**: Possible but less efficient. Set to the lowest temperature (140-170°F). Prop the door open slightly for airflow.
 - **Air/sun drying**: Traditional method. Works for herbs, peppers, tomatoes. Requires consistent warm, dry weather.
 

@@ -1,5 +1,5 @@
 ---
-title: "singh distillery wastewater fungal treatment singh-biopile-fungal-treatment-contaminated-soil"
+title: "singh distillery [[dairy-wastewater-fungal-treatment]] singh-biopile-fungal-treatment-contaminated-soil"
 created: 2026-04-26
 tags:
   - distillery-wastewater
@@ -27,7 +27,7 @@ sugars and amino acids during high-temperature distillation processes.
 
 ## Characteristics of Distillery Wastewater
 
-Distillery spent wash exhibits extreme physicochemical properties:
+Distillery spent wash exhibits extreme [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]]:
 - **Dark brown to black color**: Due to melanoidin pigments with
   molecular weights ranging from 5 to 100+ kDa
 - **High chemical oxygen demand (COD)**: 80,000-120,000 mg/L,
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Singh Distillery Wastewater Fungal Treatment finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -26,7 +26,7 @@ The Haze Brothers worked through multiple generations of crossing and selection:
 - **Backcrossing and selection**: Over several years, they repeatedly selected the most desirable individuals and crossed them back to the parent lines or to each other, gradually stabilizing the combination of traits.
 - **Stabilization**: By the early 1970s, they had produced a reasonably stable line that combined Colombian vigor, Thai potency and aroma, and a flowering time of 10–14 weeks.
 
-The total breeding effort spanned approximately 5–7 years, an unusually long commitment for cannabis breeding at the time.
+The total breeding effort spanned approximately 5–7 years, an unusually long commitment for [[advanced-cannabis-breeding-ibl-strains-hash-making]] at the time.
 
 ## Characteristics of the Original Haze
 
@@ -107,13 +107,13 @@ Haze has been used as a parent in hundreds of crosses. Its genetic contribution 
 Haze strains present specific challenges for indoor cultivation:
 
 - **Height management**: Essential techniques include SCROG (Screen of Green), LST ([[fukuoka-natural-farming-tropical-climates]] with long growing seasons. [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] in early spring and transplant after last frost.
-- **Finishing**: May not finish before frost in climates north of 40° latitude without greenhouse protection.
+- **Finishing**: May not finish before frost in climates north of 40° latitude without [[double-layer-greenhouse-protection]].
 - **Support**: The tall, branchy structure requires staking or trellising, especially when heavy with resin-laden buds.
 
 ## See Also
 
 - [[cannabis-sativa-taxonomy-botanical-classification]] — Sativa classification framework
-- cannabis landrace preservation — Original genetics behind Haze's parents
+- [[cannabis-landrace-preservation]] — Original genetics behind Haze's parents
 - [[terpene-profiles-in-sativa-strains]] — Aroma chemistry of Haze-type strains
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.

@@ -12,7 +12,7 @@ This index covers plants from the letter I through M as catalogued in *Permacult
 
 ### Inga and Legume Trees
 - **[[inga-edulis]]** (Ice cream bean) — pages 28, 136. Amazonian nitrogen-fixing tree with sweet edible pulp. Widely used in agroforestry for shade and soil improvement.
-- **Inga spp.** — page 28. Diverse genus of neotropical legume trees forming the backbone of traditional shade-grown coffee and cacao systems.
+- **Inga spp.** — page 28. Diverse genus of neotropical legume trees forming the backbone of traditional shade-grown [[mollison-designers-shade-grown-coffee-and-cacao-systems]].
 
 ### Ivies and Climbers
 - **Ivy** (*[[hedera-helix]]*) — pages 114, 117. Evergreen woody climber for walls, ground cover, and wildlife habitat. Provides year-round shelter for insects and birds.
@@ -36,7 +36,7 @@ This index covers plants from the letter I through M as catalogued in *Permacult
 - **Jellies** — pages 59, 61, 62, 65, 66, 68, 69, 74, 75, 76, 77, 106, 108, 131, 133, 137. Fruit jellies from quince, crabapple, guava, feijoa, and other high-pectin fruits.
 
 ### Jojoba
-- **Jojoba** (*Simmondsia chinensis*) — page 45. Desert shrub producing liquid wax esters used in cosmetics, lubricants, and pharmaceuticals. Extremely drought tolerant; important dryland crop.
+- **Jojoba** (*[[simmondsia-chinensis]]*) — page 45. Desert shrub producing liquid wax esters used in cosmetics, lubricants, and pharmaceuticals. Extremely drought tolerant; important dryland crop.
 
 ### Juglans (Walnuts)
 - **Juglans australis** (Argentine walnut) — page 32. South American walnut species.
@@ -92,7 +92,7 @@ This index covers plants from the letter I through M as catalogued in *Permacult
 - **Melaleuca stypheloides** (Prickly paperbark) — page 129. Riverine species with distinctive papery bark.
 
 ### Moringa
-- **Moringa oleifera** (Horseradish tree) — page 90. Multi-purpose tropical tree: leaves are 25% protein with all essential amino acids; pods edible as vegetables; seeds purify water; drought tolerant; fast growing. Called the "miracle tree" for its nutritional density.
+- **[[comparison-moringa-oleifera-vs-moringa-stenopetala]]** (Horseradish tree) — page 90. Multi-purpose tropical tree: leaves are 25% protein with all essential amino acids; pods edible as vegetables; seeds purify water; drought tolerant; fast growing. Called the "miracle tree" for its nutritional density.
 
 ### Mulberry
 - **Mulberry** (*Morus* spp.) — pages 59, 118. Deciduous fruit trees producing sweet berries; essential food source for silkworms.

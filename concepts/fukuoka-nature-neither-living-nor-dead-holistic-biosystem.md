@@ -1,5 +1,5 @@
 ---
-source: "The Natural Way of Farming - masanobu-fukuoka"
+source: "The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] - masanobu-fukuoka"
 source_file: administrator-microsoft-word-fukuoka-textdoc.md
 extracted: 2026-04-10
 type: concept
@@ -66,7 +66,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
@@ -106,7 +106,7 @@ Understanding environmental feedback mechanisms and system boundaries helps pred
 Flexible management approaches that incorporate monitoring feedback and enable course correction prove more resilient than rigid plans in dynamic environments.
 ## Resource Efficiency
 
-Optimizing resource utilization reduces waste, lowers costs, and minimizes environmental impact. Circular economy principles transform waste streams into valuable inputs.
+Optimizing resource utilization reduces waste, lowers costs, and minimizes environmental impact. [[zeri-circular-economy-systems]] principles transform waste streams into valuable inputs.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

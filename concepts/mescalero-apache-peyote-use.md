@@ -1,5 +1,5 @@
 ---
-title: "Mescalero mescalero apache peyote use Use and Rejection"
+title: "Mescalero [[mescalero-apache-peyote-prohibition]] use Use and Rejection"
 created: "2026-04-16"
 updated: "2026-04-16"
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Mescalero Apache Peyote Use and Rejection
 
-The Mescalero, Chiricahua, and Lipan Apache tribes of the Mescalero Indian Reservation in New Mexico present an unusual case in the ethnographic literature: they adopted the hallucinogenic peyote cactus (Lophophora williamsii) for use in shamanistic ceremonies around 1870, but subsequently abandoned and proscribed its use after approximately forty years. This case was documented by L. Bryce Boyer, Ruth M. Boyer, and Harry W. Basehart in [[peyote-ceremony-guide]]
+The Mescalero, Chiricahua, and Lipan Apache tribes of the [[mescalero-indian-reservation]] in New Mexico present an unusual case in the ethnographic literature: they adopted the hallucinogenic peyote cactus (Lophophora williamsii) for use in shamanistic ceremonies around 1870, but subsequently abandoned and proscribed its use after approximately forty years. This case was documented by L. Bryce Boyer, Ruth M. Boyer, and Harry W. Basehart in [[peyote-ceremony-guide]]
 [[entheogen-culture]]
 
 ## Historical Context
@@ -24,7 +24,7 @@ The Mescalero's conceptualization of peyote as intrinsically evil — a unique c
 
 ## References and Further Reading
 
-Boyer, L. B., Boyer, R. M., & Basehart, H. W. (1973). "Hallucinogenic Plants Used in Ritual Context by the Chiricahua Apache." In M. J. Harner (Ed.), Hallucinogens and Shamanism. Oxford University Press.
+Boyer, L. B., Boyer, R. M., & Basehart, H. W. (1973). "Hallucinogenic Plants Used in Ritual Context by the Chiricahua Apache." In M. J. Harner (Ed.), [[hallucinogens-and-shamanism]]. Oxford University Press.
 
 La Barre, W. (1975). The Peyote Cult (4th ed.). Shoe String Press.
 

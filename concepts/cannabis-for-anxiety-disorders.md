@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis for Anxiety Disorders
 
-The relationship between cannabis and anxiety is complex and dose-dependent. Low doses of THC and CBD can reduce anxiety, while high doses of THC can paradoxically increase it. This biphasic response is one of the most important concepts in therapeutic cannabis use.
+The relationship between [[cannabis-and-anxiety-research]] is complex and dose-dependent. Low doses of THC and CBD can reduce anxiety, while high doses of THC can paradoxically increase it. This biphasic response is one of the most important concepts in therapeutic cannabis use.
 
 ## The Dosing Paradox
 
@@ -64,7 +64,7 @@ The relationship between cannabis and anxiety is complex and dose-dependent. Low
 ## Contraindications
 - Personal or family history of psychosis
 - Current use of benzodiazepines (additive CNS depression)
-- Bipolar disorder (THC may trigger manic episodes)
+- [[blesching-cannabis-bipolar-disorder]] (THC may trigger manic episodes)
 
 ## Related
 - [[cannabis-therapeutic-index-overview]] — for evidence framework
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Cannabis For Anxiety Disorders finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -30,11 +30,11 @@ The Romans held edible fungi in high esteem, developing a sophisticated culture 
 
 The word "fungus" has a Latin origin, commonly derived from **funus** (death, corpse, funeral) and **ago** (I make, I perform) — literally "that which makes death" or "that which produces a corpse." This etymology reflects the deep ancient association between fungi and mortality. The English naturalist **John Ray** commented on this derivation, noting how aptly the name captured the dangers posed by many species.
 
-Alternative etymologies have been proposed — some scholars connect it to the Greek *sphongos* (sponge), referring to the porous texture of certain bracket fungi — but the funus derivation has historically been the most influential. While modern etymologists sometimes dispute the exact derivation, the traditional interpretation has strongly influenced cultural attitudes toward fungi across centuries.
+Alternative etymologies have been proposed — some scholars connect it to the Greek *sphongos* (sponge), referring to the porous texture of certain bracket fungi — but the funus derivation has historically been the most influential. While modern etymologists sometimes dispute the exact derivation, the traditional interpretation has strongly influenced [[weil-cultural-attitudes-toward-altered-states]] fungi across centuries.
 
 ## The Edible/Poisonous Division in Taxonomy
 
-For most of the history of mycology, the primary framework for classifying fleshy fungi was the binary division into **edible** and **poisonous** species. This practical, if crude, categorisation dominated fungal taxonomy until relatively recently. Early mycological texts were essentially field guides organised around this division, with species described primarily in terms of whether they were fit for the table.
+For most of the [[bloomfield-history-of-mycology-pioneers]], the primary framework for classifying fleshy fungi was the binary division into **edible** and **poisonous** species. This practical, if crude, categorisation dominated fungal taxonomy until relatively recently. Early mycological texts were essentially field guides organised around this division, with species described primarily in terms of whether they were fit for the table.
 
 This approach had a distorting effect on fungal classification. Species that shared no close evolutionary relationship were grouped together simply because both happened to be edible, while closely related species might be placed in separate categories based on minor differences in toxicity. Only with the advent of modern systematic mycology — based on microscopic anatomy, spore characteristics, and biochemical analysis — did this edible/poisonous framework give way to a natural classification based on evolutionary relationships.
 
@@ -64,7 +64,7 @@ An important but often overlooked aspect of fungal toxicity is **individual susc
 Not all adverse reactions to fungi result from true toxicity. Some species are simply **indigestible**, causing gastrointestinal distress without involving specific toxins. Notable examples include:
 
 - **Psalliota xanthoderma** — Causes nausea and vomiting in many consumers, though not through a distinct toxic mechanism.
-- **Entoloma lividum** — A strikingly coloured species that is notoriously indigestible, causing severe gastric upset.
+- **[[entoloma-lividum]]** — A strikingly coloured species that is notoriously indigestible, causing severe gastric upset.
 
 The distinction between poisoning proper and mere indigestibility is medically significant, as the symptoms may overlap but the underlying mechanisms and prognoses differ.
 

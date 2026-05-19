@@ -48,7 +48,7 @@ To overcome the limitations of coppicing, Mollison recommends integrating **non-
 | **Erythrina** (*Erythrina* spp.) | Deciduous legume; drops nitrogen-rich leaves seasonally |
 | **Tipuana tipu** (*Tipuana tipu*) | Large canopy, excellent shade, self-mulching leaf drop |
 
-These species are allowed to grow to full size, providing overhead shade and depositing leaf litter naturally without the stress of repeated cutting. Their root systems improve soil structure and fix nitrogen over a longer lifespan than coppiced trees.
+These species are allowed to grow to full size, providing overhead shade and depositing leaf litter naturally without the stress of repeated cutting. Their root systems [[query-how-do-fungi-improve-soil-structure]] and fix nitrogen over a longer lifespan than coppiced trees.
 
 ### Non-Legume Ground Mulch Species
 
@@ -57,7 +57,7 @@ Ground-level mulch plants supplement the leaf fall from tall legumes:
 | Species | Role |
 |---------|------|
 | **Vetiver** (*Vetiveria zizanioides*) | Dense clumping grass; erosion control, mulch, essential oil |
-| **Lemongrass** (*Cymbopogon citratus*) | Aromatic grass barrier, mulch source, pest deterrent |
+| **Lemongrass** (*[[cymbopogon-citratus]]*) | Aromatic grass barrier, mulch source, pest deterrent |
 | **Comfrey** (*Symphytum* spp.) | Deep taproot, dynamic accumulator, prolific leaf production |
 | **Pennisetum** (*Pennisetum* spp.) | Fast-growing grass for bulk mulch |
 | **Nicotiana** (*Nicotiana* spp.) | Leaf mulch, insect deterrent (nicotine) |
@@ -123,7 +123,7 @@ This integrated approach creates self-maintaining, productive landscapes that re
 - Non-coppiced tall legumes (Erythrina, Tipuana) offer a lower-maintenance alternative through natural leaf drop.
 - Barrier plants serve multiple functions simultaneously—protection, production, and soil conservation.
 - Living fences (bomas) provide durable animal exclusion without the cost and maintenance of conventional fencing.
-- Windbreaks and erosion control barriers are essential elements of site design, especially on sloping land.
+- Windbreaks [[saltpans-gilgais-and-erosion-control]] barriers are essential elements of site design, especially on sloping land.
 
 ## See Also
 

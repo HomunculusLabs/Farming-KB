@@ -32,9 +32,9 @@ New ponds need careful assessment for evaporation rates, seepage potential, wate
 
 Very small garden ponds of 2–60 cm depth can be made from old baths, stock watering tanks, or plastic-lined holes with protective clay or earth covers. Pre-cast ponds in plastic, fibreglass, and concrete are sold commercially.
 
-In shallow ponds, productive species include Chinese water chestnut (Eleocharis dulcis), kangkong (Ipomoea aquatica), watercress (Rorippa aquatica), taro (Colocasia esculentus) — a square metre yields 20–30 kg of starchy food — frogs (excellent garden predators), and small fish as forage stocks.
+In shallow ponds, productive species include [[chinese-water-chestnut-mollison]] (Eleocharis dulcis), kangkong ([[ipomoea-aquatica]]), watercress (Rorippa aquatica), taro (Colocasia esculentus) — a square metre yields 20–30 kg of starchy food — frogs (excellent garden predators), and small fish as forage stocks.
 
-At approximately 10 square metres and 2 m deep, clear fibreglass or Kalwall® ponds (as used at the New Alchemy Institute) produce fish and products valued at $4.50 to $17 per square foot (1984), amortizing costs in 3–5 years. They yield fish, shrimp, and enriched water for semi-hydroponic crops, while providing useful heat storage for night and winter heating.
+At approximately 10 square metres and 2 m deep, clear fibreglass or Kalwall® ponds (as used at the [[new-alchemy-institute]]) produce fish and products valued at $4.50 to $17 per square foot (1984), amortizing costs in 3–5 years. They yield fish, shrimp, and enriched water for semi-hydroponic crops, while providing useful heat storage for night and winter heating.
 
 ### Ponds from 10–100 Square Metres
 

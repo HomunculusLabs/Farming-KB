@@ -1,12 +1,12 @@
 ---
-title: Time Stacking and Successional Design
+title: [[permaculture-time-stacking-and-succession]] Successional Design
 source: bill-mollison-permaculture-design-course.md, Chunk 23, Lines 4601-4800
 type: concept
 ---
 
 # Time Stacking and Successional Design
 
-Time stacking and successional design are core permaculture strategies that maximize
+Time stacking and successional design are core [[dryland-permaculture-strategies]] that maximize
 yield by overlapping crops in time and space, mimicking natural [[ecological-succession]]
 rather than relying on single-crop monocultures. These principles transform agriculture
 from a linear, seasonal process into a continuous, multi-layered system where one crop
@@ -142,7 +142,7 @@ one the caretaker can maintain with joy indefinitely.
 ## What a Permaculture Design Covers
 
 A complete permaculture design integrates all these elements—vertical and lateral
-stacking, time stacking, succession, cultural patterns, and pleasure-based labor
+stacking, time stacking, succession, [[harner-cross-cultural-patterns-shamanic-plant-use]], and pleasure-based labor
 systems—into a coherent plan. It specifies what goes where, when, and in what
 sequence, ensuring every element serves multiple functions and every function is
 supported by multiple elements.

@@ -25,7 +25,7 @@ Practical cultivation methods from *Mycelium Running* by [[paul-stamets]]. Cover
 - Take a piece of internal flesh from a fresh mushroom
 - Place on sterilized agar media in a petri dish
 - Captures the exact genetic composition of the parent mushroom
-- Requires sterile technique and a clean workspace
+- Requires [[cultivator-sterile-technique-and-agar-culture]] a clean workspace
 - Best for: replicating exceptional specimens, commercial production
 
 ### From Stem Butts
@@ -93,13 +93,13 @@ Layered construction for filtering water (see [[mycoremediation-techniques]]):
 | Stropharia rugoso-annulata | Wood chips, straw | 60-80°F | 2-6 months | Garden giant; loves bacteria |
 | Pleurotus ostreatus | Straw, corncobs, paper | 55-80°F | 2-4 weeks | Very aggressive; multiple flushes |
 | Lentinula edodes (Shiitake) | Hardwood logs, sawdust | 55-75°F | 6-18 months | Needs cold shock to fruit |
-| Grifola frondosa (Maitake) | Oak logs, buried wood | 55-70°F | 6-12 months | Difficult to cultivate |
+| [[grifola-frondosa]] (Maitake) | Oak logs, buried wood | 55-70°F | 6-12 months | Difficult to cultivate |
 | Ganoderma lucidum (Reishi) | Hardwood, supplemented sawdust | 70-85°F | 2-4 months | Medicinal; antiviral, anticancer |
 | Trametes versicolor (Turkey tail) | Wood chips, logs | 60-80°F | 2-6 months | Medicinal; PSK/PSP anticancer |
 
 ## Sterile Technique Essentials
 
-For tissue cloning and grain spawn production:
+For tissue cloning and [[cotter-grain-spawn-production]]:
 - Work in a still-air box or laminar flow hood
 - Flame-sterilize tools between transfers
 - Use 70% isopropyl alcohol for surface sterilization

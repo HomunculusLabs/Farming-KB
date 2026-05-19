@@ -31,10 +31,10 @@ Wheat is the most widely grown cereal crop globally and a cool-season annual gra
 Cacao is an understory tropical tree that produces the beans from which chocolate and cocoa products are derived. It naturally grows beneath taller canopy trees, making it ideal for agroforestry systems and food forest designs. Cacao requires consistent moisture, good drainage, and partial shade — conditions that mature food forests naturally provide.
 
 ### Grape (*Vitis vinifera*)
-The common grape vine is a deciduous climbing plant that produces fruit for fresh eating, drying (raisins), and winemaking. In permaculture systems, grapes can be trained along pergolas, fences, and building facades, providing both food production and passive cooling through summer shade. Their deep root systems help break up subsoil layers.
+The common grape vine is a deciduous climbing plant that produces fruit for fresh eating, drying (raisins), and winemaking. In permaculture systems, grapes can be trained along pergolas, fences, and building facades, providing both food production [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]] through summer shade. Their deep root systems help break up subsoil layers.
 
 ### Mung Bean (*Vigna radiata*)
-Mung beans are fast-growing warm-season legumes that produce edible seeds and sprouts. As nitrogen fixers, they improve soil fertility while providing a high-protein food crop. Their short growing season makes them excellent for catch cropping and filling gaps in seasonal planting schedules.
+Mung beans are fast-growing warm-season legumes that produce edible seeds and sprouts. As nitrogen fixers, they [[query-how-does-rock-dust-improve-soil-fertility]] while providing a high-protein food crop. Their short growing season makes them excellent for catch cropping and filling gaps in seasonal planting schedules.
 
 ### Cowpea (*Vigna sinensis*)
 Also known as black-eyed pea, cowpeas are drought-tolerant legumes that thrive in hot conditions. They serve dual purposes as food crops and [[green-manure-cover-crops]], producing edible pods and seeds while fixing atmospheric nitrogen. They are particularly valuable in tropical and subtropical systems for soil improvement between main crops.
@@ -79,7 +79,7 @@ Thyme is a low-growing Mediterranean herb that serves multiple functions in perm
 Often dismissed as a weed, dandelion is one of the most useful plants in permaculture. Its deep taproot breaks up compacted soils and mines minerals from deep subsoil layers, bringing them to the surface where they become available to other plants. All parts are edible — leaves for salads, flowers for wine and fritters, roots for coffee substitute and medicine. It is also an early nectar source for bees and other pollinators.
 
 ### Nettle (*Urtica dioica*)
-Stinging nettle is a nutrient-dense perennial that indicates rich soil and serves many functions. It is one of the best dynamic accumulator plants, concentrating nitrogen, iron, calcium, and other minerals in its leaves. Nettle tea is an excellent liquid fertilizer, and the plant supports over 40 species of insect, including many beneficial predatory species. Young leaves are edible when cooked and are among the most nutritious wild greens available.
+Stinging nettle is a nutrient-dense perennial that indicates rich soil and serves many functions. It is one of the best [[dynamic-accumulator-plants-calcium-and-magnesium]], concentrating nitrogen, iron, calcium, and other minerals in its leaves. Nettle tea is an excellent liquid fertilizer, and the plant supports over 40 species of insect, including many beneficial predatory species. Young leaves are edible when cooked and are among the most nutritious wild greens available.
 
 ### Ginger (*Zingiber officinale*)
 Ginger is a tropical rhizomatous herb prized for its culinary and medicinal rhizomes. In permaculture food forests, ginger thrives in the understory layer beneath taller canopy species, requiring partial shade, consistent moisture, and rich, well-drained soil. It is an excellent high-value crop for diversified tropical food production systems.

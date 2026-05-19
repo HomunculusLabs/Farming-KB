@@ -7,14 +7,14 @@ created: 2026-05-11
 # Amatoxins and Phallotoxins: Mechanism of Action and Distribution
 
 Amatoxins and phallotoxins are two families of cyclic peptide toxins produced primarily by
-species in the genus Amanita, notably A. phalloides (the death cap), A. virosa (the destroying
+species in the genus Amanita, notably A. phalloides ([[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]), A. virosa (the destroying
 angel), A. verna (the fool's mushroom), and several Galerina and Lepiota species. These toxins
 are responsible for the vast majority of fatal mushroom poisonings worldwide, with mortality
 rates of 10-60% depending on the dose ingested and the speed of medical intervention. The
 death cap alone is estimated to cause more fatalities than all other [[enzymatic-degradation-in-mycoremediation]] — which is why cooking, drying, or
 freezing contaminated mushrooms does not neutralize the toxins.
 
-The individual amatoxins differ in the side chains of specific amino acid positions. Alpha-amanitin
+The individual amatoxins differ in the side chains of specific [[cho-fish-amino-acid-preparation]] positions. Alpha-amanitin
 and beta-amanitin are the most toxic, with alpha-amanitin having an LD50 in mice of approximately
 0.1 mg/kg body weight when administered intraperitoneally. The structural differences between
 amatoxins and the related phallotoxins are subtle but pharmacologically crucial: amatoxins
@@ -97,7 +97,7 @@ Careful observation and documentation support ongoing improvement.
 
 ## Research Developments
 
-Current research directions and emerging findings for amatoxins phallotoxins mechanism distribution. Understanding
+[[psychedelic-therapy-current-research]] directions and emerging findings for amatoxins phallotoxins mechanism distribution. Understanding
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 

@@ -71,7 +71,7 @@ More "formless" than DMT, intense ego dissolution, "white light"/void experience
 - Formula: C11H17NO3 | MW: 211.26 | 3,4,5-trimethoxyphenethylamine | Water-soluble HCl salt
 
 #### Natural Sources
-- **Lophophora williamsii** (peyote, 1-6% mescaline), **Echinopsis pachanoi** (San Pedro), **E. peruviana** (Peruvian torch), **E. lageniformis** (Bolivian torch)
+- **[[lophophora-williamsii]]** (peyote, 1-6% mescaline), **[[echinopsis-pachanoi]]** (San Pedro), **E. peruviana** (Peruvian torch), **E. lageniformis** (Bolivian torch)
 
 #### Pharmacology
 - **Receptors:** 5-HT2A (primary), 5-HT2C, alpha-1 adrenergic
@@ -89,7 +89,7 @@ Vivid color enhancement, emotional openness, moderate empathogenic qualities, lo
 - Formula: C12H17N2O4P | MW: 284.25 | Prodrug — dephosphorylated to psilocin (4-HO-DMT) in vivo
 
 #### Natural Sources
-- **Psilocybe cubensis**, **P. semilanceata**, **P. azurescens**, **P. cyanescens**, **P. mexicana**, **P. natalensis** — 200+ species worldwide
+- **[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]**, **P. semilanceata**, **P. azurescens**, **P. cyanescens**, **P. mexicana**, **P. natalensis** — 200+ species worldwide
 
 #### Pharmacology
 - **Receptors:** 5-HT2A (primary), 5-HT1A, 5-HT2C, 5-HT2B, 5-HT7

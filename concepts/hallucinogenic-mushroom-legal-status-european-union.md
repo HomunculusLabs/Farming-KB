@@ -30,7 +30,7 @@ any other manner' as a controlled substance.
 **Netherlands (November 2002):** The Dutch Opium Act was clarified through
 a Supreme Court ruling. The Act prohibits psilocin, psilocybin, and
 preparations containing these substances. The Supreme Court ruled that the
-Act applied to hallucinogenic mushrooms containing these substances that had
+Act applied [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] containing these substances that had
 been dried, mashed, or processed into food, but crucially not to fresh
 mushrooms. This ruling created the well-known legal distinction between
 fresh and dried mushrooms that persisted in the Netherlands for several
@@ -40,7 +40,7 @@ years.
 substance from 'plant' to 'organism' in order to clarify that mushrooms,
 which are fungi rather than plants, were included under existing drug
 control legislation. This amendment closed a legal loophole that could have
-been exploited based on the botanical classification of mushrooms.
+been exploited based on the [[cannabis-sativa-taxonomy-botanical-classification]] of mushrooms.
 
 **Estonia (May 2005):** Estonia clarified that cultivation of hallucinogenic
 mushrooms constitutes a criminal offence, addressing the growing and
@@ -104,7 +104,7 @@ three countries reported zero lifetime prevalence: Cyprus, Finland, and
 Romania. Lifetime use of hallucinogenic mushrooms was equal to or higher
 than lifetime use of ecstasy in nine countries.
 
-ESPAD data on perceived availability shows that the rates of 15 to 16 year
+ESPAD data on [[espad-perceived-availability-hallucinogenic-mushrooms-european-students-2003]] shows that the rates of 15 to 16 year
 old students who perceive hallucinogenic mushrooms as 'very' or 'fairly
 easy' to obtain range from 4% to 28%. Under 10% of students in Cyprus,
 Finland, Greece, Hungary, Latvia, Lithuania, Romania, and Turkey report

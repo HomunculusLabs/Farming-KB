@@ -28,7 +28,7 @@ The use of [[mckenna-mushroom-stones-of-guatemala]]"
 dating to
 approximately 1000 B.C., which are interpreted as ceremonial objects
 associated
-with a [[peyote-ceremony]]), and [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]" among the Mazatec of Huautla de Jimenez.
+with a [[peyote-ceremony]]), and [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]" among the Mazatec of [[huautla-de-jimenez]].
 Johnson's
 research was cut short by his death in World War II.
 
@@ -95,7 +95,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Teonanacatl History finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -124,7 +124,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 teonanacatl history and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

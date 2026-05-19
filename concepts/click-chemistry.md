@@ -88,13 +88,13 @@ Click handles in candidate drugs must be evaluated through ADME-style reasoning 
 - [[polyphenols-and-plant-defense-chemistry]]
 - [[chemistry-of-hallucinogenic-plants]]
 ## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+The principles discussed here have direct applications in agricultural systems, [[mycorrhizal-fungi-ecological-restoration]], and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 Field trials provide essential data for validating theoretical approaches and refining methodologies.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

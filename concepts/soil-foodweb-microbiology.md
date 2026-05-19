@@ -25,7 +25,7 @@ disturbed soils, and early-succession ecosystems. They excel at making nutrients
 available from fresh organic matter and are particularly important for brassicas,
 lettuce, and other leafy green vegetables that prefer bacterial-dominated soils.
 
-Bacterial biomass in healthy agricultural soil ranges from 100 to 1,000 micrograms per
+[[fungal-bacterial-biomass-ratio]] in healthy agricultural soil ranges from 100 to 1,000 micrograms per
 gram of soil. The ideal ratio of total bacterial to total fungal biomass depends on the
 crop: most vegetables prefer a ratio of roughly 10:1 ([[bacillus-subtilis]] (which produces antibiotics that suppress pathogenic fungi),
 and various species of Azotobacter and Rhizobium that fix atmospheric nitrogen. In
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Soil Foodweb Microbiology finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -123,7 +123,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 soil foodweb microbiology and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -77,7 +77,7 @@ Complex multicellular structures built from aggregated hyphae:
 | **Conidiomata** | Asexual spore production | Mixed |
 | **Sclerotia** | Survival and persistence | Pseudoparenchymatous |
 | **Rhizomorphs** | Long-distance water/nutrient transport | Prosenchymatous |
-| **[[mycelial-cords]]** | Transport and structural support | Prosenchymatous |
+| **[[mycelial-cords]]** | Transport and [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] | Prosenchymatous |
 
 *Neurospora crassa* alone has been described as producing **28 morphologically distinct cell types**, illustrating the developmental complexity achievable from a hyphal foundation.
 
@@ -114,7 +114,7 @@ The colony exhibits spatial organisation:
 
 - **Peripheral growth zone**: Active hyphal extension with open septal pores; hyphae avoid each other and do not fuse.
 - **Sub-peripheral zone**: Hyphal fusion (anastomosis) occurs; branches home towards each other and fuse, creating the interconnected network.
-- **Colony interior**: Older hyphae with occluded septal pores; reduced metabolic activity; may be partially autolysed.
+- **Colony interior**: Older hyphae with occluded septal pores; reduced [[arbuscule-isolation-metabolic-activity-assays]]; may be partially autolysed.
 
 ## Multicellular Development: A Fungal Model
 
@@ -146,4 +146,4 @@ Understanding fungal multicellularity has practical implications:
 
 - [[environmental-sensing-signal-transduction-filamentous-fungi]] — How signals regulate hyphal development
 - [[fungal-network-resilience-evolution]] — Network-level organisation of mycelial colonies
-- [[woronin-bodies-septal-pore-ascomycetes]] — Septal pore sealing for cellular autonomy
+- [[woronin-bodies-septal-pore-ascomycetes]] — [[jedd-woronin-bodies-hex1-septal-pore-sealing]] for cellular autonomy

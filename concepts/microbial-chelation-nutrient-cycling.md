@@ -11,7 +11,7 @@ created: 2026-05-08
 Soil microorganisms are the primary drivers of nutrient cycling in
 terrestrial ecosystems. Through processes of decomposition,
 mineralization, immobilization, and chelation, soil biology converts
-organic and mineral nutrients into forms that plants can absorb.
+organic [[soil-phosphorus-and-mineral-nutrients]] into forms that plants can absorb.
 Understanding these biological processes is essential for building
 truly sustainable soil management practices.
 
@@ -50,7 +50,7 @@ nutrient cycling releases nutrients gradually in direct response to
 plant demand signals.
 
 Plant roots exude specific chemical compounds to recruit beneficial
-organisms and signal their nutritional needs. A healthy soil foodweb
+organisms and signal their nutritional needs. A [[establishing-healthy-soil-foodweb]]
 responds to these signals by increasing [[savory-living-organisms-as-tools]] and the food resources they need to function.
 Regular tea applications maintain the biological workforce that
 processes organic matter and cycles nutrients through the foodweb.
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 ## Research and Development
 
 Ongoing research continues to expand understanding of
-microbial chelation nutrient cycling and its applications. Active investigation
+microbial chelation [[ectomycorrhizal-nutrient-cycling-and-forest-dynamics]] its applications. Active investigation
 areas include ecological interactions and optimization.
 Published findings contribute to an evolving evidence base.
 

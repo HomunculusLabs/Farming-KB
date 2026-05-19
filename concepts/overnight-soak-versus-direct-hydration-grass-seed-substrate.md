@@ -47,7 +47,7 @@ The overnight soak method adds a pre-hydration step:
 ### Disadvantages
 - **Time investment**: Requires planning at least 12 hours ahead. Not suitable for spontaneous preparation.
 - **Additional equipment**: Requires a soaking vessel large enough to hold all the seed being prepared.
-- **Potential for over-hydration**: If soaking time is too long, seeds may become waterlogged and mushy, creating anaerobic conditions that favor bacterial contamination.
+- **Potential for over-hydration**: If soaking time is too long, seeds may become waterlogged and mushy, creating [[aact-ph-and-anaerobic-conditions]] that favor bacterial contamination.
 - **Slightly higher contamination risk**: The extended soaking period at room temperature provides a window for bacterial or fungal spores present on the seed surface to begin germinating. However, subsequent sterilization eliminates these organisms.
 
 ## Comparative Analysis
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Overnight Soak Versus Direct Hydration Grass Seed Substrate finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 overnight soak versus direct hydration grass seed substrate and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

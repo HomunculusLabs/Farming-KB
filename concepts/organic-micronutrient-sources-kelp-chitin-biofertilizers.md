@@ -19,7 +19,7 @@ Bone meal is produced by steam-processing and grinding animal bones. The phospho
 
 ### Bat Guano (N–P–K 3–10–1)
 
-Bat guano (feces and urine of cave-dwelling bats) comes in high-nitrogen and high-phosphorus formulations. Because phosphorus is rapidly immobilized in soil, high-phosphorus bat guano lasts only 1 to 4 months. Mycorrhizal fungi are the best releasers of phosphorus from guano, but excessive phosphorus application limits mycorrhizal colonization. Gardeners relying on mycorrhizal fungi should inform their soil testing laboratory so recommendations account for this biological pathway. Guano is best used when a testing laboratory specifically recommends it as a phosphorus source, particularly in new gardens without prior preparation time.
+Bat guano (feces and urine of cave-dwelling bats) comes in high-nitrogen and high-phosphorus formulations. Because phosphorus is rapidly immobilized in soil, high-phosphorus bat guano lasts only 1 to 4 months. Mycorrhizal fungi are the best releasers of phosphorus from guano, but excessive phosphorus application limits mycorrhizal colonization. Gardeners relying on mycorrhizal fungi should inform their [[solomon-soil-testing-laboratory-analysis-low-input-gardening]] so recommendations account for this biological pathway. Guano is best used when a testing laboratory specifically recommends it as a phosphorus source, particularly in new gardens without prior preparation time.
 
 ### Colloidal Rock Phosphate (N–P–K 0–2.5–0)
 
@@ -73,7 +73,7 @@ Liquid kelp provides instantly available micronutrients when applied. Most brand
 
 ## Biofertilizers
 
-Biofertilizers are living agents that produce or facilitate the production of plant nutrients. While they don't fit current legal definitions of fertilizers (because N–P–K content is difficult or impossible to quantify), they represent a growing category of inputs that go beyond simple decomposition and nutrient cycling.
+Biofertilizers are living agents that produce or facilitate the production of plant nutrients. While they don't fit current legal definitions of fertilizers (because N–P–K content is difficult or impossible to quantify), they represent a growing category of inputs that go beyond simple decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 
 ### Nitrogen-Fixing Biofertilizers
 
@@ -107,7 +107,7 @@ PGPR are root-colonizing bacteria (including *Pseudomonas fluorescens* and many 
 
 ### Compost
 
-Technically a soil amendment rather than a fertilizer, compost contains nutrients because organic matter and clay contribute to its cation exchange capacity. Compost should ideally be tested for both nutrient and microbial content. A critical caveat: incompletely composted material is not compost. Partially decomposed organic matter can tie up nitrogen as the composting process completes adjacent to plant roots rather than in a dedicated pile.
+Technically a soil amendment rather than a fertilizer, compost contains nutrients because organic matter and clay contribute to its [[cation-exchange-capacity]]. Compost should ideally be tested for both nutrient and microbial content. A critical caveat: incompletely composted material is not compost. Partially decomposed organic matter can tie up nitrogen as the composting process completes adjacent to plant roots rather than in a dedicated pile.
 
 ### Earthworm Castings
 

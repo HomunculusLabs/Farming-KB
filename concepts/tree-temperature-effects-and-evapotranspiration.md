@@ -51,7 +51,7 @@ These colour properties have direct practical applications:
 
 1. Plant deciduous trees on the south (or sun-facing) side to provide summer shade while allowing winter sun penetration
 2. Use reddish or white-foliaged vines on trellis systems over roofs or walls
-3. Install fine water sprays beneath vine-covered trellises for evaporative cooling
+3. Install fine water sprays beneath vine-covered trellises for [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]]
 4. Place damp mulch systems under trellises to create dense cool air pockets
 5. Design cross-ventilation to draw cooled air from shaded, vegetated areas through buildings
 
@@ -84,7 +84,7 @@ regulation, and atmospheric processes that sustain regional climate patterns.
 
 ## Practical Applications
 These concepts apply directly to [[permaculture-design]], agroforestry systems,
-and watershed management. Understanding the interactions between vegetation,
+[[ozier-pdc-hydro-cycle-and-watershed-management]]. Understanding the interactions between vegetation,
 water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 
@@ -99,7 +99,7 @@ Adaptation to local conditions and careful observation remain central to effecti
 Field trials provide essential data for validating theoretical approaches and refining methodologies.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

@@ -1,5 +1,5 @@
 ---
-title: Meshima (Phellinus linteus) — Medicinal Mushroom Guide
+title: Meshima (Phellinus linteus) — [[medicinal-mushroom-guide]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -39,7 +39,7 @@ Meshima is one of the most potent anti-inflammatory medicinal mushrooms:
 ### Applications
 - Arthritis and joint inflammation (animal models show significant reduction in joint swelling).
 - Allergic conditions (asthma, atopic dermatitis, allergic rhinitis).
-- Inflammatory bowel disease (Crohn's disease, ulcerative colitis models).
+- [[blesching-cannabis-inflammatory-bowel-disease]] (Crohn's disease, ulcerative colitis models).
 - Chronic systemic inflammation.
 - Dermatitis and skin inflammation.
 
@@ -99,7 +99,7 @@ Meshima's immune effects are distinctive:
 
 ### Dual Extraction Tincture
 1. Hot water extraction (60-90 min) for polysaccharides.
-2. Alcohol maceration (4-6 weeks in 40-50% ethanol) for hispidin and phenolic compounds.
+2. Alcohol maceration (4-6 weeks in 40-50% ethanol) for hispidin [[terpenes-and-phenolic-compounds-soil]].
 3. Combine extracts.
 
 ### Supplements

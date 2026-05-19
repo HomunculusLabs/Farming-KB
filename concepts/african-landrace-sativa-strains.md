@@ -18,7 +18,7 @@ type: concept
 Africa is one of the primary centers of cannabis genetic diversity, home to numerous landrace
 sativa varieties that have been cultivated for centuries. These strains represent some of the
 purest expressions of the [[cannabis-colombian-gold-landrace-sativa]] is a pure sativa from Colombia representing one of the
-foundational equatorial sativa varieties. Colombian landrace genetics were among the most
+foundational equatorial sativa varieties. [[oner-colombian-landrace-sativa-strains]] genetics were among the most
 celebrated cannabis strains of the 1960s and 1970s, when Colombian cannabis flooded the American
 market and defined what premium marijuana meant to an entire generation of consumers.
 
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 African Landrace Sativa Strains finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 african landrace sativa strains and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

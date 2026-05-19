@@ -1,5 +1,5 @@
 ---
-title: Natural Swimming Pools
+title: [[natural-swimming-pools-and-water-design]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -80,7 +80,7 @@ not waste. [[permaculture-design]] closes nutrient and water loops by:
 
 - Using treated effluent to irrigate food-producing plants
 - Capturing methane energy from organic decomposition
-- Creating wildlife habitat through constructed wetlands
+- Creating [[hemenway-backyard-wildlife-habitat]] through [[comparison-constructed-wetlands-vs-bioswales]]
 - Integrating multiple functions — swimming, filtration, irrigation, energy
   production — into single designed systems
 

@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-The pharmacology of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of psilocybin — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
+The pharmacology [[archaeology-of-psychedelic-mushrooms]] is defined primarily by the action of psilocin — the active metabolite of psilocybin — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
 
 ## Primary Mechanism: 5-HT2A Receptor Agonism
 
@@ -20,7 +20,7 @@ The principal mechanism of action of psilocin is agonism (activation) of the ser
 
 ### Receptor Binding Profile
 
-Psilocin interacts with multiple serotonin receptor subtypes:
+Psilocin interacts with multiple [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes:
 
 - **5-HT2A**: Primary target; full agonist — responsible for psychedelic effects, hallucinations, perceptual changes
 - **5-HT2C**: Partial agonist — may contribute to anxiety, changes in appetite, and some cognitive effects
@@ -32,7 +32,7 @@ The psychedelic effects are overwhelmingly mediated through 5-HT2A activation. T
 
 ### Intracellular Signaling Cascades
 
-5-HT2A receptor activation triggers several downstream signaling pathways:
+5-HT2A receptor activation triggers several downstream [[plant-signaling-pathways]]:
 
 - **Gq/11-PLC-IP3 pathway**: Activates phospholipase C, generating inositol triphosphate (IP3) and diacylglycerol (DAG), leading to calcium release from intracellular stores
 - **MAPK/ERK pathway**: Activation of mitogen-activated protein kinase cascades, involved in gene expression changes and neuroplasticity

@@ -14,7 +14,7 @@ Understanding the climatic regime of a study site is fundamental to planning eff
 
 Seasonal sporulation patterns differ markedly between climatic zones:
 
-- **Temperate regions:** [[basidiomycetes]] typically fruit in autumn, coinciding with the nutrient flush from leaf fall. Pathogenic microfungi produce spores in spring, when host tissues emerge from dormancy and are most susceptible.
+- **[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]:** [[basidiomycetes]] typically fruit in autumn, coinciding with the nutrient flush from leaf fall. Pathogenic microfungi produce spores in spring, when host tissues emerge from dormancy and are most susceptible.
 - **Tropical regions:** Sporulation is often tied to dry or wet seasons rather than temperature cycles (Cornejo et al. 1994; Lodge and Cantrell 1995b).
 
 **Moist chamber techniques** can substantially reduce field collection frequency. By collecting substrata at approximately 2-month intervals and maintaining them in moist chambers for continuous observation, researchers capture fungi that fruit over extended periods. This requires adequate laboratory space but reduces overall collection time and site disturbance.
@@ -86,7 +86,7 @@ A sophisticated computerized database with well-defined fields is essential for 
 
 An effective system typically consists of two linked databases:
 
-1. **Specimen database:** Collection details (date, locality, habitat, host, plant part, collector), field and laboratory notes, and identification history.
+1. **[[specimen-database-core-data-structure]]:** Collection details (date, locality, habitat, host, plant part, collector), field and laboratory notes, and identification history.
 2. **Species database:** Standardized species accounts including nomenclature, descriptions, distributions, host ranges, and bibliographic references.
 
 These may be organized in a formal relational structure or linked via a shared descriptor field. Automated transfer between databases remains a significant challenge. Minter (1996) described a comprehensive computerized data-gathering system for fungal collections addressing many of these issues.
@@ -145,6 +145,6 @@ The following protocol defines a minimum standard for a comprehensive microfunga
 ### Supplementary Methods
 
 - **Moist chambers:** At least 10 collections per component category, observed weekly for 6–9 months to capture slow-developing or late-successional fungi.
-- **Culturing:** At least 5 collections per component cultured via particle filtration (Bills and Polishook 1994) to isolate fungi not sporulating readily on the substratum surface.
+- **Culturing:** At least 5 collections per component cultured via [[particle-filtration-dilution-plating-microfungal-isolation]] (Bills and Polishook 1994) to isolate fungi not sporulating readily on the substratum surface.
 
 Following these protocols ensures microfungal biodiversity surveys are reproducible, comprehensive, and scientifically rigorous, providing data suitable for ecological analysis, conservation assessment, and taxonomic revision.

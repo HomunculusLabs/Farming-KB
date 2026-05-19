@@ -8,13 +8,13 @@ type: concept
 
 Comprehensive management of four key growth parameters—temperature, relative humidity,
 light, and ventilation (O₂ vs CO₂)—is critical for successful commercial cultivation of
-*Grifola frondosa* (maitake). This page summarizes parameter recommendations across the
+*[[grifola-frondosa-maitake]]* (maitake). This page summarizes parameter recommendations across the
 three major growth stages as practiced in China, Japan, and North America, based on
 Alice W. Chen's 1999 practical guide to synthetic-log cultivation.
 
 ## Overview of Growth Parameters
 
-- **Temperature** — Fruiting body development requires a distinctly lower temperature
+- **Temperature** — [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] requires a distinctly lower temperature
   range than the spawn run. Temperature fluctuation should be minimized to avoid
   condensation buildup on substrate surfaces and bags, which can promote contamination
   and impair primordia formation. Gradual transitions between stages are preferred.
@@ -31,7 +31,7 @@ Alice W. Chen's 1999 practical guide to synthetic-log cultivation.
 - **Ventilation (CO₂ Control)** — Mycelia tolerate higher CO₂ during spawn run, but
   primordia differentiation and fruiting require progressively lower CO₂ levels.
   Elevated CO₂ (>0.15%) during fruiting produces small, thin caps with poor market
-  quality. Proper air exchange also helps regulate temperature and humidity.
+  quality. Proper air exchange also helps regulate [[greg-green-temperature-and-humidity-control]].
 
 ## Cultivation Facility Design
 

@@ -1,12 +1,12 @@
 ---
-title: Specimen Database Design
+title: [[specimen-database-core-data-structure]] Design
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
 # Specimen Database Design
 
-Specimen database design encompasses the principles, structures, and practices for building relational databases that document the occurrence of organisms in a given place at a given time. A well-designed personal database can serve both the needs of the researcher and provide valuable data for comprehensive biodiversity studies.
+Specimen database design encompasses the principles, structures, and practices for building [[relational-databases-fungal-systematics]] that document the occurrence of organisms in a given place at a given time. A well-designed personal database can serve both the needs of the researcher and provide valuable data for comprehensive biodiversity studies.
 
 ## Database Design Philosophy
 
@@ -43,7 +43,7 @@ The relational methodology applies naturally to systematic biology:
 - **Specimen tables** should be restricted to information about the collecting event: who, what, where, and when. Morphological data belongs in a separate table.
 - **Nomenclature databases** track names and their associated literature citations. Citations are best placed in a separate bibliographic table to facilitate reusability — a single publication describing multiple taxa need only be entered once.
 - **Bibliographic databases** maintain full literature citations that can be linked to name tables and other applications. This avoids redundant citation entry.
-- **Taxonomic classification tables** can be used to determine class and order for names in the specimen table.
+- **[[neurotropic-fungi-taxonomic-classification]] tables** can be used to determine class and order for names in the specimen table.
 
 A primary goal of relational design is **reducing redundant keyboarding** and enabling **data reusability**. A name table, for example, is entered once but can be used in specimen label tables, nomenclature tables, and other applications, ensuring consistent use across all of them.
 

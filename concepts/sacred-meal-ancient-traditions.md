@@ -15,13 +15,13 @@ The sacred meal, the ritual consumption of a specially prepared food or drink be
 
 The sacred meal appears in virtually every major religious tradition: the Christian Eucharist, the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], the Egyptian ceremonies of the celestial food (tchefau), the Mesoamerican rituals of teonanacatl, and numerous shamanic traditions worldwide. Despite the enormous cultural and temporal distances between these traditions, they share a remarkably consistent core structure.
 
-A divine or semi-divine being provides a special food or drink to humanity. This food is described as the "body" or "blood" of the god. Consumption produces knowledge of divine matters, spiritual transformation, or immortality. The food is associated with a tree (the Tree of Life, Tree of Knowledge, or World Tree). The food must be specially prepared or processed before consumption. Access to the food is controlled by a priestly or initiatory class. The food is described with numerous polymorphous names and symbols across cultures.
+A divine or semi-divine being provides a special food or drink to humanity. This food is described as the "body" or "blood" of the god. Consumption produces knowledge of divine matters, spiritual transformation, or immortality. The food is associated with a tree (the Tree of Life, Tree of Knowledge, or World Tree). The food must be specially prepared or processed before consumption. Access to the food is controlled by a priestly or initiatory class. The food is described with numerous polymorphous [[amanita-muscaria-historical-names-and-symbols]] across cultures.
 
 Arthur argues that this universality cannot be explained by cultural diffusion alone but points to a common experiential origin: the genuine visionary effects produced by entheogenic mushrooms, which would produce similar descriptions and symbolic associations in any culture that used them.
 
 ## The Body of God Anthropomorphization
 
-A central feature of the sacred meal tradition is the progression from the sacramental substance (the mushroom) to the anthropomorphized body of the god. In the Vedic tradition, Soma is both a plant-god and the elixir prepared from it. In the Christian tradition, Jesus is both the person and the "body" that must be eaten. In the Egyptian tradition, Horus is "both the divine food and the sacrifice."
+A central feature of the sacred meal tradition is the progression from the [[biblical-manna-and-sacramental-substance]] (the mushroom) to the anthropomorphized body of the god. In the Vedic tradition, Soma is both a plant-god and the elixir prepared from it. In the Christian tradition, Jesus is both the person and the "body" that must be eaten. In the Egyptian tradition, Horus is "both the divine food and the sacrifice."
 
 John Allegro, in [[allegro-soma-mushroom-thesis]], identified this pattern: the god is both the man (or divine being) and the mushroom (the food) and the sacrifice (the mushroom dying in order to be eaten). This duality runs through virtually every sacred meal tradition and represents, in Arthur's view, the core encoded truth of the mushroom sacrament.
 
@@ -43,7 +43,7 @@ The concept of the sacred meal is incorporated into many ancient traditions that
 
 ## Manna and the Two Kinds
 
-The Biblical narrative describes two kinds of Manna: the Manna that fell from heaven during the Israelites' wilderness wanderings (Exodus), and the "true bread from heaven" that Jesus identifies as his own body (John 6). Arthur interprets both as referring to mushrooms, with the two kinds representing either different species (Amanita muscaria and Psilocybe species) or different preparations of the same substance.
+The Biblical narrative describes two kinds of Manna: the Manna that fell from heaven during the Israelites' wilderness wanderings (Exodus), and the "true bread from heaven" that Jesus identifies as his own body (John 6). Arthur interprets both as referring to mushrooms, with the two kinds representing either different species ([[amanita-muscaria-and-ibotenic-acid-containing-fungi]] Psilocybe species) or different preparations of the same substance.
 
 The Gospel of Jesus describes the "hidden Manna" (Revelation 2:17), promised to those who overcome, which parallels the theme of a secret knowledge reserved for initiates. The Manna is described as a "small round thing, as small as the hoar frost" (Exodus 16:14), which closely matches the appearance of dried mushroom pieces.
 

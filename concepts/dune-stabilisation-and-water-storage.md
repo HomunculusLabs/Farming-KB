@@ -79,7 +79,7 @@ Once stabilised, dunes must be protected from:
 - Badly aligned roads.
 - Sand mining to windward.
 
-Sawdust and mulch in hollows is very beneficial. Mill wastes (bark, sawdust) have helped establish *Acacia sophorae* forest in coastal dunes in Tasmania. All plants in dunes benefit from nitrogenous fertiliser, phosphate, and trace elements, as old dunes are usually deficient in plant nutrients.
+Sawdust and mulch in hollows is very beneficial. Mill wastes (bark, sawdust) have helped establish *Acacia sophorae* forest in coastal dunes in Tasmania. All plants in dunes benefit from nitrogenous fertiliser, phosphate, [[teaming-with-nutrients-micronutrients-and-trace-elements]], as old dunes are usually deficient in plant nutrients.
 
 ## Dune Swale Management
 
@@ -91,7 +91,7 @@ Adaptation to local conditions and careful observation remain central to effecti
 Field trials provide essential data for validating theoretical approaches and refining methodologies.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

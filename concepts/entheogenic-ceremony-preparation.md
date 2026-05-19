@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Entheogenic ceremonies are structured, intentional settings in which psychoactive plants or fungi are consumed for healing, spiritual growth, or divination. Rooted in indigenous traditions from the Amazon, Mesoamerica, Africa, and elsewhere, these ceremonies have been adapted and adopted by contemporary communities worldwide. Proper preparation — physical, psychological, and logistical — is essential for safety and therapeutic benefit.
+Entheogenic ceremonies are structured, intentional settings in which psychoactive plants or fungi are consumed for healing, spiritual growth, or divination. Rooted in [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]] from the Amazon, Mesoamerica, Africa, and elsewhere, these ceremonies have been adapted and adopted by contemporary communities worldwide. Proper preparation — physical, psychological, and logistical — is essential for safety and therapeutic benefit.
 
 ## Physical Preparation
 
@@ -54,7 +54,7 @@ Critical for safety, especially with MAOI-containing entheogens like ayahuasca:
 Essential screening items:
 
 - Cardiovascular health: blood pressure, heart conditions, arrhythmias
-- Psychiatric history: psychosis, bipolar disorder, schizophrenia (generally contraindicated)
+- Psychiatric history: psychosis, [[blesching-cannabis-bipolar-disorder]], schizophrenia (generally contraindicated)
 - Current medications and potential interactions
 - Pregnancy status (absolutely contraindicated)
 - Liver and kidney function (for ayahuasca processing)
@@ -135,7 +135,7 @@ A skilled facilitator is essential for ceremony safety. Key qualities and respon
 - Musical or ceremonial skills (icaros, prayer, chanting)
 - Clear boundaries — not a guru, healer, or authority figure
 - Trauma-informed approach
-- Emergency response capability
+- [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]] capability
 
 Red flags in facilitators:
 - Claims of special powers or divine authority

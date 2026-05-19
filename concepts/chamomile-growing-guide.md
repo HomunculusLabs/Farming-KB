@@ -13,7 +13,7 @@ sources: []
 
 Chamomile is one of the most ancient and widely used medicinal herbs, prized
 for its calming, anti-inflammatory, and digestive properties. Two species are
-primarily cultivated: German chamomile (Matricaria chamomilla, syn. M.
+primarily cultivated: German chamomile ([[matricaria-chamomilla]], syn. M.
 recutita) and Roman chamomile (Chamaemelum nobile). While they share many
 medicinal qualities, they differ significantly in growth habit, cultivation
 requirements, and ideal uses.
@@ -50,7 +50,7 @@ Primary applications:
 - Teething and colic: Mild chamomile tea is traditionally used for infants
   with colic (consult a pediatrician first).
 - Menstrual discomfort: Anti-spasmodic action eases menstrual cramps.
-- Immune support: Mild antimicrobial properties support respiratory health.
+- Immune support: Mild [[medicinal-mushroom-antimicrobial-properties]] support respiratory health.
 
 Safety: Chamomile is generally very safe. Individuals with allergies to
 ragweed, chrysanthemums, or other Asteraceae family members should use
@@ -94,7 +94,7 @@ lush foliage with fewer flowers. pH 5.6-7.5.
 - Dense planting helps support the tall, sometimes floppy stems
 
 ### Care
-- Water seedlings regularly; established plants are moderately drought tolerant
+- Water seedlings regularly; established plants are moderately [[drought-tolerant-planting-design]]
 - Pinch back young plants to encourage bushier growth
 - No fertilizer needed; excess nitrogen reduces flower production
 - Generally pest and disease free

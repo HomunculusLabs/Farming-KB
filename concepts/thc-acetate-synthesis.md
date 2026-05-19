@@ -1,5 +1,5 @@
 ---
-title: THC Acetate Synthesis
+title: [[thc-acetate-synthesis-and-hashish-preparation]]
 source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
@@ -50,7 +50,7 @@ The acetylation reaction requires a complete reflux apparatus assembled from sta
 - **Round-bottom flask**: Typically a 250–500 mL flask with a standard taper (e.g., 24/40) joint, serving as the primary reaction vessel. The round shape ensures even heating and minimizes localized hot spots that could cause [[decomposition]].
 - **Condenser**: A water-cooled reflux condenser (Liebig or Allihn type) attached vertically to the flask. Cooling water flows through the outer jacket while vapors from the boiling reaction mixture condense on the inner walls and drip back into the flask. This allows the reaction to proceed at the solvent's boiling point without loss of volatile materials.
 - **Oil bath**: The round-bottom flask is immersed in an oil bath rather than heated directly with a flame. Oil baths provide even, controllable heat transfer and eliminate the fire hazard of open flames near volatile organic solvents. Mineral oil or silicone oil is commonly used, with the bath temperature typically set 10–20°C above the desired reaction temperature.
-- **Rheostat / temperature controller**: A variable autotransformer (rheostat) or electronic temperature controller regulates the heating element's power output, allowing precise control of the oil bath temperature. Maintaining the correct reaction temperature is essential — excessive heat can degrade both the THC starting material and the acetate product.
+- **Rheostat / temperature controller**: A variable autotransformer (rheostat) or electronic temperature controller regulates the heating element's power output, allowing precise control of the oil bath temperature. Maintaining the correct reaction temperature is essential — excessive heat can degrade both the THC [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] and the acetate product.
 - **Clamps and stands**: Iron ring stands with extension clamps and boss heads secure the flask, condenser, and any additional apparatus. All joints should be lightly greased with high-vacuum silicone grease to ensure an airtight seal.
 
 The entire assembly should be stable and level before heating begins. Any wobbling or misalignment risks breakage of the glassware at the joints, which could release hot, corrosive chemicals. A test run with water or an inert solvent is advisable before proceeding with the actual reaction.
@@ -108,7 +108,7 @@ From a mechanistic standpoint, the acetylation of THC is analogous to the well-k
 
 ## Safety and Legal Notes
 
-This page is presented as educational and historical content documenting organic chemistry techniques described in published literature. THC and its derivatives are controlled substances in most jurisdictions. The handling of acetic anhydride, a regulated precursor chemical in many countries, requires appropriate licenses, training, and facilities. The procedures described involve significant hazards including corrosive chemicals, pressurized reactions, flammable solvents, and toxic vapors. They should only be conducted by trained chemists in properly equipped laboratories with appropriate safety measures, permits, and regulatory compliance.
+This page is presented as educational and historical content documenting organic chemistry techniques described in published literature. THC and its derivatives are [[controlled-substances-act-and-psychedelic-research]] in most jurisdictions. The handling of acetic anhydride, a regulated precursor chemical in many countries, requires appropriate licenses, training, and facilities. The procedures described involve significant hazards including corrosive chemicals, pressurized reactions, flammable solvents, and toxic vapors. They should only be conducted by trained chemists in properly equipped laboratories with appropriate safety measures, permits, and regulatory compliance.
 
 ## See Also
 

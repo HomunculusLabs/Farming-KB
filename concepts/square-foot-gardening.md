@@ -1,5 +1,5 @@
 ---
-title: Square Foot Gardening Guide
+title: [[query-how-does-square-foot-gardening-work-and-is-it-worth-it]] Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Square Foot Gardening Guide
 
-Square foot gardening (SFG) is an intensive planting method developed by Mel Bartholomew that divides raised beds into 1x1 foot squares, each planted with a specific number of crops based on plant size. The system maximizes yield per square foot while reducing wasted space, seeds, water, and weeding.
+Square foot gardening (SFG) is an [[intensive-planting-spacing]] method developed by Mel Bartholomew that divides raised beds into 1x1 foot squares, each planted with a specific number of crops based on plant size. The system maximizes yield per square foot while reducing wasted space, seeds, water, and weeding.
 
 ## Core Principles
 
@@ -101,7 +101,7 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 
 ### Succession Timing Rules
 - Know your days to maturity (DTM) for each crop.
-- Start next crop's seeds indoors or in a nursery flat while current crop finishes.
+- Start next crop's [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] or in a nursery flat while current crop finishes.
 - Pull spent plants, add 1-2 inches of compost, replant immediately.
 - Cool-season crops (spinach, lettuce, peas, radishes) can be double- or triple-cropped.
 - Warm-season crops (tomatoes, peppers) occupy a square all summer — plant garlic in fall after cleanup.

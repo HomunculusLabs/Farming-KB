@@ -1,5 +1,5 @@
 ---
-title: McKenna's Archaic Revival and Dominator Culture Theory
+title: McKenna's [[archaic-revival-partnership-vs-dominator-cultures]] [[mckenna-food-of-the-gods-alcohol-and-dominator-culture]] Theory
 source: mckenna_t-food_of_the_gods.md
 type: concept
 ---
@@ -80,7 +80,7 @@ McKenna's most provocative argument is that **monotheism** became the psychologi
 McKenna organizes human drug-using history into four epochs:
 
 ### I. Paradise (Prehistory to ~5000 BCE)
-- Partnership societies, goddess worship, psychedelic mushroom use
+- Partnership societies, goddess worship, [[archaeology-of-psychedelic-mushroom-use]]
 - Psilocybin catalyzes language, religion, social bonding
 - Seasonal and lunar cycles organize mushroom availability and ritual
 

@@ -1,5 +1,5 @@
 ---
-title: Settlement Vegetation and Fuel Forests
+title: [[dryland-settlement-vegetation-and-fuel-forests]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -12,7 +12,7 @@ Rigorous vegetative design of desert settlements calls for adapted perennials fo
 
 ## Tree Parks and Broad Windbreaks
 
-A critical settlement strategy is to develop broad **tree parks 300–400 m deep** around or even within the settlement. These eliminate devastating dry desert winds while also providing fuels, mulch, medicines, and supplemental domestic animal forage. This planting is the first line of defence against the desert; within its shelter, gardens and crops can thrive without wind damage or excessive water loss.
+A critical [[desert-settlement-strategy]] is to develop broad **tree parks 300–400 m deep** around or even within the settlement. These eliminate devastating dry desert winds while also providing fuels, mulch, medicines, and supplemental domestic animal forage. This planting is the first line of defence against the desert; within its shelter, gardens and crops can thrive without wind damage or excessive water loss.
 
 Very large buffer zones of ungrazed or lightly grazed desert, pitted or swaled, can be developed around villages. These completely defend against dust, ensuring that both public and environmental health are preserved.
 
@@ -97,7 +97,7 @@ Adaptation to local conditions and careful observation remain central to effecti
 Field trials provide essential data for validating theoretical approaches and refining methodologies.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

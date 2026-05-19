@@ -1,5 +1,5 @@
 ---
-title: "Brassinosteroid Effects on Psilocybe cubensis Mycelial Growth and Fruiting"
+title: "[[brassinosteroid-effects-on-fungal-fruiting-morphology]] [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and Fruiting"
 created: 2026-05-08
 tags: [brassinosteroid, psilocybe-cubensis, mycelial-growth, fruiting, homobrassinolide, phytohormone, fungal-physiology, yield-enhancement]
 date: 2026-05-08
@@ -46,7 +46,7 @@ The rapid colonisation observed on agar has direct practical implications: faste
 
 ### Accelerated Onset of Fruiting
 
-The most commercially significant finding was the advancement of the first fruiting flush. In the control cultures, the first sporocarps (fruit bodies) appeared within **4 to 5 weeks** after inoculation. With the addition of brassinosteroid, fruiting began in just **3 to 3.5 weeks** — a reduction of approximately one week, representing a 20–30% acceleration of the total cultivation cycle. For commercial mushroom cultivation, where time-to-harvest directly impacts profitability and facility throughput, such an improvement is substantial. The figure accompanying the original paper visually demonstrates this difference: at five weeks post-inoculation, the control tray shows relatively sparse fruiting while the brassinosteroid-treated tray at only three weeks already displays a dense cluster of well-developed mushrooms.
+The most commercially significant finding was the advancement of the first fruiting flush. In the control cultures, the first sporocarps (fruit bodies) appeared within **4 to 5 weeks** after inoculation. With the addition of brassinosteroid, fruiting began in just **3 to 3.5 weeks** — a reduction of approximately one week, representing a 20–30% acceleration of the total cultivation cycle. For [[history-of-commercial-mushroom-cultivation]], where time-to-harvest directly impacts profitability and facility throughput, such an improvement is substantial. The figure accompanying the original paper visually demonstrates this difference: at five weeks post-inoculation, the control tray shows relatively sparse fruiting while the brassinosteroid-treated tray at only three weeks already displays a dense cluster of well-developed mushrooms.
 
 ### Increased Flush Size
 

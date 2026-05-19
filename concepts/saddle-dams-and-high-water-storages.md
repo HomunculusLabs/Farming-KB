@@ -10,9 +10,9 @@ Saddle dams and high water storages are foundational elements of [[permaculture]
 
 ## What Are Saddle Dams?
 
-A saddle dam is built on a **ridge saddle** — a low point along a ridgeline between two higher points. This position makes saddle dams the **highest water storages possible** on a property. By siting dams at these elevated positions, permaculture designers exploit gravity to deliver water wherever it is needed downstream without any pumping energy.
+A saddle dam is built on a **ridge saddle** — a low point along a ridgeline between two higher points. This position makes saddle dams the **highest water storages possible** on a property. By siting dams at these elevated positions, [[bill-mollison-permaculture-designers-manual]] exploit gravity to deliver water wherever it is needed downstream without any pumping energy.
 
-Saddle dams are a direct application of the permaculture principle: **store water at the highest point you can, and let gravity do the work.** This simple positioning strategy eliminates the need for mechanical pumping and provides reliable water pressure for domestic use.
+Saddle dams are a direct application of the [[permaculture-principle-1-observe-interact]]: **store water at the highest point you can, and let gravity do the work.** This simple positioning strategy eliminates the need for mechanical pumping and provides reliable water pressure for domestic use.
 
 ## Advantages of High-Position Water Storage
 
@@ -22,7 +22,7 @@ Storing water high in the landscape provides multiple compounding benefits:
 - **Hydraulic head for electricity generation:** The elevation difference (head) between the dam and the point of use can drive micro-hydro turbines, producing clean electricity.
 - **Fire protection:** High storages can feed fire protection sprinkler systems. During [[wildfire]] events, a dam on the ridge can supply sprinklers that wet building roofs and surrounding vegetation, potentially saving structures.
 - **Emergency reserve:** Even during extended dry periods, high dams retain water that can be gravity-fed to critical uses.
-- **Wildlife habitat:** Elevated dams create edge habitat and drinking water sources for wildlife across ridge and slope ecosystems.
+- **[[hemenway-backyard-wildlife-habitat]]:** Elevated dams create edge habitat and drinking water sources for wildlife across ridge and slope ecosystems.
 
 ## Water Quality Cascade
 

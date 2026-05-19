@@ -97,7 +97,7 @@ Careful observation and documentation support ongoing improvement.
 
 ## Research Developments
 
-Current research directions and emerging findings for fukuoka money sucking octopus economy critique. Understanding
+[[psychedelic-therapy-current-research]] directions and emerging findings for fukuoka money sucking octopus economy critique. Understanding
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 

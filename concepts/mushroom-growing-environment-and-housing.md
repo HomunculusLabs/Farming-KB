@@ -1,6 +1,6 @@
 ---
 title: Mushroom Growing Environment and Housing
-source: MushWorld, Mushroom Growers' Handbook 1: Oyster Mushroom Cultivation (2004)
+source: MushWorld, Mushroom Growers' Handbook 1: [[comparison-reishi-vs-oyster-mushroom-cultivation]] (2004)
 tags: [mushroom, cultivation, fungi, environment, growing-house, climate-control]
 created: 2026-05-11
 ---
@@ -59,7 +59,7 @@ phases of the [[mushroom-life-cycle]].
 
 ## Growing House Design Considerations
 
-A mushroom growing house provides a controlled environment for production.
+A [[low-cost-mushroom-growing-house-construction-developing-countries]] provides a controlled environment for production.
 Key design considerations include:
 
 - **Site Selection:** Access to clean water, electricity, drainage, and wind
@@ -97,7 +97,7 @@ conditions, materials, and budgets:
 
 - **Insulated Panel Houses:** Modern commercial operations use prefabricated
   insulated panels (foam insulation between metal or plastic sheets) for
-  superior temperature and humidity control. Often equipped with automatic
+  superior [[greg-green-temperature-and-humidity-control]]. Often equipped with automatic
   systems for temperature, humidity, ventilation, and lighting. Highest
   level of control but requires significant capital investment.
 

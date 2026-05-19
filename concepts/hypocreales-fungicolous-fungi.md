@@ -14,7 +14,7 @@ Hypocrealean mycoparasites employ diverse strategies to attack and exploit funga
 
 - **Biotrophic contact mycoparasitism**: The parasite contacts the host via specialized structures (haustoria, appressoria) without immediately killing it, withdrawing nutrients from living host tissue. Examples include [[gonatobotrys-simplex]], which grows on Alternaria and Cladosporium species.
 - **Necrotrophic mycoparasitism**: The parasite actively kills host tissue through enzymatic degradation and toxic metabolites before colonizing it. [[trichoderma-harzianum]] uses this strategy.
-- **Hyphal interference**: Non-contact antagonism through production of diffusible toxic volatile compounds that cause cell vacuolization, collapse, and disintegration of host cytoplasm at a distance.
+- **Hyphal interference**: Non-contact antagonism through production of diffusible toxic [[mycovolatiles-fungal-volatile-compounds]] that cause cell vacuolization, collapse, and disintegration of host cytoplasm at a distance.
 - **Direct penetration**: Physical breaching of host cell walls, as seen in Trichoderma interactions with [[lentinula-edodes]].
 
 ## Key Families and Genera
@@ -23,7 +23,7 @@ Hypocrealean mycoparasites employ diverse strategies to attack and exploit funga
 
 **Hypocrea and Trichoderma**: While Hypocrea is reported less frequently as a mycoparasite than its anamorphs in Trichoderma, the genus includes both host-specific and polyphagous fungicolous species found on aphyllophorales and woody substrata. Trichoderma species are among the most polyphagous mycoparasites known, though they are notoriously difficult to distinguish morphologically (Bissett 1991b; Gams and Bissett 1999).
 
-Trichoderma species produce a remarkable diversity of secondary metabolites (Ghisalberti and Sivisithamparam 1991). Beyond enzymatic actions, these metabolites antagonize host fungi over distance. Key compounds include:
+Trichoderma species produce a remarkable diversity of [[antifungal-secondary-metabolites-coprophilous-fungi]] (Ghisalberti and Sivisithamparam 1991). Beyond enzymatic actions, these metabolites antagonize host fungi over distance. Key compounds include:
 
 - **Volatile alkyl pyrone** from T. harzianum (Claydon et al. 1987)
 - **Peptaibols** — potent polypeptide antibiotics found in Trichoderma, Gliocladium, and Clonostachys species, responsible for the often-observed bursting of hyphal tips (Brückner and Przybylski 1984)
@@ -121,7 +121,7 @@ However, the extreme difficulty of distinguishing beneficial from harmful Tricho
 - If references are expanded later, prefer the source already named in the page metadata.
 - If related notes are added later, verify each target exists before linking.
 - If claims conflict across notes, document the source context instead of forcing a synthesis.
-- If taxonomy has changed, record the older name as historical context only when the source supports it.
+- If taxonomy has changed, record the older name as [[ghouled-field-guide-historical-context]] only when the source supports it.
 - If cultivation relevance is uncertain, keep the statement framed as relevance to mycology rather than practice.
 - If the note is used as an index point, prioritize clear local links over added narrative.
 - If a claim cannot be checked locally, do not add it during a conservative lint pass.

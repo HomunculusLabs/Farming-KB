@@ -28,7 +28,7 @@ Corn, while productive as an annual crop, is fundamentally soil-depleting. It
 accelerates acidification and nutrient exhaustion when grown continuously without
 adequate rest or biological support. As nitrogen limitations are addressed through
 leguminous agroforestry, calcium emerges as the next limiting factor — illustrating
-Liebig's law of the minimum in action. Woody perennials, particularly *[[prunus-africana]]*,
+Liebig's [[law-of-the-minimum]] in action. Woody perennials, particularly *[[prunus-africana]]*,
 play a critical role in preventing soil acidification by cycling deep minerals to the
 surface and buffering pH through [[root-exudates]] and leaf litter. This cascading approach
 — addressing one limiting factor only to reveal the next — embodies the iterative,
@@ -100,7 +100,7 @@ Tree selection significantly affects purification efficiency. Willows outperform
 eucalypts by a factor of ten in stream purification, due to their faster growth, higher
 nutrient uptake, more active root-zone biology, and deciduous leaf-fall that feeds
 aquatic decomposers. Deep, well-structured soils also provide critical water
-purification through physical filtration and biological processing — a function that
+purification through physical [[sand-filtration-and-biological-water-treatment]] processing — a function that
 septic tank systems partially replicate in a decentralised form, returning treated
 effluent to the soil profile rather than discharging it to waterways.
 
@@ -123,7 +123,7 @@ application of the biological services principle.
 ## Environmental Technology: Natural vs Engineered Solutions
 
 Permaculture design favours biological solutions over engineered ones wherever
-possible. Dams and constructed wetlands effectively purify stormwater through
+possible. Dams and [[comparison-constructed-wetlands-vs-bioswales]] effectively purify stormwater through
 sedimentation and plant uptake, with cumbungi reeds being particularly effective at
 nutrient absorption while also providing habitat for wildlife.
 

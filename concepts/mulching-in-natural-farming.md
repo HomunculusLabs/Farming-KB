@@ -54,7 +54,7 @@ all rice and barley straw and hulls should be returned to
 the land. During his entire period of continuous no-tillage
 farming, he never saw any sign of yield decline due to
 reduced soil fertility. This sealed his conviction that
-straw mulch alone, combined with green manure cover crops,
+straw mulch alone, combined with [[green-manure-cover-crops]],
 could sustain high productivity indefinitely.
 
 ## Practical Tips for Mulching
@@ -67,7 +67,7 @@ could sustain high productivity indefinitely.
 
 ## Historical Context
 - These approaches have evolved through decades of research and practical application.
-- Traditional knowledge systems have contributed significantly to modern understanding.
+- [[wasted-human-resources-and-traditional-knowledge]] systems have contributed significantly to modern understanding.
 - Scientific inquiry has progressively validated and refined historical practices.
 
 ## Mechanisms and Processes
@@ -127,7 +127,7 @@ Economic sustainability balances environmental and social needs.
 ## Research and Development
 
 Ongoing research continues to expand understanding of
-mulching in natural farming and its applications. Active investigation
+mulching in [[korean-natural-farming-and-jadam]] its applications. Active investigation
 areas include ecological interactions and optimization.
 Published findings contribute to an evolving evidence base.
 

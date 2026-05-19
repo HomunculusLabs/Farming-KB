@@ -1,5 +1,5 @@
 ---
-title: Natural Farming in Temperate Climates
+title: Natural Farming [[query-how-to-grow-and-use-oca-in-temperate-climates]]
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
@@ -25,7 +25,7 @@ from biology, ecology, chemistry, and practical experience. A thorough
 understanding requires engagement with both the theoretical foundations
 and the accumulated wisdom of hands-on practice in the field.
 
-Historical development of knowledge in this area has been gradual and
+[[historical-development-of-mushroom-cultivation]] knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
 traditional knowledge combined with contemporary scientific methods.
@@ -72,7 +72,7 @@ desired outcomes rather than rigid adherence to any single approach.
 
 ## Overview
 
-Fukuoka Natural Farming Temperate Climates represents an important element within sustainable
+[[fukuoka-natural-farming]] Temperate Climates represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

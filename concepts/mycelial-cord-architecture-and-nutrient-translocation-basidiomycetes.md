@@ -1,5 +1,5 @@
 ---
-title: "Mycelial Cord Network Architecture and dighton-fungal-nutrient-translocation-element-redistribution in Basidiomycetes"
+title: "[[mycelial-cord-network-topology-graph-theory-bebber]] Architecture and dighton-fungal-nutrient-translocation-element-redistribution in Basidiomycetes"
 tags:
   - mycology
   - basidiomycetes
@@ -23,7 +23,7 @@ type: concept
 
 ### FRAP and FLIP Techniques
 
-**Fluorescence Recovery After Photobleaching (FRAP)** and **Fluorescence Loss In Photobleaching (FLIP)** have been instrumental in characterizing vacuolar transport. In FRAP experiments using Oregon Green 488 carboxylic acid diacetate, a region of the vacuolar network is bleached and the rate of fluorescence recovery is monitored. This yields a **vacuolar diffusion coefficient (Dv)** that quantifies how rapidly solutes can move through the vacuolar lumen. FLIP complements FRAP by repeatedly bleaching a single region and observing fluorescence loss in connected compartments, thereby mapping connectivity and identifying whether vacuolar compartments are in open communication.
+**[[fluorescence-recovery-after-photobleaching]] (FRAP)** and **Fluorescence Loss In Photobleaching (FLIP)** have been instrumental in characterizing vacuolar transport. In FRAP experiments using Oregon Green 488 carboxylic acid diacetate, a region of the vacuolar network is bleached and the rate of fluorescence recovery is monitored. This yields a **vacuolar diffusion coefficient (Dv)** that quantifies how rapidly solutes can move through the vacuolar lumen. FLIP complements FRAP by repeatedly bleaching a single region and observing fluorescence loss in connected compartments, thereby mapping connectivity and identifying whether vacuolar compartments are in open communication.
 
 Together, these techniques have demonstrated that the tubular vacuole forms a continuous system spanning multiple hyphal compartments, with diffusion coefficients indicating rapid solute exchange over centimeter-scale distances within individual cords.
 
@@ -40,7 +40,7 @@ Beyond these diffusion-limited distances, additional mechanisms must operate —
 
 ## Diffusion Versus Mass Flow Debate
 
-The relative contributions of diffusion and mass flow have been debated for decades in mycology. Mass flow, analogous to [[xylem-and-phloem-transport-systems-in-plants]] in plants, would involve the generation of turgor pressure gradients along the mycelium to drive bulk fluid movement from source regions (where osmolytes are loaded) to sink regions (where osmolytes are unloaded). Evidence for mass flow includes the observation that translocation rates in cord-forming fungi are orders of magnitude faster than predicted by diffusion alone, and that translocation can occur against concentration gradients under certain conditions.
+The relative contributions of diffusion and mass flow have been debated for decades in mycology. Mass flow, analogous to [[xylem-and-phloem-transport-systems-in-plants]] in plants, would involve the generation of turgor pressure gradients along the mycelium to drive bulk fluid movement from source regions (where osmolytes are loaded) to sink regions (where osmolytes are unloaded). Evidence for mass flow includes the observation that translocation rates in cord-forming fungi are [[event-classification-and-orders-of-magnitude]] faster than predicted by diffusion alone, and that translocation can occur against concentration gradients under certain conditions.
 
 The mass flow hypothesis is supported by measurements showing that water uptake and transpiration can create significant pressure differentials across [[mycelial-networks]], particularly in cords that bridge moist and dry substrates. Furthermore, the anatomical differentiation of cords into vessel-like conducting hyphae is consistent with a function in bulk flow.
 

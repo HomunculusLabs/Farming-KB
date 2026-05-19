@@ -5,7 +5,7 @@ related_topics:
   - "photoperiodism"
   - "short-day-and-long-day-plant-classification"
   - "porphyrin-chemistry-heme-chlorophyll-b12"
-  - "phytochrome ecological function dusk dawn red far red light switch"
+  - "phytochrome ecological function dusk dawn [[phytochrome-red-far-red-light-switch]]"
 tags: [phytochrome, photoreceptor, red-light, far-red-light, photoperiodism, flowering, shade-detection]
 ---
 
@@ -65,7 +65,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Phytochrome Ecological Function Dusk Dawn Red Far Red Light Switch finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -94,7 +94,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 phytochrome ecological function dusk dawn red far red light switch and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -1,5 +1,5 @@
 ---
-title: Yellow Metabolite Excretion Mycelial Stress Indicator Grain Spawn
+title: Yellow [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] Mycelial Stress Indicator Grain Spawn
 source: guid-mhtml_file___e___textos__mycology__exotic_.md
 topics: [mycelial metabolites, stress indicator, grain spawn, over-incubation, [[grass-seed-cultivation-of-psilocybe-mushrooms]] guide for *Psilocybe* species includes an important
 diagnostic observation: "When jars are incubated too long or at too high a temperature
@@ -50,7 +50,7 @@ Low-level bacterial or mold contamination, even if not immediately visible:
 
 ### Substrate Issues
 Problems with the [[grass-seed-substrate]] itself:
-- Excessive moisture leading to anaerobic conditions
+- Excessive moisture leading to [[aact-ph-and-anaerobic-conditions]]
 - Insufficient moisture causing osmotic stress
 - pH imbalances affecting enzyme function
 - Presence of inhibitors (fungicide residue, excessive minerals)
@@ -94,7 +94,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Yellow Metabolite Excretion Mycelial Stress Indicator Grain Spawn finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

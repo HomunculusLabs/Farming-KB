@@ -76,7 +76,7 @@ Freshly picked mushrooms retain potency for years if properly dried. Air-drying 
 
 ## Dosage and Consumption
 
-A typical dose of dried *P. cubensis* is 4 to 6 mushrooms. Each dry gram contains approximately 2 mg of the active alkaloids (psilocybin and psilocin). Both the stem and cap contain similar concentrations.
+A typical dose of dried *P. cubensis* is 4 to 6 mushrooms. Each dry gram contains approximately 2 mg of the active alkaloids ([[hplc-analysis-of-psilocybin-and-psilocin]]). Both the stem and cap contain similar concentrations.
 
 For reference, indigenous Mexican practitioners regularly consume 30 to 40 *P. cubensis* per ceremony, experiencing detailed and colorful visions throughout the night. Increasing dosage intensifies the experience rather than prolonging it.
 
@@ -88,7 +88,7 @@ Psilocybin mushrooms are illegal. In Louisiana at the time of the original publi
 
 Accurate identification requires examining multiple morphological
 features including cap shape, gill structure, spore print color,
-and habitat. Microscopic examination of spores provides definitive
+and habitat. [[fungal-microscopic-examination-mounting-media-techniques]] of spores provides definitive
 identification for many closely related species.
 
 ## See Also
@@ -103,7 +103,7 @@ Practitioners have demonstrated successful implementation across varied climates
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores intersections between traditional knowledge and modern scientific understanding.
+Current research explores intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 

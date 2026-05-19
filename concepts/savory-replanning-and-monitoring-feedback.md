@@ -18,7 +18,7 @@ necessary. Savory illustrates this with a driving analogy: just as a driver must
 constantly monitor the road ahead and adjust the steering wheel, a land manager
 must continuously observe conditions and correct course.
 
-The cycle operates at three levels within the model: strategic planning sets
+The cycle operates at three levels within the model: [[permaculture-designers-manual-strategic-planning]] sets
 the long-term direction, tactical planning addresses the annual or seasonal
 work, and operational planning guides daily actions. At each level, monitoring
 provides the feedback that triggers either minor course corrections or
@@ -47,7 +47,7 @@ Droughts creep up on people, and many consider them acts of God rather than
 occasions for timely replanning. Savory argues that each [[savory-fencing-economics-and-stock-density-curve]] and [[savory-animal-impact-and-herd-effect]] while extending recovery periods. A
 dramatic example shows four separate herds on a six-thousand-acre ranch
 combined into a single herd of 1,450 animals across thirty-eight paddocks.
-Grazing periods fell from an average of 7.4 days to 3.5 days, while recovery
+[[savory-recovery-and-grazing-periods]] fell from an average of 7.4 days to 3.5 days, while recovery
 periods extended to 130 days. The average animal days per acre remained the
 same, but higher impact, longer recovery, and shorter grazing periods without
 overgrazing led to considerably more forage growth on whatever rain was
@@ -68,7 +68,7 @@ usually necessary to replan finances from scratch. Having formed goals as a
 collaborative team provides considerable advantage, as the creativity and
 sacrifice of all involved may be necessary to survive.
 
-If the bottom line does not work after financial planning, the manager must
+If the bottom line does not work after [[homestead-financial-planning]], the manager must
 replan immediately from the beginning and continue until the profit picture
 meets expectations. This may require multiple replanning sessions. Modern
 computers have made this far more efficient, but Savory cautions that the first

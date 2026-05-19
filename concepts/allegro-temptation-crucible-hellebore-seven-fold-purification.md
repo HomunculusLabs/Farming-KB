@@ -9,7 +9,7 @@ type: concept
 In [[john-allegro]]'s philological analysis of the New Testament and related texts,
 the common Christian petition "lead us not into temptation" conceals a far more
 technical and concrete meaning rooted in Semitic metallurgy and the actual
-physiological ordeal of consuming psychoactive fungi. The Greek *peirasmos*
+physiological ordeal of consuming [[allen-new-zealand-psychoactive-fungi]]. The Greek *peirasmos*
 (temptation/trial) translates a Semitic term denoting a refiner's crucible —
 the very furnace in which metals are tested and purified. This crucible metaphor
 becomes literal when the substance being "tested" is the initiate's own body and
@@ -87,7 +87,7 @@ Factors for scaling operations effectively. For allegro temptation crucible hell
 
 ## Monitoring Protocols
 
-Systematic observation and data collection methods. For allegro temptation crucible hellebore seven fold p, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
+Systematic observation and data [[biodiversity-of-fungi-freshwater-survey-collection-methods]]. For allegro temptation crucible hellebore seven fold p, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
 
 ## Resource Requirements
 
@@ -112,7 +112,7 @@ yielding *'asya*, "physician" — a further connection to the Essenes as a
 healing sect whose name likely derives from the same root.
 
 The [[powell-shamanic-wisdom-and-ritual-practice]]
-rooted in the Amanita muscaria mushroom. The crucible was not figurative. The
+rooted in [[allegro-colour-and-consistency-of-the-amanita-muscaria]] mushroom. The crucible was not figurative. The
 purification was not symbolic. The temptation was the mushroom itself.
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.

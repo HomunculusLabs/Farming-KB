@@ -84,11 +84,11 @@ Winter squash (Cucurbita species) are warm-season vining crops harvested at matu
 ### Watering
 - 1-2 inches per week.
 - Critical during flowering and fruit development.
-- Drip irrigation ideal; avoid wetting foliage (powdery mildew).
+- Drip irrigation ideal; avoid wetting foliage ([[cervantes-powdery-mildew-prevention-treatment]]).
 - Mulch heavily to conserve moisture.
 
 ### Fertilizing
-- Heavy feeder: side-dress with compost or balanced organic fertilizer when vines begin to run.
+- Heavy feeder: side-dress with compost or balanced [[complete-organic-fertilizer]] when vines begin to run.
 - Additional side-dress when fruits begin to set.
 - Too much nitrogen = lush vines, few fruits.
 
@@ -98,7 +98,7 @@ Winter squash (Cucurbita species) are warm-season vining crops harvested at matu
 |------|--------|---------|
 | Squash bugs | Suck sap, wilt and kill plants | Hand-pick eggs (bronze clusters under leaves), neem oil, row covers early |
 | Squash vine borer | Larvae bore into stem, wilt plant | Row covers until flowering, slit stem and remove larva, Bt, wrap stem bases with foil |
-| Cucumber beetles | Strip leaves, spread bacterial wilt | Row covers, kaolin clay, beneficial insects |
+| Cucumber beetles | Strip leaves, spread bacterial wilt | Row covers, kaolin clay, [[beneficial-insects-and-biological-pest-control]] |
 | Powdery mildew | White coating on leaves, reduces yield | Good airflow, neem oil, potassium bicarbonate spray, resistant varieties |
 
 ### Pollination

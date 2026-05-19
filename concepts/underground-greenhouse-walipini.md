@@ -1,5 +1,5 @@
 ---
-title: Underground Greenhouse (Walipini)
+title: [[walipini-underground-greenhouse]] (Walipini)
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Underground Greenhouse (Walipini)
 
-A walipini (from the Aymara word for "place of warmth") is an underground or earth-sheltered greenhouse that uses the earth's thermal mass to maintain stable growing temperatures year-round. By digging the growing area into the ground and covering it with a glazed roof, the walipini harnesses passive solar heating combined with geothermal insulation to grow food through winter in climates that would otherwise be too cold for outdoor production.
+A walipini (from the Aymara word for "place of warmth") is an underground or earth-sheltered greenhouse that uses the earth's thermal mass to maintain stable growing temperatures year-round. By digging the growing area into the ground and covering it with a glazed roof, the walipini harnesses [[mollison-designers-passive-solar-heating-building-design]] combined with geothermal insulation to grow food through winter in climates that would otherwise be too cold for outdoor production.
 
 ## How It Works
 
@@ -100,7 +100,7 @@ Water is the enemy of underground structures. Install drainage before building a
 
 ### 4. Build the Walls
 
-- **Back wall (north):** Build from stone, concrete block, rammed earth, or poured concrete. This wall should be thick and massive for thermal storage.
+- **Back wall (north):** Build from stone, concrete block, rammed earth, or poured concrete. This wall should be thick and massive for [[coleman-soil-heat-mass-passive-thermal-storage]].
 - **Side walls:** Continue the excavation walls with retained earth, stone, or concrete block. These should also be massive.
 - **Front wall (south):** Build from concrete block, stone, or timber. This wall is low and supports the glazing.
 - **Waterproofing:** Apply waterproof coating or membrane to the outside of all below-grade walls.

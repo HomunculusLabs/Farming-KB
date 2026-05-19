@@ -1,5 +1,5 @@
 ---
-title: Gottlieb Psychoactive Cacti San Pedro And Peruvian Torch
+title: Gottlieb [[peyote-and-psychoactive-cacti]] San Pedro And Peruvian Torch
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -102,7 +102,7 @@ Regional variations, seasonal changes, and local ecosystem conditions all play s
 ## Implementation Guidelines
 
 Step-by-step implementation approach and recommended practices. Success with gottlieb psychoactive cacti pedro peruvian torch depends on systematic evaluation of local conditions and careful planning. Experienced practitioners recommend starting small and expanding based on documented results. Regular assessment allows for timely adjustments and prevents compounding errors.
-Key metrics include growth rates, resource efficiency, and outcome quality. Document baseline conditions before beginning and track changes systematically throughout the process for evidence-based optimization.
+Key metrics include growth rates, [[permaculture-energy-cycling-and-resource-efficiency]], and outcome quality. Document baseline conditions before beginning and [[track-changes]] systematically throughout the process for evidence-based optimization.
 
 ## Quality Indicators
 

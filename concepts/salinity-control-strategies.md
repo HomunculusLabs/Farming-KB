@@ -1,5 +1,5 @@
 ---
-title: Salinity Control Strategies for Drylands
+title: [[salinity-control-strategies-and-cold-montane-deserts]] for Drylands
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -24,7 +24,7 @@ Interceptor drains at midslope and on lowlands capture overland flow and shallow
 - *[[eucalyptus-sideroxylon]]* (ironbark) — dryland conditions
 - *[[eucalyptus-wandoo]]* — specific dryland adaptation
 - *[[eucalyptus-globulus]]* (blue gum) — cool, wet areas
-- *Casuarina cunninghamii* — combined with *E. camaldulensis* for surplus wastewater in lowlands
+- *[[casuarina-cunninghamii]]* — combined with *E. camaldulensis* for surplus wastewater in lowlands
 
 Natural tea-tree vegetation in swampy valleys (*Leptospermum*, *Melaleuca*, *Banksia*) is killed by salt but can re-establish if uphill water effects are controlled.
 
@@ -77,7 +77,7 @@ Salt-tolerant plants can supplant affected crops as a transitional or complement
 | Wimmera rye grass (*Lolium rigidum*) | Grass |
 | Samphire (*Crithmum*, *Salicornia*) | Herb |
 | Buckthorn plantain (*Plantago cornopus*) | Herb (indicator species) |
-| Sea barley grass (*Hordeum maritimum*) | Grass (indicator species) |
+| Sea barley grass (*[[hordeum-maritimum]]*) | Grass (indicator species) |
 
 Plants in this group will thrive in soils with more than 0.4% sodium chloride. However, over-reliance on salt tolerance can delay investigation into root causes and treatments. Salt-tolerant planting should complement, not replace, earthworks and hydrological correction.
 

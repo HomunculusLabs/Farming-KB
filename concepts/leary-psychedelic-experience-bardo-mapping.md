@@ -1,5 +1,5 @@
 ---
-title: Leary Psychedelic Experience Bardo Mapping
+title: Leary [[psychedelic-experience-bardo-framework]] Mapping
 created: 2026-04-28
 tags: [bardo, tibetan-book-of-the-dead, leary, ego-death, psychedelic]
 date: 2026-04-25
@@ -87,12 +87,12 @@ identify opportunities for implementation in their own contexts.
 
 Integration with other systems and approaches often yields the most
 ## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+The principles discussed here have direct applications in agricultural systems, [[mycorrhizal-fungi-ecological-restoration]], and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

@@ -13,7 +13,7 @@ separation of phototropic bending (driven by [[cannabis-vegetative-growth-stage]
 output meant no seed for future crops.
 
 In 1918, Wightman W. Garner and Harry A. Allard at the US Department of
-Agriculture solved the mystery. They planted Maryland Mammoth in pots and
+Agriculture solved the mystery. They planted [[chamovitz-maryland-mammoth-photoperiodism-discovery]] in pots and
 subjected one group to artificially shortened days by moving them into a
 dark shed each afternoon. The shortened-day group flowered normally,
 while plants left in the field continued growing vegetatively through the
@@ -78,7 +78,7 @@ uncertainty and improve the resilience of implementations over time.
 ## Overview
 
 Plant Vision And Phototropism represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 plant vision and phototropism and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -17,7 +17,7 @@ Phosphorus is often the most limiting nutrient in terrestrial ecosystems. Fungi 
 - **Organic P**: 30-80% of total soil P. Found in DNA, RNA, phospholipids, phytate
 - **Inorganic P**: 20-70% of total soil P. Found as phosphate minerals (apatite, iron/aluminum phosphates)
 - **Available P**: Only 0.1-1% of total P is in plant-available form (orthophosphate, H2PO4- and HPO4 2-)
-- **P fixation**: In acidic soils, P binds to iron and aluminum oxides. In alkaline soils, P precipitates as calcium phosphate
+- **P fixation**: In acidic soils, P binds to iron and aluminum oxides. In alkaline soils, P precipitates as [[bionutrients-lab-calcium-phosphate-calamansi]]
 
 ### The Problem
 - Plants can only absorb free orthophosphate ions from soil solution
@@ -96,7 +96,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

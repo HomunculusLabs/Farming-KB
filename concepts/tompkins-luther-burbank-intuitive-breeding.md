@@ -89,12 +89,12 @@ intelligence he perceived in plants: "Plants are like people in many
 - [[fukuoka-textdoc-intuitive-reasoning-beyond-induction-deduction]]
 - [[tompkins-cleve-backster-primary-perception]]
 ## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+The principles discussed here have direct applications in agricultural systems, [[mycorrhizal-fungi-ecological-restoration]], and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

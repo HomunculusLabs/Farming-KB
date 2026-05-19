@@ -1,5 +1,5 @@
 ---
-title: Angel of Death — Poisonous Mushroom Identification and Toxinology
+title: Angel of Death — [[poisonous-mushroom-identification-myths]] and Toxinology
 source: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 author: Nicholas P. Money
 topics: mycology, toxicology, amatoxins, mushroom poisoning, death cap, identification
@@ -35,7 +35,7 @@ II. This enzyme is essential for transcription, the process by which DNA
 is copied into messenger RNA. By blocking transcription in liver cells,
 amatoxins halt protein synthesis and cause progressive liver failure.
 
-The insidious nature of amatoxin poisoning lies in its long latency
+The insidious nature of [[bloomfield-amatoxin-poisoning-mechanism]] lies in its long latency
 period. After ingestion, symptoms may not appear for 6 to 12 hours, and
 when they do, they initially resemble ordinary food poisoning — nausea,
 vomiting, abdominal cramps, and diarrhea. This apparent recovery, known
@@ -86,7 +86,7 @@ and changes in mood and cognition. While rarely dangerous physically,
 the psychological effects can be overwhelming, particularly at high
 doses, and the primary risk lies in [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] volvacea in
 tropical regions, and can be confused with edible Agaricus species in
-temperate climates. The destroying angel resembles numerous white
+[[fukuoka-natural-farming-temperate-climates]]. The destroying angel resembles numerous white
 mushrooms that are harmless.
 
 No single field characteristic — color, shape, size, habitat, odor —

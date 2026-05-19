@@ -53,7 +53,7 @@ rice paddies through the accumulation of [[fukuoka-natural-farming]]
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers
 continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+adapting [[wasted-human-resources-and-traditional-knowledge]] to contemporary challenges and opportunities.
 
 ## Key Considerations
 
@@ -64,7 +64,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
@@ -104,7 +104,7 @@ Regional variations, seasonal changes, and local ecosystem conditions all play s
 ## Implementation Guidelines
 
 Step-by-step implementation approach and recommended practices. Success with fukuoka traditional paddy construction depends on systematic evaluation of local conditions and careful planning. Experienced practitioners recommend starting small and expanding based on documented results. Regular assessment allows for timely adjustments and prevents compounding errors.
-Key metrics include growth rates, resource efficiency, and outcome quality. Document baseline conditions before beginning and track changes systematically throughout the process for evidence-based optimization.
+Key metrics include growth rates, [[permaculture-energy-cycling-and-resource-efficiency]], and outcome quality. Document baseline conditions before beginning and track changes systematically throughout the process for evidence-based optimization.
 
 ## Quality Indicators
 

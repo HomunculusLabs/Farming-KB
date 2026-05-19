@@ -16,7 +16,7 @@ Upon discovery of the unique properties of hallucinogenic agents during the 1950
 
 ## Why Psilocybin Was Preferred Over LSD
 
-H. Leuner considered psilocybin the **most effective alkaloid** for psychotherapeutic use, even after the development of substituted phenethylamines like MDMA. Advantages of psilocybin:
+H. Leuner considered psilocybin the **most effective alkaloid** for psychotherapeutic use, even after the development of [[pihkal-beta-substituted-phenethylamines]] like MDMA. Advantages of psilocybin:
 
 1. **Extremely low toxicity** — LD₅₀ in mice: 280 mg/kg; human effective dose: 0.02 mg/kg. Safety margin of several hundred times
 2. **Precise dosing** — dosages below 10 mg can be measured accurately; effects within this range are both therapeutically efficient and controllable
@@ -41,7 +41,7 @@ Dosage equivalence: **10 mg psilocybin ≈ 100 µg LSD** (within a specific low 
 
 - **High doses** administered in **fewer sessions**
 - Maximizes emergence of transpersonal states of consciousness
-- Often resembles mystical experiences
+- Often resembles [[psilocybin-mystical-experiences-personality-change]]
 - Particularly effective for terminal patients facing death anxiety
 - Stereo music significantly deepens the intensity
 
@@ -133,7 +133,7 @@ The Swiss Medical Society for Psycholytic Therapy succeeded in re-legitimizing h
 - Legal psycholytic therapy continued until 1993
 - Efforts to renew the permit were underway at time of publication
 
-Gartz argued that psilocybin is likely to stand out as the **most valuable, beneficial, and least risky** substance for therapeutic applications as research resumes.
+Gartz argued that psilocybin is likely to stand out as the **most valuable, beneficial, and least risky** substance for [[psilocybin-therapeutic-applications]] as research resumes.
 
 ## Key Insight: Non-Addictive Nature
 

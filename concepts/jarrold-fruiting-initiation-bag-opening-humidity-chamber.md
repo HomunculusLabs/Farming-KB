@@ -1,5 +1,5 @@
 ---
-title: Jarrold Fruiting Initiation Bag Opening Humidity Chamber
+title: Jarrold Fruiting Initiation Bag Opening [[aquarium-humidity-chamber-mushroom-fruiting]]
 source: "Jarrold - Indoor Mushroom Growing Technique for the Boil-A-Bag"
 tags: [mushroom, fruiting, humidity-chamber, pinning, bag-opening, jarrold, boil-a-bag]
 created: 2026-05-10
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Jarrold Fruiting Initiation Bag Opening Humidity Chamber finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -131,7 +131,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 jarrold fruiting initiation bag opening humidity chamber and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

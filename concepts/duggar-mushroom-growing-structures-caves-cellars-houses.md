@@ -1,5 +1,5 @@
 ---
-title: "Mushroom Growing Structures: Caves, Cellars, Houses, and Open-Air Culture"
+title: "[[duggar-mushroom-growing-history-and-methods]] Structures: Caves, Cellars, Houses, and Open-Air Culture"
 source: "Duggar, B.M. (1915). *Mushroom Growing*. Macmillan."
 topics:
   - mushroom-growing
@@ -83,7 +83,7 @@ well-suited to mushroom growing because they naturally maintain uniform
 ### English Practice
 
 In Southern England, winter temperature extremes are moderate enough to
-permit outdoor mushroom culture in modified hot beds or cold frames. Simple
+permit [[cotter-outdoor-mushroom-garden-mulch-beds]] culture in modified hot beds or cold frames. Simple
 culture frames of the usual type are employed, except that glass is omitted
 — the beds are covered instead with sheet iron or boards, with straw added
 for additional insulation when necessary. Fresh manure placed beneath the
@@ -104,7 +104,7 @@ winter months, suggesting natural suitability.
 
 The ideal mean temperature for mushroom growing is rather below than above
 the optimal range, at approximately 48 to 56 degrees Fahrenheit. This
-preference for cooler conditions makes winter the primary growing season
+preference for cooler conditions makes winter the primary [[extending-growing-season]]
 and informs the design of all mushroom structures, from heated houses to
 insulated caves. Open-air beds must be carefully protected from drenching
 rains that could flood beds and lower temperatures below productive levels.

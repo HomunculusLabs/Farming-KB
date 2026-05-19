@@ -1,5 +1,5 @@
 ---
-title: Jivaro Bewitching and Tsentsak Magical Darts
+title: [[jivaro-bewitching-and-curing-shamanic-practices]] Tsentsak Magical Darts
 source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
@@ -97,11 +97,11 @@ The shaman's dependence on natem is absolute. It is required not only for bewitc
 
 While natem opens the door to the supernatural world, tobacco juice (*[[nicotiana-rustica]]*) serves as the shaman's constant companion. Green tobacco juice is consumed throughout the day and night to keep tsentsak "fed" and alert. Although not truly hallucinogenic, tobacco juice produces a narcotized state that is believed necessary to maintain one's magical darts in a state of readiness to repel enemy attacks.
 
-A shaman does not dare go for a walk without carrying green tobacco leaves. The juice enables regurgitation of tsentsak for both offensive (bewitching) and defensive purposes. In conjunction with natem and piripiri, tobacco juice forms a triad of psychoactive substances essential to the Jivaro shaman's pharmacopoeia.
+A shaman does not dare go for a walk without carrying green tobacco leaves. The juice enables regurgitation of tsentsak for both offensive (bewitching) and defensive purposes. In conjunction with natem and piripiri, tobacco juice forms a triad of [[cultural-evolution-and-psychoactive-substances]] essential to the Jivaro shaman's pharmacopoeia.
 
 ## Comparison with Other Amazonian Sorcery Systems
 
-The Jivaro tsentsak system shares features with other Amazonian shamanic traditions while remaining distinctive. Like the ayahuasca-using traditions of Peru and Brazil, the Jivaro employ plant hallucinogens to perceive and interact with a hidden supernatural reality. However, the Jivaro system is notably more individualistic and adversarial — their shamanism centers on a framework of attack and defense between individual practitioners rather than communal healing or worship.
+The Jivaro tsentsak system shares features with other [[amazonian-shamanic-battles-and-defensive-powers]] traditions while remaining distinctive. Like the ayahuasca-using traditions of Peru and Brazil, the Jivaro employ plant hallucinogens to perceive and interact with a hidden supernatural reality. However, the Jivaro system is notably more individualistic and adversarial — their shamanism centers on a framework of attack and defense between individual practitioners rather than communal healing or worship.
 
 The concept of magical projectiles is widespread in South American and global shamanic traditions, but the Jivaro elaboration — with its detailed taxonomy of dart types, its spirit helper hierarchy (pasuk and wakani birds), its elaborate rules of engagement, and its power-testing rituals — represents one of the most fully developed sorcery systems documented in the ethnographic literature.
 

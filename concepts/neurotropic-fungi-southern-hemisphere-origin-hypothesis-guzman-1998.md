@@ -1,5 +1,5 @@
 ---
-title: Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
+title: [[psilocybe-southern-hemisphere-origin-hypothesis]] for Neurotropic Fungi
 created: 2026-05-11
 updated: 2026-05-11
 sources:
@@ -22,9 +22,9 @@ Mexico holds the highest number of neurotropic fungal species of any country, wi
 
 ## Habitat Correlation: Subtropical Humid Forests
 
-The distribution of Psilocybe species correlates strongly with subtropical humid forests, mesophytic forests, and cloud forests. These habitat types are far more extensive and continuous in the neotropics than in temperate regions. In Mexico specifically, of 42 neurotropic Psilocybe species reported in Guzmán's 1983 monograph, 34 were found in mesophytic forests, 4 in tropical forests, and only 4 in coniferous forests, despite the coniferous forests receiving more mycological attention.
+The [[geographic-distribution-of-psilocybe-species]] correlates strongly with subtropical humid forests, mesophytic forests, and cloud forests. These habitat types are far more extensive and continuous in the neotropics than in temperate regions. In Mexico specifically, of 42 neurotropic Psilocybe species reported in Guzmán's 1983 monograph, 34 were found in mesophytic forests, 4 in tropical forests, and only 4 in coniferous forests, despite the coniferous forests receiving more mycological attention.
 
-The mesophytic forests of Mexico serve as a critical bridge between northern and southern mycobiotas. Northern species such as Psilocybe caerulipes, common in the deciduous forests of eastern North America, reach northeastern Mexico (Zacualtipan, Hidalgo) through the same vegetation type. Southern species such as P. yungensis and P. subyungensis, common in South America, reach Mexico through mesophytic forests associated with Alnus. Mexico thus represents a zone of conjugation between both northern and southern mycobiotas.
+The mesophytic forests of Mexico serve as a critical bridge between northern and southern mycobiotas. Northern species such as Psilocybe caerulipes, common in the deciduous forests of [[polypore-fungi-eastern-north-america]], reach northeastern Mexico (Zacualtipan, Hidalgo) through the same vegetation type. Southern species such as P. yungensis and P. subyungensis, common in South America, reach Mexico through mesophytic forests associated with Alnus. Mexico thus represents a zone of conjugation between both northern and southern mycobiotas.
 
 In South America, the majority of neurotropic Psilocybe species are associated with cloud forests and subtropical mountain forests along the Andes chain, from Colombia through Ecuador, Peru, and Bolivia. These environments provide the consistent humidity and moderate temperatures that favor the genus. The Andean corridor may have served as the primary dispersal route for northward migration.
 

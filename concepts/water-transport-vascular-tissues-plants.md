@@ -6,7 +6,7 @@ type: concept
 
 # Water Transport and Vascular Tissues in Plants
 
-Water is the most critical substance for plant survival, and plants have evolved remarkably elegant systems to capture, move, and utilize it. Understanding how water travels through a plant—from soil to leaf and back—requires familiarity with the two major vascular tissue systems: the **[[xylem]]** and the **[[phloem]]**. These tissues, along with specialized cellular pathways, form the plant's internal plumbing and nutrient distribution network. The properties of water itself—its polarity, hydrogen bonding capacity, cohesion, and adhesion—make all of this transport possible.
+Water is the most critical substance for plant survival, and plants have evolved remarkably elegant systems to capture, move, and utilize it. Understanding how water travels through a plant—from soil to leaf and back—requires familiarity with the two major vascular tissue systems: the **[[xylem]]** and the **[[phloem]]**. These tissues, along with specialized cellular pathways, form the plant's internal plumbing [[savory-dung-behavior-and-nutrient-distribution]] network. The properties of water itself—its polarity, hydrogen bonding capacity, cohesion, and adhesion—make all of this transport possible.
 
 ## Mechanisms of Water Entry into Plants
 
@@ -38,7 +38,7 @@ However, the apoplastic pathway encounters a dead end at the **[[casparian-strip
 
 In the **symplastic pathway**, water moves through the **cytosol**—the living interior of cells bounded by the plasmalemma on the outside and the tonoplast (vacuolar membrane) on the inside. Cells are connected to their neighbors by microscopic channels called **plasmodesmata**, which create a continuous cytoplasmic network throughout the plant.
 
-The density of plasmodesmata varies by cell function. A young barley root cell may have approximately 20,000 plasmodesmata. These channels range from 20 to 60 nanometers in width and come in several shapes: simple linear tunnels, H-shaped, and branched forms (the latter typically in mature plants). Inside each plasmodesma runs a **desmotubule**—a small tube connected to the [[endoplasmic-reticulum]] of both adjacent cells. The desmotubule may provide structural support and serve as an additional route for ion and large molecule transport.
+The density of plasmodesmata varies by cell function. A young barley root cell may have approximately 20,000 plasmodesmata. These channels range from 20 to 60 nanometers in width and come in several shapes: simple linear tunnels, H-shaped, and branched forms (the latter typically in mature plants). Inside each plasmodesma runs a **desmotubule**—a small tube connected to the [[endoplasmic-reticulum]] of both adjacent cells. The desmotubule may provide [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] and serve as an additional route for ion and large molecule transport.
 
 ### The Intercellular Pathway
 
@@ -88,7 +88,7 @@ Getting sugars into the phloem requires energy in a process called **phloem load
 - **Apoplastic loaders** (common in temperate herbaceous plants): Sugars move into the cell wall space, where hydrogen ions pumped out of the cell create a gradient that drives sucrose uptake into companion cells via transport proteins.
 - **Symplastic loaders** (common in tropical plants and most trees): Sugars pass directly into companion cells through abundant plasmodesmata, using specific transport proteins embedded in the companion cell membrane.
 
-The choice of loading pathway depends on multiple environmental factors. Most herbaceous plants in temperate regions use the apoplastic route, while most trees rely on symplastic loading. The type of sugar being transported also influences the pathway: sucrose typically travels the apoplastic route, while other sugar species use the symplastic pathway.
+The choice of loading pathway depends on multiple environmental factors. Most herbaceous plants in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] use the apoplastic route, while most trees rely on symplastic loading. The type of sugar being transported also influences the pathway: sucrose typically travels the apoplastic route, while other sugar species use the symplastic pathway.
 
 ### Source-to-Sink Flow
 

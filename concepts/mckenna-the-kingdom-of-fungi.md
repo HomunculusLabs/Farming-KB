@@ -72,7 +72,7 @@ ceremony in the ancient Greek world, conducted annually for nearly
 two thousand years. Participants reported profound transformative
 experiences that they were forbidden to describe. The secrecy
 surrounding the ceremony has preserved the mystery, but the
-pharmacological properties of ergot alkaloids — which include both
+[[lsd-discovery-aftermath-pharmacological-properties]] of ergot alkaloids — which include both
 psychedelic and entheogenic effects — make them plausible candidates
 for the kykeon's active component.
 
@@ -105,7 +105,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.
@@ -119,7 +119,7 @@ The principles discussed here have direct applications in agricultural systems, 
 
 ## Historical Context
 
-Historical development of mckenna the kingdom spans several decades of research.
+[[historical-development-of-mushroom-cultivation]] mckenna the kingdom spans several decades of research.
 Early experiments established foundational principles that continue to inform
 modern practices. The evolution of understanding has been marked by
 significant breakthroughs in methodology and application.

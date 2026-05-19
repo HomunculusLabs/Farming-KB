@@ -1,5 +1,5 @@
 ---
-title: Mescalero Apache Shamanism and Peyote Rejection
+title: [[mescalero-apache-shamanism-peyote]] and Peyote Rejection
 source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
@@ -12,7 +12,7 @@ The [[mescalero-apache]] of New Mexico present a unique and instructive case in 
 
 ## Historical Background
 
-The [[mescalero-indian-reservation]] was established in 1873. Its inhabitants include members of three Apache tribes, in descending order of numbers: Mescaleros, Chiricahuas, and Lipans. The Chiricahuas arrived as prisoners of war in 1886 after the capitulation of Geronimo and were freed in 1913. The Lipans, largely destroyed as functioning groups during the latter half of the nineteenth century, had their remaining members join the Mescaleros.
+The [[mescalero-indian-reservation]] was established in 1873. Its inhabitants include members of three Apache tribes, in descending order of numbers: Mescaleros, Chiricahuas, and Lipans. The Chiricahuas arrived as prisoners of war in 1886 after the capitulation of Geronimo and were freed in 1913. The Lipans, largely destroyed as functioning groups during the latter half of the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], had their remaining members join the Mescaleros.
 
 Nineteenth-century sources indicate that peyote was used in religious rites by the Mescaleros as early as 1867, the Chiricahuas by 1875, and the Lipans by 1885. Despite this documented history, the Apaches were excluded from early maps of peyote distribution in the United States and were listed as non-users in Bureau of Indian Affairs publications — an oversight that reflects the peyote practices' eventual suppression and the resulting cultural amnesia.
 
@@ -140,7 +140,7 @@ This analysis suggests that the same pharmacological substance can produce drama
 The Mescalero case demonstrates that **pharmacology alone does not determine the social role of a hallucinogenic substance**. The same drug — peyote — that supported the development of the harmonious Native American Church among other tribes produced chaos and proscription among the Apache. The intervening variables are:
 
 1. **Pre-existing personality structure** shaped by distinctive socialization practices
-2. **Cultural framework** for interpreting and managing altered states of consciousness
+2. **Cultural framework** for interpreting and managing altered [[mckenna-food-gods-designer-states-of-consciousness]]
 3. **Social dynamics** of the shamanic system (competitive vs. collaborative)
 4. **Economic and political context** (reservation confinement, cultural deprivation)
 

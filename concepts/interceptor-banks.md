@@ -1,5 +1,5 @@
 ---
-title: "Interceptor Banks"
+title: "[[dryland-settlements-and-interceptor-banks]]"
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---

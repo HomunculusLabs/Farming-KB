@@ -121,11 +121,11 @@ Solomon provides detailed guidance on selecting seed companies, emphasizing:
 
 ### Recommended Companies
 
-- **Territorial Seed Company**: Solomon's own company (at the time of writing), running extensive variety trials in the Pacific Northwest
-- **Southern Exposure Seed Exchange (SESE)**: Specializes in OP and heirloom varieties adapted to the southeastern United States
+- **Territorial Seed Company**: Solomon's own company (at the time of writing), running extensive variety trials in the [[psilocybin-north-america-pacific-northwest]]
+- **Southern Exposure Seed Exchange (SESE)**: Specializes in OP [[cannabis-landrace-and-heirloom-varieties]] adapted to the southeastern United States
 - **Johnny's Selected Seeds**: Offers both OP and hybrid varieties with good germination standards
 - **Peace Seeds** (Alan Kapuler): Breeds unique OP varieties
-- **Kings Seeds**: New Zealand-based source for Southern Hemisphere gardeners
+- **Kings Seeds**: New Zealand-based source for [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] gardeners
 - **Ronniger's Potato Farm** (David Ronniger): Source for seed potatoes
 
 ### Importing Seeds

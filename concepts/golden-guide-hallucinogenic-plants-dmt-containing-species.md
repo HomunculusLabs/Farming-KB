@@ -10,7 +10,7 @@ tags: [dmt, plants, species]
 
 # DMT-Containing Species: Golden Guide
 
-The Golden Guide to Hallucinogenic Plants documents numerous species containing **N,N-dimethyltryptamine (DMT)** and related tryptamine alkaloids. These plants span diverse botanical families and are used in indigenous practices across the Americas, Africa, and Asia. The guide provides ethnobotanical context for each species and its [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]**, specifically a tryptamine derivative with two methyl groups on the terminal amine nitrogen. Key pharmacological properties noted in the guide:
+The Golden Guide to Hallucinogenic Plants documents numerous species containing **N,N-dimethyltryptamine (DMT)** and related tryptamine alkaloids. These plants span diverse botanical families and are used in indigenous practices across the Americas, Africa, and Asia. The guide provides [[new-world-hallucinogens-overview-and-ethnobotanical-context]] for each species and its [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]**, specifically a tryptamine derivative with two methyl groups on the terminal amine nitrogen. Key pharmacological properties noted in the guide:
 
 - DMT is active orally only when combined with **monoamine oxidase (MAO) inhibitors** -- typically beta-carboline alkaloids (harmine, harmaline) that block the enzyme responsible for breaking down DMT in the gut
 - This principle underlies **Ayahuasca**, the Amazonian brew combining DMT-containing leaves with beta-carboline-rich Banisteriopsis caapi bark
@@ -25,7 +25,7 @@ The Golden Guide to Hallucinogenic Plants documents numerous species containing 
 The guide devotes extensive coverage to **Ayahuasca** (also called caapi, yage, natema), the most widespread hallucinogenic preparation in South America:
 
 - **Banisteriopsis caapi** provides the beta-carboline alkaloids (harmine, harmaline, tetrahydroharmine) that inhibit MAO. The bark is the primary ingredient.
-- **Psychotria viridis** (chacruna) or **Diplopterys cabrerana** (chaliponga, formerly Banisteriopsis rusbyana) provide the DMT. The fresh or dried leaves are added to the brew.
+- **[[chacruna-psychotria-viridis]]** (chacruna) or **Diplopterys cabrerana** (chaliponga, formerly Banisteriopsis rusbyana) provide the DMT. The fresh or dried leaves are added to the brew.
 - Preparation involves pounding the bark, boiling it (sometimes with admixture plants) for hours, and reducing to a thick, bitter liquid
 - The guide documents use by over 70 tribes from the Orinoco basin of Venezuela to the Pacific coast of Colombia and Ecuador, south to Bolivia and east to the Brazilian Amazon
 - Indigenous uses include divination, diagnosis and treatment of illness, communication with spirits, sorcery, and recreation
@@ -71,7 +71,7 @@ The guide notes that MAO inhibition is not limited to Banisteriopsis caapi:
 
 ## Overview
 
-Golden Guide Hallucinogenic Plants Dmt Containing Species represents an important element within sustainable
+[[golden-guide-hallucinogenic-plants-overview]] Dmt Containing Species represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

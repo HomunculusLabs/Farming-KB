@@ -10,10 +10,10 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Jumpponen A, Trappe JM (1998). "Dark septate endophytes: a review of facultative biotrophic root-colonizing fungi." New Phytologist, 140(2), 295-310.
+  - Jumpponen A, Trappe JM (1998). "[[dark-septate-endophytes-and-non-mycorrhizal-fungal-symbioses]]: a review of facultative biotrophic root-colonizing fungi." New Phytologist, 140(2), 295-310.
   - Mandyam K, Jumpponen A (2005). "Seeking the elusive function of the root-colonising dark septate endophytic fungi." Studies in Mycology, 53, 173-189.
   - Addy HD, Piercey MM, Currah RS (2005). "Microfungal endophytes in roots." Canadian Journal of Botany, 83(1), 1-13.
-  - Knapp DG, Pintado A, Santos PM (2018). "Dual colonization of plants by arbuscular mycorrhizal fungi and dark septate endophytes." In Mycorrhizal Fungi, Springer.
+  - Knapp DG, Pintado A, Santos PM (2018). "Dual colonization of plants by [[arbuscular-mycorrhizal-fungi]] and dark septate endophytes." In Mycorrhizal Fungi, Springer.
 ---
 
 # Dark Septate Endophyte Function in Plant Stress Tolerance
@@ -82,7 +82,7 @@ Ectomycorrhizal hosts also harbor DSE, sometimes at high frequencies. In some bo
 
 ## Ecological Distribution and Host Range
 
-DSE are globally distributed but reach their highest diversity and colonization intensity in extreme environments. Arctic and alpine plant communities frequently show near-universal DSE colonization, with many plant species hosting multiple DSE taxa simultaneously.
+DSE are globally distributed but reach their highest diversity and colonization intensity [[fungal-biodiversity-in-extreme-environments]]. Arctic and alpine plant communities frequently show near-universal DSE colonization, with many plant species hosting multiple DSE taxa simultaneously.
 
 Semiarid and Mediterranean ecosystems also support diverse DSE communities. In these water-limited environments, the drought-mitigation function of DSE likely provides a significant fitness advantage to host plants.
 

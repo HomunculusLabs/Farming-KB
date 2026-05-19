@@ -12,8 +12,8 @@ One of the most surprising findings in [[plant-sensory-biology]], highlighted by
 Chamovitz in "What a Plant Knows," is that the location of light perception for
 photoperiodism (day-length measurement for flowering) is fundamentally different
 from the location of light perception for phototropism (directional bending
-toward light). Darwin's phototropism experiments established that the "eye" of
-the plant is at the shoot tip, but photoperiodic perception occurs in the leaves
+toward light). Darwin's [[darwin-phototropism-experiments-plant-light-sensing]] established that the "eye" of
+the plant is at the shoot tip, but [[leaf-based-photoperiodic-perception]] occurs in the leaves
 — a finding that contradicts the intuitive expectation derived from Darwin's
 work and reveals that plants possess multiple, anatomically distinct visual
 systems.
@@ -106,7 +106,7 @@ transported to the meristem to initiate the floral transition.
 The existence of two anatomically distinct light-sensing systems in the same
 organism raises the question of why plants evolved this architecture rather
 than a single, centralized visual system. The answer lies in the different
-functional requirements of phototropism and photoperiodism:
+functional requirements of [[plant-phototropism-and-photoperiodism]]:
 
 - Phototropism requires directional information (where is the light coming
   from?) and rapid response (bending within hours). A localized apical sensor

@@ -69,14 +69,14 @@ traditional lime-sulfur mixtures. It can be used for fungal [[cervantes-powdery-
 
 ## Integration with JADAM Microorganism Solution
 
-JNP is designed to work within the broader JADAM system. The Jadam Ultra Low Cost Microorganism Solution And Soil Foundation
+JNP is designed to work within the broader JADAM system. The Jadam Ultra Low Cost [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 (JMS) provides the biological foundation, while JNP handles active pest
 management. For foliar application, JMS should be diluted over 20 times
 and mixed with JWA (3 litres per 500 litres of water, or 0.8 gallons per
 
 ## Overview
 
-Ultra Low Cost Jadam Natural Pesticide Jnp represents an important element within sustainable
+Ultra Low Cost [[jadam-natural-pesticide-jnp]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -98,7 +98,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Ultra Low Cost Jadam Natural Pesticide Jnp finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

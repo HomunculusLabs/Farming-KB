@@ -1,12 +1,12 @@
 ---
-title: Carbon to Nitrogen Ratios
+title: [[carbon-to-nitrogen-ratio]] Ratios
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
 # Carbon to Nitrogen Ratios
 
-The carbon-to-nitrogen ratio (C:N ratio) is the single most important concept in [[composting]]. It determines whether your compost pile will heat up and decompose quickly into rich humus, or sit there as a stagnant, smelly mess for months. Understanding C:N ratios allows you to predict how any particular mixture of organic materials will behave in a compost pile and how well it will serve as fertilizer.
+The carbon-to-nitrogen ratio (C:N ratio) is the single most important concept in [[composting]]. It determines whether your compost pile will heat up and decompose quickly into rich humus, or sit there as a stagnant, smelly mess for months. Understanding C:N ratios allows you to predict how any particular mixture of organic materials will behave in [[query-how-to-build-a-compost-pile-that-works]] and how well it will serve as fertilizer.
 
 ## What C:N Ratio Means
 
@@ -107,7 +107,7 @@ Materials with very high C:N ratios (sawdust, wood chips, paper) will actually t
 
 ### Compost Quality and C:N
 
-The C:N ratio of the starting materials directly affects the nutritional quality of the finished compost:
+The C:N ratio of the starting materials directly affects the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of the finished compost:
 
 - Compost made from high-nitrogen materials will be richer in plant nutrients
 - Compost made from mostly leaves and straw will be lower in nutrients

@@ -24,7 +24,7 @@ The lysergic acid molecule consists of a tetracyclic core (the lysergic acid nuc
 
 ### Why Diethylamide?
 
-The choice of diethylamide was guided by structural analogy to known drugs. Nicotinic acid diethylamide (Coramine) was a well-known circulatory and respiratory stimulant (analeptic). Hofmann hypothesized that attaching a diethylamide group to lysergic acid might confer similar analeptic properties, given the structural similarity between the diethylamide portions of the two molecules.
+The choice of diethylamide was guided by structural analogy to known drugs. Nicotinic acid diethylamide (Coramine) was a well-known circulatory and respiratory stimulant (analeptic). Hofmann hypothesized that attaching a diethylamide group to lysergic acid might confer similar analeptic properties, given the [[serotonin-psilocin-structural-similarity-hallucinogenic-mechanism]] between the diethylamide portions of the two molecules.
 
 This reasoning was reasonable but ultimately incorrect: LSD does not have significant analeptic properties. Its extraordinary psychoactivity was entirely unexpected and would not be discovered for another five years.
 
@@ -42,7 +42,7 @@ The molecular weight is 323.4 g/mol. The compound is typically isolated as a tar
 
 The indole ring system in LSD is shared with serotonin (5-hydroxytryptamine, 5-HT), the neurotransmitter discovered in the 1940s. This structural similarity explains LSD's profound effects on the serotonergic system—it is an agonist (specifically a partial agonist) at 5-HT2A receptors, which are now known to be the primary mediators of psychedelic effects.
 
-The significance of this structural relationship was not understood until decades after LSD's discovery, when the serotonergic system was mapped and the receptor binding profiles of psychedelic drugs were determined.
+The significance of this structural relationship was not understood until decades after LSD's discovery, when the serotonergic system was mapped and the [[beta-glucan-receptor-binding]] profiles of psychedelic drugs were determined.
 
 ### Optical Activity
 
@@ -92,7 +92,7 @@ Hofmann later titled his autobiography "LSD — My Problem Child," reflecting hi
 
 - [[albert-hofmann-early-career-ergot-research-sandoz]] — The context of the synthesis
 - [[lsd-d-lysergic-acid-diethylamide]] — The 1943 rediscovery of LSD's psychoactivity
-- ergot alkaloids pharmacology and chemistry — The broader chemistry of ergot compounds
+- ergot alkaloids [[emcdda-psilocybin-pharmacology-and-chemistry]] — The broader chemistry of ergot compounds
 - [[serotonin-receptor-interference-psychedelic-mechanism]] — How LSD works at the molecular level
 ## Practical Applications
 The principles discussed here have direct applications across diverse ecological and agricultural contexts.

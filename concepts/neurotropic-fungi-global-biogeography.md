@@ -19,14 +19,14 @@ species are confined to temperate regions.
 
 **Mycorrhizal specialists**: *Amanita muscaria* grows in mycorrhizal association
 with *Pinus* and *Betula* in forests of the Northern Hemisphere (including
-Mexico), and has been introduced to pine plantations in tropical regions of
+Mexico), and has been introduced to pine plantations [[fukuoka-natural-farming-in-tropical-regions]] of
 Brazil, Colombia, Tanzania, Australia, and New Zealand.
 
 ## Cosmopolitan Species
 
 Some species cover a remarkably broad world distribution:
 - *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* and allies — broadly distributed in temperate grasslands
-- *Amanita muscaria* — circumboreal distribution, introduced to Southern Hemisphere
+- *Amanita muscaria* — circumboreal distribution, introduced to [[guzman-allen-gartz-northern-southern-hemisphere-mycobiota-convergence-mexico]]
 
 ## Geographic Knowledge Gaps
 
@@ -85,7 +85,7 @@ distribution should not be confused with natural occurrence.
 
 - [[neurotropic-fungi-taxonomic-classification]] — the four groups and species
   counts that underpin this distribution data
-- [[mexican-indigenous-neurotropic-fungi-use]] — ethnobotanical context for
+- [[mexican-indigenous-neurotropic-fungi-use]] — [[new-world-hallucinogens-overview-and-ethnobotanical-context]] for
   Mexico's role as center of diversity
 
 ## Source

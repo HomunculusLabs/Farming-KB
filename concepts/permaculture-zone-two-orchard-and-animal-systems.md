@@ -1,12 +1,12 @@
 ---
-title: Permaculture Zone Two Orchard and Animal Systems
+title: Permaculture [[zone-two-orchard-and-main-crops]] Animal Systems
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
 # Permaculture Zone Two: Orchard and Animal Systems
 
-Zone Two in [[permaculture-design]] represents the second concentric ring outward from the dwelling (Zone One). It is the area of less frequent but still significant management, typically visited once every few days rather than daily. Zone Two is where the primary productive systems of a [[permaculture]] site are concentrated — orchards, main crop gardens, and domestic animals that form the backbone of food production and nutrient cycling.
+Zone Two in [[permaculture-design]] represents the second concentric ring outward from the dwelling (Zone One). It is the area of less frequent but still significant management, typically visited once every few days rather than daily. Zone Two is where the primary productive systems of a [[permaculture]] site are concentrated — orchards, main crop gardens, and domestic animals that form the backbone of food production [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 
 ## Overview of Zone Two
 
@@ -105,7 +105,7 @@ Zone Two design is central to the economic argument for small-scale productive l
 
 - **The parsley man near Melbourne** who made a living on a small intensive plot, demonstrating that even very small acreages can be economically viable when managed with skill and intensity
 - Urban and suburban plots that produce the majority of a household's food needs through Zone One and Two systems alone
-- Small farms (1-10 acres) that achieve full economic viability through diversified Zone Two production including vegetables, fruits, eggs, and dairy
+- Small farms (1-10 acres) that achieve full [[economic-viability-water-retention-landscapes]] through diversified Zone Two production including vegetables, fruits, eggs, and dairy
 
 ## Fencing Specifications
 

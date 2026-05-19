@@ -1,5 +1,5 @@
 ---
-title: Cap Stem Alkaloid Distribution Psilocybe Cubensis Bigwood Beug
+title: [[cap-stem-alkaloid-distribution-psilocybe-cubensis-strains-detailed]] Bigwood Beug
 source: Variation of hplc-analysis-of-psilocybin-and-psilocin Levels (Bigwood & Beug, 1982)
 tags: [mycology, psilocybin, psilocin, alkaloid-distribution, cap-stem, psilocybe-cubensis, anatomy]
 created: 2026-05-11
@@ -9,7 +9,7 @@ created: 2026-05-11
 
 ## Overview
 
-Bigwood and Beug (1982) investigated how psilocybin and psilocin are distributed
+Bigwood and Beug (1982) investigated how [[psilocybin-and-psilocin-biosynthesis-variation]] are distributed
 between the cap (pileus) and stem (stipe) of *[[psilocybe-cubensis]]*. Their
 analysis of three distinct strains revealed that the two alkaloids follow
 strikingly different tissue-distribution patterns, and that these patterns vary
@@ -130,6 +130,6 @@ flushes, peaking at flush 4), the cap-stem distribution pattern may also shift
 
 ## References
 
-Bigwood, J. and Beug, M.W. (1982). Variation of psilocybin and psilocin levels
+Bigwood, J. and Beug, M.W. (1982). Variation [[hplc-analysis-of-psilocybin-and-psilocin]] levels
 with repeated flushes (harvests) of mature sporocarps of *Psilocybe cubensis*
 (Earle) Singer. *Journal of Ethnopharmacology*, 5, 287-291.

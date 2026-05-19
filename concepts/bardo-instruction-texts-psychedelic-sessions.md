@@ -24,7 +24,7 @@ The First Bardo instructions are read at the very beginning of the session, as t
 The text addresses the voyager by name and announces that the time has come to seek new levels of reality. The ego and its game are about to cease. The voyager is about to be set face to face with the Clear Light in its reality.
 
 ### Key Teachings
-- **Ego-death is an opportunity**: "This is now the hour of death and rebirth; take advantage of this temporary death to obtain the perfect state — Enlightenment."
+- **Ego-death is an opportunity**: "This is now the hour of [[shamanism-death-and-rebirth]]; take advantage of this temporary death to obtain the perfect state — Enlightenment."
 - **Concentrate on unity**: "Concentrate on the unity of all living beings. Hold onto the Clear Light. Use it to attain understanding and love."
 - **The hallucinations are teachers**: "The hallucinations which you may now experience, the visions and insights, will teach you much about yourself and the world. The veil of routine perception will be torn from your eyes."
 - **Memory as anchor**: "If you feel confused, call upon the memory of your friends and the power of the person whom you most admire."
@@ -84,7 +84,7 @@ The voyager encounters the "Radiant Energy of the Seed" from which all living fo
 "The bodily symptoms you are having are not drug-effects. They indicate that you are struggling against the awareness of feelings which surpass your normal experience." The instruction: let the feelings melt over you, sink into them and through them, pulsate with the vibrations. "Your symptoms will disappear as soon as all trace of ego-centered striving disappears."
 
 ## Instructions for the Wrathful Visions
-Read when the voyager enters Second Bardo nightmares: "You were unable to maintain the perfect Clear Light of the First Bardo. Or the serene peaceful visions of the Second. You are now entering Second Bardo nightmares. **Recognize them.** They are your own thought-forms made visible and audible."
+Read when the voyager enters Second Bardo nightmares: "You were unable to maintain the perfect Clear Light of the First Bardo. Or the serene [[peaceful-visions-second-bardo]] of the Second. You are now entering Second Bardo nightmares. **Recognize them.** They are your own thought-forms made visible and audible."
 
 The key passage: "None of the peaceful or wrathful visions, blood-drinking demons, machines, monsters, or devils, exist in reality — only within your skull. This will dissipate your fear."
 
@@ -113,7 +113,7 @@ The manual may be read aloud, pre-recorded and played back, or memorized beforeh
 ## See Also
 
 - first bardo clear light — The Clear Light experience the instructions aim to maintain
-- second bardo hallucinations — The visionary period the Second Bardo texts address
+- [[second-bardo-hallucinations-introduction]] — The visionary period the Second Bardo texts address
 - [[third-bardo-re-entry]] — The re-entry period the Third Bardo texts address
 - [[wrathful-visions-psychedelic-experience]] — The nightmare visions requiring specific instructions
 - [[set-setting-psychedelic-therapy]] — Context for when and how to use the texts

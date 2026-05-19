@@ -1,5 +1,5 @@
 ---
-title: Solomon Carbon Nitrogen Ratios
+title: [[solomon-carbon-nitrogen-ratio-soil-humus-dynamics]] Ratios
 created: 2026-04-26
 tags:
   - gardening
@@ -76,7 +76,7 @@ than before. This is also what happens with [[fukuoka-textdoc-animal-manure-huma
 ## Overview
 
 Solomon Carbon Nitrogen Ratios represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 solomon carbon nitrogen ratios and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

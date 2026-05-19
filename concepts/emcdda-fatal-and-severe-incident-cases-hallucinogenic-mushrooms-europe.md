@@ -1,5 +1,5 @@
 ---
-title: "Emcdda Fatal And Severe Incident Cases Hallucinogenic Mushrooms Europe"
+title: "Emcdda Fatal And Severe Incident Cases [[emcdda-multilingual-user-terminology-brand-names-hallucinogenic-mushrooms-europe]]"
 aliases:
   - "mushroom death cases europe"
   - "psilocybin fatality reports"
@@ -36,7 +36,7 @@ The geographic setting — a fall from height — parallels the Manchester case 
 
 ### UK Clubbing Survey Adverse Effects (Mixmag 2005)
 
-Among respondents who had used hallucinogenic mushrooms in the preceding year:
+Among respondents who had used [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] preceding year:
 - Over **25%** experienced nausea or vomiting
 - Nearly **25%** experienced a panic attack
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Emcdda Fatal And Severe Incident Cases Hallucinogenic Mushrooms Europe finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

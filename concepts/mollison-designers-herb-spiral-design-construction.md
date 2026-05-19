@@ -20,7 +20,7 @@ type: concept
 The [[herb-spiral]] is one of the most iconic and widely recognized
 elements of [[permaculture-principles]] of
 relative location, each element performing multiple functions, and
-designing from patterns to details.
+designing [[design-from-patterns-to-details]].
 
 ## Design Concept
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mollison Designers Herb Spiral Design Construction finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -130,7 +130,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 mollison designers herb spiral design construction and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

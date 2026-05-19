@@ -1,5 +1,5 @@
 ---
-title: Desert Water Conservation and Garden Design
+title: [[inselbergs-fold-mountains-desert-water-conservation]] and Garden Design
 source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[water-conservation]] in desert permaculture is not optional — it is the fundamental constraint upon which all other design decisions rest. [[bill-mollison]] presents a comprehensive system for [[desert-gardening]] built on three pillars: **mulching** (both organic and stone), **[[drip-irrigation]]**, and **physical barriers** that together create a self-contained growing environment capable of sustaining agriculture through multi-year droughts.
+[[water-conservation]] [[inselbergs-and-fold-mountains-in-desert-permaculture]] is not optional — it is the fundamental constraint upon which all other design decisions rest. [[bill-mollison]] presents a comprehensive system for [[desert-gardening]] built on three pillars: **mulching** (both organic and stone), **[[drip-irrigation]]**, and **physical barriers** that together create a self-contained growing environment capable of sustaining agriculture through multi-year droughts.
 
 ## The Three-Layer Desert Garden
 
@@ -23,7 +23,7 @@ A moisture barrier surrounds the entire garden to prevent lateral water loss:
 - This is described as **critical** — without it, precious water is lost to the desert
 
 ### Layer 2: Mulch (Interior)
-Mulch within the barrier serves essential functions:
+Mulch within the barrier serves [[plant-micronutrients-and-their-essential-functions]]:
 
 - **pH buffering**: Humic acids in mulch prevent the rapid pH rise that occurs when water is applied directly to desert soil. Without mulch, [[soil-ph]] rapidly rises and becomes toxic to plants
 - **Moisture retention**: Mulch reduces evaporation from the soil surface

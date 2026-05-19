@@ -1,5 +1,5 @@
 ---
-title: Tropical Grassland Rehabilitation
+title: [[bill-mollison-permaculture-a-designers-manual-tropical-grassland-rehabilitation]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -12,7 +12,7 @@ Pioneering in the tropics is only ethical when directed at rehabilitating degrad
 2. **Semi-forested clearings and old monoculture plantations** of sugarcane, banana, pine, eucalypt, or pineapple — often with "weed" invasion by Lantana, tobacco bush, vines, or shrubs.
 3. **Logged and burnt forest** with reject logs, branches, stumps, and weedy regrowth.
 
-The end results envisioned for rehabilitation range from terrace culture and water absorption systems, through extensive aquaculture or substantial dams, to polycultural forests and managed or rehabilitative forestry for perpetual yields. In practice, all of these are planned in appropriate combinations for each specific site. The approach of extending small and successful trials is basic to success; broadscale trials have unstable social and ecological effects from the beginning.
+The end results envisioned for rehabilitation range from terrace culture and water absorption systems, through extensive aquaculture or substantial dams, to polycultural forests and managed or rehabilitative forestry for perpetual yields. In practice, all of these are planned in appropriate combinations for each specific site. The approach of extending small and successful trials is basic to success; broadscale trials have unstable social [[fungal-allelopathy-mechanisms-and-ecological-effects]] from the beginning.
 
 ## The Tropical Grassland Problem
 
@@ -30,7 +30,7 @@ Fast-growing leguminous trees — **Albizzia**, **Acacia**, **Inga**, and **Leuc
 
 ## Intensive Forage Systems vs. Extensive Grazing
 
-A positive approach is to re-establish either a multi-species system ecology (trees and a variety of browsers), or to intensify cattle rearing. Cliff Adam, Chief Research Officer at Grand Anse, Mahé, in the Seychelles, developed an intensive system using *Pennisetum atropurpureum* (7 parts) plus *Leucaena leucocephala* — the low-mimosin type available in Australia — (1 part), with the addition of Bocking strain comfrey. This cut-and-carry "pasture" supports **seven milk cows per acre**. All manure and washings from the stable/dairy are returned to the irrigated field. Imported artificial fertilisers have been reduced to one-tenth, with further reductions expected as soil builds.
+A positive approach is to re-establish either a multi-species system ecology (trees and a variety of browsers), or to intensify cattle rearing. Cliff Adam, Chief Research Officer at Grand Anse, Mahé, in the Seychelles, developed an intensive system using *Pennisetum atropurpureum* (7 parts) plus *[[leucaena-leucocephala]]* — the low-mimosin type available in Australia — (1 part), with the addition of Bocking strain comfrey. This cut-and-carry "pasture" supports **seven milk cows per acre**. All manure and washings from the stable/dairy are returned to the irrigated field. Imported artificial fertilisers have been reduced to one-tenth, with further reductions expected as soil builds.
 
 By contrast, in the same climate in Australia, **one cow per square mile is enough to lay waste to the land**. This stark comparison underscores the futility of extensive cattle systems in the tropics and the power of intensive, closed-loop forage systems.
 

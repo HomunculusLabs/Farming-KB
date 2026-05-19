@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Perennial grasslands — including veldt, prairie, meadow, steppe, herbal ley, pasture, and heathlands — are a defining feature of mesothermal (moderate-temperature) climates. They occupy approximately **24% of the Earth's surface**. Many grasslands are treeless areas established during periods of icecap retreat that have never developed into forests, even though both soils and climatic factors would permit forest establishment. Others are actively maintained by fire — whether natural (lightning strikes) or managed (human-set) — against forest invasion.
+Perennial grasslands — including veldt, prairie, meadow, steppe, herbal ley, pasture, and heathlands — are a defining feature of mesothermal (moderate-temperature) climates. They occupy approximately **24% of the Earth's surface**. Many grasslands are treeless areas established during periods of icecap retreat that have never developed into forests, even though both soils and [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]] would permit forest establishment. Others are actively maintained by fire — whether natural (lightning strikes) or managed (human-set) — against forest invasion.
 
 ## Grassland Classification
 
@@ -32,7 +32,7 @@ A profound and counterintuitive fact about grasslands is their below-ground biom
 - **Forests**: 184 t/ha of organic matter in the soil
 - **Natural prairie**: 345 t/ha in equivalent soil/climate regimes (Foth, 1984)
 
-Forests concentrate their biomass in gaseous exchange (atmospheric) functions and deep nutrient recycling. Prairies of grasses, forbs, and their associates act primarily on the near-soil surface, producing copious litter and shallow root masses — **195 t/ha versus a forest's 106 t/ha** in the top 30 cm of soil. Both systems complement each other across different strata of the soil-atmosphere interface.
+Forests concentrate their biomass in [[soil-gaseous-exchange-mollison]] (atmospheric) functions and deep nutrient recycling. Prairies of grasses, forbs, and their associates act primarily on the near-soil surface, producing copious litter and shallow root masses — **195 t/ha versus a forest's 106 t/ha** in the top 30 cm of soil. Both systems complement each other across different strata of the soil-atmosphere interface.
 
 ## Regeneration and Yield Dynamics
 
@@ -97,7 +97,7 @@ When burrowers are eliminated by plough culture, hoofed animals compact the eart
 
 ## Geographic Distribution
 
-Most natural grasslands lie in the **Eurasian land mass**, with Africa and the Americas providing veldt and pampas respectively. Areas such as the Poa tussock plains of New Zealand and southeast Australia were fire-created and maintained by aboriginal peoples. Except in nature reserves or sparsely settled regions, even the great prairies of North America and the pampas of Argentina and Brazil have been converted to pastures or cropping. In every case, **net protein production has been reduced and soils eroded**.
+Most natural grasslands lie in the **Eurasian land mass**, with Africa and the Americas providing veldt and pampas respectively. Areas such as the Poa tussock plains of New Zealand and southeast Australia were fire-created and maintained by aboriginal peoples. Except in nature reserves or sparsely settled regions, even the great prairies [[huckleberries-and-wild-berries-of-north-america]] and the pampas of Argentina and Brazil have been converted to pastures or cropping. In every case, **net protein production has been reduced and soils eroded**.
 
 ## The Wildlife Comparison
 

@@ -1,5 +1,5 @@
 ---
-title: Molecular Methods for molecular methods fungal taxonomy and diversity and ingham-soil-food-web-diversity-assessment-dna-molecular-methods
+title: Molecular Methods for [[molecular-methods-fungal-taxonomy]] and diversity and ingham-soil-food-web-diversity-assessment-dna-molecular-methods
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -97,7 +97,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

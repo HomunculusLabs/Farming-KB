@@ -1,5 +1,5 @@
 ---
-title: Tryptamine Biotransformation in Psilocybe cubensis
+title: Tryptamine Biotransformation [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]]
 source: tryptamine-cubensis-gartz.md
 type: concept
 ---
@@ -17,7 +17,7 @@ biosynthesis of psychedelic tryptamines.
 
 ## Biosynthetic Pathway
 
-The natural biosynthesis of psilocybin and psilocin proceeds through a well-characterized
+The natural biosynthesis [[hplc-analysis-of-psilocybin-and-psilocin]] proceeds through a well-characterized
 enzymatic cascade:
 
 1. **Tryptophan → Tryptamine** — Decarboxylation via aromatic L-amino acid decarboxylase (AADC).
@@ -36,7 +36,7 @@ storage form in fungal tissue, becomes rate-limited under these conditions.
 Gartz used a cow dung/rice-grain mixture (2:1 ratio) as the base substrate, supplementing
 it with tryptamine hydrochloride at a concentration of **25 mM**. First sporocarps
 appeared within 3–4 weeks, with cultures producing mushrooms through **five sequential
-flushes**. Alkaloid quantification was performed via **high-performance liquid
+flushes**. [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]] was performed via **high-performance liquid
 chromatography (HPLC)** and **thin-layer chromatography (TLC)**.
 
 Prior radioactive tracer studies had established that labeled tryptamine functioned as a

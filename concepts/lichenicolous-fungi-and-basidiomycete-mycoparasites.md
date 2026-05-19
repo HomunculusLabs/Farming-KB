@@ -20,7 +20,7 @@ Members of the **Clavicipitaceae** are well known for their entomopathogenic and
 
 ### Niessliaceae
 
-The **Niessliaceae** contribute several genera to the fungicolous and lichenicolous fungal inventory. **Monocillium** species are frequently isolated as fungicolous associates, often growing on decaying [[fungal-hyphae]] or fruiting bodies. Lichenicolous species of **Niesslia** add to the family's ecological breadth, colonizing lichen thalli and apothecia with subtle, often overlooked infections. The fungicolous and lichenicolous members of Niessliaceae illustrate how easily these ecological niches are overlooked without targeted microscopic examination.
+The **Niessliaceae** contribute several genera to the fungicolous and lichenicolous fungal inventory. **Monocillium** species are frequently isolated as fungicolous associates, often growing on decaying [[fungal-hyphae]] or fruiting bodies. Lichenicolous species of **Niesslia** add to the family's ecological breadth, colonizing lichen thalli and apothecia with subtle, often overlooked infections. The fungicolous and lichenicolous members of Niessliaceae illustrate how easily these ecological niches are overlooked without targeted [[fungal-microscopic-examination-mounting-media-techniques]].
 
 ## Dothideomycetes: Dothideales and Pleosporales
 
@@ -112,12 +112,12 @@ The **Urediniomycetes** contain several lineages with mycoparasitic tendencies. 
 
 The **Ustilaginomycetes** include genera with demonstrated mycoparasitic activity, particularly among yeast-like forms.
 
-- **Tilletiopsis** — yeast-like species capable of parasitizing powdery mildews and other plant-pathogenic fungi, with biocontrol potential
+- **Tilletiopsis** — yeast-like species capable of parasitizing [[biodiversity-powdery-mildews]] and other plant-pathogenic fungi, with biocontrol potential
 - **Pseudozyma** — anamorphic ustilaginomycetous yeasts, some of which exhibit antifungal activity and have been investigated as biological control agents
 
 ## Ecological and Taxonomic Significance
 
-Lichenicolous fungi and basidiomycete mycoparasites are critical yet understudied components of fungal ecosystems. Their ecological roles range from benign commensalism to aggressive parasitism capable of killing host lichens or fungi. Many species are highly host-specific, making them valuable indicators of lichen community health and composition. Despite their ecological importance, the majority of lichenicolous and fungicolous species remain undescribed, representing one of the most significant gaps in our understanding of global fungal biodiversity. Molecular phylogenetic studies continue to reveal unexpected diversity and novel lineages within these groups, underscoring the need for comprehensive taxonomic surveys and revised classification frameworks. Future research integrating morphological study, culture work, molecular systematics, and metagenomic approaches will be essential to document the full extent of lichenicolous and mycoparasitic fungal diversity and to elucidate the evolutionary origins of these fascinating ecological strategies.
+Lichenicolous fungi and basidiomycete mycoparasites are critical yet understudied components of fungal ecosystems. Their ecological roles range from benign commensalism to aggressive parasitism capable of killing host lichens or fungi. Many species are highly host-specific, making them valuable indicators of lichen community health and composition. Despite their ecological importance, the majority of lichenicolous and fungicolous species remain undescribed, representing one of the most significant gaps in our understanding of global fungal biodiversity. Molecular phylogenetic studies continue to reveal unexpected diversity and novel lineages within these groups, underscoring the need for comprehensive taxonomic surveys and revised classification frameworks. Future research integrating morphological study, culture work, molecular systematics, and metagenomic approaches will be essential to document the full extent of lichenicolous and mycoparasitic fungal diversity and to elucidate the [[psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins]] of these fascinating ecological strategies.
 
 ## Related
 

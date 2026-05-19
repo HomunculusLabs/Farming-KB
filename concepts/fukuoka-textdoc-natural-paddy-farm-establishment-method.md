@@ -20,7 +20,7 @@ type: concept
 
 # Fukuoka's Method of Natural Paddy and Farm Establishment Without Machinery
 
-Masanobu Fukuoka's *The Natural Way of Farming* provides detailed practical guidance for establishing farms, rice paddies, orchards, and gardens without the use of heavy machinery, chemical inputs, or conventional land-clearing methods. His approach preserves topsoil, builds long-term fertility, and creates productive agricultural landscapes that improve with time rather than degrading.
+Masanobu Fukuoka's *The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]* provides detailed practical guidance for establishing farms, rice paddies, orchards, and gardens without the use of heavy machinery, chemical inputs, or conventional land-clearing methods. His approach preserves topsoil, builds long-term fertility, and creates productive agricultural landscapes that improve with time rather than degrading.
 
 ## Why Not Bulldozers
 
@@ -55,7 +55,7 @@ Bamboo groves are especially valuable because bamboo shoots grow to full size in
 
 ## Traditional Paddy Construction
 
-Fukuoka contrasts modern rice paddy construction with traditional methods. Modern preparation uses large machinery to clear land, remove rocks, and level the surface, which has several drawbacks including uneven topsoil thickness and destruction of soil microbial communities.
+Fukuoka contrasts modern rice paddy construction with traditional methods. Modern preparation uses large machinery to clear land, remove rocks, and level the surface, which has several drawbacks including uneven topsoil thickness and destruction of [[endorhiza-rhizosphere-bulk-soil-microbial-communities]].
 
 Traditional Japanese farmers chose mountain valleys rather than flat riverbanks, building small fields in valleys or terraced rice fields on hillsides. The work of digging channels, constructing rice fields, and building rock walls was not regarded as hardship. By spreading fields with cuttings from ridge grasses, border weeds, and young foliage from trees, rice could be grown each year without fertilizers. A tiny field of perhaps 100 square yards supplied one person's food needs indefinitely.
 
@@ -74,7 +74,7 @@ A good method for rapid soil improvement is piling soil up to create high ridges
 
 ## Practical Applications
 
-Real-world applications and implementation strategies for fukuoka textdoc natural paddy farm establishment m. Understanding
+Real-world applications and implementation strategies for [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]] paddy farm establishment m. Understanding
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 

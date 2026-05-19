@@ -21,7 +21,7 @@ type: concept
 # Natural Farming Philosophy of Mu
 
 The philosophy of Mu, meaning nothingness or non-action, is the intellectual and
-spiritual foundation of [[fukuoka-textdoc-natural-order-food-chain-unity]], and that the path to
+[[fukuoka-textdoc-do-nothing-movement-spiritual-foundation]] of [[fukuoka-textdoc-natural-order-food-chain-unity]], and that the path to
 restoring nature and humanity lies in relinquishing the impulse to act.
 
 ## The Origin of Fukuoka's Understanding
@@ -48,7 +48,7 @@ rice blast is not a final effect but merely one stage in the constant flux of na
 simultaneously [[fukuoka-textdoc-critique-inductive-deductive-reasoning-agriculture]], which derives specific predictions from general laws, are
 fundamentally flawed when applied to nature because they assume that nature can be
 understood through the human intellect. Fukuoka contrasted this with the intuitive
-understanding of natural farming, which begins with a broad conclusion reached through
+understanding [[four-principles-of-natural-farming]], which begins with a broad conclusion reached through
 direct perception and then seeks concrete methods in keeping with that understanding.
 
 Fukuoka employed the parable of the blind men and the elephant to illustrate his
@@ -109,7 +109,7 @@ Integration with complementary elements enhances system function.
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for natural farming philosophy of mu. Climate adaptation
+opportunities [[query-how-do-clay-seed-balls-work-for-natural-farming]] philosophy of mu. Climate adaptation
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 

@@ -1,5 +1,5 @@
 ---
-title: Solar Water Heating
+title: [[mollison-designers-solar-water-heating-systems]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,7 +13,7 @@ sources:
 Solar water heating uses the sun's energy to heat water for domestic use,
 reducing or eliminating the need for gas or electric water heating. A
 properly sized system can provide 50-80% of a household's hot water needs.
-This guide covers system types, design principles, DIY construction, and
+This guide covers system types, [[aact-brewer-design-principles-aeration-systems-ingham]], DIY construction, and
 sizing for the homestead.
 
 ## Why Solar Water Heating
@@ -82,7 +82,7 @@ the collector.
 - Storage tank must be mounted above the collector (usually on the roof)
 - Roof structural requirements for the tank weight (400+ lbs full)
 - More complex plumbing than batch heater
-- Freeze protection needed in cold climates (drainback or glycol)
+- Freeze protection needed [[query-how-do-i-grow-figs-in-cold-climates]] (drainback or glycol)
 
 ### Active Closed-Loop System
 

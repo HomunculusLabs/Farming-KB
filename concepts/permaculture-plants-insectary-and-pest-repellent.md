@@ -1,5 +1,5 @@
 ---
-title: Permaculture Plants Insectary And Pest Repellent
+title: [[permaculture-plants-insectary-bee-forage]] And Pest Repellent
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -59,8 +59,8 @@ Species with combined bee forage, medicinal (to livestock), and fire-retardant p
 The book lists extensive eucalypt species for bee forage. Notable producers:
 
 - **[[eucalyptus-melliodora]] (yellow box)** -- Considered the best honey of all eucalypts
-- **Eucalyptus maculata (spotted gum)** -- Major source of winter/spring nectar
-- **Eucalyptus salmonophloia (salmon gum)** -- Choice honey; summer, autumn
+- **[[eucalyptus-maculata]] (spotted gum)** -- Major source of winter/spring nectar
+- **[[eucalyptus-salmonophloia]] (salmon gum)** -- Choice honey; summer, autumn
 - **Eucalyptus microcarpa (grey box)** -- Good honey; summer, autumn, winter
 - **Eucalyptus platypus (moort)** -- Good bee plant; winter, spring, summer
 - **Eucalyptus stellulata (black sally)** -- Flowers most of the year

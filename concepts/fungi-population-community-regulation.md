@@ -30,7 +30,7 @@ At Mt. Koma, Japan, Titus and Tsuyuzaki (2002) found that arbuscular mycorrhizal
 
 The forefront of Lyman Glacier provides a model system for studying mycorrhizal roles in primary succession. Trappe (1988) identified spores of various fungal genera in the feces of pika, voles, chipmunks, marmots, mountain goats, and mule deer on the glacier forefront. Jumpponen et al. (1999) identified "safe sites" — concave surfaces of coarse rocky particles that trap tree seeds and protect them from desiccation. These sites also concentrate foraging mammals, leading to deposition of mycorrhizal spore-laden feces that enhance seedling survival.
 
-The dark-septate mycorrhizal fungus *[[phialocephala-fortinii]]* significantly enhanced growth of lodgepole pine (*[[pinus-contorta]]*), an early colonizer of the glacier forefront, but only in the presence of added nitrogen. Total plant phosphorus, however, was significantly enhanced by mycorrhizal colonization even without added nitrogen. During succession on glacial till, microbial communities shift from bacterial to fungal dominance, with carbon-use efficiency changing from high respiration rates to biomass accumulation — indicating that fungi stabilize the developing ecosystem and facilitate net carbon fixation.
+The dark-septate mycorrhizal fungus *[[phialocephala-fortinii]]* significantly enhanced growth of lodgepole pine (*[[pinus-contorta]]*), an early colonizer of the glacier forefront, but only in the presence of added nitrogen. Total plant phosphorus, however, was significantly enhanced by mycorrhizal colonization even without added nitrogen. During succession on glacial till, microbial communities shift [[query-how-does-soil-naturally-transition-from-bacterial-to-fungal-dominance]], with carbon-use efficiency changing from high respiration rates to biomass accumulation — indicating that fungi stabilize the developing ecosystem and facilitate net carbon fixation.
 
 ### Succession of Ectomycorrhizal Communities
 
@@ -40,7 +40,7 @@ Conn and Dighton (2000) showed that ectomycorrhizal community composition on dif
 
 ### The Importance of Mycelial Networks
 
-Maintaining a continuous mycelial network is critical for rapid mycorrhizal development during colonization. Amaranthus and Perry (1989) showed that Douglas fir planted into partially cleared sites (retaining mycorrhizal roots on remaining trees) had approximately 90% survival, compared to only 50% in totally cleared areas. The existing mycelial network provides ecosystem stability through carbon and nutrient exchange between connected plants, allowing new recruits to access larger resource pools than they could independently.
+Maintaining a continuous mycelial network is critical for rapid mycorrhizal development during colonization. Amaranthus and Perry (1989) showed that Douglas fir planted into partially cleared sites (retaining mycorrhizal roots on remaining trees) had approximately 90% survival, compared to only 50% in totally cleared areas. The existing mycelial network provides ecosystem stability through carbon [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between connected plants, allowing new recruits to access larger resource pools than they could independently.
 
 ### Driver vs. Passenger Hypotheses
 
@@ -70,7 +70,7 @@ Fungi Population Community Regulation can be identified through a combination of
 This organism is found across diverse ecological zones with particular abundance in temperate and subtropical regions. Distribution patterns reflect both natural dispersal mechanisms and habitat availability. Environmental factors including moisture levels, temperature ranges, and substrate availability play critical roles in determining population density and geographic spread.
 
 ## Ecological Role
-Fungi Population Community Regulation occupies a specific ecological niche within its native ecosystem, participating in nutrient cycling, decomposition processes, and interspecies interactions. Its ecological relationships include both competitive and mutualistic associations with other organisms in the food web. Population dynamics are influenced by seasonal changes, resource availability, and interactions with other species.
+Fungi Population Community Regulation occupies a specific ecological niche within its native ecosystem, participating [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], decomposition processes, and interspecies interactions. Its ecological relationships include both competitive and mutualistic associations with other organisms in the food web. Population dynamics are influenced by seasonal changes, resource availability, and interactions with other species.
 
 ## Seasonal Activity
 Seasonal patterns of Fungi Population Community Regulation activity are closely tied to environmental conditions including temperature, precipitation, and photoperiod. Peak activity typically occurs during favorable moisture and temperature conditions. Understanding seasonal dynamics is essential for accurate population surveys and ecological monitoring programs.

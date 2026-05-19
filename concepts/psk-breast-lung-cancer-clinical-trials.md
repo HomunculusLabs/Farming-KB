@@ -1,5 +1,5 @@
 ---
-title: Psk Breast Lung Cancer Clinical Trials
+title: Psk Breast Lung [[mushroom-cancer-clinical-trials-overview]]
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -87,12 +87,12 @@ Integration with other systems and approaches often yields the most
 robust and resilient outcomes. Rather than treating this topic in
 isolation, the most effective practitioners consider how it connects
 ## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+The principles discussed here have direct applications in agricultural systems, [[mycorrhizal-fungi-ecological-restoration]], and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

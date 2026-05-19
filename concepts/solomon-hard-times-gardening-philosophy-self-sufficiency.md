@@ -10,9 +10,9 @@ tags: [gardening, self-sufficiency, hard-times, land-requirements, food-security
 
 ## Overview
 
-Steve Solomon's *Gardening When It Counts* is written explicitly
+Steve Solomon's *[[gardening-when-it-counts]]* is written explicitly
 for gardeners facing economic hardship, resource scarcity, or
-societal disruption. Drawing from decades of personal experience —
+societal disruption. Drawing from decades of [[palmer-mushroom-cooking-and-personal-experience]] —
 including years of near-total food self-sufficiency in the 1980s
 and retirement to remote Tasmania — Solomon argues that the intensive
 raised-bed methods promoted by most gardening media are unsuitable
@@ -29,7 +29,7 @@ other than oil, or won't have much civilization left. Everything made
 with oil will cost more: gasoline, food, clothing, transportation,
 heating. Chemical and many [[coleman-british-adoption-of-french-intensive-gardening]] (close spacing,
 deep digging, heavy fertilization, raised beds) became fashionable.
-Solomon himself was an advocate, founding Territorial Seed Company
+Solomon himself was an advocate, founding [[territorial-seed-company]]
 in 1979 and writing books recommending [[coleman-seed-selection-and-variety-trials]]: when plants are spaced
 far enough apart for each to develop full potential, the results
 were surprising:

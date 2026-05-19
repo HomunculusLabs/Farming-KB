@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom Bag Preparation and Pasteurization
+title: Oyster Mushroom Bag [[substrate-preparation-and-pasteurization]]
 tags: [mushroom, oyster, substrate, pasteurization, bag-cultivation, pleurotus, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
@@ -40,7 +40,7 @@ Mushroom mycelia secrete digestive enzymes into the substrate and absorb simpler
 
 ### Standard Formula
 
-The standard formula documented for Thai oyster mushroom cultivation is:
+The standard formula documented for Thai [[comparison-reishi-vs-oyster-mushroom-cultivation]] is:
 
 - Sawdust (rubber tree) as base material
 - Rice bran at 20% of sawdust volume
@@ -71,7 +71,7 @@ Different Pleurotus species have varying substrate preferences and temperature r
 
 ## Spent Substrate Recycling
 
-After harvest, spent [[fungi-in-composting-and-agricultural-waste-conversion]] into mushrooms, then into feed or soil amendment, represents a zero-waste approach that is a primary justification for promoting oyster mushroom cultivation in developing countries.
+After harvest, spent [[fungi-in-composting-and-agricultural-waste-conversion]] into mushrooms, then into feed or soil amendment, represents a zero-waste approach that is a primary justification for promoting oyster [[mushroom-cultivation-in-kenya]] developing countries.
 
 ## See Also
 

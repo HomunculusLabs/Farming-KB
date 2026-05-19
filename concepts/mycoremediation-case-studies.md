@@ -1,5 +1,5 @@
 ---
-title: Mycoremediation Case Studies — Field-Verified Fungal Cleanup Projects
+title: [[stamets-mycoremediation-case-studies]] — Field-Verified Fungal Cleanup Projects
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -17,7 +17,7 @@ Field-verified remediation projects demonstrating fungal cleanup of contaminated
 ### The Experiment
 
 - **Location**: Sequim, Washington (Battelle Marine Science Laboratory)
-- **Contaminant**: Polychlorinated biphenyls (PCBs) and polycyclic aromatic hydrocarbons (PAHs)
+- **Contaminant**: Polychlorinated biphenyls (PCBs) and [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs)
 - **Species**: Pleurotus ostreatus (oyster mushroom)
 - **Substrate**: Wood chips inoculated with oyster mushroom mycelium
 - **Goal**: Test whether white-rot fungi could degrade PCBs in contaminated soil
@@ -47,7 +47,7 @@ Field-verified remediation projects demonstrating fungal cleanup of contaminated
 ### How It Works
 
 1. **Containment**: Oil-soaked materials (straw, hair mats, wood chips) are collected or contained in place
-2. **Inoculation**: Oyster mushroom spawn is introduced to the contaminated material
+2. **Inoculation**: [[oyster-mushroom-spawn-preparation]] is introduced to the contaminated material
 3. **Colonization**: Mycelium grows through the contaminated substrate (1-4 weeks)
 4. **Degradation**: Fungal enzymes break down petroleum hydrocarbons into simpler compounds
 5. **Fruiting**: Mushrooms may fruit on the contaminated substrate; fruiting bodies tested for contaminant uptake

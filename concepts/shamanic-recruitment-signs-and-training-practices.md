@@ -1,5 +1,5 @@
 ---
-title: "Shamanic Recruitment Signs And Training Practices"
+title: "Shamanic Recruitment [[mckenna-shamanic-identification-signs-and-training-methods]] Practices"
 tags: [[terence-mckenna]], drawing on his extensive fieldwork among Amazonian and other
 indigenous communities, described the signs by which potential shamans are
 identified, the social dynamics of their training, and the techniques they
@@ -91,7 +91,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Shamanic Recruitment Signs And Training Practices finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -120,7 +120,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 shamanic recruitment signs and training practices and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

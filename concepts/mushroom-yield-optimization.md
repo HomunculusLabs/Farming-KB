@@ -13,11 +13,11 @@ Yield optimization in [[mushroom-cultivation]] is the practice of maximizing the
 
 ## Understanding Biological Efficiency
 
-Biological efficiency (BE) is the standard metric for mushroom cultivation yield:
+Biological efficiency (BE) is the standard metric [[grass-seed-substrate-for-mushroom-cultivation]] yield:
 
 BE = (dry weight of mushrooms / dry weight of substrate) x 100
 
-For Psilocybe cubensis:
+[[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]:
 - Average BE: 75-100%
 - Good BE: 100-150%
 - Excellent BE: 150-200%+
@@ -100,7 +100,7 @@ Critical: Supplemented substrates MUST be properly pasteurized (140-170F for 60-
 
 ### Fresh Air Exchange (FAE)
 
-- Adequate FAE is essential for proper mushroom development.
+- Adequate FAE is essential for proper [[acropetal-cell-expansion-stipe-elongation-mushroom-development]].
 - Insufficient FAE causes: elongated stems, small caps, reduced yield, fuzzy stem bases.
 - Too much FAE causes: dry substrate, cracked caps, slowed growth.
 - Monitor CO2 levels if possible. Target below 1000 ppm during fruiting.

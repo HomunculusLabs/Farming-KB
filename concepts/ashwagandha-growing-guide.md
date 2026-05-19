@@ -17,7 +17,7 @@ is one of the most important herbs in Ayurvedic medicine. The name
 to both the distinctive odor of the fresh root and the traditional belief
 that it imparts the vigor and strength of a horse. Native to the dry regions
 of India, North Africa, and the Middle East, ashwagandha is a subtropical
-shrub increasingly cultivated in temperate regions as a summer annual.
+shrub increasingly cultivated in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] as a summer annual.
 
 ## Botanical Profile
 
@@ -71,7 +71,7 @@ Ashwagandha is adapted to hot, dry conditions and is relatively easy to grow
 in warm climates:
 - Temperature: 68-95 degrees F ideal; tolerates high heat
 - Frost sensitivity: Killed by frost; requires a long, warm growing season
-- Drought tolerance: Excellent once established; prefers dry conditions
+- [[dighton-fungal-drought-tolerance-plant-water-relations]]: Excellent once established; prefers dry conditions
   over wet ones
 - Day length: Short-day plant; flowers initiate as days shorten in fall
 - Growing season: 150-180 days for maximum root size and withanolide content
@@ -107,7 +107,7 @@ is the standard method.
 ### Planting
 - Transplant outdoors after all danger of frost has passed and soil has
   warmed
-- Harden off seedlings gradually over 7-10 days
+- [[query-how-do-i-harden-off-seedlings-before-transplanting]] gradually over 7-10 days
 - Plant at the same depth as in the seedling container
 - Water well after planting; keep moist until established
 - Mulch with sand or gravel to reflect heat and maintain dry soil conditions

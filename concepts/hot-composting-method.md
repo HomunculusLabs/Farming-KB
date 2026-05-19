@@ -11,13 +11,13 @@ sources: []
 
 > Note: This page is compiled from general knowledge, not sourced from a specific file in the wiki's raw/ directory.
 
-Hot composting (thermophilic composting) is a managed decomposition process that uses aerobic microorganisms to rapidly break down organic materials at elevated temperatures. When done correctly, a hot compost pile reaches internal temperatures of 130-160F (55-71C), significantly speeding decomposition compared to cold composting while destroying weed seeds, pathogens, and disease organisms.
+Hot composting ([[thermophilic-composting]]) is a managed decomposition process that uses aerobic microorganisms to rapidly break down organic materials at elevated temperatures. When done correctly, a hot compost pile reaches internal temperatures of 130-160F (55-71C), significantly speeding decomposition compared to cold composting while destroying weed seeds, pathogens, and disease organisms.
 
 ## The Three Temperature Stages
 
 ### Stage 1: Mesophilic Phase (Room temperature to 105F / 40C)
 - **Duration**: First 1-3 days
-- **What happens**: Mesophilic (moderate-temperature) bacteria and fungi begin decomposing readily available sugars and simple compounds. They multiply rapidly, generating heat as a byproduct of metabolic activity.
+- **What happens**: Mesophilic (moderate-temperature) bacteria and fungi begin decomposing readily available sugars and simple compounds. They multiply rapidly, generating heat as a byproduct of [[arbuscule-isolation-metabolic-activity-assays]].
 - **Oxygen demand**: High — the pile needs good aeration
 - **Moisture**: Should be 50-60% (feels like a wrung-out sponge)
 
@@ -32,7 +32,7 @@ Hot composting (thermophilic composting) is a managed decomposition process that
 
 ### Stage 3: Cooling and Curing Phase (Back to ambient)
 - **Duration**: Weeks to months
-- **What happens**: Thermophiles die off as food supply diminishes and temperature drops. Mesophilic organisms return, followed by larger decomposers (springtails, mites, earthworms). Remaining organic matter slowly converts to humus. The pile matures and stabilizes.
+- **What happens**: Thermophiles die off as food supply diminishes and temperature drops. [[mesophilic-organisms]] return, followed by larger decomposers (springtails, mites, earthworms). Remaining organic matter slowly converts to humus. The pile matures and stabilizes.
 - **When finished**: Compost is dark brown, crumbly, earthy-smelling, and none of the original materials are recognizable. Internal temperature matches ambient air temperature.
 
 ## Carbon-Nitrogen Ratio (C/N)

@@ -1,6 +1,6 @@
 ---
 title: Essential Gardening Tools and Their Proper Care and Sharpening
-source: Gardening When It Counts - steve-solomon (2005)
+source: [[gardening-when-it-counts]] - steve-solomon (2005)
 tags: [gardening, tools, sharpening, hand-tools, low-input, self-sufficiency]
 related: [solomon-seed-starting-transplanting, solomon-irrigation-water-management, solomon-disease-identification-and-organic-remedies]
 ---
@@ -76,7 +76,7 @@ save hours of physical effort over the course of a growing season.
 ## Overview
 
 Solomon Tool Care Sharpening Shovels Hoes Essential Gardening represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -126,7 +126,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 solomon tool care sharpening shovels hoes essential gardening and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

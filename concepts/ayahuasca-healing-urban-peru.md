@@ -27,7 +27,7 @@ Dobkin de Rios draws important distinctions between ayahuasca healing and Wester
 
 ### Western Approaches
 - **Psychedelic psychotherapy**: Attempts to open areas of repressed and painful memory through single or limited sessions with drugs like LSD
-- **Psycholytic therapy**: Long-term treatment over many months, using low doses of psychoactive substances to gradually explore the unconscious
+- **Psycholytic therapy**: Long-term treatment over many months, using low doses of [[cultural-evolution-and-psychoactive-substances]] to gradually explore the unconscious
 
 ### Ayahuasca Healing
 - **Shorter duration**: Treatment typically ranges from a single session to about a month of periodic sessions
@@ -53,7 +53,7 @@ This authoritarian structure mirrors the broader Mazatec and mestizo family patt
 Ayahuasca sessions in urban slums serve functions that extend beyond treating individual illness:
 
 1. **Community cohesion**: Sessions reinforce social bonds by bringing people together in shared ritual experience
-2. **Moral regulation**: The ceremonial context provides a framework for addressing ethical transgressions and interpersonal conflicts
+2. **Moral regulation**: The [[kava-traditional-preparation-ceremonial-context]] provides a framework for addressing ethical transgressions and interpersonal conflicts
 3. **Cultural continuity**: For displaced indigenous and mestizo populations, these practices maintain connections to pre-Columbian spiritual traditions
 4. **Economic function**: Healers receive payment for their services, creating a specialized economic role within the community
 
@@ -93,7 +93,7 @@ Adaptation to local conditions and careful observation remain central to effecti
 Field trials provide essential data for validating theoretical approaches and refining methodologies.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

@@ -65,7 +65,7 @@ Whether the skin of the cap can be removed depends upon a structural character o
 - **Two distinct layers** — if the epidermis is formed of two different kinds of tissue, the outer skin can be peeled away
 - **Single layer** — if the epidermis is in one layer, it is too closely applied to the underlying tissue to come away without tearing
 
-Even members of the same genus may differ in this respect: *Russula emetica* has a separable pellicle, whereas *R. drimeia* does not.
+Even members of the same genus may differ in this respect: *[[russula-emetica]]* has a separable pellicle, whereas *R. drimeia* does not.
 
 ### Reality
 
@@ -85,7 +85,7 @@ In southern Italy, where the harmful effect of neighbouring metals on a fungus i
 
 ## The Manured Ground Myth
 
-Connected with the ideas above is the belief that fungi are harmful if they grow in highly manured ground. This persists regardless of the fact that manure is the normal habitat of the form of the Field Mushroom that gave rise to all cultivated mushroom races. Several other edible fungi also favour a rich substratum. Habitat richness bears no relation to toxicity.
+Connected with the ideas above is the belief that fungi are harmful if they grow in highly manured ground. This persists regardless of the fact that manure is the normal habitat of the form of the Field Mushroom that gave rise to all [[classification-of-cultivated-mushroom-species]] races. Several other edible fungi also favour a rich substratum. Habitat richness bears no relation to toxicity.
 
 ## Taste as a Guide
 
@@ -112,7 +112,7 @@ All remaining tests are similarly useless:
 - Edible fungi supposedly grow in **grass** and not **on or under trees**
 - Edible fungi supposedly occur **early in the season**
 
-None of these generalisations holds. Edible and poisonous species are found across all habitats, substrates, and seasonal timings. These distinctions are entirely without diagnostic value.
+None of these generalisations holds. [[classification-of-edible-and-poisonous-mushroom-families]] species are found across all habitats, substrates, and seasonal timings. These distinctions are entirely without diagnostic value.
 
 ## The Only Reliable Method
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In the concluding chapter of "[[hallucinogens-and-shamanism]]," Michael J. Harner addresses a fundamental question: to what extent are the similarities between shamanic experiences across different cultures the result of cultural diffusion, and to what extent do they reflect a common human response to psychoactive substances? Harner proposes the concept of "biochemical reinforcement" to explain why certain beliefs and practices associated with hallucinogen use are found in widely separated cultures with no apparent historical connection.
+In the concluding chapter of "[[hallucinogens-and-shamanism]]," Michael J. Harner addresses a fundamental question: to what extent are the similarities between shamanic experiences across different cultures the result of cultural diffusion, and to what extent do they reflect a common human response to [[cultural-evolution-and-psychoactive-substances]]? Harner proposes the concept of "biochemical reinforcement" to explain why certain beliefs and practices associated with hallucinogen use are found in widely separated cultures with no apparent historical connection.
 
 ## The Problem of Cross-Cultural Regularities
 
@@ -18,7 +18,7 @@ Anthropologists have long observed "widespread and obviously long-standing thema
 
 Normally, anthropologists view such regularities as "part of the totality of the ancient cultural heritage of man" and do not attempt to explain their existence. Attempts to explain "origins" have fallen into disrepute as antiquated anthropology associated with nineteenth-century figures like Edward B. Tylor.
 
-The difficulty with purely diffusionist explanations is that many of these regularities appear in cultures that had no contact with each other. The similarity between Siberian shamanism and Amazonian shamanism, for example, cannot be easily explained by cultural transmission across the Bering Strait, given the vast differences in time, environment, and social organization.
+The difficulty with purely diffusionist explanations is that many of these regularities appear in cultures that had no contact with each other. The similarity between Siberian shamanism [[mckenna-ayahuasca-and-amazonian-shamanism]], for example, cannot be easily explained by cultural transmission across the Bering Strait, given the vast differences in time, environment, and social organization.
 
 ### Redefining the Search
 
@@ -99,7 +99,7 @@ Adaptation to local conditions and careful observation remain central to effecti
 Field trials provide essential data for validating theoretical approaches and refining methodologies.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

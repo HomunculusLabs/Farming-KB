@@ -51,7 +51,7 @@ demand landscapes that waste resources on ornamental excess; your job is to redi
 that energy toward productive, regenerative systems without alienating the client.
 Frame proposals in terms the client values—lower maintenance costs, increased property
 value, food security. Never install systems you know will fail simply because the
-client insists. Property boundaries must be respected and clearly understood; many
+client insists. [[holzer-high-beds-property-boundaries]] must be respected and clearly understood; many
 conflicts arise from designs that encroach on neighbors or assume access to shared
 resources.
 
@@ -105,7 +105,7 @@ the transition zone for productive integration rather than hostile exclusion.
 ## Conservation Areas
 
 Every design should include dedicated conservation zones—areas set aside for
-regeneration, wildlife habitat, and genetic preservation. These are not wasted space;
+regeneration, [[hemenway-backyard-wildlife-habitat]], and genetic preservation. These are not wasted space;
 they provide pest control services, pollination, water filtration, and microclimate
 moderation for the productive zones. Size conservation areas proportionally to the
 property, but never omit them entirely. Even small urban lots benefit from a
@@ -113,7 +113,7 @@ designated wild corner.
 
 ## Intensive Gardening in Tight Spaces
 
-Where land is limited, intensification replaces expansion. Use vertical growing,
+Where land is limited, intensification replaces expansion. Use [[coleman-greenhouse-tomato-vertical-growing]],
 [[succession-planting]], small-scale aquaculture, and multi-strata polycultures to
 maximize output per square meter. A well-managed intensive garden in a small courtyard
 can out-produce a poorly managed broadacre plot. The key is [[biological-efficiency]]:

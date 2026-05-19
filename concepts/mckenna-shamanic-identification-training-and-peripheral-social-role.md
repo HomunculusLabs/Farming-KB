@@ -1,5 +1,5 @@
 ---
-title: Mckenna Shamanic Identification Epilepsy Lightning Ordeal Training Training And Peripheral Social Role
+title: [[mckenna-shamanic-identification-epilepsy-lightning-ordeal-training]] Training Training And Peripheral Social Role
 source: mckenna_t-tryptamines_consciousness.md
 author: [[shamanism]], training, initiation, indigenous-knowledge, social-structure]
 ---
@@ -90,7 +90,7 @@ Adaptation to local conditions and careful observation remain central to effecti
 Field trials provide essential data for validating theoretical approaches and refining methodologies.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

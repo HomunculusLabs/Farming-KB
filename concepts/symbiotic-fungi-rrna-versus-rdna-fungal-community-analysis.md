@@ -1,5 +1,5 @@
 ---
-title: Symbiotic Fungi Rrna Versus Rdna Fungal Community Analysis
+title: Symbiotic Fungi Rrna Versus Rdna [[singh-fungal-community-analysis-molecular-methods]]
 source: symbiotic-fungi.md
 source_author: Ari Jumpponen, in Varma & Kharkwal (eds.)
 extracted: 2026-05-10
@@ -10,7 +10,7 @@ tags: [molecular-ecology, rRNA, rDNA, fungal-community, rhizosphere, PCR, metage
 
 ## The Fundamental Distinction
 
-Two major molecular approaches exist for characterizing fungal communities in
+Two major [[genetic-improvement-agaricus-bisporus-molecular-approaches]] exist for characterizing fungal communities in
 environmental samples: targeting ribosomal DNA (rDNA) and targeting ribosomal RNA
 (rRNA). Both target the ribosomal operon, but they reveal fundamentally different
 information about the microbial community. rDNA-based assays detect organisms that
@@ -114,7 +114,7 @@ Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
+[[ghouled-field-guide-historical-context]] provides important lessons for modern applications.
 Collaborative networks and knowledge sharing accelerate progress in this field.
 Emerging technologies offer new tools for analysis and implementation.
 ## Practical Applications

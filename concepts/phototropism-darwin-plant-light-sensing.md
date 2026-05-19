@@ -1,5 +1,5 @@
 ---
-title: Phototropism Darwin Plant Light Sensing
+title: [[phototropism-darwin-plant-light-response]] Sensing
 created: 2026-05-09
 tags:
   - plant-biology
@@ -90,7 +90,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Phototropism Darwin Plant Light Sensing finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -119,7 +119,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 phototropism darwin plant light sensing and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -1,5 +1,5 @@
 ---
-title: Toadstool-Eating Myths and Mushroom Identification
+title: Toadstool-Eating Myths and [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]]
 source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
@@ -77,7 +77,7 @@ examples drawn from his own experience:
   volemus*) is unquestionably edible, and several others are doubtless so.
 - **"Gills of equal length"**: An entire family, the Russulae, have equal gills,
   and many members are edible.
-- **"Runs into dark, watery liquid"**: The maned mushroom (*Coprinus comatus*)
+- **"Runs into dark, watery liquid"**: The maned mushroom (*[[coprinus-comatus]]*)
   turns to ink and is "most delicious" when fresh.
 - **"Tastes bitter or burns the mouth"**: The honey-colored mushroom (*Agaricus
   melleus*) is very acrid raw but harmless when cooked.
@@ -118,7 +118,7 @@ another mouthful.
 ## Legacy
 
 Palmer's insistence on systematic study over folklore was a watershed moment in
-American mycology. His debunking of folk tests remains relevant today, as many
+[[early-american-mycology-and-palmer]]. His debunking of folk tests remains relevant today, as many
 of the same myths persist in popular culture. The core principle — that mushroom
 identification requires genuine knowledge and experience, not simple rules — is
 now universally accepted by mycologists and forms the foundation of modern

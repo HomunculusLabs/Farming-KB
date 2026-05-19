@@ -18,7 +18,7 @@ This interdependence means that phloem transport depends on adequate xylem water
 
 The xylem is primarily a unidirectional upward water transport system, but during early spring it temporarily serves as a sugar delivery conduit. Starch stored in roots over winter is converted into transportable sugars that enter the xylem and flow upward to feed developing buds and shoots—before leaves have formed to drive transpiration.
 
-This creates ideal conditions for strong osmotic pressure: water flows into the sugar-laden xylem tubes and pushes sap upward. This spring xylem sap is the source of **maple syrup** and **birch syrup**.
+This creates ideal conditions for strong [[fungal-fruiting-body-mechanics-osmotic-pressure]]: water flows into the sugar-laden xylem tubes and pushes sap upward. This spring xylem sap is the source of **maple syrup** and **birch syrup**.
 
 ### The Maple Sap Mechanism
 
@@ -68,7 +68,7 @@ The phloem plays a critical role in delivering compounds that roots release into
 
 ### Why Plants Exude Compounds
 
-Root exudates serve multiple essential functions:
+Root exudates serve multiple [[plant-micronutrients-and-their-essential-functions]]:
 
 1. **Recruiting microbial partners**: Carbon-rich exudates attract beneficial bacteria and [[mycorrhizal-fungi]] to the rhizosphere, initiating the symbiotic relationships that deliver nutrients to the plant.
 2. **Nutrient acquisition**: Specialized exudate compounds dissolve otherwise unavailable minerals in the soil, particularly phosphorus, iron, zinc, and manganese.
@@ -113,7 +113,7 @@ The phloem's role shifts dramatically across seasons:
 - **Spring**: Phloem sap is acidic and flows upward, mobilizing stored carbohydrates from roots to fuel new growth. After bud break, photosynthesis takes over as the primary sugar source.
 - **Summer (growing season)**: Primary direction is from leaves (sources) to roots, fruits, and growing tips (sinks). The phloem operates at peak capacity.
 - **Autumn**: Proteins in leaves are broken down and nitrogen is transported downward via the phloem to stems and roots for winter storage. Carbohydrates are similarly stored.
-- **Winter**: In deciduous plants, metabolic activity slows dramatically. In evergreens and perennials, limited phloem function continues at reduced rates.
+- **Winter**: In deciduous plants, [[arbuscule-isolation-metabolic-activity-assays]] slows dramatically. In evergreens and perennials, limited phloem function continues at reduced rates.
 
 Phloem longevity varies among species. Some plants produce new phloem annually, while palms maintain functional phloem for over 50 years. When phloem dies, meristematic cells at the root apical meristem generate replacements.
 

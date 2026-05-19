@@ -12,11 +12,11 @@ Isolating [[saprobic-soil-fungi]] is challenging due to immense diversity and cr
 
 ## Selective Isolation of Saprobic Basidiomycetes (LGB Method)
 
-The LGB method combines modified particle filtration with lignin-guaiacol-benomyl (LGB) medium. Benomyl suppresses mitosporic ascomycete competitors, while lignin and guaiacol encourage oxidative enzyme activity characteristic of basidiomycetes, producing a diagnostic color change in the agar.
+The LGB method combines modified [[particle-filtration-dilution-plating-microfungal-isolation]] with lignin-guaiacol-benomyl (LGB) medium. Benomyl suppresses mitosporic ascomycete competitors, while lignin and guaiacol encourage oxidative enzyme activity characteristic of basidiomycetes, producing a diagnostic color change in the agar.
 
 ### Protocol Steps
 
-1. **Soil collection and preparation:** Collect soil samples and prepare for processing.
+1. **Soil [[bahay-kubo-imo-collection-and-preparation]]:** Collect soil samples and prepare for processing.
 2. **Dispersion:** Weigh 5 g of soil into a 1 L jar with 500 mL sterile 0.1% sodium pyrophosphate. Shake 1 hour at 4°C to disperse aggregates and separate fungal propagules.
 3. **Particle filtration:** Pour the suspension sequentially through 250 μm and 53 μm sieves. Rinse sieves with tap water and disinfect with 70% ethanol between samples. Wash particles retained on the 53 μm sieve for 5 min with a tap water spray. Tilt the sieve to separate organic (rising) from inorganic particles.
 4. **Plating:** Pick up 1 mL of the dense organic suspension with a wide-mouth pipette; disperse in 9 mL sterile water. Plate 0.2–0.4 mL onto 5–10 LGB agar plates. Incubate up to 4 weeks.
@@ -101,7 +101,7 @@ Transfer isolates to specialized media: cornmeal agar ± autoclaved banana leaf,
 |--------|-----------|-----------|
 | Laccase | ABTS | Niku-Paavola et al. 1990 |
 | Tyrosinase | D-L-DOPA | Horowitz et al. 1960 |
-| [[lignin-peroxidase]] | Veratryl alcohol + H₂O₂ | Tien and Kirk 1984 |
+| [[lignin-peroxidase]] | [[fungal-lignin-peroxidase-veratryl-alcohol]] + H₂O₂ | Tien and Kirk 1984 |
 | Mn peroxidase | Phenol red or vanillylacetone + H₂O₂ + Mn(II) | — |
 
 **Caution:** Enzyme substrates overlap and expression varies across media; interpret results carefully.

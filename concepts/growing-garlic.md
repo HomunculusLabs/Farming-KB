@@ -1,12 +1,12 @@
 ---
-title: Growing Garlic
+title: [[solomon-growing-garlic-onions-leeks]]
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
 # Growing Garlic
 
-Garlic is one of the most rewarding crops for the home gardener. Successfully grown, bulbing happens while days are long and still lengthening (in temperate climates). In a climate that allows it a cool-season growing period, garlic gives the highest yield and highest quality.
+Garlic is one of the most rewarding crops for the home gardener. Successfully grown, bulbing happens while days are long and still lengthening ([[query-how-to-grow-and-use-oca-in-temperate-climates]]). In a climate that allows it a cool-season [[mushroom-growing-period-and-crop-management]], garlic gives the highest yield and highest quality.
 
 ## Two Basic Types
 

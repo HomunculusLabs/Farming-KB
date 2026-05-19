@@ -33,7 +33,7 @@ Shiitake requires a distinct environmental shift to initiate fruiting. The prima
 
 - **Soaking**: For both logs and sawdust blocks, soaking in cold water (50–60°F) for 12–24 hours before fruiting provides both the cold shock and the moisture boost needed for primordia formation. Logs are typically soaked once they have fully browned, indicating complete colonization.
 
-- **Physical shock**: Some cultivators report that tapping or dropping logs triggers fruiting, possibly through mechanical stimulation of the mycelium. This is a traditional technique in Japanese shiitake cultivation.
+- **Physical shock**: Some cultivators report that tapping or dropping logs triggers fruiting, possibly through mechanical stimulation of the mycelium. This is a traditional technique in [[japanese-shiitake-cultivation-on-wood-poles]].
 
 - **Fresh air exchange**: Once primordia form, adequate CO2 reduction through fresh air exchange is essential for normal mushroom development. High CO2 during fruiting produces elongated stems and small caps — the opposite of the desired thick, meaty, wide-capped shiitake.
 
@@ -109,9 +109,9 @@ predictable flushes ideal for commercial production.
 ## See Also
 
 - [[mushroom-substrate-preparation-heat-treatment]]
-- mushroom spawn production grain to bulk
+- [[mushroom-spawn-production-grain-to-bulk]]
 - [[mushroom-casing-soil-primordia-initiation]]
-- oyster mushroom species pleurotus diversity
+- [[oyster-mushroom-species-pleurotus-diversity]]
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.

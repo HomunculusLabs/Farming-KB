@@ -27,7 +27,7 @@ Animal manures are the very best sources of organic matter for soil, improving c
 
 - **Nitrogen:** 0.6% | **Phosphorus:** 0.2-0.3% | **Potassium:** 0.3-0.5% | **Trace elements:** Full range
 - **Coverage:** 20-30lb (9-15kg) per sq yard/meter
-- Store for 12 months before use. Very cheap and excellent as soil conditioner and nutrient source. Though lower in nutrient percentage than inorganic fertilizers, the large volume applied makes mineral concentration less significant. Manure holds water and maintains high fertility levels.
+- Store for 12 months before use. Very cheap and excellent as soil conditioner and nutrient source. Though lower in nutrient percentage than [[ingham-inorganic-fertilizers-soil-biology-damage]], the large volume applied makes mineral concentration less significant. Manure holds water and maintains high fertility levels.
 - Source from farmers who graze cattle outside — obtain after cows are turned out for summer.
 
 ### Horse Manure
@@ -75,7 +75,7 @@ Half a dozen chickens in a portable house with movable wire-mesh run can be rota
 ## Overview
 
 Animal Manure Guide represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -125,7 +125,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 animal manure guide and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

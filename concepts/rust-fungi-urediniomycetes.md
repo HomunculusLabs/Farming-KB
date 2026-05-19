@@ -40,7 +40,7 @@ The various spore types usually are produced at different times, although they s
 
 Unlike other plant pathogens, rusts usually infect **healthy, vigorously growing plants**, so if infections are small and limited to certain plant parts (such as foliage), they may be difficult to detect. Perennial, systemic infections may cause deformities such as witches' brooms, cankers, or galls. Plants with severe rust infections may appear stunted, chlorotic (yellowed), or otherwise discolored. Heavy uredinial sporulation may turn the affected plant part orange. Rusts sporulate on leaves, shoots, fruits, and woody stems.
 
-In temperate regions, aecial stages are generally most prevalent in the spring, with uredinial states developing midseason. Telia develop in the fall, usually overwintering in dead host tissue. In tropical regions, teliospores may develop and immediately germinate at all times of the year, and thick spore walls and pigmentation — identifying features for temperate rusts — are far less common. Unless distinctive spermagonia, paraphyses, or urediniospores are present in collected material, a tropical rust may be difficult to identify (Savile 1980).
+In temperate regions, aecial stages are generally most prevalent in the spring, with uredinial states developing midseason. Telia develop in the fall, usually overwintering in dead host tissue. [[fukuoka-natural-farming-in-tropical-regions]], teliospores may develop and immediately germinate at all times of the year, and thick spore walls and pigmentation — identifying features for temperate rusts — are far less common. Unless distinctive spermagonia, paraphyses, or urediniospores are present in collected material, a tropical rust may be difficult to identify (Savile 1980).
 
 Both new and old infected tissues should be collected in case spore stages of early and advanced infections differ. This is particularly important with rusts that produce all five spore stages on a single host (autoecious rusts).
 
@@ -54,7 +54,7 @@ Although rust infections are not generally fatal to plants, they may severely li
 
 - **Wheat stem rust** (*[[puccinia-graminis]]*) — historically one of the most devastating diseases of cereal crops worldwide
 - **Coffee rust** (*[[hemileia-vastatrix]]*) — a major threat to coffee production in tropical regions
-- **White pine blister rust** (*Cronartium ribicola*) — a destructive disease of five-needled pines requiring an alternate host in the genus *Ribes*
+- **White pine blister rust** (*[[cronartium-ribicola]]*) — a destructive disease of five-needled pines requiring an alternate host in the genus *Ribes*
 
 ## Identification
 
@@ -69,7 +69,7 @@ Identification of a rust species frequently begins with **host identification**,
 - Gäumann (1959) and Wilson and Henderson (1966) for Europe
 - Kuprevich and Tranzschel´ (1957) and Savulescu (1953) for the former Soviet Union
 
-Hiratsuka and Sato (1982) provided an extensive listing of regional rust literature including many additional references. Correct identification often requires examination of multiple spore stages, which means collecting at different times of year or from different host plants when the rust is known to be heteroecious. Microscopic examination of spore morphology, wall ornamentation, and germ pore characteristics is typically necessary for species-level determination.
+Hiratsuka and Sato (1982) provided an extensive listing of regional rust literature including many additional references. Correct identification often requires examination of multiple spore stages, which means collecting at different times of year or from different host plants when the rust is known to be heteroecious. [[fungal-microscopic-examination-mounting-media-techniques]] of spore morphology, wall ornamentation, and germ pore characteristics is typically necessary for species-level determination.
 
 ## Facultative Biotrophs vs. Obligate Biotrophs
 

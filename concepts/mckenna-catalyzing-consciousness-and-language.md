@@ -1,5 +1,5 @@
 ---
-title: McKenna on mckenna catalyzing consciousness and language and Language
+title: McKenna on [[mckenna-catalyzing-consciousness-language-formation]] and language and Language
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md]
 
 ## The Role of Hallucinogens in Cognitive Evolution
 
-The [[stoned-ape-hypothesis]] requires that we explain how a chemical compound could have played a role in the emergence of language and self-reflection. The answer lies in understanding the relationship between hallucinogens and the human brain — specifically, the way in which psychoactive tryptamines interact with serotonin receptors in the brain.
+The [[stoned-ape-hypothesis]] requires that we explain how a chemical compound could have played a role in the emergence of language and self-reflection. The answer lies in understanding the relationship between hallucinogens and the human brain — specifically, the way in which psychoactive tryptamines interact with [[psilocybin-pharmacology-and-serotonin-receptors]] in the brain.
 
 Serotonin is the primary neurotransmitter involved in the regulation of mood, perception, and cognition. It is especially concentrated in the cerebral cortex — the part of the brain responsible for higher cognitive functions, including language. The fact that psilocybin and DMT are structural analogs of serotonin means that they can bind to serotonin receptors and alter the functioning of the very brain systems that underlie consciousness and language.
 
@@ -43,7 +43,7 @@ The interaction between psilocybin use and neocortical development may have crea
 
 ## The Linguistic Fossil Record
 
-The hypothesis that psilocybin played a role in the emergence of language is supported by linguistic evidence. Many of the world's languages contain words for psychoactive plants and their effects that appear to be very ancient — "soma," "haoma," "teonanacatl," "kava." The persistence of these words across millennia and across unrelated language families suggests a deep and ancient connection between psychoactive plants and human linguistic capacity.
+The hypothesis that psilocybin played a role in the emergence of language is supported by [[allegro-linguistic-evidence]]. Many of the world's languages contain words for psychoactive plants and their effects that appear to be very ancient — "soma," "haoma," "teonanacatl," "kava." The persistence of these words across millennia and across unrelated language families suggests a deep and ancient connection between psychoactive plants and human linguistic capacity.
 
 ## The Stoned Ape Hypothesis in Detail
 

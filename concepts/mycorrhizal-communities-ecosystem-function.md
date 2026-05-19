@@ -27,7 +27,7 @@ The composition of mycorrhizal fungal communities is strongly influenced by host
 
 ### Negative Associations Among Mycorrhizal Types
 
-- **Lodge and Wentworth (1990)**: Found negative associations between VA-mycorrhizal fungi and some ECM fungi inhabiting the same root system, suggesting competitive exclusion between [[mycorrhizal-types]]. This has implications for plant community dynamics, as shifts in the relative abundance of AM vs. ECM plants could alter fungal community structure.
+- **Lodge and Wentworth (1990)**: Found negative associations between VA-mycorrhizal fungi and some ECM fungi inhabiting the same root system, suggesting competitive exclusion between [[mycorrhizal-types]]. This has implications for plant community dynamics, as shifts in the relative abundance of AM vs. ECM plants could alter [[mineralogical-controls-fungal-community-structure]].
 
 ## Spatial and Temporal Dynamics
 
@@ -82,12 +82,12 @@ The composition of mycorrhizal fungal communities is strongly influenced by host
 
 ### Functional Redundancy and Ecosystem Stability
 
-- **Jonsson et al. (2001)**: Found context-dependent effects of ECM species richness on tree seedling productivity, suggesting that the relationship between fungal diversity and ecosystem function is not linear and depends on environmental conditions.
+- **Jonsson et al. (2001)**: Found context-dependent effects of ECM species richness on tree seedling productivity, suggesting that the relationship between fungal [[mycorrhizal-diversity-and-ecosystem-function]] is not linear and depends on environmental conditions.
 - **Leake (2001)**: Questioned whether ECM diversity is important for ecosystem function, noting that functional redundancy among ECM species may buffer ecosystem processes against species loss — but also that unique functional traits of certain species may be irreplaceable.
 
 ## Lichen Primary Production in Ecosystems
 
-Lichens, as fungal symbioses with photobionts, contribute directly to primary production, particularly in extreme environments:
+Lichens, as fungal symbioses with photobionts, contribute directly to primary production, particularly [[fungal-biodiversity-in-extreme-environments]]:
 
 - **Cooper and Wookey (2001)**: Measured field growth rates of forage lichens and implications for reindeer grazing in Svalbard, documenting lichen productivity in Arctic ecosystems.
 - **Kärenlampi (1971)**: Studied relative growth rates of fruticose lichens in subarctic environments.

@@ -10,7 +10,7 @@ type: concept
 
 The spawn run of maitake (*Grifola frondosa*) encompasses the entire vegetative growth period — from initial substrate colonization through mycelial maturation and the metabolic transitions that prepare the fungus for primordia initiation. Compared to other cultivated mushrooms, maitake has a notably prolonged spawn run, typically spanning 40 to 42 days from inoculation to the first appearance of primordia. This extended timeline reflects the species' complex metabolic preparation requirements and is characterized by a sequence of visually distinct morphological stages that serve as reliable markers for cultivators monitoring crop progress.
 
-This page focuses specifically on the observable, morphological stages of the maitake spawn run. It is distinct from general spawn-run-and-colonization topics by detailing the unique visual progression of *G. frondosa*, and it is distinct from strain selection and spawn preparation topics by covering what happens after inoculation, during the incubation phase itself.
+This page focuses specifically on the observable, morphological stages of the maitake spawn run. It is distinct from general spawn-run-and-colonization topics by detailing the unique visual progression of *G. frondosa*, and it is distinct from [[maitake-strain-selection-and-spawn-types]] preparation topics by covering what happens after inoculation, during the incubation phase itself.
 
 ## Prolonged Spawn Run Duration
 
@@ -92,7 +92,7 @@ When grayish primordia reach the target diameter of 2.54–5.08 cm within the se
 
 3. **Hold for 2–3 days** — Allow the primordia to consolidate within the sealed bag for an additional 2 to 3 days after reaching target size. This consolidation period strengthens the primordial structures and ensures they are robust enough to survive exposure to the open fruiting environment.
 
-4. **Transfer to fruiting facility** — Move the bags to the dedicated fruiting room where environmental controls (temperature, humidity, fresh air exchange, and lighting) are configured for fruiting body development.
+4. **Transfer to fruiting facility** — Move the bags to the dedicated fruiting room where environmental controls (temperature, humidity, fresh air exchange, and lighting) are configured for [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]].
 
 5. **Open bag tops** — After 2–3 days in the fruiting facility, open the tops of the bags to expose the developing primordia to the fruiting environment. This allows for gas exchange and marks the formal beginning of the fruiting cycle.
 
@@ -111,7 +111,7 @@ When grayish primordia reach the target diameter of 2.54–5.08 cm within the se
 
 This page is specifically focused on the **visual and morphological progression** of the maitake spawn run. It complements but does not overlap with:
 
-- **Chen maitake strain selection and spawn preparation** — Covers upstream decisions about strain choice and spawn grain production, not the incubation phases described here.
+- **[[chen-maitake-strain-selection-spawn-preparation]] and spawn preparation** — Covers upstream decisions about strain choice and spawn grain production, not the incubation phases described here.
 - **Spawn run and colonization (general)** — Covers general spawn run principles across species; this page provides the species-specific morphological staging unique to *G. frondosa*.
 - **Maitake primordia initiation and brain stage** — Picks up where this page leaves off, covering the events from primordia consolidation through the brain and cauliflower fruiting stages.
 

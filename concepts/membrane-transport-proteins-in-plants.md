@@ -1,5 +1,5 @@
 ---
-title: Membrane Transport Proteins in Plants
+title: [[plant-cell-membrane-transport-proteins]] in Plants
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
@@ -12,7 +12,7 @@ The [[plasmalemma]] (plasma membrane) is a flowing wall with the viscosity of ol
 
 Inside each cell, the **tonoplast** membrane surrounds the [[vacuole]] and separates it from the cytosol. The tonoplast and plasmalemma act in coordination to maintain cellular homeostasis—particularly the cytosol's near-neutral pH of approximately 7.2, which prevents damage to organelles and metabolic reactions.
 
-This pH balance is achieved by pumping hydrogen ions (H⁺) out of the cytosol and into the vacuole, which tolerates higher acidity (pH ~5.5). Remaining H⁺ ions are exported across the plasmalemma, where they accumulate on the cell wall surface for cation exchange and to power ion transport mechanisms.
+This pH balance is achieved by pumping hydrogen ions (H⁺) out of the cytosol and into the vacuole, which tolerates higher acidity (pH ~5.5). Remaining H⁺ ions are exported across the plasmalemma, where they accumulate on the cell wall surface for [[cation-exchange-and-nonessential-elements]] to power ion transport mechanisms.
 
 The tonoplast regulates transport based on multiple signals: pH, specific ion and protein concentrations, light, heat, smoke, and salinity. Signals pass between cells and from organelles to membranes, creating a coordinated regulatory system. Movement across the tonoplast includes:
 
@@ -82,7 +82,7 @@ Once inside a root cell, nutrient ions travel along the same pathways as water. 
 
 ### Root Pressure and Guttation
 
-When stomata are closed or transpiration is very slow, xylem sap accumulates and creates osmotic pressure that pushes sap upward. This **root pressure** is effective but limited to approximately several meters of height. When root pressure is strong enough, it can push sap out of leaf tips—a visible process called **guttation**. For tall plants, the passive pull of transpiration does most of the work.
+When stomata are closed or transpiration is very slow, xylem sap accumulates and creates [[fungal-fruiting-body-mechanics-osmotic-pressure]] that pushes sap upward. This **root pressure** is effective but limited to approximately several meters of height. When root pressure is strong enough, it can push sap out of leaf tips—a visible process called **guttation**. For tall plants, the passive pull of transpiration does most of the work.
 
 ### Entry into the Xylem
 

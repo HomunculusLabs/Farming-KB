@@ -1,5 +1,5 @@
 ---
-title: "Sphingomonas Wittichii Maui Wowie Phenazine Metabolism"
+title: "[[sphingomonas-wittichii-maui-wowie]] Phenazine Metabolism"
 created: 2026-05-11
 tags: [cannabis, microbiome, sphingomonas-wittichii, phenazine, maui-wowie, strain-biomarker, endorhiza, secondary-metabolites]
 source: raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
@@ -41,7 +41,7 @@ tropical Hawaiian origins.
 The strain-specificity of S. wittichii raises several ecological
 questions:
 
-1. Does Maui Wowie produce root exudates or secondary metabolites
+1. Does Maui Wowie produce root exudates or [[biodiversity-fungal-secondary-metabolites]]
    that selectively favor S. wittichii colonization?
 2. Does S. wittichii provide a fitness advantage to Maui Wowie
    through phenazine degradation or other metabolic activities?
@@ -90,7 +90,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

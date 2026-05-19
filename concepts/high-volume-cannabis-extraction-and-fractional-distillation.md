@@ -1,5 +1,5 @@
 ---
-title: High Volume Cannabis Extraction And Fractional Distillation
+title: [[high-volume-cannabis-extraction-and-refinement]] [[cannabis-advanced-refinement-fractional-distillation]]
 source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
@@ -114,7 +114,7 @@ Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
+[[ghouled-field-guide-historical-context]] provides important lessons for modern applications.
 Collaborative networks and knowledge sharing accelerate progress in this field.
 Emerging technologies offer new tools for analysis and implementation.
 ## Further Considerations

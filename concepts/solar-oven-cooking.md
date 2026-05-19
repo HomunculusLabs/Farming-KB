@@ -23,8 +23,8 @@ reflective surfaces. The greenhouse effect traps heat inside the chamber,
 while insulation minimizes heat loss. Key principles:
 
 - **Reflectors** — direct additional sunlight into the cooking chamber
-- **Absorber plate** — dark surface (black) absorbs maximum solar radiation
-- **Insulation** — minimizes conductive and convective heat loss
+- **Absorber plate** — dark surface (black) absorbs maximum [[albedo-and-solar-radiation]]
+- **Insulation** — minimizes conductive [[thermal-belts-thermosiphons-and-convective-heat]] loss
 - **Glazing** — transparent cover (glass or plastic) allows light in but
   prevents convective heat loss
 
@@ -96,7 +96,7 @@ hours. More durable versions using plywood or sheet metal cost $50-150.
 
 ## Cooking Times and Techniques
 
-Solar cooking is slower than conventional methods. Plan for 1.5-2x the
+Solar cooking is slower than [[microwave-sterilization-versus-conventional-methods-comparison]]. Plan for 1.5-2x the
 normal cooking time.
 
 ### General Guidelines

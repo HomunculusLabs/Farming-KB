@@ -22,15 +22,15 @@ Thailand hosts several Psilocybe species of particular interest:
 
 ## The Koh Samui Ethnomycological Tradition
 
-The islands of Koh Samui and Koh Pha-ngan in the Gulf of Thailand became internationally known in the 1980s-1990s as destinations for recreational use of psychoactive mushrooms. Allen & Merlin's (1992a, b) research documented several key aspects of this tradition:
+The islands of Koh Samui and Koh Pha-ngan in the Gulf of Thailand became internationally known in the 1980s-1990s as destinations for recreational use [[historical-and-cultural-uses-of-psychoactive-mushrooms]]. Allen & Merlin's (1992a, b) research documented several key aspects of this tradition:
 
-**Indigenous knowledge**: Local Thai people had long known about the psychoactive properties of mushrooms growing on water buffalo dung, though formal ceremonial use comparable to Mesoamerican traditions was not documented. Traditional Thai knowledge distinguished between edible, poisonous, and "magic" mushrooms.
+**[[desert-food-systems-and-indigenous-knowledge]]**: Local Thai people had long known about the psychoactive properties of mushrooms growing on water buffalo dung, though formal ceremonial use comparable to Mesoamerican traditions was not documented. Traditional Thai knowledge distinguished between edible, poisonous, and "magic" mushrooms.
 
 **Tourist phenomenon**: By the late 1980s, a commercial market for "magic mushrooms" had developed on Koh Samui and Koh Pha-ngan, catering primarily to Western tourists. Mushroom omelets and shakes were sold openly at beachside restaurants and bars. This commercialization prompted the Thai government to eventually regulate or prohibit the sale of psychoactive mushrooms, though enforcement has been variable.
 
 **Collection practices**: Mushrooms were typically collected early in the morning from water buffalo pastures during the rainy season. Local collectors developed expertise in identifying P. cubensis and C. cyanescens, which were the primary species consumed.
 
-**Cultural context**: Unlike the deeply spiritual [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]], Copelandia cyanescens, and other coprophilous species. Heavy rainfall creates the high humidity necessary for fruiting, and fresh dung deposited during the dry season provides newly available substrate.
+**Cultural context**: Unlike the deeply spiritual [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]], [[copelandia-cyanescens]], and other coprophilous species. Heavy rainfall creates the high humidity necessary for fruiting, and fresh dung deposited during the dry season provides newly available substrate.
 - **Dry season** (November-April): Most above-ground fruiting ceases. However, mycelial networks persist in dung and soil, ready to fruit when rains return.
 - **Equatorial regions** (Malaysia, Indonesia, Philippines): Less pronounced seasonality, with potential for year-round fruiting in areas with consistent rainfall. However, even equatorial regions may experience drier periods that temporarily suppress fruiting.
 

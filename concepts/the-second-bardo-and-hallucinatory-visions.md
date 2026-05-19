@@ -34,9 +34,9 @@ Following the structure of the *Bardo Thodol*, Leary classifies Second Bardo vis
 |  | Internal (Eyes Closed) | External (Eyes Open) |
 |---|---|---|
 | **Intellectual** | Vision 2: Archetypal Processes | Vision 4: Wave-Vibration of External Forms |
-| **Emotional** | Vision 3: Fire-Flow of Internal Unity | Vision 5: Vibratory Waves of External Unity |
+| **Emotional** | Vision 3: Fire-Flow of Internal Unity | Vision 5: Vibratory Waves of [[visions-external-unity-retinal-circus-magic-theatre]] |
 
-Vision 1 (The Source) precedes this matrix as the initial emanation, while Visions 6 ("The Retinal Circus") and 7 ("The Magic Theatre") represent the free interplay of all modes.
+Vision 1 (The Source) precedes this matrix as the initial emanation, while Visions 6 ("The [[retinal-circus-and-magic-theatre]]") and 7 ("The Magic Theatre") represent the free interplay of all modes.
 
 ## Vision 1: The Source
 
@@ -48,7 +48,7 @@ Persons from a Judaeo-Christian background typically conceive of an enormous gul
 
 When the undifferentiated light is lost, "luminous waves of differentiated forms" flood through consciousness. The subject is caught up in:
 
-- **Visual phenomena**: Endless flow of colored forms, microbiological shapes, cellular acrobatics, capillary whirling — pure sensations of cellular and sub-cellular processes
+- **[[lsd-dark-experiment-visual-phenomena-psychological-effects]]**: Endless flow of colored forms, microbiological shapes, cellular acrobatics, capillary whirling — pure sensations of cellular and sub-cellular processes
 - **Auditory phenomena**: Internal sounds described as clicking, thudding, clashing, soughing, ringing, tapping, moaning, and shrill whistles — "raw, molecular, dancing units of energy"
 
 The *Bardo Thodol* contains a remarkable discussion connecting these internal sounds to Tibetan sacred music. Lamas employ seven sorts of musical instruments (drums, cymbals, conch shells, bells, timbrels, clarionets, trumpets, and human thighbone trumpets) because they are "the counterparts of the natural sounds which one's own body is heard producing when the fingers are put in the ears to shut out external sounds."

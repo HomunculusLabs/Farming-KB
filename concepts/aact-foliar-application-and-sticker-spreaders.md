@@ -6,14 +6,14 @@ type: concept
 
 # AACT Foliar Application and Sticker-Spreaders
 
-Applying [[actively-aerated-compost-tea]] (AACT) to plant foliage introduces beneficial microorganisms directly to leaf and stem surfaces, where they can occupy ecological niches, compete with pathogens, stimulate plant immune responses, and improve nutrient cycling on the phyllosphere (leaf surface ecosystem). Proper application technique and the use of sticker-spreaders determine whether organisms survive and colonize after spraying.
+Applying [[actively-aerated-compost-tea]] (AACT) to plant foliage introduces [[forest-and-bamboo-beneficial-microorganisms]] directly to leaf and stem surfaces, where they can occupy ecological niches, compete with pathogens, stimulate plant immune responses, and improve nutrient cycling on the phyllosphere (leaf surface ecosystem). Proper application technique and the use of sticker-spreaders determine whether organisms survive and colonize after spraying.
 
 ## Why Apply AACT to Foliage?
 
 Foliar application of compost tea provides several distinct benefits beyond soil drenching:
 
 1. **Disease suppression:** Beneficial bacteria and fungi physically occupy space on leaf surfaces, competing with pathogens for resources and excreting antimicrobial compounds.
-2. **Plant immune priming:** Contact with beneficial microorganisms triggers systemic acquired resistance (SAR) and induced systemic resistance (ISR) in plants.
+2. **Plant immune priming:** Contact with beneficial microorganisms triggers systemic acquired resistance (SAR) and [[endophytic-mycorrhizal-induced-systemic-resistance]] (ISR) in plants.
 3. **Nutrient foliar feeding:** Some nutrients in the tea are absorbed directly through leaf stomata and cuticle.
 4. **Decomposition of leaf litter:** Fungi on leaf surfaces begin breaking down organic debris, preventing pathogen colonization of dead tissue.
 5. **Extended protection:** A well-established microbial community on foliage provides ongoing protection between applications.
@@ -34,7 +34,7 @@ A sticker-spreader (also called an adjuvant) is a substance added to spray solut
 
 ### Aloe Vera
 
-Aloe vera gel is one of the most recommended natural sticker-spreaders for AACT. It contains polysaccharides and saponins that help the tea spread evenly and adhere to leaf surfaces. Pure, food-grade aloe vera (without preservatives) is ideal. Typical rates are 1–2 ounces of aloe gel per gallon of tea. Aloe also provides additional nutrients and mild antimicrobial properties that do not harm beneficial organisms.
+Aloe vera gel is one of the most recommended natural sticker-spreaders for AACT. It contains polysaccharides and saponins that help the tea spread evenly and adhere to leaf surfaces. Pure, food-grade aloe vera (without preservatives) is ideal. Typical rates are 1–2 ounces of aloe gel per gallon of tea. Aloe also provides additional nutrients and mild [[medicinal-mushroom-antimicrobial-properties]] that do not harm beneficial organisms.
 
 ### Bacterial and Fungal Adhesion
 

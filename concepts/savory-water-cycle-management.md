@@ -1,5 +1,5 @@
 ---
-title: Savory Water Cycle Management
+title: Savory Water [[cannabis-sativa-flowering-cycle-management]]
 created: 2026-04-26
 aliases: [effective water cycle, water infiltration, ozier-pdc-hydro-cycle-and-watershed-management
 tags: [water-cycle, infiltration, erosion-control, watershed, soil-health]
@@ -20,7 +20,7 @@ Water cycle management is one of the four [[savory-holistic-resource-management-
 
 **In a noneffective water cycle**, plants get minimal opportunity to use the full precipitation received. Much is lost to surface evaporation or runoff. What soaks in is often not readily available to plants because air and water are not in balance in the soil.
 
-The practical difference is enormous. In arid areas receiving fourteen inches of rain, only five or six inches may be effective—meaning roughly six hundred tons of water are required to produce one ton of vegetation, and none can be wasted.
+The practical difference is enormous. [[soil-amelioration-and-fertilisers-in-arid-areas]] receiving fourteen inches of rain, only five or six inches may be effective—meaning roughly six hundred tons of water are required to produce one ton of vegetation, and none can be wasted.
 
 ## How Capping Destroys Water Cycles
 
@@ -90,7 +90,7 @@ Careful observation and documentation support ongoing improvement.
 
 ## Research Developments
 
-Current research directions and emerging findings for savory water cycle management. Understanding
+[[psychedelic-therapy-current-research]] directions and emerging findings for savory water cycle management. Understanding
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 

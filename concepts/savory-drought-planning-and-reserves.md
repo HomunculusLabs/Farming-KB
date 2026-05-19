@@ -52,7 +52,7 @@ have frequent stimulating moves onto fresh ground.
 
 ## Successional Risk of Area Reserves
 
-Considering that over half the time the growing season begins on schedule,
+Considering that over half the time [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] begins on schedule,
 the ungrazed paddocks may become a liability. In many environments, long-
 rested paddocks will encourage [[savory-water-cycle-management]] is ineffective, most
 years of below-average or poorly distributed rain become droughts, and the
@@ -93,7 +93,7 @@ Careful observation and documentation support ongoing improvement.
 
 ## Research Developments
 
-Current research directions and emerging findings for savory drought planning reserves. Understanding
+[[psychedelic-therapy-current-research]] directions and emerging findings for savory drought planning reserves. Understanding
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 

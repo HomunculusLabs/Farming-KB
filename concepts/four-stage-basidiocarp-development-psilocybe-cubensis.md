@@ -1,5 +1,5 @@
 ---
-title: Four Stage Basidiocarp Development Psilocybe Cubensis
+title: [[four-stage-basidiocarp-development-psilocybe-cubensis-badham]]
 concept_type: scientific-concept
 source: Tropisms in the Mushroom Psilocybe cubensis (Badham, 1982)
 domain: mycology
@@ -111,7 +111,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

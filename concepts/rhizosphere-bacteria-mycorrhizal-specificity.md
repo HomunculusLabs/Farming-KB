@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[mycorrhizal-fungi]] do not exist in isolation in soil. They are intimately associated with diverse bacterial communities within the rhizosphere that profoundly influence fungal establishment, nutrient acquisition, and ecosystem function. Additionally, the degree of specificity between mycorrhizal fungi and their host plants—particularly for [[arbuscular-mycorrhizae]] (AM)—is more nuanced than traditionally appreciated, with implications for plant community assembly and successional dynamics.
+[[mycorrhizal-fungi]] do not exist in isolation in soil. They are intimately associated with diverse bacterial communities within the rhizosphere that profoundly influence fungal establishment, nutrient acquisition, and ecosystem function. Additionally, the degree of specificity between mycorrhizal fungi and their host plants—particularly for [[arbuscular-mycorrhizae]] (AM)—is more nuanced than traditionally appreciated, with implications for [[fungi-plant-community-assembly-regulation]] and successional dynamics.
 
 ## Helper Bacteria in the Mycorrhizosphere
 
@@ -22,7 +22,7 @@ Helper bacteria influence mycorrhizal associations through multiple pathways:
 
 1. **Recognition facilitation**: Assist in the fungal–plant recognition system (Duponnois, 1992)
 2. **Root receptivity**: Increase host root receptivity to mycorrhizal fungi
-3. **Mycelial growth enhancement**: Promote mycorrhizal fungal mycelial growth prior to root colonization (Duponnois and Garbaye, 1990; Garbaye and Duponnois, 1992)
+3. **[[mycelial-growth-enhancement-with-phytohormones]]**: Promote mycorrhizal fungal mycelial growth prior to root colonization (Duponnois and Garbaye, 1990; Garbaye and Duponnois, 1992)
 4. **Rhizosphere modification**: Alter rhizospheric [[soil-ph]], produce ion-complexing compounds (siderophores), and modify nutrient balance (Wallander and Nylund, 1991)
 5. **Propagule germination**: Stimulate germination of fungal propagules—especially important for AM fungi (Ali and Jackson, 1989; von Alten et al., 1993)
 
@@ -65,7 +65,7 @@ Barni and Siniscalco (2000) investigated AM colonization changes during vegetati
 The successional shift from AM to EM dominance reflects a fundamental change in nutrient economy. AM fungi are primarily adapted to acquiring inorganic nutrients, while EM fungi can access organic nutrient pools. As organic matter accumulates during succession, EM fungi gain a competitive advantage. This transition has implications for:
 
 - **Nutrient cycling**: EM-dominated communities retain nutrients more tightly through organic matter decomposition
-- **Plant community composition**: The shift in mycorrhizal type facilitates the establishment of EM-dependent tree species
+- **[[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]**: The shift in mycorrhizal type facilitates the establishment of EM-dependent tree species
 - **Ecosystem stability**: Greater functional diversity of mycorrhizal types in late successional communities may enhance ecosystem resilience
 
 ## Integration with Plant Community Dynamics

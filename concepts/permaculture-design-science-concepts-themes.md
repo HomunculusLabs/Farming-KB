@@ -8,7 +8,7 @@ type: concept
 
 ## The Design Science Revolution
 
-Permaculture opens its conceptual framework with a provocative assertion from [[arthur-koestler]]** (1967): Living organisms are open systems that maintain complex forms through continuous exchanges of energy and material with their environment, constantly building more complex substances, forms of energy, and patterns of information
+Permaculture opens its [[holmgren-permaculture-flower-conceptual-framework]] with a provocative assertion from [[arthur-koestler]]** (1967): Living organisms are open systems that maintain complex forms through continuous exchanges of energy and material with their environment, constantly building more complex substances, forms of energy, and patterns of information
 - **[[permaculture-design]] thinking: the difference between **open** and **closed** systems.
 
 **Closed systems** (as in classical thermodynamics) operate in confinement where reactions can be reversed — the expansion and compression of gas in a cylinder, for example. Energy accounting is straightforward; the system's behavior is predictable.
@@ -29,7 +29,7 @@ The practical implication for designers is that the Earth reacts to maltreatment
 
 ## Myth, Taboo, and the Loss of Nature-Based Guidance
 
-Mollison identifies a fundamental problem in Western civilization: the loss of tribal taboos and myths that once guided behavior in the natural world. When people left tribal life, they left with it all guides to sensible behavior in the natural world of which they are part. Modern societies never evolved replacement directives.
+Mollison identifies a fundamental problem in [[eleusinian-mysteries-psychoactive-fungi-western-civilization]]: the loss of tribal taboos and myths that once guided behavior in the natural world. When people left tribal life, they left with it all guides to sensible behavior in the natural world of which they are part. Modern societies never evolved replacement directives.
 
 The structure of aboriginal myth, Mollison observes, encoded ecological wisdom through narrative:
 
@@ -103,7 +103,7 @@ Practitioners have demonstrated successful implementation across varied climates
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores intersections between traditional knowledge and modern scientific understanding.
+Current research explores intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 

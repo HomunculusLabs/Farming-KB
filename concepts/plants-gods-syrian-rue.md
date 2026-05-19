@@ -32,8 +32,8 @@ in native religion and magic. Syrian Rue has many uses in folk medicine
 across its vast range, serving as an emmenagogue, abortifacient,
 taenicide (tapeworm remedy), and general medicinal plant.
 
-In traditional Ayahuasca preparations in South America, the seeds from
-Peganum harmala are sometimes combined with DMT-containing plants as an
+In traditional [[schultes-ayahuasca-preparations]] in South America, the seeds from
+[[mckenna-peganum-harmala-soma-substitute-psilocybin-synergy]] are sometimes combined with DMT-containing plants as an
 alternative to the traditional Banisteriopsis caapi vine. Twenty to
 fifty grams of roots from DMT-containing plants are boiled with 3 grams
 of seeds from Peganum harmala, and the preparation is consumed as a
@@ -90,7 +90,7 @@ Regional variations, seasonal changes, and local ecosystem conditions all play s
 ## Implementation Guidelines
 
 Step-by-step implementation approach and recommended practices. Success with plants gods syrian depends on systematic evaluation of local conditions and careful planning. Experienced practitioners recommend starting small and expanding based on documented results. Regular assessment allows for timely adjustments and prevents compounding errors.
-Key metrics include growth rates, resource efficiency, and outcome quality. Document baseline conditions before beginning and track changes systematically throughout the process for evidence-based optimization.
+Key metrics include growth rates, [[permaculture-energy-cycling-and-resource-efficiency]], and outcome quality. Document baseline conditions before beginning and track changes systematically throughout the process for evidence-based optimization.
 
 ## Quality Indicators
 

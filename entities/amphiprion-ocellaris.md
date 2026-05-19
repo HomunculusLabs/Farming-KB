@@ -10,9 +10,9 @@ tags:
   - marine-biology
   - pomacentridae
 date: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-18
 sources:
-  - "Fautin, D.G. & Allen, G.R. (1992). field-guide-psilocybin-bluing-reaction-identification to Anemonefishes and Their Host Sea Anemones. Western Australian Museum."
+  - "Fautin, D.G. & Allen, G.R. (1992). Field Guide to Anemonefishes and Their Host Sea Anemones. Western Australian Museum."
   - "Elliott, J.K. & Mariscal, R.N. (2001). \"Coexistence of nine anemonefish species.\" Marine Ecology Progress Series, 214, 129-139."
   - "Salis, P. et al. (2018). \"Cost of living on the edge: anemonefish oxygen demand.\" Journal of Experimental Biology, 221, jeb180410."
 ---
@@ -25,7 +25,7 @@ sources:
 Pomacentridae, famous for its mutualistic symbiosis with sea anemones.
 Native to the eastern Indian Ocean and western Pacific, the species gained
 widespread popular recognition from the animated film *Finding Nemo*. It is
-among the most studied marine fish for its [[permaculture-community-philosophy-and-social-structure]], sex change, and
+among the most studied marine fish for its social hierarchy, sex change, and
 host-anemone interactions.
 
 ## Taxonomy
@@ -77,8 +77,39 @@ mertensii*.
 ### Anemone Symbiosis
 
 The relationship between clownfish and host anemones is a classic model of
-obligate mutualism. The fish gains shelter and [[md-family-structure-activity]]
-- [[shamanic-entheogenic-ceremony-structure-common-elements]]
+obligate mutualism. The fish gains shelter and protection from predators,
+while the anemone benefits from the fish's defense against parasites and
+increased water flow from fin movements. This mutualistic relationship parallels
+other symbiotic systems in nature. See [[symbiotic-fungi-lichen-symbiosis-mechanisms]]
+for analogous fungal symbiosis patterns, and [[mycorrhizal-fungi-diversity-ecology-mutualism]]
+for plant-fungal mutualisms.
+
+### Diet and Feeding
+
+Ocellaris clownfish are omnivorous, feeding primarily on zooplankton,
+small invertebrates, and algae. In the aquarium trade they readily accept
+prepared foods. Their feeding behavior contributes to nutrient cycling within
+their reef habitat, similar to broader [[marine-fungal-faunal-interactions]] in
+marine ecosystems.
+
+### Reproduction
+
+Pairs form strict social hierarchies within a host anemone. The breeding
+female is the largest, the breeding male the second largest, and non-breeders
+are progressively smaller. After spawning, the male guards and aerates the
+eggs until hatching, approximately 6–8 days later.
+
+## Conservation and Aquarium Trade
+
+The species is not currently threatened and is abundant throughout its range.
+Captive-breeding programs have greatly reduced collection pressure on wild
+populations, making it one of the most sustainable species in the marine
+aquarium trade. These breeding efforts connect to broader [[marine-aquaculture-seaweed-estuary-systems]]
+practices and [[aquaculture-designers-checklist]] principles.
 
 ## See Also
-- [[metzner-three-features-shamanic-entheogenic-ceremonies]]
+
+[[mollison-designers-ocean-reef-restoration-mariculture]],
+[[tidal-aquaculture-systems]],
+[[aquaponics-fish-species]], and
+[[bioremediation-ecosystem-restoration]]

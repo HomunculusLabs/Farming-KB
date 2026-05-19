@@ -6,7 +6,7 @@ type: concept
 
 # Free-Range Forage Systems
 
-**Free-range forage systems** are integrated animal management strategies central to [[permaculture-design]], in which domestic animals are permitted to roam, graze, and forage across defined landscapes rather than being confined to intensive indoor or feedlot operations. Introduced systematically in Bill Mollison's *Permaculture: A Designers' Manual*, these systems emphasise the interdependence of animal behaviour, seasonal nutrition, and ecological interactions to produce food, fibre, and ecosystem services with minimal external inputs.
+**Free-range forage systems** are integrated animal management strategies central to [[permaculture-design]], in which [[permaculture-domestic-animals]] are permitted to roam, graze, and forage across defined landscapes rather than being confined to intensive indoor or feedlot operations. Introduced systematically in Bill Mollison's *Permaculture: A Designers' Manual*, these systems emphasise the interdependence of animal behaviour, seasonal nutrition, and ecological interactions to produce food, fibre, and ecosystem services with minimal external inputs.
 
 The concept rests on a fundamental departure from industrial animal husbandry: rather than forcing animals into artificial environments and supplying all needs through purchased feed and chemical interventions, the permaculture approach designs landscapes that meet the animals' biological and behavioural requirements while harvesting the products and services they return to the system. The three species treated in depth in Mollison's text — bees, poultry, and pigs — each illustrate different facets of this design philosophy and together form a complementary suite of organisms that can be integrated across a single property.
 
@@ -44,7 +44,7 @@ Beyond harvested products, bees provide an **essential pollination service**. Mo
 
 ### Colony Biology
 
-A bee colony functions as a **superorganism**, coordinating ventilation through a rhythmic cycle of approximately **1.2 minutes**. This collective respiration regulates temperature and humidity within the hive, ensuring brood survival and honey curing.
+A bee colony functions as a **superorganism**, coordinating ventilation through a rhythmic cycle of approximately **1.2 minutes**. This collective respiration regulates [[greg-green-temperature-and-humidity-control]] within the hive, ensuring brood survival and honey curing.
 
 ### Forage Planning
 
@@ -129,7 +129,7 @@ Effective forage system design requires planning across the full annual cycle:
 - **Autumn**: Late forage for bees before winter, grain harvest residues for poultry, root crops for all species
 - **Winter**: Stored feeds, sprouted grains, shelter management, planning for the next season
 
-Each season demands different management interventions and different forage species. The designer's task is to assemble a plant palette that provides continuous nutrition while simultaneously serving other functions — shelter, erosion control, nitrogen fixation, wildlife habitat, and aesthetic value.
+Each season demands different management interventions and different forage species. The designer's task is to assemble a plant palette that provides continuous nutrition while simultaneously serving other functions — shelter, erosion control, nitrogen fixation, [[hemenway-backyard-wildlife-habitat]], and aesthetic value.
 
 ## See Also
 

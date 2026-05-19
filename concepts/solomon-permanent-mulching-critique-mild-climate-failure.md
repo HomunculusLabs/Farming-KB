@@ -1,6 +1,6 @@
 # Solomon on Permanent Mulching — Why It Fails in Mild Climates
 
-**Source:** Gardening When It Counts (Solomon, 2005)
+**Source:** [[gardening-when-it-counts]] (Solomon, 2005)
 
 ## Overview
 
@@ -71,7 +71,7 @@ not make it optimal for younger, fitter gardeners serious about food production.
 
 ## Overview
 
-Solomon Permanent Mulching Critique Mild Climate Failure represents an important element within sustainable
+[[solomon-permanent-mulching-critique-limitations]] Mild Climate Failure represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 solomon permanent mulching critique mild climate failure and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

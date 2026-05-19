@@ -15,7 +15,7 @@ Systematic record keeping transforms a homestead from a collection of guesswork 
 
 - **Yield tracking** — know which varieties, planting dates, and methods produce the most food per square foot
 - **Financial accountability** — understand true costs versus income from homestead products
-- **Seasonal planning** — refer to past years to optimize planting, harvesting, and preservation schedules
+- **[[seasonal-planning]]** — refer to past years to optimize planting, harvesting, and preservation schedules
 - **Animal health** — track vaccinations, breeding, weight gain, feed consumption, and health events
 - **Legal and tax** — support deductions, agricultural tax status, and insurance claims
 - **Improvement measurement** — compare year-over-year progress toward your goals
@@ -32,7 +32,7 @@ For each crop, record:
 - Pest and disease observations
 - First harvest date
 - Total yield (weight or count)
-- Taste notes and quality assessment
+- Taste notes [[mushroom-spawn-vitality-testing-and-quality-assessment]]
 - Storage method and shelf life
 
 A simple garden journal or spreadsheet handles this well. Include a garden map each year showing what was planted where — essential for crop rotation.
@@ -81,7 +81,7 @@ Track every dollar in and out of the homestead operation. Categories:
 - Animal feed and supplies
 - Seeds, plants, and garden supplies
 - Fertilizer, amendments, and soil inputs
-- Equipment and tools (with depreciation)
+- [[coleman-small-farm-equipment-and-tools]] (with depreciation)
 - Fuel and utilities
 - Veterinary care and medications
 - Building materials and repairs

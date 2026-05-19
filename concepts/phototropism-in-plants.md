@@ -68,7 +68,7 @@ The photoreceptors responsible for phototropism are phototropins -- blue-light-
 sensitive proteins containing flavin chromophores. Two primary phototropins,
 phot1 and phot2, have been identified. Phot1 mediates phototropism under low
 to moderate light intensities, while phot2 functions at higher intensities and
-mediates the chloroplast avoidance response.
+mediates the chloroplast [[ethylene-involvement-fungal-tropism-avoidance-response]].
 
 Phototropins absorb blue light (approximately 450 nm) through flavin molecules.
 Upon absorption, the phototropin autophosphorylates, activating its signaling
@@ -89,7 +89,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

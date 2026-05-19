@@ -6,12 +6,12 @@ type: concept
 
 # Fungal-Faunal Interactions: Synthesis and Conclusions
 
-Fungi interact with animals across virtually all ecosystems through a spectrum of relationships ranging from mutualism to parasitism. These interactions are fundamental drivers of ecosystem processes, influencing nutrient cycling, decomposition rates, plant community structure, and population dynamics of both fungi and fauna.
+Fungi interact with animals across virtually all ecosystems through a spectrum of relationships ranging from mutualism to parasitism. These interactions are fundamental drivers [[fungi-as-regulators-of-ecosystem-processes]], influencing nutrient cycling, decomposition rates, plant community structure, and population dynamics of both fungi and fauna.
 
 ## Fungi as Food Resources
 
 ### Vertebrate Mycophagy
-Fungi serve as important food sources for numerous vertebrate animals. Mushroom collecting and consumption has deep cultural and culinary traditions in many European countries, and commercial mushroom cultivation is a multimillion-dollar industry in the United States alone. For many vertebrates, fungal consumption is especially critical during periods of food scarcity. In Arctic regions, reindeer rely on lichens as their primary food source when snow covers vascular plants. Similarly, small mammals worldwide incorporate fungi into their diets when other food sources are depleted or during seasonal fungal abundance peaks.
+Fungi serve as important food sources for numerous vertebrate animals. Mushroom collecting and consumption has deep cultural and culinary traditions in many European countries, and [[history-of-commercial-mushroom-cultivation]] is a multimillion-dollar industry in the United States alone. For many vertebrates, fungal consumption is especially critical during periods of food scarcity. In Arctic regions, reindeer rely on lichens as their primary food source when snow covers vascular plants. Similarly, small mammals worldwide incorporate fungi into their diets when other food sources are depleted or during seasonal fungal abundance peaks.
 
 Hypogeous (underground) fungi, such as truffles, have evolved an obligate dependence on small mammals for spore dispersal. The fruiting bodies of these fungi are consumed by mammals, and viable spores are deposited in feces at foraging sites and middens. This relationship is so tight that the entire reproductive strategy of hypogeous fungi depends on mammalian vectors.
 
@@ -39,7 +39,7 @@ However, field observations suggest that collembola spend considerable time groo
 
 ### Ectomycorrhizal Inoculum
 The ability of animals to transport fungal propagules—either externally on their bodies or internally through their gut—is critical for spreading inoculum through ecosystems. Fungal spores can survive passage through the digestive tracts of earthworms and soil arthropods, enabling dispersal to new resources including:
-- Fresh organic substrates for saprotrophic fungal communities
+- Fresh organic substrates for [[acidifying-pollutants-saprotrophic-fungal-communities]]
 - Root zones for mycorrhizal fungal communities
 - Bare ground during primary or secondary succession
 

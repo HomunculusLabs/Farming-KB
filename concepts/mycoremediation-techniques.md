@@ -86,7 +86,7 @@ Mycoaccumulation uses fungi to absorb and concentrate heavy metals and other ino
 - Suillus luteus: Tolerant of and accumulates zinc and cadmium
 - Pleurotus ostreatus: Accumulates lead and cadmium
 - Trametes versicolor: Biosorbs heavy metals effectively
-- Arbuscular mycorrhizal fungi: Reduce metal uptake in crop plants while accumulating metals in their own networks
+- [[arbuscular-mycorrhizal-fungi]]: Reduce metal uptake in crop plants while accumulating metals in their own networks
 
 ### Limitations
 
@@ -106,7 +106,7 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 
 #### Petroleum Hydrocarbons
 
-- PAHs (polycyclic aromatic hydrocarbons): A major class of petroleum-derived contaminants
+- PAHs ([[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]): A major class of petroleum-derived contaminants
 - BTEX (benzene, toluene, ethylbenzene, xylene): Common groundwater contaminants
 - Oil and fuel spills: Crude oil, diesel, gasoline, jet fuel
 - Oyster mushroom (Pleurotus) species are particularly effective
@@ -125,7 +125,7 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 
 #### Dyes and Textile Chemicals
 
-- Synthetic dyes from textile industry wastewater
+- Synthetic dyes from [[staycare-fungal-treatment-of-textile-industry-wastewater]]
 - Laccase enzymes from white-rot fungi effectively decolorize dye wastewater
 - Trametes versicolor and Phanerochaete are the most studied species
 

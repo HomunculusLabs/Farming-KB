@@ -1,12 +1,12 @@
 ---
-title: Landscape Effects of Altitude and Valley Climates
+title: Landscape Effects of [[latitude-altitude-and-valley-climates]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Landscape Effects of Altitude and Valley Climates
 
-Climate is shaped not only by latitude and proximity to oceans but also dramatically by altitude, slope, and valley geometry. Understanding these landscape-scale effects is essential for [[continental-climate]] is the third major complication on simple temperature-rainfall classifications (after temperature and precipitation patterns). After this, only one special factor remains: the effect of hills or mountain ranges on local climate — effects very like latitudinal effects on a global scale.
+Climate is shaped not only by latitude and proximity to oceans but also dramatically by altitude, slope, and valley geometry. Understanding these landscape-scale effects is essential for [[continental-climate]] is the third major complication on simple temperature-rainfall classifications (after temperature and [[desert-precipitation-patterns-and-opportunistic-ecology]]). After this, only one special factor remains: the effect of hills or mountain ranges on local climate — effects very like latitudinal effects on a global scale.
 
 ## Latitude-Altitude Equivalence
 
@@ -22,7 +22,7 @@ As a rough approximation, every **100 m (330 feet) of altitude is equivalent to 
 - At **1000 m** on the equator, temperatures approximate a climate 10° off the equator with the same humidity
 - At **10° latitude** off the equator, a plateau at **1850 m (6000 feet)** has a climate more like that at 30° latitude, with a probability of wind chill to below freezing
 
-For high islands or mountain ranges, this altitudinal factor is crucial to design strategies for homes and gardens. Altitude effect alone enables growing a wide range of plant species on a high island, using the area from ocean to mountaintop.
+For high islands or mountain ranges, this altitudinal factor is crucial to [[mollison-farm-design-strategies-for-yield-increase]] homes and gardens. Altitude effect alone enables growing a wide range of plant species on a high island, using the area from ocean to mountaintop.
 
 ## High Altitude Effects
 

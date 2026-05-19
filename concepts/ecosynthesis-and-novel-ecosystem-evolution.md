@@ -54,7 +54,7 @@ In 1982, David Holmgren and colleague Peter Morgan conducted an observational st
 
 Despite the wide disparity and severity of land use impacts — from grazing and farming to golf courses and stormwater drainage works — patterns of vegetation succession were evident. Of greatest value were areas where there had been no substantial management for decades. These places showed slowly emerging stages of vegetation succession that appeared to have some characteristics of a classic climax.
 
-In the absence of fire, grazing, and clearing, the floodplain vegetation changed towards a forest dominated by an overstorey of indigenous river red gums (*Eucalyptus camaldulensis*), with a closed canopy understorey of tall shrubs and small trees, including indigenous, Australian native, and exotic species. The ground layer was dominated by wandering jew (*Tradescantia albiflora*), a plant that thrives in fertile, shade-tolerant conditions.
+In the absence of fire, grazing, and clearing, the floodplain vegetation changed towards a forest dominated by an overstorey of indigenous river red gums (*[[eucalyptus-camaldulensis]]*), with a closed canopy understorey of tall shrubs and small trees, including indigenous, Australian native, and exotic species. The ground layer was dominated by wandering jew (*Tradescantia albiflora*), a plant that thrives in fertile, shade-tolerant conditions.
 
 The robustness of this "successional climax" was given further weight by the fact that the vegetation pattern was emerging from diverse starting points — grazed red gum woodland, cultivated fields, and even freshly bulldozed areas.
 
@@ -71,7 +71,7 @@ The absence of grazing animals and fire began the breakdown of the pre-European 
 
 ### The Irony of Indigenous Revegetation
 
-At the time that these successional patterns were being identified, indigenous revegetation advocates were identifying all non-indigenous species as environmental weeds to be removed. After nearly two decades of this management, many areas were turned into a purely indigenous version of the same forest type with massive inputs of herbicides and labour. Despite the continued dominance of the ubiquitous red gum, the emerging wild systems and the intensively managed revegetation alternative bore little functional or structural relationship to the pre-European ecosystem: an open grassy woodland, much drier, more dependent on fire and grazing, and lower in fertility.
+At the time that these successional patterns were being identified, indigenous revegetation advocates were identifying all non-indigenous species as environmental weeds to be removed. After nearly two decades of this management, many areas were turned into a purely indigenous version of the same forest type with massive inputs of herbicides and labour. Despite the continued dominance of the ubiquitous red gum, the emerging wild systems and the intensively managed revegetation alternative bore little functional or [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to the pre-European ecosystem: an open grassy woodland, much drier, more dependent on fire and grazing, and lower in fertility.
 
 ## Case Study: Riparian Weedscapes of Hepburn Springs
 
@@ -79,7 +79,7 @@ The extensive riparian weedscape of Spring Creek and its tributary gullies attra
 
 ### Successional Dynamics
 
-A succession from primary weedscape of blackberry, gorse (*Ulex europaeus*), and cape broom (*Genista monospessulana*) to deciduous forest of willow, hawthorn (*Crataegus monogyna*), and native blackwood (*Acacia melanoxylon*) was evident. Other deciduous species, most notably sycamore (*Acer pseudoplatanus*) and European ash (*Fraxinus excelsior*), were also present and predicted to overtake the willow canopy over time.
+A succession from primary weedscape of blackberry, gorse (*Ulex europaeus*), and cape broom (*Genista monospessulana*) to deciduous forest of willow, hawthorn (*[[crataegus-monogyna]]*), and native blackwood (*Acacia melanoxylon*) was evident. Other deciduous species, most notably sycamore (*Acer pseudoplatanus*) and European ash (*Fraxinus excelsior*), were also present and predicted to overtake the willow canopy over time.
 
 The role of animals and birds was critical in both spreading the invading trees and preventing their establishment by predation.
 

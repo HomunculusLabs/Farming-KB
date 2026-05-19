@@ -54,7 +54,7 @@ The taller the trees (redwoods, white pines), the larger the volume of moist air
 
 The effects of condensation from trees can be quickly destroyed. Felling forests causes rivers to dry up, swamps to evaporate, shallow water to dry out, and drought to grip the land — all within the lifetime of a single person. The giant laurel forests of the pre-conquest Canary Islands are now an arid area due to almost complete deforestation by the Spanish.
 
-Precipitation from clear air is much less than from fog. **Advection fogs** are most noticeable where cold currents (Oya Shio off East Asia, Labrador current off northeast America) cause humid inland airstreams in spring and summer. South-facing coasts near Newfoundland get **158 days of fog per year**, and wherever mountains face onshore night winds, fog condensation probably exceeds rainfall.
+Precipitation from clear air is much less than from fog. **Advection fogs** are most noticeable where cold currents (Oya Shio off East Asia, [[labrador-current]] off northeast America) cause humid inland airstreams in spring and summer. South-facing coasts near Newfoundland get **158 days of fog per year**, and wherever mountains face onshore night winds, fog condensation probably exceeds rainfall.
 
 ## Ecological Significance
 The principles described in relation to forest effects on precipitation
@@ -64,7 +64,7 @@ regulation, and atmospheric processes that sustain regional climate patterns.
 
 ## Practical Applications
 These concepts apply directly to permaculture design, agroforestry systems,
-and watershed management. Understanding the interactions between vegetation,
+[[ozier-pdc-hydro-cycle-and-watershed-management]]. Understanding the interactions between vegetation,
 water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 
@@ -78,7 +78,7 @@ The mechanisms underlying forest effects on precipitation involve complex intera
 biological, physical, and chemical processes in natural systems. These
 interactions create feedback loops that maintain system stability and
 resilience, enabling ecosystems to respond to disturbances while preserving
-their essential functions and productive capacity over time.
+[[plant-micronutrients-and-their-essential-functions]] and productive capacity over time.
 
 ## Integration with Permaculture Design
 In permaculture design, these principles inform decisions about element

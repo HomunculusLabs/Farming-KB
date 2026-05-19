@@ -35,8 +35,8 @@ There are three commonly grown squash species — varieties within one species c
 |---------|----------|
 | *Cucurbita pepo* | Summer squash, zucchini, delicata, acorn squash, most pumpkins |
 | *Cucurbita maxima* | Hubbard, buttercup, large winter squash, Queensland Blue |
-| *Cucurbita moschata* | Butternut squash |
-| *Cucumis sativus* | All cucumber varieties |
+| *[[cucurbita-moschata]]* | Butternut squash |
+| *[[cucumis-sativus]]* | All cucumber varieties |
 | *Cucumis melo* | Cantaloupes, honeydews (these don't cross with each other) |
 
 ## Soil Preparation and Spacing
@@ -120,7 +120,7 @@ In maritime climates with cool nights, only the earliest hybrid melons will prod
 
 ## Pests and Diseases
 
-See the [[cucurbit-pests]] and [[insect-and-disease-management-philosophy]] pages for detailed pest management strategies.
+See the [[cucurbit-pests]] and [[insect-and-disease-management-philosophy]] pages for detailed pest [[forest-management-strategies]].
 
 ## See Also
 

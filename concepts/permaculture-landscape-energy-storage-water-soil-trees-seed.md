@@ -1,5 +1,5 @@
 ---
-title: Permaculture Landscape Energy Storage Water Soil Trees and Seed
+title: [[holzer-permaculture-landscape-design]] Energy Storage Water Soil Trees and Seed
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
@@ -70,7 +70,7 @@ Much of Australia's exquisite biodiversity results from adaptations to low and u
 
 ### Humus: Nature's Greatest Invention
 
-Humus increases soil capacity to store mineral nutrients, water, and carbon simultaneously. Venerated in organic, biodynamic, and permaculture movements. In wet tropics, natural systems rely more on living plants for nutrient storage; in temperate climates, soil is the primary storage.
+Humus increases soil capacity to store mineral nutrients, water, and carbon simultaneously. Venerated in organic, biodynamic, and permaculture movements. In wet tropics, natural systems rely more on living plants for nutrient storage; [[query-how-to-grow-and-use-oca-in-temperate-climates]], soil is the primary storage.
 
 ## Carbon Storage in Landscapes
 
@@ -89,7 +89,7 @@ For humankind, carbon storage is much more than greenhouse gas disposal:
 
 ### Soil Humus as Carbon Storage
 
-Plant materials rotting into soil fuel microorganisms that cycle nutrients. Some carbon converts to stable humic and fulvic acids lasting hundreds to thousands of years. Wes Jackson called loss of prairie soil humus "the mining of young coal."
+Plant materials rotting into soil fuel microorganisms that cycle nutrients. Some carbon converts to stable [[teaming-with-microbes-humic-and-fulvic-acids]] lasting hundreds to thousands of years. Wes Jackson called loss of prairie soil humus "the mining of young coal."
 
 We have burnt nearly half the world's fossil carbon AND over half the soil carbon in farmlands — invisible burning caused by ploughing and artificial fertilizers.
 

@@ -1,5 +1,5 @@
 ---
-title: Stinkhorn Fungi Gasteromycete Fruiting Bodies
+title: Stinkhorn Fungi [[gasteromycete-fruiting-bodies]]
 created: 2026-05-11
 tags: [mycology, fungi, stinkhorn, basidiomycota, reproduction]
 date: 2026-05-11
@@ -64,7 +64,7 @@ arms at their tips and dangles a reeking lantern inside the resulting vault.
 The Maori people of New Zealand accorded the cage fungus *Ileodictyon* nine
 different names and barbecued its eggs. The detached cage, blown about on
 surrounding grass, was called "the feces of ghosts or of the stars." The
-resemblance between the cage structure and Buckminster Fuller's geodesic
+resemblance between the cage structure and [[buckminster-fuller]]'s geodesic
 domes reflects the strength offered by lightweight polyhedral geometry —
 valuable for fungi that must conserve [[stinkhorns-and-cage-fungi]] fungi. Weakening tissue
 along four or five tracks running the length of the receptacle would cause the
@@ -107,7 +107,7 @@ precisely adapted machines for ensuring reproductive success.
 ## Cultural History
 
 Stinkhorns have been impossible to ignore throughout history. Pliny the Elder
-featured them in his *Natural History* (first century AD). John Gerard's
+featured them in his *[[stropharia-cubensis-identification-and-natural-history]]* (first century AD). John Gerard's
 seventeenth-century herbal pictured them as "Pricke Mushrum, taken from his
 forme." Charles Darwin's daughter Etty so despised stinkhorns that she mounted
 an "antifungal jihad" with gloves and a pointed stick, burning specimens in

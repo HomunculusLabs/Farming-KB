@@ -76,7 +76,7 @@ The accumulated evidence has generated substantial interest in mycorrhizal fungi
 biological control agents (Duchesne 1994; Quarles 1999). A single inoculation can
 provide both nutritional benefits and protection against multiple pathogen classes.
 Commercial application remains limited by mass-production challenges, variable field
-results, and competition with resident soil microbial communities.
+results, and competition with resident [[endorhiza-rhizosphere-bulk-soil-microbial-communities]].
 
 ## Fungi in Primary Production: Synopsis and Outlook
 
@@ -90,7 +90,7 @@ serving as valuable bioindicators of ecosystem health.
 
 ### Effects Beyond Nutrient Uptake
 
-Mycorrhizal associations influence plant community composition, competitive hierarchies,
+Mycorrhizal associations influence [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]], competitive hierarchies,
 and interactions with other soil organisms including pathogens and herbivores. Nematode
 and pathogen protection represents one facet of this broader ecological influence.
 
@@ -125,7 +125,7 @@ flexibility and broadening the range of viable ecological conditions.
 
 2. **Long-term community manipulation effects:** What are the consequences of
    deliberately introducing mycorrhizal fungi into natural ecosystems? Does introducing
-   non-native species alter resident fungal community dynamics, and can these changes
+   non-native species alter resident [[fungal-community-dynamics-ecosystem-stability]], and can these changes
    be reversed if unintended consequences arise?
 
 3. **Context dependency:** Given that approximately half of AM–pathogen studies show

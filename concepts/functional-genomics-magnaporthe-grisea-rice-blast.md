@@ -1,5 +1,5 @@
 ---
-title: Functional Genomics of Magnaporthe grisea — Rice Blast Fungus
+title: [[functional-genomics-arbuscular-mycorrhiza]] of Magnaporthe grisea — Rice Blast Fungus
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
@@ -46,7 +46,7 @@ The importance of lipid metabolism in appressorium physiology has been highlight
 
 - Glyoxylate cycle genes are expressed during appressorium formation.
 - Peroxisomal β-oxidation generates acetyl-CoA from stored lipids.
-- Melanin biosynthesis requires acetyl-CoA as a precursor.
+- [[fungal-melanin-biosynthesis-ecological-functions]] requires acetyl-CoA as a precursor.
 - Mutants deficient in peroxisomal biogenesis are non-pathogenic.
 
 ## MAPK Signalling Pathways in *M. grisea*
@@ -94,7 +94,7 @@ The probability of encountering cross-talk between pathways is described as "one
 ## Woronin Body Protein MVP1
 
 - *M. grisea* MVP1 is a hex-1 homolog encoding a putative Woronin body protein.
-- Woronin bodies are septal pore organelles unique to filamentous Ascomycetes.
+- Woronin bodies are [[woronin-bodies-septal-pore-organelles]] unique to filamentous Ascomycetes.
 - Functions in sealing septal pores to maintain cellular compartmentalization during stress or damage.
 
 ## Caution in Assigning Gene Function

@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom Log Cultivation Temperate Regions Short Log Method
+title: Oyster [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]] Temperate Regions Short Log Method
 source: unknown-oyster-mushroom-cultivation.md
 source_author: MushWorld (Hyunjong Kwon, Seung Woo Kang)
 tags: [mushroom, cultivation, oyster, log-cultivation, temperate, hardwood]
@@ -62,7 +62,7 @@ Excessive supplement increases contamination risk, particularly in warm weather.
 
 ## Incubation
 
-Cover inoculated logs with plastic sheeting in a shady, moist location. Maintain incubation temperature between 15–20°C with minimal diurnal fluctuation — wide temperature swings significantly increase the risk of fungal infestation by competitor molds. Mycelia require 3–4 days to recover from the physical disturbance of inoculation and resume visible growth. Water the surrounding ground when conditions are dry to maintain ambient humidity without directly wetting the logs. Inspect logs regularly for green mold (Trichoderma spp.) and treat affected spots promptly with Benlate fungicide. Through summer months, employ shade and ventilation to maintain temperatures near 20°C.
+Cover inoculated logs with plastic sheeting in a shady, moist location. Maintain incubation temperature between 15–20°C with minimal diurnal fluctuation — wide temperature swings significantly increase the risk of fungal infestation by competitor molds. Mycelia require 3–4 days to recover from the physical disturbance of inoculation and resume visible growth. Water the surrounding ground when conditions are dry to maintain ambient humidity without directly wetting the logs. Inspect logs regularly for green mold (Trichoderma spp.) and treat affected spots promptly with [[benlate-fungicide]]. Through summer months, employ shade and ventilation to maintain temperatures near 20°C.
 
 ## Burying
 
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Oyster Mushroom Log Cultivation Temperate Regions Short Log Method finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

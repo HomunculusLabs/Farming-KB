@@ -1,5 +1,5 @@
 ---
-title: Pond Annidations and Landscape Integration
+title: Pond Annidations [[pond-depth-series-flow-and-landscape-integration]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -118,8 +118,8 @@ In sub-humid landscapes, riplines, swales, diversion drains, irrigation canals, 
 1. **Plan annidations from the start**—retrofitting nested systems is far more difficult than building them in
 2. **Design for the landscape mosaic**—ponds, forests, marshes, and meadows work together as an integrated system
 3. **Maximize edge**—long, narrow ponds or irregular shapes dramatically increase productive margin
-4. **Target ~15% pond, ~15% marsh, 30–60% forest** in humid landscapes
-5. **Place forest upstream, downstream, and between** ponds for water quality and nutrient cycling
+4. **Target ~15% pond, ~15% marsh, 30–60% forest** [[keypoint-and-keyline-in-humid-landscapes]]
+5. **Place forest upstream, downstream, and between** ponds for water quality [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
 6. **Use specific tree species** at pond edges for phosphate capture and nutrient throughfall
 7. **Integrate drains, swales, and canals** to connect landscape components and conserve overland flow
 8. **Design for thermal refuge**—nested systems within ponds can buffer temperature extremes

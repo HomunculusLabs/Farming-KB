@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[sepp-holzer]], the Austrian farmer known as the "agricultural rebel," developed a system of permaculture centered on natural [[water-management]] as the foundation for ecological restoration. His approach, documented in "Desert or Paradise," argues that water retention landscapes can reverse desertification, stabilize local climates, and restore degraded ecosystems without chemical inputs or heavy machinery.
+[[sepp-holzer]], the Austrian farmer known as the "agricultural rebel," developed a system of permaculture centered on natural [[water-management]] as the foundation for ecological restoration. His approach, documented in "Desert or Paradise," argues that [[economic-viability-water-retention-landscapes]] can reverse desertification, stabilize local climates, and restore degraded ecosystems without chemical inputs or heavy machinery.
 
 ## The Central Role of Water
 
@@ -62,7 +62,7 @@ Holzer describes the "symbiotic interaction" (symbiotische Wechselwirkung) betwe
 
 ### Beyond Nitrogen
 
-"I had been saying that the same goes for potassium and phosphorous, but people did not believe me." Holzer claims that plants can access and redistribute not only nitrogen but also potassium and phosphorus through similar symbiotic mechanisms—a claim that, if validated, would have significant implications for sustainable agriculture by reducing dependence on mined phosphorus and potash fertilizers.
+"I had been saying that the same goes for potassium and phosphorous, but people did not believe me." Holzer claims that plants can access and redistribute not only nitrogen but also potassium and phosphorus through similar symbiotic mechanisms—a claim that, if validated, would have significant implications [[mushroom-cultivation-for-sustainable-agriculture]] by reducing dependence on mined phosphorus and potash fertilizers.
 
 ## The Academic Encounter
 
@@ -95,7 +95,7 @@ Adaptation to local conditions and careful observation remain central to effecti
 Field trials provide essential data for validating theoretical approaches and refining methodologies.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

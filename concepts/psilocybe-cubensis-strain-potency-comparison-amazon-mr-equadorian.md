@@ -12,7 +12,7 @@ sources:
   - psilocybin - psilocin - psilocybe-cubensis - strain-comparison - potency - alkaloid-profile -
   cultivation - HPLC - cap-stem-distribution - mycology
 date: 2026-04-28 updated: 2026-04-28 sources:
-  - Bigwood, J. and Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated
+  - Bigwood, J. and Beug, M.W. (1982). Variation [[hplc-analysis-of-psilocybin-and-psilocin]] Levels with Repeated
   Flushes of Mature Sporocarps of Psilocybe cubensis. Journal of Ethnopharmacology, 5, 287-291.
 type: concept ---
 
@@ -30,7 +30,7 @@ common phenotype among domesticated strains.
 
 2. **Equal distribution with cap-localized psilocin** (Amazon): Caps and stems contain identical
 psilocybin levels. A trace of psilocin appears in the cap rather than the stem. This unique pattern
-suggests different regulation of both psilocybin biosynthesis and its dephosphorylation to psilocin
+suggests different regulation of both [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] and its dephosphorylation to psilocin
 in this tropical strain.
 
 ## Absolute Potency Comparison
@@ -113,7 +113,7 @@ Integration with complementary elements enhances system function.
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for psilocybe cubensis strain potency comparison amazon mr equadorian. Climate adaptation
+opportunities [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] strain potency comparison amazon mr equadorian. Climate adaptation
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 

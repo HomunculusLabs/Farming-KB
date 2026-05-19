@@ -15,11 +15,11 @@ sources:
 
 # volvariella-volvacea-cultivation-guide), known as "Hed Fang" in Thailand, are among the
 fastest-growing [[volvariella-volvacea]] (Thai) | Hed Fang Thai | 29 to 37 C | Summer and rainy |
-| Volvariella volvacea (Taiwan) | Hed Fang Taiwan | 28 to 38 C | Summer and rainy |
+| [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] (Taiwan) | Hed Fang Taiwan | 28 to 38 C | Summer and rainy |
 | mushroom-spawn
    - 1 layer of sawdust waste from old bags
    - 1 layer of broken spent bags
-   - 1 layer of mushroom training straw mushroom cultivation spawn
+   - 1 layer of mushroom training [[straw-mushroom-cultivation]] spawn
    - 1 layer of sawdust waste from old bags
    - 1 layer of broken spent bags
    - 1 layer of straw mushroom spawn
@@ -117,7 +117,7 @@ Economic sustainability balances environmental and social needs.
 ## Research and Development
 
 Ongoing research continues to expand understanding of
-mushroom training straw mushroom cultivation and its applications. Active investigation
+mushroom training straw [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] its applications. Active investigation
 areas include ecological interactions and optimization.
 Published findings contribute to an evolving evidence base.
 

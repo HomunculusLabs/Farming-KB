@@ -75,7 +75,7 @@ Simply adding simple sugars to a wood pile does not improve fungal growth on its
 
 ### The Challenge
 
-Manure from treated livestock can contain residues of antibiotics and deworming medications that inhibit the microbial communities needed for composting. The severity of inhibition, from most to least problematic:
+Manure from treated livestock can contain residues of antibiotics and deworming medications that inhibit the [[cannabis-rhizosphere-microbial-communities]] needed for composting. The severity of inhibition, from most to least problematic:
 
 1. **Strongylid medicine (de-wormer)** — most problematic
 2. **Herbicide residues**
@@ -93,7 +93,7 @@ When contamination is suspected:
 
 1. **Add nitrogen** as [[fish-hydrolysate]] (especially if de-wormer residues are suspected).
 2. **Add molasses** as an energy source for the organisms.
-3. If temperatures remain low, introduce **specialized microbial inoculants** such as EM (Effective Microorganisms), Biostart, Organica, or Agri-Energy compost starters—these contain bacteria specifically capable of degrading these problematic compounds.
+3. If temperatures remain low, introduce **specialized microbial inoculants** such as EM ([[bokashi-composting-and-effective-microorganisms]]), Biostart, Organica, or Agri-Energy compost starters—these contain bacteria specifically capable of degrading these problematic compounds.
 4. **Monitor grass clippings** carefully, as they frequently contain chemical residues.
 
 ### Persistent Contaminants
@@ -129,7 +129,7 @@ Several factors complicate brix interpretation:
 
 ### Caution with Nitrogen at Critical Growth Stages
 
-Pushing nitrate and amino sugars during flowering or fruit set can cause problems by promoting vegetative growth instead of reproductive growth. While a single compost tea application typically does not add excessive nitrogen, the principle is to **feed the soil organisms, not overwhelm the plant with nutrients**.
+Pushing nitrate and amino sugars during flowering or fruit set can cause problems by promoting vegetative growth instead of reproductive growth. While a single [[compost-tea-application-and-disease-suppression]] typically does not add excessive nitrogen, the principle is to **feed the soil organisms, not overwhelm the plant with nutrients**.
 
 ### The Plant Controls Its Own Nutrition
 

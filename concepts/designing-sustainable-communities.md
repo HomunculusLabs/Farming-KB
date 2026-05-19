@@ -6,7 +6,7 @@ type: concept
 
 # Designing Sustainable Communities
 
-A core theme in David Holmgren's *Permaculture: Principles & Pathways Beyond Sustainability* is that sustainable culture cannot be imposed from above — it must be **organic and iterative**, emerging through the same processes of observation, feedback, and adaptive design that govern ecological systems. Sustainable communities are not static endpoints but living systems that evolve through continual refinement and response to changing conditions.
+A core theme in David Holmgren's *Permaculture: Principles & [[permaculture-principles-pathways-beyond-sustainability]]* is that sustainable culture cannot be imposed from above — it must be **organic and iterative**, emerging through the same processes of observation, feedback, and adaptive design that govern ecological systems. Sustainable communities are not static endpoints but living systems that evolve through continual refinement and response to changing conditions.
 
 ## Characteristics of Sustainable Culture
 
@@ -113,11 +113,11 @@ Drawing from permaculture's broader design principles, Holmgren offers these gui
 1. **[[design-from-patterns-to-details]]**: Establish governance and economic structures (patterns) before building physical infrastructure (details)
 2. **Use [[small-and-slow-solutions]]**: Start with small groups and simple agreements; let complexity emerge organically
 3. **Value diversity**: Actively cultivate social, skill, and perspective diversity within the community
-4. **Integrate rather than segregate**: Design physical and social spaces that encourage interaction and mutual support
+4. **[[permaculture-integrate-rather-than-segregate]]**: Design physical and social spaces that encourage interaction and mutual support
 5. **Apply self-regulation and accept feedback**: Build in mechanisms for community members to evaluate and adjust their collective arrangements
 6. **Produce no waste**: In social terms, ensure every person's skills and energy are valued and utilized
 7. **Observe before intervening**: Understand the existing social and ecological patterns of a place before imposing new structures
-8. **Creatively use and respond to change**: Design communities that can adapt to shifting environmental, economic, and social conditions
+8. **[[creatively-use-and-respond-to-change]]**: Design communities that can adapt to shifting environmental, economic, and social conditions
 
 ## See Also
 

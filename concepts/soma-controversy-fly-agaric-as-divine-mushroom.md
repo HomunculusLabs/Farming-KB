@@ -69,7 +69,7 @@ Wasson employed several lines of evidence:
   ruling out an alcoholic beverage, which would take much longer. Wasson provided photographic evidence that
   crushed fly-agaric does express a tawny liquid.
 - **Urine recycling**: The centrepiece of his argument was a cryptic Rig Veda verse stating "The swollen men
-  piss the flowing Soma." This was unique to the fly-agaric among known psychoactive substances, as the
+  piss the flowing Soma." This was unique to the fly-agaric among known [[cultural-evolution-and-psychoactive-substances]], as the
   active compounds pass through the body unchanged and can be recycled through urine -- a practice well
   documented among Siberian peoples.
 
@@ -93,7 +93,7 @@ Adaptation to local conditions and careful observation remain central to effecti
 Field trials provide essential data for validating theoretical approaches and refining methodologies.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

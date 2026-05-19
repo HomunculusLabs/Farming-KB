@@ -1,5 +1,5 @@
 ---
-title: Urban urban rooftop gardening and sheet mulching and comparison-sheet-mulching-vs-chop-and-drop-mulching
+title: Urban urban rooftop gardening and [[query-what-is-sheet-mulching-and-how-to-do-it]] comparison-sheet-mulching-vs-chop-and-drop-mulching
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -99,7 +99,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Urban Rooftop Gardening And Sheet Mulching finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -128,7 +128,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 urban rooftop gardening and sheet mulching and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

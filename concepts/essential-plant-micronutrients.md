@@ -1,5 +1,5 @@
 ---
-title: Essential Plant Micronutrients
+title: [[essential-plant-micronutrients-and-nutrient-mobility]]
 source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
@@ -11,7 +11,7 @@ While required only in trace amounts, micronutrients are every bit as essential 
 ## Boron (B)
 
 ### Functions
-- **Cell wall integrity**: Connects [[carbohydrate]] chains within cell walls, providing structural strength
+- **Cell wall integrity**: Connects [[carbohydrate]] chains within cell walls, providing [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]
 - **Pollen tube formation**: Necessary for proper pollen development — without boron, pollen doesn't form correctly
 - **Sugar-starch balance**: Involved in regulating the balance and translocation of sugars and starches throughout the plant
 - **Stomatal regulation**: Helps transport potassium ions across cell membranes, influencing stomatal opening and closing
@@ -95,7 +95,7 @@ Relatively immobile in soil, though can become more available when chelated.
 ### Functions
 - **Enzyme component**: Constituent of numerous enzyme systems
 - **Redox reactions**: Involved in donating or accepting electrons (oxidation and reduction)
-- **Auxin production**: Helps produce **auxins**, the primary plant growth hormones. This makes zinc directly tied to growth regulation
+- **Auxin production**: Helps produce **auxins**, the primary [[gibberellins-plant-growth-hormones]]. This makes zinc directly tied to growth regulation
 - **Chlorophyll and carbohydrate synthesis**: Needed to synthesize both
 - **[[nucleic-acid]] synthesis**: Activates enzymes for making RNA and DNA
 - **Cold tolerance**: Helps plant cells withstand cold temperatures

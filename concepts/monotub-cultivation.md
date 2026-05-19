@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-The monotub is the most widely used fruiting method for Psilocybe cubensis cultivation. A single plastic storage bin serves as both the colonization vessel and the fruiting chamber, eliminating the need to transfer substrates between containers. The design is simple, scalable, and capable of producing impressive yields with minimal daily maintenance. The monotub method was popularized in online mycology communities during the 2000s and has become the de facto standard for home cultivators.
+The monotub is the most widely used fruiting method for [[gartz-kh2po4-phosphate-substrate-design-psilocybe-cubensis-cultivation]]. A single plastic storage bin serves as both the colonization vessel and the fruiting chamber, eliminating the need to transfer substrates between containers. The design is simple, scalable, and capable of producing impressive yields with minimal daily maintenance. The monotub method was popularized in online mycology communities during the 2000s and has become the de facto standard for home cultivators.
 
 ## Monotub Design
 
@@ -32,7 +32,7 @@ Holes provide passive fresh air exchange (FAE). The standard configuration uses 
 
 **Large holes (2 inches)**: Placed near substrate level (2-4 inches from the bottom) on all four long sides. These are the primary FAE holes and are stuffed loosely with polyfill.
 
-**Small holes (1 inch)**: Placed near the top of the tub on all four sides. These are for passive humidity exchange and are stuffed tightly with polyfill.
+**Small holes (1 inch)**: Placed near the top of the tub on all four sides. These are for [[passive-humidity-fruit-chamber-polyethylene-sheeting]] exchange and are stuffed tightly with polyfill.
 
 A typical 66-quart tub has 4 large holes (two per long side) and 4-8 small holes (two per long side, sometimes one per short side).
 
@@ -66,7 +66,7 @@ Example: A 66-quart monotub with 4 quarts of grain spawn uses 8-12 quarts of CVG
 
 ### 1. Preparation
 
-- Clean the tub thoroughly with soap and water, then wipe down with 70% isopropyl alcohol.
+- Clean the tub thoroughly with soap and water, then wipe down with 70% [[isopropyl-alcohol]].
 - Prepare the CVG substrate (hydrate coir brick with boiling water, mix in vermiculite and gypsum). Allow to cool to room temperature.
 - The substrate should be at field capacity — squeeze firmly and only a few drops of water should emerge.
 

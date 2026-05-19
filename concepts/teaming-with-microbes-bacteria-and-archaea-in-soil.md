@@ -1,5 +1,5 @@
 ---
-title: Teaming With Microbes Bacteria And Archaea In Soil
+title: [[teaming-with-microbes-bacteria]] And Archaea In Soil
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -52,7 +52,7 @@ Two main groups exist:
 - **Anaerobic bacteria** live without oxygen and produce foul-smelling
   by-products (hydrogen sulfide, butyric acid, ammonia). The genus Clostridium
   invades decaying matter. E. coli and other facultative anaerobes can survive
-  in aerobic conditions but prefer anaerobic environments. Anaerobic conditions
+  in aerobic conditions but prefer anaerobic environments. [[aact-ph-and-anaerobic-conditions]]
   foster pathogenic bacteria and kill beneficial aerobic bacteria.
 - **Aerobic bacteria** require air and do not normally cause bad smells.
   Actinomycetes (Streptomyces spp.) are aerobic bacteria that grow filaments
@@ -102,7 +102,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Teaming With Microbes Bacteria And Archaea In Soil finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

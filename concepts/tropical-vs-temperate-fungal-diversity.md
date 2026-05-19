@@ -1,5 +1,5 @@
 ---
-title: Tropical vs tropical vs temperate fungal diversity Diversity
+title: Tropical vs [[tropical-vs-temperate-distribution-neurotropic-fungi]] fungal diversity Diversity
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
@@ -14,7 +14,7 @@ The latitudinal [[leaf-litter-microfungal-diversity-tropical-temperate]] because
 
 ### Endophyte Diversity
 
-Tropical endophyte assemblages are consistently more diverse than temperate ones. The Xylariaceae dominate tropical endophyte communities, with many species restricted to tropical distributions. Tropical leaves often harbor dozens of endophyte species per leaf, compared to far fewer in temperate regions. The diversity of leaf epiphytes and inhabitants of living leaves is significantly greater in tropical than temperate areas (Dennis 1970).
+Tropical endophyte assemblages are consistently more diverse than temperate ones. The Xylariaceae dominate tropical endophyte communities, with many species restricted to tropical distributions. Tropical leaves often harbor dozens of endophyte species per leaf, compared to far fewer in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. The diversity of leaf epiphytes and inhabitants of living leaves is significantly greater in tropical than temperate areas (Dennis 1970).
 
 ### Macrofungal Diversity
 
@@ -100,7 +100,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Tropical Vs Temperate Fungal Diversity finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -50,7 +50,7 @@ Several hardy seeds were traditionally stored to extend the staple over more tha
 
 The spacing of fruit trees in Zones 1 and 2 can be as usual, but it is essential to provide high shade from interplants of tall thin-foliage legumes or palms, and to interplant fast-growing small and large woody legumes that either die out (pigeon pea), can be coppiced (tagasaste), or can be felled or ring-barked to rot to humus (many Acacia species).
 
-Such well-planned systems are very productive, drought resistant, cool, and eventually humus-rich. They demonstrate how quickly a barren or hard soil area can be brought into production as a result of intensive biomass production and wastewater use.
+Such well-planned systems are very productive, [[drought-resistant-gardening-and-water-wise-landscaping]], cool, and eventually humus-rich. They demonstrate how quickly a barren or hard soil area can be brought into production as a result of intensive biomass production and wastewater use.
 
 ## Vines in Desert Gardens
 
@@ -91,7 +91,7 @@ Adaptation to local conditions and careful observation remain central to effecti
 Field trials provide essential data for validating theoretical approaches and refining methodologies.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

@@ -20,7 +20,7 @@ The net effect is dramatically more production per greenhouse dollar invested. R
 
 ## Historical Context
 
-The concept is not new. The first recorded movable greenhouse was a large, expensive glasshouse built in England at the end of the nineteenth century. Commercial vegetable growers originally developed the idea to combat **greenhouse soil sickness**—the buildup of pests and diseases in permanently covered soil. At the time, the alternatives were removing and replacing 16 inches of soil or sterilizing with steam, both expensive and disruptive.
+The concept is not new. The first recorded movable greenhouse was a large, expensive glasshouse built in England at the end of the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. Commercial vegetable growers originally developed the idea to combat **greenhouse soil sickness**—the buildup of [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] permanently covered soil. At the time, the alternatives were removing and replacing 16 inches of soil or sterilizing with steam, both expensive and disruptive.
 
 The movable greenhouse concept fell into disuse when chemical soil sterilization became widespread. It has been rediscovered by organic growers who cannot or will not use chemical sterilants and who value the soil-restoration benefits of periodic exposure to the open environment.
 
@@ -47,7 +47,7 @@ The current standard is smaller and more practical:
 - **Mobility**: Shorter houses are significantly easier to move
 - **Dead-air prevention**: Beyond the 3:1 ratio, a stagnant air pocket forms in the center of the house
 
-**Structural features**:
+**[[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]**:
 - Each hoop has a crossbar with a vertical support (lighter than the original truss design)
 - Diagonal braces at all four corners provide rigidity
 - Crossbars retained to prevent hoop splaying during moves and to support trellised crops in summer

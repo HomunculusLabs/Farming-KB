@@ -13,7 +13,7 @@ forest types is essential because they provide the template for food forests and
 [[comparison-perennial-vegetables-vs-cover-crops]] and herbs
 5. **Ground cover layer** — Low-growing plants that protect soil surface
 6. **Root layer** — Plants harvested for their roots and tubers
-7. **Vine layer** — Climbing plants that use other plants as structural support
+7. **Vine layer** — Climbing plants that use other plants as [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]
 
 The seven-layer model (expanded from the basic five-layer version) is fundamental
 to food forest design. By stacking productive species in each layer, a Permaculture
@@ -70,7 +70,7 @@ a mature forest, designers can:
 
 ## Overview
 
-Ozier Pdc Forest Succession And Layers represents an important element within sustainable
+[[ozier-pdc-forest-succession-and-food-forests]] Layers represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -92,7 +92,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Ozier Pdc Forest Succession And Layers finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

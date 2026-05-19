@@ -9,7 +9,7 @@ The core innovation of Eliot Coleman's [[coleman-second-spring-august-planting-w
 
 # Passive Solar Greenhouse Temperature Performance
 
-**Source:** Eliot Coleman — *The Winter Harvest Handbook* (2009)
+**Source:** Eliot Coleman — *The [[winter-harvest-handbook-guide]]* (2009)
 
 ---
 
@@ -65,7 +65,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
@@ -79,7 +79,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## Research Developments
 
-Current research directions and emerging findings for coleman double layer protection greenhouse cover. Understanding
+Current research directions and emerging findings for coleman [[double-layer-protection-system]] greenhouse cover. Understanding
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 

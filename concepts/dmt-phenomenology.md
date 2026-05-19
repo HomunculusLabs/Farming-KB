@@ -25,7 +25,7 @@ DMT (N,N-dimethyltryptamine) is a simple tryptamine molecule structurally simila
 
 - **Visual phenomena**: Shifting geometric surfaces of migrating and changing colored forms, typical of classical hallucinogenic visual phenomenology. These geometric patterns undergo a progressive transformation from two-dimensional patterns to three-dimensional and then apparently four-dimensional structures.
 
-- **Mode shift**: A profound sense of undergoing a fundamental shift in the mode of consciousness itself, rather than merely perceiving different content within ordinary awareness. McKenna described this as a transition occurring over approximately thirty seconds, during which all available serotonin receptor sites become occupied.
+- **Mode shift**: A profound sense of undergoing a fundamental shift in the mode of consciousness itself, rather than merely perceiving different content within ordinary awareness. McKenna described this as a transition occurring over approximately thirty seconds, during which all available [[serotonin-receptor-interference-psychedelic-mechanism]] sites become occupied.
 
 - **Physical sensations**: A feeling of rapid acceleration or displacement, as if being propelled through space or pulled through a tunnel. Some users report a sense of the body dissolving or being left behind.
 
@@ -65,7 +65,7 @@ The Logos experience involves the perception that reality itself is fundamentall
 
 ## Glossolalia and Language
 
-One of the most [[glossolalia-translinguistic-objects]] and alien communication of the DMT state, users experience a profound cognitive dissonance—a "wow" or "flutter" that builds at the brink of terror. McKenna described this as arising because "we are monkeys" encountering a translinguistic object: the brain tries to pour language over the experience, but it sheds the language like water off a duck's back, creating a feedback loop of failed comprehension that generates wonder, astonishment, and awe.
+One of the most [[glossolalia-translinguistic-objects]] and alien communication of the DMT state, users experience a profound [[mckenna-cognitive-dissonance-translinguistic-object]]—a "wow" or "flutter" that builds at the brink of terror. McKenna described this as arising because "we are monkeys" encountering a translinguistic object: the brain tries to pour language over the experience, but it sheds the language like water off a duck's back, creating a feedback loop of failed comprehension that generates wonder, astonishment, and awe.
 
 The entities seem aware of this problem and actively encourage the experiencer to "not get a loop of wonder going that quenches your ability to understand." Instead, they encourage focused observation and participation in what they are doing, rather than passive amazement.
 
@@ -108,7 +108,7 @@ Practitioners have demonstrated successful implementation across diverse climate
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.

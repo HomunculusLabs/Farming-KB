@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Energy Analysis Rice Production Natural Vs Mechanized
+title: Fukuoka Energy Analysis Rice Production [[fukuoka-energy-productivity-natural-vs-mechanized-farming]]
 source: masanobu-fukuoka-the-natural-way-of-farming-the-theory
 topics: energy-efficiency, mechanization, rice-production, agricultural-economics, natural-farming
 ---
@@ -8,7 +8,7 @@ topics: energy-efficiency, mechanization, rice-production, agricultural-economic
 
 ## Table 1.1: The Core Data
 
-In *The Natural Way of Farming: The Theory*, Fukuoka presented a
+In *The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]: The Theory*, Fukuoka presented a
 detailed energy analysis comparing five methods of rice production.
 The data quantified the kilocalories of energy required to produce
 1,300 pounds (22 bushels) of rice on a quarter-acre of land.
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Fukuoka Energy Analysis Rice Production Natural Vs Mechanized finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

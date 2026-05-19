@@ -1,5 +1,5 @@
 ---
-title: French Maraîcher Intensive Market Gardening
+title: French Maraîcher [[coleman-french-maraicher-parisian-intensive-market-gardening]]
 source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
@@ -58,7 +58,7 @@ Applied in agricultural production, land management, and environmental restorati
 
 ## Research Findings
 
-Studies demonstrate measurable effects on soil health, plant growth, and ecosystem function. Ongoing research continues to refine understanding and application methods.
+Studies demonstrate measurable effects on soil health, plant growth, [[fungal-biodiversity-and-ecosystem-function]]. Ongoing research continues to refine understanding [[diy-fertilizer-recipes-and-application-methods]].
 ## Historical Context
 
 Development of understanding and practices related to this topic has evolved significantly over time. Early observations led to systematic study and practical applications that continue to influence modern approaches.

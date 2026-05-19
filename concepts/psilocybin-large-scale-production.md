@@ -1,6 +1,6 @@
 ---
 
-title: Large-Scale Psilocybin Production — Room Design and Workflow
+title: Large-Scale [[gottlieb-psilocybin-production-extraction-methods]] — Room Design and Workflow
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -38,7 +38,7 @@ Related: [[psilocybin-mushroom-cultivation]], [[psilocybin-extraction-guide]]
 - **Humidity control**: Ultrasonic humidifier or misting system
 - **Lighting**: Fluorescent ceiling light on timer (12 hours on/12 hours off)
 - **Shelving**: Four-tier shelving units, each shelf approximately 12 inches apart
-- **Door**: Sealed to maintain environmental control
+- **Door**: Sealed to maintain [[cannabis-indoor-growing-environmental-control]]
 
 ### Equipment Checklist
 - 50+ quart Mason jars (or equivalent)
@@ -83,7 +83,7 @@ Gottlieb designed a rotating 10-day cultivation cycle for continuous production:
 - Mushrooms typically begin appearing within 48-72 hours
 
 **Day 10 — Harvest**
-- Harvest mushrooms as veils begin to tear (before spore release)
+- Harvest mushrooms as veils begin to tear ([[partial-veil-tropism-protection-before-spore-release]])
 - This is also the day to inoculate the next batch of jars
 - Repeat cycle continuously
 

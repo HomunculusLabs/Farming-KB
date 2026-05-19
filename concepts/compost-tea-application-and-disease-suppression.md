@@ -1,5 +1,5 @@
 ---
-title: Compost Tea Application and Disease Suppression
+title: [[compost-tea-application-methods]] and Disease Suppression
 source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
@@ -106,7 +106,7 @@ maximizes microbial delivery.
 ## Disease Suppression
 
 Compost tea suppresses disease through competitive exclusion, antibiosis,
-induced systemic resistance, and direct predation of pathogens.
+[[endophytic-mycorrhizal-induced-systemic-resistance]], and direct predation of pathogens.
 
 ### Fungal-Dominated Teas
 
@@ -128,7 +128,7 @@ weevils, grubs, ants, scale insects, and whiteflies.
 
 ### Bacterial/Protozoal Teas (High Nitrogen Cycling)
 
-Adding protozoa and nematodes increases nitrogen mineralization, suppressing
+Adding [[teaming-with-microbes-protozoa-and-nematodes]] increases nitrogen mineralization, suppressing
 low-nitrogen weeds: **clover** and **quack grass**.
 
 ### Fungal-Dominated Teas (Low Nitrate Availability)

@@ -1,5 +1,5 @@
 ---
-title: Gadd Mathematical Modelling Fungal Mycelia
+title: [[gadd-mathematical-modelling-fungal-mycelia-form-function]]
 created: 2026-04-28
 tags:
   - mathematical-modelling
@@ -27,7 +27,7 @@ indistinguishable from real fungi, they often employ non-mechanistic
 rules and must be re-formulated for different environments or species.
 Computational difficulties have also meant that discrete models have
 neglected anastomosis and translocation, processes crucial in
-heterogeneous environments.
+[[fungal-foraging-strategies-heterogeneous-environments]].
 
 ## A new hybrid model
 
@@ -79,7 +79,7 @@ observation, and a willingness to adapt approaches based on results.
 ## Substrate Preferences
 
 Different fungal species show distinct substrate affinities based
-on their enzymatic capabilities. Lignicolous species degrade wood,
+on their [[fungal-enzymatic-capabilities]]. Lignicolous species degrade wood,
 while coprophilous species specialize in dung. Soil-dwelling
 species form complex relationships with plant root systems.
 

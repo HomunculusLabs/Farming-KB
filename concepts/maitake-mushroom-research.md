@@ -9,7 +9,7 @@ sources: [raw/particles/cancer-treatments-medicinal-mushrooms.md]
 
 ## Grifola frondosa (Maitake / Hen of the Woods) — Research Summary
 
-Maitake (Grifola frondosa) is a large polypore mushroom native to temperate hardwood forests of North America, Europe, and Japan. Known as "hen of the woods" for its appearance, and as "dancing mushroom" (mai-take) in Japanese folklore because people reportedly danced with joy upon finding it.
+Maitake (Grifola frondosa) is a large polypore mushroom native to temperate hardwood forests [[huckleberries-and-wild-berries-of-north-america]], Europe, and Japan. Known as "hen of the woods" for its appearance, and as "dancing mushroom" (mai-take) in Japanese folklore because people reportedly danced with joy upon finding it.
 
 ### Active Compounds
 
@@ -54,7 +54,7 @@ Maitake (Grifola frondosa) is a large polypore mushroom native to temperate hard
 - Increased NK cell activity documented in multiple human trials
 - Enhanced overall immune competence in both healthy and immunocompromised subjects
 
-**Metabolic syndrome**:
+**[[cannabis-for-diabetes-and-metabolic-syndrome]]**:
 - Improved insulin sensitivity and blood glucose control in human studies
 - Reduction in blood pressure and triglyceride levels reported
 
@@ -101,7 +101,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Maitake Mushroom Research finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

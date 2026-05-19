@@ -6,7 +6,7 @@ type: concept
 
 # Conventional vs Biological Gardening
 
-The transition from conventional chemical-based gardening to biological soil food web gardening represents a fundamental shift in how gardeners understand and interact with soil. This shift was documented by Jeff Lowenfels and Wayne Lewis in "Teaming with Microbes," which traces their journey from typical suburban chemical gardeners to advocates of biological soil management.
+The [[query-how-to-transition-from-conventional-to-no-till-farming]] chemical-based gardening to biological soil food web gardening represents a fundamental shift in how gardeners understand and interact with soil. This shift was documented by Jeff Lowenfels and Wayne Lewis in "Teaming with Microbes," which traces their journey from typical suburban chemical gardeners to advocates of biological soil management.
 
 ## The Conventional Gardening Paradigm
 
@@ -78,8 +78,8 @@ These disciplines collectively demonstrate that soil chemistry and soil biology 
 Biological gardening extends beyond individual garden health:
 
 - **Nutritional content**: Plants grown in biologically active soils may access a wider range of minerals and nutrients, potentially producing more nutritious food
-- **Water quality**: Eliminating chemical fertilizers and pesticides reduces runoff contamination of waterways
-- **Soil conservation**: Minimizing tillage and maintaining organic matter protects soil structure and prevents erosion
+- **Water quality**: Eliminating [[organic-vs-chemical-fertilizers-and-manure-quality]] pesticides reduces runoff contamination of waterways
+- **Soil conservation**: Minimizing tillage and [[maintaining-organic-matter-in-vegetable-gardens]] protects soil structure and prevents erosion
 - **Biodiversity**: Healthy soil food webs support surface-level biodiversity, including beneficial insects, birds, and other wildlife
 - **Carbon sequestration**: Building soil organic matter through biological management stores carbon in the soil
 

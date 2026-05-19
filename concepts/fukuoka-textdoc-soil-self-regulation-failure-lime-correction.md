@@ -56,7 +56,7 @@ Soil acidity control measures taken without understanding why the soil became ac
 
 The lesson of the sawdust experiment extends far beyond that single practice. Fukuoka concludes that nonintervention is the wisest course of action when it comes to soil management.
 
-The soil has its own mechanisms for maintaining balance, and these mechanisms are more sophisticated and more reliable than anything human science can devise. This principle stands in direct opposition to conventional agricultural science, which treats soil as an inert medium requiring constant chemical adjustment.
+The soil has its own mechanisms for maintaining balance, and these mechanisms are more sophisticated and more reliable than anything human science can devise. This principle stands in direct opposition to conventional [[fukuoka-critique-agricultural-science-laws-liebig]], which treats soil as an inert medium requiring constant chemical adjustment.
 
 ## The Scientist Sees a Problem, the Farmer Sees a Process
 
@@ -74,7 +74,7 @@ High temperatures and heavy rainfall may be [[doc]]
 
 ## Overview
 
-Fukuoka Textdoc Soil Self Regulation Failure Lime Correction represents an important element within sustainable
+[[fukuoka-textdoc-soil-building-as-multigenerational-legacy]] Self Regulation Failure Lime Correction represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
@@ -96,7 +96,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Fukuoka Textdoc Soil Self Regulation Failure Lime Correction finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
