@@ -22,19 +22,19 @@ Clematis alpina, the alpine clematis, is a deciduous climbing vine in the family
 
 It is prized in horticulture for its elegant, pendulous, bell-shaped flowers in shades of blue, violet, and occasionally pink or white. Flowering occurs in mid to late spring, making it one of the earliest clematis species to bloom.
 
-The species belongs to Clematis sect. Atragene, a group distinguished by their nodding, campanulate flowers and feathery, plumed seed heads. This section includes several other ornamental species.
+The species belongs to Clematis sect. Atragene, a group distinguished by their nodding, campanulate [[fukuoka-road-flowers-and-beauty]] feathery, plumed seed heads. This section includes several other ornamental species.
 
 The Atragene group is one of the most cold-hardy clematis sections, with all members tolerating temperatures below −30°C. This makes them particularly valuable for cold-climate gardens where many large-flowered clematis cannot survive.
 
 Clematis alpina subsp. sibirica occurs in northern Asia and is sometimes treated as a separate species (Clematis sibirica). It differs in having narrower, more lanceolate leaflets and slightly smaller flowers.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 Clematis alpina was described by Philip Miller in 1768. The species epithet refers to its alpine habitat preferences.
 
 ### Morphological Details
 
-Stems are slender, ribbed, and climbing by means of twining petioles that wrap around supports. Young stems are green and sparsely pubescent, becoming woody at the base with age.
+Stems are slender, ribbed, [[query-how-do-i-train-and-trellis-fruiting-vines-and-climbing-plants]] by means of twining petioles that wrap around supports. Young stems are green and sparsely pubescent, becoming woody at the base with age.
 
 Leaves are biternate, with 9 leaflets, each leaflet ovate to lanceolate, 2–5 cm long, serrate, and dark green. Leaf petioles are the primary climbing mechanism.
 
@@ -48,7 +48,7 @@ The root system is fibrous and relatively shallow compared to large-flowered cle
 
 Chromosome number is 2n = 16. The species hybridizes readily with other Atragene-section clematis, notably Clematis macropetala, producing vigorous garden hybrids.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 Clematis alpina is native to the mountains of central and southern Europe. Its range extends from the Pyrenees through the Alps to the Carpathians and the mountains of the Balkan Peninsula.
 
@@ -72,9 +72,9 @@ The species prefers a position with its roots in shade and its top growth in sun
 
 Pruning is minimal — Clematis alpina flowers on old wood (previous year's growth) and belongs to Pruning Group 1. Only light pruning to remove dead or damaged stems is needed immediately after flowering.
 
-Propagation is by seed, softwood cuttings in early summer, or layering. Seeds require cold stratification and may take 6–18 months to germinate. Named cultivars must be propagated vegetatively.
+Propagation is by seed, softwood cuttings in early summer, or layering. Seeds require cold stratification and may take 6–18 months [[query-how-to-germinate-cannabis-seeds]]. Named cultivars must be propagated vegetatively.
 
-Layering is the most reliable propagation method for gardeners. A low-growing stem is pinned to the ground in spring, and roots develop at the nodes by autumn.
+Layering is the most reliable propagation method [[gaias-garden-ecology-for-gardeners]]. A low-growing stem is pinned to the ground in spring, and roots develop at the nodes by autumn.
 
 Internode cuttings taken in June–July root well under mist with bottom heat. Rooting hormone (IBA 0.3%) improves success rates to 70–80%.
 

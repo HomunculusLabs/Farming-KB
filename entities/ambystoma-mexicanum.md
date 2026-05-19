@@ -27,13 +27,13 @@ Unlike most amphibians, axolotls retain larval features throughout their lives, 
 
 Adults typically reach 15–45 cm in total length, though captive specimens often exceed 30 cm. The species exhibits a range of color morphs, including wild-type brown, leucistic (pale pink), golden albino, and melanoid (nearly black).
 
-The axolotl is critically endangered in the wild but thrives globally in laboratory and pet populations. It serves as a primary [[blesching-cannabis-spinal-cord-injuries]] recovery.
+The axolotl is critically endangered [[query-how-to-identify-psilocybe-cubensis-in-the-wild]] but thrives globally in laboratory and pet populations. It serves as a primary [[blesching-cannabis-spinal-cord-injuries]] recovery.
 
 The name "axolotl" derives from the Nahuatl language of the Aztecs, combining *atl* (water) and *xolotl* (dog), referencing the Aztec deity Xolotl. In Aztec mythology, Xolotl transformed into an axolotl to avoid being sacrificed.
 
 Captive axolotls have been documented living up to 15 years. Their hardiness and ease of care in captivity have made them one of the most commonly kept amphibians in the pet trade and research colonies.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 **Ambystoma mexicanum** (Shaw & Nodder, 1798) belongs to the family Ambystomatidae (mole salamanders), order Urodela (Caudata).
 
@@ -53,11 +53,11 @@ The body is cylindrical with 10–12 costal grooves along each side. Limbs are r
 
 The tail is long and laterally compressed, functioning as the primary means of propulsion. A dorsal fin extends from the neck to the tail tip, enhancing swimming efficiency.
 
-Axolotls possess a remarkable genome with approximately 32 billion base pairs, roughly ten times the size of the human genome. This genomic expansion is attributed to long-terminal-repeat retrotransposons and may contribute to their regenerative abilities.
+Axolotls possess a remarkable genome with approximately 32 billion base pairs, roughly ten times the size of the human genome. This genomic expansion is attributed to long-terminal-repeat retrotransposons and may [[query-how-do-fungi-contribute-to-carbon-sequestration]] their regenerative abilities.
 
 The species is paedomorphic, retaining its larval morphology due to a failure of the thyroid axis to trigger metamorphosis. Metamorphosis can be induced experimentally by administering thyroid hormone (thyroxine), producing a terrestrial form resembling the closely related tiger salamander (*Ambystoma tigrinum*).
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 The axolotl is endemic to the high-altitude (2,200–2,300 m) freshwater system of the Valley of Mexico. Historically, it inhabited Lakes Xochimilco, Chalco, and associated canal systems.
 
@@ -65,11 +65,11 @@ Today, the only confirmed wild population survives in the remnant canals and wat
 
 Axolotls prefer slow-moving or still water with abundant aquatic vegetation. They require cool temperatures (14–20°C) and water with moderate hardness and neutral to slightly alkaline pH.
 
-The species is benthic, spending most of its time on the substrate. It hides among aquatic plants, debris, and mud during the day and becomes more active at night.
+The species is benthic, spending most of its time on the substrate. It hides among [[aquatic-plants-and-pond-ecosystems]], debris, and mud during the day and becomes more active at night.
 
 Axolotls are opportunistic carnivores, feeding on worms, insects, small crustaceans, and small fish. In captivity, they accept a variety of prepared foods including bloodworms, [[earthworms]], and pelleted diets.
 
-Urban expansion, water extraction, and pollution have severely degraded the Xochimilco canal system. [[cannabis-spinal-cord-injury-treatment]] segments, heart tissue, portions of the brain, and jaw structures without scarring. Regenerated structures are functionally and morphologically indistinguishable from originals.
+Urban expansion, [[cannabis-ice-water-extraction]], and pollution have severely degraded the Xochimilco canal system. [[cannabis-spinal-cord-injury-treatment]] segments, heart tissue, portions of the brain, and jaw structures without scarring. Regenerated structures are functionally and morphologically indistinguishable from originals.
 
 The regeneration process involves dedifferentiation of mature cells at the wound site, forming a mass of progenitor cells called a blastema. These cells proliferate and redifferentiate into the appropriate tissue types, guided by positional memory encoded in the blastema cells.
 

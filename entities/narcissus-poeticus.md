@@ -11,7 +11,7 @@ updated: 2026-05-09
 sources:
   - Hanks, G.R. (2002). "Narcissus and Daffodil: The Genus Narcissus." Taylor & Francis.
   - Blanchard, J.W. (1990). "Narcissus: A Guide to Wild Daffodils." Alpine Garden Society.
-  - Bastida, J. et al. (2011). "Amaryllidaceae alkaloids: A review of their pharmacology and toxicology." Pharmaceutical Biology, 49(11), 1142-1158.
+  - Bastida, J. et al. (2011). "Amaryllidaceae alkaloids: A review of their [[ayahuasca-pharmacology-and-cultural-context]] toxicology." Pharmaceutical Biology, 49(11), 1142-1158.
   - Pettit, G.R. et al. (1993). "Antineoplastic agents, 261. Isolation and synthesis of narciclasine from Narcissus." Journal of Natural Products, 56(10), 1687-1692.
   - Mathew, B. (2002). "The Genus Narcissus." Royal Botanic Gardens, Kew.
 ---
@@ -36,7 +36,7 @@ in old gardens, cemeteries, and along roadsides.
 Narcissus poeticus is one of the latest-flowering daffodil species, typically
 blooming from late April to June, depending on elevation and latitude.
 
-## Cultivation and Uses
+## [[breadfruit-cultivation-and-uses]]
 
 Narcissus poeticus has been cultivated in European gardens since at least
 the 16th century. It remains a popular ornamental bulb, valued for its
@@ -52,9 +52,9 @@ Applied methodologies translate theoretical knowledge into actionable strategies
 ## Key Considerations
 
 Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-## Comparative Analysis
+## [[human-eye-plant-photoreceptor-comparative-analysis]]
 
-Examining this topic alongside related approaches reveals complementary strategies and unique advantages. Multiple perspectives enrich understanding and inform better decision-making.
+Examining this topic alongside related approaches reveals complementary strategies and unique advantages. Multiple perspectives enrich [[pattern-understanding-and-implicate-order]] inform better decision-making.
 ## Technical Framework
 
 Systematic technical approaches provide structured methodologies for consistent results. Documentation and standardization enable reproducibility and quality assurance.
@@ -64,14 +64,14 @@ Understanding the environmental setting and ecological relationships provides es
 
 ## Mechanisms and Processes
 
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+Understanding the underlying mechanisms enables optimization [[fmc-application-and-troubleshooting]]. Process control parameters and their interactions determine system performance and reliability.
 ## Management Approaches
 
 Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
 ## Performance Metrics
 
 Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
-## Challenges and Solutions
+## [[cannabis-sativa-indoor-challenges-and-solutions]]
 
 Common challenges include resource limitations, environmental variability, and knowledge gaps. Proven solutions draw on accumulated experience and systematic problem-solving approaches.
 

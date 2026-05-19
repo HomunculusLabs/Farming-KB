@@ -31,7 +31,7 @@ is one of the characteristic mosses of upland heathland and blanket bog
 communities in oceanic regions of western Europe, where it contributes to the
 bryophyte layer beneath heather and bilberry.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 *Hypnum lacunosum* was described by William Wilson, based on an earlier
 description by Samuel Elisée Bridel-Brideri. The species is part of the *Hypnum
@@ -40,7 +40,7 @@ treated as species, subspecies, or varieties by different authorities.
 
 Molecular studies confirm *H. lacunosum* as a distinct lineage within Hypnaceae,
 separate from *H. cupressiforme* and *H. jutlandicum*. It is placed in *Hypnum*
-section *Hypnum* based on peristome morphology and stem anatomy.
+section *Hypnum* based on peristome [[agaricus-campestris-morphology-and-life-cycle]] stem anatomy.
 
 Plants form loose to dense interwoven mats, typically golden-green to brownish-
 green, with stems 5–15 cm long. Stems are irregularly pinnately branched with
@@ -59,7 +59,7 @@ length. Median leaf cells are linear, 40–60 μm long, with thin walls.
 long. The operculum is conical. Spores are 8–12 μm in diameter. Capsules are
 produced moderately frequently compared to many Hypnaceae.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 *H. lacunosum* is distributed across western and central Europe, the
 Mediterranean basin, and [[guzman-psilocybin-mushrooms-north-america]], it occurs in the Appalachian
@@ -72,15 +72,15 @@ and mixed woodlands.
 
 Altitudinal range extends from sea level to approximately 1800 m in montane
 regions. It is most abundant in open, exposed habitats but also occurs in
-moderately shaded woodland. It avoids calcareous substrates and enriched
+moderately shaded woodland. It avoids calcareous [[agaricus-substrates-and-marketing]] enriched
 conditions.
 
 The species shows a strong association with ericaceous shrub communities,
 particularly heather (*[[vaccinium-myrtillus]]*).
 It forms an important component of the bryophyte layer in dry heath and
-wet heath vegetation types.
+wet heath [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]].
 
 ## Ecology
 
 *H. lacunosum* contributes significantly to the bryophyte carpet of heathland
-and moorland ecosystems. Its mats help retain soil moisture, moderate
+and moorland ecosystems. Its mats help retain [[soil-moisture-and-water-holding-capacity]], moderate

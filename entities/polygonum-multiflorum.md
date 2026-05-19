@@ -37,23 +37,23 @@ sources:
 
 Polygonum multiflorum, commonly known as He Shou Wu (何首乌) or Fo-Ti, is a
 perennial climbing vine in the family Polygonaceae native to China and parts of
-Japan. One of the most important herbs in Traditional Chinese Medicine (TCM), it
+Japan. One of [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] herbs in Traditional Chinese Medicine (TCM), it
 has been used for over a thousand years as a tonic for longevity, vitality, and
 hair restoration. The plant produces two distinct medicinal preparations: raw
 (sheng) root, used for detoxification and constipation, and prepared (zhi) root,
-processed with black [[soybean]] wine, used as a rejuvenating tonic for the liver,
+processed with black [[soybean]] wine, [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] rejuvenating tonic for the liver,
 kidneys, and blood.
 
 The name He Shou Wu translates to "Mr. He's black hair," referring to a
 legendary Tang Dynasty hermit who reportedly restored his youthful appearance,
-dark hair, and fertility after consuming the root.
+dark hair, [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] after consuming the root.
 
 ## Taxonomy
 
 **Kingdom:** Plantae → **Order:** Caryophyllales → **Family:** Polygonaceae →
 **Genus:** *Polygonum* → **Species:** *P. multiflorum* Thunb.
 
-Modern taxonomic revisions place this species in *Fallopia* as *Fallopia
+Modern taxonomic revisions place this [[oak-species-in-permaculture]] *Fallopia* as *Fallopia
 multiflora* (Thunb.) Haraldson or *Reynoutria multiflora* (Thunb.) Moldenke.
 However, *Polygonum multiflorum* remains dominant in pharmacological and herbal
 medicine literature. Synonyms include *Fallopia multiflora*, *Pleuropterus
@@ -71,10 +71,10 @@ weighing 1–5 kg in mature plants. Fresh roots have reddish-brown exteriors and
 pale interiors; prepared roots are dark brown to black. Flowers are small,
 white or greenish-white, in axillary or terminal panicles 10–20 cm long. Fruit
 is a triangular, dark brown achene, 2–3 mm long. The above-ground stems (called
-"Ye Jiao Teng" in TCM) have separate medicinal uses as a sedative and blood
+"Ye Jiao Teng" in TCM) have separate [[amanita-alkaloid-medicinal-uses-pilocarpine-treatment]] as a sedative and blood
 tonic.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 Native to central and southern China (Guangdong, Guangxi, Sichuan, Guizhou,
 Yunnan), the species also grows in Japan, Korea, and Taiwan. It thrives in

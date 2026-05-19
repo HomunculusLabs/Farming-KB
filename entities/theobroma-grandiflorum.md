@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Alves, R.E. et al. (2004). "Cupuaçu: Theobroma grandiflorum." In: Exotic Fruits and Nuts of the New World, CABI Publishing.
   - Venturieri, G.C. (1993). "Cupuaçu: um fruteiro alternativo para a Amazônia." EMBRAPA-CPATU, Belém.
-  - Rogez, H. (2000). "Açaí and Cupuaçu: Composition, Nutritional and Functional Properties." Lavoisier Publishing.
+  - Rogez, H. (2000). "Açaí and Cupuaçu: Composition, Nutritional [[component-analysis-and-functional-connections]] Properties." Lavoisier Publishing.
   - Sousa, A.G. et al. (2011). "Theobroma grandiflorum (cupuaçu): a fruit from the Amazon with [[comparison-berry-growing-vs-fruit-tree-pruning]] native to the Amazon basin.
 
 It is closely related to cacao and belongs to the same genus within the family Malvaceae.
@@ -21,7 +21,7 @@ The fruit is prized for its aromatic, creamy pulp, which is widely used in bever
 
 Cupuaçu is considered one of the most economically important native Amazonian fruits, second only to açaí in commercial value.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 - **Kingdom:** Plantae
 - **Order:** Malvales
@@ -54,9 +54,9 @@ Inside, the white, mucilaginous pulp surrounds 25–50 large seeds arranged in f
 
 The pulp has a unique tropical flavor often described as a blend of chocolate, pineapple, banana, and pear.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
-Cupuaçu is native to the eastern and southern Amazon basin, occurring naturally in the Brazilian states of Pará, Amazonas, Maranhão, and Acre.
+Cupuaçu is native to the eastern and southern Amazon basin, occurring [[query-how-do-i-manage-mosquitoes-naturally-in-my-permaculture-pond]] the Brazilian states of Pará, Amazonas, Maranhão, and Acre.
 
 Its range extends into the Guianas, Peru, Colombia, and parts of Bolivia.
 
@@ -64,7 +64,7 @@ The species grows in lowland [[cervantes-seedling-care-early-growth]] stages but
 
 Natural populations are found along riverbanks and in seasonally flooded forest areas.
 
-## Nutritional and Culinary Use
+## Nutritional [[bloomfield-truffle-hunting-and-culinary-fungi]] Use
 
 The pulp is rich in vitamin C, containing approximately 33 mg per 100 g, comparable to oranges.
 
@@ -74,7 +74,7 @@ The pulp contains pectin and unique volatile flavor compounds, including lactone
 
 In Brazilian cuisine, cupuaçu pulp is used to make juices, [[ice-cream-bean-entity]], mousses, jams, and liqueurs.
 
-Cupuaçu chocolate — known as "cupulate" — is produced from the roasted and processed seeds, similar to cacao products.
+Cupuaçu chocolate — known as "cupulate" — is [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]] the roasted and processed seeds, similar to cacao products.
 
 The seed fat, called cupuaçu butter, is rich in stearic and oleic acids and is used extensively in cosmetics for its emollient and moisturizing properties.
 

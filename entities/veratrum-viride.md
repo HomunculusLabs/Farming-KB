@@ -18,8 +18,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Mead, J.E. (1904). "Veratrum Viride (American Hellebore): A Study of Its History, Uses, and Active Principles." American Journal of Pharmacy.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern [[permaculture-plants-medicinal-herbs-healing]]." CRC Press.
+  - Mead, J.E. (1904). "Veratrum Viride (American Hellebore): A Study of Its History, Uses, [[diffusion-osmosis-and-active-transport-in-plants]] Principles." American Journal of Pharmacy.
+  - Gleason, H.A. & Cronquist, A. (1991). "[[bergeys-manual-of-bacteriology]] Vascular Plants of Northeastern [[permaculture-plants-medicinal-herbs-healing]]." CRC Press.
   - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists." Timber Press.
   - USDA, NRCS. "Veratrum viride." PLANTS Database. https://plants.usda.gov/
 ---
@@ -45,7 +45,7 @@ profiles.
 ## Morphology
 
 **Growth habit:** Robust perennial, 0.5–2 m tall, from a thick, short
-rhizome with numerous fleshy roots. Leaves and flowering stem emerge
+rhizome with numerous fleshy roots. Leaves [[mollison-designers-day-length-and-flowering-response]] stem emerge
 simultaneously in early spring.
 
 **Leaves:** Broadly elliptic to ovate, 15–30 cm long × 8–15 cm wide,
@@ -64,10 +64,10 @@ mixed plants. Stamens 6, opposite the tepals; ovary superior, 3-lobed.
 **Fruit:** Capsule, 1.5–3 cm, ovoid, 3-valved, containing numerous
 flattened, winged seeds.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 V. viride ranges from Labrador and Quebec west to Minnesota and south
-through the Appalachian Mountains to Georgia and Alabama. Disjunct
+[[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] Appalachian Mountains to Georgia and Alabama. Disjunct
 populations occur in the Black Hills of South Dakota and in the Pacific
 Northwest.
 
@@ -75,7 +75,7 @@ The species inhabits wet meadows, swampy thickets, streambanks, spring
 seeps, and moist montane forests. It tolerates both acidic and neutral
 soils, typically in partial shade to full sun. Elevation: 0–1,800 m.
 
-## Toxicity and Chemistry
+## Toxicity [[cannabis-history-classification-and-chemistry]]
 
 All parts of V. viride are extremely toxic. The primary toxic
 

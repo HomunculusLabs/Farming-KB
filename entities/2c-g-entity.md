@@ -13,7 +13,7 @@ sources:
 
 - At 22 mg: functional but altered -- coffee tastes strange, energy tremor throughout, body generally at ease, mental effects only to ++ but pleasant
 
-- At 32 mg: described as a "true psychedelic" and "insight-enhancer" of potential value in psychotherapy (if one wished to spend 30 hours in a therapy session). No particular visual impact, but an excellent flow of ideas. Tremendous clarity of thought, cosmic but grounded. The non-sexual and anorexic aspects might change with familiarity
+- At 32 mg: described as a "true psychedelic" and "insight-enhancer" of potential value [[empathogens-in-psychotherapy]] (if one wished to spend 30 hours in a therapy session). No particular visual impact, but an excellent flow of ideas. Tremendous clarity of thought, cosmic but grounded. The non-sexual and anorexic aspects might change with familiarity
 
 - At 32 mg (another report): plateau at two hours with tummy queasiness, still at plateau several hours later, sleep at 18th hour, not completely baseline until evening of next day
 
@@ -25,9 +25,9 @@ Synthesized from 2,3-xylenol via O-methylation to 2,3-dimethylanisole, Vilsmeier
 
 ## Extensions and Commentary
 
-2C-G represents the first example ever of a phenethylamine that is of about the same potency as the related three-carbon amphetamine (GANESHA). Shulgin had always thought of phenethylamines as somewhat weaker than their corresponding amphetamines, but this compound challenged that assumption. It is equally valid to think of phenethylamines as the prototypes, with amphetamines being somewhat stronger.
+2C-G represents the first example ever of a phenethylamine that is of about the same potency as the related three-carbon amphetamine (GANESHA). Shulgin had always thought [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]] as somewhat weaker than their corresponding amphetamines, but this compound challenged that assumption. It is equally valid to think of phenethylamines as the prototypes, with amphetamines being somewhat stronger.
 
-The compound demonstrated that the historical bias toward viewing amphetamines as the reference point may have obscured valuable observations. In the 2,5-dimethoxy-3,4-dimethyl series, the two-carbon and three-carbon chain compounds converge in potency, duration, and nature of activity.
+The compound demonstrated that the historical bias toward viewing amphetamines as the reference point may have obscured valuable observations. In the 2,5-dimethoxy-3,4-dimethyl series, the two-carbon and three-carbon chain compounds converge in potency, duration, [[tryptamine-hallucinogens-and-nature-of-consciousness]] activity.
 
 ## Chemical Family Context
 
@@ -51,7 +51,7 @@ The compound presumably acts through 5-HT2A receptor agonism, with the dimethyl 
 
 The convergence of potency between 2C-G and its amphetamine homologue GANESHA is pharmacologically significant. In most phenethylamine series, the amphetamine homologue is 2-5x more potent than the phenethylamine. The equipotency in this case suggests that the dimethyl substitution at the 3,4-positions already maximizes receptor interaction, leaving no additional benefit from the alpha-methyl group of the amphetamine chain.
 
-## Comparison to Related Compounds
+## Comparison to [[lsd-structure-activity-relationships-related-compounds]]
 
 - GANESHA (amphetamine homologue): Nearly identical potency (20-32 mg) and duration (18-24 h)
 
@@ -65,7 +65,7 @@ The convergence of potency between 2C-G and its amphetamine homologue GANESHA is
 
 The relationship between 2C-G and GANESHA is unique in psychedelic chemistry and has been discussed as a challenge to the conventional assumption that amphetamine homologues are inherently more potent.
 
-## Harm Reduction and Safety Considerations
+## [[adverse-effects-and-harm-reduction-psilocybin]] [[ayahuasca-tourism-practitioners-and-safety-considerations]]
 
 - The 18-30 hour duration is a major safety consideration: users must be prepared for a full day-plus experience
 

@@ -29,7 +29,7 @@ that governmental control of the population becomes much easier and more
 effective when the state can also claim divine authority.
 
 His approach was systematic: create a single "One World Religion" that would
-unify the empire under both political and spiritual authority. The result was
+unify the empire under both political [[fukuoka-do-nothing-farming-and-spiritual-life]] authority. The result was
 the Catholic (meaning "universal" or "one from all") Church.
 
 ## The Council of Nicaea and Biblical Compilation
@@ -37,7 +37,7 @@ the Catholic (meaning "universal" or "one from all") Church.
 According to the source text, Christianity was created through a governmental
 council that:
 
-1. **Acquired and examined** as many of the world's religious doctrines as could
+1. **Acquired and examined** as many [[hallucinogenic-plants-of-the-world]]'s religious doctrines as could
    be found across the empire and beyond
 2. **Selected elements** from Egyptology, Mithraism, Hinduism, Buddhism, the
    Torah of the Jews, and many other traditions
@@ -66,7 +66,7 @@ The state gained unprecedented control over the spiritual lives of its subjects.
 
 ## Impact on Entheogenic Traditions
 
-### Suppression of Direct Experience
+### [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]] Direct Experience
 
 The most significant impact was the systematic removal of the individual's
 ability to experience divine consciousness directly through entheogenic
@@ -86,7 +86,7 @@ Despite the suppression, Constantine's compilation process inadvertently
 preserved extensive [[stropharia-cubensis-tree-of-knowledge]]/Life
 - Sacramental ingestion language (body and blood)
 - Visionary experiences (Ezekiel, Revelation)
-- Parables about seeds, growth, and harvesting
+- Parables about seeds, growth, [[fruiting-conditions-and-harvesting]]
 - Cross symbolism and anointing references
 
 These elements survived because the compilers either did not recognize them as
@@ -98,11 +98,11 @@ coherence.
 Constantine's approach set a template repeated throughout history:
 
 - **Spanish Inquisition:** Murdered an estimated 8 million people as "witches"
-  (traditional plant knowledge practitioners)
+  (traditional [[indigenous-plant-knowledge-versus-synthetic-drug-safety-metzner]] practitioners)
 - **Central American conquest:** An estimated 20 million indigenous people
   killed, nearly exterminating Aztec/Inca/Mayan entheogenic traditions
 - **[[cervantes-war-on-drugs-statistics]]" continues the same pattern of
-  suppressing entheogenic plant knowledge
+  suppressing [[pinoline-and-entheogenic-plant-combinations]] knowledge
 
 ## The Bible as Historical Document
 

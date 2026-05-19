@@ -22,7 +22,7 @@ aliases:
   - zarzaparrilla
   - Smilax aristolochiifolia
 sources:
-  - Duke, J.A. (2008). "Duke's Handbook of Medicinal Plants of Latin America." CRC Press.
+  - Duke, J.A. (2008). "Duke's Handbook of [[amazonian-medicinal-plants-in-amaringos-visions]] of Latin America." CRC Press.
   - Gupta, M.P. (1995). "270 Plantas Medicinales Iberoamericanas." CYTED.
   - Schultes, R.E. & Raffauf, R.F. (1990). "The Healing Forest." Dioscorides Press.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:537307-1
@@ -33,9 +33,9 @@ sources:
 
 **Smilax ornata** is a perennial climbing vine in the family Smilacaceae (sometimes placed in Asparagaceae subfamily Smilacoideae).
 
-It is the primary botanical source of commercial sarsaparilla root, historically used as a flavoring agent in beverages and as a traditional remedy across Mesoamerica.
+It is the primary botanical source of commercial sarsaparilla root, historically [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] flavoring agent in beverages and as a traditional remedy across Mesoamerica.
 
-The species is native to tropical and subtropical regions from southern Mexico through [[guzman-psilocybin-mushrooms-south-america]] and the Caribbean.
+The species is native to tropical [[mollison-designers-avocado-mango-and-subtropical-tree-crops]] regions from southern Mexico through [[guzman-psilocybin-mushrooms-south-america]] and the Caribbean.
 
 ## Taxonomy and Morphology
 
@@ -57,7 +57,7 @@ Modern taxonomic treatments recognize *S. ornata* (Lem.) A.DC. as distinct from 
 
 **Fruit:** Globose berry, 6–10 mm diameter, ripening from green to red to dark blue-black, containing 1–3 seeds.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 The species ranges from southern Mexico (Veracruz, Oaxaca, Chiapas) through Guatemala, Belize, Honduras, Nicaragua, Costa Rica, and Panama into Colombia and Venezuela.
 
@@ -67,13 +67,13 @@ The vine is highly adaptable and colonizes forest edges, riverbanks, and disturb
 
 It thrives in well-drained, humus-rich soils with pH 5.5–7.0 and annual rainfall exceeding 1,500 mm.
 
-## Traditional and Medicinal Uses
+## Traditional [[calendula-cultivation-and-medicinal-uses]]
 
 Sarsaparilla root has been used medicinally in the Americas for over 500 years, with documented use by Aztec, Maya, and other Indigenous peoples.
 
 Traditional applications include treatment of [[root-beer-making]] and is still used in some soft drink formulations and herbal tonic preparations.
 
-## Chemistry and Pharmacology
+## [[amanita-muscaria-chemistry-and-pharmacology]]
 
 The principal bioactive constituents are steroidal saponins, comprising 1.5–2.5% of dried root weight.
 

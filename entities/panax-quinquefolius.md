@@ -42,7 +42,7 @@ sources:
 - **Leaves:** Compound, palmately divided into 3–5 leaflets per leaf
 - **Flowers:** Small, greenish-white umbels; blooms June–July
 - **Fruit:** Red drupe containing 1–3 seeds; ripens August–September
-- **Lifespan:** Can exceed 50 years in the wild
+- **Lifespan:** Can exceed 50 years [[query-how-to-identify-psilocybe-cubensis-in-the-wild]]
 - **Harvest maturity:** Roots typically harvested at 4–6 years for optimal potency
 
 ## Taxonomy & Classification
@@ -71,7 +71,7 @@ sources:
   - **Rc:** Sedative and anxiolytic effects
   - **Rg1:** Present at lower concentrations than in *P. ginseng*
   - **F11 (pseudoginsenoside F11):** Marker compound unique to American ginseng
-- **Total ginsenoside content:** 4–12% of dry root weight (varies by age, part, growing conditions)
+- **Total ginsenoside content:** 4–12% of dry root weight (varies [[pf-tek-primordia-abort-harvesting-potency-by-age]], part, growing conditions)
 - **Key distinction from *P. ginseng*:** Higher Rb1:Rg1 ratio → attributed to "cooling" properties in TCM
 - **Other constituents:**
   - Polysaccharides (panaxans) — immunomodulatory

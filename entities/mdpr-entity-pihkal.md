@@ -14,14 +14,14 @@ sources: ["Shulgin - PIHKAL"]
 
 N-PROPYL-MDA; 3,4-METHYLENEDIOXY-N-PROPYLAMPHETAMINE
 
-## Dosage and Duration
+## [[psilocybin-dosage-and-pharmacology]] Duration
 
 | Property | Value |
 |----------|-------|
 | Dosage | greater than 200 mg. |
 | Duration | unknown. |
 
-## Qualitative Comments
+## [[qualitative-comments-methodology-pihkal]]
 
 > (with 200 mg) There are the slightest hints of
 > physical response, maybe a smidgin of a lightheadedness at the one
@@ -37,7 +37,7 @@ value. A number of reports in the 150 to 200 milligram area suggested
 that something was taking place in the periphery even without any
 clear central effects. The term "body window" was used occasionally
 by experimenters, an outgrowth of the term "window" that was used (at
-that time, the mid-1970's) to describe the mental effects of [[lsd]] dosage which followed it. The putting of a drug
+that time, the mid-1970's) to describe the mental [[landscape-effects-of-altitude-and-valley-climates]] [[lsd]] dosage which followed it. The putting of a drug
 
 on top of an inactive drug is the "primer" concept. It turned out
 that MDPR was an extraordinary primer to some following psychedelic,
@@ -46,7 +46,7 @@ an active drug, usually during the latter part of its effectiveness
 is, as previously stated, called "piggy-backing." A third drug-drug
 interaction has also been studied; the simultaneous administration of
 two active drugs, to study synergism. There may be an enhancement, or
-an inhibition, of one with the other. Let's now re-enter the
+an inhibition, of one with [[powell-the-other-and-sentient-presence]]. Let's now re-enter the
 subsection "Qualitative Comments" again, with this primer concept in
 mind.
 
@@ -62,7 +62,7 @@ magical.
 
 (with 160 mg followed at 2 h by 60 5gs LSD) RWe both felt the first
 effects at about 30 minutes, and an hour later we found ourselves in a
-startling folie-a-deux, involved in reliving the origins of man's
+startling folie-a-deux, involved in reliving the [[anunnaki-and-sumerian-origins-of-religion]] man's
 arrival on earth. We were deep in a tropic environment, defending
 ourselves against the nasties of nature (insects, threatening things,
 blistering heat) and determining that man could indeed live here and
@@ -72,7 +72,7 @@ same script for both of us.
 (with 160 mg followed at 2 h by100 5gs LSD) RThis proved to be almost
 too intoxicating, and a problem arose that had to have a solution.
 The entire research group was here, and all were following this same
-regimen. Two hours into the second half of the experiment a telephone
+regimen. Two hours into [[oner-sativa-renaissance-rise-of-the-second-child]] half of the experiment a telephone
 call came that reminded me of a promise I had made to perform in a
 social afternoon with the viola in a string quartet. Why did I answer
 the phone? My entire experience was, over the course of about 20

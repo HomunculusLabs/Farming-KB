@@ -19,8 +19,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Brandle, J.E., Starratt, A.N., Gijzen, M. (1998). "Stevia rebaudiana: Its Agricultural, Biological, and Chemical Properties." Canadian Journal of Plant Science, 78(4), 527-536.
-  - Kinghorn, A.D. (2002). "The Genus Stevia." Medicinal and Aromatic Plants — Industrial Profiles. Taylor & Francis.
+  - Brandle, J.E., Starratt, A.N., Gijzen, M. (1998). "Stevia rebaudiana: Its Agricultural, Biological, and Chemical Properties." Canadian Journal [[history-of-plant-science]], 78(4), 527-536.
+  - Kinghorn, A.D. (2002). "The Genus Stevia." [[holzer-medicinal-and-culinary-herbs-compendium]] Aromatic Plants — Industrial Profiles. Taylor & Francis.
   - Carakostas, M.C. et al. (2008). "Overview: The History, Technical Function, and Safety of Rebiana." Food and Chemical Toxicology, 46, S1-S10.
   - Geuns, J.M.C. (2003). "Molecules of Interest: Stevioside." Phytochemistry, 64(5), 913-921.
   - https://www.fsai.ie/legislation/food_legislation/additives/sweeteners/steviol_glycosides.html
@@ -39,7 +39,7 @@ and other beverages. Today, stevia extracts are among the most commercially
 significant natural sweeteners worldwide, approved for food use in over 150
 countries.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 **Taxonomy:** Plantae → Tracheophyta → Magnoliopsida → Asterales → Asteraceae →
 **Eupatorieae → *Stevia → *S. rebaudiana***.
@@ -53,7 +53,7 @@ Stevia is a short-day plant requiring approximately 12–13 hours of darkness to
 initiate flowering. It is self-incompatible and requires cross-pollination,
 primarily by insects.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 Native to the semi-arid highlands of eastern Paraguay (Amambay and Iguazú
 departments) and the adjacent border regions of Brazil, at elevations of
@@ -61,7 +61,7 @@ departments) and the adjacent border regions of Brazil, at elevations of
 good drainage and thrives in [[dmt-containing-plants-united-states-halpern]]. China
 accounts for roughly 80% of global stevia leaf production.
 
-## Bioactive Compounds
+## [[cordyceps-cancer-bioactive-compounds]]
 
 The principal sweet compounds are **steviol glycosides**, diterpene derivatives
 of steviol biosynthesized via the MEP pathway:
@@ -80,7 +80,7 @@ glycosides), caffeic acid derivatives, and chlorophyll. The glycoside
 profile varies significantly with cultivar, growing conditions, and harvest
 timing.
 
-## Pharmacology and Health Effects
+## Pharmacology [[hallucinogenic-mushroom-markets-legislation-and-health-effects]]
 
 Steviol glycosides are not metabolized by human digestive enzymes. They are
 hydrolyzed by gut microflora to steviol, which is absorbed, glucuronidated

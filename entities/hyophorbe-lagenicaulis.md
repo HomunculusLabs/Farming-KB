@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., & Lewis, C.E. (2008). Genera Palmarum: The Evolution and Classification of Palms. Royal Botanic Gardens, Kew.
+  - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., & Lewis, C.E. (2008). Genera Palmarum: The Evolution [[climatic-zones-and-classification-systems]] of Palms. Royal Botanic Gardens, Kew.
   - IUCN Red List of Threatened Species (2023). Hyophorbe lagenicaulis.
   - Maunder, M., et al. (2002). "The Decline of the Palm Flora of the Mascarene Islands." Botanical Journal of the Linnean Society.
   - Bacon, P.R. (1979). "The palms of Round Island, Mauritius." Oryx 15(3): 221-229.
@@ -22,7 +22,7 @@ Hyophorbe lagenicaulis, commonly known as the bottle palm or champagne palm, is 
 
 It is renowned for its swollen, bottle-shaped trunk, which gives the species its common name. The trunk bulge is most pronounced in younger specimens and becomes less obvious with age.
 
-The species is critically endangered in the wild due to its extremely limited natural distribution. Fewer than 50 mature individuals remain on Round Island, though it is widely cultivated in tropical and subtropical gardens worldwide. The species is one of the most commonly sold ornamental palms despite its critical [[biodiversity-fungal-genetic-diversity]] and ecological role of wild populations.
+The species is critically endangered [[query-how-to-identify-psilocybe-cubensis-in-the-wild]] due to its extremely limited natural distribution. Fewer than 50 mature individuals remain on Round Island, though it is widely cultivated in tropical [[mollison-designers-avocado-mango-and-subtropical-tree-crops]] gardens worldwide. The species is one of the most commonly sold ornamental palms despite its critical [[biodiversity-fungal-genetic-diversity]] [[bill-mollison-permaculture-a-designers-manual-succession-and-ecological-evolution]] role of wild populations.
 
 ## Taxonomy and Morphology
 
@@ -46,9 +46,9 @@ The fruit is a small ovoid drupe, approximately 1.2 centimeters in diameter, rip
 
 The root system is relatively compact for a palm, making the species suitable for container culture. Roots are sensitive to disturbance and the palm does not transplant well once established.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
-Hyophorbe lagenicaulis is endemic to Round Island, a small islet of approximately 151 hectares located 22 kilometers northeast of Mauritius. It is one of the most geographically restricted palm species in the world.
+Hyophorbe lagenicaulis is endemic to Round Island, a small islet of approximately 151 hectares located 22 kilometers northeast of Mauritius. It is one of the most geographically restricted [[palm-species-in-permaculture]] the world.
 
 Round Island is a nature reserve that supports several endemic plant and reptile species. The palm grows on rocky, well-drained slopes at elevations below 200 meters above sea level. It is often found on exposed ridgelines where competing vegetation is sparse.
 

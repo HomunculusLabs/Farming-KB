@@ -26,7 +26,7 @@ The Sumerian worldview was fundamentally theocratic. For the land was the god's,
 
 This conception of divine ownership shaped every institution of Sumerian society. Land tenure, taxation, legal procedure, and the calendar itself all derived their authority from the god's ultimate ownership of the soil and its productivity. The entire apparatus of government was understood as an extension of divine will, administered through human agents who held their authority on temporary lease from the gods.
 
-The Sumerian saw himself not as the master of the earth but as its custodian, answerable to powers far greater than any mortal ruler. This theological humility coexisted with extraordinary practical ambition — the same people who saw themselves as servants of the gods also built the world's first cities.
+The Sumerian saw himself not as the master of the earth but as its custodian, answerable to powers far greater than any mortal ruler. This theological humility coexisted with extraordinary practical ambition — the same people who saw themselves as servants [[allegro-names-of-the-gods-and-their-fertility-origins]] also built the world's first cities.
 
 The temple stood at the very center of Sumerian life — far more than a place of worship. It served simultaneously as the seat of justice, land administration, scientific learning, theological speculation, religious ritual, university and primary school. In a very real sense, the temple was the state.
 
@@ -56,7 +56,7 @@ The cuneiform writing system emerged directly from the material conditions of th
 
 The shape of these early tablets was distinctive. It was the shape of the flat loaf of the East even today, or of the biblical "cake of figs." It was, in fact, the shape of the top of a mushroom, and it was from the fungus that it received its name.
 
-This seemingly incidental detail reveals the deep mycological awareness that permeated early Mesopotamian culture and connected the act of writing itself to the natural world of the alluvial plain. The medium of writing carried symbolic meaning of its own.
+This seemingly incidental detail reveals the deep mycological awareness that permeated early Mesopotamian culture and connected the act of writing itself to the natural [[fukuoka-world-of-the-bushman]] alluvial plain. The medium of writing carried symbolic meaning of its own.
 
 These early rounded tablets were later regularized into rectangular forms that fit comfortably in the scribe's hand, allowing more text to be inscribed on each surface. The evolution of the tablet's physical form paralleled the evolution of the script itself — from organic and pictorial toward regularized and abstract.
 
@@ -64,9 +64,9 @@ The medium shaped the message, and the demands of efficiency gradually overtook 
 
 The earliest pictorial signs were direct representations of physical objects and body parts. Scribes drew a head, a leg, an erect penis ejaculating sperm, a hand — each sign a miniature picture of the thing it represented. The writing was fundamentally pictographic in origin, a system of simplified drawings pressed into clay.
 
-These earliest signs betray a preoccupation with the human body and its generative functions. The Sumerian scribe's visual vocabulary was rooted in the biology of reproduction and the physical forms of the natural world.
+These earliest signs betray a preoccupation with the human body and its generative functions. The Sumerian scribe's visual vocabulary was rooted in the biology of [[basidiomycete-sexual-reproduction-and-clamp-connections]] the physical forms of the natural world.
 
-The evolution from pictorial signs to abstract cuneiform was driven by the writing instrument itself. A pointed tool was first used to push clay into ridges, tracing the outlines of pictorial forms. But scribes eventually switched to pressing the cut end of a reed stylus into the clay surface.
+The evolution from pictorial signs to abstract cuneiform was driven by the writing instrument itself. A pointed tool was first used to push clay into ridges, tracing the outlines of pictorial forms. But scribes eventually switched to pressing the cut [[allegro-end-of-a-road-motivation]] reed stylus into the clay surface.
 
 This technique produced separate wedge-shaped marks (Latin *cuneus* = wedge), and in the process the flowing, pictorial line was lost. The signs became stylized and abstract, bearing little visual resemblance to their original referents. Speed and consistency had triumphed over pictorial fidelity.
 
@@ -78,7 +78,7 @@ The mundane purpose of this first text underscores the practical, administrative
 
 The mature cuneiform system required some three hundred different signs, and each of these ideograms could represent a number of different sound-values depending on context. This polyvalence — one sign, many readings — makes Sumerian both challenging and extraordinarily revealing to the modern decipherer.
 
-The logic underlying the system was often conceptual rather than arbitrary. Signs grouped meanings around a common radical idea, creating networks of association that illuminate how the Sumerians organized their understanding of the world.
+The logic underlying the system was often conceptual rather than arbitrary. Signs grouped meanings around a common radical idea, creating networks of association that illuminate how the Sumerians organized their understanding [[hallucinogenic-plants-of-the-world]].
 
 A single pictograph could branch into a family of related concepts, each reading a different facet of the same underlying image. This web of associations offers modern scholars a window into the Sumerian mind — its priorities, its metaphors, its habits of thought.
 
@@ -123,6 +123,6 @@ The word-bricks of Sumerian became embedded in the vocabulary of virtually every
 
 ## Legacy of Sumer
 
-The Sumerian achievement in writing, law, mathematics, astronomy, and religious thought became the foundation upon which all subsequent Mesopotamian civilizations were built. Their cuneiform script was adopted and adapted by Accadians, Babylonians, Assyrians, Hittites, Elamites, and others, remaining in active use for over three thousand years — one of the longest-lived writing systems in human history.
+The Sumerian achievement in writing, law, mathematics, astronomy, and religious thought became the foundation upon which all subsequent Mesopotamian civilizations were built. Their cuneiform script was adopted and adapted by Accadians, Babylonians, Assyrians, Hittites, Elamites, and others, remaining in active use for over three thousand years — one of the longest-lived writing systems [[partnership-and-dominator-cultures-in-human-history]].
 
 The recovery of their language — from those Nineveh tablets that once baffled scholars and were dismissed as a "secret script" — opened an entire chapter of human history that had been lost for millennia. Through the patient work of decipherment, the voice of the world's earliest literate civilization speaks to us again across the gulf of four thousand years, revealing minds of extraordinary subtlety and a culture whose influence upon the modern world remains incalculable.

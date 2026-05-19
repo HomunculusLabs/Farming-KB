@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-**Cystoseira tamariscifolia** is a species of brown macroalga (Phaeophyta) in the family Sargassaceae. It is a prominent habitat-forming seaweed found on temperate rocky coasts of the eastern Atlantic and Mediterranean.
+**Cystoseira tamariscifolia** is a species of brown macroalga (Phaeophyta) in the family Sargassaceae. It is a prominent habitat-forming seaweed found on temperate rocky coasts of the eastern Atlantic [[holzer-fig-and-mediterranean-species]].
 
-The species forms dense canopies in the shallow subtidal and lower intertidal zones, creating complex three-dimensional structure that supports diverse invertebrate and fish communities. It is considered an indicator species for good environmental quality in Mediterranean coastal waters.
+The species forms dense canopies in the shallow subtidal and lower intertidal zones, creating complex three-dimensional structure that supports diverse invertebrate and fish communities. It is considered an [[fungal-ecosystem-indicator-species]] for good environmental quality in Mediterranean coastal waters.
 
 Its common name, **tamarisk seaweed**, derives from the resemblance of its densely branched thallus to the tamarisk shrub. The fronds exhibit a distinctive iridescent blue-green sheen when submerged.
 
@@ -52,7 +52,7 @@ Receptacles (reproductive structures) are borne on terminal branchlets, cylindri
 
 The most distinctive feature is the iridescent coloration of submerged fronds, caused by a thin surface film of water trapped by micro-hairs. This structural coloration produces a striking blue-green metallic sheen.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 *Cystoseira tamariscifolia* is native to the eastern Atlantic and the Mediterranean Sea.
 
@@ -60,7 +60,7 @@ Its Atlantic range extends from the British Isles south to Morocco and the Canar
 
 The species occupies the lower intertidal and shallow subtidal zones (0–3 m depth) on moderately exposed rocky shores. It prefers stable rock substrates with moderate wave action and good water clarity.
 
-It is less tolerant of sedimentation and turbidity than some congeners, which makes it sensitive to coastal development and water quality degradation. Optimal growth occurs at 14–22°C.
+It is less tolerant of sedimentation and turbidity than some congeners, which makes it sensitive to coastal development [[rainwater-tanks-and-water-quality]] degradation. Optimal growth occurs at 14–22°C.
 
 ## Chemistry and Bioactivity
 
@@ -68,7 +68,7 @@ Like many fucoid algae, *Cystoseira tamariscifolia* produces a range of bioactiv
 
 Extracts of *C. tamariscifolia* have shown algicidal properties, potentially mediating competitive interactions with other algal species on the reef.
 
-## Ecology and Environmental Role
+## [[fungal-ecology-and-environmental-biology]] Role
 
 *Cystoseira tamariscifolia* is a key **[[ecosystem-engineer-fungi]]** on temperate rocky reefs. Its dense canopy modifies light penetration, water flow, and substrate stability, creating microhabitats for hundreds of associated species.
 
@@ -78,6 +78,6 @@ The species plays an important role in coastal [[lichens-primary-production-soil
 
 Herbivory by sea urchins (*Paracentrotus lividus*) is a major controlling factor. Overgrazing by urchin populations can eliminate *Cystoseira* canopies, leading to shifts from macroalgal-dominated to barrens-dominated states.
 
-The canopy also provides nursery habitat for commercially important fish and shellfish species. Juvenile sparids, labrids, and mugilids are commonly associated with *Cystoseira* stands during their early life stages.
+The canopy also provides nursery habitat for [[commercially-important-pleurotus-species-cultivation-guide]] fish and shellfish species. Juvenile sparids, labrids, and mugilids are commonly associated with *Cystoseira* stands during their early life stages.
 
 Seasonal dynamics show peak biomass in late summer (August–September) and minimum in late winter. The semi-woody axis persists year-round, enabling rapid recolonization of the canopy from overwintering tissue.

@@ -11,7 +11,7 @@ updated: 2026-05-10
 sources:
   - Rapanarivo, S.H.J.V. et al. (1999). "Pachypodium of Madagascar." Kew Publishing, Royal Botanic Gardens.
   - Lüthy, J.M. (2004). "The genus Pachypodium in Madagascar." Cactus and Succulent Journal, 76: 146-162.
-  - Eggli, U. & Newton, L.E. (2004). Etymological Dictionary of Succulent Plant Names. Springer.
+  - Eggli, U. & Newton, L.E. (2004). Etymological Dictionary of Succulent [[allegro-plant-names-mushroom-mystery-cult-secrecy]]. Springer.
   - Royal Horticultural Society. Pachypodium lamerei RHS Plant Finder record.
 ---
 
@@ -23,7 +23,7 @@ Despite its common name, it is not a palm at all but a member of the dogbane fam
 
 The species is notable for its thick, gray, bottle-shaped trunk covered in sharp spines. This swollen trunk is an adaptation to the arid conditions of southern Madagascar.
 
-The trunk serves as a water storage organ, allowing the plant to survive extended dry periods.
+The trunk serves as a [[desert-water-storage-evaporation]] organ, allowing the plant to survive extended dry periods.
 
 Mature specimens develop a swollen caudex base and a crown of glossy, dark green leaves. The contrast between the armored trunk and soft foliage is visually dramatic.
 
@@ -35,7 +35,7 @@ Pachypodium lamerei is prized by succulent collectors for its dramatic sculptura
 
 It adapts well to container culture and makes a distinctive houseplant. Young plants are particularly popular in the nursery trade due to their compact size.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 **Kingdom:** Plantae
 **Family:** Apocynaceae
@@ -50,7 +50,7 @@ The trunk is thick, gray-green to silvery, and covered with prominent paired spi
 
 Leaves are simple, glossy, dark green, and oblanceolate, 15–30 cm long.
 
-They cluster at the stem apex in a rosette and are deciduous during the dry season. Leaf drop occurs naturally in response to drought and cool temperatures.
+They cluster at the stem apex in a rosette and are deciduous during the dry season. Leaf drop occurs [[query-how-do-i-manage-mosquitoes-naturally-in-my-permaculture-pond]] response to drought and cool temperatures.
 
 Flowers are large, white, salverform, and fragrant, measuring 8–12 cm across.
 
@@ -58,9 +58,9 @@ The corolla tube is yellowish-white with five spreading lobes. Blooming typicall
 
 All parts of the plant contain toxic cardiac glycosides.
 
-The milky sap is poisonous if ingested and can cause skin irritation. Handle with care and keep away from children and pets.
+The milky sap is poisonous if ingested and can cause skin irritation. Handle with care and keep away from [[children-and-mushroom-discrimination]] pets.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 Pachypodium lamerei is endemic to southern and southwestern Madagascar. It grows in the spiny forest and dry deciduous forest ecoregions.
 

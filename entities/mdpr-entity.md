@@ -10,15 +10,15 @@ sources: []
 
 MDPR (N-Propyl-MDA; 3,4-Methylenedioxy-N-propylamphetamine) is an N-propyl substituted analogue of mda-entity|MDA that is notable primarily for its remarkable properties as a psychedelic primer.
 
-It is documented as entry #118 in PiHKAL by [[psilocybin-pharmacology-and-serotonin-receptors]] outside the central nervous system.
+It is documented as entry #118 in PiHKAL by [[psilocybin-pharmacology-and-serotonin-receptors]] outside the central [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]].
 
-## Harm Reduction
+## [[adverse-effects-and-harm-reduction-psilocybin]]
 
 While MDPR is inactive alone, its primer effect can dramatically amplify the effects of subsequently administered psychedelics.
 
-Users should be aware that combining MDPR with any psychedelic may produce effects far beyond what would be expected from the psychedelic alone.
+Users should be aware that combining MDPR with any psychedelic may produce effects far beyond what would be expected from [[powell-paradigm-shifting-and-the-psychedelic-revolution]] alone.
 
-The dose of the subsequent psychedelic should be significantly reduced when MDPR is used as a primer.
+The dose of the subsequent psychedelic should be significantly reduced when MDPR is [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] primer.
 
 MDPR has not been extensively studied for safety or toxicity at the high doses (160-200 mg) used in primer experiments.
 
@@ -31,7 +31,7 @@ MDPR has not been extensively studied for safety or toxicity at the high doses (
 
 MDPR has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
+requires familiarity with the underlying [[aquaculture-design-principles-and-energy-efficiency]] their
 manifestation in real-world contexts. The breadth of applications
 reflects the fundamental importance of this topic across disciplines.
 
@@ -53,7 +53,7 @@ Several important considerations should guide approach and decision-
 making when working with this topic. These include environmental
 factors, resource availability, timing, and the specific goals of the
 implementation. Careful attention to these factors improves outcomes
-and reduces the likelihood of common problems and setbacks.
+and reduces the likelihood of [[query-how-do-i-grow-carrots-successfully-and-troubleshoot-common-problems]] and setbacks.
 
 Environmental conditions play a particularly significant role in
 determining outcomes. Factors such as temperature, moisture, light

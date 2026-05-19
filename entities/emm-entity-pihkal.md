@@ -25,7 +25,7 @@ sources: ["Shulgin - PIHKAL"]
 | Dosage | greater than 50 mg. |
 | Duration | unknown. |
 
-## Qualitative Comments
+## [[qualitative-comments-methodology-pihkal]]
 
 > (with 50 mg) There were no effects.
 >
@@ -52,16 +52,16 @@ EMM is a research chemical documented in PIHKAL. Dosage data and safety profiles
 ## Pharmacology
 
 EMM (4,5-dimethoxy-2-ethoxyamphetamine) is a member of the trialkoxyamphetamine
-family and the first ethoxy homologue of TMA-2 that Shulgin synthesized and
+family [[ego-loss-and-the-first-bardo-clear-light]] ethoxy homologue of TMA-2 that Shulgin synthesized and
 tested. The substitution pattern places an ethoxy group at the 2-position
 with methoxy groups at the 4- and 5-positions. In the Shulgin SAR analysis,
-the 2-position is the least critical for psychedelic activity — Shulgin's
+the 2-position is the least critical [[maps-multidisciplinary-association-for-psychedelic-studies]] activity — Shulgin's
 work demonstrated that the 4-position is where the primary receptor
 interaction occurs. This likely explains EMM's inactivity at 50 mg.
 
 The ethoxy group at position 2 may create steric hindrance that reduces
 binding affinity at the 5-HT2A receptor, or it may alter the molecule's
-conformational flexibility in ways that diminish agonist activity. The
+conformational [[savory-flexibility-in-management]] ways that diminish agonist activity. The
 subsequent discovery that MEM (with ethoxy at the critical 4-position) was
 highly active confirmed the importance of the 4-substituent in determining
 psychedelic potency within this series.
@@ -72,9 +72,9 @@ At 50 mg, EMM produced no detectable effects. Shulgin described this result
 as keenly disappointing, as TMA-2 is very active at this dose level. The
 lack of activity initially led Shulgin to conclude that any modification to
 the TMA-2 structure would eliminate activity, temporarily shelving the ethoxy
-project before the discovery of MEM rekindled interest.
+project before [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] MEM rekindled interest.
 
 ## Legal Status
 
 EMM is a substituted amphetamine that may be subject to analogue drug
-legislation in many jurisdictions. Under the US Federal Analog Act, EMM could
+[[hallucinogenic-mushroom-legislation-in-europe]] many jurisdictions. Under the US Federal Analog Act, EMM could

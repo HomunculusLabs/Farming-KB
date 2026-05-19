@@ -23,16 +23,16 @@ sources:
 
 Commiphora mukul, known as Guggul or Indian Bdellium, is a flowering shrub or
 small tree in the family Burseraceae. It is the source of guggul resin, one of
-the oldest and most important medicaments in Ayurvedic medicine.
+the oldest and [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] medicaments in Ayurvedic medicine.
 
-The species is native to [[cannabis-for-inflammatory-conditions]], obesity, and lipid disorders.
+The species is [[hallucinogenic-plants-native-to-united-states]] [[cannabis-for-inflammatory-conditions]], obesity, and lipid disorders.
 
 Modern pharmacological research has validated the resin's hypolipidemic and
-anti-inflammatory properties, leading to the development of standardized
+anti-inflammatory properties, leading to the [[historical-development-of-mushroom-cultivation]] standardized
 extracts such as Guggulipid. The compound guggulsterone has been identified as
 a key bioactive constituent with farnesoid X receptor (FXR) antagonism.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 **Classification:** Kingdom Plantae → Division Magnoliophyta → Class
 Magnoliopsida → Order Sapindales → Family Burseraceae → Genus
@@ -55,7 +55,7 @@ Flowers are small, brownish-red, borne in axillary fascicles. The fruit is
 a small drupe, 6–8 mm in diameter, red when ripe, containing a single
 seed. The resin ducts in the bark produce guggul when the plant is wounded.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 *Commiphora mukul* is native to the arid and semi-arid regions of the
 Indian subcontinent, particularly Rajasthan, Gujarat, Maharashtra, and
@@ -73,7 +73,7 @@ Overharvesting of wild populations has raised conservation concerns. The
 species is classified as vulnerable in parts of its range due to unsustainable
 resin collection practices.
 
-## Bioactive Compounds
+## [[cordyceps-cancer-bioactive-compounds]]
 
 The guggul resin contains a complex mixture of diterpenoids, triterpenoids,
 sterols, and sesquiterpenes. The major bioactive constituents are the

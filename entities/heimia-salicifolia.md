@@ -18,7 +18,7 @@ sources:
 
 **Heimia salicifolia** (H.B.K.) Link et Otto, commonly known as **Sinicuichi**, is a shrub native to the Americas that has been used for its auditory hallucinogenic properties since pre-Columbian times. It is one of the few plants known to produce primarily auditory rather than visual hallucinations.
 
-## Taxonomy and Classification
+## [[fungal-taxonomy-and-classification]]
 
 - **Family:** Lythraceae (Loosestrife Family)
 - **Genus:** Heimia
@@ -53,7 +53,7 @@ Although it is believed that excessive use of Sinicuichi may be physically harmf
 
 ### Aztec Connection
 
-Sinicuichi may have been known to the Aztecs. It is one of several psychoactive plants indigenous to the Mexican highlands that have been used since pre-Columbian times. Some researchers have suggested that Sinicuichi may correspond to one of the psychoactive plants mentioned in early colonial ethnographic accounts, though definitive identification has proven difficult due to the limitations of Spanish botanical terminology in the 16th century.
+Sinicuichi may have been known to the Aztecs. It is one of several [[halpern-internet-dissemination-psychoactive-plants-public-health]] indigenous to the Mexican highlands that have been used since pre-Columbian times. Some researchers have suggested that Sinicuichi may correspond to one of the psychoactive plants mentioned in early colonial ethnographic accounts, though definitive identification has proven difficult due to the limitations of Spanish botanical terminology in the 16th century.
 
 ### Use in Other Regions
 
@@ -69,19 +69,19 @@ Heimia salicifolia contains quinolizidine alkaloids, including:
 - **Nesidine** — a less well-characterized constituent
 - **Heimidine** — a minor alkaloid unique to the genus
 
-Cryogenine (vertine) is considered the main psychoactive alkaloid responsible for the plant's auditory-enhancing and euphoric effects. It is a quinolizidine alkaloid with a relatively uncommon structure among psychoactive plant compounds. The alkaloid content of the leaves is relatively low compared to many other psychoactive plants, which may explain the need for the traditional [[mushroom-compost-fermentation-process]] to concentrate and activate the active principles.
+Cryogenine (vertine) is considered the main psychoactive alkaloid responsible for the plant's auditory-enhancing and euphoric effects. It is a quinolizidine alkaloid with a relatively uncommon structure among psychoactive plant compounds. The alkaloid content of the leaves is relatively low compared to many [[allen-gymnopilus-and-other-psychoactive-genera]] plants, which may explain the need for the traditional [[mushroom-compost-fermentation-process]] to concentrate and activate the active principles.
 
 ## Pharmacology
 
-The pharmacology of cryogenine and the other Heimia alkaloids is not well characterized. Cryogenine has been shown to have mild muscle relaxant and anti-inflammatory properties in laboratory studies. The mechanism by which it produces auditory hallucinations remains poorly understood. Some researchers have suggested that the alkaloids may interact with GABAergic or glycinergic receptor systems, which could account for both the auditory effects and the reported drowsiness and muscle relaxation.
+The pharmacology of cryogenine and the other Heimia alkaloids is not well characterized. Cryogenine has been shown to have mild muscle relaxant and anti-inflammatory properties in laboratory studies. The mechanism by which it produces auditory hallucinations remains poorly understood. Some researchers have suggested that the alkaloids may [[how-trees-interact-with-rain-canopy-and-throughfall]] GABAergic or glycinergic receptor systems, which could account for both the auditory effects and the reported drowsiness and muscle relaxation.
 
 The traditional fermentation step may convert inactive alkaloid precursors into their active forms, or it may make the alkaloids more bioavailable through changes in pH or the action of microorganisms.
 
 ## Historical Documentation
 
-The earliest reliable documentation of Sinicuichi use comes from the work of Mexican ethnobotanist Blas Pablo Reko in the early 20th century.  Schultes later provided more detailed ethnobotanical accounts of its preparation and use among indigenous communities in the Mexican highlands. The plant has received relatively little scientific attention compared to more famous Mexican hallucinogens, and much of what is known about its effects comes from ethnographic reports rather than controlled clinical studies.
+The earliest reliable documentation of Sinicuichi use comes from the work of Mexican ethnobotanist Blas Pablo Reko in the early 20th century.  Schultes later provided more detailed ethnobotanical accounts of its [[jadam-microbial-solution-jms-preparation-and-use]] among indigenous communities in the Mexican highlands. The plant has received relatively little scientific attention compared to more famous Mexican hallucinogens, and much of what is known about its effects comes from ethnographic reports rather than controlled clinical studies.
 
-## Safety Considerations
+## [[ayahuasca-tourism-practitioners-and-safety-considerations]]
 
 ## See Also
 

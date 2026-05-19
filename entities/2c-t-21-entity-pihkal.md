@@ -14,26 +14,26 @@ sources: ["Shulgin - PIHKAL"]
 
 2,5-DIMETHOXY-4-(2-FLUOROETHYLTHIO)PHENETHYLAMINE
 
-## Dosage and Duration
+## [[psilocybin-dosage-and-pharmacology]] Duration
 
 | Property | Value |
 |----------|-------|
 | Dosage | Not recorded |
 | Duration | 7 - 10 h. |
 
-## Qualitative Comments
+## [[qualitative-comments-methodology-pihkal]]
 
 > (with 6 mg) I noticed something undefined
 > within five minutes which went away. Within 15 minutes I noticed a
 > definite awareness of activity. There was a progressive increase in
 > awareness of something happening over the next two hours with a
-> plateau of perhaps an hour then occurring. The nature of the
+> plateau of perhaps an hour then occurring. The [[fukuoka-nature-of-food-color-flavor-spiritual-alienation]] the
 > happening, as usual, was not clear. During the experience I was more
 > talkative than I usually am. I seemed to be interacting with all
 > others. There was no euphoria but, then, there was no body load or
 > nausea, nor was there any nystagmus. I found a little mental
 > confusion at the peak and there was some searching in my memory bank
-> for the right chips at times. I lost the entire line of one of my
+> for [[query-how-do-i-choose-and-apply-the-right-mulch-for-my-garden]] chips at times. I lost the entire line of one of my
 > conversations at one point during the plateau and had to ask what I
 > was talking about. I tested my visual field on a painting and with
 > sufficient concentration I could get the center part to wiggle a
@@ -58,8 +58,8 @@ sources: ["Shulgin - PIHKAL"]
 > I usually don't want food 'til well down as I usually feel that it
 > interferes with the experience. And, also, I nibbled constantly as I
 > felt that there was nothing in my body. And I enjoyed it thoroughly,
-> feeling only the warmth and energy, with no contrary developments.
-> There was a nice feeling of inner strength and peace.
+> feeling only the warmth [[aquaculture-design-principles-and-energy-efficiency]], with no contrary developments.
+> There was a nice feeling of inner strength [[fukuoka-snake-frog-war-and-peace-philosophy]].
 >
 > (with 8 mg) It was very difficult to fix the times of ascent or
 > descent. Some chilling during onset but not later. And there was

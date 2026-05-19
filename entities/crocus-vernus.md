@@ -27,7 +27,7 @@ The species has been cultivated since the sixteenth century and remains one of t
 
 Hybridization between *Crocus vernus* and other spring-flowering species has produced many garden cultivars. The best-known hybrids involve *[[crocus-flavus]]* and *Crocus biflorus*, expanding the available color range.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 **Classification:** Kingdom Plantae → Order Asparagales → Family Iridaceae → Genus *Crocus* → Series *Verni* → Species *C. vernus*. The species was described by William Herbert in 1821.
 
@@ -39,7 +39,7 @@ Leaves are 3–6 in number, dark green with a conspicuous white median stripe, a
 
 Flowers are solitary or occasionally paired, large for the genus at 4–7 cm across. The perianth segments (tepals) are oblanceolate and equal, forming a symmetrical goblet shape.
 
-Flower color is highly variable in the wild, ranging from deep purple to pale lavender and white. Many wild populations contain a mix of color forms, with some individuals showing prominent darker striping on the outer tepals.
+Flower color is highly variable [[query-how-to-identify-psilocybe-cubensis-in-the-wild]], ranging from deep purple to pale lavender and white. Many wild populations contain a mix of color forms, with some individuals showing prominent darker striping on the outer tepals.
 
 White-flowered forms are sometimes separated as *Crocus vernus* subsp. *albiflorus*, though this treatment is debated among taxonomists. Intermediate color forms blur the distinction in many populations.
 
@@ -47,9 +47,9 @@ The style is divided into three short orange-red branches that are a distinguish
 
 Chromosome number is 2n = 16, which is the base number for series *Verni*. Polyploid forms are occasionally reported but are not common in the species.
 
-The corms produce contractile roots that pull the corm deeper into the soil over time. This mechanism ensures the corm remains at an optimal depth despite surface soil disturbance.
+The corms produce contractile roots that pull the corm deeper into the soil over time. This mechanism ensures the corm remains at an optimal depth despite surface [[soil-disturbance-mycorrhizal-impact]].
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 The native range extends from the Pyrenees and Alps through the Apennines, Carpathians, and mountains of the Balkan Peninsula. The core populations occur in the Alps of Switzerland, Austria, France, and Italy.
 
@@ -67,13 +67,13 @@ The species has been designated hardy to H7 on the RHS hardiness [[shulgin-ratin
 
 *Crocus vernus* is hardy to USDA zones 3–8 and naturalizes readily in temperate gardens. Plant corms 8–10 cm deep in autumn, preferably in groups of 10–25 for visual impact.
 
-Full sun to partial shade is optimal, with well-drained soil of any pH. The species tolerates a wide range of soil conditions better than most crocus species.
+Full sun to partial shade is optimal, with well-drained soil of any pH. The species tolerates a wide range [[biological-indicators-of-soil-conditions]] better than most crocus species.
 
 Plantings in lawns create spectacular early-spring displays. Avoid mowing until foliage has fully yellowed (approximately 6 weeks after flowering) to allow corms to replenish energy stores.
 
 Dutch crocus cultivars sold commercially are primarily selections and hybrids of *Crocus vernus*. Popular cultivars include 'Pickwick' (striped purple and white), 'Remembrance' (solid deep purple), 'Jeanne d'Arc' (white), and 'Flower Record' (violet-blue).
 
-The 'Purpureus Grandiflorus' group produces exceptionally large purple flowers and is the most common form in the horticultural trade. 'Striped Beauty' features bold lavender stripes on a white ground.
+The 'Purpureus Grandiflorus' group produces exceptionally large purple flowers and is [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]] form in the horticultural trade. 'Striped Beauty' features bold lavender stripes on a white ground.
 
 Corms are susceptible to squirrels, mice, and voles, which may dig and consume them. Wire mesh cages or planting beneath established perennials deters browsing.
 

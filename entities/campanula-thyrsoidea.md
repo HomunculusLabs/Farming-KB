@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Campanula thyrsoidea**, commonly called the **thyrsoid bellflower** or **spiked bellflower**, is a striking biennial to short-lived perennial species in the family Campanulaceae. It is native to the mountains of southwestern Europe, primarily the Pyrenees, Cantabrian Mountains, and associated ranges.
+**Campanula thyrsoidea**, commonly called the **thyrsoid bellflower** or **spiked bellflower**, is a striking biennial to short-lived perennial [[oak-species-in-permaculture]] the family Campanulaceae. It is native to the mountains of southwestern Europe, primarily the Pyrenees, Cantabrian Mountains, and associated ranges.
 
 The species is notable for its tall, dense, cylindrical inflorescence bearing numerous closely packed pale yellow to cream-colored flowers. This thyrsoid (spike-like) flowering pattern is unusual in the genus *Campanula* and gives the species its distinctive appearance.
 
@@ -27,7 +27,7 @@ The specific epithet *thyrsoidea* refers to the thyrse-like arrangement of the f
 
 Unlike most *Campanula* species that produce open, loose racemes or panicles of flowers, the dense cylindrical spike of *C. thyrsoidea* is a distinctive and visually striking feature that makes the species instantly recognizable even at a distance.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 **Classification:**
 - **Kingdom:** Plantae
@@ -39,7 +39,7 @@ Plants produce a basal rosette of ovate to lanceolate leaves in their first year
 
 The basal rosette leaves are 5–12 cm long, shallowly toothed, and sparsely hairy. They form a compact, low-growing mat that is relatively inconspicuous until the flower stem emerges.
 
-After flowering and seed set, the individual rosette dies. However, the plant may persist through offsets or lateral rosettes produced before flowering, giving it a short-lived perennial habit in favorable conditions.
+After [[cannabis-pre-flowering-and-sexing]] seed set, the individual rosette dies. However, the plant may persist through offsets or lateral rosettes produced before flowering, giving it a short-lived perennial habit in favorable conditions.
 
 The flowering stem is erect, unbranched, and reaches 40–80 cm tall. It is densely covered with small, upward-pointing stem leaves that graduate into floral bracts near the inflorescence.
 
@@ -51,7 +51,7 @@ Flowering occurs from July through August, with flowers opening sequentially fro
 
 Stamens are inserted near the corolla base. The style is exserted and curved downward. Capsules are ovoid, dehiscing by three small basal pores. Seeds are numerous, small, and light brown.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 Campanula thyrsoidea is native to the **Pyrenees** (France and Spain), the **Cantabrian Mountains** of northern Spain, and possibly isolated populations in the Massif Central of France.
 
@@ -77,6 +77,6 @@ Campanula thyrsoidea is cultivated as an ornamental perennial, valued for its ar
 
 As a biennial or short-lived perennial, the plant will self-seed freely in suitable conditions. Allow some flower heads to set seed to maintain the garden population.
 
-Seed requires a period of cold stratification and germinates best when sown fresh in autumn. Germination rates are typically 60–80% under [[hamilton-rock-garden-design]]. They combine well with other Pyrenean species and alpine plants that share similar drainage requirements.
+Seed requires a period of cold stratification and germinates best when sown fresh in autumn. Germination rates are typically 60–80% under [[hamilton-rock-garden-design]]. They combine well with other Pyrenean [[emcdda-psilocybin-mushroom-species-and-identification]] [[hamilton-alpine-plants-growing]] that share similar drainage requirements.
 
 [[comparison-honey-bees-vs-native-solitary-bees]].

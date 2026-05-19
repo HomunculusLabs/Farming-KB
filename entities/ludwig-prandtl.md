@@ -34,12 +34,12 @@ lateral buckling of beams. From 1901-1904, he worked at **MAN** in
 Nuremberg on fluid machinery and nozzle flow, experience that directly
 motivated his theoretical breakthroughs.
 
-## Boundary Layer Theory (1904)
+## [[boundary-layer-redistribution-fungal-tropism]] Theory (1904)
 
 On **12 September 1904**, at the **Third International Congress of
 Mathematicians** in Heidelberg, Prandtl presented "Uber Flussigkeitsbewegung
 bei sehr kleiner Reibung" ("On Fluid Motion with Very Small Friction") --
-arguably the most important paper in the history of fluid mechanics.
+arguably [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] paper in [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] fluid mechanics.
 
 He introduced the **boundary layer**: a thin region adjacent to a solid
 surface where viscous effects dominate, even when overall flow at high
@@ -57,14 +57,14 @@ world's preeminent aerodynamics center. Developments included one of the
 first purpose-built wind tunnels (1908-1909, the closed-return "Gottingen-
 type" design that became the worldwide standard), systematic airfoil
 performance catalogs (the Gottingen airfoil series), and the fusion of
-theory with careful experiment that became the global model for aerospace
+theory with careful experiment that became [[fungal-decomposition-and-the-global-carbon-cycle]] model for aerospace
 [[research-institutions-environmental-mycology]].
 
 ## Major Contributions
 
 ### Lifting-Line Theory (1918)
 
-Prandtl's "Tragflugeltheorie" was the first successful method for predicting
+Prandtl's "Tragflugeltheorie" was the first successful [[clay-pellet-seed-ball-method-for-desert-revegetation]] predicting
 lift and induced drag of finite wings. By modeling the wing as a bound
 vortex shedding trailing vortices from the wingtips, he derived the
 relationship between lift distribution, aspect ratio, and induced drag,
@@ -79,7 +79,7 @@ layers, pipe flows, and jets. His students **Tollmien** and **Schlichting**
 later discovered the instability waves (Tollmien-Schlichting waves) that
 trigger laminar-to-turbulent transition in boundary layers.
 
-### Thin Airfoil Theory and Compressibility
+### Thin Airfoil [[blesching-cannabis-gateway-theory-and-addiction-debate]] Compressibility
 
 With students **Max Munk** and **Hermann Glauert**, Prandtl developed thin
 

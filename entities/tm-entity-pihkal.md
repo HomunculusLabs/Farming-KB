@@ -7,7 +7,7 @@ tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
 # TM
-[[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home|small]] touch of panic at finding myself dead dispelled any internal
+[[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]] touch of panic at finding myself dead dispelled any internal
 > concerns and I ran inside to find the others; they had brought my
 > pillow in. I was alive again, but the entire day balanced between the
 > alive unreality and the illusion that I was something removed and
@@ -17,7 +17,7 @@ sources: ["Shulgin - PIHKAL"]
 > Like the soup scene. We decided that some hot soup would be welcome,
 > and so R. brought out three cans of Campbell soup for the three of us.
 > But one was cream mushroom, one asparagus, and one tomato. The
-> discussion as to how to use two cans only, which two, without mixing,
+> discussion as to [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]] two cans only, which two, without mixing,
 > and even how to decide to decide was totally beyond any of us. The
 > situation was hopelessly unresolvable, hilariously funny, and
 > distinctly schizophrenic.
@@ -51,13 +51,13 @@ sources: ["Shulgin - PIHKAL"]
 >
 > (with 30 mg) At the one and a half hour point, I was reminded more
 > than anything of LSD, with a distinct feeling of standing just a few
-> feet to the right of ordinary reality. There has been a mild tremor
+> feet to [[query-how-do-i-choose-and-apply-the-right-mulch-for-my-garden]] of ordinary reality. There has been a mild tremor
 > ever since the first effects were evident, but it doesn't bother me
 > except to make my handwriting uncertain. I would not want to double
 > this level. Suddenly the concept of my 5:30's swept over me. I had a
 > penetrating view of myself as a person who had become invested in a
 > pattern of behavior that I had succumbed to, to come home and complete
-> my day with a transition from the work-world to the home-world, by
+> my day with a [[query-how-does-soil-naturally-transition-from-bacterial-to-fungal-dominance]] the work-world to the home-world, by
 > changing the inside clock at 5:30. My wife had been my 5:30 for
 > nearly 30 years and this had been my tacit agreement with her. Never
 > questioned, never challenged, and certainly never violated. And with
@@ -73,8 +73,8 @@ sources: ["Shulgin - PIHKAL"]
 
 ## Practical Applications
 
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
+Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse [[boundary-conditions-and-edge-effect]] resource constraints.
 ## Key Considerations
 
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-Further research may reveal additional applications and ecological relationships.
+Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, [[ingham-compost-tea-application-rates-and-timing]] considerations all influence outcomes significantly.
+Further research may reveal additional [[mycoremediation-applications-and-advanced-fungal-research]] ecological relationships.

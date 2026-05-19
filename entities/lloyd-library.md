@@ -11,20 +11,20 @@ sources:
 ---
 # Lloyd Library and Museum
 
-The Lloyd Library anmycology, located in Cincinnati, Ohio, is one of the world's foremost independent research collections devoted to botany, fungal-kingdom-classification, John Uri Lloyd, and Nelson Ashley Lloyd — it grew from a pharmaceutical company's working library into an irreplaceable repository of scientific literature spanning five centuries. As described by fungal-kingdom-classification's passionate collecting. It includes complete runs of the major mycological journals, rare mycological works from the 18th and 19th centuries, and Curtis Lloyd's personal correspondence with mycologists worldwide. The [[fungi-around-the-world-species-distribution]].
+The Lloyd Library anmycology, located in Cincinnati, Ohio, is one [[hallucinogenic-plants-of-the-world]]'s foremost independent research collections devoted to botany, fungal-kingdom-classification, John Uri Lloyd, and Nelson Ashley Lloyd — it grew from a pharmaceutical company's working library into an irreplaceable repository of scientific literature spanning five centuries. As described by fungal-kingdom-classification's passionate collecting. It includes complete runs of the major mycological journals, rare mycological works from the 18th and 19th centuries, and Curtis Lloyd's personal correspondence with mycologists worldwide. The [[fungi-around-the-world-species-distribution]].
 
 ## Contemporary Significance
 
 The Lloyd Library remains an active research institution in the 21st century. Its collections are particularly valuable for:
 
-- **Historical research** — The rare book and manuscript collections support scholarship in the history of science, medicine, and botany
+- **Historical research** — The rare book and manuscript collections support scholarship in [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] science, medicine, and botany
 - **Taxonomic research** — Mycologists and botanists consult original species descriptions and illustrations that are often unavailable elsewhere
 - **Biodiversity studies** — Historical literature provides baseline data for understanding changes in species distributions and ecosystem composition
 - **Digital humanities** — The library has undertaken digitization projects to make portions of its collections accessible online
 
 ## The Lloyd Brothers' Broader Impact
 
-The Lloyd family's contributions to science extend beyond the library. John Uri Lloyd was a pioneer of pharmaceutical chemistry whose techniques for preparing plant extracts influenced modern pharmacognosy. Nelson Ashley Lloyd managed the business side of the pharmaceutical company. And [[mycology]] — Broader context of the era in which the library was founded
+The Lloyd family's contributions to science extend beyond the library. John Uri Lloyd was a pioneer [[staycare-mycoremediation-of-pharmaceutical-contaminants]] chemistry whose [[plant-propagation-techniques-for-permaculture]] preparing [[bionutrients-fermented-plant-extracts]] influenced modern pharmacognosy. Nelson Ashley Lloyd managed the business side of the pharmaceutical company. And [[mycology]] — Broader context of the era in which the library was founded
 - [[buller-ahr]] — Subject of much of Curtis Lloyd's research housed in the library
 ## Practical Applications
 
@@ -52,7 +52,7 @@ Several important considerations should guide approach and decision-
 making when working with this topic. These include environmental
 factors, resource availability, timing, and the specific goals of the
 implementation. Careful attention to these factors improves outcomes
-and reduces the likelihood of common problems and setbacks.
+and reduces the likelihood of [[query-how-do-i-grow-carrots-successfully-and-troubleshoot-common-problems]] and setbacks.
 
 Environmental conditions play a particularly significant role in
 determining outcomes. Factors such as temperature, moisture, light

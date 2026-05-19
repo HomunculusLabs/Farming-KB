@@ -11,7 +11,7 @@ type: concept
 ## The Problem with Large Groups
 
 One of the most persistent failures in organizational design is the assumption that large
-gatherings produce better decisions. In practice, groups of seven or more people become
+gatherings produce better decisions. [[fukuoka-philosophy-in-practice]], groups of seven or more people become
 impractical and deeply frustrating for everyone involved. Boards, assemblies, and
 consensus-based groups at this scale suffer from chronic inefficiency: meetings stretch
 on for hours, decisions are postponed or watered down, and individual responsibility
@@ -32,7 +32,7 @@ each arising from a different democratic ideal taken to its pathological extreme
 When decisions are made by majority vote, the minority is governed by the preferences
 of the majority. This sounds reasonable in principle, but in practice it means that
 a significant portion of the group is compelled to act against its own judgment. The
-majority may be uninformed, hasty, or driven by social dynamics rather than merit.
+majority may be uninformed, hasty, or driven by social dynamics [[permaculture-integrate-rather-than-segregate]] merit.
 Voting rewards persuasion and coalition-building over competence and produces decisions
 that satisfy no one fully while alienating many.
 
@@ -41,7 +41,7 @@ that satisfy no one fully while alienating many.
 Consensus decision-making appears more inclusive — no action proceeds without universal
 agreement. However, this grants effective veto power to any single dissenter. A single
 individual can block an entire group from acting, regardless of the merits of the
-proposal. The result is either paralysis or a culture of pressure and coercion where
+proposal. The result is either paralysis or a culture of [[bloomfield-turgor-pressure-and-hyphal-invasion]] coercion where
 dissenters are socially punished until they comply. Consensus rewards obstruction and
 produces the least common denominator of every decision.
 
@@ -67,7 +67,7 @@ The roster is published in advance, is fair and transparent, and requires no mee
 to administer. Everyone contributes to maintenance, and no one is burdened
 disproportionately.
 
-## The Troika Approach
+## The [[troika-approach-mollison]]
 
 The core organizational unit in Mollison's framework is the **troika** — a group of
 one to three people assigned to a specific function. This tiny group has full
@@ -96,12 +96,12 @@ scales of human organization:
 | **4–6** | Cooperative work groups; ideal for hands-on collaboration |
 | **7–20** | Social and recreational gatherings; upper limit for informal cohesion |
 | **30–40** | Minimal viable community covering most [[plant-micronutrients-and-their-essential-functions]] |
-| **200–300** | Population needed for genetic variability and resilience |
+| **200–300** | Population needed for genetic [[grass-seed-substrate-water-absorption-variability-and-calibration]] resilience |
 | **300–600** | Upper limit of group identity; beyond this, people become strangers |
 | **1,000–5,000** | Bioregional groups; multiple communities sharing a landscape |
 | **7,000–40,000** | Towns; the upper practical limit for [[village-infrastructure-and-integrated-settlement-design]] |
 
-These numbers reflect the scale at which human social cognition and organizational
+These numbers reflect the scale at which human social [[mckenna-human-cognition-and-the-stoned-age]] organizational
 capacity naturally function. Exceeding them requires bureaucracy, hierarchy, and
 formal systems that undermine the direct, personal accountability that makes small
 groups effective.

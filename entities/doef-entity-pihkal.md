@@ -14,16 +14,16 @@ sources: ["Shulgin - PIHKAL"]
 
 2,5-DIMETHOXY-4-(2-FLUOROETHYL)-
 
-## Dosage and Duration
+## [[psilocybin-dosage-and-pharmacology]] Duration
 
 | Property | Value |
 |----------|-------|
 | Dosage | 2 - 3.5 mg. |
 | Duration | 12 - 16 h. |
 
-## Qualitative Comments
+## [[qualitative-comments-methodology-pihkal]]
 
-> (with 2.2 mg) Somewhere between the first and
+> (with 2.2 mg) Somewhere between [[ego-loss-and-the-first-bardo-clear-light]] and
 > second hour, I grew into a world that was slightly unworldly. Why?
 > That is hard to say, as there was no appreciable visual component. I
 > just knew that the place I was in was not completely familiar, and it
@@ -51,8 +51,8 @@ sources: ["Shulgin - PIHKAL"]
 > comfortable. Good eyes closed, with complex imagery to music, but not
 > too much with eyes-open. My attention span is relatively short, and
 > easily diverted into new directions -- all quite reminiscent of DOI
-> both as to dosage and effect. At 13 hours, I am still too alert to
-> sleep, but a couple of hours later, OK. In the morning there is still
+> both as to dosage [[fukuoka-nature-no-cause-and-effect]]. At 13 hours, I am still too alert to
+> sleep, but a couple of hours later, OK. In [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] there is still
 > a trace of something going on. This was a valid +++.
 >
 
@@ -66,7 +66,7 @@ This argument of reason goes as follows. Assume that I would like to put a fluor
 
 But, if you put a fluorine atom on a drug, it becomes a totally new drug and, quite reasonably, a pharmacologically different drug. However, a body of evidence is being accumulated that if a halogen, such as a bromine or an iodine atom, is replaced by a beta-fluoroethyl group, the electronic and polar properties of the drug can be pretty much the same. So, what psychedelics have a bromo or an iodo group? Obviously, DOB and DOI. Thus, DOEF is a natural candidate for fluorine-18 positron emission tomography, and also a natural candidate for [[scythian-cannabis-steam-bath-ritual]], returned to room temperature, and the volatiles removed under vacuum. The residue was dissolved in 3% H2SO4, washed twice with CH2Cl2, brought to pH 12 with 25% NaOH, and extracted with 3x50 mL CH2Cl2. The pooled extracts were combined, dried with anhydrous Na2SO4, and the solvent removed under vacuum to give 0.24 g of 2,5-dimethoxy-4-(2-hydroxyethyl)amphetamine (DOEH) as a white solid with a mp of 102-104 deg C.
 
-To a suspension of 0.94 g DOEH in ice-cold anhydrous Et2O containing 1.4 g triethylamine, there was added 2.4 g trifluoroacetic anhydride dropwise over the course of 10 min. The reaction mixture was brought to reflux temperature, and held there with stirring for 1 h. After cooling, 60 mL of CH2Cl2 was added, and the organic phase washed with saturated NaHCO3. The solvent was removed under vacuum, providing a gold-colored solid as a residue. This was dissolved in 50 mL MeOH, diluted with 30 mL H2O and, following the addition of 0.76 g solid NaHCO3 the reaction mixture was stirred at room temperature for 3 h. The excess MeOH was removed under vacuum, and the remaining solids were suspended in CH2Cl2 and washed with H2O. After drying the organic phase with anhydrous Na2SO4 and removal of the solvent under vacuum, there was obtained 1.34 g 1-(2,5-dimethoxy-4-(2-hydroxy...
+To a suspension of 0.94 g DOEH in ice-cold anhydrous Et2O containing 1.4 g triethylamine, there was added 2.4 g trifluoroacetic anhydride dropwise over the course of 10 min. The reaction mixture was brought to reflux temperature, and held there with stirring for 1 h. After cooling, 60 mL of CH2Cl2 was added, and [[geoff-hamilton-the-organic-gardening-companion]] phase washed with saturated NaHCO3. The solvent was removed under vacuum, providing a gold-colored solid as a residue. This was dissolved in 50 mL MeOH, diluted with 30 mL H2O and, following the addition of 0.76 g solid NaHCO3 the reaction mixture was stirred at room temperature for 3 h. The excess MeOH was removed under vacuum, and the remaining solids were suspended in CH2Cl2 and washed with H2O. After drying the organic phase with anhydrous Na2SO4 and removal of the solvent under vacuum, there was obtained 1.34 g 1-(2,5-dimethoxy-4-(2-hydroxy...
 
 (Additional synthesis details available in source.)
 

@@ -14,9 +14,9 @@ sources:
   - Bean, W.J. (1973). [[nitrogen-fixing-trees-and-shrubs]] Hardy in the British Isles, 8th ed. John Murray.
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants, 6th ed. Stipes Publishing.
   - Royal Horticultural Society (2024). "Weigela." https://www.rhs.org.uk/
-  - Krüssmann, G. (1984). Manual of Cultivated Broad-Leaved [[neurotropic-fungi-japan-east-asia-species-cultural-context]], belonging to
+  - Krüssmann, G. (1984). Manual [[classification-of-cultivated-mushroom-species]] Broad-Leaved [[neurotropic-fungi-japan-east-asia-species-cultural-context]], belonging to
 the honeysuckle family. It is one of the most widely planted ornamental shrubs
-in temperate gardens worldwide.
+[[query-how-to-grow-and-use-oca-in-temperate-climates]] gardens worldwide.
 
 The species is renowned for its prolific tubular flowers, which range in color
 from soft pink to deep crimson depending on the cultivar. Blooming occurs in
@@ -26,7 +26,7 @@ Weigela was named in honor of Christian Ehrenfried Weigel, a German botanist
 and chemist. The species epithet "florida" refers to its showy, abundant
 flowers.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 Weigela florida was described by Prince Maximilian zu Wied-Neuwied in 1844 and
 placed in the family Caprifoliaceae. The genus contains approximately 12 species
@@ -43,21 +43,21 @@ Flowers are borne in short cymose clusters along the previous year's growth.
 Each flower is tubular-funnel-shaped, approximately 2.5 to 3.5 centimeters
 long, with five rounded lobes.
 
-The natural species has pink flowers, but modern cultivars exhibit a wide
+[[weil-the-natural-mind-altered-states-normalcy]] species has pink flowers, but modern cultivars exhibit a wide
 color range including red, white, yellow, and bicolored forms. Bloom period
 typically lasts 2 to 3 weeks in late spring.
 
 The fruit is a dry, pointed, two-valved capsule approximately 1.5 to 2
 centimeters long, containing numerous small winged seeds.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
-Weigela florida is native to northern China, Korea, and Japan. In the wild it
+Weigela florida is native to northern China, Korea, and Japan. [[query-how-to-identify-psilocybe-cubensis-in-the-wild]] it
 occurs on mountain slopes, in forest margins, and along stream banks at
 elevations of 100 to 1,500 meters.
 
 The species prefers well-drained loamy soils in full sun to partial shade. It
-is adaptable to a range of soil pH levels but performs best in slightly acidic
+is adaptable to a range of [[soil-ph]] levels but performs best in slightly acidic
 to neutral conditions.
 
 Weigela florida is hardy to USDA Zone 4, withstanding winter temperatures to

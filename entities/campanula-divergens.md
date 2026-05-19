@@ -30,7 +30,7 @@ The species flowers from June through August, producing erect stems bearing loos
 
 Campanula divergens was featured in the botanical illustrations of János Turolla, who documented the flora of the Balkan Peninsula in the early 20th century. His detailed watercolors remain an important reference for southeastern European Campanula taxonomy.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 Campanula divergens was described by Wilhelm Daniel Joseph Koch in 1835. The specific epithet refers to the widely diverging calyx lobes that distinguish this species from its close relatives.
 
@@ -48,17 +48,17 @@ The capsule is cylindrical-oblong and dehisces by five small apical pores. Seeds
 
 The five-pored capsule distinguishes section Quinqueloculares from the majority of Campanula species, which have three-pored capsules. This character is taxonomically significant and easily observed in the field.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 Campanula divergens is distributed from Croatia and Bosnia-Herzegovina southward through Montenegro, Albania, North Macedonia, and mainland Greece. It also occurs on several Aegean islands and in scattered localities in western Anatolia, Turkey.
 
 The species is primarily montane, occurring from 500 to 2,200 m elevation in the southern part of its range. In the northern Balkans, it is found at lower elevations in karst limestone terrain.
 
-It occupies rocky crevices, scree slopes, limestone pavements, and open montane woodlands. The species shows a strong preference for calcareous substrates and is rarely found on siliceous rocks.
+It occupies rocky crevices, scree slopes, limestone pavements, and open montane woodlands. The species shows a strong preference for calcareous [[agaricus-substrates-and-marketing]] is rarely found on siliceous rocks.
 
-Campanula divergens is classified as a chasmophyte, meaning it specializes in growing within rock fissures. This habitat preference offers protection from competition by larger, more aggressive plant species.
+Campanula divergens is classified as a chasmophyte, meaning it specializes in growing within rock fissures. This habitat preference offers protection from competition by larger, more aggressive [[permaculture-plant-species-botanical-index-a-m]].
 
-In Greek mountain communities, it grows alongside Campanula spatulata, Achillea ambrosiaca, and Sesleria albicans in high-elevation limestone grasslands. These communities are rich in endemic species and are conservation priorities.
+In Greek mountain communities, it grows alongside Campanula spatulata, Achillea ambrosiaca, and Sesleria albicans in high-elevation limestone grasslands. These communities are rich in [[neurotropic-fungi-endemic-species-and-restricted-ranges-guzman-1998]] are conservation priorities.
 
 Populations are generally small and localized, with the species rarely forming large stands. It is classified as Near Threatened in several range states due to habitat fragmentation and limited population sizes.
 
@@ -82,6 +82,6 @@ The pendant flowers are adapted for bee pollination, with the corolla tube provi
 
 Flowering coincides with peak pollinator activity in montane Mediterranean habitats during mid-summer. The species provides nectar and pollen resources during a period when few other plants are in bloom at higher elevations.
 
-The deep root system helps stabilize loose limestone scree and contributes to soil development in early successional communities. As a long-lived perennial, individual plants can persist for decades in stable rock crevice habitats.
+The deep root system helps stabilize loose limestone scree and contributes to soil [[village-development-in-permaculture]] early successional communities. As a long-lived perennial, individual plants can persist for decades in stable rock crevice habitats.
 
 [[clay-pellet-seed-dispersal]] is primarily by gravity and wind, with seeds falling from the pendant capsules onto the rock surfaces below. Limited secondary dispersal by rain wash has been observed on sloping terrain.

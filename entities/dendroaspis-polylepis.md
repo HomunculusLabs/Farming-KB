@@ -22,13 +22,13 @@ sources:
 
 ## Overview
 
-Dendroaspis polylepis, commonly known as the black mamba, is the longest venomous snake in Africa and one of the fastest-moving snakes in the world. It is widely regarded as the most dangerous snake on the African continent due to the combination of its highly toxic neurotoxic venom, large venom yield, aggressive defensive temperament, and speed.
+Dendroaspis polylepis, commonly known as the black mamba, is the longest venomous snake in Africa and one of the fastest-moving snakes in [[fungi-around-the-world-species-distribution]]. It is widely regarded as the most dangerous snake on the African continent due to the combination of its highly toxic neurotoxic venom, large venom yield, aggressive defensive temperament, and speed.
 
-The species is native to sub-Saharan Africa, ranging from northeastern [[table-mountain-south-africa-mollison]] through eastern Africa to southern Somalia and Ethiopia. It is a diurnal, predominantly terrestrial snake that inhabits a variety of savanna and woodland habitats.
+The species is [[hallucinogenic-plants-native-to-united-states]] sub-Saharan Africa, ranging from northeastern [[table-mountain-south-africa-mollison]] through eastern Africa to southern Somalia and Ethiopia. It is a diurnal, predominantly terrestrial snake that inhabits a variety of savanna and woodland habitats.
 
 Despite its fearsome reputation, the black mamba typically avoids human confrontation and will flee when possible. Most bites occur when the snake is cornered, surprised, or deliberately provoked. Without antivenom treatment, mortality from black mamba envenomation approaches 100 percent.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 Dendroaspis polylepis belongs to the family Elapidae. It was first described by Albert Günther in 1864. The genus name Dendroaspis is derived from Greek words meaning tree and asp, though the species is primarily terrestrial.
 
@@ -42,7 +42,7 @@ The head is coffin-shaped and distinct from the neck. The eyes are medium-sized 
 
 The tail is long and thin, comprising approximately 17 to 25 percent of total body length. The species can raise up to one-third of its body off the ground when threatened, a behavior that enhances its already imposing appearance.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 Dendroaspis polylepis is distributed across eastern and southern sub-Saharan Africa. Its range extends from northeastern South Africa through Mozambique, Zimbabwe, Zambia, Malawi, Tanzania, Kenya, and Uganda to southern Somalia and Ethiopia.
 
@@ -54,7 +54,7 @@ Black mambas show a strong preference for areas with some tree cover, though the
 
 Activity is strictly diurnal. The species is most active during the warmer hours of the day, particularly in the early morning and late afternoon. During the hottest midday hours, black mambas typically retreat to shelter.
 
-Home range sizes vary with habitat productivity, with estimates ranging from 2 to 15 hectares. Individuals may use multiple retreat sites within their range, moving between them based on prey availability and thermal conditions.
+Home range sizes vary with habitat productivity, with estimates ranging from 2 to 15 hectares. Individuals may use multiple retreat sites within their range, moving between them based on prey availability [[albedo-heat-transfer-and-thermal-belts]] conditions.
 
 ## Venom Composition
 
@@ -66,7 +66,7 @@ Dendrotoxins facilitate excessive acetylcholine release at presynaptic nerve ter
 
 Three-finger toxins in black mamba venom include both alpha-neurotoxins that block postsynaptic nicotinic acetylcholine receptors and fasciculins that inhibit acetylcholinesterase. The combined pre- and postsynaptic action produces rapid and profound paralysis.
 
-Calciseptine, a specific toxin isolated from Dendroaspis polylepis venom, blocks L-type calcium channels in cardiac and smooth muscle. This may contribute to the cardiac arrhythmias and hypotension observed in severe envenomation.
+Calciseptine, a specific toxin isolated from Dendroaspis polylepis venom, blocks L-type calcium channels in cardiac and smooth muscle. This may [[query-how-do-fungi-contribute-to-carbon-sequestration]] the cardiac arrhythmias and hypotension observed in severe envenomation.
 
 The average venom yield per bite is 50 to 120 mg, with maximum yields exceeding 400 mg. A dose of 10 to 15 mg is sufficient to kill a human adult, meaning a single bite delivers many times the lethal dose.
 

@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Moore, M. (1993). \"Medicinal Plants of the Mountain West.\" Museum of New Mexico Press."
+  - "Moore, M. (1993). \"Medicinal [[hallucinogenic-plants-of-the-world]] Mountain West.\" Museum of New Mexico Press."
   - "Dunmire, S.W. & Tierney, G.D. (1997). \"Wild Plants of the Pueblo Province.\" Museum of New Mexico Press."
   - "Kindscher, K. (1992). \"Medicinal Wild Plants of the Prairie.\" University Press of Kansas."
   - "McCutcheon, A.R. et al. (1995). \"Antibacterial and antifungal activity of medicinal plants.\" Journal of Ethnopharmacology, 49(2), 101-110."
@@ -33,7 +33,7 @@ Its intensely aromatic root, blending notes of celery, licorice, and
 pine, contains volatile oils and coumarins that underlie its broad
 pharmacological activity.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 - **Order:** Apiales | **Family:** Apiaceae | **Genus:** *Ligusticum*
 - **Species:** *L. porteri* J.M.Coult. & Rose
@@ -51,7 +51,7 @@ splitting into two mericarps at maturity.
 The dark brown root with cream-white interior is the primary
 medicinal part, reaching harvestable size at 3–5 years.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 Native to the Rocky Mountain corridor from southern Montana and Wyoming
 through Colorado, New Mexico, Arizona into northern Mexico (Chihuahua,
@@ -67,13 +67,13 @@ associated with *[[cannabis-root-medicine-historical-modern-perspectives]] uses
 
 Successful implementation of Ligusticum porteri requires attention to
 several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
+resource availability, and timing. Careful [[bioremediation-monitoring-and-assessment]]
 adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
+conditions. Integration with other [[integrated-house-garden-system-elements]] enhances
 overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
-## Future Directions
+## [[cannabis-microbiome-agricultural-implications-and-future-directions]]
 
 Continued development in this area promises new insights and
 improved approaches for both research and practical application.

@@ -14,7 +14,7 @@ sources:
   - Saint Girons, H. (1978). "Morphologie comparee des structures oro-nasales des viperidae." Memoires du Museum National d'Histoire Naturelle, Paris.
   - Phelps, T. (2002). Poisonous Snakes. TFH Publications.
   - Minton, S.A. & Minton, M.R. (1969). Venomous Reptiles. George Braziller.
-  - Thorpe, R.S. et al. (1996). "The relationship between phylogeny and biogeography of the viperine snakes." Molecular Ecology, 5, 131-141.
+  - Thorpe, R.S. et al. (1996). "The relationship between phylogeny [[fungal-endemism-and-biogeography]] of the viperine snakes." Molecular Ecology, 5, 131-141.
   - The Reptile Database. "Vipera berus (Linnaeus, 1758)." https://reptile-database.reptarium.cz/species?genus=Vipera&species=berus
 ---
 
@@ -28,7 +28,7 @@ The adder is a relatively small and unaggressive species that rarely poses a ser
 
 Despite its modest medical significance, Vipera berus is ecologically important as a mesopredator in temperate ecosystems. It has been the subject of extensive research in [[query-best-kiwifruit-varieties-for-cold-climates]].
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 Vipera berus belongs to the family Viperidae, subfamily Viperinae. It was first described by Carl Linnaeus in 1758 as Coluber berus. The specific epithet berus is of uncertain etymology, possibly derived from an older vernacular name.
 
@@ -42,9 +42,9 @@ The head is distinct from the neck, triangular in shape, and covered with small 
 
 The body is stout with keeled dorsal scales arranged in 21 to 23 rows at midbody. The ventral scales number 130 to 160 in males and 132 to 164 in females. The subcaudal scales are paired in males and single in females.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
-Vipera berus has the most extensive distribution of any snake species in the world. Its range spans from western Europe (Portugal, Spain, France, United Kingdom) eastward across Scandinavia, central Europe, and Russia to Sakhalin Island and the Korean peninsula.
+Vipera berus has the most extensive [[distribution-of-neurotropic-fungi]] any snake species in the world. Its range spans from western Europe (Portugal, Spain, France, United Kingdom) eastward across Scandinavia, central Europe, and Russia to Sakhalin Island and the Korean peninsula.
 
 The species also occurs in northern Italy, the Balkans, Turkey, and northern Mongolia. It is absent from Ireland, Mediterranean islands, and most of southeastern Europe. Isolated populations exist at high elevations in the Alps and Carpathians.
 
@@ -84,9 +84,9 @@ Antivenom therapy is available in many European countries, with Zagreb antivenom
 
 In the United Kingdom, the National Health Service maintains standardized protocols for adder bite management. Supportive care including analgesia, elevation of the affected limb, and monitoring for systemic progression is the mainstay of treatment for most cases.
 
-Pediatric patients may experience more severe reactions relative to body size. Pregnant women bitten by Vipera berus have been reported to experience fetal distress and spontaneous abortion, though successful pregnancies following envenomation have also been documented.
+Pediatric patients may experience more severe reactions relative to body size. Pregnant women bitten by Vipera berus have been reported to experience fetal distress [[wild-fermentation-and-spontaneous-cultures]] abortion, though successful pregnancies following envenomation have also been documented.
 
-## Ecology and Conservation
+## Ecology [[endangered-fungi-and-conservation-strategies]]
 
 ## See Also
 - [[european-truffles-species-habitat-and-distribution]]

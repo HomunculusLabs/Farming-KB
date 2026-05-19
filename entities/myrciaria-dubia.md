@@ -9,8 +9,8 @@ tags:
   - dighton-fungal-nutritional-composition-animal-diets and Vitamin C
     Stability of Camu-Camu." Archives of Latinoamerican Nutrition 50(4): 405-408.
   - Langguth, H.F. et al. (2015). "Camu-Camu (Myrciaria dubia)." Fruits 70(4).
-  - Akter, M.S. et al. (2011). "Camu-Camu: Composition and Health Benefits."
-    Journal of Food Composition and Analysis 24(4): 564-569.
+  - Akter, M.S. et al. (2011). "Camu-Camu: Composition [[medicinal-mushroom-compounds-and-health-benefits]]."
+    Journal of Food Composition [[compost-quality-standards-and-analysis]] 24(4): 564-569.
 ---
 
 # Myrciaria dubia
@@ -18,7 +18,7 @@ tags:
 ## Overview
 
 **Myrciaria dubia**, known as **camu camu**, is a small shrub or tree in
-the family Myrtaceae, native to the Amazon basin. It produces berry-like
+the family Myrtaceae, native to [[yakuruna-water-spirits-of-the-amazon]] basin. It produces berry-like
 fruits with the highest recorded natural vitamin C content of any plant,
 reaching 2,000–3,000 mg per 100 g of fresh fruit — approximately 30–60
 times the concentration in oranges.
@@ -30,7 +30,7 @@ Camu camu has gained international attention as a "superfruit" and is
 increasingly cultivated for the nutraceutical, beverage, and cosmetic
 industries.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 - **Kingdom:** Plantae → **Division:** Angiosperms → **Class:** Eudicots
 - **Order:** Myrtales → **Family:** Myrtaceae → **Subfamily:** Myrtoideae
@@ -56,7 +56,7 @@ pink, highly acidic. Contains 1–4 seeds per fruit.
 
 **Root system:** Shallow and fibrous, adapted to periodic flooding.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 *M. dubia* is native to the western Amazon basin, found along river
 margins, lakes, and streams in periodically flooded igapó and várzea
@@ -66,7 +66,7 @@ Its distribution extends from the Putumayo and Napo rivers in Peru and
 Ecuador through the Solimões and Amazon rivers in Brazil to the Orinoco
 basin in Colombia and Venezuela.
 
-The plant is adapted to flooded conditions and can survive partial
+The plant is adapted to flooded [[boundary-conditions-and-edge-effect]] can survive partial
 submersion for weeks during the annual flood cycle. Optimal growth
 occurs in full sun with consistently moist or waterlogged soils.
 

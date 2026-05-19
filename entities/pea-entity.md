@@ -33,7 +33,7 @@ The free base is a colorless liquid with a boiling point of 197-198 degrees Cels
 
 PEA occurs naturally in the human brain at low concentrations.
 
-It is produced from the [[mda]]|MDA: a substituted phenethylamine with significant activity
+It is [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]] the [[mda]]|MDA: a substituted phenethylamine with significant activity
 - [[alexander-shulgin]]
 ## Practical Considerations
 
@@ -56,10 +56,10 @@ knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
 
-## Common Challenges and Solutions
+## Common [[cannabis-sativa-indoor-challenges-and-solutions]]
 
 Several recurring challenges tend to arise in work related to this
-topic. These include variability in environmental conditions, the
+topic. These include variability [[fungal-enzymes-in-environmental-bioremediation]] conditions, the
 complexity of multi-variable interactions, and the difficulty of
 predicting outcomes with certainty in dynamic systems. Anticipating
 these challenges enables more proactive and effective management.
@@ -67,15 +67,15 @@ these challenges enables more proactive and effective management.
 Building resilience into implementations through diversity, redundancy,
 and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
-inherent in working with natural systems and plans accordingly rather
+inherent in working with [[laws-and-principles-of-natural-systems]] and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
+complexity of day-to-day management [[williams-pdc-inventories-and-observation]] activities.
 
-## Future Directions
+## [[cannabis-microbiome-agricultural-implications-and-future-directions]]
 
 Ongoing developments in research and practice continue to expand our

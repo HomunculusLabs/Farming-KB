@@ -9,9 +9,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Jagtap, U.B. & Bapat, V.A. (2010). "Artocarpus heterophyllus Lam.: a review of its phytochemistry and pharmacology." Current Pharmaceutical Biotechnology, 11(6), 595-610.
+  - Jagtap, U.B. & Bapat, V.A. (2010). "Artocarpus heterophyllus Lam.: a review of its phytochemistry [[allegro-amanita-muscaria-properties-and-pharmacology]]." Current Pharmaceutical Biotechnology, 11(6), 595-610.
   - Haq, N. (2006). "Jackfruit: Artocarpus heterophyllus." International Centre for Underutilised Crops, Southampton, UK.
-  - Rahman, M.A. et al. (1999). "Jackfruit cultivation in Bangladesh." In: Fruits of Warm Climates. Julia F. Morton, Miami.
+  - Rahman, M.A. et al. (1999). "Jackfruit [[mushroom-cultivation-in-kenya]] Bangladesh." In: Fruits of Warm Climates. Julia F. Morton, Miami.
   - Soejarto, D.D. (1969). "Artocarpus heterophyllus: the jackfruit." Economic Botany, 23(4), 325-340.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:630757-1
 created: 2026-04-28
@@ -27,7 +27,7 @@ Native to South and [[fukuoka-natural-farming-in-tropical-regions]] worldwide.
 
 Every part of the tree has economic value: fruit, seeds, timber, latex, and leaves all serve distinct purposes.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 **Classification:**
 
@@ -59,7 +59,7 @@ Each fruit contains 100-500 individual fleshy perianths (the edible "bulbs") sur
 
 Seeds are ellipsoid, 2-3 cm long, brown, and contain 10-15% protein with a chestnut-like flavor when cooked.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 Native to the Western Ghats of India and possibly the rainforests of Malaysia and Indonesia.
 
@@ -67,7 +67,7 @@ Now widely cultivated throughout tropical Asia, Africa, the Caribbean, and Centr
 
 It is moderately drought-tolerant once established but is sensitive to waterlogging and frost.
 
-Jackfruit is increasingly planted in tropical agroforestry systems across Africa and Latin America.
+Jackfruit is increasingly planted [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] agroforestry systems across Africa and Latin America.
 
 ## Nutritional Value
 
@@ -75,7 +75,7 @@ Jackfruit bulbs are low in calories (approximately 95 kcal per 100 g fresh weigh
 
 The fruit provides significant vitamin C (13.7 mg/100 g), vitamin A, and B-complex vitamins.
 
-Potassium content is notably high (448 mg/100 g), supporting cardiovascular health.
+Potassium content is notably high (448 mg/100 g), supporting [[blesching-cannabis-cardiovascular-health]].
 
 The bulbs contain phytonutrients including carotenoids (beta-carotene, lutein), flavonoids, and isoflavones.
 

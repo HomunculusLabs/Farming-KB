@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Levin, G.M. (2006). "Pomegranate Roads: A Soviet Botanist's Exile from Eden." Floreant Press.
-  - Jurenka, J. (2008). "[[cannabis-root-rot-prevention-and-treatment]] of Inflammation and Cancer." Journal of Ethnopharmacology 109(2): 177-206.
+  - Jurenka, J. (2008). "[[cannabis-root-rot-prevention-and-treatment]] of Inflammation [[blesching-cannabis-apoptosis-and-cancer-cell-death]]." Journal of Ethnopharmacology 109(2): 177-206.
 ---
 
 ## Overview
@@ -30,7 +30,7 @@ Pomegranate fruit, juice, peel, and seeds are rich in polyphenols,
 particularly punicalagins and anthocyanins, which have been extensively
 studied for antioxidant, anti-inflammatory, and cardioprotective effects.
 
-## Taxonomy and Morphology
+## Taxonomy [[trichome-development-and-morphology]]
 
 **Taxonomy:** Lythraceae, subfamily Punicoideae, genus *Punica*.
 
@@ -53,7 +53,7 @@ The fruit is a large berry (balausta), 5-12 cm diameter, with a thick,
 leathery, reddish-yellow pericarp. Interior chambers (locules) contain
 200-1400 arils, fleshy juice-filled sacs surrounding individual seeds.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 *Punica granatum* originated in the region from Iran to the Himalayas of
 northern India. Wild populations persist in Turkmenistan, Afghanistan, and
@@ -70,12 +70,12 @@ It thrives in semi-arid Mediterranean [[cervantes-root-rot-pythium-damping-off]]
 
 Commercial pomegranate orchards are typically planted at 3-6 m spacing
 within rows 5-7 m apart, yielding 150-400 trees per hectare. Trees begin
-bearing 2-3 years after planting and reach full production by years 5-7.
+bearing 2-3 years after [[companion-planting-and-polycultures]] reach full [[auxin-production-by-symbiotic-fungi]] years 5-7.
 
 Major commercial cultivars include 'Wonderful' (California standard),
 'Bhagwa' (India), 'Hicaznar' (Turkey), and 'Mollar de Elche' (Spain).
 Cultivar selection depends on aril color, juice content, seed softness,
-and market preference.
+[[emcdda-european-mushroom-varieties-and-market-products]] preference.
 
 Propagation is primarily by hardwood cuttings, which maintain true-to-type
 characteristics. Softwood cuttings under mist and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] are used

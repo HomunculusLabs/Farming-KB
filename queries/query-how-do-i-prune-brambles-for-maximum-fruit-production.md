@@ -1,5 +1,5 @@
 ---
-title: Query How Do I Prune Brambles For Maximum [[berry-fruit-production-cool-humid-climates]]
+title: [[query-how-do-i-adjust-soil-ph-naturally]] Prune Brambles For Maximum [[berry-fruit-production-cool-humid-climates]]
 created: 2026-05-06
 tags:
 type: query
@@ -33,7 +33,7 @@ Pruning is the single most impactful practice for maximizing bramble yield and f
 
 ### Option B — Double Crop (Summer + Fall)
 
-For those who want maximum production from primocane-fruiting varieties:
+For those who want maximum [[on-farm-alcohol-fuel-production-from-cellulose]] primocane-fruiting varieties:
 
 1. **Late winter:** Instead of mowing everything, only remove the upper portions of last year's canes (the sections that fruited in fall). The lower portions of these canes will produce a small summer crop.
 2. **After summer harvest:** Cut these spent floricanes to the ground.
@@ -59,19 +59,19 @@ This is a separate, mid-season operation that significantly boosts yield on flor
 
 **Do NOT tip-prune red raspberries.** They fruit along the entire length of the cane, not on laterals.
 
-## Step 5 — Sanitation and [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
+## Step 5 — [[ecological-sanitation-and-waste-recycling-systems]] [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
 - [[query-best-chestnut-varieties-for-different-climates-and-uses]]
 ## Practical Considerations
 
 Successful implementation of How Do I Prune Brambles for Maximum Fruit Production requires attention to
 several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
+resource availability, and timing. Careful [[bioremediation-monitoring-and-assessment]]
 adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
+conditions. Integration with other [[integrated-house-garden-system-elements]] enhances
 overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
-## Future Directions
+## [[cannabis-microbiome-agricultural-implications-and-future-directions]]
 
 Continued development in this area promises new insights and
 improved approaches for both research and practical application.
