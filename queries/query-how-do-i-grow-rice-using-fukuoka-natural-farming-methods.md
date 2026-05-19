@@ -3,7 +3,8 @@ title: "How Do I Grow Rice Using Fukuoka Natural Farming Methods?"
 tags: [query, rice, fukuoka, natural-farming, paddy]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 ---
 
 # How Do I Grow Rice Using Fukuoka Natural Farming Methods?

@@ -16,9 +16,9 @@ sources:
 
 # Mycotoxins and Fungal Toxins — Food, Agriculture, and Health
 
-Mycotoxins are toxic secondary metabolites produced by filamentous fungi
+Mycotoxins are toxic [[antifungal-secondary-metabolites-coprophilous-fungi]] produced [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
 that contaminate food crops, animal feed, indoor environments, and
-stored agricultural products worldwide. Unlike mushroom poisons, which
+stored agricultural [[regulatory-frameworks-for-medicinal-mushroom-products-worldwide]]. Unlike mushroom poisons, which
 come from differentiated fruiting bodies, mycotoxins are synthesized
 by the mycelium during growth on organic substrates.
 
@@ -30,11 +30,11 @@ where regulatory oversight is limited.
 
 This article surveys the major mycotoxin classes, the fungi that
 produce them, their health effects, ecological roles, detection
-methods, and strategies for prevention and management.
+methods, and strategies for [[cannabis-hermaphrodite-prevention-and-management]].
 
 ## Aflatoxins — The Most Potent Natural Carcinogens
 
-[[aflatoxins-mycotoxins-food|Aflatoxins]] are produced by *Aspergillus flavus* and *Aspergillus
+[[aflatoxins-mycotoxins-food]] are produced by *[[aspergillus-flavus]]* and *Aspergillus
 parasiticus*, two conidial fungi found virtually everywhere on Earth.
 Opening a Petri dish outdoors for a few seconds will likely capture
 their airborne spores.
@@ -102,7 +102,7 @@ either factor alone.
 ## Trichothecenes — Rapid-Acting Toxins and Biological Warfare
 
 Trichothecenes are produced primarily by *[[stachybotrys-chartarum]]*
-(black mold) and various [[fusarium-verticillioides|Fusarium]] species. Unlike aflatoxins,
+(black mold) and various [[fusarium-verticillioides]] species. Unlike aflatoxins,
 which take months or years to cause damage, trichothecenes act
 immediately upon contact with tissue.
 
@@ -127,7 +127,7 @@ in Laos, Cambodia, and Afghanistan during the 1970s and 1980s.
 
 *Stachybotrys chartarum* rose to public notoriety following the
 Cleveland infant deaths. Media coverage proclaimed it a
-"toxin-producing killer," and homeowners across North America
+"toxin-producing killer," and homeowners across [[guzman-psilocybin-mushrooms-north-america]]
 became alarmed by black mold patches on walls and ceilings.
 
 The reality is more nuanced. Not all strains of *Stachybotrys

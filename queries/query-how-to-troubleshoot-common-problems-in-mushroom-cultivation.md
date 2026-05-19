@@ -48,7 +48,7 @@ Maintain proper storage conditions for spawn. Most mushroom spawn should be stor
 
 Abnormal mushroom development can result from various environmental factors. Common fruiting body problems include elongated stems, small caps, uneven growth, and aborted mushrooms. These issues often indicate improper environmental conditions.
 
-Temperature fluctuations during the fruiting stage cause畸形 mushrooms. Maintain consistent temperatures appropriate for your mushroom species. The [[mushroom-contamination-control]] guide offers detailed recovery protocols.
+Temperature fluctuations during the fruiting stage cause deformed mushrooms. Maintain consistent temperatures appropriate for your mushroom species. The [[mushroom-contamination-control]] guide offers detailed recovery protocols.
 
 For severe contamination, it's often best to discard the affected material to prevent spread. Proper disposal involves sealing contaminated materials in bags and sterilizing them before disposal. Never compost contaminated mushroom substrate as it can spread pathogens.
 
