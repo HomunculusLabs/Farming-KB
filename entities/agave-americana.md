@@ -9,7 +9,7 @@ tags:
   - succulent
   - desert-plant
   - xeriscaping
-  - permaculture
+  - [[permaculture]]
   - ethnobotany
   - fiber-crop
   - mescal
@@ -31,10 +31,10 @@ sources:
 ## Overview
 
 **Agave americana** (American agave, century plant) is a large succulent perennial
-in the family Asparagaceae, native to Mexico and the southern [[cannabis-vegetative-growth-stage]].
+in the family Asparagaceae, native to Mexico and the southern cannabis vegetative growth stage.
 
 The species is one of the most widely cultivated agaves globally, valued for
-its dramatic architectural form, [[shroom-mesoamerican-civilization]] as the
+its dramatic architectural form, shroom mesoamerican civilization as the
 source of pulque (fermented agave nectar), fiber (ixtle), food, and building
 materials, a cultural legacy that persists in contemporary Mexico.
 
@@ -59,7 +59,7 @@ offsets (pups) typically survive.
 
 ## Distribution and Habitat
 
-Native to eastern and [[guzman-psilocybin-mushrooms-south-america]].
+Native to eastern and guzman psilocybin mushrooms south america.
 
 It inhabits arid and semi-arid environments including rocky hillsides, desert
 grasslands, thorn scrub, and disturbed sites. Tolerance ranges from near-sea

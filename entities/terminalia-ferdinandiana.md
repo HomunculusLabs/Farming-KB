@@ -7,7 +7,7 @@ tags:
   - superfruit
   - vitamin-c
   - bushfood
-  - permaculture
+  - [[permaculture]]
   - medicinal-plant
 date: 2026-04-28
 updated: 2026-04-28
@@ -49,7 +49,7 @@ The species occupies a variety of well-drained habitats including sandstone esca
 
 ## Nutritional Profile
 
-The Kakadu plum's most celebrated attribute is its extraordinary **ascorbic acid (vitamin C) content**. Reported concentrations range from 900 to 5,300 mg per 100 g fresh weight, representing 50–100 times the concentration found in oranges ([[cannabis-harvest-timing-visual-cues]], and post-harvest handling. Shade-dried fruit retains approximately 40–50% of fresh vitamin C content.
+The Kakadu plum's most celebrated attribute is its extraordinary **ascorbic acid (vitamin C) content**. Reported concentrations range from 900 to 5,300 mg per 100 g fresh weight, representing 50–100 times the concentration found in oranges (cannabis harvest timing visual cues, and post-harvest handling. Shade-dried fruit retains approximately 40–50% of fresh vitamin C content.
 
 Additional nutritional constituents include:
 
@@ -77,7 +77,7 @@ In vitro studies have demonstrated:
 
 Aboriginal Australians have used the Kakadu plum as a food and medicine for an estimated 40,000–60,000 years. The fruit is eaten fresh when ripe and can be sun-dried for later use.
 
-Traditional medicinal applications include treatment of colds, headaches, and [[cannabis-for-skin-conditions-detailed]]. The inner bark is used topically for wounds, and sap is applied as an antiseptic.
+Traditional medicinal applications include treatment of colds, headaches, and cannabis for skin conditions detailed. The inner bark is used topically for wounds, and sap is applied as an antiseptic.
 
 Contemporary commercial applications include:
 

@@ -6,7 +6,7 @@ tags:
   - moraceae
   - mulberry
   - fruit-tree
-  - permaculture
+  - [[permaculture]]
   - traditional-medicine
   - edible-fruit
 date: 2026-04-28
