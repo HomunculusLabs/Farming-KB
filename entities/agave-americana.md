@@ -21,7 +21,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gentry, H.S. (1982). "Agaves of Continental psilocybin-north-america-pacific-northwest." University of Arizona Press.
+  - Gentry, H.S. (1982). "Agaves of Continental [[psilocybin]]-north-america-pacific-northwest." University of Arizona Press.
   - Garcia-Mendoza, A. (2007). "Agavaceae." In: "Flora del Valle de Tehuacán-Cuicatlán," UNAM.
   - Eguiarte, L.E. et al. (2000). "Agave (Agavaceae)." In: "Economic Botany," Springer.
   - Colunga-GarcíaMarín, P. et al. (2007). "Diversidad y Distribución del Género Agave." Boletín de la Sociedad Botánica de México, 81, 43–52.
@@ -31,10 +31,10 @@ sources:
 ## Overview
 
 **Agave americana** (American agave, century plant) is a large succulent perennial
-in the family Asparagaceae, native to Mexico and the southern cannabis vegetative growth stage.
+in the family Asparagaceae, native to Mexico and the southern [[cannabis-vegetative-growth-stage]].
 
 The species is one of the most widely cultivated agaves globally, valued for
-its dramatic architectural form, shroom mesoamerican civilization as the
+its dramatic architectural form, [[shroom-mesoamerican-civilization]] as the
 source of pulque (fermented agave nectar), fiber (ixtle), food, and building
 materials, a cultural legacy that persists in contemporary Mexico.
 
@@ -59,7 +59,7 @@ offsets (pups) typically survive.
 
 ## Distribution and Habitat
 
-Native to eastern and guzman psilocybin mushrooms south america.
+Native to eastern and [[guzman-psilocybin-mushrooms-south-america]].
 
 It inhabits arid and semi-arid environments including rocky hillsides, desert
 grasslands, thorn scrub, and disturbed sites. Tolerance ranges from near-sea

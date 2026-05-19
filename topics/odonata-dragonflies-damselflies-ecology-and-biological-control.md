@@ -33,7 +33,7 @@ sources:
 
 Dragonflies (suborder **Anisoptera**) and damselflies (suborder **Zygoptera**) together form the order **Odonata**, among the most ancient and effective aerial predators on Earth. Fossil records trace their lineage back over 300 million years — predating dinosaurs — with prehistoric relatives like *Meganeura* boasting wingspans exceeding 70 cm. Today's odonates are smaller but no less formidable: adult dragonflies achieve hunting success rates of up to 95%, making them the most efficient predators in the animal kingdom.
 
-For fukuoka natural farming in tropical regions harbor the greatest diversity, with guzman thailand southeast asia psychoactive fungi distribution, Amazonia, and equatorial Africa as plant tissue systems meristematic ground vascular and dermal (endophytic), on the water surface (epiphytic), or into mud/water (exophytic)
+For [[fukuoka-natural-farming-in-tropical-regions]] harbor the greatest diversity, with guzman thailand southeast asia psychoactive fungi distribution, Amazonia, and equatorial Africa as plant tissue systems meristematic ground vascular and dermal (endophytic), on the water surface (epiphytic), or into mud/water (exophytic)
 - Egg morphology varies by oviposition strategy: endophytic eggs are elongate with a chorionic filament for anchoring in plant tissue
 - Many temperate species overwinter as eggs, with embryonic development arrested by diapause
 - Damselflies typically insert eggs into submerged or emergent plant stems using a sharp ovipositor

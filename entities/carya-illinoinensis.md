@@ -31,7 +31,7 @@ described. The common name "pecan" derives from the Algonquin word
 *paccan*, meaning a nut requiring a stone to crack.
 
 The genus *Carya* contains approximately 17–19 species of hickories
-native to neurotropic fungi japan east asia species cultural context. *C. illinoinensis* is the only
+native to [[neurotropic-fungi]] japan east asia species cultural context. *C. illinoinensis* is the only
 commercially cultivated species on a large scale.
 
 ## Morphology
