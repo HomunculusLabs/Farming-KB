@@ -9,7 +9,7 @@ tags: [psilocybin]
 updated: 2026-04-26
 ---
 
-# Psilocybin and the Mutability of Consciousness
+## Psilocybin and the Mutability of Consciousness
 
 Simon G. Powell's *The [[serotonin]], the key neurotransmitter
 affected by psilocybin, evolved over millions of years determined by chemicals available in the

@@ -5,7 +5,7 @@ type: entity
 tags: [technique, harvesting, wildlife-integration, wild-rice, permaculture, innovation]
 ---
 
-# Packrat Harvesting
+## Packrat Harvesting
 
 ## Description
 

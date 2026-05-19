@@ -18,7 +18,7 @@ sources:
   - "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:536014-1"
 ---
 
-# Papaver Rhoeas
+## Papaver Rhoeas
 
 ## Overview
 

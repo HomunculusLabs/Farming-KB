@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Species Sequencing
+## Mushroom Species Sequencing
 
 Species sequencing is a method of maximizing the productive potential
 of a substrate by growing multiple mushroom species on it in

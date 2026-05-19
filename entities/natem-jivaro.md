@@ -5,7 +5,7 @@ type: entity
 tags: [preparation, ayahuasca, jivaro, hallucinogen, banisteriopsis, shamanism]
 ---
 
-# Natem (Jivaro)
+## Natem (Jivaro)
 
 ## Description
 

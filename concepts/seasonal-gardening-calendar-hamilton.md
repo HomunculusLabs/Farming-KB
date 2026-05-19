@@ -7,7 +7,7 @@ tags: [gardening, organic-gardening]
 sources: [papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Seasonal Gardening Calendar (Hamilton Method)
+## Seasonal Gardening Calendar (Hamilton Method)
 
 Updated: 2026-04-18
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Winterize My Garden and Prepare for Spring?
+## How Do I Winterize My Garden and Prepare for Spring?
 
 ## Short Answer
 Winterizing a garden involves protecting soil from erosion,

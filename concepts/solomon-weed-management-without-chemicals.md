@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Weed Management Without Chemicals
+## Weed Management Without Chemicals
 
 [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
 that relies on timing, sharp tools, and understanding weed biology. The core

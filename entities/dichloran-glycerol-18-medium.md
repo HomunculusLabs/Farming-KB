@@ -5,7 +5,7 @@ type: entity
 tags: [technique, media, mycology, xerophilic-fungi, isolation]
 ---
 
-# Dichloran-Glycerol-18 Medium (DG18)
+## Dichloran-Glycerol-18 Medium (DG18)
 
 ## Description
 

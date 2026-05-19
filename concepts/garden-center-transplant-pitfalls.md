@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Garden Center Transplant Pitfalls
+## Garden Center Transplant Pitfalls
 
 Every spring, garden centers overflow with eager buyers loading up on seedlings and transplants. The scene is intoxicating — warm weather, the smell of soil, rows of green plants promising abundance. But most of what happens next is predictable disappointment. Understanding the common mistakes with garden center transplants can save enormous amounts of money, time, and frustration.
 

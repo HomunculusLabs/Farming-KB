@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Random Assembly Design Technique
+## Random Assembly Design Technique
 
 [[hemenway-garden-design-process-observation-and-visioning]], after observations have been made and visions
 articulated, but before the final layout is determined.

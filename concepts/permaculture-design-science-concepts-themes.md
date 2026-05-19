@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Design Science: Concepts and Themes in Design
+## Permaculture Design Science: Concepts and Themes in Design
 
 ## The Design Science Revolution
 

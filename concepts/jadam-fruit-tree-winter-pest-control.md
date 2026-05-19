@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Fruit Tree Winter Pest Control (JADAM Recipe #13)
+## Fruit Tree Winter Pest Control (JADAM Recipe #13)
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Menstrual Blood in Creative Process and Purple Fertility Symbolism
+## Menstrual Blood in Creative Process and Purple Fertility Symbolism
 
 In [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern fertility philosophy, menstrual blood
 occupies a central position as the fundamental creative substance—the raw material from

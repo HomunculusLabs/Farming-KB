@@ -7,7 +7,7 @@ tags: [gardening, organic-gardening]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Container Gardening Techniques
+## Container Gardening Techniques
 
 Container gardening allows you to grow a wide range of plants in pots, tubs, window boxes, and [[stamets-growing-room-air-circulation-co2-management]] around roots, but it absorbs moisture from the compost and plants may need more frequent watering. [[coleman-overwintered-onions-and-early-spring-crops]] show. Annuals need careful watering when first planted and during dry weather until they are established.
 

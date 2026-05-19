@@ -20,7 +20,7 @@ type: query
 created: 2026-04-28
 ---
 
-# What Are the Health Benefits of Dietary Polyphenols and Which Foods Are the Best Sources?
+## What Are the Health Benefits of Dietary Polyphenols and Which Foods Are the Best Sources?
 
 Polyphenols are bioactive plant compounds found in fruits, vegetables, herbs, spices, tea, coffee, wine, and cacao. Over 10,000 distinct polyphenol structures have been identified, and a growing body of epidemiological and clinical evidence links regular polyphenol consumption to reduced risk of cardiovascular disease, certain cancers, neurodegenerative conditions, type 2 diabetes, and chronic [[blesching-cannabis-inflammatory-diseases]]. This guide summarizes the key health benefits and the best dietary sources.
 

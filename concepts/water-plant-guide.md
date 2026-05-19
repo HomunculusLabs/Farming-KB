@@ -7,7 +7,7 @@ tags: [permaculture, plants, plant-catalog, species, water, aquaponics]
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
 
-# Water Plant Guide
+## Water Plant Guide
 
 Water plants provide direct food for humans and aquatic animals, and oxygenate water. No aquatic system is complete without a range of plants. They fall into four broad groups:
 

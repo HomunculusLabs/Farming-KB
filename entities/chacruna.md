@@ -5,7 +5,7 @@ type: entity
 tags: [plant, dmt-containing, amazonian-medicine, ayahuasca-admixture, ethnobotany]
 ---
 
-# Chacruna
+## Chacruna
 
 ## Description
 

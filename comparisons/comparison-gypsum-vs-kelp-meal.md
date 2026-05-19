@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# Gypsum vs Kelp Meal
+## Gypsum vs Kelp Meal
 
 ## Overview
 

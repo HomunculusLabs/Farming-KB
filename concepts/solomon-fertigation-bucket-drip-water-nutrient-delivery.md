@@ -1,4 +1,8 @@
-# Fertigation Technique — Bucket Drip for Water and Nutrient Delivery
+---
+title: "Fertigation Technique — Bucket Drip for Water and Nutrient Delivery"
+tags:
+  - concept
+---
 
 **Source:** Gardening When It Counts (Solomon, 2005)
 
@@ -143,8 +147,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[solomon-disease-identification-and-organic-remedies]]
-- [[solomon-manure-types-and-nutrient-values]]
-- [[solomon-raised-beds-and-bed-preparation]]
-- [[solomon-seed-saving-vegetable-breeding]]

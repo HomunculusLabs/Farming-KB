@@ -8,7 +8,7 @@ sources: [unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: entity
 ---
 
-# Stropharia rugoso-annulata
+## Stropharia rugoso-annulata
 
 **Type:** Species
 **Category:** Basidiomycete

@@ -1,4 +1,8 @@
-# Compost Quality Grades and Methods
+---
+title: "Compost Quality Grades and Methods"
+tags:
+  - concept
+---
 
 Composting is often presented as a simple, universally successful practice,
 but the reality is far more nuanced. [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] — surplus nitrogen converts to

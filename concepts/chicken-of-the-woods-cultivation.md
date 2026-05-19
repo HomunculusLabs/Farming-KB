@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Chicken of the Woods Cultivation
+## Chicken of the Woods Cultivation
 
 ## Overview
 

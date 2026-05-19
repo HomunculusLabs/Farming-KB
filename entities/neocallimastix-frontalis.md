@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Neocallimastix frontalis
+## Neocallimastix frontalis
 
 Neocallimastix frontalis is an anaerobic chytridiomycete fungus that inhabits the rumen of herbivorous mammals, playing a crucial role in the degradation of plant [[anaerobic-rumen-fungi-biology-herbivore-digestion]] and has been instrumental in understanding the contributions of anaerobic fungi to herbivore digestion, fiber degradation, and the complex [[edaphic-factors-microbial-community-structure]] including bacteria, protozoa, archaea, [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]].
 

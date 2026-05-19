@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
 
-# Acid Rain and Fungal-Faunal Interactions
+## Acid Rain and Fungal-Faunal Interactions
 
 ## Description
 

@@ -7,7 +7,7 @@ tags: [vermicompost, worm-composting, earthworm-composting, vermicomposting-syst
 aliases: [vermicomposting-guide, worm-bin-production, vermicast-production, commercial-vermicomposting]
 ---
 
-# Vermicompost Production Systems and Quality Standards
+## Vermicompost Production Systems and Quality Standards
 
 ## Overview
 

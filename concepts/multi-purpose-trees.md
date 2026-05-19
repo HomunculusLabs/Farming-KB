@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Multi-Purpose Trees for Permaculture
+## Multi-Purpose Trees for Permaculture
 
 In permaculture, every element should serve multiple functions. Multi-purpose trees exemplify this principle -- providing timber, fodder, [[permplant-willows-salix-erosion-control-fodder]], fire protection, and sometimes food, all from a single planting. This guide covers key multi-purpose species from "Permaculture Plants: A Selection" organised by their primary functions. Multi-purpose trees can also be integrated into broader tagasaste (Chamaecytisus palmensis)
 One of the most versatile [[dighton-fungal-drought-tolerance-plant-water-relations]]**: Thrives in Mediterranean climates with 250-500 mm rainfall

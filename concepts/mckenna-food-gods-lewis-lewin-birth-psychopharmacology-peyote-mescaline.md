@@ -6,7 +6,7 @@ source_title: "Food of the Gods: The Search for the Original Tree of Knowledge"
 topics: psychopharmacology, Lewis Lewin, peyote, mescaline, Arthur Heffter, Kurt Beringer, Heinrich Kluver, Blas Pablo Reko, ethnobotany history
 ---
 
-# Lewis Lewin and the Birth of Psychopharmacology — Peyote, Mescaline, and the Modern Renaissance
+## Lewis Lewin and the Birth of Psychopharmacology — Peyote, Mescaline, and the Modern Renaissance
 
 ## Overview
 

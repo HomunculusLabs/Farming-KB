@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and Endometriosis
+## Cannabis and Endometriosis
 
 **Source:** The [[cannabis-chronic-pain-management]] evidence base supports cannabinoid use for [[cannabis-edibles-guide]] recommendations should be followed for oral products
 - Patients should consult [[cannabis-terpene-profile]] of selected strains can contribute to pain relief, with myrcene (sedative, analgesic), beta-caryophyllene (anti-inflammatory, CB2 agonist), and linalool (anxiolytic) being particularly relevant for endometriosis symptom management.

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 ---
 
-# Laccase Mediator System Dye Decolorization
+## Laccase Mediator System Dye Decolorization
 
 Updated: 2026-04-18
 

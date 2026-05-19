@@ -7,7 +7,7 @@ tags: [bulk-substrate, contamination, cultivation, mushroom-cultivation, mycolog
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
 
-# Mushroom Cultivation on Contaminated Substrates
+## Mushroom Cultivation on Contaminated Substrates
 
 ## Overview
 

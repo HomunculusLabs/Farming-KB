@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Propagate Woody Herbs from Cuttings?
+## How Do I Propagate Woody Herbs from Cuttings?
 
 Propagating woody herbs from cuttings is one of the most reliable and rewarding ways to expand your garden. Unlike soft-stemmed herbs like basil or mint, woody herbs such as rosemary, lavender, thyme, sage, oregano, and bay laurel require slightly different techniques due to their tougher stems and slower growth habits. With the right approach, you can clone your best-performing plants for free.
 

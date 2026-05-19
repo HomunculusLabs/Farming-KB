@@ -4,7 +4,7 @@ source: unknown-oyster-mushroom-cultivation.md
 topics: [oyster-mushroom, spawn, grain-spawn, sawdust-spawn, inoculation, tissue-culture, pleurotus]
 ---
 
-# Oyster Mushroom Spawn Production: Grain and Sawdust Methods
+## Oyster Mushroom Spawn Production: Grain and Sawdust Methods
 
 ## From the Mushroom Growers' Handbook 1
 

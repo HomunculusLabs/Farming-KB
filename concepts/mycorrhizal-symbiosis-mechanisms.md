@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, ecology, botany, symbiosis]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
-# Mycorrhizal Symbiosis Mechanisms
+## Mycorrhizal Symbiosis Mechanisms
 
 Mycorrhizal symbiosis is the mutually beneficial association between fungal
 hyphae and plant roots, found in over 90% of terrestrial plant species. This

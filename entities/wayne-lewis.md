@@ -22,7 +22,7 @@ sources:
 - raw/papers/teaming-with-fungi-lowenfels.md
 ---
 
-# Wayne Lewis
+## Wayne Lewis
 
 American soil biologist and co-author (with [[jeff-lowenfels]]) of "Teaming With Microbes: The Organic Gardener's Guide to the Soil Food Web" (2006, updated 2010). His scientific expertise grounded the book's accessible explanations of [[soil-food-web-nutrient-cycling]] biology, making it one of the most influential popular soil science books of the 21st century.
 

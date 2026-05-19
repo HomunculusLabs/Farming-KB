@@ -4,7 +4,7 @@ created: 2026-05-09
 tags: [mycology, taxonomy, polyporales, agaricomycetes, basidiomycota]
 ---
 
-# Order Polyporales
+## Order Polyporales
 
 ## Overview
 

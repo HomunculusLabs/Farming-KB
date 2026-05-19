@@ -1,4 +1,8 @@
-# Ayahuasca Ceremony Structure and Practice
+---
+title: "Ayahuasca Ceremony Structure and Practice"
+tags:
+  - concept
+---
 
 [[ayahuasca-tourism-economics-peruvian-amazon]] follow a general structure that
 varies depending on the tradition (Shipibo, mestizo, or other indigenous

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# Naranjo Harmaline Yage Experiment
+## Naranjo Harmaline Yage Experiment
 
 Claudio Naranjo's study "Psychological Aspects of the [[yage-cross-cultural-experience]].
 

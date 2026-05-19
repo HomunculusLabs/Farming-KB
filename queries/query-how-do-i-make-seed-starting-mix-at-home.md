@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Make Seed Starting Mix at Home?
+## How Do I Make Seed Starting Mix at Home?
 
 Making your own seed starting mix gives you control over ingredients, saves money over commercial blends, and lets you avoid synthetic wetting agents and fertilizers found in many bagged products. A good seed starting mix has three core properties: it holds moisture consistently, drains freely, and provides a sterile, fine-textured medium for delicate roots to explore.
 

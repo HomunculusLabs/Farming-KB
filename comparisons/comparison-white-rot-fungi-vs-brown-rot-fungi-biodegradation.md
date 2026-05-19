@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# White Rot Fungi vs Brown Rot Fungi
+## White Rot Fungi vs Brown Rot Fungi
 
 ## Overview
 White rot and brown rot fungi are the two primary categories of wood-decaying

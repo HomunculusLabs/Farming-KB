@@ -7,7 +7,7 @@ type: concept
 tags: [phenethylamine, psychedelic, amphetamine, research-chemical, dox-family]
 ---
 
-# DOI
+## DOI
 
 ## Overview
 

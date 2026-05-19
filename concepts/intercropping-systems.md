@@ -7,7 +7,7 @@ tags: [plant-systems, agriculture, regenerative, companion-planting, permacultur
 sources: []
 ---
 
-# Intercropping Systems
+## Intercropping Systems
 
 Intercropping is the practice of growing two or more crop species simultaneously in the same field or garden bed. Unlike monoculture, intercropping leverages ecological interactions between species to increase total yield per unit area, reduce pest pressure, improve soil health, and manage risk through diversification.
 

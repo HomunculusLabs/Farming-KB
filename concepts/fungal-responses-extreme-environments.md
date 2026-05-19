@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Responses to Extreme Environments
+## Fungal Responses to Extreme Environments
 
 Fungi colonize an extraordinary range of extreme environments, from
 polar ice and desert sands to volcanic hot springs and highly acidic

@@ -6,7 +6,7 @@ topic: endocannabinoid system, lipid signaling, neurochemistry
 mined: 2026-05-11
 ---
 
-# Five Endogenous Cannabinoids — The Complete Lipid Signaling Family
+## Five Endogenous Cannabinoids — The Complete Lipid Signaling Family
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Organic Garden Soil Preparation
+## Organic Garden Soil Preparation
 
 Soil preparation sets the foundation for a productive garden. Organic methods focus on building soil biology, maintaining soil structure, and providing nutrients through natural amendments. The approach chosen -- no-till, double-dig, or [[soil-food-web-structure]], and [[hamilton-composting-and-organic-matter-management]] per year to maintain soil organic matter levels.
 

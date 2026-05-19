@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-# Permaculture Built Environment Design
+## Permaculture Built Environment Design
 
 Permaculture built environment design applies [[permaculture-building-design]]. Buildings are
 oriented, shaped, and constructed to capture, store, and distribute solar

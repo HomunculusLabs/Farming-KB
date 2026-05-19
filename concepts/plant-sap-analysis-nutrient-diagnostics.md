@@ -8,7 +8,7 @@ sources:
   - "raw/papers/solomon-gardening-west.md"
 ---
 
-# Plant Sap Analysis — Real-Time Nutrient Diagnostics
+## Plant Sap Analysis — Real-Time Nutrient Diagnostics
 
 ## Overview
 

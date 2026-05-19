@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Identify and Treat Bud Rot on Cannabis
+## How to Identify and Treat Bud Rot on Cannabis
 
 ## Short Answer
 Bud rot, caused by the fungus Botrytis cinerea, appears as brown or gray mushy spots

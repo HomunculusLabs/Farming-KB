@@ -23,7 +23,7 @@ sources:
 - raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
-# John H. Halpern
+## John H. Halpern
 
 Psychiatrist and researcher at Harvard Medical School and McLean Hospital's Biological Psychiatry Laboratory. Specialist in hallucinogen pharmacology and the religious use of psychoactive plants in the United States. Published in Pharmacology & Therapeutics and the Journal of Psychoactive Drugs.
 

@@ -7,7 +7,7 @@ related: [rankine-cycle, laws-of-thermodynamics, heat-transfer-mechanisms]
 created: 2026-05-02
 ---
 
-# Carnot Cycle and Heat Engines
+## Carnot Cycle and Heat Engines
 
 The Carnot cycle is the ideal reversible heat-engine cycle used to define the upper limit on thermal efficiency.
 It describes a theoretical engine operating between a hot reservoir and a cold reservoir.

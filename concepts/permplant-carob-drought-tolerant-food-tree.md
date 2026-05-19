@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Carob as Drought-Tolerant Food Tree in Permaculture
+## Carob as Drought-Tolerant Food Tree in Permaculture
 
 Carob ([[fire-resistant-plants]]. Stock will also trim the foliage to within their reach.
 

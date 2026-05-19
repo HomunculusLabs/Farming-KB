@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Agricultural Waste Substrates for Mushroom Cultivation
+## Agricultural Waste Substrates for Mushroom Cultivation
 
 Many wood-decomposing mushrooms can be grown on alternative substrates
 that do not contain wood. Cereal straws, corn stalks, sugar cane

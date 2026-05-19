@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis, Homeostasis, and Immune Regulation
+## Cannabis, Homeostasis, and Immune Regulation
 
 The [[blesching-cannabis-immune-system-modulation]].
 The (E)-beta-caryophyllene

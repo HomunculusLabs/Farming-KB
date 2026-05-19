@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquaculture Principles and the Case for Water-Based Food Systems
+## Aquaculture Principles and the Case for Water-Based Food Systems
 
 ## Overview
 

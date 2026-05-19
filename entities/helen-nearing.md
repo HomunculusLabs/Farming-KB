@@ -5,7 +5,7 @@ type: entity
 tags: [person, historical, organic-farming, homesteading]
 ---
 
-# Helen Nearing
+## Helen Nearing
 
 ## Description
 Helen Nearing (1904–1995) was an American homesteader, author, and musician who, with her husband Scott Nearing, pioneered the modern back-to-the-land movement. Co-author of *Living the Good Life* (1954), Helen was the practical partner in the Nearing homesteading enterprise, managing food production, preservation, and household self-sufficiency. Together with Scott, she hosted and mentored Eliot Coleman in the mid-1960s, and the Nearings sold him a portion of their Maine farm in 1968, enabling his career in organic farming.

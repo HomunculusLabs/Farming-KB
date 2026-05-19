@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md (Chunk 19)
 type: concept
 ---
 
-# Evenness Indices and Species-Abundance Distribution Models in Fungal Ecology
+## Evenness Indices and Species-Abundance Distribution Models in Fungal Ecology
 
 ## Overview
 

@@ -19,7 +19,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Miscanthus giganteus
+## Miscanthus giganteus
 
 ## Overview
 

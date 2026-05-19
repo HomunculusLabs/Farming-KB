@@ -1,4 +1,8 @@
-# EMCDDA "Return to Nature" Megatrend as a Driver of Mushroom Appeal
+---
+title: "EMCDDA "Return to Nature" Megatrend as a Driver of Mushroom Appeal"
+tags:
+  - concept
+---
 
 The EMCDDA's 2006 thematic paper on [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] stated directly that "increasing
 interest in natural and organic products may have enhanced the appeal of

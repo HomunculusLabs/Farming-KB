@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Natural Direct Seeding Versus Rice Transplanting
+## Natural Direct Seeding Versus Rice Transplanting
 
 Fukuoka's fundamental insight about [[fukuoka-rice-and-barley-natural-farming]]
 succession system that eliminates transplanting entirely.

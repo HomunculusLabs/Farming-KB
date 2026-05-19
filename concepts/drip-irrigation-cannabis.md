@@ -10,7 +10,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Drip Irrigation for Cannabis
+## Drip Irrigation for Cannabis
 
 Drip irrigation is an efficient and precise method of delivering water and [[cannabis-grow-hydroponic-growing-systems]] setups, making it one of the most versatile irrigation methods available.
 

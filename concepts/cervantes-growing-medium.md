@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Cannabis Growing Medium — Soil vs Hydro vs Coco
+## Cannabis Growing Medium — Soil vs Hydro vs Coco
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[jadam-nutrient-management-wetting-agent-and-calcium]] and retain water and air evenly, drain well, and allow easy root penetration. Organic potting soils are very popular, often fortified with [[cannabis-nutrient-solution-preparation]] is applied:
 

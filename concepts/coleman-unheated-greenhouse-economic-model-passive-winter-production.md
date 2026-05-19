@@ -6,7 +6,7 @@ type: concept
 created: 2026-05-10
 ---
 
-# Unheated Greenhouse Economic Model
+## Unheated Greenhouse Economic Model
 
 Eliot Coleman's cold house model rests on a core economic thesis: the most profitable
 way to extend fresh-vegetable harvest through winter is to **produce maximum food without

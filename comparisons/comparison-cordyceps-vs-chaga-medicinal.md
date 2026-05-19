@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Cordyceps vs Chaga
+## Cordyceps vs Chaga
 
 ## Overview
 

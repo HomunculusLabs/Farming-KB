@@ -5,7 +5,7 @@ type: entity
 tags: [soil, geology, permaculture, soil-pan, desert, erosion]
 ---
 
-# Duricrust
+## Duricrust
 
 ## Description
 

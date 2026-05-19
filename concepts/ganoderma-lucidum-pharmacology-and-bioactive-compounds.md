@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Ganoderma Lucidum Pharmacology and Bioactive Compounds
+## Ganoderma Lucidum Pharmacology and Bioactive Compounds
 
 [[ganoderma-lucidum]] (Reishi / Ling Zhi) holds the longest documented history of medicinal use among all mushrooms, dating back at least four millennia. It is the most comprehensively studied medicinal mushroom, with an estimated annual global market value exceeding US $1.6 billion.
 

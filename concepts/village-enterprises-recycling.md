@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Village Enterprises and Community Recycling
+## Village Enterprises and Community Recycling
 
 ## Overview
 

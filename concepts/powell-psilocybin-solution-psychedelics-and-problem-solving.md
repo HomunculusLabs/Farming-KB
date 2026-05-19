@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin, psychedelics]
 ---
 
-# Powell - Psychedelics and Problem Solving
+## Powell - Psychedelics and Problem Solving
 
 Simon G. Powell argues that psilocybin and other entheogenic compounds function as cognitive tools for solving fundamental problems -- both individual psychological crises and civilizational-level challenges about humanity's place in Nature. In *The [[amanita-muscaria-fly-agaric-history-and-pharmacology]] and experienced burning sensations on his tongue. He went on to predict that a once sacred substance entrusted to an elite few would soon be sought out by "jaded sensation seekers," though they would likely be dissatisfied since psilocybin "failed to stupefy like alcohol." His prescient warning about psilocybin's power remains relevant: whoever prepares to consume [[powell-paradigm-shifting-and-the-psychedelic-revolution]]
 - [[powell-gaian-mind-and-entheogenic-flora]]

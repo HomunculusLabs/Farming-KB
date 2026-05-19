@@ -1,5 +1,5 @@
 ---
-title: fukuoka-nature-perfect-imperfect-philosophical-perspective and Imperfect
+title: "Fukuoka Nature Perfect Imperfect"
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Nature Perfect and Imperfect
+## Nature Perfect and Imperfect
 
 A fundamental principle in Masanobu Fukuoka's [[comparison-natural-farming-vs-permaculture]], Fukuoka insisted, is that nothing need be done to grow crops. This conviction came not from theoretical speculation but from what he called "a total, intuitive understanding of the reality about self and nature wrested from the depths of doubt and skepticism in a deeply earnest struggle over the meaning of life."
 

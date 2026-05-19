@@ -1,5 +1,10 @@
+---
+title: "Fungal Survey Design Role Of Volunteers"
+tags:
+  - concept
+---
 
-# Fungal Survey Design and the Role of Volunteers
+## Fungal Survey Design and the Role of Volunteers
 
 Effective fungal-inventory-methods programs while maintaining data [[singh-fungal-biosensors-environmental-monitoring]]**: Using [[dighton-pine-needle-litter-decomposition-fungal-succession]] needle and the spatial scale of mycelial distribution vary
    enormously among groups

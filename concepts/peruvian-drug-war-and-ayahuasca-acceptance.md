@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Peruvian Drug War and Ayahuasca Acceptance
+## Peruvian Drug War and Ayahuasca Acceptance
 
 Peru occupies a unique position in global [[cultural-evolution-and-psychoactive-substances]].
 

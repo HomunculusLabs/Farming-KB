@@ -1,4 +1,8 @@
-# Fungal Mycelial Competition and Combat Outcomes
+---
+title: "Fungal Mycelial Competition and Combat Outcomes"
+tags:
+  - concept
+---
 
 ## Overview
 

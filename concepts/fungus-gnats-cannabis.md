@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Fungus Gnats on Cannabis
+## Fungus Gnats on Cannabis
 
 Fungus gnats are small flying insects whose larvae (maggots) infest growing media and feed on cannabis roots. They are especially problematic in hydroponic systems with moist [[blesching-cannabis-fungal-infections-candida]]. While adult gnats are primarily a nuisance, their larvae can cause serious harm to the root system, and adult gnats that stick to resinous buds can contaminate the harvest.
 

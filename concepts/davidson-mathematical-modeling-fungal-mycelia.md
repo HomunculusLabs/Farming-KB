@@ -7,7 +7,7 @@ published: 2007
 tags: [fungal-modeling, mycelial-growth, mathematical-biology, diffusion, morphogenesis, foraging, tip-growth]
 ---
 
-# Mathematical Modeling of Fungal Mycelia: Form and Function
+## Mathematical Modeling of Fungal Mycelia: Form and Function
 
 ## Overview
 

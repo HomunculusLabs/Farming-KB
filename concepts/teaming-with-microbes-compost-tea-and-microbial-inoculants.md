@@ -9,7 +9,7 @@ type: concept
 tags: [composting, sterile-technique]
 ---
 
-# Compost Tea and Microbial Inoculants
+## Compost Tea and Microbial Inoculants
 
 Actively [[cervantes-chemical-fertilizers-guide]] by feeding the microbes that feed plants.
 Once established, soil food webs are maintained using these same tools, either

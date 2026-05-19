@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# Tetrahydrocannabivarin (THCV)
+## Tetrahydrocannabivarin (THCV)
 
 **Type:** Chemical Compound (Minor Cannabinoid / Varinoid)
 **Category:** Phytocannabinoid

@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Mycoparasite-Host Interface Types
+## Mycoparasite-Host Interface Types
 
 Mycoparasite-host interfaces describe the physical and physiological boundaries at which parasitic fungi interact with their fungal hosts. Jeffries and Young (1994) distinguished five principal interface types, which can be grouped into two broad categories based on the fate of the host cytoplasm: **necrotrophic** (host cytoplasm degenerates) and **biotrophic** (host cytoplasm remains healthy). Understanding these interface types is essential for mycology, [[fungal-ecology]], and biological control of plant pathogens.
 

@@ -7,7 +7,7 @@ tags: [food, nutrition]
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
-# Canopy Layer Design in Food Forests
+## Canopy Layer Design in Food Forests
 
 The canopy layer is the uppermost stratum of a [[permaculture-plants-food-forest-ground-covers-bamboos]], root crops, and vines. The canopy is the highest layer, typically consisting of large nut and fruit trees that reach 10-15 meters or more.
 

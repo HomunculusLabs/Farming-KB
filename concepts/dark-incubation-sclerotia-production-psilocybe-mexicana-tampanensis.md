@@ -7,7 +7,7 @@ source: "Exotic mushroom cultivation guide — grass seed method"
 aliases: [philosopher stones cultivation, psilocybe sclerotia jars, tampanensis truffle production]
 ---
 
-# Dark Incubation Sclerotia Production in Psilocybe mexicana and P. tampanensis
+## Dark Incubation Sclerotia Production in Psilocybe mexicana and P. tampanensis
 
 ## Overview
 

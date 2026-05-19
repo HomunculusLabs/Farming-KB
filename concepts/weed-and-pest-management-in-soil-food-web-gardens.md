@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Weed and Pest Management in Soil Food Web Gardens
+## Weed and Pest Management in Soil Food Web Gardens
 
 ## Overview
 

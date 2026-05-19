@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Morels (Morchella) Species and Cultivation Attempts
+## Morels (Morchella) Species and Cultivation Attempts
 
 ## Overview
 

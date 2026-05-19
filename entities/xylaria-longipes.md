@@ -1,3 +1,8 @@
+---
+title: "Xylaria Longipes"
+tags:
+  - entitie
+---
 ## Overview
 
 *Xylaria longipes*, commonly known as the Dead Man's Fingers fungus, is a

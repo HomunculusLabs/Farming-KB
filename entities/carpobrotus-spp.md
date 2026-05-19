@@ -5,7 +5,7 @@ type: entity
 tags: [ground-cover, coastal, edible-fruit, medicinal, australia, succulent, saline-tolerant]
 ---
 
-# Carpobrotus spp. (Pigface, Karkalla)
+## Carpobrotus spp. (Pigface, Karkalla)
 
 ## Description
 

@@ -47,7 +47,7 @@ related_concepts:
   - dighton-fungal-roles-soil-erosion-prevention
   - mycofiltration-silt-erosion-control
 ---
-# Soil Erosion Control and Landscape Restoration
+## Soil Erosion Control and Landscape Restoration
 Soil erosion control and landscape restoration comprise the practices used
 to prevent the detachment, transport, and loss of soil while rebuilding the
 biological and hydrological functions of damaged land. In farming and

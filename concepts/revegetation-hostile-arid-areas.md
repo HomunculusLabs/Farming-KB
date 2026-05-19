@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Revegetation of Hostile Arid Areas
+## Revegetation of Hostile Arid Areas
 
 Revegetating dry, salted, deflected, and pest-invaded areas is a fundamental challenge in [[mallee-fowl]]). These birds construct large [[brush-turkey]]** (*Alectura lathami*) compacts rain-wet vegetation in an excavated pit, maintaining mound temperature at 35°C (95°F) by adding material or opening cooling vents
 - The **scrub turkey** (*Megapodius freycinet*) builds mounds up to 12 x 5 metres

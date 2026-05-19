@@ -5,7 +5,7 @@ type: entity
 tags: [crop, cold-hardy, winter-vegetable, salad-green, montiaceae]
 ---
 
-# Claytonia (Claytonia perfoliata)
+## Claytonia (Claytonia perfoliata)
 
 ## Description
 

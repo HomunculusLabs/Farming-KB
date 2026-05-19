@@ -8,7 +8,7 @@ sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livi
 type: concept
 ---
 
-# Graywater Systems for Off-Grid Homes
+## Graywater Systems for Off-Grid Homes
 
 Graywater is the water that drains from sinks, tubs, washing machines, and
 showers. If you use a [[natfarm-swale-water-conservation]] systems

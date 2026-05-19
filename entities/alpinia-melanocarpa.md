@@ -15,7 +15,7 @@ sources:
   - Poulsen AD. (2006). "Elingamita and Alpinia in the Pacific." Blumea.
 ---
 
-# Alpinia melanocarpa
+## Alpinia melanocarpa
 
 ## Overview
 

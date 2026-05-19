@@ -6,7 +6,7 @@ tags: [16s-rrna, microbiome, sequencing, cannabis, illumina, bioinformatics, qii
 aliases: [Cannabis 16S Sequencing, Microbiome Profiling Methods Cannabis]
 ---
 
-# 16S rRNA Sequencing for Cannabis Microbiome Profiling
+## 16S rRNA Sequencing for Cannabis Microbiome Profiling
 
 The characterization of Cannabis-associated [[cannabis-microbiome-research]] using
 Illumina MiSeq sequencing of the V4 hypervariable region, following the Earth

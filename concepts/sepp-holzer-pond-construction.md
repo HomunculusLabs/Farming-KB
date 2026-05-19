@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Sepp Holzer Pond Construction
+## Sepp Holzer Pond Construction
 
 Updated: 2026-04-18
 

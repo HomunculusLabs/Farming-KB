@@ -7,7 +7,7 @@ tags: [soil, agriculture]
 sources: []
 ---
 
-# Soil Fungal Isolation Techniques — Suspension Plating and Selective Media
+## Soil Fungal Isolation Techniques — Suspension Plating and Selective Media
 
 Soil fungal surveys rely on indirect isolation techniques in which fungal propagules in soil are dispersed on artificial media. Multiple methods exist, each with strengths and biases.
 

@@ -14,7 +14,7 @@ tags:
 - food-of-the-gods
 ---
 
-# Brief History of Psychedelics
+## Brief History of Psychedelics
 
 In *Food of the Gods*, [[terence-mckenna]] traces the modern history of psychedelic
 discovery from the late [[fukuoka-european-civilization-standstill]], then ignored and forgotten. The fourth

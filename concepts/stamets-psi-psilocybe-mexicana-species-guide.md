@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# Psilocybe mexicana Species Guide
+## Psilocybe mexicana Species Guide
 ## Overview
 Heim is a historically significant [[fukuoka-natural-farming-in-tropical-regions]] of Mexico,
 Guatemala, and Costa Rica, typically between 1000 and 1800

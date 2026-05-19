@@ -19,7 +19,7 @@ sources:
   - "McCutcheon, A.R. et al. (1995). \"Antibacterial and antifungal activity of medicinal plants.\" Journal of Ethnopharmacology, 49(2), 101-110."
 ---
 
-# Ligusticum porteri (J.M.Coult. & Rose) J.M.Coult. & Rose
+## Ligusticum porteri (J.M.Coult. & Rose) J.M.Coult. & Rose
 
 ## Overview
 

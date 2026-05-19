@@ -1,4 +1,8 @@
-# Mushroom Potency, Harvesting, and Desiccation (PF TEK)
+---
+title: "Mushroom Potency, Harvesting, and Desiccation (PF TEK)"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ current understanding and implementation strategies.
 
 Successful integration of mushroom potency harvesting and desiccation pf tek into broader
 systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions

@@ -9,7 +9,7 @@ type: concept
 tags: [natural-farming, philosophy, mu, spirituality, ecology]
 ---
 
-# Mahayana and Hinayana Natural Farming Paths
+## Mahayana and Hinayana Natural Farming Paths
 
 [[natural-farming-principles]].
 

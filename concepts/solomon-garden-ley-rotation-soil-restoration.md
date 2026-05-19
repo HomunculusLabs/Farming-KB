@@ -5,7 +5,7 @@ source_id: gardening-when-it-counts-steve-solomon
 tags: [soil-restoration, ley-rotation, cover-crops, organic-matter, soil-health, pasture, grass-clover, sustainable-gardening]
 created: 2026-05-08
 ---
-# Garden Ley Rotation for Soil Restoration
+## Garden Ley Rotation for Soil Restoration
 
 A ley is a period of rest during which [[dry-gardening-unirrigated-vegetable-production-solomon]] and resting pasture phases.
 

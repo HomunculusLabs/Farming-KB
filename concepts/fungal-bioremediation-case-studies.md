@@ -9,7 +9,7 @@ sources:
   - Lamar, R.T. & Dietrich, D.M. (1990). Applied and
     Environmental Microbiology.
 ---
-# Fungal Bioremediation Case Studies
+## Fungal Bioremediation Case Studies
 The translation of laboratory-scale fungal bioremediation to field
 applications has been a central challenge in environmental mycology.
 This page documents major field trials demonstrating both promise and

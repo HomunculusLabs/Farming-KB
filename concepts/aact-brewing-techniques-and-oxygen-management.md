@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# AACT Brewing Techniques and Oxygen Management
+## AACT Brewing Techniques and Oxygen Management
 
 [[actively-aerated-compost-tea]] (AACT) brewing is a controlled biological extraction process that requires careful management of oxygen levels, compost quality, water characteristics, and brewing equipment. The goal is to multiply beneficial aerobic microorganisms extracted from high-quality compost and deliver them to soil or plant surfaces in a viable, active state.
 

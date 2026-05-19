@@ -1,4 +1,8 @@
-# Tetrabenzylpyrophosphate Phosphorylation in Psilocybin Synthesis
+---
+title: "Tetrabenzylpyrophosphate Phosphorylation in Psilocybin Synthesis"
+tags:
+  - concept
+---
 
 ## Overview
 

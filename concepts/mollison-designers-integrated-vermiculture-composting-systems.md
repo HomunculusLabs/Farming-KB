@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Integrated Vermiculture and Composting Systems
+## Integrated Vermiculture and Composting Systems
 
 Vermiculture (worm farming) is a central component of permaculture soil
 [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in

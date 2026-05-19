@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Casuarina cunninghamiana
+## Casuarina cunninghamiana
 
 ## Description
 

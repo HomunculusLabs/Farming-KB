@@ -18,7 +18,7 @@ sources:
   - Wang, J. et al. (2014). "A review of the bioactivities and pharmacological properties of Agrocybe species." Journal of Ethnopharmacology, 153(2), 331-346.
 ---
 
-# Agrocybe praecox
+## Agrocybe praecox
 
 **Agrocybe praecox** (Pers.) Fayod, commonly known as the **early parasol** or **spring agrocybe**, is a saprotrophic basidiomycete fungus in the family Strophariaceae.
 It fruits in spring and early summer on wood chips, mulch, and disturbed ground in [[guzman-psilocybin-mushrooms-north-america]].

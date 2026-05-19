@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Salad and Braising Mix Production
+## Salad and Braising Mix Production
 
 Baby-leaf (mesclun) salads are an ideal crop for the [[coleman-baby-leaf-salad-mix-quality-standards]]
 ingredients that are too large, bitter, tough, stringy, or frost

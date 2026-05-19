@@ -23,7 +23,7 @@ sources:
 - raw/papers/purdue-home-gardeners-guide.md
 ---
 
-# Vegetable Garden Guide
+## Vegetable Garden Guide
 
 Comprehensive reference for home vegetable gardening based on Purdue University Extension guidelines (Lerner & Dana, HO-32-W). Covers planning, soil preparation, planting, care, and harvest.
 

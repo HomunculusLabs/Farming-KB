@@ -14,7 +14,7 @@ sources:
 type: query
 ---
 
-# How to Transition from Conventional to No-Till Farming
+## How to Transition from Conventional to No-Till Farming
 
 A practical guide for row-crop and vegetable farmers moving from conventional tillage to no-till systems. This page covers the transition timeline, management strategies, and economic expectations.
 

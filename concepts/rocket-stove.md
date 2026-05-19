@@ -7,7 +7,7 @@ tags: [permaculture, equipment, design, homesteading, methods, regenerative, eco
 sources: []
 ---
 
-# Rocket Stove
+## Rocket Stove
 
 A rocket stove is an efficient, clean-burning wood-burning stove that uses an insulated J-tube or L-tube combustion chamber to achieve near-complete combustion of wood fuel. Designed for maximum heat transfer with minimal fuel consumption, rocket stoves can achieve combustion efficiencies of 80-90% compared to 10-15% for open campfires. They produce significantly less smoke, use small-diameter wood that would otherwise be waste, and can be built from inexpensive or salvaged materials. Rocket stove technology, developed by Dr. Larry Winiarski at Aprovecho Research Center in the 1980s, is widely used in developing countries for cooking and adapted for homestead heating, water heating, and cob oven integration.
 

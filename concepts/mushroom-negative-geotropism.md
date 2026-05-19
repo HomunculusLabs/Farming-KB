@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Negative Geotropism
+## Mushroom Negative Geotropism
 
 ## Overview
 

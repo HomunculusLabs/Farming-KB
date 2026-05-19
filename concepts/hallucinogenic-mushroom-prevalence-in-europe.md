@@ -1,4 +1,8 @@
-# Hallucinogenic Mushroom Prevalence in Europe
+---
+title: "Hallucinogenic Mushroom Prevalence in Europe"
+tags:
+  - concept
+---
 
 ## Overview
 

@@ -15,7 +15,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Psilocybe antioquensis
+## Psilocybe antioquensis
 
 ## Taxonomy
 

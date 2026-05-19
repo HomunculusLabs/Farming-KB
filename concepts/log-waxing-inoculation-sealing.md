@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
-# Log Waxing and Inoculation Sealing Techniques Sealing inoculation holes after spawning is a critical step in log-based [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
+## Log Waxing and Inoculation Sealing Techniques Sealing inoculation holes after spawning is a critical step in log-based [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
 
 ## Hot Wax Sealing
 

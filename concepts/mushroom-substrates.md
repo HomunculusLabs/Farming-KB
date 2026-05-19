@@ -24,7 +24,7 @@ sources:
 - raw/papers/unknown-cultivation-of-fruitbodies-and-sclerotia.md
 ---
 
-# Mushroom Substrates
+## Mushroom Substrates
 
 The substrate is the material on which mushroom mycelium grows and from which fruiting bodies derive nutrients. Selecting and preparing the right substrate is the single most important factor in successful cultivation.
 

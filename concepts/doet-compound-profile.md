@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DOET (HECATE) — 2,5-Dimethoxy-4-Ethylamphetamine
+## DOET (HECATE) — 2,5-Dimethoxy-4-Ethylamphetamine
 
 ## Overview
 

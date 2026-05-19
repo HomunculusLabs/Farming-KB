@@ -7,7 +7,7 @@ sources: [papers/chos-global-natural-farming.md]
 updated: 2026-04-26
 ---
 
-# Fermented Plant Juice (FPJ) Preparation
+## Fermented Plant Juice (FPJ) Preparation
 
 Fermented Plant Juice (FPJ) is a fermented extract of a plant's sap and chlorophylls. It is a rich enzyme solution full of microorganisms such as lactic [[comparison-natural-farming-vs-permaculture]].
 

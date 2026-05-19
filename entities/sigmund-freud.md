@@ -5,7 +5,7 @@ type: entity
 tags: [person, psychologist, psychoanalyst, consciousness-studies]
 ---
 
-# Sigmund Freud
+## Sigmund Freud
 
 ## Description
 Sigmund Freud (1856–1939) was an Austrian neurologist and the founder of psychoanalysis. In *The Psychedelic Experience*, Timothy Leary references Freud as a point of contrast with Carl Jung, noting that Freud's intellectual foundations drew from Darwin, classical thermodynamics, Old Testament scholarship, and Renaissance cultural history — a narrower base than Jung's more expansive references. Despite this contrast, Leary credits Freud with the profound observation that "the ego was the true seat of anxiety."

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Broadscale Landscape Analysis and Slope Design
+## Broadscale Landscape Analysis and Slope Design
 
 Broadscale landscape analysis in [[permaculture]] treats the entire watershed as a design canvas, recognizing that water, soil, and biological systems connect high plateaus to low plains through predictable physical processes. Understanding these connections allows designers to place elements where they function most efficiently and where they contribute to the health of the whole system.
 

@@ -2,7 +2,7 @@
 title: "ectomycorrhizal-mushroom-fruiting-ecology fruiting-chamber-design-and-environmental-control"
 ---
 
-# Mushroom Fruiting Chamber Design
+## Mushroom Fruiting Chamber Design
 
 A fruiting chamber provides the environmental conditions necessary for
 mushroom casing-layer-materials-and-formulas must not dry out

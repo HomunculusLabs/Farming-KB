@@ -5,7 +5,7 @@ type: entity
 tags: [ethic, permaculture, community, philosophy, sustainability, lifestyle]
 ---
 
-# Voluntary Simplicity
+## Voluntary Simplicity
 
 ## Description
 

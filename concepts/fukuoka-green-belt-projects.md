@@ -9,7 +9,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
 
-# Green Belt Projects
+## Green Belt Projects
 
 Masanobu Fukuoka's green belt projects represent the global application of his [[fukuoka-living-soil]] community
 

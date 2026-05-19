@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Tremellales and Basidiomycete Mycoparasites
+## Tremellales and Basidiomycete Mycoparasites
 
 Mycoparasitism is particularly widespread among Heterobasidiomycetes (Urediniomycetes, Ustilaginomycetes, and phragmobasidial Hymenomycetes). This page covers the major basidiomycete groups involved in fungicolous interactions, with emphasis on the Tremellales.
 

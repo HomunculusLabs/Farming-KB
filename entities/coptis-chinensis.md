@@ -17,7 +17,7 @@ sources:
   - Tang, J. et al. (2009). "Antimicrobial activity of Coptis chinensis." Journal of Ethnopharmacology, 126(3), 510-513.
 ---
 
-# Coptis chinensis
+## Coptis chinensis
 
 ## Overview
 

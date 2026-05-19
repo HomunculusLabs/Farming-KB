@@ -16,7 +16,7 @@ sources:
   - Devine, W.D. & Harrington, C.A. (2007). "Restoration of Oregon white oak woodlands in the fungal-diversity-fire-ecology of Pacific Northwest Forests." Island Press, Washington, D.C.
 ---
 
-# Quercus garryana
+## Quercus garryana
 
 ## Overview
 

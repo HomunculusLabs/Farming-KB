@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Sweet Potatoes
+## Growing Sweet Potatoes
 
 Sweet potatoes are a warm-climate crop that demands completely different treatment than Irish potatoes. They prefer light, well-drained soils, need warm temperatures throughout their [[extending-growing-season]], and produce their edible tubers (technically root thickenings, not true tubers) in a spreading vine habit rather than in a compact hill. Understanding their unique requirements is essential for success.
 

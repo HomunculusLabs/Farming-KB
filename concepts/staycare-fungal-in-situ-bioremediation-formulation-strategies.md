@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungal In Situ Bioremediation Formulation Strategies
+## Fungal In Situ Bioremediation Formulation Strategies
 
 In situ [[cervantes-organic-amendments-chart]] alone can
 sometimes improve more than inoculation with specific

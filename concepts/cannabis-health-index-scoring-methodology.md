@@ -6,7 +6,7 @@ created: 2026-05-10
 source: ["uwe-blesching-the-cannabis-health-index.md"]
 ---
 
-# Cannabis Health Index Scoring Methodology
+## Cannabis Health Index Scoring Methodology
 
 The Cannabis Health Index (CHI) is an evidence-based compilation and rating system developed by Uwe Blesching, PhD, that evaluates the scientific literature on medical cannabis [[cannabis-health-index-chi-scoring-methodology-blesching]]: while over 15,000 scientific studies on cannabinoids exist in the U.S. National Library of Medicine (as of the book's publication), no systematic evidence-based model for the plant's safe and targeted use existed. The CHI fills this gap by:
 

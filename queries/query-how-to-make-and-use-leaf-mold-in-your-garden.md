@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Make and Use Leaf Mold in Your Garden
+## How to Make and Use Leaf Mold in Your Garden
 
 Leaf mold is one of the simplest and most underrated soil amendments available to any gardener. Unlike hot composting, which requires careful management of carbon-to-nitrogen ratios and regular turning, leaf mold is made through a slow, cool [[cervantes-powdery-mildew-prevention-treatment]] should be hot-composted instead, as the cool decomposition of leaf mold may not kill all pathogens.
 - **Leaves from pesticide-treated trees** — Avoid collecting leaves from trees that have been sprayed with systemic pesticides, as these chemicals can persist through decomposition.

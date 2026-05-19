@@ -7,7 +7,7 @@ tags: [regenerative, soil]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Mollison Arid Lands Water Harvesting and Erosion Control
+## Mollison Arid Lands Water Harvesting and Erosion Control
 
 Permaculture Two devotes significant attention to arid land strategies, particularly for Australian desert environments. The broad strategies of desert re-afforestation are well tested and can be applied wherever water is scarce.
 

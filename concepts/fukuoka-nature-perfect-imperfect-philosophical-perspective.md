@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Nature Perfect and Imperfect: Philosophical Perspective
+## Nature Perfect and Imperfect: Philosophical Perspective
 
 updated: 2026-04-18
 

@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Complete Organic Fertilizer (COF) Formula
+## Complete Organic Fertilizer (COF) Formula
 
 The Complete Organic Fertilizer (COF) is Steve Solomon's signature recipe for a balanced, slow-release organic fertilizer blend that provides all essential plant nutrients. Detailed in *Gardening When It Counts*, COF is designed to produce highly nutritious vegetables while maintaining soil health. Unlike chemical fertilizers that provide only NPK and some secondary nutrients, COF delivers a complete spectrum of minerals and trace elements.
 

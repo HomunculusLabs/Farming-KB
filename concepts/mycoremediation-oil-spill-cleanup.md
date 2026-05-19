@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mycoremediation Oil Spill Cleanup
+## Mycoremediation Oil Spill Cleanup
 
 Mycoremediation—the use of fungi to degrade or remove environmental contaminants—offers a promising biological approach to oil spill cleanup. Fungi possess [[fungal-extracellular-enzymes]] capable of breaking apart hydrocarbon molecules into smaller, more biodegradable units. This capability arises because hydrocarbons share structural similarities with lignin, the woody component of wood that many fungi naturally decompose. When fungi exhaust their primary food source, they adapt their enzymatic machinery to metabolize available hydrocarbons, typically within just a few weeks of exposure.
 

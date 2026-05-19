@@ -8,7 +8,7 @@ type: concept
 tags: [mycology, gymnopilus, neurotropic-fungi, cortinariaceae, identification, distribution]
 ---
 
-# Gymnopilus luteofolius
+## Gymnopilus luteofolius
 
 **Gymnopilus luteofolius**, the yellow-gilled gymnopilus, is a mushroom species
 in the family Cortinariaceae. It is one of approximately 15 species within the

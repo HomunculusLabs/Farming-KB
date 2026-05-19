@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis, plants]
 ---
 
-# Cannabis Male Plant Management
+## Cannabis Male Plant Management
 
 Male cannabis plants play an essential role in breeding programs but are
 typically removed from sinsemilla (seedless) crops. Managing males

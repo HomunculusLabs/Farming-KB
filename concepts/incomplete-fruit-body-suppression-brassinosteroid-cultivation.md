@@ -1,4 +1,8 @@
-# Incomplete Fruit Body Suppression via [[gaias-garden-sheet-mulching-composting-in-place]] on the substrate surface.
+---
+title: "Incomplete Fruit Body Suppression via gaias garden sheet mulching composting in place on the substrate surface."
+tags:
+  - concept
+---
 
 In normal cultivation conditions, abort rates of 10-30% are routinely observed across many species, with some particularly temperamental strains experiencing even higher proportions of failed fruit bodies.
 

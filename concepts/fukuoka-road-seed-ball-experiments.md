@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Seed Ball Experiments Worldwide
+## Fukuoka's Seed Ball Experiments Worldwide
 
 In [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] enclosing seeds) as a tool for large-scale revegetation of deserts and degraded lands. This technique is the practical bridge between his [[fukuoka-road-back-desert-reclamation]] — theoretical basis for [[fukuoka-road-observation-natures-patterns]] — understanding what seeds to use where
 

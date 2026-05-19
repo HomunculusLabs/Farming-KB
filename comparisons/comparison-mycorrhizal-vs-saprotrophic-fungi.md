@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Mycorrhizal Fungi vs Saprotrophic Fungi
+## Mycorrhizal Fungi vs Saprotrophic Fungi
 
 ## Overview
 Mycorrhizal and saprotrophic fungi represent two fundamentally different

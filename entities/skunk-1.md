@@ -7,7 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: ["domain-knowledge"]
 ---
-# Skunk #1
+## Skunk #1
 
 ## Overview
 - **Classification:** Hybrid (indica-dominant, approximately 65% indica / 35% sativa)

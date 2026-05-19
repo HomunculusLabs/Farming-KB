@@ -4,7 +4,7 @@ source: chos-global-natural-farming.md
 type: concept
 ---
 
-# Natural Farming: Water-Soluble Minerals, Seawater, and Brown Rice Vinegar
+## Natural Farming: Water-Soluble Minerals, Seawater, and Brown Rice Vinegar
 
 This concept covers Dr. Cho's water-soluble mineral inputs (WS-K, WS-P, WS-Ca, WS-CaPo), seawater and [[cho-seawater-and-fermented-seawater]], brown rice vinegar (BRV), yeast, and [[loess]] powder. These inputs provide essential mineral nutrition and [[cervantes-damping-off-seedling-disease-prevention]] without [[cannabis-chemical-fertilizers]].
 

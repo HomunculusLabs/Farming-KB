@@ -1,4 +1,8 @@
-# Addiction and Transcendence: Consciousness Expansion as Antidote
+---
+title: "Addiction and Transcendence: Consciousness Expansion as Antidote"
+tags:
+  - concept
+---
 
 ## Overview
 

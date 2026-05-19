@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Anti-Cancer Polysaccharides from Medicinal Mushrooms
+## Anti-Cancer Polysaccharides from Medicinal Mushrooms
 
 The main antitumour compounds isolated from [[medicinal-mushrooms]] have been identified as water-soluble β-D-glucans with heterosaccharide chains or β-D-glucan-protein complexes (proteoglycans). This concept explores the chemistry, [[arbuscular-mycorrhizal-spore-extraction-methods]], and structure-activity relationships of these bioactive polysaccharides.
 

@@ -5,7 +5,7 @@ tags: [mycology, mineralogy, biomineralization, geomicrobiology, fungal-ecology]
 created: 2026-05-09
 ---
 
-# Mycogenic Mineral Precipitation and Secondary Mineral Formation
+## Mycogenic Mineral Precipitation and Secondary Mineral Formation
 
 ## Overview
 

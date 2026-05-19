@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Macrobiotics
+## Macrobiotics
 
 Macrobiotics is a dietary and lifestyle philosophy originating from Japan, developed by George Ohsawa in the early 20th century and later refined by Michio Kushi. The word comes from Greek "macro" (long/large) and "bios" (life), emphasizing a way of eating and living that promotes longevity and health through balance.
 

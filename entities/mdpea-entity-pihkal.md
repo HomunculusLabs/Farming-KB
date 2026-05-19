@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MDPEA
+## MDPEA
 
 [[mescaline]], and even it is largely destroyed, as evidenced by the
 large amount needed for activity (a fraction of a gram). Sorry, I

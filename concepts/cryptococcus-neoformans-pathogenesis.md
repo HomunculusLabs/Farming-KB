@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Cryptococcus Neoformans Pathogenesis
+## Cryptococcus Neoformans Pathogenesis
 
 [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that causes life-threatening
 meningoencephalitis, particularly in immunocompromised individuals. It is one of the most

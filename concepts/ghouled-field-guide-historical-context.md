@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Ghouled Field Guide to the Psilocybin Mushroom - Historical Context
+## Ghouled Field Guide to the Psilocybin Mushroom - Historical Context
 
 The *Field Guide to the Psilocybin Mushroom* is a compact underground
 mycological manual written by F.C. Ghouled and published in 1972 by

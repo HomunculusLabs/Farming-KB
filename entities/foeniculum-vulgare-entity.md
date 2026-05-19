@@ -21,7 +21,7 @@ sources:
   - wiki/raw/papers/ (botanical, culinary, and medicinal references)
 ---
 
-# Foeniculum vulgare
+## Foeniculum vulgare
 
 **Foeniculum vulgare**, commonly known as **fennel**, is a hardy, perennial, aromatic herb in the family Apiaceae (Umbelliferae). Native to the Mediterranean region, it has become naturalized worldwide and is cultivated extensively for its culinary, medicinal, and aromatic uses. All parts of the plant — bulb, leaves, stems, flowers, and seeds — are utilized, and it holds a significant place in traditional medicine systems across many cultures.
 

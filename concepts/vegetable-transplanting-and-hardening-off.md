@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Vegetable Transplanting and Hardening Off
+## Vegetable Transplanting and Hardening Off
 
 Setting out healthy transplants at the right time and with proper
 technique is critical to success in [[solomon-row-covers-and-season-extension]]**: Spun-bonded polyester fabrics that allow

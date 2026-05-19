@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Pinoline, MAO Inhibitors, and Entheogenic Plant Combinations
+## Pinoline, MAO Inhibitors, and Entheogenic Plant Combinations
 
 ## Overview
 

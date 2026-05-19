@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
-# Fungal Roles in Mass Extinction Recovery The fossil record reveals a striking pattern repeated across Earth's major extinction events: in the aftermath of catastrophic ecological collapse, fungi become the dominant terrestrial life form. This fungal resurgence is not accidental — it represents a fundamental ecological mechanism by which [[comparison-mycorrhizal-vs-saprotrophic-fungi]] are uniquely equipped to exploit this resource. Their [[fungal-functional-diversity-decomposition]] of fungi encompasses multiple nutritional modes — saprotrophic, parasitic, and mutualistic — ensuring that some fungal species can thrive regardless of which parts of the ecosystem remain functional.
+## Fungal Roles in Mass Extinction Recovery The fossil record reveals a striking pattern repeated across Earth's major extinction events: in the aftermath of catastrophic ecological collapse, fungi become the dominant terrestrial life form. This fungal resurgence is not accidental — it represents a fundamental ecological mechanism by which [[comparison-mycorrhizal-vs-saprotrophic-fungi]] are uniquely equipped to exploit this resource. Their [[fungal-functional-diversity-decomposition]] of fungi encompasses multiple nutritional modes — saprotrophic, parasitic, and mutualistic — ensuring that some fungal species can thrive regardless of which parts of the ecosystem remain functional.
 
 ### Soil-Building Capacity
 

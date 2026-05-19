@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis Administration Methods Comparison
+## Cannabis Administration Methods Comparison
 
 The method of administration significantly affects the onset, duration, intensity, and character of cannabis's [[blesching-cannabis-health-index-autoimmune-conditions]] reviews multiple administration approaches, each with distinct advantages for different conditions and patient needs.
 

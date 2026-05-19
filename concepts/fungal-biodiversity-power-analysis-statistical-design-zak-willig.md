@@ -1,4 +1,8 @@
-# Power Analysis for Fungal Biodiversity Studies
+---
+title: "Power Analysis for Fungal Biodiversity Studies"
+tags:
+  - concept
+---
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical [[permaculture]] approach integrates building design with landscape strategies to
+## Tropical [[permaculture]] approach integrates building design with landscape strategies to
 achieve comfort without reliance on energy-intensive mechanical systems.
 
 ## Optimum Comfort Levels

@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Natural Livestock Farming and Open Grazing
+## Natural Livestock Farming and Open Grazing
 
 Fukuoka extends his [[spawn-production-techniques]]. But it is capital, not men,
 that today raises these animals. This is no longer the farmer's domain,

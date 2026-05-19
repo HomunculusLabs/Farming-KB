@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Organic Pest and Disease Management
+## Organic Pest and Disease Management
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Lawn Weed Management Through Soil Food Web
+## Lawn Weed Management Through Soil Food Web
 
 The presence of specific weeds in a lawn is not random — it is a direct indicator of soil
 conditions. Rather than fighting weeds with chemicals, [[the-soil-food-web]] approach addresses

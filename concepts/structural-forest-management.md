@@ -4,7 +4,7 @@ source: bill-[[mollison-course-coppice-forest-management|mollison]]-permaculture
 type: concept
 ---
 
-# [[structural-forest-design|Structural]] Forest Management and Coppice Systems
+## [[structural-forest-design|Structural]] Forest Management and Coppice Systems
 
 ## Overview
 

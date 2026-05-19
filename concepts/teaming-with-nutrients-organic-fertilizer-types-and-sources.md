@@ -13,7 +13,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Organic Fertilizer Types and Sources
+## Organic Fertilizer Types and Sources
 [[building-with-natural-materials]] that release nutrients slowly through
 biological [[organic-fertilizer-sources-guide]] allows
 gardeners to match materials to specific plant needs and soil conditions.

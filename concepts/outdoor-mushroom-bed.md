@@ -7,7 +7,7 @@ tags: [mushrooms, fungi, cultivation, gardening, permaculture, methods, ecology]
 sources: []
 ---
 
-# Outdoor Mushroom Bed Cultivation
+## Outdoor Mushroom Bed Cultivation
 
 Growing mushrooms in outdoor garden beds is the most low-tech, scalable approach to mushroom cultivation. It leverages natural weather cycles and requires minimal equipment compared to indoor methods. Outdoor beds are ideal for wood-decomposing and mulch-loving species, and they integrate directly into permaculture and homestead designs.
 

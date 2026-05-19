@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Passionflower vs Tulsi
+## Passionflower vs Tulsi
 
 ## Overview
 

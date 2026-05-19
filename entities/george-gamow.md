@@ -5,7 +5,7 @@ type: entity
 tags: [person, physicist, cosmologist, science]
 ---
 
-# George Gamow
+## George Gamow
 
 ## Description
 George Gamow (1904–1968) was a Russian-American theoretical physicist and cosmologist, cited by Timothy Leary in *The Psychedelic Experience* as providing a scientific viewpoint that closely parallels the phenomenological experience described by Tibetan lamas. Leary draws an explicit parallel between Gamow's "big squeeze" cosmological theory and the Buddhist concepts of the Unbecome, the Unborn, and the Unformed.

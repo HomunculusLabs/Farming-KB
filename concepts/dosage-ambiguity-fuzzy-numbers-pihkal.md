@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
 
-# Dosage Ambiguity and the Art of Fuzzy Numbers in PiHKAL
+## Dosage Ambiguity and the Art of Fuzzy Numbers in PiHKAL
 
 **Updated:** 2026-04-18
 

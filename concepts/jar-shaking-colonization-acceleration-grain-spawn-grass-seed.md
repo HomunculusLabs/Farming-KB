@@ -1,4 +1,8 @@
-# Jar Shaking for Mycelial Colonization Acceleration in Grain Spawn
+---
+title: "Jar Shaking for Mycelial Colonization Acceleration in Grain Spawn"
+tags:
+  - concept
+---
 
 ## Overview
 

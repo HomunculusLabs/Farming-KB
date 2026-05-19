@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Kochi Yellow Rice Borer Eradication Campaign
+## Kochi Yellow Rice Borer Eradication Campaign
 
 The yellow rice borer eradication campaign in Kochi Prefecture was a pivotal experience in Fukuoka's career as an agricultural scientist and a turning point in his journey toward [[fukuoka-critique-scientific-agriculture-civilization]].
 

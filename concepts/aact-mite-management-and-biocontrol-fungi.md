@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# AACT Mite Management and Biocontrol Fungi
+## AACT Mite Management and Biocontrol Fungi
 
 Mite management through compost tea relies on the same principles as other [[beneficial-insects-and-biological-pest-control]]: re-establishing the natural predator-prey and parasite-host relationships that keep pest populations in check. The approach emphasizes using local, indigenous organisms rather than broad-spectrum interventions.
 

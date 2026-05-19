@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Cold Climate Greenhouse updated: 2026-04-18 From: [[comparison-composting-toilets-vs-greywater-systems-detailed]] or animal pens, when properly treated through biological filtration systems, can supply both water and nutrients to greenhouse crops.
+## Cold Climate Greenhouse updated: 2026-04-18 From: [[comparison-composting-toilets-vs-greywater-systems-detailed]] or animal pens, when properly treated through biological filtration systems, can supply both water and nutrients to greenhouse crops.
 The integration of water storage, thermal mass, and nutrient recycling exemplifies the [[permaculture-principle-1-observe-interact]] of each element performing multiple functions.
 
 ## Climate-Specific Crop Selection

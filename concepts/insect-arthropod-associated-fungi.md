@@ -6,7 +6,7 @@ type: concept
 tags: mycology, fungi]
 sources: []
 ---
-# Insect and Arthropod-Associated Fungi — Biodiversity and Sampling
+## Insect and Arthropod-Associated Fungi — Biodiversity and Sampling
 
 Vast numbers of fungi are associated with insects and other arthropods,
 forming symbioses of various types including parasitism, mutualism,

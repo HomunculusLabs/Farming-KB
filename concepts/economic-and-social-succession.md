@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Economic and Social Succession
+## Economic and Social Succession
 
 Models of [[ecological-succession]] are not limited to biological systems — they provide powerful frameworks for understanding micro-economic and social change, as well as large-scale human cultural patterns. [[david-holmgren]] applies ecological succession theory to explain social phenomena ranging from back-to-the-land movements and gentrification to generational wealth cycles and the macro-dynamics of fossil-fuel-powered capitalism.
 

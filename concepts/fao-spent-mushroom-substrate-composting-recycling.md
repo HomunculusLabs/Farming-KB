@@ -1,4 +1,8 @@
-# Spent Mushroom Substrate Composting and Waste Recycling
+---
+title: "Spent Mushroom Substrate Composting and Waste Recycling"
+tags:
+  - concept
+---
 ## FAO Training Manual (2001) — Closed-Loop Waste Management
 
 The FAO's 2001 training manual [[accessible-mushroom-cultivation-for-disabilities]] generates several types of waste:

@@ -22,7 +22,7 @@ sources:
 - raw/papers/ramsbottom-poisonous-fungi-ramsbottom.md
 ---
 
-# John Ramsbottom
+## John Ramsbottom
 
 British mycologist at the British Museum (Natural History), authority on poisonous fungi, and author of the influential 1945 reference "Poisonous Fungi."
 

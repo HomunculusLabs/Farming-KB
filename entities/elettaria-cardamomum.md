@@ -16,7 +16,7 @@ sources:
   - "Gilani, A.H. et al. (2005). \"Species specific effect of cardamom on gastrointestinal motility.\" Phytotherapy Research, 19(5), 439-443."
 ---
 
-# Elettaria cardamomum (Cardamom)
+## Elettaria cardamomum (Cardamom)
 
 ## Overview
 

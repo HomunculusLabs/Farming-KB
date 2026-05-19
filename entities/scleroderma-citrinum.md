@@ -31,7 +31,7 @@ sources:
     Mycotaxon, 84, 331-345.
 ---
 
-# Scleroderma citrinum
+## Scleroderma citrinum
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
 
-# Seeding a Real Green Revolution
+## Seeding a Real Green Revolution
 
 In *The Road Back to Nature*, [[dighton-fungi-climate-change-feedback]] but because of human activity
 - Stopping desertification requires fundamentally different approaches than those currently being tried

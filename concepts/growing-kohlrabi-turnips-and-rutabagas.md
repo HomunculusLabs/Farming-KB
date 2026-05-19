@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Kohlrabi, Turnips, and Rutabagas
+## Growing Kohlrabi, Turnips, and Rutabagas
 
 These three crops are so similar that their cultural differences can be described together. All are medium-demand crops. All appear to be [[permaculture-plants-root-crops-and-tubers]] but kohlrabi is actually a swollen stem forming a ball-shaped vegetable. A steady supply of soil moisture is essential for all of these crops.
 

@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# TMA-4
+## TMA-4
 
 **[[tma-entity]] (3,4,5-).
 

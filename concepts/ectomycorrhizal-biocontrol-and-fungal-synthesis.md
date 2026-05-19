@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Ectomycorrhizal Biocontrol and the Synthesis of Fungal Roles in Primary Production
+## Ectomycorrhizal Biocontrol and the Synthesis of Fungal Roles in Primary Production
 
 ## Overview
 

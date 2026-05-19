@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Grow Room Electricity Basics
+## Grow Room Electricity Basics
 
 You don't need to understand the basics of electricity to grow indoors
 or in a greenhouse, but understanding the fundamentals will save you

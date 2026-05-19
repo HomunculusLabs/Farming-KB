@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Hemicellulose and Pectin Decomposition ## Overview Hemicellulose and pectin are major structural polysaccharides in plant cell walls that occupy the space between cellulose microfibrils and provide cross-linking with lignin. Their decomposition by fungi is a critical but often underappreciated component of [[fungal-cellulose-degradation]] or [[soil-edaphic-factors-microbial-communities]] often achieve
+## Fungal Hemicellulose and Pectin Decomposition ## Overview Hemicellulose and pectin are major structural polysaccharides in plant cell walls that occupy the space between cellulose microfibrils and provide cross-linking with lignin. Their decomposition by fungi is a critical but often underappreciated component of [[fungal-cellulose-degradation]] or [[soil-edaphic-factors-microbial-communities]] often achieve
 more complete decomposition of complex plant materials.
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.

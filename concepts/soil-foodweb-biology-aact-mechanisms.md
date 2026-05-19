@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Soil Foodweb Biology and AACT Mechanisms
+## Soil Foodweb Biology and AACT Mechanisms
 
 The soil foodweb is the interconnected community of organisms that inhabit soil — bacteria, fungi, protozoa, nematodes, microarthropods, and earthworms — and their interactions with each other and with plants. Understanding the soil foodweb is essential for understanding why [[actively-aerated-compost-tea]] (AACT) works, how to use it effectively, and how to manage soil health without reliance on chemical inputs. This concept explores the biological mechanisms through which AACT improves plant health, suppresses disease, and restores soil function.
 

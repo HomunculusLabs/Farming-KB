@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Overgrazing Versus Overrest
+## Overgrazing Versus Overrest
 
 One of the most revolutionary insights in Allan Savory's work is the
 recognition that overgrazing and overrest are two distinct and equally

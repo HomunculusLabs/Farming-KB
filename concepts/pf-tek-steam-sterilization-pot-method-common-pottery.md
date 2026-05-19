@@ -1,4 +1,8 @@
-# PF TEK Steam Sterilization: The Common Pot Method Without a Pressure Cooker
+---
+title: "PF TEK Steam Sterilization: The Common Pot Method Without a Pressure Cooker"
+tags:
+  - concept
+---
 
 ---
 created: 2026-05-08

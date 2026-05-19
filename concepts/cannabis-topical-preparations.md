@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Topical Preparations
+## Cannabis Topical Preparations
 
 ## Overview
 

@@ -1,11 +1,11 @@
 ---
 title: Blesching Molecules Emotions Expansive Constricting Neurotransmitters
 source: The blesching-cannabis-health-index-autoimmune-conditions (Blesching, 2015)
-source_path: /Users/t3rpz/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+source_path: raw/raw/papers/uwe-blesching-the-cannabis-health-index.md
 tags: [neurotransmitters, emotions, endocannabinoid-system, mind-body-medicine, psychoneuroimmunology, acetylcholine, serotonin, dopamine, cortisol, blesching]
 ---
 
-# Molecules of Emotion — Expansive vs Constricting Neurotransmitters
+## Molecules of Emotion — Expansive vs Constricting Neurotransmitters
 
 ## Overview
 

@@ -4,9 +4,9 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [remediation, environment]
-sources: [/Users/t3rpz/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
+sources: ["raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"]
 ---
-# Bioremediation: Fungal vs Bacterial Approaches
+## Bioremediation: Fungal vs Bacterial Approaches
 
 Scientists began using fungi and bacteria for the degradation of xenobiotic
 [[coleman-louis-savier-twentieth-century-maraicher]]. Bacteria showed

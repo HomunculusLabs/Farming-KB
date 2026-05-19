@@ -5,7 +5,7 @@ type: entity
 tags: [fish, aquaculture, freshwater, cichlid, permaculture]
 ---
 
-# Tilapia
+## Tilapia
 
 ## Description
 Tilapia is a common name for nearly a hundred species of cichlid fish from the tilapiine cichlid tribe. It is one of the most important freshwater food fish in tropical and subtropical aquaculture systems worldwide. In [[permaculture-design]], Tilapia is valued as a core species in pond polycultures due to its herbivorous feeding habits, rapid growth, and tolerance of a wide range of water conditions.

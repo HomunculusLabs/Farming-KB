@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
 type: concept
 ---
 
-# Turner on Ecstasy (MDMA): The Heart Opening Psychedelic
+## Turner on Ecstasy (MDMA): The Heart Opening Psychedelic
 
 ## Overview and Classification
 

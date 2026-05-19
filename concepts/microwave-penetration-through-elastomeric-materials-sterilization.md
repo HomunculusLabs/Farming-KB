@@ -1,4 +1,8 @@
-# Microwave Penetration Through Elastomeric Materials for [[microwave-sterilization]] through elastomers, the ideal material has:
+---
+title: "Microwave Penetration Through Elastomeric Materials for microwave sterilization through elastomers, the ideal material has:"
+tags:
+  - concept
+---
 - A relatively low loss tangent (to minimize energy absorption by the elastomer itself)
 - A dielectric constant that allows reasonable wave propagation (not too high, which would cause excessive reflection)
 

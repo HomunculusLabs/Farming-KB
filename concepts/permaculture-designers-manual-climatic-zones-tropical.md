@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, climate, tropics, humid-tropics]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Climatic Zones: Tropical
+## Climatic Zones: Tropical
 **Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
 ## Overview
 Chapter 10 of the Designers' Manual covers tropical and subtropical

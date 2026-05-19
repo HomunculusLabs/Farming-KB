@@ -17,7 +17,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Mycelial Nutrient Translocation Imaging
+## Mycelial Nutrient Translocation Imaging
 
 ## Overview
 

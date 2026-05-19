@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mycorrhizal Diversity and Ecosystem Function
+## Mycorrhizal Diversity and Ecosystem Function
 
 ## Overview
 

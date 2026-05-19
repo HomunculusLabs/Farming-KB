@@ -6,7 +6,7 @@ type: concept
 tags: [knf, natural-farming, bionutrients, fpj, fermentation, plant-extract, growth-promotant]
 sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 ---
-# Bionutrients Lab — Fermented Plant Juice (FPJ)
+## Bionutrients Lab — Fermented Plant Juice (FPJ)
 
 **Updated:** 2026-04-24
 

@@ -6,7 +6,7 @@ tags: [microbiome, cannabis, rhizosphere, rhizodeposition, two-tier-selection, s
 created: 2026-05-10
 ---
 
-# Rhizodeposition-Driven Microbial Filtering in Cannabis Rhizosphere
+## Rhizodeposition-Driven Microbial Filtering in Cannabis Rhizosphere
 
 ## Overview
 

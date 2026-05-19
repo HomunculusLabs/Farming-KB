@@ -8,7 +8,7 @@ type: entity
 sources: []
 ---
 
-# PsiD Enzyme
+## PsiD Enzyme
 
 The PsiD enzyme is a fungal enzyme that catalyzes a key step in the
 [[psilocybin-biosynthesis-pathway]] gene cluster found in

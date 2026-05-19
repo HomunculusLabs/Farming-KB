@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Microclimate Site Assessment
+## Microclimate Site Assessment
 
 Microclimate site assessment is the systematic [[permaculture-beginners-guide-observation-and-mapping]] of local climatic variations across a landscape. In [[permaculture-design]], understanding microclimates is essential because conditions can vary dramatically over short distances — even within a single property — due to differences in elevation, slope, vegetation, water features, and built structures. Accurate assessment allows the designer to place sensitive elements such as houses, gardens, and livestock shelters in the most favourable positions and to modify less favourable zones through intentional design interventions.
 

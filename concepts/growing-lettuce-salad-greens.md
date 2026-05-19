@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Growing Lettuce and Salad Greens
+## Growing Lettuce and Salad Greens
 
 Updated: 2026-04-18
 

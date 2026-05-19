@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [permaculture, ecological-design, sustainability, systems-thinking, green-building]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: ["raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"]
 type: concept
 ---
-# Ecological Design Principles [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
+## Ecological Design Principles [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
 
 The permaculture designer must understand that ecological design is
 about the whole life support infrastructure, as well as the quality of

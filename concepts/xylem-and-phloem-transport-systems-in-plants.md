@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Xylem and Phloem Transport Systems in Plants
+## Xylem and Phloem Transport Systems in Plants
 
 Plants have two parallel vascular transport systems that work in fundamentally different ways. The xylem moves water and dissolved nutrients upward (unidirectional), while the phloem transports sugars, amino acids, and [[savory-growing-season-and-non-growing-season-management]].
 

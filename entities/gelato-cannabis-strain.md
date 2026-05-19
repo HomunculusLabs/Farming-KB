@@ -18,7 +18,7 @@ sources:
   - "Mudge, E.M. et al. (2019). Phytochemical analysis of Cannabis sativa chemovars. J. Natural Products 82(8)."
 ---
 
-# Gelato (Cannabis Strain)
+## Gelato (Cannabis Strain)
 
 ## Overview
 

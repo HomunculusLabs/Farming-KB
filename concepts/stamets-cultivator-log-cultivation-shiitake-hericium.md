@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Log Cultivation for Shiitake and Wood-Loving Mushrooms
+## Log Cultivation for Shiitake and Wood-Loving Mushrooms
 
 Log cultivation is the traditional [[lentinan]], a water-soluble polysaccharide
 in L. edodes, was found to almost completely regress solid-type tumors

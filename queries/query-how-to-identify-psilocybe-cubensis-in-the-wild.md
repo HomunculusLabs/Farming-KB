@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md]
 type: query
 ---
-# How to Identify Psilocybe Cubensis in the Wild
+## How to Identify Psilocybe Cubensis in the Wild
 ## Short Answer
 Psilocybe cubensis is a dung-inhabiting [[comparison-spore-print-collection-vs-spore-syringe-production]], and growth
 directly on bovine manure in grassy fields.

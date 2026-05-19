@@ -5,7 +5,7 @@ tags: [mckenna, dmt, consciousness, cognitive-dissonance, wonder, translinguisti
 source: raw/papers/mckenna_t-tryptamines_consciousness.md
 ---
 
-# McKenna DMT Cognitive Dissonance and Wonder Response
+## McKenna DMT Cognitive Dissonance and Wonder Response
 
 ## Overview
 

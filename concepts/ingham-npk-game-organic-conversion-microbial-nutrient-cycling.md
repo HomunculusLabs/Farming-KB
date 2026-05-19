@@ -6,7 +6,7 @@ topics: NPK, soil-foodweb
 created: 2026-05-10
 ---
 
-# The NPK Game: Nutrient Conversion and Microbial Cycling
+## The NPK Game: Nutrient Conversion and Microbial Cycling
 
 ## Overview
 

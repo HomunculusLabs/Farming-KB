@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources:
   - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 ---
-# Enzymatic Degradation in Mycoremediation
+## Enzymatic Degradation in Mycoremediation
 
 The enzymatic machinery of fungi is central to their bioremediation capabilities. Three key extracellular enzymes produced by white-rot basidiomycetes -- [[fungal-manganese-peroxidase-remediation]] (MnP), and laccase -- form the core ligninolytic system that degrades a wide range of xenobiotic poll
 

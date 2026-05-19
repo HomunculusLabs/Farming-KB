@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Feijoa
+## Feijoa
 
 **Type:** Species (Plant)
 **Category:** Evergreen fruiting shrub

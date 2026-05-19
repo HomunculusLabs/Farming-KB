@@ -12,7 +12,7 @@ tags:
 created: 2026-05-07
 ---
 
-# Lycopodium clavatum
+## Lycopodium clavatum
 
 ## Overview
 

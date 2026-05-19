@@ -8,7 +8,7 @@ sources:
 created: 2026-05-08
 ---
 
-# [[shipibo-san-francisco-ceremonial-center-ucayali]]) widely regarded as an honorable man,
+## [[shipibo-san-francisco-ceremonial-center-ucayali]]) widely regarded as an honorable man,
 who held private family services where [[san-francisco-shipibo-ayahuasca-ceremonial-center]] tradition
 and serve multiple purposes:
 

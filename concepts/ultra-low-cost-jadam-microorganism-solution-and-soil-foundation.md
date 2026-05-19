@@ -9,7 +9,7 @@ sources: [~/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
 type: concept
 ---
 
-# JADAM Indigenous Microorganism Solution and Soil Foundation
+## JADAM Indigenous Microorganism Solution and Soil Foundation
 
 JADAM indigenous microorganism solution (JMS) is a cornerstone input in the
 JADAM [[cervantes-chemical-fertilizers-guide]], or chemical pesticides.

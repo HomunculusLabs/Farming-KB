@@ -8,7 +8,7 @@ sources: [raw/papers/chos-global-natural-farming.md]
 type: concept
 ---
 
-# Seed Diversity and Conservation in KNF
+## Seed Diversity and Conservation in KNF
 
 Seed diversity is a foundational concept in [[fukuoka-mu-economics-and-value-of-nothing-essay]]."
 

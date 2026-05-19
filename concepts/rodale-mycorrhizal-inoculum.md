@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/rodales-illustrated-encyclopedia-organic-gardening.md"
 ---
-# Rodale Mycorrhizal Inoculum Production
+## Rodale Mycorrhizal Inoculum Production
 
 The Rodale Institute, in partnership with the USDA, developed accessible systems for farmers and gardeners to produce their own [[coleman-deep-organic-farming-philosophy]] and gardening methods since it was established in 1947. Its founder, J. I. Rodale, was heavily influenced by the food-growing techniques of British [[compost-building-guide]]
 

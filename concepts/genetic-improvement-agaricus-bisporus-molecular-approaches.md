@@ -10,7 +10,7 @@ sources: [~/wiki/raw/papers/symbiotic-fungi.md]
 type: concept
 ---
 
-# Genetic Improvement of [[mushroom-polysaccharide-chemistry]]
+## Genetic Improvement of [[mushroom-polysaccharide-chemistry]]
 
 ## Applications and Use Cases
 

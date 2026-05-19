@@ -7,7 +7,7 @@ source: "Gartz, Adam & Vorbrodt (1990) — Naturwissenschaften 77, 388–389"
 aliases: [brassinosteroid mushroom growth, steroid enhanced fruiting psilocybe]
 ---
 
-# Brassinosteroid Effects on Psilocybe cubensis Mycelial Growth and Fruiting
+## Brassinosteroid Effects on Psilocybe cubensis Mycelial Growth and Fruiting
 
 ## Overview
 

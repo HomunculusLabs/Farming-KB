@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Village Infrastructure and Dwelling Design
+## Permaculture Village Infrastructure and Dwelling Design
 
 Infrastructure planning in [[permaculture]] villages follows the principle that life, work, and recreation should be integrated rather than segregated. This stands in direct contrast to modern urban zoning practices, which designate separate areas for industrial, commercial, residential, and recreational use — a pattern that creates enormous transport energy costs and social alienation. Permaculture [[integrated-land-management-and-village-design]] draws lessons from older cities that evolved in energy-conservative environments, where cultural, crafts, commercial, and domestic functions were naturally integrated.
 

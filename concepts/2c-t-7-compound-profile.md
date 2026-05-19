@@ -6,7 +6,7 @@ type: concept
 tags: [chemistry, 2c-family]
 sources: ["raw/papers/shulgin-a-pihkal.md"]
 ---
-# 2C-T-7 — 2,5-Dimethoxy-4-(n)-Propylthiophenethylamine
+## 2C-T-7 — 2,5-Dimethoxy-4-(n)-Propylthiophenethylamine
 
 ## Overview
 

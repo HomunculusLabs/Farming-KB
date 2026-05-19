@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Does Kombucha Brewing Work
+## How Does Kombucha Brewing Work
 
 ## Short Answer
 Kombucha is a [[bionutrients-lab-lactic-acid-bacteria-serum]] (primarily Acetobacter and Gluconobacter) and

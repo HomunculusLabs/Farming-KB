@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Heimia salicifolia
+## Heimia salicifolia
 
 **Heimia salicifolia** (H.B.K.) Link et Otto, commonly known as **Sinicuichi**, is a shrub native to the Americas that has been used for its auditory hallucinogenic properties since pre-Columbian times. It is one of the few plants known to produce primarily auditory rather than visual hallucinations.
 

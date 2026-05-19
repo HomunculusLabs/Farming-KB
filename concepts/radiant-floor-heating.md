@@ -7,7 +7,7 @@ tags: [energy, construction, homesteading, off-grid, design, engineering]
 sources: []
 ---
 
-# Radiant Floor Heating
+## Radiant Floor Heating
 
 Radiant floor heating warms a space by circulating heated fluid (hydronic) or electric current through elements installed in or beneath the floor. Heat radiates upward from the floor surface, warming objects and people directly rather than heating air. This creates even, comfortable warmth with lower operating temperatures than forced-air systems.
 

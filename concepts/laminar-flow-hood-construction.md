@@ -4,7 +4,7 @@ source: laminar-flow-hood-construction-1.md
 type: concept
 ---
 
-# Laminar Flow Hood Construction
+## Laminar Flow Hood Construction
 
 ## Overview
 

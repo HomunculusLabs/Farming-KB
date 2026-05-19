@@ -26,7 +26,7 @@ sources:
 type: query
 ---
 
-# How Do Epiphytes Survive Without Soil?
+## How Do Epiphytes Survive Without Soil?
 
 ## Quick Answer
 

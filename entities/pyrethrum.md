@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Pyrethrum (Tanacetum cinerariifolium)
+## Pyrethrum (Tanacetum cinerariifolium)
 
 ## Description
 

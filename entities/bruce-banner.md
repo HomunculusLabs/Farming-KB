@@ -24,7 +24,7 @@ sources:
   - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing over the last 2 decades." Biological Psychiatry, 79(7), 613–619.
 ---
 
-# Bruce Banner
+## Bruce Banner
 
 **Bruce Banner** (often designated **Bruce Banner #3** or **BB#3**) is a high-THC, sativa-dominant hybrid [[psilocybin-north-america-pacific-northwest]].
 

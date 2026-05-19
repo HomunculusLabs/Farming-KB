@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# What Are the Best Chicken Breeds for a Backyard Flock?
+## What Are the Best Chicken Breeds for a Backyard Flock?
 
 ## Short Answer
 

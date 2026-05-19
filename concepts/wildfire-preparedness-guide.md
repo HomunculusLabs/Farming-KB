@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Wildfire Preparedness Guide
+## Wildfire Preparedness Guide
 
 Wildfires are an escalating threat across [[guzman-psilocybin-mushrooms-north-america]], driven by decades of fire suppression, [[dighton-fungal-responses-climate-change]], and expanding wildland-urban interface. Homesteads in fire-prone regions face catastrophic risk, but advance preparation dramatically improves survival odds and property protection. This guide covers defensible space, structure hardening, evacuation planning, and recovery.
 

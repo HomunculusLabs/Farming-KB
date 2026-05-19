@@ -23,7 +23,7 @@ sources:
 type: query
 ---
 
-# How to Grow Chili Peppers from Seed to Harvest
+## How to Grow Chili Peppers from Seed to Harvest
 
 Chili peppers (*Capsicum* spp.) are warm-season crops in the nightshade family (Solanaceae) that range from sweet bell peppers to blazing-hot habaneros and superhots. They are rewarding to grow from seed, with enormous variety in shape, size, color, flavor, and heat. This guide covers the complete growing cycle for home gardeners.
 

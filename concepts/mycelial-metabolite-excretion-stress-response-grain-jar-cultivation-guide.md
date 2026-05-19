@@ -1,4 +1,8 @@
-# Mycelial Metabolite Excretion and Stress Response in Grain Jar Cultivation
+---
+title: "Mycelial Metabolite Excretion and Stress Response in Grain Jar Cultivation"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,6 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
-
-## See Also

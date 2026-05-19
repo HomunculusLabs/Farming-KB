@@ -7,7 +7,7 @@ tags: [reference]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Crop Rotation Benefits
+## Crop Rotation Benefits
 
 Crop rotation is the practice of growing different types of vegetables in different areas of the garden from year to year. It is one of the most fundamental principles of [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] into plots and moves three main crop groups around them over a three-year cycle. This ensures that at least two years elapse before any crop family returns to its original site.
 

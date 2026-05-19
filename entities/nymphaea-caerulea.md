@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Nymphaea caerulea
+## Nymphaea caerulea
 
 **Nymphaea caerulea**, commonly known as the blue lotus, blue water lily, or sacred blue lily of the Nile, is an aquatic perennial plant in the family Nymphaeaceae. It is native to the Nile River basin and other freshwater systems in East Africa. The plant holds profound significance in ancient Egyptian religion, art, and funerary practice, where it served as a symbol of creation, rebirth, the sun, and the origins of life itself. Its depictions are among the most recognizable motifs in all of Egyptian art.
 

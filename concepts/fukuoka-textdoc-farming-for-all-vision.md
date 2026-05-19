@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Farming for All: Vision of a Society of True Farmers
+## Farming for All: Vision of a Society of True Farmers
 
 Fukuoka's "Farming for All" program is his most ambitious social vision — a call for the
 revival of villages where people can return to the original form of nature and enjoy genuine

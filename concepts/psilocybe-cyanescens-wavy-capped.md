@@ -4,7 +4,7 @@ source: magic-mushrooms-around-the-world-by-jochen-gartz.md
 type: concept
 ---
 
-# Psilocybe cyanescens — Wavy-Capped Psilocybin Mushroom
+## Psilocybe cyanescens — Wavy-Capped Psilocybin Mushroom
 
 *[[psilocybe-cyanescens]]* is a potent psilocybin-containing mushroom distinguished by its intense blue-staining reaction, preference for woody substrates, and characteristic wavy, undulating cap margins. Originally described from Kew Gardens, England in 1946, it has since been found across much of Europe, North America, and parts of North Africa, establishing itself as one of the most widely distributed psychoactive *Psilocybe* species outside of the tropics.
 

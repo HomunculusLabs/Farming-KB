@@ -5,7 +5,7 @@ tags: [NMR, HMBC, NOESY, zwitterionic, phosphate-intermediate, psilocybin-synthe
 created: 2026-05-08
 ---
 
-# HMBC and NOESY NMR Analysis of Zwitterionic Phosphate Intermediate
+## HMBC and NOESY NMR Analysis of Zwitterionic Phosphate Intermediate
 
 ## Overview
 

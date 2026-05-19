@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# NFT vs Ebb and Flow
+## NFT vs Ebb and Flow
 
 Nutrient Film Technique (NFT) runs a thin film of aerated [[ebb-and-flow]] systems flood a grow table or tray with [[cannabis-nutrient-solution-preparation]]
 from a reservoir below, hold the flood for a set period, then drain back

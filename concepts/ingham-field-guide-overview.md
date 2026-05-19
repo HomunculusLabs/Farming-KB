@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Ingham Field Guide — Actively Aerated Compost Tea
+## Ingham Field Guide — Actively Aerated Compost Tea
 
 *The Field Guide I for Actively Aerated Compost Tea (AACT)* by Dr. Elaine R. Ingham (2001-2003, published 2004) is the definitive practical reference for making and applying [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and retention
 - Specific disease and [[compost-biology-soil-food-web-inoculation]] must be established and maintained for plant health

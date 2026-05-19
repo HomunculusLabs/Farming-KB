@@ -9,7 +9,7 @@ type: concept
 tags: [design, holzer]
 ---
 
-# Holzer Terraced Landscape Design
+## Holzer Terraced Landscape Design
 
 Terraces are a central feature of [[small-scale-intensive-food-systems-mollison]].
 - **Water retention**: Terraces store and hold moisture so that plants have access to rainwater and meltwater for longer.

@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Schizophyllan Cancer Clinical Trials
+## Schizophyllan Cancer Clinical Trials
 
 Schizophyllan (Sonifilan, Sizofiran, SPG) is [[salvinorin-a-kappa-opioid-receptor-pharmacology]] compounds
 

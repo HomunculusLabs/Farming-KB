@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 
-# Stacking Functions and Redundancy in Ecological Design
+## Stacking Functions and Redundancy in Ecological Design
 
 Toby Hemenway's explanation of two complementary [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] in case one fails, or maintaining sprinklers, [[gaias-garden-cover-crops-soil-building]]
 - gaias garden stacking functions

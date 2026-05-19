@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Livestock Drought Management
+## Livestock Drought Management
 
 In all arid and semi-arid areas, large livestock such as draft animals, milking cattle, and buffalo are at serious risk during drought. Without provision for drought feeding, small farmers may lose their basic draft and milk animals or be forced to sell them cheaply for slaughter. A [[pennisetum]] grasses
 - Palms

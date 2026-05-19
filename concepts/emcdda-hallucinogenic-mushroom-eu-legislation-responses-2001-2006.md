@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# EU Legislative Responses to Hallucinogenic Mushrooms 2001-2006
+## EU Legislative Responses to Hallucinogenic Mushrooms 2001-2006
 
 Between 2001 and 2006, six European Union member states tightened their legislation on hallucinogenic mushrooms containing [[smartshop-hallucinogenic-mushroom-market]] culture with an estimated 120 to 150 smartshops, moved to regulate the market more tightly. The Dutch Risk Assessment Report (CAM, 2000) had already been conducted, noting that hallucinogenic mushrooms tended to be used experimentally and that users generally discontinued after a few experiences. The Netherlands classified psilocybin-containing fungi under their narcotics legislation, though enforcement varied and mushrooms remained commercially available for several more years before a full ban was eventually implemented.
 

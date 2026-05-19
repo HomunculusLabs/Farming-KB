@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design, wildlife, habitat, corridors]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Wildlife Corridors
+## Wildlife Corridors
 **Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
 ## Overview
 Wildlife corridors are continuous strips of vegetation that connect larger

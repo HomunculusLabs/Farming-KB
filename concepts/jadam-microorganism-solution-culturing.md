@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
-# JADAM Microorganism Solution and Culturing Methods
+## JADAM Microorganism Solution and Culturing Methods
 ## Overview
 JADAM Microorganism Solution (JMS) is the cornerstone input of JADAM
 [[lactic-acid-bacteria]], yeast, actinobacteria, [[ingham-anaerobic-organisms-role-soil]] that benefit farming when applied

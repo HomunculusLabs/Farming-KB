@@ -20,7 +20,7 @@ sources:
   - "Hertzler, S.R. & Clancy, S.M. (2003). 'Kefir improves lactose digestion.' Journal of the American Dietetic Association, 103(5), 582-587."
 ---
 
-# Kefir and Water Kefir Cultivation
+## Kefir and Water Kefir Cultivation
 
 Kefir is one of the oldest known fermented milk beverages, originating in the Caucasus Mountains at least a millennium ago. The word likely derives from the Turkish *keyif*, meaning "feeling good" — a testament to the invigorating reputation this drink has carried through centuries of traditional use. Unlike yogurt, which is fermented by a relatively simple pairing of bacterial cultures, kefir is produced by a complex symbiotic community of bacteria and yeasts living together in a gelatinous matrix called a **kefir grain**.
 

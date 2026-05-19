@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Beneficial Fungi, Trichoderma, and Mycorrhizae in AACT
+## Beneficial Fungi, Trichoderma, and Mycorrhizae in AACT
 
 ## Overview
 

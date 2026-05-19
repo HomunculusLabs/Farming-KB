@@ -3,7 +3,7 @@ title: Fungal Discovery Methods
 created: 2026-04-28
 ---
 
-# Fungal Discovery Methods
+## Fungal Discovery Methods
 
 ## Traditional Field Surveys
 

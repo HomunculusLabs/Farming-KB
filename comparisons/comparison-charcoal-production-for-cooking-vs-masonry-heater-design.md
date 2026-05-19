@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Charcoal Production for Cooking vs Masonry Heater Design
+## Charcoal Production for Cooking vs Masonry Heater Design
 
 ## Overview
 

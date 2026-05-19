@@ -5,7 +5,7 @@ type: entity
 tags: [person, american, businessman, land-reform, french-market-gardening, england]
 ---
 
-# Joseph Fels
+## Joseph Fels
 
 ## Description
 

@@ -8,7 +8,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Leucaena
+## Leucaena
 
 **Type:** Species (Plant)
 **Category:** Nitrogen-fixing leguminous tree

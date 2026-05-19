@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# META-DOB
+## META-DOB
 
 [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[meta-dob-entity]]
 

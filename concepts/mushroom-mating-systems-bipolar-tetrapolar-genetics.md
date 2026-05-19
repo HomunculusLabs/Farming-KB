@@ -1,4 +1,8 @@
-# Mushroom Mating Systems: Bipolar and Tetrapolar Genetics
+---
+title: "Mushroom Mating Systems: Bipolar and Tetrapolar Genetics"
+tags:
+  - concept
+---
 
 Mushroom fungi (Basidiomycota) employ complex genetic mating systems that govern
 sexual reproduction, [[fungal-fruiting-body-formation-environmental-triggers]]. Understanding these systems is essential for mushroom
@@ -143,8 +147,3 @@ Successful integration of mushroom mating systems bipolar tetrapolar genetics in
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and

@@ -7,7 +7,7 @@ tags: [permaculture, design, survey, water, soil, climate, environment, patterns
 sources: []
 ---
 
-# Permaculture Site Analysis
+## Permaculture Site Analysis
 
 Site analysis is the essential first step in any permaculture design. Before placing a single element, the designer must thoroughly understand the land — its strengths, limitations, patterns, and potentials. This process aligns with the principle "observe and interact" and creates the foundation for "design from patterns to details."
 

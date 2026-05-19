@@ -5,7 +5,7 @@ tags: [botany, phototropism, auxin, plant-growth, light-responses, tropisms]
 created: 2026-05-09
 ---
 
-# Phototropism and Plant Light Responses
+## Phototropism and Plant Light Responses
 
 ## Overview
 

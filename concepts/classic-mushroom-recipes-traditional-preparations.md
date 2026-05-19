@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Classic Mushroom Recipes and Traditional [[agaricus-campestris]]*. The recipes demonstrate the remarkable versatility of the cultivated mushroom as an ingredient, ranging from simple breakfast preparations to elaborate French-inspired entrées. These recipes represent foundational techniques that remain relevant to modern mushroom cookery.
+## Classic Mushroom Recipes and Traditional [[agaricus-campestris]]*. The recipes demonstrate the remarkable versatility of the cultivated mushroom as an ingredient, ranging from simple breakfast preparations to elaborate French-inspired entrées. These recipes represent foundational techniques that remain relevant to modern mushroom cookery.
 
 ## Stuffed [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]] and vinegar. Cut up the cleansed mushrooms and mix with a dressing prepared as follows: to the yolk of one egg add a little oil and onion juice, a few drops of anchovy sauce (if convenient), vinegar, salt, pepper, and capers. Beat these together without forming a mayonnaise, and add this sauce to the mushrooms. Fill the caps with the dressing thus prepared. Prepare the day before serving for best flavor development.
 

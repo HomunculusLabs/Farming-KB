@@ -8,7 +8,7 @@ sources:
   - raw/papers/mycelium-running-stamets.md
 ---
 
-# Stamets' Patents
+## Stamets' Patents
 
 Key patents in mycotechnology — mycoremediation, mycofiltration, and mycopesticide applications. Compiled from *Mycelium Running* by [[paul-stamets]].
 

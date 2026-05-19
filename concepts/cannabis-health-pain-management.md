@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Cannabis and Pain Management
+## Cannabis and Pain Management
 
 For the last 5,000 years, cannabis has been used as an analgesic in
 nearly all [[psilocybin-isolation-and-early-scientific-research]] confirms that cannabis is safe and effective when

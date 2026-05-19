@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Free-Range Poultry Forage Systems Design
+## Free-Range Poultry Forage Systems Design
 
 Free-range poultry systems in [[permaculture]] integrate birds with multi-layered plant communities designed to supply year-round forage, eliminating or reducing the need for stored, husked grains. Mollison presents the most detailed poultry forage species list in permaculture literature, with integrated system design for homesteads.
 

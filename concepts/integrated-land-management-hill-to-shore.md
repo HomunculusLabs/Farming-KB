@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Integrated Land Management from Hill to Shore
+## Integrated Land Management from Hill to Shore
 
 Integrated land management is the practice of designing human settlements and productive systems across entire landscapes — from protected hilltop forests through cultivated slopes to coastal zones and marine environments. Drawing on traditional models like the Maori marae and Hawaiian ohana, this approach treats the landscape as a single geomorphic and ecological unit where every zone has defined functions and connections to the others.
 

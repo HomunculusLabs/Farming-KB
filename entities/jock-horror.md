@@ -10,7 +10,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Jock Horror
+## Jock Horror
 
 **Jock Horror** is a sativa-dominant cannabis strain renowned for its potent psychoactive effects, complex terpene profile, and prestigious genetic lineage. Developed by the Netherlands-based seed bank **Nirvana Seeds**, Jock Horror was bred as an enhancement of the legendary **Northern Lights #5 × Haze** hybrid — one of the most influential cannabis crosses in modern breeding history. The strain is widely cultivated by both commercial and medical growers for its high THC content, energetic cerebral effects, and distinctive aroma that blends pine, citrus, and earthy undertones.
 

@@ -16,7 +16,7 @@ sources:
   - Mazourek, M. (2015). "Diversity and domestication of Capsicum chinense." Horticultural Reviews.
 ---
 
-# Capsicum chinense
+## Capsicum chinense
 
 ## Overview
 

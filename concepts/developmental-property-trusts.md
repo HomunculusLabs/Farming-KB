@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Developmental and Property Trusts
+## Developmental and Property Trusts
 
 Developmental and property trusts are specialized legal instruments designed to purchase real estate for improvement, lease, or rental on behalf of many small investors who cannot afford to individually own or develop properties. In [[permaculture-design]], these trusts channel investment away from destructive industries (coal, oil, uranium, agrochemicals, mining) toward truly rehabilitative ends — reafforestation, preservation of existing forests, sane village development, and rehabilitation of eroded and misused lands.
 

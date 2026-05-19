@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Kaempferia galanga
+## Kaempferia galanga
 
 **Kaempferia galanga** L., commonly known as **Galanga**, is a short-stemmed herbaceous plant of the ginger family (Zingiberaceae) valued across tropical Asia both as a culinary spice and as a traditional medicine. There are vague but persistent reports of its use as a hallucinogen in New Guinea.
 

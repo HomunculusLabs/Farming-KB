@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Kelp Meal vs Basalt Rock Dust
+## Kelp Meal vs Basalt Rock Dust
 
 ## Overview
 

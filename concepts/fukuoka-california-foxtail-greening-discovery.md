@@ -8,7 +8,7 @@ sources: [masanobu-fukuoka-the-road-back-to-nature.md]
 type: concept
 ---
 
-# Fukuoka's California Foxtail Grass Greening Discovery
+## Fukuoka's California Foxtail Grass Greening Discovery
 
 During his 1979 visit to California, [[fukuoka-desert-greening-plant-irrigation]] and vegetation restoration. The insight came while
 working with young people at a commune in the Upper Lake hills, where

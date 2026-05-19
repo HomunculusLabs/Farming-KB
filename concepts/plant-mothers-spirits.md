@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 tags: [amazon, plant-spirits, animism, vegetalista, ethnobotany, plant-teachers]
 ---
 
-# Plant Mothers and Spirits
+## Plant Mothers and Spirits
 
 In [[pablo-amaringo]], the renowned Shipibo painter and former
 vegetalista, stated: "Every tree, every plant, has a spirit. People may

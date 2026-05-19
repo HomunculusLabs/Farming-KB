@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Tepary Bean (Phaseolus acutifolius)
+## Tepary Bean (Phaseolus acutifolius)
 
 ## Description
 

@@ -9,7 +9,7 @@ type: concept
 tags: [fukuoka, natural-farming]
 ---
 
-# Fukuoka Natural Farming Weed and Insect Philosophy
+## Fukuoka Natural Farming Weed and Insect Philosophy
 
 [[water-management]]"
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Arid [[water-pollution-contaminants-and-treatment|water]], extreme temperatures, and slow organic matter breakdown means that misapplication of fertilizers or pollutants has far more severe and longer-lasting consequences than in more forgiving environments. This page covers practical fertilization strategies, innovative planting techniques, and the critical dangers of chemical pollution in desert ecosystems.
+## Arid [[water-pollution-contaminants-and-treatment|water]], extreme temperatures, and slow organic matter breakdown means that misapplication of fertilizers or pollutants has far more severe and longer-lasting consequences than in more forgiving environments. This page covers practical fertilization strategies, innovative planting techniques, and the critical dangers of chemical pollution in desert ecosystems.
 
 ## Fertilization Philosophy for Arid Areas
 

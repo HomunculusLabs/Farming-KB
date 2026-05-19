@@ -16,7 +16,7 @@ sources:
   - The Alpine Garden Society. "Auriculas: History and Cultivation." alpinegardensociety.net.
 ---
 
-# Primula auricula
+## Primula auricula
 
 ## Overview
 

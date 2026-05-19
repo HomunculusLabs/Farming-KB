@@ -4,7 +4,7 @@ source: uwe-blesching-the-cannabis-health-index
 tags: [endocannabinoid, 2-AG, signaling, lipid, neurotransmission, homeostasis]
 ---
 
-# 2-AG (2-Arachidonoyl Glycerol) Endocannabinoid Signaling
+## 2-AG (2-Arachidonoyl Glycerol) Endocannabinoid Signaling
 
 ## Overview
 

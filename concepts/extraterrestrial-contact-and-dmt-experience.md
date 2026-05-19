@@ -5,11 +5,11 @@ tags: [extraterrestrial, dmt, seti, mckenna, ufo, alien-intelligence,
       consciousness]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-tryptamines_consciousness.md]
+sources: ["raw/papers/mckenna_t-tryptamines_consciousness.md"]
 type: concept
 ---
 
-# Extraterrestrial Contact and the DMT Experience
+## Extraterrestrial Contact and the DMT Experience
 
 [[the-logos-and-translinguistic-matter]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

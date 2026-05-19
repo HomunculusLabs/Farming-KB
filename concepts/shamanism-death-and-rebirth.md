@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Shamanism, Death, and Rebirth
+## Shamanism, Death, and Rebirth
 
 Shamanism is widely regarded as the oldest indigenous spiritual practice on Earth, with roots extending back tens of thousands of years. Archaeological evidence, including cave paintings depicting transformational figures and mushroom-iconography dating to the Paleolithic era, suggests that shamanic practices involving altered states of consciousness are among the most ancient forms of human religious expression. At its core, shamanic practice revolves around the death-and-rebirth experience — a psychospiritual ordeal in which the practitioner undergoes a symbolic or experiential dissolution of the ego, confronts mortality, and returns transformed with heightened insight and healing capacity. This initiatory process is not merely metaphorical; in traditional contexts, it is often facilitated by the ritual consumption of **entheogenic plants**, which induce profound altered states of consciousness that mimic or enact the experience of dying and being reborn.
 

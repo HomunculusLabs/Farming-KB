@@ -7,7 +7,7 @@ tags: [construction, design, water-management, ecology, permaculture, plants]
 sources: []
 ---
 
-# Green Roofs and Living Walls
+## Green Roofs and Living Walls
 
 Green roofs and living walls integrate vegetation into building envelopes, providing insulation, [[mollison-designers-cloudburst-and-stormwater-management]], biodiversity habitat, and aesthetic benefits. They are advanced [[water-management]] and [[gaias-garden-ecological-design-process-checklist]] techniques that connect buildings to natural systems.
 

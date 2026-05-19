@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
-# Windbreak and Shelterbelt Species Selection
+## Windbreak and Shelterbelt Species Selection
 
 Windbreaks and shelterbelts are rows of trees and shrubs planted to reduce wind speed, protect crops and livestock, prevent soil erosion, and provide additional yields such as timber, fodder, and wildlife habitat. Selecting the right species for each situation is critical to [[permaculture-multi-purpose-plants]] design.
 

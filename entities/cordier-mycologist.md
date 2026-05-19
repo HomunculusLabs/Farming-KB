@@ -5,7 +5,7 @@ type: entity
 tags: [person, mycologist, french, reference-authority]
 ---
 
-# Cordier (Mycologist)
+## Cordier (Mycologist)
 
 ## Description
 

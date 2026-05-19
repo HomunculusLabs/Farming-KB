@@ -16,7 +16,7 @@ sources:
   - Ollerton J et al. (2009). "A global test of the pollination syndrome hypothesis." Annals of Botany 103(9).
 ---
 
-# Stapelia gigantea
+## Stapelia gigantea
 
 ## Overview
 

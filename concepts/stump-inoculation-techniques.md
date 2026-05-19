@@ -8,7 +8,7 @@ type: concept
 tags: [sterile-technique]
 ---
 
-# Stump Inoculation Techniques
+## Stump Inoculation Techniques
 
 Stump inoculation is the practice of introducing beneficial mushroom mycelium into tree stumps after logging or tree removal. Rather than leaving stumps as waste or burning them, stump inoculation converts them into productive [[mycorrhizal-nutrient-transport]]
 - Wood debris is retained on-site rather than burned or exported, preserving the nutritional bank

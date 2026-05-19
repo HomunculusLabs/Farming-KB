@@ -7,7 +7,7 @@ tags: [amanita-muscaria, mycology]
 sources:
   - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
-# Amanita Genus Morphology
+## Amanita Genus Morphology
 
 The genus Amanita includes both the deadliest mushrooms known and well-known edible species. Understanding its morphology — particularly the volva, ring, and spore characteristics — is essential for safe [[ramsbottom-poisonous-fungi-toxins-and-symptoms]], [[ramsbottom-poisonous-fungi-toxins-and-symptoms]], where portions of the volva remain on the cap as irregular patches rather than distinct warts.
 

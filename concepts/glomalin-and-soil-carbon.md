@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Glomalin and Soil Carbon
+## Glomalin and Soil Carbon
 
 Glomalin is one of the most significant discoveries in soil science in recent decades. This glycoprotein, produced by [[holmgren-soil-humus-carbon-storage-rebuilding]], soil aggregation, and overall soil health. Its discovery in 1996 by USDA soil scientist Sarah Wright resolved a longstanding mystery about the nature of recalcitrant [[singh-fungal-roles-in-soil-aggregate-formation]] extends beyond glomalin to include physical hyphal entanglement and other binding mechanisms, but glomalin is the primary biochemical agent. As arbuscular mycorrhizal fungi grow through soil, they produce glomalin as a component of their cell walls and also secrete it into the surrounding soil environment. The sticky glycoprotein acts as a biological glue, binding individual mineral particles (sand, silt, and clay) together into larger aggregates.
 

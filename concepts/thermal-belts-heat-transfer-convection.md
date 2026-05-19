@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Thermal Belts, Heat Transfer, and Convection
+## Thermal Belts, Heat Transfer, and Convection
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Sclerotia Formation Biology in Mushrooms
+## Sclerotia Formation Biology in Mushrooms
 
 ## Overview
 

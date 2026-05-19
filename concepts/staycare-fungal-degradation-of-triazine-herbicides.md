@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycoremediation, herbicides, atrazine, triazines, phenoxyacetates]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+sources: ["raw/papers/staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Fungal Degradation of Triazine Herbicides
+## Fungal Degradation of Triazine Herbicides
 
 Triazine herbicides constitute one of the most widely used classes of
 herbicides globally, with atrazine and simazine being among the most

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/field-guide-to-the-psilocybin-mushroom.md"
 ---
 
-# Psilocybe medullosa
+## Psilocybe medullosa
 
 **Psilocybe medullosa** is a rare, little-known species of [[comparison-spore-print-collection-vs-spore-syringe-production]] dark purplish-brown to nearly black
 - Spores ellipsoid to subellipsoid in face view

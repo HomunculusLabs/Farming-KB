@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Plant Mineral Deficiency Diagnosis
+## Plant Mineral Deficiency Diagnosis
 
 ## Seasonal Nutrient Behaviour in Plants
 

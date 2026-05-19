@@ -7,7 +7,7 @@ tags: [psilocybin, mushrooms, cultivation, extraction]
 sources: [raw/papers/gottlieb-a-the-psilocybin-producers-guide.md]
 ---
 
-# Mycelial Broth Cultivation for Alkaloid Production
+## Mycelial Broth Cultivation for Alkaloid Production
 
 Mycelial broth cultivation is a method of growing mushroom mycelium in liquid nutrient media specifically for alkaloid harvest, bypassing the need to produce fruiting bodies entirely. This approach, detailed by Adam Gottlieb in *The Psilocybin Producers Guide* (1976), enables high-yield production of psilocybin and psilocin from any species capable of agar culture growth, including those that resist indoor fruiting.
 

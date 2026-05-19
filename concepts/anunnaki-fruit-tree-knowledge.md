@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Anunnaki and the Fruit of the Tree of Knowledge
+## Anunnaki and the Fruit of the Tree of Knowledge
 
 The Anunnaki narrative, drawn from Sumerian cuneiform tablets, presents a foundational mythos in which extraterrestrial beings from the star Sirius created humanity through genetic manipulation—and then suppressed the very knowledge that would liberate their creation. Within this framework, the "fruit of the tree of knowledge" forbidden to humans is interpreted as an entheogenic substance, and the entire drama of human spiritual oppression traces back to a cosmic conflict between two rival factions of these beings.
 

@@ -4,7 +4,7 @@ source: bill-mollison-[[permaculture-zone-two-orchard-and-animal-systems|permacu
 type: concept
 ---
 
-# Arid Zone Species Selection and Forage Systems
+## Arid Zone Species Selection and Forage Systems
 
 Selecting the right species for arid and semi-arid environments is critical to establishing self-sufficient settlements. Mollison provides comprehensive species lists based on field trials at Aboriginal settlements in central Australia, emphasizing multi-function plants that serve forage, food, shelter, and soil-building roles simultaneously.
 

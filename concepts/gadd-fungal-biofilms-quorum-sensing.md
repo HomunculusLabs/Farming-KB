@@ -7,7 +7,7 @@ tags: [fungi]
 sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Fungal Biofilms and Quorum Sensing
+## Fungal Biofilms and Quorum Sensing
 
 **Source:** Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006), Chapters 3, 10 (Read; Liu et al.)
 

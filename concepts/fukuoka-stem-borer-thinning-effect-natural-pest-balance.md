@@ -10,7 +10,7 @@ tags: [fukuoka, natural-farming, rice, pest-management, stem-borer, insect-balan
 aliases: [stem borer thinning, insect thinning effect, natural thinning rice]
 ---
 
-# Stem Borer Thinning Effect
+## Stem Borer Thinning Effect
 
 ## Overview
 

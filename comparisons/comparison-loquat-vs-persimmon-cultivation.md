@@ -12,7 +12,7 @@ sources:
 type: comparison
 ---
 
-# Loquat vs Persimmon Cultivation
+## Loquat vs Persimmon Cultivation
 
 A detailed comparison of two outstanding winter/spring fruiting trees for home orchards, food forests, and permaculture systems. See also [[permplant-persimmon-diospyros-kaki-fruit-tree]] for detailed variety recommendations and regional growing advice.*
 

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Ecosystem Services
+## Fungal Ecosystem Services
 
 Fungi provide a suite of essential ecosystem services that underpin the functioning of terrestrial and aquatic ecosystems. These services span nutrient cycling, primary production support, food web provisioning, population regulation, and environmental remediation. The magnitude of fungal intervention in ecosystem processes is substantial yet often underappreciated, in part because much of the activity occurs below ground and out of sight.
 

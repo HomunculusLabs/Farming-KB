@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Home Mushroom Laboratory Setup
+## Home Mushroom Laboratory Setup
 
 A milestone in any [[coprinus-atrementarius-entity-the-mushroom-cultivator]]'s development is the construction and maintenance of a sterile culture laboratory. Whether for personal use or small-scale commercial spawn production, a home lab enables complete control over every step of the cultivation process—from [[spore-germination-and-tissue-cloning]] through spawn expansion and strain storage. While hobby growers may prefer the convenience of ordering spawn from suppliers, serious cultivators eventually recognize that making their own spawn offers significant cost savings, freshness, and the ability to work with custom strains.
 

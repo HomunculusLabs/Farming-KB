@@ -4,7 +4,7 @@ created: 2026-05-10
 tags: [sterilization, microwave, water-dipole, 2450-mhz, dielectric-heating, nasa-msc-22484]
 ---
 
-# 2.45 GHz Microwave Water Dipole Coupling for Sterilization
+## 2.45 GHz Microwave Water Dipole Coupling for Sterilization
 
 ## Overview
 

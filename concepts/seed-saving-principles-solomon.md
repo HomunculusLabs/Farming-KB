@@ -8,7 +8,7 @@ sources:
   - "raw/papers/holzer-desert-or-paradise.md"
 ---
 
-# Seed Saving Principles (Solomon)
+## Seed Saving Principles (Solomon)
 
 Updated: 2026-04-18
 

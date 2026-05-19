@@ -13,7 +13,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-# Coprophilous Fungi
+## Coprophilous Fungi
 
 Coprophilous (dung-inhabiting) fungi represent one of the most diverse and specialized ecological guilds in the fungal kingdom. They colonize the dung of herbivorous mammals, birds, and other animals, playing critical roles in nutrient cycling and decomposition of herbivore waste.
 

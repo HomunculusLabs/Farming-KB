@@ -7,7 +7,7 @@ tags: [mycology, art-history, mushroom-myth, fly-agaric, ethnobotany]
 sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
-# The Plaincourault Fresco and Mushroom Myth
+## The Plaincourault Fresco and Mushroom Myth
 
 The fresco at the Chapel of Plaincourault in central France, depicting the
 temptation of Adam and Eve, has become one of the most enduring pieces of

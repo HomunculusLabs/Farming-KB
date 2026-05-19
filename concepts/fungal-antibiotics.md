@@ -7,7 +7,7 @@ tags: [mycology, fungi, chemistry, health, medicine, history, biology, lab-techn
 sources: []
 ---
 
-# Fungal Antibiotics
+## Fungal Antibiotics
 
 ## Overview
 

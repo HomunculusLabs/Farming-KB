@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Lichen Desiccation Tolerance — Symplastic Cavitation and Ice Nucleation
+## Lichen Desiccation Tolerance — Symplastic Cavitation and Ice Nucleation
 
 ## Overview
 

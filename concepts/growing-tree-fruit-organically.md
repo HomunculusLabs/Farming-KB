@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Growing Tree Fruit [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Codling moth, woolly aphid, canker, apple scab, [[comparison-central-leader-vs-open-center-fruit-tree-training]], train branches at 45-degree angles, tie to wires, shorten extension growth by half, repeat annually.
+## Growing Tree Fruit [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Codling moth, woolly aphid, canker, apple scab, [[comparison-central-leader-vs-open-center-fruit-tree-training]], train branches at 45-degree angles, tie to wires, shorten extension growth by half, repeat annually.
 
 **Pruning:** Prune in midsummer for established trees to avoid silver leaf disease infection.
 

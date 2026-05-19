@@ -8,7 +8,7 @@ sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Fungal Degradation of Synthetic Dyes
+## Fungal Degradation of Synthetic Dyes
 
 Synthetic dyes are widely used in textile dyeing, paper printing, colour
 photography, and petroleum products. Azo dyes, anthraquinone dyes,

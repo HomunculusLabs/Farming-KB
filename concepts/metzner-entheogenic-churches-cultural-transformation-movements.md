@@ -14,7 +14,7 @@ sources:
   - metzner-syncretic-entheogenic-churches-cultural-transformation-movement-metzner|entheogenic-churches-brazil-bwiti|metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
-# metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner|entheogenic Churches and Cultural Transformation Movements
+## metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner|entheogenic Churches and Cultural Transformation Movements
 
 Syncretic religious movements centered on metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner|entheogenic plant sacraments represent
 a significant development in the relationship between consciousness-altering

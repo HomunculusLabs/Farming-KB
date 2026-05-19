@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between Regular, Feminized, and Autoflower Seeds?
+## What Is the Difference Between Regular, Feminized, and Autoflower Seeds?
 
 ## Short Answer
 Regular seeds produce both male and female plants (approximately

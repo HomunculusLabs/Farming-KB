@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Natural Farming Philosophy of Mu
+## Natural Farming Philosophy of Mu
 
 The philosophy of Mu, meaning nothingness or non-action, is the intellectual and
 [[fukuoka-textdoc-do-nothing-movement-spiritual-foundation]] of [[fukuoka-textdoc-natural-order-food-chain-unity]], and that the path to

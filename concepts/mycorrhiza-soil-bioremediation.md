@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources: []
 ---
 
-# Mycorrhizal Associations in Soil Bioremediation
+## Mycorrhizal Associations in Soil Bioremediation
 
 Rhizoremediation — the use of plant root systems to facilitate degradation of
 soil contaminants — offers a low-cost, ecologically acceptable approach to

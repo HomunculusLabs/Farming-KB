@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
 type: concept
 ---
 
-# Holzer Tamera Water Landscape Project
+## Holzer Tamera Water Landscape Project
 
 The Tamera Peace Research Centre in southern Portugal is one of [[holzer-pivoting-monk-pond-drainage]]
   system to manage overflow.

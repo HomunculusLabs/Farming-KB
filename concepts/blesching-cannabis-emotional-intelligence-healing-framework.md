@@ -10,7 +10,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# Emotional Intelligence and the Healing Framework in Mind-Body Medicine
+## Emotional Intelligence and the Healing Framework in Mind-Body Medicine
 
 ## Overview
 

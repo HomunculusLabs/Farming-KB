@@ -14,7 +14,7 @@ created: 2026-04-28
 type: comparison
 ---
 
-# Grape vs Hardy Kiwi for Homestead Trellising
+## Grape vs Hardy Kiwi for Homestead Trellising
 
 Both grapes (*Vitis* spp.) and hardy kiwi (*Actinidia arguta*) are vigorous, perennial vines that excel on trellis systems, making them popular choices for homesteaders looking to maximize [[water-harvesting-and-conservation-in-permaculture]] circles for its exceptional vigor, shade production, and unique fruit.
 

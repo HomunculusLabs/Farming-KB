@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# BIS-TOM
+## BIS-TOM
 
 [[dom]] with a sulfur atom (to give 2-TOM) dropped
 the potency by a factor of 15x, and the replacement of the 5-position

@@ -5,7 +5,7 @@ source: "accessible-mushroom-cultivation-for-disabilities"
 created: 2026-05-09
 ---
 
-# PF TEK Mushroom Potency and Harvest Timing for Maximum Strength
+## PF TEK Mushroom Potency and Harvest Timing for Maximum Strength
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Coniophora puteana
+## Coniophora puteana
 
 **Coniophora puteana** is a basidiomycete fungus commonly known as the **cellar fungus** or **wet rot fungus**. It is one of the most economically significant wood-decay fungi in the built environment, causing a type of brown rot that can severely compromise the structural integrity of timber in buildings. Unlike its notorious relative *[[white-rot-fungi]], brown rot fungi do not extensively degrade lignin but do cause some chemical modification, including demethoxylation
 4. **Moisture Requirement:** The decay process requires a high wood moisture content, typically above 20 to 25 percent. Sources of moisture include plumbing leaks, rising damp, condensation, and poor ventilation

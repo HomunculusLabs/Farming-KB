@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Endophytic Fungal Diversity
+## Endophytic Fungal Diversity
 
 ## Overview
 

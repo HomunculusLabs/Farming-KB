@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources: [fanaticus-pf-tek-psilocybe-fanaticus]
 ---
 
-# Control Jar Sterility Verification for PF TEK
+## Control Jar Sterility Verification for PF TEK
 
 ## Overview
 

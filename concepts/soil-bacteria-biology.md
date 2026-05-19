@@ -5,7 +5,7 @@ type: concept
 tags: [bacteria, soil-biology, decomposition, biofilms, microbial-ecology]
 ---
 
-# Soil Bacteria Biology
+## Soil Bacteria Biology
 
 Bacteria are the most numerous organisms in soil and among the earth's primary decomposers. Understanding their biology, feeding strategies, and ecological roles is essential for anyone working with soil food webs.
 

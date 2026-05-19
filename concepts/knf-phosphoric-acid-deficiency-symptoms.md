@@ -8,7 +8,7 @@ sources: [chos-global-natural-farming.md]
 type: concept
 ---
 
-# KNF Phosphoric Acid [[plant-cell-structure-and-organelles]] and is fundamental to
+## KNF Phosphoric Acid [[plant-cell-structure-and-organelles]] and is fundamental to
    cellular structure and function.
 
 2. Absorbed phosphoric acid moves to the bud, root tip, or seed where

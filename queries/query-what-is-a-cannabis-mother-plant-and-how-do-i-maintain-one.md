@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is a Cannabis Mother Plant and How Do I Maintain One?
+## What Is a Cannabis Mother Plant and How Do I Maintain One?
 
 ## Short Answer
 A cannabis mother plant is a mature female kept in a perpetual vegetative state

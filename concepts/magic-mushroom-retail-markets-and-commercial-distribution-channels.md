@@ -6,7 +6,7 @@ created: 2026-05-09
 tags: [markets, retail, smartshops, internet, cultivation, distribution, europe]
 ---
 
-# Magic Mushroom Retail Markets and Commercial Distribution Channels
+## Magic Mushroom Retail Markets and Commercial Distribution Channels
 
 ## Overview
 

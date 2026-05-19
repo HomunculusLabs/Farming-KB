@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, ecology, reproduction, aerobiology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+sources: ["raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md"]
 type: concept
 ---
-# Fungal Spore Dispersal
+## Fungal Spore Dispersal
 
 Fungal spore dispersal is the process by which fungi spread their reproductive
 propagules to new locations, enabling colonization of fresh substrates and

@@ -6,7 +6,7 @@ date: 2026-05-09
 aliases: [Cannabis Rhizosphere, Root Zone Microbiology, Rhizodeposition]
 ---
 
-# Cannabis Rhizosphere Microbial Communities
+## Cannabis Rhizosphere Microbial Communities
 
 The rhizosphere is the narrow zone of soil immediately influenced by plant roots,
 typically extending a few millimeters from the root surface. In Cannabis, as in all

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Pathogens and Human Disease
+## Fungal Pathogens and Human Disease
 
 Fungal pathogens pose a significant but often underappreciated threat to
 human health. While bacteria and viruses receive far more public

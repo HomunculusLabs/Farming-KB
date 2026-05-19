@@ -19,7 +19,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Seasonal Garden Tasks Calendar
+## Seasonal Garden Tasks Calendar
 updated: 2026-04-18
 Gardening is far from an exact science, and the gardener who makes rules and sticks to them rigidly is bound to suffer disappointment. Of more concern are the existence of different regions with varying climatic conditions and soil types. These all [[composting-organic-garden]]; put outside if overwintered inside
 - Start spraying with insecticides or fungicides as necessary but never on open flowers

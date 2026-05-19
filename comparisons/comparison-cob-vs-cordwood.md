@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Cob vs Cordwood
+## Cob vs Cordwood
 
 [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] methods suited to owner-builders.
 

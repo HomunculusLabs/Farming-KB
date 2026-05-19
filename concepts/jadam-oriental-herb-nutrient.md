@@ -7,7 +7,7 @@ tags: [jadam, herb-nutrient, jhs, oriental-medicine, fertilizer]
 sources:
   - "raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"
 ---
-# JADAM Oriental Herb Nutrient
+## JADAM Oriental Herb Nutrient
 
 JADAM [[comparison-parasitoid-wasps-vs-chemical-pesticides]] that only kill, JHS provides measurable nutritional benefits including nitrogen, phosphorus, potassium, calcium, magnesium, and trace minerals.
 

@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Protected Cultivation — Row Covers and Low Tunnels
+## Protected Cultivation — Row Covers and Low Tunnels
 
 ## The Double-Layer Principle
 

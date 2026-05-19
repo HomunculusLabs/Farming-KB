@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [permaculture, holmgren, principles, ethics, design-framework]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: ["raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"]
 type: concept
 ---
-# [[natural-building-materials-guide]], design philosophies, and social norms. A good
+## [[natural-building-materials-guide]], design philosophies, and social norms. A good
 [[savory-holistic-resource-management-animal-impact]] issue. Almost
 any material can be re-used, recycled, or repurposed. The only limit
 is the imagination and skill of the designer. Waste is a choice and a

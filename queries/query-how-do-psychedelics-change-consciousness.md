@@ -10,7 +10,7 @@ sources:
   - concepts/information-paradigm-of-consciousness.md
 ---
 
-# How Do Psychedelics Change Consciousness?
+## How Do Psychedelics Change Consciousness?
 
 ## Short Answer
 

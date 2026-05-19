@@ -5,7 +5,7 @@ type: entity
 tags: [person, horticulture, market-gardening, history, 19th-century]
 ---
 
-# Peter Henderson
+## Peter Henderson
 
 ## Description
 

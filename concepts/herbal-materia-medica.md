@@ -6,7 +6,7 @@ type: concept
 tags: [herbalism, herbs, medicine]
 sources: []
 ---
-# Herbal Materia Medica
+## Herbal Materia Medica
 
 A materia medica is a comprehensive reference catalog of medicinal substances, documenting their botanical identification, active constituents, therapeutic actions, indications, contraindications, preparations, and [[herb-drug-interactions]] for detailed interaction information.
 

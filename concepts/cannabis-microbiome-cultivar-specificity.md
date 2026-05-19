@@ -4,7 +4,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
 
-# Cannabis Microbiome Cultivar Specificity
+## Cannabis Microbiome Cultivar Specificity
 
 **Source:** Winston et al. 2014, *PLoS ONE* 9(6):e99641
 

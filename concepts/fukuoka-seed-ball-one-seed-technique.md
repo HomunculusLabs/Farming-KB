@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Seed Ball One Seed Technique
+## Fukuoka Seed Ball One Seed Technique
 
 Updated: 2026-04-19
 

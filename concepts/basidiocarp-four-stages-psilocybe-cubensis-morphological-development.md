@@ -6,7 +6,7 @@ sources:
   - tropisms-in-the-mushroom-psilocybe-cubensis.md
 ---
 
-# Basidiocarp Developmental Stages in *Psilocybe cubensis*
+## Basidiocarp Developmental Stages in *Psilocybe cubensis*
 
 ## Overview
 

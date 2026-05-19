@@ -5,7 +5,7 @@ tags: [mckenna, stropharia-cubensis, psilocybin, spore, interstellar, panspermia
 source: raw/papers/mckenna_t-tryptamines_consciousness.md
 ---
 
-# Stropharia cubensis Spore Electron Density and Interstellar Survival
+## Stropharia cubensis Spore Electron Density and Interstellar Survival
 
 ## Overview
 

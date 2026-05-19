@@ -8,7 +8,7 @@ type: concept
 tags: [agar, sterile-technique]
 ---
 
-# Working with Agar: Pouring Plates and Sterile Technique
+## Working with Agar: Pouring Plates and Sterile Technique
 
 Pouring petri dishes is the critical step that bridges sterile media preparation
 and usable culture plates. The quality of the pour directly affects

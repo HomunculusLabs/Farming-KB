@@ -1,4 +1,8 @@
-# Row Covers and Physical Pest Exclusion Methods
+---
+title: "Row Covers and Physical Pest Exclusion Methods"
+tags:
+  - concept
+---
 **Source:** [[gardening-when-it-counts]] - [[steve-solomon]] gives particular attention to spun-fabric row covers as the most practical and versatile option for home gardeners, while also discussing cloches, hotcaps, and other traditional protective structures.
 
 ## Spun-Bonded Polyester Row Covers

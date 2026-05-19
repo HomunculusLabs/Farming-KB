@@ -13,7 +13,7 @@ sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md
 ---
 
-# Permaculture Broadscale No-Till Grain Production
+## Permaculture Broadscale No-Till Grain Production
 
 ## Fukuoka's Revolution in Grain Cultivation
 

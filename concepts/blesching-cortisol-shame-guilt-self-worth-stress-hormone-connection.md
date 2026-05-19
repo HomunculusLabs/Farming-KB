@@ -1,4 +1,8 @@
-# [[guilt-martyrdom-harbored-anger-as-health-hazards|Guilt]], and Self-Worth: The Stress Hormone Connection
+---
+title: "Guilt, and Self-Worth: The Stress Hormone Connection"
+tags:
+  - concept
+---
 
 **Source:** [[cannabis-health-index]]*
 **Concept:** How shame, guilt, and low self-worth chronically elevate cortisol and other stress hormones, and the "Giving Shame Back" technique for breaking the cycle.

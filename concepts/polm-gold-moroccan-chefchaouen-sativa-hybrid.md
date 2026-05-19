@@ -12,7 +12,7 @@ tags: [cannabis, sativa, morocco, chefchaouen, strain-profile, outdoor-growing, 
 aliases: [Polm Gold, Moroccan Chefchaouen, Chefchaouen Sativa]
 ---
 
-# Polm Gold
+## Polm Gold
 
 ## Overview
 

@@ -23,7 +23,7 @@ sources:
 - raw/chos-global-natural-farming.md
 ---
 
-# Han-Kyu Cho (Master Cho)
+## Han-Kyu Cho (Master Cho)
 
 > **Note:** Sources unavailable — content from model knowledge. Review and add sources.
 

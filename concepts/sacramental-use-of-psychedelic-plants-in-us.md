@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Sacramental Use of Psychedelic Plants in the United States
+## Sacramental Use of Psychedelic Plants in the United States
 
 Several bona fide religions use psychoactive plants as central
 sacraments in the United States. The legal status of these practices

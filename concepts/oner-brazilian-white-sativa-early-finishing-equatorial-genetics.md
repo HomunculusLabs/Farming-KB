@@ -7,7 +7,7 @@ wikilinks: durban-poison
 created: 2026-05-10
 ---
 
-# Brazilian White Sativa: Equatorial Early-Finishing Genetics
+## Brazilian White Sativa: Equatorial Early-Finishing Genetics
 
 ## Overview
 

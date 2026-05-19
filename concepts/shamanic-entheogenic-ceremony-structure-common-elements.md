@@ -8,7 +8,7 @@ related:
 created: 2026-05-09
 ---
 
-# Shamanic Entheogenic Ceremony Structure and Common Elements
+## Shamanic Entheogenic Ceremony Structure and Common Elements
 
 ## Overview
 

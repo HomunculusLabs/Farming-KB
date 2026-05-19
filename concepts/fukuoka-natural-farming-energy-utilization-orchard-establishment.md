@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Natural Farming Energy Utilization and Orchard Establishment
+## Fukuoka Natural Farming Energy Utilization and Orchard Establishment
 
 ## Energy Cycles in the Rice Paddy
 

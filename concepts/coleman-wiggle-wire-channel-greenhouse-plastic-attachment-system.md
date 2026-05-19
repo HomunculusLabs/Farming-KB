@@ -5,7 +5,7 @@ source_path: "raw/papers/eliot-coleman-winter-harvest-handbook.md"
 topics: [coleman, winter-harvest, greenhouse-design, wiggle-wire, lock-channel, poly-attachment, greenhouse-covering, plastic-fastening, season-extension]
 ---
 
-# Wiggle-Wire Channel: Greenhouse Plastic Attachment System
+## Wiggle-Wire Channel: Greenhouse Plastic Attachment System
 
 ## Overview
 

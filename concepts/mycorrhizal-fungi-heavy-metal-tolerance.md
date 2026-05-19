@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Fungi and Heavy Metal Tolerance
+## Mycorrhizal Fungi and Heavy Metal Tolerance
 
 [[mycorrhizal-fungi]] play a critical role in enabling plants to survive
 and thrive in soils contaminated with heavy metals. Through

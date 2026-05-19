@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# How Do I Stratify and Scarify Seeds for Better Germination?
+## How Do I Stratify and Scarify Seeds for Better Germination?
 
 ## Short Answer
 

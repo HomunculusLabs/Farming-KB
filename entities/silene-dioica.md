@@ -16,7 +16,7 @@ sources:
   - Carlsson-Graner U., Elmqvist T. (1992). "Disease dynamics in a population of Silene dioica." Oikos 64(2): 245-256.
 ---
 
-# Silene dioica (Red Campion)
+## Silene dioica (Red Campion)
 
 ## Overview
 

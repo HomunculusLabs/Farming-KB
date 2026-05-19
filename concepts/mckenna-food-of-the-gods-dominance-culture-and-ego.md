@@ -8,7 +8,7 @@ type: concept
 tags: [culture]
 ---
 
-# Dominance Culture and the Ego in Food of the Gods
+## Dominance Culture and the Ego in Food of the Gods
 
 In [[mckenna-dominator-culture-and-suppression-of-ecstasy]]" -- a hierarchical, paternalistic, materialistic, and male-dominated social organization that replaced earlier "partnership" models of human society. This framework draws heavily on Riane Eisler's The Chalice and the Blade and connects the evolution of the ego to the loss of plant-based visionary practices.
 

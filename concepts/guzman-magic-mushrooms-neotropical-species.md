@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, neotropical-fungi, psilocybin-mushrooms, mexico, south-america]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 type: concept
 ---
-# Neotropical Neurotropic Fungi of Central and South America ## Mexico: The Global Center of Neurotropic Fungal Diversity Mexico possesses the highest number of neurotropic species of any country, with 76 total species, of which 44 belong to [[gymnopilus-purpuratus]] spectabilis, G. lateritius, G. subpurpuratus
+## Neotropical Neurotropic Fungi of Central and South America ## Mexico: The Global Center of Neurotropic Fungal Diversity Mexico possesses the highest number of neurotropic species of any country, with 76 total species, of which 44 belong to [[gymnopilus-purpuratus]] spectabilis, G. lateritius, G. subpurpuratus
 - [[guzman-magic-mushrooms-habitat-ecology]] for ecological context
 ## Practical Applications
 

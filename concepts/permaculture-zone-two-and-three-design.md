@@ -4,7 +4,7 @@ source: "bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
-# Permaculture Zone Two and Three Design
+## Permaculture Zone Two and Three Design
 
 Zone Two and Zone Three form the productive backbone of a permaculture site. Zone Two is the intensively managed food-production area — the main crop gardens, orchards, and domestic animal systems that demand regular attention but not the daily intimacy of Zone One. Zone Three extends outward into broader-scale food forests, unpruned nut and fruit production, and grazing systems requiring only periodic management.
 

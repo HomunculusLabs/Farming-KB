@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe montana
+## Psilocybe montana
 
 **Psilocybe montana** is a small, inconspicuous psilocybin-containing mushroom found in arctic, alpine, and subarctic environments across the Northern Hemisphere. It is one of the most northerly-distributed psilocybin-containing species, recorded from Scandinavia, Iceland, Greenland, northern Russia, Canada, and alpine regions of the Rocky Mountains and European Alps. Despite its widespread distribution, it is rarely noticed due to its diminutive size and cryptic coloration. The species was originally described by **Persoon** and later validated by **Kummer**.
 

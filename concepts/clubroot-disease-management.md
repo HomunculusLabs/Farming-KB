@@ -7,7 +7,7 @@ tags: [troubleshooting, organic, gardening, pathogens, pest-control, vegetables]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Clubroot Disease Management
+## Clubroot Disease Management
 
 ## Overview
 

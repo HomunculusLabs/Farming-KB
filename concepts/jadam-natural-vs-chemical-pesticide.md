@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Natural vs Chemical Pesticide Distinction
+## JADAM Natural vs Chemical Pesticide Distinction
 
 ## Overview
 

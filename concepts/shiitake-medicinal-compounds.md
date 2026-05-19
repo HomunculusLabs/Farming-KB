@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Shiitake Medicinal Compounds
+## Shiitake Medicinal Compounds
 
 Lentinus edodes, the **shiitake mushroom**, is indigenous to Japan, China, and other Asian temperate climates. Found in the wild on fallen deciduous trees, it ranks as the second most cultivated mushroom worldwide (25.4% of total world production). Beyond its culinary value, shiitake is the source of two preparations with extensively studied pharmacological effects. In traditional Chinese medicine, it has been used from historical times for a wide range of ailments.
 

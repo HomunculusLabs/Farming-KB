@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Substrate Supplementation for Mushroom Cultivation
+## Substrate Supplementation for Mushroom Cultivation
 
 Supplementing [[falconer-growing-mushrooms-in-sheds]] listed in
 Stamets' work favor mushroom mycelium and are nitrogen-poor.

@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# The Winter Harvest Handbook
+## The Winter Harvest Handbook
 
 *The Winter Harvest Handbook: Year-Round [[coleman-french-historical-winter-vegetable-production]] Using Deep-Organic Techniques and Unheated Greenhouses* by Eliot Coleman, published by [[chelsea-green-publishing]] (2009), is the definitive guide to growing and selling fresh organic vegetables through the winter in cold climates using unheated or minimally heated movable plastic greenhouses. The book represents the culmination of Coleman's decades of experimentation at [[four-season-farm]] in Harborside, Maine.
 

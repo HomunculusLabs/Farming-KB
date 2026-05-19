@@ -7,7 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: ["Leafly Strain Database", "AllBud blesching-cannabis-strain-selection-receptor-targeting Reviews", "Wikileaf Strain Information"]
 ---
-# Banana Kush
+## Banana Kush
 ## Overview
 Banana Kush is an indica-dominant [[cannabis-terpene-profile]]. Ghost OG contributes the strain's body-
   heavy relaxation, couch-lock potential, and stress-relieving properties.

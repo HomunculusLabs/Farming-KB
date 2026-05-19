@@ -10,7 +10,7 @@ sources:
   - "General oner-cannabis-breeding-fundamentals and cultivation knowledge"
 ---
 
-# OG Kush
+## OG Kush
 
 OG Kush is a legendary cannabis strain that originated in Southern California during the early 1990s and became the genetic backbone of modern West Coast [[hindu-kush]] or Lemon Thai pollinator — OG Kush is renowned for its potent, sedating euphoria, distinctive fuel-citrus-pine aroma, and extraordinary influence on contemporary cannabis breeding. The "OG" designation is variously interpreted as "Ocean Grown" (a reference to its coastal California origins) or "Original Gangster" (a nod to its status as a foundational, elite cultivar). OG Kush has served as a parent or ancestor to hundreds of named cultivars includ girl scout cookies kies, Headband, Skywalker, and countless "OG" variants, making it arguably the most genetically influential cannabis strain of the 21st century.
 

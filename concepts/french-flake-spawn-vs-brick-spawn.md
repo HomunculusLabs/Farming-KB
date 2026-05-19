@@ -5,7 +5,7 @@ source: william-falconer, Mushrooms: How to Grow Them (1891)
 tags: [mushroom-spawn, brick-spawn, flake-spawn, french-spawn, english-spawn, spawn-making, historical-mycology]
 ---
 
-# French Flake Spawn Versus English Brick Spawn
+## French Flake Spawn Versus English Brick Spawn
 
 ## Two Traditions of mushroom-spawn was produced and traded in two fundamentally different forms.
 

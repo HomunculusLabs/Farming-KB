@@ -18,7 +18,7 @@ sources:
   - Nagatsu, A. et al. (1995). "Platelet activating factor (PAF) antagonists from Platycodon grandiflorus." Chemical & Pharmaceutical Bulletin, 43(3), 484-486.
 ---
 
-# Platycodon grandiflorus
+## Platycodon grandiflorus
 
 ## Overview
 

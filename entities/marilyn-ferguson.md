@@ -10,7 +10,7 @@ occupation: [author, journalist, editor, social commentator]
 known_for: [The Aquarian Conspiracy, consciousness movement, brain/mind bulletin, paradigm shift theory]
 ---
 
-# Marilyn Ferguson
+## Marilyn Ferguson
 
 Marilyn Ferguson (1938–2008) was an American author and journalist
 best known for *The Aquarian Conspiracy* (1980). The book

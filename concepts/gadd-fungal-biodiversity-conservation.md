@@ -8,7 +8,7 @@ tags: [biology, fungi]
 updated: 2026-04-26
 ---
 
-# Fungal Biodiversity and Conservation
+## Fungal Biodiversity and Conservation
 
 ## Overview
 

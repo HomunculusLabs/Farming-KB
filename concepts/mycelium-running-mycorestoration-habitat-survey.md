@@ -8,7 +8,7 @@ sources: [mycelium-running-stamets.md]
 type: concept
 ---
 
-# Mycorestoration Habitat Survey and Strategy
+## Mycorestoration Habitat Survey and Strategy
 
 ## Overview
 

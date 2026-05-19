@@ -8,7 +8,7 @@ sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 type: concept
 ---
 
-# French Intensive Bed Method
+## French Intensive Bed Method
 
 The French intensive bed method is a historical approach to vegetable
 production that Eliot Coleman has adapted and refined for year-round

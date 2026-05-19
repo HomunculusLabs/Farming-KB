@@ -1,4 +1,8 @@
-# Psilocybe Cubensis Fruiting Timeline and Flush Patterns on Dung-Grain Substrate
+---
+title: "Psilocybe Cubensis Fruiting Timeline and Flush Patterns on Dung-Grain Substrate"
+tags:
+  - concept
+---
 
 ## Overview
 

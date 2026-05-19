@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungi and Acidifying Pollutants in Forest Ecosystems
+## Fungi and Acidifying Pollutants in Forest Ecosystems
 
 The interaction between acidifying pollutants and fungi provides a case
 study in the evolution of [[mckenna-caffeine-coffee-and-industrial-revolution]] in Europe, sulfur dioxide released

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
-# Organic Mulching Techniques
+## Organic Mulching Techniques
 
 Mulching involves spreading a layer of [[cervantes-pest-disease-prevention-overview]]:** Keeps fruit off the soil (straw under strawberries, bark under tomatoes)
 - **Pest deterrence:** Pine bark mulch deters slugs; rough mulches deter certain soil pests

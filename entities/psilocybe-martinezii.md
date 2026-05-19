@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, mexico, psilocybe, section-mexicanae, hallucinogenic-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
+sources: ["raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md"]
 ---
 
-# Psilocybe martinezii
+## Psilocybe martinezii
 
 **Psilocybe martinezii** is a psilocybin-containing mushroom in the family Hymenogastraceae, originally described from the state of Oaxaca in southern Mexico. The species was first collected by the Mexican mycologist gastón-guzmán and named in honor of a local collector who assisted with fieldwork in the region. It belongs to [[psilocybe-tampanensis-entity]], and psilocybe atlantis, all of which share a preference for subtropical to tropical environments and produce sclerotia (hardened masses of mycelium) under certain conditions. The taxonomic position within this section is supported by both morphological characters (spore shape, cystidia morphology, habitat) and molecular phylogenetic data. Some molecular studies have suggested that section Mexicanae may be polyphyletic, but psilocybe martinezii consistently clusters with other Mexican members of the group.
 

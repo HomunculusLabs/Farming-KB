@@ -5,7 +5,7 @@ type: entity
 tags: [species, genus, chenopodiaceae, salt-tolerant, bluebush, dryland, forage, australia, permaculture]
 ---
 
-# Maireana (Bluebush)
+## Maireana (Bluebush)
 
 ## Description
 

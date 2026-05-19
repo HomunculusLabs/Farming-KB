@@ -8,7 +8,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
-# Fukuoka on Agricultural Pollution and Consumer Culpability
+## Fukuoka on Agricultural Pollution and Consumer Culpability
 
 In Book III of *The One-Straw Revolution*, Masanobu Fukuoka addresses the root causes of agricultural pollution, arguing that both producers and consumers share responsibility, and that technical fixes only create worse problems.
 

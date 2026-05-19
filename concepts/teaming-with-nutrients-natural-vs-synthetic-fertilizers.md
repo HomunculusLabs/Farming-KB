@@ -7,7 +7,7 @@ tags: [fertilizer, soil-science, organic-gardening, soil-food-web, compost, plan
 sources: [raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md]
 ---
 
-# Natural vs Synthetic Fertilizers
+## Natural vs Synthetic Fertilizers
 
 updated: 2026-04-21
 

@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Cannabis for Libido Enhancement
+## Cannabis for Libido Enhancement
 
 Cannabis has a long historical association with sexual arousal and has been
 used as an aphrodisiac across numerous cultures for centuries. The Cannabis

@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe singeriana
+## Psilocybe singeriana
 
 **Psilocybe singeriana** is a bluing psilocybin-containing mushroom species named in honor of the eminent mycologist Rolf Singer. It is a lesser-known tropical species within the Psilocybe genus.
 

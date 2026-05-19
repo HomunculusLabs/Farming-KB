@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Identify the Most Common Edible Wild Mushrooms?
+## How Do I Identify the Most Common Edible Wild Mushrooms?
 
 ## Short Answer
 The most common edible wild mushrooms include chanterelles, morels, porcini,

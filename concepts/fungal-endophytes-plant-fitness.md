@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi, endophytes, plant-biology, symbiosis]
 sources: []
 ---
-# Fungal Endophytes and Plant Fitness
+## Fungal Endophytes and Plant Fitness
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Environmental Requirements — Temperature, Moisture, and Light
+## Mushroom Environmental Requirements — Temperature, Moisture, and Light
 
 ## Overview
 

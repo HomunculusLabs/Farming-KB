@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Mushroom and Toadstool Identification Myths
+## Mushroom and Toadstool Identification Myths
 
 ## Overview
 

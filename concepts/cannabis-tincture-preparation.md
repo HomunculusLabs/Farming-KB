@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis, medicine-making]
 ---
 
-# Cannabis Tincture Preparation
+## Cannabis Tincture Preparation
 
 ## Overview
 

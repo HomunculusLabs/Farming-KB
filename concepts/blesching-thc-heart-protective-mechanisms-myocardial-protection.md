@@ -7,7 +7,7 @@ type: concept
 created: 2026-05-09
 ---
 
-# THC Heart-Protective Mechanisms — Myocardial Protection and Bronchodilation
+## THC Heart-Protective Mechanisms — Myocardial Protection and Bronchodilation
 
 ## Overview
 

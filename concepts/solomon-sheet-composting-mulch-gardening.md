@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Sheet Composting and Mulch Gardening
+## Sheet Composting and Mulch Gardening
 
 Steve Solomon evaluates two popular [[solomon-complete-organic-fertilizer-guide]].
 

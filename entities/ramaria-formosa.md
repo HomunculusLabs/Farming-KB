@@ -18,7 +18,7 @@ sources:
   - "Schild, E. et al. (1998). \"Toxins of Ramaria formosa.\" Mycological Research, 102(2), 247-251."
 ---
 
-# Ramaria formosa (*Pers.) Quél.*)
+## Ramaria formosa (*Pers.) Quél.*)
 
 ## Overview
 

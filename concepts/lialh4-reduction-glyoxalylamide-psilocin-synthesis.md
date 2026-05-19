@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Lithium Aluminum Hydride Reduction of Glyoxalylamide to Psilocin
+## Lithium Aluminum Hydride Reduction of Glyoxalylamide to Psilocin
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Kitchen Composting and Vermicomposting
+## Kitchen Composting and Vermicomposting
 
 Updated: 2026-18-04
 

@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# Aphid (Greenhouse Management)
+## Aphid (Greenhouse Management)
 
 ## Description
 

@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Medicinal Plant Guide for Permaculture
+## Medicinal Plant Guide for Permaculture
 
 Permaculture systems can produce a wide range of medicinal plants for both human and animal health. This guide covers two categories from "Permaculture Plants: A Selection": [[mollison-designers-bee-forage-tree-planting]], or structural plants, embodying the permaculture principle of multiple functions.
 

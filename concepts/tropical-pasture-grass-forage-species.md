@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Pasture Grass and Forage Species
+## Tropical Pasture Grass and Forage Species
 
 Tropical pastures form the foundation of livestock enterprises in warm climates. Selecting appropriate grass and forage species requires understanding rainfall zones, soil types, [[desert-temperature-regimes-and-soil-chemistry]], and integration with tree crop systems. A mixture of legumes with selected grass species plus storable forage is ideal for the tropics.
 

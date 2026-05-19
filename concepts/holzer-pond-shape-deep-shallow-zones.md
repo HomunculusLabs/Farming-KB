@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
 type: concept
 ---
 
-# Holzer Pond Shape - Deep and Shallow Zones, Fridge Effect, and Wind
+## Holzer Pond Shape - Deep and Shallow Zones, Fridge Effect, and Wind
 
 The correct shape of a pond or lake is essential for creating a self-regulating
 aquatic ecosystem. Holzer's approach to pond shaping creates the "fridge

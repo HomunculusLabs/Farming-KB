@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cloud Seeding and Orographic Rainfall Enhancement
+## Cloud Seeding and Orographic Rainfall Enhancement
 
 Humanity is not powerless in the matter of increasing local moisture. Through cloud seeding, strategic forest placement, and earthworks, significant increases in precipitation can be achieved in areas subject to rainless cloud masses. These techniques range from high-technology interventions to simple landscape modifications that harness orographic effects.
 

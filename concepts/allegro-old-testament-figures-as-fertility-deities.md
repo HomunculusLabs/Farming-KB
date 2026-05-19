@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Old Testament Figures as Fertility Deities
+## Old Testament Figures as Fertility Deities
 
 Allegro extends his cryptographic analysis to the major figures of the Old Testament, arguing that patriarchs, prophets, and heroes are not historical persons but personifications of the [[african-mushroom-cult-history]] from Sumer westward. The covenant of circumcision (Gen 17:9-14) is a literalized version of the mushroom's phallic significance — the cutting of the foreskin mirrors the mushroom's emergence from its volva.
 

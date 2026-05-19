@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Jar Shaking and Grain Redistribution for Mycelial Colonisation
+## Jar Shaking and Grain Redistribution for Mycelial Colonisation
 
 Shaking colonised grain jars to redistribute mycelium-bearing kernels among
 uncolonised grain is one of the simplest yet most impactful techniques in

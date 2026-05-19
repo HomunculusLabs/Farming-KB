@@ -9,7 +9,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Diet Design and Sustainable Food Self-Sufficiency
+## Diet Design and Sustainable Food Self-Sufficiency
 
 The [[mycorrhizal-agricultural-practices]] require 7,000 to 63,000 square feet per person
 - GROW BIOINTENSIVE can feed one person on 4,000 square feet at intermediate yields

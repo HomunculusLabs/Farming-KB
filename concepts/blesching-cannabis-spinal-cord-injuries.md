@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Spinal Cord Injuries
+## Cannabis and Spinal Cord Injuries
 
 ## Overview
 

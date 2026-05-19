@@ -21,7 +21,7 @@ sources:
 - raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md
 ---
 
-# Mushroom Log Cultivation
+## Mushroom Log Cultivation
 
 Growing mushrooms on freshly cut hardwood logs -- a low-tech, sustainable method that mimics natural wood decomposition. Yields gourmet and [[anti-cancer-polysaccharides-from-medicinal-mushrooms]] over multiple years with minimal infrastructure.
 

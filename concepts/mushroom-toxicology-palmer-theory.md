@@ -7,7 +7,7 @@ tags: [mushrooms, biology, medicine]
 sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 ---
 
-# Mushroom Toxicology — Palmer's Theory
+## Mushroom Toxicology — Palmer's Theory
 
 Julius Palmer's pioneering (if partially mistaken) theory of fungal poison absorption, based on self-experimentation and case reports from "About Mushrooms" (1894).
 

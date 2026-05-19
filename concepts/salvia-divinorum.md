@@ -7,7 +7,7 @@ tags: [ethnobotany, psychopharmacology, consciousness, culture, medicine, plants
 sources: []
 ---
 
-# Salvia divinorum
+## Salvia divinorum
 
 ## Overview
 

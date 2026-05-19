@@ -5,7 +5,7 @@ tags: [pf-tek, extraction, ethyl-alcohol, 200-proof, anhydrous, procurement, per
 created: 2026-05-11
 ---
 
-# PF TEK 200-Proof Ethyl Alcohol Procurement and State Permit Process
+## PF TEK 200-Proof Ethyl Alcohol Procurement and State Permit Process
 
 ## Overview
 

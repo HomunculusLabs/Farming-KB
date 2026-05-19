@@ -18,7 +18,7 @@ sources:
   - "Isbell, T.A. (2009). \"Camelina oil — a new omega-3 source.\" Lipid Technology, 21(5-6), 116-119."
 ---
 
-# Camelina sativa
+## Camelina sativa
 
 ## Overview
 

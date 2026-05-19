@@ -8,7 +8,7 @@ sources:
   - "raw/papers/arthur-j-mushrooms-and-mankind.md"
 ---
 
-# Ethnomycology as Discipline
+## Ethnomycology as Discipline
 
 Ethnomycology is the interdisciplinary study of the historical and cultural uses of fungi by human societies, with particular emphasis on psychoactive and entheogenic mushroom species.
 

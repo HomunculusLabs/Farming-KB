@@ -5,7 +5,7 @@ tags: [microbiology, cannabis, microbiome, beta-diversity, rhizosphere, endorhiz
 date: 2026-05-08
 ---
 
-# Rhizosphere-Endorhiza Beta-Distance Comparison in Cannabis Microbiome
+## Rhizosphere-Endorhiza Beta-Distance Comparison in Cannabis Microbiome
 
 ## Overview
 

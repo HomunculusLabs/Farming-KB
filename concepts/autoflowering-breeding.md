@@ -9,7 +9,7 @@ type: concept
 tags: [reference]
 ---
 
-# Autoflowering Breeding
+## Autoflowering Breeding
 
 Autoflowering breeding involves incorporating the automatic flowering
 trait from [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]] and the role

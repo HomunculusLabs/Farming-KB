@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Roles in Aquatic Environments
+## Fungal Roles in Aquatic Environments
 Fungi are ubiquitous in aquatic environments, occurring as unicellular yeasts,
 polymorphic and filamentous fungi, and as both free-living and symbiotic
 organisms. While fungi are of fundamental importance in the terrestrial

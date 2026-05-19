@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
-# Coppice and Forest Management Systems
+## Coppice and Forest Management Systems
 
 Forest [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] for multiple yields. The
 forest is not just a source of timber; it is a complex system that

@@ -8,7 +8,7 @@ sources: [tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Jagadis Chandra Bose's Plant Research
+## Jagadis Chandra Bose's Plant Research
 
 Sir Jagadis Chandra Bose (1858-1937), the great Bengali scientist, founded
 the Bose Institute in Calcutta and pioneered the scientific demonstration

@@ -4,7 +4,7 @@ created: 2026-05-09
 tags: [mycology, taxonomy, cantharellales, agaricomycetes, basidiomycota]
 ---
 
-# Order Cantharellales
+## Order Cantharellales
 
 ## Overview
 

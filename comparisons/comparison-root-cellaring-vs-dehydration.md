@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Root Cellaring vs Dehydration
+## Root Cellaring vs Dehydration
 
 ## Overview
 

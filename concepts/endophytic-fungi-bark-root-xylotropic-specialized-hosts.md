@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Endophytic Fungi — Bark, Root, Xylotropic, and Specialized Host Endophytes
+## Endophytic Fungi — Bark, Root, Xylotropic, and Specialized Host Endophytes
 
 [[endophytic-fungi]] colonize living plant tissues asymptomatically, representing one of the most diverse and poorly understood components of [[fungal-biodiversity]]. Beyond the well-studied foliar endophytes of grasses and herbaceous plants, woody perennials harbor rich communities of endophytes in bark, xylem, roots, and specialized host tissues including lichens, mosses, liverworts, and pteridophytes. This page catalogs these communities by tissue type and host group, drawing primarily from comprehensive surveys of woody perennials and associated non-vascular plants.
 

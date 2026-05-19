@@ -8,7 +8,7 @@ sources: ["symbiotic-fungi.md"]
 type: concept
 ---
 
-# Mycorrhiza Nutrient Exchange
+## Mycorrhiza Nutrient Exchange
 
 ## The Carbon-For-Nutrients Trade
 

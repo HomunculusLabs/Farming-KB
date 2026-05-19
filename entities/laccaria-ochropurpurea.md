@@ -17,7 +17,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Laccaria ochropurpurea
+## Laccaria ochropurpurea
 
 ## Overview
 

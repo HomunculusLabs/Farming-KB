@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 3-T-TRIS
+## 3-T-TRIS
 
 [[mescaline]]. This would allow it
 > to be reported as < 1 M.U.

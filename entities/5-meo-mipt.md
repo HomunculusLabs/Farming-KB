@@ -5,10 +5,10 @@ type: chemical
 tags: [tryptamine, psychedelic, indole-alkaloid, research-chemical, shulgin]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
+sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 
-# 5-MeO-MiPT
+## 5-MeO-MiPT
 
 ## Overview
 

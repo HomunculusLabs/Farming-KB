@@ -5,7 +5,7 @@ type: entity
 tags: [buddhism, dhyani-buddha, tantra, psychedelic-experience]
 ---
 
-# Vairochana
+## Vairochana
 
 ## Description
 

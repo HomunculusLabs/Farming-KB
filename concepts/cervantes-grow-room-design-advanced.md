@@ -8,7 +8,7 @@ tags: [cannabis, design]
 updated: 2026-04-26
 ---
 
-# Advanced Grow Room Design
+## Advanced Grow Room Design
 
 Advanced grow room design goes beyond basic single-room setups to incorporate multi-room configurations, perpetual harvest schedules, and optimized light distribution. Professional growers maximize yield per square foot by dividing the garden into separate vegetative and flowering areas, allowing continuous production rather than batch harvesting.
 

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, legal-history, drug-policy, underground-publishing, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
+sources: ["raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md"]
 type: concept
 ---
 
-# Oss & Oeric: Legal Disclaimer and Historical Context
+## Oss & Oeric: Legal Disclaimer and Historical Context
 
 The 1976 publication of *Psilocybin: [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. These could be differentiated from
 genuine specimens because they did not blue and their effects lasted much

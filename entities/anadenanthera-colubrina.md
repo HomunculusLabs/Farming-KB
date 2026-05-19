@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Anadenanthera colubrina (Vell.) Brenan
+## Anadenanthera colubrina (Vell.) Brenan
 
 **Common names:** Cebil, Vilca, Huilco, Angico
 

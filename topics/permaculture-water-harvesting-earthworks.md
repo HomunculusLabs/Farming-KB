@@ -8,7 +8,7 @@ sources: [permaculture-a-designers-manual, gaia-garden, introduction-to-permacul
 related_concepts: [keyline-design, swale-construction, rainwater-harvesting, contour-planning, earthworks-and-ponds, watershed-restoration, dam-construction, gabion-structures, chinampas, passive-water-harvesting]
 ---
 
-# Permaculture Water Harvesting and Earthworks
+## Permaculture Water Harvesting and Earthworks
 
 Permaculture water harvesting and earthworks encompass the design, construction, and
 management of landscape features that capture, store, and distribute water using
@@ -93,4 +93,4 @@ Holzer, Sepp. *Sepp Holzer's Permaculture: A Practical Guide to Small-Scale,
 Integrative Farming and Gardening*. Chelsea Green Publishing, 2011.
 ## Permaculture Earthworks Guide
 
-# Permaculture Earthworks Guide Earthworks are the deliberate shaping of land to harvest, store, and distribute water; create growing surfaces; manage access; and prevent erosion. Holmgren describes bulldozers and other large earth-moving equipment as perhaps the most dramatic example of appropriate use of fossil fuels promoted in permaculture — used to create well-designed systems that can then be maintained indefinitely by human labor if necessary. ## Philosophy The goal of permaculture earthworks is to slow, spread, and sink water across the landscape. Holmgren notes that keyline and other catchment-based strategies reflect the broad design rules of natural catchments: slow the flow of both water and nutrients down the landscape and cycle them through soil and plants as many times as possible. Well-designed earthworks require little maintenance. ...
+## Permaculture Earthworks Guide Earthworks are the deliberate shaping of land to harvest, store, and distribute water; create growing surfaces; manage access; and prevent erosion. Holmgren describes bulldozers and other large earth-moving equipment as perhaps the most dramatic example of appropriate use of fossil fuels promoted in permaculture — used to create well-designed systems that can then be maintained indefinitely by human labor if necessary. ## Philosophy The goal of permaculture earthworks is to slow, spread, and sink water across the landscape. Holmgren notes that keyline and other catchment-based strategies reflect the broad design rules of natural catchments: slow the flow of both water and nutrients down the landscape and cycle them through soil and plants as many times as possible. Well-designed earthworks require little maintenance. ...

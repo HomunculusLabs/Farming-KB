@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Plant Enzymes and Cofactors
+## Plant Enzymes and Cofactors
 
 Enzymes are proteins that act as catalysts, dramatically speeding up chemical reactions in plant cells. Without enzymes, the biochemical reactions necessary for life would be millions of times too slow to sustain living processes. Every aspect of plant metabolism -- photosynthesis, respiration, [[cho-fish-amino-acid-preparation]] residues positioned to interact chemically with the substrate. Even slight changes in the active site's shape — caused by mutations, pH shifts, or temperature extremes — can destroy enzyme function.
 

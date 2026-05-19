@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Monotub vs Martha Tent
+## Monotub vs Martha Tent
 
 ## Overview
 Monotubs and Martha tents represent the two most popular fruiting chamber strategies in

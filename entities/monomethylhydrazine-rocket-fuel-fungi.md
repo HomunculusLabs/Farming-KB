@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Monomethylhydrazine (Mushroom-Derived Rocket Fuel Compound)
+## Monomethylhydrazine (Mushroom-Derived Rocket Fuel Compound)
 
 ## Description
 

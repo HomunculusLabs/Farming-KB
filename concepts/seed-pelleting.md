@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Seed Pelleting for Soil Rehabilitation
+## Seed Pelleting for Soil Rehabilitation
 
 ## Overview
 

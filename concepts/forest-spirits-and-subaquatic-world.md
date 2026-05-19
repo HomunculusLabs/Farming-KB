@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Forest Spirits and the Subaquatic World
+## Forest Spirits and the Subaquatic World
 
 ## Overview
 

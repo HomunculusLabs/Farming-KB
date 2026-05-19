@@ -12,7 +12,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Goat Husbandry vs Sheep Husbandry
+## Goat Husbandry vs Sheep Husbandry
 A comprehensive comparison of [[comparison-cattle-husbandry-vs-goat-husbandry]]
 ## Practical Considerations
 

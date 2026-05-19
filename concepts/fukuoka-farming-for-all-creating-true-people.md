@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Farming for All and Creating True People
+## Fukuoka Farming for All and Creating True People
 
 [[fukuoka-cultural-disease-five-senses-alienated-nature]] who is submitted to a medical experiment."
 

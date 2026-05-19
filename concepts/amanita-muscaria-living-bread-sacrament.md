@@ -7,7 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-# Amanita Muscaria Living Bread Sacrament
+## Amanita Muscaria Living Bread Sacrament
 
 The "Living Bread" is the author's most revolutionary claim: that dried [[amanita-muscaria-ambrosia-preparation]] -- Detailed observations
 - [[amanita-muscaria-holy-grail-theory-detailed]]

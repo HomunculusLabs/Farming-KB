@@ -5,7 +5,7 @@ type: entity
 tags: [bacterium, pathogen, plant-disease, apple, pear, stone-fruit]
 ---
 
-# Fireblight
+## Fireblight
 
 ## Description
 Fireblight is a devastating bacterial disease caused by *Erwinia amylovora* that affects members of the Rosaceae family, particularly apples, pears, quince, crabapples, and related ornamental plants. The disease gets its name from the scorched, blackened appearance of infected leaves, blossoms, and twigs, which appear to have been burned by fire. It is one of the most serious diseases of pome fruit worldwide and can kill entire trees in a single growing season. Elaine Ingham reports anecdotal evidence of fireblight suppression using fungal-dominated compost tea on several estates in New York.

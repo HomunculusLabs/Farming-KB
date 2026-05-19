@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Cellulose Degradation
+## Fungal Cellulose Degradation
 
 Cellulose is the most abundant organic polymer on Earth and the primary
 structural component of plant cell walls. The enzymatic decomposition of

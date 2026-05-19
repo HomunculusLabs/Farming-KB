@@ -7,7 +7,7 @@ tags: [preservation, food, recipe, safety, homesteading, storage]
 sources: []
 ---
 
-# Homestead Canning Recipes
+## Homestead Canning Recipes
 
 Canning preserves homestead harvests for year-round use. Two methods exist: water-bath canning (high-acid foods, pH below 4.6) and pressure canning (low-acid foods). Botulism risk makes strict adherence to tested recipes non-negotiable.
 

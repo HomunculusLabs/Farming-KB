@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Ergot Fungus
+## Ergot Fungus
 
 Ergot is the common name for the sclerotia (hard, dark masses) produced by
 fungi of the genus Claviceps, which parasitize the inflorescences of grasses

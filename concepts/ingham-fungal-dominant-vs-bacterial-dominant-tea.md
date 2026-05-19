@@ -9,7 +9,7 @@ type: concept
 tags: [fungi]
 ---
 
-# Fungal-Dominant vs Bacterial-Dominant Compost Tea
+## Fungal-Dominant vs Bacterial-Dominant Compost Tea
 
 The distinction between fungal-dominant and bacterial-dominant compost teas is one of the most important concepts in AACT application. It is always a question of dominance: even in fungal tea, bacteria must be present, but the fungal component must reach minimum levels for [[cervantes-pest-disease-prevention-overview]] when conditions favor disease (mildew, anthracnose)
 - Brown rot on cherries, Verticillium wilt, cedar apple rust

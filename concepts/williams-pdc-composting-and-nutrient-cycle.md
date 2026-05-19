@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Composting and the Nutrient Cycle Composting is the technique of controlled decomposition of food scraps and organic waste to create fertilizer, serving as a critical practice for maintaining the [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] to mine inert minerals of the
+## Composting and the Nutrient Cycle Composting is the technique of controlled decomposition of food scraps and organic waste to create fertilizer, serving as a critical practice for maintaining the [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] to mine inert minerals of the
 earth, make nutrients out of them and put them into
 circulation, basically forever.
 

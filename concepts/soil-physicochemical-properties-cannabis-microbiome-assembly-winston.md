@@ -6,7 +6,7 @@ topics: [soil-science, cannabis-microbiome, edaphic-factors, microbiome-assembly
 created: 2026-05-10
 ---
 
-# Soil Physicochemical Properties and Their Role in Cannabis Microbiome Assembly
+## Soil Physicochemical Properties and Their Role in Cannabis Microbiome Assembly
 
 ## Overview
 

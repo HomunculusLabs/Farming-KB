@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Historical and Cultural Uses of Psychoactive Mushrooms
+## Historical and Cultural Uses of Psychoactive Mushrooms
 
 The use of psychoactive mushrooms spans millennia and crosses continents, from ancient Mesoamerican civilizations to Paleolithic cave art in Africa. This concept explores the archaeological, ethnographic, and literary evidence for humanity's ancient relationship with hallucinogenic fungi.
 

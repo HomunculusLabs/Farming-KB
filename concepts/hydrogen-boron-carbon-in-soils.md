@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Hydrogen, Boron, and Carbon in Soils
+## Hydrogen, Boron, and Carbon in Soils
 
 ## Overview
 

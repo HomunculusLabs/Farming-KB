@@ -9,7 +9,7 @@ sources:
   - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 type: concept
 ---
-# The Omega Point and Cosmic Evolution
+## The Omega Point and Cosmic Evolution
 
 Simon G. Powell explores the concept of the Omega Point, originally proposed
 by the Jesuit priest and palaeontologist Pierre Teilhard de Chardin, as a

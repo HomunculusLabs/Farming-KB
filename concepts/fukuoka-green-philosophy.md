@@ -6,7 +6,7 @@ tags: [farming, natural-farming, philosophy, mu, buddhism, ecology, science-crit
 created: 2026-05-09
 ---
 
-# Fukuoka Green Philosophy
+## Fukuoka Green Philosophy
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Fly Control for Livestock Housing (JADAM Method)
+## Fly Control for Livestock Housing (JADAM Method)
 
 ## Overview
 

@@ -1,4 +1,8 @@
-# 2C-T-15 (SESQUI)
+---
+title: "2C-T-15 (SESQUI)"
+tags:
+  - entitie
+---
 
 [[hydrogen-peroxide-tissue-culture-wild-polypores]] tissue, bp 220-230 deg C at 0.3 mm/Hg) was made in anhydrous Et2O, and well stirred. In a separate flask, under an atmosphere of He, 4 mL of 2.6 M butyllithium was added to a solution of 1.2 g cyclopropyl bromide in 20 mL anhydrous Et2O. This mildly exothermic combination turned a bit cloudy, was stirred for 1 h, then trans-ferred with an air-tight syringe to the above-described Et2O solution of the aromatic disulfide. A heavy precipitate formed, and stirring was continued for an additional 0.5 h. The reaction mixtu...
 
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[2c-o-4-entity]]
 - [[4-ho-dbt-entity-tihkal]]
 - [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
-- [[pyrethrum]]

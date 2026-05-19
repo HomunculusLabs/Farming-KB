@@ -10,7 +10,7 @@ sources:
 updated: 2026-04-26
 ---
 
-# Fungal Biosorption of Heavy Metals
+## Fungal Biosorption of Heavy Metals
 
 ## Overview
 

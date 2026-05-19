@@ -5,7 +5,7 @@ tags: [botany, plant-senses, hearing, vibration, mechanosensing, plant-neurobiol
 date: 2026-05-08
 ---
 
-# Plant Hearing and Vibration Sensing
+## Plant Hearing and Vibration Sensing
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Cold Frame Gardening vs Container Gardening
+## Cold Frame Gardening vs Container Gardening
 
 ## Overview
 

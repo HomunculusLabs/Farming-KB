@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# [[bloomfield-fungal-spore-discharge-and-dispersal]] mechanism. It shoots a black ball of spores
+## [[bloomfield-fungal-spore-discharge-and-dispersal]] mechanism. It shoots a black ball of spores
 from a [[bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal]], [[sphaerobolus-stellatus]] performs an important
 ecological role by dispersing spores onto vegetation where they can be
 ingested by herbivores. The [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]].

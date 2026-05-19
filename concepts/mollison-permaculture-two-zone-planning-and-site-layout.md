@@ -7,7 +7,7 @@ tags: [regenerative, soil]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Mollison Zone Planning and Site Layout in Permaculture Two
+## Mollison Zone Planning and Site Layout in Permaculture Two
 
 The whole key to efficient energy planning, which is in fact efficient economic planning, is the zonation and radial or sectoral placement of plants, animal ranges, and structures. Permaculture Two provides a detailed framework for zone-based planning on real landscapes with slope.
 

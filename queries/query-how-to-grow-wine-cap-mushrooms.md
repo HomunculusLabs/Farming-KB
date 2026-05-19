@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How Do I Grow Wine Cap Mushrooms (Stropharia rugosoannulata) in My Garden?
+## How Do I Grow Wine Cap Mushrooms (Stropharia rugosoannulata) in My Garden?
 
 ## Short Answer
 Wine cap mushrooms (Stropharia rugosoannulata), also known as king stropharia or garden giants, are among the easiest mushrooms to grow outdoors.

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
 
-# Polyphenol (Litter Quality)
+## Polyphenol (Litter Quality)
 
 ## Description
 

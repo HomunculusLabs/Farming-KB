@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Living Mulch and When Should I Use It?
+## What Is Living Mulch and When Should I Use It?
 
 ## Short Answer
 

@@ -6,7 +6,7 @@ tags: [extraterrestrial, SETI, consciousness, cultural-bias, tryptamine, dmt, co
 created: 2026-05-08
 ---
 
-# McKenna on Extraterrestrial Communication as Cultural Conceit
+## McKenna on Extraterrestrial Communication as Cultural Conceit
 
 ## Overview
 

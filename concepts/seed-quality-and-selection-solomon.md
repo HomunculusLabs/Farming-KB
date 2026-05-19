@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Seed Quality and Selection (Solomon)
+## Seed Quality and Selection (Solomon)
 
 Updated: 2026-04-18
 

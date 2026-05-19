@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Mycoremediation vs Bioremediation Strategies
+## Mycoremediation vs Bioremediation Strategies
 
 ## Overview
 Mycoremediation is the use of fungi to clean contaminated environments, while

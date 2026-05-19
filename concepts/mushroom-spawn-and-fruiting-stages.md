@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Spawn and Fruiting Stages
+## Mushroom Spawn and Fruiting Stages
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 
-# Pluteus salicinus
+## Pluteus salicinus
 
 **Pluteus salicinus** (Pers.: Fr.) P. Kumm. is a small, wood-inhabiting
 mushroom in the family Pluteaceae confirmed to contain [[baeocystin]]. It is one of the least studied psychoactive agarics, known

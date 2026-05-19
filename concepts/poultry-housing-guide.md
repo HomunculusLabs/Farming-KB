@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Poultry Housing Guide
+## Poultry Housing Guide
 
 Proper poultry housing protects birds from predators, weather extremes, and disease while providing a comfortable environment for [[growing-gourmet-growing-room-ventilation-air-exchange]]
 - Avoid drafts at bird level while allowing moisture to escape

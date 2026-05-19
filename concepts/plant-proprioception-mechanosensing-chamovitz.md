@@ -7,7 +7,7 @@ type: concept
 tags: [plant-biology, mechanosensing, proprioception, touch-response, thigmomorphogenesis, chamovitz, plant-senses, tropisms, calcium-signaling]
 ---
 
-# Plant Proprioception and Mechano-Sensing — How Plants Feel Touch
+## Plant Proprioception and Mechano-Sensing — How Plants Feel Touch
 
 ## Overview
 

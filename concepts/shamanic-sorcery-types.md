@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Shamanic Sorcery Types
+## Shamanic Sorcery Types
 
 ## Overview
 

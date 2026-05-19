@@ -1,4 +1,8 @@
-# Solomon's Manure Handling and Complete Organic Fertilizer (COF) Ingredients
+---
+title: "Solomon's Manure Handling and Complete Organic Fertilizer (COF) Ingredients"
+tags:
+  - concept
+---
 
 ## Overview
 

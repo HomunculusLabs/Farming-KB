@@ -8,7 +8,7 @@ type: concept
 tags: [ayahuasca]
 ---
 
-# [[entheogen-culture]]|entheogenic traditions surrounding ayahuasca are deeply rooted in Amazonian culture.
+## [[entheogen-culture]]|entheogenic traditions surrounding ayahuasca are deeply rooted in Amazonian culture.
 
 The practical effect is that anyone can purchase ayahuasca ingredients, prepare the brew, and participate in ceremonies without legal interference.
 

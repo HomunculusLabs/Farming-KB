@@ -9,7 +9,7 @@ sources:
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 ---
 
-# Root Exudates
+## Root Exudates
 
 ## Overview
 

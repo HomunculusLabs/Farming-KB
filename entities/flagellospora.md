@@ -5,7 +5,7 @@ type: entity
 tags: [genus, aquatic-hyphomycete, freshwater, leaf-litter-decomposer]
 ---
 
-# Flagellospora
+## Flagellospora
 
 ## Description
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Mushroom Cultivation Experiments
+## Holzer Mushroom Cultivation Experiments
 
 [[shiitake-mushroom-cultivation]] literature recommends temperatures between 7-25 degrees C for fruiting, with optimal fruiting at 15-20 degrees C. At 1,500 meters in the Austrian Alps, temperatures regularly drop well below these ranges. Holzer's success suggests that the microclimate created by burying the log provides sufficient thermal buffering through direct soil contact and moisture retention.
 

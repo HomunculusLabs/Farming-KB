@@ -1,4 +1,8 @@
-# Phytochrome and Photoperiodism
+---
+title: "Phytochrome and Photoperiodism"
+tags:
+  - concept
+---
 
 ## From *What a Plant Knows* by Daniel Chamovitz
 

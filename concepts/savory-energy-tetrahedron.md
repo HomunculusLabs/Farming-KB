@@ -8,7 +8,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Energy Tetrahedron
+## Energy Tetrahedron
 
 Savory reconceptualizes the traditional energy pyramid as a double tetrahedron
 with three sides at its base: time, volume, and area. This multidimensional

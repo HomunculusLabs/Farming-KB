@@ -4,7 +4,7 @@ source: field-guide-to-the-psilocybin-mushroom.md
 type: concept
 ---
 
-# Psilocybe Field Identification Guide
+## Psilocybe Field Identification Guide
 
 ## Overview
 

@@ -28,7 +28,7 @@ sources:
 - https://www.leeners.com/recipes/sausage-making
 ---
 
-# Animal Harvest and Processing
+## Animal Harvest and Processing
 
 Ethical harvesting, butchering, and processing of ducks and goats for the homestead. Covers dispatching, processing, cuts, food safety, curing, sausage, fat rendering, and offal use. See [[duck-keeping]] and [[goat-keeping]] for raising animals to harvest weight.
 

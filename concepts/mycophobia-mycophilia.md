@@ -6,7 +6,7 @@ created: 2026-05-10
 source: "Growing Gourmet and Medicinal Mushrooms (Paul Stamets, 1993)"
 ---
 
-# Mycophobia and Mycophilia in Human Cultures
+## Mycophobia and Mycophilia in Human Cultures
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Pruning and Fruit Tree Management: Natural vs Conventional
+## Pruning and Fruit Tree Management: Natural vs Conventional
 
 updated: 2026-04-18
 

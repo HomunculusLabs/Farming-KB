@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# Teaming with Microbes — Protozoa
+## Teaming with Microbes — Protozoa
 
 In *Teaming with Microbes*, Lowenfels and Lewis present protozoa as the critical nutrient mineralizers of the [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]] in most soils
 
@@ -42,7 +42,7 @@ Protozoa illustrate a core principle of soil food web gardening:
 
 ## Merged: Bacterial Biofilm and Slime - Teaming with Microbes
 
-# Bacterial Biofilm and Slime
+## Bacterial Biofilm and Slime
 
 Bacterial slime, or biofilm, is a matrix of sugars, proteins, and DNA. It is one of the most important substances produced by soil bacteria, serving multiple critical functions in the [[teaming-with-microbes-protozoa-and-nematodes]]
 - [[soil-food-web]]. Their consumption of bacteria and fungi -- and subsequent release of wastes -- is the primary mechanism by which nutrients are mineralized and made available to plants.

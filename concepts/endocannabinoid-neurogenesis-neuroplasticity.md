@@ -8,7 +8,7 @@ sources:
 type: concept
 ---
 
-# Endocannabinoid System Neurogenesis and Neuroplasticity
+## Endocannabinoid System Neurogenesis and Neuroplasticity
 
 The [[cannabis-cannabinoid-receptor-pharmacology]] (predominantly in the central nervous system) and [[plant-memory-and-learning-mechanisms]]) and the subventricular zone.
 

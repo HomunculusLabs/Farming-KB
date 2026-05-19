@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for Chronic Pain
+## Cannabis for Chronic Pain
 
 updated: 2026-04-18
 

@@ -10,7 +10,7 @@ sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
-# Coprinus comatus Cultivation — Shaggy Mane
+## Coprinus comatus Cultivation — Shaggy Mane
 
 ## Overview
 

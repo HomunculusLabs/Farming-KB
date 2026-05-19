@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Rhizopus (Bread Mold)
+## Rhizopus (Bread Mold)
 
 ## Description
 

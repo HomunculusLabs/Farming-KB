@@ -8,7 +8,7 @@ type: concept
 tags: [composting, natural-farming]
 ---
 
-# Composting Methods and Techniques
+## Composting Methods and Techniques
 
 Composting is one of the most fundamental practices [[query-can-fungi-break-down-plastic-pollution]] faster. Small paper scraps can also be added. Once a bucket is full, dump it in the compost heap. Commercial black plastic bins work well in [[natural-farming-guide-raised-bed-and-intensive-gardening]]
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
-# MAO Inhibitors and Psychedelics
+## MAO Inhibitors and Psychedelics
 
 Monoamine oxidase inhibitors (MAOIs) are a critical safety consideration in [psychedelic use. Several psychedelics are themselves MAO inhibitors, and combining them with certain foods or drugs can be dangerous.
 

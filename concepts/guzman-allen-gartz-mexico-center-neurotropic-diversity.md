@@ -1,5 +1,10 @@
+---
+title: "Guzman Allen Gartz Mexico Center Neurotropic Diversity"
+tags:
+  - concept
+---
 
-# Mexico as the Center of Neurotropic Fungal Diversity
+## Mexico as the Center of Neurotropic Fungal Diversity
 
 ## Unmatched Species Richness
 

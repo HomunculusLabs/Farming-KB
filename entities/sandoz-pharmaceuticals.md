@@ -5,10 +5,10 @@ type: person
 tags: [pharmaceutical-company, lsd-discovery, basel, chemical-industry, history-of-pharmacology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
+sources: ["raw/papers/hofmann-a-lsd-my-problem-child.md"]
 ---
 
-# Sandoz Pharmaceuticals
+## Sandoz Pharmaceuticals
 
 **Sandoz AG** was a Swiss pharmaceutical company headquartered in Basel, Switzerland, founded in 1886 by Alfred Kern (1849–1918) and Edouard Sandoz (1853–1928). Originally a chemical dye manufacturing company, Sandoz evolved into one of the most important pharmaceutical firms of the 20th century, best known as the company where Albert Hofmann discovered **[[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]] for the [[bloomfield-ergot-claviceps-purpurea-ergotism]]*. His goal was to develop semi-synthetic derivatives of ergot that might serve as circulatory and respiratory stimulants. Among the compounds he synthesized was the 25th in a series of lysergic acid derivatives: **lysergic acid diethylamide**, or LSD-25.
 

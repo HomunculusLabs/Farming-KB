@@ -5,10 +5,10 @@ type: person
 tags: [ethnobotany, psychedelic-literature, mescaline, consciousness, literature]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md"]
 ---
 
-# Aldous Huxley (1894–1963)
+## Aldous Huxley (1894–1963)
 
 Aldous Leonard Huxley was an English writer, philosopher, and prominent intellectual of the [[leary-psychedelic-experience-bardo-mapping]] and [[mckenna-suppression-psychedelic-research-lsd-therapy]].
 

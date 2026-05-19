@@ -7,7 +7,7 @@ tags: [gardening, design, construction, permaculture, cultivation]
 sources: []
 ---
 
-# Vertical Gardening Guide
+## Vertical Gardening Guide
 
 Vertical gardening uses trellises, towers, walls, and other structures to grow plants upward, dramatically increasing growing space per square foot of ground. It is essential for [[edible-landscaping]] in small spaces and maximizes light exposure in [[food-forest-design|food forest]] understory layers.
 

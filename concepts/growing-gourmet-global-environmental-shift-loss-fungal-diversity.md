@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# The Global Environmental Shift and Loss of Fungal Diversity
+## The Global Environmental Shift and Loss of Fungal Diversity
 
 Studies in Europe show a frightening loss of species diversity in
 forestlands, most evident with the mycorrhizal species. Many

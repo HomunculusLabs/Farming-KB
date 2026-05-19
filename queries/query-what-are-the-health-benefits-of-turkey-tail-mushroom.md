@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are the Health Benefits of Turkey Tail Mushroom?
+## What Are the Health Benefits of Turkey Tail Mushroom?
 
 ## Short Answer
 Turkey tail ([[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] in the world, best known for its immune-modulating polysaccharides PSK and PSP.

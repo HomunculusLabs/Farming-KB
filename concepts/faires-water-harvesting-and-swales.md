@@ -7,7 +7,7 @@ tags: [permaculture, water, swales, earthworks, homesteading, soil-conservation]
 sources:
   - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
 ---
-# Permaculture Water Harvesting and Swales
+## Permaculture Water Harvesting and Swales
 **Source:** The Ultimate Guide to [[natural-farming-sustainable-living-principles]]
 (Nicole Faires, 2012)
 Water is the most important element on any piece of land. No other factor

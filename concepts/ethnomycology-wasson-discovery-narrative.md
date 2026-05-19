@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Ethnomycology — Wasson's Discovery Narrative
+## Ethnomycology — Wasson's Discovery Narrative
 
 **Source:** The [[psychedelic-secrecy-comparative-eleusis-mesoamerica]] in 1955. This discovery fundamentally changed the understanding of the role of [[kykeon-composition-and-ergot-alkaloid-hypothesis]] contained a preparation of mushrooms-as-food-of-the-gods-broma-theon for mushrooms was, in Wasson's view, a fossil of an older mycophilic phase that had been largely but not entirely erased.
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Wasson-Hofmann-Ruck Collaboration
+## Wasson-Hofmann-Ruck Collaboration
 
 **Source:** The [[mazatec-mushroom-culture-and-velada]] in Mexico. His chapter in "The Road to Eleusis" drew explicit parallels between the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], noting that Aristides the Rhetor's account of Eleusis "point by point tallies with the effect on the initiate of the Mesoamerican mushroom rite."
 

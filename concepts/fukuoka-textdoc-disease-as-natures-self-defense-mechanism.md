@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Disease and Pest Damage as Nature's Self-Defense Mechanism
+## Disease and Pest Damage as Nature's Self-Defense Mechanism
 
 Masanobu Fukuoka's *The Natural Way of Farming* presents a radical reframing of agricultural disease and pest damage, arguing that these phenomena are not problems to be eradicated but rather self-defense measures taken by nature to restore balance when the natural order has been disturbed.
 

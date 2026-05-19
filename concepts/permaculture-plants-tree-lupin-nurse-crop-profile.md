@@ -5,7 +5,7 @@ author: "Permaculture Plants: A Selection"
 tags: [permaculture-plants, tree-lupin, lupinus-arboreus, nitrogen-fixing, nurse-crop, bee-forage, pioneer, mulch]
 ---
 
-# Tree Lupin (Lupinus arboreus): Nitrogen-Fixing Nurse Crop and Bee Forage
+## Tree Lupin (Lupinus arboreus): Nitrogen-Fixing Nurse Crop and Bee Forage
 
 The tree lupin is an evergreen, perennial shrub or small tree reaching about
 2 meters in height. Native to California, it has become a valuable pioneer

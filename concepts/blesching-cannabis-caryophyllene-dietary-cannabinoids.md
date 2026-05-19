@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis, Caryophyllene, and Dietary Cannabinoids
+## Cannabis, Caryophyllene, and Dietary Cannabinoids
 
 The discovery that common spices contain cannabinoid-like compounds represents
 one of the most accessible bridges between cannabis science and everyday

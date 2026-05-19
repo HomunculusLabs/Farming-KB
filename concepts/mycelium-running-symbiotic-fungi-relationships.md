@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Symbiotic Fungi Relationships
+## Symbiotic Fungi Relationships
 
 Source: [[woodlovers-mycelium-running-pathway-technique]] by Paul Stamets (2005), Chapters 3-4
 

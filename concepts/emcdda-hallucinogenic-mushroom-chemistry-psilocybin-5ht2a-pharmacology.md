@@ -1,4 +1,8 @@
-# Hallucinogenic Mushroom Chemistry: Psilocybin, Psilocin, and 5-HT2A Receptor Pharmacology
+---
+title: "Hallucinogenic Mushroom Chemistry: Psilocybin, Psilocin, and 5-HT2A Receptor Pharmacology"
+tags:
+  - concept
+---
 
 ## Overview
 

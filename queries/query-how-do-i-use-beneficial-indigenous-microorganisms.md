@@ -8,7 +8,7 @@ sources: [papers/beneficial-indigenous-microorganisms-bionutrients.md]
 type: query
 ---
 
-# How Do I Use Beneficial Indigenous Microorganisms (BIM) in Farming?
+## How Do I Use Beneficial Indigenous Microorganisms (BIM) in Farming?
 
 ## Short Answer
 Beneficial Indigenous Microorganisms (BIM) are locally sourced collections of naturally occurring microorganisms.

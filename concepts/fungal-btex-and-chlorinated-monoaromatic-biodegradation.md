@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal BTEX and Chlorinated Monoaromatic Biodegradation
+## Fungal BTEX and Chlorinated Monoaromatic Biodegradation
 
 Fungi degrade monoaromatic compounds including BTEX (benzene, toluene,
 ethylbenzene, and m-, o-, p-xylenes) and chlorinated monoaromatics through both

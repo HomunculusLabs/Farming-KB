@@ -4,7 +4,7 @@ source: Permaculture Plants - A Selection (Nugent & Boniface)
 topics: nitrogen-fixing trees, multipurpose trees, tropical agroforestry, nurse crops, edible legumes
 ---
 
-# Ice Cream Bean (Inga spp)
+## Ice Cream Bean (Inga spp)
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [soil, gardening]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Mulching Techniques
+## Mulching Techniques
 
 Mulching is the practice of covering the soil surface with a layer of organic or inorganic material. It is one of the most useful techniques in the organic garden, serving to suppress weeds, retain moisture, protect soil structure, moderate soil temperature, and encourage beneficial soil organisms.
 

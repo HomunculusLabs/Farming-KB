@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Fertility Cults and Mushroom Symbolism in the Ancient Near East
+## Fertility Cults and Mushroom Symbolism in the Ancient Near East
 
 Allegro's theory situates [[allegro-sacred-prostitute-and-the-mushroom-cult]] was
 a well-known office in the ancient world. While it is usually assumed that

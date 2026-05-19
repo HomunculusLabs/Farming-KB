@@ -1,4 +1,8 @@
-# Psilocybin Intoxication Medical Management and First Aid
+---
+title: "Psilocybin Intoxication Medical Management and First Aid"
+tags:
+  - concept
+---
 
 ## Overview
 Psilocybin intoxication from [[cho-plant-growth-stage-treatment-protocols]] for [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]]: An Emerging Trend Case Study" (2006),

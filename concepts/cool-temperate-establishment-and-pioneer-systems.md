@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cool Temperate Establishment and Pioneer Systems
+## Cool Temperate Establishment and Pioneer Systems
 
 ## Overview
 

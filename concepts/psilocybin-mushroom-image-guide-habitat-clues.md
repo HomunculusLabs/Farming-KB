@@ -8,7 +8,7 @@ type: concept
 tags: [habitat, mushroom-cultivation, psilocybin]
 ---
 
-# Psilocybin Mushroom Habitat Clues
+## Psilocybin Mushroom Habitat Clues
 
 Habitat and substrate are among the most reliable identification
 clues for [[panaeolus-subbalteatus]] (=cinctulus): documented growing

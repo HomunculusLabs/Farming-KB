@@ -5,7 +5,7 @@ tags: [cannabis, strain, amnesia-haze, haze-genetics, sativa, amsterdam]
 created: 2026-05-11
 ---
 
-# Amnesia Haze: Genetics and History
+## Amnesia Haze: Genetics and History
 
 Amnesia Haze is one of the most commercially successful sativa-dominant [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]],
 Jamaican,  and Afghan lineages,

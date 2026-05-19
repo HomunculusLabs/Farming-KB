@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Fungal Edibility Classification Key
+## Fungal Edibility Classification Key
 
 A classification key for determining the edibility of large, fleshy fungi was
 developed by Julius A. Palmer in his pioneering American mycological work. This

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/mushrooms-poisionous-fungi-by-john-ramsbottom-1945.md"
 ---
 
-# alpha-Amanitin
+## alpha-Amanitin
 
 **alpha-Amanitin** is a cyclic octapeptide toxin and the most potent of the amatoxins, a
 family of bicyclic peptide toxins found in several species of Amanita, particularly the

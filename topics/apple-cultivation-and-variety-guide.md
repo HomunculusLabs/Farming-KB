@@ -21,7 +21,7 @@ related_concepts:
   - fruit-tree-pruning-and-training-systems
   - fruit-tree-care-and-orchard-management
 ---
-# Apple [[dragon-fruit-pitaya-cultivation-and-variety-guide|fruit]] trees in the temperate world. Originating in the mountains
+## Apple [[dragon-fruit-pitaya-cultivation-and-variety-guide|fruit]] trees in the temperate world. Originating in the mountains
 of Central Asia, where wild ancestors still grow in the forests of Kazakhstan,
 the apple has been cultivated for thousands of years and now comprises
 thousands of named varieties across every inhabited continent. Its

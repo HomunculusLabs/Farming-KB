@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, sp
 sources: []
 ---
 
-# Reishi (Ganoderma lucidum)
+## Reishi (Ganoderma lucidum)
 
 ## Overview
 

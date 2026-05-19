@@ -5,7 +5,7 @@ type: concept
 tags: [mushroom, history, cultivation, louis-xiv, france, england, pure-culture, variety-development, tournefort]
 ---
 
-# Historical Development of Mushroom Cultivation
+## Historical Development of Mushroom Cultivation
 
 The cultivation of mushrooms has a documented history stretching back over three centuries, beginning in France and gradually spreading across Europe and to the Americas. The story of mushroom cultivation is one of slow progress marked by secrecy, empirical experimentation, and eventually scientific breakthroughs that transformed the industry from a mysterious art into a reproducible agricultural practice.
 

@@ -8,7 +8,7 @@ sources: [the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
 
-# Companion Planting Guilds and Plant Communities
+## Companion Planting Guilds and Plant Communities
 
 Plant communities, sometimes called guilds, are a way of organizing
 plants around a central element based on [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]] and know what plants you

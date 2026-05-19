@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual
 type: entity
 ---
 
-# Glyricidia (Gliricidia sepium)
+## Glyricidia (Gliricidia sepium)
 
 ## Description
 

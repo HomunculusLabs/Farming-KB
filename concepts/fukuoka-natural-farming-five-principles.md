@@ -5,7 +5,7 @@ tags: [agriculture, natural-farming, permaculture, philosophy, soil-health]
 created: 2026-05-09
 ---
 
-# Fukuoka's Five Principles of Natural Farming
+## Fukuoka's Five Principles of Natural Farming
 
 Masanobu Fukuoka (1913–2008) developed a revolutionary approach to agriculture based on five core principles: **no tillage, no fertilizer, no pesticides, no weeding, and no pruning**. Practiced on his farm in Ehime Prefecture, Japan for over fifty years, this "do-nothing" farming method consistently yielded 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre—comparable to or exceeding [[fukuoka-critique-scientific-agriculture-civilization]] creates the very problems it then claims to solve: plowing compacts soil and necessitates further plowing; [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]], inevitably disrupts the organic wholeness of living systems. Once broken down, nature cannot be returned to its original state. Fukuoka called this the "methodless method of nature, the unmoving way of Bodhidharma."
 

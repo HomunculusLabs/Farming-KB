@@ -23,7 +23,7 @@ tags:
   - grass seed
 ---
 
-# Cold Shock Selectivity in Fruiting of Psilocybe Species
+## Cold Shock Selectivity in Fruiting of Psilocybe Species
 
 ## Overview
 

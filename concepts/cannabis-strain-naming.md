@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Strain Naming
+## Cannabis Strain Naming
 
 The naming of cannabis varieties is a complex and often inconsistent
 practice within the cannabis industry. Cervantes addresses the

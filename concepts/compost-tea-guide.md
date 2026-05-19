@@ -22,7 +22,7 @@ sources:
 - raw/papers/lowenfels-teaming-with-microbes.md
 ---
 
-# Compost Tea Guide — Complete AACT Manual
+## Compost Tea Guide — Complete AACT Manual
 
 [[actively-aerated-compost-tea]] (AACT) is a water extract of compost, brewed with food resources and [[actively-aerated-compost-tea-aact-brewing]] to multiply [[forest-and-bamboo-beneficial-microorganisms]]. Developed by Dr. Elaine Ingham, AACT delivers the full [[soil-food-web-nutrient-cycling]] — bacteria, fungi, protozoa, and nematodes — to soil and foliage. It is NOT anaerobic tea, leachate, or manure tea. True compost contains no human pathogens; AACT brewed aerobically maintains that safety.
 

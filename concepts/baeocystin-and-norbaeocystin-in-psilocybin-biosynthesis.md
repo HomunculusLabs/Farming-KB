@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [biochemistry, psilocybin, baeocystin, norbaeocystin, fungal-alkaloids]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md]
+sources: ["raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md"]
 type: concept
 ---
 
-# Baeocystin and Norbaeocystin in Psilocybin Biosynthesis
+## Baeocystin and Norbaeocystin in Psilocybin Biosynthesis
 
 Baeocystin (4-phosphoryloxy-N-methyltryptamine) and norbaeocystin
 (4-phosphoryloxytryptamine) are phosphorylated indole alkaloids

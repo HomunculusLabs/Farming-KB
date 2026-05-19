@@ -4,7 +4,7 @@ source: bill-mollison-[[permaculture-community-legal-structure|permaculture]]-de
 type: concept
 ---
 
-# [[permaculture-community-enterprises-and-self-reliance|Permaculture]] Community Legal Structures
+## [[permaculture-community-enterprises-and-self-reliance|Permaculture]] Community Legal Structures
 
 The legal and financial architecture supporting [[permaculture]] communities is as important as their [[gaias-garden-ecological-design-process-checklist]]. [[bill-mollison]] developed a sophisticated organizational model that uses standard legal instruments—companies, trusts, and non-profit structures—to create insulated, tax-efficient, and internationally scalable systems for community-based [[integrated-land-management-and-polyculture-design]] and trading. This model, tested through the Tagari community in Australia, demonstrates how [[williams-pdc-ecological-design-principles]] can be applied to social and financial systems.
 

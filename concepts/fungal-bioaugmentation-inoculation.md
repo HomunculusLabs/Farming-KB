@@ -21,7 +21,7 @@ sources:
   - raw/papers/staycare-mngmt-fungi-in-bioremediation.md
 ---
 
-# Fungal Bioaugmentation and Inoculation
+## Fungal Bioaugmentation and Inoculation
 
 Practical methods for introducing fungal inocula into contaminated environments for [[mycoremediation-basics]]. Covers formulation, delivery, and field challenges. Based on research from Evans & Hedger, Bennett et al., and Singh (2006).
 

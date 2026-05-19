@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# The Soil Works Itself
+## The Soil Works Itself
 
 The soil lives of its own accord and plows itself. It needs no help from man.
 Farmers often talk of "taming the soil" and of a field becoming "mature," but

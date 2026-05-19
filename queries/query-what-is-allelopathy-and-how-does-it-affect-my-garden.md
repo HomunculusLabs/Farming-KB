@@ -6,7 +6,7 @@ updated: 2026-05-15
 sources: []
 ---
 
-# What Is Allelopathy and How Does It Affect My Garden?
+## What Is Allelopathy and How Does It Affect My Garden?
 
 ## Short Answer
 

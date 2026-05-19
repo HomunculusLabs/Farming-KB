@@ -31,7 +31,7 @@ related_concepts:
   - fruit-growing-guide-organic
 ---
 
-# Berry and Small Fruit Growing
+## Berry and Small Fruit Growing
 
 Berry and small fruit growing encompasses the cultivation of a diverse group of
 fruit-bearing plants that are generally characterized by their relatively small

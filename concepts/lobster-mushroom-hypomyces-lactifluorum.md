@@ -8,7 +8,7 @@ sources: [raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushroom
 type: concept
 ---
 
-# Lobster Mushroom Hypomyces lactifluorum
+## Lobster Mushroom Hypomyces lactifluorum
 
 The lobster mushroom is not actually a single mushroom species but
 rather the result of a parasitic fungal infection. The ascomycete

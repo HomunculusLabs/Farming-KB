@@ -7,7 +7,7 @@ tags: [cultivation, mycology]
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
 
-# Wine Cap Mushroom Cultivation
+## Wine Cap Mushroom Cultivation
 
 Wine cap mushrooms (Stropharia rugosoannulata), also known as king stropharia, garden giant, or burgundy mushrooms, are among the easiest and most rewarding mushrooms for [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] systems:
 

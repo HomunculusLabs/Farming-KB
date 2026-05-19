@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 2-Me-DET (N,N-Diethyl-2-Methyltryptamine)
+## 2-Me-DET (N,N-Diethyl-2-Methyltryptamine)
 
 TIHKAL entry #33. 2-Me-DET is a [[synthetic-tryptamine-methods]] combining the diethyl substitution pattern of DET with a methyl group at the 2-position of the indole ring. It is notable for producing auditory distortion effects reminiscent of [[4-ho-dipt-entity-tihkal]], making it a compound of particular interest for understanding how structural modifications selectively alter sensory processing.
 

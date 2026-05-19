@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Oodnadatta Sand Dam
+## Oodnadatta Sand Dam
 
 ## Description
 

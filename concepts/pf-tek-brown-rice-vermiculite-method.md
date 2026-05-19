@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [cultivation, pf-tek, brown-rice-flour, vermiculite, mycology, substrate]
 ---
 
-# PF Tek Brown Rice Vermiculite Cultivation Method
+## PF Tek Brown Rice Vermiculite Cultivation Method
 
 The "PF TEK" (Psilocybe Fanaticus Technique) is the most widely used method for amateur [[pf-tek-brown-rice-vermiculite-substrate]]** — a simple, effective, and contamination-resistant medium.
 2. **Half-pint canning jars** as the cultivation vessel — the tapered shape allows the colonized cake to slide out easily.

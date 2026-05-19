@@ -4,7 +4,7 @@ source: blesching-cannabis-health-index-autoimmune-conditions (2015)
 tags: [cannabis-safety, pharmaceutical-comparison, fda, mortality, harm-reduction, evidence-based-medicine, cannabis]
 ---
 
-# Cannabis Comparative Safety Profile vs Pharmaceuticals
+## Cannabis Comparative Safety Profile vs Pharmaceuticals
 
 ## Overview
 

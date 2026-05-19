@@ -5,7 +5,7 @@ topics: botany, photobiology, phytochrome, photoperiodism, plant physiology
 created: 2026-05-11
 ---
 
-# Phytochrome Photoreceptors and Photoperiodism in Plants
+## Phytochrome Photoreceptors and Photoperiodism in Plants
 
 ## Overview
 

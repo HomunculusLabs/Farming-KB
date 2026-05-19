@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Darwin's Power of Movement in Plants and the Discovery of Auxin
+## Darwin's Power of Movement in Plants and the Discovery of Auxin
 
 *The Power of Movement in Plants* (1880), co-authored by Charles Darwin
 and his son Francis Darwin, is one of the most influential works in the

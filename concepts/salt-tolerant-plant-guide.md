@@ -7,7 +7,7 @@ tags: [permaculture, plants, plant-catalog, species, remediation, difficult-site
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
 
-# Salt Tolerant Plant Guide
+## Salt Tolerant Plant Guide
 
 Salt-affected land can be rehabilitated by establishing a cover of salt-tolerant species. It is common practice in saline, waterlogged conditions to plant into mounds 200-300 mm above normal ground level, following contours where possible. Salt affected land should be fenced from stock until fodder species are established.
 

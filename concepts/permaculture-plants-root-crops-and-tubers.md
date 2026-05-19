@@ -8,7 +8,7 @@ type: concept
 tags: [culture, permaculture, plants]
 ---
 
-# Permaculture Root Crops and Tubers
+## Permaculture Root Crops and Tubers
 
 Root crops and tubers form an essential staple food layer in permaculture systems, providing high-calorie carbohydrate yields from relatively low-maintenance perennial and annual plants. "A Selection of Permaculture Plants" (Nugent & Boniface, 2004) covers root crops primarily within its water plants and palms sections, focusing on species suited to diverse and challenging conditions.
 

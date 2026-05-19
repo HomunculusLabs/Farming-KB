@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# History of Plant Nutrition Science
+## History of Plant Nutrition Science
 
 The question of how plants eat is ancient, but the scientific understanding of plant nutrition has evolved dramatically over the past four centuries. From early observations about manure to the birth of the chemical fertilizer industry and the modern understanding of soil biology, the story of plant nutrition science reflects broader shifts in scientific thinking and agricultural practice.
 

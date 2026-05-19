@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Odor Deodorizers and Comparison
+## Odor Deodorizers and Comparison
 
 Controlling [[jorge-cervantes]] outlines a hierarchy of [[greg-green-odor-control-and-air-filtration]].
 

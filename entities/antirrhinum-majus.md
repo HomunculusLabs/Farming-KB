@@ -18,7 +18,7 @@ sources:
   - "Elcombe, S. et al. (2004). \"Genetic control of surface morphogenesis in Antirrhinum petals.\" New Phytologist, 163, 165-172."
 ---
 
-# Antirrhinum majus (*Antirrhinum majus*)
+## Antirrhinum majus (*Antirrhinum majus*)
 
 ## Overview
 

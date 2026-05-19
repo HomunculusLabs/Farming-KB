@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Cannabutter Preparation
+## Cannabis Cannabutter Preparation
 
 ## Overview
 

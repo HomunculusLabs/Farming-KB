@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Enoki vs Shiitake Cultivation
+## Enoki vs Shiitake Cultivation
 
 ## Overview
 

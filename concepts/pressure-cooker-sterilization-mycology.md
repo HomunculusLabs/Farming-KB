@@ -6,7 +6,7 @@ tags: [mushrooms, sterilization, pressure-cooker, mycology, contamination-preven
 created: 2026-05-09
 ---
 
-# Pressure Cooker Sterilization for Mycology
+## Pressure Cooker Sterilization for Mycology
 
 [[sterilization]] is the most critical step in [[antimicrobial-compounds-mushroom-mycelium]] and ruin the crop. The pressure cooker (autoclave) is the most accessible and effective sterilization tool for home and small-scale cultivators, achieving temperatures high enough to kill bacterial endospores that survive boiling.
 

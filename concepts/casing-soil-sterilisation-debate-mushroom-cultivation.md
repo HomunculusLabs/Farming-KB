@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Casing Soil Sterilisation Debate in Mushroom Cultivation
+## Casing Soil Sterilisation Debate in Mushroom Cultivation
 A significant point of disagreement among mushroom cultivators concerns whether casing
 soil should be sterilised, pasteurised, or left untreated before application. The
 source cultivation guide from the GUID Exotic series takes a clear position in favour

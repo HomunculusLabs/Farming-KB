@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Ectomycorrhizal Enzyme Competency and Organic Nutrient Acquisition
+## Ectomycorrhizal Enzyme Competency and Organic Nutrient Acquisition
 
 ## Overview
 

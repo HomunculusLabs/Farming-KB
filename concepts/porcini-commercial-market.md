@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Porcini Commercial Market
+## Porcini Commercial Market
 
 The porcini (Boletus edulis) commercial market is one of the most significant segments of the global [[mollison-pdc-forest-management-products]] changes, climate impacts, and reduced foraging activity.
 

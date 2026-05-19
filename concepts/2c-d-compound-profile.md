@@ -6,7 +6,7 @@ type: concept
 tags: [chemistry, 2c-family]
 sources: ["raw/papers/shulgin-a-pihkal.md"]
 ---
-# 2C-D (LE-25) — 2,5-Dimethoxy-4-Methylphenethylamine
+## 2C-D (LE-25) — 2,5-Dimethoxy-4-Methylphenethylamine
 
 ## Overview
 

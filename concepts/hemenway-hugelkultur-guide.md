@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
 type: concept
 ---
-# Hugelkultur Guide
+## Hugelkultur Guide
 Hugelkultur, or mound culture, is a traditional European gardening technique
 that uses rotting wood as a core component of [[natural-farming-guide-hugelkultur-mounded-garden-beds]] that improve over time.
 

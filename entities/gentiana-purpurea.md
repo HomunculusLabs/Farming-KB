@@ -12,7 +12,7 @@ sources:
   - Personal knowledge (botanical references)
 ---
 
-# Gentiana purpurea
+## Gentiana purpurea
 
 ## Overview
 

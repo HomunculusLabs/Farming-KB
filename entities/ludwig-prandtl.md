@@ -15,7 +15,7 @@ categories:
 tags: [profile]
 sources: []
 ---
-# Ludwig Prandtl
+## Ludwig Prandtl
 
 **Ludwig Prandtl** (4 February 1875 -- 15 August 1953) was a German fluid
 dynamicist and physicist widely regarded as the **father of modern

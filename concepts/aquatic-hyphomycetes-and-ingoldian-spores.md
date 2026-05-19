@@ -4,10 +4,10 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Aquatic Hyphomycetes and Ingoldian Spores
+## Aquatic Hyphomycetes and Ingoldian Spores
 
 Aquatic hyphomycetes are a group of asexual fungi that colonize submerged organic matter, particularly decaying leaves and twigs, in freshwater streams and rivers. They are named for their characteristic Ingoldian spores, which are tetraradiate (four-armed), sigmoid (S-shaped), or branched conidia that are adapted to dispersal in flowing water. These fungi play a central role in the [[dighton-fungal-dissolved-organic-carbon-production]] matter into the stream water.
 

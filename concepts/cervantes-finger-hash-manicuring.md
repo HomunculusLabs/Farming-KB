@@ -10,7 +10,7 @@ sources:
 tags: [cannabis, hash, manicuring, harvest, kief]
 ---
 
-# Finger Hash Collection During Manicuring
+## Finger Hash Collection During Manicuring
 
 Finger hash is one of the most immediate rewards of harvesting
 cannabis. As growers handle resinous buds during the manicuring

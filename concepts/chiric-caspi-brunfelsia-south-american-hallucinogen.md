@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Chiric-Caspi and Chiric Sanango (Brunfelsia spp.)
+## Chiric-Caspi and Chiric Sanango (Brunfelsia spp.)
 
 Chiric-caspi and chiric sanango are the most common of the native names for
 several species of shrubs in the genus Brunfelsia that appear to have been

@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Cultivated Mushroom Difficulty Ranking
+## Cultivated Mushroom Difficulty Ranking
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources: ["~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"]
 type: concept
 ---
 
-# Organic Pest and Disease Control
+## Organic Pest and Disease Control
 
 The organic approach to pest and disease control emphasizes
 prevention, natural predators, and physical methods over

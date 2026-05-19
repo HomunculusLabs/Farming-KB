@@ -10,7 +10,7 @@ topics:
 - psychedelic-history
 ---
 
-# Indigenous Plant Knowledge Versus Synthetic Drug Safety
+## Indigenous Plant Knowledge Versus Synthetic Drug Safety
 
 ## Overview
 

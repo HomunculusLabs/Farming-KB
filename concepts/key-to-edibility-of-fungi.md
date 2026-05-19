@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Key to Edibility of Fungi
+## Key to Edibility of Fungi
 
 Julius A. Palmer developed an original classification system for determining the
 edibility of large, fleshy fungi — one of the first such keys created specifically

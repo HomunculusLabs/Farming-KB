@@ -6,7 +6,7 @@ created: 2026-05-08
 tags: [cannabis, microbiome, cultivar, endorhiza, rhizosphere, plant-genotype, soil-science]
 ---
 
-# Cannabis Cultivar Effects on Soil Microbiome
+## Cannabis Cultivar Effects on Soil Microbiome
 
 ## Overview
 

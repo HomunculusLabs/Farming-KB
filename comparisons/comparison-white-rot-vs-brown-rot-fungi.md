@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# White Rot vs Brown Rot Fungi
+## White Rot vs Brown Rot Fungi
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Description
+## Description
 
 Grain spawn is the intermediate cultivation medium that bridges the gap between pure agar
 cultures and bulk fruiting substrates in [[mushroom-cultivation]]. It consists of cereal
@@ -27,13 +27,13 @@ spawn (G1), which can be expanded to secondary grain (G2), then to [[substrate-s
 and finally to the fruiting substrate. Maintaining the lowest possible generation number
 for production spawn is essential to prevent [[strain-senescence]].
 
-# Classification
+## Classification
 
 Category: Cultivation technique and spawn type. Domain: Mycology, mushroom cultivation.
 Generation level: Typically generation 1 through generation 3. Related techniques: liquid
 culture, substrate spawn preparation, agar-to-grain transfer.
 
-# Key Facts
+## Key Facts
 
 Common grains include wheat, rye, millet, milo, and corn. Wheat and rye are preferred for
 first-generation master spawn due to their reliable hydration characteristics and durable
@@ -64,7 +64,7 @@ soaking them covered for 30 to 60 minutes, rather than mixing dry grain with wat
 sterilizing. This method provides better control over moisture content and reduces the
 risk of wet, bacteria-prone grain.
 
-# Grain Selection Criteria
+## Grain Selection Criteria
 
 Grains must maintain their shape when soaked and sterilized. Hulled grains, grains that
 become sticky or gummy, or grains that explode easily when heated in water should be
@@ -76,7 +76,7 @@ points per unit volume. Milo and corn are used for larger grains in specific app
 Wheat bran is used as a supplement in substrate spawn at a rate of roughly half a cup per
 5 pounds of hydrated sawdust.
 
-# Contamination Inspection
+## Contamination Inspection
 
 Mold contaminants appear as green, yellow, or black circular colonies that may be granular
 or extremely wispy in texture. The most common mold contaminants in grain culture are
@@ -93,7 +93,7 @@ or incubation space immediately. The contaminated grain should be discarded and 
 container sanitized with diluted bleach. Never expand grain spawn from any jar that shows
 signs of contamination.
 
-# Relevance to Cultivation
+## Relevance to Cultivation
 
 Grain spawn is the backbone of commercial and home mushroom cultivation. The quality of
 grain spawn directly affects colonization speed, contamination resistance, and ultimately

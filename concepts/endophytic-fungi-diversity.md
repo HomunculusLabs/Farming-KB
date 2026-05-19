@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, ecology, the-rhizosphere-ecology-and-plant-microbe-interactions, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
 
-# Endophytic Fungi Diversity
+## Endophytic Fungi Diversity
 
 Endophytic fungi live asymptomatically within plant tissues for at least
 part of their [[core-endorhiza-bacterial-community-composition-cannabis]].

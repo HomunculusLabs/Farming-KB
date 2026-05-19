@@ -1,5 +1,10 @@
+---
+title: "Mckenna Food Gods Cannabis Language Weaving Cordage Connection"
+tags:
+  - concept
+---
 
-# Cannabis, Language, and the Weaving of Narrative — The Cordage Connection
+## Cannabis, Language, and the Weaving of Narrative — The Cordage Connection
 
 ## Overview
 
@@ -143,7 +148,3 @@ current understanding and implementation strategies.
 
 Successful integration of mckenna food gods cannabis language weaving cordage connection into broader
 systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions

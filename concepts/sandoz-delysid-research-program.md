@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Sandoz Delysid Research Program
+## Sandoz Delysid Research Program
 
 The systematic research and medical distribution program established by the Sandoz pharmaceutical company in Basel, Switzerland, for [LSD following gordon-wasson's discovery of its psychoactive properties in 1943.
 

@@ -8,7 +8,7 @@ updated: 2026-05-11
 type: concept
 ---
 
-# The Sunken Hearth and the Extinction of Village Culture
+## The Sunken Hearth and the Extinction of Village Culture
 
 [[masanobu-fukuoka]]'s account of the disappearance of traditional Japanese
 farming village culture is one of the most poignant passages in *The

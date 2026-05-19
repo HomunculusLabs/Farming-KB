@@ -7,7 +7,7 @@ journal: Mycologia 74(2)
 topics: [mycology, fungal-physiology, tropism, boundary-layer, mushroom-growth, aerodynamics]
 ---
 
-# Windward-Leeward Boundary Layer Redistribution and Stipe Curvature
+## Windward-Leeward Boundary Layer Redistribution and Stipe Curvature
 
 ## Overview
 

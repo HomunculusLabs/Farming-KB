@@ -13,7 +13,7 @@ sources:
   - a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# Thai Processed Mushroom Products and Fermentation Recipes
+## Thai Processed Mushroom Products and Fermentation Recipes
 
 Because mushrooms are highly perishable, strategies for conservation and
 processing are essential for any [[fao-monitoring-evaluation-disabled-mushroom-entrepreneurs]] farmers in northeastern Thailand

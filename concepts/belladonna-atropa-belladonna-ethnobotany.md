@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: [raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
 ---
-# Belladonna (Atropa belladonna): Ethnobotany and Cultural History
+## Belladonna (Atropa belladonna): Ethnobotany and Cultural History
 
 Belladonna (Atropa belladonna) is one of the most notorious plants in the Western pharmacopoeia, renowned both for its deadly toxicity and its long history of use as a hallucinogen, medicine, and cosmetic. A member of the nightshade family (Solanaceae), belladonna has entered into the folklore and mythology of virtually all European peoples and played a central role in the development of modern pharmacology.
 

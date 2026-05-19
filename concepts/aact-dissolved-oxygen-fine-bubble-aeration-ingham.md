@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# AACT Dissolved Oxygen and Fine Bubble Aeration
+## AACT Dissolved Oxygen and Fine Bubble Aeration
 
 Dr. [[aact-foam-management-troubleshooting-ingham]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Soil Protozoa
+## Soil Protozoa
 
 Protozoa are **single-celled eukaryotic heterotrophs** — meaning they possess a true nucleus and must consume other organisms for energy. Ranging from just 5 to 500 micrometers in size, these microscopic predators are among the most abundant and ecologically significant organisms in soil ecosystems. With over 60,000 known species, protozoa occupy a critical position in [[the-soil-food-web]], linking bacterial and fungal populations to larger organisms like nematodes, worms, and microarthropods.
 

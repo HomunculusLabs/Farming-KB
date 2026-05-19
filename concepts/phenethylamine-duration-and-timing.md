@@ -7,7 +7,7 @@ tags: [pharmacology, psychopharmacology, dosage, timing, harm-reduction, psyched
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# Phenethylamine Duration and Timing
+## Phenethylamine Duration and Timing
 
 ## Overview
 

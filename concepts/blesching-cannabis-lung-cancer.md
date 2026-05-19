@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Lung Cancer
+## Cannabis and Lung Cancer
 
 ## Overview
 

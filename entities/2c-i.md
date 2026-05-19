@@ -14,7 +14,7 @@ sources:
   - "raw/papers/shulgin-a-2c-t-7-pihkal-43.md"
 ---
 
-# 2C-I (2,5-Dimethoxy-4-iodophenethylamine)
+## 2C-I (2,5-Dimethoxy-4-iodophenethylamine)
 
 2C-I is a synthetic psychedelic phenethylamine and a member of the 2C family first synthesized and bioassayed by
 [[2c-b]] (bromine), the heavier iodine atom results in slower metabolic

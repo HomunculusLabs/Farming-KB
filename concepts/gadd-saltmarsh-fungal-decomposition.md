@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Laccase Genes in Saltmarsh Decomposition
+## Fungal Laccase Genes in Saltmarsh Decomposition
 
 Saltmarsh ecosystems are dominated by smooth cordgrass (Spartina
 alterniflora), whose shoots undergo standing decay in the intertidal

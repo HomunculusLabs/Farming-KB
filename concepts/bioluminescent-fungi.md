@@ -7,7 +7,7 @@ tags: [fungi, mycology, ecology, biology, biochemistry, species-profiles, chemis
 sources: []
 ---
 
-# Bioluminescent Fungi
+## Bioluminescent Fungi
 
 ## Overview
 

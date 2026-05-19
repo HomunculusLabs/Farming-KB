@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# CO2 Effects on Mycorrhizal Ecosystems
+## CO2 Effects on Mycorrhizal Ecosystems
 
 Elevated atmospheric CO₂ concentrations are a defining feature of anthropogenic global change,
 with cascading consequences for belowground fungal communities and the soil ecosystems they

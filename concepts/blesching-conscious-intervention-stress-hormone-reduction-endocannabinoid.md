@@ -4,7 +4,7 @@ source: The blesching-cannabis-health-index-autoimmune-conditions (Uwe Blesching
 topics: [endocannabinoid-system, stress-management, mind-body-medicine, cortisol, adrenaline, neuroplasticity]
 ---
 
-# Conscious Intervention for Stress Hormone Reduction
+## Conscious Intervention for Stress Hormone Reduction
 
 The endocannabinoid system (ECS) serves as a critical bridge between conscious
 mental states and the body's physiological [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]]

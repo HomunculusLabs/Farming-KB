@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Historical Periods of Neurotropic Fungi Discovery
+## Historical Periods of Neurotropic Fungi Discovery
 
 The scientific study of neurotropic fungi can be divided into five distinct historical periods, each characterized by different approaches, geographical focus, and levels of understanding. This framework, described by Guzmán, Allen, and Gartz (2000), traces the evolution of knowledge from ancient indigenous use through modern taxonomic revision.
 

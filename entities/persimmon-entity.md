@@ -8,7 +8,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Persimmon
+## Persimmon
 
 **Type:** Species (Plant)
 **Category:** Fruit-producing deciduous tree

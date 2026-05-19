@@ -16,7 +16,7 @@ tags:
 created: 2026-05-11
 ---
 
-# Multilingual User Terminology and Brand Names for Hallucinogenic Mushrooms in Europe
+## Multilingual User Terminology and Brand Names for Hallucinogenic Mushrooms in Europe
 
 ## Overview
 

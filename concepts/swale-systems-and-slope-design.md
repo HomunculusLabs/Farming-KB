@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Swale Systems and Slope Design
+## Swale Systems and Slope Design
 
 Swales and slope-based [[water-management]] are foundational tools in [[permaculture-design]]. When placed correctly on contour, swales transform the movement of water across a landscape from an erosive force into a productive, distributing resource. Combined with ponds, biological dam structures, and strategically placed buildings, they form integrated systems that provide fire protection, passive heating, food production, and water security.
 

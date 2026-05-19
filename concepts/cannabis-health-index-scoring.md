@@ -6,7 +6,7 @@ created: 2026-05-08
 source: uwe-blesching-the-cannabis-health-index.md
 ---
 
-# Cannabis Health Index — Evidence-Based Scoring for Medical Cannabis
+## Cannabis Health Index — Evidence-Based Scoring for Medical Cannabis
 
 The Cannabis Health Index (CHI) is an evidence-based evaluation framework developed by [[cannabis-for-anorexia-and-cachexia]], bacterial and viral infections (including MRSA, HIV/AIDS, hepatitis, and herpes), various forms of cancer (brain, breast, colon, lung, pancreatic, prostate, and others), cardiovascular disease (heart disease, hypertension, stroke), diabetes, eye diseases (glaucoma, [[blesching-cannabis-inflammatory-diseases]] (arthritis, [[blesching-cannabis-multiple-sclerosis]], Parkinson's), pain conditions (chronic pain, migraine, neuropathy), skin diseases, and many others.
 

@@ -16,7 +16,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Perennial Food Plants for the Ecological Garden
+## Perennial Food Plants for the Ecological Garden
 
 Perennial food plants are the backbone of the ecological garden. Unlike annual
 vegetables that must be replanted each year, perennials persist for many

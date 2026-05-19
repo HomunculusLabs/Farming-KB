@@ -1,4 +1,8 @@
-# [[holzer-stone-fruit-varieties-and-growing]]
+---
+title: "holzer stone fruit varieties and growing"
+tags:
+  - concept
+---
 do not come true from seed. A seed from a Delicious apple will not produce a
 Delicious apple tree.
 
@@ -144,5 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[eucalyptus-permaculture]]
 - [[holzer-thailand-permaculture-project]]
 - [[mollison-permaculture-design-course-curriculum]]
-- [[permaculture-designers-manual-sacred-groves]]
-- [[permaculture-japanese-raisin-tree-hovenia-dulcis]]

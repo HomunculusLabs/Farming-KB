@@ -5,7 +5,7 @@ source_author: "steve-solomon"
 tags: [gardening, fertigation, drip-irrigation, watering, fertilizer, bucket-drip, water-management, solomon]
 ---
 
-# Fertigation: Bucket Drip Water and Nutrient Delivery System
+## Fertigation: Bucket Drip Water and Nutrient Delivery System
 
 ## Overview
 

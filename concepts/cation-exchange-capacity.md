@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Cation Exchange Capacity and Soil pH
+## Cation Exchange Capacity and Soil pH
 
 Understanding **cation exchange capacity (CEC)** and **[[soil-ph]]** is essential for anyone who wants [[query-how-to-build-healthy-garden-soil]], fertile soil. These two concepts are deeply connected — they govern how plants feed, which microorganisms thrive, and ultimately how productive your garden or farm can be.
 

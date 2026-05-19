@@ -13,7 +13,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Thermally Gentle Microwave Surface Sterilization
+## Thermally Gentle Microwave Surface Sterilization
 
 ## Overview
 

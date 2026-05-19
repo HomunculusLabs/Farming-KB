@@ -7,7 +7,7 @@ sources:
   - "raw/papers/cervantes-marijuana-horticulture-indoor-outdoor.md"
 ---
 
-# How Do I Make Homemade Organic Pest Control Sprays for My Garden?
+## How Do I Make Homemade Organic Pest Control Sprays for My Garden?
 
 ## Short Answer
 

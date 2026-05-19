@@ -5,7 +5,7 @@ type: entity
 tags: [technique, chromatography, separation, cannabis, cannabinoids, laboratory]
 ---
 
-# Cannabis Chromatography
+## Cannabis Chromatography
 
 ## Description
 

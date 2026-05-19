@@ -1,4 +1,8 @@
-# GABA and the Endocannabinoid System: Cannabis as a Natural Anxiolytic
+---
+title: "GABA and the Endocannabinoid System: Cannabis as a Natural Anxiolytic"
+tags:
+  - concept
+---
 
 **Source:** The [[cannabinoid-receptors-cb1-cb2]], creating a direct pharmacological pathway for cannabinoids
 to modulate GABAergic signaling.

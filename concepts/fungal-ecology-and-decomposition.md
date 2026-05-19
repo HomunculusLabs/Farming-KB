@@ -3,7 +3,7 @@ title: gadd-fungal-ecology-endophytes and Decomposition
 created: 2026-04-28
 ---
 
-# Fungal Ecology and Decomposition
+## Fungal Ecology and Decomposition
 
 Fungi are the primary decomposers of recalcitrant [[bioremediation-fungal-biomass-biosorbent-material]].
 

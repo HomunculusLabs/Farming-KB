@@ -6,7 +6,7 @@ created: 2026-05-08
 tags: [sterilization, microwave, surface-decontamination, NASA, trace-water]
 ---
 
-# Trace Water Enhanced Microwave Surface Sterilization Mechanism
+## Trace Water Enhanced Microwave Surface Sterilization Mechanism
 
 ## Overview
 

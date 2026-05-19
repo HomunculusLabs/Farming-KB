@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Shamanic Healing — Medicine Woman Practices
+## Mazatec Shamanic Healing — Medicine Woman Practices
 
 ## Overview
 

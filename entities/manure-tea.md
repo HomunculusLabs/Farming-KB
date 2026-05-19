@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Manure Tea
+## Manure Tea
 
 ## Description
 

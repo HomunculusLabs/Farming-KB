@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-# Echinacea Growing Guide (Echinacea purpurea / E. angustifolia)
+## Echinacea Growing Guide (Echinacea purpurea / E. angustifolia)
 
 ## Overview
 

@@ -5,7 +5,7 @@ author: david-holmgren
 topics: [permaculture, energy-descent, culture, scavenging, modernity, industrial-civilization, peak-oil]
 ---
 
-# Energy Descent Culture — Scavenging, Modernity, and the Rubbish Tip of History
+## Energy Descent Culture — Scavenging, Modernity, and the Rubbish Tip of History
 
 Holmgren's concept of energy descent goes beyond resource depletion scenarios to
 encompass a fundamental cultural transformation. In his most provocative

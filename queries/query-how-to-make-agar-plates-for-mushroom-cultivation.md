@@ -8,7 +8,7 @@ sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: query
 ---
 
-# How to Make Agar Plates for Mushroom Cultivation?
+## How to Make Agar Plates for Mushroom Cultivation?
 
 ## Short Answer
 Making agar plates involves preparing a nutrient-rich agar solution (typically malt

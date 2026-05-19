@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Greenhouse Tomato Production
+## Greenhouse Tomato Production
 
 Tomatoes are the highest-value single crop at the farm stand, generating roughly three times more dollar value than any other crop. In cool climates like coastal Maine, where outdoor tomatoes don't begin ripening until early August, greenhouse production is essential for a competitive farm-stand business. This section covers the complete system for greenhouse tomato production, from seed starting through vertical growing and season extension.
 

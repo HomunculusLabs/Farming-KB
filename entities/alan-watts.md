@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: entity
 ---
 
-# Alan Watts
+## Alan Watts
 
 ## Description
 

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
 
-# Nematophagous Fungi
+## Nematophagous Fungi
 
 ## Description
 

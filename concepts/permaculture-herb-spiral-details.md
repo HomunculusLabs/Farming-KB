@@ -13,7 +13,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-# Permaculture Herb Spiral Details
+## Permaculture Herb Spiral Details
 
 The herb spiral is one of the most iconic and practical features of permaculture garden design. Described extensively by Toby Hemenway in Gaia's Garden, it is a three-dimensional, upward-coiling garden bed that packs a remarkable diversity of growing conditions into a compact footprint.
 

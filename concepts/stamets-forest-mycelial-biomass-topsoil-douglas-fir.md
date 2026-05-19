@@ -1,4 +1,8 @@
-# Forest Mycelial Biomass: The Hidden Majority of Topsoil Ecosystems
+---
+title: "Forest Mycelial Biomass: The Hidden Majority of Topsoil Ecosystems"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,6 +148,3 @@ current understanding and implementation strategies.
 Successful integration of stamets forest mycelial biomass topsoil douglas fir into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions

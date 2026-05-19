@@ -5,7 +5,7 @@ type: entity
 tags: [compost, bacteria, soil-food-web, amendment]
 ---
 
-# Bacterial Compost
+## Bacterial Compost
 
 ## Description
 

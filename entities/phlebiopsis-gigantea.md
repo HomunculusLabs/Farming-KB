@@ -5,7 +5,7 @@ type: entity
 tags: [basidiomycete, biocontrol, aphyllophorales, mycoparasite, forest-pathogen-control]
 ---
 
-# Phlebiopsis gigantea
+## Phlebiopsis gigantea
 
 ## Description
 

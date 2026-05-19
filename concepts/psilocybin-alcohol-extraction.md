@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
 
-# Psilocybin Alcohol Extraction
+## Psilocybin Alcohol Extraction
 
 ## Overview
 

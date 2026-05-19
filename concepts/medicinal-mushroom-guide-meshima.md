@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, sp
 sources: []
 ---
 
-# Meshima (Phellinus linteus)
+## Meshima (Phellinus linteus)
 
 ## Overview
 

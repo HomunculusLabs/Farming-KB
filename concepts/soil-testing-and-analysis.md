@@ -7,7 +7,7 @@ tags: [soil, ph, npk, fertility, nutrients, soil-amendment, minerals, gardening,
 sources: []
 ---
 
-# Soil Testing and Analysis
+## Soil Testing and Analysis
 
 Soil testing is the foundation of informed soil management. Without knowing your soil's current condition, amendment decisions are guesswork that can waste money, harm soil biology, and even make existing problems worse. This guide covers pH testing, macronutrient analysis, cation exchange capacity, and how to interpret and act on results.
 

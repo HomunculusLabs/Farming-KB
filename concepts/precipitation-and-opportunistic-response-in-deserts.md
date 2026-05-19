@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Precipitation and Opportunistic Response in Deserts
+## Precipitation and Opportunistic Response in Deserts
 
 ## Mediterranean Climates on Desert Borders
 

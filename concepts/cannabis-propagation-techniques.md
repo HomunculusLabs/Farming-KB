@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Propagation Techniques
+## Cannabis Propagation Techniques
 
 Cannabis can be propagated either sexually (through seeds) or asexually (through cloning). Seeds are the result of [[spore-vs-vegetative-cell-resistance-microwave-sterilization]] in a Cannabis plant has the same genotype and a plant resulting from asexual propagation will have the same genotype as the mother plant. Cloning can preserve a genotype indefinitely. Only mutation of a gene in a vegetative cell that then divides will permanently affect the genotype.
 

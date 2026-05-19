@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Giannozzo Pucci Italian Natural Farming Camp
+## Giannozzo Pucci Italian Natural Farming Camp
 
 updated: 2026-04-18
 

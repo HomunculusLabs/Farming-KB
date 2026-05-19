@@ -5,7 +5,7 @@ type: entity
 tags: [bacteria, anaerobic, soil-microbiology, nitrogen-fixation, compost]
 ---
 
-# Clostridium
+## Clostridium
 
 ## Description
 

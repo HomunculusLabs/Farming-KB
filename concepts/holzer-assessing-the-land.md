@@ -8,7 +8,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
-# Assessing the Land
+## Assessing the Land
 
 From "[[savory-growing-season-and-non-growing-season-management]] and the lower temperatures. It is important to get the most sunlight and make sure crops will be sheltered from the wind. A windbreak made up of various [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and flowering shrubs at different heights is very effective.
 

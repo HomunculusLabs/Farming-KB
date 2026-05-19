@@ -14,7 +14,7 @@ created: 2026-05-11
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Endorhiza Microbiome
+## Endorhiza Microbiome
 
 The endorhiza microbiome refers to the community of microorganisms—primarily bacteria—that colonize the internal tissues of plant roots. Unlike rhizosphere microbes, which inhabit the soil zone immediately surrounding the root surface, endorhiza organisms live within the root cortex and vascular tissues themselves. These endophytic communities play critical roles in plant health, nutrient acquisition, and defense against pathogens.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Rehabilitation — Water Control and Conditioning
+## Soil Rehabilitation — Water Control and Conditioning
 
 Soil rehabilitation is the process of restoring degraded, compacted, eroded, or lifeless soils to productive health. In permaculture, soil rehabilitation is a priority wherever degradation has occurred, as all productive systems depend on stable and fertile soil. No matter on what substrate we start, we can create rich and well-structured soils in gardens with some input of labour and the addition of organic material or green manures.
 

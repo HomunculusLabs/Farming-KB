@@ -11,7 +11,7 @@ sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
-# Mushroom Spore Syringe Making
+## Mushroom Spore Syringe Making
 
 ## Overview
 

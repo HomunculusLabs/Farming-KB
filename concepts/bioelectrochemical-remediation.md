@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md"
 ---
 
-# Bioelectrochemical Remediation Systems
+## Bioelectrochemical Remediation Systems
 
 Bioelectrochemical remediation systems integrate electrochemical processes with microbial metabolism to enhance the degradation, transformation, or immobilization of environmental contaminants.
 

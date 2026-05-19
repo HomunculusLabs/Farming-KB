@@ -8,7 +8,7 @@ sources:
   - "J.H. Halpern - Hallucinogens and Dissociative Agents Growing in the dmt-containing-plants-united-states-halpern (Pharmacology & Therapeutics, 2004)"
 ---
 
-# Internet Dissemination of Psychoactive Plant Information
+## Internet Dissemination of Psychoactive Plant Information
 
 The Internet has fundamentally changed how psychoactive botanical
 knowledge spreads, creating new public health challenges that

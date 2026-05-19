@@ -4,7 +4,7 @@ source: [[fungi-in-the-environment-bioremediation-applications]] (Gadd, Watkinso
 topics: [fungal-bioweathering, mineral-dissolution, acidolysis, complexolysis, redoxolysis, protonolysis, organic-acids, biogeochemistry]
 ---
 
-# Fungal Biochemical Weathering Mechanisms
+## Fungal Biochemical Weathering Mechanisms
 
 Fungi are among the most powerful biological agents of [[dighton-fungal-rock-weathering-mineral-dissolution]]:
 

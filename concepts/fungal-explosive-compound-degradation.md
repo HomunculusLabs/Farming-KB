@@ -15,7 +15,7 @@ updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 ---
 
-# Fungal Explosive and Nitroaromatic Compound Degradation
+## Fungal Explosive and Nitroaromatic Compound Degradation
 
 ## Overview
 

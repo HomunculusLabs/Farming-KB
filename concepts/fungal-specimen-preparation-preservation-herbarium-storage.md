@@ -5,7 +5,7 @@ tags: [mycology, specimen-preparation, herbarium, preservation, drying, fungal-c
 created: 2026-05-09
 ---
 
-# Fungal Specimen Preparation, Preservation, and Herbarium Storage
+## Fungal Specimen Preparation, Preservation, and Herbarium Storage
 
 Proper specimen [[biodiversity-fungal-biodiversity-estimation-methods]] studies and taxonomy.
 

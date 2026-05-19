@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dryland Strategies and Desert Ecology
+## Dryland Strategies and Desert Ecology
 
 ## Overview
 

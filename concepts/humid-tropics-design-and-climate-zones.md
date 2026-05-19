@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Humid Tropics Design and Climate Zones
+## Humid Tropics Design and Climate Zones
 
 The humid tropics encompass a diverse range of climatic conditions that demand specific design approaches for sustainable land use. Understanding the distinctions between wet tropics, wet-dry tropics, and monsoon tropics is essential for selecting appropriate strategies, species, and earthworks. This page covers the climatic classification of tropical zones and the fundamental design principles that apply to each.
 

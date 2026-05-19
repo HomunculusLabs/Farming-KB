@@ -6,7 +6,7 @@ type: concept
 tags: [psilocybin, mushrooms]
 sources: []
 ---
-# Psilocybin Neuroscience
+## Psilocybin Neuroscience
 
 Psilocybin, LSD, and DMT work by **mimicking the neurotransmitter serotonin (5-HT)**, one of the most important and widespread of the brain's synaptic neurochemical messengers. Their molecular structure is so similar to serotonin that they can "fool" and infiltrate parts of the brain which process information using serotonergic synapses.
 

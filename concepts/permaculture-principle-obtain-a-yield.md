@@ -8,7 +8,7 @@ sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Permaculture Principle 3 — Obtain a Yield
+## Permaculture Principle 3 — Obtain a Yield
 
 The third of David Holmgren's twelve permaculture design principles. This principle reminds us that any system must produce useful yields to be sustainable. A system that only requires inputs without returning outputs will eventually be abandoned.
 

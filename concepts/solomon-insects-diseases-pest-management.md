@@ -7,7 +7,7 @@ tags: pest-management, insects, organic-gardening, biological-control
 type: concept
 ---
 
-# Solomon Insects Diseases and Pest Management
+## Solomon Insects Diseases and Pest Management
 
 ## Sir Albert Howard's Principle
 

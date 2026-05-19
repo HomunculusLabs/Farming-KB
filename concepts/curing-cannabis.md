@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Curing Cannabis
+## Curing Cannabis
 
 Curing is the post-drying process that allows [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] bud. Gently
 pack as many buds into the container as possible without crushing them. Place

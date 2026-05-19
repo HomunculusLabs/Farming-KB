@@ -5,7 +5,7 @@ type: entity
 tags: [people, biologist, systems-thinker, epigenetics]
 ---
 
-# C.H. Waddington
+## C.H. Waddington
 
 ## Description
 

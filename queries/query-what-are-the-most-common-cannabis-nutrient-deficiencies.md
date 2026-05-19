@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are the Most Common Cannabis Nutrient Deficiencies
+## What Are the Most Common Cannabis Nutrient Deficiencies
 
 ## Short Answer
 

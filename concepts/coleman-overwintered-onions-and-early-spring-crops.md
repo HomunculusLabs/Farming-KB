@@ -16,7 +16,7 @@ sources:
 created: 2026-04-28
 type: concept
 ---
-# Overwintered Onions and Early Spring Crop Production
+## Overwintered Onions and Early Spring Crop Production
 
 Overwintered onions represent one of the most strategically valuable crops in the year-round production system, providing a harvest that precedes spring-planted onions by five or more weeks. 's approach to overwintered onions and companion early spring crops demonstrates how precise timing -variety-selectiontion can unlock additional weeks of marketable production.
 

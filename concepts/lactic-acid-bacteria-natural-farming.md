@@ -8,7 +8,7 @@ sources: [master-cho-knf-recipe-book.md]
 type: concept
 ---
 
-# Lactic Acid Bacteria in Natural Farming
+## Lactic Acid Bacteria in Natural Farming
 
 ## Overview
 

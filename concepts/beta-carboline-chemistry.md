@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shulgin-a-tihkal.md"
 ---
 
-# Beta-Carboline Chemistry
+## Beta-Carboline Chemistry
 
 Beta-carbolines (9H-pyrido[3,4-b]indoles) are a family of tricyclic compounds formed by the condensation of tryptamine derivatives with aldehydes or ketones, producing a fused ring system incorporating the original indole plus a third nitrogen-containing ring. In  pharmacology and serve as the oldest known monoamine oxidase inhibitors used by humans.
 

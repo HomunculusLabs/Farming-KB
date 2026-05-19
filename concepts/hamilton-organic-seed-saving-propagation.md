@@ -8,7 +8,7 @@ type: concept
 tags: [plant-growth]
 ---
 
-# Organic [[hamilton-greenhouse-polytunnel-growing]]
+## Organic [[hamilton-greenhouse-polytunnel-growing]]
 ## Background and Context
 
 Organic Seed [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

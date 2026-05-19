@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# NFT vs DWC
+## NFT vs DWC
 
 ## Overview
 

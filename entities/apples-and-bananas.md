@@ -11,7 +11,7 @@ sources:
   - "Phylos Bioscience. The Cannabis Evolution. phylosbioscience.com."
 ---
 
-# Apples and Bananas
+## Apples and Bananas
 
 Apples and Bananas is a modern indica-dominant hybrid cannabis strain resulting from an exceptionally complex multi-way cross within the elite Cookies family lineage. Bred by Compound Genetics, this strain combines the genetics of Platinum Cookies × [[cannabis-indica]]* × *[[cannabis-glandular-trichome-types-resin-production-clarke]], and the signature Cookies terpene profile (earthy, sweet, slightly pungent). A phenotype of t [[girl-scout-cookies]] cout Cookies lineage selected for its silvery sheen of trichomes
 - **[[granddaddy-purple]]** (Ken Estes, early 2000s) introduces deep purple coloration potential, heavy indica sedation, and a grape-like sweetness that rounds out the fruit profile

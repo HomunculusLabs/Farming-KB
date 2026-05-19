@@ -1,5 +1,10 @@
+---
+title: "Ingham Compost Tea Recipes And Ingredient Formulations"
+tags:
+  - concept
+---
 
-# AACT Ingredient Formulations and Recipes
+## AACT Ingredient Formulations and Recipes
 
 ## Overview
 
@@ -143,6 +148,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[doc]]
-- [[dom]]
-- [[det]]

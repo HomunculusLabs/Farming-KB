@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, mushroom-cultivation, environment, physiology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Mushroom Fruiting Conditions
+## Mushroom Fruiting Conditions
 
 Fruiting is the reproductive phase where mycelium forms fruiting bodies.
 The transition from vegetative [[query-how-to-grow-oyster-mushrooms-at-home]] at 12-25 C, king oyster at 12-18 C, lion mane at 15-22

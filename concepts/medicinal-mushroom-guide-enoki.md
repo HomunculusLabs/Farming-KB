@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, sp
 sources: []
 ---
 
-# Enoki (Flammulina velutipes)
+## Enoki (Flammulina velutipes)
 
 ## Overview
 

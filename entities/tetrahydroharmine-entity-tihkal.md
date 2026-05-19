@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# Tetrahydroharmine — TIHKAL #54
+## Tetrahydroharmine — TIHKAL #54
 
 ## Compound Identity
 

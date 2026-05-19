@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# International Mycology Research Network
+## International Mycology Research Network
 
 The international mycology research network comprises a distributed community of universities, research institutes, and individual scientists collaborating across borders to advance the understanding of fungi in the environment. This network spans at least ten countries across four continents, connected through professional societies, joint publications, and shared research programs.
 

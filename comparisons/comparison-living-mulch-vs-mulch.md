@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Living Mulch vs Mulch
+## Living Mulch vs Mulch
 
 ## Overview
 

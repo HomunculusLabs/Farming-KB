@@ -7,7 +7,7 @@ tags: [safety, psychopharmacology, health, psychedelics, entheogen, principles, 
 sources: []
 ---
 
-# Harm Reduction Guide
+## Harm Reduction Guide
 
 ## Overview
 

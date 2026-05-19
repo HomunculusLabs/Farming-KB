@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Ethnomycology and Psychoactive Fungi
+## Ethnomycology and Psychoactive Fungi
 
 Ethnomycology is the study of the historical uses and cultural
 significance of fungi, particularly psychoactive species, in human

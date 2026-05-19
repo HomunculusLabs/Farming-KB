@@ -8,7 +8,7 @@ type: concept
 tags: [plants]
 ---
 
-# Belladonna Plant
+## Belladonna Plant
 
 [[fukuoka-scalpel-beautiful-woman-science-nature]]), referring to the
 cosmetic use of its juice to dilate the pupils.

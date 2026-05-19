@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis for Alzheimer's Disease and Dementia
+## Cannabis for Alzheimer's Disease and Dementia
 
 ## Evidence-Based Confidence Level and Therapeutic Potential
 

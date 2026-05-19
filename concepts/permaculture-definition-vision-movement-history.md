@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Definition, Vision, and Movement History
+## Permaculture Definition, Vision, and Movement History
 
 This page covers the definition of permaculture, its evolution from concept to global movement, the structure of the [[permaculture-design]] Course, and the various ways permaculture has been perceived and received by different communities.
 

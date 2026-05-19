@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 5-MeO-DMT (5-Methoxy-N,N-Dimethyltryptamine)
+## 5-MeO-DMT (5-Methoxy-N,N-Dimethyltryptamine)
 
 TIHKAL entry #38. An extremely potent, fast-acting tryptamine psychedelic. Found naturally in the venom of the [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]]. Known also as bufotenine methyl ether, O-methylbufotenine, and N,N,O-trimethylserotonin.
 

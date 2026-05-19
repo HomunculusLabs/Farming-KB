@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Grafting and Budding Techniques
+## Grafting and Budding Techniques
 
 Grafting and budding are two similar techniques used to put new
 varieties onto existing plants, particularly [[hamilton-vegetative-propagation]] methods such as cuttings,

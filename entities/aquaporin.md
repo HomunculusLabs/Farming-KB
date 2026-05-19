@@ -5,7 +5,7 @@ type: entity
 tags: [protein, membrane-transport, water-uptake, cell-biology, plant-physiology]
 ---
 
-# Aquaporin
+## Aquaporin
 
 ## Description
 

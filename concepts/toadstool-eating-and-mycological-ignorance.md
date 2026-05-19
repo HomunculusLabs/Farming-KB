@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Toadstool Eating and Mycological Ignorance
+## Toadstool Eating and Mycological Ignorance
 
 ## Overview
 

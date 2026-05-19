@@ -7,7 +7,7 @@ type: concept
 tags: [mushroom-cultivation, substrate, straw, yeast-extract, marmite, boil-a-bag, jarrold, pasteurization, mycology, spawn-preparation]
 ---
 
-# Straw Substrate Preparation with Yeast Extract Enrichment
+## Straw Substrate Preparation with Yeast Extract Enrichment
 
 ## Overview
 

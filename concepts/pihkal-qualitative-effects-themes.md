@@ -7,7 +7,7 @@ tags: [psychology, consciousness, psychedelics, phenomenology, psychopharmacolog
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# PIHKAL Qualitative Effects Themes
+## PIHKAL Qualitative Effects Themes
 
 ## Overview
 

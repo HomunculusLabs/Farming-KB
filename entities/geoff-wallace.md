@@ -5,7 +5,7 @@ type: entity
 tags: [person, permaculture, soil-rehabilitation, agriculture]
 ---
 
-# Geoff Wallace
+## Geoff Wallace
 
 ## Description
 

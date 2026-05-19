@@ -4,9 +4,9 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/arthur-j-mushrooms-and-mankind.md]
+sources: ["raw/papers/arthur-j-mushrooms-and-mankind.md"]
 ---
-# Arbuscular Mycorrhizal Colonization Patterns
+## Arbuscular Mycorrhizal Colonization Patterns
 
 Arbuscular mycorrhizal (AM) fungi are obligate symbionts that colonize the roots of more than 80% of terrestrial plant species. The colonization process follows a highly orchestrated sequence of developmental stages, each representing a distinct morphological interface for [[mycorrhizal-phosphatase-activity-elf97-detection]] has been localized to arbuscules, correlating with the efficiency of phosphorus uptake (Tisserant et al. 1992) and sugar metabolism (Ezawa et al. 1999). Studies using succinate dehydrogenase (SDH) staining have shown that over 80% of autofluorescing arbuscules in palm species are [[gadd-mycelial-network-dynamics]] varies with host: cotton supports hyphal densities of 6.8 mm/mm², while lettuce and eggplant support only 2.9-4.1 mm/mm² (Giovannetti et al. 2004). Different plant species also influence the frequency of hyphal anastomoses and branching patterns, suggesting that host physiology modulates fungal morphological development.
 

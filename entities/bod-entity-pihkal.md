@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# BOD
+## BOD
 
 [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]]. This family is
 called the BOX series because an oxygen atom has been put on the

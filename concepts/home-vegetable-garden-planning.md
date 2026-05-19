@@ -8,7 +8,7 @@ sources:
   - Purdue University Cooperative Extension Service — Home Gardener's Guide
 ---
 
-# Home Vegetable Garden Planning
+## Home Vegetable Garden Planning
 
 Planning a home vegetable garden is the first and most important step in
 successful [[savory-growing-season-and-non-growing-season-management]].

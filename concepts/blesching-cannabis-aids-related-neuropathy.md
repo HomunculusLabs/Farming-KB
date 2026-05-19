@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and AIDS-Related Neuropathy
+## Cannabis and AIDS-Related Neuropathy
 
 ## Overview
 

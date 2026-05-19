@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Thermogenesis in Mushroom Cultivation
+## Thermogenesis in Mushroom Cultivation
 
 Thermogenesis is the self-heating effect that occurs when
 mushroom mycelium vigorously colonizes a substrate. As the

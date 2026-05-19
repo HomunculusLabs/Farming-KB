@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Thinning and Spacing
+## Thinning and Spacing
 
 Thinning is the gradual removal of excess seedlings to give the remaining plants adequate room to develop. It is one of the most important — and most resisted — practices in [[dryland-vegetable-gardening]]. Many gardeners sow too densely and then fail to thin adequately, resulting in stunted, unproductive plants. Understanding the biology behind competition and the practical techniques for thinning transforms garden productivity.
 

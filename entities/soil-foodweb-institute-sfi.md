@@ -5,7 +5,7 @@ type: entity
 tags: [organization, soil-biology, compost-tea, microscopy, assessment]
 ---
 
-# Soil Foodweb Institute (SFI)
+## Soil Foodweb Institute (SFI)
 
 ## Description
 

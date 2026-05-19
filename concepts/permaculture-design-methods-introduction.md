@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Design Methods — Introduction
+## Permaculture Design Methods — Introduction
 
 ## Overview
 

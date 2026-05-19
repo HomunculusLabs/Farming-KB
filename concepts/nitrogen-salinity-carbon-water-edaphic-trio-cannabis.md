@@ -1,4 +1,8 @@
-# Nitrogen, Salinity, Carbon, and Water as Edaphic Determinants of the Cannabis Microbiome
+---
+title: "Nitrogen, Salinity, Carbon, and Water as Edaphic Determinants of the Cannabis Microbiome"
+tags:
+  - concept
+---
 
 The edaphic (soil-related) factors that shape the [[core-endorhiza-bacterial-community-composition-cannabis]]. The analysis revealed that
 nitrogen, carbon, and water content together provided the best three-factor

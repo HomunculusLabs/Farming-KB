@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Piñon Colorado (*Jatropha gossypifolia*)
+## Piñon Colorado (*Jatropha gossypifolia*)
 
 ## Description
 

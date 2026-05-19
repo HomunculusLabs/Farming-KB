@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Lupuna (Ceiba sp.)
+## Lupuna (Ceiba sp.)
 
 ## Description
 

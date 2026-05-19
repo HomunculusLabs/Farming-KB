@@ -7,7 +7,7 @@ tags: [animal-husbandry, byproducts, nutrition, homesteading, processing, preser
 sources: []
 ---
 
-# Black Soldier Fly Larvae as Feed
+## Black Soldier Fly Larvae as Feed
 
 Black soldier fly (BSF) larvae are a high-quality protein source for poultry, fish, swine, and other livestock. As homestead-scale insect farming grows, BSF larvae offer a locally produced alternative to commercial feed, reducing input costs and closing nutrient cycles.
 

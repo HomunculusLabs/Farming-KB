@@ -20,7 +20,7 @@ sources:
 - raw/articles/jeff-lowenfels-teaming-with-fungi.md
 ---
 
-# Mycorrhizal Types
+## Mycorrhizal Types
 
 Mycorrhizal fungi are divided into several categories based on how they associate with plant roots. Understanding these types is essential for choosing the right management practices. See [[mycorrhizal-fungi]] for the practical overview and [[mycorrhizal-networks]] for how networks function.
 

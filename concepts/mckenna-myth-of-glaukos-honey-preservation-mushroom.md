@@ -4,7 +4,7 @@ source: "mckenna_t-food_of_the_gods.md"
 tags: [mckenna, glaukos, minoan, honey, mushroom, preservation, mythology, crete, polyidos, minos]
 ---
 
-# McKenna's Myth of Glaukos: Honey Preservation and Mushroom Symbolism
+## McKenna's Myth of Glaukos: Honey Preservation and Mushroom Symbolism
 
 ## Overview
 

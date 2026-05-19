@@ -29,7 +29,7 @@ type: comparison
 created: 2026-05-03
 ---
 
-# Elderberry vs Gooseberry vs Currant (Ribes) — Cultivation Comparison
+## Elderberry vs Gooseberry vs Currant (Ribes) — Cultivation Comparison
 
 Three of the most rewarding berry shrubs for home orchards and permaculture sites,
 each with distinct strengths and trade-offs.

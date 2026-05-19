@@ -16,7 +16,7 @@ sources:
   - Attias N, Danai O, Shapira K, Pereman I, Elnathan R, Portnoy M (2020). "3D printing of mycelium-based composites." Polymers, 12(12), 2845.
 ---
 
-# Mycofabrication: Engineering Materials from Mycelium
+## Mycofabrication: Engineering Materials from Mycelium
 
 Mycofabrication is the use of fungal mycelium as a biological manufacturing platform to produce structural materials, textiles, packaging, and construction components. Mycelium, the vegetative body of fungi, consists of a network of hyphal filaments that can colonize organic substrates and self-assemble into dense, load-bearing composites.
 

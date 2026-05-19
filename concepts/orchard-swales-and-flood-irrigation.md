@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Orchard Swales and Flood Irrigation
+## Orchard Swales and Flood Irrigation
 
 [[water-management]] on orchard and agricultural land can be achieved through a variety of earthworks, channels, and flood-based techniques. These methods leverage gravity, contour, and seasonal rainfall patterns to move, store, and distribute water with minimal energy input.
 

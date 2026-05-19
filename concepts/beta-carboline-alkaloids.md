@@ -16,7 +16,7 @@ sources:
   - "raw/papers/mckenna_t-tryptamines_consciousness.md"
 ---
 
-# Beta-Carboline Alkaloids
+## Beta-Carboline Alkaloids
 
 Beta-carboline alkaloids are a family of tricyclic compounds derived from the
 condensation of [[golden-guide-syrian-rue-and-maoi-plants]]), and numerous

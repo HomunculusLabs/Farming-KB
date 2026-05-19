@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Pinhead Initiation Techniques
+## Pinhead Initiation Techniques
 
 Pinhead initiation (pinning, pin setting, fructification) is the critical transition from vegetative mycelial growth to generative fruitbody production. All species require a specific set of environmental triggers that differ markedly from spawn run conditions.
 

@@ -7,7 +7,7 @@ tags: [mycology, psychedelic-therapy, psychology, consciousness]
 sources: []
 ---
 
-# Psychedelic Psychotherapy
+## Psychedelic Psychotherapy
 
 Psychedelic psychotherapy refers to therapeutic approaches that use
 psychedelic substances within a structured clinical setting to treat

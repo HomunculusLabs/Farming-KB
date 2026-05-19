@@ -9,7 +9,7 @@ sources:
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Psilocybin and Nature Connection
+## Psilocybin and Nature Connection
 
 ## Overview
 

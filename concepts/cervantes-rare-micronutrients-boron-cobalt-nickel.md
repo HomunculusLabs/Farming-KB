@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Rare Micronutrients for Cannabis
+## Rare Micronutrients for Cannabis
 
 Several micronutrients are seldom found deficient
 in cannabis gardens but can cause significant

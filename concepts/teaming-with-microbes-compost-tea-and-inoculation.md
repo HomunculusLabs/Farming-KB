@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# Compost Tea and Soil Inoculation
+## Compost Tea and Soil Inoculation
 
 Actively [[mushroom-cultivator-compost-pile-management]] takes effort
 - Carting compost and mulches around and applying them is hard work for large gardens

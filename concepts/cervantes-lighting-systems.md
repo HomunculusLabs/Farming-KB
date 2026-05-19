@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Cannabis Lighting Systems — HID, LED, CFL Comparison
+## Cannabis Lighting Systems — HID, LED, CFL Comparison
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[cervantes-electricity-consumption-cost-management]] in indoor grows. A single 1000W HID lamp running 12 hours per day consumes approximately 365 kWh per month. Growers should factor electricity costs into their overall budget:
 

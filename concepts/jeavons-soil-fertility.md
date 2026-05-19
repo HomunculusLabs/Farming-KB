@@ -9,7 +9,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Soil Fertility and Sustainable Soil Management
+## Soil Fertility and Sustainable Soil Management
 
 The GROW BIOINTENSIVE approach to soil fertility centers on building and maintaining soil humus through the closed-loop cycling of compostable materials grown on-site.
 

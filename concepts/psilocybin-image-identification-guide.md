@@ -7,7 +7,7 @@ tags: [psilocybin, mushrooms]
 sources:
   - "raw/papers/the-psilocybin-mushroom-image-guide.md"
 ---
-# Psilocybin Mushroom Image Identification Guide
+## Psilocybin Mushroom Image Identification Guide
 
 Visual identification is an essential skill for anyone studying or foraging [[comparison-spore-print-collection-vs-spore-syringe-production]] colour** — essential for genus-level identification
 3. **Bruising reaction** — blue bruising indicates psilocybin/psilocin presence

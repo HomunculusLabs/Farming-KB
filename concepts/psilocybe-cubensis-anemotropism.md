@@ -4,7 +4,7 @@ source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 type: concept
 ---
 
-# Anemotropism in Psilocybe Cubensis
+## Anemotropism in Psilocybe Cubensis
 
 Anemotropism — wind-directed growth — is a principal tropic response governing stipe
 elongation in *[[psilocybe-cubensis]]* prior to sporulation. First documented systematically

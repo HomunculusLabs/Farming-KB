@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Savanna Forestry Rehabilitation
+## Tropical Savanna Forestry Rehabilitation
 
 Tropical savannah forestry addresses the rehabilitation of degraded lands where overgrazing, fire, and slash-and-burn agriculture have destroyed native forests, replacing them with fire-prone grasslands of low productivity. These degraded areas—often dominated by stubborn species like blady grass (*[[imperata-cylindrica]]*)—present both a challenge and an opportunity for systematic ecological restoration using pioneer legume species.
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# Teaming with Microbes — Fungi
+## Teaming with Microbes — Fungi
 
 In *Teaming with Microbes*, Lowenfels and Lewis present soil fungi as the second major group of decomposers and a critical partner for plants through [[cotter-oyster-mushroom-cultivation]]) emits toxic drops from hyphal tips
 - Some fungi use adhesives to stick to and digest nematodes and even springtails

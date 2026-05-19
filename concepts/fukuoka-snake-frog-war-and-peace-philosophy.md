@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# Fukuoka: Village Without War and Peace
+## Fukuoka: Village Without War and Peace
 
 Source: [[query-how-to-get-rid-of-slugs-and-snails-organically]] of the aspects of inside and outside. Farmers everywhere in the world are at root the same farmers. Let us say that the key to peace lies close to the earth.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Lumsden-Wilson Gene Culture Coevolution Theory
+## Lumsden-Wilson Gene Culture Coevolution Theory
 
 ## Overview
 

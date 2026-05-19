@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Hydro Cycle and [[ozier-pdc-sector-analysis-for-site-design]] for mapping water flows
+## Hydro Cycle and [[ozier-pdc-sector-analysis-for-site-design]] for mapping water flows
 - [[ozier-pdc-plant-guilds-and-polyculture-design]] for plant water use
 ## Practical Applications
 

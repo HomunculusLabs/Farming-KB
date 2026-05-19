@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Viral Diseases on Cannabis
+## Viral Diseases on Cannabis
 
 ## Overview
 

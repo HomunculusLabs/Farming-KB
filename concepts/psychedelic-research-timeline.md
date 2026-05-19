@@ -10,7 +10,7 @@ sources:
   - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
 
-# Psychedelic Research Timeline
+## Psychedelic Research Timeline
 
 ## Overview
 

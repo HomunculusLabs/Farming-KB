@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Manure Quality and Fertilizer Values
+## Manure Quality and Fertilizer Values
 
 ## Overview
 

@@ -4,9 +4,9 @@ created: 2026-04-13
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/laminar-flow-hood-construction-1.md]
+sources: ["raw/papers/laminar-flow-hood-construction-1.md"]
 ---
-# DIY Laminar Flow Hood Construction
+## DIY Laminar Flow Hood Construction
 
 A laminar flow hood is the single most important piece of [[accessible-mushroom-cultivation-for-disabilities]]. It provides a continuous stream of HEPA-filtered air, creating a sterile workspace for inoculation, agar work, and [[stamets-growing-room-air-circulation-co2-management]] into the unit
 2. **Filter pad** (prefilter) traps large dust particles

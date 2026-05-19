@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Garden Tool Selection and Sharpening
+## Garden Tool Selection and Sharpening
 
 The quality and sharpness of [[garden-tools-and-sharpening]] has an enormous impact on the physical effort required to maintain [[query-how-do-i-plan-and-start-a-vegetable-garden-from-scratch]]. [[steve-solomon]] argues that most gardeners work far harder than necessary because they use blunt, low-quality tools. A properly sharpened, well-made tool transforms gardening from exhausting labor into manageable, even enjoyable, physical activity.
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Make Fermented Plant Extracts for Natural Fertilizer?
+## How Do I Make Fermented Plant Extracts for Natural Fertilizer?
 
 Fermented plant extracts (FPEs) are liquid fertilizers made by fermenting fresh plant material in sugar or brine. They concentrate the [[comparison-biodynamic-preparations-vs-biofertilizers]], and many traditional agricultural systems worldwide.
 

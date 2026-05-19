@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Arthrobotrys musiformis
+## Arthrobotrys musiformis
 
 **Arthrobotrys musiformis** is a nematophagous ascomycete fungus that captures nematodes using adhesive trapping structures.
 

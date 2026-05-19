@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Reishi and Maitake — Medicinal Polypore Cultivation
+## Reishi and Maitake — Medicinal Polypore Cultivation
 
 Reishi (*Ganoderma* spp.) and maitake (*[[grifola-frondosa]]*) are two of the most valued medicinal
 mushrooms in the world. Reishi, known as the "mushroom of immortality" in traditional Chinese

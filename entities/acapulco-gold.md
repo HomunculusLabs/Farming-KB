@@ -18,7 +18,7 @@ sources:
   - Emboden, W. (1972). "Ritual Use of comparison-cannabis-sativa-vs-cannabis-indica L." Economic Botany, 26(3), 264-274.
 created: 2026-05-07---
 
-# Acapulco Gold
+## Acapulco Gold
 
 **Acapulco Golden** · **Mexican Gold** · **Oro de Acapulco**
 

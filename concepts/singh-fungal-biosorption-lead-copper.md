@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungal Biosorption of Lead and Copper
+## Fungal Biosorption of Lead and Copper
 
 Lead and copper represent two of the most significant metallic
 contaminants targeted by fungal biosorption technologies. Lead is a

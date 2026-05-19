@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 ---
-# Fungal Degradation of Pesticides (Singh)
+## Fungal Degradation of Pesticides (Singh)
 ## Overview
 Synthetic pesticides have been used since 1939 (DDT discovery). Pesticides are
 classified into three categories: insecticides (35% of use in developed

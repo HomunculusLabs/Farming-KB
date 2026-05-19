@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# 2C-B Family — Phenethylamine Psychedelics from PIHKAL
+## 2C-B Family — Phenethylamine Psychedelics from PIHKAL
 
 The 2C family represents one of the most significant contributions of
 [[psilocybin-serotonin-5ht2a-receptor-pharmacology]], particularly the 5-HT2A subtype.

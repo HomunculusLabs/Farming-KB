@@ -1,5 +1,10 @@
+---
+title: "Solomon Humanure Recycling And Composting"
+tags:
+  - concept
+---
 
-# Humanure Recycling and Composting
+## Humanure Recycling and Composting
 
 ## Overview
 

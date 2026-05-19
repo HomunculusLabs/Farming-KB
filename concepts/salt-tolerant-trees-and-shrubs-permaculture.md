@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Salt-Tolerant Trees and Shrubs in Permaculture
+## Salt-Tolerant Trees and Shrubs in Permaculture
 
 Salt-tolerant (halophytic) trees and shrubs are essential components of permaculture systems in coastal, arid, and saline environments. These species enable productive plantings in areas where conventional agriculture fails, while providing erosion control, windbreaks, forage, timber, and edible products. Understanding the range of salt-tolerant species allows designers to create resilient systems in marginal landscapes.
 

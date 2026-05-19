@@ -5,7 +5,7 @@ type: entity
 tags: [place, economics, cooperation, italy, permaculture]
 ---
 
-# Emilia-Romagna Cooperative Model
+## Emilia-Romagna Cooperative Model
 
 ## Description
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Straw Box Potato Culture
+## Straw Box Potato Culture
 
 ## Description
 

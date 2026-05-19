@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Phosphate and Potassium Accumulator Plants
+## Phosphate and Potassium Accumulator Plants
 
 Phosphorus and potassium are two [[teaming-with-nutrients-essential-plant-nutrients]] that are
 notoriously difficult to liberate from their mineral forms in soil.

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [leaf-mold, soil-health, microorganisms, organic-matter, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+sources: ["raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"]
 type: concept
 ---
 
-# Leaf Mold as Ideal Soil Model
+## Leaf Mold as Ideal Soil Model
 
 Leaf mold soil is the central reference point and ideal model for soil
 management in the JADAM system. Found on forest floors where leaves have

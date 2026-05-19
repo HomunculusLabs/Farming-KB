@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Natural Seeding and Direct Seeding Development
+## Fukuoka Natural Seeding and Direct Seeding Development
 
 [[coleman-louis-savier-twentieth-century-maraicher]]. By observing how nature manages seed dispersal and
 germination, Fukuoka developed a system that progressively eliminated plowing,

@@ -10,7 +10,7 @@ sources:
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
-# Reishi Cultivation
+## Reishi Cultivation
 
 Reishi ([[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of Reishi cultivation is the ability to control morphology through environmental conditions, particularly CO2 concentration:
 

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
 
-# Grime R-C-S Selection Strategy
+## Grime R-C-S Selection Strategy
 
 ## Description
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Forest Water Cycling and Precipitation
+## Forest Water Cycling and Precipitation
 
 Forests are among the most powerful agents in the global water cycle, functioning as vast, actively managed water storage and distribution systems. Understanding how forests interact with precipitation is essential for permaculture design, land restoration, and water conservation.
 

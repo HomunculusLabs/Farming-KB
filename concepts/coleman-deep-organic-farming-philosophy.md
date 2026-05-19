@@ -6,7 +6,7 @@ source_chapter: "Chapter 20 - Deep-Organic Farming and the Small Farm"
 tags: [farming, organic, soil-health, philosophy, coleman, sustainable-agriculture]
 ---
 
-# Deep-Organic Farming and the Small Farm
+## Deep-Organic Farming and the Small Farm
 
 Eliot Coleman's "deep-organic" philosophy represents a fundamental
 distinction between truly biological farming and what he calls

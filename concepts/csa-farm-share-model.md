@@ -7,7 +7,7 @@ tags: [agriculture, business, economics, homesteading, food, community, plants]
 sources: []
 ---
 
-# CSA Farm Share Model
+## CSA Farm Share Model
 
 [[community-supported-agriculture-csa]] (CSA) connects farmers directly with consumers through prepaid seasonal subscriptions. Members receive a weekly or biweekly box of fresh produce (and sometimes meat, eggs, herbs, flowers) throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. The model provides farmers with upfront capital, predictable demand, and a committed customer base.
 

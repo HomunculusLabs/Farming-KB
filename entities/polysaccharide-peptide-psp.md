@@ -8,7 +8,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 type: entity
 ---
 
-# Polysaccharide-Peptide (PSP)
+## Polysaccharide-Peptide (PSP)
 
 **Type:** Biochemical Compound (Fungal Polysaccharide)
 **Category:** Mushroom-Derived Immunomodulator

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Direct-Seeded No-Tillage Rice-Barley Method
+## Direct-Seeded No-Tillage Rice-Barley Method
 
 updated: 2026-04-18
 

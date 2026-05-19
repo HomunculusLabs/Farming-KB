@@ -7,7 +7,7 @@ tags: [gardening, plants, design, permaculture, cultivation]
 sources: []
 ---
 
-# Ornamental Grasses Guide
+## Ornamental Grasses Guide
 
 Ornamental grasses bring movement, texture, sound, and seasonal interest to the landscape. They are low-maintenance, drought-tolerant once established, and pair well with [[perennial-vegetables]] and other garden plantings in [[food-forest-design|food forest]] edges.
 

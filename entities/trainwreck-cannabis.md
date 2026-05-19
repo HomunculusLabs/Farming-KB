@@ -25,7 +25,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Trainwreck_(cannabis)"
 ---
 
-# Trainwreck
+## Trainwreck
 
 ## Overview
 

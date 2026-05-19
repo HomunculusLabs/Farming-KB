@@ -7,7 +7,7 @@ tags: [mycology, remediation, research]
 sources:
   - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 ---
-# Fungal Metabolism of Polycyclic Aromatic Hydrocarbons (Singh)
+## Fungal Metabolism of Polycyclic Aromatic Hydrocarbons (Singh)
 
 ## PAHs in the Environment
 

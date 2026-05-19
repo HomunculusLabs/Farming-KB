@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Respiration and Earth Breathing
+## Soil Respiration and Earth Breathing
 
 The Earth breathes. This is not metaphor but measurable physical reality. All of the skin and organs of the Earth participate in regular respiration — the exchange of gases between soil, atmosphere, and water that sustains the biological systems upon which all terrestrial life depends. Understanding [[permaculture-design]] because it connects the health of underground ecosystems to climate, water cycles, and the productivity of all living systems.
 

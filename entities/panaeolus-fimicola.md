@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Panaeolus fimicola
+## Panaeolus fimicola
 
 **Panaeolus fimicola**, commonly known as the **dung mottlegill**, is a small mushroom in
 the family Bolbitiaceae found worldwide on dung and enriched soils. While primarily

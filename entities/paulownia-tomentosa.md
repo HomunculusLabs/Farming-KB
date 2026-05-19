@@ -5,10 +5,10 @@ type: species
 tags: [permaculture], timber, nitrogen-fixing, agroforestry, fast-growing]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
+sources: ["raw/papers/a-selection-permaculture-plants.md"]
 ---
 
-# Paulownia tomentosa
+## Paulownia tomentosa
 
 Paulownia tomentosa, commonly known as [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], Paulownia tomentosa serves multiple functions as a [[cervantes-wind-protection-outdoor-cannabis]] for establishing
 understory crops and slower-growing climax species. The large leaves decompose rapidly,

@@ -6,7 +6,7 @@ tags: [irrigation, sprinkler-design, water-management, vegetable-garden, solomon
 created: 2026-05-11
 ---
 
-# Solomon's Sprinkler Irrigation System Design
+## Solomon's Sprinkler Irrigation System Design
 
 [[steve-solomon]] dedicates an entire chapter of "[[gardening-when-it-counts]]" to
 sprinkler irrigation, providing practical guidance for designing effective

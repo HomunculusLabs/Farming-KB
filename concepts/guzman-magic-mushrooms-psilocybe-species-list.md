@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: mycology, taxonomy, psilocybe, fungal-systematics, species-checklist]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 type: concept
 ---
-# Psilocybe Species Taxonomy and World Checklist ## Taxonomic Framework The genus Psilocybe (Fr.) P. Kumm. belongs to the family Strophariaceae and is the largest genus of [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]**: P. aztecorum and allies
+## Psilocybe Species Taxonomy and World Checklist ## Taxonomic Framework The genus Psilocybe (Fr.) P. Kumm. belongs to the family Strophariaceae and is the largest genus of [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]**: P. aztecorum and allies
 - **Section Brunneocystidiatae**: Species with brown cystidia
 - **Section Cordisporae**: Species with heart-shaped spores
 - **[[psilocybin]]

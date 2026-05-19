@@ -5,7 +5,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: [concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
 ---
-# n-Hexane Anti-Solvent Crystallization of Indole Intermediates
+## n-Hexane Anti-Solvent Crystallization of Indole Intermediates
 
 Anti-solvent crystallization using n-hexane is a purification technique
 employed in the synthesis of [[psilocybin]] from

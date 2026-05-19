@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: entity
 ---
 
-# Huautla de Jiménez
+## Huautla de Jiménez
 
 ## Description
 

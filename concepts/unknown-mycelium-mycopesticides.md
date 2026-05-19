@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: mycology, pest-control, biological-control, agriculture]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
-# Mycopesticides Mycopesticides are fungi used to control insect pests, either through direct pathogenicity or by making host plants resistant to predation. As one of the four pillars of [[mycelium-running-presporulating-mycopesticides]]
+## Mycopesticides Mycopesticides are fungi used to control insect pests, either through direct pathogenicity or by making host plants resistant to predation. As one of the four pillars of [[mycelium-running-presporulating-mycopesticides]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they

@@ -17,7 +17,7 @@ sources:
   - Wallach, J.V. (2009). "Endogenous Hallucinogens." Alternative Therapies in Health and Medicine.
 ---
 
-# N,N-Dimethyltryptamine (DMT)
+## N,N-Dimethyltryptamine (DMT)
 
 ## Overview
 

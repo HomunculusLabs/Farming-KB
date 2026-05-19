@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Phloem Transport and Partitioning
+## Phloem Transport and Partitioning
 
 The [[phloem]] is the plant's bidirectional distribution system for organic compounds—sugars, starches, proteins, amino acids, hormones, and signaling molecules—produced by photosynthetic cells and delivered to non-photosynthetic tissues throughout the plant. Understanding phloem transport and the partitioning of its cargo is essential to understanding how plants allocate resources for growth, storage, and defense.
 

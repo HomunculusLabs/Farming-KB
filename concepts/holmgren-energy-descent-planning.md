@@ -9,7 +9,7 @@ type: concept
 tags: [energy]
 ---
 
-# Holmgren Energy Descent Planning
+## Holmgren Energy Descent Planning
 
 Energy descent planning is the application of [[holmgren-nuclear-and-fossil-fuel-techno-optimism]] pulse, then our task shifts from sustaining the unsustainable to adapting to decline with grace and ethics. See [[permaculture-design]] but several are especially critical:
 

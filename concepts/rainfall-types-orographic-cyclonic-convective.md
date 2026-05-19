@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Rainfall Types — Orographic, Cyclonic, and Convective
+## Rainfall Types — Orographic, Cyclonic, and Convective
 
 ## Overview
 

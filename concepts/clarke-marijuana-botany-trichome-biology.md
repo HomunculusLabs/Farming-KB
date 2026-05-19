@@ -8,7 +8,7 @@ sources: [raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
 type: concept
 ---
 
-# Trichome Biology and [[clarke-marijuana-botany-flowering-and-photoperiodism]]
+## Trichome Biology and [[clarke-marijuana-botany-flowering-and-photoperiodism]]
 - [[cannabis-sinsemilla-life-cycle]] Cycle of Cannabis
 - Cannabinoid Chemotypes and Biosynthesis
 - Cannabis Classification and History

@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [grain-spawn, mushroom-cultivation]
 ---
-# Falconer Mushroom mushroom-spawn,
+## Falconer Mushroom mushroom-spawn,
 which he called "the chief enigma connected with mushroom-growing." He
 explained that what growers call spawn, botanists term mycelium -- the
 true mushroom plant, a delicate white mold-like network of whitish

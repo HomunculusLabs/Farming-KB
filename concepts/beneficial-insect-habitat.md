@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Beneficial Insect Habitat
+## Beneficial Insect Habitat
 
 Creating [[biological-pest-control-balance]] rather than relying on chemicals.
 

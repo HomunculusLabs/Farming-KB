@@ -1,4 +1,8 @@
-# Radiotrophic Fungi and Melanin-Mediated Radiation Response
+---
+title: "Radiotrophic Fungi and Melanin-Mediated Radiation Response"
+tags:
+  - concept
+---
 
 ## Definition and Overview
 
@@ -144,6 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[fungi-environment-mycelial-nutrient-transport-imaging]]
 - [[mycorrhizal-fungi-biome-surveys]]
-- [[neurotropic-fungi-chemical-compounds]]
-- [[neurotropic-fungi-new-guinea]]
-- [[traditional-indigenous-use-sacred-fungi]]

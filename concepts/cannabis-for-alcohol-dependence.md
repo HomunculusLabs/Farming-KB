@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for Alcohol Dependence
+## Cannabis for Alcohol Dependence
 
 Alcohol abuse is one of the most common [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) rates the evidence for cannabis in alcohol dependence at a CHI value of 9, based on 4 studies reviewed. The evidence comes from clinical case studies and animal research with intriguing implications.
 

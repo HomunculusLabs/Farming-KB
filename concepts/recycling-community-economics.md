@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Recycling Community Economics
+## Recycling Community Economics
 
 ## Overview
 

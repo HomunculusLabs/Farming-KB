@@ -14,7 +14,7 @@ sources:
   - fanaticus-pf-tek-psilocybe-fanaticus.md
 ---
 
-# PF TEK Mushroom Morphology and Lifecycle Stages
+## PF TEK Mushroom Morphology and Lifecycle Stages
 
 The PF TEK documentation provides detailed observations of the morphological
 stages that [[contamination-identification]], and overall

@@ -8,7 +8,7 @@ sources: [tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Plant Bioelectricity
+## Plant Bioelectricity
 
 Plants generate, conduct, and respond to [[tompkins-cleve-backster-primary-perception]]'s
 1966 observation that his dracaena plant produced galvanometer patterns

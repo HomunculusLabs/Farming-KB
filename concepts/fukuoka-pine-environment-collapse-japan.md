@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Pine Environmemycorrhizal-fungipan
+## Fukuoka Pine Environmemycorrhizal-fungipan
 Beyond his [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], forest health, and the survival of Japanese civilization
 itself.
 ## The First Cataclysmic Change

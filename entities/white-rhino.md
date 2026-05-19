@@ -22,7 +22,7 @@ sources:
     url: https://www.seedsman.com/en/white-rhino-feminised-seeds
 ---
 
-# White Rhino
+## White Rhino
 
 **White Rhino** is a legendary indica-dominant [[cannabis-glandular-trichome-types-resin-production-clarke]], and therapeutic value. A staple of the 1990s
 European cannabis scene, White Rhino has maintained its reputation as a powerful

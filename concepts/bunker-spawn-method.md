@@ -20,7 +20,7 @@ sources:
 - raw/papers/mycelium-running-stamets.md
 ---
 
-# Bunker Spawn
+## Bunker Spawn
 
 From Chapters 9 and 11 of *Mycelium Running* by [[paul-stamets]]. Bunker spawn is one of the most scalable and versatile methods for producing large quantities of mycelium for [[mycorestoration]], [[mycoremediation-basics]], and mushroom cultivation.
 

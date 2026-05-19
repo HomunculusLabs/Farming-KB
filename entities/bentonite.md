@@ -5,7 +5,7 @@ type: entity
 tags: [soil-amendment, clay, water-retention, desert-gardening, permaculture]
 ---
 
-# Bentonite
+## Bentonite
 
 ## Description
 

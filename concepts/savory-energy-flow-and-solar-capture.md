@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Energy Flow and Solar Capture
+## Energy Flow and Solar Capture
 
 Energy flow is the fourth [[savory-holistic-resource-management-animal-impact]]. It addresses the question of fuel that keeps all
 [[holmgren-trees-solar-power-plants-detailed]], and management decisions can drastically affect how

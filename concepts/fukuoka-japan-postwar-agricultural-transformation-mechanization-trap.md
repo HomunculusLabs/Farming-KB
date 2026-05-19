@@ -5,7 +5,7 @@ tags: [japan-agriculture, postwar-mechanization, farm-village-culture, agricultu
 created: 2026-05-08
 ---
 
-# Japan's Postwar Agricultural Transformation: The Mechanization Trap
+## Japan's Postwar Agricultural Transformation: The Mechanization Trap
 
 ## Overview
 

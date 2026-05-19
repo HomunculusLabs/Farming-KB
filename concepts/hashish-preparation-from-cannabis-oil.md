@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# Hashish Preparation from Cannabis Oil
+## Hashish Preparation from Cannabis Oil
 
 ## Overview
 

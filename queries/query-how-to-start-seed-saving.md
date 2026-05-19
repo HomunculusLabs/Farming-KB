@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How to Start Seed Saving
+## How to Start Seed Saving
 
 ## Short Answer
 Seed saving is the practice of harvesting, drying, and storing seeds from your garden plants to grow in future seasons. Beginners should start with easy self-pollinating species like tomatoes, beans, peas, and lettuce. The basic process involves selecting the best plants, allowing seeds to fully mature, properly drying them, and storing them in cool, dark, and dry conditions.

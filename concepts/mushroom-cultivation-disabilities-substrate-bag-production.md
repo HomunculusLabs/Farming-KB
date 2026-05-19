@@ -13,7 +13,7 @@ sources:
   - a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# Substrate Bag Production for Oyster Mushroom Cultivation
+## Substrate Bag Production for Oyster Mushroom Cultivation
 
 The production of substrate bags is a central operation in the oyster
 mushroom cultivation system taught in the FAO [[evaporative-demand-hypothesis-mushroom-growth]]. Fresh sawdust should be allowed to weather

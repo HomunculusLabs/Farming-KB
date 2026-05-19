@@ -7,7 +7,7 @@ tags: [science, physics, systems-thinking]
 sources: []
 ---
 
-# Information Entropy
+## Information Entropy
 
 ## Overview
 

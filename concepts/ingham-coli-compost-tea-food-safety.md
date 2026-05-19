@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [food-safety, compost-tea, pathogens, testing, microbiology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+sources: ["raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"]
 type: concept
 ---
 
-# Coliforms, E. coli, and Compost Tea Food Safety
+## Coliforms, E. coli, and Compost Tea Food Safety
 
 ## Types of Coliform Bacteria
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Solar Water Heating
+## Solar Water Heating
 
 Solar water heating uses the sun's energy to heat water for domestic use,
 reducing or eliminating the need for gas or electric water heating. A

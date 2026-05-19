@@ -4,9 +4,9 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
+sources: ["raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"]
 ---
-# Bacterial Endophytes in Plant Roots
+## Bacterial Endophytes in Plant Roots
 
 Bacterial endophytes are microorganisms that live within plant tissues without causing substantive harm to the host plant. They may benefit the host, or the benefits may be reciprocal. Endophytic bacteria can profoundly affect crop health, yield, and soil fertility through multiple mechanisms including competition with pathogens, induction of plant defense, production of plant growth stimulators, and improvement of soil quality. They represent an abundant source of biologically active and chemically novel compounds.
 

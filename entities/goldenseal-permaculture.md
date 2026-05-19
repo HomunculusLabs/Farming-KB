@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Goldenseal (Hydrastis canadensis)
+## Goldenseal (Hydrastis canadensis)
 
 ## Description
 

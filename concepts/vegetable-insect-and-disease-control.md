@@ -8,7 +8,7 @@ tags: [gardening, pest-control, ipm, diseases, organic-gardening]
 sources:
   - "raw/papers/purdue-home-gardeners-guide.md"
 ---
-# Vegetable Insect and Disease Control
+## Vegetable Insect and Disease Control
 
 [[vegetable-watering-and-thinning]]
 

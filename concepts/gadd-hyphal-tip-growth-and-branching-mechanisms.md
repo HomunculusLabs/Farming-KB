@@ -1,5 +1,10 @@
+---
+title: "Gadd Hyphal Tip Growth And Branching Mechanisms"
+tags:
+  - concept
+---
 
-# Hyphal Tip Growth and Branching Mechanisms
+## Hyphal Tip Growth and Branching Mechanisms
 
 ## Overview
 
@@ -142,9 +147,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[gadd-intracellular-signal-transduction-filamentous-fungi]]
-- [[gadd-lichen-biogeochemistry-pioneer]]
-- [[gadd-mineral-transformations-biogeochemistry]]

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Names of the Gods and Their Fertility Origins
+## Names of the Gods and Their Fertility Origins
 
 John Allegro's central philological discovery is that the principal god-names of the [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[sacred-mushroom-and-the-cross]]
 - [[allegro-biblical-references-to-mushrooms-and-fungi]]

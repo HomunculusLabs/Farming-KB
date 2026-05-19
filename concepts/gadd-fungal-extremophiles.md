@@ -8,7 +8,7 @@ tags: [fungi]
 updated: 2026-04-26
 ---
 
-# Fungi in Extreme Environments (Extremophiles)
+## Fungi in Extreme Environments (Extremophiles)
 
 ## Overview
 

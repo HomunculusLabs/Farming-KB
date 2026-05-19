@@ -4,7 +4,7 @@ source: Ingham, E.R. (2004). The Field Guide I for actively-aerated-compost-tea-
 tags: [brix, plant-quality, compost-tea, nutrient-density, refraction, ingham, soil-food-web]
 ---
 
-# Brix Testing — Measuring Plant Quality and Compost Tea Response
+## Brix Testing — Measuring Plant Quality and Compost Tea Response
 
 ## Overview
 

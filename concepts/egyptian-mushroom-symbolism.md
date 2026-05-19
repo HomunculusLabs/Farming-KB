@@ -21,7 +21,7 @@ sources:
 - raw/papers/arthur-j-mushrooms-and-mankind.md
 ---
 
-# Egyptian Mushroom Symbolism
+## Egyptian Mushroom Symbolism
 
 The theory that ancient Egyptian (Khemitian) religion encodes Amanita muscaria as the central sacramental substance — the "celestial food," "divine flesh," and "tree of life" referenced throughout the Egyptian Book of the Dead. [[james-arthur]] argues that Egyptian mystery school initiations in the Great Pyramid at Gizeh centered on Amanita-induced death-and-rebirth experiences.
 

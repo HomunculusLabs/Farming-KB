@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 topics: philosophy of science, agriculture, reductionism, ecology
 ---
 
-# Fukuoka's Critique of Scientific Agriculture
+## Fukuoka's Critique of Scientific Agriculture
 
 [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] graphically. The
 objective of [[emcdda-return-to-nature-megatrend-mushroom-appeal]] — it is

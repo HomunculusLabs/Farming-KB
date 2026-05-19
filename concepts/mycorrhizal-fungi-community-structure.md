@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Fungi and Plant Community Structure
+## Mycorrhizal Fungi and Plant Community Structure
 
 Mycorrhizal fungi are fundamental determinants of plant community structure and dynamics. Their symbiotic relationships with plant roots influence competitive hierarchies, successional trajectories, and the overall composition of terrestrial plant communities. The extensive body of research spanning from the 1980s through the early 2000s demonstrates that mycorrhizal associations operate as both mutualisms and sources of antagonism, with consequences that cascade through entire ecosystems.
 

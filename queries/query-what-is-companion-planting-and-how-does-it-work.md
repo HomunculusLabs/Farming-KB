@@ -11,7 +11,7 @@ sources:
 type: query
 ---
 
-# What Is Companion Planting and How Does It Work?
+## What Is Companion Planting and How Does It Work?
 
 ## Short Answer
 Companion planting is the practice of growing different plants together because they

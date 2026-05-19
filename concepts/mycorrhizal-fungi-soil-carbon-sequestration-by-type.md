@@ -1,4 +1,8 @@
-# [[dighton-litter-quality-fungal-decomposition-rates]]**: ERM host plants produce extremely recalcitrant litter rich in polyphenolic compounds, low-molecular-weight phenolics, and aliphatic acids that are fungistatic and fungitoxic. This litter has very high C:N ratios (often exceeding 100:1) and decomposes extremely slowly
+---
+title: "dighton litter quality fungal decomposition rates**: ERM host plants produce extremely recalcitrant litter rich in polyphenolic compounds, low-molecular-weight phenolics, and aliphatic acids that are fungistatic and fungitoxic. This litter has very high C:N ratios (often exceeding 100:1) and decomposes extremely slowly"
+tags:
+  - concept
+---
 - **Nutrient mining**: ERM fungi can metabolize some of the most toxic phenolic compounds in their host litter, selectively mobilizing nitrogen and phosphorus while leaving the bulk of the organic carbon as recalcitrant humus
 - **Positive feedback**: By extracting N from litter without fully decomposing it, ERM fungi leave behind residues with even higher C:N ratios, further inhibiting decomposition by saprotrophs and promoting long-term carbon storage
 - **Carbon flux**: The combined respiration of roots and ERM fungi dominates soil respiratory fluxes in heathlands and tundra

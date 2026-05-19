@@ -1,5 +1,5 @@
 ---
-title: comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle
+title: "Autoflowering Cannabis"
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Autoflowering Cannabis
+## Autoflowering Cannabis
 
 Autoflowering cannabis varieties flower automatically based on age rather than in
 response to changes in the [[query-best-light-schedule-for-cannabis]] management:** No need to change to 12/12 for flowering

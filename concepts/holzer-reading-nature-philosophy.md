@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
 type: concept
 ---
-# Holzer Reading Nature - Philosophy of Landscape Observation
+## Holzer Reading Nature - Philosophy of Landscape Observation
 
 Reading nature is the foundational skill in Holzer's Permaculture.
 Before any design work begins, the practitioner must learn to observe

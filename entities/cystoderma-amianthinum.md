@@ -16,7 +16,7 @@ sources:
   - Bon M. (1988). "Guide des champignons d'Europe." Delachaux et Niestlé.
 ---
 
-# Cystoderma amianthinum
+## Cystoderma amianthinum
 
 ## Overview
 

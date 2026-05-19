@@ -5,11 +5,11 @@ tags: [cannabis, cancer, apoptosis, anti-tumor, chemotherapy, oncology,
        cannabinoids]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [/Users/t3rpz/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md]
+sources: ["raw/papers/uwe-blesching-the-cannabis-health-index.md"]
 type: concept
 ---
 
-# Cannabis and Cancer
+## Cannabis and Cancer
 
 Cannabis and its cannabinoids have demonstrated remarkable abilities to
 produce apoptosis ([[dronabinol]], Marinol, [[blesching-cannabis-brain-cancer-glioblastoma]]

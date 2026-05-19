@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Grow Sorghum in My Garden or Small Farm?
+## How Do I Grow Sorghum in My Garden or Small Farm?
 
 ## Short Answer
 

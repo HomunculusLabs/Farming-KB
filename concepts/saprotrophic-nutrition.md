@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, ecology, decomposition, microbiology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
-# Saprotrophic Nutrition Saprotrophic nutrition (also called saprophytic nutrition) is a mode of feeding in which organisms obtain nutrients by decomposing dead organic matter. Fungi are the primary saprotrophs in most terrestrial ecosystems, using their [[ligninolytic-enzyme-production-bioremediation]] and are
+## Saprotrophic Nutrition Saprotrophic nutrition (also called saprophytic nutrition) is a mode of feeding in which organisms obtain nutrients by decomposing dead organic matter. Fungi are the primary saprotrophs in most terrestrial ecosystems, using their [[ligninolytic-enzyme-production-bioremediation]] and are
 slower-growing but dominant in wood and leaf [[bioremediation-fenton-chemistry-brown-rot-fungi]]
   system (generating hydroxyl radicals from [[maintaining-organic-matter-in-vegetable-gardens]] soils. Through respiration, they convert organic carbon
 to CO2, returning it to the atmosphere. Globally, soil respiration

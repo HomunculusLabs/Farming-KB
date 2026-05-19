@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cucumber Growing Organic
+## Cucumber Growing Organic
 
 Cucumbers ([[hamilton-greenhouse-management-organic]]
 

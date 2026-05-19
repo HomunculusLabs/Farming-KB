@@ -5,7 +5,7 @@ type: entity
 tags: [people, author, mushroom-expert, Thailand, entrepreneur]
 ---
 
-# Satit Thaithatgoon
+## Satit Thaithatgoon
 
 ## Description
 

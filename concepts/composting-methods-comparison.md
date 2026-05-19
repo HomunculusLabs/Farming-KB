@@ -7,7 +7,7 @@ tags: [composting, compost, comparison, soil-building, methods, regenerative, su
 sources: []
 ---
 
-# Composting Methods Comparison
+## Composting Methods Comparison
 
 Choosing the right composting method depends on available space, time, material inputs, and intended use of the finished product. Each method has distinct advantages and limitations. This page provides a comprehensive comparison of the five most common composting approaches for homestead and garden settings.
 

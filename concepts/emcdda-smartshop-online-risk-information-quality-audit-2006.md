@@ -5,7 +5,7 @@ tags: [emcdda, smartshop, risk-information, harm-reduction, online-shop, consume
 created: 2026-05-11
 ---
 
-# EMCDDA Smartshop Online Risk Information Quality Audit (2006)
+## EMCDDA Smartshop Online Risk Information Quality Audit (2006)
 
 ## Overview
 

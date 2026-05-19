@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Nitrogen Cycling and Pollution Responses
+## Fungal Nitrogen Cycling and Pollution Responses
 
 ## Overview
 

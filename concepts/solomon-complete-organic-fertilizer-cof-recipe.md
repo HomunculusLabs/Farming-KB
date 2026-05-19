@@ -5,7 +5,7 @@ source_author: steve-solomon
 tags: [fertilizer, organic, COF, complete-fertilizer, soil-fertility, steve-solomon, gardening]
 ---
 
-# Solomon's Complete Organic Fertilizer (COF) Recipe
+## Solomon's Complete Organic Fertilizer (COF) Recipe
 
 ## Overview
 

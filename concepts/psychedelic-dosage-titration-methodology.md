@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# Psychedelic Dosage Titration Methodology
+## Psychedelic Dosage Titration Methodology
 
 **Source:** PiHKAL (Part 2), compound entries
 

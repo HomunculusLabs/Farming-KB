@@ -4,9 +4,9 @@ created: 2026-05-08
 updated: 2026-05-08
 type: concept
 tags: [brassinosteroid, phytohormone, mycelial-growth, fruiting, psilocybe-cubensis, fungal-physiology]
-sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+sources: ["raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"]
 ---
-# Brassinosteroids in Fungal Cultures
+## Brassinosteroids in Fungal Cultures
 
 Brassinosteroids are a class of steroidal [[fungal-lichen-stress-tolerance-and-poikilohydry]]** (drought, temperature, salinity)
 - Higher **crop yields** in agricultural applications

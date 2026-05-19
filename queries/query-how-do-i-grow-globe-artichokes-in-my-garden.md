@@ -6,7 +6,7 @@ updated: 2026-05-18
 sources: []
 ---
 
-# How Do I Grow Globe Artichokes in My Garden?
+## How Do I Grow Globe Artichokes in My Garden?
 
 ## Short Answer
 

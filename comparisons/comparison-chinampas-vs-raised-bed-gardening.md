@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Chinampas vs Raised Bed Gardening
+## Chinampas vs Raised Bed Gardening
 
 ## Overview
 Chinampas and raised beds both elevate the growing surface above the surrounding ground level

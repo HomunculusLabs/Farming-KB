@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Roundwood Shelter and Earth Cellar Construction
+## Holzer Roundwood Shelter and Earth Cellar Construction
 
 Earth is the cheapest and best insulation. The temperature of the soil balances out fluctuations and provides a steady room temperature, which benefits both livestock [[dighton-fungus-cultivation-ants-termites-bark-beetles]]) is minor importance -- low-quality timber works fine
 4. Can use timber from windbreak plantings

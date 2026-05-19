@@ -17,7 +17,7 @@ sources:
   - FAO — Citrus Germplasm Resources
 ---
 
-# Citrus Cultivation and Variety Guide
+## Citrus Cultivation and Variety Guide
 
 Citrus trees (genus *Citrus*, family Rutaceae) are among the most widely cultivated fruit trees in the world, prized for their aromatic fruits rich in vitamin C, flavonoids, and [[psilocybe-southeast-asia-pacific]], citrus has spread to every subtropical and tropical region and ranks commercially among the top fruit crops globally.
 

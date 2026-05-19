@@ -5,7 +5,7 @@ tags: [mycology, taxonomy, amanita, psilocybe, toxicology, hallucinogens]
 created: 2026-05-09
 ---
 
-# Amanita Muscaria vs Psilocybe Mushrooms
+## Amanita Muscaria vs Psilocybe Mushrooms
 
 Amanita muscaria (fly agaric) and psilocybin-containing mushrooms are
 often conflated by the public, but they differ fundamentally in taxonomy,

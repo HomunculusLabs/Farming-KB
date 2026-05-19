@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Nutrient Immobilization and Cycling
+## Fungal Nutrient Immobilization and Cycling
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# [[urban-rural-linkages-and-direct-marketing|Urban]] Agriculture Organizations and Networks
+## [[urban-rural-linkages-and-direct-marketing|Urban]] Agriculture Organizations and Networks
 
 The global urban agriculture movement has spawned a vast network of organizations, research institutions, and community initiatives dedicated to food production within cities. These organizations span continents and operate at scales from neighborhood garden plots to international policy advocacy, collectively forming the institutional infrastructure that supports urban food systems worldwide.
 

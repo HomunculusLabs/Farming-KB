@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Fright (Susto) and Shamanic Calling
+## Mazatec Fright (Susto) and Shamanic Calling
 
 ## Overview
 

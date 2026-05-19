@@ -16,7 +16,7 @@ sources:
   - "Singer, R. (1986). The Agaricales in Modern Taxonomy. Koeltz Scientific Books."
 ---
 
-# Gomphus clavatus (Pig's Foot Gomphus)
+## Gomphus clavatus (Pig's Foot Gomphus)
 
 ## Overview
 

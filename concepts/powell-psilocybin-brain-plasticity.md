@@ -9,7 +9,7 @@ tags: [psilocybin]
 updated: 2026-04-26
 ---
 
-# Psilocybin, the Brain, and Neural Plasticity
+## Psilocybin, the Brain, and Neural Plasticity
 
 Powell dedicates significant portions of *The [[maitake-problem-solving-troubleshooting]],
 and metaphysical musing.

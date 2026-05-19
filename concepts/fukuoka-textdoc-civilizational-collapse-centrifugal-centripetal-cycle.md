@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka's Theory of Civilizational Collapse and the Centrifugal-Centripetal Cycle
+## Fukuoka's Theory of Civilizational Collapse and the Centrifugal-Centripetal Cycle
 
 In the closing sections of *The Natural Way of Farming*, Masanobu Fukuoka presents a sweeping theory of civilizational development and collapse, rooted in his observations of natural cycles. He argues that human civilization follows a destructive pattern of outward expansion that must inevitably rupture, reverse, and contract, and that natural farming offers the only viable path through the coming crisis.
 

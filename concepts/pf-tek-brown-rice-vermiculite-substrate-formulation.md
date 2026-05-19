@@ -1,4 +1,8 @@
-# PF TEK: Brown Rice Vermiculite Substrate Formulation
+---
+title: "PF TEK: Brown Rice Vermiculite Substrate Formulation"
+tags:
+  - concept
+---
 
 ## Overview
 

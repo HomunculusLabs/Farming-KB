@@ -1,7 +1,7 @@
 ---
 
 ---
-# AACT Tea Types and Definitions
+## AACT Tea Types and Definitions
 
  Tea* establishes a rigorous taxonomy of compost-based liquid amendments. Different [[actively-aerated-compost-tea]]" is the same. Production method determines which organisms grow, which metabolites are produced, and whether the final product helps or harms your plants and the ingham-aact-brewing-techniques for detailed production methods.
 

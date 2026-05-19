@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# mushroom cultivator shiitake growing parameters from the Mushroom Cultivator Lentinus edodes, the shiitake mushroom, is one of the most commercially important [[growing-gourmet-outdoor-log-inoculation-techniques]]
+## mushroom cultivator shiitake growing parameters from the Mushroom Cultivator Lentinus edodes, the shiitake mushroom, is one of the most commercially important [[growing-gourmet-outdoor-log-inoculation-techniques]]
 - 4:1 sawdust/bran mixture for bag or [[mushroom-cultivator-wood-based-substrates]] and [[mushroom-cultivator-strain-selection]].
 
 ## Practical Considerations

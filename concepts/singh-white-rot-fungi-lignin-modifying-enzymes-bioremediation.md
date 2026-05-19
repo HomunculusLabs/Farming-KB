@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# White-Rot Fungi and Lignin-Modifying Enzymes in Bioremediation
+## White-Rot Fungi and Lignin-Modifying Enzymes in Bioremediation
 
 ## Overview
 

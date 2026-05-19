@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Grow Quinoa in My Garden or on My Small Farm?
+## How Do I Grow Quinoa in My Garden or on My Small Farm?
 
 ## Short Answer
 

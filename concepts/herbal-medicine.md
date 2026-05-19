@@ -29,7 +29,7 @@ sources:
 - https://www.richters.com/
 ---
 
-# Herbal Medicine — Homestead Apothecary
+## Herbal Medicine — Homestead Apothecary
 
 Growing medicinal herbs provides self-reliance for common ailments, connects you to plant medicine traditions, and integrates well into a [[food-forest-design]] or [[permaculture-useful-plants-reference]] planting. This page covers the top herbs to grow, harvest timing, preparation methods, and building a home apothecary.
 

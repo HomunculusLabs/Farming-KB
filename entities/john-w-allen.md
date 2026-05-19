@@ -21,7 +21,7 @@ sources:
 status: complete
 ---
 
-# John W. Allen
+## John W. Allen
 
 ## Overview
 

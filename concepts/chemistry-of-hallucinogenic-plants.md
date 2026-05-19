@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# Chemistry of Hallucinogenic Plants
+## Chemistry of Hallucinogenic Plants
 
 The hallucinogenic properties of plants arise from specific [[morning-glory-ergoline-alkaloids-chemistry]] (ergine and others)
 - Ibogaine alkaloids

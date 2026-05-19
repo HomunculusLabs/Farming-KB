@@ -5,7 +5,7 @@ type: entity
 tags: [mineral, clay, soil-science, geology]
 ---
 
-# Kaolin
+## Kaolin
 
 ## Description
 

@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# Fukuoka: Science as the Destroyer of Nature
+## Fukuoka: Science as the Destroyer of Nature
 
 ## Medical Progress as Barometer of Collapse
 

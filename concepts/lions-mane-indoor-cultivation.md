@@ -8,7 +8,7 @@ sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
-# Lion's Mane Indoor Cultivation
+## Lion's Mane Indoor Cultivation
 
 Lion's Mane (Hericium erinaceus) is one of the few mushrooms that, when cooked, imparts the flavor of lobster. Producing a mane of cascading white spines, this mushroom can be grown on sterilized sawdust/bran or via the traditional log method first established for Shiitake. Indoor cultivation offers the most rapid and productive results, though the species requires greater attention to the details of mycelial development than most other [[psilocybin-north-america-pacific-northwest]], Europe, China and Japan; most abundant in the southern regions of the United States
 - Natural habitat: On dying or dead oak, walnut, beech, maple, sycamore and other broad-leaf trees, found most frequently on logs or stumps

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Spore Print and Syringe Preparation Techniques
+## Spore Print and Syringe Preparation Techniques
 
 Spore collection and preparation is the starting point for most mushroom
 cultivation projects. The process begins with taking a spore print from

@@ -5,11 +5,11 @@ tags: [ethnobotany, chile, mapuche, gomortegaceae, rare-plants,
   hallucinogenic-plants, schultes, south-america]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md"]
 type: concept
 ---
 
-# Keule (Gomortega keule)
+## Keule (Gomortega keule)
 
 Keule, also known as hualhual, is a small tree restricted to approximately
 100 square miles in central Chile. It is the sole species in the rare plant

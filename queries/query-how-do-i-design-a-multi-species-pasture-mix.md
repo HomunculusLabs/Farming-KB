@@ -12,7 +12,7 @@ sources:
 type: query
 ---
 
-# How Do I Design a Multi-Species Pasture Mix?
+## How Do I Design a Multi-Species Pasture Mix?
 
 A well-designed multi-species pasture is the backbone of any regenerative livestock operation. Instead of relying on one or two grasses, you're building a living ecosystem that feeds animals, builds soil, and reduces inputs year after year.
 

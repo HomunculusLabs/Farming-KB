@@ -8,7 +8,7 @@ sources: [urban-permaculture-guerilla-gardening.md]
 type: concept
 ---
 
-# Guerilla Gardening Tactics and Methods
+## Guerilla Gardening Tactics and Methods
 
 ## Overview
 Guerilla gardening is the unsanctioned cultivation of plants on land that the gardener

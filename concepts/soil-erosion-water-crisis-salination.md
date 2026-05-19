@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Soil Erosion, Water Crisis, and Salination
+## Soil Erosion, Water Crisis, and Salination
 
 The interconnected crises of soil loss, water scarcity, and salination represent the most immediate physical threats to human survival and agricultural productivity. In [[permaculture]] analysis, these are not treated as separate problems but as cascading symptoms of a single systemic failure: the removal of tree cover from landscapes, which destroys the soil-creating and water-cycling functions that forests provide.
 

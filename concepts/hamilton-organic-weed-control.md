@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 
-# Hamilton Organic Weed Control
+## Hamilton Organic Weed Control
 
 ## Overview
 

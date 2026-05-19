@@ -29,7 +29,7 @@ related_concepts:
   - nootropic-herbs-guide
 ---
 
-# Corneliu E. Giurgea
+## Corneliu E. Giurgea
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [chemistry, 2c-family]
 sources: ["raw/papers/shulgin-a-pihkal.md"]
 ---
 
-# 2C-B - The Erotic Empathogen
+## 2C-B - The Erotic Empathogen
 
 2C-B (4-bromo-2,5-dimethoxyphenethylamine) is a psychedelic/empathogen developed by [[turner-multiple-combinations-cosmic-synergism]] chapter).
 - **MAO Inhibitors:** May be significantly intensified and possibly dangerous.

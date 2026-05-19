@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, psychedelic-fungi, grassland-fungi, temperate-species]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-gartz.md]
+sources: ["raw/papers/magic-mushrooms-around-the-world-gartz.md"]
 ---
 
-# Conocybe cyanopus
+## Conocybe cyanopus
 
 **Conocybe cyanopus** is a small but remarkably potent psilocybin-containing mushroom in the family Bolbitiaceae. Despite its diminutive size, it has been shown to contain significant concentrations of psychoactive alkaloids, making it one of the more potent mushrooms relative to its mass. The species is among the lesser-known members of the psilocybin mushroom group and is notable for the extreme identification risks it presents to foragers.
 

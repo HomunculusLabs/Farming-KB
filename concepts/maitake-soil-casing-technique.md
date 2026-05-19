@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Soil Casing Technique
+## Maitake Soil Casing Technique
 
 ## Overview
 

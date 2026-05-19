@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Integrated Pest [[azadirachta-indica]]*): One of the most important medicinal and pesticidal plants in the tropics. Neem leaves and oil deter pests in stored foods and have been used for this purpose for centuries in India. Neem also controls aquatic organisms.
+## Integrated Pest [[azadirachta-indica]]*): One of the most important medicinal and pesticidal plants in the tropics. Neem leaves and oil deter pests in stored foods and have been used for this purpose for centuries in India. Neem also controls aquatic organisms.
 
 These plants should be integrated into home gardens and planted in small clumps throughout crop areas to provide a distributed, on-site source of pest control materials.
 

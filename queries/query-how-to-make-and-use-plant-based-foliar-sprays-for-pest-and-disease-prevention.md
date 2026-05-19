@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Make and Use Plant-Based Foliar Sprays for Pest and Disease Prevention
+## How to Make and Use Plant-Based Foliar Sprays for Pest and Disease Prevention
 Foliar sprays made from garden plants and common herbs are one of the oldest forms of crop protection. Plants have evolved an enormous arsenal of [[azadirachta-indica]]*)
 The gold standard for botanical pest control. Neem contains azadirachtin, which disrupts insect hormone systems, preventing molting, feeding, and reproduction. It also has broad-spectrum antifungal properties.
 - **Neem seed oil spray:** Mix 1 teaspoon cold-pressed neem oil with ½ teaspoon liquid soap (as emulsifier) in 1 liter of warm water. Shake vigorously and spray immediately. Effective against aphids, whiteflies, spider mites, thrips, and powdery mildew.

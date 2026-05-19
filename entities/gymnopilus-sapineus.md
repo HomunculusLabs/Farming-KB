@@ -5,10 +5,10 @@ type: species
 tags: [gymnopilus, psilocybin, cortinariaceae, wood-inhabiting, neurotropic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Gymnopilus sapineus
+## Gymnopilus sapineus
 
 **Flammulina sapinea** | *Gymnopilus sapineus* (Fr.) Maire ex Singer
 

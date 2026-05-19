@@ -7,7 +7,7 @@ tags: [ethics, ethnobotany, entheogen, sustainability, culture, activism, princi
 sources: []
 ---
 
-# Plant Medicine Ethics
+## Plant Medicine Ethics
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
 
-# 2C-Family Chemistry and Structure-Activity Relationships
+## 2C-Family Chemistry and Structure-Activity Relationships
 
 **Updated:** 2026-04-18
 

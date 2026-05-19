@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: entity
 ---
 
-# Spading Fork
+## Spading Fork
 
 ## Description
 

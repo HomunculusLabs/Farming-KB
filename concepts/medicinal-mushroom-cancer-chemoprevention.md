@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, medicine, mushrooms, oncology]
 sources: []
 ---
-# Medicinal Mushroom Cancer Chemoprevention
+## Medicinal Mushroom Cancer Chemoprevention
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-# Wild Specimen Isolation
+## Wild Specimen Isolation
 
 Wild specimen isolation is the process of obtaining pure [[spore-syringe-production]].
 

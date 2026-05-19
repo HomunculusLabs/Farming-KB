@@ -7,7 +7,7 @@ tags: [mycology, mushroom-cultivation, psilocybe-cubensis, miniculture, growing-
 wikilinks: [psilocybin-psilocin-variation-across-flushes, alkaloid-distribution-mushroom-caps-stems]
 ---
 
-# Psilocybe cubensis Miniculture Technique
+## Psilocybe cubensis Miniculture Technique
 
 The "miniculture" method developed by Bigwood and Beug (1982) is a scaled-down [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] that uses small jars rather than large trays or monotubs. Originally designed for controlled research on alkaloid [[psilocybin-psilocin-variation-across-flushes]], this approach offers advantages for experimental reproducibility, space efficiency, and [[hplc-analysis-of-psilocybin-and-psilocin]] levels across [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]]. The method was based on:
 

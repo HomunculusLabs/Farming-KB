@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Actively Aerated Compost Tea - Elaine Ingham (Mining Index)
+## Actively Aerated Compost Tea - Elaine Ingham (Mining Index)
 
 Updated: 2026-04-18
 

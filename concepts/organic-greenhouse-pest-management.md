@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
-# Organic Greenhouse Pest Management
+## Organic Greenhouse Pest Management
 
 Greenhouse pests can build up rapidly because the warmth and humidity necessary for healthy plant growth are also ideal for [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] and trays are much easier to clean than clay (which is porous and harbors disease)
 - Remove any damaged plant material as soon as you see it

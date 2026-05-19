@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Intertidal Aquaculture and Marine Systems
+## Intertidal Aquaculture and Marine Systems
 
 Intertidal aquaculture encompasses the cultivation of marine organisms in the zone between high and low tide, leveraging natural tidal cycles for productive food systems. This approach extends [[permaculture-design-principles]] from land into the marine and estuarine environment, creating integrated systems that produce food, materials, and ecological benefits.
 

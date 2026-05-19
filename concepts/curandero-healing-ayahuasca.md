@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Curandero Healing Practice in Ayahuasca Shamanism
+## Curandero Healing Practice in Ayahuasca Shamanism
 
 The curandero (healer) in Amazonian vegetalismo diagnoses and treats
 illnesses that [[amaringo-ayahuasca-visions-shipibo-iconography]],

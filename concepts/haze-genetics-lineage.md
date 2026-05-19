@@ -5,7 +5,7 @@ tags: [cannabis, haze, genetics, lineage, breeding, sativa, history]
 created: 2026-05-10
 ---
 
-# Haze Genetics and Lineage
+## Haze Genetics and Lineage
 
 The Haze lineage [[cannabis-breeding-basics]] [[haze-cannabis-lineage-and-breeding-history]] or selecting sativa strains for cultivation.
 

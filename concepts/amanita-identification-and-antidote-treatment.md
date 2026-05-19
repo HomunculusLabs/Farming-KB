@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Amanita Identification Traits and Antidote Treatment
+## Amanita Identification Traits and Antidote Treatment
 
 > **Source:** Palmer, Julius Auboineau. *About Mushrooms* (1894).
 

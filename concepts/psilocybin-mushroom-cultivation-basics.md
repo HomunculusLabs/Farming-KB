@@ -4,7 +4,7 @@ source: field-guide-to-the-psilocybin-mushroom.md
 type: concept
 ---
 
-# Psilocybin Mushroom Cultivation Basics
+## Psilocybin Mushroom Cultivation Basics
 
 This concept covers the fundamentals of cultivating [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]], as described in F.C. Ghouled's 1972 *Field Guide to the Psilocybin Mushroom*. While the original guide emphasizes that wild specimens are so common that cultivation is largely unnecessary, it provides a foundational overview of the composting and cultivation process that informed later, more refined techniques like the PF Tek.
 

@@ -4,9 +4,9 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
+sources: ["raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"]
 ---
-# Bee Forage Systems Design
+## Bee Forage Systems Design
 
 A bee forage system is a deliberately designed assemblage of plants that provides nectar and pollen across as many months of the year as possible. In berry-fruit-production-in-permaculture.
 

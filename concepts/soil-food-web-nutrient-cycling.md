@@ -30,7 +30,7 @@ sources:
 - raw/articles/jeff-lowenfels-teaming-with-fungi.md
 ---
 
-# Soil Food Web Nutrient Cycling
+## Soil Food Web Nutrient Cycling
 
 Detailed treatment of the nutrient cycling engine, the predator-prey model, glomalin and soil aggregation, and methods for building soil biology including KNF bionutrient effects. See soil food web nutrient cycling for the overview of trophic levels and bacterial vs. fungal dominance.
 

@@ -7,7 +7,7 @@ mined: 2026-05-09
 tags: [neurotropic-fungi, panaeolina, taxonomy, chemical-analysis, controversial-species]
 ---
 
-# Panaeolina foenisecii — The Controversial Psychoactive Lawn Mushroom
+## Panaeolina foenisecii — The Controversial Psychoactive Lawn Mushroom
 
 ## Overview
 

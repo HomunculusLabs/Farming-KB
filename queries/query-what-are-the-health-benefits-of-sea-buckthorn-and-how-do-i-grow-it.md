@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# What Are the Health Benefits of Sea Buckthorn and How Do I Grow It?
+## What Are the Health Benefits of Sea Buckthorn and How Do I Grow It?
 
 ## Short Answer
 

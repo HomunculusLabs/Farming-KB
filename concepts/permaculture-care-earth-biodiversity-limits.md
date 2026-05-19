@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture: Care for Earth — Biodiversity, Stewardship, and Setting Limits
+## Permaculture: Care for Earth — Biodiversity, Stewardship, and Setting Limits
 
 This page explores the deep ethical dimensions of "Care for the Earth" beyond simple planetary stewardship, including biodiversity ethics, land stewardship, the relationship between indigenous and Western land ethics, and the practical and philosophical challenges of setting limits to consumption and reproduction.
 

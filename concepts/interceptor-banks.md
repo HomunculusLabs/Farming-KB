@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Interceptor Banks
+## Interceptor Banks
 
 Interceptor banks are deep contour earthworks designed to halt the process of [[desertification]] and dryland salinity.
 

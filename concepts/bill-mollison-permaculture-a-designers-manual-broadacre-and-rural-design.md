@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-# Broadacre and Rural Design Broadacre and rural design applies permaculture principles to large-scale farming and ranching operations. Bill Mollison recognized that the majority of the world's productive land is managed as broadacre agriculture and that transforming these systems is essential for global ecological sustainability. In *Permaculture: A Designers' Manual*, he demonstrated that the same principles guiding [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]], and [[comparison-alley-cropping-vs-silvopasture]] plants rows of
+## Broadacre and Rural Design Broadacre and rural design applies permaculture principles to large-scale farming and ranching operations. Bill Mollison recognized that the majority of the world's productive land is managed as broadacre agriculture and that transforming these systems is essential for global ecological sustainability. In *Permaculture: A Designers' Manual*, he demonstrated that the same principles guiding [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]], and [[comparison-alley-cropping-vs-silvopasture]] plants rows of
 timber or nut trees with crops grown between the tree rows. Silvopasture
 combines trees with pasture for [[query-how-do-i-design-habitat-for-beneficial-insects]] species.
 

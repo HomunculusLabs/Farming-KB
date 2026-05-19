@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Disaster Preparedness in integrate-rather-than-segregate relying solely on emergency response services after the fact, the permaculture approach integrates resilience into the [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] has a range of practical applications that make it relevant to
+## Disaster Preparedness in integrate-rather-than-segregate relying solely on emergency response services after the fact, the permaculture approach integrates resilience into the [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

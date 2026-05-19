@@ -8,7 +8,7 @@ sources: [papers/cancer-treatments-medicinal-mushrooms.md]
 type: comparison
 ---
 
-# Lion's Mane vs Chaga — Medicinal Mushroom Comparison
+## Lion's Mane vs Chaga — Medicinal Mushroom Comparison
 
 Lion's Mane (Hericium erinaceus) and Chaga ([[fungal-diversity-boreal-forests-taiga]]. This comparison covers their biology, medicinal profiles, cultivation, and practical use.
 

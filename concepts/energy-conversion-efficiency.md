@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Energy Conversion Efficiency
+## Energy Conversion Efficiency
 
 ## Overview
 

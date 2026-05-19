@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Post-Harvest Handling and Storage
+## Post-Harvest Handling and Storage
 
 Post-harvest handling at [[coleman-winter-harvest-washing-and-packing]] area is scrubbed down with hot water after each
 harvest. All water comes from a drilled well tested annually. Hand

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [philosophy, ecology, agriculture, ethics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 type: concept
 ---
 
-# Green Philosophy
+## Green Philosophy
 
 **Green philosophy**, as articulated by [[microdosing-theory-and-practice]] of Green Philosophy," indicating that [[fukuoka-critique-scientific-agriculture-civilization]] as the primary manifestation of this error.
 By studying soil chemistry in isolation from soil biology, plant pathology in

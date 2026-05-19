@@ -7,7 +7,7 @@ tags: [compost-tea, brewing, soil-food-web, microbiology]
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
 ---
 
-# Compost Tea Brewing Guide
+## Compost Tea Brewing Guide
 
 Actively [[teaming-with-microbes-overview]], overcoming the limitations of bulk compost and mulch applications. Plants generate exudates from leaves that attract bacteria and fungi to the phyllosphere; compost tea can deliver these protective microbes where compost and mulch cannot reach.
 

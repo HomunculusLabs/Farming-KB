@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Green Rice Leafhopper Virus Dynamics
+## Green Rice Leafhopper Virus Dynamics
 
 The green rice leafhopper and its role as a virus vector in rice paddies
 represent a critical case study in Masanobu Fukuoka's analysis of

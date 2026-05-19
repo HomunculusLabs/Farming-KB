@@ -8,7 +8,7 @@ sources:
   - "raw/papers/growing-psilocybe-azurescens.md"
   - "raw/papers/growing-the-woodlovers-outdoors.md"
 ---
-# Azurescens Outdoor Bed Preparation with Woodchips
+## Azurescens Outdoor Bed Preparation with Woodchips
 
 Outdoor bed preparation for [[corylus-avellana]]): Recommended as excellent for P. azurescens expansion. Fresh cut twigs and chips work well
 - **Beech** ([[psilocybin-north-america-pacific-northwest]], suitable for P. azurescens

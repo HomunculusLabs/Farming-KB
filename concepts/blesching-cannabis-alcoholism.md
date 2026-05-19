@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Alcohol Dependence
+## Cannabis and Alcohol Dependence
 
 [[cannabis-for-alcohol-dependence]], with many
   reporting decreased alcohol consumption

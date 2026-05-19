@@ -13,7 +13,7 @@ sources:
 type: query
 ---
 
-# How Do I Choose Between a Cold Frame, Row Cover, and Low Tunnel?
+## How Do I Choose Between a Cold Frame, Row Cover, and Low Tunnel?
 
 ## Quick Answer
 

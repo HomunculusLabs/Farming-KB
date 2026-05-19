@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Diversity and Leaf Litter Effects
+## Mycorrhizal Diversity and Leaf Litter Effects
 
 ## Overview
 

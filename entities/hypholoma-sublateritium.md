@@ -15,7 +15,7 @@ sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
-# Hypholoma sublateritium
+## Hypholoma sublateritium
 
 ## Introduction
 

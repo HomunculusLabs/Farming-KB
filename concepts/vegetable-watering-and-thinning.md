@@ -8,7 +8,7 @@ tags: [gardening, watering, thinning, irrigation, organic-gardening]
 sources:
   - "raw/papers/purdue-home-gardeners-guide.md"
 ---
-# Vegetable Watering and Thinning
+## Vegetable Watering and Thinning
 
 Guidelines for proper irrigation and seedling thinning in home
 [[maintaining-organic-matter-in-vegetable-gardens]], based on Purdue Extension recommendations.

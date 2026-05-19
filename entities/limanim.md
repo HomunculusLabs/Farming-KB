@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Limanim (Israeli Run-Off Traps)
+## Limanim (Israeli Run-Off Traps)
 
 ## Description
 

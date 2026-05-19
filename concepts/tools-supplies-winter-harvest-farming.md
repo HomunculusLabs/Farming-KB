@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Tools and Supplies for Winter Harvest Farming
+## Tools and Supplies for Winter Harvest Farming
 
 Winter harvest farming on a small commercial scale requires a specific set of tools and supplies that differ significantly from conventional field agriculture. Eliot Coleman's recommended equipment list reflects decades of refinement for the unique demands of year-round [[coleman-french-historical-winter-vegetable-production]] [[query-how-do-i-grow-figs-in-cold-climates]], including specialized seeding, harvesting, cultivation, and protection materials.
 

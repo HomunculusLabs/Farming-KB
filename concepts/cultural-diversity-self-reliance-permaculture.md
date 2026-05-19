@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Cultural Diversity and Self-Reliance in Permaculture Design
+## Cultural Diversity and Self-Reliance in Permaculture Design
 
 Cultural diversity — the variety of human languages, traditions, food systems, and ways of understanding the world — is both nested within and intimately connected to biological diversity. In [[permaculture]], cultural diversity is not merely a value to preserve but a practical resource for designing sustainable systems. As global industrial culture erases both biological and cultural diversity, permaculture offers a framework for constructing new cultures of place from the remnants of many traditions.
 

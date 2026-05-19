@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Beets and Swiss Chard
+## Growing Beets and Swiss Chard
 
 Beets and Swiss chard (silverbeet) are the same species — *[[beta-vulgaris]]*. Beets were selected for a succulent sweet root; chard was selected for large, tender leaves. Dig up a beet and you'll see the same pattern of development, just at a different stage. Both are exceptionally drought-tolerant and well-suited to low-maintenance gardens.
 

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Communities at Chernobyl
+## Fungal Communities at Chernobyl
 
 The 1986 Chernobyl nuclear disaster created an unprecedented natural laboratory for studying how fungal communities respond to intense, sustained radiation exposure. Research over the subsequent decades has revealed remarkable fungal resilience, adaptive radiotropism, and significant shifts in community structure [[singh-fungal-biofilms-in-contaminated-environments]].
 

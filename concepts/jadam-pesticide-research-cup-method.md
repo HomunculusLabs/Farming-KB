@@ -8,7 +8,7 @@ sources: [the-way-to-ultra-low-cost-agriculture-untitled.md]
 type: concept
 ---
 
-# JADAM Pesticide Research Cup Method
+## JADAM Pesticide Research Cup Method
 
 ## Overview
 

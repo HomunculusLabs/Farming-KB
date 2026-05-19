@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Clavicipitaceous Grass Endophytes — Epichloe, Neotyphodium, and Balansia
+## Clavicipitaceous Grass Endophytes — Epichloe, Neotyphodium, and Balansia
 
 Two genera of Balansieae (Clavicipitaceae, Ascomycetes) contain endophytes: Epichloe and Balansia. These fungi form some of the most intimate and ecologically significant symbioses known between fungi and plants. The relationship ranges from mutualistic to pathogenic depending on environmental conditions and the specific fungus-host combination.
 

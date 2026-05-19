@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizae and Plant Pathogen Interactions
+## Mycorrhizae and Plant Pathogen Interactions
 
 [[mycorrhizal-fungi]] occupy a critical position at the soil–root interface, where they interact not only with their host plants but also with the diverse community of root-inhabiting microorganisms, including plant pathogenic fungi and nematodes. These interactions have profound implications for plant health, primary productivity, and ecosystem stability. The relationship between mycorrhizae and pathogens represents a complex balance between beneficial symbiosis and parasitic disease, one that has co-evolved over millions of years and continues to shape plant community dynamics.
 

@@ -32,7 +32,7 @@ related_concepts:
   - downy-mildew-biology-diversity-peronosporales
 ---
 
-# Plant Disease Management in Organic Gardens
+## Plant Disease Management in Organic Gardens
 
 Plant disease management in organic gardens is the practice of reducing
 crop losses from fungi, bacteria, oomycetes, and related organisms by

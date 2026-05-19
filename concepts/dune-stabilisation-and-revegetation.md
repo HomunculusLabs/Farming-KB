@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dune Stabilisation and Revegetation
+## Dune Stabilisation and Revegetation
 
 ## Overview
 

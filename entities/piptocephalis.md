@@ -5,7 +5,7 @@ type: entity
 tags: [zygomycete, obligate-mycoparasite, biotroph, haustorial, mucorales-parasite]
 ---
 
-# Piptocephalis
+## Piptocephalis
 
 ## Description
 

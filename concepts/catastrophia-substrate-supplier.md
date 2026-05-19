@@ -16,7 +16,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Catastrophia and Mushroom Substrate Supply from Natural Disasters
+## Catastrophia and Mushroom Substrate Supply from Natural Disasters
 
 ## Overview
 

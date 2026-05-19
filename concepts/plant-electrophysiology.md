@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Plant Electrophysiology
+## Plant Electrophysiology
 
 Plants generate and transmit [[allegro-death-and-resurrection-in-the-mushroom-cult]] late [[jagadis-chandra-bose-plant-research]]
 conducted pioneering experiments demonstrating that plants generate electrical

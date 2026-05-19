@@ -4,14 +4,12 @@ created: 2026-04-28
 tags: accessible-mushroom-cultivation-for-disabilities, manure-management, horse-manure, victorian-gardening, substrate]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [
-    /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
-  ]
+sources: ["raw/papers/william-falconer-mushroom-how-to-grow-them.md,
+  "]
 type: concept
 ---
 
-# Horse Manure Varieties for Mushroom Beds
+## Horse Manure Varieties for Mushroom Beds
 
 In order to [[mycelium]] evades hog manure; besides it is impure and
 malodorous, and a propagating bed for noxious insect vermin.

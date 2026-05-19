@@ -20,7 +20,7 @@ sources:
   - raw/articles/jeff-lowenfels-teaming-with-fungi.md
 ---
 
-# Mycorrhizal Crop Studies
+## Mycorrhizal Crop Studies
 
 Research-validated results of mycorrhizal inoculation on specific crops. Each entry notes the fungal species tested and measured outcomes. Based on Jeff Lowenfels' *Teaming with Fungi*. See [[mycorrhizal-fungi]] for the biological basis and [[mycorrhizal-inoculum-production]] for making inoculum.
 

@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Water Activity in Fungal Isolation
+## Water Activity in Fungal Isolation
 
 Water activity (a_w) is a critical parameter in mycology, particularly when isolating and studying fungi from extreme or stressful environments. It represents the ratio of the vapor pressure of water in a substrate to the vapor pressure of pure water and ranges from 0 (completely dry) to 1.0 (pure water). Understanding and manipulating water activity is essential for selectively isolating xerophilic (drought-loving), halophilic (salt-loving), and other [[extremophilic-fungi]].
 

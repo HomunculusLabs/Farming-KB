@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# Teaming with Microbes — The Fungal to Bacterial Ratio
+## Teaming with Microbes — The Fungal to Bacterial Ratio
 
 In *Teaming with Microbes*, Lowenfels and Lewis present Dr. Elaine Ingham's research on the [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass in soils. Dr. Ingham at Oregon State University published research showing:
 - The least disturbed soils (old growth timber) had far more fungi than bacteria

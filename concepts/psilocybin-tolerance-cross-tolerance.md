@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [psilocybin, mushrooms]
 ---
 
-# Psilocybin Tolerance and Cross-Tolerance
+## Psilocybin Tolerance and Cross-Tolerance
 
 [[mushroom-cancer-clinical-trials-overview]] using psilocybin must space administrations at least one week apart. This is a critical methodological constraint that affects:
 

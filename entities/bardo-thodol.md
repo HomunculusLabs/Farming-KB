@@ -5,7 +5,7 @@ type: entity
 tags: [text, tibetan, buddhism, consciousness, psychedelic]
 ---
 
-# Bardo Thodol
+## Bardo Thodol
 
 ## Description
 

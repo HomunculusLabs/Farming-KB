@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka's Theory of Natural Farming: Mahayana, Hinayana, and Scientific
+## Fukuoka's Theory of Natural Farming: Mahayana, Hinayana, and Scientific
 
 [[neo-shamanic-phenomenology-and-limits-of-science]], and the meaning of perfection itself.
 

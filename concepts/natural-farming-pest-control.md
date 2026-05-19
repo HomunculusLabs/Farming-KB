@@ -4,7 +4,7 @@ source: chos-global-natural-farming.md
 tags: [natural-farming, pest-control, integrated-pest-management, cho-global, organic]
 ---
 
-# Natural Farming Pest Control
+## Natural Farming Pest Control
 
 Natural Farming pest control, as developed by Dr. Cho Han Kyu, takes a
 fundamentally different approach from conventional pesticide-based

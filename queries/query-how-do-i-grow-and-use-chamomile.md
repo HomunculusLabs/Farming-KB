@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# How Do I Grow and Use Chamomile?
+## How Do I Grow and Use Chamomile?
 
 ## Short Answer
 

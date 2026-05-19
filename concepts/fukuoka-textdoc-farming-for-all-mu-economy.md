@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Farming for All and the Mu Economy
+## Farming for All and the Mu Economy
 
 ## The Stunted Inner Life of Modern Civilization
 

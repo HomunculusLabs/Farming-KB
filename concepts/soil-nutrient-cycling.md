@@ -7,7 +7,7 @@ tags: [soil, agriculture]
 sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
-# Soil Nutrient Cycling
+## Soil Nutrient Cycling
 
 Soil nutrient cycling is the process by which nutrients are converted from unavailable forms locked in [[teaming-with-nutrients-availability-factors]]."
 

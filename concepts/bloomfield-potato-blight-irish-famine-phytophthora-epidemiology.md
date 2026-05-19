@@ -1,4 +1,8 @@
-# Potato Blight, Phytophthora infestans, and the Irish Famine
+---
+title: "Potato Blight, Phytophthora infestans, and the Irish Famine"
+tags:
+  - concept
+---
 
 ## Overview
 Phytophthora infestans is the [[herbarium-specimens-fungal-collections]] of potato leaves collected at the time of the famine,

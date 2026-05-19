@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Melaleuca (Paperbarks) in Permaculture
+## Melaleuca (Paperbarks) in Permaculture
 
 *Melaleuca* is a genus of approximately 300 species of trees and shrubs in the Myrtaceae family, native primarily to Australia. Known commonly as paperbarks, honey myrtles, or tea trees, these plants serve numerous ecological and practical functions in permaculture systems, from land rehabilitation and bee forage to essential oil production and timber.
 

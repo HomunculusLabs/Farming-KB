@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Effective Working Groups and Right Livelihood
+## Effective Working Groups and Right Livelihood
 
 [[effective-working-groups]] and the principle of right livelihood form the social backbone of any sustainable [[permaculture]] community. Drawing from [[bill-mollison]]'s analysis in *Permaculture: A Designers' Manual*, this concept addresses how communities can organize themselves productively, avoid common governance pitfalls, and structure their social and economic systems for long-term resilience.
 

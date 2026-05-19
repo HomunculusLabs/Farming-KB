@@ -4,7 +4,7 @@ description: Guide to selecting native fruiting shrubs for permaculture food for
 tags: [permaculture, food-forest, native-plants, shrubs, berries, fruit]
 ---
 
-# What Are the Best Native Fruiting Shrubs for a Permaculture Food Forest?
+## What Are the Best Native Fruiting Shrubs for a Permaculture Food Forest?
 
 Native fruiting shrubs are the backbone of any well-designed [[serviceberry-and-native-fruiting-shrubs|permaculture food forest]].
 They occupy the shrub layer between canopy trees and ground covers, producing food for humans and wildlife alike.

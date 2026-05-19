@@ -4,7 +4,7 @@ source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 topics: ethnobotany, mexico, indigenous-culture, ritual, mushrooms
 ---
 
-# Ethnobotanical Use of Neurotropic Fungi in Mexico
+## Ethnobotanical Use of Neurotropic Fungi in Mexico
 
 Mexico is the global center of [[roger-heim-scientific-study-psilocybin]] of neurotropic fungi began with the
 rediscovery of their traditional use in Mexico. The key figures in this

@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin]
 ---
 
-# Wasson and the Rediscovery of Psilocybin Mushrooms
+## Wasson and the Rediscovery of Psilocybin Mushrooms
 
 The Western rediscovery of [psychedelic mushrooms in Mexico is one of the most
 consequential episodes in the history of [[history-psychedelics-ancient]]. The story centres on [Robert Gordon Wasson (1898-1986), a Wall Street banker whose obsessive interest in the cultural history of fungi

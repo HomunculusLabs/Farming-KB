@@ -7,7 +7,7 @@ tags: [homesteading, economics, sustainability, reference, workflow]
 sources: []
 ---
 
-# Homestead Financial Planning
+## Homestead Financial Planning
 
 Financial planning is the least glamorous but most critical aspect of homesteading. Without realistic budgeting, even the most well-designed homestead can fail. This guide covers startup costs, ongoing expenses, income strategies, tax considerations, and financial risk management.
 

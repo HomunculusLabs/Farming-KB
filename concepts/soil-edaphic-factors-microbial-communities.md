@@ -6,7 +6,7 @@ tags: [soil-science, edaphic-factors, microbiome, cannabis, agriculture]
 created: 2026-05-08
 ---
 
-# Soil Edaphic Factors and Microbial Community Structure
+## Soil Edaphic Factors and Microbial Community Structure
 
 ## Overview
 

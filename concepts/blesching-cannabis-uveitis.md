@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Uveitis
+## Cannabis and Uveitis
 
 ## Overview
 

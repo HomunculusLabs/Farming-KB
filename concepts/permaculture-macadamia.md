@@ -4,9 +4,9 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [permaculture, design]
-sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
+sources: ["raw/papers/a-selection-permaculture-plants.md"]
 ---
-# Macadamia (Macadamia spp) ## Description - Small to medium, long-lived evergreen tree - Family: Proteaceae - First Australian native tree developed into commercial crop - Commences nut production years 4-6 - Hard to about -4°C; heavy frost kills small trees and reduces yields on mature trees - Fairly drought tolerant; more reliable with irrigation (especially spring and early summer) Macadamias are among the most valuable [[permaculture-sheet-mulch-detailed-guide]] techniques helps retain moisture in the root zone without risking root damage from cultivation.
+## Macadamia (Macadamia spp) ## Description - Small to medium, long-lived evergreen tree - Family: Proteaceae - First Australian native tree developed into commercial crop - Commences nut production years 4-6 - Hard to about -4°C; heavy frost kills small trees and reduces yields on mature trees - Fairly drought tolerant; more reliable with irrigation (especially spring and early summer) Macadamias are among the most valuable [[permaculture-sheet-mulch-detailed-guide]] techniques helps retain moisture in the root zone without risking root damage from cultivation.
 
 ## Nutrition (per 100g edible portion)
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Contour Farming and Strip Cropping on Slopes
+## Contour Farming and Strip Cropping on Slopes
 
 ## Overview
 

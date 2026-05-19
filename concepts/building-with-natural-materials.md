@@ -7,7 +7,7 @@ tags: [homesteading, construction, design, sustainability, homestead-crafts]
 sources: []
 ---
 
-# Building with Natural Materials
+## Building with Natural Materials
 
 [[natural-building]] uses locally sourced, minimally processed materials to create structures that are healthy, energy-efficient, and low in embodied energy. For the homesteader, natural building reduces costs, eliminates dependency on industrial supply chains, and creates buildings that are uniquely suited to their climate and landscape.
 

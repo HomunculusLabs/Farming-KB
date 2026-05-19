@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
 type: concept
 ---
-# Accelerated Succession for Gardeners
+## Accelerated Succession for Gardeners
 
 [[dmt-containing-plants-united-states-halpern]], these include asters,
 fireweed, goldenrod, spurge, and perennial grasses. Their dense foliage and

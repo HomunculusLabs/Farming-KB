@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# How Do I Grow and Use Mullein?
+## How Do I Grow and Use Mullein?
 
 ## Short Answer
 

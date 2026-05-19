@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Bee Feeding and Fungal Pesticides
+## Bee Feeding and Fungal Pesticides
 
 ## Overview
 

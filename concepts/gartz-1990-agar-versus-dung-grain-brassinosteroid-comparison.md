@@ -1,4 +1,8 @@
-# Gartz 1990: Agar vs Dung-Grain Substrate Comparison Under Brassinosteroid Treatment
+---
+title: "Gartz 1990: Agar vs Dung-Grain Substrate Comparison Under Brassinosteroid Treatment"
+tags:
+  - concept
+---
 
 ## Overview
 

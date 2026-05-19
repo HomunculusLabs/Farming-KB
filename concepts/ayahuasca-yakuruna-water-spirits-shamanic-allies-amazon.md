@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Yakuruna: Water Spirits of the Amazon
+## Yakuruna: Water Spirits of the Amazon
 
 ## Overview
 

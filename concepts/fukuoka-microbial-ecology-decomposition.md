@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Microbial Ecology and Natural Decomposition
+## Microbial Ecology and Natural Decomposition
 
 In Chapter 5 of [[edaphic-factors-microbial-community-structure]] -- bacteria, fungi, protozoa, nematodes, and their associated enzymes -- in the natural proportions that had co-evolved to function together. Modern microbiology has confirmed this principle: defined microbial consortia outperform single-strain inoculants for decomposition tasks, and the most diverse inocula consistently produce the most complete and rapid substrate breakdown.
 

@@ -1,4 +1,8 @@
-# Psilocybin Volatility and Drying Degradation
+---
+title: "Psilocybin Volatility and Drying Degradation"
+tags:
+  - concept
+---
 
 ## Overview
 

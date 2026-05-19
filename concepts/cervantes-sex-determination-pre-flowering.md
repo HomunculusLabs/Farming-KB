@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Sex Determination and Pre-Flowering
+## Sex Determination and Pre-Flowering
 
 Cannabis must flower and produce seeds to successfully complete its
 annual [[robert-clarke]] in [[cannabis-vegetative-growth-stage]], when the plant is six to eight weeks

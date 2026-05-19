@@ -6,7 +6,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_.md
 created: 2026-05-11
 ---
 
-# Peat-Vermiculite-Limestone Casing Soil Recipe and Sterilization Debate
+## Peat-Vermiculite-Limestone Casing Soil Recipe and Sterilization Debate
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe Taxonomic Challenges and Synonymy
+## Psilocybe Taxonomic Challenges and Synonymy
 
 Psilocybe, with 116 neurotropic species, is the largest genus of psychoactive
 fungi. However, its taxonomy is among the most contentious in all of mycology.

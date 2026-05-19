@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Greywater vs Rainwater Harvesting
+## Greywater vs Rainwater Harvesting
 
 ## Overview
 Greywater systems and rainwater harvesting both capture water that would otherwise be wasted, but

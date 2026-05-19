@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Fertilizer Application and Strain-Specific Feeding
+## Fertilizer Application and Strain-Specific Feeding
 
 Applying the right amount of fertilizer at the right time is critical
 for maximizing [[cannabis-soil-and-nutrient-requirements]], and understanding these differences is

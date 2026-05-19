@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Miso vs Natto
+## Miso vs Natto
 
 ## Overview
 Miso and natto are two traditional Japanese fermented soybean foods with

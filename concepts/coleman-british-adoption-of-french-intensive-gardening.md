@@ -6,7 +6,7 @@ type: concept
 tags: [french-intensive, british-gardening, history, william-robinson, kropotkin, joseph-fels, coleman-claytonia-winter-harvest-cultivation Handbook"
 ---
 
-# British Adoption of French Intensive Gardening
+## British Adoption of French Intensive Gardening
 
 The transfer of French intensive [[cervantes-chemical-fertilizers-guide]] as "pompously labeled and
 unworthy drugs." The gardening world finally took notice.

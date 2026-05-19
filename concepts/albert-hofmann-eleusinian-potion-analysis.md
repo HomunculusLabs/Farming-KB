@@ -7,7 +7,7 @@ type: concept
 tags: [reference]
 ---
 
-# Albert Hofmann and the Eleusinian Potion Analysis
+## Albert Hofmann and the Eleusinian Potion Analysis
 
 Albert Hofmann, the Swiss chemist renowned for his discovery of [[claviceps-purpurea]] (Fr.)
 Tul., a parasitic fungus on rye, barley, wheat, and certain wild grasses.

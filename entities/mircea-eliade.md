@@ -5,7 +5,7 @@ type: entity
 tags: [person, historian, religious-studies, shamanism, ecstasy, romanian]
 ---
 
-# Mircea Eliade
+## Mircea Eliade
 
 ## Description
 

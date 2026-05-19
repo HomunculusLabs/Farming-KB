@@ -8,7 +8,7 @@ sources: [bill-mollison-permaculture-two-practical-design-for-to, bill-mollison-
 related_concepts: [rainwater-harvesting-systems, water-tank-selection-and-construction, water-storage-techniques, graywater-systems, graywater-systems-for-homesteads, greywater-systems-detailed, graywater-wetland-marsh-filtration-systems, rain-garden-design, water-catchment-permaculture, water-catchment-urban-permaculture, mollison-designers-wastewater-treatment-wetlands, swale-design-construction, keyline-design]
 ---
 
-# Rainwater Harvesting and Graywater Recycling
+## Rainwater Harvesting and Graywater Recycling
 
 Rainwater harvesting and graywater recycling are complementary strategies for
 reducing dependence on municipal water supplies and groundwater extraction.

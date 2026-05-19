@@ -14,7 +14,7 @@ sources:
   - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
-# Vole Control Methods
+## Vole Control Methods
 
 Voles are among the most damaging garden pests, capable of destroying root crops, fruit trees, and garden beds through their tunneling and feeding. Sepp Holzer addresses vole control as part of his integrated approach to working with nature rather than declaring war on individual species.
 

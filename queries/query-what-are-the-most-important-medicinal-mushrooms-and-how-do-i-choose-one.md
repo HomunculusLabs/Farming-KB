@@ -11,7 +11,7 @@ sources:
   - https://www.frontiersin.org/articles/10.3389/fphar.2021.647481/full
 ---
 
-# What Are the Most Important Medicinal Mushrooms and How Do I Choose One?
+## What Are the Most Important Medicinal Mushrooms and How Do I Choose One?
 
 ## Quick Answer
 

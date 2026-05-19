@@ -7,7 +7,7 @@ tags: [mycology, taxonomy, history, species, biology, fungi, academia, methods, 
 sources: ["raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"]
 ---
 
-# Mushroom Taxonomy History
+## Mushroom Taxonomy History
 
 ## Overview
 

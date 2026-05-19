@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Humid Tropics — Introduction and Climatic Types
+## Humid Tropics — Introduction and Climatic Types
 
 ## Overview
 

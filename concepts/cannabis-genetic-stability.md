@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Genetic Stability
+## Cannabis Genetic Stability
 
 Genetic stability in cannabis refers to the degree to which a
 population reliably reproduces its defining traits across successive

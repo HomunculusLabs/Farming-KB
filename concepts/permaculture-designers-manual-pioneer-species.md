@@ -7,7 +7,7 @@ tags: [permaculture, plants, ecology, succession]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Pioneer Species in Permaculture
+## Pioneer Species in Permaculture
 
 > Source: Bill Mollison, *Permaculture: A Designers' Manual* (1988), Chapters 3 and 10
 

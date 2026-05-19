@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# Cold Frame
+## Cold Frame
 
 ## Description
 

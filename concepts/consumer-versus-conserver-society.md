@@ -8,7 +8,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
-# Consumer versus Conserver Society
+## Consumer versus Conserver Society
 
 Holmgren develops a foundational distinction between two fundamental modes of human organization: the consumer society and the conserver society. This framework underlies the entire argument of "Permaculture: Principles and Pathways [[holmgren-wind-power-and-renewable-energy-debate]], and cooperative economics is more "conserver" than a poor community dependent on imported food, diesel generators, and extractive industries.
 

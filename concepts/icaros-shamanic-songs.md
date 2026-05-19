@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Icaros — Shamanic Songs of the Amazon
+## Icaros — Shamanic Songs of the Amazon
 
 ## Overview
 

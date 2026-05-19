@@ -11,7 +11,7 @@ sources:
 type: comparison
 ---
 
-# Mandala Garden Design vs Keyhole Garden Design
+## Mandala Garden Design vs Keyhole Garden Design
 
 ## Overview
 

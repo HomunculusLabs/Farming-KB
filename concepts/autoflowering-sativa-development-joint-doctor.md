@@ -6,7 +6,7 @@ topics: [cannabis, autoflowering, ruderalis, breeding, joint-doctor, sativa]
 created: 2026-05-09
 ---
 
-# Auto-Flowering Sativa Development and the Joint Doctor
+## Auto-Flowering Sativa Development and the Joint Doctor
 
 ## The Auto-Flowering Revolution
 

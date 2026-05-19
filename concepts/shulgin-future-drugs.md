@@ -7,7 +7,7 @@ tags: [chemistry, psychedelics]
 sources:
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Shulgin -- Drugs of Abuse in the Future
+## Shulgin -- Drugs of Abuse in the Future
 
 [[morphine]]/heroin substitutes across multiple chemical families:
 

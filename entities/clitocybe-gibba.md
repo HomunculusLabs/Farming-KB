@@ -21,7 +21,7 @@ sources:
   - Kibby, G. (2012). Mushrooms and Toadstools of Britain and Europe. Self-published.
 ---
 
-# Clitocybe gibba
+## Clitocybe gibba
 
 ## Overview
 

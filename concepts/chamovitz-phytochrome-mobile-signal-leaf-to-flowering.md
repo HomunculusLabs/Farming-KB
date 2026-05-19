@@ -7,7 +7,7 @@ tags: [phytochrome, photoperiodism, flowering, plant-signaling, chamovitz, borth
 sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 ---
 
-# Phytochrome Mobile Signal from Leaf to Flowering
+## Phytochrome Mobile Signal from Leaf to Flowering
 
 In "What a Plant Knows" (2012), [[phototropism]], botanists
 knew that the "eye" of a plant for directional [[coleman-winter-day-length-and-persephone-months]] and regulate flowering accordingly — would

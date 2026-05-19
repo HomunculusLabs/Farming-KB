@@ -10,7 +10,7 @@ sources:
   - "general botanical and pharmacological knowledge"
   - ""raw/a-selection-permaculture-plants.md"
 ---
-# Thymus vulgaris
+## Thymus vulgaris
 Thymus vulgaris, common thyme, is a low-growing evergreen subshrub in the
 family Lamiaceae native to the Mediterranean basin. It is one of the most
 important [[permaculture-designers-manual-essential-oil-plants]], dominated by thymol and carvacrol, possesses

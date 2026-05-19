@@ -7,7 +7,7 @@ tags: [chemistry, tihkal, 2c-family]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 2C-T-21 — 2,5-Dimethoxy-4-(2-fluoroethylthio)phenethylamine
+## 2C-T-21 — 2,5-Dimethoxy-4-(2-fluoroethylthio)phenethylamine
 
 [[2c-t-2]] — the ethylthio parent of the 2C-T series
 - [[pihkal-introduction-and-methodology]] — Shulgin's research context

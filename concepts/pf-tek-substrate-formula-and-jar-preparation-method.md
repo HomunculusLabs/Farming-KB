@@ -6,7 +6,7 @@ created: 2026-05-09
 tags: [cultivation, pf-tek, substrate, mycology, psilocybe-cubensis, vermicultivation]
 ---
 
-# PF Tek Substrate Formula and Jar Preparation Method
+## PF Tek Substrate Formula and Jar Preparation Method
 
 ## Overview
 

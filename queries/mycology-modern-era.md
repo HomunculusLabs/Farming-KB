@@ -12,7 +12,7 @@ sources:
 - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Mycology — Modern Era (1940–Present)
+## Mycology — Modern Era (1940–Present)
 
 Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion of mycology through the psychedelic era, molecular taxonomy revolution, and 21st century genomics.
 

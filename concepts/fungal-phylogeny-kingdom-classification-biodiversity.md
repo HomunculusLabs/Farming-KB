@@ -1,4 +1,8 @@
-# [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]
+---
+title: "biodiversity of fungi fungal phylogeny kingdom classification"
+tags:
+  - concept
+---
 > implications of fungi and fungus-like organisms.
 >
 > **Source:** Blackwell & Spatafora, "Fungi and Their Allies," in *[[fungal-taxonomy-and-kingdom-fungi]] shares a
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[ascomycota]]
 - [[slime-molds]]
 - [[fungal-salt-tolerance-and-ion-homeostasis]]
-- [[fungal-woronin-bodies-and-septal-pore-organization]]

@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
 type: concept
 ---
 
-# Jurema Mimosa hostilis Ethnobotany
+## Jurema Mimosa hostilis Ethnobotany
 
 Jurema (Mimosa hostilis) is a poorly understood shrub of the dry
 regions of eastern Brazil whose roots provide the "miraculous jurema

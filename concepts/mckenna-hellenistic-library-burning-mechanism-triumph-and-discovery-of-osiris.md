@@ -5,7 +5,7 @@ author: terence-mckenna
 topics: [history, eschatology, entheogens, western-civilization, suppression]
 ---
 
-# Hellenistic Library Burning, Mechanism's Triumph, and the Discovery of the Body of Osiris
+## Hellenistic Library Burning, Mechanism's Triumph, and the Discovery of the Body of Osiris
 
 ## The Ignorance Tradition and Cultural Destruction
 

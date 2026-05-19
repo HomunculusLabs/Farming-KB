@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: concept
 ---
-# [[growing-gourmet-iconic-types-mushroom-mycelium]] thrives better than
+## [[growing-gourmet-iconic-types-mushroom-mycelium]] thrives better than
    competitor microorganisms
 3. Concentrate nutrients for mushroom use while exhausting nutrients favored
    by competitors

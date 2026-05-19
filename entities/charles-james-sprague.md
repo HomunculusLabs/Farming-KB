@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 ---
 
-# Charles James Sprague
+## Charles James Sprague
 
 ## Description
 

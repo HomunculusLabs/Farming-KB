@@ -4,7 +4,7 @@ source: "bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
-# Permaculture Zone One Design
+## Permaculture Zone One Design
 
 Zone one is the area of closest human interaction in a permaculture system — the space
 immediately surrounding the home that is visited most frequently and managed most

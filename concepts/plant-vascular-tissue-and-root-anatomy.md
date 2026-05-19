@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Plant Vascular Tissue and Root Anatomy
+## Plant Vascular Tissue and Root Anatomy
 
 ## Overview
 

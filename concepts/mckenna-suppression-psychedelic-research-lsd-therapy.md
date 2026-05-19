@@ -8,7 +8,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# Suppression of Psychedelic Research and LSD Therapy
+## Suppression of Psychedelic Research and LSD Therapy
 
 In Food of the Gods, McKenna documents how the promising field of
 psychedelic [[leary-psychedelic-experience-bardo-mapping]] loomed ultimately as an abyss. By the end of the

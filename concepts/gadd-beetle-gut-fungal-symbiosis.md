@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Beetle Gut Fungal Symbiosis
+## Beetle Gut Fungal Symbiosis
 
 The [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] [[brassinosteroid-fungal-fruiting-body-morphology]] habitats.
 

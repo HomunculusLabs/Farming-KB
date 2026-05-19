@@ -1,4 +1,8 @@
-# Aflatoxin Discovery: Turkey X Disease and the 1960 Peanut Meal Crisis
+---
+title: "Aflatoxin Discovery: Turkey X Disease and the 1960 Peanut Meal Crisis"
+tags:
+  - concept
+---
 
 ---
 created: 2026-05-08
@@ -144,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 ## See Also
 - [[bloomfield-turkey-x-disease-aflatoxin-discovery-1960]]
 - [[composting]]
-- [[mycotoxins]]

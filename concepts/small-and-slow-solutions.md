@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Small and Slow Solutions
+## Small and Slow Solutions
 
 **Principle 9** of [[david-holmgren]]'s [[permaculture]]: *Use small and slow solutions because systems at the smallest practical scale are more manageable, adaptable, and resilient than large-scale interventions.*
 

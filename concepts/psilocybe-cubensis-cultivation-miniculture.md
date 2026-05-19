@@ -6,7 +6,7 @@ source: variation of [[psilocybin-and-psilocin-biosynthesis-variation]] levels b
 created: 2026-05-11
 ---
 
-# Psilocybe Cubensis Miniculture Method
+## Psilocybe Cubensis Miniculture Method
 
 The miniculture method is a small-scale [[boil-a-bag-mushroom-cultivation-technique]] for *Psilocybe cubensis* using rye grain substrate in half-pint mason jars. Developed as an adaptation of the San Antonio (1971) rye-grain method and refined by Oss and Oeric (1976), this approach was used by Bigwood and Beug (1982) to produce controlled, repeatable flushes of *P. cubensis* for alkaloid analysis. The method is notable for its simplicity, minimal space requirements, and ability to produce multiple flushes over an extended period.
 

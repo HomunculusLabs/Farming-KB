@@ -5,7 +5,7 @@ tags: [cultivation, pf-tek, inoculation, sterile-technique, spore-syringe, conta
 created: 2026-05-09
 ---
 
-# PF TEK Inoculation and Sterilization
+## PF TEK Inoculation and Sterilization
 
 ## Overview
 

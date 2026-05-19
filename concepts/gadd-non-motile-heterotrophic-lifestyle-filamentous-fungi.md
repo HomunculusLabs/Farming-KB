@@ -5,7 +5,7 @@ source_file: "geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environme
 topics: [fungal-biology, heterotrophy, non-motility, hyphal-growth, osmotrophy, filamentous-fungi, evolutionary-adaptation, environmental-sensing, mycelial-network]
 ---
 
-# Non-Motile Heterotrophic Lifestyle
+## Non-Motile Heterotrophic Lifestyle
 
 ## Overview
 

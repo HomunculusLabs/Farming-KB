@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Crop Rotation in Natural Farming
+## Crop Rotation in Natural Farming
 
 Crop rotation is one of the oldest and most fundamental practices in agriculture. Masanobu Fukuoka's [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]], the rice grown on Japanese soil was the very soul of the Yamato people. But as the activities of the farmer have been lowered in the common perception to the production of rice as another foodstuff, a commercial article, the original purpose of rice production has gradually been corrupted.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [fungus, plant-disease, saprophytic, honeydew, scale-insect]
 ---
 
-# Sooty Mold
+## Sooty Mold
 
 ## Description
 Sooty mold refers to a dark, often black, fungal growth that appears on the surfaces of leaves, stems, and fruit of plants. It is not caused by a single fungal species but rather by a complex of mostly saprophytic (non-parasitic) fungi in the order Capnodiales, including genera such as Capnodium, Cladosporium, and Alternaria. The fungi do not directly infect plant tissue — instead, they grow on honeydew, the sugary excrement produced by sap-feeding insects such as aphids, scale insects, mealybugs, and whiteflies. Sooty mold is an indicator of insect infestation and can reduce plant vigor by blocking photosynthesis.

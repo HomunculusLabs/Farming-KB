@@ -13,7 +13,7 @@ sources:
   - ~/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# Mushroom Bag Incubation Management
+## Mushroom Bag Incubation Management
 
 Incubation is the period during which mycelium colonizes the substrate inside each bag after
 [[volvariella-volvacea]])

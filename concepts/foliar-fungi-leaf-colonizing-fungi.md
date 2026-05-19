@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Foliar Fungi (Leaf-Colonizing Fungi)
+## Foliar Fungi (Leaf-Colonizing Fungi)
 
 Foliar fungi encompass the diverse assemblage of fungal organisms that colonize the surfaces and tissues of living leaves. This group includes saprobes, obligate biotrophic parasites, and opportunistic pathogens spanning multiple taxonomic kingdoms (Fungi and Straminipila). They are among the most conspicuous and ecologically significant components of phyllosphere microbiology, particularly in tropical and subtropical ecosystems where moisture and warmth promote prolific fungal growth on foliage.
 

@@ -6,7 +6,7 @@ aliases:
   - masanobu-fukuoka
 ---
 
-# Ancient Soil Fertility Through Rock Weathering
+## Ancient Soil Fertility Through Rock Weathering
 
 ## Core Idea
 

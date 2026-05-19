@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Forage Legumes
+## Tropical Forage Legumes
 
 Tropical forage legumes are essential components of sustainable pasture and agroforestry systems in warm climates. They fix atmospheric nitrogen, improve soil structure, provide high-protein livestock feed, serve as green manures and mulch crops, and act as pioneer species for land rehabilitation. A diverse selection of species exists for virtually every tropical and subtropical condition, from waterlogged soils to dry savannahs, from acidic sands to rocky hillsides.
 

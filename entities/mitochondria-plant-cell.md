@@ -6,7 +6,7 @@ tags: [organelle, cell-biology, energy, atp, respiration, plant-physiology]
 created: 2026-05-14
 ---
 
-# Mitochondria (Plant Cell)
+## Mitochondria (Plant Cell)
 
 ## Description
 

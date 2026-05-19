@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Foods and Indigenous Knowledge
+## Desert Foods and Indigenous Knowledge
 
 ## Overview
 

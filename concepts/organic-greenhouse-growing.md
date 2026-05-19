@@ -8,7 +8,7 @@ sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
-# Organic Greenhouse Growing
+## Organic Greenhouse Growing
 
 Updated: 2026-04-18
 

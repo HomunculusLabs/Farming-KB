@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MDPH (a,a-Dimethyl-3,4-methylenedioxyphenethylamine; 3,4-Methylenedioxyphentermine)
+## MDPH (a,a-Dimethyl-3,4-methylenedioxyphenethylamine; 3,4-Methylenedioxyphentermine)
 
 MDPH is a substituted phenethylamine compound and the alpha,alpha-dimethyl analogue of mdpea. It is a member of the phentermine family with a methylenedioxy ring. The compound is listed as [[mdma]], and related compounds.
 

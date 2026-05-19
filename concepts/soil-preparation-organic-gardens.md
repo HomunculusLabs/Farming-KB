@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Soil Preparation for Organic Gardens
+## Soil Preparation for Organic Gardens
 
 The organic approach to gardening -- feeding the soil instead of the plant -- produces much stronger growth that is less attractive to [[complete-organic-fertilizer-cof-recipe-solomon]] recommendations.
 

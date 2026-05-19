@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants
 type: concept
 ---
 
-# Solanaceous Hallucinogens of South America
+## Solanaceous Hallucinogens of South America
 
 ## Overview
 

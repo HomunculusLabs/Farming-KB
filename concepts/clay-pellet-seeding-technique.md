@@ -21,7 +21,7 @@ related_concepts:
   - desert-and-arid-lands-permaculture
 ---
 
-# Clay Pellet Seeding Technique
+## Clay Pellet Seeding Technique
 
 Clay pellet seeding (also known as seed balls or nendo dango) is a direct
 seeding method developed by [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]], though it has applications in

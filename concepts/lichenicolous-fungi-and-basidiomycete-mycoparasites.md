@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Lichenicolous Fungi and Basidiomycete Mycoparasites
+## Lichenicolous Fungi and Basidiomycete Mycoparasites
 
 Lichenicolous (lichen-inhabiting) fungi and basidiomycete mycoparasites represent a vast yet poorly understood component of [[fungal-biodiversity]]. These organisms grow on or within lichens and other fungi, establishing parasitic, commensalistic, or sometimes saprotrophic relationships with their hosts. Their study reveals extraordinary ecological specialization and evolutionary adaptation, with many genera and species still awaiting formal description. They are found across nearly all major fungal lineages, but are especially diverse within the Ascomycota and, to a lesser extent, the Basidiomycota.
 

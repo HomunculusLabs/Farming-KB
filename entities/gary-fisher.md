@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: entity
 ---
 
-# Gary Fisher
+## Gary Fisher
 
 ## Description
 

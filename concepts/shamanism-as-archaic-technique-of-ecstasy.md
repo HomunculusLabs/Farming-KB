@@ -11,7 +11,7 @@ tags:
 type: concept
 ---
 
-# Shamanism as Archaic Technique of Ecstasy
+## Shamanism as Archaic Technique of Ecstasy
 
 Shamanism is the practice of the Upper Paleolithic tradition of healing, divination, and theatrical performance based on natural magic, developed ten to fifty thousand years ago.
 

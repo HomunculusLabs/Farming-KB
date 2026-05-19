@@ -21,7 +21,7 @@ tags: [profile]
 sources: []
 ---
 
-# Bacillus subtilis
+## Bacillus subtilis
 
 *Bacillus subtilis* is a Gram-positive, rod-shaped bacterium and one of the
 most extensively studied microorganisms in biology. Known commonly as the hay

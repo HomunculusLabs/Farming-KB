@@ -5,10 +5,10 @@ type: species
 tags: [psilocybe, neurotropic, mexico, agaricales, strophariaceae]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Psilocybe wassoniorum
+## Psilocybe wassoniorum
 
 **Psilocybe wassoniorum** is a species of psychoactive mushroom in the family Strophariaceae, named in honor of R. Gordon Wasson and his wife Valentina Pavlovna Wasson, the pioneering ethnomycologists who brought the knowledge of Mexican sacred mushrooms to the attention of the Western world. It is one of the psilocybin-containing species cataloged in Guzmán, Allen & Gartz's (1998) comprehensive [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 

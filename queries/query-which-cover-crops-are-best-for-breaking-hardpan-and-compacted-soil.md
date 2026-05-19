@@ -14,7 +14,7 @@ sources:
 type: query
 ---
 
-# Which Cover Crops Are Best for Breaking Hardpan and Compacted Soil?
+## Which Cover Crops Are Best for Breaking Hardpan and Compacted Soil?
 
 ## Short Answer
 

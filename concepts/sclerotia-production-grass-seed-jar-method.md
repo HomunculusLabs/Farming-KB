@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Sclerotia Production in Jars on Grass Seed Substrate
+## Sclerotia Production in Jars on Grass Seed Substrate
 
 ## Overview
 

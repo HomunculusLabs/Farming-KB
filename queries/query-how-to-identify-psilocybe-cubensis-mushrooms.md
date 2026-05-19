@@ -8,7 +8,7 @@ sources: [papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cube
 type: query
 ---
 
-# How Do I Identify Psilocybe Cubensis Mushrooms?
+## How Do I Identify Psilocybe Cubensis Mushrooms?
 
 ## Short Answer
 Psilocybe cubensis is identified by its golden-brown cap that fades to a lighter straw

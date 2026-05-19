@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MBDB (Eden, METHYL-J)
+## MBDB (Eden, METHYL-J)
 
 **Chemical name:** N-Methyl-1-(1,3-benzodioxol-5-yl)-2-butanamine; 2-Methylamino-1-(3,4-methylenedioxyphenyl)butane
 

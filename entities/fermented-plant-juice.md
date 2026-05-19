@@ -1,14 +1,14 @@
 ---
-title: bionutrients-lab-fermented-plant-juice-fpj
+title: "Fermented Plant Juice"
 created: 2026-04-28
 type: chemical
 tags: [knf, fpj, plant-extranatural-farmingn, cho-global]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+sources: ["raw/papers/chos-global-natural-farming.md"]
 ---
 
-# Fermented Plant Juice
+## Fermented Plant Juice
 
 **Fermented Plant Juice (FPJ)** is a core [[foliar-pest-deterrence-aact-mechanisms]].
 * **Dropwort (Oenanthe javanica) FPJ:** Made from the aquatic plant water dropwort. High in minerals, particularly iron and silica. Used for leafy green vegetables and rice crops.

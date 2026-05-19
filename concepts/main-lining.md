@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# Main-Lining
+## Main-Lining
 
 Main-lining is a systematic [[low-stress-training]] (bending and tying branches) to force the plant to grow multiple main stems of equal size and strength. Cervantes describes the underlying principle when he advises to "remove all but the four main branches" and explains that "the meristem (central stem) is removed just above the four lowest branches" so that "fewer branches are stronger and bear a larger quantity of dense, heavy flower tops."
 

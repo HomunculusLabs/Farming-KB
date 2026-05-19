@@ -8,7 +8,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 type: entity
 ---
 
-# Auricularia auricula
+## Auricularia auricula
 
 **Type:** Species
 **Category:** Basidiomycete (Auriculariales)

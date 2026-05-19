@@ -5,15 +5,15 @@ tags: [natural-building, straw-bale, sustainable-architecture, homesteading, ins
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/straw-bale-construction.md
-  - /Users/t3rpz/wiki/concepts/mollison-designers-straw-bale-building-techniques.md
+  - raw/concepts/straw-bale-construction.md
+  - raw/concepts/mollison-designers-straw-bale-building-techniques.md
 related_concepts:
   - straw-bale-construction
   - mollison-designers-straw-bale-building-techniques
   - earthbag-construction
   - natural-building
 ---
-# Straw Bale Construction
+## Straw Bale Construction
 Straw bale construction is a natural building method that uses compacted bales of grain straw as wall material.
 The straw is usually the dry stalk left after wheat, rice, oats, barley, or rye has been harvested.
 Unlike hay, straw contains little leaf or seed material and is therefore less attractive to insects, rodents, and mold.

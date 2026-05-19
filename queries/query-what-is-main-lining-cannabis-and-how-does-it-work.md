@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Main-Lining Cannabis and How Does It Work?
+## What Is Main-Lining Cannabis and How Does It Work?
 
 ## Short Answer
 Main-lining is a high-stress training technique that creates a

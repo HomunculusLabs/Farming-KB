@@ -7,7 +7,7 @@ tags: [equipment, processing, food, homesteading, construction, safety, law, too
 sources: []
 ---
 
-# Home Butcher Shop Setup
+## Home Butcher Shop Setup
 
 A home butcher shop (also called a processing room or harvest kitchen) is a dedicated space for butchering, cutting, wrapping, and storing meat from homestead-raised livestock. A well-designed setup improves food safety, processing efficiency, and product quality while meeting regulatory requirements for small-scale meat production.
 

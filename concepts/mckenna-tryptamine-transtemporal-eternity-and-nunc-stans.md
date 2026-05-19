@@ -5,7 +5,7 @@ tags: [mckenna, nunc-stans, eternity, time, tryptamine, aquinas]
 created: 2026-05-08
 ---
 
-# Tryptamines, Transtemporal Experience, and the Nunc Stans
+## Tryptamines, Transtemporal Experience, and the Nunc Stans
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Arbuscule Isolation and Metabolic Activity Assays
+## Arbuscule Isolation and Metabolic Activity Assays
 
 ## Overview
 

@@ -11,7 +11,7 @@ related_concepts:
   - comparison-steam-distillation-vs-co2-extraction-for-essential-oils
 ---
 
-# Essential Oils and Hydrosol Distillation
+## Essential Oils and Hydrosol Distillation
 
 Essential oils and hydrosols are aromatic plant extracts produced
 primarily through steam distillation, one of the oldest forms of

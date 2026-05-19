@@ -5,7 +5,7 @@ tags: [french-intensive, market-gardening, parisian-maraicher, coleman, history]
 created: 2026-05-11
 ---
 
-# Louis Savier and the Modernization of French Intensive Market Gardening
+## Louis Savier and the Modernization of French Intensive Market Gardening
 
 The story of Louis Savier represents a critical bridge between the 19th-century Parisian maraîcher tradition and modern organic market gardening. When [[eliot-coleman]] visited Savier's farm outside Paris in the 1970s and 1980s, he found a living embodiment of intensive vegetable production techniques that had evolved from the legendary Parisian market gardens of 1850-1900 while incorporating 20th-century innovations. Savier's operation demonstrates both the enduring principles and the practical evolution of French intensive gardening.
 

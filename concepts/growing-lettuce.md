@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Lettuce
+## Growing Lettuce
 
 To achieve the best eating quality, lettuce must grow rapidly. Its root stores water, but when lettuce has to survive using that moisture reserve, new growth stops and the leaves become progressively tougher and bitter. The soil must be fertile and the plants must not be crowded.
 

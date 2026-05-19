@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, cultivation, troubleshooting, pest-control, disease-management]
 ---
 
-# Mushroom Troubleshooting (Pest and Disease Management)
+## Mushroom Troubleshooting (Pest and Disease Management)
 
 ## Description
 

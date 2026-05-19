@@ -20,7 +20,7 @@ sources:
 - raw/papers/purdue-home-gardeners-guide.md
 ---
 
-# Vegetable Garden Harvest and Storage
+## Vegetable Garden Harvest and Storage
 
 Harvest timing, [[spawn-storage-conditions]], and detailed crop-specific notes for home [[maintaining-organic-matter-in-vegetable-gardens]], based on Purdue Extension guidelines.
 

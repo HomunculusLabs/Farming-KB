@@ -5,7 +5,7 @@ type: entity
 tags: [method, farming, sustainable, organic, biointensive, soil-building, food-production, ecology-action]
 ---
 
-# GROW BIOINTENSIVE
+## GROW BIOINTENSIVE
 
 ## Description
 

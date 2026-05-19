@@ -5,7 +5,7 @@ type: entity
 tags: [person, botanist, ethnobotany, hallucinogens, amazon, peyote, banisteriopsis]
 ---
 
-# Richard Evans Schultes
+## Richard Evans Schultes
 
 ## Description
 

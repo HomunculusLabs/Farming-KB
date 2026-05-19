@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Von Karman Trails and Fluid Flow Patterns
+## Von Karman Trails and Fluid Flow Patterns
 
 Von Karman trails are a fundamental phenomenon of fluid dynamics with deep relevance to [[von-karman-trail]] exists in a Goldilocks zone between these two extremes — the intermediate range where stable, repeating spirals emerge.
 

@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Early American Mycology History
+## Early American Mycology History
 
 ## Overview
 

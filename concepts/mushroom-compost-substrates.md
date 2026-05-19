@@ -18,7 +18,7 @@ sources:
 - raw/papers/the-mushroom-cultivator-stamets.md
 ---
 
-# Mushroom Compost Substrates (Agaricus)
+## Mushroom Compost Substrates (Agaricus)
 
 Compost preparation for Agaricus (button mushroom) cultivation from Stamets' Mushroom Cultivator. For grain spawn, wood-based substrates, supplements, and pasteurization, see [[mushroom-substrates]].
 

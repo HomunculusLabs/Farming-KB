@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-# St. John's Wort Growing Guide (Hypericum perforatum)
+## St. John's Wort Growing Guide (Hypericum perforatum)
 
 ## Overview
 

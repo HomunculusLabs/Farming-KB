@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-# The Mycelial Archetype in Nature
+## The Mycelial Archetype in Nature
  The mycelial archetype is a branching, netlike organizational pattern that recurs
 throughout the natural world and in human-made systems. From the filaments of fungal networks to the neural pathways of the human brain, from river deltas
 to the architecture of the Internet, this pattern represents one of the most successful and energy-efficient strategies for distributing resources,

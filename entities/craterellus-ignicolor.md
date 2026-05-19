@@ -18,7 +18,7 @@ sources:
   - "Kuo, M. (2024). \"Craterellus ignicolor.\" MushroomExpert.com."
 ---
 
-# Craterellus ignicolor (*Flame Chanterelle*)
+## Craterellus ignicolor (*Flame Chanterelle*)
 
 ## Overview
 

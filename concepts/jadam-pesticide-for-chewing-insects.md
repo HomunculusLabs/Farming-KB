@@ -19,7 +19,7 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Pesticide for Chewing Insects
+## JADAM Pesticide for Chewing Insects
 
 Targets moths, caterpillars, armyworms, diamondback moth, cabbage butterflies, fruitworms, and other chewing larvae. Uses higher concentrations of [[jadam-herb-solution-jhs]] than the aphid/mite formulation, with [[jadam-wetting-agent-jwa]] for penetration through larval body walls. Developed by Hyunho Cha and Youngsang Cho.
 

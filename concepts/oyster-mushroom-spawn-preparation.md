@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, oyster-mushrooms, spawn, grain-inoculation, sterile-technique]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Oyster Mushroom Spawn Preparation Spawn is the living mycelial inoculum used to seed bulk substrates for mushroom cultivation. High-quality spawn is the single most important input determining cultivation success. Poor spawn leads to slow colonization, low yields, and frequent contamination failures. [[blesching-cannabis-strain-selection-receptor-targeting]] is critical: commercial strains are bred for
+## Oyster Mushroom Spawn Preparation Spawn is the living mycelial inoculum used to seed bulk substrates for mushroom cultivation. High-quality spawn is the single most important input determining cultivation success. Poor spawn leads to slow colonization, low yields, and frequent contamination failures. [[blesching-cannabis-strain-selection-receptor-targeting]] is critical: commercial strains are bred for
 yield, disease resistance, temperature tolerance, and fruiting characteristics.
 Wild isolates require extensive testing before use in production.
 

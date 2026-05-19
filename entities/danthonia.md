@@ -5,7 +5,7 @@ type: entity
 tags: [grass, mulch-source, native-grass, desert-plant, permaculture, forage]
 ---
 
-# Danthonia
+## Danthonia
 
 ## Description
 

@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, ecology, plant-communication, nutrient-transfer]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
-# Common Mycorrhizal Networks Common mycorrhizal networks (CMNs), sometimes called mycorrhizal networks or myconets, are [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] to neighboring plants. This has been demonstrated
+## Common Mycorrhizal Networks Common mycorrhizal networks (CMNs), sometimes called mycorrhizal networks or myconets, are [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] to neighboring plants. This has been demonstrated
 using isotopic labeling techniques, where carbon-13 or carbon-14 fed to a
 "donor" plant is later detected in connected "receiver" plants.
 

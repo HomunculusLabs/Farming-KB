@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Genomics and Comparative Approaches
+## Fungal Genomics and Comparative Approaches
 
 Fungal genomics has undergone rapid expansion since the sequencing of
 [[bloomfield-chytrid-fungi-early-fungal-evolution]].

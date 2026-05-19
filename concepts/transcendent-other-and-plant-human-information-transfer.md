@@ -9,7 +9,7 @@ sources:
   - McKenna T. Food of the Gods: The Search for the Original Tree of Knowledge. Bantam Books. 1992.
 ---
 
-# Transcendent Other and Plant-Human Information Transfer
+## Transcendent Other and Plant-Human Information Transfer
 
 The concept of the "Transcendent Other" represents Terence McKenna's central hypothesis for understanding the role of psychoactive plants in human evolution and consciousness. Rather than viewing hallucinogens as mere intoxicants, McKenna proposed that certain plant compounds function as chemical messengers enabling information transfer across species boundaries — a process he called encountering the Transcendent Other.
 

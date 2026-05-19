@@ -4,7 +4,7 @@ source: mckenna_t-tryptamines_consciousness.md
 tags: [mckenna, logos, philo-judaeus, tryptamine, language, synesthesia, hermeticism, phenomenology]
 ---
 
-# Philo Judaeus and the Logos: From Things Heard to Things Beheld
+## Philo Judaeus and the Logos: From Things Heard to Things Beheld
 
 ## The Philonic Logos and Tryptamine Synesthesia
 

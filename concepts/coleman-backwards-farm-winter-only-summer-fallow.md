@@ -1,4 +1,8 @@
-# Coleman's Backwards Farm: Winter-Only Production and Summer Fallow
+---
+title: "Coleman's Backwards Farm: Winter-Only Production and Summer Fallow"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -143,8 +147,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[coleman-overwintered-onions-and-early-spring-crops]]
-- [[coleman-rolling-greenhouse-wheel-rail-design]]

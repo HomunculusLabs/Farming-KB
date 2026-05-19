@@ -14,7 +14,7 @@ sources:
   - "raw/papers/growing-psilocybe-azurescens.md"
 ---
 
-# Malt Extract Agar
+## Malt Extract Agar
 
 Malt extract agar (MEA) is a standard microbiological growth medium widely used in mycology for the cultivation, isolation, and maintenance of [[biosafety-classification-shipping-fungal-cultures]]. It provides a nutrient-rich, semi-solid surface that supports the growth of a broad range of fungi, making it the preferred medium for germinating spores and establishing pure mycelial cultures of species such as fungal-cultivation-methods.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# The Cross and Mushroom Symbolism
+## The Cross and Mushroom Symbolism
 
 The central thesis of Allegro's book — encapsulated in its title — is that the Christian cross symbol derives from the mushroom. This page explores his detailed argument for the cross-mushroom connection across multiple cultures and periods.
 

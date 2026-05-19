@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Anti-Inflammatory Applications
+## Cannabis Anti-Inflammatory Applications
 
 ## Overview
 

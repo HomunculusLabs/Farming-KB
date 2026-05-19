@@ -5,7 +5,7 @@ created: 2026-05-11
 tags: [mycology, psilocybin, psilocin, street-samples, variability, dosage, unpredictability, hplc, quality-control, entheogenic]
 ---
 
-# Street Sample Tenfold Variability and Dosage Unpredictability
+## Street Sample Tenfold Variability and Dosage Unpredictability
 
 ## Overview
 

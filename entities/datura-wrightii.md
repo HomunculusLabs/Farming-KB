@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Datura wrightii
+## Datura wrightii
 
 **Datura wrightii** Regel, commonly known as sacred datura, angel's trumpet, thornapple, or toloache (from Nahuatl *tloloxóchitl*, meaning "the plant that makes one crazy"), is a perennial herbaceous plant in the family Solanaceae. It is native to the southwestern [[scopolamine]] and [[atropine]] being the racemic form of hyoscyamine). The total alkaloid content of the plant varies depending on the plant part, age, growing conditions, season, and genetic factors, but typically ranges from 0.2% to 0.8% of dry weight in the leaves, and can be higher in the seeds.
 

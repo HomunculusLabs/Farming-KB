@@ -14,7 +14,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Trace Water Flash Steam Microwave Sterilization
+## Trace Water Flash Steam Microwave Sterilization
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-indoleds-schultes-hofmann.md"
 ---
 
-# Voacanga africana
+## Voacanga africana
 
 **Voacanga africana** Stapf is a tropical tree of West Africa belonging to the family Apocynaceae (dogbane family). The bark and seeds of this tree contain significant quantities of indole alkaloids of the iboga type, including ibogaine, making it a plant of both ethnobotanical and pharmacological interest.
 

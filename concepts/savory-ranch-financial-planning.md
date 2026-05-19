@@ -11,7 +11,7 @@ sources:
 updated: 2026-04-26
 ---
 
-# Ranch Financial Planning in Holistic Management
+## Ranch Financial Planning in Holistic Management
 
 Financial planning in [[savory-ecosystem-foundation-blocks]] blocks?
 3. **Social and cultural acceptability**: Does it support the quality of life goals of all people involved?

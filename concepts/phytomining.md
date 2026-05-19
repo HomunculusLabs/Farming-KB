@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Phytomining
+## Phytomining
 
 Phytomining (also called agromining) is an agricultural technology that uses [[hyperaccumulator-plants]] to extract valuable metals from low-grade ore bodies, mineralized soils, or anthropogenically contaminated substrates. The harvested plant biomass, enriched with target metals, is then processed to recover the metal content for commercial use. Phytomining represents a novel intersection of phytoremediation and extractive metallurgy, offering a sustainable alternative to conventional mining for certain metal resources.
 

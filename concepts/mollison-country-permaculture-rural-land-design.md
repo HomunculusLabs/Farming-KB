@@ -7,7 +7,7 @@ type: concept
 tags: [culture, design, permaculture]
 ---
 
-# Country Permaculture - Rural Land Design
+## Country Permaculture - Rural Land Design
 
 Permaculture Two provides detailed guidance for rural land design,
 from small farmlets to broadacre properties. The emphasis is on

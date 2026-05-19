@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# DESOXY
+## DESOXY
 
 [[phytochrome-red-far-red-ratio-shade-detection-plants]]n
 

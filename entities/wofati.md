@@ -20,7 +20,7 @@ sources:
   - Mollison B. (1988). "Permaculture: A Designers' Manual." tagari-publications.
 created: 2026-04-28---
 
-# Wofati
+## Wofati
 
 ## Overview
 

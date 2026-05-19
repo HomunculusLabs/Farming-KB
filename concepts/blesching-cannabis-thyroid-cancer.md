@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Thyroid Cancer
+## Cannabis and Thyroid Cancer
 
 ## Overview
 

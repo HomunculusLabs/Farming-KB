@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# Ibogaine
+## Ibogaine
 
 TIHKAL entry #25. A complex, naturally occurring [[plants-of-the-gods-tabernanthe-iboga-chemistry]], native to Gabon. Used for centuries in the Bwiti religion as a sacrament. More recently studied for its reported anti-addictive properties, particularly in interrupting opioid dependence. Ibogaine is both a stimulant and a hallucinogen, producing an exceptionally long and physically demanding experience.
 

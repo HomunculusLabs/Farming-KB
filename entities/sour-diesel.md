@@ -10,7 +10,7 @@ sources:
   - "raw/papers/the-cannabis-grow-bible-cestnik.md"
 ---
 
-# Sour Diesel
+## Sour Diesel
 
 **Sour Diesel**, also known as **Sour D** or **Sour Deez**, is a legendary sativa-dominant cannabis cultivar that originated in the early 1990s in New York City. Widely regarded as one of the most influential and commercially successful cannabis strains in modern history, Sour Diesel is celebrated for its pungent, diesel-fuel aroma, its energizing and cerebrally stimulating effects, and its role as a genetic parent in dozens of subsequent elite cultivars. The strain's distinctive chemotype — characterized by high levels of the terpenes caryophyllene, limonene, and myrcene — has made it a benchmark in cannabis quality assessment and a foundational element of East Coast cannabis culture.
 

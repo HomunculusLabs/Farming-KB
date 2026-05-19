@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Cannabis indica Lam.
+## Cannabis indica Lam.
 
 ## Common Names
 

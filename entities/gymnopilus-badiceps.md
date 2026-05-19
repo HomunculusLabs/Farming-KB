@@ -5,10 +5,10 @@ type: species
 tags: [gymnopilus, neurotropic, cortinariaceae, psilocybin, wood-inhabiting]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Gymnopilus badiceps
+## Gymnopilus badiceps
 
 **Gymnopilus badiceps** is a species of neurotropic mushroom in the family Cortinariaceae (or Hymenogastraceae under more recent phylogenetic classifications based on molecular data). It is one of 14 species of *Gymnopilus* documented as containing psilocybin or related indole alkaloids in the comprehensive [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] across four major groups.
 

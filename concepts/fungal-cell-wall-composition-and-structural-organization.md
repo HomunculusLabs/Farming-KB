@@ -4,7 +4,7 @@ tags: [fungal-biology, cell-wall, chitin, beta-glucan, mycology, fungal-structur
 created: 2026-05-11
 ---
 
-# Fungal Cell Wall Composition and Structural Organization
+## Fungal Cell Wall Composition and Structural Organization
 
 The fungal cell wall is a complex, dynamic extracellular matrix that surrounds every fungal cell,
 providing structural integrity, protection from environmental stresses, and mediating interactions

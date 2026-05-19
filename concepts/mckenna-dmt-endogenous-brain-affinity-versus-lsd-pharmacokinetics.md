@@ -5,7 +5,7 @@ source: McKenna (1983/1992) - Tryptamine bloomfield-cordyceps-summit-disease-bra
   - tryptamine
 ---
 
-# DMT as Endogenous Hallucinogen and Brain Affinity Compared to LSD
+## DMT as Endogenous Hallucinogen and Brain Affinity Compared to LSD
 
 ## Overview
 

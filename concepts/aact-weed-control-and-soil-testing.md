@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# AACT Weed Control and Soil Testing
+## AACT Weed Control and Soil Testing
 
 [[actively-aerated-compost-tea]] (AACT) influences weed dynamics indirectly through its effects on soil biology and chemistry. Rather than acting as a direct herbicide, AACT addresses the underlying soil conditions that favor weed establishment. Coupled with appropriate soil testing, AACT becomes a diagnostic and corrective tool for understanding why weeds dominate certain areas.
 

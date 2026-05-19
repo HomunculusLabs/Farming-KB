@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka on Human Knowledge Limits and Ecosystem Complexity
+## Fukuoka on Human Knowledge Limits and Ecosystem Complexity
 
 > From *The One-Straw Revolution*, Chapter 1: "Ailing Agriculture in an Ailing Age"
 

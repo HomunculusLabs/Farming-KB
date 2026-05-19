@@ -7,7 +7,7 @@ wikilinks: panama-red, landrace sativa, classic strains, central american sativa
 created: 2026-05-10
 ---
 
-# Panama Red: The Classic Landrace Sativa
+## Panama Red: The Classic Landrace Sativa
 
 ## Overview
 

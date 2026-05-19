@@ -18,7 +18,7 @@ sources:
   - Odigie, I.P. et al. (2003). "Extracts of Hibiscus sabdariffa L. lower blood pressure." Phytomedicine 10(1): 40-42.
 ---
 
-# Hibiscus sabdariffa
+## Hibiscus sabdariffa
 
 ## Overview
 

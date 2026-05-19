@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Mycological Landscaping and Gardening with Fungi
+## Mycological Landscaping and Gardening with Fungi
 
 Paul Stamets advocates for integrating fungi into garden and landscape design, arguing that "mycogardening" should be as fundamental to landscaping as choosing plant species. By thoughtfully matching mycelia with compatible plants and conditions, gardeners can create self-sustaining fungal ecosystems that improve soil, filter water, and support biodiversity.
 

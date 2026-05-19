@@ -18,7 +18,7 @@ sources:
   - "Nielsen, M.M. et al. (2016). \"Palmaria palmata as a protein source.\" Journal of Applied Phycology, 28, 1301-1311."
 ---
 
-# Palmaria palmata (*dulse*)
+## Palmaria palmata (*dulse*)
 
 ## Overview
 

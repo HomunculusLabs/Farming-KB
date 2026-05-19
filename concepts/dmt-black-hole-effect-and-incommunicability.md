@@ -7,7 +7,7 @@ sources:
   - mckenna_t-tryptamines_consciousness.md
 ---
 
-# DMT Black Hole Effect and Incommunicability
+## DMT Black Hole Effect and Incommunicability
 
 The DMT black hole effect is a metaphor coined by [[leary-psychedelic-experience-bardo-mapping]] of dimethyltryptamine, where the nature of the
 experience is so alien that language fails to convey it to others.

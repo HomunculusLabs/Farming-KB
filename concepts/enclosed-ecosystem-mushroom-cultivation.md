@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Enclosed Ecosystem Mushroom Cultivation
+## Enclosed Ecosystem Mushroom Cultivation
 
 Enclosed ecosystem cultivation is an advanced technique where mushrooms and plants are grown together in sealed transparent containers to create self-sustaining gas exchange systems. These systems model the biological interdependence between fungi and plants, where plants consume CO₂ and produce oxygen while mushrooms consume oxygen and produce CO₂. The concept has applications ranging from classroom education to potential space agriculture systems.
 

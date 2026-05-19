@@ -4,10 +4,10 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
+sources: ["raw/papers/a-selection-permaculture-plants.md"]
 ---
 
-# Aspergillus niger in Fungal Bioleaching
+## Aspergillus niger in Fungal Bioleaching
 
 aspergillus niger in fungal bioleaching is the most extensively studied fungus for bioleaching of metals from ores, industrial wastes, and contaminated soils. Its bioleaching capability derives from [[staycare-fungal-heterotrophic-leaching-biosorption]] by fungi offers distinct advantages for non-sulfide ores. Heterotrophic leaching is mainly based on three mechanisms: proton-induced metal solubilization, metal reduction or oxidation, and ligand-induced metal solubilization. Organic acids from heterotrophic microorganisms serve as such ligands, which is particularly important for treating silicate, carbonate, and oxide minerals that cannot be directly attacked by sulfur-oxidizing microorganisms.
 

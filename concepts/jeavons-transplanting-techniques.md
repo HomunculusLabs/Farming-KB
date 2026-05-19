@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Transplanting Techniques
+## Transplanting Techniques
 
 Transplanting seedlings rather than directly sowing seeds is a
 cornerstone of the [[jeavons-planting-by-moon-phases]]

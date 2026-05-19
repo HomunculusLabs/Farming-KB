@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungi in Stressful Environments — Sampling and Isolation Methods for Stress-Tolerant Fungal Groups
+## Fungi in Stressful Environments — Sampling and Isolation Methods for Stress-Tolerant Fungal Groups
 
 ## Overview
 

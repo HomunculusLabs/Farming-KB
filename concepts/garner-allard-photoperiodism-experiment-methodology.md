@@ -8,7 +8,7 @@ sources:
  - grahamholmes-what-a-plant-knowsindd.md
 type: concept
 ---
-# Garner and Allard Photoperiodism Experiment Methodology
+## Garner and Allard Photoperiodism Experiment Methodology
 
 The [[chamovitz-maryland-mammoth-photoperiodism-discovery]] outdoors for many months, knowing the plants would
 eventually flower naturally during midwinter when days reached their shortest.

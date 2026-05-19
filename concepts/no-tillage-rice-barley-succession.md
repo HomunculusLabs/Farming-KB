@@ -1,4 +1,8 @@
-# No-Tillage Rice-Barley Succession
+---
+title: "No-Tillage Rice-Barley Succession"
+tags:
+  - concept
+---
 
 No-tillage rice-barley succession is a [[masanobu-fukuoka]] in which winter grain (barley or wheat) and rice are grown in
 continuous rotation without plowing, tilling, [[clay-pellet-seed-dispersal|Clay pellets]] containing seed rice were scattered

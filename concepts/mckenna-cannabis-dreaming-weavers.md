@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and the Dreaming Weavers
+## Cannabis and the Dreaming Weavers
 
 Cannabis occupies a unique position in McKenna's pharmacological history. Unlike
 the vision-inducing hallucinogens of the Archaic partnership paradise, cannabis

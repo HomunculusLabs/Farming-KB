@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Amyotrophic Lateral Sclerosis (ALS)
+## Cannabis and Amyotrophic Lateral Sclerosis (ALS)
 
 ## Overview
 

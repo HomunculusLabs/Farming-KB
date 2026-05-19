@@ -7,7 +7,7 @@ tags: [soil-health, gardening, soil-building, remediation]
 sources: [raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
 ---
 
-# Soil Compaction Solutions
+## Soil Compaction Solutions
 
 Soil compaction is the compression of soil particles, reducing pore space and restricting root growth, water infiltration, air exchange, and biological activity. It is one of the most common and damaging soil problems in gardens and farms.
 

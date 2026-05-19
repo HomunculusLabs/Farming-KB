@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Fungal Ecology: Saprophytes, Parasites, and Mycorrhizae
+## Fungal Ecology: Saprophytes, Parasites, and Mycorrhizae
 
 Mushrooms occupy diverse ecological niches defined by their nutritional strategies. Understanding these ecological roles is fundamental to both conservation and cultivation of medicinally important species.
 

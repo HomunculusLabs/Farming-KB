@@ -7,7 +7,7 @@ tags: [chemistry, safety, lab-technique, harm-reduction, legal, psychedelics, re
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# Phenethylamine Synthesis Safety
+## Phenethylamine Synthesis Safety
 
 ## Shulgin's Cautionary Framework
 

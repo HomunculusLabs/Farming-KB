@@ -13,7 +13,7 @@ tags:
 - forest-ecology
 ---
 
-# Fungal Warfare: Territorial Combat Between Mycelia in Wood
+## Fungal Warfare: Territorial Combat Between Mycelia in Wood
 
 ## Overview
 

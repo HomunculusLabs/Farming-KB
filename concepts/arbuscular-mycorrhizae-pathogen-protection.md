@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Arbuscular Mycorrhizae and Plant Pathogen Protection
+## Arbuscular Mycorrhizae and Plant Pathogen Protection
 
 ## Overview
 

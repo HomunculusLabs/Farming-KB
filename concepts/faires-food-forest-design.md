@@ -8,7 +8,7 @@ type: concept
 tags: [design, food-forest, forest-garden]
 ---
 
-# Food Forest Design Principles
+## Food Forest Design Principles
 
 Food forest design, also called [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] to produce food with minimal ongoing labor. Rather than growing single crops in rows, the food forest arranges plants of different heights and functions into self-sustaining communities called guilds.
 

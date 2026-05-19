@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Melia azedarach (White Cedar / Chinaberry)
+## Melia azedarach (White Cedar / Chinaberry)
 
 ## Description
 

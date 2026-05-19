@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Growing Root Vegetables - Carrots Parsnips and Radishes
+## Growing Root Vegetables - Carrots Parsnips and Radishes
 
 Updated: 2026-04-18
 

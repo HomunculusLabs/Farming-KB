@@ -7,7 +7,7 @@ tags: [mycorrhizal, mycorrhizae, fertilizer, methods]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# Mycorrhizal Inoculum Production - Best Practices for Agriculture
+## Mycorrhizal Inoculum Production - Best Practices for Agriculture
 
 Updated: 2026-04-18
 

@@ -8,7 +8,7 @@ type: concept
 tags: [cultivation, plant-growth]
 ---
 
-# Peyote Cultivation from Seed
+## Peyote Cultivation from Seed
 
 ## Overview
 

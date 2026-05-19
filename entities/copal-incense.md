@@ -5,7 +5,7 @@ type: entity
 tags: [resin, incense, ritual, mazatec, ceremonial, plant-medicine]
 ---
 
-# Copal Incense
+## Copal Incense
 
 ## Description
 

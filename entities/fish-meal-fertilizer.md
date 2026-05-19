@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: entity
 ---
 
-# Fish Meal (Fertilizer)
+## Fish Meal (Fertilizer)
 
 ## Description
 

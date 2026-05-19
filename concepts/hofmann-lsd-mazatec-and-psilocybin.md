@@ -8,7 +8,7 @@ type: concept
 tags: [lsd, mazatec, psilocybin]
 ---
 
-# Hofmann, the Mazatec, and the Discovery of Psilocybin
+## Hofmann, the Mazatec, and the Discovery of Psilocybin
 
 ## The Magic Mushrooms of Mexico
 

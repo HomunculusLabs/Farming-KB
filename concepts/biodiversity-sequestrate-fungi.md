@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Sequestrate Fungi
+## Sequestrate Fungi
 
 Sequestrate fungi are fleshy, leathery, rubbery, or cartilaginous
 species that sequester their spore-bearing tissues, preventing

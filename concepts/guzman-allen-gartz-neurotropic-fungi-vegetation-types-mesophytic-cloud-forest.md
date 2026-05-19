@@ -5,7 +5,7 @@ type: concept
 tags: [mycology, biogeography, psilocybe, neurotropic-fungi, distribution]
 ---
 
-# Neurotropic Fungi Diversity and Vegetation Types: Mesophytic and Cloud Forest Corridors
+## Neurotropic Fungi Diversity and Vegetation Types: Mesophytic and Cloud Forest Corridors
 
 ## Overview
 

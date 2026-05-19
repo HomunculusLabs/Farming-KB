@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Panaeoloid Fungi: Taxonomy and Distribution
+## Panaeoloid Fungi: Taxonomy and Distribution
 
 The Panaeoloideous fungi represent one of the most taxonomically complex
 groups within the [[panaeolus-sphinctrinus]]

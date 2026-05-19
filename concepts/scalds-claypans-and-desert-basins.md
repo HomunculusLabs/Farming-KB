@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Scalds, Claypans, and Desert Basins
+## Scalds, Claypans, and Desert Basins
 
 Flat areas and depressions in desert landscapes — including tectonic basins, deflation hollows, pans, scalds, and claypans — present distinct challenges and opportunities for [[gypsum]]** decreases clay capacity to infiltrate water.
 - **Calcium carbonate or bentonite** seals clays where they need to store water.

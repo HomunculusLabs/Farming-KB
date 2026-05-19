@@ -5,7 +5,7 @@ type: entity
 tags: [person, author, german, literature, lsd, intellectual, philosopher]
 ---
 
-# Ernst Junger
+## Ernst Junger
 
 ## Description
 

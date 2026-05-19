@@ -1,5 +1,5 @@
 ---
-title: oner-cannabis-breeding-fundamentals Fundamentals
+title: "Cannabis Breeding Fundamentals"
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Breeding Fundamentals
+## Cannabis Breeding Fundamentals
 
 Cannabis breeding is the science and practice of developing new cannabis
 varieties through controlled [[vic-high-cannabis-genetics-mendelian-inheritance]]

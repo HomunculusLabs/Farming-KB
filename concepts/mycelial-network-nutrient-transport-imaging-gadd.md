@@ -1,4 +1,8 @@
-# Mycelial Network Nutrient Transport and Imaging
+---
+title: "Mycelial Network Nutrient Transport and Imaging"
+tags:
+  - concept
+---
 
 ## Overview
 Understanding how nutrients move through fungal [[gadd-hyphal-tip-growth-and-branching-mechanisms]], the vacuole appears as a complex reticulum of fine tubes interspersed with

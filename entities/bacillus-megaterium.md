@@ -5,10 +5,10 @@ type: species
 tags: [spore-forming-bacteria, plant-growth-promotion, biofertilizer, soil-microbiology, phosphate-solubilization]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
+sources: ["raw/papers/john-dighton-fungi-in-ecosystem-processes.md"]
 ---
 
-# Bacillus megaterium
+## Bacillus megaterium
 
 *Bacillus megaterium* is a Gram-positive, rod-shaped, endospore-forming bacterium and one of the largest known bacteria, with individual cells measuring 1.5–3 μm in width and 3–7 μm in length. The species name "megaterium" derives from the Greek words *mega* (great) and *terion* (beast), reflecting its unusually large cell size. First isolated in 1884, *B. megaterium* is widely distributed in soil, aquatic environments, and decomposing organic matter, and is valued in agriculture and biotechnology for its plant growth-promoting properties and industrial enzyme production.
 

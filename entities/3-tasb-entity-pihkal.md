@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 3-TASB
+## 3-TASB
 
 [[4-tasb-entity-pihkal]]
 - [[5-tasb-entity-pihkal]]

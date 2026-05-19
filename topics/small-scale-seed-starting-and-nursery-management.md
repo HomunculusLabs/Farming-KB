@@ -5,20 +5,20 @@ tags: [seed-starting, nursery, propagation, greenhouse, transplants, organic-gar
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/concepts/faires-seed-starting-transplanting-guide.md
-  - /Users/t3rpz/wiki/concepts/jadam-seed-treatment-and-nursery-management.md
-  - /Users/t3rpz/wiki/concepts/hamilton-potting-compost-recipes-and-growing-media.md
-  - /Users/t3rpz/wiki/concepts/hamilton-container-greenhouse-growing.md
-  - /Users/t3rpz/wiki/concepts/coleman-unheated-greenhouse-design.md
-  - /Users/t3rpz/wiki/concepts/coleman-cool-greenhouse.md
-  - /Users/t3rpz/wiki/concepts/coleman-greenhouse-soil-management.md
-  - /Users/t3rpz/wiki/concepts/greenhouse-growing-essentials.md
-  - /Users/t3rpz/wiki/concepts/greenhouse-growing-guide.md
-  - /Users/t3rpz/wiki/concepts/greenhouse-design.md
-  - /Users/t3rpz/wiki/concepts/jeavons-shade-netting-mini-greenhouses.md
-  - /Users/t3rpz/wiki/concepts/cannabis-clone-rooting-and-transplanting.md
-  - /Users/t3rpz/wiki/concepts/cannabis-transplanting-guide.md
-  - /Users/t3rpz/wiki/concepts/cervantes-transplanting-potting-up.md
+  - raw/concepts/faires-seed-starting-transplanting-guide.md
+  - raw/concepts/jadam-seed-treatment-and-nursery-management.md
+  - raw/concepts/hamilton-potting-compost-recipes-and-growing-media.md
+  - raw/concepts/hamilton-container-greenhouse-growing.md
+  - raw/concepts/coleman-unheated-greenhouse-design.md
+  - raw/concepts/coleman-cool-greenhouse.md
+  - raw/concepts/coleman-greenhouse-soil-management.md
+  - raw/concepts/greenhouse-growing-essentials.md
+  - raw/concepts/greenhouse-growing-guide.md
+  - raw/concepts/greenhouse-design.md
+  - raw/concepts/jeavons-shade-netting-mini-greenhouses.md
+  - raw/concepts/cannabis-clone-rooting-and-transplanting.md
+  - raw/concepts/cannabis-transplanting-guide.md
+  - raw/concepts/cervantes-transplanting-potting-up.md
 related_concepts:
   - faires-seed-starting-transplanting-guide
   - jadam-seed-treatment-and-nursery-management

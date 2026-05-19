@@ -1,4 +1,8 @@
-# Shipibo Ayahuasca Traditions
+---
+title: "Shipibo Ayahuasca Traditions"
+tags:
+  - concept
+---
 
 The Shipibo-Conibo people of the [[amaringo-ayahuasca-visions-shipibo-iconography]] has become a significant draw for
 [[shipibo-san-francisco-ceremonial-center-ucayali]] near Pucallpa proclaiming

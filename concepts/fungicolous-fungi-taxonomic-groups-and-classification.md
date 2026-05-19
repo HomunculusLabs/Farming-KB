@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungicolous Fungi — Taxonomic Groups and Classification
+## Fungicolous Fungi — Taxonomic Groups and Classification
 
 ## Overview
 

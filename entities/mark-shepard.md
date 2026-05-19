@@ -20,7 +20,7 @@ sources:
   - "Voisin, A. (1959). Grass Productivity (Shepard cites as foundational influence). Philosophical Library."
 ---
 
-# Mark Shepard
+## Mark Shepard
 
 ## Overview
 Mark Shepard is an American farmer, author, and pioneering figure in the restoration agriculture movement. Based in southwestern Wisconsin, he founded New Forest Farm in 1994 on 106 acres of degraded former corn/soybean cropland, which he converted into one of the most documented large-scale perennial polyculture systems in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] with commercial-scale farming, demonstrating that perennial polycultures can be economically viable at scale.

@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Foliar Feeding vs Compost Tea
+## Foliar Feeding vs Compost Tea
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
 ---
 
-# Entheogenic Syncretic Churches of Brazil
+## Entheogenic Syncretic Churches of Brazil
 
 The syncretic religious movements of Brazil represent a unique phenomenon in the
 history of entheogenic practice: the transformation of indigenous Amazonian

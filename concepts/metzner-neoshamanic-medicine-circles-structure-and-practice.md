@@ -5,7 +5,7 @@ type: concept
 tags: [metzner, neoshamanism, medicine-circle, entheogenic-ceremony, hybrid-therapy, circle-ritual]
 ---
 
-# Neoshamanic Medicine Circles — Structure and Practice
+## Neoshamanic Medicine Circles — Structure and Practice
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-# Valerian Growing Guide (Valeriana officinalis)
+## Valerian Growing Guide (Valeriana officinalis)
 
 ## Overview
 

@@ -6,7 +6,7 @@ tags: [plant-biology, gravitropism, proprioception, auxin, statoliths, plant-mov
 aliases: [Plant Gravity Sensing, plant-proprioception-statolith-gravitropism-mechanism
 ---
 
-# Plant Proprioception and Gravitropism
+## Plant Proprioception and Gravitropism
 
 Plants possess a sense of proprioception — awareness of their own body position
 and orientation in space — that is essential for maintaining upright growth and

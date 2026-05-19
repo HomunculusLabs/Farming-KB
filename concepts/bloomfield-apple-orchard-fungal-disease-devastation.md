@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi, plant-pathology, orchard, apple-trees, agricultural-losses, fungal-diseases, rust, mildew, scab, coffee-rust]
 ---
 
-# Apple Orchard Fungal Disease Devastation
+## Apple Orchard Fungal Disease Devastation
 
 ## Summary
 

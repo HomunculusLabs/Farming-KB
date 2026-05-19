@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# Sustaining the Mushroom Crop — Flushing, Watering, Harvesting Chapter X of The Mushroom Cultivator covers the critical environmental factors that determine success once [[stamets-growing-room-air-circulation-co2-management]], fresh air, and
+## Sustaining the Mushroom Crop — Flushing, Watering, Harvesting Chapter X of The Mushroom Cultivator covers the critical environmental factors that determine success once [[stamets-growing-room-air-circulation-co2-management]], fresh air, and
 humidification is "the Art of [[mushroom-cultivator-harvesting-storage]] — detailed harvesting and
     storage guide
 -   [[mushroom-yield-optimization]] — maximizing yield

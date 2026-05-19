@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Edge Geometry and Compatible Borders
+## Edge Geometry and Compatible Borders
 
 ## Overview
 

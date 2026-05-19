@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# LSD Pharmacokinetics, Dosage, and Tolerance
+## LSD Pharmacokinetics, Dosage, and Tolerance
 
 ## Extraordinary Potency
 

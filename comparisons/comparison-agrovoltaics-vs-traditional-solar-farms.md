@@ -13,7 +13,7 @@ sources:
   - https://www.nature.com/ (search: dual-use solar agriculture)
 ---
 
-# Agrovoltaics vs Traditional Solar Farms
+## Agrovoltaics vs Traditional Solar Farms
 
 ## Overview
 

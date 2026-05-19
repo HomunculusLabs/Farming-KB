@@ -5,7 +5,7 @@ type: entity
 tags: [cannabis-product, concentrate, oil, translucent, refined]
 ---
 
-# Honey Oil
+## Honey Oil
 
 ## Description
 

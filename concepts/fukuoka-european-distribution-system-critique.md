@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# European Distribution System Critique
+## European Distribution System Critique
 
 updated: 2026-04-18
 

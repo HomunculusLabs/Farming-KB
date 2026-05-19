@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Philosophy of Eating
+## Philosophy of Eating
 
 For Masanobu Fukuoka, eating was not merely a biological necessity but a sacred act -- a daily communion between the human body and the natural world. His philosophy of eating was deeply connected to his [[fukuoka-japanese-diet-worse]] -- rice, barley, millet, vegetables, pickles, miso, fish -- was not just a collection of foods but a coherent system that had evolved over centuries in harmony with the Japanese climate and landscape.
 

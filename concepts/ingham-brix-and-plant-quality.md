@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Brix and Plant Quality
+## Brix and Plant Quality
 
 Extracted from Elaine Ingham's AACT Field Guide, covering plant quality
 assessment through brix readings and the connection to [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]

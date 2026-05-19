@@ -5,7 +5,7 @@ tags: [mycology, fungi, bloomfield, stinkhorn, phallus-impudicus, spore-dispersa
 created: 2026-05-11
 ---
 
-# Stinkhorn Egg Stage Development and Insect-Mediated Spore Dispersal
+## Stinkhorn Egg Stage Development and Insect-Mediated Spore Dispersal
 
 The [[bloomfield-stramenopila-oomycete-fungal-kingdom-distinction]]. Nicholas P. Money opens *Mr. Bloomfield's
 Orchard* with a vivid account of a field expedition to Dartmoor in Devon,

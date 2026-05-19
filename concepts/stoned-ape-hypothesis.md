@@ -6,7 +6,7 @@ created: 2026-05-10
 source: Terence McKenna - Food of the Gods
 ---
 
-# Stoned Ape Hypothesis
+## Stoned Ape Hypothesis
 
 The "stoned ape" hypothesis, proposed by Terence McKenna in his 1992 book
 "Food of the Gods," suggests that the consumption of psilocybin-containing

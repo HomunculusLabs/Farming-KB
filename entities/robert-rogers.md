@@ -5,7 +5,7 @@ type: entity
 tags: [person, author, herbalism, medicinal-mushrooms, mycology]
 ---
 
-# Robert Rogers
+## Robert Rogers
 
 ## Description
 

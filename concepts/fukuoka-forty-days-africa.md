@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Forty Days in Africa
+## Forty Days in Africa
 
 In *The Road Back to Nature*, [[fukuoka-deficit-farming]] he observed in America are at work
 - International aid often exacerbates rather than solves the problem

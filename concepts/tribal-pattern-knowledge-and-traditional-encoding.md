@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tribal Pattern Knowledge and Traditional Encoding
+## Tribal Pattern Knowledge and Traditional Encoding
 
 ## Overview
 

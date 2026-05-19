@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Plant Species Catalog: T through Z
+## Permaculture Plant Species Catalog: T through Z
 
 This catalog represents the final section of [[bill-mollison]]'s comprehensive plant index from *Permaculture: A Designers' Manual*, covering useful species from the letters T through Z. These species span food crops, nitrogen fixers, fiber plants, medicinal herbs, and ecological support species essential to [[permaculture-design]] systems.
 

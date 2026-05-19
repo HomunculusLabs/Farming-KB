@@ -7,7 +7,7 @@ tags: [reference]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Heirloom Vegetable Varieties
+## Heirloom Vegetable Varieties
 
 Heirloom (or heritage) vegetables are open-pollinated varieties that have been grown for generations, often passed down through families or preserved by seed-saving organizations. They are valued for their flavor, diversity, and genetic heritage, and they play an important role in maintaining the genetic diversity of our food supply.
 

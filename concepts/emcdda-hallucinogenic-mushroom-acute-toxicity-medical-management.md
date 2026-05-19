@@ -1,4 +1,8 @@
-# Acute Toxicity and Medical Management of Hallucinogenic Mushroom Intoxication
+---
+title: "Acute Toxicity and Medical Management of Hallucinogenic Mushroom Intoxication"
+tags:
+  - concept
+---
 
 ## Overview
 

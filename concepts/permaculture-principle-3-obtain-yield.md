@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Principle 3: Obtain a Yield
+## Permaculture Principle 3: Obtain a Yield
 
 *"You can't work on an empty stomach"*
 

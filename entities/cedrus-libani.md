@@ -16,7 +16,7 @@ sources:
   - IUCN Red List. "Cedrus libani." https://www.iucnredlist.org/
   - Barbero, M. et al. (1981). "Sur la taxinomie des cèdres." Annales des Sciences Forestières 38(4).---
 
-# Cedrus libani
+## Cedrus libani
 
 ## Overview
 

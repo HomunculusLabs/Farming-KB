@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Set Up an Indoor Cannabis Grow Room
+## How to Set Up an Indoor Cannabis Grow Room
 
 ## Short Answer
 

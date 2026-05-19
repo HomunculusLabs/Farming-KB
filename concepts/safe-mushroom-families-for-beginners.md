@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Safe Mushroom Families for Beginners
+## Safe Mushroom Families for Beginners
 
 Julius A. Palmer identified several families of fungi that he considered
 particularly safe for amateur experimentation, providing detailed descriptions

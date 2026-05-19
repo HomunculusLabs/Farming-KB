@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Identify and Control Thrips on Cannabis?
+## How Do I Identify and Control Thrips on Cannabis?
 
 ## Short Answer
 Thrips are tiny, slender insects that feed on [[cannabis-terpene-and-aroma-chemistry-clarke]]

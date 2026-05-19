@@ -4,7 +4,7 @@ source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 type: concept
 ---
 
-# Mushroom Tropisms
+## Mushroom Tropisms
 
 > Based on Badham, E.R. (1982). "Tropisms in the Mushroom *[[psilocybe-cubensis]]*."
 > *Mycologia* 74(2): 275–279.

@@ -5,7 +5,7 @@ type: entity
 tags: [alkaloid, toxin, amanita, chemistry, historical]
 ---
 
-# Bulbosine
+## Bulbosine
 
 ## Description
 

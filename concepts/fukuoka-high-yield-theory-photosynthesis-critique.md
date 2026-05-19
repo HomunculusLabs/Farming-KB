@@ -1,4 +1,8 @@
-# High-Yield Theory Critique: Fukuoka's Deconstruction of Photosynthesis-Based Yield Models
+---
+title: "High-Yield Theory Critique: Fukuoka's Deconstruction of Photosynthesis-Based Yield Models"
+tags:
+  - concept
+---
 
 ## Overview
 

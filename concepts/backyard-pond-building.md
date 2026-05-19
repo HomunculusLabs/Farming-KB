@@ -7,7 +7,7 @@ tags: [water, construction, wildlife, permaculture, homesteading, plant-systems,
 sources: []
 ---
 
-# Backyard Pond Building
+## Backyard Pond Building
 
 A backyard pond serves multiple functions on a homestead: wildlife habitat, irrigation water storage, aesthetic enjoyment, aquaculture, and fire suppression. Building a successful pond requires careful planning around site selection, design, liner installation, and ongoing maintenance.
 

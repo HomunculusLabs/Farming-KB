@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# Fukuoka: Food and Farming as One Body
+## Fukuoka: Food and Farming as One Body
 
 ## The Unity of Food and Farming
 

@@ -1,4 +1,8 @@
-# Desertification and Vegetation Loss
+---
+title: "Desertification and Vegetation Loss"
+tags:
+  - concept
+---
 
 ## Overview
 

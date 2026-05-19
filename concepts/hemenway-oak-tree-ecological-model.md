@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# The Oak Tree as Ecological Model
+## The Oak Tree as Ecological Model
 
 Toby Hemenway uses a detailed portrait of a mature oak tree to
 illustrate the vast web of ecological functions that a single

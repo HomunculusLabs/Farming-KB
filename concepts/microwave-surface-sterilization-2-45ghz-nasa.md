@@ -1,5 +1,10 @@
+---
+title: "Microwave Surface Sterilization 2 45ghz Nasa"
+tags:
+  - concept
+---
 
-# Microwave Surface Sterilization Using 2.45 GHz Irradiation
+## Microwave Surface Sterilization Using 2.45 GHz Irradiation
 
 ## Summary
 
@@ -19,7 +24,7 @@ NASA's Lyndon B. Johnson Space Center developed a novel microwave-based surface 
 - The method has not been validated against all possible microbial contaminants, particularly extremophiles or unusually resistant spore-forming species.
 ## Merged: Microwave Sterilization Spore Resistance Mechanisms and Trace Water Enhancement
 
-# Microwave Sterilization: Spore Resistance Mechanisms and Trace Water Enhancement
+## Microwave Sterilization: Spore Resistance Mechanisms and Trace Water Enhancement
 
 ## Summary
 

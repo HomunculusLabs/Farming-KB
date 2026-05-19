@@ -7,7 +7,7 @@ tags: [cultivation, mycology]
 sources:
   - "raw/papers/unknown-mushrooms-fungi-from-around-the-world.md"
 ---
-# Lactarius Cultivation Attempts
+## Lactarius Cultivation Attempts
 
 Cultivation of Lactarius species, the milk caps, has been pursued for several edible members of this large genus, most notably Lactarius deliciosus (the saffron milk cap). While mycorrhizal formation on [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] that require living host trees to complete their [[accessible-mushroom-cultivation-for-disabilities]]. See [[lactarius-camphoratus]]
 - [[lactarius-torminosus]]

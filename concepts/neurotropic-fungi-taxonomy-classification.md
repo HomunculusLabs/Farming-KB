@@ -1,4 +1,8 @@
-# ibotenic-acid-entity and its decarboxylation product muscimol, which act on GABA receptors rather
+---
+title: "ibotenic-acid-entity and its decarboxylation product muscimol, which act on GABA receptors rather"
+tags:
+  - concept
+---
 than serotonin receptors, producing sedative, dissociative, and ataxic effects distinct
 from the psilocybin-containing species. *[[psilocybe-mexicana]]* misidentified as *P.
 coprophila*.
@@ -144,7 +148,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]

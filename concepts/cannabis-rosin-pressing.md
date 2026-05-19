@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Rosin Pressing
+## Cannabis Rosin Pressing
 
 ## Overview
 

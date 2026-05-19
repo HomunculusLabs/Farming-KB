@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cycles and Time Niches
+## Cycles and Time Niches
 
 Cycles are any recurring events or phenomena. In [[decomposition]], and regeneration differ each time it happens. Thus it is the number of such cycles, great and small, that decide the potential for diversity. We should feel ourselves privileged to be part of such eternal renewal. Just by living we have achieved immortality — as grass, grasshoppers, gulls, geese, and other people. We are of the diversity we experience in every real sense.
 

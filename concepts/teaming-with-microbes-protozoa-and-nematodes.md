@@ -7,7 +7,7 @@ tags: [soil-biology, protozoa, nematodes, mineralization]
 sources: ["raw/papers/lowenfels-teaming-with-microbes.md"]
 ---
 
-# Protozoa and Nematodes — Nutrient Mineralizers
+## Protozoa and Nematodes — Nutrient Mineralizers
 
 Protozoa and nematodes occupy the critical middle tier of the [[teaming-with-microbes-protozoa-types-amoeba-flagellate-ciliate]]:
 

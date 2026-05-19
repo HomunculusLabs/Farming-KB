@@ -6,7 +6,7 @@ tags: [fruit, berries, ribes, permaculture, temperate-fruit, culinary, medicinal
 summary: Comprehensive guide to growing currants and gooseberries (Ribes genus) — species profiles, planting, pruning, pest management, harvest, culinary uses, and permaculture integration.
 ---
 
-# Currant and Gooseberry Cultivation (Ribes spp.)
+## Currant and Gooseberry Cultivation (Ribes spp.)
 
 Currants and gooseberries belong to the genus *Ribes*, a group of 150+ species of deciduous shrubs native to temperate regions of the Northern Hemisphere and the Andes.
 

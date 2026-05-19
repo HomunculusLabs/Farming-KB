@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# ETHYL-K (2-ETHYLAMINO-1-(3,4-METHYLENEDIOXYPHENYL)PENTANE)
+## ETHYL-K (2-ETHYLAMINO-1-(3,4-METHYLENEDIOXYPHENYL)PENTANE)
 
 PIHKAL entry #78. .
 Also known as: 2-ETHYLAMINO-1-(3,4-METHYLENEDIOXYPHENYL)PENTANE.

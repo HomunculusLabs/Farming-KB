@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, soil-ecology, microbial-ecology, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
-# Soil Mycobiome Structure
+## Soil Mycobiome Structure
  The soil mycobiome encompasses the total fungal community inhabiting soil environments, representing the most diverse fungal habitat on Earth. Soil
 fungi drive critical [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], plant symbiosis, and soil aggregation.
 Understanding the structure of soil fungal communities is essential for predicting ecosystem responses to environmental change.

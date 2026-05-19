@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# MBT (N-Butyl-N-Methyltryptamine)
+## MBT (N-Butyl-N-Methyltryptamine)
 
 TIHKAL entry #27. N-butyl-N-methyltryptamine is a synthetic tryptamine featuring an asymmetric mixed alkyl substitution on the terminal nitrogen: one butyl and one methyl group. It was explored by Shulgin as part of a systematic investigation into how [[phenethylamine-chain-length-effects]] on the tryptamine nitrogen affects pharmacological activity.
 

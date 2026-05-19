@@ -13,7 +13,7 @@ sources:
   - ~/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# Mushroom Cultivation Cost and Profit Analysis
+## Mushroom Cultivation Cost and Profit Analysis
 
 The FAO [[oyster-mushroom-bag-preparation-and-pasteurization]] production,
 startup investment estimates, and profitability projections at various scales. These figures,

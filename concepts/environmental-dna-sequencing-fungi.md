@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, metagenomics, sequencing, methodology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
 
-# Environmental DNA Sequencing for Fungi
+## Environmental DNA Sequencing for Fungi
 
 Environmental DNA (eDNA) sequencing refers to the extraction and high-throughput
 sequencing of fungal DNA directly from environmental samples — soil, water,

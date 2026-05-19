@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Laminar Flow Hood Construction and Advanced Agar Techniques
+## Laminar Flow Hood Construction and Advanced Agar Techniques
 
 The [[laminar-flow-hood]] is the centerpiece of any mycology laboratory. It provides a sterile work environment by filtering ambient air through a [[hepa-filter]] and blowing a constant wall of clean air across the work surface, preventing contamination from airborne microorganisms. Beyond building the hood itself, advanced agar techniques -- including enrichment media, split gallery plates, and antibiotic supplementation -- allow cultivators to fine-tune their culture media for specific mushroom species and experimental purposes.
 

@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Amanita Muscaria and the Grail Legends
+## Amanita Muscaria and the Grail Legends
 
 The legends of the Holy Grail — a miraculous vessel that heals wounds, cures illness, and grants extraordinary long life — are among the most enduring stories in European mythology. When examined through the lens of Amanita muscaria pharmacology and ancient Eurasian mushroom practice, these legends reveal themselves as encoded descriptions of a very real and very powerful medicinal technology. The Grail is not merely symbolic; it is a memory of the terra cotta vessel used to prepare and serve Amanita muscaria — the Herb of Immortality.
 

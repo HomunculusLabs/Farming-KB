@@ -6,7 +6,7 @@ updated: 2026-05-18
 sources: []
 ---
 
-# How Do I Grow Maitake Mushrooms at Home?
+## How Do I Grow Maitake Mushrooms at Home?
 
 ## Short Answer
 

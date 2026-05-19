@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Infiltration, Slope Stabilisation, and Floodwater Harvesting
+## Infiltration, Slope Stabilisation, and Floodwater Harvesting
 
 Effective [[permaculture-design]] in dryland regions.
 

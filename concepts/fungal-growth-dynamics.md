@@ -8,7 +8,7 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-# Fungal Growth Dynamics and Resource Foraging
+## Fungal Growth Dynamics and Resource Foraging
 
 How fungi grow, explore their environment, acquire resources, and respond to spatial and temporal heterogeneity. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-ecology]], [[fungal-nutrient-cycling-mineral-transformations]], and [[fungi-soil-food-webs]].
 

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [jadam, herbal-pesticide, plant-extract, pest-control, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+sources: ["raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"]
 type: concept
 ---
 
-# JADAM Herb Solution (JHS)
+## JADAM Herb Solution (JHS)
 
 JADAM Herb Solution (JHS) is a [[ultra-low-jadam-sulfur-js]]. JHS provides insecticidal power derived
 from plants, enabling farmers to create effective pest control without any

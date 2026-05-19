@@ -5,7 +5,7 @@ type: entity
 tags: [species, genus, proteaceae, salt-sensitive, wetland, australia, permaculture]
 ---
 
-# Banksia
+## Banksia
 
 ## Description
 

@@ -5,7 +5,7 @@ type: entity
 tags: [fish, aquaculture, freshwater, mosquito-control, permaculture]
 ---
 
-# Gambusia (Mosquitofish)
+## Gambusia (Mosquitofish)
 
 ## Description
 *Gambusia* is a genus of small freshwater fish in the family Poeciliidae, best known for *Gambusia affinis*, the western mosquitofish. These livebearing fish are celebrated for their voracious consumption of mosquito larvae and are widely introduced worldwide for biological mosquito control. In [[permaculture]], they serve as a [[diatomaceous-earth-and-natural-pest-management]] tool in pond and water garden systems.

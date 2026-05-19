@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Microfungal Inventory Methods
+## Microfungal Inventory Methods
 
 Microfungi are defined as fungi with microscopic spore-producing
 structures. They comprise an unnatural group of organisms that cuts

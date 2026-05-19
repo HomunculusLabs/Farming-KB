@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Biodynamic Preparations vs Biofertilizers
+## Biodynamic Preparations vs Biofertilizers
 
 ## Overview
 Biodynamic preparations and biofertilizers both aim to enhance soil biology

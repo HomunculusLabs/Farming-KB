@@ -7,7 +7,7 @@ tags: [permaculture, urban, community, gardening, activism, plants]
 sources: [raw/papers/urban-permaculture-guerilla-gardening.md]
 ---
 
-# Guerilla Gardening Guide
+## Guerilla Gardening Guide
 
 Guerilla gardening is the practice of cultivating food and useful plants on abandoned, neglected, or unauthorised urban land. Drawn from "Urban Permaculture: Guerilla Gardening" -- a DIY Skillshare Conference reader.
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Saccharomyces cerevisiae
+## Saccharomyces cerevisiae
 
 **Saccharomyces cerevisiae** is a species of budding yeast that is arguably the most extensively studied and commercially important single-celled eukaryote. Commonly known as **baker's yeast** or **brewer's yeast**, it has been used by humans for thousands of years in the production of bread, beer, wine, and other [[fermented-foods-and-beverages]]. Beyond its traditional roles, *S. cerevisiae* serves as a premier model organism in molecular and cell biology, and its genome was the first eukaryotic genome to be completely sequenced.
 

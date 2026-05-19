@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [biosorption, chitosan, fungal-biomass, heavy-metals, immobilization]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+sources: ["raw/papers/staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Chitosan and Fungal Biomass Derivatives in Biosorption
+## Chitosan and Fungal Biomass Derivatives in Biosorption
 
 Chitosan and chitin, the structural polysaccharides found in [[penicillium-chrysogenum]]
 cell walls indicated that phosphoryl groups accounted for up to 95% of

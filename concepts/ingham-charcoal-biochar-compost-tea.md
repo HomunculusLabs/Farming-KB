@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [biochar, charcoal, compost-tea, soil-amendment, carbon]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+sources: ["raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"]
 type: concept
 ---
 
-# Charcoal and circadian rhythm in plants
+## Charcoal and circadian rhythm in plants
 - [[ingham-seaweed-sea-minerals-compost-tea]]
 ## Background and Context
 

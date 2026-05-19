@@ -17,7 +17,7 @@ sources:
   - IRNGD (2024). "International Register of Names and Cultivars of Palms."
 ---
 
-# Archontophoenix alexandrae
+## Archontophoenix alexandrae
 
 ## Overview
 

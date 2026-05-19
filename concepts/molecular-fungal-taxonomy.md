@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Molecular Fungal Taxonomy
+## Molecular Fungal Taxonomy
 
 ## Overview
 

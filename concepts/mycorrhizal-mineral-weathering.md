@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Mycorrhizal Fungi in Mineral Weathering and Biogeochemical Cycling
+## Mycorrhizal Fungi in Mineral Weathering and Biogeochemical Cycling
 
 ## Overview
 

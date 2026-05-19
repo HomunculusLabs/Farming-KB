@@ -8,7 +8,7 @@ sources:
   - raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
-# Therapist Experiential Prerequisite in Psychedelic-Assisted Psychotherapy
+## Therapist Experiential Prerequisite in Psychedelic-Assisted Psychotherapy
 
 ## Overview
 

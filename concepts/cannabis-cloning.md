@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Cloning
+## Cannabis Cloning
 
 Cloning is the asexual propagation of cannabis by taking cuttings from a [[cannabis-vegetative-growth-stage]]
 

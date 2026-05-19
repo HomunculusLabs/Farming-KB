@@ -2,7 +2,7 @@
 title: Water Management and Irrigation
 created: 2026-04-26
 sources:
-  - path: /Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md
+  - path: raw/raw/papers/jeavons-john-how-to-grow-more-vegetables.md
     title: How to Grow More Vegetables - John Jeavons
     author: John Jeavons
 updated: 2026-04-24
@@ -10,7 +10,7 @@ type: concept
 tags: [water]
 ---
 
-# Water Management and Irrigation
+## Water Management and Irrigation
 
 Water management is a critical skill in the [[comparison-living-mulch-vs-cover-crops]] mini-climate that is central to the method's success.
 

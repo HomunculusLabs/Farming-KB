@@ -10,7 +10,7 @@ sources: ['raw/papers/uwe-blesching-the-cannabis-health-index.md']
 type: concept
 ---
 
-# Epigenetics, Emotional Trauma, and the [[blesching-cannabis-neurogenesis-and-neuroplasticity]]
+## Epigenetics, Emotional Trauma, and the [[blesching-cannabis-neurogenesis-and-neuroplasticity]]
 - Changing thought patterns and beliefs can alter gene expression
   through epigenetic mechanisms
 

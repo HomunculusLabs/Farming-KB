@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Vermiculite for Cannabis
+## Vermiculite for Cannabis
 
 Vermiculite is a mica-based mineral that has been processed and expanded by heat to create a lightweight, absorbent [[query-how-does-no-till-cannabis-cultivation-work]] for its exceptional water-holding capacity and its ability to buffer nutrients, making it a useful complement to faster-draining amendments like [[ph-and-nutrient-availability-garden-soils]] in soil and soilless mixes:
 - **Moisture retention**: Gives body to fast-draining soils and helps them retain water longer.

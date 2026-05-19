@@ -8,7 +8,7 @@ sources: ["papers/mckenna_t-food_of_the_gods.md"]
 type: concept
 ---
 
-# McKenna Inquisition Suppression of Plant Knowledge
+## McKenna Inquisition Suppression of Plant Knowledge
 
 In Food of the Gods, [[witches-fungi-and-flying-ointments]] and magical salves were
 compounded from Datura roots and seeds, parts of the plant rich in the

@@ -4,7 +4,7 @@ tags: [mycology, conidia, asexual-reproduction, fungal-genetics, conidiogenesis,
 created: 2026-05-11
 ---
 
-# Conidia and Asexual Reproduction in Filamentous Fungi
+## Conidia and Asexual Reproduction in Filamentous Fungi
 
 Conidia (singular: conidium) are asexual, non-motile spores produced by filamentous fungi
 (molds) through mitotic cell division rather than meiosis. They represent the most common

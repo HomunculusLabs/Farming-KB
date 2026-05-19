@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Canker Fungi and Gall-Associated Fungi
+## Canker Fungi and Gall-Associated Fungi
 
 Fungi associated with cankers and galls represent important groups of plant pathogens that cause structural damage to stems, branches, and various host organs. Cankers are localized necrotic lesions that can kill trees through girdling, while galls represent abnormal growths induced by fungal infection.
 

@@ -19,7 +19,7 @@ sources:
   - Crawford, M. (2010). Creating a Forest Garden. Green Books.
 ---
 
-# Guild Planting
+## Guild Planting
 
 **Guild planting** is a permaculture design methodology in which multiple plant species are intentionally grouped together to form mutually beneficial relationships, mimicking the structure and function of natural plant communities. Derived from ecological observation of forest edge and understory ecosystems, guilds assemble plants that fulfill complementary ecological roles — nitrogen fixation, nutrient accumulation, pest deterrence, pollinator attraction, ground cover, and canopy support — into integrated, self-maintaining polycultures. The concept was formalized by Robert Hart and further developed by Dave Jacke, Eric Toensmeier, and Toby Hemenway.
 

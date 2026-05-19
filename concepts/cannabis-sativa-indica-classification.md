@@ -7,7 +7,7 @@ tags: [cannabis, taxonomy, sativa, indica, strains, cannabis-classification]
 wikilinks: [endocannabinoid-system-overview, thc-cbd-therapeutic-profiles, cannabinoid-receptor-pharmacology]
 ---
 
-# Cannabis Sativa vs Indica Classification
+## Cannabis Sativa vs Indica Classification
 
 The classification of cannabis into "sativa" and "indica" categories is one of the most widely used but scientifically contentious aspects of cannabis taxonomy and commerce. While patients, cultivators, and dispensaries routinely use these labels to predict effects, the underlying science reveals a more complex picture involving chemical profiles, genetic lineage, and consumer expectations.
 

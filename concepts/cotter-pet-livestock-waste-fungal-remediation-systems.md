@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Remediation Systems for Pet and Livestock Waste
+## Fungal Remediation Systems for Pet and Livestock Waste
 
 Fungi offer effective biological solutions for managing pet and livestock waste
 through mycoremediation. Mycelium acts as a self-healing filter targeting

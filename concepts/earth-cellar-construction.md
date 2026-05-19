@@ -7,7 +7,7 @@ tags: [permaculture, construction, storage, humidity, temperature, preservation,
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-# Earth Cellar Construction
+## Earth Cellar Construction
 
 Earth cellars use the natural temperature-balancing properties of soil to create ideal storage conditions for fruit and vegetables without any additional energy input.
 

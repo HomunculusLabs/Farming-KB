@@ -5,7 +5,7 @@ tags: [mycology, mushroom-cultivation, substrate, sawdust, sterilization, inocul
 created: 2026-05-09
 ---
 
-# Supplemented Sawdust Fruiting Block Production
+## Supplemented Sawdust Fruiting Block Production
 
 ## Overview
 

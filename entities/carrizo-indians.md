@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: entity
 ---
 
-# Carrizo Indians
+## Carrizo Indians
 
 ## Description
 

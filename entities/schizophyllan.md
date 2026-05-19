@@ -8,7 +8,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 type: entity
 ---
 
-# Schizophyllan
+## Schizophyllan
 
 **Type:** Biochemical Compound (Fungal Polysaccharide)
 **Category:** Mushroom-Derived Beta-Glucan Immunomodulator

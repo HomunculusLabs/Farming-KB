@@ -24,7 +24,7 @@ sources:
   - GrowDiaries. "Georgia Pie Grow Reports." growdiaries.com.
 ---
 
-# Georgia Pie
+## Georgia Pie
 
 ## Overview
 

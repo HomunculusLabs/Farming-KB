@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# How Do I Grow and Use Ginger and Turmeric?
+## How Do I Grow and Use Ginger and Turmeric?
 
 ## Short Answer
 

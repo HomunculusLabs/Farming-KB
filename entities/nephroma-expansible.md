@@ -17,7 +17,7 @@ sources:
   - Jørgensen PM, Ryvarden L. (1985). "Nordic Lichen Flora." Scandinavian Lichen Society.
 ---
 
-# Nephroma expansum
+## Nephroma expansum
 
 ## Overview
 

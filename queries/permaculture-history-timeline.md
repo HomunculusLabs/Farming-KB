@@ -16,7 +16,7 @@ sources:
 - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# Permaculture History Timeline
+## Permaculture History Timeline
 
 From the coining of "permanent agriculture" in 1978
 to a global design movement spanning every continent.

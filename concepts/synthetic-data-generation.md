@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [synthetic-data, llm-training, data-augmentation, training-techniques]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
+sources: ["raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md"]
 type: concept
 ---
 
-# Synthetic Data Generation
+## Synthetic Data Generation
 
 Synthetic data generation is the process of creating artificial training examples
 using models rather than collecting them from human annotation or natural

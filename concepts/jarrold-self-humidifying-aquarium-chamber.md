@@ -6,7 +6,7 @@ source: jarrold indoor mushroom growing technique boil a bag
 created: 2026-05-10
 ---
 
-# Jarrold Self-Humidifying Aquarium Chamber for Mushroom Fruiting
+## Jarrold Self-Humidifying Aquarium Chamber for Mushroom Fruiting
 
 ## Overview
 

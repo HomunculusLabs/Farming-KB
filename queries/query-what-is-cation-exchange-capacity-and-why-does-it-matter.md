@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Cation Exchange Capacity and Why Does It Matter?
+## What Is Cation Exchange Capacity and Why Does It Matter?
 
 ## Short Answer
 Cation Exchange Capacity (CEC) is a measure of a soil's ability to hold and

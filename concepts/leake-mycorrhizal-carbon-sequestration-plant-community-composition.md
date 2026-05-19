@@ -5,7 +5,7 @@ tags: [mycorrhiza, carbon-cycle, sequestration, plant-community, ecology, symbio
 related: [leake-mycorrhiza-carbon, gadd-mineral-transformations-biogeochemical-cycles-fungi, aact-forest-litter-fungi-mycorrhizal-ingham]
 ---
 
-# Mycorrhizal Carbon Sequestration
+## Mycorrhizal Carbon Sequestration
 
 Mycorrhizal fungi form symbiotic associations with the vast majority of
 terrestrial plant species, fundamentally shaping both the terrestrial carbon

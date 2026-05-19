@@ -9,7 +9,7 @@ type: concept
 tags: [fukuoka, natural-farming]
 ---
 
-# Fukuoka Natural Way of Farming - Theory of Natural Farming
+## Fukuoka Natural Way of Farming - Theory of Natural Farming
 
 Masanobu Fukuoka's "The Natural Way of Farming" presents a comprehensive philosophical and practical [[fukuoka-critique-scientific-agriculture-civilization]], proposing instead a method of farming based on non-intervention and harmony with nature. The book extends far beyond agriculture into a fundamental critique of Western epistemology, industrial civilization, and humanity's relationship with the natural world.
 

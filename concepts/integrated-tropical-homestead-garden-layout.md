@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Integrated Tropical Homestead [[holzer-kitchen-garden-layout-and-traditional-gardening]]
+## Integrated Tropical Homestead [[holzer-kitchen-garden-layout-and-traditional-gardening]]
 - [[raised-beds-wide-rows-hills-garden-layout-solomon]]
 
 ## Overview

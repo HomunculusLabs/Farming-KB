@@ -8,7 +8,7 @@ type: concept
 tags: [geotropism, mushroom-development, spore-production, tropism, psilocybe-cubensis]
 ---
 
-# Geotropism and Spore Production in Mushrooms
+## Geotropism and Spore Production in Mushrooms
 
 [[mushroom-hormones-gill-directed-tropism]].
 Gruen (1963) and Hagimoto (1963) postulated the existence of mushroom

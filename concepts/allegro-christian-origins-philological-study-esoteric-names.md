@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Allegro Christian Origins as Philological Study and Esoteric Names
+## Allegro Christian Origins as Philological Study and Esoteric Names
 
 ## The New Testament as a Philological Problem
 

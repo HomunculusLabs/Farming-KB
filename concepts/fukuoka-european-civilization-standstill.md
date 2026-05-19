@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# European Civilization at a Standstill
+## European Civilization at a Standstill
 
 In *The Road Back to Nature*, [[weil-cultural-attitudes-toward-altered-states]] beauty:
 

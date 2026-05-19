@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Equatorial [[bill-mollison]]'s *Permaculture: A Designers'
+## Equatorial [[bill-mollison]]'s *Permaculture: A Designers'
 Manual* establishes a coherent design logic: orient to wind, shade everything, detach
 heat sources, and integrate the house within a productive tropical garden system.
 

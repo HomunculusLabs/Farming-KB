@@ -12,7 +12,7 @@ sources:
   - https://link.springer.com/article/10.1007/s10526-019-09922-5
 ---
 
-# Ground Beetles (Carabidae) and Biological Pest Control
+## Ground Beetles (Carabidae) and Biological Pest Control
 
 Ground beetles (family Carabidae) are among the most important and abundant predatory insects in agricultural and natural ecosystems worldwide. With over 40,000 described species, they represent one of the largest families of beetles (order Coleoptera) and serve as cornerstone generalist predators in [[hydrogen-peroxide-tissue-culture-wild-polypores]] with catalase enzymes to produce a boiling, explosive chemical spray directed at predators.
 - **Camouflage**: Many ground beetles are matte black, dark brown, or metallic green/blue, blending with soil and [[dighton-fungal-decomposition-leaf-litter-dynamics]], or under stones. Oviposition sites are chosen based on moisture, temperature, and prey availability. Egg development time ranges from 5 to 30 days depending on species and temperature. Some species in temperate climates overwinter as eggs.

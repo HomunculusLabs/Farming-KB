@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Interceptor Drains and Desertification Control
+## Interceptor Drains and Desertification Control
 
 Interceptor drains are specialized earthworks designed to prevent overland waterflow and waterlogging, which collapse dryland valley and downslope soils in desert soil catenas. Developed by Harry Whittington of West Australia, these structures differ fundamentally from swales and diversion drains in both purpose and construction method.
 

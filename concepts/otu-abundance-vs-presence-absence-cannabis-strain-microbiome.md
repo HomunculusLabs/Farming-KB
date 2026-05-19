@@ -6,7 +6,7 @@ source: [understanding-cultivar-specificity-cannabis-microbiome]
 created: 2026-05-10
 ---
 
-# OTU Abundance vs Presence-Absence Analysis: What Drives Cannabis Strain Microbiome Differences
+## OTU Abundance vs Presence-Absence Analysis: What Drives Cannabis Strain Microbiome Differences
 
 ## Overview
 

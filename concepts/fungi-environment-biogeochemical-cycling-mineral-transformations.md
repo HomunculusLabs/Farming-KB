@@ -1,4 +1,8 @@
-# Fungal Biogeochemical Cycling and Mineral Transformations
+---
+title: "Fungal Biogeochemical Cycling and Mineral Transformations"
+tags:
+  - concept
+---
 
 **Source:** Fungi in the Environment — Gadd, Watkinson & Dyer (2007), Ch. 5-7
 
@@ -144,7 +148,3 @@ Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.

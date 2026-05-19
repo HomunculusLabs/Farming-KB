@@ -1,4 +1,8 @@
-# Mushroom Inoculation Techniques
+---
+title: "Mushroom Inoculation Techniques"
+tags:
+  - concept
+---
 
 Inoculation is the process of introducing fungal spores or mycelium
 into a prepared substrate. It is one of the most critical steps in
@@ -144,7 +148,3 @@ Successful integration of mushroom inoculation techniques into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource

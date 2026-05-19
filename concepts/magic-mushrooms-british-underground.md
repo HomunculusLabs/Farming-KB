@@ -7,7 +7,7 @@ type: concept
 tags: [mycology, mushrooms]
 sources: ["papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"]
 ---
-# Magic Mushrooms in the British Underground 1965-1972 The discovery that native
+## Magic Mushrooms in the British Underground 1965-1972 The discovery that native
 British mushrooms were psychoactive emerged from London's countercultural
 underground of the late 1960s and early 1970s — a period when a vibrant
 alternative society briefly flourished beneath the surface of conventional life.

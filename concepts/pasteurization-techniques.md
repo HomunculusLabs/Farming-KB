@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, mushroom-cultivation, pasteurization, substrate]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/psterilization-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/psterilization-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Pasteurization Techniques Pasteurization is a heat treatment process that reduces microbial contaminants in bulk substrates without sterilizing them completely. Unlike sterilization, which kills all micromushroom-cultivationation selectively eliminates competitors while preserving beneficial thermophilic organisms that help protect the substrate from subsequent contamination. This makes it the preferred treatment for bulk substrates [[spawn-preparation]]
+## Pasteurization Techniques Pasteurization is a heat treatment process that reduces microbial contaminants in bulk substrates without sterilizing them completely. Unlike sterilization, which kills all micromushroom-cultivationation selectively eliminates competitors while preserving beneficial thermophilic organisms that help protect the substrate from subsequent contamination. This makes it the preferred treatment for bulk substrates [[spawn-preparation]]
 
 See also: [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.

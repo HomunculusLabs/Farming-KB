@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Alley Cropping vs Food Forest
+## Alley Cropping vs Food Forest
 
 ## Overview
 

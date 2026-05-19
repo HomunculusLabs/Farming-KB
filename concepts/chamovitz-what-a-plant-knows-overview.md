@@ -6,7 +6,7 @@ source: grahamholmes what a plant knowsindd
 created: 2026-05-10
 ---
 
-# What a Plant Knows — Chamovitz Book Overview
+## What a Plant Knows — Chamovitz Book Overview
 
 ## Overview
 

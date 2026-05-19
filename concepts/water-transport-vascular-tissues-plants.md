@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Water Transport and Vascular Tissues in Plants
+## Water Transport and Vascular Tissues in Plants
 
 Water is the most critical substance for plant survival, and plants have evolved remarkably elegant systems to capture, move, and utilize it. Understanding how water travels through a plant—from soil to leaf and back—requires familiarity with the two major vascular tissue systems: the **[[xylem]]** and the **[[phloem]]**. These tissues, along with specialized cellular pathways, form the plant's internal plumbing [[savory-dung-behavior-and-nutrient-distribution]] network. The properties of water itself—its polarity, hydrogen bonding capacity, cohesion, and adhesion—make all of this transport possible.
 

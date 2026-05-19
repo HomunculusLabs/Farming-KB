@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Earthworms in Soil Health
+## Earthworms in Soil Health
 
 ## Overview
 

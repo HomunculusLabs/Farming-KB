@@ -8,7 +8,7 @@ sources:
   - "raw/papers/amaringo-p-ayahuasca-visions.md"
 ---
 
-# Amazonian Ship Aceropunta and Visionary Cosmology
+## Amazonian Ship Aceropunta and Visionary Cosmology
 
 [[amaringo-ayahuasca-visions-shipibo-iconography]] reveal an elaborate cosmology that integrates Amazonian spiritual beings, extraterrestrial entities, and multidimensional travel. Central to this cosmology is the Aceropunta, a great esoteric ship that travels the world visiting those who call it through properly sung [[ayahuasca-visions]] frequently include extraterrestrial beings and spacecraft:
 

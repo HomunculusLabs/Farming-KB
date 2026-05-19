@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Key References
+## Permaculture Key References
 
 The foundational texts and key references of permaculture span ecology, design, economics, agriculture, and systems theory. These works form the intellectual backbone of the permaculture movement and provide essential reading for understanding its principles and applications.
 

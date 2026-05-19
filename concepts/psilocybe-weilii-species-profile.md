@@ -8,7 +8,7 @@ sources: []
 type: concept
 ---
 
-# Psilocybe weilii Species Profile
+## Psilocybe weilii Species Profile
 
 ## Overview
 

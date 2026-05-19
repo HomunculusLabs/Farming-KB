@@ -5,7 +5,7 @@ tags: [psychedelics, dmt, entities, consciousness, tryptamines, McKenna]
 created: 2026-05-08
 ---
 
-# Tryptamine Hyperdimensional Entities
+## Tryptamine Hyperdimensional Entities
 
 ## Overview
 

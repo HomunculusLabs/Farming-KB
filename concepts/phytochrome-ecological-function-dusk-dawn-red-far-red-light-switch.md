@@ -9,7 +9,7 @@ related_topics:
 tags: [phytochrome, photoreceptor, red-light, far-red-light, photoperiodism, flowering, shade-detection]
 ---
 
-# Phytochrome Ecological Function — The Dusk/Dawn Red/Far-Red Light Switch
+## Phytochrome Ecological Function — The Dusk/Dawn Red/Far-Red Light Switch
 
 The photoperiodism-in-plants mechanism that allows plants to sense the spectral quality of light — specifically the ratio of phytochrome ecological function dusk dawn red far red light switch (~660 nm) to phytochrome ecological function dusk dawn red far red light switch (~730 nm) — and use this information to regulate growth, development, and the timing of critical life events such as photoperiodism-in-plants and colleagues in the late 1950s. By alternately flashing plants with red and far-red light and observing that the final flash determined the physiological outcome — regardless of how many prior flashes had occurred — Butler demonstrated that both effects, promotion and reversal, were controlled by one reversible pigment system.
 

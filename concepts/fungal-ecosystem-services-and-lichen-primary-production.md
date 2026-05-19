@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Ecosystem Services and Lichen Primary Production
+## Fungal Ecosystem Services and Lichen Primary Production
 
 ## Overview
 

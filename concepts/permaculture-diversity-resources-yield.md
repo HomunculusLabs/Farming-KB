@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Principles: Diversity, Resources, and Yield
+## Permaculture Principles: Diversity, Resources, and Yield
 
 The core intellectual framework of [[permaculture]] rests on a set of principles, directives, and observations derived from the study of natural systems. These principles govern how energy flows through systems, how resources are categorized and managed, what diversity truly means in functional terms, and how yield is defined and maximized through design.
 

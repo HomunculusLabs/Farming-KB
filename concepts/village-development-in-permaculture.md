@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Village Development in Permaculture
+## Village Development in Permaculture
 
 ## Overview
 

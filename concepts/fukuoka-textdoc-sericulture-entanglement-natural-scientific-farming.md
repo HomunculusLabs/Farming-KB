@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Sericulture and the Entanglement of Natural and Scientific Farming
+## Sericulture and the Entanglement of Natural and Scientific Farming
 
 Fukuoka used the history of sericulture as a detailed case study of his
 central thesis: [[cho-loess-powder-in-natural-farming]], as it involved selecting and

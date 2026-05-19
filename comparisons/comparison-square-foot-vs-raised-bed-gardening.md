@@ -8,7 +8,7 @@ sources: [raw/papers/forest-gardening-robert-hart.md]
 type: comparison
 ---
 
-# Square Foot Gardening vs Raised Bed Gardening
+## Square Foot Gardening vs Raised Bed Gardening
 
 ## Overview
 

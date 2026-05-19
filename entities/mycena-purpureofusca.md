@@ -14,7 +14,7 @@ sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
-# Mycena purpureofusca
+## Mycena purpureofusca
 
 **Mycena purpureofusca** is a species of mushroom in the family Mycenaceae, noted for its potential psychoactive properties and its bioluminescent fruiting bodies. It is one of several *Mycena* species that have been investigated for the presence of tryptamine alkaloids, contributing to our understanding of the phylogenetic distribution of psilocybin biosynthesis across the fungal kingdom.
 

@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Quail Husbandry vs Rabbit Husbandry
+## Quail Husbandry vs Rabbit Husbandry
 
 ## Overview
 

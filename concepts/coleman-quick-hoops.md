@@ -13,7 +13,7 @@ sources:
   - eliot-coleman (2009). "The coleman-claytonia-winter-harvest-cultivation Handbook." Chelsea Green.
 ---
 
-# Quick Hoops — Low-Cost Season Extension Structures
+## Quick Hoops — Low-Cost Season Extension Structures
 
 Quick hoops are a minimalist season-extension system developed at Four Season
 Farm that provides many of the benefits of a full greenhouse at roughly five

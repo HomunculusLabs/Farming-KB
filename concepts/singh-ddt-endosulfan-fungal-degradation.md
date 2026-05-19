@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungal Degradation of Chlorinated Insecticides DDT and Endosulfan
+## Fungal Degradation of Chlorinated Insecticides DDT and Endosulfan
 
 Chlorinated insecticides including DDT, aldrin, [[dieldrin]], heptachlor,
 endrin, [[chlordane]], and endosulfan represent major environmental

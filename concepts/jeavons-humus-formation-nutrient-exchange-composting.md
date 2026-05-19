@@ -6,7 +6,7 @@ topics: [biointensive, humus, compost, nutrient-cycling, cation-exchange, soil-m
 aliases: [humus formation, cation exchange capacity, nutrient exchange soil, compost humus, biological nutrient release]
 ---
 
-# Humus Formation and Nutrient Exchange
+## Humus Formation and Nutrient Exchange
 
 ## Overview
 

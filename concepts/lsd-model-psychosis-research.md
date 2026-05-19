@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# LSD Model Psychosis Research
+## LSD Model Psychosis Research
 
 The use of [LSD to produce temporary states resembling psychosis in healthy subjects, enabling psychiatric researchers to study the nature and mechanisms of mental illness from the inside.
 

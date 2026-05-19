@@ -5,7 +5,7 @@ created: 2026-05-08
 tags: [cannabis, sativa, landrace, genetics, breeding, strains]
 ---
 
-# Landrace Cannabis Sativa Strains
+## Landrace Cannabis Sativa Strains
 
 ## Overview
 

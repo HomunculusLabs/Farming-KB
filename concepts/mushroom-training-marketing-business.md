@@ -12,7 +12,7 @@ tags:
 sources:
   - ~/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
-# [[jadam-ultra-low-cost-agriculture]], allowing an acceptable
+## [[jadam-ultra-low-cost-agriculture]], allowing an acceptable
   profit margin
 - Spawn bags can be produced for self-use and also sold, increasing profit margins
 - Mushrooms can be processed into various value-added products

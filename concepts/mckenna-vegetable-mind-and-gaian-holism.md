@@ -8,7 +8,7 @@ sources: ["papers/mckenna_t-food_of_the_gods.md"]
 type: concept
 ---
 
-# McKenna Vegetable Mind and Gaian Holism
+## McKenna Vegetable Mind and Gaian Holism
 
 The concepts of the "vegetable mind" and "Gaian holism" represent
 [[mckenna-food-gods-minoan-crete-mushroom-religion]]

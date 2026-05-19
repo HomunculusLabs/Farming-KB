@@ -7,7 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-# Amanita Muscaria in Eastern Religions
+## Amanita Muscaria in Eastern Religions
 
 The [[amanita-muscaria-fly-agaric-history-and-pharmacology]] theory, first proposed by R. [[edaphic-factors-microbial-communities]] of Immortality" (1968), identifies the [[rig-veda-soma-hymns-amanita-muscaria]] describes Soma as being:
 

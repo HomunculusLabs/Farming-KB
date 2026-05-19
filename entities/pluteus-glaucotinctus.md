@@ -14,7 +14,7 @@ sources:
   - "raw/papers/field-guide-to-the-psilocybin-mushroom.md"
 ---
 
-# Pluteus glaucotinctus
+## Pluteus glaucotinctus
 
 **Pluteus glaucotinctus** is a wood-inhabiting mushroom in the family
 Pluteaceae known to contain [[comparison-spore-print-collection-vs-spore-syringe-production]], and lack of both a volva and a persistent annulus.

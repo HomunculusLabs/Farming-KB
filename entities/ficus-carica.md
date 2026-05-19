@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Ficus carica
+## Ficus carica
 
 **Type:** Species (Tree)
 **Category:** [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. The species is exceptionally well-suited to small-scale

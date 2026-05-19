@@ -14,7 +14,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Mulch Gardening Critique
+## Mulch Gardening Critique
 
 ## Overview
 

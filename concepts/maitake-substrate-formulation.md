@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Substrate Formulation
+## Maitake Substrate Formulation
 
 ## Overview
 

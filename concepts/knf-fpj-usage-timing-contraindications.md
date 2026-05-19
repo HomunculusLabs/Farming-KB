@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# KNF FPJ Usage Timing and Contraindications
+## KNF FPJ Usage Timing and Contraindications
 
 **Updated:** 2026-04-18
 

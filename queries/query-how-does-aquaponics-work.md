@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: query
 ---
-# How Does Aquaponics Work
+## How Does Aquaponics Work
 ## Short Answer
 Aquaponics is a recirculating system that combines aquaculture ([[solomon-leafy-greens-growing]] and herbs grow best; fruiting plants may need supplemental nutrients
 - System cycling takes four to six weeks before fish can be added safely

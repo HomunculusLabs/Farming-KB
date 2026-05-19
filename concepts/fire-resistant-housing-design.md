@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fire-Resistant Housing Design
+## Fire-Resistant Housing Design
 
 In fire-prone regions, the [[fire-resistant-house-design-and-siting]] of buildings is the single most important factor determining survival during [[wildfire]]. Fire-resistant design integrates building architecture, landscaping, water systems, and [[emergency-preparedness]] into a comprehensive survival strategy.
 

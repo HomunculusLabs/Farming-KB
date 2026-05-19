@@ -22,7 +22,7 @@ sources:
   - ~/wiki/concepts/staycare-fungal-biomethylation-of-metals-and-metalloids.md
   - ~/wiki/concepts/phytovolatilization.md
 ---
-# Trimethylarsine
+## Trimethylarsine
 Trimethylarsine is a volatile organoarsenic compound with the formula C3H9As, commonly written as (CH3)3As or AsMe3.
 It is an organic derivative of arsine with three methyl groups attached to arsenic.
 In environmental microbiology, it is important as a possible endpoint of arsenic biomethylation.

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Greenhouse and Season Extension Basics
+## Greenhouse and Season Extension Basics
 
 [[hamilton-cold-frames-and-hardening-off]] for most [[faires-season-extension-cold-frames]], and plenty of gear available to equip you with the
 neatest of seedling-raising setup. But his advice is to grow seedlings

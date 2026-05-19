@@ -9,7 +9,7 @@ type: concept
 tags: [design, harvesting, water]
 ---
 
-# Water Harvesting Earthworks Design
+## Water Harvesting Earthworks Design
 
 In [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]] is not just moving earth around -- you are not a painter and the earth your canvas. The point is to create geo-morphological conditions that increase the ecological health of the site.
 

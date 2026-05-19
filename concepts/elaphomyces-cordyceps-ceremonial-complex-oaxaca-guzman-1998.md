@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Elaphomyces and Cordyceps Ceremonial Complex in Oaxaca
+## Elaphomyces and Cordyceps Ceremonial Complex in Oaxaca
 
 ## Overview
 

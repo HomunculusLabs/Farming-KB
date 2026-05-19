@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
-# Psilocybe tampanensis Profile
+## Psilocybe tampanensis Profile
 
 ## Overview
 

@@ -1,5 +1,5 @@
 ---
-title: guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution
+title: "Psilocybe Semilanceata"
 created: 2026-04-28
 tags:
   - mycology
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe semilanceata
+## Psilocybe semilanceata
 
 Psilocybe semilanceata, commonly known as the liberty cap, is the most common wild
 [[psilocybe-cubensis]], which is predominantly cultivated for the commercial market,

@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# Hofmann and Ernst Jünger — Shared LSD Experience and Drug Literature
+## Hofmann and Ernst Jünger — Shared LSD Experience and Drug Literature
 
 ## Overview
 

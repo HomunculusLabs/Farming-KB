@@ -7,7 +7,7 @@ tags: [psychedelics, ethnobotany]
 sources: [raw/papers/mckenna_t-food_of_the_gods.md]
 ---
 
-# The Vedic Soma and Indo-European Mysteries
+## The Vedic Soma and Indo-European Mysteries
 
 ## Contacting the Mind Behind Nature
 

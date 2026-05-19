@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MMDA-3a
+## MMDA-3a
 
 [[permaculture-designers-manual-essential-oil-plants]] croweacin, or
 1-allyl-2-methoxy-3,4-methylenedioxybenzene. It thus can allow

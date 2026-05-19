@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, byproducts, forage]
 sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
 
-# Goose Husbandry
+## Goose Husbandry
 
 Geese are excellent homestead birds -- they are largely self-feeding on pasture, produce large eggs, provide meat, and serve as effective weeders and alarm animals. They require less feed and housing than chickens or ducks. Drawn from [[nicole-faires]]' comprehensive manual.
 

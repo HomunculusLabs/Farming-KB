@@ -10,7 +10,7 @@ related_concepts:
   - wattle-and-daub-construction
 ---
 
-# Hempcrete and Hemp-Lime Construction
+## Hempcrete and Hemp-Lime Construction
 
 Hempcrete is a biocomposite [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] — biological during hemp growth
 and mineralogical during lime carbonation — makes hempcrete one of the few

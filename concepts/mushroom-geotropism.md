@@ -6,7 +6,7 @@ created: 2026-05-10
 source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 ---
 
-# Mushroom Geotropism
+## Mushroom Geotropism
 
 Geotropism (also called gravitropism) is the growth response of an organism to gravity. In most mushrooms, the stipe exhibits **negative geotropism** — growth directed away from the center of gravity, causing the mushroom to grow upward. This upward orientation is critical for [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]] in mushrooms causes:
 

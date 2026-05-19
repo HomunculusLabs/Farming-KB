@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are the Best Mushrooms for Beginners to Grow?
+## What Are the Best Mushrooms for Beginners to Grow?
 
 ## Short Answer
 

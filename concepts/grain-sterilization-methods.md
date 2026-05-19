@@ -4,7 +4,7 @@ created: 2026-05-09
 tags: [cultivation, sterilization, grain-spawn, mycology, equipment, hygiene]
 ---
 
-# Grain Sterilization Methods for Mushroom Spawn Production
+## Grain Sterilization Methods for Mushroom Spawn Production
 
 ## Overview
 

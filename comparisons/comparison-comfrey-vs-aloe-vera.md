@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Comfrey vs Aloe Vera
+## Comfrey vs Aloe Vera
 
 ## Overview
 

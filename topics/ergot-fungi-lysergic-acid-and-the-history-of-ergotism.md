@@ -25,7 +25,7 @@ related_concepts:
   - lsd-compound-profile
 ---
 
-# Ergot Fungi, Lysergic Acid, and the History of Ergotism
+## Ergot Fungi, Lysergic Acid, and the History of Ergotism
 
 *From ancient grain parasites and medieval plagues to the discovery of LSD*
 

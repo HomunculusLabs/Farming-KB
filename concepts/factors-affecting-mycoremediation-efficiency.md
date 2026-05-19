@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources:
   - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 ---
-# Factors Affecting Mycoremediation Efficiency
+## Factors Affecting Mycoremediation Efficiency
 
 The efficiency of [[mycoremediation]]
 - growing-gourmet-biological-efficiency-yield

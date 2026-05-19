@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Mariri
+## Mariri
 
 ## Description
 
@@ -26,7 +26,7 @@ Mariri (also spelled *mariri*) is a magical phlegm or substance stored in the ch
 ## Practice Context
 
 - Mariri should be read together with [[ayahuasca-preparation-and-ceremony]], where ingestion, purging, song, and vision form one therapeutic sequence.
-- The concept also overlaps with [[plants-gods-ayahuasca]], since the mariri is strengthened through relationships with plant teachers rather than by a purely mechanical technique.
+- The concept also overlaps with [[ayahuasca-and-banisteriopsis-caapi]], since the mariri is strengthened through relationships with plant teachers rather than by a purely mechanical technique.
 - In practical terms, mariri is the shaman's embodied storehouse of training, diet, and song.
 - The substance is not described as ordinary mucus alone; it is a cultivated capacity that becomes visible and usable in visionary space.
 - Its color distinctions imply a taxonomy of powers, with each variety suited to different healing, protective, or combative functions.

@@ -6,7 +6,7 @@ tags: [analytical-chemistry, tryptamine, ehrlich-reagent, tlc, psilocin, psilocy
 created: 2026-05-08
 ---
 
-# Ehrlich's Reagent Detection of Tryptamine Compounds in Mycology
+## Ehrlich's Reagent Detection of Tryptamine Compounds in Mycology
 
 ## Overview
 

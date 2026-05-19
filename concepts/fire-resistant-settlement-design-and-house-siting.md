@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fire-Resistant Settlement Design and House Siting
+## Fire-Resistant Settlement Design and House Siting
 
 The placement and design of settlements in fire-prone landscapes is one of the most critical decisions a land designer can make. Poor siting can transform a [[wildfire]] from a manageable event into a catastrophe, while intelligent design can mean the difference between survival and total loss. This concept covers the principles of safe house siting, radiation shielding, fuel reduction zones, and practical strategies drawn from both design theory and real-world fire survival.
 

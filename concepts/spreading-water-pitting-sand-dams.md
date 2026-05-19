@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Spreading Water and Sand Dam Systems
+## Spreading Water and Sand Dam Systems
 
 Water spreading techniques and [[permaculture]] for rehabilitating arid, semi-arid, and degraded landscapes. These methods
 focus on distributing runoff across broad areas, maximizing infiltration, and storing

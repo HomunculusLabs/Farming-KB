@@ -21,7 +21,7 @@ sources:
   - "Gravatt, D. & Martin, C.E. (1992). 'Ecophysiological responses of two varieties of Sedum to water deficits.' Physiologia Plantarum, 84(4), 511–518."
 ---
 
-# Sedum and Stonecrop Cultivation
+## Sedum and Stonecrop Cultivation
 
 ## Introduction
 

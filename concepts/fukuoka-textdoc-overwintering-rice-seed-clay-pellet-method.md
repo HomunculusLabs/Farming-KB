@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Overwintering Rice Seed — Clay Pellet Protection Method
+## Overwintering Rice Seed — Clay Pellet Protection Method
 
 ## The Discovery of Natural Sowing
 

@@ -7,7 +7,7 @@ tags: [permaculture, earthworm, compost, living-soil, vermicompost, soil-biology
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-# Earthworm Breeding
+## Earthworm Breeding
 
 Earthworms are among the most important helpers in every garden. Breeding them is inexpensive, requires very little time, and produces high-quality compost while disposing of organic waste.
 

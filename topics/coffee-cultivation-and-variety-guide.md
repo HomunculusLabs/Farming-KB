@@ -20,7 +20,7 @@ related_concepts:
   - forest-gardening-and-food-forests
 ---
 
-# Coffee Cultivation and Variety Guide
+## Coffee Cultivation and Variety Guide
 
 Coffee is one of the most widely traded agricultural commodities on Earth,
 second only to crude oil in the value of global trade. The brewed beverage

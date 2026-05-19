@@ -4,9 +4,9 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, mushrooms]
-sources: [/Users/t3rpz/wiki/raw/papers/allegro-j-the-sacred-mushroomcross.md]
+sources: ["raw/papers/allegro-j-the-sacred-mushroomcross.md"]
 ---
-# Jesus Name Etymology and Mushroom Theories
+## Jesus Name Etymology and Mushroom Theories
 The etymology of the name "Jesus" became a central element of John
 Allegro's [[oner-jesus-christ-and-jack-47]] of
 Nazareth" over the lame man (Acts 3:6), and that the "seven sons of

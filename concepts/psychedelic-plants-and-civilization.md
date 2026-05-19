@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/food-of-the-gods-terence-mckenna.md"
 ---
-# Psychedelic Plants and Civilization
+## Psychedelic Plants and Civilization
 
 The central thesis of Terence McKenna's *Food of the Gods* is that Psychedelic Plants and Civilization are not peripheral curiosities in human history but are foundational to the emergence of civilization, consciousness, and culture itself. McKenna argues that human history can be read as a series of relationships with plants—relationships made and broken—and that the suppression of mycorrhizal-plant-signaling. Drawing on examples from nature—clown fish and anemones, leafcutter ants and their cultivated fungi, mitochondria joining with cells—he argued that plants and humans have coevolved in relationships of mutual benefit over millions of years.
 

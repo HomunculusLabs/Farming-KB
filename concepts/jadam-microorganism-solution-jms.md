@@ -21,7 +21,7 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Microorganism Solution (JMS)
+## JADAM Microorganism Solution (JMS)
 
 JMS cultures [[beneficial-indigenous-microorganisms]] from forest leaf mold using boiled potato as food. Simpler than [[indigenous-microorganisms-imo]] -- no multi-stage collection, no sugar/molasses needed. At peak fermentation, 1ml contains ~0.1-1 billion microbes. The core of [[jadam-methods]] soil management. 500L batch costs nearly nothing.
 

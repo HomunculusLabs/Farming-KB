@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Research Landscape of Fungal-Faunal Interactions
+## Research Landscape of Fungal-Faunal Interactions
 
 ## Overview
 

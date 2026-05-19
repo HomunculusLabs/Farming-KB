@@ -10,13 +10,13 @@ tags: [organization, sustainability, circular-economy, fungi, blue-economy, zero
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/fungal-roles-in-mass-extinction-recovery.md
-  - /Users/t3rpz/wiki/concepts/fungi-sustainable-packaging-and-materials.md
-  - /Users/t3rpz/wiki/concepts/oyster-mushroom-spent-substrate-recycling.md
+  - raw/concepts/fungal-roles-in-mass-extinction-recovery.md
+  - raw/concepts/fungi-sustainable-packaging-and-materials.md
+  - raw/concepts/oyster-mushroom-spent-substrate-recycling.md
   - https://en.wikipedia.org/wiki/Zero_Emissions_Research_and_Initiatives
 ---
 
-# Zero Emissions Research and Initiatives
+## Zero Emissions Research and Initiatives
 
 ## Overview
 Zero Emissions Research and Initiatives, usually abbreviated **ZERI**, is a decentralized

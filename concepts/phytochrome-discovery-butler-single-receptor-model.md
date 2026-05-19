@@ -8,7 +8,7 @@ type: concept
 tags: [phytochrome, photoperiodism, photoreceptor, plant-biology, chamovitz, butler, borthwick]
 ---
 
-# Phytochrome Discovery and the Butler Single Receptor Model
+## Phytochrome Discovery and the Butler Single Receptor Model
 
 The discovery of phytochrome — the molecular switch that allows plants
 to measure the length of night using red and far-red light — resolved

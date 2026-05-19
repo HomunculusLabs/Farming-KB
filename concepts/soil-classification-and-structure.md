@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Classification and Structure
+## Soil Classification and Structure
 
 Soil classification and structure form the foundation of permaculture land assessment and design. Understanding soils—both through [[wasted-human-resources-and-traditional-knowledge]] systems and modern scientific methods—allows designers to match land use to soil capability, preserve soil health, and make informed decisions about earthworks, agriculture, and [[water-management]].
 

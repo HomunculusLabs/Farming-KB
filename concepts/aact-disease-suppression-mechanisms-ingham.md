@@ -10,7 +10,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# AACT Disease Suppression Mechanisms
+## AACT Disease Suppression Mechanisms
 
 Actively [[soil-food-web]] functions as an active biological buffer.
 

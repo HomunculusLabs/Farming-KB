@@ -5,7 +5,7 @@ source: grahamholmes-what-a-plant-knowsindd.md
 tags: [phototropism, plant-vision, photoreceptor, darwin, blue-light, auxin]
 ---
 
-# Phototropism and Plant Light Perception
+## Phototropism and Plant Light Perception
 
 ## Overview
 

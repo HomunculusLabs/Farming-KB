@@ -1,4 +1,8 @@
-# Mushroom Seasonal Succession and Perennial Spawn
+---
+title: "Mushroom Seasonal Succession and Perennial Spawn"
+tags:
+  - concept
+---
 
 ## Overview
 

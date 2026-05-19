@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Medicine Woman and Shamanic Healing Discourse
+## Mazatec Medicine Woman and Shamanic Healing Discourse
 
 The shamanic healing discourse of a Mazatec medicine woman—recorded by ethnographer [[henry-munn]] in Huautla de Jiménez, Oaxaca—provides a detailed window into how psilocybin mushrooms are used as tools for diagnosis, healing, and communal prayer. The medicine woman, identified as Mrs. [[irene-pineda-de-figueroa]], generates hours of continuous inspired speech that addresses physical illness, spiritual distress, communal poverty, and the challenges of cultural transition facing her people.
 

@@ -9,7 +9,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Biointensive Spacing and Close Planting Principles
+## Biointensive Spacing and Close Planting Principles
 
 Close plant spacing is one of the eight key features of [[wide-row-spacing-intensive-gardening-comparison]] by 0.87 to calculate offset distance)
 - Allows more plants per unit area

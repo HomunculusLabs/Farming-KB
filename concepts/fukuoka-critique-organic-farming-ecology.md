@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Critique of Organic Farming and Ecology Movements
+## Critique of Organic Farming and Ecology Movements
 
 updated: 2026-04-18
 

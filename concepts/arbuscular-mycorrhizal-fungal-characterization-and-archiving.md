@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Arbuscular Mycorrhizal Fungal Characterization and Archiving
+## Arbuscular Mycorrhizal Fungal Characterization and Archiving
 
 ## Overview
 

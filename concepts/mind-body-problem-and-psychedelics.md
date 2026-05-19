@@ -8,7 +8,7 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
-# Mind-Body Problem and Psychedelics
+## Mind-Body Problem and Psychedelics
 
 The mind-body problem, one of the oldest and most intractable puzzles in [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]], a small structure in the center of the brain, but this solution was widely regarded as inadequate even in his own time.
 

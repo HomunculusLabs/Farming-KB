@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Critique of Organic Certification
+## Fukuoka Critique of Organic Certification
 
 Masanobu Fukuoka was sharply critical of organic certification and the [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] is "simply a return to animal-based agriculture." The organic farmer substitutes organic inputs for chemical ones but maintains the same mindset of controlling nature through applied knowledge.
 

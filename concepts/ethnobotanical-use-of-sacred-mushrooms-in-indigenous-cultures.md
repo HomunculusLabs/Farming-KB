@@ -6,7 +6,7 @@ created: 2026-05-09
 tags: [ethnobotany, sacred-mushrooms, indigenous, mexico, new-guinea, siberia]
 ---
 
-# Ethnobotanical Use of Sacred Mushrooms in Indigenous Cultures
+## Ethnobotanical Use of Sacred Mushrooms in Indigenous Cultures
 
 ## Overview
 

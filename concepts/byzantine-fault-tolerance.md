@@ -6,7 +6,7 @@ sources: []
 tags: []
 type: concept
 ---
-# Byzantine Fault Tolerance
+## Byzantine Fault Tolerance
 ## Overview
 Byzantine fault tolerance is the ability of a distributed system to keep working when some participants behave arbitrarily.
 The faulty participants may crash, lie, send conflicting messages, delay responses, or act maliciously.

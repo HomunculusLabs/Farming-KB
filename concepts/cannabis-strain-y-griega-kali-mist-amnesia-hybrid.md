@@ -6,7 +6,7 @@ type: concept
 created: 2026-05-10
 ---
 
-# Y Griega
+## Y Griega
 
 **Y Griega** is a sativa-dominant [[oner-y-griega-kali-mist-amnesia-medical-seeds]] of
 Spain. A cross between the legendary [[amnesia-haze]], Y Griega

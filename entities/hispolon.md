@@ -5,10 +5,10 @@ type: chemical
 tags: [phenolic-compound, anti-tumor, anti-inflammatory, medicinal-mushroom]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
 
-# Hispolon
+## Hispolon
 
 Hispolon (6-(3,4-dihydroxyphenyl)-4-hexen-3-one) is a bioactive phenolic compound isolated from the fruiting bodies of [[phellinus-linteus]] produce lower amounts compared to natural fruiting bodies.
 

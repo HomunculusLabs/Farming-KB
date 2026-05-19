@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Gasteromycete Fruiting Bodies
+## Gasteromycete Fruiting Bodies
 Gasteromycetes (from Greek: gaster = stomach, mycetes = fungi) are a
 diverse assemblage of [[bloomfield-fungal-spore-discharge-and-dispersal]], gasteromycetes
 form spores internally and have evolved a remarkable circus of

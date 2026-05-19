@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# Psilocybe baeocystis Knobby Tops Guide ## Overview psilocybe-baeocystis Singer and Smith, commonly known as "baeos" or "knobby tops," is a moderately to highly active psilocybin mushroom of the Pacific Northwest. First reported from Oregon, this species is common throughout the Pacific Northwest region of North America. It is named for its association with the discovery of the alkaloid [[psilocybe-cyanescens]], not P. baeocystis. The identifying
+## Psilocybe baeocystis Knobby Tops Guide ## Overview psilocybe-baeocystis Singer and Smith, commonly known as "baeos" or "knobby tops," is a moderately to highly active psilocybin mushroom of the Pacific Northwest. First reported from Oregon, this species is common throughout the Pacific Northwest region of North America. It is named for its association with the discovery of the alkaloid [[psilocybe-cyanescens]], not P. baeocystis. The identifying
 mycologist, Alexander Smith, retracted his identification upon
 confrontation with the photographic evidence. Other mushroom species
 were present in the yard but were not kept for analysis. Most

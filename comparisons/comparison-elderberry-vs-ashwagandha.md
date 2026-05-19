@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# Elderberry vs Ashwagandha
+## Elderberry vs Ashwagandha
 
 ## Overview
 

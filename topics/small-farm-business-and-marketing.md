@@ -38,7 +38,7 @@ related_concepts:
   - jadam-farm-economics-market-viability
 ---
 
-# Small Farm Business and Marketing
+## Small Farm Business and Marketing
 
 **Small farm business and marketing** encompasses the economic strategies, sales
 channels, and financial models that enable small-scale agricultural operations

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquaculture Temperature and Salinity Management
+## Aquaculture Temperature and Salinity Management
 
 Temperature and salinity are species-specific factors that define which organisms can thrive in a given water body. Managing these parameters—through site selection, structural design, and active heating or dilution systems—is essential for maintaining productive aquaculture systems, especially when working with selected or exotic species outside their natural range.
 

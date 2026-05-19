@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# Alcohol and the Alchemy of Spirit
+## Alcohol and the Alchemy of Spirit
 
 ## Nostalgia for Paradise
 

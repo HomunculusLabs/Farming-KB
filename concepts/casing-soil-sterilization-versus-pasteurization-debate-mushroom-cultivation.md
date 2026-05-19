@@ -4,7 +4,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_.md
 topics: [casing soil, sterilization, pasteurization, microbial ecology, substrate preparation]
 ---
 
-# Casing Soil Sterilization Versus Pasteurization Debate in Mushroom Cultivation
+## Casing Soil Sterilization Versus Pasteurization Debate in Mushroom Cultivation
 
 ## Overview
 

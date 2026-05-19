@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Functional Diversity and Community Dynamics
+## Fungal Functional Diversity and Community Dynamics
 
 ## Functional Diversity and Functional Groups
 

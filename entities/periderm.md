@@ -5,7 +5,7 @@ type: entity
 tags: [plant-physiology, dermal-tissue, bark, botany, plant-defense]
 ---
 
-# Periderm
+## Periderm
 
 ## Description
 

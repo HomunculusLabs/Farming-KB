@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Compost Functions in Soil Building
+## Compost Functions in Soil Building
 
 Compost is the heart of the [[hamilton-composting-and-organic-matter-management]] content soaks up rain like a sponge and
 regulates the supply to plants. In contrast, soil stripped of

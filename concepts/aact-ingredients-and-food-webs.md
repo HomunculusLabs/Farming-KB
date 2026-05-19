@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# AACT Ingredients and Food Webs
+## AACT Ingredients and Food Webs
 
 ## Extract vs. AACT: The Brewing Distinction
 

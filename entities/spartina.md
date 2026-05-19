@@ -5,7 +5,7 @@ type: entity
 tags: [genus, plant, salt-marsh, cordgrass, ecosystem-engineer, decomposition]
 ---
 
-# Spartina (Cordgrass)
+## Spartina (Cordgrass)
 
 ## Description
 

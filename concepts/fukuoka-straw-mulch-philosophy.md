@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Straw Mulch Philosophy
+## Fukuoka Straw Mulch Philosophy
 
 Updated: 2026-04-19
 

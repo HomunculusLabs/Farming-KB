@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Christmas Symbolism and Hidden Meanings
+## Christmas Symbolism and Hidden Meanings
 
 ## Overview
 

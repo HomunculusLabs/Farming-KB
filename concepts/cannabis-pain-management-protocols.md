@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Pain Management Protocols
+## Cannabis Pain Management Protocols
 
 ## Overview
 

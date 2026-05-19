@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Starting Fungal Cultures from Spores and Tissue Cloning
+## Starting Fungal Cultures from Spores and Tissue Cloning
 
 Once agar plates are prepared, there are no limits to what can be done with a fresh mushroom -- whether collected from the wild, cultivated, or purchased. There are two primary pathways for starting a fungal culture: from spores or through tissue cloning. Each method offers distinct advantages. Spores provide genetically variable offspring, ideal for breeding and strain development, while cloning produces genetically identical copies of a parent mushroom, essential for preserving desirable traits. Both methods are foundational skills for any [[mycology-laboratory-setup-and-agar-plate-preparation]].
 

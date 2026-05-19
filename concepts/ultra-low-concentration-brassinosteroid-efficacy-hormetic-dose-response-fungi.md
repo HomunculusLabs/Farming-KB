@@ -4,7 +4,7 @@ source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the
 topics: [dose response, hormesis, brassinosteroid, ppm concentration, fungal physiology]
 ---
 
-# Ultra-Low Concentration Brassinosteroid Efficacy and Hormetic Dose Response in Fungi
+## Ultra-Low Concentration Brassinosteroid Efficacy and Hormetic Dose Response in Fungi
 
 ## Overview
 

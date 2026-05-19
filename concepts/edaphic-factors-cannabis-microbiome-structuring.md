@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, microbiome, edaphic-factors, nitrogen, salinity, soil-physics, mantel-test, bioenv]
 ---
 
-# Edaphic Factors Structuring Cannabis Microbiome Communities
+## Edaphic Factors Structuring Cannabis Microbiome Communities
 
 ## Overview
 

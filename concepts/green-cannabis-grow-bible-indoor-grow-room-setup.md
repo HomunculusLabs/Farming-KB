@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Indoor Grow Room Setup
+## Indoor Grow Room Setup
 
 Greg Green's Cannabis Grow Bible provides detailed guidance on
 assembling an indoor grow environment, from lighting and ventilation to

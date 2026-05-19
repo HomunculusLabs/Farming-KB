@@ -16,7 +16,7 @@ sources:
   - Wasser, S.P. (2014). "gourmet-medicinal-mushroom-casing-layer-techniques Stropharia rugosoannulata." International Journal of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive.
 ---
 
-# Stropharia rugosoannulata (Wine Cap Mushroom)
+## Stropharia rugosoannulata (Wine Cap Mushroom)
 
 ## Overview
 

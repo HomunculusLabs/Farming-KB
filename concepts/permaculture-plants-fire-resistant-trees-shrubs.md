@@ -5,7 +5,7 @@ author: Jeff Nugent and Julia Boniface
 topics: fire-resistant, trees, shrubs, permaculture, fire-safety, landscaping
 ---
 
-# Fire-Resistant Trees and Shrubs for [[chinese-tallow-tree]]** (*Sapium sebiferum*) — Listed as [[ceratonia-siliqua]]*) — Fire resistant, recovers after fire,
+## Fire-Resistant Trees and Shrubs for [[chinese-tallow-tree]]** (*Sapium sebiferum*) — Listed as [[ceratonia-siliqua]]*) — Fire resistant, recovers after fire,
   produces edible pods
 - **Olive** (*Olea europaea*) — Fire resistant and recovers after burning;
   also produces edible fruit and oil

@@ -1,4 +1,8 @@
-# Strain OTU Presence-Absence vs Abundance in the Cannabis Microbiome
+---
+title: "Strain OTU Presence-Absence vs Abundance in the Cannabis Microbiome"
+tags:
+  - concept
+---
 
 One of the most significant findings of Winston et al. (2014) was the
 demonstration that [[cannabis-rhizosphere-microbial-communities]] across Cannabis cultivars and soil
@@ -144,6 +148,3 @@ current understanding and implementation strategies.
 Successful integration of strain otu presence absence vs abundance cannabis microbiome into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions

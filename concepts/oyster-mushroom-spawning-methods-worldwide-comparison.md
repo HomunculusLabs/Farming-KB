@@ -5,7 +5,7 @@ topic: mushroom-cultivation
 tags: [oyster-mushroom, spawning, inoculation, spawn-rate, worldwide, cultivation]
 ---
 
-# Oyster Mushroom Spawning Methods: Worldwide Comparison
+## Oyster Mushroom Spawning Methods: Worldwide Comparison
 
 ## Overview
 

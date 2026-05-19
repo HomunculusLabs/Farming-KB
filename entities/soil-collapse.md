@@ -5,7 +5,7 @@ type: entity
 tags: [concept, soil-science, dryland, salinity, desertification, permaculture]
 ---
 
-# Soil Collapse
+## Soil Collapse
 
 ## Description
 

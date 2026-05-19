@@ -12,7 +12,7 @@ topics:
   - succession-planting
 ---
 
-# Year-Round Intensive Cropping and Bed Management
+## Year-Round Intensive Cropping and Bed Management
 
 ## Overview
 

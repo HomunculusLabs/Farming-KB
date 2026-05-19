@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Plant Species Reference
+## Permaculture Plant Species Reference
 
 [[bill-mollison]]'s *Permaculture: A Designers' Manual* concludes with an extensive catalog of plant species used across permaculture systems worldwide. This reference list, compiled from the manual's appendix, represents a global toolkit of multipurpose plants selected for their roles in food production, soil building, fiber, medicine, microclimate modification, and ecological function. The species listed span virtually every climate zone and functional category relevant to [[permaculture-design]].
 

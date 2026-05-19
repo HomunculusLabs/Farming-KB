@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungi in Tropical Forest Ecosystems
+## Fungi in Tropical Forest Ecosystems
 
 ## Overview
 

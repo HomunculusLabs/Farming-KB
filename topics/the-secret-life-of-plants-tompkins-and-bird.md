@@ -30,7 +30,7 @@ related_concepts:
   - plant-sensory-biology-and-intelligence
 ---
 
-# The Secret Life of Plants
+## The Secret Life of Plants
 
 In 1973, journalist Peter Tompkins and former CIA intelligence officer
 Christopher Bird published *The Secret Life of Plants*, a sprawling

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Tetragonia (New Zealand Spinach)
+## Tetragonia (New Zealand Spinach)
 
 ## Description
 

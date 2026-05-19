@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 ---
 
-# Livestock Feed Formulation
+## Livestock Feed Formulation
 
 Understanding livestock nutrition and feed formulation allows homesteaders to
 optimize animal health, reduce purchased feed costs, and make the most of

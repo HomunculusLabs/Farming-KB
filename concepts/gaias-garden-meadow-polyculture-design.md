@@ -5,7 +5,7 @@ author: Toby Hemenway
 topics: polyculture, garden-design, succession, interplanting, permaculture
 ---
 
-# Ecological Polyculture: The Meadow Garden Method
+## Ecological Polyculture: The Meadow Garden Method
 
 One of the most compelling demonstrations in [[cover-crop]]; attracts pollinators; suppresses
   weeds; accumulates phosphorus

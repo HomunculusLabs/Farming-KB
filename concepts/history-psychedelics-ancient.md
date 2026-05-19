@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# History of Psychedelics in the Ancient World
+## History of Psychedelics in the Ancient World
 
 The ancient world was permeated by
 [[peganum-harmala]]** (Syrian rue) — Rich in the beta-carboline harmine. David Flattery and Martin Schwartz argued this was the original identification by Sir William Jones in 1794. Flattery contended that "the consumption of sauma may have been the only means recognized in Iranian religion of seeing into menog existence before death."

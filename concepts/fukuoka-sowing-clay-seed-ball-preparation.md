@@ -8,7 +8,7 @@ type: concept
 tags: [fukuoka, plant-growth]
 ---
 
-# Clay Seed Ball Preparation Techniques — Fukuoka Method
+## Clay Seed Ball Preparation Techniques — Fukuoka Method
 
 *Complete technical instructions for making [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] rice,
 barley, and vegetables in conjunction with the no-till method. It has since come

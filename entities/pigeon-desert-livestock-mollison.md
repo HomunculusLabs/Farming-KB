@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Pigeon (Desert Livestock)
+## Pigeon (Desert Livestock)
 
 ## Description
 

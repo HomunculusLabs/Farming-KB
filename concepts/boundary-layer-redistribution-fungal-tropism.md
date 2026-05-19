@@ -7,7 +7,7 @@ tags: [boundary-layer, evaporative-demand, fungal-tropism, anemotropism, stipe-c
 created: 2026-05-11
 ---
 
-# Boundary Layer Redistribution and Evaporative Demand Hypothesis for Fungal Tropism
+## Boundary Layer Redistribution and Evaporative Demand Hypothesis for Fungal Tropism
 
 ## Overview
 

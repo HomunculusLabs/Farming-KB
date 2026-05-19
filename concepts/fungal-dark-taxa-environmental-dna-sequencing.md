@@ -4,9 +4,9 @@ created: 2026-04-28
 updated: 2026-04-28
 type: concept
 tags: [mycology, biodiversity, environmental-dna, metagenomics, taxonomy]
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
-# Fungal Dark Taxa and Environmental DNA Sequencing
+## Fungal Dark Taxa and Environmental DNA Sequencing
 
 ## Overview
 

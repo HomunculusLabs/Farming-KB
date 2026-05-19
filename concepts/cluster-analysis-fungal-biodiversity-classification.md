@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md, Chunk 21
 type: concept
 ---
 
-# Cluster Analysis for Fungal Biodiversity Classification
+## Cluster Analysis for Fungal Biodiversity Classification
 
 ## Overview
 

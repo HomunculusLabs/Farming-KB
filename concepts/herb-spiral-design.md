@@ -8,7 +8,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-# Herb Spiral Design
+## Herb Spiral Design
 
 An herb spiral is a permaculture design element that coils 20-30 linear feet of path-side planting into a roundish pattern about 5 feet across. It combines a two-dimensional pattern (a spiral) with a three-dimensional one (a mound) to form a beautiful and space-saving living sculpture that creates several microclimates within a small footprint.
 

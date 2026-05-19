@@ -5,7 +5,7 @@ tags: [metzner, set-and-setting, psychedelic, therapy, context, environment]
 created: 2026-05-08
 ---
 
-# Set and Setting as the Primary Determinants of Psychedelic Experience
+## Set and Setting as the Primary Determinants of Psychedelic Experience
 
 ## Overview
 

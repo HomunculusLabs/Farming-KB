@@ -4,7 +4,7 @@ source: What a Plant Knows (daniel-chamovitz, 2012)
 concepts: [photoperiodism, phytochrome, phototropism, flowering-time]
 ---
 
-# Photoperiodism — How Plants Measure Time Through Light
+## Photoperiodism — How Plants Measure Time Through Light
 
 Photoperiodism is the [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] revealed that plants possess sophisticated
 internal clocks and light-sensing systems that enable them to measure

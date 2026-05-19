@@ -15,7 +15,7 @@ sources:
   - Royal Horticultural Society
 ---
 
-# Cornus sericea
+## Cornus sericea
 
 ## Overview
 

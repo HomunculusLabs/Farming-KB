@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: []
 ---
 
-# Cannabis Watering Schedule and Frequency
+## Cannabis Watering Schedule and Frequency
 
 Proper watering is fundamental to successful [[irrigation-watering-techniques]]
 

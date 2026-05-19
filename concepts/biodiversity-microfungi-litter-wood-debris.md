@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, microfungi, leaf-litter, wood-decay, fungal-ecology, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
-# Microfungi on Litter and Wood Debris Microfungi associated with dead plant material represent one of the most diverse and ecologically significant components of fungal biodiversity. These fungi drive biodiversity-fungi-wood-decay-succession and [[air-pollution-fungal-community-responses]]
+## Microfungi on Litter and Wood Debris Microfungi associated with dead plant material represent one of the most diverse and ecologically significant components of fungal biodiversity. These fungi drive biodiversity-fungi-wood-decay-succession and [[air-pollution-fungal-community-responses]]
 composition. The diversity of fungi associated with litter of
 Castanopsis cuspidata and Quercus phillyraeoides was greater in
 southern Japan than in central Japan, reflecting temperature

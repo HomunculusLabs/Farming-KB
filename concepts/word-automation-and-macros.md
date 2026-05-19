@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Word Automation and Macros
+## Word Automation and Macros
 
 Microsoft Word provides extensive automation capabilities that allow users and
 developers to extend the application's functionality, streamline repetitive

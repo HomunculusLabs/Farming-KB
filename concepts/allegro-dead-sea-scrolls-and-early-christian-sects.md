@@ -9,7 +9,7 @@ type: concept
 tags: [reference]
 ---
 
-# Dead Sea Scrolls and Early Christian Sects
+## Dead Sea Scrolls and Early Christian Sects
 
 John Marco Allegro's involvement with the Dead Sea Scrolls shaped his most
 controversial theories about early Christianity. As the only atheist on the

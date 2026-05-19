@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Mnemonics of Meaning and Universal Belief Patterns
+## Mnemonics of Meaning and Universal Belief Patterns
 
 Across cultures and throughout history, human societies have developed mnemonic systems—chant, symbol, and ritual—that encode profound understanding of natural patterns and cosmic relationships. These systems often converge on remarkably similar core insights, suggesting that deep observation of the natural world leads to universal truths about the interconnectedness of all phenomena.
 

@@ -5,7 +5,7 @@ tags: spore-syringe, needle-method, boil-a-bag, sterile-technique]
 created: 2026-05-09
 ---
 
-# Mushroom Bag Inoculation: Short Needle vs Long Needle Methods
+## Mushroom Bag Inoculation: Short Needle vs Long Needle Methods
 
 The Jarrold boil-a-bag method describes two inoculation
 techniques for introducing spore solution into straw bags.

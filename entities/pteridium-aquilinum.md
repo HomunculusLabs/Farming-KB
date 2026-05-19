@@ -5,7 +5,7 @@ type: entity
 tags: [species, plant, fern, bracken, decomposition, succession]
 ---
 
-# Pteridium aquilinum (Bracken Fern)
+## Pteridium aquilinum (Bracken Fern)
 
 ## Description
 

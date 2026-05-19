@@ -7,7 +7,7 @@ tags: [cannabis, gardening, plant-growth, training]
 sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 ---
 
-# Cannabis Vegetative Stage Management
+## Cannabis Vegetative Stage Management
 
 The vegetative stage is when cannabis builds its structure — roots, stems, and leaves — before flowering. This stage determines the plant's final size and yield potential. Proper management of light, training, and nutrition during veg is critical.
 

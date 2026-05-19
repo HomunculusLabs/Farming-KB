@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [biointensive, seed-propagation, transplanting, seedlings, flats]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md]
+sources: ["raw/papers/jeavons-john-how-to-grow-more-vegetables.md"]
 type: concept
 ---
 
-# Pricking Out Seedlings
+## Pricking Out Seedlings
 
 Pricking out is the [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]] and
 stimulating uninterrupted growth.

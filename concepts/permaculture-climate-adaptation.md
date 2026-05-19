@@ -7,7 +7,7 @@ tags: [permaculture, climate, resilience, design, water-management, sustainabili
 sources: []
 ---
 
-# Permaculture Climate Adaptation
+## Permaculture Climate Adaptation
 
 Climate adaptation in permaculture means designing systems that can withstand and even benefit from extreme weather events — drought, flood, heat waves, freezes, storms, and unpredictable seasonal patterns. Rather than fighting climate conditions with inputs and infrastructure, permaculture works with natural patterns to build inherent resilience into the landscape.
 

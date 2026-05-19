@@ -4,7 +4,7 @@ source: Oner, S.T. & The Rev (2014). Cannabis Sativa Vol. 3. Green Candy Press.
 tags: [cookiewreck, cannabis-genetics, trainwreck, girl-scout-cookies, strain-profile, hybrid, oner]
 ---
 
-# CookieWreck — Trainwreck × Girl Scout Cookies Hybrid Strain Profile
+## CookieWreck — Trainwreck × Girl Scout Cookies Hybrid Strain Profile
 
 ## Overview
 

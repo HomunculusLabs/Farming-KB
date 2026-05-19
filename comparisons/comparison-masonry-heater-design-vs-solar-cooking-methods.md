@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Masonry Heater Design vs Solar Cooking Methods
+## Masonry Heater Design vs Solar Cooking Methods
 
 ## Overview
 

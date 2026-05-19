@@ -6,7 +6,7 @@ tags: [microbiology, cannabis, endorhiza, core-microbiome, otu-analysis, strain-
 created: 2026-05-09
 ---
 
-# Cannabis Endorhiza OTU Pooling and Strain-Level Core Microbiome
+## Cannabis Endorhiza OTU Pooling and Strain-Level Core Microbiome
 
 ## Overview
 

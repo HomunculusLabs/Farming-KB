@@ -11,7 +11,7 @@ sources:
   - concepts/permaculture-plants-comfrey-chop-and-drop.md
 ---
 
-# Comfrey Cultivation and Uses (Symphytum spp.)
+## Comfrey Cultivation and Uses (Symphytum spp.)
 
 ## Overview
 

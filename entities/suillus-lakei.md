@@ -18,7 +18,7 @@ sources:
   - "Bessette, A.E. et al. (2000). growing-gourmet-north-american-reishi-species Boletes. Syracuse University Press."
 ---
 
-# Suillus Lakei (*Suillus lakei* (Murrill) A.H. Sm. & Thiers)
+## Suillus Lakei (*Suillus lakei* (Murrill) A.H. Sm. & Thiers)
 
 ## Overview
 

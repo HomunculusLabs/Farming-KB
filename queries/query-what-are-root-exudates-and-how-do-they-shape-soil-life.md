@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# What Are Root Exudates and How Do They Shape Soil Life?
+## What Are Root Exudates and How Do They Shape Soil Life?
 
 ## Short Answer
 

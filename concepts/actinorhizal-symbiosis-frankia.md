@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: ["raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md", "raw/papers/symbiotic-fungi.md"]
 ---
-# Actinorhizal Symbiosis with Frankia
+## Actinorhizal Symbiosis with Frankia
 
 Actinorhizal symbiosis refers to the nitrogen-fixing mutualistic association between actinomycete bacteria of the genus Frankia and roots of non-leguminous woody plants from at least eight dicot families. Frankia forms root nodules on host plants that [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] of actinorhizal plants spans all continents except Antarctica, with particularly high diversity in temperate and Mediterranean climates.
 

@@ -1,4 +1,8 @@
-# Aquarium Humidity Chamber for Mushroom Fruiting
+---
+title: "Aquarium Humidity Chamber for Mushroom Fruiting"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,6 +148,3 @@ current understanding and implementation strategies.
 ## Integration Strategies
 
 Successful integration of humidity chamber aquarium mushroom fruiting into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.

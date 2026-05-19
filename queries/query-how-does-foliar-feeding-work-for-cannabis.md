@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Does Foliar Feeding Work for Cannabis?
+## How Does Foliar Feeding Work for Cannabis?
 
 ## Short Answer
 Foliar feeding is the practice of spraying a diluted [[comparison-passive-solar-vs-earth-sheltered]] panels for

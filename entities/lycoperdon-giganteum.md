@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 ---
 
-# Lycoperdon giganteum (Giant Puffball)
+## Lycoperdon giganteum (Giant Puffball)
 
 ## Description
 

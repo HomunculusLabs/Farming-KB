@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Mushrooms of New Zealand
+## Psilocybin Mushrooms of New Zealand
 
 ## Introduction
 

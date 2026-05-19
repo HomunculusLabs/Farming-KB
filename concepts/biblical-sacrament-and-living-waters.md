@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Biblical Sacrament and the Living Waters
+## Biblical Sacrament and the Living Waters
 
 ## Overview
 

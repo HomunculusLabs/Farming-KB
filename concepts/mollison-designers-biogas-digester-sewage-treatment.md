@@ -6,7 +6,7 @@ extracted: 2026-05-10
 tags: [permaculture, mollison, designers-manual, biogas, sewage, methane, waste-treatment]
 ---
 
-# Biogas Digesters and Sewage Treatment in Permaculture Design
+## Biogas Digesters and Sewage Treatment in Permaculture Design
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Composting and Nutrient Cycling
+## Composting and Nutrient Cycling
 
 Nutrient cycling is the process by which the fourteen essential mineral nutrients move from soil into plants, through the food web, and back to soil. Understanding this cycle is central to [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Symbiotic bacteria (Rhizobia on legumes, [[arbuscule-isolation-metabolic-activity-assays]]. Sulfur is not mobile in plants, so deficiency yellowing appears first in younger leaves -- distinguishing it from nitrogen deficiency. Stricter air pollution regulations have dramatically reduced atmospheric sulfur deposition, making organic matter and gypsum rock increasingly important.
 

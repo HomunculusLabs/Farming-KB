@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Weed Diversity and Soil Nutrient Availability
+## Weed Diversity and Soil Nutrient Availability
 
 updated: 2026-04-18
 

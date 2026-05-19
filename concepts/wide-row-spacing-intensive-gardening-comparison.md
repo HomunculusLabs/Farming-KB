@@ -6,7 +6,7 @@ tags: [gardening, spacing, intensive, water-efficiency, vegetable-production]
 created: 2026-05-08
 ---
 
-# Wide-Row Spacing vs Intensive Gardening
+## Wide-Row Spacing vs Intensive Gardening
 
 ## Overview
 

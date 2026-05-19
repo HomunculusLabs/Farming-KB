@@ -15,7 +15,7 @@ sources: []
 type: comparison
 ---
 
-# Terra Preta vs Modern Biochar
+## Terra Preta vs Modern Biochar
 
 ## Overview
 

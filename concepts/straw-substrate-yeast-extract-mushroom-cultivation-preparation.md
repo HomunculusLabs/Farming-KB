@@ -5,7 +5,7 @@ tags: [mushroom, straw-substrate, yeast-extract, marmite, boil-a-bag, substrate-
 created: 2026-05-08
 ---
 
-# Straw Substrate Preparation with Yeast Extract for Mushroom Cultivation
+## Straw Substrate Preparation with Yeast Extract for Mushroom Cultivation
 
 ## Overview
 

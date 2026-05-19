@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Niche in Space and Time
+## Niche in Space and Time
 
 A **niche** is a place to be, to fit in, and find food, shelter, and room to operate. [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] how species partition these resources is essential for [[mollison-designers-sea-level-change-coastal-zones]], edge environments
 2. **Niche in time** — cycles of opportunity: seasonal [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] these three dimensions, there is always space or time available to increase turnover. Niches enable better utilisation and greater diversity, hence more yield.

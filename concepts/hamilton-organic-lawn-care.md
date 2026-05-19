@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# [[hamilton-composting-and-organic-matter-management]]. Level the surface, firm by
+## [[hamilton-composting-and-organic-matter-management]]. Level the surface, firm by
 treading, rake, and leave to settle before sowing or laying turf.
 
 ## Organic Lawn Maintenance

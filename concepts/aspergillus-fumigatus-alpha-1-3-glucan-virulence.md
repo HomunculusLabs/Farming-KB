@@ -6,7 +6,7 @@ topics: ["mycology", "fungal-pathogenesis", "cell-wall-biology", "immunology"]
 type: concept
 ---
 
-# α(1-3)-Glucan in Aspergillus fumigatus and Human Fungal Pathogens
+## α(1-3)-Glucan in Aspergillus fumigatus and Human Fungal Pathogens
 
 ## Overview
 

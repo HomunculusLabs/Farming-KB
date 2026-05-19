@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Ecological Succession and Community Dynamics
+## Ecological Succession and Community Dynamics
 
 Succession is the name given to the process of change and development in
 communities of [[savory-holistic-management-overview]] framework developed by [[allan-savory]]. Understanding

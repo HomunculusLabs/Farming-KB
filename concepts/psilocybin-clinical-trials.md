@@ -7,7 +7,7 @@ tags: [mycology, psychiatry, psychopharmacology, psychedelics, entheogen-researc
 sources: []
 ---
 
-# Psilocybin Clinical Trials
+## Psilocybin Clinical Trials
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Root Foraging Behavior
+## Root Foraging Behavior
 
 [[teaming-with-microbes-bacteria-and-archaea-in-soil]], tends to stimulate rapid but shallow root proliferation.
 Phosphate, which is relatively immobile, triggers more extensive exploration

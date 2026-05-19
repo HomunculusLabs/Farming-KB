@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Natural Seedlings Versus Grafted Nursery Stock
+## Natural Seedlings Versus Grafted Nursery Stock
 
 ## Core Concept
 

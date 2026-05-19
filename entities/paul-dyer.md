@@ -5,7 +5,7 @@ type: entity
 tags: [person, mycologist, researcher, nottingham, fungal-genetics]
 ---
 
-# Paul S. Dyer
+## Paul S. Dyer
 
 ## Description
 

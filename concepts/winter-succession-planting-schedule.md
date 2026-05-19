@@ -5,7 +5,7 @@ tags: [succession-planting, winter-growing, planting-schedule, season-extension,
 created: 2026-05-10
 ---
 
-# Winter Succession Planting Schedule
+## Winter Succession Planting Schedule
 
 Succession planting for [[coleman-succession-planting-winter-harvest]] planting. In spring, conditions are improving — day length is
 increasing, temperatures are rising, and growth accelerates. In fall, conditions

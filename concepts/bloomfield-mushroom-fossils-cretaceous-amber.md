@@ -5,7 +5,7 @@ source_id: bloomfield-orchard
 topics: [paleomycology, fossil-fungi, amber-preservation, cretaceous, basidiomycete-evolution]
 ---
 
-# Mushroom Fossils in Cretaceous Amber
+## Mushroom Fossils in Cretaceous Amber
 
 ## The Fungal Fossil Record
 

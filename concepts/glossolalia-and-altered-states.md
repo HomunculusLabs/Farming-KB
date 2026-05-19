@@ -17,7 +17,7 @@ created: 2026-05-11
 source: mckenna_t-tryptamines_consciousness.md
 ---
 
-# Glossolalia and Altered States
+## Glossolalia and Altered States
 
 Glossolalia—the spontaneous production of meaningless or foreign-sounding speech—occurs in diverse contexts including religious ceremonies, psychedelic experiences, and certain neurological conditions. In the context of tryptamine hallucinogens, glossolalia takes on a distinctive character that differs from the classical religious phenomenon and may provide insights into the relationship between language, consciousness, and altered states.
 

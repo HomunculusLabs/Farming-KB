@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Ring Garden (Atoll Technique)
+## Ring Garden (Atoll Technique)
 
 ## Description
 

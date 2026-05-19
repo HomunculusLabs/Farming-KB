@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# [[low-island-coral-cay-strategies|low-island-coral-cay-strategies|Low]] Island and Coral Cay Permaculture Strategies
+## [[low-island-coral-cay-strategies|low-island-coral-cay-strategies|Low]] Island and Coral Cay Permaculture Strategies
 
 Coral sand cays and low atolls present some of the most challenging environments for human habitation and food production. Lying predominantly within 28° of the equator, these fragile landforms demand exceptionally careful design to address the interrelated challenges of freshwater scarcity, hurricane vulnerability, poor soil nutrition, and limited dietary diversity. Permaculture strategies for these environments focus on working with natural systems—particularly the freshwater lens, coastal vegetation succession, and marine resources—to create sustainable and resilient island communities.
 

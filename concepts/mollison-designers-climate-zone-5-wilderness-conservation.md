@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Zone 5 - Wilderness and Conservation
+## Zone 5 - Wilderness and Conservation
 
 Zone 5 is the wilderness zone in [[fungal-succession-woody-debris-ecology]] for invertebrates, fungi, and small mammals
 - Diverse vegetation structure from ground layer to canopy

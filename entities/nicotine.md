@@ -17,7 +17,7 @@ sources:
   - Henningfield, J.E. et al. (2009). "The nicotine dependence syndrome." In: R. Palmer (Ed.), Nicotine and the Tobacco Smoking Habit. Oxford University Press.
   - Wonnacott, S. (1990). "The paradox of nicotinic acetylcholine receptor upregulation by nicotine." Trends in Pharmacological Sciences, 11(6), 216-219.
 ---
-# Nicotine
+## Nicotine
 
 ## Overview
 

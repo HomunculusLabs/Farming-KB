@@ -7,7 +7,7 @@ tags: [pruning, fruit-tree, orchard, agriculture, cultivation, techniques, plant
 sources: []
 ---
 
-# Pruning Fruit Trees
+## Pruning Fruit Trees
 
 Pruning is the selective removal of branches to shape the tree, improve fruit quality, increase light penetration, remove diseased or dead wood, and maintain tree health. Proper pruning is one of the most important skills for fruit tree care and directly affects yield, fruit size, and tree longevity.
 

@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Exopheromones and Cross-Species Communication
+## Exopheromones and Cross-Species Communication
 
 The concept of exopheromones represents a radical departure from
 conventional understanding of [[plant-intelligence-and-communication]] operate in the

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Series, Flow Arrangements, and Evolutionary Systems
+## Pond Series, Flow Arrangements, and Evolutionary Systems
 
 The arrangement of ponds — whether isolated, in parallel, in consecutive series, or nested within one another — profoundly affects their productivity, management requirements, and resilience. Understanding these configurations allows the designer to create aquaculture systems that cascade energy and nutrients through trophic levels, much as a natural watershed does.
 

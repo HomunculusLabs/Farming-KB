@@ -8,7 +8,7 @@ sources:
   - ""raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Fungal Diversity in Temperate and Boreal Forests
+## Fungal Diversity in Temperate and Boreal Forests
 
 Temperate and boreal forests represent major biomes that harbor
 distinctive and highly diverse fungal communities. While tropical

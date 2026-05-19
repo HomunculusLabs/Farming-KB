@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Magic Mushroom Tipping Point in 1970s America
+## Magic Mushroom Tipping Point in 1970s America
 
 ## How Psilocybin Knowledge Spread Through Folk Channels After the Leary
 ## Debacle

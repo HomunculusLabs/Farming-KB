@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, oyster-mushroom, pleurotus, cultivation]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
-# Oyster Mushroom Cultivation
+## Oyster Mushroom Cultivation
 Oyster mushrooms (Pleurotus spp.) are the easiest mushrooms to
 cultivate, making them ideal for beginners and commercial
 growers alike. They are aggressive colonizers, grow on dozens of

@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, ecology, botany, symbiosis]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mushrooms-fungi-from-around-the-world.md]
+sources: ["raw/papers/unknown-mushrooms-fungi-from-around-the-world.md"]
 type: concept
 ---
-# Mycorrhiza
+## Mycorrhiza
 
 Mycorrhiza (plural: mycorrhizae) is a symbiotic association between a fungus and the roots of a plant.
 The term, derived from the Greek words for "fungus" and "root," describes one of the most widespread and ecologically important mutualisms on Earth.

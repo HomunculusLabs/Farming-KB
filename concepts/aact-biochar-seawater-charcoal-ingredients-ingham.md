@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Biochar, Charcoal, and Seawater as Compost Tea Ingredients
+## Biochar, Charcoal, and Seawater as Compost Tea Ingredients
 
 [[elaine-ingham]]'s field guide explores unconventional [[compost]] tea ingredients including [[biochar]] (charcoal) and seawater, discussing their roles in supporting microbial communities and providing mineral nutrition.
 

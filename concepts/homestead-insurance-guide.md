@@ -7,7 +7,7 @@ tags: [homesteading, economics, regulation, law, business, safety]
 sources: []
 ---
 
-# Homestead Insurance Guide
+## Homestead Insurance Guide
 
 Insurance protects homestead businesses from financial catastrophe. As a farm or agricultural business, standard homeowner's policies do not cover most farm activities. This guide covers the types of insurance needed, what to look for, and how to manage costs.
 

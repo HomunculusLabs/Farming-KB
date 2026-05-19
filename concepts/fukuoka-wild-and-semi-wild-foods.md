@@ -3,7 +3,7 @@ title: Wild and Semi-Wild Foods — Nutrition Beyond Domestication
 created: 2026-05-08
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - path: /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
+  - path: raw/raw/papers/masanobu-fukuoka-fukuoka.md
     title: The One-Straw Revolution - masanobu-fukuoka
     author: masanobu-fukuoka
 updated: 2026-05-08
@@ -11,7 +11,7 @@ type: concept
 tags: [reference]
 ---
 
-# Wild and Semi-Wild Foods — Nutrition Beyond Domestication
+## Wild and Semi-Wild Foods — Nutrition Beyond Domestication
 
 ## Closeness to Wild Ancestors
 

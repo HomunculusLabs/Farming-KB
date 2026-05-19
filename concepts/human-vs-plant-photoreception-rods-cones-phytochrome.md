@@ -5,7 +5,7 @@ tags: [plant-biology, photoreception, vision, photoreceptor, phytochrome, photot
 created: 2026-05-10
 ---
 
-# Human vs Plant Photoreception: Rods, Cones, and Phytochrome Compared
+## Human vs Plant Photoreception: Rods, Cones, and Phytochrome Compared
 
 ## Overview
 

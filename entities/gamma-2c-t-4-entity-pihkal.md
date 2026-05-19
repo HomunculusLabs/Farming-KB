@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# gamma-2C-T-4
+## gamma-2C-T-4
 
 [[2c-b-pihkal-entry-20]] #42. 2,6-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE).
 

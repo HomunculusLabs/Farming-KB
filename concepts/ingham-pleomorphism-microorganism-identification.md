@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Pleomorphism and Microorganism Identification in Direct Microscopy
+## Pleomorphism and Microorganism Identification in Direct Microscopy
 
 Pleomorphism — the ability of a single microorganism to assume different forms — has significant implications for how soil organisms are identified, counted, and categorized in direct microscopy assessments. elaine ingham addresses these complexities in her field guide correspondence, clarifying the limitations and appropriate use of morphological [[ph-and-nutrient-availability-garden-soils]], moisture gradient, proximity to other colonies — not because the bacteria themselves are fundamentally different. Each colony represents the same organism expressing different phenotypes in response to local conditions.
 

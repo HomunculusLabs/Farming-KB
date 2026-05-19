@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Shamanic Trance: Cross-Cultural Patterns
+## Shamanic Trance: Cross-Cultural Patterns
 
 Shamanic trance — the deliberate induction of an altered state of consciousness for purposes of healing, divination, and communication with the spirit world — exhibits remarkably consistent patterns across diverse cultures worldwide. Evidence drawn from [[cashinahua-banisteriopsis-use]], the shaman's spirit travels to communicate with animal spirits; the [[naranjo-harmaline-yage-experiment]] confirmed that non-indigenous subjects given harmaline also experienced visions of predatory cats (tigers, leopards, jaguars) even though big cats are not native to Chile.
 

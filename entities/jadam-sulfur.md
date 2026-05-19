@@ -5,7 +5,7 @@ type: entity
 tags: [input, germicide, sulfur, organic, jadam, diy, fungicide]
 ---
 
-# JADAM Sulfur (JS)
+## JADAM Sulfur (JS)
 
 ## Description
 

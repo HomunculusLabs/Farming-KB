@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
-# Solomon on Choosing Seed Catalogs and Varieties
+## Solomon on Choosing Seed Catalogs and Varieties
 
 From [[seed-saving-techniques]]
 - [[solomon-growing-beans-and-peas]]

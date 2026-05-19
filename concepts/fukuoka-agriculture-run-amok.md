@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Agriculture Run Amok
+## Agriculture Run Amok
 
 In *The Road Back to Nature*, [[fukuoka-natural-fertility-cycle]]
 

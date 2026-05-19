@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, cultivation, processing, preservation, food-preservation, value-addition]
 ---
 
-# Mushroom Processing and Preservation
+## Mushroom Processing and Preservation
 
 ## Description
 

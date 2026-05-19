@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Mahayana vs Hinayana Natural Farming
+## Mahayana vs Hinayana Natural Farming
 
 In "The Natural Way of Farming," Masanobu Fukuoka draws on Buddhist terminology to
 categorize three distinct approaches to agriculture: **Mahayana natural farming**,

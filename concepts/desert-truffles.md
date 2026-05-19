@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md"
 ---
-# Desert Truffles
+## Desert Truffles
 
 Desert truffles are hypogeous (underground) fungi belonging to the genera Terfezia, Tirmania, Kalaharituber, and Picoa, found in arid and semi-arid regions worldwide. Unlike the prized European truffles of the genus Tuber, desert truffles associate with desert shrubs and trees rather than forest trees, and have been gathered as food for thousands of years across the Middle East, North Africa, and the Kalahari Desert.
 

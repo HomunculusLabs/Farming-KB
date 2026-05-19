@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Chinese Cabbage
+## Growing Chinese Cabbage
 
 Chinese cabbage is a close relative of mustard and has an almost irresistible tendency to go to seed before forming a head. Growing it successfully requires top-quality seed, highly fertile soil that is always moist, and precise knowledge about when to plant.
 

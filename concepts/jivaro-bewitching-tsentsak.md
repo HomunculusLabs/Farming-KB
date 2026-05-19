@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Jivaro Bewitching and Tsentsak Magical Darts
+## Jivaro Bewitching and Tsentsak Magical Darts
 
 Among the [[jivaro]] people of the Ecuadorian Amazon, the *[[tsentsak]]* — magical darts — form the central instrument of both shamanic power and sorcery. These objects exist in a dual state: their natural aspect is that of ordinary material objects (insects, thorns, bones), while their supernatural aspect, revealed only under the influence of *[[natem]]* ([[ayahuasca]]), transforms them into spirit helpers — demons in the forms of giant butterflies, jaguars, or monkeys who actively assist the shaman in his tasks.
 

@@ -1,4 +1,8 @@
-# Casing Soil Sterilization Debate — Autoclave vs Pasteurization
+---
+title: "Casing Soil Sterilization Debate — Autoclave vs Pasteurization"
+tags:
+  - concept
+---
 
 A significant disagreement exists among mushroom cultivators
 regarding whether casing soil should be sterilized (autoclaved) or

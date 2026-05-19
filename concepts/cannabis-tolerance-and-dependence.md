@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/blesching-cannabis-pain-management.md"
 ---
-# Cannabis Tolerance and Dependence
+## Cannabis Tolerance and Dependence
 
 Understanding tolerance, dependence, and the responsible management of cannabis use is essential for patients using cannabis as medicine over extended periods. While cannabis carries a significantly lower risk of dependence and [[blesching-cannabis-multiple-sclerosis]] times daily may notice significant tolerance within one to two weeks. Patients who use cannabis once daily may develop noticeable tolerance over several weeks to months. Patients who use cannabis occasionally (a few times per week or less) may develop very little tolerance.
 

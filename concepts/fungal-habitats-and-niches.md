@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, ecology, habitats, niches]
 date: 2026-04-28
 updated: 2026-05-01
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
 
-# Fungal Habitats and Niches
+## Fungal Habitats and Niches
 Fungi occupy virtually every habitat on Earth where organic matter is available.
 Their ecological versatility far exceeds that of plants or most animal groups,
 and many fungal species are adapted to extreme or specialized environments that

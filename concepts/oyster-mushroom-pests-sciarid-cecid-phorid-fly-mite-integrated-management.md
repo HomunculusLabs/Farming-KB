@@ -15,7 +15,7 @@ tags:
   - insect-vectors
 ---
 
-# Oyster Mushroom Pests — Flies and Mites Identification and Management
+## Oyster Mushroom Pests — Flies and Mites Identification and Management
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Leeks
+## Growing Leeks
 
 Depending on your climate, raising this slow-growing allium can be effortless or daunting. In a maritime climate, leeks grow effortlessly during mild periods and are harvested throughout winter. Where summers are short and winters severe, timing is critical.
 

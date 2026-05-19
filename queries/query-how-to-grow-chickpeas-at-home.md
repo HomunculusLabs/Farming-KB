@@ -11,7 +11,7 @@ sources:
 created: 2026-05-07
 type: query
 ---
-# How [[cover-crop]].
+## How [[cover-crop]].
 
 ## Why Grow Chickpeas?
 

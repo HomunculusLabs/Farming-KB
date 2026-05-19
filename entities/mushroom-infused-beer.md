@@ -5,7 +5,7 @@ type: entity
 tags: [beverage, brewing, medicinal, extraction, fermentation]
 ---
 
-# Mushroom-Infused Beer
+## Mushroom-Infused Beer
 
 ## Description
 

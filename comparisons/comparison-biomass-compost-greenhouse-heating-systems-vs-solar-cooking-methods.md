@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Biomass Compost Greenhouse Heating vs Solar Cooking Methods
+## Biomass Compost Greenhouse Heating vs Solar Cooking Methods
 
 ## Overview
 

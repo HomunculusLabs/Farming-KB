@@ -18,7 +18,7 @@ sources:
   - "Fungal Records Database of Britain and Ireland (FRDBI). https://www.fieldmycology.net/FRDBI/"
 ---
 
-# Hypoxylon fragiforme
+## Hypoxylon fragiforme
 
 **Hypoxylon fragiforme** is a pyrenomycetous ascomycete fungus in the family Xylariaceae, commonly known as the beech woodwart. It is one of the most frequently encountered carbonaceous fungi on dead beech wood in temperate forests of Europe and [[hypoxylon-fuscum]]* (on birch) or *H. rubiginosum* (on oak). Mature material with exposed ostiolar discs is distinctive and readily identifiable in the field.
 

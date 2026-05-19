@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Annidations and Edge Effect Configuration
+## Pond Annidations and Edge Effect Configuration
 
 ## Overview
 

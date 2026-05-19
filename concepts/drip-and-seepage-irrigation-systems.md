@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Drip and Seepage Irrigation Systems
+## Drip and Seepage Irrigation Systems
 
 ## Overview
 

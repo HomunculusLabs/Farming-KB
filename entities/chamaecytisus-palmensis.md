@@ -8,7 +8,7 @@ sources: [a-selection-permaculture|permaculture-plants.md]
 type: entity
 ---
 
-# Chamaecytisus palmensis
+## Chamaecytisus palmensis
 
 **Type:** Species
 **Category:** Nitrogen-fixing fodder shrub/tree

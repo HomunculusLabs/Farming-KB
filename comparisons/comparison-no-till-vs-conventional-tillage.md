@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# No-Till vs Conventional Tillage
+## No-Till vs Conventional Tillage
 
 ## Overview
 

@@ -21,7 +21,7 @@ sources:
   - "Tita, B. et al. (2009). \"Chelidonium majus: acute toxicity of alkaloid fractions.\" Phytotherapy Research, 23(5), 667–672."
 ---
 
-# Greater Celandine (*Chelidonium majus*)
+## Greater Celandine (*Chelidonium majus*)
 
 ## Overview
 

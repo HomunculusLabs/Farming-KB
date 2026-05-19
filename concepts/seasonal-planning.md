@@ -29,7 +29,7 @@ sources:
 - https://sustainablemarketfarming.com/
 ---
 
-# Seasonal Planning — USDA Zone 7-8
+## Seasonal Planning — USDA Zone 7-8
 
 A comprehensive monthly calendar integrating annual vegetables, perennials, cannabis, animal husbandry, composting, and infrastructure tasks. Zone 7-8 last frost: ~April 5-15. First frost: ~October 25-November 5. Growing season: 180-210 days.
 

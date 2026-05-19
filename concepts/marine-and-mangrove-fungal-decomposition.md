@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Marine and Mangrove Fungal Decomposition
+## Marine and Mangrove Fungal Decomposition
 
 ## Overview
 

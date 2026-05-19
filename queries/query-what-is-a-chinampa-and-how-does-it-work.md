@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is a Chinampa and How Does It Work
+## What Is a Chinampa and How Does It Work
 
 ## Short Answer
 A chinampa is an ancient Mesoamerican agricultural system consisting of artificial

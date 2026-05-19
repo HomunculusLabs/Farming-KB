@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, ecology, symbiosis, mycorrhiza]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
 
-# Mycorrhizal Network Diversity
+## Mycorrhizal Network Diversity
 
 Mycorrhizal fungi form mutualistic associations with the roots of over 80% of terrestrial plant species, creating extensive belowground networks that are fundamental to ecosystem functioning. The diversity of mycorrhizal fungi is enormous and profoundly understudied, with the majority of species remaining undescribed. These symbiotic relationships are among the oldest and most widespread mutualisms on Earth, with fossil evidence dating back over 400 million years to the earliest land plants.
 

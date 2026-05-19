@@ -22,7 +22,7 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-# FMC Application and Troubleshooting
+## FMC Application and Troubleshooting
 
 Application rates, soil treatment solution (SOS), Carandang's bokashi alternative, and troubleshooting for Fermented Mixed Compost. See [[fermented-mixed-compost-fmc]] for the two FMC methods and quality indicators.
 

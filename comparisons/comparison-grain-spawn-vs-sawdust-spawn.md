@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Grain Spawn vs Sawdust Spawn
+## Grain Spawn vs Sawdust Spawn
 
 ## Overview
 Grain spawn and sawdust spawn are the two primary types of fungal

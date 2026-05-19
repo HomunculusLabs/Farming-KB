@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Candida albicans Molecular Epidemiology and MLST
+## Candida albicans Molecular Epidemiology and MLST
 
 ## Overview
 

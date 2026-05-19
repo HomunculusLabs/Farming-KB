@@ -17,7 +17,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Jícama (Pachyrhizus erosus)
+## Jícama (Pachyrhizus erosus)
 
 ## Overview
 Pachyrhizus erosus, commonly known as jícama (Spanish: /ˈxikama/), is a climbing legume

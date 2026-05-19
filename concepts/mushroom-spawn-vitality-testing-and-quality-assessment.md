@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Spawn Vitality Testing and Quality Assessment
+## Mushroom Spawn Vitality Testing and Quality Assessment
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [permaculture, earthworks, living-soil, soil, water-management, cultivatio
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-# Holzer Raised Bed Design
+## Holzer Raised Bed Design
 
 Raised beds are central to Sepp Holzer's permaculture system. They are built with bulky organic material at their core, which breaks down to provide long-term nutrient supply and moisture retention.
 

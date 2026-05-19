@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Direct-Seeded No-Tillage Rice and Barley
+## Direct-Seeded No-Tillage Rice and Barley
 
 Fukuoka's signature practical method is what he calls "direct-seeded, no-tillage,
 [[fukuoka-clover-cover-cropping-soil-ecology]]." This system produces approximately

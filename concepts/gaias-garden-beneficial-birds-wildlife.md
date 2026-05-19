@@ -8,7 +8,7 @@ type: concept
 tags: [gardening, wildlife]
 ---
 
-# Beneficial Birds and Wildlife in the Garden
+## Beneficial Birds and Wildlife in the Garden
 
 Birds and other wildlife play critical roles in the [[gaias-garden-living-plant-systems-insectary]], grasses and herbs that yield seeds, and shrubs and trees with nuts, fruit, and berries. A wide variety of species to continuously provide food over a long season is best. Many fruits and berries hang on into winter, inviting birds year-round.
 

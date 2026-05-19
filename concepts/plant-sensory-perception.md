@@ -1,4 +1,8 @@
-# Plant Sensory Perception
+---
+title: "Plant Sensory Perception"
+tags:
+  - concept
+---
 
 Based on [[ghouled-field-guide-historical-context]] to the Senses* (2012).
 

@@ -4,7 +4,7 @@ created: 2025-05-08
 tags: [agroforestry, permaculture, fencing, windbreak, livestock, polyculture]
 ---
 
-# Living Fences and Hedgerows
+## Living Fences and Hedgerows
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Extending Diet and [[tropical-island-diet-diversification-and-energy-resources|island-diet-diversification-and-resource-systems|Island]] [[ecological-niche|ecological niche]]s.
+## Extending Diet and [[tropical-island-diet-diversification-and-energy-resources|island-diet-diversification-and-resource-systems|Island]] [[ecological-niche|ecological niche]]s.
 
 ## Nutritional Challenges of Limited Island Diets
 

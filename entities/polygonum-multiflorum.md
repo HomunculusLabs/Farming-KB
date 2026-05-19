@@ -31,7 +31,7 @@ sources:
     Phytochemistry, 22(1), 79-81.
 ---
 
-# Polygonum multiflorum
+## Polygonum multiflorum
 
 ## Overview
 

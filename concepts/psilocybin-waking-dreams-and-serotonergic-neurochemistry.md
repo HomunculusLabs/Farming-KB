@@ -8,7 +8,7 @@ type: concept
 tags: [chemistry, psilocybin]
 ---
 
-# Psilocybin, Waking Dreams, and Serotonergic Neurochemistry
+## Psilocybin, Waking Dreams, and Serotonergic Neurochemistry
 
 Simon G. Powell's "The Psilocybin Solution" presents a detailed neurochemical model for how psilocybin alters consciousness, centering on the brain's serotonergic systems. Powell draws upon research from the 1960s onward to explain the mechanisms by which entheogenic fungi induce visionary states that resemble a unique form of dreaming while awake.
 

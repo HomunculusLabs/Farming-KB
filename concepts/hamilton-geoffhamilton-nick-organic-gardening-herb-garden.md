@@ -8,7 +8,7 @@ sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
 type: concept
 ---
 
-# Herb Garden
+## Herb Garden
 
 Herbs should always be included in the organic garden, for both practical
 and aesthetic reasons. They are generally not difficult to grow and most

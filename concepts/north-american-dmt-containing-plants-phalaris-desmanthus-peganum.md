@@ -5,7 +5,7 @@ tags: [dmt, psychotropic-plants, phalaris, desmanthus, peganum, passiflora, ayah
 created: 2026-05-08
 ---
 
-# North American [[tihkal-oral-activity-mao-inhibition]] grow commonly throughout
+## North American [[tihkal-oral-activity-mao-inhibition]] grow commonly throughout
 the [[harmine]], [[mckenna-food-gods-peganum-harmala-soma]]. Widely available as a dietary supplement and herbal tea.
 Its dual use as both a mild MAOI source and a common herbal remedy illustrates
 the difficulty of regulating plants based on psychoactive constituents.

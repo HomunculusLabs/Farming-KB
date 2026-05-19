@@ -9,7 +9,7 @@ sources:
   - raw/papers/chos-global-natural-farming.md
 ---
 
-# KNF Fermented Fruit Juice (FFJ)
+## KNF Fermented Fruit Juice (FFJ)
 
 Fermented Fruit Juice is made by extracting plant juice using [[fungal-fruiting-body-mechanics-osmotic-pressure]] from brown sugar. FFJ provides hormones, nutrients, enzymes, and bio-active substances to plants and microorganisms.
 

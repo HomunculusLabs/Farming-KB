@@ -6,7 +6,7 @@ type: concept
 tags: [neurotropic-fungi, thailand, southeast-asia, mycology, distribution, psilocybe-cubensis, copelandia, ethnobotany]
 ---
 
-# Thailand and Southeast Asian Psychoactive Fungi
+## Thailand and Southeast Asian Psychoactive Fungi
 
 ## Overview
 

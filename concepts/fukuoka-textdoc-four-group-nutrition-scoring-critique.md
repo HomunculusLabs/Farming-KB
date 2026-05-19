@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Critique of the Four-Group Nutrition Scoring Method
+## Critique of the Four-Group Nutrition Scoring Method
 
 In *The Natural Way of Farming*, [[fukuoka-textdoc-four-types-of-diet-classification]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

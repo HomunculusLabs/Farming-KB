@@ -4,7 +4,7 @@ source: "S.T. Oner — The Rev: Cannabis Sativa Vol. 3"
 tags: [cannabis, sativa, strain-profile, bubba-kush, riot-seeds, indoor-growing, pain-relief, depression, nausea, hybrid, orgnkid]
 ---
 
-# Bubba Sativa — Wicked Bubba × Bubba Kush Sativa Pheno
+## Bubba Sativa — Wicked Bubba × Bubba Kush Sativa Pheno
 
 Bubba Sativa (also known as Wicked Bubba or Orgnkid's Sativa Pheno) is a
 sativa-dominant hybrid created by Riot Seeds that bridges the gap between indica

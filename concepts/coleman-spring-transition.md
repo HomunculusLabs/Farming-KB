@@ -13,7 +13,7 @@ sources:
   - eliot-coleman (2009). "The cold-house-winter-harvest-system Handbook." Chelsea Green.
 ---
 
-# Spring Transition from Winter Harvest to Summer Cropping
+## Spring Transition from Winter Harvest to Summer Cropping
 
 The transition from winter harvest to summer cropping is one of the most
 critical management periods on a four-season farm. At [[coleman-semi-hibernating-winter-crops-harvest-extension]] with the startup of spring and summer plantings in the same

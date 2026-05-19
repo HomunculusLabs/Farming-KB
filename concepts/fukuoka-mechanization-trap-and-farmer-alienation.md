@@ -9,7 +9,7 @@ sources: [administrator-microsoft-word-fukuoka-textdoc.md]
 type: concept
 ---
 
-# Mechanization Trap and Farmer Alienation
+## Mechanization Trap and Farmer Alienation
 
 [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] goes beyond a simple 
 preference for hand tools. In The One-Straw Revolution and related writings, 

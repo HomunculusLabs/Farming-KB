@@ -4,7 +4,7 @@ source: grahamholmes-what-a-plant-knowsindd.md
 tags: [plant-biology, epigenetics, gene-memory, vernalization, chamovitz, plant-intelligence]
 ---
 
-# Plant Epigenetic Memory and Gene-Based Remembering
+## Plant Epigenetic Memory and Gene-Based Remembering
 
 In Chapter 6 of "What a Plant Knows," [[plant-memory]] — not memory in the neurological sense, but a form of biological
 information storage encoded in gene expression patterns, protein modifications,

@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Pruning as Destruction of Natural Tree Form
+## Pruning as Destruction of Natural Tree Form
 
 Fukuoka argues that pruning is one of the most destructive practices
 in modern [[ingham-natural-growth-regulators-soil-microbes]] processes of

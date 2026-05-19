@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Nameko Mushroom Cultivation
+## Nameko Mushroom Cultivation
 
 The nameko (*[[pholiota-nameko]]*) is a popular [[classification-of-cultivated-mushroom-species]] in Japan that remains underappreciated in Western markets, largely due to its characteristic slimy cap surface. Despite this textural challenge, the nameko is delicious with a sweet, nutty flavor and meaty texture, and serves as one of the main ingredients in traditional miso soup. Namekos are remarkably prolific when cultivated outdoors on buried hardwood logs, capable of producing astonishing fruitings that can completely cover the surface of inoculated wood. The species is a cold-season fruiter, requiring specific temperature windows to initiate production.
 

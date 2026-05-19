@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Spreader Banks and Irrigation Bays
+## Spreader Banks and Irrigation Bays
 
 Spreader banks (also called spreader broads) and irrigation bays are earthwork
 systems designed to distribute surplus water efficiently across broad landscapes.

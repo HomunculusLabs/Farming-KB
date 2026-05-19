@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [fruiting, abnormalities, CO2, temperature, humidity]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Fruiting Body Abnormalities in Oyster Mushrooms
+## Fruiting Body Abnormalities in Oyster Mushrooms
 
 The formation and growth of oyster [[pf-tek-substrate-moisture-diagnosis-and-correction]] content. Improper balance of
 these factors induces various deformations that reduce quality and yield.

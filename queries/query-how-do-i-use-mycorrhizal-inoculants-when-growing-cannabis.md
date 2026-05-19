@@ -13,7 +13,7 @@ sources: []
 type: query
 ---
 
-# How Do I Use Mycorrhizal Inoculants When Growing Cannabis?
+## How Do I Use Mycorrhizal Inoculants When Growing Cannabis?
 
 ## Overview
 

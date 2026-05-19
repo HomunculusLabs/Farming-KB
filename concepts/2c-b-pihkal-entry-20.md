@@ -7,7 +7,7 @@ type: concept
 tags: [phenethylamine, shulgin]
 ---
 
-# 2C-B
+## 2C-B
 
 4-Bromo-2,5-dimethoxyphenethylamine
 

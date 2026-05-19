@@ -5,7 +5,7 @@ type: entity
 tags: [plant, solanaceae, antidote, alkaloid, pharmacology, nightshade]
 ---
 
-# Belladonna (Atropa belladonna)
+## Belladonna (Atropa belladonna)
 
 ## Description
 

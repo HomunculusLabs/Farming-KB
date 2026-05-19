@@ -5,7 +5,7 @@ type: entity
 tags: [soil-science, geology, permaculture, cold-climate]
 ---
 
-# Loess Deposits
+## Loess Deposits
 
 ## Description
 

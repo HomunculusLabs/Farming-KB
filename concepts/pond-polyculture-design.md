@@ -4,7 +4,7 @@ source: bill-[[mollison-pdc-small-pond-frog-habitat-design|mollison]]-permacultu
 type: concept
 ---
 
-# Pond Polyculture and Integrated Aquaculture Design
+## Pond Polyculture and Integrated Aquaculture Design
 
 ## Overview
 

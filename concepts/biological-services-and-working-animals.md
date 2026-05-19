@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Biological Services and Working Animals
+## Biological Services and Working Animals
 
 Biological services and working animals represent a foundational [[permaculture]] principle:
 harnessing the inherent capacities of living organisms to perform functions that would

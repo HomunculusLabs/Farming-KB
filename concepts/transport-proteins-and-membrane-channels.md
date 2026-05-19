@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Transport Proteins and Membrane Channels in Plant Cells
+## Transport Proteins and Membrane Channels in Plant Cells
 
 Every molecule that enters or exits a plant cell must cross at least one lipid bilayer membrane. Because most nutrient ions cannot pass through the hydrophobic interior of the phospholipid membrane on their own, plants have evolved an elaborate system of **transport proteins** embedded in their cellular membranes. These proteins serve as highly specific gates, channels, and pumps that regulate the flow of virtually all molecular traffic into and out of plant cells. Plants dedicate an enormous proportion of their genome to producing these proteins—a testament to their critical importance.
 

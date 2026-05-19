@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Health and Conservation
+## Soil Health and Conservation
 
 Soil is the foundation of all terrestrial life and the most critical resource in permaculture design. Despite centuries of study, the world is losing topsoil at an ever-increasing rate. Australia, for example, has perhaps only 30% of its original soils in fair condition. The rest have been washed or blown away, or sadly depleted in structure and yield — a pattern true of most countries where extractive agriculture and forestry occurs.
 

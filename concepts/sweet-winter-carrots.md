@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Sweet Winter Carrots
+## Sweet Winter Carrots
 
 Sweet winter carrots represent one of the most acclaimed crops in the unheated winter greenhouse system. Unlike conventional carrots that lose sweetness after harvest, winter carrots stored in-ground under cold protection develop progressively sweeter, more complex flavors as the season advances. This section covers the complete system for producing, storing, and marketing premium winter carrots.
 

@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cell-biology, growth, fungal-biology, biophysics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
-# Hyphal Growth Dynamics
+## Hyphal Growth Dynamics
 Hyphal growth is the fundamental mode of vegetative expansion
 in [[hyphal-branching-regulation-nutrient-sensing-gadd]] is a critical feature of [...
 production from filamentous fungi, developing myco-materials

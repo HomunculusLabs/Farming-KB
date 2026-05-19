@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# DMT in Amazonian Ecosystems
+## DMT in Amazonian Ecosystems
 
 ## The Amazon as a Treasure House of Psychoactives
 

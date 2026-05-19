@@ -11,7 +11,7 @@ sources:
 type: query
 ---
 
-# How to Grow Mushrooms on Master's Mix Substrate
+## How to Grow Mushrooms on Master's Mix Substrate
 
 ## Short Answer
 Master's Mix is a high-yield [[accessible-mushroom-cultivation-for-disabilities]], this formulation produces significantly higher yields than traditional

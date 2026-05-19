@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Liebig's Law of the Minimum
+## Liebig's Law of the Minimum
 
 Liebig's [[law-of-the-minimum]] is one of the most fundamental principles in plant nutrition and [[fukuoka-critique-agricultural-science-laws-liebig]]. First articulated by German chemist **[[justus-von-liebig]]** in the mid-19th century, the law states that plant growth is not controlled by the total amount of resources available, but rather by the **single nutrient that is in shortest supply** relative to the plant's needs.
 

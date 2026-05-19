@@ -20,7 +20,7 @@ sources:
   - EL-Shazly AM et al. Tamarindus indica. Pharmacogn Rev. 2017;11(21):10-17.
 ---
 
-# Tamarind Cultivation and Uses
+## Tamarind Cultivation and Uses
 
 **Tamarindus indica** (Fabaceae: Caesalpinioideae) is a long-lived, slow-growing tropical fruit tree native to the dry savannas of sub-Saharan Africa, where it has been cultivated for millennia. Revered as the "tree of life" across South Asia, the Middle East, and Latin America, tamarind ranks among the world's most versatile multipurpose trees — providing fruit, timber, medicine, fodder, shade, and [[cannabis-vegetative-growth-stage]] but fruit quality can decline in very high humidity. Fungal issues increase. Trees prefer a distinct dry season.
 

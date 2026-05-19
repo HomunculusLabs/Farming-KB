@@ -1,4 +1,8 @@
-# Psilocybin Clinical Trial Landscape 2020–2025
+---
+title: "Psilocybin Clinical Trial Landscape 2020–2025"
+tags:
+  - concept
+---
 
 ## Overview
 

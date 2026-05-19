@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka's Spiritual and Philosophical Foundation
+## Fukuoka's Spiritual and Philosophical Foundation
 
 **Updated:** 2026-04-18
 

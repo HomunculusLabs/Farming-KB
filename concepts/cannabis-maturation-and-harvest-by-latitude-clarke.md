@@ -8,7 +8,7 @@ sources:
   - raw/papers/marijuana-botany-robert-connell-clarke.md
 ---
 
-# Cannabis Maturation and Harvest by Latitude (Clarke)
+## Cannabis Maturation and Harvest by Latitude (Clarke)
 
 ## Maturation Fundamentals
 

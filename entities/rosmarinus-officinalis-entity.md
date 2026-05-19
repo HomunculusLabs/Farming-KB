@@ -10,7 +10,7 @@ sources:
   - ""raw/papers/a-selection-permaculture-plants.md"
 ---
 
-# Rosmarinus officinalis
+## Rosmarinus officinalis
 
 Rosmarinus officinalis (rosemary) is a woody, perennial evergreen herb in the family Lamiaceae, native to the Mediterranean basin. One of the most recognized and widely cultivated [[panax-ginseng]], and symbolic significance for over two millennia. The species is exceptionally drought-tolerant, long-lived (individual plants can survive 30+ years), and well-suited to permaculture systems as a permanent woody element providing year-round harvest, pollinator forage, and [[permaculture-designers-manual-essential-oil-plants]], dominated by 1,8-cineole, α-pinene, and camphor, has demonstrated antimicrobial, anti-inflammatory, nootropic, and antioxidant activities. Recent research on rosmarinic acid and carnosic acid has generated significant interest in rosemary as a functional food and neuroprotective agent.
 

@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, foraging, species, ecology, mycorrhizae, asia, economic
 sources: []
 ---
 
-# Matsutake Mushroom ([[tricholoma-matsutake|Tricholoma matsutake]])
+## Matsutake Mushroom ([[tricholoma-matsutake|Tricholoma matsutake]])
 
 The Matsutake is arguably the most valuable mushroom in the world by weight, with prime specimens commanding prices exceeding $1,000 per pound in Japanese markets. Despite intense demand spanning centuries, matsutake has never been successfully cultivated commercially — it remains one of the few ultra-premium foods that can only be wild-harvested.
 

@@ -25,7 +25,7 @@ sources:
 - concepts/aquaponics.md
 ---
 
-# Cannabis Growing Mediums Comparison
+## Cannabis Growing Mediums Comparison
 
 The growing medium is the foundation of any cannabis cultivation system. It determines nutrient availability, root health, microbial activity, water management, and ultimately bud quality. This comparison covers eight major approaches from fully organic living soil to high-tech aeroponics, synthesized from [[cannabis-living-soil-guide]], [[cannabis-plant-nutrition]], [[soil-food-web-nutrient-cycling]], and [[aquaponics]].
 

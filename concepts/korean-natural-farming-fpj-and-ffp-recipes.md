@@ -7,7 +7,7 @@ tags: [agriculture, homesteading]
 sources:
   - "raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"
 ---
-# Korean Natural Farming FPJ and FFP Recipes
+## Korean Natural Farming FPJ and FFP Recipes
 
 [[natural-farming-inputs-cho]] that provide plants with bioavailable nutrients, [[cannabis-vegetative-growth-stage]]
 - Enhances flowering and fruiting (depends on plant used)

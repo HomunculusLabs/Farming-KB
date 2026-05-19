@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Amanita Muscaria Biology: Mycelium and Ectomycorrhizal Symbiosis
+## Amanita Muscaria Biology: Mycelium and Ectomycorrhizal Symbiosis
 
 ## Mushrooms as Fungal Fruit
 

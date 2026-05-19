@@ -5,7 +5,7 @@ type: entity
 tags: [genus, basidiomycete, saprotroph, litter-decomposer, tropical]
 ---
 
-# Marasmius
+## Marasmius
 
 ## Description
 

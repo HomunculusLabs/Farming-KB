@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, cultivation, waste-management, recycling, composting, sustainability]
 ---
 
-# Mushroom Waste Management and Recycling
+## Mushroom Waste Management and Recycling
 
 ## Description
 

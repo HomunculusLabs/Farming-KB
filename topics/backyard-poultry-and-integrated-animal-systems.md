@@ -35,7 +35,7 @@ related_concepts:
   - holistic-grazing-and-pasture-management
 ---
 
-# Backyard Poultry and Integrated Animal Systems
+## Backyard Poultry and Integrated Animal Systems
 
 In a well-designed homestead or small farm, animals are not separate from the
 garden — they are woven into every zone, performing essential functions that
@@ -80,4 +80,4 @@ Bill Mollison placed animal integration within a broader framework of
 
 ## Paddock System for Pigs
 
-# Paddock System for Pigs ## Overview On the Krameterhof, all land is managed as part of a paddock system. All livestock are kept outside the whole year round. Animals that have their natural needs fulfilled remain healthy and happy, grow well, and provide good offspring. The system moves in a circle, making additional feeding unnecessary because the animals work for themselves. ## Stocking Rate Depending on soil conditions and vegetation, Sepp Holzer keeps between three and twelve pigs per hectare in a paddock. ...
+## Paddock System for Pigs ## Overview On the Krameterhof, all land is managed as part of a paddock system. All livestock are kept outside the whole year round. Animals that have their natural needs fulfilled remain healthy and happy, grow well, and provide good offspring. The system moves in a circle, making additional feeding unnecessary because the animals work for themselves. ## Stocking Rate Depending on soil conditions and vegetation, Sepp Holzer keeps between three and twelve pigs per hectare in a paddock. ...

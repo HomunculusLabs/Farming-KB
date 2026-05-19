@@ -7,7 +7,7 @@ tags: [entheogen, recipe, preparation, ethnobotany, amazon, south-america, psych
 sources: []
 ---
 
-# Ayahuasca Brewing Guide
+## Ayahuasca Brewing Guide
 
 ## Overview
 

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Wind Protection for Outdoor Cannabis
+## Wind Protection for Outdoor Cannabis
 
 Wind is one of the strongest forces affecting
 outdoor cannabis gardens. Sustained wind will

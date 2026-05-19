@@ -1,4 +1,8 @@
-# Fukuoka's Straw Mulch System: Fertility, Weed Suppression, and Soil Building
+---
+title: "Fukuoka's Straw Mulch System: Fertility, Weed Suppression, and Soil Building"
+tags:
+  - concept
+---
 
 ## Overview
 

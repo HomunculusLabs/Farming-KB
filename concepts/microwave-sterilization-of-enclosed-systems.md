@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Microwave Sterilization of Enclosed Systems
+## Microwave Sterilization of Enclosed Systems
 
 [[microwave-penetration-through-elastomeric-materials-sterilization]] and sterilize the internal surfaces
 of fully sealed or enclosed assemblies. This finding is critical for

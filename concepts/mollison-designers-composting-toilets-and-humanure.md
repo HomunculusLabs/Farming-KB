@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Composting Toilets and Humanure in Permaculture
+## Composting Toilets and Humanure in Permaculture
 
 The cycling of human waste back into productive systems is one of the most
 important yet most contentious aspects of [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]], Mollison argues that the conventional

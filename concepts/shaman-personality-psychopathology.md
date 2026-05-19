@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Shaman Personality Structure and Psychopathology
+## Shaman Personality Structure and Psychopathology
 
 ## Overview
 

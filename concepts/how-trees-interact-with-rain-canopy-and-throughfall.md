@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# How Trees Interact With Rain — Canopy and Throughfall
+## How Trees Interact With Rain — Canopy and Throughfall
 
 ## The Problem of Bare Soil Under Rain
 

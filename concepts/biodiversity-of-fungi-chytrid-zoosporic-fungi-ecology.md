@@ -4,7 +4,7 @@ source: biodiversity-of-fungi-biodiversity-patterns-ecosystems (Mueller, Bills &
 concepts: [chytridiomycota, zoospores, zygomycota, glomales, early-fungal-evolution]
 ---
 
-# Chytrid and Zoosporic Fungi — Early-Diverging Fungal Lineages
+## Chytrid and Zoosporic Fungi — Early-Diverging Fungal Lineages
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: concept
 tags: [homesteading, self-sufficiency]
 sources: []
 ---
-# Sustainable Living Habits for Homesteads Updated: 2026-04-18 Sustainable living on a homestead involves reducing resource consumption, minimizing waste, and maximizing self-sufficiency through intentional daily practices. These habits apply whether living in a [[straw-bale-construction]] and  methods when feasible
+## Sustainable Living Habits for Homesteads Updated: 2026-04-18 Sustainable living on a homestead involves reducing resource consumption, minimizing waste, and maximizing self-sufficiency through intentional daily practices. These habits apply whether living in a [[straw-bale-construction]] and  methods when feasible
 - Consider permaculture-solar-energy-inventions if site conditions allow
 
 ## Recycling and Reuse

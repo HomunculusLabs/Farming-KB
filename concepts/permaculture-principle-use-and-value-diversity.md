@@ -8,7 +8,7 @@ sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Permaculture Principle 10 — Use and Value Diversity
+## Permaculture Principle 10 — Use and Value Diversity
 
 The tenth of David Holmgren's twelve permaculture design principles. The great diversity of forms, functions, and interactions in nature and humanity are the source for evolved systemic complexity. Diversity needs to be seen as a result of the balance and tension between variety and possibility on one hand, and productivity and power on the other.
 

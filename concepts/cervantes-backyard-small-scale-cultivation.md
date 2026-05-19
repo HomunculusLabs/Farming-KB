@@ -19,7 +19,7 @@ synonyms:
 type: concept
 ---
 
-# Backyard and Small-Scale Cannabis Cultivation
+## Backyard and Small-Scale Cannabis Cultivation
 
 For growers fortunate enough to live in countries or regions that tolerate
 cannabis, backyard cultivation offers the opportunity to give plants the

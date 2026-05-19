@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, europe, grassland]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md]
+sources: ["raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"]
 ---
 
-# Psilocybe marginalis
+## Psilocybe marginalis
 
 **Psilocybe marginalis** is a species of psilocybin-containing mushroom in the family Hymenogastraceae, known from European grassland habitats. It is one of the less commonly encountered psychoactive Psilocybe species and has a somewhat uncertain taxonomic history within the genus.
 

@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Industrial Scale, Speed and Corporate Growth
+## Industrial Scale, Speed and Corporate Growth
 
 > Industrial society has reorganised human systems around concentrated energy sources, creating scale mismatches that lie at the heart of unsustainability.
 

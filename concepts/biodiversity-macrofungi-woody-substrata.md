@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, macrofungi, wood-inhabiting, lignicolous, collection-methods]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
-# Macrofungi on Woody Substrata
+## Macrofungi on Woody Substrata
 
 [[macrofungi-seasonality-annual-variation]] in sporocarp production can be enormous: only 5% to
 20% of ectomycorrhizal species at eight sites in Olympic National Park fruited

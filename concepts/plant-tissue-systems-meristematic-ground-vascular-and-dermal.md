@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Plant Tissue Systems: Meristematic, Ground, Vascular, and Dermal
+## Plant Tissue Systems: Meristematic, Ground, Vascular, and Dermal
 
 Plants are organized into four types of tissue, each composed of specialized cells that carry out distinct functions. All plant cells start as undifferentiated meristematic cells, which then differentiate into the three mature tissue types: ground, vascular, and dermal. Understanding these tissue systems is essential for understanding how plants grow, transport nutrients, and protect themselves.
 

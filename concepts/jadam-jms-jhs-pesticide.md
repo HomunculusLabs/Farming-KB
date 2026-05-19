@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# JMS-JHS Pesticide (JADAM Combination)
+## JMS-JHS Pesticide (JADAM Combination)
 
 **Updated:** 2026-04-18
 **Source:** JADAM [[jadam-herb-solution-jhs]] and [[comparison-jerusalem-artichoke-vs-potato]] [[cervantes-pest-disease-prevention-overview]] |

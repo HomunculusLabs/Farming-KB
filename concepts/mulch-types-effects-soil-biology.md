@@ -9,7 +9,7 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
 ---
 
-# Mulch Types and Effects on Soil Biology
+## Mulch Types and Effects on Soil Biology
 
 Updated: 2026-04-18
 

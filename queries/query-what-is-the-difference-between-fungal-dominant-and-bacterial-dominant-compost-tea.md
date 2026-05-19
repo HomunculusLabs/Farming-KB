@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between Fungal and Bacterial Dominant Compost Tea?
+## What Is the Difference Between Fungal and Bacterial Dominant Compost Tea?
 
 ## Short Answer
 [[aact-disease-suppression-recipes]], and plant [[bloomfield-fungal-biology-and-hyphal-growth]] is needed. Fungi require

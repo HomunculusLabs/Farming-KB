@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [reference]
 ---
 
-# Swiss Psycholytic Therapy Program (1988-1993)
+## Swiss Psycholytic Therapy Program (1988-1993)
 
 Switzerland holds a unique place in the history of [[mckenna-suppression-psychedelic-research-lsd-therapy]] in an otherwise globally prohibitionist era.
 

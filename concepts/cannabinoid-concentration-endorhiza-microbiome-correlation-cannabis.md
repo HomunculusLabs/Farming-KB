@@ -15,7 +15,7 @@ sources:
   - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Cannabinoid Concentration and Endorhiza Microbiome Correlation in Cannabis
+## Cannabinoid Concentration and Endorhiza Microbiome Correlation in Cannabis
 
 ## Overview
 

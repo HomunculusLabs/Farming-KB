@@ -1,4 +1,8 @@
-# Species Sequencing and Substrate Utilization
+---
+title: "Species Sequencing and Substrate Utilization"
+tags:
+  - concept
+---
 
 Species sequencing is the practice of introducing multiple mushroom species in
 succession on the same substrate to maximize total biological value extraction.

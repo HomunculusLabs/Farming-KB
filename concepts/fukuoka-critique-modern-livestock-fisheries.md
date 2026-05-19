@@ -11,7 +11,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Fukuoka Critique of Modern Livestock and Fisheries
+## Fukuoka Critique of Modern Livestock and Fisheries
 
 Masanobu Fukuoka extends his [[natural-diet]] for animals as much as
 for humans:

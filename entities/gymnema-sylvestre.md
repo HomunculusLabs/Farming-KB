@@ -22,7 +22,7 @@ sources:
     action on blood glucose." Phytotherapy Research, 31(9), 1336-1341.
 ---
 
-# Gymnema sylvestre
+## Gymnema sylvestre
 
 ## Overview
 

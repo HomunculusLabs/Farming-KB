@@ -8,7 +8,7 @@ sources: [greg-green-the-cannabis-grow-bible.md]
 type: concept
 ---
 
-# Cannabis Harvesting, Drying, and Curing
+## Cannabis Harvesting, Drying, and Curing
 
 Harvesting is the act of reaping the rewards of a [[cannabis-grow-room-setup]]
 - [[cannabis-harvest-and-curing]]

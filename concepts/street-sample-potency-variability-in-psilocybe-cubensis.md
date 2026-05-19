@@ -15,7 +15,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Street Sample Potency Variability in Psilocybe cubensis
+## Street Sample Potency Variability in Psilocybe cubensis
 
 Bigwood and Beug (1982) analyzed five street samples of dried [[cervantes-humidity-control-dehumidification]] issues, substrate quality variation, or inadequate gas exchange during fruiting.
 - Early harvesting before full potency is reached, as the psilocin-absent profile strongly suggests first-flush material.

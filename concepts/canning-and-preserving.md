@@ -7,7 +7,7 @@ tags: [homesteading, food, preservation, safety, recipe]
 sources: []
 ---
 
-# Canning and Preserving
+## Canning and Preserving
 
 Canning is a heat-based food preservation method that destroys microorganisms and creates a vacuum seal in jars, making food shelf-stable at room temperature for 1-5 years. There are two primary methods: [[comparison-pressure-canning-vs-water-bath-canning]] for high-acid foods and [[pressure-canning-food-preservation]] for low-acid foods. Understanding which method to use for each food is critical for safety.
 

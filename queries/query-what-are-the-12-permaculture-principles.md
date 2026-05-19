@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [papers/david-holmgren-permaculture-principles-pathways-beyon.md]
 type: query
 ---
-# What Are the 12 Permaculture Principles?
+## What Are the 12 Permaculture Principles?
 ## Short Answer
 The 12 permaculture principles are a set of design directives formulated by David
 Holmgren that guide the creation of sustainable, resilient systems modeled on

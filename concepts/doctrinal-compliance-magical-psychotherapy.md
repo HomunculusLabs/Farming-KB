@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Doctrinal Compliance and Magical Psychotherapy
+## Doctrinal Compliance and Magical Psychotherapy
 
 ## Overview
 

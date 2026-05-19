@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Palm Species in Permaculture
+## Palm Species in Permaculture
 
 Palms (Arecaceae) are among the most versatile and productive plant families in tropical and subtropical permaculture systems. They provide food, fiber, oil, construction materials, and serve critical ecological roles across multiple climate zones. Their integration into multi-strata agroforestry designs is essential for creating productive, resilient landscapes in the tropics.
 

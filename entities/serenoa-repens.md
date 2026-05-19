@@ -17,7 +17,7 @@ sources:
   - Sinclair, W.A. & Dyer, A.R. (1988). "Fire and the distribution of Serenoa repens." Ecology, 69(3), 753-759.
 ---
 
-# Serenoa repens
+## Serenoa repens
 
 ## Overview
 

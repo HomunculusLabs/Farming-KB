@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Oyster Mushrooms
+## Oyster Mushrooms
 
 Oyster mushrooms of the genus Pleurotus are by far the easiest and least
 expensive [[fungi-cultivated-mushrooms-pathogens-competitors]], often exceeding 100%. During decomposition of dry

@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# [[thc-acetate]] within a controlled-atmosphere safety box, followed by methods for preparing hashish from cannabis oil. THC acetate synthesis is the most hazardous operation described in cannabis alchemy, requiring specialized laboratory equipment, a nitrogen-purged glove box, and strict safety protocols. Hashish preparation, by contrast, is a simpler physical process of combining extracted oil with powdered cannabis material.
+## [[thc-acetate]] within a controlled-atmosphere safety box, followed by methods for preparing hashish from cannabis oil. THC acetate synthesis is the most hazardous operation described in cannabis alchemy, requiring specialized laboratory equipment, a nitrogen-purged glove box, and strict safety protocols. Hashish preparation, by contrast, is a simpler physical process of combining extracted oil with powdered cannabis material.
 
 ## THC Acetate: Detailed Apparatus and Procedure
 

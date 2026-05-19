@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# [[ethanol]] (Methyl Alcohol, Wood Alcohol)
+## [[ethanol]] (Methyl Alcohol, Wood Alcohol)
 
 - **Boiling point:** 64°C (~190°F)
 - **Pros:** Commonly available; uniform evaporation temperature; does not extract many water-soluble (non-psychoactive) tars

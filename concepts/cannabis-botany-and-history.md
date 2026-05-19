@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# [[humulus-lupulus]]*)
+## [[humulus-lupulus]]*)
 
 ### Species Debate
 

@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Amanitine Toadstool Poisoning
+## Amanitine Toadstool Poisoning
 
 Amanitine poisoning is a severe and often fatal form of mushroom intoxication
 caused by ingestion of (or contact with) species of the **Amanita** family.

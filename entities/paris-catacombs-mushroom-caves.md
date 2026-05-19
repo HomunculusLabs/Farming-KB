@@ -5,7 +5,7 @@ type: entity
 tags: [place, france, history, cave-cultivation, infrastructure]
 ---
 
-# Paris Catacombs and Mushroom Caves
+## Paris Catacombs and Mushroom Caves
 
 ## Description
 

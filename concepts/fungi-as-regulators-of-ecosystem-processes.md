@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungi as Regulators of Ecosystem Processes
+## Fungi as Regulators of Ecosystem Processes
 
 ## Overview
 

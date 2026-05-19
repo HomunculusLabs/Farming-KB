@@ -1,5 +1,5 @@
 ---
-title: "Food as a fukuoka-food-strategic-weapon-critique — Fukuoka's Critique"
+title: "Fukuoka Food Strategic Weapon"
 type: concept
 tags:
   - natural-farming
@@ -13,7 +13,7 @@ sources:
   - Masanobu Fukuoka (1987). "The Road Back to Nature." Japan Publications.
 ---
 
-# Food as a Strategic Weapon — Fukuoka's Critique
+## Food as a Strategic Weapon — Fukuoka's Critique
 
 Masanobu Fukuoka identified a fundamental contradiction at the heart of modern
 industrial agriculture: food produced with petroleum inputs becomes a tool of

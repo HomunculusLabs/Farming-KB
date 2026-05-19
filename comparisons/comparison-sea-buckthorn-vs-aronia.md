@@ -21,7 +21,7 @@ sources:
 type: comparison
 ---
 
-# Sea Buckthorn vs Aronia (Chokeberry)
+## Sea Buckthorn vs Aronia (Chokeberry)
 
 ## At a Glance
 

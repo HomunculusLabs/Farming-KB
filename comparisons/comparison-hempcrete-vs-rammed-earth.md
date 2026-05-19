@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Hempcrete vs Rammed Earth
+## Hempcrete vs Rammed Earth
 
 ## Overview
 

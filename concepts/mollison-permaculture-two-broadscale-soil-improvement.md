@@ -7,7 +7,7 @@ tags: [regenerative, soil]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Mollison Broadscale Soil Improvement and Keyline Rehabilitation
+## Mollison Broadscale Soil Improvement and Keyline Rehabilitation
 
 Broadscale soil rehabilitation is one of the most critical aspects of [[mycelium-running-mycelium-soil-building]]. Warmer soils support more biological activity, faster nutrient cycling, and earlier plant growth in spring—giving farmers a longer effective growing season.
 

@@ -1,3 +1,8 @@
+---
+title: "Pericyclic Reactions Organic Chemistry"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -142,9 +147,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[eliot-coleman]]
-- [[nucleophilic-substitution-sn1-sn2-reactions]]
-- [[organic-pest-disease-control]]
-- [[phase-ii-conjugation-reactions-drug-metabolism]]
-- [[solomon-disease-identification-and-organic-remedies]]

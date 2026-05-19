@@ -1,4 +1,8 @@
-# Sclerotia Production Timeline and Dark Incubation for Psilocybe tampanensis and P. mexicana
+---
+title: "Sclerotia Production Timeline and Dark Incubation for Psilocybe tampanensis and P. mexicana"
+tags:
+  - concept
+---
 
 ## Overview
 

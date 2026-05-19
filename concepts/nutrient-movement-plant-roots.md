@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Nutrient Movement to Plant Roots
+## Nutrient Movement to Plant Roots
 
 Plants cannot simply wait for nutrients to arrive — they must actively acquire mineral ions from the soil solution and solid particles. Three primary physical mechanisms transport nutrients to root surfaces, while a fourth — biological partnership — dramatically expands a plant's effective reach. Once nutrients arrive at the root, cellular transport systems move them across membranes and into the plant's vascular system.
 

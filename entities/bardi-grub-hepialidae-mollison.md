@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Bardi Grub (Hepialidae)
+## Bardi Grub (Hepialidae)
 
 ## Description
 

@@ -5,7 +5,7 @@ tags: [agriculture, natural-farming, food-philosophy, nutrition, ecology]
 created: 2026-05-09
 ---
 
-# Fukuoka's Natural Diet and the Philosophy of Food
+## Fukuoka's Natural Diet and the Philosophy of Food
 
 Masanobu Fukuoka extended his [[comparison-natural-farming-vs-permaculture]]—both reflected the same fundamental error of imposing human intellect over natural wisdom.
 

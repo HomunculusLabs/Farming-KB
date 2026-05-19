@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Rocket Stove vs Rocket Mass Heater
+## Rocket Stove vs Rocket Mass Heater
 
 ## Overview
 

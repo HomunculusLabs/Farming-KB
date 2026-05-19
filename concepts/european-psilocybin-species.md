@@ -24,7 +24,7 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-gartz.md
 ---
 
-# European Psilocybin Species
+## European Psilocybin Species
 
 Beyond the well-known Psilocybe semilanceata, Europe hosts several additional psilocybin-containing genera that are less recognized but scientifically significant. Data primarily from Jochen Gartz's field research and chemical analyses (1980s-1990s). See also [[mushroom-species-guide]] and [[fungal-biodiversity]].
 

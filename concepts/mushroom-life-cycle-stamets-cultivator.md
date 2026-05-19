@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# Mushroom Life Cycle — The Mushroom Cultivator The mushroom life cycle, as presented by Paul Stamets in The Mushroom Cultivator (1983), is the foundation upon which all cultivation techniques rest. Understanding this cycle is prerequisite to mastering sterile technique, [[mushroom-cultivator-grain-spawn-production]] must be
+## Mushroom Life Cycle — The Mushroom Cultivator The mushroom life cycle, as presented by Paul Stamets in The Mushroom Cultivator (1983), is the foundation upon which all cultivation techniques rest. Understanding this cycle is prerequisite to mastering sterile technique, [[mushroom-cultivator-grain-spawn-production]] must be
 fully colonized before use. Understand the role of agar media preparation
 in starting new strains.
 

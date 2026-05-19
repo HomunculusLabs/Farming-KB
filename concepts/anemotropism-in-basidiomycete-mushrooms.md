@@ -7,7 +7,7 @@ source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 related: [negative-geotropism-in-mushroom-fruiting, mushroom-stipe-development-stages, evaporative-demand-hypothesis-mushroom-growth]
 ---
 
-# Anemotropism in Basidiomycete Mushrooms
+## Anemotropism in Basidiomycete Mushrooms
 
 Anemotropism is the growth response of an organism to wind or air currents.
 In mushrooms, anemotropism causes the stipe (stem) to bend and grow toward

@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Cabinet and Stealth Growing
+## Cannabis Cabinet and Stealth Growing
 
 Cabinet growing is a method of cultivating cannabis inside enclosed furniture or purpose-built boxes that conceal the grow from casual observation. This approach is used by growers who need to hide their cultivation from housemates, landlords, or visitors. Cabinet grows require careful planning to manage the unique challenges of growing in confined spaces with limited ventilation, light, and root volume.
 

@@ -4,7 +4,7 @@ source: fungi-and-sustainability-fungi-magazine.md
 type: concept
 ---
 
-# Zero Emissions Research and Initiatives (ZERI)
+## Zero Emissions Research and Initiatives (ZERI)
 
 ## Overview
 

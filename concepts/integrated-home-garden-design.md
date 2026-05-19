@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Integrated Home and Garden Design
+## Integrated Home and Garden Design
 
 A permaculture home and garden forms a single, self-regulating system in which the house,
 garden, animals, and waste streams are woven together so that every output serves as an

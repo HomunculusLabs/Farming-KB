@@ -5,7 +5,7 @@ author: Nicholas P. Money
 topics: mycology, mycelium, hyphal networks, soil ecology, fungal architecture
 ---
 
-# What Lies Beneath — Mycelial Architecture and Subterranean Networks
+## What Lies Beneath — Mycelial Architecture and Subterranean Networks
 
 Beneath every forest floor and every patch of lawn lies an intricate
 network of fungal threads — the mycelium — that constitutes one of the

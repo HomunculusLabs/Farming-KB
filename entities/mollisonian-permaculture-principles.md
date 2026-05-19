@@ -5,7 +5,7 @@ type: entity
 tags: [concept, permaculture-principles, design-theory, bill-mollison]
 ---
 
-# Mollisonian Permaculture Principles
+## Mollisonian Permaculture Principles
 
 ## Description
 

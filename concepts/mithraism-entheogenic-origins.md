@@ -7,7 +7,7 @@ tags: [ethnomycology, entheogens, mythology, roman-religion, symbolism]
 sources: [raw/papers/arthur-j-mushrooms-and-mankind.md]
 ---
 
-# Mithraism and Entheogenic Origins
+## Mithraism and Entheogenic Origins
 
 Mithraism — the mystery religion centered on the god Mithra that flourished throughout the Roman Empire from the 1st to 4th centuries CE — is frequently cited in ethnomycology-as-discipline|ethnomycological literature as a crucial bridge between earlier pagan entheogenic traditions and the development of Christianity. In "[[amanita-muscaria-chemistry-and-pharmacology]] consumption, and that Christianity borrowed extensively from Mithraic doctrine while systematically suppressing the entheogenic knowledge that underpinned both traditions.
 

@@ -8,7 +8,7 @@ type: concept
 tags: [culture, permaculture, plants]
 ---
 
-# Permaculture Climbers and Vines
+## Permaculture Climbers and Vines
 
 Climbing plants occupy a vertical niche in permaculture food forests and garden systems, producing food, providing shade, and creating microclimates. "A Selection of Permaculture Plants" (Nugent & Boniface, 2004) covers climbers most extensively in the passionfruit section, with additional vine species appearing throughout.
 

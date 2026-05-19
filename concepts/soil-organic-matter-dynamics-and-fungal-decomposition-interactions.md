@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Soil Organic Matter Dynamics and Fungal Decomposition Interactions
+## Soil Organic Matter Dynamics and Fungal Decomposition Interactions
 
 ## Overview
 

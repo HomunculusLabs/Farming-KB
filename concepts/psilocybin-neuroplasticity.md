@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin]
 ---
 
-# Psilocybin and Neuroplasticity
+## Psilocybin and Neuroplasticity
 
 Powell's informational framework for understanding consciousness provides a powerful lens through which to understand the neuroplastic effects of psilocybin. While modern neuroscience has only recently begun to investigate the structural changes that psychedelics induce in the brain, Powell's work lays out the theoretical groundwork for understanding how psilocybin can fundamentally reorganise the brain's informational architecture.
 

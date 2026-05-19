@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Mushroom Ceremony Poetics and the Existential Path
+## Mazatec Mushroom Ceremony Poetics and the Existential Path
 
 The shamanic discourse produced during Mazatec [[psilocybin-mushroom]] ceremonies is not random or hallucinatory chatter but a structured, poetically sophisticated engagement with the fundamental questions of human existence. Drawing from Henry Munn's ethnographic recordings in Huautla de Jiménez, Oaxaca, the medicine woman's inspired speech reveals a coherent worldview in which language, consciousness, nature, and morality are interwoven through the metaphor of "the path" and the practice of "searching for tracks."
 

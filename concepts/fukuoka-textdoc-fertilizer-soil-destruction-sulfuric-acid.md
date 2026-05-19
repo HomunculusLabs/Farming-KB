@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Fertilizer, Soil Destruction, and Sulfuric Acid
+## Fertilizer, Soil Destruction, and Sulfuric Acid
 
 In *The Natural Way of Farming*, [[jadam-monoculture-disorder-crop-residues]]
 and applying chemical fertilizer, the natural farmer returns all organic

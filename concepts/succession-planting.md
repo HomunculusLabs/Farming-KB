@@ -7,7 +7,7 @@ tags: [gardening, agriculture, timeline, vegetables, annual-calendar, cultivatio
 sources: []
 ---
 
-# Succession Planting
+## Succession Planting
 
 Succession planting is the practice of staggering plantings of the same or different crops throughout the growing season to ensure continuous harvests and maximize garden productivity. Rather than planting everything at once and harvesting all at once, succession planting spreads production across weeks and months.
 

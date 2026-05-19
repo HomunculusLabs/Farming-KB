@@ -10,7 +10,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Fukuoka's Observation of American Agricultural Decline
+## Fukuoka's Observation of American Agricultural Decline
 
 Masanobu Fukuoka, in *The Road Back to Nature*, presents a stark and systematic
 critique of [[growing-gourmet-north-american-reishi-species]] landscape as seen from above.

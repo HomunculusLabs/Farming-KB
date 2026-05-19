@@ -8,7 +8,7 @@ sources:
   - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Sea Salt Use
+## JADAM Sea Salt Use
 
 Sea water and sea salt are fundamental mineral supplements in the JADAM system. Sea water contains 83 different minerals including S, Mg, Ca, K, B, P, I, Mn, Mo, Co, Se, and Ge -- nearly all essential elements for crop growth.
 

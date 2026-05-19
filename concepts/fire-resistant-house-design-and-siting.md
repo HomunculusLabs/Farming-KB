@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fire-Resistant House Design and Siting
+## Fire-Resistant House Design and Siting
 
 ## Overview
 

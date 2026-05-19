@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Indole Hallucinogens and Human Evolution
+## Indole Hallucinogens and Human Evolution
 
 Indole hallucinogens are a family of psychoactive compounds characterized by a five-sided pyrrole group associated with a benzene ring.
 

@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Microfungal Life Strategies — Ruderal, Competitive, and Stress-Tolerant
+## Microfungal Life Strategies — Ruderal, Competitive, and Stress-Tolerant
 
 Fungal life strategy theory, adapted from Grime's (1977, 1979) work on higher plants, classifies microfungi into three primary strategies based on their response to environmental conditions. These strategies describe behaviors at particular [[dighton-pine-needle-litter-decomposition-fungal-succession]]
 

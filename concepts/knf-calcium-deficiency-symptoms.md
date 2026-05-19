@@ -8,7 +8,7 @@ sources: [chos-global-natural-farming.md]
 type: concept
 ---
 
-# KNF Calcium Deficiency Symptoms
+## KNF Calcium Deficiency Symptoms
 
 Calcium is as important to plants as it is to humans. In [[knf-fermented-plant-juice]], [[cannabis-vegetative-growth-stage]] is needed,
 as calcium suppresses vegetative development. It is specifically a

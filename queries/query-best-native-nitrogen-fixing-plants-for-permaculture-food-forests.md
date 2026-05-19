@@ -22,7 +22,7 @@ type: query
 created: 2026-05-07
 ---
 
-# What Are the Best Native Nitrogen-Fixing Plants for Permaculture Food Forests?
+## What Are the Best Native Nitrogen-Fixing Plants for Permaculture Food Forests?
 
 ## Short Answer
 

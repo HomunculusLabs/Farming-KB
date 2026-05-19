@@ -21,7 +21,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257694/
   - https://link.springer.com/article/10.1007/s11101-008-9106-2
 ---
-# Pelargonium sidoides (South African Geranium)
+## Pelargonium sidoides (South African Geranium)
 
 **Pelargonium sidoides** is a [[quercetin]] and quercetin derivatives
 - Proanthocyanidins (condensed tannins)

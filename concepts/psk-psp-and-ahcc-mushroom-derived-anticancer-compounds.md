@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# PSK, PSP, and AHCC: Mushroom-Derived Anticancer Compounds
+## PSK, PSP, and AHCC: Mushroom-Derived Anticancer Compounds
 
 Three major mushroom-derived preparations—PSK (Krestin), PSP (polysaccharide-peptide), and [[ahcc]] (Active Hexose Correlated Compounds)—represent the most clinically advanced mushroom-based cancer therapeutics. This concept examines their chemistry, mechanisms, and clinical profiles.
 

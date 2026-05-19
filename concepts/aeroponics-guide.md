@@ -7,7 +7,7 @@ tags: [cannabis, indoor, equipment, engineering, cultivation, methods, plant-gro
 sources: []
 ---
 
-# Aeroponics Guide
+## Aeroponics Guide
 
 Aeroponics is the most advanced form of soilless growing. Instead of submerging roots in water or growing medium, aeroponic systems suspend plant roots in an enclosed chamber where they are misted or sprayed with a nutrient solution. The roots grow in air, absorbing nutrients and oxygen directly from the mist. This approach can produce the fastest growth rates and highest yields of any cultivation method.
 

@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is a Herb Spiral in Permaculture?
+## What Is a Herb Spiral in Permaculture?
 
 ## Short Answer
 A herb spiral is a compact, vertical garden structure shaped like a rising spiral that

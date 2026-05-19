@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Metabolic Syndrome Research
+## Cannabis and Metabolic Syndrome Research
 
 **Source:** The [[blesching-cannabis-safety-adverse-effects-evidence]]
 

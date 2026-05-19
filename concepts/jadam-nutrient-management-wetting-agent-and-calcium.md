@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# jadam nutrient management wetting agent and calcium -- Wetting Agent and Calcium
+## jadam nutrient management wetting agent and calcium -- Wetting Agent and Calcium
 
 ## Overview
 

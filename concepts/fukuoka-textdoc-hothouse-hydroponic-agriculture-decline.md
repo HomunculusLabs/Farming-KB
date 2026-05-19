@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Hothouse and Hydroponic Agriculture Decline
+## Hothouse and Hydroponic Agriculture Decline
 
 Fukuoka documented the progressive degradation of agriculture from open-field cultivation to artificial growing systems as a primary symptom of humanity's alienation from nature.
 

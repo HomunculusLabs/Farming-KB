@@ -8,7 +8,7 @@ categories:
   - field-guides
 ---
 
-# Andrus Voitk
+## Andrus Voitk
 
 ## Description
 

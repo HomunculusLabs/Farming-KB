@@ -7,7 +7,7 @@ tags: [mycoremediation, biology, mycorrhizal]
 sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 ---
 
-# Singh [[brown-rot-and-white-rot-fungi-in-mycoremediation]].
+## Singh [[brown-rot-and-white-rot-fungi-in-mycoremediation]].
 
 ## Classification of Mycorrhizal Fungi
 

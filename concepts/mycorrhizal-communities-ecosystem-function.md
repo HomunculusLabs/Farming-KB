@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Fungal Communities and Ecosystem Function
+## Mycorrhizal Fungal Communities and Ecosystem Function
 
 ## Overview
 

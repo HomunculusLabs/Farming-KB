@@ -8,7 +8,7 @@ sources:
   - "raw/papers/2-laminar-flow-hood-construction.md"
   - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
-# Strain Isolation from Wild Specimens
+## Strain Isolation from Wild Specimens
 
 Isolating mushroom strains from wild specimens is a fundamental skill for cultivators seeking new genetic material, unique flavor profiles, or regionally adapted varieties. Wild isolation involves collecting fresh mushrooms from their natural habitat and establishing pure cultures through either spore germination or tissue culture. The process bridges the gap between natural fungal diversity and controlled cultivation, enabling cultivators to domesticate new species and preserve local fungal genetics.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [person, environmental-science, soil-ecology, pesticides, organic-movement]
 ---
 
-# Rachel Carson
+## Rachel Carson
 
 ## Description
 

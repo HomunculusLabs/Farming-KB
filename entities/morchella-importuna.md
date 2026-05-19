@@ -19,7 +19,7 @@ sources:
   - Ower, R. et al. (1986). "Cultivation of Morchella." Mycologia 78(4): 547-554
 ---
 
-# Morchella importuna
+## Morchella importuna
 
 **Morchella importuna** is a species of [[psilocybin-north-america-pacific-northwest]] and Europe. In North America, it is particularly common west of the Cascade Range in the Pacific Northwest and in coastal California, extending south into the Mediterranean-climate zones. European collections have been confirmed from Scandinavia, the UK, and central Europe.
 

@@ -6,7 +6,7 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources: ["papers/sepp-holzer-practical-guide.md"]
 ---
-# Experiences with Different Soil Types and Test Areas
+## Experiences with Different Soil Types and Test Areas
 
 From "Sepp Holzer's Permaculture" by Sepp Holzer.
 

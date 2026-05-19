@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Stock Management and Personal Survival in Wildfire
+## Stock Management and Personal Survival in Wildfire
 
 ## Overview
 

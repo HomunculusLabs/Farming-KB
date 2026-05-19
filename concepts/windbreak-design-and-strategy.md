@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Windbreak Design and Strategy
+## Windbreak Design and Strategy
 
 Wind is one of the most pervasive and underestimated factors in landscape design. Understanding its patterns, effects, and the strategies for modifying it is essential for any permaculture practitioner seeking to create productive, resilient systems.
 

@@ -8,7 +8,7 @@ sources: [chos-global-natural-farming.md]
 type: concept
 ---
 
-# KNF FPJ Preparation and Precautions
+## KNF FPJ Preparation and Precautions
 
 [[knf-fermented-plant-juice]] alongside [[brassinosteroid-fungal-growth-promotion]].
 

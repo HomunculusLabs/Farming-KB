@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [jadam, wetting-agent, pesticide, surfactant, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+sources: ["raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"]
 type: concept
 ---
 
-# JADAM Wetting Agent (JWA)
+## JADAM Wetting Agent (JWA)
 
 The JADAM Wetting Agent (JWA) is a [[jadam-wetting-agent-jwa-recipe-natural-surfactant]] that serves as the
 most critical ingredient in the JADAM [[ultra-low-jadam-herb-solution-jhs]]

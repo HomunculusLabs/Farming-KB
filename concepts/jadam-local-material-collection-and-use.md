@@ -9,7 +9,7 @@ type: concept
 tags: [jadam]
 ---
 
-# JADAM Local Material Collection and Use
+## JADAM Local Material Collection and Use
 
 [[jadam-seed-treatment-and-storage]] and [[comparison-jerusalem-artichoke-vs-potato]]** (Helianthus tuberosus): Often found growing
   wild; entire plant is used. The most practical JHS herb, easy to grow

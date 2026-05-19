@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Grow and Forage Chaga Mushroom
+## How to Grow and Forage Chaga Mushroom
 
 ## Short Answer
 Chaga ([[growing-gourmet-north-american-reishi-species]] indigenous

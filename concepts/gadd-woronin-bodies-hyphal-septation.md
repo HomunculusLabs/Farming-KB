@@ -7,7 +7,7 @@ updated: 2026-05-09
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 type: concept
 ---
-# Woronin Bodies and Hyphal Septation
+## Woronin Bodies and Hyphal Septation
 
 Woronin bodies are specialized peroxisome-derived organelles unique to
 the Euascomycetes (Pezizomycotina) that maintain cellular integrity of

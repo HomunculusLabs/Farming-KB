@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Desert Settlement Strategy
+## Desert Settlement Strategy
 
 ## Description
 

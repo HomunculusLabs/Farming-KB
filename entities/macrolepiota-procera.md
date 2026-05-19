@@ -17,7 +17,7 @@ sources:
   - Vaz, J.A. et al. (2012). "Proteins from Macrolepiota procera." Journal of Agricultural and Food Chemistry, 60(9), 2315-2322.
 ---
 
-# Macrolepiota procera
+## Macrolepiota procera
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Natural Farming Method: Clover, Barley, and Rice
+## Fukuoka's Natural Farming Method: Clover, Barley, and Rice
 
 updated: 2026-04-21
 

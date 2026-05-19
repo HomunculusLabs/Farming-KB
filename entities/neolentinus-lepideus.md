@@ -26,7 +26,7 @@ sources:
   - "https://www.firstnature.com/fungi/neolentinus-lepideus.php"
 ---
 
-# Neolentinus lepideus
+## Neolentinus lepideus
 
 ## Overview
 

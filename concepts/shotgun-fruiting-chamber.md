@@ -1,5 +1,5 @@
 ---
-title: query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber fruiting-chamber-design-and-environmental-control
+title: "Shotgun Fruiting Chamber"
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
-# Shotgun Fruiting Chamber Design
+## Shotgun Fruiting Chamber Design
 
 The shotgun fruiting chamber (SGFC), popularized by RogerRabbit on the Shroomery cultivation forums, is one of the most widely used fruiting chambers for small-scale Psilocybe [[arbuscule-isolation-metabolic-activity-assays]] of colonizing mycelium rises and exits through upper holes, while cooler fresh air is drawn in through lower holes. This constant gentle circulation provides both fresh air exchange and [[monotub-cultivation]].
 

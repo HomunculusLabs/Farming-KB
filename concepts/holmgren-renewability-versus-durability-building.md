@@ -8,7 +8,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
-# Renewability Versus Durability in the Built Environment
+## Renewability Versus Durability in the Built Environment
 Source: [[permaculture-principle-creatively-use-and-respond-to-change]])
 
 ## Learning to See Change in Buildings

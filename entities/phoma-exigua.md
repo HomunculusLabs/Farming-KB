@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Phoma exigua
+## Phoma exigua
 
 ## Overview
 

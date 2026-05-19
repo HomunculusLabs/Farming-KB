@@ -1,4 +1,8 @@
-# Emery Emmert: The Forgotten Father of Winter Greenhouse Growing
+---
+title: "Emery Emmert: The Forgotten Father of Winter Greenhouse Growing"
+tags:
+  - concept
+---
 
 ## Overview
 

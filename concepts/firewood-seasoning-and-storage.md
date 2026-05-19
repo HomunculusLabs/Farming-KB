@@ -7,7 +7,7 @@ tags: [homesteading, homestead-crafts, preparation, storage, tools]
 sources: []
 ---
 
-# Firewood Seasoning and Storage
+## Firewood Seasoning and Storage
 
 Properly seasoned firewood is essential for efficient heating, reduced creosote buildup, and a cleaner burn. Green (freshly cut) wood can contain 50% or more moisture by weight and produces excessive smoke, low heat, and dangerous chimney deposits. This page covers wood species selection, BTU values, splitting techniques, stacking methods, seasoning timelines, and moisture measurement.
 

@@ -7,7 +7,7 @@ tags: [nutrient-deficiency, macronutrients, micronutrients, mobile-nutrients, im
 created: 2026-05-11
 ---
 
-# Nutrient Deficiencies and Disorders in Cannabis
+## Nutrient Deficiencies and Disorders in Cannabis
 
 ## Overview
 

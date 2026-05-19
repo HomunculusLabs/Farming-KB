@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Grain Spawn Generation
+## Grain Spawn Generation
 
 Grain spawn is the bridge between the laboratory and the [[antimicrobial-compounds-mushroom-mycelium]] is grown on
 sterilized grain inside jars, bags, or bottles, and once fully

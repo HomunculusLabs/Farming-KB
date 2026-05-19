@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Seasonal Distribution and Habitat of Wild Mushrooms
+## Seasonal Distribution and Habitat of Wild Mushrooms
 
 ## Overview
 

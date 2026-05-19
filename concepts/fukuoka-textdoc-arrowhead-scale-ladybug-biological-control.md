@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Arrowhead Scale and Ladybug Biological Control in Citrus Orchards
+## Arrowhead Scale and Ladybug Biological Control in Citrus Orchards
 
 ## Overview
 

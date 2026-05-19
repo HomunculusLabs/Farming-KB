@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Holistic Goal Definition
+## Holistic Goal Definition
 
 The holistic goal is the foundational element of [[savory-mineral-cycle-management]], sound
 [[savory-holistic-resource-management-animal-impact]] Management is failure to put

@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/harner-j-hallucinogens-and-shamanism.md]
 type: concept
 ---
 
-# Mescalero Apache Shamanism and Peyote Use: Adoption and Rejection
+## Mescalero Apache Shamanism and Peyote Use: Adoption and Rejection
 
 ## Overview
 

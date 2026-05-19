@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Glaucoma
+## Cannabis and Glaucoma
 
 updated: 2021-04-18
 

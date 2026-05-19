@@ -20,7 +20,7 @@ sources:
 type: concept
 ---
 
-# Mexican Sacred Mushrooms: Indigenous Use and Ethnobotany
+## Mexican Sacred Mushrooms: Indigenous Use and Ethnobotany
 
 ## Overview
 

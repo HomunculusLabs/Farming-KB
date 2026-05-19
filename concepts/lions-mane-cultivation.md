@@ -12,7 +12,7 @@ sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
-# Lion's Mane Cultivation
+## Lion's Mane Cultivation
 
 ## Overview
 

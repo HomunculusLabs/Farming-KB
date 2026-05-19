@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Anxiety Disorders
+## Cannabis and Anxiety Disorders
 
 **Updated:** 2026-04-18
 

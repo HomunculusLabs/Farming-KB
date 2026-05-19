@@ -7,7 +7,7 @@ tags: [cannabis, outdoor, climate, timeline, companion-planting, cover-crop, org
 sources: []
 ---
 
-# Cannabis Outdoor Growing
+## Cannabis Outdoor Growing
 
 ## Overview
 

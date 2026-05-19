@@ -5,7 +5,7 @@ created: 2026-05-09
 tags: [epidemiology, prevalence, europe, EMCDDA, drug-survey, ESPAD, hallucinogenic-mushrooms]
 ---
 
-# Prevalence of Hallucinogenic Mushroom Use in Europe
+## Prevalence of Hallucinogenic Mushroom Use in Europe
 
 ## Overview
 

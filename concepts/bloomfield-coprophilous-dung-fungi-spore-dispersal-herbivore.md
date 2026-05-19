@@ -14,7 +14,7 @@ tags:
   - pilobolus
 ---
 
-# Coprophilous Dung Fungi and Spore Dispersal
+## Coprophilous Dung Fungi and Spore Dispersal
 
 ## Overview
 

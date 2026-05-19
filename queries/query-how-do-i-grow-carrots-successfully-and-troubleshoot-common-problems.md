@@ -7,7 +7,7 @@ sources:
   - "raw/papers/solomon-gardening-west.md"
 ---
 
-# How Do I Grow Carrots Successfully and Troubleshoot Common Problems?
+## How Do I Grow Carrots Successfully and Troubleshoot Common Problems?
 
 ## Short Answer
 

@@ -1,3 +1,8 @@
+---
+title: "Mycelium Running Psilocybin Mushrooms Medicine Antimicrobial"
+tags:
+  - concept
+---
 Source: [[teaming-with-microbes-old-growth-forest]] ecosystems, represent an untapped reservoir of antimicrobial compounds with profound implications for human medicine. He positions mushrooms at the intersection of ecological health and pharmaceutical discovery, documenting their antibiotic, antiviral, and immune-modulating properties.
 
 ## The Big Idea: Fungi as Sources of New Medicines

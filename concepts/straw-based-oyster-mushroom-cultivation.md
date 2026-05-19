@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, pleurotus, straw-cultivation, pasteurization]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Straw-Based Oyster Mushroom Cultivation
+## Straw-Based Oyster Mushroom Cultivation
 
 Straw is the most accessible and economical substrate for oyster mushroom
 cultivation, making it the preferred choice for beginners and small-scale

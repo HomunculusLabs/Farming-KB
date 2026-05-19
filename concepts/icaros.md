@@ -8,7 +8,7 @@ sources:
   - stuart-r-ayahuasca-tourism.md
 ---
 
-# Icaros
+## Icaros
 
 Icaros (also spelled ikaros) are sacred melodic songs sung by
 ayahuasqueros during [[amazonian-shamanic-battles-and-defensive-powers]] practice, serving multiple simultaneous functions:

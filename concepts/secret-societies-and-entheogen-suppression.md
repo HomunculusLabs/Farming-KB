@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Secret Societies and Entheogen Suppression
+## Secret Societies and Entheogen Suppression
 
 ## Overview
 

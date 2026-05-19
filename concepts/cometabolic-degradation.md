@@ -8,7 +8,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Cometabolic Degradation Pathways
+## Cometabolic Degradation Pathways
 
 Cometabolism is a process in which microorganisms transform a compound that they cannot use as a source of carbon or energy for growth.
 

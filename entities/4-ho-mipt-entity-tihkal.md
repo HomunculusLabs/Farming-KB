@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 4-HO-MIPT (Miprocin) — TIHKAL #22
+## 4-HO-MIPT (Miprocin) — TIHKAL #22
 
 ## Compound Identity
 

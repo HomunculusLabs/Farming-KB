@@ -7,7 +7,7 @@ related: ["fukuoka-critique-of-scientific-agriculture", "fukuoka-paradoxes-scien
 created: "2026-05-08"
 ---
 
-# Mutual Cancellation of Agricultural Improvement Measures
+## Mutual Cancellation of Agricultural Improvement Measures
 
 ## Overview
 

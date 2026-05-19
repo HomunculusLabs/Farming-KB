@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# No Cause and Effect in Nature
+## No Cause and Effect in Nature
 
 Fukuoka's principle of non-causality is one of his most radical philosophical
 positions. He argues that behind every cause lie countless other causes, and

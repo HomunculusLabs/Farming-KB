@@ -8,7 +8,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md"
 ---
 
-# Dairy Wastewater Fungal Treatment
+## Dairy Wastewater Fungal Treatment
 
 ## Overview
 

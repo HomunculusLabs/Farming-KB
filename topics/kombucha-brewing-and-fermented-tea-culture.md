@@ -11,7 +11,7 @@ sources:
   - https://www.masterclass.com/articles/how-to-make-kombucha
 ---
 
-# Kombucha Brewing and Fermented Tea Culture
+## Kombucha Brewing and Fermented Tea Culture
 
 Kombucha is a lightly effervescent, fermented tea beverage produced through the symbiotic activity of a mixed culture of bacteria and yeast (SCOBY) on sweetened tea. Originating in Northeast China around 220 BCE — where it was known as the "Tea of Immortality" — kombucha has traveled through Russia, Eastern Europe, and eventually worldwide to become one of the most popular functional beverages of the 21st century.
 

@@ -16,7 +16,7 @@ sources:
   - Mizuno, T. (1995). "Bioactive biomolecules of mushrooms." Food Reviews International.
 ---
 
-# Lion's Mane (Hericium erinaceus)
+## Lion's Mane (Hericium erinaceus)
 
 ## Overview
 

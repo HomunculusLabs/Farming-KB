@@ -6,7 +6,7 @@ tags: [salvia, salvinorin, dissociative, mint-family, pharmacology]
 created: 2026-05-08
 ---
 
-# Salvia divinorum and Salvinorin-A
+## Salvia divinorum and Salvinorin-A
 
 ## Overview
 

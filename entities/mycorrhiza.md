@@ -5,7 +5,7 @@ type: entity
 tags: [mycorrhiza, symbiosis, fungi, plant-roots, nutrient-uptake, mutualism, ecology, soil]
 ---
 
-# Mycorrhiza
+## Mycorrhiza
 
 ## Description
 

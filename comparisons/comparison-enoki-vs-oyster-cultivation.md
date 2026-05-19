@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Enoki vs Oyster Mushroom Cultivation
+## Enoki vs Oyster Mushroom Cultivation
 
 ## Overview
 

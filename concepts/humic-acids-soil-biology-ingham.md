@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Humic Acids and Soil Biology (Ingham)
+## Humic Acids and Soil Biology (Ingham)
 
 Updated: 2026-04-18
 

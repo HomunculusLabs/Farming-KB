@@ -7,7 +7,7 @@ updated: 2026-05-09
 type: concept
 ---
 
-# Microwave Sterilization Versus Conventional Surface Sterilization Methods
+## Microwave Sterilization Versus Conventional Surface Sterilization Methods
 
 ## Overview
 

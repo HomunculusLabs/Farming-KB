@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/blesching-cannabis-pain-management.md"
 ---
-# Cannabis Strain Selection Guide
+## Cannabis Strain Selection Guide
 
 Selecting the right cannabis strain is one of the most important decisions for medical cannabis patients, as different strains produce markedly different therapeutic effects due to their unique cannabinoid and [[cannabis-terpene-entourage-effect-profiles]] for terpenoid effects.
 

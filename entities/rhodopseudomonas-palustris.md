@@ -5,10 +5,10 @@ type: species
 tags: [purple-non-sulfur-bacteria, nitrogen-fixation, photosynthesis, indigenous-microorganisms, biofertilizer]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
+sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 ---
 
-# Rhodopseudomonas palustris
+## Rhodopseudomonas palustris
 
 *Rhodopseudomonas palustris* is a purple non-sulfur photosynthetic bacterium renowned for its extraordinary metabolic versatility. It is a Gram-negative alphaproteobacterium capable of photosynthesis, [[fungal-volatile-organic-compounds-communication]]. This metabolic flexibility makes it one of the most adaptable bacteria known and a valuable organism in agricultural, environmental, and biotechnological applications.
 

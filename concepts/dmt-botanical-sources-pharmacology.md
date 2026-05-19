@@ -6,7 +6,7 @@ tags: [dmt, tryptamines, pharmacology, ethnobotany, psychoactive-plants]
 created: 2026-05-08
 ---
 
-# N,N-Dimethyltryptamine (DMT) — Botanical Sources and Pharmacology
+## N,N-Dimethyltryptamine (DMT) — Botanical Sources and Pharmacology
 
 ## Overview
 

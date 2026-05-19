@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [reference]
 ---
 
-# European Psycholytic Therapy: Results from the 1960s-1970s
+## European Psycholytic Therapy: Results from the 1960s-1970s
 
 Before prohibition shut down [[query-what-is-the-difference-between-psilocybin-and-psilocin]] as adjuncts to the therapeutic process. The results, documented across multiple countries and hundreds of patients, represent some [[metzner-psycholytic-psychedelic-therapy-models]] ("mind-manifesting"):**
 - Uses HIGH doses of LSD (300+ micrograms) or psilocybin

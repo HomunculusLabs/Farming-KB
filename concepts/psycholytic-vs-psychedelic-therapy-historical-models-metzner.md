@@ -1,4 +1,8 @@
-# Psycholytic vs Psychedelic Therapy Historical Models
+---
+title: "Psycholytic vs Psychedelic Therapy Historical Models"
+tags:
+  - concept
+---
 
 ## Overview
 

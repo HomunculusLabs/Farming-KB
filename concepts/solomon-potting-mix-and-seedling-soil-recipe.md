@@ -9,7 +9,7 @@ type: concept
 tags: [plant-growth, soil]
 ---
 
-# Solomon Potting Mix and Seedling Soil Recipe
+## Solomon Potting Mix and Seedling Soil Recipe
 
 In "Gardening When It Counts," [[solomon-seed-quality-and-germination-testing]]
 - [[seed-starting-indoors-solomon]]

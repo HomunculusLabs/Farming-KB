@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Copper Micronutrient for Cannabis
+## Copper Micronutrient for Cannabis
 
 Copper is an essential immobile micronutrient for
 cannabis, required in minute amounts but extremely

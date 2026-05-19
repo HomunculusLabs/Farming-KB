@@ -13,7 +13,7 @@ sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md
 ---
 
-# Permaculture Interaction of Plants and Animals
+## Permaculture Interaction of Plants and Animals
 
 ## Beyond Monocultural Thinking
 

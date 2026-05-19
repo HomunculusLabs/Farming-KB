@@ -12,7 +12,7 @@ sources:
 type: concept
 ---
 
-# Pine Disease and Matsutake Mushroom Decline
+## Pine Disease and Matsutake Mushroom Decline
 
 The widespread death of red pine forests (Pinus densiflora) across Japan, commonly attributed to the pinewood nematode (Bursaphelenchus xylophilus), served as a pivotal case study for [[masanobu-fukuoka]]
 

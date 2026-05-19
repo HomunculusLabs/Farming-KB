@@ -8,7 +8,7 @@ sources: [https://www.attra.ncat.org, https://www.sare.org, https://www.fao.org,
 type: comparison
 ---
 
-# Goats vs Sheep in Permaculture Systems
+## Goats vs Sheep in Permaculture Systems
 
 ## Why This Comparison Matters
 

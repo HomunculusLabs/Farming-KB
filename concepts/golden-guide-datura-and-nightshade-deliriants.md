@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Datura, Nightshades, and Deliriant Hallucinogens
+## Datura, Nightshades, and Deliriant Hallucinogens
 
 The nightshade family, Solanaceae, is one of the most important plant
 families in the history of hallucinogenic plant use. Its members have been

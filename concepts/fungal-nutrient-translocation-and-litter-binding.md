@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Nutrient Translocation and Litter Binding
+## Fungal Nutrient Translocation and Litter Binding
 
 ## Overview
 

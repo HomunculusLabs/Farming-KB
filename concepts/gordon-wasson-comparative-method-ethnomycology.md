@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# Gordon Wasson and the Comparative Method in Ethnomycology
+## Gordon Wasson and the Comparative Method in Ethnomycology
 
 Gordon Wasson's influential theories about mushroom symbolism and the universality of psychedelic mushroom cults were deeply rooted in the Frazerian comparative method — an approach that had already been rejected within professional anthropology by the time Wasson developed his mushroom thesis.
 

@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, plant-pathogen, necrotroph, biocontrol-target]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Botrytis cinerea
+## Botrytis cinerea
 
 **Type:** Species (Fungus)
 **Category:** Necrotrophic Filamentous Ascomycete

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md"
 ---
 
-# Fungal Symbiosis Types
+## Fungal Symbiosis Types
 
 ## Overview
 

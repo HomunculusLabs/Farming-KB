@@ -8,7 +8,7 @@ type: concept
 tags: [agar]
 ---
 
-# Siberian Fly-Agaric Orientalism
+## Siberian Fly-Agaric Orientalism
 
 The Western understanding of magic-mushroom-cultural-history that the Western image of Siberia as a land of mushroom-eating
 shamans tells us far more about European fantasies than about indigenous

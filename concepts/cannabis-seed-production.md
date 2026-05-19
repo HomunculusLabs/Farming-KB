@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, plant-growth]
 ---
 
-# Cannabis Seed Production
+## Cannabis Seed Production
 
 Seed production in cannabis is the process of deliberately pollinating
 female plants to create viable seeds for future cultivation or breeding

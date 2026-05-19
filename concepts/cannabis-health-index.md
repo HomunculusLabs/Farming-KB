@@ -1,12 +1,12 @@
 ---
-title: blesching-cannabis-health-index-autoimmune-conditions
+title: "Cannabis Health Index"
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [cannabis, cultivation]
-sources: [/Users/t3rpz/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md]
+sources: ["raw/papers/uwe-blesching-the-cannabis-health-index.md"]
 ---
-# Cannabis Health Index
+## Cannabis Health Index
 
 The Cannabis Health Index is a therapeutic framework developed by Uwe Blesching, Ph.D., that maps specific cannabis preparations, cannabinoid profiles, and terpene combinations to particular health conditions. Rather than treating cannabis as a monolithic therapy, the index takes an entourage-effect approach, recommending specific THC:CBD ratios, [[cannabis-delivery-methods-comparison]] for different conditions. This page summarizes key therapeutic applications and principles.
 

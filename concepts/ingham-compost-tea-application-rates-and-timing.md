@@ -9,7 +9,7 @@ type: concept
 tags: [composting]
 ---
 
-# Compost Tea Application Rates and Timing
+## Compost Tea Application Rates and Timing
 
 Proper application rates and timing are essential for AACT effectiveness. Compost tea is not a pesticide; it works by establishing and maintaining beneficial organism populations on leaf surfaces and in soil.
 

@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Wild Magic Mushroom Foraging Patterns and Misidentification Hazards Across Europe
+## EMCDDA Wild Magic Mushroom Foraging Patterns and Misidentification Hazards Across Europe
 
 ## Overview
 

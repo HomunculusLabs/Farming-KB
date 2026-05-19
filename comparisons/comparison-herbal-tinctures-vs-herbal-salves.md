@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Herbal Tinctures vs Herbal Salves
+## Herbal Tinctures vs Herbal Salves
 
 ## Overview
 

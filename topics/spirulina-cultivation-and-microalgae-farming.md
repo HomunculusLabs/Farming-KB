@@ -11,7 +11,7 @@ sources:
   - Richmond A. (2004) Handbook of Microalgal Culture: Biotechnology and Applied Phycology, Blackwell Science
 ---
 
-# Spirulina Cultivation and Microalgae Farming
+## Spirulina Cultivation and Microalgae Farming
 
 Spirulina (*Arthrospira platensis* and *Arthrospira maxima*) is a filamentous cyanobacterium that has been consumed as food for centuries — from the Aztecs harvesting it from Lake Texcoco to the Kanembu people of Chad who have gathered *dihe* from Lake Chad for over a thousand years. Today, spirulina is one of the most commercially significant microalgae, prized for its exceptional nutritional density, rapid growth rate, and relatively straightforward cultivation requirements.
 

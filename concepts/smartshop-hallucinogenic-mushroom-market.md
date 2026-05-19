@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Smartshop Hallucinogenic Mushroom Market
+## Smartshop Hallucinogenic Mushroom Market
 
 The commercial market for [[amanita-muscaria]] ([[hallucinogenic-mushroom-legal-status-europe]]
 

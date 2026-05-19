@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# BOB (beta-Methoxy-2C-B)
+## BOB (beta-Methoxy-2C-B)
 
 **[[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] for almost an hour.
 Then lay down and experienced a vivid visualization of a

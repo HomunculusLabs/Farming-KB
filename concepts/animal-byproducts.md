@@ -28,7 +28,7 @@ sources:
 - https://www.epa.gov/recycle/composting-home
 ---
 
-# Animal Byproducts in Homesteading Systems
+## Animal Byproducts in Homesteading Systems
 
 A core permaculture principle is that every output of one system becomes an input for another. Animal byproducts — manure, bones, eggshells, blood, feathers — are high-value fertility inputs for the homestead when properly processed and applied.
 

@@ -8,7 +8,7 @@ sources: [chos-global-natural-farming.md]
 type: concept
 ---
 
-# KNF LAB Culturing and Uses
+## KNF LAB Culturing and Uses
 
 [[comparison-natural-farming-vs-permaculture]] inputs for enhanced effects.
 

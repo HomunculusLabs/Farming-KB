@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis for Gastrointestinal Disorders
+## Cannabis for Gastrointestinal Disorders
 
 ## Evidence-Based Confidence Level and Therapeutic Potential
 

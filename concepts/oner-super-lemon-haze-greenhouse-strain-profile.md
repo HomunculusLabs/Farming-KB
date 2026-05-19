@@ -7,7 +7,7 @@ type: concept
 tags: [cannabis, sativa, strain-profile, super-lemon-haze, green-house-seeds, lemon-skunk, super-silver-haze, oner]
 ---
 
-# Super Lemon Haze — Strain Profile
+## Super Lemon Haze — Strain Profile
 
 ## Overview
 

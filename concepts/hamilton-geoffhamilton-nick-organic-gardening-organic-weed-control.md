@@ -8,7 +8,7 @@ sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
 type: concept
 ---
 
-# Organic Weed Control
+## Organic Weed Control
 
 There is no such thing as an organic weedkiller, and whatever may be
 claimed about the safety of chemical weedkillers, there is always danger

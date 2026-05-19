@@ -14,7 +14,7 @@ tags:
   - spawn-health
 ---
 
-# Oyster Mushroom Viral Disease — OMIV-I and OMIV-II Isometric Viruses
+## Oyster Mushroom Viral Disease — OMIV-I and OMIV-II Isometric Viruses
 
 ## Overview
 

@@ -8,7 +8,7 @@ type: concept
 tags: [ecology, psilocybin]
 ---
 
-# Powell - Ecological Cognition Theory
+## Powell - Ecological Cognition Theory
 
 Simon G. Powell develops an ecological cognition framework in which knowledge, meaning, and intelligence are not properties of isolated minds but emergent features of the entire biospheric system. Consciousness is one informational pattern within a nested hierarchy of language-like formal systems -- from particle physics through chemistry, DNA, and finally to mind -- all embedded within what he calls the Universal Computation.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pattern Applications and Tribal Pattern Knowledge
+## Pattern Applications and Tribal Pattern Knowledge
 
 ## Overview
 

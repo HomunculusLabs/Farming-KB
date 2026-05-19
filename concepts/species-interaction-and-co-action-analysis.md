@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Species Interaction and Co-Action Analysis
+## Species Interaction and Co-Action Analysis
 
 Species interaction analysis is a foundational methodology in [[permaculture]] categorizes all possible two-species interactions into nine outcomes based on whether each species benefits (+), is harmed (−), or remains unaffected (0):
 

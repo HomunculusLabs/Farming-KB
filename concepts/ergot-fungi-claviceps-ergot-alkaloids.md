@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Ergot Fungi Claviceps and Ergot Alkaloids
+## Ergot Fungi Claviceps and Ergot Alkaloids
 
 ## [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] (mushrooms), Claviceps is an
 ascomycete that produces dark, hard sclerotia (ergots) in place of grain

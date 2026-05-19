@@ -6,7 +6,7 @@ tags: [terence-mckenna, borges, sect-of-the-phoenix, aleph, dmt,
 created: 2026-05-08
 ---
 
-# Sect of the Phoenix and Secret Entheogenic Knowledge
+## Sect of the Phoenix and Secret Entheogenic Knowledge
 
 [[dmt-nn-dimethyltryptamine-comprehensive]]
 [[the-logos-and-translinguistic-matter]]

@@ -7,7 +7,7 @@ tags: [mycology, therapy, psychology, psychiatry, psychedelics, psychopharmacolo
 sources: []
 ---
 
-# Psychedelic Assisted Therapy Protocol
+## Psychedelic Assisted Therapy Protocol
 
 ## Overview
 

@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, soil]
 ---
 
-# [[decomposition]] of plant
+## [[decomposition]] of plant
 materials. Can be bought in bags at gardening shops. Most products try
 to eliminate bugs and living matter but this is not always 100%
 successful. Don't be surprised to find a worm or green fly.

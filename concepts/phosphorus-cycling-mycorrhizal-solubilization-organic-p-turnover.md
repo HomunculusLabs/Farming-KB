@@ -7,7 +7,7 @@ tags: [phosphorus-cycling, mycorrhizal-phosphorus, phosphate-solubilization, org
 aliases: [mycorrhizal-phosphorus-uptake, phosphate-solubilizing-fungi, soil-P-cycling, organic-phosphate-mineralization]
 ---
 
-# Phosphorus Cycling: Mycorrhizal Solubilization and Organic P Turnover
+## Phosphorus Cycling: Mycorrhizal Solubilization and Organic P Turnover
 
 ## Overview
 

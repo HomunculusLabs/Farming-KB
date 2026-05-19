@@ -11,7 +11,7 @@ sources:
   - raw/papers/unknown-biodiversity-of-fungi.md
 ---
 
-# Fungal Biodiversity in Extreme Environments
+## Fungal Biodiversity in Extreme Environments
 
 ## Overview
 

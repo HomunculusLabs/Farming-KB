@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Crop Rotation Detail
+## Crop Rotation Detail
 
 Crop rotation is a form of agricultural recycling in which gardeners and plants
 participate to return as much to the soil as has been taken out. In the GROW

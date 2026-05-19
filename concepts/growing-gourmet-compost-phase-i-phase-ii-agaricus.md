@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mushroom-cultivation, composting, agaricus, substrate-preparation, pasteurization]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Mushroom Compost Phase I and Phase II for Agaricus Cultivation
+## Mushroom Compost Phase I and Phase II for Agaricus Cultivation
 
 Agaricus species including button mushrooms, portobellos, and creminis require
 composted substrates rather than raw or pasteurized materials. The composting

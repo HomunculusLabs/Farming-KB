@@ -4,7 +4,7 @@ source: james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md
 type: concept
 ---
 
-# Mushroom Pests and Poisonous Fungi — Victorian Identification and Control
+## Mushroom Pests and Poisonous Fungi — Victorian Identification and Control
 
 ## Overview
 

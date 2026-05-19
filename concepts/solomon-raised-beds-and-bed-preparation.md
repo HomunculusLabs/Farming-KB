@@ -7,7 +7,7 @@ tags: raised-beds
 type: concept
 ---
 
-# Solomon Raised Beds and Bed Preparation
+## Solomon Raised Beds and Bed Preparation
 
 ## Solomon's Approach to Raised Beds
 

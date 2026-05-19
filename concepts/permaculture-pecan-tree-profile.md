@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Pecan Tree Profile for Permaculture Systems
+## Pecan Tree Profile for Permaculture Systems
 
 The pecan (Carya illinoensis) is a long-lived deciduous nut tree native to
 [[permaculture-food-forests-design-course]] designs where

@@ -7,7 +7,7 @@ tags: mushroom-cultivation, grain-spawn, history, sterile-technique]
 sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 ---
 
-# Pure Culture Spawn Method — Duggar's USDA Breakthrough (1902)
+## Pure Culture Spawn Method — Duggar's USDA Breakthrough (1902)
 
 Updated: 2026-04-18
 

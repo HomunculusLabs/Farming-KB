@@ -7,7 +7,7 @@ type: cultivation-guide
 topics: [mycology, mushroom-cultivation, casing-soil, substrate-preparation, sterilization]
 ---
 
-# Casing Soil Preparation: Peat-Vermiculite-Marl Sterilized Recipe
+## Casing Soil Preparation: Peat-Vermiculite-Marl Sterilized Recipe
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# Ololiuqui and the Magic Circle — From LSD to Morning Glory and Back
+## Ololiuqui and the Magic Circle — From LSD to Morning Glory and Back
 
 ## Overview
 

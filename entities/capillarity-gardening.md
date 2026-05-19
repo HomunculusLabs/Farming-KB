@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: entity
 ---
 
-# Capillarity (Soil Water Movement)
+## Capillarity (Soil Water Movement)
 
 ## Description
 

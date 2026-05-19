@@ -1,3 +1,8 @@
+---
+title: "Dighton Fungal Enzyme Systems Resource Quality Decomposition"
+tags:
+  - concept
+---
 Source: john dighton fungi in ecosystem processes
 
 Fungi produce a diverse array of extracellular fungal enzymes systems that
@@ -142,9 +147,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[dighton-fungal-biosorption-heavy-metal-remediation]]
-- [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
-- [[dighton-fungal-rock-weathering-mineral-dissolution]]

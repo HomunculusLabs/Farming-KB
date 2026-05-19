@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Swale Design vs Hugelkultur
+## Swale Design vs Hugelkultur
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# The Neglected Science of Mycology
+## The Neglected Science of Mycology
 
 ## A Science Overlooked by Schools and Public Alike
 

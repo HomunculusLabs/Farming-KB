@@ -8,7 +8,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
-# [[permaculture-design]]
+## [[permaculture-design]]
 Updated: 2026-04-18
 Source: [[holmgren-ecological-succession-and-pulsing]] was based on observation of
 patterns of change in moist, fertile and temperate [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] to skip the weed phase and establish

@@ -70,7 +70,7 @@ related_concepts:
   - biofertilizers-and-soil-inoculants
 ---
 
-# Fungal Enzymes in Industry and Biotechnology
+## Fungal Enzymes in Industry and Biotechnology
 
 Fungi are the most prolific enzyme producers on Earth. Of all the kingdoms of
 life, none secretes a wider or more potent arsenal of extracellular enzymes

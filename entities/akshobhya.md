@@ -5,7 +5,7 @@ type: entity
 tags: [deity, buddhism, tibetan, bardo, dhyani-buddha]
 ---
 
-# Akshobhya
+## Akshobhya
 
 ## Description
 Akshobhya is the Dhyani Buddha associated with the Mirror-like Wisdom and the element of water. In *The Psychedelic Experience*, Leary identifies Akshobhya as the Peaceful Deity personifying **Vision 4: The Wave-Vibration Structure of External Forms** — the vision where external reality is perceived directly as patterns of light waves, acoustic vibrations, and energy fields, stripped of learned conceptual overlays.

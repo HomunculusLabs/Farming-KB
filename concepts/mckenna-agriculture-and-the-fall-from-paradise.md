@@ -4,9 +4,9 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [psychedelics, ethnobotany]
-sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
+sources: ["raw/papers/mckenna_t-food_of_the_gods.md"]
 ---
-# Mckenna Agriculture and the Fall from Paradise
+## Mckenna Agriculture and the Fall from Paradise
 
 In Food of the Gods, McKenna identifies the transition from hunter-gatherer to agricultural society as the pivotal moment in human history -- the "Fall" from the partnership paradise of the mushroom-using Paleolithic into the dominator nightmare of hierarchical civilization.
 

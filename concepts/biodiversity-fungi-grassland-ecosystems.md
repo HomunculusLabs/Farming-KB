@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, grasslands, prairie, soil fungi, fungal ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ["/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md""]
 type: concept
 ---
 
-# Fungi in Grassland Ecosystems
+## Fungi in Grassland Ecosystems
 
 Grassland ecosystems, including prairies, savannas, steppes, and
 pastures, support distinctive fungal communities that play critical

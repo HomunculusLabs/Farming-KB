@@ -8,7 +8,7 @@ sources: [papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md]
 type: query
 ---
 
-# What is the Difference Between Organic and Synthetic Nutrients for Cannabis?
+## What is the Difference Between Organic and Synthetic Nutrients for Cannabis?
 
 ## Short Answer
 Organic nutrients are derived from natural sources like compost, bone meal,

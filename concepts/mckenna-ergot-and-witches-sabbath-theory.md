@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# McKenna on Ergot and the Witches' Sabbath Theory
+## McKenna on Ergot and the Witches' Sabbath Theory
 
 In [[bloomfield-ergot-claviceps-purpurea-ergotism]]) in
 Western history: as the likely visionary catalyst of the [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] constituted the mystery deserves careful reconsideration.

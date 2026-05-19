@@ -7,7 +7,7 @@ tags: [jadam, herb-solution, jhs, pesticide, preparation]
 sources:
   - "raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"
 ---
-# JADAM Herb Solution (JHS) Preparation
+## JADAM Herb Solution (JHS) Preparation
 
 JADAM herb solution (JHS) is made by boiling herbs in water and is used primarily for [[jadam-natural-pesticide-institute-and-research]] (JNP). It also functions as a fertilizer, providing nutrients unlike [[arbuscular-mycorrhizal-spore-extraction-methods]] (vinegar, wood vinegar, alcohol brewing) because boiling is cheap, easy, and extracts the most active compounds -- analogous to how boiling chicken produces the richest broth.
 

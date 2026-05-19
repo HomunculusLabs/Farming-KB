@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Aquatic Hyphomycete Conidia and Community Dynamics
+## Aquatic Hyphomycete Conidia and Community Dynamics
 
 [[dighton-pine-needle-litter-decomposition-fungal-succession]] in freshwater ecosystems. Their conidia
 (asexual spores), often tetraradiate or sigmoid in shape, are morphologically

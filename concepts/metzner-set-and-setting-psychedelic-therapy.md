@@ -14,7 +14,7 @@ source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 created: 2026-05-09
 ---
 
-# Set and Setting Hypothesis in Psychedelic Therapy
+## Set and Setting Hypothesis in Psychedelic Therapy
 
 The "set and setting" hypothesis is a foundational principle in psychedelic
 research and therapy, asserting that the effects of hallucinogenic drugs are

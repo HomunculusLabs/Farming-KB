@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Patterns of Society and Social Stratification
+## Patterns of Society and Social Stratification
 
 ## Overview
 

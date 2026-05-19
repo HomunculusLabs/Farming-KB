@@ -7,7 +7,7 @@ tags: [permaculture, aquaculture, fish, ponds, polyculture, water, design, food-
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Permaculture Aquaculture Guide
+## Permaculture Aquaculture Guide
 
 ## Overview
 

@@ -6,7 +6,7 @@ sources:
   - tropisms-in-the-mushroom-psilocybe-cubensis.md
 ---
 
-# Adaptive Significance of Mushroom Tropisms
+## Adaptive Significance of Mushroom Tropisms
 
 ## Overview
 

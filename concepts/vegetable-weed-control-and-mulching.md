@@ -8,7 +8,7 @@ tags: [gardening, weed-control, mulching, organic-gardening]
 sources:
   - "raw/papers/purdue-home-gardeners-guide.md"
 ---
-# Vegetable Weed Control and Mulching
+## Vegetable Weed Control and Mulching
 
 Strategies for managing weeds and applying mulches in home vegetable
 gardens, based on Purdue Extension guidelines. Effective weed control

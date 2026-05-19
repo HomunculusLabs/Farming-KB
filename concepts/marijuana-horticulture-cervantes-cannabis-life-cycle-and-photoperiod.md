@@ -7,7 +7,7 @@ tags: [cannabis, life-cycle, photoperiod, flowering, vegetative, sinsemilla, can
 mined: 2026-05-10
 ---
 
-# Cannabis Life Cycle and Photoperiod Control
+## Cannabis Life Cycle and Photoperiod Control
 
 ## Overview
 

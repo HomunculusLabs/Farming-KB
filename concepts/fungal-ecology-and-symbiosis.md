@@ -6,7 +6,7 @@ created: 2026-05-10
 source: Nicholas P. Money - Mr. Bloomfield's Orchard
 ---
 
-# Fungal Ecology and Symbiosis
+## Fungal Ecology and Symbiosis
 
 Fungi are among the most ecologically important organisms on Earth, playing
 essential roles as decomposers, mutualists, and parasites in virtually every

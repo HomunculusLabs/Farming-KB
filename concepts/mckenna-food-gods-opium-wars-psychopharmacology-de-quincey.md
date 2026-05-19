@@ -6,7 +6,7 @@ type: concept
 tags: [psychedelics, ethnobotany, mckenna, opium, colonialism, psychopharmacology, drug-history, romanticism]
 ---
 
-# Opium Wars, Psychopharmacology, and the Birth of Drug Science
+## Opium Wars, Psychopharmacology, and the Birth of Drug Science
 
 ## Summary
 

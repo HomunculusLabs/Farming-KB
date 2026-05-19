@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Shelterbelt Species Selection and [[cover-crops]] yield (e.g., forage trees in pasture). This ensures the area occupied by shelterbelts adds to total crop yields rather than deducting from them.
+## Shelterbelt Species Selection and [[cover-crops]] yield (e.g., forage trees in pasture). This ensures the area occupied by shelterbelts adds to total crop yields rather than deducting from them.
 
 ### Yield-Positive vs. Yield-Negative Shelterbelts
 

@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Rust Germ Tube Tactile Sensing and Leaf Surface Navigation
+## Rust Germ Tube Tactile Sensing and Leaf Surface Navigation
 
 [[fungal-pathogens-in-agriculture]]. Black stem rust of wheat (Puccinia graminis) has caused crop losses of staggering proportions throughout history, and the ongoing evolutionary arms race between rust fungi and their cereal hosts drives one of the most intensively studied pathogen-plant interactions in biology. A remarkable aspect of rust infection is the ability of the microscopic germ tube — the first hypha emerging from a germinating spore — to navigate the complex topography of a leaf surface and locate stomatal pores using tactile sensing alone.
 

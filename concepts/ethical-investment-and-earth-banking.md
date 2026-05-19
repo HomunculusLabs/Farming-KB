@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 
-# Ethical Investment and Earth Banking
+## Ethical Investment and Earth Banking
 
 updated: 2026-04-18
 

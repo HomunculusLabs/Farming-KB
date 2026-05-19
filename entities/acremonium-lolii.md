@@ -10,7 +10,7 @@ tags:
   - clavicipitaceae
 ---
 
-# Acremonium lolii
+## Acremonium lolii
 
 ## Description
 

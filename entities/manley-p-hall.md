@@ -5,7 +5,7 @@ type: entity
 tags: [person, author, mystic, scholar]
 ---
 
-# Manley P. Hall
+## Manley P. Hall
 
 ## Description
 

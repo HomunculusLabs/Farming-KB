@@ -6,7 +6,7 @@ type: concept
 tags: [psilocybin, mushrooms]
 sources: [papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
-# Psilocybin Mushroom Altitudinal Distribution
+## Psilocybin Mushroom Altitudinal Distribution
 
 The elevational range and altitudinal patterns of psilocybin-containing mushroom species, from sea level to high alpine habitats above 4,000 meters.
 

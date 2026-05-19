@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Seed Starting Methods Comparison
+## Seed Starting Methods Comparison
 
 The method used to [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] affects transplant success, root health, cost, and the range of crops you can grow. This comparison covers six common seed starting approaches, from traditional indoor techniques to direct field sowing and season-extending strategies. For detailed seed starting procedures, see [[vegetative-propagation-methods-mollison]] in [[container-growing-vegetables-herbs]]
 - [[fukuoka-natural-farming-transcends-time-space]]

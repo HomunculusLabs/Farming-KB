@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# PF TEK Spore Viability and Degradation Timeline
+## PF TEK Spore Viability and Degradation Timeline
 
 ## Overview
 

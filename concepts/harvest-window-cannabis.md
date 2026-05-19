@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, harvesting]
 ---
 
-# Harvest Window Cannabis
+## Harvest Window Cannabis
 
 The harvest window is the optimal period of 5-7 days during which [[drying-cannabis]]
 3. **Control fragrance** -- keep drying and work areas well-ventilated; use

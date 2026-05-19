@@ -6,7 +6,7 @@ topics: [mushroom, cultivation, equipment, tools, sterilization, sourcing]
 created: 2026-05-09
 ---
 
-# Mushroom Cultivation Equipment and Sourcing
+## Mushroom Cultivation Equipment and Sourcing
 
 ## Essential Equipment Overview
 

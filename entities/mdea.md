@@ -14,7 +14,7 @@ sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
 
-# MDEA
+## MDEA
 
 MDEA (3,4-methylenedioxy-N-ethylamphetamine), also known as Eve or MDE, is a synthetic entactogen and empathogen closely related to [[mdma]] (Ecstasy). It is the N-ethyl homologue of MDMA, differing by a single ethyl group substitution on the amine nitrogen. Shulgin documented MDEA in PIHKAL and considered it a notable variant that offered a somewhat gentler, more relaxed experience compared to MDMA's energetic intensity.
 

@@ -1,4 +1,8 @@
-# Subjective Therapeutic Window for Cannabis Dosing
+---
+title: "Subjective Therapeutic Window for Cannabis Dosing"
+tags:
+  - concept
+---
 
 The subjective therapeutic window is the optimal dose range at which
 cannabis produces desired [[blesching-cannabis-safety-adverse-effects-evidence]] are directly related
@@ -144,7 +148,3 @@ Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.

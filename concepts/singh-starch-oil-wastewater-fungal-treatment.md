@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Treatment of Starch and Oil Manufacturing Wastewaters
+## Fungal Treatment of Starch and Oil Manufacturing Wastewaters
 
 Starch-processing and oil manufacturing industries generate large volumes
 of wastewater with high organic loads that require effective treatment

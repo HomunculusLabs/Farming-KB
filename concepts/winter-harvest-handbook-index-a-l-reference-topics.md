@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Harvest Handbook Index A-L: Key Reference Topics
+## Winter Harvest Handbook Index A-L: Key Reference Topics
 
 This page serves as a topical glossary expanding the A–L index entries of *The Winter Harvest Handbook* into a structured reference guide for winter vegetable production.
 

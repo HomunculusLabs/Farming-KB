@@ -5,7 +5,7 @@ type: entity
 tags: [permaculture, poultry, forage, integrated-system, zone-two, chickens]
 ---
 
-# Chicken Forage System (Mollison Zone Two)
+## Chicken Forage System (Mollison Zone Two)
 
 ## Description
 

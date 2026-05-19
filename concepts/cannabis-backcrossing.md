@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Backcrossing
+## Cannabis Backcrossing
 
 Backcrossing is one of the most widely used [[vic-high-cannabis-genetics-mendelian-inheritance]]. It involves repeated crossing of progeny with one of
 the original parental genotypes, most often the mother plant. Cervantes

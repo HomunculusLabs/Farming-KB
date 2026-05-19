@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Hydrated Lime and Quicklime for pH Adjustment
+## Hydrated Lime and Quicklime for pH Adjustment
 
 Lime products are essential tools for managing soil
 pH in [[cervantes-dolomite-lime-ph-buffering]]. Hydrated lime

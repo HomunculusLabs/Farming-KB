@@ -9,7 +9,7 @@ sources:
   - "Domain knowledge — mycological reference literature"
 ---
 
-# Panellus stipticus
+## Panellus stipticus
 
 Panellus stipticus is a saprotrophic basidiomycete in the family
 Mycenaceae, widely known as one of the brightest bioluminescent

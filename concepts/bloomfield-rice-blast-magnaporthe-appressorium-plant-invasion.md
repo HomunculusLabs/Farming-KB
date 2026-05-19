@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Rice Blast Fungus and Appressorium-Mediated Plant Invasion
+## Rice Blast Fungus and Appressorium-Mediated Plant Invasion
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [chemistry, chemical-bond, molecular-structure, organic-chemistry, electron-sharing]
 ---
 
-# Covalent Bond
+## Covalent Bond
 
 ## Description
 

@@ -17,7 +17,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Panus tigrinus
+## Panus tigrinus
 
 ## Overview
 

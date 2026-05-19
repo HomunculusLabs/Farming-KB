@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: place
 ---
 
-# Kalaupapa, Moloka'i
+## Kalaupapa, Moloka'i
 
 ## Description
 

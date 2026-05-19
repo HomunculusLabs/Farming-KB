@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Stony (Gibber) Deserts and Foothill Plains Rehabilitation
+## Stony (Gibber) Deserts and Foothill Plains Rehabilitation
 
 ## Overview
 

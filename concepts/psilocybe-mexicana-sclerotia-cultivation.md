@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybe-mexicana, sclerotia, truffles, cultivation, grass-seed, mycology]
 ---
 
-# Psilocybe Mexicana Sclerotia Cultivation
+## Psilocybe Mexicana Sclerotia Cultivation
 
 *Psilocybe mexicana* is a [[hplc-analysis-of-psilocybin-and-psilocin]]. The species is native to Mexico and was one of the
 first psilocybin-containing mushrooms identified by Western science.

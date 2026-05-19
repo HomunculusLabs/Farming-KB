@@ -6,7 +6,7 @@ tags: [lsd, military, psychotomimetic, psycholytic, cia, mk-ultra, hofmann, sand
 created: 2026-05-08
 ---
 
-# LSD from Psychotomimetic to Mystic Catalyst: Military and Therapeutic Origins
+## LSD from Psychotomimetic to Mystic Catalyst: Military and Therapeutic Origins
 
 ## Overview
 

@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Comfrey vs Yarrow
+## Comfrey vs Yarrow
 
 [[comfrey]] and yarrow are both powerhouse [[permaculture]] plants, but they serve
 different primary functions in the garden ecosystem. Comfrey is the biomass

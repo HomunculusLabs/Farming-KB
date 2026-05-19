@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Chinampas Agriculture
+## Chinampas Agriculture
 
 Chinampas are artificial agricultural islands built in shallow lake beds
 or marshes, an ingenious system developed by the Aztec and earlier

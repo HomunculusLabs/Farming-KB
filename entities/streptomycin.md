@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Streptomycin Sulfate
+## Streptomycin Sulfate
 
 ## Description
 [[streptomycin-sulfate]] is an antibiotic used in mycological culture media to suppress bacterial contamination while allowing mushroom mycelium to grow. It is a key component of antibiotic-supplemented agar formulations used for purifying bacteria-contaminated cultures, particularly in the [[antibiotic-sandwich]] technique.

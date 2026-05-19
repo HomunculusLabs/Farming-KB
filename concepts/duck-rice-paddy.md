@@ -8,7 +8,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 ---
 
-# Duck-Rice Paddy Integration
+## Duck-Rice Paddy Integration
 
 ## Overview
 

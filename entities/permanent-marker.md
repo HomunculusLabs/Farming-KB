@@ -18,7 +18,7 @@ sources:
   - Weedmaps Strain Library (2024). "Permanent Marker Profile."
 ---
 
-# Permanent Marker
+## Permanent Marker
 
 ## Overview
 

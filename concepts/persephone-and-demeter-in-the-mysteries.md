@@ -7,7 +7,7 @@ type: concept
 tags: [reference]
 ---
 
-# Persephone and Demeter in the Eleusinian Mysteries
+## Persephone and Demeter in the Eleusinian Mysteries
 
 The sacred myth underlying the [[maenads-thyrsos-and-ecstatic-ritual]], like Persephone, also
 gathered flowers. Their emblem was the thyrsos, a fennel stalk stuffed with

@@ -6,7 +6,7 @@ created: 2026-05-10
 tags: [soil-science, microbiology, agriculture, ecology, nitrogen-fixation]
 ---
 
-# Soil Microorganisms in Natural Farming
+## Soil Microorganisms in Natural Farming
 
 ## Overview
 

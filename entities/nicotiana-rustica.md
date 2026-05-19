@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Nicotiana rustica
+## Nicotiana rustica
 
 **Nicotiana rustica**, commonly known as **Wild Tobacco** or **Aztec Tobacco**, is a powerful species of tobacco native to the Americas. It is significantly stronger than commercial tobacco (N. tabacum) and has been used both recreationally and as a psychoactive adjunct in shamanic practices throughout the New World.
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Slug and Snail Control in the Organic Garden
+## Slug and Snail Control in the Organic Garden
 
 [[hamilton-hedges-and-windbreaks]]
 where they can shelter during the day.

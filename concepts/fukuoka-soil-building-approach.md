@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Soil Building Approach
+## Fukuoka Soil Building Approach
 
 Masanobu Fukuoka's approach to soil building within [[jadam-red-clay-powder-method]] into rich, dark, humus-laden soil more than four inches deep.
 

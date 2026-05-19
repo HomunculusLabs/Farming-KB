@@ -17,7 +17,7 @@ sources:
   - raw/papers/allegro-j-the-sacred-mushroomcross.md
 ---
 
-# Psychedelic Plants in Ancient Cultures
+## Psychedelic Plants in Ancient Cultures
 
 The evidence and theories connecting psychoactive plants to ancient religious practices, particularly [[plutarch-and-cicero-on-the-eleusinian-mysteries]] and the Vedic Soma ceremony.
 

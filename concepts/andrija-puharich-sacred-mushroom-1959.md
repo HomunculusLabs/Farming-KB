@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Andrija Puharich and The Sacred Mushroom (1959)
+## Andrija Puharich and The Sacred Mushroom (1959)
 
 ## ESP, Egyptian Priests, and the Fly-Agaric in Maine
 

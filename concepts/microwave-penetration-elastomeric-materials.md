@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Microwave Penetration Through Elastomeric Materials
+## Microwave Penetration Through Elastomeric Materials
 
 A critically important finding documented in NASA Technical Brief MSC-22484 is that microwave radiation at 2.45 GHz can penetrate through elastomeric sealing materials to sterilize surfaces on the far side within fully enclosed systems. The NASA documentation specifically states that using this method, microwave radiation has been shown to sterilize surfaces after first penetrating elastomeric materials, and therefore can be used to sterilize fully enclosed systems.
 

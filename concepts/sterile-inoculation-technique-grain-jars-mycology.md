@@ -7,7 +7,7 @@ tags: [inoculation, sterile-technique, grain-jars, mushroom-cultivation, contami
 created: 2026-05-11
 ---
 
-# Sterile Inoculation Technique for Grain Jars
+## Sterile Inoculation Technique for Grain Jars
 
 ## Overview
 

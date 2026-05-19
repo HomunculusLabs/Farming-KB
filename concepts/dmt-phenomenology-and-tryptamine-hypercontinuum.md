@@ -8,7 +8,7 @@ type: concept
 tags: [dmt, tryptamine, phenomenology, consciousness, psychedelics, mckenna]
 ---
 
-# DMT Phenomenology and the Tryptamine Hypercontinuum
+## DMT Phenomenology and the Tryptamine Hypercontinuum
 
 ## Overview
 

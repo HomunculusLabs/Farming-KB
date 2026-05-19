@@ -22,7 +22,7 @@ sources:
 - raw/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md
 ---
 
-# Robert C. Clarke
+## Robert C. Clarke
 
 > **Note:** Sources unavailable — content from model knowledge. Review and add sources.
 

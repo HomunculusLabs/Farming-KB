@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis for Multiple Sclerosis
+## Cannabis for Multiple Sclerosis
 
 Multiple sclerosis (MS) is one of the most common neurological diseases, a chronic, inflammatory, and degenerative illness with no cure and no exact cause. The term derives from Latin "multi" and "plus" (manifold) and Greek "sclerosis" (hardness), describing the breakdown of myelin sheets that insulate the brain and spinal cord, causing nerve impulses to misfire.
 

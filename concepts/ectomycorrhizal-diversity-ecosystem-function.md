@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Ectomycorrhizal Diversity and Ecosystem Function
+## Ectomycorrhizal Diversity and Ecosystem Function
 
 The relationship between ectomycorrhizal [[fungal-diversity-and-ecosystem-function]] represents a frontier in microbial ecology. While it has long been recognized that different ectomycorrhizal species perform different physiological functions, the question of whether diversity per se drives ecosystem productivity—beyond the contributions of individual species—has only recently been addressed through controlled experimentation.
 

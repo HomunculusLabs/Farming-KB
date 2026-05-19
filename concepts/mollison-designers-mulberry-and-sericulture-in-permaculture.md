@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Mulberry and Sericulture in Permaculture
+## Mulberry and Sericulture in Permaculture
 
 The mulberry (Morus spp.) is presented in the [[fukuoka-spiritual-philosophical-foundation]] for understanding mulberry's role. He states
 that it is as valid to plant a mulberry for silkworms as it is to plant an

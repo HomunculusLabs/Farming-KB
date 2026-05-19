@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# LSD in Psychotherapy and the Model Psychosis Concept
+## LSD in Psychotherapy and the Model Psychosis Concept
 
 ## Overview
 

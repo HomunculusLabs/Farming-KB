@@ -7,7 +7,7 @@ tags: [fungi, mycology, biology, ecology, entomopathogenic, pesticide, agricultu
 sources: []
 ---
 
-# Cordyceps and Entomopathogenic Fungi
+## Cordyceps and Entomopathogenic Fungi
 
 Entomopathogenic fungi are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in biological pest control.
 

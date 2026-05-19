@@ -8,7 +8,7 @@ sources:
   - raw/papers/amanita-muscaria-herb-of-immortality.md
 ---
 
-# Amanita Muscaria Chemistry and Pharmacology
+## Amanita Muscaria Chemistry and Pharmacology
 
 ## Overview
 

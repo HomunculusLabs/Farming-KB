@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [reference]
 ---
 
-# Psilocybe Natalensis: Africa's First Documented Psychoactive Psilocybe
+## Psilocybe Natalensis: Africa's First Documented Psychoactive Psilocybe
 
 In January 1994, Jochen Gartz and M. Smith discovered a bluing Psilocybe species in Natal Province, South Africa -- the first psychotropic Psilocybe species ever found in the area. The discovery was published as Psilocybe natalensis Gartz, Reid, Ecker & Smith, adding a significant new species to the African psychoactive mycoflora and providing support for the hypothesis of an ancient [[psilocybe-cubensis-potency-variation-by-flush]]
 - **Habitat:** Does NOT grow directly on top of dung in cow pastures (distinguishing it from P. cubensis)

@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cultivation, environment, fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Fruiting Conditions for Mushrooms Fruiting conditions are the specific environmental parameters that trigger the transition from vegetative mycelial growth to reproductive fruiting body formation in fungi. For cultivated mushrooms including Pleurotus species, managing these conditions precisely is essential for consistent yields and quality. [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]].
+## Fruiting Conditions for Mushrooms Fruiting conditions are the specific environmental parameters that trigger the transition from vegetative mycelial growth to reproductive fruiting body formation in fungi. For cultivated mushrooms including Pleurotus species, managing these conditions precisely is essential for consistent yields and quality. [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]].
 
 ### Relative Humidity
 

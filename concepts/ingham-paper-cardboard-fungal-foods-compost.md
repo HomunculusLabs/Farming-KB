@@ -10,7 +10,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Paper and Cardboard as Fungal Food Sources in Compost
+## Paper and Cardboard as Fungal Food Sources in Compost
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Equatorial House Design Essentials
+## Equatorial House Design Essentials
 
 Designing for the equatorial tropics—where there is no cold season and the primary challenge is reducing heat—requires a fundamentally different approach from temperate or even subtropical housing. The equatorial house prioritizes ventilation, shade, and lightweight construction, drawing on centuries of traditional building wisdom from regions like Fiji, the Philippines, and across the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 

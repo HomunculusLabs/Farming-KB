@@ -1,5 +1,5 @@
 ---
-title: Reishi (stamets-reishi-ganoderma-lucidum-cultivation)
+title: "Reishi Ganoderma Lucidum"
 created: 2026-04-28
 tags: [mushrooms, fungi, medicinal, cultivation, traditional-medicine]
 date: 2026-04-28
@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Reishi (Ganoderma lucidum)
+## Reishi (Ganoderma lucidum)
 
 [[psilocybin-north-america-pacific-northwest]]
 and Europe, it is commonly known as one of the "Artist's Conk" fungi, since

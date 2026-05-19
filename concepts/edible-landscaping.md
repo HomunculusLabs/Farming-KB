@@ -7,7 +7,7 @@ tags: [permaculture, gardening, food-forest, design, plants, cultivation]
 sources: []
 ---
 
-# Edible Landscaping
+## Edible Landscaping
 
 Edible landscaping replaces or supplements ornamental plants with food-producing species while maintaining aesthetic appeal. It integrates [[permaculture-design]] design principles with traditional landscape architecture, creating productive spaces that look intentional and beautiful.
 

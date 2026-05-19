@@ -20,7 +20,7 @@ related_concepts:
   - seed-saving-and-plant-breeding
 ---
 
-# Happy Hill Rice
+## Happy Hill Rice
 
 Happy Hill is a rice strain developed by [[natural-farming-principles-fukuoka]] applied to plant breeding — a variety created
 through natural selection and symbiosis with the farm ecosystem rather

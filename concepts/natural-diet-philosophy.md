@@ -1,4 +1,8 @@
-# [[fukuoka-natural-alfalfa-black-wattle-ground-cover]]-farming-principlesples into
+---
+title: "fukuoka natural alfalfa black wattle ground cover-farming-principlesples into"
+tags:
+  - concept
+---
 human nutrition. He argued that food and farming are "the front and back of
 one body" and that a [[natural-farming]], nor can
 the farmer know what to grow without a natural diet being established. His

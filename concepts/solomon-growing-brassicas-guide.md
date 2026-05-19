@@ -7,7 +7,7 @@ tags: [organic-gardening, soil]
 sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
-# Solomon on Growing Brassicas
+## Solomon on Growing Brassicas
 
 From [[winter-gardening-techniques]]
 - [[root-competition-plant-spacing-solomon]]

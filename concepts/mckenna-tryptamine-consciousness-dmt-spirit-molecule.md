@@ -8,7 +8,7 @@ type: concept
 tags: [dmt, spirituality, tryptamine]
 ---
 
-# DMT and the Spirit Molecule
+## DMT and the Spirit Molecule
 
 McKenna's account of dimethyltryptamine (DMT) in "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992) is one of the most vivid phenomenological descriptions of the smoked DMT experience in the literature. He frames DMT not merely as a drug but as a portal to what he calls the "[[mckenna-quantum-mechanical-correlates-hallucinogenesis]] discussions of consciousness.
 

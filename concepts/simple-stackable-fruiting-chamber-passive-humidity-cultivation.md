@@ -7,7 +7,7 @@ type: cultivation-guide
 topics: [mycology, mushroom-cultivation, fruiting-chamber, humidity-management, grow-room-design]
 ---
 
-# Simple Stackable Fruiting Chamber Design for Small-Scale Cultivation
+## Simple Stackable Fruiting Chamber Design for Small-Scale Cultivation
 
 ## Overview
 

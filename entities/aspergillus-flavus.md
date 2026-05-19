@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, plant-pathogen, mycotoxin, soil-fungus]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Aspergillus flavus
+## Aspergillus flavus
 
 **Type:** Species (Fungus)
 **Category:** Filamentous Ascomycete

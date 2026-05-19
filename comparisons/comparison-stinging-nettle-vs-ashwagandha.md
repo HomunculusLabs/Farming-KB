@@ -6,7 +6,7 @@ updated: 2026-05-15
 sources: []
 ---
 
-# Stinging Nettle vs Ashwagandha
+## Stinging Nettle vs Ashwagandha
 
 ## Overview
 

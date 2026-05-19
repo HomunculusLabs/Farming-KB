@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Integrated Land Management and Tropical Hill-to-Shore Profiles
+## Integrated Land Management and Tropical Hill-to-Shore Profiles
 
 Integrated land management draws on traditional geomorphic and sociological units—such as the Maori marae and Hawaiian ohana—where land and people were unified for sustenance. These systems may have evolved from early errors of over-clearing, excessive burning, and extinction of useful animals before reaching ecological equilibrium. The modern challenge is to apply these lessons before similar errors compound into irreversible damage.
 

@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Living Soil Cannabis vs Hydroponic Cannabis
+## Living Soil Cannabis vs Hydroponic Cannabis
 
 ## Overview
 Living soil and hydroponic cultivation represent two fundamentally different

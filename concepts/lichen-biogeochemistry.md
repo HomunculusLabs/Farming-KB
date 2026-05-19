@@ -20,7 +20,7 @@ synopsis: >-
   outsized roles in biogeochemical processes relative to their biomass.
 ---
 
-# Lichen Biogeochemistry
+## Lichen Biogeochemistry
 
 ## What Are Lichens?
 

@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# BIM vs JADAM Indigenous Microorganism Solution
+## BIM vs JADAM Indigenous Microorganism Solution
 
 ## Overview
 

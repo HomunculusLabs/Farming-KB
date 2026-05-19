@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# METHYL-DMA
+## METHYL-DMA
 
 [[mdma]], and it barely produced a threshold
 > effect, so the two materials might be seeing one another.

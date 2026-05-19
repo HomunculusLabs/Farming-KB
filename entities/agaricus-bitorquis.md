@@ -5,9 +5,9 @@ type: species
 tags: [mycology, identification, gourmet-mushrooms, agaricus]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 ---
-# Agaricus bitorquis Agaricus bitorquis, commonly known as the Pavement Mushroom or the City Mushroom, is a robust edible Agaricus species noted for its tolerance of compacted, disturbed soils. Often found growing through asphalt, along roadsides, and in urban environments, this hardy mushroom is one of the most adaptable members of the genus. Its ability to thrive in poor, compacted substrates makes it a distinctive species among the meadow-inhabiting Agaricus group. See [[agaricus-brunnescens]] can be adapted for this species.
+## Agaricus bitorquis Agaricus bitorquis, commonly known as the Pavement Mushroom or the City Mushroom, is a robust edible Agaricus species noted for its tolerance of compacted, disturbed soils. Often found growing through asphalt, along roadsides, and in urban environments, this hardy mushroom is one of the most adaptable members of the genus. Its ability to thrive in poor, compacted substrates makes it a distinctive species among the meadow-inhabiting Agaricus group. See [[agaricus-brunnescens]] can be adapted for this species.
 
 ## Culinary Value
 

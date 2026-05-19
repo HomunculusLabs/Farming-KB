@@ -25,7 +25,7 @@ sources:
   - Purseglove, J.W. et al. (1981). Spices, Vol. 2. Longman.
 ---
 
-# Vanilla planifolia
+## Vanilla planifolia
 
 ## Overview
 

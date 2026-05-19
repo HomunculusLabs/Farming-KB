@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# BIS-TOM
+## BIS-TOM
 
 **[[petroleum-ether]], followed by
 dimethyldisulfide (7.5 g). The crude product (5.3 g, 80% pure)

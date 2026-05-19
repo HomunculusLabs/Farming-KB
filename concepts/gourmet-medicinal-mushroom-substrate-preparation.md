@@ -10,7 +10,7 @@ type: concept
 tags: [bulk-substrate, medicine, mushroom-cultivation]
 ---
 
-# Gourmet and Medicinal Mushroom Substrate Preparation
+## Gourmet and Medicinal Mushroom Substrate Preparation
 
 Substrate preparation is the foundation of successful [[mycelial-growth-and-colonization]] fruiting. Different mushroom species have evolved to decompose specific materials, and selecting the right substrate is critical to achieving high [[oyster-mushroom-supplemented-sawdust-blocks]] formulas, while denser hardwoods (oak, ironwood) produce longer-lasting logs.
 

@@ -1,4 +1,8 @@
-# The Wasson Fly-Agaric Theory and Its Contradictions
+---
+title: "The Wasson Fly-Agaric Theory and Its Contradictions"
+tags:
+  - concept
+---
 
 ## Source
 *Terence McKenna — Food of the Gods (1992)*
@@ -143,8 +147,3 @@ Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.

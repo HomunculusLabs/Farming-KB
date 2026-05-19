@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Mushroom Logs, Mycorrhizae and Fungi Cultivation
+## Holzer Mushroom Logs, Mycorrhizae and Fungi Cultivation
 
 [[holzer-mushroom-cultivation-experiments]] pages. His approach covers three main methods: log cultivation, straw cultivation, and wild mushroom propagation.
 

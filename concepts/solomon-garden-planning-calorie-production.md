@@ -8,7 +8,7 @@ type: concept
 tags: [gardening]
 ---
 
-# Garden Planning for Calorie Production
+## Garden Planning for Calorie Production
 
 ## The Half-Acre Benchmark
 

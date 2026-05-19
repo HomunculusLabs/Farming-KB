@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Neuroprotection Research
+## Cannabis and Neuroprotection Research
 
 **Source:** Uwe Blesching, The [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], neuronal damage)
 

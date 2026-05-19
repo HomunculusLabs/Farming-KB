@@ -5,7 +5,7 @@ source_author: S.T. Oner / The Rev
 topics: [cannabis, strain-profile, sativa, trainwreck, medical-cannabis, spanish-genetics]
 ---
 
-# Chupacabra Strain Profile
+## Chupacabra Strain Profile
 
 ## Overview
 

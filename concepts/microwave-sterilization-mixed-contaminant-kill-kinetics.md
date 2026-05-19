@@ -7,7 +7,7 @@ tags: [sterilization, microwave, microbiology, kill-curves, dose-response]
 sources: [raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md]
 ---
 
-# Microwave Mixed Contaminant Kill Kinetics
+## Microwave Mixed Contaminant Kill Kinetics
 
 The NASA [[microwave-microbial-kill-curves]] generated from these experiments demonstrate that [[challenge-microorganisms-microwave-surface-sterilization]] to represent the range of biological contamination that the sterilization system might encounter in practice:
 

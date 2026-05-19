@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MEPEA
+## MEPEA
 
 [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]]. This was shown to contain an analogue of DOM,
 3-methoxy-4-methylamphetamine, or MMA. The Italian authorities made

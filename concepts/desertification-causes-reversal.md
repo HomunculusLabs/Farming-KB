@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# [[fungi-around-the-world-species-distribution]]:
+## [[fungi-around-the-world-species-distribution]]:
 
 1. Original vegetation (mixed forests, diverse grasslands) is removed through
    deforestation, overgrazing, or conversion to monoculture

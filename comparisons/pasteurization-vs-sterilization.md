@@ -1,5 +1,5 @@
 ---
-title: stamets-cultivator-pasteurization-vs-sterilization-methods in accessible-mushroom-cultivation-for-disabilities
+title: "Pasteurization Vs Sterilization"
 created: 2026-04-17
 updated: 2026-04-17
 type: comparison
@@ -10,7 +10,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-# Pasteurization vs Sterilization in [[grain-spawn-preparation]] (rye, millet, wheat).
+## Pasteurization vs Sterilization in [[grain-spawn-preparation]] (rye, millet, wheat).
 
 Agar media for petri dish and slant cultures.
 

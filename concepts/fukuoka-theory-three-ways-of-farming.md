@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka's Three Ways of Farming: Mahayana, Hinayana, and Scientific
+## Fukuoka's Three Ways of Farming: Mahayana, Hinayana, and Scientific
 
 [[comparison-natural-farming-vs-permaculture]])
 - **Relative World:** [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] ([[mahayana-natural-farming]]

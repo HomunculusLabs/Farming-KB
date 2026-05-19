@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] and
+## [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] and
 stropharia cyanescens.
 
 ## Taxonomic History

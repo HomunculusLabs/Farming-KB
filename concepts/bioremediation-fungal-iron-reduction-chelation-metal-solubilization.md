@@ -9,7 +9,7 @@ sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md,
 type: concept
 ---
 
-# Fungal Iron Reduction and Chelation in Metal Solubilization
+## Fungal Iron Reduction and Chelation in Metal Solubilization
 
 Fungi can alter the speciation and mobility of metals and minerals
 through the production of organic acids and other chelating agents. Iron

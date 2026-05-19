@@ -18,7 +18,7 @@ sources:
   - Foster, T.J. et al. (2014). "Adhesion, invasion and evasion: the many functions of the surface proteins of Staphylococcus aureus." Nature Reviews Microbiology, 12(1), 49-62.
 ---
 
-# Staphylococcus aureus
+## Staphylococcus aureus
 
 ## Overview
 

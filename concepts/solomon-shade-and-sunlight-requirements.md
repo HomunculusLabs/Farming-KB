@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Shade and Sunlight Requirements
+## Shade and Sunlight Requirements
 
 [[companion-cultivation-of-mushrooms-with-garden-vegetables]] perform best in full sun, which Solomon
 generally defines as at least six to eight hours of direct sunlight per

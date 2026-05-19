@@ -5,7 +5,7 @@ source_author: S.T. Oner / CannaVenture Seeds
 topics: [cannabis, strain-profile, sativa, trainwreck, girl-scout-cookies, hybrid, hash-production]
 ---
 
-# CookieWreck Strain Profile
+## CookieWreck Strain Profile
 
 ## Overview
 

@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Arbuscular vs Ectomycorrhizal Fungi ## Overview Arbuscular mycorrhizal fungi (AMF) and [[lichens-primary-production-soil-formation-dighton]] |
+## Arbuscular vs Ectomycorrhizal Fungi ## Overview Arbuscular mycorrhizal fungi (AMF) and [[lichens-primary-production-soil-formation-dighton]] |
 | **Soil carbon influence** | Glomalin; moderate C storage | Chitin/melanin; recalcitrant C pools |
 | **Decomposition impact** | Neutral to positive | Gadgil effect: suppresses saprotrophs |
 | **[[coleman-deep-organic-farming-philosophy]]**: AMF inoculants approved and reduce soluble fertilizer

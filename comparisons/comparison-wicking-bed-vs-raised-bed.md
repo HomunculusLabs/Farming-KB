@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Wicking Bed vs Raised Bed
+## Wicking Bed vs Raised Bed
 
 ## Overview
 

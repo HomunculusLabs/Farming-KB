@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, marine-fungi, salt-tolerance, physiological-model]
 ---
 
-# Dendryphiella salina
+## Dendryphiella salina
 
 ## Description
 

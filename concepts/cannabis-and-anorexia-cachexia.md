@@ -20,7 +20,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Anorexia Cachexia
+## Cannabis and Anorexia Cachexia
 
 ## Overview
 

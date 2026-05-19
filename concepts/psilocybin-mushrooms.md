@@ -6,7 +6,7 @@ created: 2026-05-10
 source: Terence McKenna - Food of the Gods; Nicholas P. Money - Mr. Bloomfield's Orchard
 ---
 
-# Psilocybin Mushrooms
+## Psilocybin Mushrooms
 
 Psilocybin mushrooms are fungi containing the psychoactive compounds
 [[psilocybin-mystical-experiences-personality-change]]

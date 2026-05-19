@@ -13,7 +13,7 @@ source: The Field Guide I for Actively Aerated Compost Tea - Ingham (2004)
 created: 2026-05-11
 ---
 
-# AACT Brewing Science
+## AACT Brewing Science
 
 Actively Aerated Compost Tea (AACT) is a liquid extract produced by
 brewing high-quality compost in aerated water with supplemental food

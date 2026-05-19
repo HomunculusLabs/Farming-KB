@@ -21,7 +21,7 @@ tags: [`tryptamine`, `entheogen`]
 sources:
   - raw/papers/shulgin-a-tihkal.md
 
-# 5,6-MeO-MIPT
+## 5,6-MeO-MIPT
 
 5,6-Dimethoxy-N-Isopropyl-N-Methyltryptamine
 

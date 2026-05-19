@@ -5,7 +5,7 @@ type: entity
 tags: [fish, aquaculture, permaculture, pond-culture, polyculture]
 ---
 
-# Bluegill (Lepomis macrochirus)
+## Bluegill (Lepomis macrochirus)
 
 ## Description
 

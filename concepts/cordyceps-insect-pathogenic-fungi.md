@@ -5,7 +5,7 @@ source: Nicholas P. Money, Mr. Bloomfield's Orchard (2002)
 tags: [cordyceps, entomopathogenic, insect-pathogen, zombie-ants, parasitic-fungi, ascomycota, biological-control]
 ---
 
-# Cordyceps — Insect Pathogenic Fungi
+## Cordyceps — Insect Pathogenic Fungi
 
 ## Introduction to Cordyceps
 

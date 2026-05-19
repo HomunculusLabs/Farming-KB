@@ -22,7 +22,7 @@ related_concepts:
   - bloomfield-potato-blight-phytophthora-infestans
 ---
 
-# Tomato Cultivation and Variety Guide
+## Tomato Cultivation and Variety Guide
 
 Tomatoes (Solanum lycopersicum) are the most widely grown garden vegetable in
 the world, cherished for their versatility in the kitchen and their relatively

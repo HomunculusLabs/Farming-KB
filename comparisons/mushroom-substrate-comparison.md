@@ -25,7 +25,7 @@ sources:
 - concepts/outdoor-wood-lover-cultivation.md
 ---
 
-# Mushroom Substrate Comparison
+## Mushroom Substrate Comparison
 
 Choosing the right substrate is the single most important factor in successful mushroom cultivation. Different substrates suit different species, skill levels, and growing environments. This comparison covers the major substrate categories used by home growers, synthesized from [[mushroom-substrates]], [[psilocybin-mushroom-cultivation]], and cultivation method pages.
 

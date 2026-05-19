@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Frost Protection in Permaculture
+## Frost Protection in Permaculture
 
 ## Overview
 

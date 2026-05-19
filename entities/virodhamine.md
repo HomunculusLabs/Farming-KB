@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# Virodhamine
+## Virodhamine
 
 **Type:** Chemical Compound (Endocannabinoid)
 **Category:** Endogenous Cannabinoid

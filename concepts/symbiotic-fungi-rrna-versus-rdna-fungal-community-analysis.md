@@ -6,7 +6,7 @@ extracted: 2026-05-10
 tags: [molecular-ecology, rRNA, rDNA, fungal-community, rhizosphere, PCR, metagenomics, symbiotic-fungi]
 ---
 
-# rRNA Versus rDNA for Fungal Community Analysis in the Rhizosphere
+## rRNA Versus rDNA for Fungal Community Analysis in the Rhizosphere
 
 ## The Fundamental Distinction
 

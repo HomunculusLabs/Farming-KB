@@ -5,7 +5,7 @@ type: entity
 tags: [person, anthropologist, peyote, religion, american, ethnography]
 ---
 
-# Weston La Barre
+## Weston La Barre
 
 ## Description
 

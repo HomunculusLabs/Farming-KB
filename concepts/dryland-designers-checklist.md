@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dryland Designers' Checklist
+## Dryland Designers' Checklist
 
 This checklist, drawn from [[drip-irrigation]] (targeted delivery with minimal evaporative loss).
 - **Broadscale cropping** requires both windbreak protection and water harvesting infrastructure. Mollison recommends a ratio of **20 hectares of runoff collection to 1 hectare of sown crop**, reflecting the vast catchment area needed to concentrate sufficient water for field-scale production.

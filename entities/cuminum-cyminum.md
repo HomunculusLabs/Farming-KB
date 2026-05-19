@@ -14,7 +14,7 @@ sources:
   - Johri, R.K. (2011). "Cuminum cyminum and permaculture-designers-manual-essential-oil-plants and its antioxidant activity." Journal of Food Science and Technology, 56(3), 1382-1390.
 ---
 
-# Cuminum cyminum
+## Cuminum cyminum
 
 ## Overview
 

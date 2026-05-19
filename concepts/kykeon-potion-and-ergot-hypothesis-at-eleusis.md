@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# The Kykeon Potion and Ergot Hypothesis at Eleusis
+## The Kykeon Potion and Ergot Hypothesis at Eleusis
 
 The central ritual of the [[bloomfield-ergot-claviceps-purpurea-ergotism]]) growing on barley -- Demeter's sacred grain.
 

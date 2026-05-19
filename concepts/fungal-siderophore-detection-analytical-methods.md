@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungal Siderophore Detection and Analytical Methods
+## Fungal Siderophore Detection and Analytical Methods
 
 The identification and characterization of fungal siderophores requires a
 combination of bioassays, chemical [[fungal-siderophore-structures-classification]] for structural families

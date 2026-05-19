@@ -6,7 +6,7 @@ tags: [dmt, tryptamine, hallucinogen, consciousness, psychedelics,
 serotonin, endogenous]
 ---
 
-# DMT and Tryptamine Hallucinogens
+## DMT and Tryptamine Hallucinogens
 
 ## Overview
 

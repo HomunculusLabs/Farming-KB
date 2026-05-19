@@ -7,7 +7,7 @@ tags: [soil-physics, soil-structure, porosity, soil-health]
 sources: []
 ---
 
-# Soil Porosity and Pore Size Distribution
+## Soil Porosity and Pore Size Distribution
 
 Soil porosity is the fraction of total soil volume occupied by pore spaces — the voids
 between solid mineral particles [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]], root penetration, and microbial habitat.

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Chemical Fungicides, Insecticides, and Safety
+## Chemical Fungicides, Insecticides, and Safety
 
 Chemical pest and [[jorge-cervantes]]' [[fungal-melanin-environmental-protection-stress-resistance-gadd]] Agency classifies pesticides into
 four categories based on [[query-how-does-no-till-cannabis-cultivation-work]]. [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] provides mechanical pest control

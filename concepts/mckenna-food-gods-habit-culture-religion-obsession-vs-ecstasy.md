@@ -18,7 +18,7 @@ tags:
   - cultural-innovation
 ---
 
-# Habit, Culture, Religion: Obsession vs. Ecstasy
+## Habit, Culture, Religion: Obsession vs. Ecstasy
 
 ## Culture Is Largely a Matter of Habit
 

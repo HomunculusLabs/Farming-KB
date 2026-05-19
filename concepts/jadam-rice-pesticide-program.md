@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Comprehensive Rice Pesticide Program (JADAM Recipe #3)
+## Comprehensive Rice Pesticide Program (JADAM Recipe #3)
 
 ## Overview
 

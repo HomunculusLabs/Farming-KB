@@ -7,7 +7,7 @@ sources:
   - "raw/papers/jeavons-how-grow-vegetables.md"
 ---
 
-# What is Biointensive Gardening and How Do I Start?
+## What is Biointensive Gardening and How Do I Start?
 
 ## Short Answer
 

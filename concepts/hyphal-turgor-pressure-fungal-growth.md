@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Hyphal Turgor Pressure and Fungal Growth Mechanics
+## Hyphal Turgor Pressure and Fungal Growth Mechanics
 
 ## Overview
 

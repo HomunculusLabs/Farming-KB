@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 
-# Hamilton Composting and Organic Matter Management
+## Hamilton Composting and Organic Matter Management
 
 ## Overview
 

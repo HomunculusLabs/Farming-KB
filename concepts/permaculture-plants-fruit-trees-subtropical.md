@@ -10,7 +10,7 @@ type: concept
 tags: [culture, fruit-tree, permaculture, plants, tree-crop]
 ---
 
-# Permaculture Fruit Trees for Subtropical Climates
+## Permaculture Fruit Trees for Subtropical Climates
 
 Subtropical fruit trees bridge the gap between temperate and tropical species, often offering exceptional nutritional value, medicinal properties, and productivity. Many are evergreen, providing year-round canopy cover and multiple harvests. This page covers the key subtropical species from the source.
 

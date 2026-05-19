@@ -5,10 +5,10 @@ type: chemical
 tags: [beta-glucan, immunomodulator, anti-tumor, medicinal-mushroom]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
 
-# Grifolan
+## Grifolan
 
 Grifolan is a beta-1,3-glucan with beta-1,6-glucosidic branches extracted from the [[grifola-frondosa]] fruiting bodies using hot water extraction followed by [[ethanol]] precipitation. Further purification typically involves:
 - Protein removal (Sevag method or protease treatment)

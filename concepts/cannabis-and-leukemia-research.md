@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis and Leukemia
+## Cannabis and Leukemia
 
 **Source:** The [[uwe-blesching]], PhD (2017)
 **Updated:** 2026-04-19

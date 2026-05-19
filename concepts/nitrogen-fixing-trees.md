@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
-# Nitrogen-Fixing Trees
+## Nitrogen-Fixing Trees
 
 Nitrogen-fixing trees (NFTs) form symbiotic relationships with nitrogen-fixing bacteria, primarily Rhizobium species in legumes and Frankia species in actinorhizal plants, enabling them to convert atmospheric nitrogen into plant-available forms.
 Bill Mollison considered nitrogen-fixing trees and shrubs essential components of every [[ingham-compost-tea-application-rates-and-timing]] of synthetic nitrogen fertilizers.

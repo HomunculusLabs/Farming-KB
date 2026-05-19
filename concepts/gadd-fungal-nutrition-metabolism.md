@@ -8,7 +8,7 @@ tags: [fungi]
 updated: 2026-04-26
 ---
 
-# Fungal Nutrition and Metabolism
+## Fungal Nutrition and Metabolism
 
 ## Overview
 

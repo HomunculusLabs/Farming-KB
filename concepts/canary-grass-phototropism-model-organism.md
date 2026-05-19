@@ -7,7 +7,7 @@ sources:
   - raw/papers/grahamholmes-what-a-plant-knowsindd.md
 ---
 
-# Canary Grass as a Model Organism in Phototropism Research
+## Canary Grass as a Model Organism in Phototropism Research
 
 **Canary grass** (*Phalaris canariensis*) occupies a distinguished position in the
 history of plant physiology as the primary experimental organism used by Charles

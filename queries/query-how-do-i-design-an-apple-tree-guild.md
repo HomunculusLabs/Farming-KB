@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How do I design an apple tree guild?
+## How do I design an apple tree guild?
 
 ## Short Answer
 

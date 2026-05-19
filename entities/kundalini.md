@@ -5,7 +5,7 @@ type: entity
 tags: [technique, energy, yoga, tantric, consciousness]
 ---
 
-# Kundalini
+## Kundalini
 
 ## Description
 Kundalini (Sanskrit: "coiled snake") refers to a form of primal energy believed in Tantric yoga to lie dormant at the base of the spine. In *The Psychedelic Experience*, Leary describes the activation of Kundalini energy as a natural phenomenon that occurs during the First Bardo (ego-loss) phase, where ecstatic energy movement is felt rising from the base of the spine through ganglionic centers (chakras) to the crown of the head.

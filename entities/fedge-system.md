@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Fedge System (Fence-Hedge)
+## Fedge System (Fence-Hedge)
 
 ## Description
 

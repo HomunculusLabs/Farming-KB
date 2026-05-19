@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Visions of External Unity, the Retinal Circus, and the Magic Theatre
+## Visions of External Unity, the Retinal Circus, and the Magic Theatre
 
 Visions 5 through 7 of [[the-second-bardo-and-hallucinatory-visions]] represent the mind's progressive departure from
 one-pointed concentration into increasingly dramatized displays of consciousness content.

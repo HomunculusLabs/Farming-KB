@@ -7,7 +7,7 @@ tags: [person, mycology, biology, academia]
 sources: [raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
 ---
 
-# Nicholas P. Money
+## Nicholas P. Money
 
 Mycologist and science writer, author of "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists" (2002, Oxford University Press). Professor of botany at Miami University (Ohio). Known for making fungal biology accessible through engaging, witty prose that blends scientific rigor with literary flair.
 

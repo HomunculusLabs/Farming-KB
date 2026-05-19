@@ -5,7 +5,7 @@ topics: [psilocybin, serotonin, tryptamine, pharmacology, dmt, endogenous, mcken
 created: 2026-05-09
 ---
 
-# Psilocybin-Serotonin Structural Homology and the Endogenous Familiarity Argument
+## Psilocybin-Serotonin Structural Homology and the Endogenous Familiarity Argument
 
 ## Overview
 

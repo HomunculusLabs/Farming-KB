@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Ericoid [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]], which generally do not produce
+## Ericoid [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]], which generally do not produce
 extracellular proteases or polyphenol oxidases. The ability to break
 down recalcitrant phenolic polymers enables ericoid mycorrhizal fungi
 to access nitrogen bound in organic complexes, providing both the

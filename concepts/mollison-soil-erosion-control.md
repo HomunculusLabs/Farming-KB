@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 
-# Mollison: [[mollison-designers-humus-building-and-soil-organic-matter]] in the soil.
+## Mollison: [[mollison-designers-humus-building-and-soil-organic-matter]] in the soil.
 
 The more organic matter there is in the soil, the more stable it is due to good soil structure and water infiltration.
 

@@ -19,7 +19,7 @@ created: 2026-05-07
 type: query
 ---
 
-# How Do Soil Aggregates Form and Why Do They Matter for Plant Growth?
+## How Do Soil Aggregates Form and Why Do They Matter for Plant Growth?
 
 ## Short Answer
 

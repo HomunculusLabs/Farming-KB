@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Greywater Management and Dry Toilets
+## Greywater Management and Dry Toilets
 
 In [[bill-mollison]] emphasises that conventional approaches to sewage and greywater are not only wasteful of water but also introduce persistent pollutants into soils and waterways. A permaculture approach seeks to close nutrient loops, minimise water use, and design systems that treat waste on-site through biological processes rather than relying on centralised, energy-intensive treatment infrastructure.
 

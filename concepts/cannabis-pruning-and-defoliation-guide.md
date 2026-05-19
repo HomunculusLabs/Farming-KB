@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: []
 ---
 
-# Cannabis Pruning and Defoliation Guide
+## Cannabis Pruning and Defoliation Guide
 
 Pruning and defoliation are essential skills for cannabis cultivators seeking to maximize yield, control plant shape, and improve airflow. These techniques range from removing individual leaves to deliberately damaging stem tissue, each with specific purposes and timing requirements. Understanding when and how to cut is as important as knowing what to cut.
 

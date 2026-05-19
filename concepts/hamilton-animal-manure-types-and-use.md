@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Animal Manure — Types and Use in the Garden
+## Animal Manure — Types and Use in the Garden
 
 Animal manures are among the very best sources of [[hamilton-composting-and-organic-matter-management]] where
 the high nitrogen content will assist [[organic-soil-management]] programme.

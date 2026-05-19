@@ -5,10 +5,10 @@ type: species
 tags: [cactus, mescaline, psychoactive, bolivian-torch, entheogen]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md]
+sources: ["raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"]
 ---
 
-# Trichocereus bridgesii
+## Trichocereus bridgesii
 
 The **Bolivian torch** is a columnar cactus native to the high deserts of Bolivia. It is a well-known [[dmt-containing-plants-united-states-halpern]] and Mediterranean climates. Its natural habitat overlaps with [[trichocereus-pachanoi]], with healthy plants adding 20-30 cm per year under optimal conditions.
 

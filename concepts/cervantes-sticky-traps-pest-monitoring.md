@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Sticky Traps and Physical Pest Monitoring for Cannabis
+## Sticky Traps and Physical Pest Monitoring for Cannabis
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
 -- [[query-how-do-parasitoid-wasps-control-pest-populations]] as well as to

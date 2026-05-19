@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Medically Important Fungi: Isolation and Ecology
+## Medically Important Fungi: Isolation and Ecology
 
 An important component of [[candida-albicans]], C. tropicalis, C. glabrata, C.
 parapsilosis, and C. krusei are strongly associated with mammalian and

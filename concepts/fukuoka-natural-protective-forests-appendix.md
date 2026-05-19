@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Natural Protective Forests for Farm Design
+## Natural Protective Forests for Farm Design
 
 Appendix A of *Sowing Seeds in the Desert* provides detailed guidance for
 [[fukuoka-soil-self-improvement-without-tillage]].

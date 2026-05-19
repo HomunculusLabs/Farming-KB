@@ -8,7 +8,7 @@ type: concept
 tags: [dmt, psychedelics]
 ---
 
-# DMT Hyperspace
+## DMT Hyperspace
 
 D.M. Turner's chapter "DMT -- Candy for the Mind" provides one of the most vivid
 first-person accounts of the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] -- correlated to

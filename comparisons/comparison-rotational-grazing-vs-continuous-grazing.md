@@ -11,7 +11,7 @@ sources:
   - https://www.noble.org/research/articles/rotational-grazing-benefits/
 ---
 
-# Rotational Grazing vs Continuous Grazing
+## Rotational Grazing vs Continuous Grazing
 
 ## Overview of Each Method
 

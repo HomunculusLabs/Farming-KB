@@ -7,7 +7,7 @@ tags: [gardening, permaculture, ecology, plants, companion-planting, wildlife]
 sources: []
 ---
 
-# Native Plant Gardening
+## Native Plant Gardening
 
 Native plant gardening uses species that evolved naturally in a specific region, supporting local ecosystems, pollinators, and wildlife while reducing maintenance demands. It is a cornerstone of [[permaculture-design|permaculture]] design and ecological design.
 

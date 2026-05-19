@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mycelium Color and Fragrance Signatures
+## Mycelium Color and Fragrance Signatures
 
 One of the most valuable skills a mushroom cultivator can
 develop is the ability to read mycelium through its color

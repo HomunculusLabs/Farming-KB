@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Plasmodesmata and Intercellular Communication in Plants
+## Plasmodesmata and Intercellular Communication in Plants
 
 Plasmodesmata (singular: plasmodesma) are microscopic channels that connect plant cells to their neighbors, creating the symplastic pathway. They are one of the most remarkable features of plant cell biology -- tunnels through [[chitin-chitosan-fungal-cell-wall]] between two plant cells. Inside the channel runs the **desmotubule** -- a narrow tube of endoplasmic reticulum membrane that connects the ER of both cells. The space between the desmotubule and the plasmodesma wall is the cytoplasmic sleeve, through which molecules can pass.
 

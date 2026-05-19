@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mechanisms of Melanoidin Degradation
+## Mechanisms of Melanoidin Degradation
 
 Melanoidins are complex polymeric brown pigments formed by Maillard
 aminocarbonyl reactions during the thermal processing of foods and during

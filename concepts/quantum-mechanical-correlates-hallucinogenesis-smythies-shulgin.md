@@ -22,7 +22,7 @@ sources:
   - mckenna_t-tryptamines_consciousness.md
 ---
 
-# Quantum Mechanical Correlates of Hallucinogenesis
+## Quantum Mechanical Correlates of Hallucinogenesis
 
 The relationship between quantum mechanical phenomena and hallucinogenic drug activity represents one of the most intriguing intersections of physics and psychopharmacology. [[terence-mckenna]], drawing on the work of John Smythies and [[quantum-mechanics-fundamentals]] describes molecular structure, but that the transition from molecular structure to mental experience involves quantum mechanical processes in a way that goes beyond ordinary biochemistry. The relationship is described as dynamic rather than static, implying an ongoing coupling rather than a one-time interaction.
 

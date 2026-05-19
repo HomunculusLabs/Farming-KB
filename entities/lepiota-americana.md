@@ -5,7 +5,7 @@ type: entity
 tags: [mushroom, species, edible, cultivation, lepiota]
 ---
 
-# Lepiota americana
+## Lepiota americana
 
 ## Description
 

@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# ALEPH
+## ALEPH
 
 [[aleph-family-overview]] came from an independent assay by a
 colleague of mine, one who was very familiar with such states of

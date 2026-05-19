@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Use Cover Crops to Improve Soil Health?
+## How Do I Use Cover Crops to Improve Soil Health?
 
 ## Short Answer
 Cover crops improve soil health by adding [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], grasses like cereal rye for

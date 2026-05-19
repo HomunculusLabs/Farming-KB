@@ -8,7 +8,7 @@ sources: [raw/papers/carolina-mushrooms_08qxp.md]
 type: concept
 ---
 
-# Hallucinogenic Mushroom Online Retail Markets
+## Hallucinogenic Mushroom Online Retail Markets
 
 The retail market for [[cotter-mushroom-products-and-value-added-applications]] and cultivation
 supplies, creating a borderless market that challenges national

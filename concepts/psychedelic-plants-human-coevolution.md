@@ -5,7 +5,7 @@ tags: [evolution, psychedelic-plants, human-origins, consciousness, coevolution]
 created: 2026-05-09
 ---
 
-# Psychedelic Plants and Human Coevolution
+## Psychedelic Plants and Human Coevolution
 
 Terence McKenna proposed that the relationship between human beings and psychoactive plants was not merely cultural or recreational but fundamentally evolutionary. In *Food of the Gods* (1992), he argued that the early hominids' adoption of an omnivorous diet and their discovery of the power of certain plants were decisive factors in moving early humans out of the stream of animal evolution and into the fast-rising tide of language and culture. This coevolutionary hypothesis places plant-human relationships at the center of human origins.
 

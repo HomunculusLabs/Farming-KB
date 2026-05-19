@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Puffballs (Lycoperdaceae) and Giant Calvatia Species
+## Puffballs (Lycoperdaceae) and Giant Calvatia Species
 
 ## Overview
 

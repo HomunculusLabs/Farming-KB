@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources: []
 ---
 
-# psychedelic crisis response protocol
+## psychedelic crisis response protocol
 
 ## Overview
 

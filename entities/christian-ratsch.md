@@ -19,7 +19,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Christian Rätsch
+## Christian Rätsch
 
 **Christian Rätsch** (April 20, 1957 – September 9, 2022) was a German anthropologist, ethnobotanist, author, and one of the most prolific and influential scholars of **psychoactive plants, traditional herbalism, and shamanic practices** of the late 20th and early 21st centuries. Over a career spanning four decades, Rätsch authored or co-authored more than **40 books** and hundreds of articles, making him one of the most widely read popularizers of ethnobotanical knowledge in the German-speaking world and, through translations, globally.
 

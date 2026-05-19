@@ -9,7 +9,7 @@ sources:
   - "~/wiki/raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 type: concept
 ---
-# Paradigm Shifting and the Psychedelic Revolution
+## Paradigm Shifting and the Psychedelic Revolution
 
 Simon G. Powell traces the cultural impact of psilocybin from its discovery
 by R. Gordon Wasson in the 1950s through the psychedelic revolution of the

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Community Garden Mushroom Integration
+## Community Garden Mushroom Integration
 
 Incorporating [[grass-seed-substrate-for-mushroom-cultivation]] cultivation,
   creating a closed-loop system

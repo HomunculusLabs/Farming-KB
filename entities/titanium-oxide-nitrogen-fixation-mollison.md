@@ -5,7 +5,7 @@ type: entity
 tags: [permaculture, nitrogen-fixation, catalysis, soil-fertility, desert-agriculture]
 ---
 
-# Titanium Oxide Nitrogen Fixation (Mollison's System)
+## Titanium Oxide Nitrogen Fixation (Mollison's System)
 
 ## Description
 

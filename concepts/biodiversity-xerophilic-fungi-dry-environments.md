@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Xerophilic Fungi in Dry Environments
+## Xerophilic Fungi in Dry Environments
 
 Xerophilic fungi are those capable of growth at reduced water activity
 (aw), thriving in environments where water is limiting. Their study is

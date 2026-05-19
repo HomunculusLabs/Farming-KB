@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# Vole Trapping (Coleman Method)
+## Vole Trapping (Coleman Method)
 
 ## Description
 

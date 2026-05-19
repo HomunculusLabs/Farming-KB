@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Re-Entry Visions and the Six Worlds of Game Existence
+## Re-Entry Visions and the Six Worlds of Game Existence
 
 ## Overview
 

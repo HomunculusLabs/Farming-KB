@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Emergence in Complex Systems
+## Emergence in Complex Systems
 
 Emergence is a key concept from systems theory describing how self-organisation within complex systems results in activity, structures, and behaviors that clearly arise from within the system but have the effect of either transforming it or producing something completely new. It is analogous to the Reorganisation phase of Holling's model of ecosystem succession, or the creation of new species in biological evolution.
 

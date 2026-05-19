@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Valerian vs St. John's Wort
+## Valerian vs St. John's Wort
 
 ## Overview
 

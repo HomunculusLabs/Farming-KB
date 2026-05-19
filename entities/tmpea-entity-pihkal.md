@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# TMPEA
+## TMPEA
 
 [[mescaline]]. The action of both these
 > substances in these experiments agreed only to a limited extent with

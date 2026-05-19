@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Ericoid Mycorrhizae and Forest Fungal Ecology
+## Ericoid Mycorrhizae and Forest Fungal Ecology
 
 ## Overview
 

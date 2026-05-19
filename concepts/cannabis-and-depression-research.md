@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Depression Research
+## Cannabis and Depression Research
 
 **Source:** [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 

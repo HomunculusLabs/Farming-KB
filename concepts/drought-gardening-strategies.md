@@ -7,7 +7,7 @@ tags: [gardening, organic-gardening]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Drought Gardening Strategies
+## Drought Gardening Strategies
 
 Water management is increasingly important for gardeners facing dry spells, water restrictions, or simply wishing to conserve this precious resource. The organic gardener has several strategies available to reduce water demand, improve soil water retention, and select plants that cope with dry conditions.
 

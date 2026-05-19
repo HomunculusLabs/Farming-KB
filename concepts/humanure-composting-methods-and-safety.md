@@ -1,4 +1,8 @@
-# Humanure Composting Methods and Safety
+---
+title: "Humanure Composting Methods and Safety"
+tags:
+  - concept
+---
 
 The recycling of human waste for agricultural use is one of the most
 controversial yet potentially valuable practices in [[steve-solomon]] addresses it directly in *Gardening When It Counts*, drawing

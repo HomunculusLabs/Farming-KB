@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Avalanche, Snow Instability, and Permafrost
+## Avalanche, Snow Instability, and Permafrost
 
 Understanding snow dynamics and [[permafrost]] behaviour is essential for safe settlement
 and productive land use in [[query-best-kiwifruit-varieties-for-cold-climates]]. Snow movement occurs across a spectrum from

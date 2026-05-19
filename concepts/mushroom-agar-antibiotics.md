@@ -8,7 +8,7 @@ sources: ["the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
 
-# Antibiotic Use in Mushroom Agar Culture
+## Antibiotic Use in Mushroom Agar Culture
 
 ## Overview
 
@@ -105,7 +105,7 @@ Site-specific adaptation ensures relevance to local conditions.
 - [[mushroom-abort]]
 - [[mushroom-bag-production-cost-justification]]
 - [[mushroom-bioremediation]]
-- [[mushroom-bioremediation-and-mycofiltration]]
+- [[growing-gourmet-bioremediation-mycofiltration]]
 - [[mushroom-compost-and-stable-manure-preparation]]
 - [[mushroom-cultivator-phase-i-composting]]
 - [[mushroom-cultivator-phase-ii-composting-biology]]

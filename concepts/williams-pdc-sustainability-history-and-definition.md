@@ -4,12 +4,11 @@ created: 2026-04-28
 tags: permaculture, sustainability, history, maslow, ecological-design]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: ["raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"]
 type: concept
 ---
 
-# Sustainability History and Definition
+## Sustainability History and Definition
 
 As permaculture is about creating sustainable agricultural systems and
 ultimately a sustainable culture, understanding what sustainability

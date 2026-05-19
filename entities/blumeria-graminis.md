@@ -5,10 +5,10 @@ type: species
 tags: [plant-pathogen, ascomycete, powdery-mildew, obligate-biotroph, gene-expression]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Blumeria graminis
+## Blumeria graminis
 
 Blumeria graminis is an obligate biotrophic ascomycete fungus that
 causes [[bloomfield-turgor-pressure-and-hyphal-invasion]] and enzymatic activity, haustorium formation

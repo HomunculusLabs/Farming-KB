@@ -1,5 +1,5 @@
 ---
-title: linum-album-piriformospora-indica-co-culture-system
+title: "Piriformospora Indica"
 created: 2026-04-28
 tags: [piriformospora-indica, endophyte, biocontrol, plant-growth-promotion, basidiomycota]
 date: 2026-04-25
@@ -8,7 +8,7 @@ sources: ["symbiotic-fungi.md"]
 type: concept
 ---
 
-# Piriformospora indica
+## Piriformospora indica
 
 ## Introduction and Classification
 

@@ -1,4 +1,8 @@
-# Dry Gardening and Unirrigated Vegetable Production (Solomon)
+---
+title: "Dry Gardening and Unirrigated Vegetable Production (Solomon)"
+tags:
+  - concept
+---
 
 ## Overview
 

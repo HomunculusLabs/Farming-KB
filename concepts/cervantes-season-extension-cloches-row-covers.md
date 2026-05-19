@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Season Extension Techniques for Outdoor Cannabis
+## Season Extension Techniques for Outdoor Cannabis
 
 Many products protect plants from cold weather and
 high winds, allowing growers to cultivate earlier

@@ -16,7 +16,7 @@ sources:
   - Francis, J.K. & Lowe, C.A. (2000). "Silvics of Native and Exotic Trees of Puerto Rico." USDA Forest Service.
 ---
 
-# Samanea saman
+## Samanea saman
 
 **Samanea saman** (Jacq.) Merr., commonly known as the **rain tree**, is a large, fast-growing, deciduous tree in the family Fabaceae. It is native to northern South America and [[bloomfield-turgor-pressure-and-hyphal-invasion]] at the base of the leaflets, mediated by the phytohormone auxin.
 

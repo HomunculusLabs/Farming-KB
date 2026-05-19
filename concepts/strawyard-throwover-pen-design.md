@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 
-# Strawyard and Throwover Pen Design
+## Strawyard and Throwover Pen Design
 
 updated: 2026-04-18
 

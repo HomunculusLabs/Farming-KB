@@ -8,7 +8,7 @@ sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Permaculture Principle 1 — Observe and Interact
+## Permaculture Principle 1 — Observe and Interact
 
 The first of David Holmgren's twelve permaculture design principles. Observation is the foundation of good design: by taking time to engage with nature, we can design solutions that suit a particular situation. This principle reminds us that thoughtful, protracted observation leads to better outcomes than immediate, uninformed action.
 

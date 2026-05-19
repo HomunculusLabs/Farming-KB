@@ -8,7 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Azo Dye Degradation Mechanisms by Ligninolytic Fungi
+## Azo Dye Degradation Mechanisms by Ligninolytic Fungi
 
 Azo dyes are the predominant group of [[mollison-designers-wastewater-treatment-wetlands]]. White rot fungi and their [[pleurotus-eryngii]] decolorize
 reactive dyes through their peroxidase systems; P. ostreatus and

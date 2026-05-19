@@ -5,7 +5,7 @@ tags: [chemistry, psilocybin, psilocin, tryptamines, indole-alkaloids, neurotrop
 created: 2026-05-09
 ---
 
-# Neurotropic Fungi Chemical Compounds
+## Neurotropic Fungi Chemical Compounds
 
 ## Overview
 

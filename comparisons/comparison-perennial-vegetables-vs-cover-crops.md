@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Perennial Vegetables vs Cover Crops
+## Perennial Vegetables vs Cover Crops
 
 ## Overview
 

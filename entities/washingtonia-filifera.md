@@ -17,7 +17,7 @@ sources:
   - Barbour, M.G. (1973). "The California fan palm: ecology and distribution." Madroño 22(4): 177-188.
 ---
 
-# Washingtonia filifera
+## Washingtonia filifera
 
 Washingtonia filifera, the California fan palm, is the only palm species native to the southwestern United States and one of the most iconic plants of the Sonoran and Mojave Deserts. Its massive fan-shaped fronds with conspicuous cottony threads give it both its specific epithet and its common name.
 

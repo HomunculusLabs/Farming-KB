@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# The Road Back to Nature
+## The Road Back to Nature
 
 *The Road Back to Nature* (in Japanese, 自然に還る) is [[fukuoka-four-principles-natural-farming]], this book expands into a broader philosophical, spiritual, and global vision. It documents Fukuoka's travels, his observations of Western and Japanese culture, and his attempts at [[fukuoka-seeding-real-green-revolution]] Revolution** -- his critique of the conventional green revolution and proposal for a truly natural approach, detailed in [[fukuoka-desert-greening-plant-irrigation]] chapters** -- detailed accounts of [[fukuoka-natural-body-and-health]] of an infant" through [[fukuoka-view-of-nature-and-human-hubris]] in trying to control nature is the root cause of environmental degradation -- not just an agricultural error but a civilizational one
 

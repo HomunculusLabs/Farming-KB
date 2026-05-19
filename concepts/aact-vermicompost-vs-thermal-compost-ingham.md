@@ -7,7 +7,7 @@ tags: [aact, compost, vermicompost, thermal-compost, worm-castings, brewing, soi
 created: 2026-05-09
 ---
 
-# Vermicompost vs Thermal Compost for AACT Brewing
+## Vermicompost vs Thermal Compost for AACT Brewing
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources: []
 ---
 
-# Psychedelic Microdosing
+## Psychedelic Microdosing
 
 Psychedelic microdosing is the practice of taking sub-perceptual doses of psychedelic compounds — doses small enough that they do not produce overt hallucinations or [[psilocybin-compound-profile]] for details.
 - **DMT**: Very rarely microdosed due to [[psychedelic-safety-and-contra-indications]]

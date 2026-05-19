@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: entity
 ---
 
-# Six Worlds of Rebirth
+## Six Worlds of Rebirth
 
 ## Description
 

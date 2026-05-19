@@ -5,9 +5,9 @@ type: species
 tags: [mycology, identification, gourmet-mushrooms, lepiota]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 ---
-# Lepiota procera Lepiota procera, commonly known as the Parasol Mushroom, is one of the most distinctive and highly prized wild edible mushrooms in the world. Its tall stature, prominent ring, and large, scaly cap make it easy to identify when mature. The Parasol is considered a gourmet mushroom across Europe and is particularly popular in French cuisine, where the cap is often prepared like a cutlet, breaded and pan-fried. See [[comparison-spore-print-collection-vs-spore-syringe-production]]:** White.
+## Lepiota procera Lepiota procera, commonly known as the Parasol Mushroom, is one of the most distinctive and highly prized wild edible mushrooms in the world. Its tall stature, prominent ring, and large, scaly cap make it easy to identify when mature. The Parasol is considered a gourmet mushroom across Europe and is particularly popular in French cuisine, where the cap is often prepared like a cutlet, breaded and pan-fried. See [[comparison-spore-print-collection-vs-spore-syringe-production]]:** White.
 - **Spores:** Ellipsoid, smooth, with a germ pore.
 
 ## Distribution and Habitat

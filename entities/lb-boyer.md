@@ -5,7 +5,7 @@ type: entity
 tags: [person, psychoanalyst, anthropologist, apache-studies, shamanism-research]
 ---
 
-# L. B. Boyer
+## L. B. Boyer
 
 ## Description
 

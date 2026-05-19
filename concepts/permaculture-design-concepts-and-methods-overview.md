@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Design Concepts and Methods Overview
+## Permaculture Design Concepts and Methods Overview
 
 ## The Table of Contents as a Conceptual Map
 

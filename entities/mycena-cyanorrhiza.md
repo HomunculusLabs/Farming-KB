@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "raw/papers/field-guide-to-the-psilocybin-mushroom.md"
 ---
-# Mycena cyanorrhiza
+## Mycena cyanorrhiza
 **Mycena cyanorrhiza** is a small, distinctive mushroom in the family
 Mycenaceae confirmed to contain [[field-guide-psilocybin-bluing-reaction-identification]] when
 bruised, making it one of the more easily recognized psychoactive members of

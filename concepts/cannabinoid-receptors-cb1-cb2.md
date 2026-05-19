@@ -6,7 +6,7 @@ source: uwe blesching the cannabis health index
 created: 2026-05-11
 ---
 
-# Cannabinoid Receptors CB1 and CB2
+## Cannabinoid Receptors CB1 and CB2
 
 Cannabinoid receptors are cell membrane proteins that serve as the binding sites for endocannabinoids (produced by the body), phytocannabinoids (from cannabis), and [[cannabis-for-cachexia-and-appetite-stimulation]], which is why cannabis use typically increases hunger.
 

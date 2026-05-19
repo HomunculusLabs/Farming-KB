@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Nutrient Translocation and Element Redistribution
+## Fungal Nutrient Translocation and Element Redistribution
 
 Fungi are nondiscrete organisms with extending hyphal networks capable
 of translocating elements within their thalli. This ability to move

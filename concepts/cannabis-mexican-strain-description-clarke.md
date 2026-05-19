@@ -8,7 +8,7 @@ sources:
   - raw/papers/marijuana-botany-robert-connell-clarke.md
 ---
 
-# Mexican Cannabis Strain Description (Clarke)
+## Mexican Cannabis Strain Description (Clarke)
 
 ## Geographic Origin
 

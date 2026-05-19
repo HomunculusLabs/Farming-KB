@@ -4,7 +4,7 @@ source: greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
 
-# Cannabis Soil Growing — Containers, Flushing, and Medium Management
+## Cannabis Soil Growing — Containers, Flushing, and Medium Management
 
 ## Overview
 

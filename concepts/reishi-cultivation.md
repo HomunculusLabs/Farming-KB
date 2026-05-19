@@ -12,7 +12,7 @@ sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
-# Reishi Cultivation
+## Reishi Cultivation
 
 ## Overview
 

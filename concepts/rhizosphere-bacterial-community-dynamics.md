@@ -5,7 +5,7 @@ tags: [rhizosphere, microbiome, bacteria, root-exudates, two-tier-model, cannabi
 created: 2026-05-09
 ---
 
-# Rhizosphere Bacterial Community Dynamics
+## Rhizosphere Bacterial Community Dynamics
 
 ## Overview
 

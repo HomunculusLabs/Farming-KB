@@ -6,7 +6,7 @@ tags: [aact, compost-tea, strawberry, potato, tomato, application-protocol, foli
 created: 2026-05-09
 ---
 
-# Strawberry, Potato, and Tomato AACT Application Protocols
+## Strawberry, Potato, and Tomato AACT Application Protocols
 
 ## Overview
 

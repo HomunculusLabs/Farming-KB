@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Global Ecological Crisis: Soils and Deforestation
+## Global Ecological Crisis: Soils and Deforestation
 
 This page examines [[bill-mollison]]'s detailed analysis of the interconnected crises of soil degradation, deforestation, and [[desertification]] as presented in his 1981 [[permaculture-design]] Course. These three phenomena form a self-reinforcing cycle: deforestation causes soil loss, soil loss accelerates desertification, and desertification removes the conditions necessary for forest recovery.
 

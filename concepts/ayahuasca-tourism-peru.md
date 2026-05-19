@@ -7,7 +7,7 @@ tags: [ayahuasca, tourism, peru, shamanism, entheogen, culture, amazon, ucayali,
 sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 ---
 
-# Ayahuasca Tourism in Peru
+## Ayahuasca Tourism in Peru
 
 ## Overview
 

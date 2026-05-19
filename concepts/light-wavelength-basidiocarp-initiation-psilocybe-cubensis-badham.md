@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# Light Wavelength Effects on [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]], dose-response mechanics,
+## Light Wavelength Effects on [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]], dose-response mechanics,
 cross-species comparisons from the literature reviewed in that paper,
 and the photoreceptor implications of the findings.
 

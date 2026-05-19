@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Mushroom Spawn Production on Sorghum Seeds
+## Mushroom Spawn Production on Sorghum Seeds
 
 Multiplying [[mushroom-spawn]] on sorghum seeds is a critical step [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]] during inoculation
 - **PDA bottles with mycelium** — the source of pure mycelium culture from tissue culture

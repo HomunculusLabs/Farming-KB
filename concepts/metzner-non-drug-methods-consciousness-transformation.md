@@ -8,7 +8,7 @@ sources:
   - raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
-# Non-Drug Methods of Consciousness Transformation in Metzner's Comparative Framework
+## Non-Drug Methods of Consciousness Transformation in Metzner's Comparative Framework
 
 ## Overview
 

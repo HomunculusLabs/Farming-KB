@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Three-Dimensional Solar Energy Capture in Natural Rice Paddies
+## Three-Dimensional Solar Energy Capture in Natural Rice Paddies
 
 ## Core Concept
 

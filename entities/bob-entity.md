@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# BOB
+## BOB
 
 BOB (beta-Methoxy-2C-B; 4-Bromo-2,5,beta-trimethoxyphenethylamine) is a psychedelic phenethylamine with a methoxy group on the beta-carbon of the ethylamine chain.
 

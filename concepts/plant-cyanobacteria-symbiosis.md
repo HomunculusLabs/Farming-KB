@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Plant Symbiosis with Cyanobacteria
+## Plant Symbiosis with Cyanobacteria
 
 Cyanobacterial symbioses with plants represent some of the oldest and most ecologically significant mutualistic relationships in the plant kingdom. These associations range from the ancient Geosiphon-Nostoc partnership to the well-known Azolla-Anabaena symbiosis used in rice cultivation. Cyanobacteria provide fixed nitrogen to their hosts while receiving carbohydrates and protection in return, enabling host plants to thrive in nitrogen-poor environments.
 

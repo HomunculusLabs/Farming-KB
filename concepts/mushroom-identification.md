@@ -26,7 +26,7 @@ sources:
 - raw/papers/carolina-mushrooms_08qxp.md
 ---
 
-# Mushroom Identification
+## Mushroom Identification
 
 Safe wild mushroom foraging requires systematic observation of multiple features. No single rule (peelability, silver spoon, color) reliably separates edible from poisonous species (Ramsbottom, 1945). The only safe method is learning to identify each species individually.
 

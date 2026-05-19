@@ -12,7 +12,7 @@ updated: 2026-04-25
 sources: []
 type: query
 ---
-# How to Set Up a Backyard Pond
+## How to Set Up a Backyard Pond
 A backyard pond adds beauty, wildlife habitat, and water management capacity to
 your landscape. This guide covers the full process from planning through
 winterization, with connections to broader [[permaculture-water-harvesting]]

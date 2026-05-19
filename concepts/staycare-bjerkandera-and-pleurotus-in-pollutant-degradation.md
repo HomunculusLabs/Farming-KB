@@ -8,7 +8,7 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Bjerkandera and Pleurotus Species in Pollutant Degradation
+## Bjerkandera and Pleurotus Species in Pollutant Degradation
 
 ## Overview
 

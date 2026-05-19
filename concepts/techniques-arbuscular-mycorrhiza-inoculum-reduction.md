@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Techniques for Arbuscular Mycorrhiza Inoculum Reduction
+## Techniques for Arbuscular Mycorrhiza Inoculum Reduction
 
 ## Overview
 

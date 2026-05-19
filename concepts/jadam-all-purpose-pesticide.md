@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# All-Purpose JADAM Pesticide (Recipe #12)
+## All-Purpose JADAM Pesticide (Recipe #12)
 
 ## Overview
 

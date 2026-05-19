@@ -22,7 +22,7 @@ sources:
   - Farnworth, *Handbook of Fermented Functional Foods*, 2nd ed., 2008
 ---
 
-# Miso, Tempeh, and Soybean Fermentation
+## Miso, Tempeh, and Soybean Fermentation
 
 Soybeans (*[[aspergillus-oryzae]]*, known in Japanese as **koji-kin** (麹菌). This filamentous fungus is one of the most important microorganisms in food science, responsible not only for miso but also for sake, shochu, mirin, amazake, and soy sauce.
 

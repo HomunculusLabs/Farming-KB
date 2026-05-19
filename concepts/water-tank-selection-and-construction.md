@@ -7,7 +7,7 @@ tags: [water, conservation]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Water Tank Selection and Construction
+## Water Tank Selection and Construction
 
 Water for human consumption is stored in tanks. A single person needs at least 1,000 gallons (3,700 litres) of stored water; a family needs a minimum of 2,500 gallons (9,500 litres). Water comes from [[rainwater-harvesting-systems]] — collection systems
 - [[homesteading-water-systems]] — complete water systems

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Endophytic Fungi — Biology, Ecology, and Taxonomic Diversity
+## Endophytic Fungi — Biology, Ecology, and Taxonomic Diversity
 
 Endophytic fungi colonize living plant tissues without causing immediate, overt negative effects. They represent a vast reservoir of undiscovered fungal diversity and blur traditional boundaries between saprobes, pathogens, and mutualists.
 

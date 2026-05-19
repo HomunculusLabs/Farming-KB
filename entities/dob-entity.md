@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DOB (Bromo-DMA)
+## DOB (Bromo-DMA)
 **Chemical name:** 2,5-Dimethoxy-4-bromoamphetamine
 **PiHKAL #62** | [[cannabis-therapeutic-index-overview]] (LD50/ED50):** Exceeds 1000 in mice. However, Shulgin noted that the actual safety margin in humans is likely much lower than this ratio implies.
 ## Radiolabeled DOB Research

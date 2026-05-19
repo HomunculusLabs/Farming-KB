@@ -7,7 +7,7 @@ tags: [cacti, cultivation, methods, plants, ethnobotany]
 sources: [raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md]
 ---
 
-# Cactus Cultivation from Seed and Cutting
+## Cactus Cultivation from Seed and Cutting
 
 Practical cultivation techniques for psychoactive and ornamental cacti, based on Gottlieb's 1977 guide.
 

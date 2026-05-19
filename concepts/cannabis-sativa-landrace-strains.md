@@ -5,7 +5,7 @@ tags: [cannabis, sativa, landrace, breeding, genetics, strains]
 created: 2026-05-08
 ---
 
-# Cannabis Sativa Landrace Strains
+## Cannabis Sativa Landrace Strains
 
 [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] produced Jamaican,
 Panamanian, and Honduran varieties. Each region's unique combination of

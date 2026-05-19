@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Pear and Apple Pollination and Harvesting
+## Holzer Pear and Apple Pollination and Harvesting
 
 Successful [[coleman-winter-greens-variety-selection]] [[holzer-fruit-growing-marginal-climates]] are crucial for achieving reliable yields year after year, especially in marginal climates where the margin for error is small.
 

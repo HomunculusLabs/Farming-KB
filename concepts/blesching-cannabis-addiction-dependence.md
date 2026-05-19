@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Addiction and Dependence
+## Cannabis Addiction and Dependence
 
 ## Overview
 

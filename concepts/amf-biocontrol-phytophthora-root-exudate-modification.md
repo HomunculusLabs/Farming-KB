@@ -4,10 +4,10 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+sources: ["raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"]
 ---
 
-# AMF-Mediated Biocontrol of Phytophthora via Root Exudate Modification
+## AMF-Mediated Biocontrol of Phytophthora via Root Exudate Modification
 
 ## Overview
 

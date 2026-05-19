@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Thermophilic Fungi
+## Thermophilic Fungi
 
 Thermophilic fungi are defined as organisms with optimum growth
 temperatures above 40 degrees Celsius and maximum temperatures at or

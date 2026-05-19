@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Sprinkler vs Drip Irrigation
+## Sprinkler vs Drip Irrigation
 
 ## Overview
 Sprinkler and drip irrigation are the two most widely used methods of

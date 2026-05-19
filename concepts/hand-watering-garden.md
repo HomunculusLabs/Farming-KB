@@ -7,7 +7,7 @@ tags: [gardening, water, water-management, techniques, vegetables, beginner]
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Hand Watering the Garden
+## Hand Watering the Garden
 
 Techniques for watering gardens with a hose and nozzle or watering can, as described in [[steve-solomon]]'s *Gardening When It Counts*. Solomon notes that before 1880, over 90% of all vegetable gardens were grown without running water at all.
 

@@ -8,7 +8,7 @@ created: 2026-05-07
 type: comparison
 ---
 
-# Keyhole Garden vs Raised Bed
+## Keyhole Garden vs Raised Bed
 
 ## Overview
 

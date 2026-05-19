@@ -6,7 +6,7 @@ tags: [photoperiodism, flowering, photoperiod, phytochrome, florigen,
 maryland-mammoth]
 ---
 
-# Photoperiodism and Plant Flowering
+## Photoperiodism and Plant Flowering
 
 ## Overview
 

@@ -13,7 +13,7 @@ synthesized_from:
   - honey-extraction-and-processing.md
 ---
 
-# Mead and Honey Wine Brewing Guide
+## Mead and Honey Wine Brewing Guide
 
 Mead is the world's oldest fermented beverage, predating both wine and
 beer by millennia. Made from honey, water, and yeast, it transforms

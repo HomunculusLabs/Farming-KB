@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# How to Troubleshoot Common Problems in Mushroom Cultivation
+## How to Troubleshoot Common Problems in Mushroom Cultivation
 
 ## Short Answer
 

@@ -5,7 +5,7 @@ tags: [ayahuasca, shamanism, economics, peru, tourism, amazon]
 created: 2026-05-09
 ---
 
-# Ayahuasca Shamanism Economics
+## Ayahuasca Shamanism Economics
 
 The economics of ayahuasca shamanism in Peru reveal a complex intersection of
 traditional spiritual practice, international tourism, and significant income

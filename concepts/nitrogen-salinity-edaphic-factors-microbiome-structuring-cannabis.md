@@ -1,4 +1,8 @@
-# Nitrogen and Salinity as Primary Edaphic Drivers of Cannabis Microbiome Structure
+---
+title: "Nitrogen and Salinity as Primary Edaphic Drivers of Cannabis Microbiome Structure"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,5 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]]
 - [[legume-nitrogen-myth-beans-feed-corn]]
 - [[mycorrhizal-carbon-nitrogen-economics]]
-- [[purdue-nitrogen-side-dressing-schedule]]
-- [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture]]

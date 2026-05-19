@@ -1,4 +1,8 @@
-# Plant Propagation Techniques for Permaculture
+---
+title: "Plant Propagation Techniques for Permaculture"
+tags:
+  - concept
+---
 
 Plant propagation is the practice of creating new plants from existing ones, and it is
 a foundational skill for any [[pioneer-species-in-permaculture-design]], establish windbreaks,

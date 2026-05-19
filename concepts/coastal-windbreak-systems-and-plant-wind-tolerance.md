@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Coastal Windbreak Systems and Plant Wind Tolerance
+## Coastal Windbreak Systems and Plant Wind Tolerance
 
 Coastal environments present unique challenges for plant establishment and agricultural production. Sea winds carry salt, sand, and mechanical force that can devastate crops and trees. Understanding plant wind tolerance categories and designing appropriate multi-layer coastal windbreak systems is essential for productive coastal permaculture.
 

@@ -4,7 +4,7 @@ source: jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
 ---
 
-# JADAM Soil Management — The Middle Way and Root Health
+## JADAM Soil Management — The Middle Way and Root Health
 
 ## Overview
 

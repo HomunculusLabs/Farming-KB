@@ -14,7 +14,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Taxonomy
+## Taxonomy
 
 Aspergillus niger van Tieghem is a filamentous ascomycete fungus
 belonging to the phylum Ascomycota, class Eurotiomycetes, order
@@ -29,7 +29,7 @@ pigmented conidiophores, from which the species derives its
 common
 name "black mold."
 
-# Overview
+## Overview
 
 Aspergillus niger is a ubiquitous soil fungus with remarkable
 metabolic versatility that enables it to thrive in diverse

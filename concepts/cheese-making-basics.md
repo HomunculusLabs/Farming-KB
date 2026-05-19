@@ -7,7 +7,7 @@ tags: [homesteading, food, recipe, preparation, animal-husbandry]
 sources: []
 ---
 
-# Cheese Making Basics
+## Cheese Making Basics
 
 Homestead cheese making transforms fresh milk into a shelf-stable, value-added product. Soft cheeses require minimal equipment and skill, making them the ideal entry point for beginners. As experience grows, cheesemakers can progress to aged and pressed cheeses. This guide covers soft cheeses: ricotta, chevre, and mozzarella.
 

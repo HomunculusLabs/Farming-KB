@@ -14,7 +14,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Reciprocal Roof vs Timber Frame
+## Reciprocal Roof vs Timber Frame
 
 ## Overview
 Reciprocal roofs and timber frames represent two distinct structural

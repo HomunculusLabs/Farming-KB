@@ -15,7 +15,7 @@ sources:
   - "Miadlikowska, J. et al. (2003). Phylogenetic placement of the Peltigeraceae. Mycologia, 95(6), 1036-1050."
 ---
 
-# Peltigera leucophlebia
+## Peltigera leucophlebia
 
 ## Overview
 

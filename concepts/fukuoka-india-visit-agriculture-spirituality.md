@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# India Visit: Observations on Agriculture and Spirituality
+## India Visit: Observations on Agriculture and Spirituality
 
 updated: 2026-04-18
 

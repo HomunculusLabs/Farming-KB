@@ -6,7 +6,7 @@ tags: [plant-biology, olfaction, volatile-organic-compounds, plant-communication
 created: 2026-05-09
 ---
 
-# Plant Olfaction and Volatile Sensing
+## Plant Olfaction and Volatile Sensing
 
 Plants possess a sophisticated ability to detect and respond to [[plant-olfaction-chemical-sensing]] capability — the plant equivalent of smell — allows plants to perceive the presence of neighboring plants, detect herbivore attacks, coordinate defense responses, and even "eavesdrop" on the chemical conversations of other species. Plant olfaction operates through molecular mechanisms that, while fundamentally different from animal olfaction, achieve remarkably similar outcomes.
 

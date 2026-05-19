@@ -8,7 +8,7 @@ sources: [mycelium-running-stamets.md]
 type: concept
 ---
 
-# Mushroom Spore Dispersal and Ecological Networks
+## Mushroom Spore Dispersal and Ecological Networks
 
 ## Overview
 

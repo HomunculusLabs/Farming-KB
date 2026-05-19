@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Aquatic Fungi and Zoospore Biology
+## Aquatic Fungi and Zoospore Biology
 Aquatic fungi represent a diverse and ecologically critical group of
 microorganisms that live and reproduce in freshwater habitats. They
 range from the spectacular [[bloomfield-fungal-reproduction-and-chemical-communication]] systems

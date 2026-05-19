@@ -5,7 +5,7 @@ tags: [sativa, breeding, indoor-cultivation, height-reduction, cannabis-genetics
 created: 2026-05-10
 ---
 
-# Sativa Breeding for Indoor Adaptation and Height Reduction
+## Sativa Breeding for Indoor Adaptation and Height Reduction
 
 ## Overview
 

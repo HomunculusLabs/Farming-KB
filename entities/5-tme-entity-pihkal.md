@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 5-TME
+## 5-TME
 
 [[scythian-cannabis-steam-bath-ritual]] for 1 h
 which generated a separate yellow oily phase. On cooling, this set to

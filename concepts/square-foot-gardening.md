@@ -7,7 +7,7 @@ tags: [regenerative, gardening, vegetables, permaculture, beginner, plant-system
 sources: []
 ---
 
-# Square Foot Gardening Guide
+## Square Foot Gardening Guide
 
 Square foot gardening (SFG) is an [[intensive-planting-spacing]] method developed by Mel Bartholomew that divides raised beds into 1x1 foot squares, each planted with a specific number of crops based on plant size. The system maximizes yield per square foot while reducing wasted space, seeds, water, and weeding.
 

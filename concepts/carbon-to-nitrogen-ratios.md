@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Carbon to Nitrogen Ratios
+## Carbon to Nitrogen Ratios
 
 The carbon-to-nitrogen ratio (C:N ratio) is the single most important concept in [[composting]]. It determines whether your compost pile will heat up and decompose quickly into rich humus, or sit there as a stagnant, smelly mess for months. Understanding C:N ratios allows you to predict how any particular mixture of organic materials will behave in [[query-how-to-build-a-compost-pile-that-works]] and how well it will serve as fertilizer.
 

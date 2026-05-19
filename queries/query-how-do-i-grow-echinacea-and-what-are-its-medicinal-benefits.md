@@ -7,7 +7,7 @@ sources:
   - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
-# How Do I Grow Echinacea and What Are Its Medicinal Benefits?
+## How Do I Grow Echinacea and What Are Its Medicinal Benefits?
 
 ## Short Answer
 

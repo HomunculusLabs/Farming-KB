@@ -17,7 +17,7 @@ sources:
   - "Call of the Reed Warbler — Charles Massy"
 ---
 
-# How Do I Establish a Food Forest on Degraded Land?
+## How Do I Establish a Food Forest on Degraded Land?
 
 Starting a food forest on degraded land — compacted pasture, eroded slopes, abandoned cropland, or overgrazed rangeland — is one of the most rewarding challenges in permaculture. The key insight: you are not planting a food forest. You are *growing* one, by first restoring the soil and microbial life that will support it. The trees come second.
 

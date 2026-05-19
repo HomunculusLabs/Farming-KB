@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Structure and Classification
+## Soil Structure and Classification
 
 Understanding soil structure and classification is fundamental to [[fungal-hyphae]]
 

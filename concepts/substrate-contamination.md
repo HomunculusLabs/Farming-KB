@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, contamination, cultivation, pathology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Substrate Contamination Contamination is the presence of unwanted organisms in a mushroom substrate that compete with or parasitize the cultivated [[query-what-are-the-best-mushroom-substrates-for-different-species]]:
+## Substrate Contamination Contamination is the presence of unwanted organisms in a mushroom substrate that compete with or parasitize the cultivated [[query-what-are-the-best-mushroom-substrates-for-different-species]]:
 
 - **Trichoderma** (green mold) — the most aggressive competitor in
   [[growing-gourmet-bacterial-blotch-disease-management]]** (*Pseudomonas tolaasii*) — causes brown, sunken

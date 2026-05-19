@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# What Is Canker and How Do You Treat It?
+## What Is Canker and How Do You Treat It?
 
 ## Short Answer
 

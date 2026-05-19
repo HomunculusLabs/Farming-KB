@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Mushroom Liquid Culture vs Spore Syringe
+## Mushroom Liquid Culture vs Spore Syringe
 
 ## Overview
 Liquid culture (LC) and spore syringes are the two primary methods for

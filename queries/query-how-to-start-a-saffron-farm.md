@@ -11,7 +11,7 @@ sources:
 type: query
 ---
 
-# How to Start a Saffron Farm: Complete Beginner Guide
+## How to Start a Saffron Farm: Complete Beginner Guide
 
 > **Summary:** Saffron (Crocus sativus) is the world's most expensive spice by weight. A well-managed 1-acre farm can yield 5–15 pounds of dried saffron per year, retailing at $500–$5,000+ per pound depending on grade and market. Startup costs are moderate ($15,000–$35,000/acre), labor is the main ongoing expense, and full returns typically arrive in year 2–3.
 

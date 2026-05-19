@@ -15,7 +15,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# Psilocybin Mushroom Extraterrestrial Hypothesis
+## Psilocybin Mushroom Extraterrestrial Hypothesis
 
 The extraterrestrial hypothesis for [[aquatic-fungi-spore-dispersal-ingold]]. First articulated in [[valentina-pavlovna-wasson|Valentina]] and [[mckenna-dmt-alienated-soul-body-of-osiris-eschatology]], the condensed body of Eros." He suggested that Eros "retreated at the coming of the Christus" and that the Spanish conquistadors, having "conquered the New World and driven its people into cultural fragmentation and diaspora," unexpectedly "came upon the body of Osiris" in the mountains of Mexico.
 

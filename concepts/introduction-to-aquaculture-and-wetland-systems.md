@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Introduction to Aquaculture and Wetland Systems
+## Introduction to Aquaculture and Wetland Systems
 
 Aquaculture—the cultivation of aquatic organisms in controlled or semi-controlled environments—represents one of the most productive and efficient forms of food production available to human societies. When integrated with terrestrial agriculture, wetland systems can yield 4–20 times more production per unit of input than adjoining land. This concept introduces the scope of aquaculture and wetland management, examines why aquatic systems are inherently more productive than terrestrial ones, and surveys the historical and cultural contexts that have shaped aquacultural practice worldwide.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [place, geography, mazatec, oaxaca, mexico, mushroom-habitat, indigenous-territory]
 ---
 
-# Sierra Mazateca
+## Sierra Mazateca
 
 ## Description
 

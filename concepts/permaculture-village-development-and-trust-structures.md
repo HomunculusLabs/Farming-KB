@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Village Development and Trust Structures
+## Permaculture Village Development and Trust Structures
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Use Diatomaceous Earth in the Garden
+## How to Use Diatomaceous Earth in the Garden
 
 ## Short Answer
 

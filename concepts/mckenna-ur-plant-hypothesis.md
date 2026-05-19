@@ -4,10 +4,10 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [psychedelics, ethnobotany]
-sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
+sources: ["raw/papers/mckenna_t-food_of_the_gods.md"]
 ---
 
-# The Ur Plant Hypothesis
+## The Ur Plant Hypothesis
 
 ## The Primordial Mushroom
 

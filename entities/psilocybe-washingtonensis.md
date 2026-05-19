@@ -8,7 +8,7 @@ sources: [psilocybin-mushrooms-of-the-world-stamets.md]
 type: entity
 ---
 
-# Psilocybe washingtonensis
+## Psilocybe washingtonensis
 
 **Type:** Species (Fungus)
 **Category:** [[psilocybe-genus-diversity-and-taxonomy]]

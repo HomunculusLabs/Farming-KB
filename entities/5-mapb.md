@@ -27,7 +27,7 @@ sources:
   - "https://www.erowid.org/chemicals/5_mapb/5_mapb.shtml"
 ---
 
-# 5-MAPB
+## 5-MAPB
 
 ## Overview
 

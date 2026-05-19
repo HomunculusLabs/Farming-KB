@@ -11,7 +11,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka's Argument Against Pruning — Natural Tree Form
+## Fukuoka's Argument Against Pruning — Natural Tree Form
 
 **Updated:** 2026-04-18
 

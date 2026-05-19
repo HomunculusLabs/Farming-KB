@@ -19,7 +19,7 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-# Asian Psilocybin Mushroom Guide
+## Asian Psilocybin Mushroom Guide
 
 Regional distribution guide for psilocybin-containing mushrooms across Asia, covering species, habitats, seasonal patterns, and cultural use. Based on [[jochen-gartz]]'s global survey and [[john-w-allen]]'s Southeast Asian research. See also [[psilocybin-mushroom-chemistry]] for the worldwide overview and [[mushroom-species-guide]] for species profiles.
 

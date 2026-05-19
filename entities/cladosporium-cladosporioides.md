@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Cladosporium cladosporioides
+## Cladosporium cladosporioides
 
 **Cladosporium cladosporioides** is a dematiaceous (dark-pigmented)
 saprotrophic hyphomycete fungus belonging to the phylum Ascomycota.

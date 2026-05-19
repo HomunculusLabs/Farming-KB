@@ -7,7 +7,7 @@ tags: [permaculture, plants, forage, medicine, livestock, livestock-health]
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
 
-# Medicinal Herbs for Livestock
+## Medicinal Herbs for Livestock
 
 The following plants can be incorporated into animal forage and fodder systems, allowing animals to **self-medicate** by browsing the herbs as they need them. Not all herbs will suit all areas, but as broad a spectrum as possible should be made available to livestock at all times.
 

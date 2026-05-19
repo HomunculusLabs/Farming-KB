@@ -4,9 +4,9 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
-# Alpha Beta Gamma Diversity in Fungal Communities
+## Alpha Beta Gamma Diversity in Fungal Communities
 
 Diversity in fungal communities operates at multiple spatial scales. Whittaker
 (1977) was the first to formalize the hierarchical, scale-dependent nature of

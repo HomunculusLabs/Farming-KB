@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Rice and Barley Cultivation History and No-Tillage Method
+## Fukuoka Rice and Barley Cultivation History and No-Tillage Method
 
 ## Spiritual Significance of Rice
 

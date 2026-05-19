@@ -8,7 +8,7 @@ type: concept
 tags: [ayahuasca, dmt, tryptamine]
 ---
 
-# Ayahuasca and DMT Combinations
+## Ayahuasca and DMT Combinations
 
 McKenna introduces ayahuasca in "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992) as one of three key tryptophan-derived hallucinogens, alongside smoked DMT and psilocybin. He defines it with precise pharmacological language as "a combination of dimethyltryptamine and a monoamine oxidase inhibitor that is taken orally." This description identifies ayahuasca as the aboriginal technological solution to DMT's otherwise oral inactivity -- a pharmacological innovation achieved through millennia of indigenous empirical investigation.
 

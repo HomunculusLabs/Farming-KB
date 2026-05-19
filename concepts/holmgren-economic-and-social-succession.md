@@ -8,7 +8,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
-# Economic and Social Succession
+## Economic and Social Succession
 
 Updated: 2026-04-18
 Source: [[permaculture-principle-creatively-use-and-respond-to-change]])

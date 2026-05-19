@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: "Guzmán, Allen & Gartz (1998)"
 ---
 
-# Psilocybe aztecorum Section Aztecorum: Alpine Neurotropic Fungi
+## Psilocybe aztecorum Section Aztecorum: Alpine Neurotropic Fungi
 
 Section Aztecorum of the genus Psilocybe represents a distinctive
 biogeographic group [[distribution-of-neurotropic-fungi]] adapted to high-elevation,

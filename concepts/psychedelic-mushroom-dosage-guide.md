@@ -7,7 +7,7 @@ tags: [mycology, fungi, psychopharmacology, psychedelics, entheogen, safety, pot
 sources: []
 ---
 
-# Psychedelic Mushroom Dosage Guide
+## Psychedelic Mushroom Dosage Guide
 
 ## Overview
 

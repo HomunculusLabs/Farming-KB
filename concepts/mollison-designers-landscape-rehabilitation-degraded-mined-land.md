@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Landscape Rehabilitation of Degraded and Mined Land
+## Landscape Rehabilitation of Degraded and Mined Land
 
 Rehabilitating degraded, eroded, and mined landscapes is among the most
 important applications of [[mollison-designers-design-client-interview-and-site-assessment-process]] is

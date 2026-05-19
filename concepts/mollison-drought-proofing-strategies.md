@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Drought-Proofing Strategies for Farms and Landscapes
+## Drought-Proofing Strategies for Farms and Landscapes
 
 Mollison emphasizes that few farmers have invested in "drought-proofing"
 their land by creating gravity-fed [[water-conservation]],

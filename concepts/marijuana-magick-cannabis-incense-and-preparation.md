@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Incense and Preparation Methods
+## Cannabis Incense and Preparation Methods
 
 ## Overview
 

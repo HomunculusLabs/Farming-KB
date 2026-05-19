@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Potato Agar
+## Potato Agar
 
 ## Description
 

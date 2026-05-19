@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Maitake Spawn Types and Supplier Directory
+## Maitake Spawn Types and Supplier Directory
 
 ## Overview
 

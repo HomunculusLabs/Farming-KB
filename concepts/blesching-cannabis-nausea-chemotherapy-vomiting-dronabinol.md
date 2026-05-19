@@ -5,7 +5,7 @@ tags: [cannabis, thc, anti-emetic, chemotherapy, nausea, dronabinol, nabilone, s
 related: [blesching-cannabis-anorexia-cachexia, blesching-cannabis-appetite-regulation-ghrelin-leptin, blesching-endocannabinoid-emotion-molecules-neurochemistry]
 ---
 
-# Cannabis for Chemotherapy-Induced Nausea and Vomiting
+## Cannabis for Chemotherapy-Induced Nausea and Vomiting
 
 Chemotherapy-induced nausea and vomiting (CINV) remains one of the most
 distressing side effects of cancer treatment, affecting up to 80% of patients

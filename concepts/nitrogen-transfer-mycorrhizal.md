@@ -8,7 +8,7 @@ sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - ~/wiki/raw/papers/symbiotic-fungi.md
 ---
-# Nitrogen Transfer Through Mycorrhizal Networks
+## Nitrogen Transfer Through Mycorrhizal Networks
 
 Nitrogen transfer through [[arbuscular-mycorrhizal-fungal-diversity]] hyphae. This process is particularly significant in intercropping systems, mixed-species forests, and [[gadd-mycelial-network-dynamics]] and released at another root system
 - **Hyphal turnover and decomposition**: Dead hyphae release nitrogen that becomes available to nearby plants

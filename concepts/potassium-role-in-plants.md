@@ -8,7 +8,7 @@ sources:
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 ---
 
-# Potassium Role in Plants
+## Potassium Role in Plants
 
 ## Overview
 

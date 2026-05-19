@@ -1,5 +1,10 @@
+---
+title: "Ayahuasca And Banisteriopsis Caapi"
+tags:
+  - concept
+---
 
-# Ayahuasca and Banisteriopsis caapi
+## Ayahuasca and Banisteriopsis caapi
 
 Ayahuasca is a psychoactive brew prepared from the bark of the *Banisteriopsis caapi* vine, native to the Amazon basin. [[psychotria-viridis]]** (chacruna) or **[[default-mode-network-and-ego-dissolution]] connectivity similar to other psychedelics.
 

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Hypholoma, Pluteus, Inocybe, and Conocybe Genera
+## Hypholoma, Pluteus, Inocybe, and Conocybe Genera
 
 ## Overview
 

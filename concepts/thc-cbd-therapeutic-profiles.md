@@ -7,7 +7,7 @@ tags: [cannabis, thc, cbd, cannabinoids, pharmacology, medical-cannabis]
 wikilinks: [endocannabinoid-system-overview, cannabinoid-receptor-pharmacology, cannabis-sativa-indica-classification]
 ---
 
-# THC and CBD Therapeutic Profiles
+## THC and CBD Therapeutic Profiles
 
 Tetrahydrocannabinol (THC) and cannabidiol (CBD) are the two most abundant and most studied cannabinoids in the cannabis plant. Despite sharing a common biosynthetic origin, they have profoundly different pharmacological profiles, receptor affinities, and [[cannabis-for-motion-sickness]].
 - **Appetite stimulation**: THC stimulates appetite through hypothalamic CB1 activation, used for AIDS-related anorexia/cachexia and cancer-related weight loss.

@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka's Argument Against Pruning and the Natural Form of Fruit Trees
+## Fukuoka's Argument Against Pruning and the Natural Form of Fruit Trees
 
 [[cannabis-vegetative-growth-stage]] tends to
 produce little fruit, while heavy bearing causes growth to decline.

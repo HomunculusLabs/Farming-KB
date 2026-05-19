@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How to Design a Pollinator Garden
+## How to Design a Pollinator Garden
 
 ## Short Answer
 

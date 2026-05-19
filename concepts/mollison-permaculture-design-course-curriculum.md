@@ -7,7 +7,7 @@ type: concept
 tags: [culture, design, permaculture]
 ---
 
-# Permaculture Design Course Curriculum Overview
+## Permaculture Design Course Curriculum Overview
 
 The [[bill-mollison]] at
 The Rural Education Center, Wilton, New Hampshire, USA in 1981. The

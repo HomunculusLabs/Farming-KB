@@ -5,7 +5,7 @@ source_author: "uwe-blesching, PhD"
 tags: [cannabis, CBD, epilepsy, seizure, anticonvulsant, endocannabinoid, THC, neurology, pediatric]
 ---
 
-# CBD and Cannabinoid Anticonvulsant Research for Epileptic Seizures
+## CBD and Cannabinoid Anticonvulsant Research for Epileptic Seizures
 
 ## Overview
 

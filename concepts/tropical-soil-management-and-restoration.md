@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Soil Management and Restoration
+## Tropical Soil Management and Restoration
 
 Tropical soils present unique and formidable challenges for agriculture and land management. Unlike temperate soils that are periodically renewed by glaciation, tropical soils are ancient, deeply weathered, and subject to intense leaching from high rainfall and heat. Understanding their characteristics and implementing appropriate management strategies is essential for sustainable food production in the humid, wet-dry, and monsoon tropics.
 

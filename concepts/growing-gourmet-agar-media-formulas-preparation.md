@@ -14,7 +14,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Nutrified Agar Media Formulas and Preparation for Mushroom Culture
+## Nutrified Agar Media Formulas and Preparation for Mushroom Culture
 
 Agar media is the foundational [[falconer-mushroom-cooking-selection-and-preparation]] of agar media directly influences the rate and character of mycelial growth, making it one of the most critical skills [[teaming-with-nutrients-micronutrients-and-trace-elements]] minerals not found in simpler sugar-based media. This medium is particularly favored for species that are difficult to fruit, as it can stimulate more natural mycelial behavior.
 

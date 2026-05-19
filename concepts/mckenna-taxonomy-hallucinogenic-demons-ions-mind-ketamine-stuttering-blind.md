@@ -6,7 +6,7 @@ tags: [ketamine, tryptamine, dmt, demonology, hallucinogen-taxonomy, mckenna, ph
 aliases: [Ketamine Stuttering Blind Demons McKenna, Ion vs Mind Demon Distinction]
 ---
 
-# McKenna's Taxonomy of Hallucinogenic Demons: Ions, Mind, and the Ketamine Stuttering-Blind Distinction
+## McKenna's Taxonomy of Hallucinogenic Demons: Ions, Mind, and the Ketamine Stuttering-Blind Distinction
 
 In his 1983 Esalen lecture, McKenna introduced a cryptic but phenomenologically
 precise taxonomy of the [[dmt-entity-encounters-and-the-logos]] produced by different classes of

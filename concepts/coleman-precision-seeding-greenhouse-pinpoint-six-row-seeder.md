@@ -6,7 +6,7 @@ tags: [winter-harvest, greenhouse, seeding, precision-tools, small-farm, coleman
 created: 2026-05-09
 ---
 
-# Precision Seeding in the Winter Harvest Greenhouse
+## Precision Seeding in the Winter Harvest Greenhouse
 
 ## Overview
 

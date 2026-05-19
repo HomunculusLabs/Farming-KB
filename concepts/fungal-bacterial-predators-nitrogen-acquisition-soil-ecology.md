@@ -1,4 +1,8 @@
-# Fungal Predation on Soil Bacteria: Nitrogen Acquisition Strategy
+---
+title: "Fungal Predation on Soil Bacteria: Nitrogen Acquisition Strategy"
+tags:
+  - concept
+---
 
 ---
 created: 2026-05-08
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fungal-salt-tolerance-and-ion-homeostasis]]
 - [[fungal-woronin-bodies-and-septal-pore-organization]]
 - [[plant-fungal-signaling-mycorrhiza]]
-- [[singh-fungal-alkane-metabolism-pathways]]

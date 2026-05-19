@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cloches and Frost Protection in Organic Gardening
+## Cloches and Frost Protection in Organic Gardening
 
 [[hamilton-deep-bed-system]]
 - [[hamilton-vegetable-planning-rotation]]

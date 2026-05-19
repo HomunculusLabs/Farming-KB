@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# Teaming with Microbes — Bacteria
+## Teaming with Microbes — Bacteria
 
 In *Teaming with Microbes*, Lowenfels and Lewis present soil bacteria as the foundation of the [[hamilton-composting-and-organic-matter-management]] is nearly ubiquitous
 

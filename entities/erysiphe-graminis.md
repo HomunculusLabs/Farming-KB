@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, plant-pathogen, powdery-mildew, grasses, turf]
 ---
 
-# Erysiphe graminis
+## Erysiphe graminis
 
 ## Description
 

@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# BOH
+## BOH
 
 **[[ascomycota-phylogeny-major-classes-lineages]] of psychedelic compounds.
 

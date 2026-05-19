@@ -11,7 +11,7 @@ sources:
 type: comparison
 ---
 
-# Herb Spiral vs Keyhole Garden
+## Herb Spiral vs Keyhole Garden
 
 ## Overview
 

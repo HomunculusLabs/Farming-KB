@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Meruliporia incrassata
+## Meruliporia incrassata
 
 **Meruliporia incrassata** is a basidiomycete fungus and the primary cause of [[psilocybin-north-america-pacific-northwest]].
 

@@ -5,7 +5,7 @@ type: concept
 tags: [mycology, biogeography, psilocybe, neurotropic-fungi, distribution]
 ---
 
-# Psilocybe Section Relationships and Trans-Pacific Biogeographic Disjunctions
+## Psilocybe Section Relationships and Trans-Pacific Biogeographic Disjunctions
 
 ## Overview
 

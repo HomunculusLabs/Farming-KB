@@ -14,7 +14,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Vegetable Seed Spacing Systems
+## Vegetable Seed Spacing Systems
 
 ## Overview
 

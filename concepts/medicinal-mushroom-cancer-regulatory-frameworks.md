@@ -8,7 +8,7 @@ sources:
   - "raw/papers/cancer-treatments-medicinal-mushrooms.md"
 ---
 
-# Medicinal Mushroom Regulatory Frameworks for Cancer Products
+## Medicinal Mushroom Regulatory Frameworks for Cancer Products
 
 The regulatory landscape for medicinal mushroom products spans pharmaceutical drugs, [[medicinal-mushroom-dietary-supplements]], and functional foods, with significant differences between Japan, China, USA, and Europe. Navigating these frameworks is essential for bringing mushroom-derived cancer therapeutics and supportive care products to market, and the regulatory pathway chosen has profound implications for clinical evidence requirements, marketing claims, and commercial viability.
 

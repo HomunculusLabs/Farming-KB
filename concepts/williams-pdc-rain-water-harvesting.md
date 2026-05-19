@@ -7,7 +7,7 @@ updated: 2026-04-27
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Rain Water Harvesting Rain water harvesting is the practice of collecting and storing rainwater that falls on a site, either in cisterns or in the earth itself, ensuring that every drop of precipitation is accounted for in the design. ## The Principle Behind Water Harvesting Water falls copiously from the sky, literally like mana from heaven, yet we completely ignore this valuable, free, life giving resource. [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+## Rain Water Harvesting Rain water harvesting is the practice of collecting and storing rainwater that falls on a site, either in cisterns or in the earth itself, ensuring that every drop of precipitation is accounted for in the design. ## The Principle Behind Water Harvesting Water falls copiously from the sky, literally like mana from heaven, yet we completely ignore this valuable, free, life giving resource. [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 

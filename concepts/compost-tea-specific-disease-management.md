@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Compost Tea for Specific Disease Management
+## Compost Tea for Specific Disease Management
 
 Compost tea (AACT) has been applied against a wide range of plant diseases and pests, with varying degrees of documented success. The effectiveness depends critically on whether the tea contains the right balance of organisms — particularly the bacterial-to-fungal ratio — for the specific pathogen being targeted.
 

@@ -8,7 +8,7 @@ related_concepts:
   - pepper-growing-guide
   - tomato-pepper-eggplant-growing-guide
 ---
-# Pepper Cultivation and Variety Guide
+## Pepper Cultivation and Variety Guide
 
 Peppers belong to the genus Capsicum within the nightshade family
 Solanaceae, a group that also includes tomatoes, potatoes, eggplants,

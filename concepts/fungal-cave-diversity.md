@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Diversity in Cave and Subterranean Environments Caves and subterranean environments represent unique fungal habitats characterized by constant temperature, high humidity, darkness, and limited organic matter input. These conditions select for specialized fungal communities adapted to perpetual darkness and oligotrophic conditions. [[arbuscule-isolation-metabolic-activity-assays]] on minimal substrate availability.
+## Fungal Diversity in Cave and Subterranean Environments Caves and subterranean environments represent unique fungal habitats characterized by constant temperature, high humidity, darkness, and limited organic matter input. These conditions select for specialized fungal communities adapted to perpetual darkness and oligotrophic conditions. [[arbuscule-isolation-metabolic-activity-assays]] on minimal substrate availability.
 
 The ability of fungi to grow on minimal nutrient inputs is a key adaptation for cave colonization. Many cave fungi grow very slowly and produce distinctive morphological features in response to the oligotrophic conditions. Some develop highly melanized cell walls that may serve dual functions: protecting against oxidative stress in the cave environment and slowing metabolic rates to conserve energy. Others produce extensive but sparsely branched [[antifungal-secondary-metabolites-coprophilous-fungi]]. Extremotolerant fungi from cave environments have yielded compounds with antimicrobial, antioxidant, and anticancer properties in preliminary screening studies, suggesting that cave ecosystems may harbor untapped pharmacological resources.
 

@@ -8,7 +8,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
 type: concept
 ---
-# Mineral Leaching and ultra low cost mineral leaching and sea salt replenishment in JADAM Farming
+## Mineral Leaching and ultra low cost mineral leaching and sea salt replenishment in JADAM Farming
 JADAM has coined the term "natural leaching of minerals" to describe the
 inevitable loss of minerals through agriculture. The surface-layer soil where
 most crop roots are located (the "plow layer," about one meter deep) gradually

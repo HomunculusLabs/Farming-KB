@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# Tryptamine (T) — TIHKAL #53
+## Tryptamine (T) — TIHKAL #53
 
 ## Compound Identity
 

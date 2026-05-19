@@ -7,7 +7,7 @@ tags: [soil, agriculture, permaculture]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Green Manure Cover Crops
+## Green Manure Cover Crops
 
 Green manure is a crop grown specifically to be dug back into the soil, adding [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 

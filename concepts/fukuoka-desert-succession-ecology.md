@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Desert Succession Ecology in Fukuoka's Greening Method
+## Desert Succession Ecology in Fukuoka's Greening Method
 
 A critical insight from [[fukuoka-desert-greening-techniques-detailed]] method works by initiating and supporting natural [[fukuoka-crop-rotation-and-natural-weeds]] and vines like kudzu can be introduced. These [[hamilton-composting-and-organic-matter-management]] increases and moisture retention improves, shrubs and small woody plants can establish naturally or be introduced through additional seed ball applications.
 

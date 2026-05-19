@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Cover Crops and Green Manure Species
+## Cover Crops and Green Manure Species
 
 [[cover-crops]] are living plants grown primarily to benefit the
 soil rather than for harvest. Mollison treats them as essential components of

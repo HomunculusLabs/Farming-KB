@@ -5,7 +5,7 @@ type: person
 tags: [researcher, rangeland, range-management, ecology]
 ---
 
-# Stoddart
+## Stoddart
 
 ## Description
 

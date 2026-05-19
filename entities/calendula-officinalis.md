@@ -18,7 +18,7 @@ sources:
   - "Hormati, H. et al. (2021). \"Calendula officinalis: A Systematic Review of Its Ethnobotany, Phytochemistry, and Pharmacology." Frontiers in Plant Science."
 ---
 
-# Calendula officinalis (Pot Marigold)
+## Calendula officinalis (Pot Marigold)
 
 ## Overview
 

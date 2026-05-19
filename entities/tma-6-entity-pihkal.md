@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# TMA-6
+## TMA-6
 [[savory-energy-flow-and-solar-capture]]. Extremely funny Q great humor, wonderful laughter.
 ## Extensions and Commentary
 Here is a simple and easily made compound

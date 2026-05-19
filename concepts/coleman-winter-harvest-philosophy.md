@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Winter Harvesting Philosophy and the Movable Greenhouse
+## Winter Harvesting Philosophy and the Movable Greenhouse
 
 ## Core Philosophy
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Tidal and Marine Aquaculture
+## Tidal and Marine Aquaculture
 
 Tidal and marine aquaculture in [[permaculture-design]] leverages the natural energy of tides, salt marsh ecosystems, and estuarine environments to produce food, treat waste, and create multifunctional landscape elements. Bill Mollison presents these systems as among the most productive and self-maintaining aquatic strategies available to the permaculture designer.
 

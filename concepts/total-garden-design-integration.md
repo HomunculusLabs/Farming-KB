@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Total Garden Design Integration
+## Total Garden Design Integration
 
 A total garden design integrates the house, garden, livestock, water systems, and energy systems into a single functioning ecosystem where every element serves multiple purposes and every output becomes an input for another element. Based on collaborative work between [[comfrey]], [[banna-grass]], lemongrass, and legumes. These are regularly cut and removed either to animal pens as green feed or to garden beds as mulch. The area is sunken and surrounded by a bank supporting pigeon pea, papaya, banana, or all of these. This zone safely processes all toilet and sink water through biological filtration before the nutrients reach food-producing areas.
 

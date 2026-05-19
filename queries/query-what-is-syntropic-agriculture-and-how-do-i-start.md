@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Syntropic Agriculture and How Do I Start?
+## What Is Syntropic Agriculture and How Do I Start?
 
 **[[syntropic-agriculture]]** (or *syntropic farming*) is a regenerative farming system developed by Swiss farmer Ernst Götsch in Brazil beginning in the 1980s. It mimics the natural succession of forest ecosystems to produce food, timber, and fiber while continuously improving soil health and biodiversity. The word "syntropy" refers to the life-organizing principle — the opposite of entropy — where energy is captured and concentrated into increasingly complex biological systems rather than dissipated.
 

@@ -18,8 +18,8 @@ related_concepts:
   - growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga
 ---
 
-# Chaga Mushroom (Inonotus obliquus) — Ecology, Cultivation, and
-# Medicine
+## Chaga Mushroom (Inonotus obliquus) — Ecology, Cultivation, and
+## Medicine
 
 Chaga is one of the most revered fungi in the world of natural medicine.
 Known scientifically as Inonotus obliquus, this sterile conk grows

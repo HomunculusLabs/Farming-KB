@@ -14,7 +14,7 @@ sources:
   - raw/papers/the-mushroom-cultivator-stamets.md
 ---
 
-# History of Mushroom Cultivation
+## History of Mushroom Cultivation
 
 ## Overview
 

@@ -16,7 +16,7 @@ sources:
   - Glick, S.D. et al. (1999). "Ibogaine: Antiaddictive and putative anti-craving properties." In: Ottersen, O.P. & Storm-Mathisen, J. (eds.) "Neuroscience in the 21st Century." Springer.
 ---
 
-# Coronaridine
+## Coronaridine
 
 ## Overview
 

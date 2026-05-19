@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Natural vs Scientific Farming
+## Natural vs Scientific Farming
 
 Masanobu Fukuoka provides a systematic comparison between [[comparison-natural-farming-vs-permaculture]]**: When the human spirit and human life blend with the [[fukuoka-mahayana-and-hinayana-natural-farming]] Farming**: This type of farming arises when man earnestly seeks entry to the realm of Mahayana farming. Desirous of the true blessings and bounty of nature, he prepares himself to receive it. This is the road leading directly to complete enlightenment, but is short of that perfect state.
 

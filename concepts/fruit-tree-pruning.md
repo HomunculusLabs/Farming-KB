@@ -7,7 +7,7 @@ tags: [gardening, homesteading, methods, plant-growth, design]
 sources: []
 ---
 
-# Fruit Tree Pruning
+## Fruit Tree Pruning
 
 Pruning is the selective removal of branches, shoots, and roots to shape fruit trees, improve fruit quality, maintain tree health, and manage size. Proper pruning is one of the most important skills for homestead orchardists and backyard fruit growers. A well-pruned tree produces higher-quality fruit, is easier to manage and harvest, and has a longer productive lifespan.
 

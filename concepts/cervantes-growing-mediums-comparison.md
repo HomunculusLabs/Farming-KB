@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Growing Mediums Comparison
+## Growing Mediums Comparison
 
 Choosing the right growing medium is fundamental to cannabis
 cultivation success. [[query-what-is-the-difference-between-coco-coir-and-peat-moss]] | 80 | High retention, acidic |

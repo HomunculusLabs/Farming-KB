@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Angelmatic (Little Angel)
+## Angelmatic (Little Angel)
 
 Angelmatic, also known as Little Angel, is an auto-flowering sativa-dominant
 hybrid [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] based

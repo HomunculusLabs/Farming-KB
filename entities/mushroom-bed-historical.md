@@ -5,7 +5,7 @@ type: entity
 tags: [bed, cultivation, historical, horse-manure, composting, 19th-century, outdoor-growing]
 ---
 
-# Mushroom Bed (Historical)
+## Mushroom Bed (Historical)
 
 ## Description
 

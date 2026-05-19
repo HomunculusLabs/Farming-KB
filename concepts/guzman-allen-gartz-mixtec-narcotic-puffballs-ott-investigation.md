@@ -5,7 +5,7 @@ mined: 2026-05-10
 tags: [mycology, gasteromycetes, puffball, ethnobotany, mixtec, mexico, neurotropic-fungi, ott]
 ---
 
-# Mixtec Narcotic Puffballs: The Ott et al. (1975) Investigation
+## Mixtec Narcotic Puffballs: The Ott et al. (1975) Investigation
 
 ## Background
 

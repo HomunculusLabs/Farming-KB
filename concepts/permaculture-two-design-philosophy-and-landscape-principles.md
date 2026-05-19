@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Permaculture Two Design Philosophy and Landscape Principles
+## Permaculture Two Design Philosophy and Landscape Principles
 
 *Permaculture Two: Practical Design and Further Theory in Permanent Agriculture* (1979) is [[bill-mollison]]'s second book, written with greater leisure than the hurried *Permaculture One*. It shifts emphasis from the theoretical foundations of permanent agriculture toward practical design methodology—"how to design, rather than designing your site."
 

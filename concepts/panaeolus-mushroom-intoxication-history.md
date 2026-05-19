@@ -8,7 +8,7 @@ sources: ["papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"]
 type: concept
 ---
 
-# Panaeolus Mushroom Intoxication History
+## Panaeolus Mushroom Intoxication History
 
 Stories about involuntary intoxications with the dark-spored,
 dung-inhabiting mushrooms of the genus Panaeolus have been in

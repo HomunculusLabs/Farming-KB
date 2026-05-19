@@ -18,7 +18,7 @@ sources:
   - Lee YN (1996). "Flora of Korea." Kyohak Publishing, Seoul.
 ---
 
-# Codonopsis lanceolata
+## Codonopsis lanceolata
 
 ## Overview
 

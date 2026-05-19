@@ -16,7 +16,7 @@ sources:
   - "Cardon, D. (2007). Natural Dyes: Sources, Tradition, Technology and Science. Archetype Publications."
 ---
 
-# Ochrolechia tartarea (Cudbear Lichen)
+## Ochrolechia tartarea (Cudbear Lichen)
 
 ## Overview
 

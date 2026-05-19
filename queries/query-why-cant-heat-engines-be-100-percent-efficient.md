@@ -9,7 +9,7 @@ updated: 2026-05-06
 sources: []
 ---
 
-# Why can't heat engines be 100 percent efficient?
+## Why can't heat engines be 100 percent efficient?
 
 ## Short Answer
 

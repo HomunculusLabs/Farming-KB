@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquatic Waste Treatment Systems
+## Aquatic Waste Treatment Systems
 
 Aquatic waste treatment systems represent a permaculture approach to sewage and wastewater management that replaces conventional chemical-based treatment with biological processes driven by plants, algae, and microorganisms. Rather than treating waste as a pollutant to be disposed of, these systems transform it into productive resources—fodder, compost, energy (biogas), and clean water for irrigation.
 

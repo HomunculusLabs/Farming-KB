@@ -23,7 +23,7 @@ sources:
   - https://www.fruitforum.com/ipm-haskap/
 ---
 
-# Haskap and Honeyberry Cultivation and Variety Guide
+## Haskap and Honeyberry Cultivation and Variety Guide
 
 Haskap (also known as honeyberry, blue honeysuckle, or *[[guzman-psilocybin-mushrooms-north-america]], Europe, and Asia, haskap is one of the first fruits to ripen each season — often weeks before strawberries. Its tolerance for extreme cold (hardy to Zone 2), early [[permaculture-designers-manual-cattle-systems]], and commercial fruit growers alike.
 

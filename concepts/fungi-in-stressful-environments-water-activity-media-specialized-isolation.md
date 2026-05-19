@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungi in Stressful Environments — Water Activity, Media, and Specialized Isolation Methods
+## Fungi in Stressful Environments — Water Activity, Media, and Specialized Isolation Methods
 
 Fungi colonize [[fungal-biodiversity-in-extreme-environments]] including hyperosmotic substrates, arid deserts, acidic mine drainage, alkaline soda lakes, saline rocks, and nutrient-poor mineral surfaces. Isolating these stress-tolerant fungi requires specialized media formulations, careful adjustment of water activity (a_w), and isolation protocols tailored to each physiological tolerance. This page covers osmophilic, xerophilic, acidophilic, alkalophilic, halophilic, oligotrophic, and rock-inhabiting fungi and the methods used for their isolation.
 

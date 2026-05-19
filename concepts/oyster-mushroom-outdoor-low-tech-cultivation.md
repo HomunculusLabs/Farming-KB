@@ -9,7 +9,7 @@ type: concept
 tags: [cultivation, growing growing gourmet tree oyster ostreatus species profile [oyster-mushroom-species] guide accessible-mushroom-cultivation-for-disabilities, oyster mushroom spent substrate recycling]
 ---
 
-# oyster mushroom growing gourmet [[mushroom-substrates]] adaptability, and tolerance for less-than-ideal conditions make them the premier mushroom for resource-limited growers, rural communities, and sustainable agriculture projects. Over 200 different waste materials have been documented as [[savory-supplemental-feeding-and-winter-management]]**: Cover logs with plastic sheet when temperatures drop; uncover when warm weather returns.
+## oyster mushroom growing gourmet [[mushroom-substrates]] adaptability, and tolerance for less-than-ideal conditions make them the premier mushroom for resource-limited growers, rural communities, and sustainable agriculture projects. Over 200 different waste materials have been documented as [[savory-supplemental-feeding-and-winter-management]]**: Cover logs with plastic sheet when temperatures drop; uncover when warm weather returns.
 
 Logs can produce multiple flushes per year for several years, though Pleurotus log cultivation is generally less productive than Shiitake log cultivation.
 

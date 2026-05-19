@@ -11,7 +11,7 @@ tags:
   - soil-fungi
 ---
 
-# Arthrobotrys
+## Arthrobotrys
 
 ## Description
 

@@ -21,7 +21,7 @@ sources:
 type: query
 ---
 
-# How Can I Design a Climate-Resilient Food Forest?
+## How Can I Design a Climate-Resilient Food Forest?
 
 Designing a climate-resilient food forest means building a productive ecosystem that absorbs shocks — droughts, floods, heat waves, late frosts — and keeps yielding. It's about designing for **redundancy, diversity, and adaptability**. Here's a practical guide.
 

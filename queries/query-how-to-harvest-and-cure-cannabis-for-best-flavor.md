@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Harvest and Cure Cannabis for the Best Flavor and Potency
+## How to Harvest and Cure Cannabis for the Best Flavor and Potency
 
 ## Short Answer
 Optimal [[query-how-does-no-till-cannabis-cultivation-work]]. Months of careful growing, feeding, and training can be

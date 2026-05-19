@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Taique (Desfontainia hookeri)
+## Taique (Desfontainia hookeri)
 
 Taique is a shrub of the Andean valleys, found primarily in southern Chile.
 Its leaves are employed locally as both a folk medicine and a narcotic,

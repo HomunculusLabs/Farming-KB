@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Plants, Drugs, Ancient Pharmacology, and Astrological Medicine
+## Plants, Drugs, Ancient Pharmacology, and Astrological Medicine
 
 ## Plants as God's Offspring
 

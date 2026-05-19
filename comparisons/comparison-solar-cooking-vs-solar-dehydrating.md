@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Solar Cooking vs Solar Dehydrating
+## Solar Cooking vs Solar Dehydrating
 
 ## Overview
 

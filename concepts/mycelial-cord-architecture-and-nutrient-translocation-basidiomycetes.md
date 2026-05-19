@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Mycelial Cord Network Architecture and Nutrient Translocation in Basidiomycetes
+## Mycelial Cord Network Architecture and Nutrient Translocation in Basidiomycetes
 
 [[fungal-mycelial-networks-nutrient-translocation]], particularly **mycelial cords** — specialized, high-conductivity channels assembled from aggregated hyphae that can extend from meters to hectares in scale. Understanding how these networks form, reconfigure, and move materials is central to [[bloomfield-turgor-pressure-and-hyphal-invasion]], and it participates in sequestration and detoxification of harmful metabolites. The interconnected tubular vacuolar network effectively creates a low-resistance pathway through which solutes can traverse multiple hyphal compartments without repeatedly crossing plasma membranes.
 

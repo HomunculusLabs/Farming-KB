@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Winter Day Length and Persephone Months
+## Winter Day Length and Persephone Months
 
 One of the most common objections to winter [[coleman-claytonia-winter-harvest-cultivation]].
 

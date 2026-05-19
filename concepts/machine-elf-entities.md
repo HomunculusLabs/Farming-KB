@@ -6,7 +6,7 @@ tags: [dmt, entities, machine-elves, mcKenna, psychedelics, entity-encounter]
 aliases: dmt-machine-elves, hyperdimensional beings, DMT elves]
 ---
 
-# Machine Elf Entities
+## Machine Elf Entities
 
 ## Overview
 

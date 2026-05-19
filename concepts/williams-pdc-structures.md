@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Structures in Permaculture Design
+## Structures in Permaculture Design
  In permaculture, a structure is any human-built piece of architecture or infrastructure, from a home to a barn, an oven, an awning, or a mailbox.
 Permaculture structures are not defined by a particular style or material list but by a method of thinking that maximizes the ecological potential of every
 built element, ensuring that structures fit into their environment in terms of morphology, materials, functions, and ecological impact.

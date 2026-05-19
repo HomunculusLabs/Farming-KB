@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# Bufotenin (5-HO-DMT, Bufotenine)
+## Bufotenin (5-HO-DMT, Bufotenine)
 
 TIHKAL entry #19. The N,N-dimethyl homologue of [[tryptamine]], 5-hydroxy-N,N-dimethyl
 - 5-Hydroxy-N,N-dimethyltryptamine

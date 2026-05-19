@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Natural Farming Soil Building
+## Natural Farming Soil Building
 
 Masanobu Fukuoka's approach to [[fukuoka-ground-cover-strategy]] -- living [[fukuoka-rice-and-barley-natural-farming]] -- the system that builds soil
 - [[natural-farming-philosophy]] -- the broader philosophy

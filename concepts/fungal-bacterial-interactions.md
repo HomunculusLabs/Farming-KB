@@ -8,7 +8,7 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-# Fungal Interactions with Bacteria
+## Fungal Interactions with Bacteria
 
 Competition, cooperation, and coexistence between fungi and bacteria in soil, plant surfaces, and other environments. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[soil-food-web-nutrient-cycling]], [[fungal-nutrient-cycling-mineral-transformations]], and [[fungal-ecology-decomposition-cycles]].
 

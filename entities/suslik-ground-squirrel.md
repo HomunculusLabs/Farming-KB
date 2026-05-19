@@ -5,7 +5,7 @@ type: entity
 tags: [animal, burrower, soil-aeration, grassland, meadow]
 ---
 
-# Suslik (Russian Ground Squirrel)
+## Suslik (Russian Ground Squirrel)
 
 ## Description
 

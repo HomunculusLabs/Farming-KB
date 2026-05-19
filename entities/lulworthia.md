@@ -5,7 +5,7 @@ type: entity
 tags: [genus, ascomycete, marine, mangrove, wood-decomposer]
 ---
 
-# Lulworthia
+## Lulworthia
 
 ## Description
 

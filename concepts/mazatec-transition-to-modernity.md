@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Society in Transition Between Tradition and Modernity
+## Mazatec Society in Transition Between Tradition and Modernity
 
 ## Overview
 

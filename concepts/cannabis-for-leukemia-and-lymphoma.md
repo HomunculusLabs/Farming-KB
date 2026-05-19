@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for Leukemia and Lymphoma
+## Cannabis for Leukemia and Lymphoma
 
 Leukemia is a type of blood cancer that usually begins in the bone marrow, where production of red and white blood cells and platelets occurs. Cancerous mutations of blood cells at their point of genesis can lead to serious impairment of immune function, [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) rates the evidence for cannabis in leukemia and lymphoma at a combined CHI value of 9, based on 7 studies reviewed. The evidence focuses primarily on the ability of cannabinoids to induce apoptosis (programmed cell death) in leukemia cells.
 

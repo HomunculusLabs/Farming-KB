@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Amazonian Shamanism and Ayahuasca Traditions
+## Amazonian Shamanism and Ayahuasca Traditions
 
 Amazonian shamanism represents, in McKenna's view, the most direct surviving lineage of the archaic hallucinogenic religion that once characterized all of human culture. The ayahuasca complex — a brew combining DMT-containing plants with beta-carboline-rich vines — is the central sacrament of this living tradition and provides McKenna with his primary ethnographic evidence for the reality and power of the tryptamine dimension.
 

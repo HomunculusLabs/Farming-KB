@@ -6,7 +6,7 @@ source: biodiversity-of-fungi.md
 created: 2026-05-11
 ---
 
-# Mycorrhizal Fungi in Ecosystem Function
+## Mycorrhizal Fungi in Ecosystem Function
 
 ## Overview
 

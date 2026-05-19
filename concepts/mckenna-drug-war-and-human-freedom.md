@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# The Drug War and Human Freedom
+## The Drug War and Human Freedom
 
 ## A Civil Rights Issue
 

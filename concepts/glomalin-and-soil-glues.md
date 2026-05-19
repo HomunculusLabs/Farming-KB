@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Glomalin and Soil Glues
+## Glomalin and Soil Glues
 
 ## Overview
 

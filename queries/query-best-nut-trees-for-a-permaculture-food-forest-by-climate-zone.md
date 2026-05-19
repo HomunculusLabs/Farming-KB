@@ -21,7 +21,7 @@ sources:
 type: query
 ---
 
-# FAQ — Best Nut Trees for a Permaculture Food Forest by Climate Zone
+## FAQ — Best Nut Trees for a Permaculture Food Forest by Climate Zone
 
 Choosing the right nut trees for your climate zone is one of the most important decisions in food [[holzer-frost-protection-techniques]]), chestnut (European × Japanese hybrids) |
 | **7–8** | All above plus: pistachio (with caveats), southern pecans, macadamia (marginal), carob |

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Development and Property Trusts
+## Development and Property Trusts
 
 ## Overview
 

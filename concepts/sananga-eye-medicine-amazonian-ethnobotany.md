@@ -4,7 +4,7 @@ source_type: general_knowledge
 mined_date: 2026-05-08
 tags: [sananga, tabernaemontana, amazonian-medicine, eye-drops, ethnobotany, iboga-alkaloids, indigenous-healing]
 ---
-# Sananga — Amazonian Ophthalmic Eye Medicine
+## Sananga — Amazonian Ophthalmic Eye Medicine
 
 ## Overview
 

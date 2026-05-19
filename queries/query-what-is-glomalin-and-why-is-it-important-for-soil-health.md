@@ -8,7 +8,7 @@ sources:
   - "raw/papers/teaming-with-microbes-jeff-lowenfels.md"
 ---
 
-# What Is Glomalin and Why Is It Important for Soil Health?
+## What Is Glomalin and Why Is It Important for Soil Health?
 
 ## Short Answer
 

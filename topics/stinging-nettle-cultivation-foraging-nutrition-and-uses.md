@@ -13,7 +13,7 @@ related_concepts:
   - herbal-medicine-making
 ---
 
-# Stinging Nettle: Cultivation, Foraging, Nutrition, and Uses
+## Stinging Nettle: Cultivation, Foraging, Nutrition, and Uses
 
 ## Introduction
 

@@ -13,7 +13,7 @@ sources:
   - raw/papers/carolina-mushrooms_08qxp.md
 ---
 
-# Hallucinogenic Mushroom Terminology Across European Languages
+## Hallucinogenic Mushroom Terminology Across European Languages
 
 The EMCDDA 2006 emerging trend case study documented an extensive multilingual vocabulary for [[emcdda-internet-resources-magic-mushroom-websites]]:
 

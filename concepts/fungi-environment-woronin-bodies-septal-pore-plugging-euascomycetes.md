@@ -1,4 +1,8 @@
-# Woronin Bodies: Septal Pore Plugging in Euascomycetes
+---
+title: "Woronin Bodies: Septal Pore Plugging in Euascomycetes"
+tags:
+  - concept
+---
 
 **Source:** Fungi in the Environment — Gadd, Watkinson & Dyer (2007), Ch. 11
 
@@ -144,7 +148,3 @@ Successful integration of fungi environment woronin bodies septal pore plugging 
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource

@@ -17,7 +17,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Magnaporthe grisea and Rice Blast Disease
+## Magnaporthe grisea and Rice Blast Disease
 
 *Magnaporthe grisea* (also known as *Magnaporthe oryzae*) is a heterothallic, phytopathogenic ascomycete capable of infecting over 50 species of grass. The most economically important host is rice, the staple diet of nearly half the global human population. Rice blast disease caused by *M. grisea* destroys between 11% and 30% of the rice harvest annually, making it one of the most devastating diseases of crop plants worldwide.
 

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Casing Layer Materials and Buffering Agents
+## Casing Layer Materials and Buffering Agents
 
 The casing layer is a critical component in the cultivation of many
 mushroom species. It provides the microclimate necessary for

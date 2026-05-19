@@ -8,7 +8,7 @@ sources: ["papers/a-golden-guide-to-hallucinogenic-plants.md"]
 type: concept
 ---
 
-# Ayahuasca Additive Plants and DMT Synergy
+## Ayahuasca Additive Plants and DMT Synergy
 
 The preparation of ayahuasca (caapi) is rarely a simple matter of
 brewing the bark of a single Banisteriopsis vine. Amazonian Indians

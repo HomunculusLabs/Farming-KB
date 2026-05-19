@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Return to Nature Philosophy
+## Return to Nature Philosophy
 
 The title of Masanobu Fukuoka's second major work, "The Road Back to Nature," encapsulates his deepest conviction: that human civilization has wandered far from its natural origins and must find its way back. This [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]], without tillage."
 

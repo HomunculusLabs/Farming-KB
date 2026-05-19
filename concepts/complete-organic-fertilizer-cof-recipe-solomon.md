@@ -1,4 +1,8 @@
-# Complete Organic Fertilizer (COF) — [[coleman-winter-greens-nutritional-quality-cold-sweetening]] over maximum bulk yield.
+---
+title: "Complete Organic Fertilizer (COF) — coleman winter greens nutritional quality cold sweetening over maximum bulk yield."
+tags:
+  - concept
+---
 
 ## Overview
 

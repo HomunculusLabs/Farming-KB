@@ -5,7 +5,7 @@ type: entity
 tags: [species, poaceae, grass, salt-indicator, dryland, halophyte, permaculture]
 ---
 
-# Hordeum maritimum
+## Hordeum maritimum
 
 ## Description
 

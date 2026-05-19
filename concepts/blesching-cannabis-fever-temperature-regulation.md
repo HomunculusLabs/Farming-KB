@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Fever (Temperature Regulation)
+## Cannabis and Fever (Temperature Regulation)
 
 ## Overview
 

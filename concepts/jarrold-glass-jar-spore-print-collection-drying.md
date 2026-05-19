@@ -5,7 +5,7 @@ tags: [mushroom, spore-print, sterilization, glass-jar, collection, drying, stor
 created: 2026-05-10
 ---
 
-# Jarrold Glass Jar Spore Print Collection, Sterilization, and Drying Technique
+## Jarrold Glass Jar Spore Print Collection, Sterilization, and Drying Technique
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Urediniomycetes: Rust Fungi and Yeastlike Relatives
+## Urediniomycetes: Rust Fungi and Yeastlike Relatives
 
 The Urediniomycetes is a large and diverse class within the phylum
 [[biodiversity-smut-fungi-diversity]]) and the

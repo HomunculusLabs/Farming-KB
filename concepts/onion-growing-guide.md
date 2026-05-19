@@ -7,7 +7,7 @@ tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
 sources: []
 ---
 
-# Onion Growing Guide
+## Onion Growing Guide
 
 Onions (Allium cepa) are a foundational kitchen staple with specific day-length requirements that determine bulb formation. This guide covers day-length types, planting methods (sets, seeds, transplants), growing care, curing, and storage.
 

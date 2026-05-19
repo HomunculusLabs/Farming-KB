@@ -47,7 +47,7 @@ related_concepts:
   - cervantes-organic-amendments-chart
 ---
 
-# Soil Mineral Management and Amendment Strategies
+## Soil Mineral Management and Amendment Strategies
 
 Soil mineral management is the science and art of ensuring that plants
 have access to the full spectrum of nutrients they need for healthy growth.

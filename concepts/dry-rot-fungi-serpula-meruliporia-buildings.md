@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Dry Rot Fungi — *Serpula lacrymans* and *Meruliporia* in Buildings
+## Dry Rot Fungi — *Serpula lacrymans* and *Meruliporia* in Buildings
 
 ## Overview
 

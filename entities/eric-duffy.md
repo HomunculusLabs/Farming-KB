@@ -5,7 +5,7 @@ type: entity
 tags: [person, author, grassland, wildlife-conservation]
 ---
 
-# Eric Duffy
+## Eric Duffy
 
 ## Description
 

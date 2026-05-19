@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Bamboo Construction vs Timber Frame
+## Bamboo Construction vs Timber Frame
 
 ## Overview
 Bamboo construction uses rapidly renewable bamboo grass as a structural

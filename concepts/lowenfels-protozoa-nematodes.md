@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Protozoa and Nematodes in the [[teaming-with-microbes-soil-food-web-overview]] as
+## Protozoa and Nematodes in the [[teaming-with-microbes-soil-food-web-overview]] as
 consumers of bacteria and fungi. They are the critical link that converts
 microbe-locked nutrients into plant-available forms. Protozoa are single-celled
 animals that feed on bacteria and other microbes; nematodes are tiny unsegmented

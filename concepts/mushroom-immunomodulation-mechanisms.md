@@ -6,7 +6,7 @@ type: concept
 tags: mycology, mushrooms, cultivation]
 sources: []
 ---
-# Mushroom Immunomodulation Mechanisms
+## Mushroom Immunomodulation Mechanisms
 Mushroom-derived polysaccharides and proteoglycans act primarily as
 [[medicinal-mushrooms]]
 therapy in both traditional Chinese medicine and modern clinical

@@ -5,7 +5,7 @@ type: entity
 tags: [technique, cultivation, casing, mushroom-growing, bed-management]
 ---
 
-# Mushroom Casing
+## Mushroom Casing
 
 ## Description
 

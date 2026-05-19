@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Fish Aminos vs Kelp Meal
+## Fish Aminos vs Kelp Meal
 
 Fish aminos and kelp meal are two of the most powerful organic inputs available
 to growers, but they serve fundamentally different nutritional roles. Fish aminos

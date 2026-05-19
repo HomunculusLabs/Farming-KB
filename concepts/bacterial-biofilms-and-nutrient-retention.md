@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Bacterial Biofilms and Nutrient Retention
+## Bacterial Biofilms and Nutrient Retention
 
 ## What Are Biofilms?
 

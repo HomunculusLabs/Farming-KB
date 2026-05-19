@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, mushrooms]
 sources: []
 ---
-# Wild Mushroom Harvest Sustainability
+## Wild Mushroom Harvest Sustainability
 Wild mushroom harvest sustainability concerns the practices and principles
 needed to ensure that commercial and recreational harvesting of wild
 mushrooms does not deplete populations or damage the forest ecosystems on

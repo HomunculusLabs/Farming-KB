@@ -4,10 +4,10 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md]
+sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
 
-# Arbuscular Mycorrhizal Fungal Diversity — Patterns and Distribution
+## Arbuscular Mycorrhizal Fungal Diversity — Patterns and Distribution
 
 Arbuscular mycorrhizal (AM) fungi (Glomeromycota, formerly Glomales) form the most widespread plant-fungal symbiosis on Earth. Their diversity patterns differ markedly from those of most other fungal groups, with tropical and [[fungal-biodiversity-tropical-forests]] (artifact of high [[north-carolina-mycodiversity]] old field)
 - 25-50 species estimated for 50,000-ha temperate region

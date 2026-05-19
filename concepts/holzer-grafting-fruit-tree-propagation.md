@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Grafting and Fruit Tree Propagation
+## Grafting and Fruit Tree Propagation
 
 [[sepp-holzer-fruit-tree-varieties]].
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Overview of Hallucinogenic Plant Use
+## Overview of Hallucinogenic Plant Use
 
 ## Plants as Chemical Factories
 

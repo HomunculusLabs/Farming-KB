@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Edible Agarics, Coprinus, and Lepiota Species
+## Edible Agarics, Coprinus, and Lepiota Species
 
 ## Overview
 

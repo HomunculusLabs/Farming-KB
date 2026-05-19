@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: entity
 ---
 
-# Soil Temperature and Plant Growth
+## Soil Temperature and Plant Growth
 
 ## Description
 

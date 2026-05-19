@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, cultivation, harvesting, post-harvest, yield]
 ---
 
-# Mushroom Harvesting
+## Mushroom Harvesting
 
 ## Description
 

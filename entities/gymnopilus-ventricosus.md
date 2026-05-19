@@ -9,7 +9,7 @@ sources: []
   - ""raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 
-# Gymnopilus ventricosus
+## Gymnopilus ventricosus
 
 Gymnopilus ventricosus is a large, orange-to-rusty colored mushroom in the
 family Cortinariaceae, notable for being a nearly identical but inactive

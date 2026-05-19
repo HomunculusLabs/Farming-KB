@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# The Natural Foods Movement in America
+## The Natural Foods Movement in America
 
 In *The Road Back to Nature*, [[psilocybin-north-america-pacific-northwest]]. Fukuoka was astonished to see natural foods like miso, soy sauce, and brown rice being exported from large plants and warehouses to the entire world.
 

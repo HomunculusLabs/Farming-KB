@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Yeast Isolation Methods and Community Ecology
+## Yeast Isolation Methods and Community Ecology
 
 Yeast isolation and characterization represent a critical intersection of [[mycology]], microbial ecology, and molecular biology. Understanding the methods used to isolate yeasts from natural environments, the ecological context of their abundance and distribution, and the techniques for their identification is essential for surveying [[fungal-biodiversity]] and discovering novel species.
 

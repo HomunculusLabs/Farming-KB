@@ -5,7 +5,7 @@ tags: [mckenna, dmt, endogenous, serotonin, tryptamine, brain, neurotransmitter,
 source: raw/papers/mckenna_t-tryptamines_consciousness.md
 ---
 
-# McKenna DMT as Endogenous Hallucinogen and Brain Affinity
+## McKenna DMT as Endogenous Hallucinogen and Brain Affinity
 
 ## Overview
 

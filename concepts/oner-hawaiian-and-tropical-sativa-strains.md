@@ -8,7 +8,7 @@ sources:
   - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
-# Hawaiian and Tropical Sativa Strains
+## Hawaiian and Tropical Sativa Strains
 
 The [[psilocybe-southeast-asia-pacific]] have produced some of the most
 prized [[cannabis-terpene-profiles-sativa]], cerebral effects, and vibrant

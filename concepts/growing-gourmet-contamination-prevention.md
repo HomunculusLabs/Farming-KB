@@ -12,7 +12,7 @@ sources:
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 updated: 2026-05-06
 ---
-# Contamination Prevention
+## Contamination Prevention
 
 Contamination is the single greatest threat to [[gaias-garden-bringing-the-soil-to-life]]. The more contaminants at make-up, the more that survive the [[pressure-cooker-sterilisation-fungal-substrate]] to media vessels. Insufficient sterilization of tools is a direct vector since contact with media is immediate.
 

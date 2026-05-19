@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Social Hierarchy Patterns and the Arts in Permaculture
+## Social Hierarchy Patterns and the Arts in Permaculture
 
 ## Overview
 

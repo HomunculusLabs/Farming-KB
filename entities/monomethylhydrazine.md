@@ -5,7 +5,7 @@ type: entity
 tags: [chemical, rocket-fuel, toxin, gyromitra, hydrazine]
 ---
 
-# Monomethylhydrazine
+## Monomethylhydrazine
 
 ## Description
 

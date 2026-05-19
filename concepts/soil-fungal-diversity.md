@@ -7,7 +7,7 @@ tags: [soil, agriculture]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Soil Fungal Diversity
+## Soil Fungal Diversity
 
 ## Overview
 

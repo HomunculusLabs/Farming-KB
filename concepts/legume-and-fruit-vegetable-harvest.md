@@ -8,7 +8,7 @@ tags: [gardening, harvest, legumes, fruit-vegetables, organic-gardening]
 sources:
   - "raw/papers/purdue-home-gardeners-guide.md"
 ---
-# Legume and Fruit Vegetable Harvest
+## Legume and Fruit Vegetable Harvest
 
 Detailed [[hamilton-fruit-vegetables-organic]], based on Purdue Extension guidelines. Covers beans,
 peas, okra, peppers, tomatoes, cucumbers, and eggplant.

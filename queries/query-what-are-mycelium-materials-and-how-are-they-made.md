@@ -13,7 +13,7 @@ sources:
 type: query
 ---
 
-# What Are Mycelium Materials and How Are They Made?
+## What Are Mycelium Materials and How Are They Made?
 
 ## Quick Answer
 

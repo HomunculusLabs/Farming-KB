@@ -4,7 +4,7 @@ source: carolina-mushrooms_08qxp.md
 tags: [emcdda, market, growkit, online-shop, smartshop, economics, retail, spore-print, spawn-bag, europe]
 ---
 
-# Magic Mushroom Growkit and Online Shop Market Snapshot 2006
+## Magic Mushroom Growkit and Online Shop Market Snapshot 2006
 
 ## Overview
 

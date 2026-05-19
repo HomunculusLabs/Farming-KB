@@ -7,7 +7,7 @@ tags: [cannabis, soil-health, nutrients, gardening]
 sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 ---
 
-# Cannabis Soil and Nutrients
+## Cannabis Soil and Nutrients
 
 Cannabis is a heavy feeder with specific [[cannabis-soil-and-nutrient-requirements]] that change through its life cycle. Understanding NPK ratios, micronutrients, and soil pH is essential for healthy plants and maximum yield.
 

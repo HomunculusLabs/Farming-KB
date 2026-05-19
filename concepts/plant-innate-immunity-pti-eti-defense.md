@@ -7,7 +7,7 @@ tags: [plant-immunity, pti, eti, pattern-recognition-receptor, effector, plant-d
 aliases: [plant-immune-system, zipper-model, guard-hypothesis, plant-disease-resistance, pamp-triggered-immunity]
 ---
 
-# Plant Innate Immunity: Pattern-Triggered and Effector-Triggered Defense
+## Plant Innate Immunity: Pattern-Triggered and Effector-Triggered Defense
 
 ## Overview
 

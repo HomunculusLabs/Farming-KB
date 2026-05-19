@@ -18,7 +18,7 @@ sources:
   - https://www.historicengland.org.uk/advice/technical-advice/investigating-historic-buildings/wattle-and-daub/
 ---
 
-# Wattle and Daub Construction
+## Wattle and Daub Construction
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Immunomodulatory Mechanisms of Mushroom Polysaccharides
+## Immunomodulatory Mechanisms of Mushroom Polysaccharides
 
 Mushroom-derived polysaccharides exert their antitumour effects primarily through modulation of the host immune system rather than direct cytotoxicity. This concept explores the detailed immunological mechanisms by which these compounds recognize, target, and destroy cancer cells.
 

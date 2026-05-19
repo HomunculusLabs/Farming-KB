@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Bacterial Associates of AMF Structures and Biocontrol
+## Bacterial Associates of AMF Structures and Biocontrol
 
 ## Overview
 

@@ -5,7 +5,7 @@ source_author: Steve Solomon
 tags: [gardening, seeds, seed-companies, variety-selection, heirloom, hybrid, low-input, homesteading]
 ---
 
-# Seed Sourcing and Variety Selection for Home Gardens
+## Seed Sourcing and Variety Selection for Home Gardens
 
 ## Overview
 

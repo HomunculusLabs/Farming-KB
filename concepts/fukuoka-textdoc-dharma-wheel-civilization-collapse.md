@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# The Dharma Wheel, Civilization, and Collapse
+## The Dharma Wheel, Civilization, and Collapse
 
 In *The Natural Way of Farming*, [[allegro-garden-of-eden-and-delight]] in Western
 tradition or the Age of the Gods in Japanese mythology.

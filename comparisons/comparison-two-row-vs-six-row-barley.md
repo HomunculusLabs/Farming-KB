@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# 2-Row vs 6-Row Barley
+## 2-Row vs 6-Row Barley
 
 ## Overview
 

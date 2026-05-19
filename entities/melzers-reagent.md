@@ -5,7 +5,7 @@ type: entity
 tags: [reagent, microscopy, mycology, staining, histochemistry]
 ---
 
-# Melzer's Reagent
+## Melzer's Reagent
 
 ## Description
 

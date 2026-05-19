@@ -4,7 +4,7 @@ source: mckenna_t-tryptamines_consciousness.md
 type: concept
 ---
 
-# DMT and the Logos — McKenna on Tryptamine Consciousness
+## DMT and the Logos — McKenna on Tryptamine Consciousness
 
 [[terence-mckenna]]'s 1983 lecture at Esalen Institute, "[[tryptamine-hallucinogens-and-consciousness]]," is one of the most detailed first-person accounts of DMT experience and its implications for understanding consciousness. Delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics, the talk argues that [[tryptamine-hallucinogens]] reveal a "universe of active intelligence" accessible through the human brain.
 

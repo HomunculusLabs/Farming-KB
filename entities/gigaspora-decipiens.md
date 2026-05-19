@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, glomales, arbuscular-mycorrhizae, amf, species, gigaspora]
 ---
 
-# Gigaspora decipiens
+## Gigaspora decipiens
 
 ## Description
 

@@ -19,7 +19,7 @@ sources:
   - Smart, R. et al. (2017). "Cannabis: A Complete Guide." CRC Press.
 ---
 
-# Master Kush
+## Master Kush
 
 ## Overview
 

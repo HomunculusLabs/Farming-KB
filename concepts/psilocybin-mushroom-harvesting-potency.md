@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
 
-# Psilocybin Mushroom Harvesting and Potency
+## Psilocybin Mushroom Harvesting and Potency
 
 ## Overview
 

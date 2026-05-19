@@ -7,7 +7,7 @@ tags: [cannabis, indoor, plant-growth, methods, equipment]
 sources: []
 ---
 
-# Cannabis Topping and Training Techniques
+## Cannabis Topping and Training Techniques
 
 Plant training is the practice of manipulating cannabis growth patterns to increase yield, improve light penetration, manage canopy height, and create an even bud distribution. These techniques range from simple pruning cuts to elaborate trellis systems.
 

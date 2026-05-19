@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Grow Medicinal Herbs at Home
+## How to Grow Medicinal Herbs at Home
 
 ## Short Answer
 Growing medicinal herbs at home requires understanding each plant's specific

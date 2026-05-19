@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Manage pH in My Cannabis Grow?
+## How Do I Manage pH in My Cannabis Grow?
 
 ## Short Answer
 Cannabis grows best in soil with a pH of 6.0 to 7.0, or 5.5 to 6.5 in

@@ -8,7 +8,7 @@ sources: [the-psilocybin-solution-by-simon-g-powell.md]
 type: concept
 ---
 
-# Foundations of Psychedelic Therapy with Psilocybin
+## Foundations of Psychedelic Therapy with Psilocybin
 
 ## Overview
 

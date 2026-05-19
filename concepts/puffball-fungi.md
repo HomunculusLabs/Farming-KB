@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Puffball Fungi
+## Puffball Fungi
 
 Puffballs are a group of fungi belonging to the order Lycoperdales within
 the class Basidiomycota. They produce spores internally within enclosed

@@ -13,7 +13,7 @@ sources:
   - "raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md"
 ---
 
-# BRI1
+## BRI1
 
 BRI1 (Brassinosteroid Insensitive 1) is a leucine-rich repeat receptor-like
 kinase (LRR-RLK) that serves as the primary cell surface receptor for

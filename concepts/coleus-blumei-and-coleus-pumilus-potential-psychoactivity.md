@@ -8,7 +8,7 @@ created: 2026-05-09
 tags: [coleus, lamiaceae, psychoactive-plants, ethnobotany, salvia-substitute, ornamental-plants]
 ---
 
-# Coleus blumei and Coleus pumilus: Potential Psychoactivity
+## Coleus blumei and Coleus pumilus: Potential Psychoactivity
 
 ## Overview
 

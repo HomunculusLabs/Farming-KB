@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# Sugar, Coffee, Tea, and Chocolate
+## Sugar, Coffee, Tea, and Chocolate
 
 ## Broadening Our Taste
 

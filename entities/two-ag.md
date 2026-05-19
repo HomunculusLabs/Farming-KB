@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# 2-Arachidonoylglycerol (2-AG)
+## 2-Arachidonoylglycerol (2-AG)
 
 **Type:** Chemical / Endocannabinoid
 **Category:** Endogenous cannabinoid (produced by the human body)

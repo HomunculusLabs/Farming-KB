@@ -21,7 +21,7 @@ sources:
 type: concept
 ---
 
-# Sugar, Spice, and the Roots of Mercantilism
+## Sugar, Spice, and the Roots of Mercantilism
 
 The breakup of Christian medieval Europe occurred as a result of an epidemic
 obsession with the new, the exotic, and the delightful. In short, it was driven

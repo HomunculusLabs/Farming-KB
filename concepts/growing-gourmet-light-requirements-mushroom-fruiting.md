@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Light Requirements for Mushroom Fruiting
+## Light Requirements for Mushroom Fruiting
 
 ## Overview
 

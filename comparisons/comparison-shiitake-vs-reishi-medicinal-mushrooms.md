@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Shiitake vs Reishi Medicinal Mushrooms
+## Shiitake vs Reishi Medicinal Mushrooms
 
 ## Overview
 

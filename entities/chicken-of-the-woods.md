@@ -21,7 +21,7 @@ aliases:
 created: 2026-05-07
 ---
 
-# Chicken of the Woods
+## Chicken of the Woods
 
 Chicken of the Woods (*[[comparison-brown-rot-vs-white-rot-bioremediation]] (degrading both lignin and cellulose), *Laetiporus* species are **brown-rot fungi** that primarily degrade cellulose and hemicellulose while leaving lignin largely intact. This results in a characteristic brown, crumbly wood texture often called "brown cubical rot." The decay process involves:
 

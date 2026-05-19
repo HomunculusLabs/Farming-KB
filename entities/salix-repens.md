@@ -5,7 +5,7 @@ type: entity
 tags: [plant, salicaceae, dual-mycorrhizal, willow]
 ---
 
-# Salix repens
+## Salix repens
 
 ## Description
 

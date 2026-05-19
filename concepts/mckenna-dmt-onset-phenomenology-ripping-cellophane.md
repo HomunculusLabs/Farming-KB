@@ -16,7 +16,7 @@ sources:
   - mckenna_t-tryptamines_consciousness.md
 ---
 
-# DMT Onset Phenomenology and the Ripping Cellophane Experience
+## DMT Onset Phenomenology and the Ripping Cellophane Experience
 
 The onset of a dimethyltryptamine (DMT) experience, when smoked, is characterized by a
 remarkably consistent sequence of sensory phenomena that unfolds over approximately thirty

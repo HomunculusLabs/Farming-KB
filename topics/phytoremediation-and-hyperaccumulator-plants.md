@@ -21,7 +21,7 @@ sources:
   - https://www.annualreviews.org/doi/10.1146/annurev-arplant-043015-031847
 ---
 
-# Phytoremediation and 
+## Phytoremediation and 
 
 Phytoremediation is the use of living plants to clean up contaminated soil, water, and air. It harnesses the natural physiological processes of plants — uptake, storage, degradation, and immobilization — to remove, contain, or render harmless environmental pollutants including heavy metals, organic contaminants, radionuclides, and excess nutrients. First formally conceptualized in the early 1990s by Ilya Raskin and colleagues at Rutgers University, phytoremediation has grown into a multidisciplinary field spanning plant physiology, soil chemistry, microbiology, and environmental engineering.
 

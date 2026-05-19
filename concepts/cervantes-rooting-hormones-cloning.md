@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Rooting Hormones for Cannabis Cloning
+## Rooting Hormones for Cannabis Cloning
 
 Rooting hormones are essential tools for successful [[allegro-end-of-a-road-motivation]] the cutting in powder. Apply a thick, even coat. Tap or
 scrape off excess powder, as too much hormone can hinder root growth.

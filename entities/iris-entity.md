@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# IRIS (5-Ethoxy-2-methoxy-4-methylamphetamine)
+## IRIS (5-Ethoxy-2-methoxy-4-methylamphetamine)
 
 IRIS is a substituted amphetamine compound and one of the ten "Classic Ladies," the possible alpha-homologues of [[ariadne-entity]] entry, which was the first of the series.
 

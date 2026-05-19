@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Ingham — AACT Disease Suppression Mechanisms
+## Ingham — AACT Disease Suppression Mechanisms
 
 In the *[[compost-tea-aact]], [[microbial-disease-suppression-soil]]
 

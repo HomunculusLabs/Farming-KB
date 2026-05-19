@@ -21,7 +21,7 @@ related_concepts:
   - forest-gardening-and-food-forests
 ---
 
-# Mycelium Networks and Fungal Ecology
+## Mycelium Networks and Fungal Ecology
 
 Mycelium is the vegetative body of fungi, an extensive network of branching
 filamentous cells called hyphae that courses through virtually all terrestrial

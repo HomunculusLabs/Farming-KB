@@ -7,7 +7,7 @@ tags: [entheogen, chemistry, preparation, lab-technique, psychopharmacology, saf
 sources: []
 ---
 
-# DMT Extraction Guide
+## DMT Extraction Guide
 
 ## Overview
 

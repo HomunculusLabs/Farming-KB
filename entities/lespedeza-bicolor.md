@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Lespedeza bicolor
+## Lespedeza bicolor
 
 **Type:** Species
 **Category:** Leguminous shrub

@@ -1,4 +1,8 @@
-# Hongo's Nine Distribution Types: A Biogeographic Framework for Fungi
+---
+title: "Hongo's Nine Distribution Types: A Biogeographic Framework for Fungi"
+tags:
+  - concept
+---
 
 ---
 created: 2026-05-08
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[guzman-allen-gartz-hongo-distribution-types-neurotropic-fungi]]
 - [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]
 - [[guzman-nine-distribution-types-neurotropic-fungi-detailed]]
-- [[mushroom-cultivation-disabilities-nine-week-training-program]]

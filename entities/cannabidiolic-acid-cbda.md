@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# Cannabidiolic Acid (CBDA)
+## Cannabidiolic Acid (CBDA)
 
 **Type:** Chemical Compound (Cannabinoid Acid Precursor)
 **Category:** Phytocannabinoid

@@ -5,7 +5,7 @@ type: entity
 tags: [fungicide, potassium-bicarbonate, vineyard, organic-control, mildew]
 ---
 
-# Kaligreen
+## Kaligreen
 
 ## Description
 Kaligreen is a commercially available fungicide based on potassium bicarbonate (KHCO3), used primarily for control of powdery mildew in vineyards, ornamental plants, and various food crops. It is classified as a minimum-risk pesticide and is approved for use in organic production systems. Elaine Ingham mentions Kaligreen in the context of vineyard disease management alongside copper, sulfur, and compost tea as part of an integrated approach to disease control.

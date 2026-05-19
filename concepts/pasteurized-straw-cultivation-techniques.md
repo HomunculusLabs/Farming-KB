@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# Pasteurized Straw Cultivation Techniques In commercial mushroom production, cereal straw is one of the most frequently used [[cannabis-sativa-indoor-cultivation-techniques]].
+## Pasteurized Straw Cultivation Techniques In commercial mushroom production, cereal straw is one of the most frequently used [[cannabis-sativa-indoor-cultivation-techniques]].
 -   **Shelves** — stationary growing surfaces in the [[comparison-biointensive-vs-square-foot-gardening]]** determines total yield potential.
 -   Colonization must proceed as rapidly as possible to prevent
     competitors from becoming established.

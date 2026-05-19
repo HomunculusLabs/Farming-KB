@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md (chunk 90)
 type: concept
 ---
 
-# Natural Sewage Treatment Systems
+## Natural Sewage Treatment Systems
 
 Natural sewage treatment systems use biological processes, specific plant species, and
 designed [[desert-landscape-features-and-erosion-landforms]] to purify wastewater, recover nutrients, and produce useful

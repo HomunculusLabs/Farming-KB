@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and TBI Research
+## Cannabis and TBI Research
 
 **Source:** The [[blesching-glutamate-excitotoxicity-cannabinoid-neuroprotection]] (US Patent 6,630,507) explicitly includes TBI:
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
-# Biostimulation Techniques
+## Biostimulation Techniques
 
 Biostimulation is a bioremediation strategy that involves stimulating the indigenous microbial population at a contaminated site to enhance their natural ability to degrade pollutants. Rather than introducing external organisms (bioaugmentation), biostimulation provides the conditions, nutrients, or other amendments that allow native microorganisms to carry out remediation more efficiently.
 

@@ -6,7 +6,7 @@ tags: [microbiology, cannabis, rhizosphere, plant-microbiome, beta-diversity]
 created: 2026-05-09
 ---
 
-# Rhizosphere–Bulk Soil Similarity vs. Endorhiza Divergence in Cannabis
+## Rhizosphere–Bulk Soil Similarity vs. Endorhiza Divergence in Cannabis
 
 ## Overview
 

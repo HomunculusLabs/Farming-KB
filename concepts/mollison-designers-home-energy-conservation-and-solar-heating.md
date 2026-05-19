@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Home Energy Conservation and Solar Heating
+## Home Energy Conservation and Solar Heating
 
 Space heat and hot water together are about 80% of the energy needs of
 modern housing. Home energy conservation is therefore one of the most

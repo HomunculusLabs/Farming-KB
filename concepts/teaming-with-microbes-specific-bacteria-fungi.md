@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
-# Teaming with Microbes: Specific Bacteria and Fungi in Soil
+## Teaming with Microbes: Specific Bacteria and Fungi in Soil
 
 **Source:** Jeff Lowenfels and Wayne Lewis, *Teaming with Microbes*
 

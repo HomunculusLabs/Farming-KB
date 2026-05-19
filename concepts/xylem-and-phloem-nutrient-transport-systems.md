@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Xylem and Phloem Nutrient Transport Systems
+## Xylem and Phloem Nutrient Transport Systems
 
 Once nutrient ions enter the root, they must be distributed throughout the plant. Two distinct vascular systems accomplish this: the **[[xylem]]** moves water and dissolved nutrients primarily upward, while the **phloem** transports sugars, proteins, and other organic compounds bidirectionally. Together, they form the plant's circulatory system.
 

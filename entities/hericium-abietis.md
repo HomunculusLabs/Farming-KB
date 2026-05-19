@@ -29,7 +29,7 @@ sources:
   - https://www.speciesfungorum.org/Names/SFNames.asp
 ---
 
-# Hericium abietis
+## Hericium abietis
 
 ## Overview
 

@@ -12,7 +12,7 @@ sources:
 type: comparison
 ---
 
-# Cassava vs Taro vs Sweet Potato vs Yam
+## Cassava vs Taro vs Sweet Potato vs Yam
 
 ## Quick Answer
 

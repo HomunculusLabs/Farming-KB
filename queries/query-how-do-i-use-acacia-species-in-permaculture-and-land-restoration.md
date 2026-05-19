@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Use Acacia Species in Permaculture and Land Restoration?
+## How Do I Use Acacia Species in Permaculture and Land Restoration?
 
 ## Short Answer
 
@@ -43,7 +43,7 @@ Young seedlings need protection from frost, grazing animals, and competitive wee
 
 ### Acacias as Pioneer Species for Land Restoration
 
-Acacias function as classic [[pioneer-species-permaculture|pioneer species]] that colonize disturbed or degraded land and prepare it for later-succession plantings.
+Acacias function as classic [[permaculture-designers-manual-pioneer-species|pioneer species]] that colonize disturbed or degraded land and prepare it for later-succession plantings.
 They build soil organic matter through leaf litter, root exudates, and the nitrogen they fix from the atmosphere.
 Their canopy creates microclimates that shelter slower-growing, shade-tolerant species underneath.
 The [[pioneer-species-for-land-reclamation|use of pioneer species for land reclamation]] follows natural ecological succession patterns that rebuild ecosystem function over time.

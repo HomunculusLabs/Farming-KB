@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-# Pattern Understanding in Permaculture Pattern understanding is one of the most distinctive and intellectually ambitious aspects of permaculture design. Bill Mollison devoted an entire chapter of *Permaculture: A Designers' Manual* to the observation that natural systems express themselves through recurring patterns that optimize energy flow, material distribution, and information exchange. By understanding these patterns, designers can apply them to human systems, creating designs that are more efficient, resilient, and productive. Pattern understanding connects directly to [[zone-and-sector-analysis]]
+## Pattern Understanding in Permaculture Pattern understanding is one of the most distinctive and intellectually ambitious aspects of permaculture design. Bill Mollison devoted an entire chapter of *Permaculture: A Designers' Manual* to the observation that natural systems express themselves through recurring patterns that optimize energy flow, material distribution, and information exchange. By understanding these patterns, designers can apply them to human systems, creating designs that are more efficient, resilient, and productive. Pattern understanding connects directly to [[zone-and-sector-analysis]]
 zones radiating from Zone 0. A branching pathway system provides efficient
 access to all parts of a property while minimizing the total length of path
 required. Water distribution systems using branching patterns deliver water

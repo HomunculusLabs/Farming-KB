@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Introduction to Permaculture
+## Introduction to Permaculture
 
 Permaculture, a term coined by [[bill-mollison]] and [[david-holmgren]] in the mid-1970s, represents a comprehensive design system for creating sustainable human settlements. Drawing from the 1981 [[permaculture-design]] Course given by Mollison at The Rural Education Center in Wilton, New Hampshire, this page covers the foundational philosophy, historical context, and the urgent ecological motivations that gave rise to the permaculture movement.
 

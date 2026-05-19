@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cold Area Grazing and Wildfire
+## Cold Area Grazing and Wildfire
 
 Cold climates and fire-prone landscapes share a common theme: the fragility of
 vegetative cover under stress. Whether the stress comes from frost, overgrazing, or

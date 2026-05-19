@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Critique of Soil Cultivation
+## Fukuoka's Critique of Soil Cultivation
 
 ## Overview
 

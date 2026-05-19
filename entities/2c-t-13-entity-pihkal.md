@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2C-T-13
+## 2C-T-13
 
 [[silicon]] or phosphorus, or some-such?
 

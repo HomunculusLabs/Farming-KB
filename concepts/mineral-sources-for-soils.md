@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Mineral Sources for Soils
+## Mineral Sources for Soils
 
 ## Overview
 

@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# [[phosphorylation-methods-psilocybin-production-comparison]] before selecting the pyrophosphate method
+## [[phosphorylation-methods-psilocybin-production-comparison]] before selecting the pyrophosphate method
 using tetrabenzylpyrophosphate as the optimal approach for large-scale
 production. This method produces the O,O-dibenzyl [[indole]] ring
    is not particularly nucleophilic, making direct phosphorylation

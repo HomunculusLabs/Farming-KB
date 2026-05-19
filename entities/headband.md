@@ -20,7 +20,7 @@ sources:
     Ethnobotany." UC Press.
 ---
 
-# Headband
+## Headband
 
 ## Overview
 

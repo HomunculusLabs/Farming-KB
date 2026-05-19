@@ -8,7 +8,7 @@ sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# [[bioremediation-fungal-biomass-biosorbent-material]] can function as effective biosorbents.
+## [[bioremediation-fungal-biomass-biosorbent-material]] can function as effective biosorbents.
 Dead biomass offers several practical advantages: it does not require
 nutrient supply, is not affected by toxic metal concentrations, can be
 stored for extended periods, and can be regenerated and reused through

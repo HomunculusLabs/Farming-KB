@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Proteobacteria Dominance in Cannabis Endorhiza
+## Proteobacteria Dominance in Cannabis Endorhiza
 
 ## Overview
 

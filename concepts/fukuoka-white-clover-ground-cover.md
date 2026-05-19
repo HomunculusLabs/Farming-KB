@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
-# Fukuoka's White Clover Ground Cover
+## Fukuoka's White Clover Ground Cover
 
 ## Overview
 

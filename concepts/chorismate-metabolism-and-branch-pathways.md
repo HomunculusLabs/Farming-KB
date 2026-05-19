@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [biochemistry, metabolism, shikimate, chorismate, aromatic-amino-acids]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md]
+sources: ["raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md"]
 type: concept
 ---
 
-# Chorismate Metabolism and Branch Pathways
+## Chorismate Metabolism and Branch Pathways
 
 Chorismate is a central metabolic intermediate produced at the end
 of the [[tryptophan-biosynthesis-from-chorismate]]

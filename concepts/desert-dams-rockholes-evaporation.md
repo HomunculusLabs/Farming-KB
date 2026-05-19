@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Dams, Rockholes, and Evaporation Control
+## Desert Dams, Rockholes, and Evaporation Control
 
 [[permaculture-design]]. [[dam-construction]], natural water catchment features, evaporation mitigation, and efficient water transport. These strategies collectively transform marginal desert environments into productive systems by capturing, storing, and conserving every available drop.
 

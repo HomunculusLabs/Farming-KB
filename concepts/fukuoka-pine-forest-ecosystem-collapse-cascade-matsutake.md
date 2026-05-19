@@ -5,7 +5,7 @@ tags: [ecosystem-collapse, pine-forest, matsutake, mycorrhizal-cascade, acid-rai
 created: 2026-05-08
 ---
 
-# Pine Forest Ecosystem Collapse: The Cascade from Reforestation to Matsutake Loss
+## Pine Forest Ecosystem Collapse: The Cascade from Reforestation to Matsutake Loss
 
 ## Overview
 

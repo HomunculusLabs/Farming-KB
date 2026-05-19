@@ -5,7 +5,7 @@ type: entity
 tags: [crop, dryland, hawaiian, root-crop, permaculture, windbreak]
 ---
 
-# Sweet Potato in Hawaiian Dryland Cultivation
+## Sweet Potato in Hawaiian Dryland Cultivation
 
 ## Description
 

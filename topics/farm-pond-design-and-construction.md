@@ -33,7 +33,7 @@ related_concepts:
   - pond-maintenance-and-troubleshooting
 ---
 
-# Farm Pond Design and Construction
+## Farm Pond Design and Construction
 
 Water is the single most important element in any productive landscape. Bill Mollison called stored water the "final arbiter of successful settlement," while Sepp Holzer built over seventy ponds at his Krameterhof farm in the Austrian Alps, demonstrating that water retention transforms even marginal land into productive ecosystems. Farm ponds and small dams serve far more functions than simple water storage: they irrigate crops, raise fish, moderate microclimates, protect against fire, create [[hemenway-backyard-wildlife-habitat]], and serve as the centrepiece of integrated farm design.
 

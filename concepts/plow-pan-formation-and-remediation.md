@@ -6,7 +6,7 @@ sources:
   - gardening-when-it-counts-steve-solomon.md
 ---
 
-# Plow Pan Formation and Remediation
+## Plow Pan Formation and Remediation
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: concept
 tags: [neurotropic-fungi, new-guinea, boletus, russula, heimiella, sacred-fungi, controversy, ethnobotany, melanesia]
 ---
 
-# New Guinea Sacred Boletes and Russula Neurotropic Controversy
+## New Guinea Sacred Boletes and Russula Neurotropic Controversy
 
 ## Overview
 

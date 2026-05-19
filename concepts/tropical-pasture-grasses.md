@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Pasture Grasses
+## Tropical Pasture Grasses
 
 Tropical pasture grasses form the foundation of livestock systems in warm climates, providing forage for cattle, sheep, and goats across a wide range of rainfall zones from 40 cm to over 300 cm annually. Effective grassland management requires selecting species matched to local soil, rainfall, and temperature conditions, and integrating them with leguminous companions for nitrogen fixation and sustained productivity.
 

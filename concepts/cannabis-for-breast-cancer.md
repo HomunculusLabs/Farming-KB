@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for Breast Cancer
+## Cannabis for Breast Cancer
 
 By 2004, reported global estimates of breast cancer deaths exceeded 500,000 victims. This type of cancer most commonly originates in the milk ducts from corrupted breast cells, which left unchecked can invade surrounding breast tissue with devastating results. While often benign in origin, a dreaded lump in the breast can develop into cancerous growth.
 

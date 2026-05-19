@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Natural Fruit Tree Disease and Pest Control
+## Natural Fruit Tree Disease and Pest Control
 
 updated: 2026-04-18
 

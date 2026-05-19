@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Industry in African Countries
+## Mushroom Industry in African Countries
 
 The mushroom industry in Sub-Saharan African countries is largely in its infancy
 but growing rapidly. Chapter 10 of the MushWorld Handbook provides in-depth

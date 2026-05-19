@@ -8,7 +8,7 @@ type: concept
 tags: [fungi, soil]
 ---
 
-# Fungi and Their Role in Soil
+## Fungi and Their Role in Soil
 
 ## Overview
 

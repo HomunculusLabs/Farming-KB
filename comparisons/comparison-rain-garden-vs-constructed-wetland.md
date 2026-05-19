@@ -15,7 +15,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Rain Garden vs Constructed Wetland
+## Rain Garden vs Constructed Wetland
 
 ## Overview
 Rain gardens and [[acid-mine-drainage-treatment]], and industrial

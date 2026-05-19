@@ -7,7 +7,7 @@ tags: [natural-farming, fruit-tree, orchard, gardening]
 sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
 ---
 
-# Fukuoka Orchard Method
+## Fukuoka Orchard Method
 
 Fukuoka maintained a productive citrus orchard on his family farm using natural farming principles — no pruning, no fertilizer, no pesticide, and no weeding. His orchard was more productive and disease-resistant than conventional orchards.
 

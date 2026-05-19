@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Zygomycete Sexual Reproduction: Trisporic Acid and Zygospore Formation
+## Zygomycete Sexual Reproduction: Trisporic Acid and Zygospore Formation
 
 ## Overview
 

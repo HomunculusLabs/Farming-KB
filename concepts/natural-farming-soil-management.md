@@ -8,7 +8,7 @@ sources: [masanobu-fukuoka-the-natural-way-of-farming-the-theory.md, chos-global
 type: concept
 ---
 
-# Natural Farming Soil Management
+## Natural Farming Soil Management
 
 Natural farming approaches soil management fundamentally
 differently from conventional agriculture. Rather than

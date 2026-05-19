@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# No Good or Evil in Nature
+## No Good or Evil in Nature
 
 Fukuoka's non-dualistic approach to pest and [[jadam-conventional-and-organic-pesticide-integration]] agriculture. In
 [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]." This perspective connects deeply to

@@ -6,7 +6,7 @@ type: concept
 tags: [darwin, phototropism, phototropin, coleoptile, plant-vision, light-sensing, history-of-science]
 ---
 
-# Darwin's Phototropism Experiments - Discovery of Plant Light Sensing
+## Darwin's Phototropism Experiments - Discovery of Plant Light Sensing
 
 ## Overview
 

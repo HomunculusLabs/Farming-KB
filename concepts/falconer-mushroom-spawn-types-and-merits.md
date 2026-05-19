@@ -5,10 +5,10 @@ tags:
   [mushroom-cultivation, mushroom-spawn, mycelium, victorian-gardening, agaricus]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [ /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md, ]
+sources: ["raw/papers/william-falconer-mushroom-how-to-grow-them.md, "]
 type: concept
 ---
-# Mushroom Spawn Types and Their Merits What practical mushroom growers call spawn, botanists term [[french-flake-spawn-vs-brick-spawn]] and those from the
+## Mushroom Spawn Types and Their Merits What practical mushroom growers call spawn, botanists term [[french-flake-spawn-vs-brick-spawn]] and those from the
 English brick spawn, but this is regarded as the result of
 cultural conditions rather than of true varietal
 differences.

@@ -5,7 +5,7 @@ type: entity
 tags: [compost-tea-ingredient, microbial-food, fungal-food, soil-amendment]
 ---
 
-# Blackstrap Molasses
+## Blackstrap Molasses
 
 ## Description
 

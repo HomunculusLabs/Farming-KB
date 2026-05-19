@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Conidia and Spore Types
+## Fungal Conidia and Spore Types
 
 Fungal spores are the primary units of dispersal, survival, and reproduction
 for most fungal species. Conidia, the asexual spores produced by mitosporic

@@ -7,7 +7,7 @@ tags: [neoshamanism, ceremony, ritual-structure, circle, council, metzner, integ
 sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
 ---
 
-# Hybrid Circle Ritual Structure and Council Practice
+## Hybrid Circle Ritual Structure and Council Practice
 
 In his 1998 review, [[ralph-metzner]] provided a detailed description of
 the "[[ayahuasca-tourism-western-seekers-and-integration]].

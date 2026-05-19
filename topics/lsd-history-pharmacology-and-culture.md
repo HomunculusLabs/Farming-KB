@@ -25,7 +25,7 @@ related_concepts:
   - turner-lsd
 ---
 
-# LSD: History, Pharmacology, and Cultural Impact
+## LSD: History, Pharmacology, and Cultural Impact
 
 [[coleman-louis-savier-twentieth-century-maraicher]]. First synthesized in 1938 by Swiss chemist Albert
 Hofmann at Sandoz Pharmaceuticals, LSD was initially shelved as

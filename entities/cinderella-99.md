@@ -19,7 +19,7 @@ sources:
   - Brothers Grimm breeding records and strain descriptions
 ---
 
-# Cinderella 99
+## Cinderella 99
 
 **Cinderella 99**, commonly known as **C99** or **Cindy**, is a sativa-dominant cannabis hybrid bred by Brothers Grimm (Mr. Soul and Sly) in the late 1990s. Derived from a selected phenotype of **[[jack-herer]]** crossed with an unknown male, Cinderella 99 was stabilized through several generations of inbreeding to produce a remarkably consistent, fast-flowering sativa-dominant hybrid. The strain has achieved legendary status among cannabis breeders and growers for its combination of cerebral effects, tropical flavor, and ease of cultivation.
 

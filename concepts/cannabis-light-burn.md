@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Light Burn
+## Cannabis Light Burn
 
 Light burn occurs when cannabis plants receive excessive light intensity, typically from being placed too close to high-intensity discharge (HID) lamps or other powerful grow lights. The symptoms can resemble other problems such as nutrient burn or heat stress, making proper diagnosis important for effective treatment. Burned foliage from light burn is also susceptible to [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] can climb to an excess of 110°F (43°C) because leaves store heat radiated by the lamp. At this temperature, the internal chemistry of a marijuana leaf is disrupted:
 

@@ -4,7 +4,7 @@ source: What a Plant Knows (daniel-chamovitz, 2012)
 concepts: [mechanosensation, thigmomorphogenesis, thigmotropism, venus-flytrap, mimosa-pudica]
 ---
 
-# Plant Mechanosensation
+## Plant Mechanosensation
 
 Plants lack nervous systems, yet they detect and respond to mechanical stimuli with
 remarkable sophistication. In *What a Plant Knows* (2012), Daniel Chamovitz argues

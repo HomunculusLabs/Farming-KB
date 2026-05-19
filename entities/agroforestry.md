@@ -21,7 +21,7 @@ sources:
   - Garrett HE, Buck LE. "Agroforestry Practices." University of Missouri Center for Agroforestry, 2022.
 ---
 
-# Agroforestry
+## Agroforestry
 
 **Agroforestry** is an integrated land-use management system in which **trees and shrubs are deliberately combined with agricultural crops and/or livestock** on the same parcel of land. Unlike conventional monoculture farming, agroforestry creates structurally complex, multi-strata systems that mimic natural ecosystems while simultaneously producing food, fiber, fuel, and timber. The practice is recognized as one of the most effective strategies for climate change mitigation, [[leucaena-leucocephala]]*, *Gliricidia sepium*, *[[chamaecytisus-palmensis]]*)
 - **Crops:** Maize, wheat, beans, vegetables, forages

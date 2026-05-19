@@ -5,7 +5,7 @@ tags: [plant-biology, photobiology, plant-senses]
 created: 2026-05-09
 ---
 
-# Photoperiodism — How Plants Measure Day and Night Length
+## Photoperiodism — How Plants Measure Day and Night Length
 
 Plants do not simply react to light as it arrives. They measure the
 duration of light and darkness to make critical decisions about when to

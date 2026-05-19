@@ -6,7 +6,7 @@ tags: [cannabis, microbiome, soil-texture, sandy-loam, sand-silt-clay, physical-
 aliases: [Sandy Loam Cannabis Microbiome, Soil Physical Composition Cannabis Root Bacteria]
 ---
 
-# Sandy Loam Texture and Physical Soil Properties in Cannabis Microbiome Assembly
+## Sandy Loam Texture and Physical Soil Properties in Cannabis Microbiome Assembly
 
 The Winston et al. (2014) study examined Cannabis microbiome assembly across multiple
 soil types that, despite chemical differences, shared a remarkably consistent sandy loam

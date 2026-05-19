@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Rhizosphere Ecology vs Mycorrhizal Fungi
+## Rhizosphere Ecology vs Mycorrhizal Fungi
 
 ## At a Glance
 

@@ -6,7 +6,7 @@ type: concept
 tags: [inocybe, neurotropic-fungi, cortinariaceae, europe, psilocybin, taxonomy, bluing-inocybe]
 ---
 
-# Inocybe aeruginascens
+## Inocybe aeruginascens
 
 ## Overview
 

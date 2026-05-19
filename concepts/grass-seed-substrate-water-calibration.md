@@ -7,7 +7,7 @@ sources:
   - guid-mhtml_file___e___textos__mycology__exotic_.md
 ---
 
-# Grass Seed Substrate Water Content Calibration
+## Grass Seed Substrate Water Content Calibration
 
 Water content is the single most critical variable in preparing grass seed
 substrate for the [[mycelial-colonization]] or fail due to excessive dryness

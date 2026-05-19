@@ -7,7 +7,7 @@ tags: [fungal-ecology, ecosystem, mycology, biology]
 sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
 
-# Fungi in Ecosystem Processes (Dighton) — Overview
+## Fungi in Ecosystem Processes (Dighton) — Overview
 
 Updated: 2026-04-18
 

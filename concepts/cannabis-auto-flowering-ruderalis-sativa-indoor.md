@@ -15,7 +15,7 @@ sources:
   - s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 
-# Auto-Flowering Cannabis for Sativa Cultivation
+## Auto-Flowering Cannabis for Sativa Cultivation
 
 ## Overview
 

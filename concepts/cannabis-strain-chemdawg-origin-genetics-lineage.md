@@ -5,7 +5,7 @@ tags: [cannabis, strain, chemdawg, genetics, lineage, sour-diesel, OG-kush]
 created: 2026-05-11
 ---
 
-# Chemdawg: Origin Story and Genetics Lineage
+## Chemdawg: Origin Story and Genetics Lineage
 
 Chemdawg is one of the most influential [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] [[cannabis-genetics-and-breeding]],
 Chemdawg's exact origins are shrouded in mystery and conflicting accounts.

@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources: []
 ---
 
-# MDAI — 5,6-Methylenedioxy-2-aminoindane
+## MDAI — 5,6-Methylenedioxy-2-aminoindane
 
 MDAI is a synthetic phenethylamine analogue developed as a non-neurotoxic entactogen substitute for MDMA. It is not a [[tihkal-oral-activity-mao-inhibition]]: none
 

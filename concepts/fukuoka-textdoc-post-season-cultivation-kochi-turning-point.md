@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Post-Season Rice Cultivation Failure and the Turn Toward [[cannabis-vegetative-growth-stage]] at the expense of [[fukuoka-textdoc-kochi-yellow-rice-borer-eradication]], was one method taken by nature
+## Post-Season Rice Cultivation Failure and the Turn Toward [[cannabis-vegetative-growth-stage]] at the expense of [[fukuoka-textdoc-kochi-yellow-rice-borer-eradication]], was one method taken by nature
 for suppressing excessive growth. Fukuoka recognized this natural regulation, but
 conventional [[query-what-is-biofumigation-and-how-does-it-work]] at the time.
 

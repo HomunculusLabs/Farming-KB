@@ -1,5 +1,5 @@
 ---
-title: turner-ecstasy-mdma-heart-opening-psychedelic Heart Opening Psychedelic
+title: "Ecstasy Mdma Heart Opening Psychedelic"
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
-# Ecstasy - The Heart Opening Psychedelic
+## Ecstasy - The Heart Opening Psychedelic
 
 D.M. Turner rates ecstasy (MDMA) at intensity 2 to 4, making it the mildest psychedelic in the guide. It is described as a "selective psychedelic" or empathogen.
 

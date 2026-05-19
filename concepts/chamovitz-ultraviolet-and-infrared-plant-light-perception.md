@@ -6,7 +6,7 @@ tags: [botany, plant-senses, photoreception, uv-light, infrared, chamovitz]
 created: 2026-05-09
 ---
 
-# Plant Ultraviolet and Infrared Light Perception
+## Plant Ultraviolet and Infrared Light Perception
 
 ## Overview
 

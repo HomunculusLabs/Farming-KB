@@ -8,7 +8,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
-# The Permaculture Landscape
+## The Permaculture Landscape
 
 From "[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], but Holzer gives it a distinctly practical emphasis.
 

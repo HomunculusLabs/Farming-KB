@@ -22,7 +22,7 @@ sources:
 type: comparison
 ---
 
-# Agroecology vs Permaculture
+## Agroecology vs Permaculture
 
 ## [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], had been practicing biodiverse farming for centuries. Organizations like Brazil's MST (Movimento dos Trabalhadores Rurais Sem Terra) and Mexico's UNORCA adopted agroecology as the scientific framework validating their traditional practices and providing ammunition against industrial agriculture's political dominance. This dual identity—as both a scientific discipline and a grassroots social movement—was formalized in Wezel et al.'s (2009) influential tripartite framework identifying agroecology as "science, movement, and practice."
 

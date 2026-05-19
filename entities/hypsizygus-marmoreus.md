@@ -8,7 +8,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 type: entity
 ---
 
-# Hypsizygus marmoreus
+## Hypsizygus marmoreus
 
 **Type:** Species
 **Category:** Basidiomycete ([[neurotropic-fungi-taxonomic-confusion-and-identification]]. The species has attracted significant research

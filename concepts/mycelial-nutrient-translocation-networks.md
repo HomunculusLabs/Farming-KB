@@ -20,7 +20,7 @@ synopsis: >-
   strategies.
 ---
 
-# Mycelial Nutrient Translocation Networks
+## Mycelial Nutrient Translocation Networks
 
 ## Overview
 

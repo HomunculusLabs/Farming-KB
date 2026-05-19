@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Mondragon Cooperatives
+## Mondragon Cooperatives
 
 ## Description
 

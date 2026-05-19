@@ -7,7 +7,7 @@ sources: [understanding-cultivar-specificity-cannabis-microbiome]
 created: 2026-04-28
 ---
 
-# Cannabis Microbiome Soil Type Composition Strain and Structure
+## Cannabis Microbiome Soil Type Composition Strain and Structure
 
 The cannabis [[king-stropharia-ecological-interactions-permaculture]] between microorganisms are mediated by the soil environment.
 

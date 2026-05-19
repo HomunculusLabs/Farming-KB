@@ -5,7 +5,7 @@ tags: [cannabis, THCA, raw-cannabis, decarboxylation, non-psychoactive, anti-inf
 created: 2026-05-08
 ---
 
-# Raw Cannabis and THC-Acid Therapeutic Properties
+## Raw Cannabis and THC-Acid Therapeutic Properties
 
 ## Overview
 

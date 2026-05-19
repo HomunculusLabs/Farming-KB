@@ -1,5 +1,5 @@
 ---
-title: mind-body-problem-vs-information-paradigm-of-consciousness of Consciousness
+title: "Information Paradigm Of Consciousness"
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -7,7 +7,7 @@ tags: [reference]
 sources: [papers/the-psilocybin-solution-by-simon-g-powell.md]
 ---
 
-# Information Paradigm of Consciousness
+## Information Paradigm of Consciousness
 
 The information paradigm of consciousness proposes that mind is not a separate substance from matter but is rather a particular form of information embodied within the neuronal substrate of the brain.
 

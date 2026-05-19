@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Rice Blast Disease and Magnaporthe Appressorium Mechanics
+## Rice Blast Disease and Magnaporthe Appressorium Mechanics
 
 [[fungal-appressorium-and-infection-structures]] in all of biology: the
 appressorium. This melanized, pressurized dome generates sufficient mechanical force to

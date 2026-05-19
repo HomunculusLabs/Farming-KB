@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Canker Fungi and Plant Galls
+## Canker Fungi and Plant Galls
 
 Canker fungi and gall-inducing organisms represent a major class of plant pathogenic fungi
 that cause localized, often conspicuous deformations and necroses on their hosts. Cankers

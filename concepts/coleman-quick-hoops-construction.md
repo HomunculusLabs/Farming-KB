@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Quick Hoops Construction
+## Quick Hoops Construction
 
 Quick hoops are a low-cost, versatile season-extension structure
 developed at the [[coleman-row-cover-fabric-management]] placed in

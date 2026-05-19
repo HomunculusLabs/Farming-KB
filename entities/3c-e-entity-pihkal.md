@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 3C-E
+## 3C-E
 
 [[mescaline]] launched the entire show, the first half
 could be called the amphetamine period, with variations made on all

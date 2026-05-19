@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Biodiversity, Function, and Drought Stress Response
+## Mycorrhizal Biodiversity, Function, and Drought Stress Response
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Core Design Principles (Mollison)
+## Permaculture Core Design Principles (Mollison)
 
 Bill Mollison distilled several foundational design principles from the observation of natural systems and decades of design practice. These principles serve as the cognitive tools that designers apply to create productive, sustainable, and resilient systems.
 

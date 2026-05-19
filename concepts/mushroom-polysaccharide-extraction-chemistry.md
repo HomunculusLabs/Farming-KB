@@ -7,7 +7,7 @@ tags: [mycology, mushrooms, cultivation]
 sources: [] ---
 
 ---
-# Mushroom Polysaccharide Chemistry and Anti-Cancer Compounds
+## Mushroom Polysaccharide Chemistry and Anti-Cancer Compounds
 
 The main anti-tumour compounds isolated from [[arbuscular-mycorrhizal-spore-extraction-methods]]. Research in this field has produced several
 clinically approved pharmaceuticals, primarily in Japan and China.

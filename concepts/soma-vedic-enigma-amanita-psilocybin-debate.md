@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Soma: The Vedic Enigma — Amanita vs Psilocybin Debate
+## Soma: The Vedic Enigma — Amanita vs Psilocybin Debate
 
 ## Overview
 

@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Gymnopilus viridans
+## Gymnopilus viridans
 
 **Gymnopilus viridans** is a large, orange-capped mushroom in the family Cortinariaceae (or Hymenogastraceae under recent taxonomy) that contains [[dmt-containing-plants-united-states-halpern]].
 

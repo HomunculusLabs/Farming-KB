@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Word Collaboration Features
+## Word Collaboration Features
 
 [[microsoft-word]] has evolved from a standalone desktop application into a
 collaborative platform, reflecting the broader shift in knowledge work toward

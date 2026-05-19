@@ -4,7 +4,7 @@ source: mushrooms---poisionous-fungi-by-john-ramsbottom-1945.md
 type: concept
 ---
 
-# Deadly and Delusive Amanita Species
+## Deadly and Delusive Amanita Species
 
 ## Amanita Verna — Fool's Mushroom
 

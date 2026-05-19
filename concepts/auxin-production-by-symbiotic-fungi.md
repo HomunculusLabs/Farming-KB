@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Auxin Production by Symbiotic Fungi
+## Auxin Production by Symbiotic Fungi
 
 ## Overview
 

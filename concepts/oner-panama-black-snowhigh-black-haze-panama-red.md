@@ -6,7 +6,7 @@ topics: [cannabis, sativa, panama-black, snowhigh-seeds,
   colombian-black, 12-week-flowering, organic-soil]
 ---
 
-# Panama Black — Black Haze × [[polm-gold-moroccan-chefchaouen-sativa-hybrid]] brid bred by America's
+## Panama Black — Black Haze × [[polm-gold-moroccan-chefchaouen-sativa-hybrid]] brid bred by America's
 SnowHigh Seeds, created by crossing BCO Black H [[purple-haze-cannabis]] Haze and Colombian Black genetics)
 with a Panama Red phenotype. The strain expresses multiple
 phenotypes spanning its full genetic spectrum, from tall lanky

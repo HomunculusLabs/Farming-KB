@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Wastewater Treatment Wetlands
+## Wastewater Treatment Wetlands
 
 Wastewater is not waste. In [[hamilton-composting-and-organic-matter-management]].
 - **Blackwater**: Wastewater from toilets (and sometimes kitchen sinks)

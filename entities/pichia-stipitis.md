@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Pichia stipitis
+## Pichia stipitis
 
 **Pichia stipitis** is an ascomycete yeast (order Saccharomycetales) notable for its rare ability to ferment and assimilate xylose, a five-carbon sugar that forms the backbone of hemicellulose in plant [[saccharomyces-cerevisiae]]) cannot ferment pentose sugars.
 

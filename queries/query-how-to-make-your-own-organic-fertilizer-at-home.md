@@ -8,7 +8,7 @@ sources: [raw/papers/forest-gardening-robert-hart.md]
 type: query
 ---
 
-# How Do I Make My Own Organic Fertilizer at Home?
+## How Do I Make My Own Organic Fertilizer at Home?
 
 ## Short Answer
 You can make effective [[compost-building-guide]] provides a

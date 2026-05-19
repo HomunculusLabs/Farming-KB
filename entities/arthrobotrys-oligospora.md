@@ -5,10 +5,10 @@ type: species
 tags: [nematophagous, ascomycete, biological-control, trap-formation, predatory-fungus]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Arthrobotrys oligospora
+## Arthrobotrys oligospora
 
 Arthrobotrys oligospora is a nematophagous (nematode-trapping)
 ascomycete fungus and one of the most extensively studied predatory

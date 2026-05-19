@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Microclimate and Frost Protection for Outdoor Cannabis
+## Microclimate and Frost Protection for Outdoor Cannabis
 
 Microclimates are mini climates that exist within
 larger climates. Understanding and exploiting

@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Directed Inoculum Production Process for AMF
+## Directed Inoculum Production Process for AMF
 
 The directed inoculum production process (DIPP) is a methodology for adapting [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination.
 

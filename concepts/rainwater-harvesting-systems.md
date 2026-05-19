@@ -7,7 +7,7 @@ tags: [homesteading, off-grid, water, water-management, engineering, sustainabil
 sources: []
 ---
 
-# Rainwater Harvesting Systems
+## Rainwater Harvesting Systems
 
 Rainwater harvesting captures and stores precipitation for domestic,
 agricultural, and landscape use. On a homestead, it reduces dependence on

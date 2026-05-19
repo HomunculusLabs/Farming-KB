@@ -1,4 +1,8 @@
-# Basidiomycete Mating Systems: Tetrapolar Incompatibility, Dikaryon Formation, and the Genetics of Fungal Sex
+---
+title: "Basidiomycete Mating Systems: Tetrapolar Incompatibility, Dikaryon Formation, and the Genetics of Fungal Sex"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ Successful integration of bloomfield basidiomycete mating systems tetrapolar inc
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource

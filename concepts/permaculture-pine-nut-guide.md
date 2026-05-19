@@ -7,7 +7,7 @@ tags: nut-tree, permaculture, tree-crop, foraging
 type: concept
 ---
 
-# Pine Nut Tree Guide
+## Pine Nut Tree Guide
 
 ## Overview
 

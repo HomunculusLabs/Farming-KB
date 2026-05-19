@@ -8,7 +8,7 @@ sources: [the-psilocybin-solution-by-simon-g-powell.md]
 type: concept
 ---
 
-# Ceremonial and Shamanic Use of Psychoactive Mushrooms
+## Ceremonial and Shamanic Use of Psychoactive Mushrooms
 
 ## Overview
 

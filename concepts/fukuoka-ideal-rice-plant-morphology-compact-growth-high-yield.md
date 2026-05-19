@@ -12,7 +12,7 @@ tags: [fukuoka, rice, plant-morphology, high-yield, dry-field-rice, natural-farm
 aliases: [ideal rice plant, compact rice theory, fukuoka rice morphology, dry field rice]
 ---
 
-# Ideal Rice Plant Morphology
+## Ideal Rice Plant Morphology
 
 ## Overview
 

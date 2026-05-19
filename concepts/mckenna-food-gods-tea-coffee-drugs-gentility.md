@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Tea, Coffee, and the Drugs of Gentility
+## Tea, Coffee, and the Drugs of Gentility
 
 ## The Caffeine Alkaloid
 

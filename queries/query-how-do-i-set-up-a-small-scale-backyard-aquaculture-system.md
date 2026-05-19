@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Set Up a Small-Scale Backyard Aquaculture System?
+## How Do I Set Up a Small-Scale Backyard Aquaculture System?
 
 ## Short Answer
 

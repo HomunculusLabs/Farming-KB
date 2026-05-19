@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How Do I Use Biochar in My Garden?
+## How Do I Use Biochar in My Garden?
 
 ## Short Answer
 Biochar is a porous, carbon-rich material produced by pyrolyzing

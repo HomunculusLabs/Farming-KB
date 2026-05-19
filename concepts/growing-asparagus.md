@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Asparagus
+## Growing Asparagus
 
 Starting an asparagus bed is an investment taking several years to pay off, and it demands good management if the bed is not to be ruined. Most people believe asparagus establishment requires considerable expense and that they must wait two years after planting. The method described here gives a much more productive result at a far lower cost and in far less time.
 

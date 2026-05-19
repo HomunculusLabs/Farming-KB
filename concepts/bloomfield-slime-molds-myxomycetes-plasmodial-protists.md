@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# kingdom-fungi-overview. They belong to several distinct
+## kingdom-fungi-overview. They belong to several distinct
 groups, the most prominent being the Myxomycetes (plasmodial slime
 molds), Dictyosteliida (cellular slime molds), and Protosteliida. Their
 resemblance to fungi is a striking example of convergent evolution,

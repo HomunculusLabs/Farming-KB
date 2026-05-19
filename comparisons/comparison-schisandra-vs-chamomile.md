@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# Schisandra vs Chamomile
+## Schisandra vs Chamomile
 
 ## Overview
 

@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Chamomile vs Nettle
+## Chamomile vs Nettle
 
 ## Overview
 

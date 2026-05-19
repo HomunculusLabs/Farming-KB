@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [psilocybin, mushrooms]
 ---
 
-# Psilocybin Shelf Life and Stability
+## Psilocybin Shelf Life and Stability
 
 [[query-can-fungi-break-down-plastic-pollution]] relatively quickly if stored at room temperature (20 C). For this reason:
 

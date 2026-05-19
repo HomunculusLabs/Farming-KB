@@ -11,7 +11,7 @@ tags:
 source: "dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis, P. tampanensis"
 ---
 
-# Sclerotia Timeline and Harvest Optimization
+## Sclerotia Timeline and Harvest Optimization
 
 ## Overview
 

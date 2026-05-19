@@ -6,7 +6,7 @@ sources:
   - "raw/papers/unknown-mycelium-running.md"
 ---
 
-# Seasonal Mushroom Fruiting Calendar and Companion Cultivation Design
+## Seasonal Mushroom Fruiting Calendar and Companion Cultivation Design
 
 A thoughtfully planned mushroom landscape can yield harvests
 from early spring through late winter. [[paul-stamets]] advocates

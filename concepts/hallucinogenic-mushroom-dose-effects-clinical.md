@@ -5,7 +5,7 @@ author: Hillebrand, Olszewski, Sedefov (EMCDDA)
 tags: [psilocybin, dose, effects, onset, duration, clinical, emcdda]
 ---
 
-# Hallucinogenic Mushroom Dose and Clinical Effects
+## Hallucinogenic Mushroom Dose and Clinical Effects
 
 This page summarizes the clinical pharmacology of psilocybin-
 [[psilocybe-semilanceata]]* | ~1% (highest commonly available) |

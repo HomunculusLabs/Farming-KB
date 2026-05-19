@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Chupacabra
+## Chupacabra
 
 Chupacabra is a sativa-dominant hybrid [[cannabis-strain-guide-reference]]
 

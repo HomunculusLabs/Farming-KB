@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Classification of Edible and Poisonous Mushroom Families
+## Classification of Edible and Poisonous Mushroom Families
 
 ## Overview
 

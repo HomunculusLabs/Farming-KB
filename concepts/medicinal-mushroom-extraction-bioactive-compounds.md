@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, extraction, medicinal, beta-glucans, triterpenes]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Medicinal Mushroom Extraction and Bioactive Compounds
+## Medicinal Mushroom Extraction and Bioactive Compounds
 
 [[medicinal-mushroom-compounds-and-health-benefits]]. These
 polysaccharides, composed of glucose linked by beta-glycosidic bonds, are

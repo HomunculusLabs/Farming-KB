@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Grow King Stropharia (Garden Giant) Mushrooms
+## How to Grow King Stropharia (Garden Giant) Mushrooms
 
 ## Short Answer
 King Stropharia (Stropharia rugosoannulata), also known as the Wine Cap or Garden Giant, is one of the easiest [[kings-stropharia-garden-giant]] page notes that this species is particularly valued in permaculture systems because it serves as both a food crop and an ecological tool. It is cold-hardy across most temperate zones and grows well from USDA Zone 3 through Zone 9 with appropriate site selection and seasonal management.

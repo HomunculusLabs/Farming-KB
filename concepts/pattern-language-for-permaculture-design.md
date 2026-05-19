@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Pattern Language for Permaculture Design
+## Pattern Language for Permaculture Design
 
 The development of a pattern language for [[permaculture-design]] represents one of the field's most important intellectual challenges. Inspired by [[christopher-alexander]]'s Pattern Language for the built environment, several Permaculture designers have recognised the need for a similar systematic organisation of the patterns that recur in sustainable human and natural systems.
 

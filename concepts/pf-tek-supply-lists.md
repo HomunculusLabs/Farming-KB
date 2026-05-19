@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
 
-# PF TEK Supply Lists and Equipment
+## PF TEK Supply Lists and Equipment
 
 ## Overview
 

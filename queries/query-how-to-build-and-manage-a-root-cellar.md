@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Build and Manage a Root Cellar
+## How to Build and Manage a Root Cellar
 
 ## Short Answer
 

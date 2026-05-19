@@ -10,7 +10,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Wick System for Cannabis
+## Wick System for Cannabis
 
 Wick systems are passive hydroponic systems that rely on capillary action to transfer [[cervantes-growing-mediums-comparison]] are ideal for [[deep-water-culture]] or [[perlite-cannabis]] alone, as they do not wick effectively. However, a blend of absorbent medium with a small amount of perlite can improve aeration while maintaining wicking ability.
 

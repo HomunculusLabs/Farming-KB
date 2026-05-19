@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# Reactive House Design and Building Integration
+## Reactive House Design and Building Integration
 
 The "reactive house" is Mollison's concept for buildings that respond to and work with their environment rather than fighting against it. In [[permaculture]], buildings sit at the core of the zonation system and must be constructed to supply their own heat, manage water, integrate with gardens, and reduce energy consumption.
 

@@ -1,5 +1,10 @@
+---
+title: "Blesching Cannabis Eczema Dermatitis"
+tags:
+  - concept
+---
 
-# Cannabis and Dermatitis (Eczema)
+## Cannabis and Dermatitis (Eczema)
 
 Dermatitis is an inflammation of the skin believed to be caused in part by
 coming in contact with irritants. It may also be due to effects from certain

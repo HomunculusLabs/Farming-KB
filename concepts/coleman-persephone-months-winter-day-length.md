@@ -5,7 +5,7 @@ tags: [persephone-months, day-length, winter-harvest, photoperiod, coleman]
 created: 2026-05-11
 ---
 
-# The Persephone Months: Winter Day Length and Plant Growth
+## The Persephone Months: Winter Day Length and Plant Growth
 
 Eliot Coleman borrowed the concept of the "Persephone months" from Greek mythology to describe the period each year when day length drops below 10 hours and plant growth essentially ceases.
 In the myth,  Persephone descends to the underworld for winter,

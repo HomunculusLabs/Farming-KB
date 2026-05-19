@@ -5,7 +5,7 @@ tags: [epidemiology, emcdda, europe, hallucinogenic-mushrooms, prevalence, polyd
 created: 2026-05-08
 ---
 
-# Hallucinogenic Mushroom Use Patterns in Europe: Prevalence, Polydrug Clustering, and Barriers to Diffusion
+## Hallucinogenic Mushroom Use Patterns in Europe: Prevalence, Polydrug Clustering, and Barriers to Diffusion
 
 ## Overview
 

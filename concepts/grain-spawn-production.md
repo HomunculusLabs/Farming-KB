@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Grain Spawn Production
+## Grain Spawn Production
 
 [[grain-spawn]] is the living bridge between sterile laboratory agar cultures and the bulk substrates used for mushroom fruiting. It consists of cereal grains colonized by mushroom mycelium, providing a nutrient-rich, easily distributable inoculum for large-scale cultivation.
 

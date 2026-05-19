@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cannabis, Deep Relaxation, and the Healing Response
+## Cannabis, Deep Relaxation, and the Healing Response
 
 The first section of Chapter V in The [[blesching-cannabis-cortisol-stress-endocannabinoid-system]]
 - Decreased heart rate and resting blood pressure

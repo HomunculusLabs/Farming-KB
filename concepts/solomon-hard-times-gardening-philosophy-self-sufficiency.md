@@ -6,7 +6,7 @@ published: 2005
 tags: [gardening, self-sufficiency, hard-times, land-requirements, food-security, peak-oil, intensive-vs-wide-spacing, allotment]
 ---
 
-# Hard Times Gardening Philosophy and Self-Sufficiency
+## Hard Times Gardening Philosophy and Self-Sufficiency
 
 ## Overview
 

@@ -16,7 +16,7 @@ sources:
   - Kirk, P.M. et al. (2008). "Dictionary of the Fungi." 10th ed. CABI Publishing.
 ---
 
-# Daedaleopsis confragosa
+## Daedaleopsis confragosa
 
 ## Overview
 

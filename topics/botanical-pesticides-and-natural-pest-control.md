@@ -58,7 +58,7 @@ related_concepts:
   - coleman-beneficial-insects-and-ecological-pest-control
   - jadam-herbal-pest-control
 ---
-# Botanical Pesticides and Natural Pest Control
+## Botanical Pesticides and Natural Pest Control
 
 Botanical pesticides are pest management materials derived from plants,
 including oils, extracts, powders, fermented preparations, and volatile

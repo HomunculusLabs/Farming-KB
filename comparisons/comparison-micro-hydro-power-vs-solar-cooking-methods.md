@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Micro Hydro Power vs Solar Cooking Methods
+## Micro Hydro Power vs Solar Cooking Methods
 
 ## Overview
 

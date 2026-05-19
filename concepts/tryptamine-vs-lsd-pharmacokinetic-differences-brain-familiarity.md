@@ -1,4 +1,8 @@
-# Tryptamine vs LSD Pharmacokinetic Differences and Brain Familiarity
+---
+title: "Tryptamine vs LSD Pharmacokinetic Differences and Brain Familiarity"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,6 +148,3 @@ current understanding and implementation strategies.
 ## Integration Strategies
 
 Successful integration of tryptamine vs lsd pharmacokinetic differences brain familiarity into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.

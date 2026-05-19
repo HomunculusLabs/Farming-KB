@@ -8,7 +8,7 @@ sources: ["~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"]
 type: concept
 ---
 
-# Composting in the Organic Garden
+## Composting in the Organic Garden
 
 Every garden must have a compost heap. Composting is the ideal
 way to return as much [[soil-moisture-management-and-root-growth]]. It also

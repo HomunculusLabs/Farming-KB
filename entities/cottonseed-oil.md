@@ -5,7 +5,7 @@ type: entity
 tags: [chemical, heating-medium, laboratory, cannabis-processing]
 ---
 
-# Cottonseed Oil
+## Cottonseed Oil
 
 ## Description
 

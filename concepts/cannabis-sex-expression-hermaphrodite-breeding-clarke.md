@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.m
 type: concept
 ---
 
-# Cannabis Sex Expression and Hermaphrodite Breeding
+## Cannabis Sex Expression and Hermaphrodite Breeding
 
 Attempts to breed offspring of only one sexual type have led to more
 misunderstanding than any other facet of [[cannabis-breeding-selection-principles-clarke]]

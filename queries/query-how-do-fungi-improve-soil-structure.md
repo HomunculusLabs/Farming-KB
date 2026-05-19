@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do Fungi Improve Soil Structure?
+## How Do Fungi Improve Soil Structure?
 
 ## Short Answer
 Fungi improve soil structure primarily through hyphal networks

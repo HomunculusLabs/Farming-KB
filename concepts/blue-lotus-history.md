@@ -8,7 +8,7 @@ type: concept
 tags: [history]
 ---
 
-# Blue Lotus History in Plants of the Gods
+## Blue Lotus History in Plants of the Gods
 
 Schultes and Hofmann document the water lily genus Nymphaea as a plant with
 evidence for hallucinogenic use in both the Old and New Worlds, noting

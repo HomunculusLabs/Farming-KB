@@ -1,4 +1,8 @@
-# Saprophytic Mushrooms and Ecological Decomposer Succession
+---
+title: "Saprophytic Mushrooms and Ecological Decomposer Succession"
+tags:
+  - concept
+---
 
 ## Overview
 

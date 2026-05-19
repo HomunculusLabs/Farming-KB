@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Nitrogen in Plant Nutrition — The Most Limiting Macronutrient
+## Nitrogen in Plant Nutrition — The Most Limiting Macronutrient
 
 Nitrogen (N) is the nutrient most commonly limiting plant growth worldwide. It is a primary component of amino acids, proteins, chlorophyll, nucleic acids, and many other essential compounds. Understanding [[fertilizer-pollution-environmental-impact]])
 

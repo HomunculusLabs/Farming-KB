@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dryland Settlement Vegetation and Fuel Forests
+## Dryland Settlement Vegetation and Fuel Forests
 
 Rigorous vegetative design of settlement calls for adapted perennials for both food and shade, hardy and preferably local species in shrubberies, large areas of overhead vine trellis, and only a strictly regulated amount of lawn.
 

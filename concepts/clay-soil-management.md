@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Clay Soil Management
+## Clay Soil Management
 
 Clay soils present some of the greatest challenges for vegetable gardeners. They are heavy, poorly aerated, difficult to work, and prone to forming hard clods or airless goo depending on moisture. [[steve-solomon]] provides a frank assessment: no experienced gardener would willingly choose clay for vegetables if a lighter soil were available. However, several strategies can make clay productive.
 

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Rice Paddy Integrated Duck Fish System
+## Rice Paddy Integrated Duck Fish System
 
 The integration of rice, ducks, and fish in a single paddy system is one of
 the most refined examples of permaculture-designers-manual-bamboo as a model of how multiple yields can be obtained from a

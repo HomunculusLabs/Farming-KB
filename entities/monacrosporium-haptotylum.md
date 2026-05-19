@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Monacrosporium haptotylum
+## Monacrosporium haptotylum
 
 **Monacrosporium haptotylum** (synonym: *Dactylaria candida*) is a nematophagous ascomycete fungus that captures and kills nematodes using adhesive knob traps.
 

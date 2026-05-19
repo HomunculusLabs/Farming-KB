@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Straw Pasteurization Methods for Mushroom Cultivation
+## Straw Pasteurization Methods for Mushroom Cultivation
 
 Straw is one of the most accessible and versatile substrates for
 mushroom cultivation. It is relatively inexpensive, readily

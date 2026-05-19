@@ -16,7 +16,7 @@ sources:
   - " USDA, NRCS. (2024). The PLANTS Database. National Plant Data Team, Greensboro, NC."
 ---
 
-# Polygonatum odoratum
+## Polygonatum odoratum
 
 **Polygonatum odoratum** (fragrant Solomon's seal, scented Solomon's seal) is a rhizomatous perennial herb in the family Asparagaceae. It is native to [[hamilton-shade-garden-plants]] plant with a long history of cultivation.
 

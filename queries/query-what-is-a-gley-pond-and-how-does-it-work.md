@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is a Gley Pond and How Does It Work
+## What Is a Gley Pond and How Does It Work
 
 ## Short Answer
 A gley pond is a sealed water retention pond created using a biological gley layer made from organic materials that

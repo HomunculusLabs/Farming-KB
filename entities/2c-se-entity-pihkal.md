@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2C-SE
+## 2C-SE
 
 [[cho-fish-amino-acid-preparation]] chemistry, and things got pretty toxic. It might be
 appropriate to get some general animal toxicity data before exploring

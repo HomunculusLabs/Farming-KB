@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Critique of Darwinian Evolution
+## Fukuoka Critique of Darwinian Evolution
 
 Masanobu Fukuoka presents a thorough critique of Darwin's theory of evolution in "The Road Back to Nature," arguing that it reflects a biased Western European worldview that misreads the true state of the natural world. His critique extends from biology into politics, economics, and human civilization.
 

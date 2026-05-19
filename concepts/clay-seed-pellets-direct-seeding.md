@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Clay Seed Pellets for Direct Seeding
+## Clay Seed Pellets for Direct Seeding
 
 Clay seed pellets are a core technology in Fukuoka's [[forest-and-bamboo-beneficial-microorganisms]]. The finished pellets are roughly the size of a small marble — large enough to handle and broadcast easily, small enough to settle into ground-level crevices.
 

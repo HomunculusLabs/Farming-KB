@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Datura Holy Flower of the North Star
+## Datura Holy Flower of the North Star
 
 The genus *Datura* encompasses some of the most powerful and dangerous
 hallucinogenic plants known to humanity. Members of the Nightshade family

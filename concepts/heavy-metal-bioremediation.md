@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources: []
 ---
 
-# Bioremediation of Heavy Metal Contaminated Soils
+## Bioremediation of Heavy Metal Contaminated Soils
 
 Heavy metal contamination of soil is a pervasive environmental problem resulting from mining, smelting, industrial manufacturing, agricultural chemical use, and waste disposal activities.
 

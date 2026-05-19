@@ -20,7 +20,7 @@ sources:
     Bioorganic & Medicinal Chemistry Letters, 14(21), 5445-5447.
 ---
 
-# Salvinorin B
+## Salvinorin B
 
 **Salvinorin B** is a neoclerodane diterpenoid compound found in the
 leaves of *[[golden-guide-salvia-divinorum-and-diviner-sage]]* (Epling & Játiva), a psychoactive mint

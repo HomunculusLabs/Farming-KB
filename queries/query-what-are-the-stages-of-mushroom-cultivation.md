@@ -8,7 +8,7 @@ sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: query
 ---
 
-# What Are the Stages of Mushroom Cultivation?
+## What Are the Stages of Mushroom Cultivation?
 
 ## Short Answer
 Mushroom cultivation follows a multi-stage process that begins with obtaining

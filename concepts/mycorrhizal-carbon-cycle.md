@@ -4,7 +4,7 @@ source: "Fungi in the Environment (Gadd, Watkinson & Dyer, 2001)"
 tags: [mycorrhiza, carbon-cycle, soil-organic-matter, ectomycorrhiza, arbuscular-mycorrhiza, rhizosphere, priming-effect]
 ---
 
-# Mycorrhizal Carbon Cycle
+## Mycorrhizal Carbon Cycle
 
 ## Overview
 

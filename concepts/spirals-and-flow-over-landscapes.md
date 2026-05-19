@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Spirals and Flow Over Landscapes
+## Spirals and Flow Over Landscapes
 
 ## Overview
 

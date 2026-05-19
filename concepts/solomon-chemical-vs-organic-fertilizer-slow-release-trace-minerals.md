@@ -4,7 +4,7 @@ source: Gardening When It Counts (Steve Solomon)
 topics: [organic-fertilizer, slow-release, soil-microbiology, trace-minerals, cof-formula, seed-meal, phosphate-sources]
 ---
 
-# Chemical vs Organic Fertilizer: Slow Release and Trace Mineral Completeness
+## Chemical vs Organic Fertilizer: Slow Release and Trace Mineral Completeness
 
 [[steve-solomon]]'s analysis of fertilizer approaches contrasts the rapid-release
 mechanism of chemical (synthetic) fertilizers with the slow-release dynamics of

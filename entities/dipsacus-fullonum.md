@@ -16,7 +16,7 @@ sources:
   - Grieve, M. (1931). "A Modern Herbal." Jonathan Cape.
 ---
 
-# Dipsacus fullonum
+## Dipsacus fullonum
 
 ## Overview
 

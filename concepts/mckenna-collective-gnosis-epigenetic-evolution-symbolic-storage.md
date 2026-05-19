@@ -12,7 +12,7 @@ topics:
   - food-of-the-gods
 ---
 
-# Collective Gnosis and Epigenetic Evolution: Symbols, Language, and the End of Biological Evolution
+## Collective Gnosis and Epigenetic Evolution: Symbols, Language, and the End of Biological Evolution
 
 ## The Epigenetic Turn in Human Development
 

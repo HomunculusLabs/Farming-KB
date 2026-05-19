@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tribal Pattern Encoding and Mnemonics
+## Tribal Pattern Encoding and Mnemonics
 
 Tribal societies have developed sophisticated methods for encoding and transmitting complex information through pattern, song, dance, and visual art — systems that often surpass alphabetical and numerical records in density, memorability, and accessibility.
 

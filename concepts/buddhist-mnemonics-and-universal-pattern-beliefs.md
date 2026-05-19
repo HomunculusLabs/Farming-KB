@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Buddhist Mnemonics and Universal Pattern Beliefs
+## Buddhist Mnemonics and Universal Pattern Beliefs
 
 ## Overview
 

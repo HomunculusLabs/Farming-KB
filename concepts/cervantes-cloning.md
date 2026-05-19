@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# [[cervantes-growing-medium]] — Rooting medium options
+## [[cervantes-growing-medium]] — Rooting medium options
 - [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] and auxins that promote rooting.
 
 Application method matters: dip the cut end 1-2 inches into the rooting hormone, tap off excess (for powders), and insert immediately into the rooting medium. Avoid contaminating the hormone container by never dipping cut stems directly into the main supply.

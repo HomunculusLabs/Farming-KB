@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka Spring Orchard Bloom and the Aesthetic Philosophy of Nature
+## Fukuoka Spring Orchard Bloom and the Aesthetic Philosophy of Nature
 
 ## Overview
 

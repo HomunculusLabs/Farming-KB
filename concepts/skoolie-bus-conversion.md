@@ -7,7 +7,7 @@ tags: [construction, homesteading, off-grid, design, sustainability, engineering
 sources: []
 ---
 
-# Skoolie Bus Conversion
+## Skoolie Bus Conversion
 
 A skoolie is a retired school bus converted into a mobile living space. Bus conversions offer significantly more interior space than tiny houses or vans (typically 200-300 square feet in a full-size bus), strong steel construction, and the familiarity of a vehicle platform. The conversion process involves gutting the interior, adding insulation, building out living systems, and finishing with residential-quality amenities.
 

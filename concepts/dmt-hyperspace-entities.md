@@ -17,7 +17,7 @@ created: 2026-05-09
 source: "McKenna, T. (1983/1992). archaic-revival-partnership-vs-dominator-cultures*. HarperCollins."
 ---
 
-# DMT Hyperspace Entities
+## DMT Hyperspace Entities
 
 ## Overview
 

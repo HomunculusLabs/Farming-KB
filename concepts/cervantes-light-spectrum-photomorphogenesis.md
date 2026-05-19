@@ -8,7 +8,7 @@ tags: [cannabis]
 updated: 2026-04-26
 ---
 
-# Light Spectrum and Photomorphogenesis
+## Light Spectrum and Photomorphogenesis
 
 Marijuana needs light with the proper spectrum and intensity to ensure rapid growth. Light is comprised of separate bands of colors, each sending the plant a separate signal and promoting different types of growth. Understanding how cannabis responds to different wavelengths and photoperiods is essential for optimizing [[cannabis-vegetative-growth-stage]]**: 300-600 µmol/m²/s. Most cannabis cultivars thrive in this range during vegetative growth, with compact indica-dominant strains tolerating the higher end and stretch-prone sativas preferring the lower end.
 - **Flowering**: 600-1,500 µmol/m²/s. The [[cannabis-grow-room-setup]] lighting. Light intensity decreases rapidly with distancescreen-of-greene (following the inverse square law), and the canopy of a mature cannabis plant is inherently uneven due to branching patterns, plant height variation, and bud development.

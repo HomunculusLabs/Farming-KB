@@ -15,7 +15,7 @@ sources:
 type: comparison
 ---
 
-# Heirloom vs Hybrid Seeds Comparison
+## Heirloom vs Hybrid Seeds Comparison
 
 ## Overview
 

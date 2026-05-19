@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Yield Theory and Creation Strategies
+## Permaculture Yield Theory and Creation Strategies
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Biofumigation and How Does It Work
+## What Is Biofumigation and How Does It Work
 
 ## Short Answer
 Biofumigation is an organic pest and [[antifungal-secondary-metabolites-coprophilous-fungi]] found in mustards, radishes, and other brassicas, which break down into biocidal

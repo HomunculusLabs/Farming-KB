@@ -1,4 +1,8 @@
-# Fukuoka's Critique of American Agriculture: Fields of Death and Drying Continents
+---
+title: "Fukuoka's Critique of American Agriculture: Fields of Death and Drying Continents"
+tags:
+  - concept
+---
 
 ## Overview
 

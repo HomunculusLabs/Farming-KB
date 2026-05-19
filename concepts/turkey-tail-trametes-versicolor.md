@@ -7,7 +7,7 @@ tags: [mushrooms, fungi, mycology, medicine, health, biology, species-profiles, 
 sources: []
 ---
 
-# Turkey Tail (Trametes versicolor)
+## Turkey Tail (Trametes versicolor)
 
 ## Overview
 

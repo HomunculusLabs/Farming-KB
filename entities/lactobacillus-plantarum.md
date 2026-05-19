@@ -9,7 +9,7 @@ sources:
   - "raw/papers/blesching-cannabis-pain-management.md"
 ---
 
-# Lactobacillus plantarum
+## Lactobacillus plantarum
 
 [[lactobacillus]] plantarum (recently reclassified as Lactiplantibacillus
 plantarum) is a widespread Gram-positive, facultative heterofermentative

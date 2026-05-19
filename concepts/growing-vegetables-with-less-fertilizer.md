@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - raw/papers/growing-vegetables-west-of-the-cascades-steve-solomon.md
 ---
-# Growing Vegetables with Less Fertilizer
+## Growing Vegetables with Less Fertilizer
 
 [[dynamic-accumulator-plants-calcium-and-magnesium]]. Use dolomite lime if soil is Mg-deficient; agricultural lime if Mg is adequate; gypsum on alkaline soils (adds Ca without raising pH)
 - **Bone meal**: Phosphorus source. Phosphate rock is slower but cheaper for large areas

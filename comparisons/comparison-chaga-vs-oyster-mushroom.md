@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# Chaga vs Oyster Mushroom
+## Chaga vs Oyster Mushroom
 
 ## Overview
 

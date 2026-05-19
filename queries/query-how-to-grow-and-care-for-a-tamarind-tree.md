@@ -19,7 +19,7 @@ type: query
 created: 2026-05-03
 ---
 
-# How to Grow and Care for a Tamarind Tree
+## How to Grow and Care for a Tamarind Tree
 
 Growing a tamarind tree (*[[comparison-seaweed-extract-vs-fish-hydrolysate]] during flowering can improve fruit set in deficient soils.
 

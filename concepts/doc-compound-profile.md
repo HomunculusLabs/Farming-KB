@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DOC — 2,5-Dimethoxy-4-Chloroamphetamine
+## DOC — 2,5-Dimethoxy-4-Chloroamphetamine
 
 ## Overview
 

@@ -5,10 +5,10 @@ type: chemical
 tags: [reagent, phosphorylation, organic-synthesis, industrial-chemical]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
+sources: ["raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md"]
 ---
 
-# Phosphoryl Chloride (POCl₃)
+## Phosphoryl Chloride (POCl₃)
 
 Phosphoryl chloride, with the chemical formula POCl₃, is a colorless, fuming liquid widely used as a phosphorylating agent in organic synthesis. In the context of [[psilocybin]], phosphoryl chloride serves as the phosphorylating agent that installs the phosphate ester group onto the 4-hydroxy position of [[psilocybin]]). This step requires precise control of pH and temperature to avoid dephosphorylation or decomposition of the product.
 

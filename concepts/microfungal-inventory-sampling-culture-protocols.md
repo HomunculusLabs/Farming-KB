@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Microfungal Inventory Methods — Sampling Strategies, Culture Techniques, and Protocols
+## Microfungal Inventory Methods — Sampling Strategies, Culture Techniques, and Protocols
 
 ## Undertaking a Microfungal Inventory
 

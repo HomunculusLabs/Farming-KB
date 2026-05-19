@@ -1,5 +1,10 @@
+---
+title: "Species Specific Cold Shock And Fruiting Behavior Psilocybe Guide"
+tags:
+  - concept
+---
 
-# Species-Specific Cold Shock and Fruiting Behavior
+## Species-Specific Cold Shock and Fruiting Behavior
 
 This concept page summarizes species-specific responses to cold shock treatment and
 general fruiting behavior as described in a [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] (Ecuador strain)** — Described as an easy fruiting strain

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Virola: Epena and Amazonian Snuff Traditions
+## Virola: Epena and Amazonian Snuff Traditions
 
 ## Overview
 

@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Manicuring Techniques
+## Cannabis Manicuring Techniques
 
 ## Overview
 

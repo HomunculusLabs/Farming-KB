@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pond Orientation and Site Selection for Aquaculture
+## Pond Orientation and Site Selection for Aquaculture
 
 The placement and orientation of [[salinity-management-in-aquaculture-ponds]] must account for climate, wind patterns, soil conditions, and landscape position. Proper site selection and orientation are as critical for pond productivity as they are for house design, and the criteria overlap significantly — shelter, solar gain, wind management, and drainage all determine whether a pond system thrives or fails.
 

@@ -7,7 +7,7 @@ tags: [minerals, trace-elements, soil, nutrients, organic, gardening, troublesho
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Trace Elements in Soil
+## Trace Elements in Soil
 
 ## Overview
 

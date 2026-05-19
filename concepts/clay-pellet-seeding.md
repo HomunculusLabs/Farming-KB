@@ -15,7 +15,7 @@ sources:
   - Masanobu Fukuoka (1978). "The One-Straw Revolution." Rodale Press.
 ---
 
-# Clay Pellet Seeding
+## Clay Pellet Seeding
 
 ## Overview
 

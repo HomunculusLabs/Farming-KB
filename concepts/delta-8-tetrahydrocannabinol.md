@@ -1,5 +1,5 @@
 ---
-title: Delta-8-Tetrahydrocannabinol
+title: "Delta 8 Tetrahydrocannabinol"
 type: concept
 tags:
   - cannabinoids

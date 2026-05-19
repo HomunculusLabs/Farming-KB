@@ -7,7 +7,7 @@ updated: 2026-05-09
 type: concept
 ---
 
-# Light Role in Spore Formation and Geotropic Sensitivity in Psilocybe cubensis
+## Light Role in Spore Formation and Geotropic Sensitivity in Psilocybe cubensis
 
 ## Overview
 

@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabinoid-Terpene Synergy
+## Cannabinoid-Terpene Synergy
 
 How cannabinoids, terpenes, and spice-based compounds work together synergistically, from Blesching's "The [[cannabis-terpene-entourage-effect-profiles]], (E)-beta-caryophyllene as a food-based cannabinoid, [[cbd-therapeutic-effects]]. The whole plant produces greater efficacy than isolated compounds:
 

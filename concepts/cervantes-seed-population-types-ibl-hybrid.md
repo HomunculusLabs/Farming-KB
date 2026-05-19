@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Seed Population Types
+## Cannabis Seed Population Types
 
 Understanding the different types of seed populations is fundamental to
 both selecting [[cannabis-strain-mango-haze-northern-lights-skunk-haze]]' x

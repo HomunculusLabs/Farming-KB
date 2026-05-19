@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
 
-# Usnea spp.
+## Usnea spp.
 
 ## Description
 

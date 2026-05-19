@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Desertification Countermeasures and Modern Failures
+## Desertification Countermeasures and Modern Failures
 
 In *Sowing Seeds in the Desert*, Masanobu Fukuoka launched a comprehensive
 critique of conventional approaches to desertification, arguing that

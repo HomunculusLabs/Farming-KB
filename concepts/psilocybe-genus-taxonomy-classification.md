@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe Genus Taxonomy and Classification
+## Psilocybe Genus Taxonomy and Classification
 
 ## Overview
 

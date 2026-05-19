@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Symbiosis with Plants
+## Fungal Symbiosis with Plants
 
 Fungi engage in a remarkable diversity of symbiotic relationships with
 plants, ranging from mutually beneficial associations to lethal

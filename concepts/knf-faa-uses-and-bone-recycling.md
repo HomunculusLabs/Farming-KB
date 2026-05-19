@@ -8,7 +8,7 @@ sources: [chos-global-natural-farming.md]
 type: concept
 ---
 
-# KNF FAA Uses and Bone Recycling
+## KNF FAA Uses and Bone Recycling
 
 [[korean-natural-farming]], including pest control applications
 and an innovative bone recycling method for producing calcium phosphate.

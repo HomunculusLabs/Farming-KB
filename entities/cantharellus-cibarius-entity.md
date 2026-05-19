@@ -1,4 +1,8 @@
-# Cantharellus cibarius
+---
+title: "Cantharellus cibarius"
+tags:
+  - entitie
+---
 
 **Chanterelle** is one of the most prized wild [[fungal-diversity-boreal-forests-taiga]]
 of Europe, Asia, and [[edible-wild-mushrooms-by-region]]. Flavor is mildly

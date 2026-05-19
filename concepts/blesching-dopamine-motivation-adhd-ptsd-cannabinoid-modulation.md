@@ -1,4 +1,8 @@
-# Dopamine, Motivation, and Cannabinoid Modulation in ADHD and PTSD
+---
+title: "Dopamine, Motivation, and Cannabinoid Modulation in ADHD and PTSD"
+tags:
+  - concept
+---
 
 **Source:** The [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]], located on top of each
   kidney. The adrenal glands contain CB1 [[cho-fish-amino-acid-preparation]] tyrosine is the natural precursor to dopamine

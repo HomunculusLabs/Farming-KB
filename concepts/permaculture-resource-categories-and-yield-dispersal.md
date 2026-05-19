@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Resource Categories and Yield Dispersal in Permaculture
+## Resource Categories and Yield Dispersal in Permaculture
 
 ## Overview
 

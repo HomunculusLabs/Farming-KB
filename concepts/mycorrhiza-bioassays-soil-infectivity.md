@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Mycorrhiza Bioassays for Soil Infectivity Assessment
+## Mycorrhiza Bioassays for Soil Infectivity Assessment
 
 Mycorrhiza bioassays are standardized experimental procedures used to quantify the infectivity of [[arbuscular-mycorrhizal-colonization-patterns]] at a single point in time provides limited understanding of interactions between AM fungi and host plants.
 

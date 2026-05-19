@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Get Rid of Slugs and Snails Organically
+## How to Get Rid of Slugs and Snails Organically
 
 ## Short Answer
 Slugs and snails can be controlled organically using a combination of beer 

@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, psilocybin, ethnobotany, chemistry]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 type: concept
 ---
-# Neurotropic Fungi Neurotropic fungi, also called hallucinogenic, psychotropic, magic, sacred, psychedelic, or entheogenic mushrooms, are a diverse group of fungi known to produce psychoactive effects on the central nervous system. The term "neurotropic" (acting on the nervous system) was used by Guzmán, Allen, and Gartz in their landmark 1998 taxonomic survey of these organisms. The paper catalogued **216 known species** across four major chemical groups, drawing on more than 450 bibliographic references. ## Classification The neurotropic fungi are divided into four primary groups based on their active compounds: 1. **Psilocybin and related indole alkaloids** — The largest group, encompassing the majority of known neurotropic species. The principal compounds are [[norbaeocystin]]. These are tryptamine derivatives that act primarily
+## Neurotropic Fungi Neurotropic fungi, also called hallucinogenic, psychotropic, magic, sacred, psychedelic, or entheogenic mushrooms, are a diverse group of fungi known to produce psychoactive effects on the central nervous system. The term "neurotropic" (acting on the nervous system) was used by Guzmán, Allen, and Gartz in their landmark 1998 taxonomic survey of these organisms. The paper catalogued **216 known species** across four major chemical groups, drawing on more than 450 bibliographic references. ## Classification The neurotropic fungi are divided into four primary groups based on their active compounds: 1. **Psilocybin and related indole alkaloids** — The largest group, encompassing the majority of known neurotropic species. The principal compounds are [[norbaeocystin]]. These are tryptamine derivatives that act primarily
    as serotonin 5-HT2A [[amanita-pantherina]], and
    [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] exist. This
    includes several Boletus|boletes (2 genera, 8 species), Russula

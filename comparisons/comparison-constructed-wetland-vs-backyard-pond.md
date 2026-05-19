@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Constructed Wetland vs Backyard Pond
+## Constructed Wetland vs Backyard Pond
 
 ## Overview
 

@@ -8,7 +8,7 @@ type: concept
 tags: [natural-farming]
 ---
 
-# Cho's Global Natural Farming - Input Reduction Methods
+## Cho's Global Natural Farming - Input Reduction Methods
 
 Dr. Cho Han Kyu's Global Natural Farming (CGNF) system was founded in the 1960s in South Korea as a direct response to the rising costs and environmental damage of chemical-intensive agriculture. At its core, CGNF replaces expensive commercial fertilizers and pesticides with locally sourced, microbially produced inputs that can be made on-farm at minimal cost. The philosophy is that farmers should not feed the plant directly, but rather nurture the soil so that the soil nurtures the plant through [[cervantes-chemical-fertilizers-guide]], while capable of boosting short-term yields, gradually destroy the soil's native microbial populations and organic matter, requiring ever-increasing applications to maintain productivity.
 

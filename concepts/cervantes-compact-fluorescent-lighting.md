@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Compact Fluorescent Lighting for Cannabis
+## Compact Fluorescent Lighting for Cannabis
 
 Compact fluorescent lamps (CFLs) and fluorescent tubes remain
 practical lighting options for specific [[cannabis-light-spectrum-and-color-bands]] and efficiency.

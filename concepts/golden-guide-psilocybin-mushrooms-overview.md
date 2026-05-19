@@ -9,7 +9,7 @@ sources: [papers/psilocybin-mushrooms-of-the-world-stamets.md]
 type: concept
 ---
 
-# Hallucinogenic Mushrooms of Mexico
+## Hallucinogenic Mushrooms of Mexico
 
 Mushrooms of many species were used as hallucinogens by the Aztec Indians,
 who called them teonanacatl, meaning "flesh of the gods" in the Nahuatl

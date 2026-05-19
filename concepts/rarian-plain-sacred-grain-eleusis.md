@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Rarian Plain — Sacred Grain of Eleusis
+## Rarian Plain — Sacred Grain of Eleusis
 
 **Source:** The [[eleusinian-hierophantic-families-eumolpidae-kerykes]]. Its proximity to the sanctuary was likely the very reason Eleusis was chosen as Demeter's temple site.
 

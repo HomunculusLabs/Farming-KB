@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Fukuoka vs Holzer
+## Fukuoka vs Holzer
 
 ## Overview
 

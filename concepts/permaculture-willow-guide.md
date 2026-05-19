@@ -4,9 +4,9 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
+sources: ["raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"]
 ---
-# Willow Growing Guide
+## Willow Growing Guide
 
 Willows (Salix spp.) are versatile, fast-growing trees with extensive root systems that make them excellent for [[cervantes-rooting-hormones-cloning]] (salicylic acid) that promote root development. Willow water (made by soaking willow cuttings in water) is used as a natural rooting solution for other plant cuttings.
 

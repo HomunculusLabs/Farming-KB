@@ -5,10 +5,10 @@ type: species
 tags: [psilocybe, bluing-species, european, mycology, central-europe]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Psilocybe czechica
+## Psilocybe czechica
 
 **Psilocybe czechica** is a bluing [[baeocystin]]: present in small quantities
 

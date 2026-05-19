@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# Mushroom House Design and Management
+## Mushroom House Design and Management
 
 Proper mushroom house design and ongoing management are crucial for
 successful cultivation. The mushroom house must maintain appropriate

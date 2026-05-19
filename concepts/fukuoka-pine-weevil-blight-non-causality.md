@@ -16,7 +16,7 @@ sources:
   - masanobu-fukuoka-fukuoka.md
 ---
 
-# Pine Weevil Blight and Non-Causality
+## Pine Weevil Blight and Non-Causality
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [permaculture, animal-husbandry, ducks, goats, livestock, ecology, forage,
 sources: []
 ---
 
-# Permaculture Animal Integration
+## Permaculture Animal Integration
 
 In permaculture, animals are not isolated production units but integrated elements that perform multiple functions within the whole system. Chickens scratch and fertilize, ducks manage pests in wet areas, goats clear brush and produce milk, and bees pollinate crops while producing honey. The goal is to create mutually beneficial relationships between animals, plants, soil, and people — what permaculture calls "integrated rather than segregated."
 

@@ -5,7 +5,7 @@ type: entity
 tags: [algae, diatoms, silica, soil-microbiology, photosynthesis]
 ---
 
-# Bacillariophyta
+## Bacillariophyta
 
 ## Description
 

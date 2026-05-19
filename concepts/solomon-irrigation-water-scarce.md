@@ -8,7 +8,7 @@ tags: [soil-management, organic-gardening, compost, nutrients]
 created: 2026-04-24
 ---
 
-# [[comparison-dry-farming-vs-xeriscaping]]," which defined drought not as a
+## [[comparison-dry-farming-vs-xeriscaping]]," which defined drought not as a
 weather phenomenon but as a condition caused by the farmer: "Drouth may be
 defined as a condition under which crops fail to mature because of an
 insufficient supply of water." Widstoe identified four causes of crop failure

@@ -7,7 +7,7 @@ sources:
 created: 2026-05-08
 ---
 
-# Spectroscopic Characterization of [[guzman-magic-mushrooms-african-species]]. Since morphological and
+## Spectroscopic Characterization of [[guzman-magic-mushrooms-african-species]]. Since morphological and
 microscopic identification of [[psilocybin]]-containing fungi is difficult without
 experts, chromatographic methods including TLC, GC, and HPLC are usually
 employed, and these require authentic standard compounds. The detailed

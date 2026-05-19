@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# [[mckenna-food-gods-designer-states-of-consciousness]] through the ingestion of psychoactive plants. Far from being merely a historical curiosity, shamanism is presented as the foundational spiritual tradition from which all organized religions ultimately derive, having preserved the core practice of direct communion with the divine through plant sacraments.
+## [[mckenna-food-gods-designer-states-of-consciousness]] through the ingestion of psychoactive plants. Far from being merely a historical curiosity, shamanism is presented as the foundational spiritual tradition from which all organized religions ultimately derive, having preserved the core practice of direct communion with the divine through plant sacraments.
 
 ## The Death and Rebirth Experience
 

@@ -5,9 +5,9 @@ type: person
 tags: [permaculture, holistic-management, regenerative-agriculture, grazing-ecology, rangeland-restoration, zimbabwe, environmentalist, livestock]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/savory-holistic-resource-management.md]
+sources: ["raw/papers/savory-holistic-resource-management.md"]
 ---
-# Allan Savory
+## Allan Savory
 
 ## Overview
 

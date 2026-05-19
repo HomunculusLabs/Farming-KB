@@ -12,7 +12,7 @@ tags: [fukuoka, natural-farming, farm-establishment, site-selection, soil-buildi
 aliases: [natural farm creation, fukuoka farm design, starting a natural farm]
 ---
 
-# Creating a Natural Farm - Site Selection and Establishment
+## Creating a Natural Farm - Site Selection and Establishment
 
 ## Overview
 

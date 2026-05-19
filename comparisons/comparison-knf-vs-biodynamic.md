@@ -8,7 +8,7 @@ sources:
   - "raw/papers/steiner-biodynamic-agriculture.md"
 type: comparison
 ---
-# Korean Natural Farming vs Biodynamic Agriculture
+## Korean Natural Farming vs Biodynamic Agriculture
 Korean Natural Farming (KNF) and biodynamic agriculture are two of the
 most distinctive holistic farming systems in the world. Both reject
 synthetic chemical inputs and aim to work with natural processes, yet

@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DOET
+## DOET
 
 DOET (2,5-Dimethoxy-4-ethylamphetamine) is a psychedelic amphetamine and one of Shulgin's "Classic Ladies."
 

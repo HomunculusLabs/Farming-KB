@@ -5,7 +5,7 @@ tags: [desertification, agriculture, ecology, civilization-collapse, mesopotamia
 created: 2026-05-11
 ---
 
-# Desertification and the Collapse of Agricultural Civilizations
+## Desertification and the Collapse of Agricultural Civilizations
 
 ## Overview
 

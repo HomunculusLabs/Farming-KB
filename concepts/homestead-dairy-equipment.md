@@ -7,7 +7,7 @@ tags: [goats, equipment, food, processing, homesteading, tools, homestead-crafts
 sources: []
 ---
 
-# Homestead Dairy Equipment
+## Homestead Dairy Equipment
 
 A well-equipped homestead dairy makes milking, processing, and value-added production efficient and enjoyable. The right equipment reduces labor, improves product quality, and enables diversification into cheese, butter, yogurt, and other dairy products. This guide covers the essential equipment for a small-scale homestead dairy operation (1-10 milking animals).
 

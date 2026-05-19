@@ -5,7 +5,7 @@ created: 2026-05-11
 tags: [mycology, casing, peat, perlite, vermiculite, calcium-carbonate, psilocybe-cubensis, miniculture, fruiting, substrate]
 ---
 
-# Peat-Calcium Carbonate-Perlite Casing Layer for Psilocybe Cubensis Miniculture
+## Peat-Calcium Carbonate-Perlite Casing Layer for Psilocybe Cubensis Miniculture
 
 ## Overview
 

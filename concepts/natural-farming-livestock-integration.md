@@ -7,7 +7,7 @@ tags: [animal-husbandry, livestock, permaculture, gardening]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 ---
 
-# Natural Farming Livestock Integration
+## Natural Farming Livestock Integration
 
 Integrating livestock into a farming system creates closed nutrient loops, reduces feed costs through foraging, and provides pest control, fertilization, and soil cultivation services that would otherwise require labor and machinery.
 

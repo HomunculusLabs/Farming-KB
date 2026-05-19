@@ -1,5 +1,5 @@
 ---
-title: comparison-spore-print-collection-vs-spore-syringe-production Production
+title: "Spore Syringe Production"
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
@@ -9,7 +9,7 @@ sources:
   - "raw/papers/laminar-flow-hood-construction-1.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Spore Syringe Production
+## Spore Syringe Production
 
 [[accessible-mushroom-cultivation-for-disabilities]], providing a convenient method for inoculating agar media or grain spawn with the genetic diversity of a multispore culture. The Mushroom Cultivator describes the workflow from spore print to syringe.
 

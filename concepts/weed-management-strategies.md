@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
 
-# Weed Management Strategies
+## Weed Management Strategies
 
 Weed management in regenerative and organic systems focuses on prevention, competition, and targeted removal rather than total eradication. A completely weed-free garden is neither realistic nor desirable — some weeds provide habitat for beneficial insects, cycle nutrients, and protect soil. The goal is to manage weeds to a level where they do not significantly reduce crop yields.
 

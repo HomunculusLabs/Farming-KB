@@ -5,7 +5,7 @@ type: entity
 tags: [place, australia, land-systems, salinity, case-study]
 ---
 
-# Kangaroo Island Salinity Case Study
+## Kangaroo Island Salinity Case Study
 
 ## Description
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
   - "raw/papers/the-psilocybin-mushroom-image-guide.md"
 ---
-# Psychedelic Consciousness Expansion
+## Psychedelic Consciousness Expansion
 
 Consciousness expansion through psychedelics, particularly psilocybin, represents a fundamental shift in the informational patterns accessible to the human mind. Powell's framework provides a detailed account of how and why psychedelics expand consciousness and what this expansion reveals about the nature of reality.
 

@@ -5,7 +5,7 @@ tags: [mycology, saprobic-basidiomycetes, soil-isolation, selective-media, funga
 created: 2026-05-09
 ---
 
-# Selective Isolation of Saprobic Basidiomycetes from Soil
+## Selective Isolation of Saprobic Basidiomycetes from Soil
 
 Saprobic basidiomycetes are among the most underrepresented
 fungal groups in biodiversity surveys based on culture isolation.

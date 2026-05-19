@@ -9,7 +9,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# Monotheism and Pathological Religion
+## Monotheism and Pathological Religion
 
 ## Western Estrangement from the Tao
 

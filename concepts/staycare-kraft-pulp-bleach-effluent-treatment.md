@@ -8,7 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Kraft Pulp Bleach Effluent Treatment by White Rot Fungi
+## Kraft Pulp Bleach Effluent Treatment by White Rot Fungi
 
 The pulp and paper industry releases large volumes of intensely colored
 bleach plant effluents (BPEs) that contain chlorophenols, chlorolignols,

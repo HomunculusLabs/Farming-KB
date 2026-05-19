@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Ayahuasca Preparation: Pablo Amaringo and Ucayali Shamanism
+## Ayahuasca Preparation: Pablo Amaringo and Ucayali Shamanism
 
 ## Overview
 

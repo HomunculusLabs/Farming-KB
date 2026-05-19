@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Mycological Terms Glossary
+## Mycological Terms Glossary
 
 Key mycological terms used in the study of fungi, drawn from the glossary of *[[mycorrhizal-networks-common-mycelial-network]]. Essential for genetic recombination and network formation.
 

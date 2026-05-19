@@ -5,7 +5,7 @@ source_author: S.T. Oner / Resin Seeds
 topics: [cannabis, strain-profile, sativa, amnesia-haze, critical-mass, spanish-genetics, hybrid-vigor]
 ---
 
-# Critical Haze Strain Profile
+## Critical Haze Strain Profile
 
 ## Overview
 

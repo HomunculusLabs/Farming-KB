@@ -9,7 +9,7 @@ sources:
   - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
 
-# Mycology Research Methods
+## Mycology Research Methods
 
 ## Overview
 

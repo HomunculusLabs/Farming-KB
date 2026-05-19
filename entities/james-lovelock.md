@@ -5,7 +5,7 @@ type: entity
 categories: [people, science, ecology]
 ---
 
-# James Lovelock
+## James Lovelock
 
 ## Description
 

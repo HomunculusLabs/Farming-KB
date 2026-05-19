@@ -10,7 +10,7 @@ type: concept
 tags: [cannabis, soil]
 ---
 
-# Living Soil for Cannabis
+## Living Soil for Cannabis
 
 Living soil is a biological approach to [[query-can-fungi-break-down-plastic-pollution]] [[hamilton-organic-fertilizers-and-plant-nutrition]] maintain soil health.
 

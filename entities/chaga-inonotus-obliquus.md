@@ -1,5 +1,5 @@
 ---
-title: "Chaga (chaga-inonotus-obliquus-medicinal-profile)"
+title: "Chaga Inonotus Obliquus"
 created: 2026-04-28
 updated: 2026-04-28
 type: species

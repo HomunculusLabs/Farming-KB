@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, goats, animal-husbandry, forage]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Goat Management
+## Goat Management
 
 **Source:** [[permaculture]]: A Designers' Manual, [[permaculture-domestic-animals]] in
 permaculture systems. Mollison highlights their ability to convert

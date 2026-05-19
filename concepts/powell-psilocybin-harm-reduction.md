@@ -10,7 +10,7 @@ tags: [harm-reduction, psilocybin]
 updated: 2026-04-26
 ---
 
-# Psilocybin Harm Reduction
+## Psilocybin Harm Reduction
 
 While Powell is generally an advocate for psilocybin's potential, *The [[psychedelic-substances-comparison]] — such as
 their capacity to induce intense psychical terror (the so-called '[[allegro-canaanite-religion-and-the-mushroom]]."

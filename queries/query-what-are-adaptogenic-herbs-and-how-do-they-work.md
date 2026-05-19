@@ -22,7 +22,7 @@ sources:
   - Molony J et al. "The Ayurvedic plant Ashwagandha as a modulator of resistance exercise training adaptations." Journal of the International Society of Sports Nutrition, 2023.
 ---
 
-# What Are Adaptogenic Herbs and How Do They Work?
+## What Are Adaptogenic Herbs and How Do They Work?
 
 ## Quick Answer
 

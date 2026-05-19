@@ -3,7 +3,7 @@ title: "Amanita Muscaria Antibiotic Properties Nanobacteria Fungal Medicine"
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
-# Amanita Muscaria Antibiotic Properties and Fungal Medicine
+## Amanita Muscaria Antibiotic Properties and Fungal Medicine
 
 ## Overview
 

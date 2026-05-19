@@ -10,7 +10,7 @@ type: concept
 tags: [nutrients]
 ---
 
-# Nutrient Film Technique (NFT) for Cannabis
+## Nutrient Film Technique (NFT) for Cannabis
 
 Nutrient Film Technique (NFT) is a high-performance active recovery hydroponic system in which a thin film of aerated [[ebb-and-flow]] systems.
 - **Oxygen availability**: Roots receive abundant oxygen in the humid air space above the nutrient film.

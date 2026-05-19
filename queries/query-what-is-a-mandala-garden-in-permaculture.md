@@ -11,7 +11,7 @@ sources:
 type: query
 ---
 
-# What Is a Mandala Garden in Permaculture
+## What Is a Mandala Garden in Permaculture
 
 ## Short Answer
 A mandala garden is a circular garden design inspired by the sacred geometry of

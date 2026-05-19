@@ -5,7 +5,7 @@ type: entity
 tags: [technique, livestock-management, multi-species, rotational-grazing, permaculture-design]
 ---
 
-# Mixed Livestock Rotation
+## Mixed Livestock Rotation
 
 ## Description
 

@@ -5,7 +5,7 @@ source_author: "Terence McKenna"
 topics: ["psychedelics", "ethnobotany", "biogeography", "New World plants", "cultural evolution"]
 ---
 
-# New World Hallucinogen Clustering
+## New World Hallucinogen Clustering
 
 One of the most striking patterns in the global distribution of psychoactive
 plants is the extraordinary concentration of potent hallucinogens in the

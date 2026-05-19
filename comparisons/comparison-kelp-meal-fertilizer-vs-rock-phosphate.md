@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Kelp Meal Fertilizer vs Rock Phosphate
+## Kelp Meal Fertilizer vs Rock Phosphate
 
 ## Overview
 

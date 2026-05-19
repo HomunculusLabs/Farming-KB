@@ -15,7 +15,7 @@ sources:
   - Lee, Y.N. (2004). "Korean Medicinal Plants." Keimyung University Press.
 ---
 
-# Kalopanax septemlobus
+## Kalopanax septemlobus
 
 ## Overview
 

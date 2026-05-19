@@ -7,7 +7,7 @@ tags: [permaculture, community, sustainability, economics, resilience, design, a
 sources: []
 ---
 
-# Permaculture Community Resilience
+## Permaculture Community Resilience
 
 Community resilience is the capacity of a local community to withstand, adapt to, and recover from shocks and stresses — economic disruption, supply chain failures, climate events, or social upheaval. Permaculture extends beyond individual land design to encompass the social, economic, and governance structures that make communities self-reliant and adaptable.
 

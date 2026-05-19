@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# Cannabis Oil Extraction Methods
+## Cannabis Oil Extraction Methods
 
 An overview of solvent-based [[cannabis-oil-extraction]] as documented in [[ben-lemon]]'s
 *[[nicolas-flamel]]. The book

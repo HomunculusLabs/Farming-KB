@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Stable Carbon Isotope Labelling for Mycorrhizal Carbon Tracking
+## Stable Carbon Isotope Labelling for Mycorrhizal Carbon Tracking
 
 Stable carbon isotope (13C) labelling is a powerful technique for tracing
 carbon flow from plants through [[cannabis-rhizosphere-microbial-communities]]. By tracking the movement of

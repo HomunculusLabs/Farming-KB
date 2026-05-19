@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [reference]
 ---
 
-# Psilocybe stuntzii Profile
+## Psilocybe stuntzii Profile
 
 psilocybe stuntzii profile Guzman & Ott is a strongly bluing psychoactive mushroom species native to the Pacific Northwest of [[query-what-is-the-difference-between-psilocybin-and-psilocin]], a belief later confirmed through biochemical analysis. The sudden appearance of massive numbers of fruiting bodies inspired students to use the mushroom as a hallucinogen.
 

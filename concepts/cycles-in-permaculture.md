@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cycles in Permaculture
+## Cycles in Permaculture
 
 Cycles are fundamental [[fukuoka-natures-self-organizing-principles]] in [[bill-mollison]]
 describes a cycle as **"a niche in time"** — a recurring event or phenomenon that
@@ -102,7 +102,7 @@ ecological systems and designing accordingly.
 - Learn from indigenous cycle-reading and time-mapping practices
 - Recognize that human health depends on the quality of cycles we participate in
 
-# See Also
+## See Also
 
 - nutrient cycling
 - degenerative vs regenerative systems

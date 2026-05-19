@@ -5,7 +5,7 @@ type: entity
 tags: [people, scientist, ecologist, australia, author]
 ---
 
-# Tim Flannery
+## Tim Flannery
 
 ## Description
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Aspergillus oryzae
+## Aspergillus oryzae
 
 **Aspergillus oryzae** is a filamentous fungus belonging to the section Flavi within the genus *Aspergillus*. It is one of the most industrially important microorganisms in human history, serving as the primary agent in the production of traditional fermented foods and beverages across East Asia for over two millennia. Known commonly as **koji mold**, it is designated as a "Generally Recognized as Safe" (GRAS) organism by the United States Food and Drug Administration.
 

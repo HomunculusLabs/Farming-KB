@@ -1,4 +1,8 @@
-# [[solomon-lime-types-agricultural-dolomitic-gypsum-ph-myth-organic-garden|Solomon]], S. — *[[solomon-manure-nutrient-variability-cof]] content is wildly unpredictable, the range of [[hamilton-kelp-and-seaweed-in-organic-gardening]] is that "manure grows stuff." The reality is far more nuanced. The nutrient content of animal manures varies enormously depending on the animal's diet, the bedding material mixed in, how the manure was stored, and how long it has decomposed.
+---
+title: "Solomon, S. — *solomon manure nutrient variability cof content is wildly unpredictable, the range of hamilton kelp and seaweed in organic gardening is that "manure grows stuff." The reality is far more nuanced. The nutrient content of animal manures varies enormously depending on the animal's diet, the bedding material mixed in, how the manure was stored, and how long it has decomposed."
+tags:
+  - concept
+---
 
 Solomon presents data showing the extraordinary range:
 - **Horse manure:** Nitrogen can range from 0.5% to 1.3% — a 2.6× difference

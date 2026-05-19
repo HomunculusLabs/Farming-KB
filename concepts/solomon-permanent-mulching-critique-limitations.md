@@ -4,7 +4,7 @@ source: Gardening When It Counts (Steve Solomon, 2005)
 tags: [mulching, permanent-mulch, solomon, ruth-stout, weed-suppression, soil-health, moisture, critique]
 ---
 
-# Permanent Mulching Critique and Limitations
+## Permanent Mulching Critique and Limitations
 
 ## Overview
 

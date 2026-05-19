@@ -6,7 +6,7 @@ tags: [cannabis, evidence-based-medicine, clinical-research, chi-scoring, method
 created: 2026-05-08
 ---
 
-# [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) is a systematic scoring methodology developed by  to evaluate the clinical evidence supporting cannabis as a therapeutic intervention for specific health conditions. Unlike simple literature reviews, the CHI provides a quantitative framework that accounts for study design quality, sample size, and consistency of findings across multiple research streams. The system was designed to help patients and practitioners make evidence-informed decisions about cannabis therapeutics.
+## [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) is a systematic scoring methodology developed by  to evaluate the clinical evidence supporting cannabis as a therapeutic intervention for specific health conditions. Unlike simple literature reviews, the CHI provides a quantitative framework that accounts for study design quality, sample size, and consistency of findings across multiple research streams. The system was designed to help patients and practitioners make evidence-informed decisions about cannabis therapeutics.
 
 ## Purpose  ison-permaculture-design-philosophy
 

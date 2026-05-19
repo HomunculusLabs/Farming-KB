@@ -8,7 +8,7 @@ sources:
   - raw/papers/mycelium-running-stamets.md
 ---
 
-# Mycoforestry
+## Mycoforestry
 
 Using fungi to restore, protect, and enhance forests. One of the four branches of [[mycorestoration]]. From Chapter 6 of *Mycelium Running* by [[paul-stamets]].
 

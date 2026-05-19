@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Extracellular Enzyme Systems in Decomposition
+## Fungal Extracellular Enzyme Systems in Decomposition
 
 Decomposition is fundamentally a product of enzyme activity, where the
 types of enzymes required depend on the [[fungal-extracellular-enzymes]] into

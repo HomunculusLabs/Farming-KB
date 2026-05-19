@@ -26,7 +26,7 @@ related_concepts:
   - plant-propagation-techniques
 ---
 
-# Plant Anatomy and Physiology
+## Plant Anatomy and Physiology
 
 Understanding how plants are built and how they function is the foundation of all
 horticulture, agriculture, and ecological [[integrated-land-management-and-polyculture-design]]. Every decision a grower

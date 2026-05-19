@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Saprobic Soil Fungi — Quantitative and Qualitative Inventory Recommendations
+## Saprobic Soil Fungi — Quantitative and Qualitative Inventory Recommendations
 
 ## Overview
 

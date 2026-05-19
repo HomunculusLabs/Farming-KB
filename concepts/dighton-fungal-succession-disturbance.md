@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Fungal Succession in Disturbance
+## Fungal Succession in Disturbance
 
 ## Overview
 

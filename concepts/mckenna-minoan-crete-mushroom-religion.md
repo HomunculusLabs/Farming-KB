@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# Minoan Crete and Mushroom Religion
+## Minoan Crete and Mushroom Religion
 
 ## Refugees from Catal Huyuk
 

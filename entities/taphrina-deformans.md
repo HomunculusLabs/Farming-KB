@@ -5,7 +5,7 @@ type: entity
 tags: [fungus, pathogen, plant-disease, stone-fruit]
 ---
 
-# Taphrina deformans
+## Taphrina deformans
 
 ## Description
 Taphrina deformans is a fungal pathogen responsible for peach leaf curl, one of the most common and destructive diseases of peach and nectarine trees. It infects developing leaves and young shoots, causing them to become distorted, thickened, and discolored (reddish or purplish). The disease is particularly damaging in cool, wet spring conditions and can significantly reduce fruit yield and tree vigor if left unmanaged. It is found worldwide wherever peaches and nectarines are grown commercially.

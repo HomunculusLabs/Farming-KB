@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Salad Vegetables Organic Growing
+## Salad Vegetables Organic Growing
 
 Growing your own salad vegetables is particularly beneficial because
 their quality and flavor depends on freshness. They take up

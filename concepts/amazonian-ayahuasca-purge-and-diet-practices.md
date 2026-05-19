@@ -8,7 +8,7 @@ sources:
   - "raw/papers/amaringo-p-ayahuasca-visions.md"
 ---
 
-# Amazonian Ayahuasca, Purge, and Diet Practices
+## Amazonian Ayahuasca, Purge, and Diet Practices
 
 The [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] tradition involves much more than drinking the brew. It encompasses a comprehensive system of purification (the purge), dietary restrictions (la dieta), and specific practices that prepare the participant for visionary experience and healing. These practices are considered essential -- without them, the medicine may not work properly and can cause harm.
 

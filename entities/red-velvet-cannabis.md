@@ -20,7 +20,7 @@ sources:
   - https://www.wikileaf.com/strain/red-velvet/
 ---
 
-# Red Velvet
+## Red Velvet
 
 **Red Velvet** is an indica-dominant hybrid [[tree-of-knowledge-and-forbidden-fruit-theory]]** ([[forbidden-fruit-cannabis]]
           ↓

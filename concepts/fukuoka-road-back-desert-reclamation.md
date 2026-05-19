@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Desert Reclamation: Stopping the Advance of Deserts
+## Fukuoka's Desert Reclamation: Stopping the Advance of Deserts
 
 updated: 2026-04-21
 

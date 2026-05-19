@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Endorhiza Endophytes
+## Endorhiza Endophytes
 
 ## Overview
 

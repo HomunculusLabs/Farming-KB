@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Composting Critique and the Futility of Prepared Organic Matter
+## Composting Critique and the Futility of Prepared Organic Matter
 
 While Fukuoka acknowledged that compost itself is not without value, he
 firmly maintained that the composting of organic materials is fundamentally

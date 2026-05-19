@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [pests, insects, mites, sciarids, pest-management]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Insect Pests of Oyster Mushrooms
+## Insect Pests of Oyster Mushrooms
 
 Oyster [[cytokinin-plant-growth-and-development]] are delayed or poor below 15C
 or above 30C, indicating that [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]] when

@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# KH2PO4 Phosphate Supplementation in Mushroom Cultivation Substrates
+## KH2PO4 Phosphate Supplementation in Mushroom Cultivation Substrates
 
 Phosphate supplementation is a critical but often overlooked factor in
 mushroom cultivation. In the Gartz, Adam and Vorbrodt (1990) study on

@@ -5,7 +5,7 @@ tags: [fukuoka, natural-farming, ecology, cascade, pine-wilt, nematode, intercon
 created: 2026-05-11
 ---
 
-# The Ecosystem Cascade: From Cedar Plantations to Pine Wilt, Mice, and Weasel Decline
+## The Ecosystem Cascade: From Cedar Plantations to Pine Wilt, Mice, and Weasel Decline
 
 Masanobu Fukuoka uses a remarkable chain of ecological [[comparison-free-living-vs-parasitic-nematodes]] that will ultimately doom the pines.
 

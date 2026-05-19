@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Wood-Based Substrates in The Mushroom Cultivator
+## Wood-Based Substrates in The Mushroom Cultivator
 Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter VI -- Non-Composted Substrates
 Updated: 2026-04-18
 

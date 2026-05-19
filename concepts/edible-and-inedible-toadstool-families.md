@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Edible and Inedible Toadstool Families
+## Edible and Inedible Toadstool Families
 
 ## Overview
 

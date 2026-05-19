@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis for Skin Conditions
+## Cannabis for Skin Conditions
 
 The skin is richly endowed with components of the endocannabinoid system. Both CB1 and CB2 receptors are found throughout the skin, in epidermal keratinocytes, hair follicles, and sebaceous glands. This widespread distribution provides a strong anatomical basis for cannabis-based dermatological treatments, particularly via topical administration.
 

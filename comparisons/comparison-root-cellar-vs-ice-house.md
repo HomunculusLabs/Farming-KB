@@ -18,7 +18,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Root Cellar vs Ice House
+## Root Cellar vs Ice House
 
 ## Overview
 

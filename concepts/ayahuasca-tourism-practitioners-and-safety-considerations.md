@@ -8,7 +8,7 @@ sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 type: concept
 ---
 
-# [[psilocybin-toxicity-and-safety-profile]]
+## [[psilocybin-toxicity-and-safety-profile]]
 
 ## Applications and Use Cases
 

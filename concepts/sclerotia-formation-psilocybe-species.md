@@ -7,7 +7,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_.md
 related: [grass-seed-as-mushroom-substrate, mushroom-casing-soil-recipes, exotic-mushroom-cultivation-guide]
 ---
 
-# Sclerotia Formation in Psilocybe Species
+## Sclerotia Formation in Psilocybe Species
 
 Sclerotia (singular: sclerotium) are dense, compact masses of hardened
 mycelium that function as survival structures. In some *Psilocybe* species,

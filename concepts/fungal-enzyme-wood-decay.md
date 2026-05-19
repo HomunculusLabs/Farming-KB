@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, biochemistry, wood-decay, decomposition]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
-# Fungal Enzyme Systems in Wood Decay
+## Fungal Enzyme Systems in Wood Decay
 Fungi are the primary agents of wood decomposition in terrestrial ecosystems,
 recycling the carbon locked in lignocellulose back into the global carbon cycle.
 This process depends on complex enzyme systems that can break down the three main

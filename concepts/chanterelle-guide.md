@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, foraging, species, ecology, mycorrhizae, food, safety]
 sources: []
 ---
 
-# Chanterelle Guide
+## Chanterelle Guide
 
 Chanterelles are among the most prized wild mushrooms for foraging, valued for their fruity aroma, peppery flavor, and firm, meaty texture. Found across the Northern Hemisphere in association with specific trees, chanterelles are reliable, abundant, and relatively easy to identify — making them an ideal target for beginning foragers.
 

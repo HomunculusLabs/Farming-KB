@@ -1,4 +1,8 @@
-# Shamanic Entheogenic Healing
+---
+title: "Shamanic Entheogenic Healing"
+tags:
+  - concept
+---
 
 ## Overview
 [[michael-harner]] called "[[metzner-metaphysical-realms-nonordinary-reality-shamanic-cosmology]]" as a domain of genuine

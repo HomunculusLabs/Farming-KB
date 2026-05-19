@@ -15,7 +15,7 @@ sources:
   - Taylor, K. (2010). "Grow Native: Bringing Natural Beauty to Your Garden." Lone Pine Publishing.
 ---
 
-# Physostegia virginiana
+## Physostegia virginiana
 
 ## Overview
 

@@ -1,4 +1,8 @@
-# Composting and Soil Building (Ozier PDC)
+---
+title: "Composting and Soil Building (Ozier PDC)"
+tags:
+  - concept
+---
 
 **Source:** [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course* (2011)
 

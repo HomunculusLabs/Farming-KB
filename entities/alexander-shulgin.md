@@ -24,7 +24,7 @@ sources:
 - raw/papers/shulgin-a-future-drugs.md
 ---
 
-# Alexander Shulgin
+## Alexander Shulgin
 
 Alexander "Sasha" Shulgin (1925-2014) was an American pharmacologist, chemist, and psychopharmacology researcher best known for synthesizing and personally testing over 200 psychoactive compounds. He held a DEA Schedule I research license that allowed him to conduct this work legally for decades.
 

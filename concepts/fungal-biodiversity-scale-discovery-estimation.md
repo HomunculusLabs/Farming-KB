@@ -1,4 +1,8 @@
-# Fungal Biodiversity: Scale, Discovery and Estimation
+---
+title: "Fungal Biodiversity: Scale, Discovery and Estimation"
+tags:
+  - concept
+---
 
 ## Overview
 Fungi constitute one of the most diverse and least-understood kingdoms of life

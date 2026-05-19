@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# French Cave Mushroom Cultivation
+## French Cave Mushroom Cultivation
 
 ## Overview
 

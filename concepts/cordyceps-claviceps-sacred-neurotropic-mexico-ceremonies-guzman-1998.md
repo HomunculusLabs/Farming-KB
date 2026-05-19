@@ -6,7 +6,7 @@ tags: [mycology, ethnobotany, cordyceps, claviceps, mexico, neurotropic-fungi, e
 created: 2026-05-10
 ---
 
-# Cordyceps and Claviceps as Sacred Neurotropic Fungi in Mexico
+## Cordyceps and Claviceps as Sacred Neurotropic Fungi in Mexico
 
 ## Overview
 

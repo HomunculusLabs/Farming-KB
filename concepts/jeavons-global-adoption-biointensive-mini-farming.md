@@ -6,7 +6,7 @@ topics: [biointensive, sustainable-agriculture, global-adoption, mini-farming, c
 aliases: [biointensive global adoption, ecology action network, sustainable mini-farming worldwide, GROW BIOINTENSIVE training]
 ---
 
-# Global Adoption of GROW BIOINTENSIVE Sustainable Mini-Farming
+## Global Adoption of GROW BIOINTENSIVE Sustainable Mini-Farming
 
 ## Overview
 

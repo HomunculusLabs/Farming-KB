@@ -1,5 +1,5 @@
 ---
-title: oner-cannabis-hashish-production Production
+title: "Cannabis Hashish Production"
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Hashish Production
+## Cannabis Hashish Production
 
 ## Overview
 

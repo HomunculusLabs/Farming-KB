@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
+## Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
 
 ## Overview
 

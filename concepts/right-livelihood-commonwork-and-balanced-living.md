@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Right Livelihood, Commonwork, and Balanced Living
+## Right Livelihood, Commonwork, and Balanced Living
 
 The concept of **right livelihood** in permaculture extends far beyond employment — it encompasses the fundamental question of what constitutes meaningful, ethical, and balanced human work. [[bill-mollison]] frames right livelihood as work that assists in caring for the earth and other people, work congruent with one's beliefs, and work that is self-determined rather than imposed by external economic structures. This concept is intimately connected to the principle of **commonwork** — the idea that individuals in a village or community hold diverse, rotating roles rather than being confined to a single occupational identity.
 

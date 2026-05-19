@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, glomales, arbuscular-mycorrhizae, genus]
 ---
 
-# Entrophospora
+## Entrophospora
 
 ## Description
 

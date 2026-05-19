@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Amanita rubescens
+## Amanita rubescens
 
 **Amanita rubescens** is an ectomycorrhizal basidiomycete fungus in the
 family Amanitaceae, commonly known as the blusher. It associates with

@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Spore Syringe vs Liquid Culture
+## Spore Syringe vs Liquid Culture
 
 ## Overview
 

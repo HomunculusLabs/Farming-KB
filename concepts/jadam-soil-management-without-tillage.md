@@ -7,7 +7,7 @@ tags: [jadam, soil-management, no-till, leaf-mold, microorganisms, cover-crop]
 sources:
   - "raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"
 ---
-# JADAM Soil Management Without Tillage
+## JADAM Soil Management Without Tillage
 
 JADAM soil management eliminates the need for deep tillage by rebuilding soil health through microbial activity, [[hamilton-composting-and-organic-matter-management]]. The system addresses soil compaction -- the root cause of modern farming difficulties -- without mechanical intervention.
 

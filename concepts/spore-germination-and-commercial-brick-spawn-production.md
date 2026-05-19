@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Spore Germination and Commercial Brick Spawn Production
+## Spore Germination and Commercial Brick Spawn Production
 
 ## Overview
 

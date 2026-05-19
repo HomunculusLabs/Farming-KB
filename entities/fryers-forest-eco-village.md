@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: entity
 ---
 
-# Fryers Forest Eco-Village
+## Fryers Forest Eco-Village
 
 ## Description
 

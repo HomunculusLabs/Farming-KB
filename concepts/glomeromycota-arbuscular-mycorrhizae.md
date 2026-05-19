@@ -7,7 +7,7 @@ tags: [mycorrhizae, fungi, mycology, biology, soil, ecology, species-profiles, a
 sources: []
 ---
 
-# Glomeromycota and Arbuscular Mycorrhizae
+## Glomeromycota and Arbuscular Mycorrhizae
 
 ## Overview
 

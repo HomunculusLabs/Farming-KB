@@ -4,7 +4,7 @@ source: mushrooms---poisionous-fungi-by-john-ramsbottom-1945.md
 type: concept
 ---
 
-# Poisonous Fungi — Identification, Toxins, and Treatment
+## Poisonous Fungi — Identification, Toxins, and Treatment
 
 [[john-ramsbottom]]'s 1945 monograph *Poisonous Fungi* (King Penguin Books) remains one of the most thorough accounts of [[identifying-poisonous-mushrooms]] in the British Isles. Ramsbottom, Keeper of Botany at the British Museum ([[stropharia-cubensis-identification-and-natural-history]]), compiled detailed clinical data, toxicological research, and identification guidance that corrected many persistent myths about [[amanita-toxins-and-mushroom-poisoning]].
 

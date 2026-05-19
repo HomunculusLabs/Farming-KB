@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Gangamma's Mandala Garden Design
+## Gangamma's Mandala Garden Design
 
 Gangamma's Mandala is a compact, intensive permaculture garden design capable of feeding a family of five year-round from as little as 100 square metres (1,075 square feet). Developed by [[permaculture-design]]
 - [[mollison-designers-poultry-forage-design-pastured-systems]]

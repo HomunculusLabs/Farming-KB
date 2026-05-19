@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Cage Fungi and Polyhedral Structures
+## Cage Fungi and Polyhedral Structures
 
 Cage fungi are a group of spectacularly unusual fungi belonging to the order
 Phallales within the phylum [[stinkhorn-fungi-phallus-impudicus]], cage fungi develop from

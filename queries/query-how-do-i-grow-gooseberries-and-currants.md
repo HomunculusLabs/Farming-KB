@@ -25,7 +25,7 @@ created: 2026-05-03
 type: query
 ---
 
-# How Do I Grow Gooseberries and Currants?
+## How Do I Grow Gooseberries and Currants?
 
 Gooseberries and currants (*Ribes* genus) are among the most cold-hardy and productive [[serviceberry-and-native-fruiting-shrubs]] for [[fukuoka-natural-farming-temperate-climates]], well-suited to [[query-how-to-grow-black-currants-at-home]]** (*R. nigrum*) — Strong, musky flavor; highest vitamin C; fruit on 1-2 year old wood; most shade-tolerant.
 - **Red currants** (*R. rubrum*) — Tart berries on long strigs; excellent for jellies; upright habit.

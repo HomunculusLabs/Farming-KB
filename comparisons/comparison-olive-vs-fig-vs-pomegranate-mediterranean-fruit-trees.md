@@ -21,7 +21,7 @@ sources:
   - "Permaculture Research Institute — Temperate Food Forest Design"
 ---
 
-# Olive vs Fig vs Pomegranate — Mediterranean Fruit Tree Comparison
+## Olive vs Fig vs Pomegranate — Mediterranean Fruit Tree Comparison
 
 A side-by-side reference for growers choosing between the three classic Mediterranean fruit trees.
 

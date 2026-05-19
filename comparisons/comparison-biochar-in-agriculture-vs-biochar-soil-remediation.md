@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Biochar in Agriculture vs Biochar for Soil Remediation
+## Biochar in Agriculture vs Biochar for Soil Remediation
 
 ## Overview
 Biochar is the same carbon-rich, porous material in both agricultural and

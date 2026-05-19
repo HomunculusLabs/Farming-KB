@@ -5,7 +5,7 @@ tags: [shirota, psilocybin, synthesis, chemistry, large-scale, phosphorylation]
 created: 2026-05-08
 ---
 
-# Shirota Concise Large-Scale Synthesis of [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] was fully characterized by 2D NMR, including HMBC and NOESY experiments that confirmed the intramolecular transfer of a benzyl group from oxygen to nitrogen.
+## Shirota Concise Large-Scale Synthesis of [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] was fully characterized by 2D NMR, including HMBC and NOESY experiments that confirmed the intramolecular transfer of a benzyl group from oxygen to nitrogen.
 
 The synthesis starts from commercially available 4-hydroxy [[tryptamine]] chemistry overview
 

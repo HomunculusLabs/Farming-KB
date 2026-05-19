@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# How Do I Choose and Apply the Right Mulch for My Garden?
+## How Do I Choose and Apply the Right Mulch for My Garden?
 
 ## Short Answer
 

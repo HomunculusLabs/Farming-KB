@@ -18,7 +18,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Rainbow Chips
+## Rainbow Chips
 
 ## Overview
 

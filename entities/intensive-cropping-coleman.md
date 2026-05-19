@@ -5,7 +5,7 @@ type: entity
 tags: [technique, cropping-system, space-efficiency, organic-farming, rotation]
 ---
 
-# Intensive Cropping
+## Intensive Cropping
 
 ## Description
 

@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Growing Alliums Organically
+## Growing Alliums Organically
 
 The allium family includes onions, garlic, leeks, shallots, and chives. These are among the most widely grown vegetables and are relatively straightforward in an organic [[comparison-crop-rotation-vs-cover-cropping]] and their strong scent can help deter certain pests.
 

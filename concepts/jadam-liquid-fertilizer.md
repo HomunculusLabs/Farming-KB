@@ -19,7 +19,7 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Liquid Fertilizer (JLF)
+## JADAM Liquid Fertilizer (JLF)
 
 JADAM liquid fertilizer is the simplest fertilizer system in organic farming. The key difference from [[knf-preparations]]: **no sugar, no molasses, no purchased microorganisms**. Only three ingredients: plant material, water, and leaf mold. This is the ultra-low-cost approach that makes [[jadam-methods]] possible at $100/acre/year.
 

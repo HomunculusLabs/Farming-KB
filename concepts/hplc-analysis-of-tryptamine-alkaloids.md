@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# HPLC Analysis of Tryptamine Alkaloids
+## HPLC Analysis of Tryptamine Alkaloids
 
 ## Overview
 

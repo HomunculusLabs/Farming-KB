@@ -5,7 +5,7 @@ created: 2026-05-09
 source: guid-mhtml_file___e___textos__mycology__exotic_
 ---
 
-# Abort Management and Pinhead Removal in Mushroom Casing Cultivation
+## Abort Management and Pinhead Removal in Mushroom Casing Cultivation
 
 ## Overview
 

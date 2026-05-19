@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Quantitative Indices of Fungal Diversity
+## Quantitative Indices of Fungal Diversity
 
 Quantifying fungal diversity requires selecting appropriate indices that capture different aspects of community complexity. Diversity is a multidimensional concept comprising two distinct attributes:
 

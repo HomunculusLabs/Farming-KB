@@ -6,7 +6,7 @@ related: ["two-phase-directed-growth-psilocybe-cubensis-basidiocarp-development"
 created: 2026-05-09
 ---
 
-# Fungal Tropisms and Gravitropic Responses
+## Fungal Tropisms and Gravitropic Responses
 
 ## Definition and Scope
 

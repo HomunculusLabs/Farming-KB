@@ -5,7 +5,7 @@ type: entity
 tags: [mythology, deity, mesoamerica, aztec, toltec, mushroom-cult, oaxaca, feathered-serpent]
 ---
 
-# Quetzalcoatl
+## Quetzalcoatl
 
 ## Description
 

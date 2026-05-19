@@ -16,7 +16,7 @@ tags:
     Vol. 154.
 ---
 
-# Ibogaine
+## Ibogaine
 
 Ibogaine is a naturally occurring psychoactive aminopropyl-silica-gel-chromatography-indole-alkaloid-purification classified as
 a tryptamine derivative and the primary active constituent of *Tabernanthe

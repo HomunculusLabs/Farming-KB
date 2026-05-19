@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Trace Elements and Heavy Metals in Permaculture
+## Trace Elements and Heavy Metals in Permaculture
 
 Trace elements occupy a critical and often misunderstood niche in [[query-how-to-test-and-remediate-urban-soil-for-food-growing]]
 - [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]

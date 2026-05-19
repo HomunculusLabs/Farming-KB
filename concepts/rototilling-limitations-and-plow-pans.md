@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Rototilling Limitations and Plow Pans
+## Rototilling Limitations and Plow Pans
 
 Rototilling is one of the most common practices in [[dryland-vegetable-gardening]], yet it carries significant hidden drawbacks. While tillers make initial ground-breaking work easier, repeated use creates structural soil problems that can persist for decades. Understanding these limitations is critical for building deep, productive soil that supports healthy vegetable crops over the long term.
 

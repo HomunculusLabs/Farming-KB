@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# BOHD
+## BOHD
 
 **[[scythian-cannabis-steam-bath-ritual]]. There was added 1.0 g powdered zinc, followed by
 additional acetic acid as needed to maintain smooth stirring. After 0.5 h there

@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Arbuscular Mycorrhizal Fungi Species Characterization
+## Arbuscular Mycorrhizal Fungi Species Characterization
 
 Characterizing species of arbuscular mycorrhizal (AM) fungi is a meticulous process requiring healthy spore specimens, careful microscopic observation, and experimental verification of mycorrhizal function. The procedures were formalized largely through the work of Joseph B. Morton and colleagues at INVAM (International Culture Collection of Vesicular-Arbuscular Mycorrhizal Fungi), and remain the standard approach for AM fungal taxonomy. Species-level diagnosis depends almost exclusively on spore morphology, as mycorrhizal structures differ only at the family level and above.
 

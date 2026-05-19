@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Quantifying Arbuscular Fungal Communities
+## Quantifying Arbuscular Fungal Communities
 
 Quantifying the composition, abundance, and relative importance of arbuscular mycorrhizal (AM) fungal species in natural communities presents unique methodological challenges. Unlike plants or animals, the functionally important parts of the fungus — the mycelium, arbuscules, and vesicles or auxiliary cells — cannot be distinguished among species co-inhabiting a mycorrhizal root system. This chapter covers the approaches, indices, and practical considerations for characterizing AM fungal communities.
 

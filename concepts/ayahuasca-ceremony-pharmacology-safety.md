@@ -7,7 +7,7 @@ tags: [ayahuasca, pharmacology, safety, drug-interactions, maoi, dmt, harm-reduc
 sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 ---
 
-# Ayahuasca Ceremony Pharmacology and Safety
+## Ayahuasca Ceremony Pharmacology and Safety
 
 ## Overview
 

@@ -26,7 +26,7 @@ sources:
   - https://www.drugs.com/npp/san-qi.html
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/panax-notoginseng
 ---
-# Panax notoginseng
+## Panax notoginseng
 ## Overview
 - **Common names**: Tienchi ginseng, San Qi, Sanchi, Notoginseng, Tianqi
 - **Family/Genus**: Araliaceae / *Panax*

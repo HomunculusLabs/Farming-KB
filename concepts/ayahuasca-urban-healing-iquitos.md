@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Ayahuasca Urban Healing in Iquitos
+## Ayahuasca Urban Healing in Iquitos
 
 ## Overview
 

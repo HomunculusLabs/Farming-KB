@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Season Extension with Cold Frames
+## Season Extension with Cold Frames
 
 Season extension allows growers to produce food well beyond the natural growing window. In permaculture, this combines rotating planting schedules with protective structures like cold frames, cloches, greenhouses, and strategic mulching.
 

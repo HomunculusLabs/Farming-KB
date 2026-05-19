@@ -8,7 +8,7 @@ type: concept
 tags: [plants]
 ---
 
-# Chacruna Plant
+## Chacruna Plant
 
 Chacruna ([[harmala-alkaloids]]. It is the combination of chacruna's DMT
 with the MAO-inhibiting [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] have found:

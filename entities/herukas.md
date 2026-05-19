@@ -5,7 +5,7 @@ type: entity
 tags: [buddhism, tibetan-buddhism, archetype, wrathful-deity, second-bardo]
 ---
 
-# Herukas
+## Herukas
 
 ## Description
 

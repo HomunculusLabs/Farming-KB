@@ -16,7 +16,7 @@ sources:
   - "raw/papers/roberts-mycelium-running.md"
 ---
 
-# Metarhizium
+## Metarhizium
 
 **Metarhizium** is a genus of [[cervantes-biological-pest-control-predators]]
 control worldwide. The 2009 taxonomic revision by Bischoff, Rehner & Humber

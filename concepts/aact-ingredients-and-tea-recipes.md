@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# AACT Ingredients and Bacterial vs Fungal Tea Recipes
+## AACT Ingredients and Bacterial vs Fungal Tea Recipes
 
 ## Overview
 

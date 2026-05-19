@@ -6,7 +6,7 @@ updated: 2026-05-15
 sources: []
 ---
 
-# Goldenseal vs Echinacea
+## Goldenseal vs Echinacea
 
 ## Overview
 

@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Shamanic Ecstasy and Techniques
+## Shamanic Ecstasy and Techniques
 
 Shamanism represents the oldest known form of religious practice, originating
 in the Upper Paleolithic period between ten and fifty thousand years ago.

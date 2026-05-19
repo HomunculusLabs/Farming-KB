@@ -11,7 +11,7 @@ sources:
   - "Tandon, P.L. (1995). 'Biology and Ecology of Lac Insects.' Annual Review of Entomology."
 ---
 
-# Lac Insect and Shellac — Natural Resin Production
+## Lac Insect and Shellac — Natural Resin Production
 
 ## Introduction
 

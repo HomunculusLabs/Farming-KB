@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Potassium Permanganate (Ethylene Control)
+## Potassium Permanganate (Ethylene Control)
 
 ## Description
 

@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin]
 ---
 
-# Psilocybin, the Default Mode Network, and Ego Dissolution
+## Psilocybin, the Default Mode Network, and Ego Dissolution
 
 While Powell's work does not explicitly use the term "default mode network" (DMN) -- a concept that gained prominence in neuroscience after the book's publication -- his theoretical framework provides a remarkably prescient account of the very phenomenon that modern fMRI studies have identified as the DMN's role in maintaining the sense of self. Powell's description of the serotonergic "homeostatic balancing system" that maintains a "steady" perception of reality corresponds closely to what neuroscience now identifies as the default mode network's function.
 

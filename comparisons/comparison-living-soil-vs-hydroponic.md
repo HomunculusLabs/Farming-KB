@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Living Soil vs Hydroponic Cannabis
+## Living Soil vs Hydroponic Cannabis
 
 ## Overview
 

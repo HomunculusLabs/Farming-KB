@@ -19,7 +19,7 @@ related_concepts:
   - the-soil-food-web
   - companion-planting-and-polycultures
 ---
-# Plant Sensory Biology and Intelligence
+## Plant Sensory Biology and Intelligence
 Plants perceive far more of their environment than most people realize.
 They detect light across spectrums invisible to human eyes, smell volatile
 chemicals carried on the wind, feel the pressure of touch and the pull of

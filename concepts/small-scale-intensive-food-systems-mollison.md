@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Small-Scale Intensive Food Systems
+## Small-Scale Intensive Food Systems
 
 Permaculture Two (1979) details intensive small-scale growing systems for home food production, integrating grains, legumes, rice, vegetables, and self-seeding annuals in high-yield polycultures.
 

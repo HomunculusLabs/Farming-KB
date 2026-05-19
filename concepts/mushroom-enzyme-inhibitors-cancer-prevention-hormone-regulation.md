@@ -7,7 +7,7 @@ sources:
   - "raw/papers/unknown-mycelium-running.md"
 ---
 
-# Mushroom Enzyme Inhibitors in Cancer Prevention and Hormone Regulation
+## Mushroom Enzyme Inhibitors in Cancer Prevention and Hormone Regulation
 
 Mushrooms produce suites of extracellular enzymes and enzyme
 inhibitors that have significant implications for human medicine.

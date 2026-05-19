@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design, water]
 sources: []
 ---
-# The Hydro Cycle and Watershed Management updated: 2026-04-18 The hydrological cycle is one of three major cycles that support all ecology (alongside the atmospheric cycle and the nutrient cycle). Understanding how water moves across and through landscapes is essential for [[pdc-swales-and-earthworks-water-management]] that slow runoff and maximize infiltration
+## The Hydro Cycle and Watershed Management updated: 2026-04-18 The hydrological cycle is one of three major cycles that support all ecology (alongside the atmospheric cycle and the nutrient cycle). Understanding how water moves across and through landscapes is essential for [[pdc-swales-and-earthworks-water-management]] that slow runoff and maximize infiltration
 - Using plants and trees to manage water movement through evapotranspiration
 - Protecting and restoring natural watershed functions
 - Designing human water infrastructure that works with, rather than against, natural hydrological processes

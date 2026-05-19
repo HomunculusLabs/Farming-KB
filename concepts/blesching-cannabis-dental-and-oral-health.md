@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Dental and Oral Health
+## Cannabis and Dental and Oral Health
 
 ## Overview
 

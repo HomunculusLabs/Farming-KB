@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Plant Support: Trellis Net, Stakes, and Cages
+## Plant Support: Trellis Net, Stakes, and Cages
 
 As cannabis plants progress through flowering, the weight of
 developing buds can cause branches to bend, break, or collapse.

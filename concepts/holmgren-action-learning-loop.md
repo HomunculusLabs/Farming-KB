@@ -9,7 +9,7 @@ type: concept
 tags: [reference]
 ---
 
-# Holmgren Action Learning Loop
+## Holmgren Action Learning Loop
 
 The action learning loop is a core iterative process in David Holmgren's [[holmgren-wholistic-design-thinking]] and distinguishes permaculture design from one-off planning exercises that assume a static context.
 

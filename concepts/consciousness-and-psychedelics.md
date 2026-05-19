@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-psilocybin-mushroom-image-guide.md"
   - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 ---
-# Consciousness and Psychedelics
+## Consciousness and Psychedelics
 
 The relationship between consciousness and psychedelic substances lies at the heart of understanding both the nature of mind and the potential of [[powell-psilocybin-solution-ecological-cognition-theory]]" presents a comprehensive framework for understanding how psychedelics reveal the mutable nature of consciousness and its dependence on brain chemistry.
 

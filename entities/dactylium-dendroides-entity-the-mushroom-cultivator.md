@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 ---
 
-# Dactylium dendroides
+## Dactylium dendroides
 
 ## Taxonomy
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Taxonomy
+## Taxonomy
 
 Alternaria alternata (Fr.) Keissl. is a filamentous ascomycete
 fungus
@@ -29,7 +29,7 @@ section Alternaria, a clade containing primarily plant-pathogenic
 and
 saprotrophic species.
 
-# Overview
+## Overview
 
 Alternaria alternata is a ubiquitous fungus found in soil, on
 plant
@@ -64,7 +64,7 @@ biological resistance to ionizing radiation and the mechanisms
 that
 underlie this remarkable phenotypic tolerance.
 
-# See Also
+## See Also
 
 - [[chaetomium-globosum]]
 

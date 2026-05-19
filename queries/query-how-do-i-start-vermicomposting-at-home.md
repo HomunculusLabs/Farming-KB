@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# How Do I Start Vermi[[vermicomposting]] is the process of using earthworms to decompose organic waste into nutrient-rich castings.
+## How Do I Start Vermi[[vermicomposting]] is the process of using earthworms to decompose organic waste into nutrient-rich castings.
 It requires a worm bin, bedding material, composting worms, and regular feeding of kitchen scraps.
 The most popular species for home systems is the red wiggler (*Eisenia fetida*).
 A well-managed bin can process several pounds of food waste per week and produces some of the finest soil amendment available.

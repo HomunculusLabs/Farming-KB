@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dune Country Stabilisation and Forestry
+## Dune Country Stabilisation and Forestry
 
 Sand dunes are among the most dynamic and challenging desert landforms, yet they also represent enormous water reservoirs and, once stabilised, some of the most productive sites for desert forestry. Understanding dune types, water dynamics, and stabilisation techniques is essential for desert [[moth-bean]], or yam beans
 2. **Hardy [[neem]] tree leaf powder, or magnesite) in a stiff mass

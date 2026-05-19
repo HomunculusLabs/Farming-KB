@@ -5,10 +5,10 @@ type: species
 tags: [basidiomycota, ectomycorrhizal, edible-mushroom, suillaceae, boletes]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Suillus luteus
+## Suillus luteus
 
 *Suillus luteus*, commonly known as the slippery jack, pine bolete, or sticky bun, is an edible bolete mushroom in the family *Suillaceae*. It is one of the most widespread and abundant ectomycorrhizal fungi associated with pine (*Pinus*) species across the Northern Hemisphere. The species is characterized by its slimy, viscid brown cap, partial veil that leaves a prominent ring on the stipe, and its strong mutualistic association with two-needle pines in both natural forests and plantation settings.
 

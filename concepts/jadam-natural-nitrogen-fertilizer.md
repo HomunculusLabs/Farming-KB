@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# [[tompkins-electroculture-plant-growth]] is like building a house -- you cannot build with just
+## [[tompkins-electroculture-plant-growth]] is like building a house -- you cannot build with just
 cement (N). You need diverse materials. Fish JLF provides nitrogen plus diverse
 micronutrients. Use [[leaf-mold-composting]]: a handful
 

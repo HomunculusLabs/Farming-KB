@@ -19,7 +19,7 @@ sources:
   - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002), Chapter 6, pp. 112-117
 type: concept
 ---
-# Amphibian Decline, Fungal Disease, and Climate Interactions
+## Amphibian Decline, Fungal Disease, and Climate Interactions
 
 The global decline of amphibian populations that accelerated through [[bloomfield-saprolegnia-water-mold-zoospore-discharge|Saprolegnia and zoospore discharge]].
 

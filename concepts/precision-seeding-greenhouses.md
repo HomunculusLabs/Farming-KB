@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Precision Seeding in Greenhouses
+## Precision Seeding in Greenhouses
 
 Precision seeding is one of the most impactful techniques a winter-harvest grower can adopt. By sowing seeds at exact spacings with mechanical seeders, growers can practically double their yields per square foot compared to single-row or homemade multi-row seeders. In the intensive greenhouse environment where every square foot of protected [[cotter-growing-space-design-fruiting-rooms]] commands a premium, the efficiency gains from precision seeding are substantial.
 

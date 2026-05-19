@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Banisteriopsis caapi: Ayahuasca
+## Banisteriopsis caapi: Ayahuasca
 
 ## The Magic Drink of the Amazon
 

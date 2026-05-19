@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin as a Serotonin Mimic and Thalamic Filter Model
+## Psilocybin as a Serotonin Mimic and Thalamic Filter Model
 
 ## The Neurochemistry of Psilocybin: From Dephosphorylation to the Thalamic
 ## Sensory Filter

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
-# Hekatonkephalos and the Narkissos — Narcotic Flower of Persephone
+## Hekatonkephalos and the Narkissos — Narcotic Flower of Persephone
 
 **Source:** The [[greek-wine-and-herbal-inebriants]] in Greek religion. The act of picking the flower was not mere decoration of the myth but encoded the pharmacological reality: the flower was a psychoactive or narcotic plant that facilitated Persephone's transition to the underworld.
 

@@ -4,9 +4,9 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [permaculture, design]
-sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
+sources: ["raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"]
 ---
-# Permaculture Difficult Sites Plant Guide Not all land is equally suited to cultivation. Permaculture design matches species to site conditions, including saline soils, alkaline soils, coastal exposure, and waterlogged areas. The [[permaculture-plants-ground-covers-and-accumulators]] for soil stabilization on difficult sites
+## Permaculture Difficult Sites Plant Guide Not all land is equally suited to cultivation. Permaculture design matches species to site conditions, including saline soils, alkaline soils, coastal exposure, and waterlogged areas. The [[permaculture-plants-ground-covers-and-accumulators]] for soil stabilization on difficult sites
 
 ## See Also
 

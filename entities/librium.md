@@ -4,7 +4,7 @@ source: leary-t-the-psychedic-experience.md
 type: entity
 ---
 
-# Librium (Chlordiazepoxide)
+## Librium (Chlordiazepoxide)
 
 ## Description
 

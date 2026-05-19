@@ -18,7 +18,7 @@ status: published
 created: 2026-05-11
 ---
 
-# Duggar Mushroom Life Cycle: Spore Germination to Fruiting
+## Duggar Mushroom Life Cycle: Spore Germination to Fruiting
 
 ## Overview
 

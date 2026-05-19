@@ -4,7 +4,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [microbiome, cannabis, actinobacteria, endorhiza, root-bacteria]
 ---
 
-# Actinobacteria Enrichment in Cannabis Endorhiza
+## Actinobacteria Enrichment in Cannabis Endorhiza
 
 Actinobacteria represent one of the most significant phyla enriched within the
 cannabis endorhiza relative to surrounding rhizosphere and bulk soil

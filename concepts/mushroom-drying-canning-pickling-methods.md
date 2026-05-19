@@ -8,7 +8,7 @@ sources:
   - raw/papers/unknown-oyster-mushroom-cultivation.md
 ---
 
-# Mushroom Drying, Canning, and Pickling Methods
+## Mushroom Drying, Canning, and Pickling Methods
 
 Mushroom preservation is essential for extending [[cotter-oyster-mushroom-cultivation]], shiitake, and tropical [[mushroom-harvesting-techniques]].
 

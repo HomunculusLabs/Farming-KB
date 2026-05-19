@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Plant Hormones and Chemical Signaling Systems
+## Plant Hormones and Chemical Signaling Systems
 
 Plants lack nervous systems, yet they coordinate complex responses to environmental changes across their entire bodies. They accomplish this through chemical signaling systems -- hormones and other messenger molecules that travel through the plant's vascular tissues to trigger specific responses. The sensitivity of these systems is extraordinary: the presence of just one or two hormone molecules in a cell can send a message.
 

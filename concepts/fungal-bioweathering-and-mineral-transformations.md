@@ -9,7 +9,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Fungal Bioweathering and Mineral Transformations
+## Fungal Bioweathering and Mineral Transformations
 
 ## Overview
 

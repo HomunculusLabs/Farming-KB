@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Seed Selection Methods
+## Fukuoka Seed Selection Methods
 
 Masanobu Fukuoka's approach to [[savory-growing-season-and-non-growing-season-management]]
 

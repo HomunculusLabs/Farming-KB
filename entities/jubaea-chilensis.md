@@ -19,7 +19,7 @@ sources:
   - IUCN (2023). "Jubaea chilensis." The IUCN Red List of Threatened Species.
 ---
 
-# Jubaea chilensis
+## Jubaea chilensis
 
 ## Overview
 

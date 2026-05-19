@@ -5,7 +5,7 @@ type: entity
 tags: [species, insect, soil-biology, australian, nutrient-cycling]
 ---
 
-# Bardi Grub (Hepialidae — Swift Moths)
+## Bardi Grub (Hepialidae — Swift Moths)
 
 ## Description
 

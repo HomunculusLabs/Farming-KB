@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/unknown-exploring-the-rich-history-of-plant-scienc.md"
 ---
-# History of Plant Science
+## History of Plant Science
 
 The history of plant science spans from the earliest botanical observations to modern molecular biology. Key milestones include the development of plant anatomy, physiology, and microscopy -- foundations upon which all modern plant biology rests. Understanding this history provides context for current research in [[holzer-kitchen-garden-herbs-and-medicinal-plants]]
 - **Public domain resources**: Many BHL holdings are in the public domain, making them freely shareable for educational purposes

@@ -7,7 +7,7 @@ tags: [cannabis, soil-microbiology, biosynthesis, terpenes, cannabinoids]
 sources:
   - "The Modern Farm - Why Cannabis Grown with LAB Might Produce A Superior High"
 ---
-# Cannabis Living Soil vs Hydroponic Debate - LAB and Hexanoate Hypothesis
+## Cannabis Living Soil vs Hydroponic Debate - LAB and Hexanoate Hypothesis
 
 The hypothesis that lactic acid bacteria (LAB) in living soil systems enhance cannabinoid and terpene production in cannabis through hexanoate-mediated upregulation of fatty acid biosynthesis pathways. This represents a mechanistic argument for why organically-grown cannabis may produce chemically distinct (and subjectively superior) products compared to hydroponic cultivation. See also [[fungal-enzymatic-capabilities]].
 

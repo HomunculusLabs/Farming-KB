@@ -24,7 +24,7 @@ synthesizes:
   - staycare-spent-mushroom-compost-bioremediation
 ---
 
-# Mycoremediation: Fungal Bioremediation Techniques and Applications
+## Mycoremediation: Fungal Bioremediation Techniques and Applications
 
 Mycoremediation is the use of fungi to degrade, transform, or immobilize
 environmental pollutants. The term, popularized by mycologist Paul Stamets,

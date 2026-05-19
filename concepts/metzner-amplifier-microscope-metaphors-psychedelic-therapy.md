@@ -7,7 +7,7 @@ tags: [psychedelic-therapy, metaphor, psycholytic, psychotherapy, metzner, metho
 sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
 ---
 
-# Amplifier and Microscope Metaphors for Psychedelic Therapy
+## Amplifier and Microscope Metaphors for Psychedelic Therapy
 
 In his 1998 review "[[psilocybin]], and [[mckenna-suppression-psychedelic-research-lsd-therapy]],
   which often involves therapists without personal psychedelic

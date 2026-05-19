@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cold Climate Design Techniques
+## Cold Climate Design Techniques
 
 Cold climates demand specialized [[permaculture]] strategies that work with — rather than against — the physics of freezing, snow accumulation, and low-angle solar radiation. [[bill-mollison]]'s *Permaculture: A Designer's Manual* presents a rich toolkit of techniques that transform cold phenomena from hazards into assets for heating, food preservation, [[water-management]], and cultivation.
 

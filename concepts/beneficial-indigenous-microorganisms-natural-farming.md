@@ -4,7 +4,7 @@ source: bahay-kubo-indigenous-microorganisms_.md
 type: concept
 ---
 
-# Bokashi in Natural Farming
+## Bokashi in Natural Farming
 
 Beneficial Indigenous Microorganisms (BIM) are naturally occurring microorganisms
 harvested from local environments and cultured for use in [[han-kyu-cho]]'s [[lactic-acid-bacteria]] (Lacto Bacilli)

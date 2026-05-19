@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Sphingomonas wittichii Enrichment in Maui Wowie Cannabis Endorhiza
+## Sphingomonas wittichii Enrichment in Maui Wowie Cannabis Endorhiza
 
 ## Overview
 

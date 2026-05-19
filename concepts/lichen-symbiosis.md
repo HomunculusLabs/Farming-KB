@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Lichen Symbiosis
+## Lichen Symbiosis
 
 [[cervantes-air-quality-ventilation]]. Their
 sensitivity to sulfur dioxide and other atmospheric pollutants makes

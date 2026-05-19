@@ -1,4 +1,8 @@
-# Hallucinogenic Mushrooms: European Prevalence and Trends
+---
+title: "Hallucinogenic Mushrooms: European Prevalence and Trends"
+tags:
+  - concept
+---
 
 ## Overview
 

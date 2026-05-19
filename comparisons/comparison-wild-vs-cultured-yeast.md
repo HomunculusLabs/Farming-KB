@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Wild Fermentation vs Cultured Yeast
+## Wild Fermentation vs Cultured Yeast
 
 ## Overview
 

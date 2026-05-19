@@ -15,7 +15,7 @@ sources:
   - raw/papers/the-psilocybin-solution-by-simon-g-powell.md
 ---
 
-# LSD Pharmacology
+## LSD Pharmacology
 
 The pharmacology of [[lysergic-acid-diethylamide]] (LSD): mechanism of action, receptor interactions, potency, pharmacokinetics, and effects.
 

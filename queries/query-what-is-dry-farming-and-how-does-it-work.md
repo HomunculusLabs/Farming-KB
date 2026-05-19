@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Is Dry Farming and How Does It Work
+## What Is Dry Farming and How Does It Work
 
 ## Short Answer
 Dry farming is an agricultural technique that grows crops without

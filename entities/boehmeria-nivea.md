@@ -18,7 +18,7 @@ sources:
   - Wang H. et al. (2020). "Phytochemistry and pharmacology of Boehmeria nivea."
 ---
 
-# Boehmeria nivea
+## Boehmeria nivea
 
 ## Overview
 

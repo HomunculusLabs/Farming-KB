@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
-# Sinicuichi (Heimia salicifolia): Auditory Hallucinogen of Mexico
+## Sinicuichi (Heimia salicifolia): Auditory Hallucinogen of Mexico
 
 Sinicuichi (Heimia salicifolia) is a poorly understood but fascinating auditory hallucinogen from central Mexico. Unlike most known psychoactive plants, which primarily produce visual hallucinations, sinicuichi is reported to cause distinctive auditory effects — altered hearing, auditory hallucinations, and sounds that seem to come from a distance. This unusual profile makes it one of the most unique hallucinogenic plants known to ethnobotany.
 

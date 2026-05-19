@@ -6,7 +6,7 @@ type: comparison
 tags: [psychedelics, comparison]
 sources: []
 ---
-# Psychedelic Therapy Models Comparison
+## Psychedelic Therapy Models Comparison
 
 Psychedelic-assisted therapy encompasses a diverse range of approaches, from rigorously controlled clinical protocols to indigenous ceremonial traditions that predate modern medicine by millennia. Each model operates from different assumptions about the nature of healing, the role of the guide or therapist, the appropriate dose, and the importance of preparation and integration. This comparison covers five major models. For historical context, see [[stanislav-grof]] developed this approach at Spring Grove State Hospital in the 1960s. Unlike [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] as a drug-free method to access similar non-ordinary states.
 

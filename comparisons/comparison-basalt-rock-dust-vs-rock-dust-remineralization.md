@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# Basalt Rock Dust vs Rock Dust Soil Remineralization
+## Basalt Rock Dust vs Rock Dust Soil Remineralization
 
 ## Overview
 

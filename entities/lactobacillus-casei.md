@@ -5,10 +5,10 @@ type: species
 tags: [lactic-acid-bacteria, fermentation, probiotics, dairy, indigenous-microorganisms]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
+sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 ---
 
-# Lactobacillus casei
+## Lactobacillus casei
 
 *Lactobacillus casei* is a facultatively heterofermentative Gram-positive bacterium belonging to the *Lactobacillaceae* family. It is one of the most extensively studied lactic acid bacteria due to its widespread use in dairy fermentations, its probiotic properties, and its natural presence in the human gastrointestinal tract. The species has a long history of safe use in food production and is classified as Generally Recognized As Safe (GRAS) by regulatory agencies worldwide.
 

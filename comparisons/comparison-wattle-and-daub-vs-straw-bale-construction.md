@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Wattle and Daub vs Straw Bale Construction
+## Wattle and Daub vs Straw Bale Construction
 
 ## Overview
 

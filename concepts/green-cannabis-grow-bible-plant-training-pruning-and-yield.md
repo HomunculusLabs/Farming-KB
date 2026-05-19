@@ -13,7 +13,7 @@ sources:
   - raw/papers/greg-green-sinsemilla-and-pollination-the-cannabis-grow-bible.md
 type: concept
 ---
-# Plant Training, Pruning, and Yield Maximization
+## Plant Training, Pruning, and Yield Maximization
 Chapter 11 of [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]
 
 ## Historical Context

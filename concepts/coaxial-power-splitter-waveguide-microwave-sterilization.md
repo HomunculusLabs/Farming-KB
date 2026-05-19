@@ -5,7 +5,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves
 created: 2026-05-08
 ---
 
-# Coaxial Power Splitter and Waveguide System in Microwave Sterilization
+## Coaxial Power Splitter and Waveguide System in Microwave Sterilization
 
 The microwave transmission system in the NASA [[microbial-kill-curve-microwave-exposure-dose-response]].
 

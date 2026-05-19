@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Light Measurement and Meters for Cannabis
+## Light Measurement and Meters for Cannabis
 
 Understanding how to measure light is essential for optimizing cannabis
 growth indoors. [[cannabis-light-spectrum-and-color-bands]] than plants "see." The eye

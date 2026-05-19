@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# DOEF
+## DOEF
 
 [[2c-b-pihkal-entry-20]] #65. 2,5-DIMETHOXY-4-(2-FLUOROETHYL)-.
 

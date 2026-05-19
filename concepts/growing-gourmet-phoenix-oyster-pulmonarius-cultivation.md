@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Phoenix Oyster Mushroom (pleurotus-species-and-varieties and differs largely in
+## Phoenix Oyster Mushroom (pleurotus-species-and-varieties and differs largely in
 its habitat preference for conifer woods. In the Western [[growing-gourmet-north-american-reishi-species]] collections show a wider range in color than
 European collections. P. pulmonarius hosts a large complex of varieties,
 offering cultivators a rich resource for new strains.

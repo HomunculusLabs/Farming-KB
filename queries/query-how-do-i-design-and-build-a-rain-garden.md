@@ -7,7 +7,7 @@ sources:
   - "raw/papers/mollison-permaculture-designers-manual.md"
 ---
 
-# How Do I Design and Build a Rain Garden?
+## How Do I Design and Build a Rain Garden?
 
 ## Short Answer
 

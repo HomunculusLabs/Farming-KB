@@ -9,7 +9,7 @@ sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
 
-# Stock Culture Preservation Methods
+## Stock Culture Preservation Methods
 
 Once a pure strain has been created and isolated, saving it as a
 "stock culture" is essential for long-term cultivation success. Stock

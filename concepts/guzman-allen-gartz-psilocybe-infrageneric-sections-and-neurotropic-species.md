@@ -5,7 +5,7 @@ mined: 2026-05-10
 tags: [mycology, psilocybe, taxonomy, neurotropic-fungi, guzman, classification]
 ---
 
-# Psilocybe Infrageneric Sections and Neurotropic Species Classification
+## Psilocybe Infrageneric Sections and Neurotropic Species Classification
 
 ## Overview
 

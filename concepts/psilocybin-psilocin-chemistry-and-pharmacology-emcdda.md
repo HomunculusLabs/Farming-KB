@@ -5,7 +5,7 @@ type: concept
 tags: [psilocybin, psilocin, chemistry, pharmacology, tryptamine|tryptamines, serotonin, 5-HT2A]
 created: 2026-05-08
 ---
-# [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] and [[stamets-psi-psilocybe-azurescens-species-guide]] and Psilocybe
+## [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] and [[stamets-psi-psilocybe-azurescens-species-guide]] and Psilocybe
 bohemica. [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
 
 - [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]

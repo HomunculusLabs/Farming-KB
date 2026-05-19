@@ -12,7 +12,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Amanita Muscaria in Siberian Shamanism
+## Amanita Muscaria in Siberian Shamanism
 
 ## "Classic" Shamanism
 

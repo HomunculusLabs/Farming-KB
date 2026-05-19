@@ -7,7 +7,7 @@ tags: [2c-family, phenethylamine, psychedelic, shulgin, structure-activity, sar]
 mined: 2026-05-10
 ---
 
-# The 2C Family of Phenethylamines
+## The 2C Family of Phenethylamines
 
 ## Overview
 

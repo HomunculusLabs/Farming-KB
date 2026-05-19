@@ -8,7 +8,7 @@ sources:
 - raw/papers/amaringo-p-ayahuasca-visions.md
 ---
 
-# Shipibo Icaros — Healing Songs of the Amazon
+## Shipibo Icaros — Healing Songs of the Amazon
 
 ## Overview
 

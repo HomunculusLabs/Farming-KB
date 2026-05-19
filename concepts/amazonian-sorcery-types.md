@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Amazonian Sorcery Types
+## Amazonian Sorcery Types
 
 In the Amazonian vegetalismo tradition, the ability to cause harm through magical means is as developed as the ability to heal. [[amaringo-ayahuasca-visions-shipibo-iconography]] reveal a detailed taxonomy of sorcerers, their methods, the tools they employ, and the diagnostic techniques used by curanderos to identify and counteract specific forms of magical attack. Understanding these categories is essential for any study of [[momordica-charantia]]): Bitter melon, widely used in traditional medicine
 - **Sacha-pituca** (unidentified)

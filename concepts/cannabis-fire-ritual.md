@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Fire Ritual
+## Cannabis Fire Ritual
 
 The Feeding of the Flame is a fire celebration ritual from "[[marijuana-magick-ancient-ritual-use-cannabis]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and research directions.

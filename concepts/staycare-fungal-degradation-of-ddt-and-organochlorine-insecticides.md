@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycoremediation, organochlorines, ddt, pesticides, white-rot-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
+sources: ["raw/papers/staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Fungal Degradation of DDT and Organochlorine Insecticides
+## Fungal Degradation of DDT and Organochlorine Insecticides
 
 Organochlorine insecticides represent some of the most persistent and
 environmentally problematic synthetic chemicals ever produced. Dichloro-

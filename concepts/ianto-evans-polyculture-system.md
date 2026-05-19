@@ -4,7 +4,7 @@ source: Gaia's Garden - A Guide to Home-Scale Permaculture (Toby Hemenway)
 topics: polyculture, temperate gardening, ecological design, cervantes-companion-planting-pest-deterrent
 ---
 
-# Ianto Evans Polyculture System
+## Ianto Evans Polyculture System
 
 ## Overview
 

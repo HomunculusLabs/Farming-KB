@@ -5,7 +5,7 @@ source: Nicholas P. Money, Mr. Bloomfield's Orchard (2002)
 tags: [melanin, fungal-pathogenicity, cryptococcus, dermatophytes, radiation-resistance, cell-wall, pigmentation]
 ---
 
-# pf-tek-spore-syringe-boiling-water-sterilization eb will not dissolve in boiling water or hot acid.
+## pf-tek-spore-syringe-boiling-water-sterilization eb will not dissolve in boiling water or hot acid.
 
 Deposited by the cell as a distinct layer of the wall, these pigments absorb all wavelengths of visible light.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Deep Bed Vegetable System
+## Deep Bed Vegetable System
 
 The deep [[container-growing-vegetables-herbs]] has been practiced around
 the world for centuries. [[hamilton-composting-and-organic-matter-management]], a deep root zone is produced that allows

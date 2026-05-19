@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Mushroom Packaging and Marketing Strategies
+## Mushroom Packaging and Marketing Strategies
 
 Packaging and marketing are the final and arguably most critical steps in the mushroom cultivation cycle. Even the highest-quality harvest can lose its value without proper handling, presentation, and distribution. This page covers the essential practices for packaging (Step 13), marketing (Step 14), quality control, and supplemental income strategies.
 

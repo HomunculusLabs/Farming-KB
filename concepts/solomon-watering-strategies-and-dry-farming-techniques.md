@@ -1,4 +1,8 @@
-# Solomon's Watering Strategies and Dry Farming Techniques
+---
+title: "Solomon's Watering Strategies and Dry Farming Techniques"
+tags:
+  - concept
+---
 
 > Core principles from [[cannabis-growth-stage-checklist]] sensitivity:** Plants are most vulnerable during germination, [[dighton-fungal-drought-tolerance-plant-water-relations]]: Early Girl and Roma tomatoes, tepary beans and garbanzos, flour corns and dent corns for dryland conditions, Hubbard and butternut squash, and grains like amaranth and quinoa. Seed saved from dry-farmed plants improves adaptation over successive generations — a strong argument for saving your own seed.
 

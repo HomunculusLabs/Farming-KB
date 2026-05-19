@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Digging and Cultivation Techniques
+## Digging and Cultivation Techniques
 
 Hand digging is the main method of cultivating the soil in organic
 gardening. It breaks up compacted land, introduces air, allows water

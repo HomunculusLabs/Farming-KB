@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Silvopasture Systems
+## Silvopasture Systems
 
 Silvopasture is the intentional integration of trees, forage, and livestock on the same land. It combines [[mushroom-pests-insect-control-stamets]] from scratching and foraging
 - Manure fertilizes trees and forage

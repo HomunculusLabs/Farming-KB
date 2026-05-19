@@ -13,7 +13,7 @@ sources: []
 type: comparison
 ---
 
-# Agar Culture vs Liquid Culture
+## Agar Culture vs Liquid Culture
 
 ## Overview
 

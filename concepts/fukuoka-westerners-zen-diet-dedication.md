@@ -5,7 +5,7 @@ author: Masanobu Fukuoka
 tags: [fukuoka, natural-farming, zen, natural-diet, western-philosophy, japanese-culture, cultural-comparison]
 ---
 
-# Westerners' Single-Minded Dedication to Zen and Natural Diet
+## Westerners' Single-Minded Dedication to Zen and Natural Diet
 
 ## Overview
 

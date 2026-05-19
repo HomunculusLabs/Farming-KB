@@ -18,7 +18,7 @@ sources:
   - Wichtl M. (2004). "Herbal Drugs and Phytopharmaceuticals." 4th ed. Medpharm.
   - Kuchta M, Pokluda R, Kubinova R, et al. (2016). "aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham from Leonurus cardiaca." Natural Product Communications, 11(2), 187-190.---
 
-# Leonurus cardiaca
+## Leonurus cardiaca
 
 **Leonurus cardiaca** L., commonly known as motherwort, is a perennial herbaceous
 plant in the family Lamiaceae. Native to Eurasia, it has become naturalized

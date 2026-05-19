@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Livestock Philosophy and Old Pig Breeds
+## Holzer Livestock Philosophy and Old Pig Breeds
 
 [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] "torture of large numbers of animals." Issues with modern production:
 

@@ -15,7 +15,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Phase II Chamber Steam Pasteurization of Bulk Mushroom Substrates
+## Phase II Chamber Steam Pasteurization of Bulk Mushroom Substrates
 
 The Phase II chamber is a highly insulated room into which steam is injected for the purpose of pasteurizing [[fungi-in-composting-and-agricultural-waste-conversion]] products. Pasteurization selectively kills off populations of temperature-sensitive micro-organisms, leaving a resident population that presents little competition to [[phase-ii-room-design]] has a raised false floor, screened several inches above the true floor upon which steam pipes are situated. Key construction features include:
 

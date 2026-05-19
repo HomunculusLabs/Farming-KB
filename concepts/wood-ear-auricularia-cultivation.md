@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycovermediation.md
 type: concept
 ---
 
-# Wood Ear (Auricularia) Cultivation
+## Wood Ear (Auricularia) Cultivation
 
 ## Overview
 

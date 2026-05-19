@@ -7,7 +7,7 @@ tags: [water, conservation]
 sources: []
 ---
 
-# Desalination and Water Treatment Technologies
+## Desalination and Water Treatment Technologies
 
 Updated: 2026-04-18
 

@@ -8,7 +8,7 @@ sources:
   - stuart-r-ayahuasca-tourism.md
 ---
 
-# Shipibo People and Their Ayahuasca Tradition
+## Shipibo People and Their Ayahuasca Tradition
 
 The Shipibo-Conibo are an indigenous people of the [[edaphic-determinants-cannabis-microbiome-community-structure]]. Nearly every Shipibo
 family includes at least one or two ayahuasqueros (ayahuasca

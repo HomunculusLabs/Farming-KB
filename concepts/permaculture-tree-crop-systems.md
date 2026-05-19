@@ -7,7 +7,7 @@ tags: [permaculture, agroforestry, food-forest, trees, plant-systems, polycultur
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Permaculture Tree Crop Systems
+## Permaculture Tree Crop Systems
 
 Tree crops form the backbone of permaculture design, providing long-term yields of food, fodder, fuel, and habitat while building soil and modifying microclimate. Mollison treats tree crop systems as the successor to annual agriculture -- the stable, productive endpoint of ecological succession guided by design.
 

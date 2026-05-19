@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Medicinal Polysaccharides and Mushroom Compounds
+## Medicinal Polysaccharides and Mushroom Compounds
 
 Mushrooms produce a remarkable array of [[growing-gourmet-enoki-cultivation]]
   (Flammulina velutipes)

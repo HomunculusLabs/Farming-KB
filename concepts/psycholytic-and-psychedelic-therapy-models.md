@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Psycholytic and Psychedelic Therapy Models
+## Psycholytic and Psychedelic Therapy Models
 
 Ralph Metzner's comprehensive review of hallucinogenic [[european-psycholytic-therapy-1960s-1970s]] involves administering LSD in a series of sessions at **gradually increasing doses**, while the patient undergoes standard analytic interactions using a Freudian perspective. A full course might involve dozens of sessions over months or years.
 

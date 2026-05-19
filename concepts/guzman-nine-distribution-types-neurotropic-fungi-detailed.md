@@ -6,7 +6,7 @@ topic: mycology
 created: 2026-05-08
 ---
 
-# Nine Distribution Types of Neurotropic Fungi
+## Nine Distribution Types of Neurotropic Fungi
 
 Guzmán applied Hongo's (1978) classification of nine fungal distribution
 types to the world's neurotropic fungi, providing a systematic framework for

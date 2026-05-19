@@ -8,7 +8,7 @@ sources: [greg-green-the-cannabis-grow-bible.md]
 type: concept
 ---
 
-# Cannabis Plant Training and SCROG Techniques
+## Cannabis Plant Training and SCROG Techniques
 
 Plant [[screen-of-green]] (SCROG) methods, which were originally
 developed for use with fluorescent lights but have since been adapted for

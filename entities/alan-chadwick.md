@@ -5,7 +5,7 @@ type: entity
 tags: [person, horticulturist, biointensive, biodynamic, french-intensive, educator, originator]
 ---
 
-# Alan Chadwick
+## Alan Chadwick
 
 ## Description
 

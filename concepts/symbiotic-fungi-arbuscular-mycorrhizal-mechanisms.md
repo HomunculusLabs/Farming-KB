@@ -7,7 +7,7 @@ tags: [mycorrhizal, arbuscular, symbiotic symbiotic symbiotic symbiotic symbioti
 sources: [raw/papers/symbiotic fungi arbuscular arbuscular-mycorrhizal-colonization-patterns patterns proteomics techniques.md]
 ---
 
-# Arbuscular Mycorrhizal Mechanisms
+## Arbuscular Mycorrhizal Mechanisms
 
 Source: symbiotic fungi arbuscular [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]**: connect arbuscules and vesicles within the root cortex
 - **Extraradical hyphae**: extend from roots into soil for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. As with all AM fungi, hyphae multiply within

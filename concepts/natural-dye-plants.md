@@ -7,7 +7,7 @@ tags: [homesteading, homestead-crafts, plants, plant-systems, beginner]
 sources: []
 ---
 
-# Natural Dye Plants
+## Natural Dye Plants
 
 Natural dyeing transforms leaves, flowers, roots, and barks of plants into colorants for fiber, yarn, and fabric. This ancient craft aligns with homestead self-sufficiency by utilizing garden plants, weeds, and foraged materials for textile coloration.
 

@@ -13,7 +13,7 @@ sources:
   - "[Money, Mr. Bloomfield's Orchard (2002)]"
 ---
 
-# Cage Fungi — Clathrus, Anthurus, Ileodictyon, and Receptacle Evolution
+## Cage Fungi — Clathrus, Anthurus, Ileodictyon, and Receptacle Evolution
 
 Cage fungi are a remarkable group within the [[growing-gourmet-spore-mass-inoculation-techniques]] into the air to attract insect dispersers. The diversity of mature
 forms among cage fungi is extraordinary, ranging from spherical cages to

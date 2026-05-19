@@ -4,7 +4,7 @@ source: holzer-desert-or-paradise.md
 type: concept
 ---
 
-# Holzer on Global Food Systems and Reforestation Failures
+## Holzer on Global Food Systems and Reforestation Failures
 
 ## Overview
 

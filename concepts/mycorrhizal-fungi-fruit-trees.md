@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, agriculture, symbiosis, ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
+sources: ["raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md"]
 type: concept
 ---
 
-# Mycorrhizal Fungi and Fruit Trees
+## Mycorrhizal Fungi and Fruit Trees
 
 Mycorrhizal associations between fungi and fruit tree roots are among the most important but often overlooked factors in orchard productivity and tree health. Virtually all commercially important fruit trees, including apples, pears, cherries, plums, peaches, and citrus, form mycorrhizal partnerships with soil fungi. These symbiotic relationships enhance nutrient uptake, improve [[gadd-mycelial-network-dynamics]] in the soil that extends the effective root zone of the tree by up to several hundredfold, greatly increasing the volume of soil from which the tree can extract nutrients and water for growth and fruit production.
 

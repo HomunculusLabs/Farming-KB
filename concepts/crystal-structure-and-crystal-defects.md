@@ -1,3 +1,8 @@
+---
+title: "Crystal Structure And Crystal Defects"
+tags:
+  - concept
+---
 Crystal [[silicon]] fset by ¼[111]. Silicon (0.5431 nm),
 germanium (0.5658 nm), diamond (0.3567 nm). The open covalent structure
 makes these critical for semiconductor and optical applications.

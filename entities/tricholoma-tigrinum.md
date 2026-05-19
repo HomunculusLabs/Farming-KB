@@ -5,10 +5,10 @@ type: species
 tags: [medicinal-mushroom, tricholoma, immunomodulator, asia, traditional-medicine]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
 
-# Tricholoma tigrinum
+## Tricholoma tigrinum
 
 **Tricholoma tigrinum** is a mushroom species belonging to the genus Tricholoma, noted for its distinctive tiger-like cap pattern and its investigated medicinal properties. Found primarily in Asian forest ecosystems, it has been studied for its polysaccharide content and immunomodulatory potential, placing it among the growing number of Tricholoma species recognized for therapeutic value.
 

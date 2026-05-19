@@ -7,7 +7,7 @@ tags: [homesteading, plants, pollinators, plant-systems, forage, plant-catalog]
 sources: []
 ---
 
-# Bee Forage Plants
+## Bee Forage Plants
 
 Providing abundant, diverse forage is essential for honey bee health and
 honey production. This guide covers the best nectar and pollen plants by

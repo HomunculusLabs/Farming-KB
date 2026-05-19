@@ -7,7 +7,7 @@ tags: [cannabis, lighting, flowering, indoor]
 sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 ---
 
-# Photoperiodism and Phytochrome Red-Far-Red Switch
+## Photoperiodism and Phytochrome Red-Far-Red Switch
 
 ## Overview
 

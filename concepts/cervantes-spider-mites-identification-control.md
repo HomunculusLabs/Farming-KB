@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Spider Mites - Identification and Control
+## Spider Mites - Identification and Control
 
 ## Overview
 

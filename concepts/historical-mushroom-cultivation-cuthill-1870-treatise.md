@@ -4,7 +4,7 @@ source: james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md
 type: concept
 ---
 
-# Historical Mushroom Cultivation — Cuthill's 1870 Treatise Methods
+## Historical Mushroom Cultivation — Cuthill's 1870 Treatise Methods
 
 ## Overview
 

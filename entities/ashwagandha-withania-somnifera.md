@@ -16,7 +16,7 @@ sources:
 - Raut, A.A. et al. (2012). "Phytochemistry and pharmacology of Withania somnifera." Pharmacognosy Reviews.
 ---
 
-# Ashwagandha (Withania somnifera)
+## Ashwagandha (Withania somnifera)
 
 ## Overview
 

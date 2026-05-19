@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Microclimate Creation and Frost Protection
+## Microclimate Creation and Frost Protection
 
 Microclimate creation is a core skill in [[cervantes-wind-protection-outdoor-cannabis]]. Combined with
   [[comparison-windbreak-design-vs-species-selection]] for frost protection:

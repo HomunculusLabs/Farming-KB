@@ -4,7 +4,7 @@ source: comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Stame
 tags: [mycology, mushroom-cultivation, outdoor-cultivation, wood-chip-beds, mycelium-transplantation, natural-culture, mycological-landscapes]
 ---
 
-# Outdoor Wood Chip Bed Cultivation and Mycelium Transplantation Methods
+## Outdoor Wood Chip Bed Cultivation and Mycelium Transplantation Methods
 
 ## Overview
 

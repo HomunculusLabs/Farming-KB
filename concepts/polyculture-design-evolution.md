@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Polyculture Design and Evolution
+## Polyculture Design and Evolution
 
 Polyculture — the growing of multiple interacting species in the same area — is the foundation of productive, resilient agricultural systems. Unlike monoculture, which simplifies ecosystems to maximize single-crop yields, polyculture mimics natural ecosystem complexity to produce diverse yields while maintaining soil health, managing pests, and conserving resources. The design and evolution of polycultures requires careful attention to species selection, spacing, succession, and the practical limits of human management capacity.
 

@@ -12,7 +12,7 @@ sources:
 type: comparison
 ---
 
-# Koji vs SCOBY Fermentation Culture
+## Koji vs SCOBY Fermentation Culture
 
 A practical comparison of two foundational fermentation cultures — **koji** (*Aspergillus oryzae*) and **SCOBY** (Symbiotic Culture of Bacteria and Yeast) — to help you [[fukuoka-why-natural-farming-blocked-in-japan]] | Manchuria/Northeast China (~200 BCE) |
 | **Scalability** | Moderate — requires [[aflatoxin]]

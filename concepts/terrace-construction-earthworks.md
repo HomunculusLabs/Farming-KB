@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Terrace Construction and Earthworks
+## Terrace Construction and Earthworks
 
 Terraces are among the most important earth-shaping [[yield-theory-and-strategies-in-permaculture-design]], transforming slopes into productive, stable agricultural land. They control erosion, enable irrigation, and create accessible growing surfaces on otherwise unusable terrain.
 

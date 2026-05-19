@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Compost Tea Recipes and Ratios
+## Compost Tea Recipes and Ratios
 
 Developing an effective [[actively-aerated-compost-tea]] tea (AACT) recipe requires understanding that
 these are living brews — the biology dictates the ratios, not the other way around. Dr. Elaine

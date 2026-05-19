@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Endolithic Fungi - Rock-Colonizing Communities
+## Endolithic Fungi - Rock-Colonizing Communities
 
 Endolithic fungi are microorganisms that colonize the interior of rocks and
 minerals, forming an important but often overlooked component of terrestrial

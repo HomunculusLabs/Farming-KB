@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: mycology, taxonomy, biodiversity, species-description, systematics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
-# The Taxonomic Impediment in [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] suggest several hundred years of sustained effort
+## The Taxonomic Impediment in [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] suggest several hundred years of sustained effort
 at current capacity.
 
 ## Components of the Impediment

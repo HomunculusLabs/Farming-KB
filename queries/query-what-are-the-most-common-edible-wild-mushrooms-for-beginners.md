@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are the Most Common Edible Wild Mushrooms for Beginners?
+## What Are the Most Common Edible Wild Mushrooms for Beginners?
 
 ## Short Answer
 The safest and most rewarding wild mushrooms for beginners to learn include

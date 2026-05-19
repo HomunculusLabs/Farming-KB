@@ -5,10 +5,10 @@ type: chemical
 tags: [tryptamine, psychedelic, prodrug, synthetic, research-chemical]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
+sources: ["raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md"]
 ---
 
-# 4-Acetoxy-N,N-Dimethyltryptamine (4-AcO-DMT)
+## 4-Acetoxy-N,N-Dimethyltryptamine (4-AcO-DMT)
 
 4-Acetoxy-N,N-dimethyltryptamine (4-AcO-DMT), also known as O-acetylpsilocin or synthetically as "psilacetin," is a synthetic tryptamine compound and a prodrug of [[dimethyltryptamine]].
 

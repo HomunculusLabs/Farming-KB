@@ -15,7 +15,7 @@ sources:
   - raw/papers/a-selection-permaculture-plants.md
 ---
 
-# Permaculture Multi-Purpose Plants
+## Permaculture Multi-Purpose Plants
 
 Multi-purpose plants are species that perform many different functions in a permaculture system. The permaculture principle of "each element performing multiple functions" is best embodied by these plants. Rather than growing many single-purpose species, permaculture designers select plants that stack functions -- producing food, building soil, providing habitat, yielding materials, and offering medicine all from the same plant. Hemenway calls comfrey "the winner in the multifunctional sweepstakes."
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 
-# Fruit Growing Guide Organic
+## Fruit Growing Guide Organic
 
 Updated: 2026-04-18
 

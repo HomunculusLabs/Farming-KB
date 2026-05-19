@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 type: concept
 ---
-# Fungal Species Recognition Species recognition is a fundamental human endeavour essential to the study of evolutionary processes, ecology, and biodiversity. For fungi, this task has proven particularly challenging. Traditional morphological approaches often fail to capture the true genetic diversity of fungal populations, and the predominance of clonal reproduction in many species limits the applicability of biological species concepts. The advent of molecular phylogenetics has transformed fungal taxonomy, revealing cryptic species, redefining species boundaries, and providing new tools for understanding [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] split.
+## Fungal Species Recognition Species recognition is a fundamental human endeavour essential to the study of evolutionary processes, ecology, and biodiversity. For fungi, this task has proven particularly challenging. Traditional morphological approaches often fail to capture the true genetic diversity of fungal populations, and the predominance of clonal reproduction in many species limits the applicability of biological species concepts. The advent of molecular phylogenetics has transformed fungal taxonomy, revealing cryptic species, redefining species boundaries, and providing new tools for understanding [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] split.
 
 However, endemism is not universal. [[fungal-species-recognition-population-genetics]]
 

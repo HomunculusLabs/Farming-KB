@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Bokashi vs Vermicomposting
+## Bokashi vs Vermicomposting
 
 ## Overview
 Bokashi and vermicomposting are two indoor-compatible [[jadam-anaerobic-fermentation-principles]] with [[lactic-acid-bacteria-knf]], yeasts, Bacillus | Earthworms (Eisenia

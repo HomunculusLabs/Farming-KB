@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-# Poultry Range Management (Mollison)
+## Poultry Range Management (Mollison)
 Updated: 2026-04-18
 Source: Permaculture: A Designers' Manual, [[guzman-psilocybin-mushrooms-south-america]]
 (Araucana), we can select from 60-100 breeds for specific soils, sites,

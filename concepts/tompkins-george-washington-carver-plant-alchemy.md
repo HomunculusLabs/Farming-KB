@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# George Washington Carver: Plant Intuition and Agricultural Alchemy
+## George Washington Carver: Plant Intuition and Agricultural Alchemy
 
 George Washington Carver (c. 1864-1943) was an agricultural chemist
 who overcame the handicap of his slave descent to become one of the

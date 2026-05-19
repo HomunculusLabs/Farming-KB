@@ -7,7 +7,7 @@ tags: [psychopharmacology, psychedelics, therapeutic-potential, psychopharmacolo
 sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
 ---
 
-# Shamanic vs Western Paradigms of Psychedelic Healing
+## Shamanic vs Western Paradigms of Psychedelic Healing
 
 ## Overview
 

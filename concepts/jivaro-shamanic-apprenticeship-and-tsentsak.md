@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Jivaro Shamanic Apprenticeship and Tsentsak
+## Jivaro Shamanic Apprenticeship and Tsentsak
 
 ## Overview
 

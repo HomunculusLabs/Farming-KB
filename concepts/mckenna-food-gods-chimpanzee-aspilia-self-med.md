@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Chimpanzee Self-Medication and Aspilia in Food of the Gods
+## Chimpanzee Self-Medication and Aspilia in Food of the Gods
 
 In *Food of the Gods*, [[weil-the-natural-mind-altered-states-normalcy]]
 of consciousness through plant chemistry is not, as [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] and savanna. This perspective challenges

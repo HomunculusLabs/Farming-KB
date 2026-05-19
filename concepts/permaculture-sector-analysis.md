@@ -15,7 +15,7 @@ sources:
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
-# Permaculture Sector Analysis
+## Permaculture Sector Analysis
 
 Sector analysis is a core analytical tool in permaculture design that maps the flows of energy, forces, and influences that move across a site from outside. Developed by Bill Mollison and expanded by subsequent teachers including Williams, sector analysis helps the designer place elements to either intercept, channel, or block these external forces.
 

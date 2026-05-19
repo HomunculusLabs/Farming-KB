@@ -1,4 +1,8 @@
-# PF TEK Time Scale, Harvesting and Cool Desiccation
+---
+title: "PF TEK Time Scale, Harvesting and Cool Desiccation"
+tags:
+  - concept
+---
 
 ## Source
 McKenna, R. ("[[brown-rice-flour-substrate]]/[[guzman-magic-mushrooms-chemical-constituents]] and reduces their quality."

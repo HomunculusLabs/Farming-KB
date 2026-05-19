@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Passive Solar Design vs Earth-Sheltered Structures
+## Passive Solar Design vs Earth-Sheltered Structures
 
 Both earth-sheltered-structures-permaculture aim to dramatically reduce or eliminate mechanical heating and cooling by harnessing natural energy flows. They represent two of the most effective strategies for low-energy, climate-responsive building, but they achieve thermal comfort through fundamentally different mechanisms: solar gain versus earth coupling. Understanding both approaches allows designers to select the right tool for their climate, site, and budget — or combine them for maximum resilience.
 

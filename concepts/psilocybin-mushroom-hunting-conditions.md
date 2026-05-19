@@ -4,7 +4,7 @@ source: field-guide-to-the-psilocybin-mushroom.md
 type: concept
 ---
 
-# Psilocybin Mushroom Hunting Conditions and Techniques
+## Psilocybin Mushroom Hunting Conditions and Techniques
 
 Successful wild mushroom hunting depends on understanding the environmental conditions that trigger fruiting, knowing where to look, and timing expeditions to coincide with optimal weather patterns. The information in this guide is drawn from F.C. Ghouled's 1972 *Field Guide to the Psilocybin Mushroom*, originally published by Guidance Publications.
 

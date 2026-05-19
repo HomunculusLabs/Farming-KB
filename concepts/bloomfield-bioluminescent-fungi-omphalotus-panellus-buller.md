@@ -5,7 +5,7 @@ author: Nicholas P. Money
 extracted: 2026-05-11
 ---
 
-# Bioluminescent Fungi
+## Bioluminescent Fungi
 
 ## Overview of Fungal Bioluminescence
 

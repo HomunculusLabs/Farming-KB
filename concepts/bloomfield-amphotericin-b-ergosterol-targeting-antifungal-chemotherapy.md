@@ -17,7 +17,7 @@ tags:
   - combination-therapy
 ---
 
-# Antifungal Chemotherapy: Ergosterol Targeting in Fungal Membranes
+## Antifungal Chemotherapy: Ergosterol Targeting in Fungal Membranes
 
 ## Overview
 

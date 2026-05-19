@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Reflections on Japanese Character and Culture
+## Fukuoka Reflections on Japanese Character and Culture
 
 After traveling through Europe and America, [[fukuoka-mandarin-orange-citrus]] orchard led him to the realization that nature is inherently self-organizing and self-sufficient, and that human attempts to improve upon nature through knowledge and technology were the root cause of both environmental destruction and [[fukuoka-limits-scientific-method-agriculture]], which fragments nature into discrete variables for analysis, cannot comprehend the wholeness of natural systems. The reductionist approach of agronomy, which studies soil chemistry, plant pathology, and entomology as separate disciplines, misses the fundamental reality that these are aspects of an indivisible whole. In his [[psilocybe-southeast-asia-pacific]] to the grain fields of the American Midwest.
 

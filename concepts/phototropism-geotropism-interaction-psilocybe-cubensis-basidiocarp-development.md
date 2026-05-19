@@ -4,7 +4,7 @@ created: 2026-05-10
 tags: [mycology, tropism, phototropism, geotropism, psilocybe-cubensis, basidiocarp, badham-1982]
 ---
 
-# Phototropism-Geotropism Interaction in P. cubensis Development
+## Phototropism-Geotropism Interaction in P. cubensis Development
 
 ## Overview
 

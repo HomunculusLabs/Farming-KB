@@ -5,7 +5,7 @@ type: concept
 tags: [fertilizer, recipes, organic-gardening, application, banding, broadcasting, soil-amendment]
 ---
 
-# DIY Organic Fertilizer Recipes and Application Methods
+## DIY Organic Fertilizer Recipes and Application Methods
 
 ## Overview
 

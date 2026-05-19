@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Humidity Management and Fogging Systems
+## Humidity Management and Fogging Systems
 
 Proper humidity management is critical for successful [[trichoderma]] ([[pseudomonas]]).
 

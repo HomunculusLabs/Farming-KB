@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Random Assembly and Creative Problem-Solving
+## Random Assembly and Creative Problem-Solving
 
 Random assembly is an analytic [[masanobu-fukuoka]]'s [[permaculture]] designs often emerge from the intersection of careful observation and creative recombination — seeing what nature does, and then imagining what could be done by connecting elements in new ways.
 

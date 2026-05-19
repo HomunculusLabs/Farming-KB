@@ -28,7 +28,7 @@ sources:
 - https://articles.extension.org/pages/18362/composting
 ---
 
-# Composting Systems
+## Composting Systems
 
 Composting converts organic waste into stable, nutrient-rich humus through biological decomposition. Different systems suit different scales, inputs, and timelines. On a homestead with [[duck-keeping]] and [[goat-keeping]], manure management makes composting essential. See [[vermicomposting]], [[bokashi]], [[compost-tea-aact]], and [[sepp-holzer-methods]] for specialized methods.
 

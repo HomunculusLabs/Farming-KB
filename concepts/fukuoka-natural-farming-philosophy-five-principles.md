@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Natural Farming Philosophy and Five Principles
+## Fukuoka Natural Farming Philosophy and Five Principles
 
 > "All begins by relinquishing human knowledge."
 

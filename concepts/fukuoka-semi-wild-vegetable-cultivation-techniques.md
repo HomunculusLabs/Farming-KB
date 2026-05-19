@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Semi-Wild Vegetable Cultivation Techniques
+## Fukuoka Semi-Wild Vegetable Cultivation Techniques
 
 [[fukuoka-natural-vegetable-growing]] rejects modern agricultural
 methods in favor of a philosophy that works with nature rather than against it.

@@ -9,7 +9,7 @@ sources:
   - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-# KNF Input Application Timing
+## KNF Input Application Timing
 
 The Nutritive Cycle Theory states that plants need different nutrients during different stages of growth. Like humans, plants need different kinds of food at different stages. This guide covers when to apply each KNF input during the plant growth cycle.
 

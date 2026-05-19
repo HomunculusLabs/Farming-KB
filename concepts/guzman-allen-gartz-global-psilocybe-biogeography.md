@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin]
 ---
 
-# Global Psilocybe Biogeography (Guzman, Allen & Gartz)
+## Global Psilocybe Biogeography (Guzman, Allen & Gartz)
 
 Guzman, Allen and Gartz (1998) produced the most comprehensive global survey of
 neurotropic (hallucinogenic) fungi, cataloguing 216 species across 20 genera and

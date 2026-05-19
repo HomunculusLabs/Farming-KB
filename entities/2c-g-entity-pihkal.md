@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2C-G
+## 2C-G
 
 [[mescaline]] and TMA.
 That's the kind of thing that can color one's thinking and obscure

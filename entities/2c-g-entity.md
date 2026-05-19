@@ -7,7 +7,7 @@ tags: [chemistry, tihkal, 2c-family]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 2C-G
+## 2C-G
 
 **[[leary-psychedelic-experience-bardo-mapping]]:
 

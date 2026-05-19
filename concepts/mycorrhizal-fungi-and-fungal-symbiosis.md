@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Mycorrhizal Fungi and Fungal Symbiosis
+## Mycorrhizal Fungi and Fungal Symbiosis
 
 Fungi are among the most ecologically versatile organisms on Earth, bridging the roles of decomposer, symbiont, pathogen, and nutrient conduit. They operate at the intersection of plant health, soil chemistry, and microbial ecology, forming relationships that have shaped terrestrial ecosystems for hundreds of millions of years.
 

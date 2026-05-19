@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Planetary Spirits and Spiritual Healing
+## Planetary Spirits and Spiritual Healing
 
 ## Overview
 

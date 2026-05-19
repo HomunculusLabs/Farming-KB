@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe zapotecorum
+## Psilocybe zapotecorum
 
 *Psilocybe zapotecorum* is a psilocybin-containing mushroom in the family
 Hymenogastraceae. It is known by the common name **pajaritos de monte** (little

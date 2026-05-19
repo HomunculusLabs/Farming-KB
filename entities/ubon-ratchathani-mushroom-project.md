@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, project, FAO, Thailand, disability, development]
 ---
 
-# Ubon Ratchathani Mushroom Project (TCP/THA/8821(A))
+## Ubon Ratchathani Mushroom Project (TCP/THA/8821(A))
 
 ## Description
 

@@ -6,7 +6,7 @@ tags: [mushrooms, substrate, straw, pasteurization, cultivation, mycology]
 created: 2026-05-09
 ---
 
-# Straw-Based Mushroom Substrate Preparation
+## Straw-Based Mushroom Substrate Preparation
 
 Straw is one of the most widely used and accessible substrates for cultivating gourmet and [[stropharia-rugosoannulata]]), and many others. The boil-a-bag method described by Jarrold offers a low-tech approach to [[accessible-mushroom-cultivation-for-disabilities]] include wheat straw, oat straw, and rye straw. Rice straw can also be used but may have higher silica content. Hay should generally be avoided as it contains seed heads that can germinate and compete with the [[antimicrobial-compounds-mushroom-mycelium]].
 

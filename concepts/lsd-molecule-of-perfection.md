@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
-# LSD - Molecule of Perfection
+## LSD - Molecule of Perfection
 
 LSD ([[golden-guide-morning-glory-and-ololiuqui]] seeds, or Ergot fungus which grows on rye, wheat, and other grains. Lysergic acid itself is psychoactive and has been consumed for millennia through these plant sources.
 

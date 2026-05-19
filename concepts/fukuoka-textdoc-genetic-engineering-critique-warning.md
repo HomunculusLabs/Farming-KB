@@ -15,7 +15,7 @@ sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
-# persimmon seed artificially:
+## persimmon seed artificially:
 
 "The level of technology that would be needed to create a single persimmon seed or leaf is incomparably greater than that used to launch a rocket into outer space."
 

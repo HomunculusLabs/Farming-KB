@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 type: concept
 ---
 
-# Hofmann and the Discovery of Salvia Divinorum
+## Hofmann and the Discovery of Salvia Divinorum
 
 ## The Mazatec Magic Sage
 

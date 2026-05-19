@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# ALEPH-2
+## ALEPH-2
 
 **Chemical name:** 2,5-Dimethoxy-4-ethylthioamphetamine
 **[[alexander-shulgin]] and his research group.

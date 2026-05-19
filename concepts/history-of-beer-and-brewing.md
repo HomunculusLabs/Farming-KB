@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# History of Beer and Brewing
+## History of Beer and Brewing
 
 Beer is one of the oldest prepared beverages in human history, with evidence of brewing dating back more than 10,000 years. The story of beer is deeply intertwined with the development of agriculture, civilization, trade, and religion. Understanding brewing history illuminates how humanity learned to harness fermentation and how beer shaped societies across millennia.
 

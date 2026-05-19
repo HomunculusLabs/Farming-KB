@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe Southern Hemisphere Origin Hypothesis
+## Psilocybe Southern Hemisphere Origin Hypothesis
 
 Guzman, Allen, and Gartz (1998) proposed that the genus Psilocybe and
 related [[neurotropic-fungi]] may have originated in the southern hemisphere,

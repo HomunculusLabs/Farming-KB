@@ -10,7 +10,7 @@ sources:
 tags: [cannabis, hash, water-extraction, bubble-hash, ice]
 ---
 
-# Water Hash and Bubble Hash Extraction
+## Water Hash and Bubble Hash Extraction
 
 Hash extracted using cold water is known as water hash,
 Ice-O-Lator hash, ice hash, THC crystal, and other names.

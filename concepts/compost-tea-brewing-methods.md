@@ -5,7 +5,7 @@ tags: [compost-tea, brewing, aact, organic-farming, soil-amendment]
 created: 2026-05-10
 ---
 
-# Compost Tea Brewing Methods
+## Compost Tea Brewing Methods
 
 Compost tea is a liquid extract of compost [[forest-and-bamboo-beneficial-microorganisms]] and soluble nutrients. The primary distinction in compost [[actively-aerated-compost-tea-aact-brewing]] Compost Tea (AACT) and Fermentative Compost Tea
 (FCT, also known as anaerobic compost tea or [[ingham-anaerobic-organisms-role-soil]] dominate, including many species that

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert House Cooling and Ventilation Strategies
+## Desert House Cooling and Ventilation Strategies
 
 [[bill-mollison]]'s *[[permaculture]]: A Designers' Manual*, can
 reduce fuel energy consumption by up to 80% with costs amortized in 1–3 years.

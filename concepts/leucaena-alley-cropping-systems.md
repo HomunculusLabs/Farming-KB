@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Leucaena Alley Cropping Systems
+## Leucaena Alley Cropping Systems
 
 Alley cropping with [[bill-mollison]]'s [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] that
 has been widely adopted throughout the tropics and subtropics. It is often

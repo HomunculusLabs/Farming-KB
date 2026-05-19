@@ -20,7 +20,7 @@ sources:
 - raw/papers/mushrooms
 ---
 
-# Ramsbottom Poisonous Fungi Species
+## Ramsbottom Poisonous Fungi Species
 
 Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" with colour plates by Rose Ellenby. All measurements in inches. See [[mushroom-poisoning-guide]] for modern toxicological summaries.
 

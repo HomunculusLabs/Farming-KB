@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# JADAM Natural Pesticide System
+## JADAM Natural Pesticide System
 
 ## Overview
 

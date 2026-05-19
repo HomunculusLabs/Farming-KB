@@ -8,7 +8,7 @@ sources: ["papers/hamilton-geoffhamilton-nick-organic-gardening.md"]
 type: concept
 ---
 
-# [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
+## [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]] for managing weeds without chemicals
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]

@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, glomales, arbuscular-mycorrhizae, amf, species, glomus]
 ---
 
-# Glomus etunicatum
+## Glomus etunicatum
 
 ## Description
 

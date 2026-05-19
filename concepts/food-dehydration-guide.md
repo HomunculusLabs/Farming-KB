@@ -7,7 +7,7 @@ tags: [homesteading, food, preservation, drying, storage]
 sources: []
 ---
 
-# Food Dehydration Guide
+## Food Dehydration Guide
 
 Food dehydration removes moisture from food to levels low enough (typically 10-20% for most foods) to prevent microbial growth and [[enzymatic-degradation-in-mycoremediation]]. Dehydrated foods are lightweight, shelf-stable, and retain most nutrients, making them ideal for homestead food preservation, trail meals, and long-term storage.
 

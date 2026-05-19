@@ -23,7 +23,7 @@ related_concepts:
   - edge-effect-and-microclimate
 ---
 
-# Microclimate Design for Garden and Farm
+## Microclimate Design for Garden and Farm
 
 Every garden and farm contains a mosaic of microclimates, localized areas where
 temperature, moisture, wind, and light conditions differ from the surrounding

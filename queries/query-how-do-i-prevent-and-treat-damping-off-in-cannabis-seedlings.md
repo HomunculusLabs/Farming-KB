@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Prevent and Treat Damping Off in Cannabis Seedlings?
+## How Do I Prevent and Treat Damping Off in Cannabis Seedlings?
 
 ## Short Answer
 Damping off is a soil-borne [[query-how-do-i-make-seed-starting-mix-at-home]] rather than

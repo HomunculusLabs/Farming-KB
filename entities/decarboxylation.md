@@ -5,7 +5,7 @@ type: entity
 tags: [technique, cannabis-chemistry, thc-activation, heat-treatment, cannabinoid-conversion]
 ---
 
-# Decarboxylation
+## Decarboxylation
 
 ## Description
 

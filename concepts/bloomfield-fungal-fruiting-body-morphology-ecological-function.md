@@ -6,7 +6,7 @@ tags: [fungi, fruiting-bodies, mushrooms, morphology, spore-dispersal, ecology, 
 created: 2026-05-11
 ---
 
-# Fungal Fruiting Body Morphology and Ecological Function
+## Fungal Fruiting Body Morphology and Ecological Function
 
 The mushroom — that familiar umbrella-shaped structure erupting from soil, wood, or dung — is merely the reproductive organ of a far larger and more ancient organism. In *Mr. Bloomfield's Orchard*, Nicholas P. Money explores the astonishing diversity of fungal fruiting body forms and the ecological imperatives that have shaped them through hundreds of millions of years of evolution. Understanding these structures requires moving beyond the human tendency to classify fungi by appearance and instead appreciating the functional demands that each form addresses.
 

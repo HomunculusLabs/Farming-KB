@@ -7,7 +7,7 @@ tags: [cannabis, health, medicine, pharmacology]
 sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 ---
 
-# THC Therapeutic Profile
+## THC Therapeutic Profile
 
 Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in cannabis and the most studied cannabinoid. It binds directly to CB1 and CB2 receptors, producing a wide range of therapeutic effects alongside its psychoactive properties.
 

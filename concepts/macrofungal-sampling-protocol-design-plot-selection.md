@@ -5,7 +5,7 @@ tags: [mycology, sampling-protocol, macrofungi, biodiversity-survey, plot-design
 created: 2026-05-09
 ---
 
-# Macrofungal Sampling Protocol Design and Plot Selection
+## Macrofungal Sampling Protocol Design and Plot Selection
 
 Designing effective [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]" provides detailed
 guidance on approaches to [[fungal-succession-woody-debris-ecology]] is encountered far more frequently than

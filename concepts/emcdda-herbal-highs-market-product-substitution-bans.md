@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Herbal Highs Market and Product Substitution After Magic Mushroom Bans
+## EMCDDA Herbal Highs Market and Product Substitution After Magic Mushroom Bans
 
 ## Overview
 

@@ -6,7 +6,7 @@ source: cannabis-sativa-volume-3-essential-guide.md
 created: 2026-05-11
 ---
 
-# Terpene Profiles in Cannabis Sativa Strains
+## Terpene Profiles in Cannabis Sativa Strains
 
 ## Overview
 

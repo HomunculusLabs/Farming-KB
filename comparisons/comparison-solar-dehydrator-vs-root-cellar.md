@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Solar Dehydrator vs Root Cellar
+## Solar Dehydrator vs Root Cellar
 
 ## Overview
 

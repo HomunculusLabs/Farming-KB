@@ -14,7 +14,7 @@ related_concepts:
   - mckenna-dominator-vs-partnership-society-model
   - [[mckenna-transcendent-other-and-exopheromones]]
   - mckenna-[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained|Mckenna]], Ethnobotany, and the Intelligence of
-# [[i-thou-relationship-with-psychedelic-entities]] plants was not
+## [[i-thou-relationship-with-psychedelic-entities]] plants was not
 an incidental feature of prehistory but a driving force in the
 emergence of language, religion, art, and social organization. His
 ideas, though controversial within mainstream science, have profoundly

@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Read Cannabis Plants for Nutrient Problems
+## How to Read Cannabis Plants for Nutrient Problems
 
 ## Short Answer
 Reading cannabis plants for nutrient problems involves observing leaf

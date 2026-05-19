@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Key to Fungi Edibility and 19th Century Mycological Bibliography
+## Key to Fungi Edibility and 19th Century Mycological Bibliography
 
 ## Overview
 

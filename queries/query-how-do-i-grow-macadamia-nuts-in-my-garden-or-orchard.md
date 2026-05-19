@@ -6,7 +6,7 @@ updated: 2026-05-18
 sources: []
 ---
 
-# How Do I Grow Macadamia Nuts in My Garden or Orchard?
+## How Do I Grow Macadamia Nuts in My Garden or Orchard?
 
 ## Short Answer
 

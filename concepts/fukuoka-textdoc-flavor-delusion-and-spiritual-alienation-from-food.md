@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Flavor Delusion and Spiritual Alienation from Food
+## Flavor Delusion and Spiritual Alienation from Food
 
 ## Overview
 

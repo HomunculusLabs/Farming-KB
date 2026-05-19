@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Cannabis Seedling Care and Early Growth
+## Cannabis Seedling Care and Early Growth
 
 The seedling stage is a critical period in cannabis
 cultivation that lasts from three to six weeks after

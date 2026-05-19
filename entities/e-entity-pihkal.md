@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# E (ESCALINE)
+## E (ESCALINE)
 
 low-energy-futures-in-permaculture. An anonymous flyer appeared in the California drug community in 1984 stating an effective range to be 50 to 100 milligrams, but it described the drug as the sulfate. The above data all pertain to thmescalineloride salt.
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Phytochemical Research on Sacred Plants
+## Phytochemical Research on Sacred Plants
 
 ## The Quest for Active Principles
 

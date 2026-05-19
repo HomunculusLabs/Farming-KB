@@ -4,7 +4,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_.md
 type: concept
 ---
 
-# Grass Seed Cultivation of *Psilocybe mexicana* and Related Species
+## Grass Seed Cultivation of *Psilocybe mexicana* and Related Species
 
 ## Overview
 

@@ -5,7 +5,7 @@ tags: [microbiome, cannabis, rhizosphere, soil-science]
 created: 2026-05-09
 ---
 
-# Rhizosphere vs Bulk Soil Microbiome in Cannabis
+## Rhizosphere vs Bulk Soil Microbiome in Cannabis
 
 Understanding how differ across the root-soil continuum
 is essential for characterizing plant-microbiome interactions. The Winston et

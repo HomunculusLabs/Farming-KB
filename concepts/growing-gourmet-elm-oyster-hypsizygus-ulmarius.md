@@ -13,7 +13,7 @@ sources:
 type: concept
 ---
 
-# Elm Oyster Mushroom Cultivation (Hypsizygus ulmarius)
+## Elm Oyster Mushroom Cultivation (Hypsizygus ulmarius)
 
 Hypsizygus ulmarius is a relatively rare mushroom that usually grows
 singly or in small groups on elms and beeches. It closely parallels

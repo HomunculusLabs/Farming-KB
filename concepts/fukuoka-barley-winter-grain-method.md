@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Barley and Winter Grain Method
+## Fukuoka Barley and Winter Grain Method
 
 updated: 2026-04-18
 

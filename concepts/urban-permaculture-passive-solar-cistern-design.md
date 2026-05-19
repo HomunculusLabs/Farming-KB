@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md]
 type: concept
 ---
 
-# Urban Permaculture Passive Solar and Cistern Design
+## Urban Permaculture Passive Solar and Cistern Design
 
 The urban [[passive-solar-design]],
 [[mollison-designers-hand-pump-and-water-lifting-devices]] gets the siphon going.

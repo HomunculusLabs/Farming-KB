@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Third Bardo Re-Entry and Liberation
+## Third Bardo Re-Entry and Liberation
 
 The Third Bardo, as described in *The [[leary-psychedelic-experience-bardo-mapping]]* (based on the *Tibetan Book of the Dead*), is the stage of [[psychedelic-consciousness-expansion]] where the voyager struggles to return to ego-based reality after the dissolution experienced in the earlier bardos. This phase is characterized by confusion, disorientation, and a series of visions that test the voyager's capacity for recognition and liberation. The instructions in this phase are among the most critical in the manual, as they address the final moments before re-entry into ordinary consciousness.
 

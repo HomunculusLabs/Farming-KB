@@ -8,7 +8,7 @@ type: concept
 tags: [psilocybin]
 ---
 
-# Psilocybin Isolation and Early Scientific Research
+## Psilocybin Isolation and Early Scientific Research
 
 The isolation of psilocybin and [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] species. Attempts by his own laboratory and by American
 pharmaceutical companies (Merck; Smith, Kline and French) had all failed.

@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Fungal Disease Management
+## JADAM Fungal Disease Management
 
 JADAM controls fungal diseases through a two-tier approach: [[ultra-low-cost-foliar-application-methods]]. JMS contains 0.1-1 billion microorganisms per milliliter at peak foam. Spraying JMS on leaves increases microbial diversity and prevents any single pathogen from gaining dominance.
 

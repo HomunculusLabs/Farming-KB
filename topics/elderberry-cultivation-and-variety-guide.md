@@ -14,7 +14,7 @@ sources:
   - Moyer RA, et al. 2002. Anthocyanin composition of black elderberry (Sambucus nigra L.) juice. Journal of Agricultural and Food Chemistry, 50(19): 5459–5465.
 ---
 
-# Elderberry Cultivation and Variety Guide
+## Elderberry Cultivation and Variety Guide
 
 Elderberry (*Sambucus* spp.) is a fast-growing, multi-stemmed deciduous shrub prized for its dark purple berries rich in anthocyanins, flavonoids, and immune-supporting compounds. Native to temperate regions worldwide, elderberry has transitioned from a wild-harvested hedgerow plant to a commercially significant specialty crop, with global demand driven by the nutraceutical, food, and beverage industries.
 

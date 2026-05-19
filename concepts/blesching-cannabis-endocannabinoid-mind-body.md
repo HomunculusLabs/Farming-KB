@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Endocannabinoid System and Mind-Body Connection
+## Endocannabinoid System and Mind-Body Connection
 
 The endocannabinoid system (ECS) serves as a critical biological bridge
 between the mind and body, mediating the effects of consciousness, emotion,

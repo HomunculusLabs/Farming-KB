@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Permaculture Earthworks and Water Harvesting
+## Permaculture Earthworks and Water Harvesting
 
 Earthworks are the largest, most permanent changes made to a landscape in [[comparison-swale-vs-contour-line-water-management]]
 - Swale depth: 1-3 feet (depends on rainfall and slope)

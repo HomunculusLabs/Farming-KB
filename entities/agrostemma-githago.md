@@ -16,7 +16,7 @@ sources:
   - Koedam N., et al. (1992). "Mitogenic and antitumor lectins from the seeds of Agrostemma githago." Journal of Biological Chemistry 267(12): 8356-8363.
 ---
 
-# Agrostemma githago (Corncockle)
+## Agrostemma githago (Corncockle)
 
 ## Overview
 

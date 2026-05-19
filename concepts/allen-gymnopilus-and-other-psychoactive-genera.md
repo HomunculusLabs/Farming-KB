@@ -5,11 +5,11 @@ tags: [gymnopilus, inocybe, psychoactive, australia, panaeolus,
   psilocybin, allen, lesser-genera, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
+sources: ["raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md"]
 type: concept
 ---
 
-# Gymnopilus and Other Psychoactive Genera in Australia
+## Gymnopilus and Other Psychoactive Genera in Australia
 
 Beyond the well-known *Psilocybe* and *Copelandia* species, several other
 genera of mushrooms found in Australia and New Zealand contain

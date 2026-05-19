@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Essential Oil Plants updated: 2026-04-18 From: [[mollison-designers-greywater-treatment-reedbeds]] zones where appropriate
+## Essential Oil Plants updated: 2026-04-18 From: [[mollison-designers-greywater-treatment-reedbeds]] zones where appropriate
 - Coordinate with bee forage plantings for mutual benefit
 
 ## Pest Control and Companion Planting Roles

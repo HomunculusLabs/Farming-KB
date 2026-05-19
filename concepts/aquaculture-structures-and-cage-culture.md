@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquaculture Structures and Cage Culture
+## Aquaculture Structures and Cage Culture
 
 The physical structures used within and around aquaculture systems—breeding substrates, rafts, screens, cages, inlets, and outlets—are as important to productivity as the ponds themselves. These "furniture" elements create specialized habitats, enable species management, and dramatically influence the efficiency of both extensive and intensive fish-rearing operations.
 

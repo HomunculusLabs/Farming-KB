@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Database Design for Biodiversity Information
+## Database Design for Biodiversity Information
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] species throughout Thailand.
+## [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] species throughout Thailand.
 
 Psilocybe samuiensis is placed within the genus Psilocybe and belongs
 to the group of tropical and subtropical [[field-guide-psilocybin-bluing-reaction-identification]] is generally more noticeable on

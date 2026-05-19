@@ -9,7 +9,7 @@ sources:
   - "raw/papers/growing-psilocybe-azurescens.md"
   - "raw/papers/growing-the-woodlovers-outdoors.md"
 ---
-# Azurescens Spawn Preparation — Grain to Wood Transfer
+## Azurescens Spawn Preparation — Grain to Wood Transfer
 
 Producing reliable spawn for [[holzer-mushroom-cultivation-outdoor-beds]] is possible but not recommended:
 

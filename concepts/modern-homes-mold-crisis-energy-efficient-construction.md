@@ -1,4 +1,8 @@
-# Modern Energy-Efficient Homes and the Indoor Mold Crisis
+---
+title: "Modern Energy-Efficient Homes and the Indoor Mold Crisis"
+tags:
+  - concept
+---
 
 ---
 created: 2026-05-08

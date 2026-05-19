@@ -22,7 +22,7 @@ sources:
   - Wichtl, M. (2004). Herbal Drugs and Phytopharmaceuticals. 3rd ed. Medpharm Scientific
 ---
 
-# Angelica archangelica
+## Angelica archangelica
 
 **Angelica archangelica**, commonly known as garden angelica, wild celery, or Norwegian angelica, is a tall biennial or short-lived perennial herbaceous plant in the family Apiaceae. Native to the cold [[holzer-medicinal-and-culinary-herbs-compendium]] plants in European herbalism, with a recorded use spanning over 1,500 years. The species has a distinctive sweet, musky-aromatic fragrance and all parts of the plant are utilized in medicine, cuisine, and beverage production.
 

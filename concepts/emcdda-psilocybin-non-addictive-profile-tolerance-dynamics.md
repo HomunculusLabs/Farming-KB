@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [psilocybin, addiction, tolerance, dependence, withdrawal, emcdda, pharmacology]
 ---
-# Psilocybin Non-Addictive Pharmacological Profile and Tolerance Dynamics
+## Psilocybin Non-Addictive Pharmacological Profile and Tolerance Dynamics
 
 The EMCDDA's 2006 thematic paper provides a clear clinical statement
 that psychological and physical dependency does not occur with

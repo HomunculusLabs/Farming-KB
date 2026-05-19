@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Truffle Inoculated Seedlings
+## Truffle Inoculated Seedlings
 
 Truffle inoculated seedlings are young tree seedlings that have been deliberately colonized by truffle fungi (Tuber species) in a controlled nursery environment. These seedlings form the foundation of all [[arbuscular-mycorrhizal-colonization-patterns]], but quality control remains essential because the seedling is the only vehicle for introducing the desired truffle fungus to the orchard site.
 

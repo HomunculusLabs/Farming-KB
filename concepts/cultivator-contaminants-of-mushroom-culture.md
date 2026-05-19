@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# Contaminants of [[streptomyces]]
+## Contaminants of [[streptomyces]]
 - Select [[cultivator-compost-preparation-phase-methods]]
 
 ## Diagnostic Key to Common Contaminants

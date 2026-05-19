@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Amazonian Graded Powers and the Seven Rays of Wisdom
+## Amazonian Graded Powers and the Seven Rays of Wisdom
 
 Vision 49 of Pablo Amaringo's ayahuasca paintings reveals a cosmological framework of graded powers, organized as seven luminous rays ascending from the material to the spiritual. Each ray represents a level of esoteric knowledge accessible to the vegetalista, with specific beings, creatures, and qualities associated with each grade.
 

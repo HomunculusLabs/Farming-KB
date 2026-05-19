@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Sacred Mexican Morning Glories and Ololiuqui
+## Sacred Mexican Morning Glories and Ololiuqui
 
 The sacred Mexican morning glories of two species, *[[ipomoea-violacea]]*, provide Mexican Indians with hallucinogenic seeds. Although
 the morning glory family (Convolvulaceae) includes some 1,700 temperate and

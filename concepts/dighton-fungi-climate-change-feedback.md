@@ -8,7 +8,7 @@ type: concept
 tags: [climate, fungi]
 ---
 
-# Fungi and Climate Change Feedback
+## Fungi and Climate Change Feedback
 
 Dighton (2003) examines how fungi mediate feedbacks between climate change and
 [[dighton-mycorrhizal-diversity-ecosystem-function]] is maintained, favoring species capable of producing

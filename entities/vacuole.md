@@ -5,7 +5,7 @@ type: entity
 tags: [organelle, plant-cell, storage, turgor, tonoplast, water-regulation]
 ---
 
-# Vacuole
+## Vacuole
 
 ## Description
 

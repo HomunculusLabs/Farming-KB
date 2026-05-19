@@ -25,7 +25,7 @@ aliases:
   - 3,3',4',5,7-pentahydroxyflavone
   - 2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-4H-chromen-4-one
 ---
-# Quercetin
+## Quercetin
 
 **Quercetin** (3,3',4',5,7-pentahydroxyflavone) is a plant-derived flavonoid polyphenol and one of the most abundant and extensively studied [[piperine]] (from [[glucuronidation]], potentially increasing quercetin bioavailability
 - **Fats:** Quercetin absorption is enhanced when consumed with dietary fat due to improved micelle formation in the intestine

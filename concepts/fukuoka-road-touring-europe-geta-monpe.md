@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Touring Europe in Geta and Monpe
+## Touring Europe in Geta and Monpe
 
 In 1983, masanobu-fukuoka|Fukuoka traveled to Europe for fifty days. A Greek
 man named Panos and a young Italian woman named Miriam, both

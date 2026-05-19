@@ -5,7 +5,7 @@ created: 2026-05-09
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 ---
 
-# Rectangular Waveguide and [[microwave-surface-sterilization-system-design-nasa-msap-2-45-ghz-trace-water-steam]]
+## Rectangular Waveguide and [[microwave-surface-sterilization-system-design-nasa-msap-2-45-ghz-trace-water-steam]]
 
 ## Overview
 

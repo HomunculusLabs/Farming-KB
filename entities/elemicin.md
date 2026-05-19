@@ -11,7 +11,7 @@ sources:
   - "https://pubchem.ncbi.nlm.nih.gov/compound/Elemicin"
 ---
 
-# Elemicin
+## Elemicin
 Elemicin (elemicine) is a naturally occurring psychoactive
 allylbenzene found in aromatic plants, most notably nutmeg
 ([[pimenta-dioica]] (allspice):** Minor constituent

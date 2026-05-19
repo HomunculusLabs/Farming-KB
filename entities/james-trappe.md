@@ -23,7 +23,7 @@ sources:
 - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
-# James Trappe
+## James Trappe
 
 Prominent American mycologist and world authority on ectomycorrhizal fungi and truffle taxonomy. Affiliated with Oregon State University and the USDA Forest Service, Trappe's decades of research on the symbiotic relationships between fungi and forest trees provide foundational understanding of how [[mycorrhizal-networks]] function in forest ecosystems.
 

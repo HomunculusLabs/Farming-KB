@@ -8,7 +8,7 @@ sources:
   - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md"
 ---
 
-# Cordyceps militaris Cultivation Guide
+## Cordyceps militaris Cultivation Guide
 Cordyceps militaris, the scarlet caterpillar club, is a parasitic fungus that 
 in nature infects the pupae and larvae of Lepidoptera (butterflies and 
 moths). Unlike the famous Ophiocordyceps sinensis, which remains 

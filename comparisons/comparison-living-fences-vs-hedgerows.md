@@ -22,7 +22,7 @@ sources:
 type: comparison
 ---
 
-# Living Fences vs Hedgerows
+## Living Fences vs Hedgerows
 
 comparison living fences vs hedgerows are closely related linear planting systems that share many functions but differ in primary purpose, structure, management intensity, and ecological complexity.
 

@@ -4,7 +4,7 @@ source: mckenna_t-food_of_the_gods.md
 topics: vedic, soma, archaeology, india, entheogens
 ---
 
-# McKenna's Soma Mystery and the Vedic Enigma
+## McKenna's Soma Mystery and the Vedic Enigma
 
 One of the most enduring mysteries in the history of psychoactive
 substances is the identity of Soma — the divine plant sacrament of the

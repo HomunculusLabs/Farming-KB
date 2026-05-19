@@ -5,7 +5,7 @@ source_author: "Nicholas Money"
 topics: ["forensic mycology", "fungal ecology", "decomposition", "Hebeloma", "mycology"]
 ---
 
-# Forensic Mycology: Fungi as Evidence and the Corpse Finder
+## Forensic Mycology: Fungi as Evidence and the Corpse Finder
 
 Fungi play an intimate role in the decomposition of animal remains, and this
 relationship has begun to attract the attention of forensic scientists. The study

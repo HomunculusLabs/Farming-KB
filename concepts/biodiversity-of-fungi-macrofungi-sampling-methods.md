@@ -1,4 +1,8 @@
-# Macrofungi Sampling Methods
+---
+title: "Macrofungi Sampling Methods"
+tags:
+  - concept
+---
 
 Sampling conspicuous macrofungi requires standardized protocols that yield
 quantitative data comparable across sites, seasons, and studies. Mueller et al.

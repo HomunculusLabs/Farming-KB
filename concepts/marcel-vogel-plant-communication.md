@@ -8,7 +8,7 @@ sources: [tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Marcel Vogel and Plant Communication
+## Marcel Vogel and Plant Communication
 
 Marcel Vogel, an IBM research chemist in Los Gatos, California, demonstrated
 that plants can enter into recordable communication with human beings through

@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Yakuruna and the Aquatic Spirit World
+## Yakuruna and the Aquatic Spirit World
 
 ## Overview
 

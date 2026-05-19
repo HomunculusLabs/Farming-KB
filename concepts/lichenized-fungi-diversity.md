@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
-# Lichenized Fungi Diversity
+## Lichenized Fungi Diversity
 ## Overview
 Lichenized fungi (lichens) are symbiotic organisms consisting of a
 fungal partner (mycobiont) and a photosynthetic partner (photobiont:

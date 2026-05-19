@@ -4,7 +4,7 @@ source: mushrooms---poisionous-fungi-by-john-ramsbottom-1945.md
 type: concept
 ---
 
-# Amanita Species (Muscaria, Pantherina, Verna, Virosa, Mappa)
+## Amanita Species (Muscaria, Pantherina, Verna, Virosa, Mappa)
 
 > Comprehensive descriptions of key Amanita and Lepiota species, drawn from
 > John Ramsbottom's *Mushrooms and Toadstools* (1945). These species range

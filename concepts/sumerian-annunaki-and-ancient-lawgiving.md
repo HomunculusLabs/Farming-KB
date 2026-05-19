@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Sumerian Anunnaki and Ancient Lawgiving
+## Sumerian Anunnaki and Ancient Lawgiving
 
 ## Overview
 

@@ -7,7 +7,7 @@ type: concept
 tags: [animals, culture, design, permaculture]
 ---
 
-# Animal Integration in Permaculture Design
+## Animal Integration in Permaculture Design
 
 Animal integration is a fundamental principle of Mollison's
 permaculture design. Rather than treating animals as separate from

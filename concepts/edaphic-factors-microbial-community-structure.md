@@ -4,7 +4,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
 
-# Edaphic Factors and Microbial Community Structure
+## Edaphic Factors and Microbial Community Structure
 
 Edaphic factors — the physical, chemical, and biological properties of soil — are the dominant determinants of microbial community composition in the [[cannabis-root-microbiome]], outweighing the effects of plant genotype and compartment ([[rhizosphere]] vs. endorhiza). Understanding these relationships is critical for managing soil health in agricultural systems.
 

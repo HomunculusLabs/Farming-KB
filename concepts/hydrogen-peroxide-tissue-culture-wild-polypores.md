@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Hydrogen Peroxide Tissue Culture for Wild Polypores
+## Hydrogen Peroxide Tissue Culture for Wild Polypores
 
 [[agar-culture-techniques-detailed]], forcing cultivators to develop specialized
 methods. Hydrogen peroxide treatment is one of the most effective approaches

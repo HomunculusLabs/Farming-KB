@@ -20,7 +20,7 @@ sources:
 - raw/papers/ben-lemon-cannabis-alchemy.md
 ---
 
-# Ben Lemon
+## Ben Lemon
 
 Author of "Cannabis Alchemy" (1979), published under the pseudonym Nicolas Flamel. A foundational text in underground cannabis chemistry that documented solvent extraction, isomerization, THC acetate synthesis, and purification techniques for cannabis oil.
 

@@ -8,7 +8,7 @@ sources:
   - "S.T. Oner - cannabis-sativa Volume 3: The Essential Guide"
 ---
 
-# Cannabis CO2 and Solvent Extraction Techniques
+## Cannabis CO2 and Solvent Extraction Techniques
 
 Solvent-based extraction uses chemical solvents to dissolve cannabinoids and terpenes
 from and recovery material, producing concentrated oils and other products. Oner's

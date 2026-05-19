@@ -9,7 +9,7 @@ type: concept
 tags: [fukuoka, natural-farming, desert-revegetation, seed-balls, clay-pellets, revegetation]
 ---
 
-# Clay Pellet Seed Ball Method for Desert Revegetation
+## Clay Pellet Seed Ball Method for Desert Revegetation
 
 ## Overview
 

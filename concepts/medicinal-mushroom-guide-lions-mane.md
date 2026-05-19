@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, neuroscience, mycology, preparation, 
 sources: []
 ---
 
-# Lion's Mane (Hericium erinaceus)
+## Lion's Mane (Hericium erinaceus)
 
 ## Overview
 

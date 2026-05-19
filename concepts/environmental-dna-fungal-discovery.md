@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, metagenomics, biodiversity, ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
-# Environmental DNA Fungal Discovery Environmental DNA (eDNA) methods have revolutionized the discovery and characterization of fungal biodiversity. By extracting and sequencing DNA directly from environmental samples such as soil, water, air, and plant surfaces, researchers can detect fungi that cannot be observed directly or cultured in the laboratory. These approaches have revealed that the previously known fungal diversity represents only a small fraction of what actually exists in most ecosystems, fundamentally changing our understanding of [[biodiversity-fungi-soil-fungal-communities]]
+## Environmental DNA Fungal Discovery Environmental DNA (eDNA) methods have revolutionized the discovery and characterization of fungal biodiversity. By extracting and sequencing DNA directly from environmental samples such as soil, water, air, and plant surfaces, researchers can detect fungi that cannot be observed directly or cultured in the laboratory. These approaches have revealed that the previously known fungal diversity represents only a small fraction of what actually exists in most ecosystems, fundamentally changing our understanding of [[biodiversity-fungi-soil-fungal-communities]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 

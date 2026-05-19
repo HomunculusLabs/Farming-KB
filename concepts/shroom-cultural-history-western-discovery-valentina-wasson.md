@@ -8,7 +8,7 @@ type: concept
 tags: [history]
 ---
 
-# Western Discovery and the Wassons
+## Western Discovery and the Wassons
 
 ## From "Shroom: A Cultural History of the Magic Mushroom" by Andy Letcher
 

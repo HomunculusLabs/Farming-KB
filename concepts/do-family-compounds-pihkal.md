@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
 
-# DO-Family Compounds in PiHKAL
+## DO-Family Compounds in PiHKAL
 
 **Updated:** 2026-04-18
 

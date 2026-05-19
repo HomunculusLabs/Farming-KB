@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Sampling and Collection Methods for Fungi on Living Plants
+## Sampling and Collection Methods for Fungi on Living Plants
 
 Effective sampling and collection of fungi on living plants requires understanding of ecological sampling theory and practical field techniques. Methods vary depending on host plant type, fungal guild (pathogens, obligate biotrophs, saprobes), and habitat. This page covers quantifying fungal abundance, accessing tree canopies, standard ground-based collection, and special circumstances that complicate fungal surveys.
 

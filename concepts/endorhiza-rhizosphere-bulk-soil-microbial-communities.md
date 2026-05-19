@@ -5,7 +5,7 @@ topics: microbiology, plant-microbe interactions, rhizosphere ecology, endophyte
 created: 2026-05-11
 ---
 
-# Endorhiza, Rhizosphere, and Bulk Soil Microbial Community Differentiation
+## Endorhiza, Rhizosphere, and Bulk Soil Microbial Community Differentiation
 
 ## Overview
 

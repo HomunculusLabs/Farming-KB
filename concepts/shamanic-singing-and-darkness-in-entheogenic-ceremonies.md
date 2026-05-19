@@ -24,7 +24,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Shamanic Singing and Darkness in Entheogenic Ceremonies
+## Shamanic Singing and Darkness in Entheogenic Ceremonies
 
 ## Three Distinctive Features of Shamanic Ceremony
 

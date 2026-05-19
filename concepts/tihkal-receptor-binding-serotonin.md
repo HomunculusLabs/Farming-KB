@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Tryptamine Receptor Binding and the Serotonin System
+## Tryptamine Receptor Binding and the Serotonin System
 
 ## Serotonin as the Central Neurotransmitter
 

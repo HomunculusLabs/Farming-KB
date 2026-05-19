@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between Grain Spawn and Liquid Culture for Mushrooms?
+## What Is the Difference Between Grain Spawn and Liquid Culture for Mushrooms?
 
 ## Short Answer
 Grain spawn is solid-state inoculum made by colonizing sterilized grains like

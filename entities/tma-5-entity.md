@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: []
 ---
-# TMA-5
+## TMA-5
 
 **[[tma-2-entity]]. However, without systematic dose-response studies,
 any conclusions about its relative potency remain speculative.

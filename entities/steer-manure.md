@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: entity
 ---
 
-# Steer Manure
+## Steer Manure
 
 ## Description
 

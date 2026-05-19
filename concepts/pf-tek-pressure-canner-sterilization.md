@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# PF TEK Pressure Canner Sterilization
+## PF TEK Pressure Canner Sterilization
 
 ## Overview
 

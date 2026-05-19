@@ -19,7 +19,7 @@ sources:
     Chapters 1 and 6
 ---
 
-# Spore Discharge Mechanisms in Fungi
+## Spore Discharge Mechanisms in Fungi
 
 ## Overview
 

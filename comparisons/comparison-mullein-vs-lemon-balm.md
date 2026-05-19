@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# Mullein vs Lemon Balm
+## Mullein vs Lemon Balm
 
 ## Overview
 

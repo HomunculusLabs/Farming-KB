@@ -4,7 +4,7 @@ source: The blesching-cannabis-health-index-autoimmune-conditions (Uwe Blesching
 tags: [cannabis, herpes, hsv, antiviral, topical, nerve-pain, cannabinoid, blesching, chi-score, shingles]
 ---
 
-# Cannabis and Herpes
+## Cannabis and Herpes
 
 ## Overview
 

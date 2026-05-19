@@ -8,7 +8,7 @@ sources:
   - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 ---
 
-# Mushroom Container Filling Techniques and Spy Bags
+## Mushroom Container Filling Techniques and Spy Bags
 
 After inoculation, the substrate must be packed into containers properly
 to ensure successful colonization and fruiting. [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]:

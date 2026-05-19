@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Fermentation vs Canning
+## Fermentation vs Canning
 
 ## Overview
 Fermentation and canning are two of the most widely used food

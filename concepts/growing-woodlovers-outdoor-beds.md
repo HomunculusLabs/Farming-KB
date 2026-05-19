@@ -4,7 +4,7 @@ source: growing-the-woodlovers-outdoors.md
 type: concept
 ---
 
-# Growing Woodlovers Outdoors — Wood Chip Bed Cultivation
+## Growing Woodlovers Outdoors — Wood Chip Bed Cultivation
 
 ## Overview
 

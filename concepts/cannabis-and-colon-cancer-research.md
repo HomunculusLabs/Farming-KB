@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - raw/papers/ben-lemon-cannabis-alchemy.md
 ---
-# Cannabis and Colon Cancer (Colorectal)
+## Cannabis and Colon Cancer (Colorectal)
 
 **Source:** The [[blesching-cannabis-irritable-bowel-syndrome]] syndrome, ulcerative colitis, smoking, alcohol, age over 50, male gender, obesity, sedentary lifestyle, and radiation therapy. The U.S. had over 100,000 new colon cancer patients and 50,000+ fatalities from rectal and colon cancer combined in 2010.
 

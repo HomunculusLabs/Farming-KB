@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Sericulture Nature vs Science
+## Sericulture Nature vs Science
 
 Masanobu Fukuoka's analysis of sericulture (silkworm cultivation) illustrates his broader [[hamilton-composting-and-organic-matter-management]] to the soil. They were part of the farm ecosystem, not isolated from it.
 

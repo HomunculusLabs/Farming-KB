@@ -26,7 +26,7 @@ related_concepts:
   - lichen-air-quality-biomonitoring-sampling-protocols
 ---
 
-# Lichen Biology and Ecological Significance
+## Lichen Biology and Ecological Significance
 
 Lichens are composite organisms that arise from symbiotic associations
 between a fungus (the mycobiont) and a photosynthetic partner (the

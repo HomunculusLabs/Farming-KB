@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
-# Hashish Binding Pressing and Storage Techniques
+## Hashish Binding Pressing and Storage Techniques
 
 When producing [[cervantes-hash-cannabis-oil-production]] (iso-hash), the oil-to-plant-material ratio determines whether the product binds together into a solid mass or remains as loose powder. "[[cannabis-hashish-making-methods]] for traditional hashish techniques and [[cannabis-harvest-and-curing]]
 - [[cannabis-hashish-making-methods]]

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Bioregional Congresses and the Concept of a Global Nation
+## Bioregional Congresses and the Concept of a Global Nation
 
 In Permaculture: A Designers' Manual (Chapter 14), Bill Mollison proposes a radical reimagining of international governance built around ecological ethics rather than political power. This concept challenges the legitimacy of the existing United Nations and envisions an alternative global body composed of peoples united by a shared commitment to earth care.
 

@@ -6,7 +6,7 @@ tags: [compost-tea, AACT, brewing, aeration, compost, soil-inoculant, microbial-
 created: 2026-05-08
 ---
 
-# Actively Aerated Compost Tea Brewing
+## Actively Aerated Compost Tea Brewing
 
 Actively Aerated Compost Tea (AACT) is a liquid biological inoculant
 produced by brewing high-quality compost in water with continuous

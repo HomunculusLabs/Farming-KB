@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Casing Soils for Mushroom Cultivation
+## Casing Soils for Mushroom Cultivation
 
 ## Overview and Purpose
 

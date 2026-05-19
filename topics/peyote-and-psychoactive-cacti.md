@@ -26,7 +26,7 @@ related_concepts:
   - "desert-and-arid-lands-permaculture"
 ---
 
-# Peyote and Psychoactive Cacti
+## Peyote and Psychoactive Cacti
 
 ## Introduction
 

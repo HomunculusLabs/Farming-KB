@@ -7,7 +7,7 @@ sources:
   - "raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md"
 ---
 
-# Haze Lineage and Legacy in Modern Breeding
+## Haze Lineage and Legacy in Modern Breeding
 
 The Haze lineage represents one of the most influential genetic families in [[query-how-does-no-till-cannabis-cultivation-work]] worldwide.
 

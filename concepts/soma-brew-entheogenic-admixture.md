@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Soma Brew and Entheogenic Admixtures
+## Soma Brew and Entheogenic Admixtures
 
 ## Overview
 

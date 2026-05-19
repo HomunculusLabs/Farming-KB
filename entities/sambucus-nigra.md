@@ -17,7 +17,7 @@ sources:
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/sambucus-nigra
 ---
 
-# Sambucus nigra
+## Sambucus nigra
 
 **European black elderberry** is a deciduous shrub or small tree in the family Adoxaceae (formerly Caprifoliaceae), native to Europe, northern Africa, and western Asia. Renowned for its clusters of dark purple-black berries and creamy white flower umbels, S. nigra has been a cornerstone of European folk medicine for millennia and has gained modern scientific validation for its antiviral and immune-modulating properties.
 

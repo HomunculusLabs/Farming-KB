@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
-# Fungal Decomposition and Resource Quality Determinants ## Overview The rate at which a resource is decomposed by fungi is dependent on its chemical composition (resource quality), edaphic factors including available moisture and temperature, and the colonization of the resource by appropriate saprotrophic organisms (Heal and Dighton, 1985; Heal et al., 1997). Understanding these determinants is fundamental to predicting [[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-extracellular-enzyme-production]].
+## Fungal Decomposition and Resource Quality Determinants ## Overview The rate at which a resource is decomposed by fungi is dependent on its chemical composition (resource quality), edaphic factors including available moisture and temperature, and the colonization of the resource by appropriate saprotrophic organisms (Heal and Dighton, 1985; Heal et al., 1997). Understanding these determinants is fundamental to predicting [[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-extracellular-enzyme-production]].
 
 In standardized wood decomposition studies, lignocellulase enzyme production did not
 differ between locations in a temperate forest ecosystem. However, the rate of nitrogen

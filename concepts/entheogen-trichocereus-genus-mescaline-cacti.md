@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md, ~/wiki/r
 type: concept
 ---
 
-# Trichocereus Genus Mescaline Cacti
+## Trichocereus Genus Mescaline Cacti
 
 The genus Trichocereus (recently reclassified by many taxonomists into
 Echinopsis) comprises approximately 40 species of columnar cacti native to

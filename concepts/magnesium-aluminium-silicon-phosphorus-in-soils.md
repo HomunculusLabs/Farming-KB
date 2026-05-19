@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Magnesium, Aluminium, Silicon, and Phosphorus in Soils
+## Magnesium, Aluminium, Silicon, and Phosphorus in Soils
 
 ## Overview
 

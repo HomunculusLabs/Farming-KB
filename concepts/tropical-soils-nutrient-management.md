@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Soils and Nutrient Management
+## Tropical Soils and Nutrient Management
 
 ## Overview
 

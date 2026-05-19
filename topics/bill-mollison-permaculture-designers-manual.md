@@ -18,7 +18,7 @@ related_concepts:
   - mollison-designers-climate-change-adaptation-strategies
 ---
 
-# Bill Mollison's Permaculture: A Designers' Manual
+## Bill Mollison's Permaculture: A Designers' Manual
 
 *Permaculture: A Designers' Manual* (1988) is the seminal text of the
 permaculture movement, written by [[bill-mollison]] and published by

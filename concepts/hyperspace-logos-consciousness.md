@@ -15,7 +15,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# Hyperspace, the Logos, and Consciousness
+## Hyperspace, the Logos, and Consciousness
 
 Terence McKenna's framework of hyperspace and the Logos provides an ontological interpretation of the experiences produced by [[tryptamine-hallucinogens]], which "invoke the Logos" by acting directly on the brain's language centers
 - Capable of conveying translinguistic information that cannot be translated into any human language

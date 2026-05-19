@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mushroom-cultivation, trametes-versicolor, turkey-tail, medicinal-mushrooms, polypore]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Turkey Tail Trametes versicolor Cultivation Methods
+## Turkey Tail Trametes versicolor Cultivation Methods
 
 Turkey tail (Trametes versicolor) is one of the most extensively researched
 [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] that resemble wild turkey tail feathers, this polypore produces

@@ -10,7 +10,7 @@ topics:
   - composting
 ---
 
-# Bacteria-Then-Fungi Succession and Humus Formation
+## Bacteria-Then-Fungi Succession and Humus Formation
 
 ## Overview
 

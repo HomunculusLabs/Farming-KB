@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [psilocybin, mushrooms]
 ---
 
-# Psilocybin Toxicity and Safety Profile
+## Psilocybin Toxicity and Safety Profile
 
 Psilocybin and its active metabolite [psilocin are among the safest known psychoactive substances in terms of acute toxicity. The gap between active and lethal doses is enormous, making fatal overdose from psilocybin-containing mushrooms practically impossible in adults. This safety profile, however, does not mean the substances are without risk -- particularly for vulnerable populations such as children and individuals with pre-existing neurological conditions.
 

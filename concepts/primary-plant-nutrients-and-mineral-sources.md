@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Primary Plant Nutrients and Mineral Sources
+## Primary Plant Nutrients and Mineral Sources
 
 ## Overview
 

@@ -15,7 +15,7 @@ sources:
   - Chen, S.B. et al. (2017). "Alkaloid constituents of Thalictrum delavayi." Journal of Natural Products 80(4): 1021-1028.
 ---
 
-# Thalictrum delavayi
+## Thalictrum delavayi
 
 ## Overview
 

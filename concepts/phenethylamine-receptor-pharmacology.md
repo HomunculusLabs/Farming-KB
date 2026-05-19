@@ -7,7 +7,7 @@ tags: [neuroscience, pharmacology, psychopharmacology, psychedelics, receptor-bi
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# Phenethylamine Receptor Pharmacology
+## Phenethylamine Receptor Pharmacology
 
 ## Overview
 

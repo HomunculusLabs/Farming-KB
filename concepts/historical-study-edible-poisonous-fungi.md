@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Historical Study of Edible and Poisonous Fungi
+## Historical Study of Edible and Poisonous Fungi
 
 The systematic study of edible (esculent) and poisonous fungi in the
 United States during the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] represents a fascinating

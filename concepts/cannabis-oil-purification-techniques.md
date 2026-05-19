@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Oil Purification Techniques
+## Cannabis Oil Purification Techniques
 
 After extracting cannabis oil through [[lemon-cannabis-alchemy-advanced-refinement-techniques]] references column chromatography:
 

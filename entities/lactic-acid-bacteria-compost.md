@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: entity
 ---
 
-# Lactic Acid Bacteria in Composting
+## Lactic Acid Bacteria in Composting
 
 ## Description
 

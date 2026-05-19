@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [fungi, taxonomy, chytridiomycota, biodiversity, zoosporic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md']
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md'"]
 type: concept
 ---
 
-# Chytridiomycota Diversity
+## Chytridiomycota Diversity
 
 The Chytridiomycota comprises approximately 800 described
 species of [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], chytrids represent the most

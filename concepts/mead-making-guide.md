@@ -7,7 +7,7 @@ tags: [homesteading, fermentation, food, recipe, preparation, processing, homest
 sources: []
 ---
 
-# Mead Making Guide
+## Mead Making Guide
 
 Mead is the world's oldest fermented beverage -- honey wine made from honey, water, and yeast. It is one of the simplest alcoholic beverages to make at home and is an excellent use for homestead honey. With patience and minimal equipment, you can produce meads ranging from dry and complex to sweet and fruity.
 

@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Precision Seeders for Vegetable Production
+## Precision Seeders for Vegetable Production
 
 Precision seeders are specialized tools that enable vegetable growers to sow multiple rows of seed at exact, consistent spacing, dramatically increasing yields per square foot of valuable greenhouse or field space. In intensive vegetable production systems — particularly for baby-leaf salad crops and root vegetables — [[coleman-precision-seeding-greenhouse-pinpoint-six-row-seeder]] is one of the most impactful investments a grower can make, practically doubling yields compared to single-row or homemade multi-row alternatives.
 

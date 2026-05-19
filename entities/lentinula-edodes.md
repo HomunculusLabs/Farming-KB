@@ -5,10 +5,10 @@ type: species
 tags: [medicinal-mushroom, agaric, immunomodulator, anticancer, culinary-mushroom]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: ["raw/papers/cancer-treatments-medicinal-mushrooms.md"]
 ---
 
-# Lentinula edodes
+## Lentinula edodes
 
 **Lentinula edodes** (Berk.) Pegler, commonly known as **shiitake**, is an edible and medicinal agaric mushroom in the family Omphalotaceae. It is the second most cultivated mushroom worldwide and one of the most thoroughly researched medicinal fungi, with particular importance for its immunomodulatory polysaccharide **lentinan**.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Advanced Earthmoving [[ultra-low-cost-tools-equipment|Low]] ground pressure compared to tracked machinery, reducing soil damage
+## Advanced Earthmoving [[ultra-low-cost-tools-equipment|Low]] ground pressure compared to tracked machinery, reducing soil damage
 - Multiple attachment options (buckets, augers, rakes, trenchers)
 - Suitable for swale maintenance, small pond shaping, and pathway grading
 

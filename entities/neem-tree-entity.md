@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Neem Tree (Azadirachta indica)
+## Neem Tree (Azadirachta indica)
 
 ## Description
 

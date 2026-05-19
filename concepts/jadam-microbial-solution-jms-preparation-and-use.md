@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# JADAM Microbial Solution (JMS) -- Preparation and Use
+## JADAM Microbial Solution (JMS) -- Preparation and Use
 
 ## Overview
 

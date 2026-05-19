@@ -5,7 +5,7 @@ type: concept
 tags: [mycology, mushroom-poisoning, toxicology]
 ---
 
-# Mushroom Foraging Immigrant Poisonings and Paddy Straw Confusion
+## Mushroom Foraging Immigrant Poisonings and Paddy Straw Confusion
 
 ## Overview
 

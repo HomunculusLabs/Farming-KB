@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Photosynthesis and Chlorophyll in Cannabis
+## Photosynthesis and Chlorophyll in Cannabis
 
 Photosynthesis is the fundamental biological process by which
 cannabis plants convert light energy into chemical energy,

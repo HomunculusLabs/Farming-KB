@@ -5,7 +5,7 @@ type: entity
 tags: [person, researcher, mycology, vam, ectomycorrhizal]
 ---
 
-# Efren Cazares (Mycorrhizal Researcher)
+## Efren Cazares (Mycorrhizal Researcher)
 
 ## Description
 

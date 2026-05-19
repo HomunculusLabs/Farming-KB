@@ -11,7 +11,7 @@ sources:
   - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 type: concept
 ---
-# Copelandia and Panaeoloideae 
+## Copelandia and Panaeoloideae 
 
 The Panaeoloideae fungi represent one of the four major groups of
 neurotropic mushrooms, comprising 29 species across three genera:

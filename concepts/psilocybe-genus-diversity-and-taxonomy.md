@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, taxonomy, psilocybe, diversity, classification]
 sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
-# [[neurotropic-fungi-of-mexico]] and [[psilocybin-north-america-pacific-northwest]] species
+## [[neurotropic-fungi-of-mexico]] and [[psilocybin-north-america-pacific-northwest]] species
 - **Section Subaeruginosae:** Australian and New Zealand species
 - **[[psilocybe-mexicana]]*
 together with *P. coprophila*, all identified as *P. coprophila*, in

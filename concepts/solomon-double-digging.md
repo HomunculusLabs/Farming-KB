@@ -8,7 +8,7 @@ tags: [soil-management, organic-gardening, compost, nutrients]
 created: 2026-04-24
 ---
 
-# Double-Digging Bed Preparation Techniques
+## Double-Digging Bed Preparation Techniques
 
 ## Why Rototilling Falls Short
 

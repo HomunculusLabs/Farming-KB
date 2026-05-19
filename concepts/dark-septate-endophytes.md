@@ -1,5 +1,5 @@
 ---
-title: Dark dark-septate-endophytes-root-colonizing-fungi
+title: "Dark Septate Endophytes"
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
-# Dark Septate Endophytes
+## Dark Septate Endophytes
 
 Dark septate endophytes (DSE) are a diverse group of root-colonizing fungi characterized by melanized, septate hyphae that form symbiotic associations with plant roots. They are among the most widespread and abundant root-associated fungi in many ecosystems, yet remain poorly studied compared to mycorrhizal fungi.
 

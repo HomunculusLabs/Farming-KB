@@ -7,7 +7,7 @@ tags: [chemistry, tihkal, 2c-family]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 2C-T-8
+## 2C-T-8
 
 **[[harmaline-entity-tihkal]]
 - [[dmmda-entity]]

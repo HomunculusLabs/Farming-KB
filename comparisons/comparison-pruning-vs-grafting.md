@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Pruning vs Grafting
+## Pruning vs Grafting
 
 ## Overview
 

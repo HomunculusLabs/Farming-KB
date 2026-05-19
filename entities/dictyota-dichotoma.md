@@ -16,7 +16,7 @@ sources:
   - Coll, J.C. et al. (1982). "Natural products chemistry of some marine organisms from the Great Barrier Reef, Australia." Tetrahedron, 38(12), 1745–1752.
 ---
 
-# Dictyota dichotoma
+## Dictyota dichotoma
 
 ## Overview
 

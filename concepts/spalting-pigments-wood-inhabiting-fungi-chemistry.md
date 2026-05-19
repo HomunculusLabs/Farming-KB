@@ -6,7 +6,7 @@ related: ["wood-decay-fungi", "wood-decomposition-by-fungi", "white-rot-fungi"]
 created: 2026-05-09
 ---
 
-# Spalting Pigments and Wood-Inhabiting Fungi Chemistry
+## Spalting Pigments and Wood-Inhabiting Fungi Chemistry
 
 ## Introduction
 

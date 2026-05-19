@@ -8,7 +8,7 @@ sources: [the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
 
-# Microclimate Management Techniques
+## Microclimate Management Techniques
 
 A microclimate is a small area where the climate differs from the surrounding
 region. Through deliberate design using windbreaks, water features, thermal

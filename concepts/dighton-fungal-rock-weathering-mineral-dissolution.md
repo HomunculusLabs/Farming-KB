@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Rock Weathering and Mineral Dissolution
+## Fungal Rock Weathering and Mineral Dissolution
 
 Soils are created by the breakdown of parent rock into mineral particles.
 The surface ionic exchange properties of these particles determine soil

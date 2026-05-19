@@ -22,7 +22,7 @@ sources:
 - raw/papers/chos-global-natural-farming.md
 ---
 
-# Master Cho Han-Kyu
+## Master Cho Han-Kyu
 
 Master Cho Han-Kyu (1935-2018) was a Korean farmer and educator who developed Korean Natural Farming (KNF), a complete agricultural system that uses naturally occurring microorganisms and plant-derived inputs instead of chemical fertilizers and pesticides. He founded the Janong Natural Farming Institute in Korea.
 

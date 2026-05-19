@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Swales
+## Swales
 
 Swales are long, level excavations built on contour that capture, hold, and infiltrate overland water flow into the soil profile. They are among the most important and versatile water-harvesting earthworks in [[mollison-designers-diversion-drains-and-interceptor-banks]] — how swales connect to broader water management systems
 - [[water-storage-tanks]] — for rooftop rainwater capture

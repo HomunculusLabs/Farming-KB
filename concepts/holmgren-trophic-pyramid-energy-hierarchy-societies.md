@@ -20,7 +20,7 @@ summary: >
   design and energy descent futures.
 ---
 
-# Holmgren's Trophic Pyramid Model of Energy Hierarchy in Societies
+## Holmgren's Trophic Pyramid Model of Energy Hierarchy in Societies
 
 ## Overview
 

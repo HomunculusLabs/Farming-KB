@@ -4,7 +4,7 @@ source_type: general_knowledge
 mined_date: 2026-05-08
 tags: [changa, dmt, harmala-alkaloids, enhanced-leaf, smoking, maoi, beta-carbolines, ethnobotany]
 ---
-# Changa — Smokeable DMT-Harmala Herb Blend
+## Changa — Smokeable DMT-Harmala Herb Blend
 
 ## Overview
 

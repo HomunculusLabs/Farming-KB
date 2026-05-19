@@ -4,7 +4,7 @@ source: 2-laminar-flow-hood-construction.md
 type: concept
 ---
 
-# Laminar Flow Hood Blower and Filter Sizing
+## Laminar Flow Hood Blower and Filter Sizing
 
 Selecting the correct blower and [[cannabis-breeding-traits-selection-criteria-clarke]] from a proven DIY build using commercially available European components.
 

@@ -4,7 +4,7 @@ source: jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
 ---
 
-# JADAM Nutrient Cycling — Traditional Farming and Modern Mineral Science
+## JADAM Nutrient Cycling — Traditional Farming and Modern Mineral Science
 
 ## Overview
 

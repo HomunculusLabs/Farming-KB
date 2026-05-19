@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Planting Categories and Keyhole Beds
+## Planting Categories and Keyhole Beds
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: [unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: entity
 ---
 
-# Tricholoma matsutake
+## Tricholoma matsutake
 
 **Type:** Species
 **Category:** Basidiomycete

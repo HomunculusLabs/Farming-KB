@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# What Are Insectary Plants and How Do I Use Them?
+## What Are Insectary Plants and How Do I Use Them?
 
 ## Short Answer
 

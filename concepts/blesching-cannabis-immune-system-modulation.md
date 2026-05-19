@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis and Immune System Modulation
+## Cannabis and Immune System Modulation
 
 ## Overview
 

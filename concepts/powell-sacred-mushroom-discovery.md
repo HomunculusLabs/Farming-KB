@@ -8,7 +8,7 @@ sources: [raw/papers/the-psilocybin-solution-by-simon-g-powell.md]
 type: concept
 ---
 
-# Sacred Mushroom Discovery by Wasson
+## Sacred Mushroom Discovery by Wasson
 
 ## Introduction
 

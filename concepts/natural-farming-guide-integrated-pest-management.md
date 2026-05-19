@@ -8,7 +8,7 @@ type: concept
 tags: [natural-farming]
 ---
 
-# Integrated Pest Management
+## Integrated Pest Management
 
 In permaculture and [[fungal-pest-control]] s, [[parasitic-wasps-biological-pest-control]], bees, and friendly birds. In the Zone 1 garden, dill, fennel, and carrots are specifically left to go to seed to attract parasitic wasps. Yarrow provides ground cover that gives a home to [[jeavons-natural-pest-control]] plants. The flowers prefer dry and somewhat sandy soils. To harvest for use as a [[jadam-natural-pesticide-institute-and-research]], wait for a warm, sunny day when the flowers have been open for a few days. Dry them by hanging upside down or removing the heads and drying in the sun. Store whole in a dark, airtight container. When ready to use, grind into a fine powder and dust or spray (mixed with water) on affected plants. Insects should die almost immediately, without harm to humans.
 

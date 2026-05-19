@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Frontiers in Fungal Ecology Research
+## Frontiers in Fungal Ecology Research
 
 ## Overview
 

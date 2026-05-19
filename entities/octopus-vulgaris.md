@@ -17,7 +17,7 @@ sources:
   - "Boyle, P.R. & Rodhouse, P. (2005). Cephalopods: Ecology and Fisheries. Blackwell Publishing."
 ---
 
-# Common Octopus (*Octopus vulgaris*)
+## Common Octopus (*Octopus vulgaris*)
 
 ## Overview
 

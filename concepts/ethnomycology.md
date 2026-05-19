@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Ethnomycology
+## Ethnomycology
 
 Ethnomycology is the study of the cultural and religious significance of mushrooms, particularly those with consciousness-expanding properties. The term was coined by the late [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] worldwide relied on individuals known by many names — Shaman, Healer, Priest, Mage, Sage, Yogi, or Magician — who served as spiritual leaders. These "plant-knowers" derived their insight, authority, and social power primarily from their understanding of **pharmacopoeia** (the use of plants). The English words "pharmacy" and "pharmacist" derive from this root, which has also been translated as "witchcraft."
 

@@ -7,7 +7,7 @@ type: concept
 tags: [cannabis, sativa, strain-profile, haze-plum-purple-passion, medical-cannabis, stoney-girl-gardens, ptsd, appetite-stimulation, depression, colorful-buds]
 ---
 
-# Haze Plum Purple Passion — Medical Sativa-Dominant Hybrid Strain Profile
+## Haze Plum Purple Passion — Medical Sativa-Dominant Hybrid Strain Profile
 
 ## Overview
 

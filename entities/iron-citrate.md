@@ -5,7 +5,7 @@ type: entity
 tags: [chemical, micronutrient, foliar-spray, iron, chelate]
 ---
 
-# Iron Citrate
+## Iron Citrate
 
 ## Description
 Iron citrate is a chelated form of iron where citric acid binds to iron ions, improving the solubility and bioavailability of iron in soil and foliar applications. It is used as a micronutrient supplement in agriculture and horticulture to address iron deficiency (chlorosis) in plants. In the context of Elaine Ingham's compost tea methodology, iron citrate is mentioned as a foliar nutrient additive that can be combined with compost tea applications. The citrate chelation keeps iron in a plant-available form even under alkaline soil conditions where inorganic iron rapidly becomes unavailable.

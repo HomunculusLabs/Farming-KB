@@ -8,7 +8,7 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
-# Philosophical Implications of Psychedelics
+## Philosophical Implications of Psychedelics
 
 Powell's The [[leary-psychedelic-experience-bardo-mapping]], arguing that entheogenic compounds like psilocybin reveal fundamental truths about the nature of reality, consciousness, and information that are inaccessible through ordinary modes of cognition.
 

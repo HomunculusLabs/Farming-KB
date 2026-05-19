@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Mycorrhizal Contributions to the Terrestrial Carbon Cycle
+## Mycorrhizal Contributions to the Terrestrial Carbon Cycle
 
 ## Overview
 

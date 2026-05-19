@@ -4,7 +4,7 @@ source: mckenna_t-tryptamines_consciousness.md
 author: [[shamanism]], training, initiation, indigenous-knowledge, social-structure]
 ---
 
-# Shamanic Identification, Training, and the Peripheral Social Role
+## Shamanic Identification, Training, and the Peripheral Social Role
 
 ## Signs of Shamanic Calling in Archaic Societies
 

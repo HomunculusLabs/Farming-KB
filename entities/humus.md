@@ -5,7 +5,7 @@ type: entity
 tags: [soil-component, organic-matter, soil-science, fertility]
 ---
 
-# Humus
+## Humus
 
 ## Description
 

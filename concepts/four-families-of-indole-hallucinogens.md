@@ -8,7 +8,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# Four Families of Indole Hallucinogens
+## Four Families of Indole Hallucinogens
 
 ## Overview
 

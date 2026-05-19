@@ -1,3 +1,8 @@
+---
+title: "Dighton Mycorrhizal Drought Tolerance Plant Water Relations"
+tags:
+  - concept
+---
 Source: john dighton fungi in ecosystem processes
 
 [[mycorrhizae]] associations have a
@@ -143,7 +148,3 @@ current understanding and implementation strategies.
 ## See Also
 
 - [[dighton-mycorrhizal-phosphatase-phosphorus-acquisition]]
-- [[dighton-fungal-decomposition-nutrient-cycling]]
-- [[lichens-primary-production-soil-formation-dighton]]
-- [[dighton-ectomycorrhizal-hartig-net-structure-function]]
-- [[dighton-fungal-succession-resource-decomposition]]

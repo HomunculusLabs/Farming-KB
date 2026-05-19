@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [fukuoka, soil-science, no-till, organic-matter]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 type: concept
 ---
 
-# Natural Soil Management Without Chemical Inputs
+## Natural Soil Management Without Chemical Inputs
 
 Fukuoka's approach to soil management challenges the entire premise of
 modern soil science. Rather than analyzing soil chemistry and applying

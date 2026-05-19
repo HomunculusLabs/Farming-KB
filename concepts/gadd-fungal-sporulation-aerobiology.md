@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Sporulation and Aerobiology
+## Fungal Sporulation and Aerobiology
 
 [[ingoldian-aquatic-fungi-and-spore-dispersal]] through the atmosphere represent a critical
 interface between [[environmental-sensing-filamentous-fungi-read]] produce diverse spore types serving different

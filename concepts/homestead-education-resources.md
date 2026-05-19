@@ -13,7 +13,7 @@ sources:
   - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
 ---
 
-# Homestead Education Resources
+## Homestead Education Resources
 
 Homesteading requires knowledge across dozens of disciplines: agriculture, animal husbandry, construction, food preservation, mechanics, ecology, and business. No one is born knowing all of this. Continuous learning is part of the lifestyle. This guide organizes the best educational resources by type and topic.
 

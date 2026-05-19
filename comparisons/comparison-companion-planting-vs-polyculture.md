@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Companion Planting vs Polyculture
+## Companion Planting vs Polyculture
 
 ## Overview
 Companion planting and polyculture both grow multiple plant species together

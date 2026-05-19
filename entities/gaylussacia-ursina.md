@@ -20,7 +20,7 @@ sources:
   - NatureServe Explorer - Gaylussacia ursina
 ---
 
-# Gaylussacia ursina
+## Gaylussacia ursina
 
 ## Taxonomy and Etymology
 

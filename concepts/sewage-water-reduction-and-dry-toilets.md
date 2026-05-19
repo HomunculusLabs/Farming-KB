@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Sewage Water Reduction and Dry Toilets
+## Sewage Water Reduction and Dry Toilets
 
 In modern cities, enormous volumes of clean water are wasted flushing toilets. This represents approximately **40% of domestic water misuse**. Permaculture approaches this problem through multiple strategies: handbasin-to-toilet diversion, low-flush systems, dry toilets, and intelligent greywater management.
 

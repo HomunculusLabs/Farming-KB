@@ -7,7 +7,7 @@ tags: [entheogen, preparation, ethnobotany, africa, psychopharmacology, safety, 
 sources: []
 ---
 
-# Iboga Root Bark Preparation
+## Iboga Root Bark Preparation
 
 ## Overview
 

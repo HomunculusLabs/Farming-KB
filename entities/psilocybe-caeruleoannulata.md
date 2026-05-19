@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe caeruleoannulata
+## Psilocybe caeruleoannulata
 
 **Psilocybe caeruleoannulata** is a psilocybin-containing mushroom species notable for the distinctive blue-colored annular zone on its stipe. The specific epithet *caeruleoannulata* derives from Latin *caeruleus* (deep blue) and *annulatus* (ringed), directly describing this characteristic feature. It is one of the more distinctive *Psilocybe* species due to this striking morphological trait, and is among the relatively few annulate Psilocybe species known from the neotropics.
 

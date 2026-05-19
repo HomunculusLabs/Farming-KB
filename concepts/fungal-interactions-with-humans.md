@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Interactions with Humans
+## Fungal Interactions with Humans
 
 Human activities increasingly affect fungal diversity, activity, [[fungal-biodiversity-and-ecosystem-function]]. This concept explores the multifaceted interactions between anthropogenic environmental changes and fungal-mediated processes, focusing on acidifying pollutants, heavy metals, radionuclides, and elevated atmospheric CO₂.
 

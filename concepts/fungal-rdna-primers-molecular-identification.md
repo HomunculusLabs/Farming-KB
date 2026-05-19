@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Ribosomal DNA Primers and Molecular Identification
+## Fungal Ribosomal DNA Primers and Molecular Identification
 Ribosomal DNA (rDNA) is the most widely used [[fungal-biodiversity-assessment-methods]]. The ribosomal RNA
 gene cluster in fungi contains conserved and variable regions that enable
 identification at multiple taxonomic levels.

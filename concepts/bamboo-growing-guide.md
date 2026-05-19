@@ -7,7 +7,7 @@ tags: [cultivation, plants, design, permaculture, water-management]
 sources: []
 ---
 
-# Bamboo Growing Guide
+## Bamboo Growing Guide
 
 Bamboo is among the fastest-growing plants on Earth, capable of adding 24-36 inches per day during peak growth. It provides poles, edible shoots, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], privacy screens, [[exotic-plantations-soil-aggregates-and-carbon-sequestration]]. However, its aggressive spreading habit demands careful planning and containment, especially with running varieties.
 

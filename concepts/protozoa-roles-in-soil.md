@@ -9,7 +9,7 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
 ---
 
-# Protozoa Roles in Soil
+## Protozoa Roles in Soil
 
 Updated: 2026-04-18
 

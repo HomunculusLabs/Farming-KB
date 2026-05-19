@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Home Gardens
+## Desert Home Gardens
 
 Desert home gardens are a primary strategy for relieving malnutrition and achieving food self-reliance in arid regions. In drylands, gardens — not field crops — are the mainstay against famine. Garden leaf, fruit, and root products require little cooking (saving energy), contain essential minerals and vitamins, and can make every family food self-reliant. This contrasts sharply with cereals and grain legumes, which demand more processing and resources.
 

@@ -4,7 +4,7 @@ source: Fungi in the Environment (Gadd, Watkinson, Dyer)
 topics: [fungal-biomineralization, metal-immobilization, heavy-metal, mycoremediation, biosorption, oxalate, carbonate, phosphate]
 ---
 
-# Fungal Metal Immobilization and Biomineralization
+## Fungal Metal Immobilization and Biomineralization
 
 Fungi possess remarkable abilities to transform soluble toxic metal ions into
 insoluble mineral forms through biomineralization. This process converts

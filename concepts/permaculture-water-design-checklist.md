@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Water Design Checklist
+## Permaculture Water Design Checklist
 
 The water design checklist is a comprehensive framework for assessing, planning, and implementing [[permaculture-plants-aquatic-systems-water-plants|plants]] or trees without irrigation. This reduces long-term water demand and creates resilient landscapes.
 

@@ -34,7 +34,7 @@ related_concepts:
   - seed-starting-and-transplanting
 ---
 
-# Seed Saving and Plant Breeding
+## Seed Saving and Plant Breeding
 
 Seed saving is among the oldest human technologies, predating agriculture itself. For roughly ten thousand years, every farming family on Earth selected the best plants from each harvest and reserved their seeds for the following season. This continuous cycle of selection, adaptation, and stewardship created the extraordinary diversity of crop varieties that fed humanity until the [[solomon-vegetable-varieties-self-sufficiency]] have been lost since the mid-twentieth century. Seed saving represents both a practical skill and a political act, offering individuals and communities a path toward food sovereignty and resilience that is independent of industrial supply chains.
 

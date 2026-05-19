@@ -1,5 +1,10 @@
+---
+title: "Serotonin Psilocybin Structural Relationship Hallucinogenic Mechanism"
+tags:
+  - concept
+---
 
-# [[serotonin]] psilocybin structural relationship hallucinogenic mechanism between serotonin (5-hydroxy magic-mushroom-british-underground-1970s' is probably caused by their interference with the normal actions of brain serotonin." This structural mimicry is the key to understanding why these plant-derived compounds can profoundly alter human consciousness.
+## [[serotonin]] psilocybin structural relationship hallucinogenic mechanism between serotonin (5-hydroxy magic-mushroom-british-underground-1970s' is probably caused by their interference with the normal actions of brain serotonin." This structural mimicry is the key to understanding why these plant-derived compounds can profoundly alter human consciousness.
 
 ## Structural Comparison
 

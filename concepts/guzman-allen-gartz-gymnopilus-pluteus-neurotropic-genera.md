@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Gymnopilus and Pluteus as Neurotropic Genera
+## Gymnopilus and Pluteus as Neurotropic Genera
 
 Among the non-Psilocybe genera containing neurotropic species,
 Gymnopilus and Pluteus represent two of the most significant

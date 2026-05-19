@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Protozoa in Mulch and Nutrient Cycling
+## Protozoa in Mulch and Nutrient Cycling
 
 ## Overview
 

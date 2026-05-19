@@ -6,7 +6,7 @@ topics: ["mushroom-cultivation", "spore-prints", "sterile-technique", "mycology"
 aliases: ["spore print technique", "mushroom spore collection", "sterile spore printing"]
 ---
 
-# Boil-a-Bag Spore Print Technique
+## Boil-a-Bag Spore Print Technique
 
 ## Overview
 

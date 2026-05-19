@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Flood Plain Design and Riparian Forestry
+## Flood Plain Design and Riparian Forestry
 
 Flood plains and riparian zones—the interfaces between rivers and their surrounding landscapes—are among the most dynamic and productive environments in [[permaculture-design]]. They present unique challenges due to periodic inundation, but also offer extraordinary opportunities for food production, material harvesting, and [[water-management]] when designed with an understanding of natural flood dynamics.
 

@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Plant Pathogens and Climate Change
+## Fungal Plant Pathogens and Climate Change
 
 ## Overview
 

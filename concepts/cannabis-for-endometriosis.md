@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for Endometriosis
+## Cannabis for Endometriosis
 
 The endometrium is the interior lining of the uterus, governed by hormonal changes. Endometriosis is a proliferation of interior cells outside the uterus. Displaced cells continue to respond to hormonal changes and behave as they would inside the uterus; however, without an easy exit they remain, causing growth and adhesions that can be extremely painful.
 

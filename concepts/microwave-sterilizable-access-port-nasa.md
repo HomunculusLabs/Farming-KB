@@ -8,7 +8,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 created: 2026-05-10
 ---
 
-# Microwave Sterilizable Access Port (MSAP)
+## Microwave Sterilizable Access Port (MSAP)
 
 ## Overview
 

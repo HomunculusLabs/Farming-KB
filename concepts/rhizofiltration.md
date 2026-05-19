@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Rhizofiltration
+## Rhizofiltration
 
 Rhizofiltration is a phytoremediation technology that uses plant roots to absorb, adsorb, concentrate, and precipitate contaminants from aqueous solutions. The technique exploits the natural ability of plant root systems to remove heavy metals, radionuclides, and certain organic pollutants from water, including groundwater, surface water, wastewater, and industrial effluents.
 
@@ -33,7 +33,7 @@ Common re phragmites australis alis) is the dominant plant species in most const
 
 ## Merged: Hyperaccumulator Plants
 
-# Hyperaccumulator Plants
+## Hyperaccumulator Plants
 
 Hyperaccumulator plants are species capable of accumulating exceptionally high concentrations of heavy metals and other trace elements in their above-ground tissues without exhibiting toxic effects. These remarkable plants concentrate metals at levels that would be lethal to most other organisms, making them powerful tools for phytoremediation of metal-contaminated soils. The study and application of hyperaccumulator plants represents a convergence of plant physiology, biochemistry, ecology, and environmental engineering.
 

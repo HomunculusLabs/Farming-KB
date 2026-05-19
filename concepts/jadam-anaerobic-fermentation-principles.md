@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Anaerobic Fermentation Principles
+## JADAM Anaerobic Fermentation Principles
 
 Anaerobic fermentation is the core scientific principle behind all [[jadam-liquid-fertilizer]] — JLF production
 - [[jadam-leaf-mold-soil-method]]

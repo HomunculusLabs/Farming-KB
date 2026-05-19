@@ -8,7 +8,7 @@ type: concept
 tags: [cultivation, psilocybin]
 ---
 
-# Gottlieb Psilocybin Cultivation Equipment and Facilities
+## Gottlieb Psilocybin Cultivation Equipment and Facilities
 
 Adam Gottlieb's "The Psilocybin Producer's Guide" (1976) details the
 equipment and facility requirements for both small-scale and large-scale

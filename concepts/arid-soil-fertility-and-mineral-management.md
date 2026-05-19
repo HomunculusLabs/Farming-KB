@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Arid Soil Fertility and [[orthoclase]] feldspar** in granitic parent materials. Over geological time, this process depletes potassium reserves in granitic arid soils, contributing to widespread potassium deficiency in desert regions underlain by granite.
+## Arid Soil Fertility and [[orthoclase]] feldspar** in granitic parent materials. Over geological time, this process depletes potassium reserves in granitic arid soils, contributing to widespread potassium deficiency in desert regions underlain by granite.
 
 ## Fertiliser Use in Arid Areas
 

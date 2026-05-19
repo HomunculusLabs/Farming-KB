@@ -14,7 +14,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Taxonomy
+## Taxonomy
 
 Fusarium solani (Mart.) Sacc. is a soil-inhabiting ascomycete
 fungus
@@ -30,7 +30,7 @@ and saprotrophic strains. F. solani is one of the most widely
 distributed Fusarium species, recovered from soils on every
 continent.
 
-# Overview
+## Overview
 
 Fusarium solani is a cosmopolitan soil fungus recognized
 primarily for

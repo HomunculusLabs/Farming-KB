@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Fiber and Craft Plants for Permaculture
+## Fiber and Craft Plants for Permaculture
 
 Permaculture systems can produce a remarkable range of fibre, craft, and construction materials alongside food. Many [[phragmites-australis]]** (common reed): Used for bags, baskets, matting, sandals, thatching, arrows, spears, and paper
 - **[[broussonetia-papyrifera]]** (paper mulberry): Australian Aborigines made string from bark fibres; bark yields fibre suitable for the [[permaculture-castor-oil-plant]] from seeds (35-55% oil content), used in industry, pharmaceuticals, leather dressing, soap, candles, cosmetics, and textiles.

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Grow Ashwagandha at Home
+## How to Grow Ashwagandha at Home
 
 ## Short Answer
 

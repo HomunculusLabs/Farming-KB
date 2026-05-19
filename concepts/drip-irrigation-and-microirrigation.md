@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Drip Irrigation and Microirrigation
+## Drip Irrigation and Microirrigation
 
 [[drip-irrigation]] and microirrigation are alternatives to overhead sprinklers for garden watering. While they have their advocates, both systems have significant limitations for [[dryland-vegetable-gardening]] that are often overlooked in garden books and product catalogs. Understanding these limitations — as well as the situations where these systems shine — helps gardeners make informed choices.
 

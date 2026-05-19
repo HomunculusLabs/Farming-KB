@@ -8,7 +8,7 @@ type: concept
 tags: [agar, mushroom-cultivation]
 ---
 
-# Soma Controversy and the Fly-Agaric as Divine Mushroom
+## Soma Controversy and the Fly-Agaric as Divine Mushroom
 
 The identity of [[soma-vedic-history]] -- the mysterious god-plant praised throughout the ecstatic hymns of the ancient
 Indian [Rig Veda -- has been one of the great unsolved puzzles of Indology. [Gordon Wasson's claim that Soma was none other than the [fly-agaric mushroom sent shockwaves

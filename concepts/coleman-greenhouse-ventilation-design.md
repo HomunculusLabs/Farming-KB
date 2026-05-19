@@ -16,7 +16,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Greenhouse Ventilation Design for Mobile and Sliding Houses
+## Greenhouse Ventilation Design for Mobile and Sliding Houses
 
 Ventilation is a critical design consideration for greenhouses used in year-round production, but it presents unique challenges for mobile and sliding structures. [[hemenway-cold-air-drainage-and-frost-management]] can blow in directly across the crops at soil level. The openings are closed in the evening.
 

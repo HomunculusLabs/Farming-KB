@@ -2,7 +2,7 @@
 title: Septobasidiales Scale Insect Mutualism
 created: 2026-05-16
 source: unknown-biodiversity-of-fungi.md
-source_path: /Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+source_path: raw/raw/papers/unknown-biodiversity-of-fungi.md
 chunk_id: 106
 chunk_lines: 21201-21400
 tags:
@@ -12,7 +12,7 @@ tags:
   - scale-insects
   - fungal-biodiversity
 ---
-# Septobasidiales Scale Insect Mutualism
+## Septobasidiales Scale Insect Mutualism
 Septobasidiales are fungi specialized on scale insects.
 They are unusual because the association is not simply parasitic.
 A fungal colony may cover an entire scale-insect colony.

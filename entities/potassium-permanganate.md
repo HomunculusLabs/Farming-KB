@@ -5,7 +5,7 @@ type: entity
 tags: [chemical, oxidizer, air-filtration, ethylene-scrubber, space-cultivation]
 ---
 
-# Potassium Permanganate
+## Potassium Permanganate
 
 ## Description
 

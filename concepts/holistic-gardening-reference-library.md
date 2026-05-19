@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Holistic Gardening Reference Library
+## Holistic Gardening Reference Library
 
 ## Overview
 

@@ -33,7 +33,7 @@ related_concepts:
  - jeavons-weed-management
 ---
 
-# Weed Management and Ecological Weed Control
+## Weed Management and Ecological Weed Control
 
 Weeds are among the most persistent challenges in agriculture and
 gardening, yet the way we think about them determines whether they

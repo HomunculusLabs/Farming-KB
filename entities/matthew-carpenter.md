@@ -5,7 +5,7 @@ type: entity
 tags: [person, farmer, tagasaste, new-zealand, forage-systems]
 ---
 
-# Matthew Carpenter
+## Matthew Carpenter
 
 ## Description
 

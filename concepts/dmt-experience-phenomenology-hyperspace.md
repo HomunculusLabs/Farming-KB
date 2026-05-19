@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 ---
 
-# DMT Experience — Phenomenology and Hyperspace
+## DMT Experience — Phenomenology and Hyperspace
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Quack Grass (Weed Indicator)
+## Quack Grass (Weed Indicator)
 
 ## Description
 

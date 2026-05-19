@@ -10,7 +10,7 @@ sources:
 tags: [cannabis, hash, water-extraction, commercial, ice]
 ---
 
-# Washing Machine Hash Production
+## Washing Machine Hash Production
 
 Using an everyday washing machine to make hash saves hours
 of labor when processing large volumes of leaf material.

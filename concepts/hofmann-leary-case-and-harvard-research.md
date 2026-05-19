@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 type: concept
 ---
 
-# The Case of Dr. Leary: Harvard Research and Aftermath
+## The Case of Dr. Leary: Harvard Research and Aftermath
 
 ## Origins: The Mushroom Experience
 

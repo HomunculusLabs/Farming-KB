@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# What Lies Ahead for Modern Agriculture
+## What Lies Ahead for Modern Agriculture
 
 From "The Natural Way of Farming: The Theory" by Masanobu Fukuoka.
 

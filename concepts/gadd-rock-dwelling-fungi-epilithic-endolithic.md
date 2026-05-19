@@ -5,7 +5,7 @@ source_id: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment
 tags: [fungi, geomicrobiology, rock-colonization, epilithic, endolithic, bioweathering, extremophiles, desert-fungi, lichen-fungi]
 created: 2026-05-08
 ---
-# Rock-Dwelling Fungi — Epilithic and Endolithic Colonization
+## Rock-Dwelling Fungi — Epilithic and Endolithic Colonization
 
 Fungi are among the most successful colonizers of rock surfaces and mineral substrates in extreme environments. From hot deserts to polar regions, rock-dwelling fungi (including lichenized and non-lichenized species) establish persistent communities on and within stones, playing crucial roles in [[fungal-hyphae]] within rock pores can accelerate frost wedging by maintaining moisture in microfractures. The cumulative effect of millions of hyphal tips exerting pressure at mineral grain boundaries can produce significant physical disaggregation over time.
 

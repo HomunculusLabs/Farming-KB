@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Does the Nitrogen Cycle Work in a Garden?
+## How Does the Nitrogen Cycle Work in a Garden?
 
 ## Short Answer
 The nitrogen cycle in a garden converts atmospheric nitrogen (N2) into

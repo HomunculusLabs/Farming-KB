@@ -3,7 +3,7 @@ title: "Fukuoka's Complete fukuoka-creating-natural-farm-site-selection-establis
 source: masanobu-fukuoka-the-natural-way-of-farming-the-theory
 topics: natural-farming, weed-ecology, crop-selection, succession, intercropping, polyculture
 ---
-# Weed Succession as a Guide to Crop Selection
+## Weed Succession as a Guide to Crop Selection
 
 ## The Principle
 

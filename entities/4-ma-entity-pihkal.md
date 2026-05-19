@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 4-MA
+## 4-MA
 
 [[det]], distinct after-images, and some parasthesia. I was without any
 > residue by early evening (after 5 hours).

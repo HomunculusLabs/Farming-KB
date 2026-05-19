@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, plant-growth]
 ---
 
-# Cannabis Seedling Care
+## Cannabis Seedling Care
 
 From Greg Green's *The [[maitake-fruiting-body-success-rate-management]] -- out of 10
 seeds only 7-8 may germinate.

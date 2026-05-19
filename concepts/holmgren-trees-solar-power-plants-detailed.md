@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Trees as Nature's Solar Power Plants
+## Trees as Nature's Solar Power Plants
 
 David Holmgren argues that trees are the ultimate development of biological capture
 and storage of [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]].

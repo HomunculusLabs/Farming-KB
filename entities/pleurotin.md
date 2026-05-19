@@ -17,7 +17,7 @@ sources:
   - "Fischer, E. et al. (2014). "Isolation and structure elucidation of pleurotin-type sesquiterpenes." Journal of Natural Products, 77(9), 2075-2080."
 ---
 
-# Pleurotin
+## Pleurotin
 
 ## Overview
 

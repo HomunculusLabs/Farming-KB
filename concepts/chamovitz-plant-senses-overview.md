@@ -1,4 +1,8 @@
-# Chamovitz: Plant Senses Overview — What a Plant Knows
+---
+title: "Chamovitz: Plant Senses Overview — What a Plant Knows"
+tags:
+  - concept
+---
 
 **What a Plant Knows: A Field Guide to the Senses** (2012) by **Daniel Chamovitz** explores how plants perceive and respond to their environment through sophisticated sensory mechanisms that are analogous to — but fundamentally distinct from — human senses. Chamovitz, a **plant geneticist** and former director of the **Manna Center for Plant Biosciences** at **Tel Aviv University**, argues that plants are not passive organisms but active perceivers of light, chemicals, touch, gravity, and more.
 

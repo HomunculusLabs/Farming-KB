@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Mnemonics of Meaning
+## Mnemonics of Meaning
 
 Mnemonics of meaning are pattern-based structures — chants, symbols, mythic
 figures, and temporal frameworks — that encode deep ecological and philosophical

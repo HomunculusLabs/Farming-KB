@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
-# Psychedelic Therapy Set and Setting
+## Psychedelic Therapy Set and Setting
 
 The concept of "[[set-and-setting]]" — first articulated by [[ralph-metzner]], and [[leary-psychedelic-experience-bardo-mapping]]" (1964) — is the foundational principle for safe and productive psychedelic use. Set refers to the user's mindset; setting refers to the physical and social environment. Together, they are more important than the specific substance or dose in determining the quality of the experience.
 

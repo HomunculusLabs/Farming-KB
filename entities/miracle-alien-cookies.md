@@ -16,7 +16,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Miracle Alien Cookies (MAC)
+## Miracle Alien Cookies (MAC)
 
 ## Overview
 

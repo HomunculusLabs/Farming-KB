@@ -17,7 +17,7 @@ sources:
   - Ellison, A.M. et al. (2004). "Carnivorous plants: comparative ecology." Annual Review of Ecology, Evolution, and Systematics, 35, 267-290.
 ---
 
-# Sarracenia georgiana
+## Sarracenia georgiana
 
 ## Overview
 

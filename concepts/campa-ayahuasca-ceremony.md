@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md (lines 1401–1600)
 type: concept
 ---
 
-# Campa (Asháninka) Ayahuasca Ceremony
+## Campa (Asháninka) Ayahuasca Ceremony
 
 The [[campa]] (Asháninka) [[ayahuasca-ceremony]] is a communal nighttime ritual
 practiced in the Peruvian Amazon, centered on the consumption of

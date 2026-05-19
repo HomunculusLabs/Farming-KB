@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Avalanche and Snow Instability
+## Avalanche and Snow Instability
 
 Avalanches are among the most destructive natural forces in mountain and
 highland environments. Understanding snow instability — its triggers, movement

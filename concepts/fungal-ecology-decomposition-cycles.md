@@ -8,7 +8,7 @@ sources:
   - raw/papers/unknown-mycelium-running.md
 ---
 
-# Fungal Ecology — Decomposition Cycles
+## Fungal Ecology — Decomposition Cycles
 
 How fungi drive decomposition, nutrient cycling, and soil formation in ecosystems. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[fungal-ecology]], [[fungal-decomposition]], [[fungal-ecosystem-roles]], and [[soil-food-web-nutrient-cycling]].
 

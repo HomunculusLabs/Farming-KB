@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
 ---
 
-# Psilocybe linearis
+## Psilocybe linearis
 
 *Psilocybe linearis* is a psilocybin-containing mushroom species known from South America.
 It is one of the less frequently collected and studied members of the genus Psilocybe, with a distribution centered in Andean and sub-Andean regions of the continent.

@@ -19,7 +19,7 @@ sources:
 related_concepts: "the-soil-food-web, the-rhizosphere-ecology-and-plant-microbe-interactions, cover-crops-and-green-manures, mycorrhizal-fungi, composting-and-soil-biology, companion-planting-and-polycultures"
 ---
 
-# Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation
+## Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation
 
 ## Introduction
 

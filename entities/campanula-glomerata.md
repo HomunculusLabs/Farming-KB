@@ -15,7 +15,7 @@ sources:
   - Hitchmough, J.D. (2017). "Sowing Beauty." Timber Press.
 ---
 
-# Campanula glomerata
+## Campanula glomerata
 
 ## Overview
 

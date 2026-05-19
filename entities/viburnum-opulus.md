@@ -29,7 +29,7 @@ sources:
   - Hedrick, U.P. (1972). Sturtevant's Edible Plants of the World. Dover Publications
   - Mills, S. & Bone, K. (2005). The Essential Guide to Herbal Safety. Elsevier
 ---
-# Viburnum opulus
+## Viburnum opulus
 **Viburnum opulus**, commonly known as guelder rose, European cranberrybush, cramp bark, or snowball tree, is a deciduous shrub in the family Adoxaceae (formerly Caprifoliaceae). Native to Europe, northern Africa, and central-western Asia, it is widely cultivated as an ornamental for its showy white spring flowers, vibrant red autumn berries, and brilliant fall foliage. The dried bark of the branches — known as **cramp bark** in [[sambucus-nigra]]** (elderberry), which belongs to a different family (Adoxaceae but in a different genus) despite superficially similar flower clusters and fruit appearance.
 ## Botanical Description
 **Growth habit:** Deciduous multi-stemmed shrub, typically 2–5 m (6–16 ft) tall and wide, with a rounded, spreading crown. In favorable conditions, plants can reach 8 m. The growth rate is moderate, with plants gaining 30–60 cm per year under good conditions. Long-lived — specimens over 50 years old are common.

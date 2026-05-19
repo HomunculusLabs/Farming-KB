@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# PF TEK Mushroom Morphology: Aborts, Sporocarps, and Mutants
+## PF TEK Mushroom Morphology: Aborts, Sporocarps, and Mutants
 
 ## Overview
 

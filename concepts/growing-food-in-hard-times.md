@@ -7,7 +7,7 @@ tags: [gardening, homesteading, sustainability, resilience, vegetables, self-suf
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Growing Food in Hard Times
+## Growing Food in Hard Times
 
 The core philosophy of [[steve-solomon]]: producing substantial amounts of nutritious food with minimal purchased inputs, adapted for an era of declining cheap energy and economic instability.
 

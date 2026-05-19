@@ -1,3 +1,8 @@
+---
+title: "Mycelium Running Mushroom Bioaccumulation Heavy Metals Species Guide"
+tags:
+  - concept
+---
 Source: [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]] contaminants from their environments, with bioaccumulation factors ranging from negligible to more than 10,000 times background levels. This capacity has profound implications for ecological remediation and foraging safety.
 
 ## Overview of Heavy Metal Bioaccumulation

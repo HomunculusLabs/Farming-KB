@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Winter Gardening and Season Extension
+## Winter Gardening and Season Extension
 
 Updated: 2026-04-18
 

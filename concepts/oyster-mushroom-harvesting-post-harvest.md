@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, harvesting, post-harvest, pleurotus, storage]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Oyster Mushroom Harvesting and Post-Harvest Handling Proper harvesting technique and post-harvest handling are critical for maximizing oyster mushroom quality, shelf life, and market value in commercial and hobby cultivation. Mushrooms are highly perishable, with respiration rates comparable to leafy vegetables. Delays or improper handling between harvest and cold storage can significantly reduce quality, visual appeal, and marketability. Post-harvest losses in mushroom production can reach 20-40% without proper handling protocols and cold chain management. ## Optimal Harvest Timing ### Maturity Indicators [[mushroom-harvesting-and-post-harvest-handling]]
+## Oyster Mushroom Harvesting and Post-Harvest Handling Proper harvesting technique and post-harvest handling are critical for maximizing oyster mushroom quality, shelf life, and market value in commercial and hobby cultivation. Mushrooms are highly perishable, with respiration rates comparable to leafy vegetables. Delays or improper handling between harvest and cold storage can significantly reduce quality, visual appeal, and marketability. Post-harvest losses in mushroom production can reach 20-40% without proper handling protocols and cold chain management. ## Optimal Harvest Timing ### Maturity Indicators [[mushroom-harvesting-and-post-harvest-handling]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures

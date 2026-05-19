@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Cultural Transition, Modernity, and Mushroom Wisdom
+## Mazatec Cultural Transition, Modernity, and Mushroom Wisdom
 
 The [[mazatec]] mushroom healing tradition exists at a critical juncture between indigenous pre-modern life and the forces of modernization. The shamanic discourses recorded by [[henry-munn]] in Huautla de Jiménez, Oaxaca, reveal a people navigating the transition from neolithic isolation to engagement with modern Mexico, using the ancient mushroom wisdom as a guide for navigating this unprecedented transformation. The tensions between oral tradition and literacy, between cyclical time and linear progress, and between communal existence and individual aspiration are all explored within the framework of the mushroom ceremony.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Village Governance and Public Financing
+## Permaculture Village Governance and Public Financing
 
 The governance and financial systems of a [[permaculture]] village are designed to ensure that common resources are managed for the long-term benefit of all residents, that public services are sustainably funded, and that economic activity within the village generates wealth that stays within the community. These systems draw on proven models from cooperative movements worldwide, particularly the [[mondragon-cooperatives]] of Spain.
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Diversity in Mediterranean Ecosystems Mediterranean-type ecosystems, characterized by hot dry summers and cool wet winters, harbor distinctive fungal communities adapted to pronounced seasonality and periodic drought stress. These ecosystems occur in five Mediterranean climate regions worldwide. [[soil-food-web-nutrient-cycling]] [[fungal-diversity-fire-ecology]] [[fungal-community-assembly]] [[fungal-biodiversity-soil-seasonal]] [[fungal-biodiversity]]
+## Fungal Diversity in Mediterranean Ecosystems Mediterranean-type ecosystems, characterized by hot dry summers and cool wet winters, harbor distinctive fungal communities adapted to pronounced seasonality and periodic drought stress. These ecosystems occur in five Mediterranean climate regions worldwide. [[soil-food-web-nutrient-cycling]] [[fungal-diversity-fire-ecology]] [[fungal-community-assembly]] [[fungal-biodiversity-soil-seasonal]] [[fungal-biodiversity]]
 ## Background and Context
 
 Fungal Diversity in Mediterranean Ecosystems is an important subject that has garnered significant attention

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Evolution of Direct Seeding Rice Barley Succession Method
+## Evolution of Direct Seeding Rice Barley Succession Method
 
 [[fukuoka-no-till-grain-production-method]] without human intervention.
 

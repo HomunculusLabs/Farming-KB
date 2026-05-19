@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# San Pedro Cactus of the Four Winds
+## San Pedro Cactus of the Four Winds
 
 The San Pedro cactus (*[[schultes-peyote-tracks-little-deer]] for the [[schultes-ayahuasca-magic-drink-amazon]] for the Amazonian visionary
   brew with related shamanic flight experiences

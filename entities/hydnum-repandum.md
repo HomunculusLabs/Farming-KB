@@ -5,10 +5,10 @@ type: species
 tags: [basidiomycota, ectomycorrhizal, edible-mushroom, hydnaceae, forest-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Hydnum repandum
+## Hydnum repandum
 
 *Hydnum repandum*, commonly known as the sweet tooth, hedgehog mushroom, or wood hedgehog, is an edible basidiomycete mushroom in the family *Hydnaceae*. It is one of the most distinctive and widely appreciated wild edible mushrooms in Europe and North America, easily recognized by its pale cap and the downward-pointing spines (teeth) on the hymenophore, which replace the gills found in most agaricoid mushrooms. The species forms [[spore-print]]. Microscopically, the basidia are four-spored and clavate, with sterigmata bearing the spores.
 

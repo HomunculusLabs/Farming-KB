@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How do clay seed balls work for natural farming?
+## How do clay seed balls work for natural farming?
 
 ## Short Answer
 Clay seed balls protect seeds inside a small pellet of clay, compost, and sometimes amendments until rainfall and soil contact allow germination.

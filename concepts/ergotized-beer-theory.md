@@ -14,7 +14,7 @@ sources:
   - R. Gordon Wasson, Albert Hofmann, Carl A. P. Ruck (1978). "The the-road-to-eleusis-wasson-hofmann-ruck: Unveiling the Secret of the Mysteries." Harcourt Brace Jovanovich.
 ---
 
-# Ergotized Beer Theory
+## Ergotized Beer Theory
 
 ## Overview
 

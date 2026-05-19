@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, livestock, forage, byproducts, livestock-
 sources: []
 ---
 
-# Sheep Husbandry
+## Sheep Husbandry
 
 Sheep are excellent homestead livestock for meat, wool, and milk production.
 They are natural grazers that convert pasture into protein efficiently, and

@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Marketing and Economics of Small-Scale Winter Produce
+## Marketing and Economics of Small-Scale Winter Produce
 
 The commercial viability of small-scale winter vegetable production depends not only on growing skills but equally on marketing strategy, pricing discipline, and the ability to communicate the superior quality of locally grown, fresh-picked produce. The industrialization of organic agriculture has eroded the word "organic" as a meaningful distinction, shifting the competitive advantage toward **fresh** and **local** — attributes that small farmers are uniquely positioned to deliver.
 

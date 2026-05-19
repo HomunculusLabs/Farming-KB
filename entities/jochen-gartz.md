@@ -24,7 +24,7 @@ sources:
 - raw/papers/the-metabolic-pathway-of-psilocybin-production.md
 ---
 
-# Jochen Gartz
+## Jochen Gartz
 
 German mycologist and chemist known for extensive research on the global distribution, chemistry, and cultural use of psilocybin-containing mushrooms.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Biological Wastewater Treatment
+## Biological Wastewater Treatment
 
 Biological wastewater treatment is a permaculture approach to processing sewage and contaminated water through living systems — plants, microorganisms, and ecological processes — rather than relying on chemical additives or energy-intensive mechanical filtration. Bill Mollison's *Permaculture: A Designers' Manual* presents biological treatment as a productive, energy-yielding alternative to conventional sewage infrastructure, transforming waste into resources for food, fuel, and land rehabilitation.
 

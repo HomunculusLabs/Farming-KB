@@ -6,7 +6,7 @@ type: concept
 tags: [knf, natural-farming, bionutrients, lab, fermentation, microorganisms]
 sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 ---
-# Bionutrients Lab — Lactic Acid Bacteria Serum (LABS)
+## Bionutrients Lab — Lactic Acid Bacteria Serum (LABS)
 
 **Updated:** 2026-04-24
 

@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Fungal Resource Discovery — Biomass Reallocation and Foraging Decisions
+## Fungal Resource Discovery — Biomass Reallocation and Foraging Decisions
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, foraging, species, mycorrhizae, ecology, cultivation, f
 sources: []
 ---
 
-# Truffle Guide
+## Truffle Guide
 
 Truffles are the fruiting bodies of subterranean fungi in the genus Tuber, among the most expensive foods in the world. Unlike any other mushroom, truffles grow entirely underground and are found with the help of trained animals. They form obligate mycorrhizal associations with tree roots and have been prized in European cuisine since Roman times.
 

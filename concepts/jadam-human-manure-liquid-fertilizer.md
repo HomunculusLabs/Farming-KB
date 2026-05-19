@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Human Manure Liquid Fertilizer
+## JADAM Human Manure Liquid Fertilizer
 
 Human excrement and urine are permitted materials under [[jadam-cover-crop-wild-grass-symbiosis]] JLF
 - Excellent replacement for chemical nitrogen fertilizers

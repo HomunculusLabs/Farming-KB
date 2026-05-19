@@ -5,7 +5,7 @@ type: entity
 tags: [people, organic-farming, market-gardening, author]
 ---
 
-# Barbara Damrosch
+## Barbara Damrosch
 
 ## Description
 

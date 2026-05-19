@@ -5,7 +5,7 @@ tags: [cannabis, microbiome, endorhiza, cultivar-specificity, post-harvest, root
 source: raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Cannabis Endorhiza Strain-Specificity Persistence Post-Harvest
+## Cannabis Endorhiza Strain-Specificity Persistence Post-Harvest
 
 ## Overview
 

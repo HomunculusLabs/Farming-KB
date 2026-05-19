@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# How Do I Grow Cool-Season Brassicas (Cabbage, Broccoli, Cauliflower, Kale)?
+## How Do I Grow Cool-Season Brassicas (Cabbage, Broccoli, Cauliflower, Kale)?
 
 ## Short Answer
 

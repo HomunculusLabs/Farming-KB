@@ -8,7 +8,7 @@ type: concept
 tags: [history]
 ---
 
-# Dutch Smart Shop and Paddos Trade History
+## Dutch Smart Shop and Paddos Trade History
 
 ## Origins: Dutch Drug Policy Pragmatism
 

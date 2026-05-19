@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Malt and Malting Process
+## Malt and Malting Process
 
 Malt is the foundation of beer. Without malt, there would be no fermentable sugars for yeast to consume, and beer as we know it would not exist. The malting process transforms raw grain into a form suitable for brewing by triggering the grain's natural germination process, then stopping it at precisely the right moment. Understanding malting is essential for any brewer who wants to work with whole grains.
 

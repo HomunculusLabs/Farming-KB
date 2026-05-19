@@ -11,7 +11,7 @@ sources:
   - Alper, K.R. et al. (2001). "Ibogaine: A Review." The Journal of the American Board of Family Practice.
   - Samorini, G. (1995). "The plants-of-the-gods-tabernanthe-iboga."---
 
-# Iboga (Tabernanthe iboga)
+## Iboga (Tabernanthe iboga)
 
 Iboga is a perennial rainforest shrub native to Central West Africa, particularly Gabon, Cameroon, and the Republic of the Congo. It is the botanical source of ibogaine, a potent psychoactive [[iboga-root-bark-preparation]] has been central to the Bwiti spiritual tradition, where it serves as a sacrament in [[egyptian-pyramid-initiation-rites]], [[ayahuasca-healing-ceremonies-iquitos]], and communal rituals.
 

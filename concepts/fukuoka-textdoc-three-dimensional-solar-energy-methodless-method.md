@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Three-Dimensional Solar Energy and the Methodless Method
+## Three-Dimensional Solar Energy and the Methodless Method
 
 ## The Meaning and Limits of High Yields
 

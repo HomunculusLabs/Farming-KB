@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# The Four Types of Diet from Self-Indulgence to Non-Discrimination
+## The Four Types of Diet from Self-Indulgence to Non-Discrimination
 
 ## Overview
 

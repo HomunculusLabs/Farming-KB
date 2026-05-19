@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Brassinosteroids as Steroidal Phytohormones for Fungal Growth Promotion
+## Brassinosteroids as Steroidal Phytohormones for Fungal Growth Promotion
 
 Brassinosteroids are a class of naturally occurring steroidal plant growth regulators recognized as a distinct group of phytohormones. First identified in higher plants, they have subsequently demonstrated growth-promoting activity in fungal systems as well, suggesting a broader biological role across kingdoms than originally understood. The research by J. Gartz (Institute of Biotechnology, Leipzig), G. Adam, and H.M. Vorbrodt (Institute of Plant Biochemistry, Halle/Saale), published in Naturwissenschaften in 1990, provided the first published evidence that brassinosteroids can significantly accelerate mycelial growth and [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for the multi-step synthesis. The structural similarity between brassinosteroids and animal steroid hormones (such as estrogen, testosterone, progesterone, and cortisol) is notable and biologically significant. Both classes of compounds share the cyclopentanoperhydrophenanthrene (sterane) four-ring system, though their specific substituent patterns and biological targets differ substantially across kingdoms.
 

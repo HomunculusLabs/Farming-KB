@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Aerobic vs Anaerobic Composting
+## Aerobic vs Anaerobic Composting
 
 ## Overview
 

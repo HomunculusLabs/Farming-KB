@@ -13,7 +13,7 @@ sources:
 type: comparison
 ---
 
-# Mycelium Materials vs Synthetic Bioplastics (PLA/PHA)
+## Mycelium Materials vs Synthetic Bioplastics (PLA/PHA)
 
 ## Overview
 

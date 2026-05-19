@@ -22,7 +22,7 @@ related_concepts:
   - ethnobotany-and-sacred-plant-traditions
 ---
 
-# Soma Mystery and Identity
+## Soma Mystery and Identity
 
 Soma is the divine sacrament of the Vedic religion, celebrated in over
 120 hymns of the Rigveda as a plant that conferred immortality, inspired

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"
 ---
-# Tree Daturas (Brugmansia): South American Ethnobotany
+## Tree Daturas (Brugmansia): South American Ethnobotany
 
 Tree daturas (genus Brugmansia) are large, trumpet-flowered shrubs or small trees of the nightshade family whose powerful tropane alkaloids have been used by South American Indians for both medicinal and ceremonial purposes. With their spectacular pendulous flowers and extreme toxicity, tree daturas are among the most visually striking and pharmacologically dangerous of all psychoactive plants.
 

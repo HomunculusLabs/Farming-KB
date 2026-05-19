@@ -7,7 +7,7 @@ tags: [dmt, entities, consciousness, phenomenology, tryptamine, machine-elves, l
 sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 ---
 
-# DMT Entity Encounters and the Logos
+## DMT Entity Encounters and the Logos
 
 ## Overview
 

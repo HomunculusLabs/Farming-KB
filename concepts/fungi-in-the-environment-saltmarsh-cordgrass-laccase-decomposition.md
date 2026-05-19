@@ -17,7 +17,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Saltmarsh Cordgrass Decomposition and Ascomycete Laccases
+## Saltmarsh Cordgrass Decomposition and Ascomycete Laccases
 
 The saltmarshes of the Georgia, USA Atlantic coast are expansive intertidal ecosystems 5-10 km wide extending from barrier islands to the mainland. The predominant macrophyte is smooth cordgrass (*[[singh-fungal-laccase-enzymes-bioremediation]] to break down lignocellulose, challenging the traditional view that only basidiomycetes can perform significant [[gadd-mycelial-network-resilience-grazing-pressure]]:
 

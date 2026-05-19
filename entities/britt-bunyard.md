@@ -8,7 +8,7 @@ categories:
   - publishing
 ---
 
-# Britt Bunyard
+## Britt Bunyard
 
 ## Description
 

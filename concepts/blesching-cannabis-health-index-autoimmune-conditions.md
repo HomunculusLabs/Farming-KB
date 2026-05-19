@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Autoimmune Conditions
+## Autoimmune Conditions
 
 Evidence-based review of cannabis for autoimmune diseases from Blesching's "The Cannabis Health Index" (2015), covering the immune-modulating role of the endocannabinoid system, rheumatoid arthritis, Crohn's disease, multiple sclerosis, fibromyalgia, and the mind-body connection to autoimmune illness.
 

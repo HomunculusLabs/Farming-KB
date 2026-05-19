@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Landscape Effects of Altitude and Valley Climates
+## Landscape Effects of Altitude and Valley Climates
 
 Climate is shaped not only by latitude and proximity to oceans but also dramatically by altitude, slope, and valley geometry. Understanding these landscape-scale effects is essential for [[continental-climate]] is the third major complication on simple temperature-rainfall classifications (after temperature and [[desert-precipitation-patterns-and-opportunistic-ecology]]). After this, only one special factor remains: the effect of hills or mountain ranges on local climate — effects very like latitudinal effects on a global scale.
 

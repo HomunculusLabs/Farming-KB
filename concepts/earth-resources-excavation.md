@@ -5,7 +5,7 @@ type: concept
 chunk_id: 175
 ---
 
-# Earth Resources and Excavation
+## Earth Resources and Excavation
 
 ## Overview
 

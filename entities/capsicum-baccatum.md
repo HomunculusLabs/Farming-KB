@@ -16,7 +16,7 @@ sources:
   - IBPGR (1983). "Descriptors for Capsicum (Capsicum spp.)." International Board for Plant Genetic Resources, Rome.
 ---
 
-# Capsicum baccatum
+## Capsicum baccatum
 
 ## Overview
 

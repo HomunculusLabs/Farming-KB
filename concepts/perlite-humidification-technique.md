@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
 
-# Perlite Humidification Technique
+## Perlite Humidification Technique
 
 The perlite humidification technique is a low-tech, highly effective method for maintaining humidity in [[mushroom-fruiting-chambers]]. Originally popularized through anonymous internet newsgroup posts in the 1990s, it has become one of the most widely used passive humidification methods among home cultivators, particularly those working with the PF Tek method.
 

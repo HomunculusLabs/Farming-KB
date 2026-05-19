@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Heavenly Twins and the Mushroom Hermaphrodite
+## Heavenly Twins and the Mushroom Hermaphrodite
 
 Allegro demonstrates that the widespread "divine twins" motif of ancient mythology — Castor and Pollux, Cain and Abel, the Dioscouroi, Jacob and Esau — derives directly from the mushroom's dual nature as both phallus (stem) and womb (canopy), producing a hermaphroditic deity combining both sexes.
 

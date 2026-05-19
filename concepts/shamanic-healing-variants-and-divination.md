@@ -10,7 +10,7 @@ sources: [raw/papers/metzner-syncretic-entheogenic-folk-ceremonies-community-rit
 tags: [shamanism, healing, divination, entheogens, indigenous-knowledge]
 date: 2026-04-28 5|updated: 2026-04-28 6|sources:
   - metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md 8|--- 9|
-# Shamanic Healing Variants and Divination 11|
+## Shamanic Healing Variants and Divination 11|
 Shamanic [[blesching-cannabis-healing-practices-setting-intention-affirmations]] with hallucinogenic plants across diverse indigenous
 cultures share common [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] while varying in specific methods,
 plant medicines, and ceremonial forms. [[metzner-william-james-radical-empiricism-multiple-consciousness]], after his personal

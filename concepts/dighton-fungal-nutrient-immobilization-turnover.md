@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Nutrient Immobilization and Turnover in Decomposition
+## Fungal Nutrient Immobilization and Turnover in Decomposition
 
 During the course of decomposition, mineral nutrients are sequestered by
 decomposer organisms through incorporation into their biomass. This process of

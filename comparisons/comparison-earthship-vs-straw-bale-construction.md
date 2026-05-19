@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Earthship vs Straw Bale Construction
+## Earthship vs Straw Bale Construction
 
 ## Overview
 

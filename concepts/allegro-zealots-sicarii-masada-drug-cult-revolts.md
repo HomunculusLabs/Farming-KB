@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Zealots, Sicarii, Masada, and the Drug-Cult Revolts
+## Zealots, Sicarii, Masada, and the Drug-Cult Revolts
 
 ## Overview
 

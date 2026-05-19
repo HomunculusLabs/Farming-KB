@@ -18,7 +18,7 @@ source:
   - "indoor mushroom growing technique: boil a bag (jarrold)"
 ---
 
-# Warm Humid Air Delivery Chamber for Cold-Climat [[mushroom-fruiting-environment]] ting requires specific environmental conditions that can be challenging to maintain in cold climates. Mos [[root-cellaring]] old regions, winter indoor temperatures may drop below these ranges, and centr [[mushroom-growing-environments]] wing Technique: Boil a Bag" addresses this challenge with a **warm humid [[warm-humid-air-delivery-chamber-cold-climate-mushroom]] species have different fruiting temperature preferences:
+## Warm Humid Air Delivery Chamber for Cold-Climat [[mushroom-fruiting-environment]] ting requires specific environmental conditions that can be challenging to maintain in cold climates. Mos [[root-cellaring]] old regions, winter indoor temperatures may drop below these ranges, and centr [[mushroom-growing-environments]] wing Technique: Boil a Bag" addresses this challenge with a **warm humid [[warm-humid-air-delivery-chamber-cold-climate-mushroom]] species have different fruiting temperature preferences:
 
 | Species | Optimal Fruiting Range |
 |---------|----------------------|

@@ -4,7 +4,7 @@ source: masanobu-fukuoka-the-road-back-to-nature
 topics: philosophy, natural-farming, spirituality, life-and-death, zen-buddhism
 ---
 
-# Death and the Discontinuous Continuum
+## Death and the Discontinuous Continuum
 
 ## The Interview at Shunjusha
 

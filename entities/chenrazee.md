@@ -5,7 +5,7 @@ type: entity
 tags: [deity, bodhisattva, buddhism, tibetan, compassion]
 ---
 
-# Chenrazee (Avalokiteshvara)
+## Chenrazee (Avalokiteshvara)
 
 ## Description
 Chenrazee (Tibetan name for Avalokiteshvara, also known as Chenrezig) is the Bodhisattva of Compassion, one of the most revered figures in Tibetan Buddhism. In *The Psychedelic Experience*, Chenrazee appears as a companion to Amitabbha in the Third Vision of the Second Bardo, embodying mercy and compassion — "the great pitier ever on the lookout to discover distress and to succour the troubled."

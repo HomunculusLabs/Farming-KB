@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Seed Germination Standards and Testing
+## Seed Germination Standards and Testing
 
 Germination percentage is the single most important quality indicator for seed, yet most home gardeners have no access to this information. Understanding germination standards, how they are (and are not) enforced, and how to test your own seed can save entire crops from failure.
 

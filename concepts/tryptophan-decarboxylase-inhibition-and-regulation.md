@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [biochemistry, enzymology, decarboxylase, regulation, tryptamine]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md]
+sources: ["raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md"]
 type: concept
 ---
 
-# Tryptophan Decarboxylase Inhibition and Regulation
+## Tryptophan Decarboxylase Inhibition and Regulation
 
 [[tryptophan-decarboxylase]] (TDC) is the enzyme that catalyzes the
 decarboxylation of L-[[tryptophan]] to tryptamine, serving as the

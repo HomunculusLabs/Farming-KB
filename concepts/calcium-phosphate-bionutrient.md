@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Calcium Phosphate Bionutrient
+## Calcium Phosphate Bionutrient
 
 Calcium phosphate is a critical bionutrient in [[cannabis-vegetative-growth-stage]] Period:** The plant focuses on building leaves, stems, and root mass. Nitrogen is the critical nutrient during this phase.
 

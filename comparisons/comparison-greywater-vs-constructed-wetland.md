@@ -9,7 +9,7 @@ sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
 type: comparison
 ---
-# Greywater Systems vs Constructed Wetlands
+## Greywater Systems vs Constructed Wetlands
 ## Overview
 Greywater systems and constructed wetlands both recycle household
 wastewater ecologically, but they differ in scale, treatment intensity,

@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# MDBZ (N-Benzyl-MDA; 3,4-Methylenedioxy-N-benzylamphetamine)
+## MDBZ (N-Benzyl-MDA; 3,4-Methylenedioxy-N-benzylamphetamine)
 
 MDBZ is a substituted amphetamine compound and the N-benzyl derivative of [[fentanyl]], where replacement of the phenethyl group on the nitrogen with a benzyl group virtually eliminates analgesic potency.
 

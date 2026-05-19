@@ -7,7 +7,7 @@ sources: linda-chalker-scott-the-informed-gardener
 tags: [garden-myths, weeds, pests, integrated-pest-management, horticulture, debunking]
 ---
 
-# Garden Myths About Weeds and Pest Management
+## Garden Myths About Weeds and Pest Management
 
 Weed and pest management practices are among the most myth-saturated areas of horticulture. Many widely recommended practices either do not work as claimed or create additional problems. Understanding the science behind weed and pest ecology leads to more effective and environmentally responsible management.
 

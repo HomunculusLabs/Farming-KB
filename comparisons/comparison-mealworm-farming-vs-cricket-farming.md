@@ -16,7 +16,7 @@ sources:
 type: comparison
 ---
 
-# Mealworm Farming vs Cricket Farming
+## Mealworm Farming vs Cricket Farming
 
 Mealworms (*Tenebrio molitor*) and crickets (primarily *Acheta domesticus* and *Gryllodes sigillatus*) are the two most commercially established insect farming systems worldwide. Both offer compelling advantages as alternative protein sources, but they differ significantly in biology, economics, and operational requirements.
 

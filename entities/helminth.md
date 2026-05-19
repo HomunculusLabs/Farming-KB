@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Helminth (Parasitic Worms)
+## Helminth (Parasitic Worms)
 
 ## Description
 

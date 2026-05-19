@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Integrated Pest Management for Organic Gardens
+## What Is Integrated Pest Management for Organic Gardens
 
 ## Short Answer
 Integrated Pest Management (IPM) is an ecosystem-based strategy that combines

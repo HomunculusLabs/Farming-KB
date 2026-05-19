@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Use Wood Chips in Your Garden
+## How to Use Wood Chips in Your Garden
 
 ## Short Answer
 Wood chips are one of the most effective [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] can transform depleted soil into rich, dark,

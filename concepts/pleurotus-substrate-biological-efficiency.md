@@ -8,7 +8,7 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
 
-# Pleurotus Substrate and Biological Efficiency
+## Pleurotus Substrate and Biological Efficiency
 
 Biological efficiency (BE) is the standard metric for evaluating
 substrate performance in [[fungi-cultivated-mushrooms-pathogens-competitors]] in terms of substrate

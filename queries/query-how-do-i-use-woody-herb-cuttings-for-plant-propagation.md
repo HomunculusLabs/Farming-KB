@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Use Woody Herb Cuttings for Plant Propagation?
+## How Do I Use Woody Herb Cuttings for Plant Propagation?
 
 Propagating woody herbs from cuttings is one of the most reliable and cost-effective ways to expand your garden. Unlike soft-stemmed annual herbs like basil or cilantro, woody perennial herbs such as rosemary, lavender, thyme, sage, oregano, and bay laurel develop stiff, semi-hardened stems that require specific techniques to root successfully. Mastering woody cuttings lets you clone your best-performing plants and preserve exact genetic copies of medicinal or culinary specimens.
 

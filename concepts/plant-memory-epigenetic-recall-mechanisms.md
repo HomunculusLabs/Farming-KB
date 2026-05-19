@@ -6,7 +6,7 @@ type: concept
 tags: [plant-memory, epigenetics, vernalization, cold-stratification, phytochrome-memory, priming, chamovitz]
 ---
 
-# Plant Memory and Epigenetic Recall Mechanisms
+## Plant Memory and Epigenetic Recall Mechanisms
 
 ## Overview
 

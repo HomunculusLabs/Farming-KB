@@ -12,7 +12,7 @@ sources:
 created: 2026-05-07
 ---
 
-# ACDC (Cannabis Strain)
+## ACDC (Cannabis Strain)
 
 ## Overview
 

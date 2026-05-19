@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/teaming-with-fungi-lowenfels.md"
 ---
-# Ectomycorrhizae and Forest Life
+## Ectomycorrhizae and Forest Life
 
 [[mycorrhizal-fungi]], and the resulting [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], ectomycorrhizal spores can survive forest fires by forming durable spore banks that reside in the soil until conditions are right for germination. Many shrub species sprout rapidly after fire and sustain mycorrhizal populations until regenerating trees can reconnect to the mycorrhizal-signaling-strigolactones-myc-factors used by [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. The [[arbuscular-mycorrhizal-network-visualization-anastomosis]] are heavier and require water, animals, or deliberate inoculation for distribution.
 

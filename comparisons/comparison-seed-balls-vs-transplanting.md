@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Seed Balls vs Transplanting
+## Seed Balls vs Transplanting
 
 ## Overview
 Seed balls and transplanting represent two fundamentally different

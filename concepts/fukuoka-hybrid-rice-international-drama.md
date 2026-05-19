@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Hybrid Rice International Drama
+## Fukuoka Hybrid Rice International Drama
 
 The [[fukuoka-seed-war-rice-weapon]], [[fukuoka-critique-green-revolution]], [[fukuoka-spider-ecosystem-drama-rice-fields]]
 ## Background and Context

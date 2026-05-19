@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Building Soil
+## Building Soil
 
 Building soil is the foundation of ecological gardening. Rather than
 importing fertility in bags and bottles, ecological gardeners create

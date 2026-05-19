@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Green Grass Liquid Fertilizer (GGLF)
+## Green Grass Liquid Fertilizer (GGLF)
 
 **Updated:** 2026-04-18
 

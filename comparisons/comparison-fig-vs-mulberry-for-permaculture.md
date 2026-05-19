@@ -1,7 +1,7 @@
 ---
 
 ---
-# Fig vs Mulberry for Permaculture
+## Fig vs Mulberry for Permaculture
 
 Figs (*Ficus carica*) and mulberries (*Morus spp.*) are two of the most productive and low-maintenance fruit trees available to the permaculture designer. Both produce abundant, delicious fruit with minimal care, support wildlife, and integrate well into food forest systems. This comparison covers their key differences to help you [[dighton-fungal-drought-tolerance-plant-water-relations]]** | High once established | Moderate to high |
 | **Pest/disease resistance** | Very good; fig beetle can be an issue | Excellent; few serious pests |

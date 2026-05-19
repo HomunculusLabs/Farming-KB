@@ -21,7 +21,7 @@ sources:
   - Jeavons, J. (2012). How to Grow More Vegetables. 8th ed. Ten Speed Press.
 ---
 
-# Daikon Radish (Raphanus sativus var. longipinnatus)
+## Daikon Radish (Raphanus sativus var. longipinnatus)
 
 **[[daikon-radish]]** (*[[raphanus-sativus]]* var. *longipinnatus*), also known as **forage radish**, **tillage radish**, **oilseed radish**, or **Japanese radish**, is a large-rooted annual or biennial plant in the family Brassicaceae. Native to East Asia, it has been cultivated for over 2,000 years as a food crop and, more recently, has gained widespread recognition in permaculture, [[nutrient-dynamic-accumulator-reference]].
 

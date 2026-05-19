@@ -10,7 +10,7 @@ sources:
   - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 ---
 
-# Geoffrey M. Gadd
+## Geoffrey M. Gadd
 
 British mycologist, professor at the University of Dundee, and leading researcher on fungal interactions with metals, minerals, and the environment. Gadd is one of the most cited researchers in geomycology — the study of fungal interactions with geological substrates.
 

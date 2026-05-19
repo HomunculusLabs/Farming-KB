@@ -6,7 +6,7 @@ tags: [microbiome, rhizosphere, two-tier-selection, plant-microbe-interactions, 
 aliases: [Two-Tier Model Root Microbiome, Rhizosphere Selection Model]
 ---
 
-# Two-Tier Selection Model of Rhizosphere Microbiome Assembly
+## Two-Tier Selection Model of Rhizosphere Microbiome Assembly
 
 The two-tier selection model describes how root-associated [[winston-cannabis-microbiome-study-design]] of Winston et al.
 (2014), provides a framework for understanding the relative contributions of

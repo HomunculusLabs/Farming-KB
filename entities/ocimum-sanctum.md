@@ -17,7 +17,7 @@ sources:
   - Pattanayak, P. et al. (2010). "Ocimum sanctum Linn.: A Review on Its Phytochemical and Pharmacological Profile." Pharmacognosy Reviews, 4(8), 95-103.
 ---
 
-# Ocimum sanctum
+## Ocimum sanctum
 
 ## Overview
 

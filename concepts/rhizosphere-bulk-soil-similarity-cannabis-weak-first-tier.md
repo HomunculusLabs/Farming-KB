@@ -6,7 +6,7 @@ source: [understanding-cultivar-specificity-cannabis-microbiome]
 created: 2026-05-10
 ---
 
-# Rhizosphere-Bulk Soil Similarity in Cannabis: The Weak First Tier
+## Rhizosphere-Bulk Soil Similarity in Cannabis: The Weak First Tier
 
 ## Overview
 

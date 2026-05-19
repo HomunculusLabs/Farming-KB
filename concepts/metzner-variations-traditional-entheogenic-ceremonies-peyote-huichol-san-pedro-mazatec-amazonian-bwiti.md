@@ -5,7 +5,7 @@ author: Ralph Metzner
 topics: [shamanism, ceremony, peyote, ayahuasca, san-pedro, mazatec, bwiti, indigenous-practice]
 ---
 
-# Variations on Traditional Entheogenic Ceremonies: Peyote, Huichol, San Pedro, Mazatec, Amazonian, and Bwiti Ritual Forms
+## Variations on Traditional Entheogenic Ceremonies: Peyote, Huichol, San Pedro, Mazatec, Amazonian, and Bwiti Ritual Forms
 
 ## Three Distinctive Features of Traditional Ceremonies
 

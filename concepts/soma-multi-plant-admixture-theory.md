@@ -6,7 +6,7 @@ type: concept
 sources: arthur-j-mushrooms-and-mankind.md
 tags: [reference]
 ---
-# Soma Multi-Plant Admixture Theory
+## Soma Multi-Plant Admixture Theory
 
 James Arthur's "[[mckenna-search-for-soma-vedic-enigma]]'s botanical identity has produced several compelling but ultimately unsatisfying candidates. [[mao-inhibitors-and-psychedelics]] that parallel the function of pinoline — a natural MAO inhibitor produced by the [[wasson-brough-soma-debate]] centred partly on these textual
 ambiguities, with Brough arguing for an Ephedra-based identification

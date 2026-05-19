@@ -1,4 +1,8 @@
-# Fukuoka on Mite and Scale Control Through Microclimate Management
+---
+title: "Fukuoka on Mite and Scale Control Through Microclimate Management"
+tags:
+  - concept
+---
 
 **Source:** [[stamets-growing-room-air-circulation-co2-management]], temperature, and humidity — rather than applying
 [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]], mites, cottony-cushion

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mycotoxins
+## Mycotoxins
 
 Mycotoxins are toxic [[ectomycorrhizal-mushroom-fruiting-ecology]] bodies. While
 mushroom toxins are produced by differentiated fruiting structures,

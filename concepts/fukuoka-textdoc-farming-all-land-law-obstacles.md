@@ -20,7 +20,7 @@ sources:
 type: concept
 ---
 
-# Farming for All: Land Availability and Legal Obstacles
+## Farming for All: Land Availability and Legal Obstacles
 
 Fukuoka's "Farming for All" program envisions a society where every person has the opportunity and the right to return to the land and farm. He identifies two primary obstacles to this vision: the internal barrier of people's own insufficient resolve, and the external barrier of laws and inflated land prices that make farmland inaccessible to those who wish to work it.
 

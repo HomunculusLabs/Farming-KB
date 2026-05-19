@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Oomycetes and Straminipiles
+## Oomycetes and Straminipiles
 
 The Oomycetes (Class Peronosporomycetes) and their allies in the
 Straminipila (Heterokonta) are fungus-like organisms that have

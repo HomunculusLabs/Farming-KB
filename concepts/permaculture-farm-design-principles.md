@@ -4,10 +4,10 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [permaculture, design]
-sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: ["raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"]
 ---
 
-# Permaculture Farm Design Principles
+## Permaculture Farm Design Principles
 
 Updated: 2026-04-18
 

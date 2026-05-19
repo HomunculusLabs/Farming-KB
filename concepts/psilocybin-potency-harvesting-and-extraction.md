@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
 
-# Psilocybin [[psilocybin-mushroom-harvesting-potency]], [[psilocybin-mushroom-potency-and-harvesting]], and Alcohol Extraction
+## Psilocybin [[psilocybin-mushroom-harvesting-potency]], [[psilocybin-mushroom-potency-and-harvesting]], and Alcohol Extraction
 
 ## Overview
 

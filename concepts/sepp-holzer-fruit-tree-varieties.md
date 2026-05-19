@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Sepp Holzer Fruit Tree Varieties for Mountain Climates
+## Sepp Holzer Fruit Tree Varieties for Mountain Climates
 
 Updated: 2026-04-18
 

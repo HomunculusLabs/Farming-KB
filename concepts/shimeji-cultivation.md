@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, cultivation, indoor, species, food, asia]
 sources: []
 ---
 
-# Shimeji Cultivation Guide (Hypsizygus tessulatus)
+## Shimeji Cultivation Guide (Hypsizygus tessulatus)
 
 Shimeji refers to a group of cultivated mushrooms in the genus Hypsizygus, primarily H. tessulatus (also known as H. marmoreus), which includes both brown (Buna-shimeji) and white (Hakata-shimeji or Bunapi) varieties. Shimeji is a premium mushroom in Japanese cuisine and one of the most commercially important cultivated mushrooms in East Asia.
 

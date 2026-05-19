@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# beta-D
+## beta-D
 
 [[permaculture]]-cycles-and-niches-in-time to save the world.
 >

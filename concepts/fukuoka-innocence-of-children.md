@@ -30,7 +30,7 @@ This observation connects to [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[fukuoka-nature-god-limits-of-knowledge]]
 ## Merged: Purposelessness of Life and the Innocence of Children
 
-# Purposelessness of Life and the Innocence of Children
+## Purposelessness of Life and the Innocence of Children
 
 In the philosophical dialogues of [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what

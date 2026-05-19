@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Essential Plant Elements — Hydrogen, Boron, Carbon, and Nitrogen
+## Essential Plant Elements — Hydrogen, Boron, Carbon, and Nitrogen
 
 ## Overview
 

@@ -6,7 +6,7 @@ created: 2026-05-08
 tags: [microbiology, diversity, cannabis, rhizosphere, endorhiza, alpha-diversity, beta-diversity]
 ---
 
-# Alpha and Beta Diversity in Cannabis Root Microbiomes
+## Alpha and Beta Diversity in Cannabis Root Microbiomes
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [species, animal, soil-biology, aeration, north-american, grassland]
 ---
 
-# Prairie Dog Ecological Role
+## Prairie Dog Ecological Role
 
 ## Description
 

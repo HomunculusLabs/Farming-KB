@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi, adaptations, ecology, environmental-gradients]
 sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
-# Fungal Adaptations to Environmental Gradients
+## Fungal Adaptations to Environmental Gradients
 
 Fungi occupy virtually every habitat on Earth, thriving across gradients
 of temperature, pH, water availability, salinity, and nutrient

@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Beneficial Herbs and Garden Nutrition
+## Beneficial Herbs and Garden Nutrition
 
 [[comparison-stinging-nettle-vs-horsetail]]** ([[permaculture-designers-manual-essential-oil-plants]] content in many herbs,
 stimulates [[valeriana-officinalis]]) helps most vegetables, stimulates

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-essential-psychedelic-guide-by-dimitri-turner.md"
 ---
 
-# Harmala Alkaloid Potentiation Signature Effects
+## Harmala Alkaloid Potentiation Signature Effects
 
 ## Overview
 

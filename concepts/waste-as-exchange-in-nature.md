@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Waste as Exchange in Nature
+## Waste as Exchange in Nature
 
 The concept of waste as exchange emerges from [[david-holmgren]]'s [[permaculture]] framework, bridging **Principle 5** (Use and Value Renewable Resources and Services) and **Principle 6** (Produce No Waste). At its core, this idea challenges the human tendency to see "waste" as a natural, inevitable category.
 

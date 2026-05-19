@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 4-TASB
+## 4-TASB
 
 [[jadam-ambient-temperature-principle]] for 3 h, the dark solution was added to 300 mL H2O
 containing sodium dithionite. Shaking immediately discharged the

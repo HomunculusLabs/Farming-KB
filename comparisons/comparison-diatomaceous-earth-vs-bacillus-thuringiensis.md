@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# Diatomaceous Earth vs Bacillus Thuringiensis
+## Diatomaceous Earth vs Bacillus Thuringiensis
 
 ## Overview
 

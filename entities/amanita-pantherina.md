@@ -5,10 +5,10 @@ type: species
 tags: [amanita, ibotenic-acid, muscimol, toxic, entheogenic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Amanita pantherina
+## Amanita pantherina
 
 **Panther Cap** | *Amanita pantherina* (DC.) Krombh.
 

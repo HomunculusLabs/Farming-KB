@@ -6,7 +6,7 @@ tags: [DMT, tryptamine, chemistry, pharmacology, endogenous, serotonin]
 created: 2026-05-08
 ---
 
-# DMT as a Hallucinogen
+## DMT as a Hallucinogen
 
 ## Overview
 

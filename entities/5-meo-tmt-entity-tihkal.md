@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 5-MeO-TMT (Indapex) — TIHKAL #45
+## 5-MeO-TMT (Indapex) — TIHKAL #45
 
 ## Compound Identity
 

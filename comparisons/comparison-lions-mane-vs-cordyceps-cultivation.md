@@ -15,7 +15,7 @@ sources:
 type: comparison
 ---
 
-# Lion's Mane vs Cordyceps Cultivation
+## Lion's Mane vs Cordyceps Cultivation
 
 ## Overview
 

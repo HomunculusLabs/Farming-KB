@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What is the difference between a hedgerow and a windbreak?
+## What is the difference between a hedgerow and a windbreak?
 
 ## Short Answer
 

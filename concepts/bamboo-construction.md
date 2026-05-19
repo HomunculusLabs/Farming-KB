@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Permaculture Bamboo Construction
+## Permaculture Bamboo Construction
 
 Permaculture bamboo construction is the use of bamboo as a structural and functional [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] systems. Bamboo is one of the most versatile and rapidly renewable [[permplant-willows-salix-erosion-control-fodder]].
 

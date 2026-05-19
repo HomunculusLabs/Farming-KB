@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Microbial Fuel Cells and Fungal Electrogenesis
+## Microbial Fuel Cells and Fungal Electrogenesis
 
 Microbial fuel cells (MFCs) represent an emerging bioelectrochemical technology
 that harnesses the [[antifungal-secondary-metabolites-coprophilous-fungi]]

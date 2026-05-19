@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Pine Rot Ecosystem Collapse Chain
+## Pine Rot Ecosystem Collapse Chain
 
 ## Overview
 

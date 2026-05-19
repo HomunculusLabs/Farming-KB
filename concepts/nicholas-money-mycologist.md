@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Nicholas Money (Mycologist)
+## Nicholas Money (Mycologist)
 
 Nicholas P. Money is a British-American mycologist and science writer
 known for his engaging popular science books about fungi. He is a

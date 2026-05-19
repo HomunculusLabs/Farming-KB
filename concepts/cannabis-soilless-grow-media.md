@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Soilless Grow Media
+## Cannabis Soilless Grow Media
 
 Soilless growing media are artificial or mineral-based substrates used to support cannabis plants in hydroponic and container growing systems. Unlike soil, these media provide physical support and moisture retention but contain little to no inherent nutritional value, requiring all nutrients to be delivered through fertigation. The selection of growing medium significantly impacts root health, water management, and overall plant performance.
 

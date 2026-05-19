@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profil
 sources: []
 ---
 
-# King Tubercake (Pleurotus tuber-regium)
+## King Tubercake (Pleurotus tuber-regium)
 
 ## Overview
 

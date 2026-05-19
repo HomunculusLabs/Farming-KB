@@ -7,7 +7,7 @@ sources:
   - understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Microbial Terroir and Crop-Specificity
+## Microbial Terroir and Crop-Specificity
 
 Microbial terroir refers to the concept that the specific microbial communities
 associated with a crop plant contribute to its localized characteristics in

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Erosion and Rehabilitation
+## Soil Erosion and Rehabilitation
 
 ## Overview
 

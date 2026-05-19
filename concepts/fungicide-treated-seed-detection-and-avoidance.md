@@ -1,4 +1,8 @@
-# Fungicide-Treated Seed: Detection and Avoidance in Substrate Preparation
+---
+title: "Fungicide-Treated Seed: Detection and Avoidance in Substrate Preparation"
+tags:
+  - concept
+---
 
 ## Overview
 

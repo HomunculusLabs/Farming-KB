@@ -9,7 +9,7 @@ type: concept
 tags: [soil]
 ---
 
-# Solomon Soil Testing and Interpretation for Low-Input Gardens
+## Solomon Soil Testing and Interpretation for Low-Input Gardens
 
 In "Gardening When It Counts," [[soil-testing-and-analysis]] reports and calculating lime
 equivalents based on CEC ([[dry-gardening-unirrigated-vegetable-production-solomon]], so applying it regardless

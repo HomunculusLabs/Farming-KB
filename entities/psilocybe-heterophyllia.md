@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, neotropical, saprotrophic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md]
+sources: ["raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"]
 ---
 
-# Psilocybe heterophyllia
+## Psilocybe heterophyllia
 
 **Psilocybe heterophyllia** is a psilocybin-containing mushroom species in the family Hymenogastraceae, described from subtropical and tropical regions of the Americas. It is a relatively obscure member of the genus, known from limited collections in Central and South American forest habitats.
 

@@ -6,7 +6,7 @@ updated: 2026-05-11
 sources: []
 ---
 
-# Lion's Mane vs Maitake
+## Lion's Mane vs Maitake
 
 ## Overview
 

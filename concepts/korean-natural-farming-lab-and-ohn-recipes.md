@@ -7,7 +7,7 @@ tags: [agriculture, homesteading]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# Korean Natural Farming LAB and OHN Recipes
+## Korean Natural Farming LAB and OHN Recipes
 
 Lactic Acid Bacteria (LAB) and [[permaculture-plants-medicinal-herbs-healing]].
 

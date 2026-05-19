@@ -7,7 +7,7 @@ created: 2026-05-02
 updated: 2026-05-06
 sources: []
 ---
-# Hemoglobin vs Myoglobin
+## Hemoglobin vs Myoglobin
 Hemoglobin and myoglobin are related heme proteins that bind oxygen, but they solve different physiological problems.
 Hemoglobin transports oxygen through the blood from respiratory surfaces to tissues.
 Myoglobin stores and buffers oxygen inside muscle cells.

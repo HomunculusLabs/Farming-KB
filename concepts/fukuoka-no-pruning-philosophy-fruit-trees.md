@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# No-Pruning Philosophy for Fruit Trees
+## No-Pruning Philosophy for Fruit Trees
 
 updated: 2026-04-18
 

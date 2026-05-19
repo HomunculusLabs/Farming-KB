@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Ken Watt (Ecology)
+## Ken Watt (Ecology)
 
 ## Description
 

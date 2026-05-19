@@ -24,7 +24,7 @@ sources:
   - sterilizing-surfaces-by-irradiation-with-microwaves.md
 ---
 
-# Microwave Surface Sterilization System Design and Efficacy
+## Microwave Surface Sterilization System Design and Efficacy
 
 NASA's Lyndon B. Johnson Space Center developed a microwave-based surface sterilization system (MSC-22484) to solve a persistent problem in aerospace biology: the lack of a reliable means of sterilizing mating fixtures for accessing biologically sensitive systems, including Environmental Control and Life Support System (ECLSS) waters and flight experiments. The resulting [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]] without the drawbacks of conventional sterilization methods.
 

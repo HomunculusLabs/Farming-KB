@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Glycerol (Culture Preservation)
+## Glycerol (Culture Preservation)
 
 ## Description
 Glycerol (also known as glycerin) is a cryoprotectant chemical used in [[mycology]] to protect mushroom [[mycelium]] cells from rupture due to ice crystal formation during freezing. It is an essential component of long-term culture preservation protocols, enabling cultivators to maintain living libraries of mushroom strains almost indefinitely when properly applied.

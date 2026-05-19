@@ -8,7 +8,7 @@ sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
-# Permaculture Principle 9 — Use Small and Slow Solutions
+## Permaculture Principle 9 — Use Small and Slow Solutions
 
 The ninth of David Holmgren's twelve permaculture design principles. Systems should be designed to perform functions at the smallest scale that is practical and energy-efficient. "Slow and steady wins the race" reflects a common truth in nature and society.
 

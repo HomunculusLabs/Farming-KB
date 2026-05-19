@@ -5,7 +5,7 @@ type: entity
 tags: [secret-society, organization, esoteric, history]
 ---
 
-# Freemasonry
+## Freemasonry
 
 ## Description
 

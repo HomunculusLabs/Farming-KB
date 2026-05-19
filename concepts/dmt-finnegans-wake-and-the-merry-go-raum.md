@@ -20,7 +20,7 @@ sources:
 created: 2026-05-07
 ---
 
-# DMT, Finnegans Wake, and the Merry Go Raum
+## DMT, Finnegans Wake, and the Merry Go Raum
 
 ## Joyce as Cartographer of Hyperspace
 

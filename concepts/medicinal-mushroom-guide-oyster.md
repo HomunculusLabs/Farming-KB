@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profil
 sources: []
 ---
 
-# Oyster Mushroom (Pleurotus ostreatus)
+## Oyster Mushroom (Pleurotus ostreatus)
 
 ## Overview
 

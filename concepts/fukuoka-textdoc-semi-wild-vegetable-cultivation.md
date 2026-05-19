@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Semi-Wild Vegetable Cultivation Methods
+## Semi-Wild Vegetable Cultivation Methods
 
 Fukuoka's approach to [[vegetable-seed-and-transplant-guide]]
 in fields, orchards, on earthen levees, or on any open, unused land. For most vegetables,

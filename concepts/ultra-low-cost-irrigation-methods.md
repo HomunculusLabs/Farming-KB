@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Ultra-Low-Cost Irrigation Methods
+## Ultra-Low-Cost Irrigation Methods
 
 ## Water as the Foundation of Farming
 

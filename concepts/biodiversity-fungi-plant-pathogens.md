@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [fungi, pathology, plant-disease, biodiversity, ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md']
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md'"]
 type: concept
 ---
 
-# Fungal Pathogens of Plants
+## Fungal Pathogens of Plants
 
 Fungal pathogens of plants represent one of the most
 economically and ecologically significant groups of fungi,

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Anaerobic Digestion and Biogas Production
+## Anaerobic Digestion and Biogas Production
 
 Anaerobic digestion is a biological process that breaks down organic matter in the absence of oxygen, producing biogas (primarily methane and carbon dioxide) as a byproduct. In [[permaculture]] designs, several principles apply:
 

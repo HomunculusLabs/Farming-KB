@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Tabernanthe iboga Baill.
+## Tabernanthe iboga Baill.
 
 **Common names:** Iboga, Eboka
 

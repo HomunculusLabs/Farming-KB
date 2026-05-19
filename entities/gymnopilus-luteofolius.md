@@ -9,7 +9,7 @@ sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 
-# Gymnopilus luteofolius
+## Gymnopilus luteofolius
 
 **Gymnopilus luteofolius** (Peck) Hesler is a [[psilocybin]]. It is one
 of several *Gymnopilus* species known to produce indole alkaloids and is

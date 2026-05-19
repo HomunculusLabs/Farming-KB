@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Nitrogen Availability in Legume Plants
+## Nitrogen Availability in Legume Plants
 
 A widespread misconception in gardening is that legumes generously share
 their nitrogen with neighboring plants during the [[cannabis-growth-stage-checklist]]. Understanding when and how nitrogen becomes

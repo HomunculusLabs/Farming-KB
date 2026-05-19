@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Terrace Design and Construction
+## Terrace Design and Construction
 
 Terraces are among the most powerful tools in permaculture for converting slopes into productive, stable, and accessible growing systems. By creating level or gently graded platforms on hillsides, terraces eliminate the problems of erosion, water runoff, and difficult access that make steep land challenging for agriculture. Mollison considered terracing an essential component of landscape design in any region with significant slope, particularly in tropical and high-rainfall environments.
 

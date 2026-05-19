@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Water Transport Pathways in Plants
+## Water Transport Pathways in Plants
 
 Water is the source of life, and plants have evolved elegant, multi-pathway systems to move it throughout their structures. Understanding how water and dissolved nutrients travel through a plant — from soil to leaf, from source to sink — is fundamental to grasping plant physiology and garden health.
 

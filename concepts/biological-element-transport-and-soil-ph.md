@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Biological Element Transport and Soil pH Management
+## Biological Element Transport and Soil pH Management
 
 ## Overview
 

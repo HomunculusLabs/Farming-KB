@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# What Are Cannabis Concentrates and How Are They Made?
+## What Are Cannabis Concentrates and How Are They Made?
 
 ## Short Answer
 

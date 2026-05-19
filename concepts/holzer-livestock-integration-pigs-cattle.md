@@ -9,7 +9,7 @@ type: concept
 tags: [animal-husbandry, holzer]
 ---
 
-# Holzer Livestock Integration (Pigs and Cattle)
+## Holzer Livestock Integration (Pigs and Cattle)
 
 Livestock play an integral role in [[goat-cattle-integration]]
 

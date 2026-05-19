@@ -1,4 +1,8 @@
-# Forest and Bamboo Beneficial Microorganisms
+---
+title: "Forest and Bamboo Beneficial Microorganisms"
+tags:
+  - concept
+---
 
 [[building-soil]] microbial diversity.
 

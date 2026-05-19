@@ -7,7 +7,7 @@ tags: [mycoremediation, biology, soil, pollution]
 sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 ---
 
-# Singh PAH Biodegradation by Fungi in Soils and Bioreactors
+## Singh PAH Biodegradation by Fungi in Soils and Bioreactors
 #mycoremediation #pah #soil-remediation #bioremediation #white-rot-fungi
 
 Updated: 2026-04-18

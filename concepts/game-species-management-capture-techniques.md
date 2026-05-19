@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Game Species Management and Capture Techniques
+## Game Species Management and Capture Techniques
 
 Managed [[wildlife-farming-and-game-management]] represents a productive alternative to conventional livestock, potentially integrating 40–80 species of birds, mammals, fish, and lower vertebrates in polyculture systems that exceed single-species yields while actually improving tree and prairie cover.
 

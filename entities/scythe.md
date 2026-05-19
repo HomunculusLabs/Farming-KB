@@ -5,7 +5,7 @@ type: entity
 tags: [tools, harvesting, weed-control, organic-farming]
 ---
 
-# Scythe
+## Scythe
 
 ## Description
 

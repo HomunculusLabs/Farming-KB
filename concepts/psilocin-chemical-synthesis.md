@@ -1,4 +1,8 @@
-# Psilocin and Psilocybin Chemical Synthesis
+---
+title: "Psilocin and Psilocybin Chemical Synthesis"
+tags:
+  - concept
+---
 
 ## Overview
 The chemical synthesis of psilocin (4-hydroxy-N,N-dimethyltryptamine) and

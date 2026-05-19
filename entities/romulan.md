@@ -28,7 +28,7 @@ sources:
   - SeedFinder strain database. "Romulan." seedfinder.eu.
 ---
 
-# Romulan
+## Romulan
 
 ## Overview
 

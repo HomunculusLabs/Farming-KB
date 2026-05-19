@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Compost Unnecessary Philosophy
+## Fukuoka Compost Unnecessary Philosophy
 
 Updated: 2026-04-19
 

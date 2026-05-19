@@ -8,7 +8,7 @@ sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
-# Herbal Poultices and Compresses
+## Herbal Poultices and Compresses
 
 Poultices and compresses are among the oldest and most direct forms of herbal medicine application. They involve applying plant material (fresh or dried) directly to the skin to deliver medicinal compounds locally for wounds, inflammation, infections, sprains, and other conditions. These preparations are simple, effective, require minimal equipment, and can be made from plants growing wild or in the garden.
 

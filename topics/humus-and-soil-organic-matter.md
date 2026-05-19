@@ -35,7 +35,7 @@ related_concepts:
   - "living-soil-cannabis-cultivation"
 ---
 
-# Humus and Soil Organic Matter
+## Humus and Soil Organic Matter
 
 ## Introduction
 

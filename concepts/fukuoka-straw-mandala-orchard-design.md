@@ -8,7 +8,7 @@ type: concept
 tags: [design, fukuoka, orchard]
 ---
 
-# Fukuoka's Mandala Orchard Design
+## Fukuoka's Mandala Orchard Design
 
 ## The Orchard as a Complete Ecosystem
 

@@ -5,7 +5,7 @@ type: entity
 tags: [economics, community, permaculture, loans, regional-economy, revolving-fund]
 ---
 
-# S.H.A.R.E. (Self Help Association for a Regional Economy)
+## S.H.A.R.E. (Self Help Association for a Regional Economy)
 
 ## Description
 

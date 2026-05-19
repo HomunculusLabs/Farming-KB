@@ -7,7 +7,7 @@ tags: [fungal-ecology, mycology, ecology, forest-floor, decomposition, nutrient-
 sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 
-# Fungal Ecology on the Forest Floor
+## Fungal Ecology on the Forest Floor
 
 Fungi are the primary decomposers in forest ecosystems, playing an indispensable role in nutrient cycling, soil formation, and plant community dynamics. The forest floor is, in many ways, a fungal landscape.
 

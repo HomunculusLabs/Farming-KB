@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Plant Cell Structure and Organelles
+## Plant Cell Structure and Organelles
 
 The plant cell is the fundamental unit of plant life and the stage upon which all [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]], regulating what enters the plant's vascular system.
 

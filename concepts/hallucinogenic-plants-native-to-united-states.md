@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Plants Native to the United States
+## Hallucinogenic Plants Native to the United States
 
 Many hallucinogenic and dissociative agents can be obtained from plants
 and fungi growing wild or in gardens across the United States. This

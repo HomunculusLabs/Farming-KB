@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Contaminant Identification and Prevention
+## Mushroom Contaminant Identification and Prevention
 
 ## Overview
 

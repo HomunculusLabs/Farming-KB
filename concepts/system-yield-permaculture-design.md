@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# System Yield in Permaculture Design
+## System Yield in Permaculture Design
 
 System yield in [[humus]], biomass, thermal mass, and other energy reserves.
 

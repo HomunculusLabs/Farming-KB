@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis-autoimmune-conditions-detailed
+title: "Cannabis Autoimmune Conditions"
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/blesching-cannabis-pain-management.md"
 ---
-# Cannabis for Autoimmune Conditions
+## Cannabis for Autoimmune Conditions
 
 Autoimmune diseases occur when the body's immune system mistakenly attacks its own tissues. The endocannabinoid system plays a crucial role in [[blesching-cannabis-prostate-cancer-chi-value-3]]: Very high (26+ studies)
 

@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# [[psilocybin-north-america-pacific-northwest]], South America, Asia, and the Southern
+## [[psilocybin-north-america-pacific-northwest]], South America, Asia, and the Southern
 Hemisphere, making it a remarkable case study in fungal biogeography.
 
 ## Taxonomic Background

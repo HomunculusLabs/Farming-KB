@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Root Pruning and Rootbound Management
+## Root Pruning and Rootbound Management
 
 Root pruning and managing rootbound plants are essential skills for
 maintaining [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] grows. [[cervantes-pruning-training]] aboveground can balance the temporary

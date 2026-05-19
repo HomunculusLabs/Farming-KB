@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Hydroponic Cannabis Cultivation
+## Hydroponic Cannabis Cultivation
 
 Hydroponics is the science of growing plants without soil, most often in a soilless mix. In cannabis cultivation, [[cannabis-nutrient-solution-preparation]] of fertilizer diluted in water. This solution passes over or floods around roots at regular intervals, then drains off. The extra oxygen trapped in the soilless medium and around the roots speeds nutrient uptake by tiny root hairs. Cannabis grows fast hydroponically because it is able to take in food as fast as it can be used.
 

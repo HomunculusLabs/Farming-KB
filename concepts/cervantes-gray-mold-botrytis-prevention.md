@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Gray Mold (Botrytis) Prevention on Cannabis
+## Gray Mold (Botrytis) Prevention on Cannabis
 
 Gray mold, caused by the fungus Botrytis cinerea, is the most
 common and destructive [[cervantes-root-rot-pythium-damping-off]] in seedlings and

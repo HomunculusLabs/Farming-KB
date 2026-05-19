@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# Nabilone
+## Nabilone
 
 **Type:** Chemical / Pharmaceutical / Synthetic Cannabinoid
 **Category:** FDA-approved synthetic cannabinoid

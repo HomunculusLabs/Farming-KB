@@ -7,7 +7,7 @@ tags: [agriculture, regenerative, cover-crop, nutrient-cycling, soil, plant-syst
 sources: []
 ---
 
-# Crop Rotation Principles
+## Crop Rotation Principles
 
 Crop rotation is the practice of growing different types of crops in sequential seasons on the same land. It is one of the oldest and most effective agricultural practices, reducing pest pressure, breaking disease cycles, balancing nutrient demands, and improving soil health.
 

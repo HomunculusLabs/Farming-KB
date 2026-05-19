@@ -1,4 +1,8 @@
-# European Hallucinogenic Mushroom Prevalence and Demographic Patterns
+---
+title: "European Hallucinogenic Mushroom Prevalence and Demographic Patterns"
+tags:
+  - concept
+---
 
 The prevalence of [[weil-cultural-attitudes-toward-altered-states]] drug use, and access through [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] are considerably lower than those for cannabis, the most widely used illicit drug. However, lifetime prevalence estimates for mushroom use appear to equal those for ecstasy among young people in some countries, making [[psilocybe-bohemica]] grow naturally).
 

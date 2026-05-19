@@ -10,7 +10,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Campa Ayahuasca Ceremony and the Shaman-Priest Transition
+## Campa Ayahuasca Ceremony and the Shaman-Priest Transition
 
 The Campa Indians of eastern Peru use ayahuasca in a ceremony that may illuminate how **priests originally developed from shamans**.
 

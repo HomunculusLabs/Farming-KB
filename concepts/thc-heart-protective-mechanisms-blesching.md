@@ -4,7 +4,7 @@ source: uwe-blesching-the-cannabis-health-index
 tags: [thc, cardiovascular, heart, cardioprotection, cb1, nitric-oxide, bronchodilation]
 ---
 
-# THC Heart-Protective Mechanisms and Cardiovascular Pharmacology
+## THC Heart-Protective Mechanisms and Cardiovascular Pharmacology
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Seed Starting Indoors (Solomon)
+## Seed Starting Indoors (Solomon)
 
 Updated: 2026-04-18
 

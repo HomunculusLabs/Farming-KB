@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# ARIADNE (4C-DOM, Dimoxamine)
+## ARIADNE (4C-DOM, Dimoxamine)
 
 **[[optical-isomers-psychedelic-phenethylamines]]:
 - "S" isomer via (+)-2beta-nitrotartranilic acid salt

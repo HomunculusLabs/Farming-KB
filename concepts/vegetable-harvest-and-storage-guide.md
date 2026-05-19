@@ -8,7 +8,7 @@ sources:
   - Purdue University Cooperative Extension Service — Home Gardener's Guide
 ---
 
-# Vegetable Harvest and Storage Guide
+## Vegetable Harvest and Storage Guide
 
 Proper harvesting at the right stage of maturity ensures high-quality,
 nutritious vegetables from the home garden and prevents waste. Each crop has

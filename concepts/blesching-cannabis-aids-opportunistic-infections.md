@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and AIDS-Related Opportunistic Infections
+## Cannabis and AIDS-Related Opportunistic Infections
 
 ## Overview
 

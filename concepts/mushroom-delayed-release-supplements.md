@@ -8,7 +8,7 @@ sources: ["the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
 
-# Delayed Release Nutrient Supplements for Mushrooms
+## Delayed Release Nutrient Supplements for Mushrooms
 
 ## Overview
 

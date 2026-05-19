@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Brew Kombucha at Home Step by Step?
+## How Do I Brew Kombucha at Home Step by Step?
 
 ## Short Answer
 Kombucha is a [[query-how-does-kombucha-brewing-work]] process involves

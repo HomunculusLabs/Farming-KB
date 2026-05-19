@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychedelics, phenethylamine, amphetamine, dosag
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# MDOI Compound Profile
+## MDOI Compound Profile
 
 ## Chemical Identity
 

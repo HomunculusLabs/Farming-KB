@@ -8,7 +8,7 @@ sources: [papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
 type: comparison
 ---
 
-# Fukuoka Natural Farming vs JADAM Farming
+## Fukuoka Natural Farming vs JADAM Farming
 
 ## Overview
 

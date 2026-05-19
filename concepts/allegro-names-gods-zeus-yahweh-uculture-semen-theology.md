@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Allegro's Decipherment of God Names and the Semen Theology of Ancient Near Eastern Religion
+## Allegro's Decipherment of God Names and the Semen Theology of Ancient Near Eastern Religion
 
 John Marco Allegro's controversial linguistic analysis of Sumerian and related ancient Near Eastern languages led him to propose that the great deity names of classical and biblical tradition—Zeus, Yahweh (Jehovah), and their countless epithets—all traced back to a single fertility concept rooted in semen theology.
 

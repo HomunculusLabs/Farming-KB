@@ -5,7 +5,7 @@ type: entity
 tags: [ecosystem, coastal, permaculture, marine-ecology, biodiversity, mangrove]
 ---
 
-# Mangrove Ecology
+## Mangrove Ecology
 
 ## Description
 

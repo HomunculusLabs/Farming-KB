@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How Do I Grow Mushrooms Using the Log Cultivation Method?
+## How Do I Grow Mushrooms Using the Log Cultivation Method?
 
 ## Short Answer
 Log cultivation is a traditional [[query-difference-between-shiitake-and-oyster-mushrooms]] mushrooms are the most common species grown this way.

@@ -15,7 +15,7 @@ sources: []
 type: comparison
 ---
 
-# Soil Solarization vs Occultation
+## Soil Solarization vs Occultation
 
 ## Overview
 

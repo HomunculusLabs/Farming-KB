@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Seed Storage for Maximum Viability (Solomon)
+## Seed Storage for Maximum Viability (Solomon)
 
 From [[cannabis-seed-storage-and-viability]]
 - [[cannabis-seed-germination-viability-breeding-clarke]]

@@ -5,7 +5,7 @@ tags: [microbiology, cannabis, microbiome, soil-science, otu-analysis, plant-mic
 date: 2026-05-08
 ---
 
-# Soil Type OTU Abundance vs Strain Community Structure in Cannabis Microbiome
+## Soil Type OTU Abundance vs Strain Community Structure in Cannabis Microbiome
 
 ## Overview
 

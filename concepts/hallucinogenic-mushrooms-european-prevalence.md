@@ -5,7 +5,7 @@ source: carolina-mushrooms_08qxp.md
 tags: [psilocybin, mushrooms, europe, prevalence, drug-trends, emcdda]
 aliases: emcdda-psilocybin-non-addictive-profile-tolerance-dynamics use statistics]
 ---
-# Hallucinogenic Mushrooms — European Prevalence and Trends
+## Hallucinogenic Mushrooms — European Prevalence and Trends
 
 ## Overview
 

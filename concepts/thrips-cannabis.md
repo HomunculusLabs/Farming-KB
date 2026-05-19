@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Thrips on Cannabis
+## Thrips on Cannabis
 
 Thrips are small, winged, fast-moving insects more common in greenhouses than in [[spider-mites-cannabis]], but their damage should not be underestimated:
 

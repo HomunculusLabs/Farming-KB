@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
-# Compost Phase I Preparation and Raw Materials The purpose of composting is to prepare a nutritious medium that promotes the growth of mushroom [[composting]] process is divided into two stages:
+## Compost Phase I Preparation and Raw Materials The purpose of composting is to prepare a nutritious medium that promotes the growth of mushroom [[composting]] process is divided into two stages:
 
 - **Phase I**: Outdoor composting involving mixing and primary
   [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken|content]].

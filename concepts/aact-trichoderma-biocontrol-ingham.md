@@ -7,7 +7,7 @@ tags: [aact, trichoderma, biocontrol, compost-tea, fungi, disease-suppression, s
 created: 2026-05-09
 ---
 
-# Trichoderma in Actively Aerated Compost Tea (AACT)
+## Trichoderma in Actively Aerated Compost Tea (AACT)
 
 ## Overview
 

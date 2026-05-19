@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Morning Star, Venus, Dew, Manna, and St Elmo's Fire
+## Morning Star, Venus, Dew, Manna, and St Elmo's Fire
 
 In [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]. The celestial body, its moisture, and the fungus it was thought to engender
 formed an interconnected symbolic system linking heaven and earth, semen and soil, divinity and

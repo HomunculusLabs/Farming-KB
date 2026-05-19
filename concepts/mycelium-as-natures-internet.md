@@ -15,7 +15,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Mycelium as Nature's Internet and Ecological Network
+## Mycelium as Nature's Internet and Ecological Network
 
 Mycelium, the vegetative body of fungi, constitutes the largest biological network on Earth. Running through virtually every terrestrial habitat, it functions as a living internet of ecological connectivity: distributing nutrients, transmitting [[gadd-mycelial-network-dynamics]], operates largely out of sight and out of mind. This page draws primarily from Paul Stamets' *[[underground-fungal-networks|neurological network of nature]], drawing a direct parallel between the architecture of mycelial webs and the synaptic networks of animal brains. In both systems, branching filaments make countless connections, allowing information to flow, be processed, and produce coordinated responses across a distributed body without any central command node. The mycelial network is, in a meaningful sense, a distributed intelligence: it senses environmental conditions, allocates resources toward favorable zones, and reroutes around obstacles, all without a brain.
 

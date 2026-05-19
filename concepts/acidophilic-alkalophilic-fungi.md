@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: ["raw/papers/unknown-biodiversity-of-fungi.md", "raw/papers/teaming-with-fungi-lowenfels.md"]
 ---
-# Acidophilic and Alkalophilic Fungi
+## Acidophilic and Alkalophilic Fungi
 Acidophilic and alkalophilic fungi are adapted to grow at pH
 values outside the near-neutral range that supports most fungal
 species. These extremophilic fungi colonize specialized habitats

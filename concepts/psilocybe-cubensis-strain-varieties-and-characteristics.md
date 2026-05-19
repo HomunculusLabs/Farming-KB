@@ -5,7 +5,7 @@ mined: 2026-05-08
 tags: [strains, cubensis, varieties, potency, cultivation, taxonomy]
 ---
 
-# Psilocybe Cubensis Strain Varieties and Characteristics
+## Psilocybe Cubensis Strain Varieties and Characteristics
 
 ## Overview
 

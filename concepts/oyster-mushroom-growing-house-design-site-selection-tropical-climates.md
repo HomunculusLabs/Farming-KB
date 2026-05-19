@@ -4,7 +4,7 @@ source: cotter-oyster-mushroom-cultivation (MushWorld, 2004)
 tags: [mycology, oyster-mushroom, mushroom-cultivation, growing-house, tropical, infrastructure, site-selection]
 ---
 
-# Growing House Design and Site Selection for Oyster Mushroom Cultivation in Tropical Climates
+## Growing House Design and Site Selection for Oyster Mushroom Cultivation in Tropical Climates
 
 ## Three Major Factors in Growing House Construction
 

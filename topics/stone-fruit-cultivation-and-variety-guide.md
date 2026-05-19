@@ -18,7 +18,7 @@ sources:
   - https://doi.org/10.1016/j.scienta.2019.108756
 ---
 
-# Stone Fruit Cultivation and Variety Guide
+## Stone Fruit Cultivation and Variety Guide
 
 Stone fruits — members of the genus *Prunus* — are among the most rewarding fruit trees for home orchards and permaculture systems. Named for their hard, stony pits (endocarps) that enclose a single seed, stone fruits include peaches, nectarines, plums, apricots, cherries, and their hybrids. They occupy a central role in temperate fruit production worldwide and can be integrated into food forests, edible landscapes, and small-scale commercial orchards.
 

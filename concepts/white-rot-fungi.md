@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, decomposition, bioremediation, wood-decay]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
 
-# White Rot Fungi
+## White Rot Fungi
 
 White rot fungi are a polyphyletic group of basidiomycetes and some ascomycetes
 characterized by their ability to degrade all major components of wood,

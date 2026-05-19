@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Coprophilous Fungi — Succession and Ecological Dynamics ## Overview Coprophilous (dung-inhabiting) fungi encompass species from multiple fungal groups, including **Myxomycetes, Zygomycetes, Ascomycetes, and Basidiomycetes**. Of the approximately 700 described myxomycete species, roughly **12 are exclusively coprophilous**. Dung represents a nutrient-rich, temporally dynamic substrate that supports a distinctive fungal community with well-documented successional patterns. The study of coprophilous fungi is central to [[psilocybe-global-biodiversity-hotspots]] gradients. This pattern has implications for paleoecological studies that use Sporormiella spores as proxies for megaherbivore presence.
+## Coprophilous Fungi — Succession and Ecological Dynamics ## Overview Coprophilous (dung-inhabiting) fungi encompass species from multiple fungal groups, including **Myxomycetes, Zygomycetes, Ascomycetes, and Basidiomycetes**. Of the approximately 700 described myxomycete species, roughly **12 are exclusively coprophilous**. Dung represents a nutrient-rich, temporally dynamic substrate that supports a distinctive fungal community with well-documented successional patterns. The study of coprophilous fungi is central to [[psilocybe-global-biodiversity-hotspots]] gradients. This pattern has implications for paleoecological studies that use Sporormiella spores as proxies for megaherbivore presence.
 
 ## Spore Dispersal and Germination
 

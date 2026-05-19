@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Hericium Erinaceus Bioactive Compounds and Cancer Research
+## Hericium Erinaceus Bioactive Compounds and Cancer Research
 
 Hericium erinaceus, commonly known as Lion's Mane or Yamabushitake in
 Japan, is an edible and medicinal mushroom that has attracted

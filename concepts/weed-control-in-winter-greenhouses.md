@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Weed Control in Winter Greenhouses
+## Weed Control in Winter Greenhouses
 
 Weed management in intensive winter greenhouse production requires a proactive, multi-strategy approach. Because crops are planted at very close spacing on fertile greenhouse soil, even small weeds—especially fast-growing species like chickweed—can dramatically slow harvesting. The yield gains from close spacing justify significant investment in weed prevention and control.
 

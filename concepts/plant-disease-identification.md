@@ -7,7 +7,7 @@ tags: [plants, troubleshooting, pathogens, fungi, bacteria, gardening, pest-cont
 sources: []
 ---
 
-# Plant Disease Identification
+## Plant Disease Identification
 
 Accurate disease identification is the critical first step in effective [[plant-disease-management-in-organic-gardens]]. Misidentification leads to incorrect treatment, wasted resources, and potentially worse outcomes. This guide provides a systematic approach to diagnosing plant diseases based on symptoms, affected plant parts, and environmental conditions.
 

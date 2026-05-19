@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Rust Fungi: Taxonomy, Diversity, and Distribution
+## Rust Fungi: Taxonomy, Diversity, and Distribution
 
 ## Overview
 

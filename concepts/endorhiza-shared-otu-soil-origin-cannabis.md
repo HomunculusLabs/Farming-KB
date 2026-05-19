@@ -1,4 +1,8 @@
-# Endorhiza Shared OTUs and Soil Origin in Cannabis Microbiome Assembly
+---
+title: "Endorhiza Shared OTUs and Soil Origin in Cannabis Microbiome Assembly"
+tags:
+  - concept
+---
 
 A critical test of the two-step selection model for root microbiome assembly
 was performed by Winston et al. (2014) using a reciprocal soil experiment

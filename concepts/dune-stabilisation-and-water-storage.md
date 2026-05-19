@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dune Stabilisation and Water Storage
+## Dune Stabilisation and Water Storage
 
 Sand dunes are among the most dynamic and challenging landforms in arid environments, yet they also harbour some of the desert's most significant water reserves. Understanding how dunes form, move, and store water is essential for any [[humus]] and dust particles) support quite dense vegetation (50% cover), while others are almost sterile and lack basic plant nutrients.
 

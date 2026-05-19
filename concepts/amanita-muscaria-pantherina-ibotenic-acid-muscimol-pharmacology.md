@@ -5,7 +5,7 @@ tags: [amanita, muscaria, pantherina, muscimol, ibotenic-acid, fly-agaric, pharm
 created: 2026-05-08
 ---
 
-# [[amanita-muscaria-fly-agaric-history-and-pharmacology]]," these mushrooms do
+## [[amanita-muscaria-fly-agaric-history-and-pharmacology]]," these mushrooms do
 not produce significant muscarinic/anticholinergic effects. Their psychoactive
 properties derive from a unique amino acid chemistry — ibotenic acid and its
 decarboxylation product muscimol — which act on glutamate and GABA receptors

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: entity
 ---
 
-# Gray Snow Mold
+## Gray Snow Mold
 
 ## Description
 

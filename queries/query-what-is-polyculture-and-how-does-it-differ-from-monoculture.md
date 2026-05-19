@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Polyculture and How Does It Differ From Monoculture?
+## What Is Polyculture and How Does It Differ From Monoculture?
 
 ## Short Answer
 Polyculture is the practice of growing multiple crop species together in the same space and time, mimicking natural ecosystems where plant diversity creates resilience. It differs from monoculture, which grows a single crop species over a large area, by reducing pest and disease pressure, improving soil health, increasing total yield per acre, and providing economic resilience through diversification. Permaculture and organic farming systems rely heavily on polyculture principles.

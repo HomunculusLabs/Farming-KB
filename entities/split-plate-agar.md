@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: entity
 ---
 
-# Split Plate Agar (Behavioral Gallery)
+## Split Plate Agar (Behavioral Gallery)
 
 ## Description
 

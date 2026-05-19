@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Nitrogen Mineralization Pathways
+## Fungal Nitrogen Mineralization Pathways
 
 Fungal nitrogen mineralization is the process by which fungi convert organic
 nitrogen compounds in dead organic matter into inorganic forms (ammonium and

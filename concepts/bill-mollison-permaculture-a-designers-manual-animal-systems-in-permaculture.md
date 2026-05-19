@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-# Animal Systems in Permaculture Bill Mollison viewed animals as integral components of permaculture systems rather than isolated production units. In *Permaculture: A Designers' Manual*, he argued that animals convert low-quality plant materials into high-quality protein, cycle nutrients through manure, control pests, cultivate soil, and provide labor for land management. The key principle is that animals should be integrated into the broader system design rather than raised in monocultures. This integration connects to [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]] through their ecological contributions.
+## Animal Systems in Permaculture Bill Mollison viewed animals as integral components of permaculture systems rather than isolated production units. In *Permaculture: A Designers' Manual*, he argued that animals convert low-quality plant materials into high-quality protein, cycle nutrients through manure, control pests, cultivate soil, and provide labor for land management. The key principle is that animals should be integrated into the broader system design rather than raised in monocultures. This integration connects to [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]] through their ecological contributions.
 
 ## The Multi-Function Principle for Animals
 

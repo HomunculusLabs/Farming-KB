@@ -9,7 +9,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Morel (Morchella) Cultivation and Life Cycle
+## Morel (Morchella) Cultivation and Life Cycle
 
 ## The Mystique of the Morel
 

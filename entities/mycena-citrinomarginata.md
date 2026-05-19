@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Mycena citrinomarginata
+## Mycena citrinomarginata
 
 **Mycena citrinomarginata** is a small, delicate mycena species notable for its
 distinctive bright yellow marginal striations on the cap and its association with

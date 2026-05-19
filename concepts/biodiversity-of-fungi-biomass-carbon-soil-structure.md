@@ -6,7 +6,7 @@ type: concept
 tags: [fungi, soil, compost, ecology]
 sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 ---
-# Fungal Biomass, Carbon Storage, and Soil Structure in Farming Systems
+## Fungal Biomass, Carbon Storage, and Soil Structure in Farming Systems
 Updated: 2026-04-18
 Source: Biodiversity of Fungi (Hyde et al., eds.), Chapters 11, 13, and related sections
 ## The Scale of Fungal Biomass in Soils

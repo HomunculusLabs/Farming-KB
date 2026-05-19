@@ -20,7 +20,7 @@ sources:
 type: concept
 ---
 
-# Traditional Mountain Paddy Aesthetics and Spiritual Wisdom
+## Traditional Mountain Paddy Aesthetics and Spiritual Wisdom
 
 ## Overview
 

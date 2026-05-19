@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Iochroma Fuchsioides (Borrachera)
+## Iochroma Fuchsioides (Borrachera)
 
 Iochroma fuchsioides is one of approximately two dozen species of Iochroma,
 all native to the highlands of [[chemical-studies-neurotropic-fungi-reliability-and-challenges]] have been made of Iochroma,

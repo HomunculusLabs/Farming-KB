@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 ---
 
-# Agaricus ulmarius (Elm-tree Mushroom)
+## Agaricus ulmarius (Elm-tree Mushroom)
 
 ## Description
 

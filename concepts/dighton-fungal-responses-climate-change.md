@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Fungal Responses to Climate Change
+## Fungal Responses to Climate Change
 
 ## Overview
 

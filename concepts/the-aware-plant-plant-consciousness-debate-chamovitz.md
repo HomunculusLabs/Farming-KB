@@ -5,7 +5,7 @@ tags: [botany, plant-neurobiology, consciousness, plant-intelligence, chamovitz,
 date: 2026-05-08
 ---
 
-# The Aware Plant: Consciousness Debate in Plant Neurobiology
+## The Aware Plant: Consciousness Debate in Plant Neurobiology
 
 ## Overview
 

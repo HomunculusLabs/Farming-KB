@@ -86,4 +86,4 @@ Monitoring protocols help track population trends and inform adaptive management
 - [[jedd-woronin-bodies-hex1-septal-pore-sealing]]
 - [[septal-pore-cap]]
 - [[woronin-bodies]]
-- [[woronin-bodies-septal-pore-plugging-euascomycetes-jedd]]
+- [[fungi-environment-woronin-bodies-septal-pore-plugging-euascomycetes]]

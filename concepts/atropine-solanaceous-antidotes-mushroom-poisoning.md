@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Atropine and Solanaceous Antidotes for Mushroom Poisoning
+## Atropine and Solanaceous Antidotes for Mushroom Poisoning
 
 ## Overview
 

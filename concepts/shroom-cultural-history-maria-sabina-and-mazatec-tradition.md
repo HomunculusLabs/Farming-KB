@@ -8,7 +8,7 @@ type: concept
 tags: [history, mazatec]
 ---
 
-# Maria Sabina and the Mazatec Tradition
+## Maria Sabina and the Mazatec Tradition
 
 ## From "Shroom: A Cultural History of the Magic Mushroom" by [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] — they became "the first Westerners ever intentionally to do so."
 

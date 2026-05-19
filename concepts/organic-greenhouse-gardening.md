@@ -20,7 +20,7 @@ sources:
   - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 ---
 
-# Organic Greenhouse Gardening
+## Organic Greenhouse Gardening
 
 Growing under protection using organic methods. Based on Geoff Hamilton's approach to [[coleman-mobile-greenhouse-design-and-operation]] management. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[greenhouse-design]] for structure design.
 

@@ -13,7 +13,7 @@ sources:
   - "[Money, Mr. Bloomfield's Orchard (2002)]"
 ---
 
-# Buller Drops and the Surface Tension Spore Catapult Mechanism
+## Buller Drops and the Surface Tension Spore Catapult Mechanism
 
 The surface tension catapult is the mechanism by which the vast majority
 of [[bloomfield-fungal-spore-discharge-and-dispersal]] in the early [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]'s tissues — a

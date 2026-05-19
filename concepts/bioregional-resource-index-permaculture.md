@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Bioregional Resource Index — Framework for Regional Self-Reliance
+## Bioregional Resource Index — Framework for Regional Self-Reliance
 
 In Chapter 14 of Permaculture: A Designers' Manual, Bill Mollison presents a comprehensive Bioregional Resource Index developed with Maxine Cole for the Northern Rivers Bioregional Association of New South Wales, Australia. This index provides a systematic framework for cataloguing and organizing all practical resources available within a bioregion to support local self-reliance, resource conservation, and community security.
 

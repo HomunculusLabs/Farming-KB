@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Bongha Village Large-Scale Proof
+## Bongha Village Large-Scale Proof
 
 ## Overview
 

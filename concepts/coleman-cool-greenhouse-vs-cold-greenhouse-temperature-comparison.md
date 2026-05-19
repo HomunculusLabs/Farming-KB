@@ -5,7 +5,7 @@ tags: [greenhouse, cool-greenhouse, cold-greenhouse, eliot-coleman, winter-produ
 created: 2026-05-10
 ---
 
-# Cool Greenhouse vs Cold Greenhouse — Temperature Management Comparison
+## Cool Greenhouse vs Cold Greenhouse — Temperature Management Comparison
 
 ## Overview
 

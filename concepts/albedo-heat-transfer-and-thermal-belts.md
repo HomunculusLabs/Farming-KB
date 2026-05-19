@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Albedo, Heat Transfer and Thermal Belts
+## Albedo, Heat Transfer and Thermal Belts
 
 Understanding how energy from the sun interacts with the Earth's surface is foundational to [[permaculture-design]]. Albedo values, [[frost-protection-strategies]].
 

@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Graph Theory Analysis of Fungal Mycelial Networks
+## Graph Theory Analysis of Fungal Mycelial Networks
 
 ## Overview
 

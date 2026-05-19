@@ -1,7 +1,7 @@
 ---
 
 ---
-# How Does Biochar Improve Soil Health and Should I Use It?
+## How Does Biochar Improve Soil Health and Should I Use It?
 
 ## Short Answer
 Biochar is a porous carbon-rich material produced by pyrolyzing biomass in low-

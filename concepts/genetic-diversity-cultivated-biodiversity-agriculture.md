@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Genetic Diversity and Cultivated Biodiversity in Agriculture
+## Genetic Diversity and Cultivated Biodiversity in Agriculture
 
 Genetic diversity within species and cultivated biodiversity in agricultural systems are critical yet often overlooked dimensions of the broader diversity principle in [[permaculture]]. While species-level biodiversity receives most public attention, the variation within species — genetic, varietal, and age-related — and the diversity of human-managed agricultural systems are equally important for resilience, adaptation, and long-term sustainability.
 

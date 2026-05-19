@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# Coleus, Borrachera, and Other Mildly Psychoactive Plants
+## Coleus, Borrachera, and Other Mildly Psychoactive Plants
 
 The world of hallucinogenic plants extends well beyond the well-known species
 like peyote, mushrooms, and cannabis. Richard [[coleus-blumei]]

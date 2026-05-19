@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Growing Season and Non-Growing Season Management
+## Growing Season and Non-Growing Season Management
 
 The distinction between growing and non-growing seasons is central to
 holistic grazing planning. In brittle environments, the growing season may

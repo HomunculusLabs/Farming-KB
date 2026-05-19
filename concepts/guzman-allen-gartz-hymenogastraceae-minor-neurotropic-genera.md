@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Hymenogastraceae and Minor Neurotropic Genera
+## Hymenogastraceae and Minor Neurotropic Genera
 
 While Psilocybe dominates the [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], and disturbed habitats. The confirmation of
 neurotropic properties in A. farinacea expands the known taxonomic range of

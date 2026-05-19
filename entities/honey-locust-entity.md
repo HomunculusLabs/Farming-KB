@@ -8,7 +8,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Honey Locust
+## Honey Locust
 
 **Type:** Species (Plant)
 **Category:** Nitrogen-fixing [[dighton-fungal-drought-tolerance-plant-water-relations]], and winter-deciduous habit makes it

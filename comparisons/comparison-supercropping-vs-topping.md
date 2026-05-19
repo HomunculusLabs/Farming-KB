@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Supercropping vs Topping
+## Supercropping vs Topping
 ## Overview
 Supercropping and topping are two high (HST) techniques used primarily in
 [[cannabis-vegetative-stage]],

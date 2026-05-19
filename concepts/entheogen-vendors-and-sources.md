@@ -7,7 +7,7 @@ tags: [entheogen, safety, reference, community, culture, preparation, cultivatio
 sources: []
 ---
 
-# Entheogen Vendors and Sources
+## Entheogen Vendors and Sources
 
 ## Overview
 

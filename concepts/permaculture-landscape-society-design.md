@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Landscape and Society Design
+## Permaculture Landscape and Society Design
 
 ## Permaculture as a Design Science
 

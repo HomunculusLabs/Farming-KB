@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-essential-psychedelic-guide-by-dimitri-turner.md"
 ---
-# Turner Further Explorations and Future of Psychedelics
+## Turner Further Explorations and Future of Psychedelics
 
 Turner's closing chapter speculates on the purpose of psychedelics, their lasting benefits, and their future role in society. He frames them as [[psychedelic-research-timeline]]
 - Skills like telepathy and psychokinesis may be practiced on a large scale with psychedelics playing a major role

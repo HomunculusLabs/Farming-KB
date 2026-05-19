@@ -4,7 +4,7 @@ source: jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
 ---
 
-# JADAM Input Production — Water Quality, Leaf Mold, and Liquid Fertilizer
+## JADAM Input Production — Water Quality, Leaf Mold, and Liquid Fertilizer
 
 ## Overview
 

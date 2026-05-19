@@ -5,10 +5,10 @@ type: species
 tags: [ascomycete, plant-pathogen, vascular-wilt, soil-fungi, microsclerotia]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Verticillium dahliae
+## Verticillium dahliae
 
 **Type:** Species (Ascomycete)
 **Category:** Soil-Borne [[mycorrhizal-agricultural-practices]]. Biocontrol against V. dahliae has been

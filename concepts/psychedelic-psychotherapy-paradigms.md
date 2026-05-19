@@ -1,4 +1,8 @@
-# Psychedelic Psychotherapy Paradigms
+---
+title: "Psychedelic Psychotherapy Paradigms"
+tags:
+  - concept
+---
 
 ## Overview
 Psychedelic-assisted psychotherapy encompasses several distinct therapeutic

@@ -7,7 +7,7 @@ tags: [reference]
 sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 ---
 
-# Adobe Construction
+## Adobe Construction
 
 Adobe construction is a building technique using sun-dried earth bricks made from a mixture of clay-rich soil, sand, water, and straw or other fibrous material. Adobe is one of the most widespread traditional building methods on Earth, practised across the Americas, the Middle East, North Africa, the Mediterranean, and parts of Asia for thousands of years. The word adobe comes from the Arabic word at-tub, meaning brick, which was adopted into Spanish during the Moorish occupation of the Iberian Peninsula. In [[jadam-local-material-collection-and-use]] sourcing, excellent thermal mass, and deep cultural roots in sustainable building traditions.
 

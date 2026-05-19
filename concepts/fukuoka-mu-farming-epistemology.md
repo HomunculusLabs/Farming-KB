@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Mu Farming Epistemology
+## Fukuoka Mu Farming Epistemology
 
 Updated: 2026-04-19
 

@@ -28,7 +28,7 @@ related_concepts:
   - cannabis-living-soil-guide
 ---
 
-# Companion Planting and Polycultures
+## Companion Planting and Polycultures
 
 Companion planting is the practice of growing different plant species in close
 proximity for their mutual benefit. The concept is ancient -- indigenous peoples

@@ -9,7 +9,7 @@ sources: []
 updated: 2026-04-26
 ---
 
-# Land Health Monitoring
+## Land Health Monitoring
 
 In [[savory-mineral-cycle-management]], energy flow, and succession. They provide early warning of impending changes in plant and animal populations. This is especially true for problem insects like grasshoppers and tsetse flies, many species of which breed on bare, exposed soil sites.
 

@@ -1,5 +1,5 @@
 ---
-title: vic-high-cannabis-phenotype-selection-criteria Selection
+title: "Cannabis Phenotype Selection"
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -10,7 +10,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Phenotype Selection
+## Cannabis Phenotype Selection
 
 Phenotype selection is the process of choosing individual cannabis
 plants based on their observable traits for use as breeding parents or

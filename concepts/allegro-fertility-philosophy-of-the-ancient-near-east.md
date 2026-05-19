@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Fertility Philosophy of the Ancient Near East
+## Fertility Philosophy of the Ancient Near East
 
 In John Allegro's "The [[fukuoka-textdoc-crops-grow-own-accord-independence-fertilizer]], it must contain the seed of life. In human reproduction this seed is spermatozoa, ejected from the penis at orgasm. Therefore rain was understood as heavenly semen — the all-powerful creator, God himself. The most forceful spurting of this "seed" was accompanied by thunder and the shrieking wind. This was the "voice" of God.
 

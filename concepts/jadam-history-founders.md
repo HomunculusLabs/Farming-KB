@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# JADAM History and Founders
+## JADAM History and Founders
 
 ## JADAM: Name and Meaning
 

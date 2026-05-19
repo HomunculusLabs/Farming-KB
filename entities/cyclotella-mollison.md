@@ -5,7 +5,7 @@ type: entity
 tags: [diatom, algae, phytoplankton, sewage-treatment, water-purification, permaculture]
 ---
 
-# Cyclotella
+## Cyclotella
 
 ## Description
 

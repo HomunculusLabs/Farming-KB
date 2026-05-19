@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Rangeland Ecology and Multispecies Grazing
+## Rangeland Ecology and Multispecies Grazing
 
 Rangeland ecology demonstrates that natural, polycultural systems of herbivory far
 outperform cultivated monocultures of livestock, both in total productivity and in

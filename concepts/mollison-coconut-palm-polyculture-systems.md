@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Coconut Palm Polyculture Systems
+## Coconut Palm Polyculture Systems
 
 [[cocos-nucifera]]) polyculture
 as one of the most productive and complex tropical systems in

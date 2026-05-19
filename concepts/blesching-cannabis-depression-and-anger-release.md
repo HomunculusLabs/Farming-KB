@@ -9,7 +9,7 @@ sources: ["raw/papers/uwe-blesching-the-cannabis-health-index.md"]
 type: concept
 ---
 
-# Cannabis, Depression, and Anger Release
+## Cannabis, Depression, and Anger Release
 
 ## Evidence-Based Confidence Level
 

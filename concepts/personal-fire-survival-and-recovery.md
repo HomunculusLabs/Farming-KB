@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Personal Fire Survival and Recovery
+## Personal Fire Survival and Recovery
 
 Surviving [[wildfire]] requires both physical preparation and psychological readiness. Most fire casualties are not caused by direct flame contact but by radiant heat, toxic smoke inhalation, and asphyxiation. Understanding survival mechanics and preparing accordingly can mean the difference between life and death.
 

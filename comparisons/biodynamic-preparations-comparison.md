@@ -22,7 +22,7 @@ type: comparison
 created: 2026-04-28
 ---
 
-# Biodynamic Preparations Comparison
+## Biodynamic Preparations Comparison
 
 Biodynamic agriculture, founded by Rudolf Steiner in his 1924 Agricultural Course, uses nine numbered preparations (BD 500–508) intended to enliven soil, compost, and plant processes. They are broadly divided into **field sprays** (BD 500, BD 501) and **compost preparations** (BD 502–507), with BD 508 as a supplementary foliar spray. This comparison covers their composition, preparation methods, application timing, purported functions, and the evidence base.
 

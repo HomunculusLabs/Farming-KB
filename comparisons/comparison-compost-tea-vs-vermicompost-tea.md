@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Compost Tea vs Vermicompost Tea
+## Compost Tea vs Vermicompost Tea
 
 ## Overview
 Compost tea and vermicompost tea are both liquid biological extracts used to

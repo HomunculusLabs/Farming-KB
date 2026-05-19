@@ -7,7 +7,7 @@ topics: [san-pedro, andean-ceremony, curandero, entheogen-ceremony, peru]
 type: concept
 ---
 
-# San Pedro Cactus Andean Ceremony and Curandero Altar Practice
+## San Pedro Cactus Andean Ceremony and Curandero Altar Practice
 
 ## Overview
 

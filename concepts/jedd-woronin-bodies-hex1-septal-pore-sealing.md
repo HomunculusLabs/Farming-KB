@@ -7,7 +7,7 @@ published: 2007
 tags: [woronin-bodies, HEX-1, septal-pore, filamentous-fungi, euascomycetes, hyphal-integrity, peroxisome, fungal-cell-biology, crystal-lattice]
 ---
 
-# Woronin Bodies: HEX-1 Protein and Septal Pore Sealing
+## Woronin Bodies: HEX-1 Protein and Septal Pore Sealing
 
 ## Overview
 

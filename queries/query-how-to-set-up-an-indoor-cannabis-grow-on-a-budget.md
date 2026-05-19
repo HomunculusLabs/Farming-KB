@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Set Up an Indoor Cannabis Grow on a Budget
+## How to Set Up an Indoor Cannabis Grow on a Budget
 
 ## Short Answer
 A functional indoor cannabis grow can be set up for under $500 using a grow tent, budget LED grow light, inline fan with carbon filter, oscillating fan, and fabric pots with living soil.

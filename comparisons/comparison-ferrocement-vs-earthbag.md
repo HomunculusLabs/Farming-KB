@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Ferrocement vs Earthbag Construction
+## Ferrocement vs Earthbag Construction
 
 Both ferrocement and earthbag construction are affordable, resource-efficient [[comparison-drip-irrigation-vs-rainwater-harvesting]] system where earthbag walls shelter a ferrocement tank, combining the tank's water-tightness with the building's thermal protection.
 - **Earthbag dome with ferrocement skylight or entrance arch:** The main structure is earthbag for thermal mass and [[growing-gourmet-north-american-reishi-species]] and European code officials. Both methods benefit from working with an engineer experienced in non-conventional construction.

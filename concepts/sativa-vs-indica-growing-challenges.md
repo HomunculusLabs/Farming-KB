@@ -5,7 +5,7 @@ created: 2026-05-08
 tags: [cannabis, sativa, indica, growing, cultivation, indoor, outdoor]
 ---
 
-# Sativa vs Indica Growing Challenges
+## Sativa vs Indica Growing Challenges
 
 ## Overview
 

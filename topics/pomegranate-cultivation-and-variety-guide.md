@@ -14,7 +14,7 @@ sources:
   - "USDA ARS. GRIN Taxonomy: Punica granatum. https://npgsweb.ars-grin.gov."
 ---
 
-# Pomegranate Cultivation and Variety Guide
+## Pomegranate Cultivation and Variety Guide
 
 ## Botanical Overview
 

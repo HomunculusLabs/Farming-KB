@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mushroom-cultivation, pest-management, sciarid-flies, phorid-flies, IPM]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Sciarid and Phorid Fly Management in Mushroom Cultivation Fungus gnats (sciarid flies) and phorid flies are the two most persistent and damaging insect pests in indoor mushroom cultivation. Their larvae feed directly on mushroom mycelium and developing fruiting bodies, while adults spread contamination by carrying mold spores, bacteria, and mites between growing containers and rooms. Effective management requires understanding their biology and implementing [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]] while being harmless to mushrooms and mycelium. Available
+## Sciarid and Phorid Fly Management in Mushroom Cultivation Fungus gnats (sciarid flies) and phorid flies are the two most persistent and damaging insect pests in indoor mushroom cultivation. Their larvae feed directly on mushroom mycelium and developing fruiting bodies, while adults spread contamination by carrying mold spores, bacteria, and mites between growing containers and rooms. Effective management requires understanding their biology and implementing [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]] while being harmless to mushrooms and mycelium. Available
   as Gnatrol or similar products. Apply at first sign of adult activity
   and reapply every 7-10 days during the cropping cycle
 - **Steinernema feltiae**: [[black-soldier-fly-larvae-as-feed]] in substrate. Applied as a soil drench.

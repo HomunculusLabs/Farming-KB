@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Community Legal Structure
+## Permaculture Community Legal Structure
 
 The legal and financial architecture of a [[permaculture]] community is as important as its physical design. [[bill-mollison]] presents a specific organizational model—developed through the Tagari community in Australia—that uses a layered trust structure to achieve tax efficiency, risk insulation, land accumulation, and international cooperation while remaining consistent with [[permaculture-ethics]] [[permaculture-ethics-of-earth-care-and-people-care]], people care, and non-accumulation of wealth beyond need.
 

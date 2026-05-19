@@ -5,7 +5,7 @@ type: entity
 tags: [protein, catalyst, metabolism, reaction-rate, plant-physiology, biochemistry]
 ---
 
-# Enzyme
+## Enzyme
 
 ## Description
 

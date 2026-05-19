@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Liver and Detoxification Herbs
+## Liver and Detoxification Herbs
 
 The liver is the body's primary organ of detoxification, responsible for metabolizing drugs, neutralizing toxins, producing bile for fat digestion, synthesizing proteins, storing vitamins and minerals, and regulating blood sugar. Liver and detoxification herbs (hepatics) support these essential functions through hepatoprotection, bile stimulation, liver cell regeneration, and enhancement of the body's detoxification pathways.
 
@@ -39,7 +39,7 @@ Herbs that affect liver function can alter the metabolism of pharmaceutical drug
 - liver and detoxification herbs
 ## Merged: Urinary and Kidney Herbs
 
-# Urinary and Kidney Herbs
+## Urinary and Kidney Herbs
 
 Urinary and kidney herbs address conditions of the kidneys, bladder, ureters, and urethra including urinary tract infections, kidney stones, fluid retention, incontinence, and chronic kidney inflammation. Herbal medicine offers a rich pharmacopoeia for urinary system support, with many herbs having been used for centuries specifically for kidney and bladder conditions.
 

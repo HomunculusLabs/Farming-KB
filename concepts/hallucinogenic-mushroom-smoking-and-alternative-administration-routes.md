@@ -17,7 +17,7 @@ sources:
   - carolina-mushrooms_08qxp.md
 ---
 
-# Hallucinogenic Mushroom Smoking and Alternative Administration Routes
+## Hallucinogenic Mushroom Smoking and Alternative Administration Routes
 
 ## Overview
 

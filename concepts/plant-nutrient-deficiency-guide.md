@@ -7,7 +7,7 @@ tags: [nutrients, npk, soil, fertilizer, troubleshooting, plants, plant-growth, 
 sources: []
 ---
 
-# Plant Nutrient Deficiency Guide
+## Plant Nutrient Deficiency Guide
 
 Nutrient deficiencies manifest as visual symptoms on plant leaves, stems, roots, and fruits. Learning to read these symptoms allows rapid diagnosis and correction before yield is significantly impacted. This guide covers the primary macronutrients, secondary nutrients, and key micronutrients with their characteristic deficiency signs and organic remedies.
 

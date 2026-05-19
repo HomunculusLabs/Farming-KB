@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Marcello Malpighi and Early Plant Microanatomy
+## Marcello Malpighi and Early Plant Microanatomy
 
 Marcello Malpighi (1628–1694) was an Italian physician, biologist, and
 microscopist whose *Anatome Plantarum* (1675) established him as one of

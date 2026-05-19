@@ -7,7 +7,7 @@ tags: [fungi, biology, ecology]
 sources: [raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md, raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 ---
 
-# Fungal Biology Fundamentals
+## Fungal Biology Fundamentals
 
 Core biology of fungi as revealed through Nicholas Money's "Mr. Bloomfield's Orchard" and Julius Palmer's "About Mushrooms" (1894).
 

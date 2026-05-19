@@ -17,7 +17,7 @@ sources:
   - Fernandez, W.J. (1982). Bwiti: An Ethnography of the Religious Imagination in Africa. Princeton University Press.
 ---
 
-# Syncretic Entheogenic Churches — Brazil, Bwiti, and Native American Church
+## Syncretic Entheogenic Churches — Brazil, Bwiti, and Native American Church
 
 ## Overview
 

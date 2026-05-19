@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Livestock Philosophy and Paddock System
+## Holzer Livestock Philosophy and Paddock System
 
 Livestock play a large role in a permaculture system. They provide high-quality produce and are industrious, pleasant workers. The key principle: always keep animals outside in family groups, meeting the needs of different species. The size of the area depends on the space naturally required by each species.
 

@@ -1,4 +1,8 @@
-# Glyoxalylamide Reduction Pathway for  esis from 4-Acetylindole
+---
+title: "Glyoxalylamide Reduction Pathway for  esis from 4-Acetylindole"
+tags:
+  - concept
+---
 ## Overview of the Synthetic Strategy
 The glyoxalylamide reduction pathway represents a highly efficient and practical route for the synthesis of
  (4-hydroxy-N,N-) from protected indole precursors, as demonstrated by Shirota,

@@ -6,7 +6,7 @@ tags: [education, mycology, curriculum, mushroom-science, classroom, mycoremedia
 aliases: [Mushroom Science Education, Teaching Mycology, Fungal Classroom Activities]
 ---
 
-# Fungal Education Curriculum and Mushroom Science Activities
+## Fungal Education Curriculum and Mushroom Science Activities
 
 A structured, grade-level approach to teaching [[mycology]] and mushroom science in
 educational settings, from kindergarten through college, covering fungal ecology,

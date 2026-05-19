@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# AACT Ingredients — Sugar, Kelp, Lignite, and Soil Amendments
+## AACT Ingredients — Sugar, Kelp, Lignite, and Soil Amendments
 
 Understanding why specific ingredients are added to compost tea — and what happens when they are added to soil — requires understanding the soil foodweb. Each ingredient feeds different organism groups, and the interactions between these groups determine whether the addition helps or harms plant health.
 

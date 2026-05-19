@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[psilocybe-semilanceata]]*** (liberty caps): the most common wild
+## [[psilocybe-semilanceata]]*** (liberty caps): the most common wild
   European [[psilocybe-tampanensis-entity]]***: these form
   sclerotia and are known as "truffles" or "philosopher's stone"
 

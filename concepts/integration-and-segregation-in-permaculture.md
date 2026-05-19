@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Integration and Segregation in Permaculture
+## Integration and Segregation in Permaculture
 
 Permaculture Principle 8 — "Integrate Rather Than Segregate" — addresses one of the most fundamental dynamics in both natural and human systems: the tension between cooperation within a system and competition between systems. [[david-holmgren]] argues that understanding this pattern is essential for designing sustainable human settlements, economies, and cultures that can thrive during energy descent.
 

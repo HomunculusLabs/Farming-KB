@@ -29,7 +29,7 @@ sources:
 contradictions: []
 ---
 
-# Integrated Homestead Annual Calendar
+## Integrated Homestead Annual Calendar
 
 Seasonal integration map — how all homestead systems overlap and support each other through the year in USDA Zone 7-8. Companion detail page to [[integrated-homestead-design]]. See [[seasonal-planning]] for the full monthly task list.
 

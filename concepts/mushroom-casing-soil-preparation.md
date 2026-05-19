@@ -8,7 +8,7 @@ type: concept
 tags: [casing, mushroom-cultivation, substrate, peat, vermiculite, mycology]
 ---
 
-# Mushroom Casing Soil Preparation and Application
+## Mushroom Casing Soil Preparation and Application
 
 Casing is a non-nutritive layer applied to fully colonized substrate to trigger
 and support the fruiting (mushroom production) phase of fungal cultivation.

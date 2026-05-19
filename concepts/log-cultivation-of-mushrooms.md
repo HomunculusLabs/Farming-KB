@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, mushroom-cultivation, log-cultivation, wood-decay]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Log Cultivation of Mushrooms
+## Log Cultivation of Mushrooms
 
 Log cultivation is the oldest and most natural method of [[growing-gourmet-mushrooms-civilization-history]] and is well-suited to shiitake, oyster, lion mane, and reishi.
 

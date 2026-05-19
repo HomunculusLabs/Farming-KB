@@ -20,7 +20,7 @@ sources:
   - Jacke, D. & Toensmeier, E. "Edible bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests." Chelsea Green, 2005.
 ---
 
-# Styphnolobium japonicum (Japanese Pagoda Tree)
+## Styphnolobium japonicum (Japanese Pagoda Tree)
 
 ## Overview
 

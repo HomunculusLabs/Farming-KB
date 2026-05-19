@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Season Extension Techniques vs Cold Frame Gardening
+## Season Extension Techniques vs Cold Frame Gardening
 
 ## Overview
 Season extension is a broad category of techniques that modify microclimates

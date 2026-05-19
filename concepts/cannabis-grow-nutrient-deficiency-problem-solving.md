@@ -8,7 +8,7 @@ sources: [greg-green-the-cannabis-grow-bible.md]
 type: concept
 ---
 
-# Cannabis Nutrient Deficiency and Problem Solving
+## Cannabis Nutrient Deficiency and Problem Solving
 
 Identifying and resolving nutrient problems is one of the most critical
 skills for cannabis cultivators. 

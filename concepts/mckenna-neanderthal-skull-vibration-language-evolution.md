@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Neanderthal Skull Vibration and the Evolution of Language
+## Neanderthal Skull Vibration and the Evolution of Language
 
 ## Overview
 

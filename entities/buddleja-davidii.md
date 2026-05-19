@@ -16,7 +16,7 @@ sources:
   - Williams DG et al. (2000). "Buddleja davidii: a review of its biology, ecology, and distribution." Weed Research.
 ---
 
-# Buddleja davidii
+## Buddleja davidii
 
 ## Overview
 

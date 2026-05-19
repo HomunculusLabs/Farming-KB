@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [psilocybin, mushrooms]
 ---
 
-# Accidental Ingestion of Psilocybin Mushrooms: Documented Cases
+## Accidental Ingestion of Psilocybin Mushrooms: Documented Cases
 
 The accidental ingestion of [[green-park-incident-1799-psilocybin]] of October 3, 1799, in London represents the earliest documented case of accidental psilocybin ingestion in Europe. A family of six collected [[psilocybe-cubensis-potency-variation-by-flush]] mushrooms. The case illustrates the international trade in psychoactive mushrooms and the legal consequences of possession.
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, mycoremediation, bioremediation, ecology]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
-# Mycoremediation Overview
+## Mycoremediation Overview
 
 Mycoremediation is the use of fungi, specifically mushrooms, to [[bioremediation-fungal-biomass-biosorbent-material]] as a self-healing filter targeting
   specific [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]], oil spills, and

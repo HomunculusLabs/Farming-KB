@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Spider Mites on Cannabis
+## Spider Mites on Cannabis
 
 Spider mites (Tetranychidae family) are the most common and destructive pest found on [[permaculture-designers-manual-essential-oil-plants]] production in affected areas, lowering harvest quality
 

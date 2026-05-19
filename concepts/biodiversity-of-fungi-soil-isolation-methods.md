@@ -7,7 +7,7 @@ tags: [fungi, soil, lab-technique, microscopy]
 sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 
-# Fungal Soil Isolation Methods and Community Assessment for Agriculture
+## Fungal Soil Isolation Methods and Community Assessment for Agriculture
 
 Updated: 2026-04-18
 

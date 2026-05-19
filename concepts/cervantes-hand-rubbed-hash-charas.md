@@ -10,7 +10,7 @@ sources:
 tags: [cannabis, hash, extraction, charas, traditional]
 ---
 
-# Hand-Rubbed Hash and Charas
+## Hand-Rubbed Hash and Charas
 
 Hand rubbing hash is one of the oldest methods of collecting
 [[cervantes-finger-hash-manicuring]] is

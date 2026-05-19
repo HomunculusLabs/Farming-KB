@@ -17,7 +17,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Soil Food Web Ecology in the Ecological Garden
+## Soil Food Web Ecology in the Ecological Garden
 
 The soil beneath our feet is not inert dirt but a living ecosystem teeming with
 organisms that form the foundation of all terrestrial life. In

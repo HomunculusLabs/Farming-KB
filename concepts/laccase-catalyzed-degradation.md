@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Laccase-Catalyzed Degradation of Phenols and Chlorophenols
+## Laccase-Catalyzed Degradation of Phenols and Chlorophenols
 
 Laccases (benzenediol:oxygen oxidoreductases) are multicopper oxidases produced by white-rot fungi that catalyze the oxidation of phenols, chlorophenols, and other aromatic compounds using molecular oxygen as the electron acceptor. They are widely regarded as key enzymes in [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] laccase oxidizes PCP to benzoquinone and ortho/para-chloranils
 

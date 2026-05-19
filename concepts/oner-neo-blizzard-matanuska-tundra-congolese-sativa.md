@@ -4,7 +4,7 @@ source_type: paper
 topics: [cannabis, sativa, matanuska-tundra, congolese, evil-seeds, steak-aroma, heavy-yield, indoor-growing, outdoor-growing, 75-percent-sativa]
 ---
 
-# Neo Blizzard — Matanuska Tundra × Congolese by Evil Seeds
+## Neo Blizzard — Matanuska Tundra × Congolese by Evil Seeds
 
 ## Summary
 

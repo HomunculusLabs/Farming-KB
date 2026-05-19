@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"
 ---
 
-# Ultra-Low-Cost Seed Saving
+## Ultra-Low-Cost Seed Saving
 
 ## Seeds as the Foundation of Self-Sufficiency
 

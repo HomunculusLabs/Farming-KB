@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychedelics, phenethylamine, amphetamine, dosag
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# MDA Compound Profile
+## MDA Compound Profile
 
 ## Chemical Identity
 

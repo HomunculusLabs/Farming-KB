@@ -14,7 +14,7 @@ sources:
   - raw/particles/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-# Psilocybin Mushroom Habitat Types
+## Psilocybin Mushroom Habitat Types
 
 The ecological niches and substrates where psilocybin-containing mushrooms naturally occur.
 

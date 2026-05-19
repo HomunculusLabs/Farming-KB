@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, cultivation, incubation, colonization, mycelial-growth]
 ---
 
-# Mushroom Incubation
+## Mushroom Incubation
 
 ## Description
 

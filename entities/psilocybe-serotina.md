@@ -16,7 +16,7 @@ sources:
   - "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=312453"
 ---
 
-# Psilocybe Serotina
+## Psilocybe Serotina
 
 ## Overview
 

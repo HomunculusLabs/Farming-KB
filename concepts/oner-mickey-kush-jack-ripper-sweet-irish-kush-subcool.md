@@ -4,7 +4,7 @@ source_type: paper
 topics: [cannabis, sativa, kush, subcool, jack-the-ripper, sweet-irish-kush, team-green-avengers, thc-28, medical-cannabis, adhd, depression, sour-kush]
 ---
 
-# Mickey Kush [[psilocybin-in-the-counter-culture]] the source) is a sativa-dominant strain bred by Subcool and Team Green Avengers. A cross between Jack the Ripper and Sweet Irish Kush, it boasts an impressiv [[oner-sativa-medical-applications]] ons for AD [[cannabis-breeding-basics]] breeding community is well-established, and Mickey Kush continues that tradition of excellence. The combination of two highly regarded parent strains — the legendary Jack th [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] c properties without significantly dampening the psychoactive experience.
+## Mickey Kush [[psilocybin-in-the-counter-culture]] the source) is a sativa-dominant strain bred by Subcool and Team Green Avengers. A cross between Jack the Ripper and Sweet Irish Kush, it boasts an impressiv [[oner-sativa-medical-applications]] ons for AD [[cannabis-breeding-basics]] breeding community is well-established, and Mickey Kush continues that tradition of excellence. The combination of two highly regarded parent strains — the legendary Jack th [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] c properties without significantly dampening the psychoactive experience.
 
 ---
 

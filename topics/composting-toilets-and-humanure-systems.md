@@ -34,7 +34,7 @@ related_concepts:
   - greywater-systems-detailed
   - permaculture-designers-manual-greywater-systems
 ---
-# Composting Toilets and Humanure Systems
+## Composting Toilets and Humanure Systems
 Composting toilets and humanure systems are forms of ecological sanitation
 that collect human excreta without conventional water carriage and process it
 through controlled biological decomposition. Their central premise is that

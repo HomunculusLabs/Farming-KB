@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Smartshops
+## Smartshops
 
 Smartshops are retail outlets that specialise in psychoactive herbal substances, vitamins,
 mineral supplements, and other health products. They are most closely associated with the

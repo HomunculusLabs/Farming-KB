@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for Post-Surgery Wounds and Wound Care
+## Cannabis for Post-Surgery Wounds and Wound Care
 
 updated: 2026-04-18
 

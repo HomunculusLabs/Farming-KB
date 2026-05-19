@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Spore Print Collection vs Spore Syringe Production
+## Spore Print Collection vs Spore Syringe Production
 
 ## Overview
 Spore print collection captures [[spore-syringe-production]]

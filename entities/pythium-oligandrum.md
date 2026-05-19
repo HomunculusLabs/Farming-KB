@@ -5,10 +5,10 @@ type: species
 tags: [oomycete, mycoparasite, biocontrol, soil-fungi, plant-pathology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
-# Pythium oligandrum
+## Pythium oligandrum
 
 **Type:** Species (Oomycete)
 **Category:** Mycoparasitic Oomycete / Biocontrol Agent

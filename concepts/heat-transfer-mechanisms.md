@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Heat Transfer Mechanisms
+## Heat Transfer Mechanisms
 
 Heat transfer is a fundamental process governing site climate, building design, and agricultural planning in [[radiant-floor-heating]] systems, where hot water pipes buried in concrete slabs conduct warmth across an entire floor surface. Conduction is highly efficient for heating solid masses, which is why slab-floored houses with embedded heating elements perform so well — provided the slab is insulated from the surrounding earth to prevent heat loss downward.
 

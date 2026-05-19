@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Sterile Technique
+## Mushroom Sterile Technique
 
 Sterile [[cervantes-tissue-culture-micropropagation]] of one organism in absence
 of competitors became possible for the first time through his work.

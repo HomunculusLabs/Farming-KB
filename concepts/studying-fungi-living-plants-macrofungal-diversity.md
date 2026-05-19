@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Studying Fungi on Living Plants and Macrofungal Diversity Factors
+## Studying Fungi on Living Plants and Macrofungal Diversity Factors
 
 ## Overview
 

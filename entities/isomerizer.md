@@ -5,7 +5,7 @@ type: entity
 tags: [extraction-device, cannabis-processing, isomerization, d-gold, thai-power]
 ---
 
-# Isomerizer (ISO-2)
+## Isomerizer (ISO-2)
 
 ## Description
 

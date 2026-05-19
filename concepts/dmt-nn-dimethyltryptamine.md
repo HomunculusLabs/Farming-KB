@@ -5,7 +5,7 @@ tags: [tryptamine, dmt, hallucinogen, consciousness, pharmacology, neuroscience]
 created: 2026-05-09
 ---
 
-# DMT — N,N-Dimethyltryptamine
+## DMT — N,N-Dimethyltryptamine
 
 N,N-Dimethyltryptamine (DMT) is a potent, naturally occurring tryptamine
 hallucinogen found in numerous plant species across the globe and present

@@ -5,7 +5,7 @@ type: entity
 tags: [organizations, publishing, sustainable-agriculture]
 ---
 
-# Chelsea Green Publishing
+## Chelsea Green Publishing
 
 ## Description
 

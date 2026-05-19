@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, soil-biology, symbiosis]
 sources: [papers/symbiotic-fungi.md]
 ---
-# Mycorrhizal Proteomics
+## Mycorrhizal Proteomics
 
 Mycorrhizal proteomics is the large-scale study of protein expression patterns
 in mycorrhizal symbioses, using techniques such as two-dimensional gel

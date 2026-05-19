@@ -19,7 +19,7 @@ sources:
   - Schultes, R.E. & Hofmann, A. (1992). Plants of the Gods. Healing Arts Press.
   - Terry, M. & Trout, K. (2015). "Lophophora Distribution." CactusConservation.org.
 ---
-# Lophophora williamsii
+## Lophophora williamsii
 
 **Peyote** · **Peyotl** · **Hikuri** (Wixárika) · **Button Cactus**
 

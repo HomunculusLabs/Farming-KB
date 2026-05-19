@@ -5,7 +5,7 @@ type: entity
 tags: [person, inventor, surveying, Australia, permaculture]
 ---
 
-# Ralph Long
+## Ralph Long
 
 ## Description
 

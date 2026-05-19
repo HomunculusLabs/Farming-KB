@@ -7,7 +7,7 @@ tags: [food, preservation, fermentation, homesteading]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 ---
 
-# Homesteading Food Preservation
+## Homesteading Food Preservation
 
 Preserving the harvest extends seasonal abundance into year-round food security. The core methods are drying, fermentation, freezing, canning, and root cellaring — each suited to different foods.
 

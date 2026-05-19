@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Overgrazing and the Time Dimension
+## Overgrazing and the Time Dimension
 
 Overgrazing is one of the most misunderstood concepts in rangeland
 management. Allan Savory's work builds on the insights of French

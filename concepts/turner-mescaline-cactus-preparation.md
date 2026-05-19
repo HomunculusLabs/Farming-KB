@@ -8,7 +8,7 @@ sources: [raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
 type: concept
 ---
 
-# Trichocereus Cacti and Mescaline Preparation
+## Trichocereus Cacti and Mescaline Preparation
 
 ## Introduction
 

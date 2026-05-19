@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Harvesting Techniques and Workflow
+## Winter Harvesting Techniques and Workflow
 
 Harvesting vegetables from unheated greenhouses in cold climates presents unique challenges that differ significantly from summer operations. Efficient techniques, proper tools, and careful workflow management are essential for maintaining productivity and product quality during the winter months.
 

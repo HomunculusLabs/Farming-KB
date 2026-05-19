@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tree Biomass and the Forest as a Living System
+## Tree Biomass and the Forest as a Living System
 
 ## The Forest as Energy Translator
 

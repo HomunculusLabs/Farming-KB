@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Septic Tank Systems and Natural Swimming Pools
+## Septic Tank Systems and Natural Swimming Pools
 
 ## Overview
 

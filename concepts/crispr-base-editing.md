@@ -7,7 +7,7 @@ tags: []
 type: concept
 ---
 
-# CRISPR Base Editing
+## CRISPR Base Editing
 
 ## Overview
 CRISPR base editing is a genome engineering method that changes individual DNA bases without making a full double-strand break.

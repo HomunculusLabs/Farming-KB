@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Vanilla Orchid (Vanilla spp.)
+## Vanilla Orchid (Vanilla spp.)
 
 ## Description
 

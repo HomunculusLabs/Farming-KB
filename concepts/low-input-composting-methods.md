@@ -6,7 +6,7 @@ created: 2026-05-09
 source: Gardening When It Counts (Steve Solomon)
 ---
 
-# Low-Input Composting Methods
+## Low-Input Composting Methods
 
 Low-input composting refers to methods of converting organic waste into soil-building humus without expensive equipment, imported amendments, or intensive labor. Steve Solomon's *Gardening When It Counts* presents composting as essential but challenges the notion that high-quality compost requires elaborate techniques, arguing that simple methods producing lower-grade compost are more practical for self-sufficient gardeners.
 

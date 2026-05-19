@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil pH and Nutrient Availability
+## Soil pH and Nutrient Availability
 
 ## Overview
 

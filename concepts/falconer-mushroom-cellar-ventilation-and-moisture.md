@@ -10,14 +10,12 @@ tags: [
   ]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [
-    /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md,
-  ]
+sources: ["raw/papers/william-falconer-mushroom-how-to-grow-them.md,
+  "]
 type: concept
 ---
 
-# Cellar Ventilation and Moisture Management
+## Cellar Ventilation and Moisture Management
 
 Mushrooms require a uniform moderately low temperature
 and moist atmosphere, and will not thrive where draughts,

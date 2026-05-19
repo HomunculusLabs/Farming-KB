@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
-# Fungal Diversity in Arid and Desert Environments Fungal diversity in arid and desert ecosystems is shaped by extreme conditions of low water availability, high temperatures, intense solar radiation, and large diurnal temperature fluctuations. These conditions create a unique subset of [[soil-food-web-nutrient-cycling]] framework helps contextualize desert soil communities. Desert soils generally are characterized by low propagule densities but high species diversity (Christensen 1981a; Mouchacca 1995). Mitosporic fungi with melanized, often thick-walled conidia are well represented, including genera such as Alternaria, Ulocladium, Curvularia, Periconia, and Papulaspora.
+## Fungal Diversity in Arid and Desert Environments Fungal diversity in arid and desert ecosystems is shaped by extreme conditions of low water availability, high temperatures, intense solar radiation, and large diurnal temperature fluctuations. These conditions create a unique subset of [[soil-food-web-nutrient-cycling]] framework helps contextualize desert soil communities. Desert soils generally are characterized by low propagule densities but high species diversity (Christensen 1981a; Mouchacca 1995). Mitosporic fungi with melanized, often thick-walled conidia are well represented, including genera such as Alternaria, Ulocladium, Curvularia, Periconia, and Papulaspora.
 
 Fungi with melanized pycnidia, dark-spored ascomycetes, and fungi producing chlamydospores, bulbils, or sclerotia are also common in desert soils. These structures are considered adaptations to extreme desiccation and insolation.
 

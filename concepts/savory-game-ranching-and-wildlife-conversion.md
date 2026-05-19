@@ -9,7 +9,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Game Ranching and Wildlife Conversion
+## Game Ranching and Wildlife Conversion
 
 Game ranching -- substituting wild game for domestic livestock as a
 production enterprise -- was one of Savory's early ideas in the 1960s.

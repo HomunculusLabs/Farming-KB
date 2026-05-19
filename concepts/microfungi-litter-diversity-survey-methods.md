@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi, biodiversity, survey-methods]
 sources: []
 ---
-# Microfungi Litter and Wood Debris Diversity Survey Methods
+## Microfungi Litter and Wood Debris Diversity Survey Methods
 
 ## Overview
 

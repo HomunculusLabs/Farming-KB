@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# The Transition from Chemical to Biological Gardening
+## The Transition from Chemical to Biological Gardening
 
 ## The Typical Suburban Gardener's Routine
 

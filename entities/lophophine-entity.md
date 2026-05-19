@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# LOPHOPHINE
+## LOPHOPHINE
 
 **[[mmda-entity]]) via nitrostyrene formation with nitromethane and ammonium acetate in acetic acid, followed by LAH reduction over a 9-day reflux period using Soxhlet addition. The hydrochloride salt had a mp of 164-164.5 degrees C.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [soil, microorganism, leaf-mold, forest-floor, jadam, fertility, biology]
 ---
 
-# Leaf Mold (JADAM)
+## Leaf Mold (JADAM)
 
 ## Description
 

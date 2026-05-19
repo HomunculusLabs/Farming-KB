@@ -19,7 +19,7 @@ sources:
     arbuscular-mycorrhizal-fungal-diversity-patterns-distribution Press.
 ---
 
-# Psilocybe serbica
+## Psilocybe serbica
 
 **Psilocybe serbica** is a potent psilocybin-containing mushroom
 native to Central and Southeastern Europe.

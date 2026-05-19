@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Fungal Autoregulatory Signals and Colony Communication
+## Fungal Autoregulatory Signals and Colony Communication
 
 ## Overview
 

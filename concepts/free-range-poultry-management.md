@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Free-Range Poultry Management
+## Free-Range Poultry Management
 
 Free-range poultry and pig systems are integral components of [[rhode-island-red]],
 Plymouth Rock, and [[australorp]].

@@ -15,7 +15,7 @@ sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
-# Energy Efficiency in Natural Farming
+## Energy Efficiency in Natural Farming
 
 Energy efficiency is one of the most compelling arguments for natural
 farming, as articulated by [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] inputs for mechanization,

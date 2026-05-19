@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Purdue Vegetable Planting Reference Table
+## Purdue Vegetable Planting Reference Table
 
 A quick-reference for planting [[wide-row-spacing-intensive-gardening-comparison]]:** 1 ft between rows
 - **Plant spacing:** 3 inches between plants

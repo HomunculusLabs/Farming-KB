@@ -12,7 +12,7 @@ tags:
   - cordyceps
 ---
 
-# Clavicipitales
+## Clavicipitales
 
 ## Description
 

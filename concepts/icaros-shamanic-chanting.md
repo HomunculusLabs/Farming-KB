@@ -6,7 +6,7 @@ created: 2026-05-08
 source: stuart-r-ayahuasca-tourism.md
 ---
 
-# Icaros — Shamanic Chanting in Ayahuasca Ceremonies
+## Icaros — Shamanic Chanting in Ayahuasca Ceremonies
 
 Icaros (also spelled *ikaros*) are sacred melodic chants sung by Amazonian shamans during ayahuasca ceremonies. They serve as one of the most distinctive and essential elements of the ayahuasca experience, functioning simultaneously as [[ayahuasca-tourism]]
 - [[shipibo-icaros-healing-songs]]

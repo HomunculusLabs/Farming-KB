@@ -6,7 +6,7 @@ type: concept
 tags: [cultivation, mycology]
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
-# Enoki Mushroom Cultivation
+## Enoki Mushroom Cultivation
 
 Enoki ([[fungi-cultivated-mushrooms-pathogens-competitors]] in Japan, where it has been grown commercially for centuries. In the wild, it is a short-stemmed mushroom with broad caps. Through manipulation of CO2 and light levels, cultivators produce the characteristic long-stemmed, small-capped form that dominates the [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, from sea level to tree-line
 

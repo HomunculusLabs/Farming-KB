@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Can I Grow Mushrooms Alongside Garden Vegetables?
+## How Can I Grow Mushrooms Alongside Garden Vegetables?
 
 ## Short Answer
 Mushrooms can be integrated into vegetable gardens by inoculating garden beds

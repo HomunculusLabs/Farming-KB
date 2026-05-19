@@ -6,7 +6,7 @@ chapter: 6 - The High Plains of Eden
 tags: [mckenna, tassili, sahara, paradise, round-head, catal-huyuk, gaia]
 ---
 
-# The High Plains of Eden
+## The High Plains of Eden
 
 In Chapter 6 of *Food of the Gods*, McKenna presents archaeological
 and ethnobotanical evidence for a lost psychedelic paradise culture

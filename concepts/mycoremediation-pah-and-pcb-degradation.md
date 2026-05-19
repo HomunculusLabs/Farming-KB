@@ -7,7 +7,7 @@ type: concept
 sources: []
 ---
 
-# Mycoremediation of PAH and PCB Degradation
+## Mycoremediation of PAH and PCB Degradation
 
 ## Overview
 

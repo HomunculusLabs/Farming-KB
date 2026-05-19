@@ -5,7 +5,7 @@ created: 2026-05-09
 tags: [policy, law, market, europe, smartshop, legislation, regulation, EMCDDA, online-sales]
 ---
 
-# Markets and Legal Status of Hallucinogenic Mushrooms in Europe
+## Markets and Legal Status of Hallucinogenic Mushrooms in Europe
 
 ## Overview
 

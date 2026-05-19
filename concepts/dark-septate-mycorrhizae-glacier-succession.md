@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Dark-Septate Mycorrhizae and Primary Succession on Glacial Forefronts
+## Dark-Septate Mycorrhizae and Primary Succession on Glacial Forefronts
 
 ## Overview
 

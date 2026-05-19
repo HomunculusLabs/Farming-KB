@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Bamboo as Building Material
+## Bamboo as Building Material
 
 Bamboo is one of the fastest-growing and most versatile [[gadd-fungal-biodegradation-concrete-building-materials]] on Earth. With tensile strength comparable to steel and compressive strength rivaling concrete, bamboo has been used for millennia in tropical and subtropical construction. Modern engineering has expanded its applications to flooring, structural beams, scaffolding, furniture, and even bridges.
 

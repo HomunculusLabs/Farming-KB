@@ -7,7 +7,7 @@ type: concept
 tags: [phenethylamine, shulgin]
 ---
 
-# 2C-G
+## 2C-G
 
 2,5-Dimethoxy-3,4-dimethylphenethylamine
 

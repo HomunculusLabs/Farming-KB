@@ -7,7 +7,7 @@ tags: [gardening, soil, nutrients, minerals, fertilizer, compost, beginner]
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Garden Soil Basics
+## Garden Soil Basics
 
 Soil fundamentals for [[dryland-vegetable-gardening]], from Steve Solomon's *Gardening When It Counts*. Solomon argues that soil mineral balance directly determines the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of your food.
 

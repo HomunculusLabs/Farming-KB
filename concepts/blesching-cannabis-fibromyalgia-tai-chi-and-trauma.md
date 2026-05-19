@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Fibromyalgia, Cannabis, and the Role of Trauma and Positive Affect
+## Fibromyalgia, Cannabis, and the Role of Trauma and Positive Affect
 
 ## Evidence-Based Confidence Level
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Aquaculture - Fish Farming and Water Ecosystems
+## Holzer Aquaculture - Fish Farming and Water Ecosystems
 
 updated: 2026-04-18
 

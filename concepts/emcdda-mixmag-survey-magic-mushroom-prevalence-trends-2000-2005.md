@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Mixmag Survey: Magic Mushroom Prevalence Trends 2000 to 2005
+## Mixmag Survey: Magic Mushroom Prevalence Trends 2000 to 2005
 
 The Mixmag readership survey, conducted annually by a UK clubbing magazine, provides the only available multi-year trend data on [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] as a Class A controlled drug in July 2005, found that 67% of respondents reported that mushrooms were less available than they had been previously. This finding provides direct evidence that legislative change had an immediate and measurable impact on perceived market availability within the clubbing community.
 

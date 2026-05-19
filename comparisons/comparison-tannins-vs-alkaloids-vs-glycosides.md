@@ -14,7 +14,7 @@ type: comparison
 created: 2026-04-28
 ---
 
-# Tannins vs Alkaloids vs Glycosides
+## Tannins vs Alkaloids vs Glycosides
 
 A structured comparison of three [[fungal-allelopathy-mechanisms-and-ecological-effects]] for ecological warfare roles.
 

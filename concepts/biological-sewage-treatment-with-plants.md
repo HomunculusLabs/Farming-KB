@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Biological Sewage Treatment with Plants
+## Biological Sewage Treatment with Plants
 
 Higher aquatic plants provide sophisticated biological treatment of sewage and polluted water, capable of removing heavy metals, human pathogens, and even breaking down halogenated hydrocarbons synthesised as herbicides and pesticides. These plant-based systems represent the most advanced stage of natural sewage treatment, following anaerobic digestion and facultative/aerobic pond processing.
 

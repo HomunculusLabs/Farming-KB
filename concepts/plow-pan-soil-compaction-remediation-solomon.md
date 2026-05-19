@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon
 tags: [soil-compaction, plow-pan, rototiller, double-digging, moldboard-plow, soil-structure, spade, gardening]
 ---
 
-# Plow Pan and Soil Compaction Remediation
+## Plow Pan and Soil Compaction Remediation
 
 ## Overview
 

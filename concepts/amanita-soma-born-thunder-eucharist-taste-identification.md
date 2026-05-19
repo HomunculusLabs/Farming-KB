@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Amanita Muscaria Soma Born of Thunder and Eucharist Taste
+## Amanita Muscaria Soma Born of Thunder and Eucharist Taste
 
 ## Soma "Born of Thunder"
 

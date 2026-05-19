@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# ARIADNE
+## ARIADNE
 
 [[ariadne-pihkal-entry-8]]
 - [[ethyl-j-entity-pihkal]]

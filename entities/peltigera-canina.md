@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Peltigera canina
+## Peltigera canina
 
 **Peltigera canina**, the dog lichen, is a foliose lichen-forming ascomycete in the family Peltigeraceae.
 

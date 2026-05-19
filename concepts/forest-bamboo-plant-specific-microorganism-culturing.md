@@ -4,7 +4,7 @@ source: bahay-kubo-indigenous-microorganisms_.md
 type: concept
 ---
 
-# Forest, Bamboo, and Plant-Specific Microorganism Culturing
+## Forest, Bamboo, and Plant-Specific Microorganism Culturing
 
 ## Overview
 

@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# How do I build terraces for gardening on a slope?
+## How do I build terraces for gardening on a slope?
 
 ## Short Answer
 

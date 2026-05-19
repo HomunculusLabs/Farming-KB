@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Does Mycoremediation Work and What Can Fungi Clean Up?
+## How Does Mycoremediation Work and What Can Fungi Clean Up?
 
 ## Short Answer
 Mycoremediation uses fungi to break down or sequester environmental pollutants

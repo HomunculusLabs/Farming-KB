@@ -20,7 +20,7 @@ related_concepts:
   - cannabis-screen-of-green-scrog-guide
 ---
 
-# Cannabis Indoor Growing Guide
+## Cannabis Indoor Growing Guide
 
 Indoor [[eclss-environmental-control-life-support]] systems, nutrient science, and genetics.
 Today's growers have access to LED lights that outperform traditional
@@ -85,7 +85,7 @@ modern LED systems. A typical 1000-watt HPS system produces only about 30 to
   1981.
 ## Blesching Cannabis Turmeric Curcumin Antiviral Anticancer Adjunct
 
-# Turmeric and Curcumin as Antiviral and Anticancer Adjuncts ## Overview Turmeric (*Curcuma longa*) is described in the Cannabis Health Index (CHI) as "almost considered a wonder drug with a broad therapeutic potential." The primary active constituent, curcumin, has demonstrated significant antiviral activity against herpes simplex virus type I (HSV-I) by blocking viral gene expression through promoter inhibition. The German Commission E has approved turmeric for the treatment of digestive difficulties at a dose of 1.5 to 3 grams daily. The CHI positions turmeric as a food-based complementary therapy that can work alongside cannabis and other botanical medicines. ## Turmeric in the CHI Framework Within the Cannabis Health Index, turmeric appears in multiple "Let Food Be Thy Medicine" sections across various disease entries. Its inclusion reflects the CHI's integrative philosophy: cannabis therapy is most effective when supported by complementary nutritional and botanical interventions. ...
+## Turmeric and Curcumin as Antiviral and Anticancer Adjuncts ## Overview Turmeric (*Curcuma longa*) is described in the Cannabis Health Index (CHI) as "almost considered a wonder drug with a broad therapeutic potential." The primary active constituent, curcumin, has demonstrated significant antiviral activity against herpes simplex virus type I (HSV-I) by blocking viral gene expression through promoter inhibition. The German Commission E has approved turmeric for the treatment of digestive difficulties at a dose of 1.5 to 3 grams daily. The CHI positions turmeric as a food-based complementary therapy that can work alongside cannabis and other botanical medicines. ## Turmeric in the CHI Framework Within the Cannabis Health Index, turmeric appears in multiple "Let Food Be Thy Medicine" sections across various disease entries. Its inclusion reflects the CHI's integrative philosophy: cannabis therapy is most effective when supported by complementary nutritional and botanical interventions. ...
 
 ## Cannabis Extraction Methods Overview
 
@@ -97,4 +97,4 @@ Updated: 2026-04-18 Source: The Cannabis Grow Bible, Greg Green (Ch. 4) Security
 
 ## Durban Poison
 
-# Durban Poison Durban Poison is one of the most important and influential pure sativa landrace strains in cannabis genetics. Originating from the city of Durban, South Africa, located approximately 30 degrees south latitude, this strain has played a pivotal role in cannabis breeding worldwide, particularly in the development of early-finishing sativa hybrids suited for northern hemisphere cultivation. ## Geographic Origin and Significance Durban Poison originates from Durban, South Africa, a coastal city positioned at roughly 30 degrees south latitude. This geographic positioning is critical to understanding the strain's unique flowering characteristics. When grown in the northern hemisphere, Durban Poison begins flowering outdoors in late June and finishes in the second half of September, well before coastal fog or autumn rain becomes problematic. ...
+## Durban Poison Durban Poison is one of the most important and influential pure sativa landrace strains in cannabis genetics. Originating from the city of Durban, South Africa, located approximately 30 degrees south latitude, this strain has played a pivotal role in cannabis breeding worldwide, particularly in the development of early-finishing sativa hybrids suited for northern hemisphere cultivation. ## Geographic Origin and Significance Durban Poison originates from Durban, South Africa, a coastal city positioned at roughly 30 degrees south latitude. This geographic positioning is critical to understanding the strain's unique flowering characteristics. When grown in the northern hemisphere, Durban Poison begins flowering outdoors in late June and finishes in the second half of September, well before coastal fog or autumn rain becomes problematic. ...

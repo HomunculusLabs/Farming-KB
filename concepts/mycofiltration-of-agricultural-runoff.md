@@ -7,7 +7,7 @@ tags: [bioremediation, mycofiltration, agriculture, water-quality]
 sources: [raw/books/stamets-p-mycelium-running.md]
 ---
 
-# Mycofiltration of Agricultural Runoff
+## Mycofiltration of Agricultural Runoff
 
 Using fungal membranes to filter farm effluent and protect watersheds
 

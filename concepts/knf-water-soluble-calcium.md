@@ -9,7 +9,7 @@ sources:
   - raw/papers/chos-global-natural-farming.md
 ---
 
-# KNF Water Soluble Calcium (WSC)
+## KNF Water Soluble Calcium (WSC)
 
 Water Soluble Calcium is extracted from eggshells, animal bones, or seashells using [[brown-rice-vinegar-brv]] (BRV). It strengthens plant [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], improves fruit quality, and helps prevent disease.
 

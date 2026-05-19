@@ -7,7 +7,7 @@ sources: linda-chalker-scott-the-informed-gardener
 tags: [garden-myths, mulch, water, irrigation, horticulture, debunking]
 ---
 
-# Garden Myths About Mulching and Watering
+## Garden Myths About Mulching and Watering
 
 Mulching and watering practices are surrounded by myths that range from merely wasteful to actively harmful. Understanding the science behind these common practices helps gardeners make better decisions for plant health, water conservation, and soil management.
 

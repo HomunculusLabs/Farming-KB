@@ -1,4 +1,8 @@
-# Mexican Indigenous Neurotropic Fungi Use
+---
+title: "Mexican Indigenous Neurotropic Fungi Use"
+tags:
+  - concept
+---
 
 ## Overview
 

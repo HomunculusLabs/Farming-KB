@@ -16,7 +16,7 @@ sources:
   - Chen, Q. et al. (2013). "permaculture-designers-manual-essential-oil-plants Composition of Zanthoxylum bungeanum from China." Chemistry of Natural Compounds, 49(2), 328–331.
 ---
 
-# Zanthoxylum bungeanum
+## Zanthoxylum bungeanum
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Philodendron selloum (Thermogenic Philodendron)
+## Philodendron selloum (Thermogenic Philodendron)
 
 ## Description
 

@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: []
 type: query
 ---
-# What Is Biochar and How Should I Use It in My Garden?
+## What Is Biochar and How Should I Use It in My Garden?
 
 Biochar is a carbon-rich, porous material produced by heating organic biomass (wood, crop residues, manure) in a low-oxygen environment through a process called **pyrolysis**. Unlike regular charcoal, biochar is specifically intended as a long-term soil amendment. Its microscopic sponge-like structure holds water, nutrients, and beneficial microbes, making it one of the most enduring soil improvements you can add to a garden or farm.
 

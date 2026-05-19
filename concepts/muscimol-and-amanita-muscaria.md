@@ -7,7 +7,7 @@ tags: [reference]
 sources: [papers/amanita-muscaria-herb-of-immortality.md]
 ---
 
-# Muscimol and Amanita Muscaria
+## Muscimol and Amanita Muscaria
 
 Amanita muscaria (the [[amanita-muscaria-chemistry-and-pharmacology]] is essential.
 

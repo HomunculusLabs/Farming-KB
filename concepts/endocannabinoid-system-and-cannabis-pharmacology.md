@@ -8,7 +8,7 @@ sources:
   - uwe-blesching-the-cannabis-health-index.md
 ---
 
-# Endocannabinoid System and Cannabis Pharmacology
+## Endocannabinoid System and Cannabis Pharmacology
 
 The endocannabinoid system (ECS) is a widespread neuromodulatory
 system in the human body that plays critical roles in regulating

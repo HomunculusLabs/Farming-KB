@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Hyphal Growth Kinetics
+## Hyphal Growth Kinetics
 
 Hyphal growth is the fundamental mode of vegetative expansion for filamentous
 fungi. Understanding the kinetics of [[ph-and-nutrient-availability-garden-soils]], water potential, pH, and the presence of

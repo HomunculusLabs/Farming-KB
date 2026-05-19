@@ -23,7 +23,7 @@ sources:
   - "Guzmán, G., Allen, J.W., & Gartz, J. (2000). A worldwide psilocybe-geographical-distribution-patterns of the neurotropic fungi. An analysis and discussion. Annales des Sciences Naturelles, Botanique, 1(1), 71-86."
 ---
 
-# Psilocybe caerulescens
+## Psilocybe caerulescens
 
 ## Overview
 

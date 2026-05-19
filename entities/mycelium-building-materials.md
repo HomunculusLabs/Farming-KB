@@ -5,7 +5,7 @@ type: entity
 tags: [mycelium, construction, insulation, sustainability, biomaterials]
 ---
 
-# Mycelium Building Materials
+## Mycelium Building Materials
 
 ## Description
 

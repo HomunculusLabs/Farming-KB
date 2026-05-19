@@ -21,7 +21,7 @@ tags: [`tryptamine`, `entheogen`]
 sources:
   - raw/papers/shulgin-a-tihkal.md
 
-# 5,6-MDO-DIPT
+## 5,6-MDO-DIPT
 
 5,6-Methylenedioxy-N,N-Diisopropyltryptamine
 

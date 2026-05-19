@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi, biomass, methods, soil-mycology]
 sources: []
 ---
-# Fungal Biomass Estimation Methods
+## Fungal Biomass Estimation Methods
 
 Accurate measurement of fungal biomass in soil and organic matter is
 essential for understanding fungal contributions to decomposition,

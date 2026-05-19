@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-mda-compound-profile|shulgin-a-tihkal.md"]
 ---
-# 5-MeO-DET — TIHKAL #36
+## 5-MeO-DET — TIHKAL #36
 
 ## Compound Identity
 

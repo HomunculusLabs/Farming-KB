@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Life History Strategies
+## Fungal Life History Strategies
 
 Fungal life history strategies describe the ecological trade-offs that govern how fungi allocate energy between growth, reproduction, defense, and stress tolerance. Two major theoretical frameworks have been applied to fungi: the **r–K continuum** and the more nuanced **R–C–S (Grime) triangle**. Understanding these strategies is essential for predicting how fungal communities respond to resource availability, disturbance, and environmental change.
 

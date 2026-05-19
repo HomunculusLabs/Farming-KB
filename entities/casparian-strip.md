@@ -5,7 +5,7 @@ type: entity
 tags: [anatomy, plant-physiology, roots, water-transport, cell-biology]
 ---
 
-# Casparian Strip
+## Casparian Strip
 
 ## Description
 

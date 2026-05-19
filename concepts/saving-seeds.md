@@ -7,7 +7,7 @@ tags: [homesteading, seeds, genetics, harvesting, storage, cultivation, sustaina
 sources: []
 ---
 
-# Saving Seeds
+## Saving Seeds
 
 [[permaculture-seed-saving-and-selection|Seed saving]] is one of the most empowering homesteading skills. It reduces costs, preserves genetic diversity, and develops plant varieties uniquely adapted to your local conditions. Over generations, saved seeds become more resilient and productive on your specific land.
 

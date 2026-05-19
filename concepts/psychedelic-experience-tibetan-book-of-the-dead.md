@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Psychedelic Experience Based on the Tibetan Book of the Dead
+## Psychedelic Experience Based on the Tibetan Book of the Dead
 
 ## The Manual and Its Purpose
 

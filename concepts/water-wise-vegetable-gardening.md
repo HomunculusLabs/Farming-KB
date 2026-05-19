@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Water-Wise Vegetable Gardening
+## Water-Wise Vegetable Gardening
 
 Water-wise vegetable gardening encompasses a comprehensive set of strategies, tools, and philosophies for growing food with minimal water input while maintaining productivity.
 Drawing from Steve Solomon's decades of experience—spanning his founding of [[territorial-seed-company]] in Oregon and his later work in Canada and Australia—this approach integrates soil management, plant selection, irrigation technology, and a broader philosophy of food self-sufficiency.

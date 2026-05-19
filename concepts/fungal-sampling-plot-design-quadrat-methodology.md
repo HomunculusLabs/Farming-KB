@@ -12,7 +12,7 @@ tags:
   - field-methods
 ---
 
-# Fungal Sampling Plot Design and Quadrat Methodology
+## Fungal Sampling Plot Design and Quadrat Methodology
 
 ## Overview
 

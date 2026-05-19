@@ -8,7 +8,7 @@ type: concept
 tags: [cultivation, history, mushroom-cultivation]
 ---
 
-# McKenna on Mushroom Cultivation History
+## McKenna on Mushroom Cultivation History
 
 In [Food of the Gods, [[psychedelic-mushroom-set-and-setting]]
 traces the history of human interaction with psychedelic mushrooms from

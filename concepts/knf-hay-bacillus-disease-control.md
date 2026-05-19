@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# Hay Bacillus Disease Control
+## Hay Bacillus Disease Control
 
 **Source:** [[knf-oriental-herbal-nutrient]] for additional antimicrobial protection
 - Used with [[jadam-ambient-temperature-principle]], producing a characteristic earthy smell.

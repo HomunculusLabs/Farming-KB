@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# Fennel (Foeniculum vulgare)
+## Fennel (Foeniculum vulgare)
 
 ## Description
 

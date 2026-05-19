@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dryland Building and Settlement
+## Dryland Building and Settlement
 
 Dryland environments present unique challenges for human habitation and agriculture. Permaculture approaches to building and settlement in arid and semi-arid regions emphasize earth-sheltered construction, passive cooling, water harvesting, and the strategic use of desert-adapted plant species.
 

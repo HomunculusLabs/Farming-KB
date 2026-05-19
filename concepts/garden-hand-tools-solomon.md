@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# [[permaculture-plants-root-crops-and-tubers]].
+## [[permaculture-plants-root-crops-and-tubers]].
 
 ### The Garden Fork
 A four-tined fork is essential for soils that are not excessively stony. The fork:

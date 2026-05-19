@@ -10,7 +10,7 @@ sources:
   - "Sepp Holzer - A Practical Guide to Small-Scale Integrative Farming and Gardening"
 ---
 
-# Holzer Pig Keeping and Paddock System
+## Holzer Pig Keeping and Paddock System
 
 Pigs play a central role in the integrated farming system at the Krameterhof. Sepp Holzer raises old and endangered pig breeds in a paddock system that keeps all animals outside year-round. The pigs serve multiple functions: soil preparation, [[sepp-holzer-terrace-systems-and-raised-beds]] approach.
 

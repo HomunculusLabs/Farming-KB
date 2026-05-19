@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, ectomycorrhizal, basidiomycete, restoration]
 ---
 
-# Hebeloma crustuliniforme
+## Hebeloma crustuliniforme
 
 ## Description
 

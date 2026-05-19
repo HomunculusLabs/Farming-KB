@@ -16,7 +16,7 @@ sources:
   - carolina-mushrooms_08qxp.md
 ---
 
-# Czech Republic Aromatic Decorative Mushroom Legal Loophole
+## Czech Republic Aromatic Decorative Mushroom Legal Loophole
 
 ## Overview
 

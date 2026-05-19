@@ -18,7 +18,7 @@ tags:
   - sacred-plants
 ---
 
-# Wasson's Revelation: The Discovery of the Magic Mushroom Cult
+## Wasson's Revelation: The Discovery of the Magic Mushroom Cult
 
 ## The Mycophile and the Mycophobe
 

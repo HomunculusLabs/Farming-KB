@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# No-Till vs Mulch for Soil Management
+## No-Till vs Mulch for Soil Management
 
 ## Overview
 

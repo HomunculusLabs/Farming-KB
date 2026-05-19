@@ -8,7 +8,7 @@ categories:
   - sustainability
 ---
 
-# Right Livelihood Award
+## Right Livelihood Award
 
 ## Description
 

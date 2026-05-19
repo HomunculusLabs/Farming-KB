@@ -5,7 +5,7 @@ type: entity
 tags: [person, author, researcher, cannabis-history]
 ---
 
-# Michael Starks
+## Michael Starks
 
 ## Description
 

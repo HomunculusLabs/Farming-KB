@@ -1,5 +1,5 @@
 ---
-title: Permaculture mollison-designers-appropriate-technology-small-scale-tools
+title: "Appropriate Technology"
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Permaculture Appropriate Technology
+## Permaculture Appropriate Technology
 
 Permaculture appropriate technology is the selection, design, and application of tools, techniques, and systems that are small-scale, decentralised, energy-efficient, locally maintainable, and environmentally benign. The concept derives from E.F. Schumacher's philosophy of Small is Beautiful and is integral to [[garden-hand-tools-solomon]] including mattocks, shovels, digging bars, and wheelbarrows are sufficient for small-scale swale and garden construction.
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# The Plant Kingdom and Hallucinogenic Plants
+## The Plant Kingdom and Hallucinogenic Plants
 
 ## Linnaean Classification and the Rise of Botany
 

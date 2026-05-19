@@ -8,7 +8,7 @@ sources: ["Scopoli 1772", "Persoon 1801", "Pliny Naturalis Historia", "Palmer Ab
 aliases: [Caesar's mushroom, Caesar's amanita, royal amanita, ovolo, oronge, Kaiserling, rebozuelo]
 ---
 
-# Amanita caesarea (Scop.) Pers.
+## Amanita caesarea (Scop.) Pers.
 
 **Type:** Species (Fungus — Basidiomycete, Agaricales)
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Sand Dam
+## Sand Dam
 
 ## Description
 

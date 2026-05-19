@@ -5,7 +5,7 @@ type: entity
 tags: [organization, technique, dryland, salinity, western-australia, permaculture]
 ---
 
-# WISALT (West Australian Salt Land Reclamation)
+## WISALT (West Australian Salt Land Reclamation)
 
 ## Description
 

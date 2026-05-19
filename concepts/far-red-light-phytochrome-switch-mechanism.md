@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Far-Red Light and the Phytochrome Molecular Switch Mechanism
+## Far-Red Light and the Phytochrome Molecular Switch Mechanism
 
 ## Overview
 

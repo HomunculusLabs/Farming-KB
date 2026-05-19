@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Santa Claus Shamanic Origins
+## Santa Claus Shamanic Origins
 
 The modern figure of Santa Claus evolved from a complex amalgamation of [[allegro-amanita-muscaria-properties-and-pharmacology]]** in Siberia is well documented and provides the key to understanding many seemingly arbitrary Christmas traditions.
 

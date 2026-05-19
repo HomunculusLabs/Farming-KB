@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Grow Ginseng in My Garden or Woodland?
+## How Do I Grow Ginseng in My Garden or Woodland?
 
 ## Short Answer
 

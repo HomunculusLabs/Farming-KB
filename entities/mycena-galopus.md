@@ -9,7 +9,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Mycena galopus
+## Mycena galopus
 
 **Mycena galopus** is a saprotrophic basidiomycete fungus in the family
 Mycenaceae, commonly known as the milky mycena. It is one of the most

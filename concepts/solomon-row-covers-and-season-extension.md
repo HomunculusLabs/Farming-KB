@@ -7,7 +7,7 @@ tags: [organic-gardening, soil]
 sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
-# Solomon on Row Covers and Season Extension
+## Solomon on Row Covers and Season Extension
 
 From [[solomon-row-covers-physical-pest-exclusion]]
 

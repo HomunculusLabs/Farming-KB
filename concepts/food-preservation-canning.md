@@ -7,7 +7,7 @@ tags: [homesteading, methods, gardening, health, troubleshooting]
 sources: []
 ---
 
-# Food Preservation and Canning
+## Food Preservation and Canning
 
 Food preservation is the practice of treating and storing food so it remains safe and nutritious long after harvest. For homesteaders and gardeners, preservation transforms seasonal abundance into year-round food security. Methods include water bath canning, [[pressure-canning-food-preservation]], fermentation, drying, freezing, and root cellaring. Each method is suited to different types of food and has specific safety requirements.
 

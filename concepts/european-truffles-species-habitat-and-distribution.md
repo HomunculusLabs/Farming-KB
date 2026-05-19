@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# European Truffles: Species, Habitat, and Distribution
+## European Truffles: Species, Habitat, and Distribution
 
 ## Overview
 

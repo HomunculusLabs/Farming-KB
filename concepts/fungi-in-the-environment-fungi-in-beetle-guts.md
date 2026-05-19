@@ -17,7 +17,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Fungi in Beetle Guts
+## Fungi in Beetle Guts
 
 The guts of beetles harbour a remarkable and largely unexplored diversity of fungi, predominantly yeasts. Insect-fungal symbioses are widespread in nature, but while bacterial endosymbionts of insects have been intensively studied for their roles in nutrition, reproduction, and speciation, fungal associates have received far less attention. Recent research on beetle gut yeasts has revealed an extraordinary hidden [[psilocybe-cubensis-developmental-stages]]
 

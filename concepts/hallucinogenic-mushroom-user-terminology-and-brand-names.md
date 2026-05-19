@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogenic Mushroom User Terminology and Brand Names
+## Hallucinogenic Mushroom User Terminology and Brand Names
 
 ## Overview
 

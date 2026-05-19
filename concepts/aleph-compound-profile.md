@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# ALEPH (DOT) — 2,5-Dimethoxy-4-Methylthioamphetamine
+## ALEPH (DOT) — 2,5-Dimethoxy-4-Methylthioamphetamine
 
 ## Overview
 

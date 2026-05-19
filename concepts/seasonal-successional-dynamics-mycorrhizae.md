@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Seasonal and Successional Dynamics of Mycorrhizal Communities
+## Seasonal and Successional Dynamics of Mycorrhizal Communities
 
 ## Overview
 

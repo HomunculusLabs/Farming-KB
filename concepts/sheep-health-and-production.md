@@ -20,7 +20,7 @@ sources:
 - raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md
 ---
 
-# Sheep Health and Production
+## Sheep Health and Production
 
 Health management, vaccination schedules, shearing, wool processing, growth data, and homestead integration for sheep. See [[sheep-husbandry]] for breed selection, housing, feeding, and breeding.
 

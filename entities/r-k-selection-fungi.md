@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
 
-# r-K and R-C-S Selection Strategies in Fungi
+## r-K and R-C-S Selection Strategies in Fungi
 
 ## Description
 

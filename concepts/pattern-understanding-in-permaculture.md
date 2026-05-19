@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Pattern Understanding in Permaculture
+## Pattern Understanding in Permaculture
 
 ## Overview
 

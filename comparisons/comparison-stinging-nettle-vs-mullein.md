@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Stinging Nettle vs Mullein
+## Stinging Nettle vs Mullein
 
 ## Overview
 

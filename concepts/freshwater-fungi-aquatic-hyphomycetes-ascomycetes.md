@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, freshwater-fungi, aquatic-hyphomycetes, ascomycetes, stream-ecology]
 sources: []
 ---
-# Freshwater Fungi — Aquatic Hyphomycetes and Ascomycetes
+## Freshwater Fungi — Aquatic Hyphomycetes and Ascomycetes
 Freshwater habitats harbor diverse [[savory-soil-organic-matter-and-decomposition-dynamics]] [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 The best-studied group is the aquatic or "Ingoldian" hyphomycetes, but
 freshwater ascomycetes and other fungal groups are also ecologically

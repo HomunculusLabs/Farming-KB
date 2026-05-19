@@ -8,7 +8,7 @@ sources: ["papers/hofmann-a-lsd-my-problem-child.md"]
 type: concept
 ---
 
-# Lysergic Acid Amide Discovery in Ololiuhqui
+## Lysergic Acid Amide Discovery in Ololiuhqui
 
 The chemical investigation of ololiuhqui, the ancient Aztec magic
 [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] previously known only

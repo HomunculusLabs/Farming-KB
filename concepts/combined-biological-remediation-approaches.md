@@ -6,7 +6,7 @@ type: concept
 tags: [remediation, environment]
 sources: []
 ---
-# Combined Biological Remediation Approaches
+## Combined Biological Remediation Approaches
 
 No single organism or remediation technology effectively treats all contaminants. Combined approaches integrate fungi with bacteria, plants, physical methods, or chemical treatments to achieve more complete and rapid contaminant removal. These synergistic strategies exploit complementary metabolic capabilities.
 

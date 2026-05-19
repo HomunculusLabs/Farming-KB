@@ -4,7 +4,7 @@ created: 2026-05-09
 tags: [toxicology, amanita, amatoxin, mushroom-poisoning, phalloides, liver, pathology]
 ---
 
-# Death Cap (Amanita phalloides) — Amatoxin Toxicology and Pathology
+## Death Cap (Amanita phalloides) — Amatoxin Toxicology and Pathology
 
 ## Overview
 

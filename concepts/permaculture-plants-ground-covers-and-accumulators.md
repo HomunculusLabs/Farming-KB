@@ -8,7 +8,7 @@ type: concept
 tags: [culture, permaculture, plants]
 ---
 
-# Permaculture Ground Covers and Accumulators
+## Permaculture Ground Covers and Accumulators
 
 [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]:
 

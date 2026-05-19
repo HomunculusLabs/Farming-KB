@@ -23,7 +23,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Psilocybin Mushrooms of Asia and Oceania
+## Psilocybin Mushrooms of Asia and Oceania
 
 Asia and Oceania together encompass enormous mycological diversity, from the
 tropical forests of Southeast Asia to the temperate zones of Japan and New

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Formation and Conservation
+## Soil Formation and Conservation
 
 Soil formation is the slow geological and biological process by which rock is transformed into the living matrix that supports terrestrial life. Understanding this process is essential because modern agriculture removes soil at rates vastly exceeding its natural rate of formation—a fundamentally unsustainable trajectory that threatens long-term food security and ecosystem health.
 

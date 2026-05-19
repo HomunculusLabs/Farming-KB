@@ -14,7 +14,7 @@ sources:
   - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
 ---
 
-# Inocybe geophylla
+## Inocybe geophylla
 
 **Inocybe geophylla** is a common and widely distributed species of mushroom in the family Cortinariaceae. It is one of the most frequently encountered members of the large genus Inocybe and is well known for its toxicity, containing dangerous levels of muscarine|muscarine. Despite its small size and delicate appearance, it is responsible for numerous cases of [[psilocybin-north-america-pacific-northwest]] where it is among the most common woodland mushrooms.
 

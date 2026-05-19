@@ -16,7 +16,7 @@ sources:
   - " USDA, NRCS. (2024). The PLANTS Database. National Plant Data Team, Greensboro, NC."
 ---
 
-# Sedum acre
+## Sedum acre
 
 **Sedum acre** (biting stonecrop, goldmoss stonecrop, wallpepper) is a low-growing, mat-forming succulent in the family Crassulaceae. It is native to Europe and parts of northern Africa and western Asia.
 

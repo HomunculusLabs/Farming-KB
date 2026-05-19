@@ -6,7 +6,7 @@ topics: ["winter-harvest", "spinach", "cold-greenhouse", "season-extension", "or
 type: concept
 ---
 
-# Overwintered Spinach in Cold Houses — Coleman's Winter Production System
+## Overwintered Spinach in Cold Houses — Coleman's Winter Production System
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon
 tags: [garden-layout, raised-beds, wide-rows, hills, spacing, irrigation, double-digging, seedbed]
 ---
 
-# Raised Beds, Wide Rows, and Hills
+## Raised Beds, Wide Rows, and Hills
 
 ## Overview
 

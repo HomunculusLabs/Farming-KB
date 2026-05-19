@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants
 type: concept
 ---
 
-# Neem (*Azadirachta indica*)
+## Neem (*Azadirachta indica*)
 
 ## Overview
 

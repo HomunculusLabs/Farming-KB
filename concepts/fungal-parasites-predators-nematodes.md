@@ -6,7 +6,7 @@ type: concept
 tags: mycology, fungi]
 sources: []
 ---
-# Fungal Parasites and Predators of Nematodes
+## Fungal Parasites and Predators of Nematodes
 
 Fungi are among the most important natural enemies of nematodes, with diverse
 genera using radically different strategies to capture, infect, and destroy

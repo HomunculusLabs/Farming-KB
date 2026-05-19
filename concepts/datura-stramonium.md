@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Datura Stramonium
+## Datura Stramonium
 
 Datura stramonium, commonly known as Jimsonweed, Thorn Apple, or Devil's Snare,
 is a widely distributed plant of the Solanaceae (nightshade) family. It is one of

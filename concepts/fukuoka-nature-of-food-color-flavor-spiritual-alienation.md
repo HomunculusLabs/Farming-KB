@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Food, Color, Flavor, and Spiritual Alienation
+## Food, Color, Flavor, and Spiritual Alienation
 
 [[fukuoka-critique-western-dietetics-nutritional-science]] or dietary fads. They eat what nature provides, when nature provides it, and they thrive. The question Fukuoka forces us to confront is: why have we made something so simple so impossibly complicated? The answer lies in the separation of matter from spirit that characterizes the modern mind.
 

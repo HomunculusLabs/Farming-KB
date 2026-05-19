@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Amanita Muscaria Physical Description and Field Identification
+## Amanita Muscaria Physical Description and Field Identification
 
 *[[amanita-muscaria]]* is one of the most recognizable mushrooms on Earth, yet its
 physical characteristics are more varied than most people realize. Understanding

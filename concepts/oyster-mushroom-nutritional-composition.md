@@ -8,7 +8,7 @@ sources: [unknown-cotter-oyster-mushroom-cultivation.md]
 type: concept
 ---
 
-# Oyster Mushroom Nutritional Composition
+## Oyster Mushroom Nutritional Composition
 
 ## Overview
 

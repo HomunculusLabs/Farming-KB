@@ -18,7 +18,7 @@ sources:
   - Lewis J. (2020). "The Landrace Study: A Guide to the Origins of Cannabis." Self-published.
 ---
 
-# Malawi Gold
+## Malawi Gold
 
 **Malawi Gold** is a pure sativa [[sativa-landrace-strains-and-geographic-origins]],
 renowned for its exceptionally long flowering period, potent cerebral effects,

@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Nutrient Deficiency and Toxicity Guide
+## Cannabis Nutrient Deficiency and Toxicity Guide
 
 Diagnosing nutrient problems in cannabis requires distinguishing between true [[cannabis-nutrient-recipes]] for feeding solutions, and [[query-how-to-fix-phosphorus-deficiency-in-cannabis]], not nitrogen.
 

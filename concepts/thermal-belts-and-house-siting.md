@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Thermal Belts and House Siting
+## Thermal Belts and House Siting
 
 The [[thermal-belt]] is one of the most practically important yet widely misunderstood concepts in [[permaculture-design]]. It describes a specific elevation band on a slope where air temperatures are consistently warmer than both the ridge above and the valley floor below. Understanding thermal belts is essential for intelligent house siting, frost management, and the placement of sensitive elements within a [[permaculture]] system.
 

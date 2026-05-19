@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Drought Gardening and Water Conservation
+## Drought Gardening and Water Conservation
 
 [[comparison-dry-farming-vs-xeriscaping]]" to
 redefine drought for vegetable gardeners. Widstoe argued that drought is

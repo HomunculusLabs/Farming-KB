@@ -1,4 +1,8 @@
-# Mushroom Casing Preparation
+---
+title: "Mushroom Casing Preparation"
+tags:
+  - concept
+---
 
 Casing is a non-nutritive layer applied on top of fully colonized
 grain substrate to provide the microclimate necessary for mushroom

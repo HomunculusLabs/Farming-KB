@@ -12,7 +12,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# White Rot Fungi vs Trichoderma
+## White Rot Fungi vs Trichoderma
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Eucalyptus in Permaculture Systems
+## Eucalyptus in Permaculture Systems
 
 Eucalypts (*Eucalyptus* spp.) are among the most widely planted and versatile tree genera in permaculture design worldwide. With over 700 species native to Australia, they span an extraordinary range of sizes, growth rates, and environmental tolerances, making them suitable for diverse roles from timber production to land rehabilitation.
 

@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants
 type: concept
 ---
 
-# Shanin — *Petunia violacea*
+## Shanin — *Petunia violacea*
 
 ## Overview
 

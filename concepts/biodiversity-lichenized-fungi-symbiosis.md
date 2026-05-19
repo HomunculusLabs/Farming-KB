@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, lichenology, symbiosis, biodiversity, ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ["/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md""]
 type: concept
 ---
-# Lichenized Fungi and Their Symbiotic Relationships ## Overview [[lichen-symbiosis]]
+## Lichenized Fungi and Their Symbiotic Relationships ## Overview [[lichen-symbiosis]]
 
 The relationship between the fungal partner and the photosynthetic
 partner has been variously described by researchers. Some consider it a

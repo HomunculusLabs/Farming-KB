@@ -6,7 +6,7 @@ tags: [psilocin, instability, decomposition, chromatography, hplc, tlc, forensic
 created: 2026-05-08
 ---
 
-# Psilocin Chemical Instability and Chromatographic Identification Challenges
+## Psilocin Chemical Instability and Chromatographic Identification Challenges
 
 ## Overview
 

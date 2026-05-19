@@ -8,8 +8,8 @@ tags: [livestock, pig-husbandry, permaculture, homesteading,
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - /Users/t3rpz/wiki/concepts/pig-husbandry.md
-  - /Users/t3rpz/wiki/concepts/pig-keeping-guide.md
+  - raw/concepts/pig-husbandry.md
+  - raw/concepts/pig-keeping-guide.md
 related_concepts:
   - pig-husbandry
   - pig-keeping-guide
@@ -18,7 +18,7 @@ related_concepts:
   - silvopasture-systems-design-and-management
 ---
 
-# Pig Husbandry and Permaculture Integration
+## Pig Husbandry and Permaculture Integration
 
 Pigs are among the most versatile and productive livestock a homesteader
 or small farmer can raise. Their intelligence, rapid growth, omnivorous

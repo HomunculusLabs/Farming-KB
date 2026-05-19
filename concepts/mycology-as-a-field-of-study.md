@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Mycology as a Field of Study
+## Mycology as a Field of Study
 
 ## Overview
 

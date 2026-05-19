@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Imaging Techniques
+## Fungal Imaging Techniques
 
 Visualisation techniques are fundamental to understanding [[bloomfields-orchard-hyphal-growth-and-invasive-biology]], organelle dynamics, [[fungal-mycelial-networks-nutrient-translocation]].
 

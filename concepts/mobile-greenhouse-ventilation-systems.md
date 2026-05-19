@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Mobile Greenhouse Ventilation Systems
+## Mobile Greenhouse Ventilation Systems
 
 Ventilation is one of the most critical [[mycoremediation-bioreactor-design-considerations]] for [[mobile-greenhouses]] used in [[tools-supplies-winter-harvest-farming]]. Unlike stationary structures, mobile hoop houses moved to multiple sites throughout the season require ventilation systems that are simple, reliable, and adaptable to conditions ranging from subfreezing winters with snow and ice to hot summers demanding maximum airflow.
 

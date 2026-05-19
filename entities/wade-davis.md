@@ -7,10 +7,10 @@ date: 2026-04-28
 
 updated: 2026-04-28
 
-sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md"]
 ---
 
-# Wade Davis (1953–)
+## Wade Davis (1953–)
 
 Edmund Wade Davis is a Canadian anthropologist, ethnobotanist, author, and photographer whose work has significantly advanced the understanding of [[fungi-convention-on-biological-diversity]]. A student of [[richard-evans-schultes-updated]]'s pioneering Amazonian expeditions beginning in the 1940s; the story of his own fieldwork in the same region decades later; and the story of Tim Plowman, a Harvard colleague who studied coca (*[[wasson-hofmann-schultes-research-network]]
 ## Practical Applications

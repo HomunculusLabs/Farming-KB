@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal]
 sources: []
 ---
-# 4-MA
+## 4-MA
 
 **[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]: allylbenzene (estragole) and its propenyl
 isomer (anethole). The methyl group is allyl in estragole and propenyl in

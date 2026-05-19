@@ -5,7 +5,7 @@ tags: [mckenna, mushroom, extraterrestrial, symbiote, stropharia-cubensis]
 created: 2026-05-08
 ---
 
-# McKenna's Mushroom Extraterrestrial Symbiote Hypothesis
+## McKenna's Mushroom Extraterrestrial Symbiote Hypothesis
 
 ## Overview
 

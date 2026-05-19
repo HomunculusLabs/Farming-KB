@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Classroom Education Demonstrations
+## Mushroom Classroom Education Demonstrations
 
 [[gadd-fungal-ecology-endophytes]], cultivation, recycling, mycoremediation,
 and scientific methodology. The hands-on nature of [[oyster-mushroom-growing-house-types]] spawn and pack it into cups. Cups are labeled and placed

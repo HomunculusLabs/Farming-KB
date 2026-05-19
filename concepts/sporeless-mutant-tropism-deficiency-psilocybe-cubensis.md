@@ -7,7 +7,7 @@ tags: [sporeless-mutant, tropism-deficiency, geotropism, sporulation, psilocybe-
 created: 2026-05-11
 ---
 
-# Sporeless Mutant Tropism Deficiency in Psilocybe cubensis
+## Sporeless Mutant Tropism Deficiency in Psilocybe cubensis
 
 ## Overview
 

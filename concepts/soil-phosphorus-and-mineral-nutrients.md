@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Phosphorus and Mineral Nutrients
+## Soil Phosphorus and Mineral Nutrients
 
 This section covers four critical soil elements — magnesium, aluminium, silicon, and phosphorus — that govern plant metabolism, soil structure, and long-term agricultural sustainability. Phosphorus in particular emerges as one of the most strategically important elements for global food security.
 

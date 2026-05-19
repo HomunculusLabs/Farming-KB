@@ -4,7 +4,7 @@ source: Solomon, Gardening When It Counts (2005)
 tags: [variety-trials, seed-company, open-pollinated, hybrid, germination, heirloom, solomon, seed-quality, gardening]
 ---
 
-# Vegetable Variety Trials and Seed Company Quality
+## Vegetable Variety Trials and Seed Company Quality
 
 ## Overview
 

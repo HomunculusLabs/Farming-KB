@@ -8,7 +8,7 @@ sources: ["the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
 
-# Rhizomorphic vs Cottony Mycelial Morphology
+## Rhizomorphic vs Cottony Mycelial Morphology
 
 ## Overview
 

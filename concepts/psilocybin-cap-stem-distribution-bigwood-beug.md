@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin and Psilocin Distribution Between Cap and Stem
+## Psilocybin and Psilocin Distribution Between Cap and Stem
 
 ## Overview
 

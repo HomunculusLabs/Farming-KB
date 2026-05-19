@@ -19,7 +19,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Dosage Unpredictability and Subjective Experience Variation
+## Dosage Unpredictability and Subjective Experience Variation
 
 ## Overview
 

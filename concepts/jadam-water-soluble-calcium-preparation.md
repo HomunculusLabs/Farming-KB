@@ -9,7 +9,7 @@ type: concept
 tags: [jadam, water]
 ---
 
-# JADAM Water-Soluble Calcium Preparation
+## JADAM Water-Soluble Calcium Preparation
 
 Calcium is a critical secondary macronutrient in plant nutrition,
 essential for [[knf-calcium-deficiency-symptoms]] manifests in multiple crop problems. In rice, calcium

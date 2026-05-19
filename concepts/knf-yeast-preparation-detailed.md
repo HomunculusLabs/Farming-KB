@@ -7,7 +7,7 @@ tags: [knf, natural-farming]
 sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
-# KNF Yeast Preparation
+## KNF Yeast Preparation
 
 **Updated:** 2026-04-18
 

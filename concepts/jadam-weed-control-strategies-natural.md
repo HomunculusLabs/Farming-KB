@@ -7,7 +7,7 @@ tags: [jadam, weed-control, wild-grass, cover-crop, symbiosis]
 sources:
   - "raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"
 ---
-# JADAM Natural Weed Control Strategies
+## JADAM Natural Weed Control Strategies
 
 JADAM fundamentally redefines the relationship between farmers and weeds. Rather than treating wild grass as an enemy to be eliminated, JADAM seeks symbiosis -- using weeds as partners that provide [[aact-disease-suppression-mechanisms-ingham]].
 

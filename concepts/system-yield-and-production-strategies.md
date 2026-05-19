@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# System Yield and Production Strategies
+## System Yield and Production Strategies
 
 Yield in [[permaculture-design]] and nature alone is that in permaculture we **actively intervene** to supply missing elements and guide system evolution. Rather than accepting natural limitations passively, the designer consciously adds elements, creates connections, and applies information to multiply yields beyond what unassisted natural processes would produce.
 

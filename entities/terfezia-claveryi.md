@@ -17,7 +17,7 @@ aliases:
   - turma
 ---
 
-# Terfezia claveryi
+## Terfezia claveryi
 
 **Terfezia claveryi** (desert truffle, terfez, kama) is an ectomycorrhizal ascomycete fungus in the family Pezizaceae, native to the arid and semi-arid regions of the Mediterranean basin and the Middle East. One of the most prized edible fungi of the desert, it has been collected and consumed for millennia by indigenous peoples of North Africa, the Levant, and the Arabian Peninsula. Unlike the closely related [[agricultural-mycorrhizae]]
 - arbuscular-[[mycorrhizal-inoculum-production]]-best-practices with

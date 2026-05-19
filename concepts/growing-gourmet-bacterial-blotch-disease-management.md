@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Bacterial Blotch Disease in Mushroom Cultivation
+## Bacterial Blotch Disease in Mushroom Cultivation
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DESOXY
+## DESOXY
 
 **Chemical name:** 3,5-Dimethoxy-4-methylphenethylamine
 **[[pihkal-introduction-and-methodology]]

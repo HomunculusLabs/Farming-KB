@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-effect-of-light-upon-basidiocarp-initiation-in-psilocybe-cubensis.md"
 ---
-# Light Initiation of Basidiocarp Formation
+## Light Initiation of Basidiocarp Formation
 
 Light is required for basidiocarp (fruitbody) initiation in the majority of mushroom species studied. The research of Badham (1980) established the precise action spectrum and dose-response relationship for mushroom-lighting-and-environmental-requirements.
 

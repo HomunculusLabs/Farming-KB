@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Bamboo Structure Construction and Joinery
+## Bamboo Structure Construction and Joinery
 
 Bamboo is one of the most versatile and rapidly renewable building
 materials available, and [[mollison-designers-appropriate-technology-small-scale-tools]]). Bamboo

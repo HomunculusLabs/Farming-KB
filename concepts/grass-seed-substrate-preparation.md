@@ -8,7 +8,7 @@ type: concept
 tags: [substrate, grass-seed, mushroom-cultivation, sterilization, mycology]
 ---
 
-# Grass Seed Substrate Preparation
+## Grass Seed Substrate Preparation
 
 Grass seed is a versatile and widely used substrate for the cultivation of
 psilocybin mushrooms, particularly psilocybe mexicana sclerotia cultivation

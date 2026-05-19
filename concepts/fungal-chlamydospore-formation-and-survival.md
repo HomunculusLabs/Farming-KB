@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Chlamydospore Formation and Survival
+## Fungal Chlamydospore Formation and Survival
 
 Chlamydospores are thick-walled, asexual resting spores produced by many fungi
 as specialized survival structures. These cells enable fungi to endure periods

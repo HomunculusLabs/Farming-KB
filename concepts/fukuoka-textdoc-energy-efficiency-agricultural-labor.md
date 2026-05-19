@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Natural Farming Energy Efficiency and Agricultural Labor
+## Natural Farming Energy Efficiency and Agricultural Labor
 
 Fukuoka presented a detailed analysis of the energy efficiency of different [[fukuoka-critique-scientific-agriculture-civilization]] increase efficiency, demonstrating instead that they represent an exponential increase in energy waste and the progressive alienation of the farmer from the land.
 

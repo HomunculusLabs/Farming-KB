@@ -9,7 +9,7 @@ sources:
   - "raw/papers/laminar-flow-hood-construction-1.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Cultivation Facility Design
+## Cultivation Facility Design
 
 A well-designed [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]].
 

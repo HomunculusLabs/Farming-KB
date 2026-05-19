@@ -1,5 +1,5 @@
 ---
-title: Fukuoka — The fukuoka-machine-culture-doomed-agricultural-decline-america-europe Is Doomed
+title: "Fukuoka Machine Culture Doomed"
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# The Machine Culture Is Doomed
+## The Machine Culture Is Doomed
 
 In *The Road Back to Nature*, [[fukuoka-view-of-nature-and-human-hubris]], [[comparison-natural-farming-vs-permaculture]] emphasizes working with nature rather than against it
 - The one-straw revolution approach minimizes human intervention in agricultural systems

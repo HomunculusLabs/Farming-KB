@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# African Truffle Species
+## African Truffle Species
 
 Africa harbors a diverse but poorly documented truffle flora, ranging from the desert truffles of the Sahara and Kalahari to the [[mushroom-cultivation-industry-directory]], with T. melanosporum orchards established in the Rif Mountains and Middle Atlas regions.
 

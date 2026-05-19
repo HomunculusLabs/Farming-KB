@@ -1,4 +1,8 @@
-# Plowing Ruins the Soil: Fukuoka's Mechanism for How Tillage Destroys Soil Structure
+---
+title: "Plowing Ruins the Soil: Fukuoka's Mechanism for How Tillage Destroys Soil Structure"
+tags:
+  - concept
+---
 
 ## Overview
 

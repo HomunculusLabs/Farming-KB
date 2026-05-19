@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Spawn Storage and Vitality Preservation
+## Mushroom Spawn Storage and Vitality Preservation
 
 ## Overview
 

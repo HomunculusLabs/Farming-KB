@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Allegro: Golden Fleece, Red Wool, and Amanita Colour Dyes
+## Allegro: Golden Fleece, Red Wool, and Amanita Colour Dyes
 
 The distinctive red-and-white colouration of the *[[john-allegro]] argues that the mushroom's vivid red cap, flecked with white spots, served as the prototype for red dyes, golden fleeces, and numerous personal and ethnic names throughout [[allegro-death-and-resurrection-in-the-mushroom-cult]], the Amanita was thought to receive the "[[allegro-plants-and-drugs-in-the-ancient-world]] "golden" frequently meant the red gold that predominated before refined yellow gold became common, so a "golden fleece" was in fact a red woollen cloak. The myth tells how Jason and the Argonauts sailed to Colchis to recover the fleece of a miraculous ram. This ram could fly and speak; it had carried Phrixus and his sister Helle to safety, though Helle fell into the sea (the Hellespont). King Aeetes hung the fleece in a sacred grove and set a dragon to guard it. The Argo itself sailed with the Dioscouroi aboard, and the sorceress Medea assisted Jason in obtaining the prize—only to later destroy his new bride with a robe of fire, a detail recalling the burning, consuming quality of the red-cap itself.
 

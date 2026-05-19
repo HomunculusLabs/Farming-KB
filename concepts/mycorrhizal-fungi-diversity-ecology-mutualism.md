@@ -1,4 +1,8 @@
-# Mycorrhizal Fungi: Diversity, Ecology and Mutualism
+---
+title: "Mycorrhizal Fungi: Diversity, Ecology and Mutualism"
+tags:
+  - concept
+---
 
 ## Overview
 Mycorrhizal fungi form symbiotic associations with the roots of an estimated
@@ -143,8 +147,3 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-
-- [[dighton-leaf-litter-patch-effects-mycorrhizal-community]]
-- [[endobacteria-arbuscular-mycorrhizal-fungi]]

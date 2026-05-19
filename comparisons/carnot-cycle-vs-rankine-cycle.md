@@ -8,7 +8,7 @@ updated: 2026-05-06
 sources: []
 ---
 
-# Carnot Cycle vs Rankine Cycle
+## Carnot Cycle vs Rankine Cycle
 
 The Carnot cycle and the Rankine cycle are both heat-engine cycles, but they serve very different purposes.
 The Carnot cycle is a reversible ideal that defines the maximum efficiency possible between two temperatures.

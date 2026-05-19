@@ -16,7 +16,7 @@ sources:
   - "Ott, J. (1976). Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History."
 ---
 
-# Amanita muscaria
+## Amanita muscaria
 
 **Amanita muscaria**, commonly known as the **fly agaric** or **fly amanita**, is a basidiomycete mushroom of the genus *Amanita*. It is one of the most recognizable mushrooms in the world, owing to its iconic red cap covered with white warts. Native throughout temperate and boreal regions of the Northern Hemisphere, it has been introduced to the [[growing-gourmet-north-american-reishi-species]], often with a yellow-orange tint), var. *alba* (rare white form), and var. *formosa* (orange to yellow cap). The taxonomic boundaries between these varieties remain debated among mycologists.
 

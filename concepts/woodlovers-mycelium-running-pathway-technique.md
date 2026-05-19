@@ -8,7 +8,7 @@ sources:
   - "raw/papers/growing-psilocybe-azurescens.md"
   - "raw/papers/growing-the-woodlovers-outdoors.md"
 ---
-# Woodlovers Mycelium Running Pathway Technique
+## Woodlovers Mycelium Running Pathway Technique
 
 Mycelium "running" refers to the aggressive outward expansion of fungal networks through wood chip substrates. For [[psilocybin-mushroom-habitat-and-ecology]].
 

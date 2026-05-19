@@ -5,7 +5,7 @@ type: entity
 tags: [material, compost, substrate, technique, france]
 ---
 
-# Rye [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] Compost
+## Rye [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] Compost
 
 ## Description
 

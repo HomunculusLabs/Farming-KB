@@ -5,7 +5,7 @@ tags: [mushroom-cultivation, substrate-preparation, straw, yeast-extract, marmit
 created: 2026-05-09
 ---
 
-# Straw Substrate Preparation with Marmite and Yeast Extract Soak
+## Straw Substrate Preparation with Marmite and Yeast Extract Soak
 
 Straw-based substrates are among the most accessible growing
 media for home [[non-sterilized-wheat-straw-oyster-cultivation]], oat straw, or barley straw can all be used.

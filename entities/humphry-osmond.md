@@ -15,7 +15,7 @@ sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
-# Humphry Osmond
+## Humphry Osmond
 
 **Humphry Fortescue Osmond** (1 July 1917 – 6 February 2004) was a British-born psychiatrist best known for coining the term "psychedelic," his pioneering research into the [[metzner-ayahuasca-therapeutic-potential]] of mescaline and LSD, his work at Weyburn Hospital in Saskatchewan, Canada, and his enduring friendship with the author Aldous Huxley. He was a foundational figure in the first wave of modern [[mckenna-beringer-mescaline-psychedelic-psychiatry]], and his contributions have experienced a significant renaissance in the 21st century as clinical [[weil-cultural-attitudes-toward-altered-states]] toward [[metzner-psycholytic-psychedelic-therapy-models]]" — using LSD in controlled, supportive settings to facilitate insight and psychological change in patients with alcoholism and other conditions. The Saskatchewan programme was remarkable for its interdisciplinary approach, combining biochemistry, clinical psychiatry, and psychological assessment. Osmond and Hoffer reported significant improvement rates in alcoholic patients treated with LSD, with some studies claiming that 40–50% of patients remained sober after a single psychedelic session.
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Post-Surgery Wounds
+## Cannabis and Post-Surgery Wounds
 
 ## Overview
 

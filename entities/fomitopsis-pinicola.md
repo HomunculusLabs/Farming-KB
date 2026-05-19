@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Fomitopsis pinicola
+## Fomitopsis pinicola
 
 Fomitopsis pinicola, commonly known as the red-belted bracket fungus, is one of the most widespread and ecologically important polypore fungi in temperate and [[fungal-peat-decomposition-and-carbon-storage]] cycling, and serves as a primary host substrate for one of the most diverse communities of fungicolous fungi documented on any single bracket fungus species.
 

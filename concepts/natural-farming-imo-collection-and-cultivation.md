@@ -3,11 +3,11 @@ title: knf-indigenous-microorganism-culture (IMO) Collection and Cultivation
 created: 2026-04-24
 tags: [agriculture, natural-farming, KNF, IMO, microorganisms, soil-health]
 type: concept
-sources: [/Users/t3rpz/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
+sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]
 updated: 2026-04-26
 ---
 
-# Indigenous Microorganism (IMO) Collection and Cultivation
+## Indigenous Microorganism (IMO) Collection and Cultivation
 
 [[comparison-natural-farming-vs-permaculture]], the goal is not to feed the plant but to nurture the soil, and the soil nurtures the plant through the IMOs. IMOs have four key functions:
 

@@ -1,5 +1,10 @@
+---
+title: "Peyote And Mescaline"
+tags:
+  - concept
+---
 
-# Peyote and Mescaline
+## Peyote and Mescaline
 
 Peyote (*[[lophophora-diffusa]]** — A related species found in central Mexico; contains lower mescaline levels.
 

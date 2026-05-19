@@ -5,7 +5,7 @@ type: entity
 tags: [person, ecologist, tropical-forests, population-dynamics, stability, climax-theory]
 ---
 
-# Daniel Goodman
+## Daniel Goodman
 
 ## Description
 

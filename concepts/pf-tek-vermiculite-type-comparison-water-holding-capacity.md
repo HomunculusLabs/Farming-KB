@@ -1,4 +1,8 @@
-# PF TEK Vermiculite Type Comparison: Water Holding Capacity and Substrate Performance
+---
+title: "PF TEK Vermiculite Type Comparison: Water Holding Capacity and Substrate Performance"
+tags:
+  - concept
+---
 
 ---
 created: 2026-05-08

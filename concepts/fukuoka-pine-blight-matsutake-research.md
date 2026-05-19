@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Pine Blight and Matsutake Research
+## Fukuoka Pine Blight and Matsutake Research
 
 In the late 1970s and early 1980s, Masanobu Fukuoka conducted a three-year amateur investigation into the widespread death of red pine trees (akamatsu) across Japan. His findings connected pine wilt disease to the destruction of [[matsutake-mushroom]] was central to the pine's decline:
 

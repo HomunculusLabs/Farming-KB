@@ -1,5 +1,5 @@
 ---
-title: plant plant-memory-and-learning-mechanisms
+title: "Plant Memory And Learning"
 created: 2026-04-28
 tags: [plant-biology, plant-memory, vernalization, epigenetics,
        plant-senses]
@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Plant Memory and Learning
+## Plant Memory and Learning
 
 The concept of memory in plants challenges deeply held assumptions about
 the uniqueness of animal cognition. While plants lack brains, neurons, and

@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Biochar vs Biofertilizer
+## Biochar vs Biofertilizer
 
 ## Overview
 

@@ -6,7 +6,7 @@ tags: [soil-foodweb, soil-biology, bacteria, fungi, protozoa, nematodes, trophic
 created: 2026-05-08
 ---
 
-# Soil Foodweb Biology and Balance
+## Soil Foodweb Biology and Balance
 
 The soil foodweb is the complex community of organisms living in soil
 that interact with each other and with plants in interconnected ways.

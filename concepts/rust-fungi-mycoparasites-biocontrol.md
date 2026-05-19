@@ -18,7 +18,7 @@ source_chunks:
     end_line: 19600
 ---
 
-# Rust Fungi Mycoparasites and Biocontrol
+## Rust Fungi Mycoparasites and Biocontrol
 
 Rust fungi are not only plant pathogens; they are also hosts for specialized
 fungi that parasitize rust spores, sori, aecial galls, and germ tubes. In the

@@ -5,7 +5,7 @@ type: entity
 tags: [plant-physiology, water-transport, xylem, stomata, botany]
 ---
 
-# Transpiration
+## Transpiration
 
 ## Description
 

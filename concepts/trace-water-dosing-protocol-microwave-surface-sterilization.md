@@ -7,7 +7,7 @@ tags: [sterilization, microwave, protocol, dosing, mycology]
 sources: [raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md]
 ---
 
-# Trace Water Dosing Protocol for Microwave Surface Sterilization
+## Trace Water Dosing Protocol for Microwave Surface Sterilization
 
 The [[dry-microwave-irradiation-spore-resistance]]. The [[microwave-steam-flash-sterilization-mechanism]] responsible for microbial inactivation. Without this precise water dosing, the sterilization process is significantly less effective.
 

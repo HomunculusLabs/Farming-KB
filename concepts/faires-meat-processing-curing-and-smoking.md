@@ -8,7 +8,7 @@ sources:
   - "raw/papers/nicole-faires-the-ultimate-guide-to-natpermaculture-and-sustainable-l"
 ---
 
-# Faires Meat Processing Curing and Smoking
+## Faires Meat Processing Curing and Smoking
 
 Processing meat on the homestead is an essential skill for self-reliance. When an animal is slaughtered, the meat must be preserved quickly to prevent spoilage. In a permaculture system, any processing of [[lacto-fermentation-and-food-preservation-methods]].
 

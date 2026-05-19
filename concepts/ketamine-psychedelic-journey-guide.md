@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
-# Ketamine Psychedelic Journey Guide
+## Ketamine Psychedelic Journey Guide
 
 Ketamine is rated intensity "10 to Infinity" by Turner, who calls it "The [[2c-b-psychedelic-empathogen-guide]] provides a "bridge" between ego and the ego-less state.
 

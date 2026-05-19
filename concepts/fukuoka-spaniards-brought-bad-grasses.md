@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# The Spaniards Brought Bad Grasses
+## The Spaniards Brought Bad Grasses
 
 In *The Road Back to Nature*, [[fukuoka-rice-and-barley-natural-farming]]. Isolated trees of several types, the kind one might expect in a desert, were scattered over the yellow plains. Occasionally, large fields of tomatoes or other crops measuring hundreds of acres would appear, but these were always irrigated. Wherever there was green, water was invariably being drawn for irrigation. Without it, the fields turned into parched grassland.
 

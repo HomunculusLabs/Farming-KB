@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Centrifugal and Centripetal Directions of Natural and Scientific Farming
+## Centrifugal and Centripetal Directions of Natural and Scientific Farming
 
 ## Overview
 

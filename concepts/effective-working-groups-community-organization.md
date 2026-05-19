@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Effective Working Groups and Community Organization
+## Effective Working Groups and Community Organization
 
 A core insight from [[permaculture-design]] is that human social systems are as subject to [[aact-brewer-design-principles-aeration-systems-ingham]] as landscapes. [[bill-mollison]] argues that most failures in community cooperation stem not from a lack of will, but from the failure to adopt sensible legal, administrative, and social mechanisms that enable cooperation. This concept page synthesizes Mollison's guidance on structuring groups for effectiveness, drawing on decades of study of [[holmgren-community-design-and-intentional-communities]].
 

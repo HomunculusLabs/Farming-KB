@@ -7,7 +7,7 @@ tags: [spore-syringe, inoculation, mushroom-cultivation, sterile-technique,
 aliases: [spore injection, mushroom inoculation, sterile tek]
 ---
 
-# Mushroom Spore Inoculation Techniques
+## Mushroom Spore Inoculation Techniques
 
 ## Overview
 

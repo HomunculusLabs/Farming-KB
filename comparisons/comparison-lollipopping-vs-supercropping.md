@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Lollipopping vs Supercropping
+## Lollipopping vs Supercropping
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# METHYL-MA
+## METHYL-MA
 
 [[mdma]], but there was
 > none of its central effects. But all the hints of the cardiovascular

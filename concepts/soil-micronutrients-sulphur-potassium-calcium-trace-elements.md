@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Micronutrients — Sulphur, Potassium, Calcium, and Trace Elements
+## Soil Micronutrients — Sulphur, Potassium, Calcium, and Trace Elements
 
 ## Overview
 

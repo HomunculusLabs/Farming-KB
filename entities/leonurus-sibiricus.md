@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Leonurus sibiricus
+## Leonurus sibiricus
 
 Leonurus sibiricus, commonly known as Siberian motherwort or
 marihuanilla (little marijuana), is an annual or biennial herb in

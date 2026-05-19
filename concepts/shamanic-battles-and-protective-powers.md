@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Shamanic Battles and Protective Powers in Amazonian Vegetalismo
+## Shamanic Battles and Protective Powers in Amazonian Vegetalismo
 
 In the tradition of Amazonian vegetalismo as revealed through the visions of Pablo Amaringo, shamanic practice is not merely herbal medicine but a vast battlefield of invisible forces. Sorcerers and healers wage war through magical darts, spirit attacks, and counter-spells, while a strict hierarchy of mastery determines a practitioner's capacity to defend, diagnose, and cure. The visions presented in Amaringo's *Ayahuasca Visions* (Visions 35, 36, 41, and 42) offer a detailed cartography of this occult ecology—mapping the weapons of sorcery, the techniques of extraction and incorporation healing, the diagnostic art of pulsation, and the graduated ranks of the vegetalista path.
 

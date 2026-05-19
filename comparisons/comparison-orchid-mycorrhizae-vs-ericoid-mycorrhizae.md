@@ -22,7 +22,7 @@ sources:
 type: comparison
 ---
 
-# Comparison: Orchid Mycorrhizae vs Ericoid Mycorrhizae
+## Comparison: Orchid Mycorrhizae vs Ericoid Mycorrhizae
 
 ## Introduction
 

@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, basidiomycete, puffball, bioindicator, radionuclide]
 ---
 
-# Lycoperdon perlatum
+## Lycoperdon perlatum
 
 ## Description
 

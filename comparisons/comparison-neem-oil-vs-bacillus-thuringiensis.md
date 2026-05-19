@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Neem Oil vs Bacillus Thuringiensis
+## Neem Oil vs Bacillus Thuringiensis
 
 ## Overview
 

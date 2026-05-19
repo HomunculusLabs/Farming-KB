@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What is alley cropping and when should I use it?
+## What is alley cropping and when should I use it?
 
 ## Short Answer
 Alley cropping is an agroforestry pattern where annual crops, forage, or perennials grow in strips between rows of trees or shrubs.

@@ -7,7 +7,7 @@ sources: [papers/chos-global-natural-farming.md]
 updated: 2026-04-26
 ---
 
-# Natural Farming Composting Methods
+## Natural Farming Composting Methods
 
 Natural farming employs several advanced [[bokashi]]-style designer composts and IMO-enriched composts.
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Does Mycorrhizal Network Communication Work Between Plants
+## How Does Mycorrhizal Network Communication Work Between Plants
 
 ## Short Answer
 Plants connected through [[nitrogen-transfer-through-common-mycorrhizal-networks|nitrogen transfer through CMNs]] has demonstrated that this sharing is not random but

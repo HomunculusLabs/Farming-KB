@@ -1,5 +1,5 @@
 ---
-title: "c4 and comparison-c3-c4-and-cam-photosynthesis-pathways — Carbon Concentrating Mechanisms"
+title: "C4 And Cam Photosynthesis"
 created: 2026-04-28
 updated: 2026-05-06
 tags: [photosynthesis, plant-physiology, c4-plants, cam-plants, carbon-fixation, plant-biochemistry, crop-science, water-use-efficiency, climate-change]

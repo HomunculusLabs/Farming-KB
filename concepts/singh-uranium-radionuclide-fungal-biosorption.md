@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Uranium and Radionuclide Biosorption by Fungi
+## Uranium and Radionuclide Biosorption by Fungi
 
 The biosorption of radionuclides by fungi represents a critical
 application of mycoremediation for nuclear industry waste management

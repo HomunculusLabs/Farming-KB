@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Distillery Waste Treatment ## Overview Distillery wastewater (stillage, vinasse, or molasses spent wash) is produced during ethanol distillation from sugarcane, beet, grains, and fruit. For every liter of ethanol produced, up to 20 liters of stillage is generated. A typical distillery produces over half a million liters of stillage daily, with pollution levels equivalent to the sewage of a city of 500,000 people. The dark brown color, high COD (85,170 mg/L), and recalcitrant melanoidin polymers make treatment challenging. This topic complements [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], and inhibits seed germination when disposed on land.
+## Fungal Distillery Waste Treatment ## Overview Distillery wastewater (stillage, vinasse, or molasses spent wash) is produced during ethanol distillation from sugarcane, beet, grains, and fruit. For every liter of ethanol produced, up to 20 liters of stillage is generated. A typical distillery produces over half a million liters of stillage daily, with pollution levels equivalent to the sewage of a city of 500,000 people. The dark brown color, high COD (85,170 mg/L), and recalcitrant melanoidin polymers make treatment challenging. This topic complements [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], and inhibits seed germination when disposed on land.
 
 ## Melanoidin Degradation
 

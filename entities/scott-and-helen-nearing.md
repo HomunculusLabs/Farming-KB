@@ -5,7 +5,7 @@ type: entity
 tags: [people, homesteading, organic-farming, mentors, history]
 ---
 
-# Scott and Helen Nearing
+## Scott and Helen Nearing
 
 ## Description
 

@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 ---
-# Cannabis for Fibromyalgia
+## Cannabis for Fibromyalgia
 
 Fibromyalgia is a [[dmt-containing-plants-united-states-halpern]], with the majority being middle-aged females. It remains one of the more challenging conditions to treat with conventional medicine.
 

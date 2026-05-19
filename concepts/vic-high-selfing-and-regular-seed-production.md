@@ -9,7 +9,7 @@ type: concept
 tags: [plant-growth]
 ---
 
-# Selfing and Regular Seed Production
+## Selfing and Regular Seed Production
 
 Vic High's breeding text discusses selfing as one of the available inbreeding strategies for cannabis, alongside backcrossing and generational inbreeding. While the text does not provide an extended dedicated treatment of selfing mechanics, it places selfing within the broader framework of inbreeding strategies and explains its role in creating true breeding strains from special individuals.
 

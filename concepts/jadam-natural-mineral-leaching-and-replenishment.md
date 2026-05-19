@@ -8,7 +8,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
 
-# JADAM Natural Mineral Leaching and Replenishment
+## JADAM Natural Mineral Leaching and Replenishment
 
 JADAM identifies two critical pathways through which soil loses its mineral
 content: "natural leaching" and "forced leaching." Understanding both

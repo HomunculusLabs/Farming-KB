@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Natural Diet Four Types
+## Fukuoka Natural Diet Four Types
 
 Updated: 2026-04-19
 

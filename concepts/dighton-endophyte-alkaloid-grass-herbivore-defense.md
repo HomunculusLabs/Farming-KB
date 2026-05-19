@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Endophyte Alkaloid Production and Grass Herbivore Defense
+## Endophyte Alkaloid Production and Grass Herbivore Defense
 
 [[antifungal-secondary-metabolites-coprophilous-fungi]]
 that deter herbivores, reduce insect feeding, and suppress pathogen attack. In

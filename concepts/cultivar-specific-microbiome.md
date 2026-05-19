@@ -6,7 +6,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [microbiology, plant-genetics, cannabis, endophytes, plant-ecology]
 ---
 
-# Cultivar-Specific Microbiome
+## Cultivar-Specific Microbiome
 
 Cultivar-specific microbiome refers to the phenomenon where different cultivars
 (distinct cultivated varieties) of the same plant species maintain significantly

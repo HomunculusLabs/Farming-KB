@@ -5,7 +5,7 @@ type: entity
 tags: [surveying, earthworks, technique, permaculture, slope]
 ---
 
-# Slope Measurement in Permaculture
+## Slope Measurement in Permaculture
 
 ## Description
 

@@ -7,7 +7,7 @@ tags: [regenerative, gardening, vegetables, construction, water-management, soil
 sources: []
 ---
 
-# Raised Bed Gardening Guide
+## Raised Bed Gardening Guide
 
 Raised beds elevate the growing surface above ground level, improving drainage, reducing soil compaction, extending [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], and providing better control over soil quality. They are the foundation of most home vegetable gardens.
 

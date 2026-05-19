@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Symbiosis: The Art of Living
+## Symbiosis: The Art of Living
 
 ## Definition and Origins
 

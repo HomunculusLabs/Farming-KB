@@ -7,7 +7,7 @@ tags: [energy, construction, homesteading, off-grid, design, engineering]
 sources: []
 ---
 
-# Masonry Heater Design
+## Masonry Heater Design
 
 A masonry heater (also called a masonry stove, kachelofen, or Russian stove) is a high-efficiency wood-burning heating appliance that stores heat in a large thermal mass of brick, stone, or [[cob-building-basics-detailed|cob]]. Unlike conventional wood stoves that burn continuously and radiate heat directly, a masonry heater burns a hot, fast fire and stores the heat in its mass, releasing it slowly over 12-24 hours. A single intense fire in the morning can heat a home all day.
 

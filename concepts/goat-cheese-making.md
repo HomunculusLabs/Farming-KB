@@ -7,7 +7,7 @@ tags: [goats, food, processing, homesteading, recipe, homestead-crafts, nutritio
 sources: []
 ---
 
-# Goat Cheese Making
+## Goat Cheese Making
 
 Goat milk cheese (chevre) is one of the most accessible and rewarding homestead dairy products. Goat milk is naturally homogenized (smaller fat globules), making it easier to curdle and produce a creamy cheese. This guide covers the fundamental cheeses that can be made at home: fresh chevre, feta, and aged gouda.
 

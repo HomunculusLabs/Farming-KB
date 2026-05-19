@@ -5,7 +5,7 @@ type: entity
 tags: [principle, plant-nutrition, fertilizer, agricultural-science, limiting-factor]
 ---
 
-# Law of the Minimum
+## Law of the Minimum
 
 ## Description
 

@@ -8,7 +8,7 @@ tags: [pleurotus, oyster-mushroom, species-guide, mushroom-cultivation,
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
 
-# Commercially Important Pleurotus Species for Cultivation
+## Commercially Important Pleurotus Species for Cultivation
 
 The genus *Pleurotus* encompasses a diverse group of edible mushrooms
 commonly known as oyster mushrooms, valued worldwide for their culinary

@@ -21,7 +21,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 ---
-# Postwar Japanese Agricultural Mechanization and Village Collapse
+## Postwar Japanese Agricultural Mechanization and Village Collapse
 [[fukuoka-ecological-balance-principles]]. His account traces the transformation from
 labor-intensive to capital-intensive agriculture and its cascading social and
 ecological consequences.

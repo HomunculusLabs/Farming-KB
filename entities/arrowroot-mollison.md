@@ -5,7 +5,7 @@ type: entity
 tags: [root-crop, staple-food, permaculture, tropical-agriculture, starch]
 ---
 
-# Arrowroot (*Maranta arundinacea*)
+## Arrowroot (*Maranta arundinacea*)
 
 ## Description
 

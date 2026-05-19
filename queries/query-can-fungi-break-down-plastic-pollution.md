@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# Can Fungi Break Down Plastic Pollution?
+## Can Fungi Break Down Plastic Pollution?
 
 ## Short Answer
 Yes, certain species of fungi can break down various types of plastic, including

@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 type: concept
 ---
 
-# PF Tek Supply List and Materials
+## PF Tek Supply List and Materials
 
 The PF Tek ([[pf-tek-psilocybe-fanaticus]] Technique) is organized into three distinct stages, each requiring its own set of materials and equipment. Most items are common household or readily available retail products. This comprehensive supply list covers everything needed for the complete cultivation cycle from spore syringe to harvest.
 

@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Earthship vs Cordwood Construction
+## Earthship vs Cordwood Construction
 
 ## Overview
 

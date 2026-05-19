@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Types and Their Role in Plant Nutrient Uptake
+## Mycorrhizal Types and Their Role in Plant Nutrient Uptake
 
 ## Overview
 

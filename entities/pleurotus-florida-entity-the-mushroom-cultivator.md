@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - "raw/papers/cervantes-marijuana-horticulture-indoor-outdoor.md"
 ---
-# Pleurotus florida
+## Pleurotus florida
 ## Taxonomy
 Pleurotus florida is a warm climate variety of [[rolf-singer]] places P. floridanus in Section Lentodiellum, characterized by
 metuloid pleurocystidia and mycelia that do not sclerotize. He assigns P.

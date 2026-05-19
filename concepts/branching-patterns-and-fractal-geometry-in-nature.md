@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Branching Patterns and Fractal Geometry in Nature
+## Branching Patterns and Fractal Geometry in Nature
 
 ## Overview
 

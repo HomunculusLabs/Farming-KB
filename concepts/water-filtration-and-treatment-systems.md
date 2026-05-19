@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Filtration and Treatment Systems
+## Water Filtration and Treatment Systems
 
 Water filtration and treatment systems in [[permaculture-design]] draw on both classical engineering and biological processes to purify water for drinking, irrigation, and ecological health. Bill Mollison presents a comprehensive framework that ranges from simple sand filters to integrated biological treatment chains, emphasising low-energy, self-maintaining approaches grounded in natural processes.
 

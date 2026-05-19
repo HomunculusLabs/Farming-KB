@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Seed Balls (Tsuchi Dango)
+## Seed Balls (Tsuchi Dango)
 
 Seed balls, or "tsuchi dango" (earth dumplings), are a no-till [[guerilla-gardening-tactics-methods]] for urban applications.
 

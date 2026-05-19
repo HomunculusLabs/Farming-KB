@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Mead Making vs Beer Brewing
+## Mead Making vs Beer Brewing
 
 Mead and beer are two of humanity's oldest fermented beverages, each with deep roots in agricultural traditions. Mead is honey wine -- fermented honey and water -- while beer is brewed from malted grains, hops, and water. Both rely on yeast fermentation but differ substantially in ingredients, process complexity, time investment, and the homesteader resources they leverage.
 

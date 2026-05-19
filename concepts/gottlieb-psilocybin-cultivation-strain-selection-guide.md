@@ -8,7 +8,7 @@ type: concept
 tags: [cultivation, psilocybin]
 ---
 
-# Gottlieb Psilocybin Cultivation Strain Selection Guide
+## Gottlieb Psilocybin Cultivation Strain Selection Guide
 
 Adam Gottlieb's "The Psilocybin Producer's Guide" (1976) provides detailed
 data on psilocybin-bearing mushroom species, with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].

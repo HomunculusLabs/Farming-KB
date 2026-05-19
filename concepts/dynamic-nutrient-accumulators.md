@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [plants, soil-science, permaculture, nutrients]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-nutrient-and-dynamic-accumulators.md]
+sources: ["raw/papers/unknown-nutrient-and-dynamic-accumulators.md"]
 type: concept
 ---
 
-# Dynamic Nutrient Accumulators
+## Dynamic Nutrient Accumulators
 
 Dynamic nutrient accumulators are plants that actively draw up minerals and
 nutrients from deep soil layers and concentrate them in their leaf tissue,

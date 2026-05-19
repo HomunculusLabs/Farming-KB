@@ -25,7 +25,7 @@ sources:
   - https://www.allbud.com/marijuana-strains/hybrid/strawberry-cough
 ---
 
-# Strawberry Cough
+## Strawberry Cough
 
 ## Overview
 

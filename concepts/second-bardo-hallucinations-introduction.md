@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Second Bardo - Introduction to the Hallucinatory Period (Chonyid Bardo)
+## Second Bardo - Introduction to the Hallucinatory Period (Chonyid Bardo)
 
 ## Overview
 

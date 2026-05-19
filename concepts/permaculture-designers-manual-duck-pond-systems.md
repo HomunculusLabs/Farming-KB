@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, ducks, water-management]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Duck Pond Systems
+## Duck Pond Systems
 
 **Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
 **Updated:** 2026-05-09

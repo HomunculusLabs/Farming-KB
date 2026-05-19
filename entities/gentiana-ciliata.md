@@ -15,7 +15,7 @@ sources:
   - Kozuharova E. et al. (2020). "Gentiana in Balkan traditional medicine." Journal of Ethnopharmacology, 252, 112570.
 ---
 
-# Gentiana ciliata
+## Gentiana ciliata
 
 ## Overview
 

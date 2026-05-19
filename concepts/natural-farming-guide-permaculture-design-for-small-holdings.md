@@ -9,7 +9,7 @@ type: concept
 tags: [culture, design, natural-farming, permaculture]
 ---
 
-# [[permaculture-design-principles-beginners]] draws from patterns found in nature and mimics ongoing natural processes. The approach was later expanded by permaculture-ethics
+## [[permaculture-design-principles-beginners]] draws from patterns found in nature and mimics ongoing natural processes. The approach was later expanded by permaculture-ethics
 
 Three core ethics guide all design decisions:
 

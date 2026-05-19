@@ -8,7 +8,7 @@ sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Composting as a [[phanerochaete-chrysosporium]], [[edaphic-factors-microbial-community-structure]] and extended thermophilic phase
+## Composting as a [[phanerochaete-chrysosporium]], [[edaphic-factors-microbial-community-structure]] and extended thermophilic phase
 create conditions favorable for cometabolic transformation of many
 pesticides. Inoculation with specific fungal strains can accelerate
 degradation rates. Studies have demonstrated significant reductions in

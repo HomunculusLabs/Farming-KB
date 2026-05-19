@@ -4,7 +4,7 @@ source: bahay-kubo-indigenous-microorganisms_.md
 type: concept
 ---
 
-# Beneficial Indigenous Microorganisms (BIM) and Lacto Bacilli
+## Beneficial Indigenous Microorganisms (BIM) and Lacto Bacilli
 
 ## Overview
 

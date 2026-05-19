@@ -1,4 +1,8 @@
-# Cannabis Modes of Administration: Pharmacokinetics and Comparison
+---
+title: "Cannabis Modes of Administration: Pharmacokinetics and Comparison"
+tags:
+  - concept
+---
 
 ## Source
 - **Book:** The [[cervantes-medical-marijuana-pharmacology]] with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases
@@ -144,7 +148,3 @@ Successful integration of blesching cannabis modes of administration comparison 
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource

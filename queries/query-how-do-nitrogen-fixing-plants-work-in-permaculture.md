@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do Nitrogen Fixing Plants Work in Permaculture?
+## How Do Nitrogen Fixing Plants Work in Permaculture?
 
 ## Short Answer
 

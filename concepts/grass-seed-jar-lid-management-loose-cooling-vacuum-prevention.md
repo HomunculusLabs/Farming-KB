@@ -7,7 +7,7 @@ type: cultivation-guide
 topics: [mycology, mushroom-cultivation, grain-jar, substrate-preparation, sterilization-technique]
 ---
 
-# Grass Seed Jar Cultivation: Lid Management and Vacuum Prevention
+## Grass Seed Jar Cultivation: Lid Management and Vacuum Prevention
 
 ## Overview
 

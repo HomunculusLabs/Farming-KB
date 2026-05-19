@@ -12,7 +12,7 @@ tags:
   - dibenzofuran
 ---
 
-# Usnic Acid
+## Usnic Acid
 
 ## Description
 

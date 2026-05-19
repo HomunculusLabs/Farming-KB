@@ -5,7 +5,7 @@ source_path: ~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi
 topics: dighton-fungal-nutrient-translocation-element-redistribution
 ---
 
-# The Vacuolar System in Long-Distance Fungal Transport
+## The Vacuolar System in Long-Distance Fungal Transport
 
 ## Vacuole Structure in Filamentous Fungi
 

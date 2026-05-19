@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [reference]
 ---
-# Grow Room Environment
+## Grow Room Environment
 From [[green-cannabis-grow-bible-vegetative-phase-management]]
 
 ## Key Principles and Mechanisms

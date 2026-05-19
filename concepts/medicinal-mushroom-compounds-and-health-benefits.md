@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, medicinal-mushrooms, bioactive-compounds, health]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Medicinal Mushroom Compounds and Health Benefits Medicinal mushrooms produce a diverse array of bioactive compounds that have been used in traditional medicine for millennia and are increasingly validated by modern pharmacological research. The most studied classes of compounds include polysaccharides (particularly [[mushroom-cancer-clinical-trials-overview]] demonstrate improved survival rates and immune function in
+## Medicinal Mushroom Compounds and Health Benefits Medicinal mushrooms produce a diverse array of bioactive compounds that have been used in traditional medicine for millennia and are increasingly validated by modern pharmacological research. The most studied classes of compounds include polysaccharides (particularly [[mushroom-cancer-clinical-trials-overview]] demonstrate improved survival rates and immune function in
 patients undergoing chemotherapy, particularly for gastric and colorectal
 cancers.
 

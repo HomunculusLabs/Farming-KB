@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Filtration and Settling Techniques
+## Water Filtration and Settling Techniques
 
 Water purification in [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems|systems]] relies on a diverse suite of natural and low-energy treatment methods. Rather than depending solely on industrial chemical processes, [[bill-mollison]]'s *[[permaculture]]: A Designers' Manual*.
 

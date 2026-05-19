@@ -19,7 +19,7 @@ sources:
   - https://www.wikileaf.com/strain/blueberry/
 ---
 
-# Blueberry
+## Blueberry
 
 **DJ Short's Blueberry** | **Blueberry Kush** (when crossed with OG)
 

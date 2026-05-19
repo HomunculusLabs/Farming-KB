@@ -4,7 +4,7 @@ source: mushrooms---poisionous-fungi-by-john-ramsbottom-1945.md
 type: concept
 ---
 
-# Minor Poisonous and Irritant Fungi of Britain
+## Minor Poisonous and Irritant Fungi of Britain
 
 ## Lepiota Helveola — Poisonous Lepiota
 

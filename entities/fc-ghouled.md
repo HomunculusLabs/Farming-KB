@@ -21,7 +21,7 @@ sources:
 - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# F.C. Ghouled
+## F.C. Ghouled
 
 Author of "Field Guide to the Psilocybin Mushroom" (1972), published by Guidance Publications, New Orleans. One of the earliest dedicated field guides for identifying psychoactive mushrooms in North America, produced during a period when reliable mycological information on psilocybin species was scarce.
 

@@ -6,7 +6,7 @@ tags: [mycology, geotropism, psilocybe-cubensis, sporeless-mutant, basidiocarp, 
 created: 2026-05-09
 ---
 
-# Sporeless Mutant and Geotropism Link in Psilocybe cubensis
+## Sporeless Mutant and Geotropism Link in Psilocybe cubensis
 
 ## Overview
 

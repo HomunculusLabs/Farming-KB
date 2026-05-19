@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# The Nature of Food
+## The Nature of Food
 
 ## Overview
 

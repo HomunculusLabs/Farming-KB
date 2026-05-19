@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Environmental Parameters for Cultivation
+## Maitake Environmental Parameters for Cultivation
 
 *Grifola frondosa* (maitake/hen of the woods) cultivation requires precise management of environmental conditions across three main developmental stages: spawn run, primordia initiation, and fruiting body development. Each stage has distinct requirements for temperature, relative humidity, CO₂ concentration, light, and ventilation that must be carefully controlled to achieve successful mushroom production.
 

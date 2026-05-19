@@ -6,7 +6,7 @@ type: concept
 tags: [soil]
 sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 ---
-# Casing Soil Techniques in The Mushroom Cultivator
+## Casing Soil Techniques in The Mushroom Cultivator
 
 Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter VIII
 Updated: 2026-04-18

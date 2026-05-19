@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [permaculture, climate, biomes, ecotones, microclimates]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
+sources: ["raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"]
 type: concept
 ---
-# Climates and Biomes in [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] thing for [[williams-pdc-permaculture-ethics-and-principles-in-practice]]
+## Climates and Biomes in [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] thing for [[williams-pdc-permaculture-ethics-and-principles-in-practice]]
 - [[duggar-mushroom-environmental-factors-temperature-moisture-light]] conditions, changing social priorities, and advancing
 technological capabilities. Each of these factors influences both the
 relevance and the practical application of the principles involved.

@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Passiflora (Passionfruit) Species in Permaculture
+## Passiflora (Passionfruit) Species in Permaculture
 
 The genus *Passiflora* (family Passifloraceae) encompasses approximately 500 species of climbing vines, shrubs, and small trees native primarily to tropical and subtropical America. While best known for the edible passionfruit, the genus includes species with diverse uses ranging from food and medicine to ornamental display. [[ecological-succession-in-permaculture-design]], passionfruit vines are valuable vertical-layer plants that produce prolific crops while requiring relatively little ground space.
 

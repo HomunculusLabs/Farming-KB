@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungicolous Fungi on Basidiomycota Hosts
+## Fungicolous Fungi on Basidiomycota Hosts
 
 [[fungicolous-fungi]] — fungi that grow on other fungi — represent a vast and poorly documented dimension of [[fungal-biodiversity]]. [[basidiomycota]] serve as hosts for an extraordinary range of fungicolous species, including ascomycetes, heterobasidiomycetes, and anamorphic fungi. These relationships span parasitism, commensalism, and antagonism, and many remain undescribed or poorly understood. This page surveys the major groups of fungicolous fungi recorded on basidiomycete hosts across several morphological guilds: aphyllophorales, clavariaceous fungi, jelly fungi, polypores, and agarics.
 

@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/harner-j-hallucinogens-and-shamanism.md]
 type: concept
 ---
 
-# Jivaro Natem Shamanism
+## Jivaro Natem Shamanism
 
 The Jivaro people -- comprising the Shuar, Achuar, Huambisa, and Aguaruna
 groups of the upper Amazon basin in Ecuador and Peru -- maintain one of

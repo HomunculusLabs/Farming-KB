@@ -18,7 +18,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# Organic Root Maggot Management for Brassicas and Carrots
+## Organic Root Maggot Management for Brassicas and Carrots
 
 Root maggots are among the most destructive pests in vegetable gardens, but their impact is highly regional. In the Pacific Northwest (Cascadia) and the United Kingdom, cabbage root maggots and carrot rust flies can devastate crops. In most of [[steve-solomon]] draws on the research of the late Blair Adams at Washington State University Extension to present the most effective organic [[growing-gourmet-north-american-reishi-species]] gardeners are fortunate to rarely encounter it. The larvae tunnel through carrot roots, leaving them riddled and inedible.
 

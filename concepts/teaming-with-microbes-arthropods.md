@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# Teaming with Microbes — Arthropods
+## Teaming with Microbes — Arthropods
 
 In *Teaming with Microbes*, Lowenfels and Lewis describe soil arthropods as the shredders, predators, and ecosystem engineers of the [[teaming-with-microbes-overview]] have evolved to trap and consume certain arthropods
 - The predator-prey relationship between fungi and arthropods regulates both populations

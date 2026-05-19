@@ -5,7 +5,7 @@ tags: [cultivation, pf-tek, fruiting, harvesting, potency, mycology]
 created: 2026-05-09
 ---
 
-# PF TEK Fruiting, Harvesting, and Potency
+## PF TEK Fruiting, Harvesting, and Potency
 
 After substrate colonization in the jar, the PF TEK progresses to the
 fruiting stage. This covers incubation, pinning, birthing the cake into

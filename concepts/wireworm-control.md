@@ -7,7 +7,7 @@ tags: [pest-control, pest-management, gardening, troubleshooting, organic, insec
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Wireworm Control
+## Wireworm Control
 
 Wireworms are the soil-dwelling larvae of click beetles (Elateridae family). They are shiny, hard-bodied, segmented worms ranging from yellow-brown to reddish-brown, typically 1-3 cm long. They feed on seeds, roots, tubers, and underground stems of many vegetable crops, particularly potatoes, carrots, onions, and corn. Wireworms can persist in soil for 2-6 years before pupating, making them a persistent problem for vegetable gardeners.
 

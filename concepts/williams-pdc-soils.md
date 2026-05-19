@@ -9,7 +9,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 ---
-# Soils in [[rammed-earth]] puts the mixture into formwork
+## Soils in [[rammed-earth]] puts the mixture into formwork
 and tamps it down, sometimes with stabilizers such as cement, lime, or
 dung. Earth bags are similar to sandbags, filled with earthen
 materials and stacked like bricks.

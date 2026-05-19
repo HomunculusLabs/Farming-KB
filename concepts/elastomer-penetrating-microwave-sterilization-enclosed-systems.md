@@ -4,7 +4,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 topics: [microwave, sterilization, elastomer, enclosed system, NASA, aseptic transfer]
 ---
 
-# Elastomer-Penetrating Microwave Sterilization of Enclosed Biological Systems
+## Elastomer-Penetrating Microwave Sterilization of Enclosed Biological Systems
 
 ## Overview
 

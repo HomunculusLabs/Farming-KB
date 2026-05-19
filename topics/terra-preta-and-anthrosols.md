@@ -32,7 +32,7 @@ related_concepts:
   - "syntropic-agriculture-design-and-practice"
 ---
 
-# Terra Preta and Anthrosols
+## Terra Preta and Anthrosols
 
 ## Introduction: The Mystery of the Dark Earths
 

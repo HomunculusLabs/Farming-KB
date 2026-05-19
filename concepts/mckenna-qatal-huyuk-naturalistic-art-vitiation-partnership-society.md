@@ -13,7 +13,7 @@ topics:
   - food-of-the-gods
 ---
 
-# Qatal Huyuk: Naturalistic Art, the Vitiation of Vision, and the Fall of Partnership Society
+## Qatal Huyuk: Naturalistic Art, the Vitiation of Vision, and the Fall of Partnership Society
 
 ## The Site and Its Significance
 

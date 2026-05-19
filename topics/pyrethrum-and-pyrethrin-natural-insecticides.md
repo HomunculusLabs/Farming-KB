@@ -12,7 +12,7 @@ sources:
   - "Grzywacz et al. (2014) — Biopesticides for sustainable agriculture, cannabis-pest-management-guide Science"
 ---
 
-# Pyrethrum and Pyrethrin — Natural Insecticides
+## Pyrethrum and Pyrethrin — Natural Insecticides
 
 ## Overview
 

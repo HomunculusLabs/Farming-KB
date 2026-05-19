@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Community Enterprises and Self-Reliance
+## Permaculture Community Enterprises and Self-Reliance
 
 The final section of [[bill-mollison]]'s [[permaculture-design]] Course focuses on the practical enterprises, organizational systems, and community structures that make [[permaculture]] viable as a complete way of life. This goes far beyond agriculture into publishing, seed supply, manufacturing, communications, and political activism.
 

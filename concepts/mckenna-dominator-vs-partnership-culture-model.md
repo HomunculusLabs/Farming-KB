@@ -6,7 +6,7 @@ tags: [mckenna, dominator-culture, partnership-culture, patriarchy, shamanism, e
 created: 2026-05-11
 ---
 
-# McKenna's Dominator vs Partnership Culture Model
+## McKenna's Dominator vs Partnership Culture Model
 
 [[terence-mckenna]]'s *Food of the Gods* proposes a grand historical thesis: that human culture can be divided into two fundamentally different social organizational patterns — the **partnership model** and the **dominator model** — and that the transition from one to the other was catalyzed by changes in humanity's relationship with psychoactive plants. This framework, influenced by Riane Eisler's *The Chalice and the Blade*, provides the organizing principle for McKenna's entire narrative of human cultural evolution.
 

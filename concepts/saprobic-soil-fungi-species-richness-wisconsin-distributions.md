@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Saprobic Soil Fungi — Species Richness, Wisconsin Surveys, and Distribution Patterns
+## Saprobic Soil Fungi — Species Richness, Wisconsin Surveys, and Distribution Patterns
 
 ## Overview
 

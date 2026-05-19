@@ -7,7 +7,7 @@ tags: [mycology, fungi, marine-biology, ecology, sampling]
 sources:
   - "raw/papers/ross-mars-permaculture-garden.md"
 ---
-# Marine Fungi: Diversity and Sampling Methods
+## Marine Fungi: Diversity and Sampling Methods
 
 Marine fungi inhabit a wide range of coastal and estuarine environments, from
 sandy beaches to coral reefs, mangrove forests, and salt marshes. Their

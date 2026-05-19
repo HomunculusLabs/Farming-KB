@@ -8,7 +8,7 @@ sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
-# Hemicellulase Enzyme Systems in Fungi
+## Hemicellulase Enzyme Systems in Fungi
 
 Updated: 2026-04-18
 

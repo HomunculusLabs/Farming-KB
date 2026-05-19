@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka's Method of Natural Paddy and Farm Establishment Without Machinery
+## Fukuoka's Method of Natural Paddy and Farm Establishment Without Machinery
 
 Masanobu Fukuoka's *The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]* provides detailed practical guidance for establishing farms, rice paddies, orchards, and gardens without the use of heavy machinery, chemical inputs, or conventional land-clearing methods. His approach preserves topsoil, builds long-term fertility, and creates productive agricultural landscapes that improve with time rather than degrading.
 

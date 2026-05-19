@@ -8,7 +8,7 @@ sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livi
 type: concept
 ---
 
-# Aquaculture Pond Design and Management
+## Aquaculture Pond Design and Management
 
 Aquaculture is a closed-loop system of growing fish in a cycle with plants
 and other animals. These range from small backyard ponds to large intensive

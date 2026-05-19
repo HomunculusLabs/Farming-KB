@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, cultivation, spawn, inoculation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Spawn Production
+## Spawn Production
 
 Spawn is the mycelial seed material used to inoculate bulk substrates in
 [[pf-tek-maximum-fruiting-substrate-formula]]. Without high-quality spawn,

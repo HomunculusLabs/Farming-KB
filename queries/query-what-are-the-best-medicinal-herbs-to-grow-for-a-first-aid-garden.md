@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# What Are the Best Medicinal Herbs to Grow for a First Aid Garden?
+## What Are the Best Medicinal Herbs to Grow for a First Aid Garden?
 
 ## Short Answer
 

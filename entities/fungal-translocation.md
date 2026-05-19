@@ -5,7 +5,7 @@ type: entity
 tags: [translocation, nutrient-transport, mycelium, carbon-flow, fungal-physiology, ecology]
 ---
 
-# Fungal Translocation
+## Fungal Translocation
 
 ## Description
 

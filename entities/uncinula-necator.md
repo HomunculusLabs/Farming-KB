@@ -10,7 +10,7 @@ sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
-# Uncinula necator
+## Uncinula necator
 
 ## Overview
 

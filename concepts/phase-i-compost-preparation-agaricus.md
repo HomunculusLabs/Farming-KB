@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Phase I Compost Preparation for Agaricus
+## Phase I Compost Preparation for Agaricus
 
 mushroom [[agaricus-bisporus-cultivation-biology]], transforming raw organic materials into a
 selective, nutritious substrate through controlled microbial
@@ -35,7 +35,7 @@ Two fundamental compost types exist:
   mixed with hay, is the base ingredient. Because straw is low
 ## Merged: Compost Preparation for Agaricus Cultivation
 
-# Compost Preparation for Agaricus Cultivation
+## Compost Preparation for Agaricus Cultivation
 
 Compost preparation is the foundation of [[grain-spawn-preparation]]
 - [[mushroom-cultivator-bulk-substrate]]

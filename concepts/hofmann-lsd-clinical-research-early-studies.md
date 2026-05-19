@@ -8,7 +8,7 @@ type: concept
 tags: [lsd]
 ---
 
-# Early LSD [[humphry-osmond]].
+## Early LSD [[humphry-osmond]].
 
 ## Key Therapeutic Mechanisms
 

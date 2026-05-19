@@ -3,7 +3,7 @@ source: carolina-mushrooms_08qxp.md
 tags: [emcdda, europe, hallucinogenic-mushrooms, regulation, amanita-muscaria, toxicity]
 ---
 
-# Amanita Muscaria as a Legal Alternative to Psilocybin Mushrooms in Europe
+## Amanita Muscaria as a Legal Alternative to Psilocybin Mushrooms in Europe
 
 ## The Shift from Psilocybin Mushrooms to Amanita Muscaria
 

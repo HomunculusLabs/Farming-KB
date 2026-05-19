@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycophagy in Vertebrates
+## Mycophagy in Vertebrates
 
 Mycophagy — the consumption of fungi by animals — is a widespread ecological phenomenon that plays a critical role in nutrient cycling, [[spore-dispersal]], and the maintenance of both vertebrate and invertebrate populations. Fungi serve as a significant food source for a diverse range of vertebrate animals, from small mammals to large herbivores, and the degree of dependence on fungal food varies considerably among species.
 

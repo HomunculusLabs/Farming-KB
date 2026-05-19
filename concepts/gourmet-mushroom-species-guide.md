@@ -7,7 +7,7 @@ tags: [gourmet-mushrooms, fungi, mycology, cultivation, shiitake, oyster, lions-
 sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultivator-stamets.md, raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
 
-# Gourmet Mushroom Species Guide
+## Gourmet Mushroom Species Guide
 
 Mushrooms suitable for cultivation span a wide range of species with diverse substrate preferences, temperature requirements, and growth habits. Below is an overview of the most popular gourmet species.
 

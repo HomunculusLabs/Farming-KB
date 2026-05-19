@@ -4,7 +4,7 @@ source: gottlieb-a-peyote-and-other-psychoactive-cacti.md
 type: concept
 ---
 
-# Peyote — *Lophophora williamsii* Biology, Chemistry, and Ethnobotany
+## Peyote — *Lophophora williamsii* Biology, Chemistry, and Ethnobotany
 
 ## Overview
 

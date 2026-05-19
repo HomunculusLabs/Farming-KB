@@ -8,7 +8,7 @@ type: concept
 tags: [cultivation, mushroom-cultivation]
 ---
 
-# Mushroom Cultivation for Disabilities - Pasteurization Methods
+## Mushroom Cultivation for Disabilities - Pasteurization Methods
 
 Pasteurization is a critical step [[sustaining-mushroom-crop-flushing-harvesting]]. The FAO training manual describes three methods suitable for different scales of operation and resource availability, all of which can be performed by people with disabilities.
 

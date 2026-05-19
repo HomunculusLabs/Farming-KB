@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, contamination, pathology, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Contamination Identification
+## Contamination Identification
 
 Contamination is the most common cause of failure in [[aspergillus-niger]] for comparison with other
 common mold contaminants.

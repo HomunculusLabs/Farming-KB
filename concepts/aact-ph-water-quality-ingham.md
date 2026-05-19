@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# AACT pH and Water Quality (Ingham)
+## AACT pH and Water Quality (Ingham)
 
 Updated: 2026-04-18
 

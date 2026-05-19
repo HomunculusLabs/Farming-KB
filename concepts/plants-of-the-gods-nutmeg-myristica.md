@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Nutmeg: Myristica fragrans
+## Nutmeg: Myristica fragrans
 
 ## Overview
 

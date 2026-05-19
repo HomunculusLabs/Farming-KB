@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Best Light Schedule for Cannabis?
+## What Is the Best Light Schedule for Cannabis?
 
 ## Short Answer
 

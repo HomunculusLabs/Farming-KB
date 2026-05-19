@@ -4,7 +4,7 @@ source: "unknown-biodiversity-of-fungi.md, Chunks 22–23"
 type: concept
 ---
 
-# Arbitrarily Primed PCR (apPCR / RAPD) for Fungal Taxonomic Discrimination and Genetic Diversity Assessment
+## Arbitrarily Primed PCR (apPCR / RAPD) for Fungal Taxonomic Discrimination and Genetic Diversity Assessment
 
 ## Overview
 

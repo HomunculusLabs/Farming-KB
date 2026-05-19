@@ -8,7 +8,7 @@ sources: [masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
 type: concept
 ---
 
-# Mulching in Natural Farming
+## Mulching in Natural Farming
 
 Mulching is a foundational practice in [[hamilton-composting-and-organic-matter-management]] returns
 to the soil.

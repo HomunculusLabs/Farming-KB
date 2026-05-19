@@ -1,13 +1,13 @@
 ---
-title: stamets-biological-efficiency-yield
+title: "Biological Efficiency"
 created: 2026-04-28
 tags: [mycology, metrics, cultivation, mushroom-yield]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Biological Efficiency Biological efficiency (BE) is the standard metric for measuring yield performance in [[genetic-improvement-agaricus-bisporus-molecular-approaches]]*) commercially achieves 60-100% BE on composted substrates.
+## Biological Efficiency Biological efficiency (BE) is the standard metric for measuring yield performance in [[genetic-improvement-agaricus-bisporus-molecular-approaches]]*) commercially achieves 60-100% BE on composted substrates.
 Shiitake (*[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and
 can reduce yield. Relative humidity during fruiting, typically 85-95%, affects
 evaporation rates and mushroom development. Carbon dioxide concentration influences

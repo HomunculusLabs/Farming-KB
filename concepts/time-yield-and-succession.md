@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Time, Yield and Succession in Ecological Systems
+## Time, Yield and Succession in Ecological Systems
 
 The relationship between time, system age, and productive yield is a critical but often overlooked dimension of ecological design. [[kenneth-watt]] and [[permaculture-design]]:
 

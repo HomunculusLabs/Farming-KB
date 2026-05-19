@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Origin of Agriculture and Human Dietary Cravings
+## Origin of Agriculture and Human Dietary Cravings
 
 The opening section of Chapter 5 in [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]], has lost sight of what a complete diet is."
 

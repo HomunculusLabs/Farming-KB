@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis for Arthritis
+## Cannabis for Arthritis
 
 ## Evidence-Based Confidence Level and Therapeutic Potential
 

@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Harvesting Techniques and Labor Efficiency
+## Winter Harvesting Techniques and Labor Efficiency
 
 Harvesting crops from unheated winter greenhouses in cold climates presents unique challenges that differ fundamentally from summer production. The grower must manage narrow temperature windows, maintain quality through careful washing and packing, and sustain a pace of work that meets delivery commitments — all while dealing with cold fingers and frozen infrastructure. Success depends on systematic scheduling, purpose-built tools, and a culture of efficiency.
 

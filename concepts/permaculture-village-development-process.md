@@ -4,9 +4,9 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Village Development Process
+## Permaculture Village Development Process
 
-The [[permaculture]] approach to village development follows a systematic, phased methodology that integrates [[williams-pdc-ecological-design-principles]] with practical legal, financial, and social structures. Unlike conventional suburban development, which treats land as a speculative commodity, the [[growing-gourmet-stametsian-permaculture-model]] treats land as a shared productive resource that must serve the long-term well-being of its residents and the broader ecosystem.
+The [[permaculture]] approach to village development follows a systematic, phased methodology that integrates [[williams-pdc-ecological-design-principles]] with practical legal, financial, and social structures. Unlike conventional suburban development, which treats land as a speculative commodity, the [[stametsian-permaculture-model]] treats land as a shared productive resource that must serve the long-term well-being of its residents and the broader ecosystem.
 
 ## Stages of Development
 

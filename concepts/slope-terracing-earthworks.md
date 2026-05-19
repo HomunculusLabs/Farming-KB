@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Slope Terracing and Earthworks
+## Slope Terracing and Earthworks
 
 ## Overview
 

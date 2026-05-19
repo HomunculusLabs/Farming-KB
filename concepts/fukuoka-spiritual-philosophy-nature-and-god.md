@@ -5,7 +5,7 @@ tags: [spirituality, philosophy, nature, god, ecology, zen]
 created: 2026-05-11
 ---
 
-# Fukuoka's Spiritual Philosophy: Nature, God, and Man
+## Fukuoka's Spiritual Philosophy: Nature, God, and Man
 
 ## Overview
 

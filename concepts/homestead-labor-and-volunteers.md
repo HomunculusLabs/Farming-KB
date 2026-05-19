@@ -7,7 +7,7 @@ tags: [homesteading, business, community, law, regulation, economics]
 sources: []
 ---
 
-# Homestead Labor and Volunteers
+## Homestead Labor and Volunteers
 
 As a homestead grows beyond what one or two people can manage, labor becomes a critical consideration. Options range from informal volunteer exchanges to formal employees. Each approach has legal, financial, and interpersonal implications. This guide covers WWOOF, Workaway, apprenticeships, hiring, and labor law compliance.
 

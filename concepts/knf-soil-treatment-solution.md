@@ -8,7 +8,7 @@ sources: [raw/papers/chos-global-natural-farming.md]
 type: concept
 ---
 
-# KNF [[natural-farming]] departs from this approach. Dr. Cho's
+## KNF [[natural-farming]] departs from this approach. Dr. Cho's
 system recognizes that soil is a living ecosystem teeming with
 microorganisms that, when properly supported, will maintain soil
 structure, fertility, and health naturally.

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Hurricane and Cyclone Resilient Design
+## Hurricane and Cyclone Resilient Design
 
 Bill Mollison addresses hurricanes and cyclones as major landscape forces
 that demand specific design responses. In cyclonic or hurricane areas,

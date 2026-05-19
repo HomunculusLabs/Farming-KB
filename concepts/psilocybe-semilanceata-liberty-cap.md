@@ -4,7 +4,7 @@ source: magic-mushrooms-around-the-world-by-jochen-gartz.md
 type: concept
 ---
 
-# Psilocybe semilanceata — The Liberty Cap
+## Psilocybe semilanceata — The Liberty Cap
 
 *[[psilocybe-semilanceata]]*, commonly known as the **liberty cap**, is the most widespread and well-studied psilocybin-containing mushroom in Europe, and likely the most common psychoactive *Psilocybe* species worldwide. It was first confirmed to contain psilocybin in 1963 by a research team including [[albert-hofmann]] and [[roger-heim]], making it the first European mushroom species found to harbor the alkaloid.
 

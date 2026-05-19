@@ -5,7 +5,7 @@ tags: [coleman, aphid, winter-greenhouse, nitrogen, irrigation, pest-management,
 created: 2026-05-08
 ---
 
-# Aphid Management in Winter Greenhouses Through Nitrogen Flushing
+## Aphid Management in Winter Greenhouses Through Nitrogen Flushing
 
 ## Overview
 

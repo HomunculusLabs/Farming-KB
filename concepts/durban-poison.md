@@ -5,7 +5,7 @@ tags: [cannabis, sativa, durban-poison, landrace, strains, breeding]
 created: 2026-05-08
 ---
 
-# Durban Poison
+## Durban Poison
 
 Durban Poison is one of the most important and historically significant
 cannabis sativa [[query-how-do-i-grow-bananas-in-a-subtropical-climate]] features warm wet

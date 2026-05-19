@@ -8,7 +8,7 @@ type: concept
 tags: [agar]
 ---
 
-# Fly-Agaric in Victorian Fairy Paintings and Popular Culture
+## Fly-Agaric in Victorian Fairy Paintings and Popular Culture
 
 ## The Fly-Agaric as Cultural Icon
 

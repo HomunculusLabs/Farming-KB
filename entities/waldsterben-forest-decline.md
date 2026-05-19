@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
 
-# Waldsterben (Forest Decline)
+## Waldsterben (Forest Decline)
 
 ## Description
 

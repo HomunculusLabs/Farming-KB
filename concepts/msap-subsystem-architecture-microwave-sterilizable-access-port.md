@@ -6,7 +6,7 @@ created: 2026-05-08
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 ---
 
-# Microwave Sterilizable Access Port (MSAP) Subsystem Architecture
+## Microwave Sterilizable Access Port (MSAP) Subsystem Architecture
 
 ## Overview
 

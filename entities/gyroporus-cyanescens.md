@@ -11,7 +11,7 @@ tags:
   - "Binder, M. & Bresinsky, A. (2002). \"Derivation of a polymorphic lineage of Gasteromycetes from boletoid ancestors.\" Mycologia, 94(1), 85-98."
 ---
 
-# Gyroporus cyanescens (*Gyroporus cyanescens* (Bull.) Quélet)
+## Gyroporus cyanescens (*Gyroporus cyanescens* (Bull.) Quélet)
 
 ## Overview
 

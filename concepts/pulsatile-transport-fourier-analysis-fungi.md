@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Pulsatile Nutrient Transport and Fourier Analysis in Fungal Mycelia
+## Pulsatile Nutrient Transport and Fourier Analysis in Fungal Mycelia
 
 ## Overview
 

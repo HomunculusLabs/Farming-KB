@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Resource Classification and Management
+## Resource Classification and Management
 
 In [[permaculture-design]].
 

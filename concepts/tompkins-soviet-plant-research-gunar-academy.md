@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Soviet Plant Research at the Timiryazev Academy
+## Soviet Plant Research at the Timiryazev Academy
 
 ## Overview
 

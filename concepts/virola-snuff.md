@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Virola Snuff
+## Virola Snuff
 
 Virola snuffs are psychoactive preparations made from the resinous
 inner bark of several species of Virola, a genus of trees in the

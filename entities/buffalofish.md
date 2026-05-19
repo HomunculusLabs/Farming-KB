@@ -5,7 +5,7 @@ type: entity
 tags: [fish, aquaculture, permaculture, pond-culture, polyculture]
 ---
 
-# Buffalofish (Ictiobus spp.)
+## Buffalofish (Ictiobus spp.)
 
 ## Description
 

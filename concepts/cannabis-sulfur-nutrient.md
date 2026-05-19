@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, nutrients]
 ---
 
-# Cannabis Sulfur (S)
+## Cannabis Sulfur (S)
 
 ## Overview
 

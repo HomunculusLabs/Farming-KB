@@ -9,7 +9,7 @@ sources:
   - raw/papers/chos-global-natural-farming.md
 ---
 
-# KNF Lactic Acid Bacteria Serum (LAB)
+## KNF Lactic Acid Bacteria Serum (LAB)
 
 Lactic Acid Bacteria (LAB) serum is a powerful [[chos-global-natural-farming-input-reduction-methods]] made from rice-washed water and milk. LAB improves soil ventilation, promotes rapid growth of fruit trees and leaf vegetables, and increases the solubility of fertilizers.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [tree, species, eucalyptus, revegetation, timber, australia]
 ---
 
-# Eucalyptus maculata (Spotted Gum)
+## Eucalyptus maculata (Spotted Gum)
 
 ## Description
 

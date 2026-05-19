@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Strain Selection and Spawn Types
+## Maitake Strain Selection and Spawn Types
 
 *[[grifola-frondosa]]* (maitake / hen of the woods) is a premier [[holzer-medicinal-and-culinary-herbs-compendium]] mushroom prized for its immune-modulating polysaccharides and rich umami flavor. However, successful commercial cultivation demands careful strain selection and an understanding of spawn biology—more so than with many other cultivated species.
 

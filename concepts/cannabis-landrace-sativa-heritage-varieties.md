@@ -9,7 +9,7 @@ sources:
   - raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 
-# Cannabis Landrace Sativa Heritage Varieties
+## Cannabis Landrace Sativa Heritage Varieties
 
 [[cannabis-terpene-profiles-sativa]].
 

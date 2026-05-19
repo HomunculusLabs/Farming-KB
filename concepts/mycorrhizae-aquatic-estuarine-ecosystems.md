@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizae in Aquatic and Estuarine Ecosystems
+## Mycorrhizae in Aquatic and Estuarine Ecosystems
 
 ## Overview
 

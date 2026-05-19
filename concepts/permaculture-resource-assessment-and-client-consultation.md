@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Resource Assessment and Client Consultation
+## Permaculture Resource Assessment and Client Consultation
 
 Resource assessment is one of the most valuable services a permaculture designer provides, often more impactful than the design itself. Before any layout or planting plan is drawn, the designer must systematically inventory every resource available on and around the site — earth resources, biological resources, energy resources, and social resources. Mollison states that a thorough resource assessment alone justifies the design fee, even before any layout work begins. "You will earn your fee."
 

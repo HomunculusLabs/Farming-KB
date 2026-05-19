@@ -7,7 +7,7 @@ tags: [cultivation, mycology]
 sources:
   - "raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md"
 ---
-# Accessible Mushroom Cultivation for People with Disabilities
+## Accessible Mushroom Cultivation for People with Disabilities
 
 The FAO [[grass-seed-substrate-for-mushroom-cultivation]] by people with disabilities demonstrates that mushroom farming can be adapted for virtually any physical limitation. With proper [[history-of-commercial-mushroom-cultivation]] operations.
 

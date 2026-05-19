@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Make Fish Hydrolysate Fertilizer
+## How to Make Fish Hydrolysate Fertilizer
 
 ## Short Answer
 Fish hydrolysate is a cold-processed [[hamilton-organic-fertilizers-and-plant-nutrition]] available to home gardeners

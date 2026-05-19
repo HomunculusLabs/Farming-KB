@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Earthmoving Machinery and Tools
+## Earthmoving Machinery and Tools
 
 People have always moved earth — to reach water in dry river beds, mine pigments, excavate food as bulbs, grubs, or fungi, and bury waste or their dead. The archetypal tool is the digging stick, which provides food of greater variety and nutrition than the spear. The basic hoe, rake, and shovel exist today in most cultures, and hand tools have moved most of the earth we see today, including the vast mountain rice terraces of Asia.
 

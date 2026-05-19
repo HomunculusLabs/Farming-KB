@@ -26,7 +26,7 @@ sources:
   - https://growdiaries.com/strain/tropicana-cookies
 ---
 
-# Tropicana Cookies (Cannabis Strain)
+## Tropicana Cookies (Cannabis Strain)
 
 ## Overview
 

@@ -17,7 +17,7 @@ sources:
   - "Kirby, G. et al. (2018). \"Nutritional and Bioactive Properties of Tricholomataceae.\" J. Food Chem., 240, 1-12."
 ---
 
-# Lepista sordida
+## Lepista sordida
 
 ## Overview
 

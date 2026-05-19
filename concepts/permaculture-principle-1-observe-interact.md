@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Principle 1: Observe and Interact
+## Permaculture Principle 1: Observe and Interact
 
 *"Beauty is in the eye of the beholder"*
 

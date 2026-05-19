@@ -61,7 +61,7 @@ related_concepts:
   - blesching-cannabis-brain-cancer-glioblastoma
 ---
 
-# Cannabis as Medicine: A Clinical Reference
+## Cannabis as Medicine: A Clinical Reference
 
 Cannabis has served as a therapeutic agent across cultures for millennia, yet
 modern clinical science has only recently begun to unravel the pharmacological

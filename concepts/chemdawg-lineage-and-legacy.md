@@ -14,7 +14,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Chemdawg Lineage and Legacy
+## Chemdawg Lineage and Legacy
 
 The [[oner-chemdawg-origin-legend-grateful-dead-genetics]] concert in the early 1990s, Chemdawg has
 spawned dozens of celebrated hybrid strains and remains a cornerstone of contemporary cannabis

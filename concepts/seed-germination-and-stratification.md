@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Seed Germination and Stratification
+## Seed Germination and Stratification
 
 ## Overview
 

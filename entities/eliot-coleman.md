@@ -5,10 +5,10 @@ type: person
 tags: [agriculture, organic-farming, season-extension, author, four-season-farming]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md]
+sources: ["raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 ---
 
-# Eliot Coleman
+## Eliot Coleman
 
 Eliot Coleman is an American farmer, author, and pioneer of [[dry-gardening-unirrigated-vegetable-production-solomon]] can continue through winter in cold climates using unheated greenhouses.
 

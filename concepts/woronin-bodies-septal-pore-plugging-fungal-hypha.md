@@ -4,7 +4,7 @@ source: "Fungi in the Environment (Gadd, Watkinson, Dyer)"
 topics: [fungi, woronin-bodies, septal-pore, hyphae, peroxisomes, hex-1, ascomycota, cell-biology]
 ---
 
-# Woronin Bodies
+## Woronin Bodies
 
 ## Overview
 
@@ -141,4 +141,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fungi-environment-woronin-bodies-septal-pore-plugging-euascomycetes]]
 - [[gadd-woronin-bodies-hyphal-septation]]
 - [[hex1-protein-woronin-body-crystal-structure-euascomycetes]]
-- [[woronin-bodies-septal-pore-plugging-euascomycetes-jedd]]
+- [[fungi-environment-woronin-bodies-septal-pore-plugging-euascomycetes]]

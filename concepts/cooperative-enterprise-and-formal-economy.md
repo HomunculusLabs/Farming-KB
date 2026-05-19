@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cooperative Enterprise and Formal Economy
+## Cooperative Enterprise and Formal Economy
 
 ## Overview
 

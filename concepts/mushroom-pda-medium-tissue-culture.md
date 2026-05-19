@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# PDA Medium Production and Mushroom Tissue Culture
+## PDA Medium Production and Mushroom Tissue Culture
 
 PDA (Potato Dextrose Agar) is the standard growth medium used in [[aquarium-humidity-chamber-mushroom-fruiting]] bodies, and transferring mycelium between PDA bottles for multiplication.
 

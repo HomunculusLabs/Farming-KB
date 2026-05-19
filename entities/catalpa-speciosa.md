@@ -17,7 +17,7 @@ sources:
   - USDA NRCS. (2024). "Catalpa speciosa." PLANTS Database. https://plants.usda.gov/home/plantProfile?symbol=CASP2
 ---
 
-# Catalpa speciosa
+## Catalpa speciosa
 
 ## Overview
 

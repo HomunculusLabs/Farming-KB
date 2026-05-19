@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-staycare-endobacteria-arbuscular-mycorrhizal-fungi-fungi-arbuscular-mycorrhizal-fungi-in-the-environment-fungal-biodiversity-tropical-forest-restoration-hydrocarbon-remediation-the-environment.md]
 type: concept
 ---
-# Arbuscular Mycorrhizal Genomics
+## Arbuscular Mycorrhizal Genomics
 
 Arbuscular mycorrhizal (AM) fungi form one of the most ancient and
 widespread symbiotic associations on Earth, dating back approximately

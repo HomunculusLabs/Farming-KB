@@ -5,7 +5,7 @@ tags: [psilocybin, psilocin, psilocybe-cubensis, cap-stem, strain-comparison, al
 created: 2026-05-08
 ---
 
-# Psilocybe cubensis Cap versus Stem Alkaloid Distribution by Strain
+## Psilocybe cubensis Cap versus Stem Alkaloid Distribution by Strain
 
 ## Overview
 

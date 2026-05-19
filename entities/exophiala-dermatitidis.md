@@ -9,7 +9,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Exophiala dermatitidis
+## Exophiala dermatitidis
 
 **Exophiala dermatitidis** (synonym: *Wangiella dermatitidis*) is a melanized ascomycete fungus and an opportunistic human pathogen.
 

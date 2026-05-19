@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Contaminants of Mushroom Culture in The Mushroom Cultivator
+## Contaminants of Mushroom Culture in The Mushroom Cultivator
 
 Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter XIII
 Updated: 2026-04-18

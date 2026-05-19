@@ -10,7 +10,7 @@ sources:
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
-# King Stropharia Cultivation
+## King Stropharia Cultivation
 
 King Stropharia (Stropharia rugoso-annulata), also known as the Wine Cap, Garden Giant, and "Godzilla," is a robust outdoor-cultivated mushroom prized for its large size, ease of cultivation in garden settings, and mycoremediation potential. It is one of the best mushrooms for outdoor bed culture.
 

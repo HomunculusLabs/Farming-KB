@@ -7,7 +7,7 @@ type: concept
 tags: [reference]
 ---
 
-# The Catholic Church and the Suppression of the Eleusinian Mysteries
+## The Catholic Church and the Suppression of the Eleusinian Mysteries
 
 The [[entheogenic-knowledge-secret-societies]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

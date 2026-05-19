@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Banisteriopsis — The Ayahuasca Vine
+## Banisteriopsis — The Ayahuasca Vine
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Toadstool Myths and Fungi Classification
+## Toadstool Myths and Fungi Classification
 
 ## Mushroom vs. Toadstool: There Is No Difference
 

@@ -4,7 +4,7 @@ source: beneficial-indigenous-microorganisms-bionutrients.md
 type: entity
 ---
 
-# Bamboo Microorganisms
+## Bamboo Microorganisms
 
 ## Description
 

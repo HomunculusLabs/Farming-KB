@@ -1,4 +1,8 @@
-# Psilocybin Pharmacology: 5-HT2A Receptor Mechanism of Action
+---
+title: "Psilocybin Pharmacology: 5-HT2A Receptor Mechanism of Action"
+tags:
+  - concept
+---
 
 ---
 created: 2026-05-08

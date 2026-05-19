@@ -6,7 +6,7 @@ type: concept
 tags: [herbalism, herbs]
 sources: []
 ---
-# Herb-Drug Interactions
+## Herb-Drug Interactions
 
 Herb-drug interactions occur when herbal medicines affect the pharmacokinetics (absorption, distribution, metabolism, or excretion) or pharmacodynamics (receptor-level effects) of conventional pharmaceutical drugs. These interactions can reduce drug effectiveness, increase drug toxicity, or produce unexpected physiological effects. As herbal medicine use becomes increasingly common, often alongside conventional pharmaceuticals, understanding potential interactions is essential for safe practice.
 

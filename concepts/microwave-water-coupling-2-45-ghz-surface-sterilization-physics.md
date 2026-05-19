@@ -6,7 +6,7 @@ sources:
   - sterilizing-surfaces-by-irradiation-with-microwaves.md
 ---
 
-# Microwave-Water Coupling at 2.45 GHz for Surface Sterilization
+## Microwave-Water Coupling at 2.45 GHz for Surface Sterilization
 
 ## Overview
 

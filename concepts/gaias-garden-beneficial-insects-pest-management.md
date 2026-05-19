@@ -5,7 +5,7 @@ author: Toby Hemenway
 topics: insects, pest-management, ecology, permaculture, biological-control, pollination
 ---
 
-# Beneficial Insects and Ecological Pest Management
+## Beneficial Insects and Ecological Pest Management
 
 [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Piule (Rhynchosia spp.)
+## Piule (Rhynchosia spp.)
 
 Piule is the name given to several species of Rhynchosia that have
 beautiful red and black seeds which may have been valued as a narcotic by

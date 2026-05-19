@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Jar Preparation and Sterilization
+## Jar Preparation and Sterilization
 
 ## Overview
 

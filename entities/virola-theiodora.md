@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Virola theiodora
+## Virola theiodora
 
 **Virola theiodora** (Spr.) Warb., commonly known as the **Cumala Tree**, is a large tree native to the western Amazon basin. It is probably the most important species of Virola used as a psychoactive snuff by indigenous peoples of the Amazon, containing both DMT and 5-MeO-DMT in its resin.
 

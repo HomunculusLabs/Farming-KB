@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Pruning [[grafting-fruit-trees]]
+## Pruning [[grafting-fruit-trees]]
 
 Grafting is a propagation technique that joins two plants into one: a scion (the
 upper portion producing the desired [[holzer-stone-fruit-varieties-and-growing]]

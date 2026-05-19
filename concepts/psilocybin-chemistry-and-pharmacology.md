@@ -1,4 +1,8 @@
-# Psilocybin Chemistry and Pharmacology
+---
+title: "Psilocybin Chemistry and Pharmacology"
+tags:
+  - concept
+---
 
 **Tags:** chemistry, pharmacology, psilocybin, psilocin, serotonin, tryptamine
 

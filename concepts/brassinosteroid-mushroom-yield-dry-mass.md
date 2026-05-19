@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, yield, dry mass, brassinosteroid, fruiting, cultivation efficiency, biomass]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+sources: ["raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"]
 type: concept
 ---
 
-# Brassinosteroid Enhancement of Mushroom Yield and Dry Mass
+## Brassinosteroid Enhancement of Mushroom Yield and Dry Mass
 
 One of the most practically significant findings of the Gartz, Adam,
 and Vorbrodt (1990) study was the substantial increase in mushroom

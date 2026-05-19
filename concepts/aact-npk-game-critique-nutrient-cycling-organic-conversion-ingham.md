@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# The NPK Game — Critique of Synthetic Fertilization and Organic Nutrient Conversion
+## The NPK Game — Critique of Synthetic Fertilization and Organic Nutrient Conversion
 
 [[elaine-ingham]]'s field guide includes a direct critique of what she calls "the NPK game" — the conventional agricultural approach of managing soil fertility through applications of nitrogen (N), phosphorus (P), and potassium (K) fertilizers without addressing the underlying biological systems that make nutrients available to plants.
 

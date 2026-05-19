@@ -10,7 +10,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Thermal Compost Versus Worm Compost for Compost Tea Production
+## Thermal Compost Versus Worm Compost for Compost Tea Production
 
 ## Overview
 

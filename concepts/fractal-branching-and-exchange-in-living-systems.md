@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Fractal Branching and Exchange in Living Systems
+## Fractal Branching and Exchange in Living Systems
 
 ## Overview
 

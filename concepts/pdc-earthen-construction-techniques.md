@@ -7,7 +7,7 @@ tags: [permaculture, design, soil, earth-building, construction]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-# Earthen Construction Techniques updated: 2026-04-18 Earthen construction uses soil as the primary building material, connecting [[comparison-lime-plaster-vs-earthen-plaster]]
+## Earthen Construction Techniques updated: 2026-04-18 Earthen construction uses soil as the primary building material, connecting [[comparison-lime-plaster-vs-earthen-plaster]]
 - Extremely versatile -- can create domes, vaults, and curved walls
 - Does not require high clay content in the soil
 - Particularly suited for rapid construction and disaster relief

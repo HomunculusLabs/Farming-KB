@@ -14,7 +14,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Smoking vs Canning
+## Smoking vs Canning
 
 ## Overview
 

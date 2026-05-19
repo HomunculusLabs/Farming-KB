@@ -7,7 +7,7 @@ tags: [fungal-ecology, soil, mycology, ecosystem]
 sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
 
-# Lichens in Primary Production and Soil Formation (Dighton)
+## Lichens in Primary Production and Soil Formation (Dighton)
 
 Updated: 2026-04-18
 

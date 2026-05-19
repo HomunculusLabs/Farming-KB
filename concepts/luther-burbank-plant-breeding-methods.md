@@ -8,7 +8,7 @@ sources: [tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Luther Burbank's Plant Breeding [[fukuoka-american-agriculture-fields-of-death]].
+## Luther Burbank's Plant Breeding [[fukuoka-american-agriculture-fields-of-death]].
 
 ## Overview
 

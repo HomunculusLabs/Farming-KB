@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Allegro on Death and Resurrection in the Mushroom Cult
+## Allegro on Death and Resurrection in the Mushroom Cult
 
 John Allegro argued that the central theme of [[sacred-mushroom-and-the-cross]], the seasonal appearance, growth, and decay of the Amanita mushroom provided the template for myths of dying and rising deities across Mesopotamian and Mediterranean cultures.
 

@@ -26,7 +26,7 @@ related_concepts:
   - "soil-nutrient-management-and-plant-nutrition"
 ---
 
-# Microbial Inoculants and Biological Soil Amendments
+## Microbial Inoculants and Biological Soil Amendments
 
 ## Introduction
 

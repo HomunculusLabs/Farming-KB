@@ -13,7 +13,7 @@ tags:
 created: 2026-05-10
 ---
 
-# Geotropism in Basidiomycetes
+## Geotropism in Basidiomycetes
 
 [[mushroom-tropisms]].
 

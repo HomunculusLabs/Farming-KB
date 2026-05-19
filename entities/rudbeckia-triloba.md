@@ -17,7 +17,7 @@ sources:
   - Tallamy D.W. (2007). "Bringing Nature Home." Timber Press.
 ---
 
-# Rudbeckia triloba
+## Rudbeckia triloba
 
 ## Overview
 

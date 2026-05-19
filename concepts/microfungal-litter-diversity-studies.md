@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Microfungal Litter Diversity Studies — Host-Specific and Non-Host-Directed Estimation
+## Microfungal Litter Diversity Studies — Host-Specific and Non-Host-Directed Estimation
 
 ## Overview
 

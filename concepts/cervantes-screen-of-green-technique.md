@@ -5,7 +5,7 @@ extracted: 2026-05-10
 tags: [cannabis, horticulture, cervantes, scrog, screen-of-green, training, yield]
 ---
 
-# Screen of Green (SCROG) Technique
+## Screen of Green (SCROG) Technique
 
 ## Overview
 

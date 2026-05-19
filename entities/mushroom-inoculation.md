@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, cultivation, inoculation, spawn, aseptic-technique]
 ---
 
-# Mushroom Inoculation
+## Mushroom Inoculation
 
 ## Description
 

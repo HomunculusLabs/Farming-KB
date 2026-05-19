@@ -7,7 +7,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_.md
 tags: [cultivation, casing, substrate, mycology, fruiting]
 ---
 
-# Mushroom Casing Soil
+## Mushroom Casing Soil
 
 Casing soil is a non-nutritive (or low-nutrition) layer applied on top of
 fully colonized substrate to create the microclimate necessary for mushroom

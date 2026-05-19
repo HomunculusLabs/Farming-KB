@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Challenges in Neurotropic Fungi Chemical Analysis and Taxonomic Identification
+## Challenges in Neurotropic Fungi Chemical Analysis and Taxonomic Identification
 
 ## Overview
 

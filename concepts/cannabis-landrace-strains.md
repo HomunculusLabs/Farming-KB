@@ -6,7 +6,7 @@ source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 created: 2026-05-10
 ---
 
-# Cannabis Landrace Strains
+## Cannabis Landrace Strains
 
 [[cannabis-genetic-stability]]**: It reproduces relatively true from seed, maintaining consistent
   characteristics across generations.

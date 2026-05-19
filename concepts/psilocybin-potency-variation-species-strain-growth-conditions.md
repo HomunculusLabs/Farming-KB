@@ -6,7 +6,7 @@ related: ["variation-of-psilocybin-and-psilocin-levels-bigwood-beug", "street-sa
 created: 2026-05-09
 ---
 
-# Psilocybin Potency Variation by Species, Strain, and Growth Conditions
+## Psilocybin Potency Variation by Species, Strain, and Growth Conditions
 
 ## Introduction
 

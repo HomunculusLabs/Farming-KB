@@ -21,7 +21,7 @@ sources:
 type: concept
 ---
 
-# Minoan Crete and the Mushroom Religion
+## Minoan Crete and the Mushroom Religion
 
 ## Overview
 

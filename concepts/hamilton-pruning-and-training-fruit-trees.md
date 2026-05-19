@@ -7,7 +7,7 @@ tags: [food-forest, orchard]
 sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Hamilton: Pruning and Training Fruit Trees
+## Hamilton: Pruning and Training Fruit Trees
 
 **Source:** [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]* (Nick Hamilton edition)
 

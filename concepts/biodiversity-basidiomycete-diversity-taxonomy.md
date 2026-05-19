@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [fungi, taxonomy, basidiomycota, biodiversity, systematics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ['/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md']
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md'"]
 type: concept
 ---
 
-# Basidiomycete Diversity and Taxonomy
+## Basidiomycete Diversity and Taxonomy
 
 The Basidiomycota is the second largest phylum of Kingdom
 Fungi, with approximately 23,000 described species (Hawksworth

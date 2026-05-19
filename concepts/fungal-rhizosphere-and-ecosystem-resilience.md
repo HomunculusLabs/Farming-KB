@@ -4,7 +4,7 @@ source: fungi-magazine-fungi-and-sustainability.md
 type: concept
 ---
 
-# Fungal Rhizosphere and Ecosystem Resilience
+## Fungal Rhizosphere and Ecosystem Resilience
 
 ## Overview
 

@@ -7,7 +7,7 @@ updated: 2026-05-09
 type: concept
 ---
 
-# Double-Layer Tinfoil Jar Covering for Pressure Cooker Sterilization
+## Double-Layer Tinfoil Jar Covering for Pressure Cooker Sterilization
 
 ## Overview
 

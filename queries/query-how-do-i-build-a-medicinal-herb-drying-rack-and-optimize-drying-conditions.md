@@ -13,7 +13,7 @@ sources: []
 type: query
 ---
 
-# How Do I Build a Medicinal Herb Drying Rack and Optimize Drying Conditions?
+## How Do I Build a Medicinal Herb Drying Rack and Optimize Drying Conditions?
 
 ## Why Proper Drying Matters for Medicinal Herbs
 

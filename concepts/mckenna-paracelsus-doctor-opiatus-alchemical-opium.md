@@ -8,7 +8,7 @@ sources:
   - raw/papers/mckenna_t-food_of-the-gods.md
 type: concept
 ---
-# Paracelsus, Doctor Opiatus, and the Alchemical Revival of Opium
+## Paracelsus, Doctor Opiatus, and the Alchemical Revival of Opium
 
 In *Food of the Gods*,  traces the history of opium through a distinctive
 lens, identifying the alchemical tradition — and specifically the sixteenth-century

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
 type: query
 ---
-# How to Make Lactobacillus Serum for Plants
+## How to Make Lactobacillus Serum for Plants
 ## Short Answer
 Lactobacillus serum (LAB serum) is a natural probiotic culture made by fermenting rice wash water with milk to selectively breed Lactobacillus bacteria. It is a core input in Korean [[lactic-acid-bacteria-knf]] (LAB) that produce lactic acid as a metabolic byproduct. This acid lowers pH, suppresses harmful microorganisms, breaks down [[bionutrients-lab-lactic-acid-bacteria-serum]] guide provides detailed ratios and troubleshooting tips for each stage of this process.
 ### Storage and Shelf Life

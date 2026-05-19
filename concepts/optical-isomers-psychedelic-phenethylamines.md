@@ -8,7 +8,7 @@ sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
 
-# Optical Isomers in Psychedelic Phenethylamines
+## Optical Isomers in Psychedelic Phenethylamines
 
 **Updated:** 2026-04-18
 

@@ -1,4 +1,8 @@
-# Cap vs Stem Alkaloid Distribution in Psilocybe cubensis
+---
+title: "Cap vs Stem Alkaloid Distribution in Psilocybe cubensis"
+tags:
+  - concept
+---
 
 The distribution of [[psilocybe-cubensis]]* is not uniform. Research by Bigwood
 and Beug (1982) demonstrated that caps contain significantly higher

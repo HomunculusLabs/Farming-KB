@@ -7,7 +7,7 @@ created: 2026-05-10
 tags: [biography, ethnobotany, psychedelics, philosophy, consciousness]
 ---
 
-# Terence McKenna
+## Terence McKenna
 
 ## Overview
 

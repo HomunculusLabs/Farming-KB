@@ -5,7 +5,7 @@ type: entity
 tags: [species, boletus, edible, color-change, fungi]
 ---
 
-# Boletus cyanescens
+## Boletus cyanescens
 
 ## Description
 

@@ -51,7 +51,7 @@ related_concepts:
   - white-rot-fungi
 ---
 
-# Oyster Mushroom Cultivation and Species Guide
+## Oyster Mushroom Cultivation and Species Guide
 
 Oyster mushrooms, belonging to the genus *Pleurotus*, are the most widely
 cultivated gourmet mushrooms worldwide and the standard entry point for new

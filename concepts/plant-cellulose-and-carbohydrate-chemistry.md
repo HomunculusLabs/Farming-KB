@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Plant Cellulose and Carbohydrate Chemistry
+## Plant Cellulose and Carbohydrate Chemistry
 
 Carbohydrates are the most abundant organic molecules on Earth. In plants, they serve as structural materials (cellulose), [[query-can-fungi-break-down-plastic-pollution]] glucose to release energy. It is the universal fuel of metabolism.
 

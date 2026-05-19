@@ -22,7 +22,7 @@ sources:
 - concepts/think-grow-model-h-plus.md
 ---
 
-# LED vs HPS Grow Lights Comparison
+## LED vs HPS Grow Lights Comparison
 
 Choosing grow lights is the most impactful decision for indoor cannabis cultivation. The right fixture determines yield, quality, electricity cost, and grow room infrastructure requirements. This comparison covers the six main fixture categories used by home and commercial growers, synthesized from [[cannabis-lighting-guide]] and [[cannabis-lighting-guide]].
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Psilocybin Mushroom Lookalikes and Deadly Identification Warnings
+## Psilocybin Mushroom Lookalikes and Deadly Identification Warnings
 
 Source: [[psilocybin-mushroom-identification]] can be lethal. Since few little brown mushrooms have ever been sought after as food, little was known about their biochemistry until recently. As more people sought psilocybin varieties, poisonings from mistaken identifications increased.
 

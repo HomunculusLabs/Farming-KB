@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Bioregional Organization and Political Affiliation Strategies
+## Bioregional Organization and Political Affiliation Strategies
 
 In Chapter 14 of Permaculture: A Designers' Manual, Bill Mollison provides detailed guidance on forming bioregional associations, evolving ecological policy, and engaging with political systems from a permaculture perspective. This section bridges the ethical framework of the alternative nation concept with practical organizational strategies for grassroots ecological governance.
 

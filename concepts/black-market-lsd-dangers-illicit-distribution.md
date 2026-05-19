@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# Black Market LSD — Dangers of Illicit Distribution
+## Black Market LSD — Dangers of Illicit Distribution
 
 ## Overview
 

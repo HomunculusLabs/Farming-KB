@@ -5,7 +5,7 @@ type: entity
 tags: [permaculture, greenhouse, spice, tropical-crop, cinnamon, coppice]
 ---
 
-# Cinnamon (Cinnamomum verum) — Permaculture Greenhouse Production
+## Cinnamon (Cinnamomum verum) — Permaculture Greenhouse Production
 
 ## Description
 

@@ -6,7 +6,7 @@ created: 2026-05-09
 tags: [mycology, psilocybe, biogeography, distribution, biodiversity]
 ---
 
-# Psilocybe Genus Global Distribution and Biogeography
+## Psilocybe Genus Global Distribution and Biogeography
 
 ## Overview
 

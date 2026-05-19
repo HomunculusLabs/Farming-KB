@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# Charantais Melon
+## Charantais Melon
 
 ## Description
 

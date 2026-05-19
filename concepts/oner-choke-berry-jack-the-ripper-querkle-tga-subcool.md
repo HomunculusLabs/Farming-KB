@@ -4,7 +4,7 @@ source: "S.T. Oner — The Rev: blesching-cannabis-sativa-indica-classification 
 tags: [cannabis, sativa, strain-profile, jack-the-ripper, querkle, tga-subcool, purple-bud, medicinal, insomnia, pain-relief, indica-sativa]
 ---
 
-# Choke Berry — Jack the Ripper × Querkle (TGA Subcool)
+## Choke Berry — Jack the Ripper × Querkle (TGA Subcool)
 
 Choke Berry is a hybrid strain created by Subcool of TGA Genetics that
 combines the legendary potency of Jack the Ripper with the colorful, flavorful

@@ -7,7 +7,7 @@ tags: [amanita-muscaria, mycology]
 sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
-# [[allegro-the-sacred-mushroom-amanita-identification]] as the supreme religious drug: "The way to God and the fleeting view of heaven was through plants more plentifully endued with the sperm of God than any other. These were the drug-herbs, the science of whose cultivation and use had been accumulated over centuries of observation and dangerous experiment." To pluck the sacred herb was "attended at every point with peril" -- the proper time (before sunrise), the words to be uttered (the name of the guardian angel), and some form of substitution (atonement to the earth robbed of her offspring) were all essential.
+## [[allegro-the-sacred-mushroom-amanita-identification]] as the supreme religious drug: "The way to God and the fleeting view of heaven was through plants more plentifully endued with the sperm of God than any other. These were the drug-herbs, the science of whose cultivation and use had been accumulated over centuries of observation and dangerous experiment." To pluck the sacred herb was "attended at every point with peril" -- the proper time (before sunrise), the words to be uttered (the name of the guardian angel), and some form of substitution (atonement to the earth robbed of her offspring) were all essential.
 
 ## Siberian and Other Ethnographic Evidence
 

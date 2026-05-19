@@ -4,7 +4,7 @@ source: what-a-plant-knows-daniel-chamovitz.md
 tags: [botany, photobiology, photoreceptors, cryptochrome, phototropin, plants]
 ---
 
-# Plant Photoreceptors Beyond Phytochrome
+## Plant Photoreceptors Beyond Phytochrome
 
 While phytochrome is the most famous plant photoreceptor, plants possess a sophisticated array of light-sensing proteins that allow them to perceive their environment with remarkable nuance. Beyond the red/far-red phytochrome system, plants use at least four [[electromagnetic-spectrum-plant-light-perception]] using several families of photoreceptor proteins. These include:
 

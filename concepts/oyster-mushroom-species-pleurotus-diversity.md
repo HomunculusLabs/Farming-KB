@@ -5,7 +5,7 @@ tags: [mycology, mushroom-cultivation, oyster-mushroom, pleurotus, species-diver
 created: 2026-05-11
 ---
 
-# Oyster Mushroom Species Diversity (Pleurotus)
+## Oyster Mushroom Species Diversity (Pleurotus)
 
 ## Overview
 

@@ -18,7 +18,7 @@ sources:
   - "Mazurek, B. & Pączkowski, C. (2021). 'Glucosinolates in Armoracia rusticana — chemistry, biosynthesis, and bioactivity.' Phytochemistry Reviews, 20, 415–434."
 ---
 
-# Horseradish Cultivation and Uses
+## Horseradish Cultivation and Uses
 
 ## Introduction
 

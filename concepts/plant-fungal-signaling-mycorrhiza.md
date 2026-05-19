@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Plant-Fungal Signaling in [[growing-gourmet-spore-germination-strain-isolation]] and hyphal branching at extremely low concentrations (10^-13 to 10^-10 M)
+## Plant-Fungal Signaling in [[growing-gourmet-spore-germination-strain-isolation]] and hyphal branching at extremely low concentrations (10^-13 to 10^-10 M)
 - Originally identified as germination stimulants for root parasitic plants (Striga, Orobanche)
 - Synthesized from carotenoid precursors; their production increases under [[beta-glucans]]) can trigger defense responses
 - The plant response to these elicitors is typically weak and transient compared to pathogen-derived elicitors

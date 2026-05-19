@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Phycomyces Sporangiophore as a Comparative Model for Mushroom Tropism Mechanisms
+## Phycomyces Sporangiophore as a Comparative Model for Mushroom Tropism Mechanisms
 
 The sporangiophore of Phycomyces blakesleeanus has served as the principal model
 organism for studying fungal tropisms since the classical work of Max Delbruck

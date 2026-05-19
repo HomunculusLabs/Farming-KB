@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, cultivation, infrastructure, mushroom-house, building]
 ---
 
-# Mushroom House Construction
+## Mushroom House Construction
 
 ## Description
 

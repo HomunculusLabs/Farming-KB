@@ -5,7 +5,7 @@ source_file: "uwe-blesching-the-cannabis-health-index.md"
 topics: [endocannabinoid, anandamide, 2-AG, virodhamine, noladin-ether, NADA, cannabinoid-ligand]
 ---
 
-# Five Endogenous Endocannabinoids
+## Five Endogenous Endocannabinoids
 
 ## Overview
 

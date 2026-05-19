@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Coccidioides immitis
+## Coccidioides immitis
 
 Coccidioides immitis is a dimorphic [[bloomfield-fungal-pathogens-and-parasites]] known to science, classified as a biohazard class 3 organism, and is endemic to arid and semi-arid regions of the southwestern [[blastomyces-dermatitidis]]. While H. capsulatum converts to a yeast form and B. dermatitidis also produces yeast cells, C. immitis produces the unique spherule-endospore cycle that is not found in any other human pathogen.
 

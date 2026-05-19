@@ -5,10 +5,10 @@ type: species
 tags: [indoor-mould, mycotoxin, ascomycete, building-damage, health-hazard]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 
-# Stachybotrys chartarum
+## Stachybotrys chartarum
 
 Stachybotrys chartarum is a cellulolytic ascomycete fungus commonly
 known as black mold or toxic black mold. It is one of the most

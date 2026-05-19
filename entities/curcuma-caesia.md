@@ -17,7 +17,7 @@ sources:
   - Sakurai, K. et al. (2021). "Anti-inflammatory activity of Curcuma caesia rhizome extract." Natural Product Communications, 16(7).
 ---
 
-# Curcuma caesia
+## Curcuma caesia
 
 ## Overview
 

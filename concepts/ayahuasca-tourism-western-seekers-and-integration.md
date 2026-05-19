@@ -8,7 +8,7 @@ type: concept
 tags: [ayahuasca]
 ---
 
-# Ayahuasca Tourism Western Seekers and Integration
+## Ayahuasca Tourism Western Seekers and Integration
 
 Western engagement with ayahuasca is part of a longer historical pattern of spiritual seeking outside Judeo-Christian traditions.
 

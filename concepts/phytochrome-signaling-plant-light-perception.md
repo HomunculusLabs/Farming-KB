@@ -1,4 +1,8 @@
-# Phytochrome Signaling and Plant Light Perception
+---
+title: "Phytochrome Signaling and Plant Light Perception"
+tags:
+  - concept
+---
 
 ## Overview
 Phytochrome is the primary photoreceptor mediating plant responses to red and

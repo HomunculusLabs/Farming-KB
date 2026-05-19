@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Fungal-Mediated Plant Competition
+## Fungal-Mediated Plant Competition
 
 ## Overview
 

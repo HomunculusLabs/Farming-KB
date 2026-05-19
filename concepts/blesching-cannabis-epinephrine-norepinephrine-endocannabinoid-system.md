@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Epinephrine, Norepinephrine, and the Endocannabinoid System
+## Epinephrine, Norepinephrine, and the Endocannabinoid System
 
 Epinephrine (adrenaline) and norepinephrine (noradrenaline) are
 catecholamine neurotransmitters and hormones central to the body's

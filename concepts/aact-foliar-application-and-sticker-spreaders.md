@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# AACT Foliar Application and Sticker-Spreaders
+## AACT Foliar Application and Sticker-Spreaders
 
 Applying [[actively-aerated-compost-tea]] (AACT) to plant foliage introduces [[forest-and-bamboo-beneficial-microorganisms]] directly to leaf and stem surfaces, where they can occupy ecological niches, compete with pathogens, stimulate plant immune responses, and improve nutrient cycling on the phyllosphere (leaf surface ecosystem). Proper application technique and the use of sticker-spreaders determine whether organisms survive and colonize after spraying.
 

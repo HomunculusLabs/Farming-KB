@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Cold Frame Gardening vs Greenhouse Growing
+## Cold Frame Gardening vs Greenhouse Growing
 
 ## Overview
 

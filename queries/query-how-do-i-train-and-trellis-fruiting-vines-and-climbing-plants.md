@@ -7,7 +7,7 @@ sources:
   - "raw/papers/mollison-permaculture-designers-manual.md"
 ---
 
-# How Do I Train and Trellis Fruiting Vines and Climbing Plants?
+## How Do I Train and Trellis Fruiting Vines and Climbing Plants?
 
 ## Short Answer
 

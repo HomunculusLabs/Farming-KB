@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 4,5-MDO-DIPT (N,N-Diisopropyl-4,5-Methylenedioxytryptamine)
+## 4,5-MDO-DIPT (N,N-Diisopropyl-4,5-Methylenedioxytryptamine)
 
 TIHKAL entry #28. 4,5-MDO-DIPT is a [[synthetic-tryptamine-methods]] featuring a methylenedioxy bridge at the 4,5-positions of the indole ring combined with N,N-diisopropyl substitution on the terminal nitrogen. It is one of only two known tryptamines with a methylenedioxy group at these particular ring positions, making it a compound of significant structural interest.
 

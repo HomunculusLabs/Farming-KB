@@ -5,7 +5,7 @@ type: concept
 tags: [cannabis, evidence-based medicine, CHI, scoring, methodology, hofmann-lsd-clinical-research-early-studies, Cochrane]
 ---
 
-# Evidence-Based Cannabis Medicine and the [[cannabis-for-rheumatoid-arthritis]] was widely prescribed off-label and caused
+## Evidence-Based Cannabis Medicine and the [[cannabis-for-rheumatoid-arthritis]] was widely prescribed off-label and caused
 an estimated 55,000 to 500,000 deaths from heart attacks and strokes before
 being withdrawn. The FDA does not approve drugs or devices, only their
 marketing, and once marketed, off-label prescribing is common and largely

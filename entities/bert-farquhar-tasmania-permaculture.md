@@ -5,7 +5,7 @@ type: person
 tags: [permaculture-practitioner, tasmania, pasture-management, coastal-land]
 ---
 
-# Bert Farquhar
+## Bert Farquhar
 
 ## Description
 

@@ -5,7 +5,7 @@ tags: [light, electromagnetic-spectrum, wavelength, photoreception, ultraviolet,
 created: 2026-05-10
 ---
 
-# Electromagnetic Spectrum and Visible Light Perception in Plants
+## Electromagnetic Spectrum and Visible Light Perception in Plants
 
 ## Overview
 

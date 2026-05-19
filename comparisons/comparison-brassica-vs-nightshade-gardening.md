@@ -5,14 +5,14 @@ tags: [comparison, brassicas, nightshades, vegetable-gardening, cool-season, war
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/concepts/brassica-growing-guide.md
-  - /Users/t3rpz/wiki/concepts/tomato-pepper-eggplant-growing-guide.md
-  - /Users/t3rpz/wiki/concepts/growing-brassicas-organically.md
-  - /Users/t3rpz/wiki/concepts/solomon-growing-brassicas-guide.md
+  - raw/concepts/brassica-growing-guide.md
+  - raw/concepts/tomato-pepper-eggplant-growing-guide.md
+  - raw/concepts/growing-brassicas-organically.md
+  - raw/concepts/solomon-growing-brassicas-guide.md
 type: comparison
 ---
 
-# Brassica vs Nightshade Gardening
+## Brassica vs Nightshade Gardening
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [preservation, food]
 sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
-# Fermented Vegetables Guide
+## Fermented Vegetables Guide
 
 Lacto-fermented vegetables are among the oldest and most universal preserved foods. Every culture with access to vegetables developed methods of preserving them through fermentation. From German sauerkraut to Korean kimchi, from Japanese tsukemono to Eastern European pickles, fermented vegetables are a cornerstone of traditional foodways. They are also among the easiest [[lactic-acid-bacteria-knf]] (LAB) that are naturally present on the surfaces of vegetables. These bacteria -- primarily Lactobacillus species -- convert sugars in the vegetables into [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]].
 - Stage 2 (2-7 days): Lactobacillus species dominate, rapidly producing lactic acid. The brine becomes cloudy and actively bubbly.

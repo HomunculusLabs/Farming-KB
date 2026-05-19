@@ -6,7 +6,7 @@ type: concept
 tags: [composting, soil]
 sources: []
 ---
-# Phase II Composting
+## Phase II Composting
 
 Phase II is the pasteurization and conditioning phase that converts raw compost into a selective medium suitable for [[query-how-to-store-mushroom-spores-long-term]] (e.g., Coprinus)
 

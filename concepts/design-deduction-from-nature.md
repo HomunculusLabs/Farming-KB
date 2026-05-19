@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Design by Deduction from Nature
+## Design by Deduction from Nature
 
 Design by [[masanobu-fukuoka]] on his remarkable voyage to [[acacia]] provides a site for birds to roost, initiating soil change so that clumps or coppices of forest form, the same techniques and allied species can be used to pioneer food forests. Many native peoples evolve scattered forest nuclei based on pioneer trees, termite mounds, and compost heaps. Perches can be provided for birds to drop pioneer seeds, setting up plant nuclei in degraded lands.
 

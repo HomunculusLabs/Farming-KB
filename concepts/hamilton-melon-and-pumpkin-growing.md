@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Melon and Pumpkin Growing Organic
+## Melon and Pumpkin Growing Organic
 
 Melons and pumpkins are members of the Cucurbitae family that require
 warm conditions and plenty of [[hamilton-squash-vegetables-organic]]

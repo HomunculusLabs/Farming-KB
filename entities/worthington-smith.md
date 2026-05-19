@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 ---
 
-# Worthington G. Smith
+## Worthington G. Smith
 
 ## Description
 

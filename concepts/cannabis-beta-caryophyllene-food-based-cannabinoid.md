@@ -4,7 +4,7 @@ source: "The blesching-cannabis-health-index-autoimmune-conditions (Uwe Bleschin
 topics: [cannabinoids, terpenes, endocannabinoid-system, CB2-receptors, spices, anti-inflammatory]
 ---
 
-# (E)-β-Caryophyllene — A Food-Based Cannabinoid
+## (E)-β-Caryophyllene — A Food-Based Cannabinoid
 
 ## Overview
 

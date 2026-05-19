@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Phytochrome Photoreception
+## Phytochrome Photoreception
 
 Phytochromes are a family of photoreceptor proteins [[cannabis-seed-germination-methods]] to flowering time, and enable plants to
 sense the quality, quantity, and duration of light in their environment.

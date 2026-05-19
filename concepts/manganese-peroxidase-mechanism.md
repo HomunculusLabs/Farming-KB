@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 ---
-# Manganese Peroxidase Mechanism in Fungal Bioremediation
+## Manganese Peroxidase Mechanism in Fungal Bioremediation
 
 Manganese peroxidase (MnP; EC 1.11.1.13) is a glycosylated heme-containing extracellular peroxidase secreted by [[enzymatic-degradation-in-mycoremediation]].
 

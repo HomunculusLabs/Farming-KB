@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Ayahuasca Healing in Urban Peru
+## Ayahuasca Healing in Urban Peru
 
 ## Overview
 

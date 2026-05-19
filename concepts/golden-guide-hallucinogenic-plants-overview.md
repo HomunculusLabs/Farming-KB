@@ -8,7 +8,7 @@ type: concept
 tags: [plants]
 ---
 
-# Hallucinogenic Plants Overview: Golden Guide
+## Hallucinogenic Plants Overview: Golden Guide
 
 "A Golden Guide to Hallucinogenic Plants" (1976) by Richard Evans Schultes is a compact but encyclopedic survey of psychoactive flora used by indigenous peoples worldwide. The guide, illustrated with botanical drawings, covers over 100 species across five continents and traces the history of hallucinogenic plant use from prehistoric times through the 20th century. It remains one of the most accessible introductions to ethnopharmacology.
 

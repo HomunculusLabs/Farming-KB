@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom fungal-bioremediation by providing inoculum for fungal remediation
+## Mushroom fungal-bioremediation by providing inoculum for fungal remediation
 systems. White-rot fungi used for [[singh-composted-fungal-biomass-heavy-metal-immobilization]] applications.
 
 ## Related Concepts

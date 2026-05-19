@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Minor Cannabinoids and Their Therapeutic Potential
+## Minor Cannabinoids and Their Therapeutic Potential
 
 Beyond THC and CBD, the cannabis plant contains over 70 identified cannabinoids, many of which show significant therapeutic potential. The [[cannabis-terpene-entourage-effect-profiles]] for analgesia through TRP channel modulation
 - **Neurogenesis**: May promote brain cell growth (neurogenesis) in combination with other cannabinoids

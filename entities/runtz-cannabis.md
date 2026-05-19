@@ -19,7 +19,7 @@ sources:
   - "Phytochemical profiling of high-THC cannabis cultivars." Journal of vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015, 2023.
 ---
 
-# Runtz (Cannabis Strain)
+## Runtz (Cannabis Strain)
 
 ## Overview
 

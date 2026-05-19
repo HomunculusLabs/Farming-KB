@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Site Observation Methods
+## Permaculture Site Observation Methods
 
 Site observation is one of the most powerful and underutilized design methodologies in [[maps]], data, and theoretical models, observation-based design starts directly on and around the site itself. Short practice at refining field observation as a design tool will convince any practitioner that no complex of map overlays, library research, computer data, or remote analysis will ever sup[[mollison-co-action-analysis-and-species-interaction-in-guild-design]]s**. A map shows where water flows in general terms, but only direct observation reveals how heavy rain actually moves across a particular slope, where it pools, how quickly it infiltrates, and what erosion patterns are developing. Processes and events, as encountered on a real site, are never fully revealed by fixed data.
 

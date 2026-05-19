@@ -5,7 +5,7 @@ authors: Gastón Guzmán, John W. Allen, Jochen Gartz
 year: 1998
 topics: amanita, ibotenic acid, muscimol, muscarine, neurotropic fungi, mycorrhizal, siberian shamanism
 ---
-# Neurotropic [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]] indole alkaloids) | *Psilocybe*, *Panaeolus*, *Gymnopilus* | Coprophilous, lignicolous |
+## Neurotropic [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]] indole alkaloids) | *Psilocybe*, *Panaeolus*, *Gymnopilus* | Coprophilous, lignicolous |
 | **2** | **Ibotenic acid / muscimol** | ***[[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]*A. muscaria* has become established in pine plantations across tropical and
 southern-hemisphere regions:
 

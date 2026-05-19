@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
-# Endophyte Isolation Techniques
+## Endophyte Isolation Techniques
 
 Endophytic fungi inhabit the internal tissues of living plants without causing apparent disease symptoms. Their isolation requires specialized methods to separate internal fungal colonists from surface contaminants and epiphytic organisms.
 

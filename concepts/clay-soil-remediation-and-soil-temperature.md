@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Clay Soil Remediation and Soil Temperature
+## Clay Soil Remediation and Soil Temperature
 
 Two of the most consequential factors in [[dryland-vegetable-gardening]] are the physical properties of your soil and its temperature. Clay soils present formidable challenges, but there are proven [[soil-pollution-and-remediation-strategies]] ranging from low-cost annual amendments to a one-time topsoil investment that pays dividends for decades. Separately, [[soil-temperature]] governs nearly every biological process in the garden — from seed germination to root growth to the nighttime metabolic engine that drives vegetative expansion.
 

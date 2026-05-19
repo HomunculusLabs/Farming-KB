@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Leaf Litter Microfungal Diversity
+## Leaf Litter Microfungal Diversity
 
 The microfungal communities associated with decomposing [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] than soil, and [[fungal-biodiversity-tropical-forests]] harbor particularly
 rich and understudied assemblages. Sampling studies from temperate

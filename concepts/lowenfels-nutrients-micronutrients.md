@@ -8,7 +8,7 @@ type: concept
 tags: [nutrients]
 ---
 
-# Micronutrients: Iron, Boron, Zinc, Manganese
+## Micronutrients: Iron, Boron, Zinc, Manganese
 
 ## Overview
 

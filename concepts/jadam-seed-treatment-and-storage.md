@@ -9,7 +9,7 @@ type: concept
 tags: [jadam, plant-growth]
 ---
 
-# JADAM Seed Treatment and Storage
+## JADAM Seed Treatment and Storage
 
 Seed treatment in conventional agriculture typically involves synthetic
 fungicides and chemical coatings to protect seeds from soil-borne

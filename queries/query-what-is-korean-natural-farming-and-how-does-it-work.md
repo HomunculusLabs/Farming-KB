@@ -8,7 +8,7 @@ sources: [papers/chos-global-natural-farming.md]
 type: query
 ---
 
-# What Is Korean Natural Farming and How Does It Work?
+## What Is Korean Natural Farming and How Does It Work?
 
 ## Short Answer
 Korean Natural Farming (KNF) is a sustainable agricultural system developed by Master Han Kyu Cho that uses locally sourced, naturally fermented inputs to feed soil microbiology rather than applying synthetic fertilizers directly to plants.

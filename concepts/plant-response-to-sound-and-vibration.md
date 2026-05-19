@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [plant-biology, sound-perception, vibration, mechanosensing]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md]
+sources: ["raw/papers/grahamholmes-what-a-plant-knowsindd.md"]
 type: concept
 ---
 
-# Plant Response to Sound and Vibration
+## Plant Response to Sound and Vibration
 
 Chapter 4 of *What a and [[arabidopsis-thaliana]]* plants exposed to the recording of a caterpillar
 feeding vibration produced elevated levels of defensive chemicals (glucosinolates

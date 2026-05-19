@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Metzner on Spirit Beings and Multiple Realities in Entheogenic Practice
+## Metzner on Spirit Beings and Multiple Realities in Entheogenic Practice
 
 ## Overview
 

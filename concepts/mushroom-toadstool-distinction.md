@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-# Mushroom and Toadstool Distinction
+## Mushroom and Toadstool Distinction
 
 ## Overview
 

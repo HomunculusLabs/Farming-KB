@@ -8,7 +8,7 @@ sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livi
 type: concept
 ---
 
-# Lacto-Fermentation for Food Preservation
+## Lacto-Fermentation for Food Preservation
 
 Lacto-fermentation has become more popular again in recent years because it
 saves the [[bionutrients-lab-lactic-acid-bacteria-serum]]. This acid acts as a

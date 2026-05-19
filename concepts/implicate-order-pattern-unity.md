@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Implicate Order and Pattern Unity
+## Implicate Order and Pattern Unity
 
 The concept of **implicate order**, drawn from physicist David Bohm's work *Wholeness and the Implicate Order* (1980), provides a philosophical foundation for understanding patterns in nature and [[permaculture-ethics-earth-care-people-care-fair-share]] design, where elements are understood not in isolation but as parts of interrelated systems.
 

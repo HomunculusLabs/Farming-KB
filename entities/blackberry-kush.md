@@ -18,7 +18,7 @@ sources:
   - "Mudge, E. et al. (2022). \"[[cannabis-terpene-profiles-sativa]] of Commercial [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]].\" Cannabis and Cannabinoid Research, 7(2), 134-145."
   - "Smart, R. et al. (2022). \"[[query-how-does-no-till-cannabis-cultivation-work]] Practices and Potency.\" Drug and [[cannabis-for-alcohol-dependence]], 237, 109588."---
 
-# Blackberry Kush
+## Blackberry Kush
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
-# Polyporus umbellatus
+## Polyporus umbellatus
 
 ## Introduction
 

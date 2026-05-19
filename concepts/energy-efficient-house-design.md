@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Energy-Efficient House Design
+## Energy-Efficient House Design
 
 The greatest cost in house maintenance in temperate cold areas is that of space and water heating; together, these may make up 80% of all domestic energy costs. In permaculture, both [[holzer-climate-zone-microclimate-creation]].
 

@@ -8,7 +8,7 @@ sources: [raw/papers/forest-gardening-robert-hart.md]
 type: query
 ---
 
-# What Are Ectomycorrhizal Fungi and Which Plants Do They Associate With
+## What Are Ectomycorrhizal Fungi and Which Plants Do They Associate With
 
 ## Short Answer
 Ectomycorrhizal fungi form symbiotic associations with the roots of approximately 2 percent of plant species,

@@ -13,7 +13,7 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-# Permaculture Introduction and Ethics
+## Permaculture Introduction and Ethics
 
 ## Definition of Permaculture
 

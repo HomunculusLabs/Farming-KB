@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: query
 ---
-# What Causes Fox-Tailing on Cannabis Buds
+## What Causes Fox-Tailing on Cannabis Buds
 
 ## Short Answer
 

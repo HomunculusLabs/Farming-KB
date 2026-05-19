@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Marketing and Economics for Small-Scale Vegetable Farms
+## Marketing and Economics for Small-Scale Vegetable Farms
 
 The economic viability of a small-scale vegetable farm depends not only on production skills but equally on marketing strategy and pricing philosophy. [[eliot-coleman]]'s approach to marketing winter-harvest vegetables provides a model for small growers seeking to compete with industrial-scale organic operations by emphasizing quality, freshness, and local identity rather than price alone.
 

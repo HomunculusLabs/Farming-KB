@@ -4,7 +4,7 @@ source_type: paper
 topics: [greenhouse-design, gothic-arch, four-season-farm, high-tunnel, winter-harvest, protected-cultivation]
 ---
 
-# Gothic Arc [[coleman-four-season-farm]] Farm relies on
+## Gothic Arc [[coleman-four-season-farm]] Farm relies on
 standard plastic-covered gothic-style hoop houses as the primary
 protected growing structure. The largest houses measure 30 feet wide
 by 96 feet long, aligned on an east-west axis with UV-resistant plastic

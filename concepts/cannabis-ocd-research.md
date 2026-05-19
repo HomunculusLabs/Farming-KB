@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and OCD Research
+## Cannabis and OCD Research
 
 **Source:** The [[mushroom-cancer-clinical-trials-overview]] are ongoing for cannabinoid-based OCD treatments
 

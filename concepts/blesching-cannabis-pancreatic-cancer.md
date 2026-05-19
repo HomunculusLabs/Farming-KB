@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Pancreatic Cancer
+## Cannabis and Pancreatic Cancer
 
 ## Overview
 

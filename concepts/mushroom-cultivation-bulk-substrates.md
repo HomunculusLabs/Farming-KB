@@ -7,7 +7,7 @@ tags: [mushroom-cultivation, bulk-substrate, substrate, fungi, mycology, cultiva
 sources: [raw/papers/the-mushroom-cultivator-stamets.md, raw/papers/mycelium-running-stamets.md]
 ---
 
-# Mushroom Cultivation - Bulk Substrates
+## Mushroom Cultivation - Bulk Substrates
 
 Bulk substrates are the nutrient-rich materials on which mushroom mycelium grows and eventually fruits. After grain spawn is prepared, it inoculates bulk substrates providing the larger volume and nutrient base needed for substantial mushroom production.
 

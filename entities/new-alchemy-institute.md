@@ -5,7 +5,7 @@ type: entity
 tags: [organisation, permaculture, aquaculture, research, solar-energy]
 ---
 
-# New Alchemy Institute (NAI)
+## New Alchemy Institute (NAI)
 
 ## Description
 

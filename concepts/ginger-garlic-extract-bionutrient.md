@@ -8,7 +8,7 @@ sources:
   - "raw/papers/chos-global-natural-farming.md"
 ---
 
-# Ginger-Garlic Extract Bionutrient
+## Ginger-Garlic Extract Bionutrient
 
 Ginger-garlic extract is a broad-spectrum natural antibiotic and biopesticide used in [[permaculture-plants-medicinal-herbs-healing]]: Angelica acutiloba (Korean angelica or dang-gui), Glycyrrhiza uralensis (Chinese licorice), and Cinnamomum loureirii (Vietnamese cinnamon). These three herbs share a common therapeutic property — they are all excellent for digestion and gastrointestinal health. The Korean farmers who developed this preparation understood that digestive health is the foundation of overall vitality, whether in plants or animals.
 

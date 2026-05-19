@@ -20,7 +20,7 @@ sources:
 - raw/papers/teaming-with-microbes-lowenfels.md
 ---
 
-# Soil Health Indicators
+## Soil Health Indicators
 
 Healthy soil can be assessed through biological, physical, and chemical indicators. While lab tests measure chemistry, the most important indicators of soil health are biological — visible signs of a thriving [[soil-food-web-nutrient-cycling]].
 

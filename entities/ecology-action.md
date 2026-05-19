@@ -5,7 +5,7 @@ type: entity
 tags: [organization, non-profit, sustainable-agriculture, biointensive, research, education, willits-california]
 ---
 
-# Ecology Action
+## Ecology Action
 
 ## Description
 

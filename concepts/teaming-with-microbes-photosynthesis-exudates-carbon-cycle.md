@@ -8,7 +8,7 @@ sources:
   - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
-# Teaming with Microbes: Photosynthesis, Exudates, and the Carbon Cycle
+## Teaming with Microbes: Photosynthesis, Exudates, and the Carbon Cycle
 
 **Source:** Jeff Lowenfels and Wayne Lewis, *Teaming with Microbes*
 

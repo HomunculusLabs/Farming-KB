@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Classification of Cultivated Mushroom Species
+## Classification of Cultivated Mushroom Species
 
 ## Overview
 

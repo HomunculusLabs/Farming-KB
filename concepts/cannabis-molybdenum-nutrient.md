@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, nutrients]
 ---
 
-# Cannabis Molybdenum (Mo)
+## Cannabis Molybdenum (Mo)
 
 ## Overview
 

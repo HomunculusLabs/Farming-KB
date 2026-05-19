@@ -6,7 +6,7 @@ type: concept
 tags: mycology, mushrooms]
 sources: [papers/unknown-mushroom-culture-patent-2761246.md]
 ---
-# Mazatec Mushroom Culture and the Velada The [[ceremonial-shamanic-use-psychoactive-mushrooms]] are not regarded merely as drugs or
+## Mazatec Mushroom Culture and the Velada The [[ceremonial-shamanic-use-psychoactive-mushrooms]] are not regarded merely as drugs or
 medicines but as sentient beings. They are known as "nti xi tho" or "the little
 ones that spring forth," and are believed to possess their own intelligence and
 agency.

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Ibogaine, Bwiti, and the Fang in Food of the Gods
+## Ibogaine, Bwiti, and the Fang in Food of the Gods
 
 In *Food of the Gods*, [[plants-of-the-gods-tabernanthe-iboga-chemistry]]* provides not only visionary
 ecstasy but also what its users call "open heartedness," a quality McKenna

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Commonwork and Permaculture Investment
+## Commonwork and Permaculture Investment
 
 [[commonwork]] is a [[permaculture]] strategy for engaging wealthy investors and large corporations in large-scale regenerative land management. Rather than opposing capital, commonwork redirects it toward biological resource production by offering investors returns from specific yield streams while all other productive functions — food, housing, materials, [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] — remain with the people living on and managing the land.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Slope, Aspect, Elevation, and Orientation in Permaculture Design
+## Slope, Aspect, Elevation, and Orientation in Permaculture Design
 
 No site is perfectly flat, and the irregularities of real landscapes distort the idealized zone and sector overlays. [[water-conservation]] at these mid-slopes identifies **keypoints** where high runoff can be led to midslope storage dams. Using high slopes as watershed and a series of diversion catchment drains and dams:
 

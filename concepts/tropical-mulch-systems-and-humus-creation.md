@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Mulch Systems and Humus Creation
+## Tropical Mulch Systems and Humus Creation
 
 Mulch provision is the cornerstone of tropical home gardens, and green mulch plus tree legumes are the essential accompaniment of main crops and tree crops in humid, wet-dry, and monsoon tropical environments. In the tropics, where soils are deeply leached and nutrients are held primarily in living biomass, mulch serves as the critical bridge between plant production and soil fertility. Every type of organic mulch increases yields, and all available materials should be used for soil restitution.
 

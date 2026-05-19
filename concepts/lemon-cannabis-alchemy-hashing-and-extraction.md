@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Lemon Cannabis Alchemy - Hashing and Extraction
+## Lemon Cannabis Alchemy - Hashing and Extraction
 
 Ben Lemon's "Cannabis Alchemy" provides detailed methods for extracting, purifying, and refining cannabis oils, along with techniques for producing hashish from [[cannabis-solvent-extraction]] through increasingly refined processes including isomerization, acetylation, and charcoal filtration to produce oils of extraordinary potency.
 

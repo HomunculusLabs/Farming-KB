@@ -5,7 +5,7 @@ tags: [psychedelics, shamanism, psychotherapy, entheogens, integration]
 created: 2026-05-08
 ---
 
-# Hybrid Shamanic Therapy
+## Hybrid Shamanic Therapy
 
 ## Overview
 

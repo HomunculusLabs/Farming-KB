@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Fruiting Morphogenetic Stage Progression
+## Maitake Fruiting Morphogenetic Stage Progression
 
 Grifola frondosa (maitake / hen of the woods) undergoes a distinctive series of morphogenetic stages during fruiting body development. Understanding this progression is essential for cultivators seeking to manage environmental conditions and anticipate developmental milestones. The stages described below were documented by Chen, Stamets, Cooper, Huang, and Han (1998a, 1998b, 1998c) and are adapted from a practical guide to synthetic log cultivation of G. frondosa.
 

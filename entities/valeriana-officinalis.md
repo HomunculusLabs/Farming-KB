@@ -25,7 +25,7 @@ sources:
   - Holzinger, F. et al. (2002). "Valerian." In: Handbook of Medicinal
     Herbs, 2nd ed. CRC Press.
 ---
-# Valeriana officinalis
+## Valeriana officinalis
 
 Valeriana officinalis, commonly known as valerian, is a perennial flowering
 plant in the family Caprifoliaceae (traditionally Valerianaceae). Native to

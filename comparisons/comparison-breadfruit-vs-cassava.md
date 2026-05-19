@@ -14,7 +14,7 @@ sources:
 type: comparison
 ---
 
-# Breadfruit (*Artocarpus altilis*) vs Cassava (*[[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
+## Breadfruit (*Artocarpus altilis*) vs Cassava (*[[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
 
 ## Origin and History
 

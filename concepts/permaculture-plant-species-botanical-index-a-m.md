@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Plant Species Botanical Index (A–M)
+## Permaculture Plant Species Botanical Index (A–M)
 
 ## Why Botanical Nomenclature Matters in Permaculture
 

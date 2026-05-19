@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cool Climate Home Garden and Seed Saving
+## Cool Climate Home Garden and Seed Saving
 
 The home garden in cool temperate climates faces unique challenges centered on the winter food gap — the period when growth effectively ceases from late autumn to early spring. Designing a productive cool-climate garden requires careful planning of planting periods, storage systems, and techniques for extending the growing season.
 

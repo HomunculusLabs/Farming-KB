@@ -4,7 +4,7 @@ source: mushrooms---poisionous-fungi-by-john-ramsbottom-1945.md
 type: concept
 ---
 
-# Amanita Phalloides — Death Cap
+## Amanita Phalloides — Death Cap
 
 ## Overview
 

@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# Astragalus vs Lemon Balm
+## Astragalus vs Lemon Balm
 
 ## Overview
 

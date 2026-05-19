@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# The Road Back to Farming - Obstacles and Philosophy
+## The Road Back to Farming - Obstacles and Philosophy
 
 In the final sections of "The Natural Way of Farming," Fukuoka addresses the
 growing movement of people seeking to return to the land and the obstacles

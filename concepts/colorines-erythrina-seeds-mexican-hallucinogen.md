@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Colorines (Erythrina spp.)
+## Colorines (Erythrina spp.)
 
 Colorines is the name given to several species of Erythrina that may be used
 as hallucinogens in some parts of Mexico. The bright red beans of these

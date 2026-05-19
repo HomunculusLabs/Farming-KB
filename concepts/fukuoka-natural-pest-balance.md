@@ -8,7 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Natural Pest Balance
+## Fukuoka Natural Pest Balance
 
 Masanobu Fukuoka's approach to pest and [[fukuoka-critique-modern-agriculture]] creates the very conditions that make pest outbreaks inevitable, then responds with chemicals that further degrade the system.
 

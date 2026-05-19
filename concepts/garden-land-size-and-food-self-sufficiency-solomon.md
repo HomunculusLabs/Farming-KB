@@ -1,4 +1,8 @@
-# Garden Land Size and Food Self-Sufficiency (Solomon)
+---
+title: "Garden Land Size and Food Self-Sufficiency (Solomon)"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,6 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 ## Challenges and Solutions
 
 Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.

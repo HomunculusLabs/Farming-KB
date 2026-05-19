@@ -24,7 +24,7 @@ sources:
   - Moore, J.C. & de Ruiter, P.C. (2012). Energetic Food Webs. Oxford University Press.
 ---
 
-# Soil Mesofauna and Microarthropod Ecology
+## Soil Mesofauna and Microarthropod Ecology
 
 ## Introduction
 

@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Grass Seed Mushroom Cultivation
+## Grass Seed Mushroom Cultivation
 
 Grass seed substrate is a versatile and efficient medium for the cultivation of [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]*, both of which produce sclerotia (truffle-like underground masses) as well as fruiting bodies. The technique was popularized by the late GUID, a pioneering figure in the online [[spore-syringe]], [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] are highly flammable and must not be used near open flames used for needle/scalpel sterilization.
 

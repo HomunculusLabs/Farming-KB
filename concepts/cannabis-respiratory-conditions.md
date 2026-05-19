@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis Respiratory Conditions
+## Cannabis Respiratory Conditions
 
 The relationship between cannabis and respiratory health is complex. While smoking any plant material carries risks for the lungs, the [[psk-breast-lung-cancer-clinical-trials]], noting that cannabis-only smoking has been found to be mildly lung-protective and was not associated with an increased risk of [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] notes that the smoking of plant material and its effect on the lungs is an area where concerns are raised. To minimize potential risk, the CHI recommends:
 

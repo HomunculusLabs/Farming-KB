@@ -5,7 +5,7 @@ type: entity
 tags: [tribe, indigenous, amazon, peru, ayahuasca, shamanism, priesthood]
 ---
 
-# Campa (Tribe)
+## Campa (Tribe)
 
 ## Description
 

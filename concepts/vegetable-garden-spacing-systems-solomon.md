@@ -15,7 +15,7 @@ source: Gardening When It Counts - [[steve-solomon]] (2005)
 created: 2026-05-11
 ---
 
-# Vegetable Garden Spacing Systems
+## Vegetable Garden Spacing Systems
 
 Steve Solomon identifies four fundamental spacing systems for vegetable
 gardening, each representing a different philosophy about the relationship

@@ -6,7 +6,7 @@ type: concept
 sources: arthur-j-mushrooms-and-mankind.md
 tags: [psychedelics]
 ---
-# Psychedelic Shamanism as Death Practice
+## Psychedelic Shamanism as Death Practice
 
 [[james-arthur]]'s "[[soma-multi-plant-admixture-theory]] — Multi-plant Soma preparations
 - [[mckenna-psychedelic-shamanism]] — McKenna's perspective on psychedelic shamanism

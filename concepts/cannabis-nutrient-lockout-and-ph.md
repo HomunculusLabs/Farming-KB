@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: []
 ---
 
-# Cannabis Nutrient Lockout and pH Problems
+## Cannabis Nutrient Lockout and pH Problems
 
 Nutrient lockout is one of the most frustrating problems in [[cannabis-ph-management-and-soil-flushing]]
 

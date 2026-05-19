@@ -17,7 +17,7 @@ sources:
   - S.T. Oner, The Rev's cannabis-african-indian-strain-descriptions-clarke
 ---
 
-# Kali Mist
+## Kali Mist
 
 **Kali Mist** is a nearly pure sativa [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] landrace lines.
 

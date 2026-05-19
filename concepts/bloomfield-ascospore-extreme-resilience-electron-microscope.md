@@ -14,7 +14,7 @@ tags:
 - ascomycetes
 ---
 
-# Ascospore Extreme Resilience: Survival in Electron Microscopes
+## Ascospore Extreme Resilience: Survival in Electron Microscopes
 
 ## Overview
 

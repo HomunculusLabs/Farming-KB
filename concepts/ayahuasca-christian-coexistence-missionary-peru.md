@@ -4,7 +4,7 @@ source: stuart-r-ayahuasca-tourism.md
 topics: [ayahuasca, christianity, peru, syncretism, indigenous, culture]
 ---
 
-# Christian Coexistence with Ayahuasca Practice in Peru
+## Christian Coexistence with Ayahuasca Practice in Peru
 
 ## Overview
 

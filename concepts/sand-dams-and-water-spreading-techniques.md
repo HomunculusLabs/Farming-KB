@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Sand Dams and Water Spreading Techniques
+## Sand Dams and Water Spreading Techniques
 
 ## Overview
 

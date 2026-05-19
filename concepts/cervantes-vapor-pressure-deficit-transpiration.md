@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Vapor Pressure Deficit and Transpiration in Cannabis
+## Vapor Pressure Deficit and Transpiration in Cannabis
 
 Vapor pressure deficit (VPD) is the difference between the amount of
 moisture in the air and the amount the air could hold when fully

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Precipitation and Opportunistic Response
+## Desert Precipitation and Opportunistic Response
 
 ## Overview
 

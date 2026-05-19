@@ -9,7 +9,7 @@ sources:
   - "Domain knowledge — botanical and pharmacological literature"
 ---
 
-# Cinnamomum verum
+## Cinnamomum verum
 
 Cinnamomum verum, commonly known as true cinnamon or Ceylon cinnamon, is
 an evergreen tree in the family Lauraceae, native to Sri Lanka and

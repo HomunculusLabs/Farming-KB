@@ -5,7 +5,7 @@ author: "masanobu-fukuoka"
 tags: [fukuoka, natural-farming, philosophy, mahayana, hinayana, scientific-farming, permaculture]
 ---
 
-# Fukuoka's Three Paths of Farming: Mahayana, Hinayana, and Scientific
+## Fukuoka's Three Paths of Farming: Mahayana, Hinayana, and Scientific
 
 Masanobu Fukuoka organized all agriculture into three philosophical categories
 that correspond to fundamentally different relationships between humans and

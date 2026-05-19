@@ -7,7 +7,7 @@ tags: [pest-management, companion-planting, agriculture, gardening, vegetables, 
 sources: []
 ---
 
-# Trap Cropping
+## Trap Cropping
 
 Trap cropping is the practice of growing a sacrificial "trap" crop that attracts pests away from the main cash crop. The pests concentrate on the trap crop, which is then monitored, managed, or destroyed along with the pests. It is a key strategy in [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (IPM) and pairs well with [[companion-planting-reference]] and [[insectary-plantings]].
 

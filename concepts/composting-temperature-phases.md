@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Composting Temperature Phases
+## Composting Temperature Phases
 
 Composting proceeds through three distinct temperature phases, each driven by different groups of microorganisms. Understanding these phases is essential for producing high-quality compost efficiently and for ensuring that pathogens and weed seeds are destroyed during the process. The heat that drives these phases comes not from the sun but from the [[arbuscule-isolation-metabolic-activity-assays]] of the soil microorganisms themselves, primarily bacteria.
 

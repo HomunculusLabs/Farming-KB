@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
-# Queen Inamullo
+## Queen Inamullo
 
 ## Description
 Queen Inamullo (necklace of thorns), also known as Huacra-chukcha (hair of thorns), is a powerful tutelary spirit in Amazonian vegetalismo who serves as the master teacher of the arts of the yachay (knowledge), the virote (magical dart), the marupa (magical animal weapon), and the huampi (magical bone dart). She is the source of the [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[mariri]].

@@ -8,7 +8,7 @@ sources:
  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Critique of the Green Revolution
+## Fukuoka's Critique of the Green Revolution
 
 In [[cervantes-chemical-fertilizers-guide]], pesticides, and irrigation. His critique goes beyond the usual environmental objections to challenge the entire epistemological basis of the Green Revolution.
 

@@ -6,7 +6,7 @@ tags: [andean, subtropical, fruit-trees, permaculture, carica, solanaceae]
 created: 2026-05-11
 ---
 
-# Andean and Subtropical Fruit Trees for Permaculture
+## Andean and Subtropical Fruit Trees for Permaculture
 
 ## Overview
 

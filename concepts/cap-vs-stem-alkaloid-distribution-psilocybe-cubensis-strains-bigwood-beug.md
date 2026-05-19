@@ -5,7 +5,7 @@ tags: [psilocybe-cubensis, cap, stem, psilocybin, psilocin, alkaloid, distributi
 created: 2026-05-08
 ---
 
-# Cap vs Stem Alkaloid Distribution in Psilocybe Cubensis Strains (Bigwood & Beug)
+## Cap vs Stem Alkaloid Distribution in Psilocybe Cubensis Strains (Bigwood & Beug)
 
 ## Overview
 

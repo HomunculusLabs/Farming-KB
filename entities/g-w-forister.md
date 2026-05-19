@@ -5,7 +5,7 @@ type: entity
 tags: [person, researcher, tissue-culture, laminar-flow-hood]
 ---
 
-# G. W. Forister
+## G. W. Forister
 
 ## Description
 

@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, sp
 sources: []
 ---
 
-# Turkey Tail (Trametes versicolor)
+## Turkey Tail (Trametes versicolor)
 
 ## Overview
 

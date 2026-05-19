@@ -1,4 +1,8 @@
-# Glutamate, Excitotoxicity, and Cannabinoid Neuroprotection
+---
+title: "Glutamate, Excitotoxicity, and Cannabinoid Neuroprotection"
+tags:
+  - concept
+---
 
 **Source:** The [[cannabis-sleep-disorders-and-insomnia]]
 - Autism spectrum disorders

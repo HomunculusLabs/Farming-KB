@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal-Faunal Interactions in Decomposition
+## Fungal-Faunal Interactions in Decomposition
 
 The decomposition of organic matter is a collaborative process involving fungi, bacteria, and soil fauna whose interactions generate complex feedback loops that determine decomposition rates, [[nutrient-mineralization]], and soil fertility. Soil animals — particularly fungivorous microarthropods, nematodes, and earthworms — influence decomposition both directly through consumption of fungal biomass and indirectly through physical modification of substrates and alteration of fungal community composition.
 

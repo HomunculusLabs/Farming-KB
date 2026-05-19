@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# The Specter of Food Scarcity
+## The Specter of Food Scarcity
 
 In *The Road Back to Nature*, [[fukuoka-deficit-farming]], [[fukuoka-machine-culture-doomed]], [[food-dehydration-guide]], [[fukuoka-road-critique-of-modern-science]] agriculture's dependency on external inputs, which is the root cause of the food insecurity he warns about.
 

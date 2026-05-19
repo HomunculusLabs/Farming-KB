@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: concept
 ---
 
-# Coastal Edible Plants for Permaculture Food Systems
+## Coastal Edible Plants for Permaculture Food Systems
 
 Coastal environments, despite their challenges of salt spray, sandy soils, and strong winds, host a remarkable diversity of edible plants. From salt-tolerant vegetables and fruits to honey-producing trees and grain crops, coastal permaculture systems can produce substantial food yields when the right species are selected. Many of these plants have been used by Indigenous peoples and early settlers for centuries and offer exciting possibilities for modern coastal food production.
 

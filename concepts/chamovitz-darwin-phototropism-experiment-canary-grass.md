@@ -4,7 +4,7 @@ source: grahamholmes-what-a-plant-knowsindd.md (darwin-power-of-movement-in-plan
 created: 2026-05-08
 ---
 
-# Darwin's Phototropism Experiment with Canary Grass
+## Darwin's Phototropism Experiment with Canary Grass
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [people, science, thermodynamics, science-fiction]
 ---
 
-# Isaac Asimov
+## Isaac Asimov
 
 ## Description
 

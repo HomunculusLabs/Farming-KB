@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [water-quality, water-softener, pesticide-efficacy, hard-water, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+sources: ["raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"]
 type: concept
 ---
 
-# Water Softening for Pesticide Efficacy
+## Water Softening for Pesticide Efficacy
 
 Water quality is a critical but often overlooked factor in pesticide
 effectiveness. Hard water, containing high levels of calcium, magnesium,

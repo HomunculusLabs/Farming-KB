@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Hydrogen Peroxide in Cannabis Cultivation
+## Hydrogen Peroxide in Cannabis Cultivation
 
 Hydrogen peroxide (H2O2) is a versatile tool in cannabis cultivation
 that provides sterilization, [[query-can-fungi-break-down-plastic-pollution]] into a reactive atom

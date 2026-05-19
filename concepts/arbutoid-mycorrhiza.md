@@ -4,9 +4,9 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
+sources: ["raw/papers/john-dighton-fungi-in-ecosystem-processes.md"]
 ---
-# Arbutoid Mycorrhiza
+## Arbutoid Mycorrhiza
 
 Arbutoid mycorrhiza is a distinctive type of [[common-mycorrhizal-networks]] linking ericaceous plants with forest trees, with ecological implications for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 - This intercellular phase is the primary site of nutrient exchange

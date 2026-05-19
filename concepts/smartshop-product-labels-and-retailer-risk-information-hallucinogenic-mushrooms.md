@@ -1,4 +1,8 @@
-# Smartshop Product Labels and Retailer Risk Information for Hallucinogenic Mushrooms
+---
+title: "Smartshop Product Labels and Retailer Risk Information for Hallucinogenic Mushrooms"
+tags:
+  - concept
+---
 
 ## Overview
 The quality and amount of risk information provided by retailers selling hallucinogenic mushrooms
@@ -143,8 +147,3 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[emcdda-european-magic-mushroom-smartshop-market]]
-- [[emcdda-smartshop-and-retail-economics-europe]]
-- [[european-legal-responses-smartshop-regulation-hallucinogenic-mushrooms-emcdda]]
-- [[european-smartshop-economics-mushroom-supply-chain-emcdda-2006]]

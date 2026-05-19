@@ -5,7 +5,7 @@ type: entity
 tags: [mineral, fertilizer, potash, evaporite, soil-amendment]
 ---
 
-# Kainite
+## Kainite
 
 ## Description
 

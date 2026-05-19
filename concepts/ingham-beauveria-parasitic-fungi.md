@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Beauveria and Parasitic Fungi - Biological Pest Control
+## Beauveria and Parasitic Fungi - Biological Pest Control
 
 Extracted from Elaine Ingham's AACT Field Guide, covering insect-attacking
 fungi including Beauveria and related

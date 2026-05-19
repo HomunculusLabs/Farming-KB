@@ -6,7 +6,7 @@ updated: 2026-05-19
 sources: []
 ---
 
-# How Do I Build and Use a Composting Toilet System?
+## How Do I Build and Use a Composting Toilet System?
 
 ## Short Answer
 

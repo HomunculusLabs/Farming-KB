@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [network-science, biology, graph-theory, systems-biology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
 
-# Biological Network Theory
+## Biological Network Theory
 
 Biological network theory applies graph-theoretic and complex systems
 analysis to biological structures — from molecular interaction networks to

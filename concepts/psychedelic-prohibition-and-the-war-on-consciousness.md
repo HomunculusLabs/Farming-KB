@@ -8,7 +8,7 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
-# Psychedelic Prohibition and the War on Consciousness
+## Psychedelic Prohibition and the War on Consciousness
 
 The prohibition of psychedelic substances represents one of the most consequential and controversial policy decisions of the [[leary-harvard-psilocybin-project]] and similar research programs had been overshadowed by the explosive popularization of LSD and other psychedelic substances within the [[psychedelic-research-timeline]] effectively went dark for nearly three decades, from the late 1960s until the early 2000s.
 

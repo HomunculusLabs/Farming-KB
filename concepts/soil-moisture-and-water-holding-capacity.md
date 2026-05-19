@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Soil Moisture and Water-Holding Capacity
+## Soil Moisture and Water-Holding Capacity
 
 Understanding how much water your soil can hold and make available to plants is the foundation of intelligent irrigation and drought management. Soil type, depth, and structure together determine your garden's water reserves. A gardener who knows these parameters can make informed decisions about plant spacing, irrigation frequency, and drought resilience.
 

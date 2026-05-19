@@ -19,7 +19,7 @@ sources:
   - Ayurvedic Pharmacopoeia of India
 ---
 
-# Withania somnifera (Ashwagandha)
+## Withania somnifera (Ashwagandha)
 
 ## Overview
 

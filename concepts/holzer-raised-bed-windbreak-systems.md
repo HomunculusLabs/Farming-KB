@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Raised Bed Windbreak Systems
+## Raised Bed Windbreak Systems
 
 [[cervantes-wind-protection-outdoor-cannabis]] that
 integrates windbreak functions directly into raised bed systems. Rather than

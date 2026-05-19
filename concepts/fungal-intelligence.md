@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, neuroscience, behavior, biological-computation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
-# Fungal Intelligence Fungal intelligence refers to the capacity of fungi — particularly their mycelial networks — to process information, make decisions, learn, and solve problems in ways that resemble cognitive behavior, despite lacking a nervous system, brain, or any conventional center of computation. This concept challenges traditional definitions of intelligence and cognition, raising fundamental questions about what it means to process information and adapt behavior in biological systems. The field sits at the intersection of mycology, neurobiology, computer science, and philosophy of mind. ## Problem-Solving and Optimization The most compelling evidence for fungal intelligence comes from studies of foraging behavior. When mycelial networks encounter spatially distributed resources, they do not grow randomly. Instead, they demonstrate an ability to [[fungal-mycelial-networks-nutrient-translocation]] have inspired new approaches to computing, including
+## Fungal Intelligence Fungal intelligence refers to the capacity of fungi — particularly their mycelial networks — to process information, make decisions, learn, and solve problems in ways that resemble cognitive behavior, despite lacking a nervous system, brain, or any conventional center of computation. This concept challenges traditional definitions of intelligence and cognition, raising fundamental questions about what it means to process information and adapt behavior in biological systems. The field sits at the intersection of mycology, neurobiology, computer science, and philosophy of mind. ## Problem-Solving and Optimization The most compelling evidence for fungal intelligence comes from studies of foraging behavior. When mycelial networks encounter spatially distributed resources, they do not grow randomly. Instead, they demonstrate an ability to [[fungal-mycelial-networks-nutrient-translocation]] have inspired new approaches to computing, including
 unconventional computing paradigms that use living fungal networks as
 biological processors. Researchers have demonstrated fungal computers capable
 of solving logical operations, maze problems, and even simple graph-theoretic

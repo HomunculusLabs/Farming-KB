@@ -5,7 +5,7 @@ tags: [microbiome, cannabis, endorhiza, endophytes, cultivar, plant-biology]
 created: 2026-05-09
 ---
 
-# Endorhiza Microbiome and Cannabis Cultivar Specificity
+## Endorhiza Microbiome and Cannabis Cultivar Specificity
 
 ## Overview
 

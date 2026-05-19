@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Mazatec Mushroom Ceremony — Ethnographic Account of Roman Estrada
+## Mazatec Mushroom Ceremony — Ethnographic Account of Roman Estrada
 
 ## Overview
 

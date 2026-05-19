@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Matsutake Natural Culture Medium Recipe
+## Matsutake Natural Culture Medium Recipe
 
 Appendix C of *Sowing Seeds in the Desert* presents [[biodiversity-of-fungi-microfungi-isolation-techniques]].
 

@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka: Transcending Time, Space, and the Illusion of Planning
+## Fukuoka: Transcending Time, Space, and the Illusion of Planning
 
 Masanobu Fukuoka's [[hemenway-insectary-plants-and-beneficial-insects]] with a pleasant environment in which to live.
 

@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Five Historical Periods of Neurotropic Fungi Study
+## Five Historical Periods of Neurotropic Fungi Study
 
 The [[ceremonial-shamanic-use-psychoactive-mushrooms]] from ancient
 shamanic practices through modern scientific inquiry.

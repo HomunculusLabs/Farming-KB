@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Criticism and Rebuttal of Allegro's Theory
+## Criticism and Rebuttal of Allegro's Theory
 
 John Allegro's *The [[dead-sea-scrolls-entheogenic-reading]] editorial team. Despite the hostility, Allegro's work
 continues to attract interest in entheogen-culture|entheogenic scholarship,

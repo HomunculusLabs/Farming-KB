@@ -4,7 +4,7 @@ source: The uwe-blesching, PhD)
 topics: [cannabis-therapy, emotional-processing, mind-body-medicine, psychotherapy, endocannabinoid-system, consciousness]
 ---
 
-# Cannabis-Assisted Emotional Processing
+## Cannabis-Assisted Emotional Processing
 
 Blesching's framework for cannabis-assisted emotional healing distinguishes
 between two fundamental categories of emotional experience: expansive emotions

@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Mathematical Modelling of Fungal Mycelial Growth and Function
+## Mathematical Modelling of Fungal Mycelial Growth and Function
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - stuart-r-ayahuasca-tourism.md
 ---
 
-# Ayahuasqueros
+## Ayahuasqueros
 
 An ayahuasquero (also ayahuasquera for female practitioners) is a
 shaman or healer who specializes in preparing and administering

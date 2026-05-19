@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Design a Permaculture Property from Scratch
+## How to Design a Permaculture Property from Scratch
 
 ## Short Answer
 Designing a permaculture property begins with extended observation of the land's patterns over at least one full year, followed by mapping sectors for sun, wind, water flow, and wildlife corridors.

@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom Spawn Characteristics and Recognition
+## Mushroom Spawn Characteristics and Recognition
 
 ## Overview
 

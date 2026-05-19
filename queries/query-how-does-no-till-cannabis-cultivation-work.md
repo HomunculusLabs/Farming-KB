@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Does No-Till Cannabis Cultivation Work?
+## How Does No-Till Cannabis Cultivation Work?
 
 ## Short Answer
 No-till cannabis cultivation is an organic growing method that eliminates soil disturbance between grows, allowing a thriving ecosystem of beneficial microorganisms, fungi, and soil invertebrates to develop over time.

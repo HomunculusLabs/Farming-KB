@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2C-T-21
+## 2C-T-21
 
 [[2c-b-pihkal-entry-20]] #49. 2,5-DIMETHOXY-4-(2-FLUOROETHYLTHIO)PHENETHYLAMINE.
 

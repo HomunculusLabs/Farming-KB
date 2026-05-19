@@ -7,7 +7,7 @@ tags: [nematophagous-fungi, biocontrol, predatory-fungi, plant-parasitic-nematod
 aliases: [nematode-destroying-fungi, predatory-soil-fungi, nematode-trapping-mechanisms]
 ---
 
-# Nematode-Trapping Fungi: Predatory Mechanisms and Biocontrol
+## Nematode-Trapping Fungi: Predatory Mechanisms and Biocontrol
 
 ## Overview
 

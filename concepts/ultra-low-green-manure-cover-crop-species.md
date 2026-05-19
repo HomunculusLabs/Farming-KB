@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [cover-crops, green-manure, hairy-vetch, soil-fertility, ultra-low-cost]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
+sources: ["raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"]
 type: concept
 ---
 
-# Green Manure Cover Crop Species
+## Green Manure Cover Crop Species
 
 [[ultra-low-jadam-liquid-fertilizer-making]].
 The high oil content provides energy for soil microorganisms, and the

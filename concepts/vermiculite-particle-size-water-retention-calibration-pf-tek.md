@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [pf-tek, vermiculite, substrate, water-retention, particle-size, calibration, brown-rice-flour, BRF, hydration, field-capacity]
 ---
 
-# Vermiculite Particle Size, Water Retention, and Substrate Hydration Calibration in PF Tek
+## Vermiculite Particle Size, Water Retention, and Substrate Hydration Calibration in PF Tek
 
 ## Overview
 

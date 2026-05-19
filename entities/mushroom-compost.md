@@ -5,7 +5,7 @@ type: entity
 tags: [technique, cultivation, compost, substrate, preparation]
 ---
 
-# Mushroom Compost
+## Mushroom Compost
 
 ## Description
 

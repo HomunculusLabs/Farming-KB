@@ -6,7 +6,7 @@ tags: [coleman, biological-agriculture, pest-management, philosophy, soil-health
 created: 2026-05-08
 ---
 
-# The First Rule of Biological Agriculture: Nature Makes Sense
+## The First Rule of Biological Agriculture: Nature Makes Sense
 
 ## Overview
 

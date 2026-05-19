@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/stamets-psilocybin-mushrooms-of-the-world.md"
 ---
 
-# Psilocybe equestris
+## Psilocybe equestris
 
 Psilocybe equestris is a bluing [[psilocybin]]-containing mushroom in the
 section Semilanceatae of the genus Psilocybe. It was described from

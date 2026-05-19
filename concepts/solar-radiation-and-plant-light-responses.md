@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Solar Radiation and Plant Light Responses
+## Solar Radiation and Plant Light Responses
 
 Solar radiation is the fundamental energy driver of all life on Earth. Understanding its composition, how it interacts with the atmosphere and land surfaces, and how plants respond to different wavelengths is essential knowledge for any permaculture designer working to place elements and design systems for optimal productivity.
 

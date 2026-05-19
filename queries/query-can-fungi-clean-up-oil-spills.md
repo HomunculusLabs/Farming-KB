@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# Can Fungi Clean Up Oil Spills and Environmental Pollution
+## Can Fungi Clean Up Oil Spills and Environmental Pollution
 
 ## Short Answer
 Yes, certain fungi can break down petroleum hydrocarbons, heavy metals, pesticides,

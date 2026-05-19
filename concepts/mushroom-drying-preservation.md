@@ -6,7 +6,7 @@ tags: [drying, preservation, desiccation, mushroom-storage, potency, harvesting,
 aliases: [magic mushroom drying, mushroom desiccation, preserving mushroom-storage-and-processing-methods
 ---
 
-# Mushroom Drying and Preservation
+## Mushroom Drying and Preservation
 
 The drying and preservation of harvested mushrooms is a critical final stage in the [[pf-tek]] cultivation process. Freshly harvested mushrooms contain approximately **90% water by weight** and will begin to decompose within hours of picking if not properly preserved. Drying accomplishes three essential goals: it dramatically extends shelf life, concentrates the active compounds, and reduces weight for storage and transport. The PF TEK describes several drying methods, with **cool desiccation** using [[desiccant]] materials being the recommended approach.
 

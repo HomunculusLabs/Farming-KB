@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Peyote and the Tracks of the Little Deer
+## Peyote and the Tracks of the Little Deer
 
 Peyote (*[[chiric-caspi-brunfelsia-south-american-hallucinogen]]
   [[plants-of-the-gods-cannabis-ancient-cultures]] for another plant

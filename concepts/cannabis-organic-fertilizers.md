@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis, fertilizer]
 ---
 
-# Cannabis Organic Fertilizers
+## Cannabis Organic Fertilizers
 
 ## Overview
 

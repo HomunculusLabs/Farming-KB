@@ -6,7 +6,7 @@ type: concept
 tags: [remediation, environment]
 sources: []
 ---
-# Key Fungal Species in Bioremediation
+## Key Fungal Species in Bioremediation
 
 A relatively small number of fungal species have been intensively studied for their bioremediation capabilities, with white-rot basidiomycetes dominating the field due to their unique ligninolytic enzyme systems. Understanding the strengths, limitations, and optimal conditions for each species is essential for designing effective mycoremediation strategies.
 

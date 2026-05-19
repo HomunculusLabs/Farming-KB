@@ -10,7 +10,7 @@ sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
-# Matricaria chamomilla
+## Matricaria chamomilla
 
 German chamomile is an annual herbaceous plant in the Asteraceae
 family, native to Europe and Western Asia, now naturalized across

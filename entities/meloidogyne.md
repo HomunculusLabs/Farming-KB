@@ -5,7 +5,7 @@ type: entity
 tags: [nematode, plant-parasite, root-knot-nematode, biocontrol, fungal-parasites]
 ---
 
-# Meloidogyne
+## Meloidogyne
 
 ## Description
 

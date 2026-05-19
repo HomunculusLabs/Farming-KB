@@ -20,7 +20,7 @@ sources:
   - Goh, B.H. et al. "Clitoria ternatea (Butterfly Pea): A Review of Its Ethnobotany, Pharmacology, and Clinical Applications." Frontiers in Pharmacology, 2022.
 ---
 
-# Clitoria ternatea
+## Clitoria ternatea
 
 **Clitoria ternatea** L., commonly known as **butterfly pea**, **Asian pigeonwings**, **blue pea**, or **aparajita** (अपराजिता) in Sanskrit, is a perennial climbing vine in the family Fabaceae. Native to tropical equatorial Asia, the plant is widely cultivated across [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
 - **Cultivated:** Throughout the tropics and subtropics; widely grown as an ornamental, medicinal, and food crop in Thailand, Vietnam, Malaysia, Indonesia, and India

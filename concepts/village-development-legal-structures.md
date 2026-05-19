@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Village Development and Legal Structures
+## Village Development and Legal Structures
 
 ## Overview
 

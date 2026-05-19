@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Earthship vs Earthbag Construction
+## Earthship vs Earthbag Construction
 
 ## Overview
 

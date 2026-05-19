@@ -8,7 +8,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Bioremediation of Pharmaceutical Contaminants
+## Bioremediation of Pharmaceutical Contaminants
 
 Pharmaceutical contaminants in the environment represent an emerging class of water pollutants that conventional [[phase-ii-conjugation-reactions-drug-metabolism]], with the degradation efficiency depending on the specific compound and [[fungal-cytochrome-p450-biodegradation]], contribute to pharmaceutical degradation through hydroxylation and other oxidative transformations.
 

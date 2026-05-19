@@ -6,7 +6,7 @@ tags: [william-james, radical-empiricism, consciousness, multiple-worlds, variet
 created: 2026-05-08
 ---
 
-# William James Radical Empiricism and the Plurality of Consciousness Forms
+## William James Radical Empiricism and the Plurality of Consciousness Forms
 
 ## Overview
 

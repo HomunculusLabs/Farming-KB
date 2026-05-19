@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Masonry Heater vs Pellet Stove
+## Masonry Heater vs Pellet Stove
 
 ## Overview
 

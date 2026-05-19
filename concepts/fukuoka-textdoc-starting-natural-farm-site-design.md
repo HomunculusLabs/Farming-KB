@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Starting a Natural Farm: Site Selection and Land Design
+## Starting a Natural Farm: Site Selection and Land Design
 
 The practical section of Fukuoka's work begins with the fundamental question every aspiring
 natural farmer faces: where and on what type of land to live. His guidance integrates

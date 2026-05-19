@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Transplanting Techniques for Low-Input Gardens
+## Transplanting Techniques for Low-Input Gardens
 
 Updated: 2026-04-18
 

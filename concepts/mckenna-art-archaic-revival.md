@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# Art and the Archaic Revival
+## Art and the Archaic Revival
 
 ## Overview
 

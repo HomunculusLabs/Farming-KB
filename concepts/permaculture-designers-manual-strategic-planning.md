@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design, principles]
 sources: [raw/papers/bill-bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems|mollison-permaculture-a-designers-manual.md]
 ---
-# Strategic Planning
+## Strategic Planning
 **Source:** Permaculture: A Designers' Manual, [[bill-mollison]] (1988)
 **Updated:** 2026-04-18
 

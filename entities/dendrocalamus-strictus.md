@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants.md
 type: entity
 ---
 
-# Dendrocalamus strictus
+## Dendrocalamus strictus
 
 ## Description
 

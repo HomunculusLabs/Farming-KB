@@ -3,7 +3,7 @@ title: European Hallucinogenic Mushroom Prevalence Trends
 source: EMCDDA "Hallucinogenic Mushrooms: An Emerging Trend Case Study" (2006)
 ---
 
-# European Hallucinogenic Mushroom Prevalence and Trends
+## European Hallucinogenic Mushroom Prevalence and Trends
 
 ## Overview
 

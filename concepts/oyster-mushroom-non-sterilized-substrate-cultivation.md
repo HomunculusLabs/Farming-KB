@@ -15,7 +15,7 @@ created: 2026-04-28
 type: concept
 ---
 
-# Oyster Mushroom Non-Sterilized Substrate Cultivation
+## Oyster Mushroom Non-Sterilized Substrate Cultivation
 
 Growing [[accessible-mushroom-cultivation-for-disabilities]]. This method, documented extensively by Pakistani grower Ahklaq Khan, uses lime (calcium carbonate) and pulse powder as natural antimicrobial agents to prepare wheat straw substrate without any heat treatment. The technique eliminates the most expensive and labor-intensive step in conventional mushroom growing, making it particularly valuable for resource-limited growers in [[cotter-oyster-mushroom-cultivation]] requires pasteurization or sterilization of substrate before inoculation. This step is typically the most expensive component of the process because it demands fuel consumption for steaming or boiling, specialized equipment such as drums or autoclaves, and significant labor input. Pasteurization at 60-65°C for 2-8 hours or sterilization at 121°C for 60-90 minutes are the standard approaches, both requiring sustained heat energy.
 

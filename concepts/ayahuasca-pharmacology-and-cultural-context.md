@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Ayahuasca Pharmacology and Cultural Context
+## Ayahuasca Pharmacology and Cultural Context
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# The Tree Model and Pattern Matrices
+## The Tree Model and Pattern Matrices
 
 The tree model is [[permaculture-design]].
 

@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [potency, harvesting, drying, desiccation, cultivation, dosage]
 ---
 
-# Mushroom Potency, Harvesting, and Drying
+## Mushroom Potency, Harvesting, and Drying
 
 The psychoactive potency of [[hplc-analysis-of-psilocybin-and-psilocin]]:
 - **[[psilocybe-semilanceata]]** — averages approximately 1% dry weight; widely considered one of the most potent naturally occurring species.

@@ -5,7 +5,7 @@ type: entity
 tags: [permaculture, pond, mosquito-control, garlic, biological-control, frogs]
 ---
 
-# Mosquito Control Pond System (Mollison)
+## Mosquito Control Pond System (Mollison)
 
 ## Description
 

@@ -3,7 +3,7 @@ title: Fungal Endemism and Biogeography
 created: 2026-04-28
 ---
 
-# Fungal Endemism and Biogeography
+## Fungal Endemism and Biogeography
 
 Fungal biogeography studies the distribution of fungal species across
 space and time, while endemism refers to species restricted to

@@ -7,7 +7,7 @@ tags: [mdma, psychotherapy, empathogens, clinical-research, trauma, shulgin]
 sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
 ---
 
-# MDMA-Assisted Therapy Research
+## MDMA-Assisted Therapy Research
 
 A significant extension of psychoactive-assisted psychotherapy occurred with the
 discovery by chemist [[psychedelic-psychotherapy]]:

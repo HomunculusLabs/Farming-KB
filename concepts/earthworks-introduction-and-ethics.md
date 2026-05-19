@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Earthworks Introduction and Ethics
+## Earthworks Introduction and Ethics
 
 ## Overview
 

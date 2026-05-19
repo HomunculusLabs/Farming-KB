@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Metzner Five Fundamental Conclusions of Psychoactive Assisted Psychotherapy
+## Metzner Five Fundamental Conclusions of Psychoactive Assisted Psychotherapy
 
 [[psycholytic-and-psychedelic-therapy-models]] approaches to hallucinogen assisted
 psychotherapy. Despite their theoretical and practical differences, these

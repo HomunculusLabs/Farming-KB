@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# PF TEK Dry Vermiculite Contaminant Barrier
+## PF TEK Dry Vermiculite Contaminant Barrier
 
 The dry vermiculite contaminant barrier is one of the key innovations of the
 PF TEK. Discovered by [[pf-tek-psilocybe-fanaticus-cultivation-method]] as

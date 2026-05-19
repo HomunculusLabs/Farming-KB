@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, history, basidiomycetes, spore-discharge]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md]
+sources: ["raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"]
 type: concept
 ---
-# A.H.R. Buller and the Birth of Experimental Mycology Arthur Henry Reginald Buller (1874-1944) was the [[bloomfield-history-of-mycology-pioneers]]
+## A.H.R. Buller and the Birth of Experimental Mycology Arthur Henry Reginald Buller (1874-1944) was the [[bloomfield-history-of-mycology-pioneers]]
 
 See also: [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom

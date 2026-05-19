@@ -4,7 +4,7 @@ source: jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
 ---
 
-# JADAM Green Manure Crops — Milk Vetch, Rye, and Cover Cropping
+## JADAM Green Manure Crops — Milk Vetch, Rye, and Cover Cropping
 
 ## Overview
 

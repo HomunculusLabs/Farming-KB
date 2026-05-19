@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# THC (Tetrahydrocannabinol)
+## THC (Tetrahydrocannabinol)
 
 Tetrahydrocannabinol (THC) is the primary mind-altering constituent of
 cannabis, responsible for generating complex changes that occur

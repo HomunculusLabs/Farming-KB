@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka Theory - Discriminating vs Nondiscriminating Knowledge
+## Fukuoka Theory - Discriminating vs Nondiscriminating Knowledge
 
 ## Overview
 

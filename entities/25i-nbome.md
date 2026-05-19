@@ -28,7 +28,7 @@ sources:
   - Halberstadt AL, Geyer MA. (2014). "Effects of the 5-HT2A agonist 25I-NBOMe on behavior in mice." Psychopharmacology, 231(13), 2645–2652.
 ---
 
-# 25I-NBOMe
+## 25I-NBOMe
 
 ## Overview
 

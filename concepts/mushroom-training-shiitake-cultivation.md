@@ -4,10 +4,10 @@ created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [cultivation, mushroom-cultivation, shiitake]
-sources: [/Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
+sources: ["raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md"]
 ---
 
-# Mushroom Training: Shiitake Cultivation
+## Mushroom Training: Shiitake Cultivation
 
 ## Introduction to Shiitake Mushrooms
 

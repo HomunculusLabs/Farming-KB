@@ -13,7 +13,7 @@ sources:
   - raw/papers/greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
-# Hash Making and Trichome Extraction
+## Hash Making and Trichome Extraction
 Chapter 17 of [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
 
 ## Historical Context

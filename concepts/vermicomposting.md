@@ -7,7 +7,7 @@ tags: [compost, biology, methods, homesteading, troubleshooting]
 sources: []
 ---
 
-# Vermicomposting
+## Vermicomposting
 
 Vermicomposting is the process of using [[earthworms]] to decompose organic waste into vermicast (worm castings) — one of the finest soil amendments available. Worm castings are rich in plant-available nutrients, beneficial microorganisms, humic acids, and plant growth hormones. Vermicomposting can be done indoors or outdoors, in small apartments or on large homesteads, making it one of the most accessible [[composting]] methods.
 

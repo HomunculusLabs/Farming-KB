@@ -10,7 +10,7 @@ type: concept
 tags: [fukuoka, principles]
 ---
 
-# Fukuoka One Straw Revolution Principles
+## Fukuoka One Straw Revolution Principles
 
 The "One Straw Revolution" refers to Masanobu Fukuoka's philosophy and practice of [[fukuoka-no-cultivation-principle]]
 2. **No fertilizer** -- No [[fukuoka-no-weeding-no-pesticides]]

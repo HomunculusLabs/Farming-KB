@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Acacia dealbata (Silver Wattle)
+## Acacia dealbata (Silver Wattle)
 
 ## Description
 

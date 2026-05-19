@@ -7,7 +7,7 @@ tags: [fungi, biology, ecology]
 sources: [raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
 ---
 
-# Fungal Sexual Reproduction and Mating
+## Fungal Sexual Reproduction and Mating
 
 How fungi find partners, fuse, exchange genetic material, and produce sexual spores — from Money's "Mr. Bloomfield's Orchard."
 

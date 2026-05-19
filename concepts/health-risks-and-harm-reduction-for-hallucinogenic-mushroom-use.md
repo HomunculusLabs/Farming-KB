@@ -6,7 +6,7 @@ created: 2026-05-09
 tags: [health, harm-reduction, risks, pharmacology, toxicity, mental-health, emcdda]
 ---
 
-# Health Risks and Harm Reduction for Hallucinogenic Mushroom Use
+## Health Risks and Harm Reduction for Hallucinogenic Mushroom Use
 
 ## Overview
 

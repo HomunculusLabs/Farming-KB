@@ -5,7 +5,7 @@ type: entity
 tags: [tribe, indigenous, siberia, shamanism, etymology]
 ---
 
-# Tungus (Tribe)
+## Tungus (Tribe)
 
 ## Description
 

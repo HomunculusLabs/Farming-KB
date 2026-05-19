@@ -13,7 +13,7 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-# Permaculture Insectary Plants
+## Permaculture Insectary Plants
 
 Insectary plants are those specifically included in a design to attract, shelter, and sustain [[beneficial-insects-and-biological-pest-control]] -- predators and pollinators that provide [[biological-pest-control-balance]] and crop pollination services. Throughout the Designers' Manual, Mollison emphasises that any innovative designer can see ways to add "a vine, a fungus, a beneficial insect" to a seemingly fully-planted area.
 

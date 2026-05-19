@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# TM
+## TM
 [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]] touch of panic at finding myself dead dispelled any internal
 > concerns and I ran inside to find the others; they had brought my
 > pillow in. I was alive again, but the entire day balanced between the

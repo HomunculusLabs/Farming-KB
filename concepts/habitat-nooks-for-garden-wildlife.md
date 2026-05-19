@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 
-# Habitat Nooks for Garden Wildlife
+## Habitat Nooks for Garden Wildlife
 
 Updated: 2026-04-18
 

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Coprinus comatus (Shaggy Mane) Cultivation
+## Coprinus comatus (Shaggy Mane) Cultivation
 
 ## Overview and Taxonomy
 

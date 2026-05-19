@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, biodiversity, ecology, estimation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
 
-# Fungal Biodiversity Estimates
+## Fungal Biodiversity Estimates
 
 Fungal biodiversity remains one of the most poorly quantified frontiers in
 biology. Unlike plants and vertebrates, fungi are microscopic for much of their

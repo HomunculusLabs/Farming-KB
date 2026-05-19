@@ -4,7 +4,7 @@ source: The Road Back to Nature (Fukuoka, 1987)
 tags: [food-strategy, seed-war, geopolitics, rice, food-self-sufficiency, darwin, agricultural-science, ecosystem-health]
 ---
 
-# Food Strategy and the Seed War
+## Food Strategy and the Seed War
 
 ## Food as a Strategic Weapon
 

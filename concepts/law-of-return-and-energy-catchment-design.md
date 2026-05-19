@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Law of Return and Energy Catchment Design
+## Law of Return and Energy Catchment Design
 
 ## Overview
 

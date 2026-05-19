@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Fungal Weathering Mechanisms — Biomechanical and Biochemical
+## Fungal Weathering Mechanisms — Biomechanical and Biochemical
 
 ## Overview
 

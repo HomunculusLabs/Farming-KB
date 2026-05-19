@@ -5,7 +5,7 @@ type: concept
 tags: [toxicology, absorption, amanita, cross-contamination, safety]
 ---
 
-# Mushroom Absorption Toxicity
+## Mushroom Absorption Toxicity
 
 ## Description
 

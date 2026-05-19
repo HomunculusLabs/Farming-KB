@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# AL
+## AL
 
 [[maitake-problem-solving-troubleshooting]]. There were no
 > requirements for withdrawal into the self. The material seemed wholly

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Small-Scale Grain Cultivation
+## Small-Scale Grain Cultivation
 
 Grain is the foundation of human civilisation and remains essential for self-sufficiency. The permaculture-design|permaculture approach to grain cultivation emphasises no-till methods, permanent beds, and integration with animal systems. In permaculture, grains are typically placed in [[fukuoka-straw-winter-grain-straw-mulch]] is excellent bedding and permaculture-climatic-zones-design forest system
 

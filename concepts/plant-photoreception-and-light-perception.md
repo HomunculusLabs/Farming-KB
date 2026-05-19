@@ -5,7 +5,7 @@ tags: [botany, plant-biology, photoreception, photoreceptors, plant-senses, ligh
 created: 2026-05-09
 ---
 
-# Plant Photoreception and Light Perception
+## Plant Photoreception and Light Perception
 
 ## Overview
 

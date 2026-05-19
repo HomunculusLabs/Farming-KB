@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Five Tastes and Health
+## Five Tastes and Health
 
 Masanobu Fukuoka's understanding of the relationship between the five tastes and human health is rooted in traditional Japanese food wisdom and his broader [[growing-root-vegetables-guide]]. In traditional Japanese cuisine, sweetness came from natural sources: rice, sweet potatoes, chestnuts, and seasonal fruits. The modern abundance of refined sugar has created an excess of sweetness that contributes to diabetes, obesity, and other metabolic disorders.
 

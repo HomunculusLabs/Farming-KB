@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Moss and Algae Control - Protozoa-Based Approaches
+## Moss and Algae Control - Protozoa-Based Approaches
 
 Extracted from [[ingham-weed-control-through-biology]]
 - mycorrhizal-weed-control

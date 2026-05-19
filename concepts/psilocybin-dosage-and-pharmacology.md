@@ -4,7 +4,7 @@ source: magic-mushroom-growers-guide-ot-oss-on-oeric.md
 type: concept
 ---
 
-# Psilocybin Dosage and Pharmacology
+## Psilocybin Dosage and Pharmacology
 
 Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) and its active metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine) are the principal psychoactive compounds found in *[[stropharia-cubensis]]* and other psilocybin-containing mushrooms. Understanding their dosage, effects, toxicity profile, and [[lsd-discovery-aftermath-pharmacological-properties]] is essential for anyone working with these fungi — whether in research, clinical, or historical contexts.
 

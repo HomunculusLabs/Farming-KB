@@ -7,7 +7,7 @@ tags: [animal-husbandry, livestock, forage, permaculture, homesteading, construc
 sources: []
 ---
 
-# Chickshaw and Poultry Tractors
+## Chickshaw and Poultry Tractors
 
 A poultry tractor (or [[chicken-tractor-entity]]) is a mobile coop without a floor that is moved regularly to fresh pasture, allowing chickens to forage on grass, weeds, seeds, and insects while fertilizing the ground. A chickshaw is a specific type of poultry tractor designed as a lightweight, cart-style coop on wheels that can be easily towed or pushed by hand.
 

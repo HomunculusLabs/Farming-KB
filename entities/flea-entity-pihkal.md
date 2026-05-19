@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# FLEA
+## FLEA
 
 [[qualitative-comments-methodology-pihkal]]
 - [[psilocybin-isolation-and-early-scientific-research]]

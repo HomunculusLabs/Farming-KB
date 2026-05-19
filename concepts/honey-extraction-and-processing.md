@@ -7,7 +7,7 @@ tags: [homesteading, animal-husbandry, processing, food, equipment]
 sources: []
 ---
 
-# Honey Extraction and Processing
+## Honey Extraction and Processing
 
 Extracting honey is the culmination of the beekeeping season. Proper
 technique preserves honey quality, ensures food safety, and maximizes

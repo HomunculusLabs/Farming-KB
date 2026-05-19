@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Nutrient Burn and Over-fertilization in Cannabis
+## Nutrient Burn and Over-fertilization in Cannabis
 
 Nutrient burn, also called fertilizer burn, is one of the most common
 problems in [[jorge-cervantes]] identifies it as a

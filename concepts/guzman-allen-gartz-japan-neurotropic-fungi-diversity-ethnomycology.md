@@ -6,7 +6,7 @@ type: concept
 tags: [neurotropic-fungi, japan, mycology, distribution, psilocybin, agaritine, gyromitrin, biodiversity, east-asia]
 ---
 
-# Japan Neurotropic Fungi Diversity
+## Japan Neurotropic Fungi Diversity
 
 ## Overview
 

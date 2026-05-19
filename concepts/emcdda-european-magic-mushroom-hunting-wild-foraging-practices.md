@@ -6,7 +6,7 @@ type: concept
 tags: [emcdda, mushroom-hunting, foraging, europe, psilocybe-semilanceata, wild-mushrooms, identification-risk]
 ---
 
-# European Magic Mushroom Hunting
+## European Magic Mushroom Hunting
 
 ## Overview
 

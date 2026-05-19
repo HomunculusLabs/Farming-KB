@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are the Different Types of Mycorrhizal Fungi?
+## What Are the Different Types of Mycorrhizal Fungi?
 
 ## Short Answer
 

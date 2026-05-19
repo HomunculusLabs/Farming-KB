@@ -1,4 +1,8 @@
-# Cannabis Safety Profile and Risk Assessment
+---
+title: "Cannabis Safety Profile and Risk Assessment"
+tags:
+  - concept
+---
 
 Extensive evidence indicates that cannabis is neither dangerous nor
 harmless. The safety profile of cannabis must be evaluated through a

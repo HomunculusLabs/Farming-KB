@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between Perlite and Vermiculite?
+## What Is the Difference Between Perlite and Vermiculite?
 
 ## Short Answer
 Perlite and vermiculite are both mined minerals used as soil amendments to improve aeration and moisture retention, but they behave quite differently.

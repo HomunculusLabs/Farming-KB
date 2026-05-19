@@ -10,7 +10,7 @@ sources:
   - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
 
-# Louis Lewin
+## Louis Lewin
 
 Louis Lewin (1850–1929) was a German pharmacologist, physician, and pioneer of
 psychopharmacology. He is widely regarded as the father of modern psychoactive

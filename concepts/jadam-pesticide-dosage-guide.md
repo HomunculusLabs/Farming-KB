@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Pesticide Dosage Guide
+## JADAM Pesticide Dosage Guide
 
 All JADAM [[hamilton-beneficial-insects-and-biological-pest-control]] | 8L (1.6 gal) | For moth programs |
 | Heavy infestation | 10L (2.6 gal) | Max for routine use |

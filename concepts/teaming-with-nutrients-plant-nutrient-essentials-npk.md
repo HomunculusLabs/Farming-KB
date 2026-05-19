@@ -13,7 +13,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Plant Nutrient Essentials: NPK
+## Plant Nutrient Essentials: NPK
 Nitrogen, phosphorus, and potassium (NPK) form the foundation of plant nutrition.
 These three macronutrients are used by plants in the greatest quantities after
 carbon, hydrogen, and oxygen, and they are the elements represented on every

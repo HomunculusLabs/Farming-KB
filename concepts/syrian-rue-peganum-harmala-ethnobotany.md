@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
-# Syrian Rue (Peganum harmala): Ethnobotany and Harmala Alkaloids
+## Syrian Rue (Peganum harmala): Ethnobotany and Harmala Alkaloids
 
 Syrian rue (Peganum harmala) is a remarkable plant that grows from the Mediterranean to northern India, Mongolia, and Manchuria. Known primarily as a source of the beta-carboline alkaloids harmine and harmaline, Syrian rue has played a significant role in traditional medicine and possibly in ancient religious practices, and its alkaloids have become essential to the modern understanding of ayahuasca pharmacology.
 

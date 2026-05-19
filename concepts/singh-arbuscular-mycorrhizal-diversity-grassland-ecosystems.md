@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Arbuscular Mycorrhizal Diversity in Grassland Ecosystems
+## Arbuscular Mycorrhizal Diversity in Grassland Ecosystems
 
 [[core-endorhiza-bacterial-community-composition-cannabis]] shifts seasonally as different AMF taxa exhibit
   distinct phenological patterns and environmental optima

@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-# [[growing-gourmet-saprophytic-mushrooms-decomposers]].
+## [[growing-gourmet-saprophytic-mushrooms-decomposers]].
 The vast majority of endophytes are undescribed, and some appear to
 have lost the ability to produce spores, living vegetatively in a
 continuous mycelial state. Most endophytes described thus far are

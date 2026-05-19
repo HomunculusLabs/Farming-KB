@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# Indigo Radicchio
+## Indigo Radicchio
 
 ## Description
 

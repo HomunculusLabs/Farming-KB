@@ -6,7 +6,7 @@ extracted: 2026-05-10
 tags: [permaculture, mollison, designers-manual, glasshouse, greenhouse, protected-cropping, cold-climate]
 ---
 
-# Glasshouse and Protected Cropping Systems in Permaculture Design
+## Glasshouse and Protected Cropping Systems in Permaculture Design
 
 ## Overview
 

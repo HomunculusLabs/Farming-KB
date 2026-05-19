@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# M
+## M
 PIHKAL entry #96. MESCALINE; 3,4,5-TRIMETHOXYPHENETHYLAMINE.
 ## Dosage and Duration
 | Property | Value |

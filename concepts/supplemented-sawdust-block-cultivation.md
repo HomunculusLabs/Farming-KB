@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, sawdust-blocks, supplemented-substrate, commercial-cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Supplemented Sawdust Block Cultivation
+## Supplemented Sawdust Block Cultivation
  Supplemented sawdust blocks represent the standard method for commercial oyster mushroom production and are increasingly adopted by advanced home
 cultivators seeking higher yields and better quality fruiting bodies. This
 approach produces significantly higher yields compared to straw-based methods,

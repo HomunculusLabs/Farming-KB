@@ -13,7 +13,7 @@ tags:
 - coevolution
 ---
 
-# Truffle Evolution: From Cup Fungi to Subterranean Fungi
+## Truffle Evolution: From Cup Fungi to Subterranean Fungi
 
 ## Overview
 

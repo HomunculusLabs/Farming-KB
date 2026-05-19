@@ -16,7 +16,7 @@ sources:
   - USDA NRCS Plants Database: Gentiana calycosa. https://plants.usda.gov/
 ---
 
-# Gentiana calycosa
+## Gentiana calycosa
 
 ## Overview
 

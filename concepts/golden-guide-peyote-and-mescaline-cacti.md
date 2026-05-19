@@ -5,11 +5,11 @@ tags: [hallucinogenic-plants, peyote, mescaline, cactaceae, lophophora,
   trichocereus, san-pedro, ethnobotany, native-american-church]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md]
+sources: ["raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"]
 type: concept
 ---
 
-# Peyote and Mescaline-Containing Cacti
+## Peyote and Mescaline-Containing Cacti
 
 Peyote (*[[entheogen-cimora-folk-healing-ceremony]] ceremony that combines ancient
 indigenous ritual with imported Christian elements. An observer has described

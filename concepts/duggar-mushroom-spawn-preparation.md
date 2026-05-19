@@ -9,7 +9,7 @@ tags: [mushroom, spawn, mycelium, pure-culture, tissue-culture, propagation, dug
 updated: 2026-04-26
 ---
 
-# Mushroom Spawn Preparation Methods
+## Mushroom Spawn Preparation Methods
 
 Spores cannot be used directly in propagation. Spawn of commerce is the only "seed" material practically employed in growing these fungi. Pure cultures are effective, but too expensive for practical purposes. "Brick" spawn is commonly used in England and the United States, and very few growers find it advisable to make their own; while in France "flake" spawn has a monopoly of the market, and most of the large growers prepare, by means of a "starter" of "virgin" spawn, all of the material they use.
 

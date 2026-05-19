@@ -1,6 +1,6 @@
 ---
 ---
-# Mycofiltration of Water Contaminants
+## Mycofiltration of Water Contaminants
 
 Mycofiltration uses fungal biomass -- typically mycelial mats, fruiting bodies, or immobilized fungal cultures -- to filter and treat contaminated water. The process exploits both biosorption (passive binding to cell walls) and bioaccumulation (active uptake) along with ligninolytic-enzymes
 - Biological oxidation of contaminants by living fungal metabolism

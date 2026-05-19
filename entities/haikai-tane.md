@@ -5,7 +5,7 @@ type: entity
 tags: [people, planner, ecologist, new-zealand, permaculture]
 ---
 
-# Haikai Tane
+## Haikai Tane
 
 ## Description
 

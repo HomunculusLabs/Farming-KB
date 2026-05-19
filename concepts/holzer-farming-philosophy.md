@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Farming Philosophy
+## Holzer Farming Philosophy
 
 ## Core Principles
 

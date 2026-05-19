@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2-TOM
+## 2-TOM
 
 [[ethanol]], had a melting point of 118-118.5 deg C.
 Anal. (C11H13NO3S) C,H. Reduction with aluminum hydride in THF gave

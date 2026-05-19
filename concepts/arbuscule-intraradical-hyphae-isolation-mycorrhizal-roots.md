@@ -4,9 +4,9 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
-# Arbuscule and Intraradical Hyphae Isolation from Mycorrhizal Roots
+## Arbuscule and Intraradical Hyphae Isolation from Mycorrhizal Roots
 
 The isolation of [[phosphorus-plant-nutrition]] is transferred from the fungus to the plant while carbon compounds flow from the plant to the fungus. Alkaline [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] at the arbuscular interface.
 

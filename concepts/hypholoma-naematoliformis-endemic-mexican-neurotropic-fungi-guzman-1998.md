@@ -6,7 +6,7 @@ type: concept
 tags: [hypholoma, neurotropic-fungi, mexico, endemic, strophariaceae, taxonomy, guzman]
 ---
 
-# Hypholoma naematoliformis
+## Hypholoma naematoliformis
 
 ## Overview
 

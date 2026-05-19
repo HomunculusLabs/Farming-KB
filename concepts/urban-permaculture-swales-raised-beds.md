@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, gardening, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
-# Swales and Raised Beds Swales and raised beds are complementary earthwork strategies that manage water, build soil, and create productive growing spaces. In ** -- beds built over logs and branches that decompose over time, creating long-term fertility and water retention (see [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]; the herbs attract pollinators and accumulate nutrients.
+## Swales and Raised Beds Swales and raised beds are complementary earthwork strategies that manage water, build soil, and create productive growing spaces. In ** -- beds built over logs and branches that decompose over time, creating long-term fertility and water retention (see [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]; the herbs attract pollinators and accumulate nutrients.
 
 ## The Self-Contained Ecosystem
 

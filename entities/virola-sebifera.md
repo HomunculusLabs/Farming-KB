@@ -16,7 +16,7 @@ sources:
   - Rivier, L. & Lindgren, J.E. (1972). "Ayahuasca: The chiric-caspi-brunfelsia-south-american-hallucinogen Hallucinogenic Drink—An Ethnobotanical and Chemical Investigation." Economic Botany 26(2): 101-129.
 ---
 
-# Virola sebifera
+## Virola sebifera
 
 ## Overview
 

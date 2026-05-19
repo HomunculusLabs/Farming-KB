@@ -6,7 +6,7 @@ source_title: "A Worldwide Geographical Distribution of the Neurotropic Fungi"
 topics: mushroom nomenclature, Mexico, indigenous languages, teonanacatl, sacred mushrooms, common names, linguistic diversity, Mazatec, Mixtec, Chinantec
 ---
 
-# Indigenous Mexican Mushroom Nomenclature — Sacred Names, Common Names, and Linguistic Diversity
+## Indigenous Mexican Mushroom Nomenclature — Sacred Names, Common Names, and Linguistic Diversity
 
 ## Overview
 

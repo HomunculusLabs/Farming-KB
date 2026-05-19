@@ -4,7 +4,7 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: entity
 ---
 
-# Charles McIlvaine (1840–1909)
+## Charles McIlvaine (1840–1909)
 
 ## Overview
 

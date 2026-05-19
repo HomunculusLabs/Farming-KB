@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, decomposition, ecology, forest-biology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
-# Wood Decay Fungi Wood decay fungi are a functional group of basidiomycetes and ascomycetes that decompose lignocellulose — the primary structural material of woody plants. They play essential roles in carbon cycling and nutrient return in forest ecosystems. ## Decay Types Wood decay is classified by the chemical components targeted: ### White Rot [[fungal-serpula-lacrymans-dry-rot-buildings]]* (dry rot of buildings) and *Gloeophyllum
+## Wood Decay Fungi Wood decay fungi are a functional group of basidiomycetes and ascomycetes that decompose lignocellulose — the primary structural material of woody plants. They play essential roles in carbon cycling and nutrient return in forest ecosystems. ## Decay Types Wood decay is classified by the chemical components targeted: ### White Rot [[fungal-serpula-lacrymans-dry-rot-buildings]]* (dry rot of buildings) and *Gloeophyllum
 trabeum*.
 
 ### Soft Rot

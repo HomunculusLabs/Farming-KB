@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# Melatonin
+## Melatonin
 
 TIHKAL entry #35. The primary hormone produced by the [[dmt-entity-tihkal]] are normal components of the nervous system but are Schedule I drugs.
 

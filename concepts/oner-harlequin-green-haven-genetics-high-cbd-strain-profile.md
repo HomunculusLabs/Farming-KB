@@ -7,7 +7,7 @@ type: concept
 tags: [cannabis, sativa, strain-profile, harlequin, high-CBD, medical-cannabis, green-haven-genetics]
 ---
 
-# Harlequin Strain Profile (Green Haven Genetics)
+## Harlequin Strain Profile (Green Haven Genetics)
 
 ## Overview
 

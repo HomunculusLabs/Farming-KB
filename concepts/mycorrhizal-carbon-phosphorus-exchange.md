@@ -8,7 +8,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 type: concept
 ---
 
-# Mycorrhizal Carbon and Phosphorus Exchange
+## Mycorrhizal Carbon and Phosphorus Exchange
 
 [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 

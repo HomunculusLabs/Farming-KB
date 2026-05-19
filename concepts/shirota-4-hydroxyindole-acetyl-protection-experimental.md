@@ -4,7 +4,7 @@ aliases: ["4-hydroxyindole acetylation", "acetyl protection indole synthesis", "
 tags: [synthesis, psilocin, psilocybin, organic-chemistry, tryptamine, shirota]
 ---
 
-# Acetyl Protection of 4-Hydroxyindole in Tryptamine Synthesis
+## Acetyl Protection of 4-Hydroxyindole in Tryptamine Synthesis
 
 ## Overview
 

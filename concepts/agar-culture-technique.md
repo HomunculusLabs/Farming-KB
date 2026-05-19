@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, agar, tissue-culture, isolation, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Agar Culture Technique Agar culture is the practice of growing mushroom oyster-mushroom-cultivation-economics, enabling isolate selection, contamination identification, long-term storage, and clean inoculum production. ## What Is Agar? Agar is a polysaccharide derived from red algae that forms a firm gel when dissolved in water and cooled. It serves as a solid support matrix for nutrient solutions, allowing mycelium to grow on the surface where it can be observed and manipulated. Agar melts at approximately 85°C and solidifies at around 40°C, allowing it to be poured into dishes at a comfortable working temperature. ## Agar Media Formulations ### [[brassinosteroid-fungal-growth-promotion]])
+## Agar Culture Technique Agar culture is the practice of growing mushroom oyster-mushroom-cultivation-economics, enabling isolate selection, contamination identification, long-term storage, and clean inoculum production. ## What Is Agar? Agar is a polysaccharide derived from red algae that forms a firm gel when dissolved in water and cooled. It serves as a solid support matrix for nutrient solutions, allowing mycelium to grow on the surface where it can be observed and manipulated. Agar melts at approximately 85°C and solidifies at around 40°C, allowing it to be poured into dishes at a comfortable working temperature. ## Agar Media Formulations ### [[brassinosteroid-fungal-growth-promotion]])
 - **Activated charcoal**: Added at 1-2 g/L to darken the medium, making
   contaminant colonies easier to spot
 - **Wood-based agar**: Sawdust or [[spore-print]]/Streak

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Lawn Ecology and Reform
+## Lawn Ecology and Reform
 
 Lawn culture represents one of the most resource-intensive and ecologically
 destructive land uses in modern civilization. [[bill-mollison]], in *Permaculture: A

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Molecular Community Analysis
+## Fungal Molecular Community Analysis
 
 Molecular methods have revolutionized the study of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] are
 generally recognized as insufficient because:

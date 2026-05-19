@@ -5,7 +5,7 @@ tags: [farming, rice, landrace, seed-saving, fukuoka, food-security]
 created: 2026-05-08
 ---
 
-# Happy Hill Rice — Fukuoka's Landrace Grain Variety
+## Happy Hill Rice — Fukuoka's Landrace Grain Variety
 
 ## Overview
 

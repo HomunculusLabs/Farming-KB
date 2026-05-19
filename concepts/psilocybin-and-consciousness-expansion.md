@@ -8,7 +8,7 @@ sources:
   - raw/papers/the-psilocybin-solution-by-simon-g-powell.md
 ---
 
-# Psilocybin and Consciousness Expansion
+## Psilocybin and Consciousness Expansion
 
 ## Overview
 

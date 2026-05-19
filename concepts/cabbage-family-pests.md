@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Cabbage Family Pests
+## Cabbage Family Pests
 
 The brassica family (cabbage, broccoli, cauliflower, kale, Brussels sprouts, turnips, radishes, rutabagas, Chinese cabbage) is attacked by a characteristic suite of insects. Understanding their life cycles and implementing targeted controls makes the difference between a successful brassica harvest and a ruined crop.
 

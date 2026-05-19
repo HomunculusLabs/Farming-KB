@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Pulp and Paper Effluent Treatment
+## Pulp and Paper Effluent Treatment
 
 ## Overview
 

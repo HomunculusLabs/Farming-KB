@@ -17,7 +17,7 @@ sources:
   - Bye, R.A. & Linares, E. (1987). "Mexican medicinal plants." Journal of Ethnopharmacology, 19(1), 51-55.
 ---
 
-# Datura ceratocaula
+## Datura ceratocaula
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
-# LSD Therapeutic History
+## LSD Therapeutic History
 
 ## Overview
 

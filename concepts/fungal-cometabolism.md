@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Cometabolism in Bioremediation Fungal cometabolism refers to the incidental transformation of environmental pollutants by fungal enzymes that are produced primarily for other metabolic purposes. Unlike primary metabolism, where microorganisms use a substrate as a carbon and energy source for growth, cometabolism involves transformation of a compound that the organism cannot assimilate. Fungal cometabolism is a central mechanism in [[ligninolytic-enzymes-bioremediation]] provides detailed coverage of these enzyme systems and their role in pollutant transformation.
+## Fungal Cometabolism in Bioremediation Fungal cometabolism refers to the incidental transformation of environmental pollutants by fungal enzymes that are produced primarily for other metabolic purposes. Unlike primary metabolism, where microorganisms use a substrate as a carbon and energy source for growth, cometabolism involves transformation of a compound that the organism cannot assimilate. Fungal cometabolism is a central mechanism in [[ligninolytic-enzymes-bioremediation]] provides detailed coverage of these enzyme systems and their role in pollutant transformation.
 
 [[cervantes-hydrogen-peroxide-sterilization]] and ferrous iron, provides a non-enzymatic cometabolic pathway that is particularly important in brown-rot fungi.
 

@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Pinoline and Entheogenic Plant Combinations
+## Pinoline and Entheogenic Plant Combinations
 
 ## Overview
 

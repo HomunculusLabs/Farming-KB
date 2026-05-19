@@ -5,7 +5,7 @@ source_author: uwe-blesching
 tags: [cannabis, sativa, indica, strain-selection, THC, CBD, therapeutic, cannabinoids]
 ---
 
-# Cannabis Sativa vs. Indica: Strain Profiles and Therapeutic Selection
+## Cannabis Sativa vs. Indica: Strain Profiles and Therapeutic Selection
 
 ## Overview
 

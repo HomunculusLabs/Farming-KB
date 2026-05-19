@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Garden Fencing and Boundaries
+## Garden Fencing and Boundaries
 
 Garden boundaries serve multiple purposes: providing privacy,
 protecting plants from wind and animals, and defining the overall

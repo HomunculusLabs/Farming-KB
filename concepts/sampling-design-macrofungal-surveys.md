@@ -13,7 +13,7 @@ topics:
   - statistics
 ---
 
-# Sampling Design Considerations for Macrofungal Surveys
+## Sampling Design Considerations for Macrofungal Surveys
 
 ## Overview
 

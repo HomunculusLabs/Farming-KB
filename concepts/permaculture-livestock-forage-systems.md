@@ -13,7 +13,7 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-# Permaculture Livestock Forage Systems
+## Permaculture Livestock Forage Systems
 
 Permaculture integrates livestock into designed systems through diverse forage sources including pasture grasses, leguminous shrubs, fodder trees, and crop residues. Mollison's Manual (particularly Chapters 9-10) details extensive species lists and management strategies for forage production across climate zones.
 

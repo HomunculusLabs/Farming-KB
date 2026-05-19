@@ -7,7 +7,7 @@ tags: [fungi, biogeochemistry, metal-transformations, bioweathering, geomycology
 aliases: [gadd-metal-transformations, fungal-bioweathering, fungal-biogeochemistry, geomycology]
 ---
 
-# Fungal Metal Transformations and Biogeochemical Cycling
+## Fungal Metal Transformations and Biogeochemical Cycling
 
 Fungi play a central role in the Earth's biogeochemical cycles — the processes by which elements move through the lithosphere, hydrosphere, atmosphere, and biosphere. Through mechanisms collectively termed "geomycology," fungi transform rocks and minerals, mobilize and immobilize metals, and influence the availability of essential nutrients for all life. This chapter from Gadd, Watkinson & Dyer's *Fungi in the Environment* provides a comprehensive overview of fungal [[fungal-biogeochemical-mineral-transformations]].
 

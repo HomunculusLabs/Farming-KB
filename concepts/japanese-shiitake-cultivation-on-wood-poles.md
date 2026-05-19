@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Japanese Shiitake Cultivation on Wood Poles
+## Japanese Shiitake Cultivation on Wood Poles
 
 ## Overview
 

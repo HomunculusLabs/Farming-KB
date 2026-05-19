@@ -9,7 +9,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocin (4-HO-DMT)
+## Psilocin (4-HO-DMT)
 
 Psilocin (4-hydroxy-N,N-dimethyltryptamine, 4-HO-DMT) is a
 classical serotonergic psychedelic and the primary

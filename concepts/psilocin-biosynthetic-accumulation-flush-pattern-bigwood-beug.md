@@ -4,7 +4,7 @@ source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug
 tags: [psilocin, psilocybin, flush, biosynthesis, cubensis, alkaloid, accumulation, bigwood-beug]
 ---
 
-# Psilocin Biosynthetic Accumulation Pattern Across Mushroom Flushes
+## Psilocin Biosynthetic Accumulation Pattern Across Mushroom Flushes
 
 ## Overview
 

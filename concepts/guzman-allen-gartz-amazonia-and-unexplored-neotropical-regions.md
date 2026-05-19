@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Amazonia and Unexplored Neotropical Regions
+## Amazonia and Unexplored Neotropical Regions
 
 Despite the recognition of 216 neurotropic [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]. This
 is particularly evident in the global map of neurotropic Psilocybe

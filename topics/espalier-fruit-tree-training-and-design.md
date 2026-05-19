@@ -110,7 +110,7 @@ required to maintain a flat form, and adaptability to the specific
 
 ## Merged: Cordon Fruit System
 
-# Cordon Fruit System (Permaculture)
+## Cordon Fruit System (Permaculture)
 
 ## Description
 

@@ -1,5 +1,5 @@
 ---
-title: companion-planting-guilds
+title: "Companion Planting Guild"
 created: 2026-04-28
 type: species
 tags:
@@ -21,7 +21,7 @@ sources:
   - Carroll, R. (2020). The Vegetable Gardener's Guide to Permaculture. Timber Press.
 ---
 
-# Companion Planting Guilds
+## Companion Planting Guilds
 
 ## Overview
 

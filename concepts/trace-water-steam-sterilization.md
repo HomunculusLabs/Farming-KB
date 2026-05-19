@@ -6,7 +6,7 @@ created: 2026-05-10
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 ---
 
-# Trace Water Steam Sterilization
+## Trace Water Steam Sterilization
 
 Trace water steam sterilization is a technique that enhances microwave-based microbial destruction by introducing a controlled, minimal amount of water to contaminated surfaces before irradiation. The method was developed as part of NASA's [[dry-microwave-irradiation-spore-resistance]].
 

@@ -16,7 +16,7 @@ sources:
   - "The Royal Botanic Gardens, Kew. (2024). Smilax glabra. Plants of the World Online."
 ---
 
-# Smilax glabra
+## Smilax glabra
 
 **Smilax glabra** (glabrous greenbrier, China root, tu fu ling) is a perennial climbing vine in the family Smilacaceae. It is native to East and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 

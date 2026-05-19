@@ -1,4 +1,8 @@
-# AACT Foam Management and Brew Troubleshooting
+---
+title: "AACT Foam Management and Brew Troubleshooting"
+tags:
+  - concept
+---
 
 **Source:** The Field Guide I for [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]], allowing air to be trapped in liquid as bubbles. In compost
 tea, surfactants come from several sources:

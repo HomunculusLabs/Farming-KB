@@ -6,7 +6,7 @@ tags: [mckenna, dmt, gnosis, ontological-crisis, hyperdimensional-intelligence, 
 aliases: [McKenna 1966 DMT Ontological Shock, Declension of Gnosis One Quanta Away]
 ---
 
-# McKenna's 1966 Ontological Crisis and the Declension of Gnosis at One Quanta Away
+## McKenna's 1966 Ontological Crisis and the Declension of Gnosis at One Quanta Away
 
 In his 1983 Esalen lecture, McKenna recounts a pivotal [[dmt]] experience from 1966
 that shattered his pre-existing ontological framework and catalysed the entire

@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Macrofungal Sampling Design — Plots, Transects, and Adequacy
+## Macrofungal Sampling Design — Plots, Transects, and Adequacy
 
 [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]:
 - Range from 1 m^2 to 1000 m^2

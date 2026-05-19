@@ -19,7 +19,7 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Pesticide for Aphids and Mites
+## JADAM Pesticide for Aphids and Mites
 
 Aphids and mites are the most common and earliest pests in organic farming. JADAM's approach uses [[jadam-wetting-agent-jwa]] as the delivery mechanism combined with [[jadam-herb-solution-jhs]] for the active insecticidal compound. Developed by Jeongho Choi and Youngsang Cho.
 

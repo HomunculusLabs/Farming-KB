@@ -7,7 +7,7 @@ tags: [mushroom-cultivation, sterile-technique, laminar-flow, glove-box, fungi, 
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 
-# Mushroom Cultivation - Sterile Technique
+## Mushroom Cultivation - Sterile Technique
 
 The air we breathe is a living sea of microscopic organisms. In mushroom culture, eliminating or reducing the movement of these organisms is essential for success. The five primary sources of contamination are: (1) the immediate external environment, (2) the culture medium, (3) the culturing equipment, (4) the cultivator and their clothes, and (5) the mushroom spores or mycelium.
 

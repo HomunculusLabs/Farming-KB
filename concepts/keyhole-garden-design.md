@@ -7,7 +7,7 @@ tags: [gardening, permaculture, water-management, sustainability, compost, desig
 sources: []
 ---
 
-# Keyhole Garden Design
+## Keyhole Garden Design
 
 A keyhole garden is a raised, circular garden bed with a central compost basket and a wedge-shaped notch (the "keyhole") that provides access to the center. Originally developed in Africa for drought-prone regions, keyhole gardens combine composting, water conservation, and intensive [[coleman-french-historical-winter-vegetable-production]] in a compact, accessible design.
 

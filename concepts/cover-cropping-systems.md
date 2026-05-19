@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Cover Cropping Systems
+## Cover Cropping Systems
 
 ## Overview
 

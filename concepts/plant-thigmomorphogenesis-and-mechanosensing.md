@@ -8,7 +8,7 @@ tags: [plant-biology, thigmomorphogenesis, mechanosensing, venus-flytrap,
 sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
 ---
 
-# Plant Thigmomorphogenesis and Mechanosensing
+## Plant Thigmomorphogenesis and Mechanosensing
 
 In "What a Plant Knows," [[arabidopsis-thaliana]], touch stimulation rapidly upregulates a
 specific set of genes -- the TCH (touch) genes -- within minutes. TCH genes

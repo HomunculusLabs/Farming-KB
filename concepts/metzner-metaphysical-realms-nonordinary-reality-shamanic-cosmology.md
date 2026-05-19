@@ -14,7 +14,7 @@ sources:
   - metzner-three-features-shamanic-entheogenic-ceremonies|metzner-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
-# Metaphysical Realms and Nonordinary Reality in Shamanic Cosmology
+## Metaphysical Realms and Nonordinary Reality in Shamanic Cosmology
 
 One of the most radical departures of metzner-three-features-shamanic-entheogenic-ceremonies-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner|multiple realities
 or worlds that can be explored in expanded fukuoka-descartes-western-philosophy-nature.

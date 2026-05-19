@@ -5,7 +5,7 @@ tags: [cannabis, chemotype, classification, cannabinoid-profile, taxonomy]
 created: 2025-06-13
 ---
 
-# Cannabis Chemotypes
+## Cannabis Chemotypes
 
 Cannabis chemotypes (also called chemovars) classify cannabis varieties by their chemical composition — specifically their cannabinoid and [[cannabis-for-cachexia-and-appetite-stimulation]] (HIV/AIDS, cancer cachexia), spasticity ([[cannabis-for-anxiety-disorders]], pediatric epilepsy, inflammatory conditions, spasticity, PTSD
 - **Considerations**: CBD modulates THC's effects, reducing anxiety and cognitive impairment while potentially extending therapeutic duration

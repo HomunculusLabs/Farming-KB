@@ -9,7 +9,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Complete Organic Fertilizer (COF) Recipes
+## Complete Organic Fertilizer (COF) Recipes
 
 Steve Solomon's Complete Organic Fertilizer (COF) is a balanced organic fertilizer mix designed for vegetable gardens. The formula provides complete nutrition including trace minerals, unlike most [[cervantes-compost-tea-organic-brewing]]
 

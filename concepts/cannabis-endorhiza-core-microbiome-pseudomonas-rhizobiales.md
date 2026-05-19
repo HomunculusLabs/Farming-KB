@@ -11,7 +11,7 @@ tags:
   - rhizobiales
 ---
 
-# Cannabis Endorhiza Core Microbiome
+## Cannabis Endorhiza Core Microbiome
 
 ## Overview
 

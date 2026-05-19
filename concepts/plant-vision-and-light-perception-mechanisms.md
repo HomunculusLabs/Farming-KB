@@ -2,7 +2,7 @@
 title: "Plant what-a-plant-knows-plant-vision-and-light-perception Perception Mechanisms"
 ---
 
-# Plant Vision and Light Perception Mechanisms
+## Plant Vision and Light Perception Mechanisms
 
 ## Overview
 

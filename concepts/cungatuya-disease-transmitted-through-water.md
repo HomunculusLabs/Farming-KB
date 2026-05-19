@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Cungatuya — Disease Transmitted Through Water
+## Cungatuya — Disease Transmitted Through Water
 
 ## Overview
 

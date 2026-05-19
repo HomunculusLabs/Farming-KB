@@ -8,7 +8,7 @@ sources:
   - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Max E. Winston
+## Max E. Winston
 
 Lead author of the first comprehensive characterization of the Cannabis microbiome (Winston et al. 2014, PLOS ONE). Research was conducted at The Field Museum (Chicago) and the University of Chicago Committee on Evolutionary Biology, with sequencing done at Argonne National Laboratory.
 

@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Sacred Puffballs and Gasteromycetes in Indigenous Cultures
+## Sacred Puffballs and Gasteromycetes in Indigenous Cultures
 
 Among the most fascinating aspects of [[psilocybin-chemistry-stability-indigenous-knowledge]] of fungal
 properties may precede and exceed [[lycoperdon-mixtecorum]]

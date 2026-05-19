@@ -12,7 +12,7 @@ sources:
   - raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md
 ---
 
-# Cactus Alkaloids Reference
+## Cactus Alkaloids Reference
 
 A comprehensive reference to the alkaloids found in [[san-pedro-cactus-preparation]] (*Trichocereus pachanoi*), and several other [[psychoactive-cacti-of-central-mexico]] species. Also found in *Acacia* species. Has pressor action with [[san-pedro-cactus-history]].
 

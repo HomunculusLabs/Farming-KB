@@ -9,7 +9,7 @@ tags:
   - european-cannabis
 ---
 
-# Sweet Pink Grapefruit — Alpine Seeds
+## Sweet Pink Grapefruit — Alpine Seeds
 
 ## Overview
 

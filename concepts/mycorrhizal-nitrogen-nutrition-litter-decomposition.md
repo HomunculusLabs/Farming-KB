@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Nitrogen Nutrition and Litter Decomposition Dynamics
+## Mycorrhizal Nitrogen Nutrition and Litter Decomposition Dynamics
 
 ## Overview
 

@@ -7,7 +7,7 @@ tags: [natural-farming, agriculture, gardening, philosophy]
 sources: [raw/papers/masacorporanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
 ---
 
-# Fukuoka Natural Farming Four Principles
+## Fukuoka Natural Farming Four Principles
 
 Masanobu Fukuoka distilled natural farming into four foundational principles. Together, they describe an agricultural system that produces food without human intervention beyond planting and harvesting.
 

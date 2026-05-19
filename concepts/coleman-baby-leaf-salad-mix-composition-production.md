@@ -13,7 +13,7 @@ topics:
   - harvest methods
 ---
 
-# Coleman Baby Leaf Salad Mix Composition and Production Methods
+## Coleman Baby Leaf Salad Mix Composition and Production Methods
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 
-# Gaia's Garden Sheet Mulching Guide
+## Gaia's Garden Sheet Mulching Guide
 
 [[allen-australian-psilocybe-species-comprehensive-guide]] to sheet mulching — [[holmgren-ecological-succession-and-pulsing]] from sugar-digesters to lignin-eating fungi
 - **Wastes nutrients:** Nutrient-rich liquids ooze out of the pile's base, wasted on ground with no plants

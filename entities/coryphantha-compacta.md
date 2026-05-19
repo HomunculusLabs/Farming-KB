@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Coryphantha compacta
+## Coryphantha compacta
 
 **Coryphantha compacta** (Engelm.) Britt. et Rose, commonly known as the **Pincushion Cactus**, is a small globular cactus native to the [[lophophora-williamsii]]), which may explain why the Tarahumara have incorporated it into their hikuli pharmacopoeia.
 

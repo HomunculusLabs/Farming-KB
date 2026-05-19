@@ -7,7 +7,7 @@ tags: [ayahuasquero, shaman, ayahuasca, peru, shipibo, icaros, ceremony, mestizo
 sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 ---
 
-# Ayahuasqueros and Shamanic Practice
+## Ayahuasqueros and Shamanic Practice
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-# Psilocybe semilanceata Profile
+## Psilocybe semilanceata Profile
 
 ## Overview
 

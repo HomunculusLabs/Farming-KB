@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# Schisandra vs Passionflower
+## Schisandra vs Passionflower
 
 ## Overview
 

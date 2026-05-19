@@ -8,7 +8,7 @@ sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
-# Salad Crops Growing Guide
+## Salad Crops Growing Guide
 
 updated: 2026-04-18
 

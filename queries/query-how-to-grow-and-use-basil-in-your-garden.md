@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# How to Grow and Use Basil in Your Garden
+## How to Grow and Use Basil in Your Garden
 
 ## Short Answer
 

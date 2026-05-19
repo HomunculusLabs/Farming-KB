@@ -21,7 +21,7 @@ sources:
 - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-# Andy Letcher
+## Andy Letcher
 
 British author, musician, and academic, best known for "Shroom: A Cultural History of the Magic Mushroom" (2006), a critical examination of the myths, stories, and history surrounding [[archaeology-of-psychedelic-mushrooms]] [[mycophobia-in-western-culture]].
 

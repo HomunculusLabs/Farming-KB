@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Sacred Boletes, Russula, and Gasteromycetes
+## Sacred Boletes, Russula, and Gasteromycetes
 
 Guzmán, Allen and Gartz (1998/2000) identified a fourth category of neurotropic
 fungi: species used as integrate-rather-than-segregate confirmed chemistry.

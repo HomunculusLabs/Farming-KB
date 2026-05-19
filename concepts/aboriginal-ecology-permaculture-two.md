@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [papers/bill-mollison-permaculture-two-practical-design-for-to.md]
 ---
-# Aboriginal Ecology and Permaculture
+## Aboriginal Ecology and Permaculture
 updated: 2026-04-18
 Permaculture Two (1979) Chapter 1 opens with Aboriginal ecology
 as a foundational model for [[fukuoka-natural-farming-in-arid-regions]] will be (almost solely)

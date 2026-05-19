@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Palm Planting Patterns and Mulch Systems
+## Palm Planting Patterns and Mulch Systems
 
 The design of palm polycultures—particularly coconut-based systems—is a central topic in tropical [[permaculture]]. The choice between clump and grid planting, combined with strategic mulch provision [[mollison-designers-tropical-terrace-design-and-earth-shaping]], determines both yield and the amount of ground area available for intercropping, livestock, and water harvesting.
 

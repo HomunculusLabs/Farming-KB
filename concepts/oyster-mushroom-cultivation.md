@@ -7,7 +7,7 @@ tags: [oyster-mushroom, mushroom-cultivation, pleurotus, fungi, mycology, straw,
 sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 
-# Oyster Mushroom Cultivation
+## Oyster Mushroom Cultivation
 
 Oyster mushrooms (Pleurotus spp.) are among the easiest and most rewarding mushrooms to cultivate. They are aggressive colonizers, grow on a wide variety of substrates, fruit prolifically, and have broad market appeal.
 

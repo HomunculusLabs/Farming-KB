@@ -19,7 +19,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
-# Permaculture
+## Permaculture
 
 Permaculture is a holistic design system for creating sustainable human
 settlements and agriculture that work with natural ecological processes. The

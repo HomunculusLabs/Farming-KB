@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Plant Teachers (Doctores) in Amazonian Shamanism
+## Plant Teachers (Doctores) in Amazonian Shamanism
 
 In Amazonian vegetalismo, every plant is understood to possess a spirit --
 a conscious, living essence that sees everything. As [[ayahuasca-preparation]]|Ayahuasca ([[chacruna-psychotria-viridis]]) is the essential companion to ayahuasca. In

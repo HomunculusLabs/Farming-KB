@@ -8,7 +8,7 @@ sources:
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
-# The Dissolution of the Dominator Culture
+## The Dissolution of the Dominator Culture
 
 ## Approaching the Event Horizon
 

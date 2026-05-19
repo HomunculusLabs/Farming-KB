@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungicolous Fungi on Spores, Sclerotia, and Oospores
+## Fungicolous Fungi on Spores, Sclerotia, and Oospores
 Fungal resting structures -- spores, sclerotia, and oospores -- provide
 nutrient-rich targets for diverse mycoparasitic fungi. These interactions have
 major implications for plant pathology, biological control, and mycorrhizal

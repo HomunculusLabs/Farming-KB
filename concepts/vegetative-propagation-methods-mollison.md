@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-# Vegetative Propagation Methods (Mollison)
+## Vegetative Propagation Methods (Mollison)
 Updated: 2026-04-18
 Source: Permaculture: A Designers' Manual, [[mollison-designers-willow-water-and-natural-rooting-propagation]] hormone solution can improve
 strike rates for a wide range of difficult-to-root species.

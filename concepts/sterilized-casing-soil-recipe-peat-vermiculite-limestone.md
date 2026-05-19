@@ -5,7 +5,7 @@ created: 2026-05-09
 source: guid-mhtml_file___e___textos__mycology__exotic_
 ---
 
-# Sterilized Casing Soil Recipe: Peat, Vermiculite, and Limestone
+## Sterilized Casing Soil Recipe: Peat, Vermiculite, and Limestone
 
 ## Overview
 

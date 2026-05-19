@@ -6,7 +6,7 @@ date: 2026-05-09
 aliases: [DCT Mushroom Fruiting, PF Tek Fruiting Chamber, Mushroom Terrarium]
 ---
 
-# Dual Chambered Terrarium Mushroom Fruiting
+## Dual Chambered Terrarium Mushroom Fruiting
 
 The Dual Chambered Terrarium (DCT) is the fruiting chamber design developed by
 [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]].

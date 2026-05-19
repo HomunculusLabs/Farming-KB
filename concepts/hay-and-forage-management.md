@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Hay and Forage Management
+## Hay and Forage Management
 
 Producing and managing high-quality hay and forage is essential for any
 livestock homestead. Winter feeding typically represents 40-60% of annual

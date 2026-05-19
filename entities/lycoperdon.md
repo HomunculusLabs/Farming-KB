@@ -5,7 +5,7 @@ type: entity
 tags: [genus, puffball, fungi, edible, medicinal]
 ---
 
-# Lycoperdon
+## Lycoperdon
 
 ## Description
 

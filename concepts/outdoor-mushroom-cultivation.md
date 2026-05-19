@@ -6,7 +6,7 @@ type: concept
 tags: [cultivation, mycology]
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
-# Outdoor Mushroom Cultivation
+## Outdoor Mushroom Cultivation
 
 Outdoor [[growing-gourmet-sawdust-spawn-production-use]] in drilled holes
 4. Seal inoculation sites with food-grade wax

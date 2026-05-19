@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 ---
 
-# Lepista nuda (Blewit)
+## Lepista nuda (Blewit)
 
 ## Taxonomy
 

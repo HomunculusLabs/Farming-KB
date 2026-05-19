@@ -1,4 +1,8 @@
-# Panaeolina foenisecii Psilocybin Controversy and Conflicting Chemical Analyses
+---
+title: "Panaeolina foenisecii Psilocybin Controversy and Conflicting Chemical Analyses"
+tags:
+  - concept
+---
 
 ## Source
 *Guzmán, Allen & Gartz (2000) — A Worldwide Geographical Distribution of the [[psilocybe-as-dominant-neurotropic-fungus-genus]] remains one of the most contested

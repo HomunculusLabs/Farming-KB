@@ -9,7 +9,7 @@ sources:
   - "raw/papers/laminar-flow-hood-construction-1.md"
 type: query
 ---
-# How Do I Grow Cordyceps Mushrooms?
+## How Do I Grow Cordyceps Mushrooms?
 ## Short Answer
 Cordyceps militaris can be grown at home by inoculating sterilized grain substrates (typically rice-based) with liquid culture or agar culture in sterile jars, then incubating at 20 to 25 degrees Celsius with 12 hours of light daily until orange fruiting bodies emerge.
 The entire grow happens inside sealed jars without a separate [[cordyceps-sinensis]] grows only on specific caterpillars in the high Himalayas and cannot be practically cultivated, Cordyceps militaris can be grown on grain substrates.

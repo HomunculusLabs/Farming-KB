@@ -11,7 +11,7 @@ sources:
 type: concept
 ---
 
-# Buildings, Tools and Equipment for Mushroom Cultivation
+## Buildings, Tools and Equipment for Mushroom Cultivation
 
 A properly set up [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] houses,
 allowing rotation of mushroom bags through the production cycle. Mushroom

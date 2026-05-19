@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Coco Coir vs Peat-Free Gardening
+## Coco Coir vs Peat-Free Gardening
 
 ## Overview
 Coco coir and peat-free gardening approaches both offer alternatives to

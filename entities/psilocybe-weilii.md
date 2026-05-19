@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe weilii
+## Psilocybe weilii
 
 **Psilocybe weilii** (nom. prov.) is a moderately potent [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the pine-sweetgum association. Its restricted known range and specific habitat requirements make it one of the more geographically limited [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]. It therefore remains a provisional name awaiting formal typification and peer-reviewed publication. Until validly published, the name carries no standing in botanical or mycological nomenclature and should be regarded as provisional.
 

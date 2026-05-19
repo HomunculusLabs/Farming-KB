@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# A Critique of the Laws of Agricultural Science
+## A Critique of the Laws of Agricultural Science
 
 [[fukuoka-critique-of-liebig-law-of-minimum]], one of the most cherished principles of agronomy and the intellectual cornerstone of [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]]: each scientist touches a different part of the elephant and believes they have comprehended the whole. The agricultural scientist who isolates one law believes they have grasped a fundamental truth, when in fact they have grasped only a fragment of a fragment. The more precisely they describe their fragment, the further they drift from understanding the living whole.
 

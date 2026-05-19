@@ -4,7 +4,7 @@ source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# Cannabis: History, Classification, and Chemistry
+## Cannabis: History, Classification, and Chemistry
 
 ## Botany and Morphology
 

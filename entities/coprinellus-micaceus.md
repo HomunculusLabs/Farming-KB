@@ -26,7 +26,7 @@ sources:
     APS Press.
 ---
 
-# Coprinellus micaceus
+## Coprinellus micaceus
 
 ## Overview
 

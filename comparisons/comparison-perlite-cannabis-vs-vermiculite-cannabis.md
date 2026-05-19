@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Perlite vs Vermiculite for Cannabis
+## Perlite vs Vermiculite for Cannabis
 
 ## Overview
 Perlite and vermiculite are both lightweight mineral soil amendments used to

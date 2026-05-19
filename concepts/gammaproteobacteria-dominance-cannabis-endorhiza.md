@@ -8,7 +8,7 @@ aliases: [Proteobacteria Cannabis Endorhiza, Endophytic Gammaproteobacteria,
   Cannabis Root Endophyte Communities]
 ---
 
-# Gammaproteobacteria Dominance in Cannabis Endorhiza
+## Gammaproteobacteria Dominance in Cannabis Endorhiza
 
 The first comprehensive characterization of the [[cannabis-endorhiza-bacterial-communities]] are
 dominated by Proteobacteria — specifically Gammaproteobacteria and

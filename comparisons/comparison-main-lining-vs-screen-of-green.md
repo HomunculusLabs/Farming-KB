@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Main-Lining vs Screen of Green
+## Main-Lining vs Screen of Green
 ## Overview
 Main-lining and Screen of Green (SCROG) are two of the most effective plant [[cannabis-training-techniques-comparison]]
 Screen of Green (SCROG) uses a horizontal mesh screen, typically made of nylon netting,

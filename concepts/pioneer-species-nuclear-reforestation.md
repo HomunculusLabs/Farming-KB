@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Pioneer Species and Nuclear Reforestation
+## Pioneer Species and Nuclear Reforestation
 
 Pioneer species are the first colonizers of degraded, barren, or disturbed land. In permaculture, understanding how to deploy them strategically—particularly through **nuclear reforestation**—is essential for restoring landscapes that have been cleared, overgrazed, or otherwise damaged. [[bill-mollison]] emphasizes that forest re-establishment is not a matter of planting scattered individuals across a landscape, but of creating concentrated nuclei from which forests can expand naturally and powerfully.
 

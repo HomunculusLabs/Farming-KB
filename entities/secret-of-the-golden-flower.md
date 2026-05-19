@@ -5,7 +5,7 @@ type: entity
 tags: [text, chinese, taoism, alchemy, meditation]
 ---
 
-# The Secret of the Golden Flower
+## The Secret of the Golden Flower
 
 ## Description
 *The Secret of the Golden Flower* (Chinese: 太乙金華宗旨, "The Secret of the Golden Flower of the Great One") is a Chinese Taoist meditation text that became influential in the West through Carl Jung's psychological commentary on the Richard Wilhelm translation (1929). In *The Psychedelic Experience*, it is listed among the eastern texts that Jung engaged with, writing "perceptive brilliant forewords."

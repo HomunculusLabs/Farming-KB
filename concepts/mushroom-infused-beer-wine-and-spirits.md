@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mushroom-Infused Beer, Wine, and Spirits
+## Mushroom-Infused Beer, Wine, and Spirits
 
 Combining the health benefits of [[medicinal-mushrooms]] with the world's most widely consumed alcoholic beverages creates a unique category of functional brews. Mushroom-infused beer, wine, and spirits offer an accessible and enjoyable delivery system for fungal extracts and [[cordyceps-cancer-bioactive-compounds]]. This practice, which gained public attention at the 2012 Telluride Mushroom Festival where 240 gallons of medicinal mushroom beer sold out in under 48 hours, bridges the gap between mycology and craft brewing.
 

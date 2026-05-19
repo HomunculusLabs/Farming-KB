@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Agrocybe (Black Poplar / Pioppino) Cultivation
+## Agrocybe (Black Poplar / Pioppino) Cultivation
 
 ## Overview
 

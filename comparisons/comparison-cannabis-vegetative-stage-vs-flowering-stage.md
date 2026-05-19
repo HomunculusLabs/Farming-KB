@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Cannabis Vegetative Stage vs Flowering Stage
+## Cannabis Vegetative Stage vs Flowering Stage
 
 ## Overview
 

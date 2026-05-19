@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Woronin Bodies and Multicellular Organization in Fungi
+## Woronin Bodies and Multicellular Organization in Fungi
 
 ## Overview
 

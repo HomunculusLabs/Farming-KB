@@ -4,7 +4,7 @@ source: Permaculture: Principles & Pathways Beyond Sustainability (Holmgren, 200
 tags: [permaculture, design, sustainability, ethics, energy-descent, holmgren]
 ---
 
-# Holmgren's Twelve Permaculture Design Principles Framework
+## Holmgren's Twelve Permaculture Design Principles Framework
 
 ## Overview
 

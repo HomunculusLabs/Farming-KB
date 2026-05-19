@@ -1,4 +1,8 @@
-# Amnesia Haze — Origins, Genetics, and Cultivation Profile
+---
+title: "Amnesia Haze — Origins, Genetics, and Cultivation Profile"
+tags:
+  - concept
+---
 
 **Source:** S.T. Oner, *[[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in modern European cannabis culture. Bred by Royal Queen Seeds, Amnesia Haze has become a staple of Dutch coffee shops and a favorite among European growers and consumers. The strain is known for its potent cerebral effects that can leave even veteran smokers momentarily disconnected from their surroundings—hence the "Amnesia" name.
 
@@ -144,5 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[dom]]
-- [[super-lemon-haze-genetics-cultivation-effects-oner]]
-- [[oner-critical-haze-amnesia-critical-mass-yield-optimization]]

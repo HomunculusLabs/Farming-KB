@@ -8,7 +8,7 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
-# Visionary Symbols and Universal Archetypes
+## Visionary Symbols and Universal Archetypes
 
 The visionary experiences produced by [[five-historical-periods-neurotropic-fungi-discovery-guzman-1998]], and religious traditions.
 

@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Mycoremediation Testing Methods
+## Mycoremediation Testing Methods
 
 Low-tech biological assays provide accessible, cost-effective ways to evaluate whether [[mycoremediation]] and [[mycofiltration-overview]] efforts have meaningfully reduced contaminant toxicity. While they cannot identify specific degradation products or confirm complete mineralization, bioassays offer an integrative measure of residual biological harm that chemical analysis alone may miss. The three core assays described here—bean germination, earthworm survival, and bacterial contamination—form a practical triad for field-level assessment.
 

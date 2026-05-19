@@ -1,4 +1,8 @@
-# Compost Tea Pathogen Safety: Coliforms, E. coli, and Plant vs. Human Pathogens
+---
+title: "Compost Tea Pathogen Safety: Coliforms, E. coli, and Plant vs. Human Pathogens"
+tags:
+  - concept
+---
 **Source:** The Field Guide I for [[ingham-anaerobic-vs-aerobic-compost-tea]] tea is fundamentally different from contaminated food products.
 
 ## The Fundamental Distinction: Plant Surfaces vs. Sterile Foods

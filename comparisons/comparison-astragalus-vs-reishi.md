@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Astragalus vs Reishi
+## Astragalus vs Reishi
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# Psilocybe azurescens Species Guide
+## Psilocybe azurescens Species Guide
 
 ## Overview
 

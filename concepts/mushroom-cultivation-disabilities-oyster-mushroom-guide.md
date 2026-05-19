@@ -8,7 +8,7 @@ type: concept
 tags: [cultivation, mushroom-cultivation, oyster-mushroom]
 ---
 
-# Mushroom Cultivation for Disabilities - Oyster Mushroom Guide
+## Mushroom Cultivation for Disabilities - Oyster Mushroom Guide
 
 The FAO training manual provides a comprehensive step-by-step guide to oyster mushroom (Pleurotus ostreatus) cultivation, with all illustrated tasks having been performed by disabled trainees. The guide covers the complete production cycle from tissue culture through harvesting, with adaptations for people with various disabilities.
 

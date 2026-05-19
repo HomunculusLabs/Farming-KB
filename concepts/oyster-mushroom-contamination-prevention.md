@@ -3,10 +3,10 @@ title: Oyster oyster-mushroom-contamination-management Prevention
 created: 2026-04-28
 updated: 2026-04-28
 tags: [mycology, cultivation, oyster-mushroom, contamination]
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Oyster Mushroom Contamination Prevention
+## Oyster Mushroom Contamination Prevention
 
 Contamination by competing fungi, bacteria, or pests is the most persistent
 challenge in [[cultivation-of-oyster-mushrooms]] grow relatively quickly

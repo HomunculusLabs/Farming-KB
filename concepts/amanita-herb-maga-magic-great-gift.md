@@ -1,7 +1,7 @@
 ---
 
 ---
-# Maga: The Great Gift and Root of Magic
+## Maga: The Great Gift and Root of Magic
 
 In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter identifies the Proto-Indo-European word "Maga" (The Great Gift) as the original name for amanita-muscaria-living-vessel-grail), produced healing and visionary experiences, and transformed simple food and water into a communion meal with a "Living God." The "Magic" was real natural phenomena that appeared miraculous to people who did not understand mycology.
 

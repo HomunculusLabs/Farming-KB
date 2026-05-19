@@ -22,7 +22,7 @@ sources:
   - "Eichler, M. et al. (2022). 'Phytocannabinoid Profiling of Popular cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains.' Cannabis and Cannabinoid Research."
   - " Cannabis Now. 'The Real Story Behind Pineapple Express.' https://cannabisnow.com"---
 
-# Pineapple Express
+## Pineapple Express
 
 ## Overview
 

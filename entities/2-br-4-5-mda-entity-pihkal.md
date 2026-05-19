@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2-Br-4,5-MDA
+## 2-Br-4,5-MDA
 
 PIHKAL entry #19. 2-Bromo-4,5-methylenedioxy-A.
 

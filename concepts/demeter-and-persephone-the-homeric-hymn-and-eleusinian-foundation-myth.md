@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Demeter and Persephone: The Homeric Hymn and Eleusinian Foundation Myth
+## Demeter and Persephone: The Homeric Hymn and Eleusinian Foundation Myth
 
 The Homeric Hymn to Demeter (7th century BC) is the foundational text for understanding the [[demeter-and-persephone-in-eleusinian-mythology]]
 - [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]

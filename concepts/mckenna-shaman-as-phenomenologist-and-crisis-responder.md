@@ -6,7 +6,7 @@ tags: [shamanism, ethnobotany, psychedelics, mckenna, indigenous-knowledge, plan
 created: 2026-05-09
 ---
 
-# The Shaman as Phenomenologist and Crisis Responder
+## The Shaman as Phenomenologist and Crisis Responder
 
 ## Overview
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka American Agriculture Observations
+## Fukuoka American Agriculture Observations
 
 Updated: 2026-04-20
 

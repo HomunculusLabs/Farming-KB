@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-two-practical-design-for-to.md
 type: concept
 ---
 
-# On-Farm Alcohol Fuel Production from Cellulose
+## On-Farm Alcohol Fuel Production from Cellulose
 
 On-farm alcohol production from agricultural wastes and crops provides communities and farmers with energy self-sufficiency, eliminating dependence on centralized fossil fuel infrastructure. Mollison presents this as a proven, simple technology that has been deliberately suppressed by government and corporate interests.
 

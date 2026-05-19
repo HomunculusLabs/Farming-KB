@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Carbon Storage in Soils
+## Fungal Carbon Storage in Soils
 
 Fungi play a central role in soil carbon storage through multiple pathways including root-[[mycorrhizal-carbon-allocation]], extraradical hyphal biomass production, glomalin deposition, and [[singh-fungal-roles-in-soil-aggregate-formation]]. Understanding these mechanisms is critical for predicting how soils will respond to elevated atmospheric CO₂ and climate change.
 

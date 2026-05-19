@@ -1,4 +1,8 @@
-# Soil Freezing Requirements for Sustainable Vegetable Gardening
+---
+title: "Soil Freezing Requirements for Sustainable Vegetable Gardening"
+tags:
+  - concept
+---
 **Source:** Gardening When It Counts - Steve Solomon (2005)
 
 ## Overview

@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, seasons, foraging, ecology, phenology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
+sources: ["raw/papers/benjamin-minge-duggar-mushroom-growing.md"]
 type: concept
 ---
-# Mushroom Picking Seasons
+## Mushroom Picking Seasons
 
 The availability of wild mushrooms follows predictable seasonal patterns
 closely tied to temperature, rainfall, and the biological cycles of the fungi.

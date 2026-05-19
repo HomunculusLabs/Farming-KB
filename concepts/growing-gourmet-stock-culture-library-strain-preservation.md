@@ -6,7 +6,7 @@ tags: [mycology, mushroom-cultivation, strain-preservation, genetics, cryogenics
 created: 2026-05-10
 ---
 
-# Stock Culture Library: A Genetic Bank of Mushroom Strains
+## Stock Culture Library: A Genetic Bank of Mushroom Strains
 
 ## Overview
 

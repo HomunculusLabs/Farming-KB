@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Frost Protection and Thermal Belts
+## Frost Protection and Thermal Belts
 
 Frost is one of the most significant limiting factors for plant growth and agricultural production in temperate and cold climates. Understanding the mechanisms of frost formation, the role of landscape position in frost risk, and the strategies available for frost protection is essential knowledge for [[acacia-dealbata]]*)
 2. **Stage 2:** Plant semi-hardy fruit trees in the shelter of the established wattles

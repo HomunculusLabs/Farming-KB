@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Ecological Succession in Design
+## Ecological Succession in Design
 
 [[permaculture]], succession is not merely observed — it is actively designed and accelerated, allowing designers to establish productive, self-maintaining systems in a fraction of the time natural succession would require.
 

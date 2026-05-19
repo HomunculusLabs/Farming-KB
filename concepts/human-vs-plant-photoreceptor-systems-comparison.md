@@ -6,7 +6,7 @@ topics: [botany, photoreceptors, vision, phytochrome, phototropism, plant-biolog
 created: 2026-05-09
 ---
 
-# Human vs Plant Photoreceptor Systems Comparison
+## Human vs Plant Photoreceptor Systems Comparison
 
 ## Defining Vision
 

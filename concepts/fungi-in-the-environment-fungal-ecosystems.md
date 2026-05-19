@@ -4,9 +4,9 @@ created: 2026-04-21
 updated: 2026-04-18
 type: concept
 tags: [mycology, fungi]
-sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
-# Fungi in Ecosystems Fungi are integral components of virtually all terrestrial ecosystems, playing pivotal roles in [[soil-fungi-and-carbon-cycling]] are important drivers of carbon cycling and storage in ecosystems. Ectomycorrhizal fungi can receive 15-30% of net photosynthate in many forest ecosystems. The fate of this carbon varies: some is respired, some contributes to soil organic matter through turnover of mycelium and production of recalcitrant compounds.
+## Fungi in Ecosystems Fungi are integral components of virtually all terrestrial ecosystems, playing pivotal roles in [[soil-fungi-and-carbon-cycling]] are important drivers of carbon cycling and storage in ecosystems. Ectomycorrhizal fungi can receive 15-30% of net photosynthate in many forest ecosystems. The fate of this carbon varies: some is respired, some contributes to soil organic matter through turnover of mycelium and production of recalcitrant compounds.
 
 EM fungi such as Cenococcum geophilum produce mycelium with highly thickened cell walls containing recalcitrant compounds that decay very slowly, contributing to long-term soil carbon sequestration. AM fungi also affect carbon sequestration processes, but through different mechanisms related to their effects on soil aggregation and decomposition.
 

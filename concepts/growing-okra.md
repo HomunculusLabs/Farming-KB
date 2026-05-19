@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Growing Okra
+## Growing Okra
 
 Okra is a heat-loving crop that produces best in hot, humid conditions. The plants can get quite large and will continue bearing as long as they can continue growing roots and accessing moisture. It's a perfect crop for periodic fertigation and an excellent choice for southern gardens.
 

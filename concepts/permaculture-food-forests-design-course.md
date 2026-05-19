@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-# Permaculture Food Forests (Design Course)
+## Permaculture Food Forests (Design Course)
 **Source:** [[bill-mollison]] (1981, Pamphlet X)
 **Updated:** 2026-04-18
 ## Overview

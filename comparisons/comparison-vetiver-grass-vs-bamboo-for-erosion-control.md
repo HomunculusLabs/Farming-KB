@@ -21,7 +21,7 @@ sources:
 type: comparison
 ---
 
-# Vetiver Grass vs Bamboo for Erosion Control
+## Vetiver Grass vs Bamboo for Erosion Control
 
 Vetiver grass (*Chrysopogon zizanioides*) and bamboo are two of the most widely used plants for erosion control worldwide. Both offer strong vegetative approaches to slope stabilization, but they differ significantly in root architecture, growth habit, invasiveness, and secondary benefits. This comparison covers the practical tradeoffs between the two for land management decisions.
 

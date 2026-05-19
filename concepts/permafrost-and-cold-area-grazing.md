@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permafrost and Cold Area Grazing Systems
+## Permafrost and Cold Area Grazing Systems
 
 [[permafrost]] landscapes and cold-climate grazing systems represent some of the most fragile and complex environments addressed in [[permaculture-design]]. [[bill-mollison]]'s treatment of these topics spans snow mechanics, permafrost ecology, and practical grazing management, drawing heavily from Icelandic case studies and northern hemisphere research. Understanding the physical processes at work — from frost shattering to gelifluction — is essential for designing resilient cold-climate systems that work with rather than against extreme conditions.
 

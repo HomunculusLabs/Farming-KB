@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis for Crohn's Disease and Inflammatory Bowel Disease
+## Cannabis for Crohn's Disease and Inflammatory Bowel Disease
 
 Inflammatory bowel disease (IBD) primarily affects the gastrointestinal tract and is associated with chronic inflammation. Ulcerative colitis is a form of IBD that can affect other body parts. Crohn's disease, another form of IBD, is an autoimmune disorder affecting the GI tract. [[cannabis-cannabinoid-receptor-pharmacology]] relevant to anti-inflammatory action
 

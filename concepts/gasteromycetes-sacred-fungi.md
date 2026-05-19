@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Gasteromycetes Used as Sacred Fungi
+## Gasteromycetes Used as Sacred Fungi
 
 ## What Are Gasteromycetes?
 

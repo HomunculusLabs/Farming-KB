@@ -1,7 +1,7 @@
 ---
 
 ---
-# Pinning Initiation Stages and Environmental Control
+## Pinning Initiation Stages and Environmental Control
 
 ## Overview
 
@@ -25,7 +25,7 @@ requirements can inhibit or stop the process.
 
 ## Merged: Pinhead Initiation and Fruiting Triggers
 
-# Pinhead Initiation and Fruiting Triggers
+## Pinhead Initiation and Fruiting Triggers
 
 Pinhead initiation (primordia formation) is the critical transition from vegetative mycelial growth to reproductive fruitbody development in psychedelic-mushroom-set-and-setting: Less dramatic temperature shift needed
 

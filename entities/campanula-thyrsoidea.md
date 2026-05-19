@@ -15,7 +15,7 @@ sources:
   - Webb, D.A. (1980). "Irish Bellflowers." Irish Naturalists' Journal, 19(12): 421-426.
 ---
 
-# Campanula thyrsoidea
+## Campanula thyrsoidea
 
 ## Overview
 

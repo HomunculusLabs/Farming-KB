@@ -22,7 +22,7 @@ sources:
   - De Meijer, E.P.M. et al. (2003). "The inheritance of chemical phenotype
     in comparison-cannabis-sativa-vs-cannabis-indica L." Genetics.
 ---
-# Vietnam Black
+## Vietnam Black
 
 **Vietnam Black** is a rare pure sativa southeast-asian-mushroom-tourism-bali to landrace genetics
 

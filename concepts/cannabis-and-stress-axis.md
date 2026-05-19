@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis and the Hypothalamic-Pituitary-Adrenal Stress Axis
+## Cannabis and the Hypothalamic-Pituitary-Adrenal Stress Axis
 
 The relationship between cannabis and the body's [[cannabis-endocannabinoid-system]]
 - [[cannabis-sleep-disorders-and-insomnia]]

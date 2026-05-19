@@ -8,7 +8,7 @@ sources: [a-selection-permaculture-plants.md]
 type: entity
 ---
 
-# Salix alba
+## Salix alba
 
 **Type:** Species (Tree)
 **Category:** Riparian tree ([[comparison-jasmonate-vs-salicylic-acid-defense-signaling]],

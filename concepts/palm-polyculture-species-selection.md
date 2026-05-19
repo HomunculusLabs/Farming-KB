@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Palm Polyculture Species Selection
+## Palm Polyculture Species Selection
 
 The design of palm-based polycultures draws on a fundamental permaculture principle: any humid tropical system that imitates the normal structure of a tropical forest is likely to succeed. "Structure" here refers to the final cross-sectional appearance of the polyculture—the vertical and horizontal layering of canopy, understory, ground covers, and root zones. Species selection is the critical design decision that determines whether this forest-like structure can be achieved and sustained over time.
 

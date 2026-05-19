@@ -6,7 +6,7 @@ type: concept
 tags: [psilocybin, mushrooms]
 sources: [papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
-# Psilocybin Mushroom Microscopic Identification
+## Psilocybin Mushroom Microscopic Identification
 
 The microscopic features essential for accurate identification of psilocybin-containing mushrooms, including spore characteristics, cap cuticle structure, and cystidia morphology.
 

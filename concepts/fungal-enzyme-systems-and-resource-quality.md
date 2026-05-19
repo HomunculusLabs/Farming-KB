@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Enzyme Systems and Resource Quality
+## Fungal Enzyme Systems and Resource Quality
 
 ## Overview
 

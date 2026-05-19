@@ -6,7 +6,7 @@ created: 2026-05-10
 source: Masanobu Fukuoka - The Natural Way of Farming
 ---
 
-# Fukuoka's Desert Revegetation Vision
+## Fukuoka's Desert Revegetation Vision
 
 Masanobu Fukuoka proposed one of the most ambitious [[clay-pellet-seed-broadcasting]] to revegetate
 the world's deserts and reverse the global spread of desertification. His

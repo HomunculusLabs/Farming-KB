@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How to Fix Nitrogen Toxicity in Cannabis
+## How to Fix Nitrogen Toxicity in Cannabis
 
 ## Short Answer
 Nitrogen toxicity in cannabis is caused by excessive nitrogen availability, leading to

@@ -16,7 +16,7 @@ sources:
   - "Moerman, D. (1998). \"halpern-sacramental-peyote-and-native-american-church Ethnobotany.\" Timber Press."
 ---
 
-# Veronicastrum virginicum (Culver's Root)
+## Veronicastrum virginicum (Culver's Root)
 
 ## Overview
 

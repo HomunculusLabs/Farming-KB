@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
-# Cannabis for Musculoskeletal Conditions
+## Cannabis for Musculoskeletal Conditions
 
 Musculoskeletal conditions including arthritis, fibromyalgia, and related disorders are among the most common reasons patients seek medical cannabis. The [[cannabidiol-therapeutic-mechanisms]].
 

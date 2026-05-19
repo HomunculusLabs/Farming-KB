@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, livestock, forage, byproducts, livestock-
 sources: []
 ---
 
-# Cattle Husbandry
+## Cattle Husbandry
 
 Cattle are the largest and most land-intensive homestead livestock, but they
 offer unmatched production of meat, milk, and draft power. On a homestead

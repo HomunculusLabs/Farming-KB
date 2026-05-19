@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Pre-Flowering and Sexing Cannabis Plants
+## Pre-Flowering and Sexing Cannabis Plants
 
 Chapter 7 of [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]
 

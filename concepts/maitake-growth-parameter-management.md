@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Growth Parameter Management
+## Maitake Growth Parameter Management
 
 Comprehensive management of four key growth parameters—temperature, relative humidity,
 light, and ventilation (O₂ vs CO₂)—is critical for successful commercial cultivation of

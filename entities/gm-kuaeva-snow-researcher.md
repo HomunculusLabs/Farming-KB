@@ -5,7 +5,7 @@ type: person
 tags: [researcher, snow-science, cold-climate, soviet-science]
 ---
 
-# G. M. Kuaeva
+## G. M. Kuaeva
 
 ## Description
 

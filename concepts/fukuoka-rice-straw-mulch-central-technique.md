@@ -16,7 +16,7 @@ sources:
   - masanobu-fukuoka-fukuoka.md
 ---
 
-# Rice Straw Mulch in Natural Farming
+## Rice Straw Mulch in Natural Farming
 
 ## Overview
 

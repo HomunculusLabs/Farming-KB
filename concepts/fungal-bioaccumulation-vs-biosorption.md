@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Bioaccumulation vs Biosorption
+## Fungal Bioaccumulation vs Biosorption
 
 Understanding the distinction between bioaccumulation and biosorption is
 essential for designing effective fungal [[fungal-exopolysaccharides-and-extracellular-polymers]]. It occurs with both living and dead biomass,

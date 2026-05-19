@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.m
 type: concept
 ---
 
-# Cannabis Polyploidy and Colchicine Treatment
+## Cannabis Polyploidy and Colchicine Treatment
 
 Polyploidy is the condition of multiple sets of chromosomes within one
 cell. Cannabis has 20 chromosomes in the vegetative diploid (2n)

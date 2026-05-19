@@ -18,7 +18,7 @@ sources:
   - "Ferreira, J.F.S. & Janick, J. (1996). \"Artemisia annua: Botany, Horticulture, Pharmacology.\" Horticultural Reviews, 18, 159–196."
 ---
 
-# Artemisia annua (Sweet Wormwood)
+## Artemisia annua (Sweet Wormwood)
 
 ## Overview
 

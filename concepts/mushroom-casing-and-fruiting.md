@@ -4,7 +4,7 @@ source: magic-mushroom-growers-guide-ot-oss-on-oeric.md
 type: concept
 ---
 
-# Mushroom Casing and Fruiting
+## Mushroom Casing and Fruiting
 
 Casing is the process of covering fully colonized substrate with a layer of non-nutritive soil or soil-like material to induce [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] (fruiting). In commercial [[mushroom-cultivation]], casing is a standard practice that triggers the transition from [[maitake-spawn-run-vegetative-mycelial-phases]] growth to the production [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. The technique was adapted by Oss & Oeric (1976) for indoor cultivation of *[[stropharia-cubensis]]* on rye [[grain-spawn]].
 

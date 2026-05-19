@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, cultivation, species, species-profiles, food, foraging,
 sources: []
 ---
 
-# Agaricus Species Guide
+## Agaricus Species Guide
 
 The genus Agaricus contains some of the most commercially important and widely consumed mushrooms in the world, including the common button mushroom and its mature forms (cremini and portobello). The genus also includes excellent wild-foraged species and a few toxic members that foragers must learn to distinguish.
 

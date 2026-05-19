@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Natural Pool Design and Water Conservation
+## Natural Pool Design and Water Conservation
 
 ## Overview
 

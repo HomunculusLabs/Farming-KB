@@ -5,7 +5,7 @@ topics: alcohol flame, needle sterilization, denatured alcohol, butane vs alcoho
 created: 2026-05-08
 ---
 
-# PF Tek Alcohol Flaming Sterilization Method
+## PF Tek Alcohol Flaming Sterilization Method
 
 ## Overview
 

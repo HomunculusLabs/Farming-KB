@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
-# The Wasson-Hofmann Psilocybin Connection
+## The Wasson-Hofmann Psilocybin Connection
 
 The chain of events connecting [[australian-magic-mushroom-common-names]]" brought the mushrooms to worldwide attention
 

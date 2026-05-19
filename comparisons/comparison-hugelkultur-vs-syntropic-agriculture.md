@@ -13,7 +13,7 @@ sources:
 type: comparison
 ---
 
-# Hugelkultur vs Syntropic Agriculture
+## Hugelkultur vs Syntropic Agriculture
 
 A comparison of two regenerative agriculture systems that build soil fertility and resilience through ecological principles. Both mimic natural processes but differ significantly in methodology, scale, and management intensity.
 

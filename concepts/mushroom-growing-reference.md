@@ -29,7 +29,7 @@ sources:
 - raw/papers/growing-psilocybe-azurescens.md
 ---
 
-# Mushroom Growing Reference
+## Mushroom Growing Reference
 
 Complete practical reference synthesizing all cultivation sources into one actionable page. See [[mushroom-cultivation-methods]] for method selection and [[mushroom-contamination-identification]] for problem-solving.
 

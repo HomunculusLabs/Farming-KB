@@ -7,7 +7,7 @@ tags: [remediation, environment]
 sources: []
 ---
 
-# Bioremediation of Polycyclic Aromatic Hydrocarbons
+## Bioremediation of Polycyclic Aromatic Hydrocarbons
 
 Polycyclic aromatic hydrocarbons (PAHs) are a class of [[fungal-pah-degradation-pathways]], and [[singh-ligninolytic-enzymes-fungal-bioremediation]] involved in PAH degradation are lignin peroxidase, [[gadd-mycelial-network-dynamics]] can physically penetrate soil aggregates and access PAHs in microenvironments that are inaccessible to bacteria.
 

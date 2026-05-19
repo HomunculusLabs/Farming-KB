@@ -12,7 +12,7 @@ sources:
   - benjamin-minge-duggar-mushroom-growing.md
 ---
 
-# Mushroom Culinary Preparation and Cooking
+## Mushroom Culinary Preparation and Cooking
 
 Duggar's 1915 treatise on [[solar-cooking-methods]] offers a window into early twentieth-century
 culinary practice and remains remarkably relevant to [[fungi-cultivated-mushrooms-pathogens-competitors]] must be consumed immediately is

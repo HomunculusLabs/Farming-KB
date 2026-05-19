@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dryland Buildings and Settlements
+## Dryland Buildings and Settlements
 
 Dryland [[acacia]] species provide abundant poultry seed, as do Lycium and Solanum species. Gidgee (Acacia cambagei) creates desert mounds (nebkas) about 1.5 m high and 12 m across — sessile or weeping trees in deserts cause dust accretion in this way, providing deep absorbent soils and mulch for vines, other trees, and burrowing animals. Acacia species in the Kalahari perform the same function.
 

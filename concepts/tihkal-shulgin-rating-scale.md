@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Shulgin's Rating Scale for Psychedelic Substances
+## Shulgin's Rating Scale for Psychedelic Substances
 
 ## Overview
 

@@ -11,7 +11,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
-# Zone Planning and Design in Permaculture
+## Zone Planning and Design in Permaculture
 Zone planning is one of the most fundamental organizational tools in
 [[mulch-gardening-critique]], it is fully mulched. There is no bare soil.
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, soil-biology, symbiosis]
 sources: []
 ---
-# Mycorrhizal Biocontrol of Phytophthora Through Root Exudate Modification [[root-exudates]]
+## Mycorrhizal Biocontrol of Phytophthora Through Root Exudate Modification [[root-exudates]]
 
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom

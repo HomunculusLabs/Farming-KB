@@ -8,7 +8,7 @@ type: concept
 tags: [plants, shamanism]
 ---
 
-# Cross-Cultural Patterns in Shamanic Plant Use
+## Cross-Cultural Patterns in Shamanic Plant Use
 
 The culminating section of Harner's volume (Part IV: "[[harner-american-indian-peyote-rituals]] yage (ayahuasca/Banisteriopsis) experiences across numerous tribes spanning from the Choco of western Colombia to the Tacana of eastern Bolivia, and identifies five recurring patterns:
 

@@ -15,7 +15,7 @@ source: Fungi in the Environment - Gadd, Watkinson & Dyer (2007)
 created: 2026-05-11
 ---
 
-# Geomycology and Mineral Transformations
+## Geomycology and Mineral Transformations
 
 Geomycology is the study of [[fungal-interactions-with-humans]] minerals and geological
 substrates — encompassing the roles fungi play in mineral weathering,

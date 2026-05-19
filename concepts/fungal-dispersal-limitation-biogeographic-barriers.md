@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Dispersal Limitation and Biogeographic Barriers
+## Fungal Dispersal Limitation and Biogeographic Barriers
 
 Dispersal limitation is a critical factor shaping [[aquatic-fungi-spore-dispersal-ingold]] mechanisms that allow regional
   movement but may limit transoceanic dispersal

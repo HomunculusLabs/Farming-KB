@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [biology, electronics, interfaces, bio-computing, bci]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
 
-# Bio-Electronic Interfaces
+## Bio-Electronic Interfaces
 
 Bio-electronic interfaces create communication pathways between biological
 organisms and electronic systems. In the context of biological computing,

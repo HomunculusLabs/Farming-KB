@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Tropical Mulch Systems and Materials in Permaculture Design
+## Tropical Mulch Systems and Materials in Permaculture Design
 
 Mulch provision is the cornerstone of [[mollison-designers-avocado-mango-and-subtropical-tree-crops]]. [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]] is a major factor in lowering
 garden work. Mollison advises that any mulch should be thickly

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil Pollution and Remediation Strategies
+## Soil Pollution and Remediation Strategies
 
 ## Overview
 

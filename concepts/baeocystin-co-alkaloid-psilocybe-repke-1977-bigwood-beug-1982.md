@@ -6,7 +6,7 @@ topic: mycology, [[ergot-alkaloid-chemistry-history]], tryptamine compounds
 mined: 2026-05-11
 ---
 
-# Baeocystin as a Co-Alkaloid in *Psilocybe* — The Repke 1977 Reference
+## Baeocystin as a Co-Alkaloid in *Psilocybe* — The Repke 1977 Reference
 
 ## Overview
 

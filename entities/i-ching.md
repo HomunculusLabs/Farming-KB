@@ -5,7 +5,7 @@ type: entity
 tags: [text, chinese, divination, philosophy, taoism]
 ---
 
-# I Ching
+## I Ching
 
 ## Description
 The I Ching (Chinese: 易經, "Book of Changes") is an ancient Chinese divination text and one of the oldest of the Chinese classic texts. In *The Psychedelic Experience*, the I Ching is mentioned among the eastern philosophical works that [[carl-jung]] engaged with deeply, writing a "perceptive brilliant foreword" to its translation.

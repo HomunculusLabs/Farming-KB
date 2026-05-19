@@ -17,7 +17,7 @@ synonyms:
 type: concept
 ---
 
-# Supercropping and Plant Stress Techniques
+## Supercropping and Plant Stress Techniques
 
 Supercropping is a form of pinching back or pruning branch tips that
 combines physical manipulation of plant tissue with strategic stress to

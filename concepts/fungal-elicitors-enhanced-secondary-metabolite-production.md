@@ -7,7 +7,7 @@ tags: [mycology, fungi]
 sources: []
 ---
 
-# Fungal Elicitors for Enhanced Secondary Metabolite Production
+## Fungal Elicitors for Enhanced Secondary Metabolite Production
 
 ## Overview
 

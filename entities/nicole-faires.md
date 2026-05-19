@@ -22,7 +22,7 @@ sources:
 - raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md
 ---
 
-# Nicole Faires
+## Nicole Faires
 
 Nicole Faires is a homesteader, author, and advocate for sustainable living. She wrote "The Ultimate Guide to Natural Farming and Sustainable Living," a comprehensive handbook covering food production, animal husbandry, food preservation, and off-grid skills.
 

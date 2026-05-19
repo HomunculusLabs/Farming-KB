@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Natural Farming No-Till Method
+## Natural Farming No-Till Method
 
 The no-till method of natural farming, as developed and practiced by
 [[emcdda-return-to-nature-megatrend-mushroom-appeal]];

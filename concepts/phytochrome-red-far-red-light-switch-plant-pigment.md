@@ -1,4 +1,8 @@
-# Phytochrome: The Red/Far-Red Light Switch
+---
+title: "Phytochrome: The Red/Far-Red Light Switch"
+tags:
+  - concept
+---
 
 > A photoreversible pigment system that allows plants to sense light quality, measure [[cannabis-seed-germination]] to flowering.
 

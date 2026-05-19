@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Latitude, Altitude, and Valley Climates
+## Latitude, Altitude, and Valley Climates
 
 The classification of [[humid-tropics-design-and-climate-zones]] by temperature and rainfall alone is complicated by a third major factor: **continentality**. Continental interiors experience far more extreme temperature fluctuations than coastal areas, as they lack the buffering effect of sea currents that moderate temperatures in maritime regions.
 

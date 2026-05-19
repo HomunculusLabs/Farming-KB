@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
-# Beneficial Insects and Pollinators in the Garden
+## Beneficial Insects and Pollinators in the Garden
 
 **Updated:** 2026-04-18
 

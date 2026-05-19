@@ -5,7 +5,7 @@ type: entity
 tags: [fish, aquaculture, freshwater, air-breathing, snakehead, permaculture]
 ---
 
-# Ophiocephalus striatus (Striped Snakehead)
+## Ophiocephalus striatus (Striped Snakehead)
 
 ## Description
 *Ophiocephalus striatus* (now reclassified as *Channa striata*), the striped snakehead, is a predatory air-breathing freshwater fish native to South and Southeast Asia. It is a key species in tropical pond polyculture systems, serving as the predator component that controls overpopulation of smaller fish. Its ability to breathe atmospheric air makes it invaluable in oxygen-depleted tropical aquaculture systems.

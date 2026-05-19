@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Amanita Toxins and the Evolutionary Puzzle of Mushroom Poisoning
+## Amanita Toxins and the Evolutionary Puzzle of Mushroom Poisoning
 
 ## Overview
 

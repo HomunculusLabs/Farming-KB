@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Reishi Ganoderma Cultivation
+## Reishi Ganoderma Cultivation
 
 Reishi mushrooms (Ganoderma spp.), known as the "mushrooms of immortality," are
 lacquered polypores revered for thousands of years in traditional Chinese

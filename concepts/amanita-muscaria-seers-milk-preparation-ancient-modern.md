@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Seer's Milk: Amanita Muscaria Milk Preparations — Ancient and Modern
+## Seer's Milk: Amanita Muscaria Milk Preparations — Ancient and Modern
 
 ## Overview
 

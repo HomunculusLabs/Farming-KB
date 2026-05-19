@@ -4,7 +4,7 @@ source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 type: concept
 ---
 
-# Hallucinogens in Psychotherapy and Shamanism — A Comparative Framework
+## Hallucinogens in Psychotherapy and Shamanism — A Comparative Framework
 
 Ralph Metzner's 1998 paper "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism" (published in the *Journal of Psychoactive Drugs*) provides the most systematic comparison of Western psychedelic-assisted psychotherapy with indigenous shamanic healing practices. Metzner identifies four paradigms of hallucinogen use and highlights two radical differences between shamanic and Western worldviews.
 

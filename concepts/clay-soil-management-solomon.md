@@ -1,4 +1,8 @@
-# Clay Soil Management (Solomon)
+---
+title: "Clay Soil Management (Solomon)"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[comparison-light-straw-clay-vs-hempcrete]]
 - [[fukuoka-clay-pellet-aerial-seeding-method]]
 - [[kaolin-clay-mollison]]
-- [[query-how-do-clay-seed-balls-work-for-natural-farming]]

@@ -5,7 +5,7 @@ type: entity
 tags: [laboratory-equipment, pressure-vessel, cannabinoid-purification, chemical-reaction]
 ---
 
-# Parr Bomb
+## Parr Bomb
 
 ## Description
 

@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Tropical Home Garden Design
+## Tropical Home Garden Design
 
 The tropical home garden, as presented by Bill Mollison in
 Permaculture: A Designers' Manual, represents the most

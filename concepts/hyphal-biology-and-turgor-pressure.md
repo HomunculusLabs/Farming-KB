@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Hyphal Biology and Turgor Pressure
+## Hyphal Biology and Turgor Pressure
 
 Hyphae are the fundamental cellular units of [[bloomfield-fairy-rings-armillaria-giant-fungi]] in pastures and lawns,
 where mushrooms appear annually above the active growing perimeter of

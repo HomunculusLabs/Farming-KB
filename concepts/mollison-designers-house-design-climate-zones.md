@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# House Design for Climate Zones
+## House Design for Climate Zones
 
 [[bill-mollison]]'s Permaculture: A Designers' Manual (Chapter 14, The Built
 Environment) provides detailed guidance on designing houses adapted to

@@ -14,7 +14,7 @@ sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
-# Gary Lincoff
+## Gary Lincoff
 
 Gary H. Lincoff is a renowned American mycologist and author, best known for *The National Audubon Society Field Guide to North American Mushrooms* (1981) and *Simon & Schuster's Guide to Mushrooms* — two of the most widely used mushroom identification references in North America.
 

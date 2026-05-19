@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Saprobic Soil Fungi — Inventory Planning, Isolation Techniques, Media, and Incubation
+## Saprobic Soil Fungi — Inventory Planning, Isolation Techniques, Media, and Incubation
 
 ## Evaluating Diversity — Preliminary Planning
 

@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Prevent and Troubleshoot Mushroom Contamination
+## How to Prevent and Troubleshoot Mushroom Contamination
 
 ## Short Answer
 

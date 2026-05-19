@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Seed Saving, Germination, and Sowing Techniques
+## Seed Saving, Germination, and Sowing Techniques
 
 ## Overview
 

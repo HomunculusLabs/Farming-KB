@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Garden Seed Sourcing and Storage
+## Garden Seed Sourcing and Storage
 
 **Garden seed sourcing and storage** encompasses the practices of selecting, purchasing, evaluating, and preserving seeds for successful vegetable gardening. As covered in Steve Solomon's *Gardening When It Counts*, these topics are critical to food-production gardening, where reliability and economy directly influence yields and self-sufficiency.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Intensive Gardening Critique (Solomon)
+## Intensive Gardening Critique (Solomon)
 
 Updated: 2026-04-18
 

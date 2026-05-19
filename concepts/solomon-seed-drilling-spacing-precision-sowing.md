@@ -5,7 +5,7 @@ author: Solomon
 tags: [seed-drilling, sowing, spacing, vegetable-garden, seed-placement, germination, gardening-techniques]
 ---
 
-# Seed Drilling and Spacing
+## Seed Drilling and Spacing
 
 ## Precision Sowing Techniques for Maximum Germination
 

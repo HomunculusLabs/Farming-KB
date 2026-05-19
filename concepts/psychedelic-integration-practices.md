@@ -17,7 +17,7 @@ sources:
   - raw/particles/hofmann-a-lsd-my-problem-child.md
 ---
 
-# Psychedelic Integration Practices
+## Psychedelic Integration Practices
 
 The practices and frameworks for incorporating psychedelic experiences into daily life, maximizing their long-term benefits, and processing challenging material that arises.
 

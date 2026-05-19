@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual
 type: entity
 ---
 
-# Altitude Effects on Climate and Agriculture
+## Altitude Effects on Climate and Agriculture
 
 ## Description
 

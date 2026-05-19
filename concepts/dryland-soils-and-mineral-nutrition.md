@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dryland Soils and Mineral Nutrition
+## Dryland Soils and Mineral Nutrition
 
 Dryland soils present some of the most challenging conditions for plant growth and agricultural productivity. In arid and semi-arid regions, the interplay of low rainfall, high evaporation, and geological history produces soils that are dominantly alkaline, often saline, and frequently deficient in essential trace elements. Understanding these soil dynamics is critical for any permaculture design operating in dryland environments, as mineral nutrition underpins every living system on the site.
 

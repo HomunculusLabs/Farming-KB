@@ -15,7 +15,7 @@ sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
-# Hypholoma capnoides
+## Hypholoma capnoides
 
 ## Introduction
 

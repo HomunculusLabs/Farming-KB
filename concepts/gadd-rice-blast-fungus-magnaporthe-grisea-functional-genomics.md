@@ -1,6 +1,11 @@
+---
+title: "Gadd Rice Blast Fungus Magnaporthe Grisea Functional Genomics"
+tags:
+  - concept
+---
 Source: geoffrey gadd [[sarah-watkinson]] paul s dyer fungi in the environment
 
-# Rice Blast Fungus Magnaporthe grisea: Functional Genomics of Plant Infection
+## Rice Blast Fungus Magnaporthe grisea: Functional Genomics of Plant Infection
 
 Chapter 11 of Gadd, Watkinson & Dyer reviews functional genomics approaches
 to understanding plant infection by the rice blast fungus [[magnaporthe-grisea]] is a heterothallic, phytopathogenic ascomycete capable
@@ -143,8 +148,3 @@ Successful integration of gadd rice blast fungus magnaporthe grisea functional g
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and

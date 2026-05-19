@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mechanisms of Metal Transformation and Leaching by Fungi
+## Mechanisms of Metal Transformation and Leaching by Fungi
 
 Fungi possess diverse mechanisms for transforming [[gadd-fungal-metal-transformations-biogeochemical-cycling]].
 

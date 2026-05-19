@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# CBD to THC Isomerization Chemistry
+## CBD to THC Isomerization Chemistry
 
 Isomerization is the chemical process of converting cannabidiol (CBD), a non-psychoactive cannabinoid, into delta-9-tetrahydrocannabinol (THC), the primary psychoactive compound in cannabis. This process is the central innovation described in "[[cannabis-extraction-methods]] for broader extraction context and [[cannabis-reflux-extraction-apparatus]]
 - [[dmt-containing-plants-united-states-halpern]], the 2018 Farm Bill legalized hemp and its derivatives

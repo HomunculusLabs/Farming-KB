@@ -8,7 +8,7 @@ sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livin
 type: concept
 ---
 
-# Biomass Compost Greenhouse Heating Systems
+## Biomass Compost Greenhouse Heating Systems
 
 Biomass is organic material that, when piled up, creates heat through
 the action of bacteria breaking down the material. The act of piling

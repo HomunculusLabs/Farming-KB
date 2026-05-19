@@ -5,7 +5,7 @@ type: entity
 tags: [tool, seeding, greenhouse, precision-agriculture]
 ---
 
-# Six-Row Seeder
+## Six-Row Seeder
 
 ## Description
 The six-row seeder is an improved [[coleman-precision-seeding-greenhouse-pinpoint-six-row-seeder]] implement that succeeded the original German-made pinpoint seeder used on Eliot Coleman's farm. Developed collaboratively after the German manufacturer discontinued the pinpoint seeder in 2004, the six-row version addressed design limitations found in the original while increasing capacity from four to six rows per pass. It plants twelve rows on a 30-inch bed in just two passes (compared to three passes with the four-row model).

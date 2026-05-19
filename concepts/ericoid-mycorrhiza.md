@@ -8,7 +8,7 @@ sources: ["symbiotic-fungi.md"]
 type: concept
 ---
 
-# Ericoid Mycorrhiza
+## Ericoid Mycorrhiza
 
 ## Definition and Host Range
 

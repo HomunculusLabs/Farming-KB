@@ -14,7 +14,7 @@ sources:
   - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Ipomoea tricolor
+## Ipomoea tricolor
 
 **Ipomoea tricolor* Cav. (syn. *Ipomoea violacea* auct. non L.), commonly known as the [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and is one of the most significant entheogenic plants in Mesoamerican ethnobotany. The seeds of *Ipomoea tricolor* contain ergoline alkaloids, principally [[lysergic-acid-amide]] (LSA, also known as ergine), and have been used since pre-Columbian times in ritual, divinatory, and healing contexts by indigenous peoples of central and southern Mexico.
 

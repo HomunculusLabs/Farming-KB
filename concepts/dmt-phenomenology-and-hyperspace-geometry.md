@@ -7,7 +7,7 @@ tags: [psychopharmacology, psychedelics, neuroscience, serotonin, effects]
 sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 ---
 
-# DMT Phenomenology and Hyperspace Geometry
+## DMT Phenomenology and Hyperspace Geometry
 
 ## Overview
 

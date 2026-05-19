@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Food Civilization Critique
+## Food Civilization Critique
 
 Masanobu Fukuoka's critique of modern civilization centered on food -- how it is grown, how it is processed, and how it shapes both the body and the mind. His analysis went beyond nutrition to encompass the entire relationship between human culture and the natural world. This critique is deeply connected to [[fukuoka-view-of-nature-and-human-hubris]].
 

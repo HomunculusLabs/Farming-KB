@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Liquid Culture vs Grain Spawn
+## Liquid Culture vs Grain Spawn
 
 ## Overview
 Liquid culture and grain spawn are two essential [[accessible-mushroom-cultivation-for-disabilities]], each serving a different stage of the growing process.

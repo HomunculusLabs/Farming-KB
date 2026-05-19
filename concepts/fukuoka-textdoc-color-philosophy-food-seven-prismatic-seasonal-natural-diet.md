@@ -4,7 +4,7 @@ source: "The One-Straw Revolution / masanobu-fukuoka"
 topics: ["fukuoka-seasonal-eating-natural-food-calendar", "color theory"]
 ---
 
-# Fukuoka's Color Philosophy of Food
+## Fukuoka's Color Philosophy of Food
 
 [[cho-natural-farming-philosophy]] extended beyond agriculture into
 a comprehensive worldview about the relationship between humans, food, and the

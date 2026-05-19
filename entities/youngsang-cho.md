@@ -8,7 +8,7 @@ sources:
   - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# Youngsang Cho
+## Youngsang Cho
 
 Youngsang Cho (born 1965) is a South Korean farmer and the founder of JADAM (Jayongul Damanhwa), an organic farming movement focused on ultra-low-cost agriculture. He established JADAM in 1991 and has developed a comprehensive system of natural farming inputs and methods designed to make organic farming accessible and affordable to all farmers.
 

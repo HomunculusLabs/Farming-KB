@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Taro Wet Terrace Culture
+## Taro Wet Terrace Culture
 
 Taro ([[colocasia-esculenta]]) is one of the most productive and flexible staple food crops for tropical and subtropical aquacultural systems. This herbaceous perennial, growing to 1 m high with large arrow-like leaves and a swollen stem base or tuber reaching up to 10 kg, has been cultivated for millennia across Polynesia, Southeast Asia, and Hawaii, where it served as the foundation of traditional food systems.
 

@@ -5,7 +5,7 @@ tags: [farming, desertification, revegetation, ecology, fukuoka]
 created: 2026-05-08
 ---
 
-# Fukuoka's Clay Pellet Method for [[mycorrhizal-fungi]], nitrogen-fixing bacteria, and other soil microorganisms are now recognized as essential for plant establishment in degraded soils, and microbial inoculation is a standard practice in ecological restoration projects.
+## Fukuoka's Clay Pellet Method for [[mycorrhizal-fungi]], nitrogen-fixing bacteria, and other soil microorganisms are now recognized as essential for plant establishment in degraded soils, and microbial inoculation is a standard practice in ecological restoration projects.
 
 ## Proposed Scale: Greening the Deserts
 

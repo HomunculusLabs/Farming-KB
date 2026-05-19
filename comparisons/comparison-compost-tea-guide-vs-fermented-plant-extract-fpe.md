@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Compost Tea vs Fermented Plant Extract
+## Compost Tea vs Fermented Plant Extract
 
 ## Overview
 

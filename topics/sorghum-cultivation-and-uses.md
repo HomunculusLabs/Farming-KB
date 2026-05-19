@@ -1,5 +1,10 @@
+---
+title: "Sorghum Cultivation And Uses"
+tags:
+  - topic
+---
 
-# Sorghum Cultivation and Uses
+## Sorghum Cultivation and Uses
 
 *Sorghum bicolor* (L.) Moench is one of the world's most versatile and climate-resilient cereal crops. A staple grain for over 500 million people across sub-Saharan Africa and South Asia, sorghum is increasingly valued in temperate regions for its [[low-input-vegetable-gardening]] requirements, and diverse end uses spanning human food, animal feed, biofuel production, and [[seed-saving-in-permaculture]] practices are common and hybrid seed access is limited.
 

@@ -7,7 +7,7 @@ tags: [natural-farming, agriculture, philosophy, gardening]
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 ---
 
-# JADAM Natural Farming Philosophy
+## JADAM Natural Farming Philosophy
 
 JADAM (Jayonul Danggan Nong-eop Moe-dan, meaning "Research Association of Nature Farming") is a Korean ultra-low-cost organic farming movement founded by Young-sang Cho in 1991. JADAM extends Fukuoka's natural farming with specific, practical techniques and a focus on self-sufficiency.
 

@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Brew a Fungal-Dominant Compost Tea
+## How to Brew a Fungal-Dominant Compost Tea
 
 ## Short Answer
 A fungal-dominant compost tea (Actively [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]] cultivation.

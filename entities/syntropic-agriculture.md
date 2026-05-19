@@ -1,5 +1,5 @@
 ---
-title: "query-what-is-syntropic-agriculture-and-how-do-i-start"
+title: "Syntropic Agriculture"
 type: species
 tags:
   - permaculture

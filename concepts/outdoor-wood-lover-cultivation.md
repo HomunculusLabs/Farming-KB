@@ -22,7 +22,7 @@ sources:
 - raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md
 ---
 
-# Outdoor Wood Lover Cultivation
+## Outdoor Wood Lover Cultivation
 
 Detailed guide for cultivating wood-decomposing mushrooms (Psilocybe azurescens, P. cyanescens, P. ovoideocystidiata, P. allenii) in outdoor beds. See [[mushroom-cultivation-methods]] for method selection and [[mushroom-growing-reference]] for general parameters.
 

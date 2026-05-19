@@ -5,7 +5,7 @@ type: entity
 tags: [person, researcher, parapsychology, ethnomycology]
 ---
 
-# Andrija Puharich
+## Andrija Puharich
 
 ## Description
 

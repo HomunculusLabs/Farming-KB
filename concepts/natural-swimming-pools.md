@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Natural Swimming Pools
+## Natural Swimming Pools
 
 > *"No man is an island, entire of itself; every man is a piece of the
 > continent."* — John Donne

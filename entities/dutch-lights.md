@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# Dutch Lights
+## Dutch Lights
 
 ## Description
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Microplastic Degradation by Fungi
+## Microplastic Degradation by Fungi
 
 Microplastic pollution represents one of the most pervasive and
 persistent environmental challenges. Fungi, with their diverse enzymatic

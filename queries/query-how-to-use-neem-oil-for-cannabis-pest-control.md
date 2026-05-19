@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Use Neem Oil for Cannabis Pest Control
+## How to Use Neem Oil for Cannabis Pest Control
 
 ## Short Answer
 Neem oil is a natural, broad-spectrum insecticide and fungicide derived from the

@@ -7,7 +7,7 @@ tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
 sources: []
 ---
 
-# Sweet Potato Growing Guide
+## Sweet Potato Growing Guide
 
 Sweet potatoes (Ipomoea batatas) are a warm-climate perennial grown as an annual in most of the US. They produce large, calorie-dense tubers that store for months. Unlike regular potatoes (Solanum tuberosum), sweet potatoes are in the morning glory family and have very different growing requirements. This guide covers slips, soil, planting, hilling, curing, and storage.
 

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, cultivation, species, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Mushroom Species Selection
+## Mushroom Species Selection
 
 Choosing the right mushroom species is one of the most important decisions in cultivation. Different species have vastly different requirements for substrate, temperature, humidity, and fruiting conditions. Some are forgiving and fast, making them ideal for beginners, while others demand precise conditions and extended timelines that challenge even experienced cultivators.
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Canker and Leaf Spot Pesticide (JADAM Recipe #5)
+## Canker and Leaf Spot Pesticide (JADAM Recipe #5)
 
 ## Overview
 

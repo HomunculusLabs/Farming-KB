@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Rockwool vs Coco Coir
+## Rockwool vs Coco Coir
 A detailed comparison of two of the most widely used growing substrates
 in [[coco-coir-cannabis]]
 Coco coir is a natural, renewable growing medium made from the fibrous

@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# The Apoplastic, Symplastic, and Transcellular Transport Pathways
+## The Apoplastic, Symplastic, and Transcellular Transport Pathways
 
 Water and dissolved substances move through plants along three distinct but interconnected pathways. This triple redundancy reflects the critical importance of water to plants and allows sophisticated control over what enters and leaves the plant's living tissues.
 

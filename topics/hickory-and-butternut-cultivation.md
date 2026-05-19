@@ -17,7 +17,7 @@ sources:
   - Cornell University Horticulture Department
 ---
 
-# Hickory and Butternut Cultivation
+## Hickory and Butternut Cultivation
 
 ## Overview
 

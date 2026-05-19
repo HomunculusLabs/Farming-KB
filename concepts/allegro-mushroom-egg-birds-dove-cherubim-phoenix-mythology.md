@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# The Mushroom as Hermaphrodite Egg: Birds in Ancient Mythology
+## The Mushroom as Hermaphrodite Egg: Birds in Ancient Mythology
 
 John M. Allegro argues that the mushroom — specifically [[permaculture-castor-oil-plant]] (*[[allegro-plants-and-drugs-in-the-ancient-world]], bird symbolism served as a cipher for mushroom worship. The dove,
 the raven, the cherub, the griffin, the phoenix, the stork, and the swan — all encode the

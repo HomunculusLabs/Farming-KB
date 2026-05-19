@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Convection Loops and Thermosiphons
+## Convection Loops and Thermosiphons
 
 ## Overview
 

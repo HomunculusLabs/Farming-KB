@@ -9,7 +9,7 @@ type: concept
 tags: [mycelium, plants]
 ---
 
-# Fungal Partnerships with Plants
+## Fungal Partnerships with Plants
 
 [[companion-planting-with-fungi]]:
 

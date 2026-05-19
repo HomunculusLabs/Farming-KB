@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: entity
 ---
 
-# Cannabinol (CBN)
+## Cannabinol (CBN)
 
 **Type:** Chemical / Phytocannabinoid
 **Category:** Degradation product cannabinoid

@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, substrate, mushroom-cultivation, composting]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Mushroom Substrate Formulation
+## Mushroom Substrate Formulation
 
 Substrate is the material on which mushrooms grow, providing the nutrients,
 moisture, and physical structure needed for [[brassinosteroid-fungal-growth-promotion]]. Wood chips, straw, and corncobs can serve as

@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How do I design habitat for beneficial insects?
+## How do I design habitat for beneficial insects?
 
 ## Short Answer
 

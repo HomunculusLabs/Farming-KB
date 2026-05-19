@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Monster Cropping and Should I Try It?
+## What Is Monster Cropping and Should I Try It?
 
 ## Short Answer
 

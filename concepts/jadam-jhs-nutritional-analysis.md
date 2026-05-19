@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# JHS Nutritional Analysis as Fertilizer
+## JHS Nutritional Analysis as Fertilizer
 
 **Updated:** 2026-04-18
 **Source:** JADAM [[youngsang-cho]], 2016)

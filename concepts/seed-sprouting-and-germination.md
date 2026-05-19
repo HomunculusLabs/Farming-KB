@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Seed Sprouting and Germination
+## Seed Sprouting and Germination
 
 Understanding exactly how seeds germinate — the physics, chemistry, and timing of the process — is essential for successful [[clay-seed-pellets-direct-seeding]]. Most gardening failures with small seeds are not caused by bad seeds but by conditions that prevent germination: soil that is too cold, too wet, too dry, too crusted, or too compacted. Mastering the germination process eliminates these failures.
 

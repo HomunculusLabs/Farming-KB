@@ -8,7 +8,7 @@ sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
-# Cob Construction
+## Cob Construction
 
 Cob construction is a building technique using a mixture of clay subsoil, sand, straw, and water to create monolithic load-bearing walls. The word cob comes from Old English, meaning lump or rounded mass. Cob is one of the oldest building methods known, with examples dating back thousands of years across Europe, Africa, the Middle East, and Asia. In permaculture design, cob is valued for its extremely low embodied energy, local material sourcing, thermal mass properties, sculptural versatility, and the fact that anyone can learn to build with it.
 

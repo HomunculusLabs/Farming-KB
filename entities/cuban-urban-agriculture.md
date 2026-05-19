@@ -5,7 +5,7 @@ type: entity
 tags: [agriculture, urban-farming, organic, cuba, history, community-gardening]
 ---
 
-# Cuban Urban Agriculture
+## Cuban Urban Agriculture
 
 ## Description
 

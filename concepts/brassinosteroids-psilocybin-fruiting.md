@@ -7,7 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [reference]
 ---
 
-# Brassinosteroids and Psilocybin Mushroom Fruiting: Gartz's Discovery
+## Brassinosteroids and Psilocybin Mushroom Fruiting: Gartz's Discovery
 
 In a significant contribution to mycological science, Jochen Gartz's laboratory discovered that brassinosteroids -- a class of plant hormones -- can accelerate the fruiting of [[fukuoka-microbial-ecology-decomposition]] in ways that benefit fruiting
 

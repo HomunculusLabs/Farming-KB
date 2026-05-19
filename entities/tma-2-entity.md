@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# TMA-2
+## TMA-2
 
 TMA-2 (2,4,5-Trimethoxyamphetamine) is a classic psychedelic amphetamine that played a pivotal role in [[leary-psychedelic-experience-bardo-mapping]] with moderate body load.
 

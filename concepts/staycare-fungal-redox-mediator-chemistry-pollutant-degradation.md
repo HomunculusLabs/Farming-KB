@@ -8,7 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Fungal Redox Mediator Chemistry in Pollutant Degradation
+## Fungal Redox Mediator Chemistry in Pollutant Degradation
 
 Redox mediators are low-molecular-weight compounds that play essential
 roles in extending the catalytic reach of fungal [[fungal-elicitors-enhanced-secondary-metabolite-production]], and its production is

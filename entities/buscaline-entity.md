@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# B (Buscaline)
+## B (Buscaline)
 
 **Chemical name:** 4-(n)-Butoxy-3,5-dimethoxyphenethylamine
 **[[md-family-structure-activity]]: beyond a certain [[phenethylamine-chemistry-basics]] studies of phenethylamines. It helps define the boundary conditions for psychoactive alkoxy substitution and supports the understanding that there is an optimal size range for the 4-position substituent (methoxy through propoxy) beyond which activity drops off sharply. In [[pihkal-introduction-and-methodology]]

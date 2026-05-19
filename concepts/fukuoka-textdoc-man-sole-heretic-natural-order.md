@@ -20,7 +20,7 @@ sources:
 type: concept
 ---
 
-# Man as Sole Heretic in the Natural Order
+## Man as Sole Heretic in the Natural Order
 
 Fukuoka identifies man as the single disruptor of an otherwise perfectly self-regulating natural order. While all other organisms participate harmoniously in cycles of production, consumption, and [[fukuoka-textdoc-natures-refuse-processing-microbial-self-governance]] plants are child's play compared with the infinitely elaborate methods of treating garbage used by nature. Human society almost has more than it can handle in just treating the garbage that issues from the kitchen, but nature works on a totally different scale.
 

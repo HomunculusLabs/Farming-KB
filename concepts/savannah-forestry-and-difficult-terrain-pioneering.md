@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Savannah Forestry and Difficult Terrain Pioneering
+## Savannah Forestry and Difficult Terrain Pioneering
 
 Savannah forestry and difficult terrain pioneering are critical components of [[animal-tractor-systems]]
 - [[low-island-coral-cay-strategies]]

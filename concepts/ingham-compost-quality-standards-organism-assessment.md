@@ -1,4 +1,8 @@
-# Compost Quality Standards and Organism Assessment
+---
+title: "Compost Quality Standards and Organism Assessment"
+tags:
+  - concept
+---
 
 **Source:** The Field Guide I for [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]],
 fungi, protozoa, and nematodes present in the finished compost.

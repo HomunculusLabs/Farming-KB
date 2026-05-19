@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# IMO Collection from Bamboo Stump and Paddy Field
+## IMO Collection from Bamboo Stump and Paddy Field
 
 Dr. Cho's Korean [[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]] host diverse microbial communities within their hollow
 stems. Natural sugars in bamboo sap attract a wide range of

@@ -21,7 +21,7 @@ sources:
 type: concept
 ---
 
-# Ayahuasca Tourism: Medical Risks and Dangerous Prescription Drug Interactions
+## Ayahuasca Tourism: Medical Risks and Dangerous Prescription Drug Interactions
 
 ## Overview
 

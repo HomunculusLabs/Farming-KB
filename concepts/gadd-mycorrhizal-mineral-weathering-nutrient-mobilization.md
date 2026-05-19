@@ -5,7 +5,7 @@ source_author: "Gadd, Watkinson, Dyer (eds.)"
 tags: [mycorrhiza, mineral-weathering, nutrient-mobilization, ectomycorrhiza, arbuscular-mycorrhiza, phosphorus, biogeochemistry, plant-nutrition, gadd]
 ---
 
-# Mycorrhizal Fungi in Mineral Weathering and Nutrient Mobilization
+## Mycorrhizal Fungi in Mineral Weathering and Nutrient Mobilization
 
 ## Overview
 

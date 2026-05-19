@@ -13,7 +13,7 @@ sources:
   - benjamin-minge-duggar-mushroom-growing.md
 ---
 
-# Wild Mushroom Markets: International Trade and Seasonal Harvesting
+## Wild Mushroom Markets: International Trade and Seasonal Harvesting
 
 Beyond the cultivated mushroom industry, a substantial international trade
 in wild mushrooms has existed for centuries. Duggar documented the markets

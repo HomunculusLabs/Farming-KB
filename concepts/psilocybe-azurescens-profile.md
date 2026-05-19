@@ -8,7 +8,7 @@ sources:
   - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
 ---
 
-# Psilocybe azurescens Profile
+## Psilocybe azurescens Profile
 
 ## Overview
 

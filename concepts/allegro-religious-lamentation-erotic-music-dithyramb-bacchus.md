@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Religious Lamentation, Erotic Musical Terminology, and the Bacchic Rites
+## Religious Lamentation, Erotic Musical Terminology, and the Bacchic Rites
 
 John Allegro argues that religious lamentation, across cultures and millennia, originated as an
 erotic ritual designed to resurrect a dead fertility god by arousing him back to life. The linguistic

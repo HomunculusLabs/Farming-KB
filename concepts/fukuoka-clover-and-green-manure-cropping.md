@@ -10,7 +10,7 @@ type: concept
 tags: [fukuoka]
 ---
 
-# Fukuoka Clover and Green Manure Cropping
+## Fukuoka Clover and Green Manure Cropping
 
 Clover and other [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: As a legume, clover fixes atmospheric nitrogen through its root nodules, supplying the nitrogen needs of the rice and barley crops without [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that help control pests.
 

@@ -4,7 +4,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
 
-# Cannabis Microbiome
+## Cannabis Microbiome
 
 The Cannabis microbiome — the community of microorganisms associated with [[cannabis-sativa]] roots and surrounding soil — exhibits distinct compartmentalization and is shaped by a hierarchy of factors led by soil edaphic properties, followed by plant cultivar (strain), and sample type (bulk soil, rhizosphere, or endorhiza). Research by Winston et al. (2014) provided the first comprehensive characterization of these communities across multiple Cannabis strains and soil types.
 

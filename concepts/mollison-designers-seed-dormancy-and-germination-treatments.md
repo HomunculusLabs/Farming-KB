@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Seed Dormancy and Germination Treatments in Permaculture
+## Seed Dormancy and Germination Treatments in Permaculture
 
 Understanding seed dormancy and the conditions required for
 germination is fundamental to [[bill-mollison]] devotes

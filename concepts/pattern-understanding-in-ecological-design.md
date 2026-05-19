@@ -1,4 +1,8 @@
-# Pattern Understanding in Ecological Design
+---
+title: "Pattern Understanding in Ecological Design"
+tags:
+  - concept
+---
 
 Pattern understanding is a core [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** ([[psilocybin-psilocin-variation-across-flushes]] a site, phenological cues from indicator species, and the characteristic lag between photoperiod shift and temperature change — transforms design from generic calendar-based guesswork into responsive, site-specific practice.
 

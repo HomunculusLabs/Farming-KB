@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Biosorption Isotherms and Equilibrium Models
+## Fungal Biosorption Isotherms and Equilibrium Models
 
 Biosorption is a pseudo-ion-exchange process in which metal ions are
 exchanged for counterions in the [[dighton-fungal-heavy-metal-accumulation-bioremediation]] removal by fungal

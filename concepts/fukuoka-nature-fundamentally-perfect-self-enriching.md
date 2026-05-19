@@ -1,5 +1,10 @@
+---
+title: "Fukuoka Nature Fundamentally Perfect Self Enriching"
+tags:
+  - concept
+---
 
-# Nature as Fundamentally Perfect and Self-Enriching
+## Nature as Fundamentally Perfect and Self-Enriching
 
 ## Overview
 
@@ -143,5 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fukuoka-earthen-levee-building-artistic-religious-work]]
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]
-- [[fukuoka-rice-dry-field-cultivation]]
-- [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]

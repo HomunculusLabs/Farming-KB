@@ -19,7 +19,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Fomes fomentarius
+## Fomes fomentarius
 
 **Amadou / Tinder Conk** — a tough, hoof-shaped bracket fungus in the Polyporaceae family, parasitic and saprotrophic on birch and other hardwoods across the Northern Hemisphere. Among the most culturally significant fungi in human history — used for millennia as fire-starting tinder, wound dressing, clothing material, and medicine. Ötzi the Iceman (ca. 3300 BCE) carried *F. fomentarius*, providing one of the earliest documented human uses of a mushroom.
 

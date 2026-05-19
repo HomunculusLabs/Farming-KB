@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Start a Worm Compost Bin for My Garden?
+## How Do I Start a Worm Compost Bin for My Garden?
 
 ## Short Answer
 Starting a worm compost bin requires a container with drainage holes, bedding

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Best Way to Rotate Crops in a Vegetable Garden?
+## What Is the Best Way to Rotate Crops in a Vegetable Garden?
 
 ## Short Answer
 The best crop rotation follows a systematic plan that moves plant families

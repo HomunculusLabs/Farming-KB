@@ -5,7 +5,7 @@ type: concept
 tags: [micronutrients, kelp, chitin, biofertilizers, organic-fertilizer, soil-biology]
 ---
 
-# Organic Micronutrient Sources, Kelp, Chitin, and Biofertilizers
+## Organic Micronutrient Sources, Kelp, Chitin, and Biofertilizers
 
 ## Overview
 

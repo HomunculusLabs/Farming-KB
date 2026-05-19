@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Marine Fungal-Animal Interactions
+## Marine Fungal-Animal Interactions
 
 ## Overview
 

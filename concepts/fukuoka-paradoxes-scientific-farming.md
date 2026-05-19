@@ -8,7 +8,7 @@ sources: [masanobu-fukuoka-the-road-back-to-nature.md]
 type: concept
 ---
 
-# Fukuoka on the Paradoxes of Scientific Farming
+## Fukuoka on the Paradoxes of Scientific Farming
 
 [[fukuoka-critique-scientific-agriculture-civilization]]: the problems it claims to solve are problems it
 created in the first place. His analysis reveals a self-perpetuating cycle

@@ -24,7 +24,7 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-# Fermented Plant Extract (FPE)
+## Fermented Plant Extract (FPE)
 
 [[fermented-plant-juice|Fermented Plant Juice]] (FPJ) and [[bionutrients-lab-fermented-fruit-juice-ffj]] (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
 

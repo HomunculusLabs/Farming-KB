@@ -6,7 +6,7 @@ type: concept
 tags: [knf, natural-farming, bionutrients, ohn, herbal-extract, antibiotics, fermentation, tincture]
 sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 ---
-# Bionutrients Lab — Oriental Herbal Nutrients (OHN)
+## Bionutrients Lab — Oriental Herbal Nutrients (OHN)
 
 **Updated:** 2026-04-24
 

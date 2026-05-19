@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Greening Deserts and Plant Irrigation
+## Greening Deserts and Plant Irrigation
 
 The appendix of [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]. This proposal encapsulates the core principles of his
 [[fukuoka-green-philosophy]]

@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# How and When Should I Prune My Fruit Trees and Bushes?
+## How and When Should I Prune My Fruit Trees and Bushes?
 
 ## Short Answer
 

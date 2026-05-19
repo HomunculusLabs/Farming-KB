@@ -5,7 +5,7 @@ type: entity
 tags: [plant-physiology, roots, vascular-tissue, botany, anatomy]
 ---
 
-# Pericycle
+## Pericycle
 
 ## Description
 

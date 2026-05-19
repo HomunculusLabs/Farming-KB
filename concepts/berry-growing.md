@@ -22,7 +22,7 @@ sources:
 note: Composed from model knowledge — web tools unavailable. Mark for user review.
 ---
 
-# Berry Growing
+## Berry Growing
 
 Comprehensive guide to growing berries on a regenerative homestead. Berries are among the highest-return perennials — they produce for decades, fit into food forests, orchard understories, and dedicated rows, and require relatively modest inputs once established.
 

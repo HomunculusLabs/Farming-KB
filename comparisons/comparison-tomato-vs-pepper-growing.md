@@ -13,7 +13,7 @@ sources: []
 type: comparison
 ---
 
-# Tomato vs Pepper Growing
+## Tomato vs Pepper Growing
 
 Tomatoes and peppers are two of the most popular garden crops, sharing some growing requirements but differing significantly in others. Both belong to the Solanaceae (nightshade) family, yet they demand distinct approaches to planting, care, and harvesting. This guide compares them side by side to help you plan your [[season-extension-techniques]] like row covers or wall-o-water protectors, especially for peppers which need warm soil to thrive.
 

@@ -5,7 +5,7 @@ tags: [cannabinoid, minor-cannabinoid, thcv, appetite-suppressant, cannabis]
 created: 2025-06-13
 ---
 
-# Tetrahydrocannabivarin (THCV)
+## Tetrahydrocannabivarin (THCV)
 
 Tetrahydrocannabivarin (THCV) is a propyl analogue of thc found in certain [[cannabis-chemotypes]], particularly those originating from southern and central Africa. Unlike its close relative THC, THCV exhibits a distinctly different pharmacological profile — it acts as a CB1 receptor antagonist at low doses (blocking THC's psychoactive effects) while functioning as a CB1 agonist at higher doses. This dual-action mechanism, combined with CB2 agonist activity, makes THCV one of the most pharmacologically complex and therapeutically promising minor cannabinoids currently under investigation.
 

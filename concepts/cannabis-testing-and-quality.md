@@ -7,7 +7,7 @@ tags: [cannabis, lab-technique, potency, safety, chemistry, psychopharmacology, 
 sources: []
 ---
 
-# Cannabis Testing and Quality
+## Cannabis Testing and Quality
 
 ## Overview
 

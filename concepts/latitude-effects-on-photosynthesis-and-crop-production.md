@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Latitude Effects on Photosynthesis and Crop Production
+## Latitude Effects on Photosynthesis and Crop Production
 
 Latitude profoundly influences [[permaculture-design]]:
 

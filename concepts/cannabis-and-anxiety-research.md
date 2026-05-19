@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis and Anxiety Research (General)
+## Cannabis and Anxiety Research (General)
 
 **Source:** Uwe Blesching, The [[fukuoka-eastern-western-medicine-healing-world-crisis]]:
 

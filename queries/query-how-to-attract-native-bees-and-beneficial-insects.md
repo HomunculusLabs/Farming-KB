@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Attract Native Bees and Beneficial Insects to Your Garden
+## How to Attract Native Bees and Beneficial Insects to Your Garden
 
 ## Short Answer
 Attracting native bees and beneficial insects requires providing continuous

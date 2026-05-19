@@ -9,7 +9,7 @@ sources:
   - ""raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 
-# Uncaria tomentosa
+## Uncaria tomentosa
 
 Uncaria tomentosa, widely known as cat's claw (una de gato in
 Spanish), is a large woody vine in the family Rubiaceae native to

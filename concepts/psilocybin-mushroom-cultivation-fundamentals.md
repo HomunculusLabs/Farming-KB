@@ -4,7 +4,7 @@ source: magic-mushroom-growers-guide-ot-oss-on-oeric.md
 type: concept
 ---
 
-# Psilocybin Mushroom Cultivation Fundamentals
+## Psilocybin Mushroom Cultivation Fundamentals
 
 The cultivation of *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* follows a four-stage process that transforms spores into mature mushrooms within approximately six weeks. The method described in the *Magic Mushroom Growers Guide* (Oss & Oeric, 1976) was designed for home cultivation with minimal equipment and no special mycological training. It remains the foundational reference for indoor [[psilocybin-mushroom-cultivation]].
 

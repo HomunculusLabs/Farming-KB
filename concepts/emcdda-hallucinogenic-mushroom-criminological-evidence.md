@@ -4,7 +4,7 @@ source: "carolina-mushrooms_08qxp.md"
 tags: [emcdda, criminology, seizures, law-enforcement, customs, europe, mushroom, psilocybin, drug-policy]
 ---
 
-# EMCDDA Criminological Evidence and Seizure Data for Hallucinogenic Mushrooms
+## EMCDDA Criminological Evidence and Seizure Data for Hallucinogenic Mushrooms
 
 ## Overview
 

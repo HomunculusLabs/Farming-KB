@@ -4,10 +4,10 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [cannabis, cultivation]
-sources: [/Users/t3rpz/wiki/raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
+sources: ["raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md"]
 ---
 
-# Cannabis Seed Germination and Viability in Breeding Programs (Clarke)
+## Cannabis Seed Germination and Viability in Breeding Programs (Clarke)
 
 ## Seed Germination Basics
 

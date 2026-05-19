@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, european-fungi, psychotropic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 
-# Psilocybe moravica
+## Psilocybe moravica
 
 **Psilocybe moravica** is a bluing [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] psilocybe-sect.-psilocybe, which contains the majority of known bluing, psilocybin-containing species.
 Molecular phylogenetic analyses place *P. moravica* within a European clade that also includes [[fukuoka-european-distribution-system-critique]] and similar ecological preferences.

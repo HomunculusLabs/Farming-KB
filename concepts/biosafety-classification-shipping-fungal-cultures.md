@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Biosafety Classification and Shipping of Fungal Cultures
+## Biosafety Classification and Shipping of Fungal Cultures
 
 The transport and handling of fungal cultures are governed by overlapping national and international regulatory frameworks. Mycologists shipping live cultures, dried specimens, or soil samples must navigate biosafety classifications, agricultural quarantine rules, and dangerous goods shipping regulations. Non-compliance can result in seizure of materials, fines, or loss of permits.
 

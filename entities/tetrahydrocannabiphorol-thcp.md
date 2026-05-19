@@ -17,7 +17,7 @@ sources:
 created: 2026-04-28
 ---
 
-# Tetrahydrocannabiphorol (THCP)
+## Tetrahydrocannabiphorol (THCP)
 
 **Tetrahydrocannabiphorol** (THCP) is a phytocannabinoid identified in 2019 by a team of Italian researchers led by Cinzia Citti at the University of Modena and Reggio Emilia. It is notable for possessing a **pentyl [[dimethylamine-amidation-tryptamine-side-chain-construction]] extended by two methylene units** to a heptyl chain (7 carbon atoms), making it the first naturally occurring **heptyl homolog** of Δ⁹-[[tetrahydrocannabinol]] (THC). This structural extension confers dramatically enhanced binding affinity at [[cannabinoid-receptors-cb1-cb2]] — up to 33 times that of Δ⁹-THC at CB1.
 

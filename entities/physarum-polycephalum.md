@@ -14,7 +14,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# Physarum polycephalum
+## Physarum polycephalum
 
 Physarum polycephalum is a plasmodial [[cho-fish-amino-acid-preparation]] sequences indicate that plasmodial and cellular [[dighton-fungal-decomposition-leaf-litter-dynamics]], and other decaying [[moist-chamber-technique-fungal-fruiting]] works well for culturing P. polycephalum when harsh environmental conditions prevent fruiting in the field (Braun and Keller 1993). Moist chambers consist of Petri dishes or fingerbowls in which substrata are placed onto an appropriate source of moisture, either moistened paper or agar. This technique is a standard method for collecting and studying myxomycetes from field samples.
 

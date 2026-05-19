@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Resource Classification
+## Permaculture Resource Classification
 
 Resources in [[desertification]], land salting, concreted highways, and city sprawl — removes more good land from productive life than territorial conquest, yet is often labeled "progress" and "growth."
 

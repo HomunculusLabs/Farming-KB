@@ -4,10 +4,10 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/amaringo-p-ayahuasca-visions.md]
+sources: ["raw/papers/amaringo-p-ayahuasca-visions.md"]
 ---
 
-# Amazonian Shamanic Battles and Defensive Powers
+## Amazonian Shamanic Battles and Defensive Powers
 
 A major theme in [[amaringo-ayahuasca-visions-shipibo-iconography]] is the shamanic battle -- direct confrontations between healers (curanderos/vegetalistas) and sorcerers (brujos). These battles take place entirely in the visionary realm and involve complex arsenals of magical weapons, spirit allies, and defensive barriers. Understanding these battles is essential to understanding Amazonian [[query-how-do-plants-defend-themselves-chemically]]. "Huaira" means air, "uma" means head.
 

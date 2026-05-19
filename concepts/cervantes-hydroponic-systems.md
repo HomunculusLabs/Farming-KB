@@ -8,7 +8,7 @@ tags: [cannabis]
 updated: 2026-04-26
 ---
 
-# Hydroponic Growing Systems
+## Hydroponic Growing Systems
 
 Hydroponic growing systems deliver nutrient-rich water directly to plant roots without soil. This method allows faster growth, bigger yields, and greater control over nutrient delivery. Cannabis grown hydroponically can mature 25-30 percent faster than in soil.
 

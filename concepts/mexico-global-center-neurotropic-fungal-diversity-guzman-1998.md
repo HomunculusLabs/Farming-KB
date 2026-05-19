@@ -1,4 +1,8 @@
-# Mexico as the Global Center of Neurotropic Fungal Diversity
+---
+title: "Mexico as the Global Center of Neurotropic Fungal Diversity"
+tags:
+  - concept
+---
 
 Mexico occupies a unique and preeminent position in the global [[lycoperdon-mixtecorum]] and L. marginatum.
 

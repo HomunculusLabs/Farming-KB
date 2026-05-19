@@ -4,7 +4,7 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-# Amanita Muscaria Resurrection: Rehydration and the Three-Day Cycle
+## Amanita Muscaria Resurrection: Rehydration and the Three-Day Cycle
 
 ## Overview
 

@@ -5,10 +5,10 @@ type: chemical
 tags: [terpene, cannabis, bronchodilator, memory-enhancement, anti-inflammatory]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md]
+sources: ["raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"]
 ---
 
-# Pinene
+## Pinene
 
 Pinene (bicyclo[3.1.1]hept-2-ene, 2,6,6-trimethyl-) is a bicyclic monoterpene that exists as two structural isomers: α-pinene and β-pinene. It is the most abundant terpene in the global biosphere and a significant constituent of cannabis (*Cannabis sativa*) essential oil. Pinene is distinguished among [[mycelium-running-mushroom-antimicrobial-properties-species-chart]], and is of particular interest for its ability to counteract the short-term memory impairment associated with THC consumption.
 

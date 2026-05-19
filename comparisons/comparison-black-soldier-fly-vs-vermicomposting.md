@@ -6,7 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources: []
 ---
-# [[oyster-mushroom-coffee-grounds-cultivation]]. Heavily salted foods, large amounts of citrus, and pesticide-treated material should be avoided. This broad input tolerance is one of the primary advantages over vermicomposting.
+## [[oyster-mushroom-coffee-grounds-cultivation]]. Heavily salted foods, large amounts of citrus, and pesticide-treated material should be avoided. This broad input tolerance is one of the primary advantages over vermicomposting.
 
 ### Environmental Requirements
 

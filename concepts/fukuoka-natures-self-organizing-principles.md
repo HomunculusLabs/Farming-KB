@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Nature's Self-Organizing Principles
+## Nature's Self-Organizing Principles
 
 Masanobu Fukuoka's observations of how nature organizes itself without human intervention form the practical backbone of his [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], he allows a diverse community of plants to develop naturally beneath and between the trees. This approach creates a more resilient and productive system than conventional [[fukuoka-direct-observation-method]] is to observe and support, not to command and control.
 

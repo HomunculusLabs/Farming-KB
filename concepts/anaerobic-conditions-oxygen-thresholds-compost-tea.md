@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Anaerobic Conditions and Oxygen Thresholds in Compost Tea
+## Anaerobic Conditions and Oxygen Thresholds in Compost Tea
 
 ## What Anaerobic Organisms "Breathe"
 

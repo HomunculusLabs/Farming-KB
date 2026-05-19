@@ -6,7 +6,7 @@ type: concept
 tags: mycology, fungi]
 sources: []
 ---
-# Xerophilic and Xerotolerant Fungi
+## Xerophilic and Xerotolerant Fungi
 
 ## Overview
 

@@ -4,7 +4,7 @@ aliases: [[natural-farming-five-principles-fukuoka|farming-five-principles-fukuo
 tags: [agriculture, philosophy, farming, permaculture, sustainability]
 ---
 
-# Fukuoka [[natural-farming]]
+## Fukuoka [[natural-farming]]
 
 [[natural-farming-five-principles-fukuoka]]-farming-fukuoka|natural-farming-principles-fukuoka|natural
 farming" or "do-nothing farming." His book *The [[green-philosophy]]* presents a comprehensive

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Insectary Plants for Pest Control
+## Insectary Plants for Pest Control
 
 Insectary plants are those that attract, shelter, and sustain [[query-how-do-parasitoid-wasps-control-pest-populations]] populations. In permaculture-companion-planting for full compatibility lists. Key insectary species include:
 

@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Non-Causality and Rice Blast Disease
+## Non-Causality and Rice Blast Disease
 
 [[savory-growing-season-and-non-growing-season-management]], transforming what was once a sporadic
 intervention into a permanent feature of [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] and

@@ -7,7 +7,7 @@ tags: [cannabis, health, medicine, cancer]
 sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 ---
 
-# Cannabis for Cancer Patients
+## Cannabis for Cancer Patients
 
 Cannabis has a well-established role in managing cancer symptoms, and emerging (though not yet conclusive) evidence for direct anti-tumor effects. The distinction between symptom management and anti-cancer properties is critical.
 

@@ -1,4 +1,8 @@
-# Water Harvesting and Conservation in Permaculture
+---
+title: "Water Harvesting and Conservation in Permaculture"
+tags:
+  - concept
+---
 
 Water is the foundation of any productive landscape. In permaculture, the goal is not merely to conserve water but to actively harvest, slow, sink, and cycle it through the ecosystem. Every drop that falls on or flows through a site can be guided toward productive use rather than lost to runoff and erosion.
 

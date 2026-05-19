@@ -20,7 +20,7 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-# Psilocybin Psychotherapy
+## Psilocybin Psychotherapy
 
 The use of psilocybin and psilocybin-containing mushrooms in clinical and therapeutic settings, from early psycholytic therapy to modern clinical trials. Based on [[jochen-gartz]]'s historical survey and contemporary research. See also [[psilocybin-mushroom-chemistry]] for pharmacological details.
 

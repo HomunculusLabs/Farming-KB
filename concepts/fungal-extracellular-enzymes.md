@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, biochemistry, enzymology, decomposition]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
+sources: ["raw/papers/unknown-mycelium-running.md"]
 type: concept
 ---
 
-# Fungal Extracellular Enzymes
+## Fungal Extracellular Enzymes
 
 Fungi are among the most biochemically versatile organisms on Earth, primarily
 because they deploy an arsenal of extracellular enzymes to decompose complex

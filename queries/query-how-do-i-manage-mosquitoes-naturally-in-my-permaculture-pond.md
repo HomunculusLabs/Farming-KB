@@ -5,7 +5,7 @@ title: "Integrated Mosquito Management for bacillus-thuringiensis israelensis fo
 created: 2026-05-07
 type: query
 ---
-# Integrated Mosquito Management  and Homestead Ponds
+## Integrated Mosquito Management  and Homestead Ponds
 
 > **TL;DR:** The most effective mosquito strathemenway-water-harvesting-and-pond-design single fix — it's a layered system of pond design, biological predators, physical barriers, and targeted natural larvicides. When stacked together, these approaches create a pond ecosystem that suppresses mosquitoes while supporting fish, wildlife, and food production.
 

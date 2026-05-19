@@ -21,7 +21,7 @@ sources:
 - raw/papers/a-golden-guide-to-hallucinogenic-plants.md
 ---
 
-# Hallucinogenic Plants of the New World
+## Hallucinogenic Plants of the New World
 
 Based on [[richard-evans-schultes-updated]]'s Golden Guide. The New World has far more hallucinogenic species in active cultural use (90+) than the Old World (15-20). This disparity is not explained by botanical distribution — Old World plants like Cannabis and Amanita have been largely abandoned for hallucinogenic use. See hallucinogenic plants new world for Old World species.
 

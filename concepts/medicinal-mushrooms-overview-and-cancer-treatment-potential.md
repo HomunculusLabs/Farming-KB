@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Medicinal Mushrooms Overview and Cancer Treatment Potential
+## Medicinal Mushrooms Overview and Cancer Treatment Potential
 
 This comprehensive report (Smith, Rowan and Sullivan, University of Strathclyde, May 2002) examines the therapeutic properties of [[medicinal-mushrooms]] with special emphasis on cancer treatments. Commissioned by the Cancer Research Campaign, it reviews Oriental and Western literature on mushroom-derived bioactive compounds.
 

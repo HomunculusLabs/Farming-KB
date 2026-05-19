@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Tropical vs Temperate Distribution of Neurotropic Fungi
+## Tropical vs Temperate Distribution of Neurotropic Fungi
 
 ## Distribution Overview
 

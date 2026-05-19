@@ -20,7 +20,7 @@ related:
   - ternary-plot-microbiome
 ---
 
-# Acidobacteria iii1-15 Decline in Cannabis Endorhiza
+## Acidobacteria iii1-15 Decline in Cannabis Endorhiza
 
 ## Overview
 

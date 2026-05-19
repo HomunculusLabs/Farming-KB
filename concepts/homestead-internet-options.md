@@ -7,7 +7,7 @@ tags: [off-grid, homesteading, sustainability, tools, engineering]
 sources: []
 ---
 
-# Homestead Internet Options
+## Homestead Internet Options
 
 Reliable internet access is increasingly essential for homesteaders — remote work, online education, weather forecasting, emergency communication, and market access all depend on connectivity. Off-grid locations often lack cable or fiber options, but several technologies can deliver usable internet to rural properties. This guide compares available options with honest assessments of speed, cost, and reliability.
 

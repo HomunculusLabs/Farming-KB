@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: entity
 ---
 
-# Johnny's Selected Seeds
+## Johnny's Selected Seeds
 
 ## Description
 

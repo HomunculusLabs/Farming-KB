@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Watts Self-Help Group and Urban Community Organizing
+## Watts Self-Help Group and Urban Community Organizing
 
 [[bill-mollison]]'s account of the Watts Self-Help Group in Los Angeles represents one of the most remarkable examples of community organizing described in the [[permaculture]] literature. It demonstrates how [[permaculture-principles]] of careful observation, [[functional-design-component-placement]], and non-stratified organization can be applied even in the most extreme [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]].
 

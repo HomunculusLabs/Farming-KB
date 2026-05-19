@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Taphrinales: Gall-Forming Biotrophic Ascomycetes
+## Taphrinales: Gall-Forming Biotrophic Ascomycetes
 
 The Taphrinales are a small but distinctive order of
 biotrophic ascomycetes that cause plant diseases

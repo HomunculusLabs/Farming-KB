@@ -9,7 +9,7 @@ sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainabl
 type: concept
 ---
 
-# Forest Garden Strategy and Ecological Succession
+## Forest Garden Strategy and Ecological Succession
 
 The [[companion-planting]] is not the same as ecological succession. Ecological
 succession is a process by which cleared soil fixes itself through certain

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Vineyard Success Story - AACT Mildew Control
+## Vineyard Success Story - AACT Mildew Control
 
 Extracted from [[ingham-aact-field-guide-index]] Guide, documenting the SARE
 vineyard trial and related case studies using [[ingham-beauveria-parasitic-fungi]]

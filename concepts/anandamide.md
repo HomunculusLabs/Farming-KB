@@ -19,7 +19,7 @@ synopsis: >-
   inhibited by CBD.
 ---
 
-# Anandamide (AEA)
+## Anandamide (AEA)
 
 ## Discovery
 

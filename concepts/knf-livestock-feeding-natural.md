@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-# KNF Livestock Feeding Natural
+## KNF Livestock Feeding Natural
 
 updated: 2026-18
 

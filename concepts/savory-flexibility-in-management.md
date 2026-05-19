@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Flexibility in Management
+## Flexibility in Management
 
 Putting holism into practice means accepting the fact that any [[savory-holistic-goal-definition]] and the whole it encompasses, and you must be
 free from rules, systems, and restraints to manage the whole effectively.

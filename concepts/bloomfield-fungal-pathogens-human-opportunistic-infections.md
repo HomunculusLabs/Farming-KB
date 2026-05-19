@@ -5,7 +5,7 @@ tags: [mycology, fungi, bloomfield, human-pathogens, mycoses, candidiasis, crypt
 created: 2026-05-11
 ---
 
-# Fungal Pathogens and Opportunistic Human Infections
+## Fungal Pathogens and Opportunistic Human Infections
 
 In Chapter 2 of *Mr. Bloomfield's Orchard*, titled "Insidious Killers,"
 Nicholas P. Money confronts the darker side of our relationship with fungi.

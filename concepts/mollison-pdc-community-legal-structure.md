@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["bill-mollison-permaculture-design-course.md"]
 type: concept
 ---
-# Permaculture Community Legal Structures Bill Mollison's [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles for the [[community-supported-agriculture-csa]] for production models
+## Permaculture Community Legal Structures Bill Mollison's [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles for the [[community-supported-agriculture-csa]] for production models
 - land trust conservation for conservation easement approaches
 - cooperative farming models for agricultural cooperation
 - bioregionalism for geographic [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also

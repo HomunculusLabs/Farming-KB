@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [knf, input-preparation, fermentation]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+sources: ["raw/papers/chos-global-natural-farming.md"]
 type: concept
 ---
 
@@ -118,3 +117,5 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
+
+This fermented fruit juice preparation exemplifies the Korean Natural Farming approach of cultivating indigenous microorganisms for plant nutrition.

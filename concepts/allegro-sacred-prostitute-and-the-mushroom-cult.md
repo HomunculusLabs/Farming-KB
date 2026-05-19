@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Sacred Prostitute and the Mushroom Cult
+## Sacred Prostitute and the Mushroom Cult
 
 Allegro reveals that the cultic prostitute (hierodule) of the ancient world served not merely as a sexual partner in fertility rites but primarily as a practitioner of vegetative magic — specifically, in the harvesting and seduction of the [[allegro-amanita-muscaria-properties-and-pharmacology]] is involved.
 

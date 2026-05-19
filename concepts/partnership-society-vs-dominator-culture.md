@@ -7,7 +7,7 @@ created: 2026-05-10
 tags: [anthropology, culture, history, gender, social-theory, civilization]
 ---
 
-# Partnership Society vs Dominator Culture
+## Partnership Society vs Dominator Culture
 
 ## Overview
 

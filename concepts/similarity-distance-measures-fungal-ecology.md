@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Similarity and Distance Measures in Fungal Community Ecology
+## Similarity and Distance Measures in Fungal Community Ecology
 
 [[distance-coefficients-fungal-community-comparison]] are fundamental tools in [[fungal-diversity-fire-ecology]]
 for comparing species assemblages across samples, sites, or environmental gradients.

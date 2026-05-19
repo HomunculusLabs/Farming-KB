@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Stopping the Advance of Deserts Through Natural Revegetation
+## Stopping the Advance of Deserts Through Natural Revegetation
 
 The global decline of vegetation and the advance of deserts represents
 one of the most critical ecological crises of the modern era. Fukuoka's

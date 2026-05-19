@@ -7,7 +7,7 @@ sources:
   - "raw/papers/unknown-mycelium-running.md"
 ---
 
-# Vitamin D Enhancement in Mushrooms Through UV Exposure
+## Vitamin D Enhancement in Mushrooms Through UV Exposure
 
 Mushrooms are unique among foods in their ability to generate
 vitamin D when exposed to ultraviolet (UV) light. Unlike plants,

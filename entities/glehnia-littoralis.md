@@ -18,7 +18,7 @@ sources:
   - Lee, S.H. et al. (2019). "Coumarins from the roots of Glehnia littoralis and their anti-inflammatory activity." Natural Product Sciences, 25(4), 284-289.
 ---
 
-# Glehnia littoralis
+## Glehnia littoralis
 
 ## Overview
 

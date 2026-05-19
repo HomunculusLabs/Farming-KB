@@ -4,7 +4,7 @@ source: greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
 
-# Cannabis Harvesting, Drying, and Curing
+## Cannabis Harvesting, Drying, and Curing
 
 ## Overview
 

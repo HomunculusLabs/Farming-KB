@@ -22,7 +22,7 @@ sources:
   - Liu, J. (1995). "Pharmacology of oleanolic acid and ursolic acid." Journal of Ethnopharmacology.
 ---
 
-# Ursolic Acid
+## Ursolic Acid
 
 ## Overview
 

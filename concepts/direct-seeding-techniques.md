@@ -7,7 +7,7 @@ tags: [gardening, seeds, planting, techniques, vegetables, beginner]
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Direct Seeding Techniques
+## Direct Seeding Techniques
 
 Methods for sowing seeds directly in the garden rather than starting them indoors and transplanting. Steve Solomon strongly prefers direct seeding for most vegetables, arguing that directly seeded plants often outgrow transplants because they never suffer root shock.
 

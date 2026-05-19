@@ -5,7 +5,7 @@ type: concept
 tags: [mckenna, dmt, black-hole, epistemology, communication, tryptamine, ineffability]
 ---
 
-# DMT Black Hole Effect and Epistemic Isolation
+## DMT Black Hole Effect and Epistemic Isolation
 
 ## Overview
 

@@ -5,7 +5,7 @@ type: entity
 tags: [chemistry, nitrogen-fixation, industrial-process, agriculture-history, fertilizer]
 ---
 
-# Haber-Bosch Process
+## Haber-Bosch Process
 
 ## Description
 

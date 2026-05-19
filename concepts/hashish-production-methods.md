@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [cannabis, hashish, extraction, trichomes, traditional]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3erpz/wiki/raw/papers/ben-lemon-cannabis-alchemy.md]
+sources: ["raw/papers/ben-lemon-cannabis-alchemy.md"]
 type: concept
 ---
 
-# Hashish Production Methods
+## Hashish Production Methods
 
 Hashish (hash) is a concentrated cannabis product made by separating and
 collecting the resin-rich trichome glands from cannabis flowers and leaves.

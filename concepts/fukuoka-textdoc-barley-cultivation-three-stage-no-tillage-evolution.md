@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Three Stages of Barley Cultivation and No-Tillage Evolution
+## Three Stages of Barley Cultivation and No-Tillage Evolution
 
 ## Overview
 

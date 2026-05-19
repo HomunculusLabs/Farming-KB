@@ -7,7 +7,7 @@ tags: [chemistry, tihkal, 2c-family]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# 2C-C (CE; 4-Chloro-2,5-dimethoxy-PEA)
+## 2C-C (CE; 4-Chloro-2,5-dimethoxy-PEA)
 
 **Chemical name:** 2,5-Dimethoxy-4-chlorophenethylamine
 

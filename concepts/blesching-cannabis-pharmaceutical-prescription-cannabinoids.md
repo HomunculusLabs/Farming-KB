@@ -5,7 +5,7 @@ source_path: raw/papers/uwe-blesching-the-cannabis-health-index.md
 tags: [cannabis, pharmaceutical, dronabinol, nabilone, sativex, marinol, FDA, prescription, synthetic-cannabinoid, endocannabinoid]
 ---
 
-# Pharmaceutical Prescription Cannabinoids
+## Pharmaceutical Prescription Cannabinoids
 
 ## Overview
 

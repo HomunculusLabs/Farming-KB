@@ -11,7 +11,7 @@ sources:
 updated: 2026-04-26
 ---
 
-# Holistic Management Overview
+## Holistic Management Overview
 
 Holistic Resource Management (HRM) is a decision-making framework developed by Allan Savory that treats people, their economy, and their environment as a single interconnected whole. Rather than managing land, livestock, or finances in isolation, HRM requires managing the entire system holistically—recognizing that no part can be healthy if the whole is not.
 

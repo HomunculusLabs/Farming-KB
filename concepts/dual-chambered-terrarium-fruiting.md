@@ -5,7 +5,7 @@ tags: [cultivation, pf-tek, fruiting, terrarium, humidity, mycology, mushroom]
 created: 2026-05-09
 ---
 
-# Dual Chambered Terrarium Fruiting
+## Dual Chambered Terrarium Fruiting
 
 ## Overview
 

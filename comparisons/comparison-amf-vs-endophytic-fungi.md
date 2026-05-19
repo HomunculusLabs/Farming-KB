@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Arbuscular [[soil-nutrient-cycling]] and mineral nutrition, whereas endophytes excel at
+## Arbuscular [[soil-nutrient-cycling]] and mineral nutrition, whereas endophytes excel at
 inducing systemic defenses and enhancing resilience under abiotic stress. Understanding their
 Understanding their differences is critical for selecting the right biological approach in agriculture,
 horticulture, ecological restoration, and biotechnology. The following sections detail each

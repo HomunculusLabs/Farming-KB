@@ -7,7 +7,7 @@ tags: [herbalism, herbs]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Greek Wine and Herbal Inebriants
+## Greek Wine and Herbal Inebriants
 
 **Source:** The [[amanita-muscaria-ancient-wine-question]] was "ordinarily a variable infusion of herbal toxins in a vinous liquid." This understanding is essential to comprehending [[permaculture-plants-medicinal-herbs-healing]] that were added to wine:
 

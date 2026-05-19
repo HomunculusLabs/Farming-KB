@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# TMA-4
+## TMA-4
 
 [[psilocybin-mushroom-potency-and-dosage-guide]] and Du[[guzman-psilocybin-mushrooms-south-america]]. Based upon the
 volunteered [[psilocybin-containing-mushrooms-united-states]] that it is 4x the potency of [[emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-potency-variability-2006]]s

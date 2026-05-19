@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: []
 ---
 
-# Cannabis Guerrilla Growing Guide
+## Cannabis Guerrilla Growing Guide
 
 Guerrilla growing is the practice of cultivating cannabis in remote, concealed outdoor locations away from the grower's home. This method allows growers in restrictive jurisdictions or those without suitable home [[fukuoka-creating-natural-farm-site-selection-establishment]], security, timing, and the ability to minimize visits to the grow site.
 

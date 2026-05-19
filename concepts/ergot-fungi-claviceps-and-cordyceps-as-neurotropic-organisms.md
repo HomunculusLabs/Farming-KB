@@ -6,7 +6,7 @@ created: 2026-05-09
 tags: [ergot, claviceps, cordyceps, ergotamine, lsd, neurotropic, parasitic]
 ---
 
-# Ergot Fungi: Claviceps and Cordyceps as Neurotropic Organisms
+## Ergot Fungi: Claviceps and Cordyceps as Neurotropic Organisms
 
 ## Overview
 

@@ -15,7 +15,7 @@ sources:
   - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
 ---
 
-# Galerina marginata
+## Galerina marginata
 
 **Galerina marginata** is a species of deadly [[environmental-dna-sequencing-fungi]] of the ITS (Internal Transcribed Spacer) region have conclusively demonstrated that these are all conspecific, representing morphological and geographical variations within a single widespread species now unified under the name Galerina marginata sensu lato. This taxonomic consolidation is significant from a safety perspective, as it means that all of these previously separate "species" carry the same deadly toxicity.
 

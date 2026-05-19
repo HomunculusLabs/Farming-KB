@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [disease, pathology, virus, prevention]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
 
-# Oyster Mushroom Viral Disease
+## Oyster Mushroom Viral Disease
 
 [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] diseases, yet they occur
 sporadically and can cause devastating losses on affected farms. Unlike green

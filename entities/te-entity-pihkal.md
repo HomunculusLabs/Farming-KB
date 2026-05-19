@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# TE
+## TE
 
 [[ethyl-j-entity-pihkal|ethyl]] group (of the ethylthio
 on the 4-position) is just one carbon atom longer than the [[2-4-dma-entity-pihkal]]

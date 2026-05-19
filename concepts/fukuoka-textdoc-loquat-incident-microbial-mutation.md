@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# The Loquat Incident and Microbial Mutation Dangers
+## The Loquat Incident and Microbial Mutation Dangers
 
 Fukuoka recounts a local incident involving loquat orchards in his village to
 illustrate the hidden dangers of pesticide use and the potential for microbial

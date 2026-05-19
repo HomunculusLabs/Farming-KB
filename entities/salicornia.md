@@ -5,7 +5,7 @@ type: entity
 tags: [species, genus, chenopodiaceae, salt-tolerant, halophyte, samphire, dryland, permaculture]
 ---
 
-# Salicornia
+## Salicornia
 
 ## Description
 

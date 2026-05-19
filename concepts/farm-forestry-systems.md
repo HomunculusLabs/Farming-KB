@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Farm Forestry Systems
+## Farm Forestry Systems
 
 Farm forestry integrates tree production into agricultural landscapes, combining ecological function with economic yield. As outlined in *[[agroforestry]] systems.
 - **Fish breeding operations** — Supplying fingerlings for farm dams and aquaculture integrated with forestry.

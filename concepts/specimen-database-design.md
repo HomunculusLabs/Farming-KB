@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Specimen Database Design
+## Specimen Database Design
 
 Specimen database design encompasses the principles, structures, and practices for building [[relational-databases-fungal-systematics]] that document the occurrence of organisms in a given place at a given time. A well-designed personal database can serve both the needs of the researcher and provide valuable data for comprehensive biodiversity studies.
 

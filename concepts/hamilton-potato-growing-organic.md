@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Potato Growing - Organic Methods
+## Potato Growing - Organic Methods
 
 Potatoes are one of the most rewarding crops for the organic gardener.
 Geoff Hamilton considered the potato to be a vegetable that truly

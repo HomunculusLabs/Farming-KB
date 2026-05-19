@@ -4,7 +4,7 @@ source: master-cho-knf-recipe-book.md
 type: concept
 ---
 
-# Korean Natural Farming — Master Cho's KNF Input System
+## Korean Natural Farming — Master Cho's KNF Input System
 
 Korean Natural Farming (KNF), developed by Master Han-Kyu Cho, is a system of sustainable agriculture that uses locally-sourced, naturally-fermented inputs to build soil health, enhance plant vitality, and reduce or eliminate dependence on external chemical inputs. The core principle: strengthen plants through their own natural vitality rather than attacking [[mushroom-pests-and-diseases]] with toxins.
 

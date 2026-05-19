@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Deconica crobula
+## Deconica crobula
 
 **Deconica crobula** (formerly classified as *Psilocybe crobula*) is a small, non-bluing mushroom in the family Hymenogastraceae. It was originally described within the genus Psilocybe but was reclassified to Deconica following molecular phylogenetic studies that demonstrated the genus Psilocybe was polyphyletic. Species in Deconica do not contain psilocybin or related psychoactive alkaloids.
 

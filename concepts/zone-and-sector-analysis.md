@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Zone and Sector Analysis
+## Zone and Sector Analysis
 
 Zone and sector analysis is a foundational [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
 - [[zone-sector-analysis-guide]]

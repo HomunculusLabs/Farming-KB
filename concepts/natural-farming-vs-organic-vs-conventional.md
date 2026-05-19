@@ -24,7 +24,7 @@ sources:
 - raw/papers/chos-global-natural-farming.md
 ---
 
-# Natural Farming vs Organic vs Conventional
+## Natural Farming vs Organic vs Conventional
 
 Understanding the philosophical and practical differences between three major approaches to growing food. Each represents a fundamentally different relationship with land. See [[natural-farming-fukuoka]] for the Fukuoka method, [[knf-preparations]] for Korean Natural Farming inputs, and [[regenerative-agriculture-history]] for the modern synthesis.
 

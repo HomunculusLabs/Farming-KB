@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-one-straw-revolution.md
 ---
 
-# Fukuoka: Limits of the Scientific Method in Agriculture
+## Fukuoka: Limits of the Scientific Method in Agriculture
 
 ## Before Researchers Become Researchers
 

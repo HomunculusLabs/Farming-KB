@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md"
 ---
-# Persephone Abduction and the Narkissos
+## Persephone Abduction and the Narkissos
 
 **Source:** The [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]], the earth grew the flower at the will of Zeus "to be a snare for the bloom-like girl." Its extraordinary appearance — "from its root grew a hundred blooms" — marked it as supernatural, set apart from ordinary flowers.
 

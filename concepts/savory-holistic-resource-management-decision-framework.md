@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Holistic Management Decision Framework
+## Holistic Management Decision Framework
 
 The holistic management decision framework is the core decision-making
 system in Allan Savory's HRM model. It consists of seventeen guidelines

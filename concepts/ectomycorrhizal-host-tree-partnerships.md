@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: ["raw/papers/john-dighton-fungi-in-ecosystem-processes.md"]
 ---
-# Ectomycorrhizal Host Tree Partnerships
+## Ectomycorrhizal Host Tree Partnerships
 
 Ectomycorrhizal host tree partnerships are the symbiotic associations between ectomycorrhizal fungi and the roots of woody plants, primarily trees in certain plant families. These partnerships are fundamental to forest ecology, affecting tree nutrition, health, and competitive interactions, while also determining the distribution and productivity of edible mushroom species.
 

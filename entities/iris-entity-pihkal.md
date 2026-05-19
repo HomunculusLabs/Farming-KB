@@ -1,4 +1,8 @@
-# IRIS
+---
+title: "IRIS"
+tags:
+  - entitie
+---
 
 [[iris-entity]]
 

@@ -7,7 +7,7 @@ tags: [cover-crop, soil, methods, regenerative, npk, plant-growth, timeline, tro
 sources: []
 ---
 
-# Cover Crop Termination
+## Cover Crop Termination
 
 Cover crop termination is the process of killing a cover crop at the right time and in the right way to transition to a cash crop. The method and timing of termination directly affect nutrient release, soil structure, weed suppression, and the success of the following crop. Choosing the right termination strategy is essential for maximizing the benefits of your [[cover-cropping-guide]] investment.
 

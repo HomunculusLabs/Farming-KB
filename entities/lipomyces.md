@@ -5,7 +5,7 @@ type: entity
 tags: [yeast, ascomycete, soil-isolate, oleaginous, lipid-production]
 ---
 
-# Lipomyces
+## Lipomyces
 
 ## Description
 

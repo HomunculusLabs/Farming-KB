@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook
 topics: history, intensive-gardening, french-agriculture, market-gardening
 ---
 
-# Louis Savier: A Twentieth-Century Maraicher
+## Louis Savier: A Twentieth-Century Maraicher
 
 ## The Last of a Lineage
 

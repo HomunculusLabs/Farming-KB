@@ -7,7 +7,7 @@ tags: [homesteading, animal-husbandry, food, plants, pollinators]
 sources: []
 ---
 
-# Honey Varieties Guide
+## Honey Varieties Guide
 
 Monofloral honey comes predominantly from a single nectar source. The flavor,
 color, [[ginseng-cultivation-and-medicinal-properties]] vary dramatically depending on the floral

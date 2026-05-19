@@ -16,7 +16,7 @@ sources:
 created: 2026-05-10
 ---
 
-# Soil Moisture Management and Root Growth
+## Soil Moisture Management and Root Growth
 
 The relationship between soil moisture and root growth is one of the most important and frequently misunderstood aspects of [[comparison-fermented-vegetables-vs-canning]]).
 

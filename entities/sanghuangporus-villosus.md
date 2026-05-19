@@ -15,7 +15,7 @@ sources:
   - Zhu, M. et al. (2019). "psilocybe-genus-diversity-and-taxonomy of Sanghuangporus in East Asia." Mycologia, 112(3), 572-586.
 ---
 
-# Sanghuangporus villosus
+## Sanghuangporus villosus
 
 ## Overview
 

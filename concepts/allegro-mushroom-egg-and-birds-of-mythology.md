@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Mushroom Egg and Birds of Mythology
+## Mushroom Egg and Birds of Mythology
 
 Allegro demonstrates that a vast web of bird mythology in the ancient world — doves, pigeons, swans, storks, pelicans, and others — derives from the resemblance between the mushroom's volva (egg) and canopy (nest) and the physical characteristics and behaviours of these creatures.
 

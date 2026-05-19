@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: ["raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 ---
 
-# How Do I Grow Salad Greens and Lettuce Year-Round?
+## How Do I Grow Salad Greens and Lettuce Year-Round?
 
 ## Short Answer
 

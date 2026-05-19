@@ -5,7 +5,7 @@ source_path: "raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essentia
 topics: [oner, strain-profile, peptide, limestone-city-seeds, rcmc, durban-poison, heavy-duty-fruity, sweet-tooth, canadian-genetics, sativa-dominant]
 ---
 
-# Peptide — (Heavy Duty Fruity × Sweet Tooth #3) × Durban Poison
+## Peptide — (Heavy Duty Fruity × Sweet Tooth #3) × Durban Poison
 
 ## Overview
 

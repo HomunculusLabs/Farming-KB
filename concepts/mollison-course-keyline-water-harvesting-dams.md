@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
-# Keyline Water Harvesting and [[mollison-course-swales-and-earthworks-design]] for [[mollison-course-aquatic-plant-systems-ponds]] for biological [[comparison-dam-construction-vs-swale-design]] has a range of practical applications that make it relevant to
+## Keyline Water Harvesting and [[mollison-course-swales-and-earthworks-design]] for [[mollison-course-aquatic-plant-systems-ponds]] for biological [[comparison-dam-construction-vs-swale-design]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

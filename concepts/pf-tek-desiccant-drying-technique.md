@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# PF TEK Desiccant Drying Technique
+## PF TEK Desiccant Drying Technique
 
 Cool desiccation is the [[pf-tek]]'s recommended method for drying harvested
 mushrooms. Using chemical desiccants to absorb moisture from the surrounding

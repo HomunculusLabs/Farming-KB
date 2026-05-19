@@ -6,7 +6,7 @@ updated: 2026-05-09
 sources: []
 ---
 
-# Mullein vs St John's Wort
+## Mullein vs St John's Wort
 
 ## Overview
 

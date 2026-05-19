@@ -12,7 +12,7 @@ sources:
   - raw/papers/harner-j-hallucinogens-and-shamanism.md
 ---
 
-# Common Themes in South American Indian Yagé Experiences
+## Common Themes in South American Indian Yagé Experiences
 
 **Author:** [[beta-carboline-chemistry]] — appears to produce consistent visionary content across unrelated cultures.
 

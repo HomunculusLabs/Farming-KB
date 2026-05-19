@@ -4,7 +4,7 @@ aliases: ["radio entelechy DMT", "DMT mckenna-dmt-onset-phenomenology-ripping-ce
 tags: [dmt, tryptamines, phenomenology, auditory, mckenna, onset]
 ---
 
-# McKenna's Radio Entelechy and DMT Onset Acoustic Phenomena
+## McKenna's Radio Entelechy and DMT Onset Acoustic Phenomena
 
 ## Overview
 

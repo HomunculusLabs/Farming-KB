@@ -5,7 +5,7 @@ tags: [mycology, mushroom-cultivation, stump-culture, forestry, permaculture, go
 created: 2026-05-11
 ---
 
-# Mushroom Stump Cultivation
+## Mushroom Stump Cultivation
 
 ## Overview
 

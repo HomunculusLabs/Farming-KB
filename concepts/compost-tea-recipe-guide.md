@@ -9,7 +9,7 @@ sources:
   - raw/papers/lowenfels-teaming-with-microbes.md
 ---
 
-# Compost Tea Recipe Guide
+## Compost Tea Recipe Guide
 
 ## Overview
 

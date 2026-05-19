@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Permaculture Self-Regulation, Energy Hierarchy, and Personal Responsibility
+## Permaculture Self-Regulation, Energy Hierarchy, and Personal Responsibility
 
 This page extends Principle 4 (Apply Self-Regulation and Accept Feedback) into social and political dimensions: tripartite altruism, energy hierarchy, elite failure, personal responsibility, self-audit, addiction, self-reliance as political action, and [[williams-pdc-disaster-preparedness]].
 

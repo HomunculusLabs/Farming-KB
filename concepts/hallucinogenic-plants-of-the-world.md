@@ -8,7 +8,7 @@ sources:
   - raw/papers/a-golden-guide-to-hallucinogenic-plants.md
 ---
 
-# Hallucinogenic Plants of the World
+## Hallucinogenic Plants of the World
 
 ## Overview
 

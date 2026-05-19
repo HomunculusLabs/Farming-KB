@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Teonanacatl and Aztec Mushroom Use in Colonial Codices
+## Teonanacatl and Aztec Mushroom Use in Colonial Codices
 
 ## The Word Teonanacatl
 

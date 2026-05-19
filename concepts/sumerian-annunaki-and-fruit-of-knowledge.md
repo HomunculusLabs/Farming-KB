@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Sumerian Anunnaki and the Fruit of Knowledge
+## Sumerian Anunnaki and the Fruit of Knowledge
 
 ## Overview
 

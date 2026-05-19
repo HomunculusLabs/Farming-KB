@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Rest as a [[savory-holistic-resource-management-animal-impact]] Management differs fundamentally
+## Rest as a [[savory-holistic-resource-management-animal-impact]] Management differs fundamentally
 from the short physiological rest a plant requires to recover from
 severe defoliation. Here, rest means rest from major physical
 disturbance and applies to the community as a whole. It is one of

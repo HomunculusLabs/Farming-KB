@@ -6,7 +6,7 @@ source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the
 created: 2026-05-11
 ---
 
-# Cross-Kingdom Steroid Signaling: Brassinosteroid Receptors in Fungi
+## Cross-Kingdom Steroid Signaling: Brassinosteroid Receptors in Fungi
 
 ## Overview
 

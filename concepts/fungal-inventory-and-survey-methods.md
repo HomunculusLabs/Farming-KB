@@ -1,4 +1,8 @@
-# Fungal Inventory and Survey Methods
+---
+title: "Fungal Inventory and Survey Methods"
+tags:
+  - concept
+---
 
 ## Overview
 Inventoring [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].

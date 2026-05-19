@@ -4,7 +4,7 @@ source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 tags: [mycology, psilocybe, biogeography, zapotecorum, section-zapotecorum, disjunct-distribution, pacific, americas]
 ---
 
-# Psilocybe Section Zapotecorum: Americas-Pacific Disjunct Distribution
+## Psilocybe Section Zapotecorum: Americas-Pacific Disjunct Distribution
 
 ## Overview
 

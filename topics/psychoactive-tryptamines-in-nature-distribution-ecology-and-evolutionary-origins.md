@@ -23,7 +23,7 @@ related_concepts:
   - fungal-decomposition-and-the-global-carbon-cycle
 ---
 
-# Psychoactive Tryptamines in Nature
+## Psychoactive Tryptamines in Nature
 
 Psychoactive tryptamines represent one of the most intriguing categories of bioactive
 compounds found in nature. These substances, which include psilocybin, psilocin,

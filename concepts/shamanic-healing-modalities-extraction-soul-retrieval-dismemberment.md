@@ -1,5 +1,10 @@
+---
+title: "Shamanic Healing Modalities Extraction Soul Retrieval Dismemberment"
+tags:
+  - concept
+---
 
-# Shamanic Healing Modalities — Extraction, Soul Retrieval, and Dismemberment
+## Shamanic Healing Modalities — Extraction, Soul Retrieval, and Dismemberment
 
 ## Overview
 

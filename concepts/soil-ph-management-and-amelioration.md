@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Soil pH Management and Amelioration
+## Soil pH Management and Amelioration
 
 ## Overview
 

@@ -13,7 +13,7 @@ sources:
   - metzner-neoshamanic-medicine-circles-structure-and-practice|metzner-metzner-talking-metzner-talking-staff-and-preparation-integration-in-hybrid-ceremonies|staff-and-preparation-integration-in-hybrid-ceremonies|talking-staff-and-preparation-integration-in-hybrid-ceremonies|metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
-# Neoshamanic Preparation and Integration Practices
+## Neoshamanic Preparation and Integration Practices
 
 In hybrid shamanic-therapeutic circle rituals, the practices surrounding the
 metzner-shamanic-healing-and-divination-paradigm before entering ceremony. This preparatory intention-

@@ -25,7 +25,7 @@ tags: [profile]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Bjerkandera adusta
+## Bjerkandera adusta
 
 **Bjerkandera adusta**, the **smoky polypore**, is a cosmopolitan [[lignin-peroxidase-mechanism]] (LiP), and [[mollison-designers-wastewater-treatment-wetlands]].
 

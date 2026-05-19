@@ -28,7 +28,7 @@ related:
   - microbial-ecology
 ---
 
-# Environmental Mycology
+## Environmental Mycology
 
 Environmental mycology is the study of fungal organisms in their natural habitats, with a principal focus on the diverse and critical roles that fungi play in terrestrial ecosystems. Fungi are ubiquitous across virtually every environment on Earth, occurring as unicellular yeasts, polymorphic or filamentous fungi, and in both free-living and symbiotic forms. Their metabolic versatility and ecological adaptability place them at the center of major ecosystem processes including decomposition, nutrient cycling, plant health, and soil formation.
 

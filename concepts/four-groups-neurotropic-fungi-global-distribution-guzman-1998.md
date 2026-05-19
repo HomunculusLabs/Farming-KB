@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Four Groups of Neurotropic Fungi and Their Global Distribution
+## Four Groups of Neurotropic Fungi and Their Global Distribution
 
 ## Overview
 

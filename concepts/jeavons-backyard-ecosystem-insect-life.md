@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Backyard Ecosystem and Insect Life
+## Backyard Ecosystem and Insect Life
 
 [[jeavons-soil-fertility]]
 [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

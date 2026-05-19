@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Swale vs Rainwater Harvesting
+## Swale vs Rainwater Harvesting
 
 ## Overview
 

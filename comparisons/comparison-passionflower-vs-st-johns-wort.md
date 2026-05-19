@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Passionflower vs St. John's Wort
+## Passionflower vs St. John's Wort
 
 ## Overview
 

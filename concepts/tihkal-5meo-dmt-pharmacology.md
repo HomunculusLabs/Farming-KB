@@ -7,7 +7,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# 5-MeO-DMT Pharmacology and Comparison to DMT
+## 5-MeO-DMT Pharmacology and Comparison to DMT
 
 ## Chemical Identity
 

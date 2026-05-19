@@ -6,7 +6,7 @@ updated: 2026-05-15
 sources: []
 ---
 
-# How Do I Create a Xeriscape or Drought-Tolerant Garden?
+## How Do I Create a Xeriscape or Drought-Tolerant Garden?
 
 ## Short Answer
 

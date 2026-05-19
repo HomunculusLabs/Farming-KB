@@ -5,7 +5,7 @@ type: entity
 tags: [buddhism, tibetan-buddhism, archetype, wrathful-deity]
 ---
 
-# Heruka
+## Heruka
 
 ## Description
 

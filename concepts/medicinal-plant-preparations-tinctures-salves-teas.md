@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Medicinal Plant Preparations — Tinctures, Salves, Teas
+## Medicinal Plant Preparations — Tinctures, Salves, Teas
 
 Detailed preparation guides for common [[childrens-herbal-medicine]] forms. For an overview
 of all preparation types, equipment, and [[calendula-officinalis]]

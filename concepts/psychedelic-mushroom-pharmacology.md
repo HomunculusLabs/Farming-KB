@@ -8,7 +8,7 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
-# Psychedelic Mushroom Pharmacology
+## Psychedelic Mushroom Pharmacology
 
 ## Overview
 

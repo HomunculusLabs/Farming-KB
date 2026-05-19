@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, cultivation, permaculture, ecology, food, species, gard
 sources: []
 ---
 
-# King Stropharia (Garden Giant)
+## King Stropharia (Garden Giant)
 
 King Stropharia (Stropharia rugosoannulata), commonly known as the Wine Cap mushroom or Garden Giant, is a large, robust mushroom well-suited to outdoor cultivation in temperate climates. It is one of the easiest mushrooms to grow outdoors and integrates beautifully into permaculture garden designs, particularly in mulched garden beds, orchard understories, and food forest systems.
 

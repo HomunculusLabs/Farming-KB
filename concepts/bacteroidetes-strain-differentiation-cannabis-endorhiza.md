@@ -4,7 +4,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [microbiome, cannabis, bacteroidetes, sphingobacteriales, flavobacteriales, strain-specificity]
 ---
 
-# Bacteroidetes Strain Differentiation in Cannabis Endorhiza
+## Bacteroidetes Strain Differentiation in Cannabis Endorhiza
 
 Bacteroidetes, specifically the orders Sphingobacteriales and Flavobacteriales,
 play a notable role in distinguishing cannabis cultivar-specific endorhiza

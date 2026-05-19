@@ -7,7 +7,7 @@ tags: [homesteading, law, design, sustainability, permaculture]
 sources: []
 ---
 
-# Homestead Planning and Zoning
+## Homestead Planning and Zoning
 
 Before breaking ground on any homestead project, understanding local zoning laws, building codes, and land-use regulations is essential. Violations can result in fines, forced removal of structures, and [[sacramental-ayahuasca-legal-battles-united-states]] that drain time and money. Research before you buy, not after you build.
 

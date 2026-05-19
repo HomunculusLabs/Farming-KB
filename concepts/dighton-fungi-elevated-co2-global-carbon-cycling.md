@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungi in Elevated CO2 and Global Carbon Cycling
+## Fungi in Elevated CO2 and Global Carbon Cycling
 
 The increase in atmospheric carbon dioxide concentration and the
 consequent predicted temperature rise present complex challenges for

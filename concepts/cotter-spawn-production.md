@@ -7,7 +7,7 @@ tags: [mycology, spawn, cultivation, grain, sawdust, mycelium]
 sources:
   - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 ---
-# Spawn Production for Mushroom Cultivation
+## Spawn Production for Mushroom Cultivation
 Spawn is mycelium that is ready to be planted into a growing medium. It
 serves as the "seed" of mushroom cultivation, carrying the genetic material
 of the desired fungus into the [[duggar-mushroom-growing-history-and-methods]]. From Cotter's "[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]

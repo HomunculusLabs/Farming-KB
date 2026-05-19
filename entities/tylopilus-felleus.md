@@ -24,7 +24,7 @@ sources:
   - Knudsen, H. & Vesterholt, J. (2012). "Funga Nordica: Agaricoid, Boletoid and Clavarioid Fungi." Nordsvamp.
 ---
 
-# Tylopilus felleus
+## Tylopilus felleus
 
 ## Overview
 

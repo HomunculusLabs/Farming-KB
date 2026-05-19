@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka's Disease and Pest Management
+## Fukuoka's Disease and Pest Management
 
 **Updated:** 2026-04-18
 

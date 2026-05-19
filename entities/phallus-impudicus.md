@@ -5,7 +5,7 @@ type: entity
 tags: [species, basidiomycete, saprotroph, wood-decomposer, cord-forming]
 ---
 
-# Phallus impudicus
+## Phallus impudicus
 
 ## Description
 

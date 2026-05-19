@@ -8,7 +8,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# The Spice Trade and Medieval Drug Scarcity
+## The Spice Trade and Medieval Drug Scarcity
 
 McKenna opens his analysis of the Age of Exploration with a provocative reframing: the spice trade was not merely about commerce or culinary preference but about a civilization starved for psychoactive variety and sensory stimulation.
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# The Nelissen Farm
+## The Nelissen Farm
 
 In *The Road Back to Nature*, [[comparison-natural-farming-vs-permaculture]] to European conditions.
 

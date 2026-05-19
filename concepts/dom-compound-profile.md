@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# DOM (STP) — 2,5-Dimethoxy-4-Methylamphetamine
+## DOM (STP) — 2,5-Dimethoxy-4-Methylamphetamine
 
 ## Overview
 

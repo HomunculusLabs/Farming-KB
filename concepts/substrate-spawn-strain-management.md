@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Substrate Spawn and Strain Management
+## Substrate Spawn and Strain Management
 
 Substrate spawn and strain management form the operational backbone of any serious [[accessible-mushroom-cultivation-for-disabilities]] enterprise. Substrate spawn (generation 3) is a sawdust-based inoculum that provides a cost-effective bridge between laboratory grain spawn and bulk [[pf-tek-maximum-fruiting-substrate-formula]], while strain management — including generation tracking, coding systems, and senescence awareness — ensures that cultures remain vigorous and productive over time.
 

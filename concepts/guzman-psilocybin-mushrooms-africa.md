@@ -19,7 +19,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Psilocybin Mushrooms of Africa
+## Psilocybin Mushrooms of Africa
 
 Africa has a relatively poorly documented neurotropic mycobiota compared to other
 continents. Guzman, Allen & Gartz (2000) noted that many regions of Africa lack

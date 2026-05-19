@@ -7,7 +7,7 @@ tags: [cultivation, gardening, vegetables, pruning, pest-control, plant-growth, 
 sources: []
 ---
 
-# Tomato Growing Guide
+## Tomato Growing Guide
 
 Tomatoes ([[solanum-lycopersicum]]) are the most popular home garden crop. This guide covers the key distinctions between varieties, pruning techniques, support systems, disease management, and harvesting for maximum productivity.
 

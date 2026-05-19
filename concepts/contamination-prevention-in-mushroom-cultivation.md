@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, contamination, sterile-technique, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Contamination Prevention in Mushroom Cultivation Contamination — the unwanted growth of competitor molds, bacteria, or yeasts on mushroom cultures — is the primary cause of failure in both amateur and commercial mushroom cultivation. Understanding contamination vectors and implementing systematic prevention strategies is far more effective than trying to rescue contaminated cultures after the fact. ## The Contaminant Landscape **Trichoderma (green mold)** is the most feared contaminant in mushroom cultivation. It is aggressive, fast-growing, and produces enormous quantities of spores that readily aerosolize and colonize new substrates. Trichoderma harzianum biotype 4 is specifically adapted to mushroom compost and has caused devastating losses in commercial grain-spawn-production - [[mushroom-cultivation-fundamentals]]
+## Contamination Prevention in Mushroom Cultivation Contamination — the unwanted growth of competitor molds, bacteria, or yeasts on mushroom cultures — is the primary cause of failure in both amateur and commercial mushroom cultivation. Understanding contamination vectors and implementing systematic prevention strategies is far more effective than trying to rescue contaminated cultures after the fact. ## The Contaminant Landscape **Trichoderma (green mold)** is the most feared contaminant in mushroom cultivation. It is aggressive, fast-growing, and produces enormous quantities of spores that readily aerosolize and colonize new substrates. Trichoderma harzianum biotype 4 is specifically adapted to mushroom compost and has caused devastating losses in commercial grain-spawn-production - [[mushroom-cultivation-fundamentals]]
 ## Practical Applications
 
 Contamination Prevention in Mushroom Cultivation has a range of practical applications that make it relevant to

@@ -4,7 +4,7 @@ source: tryptamine-cubensis-gartz.md
 type: concept
 ---
 
-# Tryptamine Effects on Psilocybe Cubensis Alkaloid Profile
+## Tryptamine Effects on Psilocybe Cubensis Alkaloid Profile
 
 ## Overview
 

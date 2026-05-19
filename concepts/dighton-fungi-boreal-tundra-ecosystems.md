@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Fungi in Boreal and Tundra Ecosystems
+## Fungi in Boreal and Tundra Ecosystems
 
 ## Overview
 

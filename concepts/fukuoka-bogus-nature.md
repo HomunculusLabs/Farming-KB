@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# The Bogus Nature
+## The Bogus Nature
 
 In *The Road Back to Nature*, [[fukuoka-road-critique-of-modern-science]] civilization.
 

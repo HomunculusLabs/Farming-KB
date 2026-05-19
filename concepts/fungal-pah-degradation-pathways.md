@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
-# Fungal PAH Degradation Pathways Polycyclic aromatic hydrocarbons (PAHs) are ubiquitous environmental contaminants generated from incomplete combustion of organic materials, petroleum refining, and industrial processes. Fungi employ distinct metabolic strategies for PAH degradation that differ from bacterial pathways, primarily involving cytochrome P450 monoxygenases, ligninolytic enzymes, and epoxide hydrolases. ## Fungal vs. Bacterial PAH Metabolism [[mycoremediation-techniques]] section covers broader applications of these metabolic pathways.
+## Fungal PAH Degradation Pathways Polycyclic aromatic hydrocarbons (PAHs) are ubiquitous environmental contaminants generated from incomplete combustion of organic materials, petroleum refining, and industrial processes. Fungi employ distinct metabolic strategies for PAH degradation that differ from bacterial pathways, primarily involving cytochrome P450 monoxygenases, ligninolytic enzymes, and epoxide hydrolases. ## Fungal vs. Bacterial PAH Metabolism [[mycoremediation-techniques]] section covers broader applications of these metabolic pathways.
 
 ### Anthracene and Phenanthrene
 **Anthracene** is metabolized to 1,2-dihydroxyanthracene via epoxidation. [[staycare-cunninghamella-elegans-in-bioremediation]] produces anthracene trans-1,2-dihydrodiol as the initial metabolite, which is further transformed to 1,2-dihydroxyanthracene and ring-fission products.

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Insects and Plant Health (Solomon)
+## Insects and Plant Health (Solomon)
 
 Updated: 2026-04-18
 

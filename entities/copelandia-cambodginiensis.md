@@ -15,7 +15,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-# Copelandia cambodginiensis
+## Copelandia cambodginiensis
 
 **Copelandia cambodginiensis** (Ola'h and Heim) Singer and Weeks is a
 psychoactive mushroom species in the family Bolbitiaceae, originally

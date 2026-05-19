@@ -1,5 +1,5 @@
 ---
-title: query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work Cannabis
+title: "Light Deprivation Cannabis"
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Light Deprivation Cannabis
+## Light Deprivation Cannabis
 
 Light deprivation (also called "light dep" or blackout) is a cultivation technique used to
 induce flowering in cannabis by artificially shortening the daily light period to 12 hours.

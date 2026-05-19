@@ -9,7 +9,7 @@ sources:
 type: comparison
 ---
 
-# Topping vs Supercropping for Cannabis
+## Topping vs Supercropping for Cannabis
 
 ## Overview
 Topping and supercropping are two high-stress training (HST) techniques used

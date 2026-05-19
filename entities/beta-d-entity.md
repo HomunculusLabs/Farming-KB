@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# beta-D (3,4,5-Trimethoxy-beta,beta-dideuterophenethylamine)
+## beta-D (3,4,5-Trimethoxy-beta,beta-dideuterophenethylamine)
 
 beta-D is a deuterium-labelled analogue of [[tma-entity]]
 

@@ -1,4 +1,8 @@
-# Solomon's Gardening Aikido: Pest Philosophy and Ecological Management
+---
+title: "Solomon's Gardening Aikido: Pest Philosophy and Ecological Management"
+tags:
+  - concept
+---
 **Source:** Gardening When It Counts - Steve Solomon (2005)
 
 ## Overview

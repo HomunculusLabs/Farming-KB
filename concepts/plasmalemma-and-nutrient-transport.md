@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Plasmalemma and Nutrient Transport Proteins
+## Plasmalemma and Nutrient Transport Proteins
 
 The plasmalemma (also called the plasma membrane or cell membrane) is the semi-permeable barrier that sits against the inside of the cell wall and regulates all traffic into and out of the plant cell. It is one of the most important structures in plant biology, serving as the gateway through which nutrients enter, wastes exit, and signals are transmitted. Its sophisticated system of embedded transport proteins makes possible the precise control of cellular chemistry that sustains plant life.
 

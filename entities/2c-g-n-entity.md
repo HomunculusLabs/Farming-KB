@@ -6,7 +6,7 @@ type: entity
 tags: [chemistry, tihkal, 2c-family]
 sources: []
 ---
-# 2C-G-N
+## 2C-G-N
 
 2C-G-N is a psychedelic phenethylamine based on a naphthalene ring system rather than the typical benzene ring.
 

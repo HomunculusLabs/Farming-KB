@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Build a Passive Solar Greenhouse for Year-Round Growing
+## How to Build a Passive Solar Greenhouse for Year-Round Growing
 
 ## Short Answer
 A passive solar greenhouse captures, stores, and redistributes the sun's energy

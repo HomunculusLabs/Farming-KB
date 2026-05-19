@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: entity
 ---
 
-# White Mulberry (Morus alba) — Permaculture Forage
+## White Mulberry (Morus alba) — Permaculture Forage
 
 ## Description
 

@@ -23,7 +23,7 @@ sources:
     marijuana-strains/indica/granddaddy-purple
 ---
 
-# Granddaddy Purple
+## Granddaddy Purple
 
 Granddaddy Purple (GDP) is an iconic indica-dominant [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area during the late 1990s to early 2000s.
 

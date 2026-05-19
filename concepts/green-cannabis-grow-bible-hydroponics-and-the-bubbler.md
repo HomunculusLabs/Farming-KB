@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Hydroponics Systems and the Bubbler
+## Hydroponics Systems and the Bubbler
 Chapter 9 of [[jadam-nutrient-management-wetting-agent-and-calcium]], and detailed
 instructions for building a simple but effective "bubbler" system.
 

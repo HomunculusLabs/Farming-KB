@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Ololiuqui
+## Ololiuqui
 
 Ololiuqui is the Aztec name for the seeds of [[golden-guide-morning-glory-and-ololiuqui]] vine native to Mexico. Among the
 most sacred psychoactive plants of Mesoamerica, ololiuqui seeds were

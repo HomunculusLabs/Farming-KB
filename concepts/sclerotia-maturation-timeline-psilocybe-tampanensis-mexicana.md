@@ -20,7 +20,7 @@ tags:
   - philosophers-stones
 ---
 
-# Sclerotia Maturation Timeline in *Psilocybe tampanensis* and *P. mexicana*
+## Sclerotia Maturation Timeline in *Psilocybe tampanensis* and *P. mexicana*
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Crop Rotation in Protected Cultivation
+## Crop Rotation in Protected Cultivation
 
 Crop rotation—the practice of growing different crops in succession on the same piece of land—is a fundamental principle of sustainable agriculture that becomes even more critical in protected cultivation systems such as greenhouses and high tunnels. In these confined environments, where the same ground is cultivated intensively year after year, the consequences of poor rotation are amplified: soil-borne diseases accumulate, specific nutrient deficiencies develop, pest populations build, and soil structure deteriorates.
 

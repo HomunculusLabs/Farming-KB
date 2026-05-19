@@ -1,5 +1,10 @@
+---
+title: "Guzman Global Distribution Patterns Neurotropic Fungi"
+tags:
+  - concept
+---
 
-# Global Distribution Patterns of Neurotropic Fungi
+## Global Distribution Patterns of Neurotropic Fungi
 
 ## Overview
 

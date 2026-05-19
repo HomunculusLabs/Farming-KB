@@ -19,7 +19,7 @@ sources:
   - "Holmgren, D. (2002). \"Permaculture: Principles and permaculture-principles-pathways-beyond-sustainability.\" Holmgren Design Services."
   - "Jacke, D. (2010). \"Post-design and installation forest garden maintenance.\" Permaculture Activist, 72, 36-41."---
 
-# Dave Jacke
+## Dave Jacke
 
 ## Overview
 

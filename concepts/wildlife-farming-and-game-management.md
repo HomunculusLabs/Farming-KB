@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Wildlife Farming and Game Management
+## Wildlife Farming and Game Management
 
 Managed wildlife farming represents a paradigm shift from single-species livestock
 production toward integrated polycultural systems that harness the productivity of

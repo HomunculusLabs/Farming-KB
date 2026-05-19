@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Claviceps paspali Alkaloids
+## Claviceps paspali Alkaloids
 
 **Source:** The [[ololiuhqui-morning-glory-ergot-alkaloid-connection]].
 

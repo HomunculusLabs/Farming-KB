@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, contamination, sterilization, hygiene]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# mushroom cultivation contamination control Contamination is the primary cause of failure in [[growing-gourmet-bacterial-blotch-disease-management]] ([[alkaloid-distribution-mushroom-caps-stems]]. Associated with high humidity and poor [[greg-green-odor-control-and-air-filtration]] reduces airborne spore
+## mushroom cultivation contamination control Contamination is the primary cause of failure in [[growing-gourmet-bacterial-blotch-disease-management]] ([[alkaloid-distribution-mushroom-caps-stems]]. Associated with high humidity and poor [[greg-green-odor-control-and-air-filtration]] reduces airborne spore
 concentrations. Avoid bringing dirty materials (unwashed shoes, outdoor
 clothing) into clean work areas.
 

@@ -5,7 +5,7 @@ source_author: Jorge Cervantes
 topics: [cannabis, lighting, hid-lamps, photoperiod, spectrum, grow-lights, horticulture, electricity]
 ---
 
-# Artificial Lighting for Cannabis Cultivation
+## Artificial Lighting for Cannabis Cultivation
 
 ## Overview
 

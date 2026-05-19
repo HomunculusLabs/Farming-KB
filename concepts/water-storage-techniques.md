@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
-# Water Storage Techniques
+## Water Storage Techniques
 
 Water storage is one of the most critical elements of [[coleman-soil-heat-mass-passive-thermal-storage]]" with much air space. This extends the [[fukuoka-creating-natural-farm-site-selection-establishment]]**: Choose locations where the natural catchment concentrates water flow, typically in valleys or saddles between ridges. "You walk the valley floor and find where it levels. At the point where it starts to level, you often find that it tightly constricts, and you will find the logical valley dam site."
 

@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Mycelium as Network Organism
+## Mycelium as Network Organism
 
 Mycelium is the neurological network of nature — interlacing mosaics that infuse habitats with information-sharing membranes. These membranes are aware, react to change, and collectively have the long-term health of the host environment in mind. From *[[mushroom-cultivation-contamination-control]] — visible manifestations of network organisms
 - [[mycelium-network-intelligence]] for restoration

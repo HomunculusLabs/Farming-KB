@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
 ---
-# Tryptophan Decarboxylase
+## Tryptophan Decarboxylase
 
 Tryptophan decarboxylase (TDC) is the enzyme that catalyzes the conversion of the [[psilocybin-biosynthesis-pathway]], [[psilocybin-biosynthesis-pathway]], tryptophan decarboxylase occupies the position just after tryptophan is produced from [[primary-metabolic-precursors-to-the-shikimate-pathway]]:
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# The Seed War and Rice as a Weapon
+## The Seed War and Rice as a Weapon
 
 In *The Road Back to Nature*, [[psilocybe-southeast-asia-pacific]] would be threatened
 

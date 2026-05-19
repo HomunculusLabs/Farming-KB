@@ -10,7 +10,7 @@ sources:
   - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 ---
 
-# Jeremy Bigwood
+## Jeremy Bigwood
 
 Jeremy Bigwood is an American researcher at The Evergreen State College (Olympia, Washington), known for his collaborative work with [[michael-beug]] on the quantitative analysis of psilocybin and psilocin in mushroom species. He also co-edited *Teonanacatl: Hallucinogenic Mushrooms of North America* (1978) with [[jonathan-ott]], an important early compilation of research on psychoactive fungi.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [technology, aeration, aquaculture, compressed-air, permaculture]
 ---
 
-# Trompe
+## Trompe
 
 ## Description
 

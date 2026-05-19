@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Root Anatomy: Structure and Nutrient Uptake
+## Root Anatomy: Structure and Nutrient Uptake
 
 The root is the plant's organ for anchorage, water absorption, and mineral nutrient uptake. Its internal structure -- a series of concentric tissue layers -- is elegantly designed to control what enters the plant and what does not. Understanding root anatomy is fundamental to understanding how plants feed.
 

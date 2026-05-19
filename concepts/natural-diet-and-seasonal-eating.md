@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Natural Diet and Seasonal Eating
+## Natural Diet and Seasonal Eating
 
 [[fukuoka-critique-western-dietetics-nutritional-science]]
 and Eastern yin-yang philosophy while incorporating insights from both. A

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Four-Stage Developmental Framework for Psilocybe cubensis Basidiocarp Morphogenesis
+## Four-Stage Developmental Framework for Psilocybe cubensis Basidiocarp Morphogenesis
 
 Edmond R. Badham's 1982 study of tropisms [[light-multi-phase-regulatory-signal-psilocybe-cubensis-development]], as described by Heim
 and Wasson in 1958, shows that by the time primordia reach a few centimeters

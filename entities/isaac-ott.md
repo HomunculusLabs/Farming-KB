@@ -5,7 +5,7 @@ type: entity
 tags: [person, physician, physiologist, pharmacology, antidote]
 ---
 
-# Dr. Isaac Ott
+## Dr. Isaac Ott
 
 ## Description
 

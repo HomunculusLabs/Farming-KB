@@ -8,7 +8,7 @@ created: 2026-04-28
 type: comparison
 ---
 
-# Earthbag vs Cob Construction
+## Earthbag vs Cob Construction
 
 Earthbag and cob are two of the most accessible [[comparison-earthbag-construction-vs-cob-construction]]
 fills polypropylene bags or tubes with moistened earth and lays them in

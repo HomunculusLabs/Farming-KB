@@ -22,7 +22,7 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-# KNF Troubleshooting
+## KNF Troubleshooting
 
 Synthesized from all KNF input pages. Covers preparation failures, plant symptom diagnosis, pest/disease responses, and emergency rescue treatments. See [[knf-preparations]] for recipes and [[nutritive-cycle-theory]] for growth-stage timing.
 

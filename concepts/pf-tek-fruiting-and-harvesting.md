@@ -5,7 +5,7 @@ created: 2026-05-09
 tags: [mycology, cultivation, pf-tek, fruiting, harvesting, terrarium, potency, drying, desiccant]
 ---
 
-# PF TEK Fruiting and Harvesting Techniques
+## PF TEK Fruiting and Harvesting Techniques
 
 ## Overview
 

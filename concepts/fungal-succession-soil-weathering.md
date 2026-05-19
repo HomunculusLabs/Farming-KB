@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungal Succession, Soil Processes, and Weathering
+## Fungal Succession, Soil Processes, and Weathering
 
 ## Successional Dynamics of Fungal Communities
 

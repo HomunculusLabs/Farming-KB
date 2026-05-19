@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: []
 type: comparison
 ---
-# Alley Cropping vs Silvopasture
+## Alley Cropping vs Silvopasture
 Alley cropping and silvopasture are two of the most widely practiced agroforestry
 systems worldwide. Both integrate trees with productive land use in the spaces
 between them, but they serve different primary functions and target different

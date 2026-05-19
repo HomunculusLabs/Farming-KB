@@ -7,7 +7,7 @@ tags: [plants, fungi, chemistry, pharmacology, neuroscience, psychopharmacology,
 sources: []
 ---
 
-# Psychedelic Plants and Compounds — Chemical Comparison Guide
+## Psychedelic Plants and Compounds — Chemical Comparison Guide
 
 ## Overview
 

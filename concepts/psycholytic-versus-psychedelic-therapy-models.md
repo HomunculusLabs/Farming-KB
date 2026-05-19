@@ -8,7 +8,7 @@ related:
 created: 2026-05-09
 ---
 
-# Psycholytic versus Psychedelic Therapy Models
+## Psycholytic versus Psychedelic Therapy Models
 
 ## Overview
 

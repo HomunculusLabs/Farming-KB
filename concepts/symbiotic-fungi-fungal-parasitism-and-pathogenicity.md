@@ -8,7 +8,7 @@ type: concept
 tags: [fungi]
 ---
 
-# Symbiotic Fungi — Fungal Parasitism and Pathogenicity
+## Symbiotic Fungi — Fungal Parasitism and Pathogenicity
 
 Within the spectrum of fungal-plant interactions, parasitism and pathogenicity represent the harmful end of the symbiotic continuum. Understanding these interactions is essential for managing plant diseases and for appreciating how mutualistic fungi such as mycorrhizae provide bioprotection against pathogens.
 

@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-# Permaculture Pig Raising Pigs are very efficient foragers in a permaculture-zone-planning orchard when trees are at least a few years old - They eat 25 pounds (11.3 kg) of food per day, including all food waste - Excellent for land clearing: after pigs clear a pasture, replant and rotate with [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] if needed
+## Permaculture Pig Raising Pigs are very efficient foragers in a permaculture-zone-planning orchard when trees are at least a few years old - They eat 25 pounds (11.3 kg) of food per day, including all food waste - Excellent for land clearing: after pigs clear a pasture, replant and rotate with [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] if needed
 
 - Respiratory issues: Draft-free housing with good ventilation prevents pneumonia, particularly in young piglets. Avoid ammonia buildup by maintaining deep bedding and regular cleaning
 

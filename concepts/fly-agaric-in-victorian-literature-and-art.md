@@ -8,7 +8,7 @@ type: concept
 tags: [agar]
 ---
 
-# Fly-Agaric in Victorian Literature and Art
+## Fly-Agaric in Victorian Literature and Art
 
 The [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]].
 

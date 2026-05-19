@@ -19,7 +19,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Psilocybin Mushrooms of South America
+## Psilocybin Mushrooms of South America
 
 South America hosts a diverse array of neurotropic fungi, particularly in its
 tropical and subtropical forests. While no single [[claviceps-paspali]], C. purpurea, Conocybe kuhneriana, Gerronema fibula,

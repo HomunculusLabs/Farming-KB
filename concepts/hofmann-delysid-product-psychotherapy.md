@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Delysid Product Development and Psychotherapeutic Use
+## Delysid Product Development and Psychotherapeutic Use
 
 ## From Research Compound to Marketed Product
 

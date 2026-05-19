@@ -15,7 +15,7 @@ type: concept
 tags: [psychedelics, history, ancient, modern, counterculture, wasson, hofmann, prohibition]
 ---
 
-# Brief History of Psychedelics: From Ancient Times to Modern Era (Turner)
+## Brief History of Psychedelics: From Ancient Times to Modern Era (Turner)
 
 ## Prehistoric Origins
 

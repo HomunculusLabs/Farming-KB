@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Solomon's Wide-Spacing Versus Intensive Gardening Debate
+## Solomon's Wide-Spacing Versus Intensive Gardening Debate
 
 In his 2005 book *Gardening When It Counts: Growing Food in Hard Times*, Steve Solomon mounts a comprehensive challenge to the intensive raised-bed orthodoxy that has dominated [[root-competition-plant-spacing-solomon|root competition and plant spacing]] for Solomon's detailed analysis of how close spacing undermines root development and overall plant health, and why the theoretical models of intensive advocates fail to account for below-ground competition.
 

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Harvesting Techniques and Timing
+## Harvesting Techniques and Timing
 
 Proper harvesting is a skill that significantly affects both the quality
 and quantity of food a garden produces. [[harvest-window-cannabis]]. This is a major practical advantage: instead of

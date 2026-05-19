@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Skin Diseases (General)
+## Cannabis and Skin Diseases (General)
 
 ## Overview
 

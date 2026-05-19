@@ -10,7 +10,7 @@ type: concept
 tags: [fertilizer]
 ---
 
-# Solomon Liquid Fertilizers and Foliar Feeding
+## Solomon Liquid Fertilizers and Foliar Feeding
 
 In "Gardening When It Counts," [[organic-vegetable-growing-calendar]] combination Solomon
 recommends is a mixture of:

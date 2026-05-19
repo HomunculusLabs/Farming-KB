@@ -8,7 +8,7 @@ type: concept
 tags: [culture, permaculture, plants, tree-crop]
 ---
 
-# [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
+## [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 
 Tagasaste is listed as a companion to nearly all fruit and nut trees: almond, apple, apricot, avocado, capulin cherry, cherry, citrus, carob, fig, jujube, lichee, nurse-plants in revegetation.
 

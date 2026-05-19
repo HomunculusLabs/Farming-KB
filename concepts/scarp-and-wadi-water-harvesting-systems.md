@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Scarp and Wadi Water Harvesting Systems
+## Scarp and Wadi Water Harvesting Systems
 
 Scarps and wadis are among the most productive landscape features for water harvesting in desert environments. These fault-formed cliff-and-valley systems concentrate rainfall run-off into predictable channels, offering the [[ferricrete]], or [[water-management]] achievable in wadi landscapes:
 

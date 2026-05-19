@@ -8,7 +8,7 @@ sources:
   - raw/papers/marijuana-botany-robert-connell-clarke.md
 ---
 
-# Cannabis Breeding Techniques: Acclimatization and Trait Fixing (Clarke)
+## Cannabis Breeding Techniques: Acclimatization and Trait Fixing (Clarke)
 
 ## Acclimatization
 

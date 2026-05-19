@@ -21,7 +21,7 @@ sources:
   - USDA Database for the Flavonoid Content of Selected Foods, Release 3.3, 2024.
 ---
 
-# Polyphenols and Plant Defense Chemistry
+## Polyphenols and Plant Defense Chemistry
 
 Polyphenols are among the most abundant and structurally diverse classes of [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]. Beyond their ecological roles, polyphenols have become central to human nutrition, medicine, and agricultural science due to their potent antioxidant, anti-inflammatory, and [[allelopathy-and-chemical-warfare-in-plants|allelopathic interactions]] between plants.
 

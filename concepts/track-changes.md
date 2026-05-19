@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Track Changes
+## Track Changes
 
 Track Changes (also called "Revision Tracking" or "Redlining") is a
 collaborative editing feature in word processing applications, most

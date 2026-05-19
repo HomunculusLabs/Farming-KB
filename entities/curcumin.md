@@ -26,7 +26,7 @@ sources:
   - Khor, T.O. et al. (2006). "Pharmacokinetics of curcumin conjugate metabolites in human plasma and colorectal tissue." Cancer Epidemiology, Biomarkers & Prevention, 15(8), 1452-1458.
 ---
 
-# Curcumin
+## Curcumin
 
 Curcumin is the principal bioactive curcuminoid of turmeric (*[[permaculture-designers-manual-essential-oil-plants]] repels certain [[soil-nematodes]]), and ground
 cover that suppresses weeds during establishment. It integrates well with leguminous support species and

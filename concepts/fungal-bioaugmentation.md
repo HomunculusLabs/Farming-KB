@@ -1,5 +1,5 @@
 ---
-title: singh-fungal-bioaugmentation-contaminated-soils
+title: "Fungal Bioaugmentation"
 created: 2026-04-28
 tags:
   - bioremediation
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Bioaugmentation
+## Fungal Bioaugmentation
 
 Fungal bioaugmentation refers to the deliberate introduction of specific
 [[singh-fungal-biofilms-in-contaminated-environments]] to enhance the degradation of

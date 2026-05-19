@@ -5,7 +5,7 @@ type: entity
 tags: [cultivar, vegetable, brassica, turnip, japanese, winter-crop]
 ---
 
-# Hakurei Turnip
+## Hakurei Turnip
 
 ## Description
 

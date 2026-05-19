@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Spore Print vs Agar Culture
+## Spore Print vs Agar Culture
 
 Spore printing captures mushroom spores for identification, storage, and
 starting cultivation from wild specimens. Agar culture provides a sterile

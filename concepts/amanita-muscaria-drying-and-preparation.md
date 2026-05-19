@@ -8,7 +8,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-# Amanita Muscaria Drying and Preparation Guide
+## Amanita Muscaria Drying and Preparation Guide
 
 The preparation of amanita muscaria chemistry and pharmacology contains mainly [[muscimol-and-amanita-muscaria]] can apparently be reconverted into [[medicinal-herbs-for-livestock]] should be kept out of the reach of children.
 

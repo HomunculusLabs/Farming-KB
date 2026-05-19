@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, nutrients]
 ---
 
-# Nutrient Management
+## Nutrient Management
 
 [[query-how-to-fix-phosphorus-deficiency-in-cannabis]]
 - C) Curling, twisting, yellow leaves = check [[knf-potassium-deficiency-and-excess]]

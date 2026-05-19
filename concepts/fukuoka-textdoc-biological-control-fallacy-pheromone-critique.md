@@ -9,7 +9,7 @@ sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
-# Biological Control Fallacy and Pheromone Pesticide Critique
+## Biological Control Fallacy and Pheromone Pesticide Critique
 
 [[savory-living-organisms-as-tools]],
 there is no way of telling which organisms are beneficial predators and which are

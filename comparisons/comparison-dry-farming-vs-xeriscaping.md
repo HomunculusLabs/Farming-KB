@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: comparison
 ---
-# Dry Farming vs Xeriscaping
+## Dry Farming vs Xeriscaping
 
 Both [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]]
 method for your climate, goals, and available resources.

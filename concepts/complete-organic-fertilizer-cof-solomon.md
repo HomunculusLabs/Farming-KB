@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon
 tags: [fertilizer, organic, COF, soil fertility, seedmeal, compost, gardening]
 ---
 
-# Complete Organic Fertilizer (COF) Formula
+## Complete Organic Fertilizer (COF) Formula
 
 ## Overview
 

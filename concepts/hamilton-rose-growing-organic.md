@@ -8,7 +8,7 @@ sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Organic Rose Care and Growing
+## Organic Rose Care and Growing
 
 updated: 2026-04-18
 

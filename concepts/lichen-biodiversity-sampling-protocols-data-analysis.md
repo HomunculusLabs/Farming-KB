@@ -7,7 +7,7 @@ tags: mycology, fungi, symbiosis]
 sources: []
 ---
 
-# Lichen Biodiversity Sampling — Protocols and Data Analysis
+## Lichen Biodiversity Sampling — Protocols and Data Analysis
 
 lichen-air-quality-biomonitoring-sampling-protocols
 

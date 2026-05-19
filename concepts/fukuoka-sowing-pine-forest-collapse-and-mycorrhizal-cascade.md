@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# The Pine Forest Collapse and Mycorrhizal Cascade
+## The Pine Forest Collapse and Mycorrhizal Cascade
 
 One of the most scientifically detailed passages in *Sowing Seeds in the
 Desert* is Fukuoka's account of his independent research into Japan's pine

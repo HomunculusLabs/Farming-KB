@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
-# Fungal Pathogens and Parasites
+## Fungal Pathogens and Parasites
 ## Overview
 Fungi cause devastating diseases in plants, animals, and humans. From the [[cryptococcus-neoformans]]
 A yeast that causes cryptococcal meningitis, primarily in immunocompromised patients:

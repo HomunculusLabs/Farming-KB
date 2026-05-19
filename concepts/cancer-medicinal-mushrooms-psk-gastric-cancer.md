@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# PSK Immunotherapy for Gastric Cancer
+## PSK Immunotherapy for Gastric Cancer
 
 PSK (Polysaccharide-K, Krestin) from [[cannabis-for-cancer-patients]] than any other cancer
 type. By 1987, PSK accounted for more than 25% of total national

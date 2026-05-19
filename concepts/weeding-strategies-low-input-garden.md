@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Weeding Strategies and Competition Management
+## Weeding Strategies and Competition Management
 
 Updated: 2026-04-18
 

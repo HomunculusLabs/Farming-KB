@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Humid Cool Climate Characteristics
+## Humid Cool Climate Characteristics
 
 Mollison's detailed characterisation of cool humid (mesothermal) climates
 covers the vegetation, soils, frost behaviour, wind exposure, and geographic

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Lichenized Fungi as Bioindicators Lichens are among the most sensitive and widely used bioindicators of air quality and environmental change. Their dual nature as fungal-algal symbioses makes them responsive to atmospheric conditions while being relatively easy to survey. [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
+## Lichenized Fungi as Bioindicators Lichens are among the most sensitive and widely used bioindicators of air quality and environmental change. Their dual nature as fungal-algal symbioses makes them responsive to atmospheric conditions while being relatively easy to survey. [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
 
 The well-known sensitivity of lichens to air pollution means that [[core-endorhiza-bacterial-community-composition-cannabis]] usually is negligible, making lichens reliable year-round indicators.
 

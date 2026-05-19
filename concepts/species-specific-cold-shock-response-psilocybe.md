@@ -16,7 +16,7 @@ sources:
 type: concept
 ---
 
-# Species-Specific Cold Shock Response in Psilocybe Cultivation
+## Species-Specific Cold Shock Response in Psilocybe Cultivation
 
 Cold shocking is a fruiting initiation technique that involves exposing colonised and
 cased substrates to reduced temperatures for a period before returning them to normal

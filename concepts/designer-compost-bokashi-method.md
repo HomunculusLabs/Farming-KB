@@ -1,4 +1,8 @@
-# Designer Compost (Bokashi) Method
+---
+title: "Designer Compost (Bokashi) Method"
+tags:
+  - concept
+---
 
 Designer compost, known as bokashi in Japan, is a fermentation-based composting method that produces a more potent and biologically diverse soil amendment than traditional aerobic composting.
 

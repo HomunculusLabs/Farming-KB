@@ -20,7 +20,7 @@ sources:
 - raw/papers/gardening-when-it-counts-steve-solomon.md
 ---
 
-# Foliar Feeding
+## Foliar Feeding
 
 Applying liquid nutrients directly to plant leaves for rapid absorption. Foliar feeding bypasses soil chemistry and root uptake limitations, delivering nutrients directly into the plant through stomata and leaf cuticle.
 

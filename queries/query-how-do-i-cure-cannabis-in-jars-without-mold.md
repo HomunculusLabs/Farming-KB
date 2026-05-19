@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How do I cure cannabis in jars without mold?
+## How do I cure cannabis in jars without mold?
 
 ## Short Answer
 

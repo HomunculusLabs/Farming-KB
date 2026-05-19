@@ -6,7 +6,7 @@ tags: [cultivation, PF-TEK, psilocybe-cubensis, mycology, grow-method, substrate
 aliases: [Psilocybe Fanaticus TEK, brown rice mushroom cultivation, vermiculite tek, magic mushroom growing]
 ---
 
-# PF TEK Cultivation Method
+## PF TEK Cultivation Method
 
 The **[[pf-tek]]** (Psilocybe Fanaticus Technique) is a revolutionary [[pf-tek-mushroom-cultivation-method]] created by Robert "Psilocybe Fanaticus" McPherson and publicly released in 1992. Originally marketed as a commercial kit through High Times Magazine classifieds starting in September 1991, the complete TEK was published in 1992, making the kit form obsolete. The PF TEK is recognized as the most influential and widely copied amateur [[boil-a-bag-mushroom-cultivation-technique]] ever developed, enabling easy growing of *Psilocybe cubensis* using common kitchen utensils and readily available supplies.
 

@@ -8,7 +8,7 @@ tags: [ecology, fungi]
 updated: 2026-04-26
 ---
 
-# Fungal Ecology -- Endophytes
+## Fungal Ecology -- Endophytes
 
 ## Overview
 

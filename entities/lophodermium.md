@@ -5,7 +5,7 @@ type: entity
 tags: [genus, ascomycete, endophyte, pine-needle, decomposition, pioneer-colonizer]
 ---
 
-# Lophodermium
+## Lophodermium
 
 ## Description
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Do-Nothing Farming and Spiritual Life
+## Fukuoka Do-Nothing Farming and Spiritual Life
 
 Book V of *The One-Straw Revolution* explores the spiritual dimension of Fukuoka's philosophy -- the paradox of advocating "do-nothing" farming while recognising the hard physical work it actually requires, and his [[natural-farming-philosophy]] in miniature -- a community living close to nature, growing [[fukuoka-night-heron-revelation-origin-story]] cried sharply and flew away. In that instant: "All my doubts and the gloomy mist of my confusion vanished. Everything I had held in firm conviction was swept away with the wind. 'In this world there is nothing at all.'"
 

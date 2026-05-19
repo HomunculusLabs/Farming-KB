@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Growing Sweet Corn Organically
+## Growing Sweet Corn Organically
 
 Homegrown sweet corn has an especially sweet flavor because it can be eaten as soon as picked, before most of the sugar has turned into starch. The crop needs lots of sun and is wind-pollinated, so grow it in blocks rather than rows to aid pollination.
 

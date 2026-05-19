@@ -7,7 +7,7 @@ tags: [permaculture, design, community, site-design, ecology, economics, homeste
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-# Permaculture Settlement Design
+## Permaculture Settlement Design
 
 Settlement design in permaculture extends from individual house placement to village-scale planning. Mollison treats the village or dwelling as the origin (Zone 0) from which all design radiates outward. The goal is regional and village self-reliance.
 

@@ -4,7 +4,7 @@ source: cancer-treatments-medicinal-mushrooms.md
 type: concept
 ---
 
-# Mushroom Cultivation Technology and World Production
+## Mushroom Cultivation Technology and World Production
 
 [[mushroom-cultivation]] is a worldwide biotechnological enterprise with an estimated annual value exceeding 14 billion US dollars. This concept covers the principles, practices, and economic scale of gourmet and medicinal mushroom cultivation.
 

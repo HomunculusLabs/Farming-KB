@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Aquatic Polyculture Design
+## Aquatic Polyculture Design
 
 updated: 2026-04-18
 

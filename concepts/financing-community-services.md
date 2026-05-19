@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Financing Community Services
+## Financing Community Services
 
 ## Overview
 

@@ -7,7 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 ---
 
-# Japanese Postwar Prosperity Built on Appropriated Farm Labor
+## Japanese Postwar Prosperity Built on Appropriated Farm Labor
 
 Masanobu Fukuoka argues that Japan's celebrated postwar economic miracle was fundamentally built on labor drained from the farming population. The skyscrapers, highways, and subways of Japanese cities were constructed not through abstract economic genius, but through the systematic appropriation of farm workers displaced by mechanization. This analysis reframes Japan's "high growth" period as a story of rural destruction enabling urban construction.
 

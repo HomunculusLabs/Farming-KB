@@ -8,7 +8,7 @@ sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
 type: query
 ---
 
-# What Is the Difference Between Pasteurization and Sterilization for Mushroom Growing?
+## What Is the Difference Between Pasteurization and Sterilization for Mushroom Growing?
 
 ## Short Answer
 Pasteurization heats substrate to 140 to 180 degrees Fahrenheit for 30 to 90 minutes, killing most competitors while leaving beneficial thermotolerant microorganisms alive. Sterilization uses higher heat under pressure, typically 250 degrees Fahrenheit at 15 PSI for 60 to 120 minutes, to eliminate all living organisms. The choice between them depends on your substrate type and the mushroom species you are growing.

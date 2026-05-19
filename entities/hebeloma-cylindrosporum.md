@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, ectomycorrhizal, basidiomycota, agaricales]
 ---
 
-# Hebeloma cylindrosporum
+## Hebeloma cylindrosporum
 
 ## Description
 

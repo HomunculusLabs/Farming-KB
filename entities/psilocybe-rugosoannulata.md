@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, south-america, dung-inhabiting]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md]
+sources: ["raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"]
 ---
 
-# Psilocybe rugosoannulata
+## Psilocybe rugosoannulata
 
 **Psilocybe rugosoannulata** is a psilocybin-containing mushroom species in the family Hymenogastraceae, native to tropical and subtropical regions of South America. It is one of the lesser-known psychoactive Psilocybe species from the Neotropics, distinguished by its characteristic wrinkled annulus on the stipe.
 

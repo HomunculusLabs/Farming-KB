@@ -8,7 +8,7 @@ sources:
   - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
-# Liquid Fertilizer from Weeds
+## Liquid Fertilizer from Weeds
 
 ## Overview
 

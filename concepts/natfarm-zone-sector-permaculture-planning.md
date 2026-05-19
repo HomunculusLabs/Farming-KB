@@ -8,7 +8,7 @@ sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livi
 type: concept
 ---
 
-# Zone and Sector Planning in Permaculture Design
+## Zone and Sector Planning in Permaculture Design
 
 The easiest way to start the [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] and the compost heap and use hedges and trellising
 to maximize the edges. On a larger piece of land, you might also keep a few

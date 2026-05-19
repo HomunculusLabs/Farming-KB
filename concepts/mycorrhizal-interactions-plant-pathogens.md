@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Interactions with Plant Pathogens
+## Mycorrhizal Interactions with Plant Pathogens
 
 [[mycorrhizal-fungi]] play a significant role in defending host plants against root pathogenic fungi and nematodes. These interactions occur at the soil–root interface, where elevated populations of fungi and bacteria are encouraged to grow in the rhizosphere by the presence of readily available carbohydrates in the form of [[root-exudates]] and dead root cells. The mycorrhizal fungal community associated with a plant's roots has special significance in creating a defense mechanism against root pathogenic fungi.
 

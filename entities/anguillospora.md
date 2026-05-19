@@ -5,7 +5,7 @@ type: entity
 tags: [genus, aquatic-hyphomycete, freshwater, wood-decomposer, lignin-degrader]
 ---
 
-# Anguillospora
+## Anguillospora
 
 ## Description
 

@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Plant Water Transport and Root Anatomy
+## Plant Water Transport and Root Anatomy
 
 Plants depend on a sophisticated internal transport system to move water, nutrients, and sugars between their organs. Two [[water-transport-vascular-tissues-plants]]—[[xylem]] and [[phloem]]—serve as the plant's circulatory system, while dermal tissue, [[root-hairs]], leaves, and specialized root structures all play critical roles in supporting plant life.
 

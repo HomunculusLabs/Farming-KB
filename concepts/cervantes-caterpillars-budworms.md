@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Caterpillars and Budworms on Cannabis
+## Caterpillars and Budworms on Cannabis
 
 Caterpillars and budworms are chewing insect pests that
 can cause significant damage to cannabis foliage and

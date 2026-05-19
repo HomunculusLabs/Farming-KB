@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychedelics, phenethylamine, dosage, compound-p
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-# 2C-I Compound Profile
+## 2C-I Compound Profile
 
 ## Chemical Identity
 

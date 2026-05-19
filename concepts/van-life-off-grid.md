@@ -7,7 +7,7 @@ tags: [off-grid, homesteading, construction, design, sustainability, engineering
 sources: []
 ---
 
-# Van Life Off Grid
+## Van Life Off Grid
 
 Camper van living off-grid combines mobility with self-sufficiency. A well-built camper van provides shelter, power, water, cooking, and sanitation without hookups or campground facilities. The compact space demands efficient design and multi-purpose systems, but the result is freedom to live and travel independently.
 

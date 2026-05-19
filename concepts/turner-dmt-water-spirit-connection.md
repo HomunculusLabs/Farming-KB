@@ -7,7 +7,7 @@ tags: [water, conservation]
 sources:
   - "raw/papers/the-essential-psychedelic-guide-by-dimitri-turner.md"
 ---
-# Turner DMT Water Spirit Connection
+## Turner DMT Water Spirit Connection
 
 Turner's personal discovery of a "magical link" between N,N-DMT and water, based on extensive experimentation and a revelation during a Ketamine experience.
 

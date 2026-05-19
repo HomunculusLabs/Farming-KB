@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Ayahuasca Pharmacology and Safety
+## Ayahuasca Pharmacology and Safety
 
 ## Overview
 

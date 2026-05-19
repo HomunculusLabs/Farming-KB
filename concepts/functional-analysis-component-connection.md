@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Functional Analysis and Component Connection in Permaculture
+## Functional Analysis and Component Connection in Permaculture
 
 Functional analysis is the foundational design method in [[compost]] heat from manure combined with carbon materials, methane from anaerobic [[component-analysis-and-functional-connections]]
 

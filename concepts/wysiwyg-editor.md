@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# WYSIWYG Editor
+## WYSIWYG Editor
 
 WYSIWYG (pronounced "wiz-ee-wig") stands for "What You See Is What You Get." A
 WYSIWYG editor is a document or content editing interface that presents users

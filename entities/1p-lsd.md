@@ -21,7 +21,7 @@ sources:
   - Nichols, D.E. (2018). "Psychedelics." Pharmacological Reviews, 70(3), 677–735.
 ---
 
-# 1P-LSD
+## 1P-LSD
 
 **1-Propionyl-D-lysergic [[lsd-d-lysergic-acid-diethylamide]]** (abbreviated **1P-LSD**), also known as **1-propionyl-LSD**, is a semisynthetic psychedelic substance of the lysergamide class. It is a derivative and presumed prodrug of **lysergic acid diethylamide (LSD)** in which a propionyl group is attached to the indole nitrogen at position 1 of the [[lsd-molecule-of-perfection]]. 1P-LSD first appeared on the research chemical market in early 2015 and rapidly became one of the most widely distributed novel [[amanita-muscaria-legal-alternative]]" to LSD in jurisdictions where it remained unscheduled.
 

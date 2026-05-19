@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Free-Range Forage Systems
+## Free-Range Forage Systems
 
 **Free-range forage systems** are integrated animal management strategies central to [[permaculture-design]], in which [[permaculture-domestic-animals]] are permitted to roam, graze, and forage across defined landscapes rather than being confined to intensive indoor or feedlot operations. Introduced systematically in Bill Mollison's *Permaculture: A Designers' Manual*, these systems emphasise the interdependence of animal behaviour, seasonal nutrition, and ecological interactions to produce food, fibre, and ecosystem services with minimal external inputs.
 

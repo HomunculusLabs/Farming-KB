@@ -7,7 +7,7 @@ tags: [knf, natural-farming]
 sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
-# Korean Natural Farming Seawater and Fermented Seawater
+## Korean Natural Farming Seawater and Fermented Seawater
 
 Seawater is a naturally balanced mineral solution containing all known elements on Earth. In Korean Natural Farming, both raw seawater and fermented seawater are used as mineral supplements for crops and livestock.
 

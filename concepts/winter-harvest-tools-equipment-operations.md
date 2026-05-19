@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Harvest Tools, Equipment, and Farm Operations
+## Winter Harvest Tools, Equipment, and Farm Operations
 
 ## Overview
 

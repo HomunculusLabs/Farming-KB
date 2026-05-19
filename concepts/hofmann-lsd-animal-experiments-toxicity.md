@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# LSD Animal Experiments and Toxicity
+## LSD Animal Experiments and Toxicity
 
 ## Reintroduction After Discovery of Psychic Effects
 

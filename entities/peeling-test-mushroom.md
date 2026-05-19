@@ -5,7 +5,7 @@ type: technique
 tags: [folk-test, mushroom-identification, myth, safety, amanita]
 ---
 
-# Peeling Test (Mushroom)
+## Peeling Test (Mushroom)
 
 ## Description
 

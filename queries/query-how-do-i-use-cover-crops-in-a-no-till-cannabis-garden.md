@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Use Cover Crops in a No-Till Cannabis Garden?
+## How Do I Use Cover Crops in a No-Till Cannabis Garden?
 
 ## Short Answer
 Cover crops in a no-till cannabis garden protect soil from erosion, fix

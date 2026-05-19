@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-essential-psychedelic-guide-by-dimitri-turner.md"
 ---
 
-# Turner Ketamine LSD DMT Interactions and Recovery Period Effects
+## Turner Ketamine LSD DMT Interactions and Recovery Period Effects
 
 ## Overview
 

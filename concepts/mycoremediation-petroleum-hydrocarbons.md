@@ -7,7 +7,7 @@ tags: [mycoremediation, mycorestoration, remediation, pollution, fungi, mycology
 sources: [raw/papers/mycelium-running-stamets.md]
 ---
 
-# Mycoremediation of Petroleum Hydrocarbons
+## Mycoremediation of Petroleum Hydrocarbons
 
 Petroleum hydrocarbons -- including crude oil, diesel fuel, gasoline, motor oil, and related compounds -- are among the most widespread environmental contaminants. Mushrooms can break down these complex molecules using the same lignin-degrading enzymes they employ to decompose wood.
 

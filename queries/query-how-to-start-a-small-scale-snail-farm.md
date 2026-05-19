@@ -19,7 +19,7 @@ type: query
 created: 2026-04-28
 ---
 
-# How Do I Start a [[dandelion]], plantain (deep-rooted, calcium-accumulating)
+## How Do I Start a [[dandelion]], plantain (deep-rooted, calcium-accumulating)
 - Clover or vetch (pf-tek-spore-syringe-boiling-water-sterilization for 3–5 minutes, or freeze at -20°C for 48 hours (considered more humane).
 3. **Shell**: Remove from shells with a small fork or pick.
 4. **Clean**: Remove the dark digestive gland (small dark sac near the shell opening). Rinse the foot thoroughly.

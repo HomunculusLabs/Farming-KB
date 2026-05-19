@@ -1,4 +1,8 @@
-# Polyethylene Sheeting [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] using clear plastic bins covered with polyethylene sheeting provides an effective, low-cost environment for [[fruiting-chamber-design-and-environmental-control]] prioritizes simplicity, scalability, and passive [[growing-gourmet-primordia-formation-pinning]] (pinning)
+---
+title: "Polyethylene Sheeting gottlieb psilocybin cultivation fruiting chamber design using clear plastic bins covered with polyethylene sheeting provides an effective, low-cost environment for fruiting chamber design and environmental control prioritizes simplicity, scalability, and passive growing gourmet primordia formation pinning (pinning)"
+tags:
+  - concept
+---
 - Causes elongated, spindly stems with small caps
 - Reduces overall yield and quality
 

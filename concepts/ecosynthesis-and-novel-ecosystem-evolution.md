@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Ecosynthesis and Novel Ecosystem Evolution
+## Ecosynthesis and Novel Ecosystem Evolution
 
 ## Overview
 

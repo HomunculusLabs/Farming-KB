@@ -7,7 +7,7 @@ tags: [mycofiltration, mycorestoration, water-treatment, fungi, mycology, ecolog
 sources: [raw/papers/mycelium-running-stamets.md]
 ---
 
-# Mycofiltration and Water Treatment
+## Mycofiltration and Water Treatment
 
 Mycofiltration is the use of mycelial mats and networks to filter water, removing biological and chemical contaminants. Mycelium acts as a biological filter, trapping particles and secreting enzymes and antimicrobial compounds that neutralize pathogens.
 

@@ -8,7 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Packed Bed and Fluidized Bed Bioreactors for [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]], immobilized fungus in packed bed reactors
+## Packed Bed and Fluidized Bed Bioreactors for [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]], immobilized fungus in packed bed reactors
 has been used to treat 2,4,6-trichlorophenol and 2,4,5-trichlorophenol
 containing wastewaters. The packed bed design allows for high biomass
 retention and good contact between the effluent and the fungal

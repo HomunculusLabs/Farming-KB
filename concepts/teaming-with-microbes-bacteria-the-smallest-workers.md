@@ -9,7 +9,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Bacteria — The Smallest Workers
+## Bacteria — The Smallest Workers
 
 Bacteria are the most numerous organisms in soil and among the earth's primary decomposers, second only to [[teaming-with-microbes-overview]] (genus Streptomyces) produce enzymes that include volatile chemicals giving soil its clean, fresh, earthy aroma — the smell of "good soil" that every gardener recognizes.
 

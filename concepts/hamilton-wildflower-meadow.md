@@ -7,7 +7,7 @@ tags: [organic-gardening, plants]
 sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
-# Creating Wildflower Meadows
+## Creating Wildflower Meadows
 
 updated: 2026-04-18
 

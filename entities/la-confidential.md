@@ -28,7 +28,7 @@ sources:
     University of California Press.
   - Cannabis Cup Archives. High Times Magazine, various years.
 ---
-# LA Confidential
+## LA Confidential
 
 LA Confidential is an indica-dominant  bred by DNA Genetics,
 known for its potent sedative effects, dark dense buds, and classic Afghani

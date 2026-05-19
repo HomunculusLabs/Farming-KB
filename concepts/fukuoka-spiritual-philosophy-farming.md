@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Spiritual Philosophy of Farming
+## Fukuoka Spiritual Philosophy of Farming
 
 updated: 2026-04-18
 

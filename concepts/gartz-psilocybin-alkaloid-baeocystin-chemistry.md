@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Alkaloid Chemistry and Baeocystin
+## Psilocybin Alkaloid Chemistry and Baeocystin
 
 ## Overview
 

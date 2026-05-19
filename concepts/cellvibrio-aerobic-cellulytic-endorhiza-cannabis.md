@@ -1,4 +1,8 @@
-# Cellvibrio: Aerobic Cellulytic Biomarker of Early Root Decay in Cannabis
+---
+title: "Cellvibrio: Aerobic Cellulytic Biomarker of Early Root Decay in Cannabis"
+tags:
+  - concept
+---
 
 Cellvibrio is a genus of aerobic, cellulytic bacteria within the family
 Pseudomonadaceae that was unexpectedly identified as a core member of the

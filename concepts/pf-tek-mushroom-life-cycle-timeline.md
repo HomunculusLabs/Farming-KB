@@ -4,7 +4,7 @@ source: "fanaticus-pf-tek-psilocybe-fanaticus.md"
 tags: [pf-tek, mushroom, cultivation, life-cycle, timeline, psilocybe-cubensis, spore, mycelium, fruiting, harvest]
 ---
 
-# PF TEK Mushroom Life Cycle Timeline: Spore to Harvest
+## PF TEK Mushroom Life Cycle Timeline: Spore to Harvest
 
 ## Overview
 

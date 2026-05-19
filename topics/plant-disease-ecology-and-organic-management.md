@@ -34,7 +34,7 @@ related_concepts:
   - organic-pest-and-disease-management
 ---
 
-# Plant Disease Ecology and Organic Management
+## Plant Disease Ecology and Organic Management
 
 Plant disease is not simply the presence of a pathogen. It is the result
 of an encounter between a susceptible host, a disease causing organism,

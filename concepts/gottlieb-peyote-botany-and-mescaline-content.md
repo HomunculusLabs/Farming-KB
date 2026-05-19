@@ -8,7 +8,7 @@ type: concept
 tags: [peyote]
 ---
 
-# Peyote Botany and Mescaline Content
+## Peyote Botany and Mescaline Content
 
 Peyote is a spineless, tufted, blue-green, button-like cactus known botanically as
 [[psychoactive-cacti-of-central-mexico]] to northern Texas across the

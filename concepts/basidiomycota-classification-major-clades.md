@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Basidiomycota Classification and Major Clades
+## Basidiomycota Classification and Major Clades
 
 The Basidiomycota is one of the two large phyla of the
 Kingdom [[fungal-woronin-bodies-and-septal-pore-organization]] structure

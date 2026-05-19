@@ -18,7 +18,7 @@ sources:
   -Contreras-Cornejo HA, Macías-Rodríguez L, Cortés-Penagos C, López-Bucio J. Trichoderma-induced plant immunity likely involves both hormonal- and camalexin-dependent mechanisms in Arabidopsis thaliana and confers resistance against necrotrophic fungus Botrytis cinerea. Plant Signaling & Behavior. 2009;4(11):1081-1082.
 ---
 
-# Trichoderma and Biocontrol Fungi
+## Trichoderma and Biocontrol Fungi
 
 Trichoderma is a genus of filamentous ascomycete fungi ubiquitous in soil, plant root ecosystems, and decaying organic matter. Among the most studied and commercially deployed biocontrol agents in agriculture, species of Trichoderma suppress plant pathogens through multiple overlapping mechanisms including mycoparasitism, antibiosis, nutrient competition, and induction of plant systemic resistance. Their dual role as plant symbionts and opportunistic necrotrophs makes them uniquely versatile in [[brown-rot-fungi-cellulose-degradation-wood-decay]], secondary metabolism, and mycoparasitism, distinguishing biocontrol-active species from industrial cellulase producers like *T. reesei*.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cold Climate Strategies — Snow, Ice, and Permafrost
+## Cold Climate Strategies — Snow, Ice, and Permafrost
 
 [[avalanche-phenomenon]] demand a specialised set of design techniques that exploit the unique properties of snow, ice, and frozen ground. While most literature focuses on heating, cold itself is a powerful tool for preservation, concentration, construction, [[climate-and-microclimate-management]].
 

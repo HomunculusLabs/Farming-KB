@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Stream Orders and Settlement Design
+## Stream Orders and Settlement Design
 
 ## Overview
 

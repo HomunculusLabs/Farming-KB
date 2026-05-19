@@ -8,7 +8,7 @@ tags: [cannabis]
 updated: 2026-04-26
 ---
 
-# Troubleshooting Guide
+## Troubleshooting Guide
 
 Diagnosing cannabis plant problems requires careful observation and systematic elimination. Most problems fall into three categories: nutrient disorders, environmental stress, and pest or disease issues. This guide covers the most common problems encountered during cultivation.
 

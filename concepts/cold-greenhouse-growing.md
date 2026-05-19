@@ -6,7 +6,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 created: 2026-05-10
 ---
 
-# Cold Greenhouse Growing
+## Cold Greenhouse Growing
 
 Cold greenhouse growing is the practice of producing vegetables year-round in unheated or minimally
 heated structures. Pioneered and refined by Eliot Coleman at Four Season Farm in Harborside, Maine

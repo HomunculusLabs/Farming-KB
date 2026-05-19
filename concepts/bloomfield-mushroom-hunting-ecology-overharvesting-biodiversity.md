@@ -5,7 +5,7 @@ type: concept
 tags: [mycology, mushroom-hunting, ecology, overharvesting, spore-dispersal, genetic-diversity, conservation, biodiversity]
 ---
 
-# Mushroom Hunting: Ecology, Overharvesting, and Biodiversity Concerns
+## Mushroom Hunting: Ecology, Overharvesting, and Biodiversity Concerns
 
 ## Overview
 

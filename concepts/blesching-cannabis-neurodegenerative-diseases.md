@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis for Neurodegenerative Diseases
+## Cannabis for Neurodegenerative Diseases
 
 ## Overview of Neurodegenerative Diseases
 

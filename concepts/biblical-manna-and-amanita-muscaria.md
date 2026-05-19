@@ -4,7 +4,7 @@ source: arthur-j-mushrooms-and-mankind.md
 type: concept
 ---
 
-# Biblical Manna and Amanita Muscaria
+## Biblical Manna and Amanita Muscaria
 
 The biblical **Manna** — the miraculous food that sustained the Israelites in the wilderness — is identified through linguistic, botanical, and symbolic analysis as the **[[allegro-dead-sea-scrolls]], made numerous connections in his controversial 1970 book *[[soma]]** (Greek = "Body") — the Hindu divine substance
 - **Manna** (Sumerian = "Mushroom") — the biblical miraculous food

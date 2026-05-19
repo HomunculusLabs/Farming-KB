@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual
 type: entity
 ---
 
-# Seventh Generation Principle
+## Seventh Generation Principle
 
 ## Description
 

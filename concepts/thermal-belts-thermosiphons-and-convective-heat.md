@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Thermal Belts, Thermosiphons, and Convective Heat
+## Thermal Belts, Thermosiphons, and Convective Heat
 
 The movement and storage of heat in landscapes follows predictable physical laws that can be harnessed for building design, agricultural planning, and microclimate creation. Understanding convection loops, thermal belts, and thermosiphon effects allows permaculture designers to position structures and plantings for optimal thermal performance.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Gaia Hypothesis and Self-Regulating Systems
+## Gaia Hypothesis and Self-Regulating Systems
 
 ## Overview
 

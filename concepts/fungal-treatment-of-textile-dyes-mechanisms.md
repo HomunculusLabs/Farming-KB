@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Treatment of Textile Dyes -- Mechanisms and Processes Updated: 2026-04-18 Textile dye effluents are among the most challenging industrial wastewaters due to their intense colour, chemical complexity, and toxicity. Dye house effluents contain numerous chromophore types including azo, triphenylmethane, metal phthalocyanin, anthraquinone, heterocyclic, indigo, and polymeric dyes. White rot fungi and their ligninolytic enzymes offer effective biological treatment through mechanisms analogous to [[singh-textile-dye-decolorization-fungal]].
+## Fungal Treatment of Textile Dyes -- Mechanisms and Processes Updated: 2026-04-18 Textile dye effluents are among the most challenging industrial wastewaters due to their intense colour, chemical complexity, and toxicity. Dye house effluents contain numerous chromophore types including azo, triphenylmethane, metal phthalocyanin, anthraquinone, heterocyclic, indigo, and polymeric dyes. White rot fungi and their ligninolytic enzymes offer effective biological treatment through mechanisms analogous to [[singh-textile-dye-decolorization-fungal]].
 
 ## Factors Affecting Decolorization
 

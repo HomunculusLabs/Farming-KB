@@ -8,7 +8,7 @@ sources: [tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Sound and Music Effects on Plants
+## Sound and Music Effects on Plants
 
 Research documented in "The [[fukuoka-textdoc-increased-production-not-increased-yields]], enhanced flowering, and
 higher nutritional content. From ancient Indian ragas to Bach violin

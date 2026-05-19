@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# What Causes Cannabis Leaves to Curl and How to Fix It
+## What Causes Cannabis Leaves to Curl and How to Fix It
 
 ## Short Answer
 Cannabis leaves curl due to environmental stress, watering problems, nutrient

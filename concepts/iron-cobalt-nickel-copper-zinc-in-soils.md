@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Iron, Cobalt, Nickel, Copper, and Zinc in Soils
+## Iron, Cobalt, Nickel, Copper, and Zinc in Soils
 
 ## Overview
 

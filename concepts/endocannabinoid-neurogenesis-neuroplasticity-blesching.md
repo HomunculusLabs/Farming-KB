@@ -4,7 +4,7 @@ source: blesching-cannabis-health-index-autoimmune-conditions (2015)
 tags: [neurogenesis, neuroplasticity, endocannabinoid-system, cannabis, brain-recovery, learning, cb1-receptor]
 ---
 
-# Endocannabinoid System, Neurogenesis, and Neuroplasticity
+## Endocannabinoid System, Neurogenesis, and Neuroplasticity
 
 ## Overview
 

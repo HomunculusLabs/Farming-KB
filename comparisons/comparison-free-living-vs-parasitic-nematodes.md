@@ -18,7 +18,7 @@ sources:
 type: comparison
 ---
 
-# Free-Living vs Parasitic Nematodes
+## Free-Living vs Parasitic Nematodes
 
 Nematodes (roundworms) are among the most abundant animals on Earth, with an estimated four out of every five animals on the planet being a nematode. In a single teaspoon of healthy agricultural soil, you can find dozens of species. While some of these are serious crop pests, the vast majority are beneficial or harmless. Understanding the difference between free-living and parasitic nematodes is one of the most practical skills a farmer or gardener can develop for managing soil health.
 

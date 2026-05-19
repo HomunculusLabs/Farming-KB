@@ -9,7 +9,7 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# Dominator Culture and Suppression of Ecstasy
+## Dominator Culture and Suppression of Ecstasy
 
 [[eleusinian-mysteries-psychoactive-fungi-western-civilization]]. Drawing on the archaeological work of Marija Gimbutas, 
 Riane Eisler's partnership/dominator model, and his own interpretation of the 

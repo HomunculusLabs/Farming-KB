@@ -7,7 +7,7 @@ source: "D.H. Jarrold, Indoor mushroom-spore-inoculation-technique
 created: 2026-05-10
 ---
 
-# Jarrold Short Needle vs. Long Needle Mushroom Inoculation Methods
+## Jarrold Short Needle vs. Long Needle Mushroom Inoculation Methods
 
 In D.H. Jarrold's guide *Indoor mushroom-spore-syringe-making into boil a bag substrate containers. Each method differs in approach, equipment, and mushroom-cultivation where boil-a-bag-mushroom-cultivation-technique, the substrate is contained within a bag topped with a mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange while blocking contaminants. Jarrold describes two approaches: the **short needle method**, which injects directly through the bag wall, and the **long needle method**, which injects through the sterile filter medium.
 

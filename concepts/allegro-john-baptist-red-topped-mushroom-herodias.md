@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# John the Baptist as Red-Topped Mushroom and the Herodias Story
+## John the Baptist as Red-Topped Mushroom and the Herodias Story
 
 ## Overview
 

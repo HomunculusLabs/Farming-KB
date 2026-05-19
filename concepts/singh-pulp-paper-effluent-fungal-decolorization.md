@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Pulp and Paper Mill Effluent Fungal Treatment
+## Pulp and Paper Mill Effluent Fungal Treatment
 
 The pulp and paper industry generates highly colored wastewaters
 containing lignin and its derivatives from pulping, bleaching, and

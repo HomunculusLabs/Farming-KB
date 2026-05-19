@@ -16,7 +16,7 @@ sources:
   - Courtecuisse, R. & Duhem, B. (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
 ---
 
-# Stereum hirsutum
+## Stereum hirsutum
 
 ## Overview
 

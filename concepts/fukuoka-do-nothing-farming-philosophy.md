@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Do-Nothing Farming Philosophy
+## Fukuoka Do-Nothing Farming Philosophy
 
 The concept of "doing nothing" is the philosophical and practical core of Masanobu Fukuoka's [[hamilton-composting-and-organic-matter-management]] to the field eliminate the need
 3. **No pesticides** -- the natural balance of the ecosystem provides [[comparison-natural-farming-vs-permaculture]] as efficiency:

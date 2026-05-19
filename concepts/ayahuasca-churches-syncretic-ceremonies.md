@@ -1,4 +1,8 @@
-# Ayahuasca Churches and Syncretic Ceremonies
+---
+title: "Ayahuasca Churches and Syncretic Ceremonies"
+tags:
+  - concept
+---
 
 ## Overview
 [[metzner-shamanic-healing-and-divination-paradigm]] rituals and Western

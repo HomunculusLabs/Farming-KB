@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
 type: concept
 ---
-# Backyard Wildlife Habitat Design Creating habitat for birds, beneficial insects, amphibians, reptiles, and other wildlife transforms a garden from a collection of isolated plants into a living ecosystem. Wildlife provides critical services including pest control, pollination, soil building, seed dispersal, and nutrient cycling. Designing for wildlife means designing for garden health. ## The Niche Cascade Hemenway illustrates wildlife habitat through the Bullock brothers' experience on Orcas Island. When they restored a drained wetland and added [[fukuoka-fruit-tree-disease-pest-control-natural-predators]],
+## Backyard Wildlife Habitat Design Creating habitat for birds, beneficial insects, amphibians, reptiles, and other wildlife transforms a garden from a collection of isolated plants into a living ecosystem. Wildlife provides critical services including pest control, pollination, soil building, seed dispersal, and nutrient cycling. Designing for wildlife means designing for garden health. ## The Niche Cascade Hemenway illustrates wildlife habitat through the Bullock brothers' experience on Orcas Island. When they restored a drained wetland and added [[fukuoka-fruit-tree-disease-pest-control-natural-predators]],
 gardeners can let nature do the bug control.
 
 The two forms of garden biodiversity depend on each other: the diversity the

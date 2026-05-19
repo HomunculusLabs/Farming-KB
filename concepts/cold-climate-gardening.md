@@ -7,7 +7,7 @@ tags: [gardening, cultivation, homesteading, timeline, design]
 sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
 
-# Cold Climate Gardening
+## Cold Climate Gardening
 
 Growing food in cold climates (zones 3-6) requires specific strategies: season extension, cold-hardy varieties, [[succession-planting]], and protected cultivation. Drawn from [[nicole-faires]]' comprehensive manual.
 

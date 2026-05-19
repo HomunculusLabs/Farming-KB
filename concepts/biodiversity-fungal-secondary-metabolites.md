@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, antifungal-secondary-metabolites-coprophilous-fungi, antibiotics, query-what-are-the-main-bioactive-compounds-in-medicinal-plants, fungal chemistry]
 date: 2026-04-28
 updated: 2026-05-09
-sources: ["/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md""]
 type: concept
 ---
 
-# Fungal Secondary Metabolites and Antibiotic Production
+## Fungal Secondary Metabolites and Antibiotic Production
 
 Fungal secondary metabolites represent one of the most pharmacologically
 significant and ecologically important classes of natural products. Unlike

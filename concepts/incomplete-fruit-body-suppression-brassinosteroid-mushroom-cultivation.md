@@ -5,7 +5,7 @@ created: 2026-05-09
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
 ---
 
-# Incomplete Fruit Body Formation in Mushroom Cultivation and Its Suppression by Brassinosteroids
+## Incomplete Fruit Body Formation in Mushroom Cultivation and Its Suppression by Brassinosteroids
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Global Weather Patterns and Atmospheric Circulation
+## Global Weather Patterns and Atmospheric Circulation
 
 ## Overview
 

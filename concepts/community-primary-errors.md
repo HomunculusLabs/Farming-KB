@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Community Primary Errors
+## Community Primary Errors
 
 In *[[permaculture]]: A Designers' Manual*, [[bill-mollison]] identifies a set of recurring
 pitfalls that cause [[holmgren-community-design-and-intentional-communities]] to fail or to spend more time mired in

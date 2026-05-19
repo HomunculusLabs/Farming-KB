@@ -7,7 +7,7 @@ tags: [history, research]
 sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
-# Claude Naranjo
+## Claude Naranjo
 
 Claude Naranjo (1932-2019) was a Chilean-born psychiatrist, psychotherapist, and pioneer of [[lsd-therapeutic-history]] for broader clinical context.
 

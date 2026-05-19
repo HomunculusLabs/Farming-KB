@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka Mandarin Orange and Citrus Orchard
+## Fukuoka Mandarin Orange and Citrus Orchard
 
 Masanobu Fukuoka's citrus orchard on the hillside above his farm in Ehime Prefecture, Shikoku, stands as one of the most compelling demonstrations of [[fukuoka-natural-orchard-development]] because:
 

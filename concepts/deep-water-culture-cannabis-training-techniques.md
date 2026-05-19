@@ -4,7 +4,7 @@ source: greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
 
-# Deep Water Culture and Cannabis Training Techniques
+## Deep Water Culture and Cannabis Training Techniques
 
 ## Deep Water Culture (DWC) — "The Bubbler"
 

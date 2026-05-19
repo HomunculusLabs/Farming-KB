@@ -1,4 +1,8 @@
-# Mycelial Cord Network Topology and Graph Theory Analysis
+---
+title: "Mycelial Cord Network Topology and Graph Theory Analysis"
+tags:
+  - concept
+---
 
 ## Overview
 Fungal mycelial [[phanerochaete-velutina]]* — can be analyzed using tools from graph [[ectomycorrhizal-morphological-structures]]

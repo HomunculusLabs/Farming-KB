@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Flatland Earth Bank Design in Permaculture
+## Flatland Earth Bank Design in Permaculture
 
 ## Overview
 

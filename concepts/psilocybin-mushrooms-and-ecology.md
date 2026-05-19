@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Psilocybin Mushrooms and Ecology
+## Psilocybin Mushrooms and Ecology
 
 Paul Stamets' early career was deeply intertwined with the study of psilocybin-containing mushrooms. His taxonomic work on Psilocybe species at Evergreen State College in the 1970s contributed to the scientific understanding of these fungi, and his observations of their ecological roles reveal important aspects of fungal-insect interactions and dispersal biology.
 

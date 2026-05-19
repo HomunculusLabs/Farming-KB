@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Crops Grow of Their Own Accord: Independence from Fertilizer
+## Crops Grow of Their Own Accord: Independence from Fertilizer
 
 ## Overview
 

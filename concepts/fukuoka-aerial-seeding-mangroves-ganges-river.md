@@ -15,7 +15,7 @@ sources:
   - masanobu-fukuoka-sowing-seeds-in-the-desert.md
 ---
 
-# Aerial Seeding of Mangroves at the Ganges River Mouth
+## Aerial Seeding of Mangroves at the Ganges River Mouth
 
 ## Overview
 

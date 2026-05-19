@@ -17,7 +17,7 @@ sources:
   - Dai, Y.C. et al. (2006). "Wood-inhabiting fungi in southern China." Sylloge Fungorum 23: 1-338.
 ---
 
-# Ischnoderma resinosum
+## Ischnoderma resinosum
 
 ## Overview
 

@@ -1,4 +1,8 @@
-# Gratitude, Compassion, and Forgiveness: Three Healing Habits
+---
+title: "Gratitude, Compassion, and Forgiveness: Three Healing Habits"
+tags:
+  - concept
+---
 
 ## Overview
 

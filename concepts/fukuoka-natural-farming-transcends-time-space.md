@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Natural Farming Transcends Time and Space
+## Natural Farming Transcends Time and Space
 
 Masanobu Fukuoka argued that [[fukuoka-critique-scientific-agriculture-civilization]]. "The natural way of farming existed long before the advent of the 'improved' techniques of the modern age."
 

@@ -21,7 +21,7 @@ tags: [`tryptamine`, `psychedelic`, `entheogen`]
 sources:
   - raw/papers/shulgin-a-tihkal.md
 
-# alpha,N,O-TMS
+## alpha,N,O-TMS
 
 alpha,N,O-Trimethylserotonin
 

@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
 ---
-# ALEPH-7
+## ALEPH-7
 
 ALEPH-7 is the n-propylthio homologue of [[alexander-shulgin]].
 

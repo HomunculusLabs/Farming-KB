@@ -4,7 +4,7 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-# Maitake Strain Selection and Substrate Options
+## Maitake Strain Selection and Substrate Options
 
 Successful *[[grifola-frondosa-maitake]]* (maitake) cultivation depends critically on selecting appropriate strains and substrate materials. The interaction between fungal genetics and substrate composition determines colonization speed, fruiting body quality, and overall yield. This concept covers strain selection criteria, substrate plant species options, and their implications for commercial and home cultivation.
 

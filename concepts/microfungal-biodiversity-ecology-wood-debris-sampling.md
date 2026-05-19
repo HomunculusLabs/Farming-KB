@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Microfungal Biodiversity — Ecology, Limitations, and Sampling on Wood and Debris
+## Microfungal Biodiversity — Ecology, Limitations, and Sampling on Wood and Debris
 
 Microfungi — the often-overlooked microscopic fungi — constitute the vast majority of [[dighton-fungal-decomposition-leaf-litter-dynamics]], soil, [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], and the paucity of ecological data.
 

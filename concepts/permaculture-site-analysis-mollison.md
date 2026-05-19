@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, site-analysis, land-assessment]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Permaculture Site Analysis (Mollison)
+## Permaculture Site Analysis (Mollison)
 **Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
 **Updated:** 2026-05-09
 

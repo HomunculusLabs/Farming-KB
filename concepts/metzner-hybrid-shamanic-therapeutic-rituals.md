@@ -4,7 +4,7 @@ aliases: ["hybrid-shamanic-therapy", "syncretic psychedelic healing", "indigenou
 tags: [shamanism, psychotherapy, psychedelics, healing, ritual, metzner]
 ---
 
-# Hybrid Shamanic-Therapeutic Rituals: Blending Indigenous and Western Healing
+## Hybrid Shamanic-Therapeutic Rituals: Blending Indigenous and Western Healing
 
 ## Overview
 

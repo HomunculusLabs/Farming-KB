@@ -20,7 +20,7 @@ sources:
 - raw/papers/unknown-mycelium-running.md
 ---
 
-# Mushroom Ecological Species
+## Mushroom Ecological Species
 
 Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/ecological species, mycoremediation species, and substrate preparation reference. Based on [[paul-stamets]]' *Mycelium Running*. See [[mushroom-species-cultivation-parameters]] for primary species (Oyster, Wine Cap, Shiitake, Maitake, Lion's Mane).
 

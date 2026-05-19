@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Compost Contaminants - Herbicide Persistence
+## Compost Contaminants - Herbicide Persistence
 
 Extracted from Elaine Ingham's AACT Field Guide, covering herbicide
 contamination issues that affect [[chamovitz-circadian-rhythm-internal-clock-plants]]

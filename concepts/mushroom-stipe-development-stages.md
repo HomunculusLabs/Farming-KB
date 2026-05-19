@@ -7,7 +7,7 @@ source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 related: [anemotropism-in-basidiomycete-mushrooms, negative-geotropism-in-mushroom-fruiting, evaporative-demand-hypothesis-mushroom-growth]
 ---
 
-# Mushroom Stipe Development Stages in Psilocybe Cubensis
+## Mushroom Stipe Development Stages in Psilocybe Cubensis
 
 The development of the *Psilocybe cubensis* basidiocarp (fruiting body) can
 be divided into four distinct morphological stages, each characterized by

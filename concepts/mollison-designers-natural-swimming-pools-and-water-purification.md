@@ -1,65 +1,65 @@
-     1|---
-     2|source: bill-mollison-permaculture-a-designers-manual.md
-     3|source_path: ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-     4|chapter: 7
-     5|extracted: 2026-05-10
-     6|tags: [permaculture, mollison, designers-manual, water, swimming-pools, purification, biological-filtration, reed-beds]
-     7|---
-     8|# [[bill-mollison]] presents them
-    14|as multi-functional elements that serve simultaneously as recreation areas, fire reserves,
-    15|heat sources, [[savory-living-organisms-as-tools]]. Since humans are biological
-    24|organisms, the principle is clear: if fish cannot live in the water, people should not
-    25|swim in it either.
-    26|
-    27|Chlorine used in pools forms carcinogenic chloroform compounds, creating genuine health
-    28|risks for regular swimmers. The endless cycle of chemical purchase, dosing, monitoring,
-    29|and servicing represents both an ongoing financial burden and an unnecessary pollution
-    30|pathway to groundwater and soils. Natural swimming pools eliminate all these drawbacks
-    31|while providing additional functions that conventional pools cannot deliver. As Mollison
-    32|puts it: "Goodbye to the endless servicing, and perhaps hello to an occasional lobster or
-    33|overgrown trout!"
-    34|
-    35|## How Natural Swimming Pools Work
-    36|Innovative pool designers filter natural pools using a layered biological system. Water is
-    37|pumped down through a base pebble bed, which serves as the primary algal and bacterial
-    38|cleaning layer. The pebbles provide enormous surface area for [[savory-soil-organic-matter-and-decomposition-dynamics]] converting nutrients into forms that plants can
-    40|absorb rather than fuelling algal blooms in the swimming zone.
-    41|
-    42|From the pebble bed, water cycles through a reed bed system where emergent aquatic plants
-    43|such as rushes and sedges remove excess nutrients before the water cascades back, freshly
-    44|oxygenated, into the swimming area. This creates a self-regulating purification cycle
-    45|where biological processes maintain water quality continuously without any chemical input.
-    46|Aeration is often achieved through flowform sculptures or simple cascades that oxygenate
-    47|the water as it returns to the pool.
-    48|
-    49|Mollison emphasises that slow flow through the feed bed is essential for effective
-    50|treatment, as are regular tests for the presence of E. coli bacteria to verify that the
-    51|biological system is maintaining safe water quality. The oxygenation supports aerobic
-    52|bacteria in the filtration system and prevents the anaerobic conditions that produce
-    53|unpleasant odours and favour pathogens.
-    54|
-    55|## [[permaculture-principle-apply-self-regulation]] that every element should perform
-   102|multiple functions. They act as reserves for fire-fighting, especially valuable in rural
-   103|and forest-edge settings. The [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]]. Such pools
-   111|can be "delightful systems with tame fish, crayfish, rock ledges, over-arching ferns, and
-   112|great good health."
-   113|
-   114|## [[nasturtium-officinale]]*), and various
-   131|*Iris* species for marginal plantings. Submerged oxygenators such as *Elodea* and
-   132|*Ceratophyllum* help maintain aerobic conditions in the water column and compete with
-   133|nuisance algae for available nutrients.
-   134|
-   135|Construction materials include waterproof membranes (butyl rubber, EPDM, or reinforced
-   136|polyethylene), graded gravel and pebble layers, and local stone for aesthetic and
-   137|structural elements. Flowform sculptures, where used, are typically cast in concrete or
-   138|fibreglass and serve as both aerators and landscape features. The use of local stone
-   139|reduces transport costs and integrates the pool visually with the surrounding landscape.
-   140|
-   141|## Integration with Other Systems
-   142|Natural swimming pools integrate with many other permaculture elements across a site. They
-   143|receive roof runoff as supplementary water supply, connect to
-   144|[[mollison-designers-greywater-treatment-reedbeds]] systems as a final
-   145|polishing stage, and provide irrigation water for adjacent gardens through their
+---
+source: bill-mollison-permaculture-a-designers-manual.md
+source_path: ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+chapter: 7
+extracted: 2026-05-10
+tags: [permaculture, mollison, designers-manual, water, swimming-pools, purification, biological-filtration, reed-beds]
+---
+## [[bill-mollison]] presents them
+as multi-functional elements that serve simultaneously as recreation areas, fire reserves,
+heat sources, [[savory-living-organisms-as-tools]]. Since humans are biological
+organisms, the principle is clear: if fish cannot live in the water, people should not
+swim in it either.
+
+Chlorine used in pools forms carcinogenic chloroform compounds, creating genuine health
+risks for regular swimmers. The endless cycle of chemical purchase, dosing, monitoring,
+and servicing represents both an ongoing financial burden and an unnecessary pollution
+pathway to groundwater and soils. Natural swimming pools eliminate all these drawbacks
+while providing additional functions that conventional pools cannot deliver. As Mollison
+puts it: "Goodbye to the endless servicing, and perhaps hello to an occasional lobster or
+overgrown trout!"
+
+## How Natural Swimming Pools Work
+Innovative pool designers filter natural pools using a layered biological system. Water is
+pumped down through a base pebble bed, which serves as the primary algal and bacterial
+cleaning layer. The pebbles provide enormous surface area for [[savory-soil-organic-matter-and-decomposition-dynamics]] converting nutrients into forms that plants can
+absorb rather than fuelling algal blooms in the swimming zone.
+
+From the pebble bed, water cycles through a reed bed system where emergent aquatic plants
+such as rushes and sedges remove excess nutrients before the water cascades back, freshly
+oxygenated, into the swimming area. This creates a self-regulating purification cycle
+where biological processes maintain water quality continuously without any chemical input.
+Aeration is often achieved through flowform sculptures or simple cascades that oxygenate
+the water as it returns to the pool.
+
+Mollison emphasises that slow flow through the feed bed is essential for effective
+treatment, as are regular tests for the presence of E. coli bacteria to verify that the
+biological system is maintaining safe water quality. The oxygenation supports aerobic
+bacteria in the filtration system and prevents the anaerobic conditions that produce
+unpleasant odours and favour pathogens.
+
+## [[permaculture-principle-apply-self-regulation]] that every element should perform
+multiple functions. They act as reserves for fire-fighting, especially valuable in rural
+and forest-edge settings. The [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]]. Such pools
+can be "delightful systems with tame fish, crayfish, rock ledges, over-arching ferns, and
+great good health."
+
+## [[nasturtium-officinale]]*), and various
+*Iris* species for marginal plantings. Submerged oxygenators such as *Elodea* and
+*Ceratophyllum* help maintain aerobic conditions in the water column and compete with
+nuisance algae for available nutrients.
+
+Construction materials include waterproof membranes (butyl rubber, EPDM, or reinforced
+polyethylene), graded gravel and pebble layers, and local stone for aesthetic and
+structural elements. Flowform sculptures, where used, are typically cast in concrete or
+fibreglass and serve as both aerators and landscape features. The use of local stone
+reduces transport costs and integrates the pool visually with the surrounding landscape.
+
+## Integration with Other Systems
+Natural swimming pools integrate with many other permaculture elements across a site. They
+receive roof runoff as supplementary water supply, connect to
+[[mollison-designers-greywater-treatment-reedbeds]] systems as a final
+polishing stage, and provide irrigation water for adjacent gardens through their
 
 ## Overview
 

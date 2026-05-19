@@ -4,7 +4,7 @@ source: "carolina-mushrooms_08qxp.md"
 tags: [emcdda, helpline, epidemiology, surveillance, FESAT, europe, mushroom, psilocybin]
 ---
 
-# EMCDDA Telephone Helpline Data on Hallucinogenic Mushroom Inquiries
+## EMCDDA Telephone Helpline Data on Hallucinogenic Mushroom Inquiries
 
 ## Overview
 

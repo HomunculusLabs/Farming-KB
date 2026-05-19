@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka on Livestock and Fishing Energy Inefficiency
+## Fukuoka on Livestock and Fishing Energy Inefficiency
 
 [[masanobu-fukuoka]]'s *The One-Straw Revolution* extends its [[fukuoka-natural-livestock-farming]] amplifies this through intensive confinement and processed feed.
 

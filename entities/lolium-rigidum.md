@@ -5,7 +5,7 @@ type: entity
 tags: [species, poaceae, grass, salt-tolerant, forage, ryegrass, dryland, australia, permaculture]
 ---
 
-# Lolium rigidum
+## Lolium rigidum
 
 ## Description
 

@@ -1,4 +1,8 @@
-# PF TEK History: From High Times Advertisement to Worldwide Internet Phenomenon
+---
+title: "PF TEK History: From High Times Advertisement to Worldwide Internet Phenomenon"
+tags:
+  - concept
+---
 
 ## Overview
 
@@ -144,7 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[eleusinian-mysteries-history-and-structure]]
-- [[haze-lineage-and-genetic-history]]
-- [[mckenna-history-shockwave-of-eschatology]]
-- [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]
-- [[shroom-cultural-history-mushroom-in-ancient-civilizations]]

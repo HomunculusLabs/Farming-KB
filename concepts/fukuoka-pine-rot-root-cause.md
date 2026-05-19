@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# gaias-garden-forest-garden-installation-phased-design Rot Research
+## gaias-garden-forest-garden-installation-phased-design Rot Research
 
 Masanobu Fukuoka conducted a three-year investigation into the pine rot epidemic devastating Japan's forests, setting up a makeshift laboratory in his [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]:
 - Soil pH was extremely acidic (3.2-4.8) in affected areas

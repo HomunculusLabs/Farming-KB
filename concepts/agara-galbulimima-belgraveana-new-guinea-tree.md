@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Agara (Galbulimima belgraveana)
+## Agara (Galbulimima belgraveana)
 
 Agara is the name given to Galbulimima belgraveana, a tall forest tree of
 Malaysia and Australia. In Papua New Guinea, natives prepare a drink by

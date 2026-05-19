@@ -8,7 +8,7 @@ sources: ["symbiotic-fungi.md"]
 type: concept
 ---
 
-# Ectomycorrhizal Associations
+## Ectomycorrhizal Associations
 
 ## Definition and Occurrence
 

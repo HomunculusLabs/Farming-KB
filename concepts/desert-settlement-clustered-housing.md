@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Settlement Design and Clustered Housing
+## Desert Settlement Design and Clustered Housing
 
 Desert settlements require careful design to manage extreme heat, provide cooling, and minimize energy consumption. Traditional desert cultures across Asia, India, the Middle East, the Mediterranean, and the Americas independently developed remarkably similar strategies — a testament to their effectiveness.
 

@@ -10,7 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Trainwreck Generational Breeding
+## Trainwreck Generational Breeding
 
 Trainwreck generational breeding is an outdoor [[trainwreck-cannabis]]
 - [[equatorial-photoperiod-early-flowering]]

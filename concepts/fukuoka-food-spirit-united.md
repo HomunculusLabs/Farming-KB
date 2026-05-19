@@ -10,7 +10,7 @@ sources:
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-# Fukuoka: Food and Spirit United
+## Fukuoka: Food and Spirit United
 
 Source: [[fukuoka-seasonal-eating-natural-food-calendar]] and [[fukuoka-natural-soil-works-itself]] produces living food, and living food nourishes not just the body but the spirit.
 

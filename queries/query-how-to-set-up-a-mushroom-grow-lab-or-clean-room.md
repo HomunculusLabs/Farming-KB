@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Set Up a Mushroom Grow Lab or Clean Room
+## How to Set Up a Mushroom Grow Lab or Clean Room
 
 ## Short Answer
 A mushroom grow lab is a dedicated space for sterile cultivation work including agar preparation, grain inoculation, and [[growing-gourmet-autoclave-retort-selection]] capable of reaching 15 PSI is essential. Large pressure canners like the All-American series work well for home growers processing up to 10 quart jars per cycle. Commercial operations need proper autoclaves that can handle bulk bags of [[mazatec-mushroom-culture-and-velada]] a competitive advantage.

@@ -20,7 +20,7 @@ type: comparison
 created: 2026-05-03
 ---
 
-# Hardy Kiwi vs Fuzzy Kiwi vs Grape for Trellising Systems
+## Hardy Kiwi vs Fuzzy Kiwi vs Grape for Trellising Systems
 
 Choosing between hardy kiwi (*Actinidia arguta*), fuzzy kiwi (*[[coleman-cold-hardiness-testing-ratings]], fruit characteristics, pollination needs, and upkeep demands.
 

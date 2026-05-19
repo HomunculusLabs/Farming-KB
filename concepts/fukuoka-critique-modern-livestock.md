@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Critique of Modern Livestock Farming
+## Critique of Modern Livestock Farming
 
 Masanobu Fukuoka was a vocal critic of modern livestock farming, which he saw as one of the most destructive aspects of industrial agriculture. His analysis extended beyond ecological concerns to encompass ethical, economic, and civilizational dimensions.
 

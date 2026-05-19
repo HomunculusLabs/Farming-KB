@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Ground Cover Plants for Permaculture
+## Ground Cover Plants for Permaculture
 
 [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], provide bee forage, and in fire-prone regions can be selected for low flammability. This guide covers ground covers for general use, fire protection, coastal sites, and difficult conditions.
 

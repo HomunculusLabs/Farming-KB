@@ -5,10 +5,10 @@ type: species
 tags: [lactic-acid-bacteria, probiotic, fermentation, soil-biology, korean-natural-farming]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+sources: ["raw/papers/chos-global-natural-farming.md"]
 ---
 
-# Lactobacillus
+## Lactobacillus
 
 *Lactobacillus* is a genus of Gram-positive, facultatively anaerobic, rod-shaped bacteria that are among the most important microorganisms in food fermentation, human health, and sustainable agriculture. As the primary agents of **lactic acid fermentation**, species of *Lactobacillus* convert sugars into lactic acid, creating the acidic environments that preserve food, inhibit pathogens, and shape the [[query-how-to-make-sourdough-bread-at-home]], porridge, and traditional cereal beverages depend on *Lactobacillus* for acidification and flavor development
 - **Beverages**: Kombucha (in combination with yeasts), traditional fermented beverages

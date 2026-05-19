@@ -11,7 +11,7 @@ type: concept
 tags: [maitake]
 ---
 
-# Maitake (Grifola frondosa) D-Fraction Cancer Research
+## Maitake (Grifola frondosa) D-Fraction Cancer Research
 
 ## Overview
 

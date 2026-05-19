@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka The Village and Self-Sufficient Community
+## Fukuoka The Village and Self-Sufficient Community
 
 In "The Road Back to Nature," Masanobu Fukuoka envisions a radical reorganization of Japanese society around self-sufficient village communities. His analysis spans land distribution, housing law, communal living experiments, and the philosophical basis for decentralized rural life.
 

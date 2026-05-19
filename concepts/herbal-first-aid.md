@@ -7,7 +7,7 @@ tags: [herbalism, herbs, medicine]
 sources: []
 ---
 
-# Herbal First Aid
+## Herbal First Aid
 
 Herbal first aid is the application of plant-based remedies for acute injuries and conditions that require immediate attention. A well-stocked herbal first aid kit can address most common minor injuries and acute illnesses encountered at home, in the garden, or on homesteads. Herbal first aid is complementary to, not a replacement for, conventional emergency medical care for serious injuries.
 

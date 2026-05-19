@@ -6,7 +6,7 @@ source: [winston-cannabis-microbiome-study-design]
 created: 2026-05-10
 ---
 
-# Nitrogen, Salinity, and Carbon as Primary Edaphic Drivers of Cannabis Microbial Community Structure
+## Nitrogen, Salinity, and Carbon as Primary Edaphic Drivers of Cannabis Microbial Community Structure
 
 ## Overview
 

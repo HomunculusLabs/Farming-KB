@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's fukuoka-tasty-rice-illusion-food-processing Illusion
+title: "Fukuoka Tasty Rice Illusion"
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Fukuoka's Tasty Rice Illusion
+## Fukuoka's Tasty Rice Illusion
 
 ## Overview
 

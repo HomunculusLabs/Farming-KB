@@ -8,7 +8,7 @@ type: concept
 tags: [gardening, plants]
 ---
 
-# Plants for Many Purposes
+## Plants for Many Purposes
 
 In most conventional gardens, each plant is chosen for a single purpose: a maple for fall color, an oak for shade, daisies for accent. Nature never works this way. Natural plant groupings form through dynamic relationships among species and the environment, creating landscapes that harvest water, build soil, minimize disease, and support enormous diversity -- all while looking beautiful.
 

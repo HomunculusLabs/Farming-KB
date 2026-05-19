@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Hallucinogens in Psychotherapy and Shamanism — Comparative Paradigms
+## Hallucinogens in Psychotherapy and Shamanism — Comparative Paradigms
 
 Ralph Metzner's 1998 review article in the Journal of Psychoactive Drugs identifies four distinct paradigms for the use of hallucinogenic drugs and plants in healing and knowledge-seeking practices. While Western psychotherapy and indigenous shamanism may employ similar psychoactive substances, Metzner argues that profound differences exist in their underlying worldviews and assumptions about reality. Understanding these paradigms provides a framework for comparing therapeutic, spiritual, and hybrid approaches to working with altered states of consciousness.
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Use Aquaponics to Grow Herbs and Vegetables
+## How to Use Aquaponics to Grow Herbs and Vegetables
 
 Aquaponics combines aquaculture (raising fish) with hydroponics (growing plants in water) into a single recirculating system. Fish waste provides organic nutrients [[query-how-to-use-kelp-meal-as-fertilizer]], and the cleaned water returns to the fish tank. The three living components, fish, bacteria, and plants, depend on each other in a symbiotic loop.
 

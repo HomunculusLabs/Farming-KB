@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Aquaponics vs Aeroponics
+## Aquaponics vs Aeroponics
 
 ## Overview
 Aquaponics and aeroponics represent two of the most advanced soilless [[cannabis-nutrient-solution-preparation]], maximizing

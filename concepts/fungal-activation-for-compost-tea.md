@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Fungal Activation for Compost Tea
+## Fungal Activation for Compost Tea
 
 ## Overview
 

@@ -9,7 +9,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# GROW BIOINTENSIVE Method Overview and History
+## GROW BIOINTENSIVE Method Overview and History
 
 The GROW BIOINTENSIVE method of horticulture is a quiet, vitally alive art of [[cervantes-chemical-fertilizers-guide]] and pesticides. He stressed the holistic [[jeavons-surface-cultivation-technique]].
 

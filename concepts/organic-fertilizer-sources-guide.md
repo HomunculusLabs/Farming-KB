@@ -8,7 +8,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# Organic Fertilizer Sources (Comprehensive Guide)
+## Organic Fertilizer Sources (Comprehensive Guide)
 
 Updated: 2026-04-18
 

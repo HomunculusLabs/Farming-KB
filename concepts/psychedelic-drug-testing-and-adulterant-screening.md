@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
 
-# Psychedelic Drug Testing and Adulterant Screening
+## Psychedelic Drug Testing and Adulterant Screening
 
 ## Overview
 

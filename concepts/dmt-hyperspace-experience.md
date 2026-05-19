@@ -1,4 +1,8 @@
-# The DMT Hyperspace Experience
+---
+title: "The DMT Hyperspace Experience"
+tags:
+  - concept
+---
 
 ## From Terence McKenna's "Tryptamine Hallucinogens and Consciousness"
 

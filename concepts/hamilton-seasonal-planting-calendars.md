@@ -8,7 +8,7 @@ type: concept
 tags: [plants]
 ---
 
-# Seasonal Planting Calendars
+## Seasonal Planting Calendars
 
 Successful [[jeavons-climate-adaptation-growing-seasons]]
 

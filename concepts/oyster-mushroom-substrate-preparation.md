@@ -7,7 +7,7 @@ tags: [mushrooms, mycology, cultivation, gardening]
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
 
-# Oyster Mushroom Substrate Preparation
+## Oyster Mushroom Substrate Preparation
 
 Oyster mushrooms (Pleurotus spp.) are among the easiest [[choosing-mushrooms-to-cultivate-and-infrastructure-planning]] because they grow on a wide variety of agricultural waste materials. Proper substrate preparation — cleaning and partially sterilizing the growing medium — is the most critical step for success.
 

@@ -5,7 +5,7 @@ mined: 2026-05-10
 tags: [mycology, cultivation, pf-tek, spore-inoculation, senescence, mycelium, genetic-diversity]
 ---
 
-# PF TEK Mass Spore Inoculation and Senescence Avoidance
+## PF TEK Mass Spore Inoculation and Senescence Avoidance
 
 ## The Core Innovation
 

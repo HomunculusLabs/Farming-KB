@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: entity
 ---
 
-# Nitrogen Deposition and Fungal Communities
+## Nitrogen Deposition and Fungal Communities
 
 ## Description
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
-# Raised Beds
+## Raised Beds
 
 From "Sepp Holzer's Permaculture" by Sepp Holzer.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Philosophy and Prime Directive
+## Permaculture Philosophy and Prime Directive
 
 ## The Prime Directive
 

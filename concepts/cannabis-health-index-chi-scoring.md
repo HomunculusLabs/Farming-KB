@@ -13,7 +13,7 @@ tags:
   - self-assessment
 ---
 
-# Cannabis Health Index (CHI) Scoring Methodology
+## Cannabis Health Index (CHI) Scoring Methodology
 
 The Cannabis Health Index (CHI) is an evidence-based rating system developed
 by Uwe Blesching, PhD, that shows degrees of confidence in cannabis as an

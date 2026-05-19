@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Cho's Seawater and Fermented Seawater
+## Cho's Seawater and Fermented Seawater
 
 Seawater is regarded in Korean [[cho-fermented-plant-juice-preparation]]: 5 ml
 -   Optional: [[cho-plant-growth-stage-treatments]]:

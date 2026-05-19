@@ -5,7 +5,7 @@ source: carolina-mushrooms_08qxp.md
 tags: [chemistry, pharmacology, psilocybin, tryptamines, neuroscience]
 ---
 
-# Psilocybin Chemistry and Pharmacology
+## Psilocybin Chemistry and Pharmacology
 
 ## Overview
 

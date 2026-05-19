@@ -31,7 +31,7 @@ sources:
 - raw/papers/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md
 ---
 
-# Fungal Research Compound Reference
+## Fungal Research Compound Reference
 
 Research summary of psilocybin-related fungal biology compiled from published papers. See [[mushroom-growing-reference]] for cultivation applications and [[psychedelic-compounds-reference]] for pharmacology.
 

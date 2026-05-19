@@ -7,7 +7,7 @@ tags: [composting, soil]
 sources: ["raw/papers/gardening-when-it-counts-steve-solomon.md"]
 ---
 
-# Composting Science (Solomon)
+## Composting Science (Solomon)
 
 Updated: 2026-04-18
 

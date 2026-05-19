@@ -19,7 +19,7 @@ sources:
   - raw/articles/jeff-lowenfels-teaming-with-fungi.md
 ---
 
-# Non-Mycorrhizal Plants
+## Non-Mycorrhizal Plants
 
 Plants that do not form mycorrhizal associations — the exceptions to the rule that 80-95% of terrestrial plants partner with fungi. Understanding these plants is important for crop rotation, companion planting, and managing mycorrhizal populations. See [[mycorrhizal-fungi]] for the mycorrhizal overview and [[mycorrhizal-agricultural-practices]] for agricultural management.
 

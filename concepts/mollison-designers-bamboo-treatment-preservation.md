@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Bamboo Treatment and Preservation
+## Bamboo Treatment and Preservation
 
 [[permplant-willows-salix-erosion-control-fodder]], animal fodder, edible shoots, water pipe,
 handicrafts, and [[mollison-designers-lime-and-cement-natural-building]]

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
-# Fungal Enzymatic Assays for Identification and Characterization
+## Fungal Enzymatic Assays for Identification and Characterization
 Updated: 2026-04-18
 Fungal enzymatic assays are biochemical tests used to differentiate
 fungal species, detect metabolic capabilities, and characterise

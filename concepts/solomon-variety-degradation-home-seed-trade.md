@@ -3,7 +3,7 @@ title: Solomon Variety Degradation Home Seed Trade
 source: Gardening When It Counts - solomon-seed-saving-vegetable-breeding
 ---
 
-# Variety Degradation in the Home Garden Seed Trade
+## Variety Degradation in the Home Garden Seed Trade
 
 ## The Problem of Declining Seed Quality
 

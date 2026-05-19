@@ -7,7 +7,7 @@ tags: [herbalism, herbs]
 sources:
   - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Herb Spiral Microclimate Design
+## Herb Spiral Microclimate Design
 
 The herb spiral is one of the most iconic and immediately practical designs in permaculture. It combines a two-dimensional pattern (a spiral) with a three-dimensional one (a mound of soil) to form a beautiful, space-saving living sculpture that generates multiple microclimates from a single garden feature.
 

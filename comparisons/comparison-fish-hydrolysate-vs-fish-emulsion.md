@@ -11,7 +11,7 @@ sources:
 type: comparison
 ---
 
-# Fish Hydrolysate vs Fish Emulsion
+## Fish Hydrolysate vs Fish Emulsion
 
 ## Overview
 

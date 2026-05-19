@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Acidifying Pollutants and Mycorrhizal Community Structure
+## Acidifying Pollutants and Mycorrhizal Community Structure
 
 The response of mycorrhizal fungal communities to acidifying pollutants represents one of the best-documented cases of anthropogenic disruption to below-ground ecosystems. Research across Europe and North America has revealed consistent patterns of community shift, though the mechanisms and specific responses vary considerably among fungal species, host trees, soil types, and pollutant combinations.
 

@@ -55,7 +55,7 @@ related_concepts:
   - mycorrhizal-biocontrol
 ---
 
-# Truffle Cultivation and Ecology
+## Truffle Cultivation and Ecology
 
 Truffles are the world's most expensive fungi by weight, with premium specimens
 commanding prices that rival gold. These subterranean fruiting bodies belong

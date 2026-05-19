@@ -4,7 +4,7 @@ source: jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
 ---
 
-# JADAM Wetting Agent (JWA) — Recipe and Natural Surfactant Science
+## JADAM Wetting Agent (JWA) — Recipe and Natural Surfactant Science
 
 ## Overview
 

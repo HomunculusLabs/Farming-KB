@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Bulbing Onion Daylength and Latitude
+## Bulbing Onion Daylength and Latitude
 
 To fully comprehend growing bulbing onions, you need to understand how daylengths work at different latitudes and how they interact with onion varieties. This is the single most important concept for onion [[mushroom-growing-success-failure-and-economics]].
 

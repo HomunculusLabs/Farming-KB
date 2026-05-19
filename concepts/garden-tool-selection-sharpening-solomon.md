@@ -4,7 +4,7 @@ source: steve-solomon, Gardening When It Counts (2005)
 tags: [gardening-tools, sharpening, shovel, hoe, combination-shovel, spade, tool-maintenance, hand-tools]
 ---
 
-# Garden Tool Selection and Sharpening
+## Garden Tool Selection and Sharpening
 
 ## Overview
 

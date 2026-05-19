@@ -26,7 +26,7 @@ related_concepts:
   - hemenway-water-harvesting-and-pond-design
 ---
 
-# Aquaponics and Backyard Aquaculture
+## Aquaponics and Backyard Aquaculture
 
 Aquaponics is an elegant synthesis of two ancient practices: aquaculture, the
 farming of aquatic organisms, and hydroponics, the cultivation of plants

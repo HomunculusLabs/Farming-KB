@@ -1,4 +1,8 @@
-# Nitrogen-Fixing Trees and Shrubs in Permaculture Systems (Nugent & Boniface)
+---
+title: "Nitrogen-Fixing Trees and Shrubs in Permaculture Systems (Nugent & Boniface)"
+tags:
+  - concept
+---
 
 **Source:** Jeff Nugent & Julia Boniface, *Permaculture Plants: A Selection* (2004)
 
@@ -144,6 +148,3 @@ current understanding and implementation strategies.
 ## Integration Strategies
 
 Successful integration of permaculture plants nitrogen fixing trees shrubs into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.

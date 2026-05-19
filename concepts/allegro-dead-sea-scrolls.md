@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# The Dead Sea Scrolls and Mushroom References
+## The Dead Sea Scrolls and Mushroom References
 
 John Allegro was uniquely positioned to connect the [[allegro-main-thesis]] -- Overview of Allegro's theory
 - [[medicinal-mushroom-extraction-bioactive-compounds]]

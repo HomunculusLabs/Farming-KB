@@ -21,7 +21,7 @@ sources:
 type: comparison
 ---
 
-# Maitake vs Reishi: Medicinal Mushroom Comparison
+## Maitake vs Reishi: Medicinal Mushroom Comparison
 
 **Maitake** (*[[hofmann-lsd-clinical-research-early-studies]]. Despite overlapping therapeutic claims, they differ significantly in their bioactive compound profiles, traditional applications, culinary roles, and practical considerations.
 

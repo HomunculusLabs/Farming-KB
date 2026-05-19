@@ -20,7 +20,7 @@ sources:
   - "Eaze Wellness. (2023). Mendo Breath: The Ultimate Relaxation Strain. https://www.eaze.com/strains/mendo-breath"
 ---
 
-# Mendo Breath
+## Mendo Breath
 
 ## Overview
 

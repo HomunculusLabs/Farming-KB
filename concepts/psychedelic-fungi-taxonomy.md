@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, taxonomy, chemistry, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
+sources: ["raw/papers/mckenna_t-food_of_the_gods.md"]
 type: concept
 ---
 
-# Psychedelic Fungi Taxonomy
+## Psychedelic Fungi Taxonomy
 
 Psychedelic fungi encompass a diverse group of mushroom-forming species
 that produce psychoactive tryptamine compounds, primarily psilocybin

@@ -18,7 +18,7 @@ sources:
   - "raw/papers/shulgin-a-future-drugs.md"
 ---
 
-# Ergotamine
+## Ergotamine
 
 Ergotamine is a naturally occurring **ergoline alkaloid** produced by the
 fungus *[[kykeon-composition-and-ergot-alkaloid-hypothesis]] obtained in

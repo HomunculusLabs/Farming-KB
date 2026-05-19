@@ -9,7 +9,7 @@ type: concept
 tags: [teonanacatl, mexico, indigenous-mushroom-use, mazatec, mixtec, zapotec, sacred-fungi, ethnobotany]
 ---
 
-# Sacred Mushroom Use in Mexico — Teonanacatl and Indigenous Traditions
+## Sacred Mushroom Use in Mexico — Teonanacatl and Indigenous Traditions
 
 Mexico is the epicenter of indigenous sacred mushroom use, with the highest
 diversity of neurotropic fungal species of any country and the longest

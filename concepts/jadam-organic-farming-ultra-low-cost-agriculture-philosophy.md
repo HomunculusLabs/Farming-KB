@@ -4,7 +4,7 @@ source: jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
 ---
 
-# JADAM Organic Farming — Ultra-Low-Cost Agriculture Philosophy
+## JADAM Organic Farming — Ultra-Low-Cost Agriculture Philosophy
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-# Fukuoka Natural Orchard Management and Three-Dimensional System
+## Fukuoka Natural Orchard Management and Three-Dimensional System
 
 [[green-manure-crops]] and herbs form the orchard undergrowth, accompanied by forage crops and semiwild vegetables.
 - **Animal layer**: Poultry and livestock graze freely throughout, cycling nutrients and controlling insects.

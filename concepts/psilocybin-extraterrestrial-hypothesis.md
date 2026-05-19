@@ -5,7 +5,7 @@ tags: [psychedelics, psilocybin, McKenna, extraterrestrial, panspermia, Strophar
 created: 2026-05-08
 ---
 
-# Psilocybin Extraterrestrial Hypothesis
+## Psilocybin Extraterrestrial Hypothesis
 
 ## Overview
 

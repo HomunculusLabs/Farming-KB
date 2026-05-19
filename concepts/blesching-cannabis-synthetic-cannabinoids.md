@@ -8,7 +8,7 @@ sources: [uwe-blesching-the-cannabis-health-index.md]
 type: concept
 ---
 
-# Synthetic Cannabinoids Versus Natural Cannabis
+## Synthetic Cannabinoids Versus Natural Cannabis
 
 Synthetic cannabinoids are laboratory-created compounds designed to mimic or
 modify the effects of naturally occurring phytocannabinoids from the cannabis

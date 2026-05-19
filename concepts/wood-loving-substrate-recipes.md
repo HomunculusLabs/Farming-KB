@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-# Wood-Loving Substrate Recipes
+## Wood-Loving Substrate Recipes
 
 Wood-loving mushroom species, including shiitake (Lentinula edodes), oyster mushrooms (Pleurotus spp.), enoki (Flammulina velutipes), reishi ([[maitake-grifola-frondosa-comprehensive-profile]]), require lignocellulosic substrates that mimic their natural woody habitats. These substrates differ significantly from the straw and compost substrates used for compost-adapted species, with higher carbon-to-nitrogen ratios and a requirement for wood-based structural materials.
 

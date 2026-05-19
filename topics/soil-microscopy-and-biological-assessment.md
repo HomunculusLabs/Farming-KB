@@ -6,12 +6,12 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - /Users/t3rpz/wiki/concepts/ingham-microscope-identification-soil-biology.md
-  - /Users/t3rpz/wiki/concepts/microscope-identification-soil-organisms.md
-  - /Users/t3rpz/wiki/concepts/ingham-field-guide-compost-tea-microscope-analysis.md
-  - /Users/t3rpz/wiki/concepts/bloomfield-ascospore-extreme-resilience-electron-microscope-survival.md
-  - /Users/t3rpz/wiki/concepts/aact-compost-organism-levels.md
-  - /Users/t3rpz/wiki/concepts/aact-nematode-protozoa-management-ingham.md
+  - raw/concepts/ingham-microscope-identification-soil-biology.md
+  - raw/concepts/microscope-identification-soil-organisms.md
+  - raw/concepts/ingham-field-guide-compost-tea-microscope-analysis.md
+  - raw/concepts/bloomfield-ascospore-extreme-resilience-electron-microscope-survival.md
+  - raw/concepts/aact-compost-organism-levels.md
+  - raw/concepts/aact-nematode-protozoa-management-ingham.md
 related_concepts:
   - microscope-identification-soil-organisms
   - ingham-microscope-identification-soil-biology
@@ -23,7 +23,7 @@ related_concepts:
   - vermicomposting-and-earthworm-ecology
 ---
 
-# Soil Microscopy and Biological Assessment
+## Soil Microscopy and Biological Assessment
 
 Soil microscopy is the practice of using optical instruments to directly
 observe, identify, and quantify the living organisms that comprise the soil

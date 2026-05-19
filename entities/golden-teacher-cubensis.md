@@ -10,7 +10,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-# Golden Teacher
+## Golden Teacher
 
 **Golden Teacher** is a popular and widely circulated strain of *[[psilocybe-cubensis]]*, the most commonly cultivated psilocybin-containing mushroom in the world. Distinguished by its golden-colored caps and its reputation as a gentle, philosophically oriented [[bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson]].
 

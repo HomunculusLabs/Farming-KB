@@ -8,7 +8,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
 
-# JADAM Natural Pesticide Institute and Research
+## JADAM Natural Pesticide Institute and Research
 
 JADAM's technical achievements emerged not from a well-funded research
 facility but from an "unsophisticated and underinvested facility" powered by

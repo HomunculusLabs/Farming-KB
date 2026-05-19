@@ -20,7 +20,7 @@ sources:
   - Clauss, E. (2005). "Genetic resources of Pachyrhizus tuberosus (Lam.) Spreng." PhD thesis, University of Göttingen.
 created: 2026-04-28---
 
-# Pachyrhizus tuberosus
+## Pachyrhizus tuberosus
 
 ## Overview
 

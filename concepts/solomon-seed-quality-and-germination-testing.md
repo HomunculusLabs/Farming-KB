@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# Seed Quality and Germination Testing (Solomon)
+## Seed Quality and Germination Testing (Solomon)
 
 From [[comparison-seed-saving-vs-hybrid-seeds]]
 - [[david-holmgren]]

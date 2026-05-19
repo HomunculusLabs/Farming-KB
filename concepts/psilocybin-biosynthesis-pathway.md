@@ -1,5 +1,5 @@
 ---
-title: Psilocybin psilocybin-biosynthesis-pathway-and-enzymology
+title: "Psilocybin Biosynthesis Pathway"
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -7,7 +7,7 @@ tags: [psilocybin, mushrooms]
 sources:
   - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
 ---
-# Psilocybin Biosynthesis Pathway
+## Psilocybin Biosynthesis Pathway
 
 Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) and its dephosphorylated active metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine) are the primary psychoactive compounds in "[[pericyclic-reactions-organic-chemistry]]
 

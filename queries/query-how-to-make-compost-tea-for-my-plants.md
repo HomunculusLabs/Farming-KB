@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 type: query
 ---
-# How Do I Make Compost Tea for My Plants?
+## How Do I Make Compost Tea for My Plants?
 ## Short Answer
 Compost tea is a liquid extract made by steeping high-quality compost in aerated water to multiply beneficial microorganisms. The preferred method is actively [[aact-disease-suppression-mechanisms-ingham]] and [[aact-definitions-and-types-ingham]] resource distinguishes several related preparations:
 | Type | Method | Aeration | Best For |

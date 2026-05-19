@@ -6,7 +6,7 @@ topics: [mycology, fungal-biodiversity, plant-pathology, foliage-fungi, cankers,
 aliases: [leaf pathogens, [[canker-fungi-and-gall-associated-fungi]], gall fungi, foliar parasites]
 ---
 
-# Foliage Pathogens, Cankers, and Galls — Fungal Sampling
+## Foliage Pathogens, Cankers, and Galls — Fungal Sampling
 
 ## Overview
 

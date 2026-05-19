@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Windbreak Design and the Griggs-Putnam Index
+## Windbreak Design and the Griggs-Putnam Index
 
 ## Using Trees as Wind Indicators
 

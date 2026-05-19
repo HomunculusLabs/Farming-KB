@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, fungal-biology, nutrient-cycling, ecolodecompositiontion]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/myceliummycelium-running.md]
+sources: ["raw/papers/myceliummycelium-running.md"]
 type: concept
 ---
-# Saprotrophic fungi obtain nutrients by decomposing dead organic matter, occupying a fundamentally different ecological niche from [[white-rot-fungi]] profiles
+## Saprotrophic fungi obtain nutrients by decomposing dead organic matter, occupying a fundamentally different ecological niche from [[white-rot-fungi]] profiles
   these lignin-degrading specialists in detail.
 - **[[cervantes-hydrogen-peroxide-sterilization]] production, a
   chemically aggressive but energetically cheaper approach to cellulose

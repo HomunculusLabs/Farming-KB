@@ -1,4 +1,8 @@
-# Trichocereus Mescaline Cacti: San Pedro and Peruvian Torch
+---
+title: "Trichocereus Mescaline Cacti: San Pedro and Peruvian Torch"
+tags:
+  - concept
+---
 
 ## Overview
 

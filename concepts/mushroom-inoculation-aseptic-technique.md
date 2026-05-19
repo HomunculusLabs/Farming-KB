@@ -8,7 +8,7 @@ type: concept
 tags: [inoculation, sterile-technique, mushroom-cultivation, contamination, mycology]
 ---
 
-# Mushroom Inoculation and Aseptic Technique
+## Mushroom Inoculation and Aseptic Technique
 
 Inoculation is the process of introducing fungal inoculant -- spores, liquid
 culture, or agar tissue -- into a [[grass-seed-substrate]]:

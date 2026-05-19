@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources: []
 ---
-# Cannabis Fractional Distillation
+## Cannabis Fractional Distillation
 
 Fractional distillation is an [[cervantes-hash-cannabis-oil-production]] into its component cannabinoids based on differences in their boiling points under reduced pressure. This process can yield products of significantly higher purity than simple extraction and winterization, potentially reaching nearly pure THC. Fractional distillation represents one of the most sophisticated techniques available in [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]].
 

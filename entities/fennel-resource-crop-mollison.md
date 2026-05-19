@@ -5,7 +5,7 @@ type: entity
 tags: [herb, resource-crop, distillation, licorice, permaculture, high-value]
 ---
 
-# Fennel as Resource Crop (Foeniculum vulgare)
+## Fennel as Resource Crop (Foeniculum vulgare)
 
 ## Description
 

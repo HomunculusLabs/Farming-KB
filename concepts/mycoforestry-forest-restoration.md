@@ -7,7 +7,7 @@ tags: [mycoforestry, mycorestoration, forest-restoration, mycorrhizal, fungi, my
 sources: [raw/papers/mycelium-running-stamets.md]
 ---
 
-# Mycoforestry and Forest Restoration
+## Mycoforestry and Forest Restoration
 
 Mycoforestry is the use of fungi to restore and sustain forest ecosystems. It encompasses the practice of inoculating seedlings with mycorrhizal fungi, deploying saprophytic fungi for decomposition and soil creation, and using fungal networks to establish nutrient cycling in damaged landscapes.
 

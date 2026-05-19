@@ -6,7 +6,7 @@ updated: 2026-05-18
 sources: []
 ---
 
-# How Do I Grow Loquat in My Garden or Orchard?
+## How Do I Grow Loquat in My Garden or Orchard?
 
 ## Short Answer
 

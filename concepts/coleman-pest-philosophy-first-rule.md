@@ -13,7 +13,7 @@ sources:
   - eliot-coleman (2009). "The coleman-claytonia-winter-harvest-cultivation Handbook." Chelsea Green.
 ---
 
-# Coleman's First Rule of Biological Agriculture
+## Coleman's First Rule of Biological Agriculture
 
 Eliot Coleman articulated a foundational principle for understanding the
 relationship between plants, pests, and growing conditions: "Nature makes

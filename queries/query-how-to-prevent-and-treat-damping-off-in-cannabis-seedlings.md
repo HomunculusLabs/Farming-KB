@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Prevent and Treat Damping Off in Cannabis Seedlings
+## How to Prevent and Treat Damping Off in Cannabis Seedlings
 
 ## Short Answer
 Damping off is a [[cervantes-root-rot-pythium-damping-off]] page covers the pathogen biology in 

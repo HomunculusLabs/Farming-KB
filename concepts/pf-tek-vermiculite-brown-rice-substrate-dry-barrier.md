@@ -5,7 +5,7 @@ type: concept
 tags: [pf-tek, mushroom-cultivation, vermiculite, brown-rice, substrate, sterilization, contamination]
 created: 2026-05-08
 ---
-# [[pf-tek-vermiculite-grading-and-water-retention]] supports better [[comparison-spore-print-collection-vs-spore-syringe-production]] is shaken
+## [[pf-tek-vermiculite-grading-and-water-retention]] supports better [[comparison-spore-print-collection-vs-spore-syringe-production]] is shaken
 well to redistribute spores. After removing tape from needle holes, the needle
 is inserted through a lid hole and tilted so the tip touches the glass wall. The
 syringe body is angled back toward the lid center, distributing spore solution

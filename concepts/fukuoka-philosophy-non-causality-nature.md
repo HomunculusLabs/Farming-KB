@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Fukuoka's Philosophy of Non-Causality in Nature
+## Fukuoka's Philosophy of Non-Causality in Nature
 
 At the core of Fukuoka's [[fukuoka-textdoc-no-cause-and-effect-in-nature]] do not exist in nature**. This principle of non-causality holds that the apparent causal chains identified by scientific inquiry are artifacts of human perception — projections of [[fukuoka-textdoc-non-causality-rice-blast-disease]]. The conventional scientific explanation identifies the rice blast bacterium as the cause and recommends pesticide application. But the bacterium's attack may have been facilitated by excess nitrogenous fertilizer. The excess nitrogen may have remained unassimilated because cloudy weather reduced photosynthesis. The reduced photosynthesis may have resulted from dense planting that shaded individual plants. Dense planting was adopted to maximize yield per unit area. Yield maximization was driven by economic policy.
 

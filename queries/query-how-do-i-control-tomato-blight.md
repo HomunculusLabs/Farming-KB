@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# How Do I Control Tomato Blight?
+## How Do I Control Tomato Blight?
 
 ## Short Answer
 

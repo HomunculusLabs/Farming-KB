@@ -7,7 +7,7 @@ tags: [cannabis, processing, preparation, ethnobotany, history, chemistry, psych
 sources: []
 ---
 
-# Cannabis Hashish Guide
+## Cannabis Hashish Guide
 
 ## Overview
 

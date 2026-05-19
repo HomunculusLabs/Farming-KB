@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants
 type: concept
 ---
 
-# Lucuma (*Pouteria obovata*, syn. *Pouteria lucmo*)
+## Lucuma (*Pouteria obovata*, syn. *Pouteria lucmo*)
 
 ## Overview
 

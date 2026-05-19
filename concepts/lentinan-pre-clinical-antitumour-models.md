@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Lentinan Pre-Clinical Antitumour Models
+## Lentinan Pre-Clinical Antitumour Models
 
 Lentinan from [[mushroom-polysaccharide-chemistry]] anti-tumour activity. Lentinan showed dose-dependent effects:
 

@@ -5,7 +5,7 @@ type: entity
 tags: [genus, ascomycete, cellulolytic, saprotroph, soil-fungus, thermophilic]
 ---
 
-# Humicola
+## Humicola
 
 ## Description
 

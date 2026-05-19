@@ -4,9 +4,9 @@ created: 2026-04-28
 tags: [mycology, cultivation, agriculture, psychedelics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md] type: concept ---
+sources: ["raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md"] type: concept ---
 ---
-# Mushroom Cultivation
+## Mushroom Cultivation
 
 Mushroom cultivation refers to the practice of growing fungi for food, medicine,
 or research purposes. The cultivation of psilocybin-containing mushrooms has

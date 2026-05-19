@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
-# Super-Guild Design and Inter-Guild Connections
+## Super-Guild Design and Inter-Guild Connections
 
 A super-guild is an integrated landscape design where multiple individual [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] from the effects of a walnut tree's toxic secretions pointed at one route for inter-guild connection.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [laboratory, extraction, technique, cannabis, apparatus]
 ---
 
-# Soxhlet Extractor
+## Soxhlet Extractor
 
 ## Description
 

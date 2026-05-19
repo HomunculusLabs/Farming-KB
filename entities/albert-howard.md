@@ -5,7 +5,7 @@ type: entity
 tags: [person, soil-science, organic-farming, composting, agriculture]
 ---
 
-# Sir Albert Howard
+## Sir Albert Howard
 
 ## Description
 

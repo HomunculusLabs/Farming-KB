@@ -7,7 +7,7 @@ tags: [fungal-ecology, agriculture, mycorrhizal, soil]
 sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
 
-# Fungi in Grassland and Agricultural Ecosystems (Dighton)
+## Fungi in Grassland and Agricultural Ecosystems (Dighton)
 
 Updated: 2026-04-18
 

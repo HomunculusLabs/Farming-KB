@@ -4,7 +4,7 @@ source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 tags: [chemistry, psilocybin, psilocin, indole-alkaloids, stability, degradation]
 ---
 
-# Psilocybin Chemistry and Stability
+## Psilocybin Chemistry and Stability
 
 The psychoactive compounds in neurotropic fungi are primarily indole alkaloids structurally related to serotonin (5-hydroxytryptamine, 5-HT). Understanding their chemistry, biosynthesis, and degradation is essential for [[non-psilocybin-neurotropic-fungi-and-ergot-alkaloids]] serves as a stable precursor that is enzymatically dephosphorylated in the body to produce the active compound psilocin. Psilocybin is more stable in air and is water-soluble, making it the predominant form in dried fungal tissue.
 

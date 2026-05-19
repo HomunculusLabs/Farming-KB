@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
 type: concept
 ---
 
-# Gartz: Conocybe cyanopus: Rare Tiny Mushrooms of Remarkable Potency
+## Gartz: Conocybe cyanopus: Rare Tiny Mushrooms of Remarkable Potency
 
 ## Overview
 

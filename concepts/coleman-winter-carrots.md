@@ -13,7 +13,7 @@ sources:
   - eliot-coleman (2009). "The coleman-claytonia-winter-harvest-cultivation Handbook." Chelsea Green.
 ---
 
-# Sweet Winter Carrots — In-Ground Cold Storage for Peak Flavor
+## Sweet Winter Carrots — In-Ground Cold Storage for Peak Flavor
 
 Sweet Winter Carrots are the most acclaimed crop produced at [[coleman-winter-succession-planting-sowing-date-calculations-crop-timing]]. The soil is prepared by turning under a [[mobile-greenhouses]] in late October,
 as temperatures drop and the season of active growth slows.

@@ -10,7 +10,7 @@ type: concept
 tags: [reference]
 ---
 
-# Supercropping
+## Supercropping
 
 Supercropping is an advanced plant training technique that involves deliberately damaging or stressing cannabis branches to increase yield, control plant height, and promote lateral growth. Cervantes describes supercropping as "a form of pinching back or pruning branch tips" that has "several different versions invented by innovative growers." The term has become a catch-all phrase in [[cannabis-glandular-trichome-types-resin-production-clarke]]. The technique manipulates auxin distribution throughout the plant, causing growth hormones to concentrate in multiple branch tips rather than a single apical meristem.
 

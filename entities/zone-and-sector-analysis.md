@@ -5,7 +5,7 @@ type: entity
 tags: [technique, permaculture-design, spatial-planning, zone-planning, sector-planning]
 ---
 
-# Zone and Sector Analysis
+## Zone and Sector Analysis
 
 ## Description
 

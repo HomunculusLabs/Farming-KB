@@ -1,7 +1,7 @@
 ---
 
 ---
-# Shiitake Mushroom Cultivation
+## Shiitake Mushroom Cultivation
 
 Shiitake (Lentinula edodes) is the second most cultivated mushroom worldwide and the most popular gourmet mushroom for log-based outdoor cultivation. Native to East Asia, shiitake has been cultivated on logs for over 1,000 years. The traditional log method produces mushrooms with superior flavor, texture, and nutritional content compared to indoor sawdust cultivation.
 

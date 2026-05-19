@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Animal Tractor Systems in [[permaculture-designers-manual-animal-forage-systems|permaculture-integrated-animal-systems|Permaculture]]
+## Animal Tractor Systems in [[permaculture-designers-manual-animal-forage-systems|permaculture-integrated-animal-systems|Permaculture]]
 
 Animal tractor systems use confined livestock to prepare land for cultivation by clearing ground cover, consuming weeds, and fertilizing soil. Rather than using mechanical equipment, these systems harness the natural behaviors of animals—scratching, rooting, grazing, and manuring—to convert weed-infested or degraded land into productive garden and tree crop areas. The two primary systems described here are the chicken tractor and the pig tractor.
 

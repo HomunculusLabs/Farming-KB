@@ -4,7 +4,7 @@ source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
-# Vegetalista Healing Techniques and Plant Medicines
+## Vegetalista Healing Techniques and Plant Medicines
 
 ## Overview
 

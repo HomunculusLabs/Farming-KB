@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Key of the Kingdom and Peter as Mushroom
+## Key of the Kingdom and Peter as Mushroom
 
 Allegro identifies the New Testament as a deliberately encoded text in which secret names of the [[psilocybin-mystical-experiences-personality-change]].
 

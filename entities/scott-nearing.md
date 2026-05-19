@@ -5,7 +5,7 @@ type: entity
 tags: [person, historical, organic-farming, homesteading]
 ---
 
-# Scott Nearing
+## Scott Nearing
 
 ## Description
 Scott Nearing (1883–1983) was an American economist, educator, and homesteader who, with his wife Helen Nearing, pioneered the modern back-to-the-land movement. Their 1954 book *Living the Good Life* documented their self-sufficient homesteading practice in Vermont and later Maine, inspiring generations of organic farmers including Eliot Coleman. In the mid-1960s, Coleman visited Scott and Helen Nearing, became friends with them, and in 1968 they sold him the back part of their Harborside, Maine farm at the same price they had paid twenty years earlier — a transformative act of generosity that enabled Coleman's farming career.

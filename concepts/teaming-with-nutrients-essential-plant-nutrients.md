@@ -7,7 +7,7 @@ tags: [nutrients, soil, plant-growth, biology]
 sources: [raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md]
 ---
 
-# Essential Plant Nutrients
+## Essential Plant Nutrients
 
 updated: 2026-04-18
 

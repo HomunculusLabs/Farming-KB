@@ -8,7 +8,7 @@ type: concept
 tags: [plants]
 ---
 
-# Dynamic Accumulator Plants — Nitrogen
+## Dynamic Accumulator Plants — Nitrogen
 
 Nitrogen is the most critical nutrient for plant growth and is often the limiting factor in agricultural productivity. [[arachis-hypogaea]]*) | 40 | Low demand |
 | Hairy vetch (*Vicia villosa*) | 80 | Broccoli |

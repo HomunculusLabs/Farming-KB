@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Zone One Garden Design in Permaculture
+## Zone One Garden Design in Permaculture
 
 Zone one is the intensively managed area immediately surrounding the home — the place where you are always present, where you make daily visits. It encompasses the entries to the house, pathways between the house and frequently visited structures, and any area within casual reach. In zone one, [[bill-mollison]] place the highest-energy, highest-production, most frequently harvested elements of the system. The human dwelling is the core of all permaculture design, and zone one wraps tightly around that core.
 

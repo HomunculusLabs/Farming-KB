@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Raised Beds and Raised Rows
+## Raised Beds and Raised Rows
 
 Raised beds and raised rows are fundamental garden layout techniques that reduce labor, improve plant growth, and solve several common gardening problems simultaneously. By making a single choice about bed layout, gardeners can avoid much unnecessary work — from weeding to seed starting to watering.
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Philosophy of Non-Intervention
+## Fukuoka Philosophy of Non-Intervention
 
 Updated: 2026-04-20
 

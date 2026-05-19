@@ -5,7 +5,7 @@ type: entity
 tags: [mycology, cultivation, marketing, business, enterprise-development]
 ---
 
-# Mushroom Marketing
+## Mushroom Marketing
 
 ## Description
 

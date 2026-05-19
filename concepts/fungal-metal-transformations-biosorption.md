@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Metal Transformations and Biosorption Fungi interact with toxic metals and metalloids through a remarkable diversity of mechanisms that have significant potential for [[fungal-metal-transformations]]
+## Fungal Metal Transformations and Biosorption Fungi interact with toxic metals and metalloids through a remarkable diversity of mechanisms that have significant potential for [[fungal-metal-transformations]]
 
 - [[bioavailability-in-fungal-bioremediation]]
 - [[fungal-oxalate-production-metal-transformation]]

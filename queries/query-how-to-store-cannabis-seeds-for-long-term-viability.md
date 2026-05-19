@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How to Store Cannabis Seeds for Long-Term Viability
+## How to Store Cannabis Seeds for Long-Term Viability
 
 ## Short Answer
 

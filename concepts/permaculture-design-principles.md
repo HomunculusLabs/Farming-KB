@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-design-course.md
 type: concept
 ---
 
-# Permaculture Design Principles
+## Permaculture Design Principles
 
 [[bill-mollison]]'s 1981 [[permaculture-design]] Course laid out a set of foundational principles, laws, axioms, and directives governing the design of sustainable systems. These emerged from the study of natural ecosystems and represent a shift from passive ecological observation to active, purposeful design. This page covers the core principles relating to energy, resources, diversity, yield, and the nature of order itself.
 

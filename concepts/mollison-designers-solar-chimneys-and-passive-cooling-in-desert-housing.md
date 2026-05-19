@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Solar Chimneys and Passive Cooling in Desert Housing
+## Solar Chimneys and Passive Cooling in Desert Housing
 
 No desert house should be planned or built without its integral
 trellis and garden systems, as these may not only save most or all

@@ -1,4 +1,8 @@
-# Psilocybin and Psilocin: Chemistry and Pharmacology
+---
+title: "Psilocybin and Psilocin: Chemistry and Pharmacology"
+tags:
+  - concept
+---
 
 ## Overview
 

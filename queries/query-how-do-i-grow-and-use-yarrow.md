@@ -6,7 +6,7 @@ updated: 2026-05-14
 sources: []
 ---
 
-# How Do I Grow and Use Yarrow?
+## How Do I Grow and Use Yarrow?
 
 ## Short Answer
 

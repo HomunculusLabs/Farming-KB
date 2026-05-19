@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Integrated Land Management and Village Design
+## Integrated Land Management and Village Design
 
 Integrated land management treats the landscape as a whole system, from hilltop to shoreline, connecting forests, agriculture, water systems, settlements, and marine environments into a coherent and self-sustaining pattern. The traditional Maori marae and Hawaiian ohana serve as models of geomorphic and sociological units in which land and people were integrated for sustenance, having evolved from early errors of over-clearing, excessive burning, and species extinction before reaching equilibrium.
 

@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Plant Diseases and Remedies
+## Plant Diseases and Remedies
 
 The home gardener has no effective cure for plant diseases once they take hold. However, diseases can often be prevented by growing healthy, naturally disease-resistant plants using appropriate varieties and making highly fertile soil. When disease does strike, some practical remedies can slow its progress and save the crop.
 

@@ -5,7 +5,7 @@ type: entity
 tags: [place, structure, egypt, initiation, ancient-wonder]
 ---
 
-# Great Pyramid of Giza
+## Great Pyramid of Giza
 
 ## Description
 

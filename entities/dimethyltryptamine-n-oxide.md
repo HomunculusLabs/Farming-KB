@@ -5,10 +5,10 @@ type: chemical
 tags: [tryptamine, metabolite, alkaloid, psychopharmacology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md]
+sources: ["raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"]
 ---
 
-# N,N-Dimethyltryptamine N-Oxide
+## N,N-Dimethyltryptamine N-Oxide
 
 N,N-Dimethyltryptamine N-oxide (DMT N-oxide) is an oxidative metabolite of [[dimethyltryptamine]] by flavin-containing monooxygenase enzymes, particularly FMO3 in the human liver. This is a phase I metabolic reaction that converts the lipophilic tertiary amine into a more polar N-oxide for potential excretion.
 

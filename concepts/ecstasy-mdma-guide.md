@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
-# Ecstasy (MDMA) Guide
+## Ecstasy (MDMA) Guide
 
 Ecstasy (MDMA, 3,4-methylenedioxymethamphetamine) is a psychoactive drug classified as an empathogen — a substance that produces feelings of emotional openness and connection. Also known on the street as "X," "E," and "Adam." Turner rates intensity 2-5.
 

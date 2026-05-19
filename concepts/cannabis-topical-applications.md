@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
-# Cannabis Topical Applications
+## Cannabis Topical Applications
 
 Topical cannabis products — salves, balms, creams, oils, and patches — deliver cannabinoids and terpenes directly to the skin for localized relief of pain, inflammation, and [[cannabinoid-receptors-cb1-cb2]]
 - CB2 receptors are concentrated in immune cells, hair follicles, and sebaceous glands

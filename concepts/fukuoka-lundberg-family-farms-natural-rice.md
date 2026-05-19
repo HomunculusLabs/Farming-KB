@@ -1,5 +1,5 @@
 ---
-title: fukuoka-lundberg-family-farms-natural-rice-transition Farms and fukuoka-natural-rice-barley-cultivation in California
+title: "Fukuoka Lundberg Family Farms Natural Rice"
 created: 2026-04-28
 tags: [fukuoka, case-study, california, rice-farming, large-scale-natural-farming]
 date: 2026-04-28
@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Lundberg Family Farms and Natural Rice in California
+## Lundberg Family Farms and Natural Rice in California
 
 Lundberg Family Farms, located near Chico, California, in the Sacramento Valley,
 represents one of the most significant case studies of [[comparison-natural-farming-vs-permaculture]] methods. This act of removing

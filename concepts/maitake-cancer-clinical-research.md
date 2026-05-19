@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Maitake (Grifola Frondosa) Cancer Clinical Research
+## Maitake (Grifola Frondosa) Cancer Clinical Research
 
 Grifola frondosa (Maitake, Hen of the Woods) produces beta-D-glucan and glycoprotein complexes with strong anti-tumour activity. Its D-fraction and Grifron-D preparations have progressed through clinical trials in the US and Japan.
 

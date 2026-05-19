@@ -8,7 +8,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Agriculture for Tomorrow -- Decentralized Self-Sufficient Communities
+## Agriculture for Tomorrow -- Decentralized Self-Sufficient Communities
 
 In a chapter titled "Agriculture for Tomorrow" in [[fukuoka-natural-farming-philosophy-of-mu]] without machinery. This was a practical calculation based on:
 

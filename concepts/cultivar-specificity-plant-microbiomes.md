@@ -5,7 +5,7 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [cultivar, microbiome, plant-genotype, host-specificity, endorhiza]
 ---
 
-# Cultivar-Specificity in Plant Microbiomes
+## Cultivar-Specificity in Plant Microbiomes
 
 ## Overview
 

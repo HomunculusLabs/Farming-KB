@@ -5,7 +5,7 @@ tags: [mycology, fungi, reproduction, basidiomycota, spore-dispersal]
 created: 2026-05-09
 ---
 
-# Stinkhorn and Cage Fungi — Phallic Mushroom Reproductive Biology
+## Stinkhorn and Cage Fungi — Phallic Mushroom Reproductive Biology
 
 The phallic mushrooms and cage fungi (order Phallales) are among the most visually striking and olfactorily offensive organisms in the [[fungal-fruiting-body-mechanics-osmotic-pressure]]**. The receptacle tissue absorbs water from the surrounding environment, swelling and expanding until it ruptures the peridium. This is fundamentally different from the hydraulic mechanism of mammalian penile erection, which relies on muscular activity to engorge blood-filled reservoirs.
 

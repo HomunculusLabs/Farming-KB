@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
-sources: [/Users/t3rpz/wiki/raw/papers/vic-high-creating-true-breeding-strains.md]
+sources: ["raw/papers/vic-high-creating-true-breeding-strains.md"]
 ---
 
 Updated: 2026-04-18

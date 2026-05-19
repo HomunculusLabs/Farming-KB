@@ -8,7 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Mycorrhizal Networks and Carbon Transfer
+## Mycorrhizal Networks and Carbon Transfer
 
 ## Overview
 

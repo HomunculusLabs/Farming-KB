@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Harvest Handbook Overview and Core Thesis
+## Winter Harvest Handbook Overview and Core Thesis
 
 ## The Central Question
 

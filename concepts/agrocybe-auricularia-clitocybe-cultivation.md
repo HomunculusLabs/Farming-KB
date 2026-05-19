@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Agrocybe, Auricularia, and Clitocybe Mushroom Cultivation
+## Agrocybe, Auricularia, and Clitocybe Mushroom Cultivation
 
 Three genera of cultivated mushrooms—*Agrocybe* (black poplar/pioppino), *Auricularia* (wood ear), and *Clitocybe* (blewit)—offer diverse cultivation opportunities spanning beginner to intermediate difficulty levels. Each occupies a distinct [[ecological-niche]] and presents unique characteristics relevant to both home growers and commercial cultivators.
 

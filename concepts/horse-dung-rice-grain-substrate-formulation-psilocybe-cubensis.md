@@ -6,7 +6,7 @@ source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the
 created: 2026-05-11
 ---
 
-# Horse Dung and Rice Grain Substrate Formulation for Psilocybe cubensis
+## Horse Dung and Rice Grain Substrate Formulation for Psilocybe cubensis
 
 ## Overview
 

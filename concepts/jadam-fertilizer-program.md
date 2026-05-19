@@ -20,7 +20,7 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Fertilizer Program
+## JADAM Fertilizer Program
 
 JADAM rejects the conventional approach of dividing growth into N-P-K stages and applying different fertilizers for each. Instead, use wild grass and crop residue JLF (GC-JLF) throughout the entire season -- it already contains the optimal nutritional balance. The real focus is on JMS soil foundation before planting.
 

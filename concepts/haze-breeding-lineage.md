@@ -4,7 +4,7 @@ source: Cannabis Sativa Volume 3 - S.T. Oner, The Rev (2014)
 tags: [cannabis, sativa, haze, breeding, lineage, genetics, strains]
 created: 2026-05-08
 ---
-# Haze Breeding Lineage
+## Haze Breeding Lineage
 The Haze family represents arguably the most influential [[african-landrace-sativa-modern-hybrids]] varieties to create something entirely new.
 ## Origins in Santa Cruz and Hayward
 The creation of Haze is generally attributed to a group of breeders known as

@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Fungal Biodiversity Patterns and Quantitative Assessment
+## Fungal Biodiversity Patterns and Quantitative Assessment
 
 Assessing fungal biodiversity requires specialized quantitative approaches that account for the unique biology of fungi — particularly their mycelial growth form and clonal life histories. This page covers the conceptual and methodological foundations for measuring fungal diversity, from defining the basic unit of enumeration through community-level indices.
 

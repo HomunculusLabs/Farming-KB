@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, psychopharmacology, ethnobotany, chemistry]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
+sources: ["raw/papers/mckenna_t-food_of_the_gods.md"]
 type: concept
 ---
 
-# Psilocybin Mushrooms Biology
+## Psilocybin Mushrooms Biology
 
 Psilocybin mushrooms are fungi that produce the psychoactive compounds
 psilocybin and psilocin, which belong to the tryptamine family of

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Psilocybe subaeruginosa in Australia and New Zealand
+## Psilocybe subaeruginosa in Australia and New Zealand
 
 ## Overview
 

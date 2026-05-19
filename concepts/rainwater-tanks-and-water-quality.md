@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Rainwater Tanks and Water Quality
+## Rainwater Tanks and Water Quality
 
 ## Overview
 

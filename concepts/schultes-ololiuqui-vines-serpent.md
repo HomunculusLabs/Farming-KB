@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Ololiuqui Vines of the Serpent
+## Ololiuqui Vines of the Serpent
 
 Ololiuqui refers to the psychoactive seeds of two [[plants-of-the-gods-turbina-corymbosa-ololiuqui]]* ([[ipomoea-violacea]]*. These
 seeds, among the most sacred hallucinogens of Aztec civilization, contain

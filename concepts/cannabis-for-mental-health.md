@@ -7,7 +7,7 @@ tags: [cannabis, cultivation]
 sources: []
 ---
 
-# Cannabis for Mental Health Conditions
+## Cannabis for Mental Health Conditions
 
 updated: 2026-04-18
 

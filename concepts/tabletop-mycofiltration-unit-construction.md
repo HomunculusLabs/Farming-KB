@@ -8,7 +8,7 @@ sources: [raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
 type: concept
 ---
 
-# Tabletop [[bioaugmentation-strategies]] for contaminated sites.
+## Tabletop [[bioaugmentation-strategies]] for contaminated sites.
 
 ## Design Philosophy
 

@@ -8,7 +8,7 @@ sources:
 type: concept
 ---
 
-# HPLC Analysis of Psilocybin and Psilocin
+## HPLC Analysis of Psilocybin and Psilocin
 
 ## Overview
 

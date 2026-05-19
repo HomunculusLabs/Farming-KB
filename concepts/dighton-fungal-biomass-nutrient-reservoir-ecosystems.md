@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Fungal Biomass as Nutrient Reservoir in Ecosystems
+## Fungal Biomass as Nutrient Reservoir in Ecosystems
 
 Fungal biomass constitutes a significant pool of nutrients in terrestrial
 ecosystems, functioning as both a temporary sink and a slow-release source of

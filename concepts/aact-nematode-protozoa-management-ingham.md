@@ -9,7 +9,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-# AACT Nematode and Protozoa Management (Ingham)
+## AACT Nematode and Protozoa Management (Ingham)
 
 Updated: 2026-04-18
 

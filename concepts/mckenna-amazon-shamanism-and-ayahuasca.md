@@ -8,7 +8,7 @@ type: concept
 tags: [ayahuasca, shamanism]
 ---
 
-# McKenna on Amazon Shamanism and Ayahuasca
+## McKenna on Amazon Shamanism and Ayahuasca
 
 [[allegro-death-and-resurrection-in-the-mushroom-cult]], understood as radical
 transformation into a superhuman condition. Henceforth the shaman has access

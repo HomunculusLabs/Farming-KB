@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cultivation, substrate, pasteurization, sterilization]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3erpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Substrate Preparation and Pasteurization The substrate is the bulk material on which mushroom mycelium grows and eventually fruits. Unlike grain spawn, which serves as a nursery phase, the substrate must provide sufficient mass and nutrition to support a full flush of mushrooms. [[query-what-are-the-best-mushroom-substrates-for-different-species]] fall into three broad categories based on their nutritional
+## Substrate Preparation and Pasteurization The substrate is the bulk material on which mushroom mycelium grows and eventually fruits. Unlike grain spawn, which serves as a nursery phase, the substrate must provide sufficient mass and nutrition to support a full flush of mushrooms. [[query-what-are-the-best-mushroom-substrates-for-different-species]] fall into three broad categories based on their nutritional
 complexity:
 
 **Low-nutrition substrates** include straw, cardboard, and hardwood sawdust.

@@ -12,7 +12,7 @@ tags:
   - two-tier-selection
 ---
 
-# Proteobacteria Class Shift from Rhizosphere to Endorhiza in Cannabis
+## Proteobacteria Class Shift from Rhizosphere to Endorhiza in Cannabis
 
 The **Proteobacteria class shift** from [[cannabis-sativa]] root microbiome. First described in detail by Winston et al. (2014), this gradient reflects progressive microbial selection as bacteria transition from the general soil environment to the root surface and ultimately into root interior tissues. The pattern mirrors findings in [[arabidopsis-thaliana]], suggesting a convergent [[cannabis-sativa]]:
 

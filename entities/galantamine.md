@@ -17,7 +17,7 @@ sources:
   - "Berkov, S. et al. (2020). \"Amaryllidaceae alkaloids: A review of pharmacological properties." Phytochemistry Reviews, 19, 1347-1381."
 ---
 
-# Galantamine
+## Galantamine
 
 ## Overview
 

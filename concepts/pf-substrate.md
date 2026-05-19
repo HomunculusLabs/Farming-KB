@@ -1,4 +1,8 @@
-# PF Substrate
+---
+title: "PF Substrate"
+tags:
+  - concept
+---
 
 **Source:** PF TEK - [[cervantes-green-algae-growing-medium]] developed by [[brassinosteroid-growth-promotion-psilocybe-cubensis]]* mushrooms. It consists of a simple three-ingredient mixture of [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] but requires careful [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] during colonization
 - Holds moisture while maintaining structure

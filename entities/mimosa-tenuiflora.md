@@ -19,7 +19,7 @@ sources:
   - Ott, J. (1994). Ayahuasca Analogues: Pegaan Huasca. Natural Products Co.
   - Albuquerque, U.P. et al. (2011). "The use of plants in northeastern Brazil." Journal of Ethnopharmacology.
 ---
-# Mimosa tenuiflora (Jurema / Jurema Preta)
+## Mimosa tenuiflora (Jurema / Jurema Preta)
 
 ## Overview
 

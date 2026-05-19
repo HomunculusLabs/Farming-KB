@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# [[hamilton-pest-and-disease-control-organic]] problems that
+## [[hamilton-pest-and-disease-control-organic]] problems that
 face the monoculture grower. By cultivating a natural organic garden with
 diverse planting, a balanced ecosystem of pests and predators develops
 naturally. Prevention is the best approach, and organic pesticides

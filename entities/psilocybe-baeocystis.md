@@ -9,7 +9,7 @@ sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 
-# Psilocybe baeocystis
+## Psilocybe baeocystis
 
 **Psilocybe baeocystis** Singer & Smith is a moderately to highly potent psilocybin
 mushroom native to the Pacific Northwest of [[gartz-psilocybin-alkaloid-baeocystin-chemistry]] was first identified, lending its name to this lesser-studied

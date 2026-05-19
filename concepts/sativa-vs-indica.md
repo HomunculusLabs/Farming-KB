@@ -6,7 +6,7 @@ source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 created: 2026-05-10
 ---
 
-# Sativa vs Indica
+## Sativa vs Indica
 
 Cannabis sativa and Cannabis indica are the two primary subspecies of Cannabis (along with
 Cannabis ruderalis) that have been selectively bred into the enormous variety of modern cannabis

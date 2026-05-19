@@ -6,7 +6,7 @@ created: 2026-05-09
 source: Gardening When It Counts (Steve Solomon)
 ---
 
-# Drought-Resistant Gardening Techniques
+## Drought-Resistant Gardening Techniques
 
 Drought-resistant gardening encompasses strategies for producing food with minimal or no irrigation. Steve Solomon's *Gardening When It Counts* treats drought preparation not as a specialized technique but as a fundamental aspect of resilient food production, arguing that any gardener dependent on irrigation is vulnerable to supply disruptions.
 

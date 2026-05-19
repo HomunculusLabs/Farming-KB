@@ -4,7 +4,7 @@ source: hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
 ---
 
-# Spent Mushroom Compost — Uses, Limitations, and Soil Benefits
+## Spent Mushroom Compost — Uses, Limitations, and Soil Benefits
 
 ## Overview
 

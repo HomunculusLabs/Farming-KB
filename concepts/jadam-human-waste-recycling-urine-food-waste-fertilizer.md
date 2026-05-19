@@ -4,7 +4,7 @@ source: jadam-organic-farming-ultra-low-cost-agriculture.md
 type: concept
 ---
 
-# JADAM Human Waste Recycling — Urine and Food Waste as Liquid Fertilizer
+## JADAM Human Waste Recycling — Urine and Food Waste as Liquid Fertilizer
 
 ## Overview
 

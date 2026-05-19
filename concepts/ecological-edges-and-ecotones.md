@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Ecological Edges and Ecotones
+## Ecological Edges and Ecotones
 
 Edges and margins are where the most interesting, diverse, and productive events take place in natural systems. The [[permaculture]] principle "Use Edges and Value the Marginal" draws attention to the fact that interfaces between different systems, media, or habitats are zones of heightened exchange, creativity, and biological productivity. Understanding edge dynamics is fundamental to effective [[permaculture-design]].
 

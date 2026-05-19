@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Trichoderma Biocontrol Mechanisms and Applications
+## Trichoderma Biocontrol Mechanisms and Applications
 
 Trichoderma species represent the most widely studied and commercially
 deployed fungal biocontrol agents worldwide. Singh's treatment of

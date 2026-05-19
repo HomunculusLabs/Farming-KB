@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 type: concept
 ---
-# [[savory-growing-season-and-non-growing-season-management]]. The north-facing
+## [[savory-growing-season-and-non-growing-season-management]]. The north-facing
 slope stays cooler for heat-sensitive crops. The raised height improves
 drainage and [[gaias-garden-cover-crops-soil-building]] like clover or beans, or add extra
 nitrogen through [[comparison-raised-beds-vs-hugelkultur]]

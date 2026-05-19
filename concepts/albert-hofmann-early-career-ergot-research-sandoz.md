@@ -4,7 +4,7 @@ source: hofmann-a-lsd-my-problem-child.md
 type: concept
 ---
 
-# Albert Hofmann — Early Career and Ergot Research at Sandoz
+## Albert Hofmann — Early Career and Ergot Research at Sandoz
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Soils and Mulching Strategies
+## Desert Soils and Mulching Strategies
 
 Soil management in drylands presents unique challenges. The extreme temperature fluctuations, low organic matter, and tendency toward salinity and alkalinity require specific strategies for building and maintaining productive garden soils.
 

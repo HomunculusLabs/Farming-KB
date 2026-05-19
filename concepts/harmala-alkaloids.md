@@ -7,7 +7,7 @@ tags: [entheogen, chemistry, psychopharmacology, biochemistry, pharmacology, saf
 sources: []
 ---
 
-# Harmala Alkaloids
+## Harmala Alkaloids
 
 ## Overview
 

@@ -6,7 +6,7 @@ type: concept
 tags: [cannabis, potency, indoor, flowering, biology, chemistry, plant-growth, medicine]
 sources: []
 ---
-# Cannabis Terpene Profile
+## Cannabis Terpene Profile
 Terpenes are aromatic organic compounds found in many plants, including cannabis. They are responsible for the distinctive smells, flavors, and many of the nuanced effects associated with different cannabis strains. The entourage effect — the theory that cannabinoids and terpenes work synergistically — makes terpene knowledge essential for both cultivators and consumers.
 ## What Are Terpenes?
 

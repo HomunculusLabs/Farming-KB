@@ -7,7 +7,7 @@ tags: [reference]
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Growing Beans and Peas - Legume Guide
+## Growing Beans and Peas - Legume Guide
 
 Updated: 2026-04-18
 

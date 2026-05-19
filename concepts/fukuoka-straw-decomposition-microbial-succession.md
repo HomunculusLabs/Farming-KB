@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [fukuoka, decomposition, microbiology, soil-ecology, compost, straw-mulch]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 type: concept
 ---
 

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Microfungi on Wood and Plant Debris — Survey Overview
+## Microfungi on Wood and Plant Debris — Survey Overview
 
 Microfungi are defined as fungi with microscopic spore-producing
 structures. They comprise an unnatural but practical grouping that

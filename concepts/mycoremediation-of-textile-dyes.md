@@ -8,7 +8,7 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
-# Mycoremediation of Textile Dyes
+## Mycoremediation of Textile Dyes
 
 ## Overview
 

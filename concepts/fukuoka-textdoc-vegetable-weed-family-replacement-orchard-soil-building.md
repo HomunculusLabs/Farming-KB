@@ -7,7 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 ---
 
-# Vegetable Weed Family Replacement Technique for Orchard Soil Building
+## Vegetable Weed Family Replacement Technique for Orchard Soil Building
 
 Fukuoka developed a technique for gradually replacing orchard weeds with food-producing vegetable plants by exploiting botanical family relationships. By sowing vegetable seeds of the same family as the weeds already growing in an orchard, the vegetable plants can eventually outcompete and replace the weeds, simultaneously producing food and improving soil. This method transforms weed management from a battle into a harvest.
 

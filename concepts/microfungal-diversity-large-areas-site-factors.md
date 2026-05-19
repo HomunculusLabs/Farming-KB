@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Microfungal Diversity Over Large Areas and Factors Influencing Site Diversity
+## Microfungal Diversity Over Large Areas and Factors Influencing Site Diversity
 
 ## Overview
 

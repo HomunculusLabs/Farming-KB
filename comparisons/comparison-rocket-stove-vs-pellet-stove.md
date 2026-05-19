@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# Rocket Stove vs Pellet Stove
+## Rocket Stove vs Pellet Stove
 
 ## Overview
 

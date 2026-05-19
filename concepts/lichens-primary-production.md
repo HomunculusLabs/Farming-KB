@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Lichens in Primary Production
+## Lichens in Primary Production
 
 Lichens are symbiotic associations between a fungus (mycobiont) and a photobiont
 (algal or cyanobacterial partner) that play a surprisingly significant role in

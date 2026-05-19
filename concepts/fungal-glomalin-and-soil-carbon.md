@@ -7,7 +7,7 @@ tags: [mycology, fungi]
 sources: []
 ---
 
-# Fungal Glomalin and Soil Carbon
+## Fungal Glomalin and Soil Carbon
 
 Glomalin is a glycoprotein produced abundantly by [[singh-fungal-roles-in-soil-aggregate-formation]] and stabilization, and
 represents a significant component of [[query-how-mycorrhizal-fungi-help-plants]] contribute to soil structure and

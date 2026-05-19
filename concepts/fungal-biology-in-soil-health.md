@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Fungal Biology in Soil Health
+## Fungal Biology in Soil Health
 
 > Key insights from [[elaine-ingham]]'s [[compost-tea-guide]] on the roles fungi play in soil ecosystems, plant protection, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 

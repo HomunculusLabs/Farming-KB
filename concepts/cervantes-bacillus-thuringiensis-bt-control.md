@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Bacillus Thuringiensis (Bt) for Cannabis Pest Control
+## Bacillus Thuringiensis (Bt) for Cannabis Pest Control
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
 -- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and plants;

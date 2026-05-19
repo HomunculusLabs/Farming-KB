@@ -7,7 +7,7 @@ source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the
 tags: [brassinosteroids, steroids, plant-growth-regulators, phytohormones]
 ---
 
-# Homobrassinolide
+## Homobrassinolide
 
 Homobrassinolide (22S,23S-homobrassinolide) is a synthetic brassinosteroid
 with demonstrated growth-promoting activity in both plants and fungi. It is a

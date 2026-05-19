@@ -5,10 +5,10 @@ type: chemical
 tags: [enzyme, ligninolytic, mycoremediation, biocatalyst, multicopper-oxidase]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/mushroom-cultivationoom-farming-mycoremediation.md]
+sources: ["raw/papers/mushroom-cultivationoom-farming-mycoremediation.md"]
 ---
 
-# Laccase
+## Laccase
 
 **Laccase** (EC 1.10.3.2; benzenediol:oxygen oxidoreductase) is a multicopper oxidase enzyme produced by a wide range of fungi, bacteria, insects, and plants. In the context of [[lignin-degradation]], xenobiotic transformation, and environmental detoxification. Laccases are central to the ability of fungi to break down recalcitrant organic pollutants and represent a cornerstone technology in fungal bioremediation.
 

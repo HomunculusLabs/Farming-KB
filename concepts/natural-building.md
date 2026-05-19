@@ -24,7 +24,7 @@ sources:
 - raw/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 ---
 
-# Natural Building
+## Natural Building
 
 Natural building uses locally sourced, minimally processed materials — earth, straw, wood, stone — to create structures that are healthy, low-cost, and ecologically integrated. On a homestead, these methods excel for outbuildings, animal shelters, and small dwellings at a fraction of conventional cost.
 

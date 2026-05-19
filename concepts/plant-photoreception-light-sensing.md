@@ -6,7 +6,7 @@ tags: [plant-biology, photoreception, photoreceptors, phytochrome, phototropism]
 created: 2026-05-09
 ---
 
-# Plant Photoreception and Light Sensing
+## Plant Photoreception and Light Sensing
 
 Plants possess sophisticated light-sensing capabilities that, while fundamentally different from animal vision, allow them to perceive and respond to an extraordinary range of light information. Plants detect light color (wavelength), intensity, direction, and duration — information that governs virtually every aspect of their growth, development, and behavior.
 

@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, soil]
 ---
 
-# Soil and Medium Preparation
+## Soil and Medium Preparation
 
 Greg Green's [[green-cannabis-rockwool-hydroponic-growing-media]] for [[green-cannabis-soil-flushing-nutrient-leaching]] from overwatering
 - One pot per plant is always recommended -- isolates problems

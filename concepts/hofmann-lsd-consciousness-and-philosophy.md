@@ -8,7 +8,7 @@ type: concept
 tags: [lsd]
 ---
 
-# LSD, Consciousness, and Hofmann's Philosophical Views
+## LSD, Consciousness, and Hofmann's Philosophical Views
 
 ## Childhood Visionary Experiences
 

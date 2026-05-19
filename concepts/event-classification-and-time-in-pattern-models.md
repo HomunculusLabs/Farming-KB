@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Event Classification and Time in Pattern Models
+## Event Classification and Time in Pattern Models
 
 All phenomena in nature can be classified, understood, and related through a unified system of categories. Combined with an [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] ers a comprehensive framework for analyzing any event, element, or process they encounter — and for understanding their own role within the larger patterns of nature.
 

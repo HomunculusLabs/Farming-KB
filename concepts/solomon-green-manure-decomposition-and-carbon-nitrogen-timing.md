@@ -16,7 +16,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# Green Manure Decomposition and Carbon-to-Nitrogen Timing
+## Green Manure Decomposition and Carbon-to-Nitrogen Timing
 
 The timing of turning in [[coleman-winter-harvest-planting-schedule]] collapses by weeks. Steve Solomon treats this topic with unusual precision because he has seen gardeners lose entire seasons to poor green manure timing.
 

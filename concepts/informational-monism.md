@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 ---
 
-# Informational Monism
+## Informational Monism
 
 Informational monism is the philosophical position that reality consists of one fundamental substance only: information.
 

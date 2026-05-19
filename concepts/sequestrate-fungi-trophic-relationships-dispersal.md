@@ -4,7 +4,7 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-# Sequestrate Fungi — Trophic Relationships, Spore Dispersal, and Animal Interactions
+## Sequestrate Fungi — Trophic Relationships, Spore Dispersal, and Animal Interactions
 
 ## Adaptation to Spore Dispersal
 

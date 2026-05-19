@@ -8,7 +8,7 @@ type: concept
 tags: [dmt, psychedelics]
 ---
 
-# 5-MeO-DMT Void Experience
+## 5-MeO-DMT Void Experience
 
 D.M. Turner's treatment of 5-Methoxy-[[turner-essential-psychedelics-dmt-hyperspace]] Guide"
 emphasizes its raw power and the uniquely overwhelming quality of the void

@@ -4,7 +4,7 @@ source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [contamination, sterile-technique, mycology, cultivation, prevention]
 ---
 
-# Mushroom Cultivation Contamination Prevention
+## Mushroom Cultivation Contamination Prevention
 
 Contamination is the single most common cause of failure in amateur mushroom cultivation. Understanding contaminant organisms, their sources, and prevention strategies is essential for consistent success. The PF TEK method was specifically designed to minimize contamination risk through simple but effective [[cultivator-sterile-technique-and-agar-culture]], making it the most forgiving introduction to mushroom cultivation.
 

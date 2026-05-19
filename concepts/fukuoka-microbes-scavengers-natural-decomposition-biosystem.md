@@ -1,4 +1,8 @@
-# Fukuoka on Microbes as Scavengers: Natural Decomposition and the Biosystem
+---
+title: "Fukuoka on Microbes as Scavengers: Natural Decomposition and the Biosystem"
+tags:
+  - concept
+---
 
 **Source:** [[slime-molds]], and yeasts —
 perform the essential work of decomposition that keeps the earth's surface clean and

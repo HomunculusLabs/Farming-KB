@@ -18,7 +18,7 @@ sources:
 type: concept
 ---
 
-# Cultural Disease and the Five Senses Alienated from Nature
+## Cultural Disease and the Five Senses Alienated from Nature
 
 ## Core Concept
 

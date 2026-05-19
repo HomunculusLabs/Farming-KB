@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Petroleum Hydrocarbon Fungal Biodegradation
+## Petroleum Hydrocarbon Fungal Biodegradation
 
 [[fungal-extracellular-enzymes]], and ability to tolerate low pH and low moisture conditions give fungi distinct advantages over bacteria in certain hydrocarbon-degrading environments.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dune Stabilisation and Desert Forestry
+## Dune Stabilisation and Desert Forestry
 
 Dune country represents both one of the most challenging and one of the most promising environments in desert [[moth-bean]], or yam beans are sown.
 2. **Hardy [[neem]] tree leaf powder, or magnesite) into a stiff mass.

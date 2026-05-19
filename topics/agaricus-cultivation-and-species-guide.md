@@ -6,20 +6,20 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - /Users/t3rpz/wiki/concepts/agaricus-bisporus-cultivation-biology.md
-  - /Users/t3rpz/wiki/concepts/agaricus-species-guide.md
-  - /Users/t3rpz/wiki/concepts/agaricus-blazei-murill-research.md
-  - /Users/t3rpz/wiki/concepts/agaricus-phase-i-composting.md
-  - /Users/t3rpz/wiki/concepts/compost-preparation-agaricus.md
-  - /Users/t3rpz/wiki/concepts/growing-gourmet-button-mushroom-agaricus-cultivation.md
-  - /Users/t3rpz/wiki/concepts/genetic-improvement-agaricus-bisporus-molecular-approaches.md
-  - /Users/t3rpz/wiki/concepts/stamets-cultivator-agaricus-bisporus-commercial-methods.md
-  - /Users/t3rpz/wiki/concepts/agaricus-bitorquis-cultivation-guide.md
-  - /Users/t3rpz/wiki/concepts/agaricus-campestris-morphology-and-life-cycle.md
-  - /Users/t3rpz/wiki/concepts/cancer-agaricus-blazei.md
-  - /Users/t3rpz/wiki/concepts/medicinal-mushroom-guide-agaricus-blazei.md
-  - /Users/t3rpz/wiki/concepts/agaricus-brasiliensis-almond-mushroom-medicinal-profile.md
-  - /Users/t3rpz/wiki/concepts/growing-gourmet-compost-phase-i-phase-ii-agaricus.md
+  - raw/concepts/agaricus-bisporus-cultivation-biology.md
+  - raw/concepts/agaricus-species-guide.md
+  - raw/concepts/agaricus-blazei-murill-research.md
+  - raw/concepts/agaricus-phase-i-composting.md
+  - raw/concepts/compost-preparation-agaricus.md
+  - raw/concepts/growing-gourmet-button-mushroom-agaricus-cultivation.md
+  - raw/concepts/genetic-improvement-agaricus-bisporus-molecular-approaches.md
+  - raw/concepts/stamets-cultivator-agaricus-bisporus-commercial-methods.md
+  - raw/concepts/agaricus-bitorquis-cultivation-guide.md
+  - raw/concepts/agaricus-campestris-morphology-and-life-cycle.md
+  - raw/concepts/cancer-agaricus-blazei.md
+  - raw/concepts/medicinal-mushroom-guide-agaricus-blazei.md
+  - raw/concepts/agaricus-brasiliensis-almond-mushroom-medicinal-profile.md
+  - raw/concepts/growing-gourmet-compost-phase-i-phase-ii-agaricus.md
 related_concepts:
   - mushroom-cultivation-fundamentals
   - composting-and-soil-biology

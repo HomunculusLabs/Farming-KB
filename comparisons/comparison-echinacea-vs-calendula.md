@@ -7,7 +7,7 @@ sources:
   - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
-# Echinacea vs Calendula
+## Echinacea vs Calendula
 
 ## Overview
 

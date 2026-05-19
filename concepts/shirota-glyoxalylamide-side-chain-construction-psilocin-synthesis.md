@@ -7,7 +7,7 @@ topics: [glyoxalylamide, oxalyl-chloride, dimethylamine, psilocin-synthesis, sid
 type: concept
 ---
 
-# Glyoxalylamide Intermediate Route for Psilocin Side Chain Construction
+## Glyoxalylamide Intermediate Route for Psilocin Side Chain Construction
 
 ## Overview
 

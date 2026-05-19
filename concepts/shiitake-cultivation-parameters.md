@@ -5,7 +5,7 @@ tags: [mycology, mushroom-cultivation, shiitake, lentinula-edodes, wood-cultivat
 created: 2026-05-11
 ---
 
-# Shiitake Cultivation Parameters
+## Shiitake Cultivation Parameters
 
 ## Overview
 

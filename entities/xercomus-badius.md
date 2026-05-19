@@ -9,7 +9,7 @@ tags:
   - boletales
 ---
 
-# Xercomus badius
+## Xercomus badius
 
 ## Description
 

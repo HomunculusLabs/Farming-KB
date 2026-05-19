@@ -4,7 +4,7 @@ source: uwe-blesching-the-cannabis-health-index
 tags: [CBD, cannabidiol, neuroprotection, anti-inflammatory, anxiolytic, antipsychotic]
 ---
 
-# Cannabidiol (CBD) Therapeutic Profile
+## Cannabidiol (CBD) Therapeutic Profile
 
 ## Overview
 

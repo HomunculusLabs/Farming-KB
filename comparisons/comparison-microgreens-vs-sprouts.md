@@ -20,7 +20,7 @@ sources:
 type: comparison
 ---
 
-# Microgreens vs. Sprouts
+## Microgreens vs. Sprouts
 
 ## At a Glance
 

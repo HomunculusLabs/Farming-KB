@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Gypsum vs Elemental Sulfur
+## Gypsum vs Elemental Sulfur
 
 ## Overview
 

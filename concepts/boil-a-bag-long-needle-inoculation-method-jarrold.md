@@ -6,7 +6,7 @@ topics: ["mushroom-cultivation", "inoculation", "sterile-technique", "mycology"]
 aliases: ["long needle inoculation", "through-filter inoculation", "spore injection technique"]
 ---
 
-# Boil-a-Bag Long Needle Inoculation Method
+## Boil-a-Bag Long Needle Inoculation Method
 
 ## Overview
 

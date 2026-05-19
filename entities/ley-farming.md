@@ -5,7 +5,7 @@ type: entity
 tags: [technique, pasture-management, soil-fertility, rotation, legume]
 ---
 
-# Ley Farming
+## Ley Farming
 
 ## Description
 

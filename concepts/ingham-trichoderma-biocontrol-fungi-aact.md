@@ -9,7 +9,7 @@ sources:
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
-# Ingham — Trichoderma and Biocontrol Fungi in AACT
+## Ingham — Trichoderma and Biocontrol Fungi in AACT
 
 Updated: 2026-04-18
 

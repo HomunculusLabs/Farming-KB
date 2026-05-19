@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# Fungal Sexual Pheromones and Mating Communication
+## Fungal Sexual Pheromones and Mating Communication
 
 Fungi communicate with one another through [[bloomfield-fungal-reproduction-and-chemical-communication]] in the [[bloomfield-pythium-oomycete-water-molds]] produce eggs in sacs called oogonia that swell at the tips of
 hyphal branches. Male structures called antheridia develop as slender offshoots from

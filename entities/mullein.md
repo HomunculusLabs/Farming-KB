@@ -21,7 +21,7 @@ sources:
   - "PFAF. 'Verbascum thapsus — Plants For A Future.' https://pfaf.org/user/Plant.aspx?LatinName=Verbascum+thapsus"
 ---
 
-# Mullein
+## Mullein
 
 **Great Mullein** | **Common Mullein** | **Aaron's Rod** | **Flannel Plant** | **Cowboy Toilet Paper** | **Velvet Dock** | **Woolly Mullein**
 

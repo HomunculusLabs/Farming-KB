@@ -18,7 +18,7 @@ sources:
   - Kucinskaite A et al. "Evaluation of biologically active compounds in Rhodiola rosea." Medicina, 2020.
   - USDA NRCS Plant Profile: Rhodiola rosea L.
 ---
-# Rhodiola Rosea Cultivation and Adaptogenic Properties
+## Rhodiola Rosea Cultivation and Adaptogenic Properties
 
 ## Overview
 

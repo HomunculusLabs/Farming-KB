@@ -5,7 +5,7 @@ type: entity
 tags: [deity, buddhism, tibetan, bardo, dhyani-buddha]
 ---
 
-# Amitabbha (Amitabha)
+## Amitabbha (Amitabha)
 
 ## Description
 Amitabbha (Amitabha) is the Dhyani Buddha representing boundless light and all-discriminating wisdom, associated with the element of fire and the function of seeing. In *The Psychedelic Experience*, Leary identifies Amitabbha as the Peaceful Deity personifying **Vision 3: The Fire-Flow of Internal Unity** — the emotionally toned vision of the Second Bardo characterized by intense feelings of love, unity, and orgastic oneness with all life.

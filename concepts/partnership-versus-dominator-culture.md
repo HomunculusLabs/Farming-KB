@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Partnership Versus Dominator Culture
+## Partnership Versus Dominator Culture
 
 ## Overview
 

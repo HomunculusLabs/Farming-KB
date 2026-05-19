@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Endophytic Fungi and Plant Protection Mechanisms
+## Endophytic Fungi and Plant Protection Mechanisms
 
 Endophytic fungi colonize plant tissues internally without causing apparent
 disease symptoms. These symbiotic microorganisms confer multiple protective

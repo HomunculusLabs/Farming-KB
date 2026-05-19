@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Solomon Soil Temperature and Nighttime Plant Growth
+## Solomon Soil Temperature and Nighttime Plant Growth
 
 Steve Solomon discusses soil temperature as a critical but often overlooked factor in [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]. The relationship between soil warmth, nighttime conditions, and plant performance is particularly important for gardeners in cooler climates.
 

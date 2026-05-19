@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Use Bamboo in Permaculture?
+## How to Use Bamboo in Permaculture?
 
 ## Short Answer
 

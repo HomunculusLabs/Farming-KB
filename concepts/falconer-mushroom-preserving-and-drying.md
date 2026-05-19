@@ -5,10 +5,10 @@ tags:
   [mushroom-cultivation, food-preservation, victorian-cooking, drying, mushroom-ketchup]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [ /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md, ]
+sources: ["raw/papers/william-falconer-mushroom-how-to-grow-them.md, "]
 type: concept
 ---
-# Mushroom Preserving, Drying, and Ketchup Beyond the fresh preparations detailed in [[falconer-mushroom-cooking-selection-and-preparation]]
+## Mushroom Preserving, Drying, and Ketchup Beyond the fresh preparations detailed in [[falconer-mushroom-cooking-selection-and-preparation]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they

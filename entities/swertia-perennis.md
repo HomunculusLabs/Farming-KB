@@ -12,7 +12,7 @@ sources:
   - Personal knowledge (botanical references)
 ---
 
-# Swertia perennis
+## Swertia perennis
 
 ## Overview
 

@@ -5,7 +5,7 @@ tags: [natural-farming, scientific-farming, centrifugal, centripetal, farming-ph
 created: 2026-05-08
 ---
 
-# Centrifugal vs Centripetal Farming: Natural [[fukuoka-naming-problem-of-natural-farming]]
+## Centrifugal vs Centripetal Farming: Natural [[fukuoka-naming-problem-of-natural-farming]]
 
 [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] of nature, the unmoving way of Bodhidharma."
 

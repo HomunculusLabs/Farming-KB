@@ -5,7 +5,7 @@ type: concept
 tags: [psilocybe-cubensis, mushroom-potency, harvest-timing, alkaloid-preservation, drying, aborts]
 created: 2026-05-08
 ---
-# Psilocybe Cubensis Potency [[cho-brown-rice-vinegar-preparation]], harvested young, and cool-dried
+## Psilocybe Cubensis Potency [[cho-brown-rice-vinegar-preparation]], harvested young, and cool-dried
 with desiccant, P. cubensis can achieve a baseline [[psilocybin]] content comparable
 to P. semilanceata at approximately 1%.
 

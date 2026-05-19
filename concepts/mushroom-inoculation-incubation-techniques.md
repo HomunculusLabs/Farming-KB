@@ -4,7 +4,7 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-# Mushroom Inoculation and Incubation Techniques
+## Mushroom Inoculation and Incubation Techniques
 
 Inoculation is the critical step where mushroom spawn is introduced into pasteurized substrate bags. Combined with proper incubation, these stages determine the success and yield of the entire mushroom crop. Strict cleanliness and careful handling are essential to prevent contamination and ensure vigorous [[mushroom-mycelium-growth-monitoring-colonization-cues]].
 

@@ -1,4 +1,8 @@
-# Flat Beds, Ridge Beds, and Spawn Transfer Methods
+---
+title: "Flat Beds, Ridge Beds, and Spawn Transfer Methods"
+tags:
+  - concept
+---
 ## Duggar (1915) — Bed Systems and Spawn Propagation Techniques
 
 B.M. Duggar's 1915 manual details two fundamental bed systems [[dmt-containing-plants-united-states-halpern]] and requires less labor in

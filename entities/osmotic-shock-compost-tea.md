@@ -5,7 +5,7 @@ type: entity
 tags: [technique, compost-tea, molasses, concentration, microbial-selection]
 ---
 
-# Osmotic Shock in Compost Tea
+## Osmotic Shock in Compost Tea
 
 ## Description
 Osmotic shock in the context of compost tea production refers to the selective effect that high solute concentrations (particularly sugars from molasses) have on different groups of microorganisms. At high sugar concentrations, water is held tightly by osmotic forces, restricting the growth of many organisms while favoring those adapted to high-solute conditions. Elaine Ingham describes how manipulating molasses concentration is a technique for selectively promoting beneficial fungi over rapidly-growing bacteria in compost tea. This is a critical concept for anyone brewing high-quality AACT.

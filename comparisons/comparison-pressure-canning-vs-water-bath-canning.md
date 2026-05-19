@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Pressure Canning vs Water Bath Canning
+## Pressure Canning vs Water Bath Canning
 
 ## Overview
 Pressure canning and water bath canning are the two primary methods for

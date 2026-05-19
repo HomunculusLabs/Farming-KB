@@ -9,7 +9,7 @@ sources:
   - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 ---
 
-# Computational Universe and [[leary-psychedelic-experience-bardo-mapping]], including the sense of encountering an intelligent Other, the apprehension of profound meaning and purpose, and the lasting positive transformation of worldview, suggest that consciousness has access to dimensions of reality that are ordinarily hidden from waking awareness.
+## Computational Universe and [[leary-psychedelic-experience-bardo-mapping]], including the sense of encountering an intelligent Other, the apprehension of profound meaning and purpose, and the lasting positive transformation of worldview, suggest that consciousness has access to dimensions of reality that are ordinarily hidden from waking awareness.
 
 The [[afrofuturism]]
 - [[natural-intelligence]]

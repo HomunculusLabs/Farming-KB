@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# EMCDDA Hallucinogenic Mushroom School Surveys and Adolescent Use
+## EMCDDA Hallucinogenic Mushroom School Surveys and Adolescent Use
 
 ## Overview
 

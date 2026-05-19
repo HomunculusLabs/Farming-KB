@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Phyllite Mineral Solution
+## JADAM Phyllite Mineral Solution
 
 ## Overview
 

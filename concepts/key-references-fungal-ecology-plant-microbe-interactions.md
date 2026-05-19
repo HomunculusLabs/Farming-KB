@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Key References in Fungal Ecology and Plant-Microbe Interactions
+## Key References in Fungal Ecology and Plant-Microbe Interactions
 
 This page synthesizes the major research themes from the reference literature of Chapter 5 ("Fungi and Population and Community Regulation") in John Dighton's *Fungi in Ecosystem Processes*. The cited works span mycorrhizal ecology, fungal succession, biological control, endophyte-plant mutualisms, phyllosphere microbiology, and nematophagous fungi, collectively forming a comprehensive map of fungal roles in terrestrial ecosystems.
 

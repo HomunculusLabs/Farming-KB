@@ -6,7 +6,7 @@ type: concept
 tags: [animal-husbandry, poultry, homesteading]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 ---
-# Goose Management and Integration
+## Goose Management and Integration
 
 Updated: 2026-04-18
 

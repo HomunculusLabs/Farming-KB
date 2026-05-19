@@ -17,7 +17,7 @@ sources:
 type: query
 ---
 
-# How Does Rock Dust Improve Soil Fertility?
+## How Does Rock Dust Improve Soil Fertility?
 
 ## Short Answer
 

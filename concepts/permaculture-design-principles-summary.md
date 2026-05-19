@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Design Principles Summary
+## Permaculture Design Principles Summary
 
 The [[bill-mollison]] from decades of observation of natural systems, indigenous practices, and applied design work. These principles serve as both the ethical foundation and the operational methodology for creating sustainable human settlements.
 

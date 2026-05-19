@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Third Bardo: Re-Entry Visions
+## Third Bardo: Re-Entry Visions
 
 The Third Bardo is the period of re-entry in the psychedelic experience — the phase during which consciousness attempts to regain its ego-structure after the ego-death and visionary expansion of the First and Second Bardos. Drawing on *The Tibetan Book of the Dead* ([[bardo-thodol]]), Leary, Metzner, and Alpert map this phase as the moment when the voyager confronts the possibility of returning to ordinary existence, potentially at different levels of awareness. The quality and character of this re-entry determines the psychological and spiritual outcome of the session.
 

@@ -6,7 +6,7 @@ updated: 2026-05-10
 sources: []
 ---
 
-# Paddy Straw Mushroom vs Wine Cap Mushroom
+## Paddy Straw Mushroom vs Wine Cap Mushroom
 
 ## Overview
 

@@ -1,5 +1,5 @@
 ---
-title: metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm — From Phenethylamines to MDMA
+title: "Empathogens In Psychotherapy"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -7,7 +7,7 @@ tags: [psychopharmacology, psychedelics, therapeutic-potential, phenethylamine, 
 sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
 ---
 
-# Empathogens in Psychotherapy
+## Empathogens in Psychotherapy
 
 ## Overview
 

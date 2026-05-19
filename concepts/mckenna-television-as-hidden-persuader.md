@@ -8,7 +8,7 @@ sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
 type: concept
 ---
-# Television as the Hidden Persuader and 
+## Television as the Hidden Persuader and 
 
 ## The First Electronic Drug
 

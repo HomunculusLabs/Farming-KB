@@ -12,7 +12,7 @@ sources:
 type: topic
 ---
 
-# Mushroom Contamination Identification and Troubleshooting
+## Mushroom Contamination Identification and Troubleshooting
 
 Contamination is the single greatest challenge in [[mushroom-cultivation|mushroom cultivation]].
 

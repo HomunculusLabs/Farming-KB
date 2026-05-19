@@ -5,7 +5,7 @@ author: Gadd
 tags: [fungi, phylogenetics, species-recognition, MLST, DNA-sequencing, fungal-taxonomy, cryptic-species, molecular-biology]
 ---
 
-# Phylogenetic Species Recognition in Fungi
+## Phylogenetic Species Recognition in Fungi
 
 ## Molecular Approaches to Defining Fungal Species
 

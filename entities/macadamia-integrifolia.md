@@ -18,7 +18,7 @@ sources:
   - Wall, M.M. & Gentry, T.S. (2007). "Carbohydrate composition during macadamia nut roasting." Journal of Food Science, 72(6), C423–C427.
 ---
 
-# Macadamia integrifolia
+## Macadamia integrifolia
 
 Macadamia integrifolia is an evergreen tree in the family Proteaceae, native to the subtropical rainforests of southeastern Queensland, Australia. It is one of two species commercially cultivated for macadamia nuts, the other being *Macadamia tetraphylla*.
 

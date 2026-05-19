@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# MDMEOET
+## MDMEOET
 
 [[ayahuasca-preparation-and-ceremony]]
 - [[mdbu-entity-pihkal]]

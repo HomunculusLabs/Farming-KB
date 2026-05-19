@@ -1,4 +1,8 @@
-# Salvinorin-A Pharmacology: A Non-Nitrogenous Opioid Receptor Agonist
+---
+title: "Salvinorin-A Pharmacology: A Non-Nitrogenous Opioid Receptor Agonist"
+tags:
+  - concept
+---
 
 ## Overview
 

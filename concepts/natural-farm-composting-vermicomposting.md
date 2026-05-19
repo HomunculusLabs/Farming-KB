@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Composting and Vermicomposting
+## Composting and Vermicomposting
 
 Composting transforms organic waste into rich, fertile soil amendment. Food
 scraps and kitchen waste that would otherwise fill about 30 percent of your

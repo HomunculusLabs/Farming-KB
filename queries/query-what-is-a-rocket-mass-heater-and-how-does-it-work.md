@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is a Rocket Mass Heater and How Does It Work
+## What Is a Rocket Mass Heater and How Does It Work
 
 ## Short Answer
 A rocket mass heater is an efficient wood-burning heating system that uses a

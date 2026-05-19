@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# Astragalus vs Ashwagandha
+## Astragalus vs Ashwagandha
 
 ## Overview
 

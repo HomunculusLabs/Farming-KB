@@ -6,7 +6,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_.md
 created: 2026-05-11
 ---
 
-# Cold Shock Stratification Protocol for Mushroom Fruiting Induction
+## Cold Shock Stratification Protocol for Mushroom Fruiting Induction
 
 ## Overview
 

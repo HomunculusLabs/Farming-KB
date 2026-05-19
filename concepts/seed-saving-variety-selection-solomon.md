@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon
 tags: [seeds, seed-saving, variety-selection, germination, gardening, self-reliance]
 ---
 
-# Seed Saving and Variety Selection for Food Gardens
+## Seed Saving and Variety Selection for Food Gardens
 
 ## Overview
 

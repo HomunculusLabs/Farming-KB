@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Phellinus Linteus Cancer Research
+## Phellinus Linteus Cancer Research
 
 Phellinus linteus is [[ganoderma-lucidum-reishi-comprehensive-profile]] and Lentinus Edodes.
 

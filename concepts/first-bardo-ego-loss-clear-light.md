@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# First Bardo - Ego-Loss and the Clear Light
+## First Bardo - Ego-Loss and the Clear Light
 
 ## Overview
 

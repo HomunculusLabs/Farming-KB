@@ -4,7 +4,7 @@ source: masanobu-fukuoka-the-road-back-to-nature
 topics: food-culture, western-cooking, macrobiotics, taste, japan, philosophy-of-food
 ---
 
-# Western Cooking and the Return of True Taste
+## Western Cooking and the Return of True Taste
 
 ## The Japanese Food Boom in America
 

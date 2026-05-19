@@ -9,7 +9,7 @@ type: concept
 tags: [holzer, plant-growth]
 ---
 
-# Holzer Seed Saving and Variety Preservation
+## Holzer Seed Saving and Variety Preservation
 
 The preservation of old and [[holzer-old-varieties-and-seed-saving]] of cereal, vegetable, and potato make the best crops -- better flavour, less demanding, and far better adapted to local conditions than modern overbred varieties.
 

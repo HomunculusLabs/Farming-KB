@@ -24,7 +24,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7758429/
 ---
 
-# Tropaeolum majus
+## Tropaeolum majus
 
 ## Overview
 

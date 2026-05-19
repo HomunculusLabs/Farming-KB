@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# TB
+## TB
 
 [[2c-b-pihkal-entry-20]] #149. 4-THIOBUSCALINE; 3,5-DIMETHOXY-4-(n)-BUTYLTHIOPHENETHYLAMINE.
 

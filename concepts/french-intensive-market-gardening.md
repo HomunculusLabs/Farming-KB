@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# French Intensive Market Gardening
+## French Intensive Market Gardening
 
 French intensive market gardening (maraîchage) is a historical system of highly productive, small-scale vegetable production that originated in the market gardens (maraîchers) of Paris and surrounding areas in the 17th through 19th centuries. This system achieved extraordinary yields per acre through careful soil management, close spacing, succession planting, and the use of protective structures. Its principles continue to influence modern organic farming, winter harvesting, and small-scale commercial vegetable operations worldwide.
 

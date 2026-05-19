@@ -5,7 +5,7 @@ author: unknown
 topics: [mushrooms, grain-spawn, inoculation, sterilization, mycelium, cultivation, oyster-mushroom]
 ---
 
-# Oyster Mushroom Grain Spawn Production — Clean Bench Inoculation and Propagation
+## Oyster Mushroom Grain Spawn Production — Clean Bench Inoculation and Propagation
 
 Grain spawn is the vegetative mycelium of a mushroom [[oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid]] substrate. It serves as the inoculum for larger substrate
 masses — the "seed" of mushroom [[query-how-do-i-grow-mushrooms-on-coffee-grounds]] growing process, since

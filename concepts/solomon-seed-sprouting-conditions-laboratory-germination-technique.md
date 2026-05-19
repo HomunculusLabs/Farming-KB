@@ -5,7 +5,7 @@ source_path: raw/papers/gardening-when-it-counts-steve-solomon.md
 tags: [germination, seed-sprouting, petri-dish, laboratory-germination, chitting, presprouting, damping-off, soil-moisture, seed-vigor, steve-solomon]
 ---
 
-# Seed Sprouting Conditions and Laboratory Germination Technique
+## Seed Sprouting Conditions and Laboratory Germination Technique
 
 ## Overview
 

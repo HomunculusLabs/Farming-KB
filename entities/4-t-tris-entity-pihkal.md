@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 4-T-TRIS
+## 4-T-TRIS
 
 [[petroleum-ether]]. This was stirred vigorously under a He atmosphere
 and cooled to 0 deg C with an external ice bath. There was added 66 mL

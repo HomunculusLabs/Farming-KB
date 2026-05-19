@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Stinkbug and Mealybug Pesticide (JADAM Recipe #9)
+## Stinkbug and Mealybug Pesticide (JADAM Recipe #9)
 
 ## Overview
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Village Enterprises and Recycling Systems
+## Permaculture Village Enterprises and Recycling Systems
 
 A [[permaculture]] village is designed to be economically self-reliant, with residents earning their living primarily through enterprises that serve the village itself and the surrounding district. This model inverts the conventional pattern where residents commute to external employment and import most of their needs. Instead, the village becomes a productive economic unit where money circulates internally, building local wealth and reducing dependence on distant supply chains.
 

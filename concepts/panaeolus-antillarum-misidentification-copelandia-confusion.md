@@ -1,4 +1,8 @@
-# Panaeolus antillarum: Misidentification with Copelandia and Taxonomic Confusion
+---
+title: "Panaeolus antillarum: Misidentification with Copelandia and Taxonomic Confusion"
+tags:
+  - concept
+---
 
 ---
 created: 2026-05-08

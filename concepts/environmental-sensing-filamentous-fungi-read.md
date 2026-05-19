@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment
 tags: [environmental-sensing, thigmotropism, chemotropism, G-protein, MAP-kinase, Spitzenkorper, quorum-sensing, hyphal-fusion]
 ---
 
-# Environmental Sensing in Filamentous Fungi
+## Environmental Sensing in Filamentous Fungi
 
 ## Overview
 

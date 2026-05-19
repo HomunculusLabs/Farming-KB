@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Essential Plant Micronutrients
+## Essential Plant Micronutrients
 
 While required only in trace amounts, micronutrients are every bit as essential as macronutrients. According to **Von Liebig's [[law-of-the-minimum]]**, if even the least-used nutrient is absent, no amount of the others will matter. Plants cannot grow and reproduce without each of these eight micronutrients: boron, chlorine, copper, iron, manganese, zinc, molybdenum, and nickel.
 

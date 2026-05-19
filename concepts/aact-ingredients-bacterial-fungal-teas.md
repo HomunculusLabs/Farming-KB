@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# AACT Ingredients and Bacterial vs. Fungal Teas
+## AACT Ingredients and Bacterial vs. Fungal Teas
 
 The composition of [[actively-aerated-compost-tea]] (AACT) determines which organisms will proliferate during the brewing process, which in turn determines the tea's suitability for different plant types and growing conditions. Understanding the relationship between tea ingredients and the resulting microbial community is essential for producing effective compost tea.
 

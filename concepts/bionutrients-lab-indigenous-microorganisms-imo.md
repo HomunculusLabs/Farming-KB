@@ -6,7 +6,7 @@ type: concept
 tags: [knf, natural-farming, bionutrients, imo, microorganisms, soil-fertility, forest]
 sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 ---
-# Bionutrients Lab — Indigenous Microorganisms (IMO)
+## Bionutrients Lab — Indigenous Microorganisms (IMO)
 
 **Updated:** 2026-04-24
 

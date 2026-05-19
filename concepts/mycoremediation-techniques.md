@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
 ---
 
-# Mycoremediation Techniques
+## Mycoremediation Techniques
 
 ## Overview
 

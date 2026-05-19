@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [biology, computing, mycology, unconventional-computing]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/myceliummycelium-running.md]
+sources: ["raw/papers/myceliummycelium-running.md"]
 type: concept
 ---
 
-# Mycelial Network Computation
+## Mycelial Network Computation
 
 Mycelial network computation is a form of biological computing that
 leverages the growth patterns and electrical signaling of fungal mycelium to

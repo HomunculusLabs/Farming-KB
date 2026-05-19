@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Good Tips for Great Trips with Psilocybin Mushrooms
+## Good Tips for Great Trips with Psilocybin Mushrooms
 
 There are no guarantees for a great trip with psilocybin mushrooms, as the
 experience can be profoundly different for each individual. Not all

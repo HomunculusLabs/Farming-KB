@@ -5,7 +5,7 @@ type: entity
 tags: [person, writer, novelist, nobel-laureate, consciousness]
 ---
 
-# Hermann Hesse
+## Hermann Hesse
 
 ## Description
 Hermann Hesse (1877–1962) was a German-Swiss novelist, poet, and painter who received the Nobel Prize in Literature in 1946. In *The Psychedelic Experience*, Leary credits Hesse with coining the term "magic theatre" (from *Steppenwolf*) to describe a specific visionary phase of the psychedelic experience, and recommends Hesse as one of the ideal contemplative figures for maintaining non-game ecstasy.

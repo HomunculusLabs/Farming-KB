@@ -21,7 +21,7 @@ sources:
 - raw/papers/unknown-oyster-mushroom-cultivation.md
 ---
 
-# Mushroom Indoor Cultivation
+## Mushroom Indoor Cultivation
 
 Controlled-environment mushroom growing using enclosed chambers to manage temperature, humidity, fresh air exchange, and light. Ranges from simple closet setups to automated grow rooms.
 

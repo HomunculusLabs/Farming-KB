@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Design for Disaster Resilience
+## Design for Disaster Resilience
 
 Design for disaster resilience is a critical but often overlooked
 aspect of Bill Mollison's Permaculture: A Designers Manual. Mollison

@@ -5,7 +5,7 @@ tags: [epidemiology, europe, prevalence, psilocybin, drug-policy, emcdda]
 created: 2026-05-09
 ---
 
-# [[emcdda-legal-alternative-products-market-hallucinogenic-mushroom-substitutes-europe]] use across the
+## [[emcdda-legal-alternative-products-market-hallucinogenic-mushroom-substitutes-europe]] use across the
 European Union. This study, drawing on data from 12 EU member states plus Norway,
 revealed that while overall prevalence was considerably lower than cannabis, lifetime
 use among young people (15-16 years) in some countries equaled or exceeded ecstasy

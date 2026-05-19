@@ -1,5 +1,10 @@
+---
+title: "Bamboo Permaculture And Construction"
+tags:
+  - topic
+---
 
-# Bamboo in Permaculture and Construction
+## Bamboo in Permaculture and Construction
 
 Bamboo is one of the most versatile and rapidly renewable resources available
 to [[mollison-designers-appropriate-technology-small-scale-tools]]. Bamboo has been used for millennia across Asia, Africa,

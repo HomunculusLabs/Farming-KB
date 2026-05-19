@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Spent Mushroom Substrate
+## Spent Mushroom Substrate
 
 Spent mushroom substrate (SMS) is the residual [[accessible-mushroom-cultivation-for-disabilities]] has been completed and the useful flushes harvested.
 Far from being a waste product, SMS is a valuable resource that retains

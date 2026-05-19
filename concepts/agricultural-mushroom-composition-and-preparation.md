@@ -1,4 +1,8 @@
-# Agricultural Mushroom Composition and Preparation
+---
+title: "Agricultural Mushroom Composition and Preparation"
+tags:
+  - concept
+---
 
 The cultivated mushroom, [[accessible-mushroom-cultivation-for-disabilities]],
 whether undertaken commercially or by the amateur grower.

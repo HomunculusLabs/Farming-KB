@@ -25,7 +25,7 @@ sources:
   - https://www.first-nature.com/fungi/russula-virescens.php
 ---
 
-# Russula virescens
+## Russula virescens
 
 **Russula virescens**, the green cracking russula or quilted green russula, is a
 basidiomycete fungus in the family Russulaceae. Widely regarded as one of the

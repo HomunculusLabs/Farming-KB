@@ -1,4 +1,8 @@
-# Dipole Antenna Array Configuration for [[challenge-microorganisms-microwave-surface-sterilization]] sterilization system described in NASA Technical Support Package MSC-22484 employs a dipole antenna array configuration to deliver 2.45 GHz microwave energy to contaminated surfaces. The antenna system, fed by a [[coaxial-power-splitter-waveguide-microwave-sterilization]], provides controlled irradiation of surfaces for microbial decontamination. This configuration represents a specific engineering solution for the challenge of evenly irradiating complex surface geometries within closed systems.
+---
+title: "Dipole Antenna Array Configuration for challenge microorganisms microwave surface sterilization sterilization system described in NASA Technical Support Package MSC-22484 employs a dipole antenna array configuration to deliver 2.45 GHz microwave energy to contaminated surfaces. The antenna system, fed by a coaxial power splitter waveguide microwave sterilization, provides controlled irradiation of surfaces for microbial decontamination. This configuration represents a specific engineering solution for the challenge of evenly irradiating complex surface geometries within closed systems."
+tags:
+  - concept
+---
 
 ## System Architecture
 

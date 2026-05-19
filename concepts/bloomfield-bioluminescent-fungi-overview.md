@@ -8,7 +8,7 @@ type: concept
 tags: [fungi]
 ---
 
-# [[neonothopanus-nambi]]
+## [[neonothopanus-nambi]]
 
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom

@@ -7,7 +7,7 @@ tags: [permaculture, design, plants, ecology, windbreak, earthworks]
 sources: []
 ---
 
-# Windbreak and Shelterbelt Design
+## Windbreak and Shelterbelt Design
 
 Windbreaks and shelterbelts are linear plantings of trees and shrubs arranged to reduce wind speed, protect crops and buildings, conserve soil moisture, and provide wildlife habitat. They are foundational elements in [[permaculture-design|permaculture]] site design and [[hedgerow-planting]].
 

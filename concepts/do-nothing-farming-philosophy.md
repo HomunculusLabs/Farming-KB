@@ -6,7 +6,7 @@ type: concept
 tags: [farming, philosophy, zen, agriculture, mu]
 sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 ---
-# Do-Nothing Farming Philosophy
+## Do-Nothing Farming Philosophy
 
 [[fukuoka-science-destroyer-of-nature]], the unmoving way of
 Bodhidharma." See also [[clay-pellet-seed-broadcasting]].

@@ -6,7 +6,7 @@ type: comparison
 tags: [comparison]
 sources: [papers/cotter-organic-mushroom-farming-mycoremediation.md]
 ---
-# Organic Farming Methods Comparison
+## Organic Farming Methods Comparison
 
 The landscape of organic and [[comparison-biodynamic-preparations-vs-biofertilizers]] to minimal-intervention approaches inspired by traditional practices. This comparison covers six major approaches, each with distinct worldviews about humanity's role in soil and plant management. For a focused comparison of three Asian [[beneficial-indigenous-microorganisms-natural-farming]] systems, see [[jadam-natural-pesticide-philosophy]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]

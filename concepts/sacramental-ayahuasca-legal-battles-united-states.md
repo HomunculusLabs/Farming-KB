@@ -9,7 +9,7 @@ sources:
   - "raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md"
 ---
 
-# Sacramental Ayahuasca Legal Battles in the United States
+## Sacramental Ayahuasca Legal Battles in the United States
 
 The [[smartshop-markets-and-legal-status-of-hallucinogenic-mushrooms]] sacramental ayahuasca use in the United States represents
 one of the most significant intersections of religious freedom, drug policy, and

@@ -8,7 +8,7 @@ sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 type: concept
 ---
 
-# High Tunnel and [[coleman-moveable-greenhouse-system]] for how Coleman integrates
+## High Tunnel and [[coleman-moveable-greenhouse-system]] for how Coleman integrates
 multiple structure types into a cohesive production plan.
 
 The [[coleman-soil-preparation-for-winter]] ensures that the protected

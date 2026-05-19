@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Gastropods in Soil Ecosystems
+## Gastropods in Soil Ecosystems
 
 Gastropods—literally "stomach-foot" in Greek—are members of the phylum Mollusca and include [[jadam-pesticide-for-slugs-and-snails]]. With approximately 40,000 species, they represent the largest group within Mollusca. While gardeners often view them solely as pests, gastropods play meaningful roles in soil food webs as shredders, decomposers, and prey for higher trophic levels.
 

@@ -4,7 +4,7 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-# Chelation and Plant Nutrient Availability
+## Chelation and Plant Nutrient Availability
 
 Chelation is a fundamental biochemical process in soil-plant systems that governs how plants access essential mineral nutrients. Understanding chelation is critical for anyone working with compost teas, soil biology, or sustainable agriculture, as it directly impacts nutrient uptake efficiency and plant health.
 

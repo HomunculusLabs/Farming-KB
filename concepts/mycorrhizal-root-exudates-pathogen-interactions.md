@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mycorrhizal Root Exudates and Pathogen Interactions
+## Mycorrhizal Root Exudates and Pathogen Interactions
 
 ## Overview
 

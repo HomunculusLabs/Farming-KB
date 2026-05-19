@@ -5,7 +5,7 @@ topics: microbiology, plant-microbe interactions, rhizosphere, Cannabis
 created: 2026-05-11
 ---
 
-# Two-Tier Selection Model for Plant Microbiome Assembly
+## Two-Tier Selection Model for Plant Microbiome Assembly
 
 ## Overview
 

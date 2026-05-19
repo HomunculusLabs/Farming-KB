@@ -6,7 +6,7 @@ type: concept
 tags: [soil, agriculture, permaculture]
 sources: []
 ---
-# Cover Crop Multifunction Design
+## Cover Crop Multifunction Design
 
 Cover crops are plants grown specifically to build and hold soil, smother weeds, and perform multiple other ecological functions. They range from long-growing perennials like red fescue and Dutch white clover for permanent cover, to short-term [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], cover crops are chosen not just for a single function but for the many roles they can play simultaneously.
 

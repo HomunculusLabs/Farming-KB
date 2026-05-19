@@ -14,7 +14,7 @@ sources:
   - Pringle, J. S. (1995). "Gentianaceae." Flora fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research Council.
 ---
 
-# Gentiana saponaria
+## Gentiana saponaria
 
 ## Overview
 

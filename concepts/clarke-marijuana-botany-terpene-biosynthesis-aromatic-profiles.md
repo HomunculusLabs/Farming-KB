@@ -8,7 +8,7 @@ sources: [robert-c-clarke-marijuana-botany-an-advanced-study.md]
 type: concept
 ---
 
-# Cannabis Terpene Biosynthesis and Aromatic Profiles
+## Cannabis Terpene Biosynthesis and Aromatic Profiles
 
 Terpenes represent one of the most chemically complex and sensory-rich
 aspects of Cannabis. According to Robert Connell Clarke's Marijuana

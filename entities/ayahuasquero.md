@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: entity
 ---
 
-# Ayahuasquero
+## Ayahuasquero
 
 ## Description
 

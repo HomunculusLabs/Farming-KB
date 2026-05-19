@@ -8,7 +8,7 @@ sources: [psilocybin-mushrooms-of-the-world-stamets.md]
 type: entity
 ---
 
-# Psilocybe subcubensis
+## Psilocybe subcubensis
 
 **Type:** Species (Fungus)
 **Category:** [[fungal-microscopic-examination-mounting-media-techniques]] is essential for accurate identification within

@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Compost Thermal Stages
+## Compost Thermal Stages
 
 [[compost|Composting]] progresses through three distinct temperature phases, each driven by a different community of microorganisms. Understanding these stages helps gardeners and farmers manage their piles effectively, producing finished compost that is rich in nutrients and free of pathogens and weed seeds.
 

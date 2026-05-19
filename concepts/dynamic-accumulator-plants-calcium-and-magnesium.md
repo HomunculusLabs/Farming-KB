@@ -8,7 +8,7 @@ type: concept
 tags: [plants]
 ---
 
-# Dynamic Accumulator Plants — Calcium and Magnesium
+## Dynamic Accumulator Plants — Calcium and Magnesium
 
 Calcium and magnesium are [[comparison-dynamic-accumulators-vs-cover-crops]] of calcium. Remarkably, high levels of calcium can appear in oak leaves even when the soil has barely detectable or very low levels of available calcium. This demonstrates true accumulator behavior — the plant concentrates calcium beyond what the surrounding soil concentration would predict.
 

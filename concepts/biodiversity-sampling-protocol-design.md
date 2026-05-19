@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Sampling Protocol Design for [[macrofungi-woody-substrata-survey-design]], individual logs or dead trees are more
+## Sampling Protocol Design for [[macrofungi-woody-substrata-survey-design]], individual logs or dead trees are more
 appropriate than plots. A fallen tree can be sampled base to top with
 specimen locations, tree type, and decay class noted. The point quarter
 method estimates density of large fallen or standing-dead trees. Two

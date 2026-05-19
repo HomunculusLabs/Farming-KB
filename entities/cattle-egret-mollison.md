@@ -5,7 +5,7 @@ type: entity
 tags: [bird, symbiosis, pasture-management, permaculture, biodiversity]
 ---
 
-# Cattle Egret (*Bubulcus ibis*)
+## Cattle Egret (*Bubulcus ibis*)
 
 ## Description
 

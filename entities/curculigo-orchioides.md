@@ -17,7 +17,7 @@ sources:
   - "Jain, S., Singh, R. & Arya, R. (2011). \"Curculigo orchioides: A review.\" Int J Pharm Sci Res, 2(10), 2574-2585."
 ---
 
-# Curculigo orchioides (*Curculigo orchioides* Gaertn.)
+## Curculigo orchioides (*Curculigo orchioides* Gaertn.)
 
 ## Overview
 

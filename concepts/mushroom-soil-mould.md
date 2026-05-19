@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Soil and Mould
+## Mushroom Soil and Mould
 
 The [[stamets-growing-room-air-circulation-co2-management]].
 

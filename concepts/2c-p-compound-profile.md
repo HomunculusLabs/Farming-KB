@@ -6,7 +6,7 @@ type: concept
 tags: [chemistry, 2c-family]
 sources: ["raw/papers/shulgin-a-pihkal.md"]
 ---
-# 2C-P — 2,5-Dimethoxy-4-(n)-Propylphenethylamine
+## 2C-P — 2,5-Dimethoxy-4-(n)-Propylphenethylamine
 
 ## Overview
 

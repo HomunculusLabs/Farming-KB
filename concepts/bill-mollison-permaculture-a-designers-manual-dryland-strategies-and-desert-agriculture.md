@@ -6,7 +6,7 @@ category: permaculture
 tags: [dryland, desert, water-harvesting, arid, swales, mulch, windbreaks]
 mined: 2026-05-10
 ---
-# Dryland Strategies and Desert Agriculture in Permaculture
+## Dryland Strategies and Desert Agriculture in Permaculture
 ## Overview
 
 Chapter 11 of Mollison's manual addresses one of permaculture's most critical challenges: designing productive systems in arid and semi-arid environments. Drylands cover over 40% of the Earth's land surface and support some of the world's most vulnerable populations. Permaculture dryland strategies focus on maximizing water capture, minimizing evaporation, building soil rapidly, and selecting adapted plant and animal systems. The fundamental principle is that water, not soil, is the primary limiting factor — manage water and everything else follows.

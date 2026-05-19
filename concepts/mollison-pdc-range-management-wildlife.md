@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# [[comparison-rotational-grazing-vs-continuous-grazing]] systems
+## [[comparison-rotational-grazing-vs-continuous-grazing]] systems
 and the dramatic restoration of degraded grasslands through proper
 grazing management. The principle: "The land needs the animals, but the
 animals need to be managed."

@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-# Sulfur vs Gypsum
+## Sulfur vs Gypsum
 
 ## Overview
 

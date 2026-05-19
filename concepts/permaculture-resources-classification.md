@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Resource Classification in Permaculture
+## Resource Classification in Permaculture
 
 [[bill-mollison]]'s framework for classifying resources provides designers with an ethical and practical lens for evaluating what we use, how we use it, and what consequences follow. This classification is central to [[savory-holistic-resource-management-animal-impact]] in any permaculture system.
 

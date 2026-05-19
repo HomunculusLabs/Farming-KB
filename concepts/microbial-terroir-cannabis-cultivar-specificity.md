@@ -16,7 +16,7 @@ sources:
   - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-# Microbial Terroir — Cannabis Cultivar Specificity and Regional Microbiomes
+## Microbial Terroir — Cannabis Cultivar Specificity and Regional Microbiomes
 
 The concept of microbial terroir — the idea that region-specific microbial
 communities contribute to the unique sensory and chemical characteristics

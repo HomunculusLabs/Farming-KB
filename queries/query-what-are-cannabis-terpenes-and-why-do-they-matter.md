@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Are Cannabis Terpenes and Why Do They Matter?
+## What Are Cannabis Terpenes and Why Do They Matter?
 
 ## Short Answer
 Terpenes are aromatic [[cannabis-terpene-entourage-effect-profiles]],

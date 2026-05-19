@@ -8,7 +8,7 @@ sources:
   - "raw/papers/the-essential-psychedelic-guide-by-dimitri-turner.md"
 ---
 
-# Multiple Psychedelic Combinations: Cosmic Synergism (Turner Guide)
+## Multiple Psychedelic Combinations: Cosmic Synergism (Turner Guide)
 
 ## Overview
 

@@ -21,7 +21,7 @@ sources:
 - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-# KNF Mineral Liquid
+## KNF Mineral Liquid
 
 Mineral liquid is a KNF input derived from rocks, rich in Ca, Mg, Fe, and trace elements. It reflects the structural characteristics of the rocks used. Mineral liquid balances soil ecosystems, activates microorganisms, breaks down hardpan layers, and improves water/soil particle structure for better plant absorption.
 

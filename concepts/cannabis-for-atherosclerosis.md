@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-# Cannabis for Atherosclerosis
+## Cannabis for Atherosclerosis
 
 Atherosclerosis was historically defined as accumulation of plaque or bad cholesterol (LDL) within arterial walls. It is now understood to be more than simple plaque build-up. The obstruction is actually a physical response to injuries in the arterial wall lining. Causes include high blood pressure, infectious microbes, and excessive homocysteine. Inflammatory molecules stimulate events leading to atherosclerotic lesion development.
 

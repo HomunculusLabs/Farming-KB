@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Psychedelic Session Preparation — Set and Setting
+## Psychedelic Session Preparation — Set and Setting
 
 ## Overview
 

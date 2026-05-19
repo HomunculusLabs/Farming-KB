@@ -23,7 +23,7 @@ sources:
 - raw/papers/mycelium-running-stamets.md
 ---
 
-# Saprotrophic Fungi
+## Saprotrophic Fungi
 
 Saprotrophic fungi obtain nutrients by secreting extracellular enzymes into dead organic matter, absorbing the degradation products, and distributing them through their mycelial networks. This "inefficient" process — releasing a fraction of nutrients into the environment rather than retaining all of them — is the foundation of nutrient mineralization in all terrestrial ecosystems (Dighton 1997). Saprotrophs are the primary decomposers of lignocellulosic material on Earth.
 

@@ -7,7 +7,7 @@ tags: [mycorrhizal-helper-bacteria, tripartite-symbiosis, mhb, mycorrhiza-bacter
 aliases: [mhb, helper-bacteria-mycorrhiza, plant-fungus-bacteria-tripartite]
 ---
 
-# Mycorrhizal Helper Bacteria and Tripartite Symbioses
+## Mycorrhizal Helper Bacteria and Tripartite Symbioses
 
 ## Overview
 

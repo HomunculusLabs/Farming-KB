@@ -8,7 +8,7 @@ sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
-# Gourmet Mushroom Cultivation on Enriched Sawdust
+## Gourmet Mushroom Cultivation on Enriched Sawdust
 
 Growing [[medicinal-mushroom-guide-lions-mane]], maitake-cultivation|Maitake, enoki-cultivation|Enoki, nameko-cultivation|Nameko, [[stamets-cultivator-log-cultivation-shiitake-hericium]] each have different wood preferences
 

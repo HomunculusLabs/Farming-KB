@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Training Program Structure and Curriculum
+## Training Program Structure and Curriculum
 
 The [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] management** - Carrying bags between
    incubation and fruiting areas, [[mazatec-mushroom-culture-and-velada]], how microbes

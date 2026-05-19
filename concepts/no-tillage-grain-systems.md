@@ -21,7 +21,7 @@ sources:
 - raw/papers/sepp-holzer-practical-guide.md
 ---
 
-# No-Tillage Grain and Staple Crop Systems
+## No-Tillage Grain and Staple Crop Systems
 
 No-tillage grain systems from Mollison's Permaculture Two, building on Fukuoka's methods. See [[grain-and-staple-crops]] for general homestead grain growing and [[one-straw-revolution-guide]] for Fukuoka's philosophy.
 

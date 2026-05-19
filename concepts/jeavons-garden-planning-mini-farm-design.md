@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Garden Planning and Mini-Farm Design
+## Garden Planning and Mini-Farm Design
 
 Making the garden plan is where theory meets practice in the
 [[jeavons-grow-biointensive-method-overview]] garden follows a seasonal rhythm:

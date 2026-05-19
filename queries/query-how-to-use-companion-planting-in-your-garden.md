@@ -7,7 +7,7 @@ sources:
   - "raw/papers/jeavons-how-grow-vegetables.md"
 ---
 
-# How to Use Companion Planting in Your Garden
+## How to Use Companion Planting in Your Garden
 
 ## Short Answer
 

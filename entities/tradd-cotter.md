@@ -19,7 +19,7 @@ sources:
 status: complete
 ---
 
-# Tradd Cotter
+## Tradd Cotter
 
 ## Overview
 

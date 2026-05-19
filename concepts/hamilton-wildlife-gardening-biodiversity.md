@@ -8,7 +8,7 @@ type: concept
 tags: [biology, gardening, wildlife]
 ---
 
-# Wildlife Gardening and Biodiversity
+## Wildlife Gardening and Biodiversity
 
 The organic garden is inherently wildlife-friendly. [[fukuoka-citrus-orchard-ground-cover-cultivation]] to hide under during the day.
 

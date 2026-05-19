@@ -22,7 +22,7 @@ sources:
 - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
-# Mushroom Pests and Diseases
+## Mushroom Pests and Diseases
 
 Mushroom crops face threats from competitor molds, bacterial pathogens, viral diseases, and insect pests. Prevention through [[mushroom-sterile-technique]] and environmental control is far more effective than treatment. This page covers identification and IPM for mushroom cultivation — complementing [[mushroom-contamination-identification]] which focuses on lab/stage contamination.
 

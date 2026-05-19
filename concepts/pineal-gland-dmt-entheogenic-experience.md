@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/arthur-j-mushrooms-and-mankind.md"
 ---
-# Pineal Gland, DMT and Entheogenic Experience
+## Pineal Gland, DMT and Entheogenic Experience
 
 James Arthur connects the [[pineal-gland]] to entheogenic mushroom experience through a biochemical and symbolic framework that bridges endogenous (internally produced) and exogenous (externally ingested) psychoactive compounds. The pineal gland's production of DMT (dimethyltryptamine) and pinoline (a natural MAO inhibitor) is proposed as the internal counterpart to the external entheogenic mushroom sacrament, creating a unified model of visionary experience that operates through both internal and external pathways.
 

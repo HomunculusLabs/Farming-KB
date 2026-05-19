@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# JADAM Seed Treatment and [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) -- 3 L (0.8 gal)
+## JADAM Seed Treatment and [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) -- 3 L (0.8 gal)
 - Add water to make 500 L
 - Spray on affected seedlings
 

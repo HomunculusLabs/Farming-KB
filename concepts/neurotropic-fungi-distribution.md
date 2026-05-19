@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Worldwide Distribution of Neurotropic Fungi
+## Worldwide Distribution of Neurotropic Fungi
 
 The worldwide distribution of neurotropic (hallucinogenic or psychotropic) fungi encompasses at least 216 known species distributed across all continents, with the greatest diversity concentrated in subtropical and tropical regions of the [[bloomfield-ergot-claviceps-purpurea-ergotism]] and allies (5 species of Claviceps) plus 2 Cordyceps species. These produce ergot alkaloids including lysergic acid amide and related compounds that have been used medicinally and ritually.
 

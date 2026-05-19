@@ -7,7 +7,7 @@ tags: [mycology, fungi]
 sources: []
 ---
 
-# Fungal Calcium Oxalate Crystals
+## Fungal Calcium Oxalate Crystals
 
 Calcium oxalate crystal formation by fungi is a widespread biomineralization
 process with profound implications for soil chemistry, [[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]]. Fungi are among the most prolific

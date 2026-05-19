@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, cultivation, substrate, sterilization]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
-# Mushroom Substrate Preparation and Sterilization Substrate preparation is the foundational step in mushroom cultivation. The substrate provides the nutritional base from which fungal [[cervantes-hydrated-lime-quicklime-ph-adjustment]]
+## Mushroom Substrate Preparation and Sterilization Substrate preparation is the foundational step in mushroom cultivation. The substrate provides the nutritional base from which fungal [[cervantes-hydrated-lime-quicklime-ph-adjustment]]
 solution for 12 to 18 hours, raising the pH to inhibit contaminants.
 
 **Sterilization** heats substrate to 250 degrees Fahrenheit (121 degrees

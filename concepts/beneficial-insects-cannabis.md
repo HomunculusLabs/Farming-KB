@@ -9,7 +9,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Beneficial Insects for Cannabis Pest Control
+## Beneficial Insects for Cannabis Pest Control
 
 [[aphids-cannabis]] (primary target), mealybugs, [[thrips-cannabis]], [[cervantes-spider-mites-identification-control]].
 

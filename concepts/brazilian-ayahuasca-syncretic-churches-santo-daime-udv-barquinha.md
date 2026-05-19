@@ -1,4 +1,8 @@
-# Brazilian Ayahuasca Syncretic Churches — Santo Daime, UDV, and Barquinha
+---
+title: "Brazilian Ayahuasca Syncretic Churches — Santo Daime, UDV, and Barquinha"
+tags:
+  - concept
+---
 
 ## Overview
 

@@ -14,7 +14,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Microwave Surface Sterilization Core Concept
+## Microwave Surface Sterilization Core Concept
 
 ## Overview
 

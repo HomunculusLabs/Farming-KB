@@ -8,7 +8,7 @@ sources: [papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md]
 type: query
 ---
 
-# Which Cannabis Training Techniques Produce the Highest Yields
+## Which Cannabis Training Techniques Produce the Highest Yields
 
 ## Short Answer
 The most effective yield-boosting techniques combine structural training methods like

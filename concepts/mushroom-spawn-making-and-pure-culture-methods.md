@@ -1,4 +1,8 @@
-# Mushroom Spawn Making and Pure Culture Methods
+---
+title: "Mushroom Spawn Making and Pure Culture Methods"
+tags:
+  - concept
+---
 
 Mushroom spawn is the vegetative planting material used to inoculate prepared compost
 with the mycelium of [[accessible-mushroom-cultivation-for-disabilities]], as it determines whether the

@@ -6,7 +6,7 @@ type: concept
 tags: [spore-syringe, sterile-technique, inoculation, mushroom-cultivation, spore-print, jarrold, flame-sterilization]
 ---
 
-# Spore Syringe Preparation - Sterile Technique for Mushroom Cultivation
+## Spore Syringe Preparation - Sterile Technique for Mushroom Cultivation
 
 ## Overview
 

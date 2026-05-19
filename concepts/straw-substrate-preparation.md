@@ -6,7 +6,7 @@ source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
 tags: [mycology, mushroom-cultivation, substrate-preparation, indoor-growing]
 ---
 
-# Straw Substrate Preparation for Mushroom Cultivation
+## Straw Substrate Preparation for Mushroom Cultivation
 
 Straw substrate preparation is the process of treating cereal straw to create a
 nutritious, contamination-free growing medium for cultivated mushrooms. Straw

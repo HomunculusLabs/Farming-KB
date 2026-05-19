@@ -5,7 +5,7 @@ type: entity
 tags: [chemical, herbicide, contaminant, mycoremediation]
 ---
 
-# Clopyralid
+## Clopyralid
 
 ## Description
 

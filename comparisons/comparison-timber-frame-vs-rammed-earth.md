@@ -6,7 +6,7 @@ updated: 2026-05-12
 sources: []
 ---
 
-# Timber Frame vs Rammed Earth
+## Timber Frame vs Rammed Earth
 
 ## Overview
 

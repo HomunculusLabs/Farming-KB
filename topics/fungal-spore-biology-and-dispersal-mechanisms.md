@@ -31,7 +31,7 @@ related_concepts:
   - mycorrhizal-fungi
 ---
 
-# Fungal Spore Biology and Dispersal Mechanisms
+## Fungal Spore Biology and Dispersal Mechanisms
 
 Fungal spores are among the most remarkable reproductive structures in the biological world.
 Microscopic, resilient, and produced in staggering quantities, they are the primary vehicles by which

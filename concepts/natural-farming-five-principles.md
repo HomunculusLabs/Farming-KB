@@ -6,7 +6,7 @@ created: 2026-05-10
 tags: [agriculture, farming, permaculture, philosophy, ecology]
 ---
 
-# Natural Farming Five Principles
+## Natural Farming Five Principles
 
 ## Overview
 

@@ -6,7 +6,7 @@ tags: [psilocin, serotonin, 5-ht2a, pharmacology, tryptamine, receptor, agonist,
 created: 2026-05-08
 ---
 
-# Psilocin and Serotonin: Structural Relationship and Pharmacological Mechanism
+## Psilocin and Serotonin: Structural Relationship and Pharmacological Mechanism
 
 ## Overview
 

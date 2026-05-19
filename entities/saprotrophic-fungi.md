@@ -5,7 +5,7 @@ type: entity
 tags: [saprotroph, decomposition, nutrient-cycling, enzymes, mineralization, soil-ecology, fungi]
 ---
 
-# Saprotrophic Fungi
+## Saprotrophic Fungi
 
 ## Description
 

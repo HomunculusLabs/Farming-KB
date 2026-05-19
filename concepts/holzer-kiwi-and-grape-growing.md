@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Holzer Kiwi and Grape Growing
+## Holzer Kiwi and Grape Growing
 
 Kiwi and grape vines represent some of the most space-efficient and productive crops in Sepp Holzer's permaculture system. Through creative use of microclimates, vertical surfaces, and multi-layered plant communities, Holzer has demonstrated that both crops can be grown successfully even at high alpine altitudes where conventional wisdom says they should not thrive. On the Krameterhof at 1,100-1,500m above sea level, kiwi and grape vines are integrated into terraced gardens, climbing structures, and even balcony container systems.
 

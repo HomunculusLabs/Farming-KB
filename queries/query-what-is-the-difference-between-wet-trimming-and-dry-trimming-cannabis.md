@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is the Difference Between Wet Trimming and Dry Trimming Cannabis?
+## What Is the Difference Between Wet Trimming and Dry Trimming Cannabis?
 
 ## Short Answer
 Wet trimming involves removing sugar leaves immediately after harvest while

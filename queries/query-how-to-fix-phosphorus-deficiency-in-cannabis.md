@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How to Fix Phosphorus Deficiency in Cannabis
+## How to Fix Phosphorus Deficiency in Cannabis
 
 ## Short Answer
 Phosphorus deficiency in cannabis causes dark green or purplish leaves, stunted 

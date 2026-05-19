@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dryland Salting — Causes and Cautious Approaches
+## Dryland Salting — Causes and Cautious Approaches
 
 ## Overview
 

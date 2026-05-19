@@ -5,7 +5,7 @@ type: entity
 tags: [fungi, endophyte, grass, clavicipitales, alkaloids, stroma]
 ---
 
-# Balansia
+## Balansia
 
 ## Description
 

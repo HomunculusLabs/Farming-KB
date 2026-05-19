@@ -15,12 +15,12 @@ sources:
 type: concept
 ---
 
-# Outdoor Mushroom Bed Establishment Techniques
+## Outdoor Mushroom Bed Establishment Techniques
 
 ## Overview
 
 Outdoor mushroom beds represent one of the most accessible and low-
-cost methods of [[growing-gourmet-stametsian-permaculture-model]], transforming
+cost methods of [[stametsian-permaculture-model]], transforming
 gardens and landscapes into productive mushroom ecosystems.
 
 ## Site Selection

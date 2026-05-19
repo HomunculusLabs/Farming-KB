@@ -17,7 +17,7 @@ sources:
   - USDA Natural Resources Conservation Service. "Citrus reticulata Blanco." PLANTS Database.
 ---
 
-# Citrus reticulata
+## Citrus reticulata
 
 ## Overview
 

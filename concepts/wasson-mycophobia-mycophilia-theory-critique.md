@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Critique of Wasson's Mycophobia and Mycophilia Theory
+## Critique of Wasson's Mycophobia and Mycophilia Theory
 
 [[holmgren-permaculture-flower-conceptual-framework]] and the evidence Wasson marshalled in its support.
 The theory, while historically important, has been substantially

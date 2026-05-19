@@ -9,7 +9,7 @@ sources:
   - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 ---
 
-# A.H.R. Buller
+## A.H.R. Buller
 
 Arthur Henry Reginald Buller (1874–1944) was a British-Canadian mycologist considered the greatest experimental mycologist in history. His seven-volume *Researches on Fungi* (1909–1934) established the foundations of fungal spore biology, including the mechanics of spore discharge, spore velocity, and the role of surface tension in ballistospore launch.
 

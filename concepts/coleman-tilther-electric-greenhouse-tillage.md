@@ -15,7 +15,7 @@ sources:
   - eliot-coleman-winter-harvest-handbook.md
 ---
 
-# The Tilther — Electric Greenhouse Tillage Tool
+## The Tilther — Electric Greenhouse Tillage Tool
 
 ## Overview
 

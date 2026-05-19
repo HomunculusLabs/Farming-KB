@@ -6,7 +6,7 @@ source: cannabis-sativa-volume-3-essential-guide.md
 created: 2026-05-11
 ---
 
-# Cannabis Landrace Preservation
+## Cannabis Landrace Preservation
 
 ## Overview
 

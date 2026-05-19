@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Starting a New Garden: Killing Sod and Preparing Soil
+## Starting a New Garden: Killing Sod and Preparing Soil
 
 Converting a grass-covered area into productive [[aphid-management-vegetable-garden-solomon]] beds is one of the
 most physically demanding but foundational tasks in food gardening. [[steve-solomon]]

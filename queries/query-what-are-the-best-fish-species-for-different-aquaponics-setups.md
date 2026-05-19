@@ -6,7 +6,7 @@ updated: 2026-05-08
 sources: []
 ---
 
-# What Are the Best Fish Species for Different Aquaponics Setups?
+## What Are the Best Fish Species for Different Aquaponics Setups?
 
 ## Short Answer
 

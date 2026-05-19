@@ -25,7 +25,7 @@ sources:
   - concepts/weil-psychedelic-experience-set-and-setting.md
 ---
 
-# Roland Griffiths
+## Roland Griffiths
 
 Roland Robert Griffiths (1944–December 16, 2023) was an American psychopharmacologist and professor at Johns Hopkins University School of Medicine who is widely regarded as the most important figure in reestablishing psychedelic science as a rigorous academic discipline in the 21st century. Over a 50-year career at Hopkins, he authored approximately 400 scientific publications and founded the Johns Hopkins Center for Psychedelic and Consciousness Research in 2019.
 

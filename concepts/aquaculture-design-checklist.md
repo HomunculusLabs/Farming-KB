@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Aquaculture Design Checklist and Taro Field Integration
+## Aquaculture Design Checklist and Taro Field Integration
 
 ## Overview
 

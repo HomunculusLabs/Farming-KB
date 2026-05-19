@@ -20,7 +20,7 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-# JADAM Wetting Agent (JWA)
+## JADAM Wetting Agent (JWA)
 
 JWA is the most important ingredient in [[jadam-methods]] pesticide system. It is a natural surfactant (soap) made from canola oil and caustic potash (KOH) without heating. It provides wetting, coating and penetrating power -- without it, no [[jadam-pesticide-dosage-guide]] works. It also has its own pesticide and germicide effect. Costs under $0.50/L to make. No expiration date.
 

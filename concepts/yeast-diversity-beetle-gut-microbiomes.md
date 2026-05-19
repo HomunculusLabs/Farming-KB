@@ -4,7 +4,7 @@ source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 type: concept
 ---
 
-# Yeast Diversity in Beetle Gut Microbiomes
+## Yeast Diversity in Beetle Gut Microbiomes
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Does Living Soil Work for Cannabis?
+## How Does Living Soil Work for Cannabis?
 
 ## Short Answer
 Living soil is an organic growing method that relies on a diverse community of soil

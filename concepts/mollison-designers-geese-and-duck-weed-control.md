@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Geese and Duck Weed Control
+## Geese and Duck Weed Control
 
 Mollison highlights geese and ducks as specialised weed control agents that
 perform functions difficult or impossible to achieve with machinery or

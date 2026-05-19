@@ -7,7 +7,7 @@ tags: [cultivation, plants, gardening, agriculture, plant-growth, techniques, fr
 sources: []
 ---
 
-# Plant Propagation Methods
+## Plant Propagation Methods
 
 Plant propagation is the process of creating new plants from existing ones. Methods fall into two broad categories: sexual propagation (from seeds) and asexual/vegetative propagation (from plant parts). Vegetative methods produce clones genetically identical to the parent plant, preserving desired traits. Seed propagation introduces genetic variation, which is valuable for breeding but may not preserve specific characteristics.
 

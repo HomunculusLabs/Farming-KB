@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Man as Nature's Heretic and the Natural Waste Cycle
+## Man as Nature's Heretic and the Natural Waste Cycle
 
 ## Overview
 

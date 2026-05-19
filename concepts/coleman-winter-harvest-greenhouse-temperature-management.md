@@ -7,7 +7,7 @@ type: concept
 tags: [winter-farming, greenhouse, cold-house, cool-house, temperature, season-extension, coleman, protected-cultivation]
 ---
 
-# Coleman Winter Harvest Greenhouse Temperature Management
+## Coleman Winter Harvest Greenhouse Temperature Management
 
 ## Overview
 

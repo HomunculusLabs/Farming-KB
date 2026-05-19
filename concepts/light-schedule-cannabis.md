@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Light Schedule Cannabis
+## Light Schedule Cannabis
 
 The light schedule (also called the photoperiod or day/night cycle) is one of the most
 powerful tools available to [[flowering-phase-cannabis]], and manage the entire growth cycle of photoperiod-sensitive cannabis

@@ -4,7 +4,7 @@ source: mushrooms---poisionous-fungi-by-john-ramsbottom-1945.md
 type: concept
 ---
 
-# History of Poisonous Fungi Knowledge
+## History of Poisonous Fungi Knowledge
 
 The history of humanity's understanding of poisonous fungi is a narrative stretching from classical antiquity to the modern era, marked by fatal misunderstandings, gradual scientific enlightenment, and persistent cultural anxiety. Drawing extensively from John Ramsbottom's 1945 work on poisonous fungi, this page surveys the evolution of knowledge about fungal toxicity.
 

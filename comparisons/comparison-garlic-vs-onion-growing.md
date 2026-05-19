@@ -13,7 +13,7 @@ sources:
 type: comparison
 ---
 
-# Garlic vs Onion Growing
+## Garlic vs Onion Growing
 
 ## Overview
 

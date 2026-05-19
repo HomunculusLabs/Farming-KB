@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# Entheogenic Eleusis Theory — Scholarly Reception
+## Entheogenic Eleusis Theory — Scholarly Reception
 
 The scholarly response to the [Wasson-Hofmann-Ruck hypothesis that the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] involved the use of a psychoactive ingredient in the [kykeon.
 

@@ -7,7 +7,7 @@ tags: [safety, homesteading, climate, water, water-management]
 sources: []
 ---
 
-# Flood Preparedness Guide
+## Flood Preparedness Guide
 
 Floods are the most common and costly natural disaster in the United States. Homesteads near rivers, streams, low-lying areas, or in regions with intense rainfall are at elevated risk. Even areas far from waterways can experience flash flooding, storm surge, or localized flooding from overwhelmed drainage. This guide covers flood risk assessment, protection measures, evacuation, and recovery.
 

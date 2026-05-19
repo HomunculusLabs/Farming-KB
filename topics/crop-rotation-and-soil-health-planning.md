@@ -28,7 +28,7 @@ related_concepts:
   - fukuoka-crop-rotation-natural-farming
 ---
 
-# Crop Rotation and Soil Health Planning
+## Crop Rotation and Soil Health Planning
 
 Crop rotation is among the oldest and most fundamental practices in
 agriculture.

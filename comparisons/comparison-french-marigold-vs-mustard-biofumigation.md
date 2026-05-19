@@ -22,7 +22,7 @@ sources:
 type: comparison
 ---
 
-# French Marigold Biofumigation vs Mustard Biofumigation
+## French Marigold Biofumigation vs Mustard Biofumigation
 
 Biofumigation is an [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] vacuoles, separate from the enzyme myrosinase. When [[savory-growing-season-and-non-growing-season-management]]** to a cover crop (e.g., summer fallow replacement).
 - You want a **low-tech approach** that does not require precise incorporation timing.

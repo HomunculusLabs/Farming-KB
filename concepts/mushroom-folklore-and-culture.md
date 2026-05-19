@@ -24,7 +24,7 @@ sources:
 - raw/papers/arthur-j-mushrooms-and-mankind.md
 ---
 
-# Mushroom Folklore and Culture
+## Mushroom Folklore and Culture
 
 The cultural, artistic, and symbolic significance of mushrooms across human history, from prehistoric rock art to modern mycological subcultures. See also [[psychedelic-mushroom-history]] for a chronological timeline and [[amanita-muscaria]] for Amanita-specific traditions.
 

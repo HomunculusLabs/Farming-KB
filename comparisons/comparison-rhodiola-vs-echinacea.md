@@ -6,7 +6,7 @@ updated: 2026-05-13
 sources: []
 ---
 
-# Rhodiola vs Echinacea
+## Rhodiola vs Echinacea
 
 ## Overview
 

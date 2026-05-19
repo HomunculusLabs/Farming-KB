@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Classic Soil Science
+## Classic Soil Science
 
 > Core concepts from classical soil science as presented in *Teaming with Microbes* by Jeff Lowenfels and Wayne Lewis.
 

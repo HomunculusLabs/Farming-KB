@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# What Is Super Cropping and When Should You Do It?
+## What Is Super Cropping and When Should You Do It?
 
 ## Short Answer
 Super cropping is a high-stress training (HST) technique that involves

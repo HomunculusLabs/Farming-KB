@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# BOH (beta-Methoxy-3,4-methylenedioxyphenethylamine)
+## BOH (beta-Methoxy-3,4-methylenedioxyphenethylamine)
 
 **[[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]]
   - Hydrate form: mp 105-106.5 °C (with bubbling and darkening)

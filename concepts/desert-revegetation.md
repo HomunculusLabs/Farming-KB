@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [ecology, climate, restoration, agriculture]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
+sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 type: concept
 ---
 
-# Desert Revegetation
+## Desert Revegetation
 
 **Desert revegetation** is the process of restoring plant cover to arid and
 semi-arid lands that have lost their native vegetation. Masanobu Fukuoka

@@ -9,7 +9,7 @@ tags:
   - strain-review
 ---
 
-# Swazi — South African Sativa Landrace
+## Swazi — South African Sativa Landrace
 
 ## Origins and Breeding Lineage
 

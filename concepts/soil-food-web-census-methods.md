@@ -4,7 +4,7 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-# Soil Food Web Census Methods
+## Soil Food Web Census Methods
 
 Before applying [[soil-food-web]] science to gardening, it is essential to understand the current state of the soil food webs in your yard. Different plants produce different [[root-exudates]] that attract different bacteria and fungi, which in turn support varying predator communities. This means the [[soil-life]] around tree roots differs from that supporting vegetables, lawns, or even the same tree species on different parts of a property. Taking a systematic census of soil organisms is the first step toward effective soil food web management.
 

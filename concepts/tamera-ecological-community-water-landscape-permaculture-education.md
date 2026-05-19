@@ -4,7 +4,7 @@ source: holzer-desert-or-paradise.md
 type: concept
 ---
 
-# Tamera Ecological Community — Water Landscape Restoration and Permaculture Education
+## Tamera Ecological Community — Water Landscape Restoration and Permaculture Education
 
 ## Overview
 

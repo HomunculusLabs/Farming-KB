@@ -6,7 +6,7 @@ tags: [fukuoka, natural-farming, garden-design, permaculture, backyard-garden, p
 created: 2026-05-08
 ---
 
-# Heart-Shaped Garden Pond Technique
+## Heart-Shaped Garden Pond Technique
 
 ## Overview
 

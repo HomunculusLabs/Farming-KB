@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Strategies for an Alternative Nation
+## Strategies for an Alternative Nation
 
 ## Overview
 

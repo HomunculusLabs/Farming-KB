@@ -6,7 +6,7 @@ tags: [photoperiodism, night-interruption, flowering, chrysanthemum, phytochrome
 aliases: [Night Break Photoperiodism, Photoperiod Manipulation Commercial Floriculture]
 ---
 
-# Night Interruption Photoperiodism and Commercial Floral Manipulation
+## Night Interruption Photoperiodism and Commercial Floral Manipulation
 
 One of the most practically significant discoveries in plant photobiology is that
 plants measure not the length of the day but the length of the continuous dark period.

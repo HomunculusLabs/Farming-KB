@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi, beta-diversity, ecology, species-turnover]
 sources: []
 ---
-# Fungal Beta Diversity and Species Turnover Analysis
+## Fungal Beta Diversity and Species Turnover Analysis
 
 Beta diversity quantifies the degree of change in species composition
 between sites, habitats, or along environmental gradients. It is a

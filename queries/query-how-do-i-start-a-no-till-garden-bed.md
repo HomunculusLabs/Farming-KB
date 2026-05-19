@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Start a No-Till Garden Bed?
+## How Do I Start a No-Till Garden Bed?
 
 ## Short Answer
 Starting a no-till garden bed involves layering organic materials directly on top of existing ground without mechanical disturbance.

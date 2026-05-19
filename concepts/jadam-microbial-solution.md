@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam-microbial-solution-jms-preparation-and-use (JMS)
+title: "Jadam Microbial Solution"
 created: 2026-04-28
 tags: [jadam, microorganisms, soil-biology, fermentation]
 date: 2026-04-25
@@ -8,7 +8,7 @@ sources: [jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
 
-# JADAM Microbial Solution (JMS)
+## JADAM Microbial Solution (JMS)
 
 JADAM [[jadam-wetting-agent-jwa]]:
 

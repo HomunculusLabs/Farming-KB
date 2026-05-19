@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# THC Acetate Synthesis and Pharmacology
+## THC Acetate Synthesis and Pharmacology
 
 THC acetate (tetrahydrocannabinol acetate) is a synthetic cannabinoid derivative produced by acetylating THC or its precursors. Described in "[[cannabis-concentrates-and-extracts]] for the author context.
 

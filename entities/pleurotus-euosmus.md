@@ -13,7 +13,7 @@ sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
-# Pleurotus euosmus
+## Pleurotus euosmus
 
 ## Introduction
 

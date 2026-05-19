@@ -6,7 +6,7 @@ created: 2026-05-10
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 ---
 
-# Psilocybin and Psilocin Flush Variation
+## Psilocybin and Psilocin Flush Variation
 
 The levels of psilocybin (4-PO-DMT) and its dephosphorylated active metabolite psilocin (4-HO-DMT) in *[[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] (harvests) from a single culture. This variation was systematically documented by Bigwood and Beug (1982) using controlled miniculture experiments and HPLC analysis, revealing distinct patterns for each alkaloid.
 

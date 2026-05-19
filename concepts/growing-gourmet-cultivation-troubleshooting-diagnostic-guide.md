@@ -4,7 +4,7 @@ source: Growing Gourmet and Medicinal Mushrooms (Stamets, 1993)
 concepts: [troubleshooting, contamination, fly-control, agar-culture, grain-spawn]
 ---
 
-# Mushroom Cultivation Troubleshooting — Diagnostic Guide
+## Mushroom Cultivation Troubleshooting — Diagnostic Guide
 
 A systematic approach to diagnosing and resolving failures across the mushroom
 cultivation workflow, drawn from Chapter 25 of *Growing Gourmet and Medicinal

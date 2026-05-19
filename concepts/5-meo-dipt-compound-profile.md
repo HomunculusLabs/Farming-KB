@@ -6,7 +6,7 @@ type: concept
 tags: [chemistry, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 5-MeO-DIPT Compound Profile
+## 5-MeO-DIPT Compound Profile
 
 5-MeO-DIPT (N,N-diisopropyl-5-methoxytryptamine) is a synthetic tryptamine first synthesized by Alexander Shulgin. In TIHKAL it is compound #37. Street names include "Foxy" and "Foxy Methoxy." It was briefly sold legally in the US before being emergency-scheduled in 2003. The compound was co-developed with Michael Carter in England, with whom Shulgin had previously published on [[weil-the-natural-mind-altered-states-normalcy]] at higher doses
 - Combining with MAOIs may dangerously increase potency

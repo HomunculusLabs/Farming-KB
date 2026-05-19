@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Chicken Keeping Basics
+## Chicken Keeping Basics
 
 Backyard chickens are one of the most accessible livestock for homesteaders,
 providing eggs, manure, [[coleman-cold-hardy-varieties]], beautiful plumage.

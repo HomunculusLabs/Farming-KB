@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# When Should I Flush My Cannabis Plants Before Harvest?
+## When Should I Flush My Cannabis Plants Before Harvest?
 
 ## Short Answer
 Flushing cannabis involves giving plants only plain water for the final one to

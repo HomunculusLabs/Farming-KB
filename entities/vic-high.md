@@ -9,7 +9,7 @@ sources:
   - raw/papers/greg-green-the-cannabis-grow-bible.md
 ---
 
-# Vic High
+## Vic High
 
 Vic High is a cannabis breeder and cultivator associated with the BCGA (British Columbia Growers Association), known for his detailed technical writings on creating true-breeding cannabis strains (IBLs — Inbred Lines). His breeding guide was featured in [[greg-green]]'s *The Cannabis Grow Bible*, and his photographs appear throughout the book.
 

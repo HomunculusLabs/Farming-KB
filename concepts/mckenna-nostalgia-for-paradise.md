@@ -7,7 +7,7 @@ tags: [psychedelics, ethnobotany, history]
 sources: [raw/papers/mckenna_t-food_of_the_gods.md]
 ---
 
-# Nostalgia for Paradise
+## Nostalgia for Paradise
 
 Terence McKenna's "Nostalgia for Paradise" thesis proposes that the entirety of human civilization — from the invention of alcohol to the discovery of synthetic drugs — represents an unconscious, centuries-long effort to recapture the lost psychedelic symbiosis of prehistoric humanity. In *Food of the Gods*, McKenna argues that after the dissolution of the original mushroom cult and its partnership model of society, humans replaced the boundary-dissolving hallucinogenic experience with a succession of increasingly inferior substitutes, each one a "paler, more distorted image of the original Mystery than the last."
 

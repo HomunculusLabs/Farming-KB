@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Cannabis and Bacterial Infections (General Overview)
+## Cannabis and Bacterial Infections (General Overview)
 
 ## Overview
 

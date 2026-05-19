@@ -19,7 +19,7 @@ sources:
   - "Kumar, S. et al. (2019). \"Berberine: pharmacology, toxicity, drug delivery.\" Phytomedicine, 62, 152969."
 ---
 
-# Berberine
+## Berberine
 
 ## Overview
 

@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Mixed Orchard Design and Species Selection
+## Mixed Orchard Design and Species Selection
 
 Bill Mollison's [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], pest confusion,
 [[free-range-poultry-forage-design-mollison]], and mulch -- all from

@@ -27,7 +27,7 @@ sources:
 contradictions: []
 ---
 
-# Integrated Homestead Design
+## Integrated Homestead Design
 
 The capstone synthesis of this wiki — how every system on the regenerative homestead connects, feeds, and supports every other. A well-designed homestead is not a collection of independent operations but a closed-loop ecosystem where the output of one system is the input of another. See [[integrated-homestead-annual-calendar]] for the seasonal detail.
 

@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Critique of Western Dietetics and Nutritional Science
+## Critique of Western Dietetics and Nutritional Science
 
 In Chapter 5 of [[fukuoka-natural-farming-philosophy]].
 

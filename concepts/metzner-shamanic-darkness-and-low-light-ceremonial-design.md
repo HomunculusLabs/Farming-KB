@@ -4,7 +4,7 @@ source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 tags: [metzner, shamanism, darkness, low-light, vision, ceremony, entheogenic, ritual-design, sensory-deprivation]
 ---
 
-# Shamanic Darkness and Low-Light Ceremony
+## Shamanic Darkness and Low-Light Ceremony
 
 ## Darkness as a Ceremonial Design Element
 

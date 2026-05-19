@@ -5,7 +5,7 @@ type: concept
 tags: [fukuoka, natural-farming, perennial-rice, rice-cultivation, volunteer-shoots, stubble-regeneration, biennial-crops, no-till]
 ---
 
-# Fukuoka's Discovery of Volunteer Rice Shoots and Perennial Rice Exploration
+## Fukuoka's Discovery of Volunteer Rice Shoots and Perennial Rice Exploration
 
 ## Overview
 

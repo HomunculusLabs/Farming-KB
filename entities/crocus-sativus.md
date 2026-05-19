@@ -22,7 +22,7 @@ sources:
   - "Sampathu, S.R. et al. (2014). Saffron (Crocus sativus L.). In: Handbook of Herbs and Spices (2nd ed.). Woodhead Publishing."
 ---
 
-# Crocus sativus
+## Crocus sativus
 
 **Crocus sativus** is a perennial geophyte in the family **Iridaceae**, widely cultivated for the production of **saffron**, the most expensive spice by weight in global commerce. The species is a sterile triploid (2n = 3x = 24) that cannot reproduce sexually and is propagated exclusively through corm division.
 

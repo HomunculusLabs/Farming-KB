@@ -7,7 +7,7 @@ tags: [fungi, pathogens, troubleshooting, plants, gardening, pest-control, culti
 sources: []
 ---
 
-# Fungal Plant Diseases
+## Fungal Plant Diseases
 
 [[bloomfield-fungal-pathogens-and-parasites]] are among the most common and destructive plant diseases in both home gardens and [[night-break-photoperiodism-manipulation-commercial-agriculture]]. They spread via spores carried by wind, water, insects, and contaminated tools. Most fungal diseases thrive in warm, humid conditions with poor air circulation.
 

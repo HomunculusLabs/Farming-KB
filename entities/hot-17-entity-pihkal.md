@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# HOT-17
+## HOT-17
 
 [[psychedelic-drug-testing-and-adulterant-screening]]. A
 trade off between learning and entertainment. Or between the

@@ -5,7 +5,7 @@ topics: [phototropism, darwin, experimental-design, photobiology, canary-grass, 
 created: 2026-05-09
 ---
 
-# Darwin's Five-Condition Phototropism Experimental Design as a Model for Photobiology
+## Darwin's Five-Condition Phototropism Experimental Design as a Model for Photobiology
 
 ## Overview
 

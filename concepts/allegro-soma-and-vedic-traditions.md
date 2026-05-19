@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Soma and the Vedic Traditions — Mushroom Parallels
+## Soma and the Vedic Traditions — Mushroom Parallels
 
 Allegro draws extensive parallels between the Near Eastern [[mckenna-vedic-soma-indo-european-mysteries]] tradition of India, arguing that both derive from a common proto-Indo-European mushroom religion that spread across Eurasia in prehistoric times.
 

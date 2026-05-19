@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Yage Experience — Soul-Body Dissociation and the Autonomous Self
+## Yage Experience — Soul-Body Dissociation and the Autonomous Self
 
 ## Overview
 

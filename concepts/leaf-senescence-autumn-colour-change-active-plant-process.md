@@ -5,7 +5,7 @@ tags: [plant-senses, senescence, autumn-colours, abscission, chlorophyll, carote
 created: 2026-05-09
 ---
 
-# Leaf Senescence and Autumn Colour Change as Active Plant Process
+## Leaf Senescence and Autumn Colour Change as Active Plant Process
 
 The annual spectacle of autumn foliage is not merely a passive
 consequence of environmental change but an active, genetically

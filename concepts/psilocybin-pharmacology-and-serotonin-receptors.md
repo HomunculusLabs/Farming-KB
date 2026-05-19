@@ -5,7 +5,7 @@ mined: 2026-05-08
 tags: [pharmacology, psilocybin, serotonin, tryptamines, neuroscience, mycology]
 ---
 
-# Psilocybin Pharmacology and Serotonin Receptors
+## Psilocybin Pharmacology and Serotonin Receptors
 
 ## Overview
 

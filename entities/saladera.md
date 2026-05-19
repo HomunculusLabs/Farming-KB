@@ -5,7 +5,7 @@ type: entity
 tags: [folk-illness, culture-bound-syndrome, amazonian-medicine, peruvian-healing, magical-illness]
 ---
 
-# Saladera
+## Saladera
 
 ## Description
 

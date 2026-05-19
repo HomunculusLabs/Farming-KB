@@ -4,10 +4,10 @@ created: 2026-04-28
 tags: [mycology, contamination, sterile-technique, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
+sources: ["raw/papers/unknown-oyster-mushroom-cultivation.md"]
 type: concept
 ---
-# Contamination Prevention in Mycology Contamination is the single greatest challenge in mushroom cultivation. Fungal, bacterial, and viral competitors can destroy entire crops, and the dense, nutrient-rich environments used for mycelial growth are ideal incubation conditions for opportunistic organisms. Prevention through proper technique is far more effective than remediation after contamination occurs. ## Sources of Contamination Contaminants enter cultivation workflows through four primary vectors: **Airborne agar cultures, or liquid cultures that carry hidden contamination introduce it directly into fresh substrate. This is especially insidious because it appears as vigorous growth initially but contaminant organisms outcompete the [[dactylium-cobweb-mold-mushroom-pathogens]] (Dactylium):** A fine, grayish-white mold that resembles
+## Contamination Prevention in Mycology Contamination is the single greatest challenge in mushroom cultivation. Fungal, bacterial, and viral competitors can destroy entire crops, and the dense, nutrient-rich environments used for mycelial growth are ideal incubation conditions for opportunistic organisms. Prevention through proper technique is far more effective than remediation after contamination occurs. ## Sources of Contamination Contaminants enter cultivation workflows through four primary vectors: **Airborne agar cultures, or liquid cultures that carry hidden contamination introduce it directly into fresh substrate. This is especially insidious because it appears as vigorous growth initially but contaminant organisms outcompete the [[dactylium-cobweb-mold-mushroom-pathogens]] (Dactylium):** A fine, grayish-white mold that resembles
 mycelium but grows faster and more wispy. It is common in fruiting chambers
 with high humidity and poor air exchange. It can be treated with a 3% hydrogen
 peroxide spray in early stages.

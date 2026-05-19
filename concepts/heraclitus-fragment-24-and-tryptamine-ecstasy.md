@@ -19,7 +19,7 @@ sources:
 created: 2026-05-07
 ---
 
-# Heraclitus Fragment 24 and the Tryptamine Aeon
+## Heraclitus Fragment 24 and the Tryptamine Aeon
 
 The twenty-fourth fragment of Heraclitus of Ephesus (c. 535 to c. 475 BCE) survives through
 quotation by later authors. In the standard Diels-Kranz numbering (DK B52), it reads: "Aion

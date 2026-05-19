@@ -7,7 +7,7 @@ tags: [knf, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# Fluorescent Insect Attractant (FIA)
+## Fluorescent Insect Attractant (FIA)
 
 The Fluorescent Insect Attractant (FIA) is a passive pest-control device used in [[knf-vegetative-growth-stage]] of leafy vegetables.
 

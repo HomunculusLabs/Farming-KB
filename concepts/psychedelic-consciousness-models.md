@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources: ["raw/papers/the-psilocybin-solution-by-simon-g-powell.md"]
 ---
 
-# Psychedelic Consciousness Models and Information Theory
+## Psychedelic Consciousness Models and Information Theory
 
 The question of what consciousness is and how it relates to physical matter lies at the heart of understanding the [[weil-the-natural-mind-altered-states-normalcy]] of awareness lie in the realm of the intangible mind.
 

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical [[tropical-pasture-grass-forage-species|Grass]] Species
+## Tropical [[tropical-pasture-grass-forage-species|Grass]] Species
 
 Tropical pasture grass species form the foundation of livestock production systems in warm climates. Selecting appropriate grass species based on rainfall, soil type, temperature, and management strategy is essential for sustainable grazing, soil conservation, and integrated agroforestry. This concept covers the major tropical and subtropical pasture grasses, their characteristics, [[mollison-designers-tropical-pasture-grass-species-and-establishment|establishment]] requirements, and companion planting strategies.
 

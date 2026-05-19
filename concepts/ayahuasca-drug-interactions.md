@@ -1,5 +1,10 @@
+---
+title: "Ayahuasca Drug Interactions"
+tags:
+  - concept
+---
 
-# Ayahuasca Drug Interactions
+## Ayahuasca Drug Interactions
 
 Ayahuasca contains monoamine oxidase inhibitors (MAOIs) that can produce dangerous or
 fatal interactions with a wide range of common pharmaceutical medications. These

@@ -7,7 +7,7 @@ tags: [reference]
 sources: []
 ---
 
-# Photosynthesis and the Carbon Cycle in Plants
+## Photosynthesis and the Carbon Cycle in Plants
 
 Photosynthesis is the fundamental biological process by which plants, algae, and certain bacteria convert light energy into chemical energy stored in sugars. Understanding photosynthesis is essential for understanding plant nutrition, growth, and the [[chamovitz-julius-von-sachs-blue-light-phototropism]] (reflects green)
 - **Chlorophyll b:** Accessory pigment; absorbs blue and orange light

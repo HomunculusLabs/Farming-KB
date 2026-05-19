@@ -5,7 +5,7 @@ type: entity
 categories: [concepts, science, ecology, systems-theory]
 ---
 
-# Gaia Hypothesis
+## Gaia Hypothesis
 
 ## Description
 

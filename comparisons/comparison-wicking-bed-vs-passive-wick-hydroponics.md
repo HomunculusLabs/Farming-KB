@@ -10,7 +10,7 @@ sources:
 type: comparison
 ---
 
-# Wicking Bed vs Passive Wick Hydroponics
+## Wicking Bed vs Passive Wick Hydroponics
 
 ## Overview
 

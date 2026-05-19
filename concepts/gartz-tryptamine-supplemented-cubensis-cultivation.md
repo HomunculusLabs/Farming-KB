@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: [mycology, potency, tryptamine, biosynthesis, research]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/tryptamine-cubensis-gartz.md]
+sources: ["raw/papers/tryptamine-cubensis-gartz.md"]
 type: concept
 ---
 
-# Gartz: Tryptamine-Supplemented Cubensis Cultivation
+## Gartz: Tryptamine-Supplemented Cubensis Cultivation
 
 Dr. Jochen Gartz's 1989 paper in *Planta Medica* (Vol. 55, pp. 249-250)
 documented a groundbreaking discovery: supplementing the cultivation substrate

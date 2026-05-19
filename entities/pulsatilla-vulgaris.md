@@ -18,7 +18,7 @@ sources:
     vulgaris." EMA/HMPC/491243/2010.
 ---
 
-# Pulsatilla vulgaris
+## Pulsatilla vulgaris
 
 **Pulsatilla vulgaris**, the pasque flower, is a herbaceous perennial
 in the family Ranunculaceae, native to calcareous grasslands of

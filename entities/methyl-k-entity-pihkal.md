@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# METHYL-K
+## METHYL-K
 
 [[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]] with a mp of 157-158
 deg C. Anal. (C13H20ClNO2) C,H. And this ketone was reductively

@@ -4,7 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# Cannabinoid Isomerization and [[petroleum-ether]] extraction)
+## Cannabinoid Isomerization and [[petroleum-ether]] extraction)
 - Absolute [[acetic-anhydride]]**, a highly dangerous chemical:
 
 - **Flammability:** Fumes from heated acetic anhydride are very flammable

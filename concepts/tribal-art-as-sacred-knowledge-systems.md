@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tribal Art as Sacred Knowledge Systems
+## Tribal Art as Sacred Knowledge Systems
 
 ## Overview
 

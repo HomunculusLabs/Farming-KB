@@ -8,7 +8,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-# Sheet Mulching and Lasagna Gardening
+## Sheet Mulching and Lasagna Gardening
 
 Sheet mulching (also called sheet composting, composting in place, or lasagna gardening) is one of the basics in the ecological gardener's toolkit. It is a method of eradicating weeds and building soil that eliminates herbicides and avoids tilling, both of which rupture soil ecology. Sheet mulching is a variation on nature's way of building soil by accumulating and breaking down organic debris from the top down.
 

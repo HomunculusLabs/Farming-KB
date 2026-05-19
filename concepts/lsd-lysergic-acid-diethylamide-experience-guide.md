@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
-# LSD (Lysergic Acid Diethylamide) Experience Guide
+## LSD (Lysergic Acid Diethylamide) Experience Guide
 
 LSD (D-lysergic acid diethylamide) is a synthetic psychedelic compound derived from lysergic acid, found in Hawaiian Woodrose and [[bloomfield-ergot-claviceps-purpurea-ergotism]]), which grows on rye, wheat, and other grains. Lysergic acid itself is psychoactive, though not nearly as potent as LSD, and has been consumed for millennia in the form of those plant sources. The most common street name is "acid." Turner rates its intensity as 3 to 7 for most experiences.
 

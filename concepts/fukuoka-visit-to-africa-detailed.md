@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# [[comparison-natural-farming-vs-permaculture]]'s ideal: "If the Bushman really led a primitive life and were to practice natural farming, say, I'm certain that there would be a greater abundance of nature around." The Bushman's existence "is nothing of the sort. The nature in the background is just too poor."
+## [[comparison-natural-farming-vs-permaculture]]'s ideal: "If the Bushman really led a primitive life and were to practice natural farming, say, I'm certain that there would be a greater abundance of nature around." The Bushman's existence "is nothing of the sort. The nature in the background is just too poor."
 
 "The land of the Bushman is not a utopia. He lives a life of hardship and scarcity in the midst of an unnatural environment. This is really only an awkward, [[fukuoka-nature-fundamentally-perfect-self-enriching]]. Here are to be found the most exalted truths, the highest good, and the greatest riches. Both spiritually and materially, nature is replete with the greatest possible wealth. Nature is a place where flowers bloom and birds sing, a place of verse and song. Here lies everything. It is a paradise where joy and contentment reign."
 

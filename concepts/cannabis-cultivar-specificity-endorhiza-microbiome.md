@@ -6,7 +6,7 @@ tags: [cannabis, microbiome, endorhiza, cultivar-specificity, endophytes, plant-
 aliases: [Cannabis Endorhiza Specificity, Cultivar-Specific Root Microbiome]
 ---
 
-# Cannabis Cultivar-Specificity in the Endorhiza Microbiome
+## Cannabis Cultivar-Specificity in the Endorhiza Microbiome
 
 One of the most significant findings in [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] ADONIS R² = 0.11, p = 0.25).
 However, when only endorhiza samples were analyzed, strain differentiation became

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Mushroom-Induced Apoptosis Mechanisms in Cancer Cells
+## Mushroom-Induced Apoptosis Mechanisms in Cancer Cells
 
 Apoptosis, or programmed cell death, is a critical mechanism through
 which several [[ganoderma-lucidum]]

@@ -7,7 +7,7 @@ tags: [permaculture, design, workflow, methods, beginner, ecological-design]
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 ---
 
-# Permaculture Design Process
+## Permaculture Design Process
 
 From William Ozier's "William's PDC: A Permaculture Design Course" (2011). There is no one true "design process" -- design is a creative endeavour. However, having a structured process helps beginners and ensures design teams can work together efficiently.
 

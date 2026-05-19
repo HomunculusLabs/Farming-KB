@@ -32,7 +32,7 @@ related_concepts:
   - edible-wild-mushrooms-foraging-guide
 ---
 
-# Mushroom Foraging Safety and Toxicology
+## Mushroom Foraging Safety and Toxicology
 
 Mushroom foraging is a rewarding pursuit that connects practitioners with the
 natural world, but it carries inherent risks that demand rigorous knowledge and

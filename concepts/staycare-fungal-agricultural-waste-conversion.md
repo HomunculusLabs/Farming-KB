@@ -8,7 +8,7 @@ sources:
   - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 ---
 
-# Fungal Conversion of Agricultural Wastes
+## Fungal Conversion of Agricultural Wastes
 
 Fungi play a central role in converting agricultural and agro-industrial by-products into valuable products through [[aspergillus-niger-in-fungal-bioleaching]] secrete considerable quantities of amylases used extensively in the fermentation industry. A. oryzae is a commercial source of alpha-amylase and glucoamylase used for producing high-glucose syrups. A. foetidus produces high levels of extracellular alpha-amylase from rice starch and can treat starch-containing wastewaters.
 

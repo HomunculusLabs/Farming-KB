@@ -9,7 +9,7 @@ type: concept
 tags: [cultivation, medicine, mushroom-cultivation, oyster-mushroom]
 ---
 
-# Gourmet and Medicinal Mushroom Oyster Cultivation Methods
+## Gourmet and Medicinal Mushroom Oyster Cultivation Methods
 
 [[growing-gourmet-mushrooms-biological-efficiency-yield-metrics]] to cultivate. Few other mushrooms demonstrate such adaptability, aggressiveness, and productivity. They grow on a wider array of forest and agricultural wastes than any other mushroom group and can serve to reduce hunger in developing nations while revitalizing rural economies. Worldwide production surged from 169,000 metric tons in 1987 to 909,000 in 1990.
 

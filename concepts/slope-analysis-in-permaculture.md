@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Slope Analysis in Permaculture
+## Slope Analysis in Permaculture
 
 Slope, aspect, elevation, and orientation are critical landscape factors that modify and refine the basic zone-and-sector framework in [[slope-analysis-landscape-planning]]
 - [[slope-aspect-elevation-orientation]]

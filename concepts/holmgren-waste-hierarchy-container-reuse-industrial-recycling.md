@@ -5,7 +5,7 @@ author: David Holmgren
 topics: [permaculture, waste, recycling, circular-economy, industrial-design, containers, reuse]
 ---
 
-# Waste as Potential Abundance — Container Reuse, Industrial Recycling, and Upstream Redesign
+## Waste as Potential Abundance — Container Reuse, Industrial Recycling, and Upstream Redesign
 
 In his elaborati [[fukuoka-textdoc-errors-of-human-intellect]] man activity b [[fungal-industrial-wastewater-treatment]] goes well beyond the
 familiar waste hierarchy to examine specific industrial [[psilocybin-logos-consciousness]] he radical potential of upstream redesign.

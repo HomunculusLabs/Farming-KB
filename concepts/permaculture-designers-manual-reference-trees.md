@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, food-forest, orchard]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Reference Trees and Plant Species
+## Reference Trees and Plant Species
 **Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
 **Updated:** 2026-04-18
 ## Overview

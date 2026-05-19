@@ -5,7 +5,7 @@ created: 2026-05-11
 tags: [mycology, mushroom-hormone, gill, tropism, geotropism, basidiocarp, psilocybe, lamellae, decapitation]
 ---
 
-# Mushroom Hormones and Gill-Directed Tropism
+## Mushroom Hormones and Gill-Directed Tropism
 
 ## Overview
 

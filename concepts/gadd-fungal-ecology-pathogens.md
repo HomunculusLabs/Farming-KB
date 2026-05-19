@@ -8,7 +8,7 @@ tags: [ecology, fungi]
 updated: 2026-04-26
 ---
 
-# Fungal Ecology -- Plant Pathogens
+## Fungal Ecology -- Plant Pathogens
 
 ## Overview
 

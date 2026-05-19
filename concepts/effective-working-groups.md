@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Effective Working Groups
+## Effective Working Groups
 
 > Large boards and assemblies are the refuge of the incompetent; small, responsible groups are the vehicle of the effective.
 

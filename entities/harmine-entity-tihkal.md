@@ -6,7 +6,7 @@ type: entity
 tags: [psychedelics]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# Harmine (7-Methoxy-beta-Carboline)
+## Harmine (7-Methoxy-beta-Carboline)
 
 TIHKAL entry #14. A [[beta-carboline]] alkaloid and monoamine oxidase inhibitor found in [[golden-guide-syrian-rue-and-maoi-plants]]) [[ayahuasca-and-banisteriopsis-caapi]] (ayahuasca). Once known as "banisterine" or "telepathine," harmine was briefly celebrated as a wonder drug for Parkinson's disease in the late 1920s before falling out of favor. It is a more effective facilitator of oral DMT activity than harmaline, as it is substantially without action at effective MAOI doses.
 

@@ -15,7 +15,7 @@ type: concept
 created: 2026-04-28
 ---
 
-# Mushroom Culture Slant Preservation and Cryogenic Storage
+## Mushroom Culture Slant Preservation and Cryogenic Storage
 
 Every [[growing-gourmet-stamets-p-value-strain-age-system]] of each slant to know its generational age
 5. Use the oldest slants first for working cultures, preserving the youngest for archival purposes

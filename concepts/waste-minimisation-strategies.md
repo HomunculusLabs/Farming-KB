@@ -4,7 +4,7 @@ source: david-holmgren-permaculture-principles-pathways-beyon.md
 type: concept
 ---
 
-# Waste Minimisation Strategies
+## Waste Minimisation Strategies
 
 ## Waste as Potential Abundance
 

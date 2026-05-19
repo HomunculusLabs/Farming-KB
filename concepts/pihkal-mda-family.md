@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# MDA Family — Empathogenic Phenethylamines from PIHKAL
+## MDA Family — Empathogenic Phenethylamines from PIHKAL
 
 The MDxx family represents the most culturally significant group of
 compounds from [[tihkal-shulgin-rating-scale]]:** +++

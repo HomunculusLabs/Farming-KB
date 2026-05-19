@@ -6,7 +6,7 @@ tags: [intensive-cropping, double-cropping, greenhouse, productivity, succession
 created: 2026-05-09
 ---
 
-# Intensive Cropping and Double Cropping for Greenhouse Productivity
+## Intensive Cropping and Double Cropping for Greenhouse Productivity
 
 ## Overview
 

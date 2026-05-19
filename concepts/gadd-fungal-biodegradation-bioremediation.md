@@ -8,7 +8,7 @@ tags: [fungi, pollution]
 updated: 2026-04-26
 ---
 
-# Fungal Biodegradation and Bioremediation
+## Fungal Biodegradation and Bioremediation
 
 ## Overview
 

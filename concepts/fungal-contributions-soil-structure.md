@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi, soil-structure, aggregates, glomalin]
 sources: []
 ---
-# Fungal Contributions to Soil Structure
+## Fungal Contributions to Soil Structure
 
 ## Overview
 

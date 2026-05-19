@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Schizophyllan Research
+## Schizophyllan Research
 
 Schizophyllan (also known as Sonifilan, SPG, or Sizofiran) is a β-(1→3)-D-glucan with β-(1→6) branches produced by the fungus [[psk-psp-polysaccharide-peptides]].
 

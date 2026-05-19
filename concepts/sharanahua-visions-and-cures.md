@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Sharanahua Visions and Cures
+## Sharanahua Visions and Cures
 
 The Sharanahua are closely related neighbors of the Cashinahua in the Upper Amazon, sharing many aspects of Banisteriopsis-based ayahuasca practice while exhibiting distinct cultural patterns in how hallucinogenic experiences are structured, shared, and therapeutically applied. Anthropologist Janet Siskind's research among the Sharanahua provides important insights into the relationship between cultural factors and the content of hallucinatory experiences.
 

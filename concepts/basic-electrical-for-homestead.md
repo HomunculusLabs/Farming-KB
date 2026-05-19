@@ -7,7 +7,7 @@ tags: [homesteading, equipment, engineering, safety, construction]
 sources: []
 ---
 
-# Basic Electrical for Homestead
+## Basic Electrical for Homestead
 
 Electrical work on a homestead ranges from wiring a simple shed to installing a full residential service panel. Electricity is the most dangerous system a homeowner can work with — mistakes cause fires, electrocution, and death. This page covers wiring fundamentals, circuit basics, outlet installation, GFCI protection, and critical safety guidelines. It also covers when to hire a licensed electrician.
 

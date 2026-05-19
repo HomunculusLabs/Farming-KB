@@ -4,7 +4,7 @@ source: harner-j-hallucinogens-and-shamanism.md
 type: concept
 ---
 
-# Ayahuasca Divination — Seeing Crime, Witchcraft, and Disease Causation
+## Ayahuasca Divination — Seeing Crime, Witchcraft, and Disease Causation
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# Fine Red Clay Powder Method (JADAM Technique)
+## Fine Red Clay Powder Method (JADAM Technique)
 
 ## Overview
 

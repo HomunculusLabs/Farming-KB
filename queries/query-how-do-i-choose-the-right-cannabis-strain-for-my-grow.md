@@ -8,7 +8,7 @@ sources: []
 type: query
 ---
 
-# How Do I Choose the Right Cannabis Strain for My Grow?
+## How Do I Choose the Right Cannabis Strain for My Grow?
 
 ## Short Answer
 Choosing the right cannabis strain involves evaluating your grow environment,

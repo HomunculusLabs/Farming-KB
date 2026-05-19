@@ -15,7 +15,7 @@ sources:
   - "raw/papers/2-laminar-flow-hood-construction.md"
 ---
 
-# Sterilization
+## Sterilization
 
 Sterilization is the process of completely eliminating all viable microorganisms, including bacteria, fungi (yeasts and molds), [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]].
 

@@ -20,7 +20,7 @@ sources:
   - Tanner, J.L. et al. (2019). "Phytochemistry and pharmacology of Pueraria." Journal of Ethnopharmacology.
 ---
 
-# Pueraria montana (Kudzu)
+## Pueraria montana (Kudzu)
 
 ## Overview
 

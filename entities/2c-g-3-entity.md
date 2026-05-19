@@ -6,7 +6,7 @@ type: methyl-k-entity-pihkal
 tags: [chemistry, tihkal, 2c-family]
 sources: []
 ---
-# 2C-G-3
+## 2C-G-3
 
 **[[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] from 4-indanol:
 

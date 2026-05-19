@@ -7,7 +7,7 @@ created: 2026-05-09
 tags: [neurotropic-fungi, caribbean, biogeography, guzman, species-checklist, psilocybe, copelandia, panaeolus, claviceps, island-distribution]
 ---
 
-# Caribbean Neurotropic Fungi Species Distribution
+## Caribbean Neurotropic Fungi Species Distribution
 
 ## Overview
 

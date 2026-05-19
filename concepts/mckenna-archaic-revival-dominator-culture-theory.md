@@ -4,7 +4,7 @@ source: mckenna_t-food_of_the_gods.md
 type: concept
 ---
 
-# McKenna's Archaic Revival and Dominator Culture Theory
+## McKenna's Archaic Revival and Dominator Culture Theory
 
 In *Food of the Gods*, [[terence-mckenna]] presents a sweeping theory of human cultural evolution organized around a central dichotomy: the **partnership society** (Archaic, goddess-worshipping, plant-using) versus the **dominator society** (patriarchal, hierarchical, alcohol-fueled). This framework explains the historical suppression of visionary plants and the rise of what McKenna called "pathological monotheism."
 

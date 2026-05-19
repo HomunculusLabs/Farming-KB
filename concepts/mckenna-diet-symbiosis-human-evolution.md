@@ -13,7 +13,7 @@ sources:
   - "Food of the Gods, Ch. 2: Magic in Food (Terence McKenna)"
 ---
 
-# McKenna's Diet Symbiosis and Human Evolution
+## McKenna's Diet Symbiosis and Human Evolution
 
 ## Overview
 

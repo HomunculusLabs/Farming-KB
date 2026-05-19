@@ -5,7 +5,7 @@ type: entity
 tags: [person, translator, mazatec, huautla, linguist, ethnographic-collaborator]
 ---
 
-# Eloina Estrada de Gonzalez
+## Eloina Estrada de Gonzalez
 
 ## Description
 

@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Herb Spiral vs Keyhole Beds
+## Herb Spiral vs Keyhole Beds
 
 ## Overview
 The herb spiral is a vertical, spiral-shaped garden bed that creates multiple

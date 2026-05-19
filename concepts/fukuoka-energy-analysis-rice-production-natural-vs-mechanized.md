@@ -4,7 +4,7 @@ source: masanobu-fukuoka-the-natural-way-of-farming-the-theory
 topics: energy-efficiency, mechanization, rice-production, agricultural-economics, natural-farming
 ---
 
-# Energy Analysis of Rice Production Methods
+## Energy Analysis of Rice Production Methods
 
 ## Table 1.1: The Core Data
 

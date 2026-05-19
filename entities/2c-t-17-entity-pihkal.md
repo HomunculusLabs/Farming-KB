@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# 2C-T-17 (NIMITZ)
+## 2C-T-17 (NIMITZ)
 
 [[optical-isomers-psychedelic-phenethylamines]] from that which has been reported with the racemic? There certainly is for the first step, since the butyl alcohols rather than the butyl bromides must be used, and this first step must go by inversion, and it cannot be allowed any racemization (loss of the optical purity of the chiral center).
 

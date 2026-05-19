@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Motivational Sessions for Trainees
+## Motivational Sessions for Trainees
 
 Motivational sessions are a core component of the Three-in-One training
 approach for [[training-program-mushroom-cultivation]]

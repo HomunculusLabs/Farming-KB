@@ -7,7 +7,7 @@ tags: [construction, permaculture, homesteading, sustainability, design, enginee
 sources: []
 ---
 
-# Cob Building Basics Detailed
+## Cob Building Basics Detailed
 
 Cob is a natural building material made from subsoil, sand, straw, and water. Mixed by foot on a tarp and applied in thick layers by hand, cob creates monolithic walls that are sculptural, incredibly durable, and made from materials found on most homestead sites. Cob buildings have survived for hundreds of years in England, Yemen, and other regions with wet climates.
 

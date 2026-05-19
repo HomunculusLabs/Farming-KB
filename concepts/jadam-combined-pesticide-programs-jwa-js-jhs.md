@@ -8,7 +8,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
 
-# JADAM Combined Pesticide Programs with JWA, JS, and JHS
+## JADAM Combined Pesticide Programs with JWA, JS, and JHS
 
 The [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA)** is the foundation of all JADAM pesticide
 mixtures. It is a natural surfactant made from canola oil and potassium

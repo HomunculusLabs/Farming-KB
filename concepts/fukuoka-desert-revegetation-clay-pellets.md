@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Desert Revegetation with Clay Pellets
+## Desert Revegetation with Clay Pellets
 
 [[fukuoka-textdoc-greening-deserts-plant-irrigation]] by scattering seeds
 encased in clay pellets from airplanes. His approach inverts conventional

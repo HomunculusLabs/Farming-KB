@@ -5,7 +5,7 @@ source_id: "oner-cannabis-sativa-vol3"
 topics: [cannabis, sativa, strain-profile, subcool, breeding, thcv, cannabis-genetics]
 ---
 
-# Jack the Ripper: Jack's Cleaner × Space Queen
+## Jack the Ripper: Jack's Cleaner × Space Queen
 
 ## Overview
 

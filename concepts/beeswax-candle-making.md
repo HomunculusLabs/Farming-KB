@@ -1,4 +1,8 @@
-# Beeswax Candle Making
+---
+title: "Beeswax Candle Making"
+tags:
+  - concept
+---
 
 ## Overview
 

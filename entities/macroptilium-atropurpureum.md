@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: entity
 ---
 
-# Macroptilium atropurpureum (Siratro)
+## Macroptilium atropurpureum (Siratro)
 
 ## Description
 

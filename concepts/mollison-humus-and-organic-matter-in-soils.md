@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Humus and Organic Matter in Permaculture Soils
+## Humus and Organic Matter in Permaculture Soils
 
 Mollison treats humus as the foundation of soil health, structure, and
 fertility. Understanding the role of organic matter in soils is essential

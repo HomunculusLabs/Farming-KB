@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Fungal Pathogenesis and *Candida albicans*
+## Fungal Pathogenesis and *Candida albicans*
 
 ## Overview
 

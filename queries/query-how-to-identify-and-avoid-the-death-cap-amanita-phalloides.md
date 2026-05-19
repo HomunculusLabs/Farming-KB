@@ -9,7 +9,7 @@ sources:
 type: query
 ---
 
-# How to Identify and Avoid the Death Cap (Amanita phalloides)
+## How to Identify and Avoid the Death Cap (Amanita phalloides)
 
 ## Short Answer
 The death cap (Amanita phalloides) is responsible for the majority of fatal mushroom poisonings worldwide, containing amatoxins that destroy the liver and kidneys even when consumed in small amounts.

@@ -7,7 +7,7 @@ tags: [mycorrhizal, fungi, symbiosis, biology]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# [[lichenicolous-fungi]]), adding further complexity to lichen community dynamics.
+## [[lichenicolous-fungi]]), adding further complexity to lichen community dynamics.
 
 ## Lichens as Soil Formers and Stabilizers
 

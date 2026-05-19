@@ -8,7 +8,7 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] to elaborate sexual cycles involving pheromone communication between mating partners. Chapter 7 of "Mr. Bloomfield's Orchard" explores the mechanisms of [[plants-of-the-gods-chemical-structures-hallucinogens]] of antheridiol and oogoniol are very similar to estrogen, progesterone, and testosterone — remarkable given the evolutionary distance between water molds and animals. All are ring-shaped lipids called steroids.
+## [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] to elaborate sexual cycles involving pheromone communication between mating partners. Chapter 7 of "Mr. Bloomfield's Orchard" explores the mechanisms of [[plants-of-the-gods-chemical-structures-hallucinogens]] of antheridiol and oogoniol are very similar to estrogen, progesterone, and testosterone — remarkable given the evolutionary distance between water molds and animals. All are ring-shaped lipids called steroids.
 
 ### John Raper's Discoveries
 

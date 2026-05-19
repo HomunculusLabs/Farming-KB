@@ -5,7 +5,7 @@ type: entity
 tags: [turf-disease, fungal-pathogen, sclerophthora, oomycete, compost-tea]
 ---
 
-# Downy Mildew (Turf)
+## Downy Mildew (Turf)
 
 ## Description
 

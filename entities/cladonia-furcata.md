@@ -15,7 +15,7 @@ sources:
   - Nimis PL, Martellos S (2017). ITALIC – The Information System on Italian Lichens. University of Trieste.
 ---
 
-# Cladonia furcata
+## Cladonia furcata
 
 ## Overview
 

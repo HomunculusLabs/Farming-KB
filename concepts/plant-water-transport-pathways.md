@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Plant Water Transport Pathways
+## Plant Water Transport Pathways
 
 Water is the foundation of plant life, and plants have evolved sophisticated systems to capture, transport, and utilize it. The movement of water through a plant involves multiple mechanisms operating simultaneously, from initial uptake at the roots to final delivery at the leaves. Understanding these pathways is essential for grasping how nutrients reach every cell in the plant.
 

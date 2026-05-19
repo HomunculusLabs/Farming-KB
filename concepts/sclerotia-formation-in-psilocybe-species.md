@@ -5,7 +5,7 @@ tags: [mycology, sclerotia, psilocybe, mushroom-cultivation, truffle, conservati
 created: 2026-05-09
 ---
 
-# Sclerotia Formation in Psilocybe Species
+## Sclerotia Formation in Psilocybe Species
 
 Sclerotia (singular: sclerotium) are dense, hardened masses of mycelium that
 serve as survival structures in certain fungi. In the genus *Psilocybe*,

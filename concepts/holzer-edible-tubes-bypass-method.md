@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
 type: concept
 ---
 
-# Holzer Edible Tubes and Bypass Method - Urban Growing in Small Spaces
+## Holzer Edible Tubes and Bypass Method - Urban Growing in Small Spaces
 
 The edible tubes and bypass method is a creative solution for growing food in
 confined urban spaces: on walls, balconies, around telegraph poles, and in

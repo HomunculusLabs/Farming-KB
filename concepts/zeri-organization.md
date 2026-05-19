@@ -7,7 +7,7 @@ tags: [organization, ecosystem, regenerative]
 sources: [raw/papers/fungi-magazine-fungi-and-sustainability.md]
 ---
 
-# Zero Emissions Research and Initiatives (ZERI)
+## Zero Emissions Research and Initiatives (ZERI)
 
 ## Overview
 

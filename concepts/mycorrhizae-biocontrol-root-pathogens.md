@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizae as Biocontrol Agents Against Root Pathogens
+## Mycorrhizae as Biocontrol Agents Against Root Pathogens
 
 ## Overview
 

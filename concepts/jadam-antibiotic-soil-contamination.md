@@ -7,7 +7,7 @@ tags: [jadam, natural-farming]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
-# JADAM Antibiotic Contamination and Soil Health Crisis
+## JADAM Antibiotic Contamination and Soil Health Crisis
 
 JADAM identifies the contamination of soil by antibiotics from [[growing-root-vegetables-guide]] (potatoes, carrots, radish) that come into direct contact with soil were far more vulnerable to antibiotic contamination
 - The implications extend beyond soil health to food safety and consumer health

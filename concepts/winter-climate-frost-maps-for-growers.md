@@ -4,7 +4,7 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-# Winter Climate and Frost Maps for Growers
+## Winter Climate and Frost Maps for Growers
 
 Understanding winter climate is essential for planning protected cultivation systems. A single metric like USDA hardiness zone is insufficient — winter severity is multidimensional, encompassing minimum temperatures, duration of cold, frost depth, and summer heat extremes that affect greenhouse management. [[eliot-coleman]] provides a framework of four complementary climate maps that together give growers a much more complete picture of their winter growing conditions than any single map can provide.
 

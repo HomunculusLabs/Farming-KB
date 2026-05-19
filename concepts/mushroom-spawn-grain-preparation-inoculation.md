@@ -4,11 +4,11 @@ created: 2026-04-28
 tags: mycology, spawn, grain, inoculation, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
 type: concept
 ---
 
-# Mushroom Spawn Grain Preparation and Inoculation
+## Mushroom Spawn Grain Preparation and Inoculation
 
 Spawn is the living [[accessible-mushroom-cultivation-for-disabilities]], spawn is analogous to seeds in plant agriculture. It
 is the inoculum that introduces the target fungus into a nutritious substrate.

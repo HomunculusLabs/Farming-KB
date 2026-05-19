@@ -27,7 +27,7 @@ sources:
 - concepts/straw-cultivation-methods.md
 ---
 
-# Mushroom Cultivation Methods Comparison
+## Mushroom Cultivation Methods Comparison
 
 Mushroom cultivation methods range from simple outdoor beds requiring no equipment to sterile indoor techniques demanding precision and investment. The right method depends on your species of interest, budget, available space, and skill level. This comparison covers eight major approaches synthesized from [[pf-tek]], [[monotub-cultivation]], [[outdoor-mushroom-bed]], [[outdoor-wood-lover-cultivation]], [[mushroom-substrates]], [[mushroom-log-cultivation]], and [[straw-cultivation-methods]].
 

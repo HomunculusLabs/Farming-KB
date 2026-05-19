@@ -7,7 +7,7 @@ tags: [soil, organic, gardening, soil-building, cultivation, techniques, no-till
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Garden Bed Preparation
+## Garden Bed Preparation
 
 ## Overview
 

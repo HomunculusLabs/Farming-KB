@@ -13,7 +13,7 @@ sources:
   - Masanobu Fukuoka (1985). "The Natural Way of Farming: The Theory and Practice of Green Philosophy." Japan Publications.
 ---
 
-# Mahayana Natural Farming
+## Mahayana Natural Farming
 
 ## Overview
 

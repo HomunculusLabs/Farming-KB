@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon
 tags: [vegetable, nutrient, demand, fertility, soil, gardening, solomon, spacing, NPK, crop-planning]
 ---
 
-# Vegetable Nutrient Demand Categories: Low, Medium, and High Fertility Requirements
+## Vegetable Nutrient Demand Categories: Low, Medium, and High Fertility Requirements
 
 ## Overview
 

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Psilocybin Mushroom Drying and Storage Methods
+## Psilocybin Mushroom Drying and Storage Methods
 
 Proper drying and storage of [[ghouled-field-guide-historical-context]] to the Psilocybin Mushroom* provided some of the earliest
 practical advice on this topic, making claims about decades-long potency

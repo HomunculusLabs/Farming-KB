@@ -10,7 +10,7 @@ sources:
 updated: 2026-04-26
 ---
 
-# Water Cycle Management
+## Water Cycle Management
 
 Water cycle management is one of the four [[savory-holistic-resource-management-animal-impact]] Management. The difference between an effective and noneffective water cycle often determines whether land is productive or desertifying, whether communities thrive or collapse.
 

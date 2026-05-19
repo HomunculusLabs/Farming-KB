@@ -8,7 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Bioaugmentation Versus Biostimulation in Fungal Bioremediation
+## Bioaugmentation Versus Biostimulation in Fungal Bioremediation
 
 Two major biological strategies are employed to increase the
 effectiveness of microbial bioremediation in [[fukuoka-relative-merits-natural-scientific-agriculture]] and limitations of each

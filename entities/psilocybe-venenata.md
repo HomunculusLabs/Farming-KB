@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Psilocybe venenata
+## Psilocybe venenata
 
 **Psilocybe venenata** is a psilocybin-containing mushroom species originally described from Japan. Despite its specific epithet, which means "poisonous" in Latin, the species is classified among the psychoactive *Psilocybe* mushrooms and is not considered lethally toxic. It is a relatively obscure species that has received limited attention in the mycological and ethnopharmacological literature.
 

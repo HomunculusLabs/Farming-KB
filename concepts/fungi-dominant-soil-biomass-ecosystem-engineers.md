@@ -19,7 +19,7 @@ sources:
 type: concept
 ---
 
-# Fungi as Dominant Soil Biomass and Ecosystem Engineers
+## Fungi as Dominant Soil Biomass and Ecosystem Engineers
 Fungi constitute the dominant living biomass in soil ecosystems, exceeding the
 combined mass of all other soil organisms in most terrestrial environments.
 This quantitative dominance translates into enormous functional significance, as

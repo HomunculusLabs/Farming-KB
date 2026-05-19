@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# Fukuoka Pest Balance Without Chemicals
+## Fukuoka Pest Balance Without Chemicals
 
 Updated: 2026-04-19
 

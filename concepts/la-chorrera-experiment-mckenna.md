@@ -8,7 +8,7 @@ sources: [raw/papers/mckenna_t-food_of-the_gods.md]
 type: concept
 ---
 
-# La Chorrera Experiment McKenna
+## La Chorrera Experiment McKenna
 
 ## Overview
 

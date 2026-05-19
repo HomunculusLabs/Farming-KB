@@ -1,4 +1,8 @@
-# Lycoperdonosis: Puffball Spore Inhalation Respiratory Illness
+---
+title: "Lycoperdonosis: Puffball Spore Inhalation Respiratory Illness"
+tags:
+  - concept
+---
 
 ## Overview
 

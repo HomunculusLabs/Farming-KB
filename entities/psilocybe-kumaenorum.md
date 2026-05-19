@@ -5,10 +5,10 @@ type: species
 tags: [psilocybin-mushroom, papua-new-guinea, entheogenic, agaricales, tropical]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
+sources: ["raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md"]
 ---
 
-# Psilocybe kumaenorum
+## Psilocybe kumaenorum
 
 **Psilocybe kumaenorum** is a [[psilocin]], based on its classification within the psychoactive Psilocybe group and the characteristic [[singh-fungal-laccase-enzymes-bioremediation]], producing blue-colored quinone polymers. This reaction is shared by virtually all psychoactive Psilocybe species and serves as the primary field indicator of psychoactive alkaloid content.
 

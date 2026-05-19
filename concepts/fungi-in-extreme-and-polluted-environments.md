@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Fungi in Extreme and Polluted Environments
+## Fungi in Extreme and Polluted Environments
 
 ## Overview
 

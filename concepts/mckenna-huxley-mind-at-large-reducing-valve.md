@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Huxley Mind at Large and the Reducing Valve Theory
+## Huxley Mind at Large and the Reducing Valve Theory
 
 ## Overview
 

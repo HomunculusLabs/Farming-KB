@@ -5,7 +5,7 @@ tags: [mycology, fungi, bloomfield, spore-discharge, ballistospore, bullers-drop
 created: 2026-05-11
 ---
 
-# Ingold, Buller, and the Physics of Fungal Spore Discharge
+## Ingold, Buller, and the Physics of Fungal Spore Discharge
 
 The mechanisms by which fungi launch their spores into the air represent some
 of the most remarkable feats of biological engineering. In *Mr. Bloomfield's

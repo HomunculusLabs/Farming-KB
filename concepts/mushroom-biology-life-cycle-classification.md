@@ -4,7 +4,7 @@ source: unknown-oyster-mushroom-cultivation.md
 topics: [mushroom, mycology, fungi, life-cycle, basidiomycota, pleurotus]
 ---
 
-# Mushroom Biology: Life Cycle and Classification
+## Mushroom Biology: Life Cycle and Classification
 
 ## From the Mushroom Growers' Handbook 1: Oyster Mushroom Cultivation
 

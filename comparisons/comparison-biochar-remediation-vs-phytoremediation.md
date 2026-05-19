@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# [[phytostabilization]]**: Plants reduce contaminant mobility through
+## [[phytostabilization]]**: Plants reduce contaminant mobility through
   root binding and soil stabilization.
 - **[[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]],
   PAHs, pesticides, petroleum hydrocarbons).

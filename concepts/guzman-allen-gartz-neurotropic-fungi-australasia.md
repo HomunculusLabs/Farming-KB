@@ -17,7 +17,7 @@ sources:
 type: concept
 ---
 
-# [[psilocybe-semilanceata]]** — the "[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], far from its European center of distribution, is biogeographically significant.
+## [[psilocybe-semilanceata]]** — the "[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], far from its European center of distribution, is biogeographically significant.
 - **[[claviceps-purpurea]]
 ## Practical Applications
 

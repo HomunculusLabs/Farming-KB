@@ -6,7 +6,7 @@ type: concept
 tags: [HPLC, psilocybin, psilocin, analytical-chemistry, chromatography, quantification, mushroom-analysis, extraction, TLC]
 sources: [raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md]
 ---
-# HPLC Analysis of [[cannabis-harvest-timing-visual-cues]] are unknown
+## HPLC Analysis of [[cannabis-harvest-timing-visual-cues]] are unknown
 - **Storage history**: Improper drying, storage temperature, and age all affect alkaloid content
 - **Adulteration**: Street samples may contain other species or contaminants
 - **Sample preparation**: Grinding homogenizes the material but may introduce heat that degrades psilocin

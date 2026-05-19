@@ -4,7 +4,7 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-# Chitting and Presprouting Seeds
+## Chitting and Presprouting Seeds
 
 Chitting is the practice of presprouting seeds before planting them — initiating the germination process under ideal conditions, then placing the sprouted seed into the garden. This technique eliminates many germination failures, reveals dead seed before you waste garden space on it, and can shave days off the time to emergence. It is especially valuable for large-seeded crops planted early in soil that is not yet quite warm enough.
 

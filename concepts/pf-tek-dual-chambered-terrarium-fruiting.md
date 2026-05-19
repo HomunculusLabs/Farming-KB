@@ -1,4 +1,8 @@
-# PF TEK: Dual Chambered Terrarium Fruiting
+---
+title: "PF TEK: Dual Chambered Terrarium Fruiting"
+tags:
+  - concept
+---
 
 ## Overview
 

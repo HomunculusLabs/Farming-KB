@@ -5,7 +5,7 @@ type: entity
 tags: [crustacean, aquaculture, freshwater, crayfish, permaculture]
 ---
 
-# Cambarus clarkii (Red Swamp Crayfish)
+## Cambarus clarkii (Red Swamp Crayfish)
 
 ## Description
 *Cambarus clarkii* (also referred to as *Procambarus clarkii* in modern taxonomy), the red swamp crayfish, is a freshwater crustacean native to the southeastern United States. It is one of the most commercially important crayfish species worldwide and is widely cultured in rice paddy systems, particularly in Asia. In [[permaculture-design]], crayfish serve as both a protein crop and a benthic detritivore in integrated pond systems.

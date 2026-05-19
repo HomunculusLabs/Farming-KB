@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-# Four Types of Diet in Fukuoka's Natural Philosophy
+## Four Types of Diet in Fukuoka's Natural Philosophy
 
 ## Overview
 

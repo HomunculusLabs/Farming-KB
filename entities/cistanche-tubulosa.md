@@ -28,7 +28,7 @@ sources:
   - Hooper D, Field D. (2005). "Desert plants and their ethnobotanical uses in Xinjiang." Economic Botany, 59(3), 263–272.
 ---
 
-# Cistanche tubulosa
+## Cistanche tubulosa
 
 ## Overview
 

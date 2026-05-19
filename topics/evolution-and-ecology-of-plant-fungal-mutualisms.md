@@ -20,7 +20,7 @@ related_concepts:
   - "fungal-decomposition-and-the-global-carbon-cycle"
 ---
 
-# The Evolution and Ecology of Plant-Fungal Mutualisms
+## The Evolution and Ecology of Plant-Fungal Mutualisms
 
 More than 450 million years ago, before dinosaurs, before flowering plants, and
 long before the first soils as we know them formed, a profound partnership began

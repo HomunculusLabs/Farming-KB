@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Molecules of Life in Plants
+## Molecules of Life in Plants
 
 Plants are autotrophic organisms—they synthesize everything they need to grow, sustain themselves, and reproduce from just seventeen essential nutrient elements, water, carbon dioxide, and sunlight. About 80% of the molecules in a plant are imported ions and water; the remaining 20% are synthesized molecules—the **molecules of life**. These fall into four categories: carbohydrates, proteins, lipids, and nucleic acids. From these building blocks, plant cells create the enormous diversity of compounds that make up a living organism.
 

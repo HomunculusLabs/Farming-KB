@@ -10,7 +10,7 @@ sources:
 type: query
 ---
 
-# How to Start a Backyard Chicken Flock
+## How to Start a Backyard Chicken Flock
 
 ## Short Answer
 Starting a backyard chicken flock requires choosing the right breed for your climate and goals, providing secure housing with protection from predators, ensuring daily access to feed, water, and grit, and understanding local ordinances regarding poultry. Chickens are one of the most rewarding and productive livestock for small-scale homesteads, providing eggs, manure for the garden, and [[mollison-animal-integration-permaculture-design]] to their property, chickens offer the lowest barrier to entry of any livestock species. They are small, relatively quiet, and can be contained in a modest backyard space. Their feed conversion efficiency is good compared to other meat animals, and their daily egg production provides an immediate, tangible return on your investment of time and money. Unlike larger livestock, chickens do not require specialized fencing beyond basic predator protection, and most of their dietary needs can be met through a combination of commercial layer feed and free-range foraging. Their manure, when properly composted, is one of the most valuable soil amendments available, closing the nutrient loop between garden and animals in a way that exemplifies [[chicken-tractor-systems]] offer an alternative approach where a mobile coop is moved regularly across pasture or garden beds, giving chickens fresh forage while fertilizing the soil beneath them. This integrates well with [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] in dust bathing areas helps control external parasites, and apple cider vinegar in drinking water at a rate of one tablespoon per gallon supports digestive health.

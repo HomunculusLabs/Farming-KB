@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Grass Seed Substrate Preparation for Mycological Cultivation
+## Grass Seed Substrate Preparation for Mycological Cultivation
 
 Grass seed substrate is a widely used medium for cultivating a variety of fungal species, particularly those in the genera Psilocybe and Panaeolus. The method offers a straightforward, cost-effective approach that balances nutritional content with ease of preparation, making it accessible to both novice and experienced cultivators. The technique was popularised in the mycological cultivation community for its reliability and the widespread availability of its core ingredient.
 

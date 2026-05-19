@@ -7,7 +7,7 @@ source: marijuana-horticulture-cervantes.md
 tags: [cannabis, contamination, mold, pesticide, medical, prevention, quality]
 ---
 
-# Cervantes Medical Cannabis Contamination Prevention
+## Cervantes Medical Cannabis Contamination Prevention
 
 ## Overview
 

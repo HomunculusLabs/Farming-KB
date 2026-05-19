@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Truffle Orchard Design and Establishment
+## Truffle Orchard Design and Establishment
 
 Truffle orchard design and establishment encompasses the planning, site preparation, planting, and early management of cultivated truffle-producing tree plantations. The design decisions made during [[truffle-inoculated-seedlings]] for seedling production.
 

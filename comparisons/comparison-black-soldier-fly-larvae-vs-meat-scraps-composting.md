@@ -8,7 +8,7 @@ sources: []
 type: comparison
 ---
 
-# Black Soldier Fly Larvae [[complete-organic-fertilizer-cof-recipe-solomon]] with NPK ratios comparable to conventional compost.
+## Black Soldier Fly Larvae [[complete-organic-fertilizer-cof-recipe-solomon]] with NPK ratios comparable to conventional compost.
 
 Direct composting returns all nutrients to the soil, but loses significant nitrogen to volatilization (ammonia off-gassing) during the high-temperature phase. Studies suggest 30–50% nitrogen loss in poorly managed aerobic piles, compared to 10–20% in well-managed BSFL systems.
 

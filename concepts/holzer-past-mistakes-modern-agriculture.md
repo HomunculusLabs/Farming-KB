@@ -9,7 +9,7 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
-# Past Mistakes in Modern Agriculture
+## Past Mistakes in Modern Agriculture
 
 From "Sepp Holzer's Permaculture" by Sepp Holzer.
 

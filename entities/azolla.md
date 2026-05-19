@@ -5,7 +5,7 @@ type: entity
 tags: [plant, nitrogen-fixer, aquatic, fern, green-manure, permaculture]
 ---
 
-# Azolla
+## Azolla
 
 ## Description
 

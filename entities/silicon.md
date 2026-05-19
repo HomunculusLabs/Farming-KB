@@ -12,12 +12,12 @@ tags: [chemical-element, semiconductor, materials-science, electronics, solar-ce
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/semiconductor-band-structure.md
+  - raw/concepts/semiconductor-band-structure.md
   - https://en.wikipedia.org/wiki/Silicon
   - https://en.wikipedia.org/api/rest_v1/page/summary/Silicon
 ---
 
-# Silicon
+## Silicon
 
 ## Overview
 Silicon is the chemical element with symbol Si and atomic number 14.

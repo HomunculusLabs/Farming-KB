@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Salinity Control Strategies and Cold Montane Deserts
+## Salinity Control Strategies and Cold Montane Deserts
 
 ## Overview
 

@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Scrying and Divination with Cannabis
+## Scrying and Divination with Cannabis
 
 ## Overview
 

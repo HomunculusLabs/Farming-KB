@@ -7,7 +7,7 @@ tags: [mycology, mushrooms, cultivation]
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
 
-# Mushroom Cultivation Problems and Solutions
+## Mushroom Cultivation Problems and Solutions
 
 Mushroom cultivation is a multi-stage process, and problems can arise at every phase from composting through harvest. Systematic troubleshooting requires understanding the interplay between substrate chemistry, environmental conditions, and biological factors. This guide synthesizes diagnostic information organized by cultivation phase, drawing from established mushroom growing references and practical grower experience.
 

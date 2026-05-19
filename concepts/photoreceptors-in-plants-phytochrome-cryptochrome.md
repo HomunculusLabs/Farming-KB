@@ -7,7 +7,7 @@ tags: [cannabis, lighting, indoor, vegetative]
 sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 ---
 
-# Photoreceptors in Plants — Phytochrome, Cryptochrome, and Phototropin
+## Photoreceptors in Plants — Phytochrome, Cryptochrome, and Phototropin
 
 ## Overview
 

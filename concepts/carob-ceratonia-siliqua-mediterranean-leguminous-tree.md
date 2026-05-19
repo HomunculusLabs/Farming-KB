@@ -4,7 +4,7 @@ source: a-selection-permaculture-plants
 type: concept
 ---
 
-# Carob (*Ceratonia siliqua*)
+## Carob (*Ceratonia siliqua*)
 
 ## Overview
 

@@ -8,7 +8,7 @@ sources:
   - raw/papers/mckenna_t-food_of_the-gods.md
 type: concept
 ---
-# Coca and the Mama Coca Goddess Tradition of the Inca
+## Coca and the Mama Coca Goddess Tradition of the Inca
 
 [[morphine]] injection, but on the positive side, there was no danger of general
 damage to the body as with chronic morphine use.

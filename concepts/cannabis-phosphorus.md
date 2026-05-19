@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# Cannabis Phosphorus (P)
+## Cannabis Phosphorus (P)
 
 ## Overview
 

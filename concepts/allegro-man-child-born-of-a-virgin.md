@@ -8,7 +8,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 
-# Man-Child Born of a Virgin — Mushroom Parthenogenesis
+## Man-Child Born of a Virgin — Mushroom Parthenogenesis
 
 A central pillar of Allegro's thesis is that the Christian doctrine of the virgin birth, far from being unique to Christianity, derives directly from ancient observations of the mushroom's growth cycle. The [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. To Pliny the fungus had to be reckoned among "the greatest of the marvels of nature," since it "belonged to a class of things that spring up spontaneously and cannot be grown from seed." It was "among the most wonderful of all things" in that it could "spring up and live without a root."
 

@@ -8,7 +8,7 @@ sources: [the-mushroom-cultivator-stamets.md]
 type: concept
 ---
 
-# Grain Selection and Moisture Control for [[mushroom-cultivator-grain-spawn-production]].
+## Grain Selection and Moisture Control for [[mushroom-cultivator-grain-spawn-production]].
 
 ## History of Grain Spawn Development
 

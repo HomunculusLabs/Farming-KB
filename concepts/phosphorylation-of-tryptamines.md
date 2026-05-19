@@ -6,7 +6,7 @@ tags: [phosphorylation, tryptamine, psilocybin, chemistry, zwitterionic, benzyl,
 created: 2026-05-08
 ---
 
-# Phosphorylation of Tryptamines
+## Phosphorylation of Tryptamines
 
 ## Overview
 

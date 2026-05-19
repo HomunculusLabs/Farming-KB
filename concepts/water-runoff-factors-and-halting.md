@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Runoff Factors and Halting Strategies
+## Water Runoff Factors and Halting Strategies
 
 Water runoff is one of the most critical hydrological processes in landscape design. In permaculture, understanding what drives runoff — and how to halt, absorb, and redirect it — is fundamental to converting destructive erosion forces into life-creative energy. This concept page synthesizes [[water-management]]. The classification also serves as a communication tool: designers can quickly convey the severity of a site's runoff condition and set measurable targets for improvement.
 

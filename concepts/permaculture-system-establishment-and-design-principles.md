@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture System Establishment and Design Principles
+## Permaculture System Establishment and Design Principles
 
 System establishment in [[permaculture-design]] should achieve:
 1. **Reduced need to earn** through conservation of food and energy costs

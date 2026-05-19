@@ -19,7 +19,7 @@ sources:
   - Eisler, R. & Loye, D. (1990). "The Chalice and the Blade in Global History." Journal of Social Evolutionary Systems.
 ---
 
-# Dominator and Partnership Culture Models
+## Dominator and Partnership Culture Models
 
 Riane Eisler proposed that human societies can be understood through two
 fundamental organizational patterns: partnership models and dominator

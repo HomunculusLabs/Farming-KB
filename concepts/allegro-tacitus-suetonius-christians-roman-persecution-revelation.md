@@ -4,7 +4,7 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# Allegro: Roman Historians on Christians and the Political Nature of Revelation
+## Allegro: Roman Historians on Christians and the Political Nature of Revelation
 
 ## Overview
 

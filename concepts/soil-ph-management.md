@@ -7,7 +7,7 @@ tags: [soil, ph, minerals, fertility, nutrients, methods, plant-growth, troubles
 sources: []
 ---
 
-# Soil pH Management
+## Soil pH Management
 
 Soil pH is the master variable controlling nutrient availability, microbial activity, and root health. It measures hydrogen ion concentration on a scale of 0-14, with 7 being neutral. Most crops prefer a slightly acidic range of 6.0-7.0, but optimal ranges vary significantly by species and soil type. Managing pH is the single most impactful chemical adjustment a grower can make.
 

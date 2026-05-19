@@ -7,7 +7,7 @@ tags: [mycoremediation, mycorestoration, remediation, heavy-metals, fungi, mycol
 sources: [raw/papers/mycelium-running-stamets.md]
 ---
 
-# Mycoremediation of Heavy Metals
+## Mycoremediation of Heavy Metals
 
 Heavy metals -- including lead, cadmium, arsenic, mercury, and others -- present a fundamentally different remediation challenge than organic pollutants. While fungi can enzymatically degrade petroleum hydrocarbons and pesticides into simpler molecules, metals are elemental and cannot be broken down further. Instead, fungi employ bioaccumulation and biosorption strategies.
 

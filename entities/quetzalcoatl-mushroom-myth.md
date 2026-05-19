@@ -5,7 +5,7 @@ type: entity
 tags: [deity, mythology, mesoamerican, mazatec, mushroom-lore, syncretism]
 ---
 
-# Quetzalcoatl (Mushroom Myth)
+## Quetzalcoatl (Mushroom Myth)
 
 ## Description
 

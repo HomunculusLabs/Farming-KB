@@ -8,7 +8,7 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Technology as a Management Tool
+## Technology as a Management Tool
 
 In [[savory-testing-and-management-guidelines]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

@@ -4,7 +4,7 @@ source: lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 type: concept
 ---
 
-# Cation Exchange Capacity and Nonessential Plant Elements
+## Cation Exchange Capacity and Nonessential Plant Elements
 
 ## Overview
 

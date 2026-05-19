@@ -4,10 +4,10 @@ created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: [/Users/t3rpz/wiki/raw/papers/allegro-j-the-sacred-mushroomcross.md]
+sources: ["raw/papers/allegro-j-the-sacred-mushroomcross.md"]
 ---
 
-# Ayahuasca Tourism Ethics
+## Ayahuasca Tourism Ethics
 
 Ayahuasca tourism has grown significantly since the 1990s as Westerners seek authentic spiritual experiences with indigenous plant medicine in the Amazon. This creates complex ethical, medical, and cultural dynamics that prospective participants should understand.
 

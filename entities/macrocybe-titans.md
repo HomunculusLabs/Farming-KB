@@ -5,7 +5,7 @@ type: entity
 tags: [mushroom, species, tropical, medicinal, giant]
 ---
 
-# Macrocybe titans
+## Macrocybe titans
 
 ## Description
 

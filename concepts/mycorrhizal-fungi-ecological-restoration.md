@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Mycorrhizal Fungi in Ecological Restoration of Contaminated Sites
+## Mycorrhizal Fungi in Ecological Restoration of Contaminated Sites
 
 [[mycorrhizal-fungi]] offer significant potential for the restoration and
 reclamation of contaminated lands. Their ability to protect host plants from

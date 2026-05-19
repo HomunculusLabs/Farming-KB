@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Parisian Maraicher System
+## Parisian Maraicher System
 
 The Parisian maraicher system (la culture maraichere) represents one of
 the most impressive models of intensive [[nineteenth-century-mushroom-cultivation]], these market gardeners demonstrated that

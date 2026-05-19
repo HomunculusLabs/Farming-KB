@@ -5,7 +5,7 @@ type: entity
 tags: [lichen, arctic-ecology, reindeer-forage, fruticose-lichen]
 ---
 
-# Masonhalea richardsonii
+## Masonhalea richardsonii
 
 ## Description
 

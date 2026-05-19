@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
-# Soil Fungal Diversity — Wisconsin Survey and Global Patterns
+## Soil Fungal Diversity — Wisconsin Survey and Global Patterns
 
 Soil supports some of the most diverse [[am-fungal-survey-methods]] program — spanning 20+ years across multiple vegetation types — remains the most comprehensive quantitative study of soil [[dighton-fungal-communities-grassland-soils]] varied widely among biomes
 - Certain arrays of taxa from 30+ principal microfungal species are unmistakable indicator assemblages for each biome

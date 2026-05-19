@@ -26,7 +26,7 @@ related_concepts:
   - cover-crops-green-manures
 ---
 
-# Agroforestry and Alley Cropping
+## Agroforestry and Alley Cropping
 
 Agroforestry is the intentional integration of trees and shrubs with crop and
 livestock production systems to create environmental, economic, and social

@@ -14,8 +14,8 @@ sources:
 type: concept
 ---
 
-# Basidiomycetous Yeasts: Diversity and Phylogenetic
-# Distribution
+## Basidiomycetous Yeasts: Diversity and Phylogenetic
+## Distribution
 
 Basidiomycetous yeasts are a polyphyletic assemblage of fungi
 within the phylum [[malassezia-commensal-pathogenic-yeasts]]

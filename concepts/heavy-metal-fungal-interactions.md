@@ -4,7 +4,7 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-# Heavy Metal Fungal Interactions
+## Heavy Metal Fungal Interactions
 
 Fungi interact with heavy metals through a remarkable range of mechanisms including biosorption, bioaccumulation, sequestration, transformation, and detoxification. These interactions have profound ecological significance [[singh-fungal-biofilms-in-contaminated-environments]] and offer promising avenues for bioremediation of metal-polluted soils and waters. The capacity of fungi to tolerate, accumulate, and sometimes transform toxic metals is mediated by both physiological adaptations and community-level processes.
 

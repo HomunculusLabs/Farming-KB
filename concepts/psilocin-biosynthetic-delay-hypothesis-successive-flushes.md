@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Psilocin Biosynthetic Delay Hypothesis Across Successive Flushes
+## Psilocin Biosynthetic Delay Hypothesis Across Successive Flushes
 
 The observation that psilocin is generally absent from the first flush of
 [[psilocin-accumulation-pattern-across-flushes]], contrasting with the

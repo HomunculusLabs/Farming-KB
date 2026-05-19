@@ -9,7 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-# High-Yield Cultivation of Rice and Barley
+## High-Yield Cultivation of Rice and Barley
 
 From "The Natural Way of Farming: The Theory" by Masanobu Fukuoka.
 

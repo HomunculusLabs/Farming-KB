@@ -19,7 +19,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Psilocybin Mushrooms of Europe
+## Psilocybin Mushrooms of Europe
 
 Europe has a well-documented neurotropic mycobiota, particularly in western and
 central regions. While Europe has fewer Psilocybe species than tropical regions,

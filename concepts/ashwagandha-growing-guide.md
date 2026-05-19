@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-# Ashwagandha Growing Guide (Withania somnifera)
+## Ashwagandha Growing Guide (Withania somnifera)
 
 ## Overview
 

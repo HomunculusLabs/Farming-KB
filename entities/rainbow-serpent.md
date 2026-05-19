@@ -5,7 +5,7 @@ type: entity
 categories: [mythology, culture, indigenous, symbolism]
 ---
 
-# Rainbow Serpent
+## Rainbow Serpent
 
 ## Description
 

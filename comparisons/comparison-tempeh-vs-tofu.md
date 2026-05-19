@@ -24,7 +24,7 @@ sources:
 type: comparison
 ---
 
-# Tempeh vs Tofu
+## Tempeh vs Tofu
 
 Tempeh and tofu are the two most important whole-soybean foods in global cuisine, but they are fundamentally different products made by completely different processes. Tofu is a coagulated soy milk curd — essentially the soy equivalent of cheese. Tempeh is a [[fungal-enzymes-in-environmental-bioremediation]].
 

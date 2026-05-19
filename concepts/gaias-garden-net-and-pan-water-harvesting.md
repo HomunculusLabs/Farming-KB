@@ -9,7 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 
-# Net-and-Pan Water Harvesting Pattern
+## Net-and-Pan Water Harvesting Pattern
 
 [[building-soil]] in dryland gardens. From Gaia's Garden, Chapter 3.
 

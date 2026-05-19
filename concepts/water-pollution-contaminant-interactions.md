@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Water Pollution and Contaminant Interactions
+## Water Pollution and Contaminant Interactions
 
 The purification of polluted water is one of the most critical challenges in [[permaculture-design]] and settlement planning. The only long-term insurance of a good water supply to a settlement is rigorous control of a forested catchment, including a total ban on biocides and metallic processing. As there are few such clean areas left in the world, alternative strategies must be employed. The fundamental [[permaculture]] principle here is that the only water safe for humans is also safe for other living things. For millennia, humans existed on water supplies containing healthy plants and fish — and if we keep natural waters free of faecal and industrial contaminants, we can continue to do so.
 

@@ -4,7 +4,7 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-# Shaggy Mane Mushroom Cultivation
+## Shaggy Mane Mushroom Cultivation
 
 The shaggy mane (*[[coprinus-comatus]]*) is a cosmopolitan mushroom found worldwide in yards, lots, construction sites, and other unexpected places. While not highly prized commercially due to the extremely brief existence of its fruiting bodies—typically one to two days at most—its intriguing autodigestion behavior, unique [[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]], and culinary appeal when harvested at the right moment make it a fascinating species for dedicated home cultivators.
 

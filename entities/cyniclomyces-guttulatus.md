@@ -5,7 +5,7 @@ type: entity
 tags: [yeast, ascomycete, mammal-associated, gut-flora, rabbit]
 ---
 
-# Cyniclomyces guttulatus
+## Cyniclomyces guttulatus
 
 ## Description
 

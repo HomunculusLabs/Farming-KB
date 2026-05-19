@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Mushroom Permaculture Model
+## Mushroom Permaculture Model
 
 The Stametsian Model of permaculture integrates mushrooms as central
 participants in sustainable ecosystems. Rather than viewing mushroom

@@ -5,7 +5,7 @@ created: 2026-05-11
 tags: [cannabis, health-index, chi-score, evidence-based-medicine, clinical-research, blesching, methodology, systematic-review]
 ---
 
-# Cannabis Health Index CHI Score - Evidence-Based Interpretation Guide
+## Cannabis Health Index CHI Score - Evidence-Based Interpretation Guide
 
 ## Overview
 

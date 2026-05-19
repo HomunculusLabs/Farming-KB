@@ -4,7 +4,7 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-# Psychedelic Session Instructions — The Bardo Guide Texts
+## Psychedelic Session Instructions — The Bardo Guide Texts
 
 Part IV of *The Psychedelic Experience* by Timothy Leary, Ralph Metzner, and Richard Alpert contains the actual instruction texts designed to be read aloud to a person undergoing a psychedelic session. These texts are adapted from the *Tibetan Book of the Dead* (Bardo Thodol) and serve as a practical guide for navigating the expanded states of consciousness encountered during the experience. The instructions correspond to the three Bardos — periods of transition between states of being — and are structured to help the voyager recognize, accept, and move through each phase without attachment or fear. Each major descriptive section of the original Tibetan text has an accompanying instruction passage, designed to lead the voyager back to the original First Bardo transcendence whenever they become lost.
 
