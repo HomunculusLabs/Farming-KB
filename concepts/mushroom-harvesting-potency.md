@@ -148,5 +148,3 @@ Mature specimens (with dark brown gills and purple spore deposits) are good for 
 - [[reishi-mushroom-cultivation-and-medicinal-properties]]
 - [[straw-based-mushroom-substrate-preparation]]
 - [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[straw-mushroom-cultivation]]
-- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]

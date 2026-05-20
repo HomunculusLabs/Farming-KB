@@ -148,5 +148,3 @@ Make FMC between November and March for best results. Cool, dry weather favors f
 - [[fermented-plant-extract]]
 - [[knf-fermented-plant-juice]]
 - [[comparison-fermented-vegetables-vs-canning]]
-- [[bionutrients-fermented-plant-extracts]]
-- [[kombucha-brewing]]

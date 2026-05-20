@@ -148,5 +148,3 @@ Teeter proposes that the Christian Eucharist (bread and wine) and the Holy Grail
 - **Living Bread:** Cooked pearled barley inoculated with dried Amanita powder, colonized by mycelium in 60-72 hours at 65-72°F, then dried. The resulting "fungus cake" tastes like malt, can be ground into flour, and functions as a renewable sacrament. One dried mushroom cap can produce several pounds of living bread in under a month.
 - **Holy Grail (terra cotta vessel):** Amanita muscaria pieces placed in a terra cotta pot with liquid food (grape juice, honey water) resurrect and grow as mycelium on the pot walls. The pot is filled, sits 6-12 hours, ambrosia is poured off and diluted for consumption. The pot then dries for 1-4 weeks and can be reused indefinitely. The fungus becomes more potent with each cycle.
 - **Resurrection:** Dried Amanita muscaria resurrects into living mycelium within 3 days when rehydrated — the author argues this biological property is the literal origin of resurrection myths in multiple religions.
-
-See [[amanita-muscaria]] for detailed preparation methods and [[entheogen-culture]] for broader context on entheogenic practices across cultures.

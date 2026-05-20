@@ -148,5 +148,3 @@ Detailed semi-wild cultivation method integrated into orchards. See [[fukuoka-so
 - [[natural-beekeeping-practices]]
 - [[fukuoka-rice-and-barley-natural-farming]]
 - [[natural-building]]
-- [[fukuoka-natural-farming-philosophy-five-principles]]
-- [[natural-farming-do-nothing-philosophy]]

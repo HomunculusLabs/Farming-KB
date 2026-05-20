@@ -148,4 +148,3 @@ Both systems are compatible — many growers combine techniques from both.
 
 - [[knf-vs-jadam-vs-em]] — comparison
 - [[water-soluble-potassium-wp]]
-- [[natural-farming-pest-management]]

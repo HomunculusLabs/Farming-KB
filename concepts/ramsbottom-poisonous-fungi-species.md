@@ -148,5 +148,3 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 - [[ramsbottom-poisonous-fungi-identification-guide]]
 - [[ramsbottom-poisonous-fungi-toxins-and-symptoms]]
 - [[savory-locoweed-and-poisonous-plant-management]]
-- [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]]
-- [[growing-gourmet-poisonous-mushroom-lookalikes]]

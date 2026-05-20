@@ -148,5 +148,3 @@ See also [[regenerative-agriculture-history]].
 - **EQIP (Environmental Quality Incentives Program)**: Financial/technical assistance for conservation practices (rotational grazing, cover crops, high tunnels, irrigation efficiency). Up to 75% cost-share. Good fit for regenerative homesteads
 - **Conservation easements**: Permanent development restrictions in exchange for tax benefits. Land stays private but cannot be subdivided/developed
 - **State programs**: Many states have Agricultural Preservation Restriction (APR), Agricultural Districts, Farmland Protection programs
-
-### Community Land Trusts

@@ -148,5 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[bloomfield-fairy-rings-armillaria-giant-fungi]]
 - [[fairy-rings-folklore-and-science]]
 - [[fairy-rings-mycelium-ecology-soil]]
-- [[fly-agaric-victorian-fairy-paintings]]
-- [[kings-stropharia-garden-giant]]

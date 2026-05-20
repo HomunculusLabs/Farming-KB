@@ -148,5 +148,3 @@ Successful integration of aquatic fungi and ingoldian spores into broader
 - [[aquatic-margin-plants]]
 - [[aquatic-marginal-plants]]
 - [[aquatic-plant-systems-permaculture]]
-- [[aquatic-polyculture-and-pond-construction]]
-- [[aquatic-waste-treatment-systems]]

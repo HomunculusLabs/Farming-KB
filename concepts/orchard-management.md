@@ -148,5 +148,3 @@ Orchard IPM targets the most common pests and diseases: codling moth, cedar appl
 - Increases fruit size
 - Reduces limb breakage
 - Improves air circulation and disease resistance
-
-### When and How

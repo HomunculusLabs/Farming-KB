@@ -144,24 +144,6 @@ One of Stamets' most elegant methods:
 2. Soak until saturated; place exposed-corragation side against mycelium
 3. Scrape away top layer of wood chips if mycelium is buried; expose it to cardboard
 4. Cover with loose straw; incubate several months, checking periodically
-5. Once 25-50% colonized, transfer at the "crest of growth" ("surfing the mycelial wave")
-6. Place mycelial face down onto fresh wood chips ("mycelial footprint")
-7. Alternatively: sandwich between burlap sacks (bunker spawn) or layer into cardboard towers
-
-**Critical rule**: Never place mycelium onto dry surfaces — the wood will suck moisture from the mycelium, collapsing cell walls. Always transfer onto wet materials. Mycelium has only 1 cell layer (vs. human skin's 5-6 layers).
-
-## Stem Butt Spawn — The 1-Dowel Revolution
-
-Perhaps the most underappreciated cultivation method:
-
-### How It Works
-- The basal rhizomorphs radiating from a mushroom's stem base contain active mycelium
-- When cut with rhizomorphs intact and transplanted into wood chips, cardboard, or dowels, they regrow with astonishing vigor
-- The stem butt acts as a nutrient source for the regrowing rhizomorphs
-- This is an evolutionary advantage: animals eat the soft upper flesh, discard the tough base, inadvertently inoculating new habitats
-
-### Making Cardboard Spawn from Stem Butts
-
 ## See Also
 
 - [[pf-tek-steam-sterilization-and-inoculation-technique]]

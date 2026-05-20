@@ -148,4 +148,3 @@ For fields currently under conventional cultivation:
 4. **Use more seed initially** (up to 22 lbs/quarter-acre for winter grain) -- reduce as soil improves
 5. The most important factor is "the state of mind of the farmer" -- patience and observation over intervention
 
-## Adapting to Other Climates

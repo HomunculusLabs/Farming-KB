@@ -144,26 +144,6 @@ Different fungal groups demand entirely different detection and identification m
 - Areas of greatest powdery mildew abundance/damage: California and Israel (warm, rain-free summers + intensive agriculture)
 
 ## Conservation and Monitoring
-
-### Baseline Data Needs
-
-- European macrofungal surveys show marked changes over 20-30 years: previously common species no longer encountered, others designated rare/endangered (Arnolds 1988, 1991; Pegler et al. 1993)
-- Without baseline data, these changes could not be detected
-- Fungal species composition is used as an **indicator of ecosystem health**
-
-### Climate Change Effects
-
-- Global warming linked to amphibian declines via fungal pathogens (Saprolegnia on toad eggs)
-- Chain of events: warming -> decreased rainfall -> reduced pond depth -> UV-B exposure -> fungal infection
-- This complex interaction model is more compelling than single-factor explanations
-
-### Herbaria as Critical Resources
-
-- House historical specimens necessary to examine changes in species composition over time
-- Provide materials for chemical and molecular analyses
-- Document fruiting patterns, host associations, and distribution changes
-- Essential for identifying newly collected specimens
-
 ## See Also
 
 - [[fungi-in-the-environment-fungal-ecosystems]]

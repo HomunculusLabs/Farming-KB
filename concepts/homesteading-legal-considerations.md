@@ -148,5 +148,3 @@ See also [[homesteading-infrastructure]] and [[greenhouse-design]].
 3. **Connect with local farming community**: Practical realities vs. what's on the books
 4. **Document everything**: Permits, licenses, sales, expenses — essential for taxes, insurance, inspections
 5. **Stay current**: Subscribe to your state department of agriculture's newsletter
-6. **Attend local zoning meetings**: Building relationships before you need them
-7. **When in doubt, ask**: Most officials prefer to help you comply than to fine you

@@ -148,5 +148,3 @@ These techniques, documented in 1979, prefigured the modern cannabis concentrate
 - [[cannabis-health-therapeutics]] for [[oner-sativa-medical-applications]]
 
 ## Related
-
-- [[cannabis-hashish-guide]]

@@ -148,5 +148,3 @@ Ramsbottom provides the most thorough early ethnographic account of A. muscaria 
 - [[mushroom-species-guide]] — Cultivated species profiles
 - [[edible-wild-mushrooms-by-region]] — Seasonal foraging calendar
 - [[amanita-muscaria]] — Amanita identification and preparation
-- [[psilocybin-mushroom-chemistry]] — Distribution of psychoactive species
-- [[mushroom-folklore-and-culture]] — Cultural attitudes toward fungi

@@ -148,5 +148,3 @@ Apply 15 days and 2 days before harvest.
 | WS-PA | — | 1:30 | — |
 | WS-CaPo | — | 1:500-1000 | — |
 | BRV | — | 1:200-500 | — |
-| Seawater | — | — | 1:30 |
-| IMO | Soil drench | Soil drench | Soil drench |

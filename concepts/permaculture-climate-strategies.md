@@ -148,5 +148,3 @@ From Mollison's detailed treatment:
 - [[dryland-permaculture-strategies]]
 - [[vines-in-desert-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
-- [[permaculture-principle-use-and-value-renewable-resources]]
-- [[permaculture-ethics-of-permanence]]

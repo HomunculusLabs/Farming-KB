@@ -148,4 +148,3 @@ Fukuoka's method for growing vegetables on hillsides between citrus trees:
 - **Self-seeding perennials**: Garlic, pearl onions, and Chinese leeks return year after year once established
 - **Tomatoes and eggplants**: Start in a bed and transplant; let tomatoes run along the ground (roots grow from stem nodes)
 - **Cucumbers/melons/squash**: Creeping varieties are best; lay out bamboo or branches to keep fruit off the ground
-- **Potatoes and taros**: Extremely strong; leave a few in the ground at harvest for next year

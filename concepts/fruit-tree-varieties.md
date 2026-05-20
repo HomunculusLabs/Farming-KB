@@ -148,4 +148,3 @@ Rootstocks determine tree size, precocity, disease resistance, soil adaptation, 
 - [[fungi-living-plants-anthracnose-ergot-fruit-rots]]
 - [[fungal-fruit-tree-diseases]]
 - [[mycorrhizal-fungi-fruit-trees]]
-- [[query-when-and-how-should-i-prune-my-fruit-trees]]

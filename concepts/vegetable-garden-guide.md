@@ -148,5 +148,3 @@ Detailed harvest timing and storage conditions for all 25+ crops, organized by s
 - [[fukuoka-vegetable-growing-natural-method]]
 - [[fukuoka-straw-vegetable-growing]]
 - [[vegetable-garden-watering-systems-spacing]]
-- [[solomon-dry-farming-water-less-vegetable-gardening]]
-- [[hamilton-crop-rotation-and-vegetable-planning]]

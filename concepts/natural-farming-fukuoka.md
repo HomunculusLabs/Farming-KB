@@ -148,6 +148,3 @@ Fukuoka's hilltop citrus orchard demonstrated natural farming principles for tre
 - **No spraying**: Balanced ecosystem with ground cover and chickens controls pests
 - **No fertilizer**: Clover and returned organic matter build soil. See [[orchard-management]].
 
-## Semi-Wild Vegetable Cultivation
-
-Fukuoka scattered vegetable seed on unused land -- orchards, levees, open fields -- mixed with clover:

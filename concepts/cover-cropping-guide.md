@@ -148,5 +148,3 @@ Steve Solomon recommends letting garden beds go fallow every 3-4 years:
 
 ## Related
 
-- [[cover-crop-termination]]
-- [[cover-crop-species-comparison]]

@@ -148,5 +148,3 @@ Cold air drains downhill and collects in low spots. Avoid placing frost-sensitiv
 ## See Also
 
 - [[permaculture-design-criteria-and-implementation-priorities]]
-- [[permaculture-design-principles-and-social-change]]
-- [[permaculture-design-professional-practice]]

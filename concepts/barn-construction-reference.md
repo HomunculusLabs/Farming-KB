@@ -148,5 +148,3 @@ Costs vary enormously by materials, region, and whether you build yourself or hi
 - [[homesteading-infrastructure]] -- overall homestead planning
 
 - [[basic-electrical-for-homestead]]
-- [[preserving-wood-timber-framing]]
-## Related Pages

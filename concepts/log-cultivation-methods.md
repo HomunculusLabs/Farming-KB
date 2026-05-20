@@ -144,25 +144,6 @@ Using multiple inoculation strategies simultaneously:
 
 ### Method
 1. Select fresh stumps with bright, homogeneous wood color (no fungal activity or preexisting mushrooms)
-2. Use plug spawn, sawdust spawn, rope spawn, or spored oils — separately or in combination
-3. For plug/sawdust: drill into the stump face and around the sides near the ground line
-4. For rope spawn: place myceliated rope into chainsaw cuts
-5. Cover inoculation sites with fresh wood chips to retain moisture
-6. Patience: may take several years before first fruiting
-
-### Stump Inoculation Tips
-- Wound the stump face with a chain saw before applying spawn (creates more surface area)
-- Place sawdust spawn over the wounds and across gaps between stacked logs
-- Cover with fresh wood chips to protect from drying
-- Stumps of recently felled trees have the highest success rate
-- Long-lived species like reishi and turkey tail are excellent stump candidates
-
-## Bunker Spawn — Scalable Habitat Restoration
-
-Bunker spawn is wood chip-filled burlap bags inoculated with mycelium:
-
-### Making Bunker Spawn
-
 ## See Also
 
 - [[reishi-mushroom-cultivation-and-medicinal-properties]]

@@ -148,5 +148,3 @@ Following [[regenerative-agriculture-history]] principles, the most sustainable 
 2. **Soil health** — healthy trees grown in nutrient-rich, biologically active soil resist pests and diseases more effectively (see [[soil-food-web-nutrient-cycling]])
 3. **Habitat for predators** — maintain hedgerows, wild areas, and insectary plants to support lady beetles, lacewings, parasitic wasps, and birds
 4. **Cultural practices** — proper pruning (see [[fruit-tree-pruning]]), adequate spacing, and [[mulching-guide]] reduce disease pressure
-5. **Monitoring** — regular scouting catches problems early when intervention is most effective
-6. **Tolerance** — accepting some cosmetic damage focuses resources on tree health rather than perfection

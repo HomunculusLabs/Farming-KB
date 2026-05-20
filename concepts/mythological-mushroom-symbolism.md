@@ -148,22 +148,3 @@ The mushroom's stem (phallus) and cap (vulva) in a single organism made it a nat
 
 ## The Five-Color Symbolic System
 Five colors recur across mystical traditions in connection with the mushroom:
-- Red (Amanita muscaria — quickening)
-- Blue (Psilocybe species — third eye)
-- Yellow (often associated with light/sun/enlightenment)
-- Green (supporting plants — Cannabis, DMT-containing grasses)
-- White (purity, the button stage, the veil)
-
-Present in: 12th-century Christian paintings, Buddhist tangkas, Egyptian temple art, alchemical texts.
-
-## Comparative Mythology: Shared God Attributes
-
-Arthur argues that tracing gods back through time reveals common attributes pointing to mushroom origins:
-- Miraculous virgin birth (seedless mushroom growth)
-- Divine manifestation / incarnation
-- Death and resurrection (3-day cycle)
-- Sacramental food consumption
-- Association with serpents, trees, and lightning
-- The god IS the food IS the sacrifice
-
-Similarities between Horus (Egypt), Mithra (Persia), Krishna (India), and Jesus number in the hundreds — "Take and eat, This is my body" is the central theme uniting them all.

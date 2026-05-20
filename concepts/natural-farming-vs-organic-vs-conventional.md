@@ -148,5 +148,3 @@ current understanding and implementation strategies.
 
 Successful integration of natural farming vs organic vs conventional into broader
 systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
