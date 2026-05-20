@@ -1,7 +1,7 @@
 ---
 title: "Agar Culture Techniques Detailed"
 tags: []
-sources: []
+sources: [raw/papers/mycelium-running-stamets.md]
 ---
 
 ## Agar Culture Techniques

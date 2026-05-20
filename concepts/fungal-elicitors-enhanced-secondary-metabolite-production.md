@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 
 ## Fungal Elicitors for Enhanced Secondary Metabolite Production

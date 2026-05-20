@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [composting, soil]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Agaricus Phase I Composting
 

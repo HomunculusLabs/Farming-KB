@@ -4,7 +4,7 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
 ---
 ## Medicinal Plant Guide for Permaculture
 

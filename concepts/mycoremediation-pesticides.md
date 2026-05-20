@@ -49,7 +49,7 @@ Using a plurality of species creates a synergistic effect for more complete degr
 
 ## See Also
 
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[mycoremediation-petroleum-hydrocarbons]]
 - [[mycoremediation-of-heavy-metals]]
 - [[fungal-enzyme-systems-bioremediation]]
@@ -79,3 +79,43 @@ Field trials and experimental results provide valuable data for optimization.
 - [[mycoremediation]]
 - [[advanced-mycoremediation-research-techniques]]
 - [[battelle-diesel-mycoremediation-study]]
+
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.

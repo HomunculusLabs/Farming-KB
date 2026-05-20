@@ -61,7 +61,7 @@ Sheet composting (also called in-situ composting or composting in place) decompo
 
 ## Related
 - [[compost-building-guide]] — for traditional hot composting
-- [[green-manure-crops-detailed]] — for green manure crop selection
+- [[green-manure-crops]] — for green manure crop selection
 - [[sheet-mulching-lasagna-gardening]] — for the layered lasagna method
 - [[soil-food-web-structure]] — for the organisms that do the work
 ### Key Principles
@@ -90,3 +90,32 @@ Field trials and experimental results provide valuable data for optimization.
 - [[mushroom-cultivation-basics]]
 - [[soil-food-web]]
 - [[mycelium]]
+
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.

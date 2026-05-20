@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, biology, lab-technique, field-methods, methods, taxonomy, genomics, microscopy]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 
 # Mycology Research Methods

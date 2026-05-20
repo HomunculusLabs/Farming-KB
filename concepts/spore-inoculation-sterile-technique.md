@@ -4,7 +4,7 @@ created: 2026-05-09
 updated: 2026-05-09
 type: concept
 tags: [mycology, cultivation, sterile-technique]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Spore Inoculation and Sterile Technique
 

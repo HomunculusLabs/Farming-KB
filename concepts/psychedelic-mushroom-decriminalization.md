@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, law, reform, activism, history, counterculture, psychopharmacology, entheogen-research, psychedelics, culture, community]
-sources: []
+sources: [raw/papers/psilocybin-production-gottlieb.md]
 ---
 
 # Psychedelic Mushroom Decriminalization

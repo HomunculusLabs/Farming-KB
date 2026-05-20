@@ -42,7 +42,7 @@ These compounds are structurally related to LSD (lysergic acid
 diethylamide) but are considerably less potent -- LSA is
 approximately 10-20 times less potent than LSD by weight. The
 ergoline alkaloids are unique in that they occur both in the
-[[peyote-ceremony]].
+[[peyote-ceremony-guide]].
 
 ## Ethnobotanical Significance
 

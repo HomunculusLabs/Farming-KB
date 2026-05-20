@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mycology, biology, ecology, entomopathogenic, pesticide, agriculture]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 
 # Cordyceps and Entomopathogenic Fungi

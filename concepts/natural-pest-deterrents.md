@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-control, pesticide, gardening, agriculture, troubleshooting, recipes, vegetables, pest-management]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 # Natural Pest Deterrents

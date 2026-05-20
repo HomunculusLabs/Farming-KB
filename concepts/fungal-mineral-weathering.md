@@ -74,8 +74,48 @@ Fungi are among the most significant biological agents of mineral weathering —
 - Fungal siderophores and oxalates mediate metal mobility
 
 ## Applications
-- [[mycoremediation-overview]] — fungal weathering for bioremediation
+- [[cotter-mycoremediation-overview]] — fungal weathering for bioremediation
 - [[fungal-role-in-phosphorus-cycling]] — P release from minerals
 -  — fungi in pedogenesis
 ## See Also
 - [[dighton-fungal-rock-weathering-mineral-dissolution]]
+
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.

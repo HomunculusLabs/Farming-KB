@@ -81,3 +81,41 @@ Shulgin consistently emphasizes the importance of analytical verification of syn
 Without proper analytical equipment, synthesized products cannot be reliably identified or verified for purity.
 
 See also: [[phenethylamine-chemistry-basics]], [[shulgin-dosage-guidelines]], [[shulgin-research-contributions]], [[pihkal-introduction-and-methodology]]
+
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.

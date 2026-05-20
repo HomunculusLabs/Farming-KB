@@ -32,7 +32,7 @@ The Pirozynski and Malloch hypothesis, published in 1975, proposes that land pla
 ## Relevance to Cultivation and Mycology
 
 - The hypothesis underscores that mycorrhizal associations are not optional enhancements but ancient, fundamental partnerships that plants have relied on for over 400 million years.
-- This evolutionary perspective supports the practice of [[mycorrhizal-inoculation]] in cultivation: if plants evolved with fungal partners, they may not perform optimally without them.
+- This evolutionary perspective supports the practice of [[mycorrhizal-inoculation-guide]] in cultivation: if plants evolved with fungal partners, they may not perform optimally without them.
 - The hypothesis explains why most crop plants form mycorrhizal associations and why suppressing these relationships through excessive fertilization or fungicide use can reduce plant health.
 - Understanding the evolutionary depth of plant-fungal partnerships motivates sustainable cultivation practices that preserve and enhance mycorrhizal communities.
 - The debate about the original Rhynie Chert fungi highlights that fungal ecological roles (mutualist, pathogen, saprotroph) are context-dependent — a principle directly applicable to cultivation management.

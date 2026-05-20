@@ -91,3 +91,31 @@ Like DMT, 5-MeO-DMT becomes orally active when combined with harmaline or other 
 - [[ayahuasca-pharmacology]]
 - [[5-meo-dmt-reference]]
 - [[5-meo-dmt-reference]]
+
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.

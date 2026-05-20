@@ -31,7 +31,7 @@ Ericoid mycorrhizae are a specialized type of mycorrhizal association formed exc
 
 ## Relevance to Cultivation and Mycology
 
-- **Blueberry cultivation**: Commercial blueberry production benefits significantly from ericoid [[mycorrhizal-inoculation]], especially in soils that have been fumigated or heavily disturbed.
+- **Blueberry cultivation**: Commercial blueberry production benefits significantly from ericoid [[mycorrhizal-inoculation-guide]], especially in soils that have been fumigated or heavily disturbed.
 - **Cranberry farming**: Cranberry bogs rely on ericoid mycorrhizae for nitrogen acquisition in the acidic peat soils where these crops are grown.
 - **Ornamental horticulture**: Rhododendrons, azaleas, and heathers in landscapes and nurseries establish more successfully when ericoid mycorrhizal inoculum is present.
 - **Soil acidification management**: When growing Ericaceae, maintaining appropriate [[soil-ph]] (4.5-5.5) supports ericoid mycorrhizal function. Excessive liming can harm the fungal symbionts.

@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Fungal Endophytes in Grass and Crop Systems
 Fungal endophytes of grasses and crop plants represent one of the

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, plants, ecology, permaculture, companion-planting, soil-building]
-sources: []
+sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
 ---
 
 # Ground Cover Plants

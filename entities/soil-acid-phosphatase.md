@@ -29,7 +29,7 @@ Soil acid phosphatase is an enzyme produced by plant roots, [[mycorrhizal-fungi]
 
 ## Relevance to Cultivation and Mycology
 
-- **Mycorrhizal Function**: Acid phosphatase secretion is one of the primary mechanisms by which mycorrhizal fungi deliver phosphorus to host plants. Understanding and optimizing this process is essential for effective [[mycorrhizal-inoculation]] in cultivation systems.
+- **Mycorrhizal Function**: Acid phosphatase secretion is one of the primary mechanisms by which mycorrhizal fungi deliver phosphorus to host plants. Understanding and optimizing this process is essential for effective [[mycorrhizal-inoculation-guide]] in cultivation systems.
 - **Fertilizer Interactions**: Nitrogen fertilization reduces mycorrhizal abundance and acid phosphatase activity, potentially creating phosphorus limitation even when organic phosphorus is abundant in the soil.
 - **Soil Health Indicator**: Acid phosphatase activity levels serve as a proxy for the functional health of the soil fungal community and its capacity to support plant nutrition.
 - **Organic Farming**: In systems that prohibit soluble phosphate fertilizers, mycorrhizal phosphatase activity becomes the primary mechanism for phosphorus acquisition, making fungal management critical.

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fruit-tree, orchard, agriculture, pruning, cultivation, techniques, plant-growth, species]
-sources: []
+sources: [raw/papers/about-mushrooms-1894.md]
 ---
 
 # Grafting Fruit Trees

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [livestock, animal-husbandry, forage, agriculture, economics, homesteading, sustainability]
-sources: []
+sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
 ---
 
 # Grass-Fed Beef Production

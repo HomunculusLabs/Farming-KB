@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, food-forest, succession, plant-systems, guild, design, timeline, trees]
-sources: []
+sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
 ---
 
 # Permaculture Forest Garden Establishment

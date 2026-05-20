@@ -2,7 +2,7 @@
 title: Outdoor query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work
 created: 2026-04-26
 updated: 2026-04-23
-sources: []
+sources: [raw/papers/growing-the-woodlovers-outdoors.md]
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]

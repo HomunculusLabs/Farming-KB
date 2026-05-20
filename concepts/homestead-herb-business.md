@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [business, homesteading, plants, medicine, food, drying, economics, homestead-crafts]
-sources: []
+sources: [raw/papers/growing-the-woodlovers-outdoors.md]
 ---
 
 # Homestead Herb Business

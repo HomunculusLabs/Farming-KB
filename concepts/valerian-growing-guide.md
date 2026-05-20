@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, permaculture]
-sources: []
+sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
 ---
 
 # Valerian Growing Guide (Valeriana officinalis)

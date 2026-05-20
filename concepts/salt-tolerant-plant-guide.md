@@ -76,4 +76,4 @@ Companions to saltbushes, native to Australia.
 
 - [[difficult-site-planting]]
 - [[water-plant-guide]]
-- [[permaculture-plant-selection-guide]]
+- [[permaculture-plant-selection]]

@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 ## Fungal Degradation of Textile Dyes and Industrial Effluents
 

@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: mycology, fungi]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Fungal Ecosystem Indicator Species Updated: 2026-04-18 Specific fungal species serve as reliable indicators of ecosystem conditions, habitat quality, and environmental change. The use of fungal indicator species is well-established in extracted-fungal-species - rare-endangered-fungi-conservation - [[biodiversity-of-fungi-soil-isolation-methods]]
 - old-growth-forest-fungi-conservation

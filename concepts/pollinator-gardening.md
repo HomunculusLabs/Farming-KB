@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [plants, gardening, ecology, insects, permaculture, plant-systems, cultivation]
-sources: []
+sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
 ---
 
 # Pollinator Gardening

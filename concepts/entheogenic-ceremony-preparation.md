@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, ethnobotany, shamanism, spirituality, preparation, safety, psychopharmacology, ethics]
-sources: []
+sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
 ---
 
 # Entheogenic Ceremony Preparation
@@ -161,7 +161,7 @@ Evaluation criteria for potential ceremony experiences:
 
 ## Integration After Ceremony
 
-See [[psychedelic-integration-guide]] for detailed integration practices. Briefly:
+See [[psychedelic-integration]] for detailed integration practices. Briefly:
 
 - Journal the experience within 24 hours
 - Continue clean eating for several days after
@@ -185,6 +185,6 @@ See [[plant-medicine-ethics]] for deeper exploration of these issues.
 
 ## See Also
 
-- [[psychedelic-integration-guide]] — detailed post-ceremony integration practices
+- [[psychedelic-integration]] — detailed post-ceremony integration practices
 - [[harm-reduction-guide]] — safety principles applicable to ceremony participation
 - [[plant-medicine-ethics]] — ethical frameworks for engaging with indigenous traditions

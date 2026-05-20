@@ -11,7 +11,7 @@ tags: [physics, quantum-mechanics, wave-function, schrodinger-equation,
 created: 2026-05-02
 type: concept
 updated: 2026-05-02
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 ## Overview

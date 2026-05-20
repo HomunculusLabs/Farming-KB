@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [history, timeline, psychedelics, academia, psychopharmacology, entheogen-research, consciousness, counterculture]
-sources: []
+sources: [raw/papers/psilocybin-production-gottlieb.md]
 ---
 
 # Psychedelic Research Timeline

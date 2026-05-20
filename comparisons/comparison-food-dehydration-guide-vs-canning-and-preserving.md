@@ -126,5 +126,5 @@ workload and makes the best use of each technique's strengths.
 - [[canning-and-preserving]]
 - [[pressure-canning-food-preservation]]
 - [[lacto-fermentation-and-food-preservation-methods]]
-- [[root-cellaring]]
+- [[root-cellaring-guide]]
 - [[solar-food-dehydrator-diy]]

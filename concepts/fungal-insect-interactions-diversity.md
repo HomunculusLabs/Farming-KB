@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 ## Fungal Interactions with Insects Fungi have evolved intimate associations with diverse insect groups, ranging from mutualistic symbioses to parasitic relationships. These interactions represent some of the most complex and ecologically significant fungus-animal relationships. [[ant-termite-fungal-symbiosis]]
 

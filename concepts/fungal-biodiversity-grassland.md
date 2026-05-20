@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 ## Fungal Biodiversity in Grassland Ecosystems Grasslands represent a major terrestrial biome supporting distinct fungal communities adapted to open, often seasonally dry conditions with dominant herbaceous vegetation. Fungal biodiversity in grasslands encompasses saprobic, mycorrhizal, pathogenic, and endophytic guilds. ## Saprobic Soil Fungi in Grasslands In grasslands and agricultural soils, characteristic fungal taxa include Acremonium, Arthrinium, Cladosporium, Drechslera, Fusarium, Idriella, Periconia species, Microdochium bolleyi, and Phoma eupyrena, whereas the number of species of Mucorales is reduced compared to forest soils (Christensen 1981a, 1989). Clarke and Christensen (1981) listed a suite of 12 species of Aspergillus, Fusarium, and Penicillium that are characteristic of soils in temperate American grasslands; nine species of Fusarium may occur consistently in grasslands worldwide. This degree of consistency across widely separated grassland regions suggests that fungal community composition is regulated primarily by environmental factors (climate, soil type, vegetation type) rather than by geographic proximity. An experienced microfungal taxonomist reading the list of the 10-20 most abundant fungi in a soil sample can guess with great accuracy the prevailing vegetational and climatic regimens of the sample's area of origin. ## Arbuscular Mycorrhizal Fungi [[prairie-ecology|prairie ecosystems]], pyrenomycetes dominate the [[savory-livestock-grazing-planning]] exerts a powerful influence on grassland fungal
 communities through multiple interacting mechanisms that alter both

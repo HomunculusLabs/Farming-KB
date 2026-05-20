@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 ## Freshwater Fungi — Sampling, Isolation, and Diversity ## Overview Fungi are found in **ALL freshwater habitats** — rivers, streams, marshes, bogs, lakes, ponds, and wetlands. Freshwater fungal communities are taxonomically and functionally diverse, though with notable differences from terrestrial assemblages. Most conspicuously, **Basidiomycetes are mostly absent** from freshwater environments, a pattern that remains poorly explained. This page covers sampling approaches critical to [[fukuoka-matsutake-culture-medium-appendix]]**: PmTG (peptone, malt extract, tryptone, glucose) agar supports chytrid growth
 - For more details, see [[fungal-sampling-methods]] protocols to capture the complete diversity of fungi in landscapes that include aquatic habitats, particularly in studies of [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]

@@ -4,7 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [psychopharmacology, therapy, consciousness, health, methods, culture, medicine, philosophy]
-sources: []
+sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
 ---
 
 # Psychedelic Integration

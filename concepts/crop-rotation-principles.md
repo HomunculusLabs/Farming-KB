@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [agriculture, regenerative, cover-crop, nutrient-cycling, soil, plant-systems, permaculture, living-soil]
-sources: []
+sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
 ---
 
 # Crop Rotation Principles

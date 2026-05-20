@@ -54,7 +54,7 @@ Mushrooms feed a vast array of forest organisms: insects, slugs, deer, squirrels
 ## See Also
 
 - [[mycoforestry-forest-restoration]]
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[mushroom-foraging-safety]]
 ### Key Principles
 Understanding fungal ecology forest floor requires consideration of several interrelated factors.

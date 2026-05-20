@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [regenerative, permaculture, companion-planting, plant-systems, gardening, vegetables, pest-control]
-sources: []
+sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
 ---
 
 # Companion Planting Reference
@@ -106,7 +106,7 @@ These plants attract pollinators and predatory insects that control pest populat
 
 ## Related Concepts
 
-- [[hugelkultur-guide]] for mound-based polyculture planting
+- [[hugelkultur]] for mound-based polyculture planting
 - [[composting-methods-comparison]] for building soil fertility to support companion systems
 - [[square-foot-gardening]] for spacing guidance in intensive layouts
 - [[raised-bed-gardening]] for bed construction suited to companion planting

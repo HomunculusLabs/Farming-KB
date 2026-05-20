@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [permaculture, soil-building, raised-beds, organic-matter]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 type: concept
 ---
 ## [[savory-growing-season-and-non-growing-season-management]]. The north-facing

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycorrhizae, fungi, mycology, biology, soil, ecology, species-profiles, agriculture, symbiosis, plants]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 
 # Glomeromycota and Arbuscular Mycorrhizae

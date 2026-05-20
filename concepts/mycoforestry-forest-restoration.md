@@ -53,7 +53,7 @@ Future trials for mycoforestry use a matrix of white rot, brown rot, and mycorrh
 ## See Also
 
 - [[mycofiltration-water-treatment]]
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[fungal-ecology-decomposition-cycles]]
 - [[paul-stamets]]
 ### Key Principles

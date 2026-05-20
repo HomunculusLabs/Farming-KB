@@ -23,7 +23,7 @@ If seeds have thick coats, or need heat, cold treatment, or scarification to bre
 
 ### Step 2: Inoculation
 
-Purchase and inoculate legume seed with their appropriate **microbial or fungal spores** (rhizobia for [[biological-nitrogen-fixation-agriculture]], [[mycorrhizal-inoculation|mycorrhizal-inoculation]] improves phosphorus uptake, especially important in deficient or disturbed soils.
+Purchase and inoculate legume seed with their appropriate **microbial or fungal spores** (rhizobia for [[biological-nitrogen-fixation-agriculture]], [[mycorrhizal-inoculation-guide|mycorrhizal-inoculation]] improves phosphorus uptake, especially important in deficient or disturbed soils.
 
 ### Step 3: Pelleting — Primary Coat
 

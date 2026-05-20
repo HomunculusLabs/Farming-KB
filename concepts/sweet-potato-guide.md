@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
-sources: []
+sources: [raw/papers/growing-the-woodlovers-outdoors.md]
 ---
 
 # Sweet Potato Growing Guide

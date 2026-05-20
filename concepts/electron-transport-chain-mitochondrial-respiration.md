@@ -5,7 +5,7 @@ updated: 2026-05-06
 tags: [biochemistry, cellular-respiration, mitochondria, electron-transport, oxidative-phosphorylation]
 date: 2026-05-02
 type: concept
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 
 ## Overview

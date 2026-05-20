@@ -12,7 +12,7 @@ type: concept
 
 The genus Trichocereus (recently reclassified by many taxonomists into
 Echinopsis) comprises approximately 40 species of columnar cacti native to
-the subtropical and temperate regions of the [[peyote-ceremony]] (Lophophora williamsii), Trichocereus
+the subtropical and temperate regions of the [[peyote-ceremony-guide]] (Lophophora williamsii), Trichocereus
 cacti are large, fast-growing, tree-like columns that have been cultivated
 for ceremonial use since ancient times. Their ease of propagation and rapid
 growth rate have made them a focal point of both traditional indigenous
@@ -43,7 +43,7 @@ reflecting the syncretic blending of indigenous and Catholic traditions.
 ## Chemical Profile
 
 [[dmt-and-ayahuasca-history]], and
-[[peyote-ceremony]] make them a subject of particular
+[[peyote-ceremony-guide]] make them a subject of particular
 interest for conservation-oriented researchers seeking sustainable
 alternatives to wild harvesting of endangered cactus species.
 

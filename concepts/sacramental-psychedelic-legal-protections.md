@@ -10,7 +10,7 @@ sources:
 
 ## Sacramental Psychedelic Use Legal Protections
 
-The legal status of psychedelic substances used in religious ceremonies in the United States involves a complex intersection of drug [[peyote-ceremony]]
+The legal status of psychedelic substances used in religious ceremonies in the United States involves a complex intersection of drug [[peyote-ceremony-guide]]
 
 ## Brazilian Ayahuasca Churches
 

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [safety, psychopharmacology, health, psychedelics, entheogen, principles, preparation]
-sources: []
+sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
 ---
 
 # Harm Reduction Guide
@@ -156,7 +156,7 @@ Be honest with medical professionals about what substances were taken. Most juri
 
 ## See Also
 
-- [[psychedelic-integration-guide]] — post-experience care and integration
+- [[psychedelic-integration]] — post-experience care and integration
 - [[5-meo-dmt-reference]] — substance-specific harm reduction considerations
 - [[salvinorin-reference]] — safety considerations for salvinorin A
 

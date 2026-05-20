@@ -114,7 +114,7 @@ The application of cespitose fruiting body spacing and tropism requires site-spe
 - [[mushroom-cultivation-basics]]
 - [[pf-tek]]
 - [[mushroom-spore-syringe-preparation]]
-- [[mushroom-sterile-technique]]
+- [[mushroom-sterile-technique-detailed]]
 - [[mushroom-harvesting]]
 - [[det]]
 - [[chaga]]

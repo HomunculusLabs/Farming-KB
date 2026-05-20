@@ -106,3 +106,16 @@ Choose plant material that matches the growth stage of your target crop:
 - [[jadam-fermented-plant-juice]]
 - [[knf-fish-amino-acid]]
 - [[knf-lactic-acid-bacteria-serum]]
+
+## Additional Notes
+
+Practical application requires adaptation to local conditions and specific use cases.
+
+Small-scale testing before large-scale deployment is always recommended.
+
+Documentation of results enables continuous improvement and community knowledge sharing.
+
+
+
+
+Field observations and practical experience remain the most reliable guides for system optimization.

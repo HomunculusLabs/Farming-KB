@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fermentation, recipe, food, homesteading, microbes, homestead-crafts, preservation]
-sources: []
+sources: [raw/papers/symbiotic-fungi.md]
 ---
 
 ## What Is Kombucha

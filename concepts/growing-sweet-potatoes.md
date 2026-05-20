@@ -147,4 +147,4 @@ The light soils that sweet potatoes prefer drain rapidly. Because of this:
 - [[growing-potatoes]]
 - [[root-development-and-plant-competition]]
 - [[green-manures-and-cover-crops]]
-- [[root-cellaring]]
+- [[root-cellaring-guide]]

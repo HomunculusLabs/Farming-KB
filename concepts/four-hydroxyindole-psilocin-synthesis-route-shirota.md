@@ -2,7 +2,7 @@
 title: "Four Hydroxyindole Psilocin Synthesis Route Shirota"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
 ---
 
 ## Why 4-Hydroxyindole

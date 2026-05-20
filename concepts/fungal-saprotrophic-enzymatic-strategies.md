@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-05-09
 type: concept
 tags: [mycology, fungi, decomposition, enzymes, ecology]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 ## Fungal Saprotrophic Enzymatic Strategies
 

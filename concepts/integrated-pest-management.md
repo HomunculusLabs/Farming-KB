@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-management, pest-control, troubleshooting, cultivation, gardening, permaculture, ecology, plants]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 # Integrated Pest Management (IPM)

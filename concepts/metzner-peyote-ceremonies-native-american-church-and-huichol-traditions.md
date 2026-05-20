@@ -20,7 +20,7 @@ type: concept
 ## Peyote Ceremonies: Native American Church and Huichol Traditions
 
 Ralph Metzner's 1998 comparative analysis of hallucinogen use across
-[[peyote-ceremony]] traditions:
+[[peyote-ceremony-guide]] traditions:
 the formally organized Native American Church in the United States and the
 more shamanically oriented Huichol Indian ceremonies of northern Mexico.
 Both traditions employ the peyote cactus (*[[sacramental-psychedelic-legal-protections]] have been eroded by more recent court

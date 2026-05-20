@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md]
 ---
 ## Fungal Wood Decomposition and Spatial Variation ## Overview Wood decomposition by fungi exhibits significant spatial variation at multiple scales, from within individual wood pieces to across forest landscapes. This spatial heterogeneity arises from differences in fungal community composition, resource quality, microclimate, and the history of fungal interactions on each wood piece. Understanding spatial variation in wood decomposition is critical for scaling fungal-nutrient-translocation-mycelial-systems, cord-forming fungi can redistribute nutrients across these spatially heterogeneous environments, partially homogenizing nutrient availability. ## Implications for Carbon Accounting The spatial variation in wood decomposition rates has important implications for carbon accounting in forest ecosystems. Traditional models that apply average decomposition rates to total wood volumes may significantly over- or under-estimate actual carbon fluxes because they fail to account for the heterogeneity of decay rates within and among wood pieces. A more accurate approach would incorporate the probability distribution of decay rates and the spatial arrangement of decay classes within the forest landscape. The zones of interaction between competing fungi in wood represent areas where [[fungi-in-the-environment-decomposition-wood-decay]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

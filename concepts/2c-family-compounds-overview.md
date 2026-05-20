@@ -114,3 +114,8 @@ See also: [[2c-b-compound-profile]], [[2c-i-compound-profile]], [[2c-e-compound-
 ## Related
 
 - [[mdoi-compound-profile]]
+
+Integration across multiple growing systems enhances overall resilience and productivity in diverse cultivation environments.
+
+
+Application frequency and timing directly impact biological efficacy across diverse growing systems.

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, bioremediation, mycoremediation, environmental-cleanup, fungi]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 type: comparison
 ---
 

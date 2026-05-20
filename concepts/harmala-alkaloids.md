@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, chemistry, psychopharmacology, biochemistry, pharmacology, safety, species, ethnobotany, amazon, south-america, preparation]
-sources: []
+sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
 ---
 
 # Harmala Alkaloids

@@ -1,7 +1,7 @@
 ---
 title: "Microbial Kill Curves Microwave Exposure"
 tags: []
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 
 ## Microbial Kill Curves — Microwave Exposure

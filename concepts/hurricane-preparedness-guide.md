@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [safety, homesteading, climate, environment, water]
-sources: []
+sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
 ---
 
 # Hurricane Preparedness Guide

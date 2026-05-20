@@ -163,7 +163,7 @@ Stamets emphasizes the interdependence of fungi and bacteria:
 - [[soil-food-web-nutrient-cycling]] for nutrient cycling details
 - [[mycorrhizal-fungi]] for plant-fungal partnerships
 - [[mycoforestry-forest-restoration]] for forest applications
-- [[glomalin]] for the carbon sequestration glycoprotein
+- [[glomalin-and-soil-carbon]] for the carbon sequestration glycoprotein
 
 ## Related
 

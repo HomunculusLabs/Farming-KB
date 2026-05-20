@@ -23,7 +23,7 @@ for their setup, climate, and market.
 
 ## Nameko Cultivation
 
-[[enoki-cultivation]]
+[[enoki-cultivation-guide]]
 
 Enoki is one of the most commercially significant mushrooms globally. Its
 wild form has amber-brown caps and velvety stems, but commercial cultivation

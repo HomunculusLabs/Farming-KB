@@ -52,7 +52,7 @@ Elaine Ingham's field guide devotes a specific section to protozoa, recognizing 
 - [[actively-aerated-compost-tea|Actively Aerated Compost Tea]] — the application system where protozoa function as nutrient cyclers
 - [[elaine-ingham|Elaine Ingham]] — soil microbiologist who established protozoa standards for compost tea quality
 - [[actinomycetes]] — bacteria group that serves as food for protozoa
-- [[glomalin]] — another soil biology component documented by Ingham
+- [[glomalin-and-soil-carbon]] — another soil biology component documented by Ingham
 - [[vermicomposting]] — composting method that generates protozoa-rich material for tea brewing
 
 ## Identification Symptoms

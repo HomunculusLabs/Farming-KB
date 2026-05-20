@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [psychopharmacology, pharmacology, medicine, psychiatry, neuroscience, safety, therapy, consciousness, chemistry]
-sources: []
+sources: [raw/papers/chos-global-natural-farming.md]
 ---
 
 # Ketamine Reference

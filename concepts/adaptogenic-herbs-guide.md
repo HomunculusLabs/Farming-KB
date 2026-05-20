@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [plants, medicine, health, pharmacology, preparation, species-profiles, biochemistry, ethnobotany]
-sources: []
+sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
 ---
 
 # Adaptogenic Herbs Guide

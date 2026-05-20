@@ -124,7 +124,7 @@ Soil fungi show distinct vertical stratification:
 
 ### Soil Structure
 - Mycelium binds soil particles into aggregates
-- AM fungi produce glomalin (see [[glomalin]])
+- AM fungi produce glomalin (see [[glomalin-and-soil-carbon]])
 - Hyphae stabilize macroaggregates (>250 um)
 - Improves water infiltration and retention
 
@@ -183,6 +183,6 @@ Conservation priorities:
 - [[fungal-ecology]] — Fungal ecology overview
 - [[fungi-soil-food-webs]] — Fungal roles in soil food webs
 - [[no-till-gardening-method]] — Impact of tillage on soil fungi
-- [[glomalin]] — Mycorrhizal soil glue
+- [[glomalin-and-soil-carbon]] — Mycorrhizal soil glue
 - [[fungal-sampling-methods]] — Field methods
 - [[fungal-conservation-strategies]]

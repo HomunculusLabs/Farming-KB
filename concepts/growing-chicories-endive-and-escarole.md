@@ -89,7 +89,7 @@ For [[coleman-winter-salad-braising-mix-composition]] greens:
 ## See Also
 
 - [[growing-kale-and-cole-crops]]
-- [[root-cellaring]]
+- [[root-cellaring-guide]]
 - [[seed-quality-and-selection]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

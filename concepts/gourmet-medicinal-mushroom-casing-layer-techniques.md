@@ -35,7 +35,7 @@ The standard casing formula for gourmet mushrooms uses three components:
 
 ## Limited Application to Gourmet Mushrooms
 
-Casing is not universally beneficial for [[oyster-mushroom-species]] (Pleurotus spp.)
+Casing is not universally beneficial for [[oyster-mushroom-species-guide]] (Pleurotus spp.)
 - Enokitake ([[cancer-medicinal-mushrooms-hericium-erinaceus]])
 
 These species evolved to fruit from wood and do not require a soil-like microclimate. Applying casing to these species often provides no benefit and may introduce contamination risks, particularly from green mold.

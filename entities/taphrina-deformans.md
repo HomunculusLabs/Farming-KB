@@ -65,7 +65,7 @@ Taphrina deformans is a fungal pathogen responsible for peach leaf curl, one of 
 - [[actively-aerated-compost-tea]]
 - [[elaine-ingham]]
 - [[soil-foodweb-institute]]
-- [[glomalin]]
+- [[glomalin-and-soil-carbon]]
 - [[mycorrhizae]]
 - [[fusarium-solani]]
 - [[verticillium-dahliae]]

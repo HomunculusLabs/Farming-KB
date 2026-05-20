@@ -104,3 +104,18 @@ LAB is a core KNF input collected from the local environment via rice wash and m
 - [[indigenous-microorganisms-imo]] — LAB used in IMO #3 cultivation
 - [[fermented-mixed-compost-fmc]] — LAB prevents FMC from decaying
 - [[fermented-plant-extract-fpe]] — FPJ pairs well with LAB
+
+## Additional Notes
+
+Practical application requires adaptation to local conditions and specific use cases.
+
+Small-scale testing before large-scale deployment is always recommended.
+
+Documentation of results enables continuous improvement and community knowledge sharing.
+
+
+
+
+
+
+Field observations and practical experience remain the most reliable guides for system optimization.

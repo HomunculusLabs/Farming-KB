@@ -40,7 +40,7 @@ containing seeds and these microorganisms could be the spark that restores the
 deserts. Modern [[fukuoka-desert-greening-projects]] and
 [[clay-pellet-seed-ball-method-for-desert-revegetation]] broadcasting
 - **Holistic grazing**: Mimicking natural herd movement patterns to stimulate plant growth
-- **Soil building**: Composting, biochar, mulching to restore [[mycorrhizal-inoculation]]**: Introducing beneficial fungi to restore soil biology and plant-fungal networks
+- **Soil building**: Composting, biochar, mulching to restore [[mycorrhizal-inoculation-guide]]**: Introducing beneficial fungi to restore soil biology and plant-fungal networks
 
 ## Global Scale and Impact
 

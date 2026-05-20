@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 ## Lichenized Fungi — Taxonomy, Ecology, and Sampling Methods ## Overview Lichenized fungi (lichens) are symbiotic associations between a fungus (the mycobiont) and a photosynthetic partner (the photobiont — either a green alga or a cyanobacterium). With over **13,500 described species**, lichens account for approximately **20% of all described fungal species**, making them one of the most conspicuous and well-documented groups within fungal-life-history-strategies. ## Taxonomic Distribution Lichen-forming fungi are distributed across the [[lichenized-fungi-biology-ecology-diversity]]
 - [[fungi-soil-food-webs]]

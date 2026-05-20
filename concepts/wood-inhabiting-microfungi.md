@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 ## Wood-Inhabiting Microfungi — Life Strategies and Inventory Methods ## Overview Wood-inhabiting microfungi are a diverse assemblage of fungal species that colonize decaying wood, leaf litter, and other plant debris. They play essential roles in [[hamilton-composting-and-organic-matter-management]] rather than from living hosts.
 

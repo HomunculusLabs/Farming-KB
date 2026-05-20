@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, off-grid, water, composting, sustainability, construction]
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 # Composting Toilet Systems

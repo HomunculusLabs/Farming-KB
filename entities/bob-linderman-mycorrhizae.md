@@ -29,7 +29,7 @@ tags: [person, researcher, mycology, vam, mycorrhizal]
 
 ## Relevance to Cultivation and Mycology
 
-- **Mycorrhizal management**: Linderman's research informs practical decisions about [[mycorrhizal-inoculation]], [[jarrold-mycelium-colonization-monitoring-visual-assessment]], and soil management practices that support fungal symbioses.
+- **Mycorrhizal management**: Linderman's research informs practical decisions about [[mycorrhizal-inoculation-guide]], [[jarrold-mycelium-colonization-monitoring-visual-assessment]], and soil management practices that support fungal symbioses.
 - **Compost tea formulation**: Understanding that mycorrhizal fungi benefit from compost tea (as food, moisture, and aggregate-building material) comes from the research community that includes Linderman.
 - **Disease suppression**: The finding that VAM colonization above 30-40% reduces root disease and root-feeding nematode problems is supported by researchers including Linderman.
 - **Humic acid application**: The recommendation to add humic acids (fungal foods found in compost and compost tea) to the root zone when colonization is between 15-40% draws on this body of research.

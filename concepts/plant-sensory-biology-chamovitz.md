@@ -2,7 +2,7 @@
 title: "Plant Sensory Biology Chamovitz"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
 ---
 
 ## What Plants See

@@ -48,7 +48,7 @@ Adding calcium to soil without improving fungal and bacterial populations is lar
 
 ### Practical Implications
 - **Test plant tissue** before applying chelated minerals to confirm deficiency
-- **Prefer biological chelation** (compost tea, [[mycorrhizal-inoculation]]) over synthetic chelators
+- **Prefer biological chelation** (compost tea, [[mycorrhizal-inoculation-guide]]) over synthetic chelators
 - **Feed the biology** — molasses, humic acids, and [[fish-hydrolysate]] feed the organisms that perform chelation
 - **Check organic approval** before using synthetic chelated products
 - **Understand that microbes chelate BEFORE membrane transport**, not after

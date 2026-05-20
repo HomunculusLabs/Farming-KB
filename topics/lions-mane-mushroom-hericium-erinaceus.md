@@ -109,4 +109,4 @@ NGF is a neurotrophin essential for the growth, maintenance, proliferation, and 
 - Demonstrated measurable changes in functional connectivity via fMRI in brain regions associated with memory and executive function
 - Dosage: 1 g of Lion's Mane extract (standardized to contain hericenones and erinacines) three times daily
 ## Related
-- [[oyster-mushroom-species|oyster mushroom species guide]]
+- [[oyster-mushroom-species-guide|oyster mushroom species guide]]

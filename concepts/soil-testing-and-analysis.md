@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [soil, ph, npk, fertility, nutrients, soil-amendment, minerals, gardening, cultivation, soil-building]
-sources: []
+sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
 ---
 
 # Soil Testing and Analysis

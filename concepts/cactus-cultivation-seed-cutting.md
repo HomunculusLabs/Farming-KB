@@ -106,3 +106,16 @@ If dopamine unavailable, use tyramine + dopa mixture 6 weeks before harvest.
 - [[psychoactive-cacti-species-reference]] — Species identification and alkaloid profiles
 - [[mescaline-reference]] — Mescaline pharmacology and dosage (Turner)
 - [[hallucinogenic-plants-new-world]] — New World hallucinogenic species survey
+
+## Additional Notes
+
+Practical application requires adaptation to local conditions and specific use cases.
+
+Small-scale testing before large-scale deployment is always recommended.
+
+Documentation of results enables continuous improvement and community knowledge sharing.
+
+
+
+
+Field observations and practical experience remain the most reliable guides for system optimization.

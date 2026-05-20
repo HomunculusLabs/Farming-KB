@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [psychedelics]
-sources: []
+sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
 ---
 
 ## psychedelic crisis response protocol

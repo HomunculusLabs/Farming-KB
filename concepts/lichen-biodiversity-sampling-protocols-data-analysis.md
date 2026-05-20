@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: mycology, fungi, symbiosis]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 
 ## Lichen Biodiversity Sampling — Protocols and Data Analysis

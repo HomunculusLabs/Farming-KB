@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, permaculture, water-management, sustainability, compost, design]
-sources: []
+sources: [raw/papers/growing-the-woodlovers-outdoors.md]
 ---
 
 # Keyhole Garden Design

@@ -75,7 +75,7 @@ Turkey Tail requires only **hot water extraction** since its key compounds (PSK,
 
 Reishi holds unparalleled [[shroom-cultural-history-mushroom-in-ancient-civilizations]] East Asian art and has served as a talisman against evil for millennia.
 
-Turkey Tail (Yun Zhi, "cloud mushroom") has a humbler cultural profile. Used in traditional Chinese medicine but without the near-mythical status of Reishi. Its prominence is a modern phenomenon driven by [[staycare-trametes-versicolor-bioremediation-applications]], Turkey Tail has been more extensively studied for pollutant degradation, while Reishi shows broad-spectrum antimicrobial activity useful for [[reishi-cultivation]] for detailed Reishi growing methods
+Turkey Tail (Yun Zhi, "cloud mushroom") has a humbler cultural profile. Used in traditional Chinese medicine but without the near-mythical status of Reishi. Its prominence is a modern phenomenon driven by [[staycare-trametes-versicolor-bioremediation-applications]], Turkey Tail has been more extensively studied for pollutant degradation, while Reishi shows broad-spectrum antimicrobial activity useful for [[reishi-cultivation-guide]] for detailed Reishi growing methods
 - [[medicinal-mushroom-immune-modulation]] for broader immunology context
 
 ## Overview

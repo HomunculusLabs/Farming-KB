@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, construction, homestead-crafts, preservation, tools]
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 
 # Preserving Wood and Timber Framing

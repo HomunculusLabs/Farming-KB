@@ -110,7 +110,7 @@ Kohlrabi is strongly biennial — perfect specimens should be set in the seed-ma
 ## See Also
 
 - [[growing-carrots]]
-- [[root-cellaring]]
+- [[root-cellaring-guide]]
 - [[cabbage-family-pests]]
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.

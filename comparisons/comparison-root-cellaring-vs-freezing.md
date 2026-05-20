@@ -44,7 +44,7 @@ match.
 
 ## Combined Strategies
 
-The most resilient food preservation systems use both methods. [[root-cellaring]]
+The most resilient food preservation systems use both methods. [[root-cellaring-guide]]
 handles bulk storage of hardy crops through winter at zero energy cost, while
 freezing preserves tender vegetables, fruits, and value-added products like
 soups and sauces. This combination reduces freezer load and energy consumption

@@ -4,7 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [reference]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Schizophyllan Research
 

@@ -105,3 +105,17 @@ Plant half the garden to winter green manure (Sep/Oct), apply well-rotted manure
 - [[interpreting-soil-test-results]] — Understanding soil test reports
 - [[soil-fertility-management]] — Organic fertility management
 - [[cover-cropping-guide]] — Green manures and cover crops
+
+## Additional Notes
+
+Practical application requires adaptation to local conditions and specific use cases.
+
+Small-scale testing before large-scale deployment is always recommended.
+
+Documentation of results enables continuous improvement and community knowledge sharing.
+
+
+
+
+
+Field observations and practical experience remain the most reliable guides for system optimization.

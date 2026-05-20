@@ -61,7 +61,7 @@ Beyond pest deterrence, French marigolds are reported to help suppress certain w
 
 ## Related
 
-- [[green-manure-crops-detailed]] — Phacelia as a green manure that also attracts hoverflies
+- [[green-manure-crops]] — Phacelia as a green manure that also attracts hoverflies
 - [[clubroot-disease-management]] — disease management for brassicas
 - [[leatherjacket-pest-control]] — direct pest control methods for soil pests
 ### Key Principles

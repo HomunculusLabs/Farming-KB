@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [grain, homesteading, cultivation, harvesting, processing, agriculture, plants, sustainability]
-sources: []
+sources: [raw/papers/growing-the-woodlovers-outdoors.md]
 ---
 
 # Small Scale Grain Growing
@@ -128,4 +128,4 @@ Separating grain from chaff (the lightweight husks and debris):
 
 - [[saving-seeds]] -- save grain seed from your best plants for next year
 - [[beer-brewing-basics]] -- grow barley and wheat specifically for brewing
-- [[greenhouse-growing-guide]] -- start grain seedlings early indoors in cold climates
+- [[greenhouse-growing]] -- start grain seedlings early indoors in cold climates

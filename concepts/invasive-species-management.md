@@ -4,14 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-management, conservation, ecology, plants, wildlife, restoration]
-sources: []
+sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
 ---
 
 # Invasive Species Management
 
 ## Overview
 
-Invasive species are non-native organisms that cause ecological, economic, or human health harm when introduced to new environments. They outcompete native species, alter ecosystem processes, degrade habitat, and cost the US economy an estimated $120+ billion annually. Invasive species management on the homestead involves identification, prevention, control, and monitoring to protect native biodiversity and ecosystem function. This connects to [[pollinator-conservation|conservation]], [[mycorestoration-overview|restoration]], and [[pollinator-conservation]] efforts.
+Invasive species are non-native organisms that cause ecological, economic, or human health harm when introduced to new environments. They outcompete native species, alter ecosystem processes, degrade habitat, and cost the US economy an estimated $120+ billion annually. Invasive species management on the homestead involves identification, prevention, control, and monitoring to protect native biodiversity and ecosystem function. This connects to [[pollinator-conservation|conservation]], [[mycorestoration|restoration]], and [[pollinator-conservation]] efforts.
 
 ## Identification
 

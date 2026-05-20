@@ -5,7 +5,7 @@ tags: [biochemistry, enzymology, pharmacology, drug-discovery, toxicology]
 created: 2026-05-03
 updated: 2026-05-06
 type: concept
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 ## Overview

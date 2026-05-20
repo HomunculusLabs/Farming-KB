@@ -2,7 +2,7 @@
 title: "Molasses Fungal Food Sticker Spreader Ingham"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 Color variation between batches indicates compositional differences year to year, which can affect microbial growth outcomes.

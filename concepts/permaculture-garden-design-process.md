@@ -53,7 +53,7 @@ The planning phase translates the vision into concrete design decisions:
 - **Sector analysis**: Map incoming energies such as sun, wind, water, fire, and noise
 - **Water design**: Plan for capturing, storing, and directing water across the site
 - **Access design**: Lay out pathways and circulation patterns (see [[permaculture-access-and-circulation-design]])
-- **Plant selection**: Choose species based on function, climate appropriateness, and [[permaculture-plant-selection-guide|plant selection principles]]
+- **Plant selection**: Choose species based on function, climate appropriateness, and [[permaculture-plant-selection|plant selection principles]]
 - **Guild design**: Create plant communities that support each other (see [[permaculture-guild-design-method]])
 
 ### 4. Implementation

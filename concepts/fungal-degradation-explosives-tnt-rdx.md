@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Fungal Degradation of Explosives: TNT, RDX, and Related Compounds Military explosives such as TNT (2,4,6-trinitrotoluene) and RDX (Royal Demolition eXplosive, cyclotrimethylenetrinitramine) are persistent fungal-bioremediation strategies. ## TNT: Properties and Environmental Concerns TNT is the most widely studied explosive compound in fungal bioremediation research. It is a nitroaromatic compound that is: - Highly toxic to microorganisms, plants, and animals at relatively low concentrations - Mutagenic and potentially carcinogenic - Relatively insoluble in water but soluble in organic solvents - Persistent in soil and groundwater due to the stability of the nitroaromatic ring - Found at contaminated military sites as both soil and groundwater pollution, and in waste streams known as "pink water" TNT contamination is particularly problematic because the compound can persist for decades in soil environments. The challenge for [[humus-formation-and-soil-organic-matter]]:
 

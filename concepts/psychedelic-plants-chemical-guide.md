@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [plants, fungi, chemistry, pharmacology, neuroscience, psychopharmacology, ethnobotany, entheogen, species-profiles, biochemistry, consciousness]
-sources: []
+sources: [raw/papers/psilocybin-production-gottlieb.md]
 ---
 
 # Psychedelic Plants and Compounds — Chemical Comparison Guide

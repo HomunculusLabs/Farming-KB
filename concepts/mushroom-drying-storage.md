@@ -4,7 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, processing, methods, troubleshooting]
-sources: []
+sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
 ---
 
 # Mushroom Drying and Storage

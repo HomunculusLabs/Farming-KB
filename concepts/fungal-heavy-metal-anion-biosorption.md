@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Fungal Heavy Metal and Anion Biosorption Fungal biosorption of heavy metals and anions is the process by which fungal biomass binds metal ions and oxyanions from solution through physicochemical mechanisms independent of cellular metabolism. This process is central to fungal-bioremediation. ## Principles of Fungal Biosorption Biosorption can be defined as the removal of metal or metalloid species, compounds, and particulates from solution by biological material. It is a property of both living and dead biomass and can be considered as a combination of passive (non-metabolic) and active (metabolism-dependent) processes. Fungal cell walls are the primary sites for metal biosorption, offering a variety of functional groups that can bind metal ions. The composition of fungal cell walls, including chitin, glucans, proteins, and melanin, determines the biosorption capacity and selectivity for different metals. The distinction between biosorption and [[chelation-and-metal-binding-in-plants]] through hydrogen bonding and weak coordination interactions. While individual hydroxyl groups have relatively low affinity for metal ions, the high density of glucan in fungal cell walls provides significant collective binding capacity.
 

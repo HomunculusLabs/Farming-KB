@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, preparation, recipe, substrate, workflow]
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 ## Overview

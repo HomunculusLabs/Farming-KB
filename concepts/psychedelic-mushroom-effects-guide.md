@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, psychopharmacology, psychedelics, consciousness, psychology, entheogen-research, health, safety]
-sources: []
+sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
 ---
 
 # Psychedelic Mushroom Effects Guide

@@ -26,7 +26,7 @@ Mycorrhizal colonization of salt marsh plants was once considered unlikely due t
 
 - **Cooke and Lefor (1990, 1998)**: Compared VA mycorrhizae in plants from disturbed and undisturbed coastal salt marshes, and surveyed mycorrhizal status of wetland plants, finding that mycorrhizae are more common in transition zones than in continuously inundated areas.
 - **Cooke et al. (1993)**: Observed vertical distribution of VA mycorrhizae in roots of salt marsh grasses growing in saturated soils, noting that colonization decreases with depth as oxygen becomes limiting.
-- **McHugh (2001)**: Studied effects of [[mycorrhizal-inoculation]], [[phosphorus-availability]], salinity, and inundation period on seedling growth of two saltmarsh grasses (*[[spartina-alterniflora]]* and *S. cynosuroides*) in nursery conditions.
+- **McHugh (2001)**: Studied effects of [[mycorrhizal-inoculation-guide]], [[phosphorus-availability]], salinity, and inundation period on seedling growth of two saltmarsh grasses (*[[spartina-alterniflora]]* and *S. cynosuroides*) in nursery conditions.
 
 ### Anaerobic Fungi in Salt Marsh Soils
 

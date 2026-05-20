@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [construction, permaculture, sustainability, homesteading, tools, engineering]
-sources: []
+sources: [raw/papers/growing-the-woodlovers-outdoors.md]
 ---
 
 # Bamboo as Building Material

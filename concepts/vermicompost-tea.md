@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [vermicompost, compost, microbes, tea, fertilizer, soil, biology, soil-biology, methods, preparation, microbes]
-sources: []
+sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
 ---
 
 # Vermicompost Tea

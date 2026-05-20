@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 ## Saprobic Soil Fungi -- Ecology, Biomass, and Survey Methods
 Fungi are among the most abundant organisms in soil, comprising an estimated

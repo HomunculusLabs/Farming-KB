@@ -10,7 +10,7 @@ tags: [thermodynamics, heat-engine, carnot, efficiency, energy-conversion, physi
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 
 The Carnot cycle is the foundational theoretical model of heat engine operation, establishing the maximum possible efficiency any engine can achieve when converting [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]]), while minimizing internal irreversibilities through regenerative feedwater heating, reheat cycles, and multi-stage compression with intercooling. The gap between Carnot and actual efficiency serves as a diagnostic tool — a large gap indicates opportunities for thermodynamic improvement.

@@ -161,7 +161,7 @@ Stamets also found that Beauveria bassiana produces attractants prior to sporula
 ## See Also
 
 - [[fungal-pest-control]] for existing page on this topic
-- [[mycorestoration-overview]] for the umbrella concept
+- [[mycorestoration]] for the umbrella concept
 - [[stamets-patents]] for patent details
 - [[paul-stamets]] for the researcher
 - [[mycoremediation-basics]] for related fungal remediation techniques

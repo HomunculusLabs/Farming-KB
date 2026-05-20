@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, chemistry, health, medicine, history, biology, lab-technique]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 
 # Fungal Antibiotics

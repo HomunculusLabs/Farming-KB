@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
-sources: []
+sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
 ---
 
 # Winter Squash Guide
@@ -160,6 +160,6 @@ Curing thickens the skin and heals minor cuts, dramatically improving storage li
 ## Related Concepts
 
 - [[companion-planting-reference]] — corn, beans, and nasturtiums as squash companions (Three Sisters)
-- [[hugelkultur-guide]] — squash cascading off hugel mounds
+- [[hugelkultur]] — squash cascading off hugel mounds
 - [[mulching-guide]] — heavy mulching for moisture retention
 - [[sweet-potato-guide]] — another storage crop with similar planting timing

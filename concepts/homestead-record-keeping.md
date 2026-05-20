@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, workflow, annual-calendar, reference, economics]
-sources: []
+sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
 ---
 
 # Homestead Record Keeping

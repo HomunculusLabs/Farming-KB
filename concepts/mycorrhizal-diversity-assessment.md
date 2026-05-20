@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, soil-biology, symbiosis]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Mycorrhizal Diversity [[glomalin-and-soil-carbon]]**: AMF-specific soil protein correlated with hyphal biomass
 

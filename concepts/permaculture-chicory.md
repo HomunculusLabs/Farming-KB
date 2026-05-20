@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 Updated: 2026-04-18 Chicory ([[chicory-cichorium-intybus]]) is a hardy perennial plant valued as a nutritious salad green, [[medicinal-herb-growing]] 1-5 feet (30-150 cm) tall. It has a thick taproot that can reach 6-10 feet (2-3 m) deep, making it an excellent [[mollison-designers-bee-forage-tree-planting]] - [[permaculture-designers-manual-animal-forage-systems]] (kills worms, easy to digest) - Herbal remedy - Coffee substitute (roasted roots) - Companion in baby green salads - [[permaculture-dynamic-accumulator-plants]]
 

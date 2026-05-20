@@ -117,7 +117,7 @@ Salt problems in desert soils can be addressed through flushing with fresh water
 humus levels, ponding water with algae to encourage biological remediation, ionic or
 distillation treatments, and selecting salt-tolerant crops. Notably, free-draining sands can
 be irrigated with water containing salt levels up to 1500 ppm — much higher than the
-tolerance levels for spray [[mycorrhizal-inoculation]] is essential in arid systems — acacias, eucalypts, legumes,
+tolerance levels for spray [[mycorrhizal-inoculation-guide]] is essential in arid systems — acacias, eucalypts, legumes,
 pines, Casuarinas, and garden crops all benefit from root-associated fungi that enable
 phosphate accumulation from otherwise unavailable soil reserves. When applying phosphates, it
 is best to use small quantities placed close to the crop to maximise uptake efficiency.

@@ -76,7 +76,7 @@ Practices and outcomes vary significantly by climate zone, soil type, and local 
 
 ## See Also
 
-- [[glomalin]]
+- [[glomalin-and-soil-carbon]]
 - [[vam-vesicular-arbuscular-mycorrhizae]]
 - [[elaine-ingham]]
 - [[soil-food-web]]

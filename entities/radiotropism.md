@@ -77,4 +77,4 @@ Population studies of Radiotropism reveal complex dynamics influenced by both bi
 - [[cladosporium-sphaerospermum]] — primary radiotropic species from Chernobyl
 - [[cladosporium-cladosporioides]] — another radiotropic species
 - [[paeciliomyces-lilacinus]] — bioindicator of radionuclide contamination
-- [[glomalin]] — fungal-derived soil carbon compound
+- [[glomalin-and-soil-carbon]] — fungal-derived soil carbon compound

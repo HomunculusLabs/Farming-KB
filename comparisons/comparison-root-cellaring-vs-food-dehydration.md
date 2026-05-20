@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 
-[[root-cellaring]] and food dehydration are two of the oldest and most practical methods
+[[root-cellaring-guide]] and food dehydration are two of the oldest and most practical methods
 for preserving a harvest without refrigeration. Both approaches can operate with
 minimal or no electricity, making them staples of homestead and off-grid food
 systems. However, they differ fundamentally in how they work: root cellaring

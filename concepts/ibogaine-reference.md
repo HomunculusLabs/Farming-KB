@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, psychopharmacology, ethnobotany, chemistry, pharmacology, africa, medicine, safety, law, consciousness, therapy]
-sources: []
+sources: [raw/papers/chos-global-natural-farming.md]
 ---
 
 # Ibogaine Reference

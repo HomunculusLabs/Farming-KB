@@ -26,7 +26,7 @@ time of year.
 
 ## The Meadow and Horse Mushroom
 
-The meadow mushroom ([[oyster-mushroom-species]]
+The meadow mushroom ([[oyster-mushroom-species-guide]]
 ## Practical Applications
 
 Palmer on Specific Edible Mushroom Species has a range of practical applications that make it relevant to

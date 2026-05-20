@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycorrhizae, forest-ecology, ecology, fungi, symbiosis, biology, networks, environment, carbon]
-sources: []
+sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
 ---
 
 ## Overview

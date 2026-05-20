@@ -42,7 +42,7 @@ The drip line concept is central to proper care of trees, shrubs, and perennials
 - **Compost**: Apply 1–2 inches of fungal compost from near the trunk (not touching it) out to the drip line
 - **Brown mulch**: Cover the compost with brown mulch (leaves, bark chips) to the drip line
 - **Compost tea**: Soil drench from the trunk to the drip line, focusing on the outer root zone
-- **[[mycorrhizal-inoculation]]**: For new plantings, spores go directly on roots; for existing trees, use root feeders or syringes to reach the drip line zone
+- **[[mycorrhizal-inoculation-guide]]**: For new plantings, spores go directly on roots; for existing trees, use root feeders or syringes to reach the drip line zone
 - **Aeration**: If plug aerating, focus on the area from the trunk to beyond the drip line
 
 ## Relevance to Cultivation and Mycology

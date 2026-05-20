@@ -35,7 +35,7 @@ Gaston Guzman is a Mexican mycologist widely regarded as the world's foremost au
 - **Mexican neurotropic species:** Mexico has the highest number of neurotropic fungal species (76 species, 44 Psilocybe = 39% of world total), largely documented through Guzman's decades of fieldwork in Oaxaca and other states.
 - **Sacred mushroom documentation:** Catalogued more than 200 common names for hallucinogenic fungi in Mexican Indian languages, including Nahuatl names like "teonanacatl" (divine mushroom), "apipiltzin" (little boy), and "teotlaquilnanacatl" (divine fungus).
 - **Voluntary intoxication experience:** In 1958, while sleeping in a room filled with freshly collected neurotropic Psilocybe specimens in Oaxaca, he experienced colored hallucinations from airborne psilocybin exposure — a remarkable account of passive intoxication.
-- **Co-authored worldwide distribution study:** With [[john-allen]] and [[jochen-gartz]], published the comprehensive 1998 study covering 216 neurotropic species.
+- **Co-authored worldwide distribution study:** With [[john-w-allen]] and [[jochen-gartz]], published the comprehensive 1998 study covering 216 neurotropic species.
 - **Temporal degradation of psilocybin:** Demonstrated that psilocybin/psilocin degrade over time in dried specimens, confirming indigenous knowledge that specimens older than one year lose potency.
 
 ## Species Described
@@ -58,7 +58,7 @@ Guzman emphasized that wherever researchers study neurotropic species, they find
 
 ## Institutional Affiliations
 
-Guzman was based at the Instituto de Ecología in Xalapa, Veracruz, Mexico. His fieldwork spanned decades across Oaxaca, Veracruz, and other Mexican states, as well as collaborations with researchers worldwide including [[john-allen]] (Australia/New Zealand) and [[jochen-gartz]] (Germany).
+Guzman was based at the Instituto de Ecología in Xalapa, Veracruz, Mexico. His fieldwork spanned decades across Oaxaca, Veracruz, and other Mexican states, as well as collaborations with researchers worldwide including [[john-w-allen]] (Australia/New Zealand) and [[jochen-gartz]] (Germany).
 ## Major Works
 
 - "The Genus Psilocybe: A Systematic Revision of the Known Species" (1983, 1995) — The standard taxonomic monograph.
@@ -69,7 +69,7 @@ Guzman was based at the Instituto de Ecología in Xalapa, Veracruz, Mexico. His 
 
 - [[psilocybin-mushroom-chemistry]] — Global distribution data
 - [[jochen-gartz]] — Co-researcher on distribution studies
-- [[john-allen]] — Co-researcher, Australia/New Zealand fieldwork
+- [[john-w-allen]] — Co-researcher, Australia/New Zealand fieldwork
 - [[psychedelic-mushroom-history]] — Historical use of sacred mushrooms
 - [[r-gordon-wasson]] — Rediscovered Mexican mushroom cults
 

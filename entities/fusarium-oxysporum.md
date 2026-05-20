@@ -69,7 +69,7 @@ specificity and include f. sp. cubense (banana), f. sp. lycopersici
   species within the Fusarium grisea complex
 
 ### Interactions with Mycorrhizae
-- [[mycorrhizal-inoculation]] and biological diversity is
+- [[mycorrhizal-inoculation-guide]] and biological diversity is
 a key approach to managing Fusarium wilt without chemical inputs.
 
 ## See Also

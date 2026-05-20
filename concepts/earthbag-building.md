@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [construction, permaculture, homesteading, sustainability, design, engineering]
-sources: []
+sources: [raw/papers/about-mushrooms-1894.md]
 ---
 
 # Earthbag Building

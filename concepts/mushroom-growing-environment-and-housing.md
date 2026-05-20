@@ -22,7 +22,7 @@ phases of the [[mushroom-life-cycle]].
   sharply outside this range; above 35°C, mycelial growth stops entirely.
 
 - **Fruiting Phase:** A significant temperature drop triggers fruiting. Most
-  [[oyster-mushroom-species]] fruit best at 10-20°C. Cold-weather strains may
+  [[oyster-mushroom-species-guide]] fruit best at 10-20°C. Cold-weather strains may
   fruit at 5-15°C, while warm-weather strains require 15-25°C.
 
 ### Humidity

@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 ## Fungicolous Fungi — Parasites and Associates of Other Fungi
 Fungicolous fungi are those that grow on, within, or in association with

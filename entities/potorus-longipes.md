@@ -38,7 +38,7 @@ Claridge and May (1994) identified the brush-tailed potoroo as the most mycophag
 The potoroo's intense mycophagy makes it essential for:
 
 1. **Truffle [[spore-dispersal]]:** Hypogeous fungi cannot disperse spores without animal vectors
-2. **[[mycorrhizal-inoculation]]:** Dispersed spores colonize new tree roots, maintaining ectomycorrhizal networks
+2. **[[mycorrhizal-inoculation-guide]]:** Dispersed spores colonize new tree roots, maintaining ectomycorrhizal networks
 3. **Nutrient cycling:** By consuming and processing fungal tissue, potoroos accelerate [[nutrient-mineralization]]
 4. **Forest regeneration:** The mycorrhizal partnerships enabled by potoroo dispersal are critical for seedling establishment
 

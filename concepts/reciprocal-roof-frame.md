@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [construction, permaculture, sustainability, homesteading, design]
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 
 # Reciprocal Roof Frame

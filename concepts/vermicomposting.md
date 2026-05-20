@@ -4,7 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [compost, biology, methods, homesteading, troubleshooting]
-sources: []
+sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
 ---
 
 # Vermicomposting

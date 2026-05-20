@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [psychedelics, entheogen-research, therapy, psychiatry, psychopharmacology, academia, health, pharmacology]
-sources: []
+sources: [raw/papers/psilocybin-production-gottlieb.md]
 ---
 
 # Psychedelic Therapy Current Research
@@ -177,5 +177,5 @@ Oregon and Colorado have implemented state-level regulated access to psilocybin 
 ## See Also
 
 - [[psychedelic-research-timeline]] — historical context for current research
-- [[psychedelic-integration-guide]] — post-therapy integration practices
+- [[psychedelic-integration]] — post-therapy integration practices
 - [[harm-reduction-guide]] — safety considerations for therapeutic and non-therapeutic use

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, cacti, ethnobotany, mesoamerica, new-world, shamanism, spirituality, religion, culture, psychopharmacology, safety, history, species]
-sources: []
+sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
 ---
 
 # Peyote Ceremony Guide

@@ -5,7 +5,7 @@ updated: 2026-05-06
 aliases: [plant immunity, pattern-triggered immunity, effector-triggered immunity, zig-zag model, plant defense]
 tags: [plant-science, plant-pathology, immunology, agriculture, crop-protection, molecular-biology]
 type: concept
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 
 Plants lack an adaptive immune system (no antibodies or T-cells) and instead rely on a sophisticated two-tiered innate immune system to detect and respond to pathogens. This system was formalized by Jones and Dangl in 2006 as the **zig-zag model** of plant-pathogen coevolution. The two tiers are **Pattern-Triggered Immunity (PTI)** — a broad-spectrum basal defense activated by membrane-localized receptors — and **Effector-Triggered Immunity (ETI)** — a stronger, more specific defense triggered by intracellular receptors that detect pathogen [[holmgren-permaculture-flower-conceptual-framework]] for breeding disease-resistant cultivars and understanding pathogen [[integrated-pest-management]] — practical pest management framework combining biological, cultural, and chemical approaches

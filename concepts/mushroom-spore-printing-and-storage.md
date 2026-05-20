@@ -128,4 +128,4 @@ See [[mushroom-sterile-technique-detailed]] for full agar work procedures.
 - **Silica gel packets** — include in all storage containers to absorb residual moisture
 
 ## Related
-[[mushroom-species-guide]], [[pf-tek-guide]]
+[[mushroom-species-guide]], [[pf-tek]]

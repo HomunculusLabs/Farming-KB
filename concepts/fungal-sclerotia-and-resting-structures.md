@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 Sclerotia are compact, hardened masses of fungal hyphae that serve as survival
 structures, enabling fungi to persist through periods of adverse environmental

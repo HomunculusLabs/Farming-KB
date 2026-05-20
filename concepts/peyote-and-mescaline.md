@@ -20,7 +20,7 @@ Peyote (*[[lophophora-diffusa]]** — A related species found in central Mexico;
 
 ### Ceremonial Use
 
-The [[peyote-ceremony]] (as depicted in Schultes's guide, from a painting by Tsa Toke, a Kiowa artist) involves:
+The [[peyote-ceremony-guide]] (as depicted in Schultes's guide, from a painting by Tsa Toke, a Kiowa artist) involves:
 
 - **Night-long ceremony** — Sessions begin after dark and continue until dawn.
 - **Central fire and crescent altar** — The ceremonial space is organized around a fire pit and a crescent-shaped earthen altar.

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycoremediation, mycology, ecology, pollution, remediation, fungi, environment, methods]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 # Mycoremediation Techniques
 

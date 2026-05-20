@@ -11,7 +11,7 @@ type: query
 ## How to Clone Cannabis Plants Step by Step
 
 ## Short Answer
-[[cannabis-cloning]] concept
+[[cannabis-cloning-guide]] concept
 page covers the biological basis for why cannabis cuttings can develop into
 independent plants.
 

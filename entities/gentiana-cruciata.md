@@ -27,7 +27,7 @@ Unlike the stemless alpine gentians, G. cruciata produces an erect, leafy stem 1
 
 The species is sometimes confused with [[teucrium-chamaedrys]]. These species form the characteristic community of European calcareous dry grasslands.
 
-G. cruciata is classified as Near Threatened in several [[root-cellaring]] at -20°C can extend viability to 3-5 years.
+G. cruciata is classified as Near Threatened in several [[root-cellaring-guide]] at -20°C can extend viability to 3-5 years.
 
 Plants are long-lived in suitable sites, forming attractive clumps that increase slowly through rhizome extension. Division every 4-5 years maintains vigor and provides propagation material.
 

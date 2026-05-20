@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-05-01
 type: concept
 tags: [reference]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 
 ## Mycorrhiza Bioassays in Ecological Studies

@@ -95,7 +95,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[hallucinogenic-mushroom-online-retail-markets]]
 - [[oyster-mushroom-fruiting-chamber-environment]]
 - [[oyster-mushroom-outdoor-low-tech-cultivation]]
-- [[oyster-mushroom-species]]
+- [[oyster-mushroom-species-guide]]
 - [[oyster-mushroom-substrates]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

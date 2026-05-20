@@ -126,7 +126,7 @@ Beets and chard cross freely — you cannot save seed from both in the same seas
 
 ## See Also
 
-- [[root-cellaring]]
+- [[root-cellaring-guide]]
 - [[root-development-and-plant-competition]]
 - [[seed-storage-and-preservation]]
 - [[green-manures-and-cover-crops]]

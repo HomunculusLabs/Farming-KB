@@ -104,7 +104,7 @@ Carrots are biennial and insect-pollinated (mainly by flies and small bees):
 ## See Also
 
 - [[growing-beets-and-swiss-chard]]
-- [[root-cellaring]]
+- [[root-cellaring-guide]]
 - [[root-development-and-plant-competition]]
 - [[seed-storage-and-preservation]]
 

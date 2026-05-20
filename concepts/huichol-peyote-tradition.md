@@ -17,7 +17,7 @@ sacrament of
 their religion, and their annual pilgrimage to collect peyote in the
 sacred
 land of Wirikuta is one of the most important religious ceremonies in
-indigenous [[peyote-ceremony]] is the annual pilgrimage to
+indigenous [[peyote-ceremony-guide]] is the annual pilgrimage to
 Wirikuta, a sacred area in the deserts of San Luis Potosi, some 300
 miles
 (500 km) from the Huichol homeland. This journey, which can take

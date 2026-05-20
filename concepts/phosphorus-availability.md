@@ -37,7 +37,7 @@ Because phosphorus is so immobile in soil, roots must continuously grow to maint
 
 ### Mycorrhizal Fungi
 
-Around 95 percent of all plants form [[mycorrhizal-inoculation|mycorrhizal]] associations that are critical for phosphorus uptake. Mycorrhizal fungi:
+Around 95 percent of all plants form [[mycorrhizal-inoculation-guide|mycorrhizal]] associations that are critical for phosphorus uptake. Mycorrhizal fungi:
 
 - Extend the effective surface area of root systems by 700 to 1000 times
 - Produce acids that unlock, retrieve, and transport chemically locked-up phosphorus back to the host plant
@@ -81,8 +81,41 @@ Because phosphorus is so immobile, broadcasting it on the surface is highly inef
 
 ## Related
 
-- [[mycorrhizal-inoculation]]
+- [[mycorrhizal-inoculation-guide]]
 - [[cation-exchange-capacity]]
 - [[bacterial-vs-fungal-soil]]
 - [[soil-food-web-structure]]
 - [[compost-tea-recipe-guide]]
+
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.

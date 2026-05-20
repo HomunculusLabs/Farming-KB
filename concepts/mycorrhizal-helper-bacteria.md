@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, soil-biology, symbiosis]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Mycorrhizal Helper Bacteria Mycorrhizal helper bacteria (MHB) are a functional group of rhizosphere bacteria that stimulate mycorrhiza formation -- ectomycorrhiza, arbuscular mycorrhiza, or ectendomycorrhiza -- without entering into a symbiotic relationship with plant roots. The concept was first defined by Garbaye (1994) to describe bacteria that selectively promote the establishment of mycorrhizal symbiosis. MHB have been documented to influence fungal growth, root colonization, plant nutrition, and plant health. MHB represent a critical but often overlooked component of the mycorrhizal symbiosis. While the plant-fungal partnership has been studied intensively, the bacterial associates that facilitate this relationship add an additional layer of complexity to the underground interactions that sustain terrestrial ecosystems. These bacteria occupy the mycorrhizosphere -- the narrow zone of soil influenced by both root exudates and fungal metabolites -- where they interact with both symbiotic partners. See [[staycare-molecular-approaches-fungal-bioremediation]] complement classical culture-based methods, including 16S rRNA gene sequencing, metagenomic analysis, and quantitative PCR to track MHB population dynamics.
 

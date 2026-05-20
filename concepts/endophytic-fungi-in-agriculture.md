@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [agriculture, fungi, ecology, symbiosis, biology, pest-control, environment, mycology, cultivation]
-sources: []
+sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
 ---
 
 ## Overview

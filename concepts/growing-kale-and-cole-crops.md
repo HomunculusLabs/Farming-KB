@@ -147,4 +147,4 @@ Kohlrabi awaits harvest until its base freezes, then stores well in the root cel
 - [[root-development-and-plant-competition]]
 - [[cabbage-family-pests]]
 - [[soil-fertility-gradient-approach]]
-- [[root-cellaring]]
+- [[root-cellaring-guide]]

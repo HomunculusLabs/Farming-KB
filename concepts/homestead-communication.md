@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, equipment, engineering, safety, community]
-sources: []
+sources: [raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
 ---
 
 # Homestead Communication

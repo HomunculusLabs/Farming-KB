@@ -75,7 +75,7 @@ Save seed as you would for carrots:
 ## See Also
 
 - [[growing-carrots]]
-- [[root-cellaring]]
+- [[root-cellaring-guide]]
 - [[seed-storage-and-preservation]]
 
 ## Summary and Key Takeaways

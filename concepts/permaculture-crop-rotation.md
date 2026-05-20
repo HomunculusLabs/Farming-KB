@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [permaculture, design]
-sources: []
+sources: [raw/papers/permaculture-beginners-guide.md]
 ---
 ## Permaculture Crop Rotation
 

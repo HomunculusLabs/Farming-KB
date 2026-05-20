@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, foraging, species, ecology, mycorrhizae, asia, economics]
-sources: []
+sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
 ---
 
 # Matsutake Mushroom (Tricholoma matsutake)

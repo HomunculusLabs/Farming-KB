@@ -6,6 +6,7 @@ type: concept
 tags: [mycology, chemistry, research]
 sources: [raw/papers/psilocybin-synthesis-shirota.md]
 ---
+
 --- title: Zwitterionic Phosphate Intermediate in Psilocybin Synthesis tags: - psilocybin - psilocin - organic-synthesis - phosphorylation - shirota - chemistry - magic-mushrooms - zwitterion - large-scale-synthesis date: 2026-04-28 updated: 2026-04-28 sources: - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md --- # Zwitterionic Phosphate Intermediate in Psilocybin Synthesis
 
 Shirota, Hakamata, and Goda (2003) achieved the first practical large-scale synthesis of psilocybin from psilocin without chromatographic purification, through the discovery of a zwitterionic N,O-dibenzyl phosphate intermediate. This intermediate enabled isolation by simple filtration, dramatically improving the scalability of [[phosphorylation-methods-psilocybin-production-comparison]].

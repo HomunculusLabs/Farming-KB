@@ -111,3 +111,11 @@ Understanding the watershed above and below your site is critical:
 - [[permaculture-site-analysis]]
 - [[permaculture-design-methods]]
 - [[rainwater-harvesting-systems]]
+
+## Design Notes
+
+Observation of natural patterns over at least one full season before major interventions is recommended.
+
+Zone planning should reflect actual use frequency for the specific site and occupants.
+
+Field observations and practical experience remain the most reliable guides for system optimization.

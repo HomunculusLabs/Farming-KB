@@ -42,7 +42,7 @@ Direct-market vegetables are the backbone of many homestead incomes.
 - Farm stand: self-service or staffed. Works well in high-traffic rural areas.
 - Online ordering with farm pickup: growing model. Use platforms like Harvie, Barn2Door, or a simple website.
 
-Key strategies: focus on high-value crops (tomatoes, peppers, herbs, salad mix, microgreens), extend the season with [[greenhouse-growing-guide]] techniques, and grow varieties not available in grocery stores.
+Key strategies: focus on high-value crops (tomatoes, peppers, herbs, salad mix, microgreens), extend the season with [[greenhouse-growing]] techniques, and grow varieties not available in grocery stores.
 
 ## Mushroom Production
 
@@ -119,4 +119,4 @@ Candles, soap, lip balm, fire starters, wreaths, dried arrangements, herbal wrea
 
 - [[homestead-dairy-guide]] for goat dairy income details
 - [[worm-farming-for-profit]] for vermicomposting business specifics
-- [[greenhouse-growing-guide]] for season extension to maximize vegetable income
+- [[greenhouse-growing]] for season extension to maximize vegetable income

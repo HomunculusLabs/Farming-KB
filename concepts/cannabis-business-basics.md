@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, business, law, economics, organization, regulation, safety]
-sources: []
+sources: [raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
 ---
 
 # Cannabis Business Basics

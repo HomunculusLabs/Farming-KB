@@ -2,7 +2,7 @@
 title: "Mushroom Spore Discharge Bullers Drop"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
 ---
 
 ## The Fruiting Body as a Spore-Production Device

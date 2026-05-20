@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [climate, ecology, fungi, mycorrhizae, carbon-sequestration, soil-health, environment, carbon, forest-ecology]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 
 ## Overview

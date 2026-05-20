@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, history, chemistry, psychopharmacology, counterculture, pharmacology, biochemistry, neuroscience, psychedelics, underground-press, culture]
-sources: []
+sources: [raw/papers/hofmann-a-lsd-my-problem-child.md]
 ---
 
 # LSD Synthesis History

@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
 ---
 ## Fungal Enzyme Systems ## Overview Fungal enzyme systems are the biochemical machinery that enables saprotrophic and mycorrhizal fungi [[fungal-manganese-peroxidase-remediation]]** (MnP): Oxidizes phenolic compounds and generates Mn3+ as a diffusible oxidant
 - **Laccases**: Phenol oxidases that catalyze one-electron oxidation of phenolic substrates

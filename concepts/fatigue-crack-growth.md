@@ -5,7 +5,7 @@ tags: [materials-science, fracture-mechanics, fatigue, engineering, reliability]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
 ---
 
 ## Overview

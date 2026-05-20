@@ -72,7 +72,7 @@ Mycorrhizal fungi play important roles in phytoremediation:
 ## See Also
 
 - [[pteris-vittata]]
-- [[glomalin]]
+- [[glomalin-and-soil-carbon]]
 - [[cation-exchange-capacity]]
 
 ## Advantages and Limitations

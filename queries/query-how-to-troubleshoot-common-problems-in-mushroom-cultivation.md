@@ -3,7 +3,7 @@ title: "How to Troubleshoot Common Problems in Mushroom Cultivation"
 tags: [query, mushroom-cultivation, troubleshooting, mycology, fungi]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
 
 ## How to Troubleshoot Common Problems in Mushroom Cultivation

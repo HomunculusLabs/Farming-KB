@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, homesteading, animal-husbandry, design, regenerative, food-forest, forage, livestock]
-sources: []
+sources: [raw/papers/permaculture-beginners-guide.md]
 ---
 
 # Homestead Permaculture Design

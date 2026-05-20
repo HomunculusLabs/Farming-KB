@@ -5,7 +5,7 @@ tags: [biochemistry, pharmacology, toxicology, enzyme, drug-metabolism]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 Cytochrome P450 (CYP450) is a superfamily of heme-thiolate monooxygenase enzymes
 that catalyze the oxidative metabolism of a vast range of endogenous and

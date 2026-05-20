@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [reference]
-sources: []
+sources: [raw/papers/growing-the-woodlovers-outdoors.md]
 ---
 ## Growing Tree Fruit [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Codling moth, woolly aphid, canker, apple scab, [[comparison-central-leader-vs-open-center-fruit-tree-training]], train branches at 45-degree angles, tie to wires, shorten extension growth by half, repeat annually.
 

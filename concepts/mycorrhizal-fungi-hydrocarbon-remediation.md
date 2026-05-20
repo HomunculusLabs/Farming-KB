@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-05-09
 type: concept
 tags: [mycology, soil-biology, symbiosis, bioremediation]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 
 ## Mycorrhizal Fungi in Hydrocarbon Remediation

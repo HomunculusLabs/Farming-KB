@@ -144,7 +144,7 @@ Application should be on or near the soil surface, as feeder roots for most tree
 
 Rhizobia inoculants for legumes are widely available, but plant-microbe specificity must be verified before purchase. Mycorrhizal fungi mixes are also commercially available. Fungal spores and propagules only germinate upon receiving root exudates, so direct root contact is important.
 
-[[mycorrhizal-inoculation]] is most needed in:
+[[mycorrhizal-inoculation-guide]] is most needed in:
 - New gardens and disturbed systems
 - Annuals and vegetables started indoors (away from natural soil biology)
 - Plants grown in compost, which contains few mycorrhizal spores

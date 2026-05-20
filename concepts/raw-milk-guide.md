@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [goats, food, health, law, homesteading, nutrition, safety, regulation]
-sources: []
+sources: [raw/papers/about-mushrooms-1894.md]
 ---
 
 # Raw Milk Guide

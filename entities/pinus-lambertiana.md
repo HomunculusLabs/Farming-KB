@@ -74,7 +74,7 @@ Sugar pine resin was an important resource for Native American communities throu
 
 Sugar pine is relatively fast-growing for a pine species, with dominant trees adding 30–60 cm in height annually on favorable sites. Natural rotation lengths for timber production range from 100 to 200 years.
 
-Artificial regeneration is possible but challenging due to the species' specific site requirements and susceptibility to blister rust. Nursery production requires careful attention to seed handling and [[mycorrhizal-inoculation]].
+Artificial regeneration is possible but challenging due to the species' specific site requirements and susceptibility to blister rust. Nursery production requires careful attention to seed handling and [[mycorrhizal-inoculation-guide]].
 
 Blister rust resistance breeding programs have identified and propagated resistant genotypes. Field trials in California and Oregon have demonstrated that resistant stock can survive and grow in areas where susceptible trees have been eliminated.
 

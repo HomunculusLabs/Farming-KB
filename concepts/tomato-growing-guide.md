@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, gardening, vegetables, pruning, pest-control, plant-growth, troubleshooting]
-sources: []
+sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
 ---
 
 # Tomato Growing Guide

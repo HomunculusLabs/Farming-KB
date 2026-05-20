@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, animal-husbandry, forage, equipment, livestock, design, construction]
-sources: []
+sources: [raw/papers/permaculture-beginners-guide.md]
 ---
 
 # Permaculture Chicken Tractors

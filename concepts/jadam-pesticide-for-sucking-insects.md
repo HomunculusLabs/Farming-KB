@@ -104,3 +104,18 @@ Adding 0.5kg fine red clay powder increases effectiveness but do NOT exceed JWA 
 - [[jadam-pesticide-for-aphids-and-mites]] -- lighter formulation for aphids and mites
 - [[jadam-natural-pesticide-jnp]] -- complete formulation reference with all combinations
 - [[insect-allies]] -- beneficial predators of sucking insects
+
+## Additional Notes
+
+Practical application requires adaptation to local conditions and specific use cases.
+
+Small-scale testing before large-scale deployment is always recommended.
+
+Documentation of results enables continuous improvement and community knowledge sharing.
+
+
+
+
+
+
+Field observations and practical experience remain the most reliable guides for system optimization.

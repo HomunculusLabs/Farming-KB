@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, soil-biology, symbiosis]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 ## Overview Mycorrhizal fungi form symbiotic associations with plant roots and are ubiquitous in natural environments. Their role in [[white-rot-fungi-bioremediation]] are phylogenetically related to ECM fungi and share ligninolytic enzyme systems. However, ECM fungi offer distinct advantages for soil remediation:
 - They naturally colonize the rhizosphere and persist in soil ecosystems

@@ -66,7 +66,7 @@ Some trees and shrubs considered transitional in ecological succession -- cotton
 ## Related
 
 - [[soil-food-web-structure]]
-- [[mycorrhizal-inoculation]]
+- [[mycorrhizal-inoculation-guide]]
 - [[root-exudates]]
 - [[compost-tea-recipe-guide]]
 - [[nitrogen-cycle-in-soil]]

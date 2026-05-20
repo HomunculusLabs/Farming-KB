@@ -6,6 +6,7 @@ type: query
 tags: [mycology, psychedelics]
 sources: - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md" - "raw/papers/leary-t-the-psychedelic-experience.md" - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
+
 --- title: "What Is the Difference Between Psilocybin and Psilocin" tags: [query, mycology, chemistry, psilocybin, pharmacology] date: 2026-04-25 updated: 2026-04-25 sources: [papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md] --- # What Is the Difference Between Psilocybin and Psilocin? ## Short Answer Psilocybin and psilocin are two closely related psychedelic compounds found in guzman-magic-mushrooms-african-species. Psilocybin is a stable prodrug that the body converts into psilocin, which is the active compound responsible for the psychedelic effects. ## Detailed Explanation psilocin are both indole alkaloids belonging to the
 tryptamine class of compounds, and they are the primary psychoactive
 constituents found in psilocybin-containing mushrooms. While they are

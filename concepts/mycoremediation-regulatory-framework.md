@@ -96,6 +96,24 @@ The regulatory landscape for mycoremediation is still developing. While fungi of
 - Growing acceptance as pilot projects demonstrate efficacy
 
 ## Related
-- [[mycoremediation-overview]] — for the science
+- [[cotter-mycoremediation-overview]] — for the science
 - [[mycoremediation-field-applications]] — for case studies
 - [[mycoremediation-petroleum-hydrocarbons]] — for the most common application
+
+## Practical Considerations
+
+Successful implementation depends on careful attention to environmental conditions and biological factors. Regular monitoring and documentation of results support continuous improvement.
+
+Small-scale trials before large-scale deployment allow parameter optimization without significant resource investment. Field testing under diverse conditions builds robust operational knowledge.
+
+Integration with complementary approaches often yields synergistic benefits. Cross-disciplinary knowledge transfer from related fields can reveal novel solutions to common challenges.
+
+Quality control throughout the process ensures consistent outcomes. Establishing clear benchmarks and evaluation criteria enables objective assessment of results.
+
+Adaptation to local conditions and seasonal variations is essential. What works optimally in one environment may require significant modification in another context.
+
+Documentation and knowledge sharing with the broader community accelerates collective learning and best practice development.
+
+
+
+

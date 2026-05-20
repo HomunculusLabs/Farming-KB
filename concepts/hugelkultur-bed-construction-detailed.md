@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, soil-building, compost, regenerative, gardening, plants, nutrient-cycling]
-sources: []
+sources: [raw/papers/growing-the-woodlovers-outdoors.md]
 ---
 
 # Hugelkultur Bed Construction Detailed

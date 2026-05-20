@@ -114,7 +114,7 @@ The application of allegro death and resurrection in the mushroom cult requires 
 - [[mushroom-cultivation-basics]]
 - [[pf-tek]]
 - [[mushroom-spore-syringe-preparation]]
-- [[mushroom-sterile-technique]]
+- [[mushroom-sterile-technique-detailed]]
 - [[mushroom-harvesting]]
 - [[john-allegro]]
 - [[doc]]

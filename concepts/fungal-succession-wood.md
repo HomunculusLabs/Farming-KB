@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Fungal Succession on Decomposing Wood ## Overview The [[enzymatic-degradation-in-mycoremediation]]
 - **Hemicellulose** (20-30%): Branched polymers of various sugars; more easily degraded than cellulose

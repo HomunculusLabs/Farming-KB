@@ -2,7 +2,7 @@
 title: "Inocybe Species Toxicity And Identification"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/ramsbottom-poisonous-fungi-ramsbottom.md]
 ---
 
 ## Muscarine-Type Poisoning in Inocybe

@@ -7,7 +7,7 @@ tags: [mycology, cultivation, mushrooms]
 sources: [oyster-mushroom-cultivation.md]
 ---
 ## Oyster Mushroom Species and Fruiting Parameters The genus Pleurotus encompasses a diverse group of edible mushrooms commonly known as oyster mushrooms. With over 30 recognized species and numerous strains, Pleurotus offers cultivators a wide range of options adapted to different climates, substrates, and market preferences. Understanding the specific [[oyster-mushroom-substrate-preparation]]
-- [[oyster-mushroom-species]] and Fruiting Parameters is an important subject that has garnered significant attention
+- [[oyster-mushroom-species-guide]] and Fruiting Parameters is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

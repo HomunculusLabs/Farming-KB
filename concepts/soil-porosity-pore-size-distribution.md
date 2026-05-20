@@ -4,7 +4,7 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [soil-physics, soil-structure, porosity, soil-health]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 
 ## Soil Porosity and Pore Size Distribution

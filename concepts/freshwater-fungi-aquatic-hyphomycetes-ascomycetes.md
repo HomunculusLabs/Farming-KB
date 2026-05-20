@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-05-09
 type: concept
 tags: [mycology, freshwater-fungi, aquatic-hyphomycetes, ascomycetes, stream-ecology]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 ## Freshwater Fungi — Aquatic Hyphomycetes and Ascomycetes
 Freshwater habitats harbor diverse [[savory-soil-organic-matter-and-decomposition-dynamics]] [[dighton-fungal-biomass-production-aquatic-ecosystems]].

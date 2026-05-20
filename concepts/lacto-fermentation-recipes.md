@@ -46,7 +46,7 @@ It is highly recommended that you put the fermenting foods into jars with rubber
 One of the most popular foods in the world is fermented cabbage, also known as kimchi. Kimchi recipes vary, but they all have several ingredients in common:
 
 - 1 Napa cabbage cut up into 2-inch cubes or wedges
-- 1/4 cup [[root-cellaring]]. It can be eaten raw for three weeks, and after that you will have to use it cooked with something because it will be too strong.
+- 1/4 cup [[root-cellaring-guide]]. It can be eaten raw for three weeks, and after that you will have to use it cooked with something because it will be too strong.
 
 ## Sauerkraut
 

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-control, biocontrol, fungi, agriculture, entomopathogenic, ecology, environment, pest-management]
-sources: []
+sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 ---
 
 ## Overview

@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Stable Carbon Isotope Labelling and Fatty Acid Signatures in [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]
 - [[isotopic-tracers-mycorrhizal-research]] is an important subject that has garnered significant attention

@@ -54,7 +54,7 @@ S. cynosuroides occupies a distinctive niche in [[mycorrhizae-aquatic-estuarine-
 - **Mycorrhizal contrast with S. alterniflora:** S. cynosuroides is frequently mycorrhizal while S. alterniflora is consistently reported as non-mycorrhizal, despite both growing in intertidal marsh habitats. This difference has made them a model system for studying controls on mycorrhizal formation in saline environments.
 - **Salinity and AMF:** McHugh (2001) showed that hyphal colonization of S. cynosuroides roots was not reduced by higher salinity conditions, unlike S. alterniflora which showed reduced colonization under high salinity.
 - **Nitrogen enhancement:** [[mycorrhizal-colonization-thresholds]] of S. cynosuroides roots increased total nitrogen assimilation by the plant, demonstrating a functional benefit of the AM association.
-- **Increased tillering:** [[mycorrhizal-inoculation]] resulted in more shoots per pot (increased tillering), a response also observed in dune grass and wetland rice, suggesting mycorrhizae promote vegetative spread.
+- **Increased tillering:** [[mycorrhizal-inoculation-guide]] resulted in more shoots per pot (increased tillering), a response also observed in dune grass and wetland rice, suggesting mycorrhizae promote vegetative spread.
 - **Soil stabilization:** The dense root-rhizome network and enhanced tillering from mycorrhizal colonization could significantly enhance rates of lateral spread in restoration plantings.
 
 ## Mycorrhizal Associations

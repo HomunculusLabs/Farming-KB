@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [insects, pest-management, gardening, agriculture, ecology, companion-planting, plants]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 # Beneficial Insects Guide

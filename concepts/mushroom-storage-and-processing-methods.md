@@ -17,7 +17,7 @@ type: concept
 ## Mushroom Storage and Processing Methods
 
 Mushrooms continue to respire after harvest with a relatively high respiration
-rate compared to other fresh produce. The respiration rate of [[root-cellaring]]
+rate compared to other fresh produce. The respiration rate of [[root-cellaring-guide]]
 - Enzymes react with oxygen forming brown pigments, decreasing quality
 - Water loss causes wilting and shriveling, lowering fresh mushroom quality
 - Metabolic processes generate heat if mushrooms are not rapidly cooled

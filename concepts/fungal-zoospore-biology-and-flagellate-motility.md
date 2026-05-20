@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
 ---
 Zoospores are motile, flagellated spores produced by certain groups of fungi
 and fungus-like organisms, most notably the oomycetes (including Phytophthora

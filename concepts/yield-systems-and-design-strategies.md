@@ -53,7 +53,7 @@ Mollison organizes yield-generating strategies into six categories, each address
 These strategies focus on what the system *does* — the roles and functions performed by its elements:
 
 - **Niche creation** — designing specific roles and conditions so that every element has a productive place and no niche goes unfilled.
-- **Soil rehabilitation** — restoring degraded soils through biological means ([[mycorrhizal-inoculation]]) to rebuild the foundation of productivity.
+- **Soil rehabilitation** — restoring degraded soils through biological means ([[mycorrhizal-inoculation-guide]]) to rebuild the foundation of productivity.
 - **Water diversion and management** — directing water to where it is most needed, slowing its passage through the landscape, and maximizing absorption.
 - **Integrating structures** — embedding built elements (buildings, fences, paths) into the living system so they serve multiple functions.
 - **Low-maintenance species selection** — choosing plants and animals that require minimal external input once established.

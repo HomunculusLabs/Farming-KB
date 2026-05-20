@@ -23,7 +23,7 @@ Weil's foreword to *Mycelium Running* articulates several key positions on funga
 
 **On the medical potential of fungi:** "When we first met, I was questioning why Western medicine had never looked to mushrooms as sources of new therapeutic agents, given their prominence in the traditional pharmacopeias of China, Japan, and Korea." He endorsed Stamets' "Big Idea" that fungi from old-growth forests may be sources of new medicines active against a range of germs, including HIV/AIDS and the causative agents of smallpox and anthrax — potential bioterrorist threats.
 
-**On mycoremediation:** Weil endorsed Stamets' concept that "mycelium can be selected and trained to break down toxic waste, reducing it to harmless metabolites" and the broader [[mycorestoration-overview]] strategy of using fungi to filter water, help trees grow, and control insect pests through completely nontoxic means.
+**On mycoremediation:** Weil endorsed Stamets' concept that "mycelium can be selected and trained to break down toxic waste, reducing it to harmless metabolites" and the broader [[mycorestoration]] strategy of using fungi to filter water, help trees grow, and control insect pests through completely nontoxic means.
 
 **On the ecological importance of fungi:** "Trees and other green plants could not grow and reach maturity without symbiotic associations with mushrooms, at least with mycelium, the network of fungal threads in soil that act as interfaces between plant roots and nutrients." He noted that "mushrooms — ignored by many, reviled by some — may turn out to be important keys to both human health and planetary health."
 
@@ -57,7 +57,7 @@ Weil went on to found the field of integrative medicine, which combines conventi
 - [[richard-alpert]] — Harvard colleague of Leary covered in Weil's reporting
 - [[entheogen-culture]] — Weil's early research on consciousness-altering substances
 - [[medicinal-mushroom-guide]] — Weil helped bring medicinal mushroom research to mainstream attention
-- [[mycorestoration-overview]] — Weil endorsed Stamets' mycorestoration framework
+- [[mycorestoration]] — Weil endorsed Stamets' mycorestoration framework
 ### Key Principles
 Understanding andrew weil requires consideration of several interrelated factors.
 These principles form the foundation for practical application and further research.

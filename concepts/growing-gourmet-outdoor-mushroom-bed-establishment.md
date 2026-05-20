@@ -34,7 +34,7 @@ while [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-mic
 
 - **Wood chip mulch:** Commercial landscaping mulch, commonly used
   around ornamental plantings, can serve as [[outdoor-mushroom-bed]]
-- [[oyster-mushroom-species]]
+- [[oyster-mushroom-species-guide]]
 - [[permaculture]]
 
 ## Overview

@@ -79,4 +79,4 @@ Before planting, incorporate:
 2. **[[cervantes-wind-protection-outdoor-cannabis]]:** Young trees benefit from windbreaks; hot dry winds (Santa Ana conditions) can desiccate flowers and reduce fruit set
 3. **Full sun exposure:** Southern or western exposure in cooler climates
 4. **[[stamets-growing-room-air-circulation-co2-management]]:** In [[berry-fruit-production-cool-humid-climates]], good airflow reduces disease pressure
-5. **Water access:** While [[oyster-mushroom-species|oyster mushroom species guide]]
+5. **Water access:** While [[oyster-mushroom-species-guide|oyster mushroom species guide]]

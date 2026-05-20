@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Fungal Pentachlorophenol Degradation Pentachlorophenol (PCP) is a general biocide whose worldwide use in wood and timber preservation has contributed to severe contamination at wood-treatment plants and other industrial sites. Fungal degradation of PCP represents an important application of fungal-degradation-of-phenols-and-chlorophenols. Several fungal species have demonstrated the ability to degrade PCP, though the extent and mechanism of degradation vary among species. Alcaligenes eutrophus has been shown to assimilate phenol as a sole source of carbon and 4-chlorophenol as a cometabolite. Various fungal species can metabolize mono-, di-, tri-, tetra-, and pentachlorophenol as sole sources of carbon and energy. Scopulariopsis brevicaulis has been shown to remove PCP from liquid cultures within 8 days. The proposed metabolic pathway indicates oxidation of PCP to tetrachlorohydroquinone (TCHQ), followed by further dechlorination steps. However, S. brevicaulis is unable to mineralize PCP in experiments conducted with radiolabeled carbon. A microalga designated VT1 reduced 70.3% PCP from media in the presence of light and released radiolabeled carbon dioxide from radiolabeled PCP, demonstrating the potential for photodegradation enhancement. Ochromonas danica degrades phenol and its chlorinated derivatives. ## Fungal Biosensors for PCP Detection Fungal biosensors have been developed specifically for the determination of chlorophenols including PCP. These biosensors are discussed in the context of [[white-rot-fungi-bioremediation]].
 

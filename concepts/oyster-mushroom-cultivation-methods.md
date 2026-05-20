@@ -118,7 +118,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[oyster-mushroom-species]]
+- [[oyster-mushroom-species-guide]]
 - mushroom-spawn-production
 - [[biological-efficiency-mushroom-cultivation]]
 - [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]]

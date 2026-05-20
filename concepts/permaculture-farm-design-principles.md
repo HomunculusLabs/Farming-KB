@@ -49,7 +49,7 @@ Every element in the design should be placed in relationship to other elements s
 
 ### Multiple Functions
 
-Every element in the design should perform multiple functions. A pond provides irrigation water, fire protection, aquaculture habitat, wildlife habitat, microclimate moderation, and aesthetic beauty. A windbreak provides wind protection, wildlife habitat, firewood, mulch material, and privacy screening. The principle of [[vermicomposting]] and [[mycorrhizal-inoculation]] are examples of biological approaches that build long-term soil health.
+Every element in the design should perform multiple functions. A pond provides irrigation water, fire protection, aquaculture habitat, wildlife habitat, microclimate moderation, and aesthetic beauty. A windbreak provides wind protection, wildlife habitat, firewood, mulch material, and privacy screening. The principle of [[vermicomposting]] and [[mycorrhizal-inoculation-guide]] are examples of biological approaches that build long-term soil health.
 
 ### Edge Effect
 

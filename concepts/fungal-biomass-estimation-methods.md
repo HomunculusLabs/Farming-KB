@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-05-09
 type: concept
 tags: [mycology, fungi, biomass, methods, soil-mycology]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Fungal Biomass Estimation Methods
 

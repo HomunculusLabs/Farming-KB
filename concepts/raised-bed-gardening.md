@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [regenerative, gardening, vegetables, construction, water-management, soil-building, beginner]
-sources: []
+sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
 # Raised Bed Gardening Guide

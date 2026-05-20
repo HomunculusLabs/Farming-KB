@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, cacti, preparation, recipe, psychopharmacology, mesoamerica, south-america, ethnobotany, species, beginner, chemistry, safety, methods]
-sources: []
+sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
 ---
 
 # San Pedro Cactus Preparation

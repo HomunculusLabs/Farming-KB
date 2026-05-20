@@ -6,7 +6,7 @@ tags: [physics, condensed-matter, materials-science, quantum-mechanics, cryogeni
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 Superconductivity is a [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]] (Tc). Discovered by Heike Kamerlingh Onnes in 1911 at Leiden University

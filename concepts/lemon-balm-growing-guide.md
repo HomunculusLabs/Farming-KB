@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, companion-planting, pollinators, permaculture]
-sources: []
+sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
 ---
 
 # Lemon Balm Growing Guide (Melissa officinalis)

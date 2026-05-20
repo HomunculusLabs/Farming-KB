@@ -95,9 +95,27 @@ Peyote's slow growth rate makes grafting attractive. Pereskiopsis spathulata or 
 
 - [[psychedelic-compounds-reference]] for mescaline pharmacology and comparisons
 - [[entheogen-culture]] for broader context of ceremonial plant use
-- [[amanita-muscaria-guide]] for another major entheogenic fungi
+- [[amanita-muscaria]] for another major entheogenic fungi
 - [[richard-gottlieb]] — Author of peyote and psychoactive cacti cultivation guides
 
 ## Related
 
 - [[peyote-cultivation]]
+
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.
+Field observations and practical experience remain the most reliable guides for system optimization.

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [regenerative, gardening, vegetables, permaculture, beginner, plant-systems]
-sources: []
+sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
 ---
 
 # Square Foot Gardening Guide
@@ -150,4 +150,4 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 - [[raised-bed-gardening]] for bed construction and soil preparation
 - [[companion-planting-reference]] for pairing crops in adjacent squares
 - [[seed-starting-reference]] for producing transplants
-- [[hugelkultur-guide]] for an alternative intensive growing method
+- [[hugelkultur]] for an alternative intensive growing method

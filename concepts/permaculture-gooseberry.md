@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 Updated: 2026-04-18 Gooseberry (Ribes uva-crispa) is a hardy shrub producing tart edible berries, valued in European cuisine but restricted in some [[backyard-orchard-design]] layouts.
 

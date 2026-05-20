@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [fungi, mushrooms, cultivation, indoor, species, food, asia]
-sources: []
+sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
 ---
 
 # Shimeji Cultivation Guide (Hypsizygus tessulatus)

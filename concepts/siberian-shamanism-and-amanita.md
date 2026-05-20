@@ -67,7 +67,7 @@ Michael Harner, in his introduction to "Hallucinogens and Shamanism" (1973), emp
 
 ## See Also
 
-- [[amanita-muscaria-guide]] — Identification, chemistry, and preparation of Amanita muscaria
+- [[amanita-muscaria]] — Identification, chemistry, and preparation of Amanita muscaria
 - [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom use
 - [[mushroom-folklore-and-culture]] — Folklore and cultural significance of mushrooms
 - [[r-gordon-wasson]] — Wasson's role in popularizing Siberian mushroom traditions

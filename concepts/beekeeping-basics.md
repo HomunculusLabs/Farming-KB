@@ -4,7 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [homesteading, biology, methods, troubleshooting, ecology]
-sources: []
+sources: [raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
 ---
 
 # Beekeeping Basics

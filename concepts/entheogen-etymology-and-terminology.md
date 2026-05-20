@@ -6,6 +6,7 @@ type: concept
 tags: [psychedelics, ethnobotany, entheogens]
 sources: [raw/papers/metzner-syncretic-entheogenic-folk-ceremonies-community-ritual.md]
 ---
+
 --- 2|title: Entheogen Etymology and Terminology
 tags: [etymology, terminology, psychedelics, lsd], proposed the word to describe compounds that brought about "psychic
 loosening or opening" (the German term *seelische Auflockerung* used in the

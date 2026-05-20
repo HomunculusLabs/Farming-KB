@@ -120,7 +120,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[medicinal-mushroom-guide-reishi]]
-- [[reishi-cultivation]]
+- [[reishi-cultivation-guide]]
 - [[reishi-mushroom-cultivation-and-medicinal-properties]]
 - [[reishi-mushroom-medicinal-properties]]
 - [[stamets-reishi-ganoderma-lucidum-cultivation]]

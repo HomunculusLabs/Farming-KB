@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [bacteria, pathogens, troubleshooting, plants, gardening, pest-control, cultivation]
-sources: []
+sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
 ---
 
 # Bacterial Plant Diseases

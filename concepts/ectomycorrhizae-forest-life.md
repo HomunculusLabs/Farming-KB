@@ -16,7 +16,7 @@ Nursery inoculation results have been generally positive, though sometimes showi
 ## Commercial Truffle Cultivation
 
 Knowledge of ectomycorrhizal associations enables profitable cultivation of [[dighton-fungal-drought-tolerance-plant-water-relations]], and survive transplanting better than uninoculated controls — reinforcing the critical role of [[ectomycorrhizal-remediation]]
-- [[mycorrhizal-inoculation]]
+- [[mycorrhizal-inoculation-guide]]
 - [[ectomycorrhizal-mushroom-fruiting-ecology]]
 - mycorrhizal-silviculture-lowenfels
 ## Practical Considerations
@@ -69,7 +69,7 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[dom]]
 - [[craterellus-tubaeformis]]
-- [[mycorrhizal-inoculation]]
+- [[mycorrhizal-inoculation-guide]]
 
 ## Overview
 

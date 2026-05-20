@@ -47,7 +47,7 @@ Pollock died in 1981 under circumstances that remain controversial in the mycolo
 - [[sclerotia-cultivation]] — cultivation of tampanensis sclerotia
 - [[psilocybin-mushroom-chemistry]] — species distribution in North America
 - [[psilocybin-mushroom-chemistry]] — field identification reference
-- [[amanita-muscaria-guide]] — Amanita muscaria, species Pollock studied in Alaska
+- [[amanita-muscaria]] — Amanita muscaria, species Pollock studied in Alaska
 - [[jonathan-ott]] — colleague who commented on Pollock's amanita research
 ### Key Principles
 Understanding steven pollock requires consideration of several interrelated factors.

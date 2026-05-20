@@ -65,7 +65,7 @@ The book highlights a critical concern about phosphorus availability:
 ## See Also
 
 - [[cation-exchange-capacity]]
-- [[glomalin]]
+- [[glomalin-and-soil-carbon]]
 - [[pteris-vittata]]
 - phosphorus cycle
 

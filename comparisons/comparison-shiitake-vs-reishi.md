@@ -23,7 +23,7 @@ concentrated therapeutic preparation (reishi).
 
 ## Shiitake
 
-[[reishi-cultivation]]
+[[reishi-cultivation-guide]]
 
 Reishi, known as Lingzhi in Chinese medicine, is a woody polypore with
 a distinctive lacquered, reddish-brown appearance. Unlike shiitake, it

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, psychedelics, psychology, consciousness, therapy, safety, entheogen-research]
-sources: []
+sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
 ---
 
 # Psychedelic Mushroom Set and Setting

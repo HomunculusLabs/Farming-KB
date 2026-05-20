@@ -4,7 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [permaculture, soil, compost, regenerative, methods, design, plant-growth, troubleshooting]
-sources: []
+sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
 ---
 
 # Hugelkultur
@@ -145,4 +145,4 @@ As decomposition progresses, the bed becomes increasingly productive:
 - [[permaculture-earthworks]]
 
 - [[plant-nutrient-deficiency-guide]]
-- [[hugelkultur-bed-construction]] — Hugelkultur Bed Construction provides the step-by-step building guide for creating a hugelkultur mound.
+- [[hugelkultur-bed-construction-detailed]] — Hugelkultur Bed Construction provides the step-by-step building guide for creating a hugelkultur mound.

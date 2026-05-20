@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [companion-planting, insects, plants, agriculture, gardening, pest-management, ecology, plant-systems]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 # Insectary Plantings

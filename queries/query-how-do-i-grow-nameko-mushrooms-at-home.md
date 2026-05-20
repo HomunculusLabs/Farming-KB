@@ -12,7 +12,7 @@ sources: []
 
 Nameko mushrooms ([[pholiota-nameko|Pholiota nameko]]) are a popular Japanese culinary mushroom known for their glossy, amber caps and natural gelatinous coating that creates a rich, thickening texture in soups and stir-fries.
 
-They are cultivated on supplemented hardwood sawdust blocks using methods very similar to [[enoki-cultivation|enoki]] and [[maitake-cultivation|maitake]] production.
+They are cultivated on supplemented hardwood sawdust blocks using methods very similar to [[enoki-cultivation-guide|enoki]] and [[maitake-cultivation|maitake]] production.
 
 Home growers can achieve reliable yields with basic [[mushroom-fruiting-chamber-design|fruiting chamber]] setup, grain spawn, and proper humidity management.
 

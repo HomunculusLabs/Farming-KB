@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design, tuber-crops, nitrogen-fixing]
-sources: []
+sources: [raw/papers/permaculture-beginners-guide.md]
 ---
 Updated: 2026-04-18
 Groundnut (Apios americana) is a native [[nitrogen-fixing-trees-and-shrubs]]

@@ -145,6 +145,6 @@ Understanding this cycle explains why timing matters so much:
 ## See Also
 
 - [[root-development-and-plant-competition]]
-- [[root-cellaring]]
+- [[root-cellaring-guide]]
 - [[cabbage-family-pests]]
 - [[soil-moisture-and-water-holding-capacity]]

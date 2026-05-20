@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, spawn, inoculation, workflow, preparation, storage]
-sources: []
+sources: [raw/papers/master-cho-knf-recipe-book.md]
 ---
 
 ## Overview

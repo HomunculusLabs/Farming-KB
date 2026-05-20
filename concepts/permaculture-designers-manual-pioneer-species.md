@@ -17,7 +17,7 @@ Updated: 2026-04-18
 
 Nature shows us that a sequence of processes arise in the establishment of "new" systems on devastated landscapes such as basalt flows, ice-planed or flood-swept sites. The first living components are hardy pioneer species, which establish on these damaged or impoverished environments. Thus we see "weeds" (thistles, Lantana) occupying overgrazed, eroded, or fired areas.
 
-These pioneer species assist the area by stabilising water flow in the landscape, and later they give shelter, provide mulch, or improve soil quality for their successors (the longer-term forest or tree crop species). In permaculture design, understanding this natural succession process is essential for [[mycorrhizal-inoculation]] further explains how these associations benefit the wider soil ecosystem.
+These pioneer species assist the area by stabilising water flow in the landscape, and later they give shelter, provide mulch, or improve soil quality for their successors (the longer-term forest or tree crop species). In permaculture design, understanding this natural succession process is essential for [[mycorrhizal-inoculation-guide]] further explains how these associations benefit the wider soil ecosystem.
 
 - **Organic matter accumulation**: Fast-growing pioneers produce large volumes of biomass that, when shed as leaves or cut for mulch, feed soil organisms and build humus. Over time, this transforms mineral soils into rich, dark loam capable of supporting demanding crop species.
 

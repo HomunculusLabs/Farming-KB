@@ -49,7 +49,7 @@ The more surface area of substrate available to the mycelium, the faster the deg
 
 ## See Also
 
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[mycoremediation-of-heavy-metals]]
 - [[mycoforestry-forest-restoration]]
 - [[paul-stamets]]

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, taxonomy, mushrooms, species, species-profiles, entheogen, ethnomycology]
-sources: []
+sources: [raw/papers/psilocybin-production-gottlieb.md]
 ---
 
 # Psychedelic Mushroom Taxonomy

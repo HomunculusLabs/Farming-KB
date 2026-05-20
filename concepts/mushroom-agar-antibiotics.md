@@ -139,7 +139,7 @@ Site-specific adaptation ensures relevance to local conditions.
 - [[mushroom-spawn-characteristics-and-recognition]]
 - [[mushroom-species-cultivation-methods]]
 - [[mushroom-species-selection]]
-- [[mushroom-sterile-technique]]
+- [[mushroom-sterile-technique-detailed]]
 - [[mushroom-strain-preservation-senescence]]
 - [[mushroom-substrate-bag-production]]
 - [[mushroom-tissue-cloning]]

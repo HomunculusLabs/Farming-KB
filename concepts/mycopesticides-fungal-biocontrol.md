@@ -63,7 +63,7 @@ This discovery led to U.S. Patent 6,660,290. The presporulating mycelium can be 
 
 ## See Also
 
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[paul-stamets]]
 - [[stamets-patents]]
 ### Key Principles

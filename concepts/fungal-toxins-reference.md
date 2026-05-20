@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, chemistry, health, medicine, safety, biochemistry, species]
-sources: []
+sources: [raw/papers/amanita-muscaria-herb-of-immortality.md]
 ---
 
 # Fungal Toxins Reference

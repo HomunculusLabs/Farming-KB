@@ -2,7 +2,7 @@
 title: "Boil A Bag Mushroom Cultivation Technique"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md]
 ---
 
 ## Overview

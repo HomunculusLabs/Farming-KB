@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, law, design, sustainability, permaculture]
-sources: []
+sources: [raw/papers/urban-permaculture-guerilla-gardening.md]
 ---
 
 # Homestead Planning and Zoning

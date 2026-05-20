@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [soil, fertilizer, minerals, calcium, phosphorus, npk, ph, soil-amendment, gardening, reference]
-sources: []
+sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
 ---
 
 # Soil Amendment Reference

@@ -89,5 +89,5 @@ Species are concentrated in the states of Oaxaca, Puebla, Veracruz, Chiapas, and
 ## Related Topics
 
 - [[psilocybin-mushroom-habitat-types]] for detailed habitat descriptions
-- [[psilocybin-mushroom-identification-guide]] for identification features
+- [[psilocybin-mushroom-identification]] for identification features
 - [[psychedelic-mushroom-pharmacology]] for the chemistry

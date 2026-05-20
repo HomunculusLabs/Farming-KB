@@ -76,7 +76,7 @@ The "Teaming With" trilogy has become essential reading for organic and regenera
 - [[compost-tea-aact]] — Compost tea brewing
 - [[composting-systems]] — Compost methods
 - [[mulching-guide]] — Mulch for soil biology
-- [[glomalin]] — Mycorrhizal soil carbon compound
+- [[glomalin-and-soil-carbon]] — Mycorrhizal soil carbon compound
 - [[soil-fertility-management]] — Nutrient management
 - [[vermicomposting]] — Worm composting
 - [[no-till-gardening-method]] — Protecting fungal networks

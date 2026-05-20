@@ -76,7 +76,7 @@ it can persist in soils and compost feedstocks for decades after application.
   beneficial fungi, bacteria, nematodes, and microarthropods that are essential
   to [[soil-food-web]].
 - Recovery of soil biology on contaminated sites may require active remediation
-  through compost tea applications, [[mycorrhizal-inoculation]], and introduction of
+  through compost tea applications, [[mycorrhizal-inoculation-guide]], and introduction of
   diverse microbial communities.
 
 ### Remediation Strategies

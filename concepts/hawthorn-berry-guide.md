@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, fruit-tree, pruning, permaculture]
-sources: []
+sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
 ---
 
 # Hawthorn Berry Growing Guide (Crataegus species)

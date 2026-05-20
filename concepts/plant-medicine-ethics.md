@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [ethics, ethnobotany, entheogen, sustainability, culture, activism, principles, ecology]
-sources: []
+sources: [raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
 ---
 
 # Plant Medicine Ethics

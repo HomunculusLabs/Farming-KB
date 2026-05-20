@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Fungal Diversity in Boreal Forests and Taiga Boreal forests and taiga represent vast but poorly sampled ecosystems for fungal diversity. Characterized by cold climates, permafrost, and conifer-dominated vegetation, these forests harbor distinctive fungal assemblages adapted to harsh conditions. [[psychrophilic-fungi]] [[soil-food-web-nutrient-cycling]] [[fungal-sampling-methods]]
 

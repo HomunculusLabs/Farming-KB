@@ -58,7 +58,7 @@ Teeter's work is considered highly speculative by mainstream scholars. Andy Letc
 
 ## See Also
 
-- [[amanita-muscaria-guide]] for the comprehensive guide incorporating Teeter's findings
+- [[amanita-muscaria]] for the comprehensive guide incorporating Teeter's findings
 - [[soma-hypothesis]] for the broader scholarly debate
 - [[entheogen-culture]] for context on entheogenic theories of religion
 - [[r-gordon-wasson]] for the original Soma hypothesis

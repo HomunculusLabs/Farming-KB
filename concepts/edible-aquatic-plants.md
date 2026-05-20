@@ -9,7 +9,7 @@ sources:
 ---
 ## Edible Aquatic Plants for Permaculture
 
-Water plants provide direct food for humans, fish, and other [[hugelkultur-bed-construction]].
+Water plants provide direct food for humans, fish, and other [[hugelkultur-bed-construction-detailed]].
 
 ## Submerged Plants
 

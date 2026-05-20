@@ -97,7 +97,7 @@ reliably distinguish edible from poisonous fungi.
 
 ### Myth: "All fungi growing from wood are dangerous"
 **Reality**: Many excellent edibles grow on wood, including the elm-tree mushroom
-and various [[oyster-mushroom-species]].
+and various [[oyster-mushroom-species-guide]].
 
 ## The Analogy of Practical Knowledge
 

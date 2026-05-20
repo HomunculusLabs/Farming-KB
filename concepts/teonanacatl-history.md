@@ -28,7 +28,7 @@ The use of [[mckenna-mushroom-stones-of-guatemala]]"
 dating to
 approximately 1000 B.C., which are interpreted as ceremonial objects
 associated
-with a [[peyote-ceremony]]), and [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]" among the Mazatec of [[huautla-de-jimenez]].
+with a [[peyote-ceremony-guide]]), and [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]" among the Mazatec of [[huautla-de-jimenez]].
 Johnson's
 research was cut short by his death in World War II.
 

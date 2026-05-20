@@ -27,10 +27,10 @@ interference.
 
 ## Growing Autoflowers
 
-Autoflowering plants are sensitive to stress. [[cannabis-cloning]] programs because they cannot be maintained in [[chionanthus-virginicus]]
+Autoflowering plants are sensitive to stress. [[cannabis-cloning-guide]] programs because they cannot be maintained in [[chionanthus-virginicus]]
 
 - [[guerilla-growing]] -- ideal use case for autoflowers
-- [[cannabis-cloning]] -- why autoflowers cannot be cloned effectively
+- [[cannabis-cloning-guide]] -- why autoflowers cannot be cloned effectively
 ## Practical Considerations
 
 Successful implementation of Autoflowering Cannabis requires attention to

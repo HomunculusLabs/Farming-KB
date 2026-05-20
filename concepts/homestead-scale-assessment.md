@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, economics, business, sustainability, agriculture]
-sources: []
+sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
 ---
 
 # Homestead Scale Assessment

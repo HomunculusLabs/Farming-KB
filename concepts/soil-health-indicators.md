@@ -110,3 +110,11 @@ The simplest soil health assessment:
 - [[compost-tea-aact]] — how to restore soil biology
 - [[no-till-gardening-method]] — practices that protect soil health
 - [[soil-food-web-nutrient-cycling]] — the philosophy of biological soil management
+
+## Monitoring Notes
+
+Regular soil testing every 2-4 weeks during active growing season allows timely amendments.
+
+Biological indicators such as earthworm populations provide complementary assessment of soil health.
+
+Integration with cover cropping enhances long-term soil fertility and structure.

@@ -108,3 +108,14 @@ The charcoal in FMC is particularly important — it provides:
 - [[compost-tea-aact]] — Compost tea as liquid FMC extension
 - [[bokashi]] — EM bokashi as alternative approach
 - [[soil-food-web-nutrient-cycling]] — Nutrient cycling from FMC
+
+## Additional Notes
+
+Practical application requires adaptation to local conditions and specific use cases.
+
+Small-scale testing before large-scale deployment is always recommended.
+
+Documentation of results enables continuous improvement and community knowledge sharing.
+
+
+Field observations and practical experience remain the most reliable guides for system optimization.

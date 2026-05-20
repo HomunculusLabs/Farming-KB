@@ -17,7 +17,7 @@ Application method matters: dip the cut end 1-2 inches into the rooting hormone,
 
 Several recurring issues can reduce clone success rates:
 - **Wilting after cutting**: Caused by insufficient humidity or excessive transpiration through untrimmed leaves. Increase dome humidity and ensure fan leaves are trimmed by at least half.
-- **Slowed rooting from flowering mothers**: Clones taken from plants in week 3+ of flower carry hormonal signals that delay vegetative reversion. Expect 2-4 weeks for re-vegging after rooting, and monitor for abnormal [[cannabis-cloning]]
+- **Slowed rooting from flowering mothers**: Clones taken from plants in week 3+ of flower carry hormonal signals that delay vegetative reversion. Expect 2-4 weeks for re-vegging after rooting, and monitor for abnormal [[cannabis-cloning-guide]]
 - [[dom]]
 - [[indole]]
 

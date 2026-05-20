@@ -113,7 +113,7 @@ Practitioners should evaluate substrate composition and supplier reliability bef
 - [[mushroom-cultivation-basics]]
 - [[pf-tek]]
 - [[mushroom-spore-syringe-preparation]]
-- [[mushroom-sterile-technique]]
+- [[mushroom-sterile-technique-detailed]]
 - [[mushroom-harvesting]]
 - [[growing-gourmet-stump-totem-cultivation]]
 - [[white-rot-fungi]]

@@ -112,7 +112,7 @@ The application of ectomycorrhizal fungi environmental change requires site-spec
 - [[mushroom-cultivation-basics]]
 - [[pf-tek]]
 - [[mushroom-spore-syringe-preparation]]
-- [[mushroom-sterile-technique]]
+- [[mushroom-sterile-technique-detailed]]
 - [[mushroom-harvesting]]
 - [[mycorrhizal-fungi-pollution-responses]]
 - [[fungal-radionuclide-accumulation]]

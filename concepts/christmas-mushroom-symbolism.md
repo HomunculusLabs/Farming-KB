@@ -87,6 +87,6 @@ The Christmas-mushroom connection is visually striking and the parallels are num
 
 - [[mushrooms-and-mankind]] — Arthur's comprehensive ethnomycological theory
 - [[siberian-shamanism-and-amanita]] — Siberian Amanita traditions and critiques
-- [[amanita-muscaria-guide]] — Biology, chemistry, and identification
+- [[amanita-muscaria]] — Biology, chemistry, and identification
 - [[entheogen-culture]] — Entheogens across religious traditions
 - [[mushroom-folklore-and-culture]] — Broader folklore and cultural significance

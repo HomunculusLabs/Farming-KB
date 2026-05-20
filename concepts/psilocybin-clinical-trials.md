@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, psychiatry, psychopharmacology, psychedelics, entheogen-research, health, therapy, academia]
-sources: []
+sources: [raw/papers/psilocybin-production-gottlieb.md]
 ---
 
 # Psilocybin Clinical Trials

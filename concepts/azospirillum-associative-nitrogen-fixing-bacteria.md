@@ -4,7 +4,7 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [soil-microbiology, nitrogen-fixation, plant-growth-promoting-rhizobacteria, biofertilizer]
-sources: []
+sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 ---
 ## Azospirillum — Associative Nitrogen-Fixing Bacteria
 

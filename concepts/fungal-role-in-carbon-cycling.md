@@ -23,7 +23,7 @@ Fungi are the dominant decomposers of wood. White-rot basidiomycetes degrade all
 ## Carbon Sequestration
 
 Fungi contribute to long-term carbon storage through several mechanisms:
-- **Glomalin production** — Arbuscular mycorrhizal fungi produce glomalin, a recalcitrant glycoprotein that persists in soil for decades. See [[glomalin]] for details
+- **Glomalin production** — Arbuscular mycorrhizal fungi produce glomalin, a recalcitrant glycoprotein that persists in soil for decades. See [[glomalin-and-soil-carbon]] for details
 - **Necromass accumulation** — Dead fungal hyphae and melanized cell walls contribute to stable soil organic matter
 - **Aggregation** — Fungal hyphae bind soil particles into aggregates that physically protect organic carbon
 - **Ectomycorrhizal mats** — ECM fungi form dense mycelial mats that sequester carbon in forest soils
@@ -41,7 +41,7 @@ Fungal respiration returns significant CO2 to the atmosphere. The balance betwee
 - [[fungal-ecology-decomposition-cycles]] for temporal dynamics of fungal decomposer communities
 - [[fungal-role-in-nitrogen-cycling]] for coupled nutrient cycling
 - [[fungal-nutrient-cycling-mineral-transformations]] for phosphorus dynamics
-- [[glomalin]] for mycorrhizal carbon sequestration
+- [[glomalin-and-soil-carbon]] for mycorrhizal carbon sequestration
 - [[white-rot-fungi-bioremediation]] for applied lignin degradation
 ### Key Principles
 Understanding fungal role in carbon cycling requires consideration of several interrelated factors.

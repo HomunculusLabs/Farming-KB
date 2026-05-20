@@ -58,7 +58,7 @@ Taro corm nutrition (per 100 g): Water 73%, 98 cal, Carbohydrate 23.7 g, Fat 0.2
 
 - [[salt-tolerant-plant-guide]]
 - [[difficult-site-planting]]
-- [[permaculture-plant-selection-guide]]
+- [[permaculture-plant-selection]]
 ### Key Principles
 Understanding water plant guide requires consideration of several interrelated factors.
 These principles form the foundation for practical application and further research.

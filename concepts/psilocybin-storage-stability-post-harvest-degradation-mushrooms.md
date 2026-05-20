@@ -14,7 +14,7 @@ variability, providing evidence of [[enzymatic-degradation-in-mycoremediation]].
 - **Sealed packaging:** Dried mushrooms sealed in plastic, excluding
   atmospheric oxygen and moisture that promote psilocin oxidation.
 
-- **[[root-cellaring]]:** Samples stored at -5 C until analysis. Low
+- **[[root-cellaring-guide]]:** Samples stored at -5 C until analysis. Low
   temperature slows residual enzymatic activity and oxidation.
 
 - **Voucher specimens:** Deposited at University of Washington Herbarium

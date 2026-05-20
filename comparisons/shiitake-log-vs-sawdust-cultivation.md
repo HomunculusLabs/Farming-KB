@@ -57,7 +57,7 @@ The debate over flavor and quality between log-grown and sawdust-grown Shiitake 
 - **Sawdust-grown Shiitake** produce larger caps more quickly, with a milder flavor and softer texture. They are more visually uniform, which is advantageous for commercial packaging and retail sales.
 - **Donko-grade** (thick, cracked-cap) Shiitake, the premium product in Japanese markets, is difficult to produce on sawdust substrate and is most reliably achieved through log cultivation with specific strain selection and environmental manipulation.
 ## Comparison to Other Specialty Mushrooms
-The log vs. sawdust decision applies differently to other species. [[mushroom-cultivation-bulk-substrates]], [[enoki-cultivation]], log-culture-outdoor-mushroom-cultivation
+The log vs. sawdust decision applies differently to other species. [[mushroom-cultivation-bulk-substrates]], [[enoki-cultivation-guide]], log-culture-outdoor-mushroom-cultivation
 - [[shiitake-cultivation-on-sawdust]]
 
 ## Overview

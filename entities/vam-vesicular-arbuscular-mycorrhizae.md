@@ -23,7 +23,7 @@ Vesicular-Arbuscular Mycorrhizae (VAM), also called [[arbuscular-mycorrhizal-fun
 
 - VAM colonization below 40% correlates with root disease problems, root-feeding nematodes, and other root pests.
 - Once colonization exceeds 30-40%, root disease problems begin to diminish significantly.
-- Colonization below 10-15% indicates that [[mycorrhizal-inoculation]] is needed to improve plant health.
+- Colonization below 10-15% indicates that [[mycorrhizal-inoculation-guide]] is needed to improve plant health.
 - Between 15-40% colonization, adding compost, compost tea, or humic acids to the root zone accelerates colonization.
 - Compost and compost tea serve as food resources for VAM fungi, supplementing plant-derived carbon when conditions are suboptimal.
 - Humic acids in compost and compost tea act as fungal foods that stimulate mycorrhizal growth and macroaggregate formation.

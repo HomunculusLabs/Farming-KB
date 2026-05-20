@@ -114,7 +114,7 @@ The application of boundary layer redistribution fungal tropism requires site-sp
 - [[mushroom-cultivation-basics]]
 - [[pf-tek]]
 - [[mushroom-spore-syringe-preparation]]
-- [[mushroom-sterile-technique]]
+- [[mushroom-sterile-technique-detailed]]
 - [[mushroom-harvesting]]
 - [[psilocybe-cubensis-tropisms]]
 - [[mushroom-geotropism]]

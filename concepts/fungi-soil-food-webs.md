@@ -101,7 +101,7 @@ The ratio of fungal to bacterial biomass (F:B ratio) is a useful indicator of:
 Fungi play a major role in creating and stabilizing soil aggregates:
 
 - **Hyphal entanglement**: Fungal hyphae physically bind soil particles together, forming macroaggregates (>250 um). This is especially important in sandy and loamy soils.
-- **Glomalin**: AM fungi produce glomalin, a glycoprotein that acts as a biological glue. Glomalin persists in soil for years to decades and is a significant component of soil organic matter (1-5% of total SOC). See [[glomalin]].
+- **Glomalin**: AM fungi produce glomalin, a glycoprotein that acts as a biological glue. Glomalin persists in soil for years to decades and is a significant component of soil organic matter (1-5% of total SOC). See [[glomalin-and-soil-carbon]].
 - **Hyphal residues**: Dead fungal hyphae contribute polysaccharides and other compounds that stabilize aggregates. Fungal necromass is a major source of stable soil organic carbon.
 - **Water stability**: Fungal-stabilized aggregates are more water-stable than those stabilized by bacteria, reducing erosion risk.
 
@@ -167,7 +167,7 @@ Fungal biomass and activity fluctuate seasonally:
 - [[fungal-ecology-decomposition-cycles]] -- decomposition succession
 - [[fungal-nutrient-cycling-mineral-transformations]] -- mineral cycling
 - [[fungal-bacterial-interactions]] -- competition and cooperation
-- [[glomalin]] -- AM fungal glycoprotein for soil aggregation
+- [[glomalin-and-soil-carbon]] -- AM fungal glycoprotein for soil aggregation
 - [[soil-food-web-nutrient-cycling]] -- full soil food web structure
 - [[soil-food-web-nutrient-cycling]] -- nutrient cycling through the food web
 - [[no-till-gardening-method]] -- impacts on fungal communities

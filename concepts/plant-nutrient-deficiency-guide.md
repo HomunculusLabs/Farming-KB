@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [nutrients, npk, soil, fertilizer, troubleshooting, plants, plant-growth, minerals, soil-amendment, biology]
-sources: []
+sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
 ---
 
 # Plant Nutrient Deficiency Guide

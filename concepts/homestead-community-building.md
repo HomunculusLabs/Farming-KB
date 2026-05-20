@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, community, sustainability, economics, permaculture]
-sources: []
+sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
 ---
 
 # Homestead Community Building

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, therapy, psychology, psychiatry, psychedelics, psychopharmacology, health, methods, safety]
-sources: []
+sources: [raw/papers/psilocybin-production-gottlieb.md]
 ---
 
 # Psychedelic Assisted Therapy Protocol
