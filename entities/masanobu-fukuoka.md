@@ -1,7 +1,8 @@
 ---
 title: "Masanobu Fukuoka"
 tags: []
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 title: Masanobu Fukuoka
 created: 2026-04-11
@@ -147,4 +148,3 @@ Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
-

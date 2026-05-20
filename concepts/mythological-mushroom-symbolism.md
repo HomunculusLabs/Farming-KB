@@ -167,4 +167,3 @@ Arthur argues that tracing gods back through time reveals common attributes poin
 - The god IS the food IS the sacrifice
 
 Similarities between Horus (Egypt), Mithra (Persia), Krishna (India), and Jesus number in the hundreds — "Take and eat, This is my body" is the central theme uniting them all.
-

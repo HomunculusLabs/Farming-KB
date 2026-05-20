@@ -145,32 +145,3 @@ Microorganisms have two major functions in farming:
 6. If temp drops below 40C (too wet) or rises above 70C (nutrient loss), turn immediately
 7. Takes 5-7 days for white spores to cover surface = complete
 11. Finished IMO-3 has a pleasant smell (Absida, [[aspergillus]], Mucor, Rhizopus) and white colonies
-
-**Expected microbes**: [[aspergillus-oryzae]], Bacillus subtilis, and many others from the paddy straw.
-
-**Storage**: Keep in jute/gunny/cloth bags in shaded, cool, ventilated area. Pile containers 3 layers high, shield from sun and rain. Moisture drops to 20-30% (dormancy phase). No need to turn during storage.
-
-### Stage 4: IMO-4 (Final Product)
-
-**What**: Build a complete soil inoculant by harmonizing wild IMOs with field soil.
-
-**Materials**:
-- IMO-3: 10 kg
-- Field/crop soil: 5 kg (50%)
-- Red fine soil from anthill/termite mound: 5 kg (20%)
-- Additional field soil: ~5 kg (30% of total soil)
-- Optional: seawater and diluted NF inputs for moisture adjustment
-
-**Process**:
-1. Mix 1 part IMO-3 with 1 part soil total
-2. Soil composition: 50% field soil + 20% anthill/termite mound soil + 30% additional field soil
-3. Mix on soil floor (NOT concrete)
-4. Create heap not more than 20 cm high
-5. Adjust moisture to 65-75% with diluted NF inputs (FPJ, FFJ, FAA, LAB at 1:1000)
-
-## See Also
-
-- [[query-how-do-i-use-beneficial-indigenous-microorganisms]]
-
-- [[imo-indigenous-microorganisms]]
-- [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]

@@ -146,27 +146,3 @@ Soil testing is the foundation of informed soil management. Without knowing your
 |-----------|-------------|
 | [[starting-a-new-garden]]/bed | Lab test (full panel) |
 | Annual monitoring of established beds | Lab test every 2–3 years |
-| Quick pH check before planting | Digital pH meter |
-| Suspected micronutrient problem | Lab test (include micronutrients) |
-| Urban garden / heavy metal concern | Lab test with metals panel |
-| Tracking compost amendment effects | pH meter + DIY OM test |
-| Cannabis living soil bed | pH meter + annual lab test |
-
-## Sampling Technique (Critical)
-
-Bad sampling produces bad data. Follow this protocol:
-
-### Tools
-- Clean stainless steel trowel or soil probe (not galvanized — zinc contamination)
-- Plastic bucket (not metal for micronutrient samples)
-- Ziploc bags (clean)
-- [[permanent-marker]]
-
-### Method
-1. **Divide the area into zones** — each distinct soil type, previous crop, or amendment history gets its own sample
-2. **Take 10–15 subsamples per zone** — walk a zigzag pattern, collect from 0–6 inch depth (standard garden) or 0–8 inches (field crops)
-
-## See Also
-
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[comparison-no-till-vs-mulch-soil-management]]

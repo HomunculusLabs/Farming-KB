@@ -1,7 +1,8 @@
 ---
 title: "Fukuoka Rice Barley Annual Calendar"
 tags: []
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 title: Fukuoka Rice Barley Annual Calendar
 created: 2026-04-12

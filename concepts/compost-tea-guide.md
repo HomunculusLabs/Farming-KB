@@ -147,4 +147,3 @@ Ingham recommends microscope assessment at 400x magnification:
 - If must store briefly: keep aerated, use within 24 hours, biology declining rapidly
 - Compost tea cannot be shipped or stored long-term — brew fresh on-site
 - This is why commercial compost tea products are typically extracts, not true AACT
-

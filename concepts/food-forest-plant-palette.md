@@ -147,4 +147,3 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 - Always keep soil covered -- clover between trees, straw mulch, or living ground covers
 - Harvest rainwater from any nearby structures to irrigate during establishment
 - Use [[permaculture-useful-plants-reference]] to select species suited to your climate
-

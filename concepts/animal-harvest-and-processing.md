@@ -147,4 +147,3 @@ See [[food-preservation-canning]] for detailed methods. [[cover-crop-quick-refer
 - **Smoking**: Cold smoke (80-100F) 4-8 hours after curing; hardwood (hickory, apple, cherry)
 - **Bacon from duck/goat belly**: Cure 7 days, cold smoke 4 hours, cook to 150F
 - **Jerky**: Slice 1/4" strips, marinate, dehydrate at 160F until brittle
-

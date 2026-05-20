@@ -147,4 +147,3 @@ Building an urban permaculture site largely from salvaged materials is both prac
 **Water harvesting infrastructure**: Corrugated steel roofing replaces toxic asphalt for rainwater harvesting. Passive solar water heaters built from stripped-down gas water heater tanks in insulated boxes. Old sinks and bathtubs become planters and water features.
 
 **Passive solar retrofits**: Double-glazed windows from salvage replace termite-ridden originals. Old glass saved for [[season-extension-techniques]] solar ovens and cold frames. Rock retaining walls (collected free from development sites) create microclimates and thermal mass. Rebar trellises support edible vines that shade walls in summer.
-

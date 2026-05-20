@@ -146,35 +146,3 @@ Total alkaloids: up to ~2.5% dry weight (25 mg/g).
 |-----------|---------|---------------------|
 | Mycelial growth rate | Baseline | 2-3x faster |
 | Time to first flush | 4-5 weeks | 3-3.5 weeks |
-| First flush mushroom count | 1-3 | 4-7 |
-| Dry mass per 10g substrate | 2.3-2.9g | 3.4-3.9g |
-| Incomplete fruit bodies | Common | Almost completely suppressed |
-
-Morphological change: treated fruit bodies lacked the typical membranous annulus on stems. First study demonstrating brassinosteroid effects on fungi.
-
-## Light Effects on Fruiting (Badham 1980)
-
-Basidiocarp initiation in P. cubensis requires light:
-
-- **Minimum duration**: 0.0025 sec xenon-arc flash sufficient
-- **Saturation dose**: 0.345 x 10^4 ergs/cm2 at 460nm
-- **Effective wavelengths**: UV and blue (370, 440, 460nm most effective)
-- **Ineffective**: Green and red wavelengths >510nm
-- **Mechanism**: Phototropic response; blue spectrum (370-420nm) most effective for primordia formation
-
-## Spawn Grain x Medium Interaction (Nwanze et al. 2005)
-
-Lentinus squarrosulus on 6 media x 3 spawn grains — significant interaction effects:
-
-| Spawn x Medium | Stipe Dia (cm) | Dry Weight (g) | Pileus Dia (cm) |
-|---------------|----------------|----------------|-----------------|
-| Millet x Animal bedding+rice | 0.53 (best) | 0.25 | 2.68 |
-| Corn x Animal bedding+rice | 0.47 | 0.62 (best) | 4.37 (best) |
-| Wheat x Sawdust | 0.36 | 0.25 | 2.62 |
-
-Key finding: corn spawn x animal bedding/rice medium produced heaviest carpophores and widest caps. Millet spawn x same medium gave widest stipes. Spawn grain choice interacts significantly with substrate medium.
-
-## See Also
-
-- [[fungi-in-the-environment-fungal-ecosystems]]
-- [[fungal-amber-fossils]]

@@ -147,4 +147,3 @@ Caused by inhaling massive quantities of puffball (*Lycoperdon*) spores. In 1994
 See also [[mushroom-identification]], [[mushroom-toxicity-identification-warnings]], [[mycotoxins-and-human-health]], [[amanita-muscaria]], [[mushroom-identification-resources]]
 
 ## Related
-

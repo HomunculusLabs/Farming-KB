@@ -147,4 +147,3 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 - **Shrubs**: Aronia, elderberry (tolerate shade, share harvest season)
 - **Vine**: Passionfruit (maypop) — dies back, shares late-season interest
 - **Animal integration**: Fallen fruit feeds ducks and goats
-

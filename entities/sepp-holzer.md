@@ -1,7 +1,8 @@
 ---
 title: "Sepp Holzer"
 tags: []
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 title: Sepp Holzer
 created: 2026-04-11

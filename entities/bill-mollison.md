@@ -1,7 +1,8 @@
 ---
 title: "Bill Mollison"
 tags: []
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 title: Bill Mollison
 created: 2026-04-11

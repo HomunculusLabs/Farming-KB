@@ -1,7 +1,8 @@
 ---
 title: "Fukuoka Philosophy In Practice"
 tags: []
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 title: Fukuoka's Philosophy in Practice
 created: 2026-04-11

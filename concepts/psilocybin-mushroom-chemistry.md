@@ -147,4 +147,3 @@ The final step before the psilocybin-specific pathway is subject to feedback inh
 | Indole-3-acetaldehyde | Unknown mechanism | 50% |
 
 Non-inhibitors: 5-Methoxy-DMT, 5-methoxytryptamine, indole-3-pyruvic acid (0% inhibition). This feedback system explains why simply adding tryptamine to substrate can dramatically alter alkaloid profiles (see Gartz biotransformation below).
-

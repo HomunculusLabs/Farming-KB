@@ -146,28 +146,3 @@ Light-spored mushroom (rose-colored spore dust) in the Pluteaceae family. First 
 ### Description
 
 - **Cap**: Up to 8 cm, lighter at margin, silver grey, hairy/felt-like, often scaly
-- **Stem**: Up to 10 cm, grey-green or grey-blue discolorations at base
-- **[[spore-print]]**: Rose/pink (unlike all other psychoactive genera)
-- **Habitat**: Stumps of willows, alders, lindens, beeches, poplars, maples; May-October
-- **Note**: Albino forms exist with grey-green stem bases and cap apex areas
-
-### Alkaloid Content (German samples, non-bluing)
-
-| Sample | Cap Psilocybin (%) | Stem Psilocybin (%) | Cap Urea (%) |
-|--------|-------------------|--------------------|--------------------|
-| 1 | 1.38 | 0.48 | 2.50 |
-| 2 | 1.57 | 0.71 | 2.60 |
-| 3 | 1.57 | 0.71 | 2.60 |
-| 4 | 1.22 | 1.14 | 1.40 |
-| 5 | 1.39 | 0.64 | 2.40 |
-
-Swiss samples (Stijve): average 0.25% psilocybin. Bluing Dubener marshlands samples: 0.2-0.7% psilocybin + trace baeocystin. European mushrooms produce only traces of psilocin. North American and European populations may not be identical species.
-
-### Other Pluteus Species
-
-- **Pluteus nigroviridis Babos**: Extremely rare (Hungary), only 0.035% psilocybin
-
-## See Also
-
-- [[fukuoka-european-civilization-standstill]]
-- [[hallucinogenic-mushrooms-european-trends]]

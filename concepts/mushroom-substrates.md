@@ -147,4 +147,3 @@ Synthetic logs combine the natural log geometry with supplemented sawdust nutrit
 | Gypsum (CaSO4) | 12g | pH buffer, calcium, texture |
 | Calcium carbonate (CaCO3) | 6g | pH buffer |
 | Water | 1.2-1.3L | 55-65% moisture content |
-

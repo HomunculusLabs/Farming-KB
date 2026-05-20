@@ -1,58 +1,30 @@
 ---
-title: "Knf Troubleshooting"
-tags: []
-sources: []
----
-title: KNF Troubleshooting — Problems and Solutions
-created: 2026-04-11
-updated: 2026-04-12
-type: concept
-
+title: "KNF Troubleshooting"
 tags:
-- knf
-- troubleshooting
-- fermentation
-- recipe
-- microbes
-- old-world
-- rice
-- plant-growth
-
+  - knf
+  - troubleshooting
+  - fermentation
+  - recipe
+  - microbes
+  - old-world
+  - rice
+  - plant-growth
 sources:
-- raw/papers/master-cho-knf-recipe-book.md
-- raw/papers/bahay-kubo-indigenous-microorganisms_.md
-- raw/papers/chos-global-natural-farming.md
-- raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
----
-title: KNF Troubleshooting — Problems and Solutions
-created: 2026-04-11
-updated: 2026-04-12
-type: concept
-
-tags:
-- knf
-- troubleshooting
-- fermentation
-- recipe
-- microbes
-- old-world
-- rice
-- plant-growth
-
-sources:
-- raw/papers/master-cho-knf-recipe-book.md
-- raw/papers/bahay-kubo-indigenous-microorganisms_.md
-- raw/papers/chos-global-natural-farming.md
-- raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
+  - raw/papers/master-cho-knf-recipe-book.md
+  - raw/papers/bahay-kubo-indigenous-microorganisms_.md
+  - raw/papers/chos-global-natural-farming.md
+  - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
 ## KNF Troubleshooting
 
-Synthesized from all KNF input pages. Covers preparation failures, plant symptom diagnosis, pest/disease responses, and emergency rescue treatments. See [[knf-preparations]] for recipes and [[nutritive-cycle-theory]] for growth-stage timing.
+Synthesized from all [[korean-natural-farming]] input pages. Covers preparation failures, plant symptom diagnosis, pest/disease responses, and emergency rescue treatments. See [[knf-preparations]] for recipes, [[nutritive-cycle-theory]] for growth-stage timing, and [[knf-plant-stage-treatments]] for stage-specific protocols.
 
 ## Preparation Failures
 
 ### IMO Won't Culture
+
+See [[knf-indigenous-microorganism-culture]] for full IMO collection and culturing instructions.
 
 | Symptom | Cause | Fix |
 |---------|-------|-----|
@@ -65,6 +37,8 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 
 ### FPJ/FFJ Smells Bad
 
+See [[knf-fermented-plant-juice]] and [[knf-fermented-fruit-juice]] for proper preparation methods.
+
 | Symptom | Cause | Fix |
 |---------|-------|-----|
 | Putrid/rotten smell | Anaerobic fermentation, wrong plant | Discard. Ensure breathable cover first 1-2 days. Avoid cucumber, melon, strawberry (too much sugar) |
@@ -75,6 +49,8 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 
 ### FAA Smells Rotten
 
+See [[knf-fish-amino-acid]] for the complete FAA production guide.
+
 | Symptom | Cause | Fix |
 |---------|-------|-----|
 | Strong putrid/rotten | Fat not dissolving, anaerobic | Add IMO-3 (lipase bacteria dissolve fat), more sugar, burp daily |
@@ -84,6 +60,8 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 
 ### OHN Mold
 
+See [[knf-oriental-herbal-nutrient]] for the full OHN recipe and preparation process.
+
 | Symptom | Cause | Fix |
 |---------|-------|-----|
 | Surface mold on extract | Low alcohol content, contamination | Ensure beer/wine is 5%+ ABV; add more sugar as preservative |
@@ -91,6 +69,8 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 | Separation in final product | Normal — herbs settling | Shake before use |
 
 ### WCA Won't Dissolve
+
+See [[knf-water-soluble-calcium]] for the standard WCA recipe.
 
 | Symptom | Cause | Fix |
 |---------|-------|-----|
@@ -100,6 +80,8 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 
 ### LAB Weak / Won't Separate
 
+See [[knf-lactic-acid-bacteria-serum]] for the complete LAB culturing procedure.
+
 | Symptom | Cause | Fix |
 |---------|-------|-----|
 | No curd separation after 8 days | Ultra-pasteurized milk used | Use raw or regular pasteurized milk (UP milk lacks enzymes) |
@@ -107,6 +89,8 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 | Foul smell | Bad bacteria dominated | Discard; sanitize jar; ensure anaerobic with airlock for phase 2 |
 
 ### WS-CaPo Won't Extract
+
+See [[knf-water-soluble-calcium-phosphate]] for the standard WS-CaPo method.
 
 | Symptom | Cause | Fix |
 |---------|-------|-----|
@@ -120,10 +104,10 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 | Symptom | Likely Cause | KNF Response |
 |---------|-------------|--------------|
 | Yellowing lower leaves (veg) | N deficiency or natural senescence | FAA 1:1000 foliar; check if old growth (normal) |
-| Yellowing upper/new leaves | Fe, S, or general [[nutrient-lockout]] | Seawater 1:30 (trace minerals); check pH |
+| Yellowing upper/new leaves | Fe, S, or general [[nutrient-lockout]] | [[knf-seawater-and-fermented-seawater]] 1:30 (trace minerals); check pH |
 | Leaf curl (upward) | Ca deficiency, heat stress | WS-Ca 1:500 foliar; improve airflow |
 | Leaf curl (downward) | Overwatering, P toxicity | Reduce water; check drainage |
-| Interveinal chlorosis | Mg or Fe deficiency | Seawater 1:30; Epsom salt soil drench |
+| Interveinal chlorosis | Mg or Fe deficiency | [[chlorosis]] treatment: Seawater 1:30; Epsom salt soil drench |
 | Purple stems/leaves | P deficiency (cold) | WS-CaPo 1:500; WS-PA 1:30; raise temps |
 | Brown spots on leaves | Fungal disease, Ca deficiency | OHN 1:500 + WS-Ca 1:500; improve airflow |
 | Soft, sappy growth | Excess N, insufficient Ca | Stop FAA; apply WS-Ca 1:500 |
@@ -145,27 +129,4 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 
 | Symptom | Likely Pest/Disease | KNF Treatment |
 |---------|-------------------|---------------|
-| Fine webbing, yellow stippling | Spider mites | Mackerel FAA 1:500 + OHN 1:500; increase humidity; predatory mites |
-| Tiny black flies at soil | Fungus gnats | Let soil dry; LAB 1:500 soil drench; BTi |
-| Silver streaks, black dots | Thrips | OHN 1:500 + neem FPJ; blue sticky traps |
-| Clusters on new growth | Aphids | OHN 1:500; ladybugs; neem FPJ |
-| White flying insects | Whiteflies | OHN 1:500; yellow sticky traps |
-| White powder on leaves | [[powdery-mildew]] | OHN 1:500 (cinnamon antifungal); milk spray 1:9; improve airflow |
-| Brown mushy buds | Bud rot (Botrytis) | Remove affected buds; reduce humidity <50%; OHN 1:500 preventive |
-| Wilting, brown roots | Root rot | Improve drainage; LAB 1:500 soil drench; H2O2 1:4 |
-
-## Emergency Rescue Formula
-
-For weakened, stressed, or recovering crops (Cho's formula):
-
-| Input | Amount per 1000ml water |
-|-------|------------------------|
-| FPJ | 2 ml |
-| BRV | 2 ml |
-| OHN | 1 ml |
-| FAA | 1 ml (if N-deficient) |
-
-## See Also
-
-- [[mushroom-cultivation-troubleshooting]]
-- [[mushroom-contamination-identification]]
+| Fine webbing, yellow stippling | Spider mites | [[knf-pest-control-methods]]: Mackerel FAA 1:500 + OHN 1:500; increase humidity; predatory mites |

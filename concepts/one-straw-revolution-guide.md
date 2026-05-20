@@ -145,30 +145,3 @@ Key evidence: his stem borer experiment at Kochi showed the untreated field with
 Fukuoka attended a pollution conference organized by the Agricultural Management Research Centre and the Organic Agricultural Council. When he proposed ending chemical use in farming, the chairman shut him down: "Mr. Fukuoka, you are upsetting the conference." He argues the root cause is systemic — "the Co-ops and the modern agricultural policy-makers depend on large capital investment in fertilizer and agricultural machinery for their base of power."
 
 ### The Fruit Processing Chain
-
-From tree to market: 5-6 chemicals applied (fertilizers, sprays during growth, colouring agents, ripening gas, preservatives, paraffin wax). "This is all because the consumer wants to buy fruit just a little more attractive."
-
-## Book IV: Confusion About Food
-
-### Natural Diet Philosophy
-
-Distinguishes between discriminating knowledge (analytic, wilful intellect) and non-discriminating knowledge (accepting experience as it is). "Nature as grasped by scientific knowledge is a nature that has been destroyed; it is a ghost possessing a skeleton, but no soul."
-
-### Nature's Food Mandala
-
-Fukuoka's food mandala maps seasonal eating: seven herbs in early spring, mountain vegetables in March, bamboo shoots with rock cod in season, brown rice and vegetables as staples. "A natural diet lies right at one's feet."
-
-## Book V: Foolishness Comes Out Looking Smart
-
-### Life at the Orchard
-
-Young people from cities, researchers, students, poets, wanderers gathered at the mud-walled huts. "Many people come, thinking they will find a utopia where one can live without ever having to get out of bed. These people are in for a big surprise. Hauling water from the spring in the early morning fog, splitting firewood until their hands are red and stinging with blisters."
-
-### Philosophy of Non-Understanding
-
-## See Also
-
-- [[one-straw-revolution-philosophy]]
-
-- [[straw-based-mushroom-substrate-preparation]]
-- [[straw-mushroom-cultivation]]

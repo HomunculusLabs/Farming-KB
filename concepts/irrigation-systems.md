@@ -147,4 +147,3 @@ Recommendation: Automate Zone 1-2 (daily/weekly visits). Manual is fine for Zone
 | Green slime in lines | Algae growth (light exposure) | Bury lines, use opaque tubing, flush with hydrogen peroxide |
 | Mineral buildup | Hard water | Vinegar soak emitters monthly, consider acid injection system |
 | Roots in emitters | Emitters too deep, aggressive roots | Install emitters at soil surface, use root barrier discs |
-

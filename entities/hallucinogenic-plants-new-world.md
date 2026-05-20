@@ -147,4 +147,3 @@ Based on [[richard-evans-schultes-updated]]'s Golden Guide. The New World has fa
 - **Use**: Used by Mazatec curanderos for divination and healing. Called "ska María Pastora" (leaves of Mary the Shepherdess). Often used as a substitute when psilocybin mushrooms are unavailable. See [[salvia-divinorum]]
 - **Chemistry**: Salvinorin A (neoclerodane diterpene) — the first non-alkaloid, non-nitrogenous plant hallucinogen known (before cannabinoid mechanisms were fully understood). Not a tryptamine, ergoline, or tropane. Discovered as psychoactive in the 1960s by Wasson; chemical structure identified by Ortega et al. (1982); salvinorin A isolated by Valdes (1994)
 - **Cultivation**: Propagated vegetatively; rarely sets seed. Propagated from cuttings
-
