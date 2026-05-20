@@ -148,4 +148,3 @@ Many insectary plants are multifunctional — calendula and bee balm are also ed
 - [[odonata-dragonflies-damselflies-ecology-and-biological-control]]
 - [[beneficial-insects-cannabis]]
 - [[plant-disease-management-in-organic-gardens]]
-
