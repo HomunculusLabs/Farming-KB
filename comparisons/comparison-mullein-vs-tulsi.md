@@ -3,7 +3,7 @@ title: "Mullein vs Tulsi"
 tags: [comparison, mullein, tulsi, medicinal-herbs, respiratory, adaptogen]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Mullein vs Tulsi

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, seeds, gardening, planting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md']
 type: comparison
 ---
 

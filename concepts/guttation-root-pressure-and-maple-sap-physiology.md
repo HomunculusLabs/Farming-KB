@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
 ## Guttation, Root Pressure, and Maple Sap Physiology

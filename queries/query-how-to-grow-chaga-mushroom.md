@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, mycology, medicinal-mushrooms, foraging, birch]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 type: query
 ---
 

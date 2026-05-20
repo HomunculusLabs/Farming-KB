@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, mushroom-cultivation, spawn, liquid-culture, mycology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/unknown-oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid|oyster-mushroom-cultivation.md']
 type: query
 ---
 

@@ -1,3 +1,19 @@
+---
+title: Sacred Mushroom Hypothesis
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags:
+  - allegro
+  - christianity
+  - mushroom
+  - theory
+  - controversy
+  - etymology
+sources:
+  - raw/papers/allegro-j-the-sacred-mushroomcross.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+---
 
 # Sacred Mushroom Hypothesis
 
@@ -66,16 +82,3 @@ The broader question Allegro raised -- whether psychoactive plants played a role
 - [[amanita-muscaria-ethnobotany]] for the fly-agaric in Siberian and other cultures
 - [[psychedelic-plants-in-ancient-cultures]] for more credible theories about ancient psychedelic use
 - [[mushroom-folklore-and-culture]] for mushroom folklore
-
-## Cultural Impact
-
-The sacred mushroom hypothesis profoundly influenced psychedelic
-research and popular culture. Wasson's 1957 LIFE magazine article
-"Seeking the Magic Mushroom" introduced psilocybin mushrooms to
-mainstream Western audiences and sparked decades of ethnobotanical
-and anthropological investigation into psychoactive fungi.
-The hypothesis connected ancient religious practices to modern
-neuroscience, suggesting that psychedelic experiences played a
-formative role in the development of human religious consciousness.
-Wasson's work with R. Gordon Wasson and Valentina Pavlovna Wasson
-established the field of ethnomycology as a recognized academic discipline.

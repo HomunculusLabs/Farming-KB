@@ -1,5 +1,4 @@
 ---
-
 title: Mushroom Identification Resources
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,10 +20,6 @@ sources:
 - raw/papers/carolina-mushrooms_08qxp.md
 - raw/papers/mr-bloomfields-orchard
 ---
-the-mysterious-world-of-mushrooms-molds-and-mycologists.md
-  - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
----
-
 # Mushroom Identification Resources
 
 A guide to safely identifying wild mushrooms using morphological features, microscopy, DNA barcoding, and regional field guides. See also [[mushroom-identification]] for basic ID features and [[mushroom-species-guide]] for commonly cultivated species.
@@ -144,6 +139,6 @@ Ramsbottom provides the most thorough early ethnographic account of A. muscaria 
 - [[mushroom-identification]] — Basic ID features and poisonous genera
 - [[mushroom-species-guide]] — Cultivated species profiles
 - [[edible-wild-mushrooms-by-region]] — Seasonal foraging calendar
-- [[amanita-muscaria]] — Amanita identification and preparation
+- [[amanita-muscaria-guide]] — Amanita identification and preparation
 - [[psilocybin-mushroom-chemistry]] — Distribution of psychoactive species
 - [[mushroom-folklore-and-culture]] — Cultural attitudes toward fungi

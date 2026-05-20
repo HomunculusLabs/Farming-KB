@@ -2,7 +2,7 @@
 title: "4 Ho Mpt"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The compound is known among the research chemical community for its psilocin-like effects with a reportedly shorter duration and slightly altered character. It has never been approved for medical use and exists in a legal gray area in most jurisdictions.

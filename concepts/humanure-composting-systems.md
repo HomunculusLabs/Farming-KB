@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [composting, compost, homesteading, sustainability, microbes, safety, off-grid]
-sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
+sources: []
 ---
 
 ## Overview

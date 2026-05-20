@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, community, sustainability, economics, resilience, design, activism]
-sources: [raw/papers/permaculture-beginners-guide.md]
+sources: []
 ---
 
 # Permaculture Community Resilience

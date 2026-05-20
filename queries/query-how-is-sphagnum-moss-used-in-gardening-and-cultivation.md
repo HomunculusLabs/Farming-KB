@@ -3,7 +3,7 @@ title: "How is sphagnum moss used in gardening and cultivation?"
 tags: [query, sphagnum, peat-moss, soil-amendment, mushroom-cultivation, growing-media]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How is sphagnum moss used in gardening and cultivation?

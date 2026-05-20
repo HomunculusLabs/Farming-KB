@@ -4,7 +4,7 @@ subtitle: "A comprehensive guide to extracting aromatic plant compounds through 
 tags: [essential-oils, hydrosols, distillation, aromatic-plants, herbalism, herbal-medicine]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md']
 related_concepts:
   - permaculture-designers-manual-essential-oil-plants
   - medicinal-herb-growing

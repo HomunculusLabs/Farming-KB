@@ -3,7 +3,7 @@ title: "Comparison Timber Frame Vs Cordwood Construction Comparison Earthship Vs
 tags: [comparison, construction, natural-building, sustainability, off-grid]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/one-straw-revolution-masanobu-fukuoka.md']
 ---
 
 ## Timber Frame vs Straw Bale Construction

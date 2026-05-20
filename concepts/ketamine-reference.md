@@ -1,3 +1,11 @@
+---
+title: Ketamine Reference
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [psychopharmacology, pharmacology, medicine, psychiatry, neuroscience, safety, therapy, consciousness, chemistry]
+sources: []
+---
 
 # Ketamine Reference
 
@@ -171,7 +179,6 @@ This mechanism is fundamentally different from classical psychedelics (5-HT2A ag
 - International: Schedule I or III depending on country
 
 ## See Also
-- [[winter-harvest-handbook-index-m-w-reference-topics]]
 
 - [[lsd-reference]] for comparison with a classical psychedelic
 - [[mdma-reference]] for another drug with emerging psychiatric applications

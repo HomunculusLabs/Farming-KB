@@ -2,7 +2,7 @@
 title: "Prunus Cerasus"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The species is believed to have originated from a natural hybridization between the sweet cherry ([[prunus-avium]]) and the ground cherry (Prunus fruticosa). This hybrid origin accounts for its intermediate morphology and its tetraploid genome (2n = 4x = 32).

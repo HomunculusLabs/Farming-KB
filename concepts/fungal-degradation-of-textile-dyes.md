@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-05-09
 type: concept
 tags: [mycology, fungi, bioremediation, textile-dyes, pollution]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 ## Fungal Degradation of Textile Dyes
 

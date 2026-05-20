@@ -1,7 +1,15 @@
+---
+title: 5-MeO-DMT Reference
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [psychopharmacology, pharmacology, psychedelics, entheogen, entheogen-research, safety, consciousness, neuroscience]
+sources: []
+---
 
 # 5-MeO-DMT Reference
 
-5-Methoxy-N,N-dimethyltryptamine (5-MeO-DMT) is a naturally occurring psychedelic [[tryptamine]] found in certain plant species and notably in the venom of the Colorado River toad (Incilius alvarius, formerly Bufo alvarius). It produces extremely intense, short-lived psychedelic experiences characterized by ego dissolution, unity consciousness, and profound mystical-type experiences. Often described as more powerful than N,N-DMT, 5-MeO-DMT has gained significant research interest for its therapeutic potential in treating depression, anxiety, and addiction.
+5-Methoxy-N,N-[[dimethyltryptamine]] (5-MeO-DMT) is a naturally occurring psychedelic tryptamine found in certain plant species and notably in the venom of the Colorado River toad (Incilius alvarius, formerly Bufo alvarius). It produces extremely intense, short-lived psychedelic experiences characterized by ego dissolution, unity consciousness, and profound mystical-type experiences. Often described as more powerful than N,N-DMT, 5-MeO-DMT has gained significant research interest for its therapeutic potential in treating depression, anxiety, and addiction.
 
 See also [[dmt-reference]] for the related compound N,N-DMT and [[ayahuasca-pharmacology]].
 

@@ -1,3 +1,11 @@
+---
+title: Psychedelic Mushroom Pharmacology
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, psychopharmacology, neuroscience, pharmacology, entheogen-research, psychedelics, health]
+sources: []
+---
 
 # Psychedelic Mushroom Pharmacology
 
@@ -138,5 +146,3 @@ Psilocybin has a very high safety profile:
 - Cardiovascular effects include mild, transient increases in heart rate and blood pressure
 
 See [[psychedelic-mushroom-effects-guide]] for subjective effect descriptions and [[psilocybin-clinical-trials]] for clinical pharmacology data.
-## See Also
-- [[psychedelic-mushroom-art-and-iconography]]

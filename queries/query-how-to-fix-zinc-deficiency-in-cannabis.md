@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, cannabis, nutrients, deficiency, zinc]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md']
 type: query
 ---
 

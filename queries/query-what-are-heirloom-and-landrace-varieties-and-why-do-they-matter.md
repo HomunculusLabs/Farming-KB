@@ -3,7 +3,7 @@ title: "What Are Heirloom and Landrace Varieties and Why Do They Matter?"
 tags: [query, seed-saving, heirloom, landrace, plant-breeding]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## What Are Heirloom and Landrace Varieties and Why Do They Matter?

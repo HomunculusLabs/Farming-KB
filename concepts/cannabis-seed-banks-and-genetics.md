@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, genetics, species-profiles, organization, seeds, beginner]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: []
 ---
 
 # Cannabis Seed Banks and Genetics

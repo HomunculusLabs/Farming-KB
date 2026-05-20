@@ -1,3 +1,11 @@
+---
+title: Pastured Pork Production
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [livestock, animal-husbandry, forage, agriculture, economics, homesteading]
+sources: []
+---
 
 # Pastured Pork Production
 
@@ -41,7 +49,7 @@ Pigs are omnivores and will consume a wide variety of forage:
 - Cowpeas and soybeans for summer protein
 - Turnips and radishes for fall/winter root crops
 - Field peas (spring planting)
-- Sorghum-sudangrass for summer bulk
+- Sorghum-[[sudangrass]] for summer bulk
 
 ### Supplemental Forage
 - Pumpkins and squash: excellent fall feed, pigs eat entire fruit
@@ -148,5 +156,3 @@ Average yield from 250 lb live pig:
 - Biosecurity: quarantine new arrivals for 30 days
 
 Pastured pork complements [[grass-fed-beef-production]] in a diversified livestock operation and generates valuable manure for [[hot-composting-vs-vermicompost-vs-bokashi|compost]] and soil building.
-## See Also
-- [[pastured-egg-production]]

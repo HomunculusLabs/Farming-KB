@@ -1,3 +1,11 @@
+---
+title: Rust Fungi Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fungi, mycology, agriculture, ecology, biology, pathogens, pest-management]
+sources: []
+---
 
 # Rust Fungi Guide
 

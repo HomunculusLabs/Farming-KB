@@ -1,3 +1,11 @@
+---
+title: Apple Tree Care
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fruit-tree, pruning, orchard, pest-control, cultivation, beginner]
+sources: []
+---
 
 ## Overview
 

@@ -1,7 +1,7 @@
 ---
 title: "Arnica Montana"
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species is critically endangered in several European countries due to

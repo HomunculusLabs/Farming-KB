@@ -2,7 +2,7 @@
 title: "Ferocactus Wislizeni"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The species typically grows 1 to 2 meters tall and 60 to 100 centimeters in diameter, with prominent ribs armed with heavy, hooked central spines. It is a long-lived species, with individual plants reaching 100 years or more in age under favorable conditions.

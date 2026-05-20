@@ -3,7 +3,7 @@ title: "Mullein vs Calendula"
 tags: [comparison, medicinal-herbs, respiratory, skin-healing, permaculture]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Mullein vs Calendula

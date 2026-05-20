@@ -3,24 +3,6 @@ title: "biodiversity of fungi fungal phylogeny kingdom classification"
 tags:
   - concept
 ---
-
-## Kingdom Straminipila (Heterokont Organisms)
-
-The heterokont organisms — sometimes called "water molds" — represent a lineage entirely
-separate from true fungi, characterized by two morphologically distinct flagella. Major
-groups formerly studied as fungi include:
-
-- **Oomycota** — [[bloomfield-potato-blight-phytophthora-infestans]]*; cellulose cell walls, not
-  chitin
-- **Hyphochytriomycota** — Parasitic or saprotrophic aquatic organisms with an anterior
-  tinsel flagellum
-- **Labyrinthulomycota** — Net [[spore]]
-production, and absorptive nutrition evolved independently in these lineages in response to
-similar ecological opportunities. This underscores the importance of molecular data in
-resolving evolutionary relationships and cautions against reliance on morphology alone.
-
----
-
 ## Molecular Phylogenetic Evidence
 
 ### Baldauf et al. (2000): Multi-Gene Phylogeny

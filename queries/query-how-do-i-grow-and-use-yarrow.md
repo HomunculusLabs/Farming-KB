@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Yarrow?"
 tags: [query, yarrow, medicinal-herbs, permaculture, companion-planting]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How Do I Grow and Use Yarrow?

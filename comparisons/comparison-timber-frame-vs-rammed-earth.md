@@ -3,7 +3,7 @@ title: "Timber Frame vs Rammed Earth"
 tags: [comparison, timber-frame, rammed-earth, natural-building, construction]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Timber Frame vs Rammed Earth

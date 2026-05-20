@@ -3,35 +3,6 @@ title: Bacterial Biofilms and Nutrient Retention
 source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
-
-## Fungi: The Next Kingdom
-
-Beyond bacteria, fungi represent another essential kingdom of soil organisms. Understanding fungi provides important context for the full [[soil-food-web]].
-
-### Fungal Classification and Characteristics
-
-- Over **100,000 species** of fungi are known, with potentially a million more yet to be discovered.
-- Fungi were once classified as plants but now belong to their own kingdom within the domain **Eukarya**.
-- Unlike plants, fungal [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] are made of **chitin** (the same material found in insect exoskeletons), not [[cellulose]].
-- Fungi cannot photosynthesize — they obtain nutrients by absorbing them from their environment.
-
-### Fungal Structure
-
-- **Eukaryotes:** Fungi have distinct, enclosed nuclei within their cells.
-- **Hyphae:** Thread-like filaments that form the basic structural unit of fungi. Individual hyphae range from 2–15 micrometers in length and 0.2–3.5 micrometers in diameter.
-- **Septa:** Cross-walls (cell walls) that divide hyphae into compartments.
-- **Mycelia:** Visible masses of hyphae — the familiar [[fungal-network-resilience-evolution]]. A single teaspoon of good garden soil can contain several yards of [[fungal-hyphae]].
-
-### Advantages Over Bacteria
-
-Fungi possess several key advantages over bacteria:
-
-- **Range:** Hyphae can grow continuously in length, allowing fungi to travel across feet or even meters of soil — far beyond the limited range of bacteria.
-- **Independence from water:** Fungi do not require a continuous water film to spread; they can bridge gaps and locate new food sources across dry soil.
-- **[[fungal-decay-and-nutrient-transport]]:** Cytoplasm is circulated throughout the septa, functioning like a biological conveyor belt. Fungi can drain a nematode of its nutrients and distribute them throughout the entire fungal network. Once nutrients are inside the fungus, they are immobilized until released.
-
----
-
 *Source: "[[teaming-with-microbes-actinomycetes]]" by [[jeff-lowenfels]] & [[wayne-lewis]]*
 
 [Back to Concepts Index](../concepts.md)

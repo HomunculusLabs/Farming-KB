@@ -27,7 +27,7 @@ Modern mycology from genomics to conservation, covering the scientific advances,
   Published Mycelium Running, articulating the mycorestoration framework
   (mycoremediation, mycofiltration, mycoforestry, mycopesticides).
   Links mushroom cultivation to ecological restoration.
-  See [[mycorestoration]].
+  See [[mycorestoration-overview]].
 
 ## Mycorrhizal Networks and Soil Biology
 

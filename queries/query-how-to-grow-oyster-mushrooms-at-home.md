@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, mushroom-cultivation, oyster-mushrooms, home-growing, substrate]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 type: query
 ---
 ## How to Grow Oyster Mushrooms at Home

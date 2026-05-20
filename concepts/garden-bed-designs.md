@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, design, construction, permaculture, soil-building]
-sources: [raw/papers/growing-the-woodlovers-outdoors.md]
+sources: []
 ---
 
 # Garden Bed Designs

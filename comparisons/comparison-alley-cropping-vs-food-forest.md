@@ -3,7 +3,7 @@ title: Comparison Alley Cropping Vs Food Forest
 tags: [comparison, agroforestry, alley-cropping, food-forest, permaculture]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
 ---
 
 ## Alley Cropping vs Food Forest

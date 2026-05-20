@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, mycology, decomposition, soil-science, ecology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md']
 type: query
 ---
 

@@ -185,5 +185,5 @@ Aftershocks can be as damaging as the main earthquake and continue for days, wee
 - safety — Comprehensive safety planning and risk management
 - [[homestead-first-aid-guide]] — First aid for earthquake-related injuries
 - [[homestead-communication]] — Communication when normal networks are down
-## See Also
-- [[wildfire-preparedness-guide]]
+
+See also: [[flood-preparedness-guide]]

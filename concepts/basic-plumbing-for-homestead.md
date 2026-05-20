@@ -177,5 +177,5 @@ Rigid plastic piping for drainage and (CPVC only) hot water supply.
 - [[water-management]] — Water sourcing, filtration, and management systems
 - [[water-management]] — Irrigation and drainage planning for the homestead
 - [[greywater-systems-detailed]] — Greywater recycling and treatment systems
-## See Also
-- [[basic-electrical-for-homestead]]
+
+See also: [[basic-electrical-for-homestead]]

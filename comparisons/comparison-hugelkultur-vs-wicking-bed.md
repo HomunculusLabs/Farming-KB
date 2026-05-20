@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [permaculture, water-management, garden-beds, soil-building]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['water-for-every-farmer']
 type: comparison
 ---
 ## Hugelkultur vs Wicking Beds

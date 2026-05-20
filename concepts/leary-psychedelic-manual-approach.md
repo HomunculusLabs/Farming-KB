@@ -1,3 +1,11 @@
+---
+title: Leary's Psychedelic Manual Approach
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags: [psychedelics, ego-death, bardo, set-and-setting, preparation, session-guide, tibetan-book-of-the-dead, leary, psychology, mysticism]
+sources: [raw/papers/leary-t-the-psychedelic-experience.md]
+---
 
 ## Leary's Manual Based on the Tibetan Book of the Dead
 

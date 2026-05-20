@@ -3,7 +3,7 @@ title: "What Is Compost Tea and Does It Actually Work?"
 tags: [query, compost-tea, soil-biology, organic-farming, biofertilizer]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## What Is Compost Tea and Does It Actually Work?

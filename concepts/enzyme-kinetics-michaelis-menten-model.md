@@ -5,7 +5,8 @@ updated: 2026-05-06
 aliases: [Michaelis-Menten kinetics, enzyme kinetics, Vmax, Km, enzyme catalysis]
 tags: [biochemistry, enzymology, kinetics, catalysis]
 type: concept
-sources: []
+sources:
+  - "raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md"
 ---
 
 ## The Michaelis-Menten Equation

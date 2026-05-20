@@ -3,7 +3,7 @@ title: "How Do I Grow Tulsi (Holy Basil) in My Medicinal Garden?"
 tags: [query, tulsi, holy-basil, medicinal-herbs, adaptogenic-herbs]
 date: 2026-05-20
 updated: 2026-05-20
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 # How Do I Grow Tulsi (Holy Basil) in My Medicinal Garden?

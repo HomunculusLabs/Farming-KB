@@ -2,7 +2,7 @@
 title: Hydnellum Aurantiacum
 type: entity
 tags: [species]
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Overview

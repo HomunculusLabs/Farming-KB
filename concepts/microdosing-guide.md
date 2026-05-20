@@ -1,3 +1,11 @@
+---
+title: Microdosing Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [psychopharmacology, psychedelics, health, safety, preparation, psychopharmacology, methods, consciousness]
+sources: []
+---
 
 # Microdosing Guide
 

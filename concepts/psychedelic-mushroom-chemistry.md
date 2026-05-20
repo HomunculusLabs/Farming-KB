@@ -1,3 +1,11 @@
+---
+title: Psychedelic Mushroom Chemistry
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, fungi, chemistry, biochemistry, psychopharmacology, entheogen, entheogen-research]
+sources: []
+---
 
 # Psychedelic Mushroom Chemistry
 
@@ -9,7 +17,7 @@ Psychedelic mushrooms produce a family of [[tryptamine]] alkaloids, with [[psilo
 
 ### Psilocybin
 
-Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) is the primary prodrug found in psilocybin-containing mushrooms. It is a zwitterionic compound at physiological pH, existing as a white crystalline solid. Its molecular formula is C12H17N2O4P with a molecular weight of 284.25 g/mol.
+Psilocybin (O-phosphoryl-4-hydroxy-N,N-[[dimethyltryptamine]]) is the primary prodrug found in psilocybin-containing mushrooms. It is a zwitterionic compound at physiological pH, existing as a white crystalline solid. Its molecular formula is C12H17N2O4P with a molecular weight of 284.25 g/mol.
 
 Psilocybin itself is not directly psychoactive; it is a prodrug that is dephosphorylated in the body to form psilocin, the pharmacologically active compound. This dephosphorylation occurs primarily through the action of alkaline phosphatase enzymes in the intestinal wall and liver.
 
@@ -105,5 +113,3 @@ Psilocybin content varies significantly based on species, strain, growing condit
 - **P. mexicana**: 0.1-0.4% — relatively low
 
 Intraspecific variation can be 3-5x within a single species, making generalizations unreliable. See [[psychedelic-mushroom-taxonomy]] for species-level detail and [[psychedelic-mushroom-dosage-guide]] for practical dosing considerations.
-## See Also
-- [[psychedelic-mushroom-art-and-iconography]]

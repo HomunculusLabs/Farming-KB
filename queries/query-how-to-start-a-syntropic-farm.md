@@ -12,7 +12,7 @@ tags:
   - soil-health
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 type: query
 ---
 

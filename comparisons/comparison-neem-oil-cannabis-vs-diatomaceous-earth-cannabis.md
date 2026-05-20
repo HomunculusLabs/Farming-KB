@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, cannabis, pest-control, organic-gardening, ipm]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles']
 type: comparison
 ---
 

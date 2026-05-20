@@ -1,3 +1,12 @@
+---
+title: Urban Guerrilla Gardening
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [permaculture, urban, gardening, activism, community, food, soil, water]
+sources:
+- raw/papers/urban-permaculture-guerilla-gardening.md
+---
 
 # Urban Guerrilla Gardening
 

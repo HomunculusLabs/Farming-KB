@@ -1,3 +1,11 @@
+---
+title: Pickle Making
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fermentation, recipe, food, homesteading, microbes, homestead-crafts, preservation, vegetables, preparation]
+sources: []
+---
 
 ## What Are Pickles
 

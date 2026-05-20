@@ -8,7 +8,7 @@ tags:
   - wall-systems
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/laminar-flow-hood-construction-1.md']
 ---
 
 ## Bamboo vs Cordwood Construction

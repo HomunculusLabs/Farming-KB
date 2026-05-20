@@ -1,3 +1,11 @@
+---
+title: Extreme Heat Preparedness
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [safety, homesteading, climate, animal-husbandry, health]
+sources: []
+---
 
 # Extreme Heat Preparedness
 

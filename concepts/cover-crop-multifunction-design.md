@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [soil, agriculture, permaculture]
-sources: []
+sources: ['raw/papers/williams-pdc-earthworks-pdc_-a-permaculture-design-cours.md']
 ---
 ## Cover Crop Multifunction Design
 

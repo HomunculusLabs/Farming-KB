@@ -3,7 +3,7 @@ title: "Shiitake vs Turkey Tail"
 tags: [comparison, medicinal-mushrooms, shiitake, turkey-tail, mycology]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['papers/cancer-medicinal-mushrooms-immune-modulation-beta-glucans|cancer-treatments-medicinal-mushrooms.md']
 ---
 
 ## Shiitake vs Turkey Tail

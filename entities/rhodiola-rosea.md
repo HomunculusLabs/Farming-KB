@@ -30,7 +30,7 @@ taxonomy:
   genus: Rhodiola
   species: R. rosea
   authority: L.
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Rhodiola rosea

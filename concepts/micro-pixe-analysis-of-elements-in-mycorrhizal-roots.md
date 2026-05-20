@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md"
 ---
 
 ## Micro-PIXE Analysis of Elements in Mycorrhizal Roots

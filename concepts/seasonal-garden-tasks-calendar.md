@@ -7,57 +7,6 @@ tags: [gardening, organic-gardening]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
-
-## Seasonal Garden Tasks Calendar
-updated: 2026-04-18
-Gardening is far from an exact science, and the gardener who makes rules and sticks to them rigidly is bound to suffer disappointment. Of more concern are the existence of different regions with varying climatic conditions and soil types. These all [[composting-organic-garden]]; put outside if overwintered inside
-- Start spraying with insecticides or fungicides as necessary but never on open flowers
-- Construct a [[permaculture-designers-manual-temperate-climate-design]] zones 5-7. Last frost ~April 5-15, first frost ~October 25-November 5, [[homesteading]] for planning priorities.
-
----
-
-## January
-
-**Garden tasks**: Finalize seed orders. Review last year's garden journal. Layout crop rotation maps. Inventory stored seeds -- test viability of older seed. Order cover crop seed. Plan new beds or expansions.
-
-**Livestock**: Check waterers for freeze damage; heated buckets or de-icers. Goats -- continue hay feeding, mineral access, hoof trim if overdue. Ducks -- ensure dry shelter, check for frostbite on feet. Monitor body condition -- adjust feed if losing weight.
-
-**Food preservation**: Use up frozen/canned stores. Inventory pantry. Plan preservation goals for coming year. Check root cellar conditions (temperature, humidity).
-
-**Infrastructure**: Repair fencing before ground thaws. Sharpen and oil tools. Build new raised beds or [[comparison-rotational-grazing-vs-continuous-grazing]].
-
-**Food preservation**: Start [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] calendar written. Mark expected harvest dates for perennials.
-
----
-
-## April
-
-**Garden tasks**: Harden off transplants (tomatoes, peppers, eggplant) -- 7-10 days of increasing outdoor exposure. Transplant after last frost (~April 10-15). Direct sow: beans, corn, cucumbers, squash, melons (soil temp 60F+). Second sowing of radishes, lettuce, spinach. Begin [[mushroom-compost]] and winter pea (crimp or mow 2-3 weeks before planting).
-
-**Livestock**: Spring pasture rotation begins. Integrate ducklings with flock. First rotational graze. Check for parasites after turnout.
-
-**Food preservation**: Start early rhubarb and asparagus recipes. Blanch and freeze early greens.
-
-**Infrastructure**: First hot compost of spring -- mix winter accumulation with fresh greens. Turn compost piles. Set up trellises, stakes, cages. Install row covers for brassicas.
-
-**Planning**: Evaluate germination rates. Adjust planting schedule if behind.
-
----
-
-## May
-
-**Garden tasks**: Everything in ground. Transplant sweet potato slips. Succession sow beans, corn, cucumbers. Transplant herbs (calendula, chamomile, holy basil, ashwagandha). Install [[cannabis-vegetative-stage]] -- training (LST, topping), defoliation.
-
-**Livestock**: Full pasture rotation. Watch for heat stress in ducks (shade, water). Goats -- copper bolus if needed. Monitor for internal parasites (FAMACHA scoring).
-
-**Food preservation**: First harvests of herbs -- begin drying. Make herb vinegars. Freeze early strawberries.
-
-**Infrastructure**: Turn compost every 2-3 weeks. Harvest finished compost for garden beds. Build trellises for climbing crops. Set up deer fencing if needed.
-
-**Planning**: Note what's thriving and struggling. Adjust watering schedules as weather warms.
-
----
-
 ## Overview
 
 Seasonal Garden Tasks Calendar represents an important element within sustainable
@@ -136,3 +85,5 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
+
+See also: [[soil-food-web-garden-calendar]] [[hamilton-seasonal-gardening-calendar]] [[cervantes-garden-calendar-checklist]]

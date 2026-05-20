@@ -2,7 +2,7 @@
 title: "Flavoparmelia Caperata"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species is immediately recognizable by its broad, pale green to yellow-green lobes

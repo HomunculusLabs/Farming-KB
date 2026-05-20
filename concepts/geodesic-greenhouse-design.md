@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [season-extension, construction, permaculture, sustainability, homesteading]
-sources: [raw/papers/growing-the-woodlovers-outdoors.md]
+sources: []
 ---
 
 # Geodesic Greenhouse Design

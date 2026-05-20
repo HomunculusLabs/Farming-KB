@@ -1,3 +1,11 @@
+---
+title: Soil Conditioners Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [soil-amendment, organic, gardening, soil, compost, nutrients, npk]
+sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
+---
 
 # Soil Conditioners Guide
 
@@ -75,39 +83,3 @@ Apart from compost and manure, many organic materials can be dug into soil or us
 - [[animal-manure-guide]] — animal manures as primary soil conditioners
 - [[peat-free-gardening]] — peat alternatives including many of these conditioners
 - [[composting-materials-alternative]] — sourcing materials for homemade compost
-
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.

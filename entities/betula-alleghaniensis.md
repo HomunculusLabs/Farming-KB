@@ -2,7 +2,7 @@
 title: "Betula Alleghaniensis"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species is named for the Allegheny Mountains where it was first documented. It is easily recognized by its distinctive golden-bronze, peeling bark on mature specimens, which contrasts with the white bark of paper birch.

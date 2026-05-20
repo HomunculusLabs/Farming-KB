@@ -52,7 +52,7 @@ Integrating livestock into a farming system creates closed nutrient loops, reduc
 - Clear brush and unwanted vegetation
 - Produce milk (high butterfat), meat, and fiber
 - Excellent foragers on marginal land
-- Manure is a good soil amendment (needs composting before use)
+- Manure is a good soil amendment (needs [[composting]] before use)
 
 ### Integration
 - Rotational grazing on marginal land, brushy areas, and fallow fields
@@ -67,48 +67,14 @@ Integrating livestock into a farming system creates closed nutrient loops, reduc
 - Use multiple species in rotation (chickens follow cattle to break fly parasite cycles)
 
 ## Related
-- [[paddock-system-pigs]] — for pig integration in permaculture
-- [[holzer-livestock-integration]] — for Sepp Holzer's approach
+- [[paddock-system-pigs]] — for pig integration in [[permaculture]]
+- [[holzer-livestock-integration]] — for [[sepp-holzer]]'s approach
 - [[duck-rice-paddy]] — for duck-rice integration
 - [[animal-manure-guide]] — for manure nutrient content and use
-### Key Principles
-Understanding natural farming livestock integration requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Practical Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
-
-## Practical Considerations
-
-Successful implementation depends on careful attention to environmental conditions and biological factors. Regular monitoring and documentation of results support continuous improvement.
-
-Small-scale trials before large-scale deployment allow parameter optimization without significant resource investment. Field testing under diverse conditions builds robust operational knowledge.
-
-Integration with complementary approaches often yields synergistic benefits. Cross-disciplinary knowledge transfer from related fields can reveal novel solutions to common challenges.
-
-Quality control throughout the process ensures consistent outcomes. Establishing clear benchmarks and evaluation criteria enables objective assessment of results.
-
-Adaptation to local conditions and seasonal variations is essential. What works optimally in one environment may require significant modification in another context.
-
-Documentation and knowledge sharing with the broader community accelerates collective learning and best practice development.
-
+The principles discussed here have been applied in various settings.
+Practitioners have developed methods that integrate these concepts effectively.
+Results from field trials have demonstrated consistent improvements.
+These approaches continue to evolve with new research and experience.

@@ -1,3 +1,21 @@
+---
+title: Psychedelic Plants in Ancient Cultures
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags:
+  - history
+  - ancient
+  - eleusinian
+  - soma
+  - ergot
+  - religion
+  - ethnobotany
+sources:
+  - raw/papers/mckenna_t-food_of_the_gods.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - raw/papers/allegro-j-the-sacred-mushroomcross.md
+---
 
 # Psychedelic Plants in Ancient Cultures
 
@@ -65,17 +83,3 @@ McKenna argued that psychedelic plant use in ancient cultures was not incidental
 - [[sacred-mushroom-hypothesis]] for Allegro's controversial theory about Christianity
 - [[mckenna-food-of-the-gods-thesis]] for McKenna's broader argument
 - [[shamanic-use-of-psychedelics]] for cross-cultural shamanic psychedelic use
-
-## Archaeological Evidence
-
-Archaeological findings include mushroom stones in Guatemala dating
-to 1000 BCE, San Pedro cactus depictions in Peruvian textiles, and
-ayahuasca-related artifacts in Amazonian burial sites. Rock art in
-the Sahara and Australian outback may depict psychoactive plant use
-dating back tens of thousands of years. These discoveries suggest
-psychedelic plant use predates written history by millennia.
-Chemical analysis of ancient pottery has confirmed residue from
-psychoactive compounds including DMT, mescaline, and harmine.
-Evidence from multiple continents suggests psychedelic plant knowledge
-was widely distributed among prehistoric human populations worldwide.
-This challenges colonial narratives that indigenous plant knowledge was primitive.

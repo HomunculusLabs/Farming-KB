@@ -3,7 +3,7 @@ title: "How Do I Set Up a Small-Scale Backyard Aquaculture System?"
 tags: [query, aquaculture, permaculture, fish-farming, backyard-food-production]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['water-for-every-farmer']
 ---
 
 ## How Do I Set Up a Small-Scale Backyard Aquaculture System?

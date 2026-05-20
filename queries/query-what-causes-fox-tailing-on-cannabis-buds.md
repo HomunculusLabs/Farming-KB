@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, cannabis, bud-quality, light-stress, flowering]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['AllBud blesching-cannabis-strain-selection-receptor-targeting Reviews']
 type: query
 ---
 ## What Causes Fox-Tailing on Cannabis Buds

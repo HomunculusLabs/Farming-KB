@@ -37,14 +37,14 @@ Because phosphorus is so immobile in soil, roots must continuously grow to maint
 
 ### Mycorrhizal Fungi
 
-Around 95 percent of all plants form [[mycorrhizal-inoculation-guide|mycorrhizal]] associations that are critical for phosphorus uptake. Mycorrhizal fungi:
+Around 95 percent of all plants form mycorrhizal associations that are critical for phosphorus uptake. [[mycorrhizal-fungi]]:
 
 - Extend the effective surface area of root systems by 700 to 1000 times
 - Produce acids that unlock, retrieve, and transport chemically locked-up phosphorus back to the host plant
 - Form intricate webs that can carry phosphorus to roots of different plants, not just their host
 - Access phosphorus in soil pores too small for roots to reach
 
-The plant provides carbohydrates (from root exudates) to the fungi in exchange. Without mycorrhizal fungi, plants cannot obtain the quantities and kinds of phosphorus needed to perform at their best.
+The plant provides carbohydrates (from [[root-exudates]]) to the fungi in exchange. Without mycorrhizal fungi, plants cannot obtain the quantities and kinds of phosphorus needed to perform at their best.
 
 ### Phosphate-Solubilizing Bacteria
 
@@ -55,10 +55,10 @@ Some bacteria produce organic acids that dissolve phosphate minerals, making pho
 | Source | N-P-K | Notes |
 |--------|-------|-------|
 | Bone meal | 3-15-0 | Slow-release, good for banding |
-| Bat guano (high P) | 0-10-0 | Readily available phosphorus |
-| Colloidal rock phosphate | 0-2-0 | Very slow release, good for banding in autumn |
+| [[bat-guano]] (high P) | 0-10-0 | Readily available phosphorus |
+| Colloidal [[rock-phosphate]] | 0-2-0 | Very slow release, good for banding in autumn |
 | Crab shell meal | variable | Contains chitin that feeds fungi |
-| Fish meal | 10-6-2 | Moderate P, also provides N |
+| [[fish-meal]] | 10-6-2 | Moderate P, also provides N |
 
 ## Application Strategy
 
@@ -81,41 +81,8 @@ Because phosphorus is so immobile, broadcasting it on the surface is highly inef
 
 ## Related
 
-- [[mycorrhizal-inoculation-guide]]
+- mycorrhizal inoculation
 - [[cation-exchange-capacity]]
 - [[bacterial-vs-fungal-soil]]
 - [[soil-food-web-structure]]
 - [[compost-tea-recipe-guide]]
-
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.

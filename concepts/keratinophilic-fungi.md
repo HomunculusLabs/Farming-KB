@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/fungi-and-sustainability-fungi-magazine.md"
 ---
 ## Keratinophilic Fungi
 Keratinophilic fungi are a specialized group of fungi capable of degrading

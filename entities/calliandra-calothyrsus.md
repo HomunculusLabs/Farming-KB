@@ -2,7 +2,7 @@
 title: "Calliandra Calothyrsus"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 Commonly known as red calliandra or pajón, it has become one of the most important [[comparison-arid-vs-tropical-permaculture]] and smallholder farming systems.

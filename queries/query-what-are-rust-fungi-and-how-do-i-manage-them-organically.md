@@ -3,7 +3,7 @@ title: "What Are Rust Fungi and How Do I Manage Them Organically?"
 tags: [query, rust-fungi, plant-disease, organic-management, fungal-pathogens]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## What Are Rust Fungi and How Do I Manage Them Organically?

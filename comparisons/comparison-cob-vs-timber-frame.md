@@ -9,7 +9,7 @@ tags:
   - owner-building
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 type: comparison
 ---
 

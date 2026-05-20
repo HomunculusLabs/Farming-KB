@@ -1,3 +1,28 @@
+---
+
+title: Oriental Herbal Nutrient (OHN) — Preparation and Use
+created: 2026-04-10
+updated: 2026-04-12
+type: concept
+
+tags:
+- knf
+- fermentation
+- pesticide
+- recipe
+- medicine
+- rice
+- processing
+- pest-control
+- fungal-diversity
+
+sources:
+- raw/papers/master-cho-knf-recipe-book.md
+- raw/papers/unknown-natural-farming-poster.md
+- raw/papers/bahay-kubo-indigenous-microorganisms_.md
+- raw/papers/chos-global-natural-farming.md
+- raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
+---
 
 # Oriental Herbal Nutrient (OHN)
 

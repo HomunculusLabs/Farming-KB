@@ -1,7 +1,7 @@
 ---
 title: "Mushroom Substrate Sterilization And Pasteurization"
 tags: []
-sources: []
+sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 ---
 
 ## Common Issues

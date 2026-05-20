@@ -2,7 +2,8 @@
 title: "Shulgin Gamma Dom Positional Isomerism"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/unknown-cultivation-of-fruitbodies-and-sclerotia.md"
 ---
 
 ## Chemical Identity

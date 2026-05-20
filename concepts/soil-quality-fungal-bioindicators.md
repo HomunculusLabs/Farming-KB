@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [soil, agriculture]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 
 ## Soil Quality Fungal Bioindicators

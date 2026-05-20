@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, mead, fermentation, homesteading, brewing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['gaias-garden-a-guide-to-home-scale-permaculture']
 type: query
 ---
 

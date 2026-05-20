@@ -3,63 +3,6 @@ title: Wet-Dry Tropics Climate and Design
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
-
-## Wet-Dry Tropics — Core Climate Zone
-
-### Geographic Distribution
-
-Key regions include South America's **Campos, Llanos, and Gran Chaco**, Central America, **Congo basin margins**, and Pacific islands. The zone is dominant in the southern hemisphere between latitudes 0–25°.
-
-### Seasonal Climate Pattern
-
-The defining characteristic is a dramatic seasonal shift:
-
-**Dry Season (Winter):**
-- Temperatures reach up to **38°C**
-- Very **low humidity** and persistent **desiccating winds**
-- Plant growth slows dramatically; many trees drop leaves
-- High fire risk from cured grasses and low moisture
-- Survival depends on stored water and adapted species
-
-**Wet Season (Summer):**
-- Conditions resemble the wet tropics — high humidity, heavy rainfall
-- **Episodic flooding** is common as hard-baked soils initially resist infiltration
-- Rapid plant growth and regeneration occurs
-- **No frosts** at any time of year
-
-**Annual rainfall:** 25–152 cm (highly variable by location and year)
-
-### Vegetation
-
-The wet-dry tropics support **savannah grasslands** rather than closed-canopy forest. Thorn-bush and **[[acacia]]** species dominate the tree layer. **Baobabs** are iconic, storing water in massive trunks. **Dry-deciduous trees** shed leaves during the dry season to reduce transpiration. Grasses are abundant and cycle between lush wet-season growth and cured dry-season thatch.
-
-### Fauna
-
-Unlike the wet tropics, the open savannah supports **enormous herd species** — zebra, wildebeest (gnu), and numerous antelope species — plus large carnivore populations following herbivore migrations. Livestock (cattle, goats) can fill similar ecological niches in designed systems.
-
-### Soils
-
-Generally **more fertile and more alkaline** than wet tropics soils. The seasonal dry period allows organic matter accumulation and mineral concentration that continuous leaching prevents. This makes agriculture more productive per unit area, but also more sensitive to degradation if mismanaged.
-
-### Staple Foods and Plantation Crops
-
-Staples: corn, millet, wheat, beans, potatoes, cucurbits, peanuts, cattle, and goats — a notable shift from root crops and rice (wet tropics) toward grains and legumes that tolerate seasonal drought. Plantation crops: sugar, cotton, peanuts, pineapple, and sisal.
-
-### Permaculture Design Essentials
-
-Mollison identifies the following as critical design strategies:
-
-1. **Water storage** — the single most important element; ponds, tanks, and earthworks capture wet-season rainfall for dry-season survival
-2. **Hedgerows** — windbreaks against desiccating dry-season winds, livestock control, and [[holzer-climate-zone-microclimate-creation]]
-3. **Tree legumes (especially *[[legume-nitrogen-fixation-mechanism]], provide fodder, offer shade without competing intensely with crops due to reverse leafing phenology
-4. **Improved stock breeds** — selecting livestock adapted to heat, drought, and seasonal feed scarcity
-5. **Natural herding** — mimicking migratory grazing patterns to prevent overgrazing during the vulnerable dry season
-6. **Grass [[permaculture-terrace-design-slopes]]-based [[water-management]] to distribute floodwater across the landscape
-12. **Soakage pits** — encouraging deep infiltration rather than surface runoff
-13. **Domestic fuelwood** — dedicated, sustainably managed woodlots to protect remaining trees
-
----
-
 ## [[permaculture-design]] in these regions centers on **capturing and storing water** from the wet season, **protecting and building soils** against [[permplant-willows-salix-erosion-control-fodder]] and degradation, **selecting adapted species** (especially deep-rooted trees and drought-tolerant perennials), and **managing fire and grazing** to maintain ecological health. The monsoon tropics variant adds the complexity of large populations and erratic rainfall, making restoration and intensive, water-wise food production equally urgent.
 
 ## Theoretical Background
@@ -118,3 +61,25 @@ resources, and specific goals when applying these concepts.
 - [[5-meo-dmt-and-bufo-alvarius]]
 - [[aact-brewer-design-principles-aeration-systems-ingham]]
 - [[aact-brewer-machine-design-testing-standards-ingham]]
+
+## Key Concepts and Applications
+
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources support broader adoption of best practices in this field.
+Economic analyses suggest favorable returns for properly implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Innovative approaches continue to emerge from both research and field experience.

@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: mycology, fungi]
-sources: []
+sources: ['geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-staycare-endobacteria-arbuscular-mycorrhizal-fungi-fungi-arbuscular-mycorrhizal-fungi-in-the-environment-fungal-biodiversity-tropical-forest-restoration-hydrocarbon-remediation-the-environment.md']
 ---
 ## Endomycorrhizal (Arbuscular) Fungi — Collection and Identification ## Overview Arbuscular mycorrhizal (AM) fungi form the most widespread and ecologically important symbiosis on Earth, associating with the roots of approximately 80% of terrestrial plant species. More than **80% of described fungal species** in this group are now recognized as **nonsporocarpic** — they do not produce visible fruiting bodies, making traditional collection methods ineffective. This page details the specialized techniques required for their study and is closely related to [[fungal-research-compound-reference]] is that these organisms **cannot be cultured independently of a host plant** — they are obligate biotrophs. This dependency has historically limited taxonomic study and necessitates indirect approaches to recovery and identification.
 

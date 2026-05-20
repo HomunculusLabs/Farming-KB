@@ -3,7 +3,7 @@ title: "Schisandra vs Chamomile"
 tags: [comparison, schisandra, chamomile, adaptogen, medicinal-herbs, herbal-medicine]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Schisandra vs Chamomile

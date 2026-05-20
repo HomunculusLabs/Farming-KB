@@ -3,7 +3,7 @@ title: "comparison-stinging-nettle-vs-horsetail vs Yarrow"
 tags: [comparison, medicinal-herbs, dynamic-accumulators, permaculture-plants]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## Stinging Nettle vs Yarrow

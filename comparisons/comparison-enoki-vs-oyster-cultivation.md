@@ -3,7 +3,7 @@ title: "Enoki vs Comparison Reishi Vs Oyster Mushroom Cultivation"
 tags: [comparison, enoki, oyster-mushroom, mushroom-cultivation, pleurotus, flammulina]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md']
 ---
 
 ## Enoki vs Oyster Mushroom Cultivation

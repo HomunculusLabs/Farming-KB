@@ -3,7 +3,7 @@ title: "Shiitake vs Chaga"
 tags: [comparison, shiitake, chaga, medicinal-mushrooms, mycology]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['papers/cancer-medicinal-mushrooms-immune-modulation-beta-glucans|cancer-treatments-medicinal-mushrooms.md']
 ---
 
 ## Shiitake vs Chaga

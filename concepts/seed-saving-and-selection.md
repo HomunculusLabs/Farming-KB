@@ -2,7 +2,8 @@
 title: "Seed Saving And Selection"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 
 - **Supply disruption:** Seed companies may face crop failures, shipping delays, or business closures

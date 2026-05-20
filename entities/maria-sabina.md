@@ -5,7 +5,7 @@ type: person
 tags: [mazatec, curandera, mushroom-ceremony, entheogen, oaxaca]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## María Sabina

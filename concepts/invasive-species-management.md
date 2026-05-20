@@ -4,14 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-management, conservation, ecology, plants, wildlife, restoration]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: []
 ---
 
 # Invasive Species Management
 
 ## Overview
 
-Invasive species are non-native organisms that cause ecological, economic, or human health harm when introduced to new environments. They outcompete native species, alter ecosystem processes, degrade habitat, and cost the US economy an estimated $120+ billion annually. Invasive species management on the homestead involves identification, prevention, control, and monitoring to protect native biodiversity and ecosystem function. This connects to [[pollinator-conservation|conservation]], [[mycorestoration|restoration]], and [[pollinator-conservation]] efforts.
+Invasive species are non-native organisms that cause ecological, economic, or human health harm when introduced to new environments. They outcompete native species, alter ecosystem processes, degrade habitat, and cost the US economy an estimated $120+ billion annually. Invasive species management on the homestead involves identification, prevention, control, and monitoring to protect native biodiversity and ecosystem function. This connects to [[pollinator-conservation|conservation]], restoration, and [[pollinator-conservation]] efforts.
 
 ## Identification
 
@@ -29,24 +29,24 @@ Not all non-native species are invasive. Invasive species share certain traits:
 
 #### Forest and Woodland Invaders
 - **Japanese knotweed (Fallopia japonica)**: Bamboo-like stems; forms dense monocultures; root system can extend 30+ feet; extremely difficult to eradicate
-- **Garlic mustard (Alliaria petiolata)**: Biennial herb; produces allelopathic chemicals that kill mycorrhizal fungi; threatens forest understory
+- **Garlic mustard (Alliaria petiolata)**: Biennial herb; produces allelopathic chemicals that kill [[mycorrhizal-fungi]]; threatens forest understory
 - **Oriental bittersweet (Celastrus orbiculatus)**: Climbing vine that girdles and kills trees; displaces native bittersweet
 - **Japanese barberry (Berberis thunbergii)**: Thorny shrub that alters soil chemistry; creates favorable conditions for tick populations
 - **Burning bush (Euonymus alatus)**: Decorative shrub that escapes cultivation and forms dense thickets
 
 #### Wetland and Riparian Invaders
-- **Purple loosestrife (Lythrum salicaria)**: Aggressive wetland plant; produces 2-3 million seeds per plant; displaces native wetland vegetation; see [[wetland-ecology]]
-- **Phragmites (Phragmites australis)**: Common reed; forms dense stands up to 15 feet tall; reduces wetland biodiversity; invasive genotype differs from native
+- **Purple loosestrife ([[lythrum-salicaria]])**: Aggressive wetland plant; produces 2-3 million seeds per plant; displaces native wetland vegetation; see [[wetland-ecology]]
+- **Phragmites ([[phragmites-australis]])**: Common reed; forms dense stands up to 15 feet tall; reduces wetland biodiversity; invasive genotype differs from native
 - **Japanese stiltgrass (Microstegium vimineum)**: Annual grass that forms dense mats; shade-tolerant; prolific seed production
 
 #### Grassland and Old-Field Invaders
 - **Spotted knapweed (Centaurea stoebe)**: Taprooted perennial; allelopathic; degrades rangeland and prairie habitat
 - **Leafy spurge (Euphorbia esula)**: Toxic latex; deep root system (20+ feet); extremely difficult to control
-- **Crown vetch (Coronilla varia)**: Aggressive legume; planted for erosion control but escapes and dominates native grasslands
-- **Canada thistle (Cirsium arvense)**: Perennial thistle; extensive rhizome system; reduces crop yields and pasture quality
+- **Crown vetch ([[coronilla-varia]])**: Aggressive legume; planted for erosion control but escapes and dominates native grasslands
+- **Canada thistle ([[cirsium-arvense]])**: Perennial thistle; extensive rhizome system; reduces crop yields and pasture quality
 
 #### Ornamental Escapes
-- **English ivy (Hedera helix)**: Evergreen vine that climbs trees; adds weight that can topple trees during storms; shades out forest understory
+- **English ivy ([[hedera-helix]])**: Evergreen vine that climbs trees; adds weight that can topple trees during storms; shades out forest understory
 - **Wintercreeper (Euonymus fortunei)**: Evergreen groundcover that climbs trees; forms dense mats
 - **Chinese wisteria (Wisteria sinensis)**: Aggressive vine that kills trees and shrubs by shading and girdling
 - **Butterfly bush (Buddleja davidii)**: Despite attracting butterflies, it escapes and displaces native host plants

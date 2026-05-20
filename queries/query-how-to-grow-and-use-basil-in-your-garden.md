@@ -3,7 +3,7 @@ title: "How to Grow and Use Basil in Your Garden"
 tags: [query, basil, herb-gardening, culinary-herbs, medicinal-herbs]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## How to Grow and Use Basil in Your Garden

@@ -2,7 +2,7 @@
 title: "Dpt"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
 ---
 
 It acts as a [[psilocybin]], distinguished by its unique dipropyl substitution pattern on the [[tryptamine]] nitrogen.

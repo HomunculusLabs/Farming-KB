@@ -1,3 +1,12 @@
+---
+title: Cover Crop Selection Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [cover-crop, green-manure, soil-building, permaculture, planting, nitrogen]
+sources:
+  - raw/papers/gaias-garden-toby-hemenway.md
+---
 
 # Cover Crop Selection Guide
 
@@ -81,32 +90,3 @@ Excellent for no-till gardens; mowed to generate mulch and compost. Shorter vari
 - [[chop-and-drop-mulching]] -- slashing cover crops in place
 - [[white-clover-ground-cover]] -- Fukuoka's use of clover as permanent living mulch
 - [[sheet-mulching]] -- another approach to soil building
-
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.

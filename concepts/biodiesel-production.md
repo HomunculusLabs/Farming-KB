@@ -1,3 +1,11 @@
+---
+title: Biodiesel Production
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, off-grid, chemistry, processing, sustainability, energy, safety]
+sources: []
+---
 
 ## Overview
 

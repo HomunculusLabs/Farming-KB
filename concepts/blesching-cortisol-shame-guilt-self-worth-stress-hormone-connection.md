@@ -3,35 +3,6 @@ title: "Guilt, and Self-Worth: The Stress Hormone Connection"
 tags:
   - concept
 ---
-
-## The Cortisol-Shame Connection
-
-Cortisol is the body's primary stress hormone, produced by the [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]]
-- **Cognitive function:** Impairs memory consolidation and executive function
-- **Reproductive system:** Disrupts hormone balance, fertility, [[chrysanthemum-coronarium]] and sleep architecture
-- **Weight:** Promotes abdominal fat storage [[epinephrine-stress-response-endocannabinoid-modulation-blesching]] (epinephrine, norepinephrine) in a chronic state of activation, contributing to cardiovascular damage and immune suppression.
-
-### Martyrdom
-Martyrdom is a self-sacrifice pattern that undermines self-worth while generating chronic stress. The martyr tells themselves they are giving for others, but the underlying emotional dynamic involves the suppression of personal needs, desires, and boundaries. This pattern is particularly insidious because it presents as virtue (selflessness, devotion) while producing the same cortisol-elevating stress response as fear and shame.
-
----
-
-## Childhood Origins and Intergenerational Transmission
-
-The shame-cortisol cycle often originates in childhood. Alexander's research identified several developmental factors that influence illness vulnerability, including:
-- Birth trauma
-- Nature of infant care (weaning, toilet training, sleeping arrangements)
-- Emotional climate of the family and personality traits of parents
-- Accidental emotional traumatic experiences of infancy and childhood
-
-When caregivers transmit shame — through criticism, neglect, conditional love, or their own unresolved shame patterns — children internalize these emotional templates. The resulting low self-worth becomes a baseline hormonal state rather than an occasional response to specific events.
-
-Epigenetic research adds a biological dimension to this inheritance. Studies on mice demonstrate that emotional material from traumatic experiences produces immediate biological changes passed to the [[cannabis-for-anxiety-disorders]] including phobia and PTSD.
-
-This means the shame-cortisol cycle can be literally inherited at the epigenetic level. A grandparent's unresolved shame may manifest as their grandchild's baseline anxiety, low self-worth, or chronic cortisol elevation — without the child ever knowing the original source.
-
----
-
 ## The Giving Shame Back Technique
 
 This technique addresses the shame-cortisol loop by consciously identifying and releasing shame that does not genuinely belong to the individual:

@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-05-09
 type: concept
 tags: [mycology, fungi, beta-diversity, ecology, species-turnover]
-sources: []
+sources: ['~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
 ---
 ## Fungal Beta Diversity and Species Turnover Analysis
 

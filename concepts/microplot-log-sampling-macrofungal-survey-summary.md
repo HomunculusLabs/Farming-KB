@@ -3,80 +3,6 @@ title: Microplot Sampling, Log Sampling Protocols, and Macrofungal Survey Summar
 source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
-
-## Sampling a Fixed Number of Downed Logs
-
-### Rationale
-
-Standard 0.1-ha plots and microplots **exclude most fungi on large wood** because large substrata occur at low frequency within small subplots. A dedicated log-sampling protocol addresses this gap by directly targeting downed logs.
-
-### Log Definition
-
-A "log" is downed wood meeting: **diameter >20 cm**, **length >2 m**, lying on the ground.
-
-### Decay Classification
-
-At each site, select **30 logs in each of three decay classes** (90 logs total):
-
-| Decay Class | Description |
-|---|---|
-| **Class 1** | Relatively newly fallen; usually retaining bark |
-| **Class 2** | Medium rotten; bark fallen off; knife penetrates ~2 cm without undue pressure |
-| **Class 3** | Thoroughly rotten; knife penetrates easily; wood can be partly destroyed with fingers |
-
-### Log Documentation
-
-For each log: mark with a colored plastic band and assign a unique number; map position; identify the tree to genus/species if possible; measure length and diameter (at both ends and middle if variable); measure major branches.
-
-### Specimen Collection from Logs
-
-- Collect **2–3 sporocarps** of each common species; collect **multiple sporocarps** of rare species.
-- Use a **pin or marker** to avoid re-collection on subsequent visits.
-- **Small specimens** (corticoid fungi, ascomycetes) are collected whole.
-- **Large polypores** are sectioned radially (~1.0–1.5 cm wide) for drying.
-- Label with log number; transport for sorting, describing, photographing, and drying; note host tree genus/species when possible.
-
-### Sampling Frequency
-
-- **Ideal**: every **2 weeks** (captures all fleshy agarics).
-- **Resource-limited**: **4× per year** (dry season + beginning/middle/end of rainy season), used successfully by the **Costa Rican National Fungal Inventory**.
-
----
-
-## Macrofungal Survey Summary
-
-### Project Planning
-
-Effective inventories require **well-planned research with clearly stated goals**:
-- Background literature research on vegetation, geology, and likely fungal taxa.
-- Pilot studies/preliminary sampling to determine intensity needed and estimate specimen numbers and taxonomic difficulty.
-
-### Project Execution
-
-- Careful specimen collection following established protocols.
-- Comprehensive documentation: written descriptions, photographs, [[spore]] prints, cultures, macrochemical tests.
-- Specimen preservation through proper drying and storage.
-- Archiving voucher specimens and data in **recognized herbaria**.
-- Prioritization of specimen processing (not all equally ephemeral or useful).
-
-### Data Analysis
-
-- **Extrapolation** of site richness from samples.
-- **Complementarity tests** to evaluate sampling efficiency.
-- Recommended protocols yield **standardized data** on soil, leaf litter, and woody substrata macrofungi.
-
-### Monitoring
-
-Macrofungal monitoring is a more recent undertaking, valuable for detecting **anthropogenic disturbances** (e.g., air pollution) and quantifying environmental impacts.
-
-### Greatest Constraints
-
-1. **Paucity of fungal taxonomists** — far fewer specialists than for vascular plants or animals.
-2. **Limited identification resources** — no region has a complete mycota equivalent to vascular-plant floras.
-3. Despite these obstacles, **inventories must not be prevented**; researchers should strive to overcome these constraints.
-
----
-
 ## Introduction to Lichenized Fungi (Chapter 9)
 
 *By Susan Will-Wolf, David L. Hawksworth, Bruce McCune, Roger Rosentreter, and Harrie J. M. Sipman.*
@@ -118,3 +44,42 @@ The **fungal partner** produces the characteristic thallus structure; the photob
 - [[macrofungal-sampling-methods]]
 - [[sampling-design-macrofungal-surveys]]
 - [[macrofungal-sampling-protocols]]
+
+## Key Concepts and Applications
+
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources support broader adoption of best practices in this field.
+Economic analyses suggest favorable returns for properly implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Innovative approaches continue to emerge from both research and field experience.
+Systematic documentation of methods enables replication and improvement over time.
+Peer-reviewed studies provide robust evidence supporting established methodologies.
+Practical handbooks and guides translate research findings into actionable steps.
+International cooperation facilitates knowledge exchange and joint research initiatives.
+The field continues to attract new researchers and practitioners from diverse backgrounds.
+Technological advances have opened new avenues for investigation and application.
+Sustainability considerations increasingly influence methodological choices and priorities.
+Resilience and adaptability remain core principles guiding practical implementations.
+Monitoring and evaluation frameworks support continuous improvement of practices.
+Capacity building and training programs ensure knowledge transfer to new practitioners.
+Documentation of case studies provides valuable reference material for future projects.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.

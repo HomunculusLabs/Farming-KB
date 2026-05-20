@@ -1,3 +1,12 @@
+---
+title: Mold Identification Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fungi, mycology, health, biology, troubleshooting, species-profiles]
+sources: []
+---
+
 # Mold Identification Guide
 
 Molds are rapidly growing, filamentous fungi that reproduce primarily by producing airborne spores (conidia). They are among the most common organisms encountered in indoor environments and are significant concerns for human health, food safety, and building maintenance. Most indoor molds belong to the phyla [[ascomycota]] and Zygomycota.
@@ -139,5 +148,52 @@ Most common health effect of indoor mold exposure. Symptoms include:
 
 ### Asthma Exacerbation
 Mold spores and fragments can trigger asthma attacks. Sensitization to specific mold species (Alternaria, Cladosporium, Aspergillus) is a risk factor for severe asthma.
-## See Also
-- [[trichoderma-forest-green-mold-guide]]
+
+### Hypersensitivity Pneumonitis
+Rare but serious immune-mediated lung disease caused by repeated inhalation of organic particles including mold spores. Requires chronic exposure.
+
+### Mycotoxin Exposure
+Mold-produced secondary metabolites that can cause health effects. Routes of exposure include inhalation, ingestion, and skin contact. Key mycotoxins:
+- Aflatoxins ([[aspergillus-flavus]], A. parasiticus): potent liver carcinogens
+- Ochratoxin A (Aspergillus, Penicillium): kidney damage
+- Trichothecenes (Stachybotrys, Fusarium): immunosuppressive
+- Patulin (Penicillium, Aspergillus): gastrointestinal toxicity
+
+### Opportunistic Infections
+Immunocompromised individuals are at risk for invasive fungal infections:
+- Aspergillosis ([[aspergillus-fumigatus]]): lung infection, can disseminate
+- Mucormycosis (Rhizopus, Mucor): aggressive tissue destruction
+- Fusariosis (Fusarium): skin and systemic infections
+
+## Mold Remediation
+
+### Assessment
+- Identify and fix the moisture source (leak, condensation, flooding)
+- Assess the extent of contamination (visible mold growth, water damage)
+- Professional inspection may be warranted for large areas (>10 sq ft)
+
+### Containment and Removal
+- Isolate the affected area with plastic sheeting
+- Use negative air pressure (HEPA-filtered air scrubber)
+- Wear appropriate PPE: N95 respirator, gloves, eye protection
+- Remove and dispose of porous materials with mold growth (drywall, carpet, ceiling tiles)
+- Clean non-porous surfaces with detergent solution
+- HEPA vacuum after cleaning
+
+### Prevention
+- Maintain indoor humidity below 60% (ideally 30-50%)
+- Ensure proper ventilation in bathrooms, kitchens, laundry areas
+- Fix plumbing leaks promptly
+- Use exhaust fans during and after showering
+- Ensure proper drainage away from building foundations
+- Clean and dry water damage within 24-48 hours
+- Use mold-resistant products in moisture-prone areas
+
+### When to Call a Professional
+- Mold area exceeds 10 square feet
+- Mold is in HVAC systems
+- Occupants have health concerns or compromised immune systems
+- Mold is associated with sewage or contaminated water
+- Structural damage is present
+
+## Related

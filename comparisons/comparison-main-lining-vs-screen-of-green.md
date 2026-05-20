@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, training, scrog, main-lining, yield-optimization]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 type: comparison
 ---
 ## Main-Lining vs Screen of Green

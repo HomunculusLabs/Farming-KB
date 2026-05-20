@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, cannabis, terpenes, resin, quality]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['https://www.sare.org/publications/goat-production']
 type: query
 ---
 

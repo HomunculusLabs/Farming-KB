@@ -8,7 +8,7 @@ tags:
   - woodland-management
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## How Do I Use Coppicing and Pollarding for Sustainable Wood Production?

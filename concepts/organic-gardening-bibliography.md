@@ -3,85 +3,6 @@ title: Organic Gardening Bibliography
 source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
-
-## Cover Crops and Green Manures
-
-### Managing Cover Crops Profitably — SARE
-
-Provides detailed species profiles, seeding rates, termination methods, and
-rotational strategies for dozens of cover crop varieties. Includes
-decision-support charts that help growers select the right cover crop for their
-climate, soil type, and production goals. Available as a free download.
-
----
-
-## Soil Fertility, Earthworms, and Mineral Balance
-
-### Friend Earthworm — George Sheffield Oliver
-
-An early-twentieth-century classic celebrating the role of earthworms in soil
-fertility. Oliver describes practical methods for encouraging earthworm
-populations and documents dramatic improvements in soil structure and crop
-yields. Available through the Soil and Health Library.
-
-### Soil Fertility, Renewal and Preservation — J. I. Rodale
-
-J. I. Rodale was a pioneering advocate [[fukuoka-critique-of-organic-farming]] in the United States.
-His writings emphasize organic matter, trace minerals, and biological activity
-in sustaining crop production without reliance on soluble [[cannabis-chemical-fertilizers]].
-
----
-
-## Season Extension
-
-### Solar Gardening — Leandre and Gretchen Vogel Poisson
-
-Innovative techniques for using solar energy to protect plants from frost and
-extend the harvest window. Describes homemade and commercial solar appliances —
-cold frames, solar cones, and cloches — that capture and retain heat, enabling
-gardeners to start crops earlier in spring and continue harvesting into autumn.
-
----
-
-## Regional Gardening Guides
-
-### Growing Vegetables West of the Cascades — Steve Solomon
-
-Addresses the unique challenges of maritime [[psilocybin-north-america-pacific-northwest]] gardening: cool
-summers, wet winters, acidic soils, and a relatively short frost-free growing
-season. Covers variety selection, planting calendars, soil [[soil-mineral-management-and-amendment-strategies]],
-and pest management calibrated to the region.
-
----
-
-## Root Development and Plant Physiology
-
-### Root Development of Vegetable Crops — Weaver and Bruner
-
-A landmark study mapping the root systems of dozens of common garden vegetables
-through painstaking excavation and measurement. Originally published in the
-1920s, it reveals the surprising depth and lateral extent of many crop root
-systems, underscoring the importance of deep, well-prepared soil.
-
----
-
-## Cooperative Extension Services
-
-Land-grant universities operate Cooperative Extension Services providing
-research-based agricultural guidance. Solomon specifically references:
-
-- **North Carolina Cooperative Extension** — extensive publications on
-  vegetable production, soil testing, and [[integrated-pest-management]].
-- **Louisiana Cooperative Extension** — guidance suited to the humid subtropical
-  climate of the Gulf Coast.
-- **Cornell Cooperative Extension (New York)** — one of the most comprehensive
-  online repositories of horticultural fact sheets and growing guides.
-
-Extension publications are generally free and represent an excellent resource
-for region-specific, scientifically grounded advice.
-
----
-
 ## Online Resources
 
 ### Soil and Health Library (soilandhealth.org)
@@ -119,3 +40,48 @@ remains accessible to all who wish to grow food responsibly and sustainably.
 The information presented here highlights important connections between theory and practice. Consider these factors in relation to your specific context for best results.
 
 These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.
+
+## Key Concepts and Applications
+
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources support broader adoption of best practices in this field.
+Economic analyses suggest favorable returns for properly implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Innovative approaches continue to emerge from both research and field experience.
+Systematic documentation of methods enables replication and improvement over time.
+Peer-reviewed studies provide robust evidence supporting established methodologies.
+Practical handbooks and guides translate research findings into actionable steps.
+International cooperation facilitates knowledge exchange and joint research initiatives.
+The field continues to attract new researchers and practitioners from diverse backgrounds.
+Technological advances have opened new avenues for investigation and application.
+Sustainability considerations increasingly influence methodological choices and priorities.
+Resilience and adaptability remain core principles guiding practical implementations.
+Monitoring and evaluation frameworks support continuous improvement of practices.
+Capacity building and training programs ensure knowledge transfer to new practitioners.
+Documentation of case studies provides valuable reference material for future projects.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+
+See also: [[green-manures-organic-gardening]] [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]

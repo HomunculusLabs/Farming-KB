@@ -1,7 +1,7 @@
 ---
 created: 2026-04-12
 source: biodiversity-of-fungi (Hyde et al. Ch. 21, Krug/Benny/Keller)
-sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
+sources: []
 tags:
 - fungal-biodiversity
 - ecology

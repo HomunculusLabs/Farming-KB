@@ -1,3 +1,11 @@
+---
+title: Natural Building Materials Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [construction, sustainability, homesteading, off-grid, permaculture]
+sources: []
+---
 
 # Natural Building Materials Guide
 

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, soil-health, compost, organic-gardening, vegetable-growing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['understanding-cultivar-specificity-cannabis-microbiome']
 type: query
 ---
 

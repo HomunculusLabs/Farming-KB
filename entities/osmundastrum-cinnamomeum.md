@@ -2,7 +2,7 @@
 title: "Osmundastrum Cinnamomeum"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The genus *Osmundastrum* is monotypic, containing only this single species. It is the oldest living lineage of leptosporangiate ferns, with a fossil record extending back to the Triassic period, over 200 million years ago. Fossil osmundaceous material attributed to *Osmundastrum* has been found on every continent except Antarctica.

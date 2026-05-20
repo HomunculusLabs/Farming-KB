@@ -18,7 +18,7 @@ The primary antitumour compounds are water-soluble beta-D-glucans with
 heterosaccharide chains of xylose, mannose, galactose or uronic acid,
 or beta-D-glucan-protein complexes (proteoglycans). Hot water
 extraction is the traditional and most common method for obtaining
-these compounds, mirroring the [[tremella-mesenterica]], for example, are readily
+these compounds, mirroring the tremella-mesenterica]], for example, are readily
 extracted with hot water giving a smooth and stable solution used in
 Oriental cuisine and medicine. Hot water extracts have long been said
 to be efficacious in the treatment of various diseases including many

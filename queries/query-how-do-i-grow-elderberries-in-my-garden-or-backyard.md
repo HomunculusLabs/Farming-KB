@@ -3,7 +3,7 @@ title: "How Do I Grow Elderberries in My Garden or Backyard?"
 tags: [query, elderberry, berry-growing, medicinal-plants, permaculture]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow Elderberries in My Garden or Backyard?

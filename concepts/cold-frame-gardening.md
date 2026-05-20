@@ -1,3 +1,11 @@
+---
+title: Cold Frame Gardening
+created: 2026-04-12
+updated: 2026-04-13
+type: concept
+tags: [season-extension, gardening, permaculture, homesteading, construction]
+sources: []
+---
 
 # Cold Frame Gardening
 

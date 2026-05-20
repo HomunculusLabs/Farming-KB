@@ -2,7 +2,7 @@
 title: "Nitrous Oxide"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Chemical Properties

@@ -3,7 +3,7 @@ title: "How Do I Grow Endive and Radicchio in My Garden?"
 tags: [query, endive, radicchio, chicory, cool-season-crops, leafy-greens]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow Endive and Radicchio in My Garden?

@@ -1,3 +1,11 @@
+---
+title: Fungal Toxins Reference
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, fungi, chemistry, health, medicine, safety, biochemistry, species]
+sources: []
+---
 
 # Fungal Toxins Reference
 

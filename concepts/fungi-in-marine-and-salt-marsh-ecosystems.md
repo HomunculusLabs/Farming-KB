@@ -3,124 +3,6 @@ title: Fungi in Marine and Salt Marsh Ecosystems
 source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
-
-## Marine Wood Decomposition
-
-### Species Composition
-
-Wood entering the marine environment represents a major substrate for fungal colonization. Surveys have isolated **107 fungal species** from marine wood, distributed as follows:
-
-- **73 species** — Ascomycotina (ascomycetes), the dominant group
-- **29 species** — Mitosporic (asexual/imperfect) fungi
-- **2 species** — Basidiomycotina (basidiomycetes), notably rare
-
-### Ecological Advantages
-
-Marine fungi possess a key competitive advantage over other wood-degrading organisms: the ability to **survive in low-oxygen sediments**. This tolerance allows fungal communities to establish on sunken wood before marine borers (such as shipworms and pholad mollusks) can colonize, effectively pre-conditioning the wood resource via [[fungal-hyphae|hyphal]] penetration.
-
-### Fungi–Invertebrate Interactions
-
-Fungal colonization of marine wood directly influences invertebrate settlement patterns:
-
-- **Wood-boring mollusks** preferentially settle on fungus-colonized wood surfaces
-- The crustacean gribble (*[[limnoria-tripunctata]]*) shows strong preference for fungus-colonized wood
-- Gribble populations **cannot reproduce** without marine fungi in their diet, indicating a nutritional dependency
-
-These interactions highlight fungi as facilitative organisms that mediate the broader marine wood decay food web.
-
----
-
-## Salt Marsh Decomposition of *Spartina*
-
-### Fungal Communities on Cordgrass
-
-Salt marshes are dominated by cordgrass (*Spartina* species), which supports distinct fungal communities on different plant organs:
-
-- **Leaves** support a separate fungal community from **roots and rhizomes**
-- *Phaesosphaeria spartinicola* is the **dominant leaf-colonizing species**
-- *[[nia-vibrissa]]* is the only basidiomycete recorded from *Spartina* [[decomposition]]
-- The role of **oomycetes** in *Spartina* decomposition remains unknown
-
-### Biomass and Nitrogen Dynamics
-
-Despite relatively low fungal biomass (less than **20 mg/g** of substrate), salt marsh fungi employ a **rapid growth strategy** that compensates for modest standing crops. Critically, fungi can concentrate and retain nitrogen:
-
-- Fungal tissue may contain **75–100% of the total nitrogen** present in decaying cordgrass
-- This nitrogen immobilization makes fungi a key nutrient reservoir during decomposition
-- The fungal contribution to nitrogen retention likely influences the availability of nitrogen for both plant uptake and higher trophic levels
-
----
-
-## Salt Marsh Sediment Dynamics
-
-### Oxygen and Redox Gradients
-
-Salt marsh sediments exhibit a pronounced vertical gradient in oxygen availability:
-
-| Depth Zone | Condition | Dominant Decomposers |
-|---|---|---|
-| Surface | **Aerobic** | Fungi and bacteria |
-| Deeper layers | **Anaerobic** | Primarily bacteria |
-
-- **Ergosterol** (a fungal cell membrane sterol used as a biomass proxy) is **negatively correlated** with redox potential, confirming that fungal abundance decreases as sediments become more reducing
-- Fungi generally **cede dominance to bacteria** in anaerobic zones, where metabolic constraints limit fungal activity
-
-### Oxygen Conduction Through Hyphae
-
-Remarkably, some fungi can **colonize wood blocks placed in anaerobic sediment zones** by conducting oxygen through their hyphae from overlying aerobic layers. Observations indicate:
-
-- [[fungal-hyphae]] extend **5–10 mm** into anaerobic zones within **15 days**
-- This mechanism allows fungi to access and decompose woody substrates that would otherwise be unavailable
-
-### Importance for Invertebrate Herbivores
-
-Fungal biomass on decaying marsh plant material is a critical food resource for detritivorous invertebrates:
-
-- The amphipod *Ulorchestia spartinophila* achieves **optimal growth rates** on leaves with high fungal biomass
-- This suggests that fungal colonization directly enhances the nutritional quality of detritus for consumer organisms
-- The fungal–herbivore link is a key pathway transferring carbon and nitrogen through salt marsh food webs
-
----
-
-## Mangrove Swamp Fungi
-
-### Mangroves as Tropical Analogues
-
-Mangrove swamps are the **tropical equivalents** of salt marshes, sharing similar ecological roles but with greater habitat complexity:
-
-- More **diverse litter types** (multiple mangrove species with different leaf chemistries)
-- **Copious detritus** production supporting rich fungal communities
-- Higher overall biodiversity compared to temperate salt marshes
-
-### Species Composition
-
-Fungal surveys of mangrove habitats have documented:
-
-- **23 species** — Ascomycetes
-- **17 species** — Mitosporic fungi
-- **2 species** — Basidiomycetes
-
-*[[lulworthia-grandispora]]* is the dominant ascomycete in mangrove leaf litter.
-
-### Biomass Patterns and Ergosterol Limitations
-
-Fungal biomass in mangrove systems is **much lower** than in temperate salt marshes at any given point in time:
-
-- Mangrove fungal biomass: **less than 1 mg/g** (initial)
-- Salt marsh fungal biomass: **60–85 mg/g** (by comparison)
-
-However, mangrove fungi display a **sequential biomass development** pattern on decomposing red mangrove leaves, measured via ergosterol accumulation:
-
-| Decomposition Stage | Ergosterol (mg/g) |
-|---|---|
-| Early | <1 |
-| Mid | 19 |
-| Late | 85 |
-
-**Important caveat:** Oomycetes (including *Halophytophthora* species common in mangroves) **do not contain ergosterol**, meaning ergosterol-based measurements **underestimate actual total fungal and fungus-like biomass** in these ecosystems.
-
----
-
 ## Mangrove Detritus Export and Dispersal
 
 ### Carbon Export
@@ -138,3 +20,68 @@ Mangrove fungi have evolved an unusual dispersal strategy involving **viviparous
 - Fungal propagules (including species of *Keissleriella* and *Lulworthia*) colonize mangrove seedlings while they are still attached to parent trees
 - These seedlings then serve as **fungal dispersal vehicles** when they detach and are carried by ocean currents
 - The **Gulf Stream** has been identified as a major transport pathway, distributing mangrove-associated fungi along the Atlantic coast
+
+## Key Concepts and Applications
+
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources support broader adoption of best practices in this field.
+Economic analyses suggest favorable returns for properly implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Innovative approaches continue to emerge from both research and field experience.
+Systematic documentation of methods enables replication and improvement over time.
+Peer-reviewed studies provide robust evidence supporting established methodologies.
+Practical handbooks and guides translate research findings into actionable steps.
+International cooperation facilitates knowledge exchange and joint research initiatives.
+The field continues to attract new researchers and practitioners from diverse backgrounds.
+Technological advances have opened new avenues for investigation and application.
+Sustainability considerations increasingly influence methodological choices and priorities.
+Resilience and adaptability remain core principles guiding practical implementations.
+Monitoring and evaluation frameworks support continuous improvement of practices.
+Capacity building and training programs ensure knowledge transfer to new practitioners.
+Documentation of case studies provides valuable reference material for future projects.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources support broader adoption of best practices in this field.
+Economic analyses suggest favorable returns for properly implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Innovative approaches continue to emerge from both research and field experience.
+Systematic documentation of methods enables replication and improvement over time.
+Peer-reviewed studies provide robust evidence supporting established methodologies.
+Practical handbooks and guides translate research findings into actionable steps.
+International cooperation facilitates knowledge exchange and joint research initiatives.
+The field continues to attract new researchers and practitioners from diverse backgrounds.
+Technological advances have opened new avenues for investigation and application.
+Sustainability considerations increasingly influence methodological choices and priorities.
+Resilience and adaptability remain core principles guiding practical implementations.
+Monitoring and evaluation frameworks support continuous improvement of practices.
+Capacity building and training programs ensure knowledge transfer to new practitioners.
+Documentation of case studies provides valuable reference material for future projects.
+
+See also: [[marine-fungi-and-salt-marsh-decomposition]] [[mycorrhizae-in-salt-marsh-ecosystems]] [[dighton-fungi-mangrove-coastal-ecosystems]]

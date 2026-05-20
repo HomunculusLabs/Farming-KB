@@ -1,3 +1,11 @@
+---
+title: Rainwater Harvesting Systems
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, off-grid, water, water-management, engineering, sustainability]
+sources: []
+---
 
 # Rainwater Harvesting Systems
 

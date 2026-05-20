@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, cannabis, living-soil, hydroponics, growing-methods]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['AllBud blesching-cannabis-strain-selection-receptor-targeting Reviews']
 type: comparison
 ---
 ## Living Soil Cannabis vs Hydroponic Cannabis

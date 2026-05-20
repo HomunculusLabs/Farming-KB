@@ -2,7 +2,7 @@
 title: "Digoxin"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 Digoxin acts by inhibiting the sodium-potassium ATPase (Na+/K+-ATPase) on

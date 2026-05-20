@@ -3,7 +3,7 @@ title: "Pioppino vs Maitake Cultivation"
 tags: [comparison, mushroom-cultivation, pioppino, maitake, agrocybe, grifola]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md']
 ---
 
 ## Pioppino vs Maitake Cultivation

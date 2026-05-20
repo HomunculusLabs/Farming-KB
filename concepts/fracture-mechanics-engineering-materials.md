@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [engineering, materials-science, fracture-mechanics, fatigue, structural-integrity, failure-analysis]
 date: 2026-05-02
 updated: 2026-05-02
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 type: concept
 ---
 

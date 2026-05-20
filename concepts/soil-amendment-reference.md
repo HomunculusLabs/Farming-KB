@@ -1,3 +1,11 @@
+---
+title: Soil Amendment Reference
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [soil, fertilizer, minerals, calcium, phosphorus, npk, ph, soil-amendment, gardening, reference]
+sources: []
+---
 
 # Soil Amendment Reference
 

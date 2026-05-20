@@ -3,7 +3,7 @@ title: "How Do I Grow Macadamia Nuts in My Garden or Orchard?"
 tags: [query, nut-trees, tropical-gardening, macadamia, permaculture]
 date: 2026-05-18
 updated: 2026-05-18
-sources: []
+sources: ['raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md']
 ---
 
 ## How Do I Grow Macadamia Nuts in My Garden or Orchard?

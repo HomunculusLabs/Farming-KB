@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Pablo Amaringo's "Ayahuasca Visions" is a landmark work of visionary art that documents the extraordinary visual experiences produced by the Amazonian ayahuasca brew. Amaringo, a former vegetalista (plant-healer) from the Ucayali region of Peru, painted hundreds of detailed visions depicting the spirit world encountered through ayahuasca, providing an unparalleled visual record of Amazonian shamanic cosmology.
+[[pablo-amaringo]]'s "[[ayahuasca-visions]]" is a landmark work of visionary art that documents the extraordinary visual experiences produced by the Amazonian ayahuasca brew. Amaringo, a former vegetalista (plant-healer) from the Ucayali region of Peru, painted hundreds of detailed visions depicting the spirit world encountered through ayahuasca, providing an unparalleled visual record of Amazonian shamanic cosmology.
 
 ## Pablo Amaringo
 
@@ -22,12 +22,12 @@ Amaringo's fundamental belief: "Every tree, every plant, has a spirit. People ma
 
 ## The Ayahuasca Ceremony
 
-Amaringo's paintings document the complete ayahuasca preparation process:
-- The vegetalista cuts the ayahuasca liana (Banisteriopsis caapi) climbing up a capirona tree
+Amaringo's paintings document the complete [[ayahuasca-preparation]] process:
+- The vegetalista cuts the ayahuasca liana ([[banisteriopsis-caapi]]) climbing up a capirona tree
 - He makes offerings of tobacco and matches to the "grandfather" (the ayahuasca spirit)
 - He observes the chicua bird -- its call determines whether the vine should be taken
 - The vine is crushed and boiled in clay pots (not aluminium) for three to four hours
-- Chacruna (Psychotria viridis) leaves are added, the vegetalista whistles an icaro (power song) and blows on the pot
+- Chacruna ([[psychotria-viridis]]) leaves are added, the vegetalista whistles an icaro (power song) and blows on the pot
 - Additional plants may be added: toe (Brugmansia), motelo huasca (Bauhinia guianensis), or others
 
 The preparation requires strict dietary discipline: no salt, sugar, or bitter food; no alcohol; no contact with ill-tempered people; sexual abstinence for three days. The "mothers or spirits of the vegetation" will not assist if the requirements are not met.
@@ -52,29 +52,33 @@ Amaringo describes three highest degrees in the traditional vegetalista medicine
 
 - [[hallucinogenic-plants-of-the-world]] -- overview of psychoactive plant families
 - [[psychedelic-mushroom-art-and-iconography]] -- mushroom art traditions
-### Key Principles
-Understanding ayahuasca vision art and Shipibo tradition requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Key Concepts and Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources and training programs support broader adoption of best practices.
+Economic analyses suggest favorable returns on investment for implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.

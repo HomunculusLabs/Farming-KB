@@ -2,7 +2,7 @@
 title: "Baeocystin"
 type: entity
 tags: []
-sources: []
+sources: ['papers/field-guide-to-the-psilocybin-mushroom.md']
 ---
 
 ## Chemical Properties

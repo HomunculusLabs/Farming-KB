@@ -7,7 +7,7 @@ tags: permaculture"
 tags: [comparison, permaculture, food-forest, urban-gardening, design]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
 ---
 
 ## Backyard Food Forest vs Urban Permaculture

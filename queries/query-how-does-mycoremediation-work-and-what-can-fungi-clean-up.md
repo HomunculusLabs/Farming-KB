@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, mycology, bioremediation, mycoremediation, environment]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-staycare-endobacteria-arbuscular-mycorrhizal-fungi-fungi-arbuscular-mycorrhizal-fungi-in-the-environment-fungal-biodiversity-tropical-forest-restoration-hydrocarbon-remediation-the-environment.md']
 type: query
 ---
 

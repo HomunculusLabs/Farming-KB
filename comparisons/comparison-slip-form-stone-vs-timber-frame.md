@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [natural-building, construction, homesteading, permaculture, off-grid]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 type: comparison
 ---
 

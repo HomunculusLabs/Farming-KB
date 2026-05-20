@@ -3,7 +3,7 @@ title: "How to Use Cover Crops for Heavy Clay Soil Improvement"
 tags: [query, cover-crops, soil-improvement, clay-soil, permaculture]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## How to Use Cover Crops for Heavy Clay Soil Improvement

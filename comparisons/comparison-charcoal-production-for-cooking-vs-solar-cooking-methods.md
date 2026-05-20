@@ -3,7 +3,7 @@ title: "Charcoal Production vs Solar Cooking"
 tags: [comparison, energy, cooking, off-grid, sustainability]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['https://www.sare.org/publications/goat-production']
 ---
 
 ## Charcoal Production vs Solar Cooking

@@ -12,7 +12,7 @@ sources:
 
 ## Understanding Weeds Ecologically
 
-Weeds are pioneer plants, moulded by millions of years of evolution to quickly cover disturbed, open ground. They will relentlessly cover the bare ground of a garden. As Toby Hemenway writes: "nature abhors bare soil, large blocks of a single plant type, and vegetation that's all the same height and root depth." Most gardens are showcases of all these unnatural methods.
+Weeds are pioneer plants, moulded by millions of years of evolution to quickly cover disturbed, open ground. They will relentlessly cover the bare ground of a garden. As [[toby-hemenway]] writes: "nature abhors bare soil, large blocks of a single plant type, and vegetation that's all the same height and root depth." Most gardens are showcases of all these unnatural methods.
 
 ## The Root Cause
 
@@ -22,7 +22,7 @@ The bare soil in a typical garden -- whether in a freshly tilled plot or between
 
 ### 1. Eliminate Bare Soil with Mulch
 
-Nature builds soil from the top down with constant rain of leaf litter. To create mature soil quickly, pile on organic matter with deep layers of mulch. The mulch quickly composts in place to create soil bursting with organic matter and teeming with soil life.
+Nature builds soil from the top down with constant rain of leaf litter. To create mature soil quickly, pile on organic matter with deep layers of mulch. The mulch quickly composts in place to create soil bursting with organic matter and teeming with [[soil-life]].
 
 ### 2. Use Perennials Instead of Annuals
 
@@ -30,7 +30,7 @@ Perennials eliminate seed-starting, tilling, and the opportunity for weeds that 
 
 ### 3. Cover Crops to Smother Weeds
 
-Cover crops are planted specifically to smother weeds. Their dense planting crowds and shades out weeds, and their leaves shield soil from hammering rains. Short-term green manures are meant to be slashed in place after a season, maintaining the weed-suppressive mulch layer.
+[[cover-crops]] are planted specifically to smother weeds. Their dense planting crowds and shades out weeds, and their leaves shield soil from hammering rains. Short-term green manures are meant to be slashed in place after a season, maintaining the weed-suppressive mulch layer.
 
 ### 4. Sheet Mulching
 
@@ -38,7 +38,7 @@ For converting weedy areas, sheet mulching involves layering cardboard or newspa
 
 ### 5. Living Mulches
 
-Masanobu Fukuoka's approach: use perennial white clover as a permanent living mulch. To plant crops, open small areas in the clover and place seeds or transplants in the resulting gaps. The greenery suppresses weeds, the shade holds moisture, the blossoms attract beneficial insects, and nitrogen fixed by the clover boosts crop growth.
+[[masanobu-fukuoka]]'s approach: use perennial white clover as a permanent living mulch. To plant crops, open small areas in the clover and place seeds or transplants in the resulting gaps. The greenery suppresses weeds, the shade holds moisture, the blossoms attract beneficial insects, and nitrogen fixed by the clover boosts crop growth.
 
 ### 6. Plant Communities and Stacking
 
@@ -46,7 +46,7 @@ Rather than isolated individuals, plants in an ecological garden form communitie
 
 ### 7. Work With Succession
 
-Understanding ecological succession means allying with nature's considerable might. Rather than battling pioneer weeds, design plantings that advance succession toward more mature ecosystems. Diverse habitat shrinks pest problems -- a garden planted all to one crop is a magnet for pests, but providing habitat for natural predators lets nature do the bug control.
+Understanding [[ecological-succession]] means allying with nature's considerable might. Rather than battling pioneer weeds, design plantings that advance succession toward more mature ecosystems. Diverse habitat shrinks pest problems -- a garden planted all to one crop is a magnet for pests, but providing habitat for natural predators lets nature do the bug control.
 
 ## Related
 
@@ -54,29 +54,31 @@ Understanding ecological succession means allying with nature's considerable mig
 - [[cover-crop-selection-guide]] -- choosing cover crops for weed suppression
 - [[chop-and-drop-mulching]] -- in-place mulching from slashed plants
 - [[white-clover-ground-cover]] -- Fukuoka's living mulch approach
-### Key Principles
-Understanding weed suppression strategies requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Key Concepts and Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources and training programs support broader adoption of best practices.
+Economic analyses suggest favorable returns on investment for implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.

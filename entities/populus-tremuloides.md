@@ -1,7 +1,7 @@
 ---
 title: "Populus Tremuloides"
 tags: [wiki]
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 It is the most widely distributed tree species on the continent, ranging from Alaska to Newfoundland and south to [[mollison-designers-food-forest-succession-design]] across boreal and montane landscapes.

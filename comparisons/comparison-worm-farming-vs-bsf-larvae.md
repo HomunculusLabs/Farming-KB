@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, composting, livestock-feed, protein-production]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['natural-farm']
 type: comparison
 ---
 

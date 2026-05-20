@@ -2,7 +2,7 @@
 title: "L Theanine"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 L-theanine has become one of the most widely used nootropic compounds worldwide, marketed

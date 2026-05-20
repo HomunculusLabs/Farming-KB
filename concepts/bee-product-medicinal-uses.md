@@ -1,3 +1,11 @@
+---
+title: Bee Product Medicinal Uses
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, medicine, health, animal-husbandry, nutrition]
+sources: []
+---
 
 # Bee Product Medicinal Uses
 
@@ -175,5 +183,3 @@ understanding how chemical treatments may affect product purity.
 
 For harvesting and processing these products, see
 [[honey-extraction-and-processing]].
-## See Also
-- [[echinacea-cultivation-and-medicinal-uses]]

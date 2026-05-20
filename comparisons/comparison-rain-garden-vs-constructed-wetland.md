@@ -4,7 +4,7 @@ tags: [comparison, water-management, phytoremediation,
      ecological-engineering]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md']
 ---
 
 ## Rain Garden vs Constructed Wetland

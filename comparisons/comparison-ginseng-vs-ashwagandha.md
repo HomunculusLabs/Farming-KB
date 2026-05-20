@@ -3,7 +3,7 @@ title: "Ginseng vs Ashwagandha"
 tags: [comparison, ginseng, ashwagandha, adaptogens, medicinal-herbs]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Ginseng vs Ashwagandha

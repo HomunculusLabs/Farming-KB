@@ -3,7 +3,7 @@ title: "Rhodiola vs Ashwagandha"
 tags: [comparison, adaptogen, rhodiola, ashwagandha, stress-management]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Rhodiola vs Ashwagandha

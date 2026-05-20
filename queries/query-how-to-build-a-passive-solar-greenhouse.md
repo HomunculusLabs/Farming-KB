@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, greenhouse, permaculture, passive-solar, season-extension]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['greg-green-the-cannabis-grow-bible.md']
 type: query
 ---
 

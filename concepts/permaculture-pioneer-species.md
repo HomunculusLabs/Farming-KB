@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 ## Permaculture Pioneer Species Pioneer species are plants whose main role is to act as nurse plants to other species, while also producing useful products and properties of their own. They are the first plants established in permaculture systems to prepare sites, improve soil, provide shelter, and accelerate succession. Pioneer species are fundamental to [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]]; [[legume-nitrogen-dynamics]] and [[permaculture-dynamic-accumulator-plants]] cycles and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]; tagasaste at 1m distance shown to improve growth of nursed species
 

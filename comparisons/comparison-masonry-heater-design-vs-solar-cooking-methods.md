@@ -3,7 +3,7 @@ title: "Masonry Heater Design vs Solar Cooking Methods"
 tags: [comparison, energy, homesteading, off-grid, heating, cooking]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Masonry Heater Design vs Solar Cooking Methods

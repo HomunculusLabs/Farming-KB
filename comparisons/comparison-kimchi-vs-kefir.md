@@ -3,7 +3,7 @@ title: "Kimchi vs Kefir"
 tags: [comparison, fermentation, kimchi, kefir, probiotics, food-preservation]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Kimchi vs Kefir

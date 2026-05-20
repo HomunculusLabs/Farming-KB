@@ -2,7 +2,7 @@
 title: "Agrostis Stolonifera"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 Optimal growth occurs in cool, moist environments with mean temperatures of 15–22 °C during [[psilocybin-north-america-pacific-northwest]], and maritime regions of Canada. It is considered invasive in some wetland habitats where it displaces native wetland grass species.

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, cannabis, genetics, seeds, breeding]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['masanobu-fukuoka-sowing-seeds-in-the-desert']
 type: query
 ---
 

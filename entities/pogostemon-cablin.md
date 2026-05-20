@@ -2,7 +2,7 @@
 title: "Pogostemon Cablin"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 Patchouli oil possesses a distinctive, earthy, and camphoraceous aroma that serves as a base note in countless perfumes, cosmetics, and personal care products. The oil is also valued in traditional medicine systems across Asia for its antimicrobial, anti-inflammatory, and insect-repellent properties.

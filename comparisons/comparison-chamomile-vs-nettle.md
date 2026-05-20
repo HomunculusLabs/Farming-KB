@@ -3,7 +3,7 @@ title: "Chamomile vs Nettle"
 tags: [comparison, medicinal-herbs, tea-herbs, cultivation, dynamic-accumulator]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Chamomile vs Nettle

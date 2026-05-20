@@ -1,7 +1,7 @@
 ---
 created: 2026-04-12
 source: biodiversity-of-fungi (Hyde et al. Ch. 23, Shearer/Langsam/Longcore)
-sources: [biodiversity-of-fungi.md]
+sources: ['raw/papers/unknown-biodiversity-of-fungi.md']
 tags:
 - fungal-biodiversity
 - aquatic-fungi

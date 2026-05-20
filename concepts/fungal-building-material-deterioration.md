@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-05-09
 type: concept
 tags: [mycology, fungi, biodeterioration, building-materials, decay]
-sources: []
+sources: ['~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
 ---
 ## Fungal Deterioration of Building Materials
 

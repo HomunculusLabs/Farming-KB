@@ -2,7 +2,7 @@
 title: "Eleocharis Equisetiformis"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Overview

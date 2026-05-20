@@ -3,7 +3,7 @@ title: "How Do I Use query how do i use fermented plant extracts in my garden in
 tags: [query, fermented-plant-extract, knf, organic-fertilizer, foliar-feeding]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Use Fermented Plant Extracts in My Garden?

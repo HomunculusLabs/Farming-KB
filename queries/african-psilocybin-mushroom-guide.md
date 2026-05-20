@@ -133,4 +133,4 @@ Major gaps in African psychoactive mycology:
 
 ## Related
 
-- [[psychedelic-integration]]
+- [[psychedelic-integration-guide]]

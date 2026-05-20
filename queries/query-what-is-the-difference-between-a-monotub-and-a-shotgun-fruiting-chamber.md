@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, mushrooms, fruiting-chamber, monotub, shotgun-FC, cultivation, growing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/williams-pdc-earthworks-pdc_-a-permaculture-design-cours.md']
 type: query
 ---
 The monotub and the shotgun fruiting chamber (SGFC) are two of the most popular designs for indoor [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] because once the substrate is fully colonized and fruiting conditions are introduced, the tub requires minimal daily maintenance beyond occasional misting.

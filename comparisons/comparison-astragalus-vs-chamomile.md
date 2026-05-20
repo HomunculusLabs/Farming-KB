@@ -3,7 +3,7 @@ title: "Astragalus vs Chamomile"
 tags: [comparison, astragalus, chamomile, medicinal-herbs, adaptogen, calmative]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Astragalus vs Chamomile

@@ -1,3 +1,11 @@
+---
+title: Salt Tolerant Plant Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [permaculture, plants, plant-catalog, species, remediation, difficult-sites]
+sources: [raw/papers/a-selection-permaculture-plants.md]
+---
 
 # Salt Tolerant Plant Guide
 
@@ -68,14 +76,4 @@ Companions to saltbushes, native to Australia.
 
 - [[difficult-site-planting]]
 - [[water-plant-guide]]
-- [[permaculture-plant-selection]]
-
-## Coastal and Saline Soil Strategies
-
-Salt-tolerant plants (halophytes) are essential for coastal gardens,
-de-iced roadside plantings, and reclaimed agricultural land. Key
-species include sea buckthorn, saltbush, and glasswort which tolerate
-soil salinity levels above 4 dS/m. Bioswale integration with
-salt-tolerant plantings manages runoff while filtering contaminants.
-Gradual soil amendment with organic matter and gypsum improves
-growing conditions for moderately salt-tolerant crops.
+- permaculture plant selection guide

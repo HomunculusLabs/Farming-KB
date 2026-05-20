@@ -3,7 +3,7 @@ title: "Paddy Straw Mushroom vs Wine Cap Mushroom"
 tags: [comparison, mushroom-cultivation, tropical, temperate, outdoor-mushrooms]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/one-straw-revolution-masanobu-fukuoka.md']
 ---
 
 ## Paddy Straw Mushroom vs Wine Cap Mushroom

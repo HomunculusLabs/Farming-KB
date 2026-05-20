@@ -1,3 +1,17 @@
+---
+created: 2026-04-12
+source: biodiversity-of-fungi (Hyde et al. Chs. 1-2, Hawksworth/Mueller/Schmit/Bridge)
+sources: []
+tags:
+- taxonomy
+- species-estimates
+- fungal-diversity
+- molecular-systematics
+- classification
+title: Fungal Species Estimates and Taxonomy
+type: concept
+updated: 2026-04-12
+---
 
 # Fungal Species Estimates and Taxonomy
 

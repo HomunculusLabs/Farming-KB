@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [adaptogens, ayurveda, herbs, comparison, medicinal-plants]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['understanding-cultivar-specificity-cannabis-microbiome']
 type: comparison
 ---
 

@@ -4,7 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [psychedelics]
-sources: []
+sources: ['raw/papers/leary-t-the-psychedelic-experience.md']
 ---
 ## Psychedelic Plant Sources
 

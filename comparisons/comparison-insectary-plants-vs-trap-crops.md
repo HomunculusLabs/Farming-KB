@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, pest-management, biological-control, organic-growing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles']
 type: comparison
 ---
 ## Insectary Plants vs Trap Crops

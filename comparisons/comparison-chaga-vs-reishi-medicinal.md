@@ -9,7 +9,7 @@ tags:
   - comparison
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/cancer-medicinal-mushrooms-immune-modulation-beta-glucans|cancer-treatments-medicinal-mushrooms.md']
 type: comparison
 ---
 

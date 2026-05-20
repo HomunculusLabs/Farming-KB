@@ -1,7 +1,7 @@
 ---
 title: "Melilotus Albus"
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 It is a biennial herb growing 1 to 3 meters tall with an erect, branching stem arising from a prominent taproot in its first year.

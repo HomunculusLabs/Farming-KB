@@ -104,7 +104,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[mollison-permaculture-two-introduction-design-principles]]
+- mollison-permaculture-two-introduction-design-principles]]
 - [[hypnodinium-mollison]]
 - [[mollison-arid-lands-aquatic-species]]
 - [[mollison-orographic-and-forest-rainfall-effects]]

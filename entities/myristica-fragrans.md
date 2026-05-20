@@ -5,7 +5,7 @@ type: species
 tags: [plant, spice, psychoactive, myristicaceae, deliriant]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Myristica fragrans

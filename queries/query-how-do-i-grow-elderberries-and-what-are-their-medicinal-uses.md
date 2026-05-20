@@ -3,7 +3,7 @@ title: "How Do I Grow Elderberries and What Are Their Medicinal Uses?"
 tags: [query, elderberry, medicinal-herbs, berry-growing, permaculture]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow Elderberries and What Are Their Medicinal Uses?

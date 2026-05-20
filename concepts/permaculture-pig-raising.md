@@ -4,7 +4,8 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 ## Permaculture Pig Raising Pigs are very efficient foragers in a permaculture-zone-planning orchard when trees are at least a few years old - They eat 25 pounds (11.3 kg) of food per day, including all food waste - Excellent for land clearing: after pigs clear a pasture, replant and rotate with [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] if needed
 

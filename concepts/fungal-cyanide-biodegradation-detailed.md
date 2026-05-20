@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: ['geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md']
 ---
 ## Cyanide Biodegradation by Fungi
 Cyanide is one of the most rapidly acting metabolic poisons known, yet certain

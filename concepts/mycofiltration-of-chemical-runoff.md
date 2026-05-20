@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources: ['raw/papers/the-psilocybin-solution-by-simon-g-powell-mutability-of-consciousness-chemical-lens|powell.md']
 ---
 Mycofiltration of chemical runoff uses fungal [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], hindering later recovery of the preroad habitat. Adding wood chips to old roads has been explored in British Columbia.
 

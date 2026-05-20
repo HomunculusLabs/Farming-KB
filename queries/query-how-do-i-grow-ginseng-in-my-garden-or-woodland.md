@@ -3,7 +3,7 @@ title: "How Do I Grow Ginseng in My Garden or Woodland?"
 tags: [query, ginseng, medicinal-herbs, permaculture, shade-gardening]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How Do I Grow Ginseng in My Garden or Woodland?

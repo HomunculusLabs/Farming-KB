@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, no-till, soil-health, garden-setup, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md']
 type: query
 ---
 

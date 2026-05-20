@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, permaculture, ecology, plants, companion-planting, wildlife]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: []
 ---
 
 # Native Plant Gardening
@@ -88,34 +88,3 @@ Nativars are cultivated varieties of native plants bred for specific traits (col
 - [[rain-garden-design]]
 - [[hedgerow-planting]]
 - [[xeriscaping-guide]]
-
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.

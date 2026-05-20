@@ -3,7 +3,7 @@ title: "Yarrow vs Lemon Balm"
 tags: [comparison, yarrow, lemon-balm, medicinal-herbs, herbal-medicine]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## Yarrow vs Lemon Balm

@@ -25,7 +25,8 @@ related:
   - reactive-oxygen-species
   - protein-folding-and-misfolding-diseases-biochemistry
 type: concept
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 
 ## Overview

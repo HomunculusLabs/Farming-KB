@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-18
 type: entity
 tags: [research, psychedelics]
-sources: []
+sources: ['papers/field-guide-to-the-psilocybin-mushroom.md']
 ---
 
 ## Johns Hopkins Psychedelic Research

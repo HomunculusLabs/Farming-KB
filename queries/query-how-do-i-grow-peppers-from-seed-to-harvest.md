@@ -3,7 +3,7 @@ title: "How Do I Grow Peppers from Seed to Harvest?"
 tags: [query, peppers, capsicum, vegetable-growing, warm-season-crops]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow Peppers from Seed to Harvest?

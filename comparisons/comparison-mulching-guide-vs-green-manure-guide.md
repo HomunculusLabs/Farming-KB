@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, soil-building, organic-matter, weed-suppression, no-till]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/a-golden-guide-to-hallucinogenic-plants.md']
 type: comparison
 ---
 

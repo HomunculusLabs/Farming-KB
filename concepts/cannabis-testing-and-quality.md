@@ -4,7 +4,7 @@ created: 2026-2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, lab-technique, potency, safety, chemistry, psychopharmacology, health]
-sources: [raw/papers/growing-the-woodlovers-outdoors.md]
+sources: []
 ---
 
 # Cannabis Testing and Quality

@@ -2,7 +2,7 @@
 title: "Yucca Schidigera"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species is commercially significant for its high saponin content, extracted and sold as a natural surfactant and feed additive.

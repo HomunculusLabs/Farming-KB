@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, permaculture, food-production, fruit-trees, design]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/williams-pdc-earthworks-pdc_-a-permaculture-design-cours.md']
 type: comparison
 ---
 

@@ -3,7 +3,7 @@ title: Comparison Lions Mane Vs Oyster Cultivation
 tags: [comparison, lions-mane, oyster-mushroom, medicinal-mushrooms, mushroom-cultivation, hericium, pleurotus]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 ---
 
 ## Lion's Mane vs Oyster Mushroom

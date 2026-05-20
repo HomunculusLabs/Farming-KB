@@ -3,7 +3,7 @@ title: "What Is Canker and How Do You Treat It?"
 tags: [query, plant-pathology, canker, tree-disease, fungal-disease]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
 ---
 
 ## What Is Canker and How Do You Treat It?

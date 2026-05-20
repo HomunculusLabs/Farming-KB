@@ -2,7 +2,7 @@
 title: "Nyssa Ogeche"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The tree typically grows 9 to 15 meters tall with a narrow, conical crown. The trunk is straight and can reach 50 to 60 centimeters in diameter at maturity.

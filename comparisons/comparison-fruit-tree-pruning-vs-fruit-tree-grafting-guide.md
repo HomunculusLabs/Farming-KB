@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, fruit-trees, orchard, tree-care, propagation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/a-golden-guide-to-hallucinogenic-plants.md']
 type: comparison
 ---
 

@@ -1,3 +1,11 @@
+---
+title: Fruit Tree Propagation
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fruit-tree, orchard, homesteading, cultivation, plant-growth, trees, pruning, agriculture]
+sources: []
+---
 
 # Fruit Tree Propagation
 
@@ -135,6 +143,6 @@ Choose rootstock based on your goals:
 
 ## Related Concepts
 
-- [[greenhouse-growing]] -- root cuttings and grow grafted trees in a greenhouse for faster establishment
+- greenhouse growing guide -- root cuttings and grow grafted trees in a greenhouse for faster establishment
 - [[saving-seeds]] -- seed-grown rootstocks for grafting (for species where this is viable)
 - [[homesteading-income-streams]] -- selling grafted fruit trees is a profitable nursery business

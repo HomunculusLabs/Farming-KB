@@ -3,7 +3,7 @@ title: "Rhodiola vs Tulsi"
 tags: [comparison, adaptogen, rhodiola, tulsi, medicinal-herbs]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Rhodiola vs Tulsi

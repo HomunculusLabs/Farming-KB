@@ -16,7 +16,7 @@ The active complex, silymarin, is extracted from the seeds and consists
 of several flavonolignans, primarily silybin (silibinin), which is the
 most biologically active constituent. Milk thistle is among the
 best-studied herbal medicines, with extensive clinical evidence supporting
-its use in liver disorders, and it also has applications in [[nutrient-dynamic-accumulator-reference]]:** Deep taproot mines calcium, potassium, and
+its use in liver disorders, and it also has applications in nutrient-dynamic-accumulator-reference]]:** Deep taproot mines calcium, potassium, and
   [[dynamic-accumulator-plants-trace-minerals]] from subsoil; leaves return these to surface soil when
   they decompose
 - **Pollinator Support:** Rich nectar source for bees and butterflies;

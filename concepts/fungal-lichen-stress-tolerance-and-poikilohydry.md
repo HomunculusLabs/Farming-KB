@@ -5,7 +5,8 @@ created: 2026-04-19
 updated: 2026-04-20
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 ## Fungal Lichen Stress Tolerance and Poikilohydry ## Overview Lichens dominate
 approximately 10% of terrestrial ecosystems, including regions where higher

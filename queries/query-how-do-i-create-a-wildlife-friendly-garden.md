@@ -3,7 +3,7 @@ title: "How Do I Create a Wildlife-Friendly Garden?"
 tags: [query, wildlife-habitat, pollinators, beneficial-insects, garden-design]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['~/wiki/raw/papers/tompkins-secret-life-of-plants.md']
 ---
 
 ## How Do I Create a Wildlife-Friendly Garden?

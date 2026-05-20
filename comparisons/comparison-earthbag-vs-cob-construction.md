@@ -3,7 +3,7 @@ title: "Comparison Earthbag vs Cob Construction"
 tags: [comparison, earthbag, cob, natural-building]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 created: 2026-04-28
 type: comparison
 ---

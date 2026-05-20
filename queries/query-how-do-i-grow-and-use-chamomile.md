@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Chamomile?"
 tags: [query, chamomile, medicinal-herbs, growing-guide, herbal-medicine]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow and Use Chamomile?

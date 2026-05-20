@@ -1,5 +1,4 @@
 ---
-title: Permaculture Access And Circulation Design
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -144,5 +143,5 @@ Mollison emphasizes the connection between roads and water:
 - [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-slope-analysis-and-reading]]
 - [[keyline-design]]
-- [[permaculture-earthworks]]
+- [[permaculture-earthworks-guide]]
 - [[permaculture-mapping-and-reading-the-landscape]]

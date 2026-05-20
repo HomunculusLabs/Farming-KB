@@ -5,7 +5,7 @@ aliases: [predator-prey dynamics, wildlife management, mixed-species grazing]
 tags: [wildlife, livestock, integration, biodiversity, predator-prey]
 related: savory-livestock-grazing-planning, savory-land-monitoring
 type: concept
-sources: []
+sources: ['~/wiki/raw/papers/tompkins-secret-life-of-plants.md']
 updated: 2026-04-26
 ---
 

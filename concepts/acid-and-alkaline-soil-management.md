@@ -75,30 +75,6 @@ The only option is growing them in pots or building a raised bed (ideally of rai
 
 - [[trace-elements-in-soil]] — how excessive lime locks up trace elements
 - [[clubroot-disease-management]] — lime helps control clubroot
-- [[soil-conditioners-guide]] — organic materials that help modify soil pH
-### Key Principles
-Understanding acid and alkaline soil management requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
+- [[soil-conditioners-guide]] — organic materials that help modify [[soil-ph]]
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
-
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[soil-food-web]]
-- [[mycorrhiza]]
-- [[aact-aeration-oxygen-management-ingham]]
+These developments continue to influence modern research and practice in this field.

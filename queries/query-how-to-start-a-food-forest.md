@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, permaculture, food-forest, agroforestry, edible-landscaping]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
 type: query
 ---
 

@@ -2,7 +2,8 @@
 title: "Boletus Species Alarming Color Changes"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 ---
 
 ## The Chemistry of Flesh Colour Change

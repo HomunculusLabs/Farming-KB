@@ -1,3 +1,11 @@
+---
+title: MDMA Reference
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [entheogen, psychopharmacology, pharmacology, chemistry, therapy, safety, consciousness, psychiatry, neuroscience, counterculture]
+sources: []
+---
 
 # MDMA Reference
 
@@ -170,7 +178,6 @@ This is the most advanced clinical application:
 - Clinical research permitted under specific regulatory frameworks
 
 ## See Also
-- [[mckenna-mdma-and-drug-terror-of-the-1980s]]
 
 - [[lsd-reference]] for comparison with a classical psychedelic
 - [[ketamine-reference]] for another drug with breakthrough psychiatric applications

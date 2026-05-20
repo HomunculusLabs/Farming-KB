@@ -88,7 +88,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[comparison-rotational-grazing-vs-set-stocking]]
+- comparison-rotational-grazing-vs-set-stocking]]
 - [[fukuoka-australia-fruit-fly-incident]]
 - [[fukuoka-early-farming-experiments]]
 - [[fukuoka-ignorant-medicine-hospital-collapse]]

@@ -33,7 +33,7 @@ singled out in Kochi because they feed only on rice. Nature does
 not go on unbalanced rampages. It has mechanisms for self-control
 in places unknown to man. What sense does it make if, having
 exterminated yellow rice borers, damage by rice stem borers and
-cutworms increases? [[bloomfield-rice-blast-appressorium-mechanics]] disease or
+cutworms increases? bloomfield-rice-blast-appressorium-mechanics]] disease or
 sclerotium rot, can open up a new cycle of problems.
 
 ## Pests as Divine Warnings

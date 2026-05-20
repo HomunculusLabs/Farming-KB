@@ -3,7 +3,7 @@ title: "How Can Plants Clean Up Contaminated Soil and Water?"
 tags: [query, phytoremediation, bioremediation, heavy-metals, soil-remediation]
 date: 2026-05-18
 updated: 2026-05-18
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Can Plants Clean Up Contaminated Soil and Water?

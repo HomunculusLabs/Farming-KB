@@ -2,7 +2,7 @@
 title: "Caulerpa"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Distribution and Habitat

@@ -3,7 +3,7 @@ title: "How Do I Grow Gooseberries in My Garden?"
 tags: [query, gooseberry, berries, ribes, fruit-growing, permaculture]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How Do I Grow Gooseberries in My Garden?

@@ -74,29 +74,9 @@ The dosage data in PIHKAL allows for direct comparison of compound potencies:
 | DOI | 0.5 mg | 1.5-3 mg | ~200x |
 
 See also: [[pihkal-introduction-and-methodology]], [[phenethylamine-synthesis-safety]], [[psychedelic-mushroom-set-and-setting]], [[phenethylamine-duration-and-timing]]
-### Key Principles
-Understanding shulgin dosage guidelines requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Current Research Directions
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+Ongoing studies continue to explore new aspects of this topic.
+Recent advances have provided deeper insights into the mechanisms involved.
+These developments have practical implications for both researchers and practitioners.

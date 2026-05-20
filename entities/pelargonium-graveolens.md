@@ -2,7 +2,7 @@
 title: "Pelargonium Graveolens"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species is distinguished by its deeply lobed, velvety leaves and

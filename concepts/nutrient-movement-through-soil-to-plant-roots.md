@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources: ['papers/nutrient-and-dynamic-accumulators.md']
 ---
 
 ## Nutrient Movement Through Soil to Plant Roots

@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-05-09
 type: concept
 tags: [mycology, fungi, biodiversity, survey-methods]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 ## Microfungi Litter and Wood Debris Diversity Survey Methods
 

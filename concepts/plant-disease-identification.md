@@ -1,3 +1,11 @@
+---
+title: Plant Disease Identification
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [plants, troubleshooting, pathogens, fungi, bacteria, gardening, pest-control, reference]
+sources: []
+---
 
 # Plant Disease Identification
 

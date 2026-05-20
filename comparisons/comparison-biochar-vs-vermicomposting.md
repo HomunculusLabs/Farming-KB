@@ -3,7 +3,7 @@ title: "Biochar vs Vermicomposting"
 tags: [comparison, soil-amendment, biochar, vermicomposting, organic]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Biochar vs Vermicomposting

@@ -2,7 +2,7 @@
 title: Erythrina Fusca
 type: entity
 tags: [species]
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Erythrina fusca

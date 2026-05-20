@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [forest-ecology, ecology, biodiversity, nutrient-cycling, succession, conservation]
-sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
+sources: []
 ---
 
 # Forest Ecology Basics

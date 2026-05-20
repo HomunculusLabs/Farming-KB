@@ -3,7 +3,7 @@ title: "How Do I Grow Berries in My Backyard?"
 tags: [query, berries, fruit-growing, backyard-gardening, permaculture]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## How Do I Grow Berries in My Backyard?

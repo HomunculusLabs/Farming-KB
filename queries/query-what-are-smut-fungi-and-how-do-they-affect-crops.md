@@ -3,7 +3,7 @@ title: "What Are Smut Fungi and How Do They Affect Crops?"
 tags: [query, plant-pathology, smut-fungi, crop-disease, organic-management]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 # What Are Smut Fungi and How Do They Affect Crops?

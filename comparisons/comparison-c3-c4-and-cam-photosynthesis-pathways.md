@@ -14,7 +14,7 @@ tags:
   - plant-science
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md']
 type: comparison
 ---
 

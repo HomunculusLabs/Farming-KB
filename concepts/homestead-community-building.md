@@ -1,3 +1,11 @@
+---
+title: Homestead Community Building
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, community, sustainability, economics, permaculture]
+sources: []
+---
 
 # Homestead Community Building
 
@@ -141,5 +149,3 @@ If you are new to an area:
 - Be reliable — your reputation is built on follow-through
 
 A resilient homestead is not self-sufficient — it is community-sufficient. The strongest homesteaders are those embedded in networks of mutual aid, shared knowledge, and reciprocal exchange.
-## See Also
-- [[urban-permaculture-community-building-social-design]]

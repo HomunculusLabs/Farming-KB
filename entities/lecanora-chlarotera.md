@@ -2,7 +2,7 @@
 title: "Lecanora Chlarotera"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 Scattered populations have been reported from the Pacific Northwest of North America, but the species is far less common west of the continental divide.

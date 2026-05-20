@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, extraction, hash, bubble-hash, concentrates]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['water-for-every-farmer']
 type: comparison
 ---
 ## Cannabis Ice Water Extraction vs Hashish Guide

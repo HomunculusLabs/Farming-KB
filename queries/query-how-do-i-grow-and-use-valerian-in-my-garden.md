@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Valerian in My Garden?"
 tags: [query, valerian, medicinal-herbs, perennial-herbs, nervine]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow and Use Valerian in My Garden?

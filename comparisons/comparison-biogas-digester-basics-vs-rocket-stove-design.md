@@ -3,7 +3,7 @@ title: "Biogas Digester vs Rocket Stove"
 tags: [comparison, homesteading, off-grid, energy, cooking]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Biogas Digester vs Rocket Stove

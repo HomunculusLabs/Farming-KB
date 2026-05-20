@@ -2,7 +2,7 @@
 title: "Cyrtomium Falcatum"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The genus Cyrtomium contains approximately 15–20 species distributed across eastern and southeastern Asia. C. falcatum is by far the most widely cultivated member of the genus.

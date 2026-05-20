@@ -1,3 +1,12 @@
+---
+title: JADAM Herbal Pest Control
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [jadam, fpe, fermentation, fertilizer]
+sources:
+  - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
+---
 
 # JADAM Herbal Pest Control (JHS)
 
@@ -76,37 +85,3 @@ Analysis of Korean pasque flower root JHS shows: pH 6.9, contains organic matter
 - [[jadam-sulfur-application]]
 - [[jadam-fermented-plant-juice]]
 - [[knf-oriental-herbal-nutrient]]
-
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.

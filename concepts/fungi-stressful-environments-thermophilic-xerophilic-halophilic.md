@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: ['raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md']
 ---
 ## Fungi in Stressful Environments
 Thermophilic, Psychrotropic, Xerophilic, and Halophilic

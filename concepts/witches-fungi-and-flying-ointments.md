@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 Updated: 2026-04-18 ## Overview The historical connection between witches, fungi, and psychoactive substances represents one of the most fascinating intersections of mycology, anthropology, and European history. The "flying ointments" or "witches' salves" used by accused witches during the European witch craze (c. 1450-1750) likely contained psychoactive compounds from fungi and toxic plants, producing sensations of flight, transformation, and encounters with supernatural beings. Source: [[ergot-and-lysergic-acid-history]] amides, precursors to LSD
 - Amanita species — containing ibotenic acid and muscimol

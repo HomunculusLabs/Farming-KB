@@ -3,7 +3,7 @@ title: "Cob Oven vs Rocket Stove"
 tags: [comparison, cooking, natural-building, off-grid]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['understanding-cultivar-specificity-cannabis-microbiome']
 ---
 
 ## Cob Oven vs Rocket Stove

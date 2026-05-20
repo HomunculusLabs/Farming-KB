@@ -7,7 +7,7 @@ sunlight is filtered through or reflected from neighbouring plant canopies.
 ---
 
 Shade avoidance represents one of the most dramatic examples of adaptive
-phenotypic plasticity in the [[phytochrome-photoreceptor-plant-vision]]
+phenotypic plasticity in the phytochrome-photoreceptor-plant-vision]]
 system operating as a molecular switch. In its active Pfr form, phytochrome
 signals open growing conditions with abundant red light. Under canopy shade,
 the enriched far-red light drives phytochrome toward the inactive Pr form,

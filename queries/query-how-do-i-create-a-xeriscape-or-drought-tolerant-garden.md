@@ -3,7 +3,7 @@ title: "How Do I Create a Xeriscape or Drought-Tolerant Garden?"
 tags: [query, xeriscaping, drought-tolerant, water-wise, dryland-gardening]
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['water-for-every-farmer']
 ---
 
 ## How Do I Create a Xeriscape or Drought-Tolerant Garden?

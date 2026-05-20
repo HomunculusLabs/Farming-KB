@@ -1,3 +1,11 @@
+---
+title: Hand Watering the Garden
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [gardening, water, water-management, techniques, vegetables, beginner]
+sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
+---
 
 # Hand Watering the Garden
 
@@ -71,12 +79,3 @@ All soils lose water at about the same rate through evapotranspiration, regardle
 - [[irrigation-systems]] — Sprinkler systems and fertigation
 - [[drought-gardening]] — Gardening with minimal irrigation
 - [[intensive-planting-spacing]] — How spacing affects water needs
-
-## Efficiency Techniques
-
-Hand watering enables precise water delivery directly to root zones,
-reducing waste compared to overhead sprinkler systems. Key techniques
-include deep watering to encourage deep root growth, morning watering
-to reduce evaporation losses, and using watering cans or hose wands
-with gentle flow settings to prevent soil erosion and seed disruption.
-Monitoring soil moisture by feel ensures consistent hydration levels.

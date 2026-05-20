@@ -1,6 +1,6 @@
 ---
 created: 2026-04-12
-sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+sources: []
 tags:
 - cover-crop
 - agriculture

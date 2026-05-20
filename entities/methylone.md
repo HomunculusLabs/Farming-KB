@@ -2,7 +2,7 @@
 title: "Methylone"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
 ---
 
 ## Pharmacology

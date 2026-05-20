@@ -2,7 +2,7 @@
 title: "Glaucine"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 Unlike benzylisoquinoline opium alkaloids, glaucine belongs to the aporphine structural class, formed by oxidative coupling of benzylisoquinoline precursors.

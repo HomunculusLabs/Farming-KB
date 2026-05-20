@@ -2,7 +2,8 @@
 title: "Hemenway Maximilian Sunflower Multipurpose Hedge"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
 ## Design Integration

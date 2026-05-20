@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [no-till, living-soil, regenerative, soil, microbes, gardening, compost, permaculture]
-sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
+sources: []
 ---
 
 # No-Till Gardening Method

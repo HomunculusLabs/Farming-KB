@@ -165,5 +165,5 @@ A cheese press applies controlled pressure to drained curds, expelling whey and 
 - Replace rubber parts (inflatable liners, gaskets) annually or when they show signs of wear
 - Store stainless steel equipment dry to prevent pitting
 - Follow manufacturer maintenance schedules for milking machines (oil vacuum pump, check pulsator timing)
-## See Also
-- [[homestead-dairy-guide]]
+
+See also: [[homestead-dairy-guide]]

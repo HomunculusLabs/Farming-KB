@@ -3,7 +3,7 @@ title: "What Is Anthracnose and How Do I Manage It Organically?"
 tags: [query, plant-pathology, disease-management, organic-gardening, fungal-disease]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 # What Is Anthracnose and How Do I Manage It Organically?

@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: entity
 tags: [chemistry, tihkal, 2c-family]
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 ## 2C-G-N
 

@@ -1,5 +1,4 @@
 ---
-title: Permaculture Sheet Mulch Detailed Guide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -138,7 +137,7 @@ Sheet mulching is a layered composting system applied directly on top of the gro
 - **Instant bed method**: Use thicker finished compost layer for immediate planting
 - [[sheet-mulching-lasagna-gardening|Lasagna gardening]]: Similar technique with slightly different layering emphasis
 - [[chop-and-drop-mulching|Chop and drop]]: In-place mulching using existing vegetation
-- [[hugelkultur-bed-construction-detailed|Hugelkultur]]: Incorporates logs and woody debris beneath the sheet mulch layers
+- [[hugelkultur-bed-construction|Hugelkultur]]: Incorporates logs and woody debris beneath the sheet mulch layers
 
 ## Related Concepts
 

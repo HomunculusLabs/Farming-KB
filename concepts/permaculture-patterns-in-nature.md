@@ -1,3 +1,17 @@
+---
+title: Permaculture Patterns in Nature
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags:
+  - patterns
+  - design
+  - nature
+  - geometry
+  - permaculture
+sources:
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
+---
 
 # Permaculture Patterns in Nature
 
@@ -64,17 +78,3 @@ The Manual provides a pattern application checklist for designers, covering boun
 - [[permaculture-design]] -- Pattern understanding as input to design process
 - [[permaculture-zone-and-sector-analysis]] -- Pattern of zones and sectors as master layout
 - [[permaculture-introduction-and-ethics]] -- Ethical foundation for design decisions
-
-## Pattern Applications in Design
-
-Natural patterns provide templates for efficient permaculture design.
-Branching patterns optimize resource distribution in irrigation systems.
-Spiral patterns maximize edge effect in herb spirals and garden beds.
-Net patterns create efficient pathways and water distribution networks.
-Wave patterns inform swale design and contour-based earthworks.
-Fractal scaling allows design principles to apply at any site size,
-from balcony gardens to broadacre farms. Understanding pattern
-language enables designers to work with natural energy flows rather
-than against them, creating more resilient and productive systems.
-Understanding these patterns helps designers create integrated
-systems where each element serves multiple interconnected functions.

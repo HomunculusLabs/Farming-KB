@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, cultivation, water-management, design, vegetables]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: []
 ---
 
 # Container Gardening Guide

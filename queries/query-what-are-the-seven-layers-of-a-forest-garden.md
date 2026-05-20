@@ -3,7 +3,7 @@ title: "What Are the Seven Layers of a Forest Garden?"
 tags: [query, permaculture, forest-garden, food-forest, layer-design]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## What Are the Seven Layers of a Forest Garden?

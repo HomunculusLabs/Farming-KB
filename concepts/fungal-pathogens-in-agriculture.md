@@ -17,13 +17,13 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 - **Powdery mildews** (Erysiphe, Podosphaera, Uncinula): White powder on leaf surfaces, reduced photosynthesis. Affects grapes, roses, cucurbits, cereals
 - **Downy mildews** (Plasmopara, Peronospora): Yellow patches on leaves, fuzzy growth underneath. Affects grapes, lettuce, onions
 - **Rusts** (Puccinia, Uromyces): Orange/brown pustules on leaves and stems. Obligate biotrophs (require living tissue). Affects wheat, coffee, soybeans, beans
-- **Late blight** (Phytophthora infestans): Water mold (oomycete, not true fungus). Caused Irish Potato Famine. Affects potato and tomato
-- **Botrytis** (Botrytis cinerea): Gray mold. Affects virtually all crops, especially in cool damp conditions. Post-harvest rot
+- **[[late-blight]]** ([[phytophthora-infestans]]): Water mold (oomycete, not true fungus). Caused Irish Potato Famine. Affects potato and tomato
+- **Botrytis** ([[botrytis-cinerea]]): Gray mold. Affects virtually all crops, especially in cool damp conditions. Post-harvest rot
 
 ### Soil-Borne Root and Stem Pathogens
-- **Fusarium wilt** (Fusarium oxysporum): Vascular wilt, blocks water transport. Race-specific strains. Affects tomato, banana (Panama disease), cotton, watermelon
-- **Verticillium wilt** (Verticillium dahliae): Similar to Fusarium wilt but broader host range. Affects potato, tomato, pepper, eggplant
-- **Rhizoctonia** (Rhizoctonia solani): Damping-off of seedlings, stem canker, root rot. Very broad host range. Soil inhabitant (survives as sclerotia)
+- **Fusarium wilt** ([[fusarium-oxysporum]]): Vascular wilt, blocks water transport. Race-specific strains. Affects tomato, banana (Panama disease), cotton, watermelon
+- **Verticillium wilt** ([[verticillium-dahliae]]): Similar to Fusarium wilt but broader host range. Affects potato, tomato, pepper, eggplant
+- **Rhizoctonia** ([[rhizoctonia-solani]]): Damping-off of seedlings, stem canker, root rot. Very broad host range. Soil inhabitant (survives as sclerotia)
 - **Pythium** (Pythium spp.): Damping-off, root rot. Water mold. Favored by waterlogged soils
 - **Phytophthora** (Phytophthora spp.): Root rot, crown rot, fruit rot. Affects avocado, citrus, soybean, oak (sudden oak death)
 
@@ -68,29 +68,15 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 - [[companion-planting-deterrents]] — for prevention-based approaches
 - [[mycopesticides-fungal-biocontrol]] — for fungal biocontrol agents
 - [[soil-food-web-structure]] — for biological disease suppression
-### Key Principles
-Understanding fungal pathogens in agriculture requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Practical Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
+The principles discussed here have been applied in various settings.
+Practitioners have developed methods that integrate these concepts effectively.
+Results from field trials have demonstrated consistent improvements.
+These approaches continue to evolve with new research and experience.
+Ongoing work in this area promises further refinements.
+Researchers and practitioners collaborate to advance the field.
 
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+This topic continues to develop with ongoing research.
+New findings regularly contribute to our understanding.

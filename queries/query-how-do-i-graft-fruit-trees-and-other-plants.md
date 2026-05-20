@@ -3,7 +3,7 @@ title: "How Do I Graft Fruit Trees and Other Plants?"
 tags: [query, grafting, fruit-trees, propagation, orchard]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How Do I Graft Fruit Trees and Other Plants?

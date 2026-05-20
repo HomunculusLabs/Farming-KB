@@ -10,7 +10,7 @@ sources:
 
 # Fungal Pest Control
 
-Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to chemical pesticides. Part of the [[mycorestoration]] framework.
+Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to chemical pesticides. Part of the mycorestoration overview framework.
 
 ## Core Species
 
@@ -28,7 +28,7 @@ Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to chemic
 
 ## Stamets' Major Innovation: Termite Control
 
-[[paul-stamets]] discovered that **Metarhizium anisopliae** could be deployed to eliminate termite colonies by exploiting their social behavior:
+[[paul-stamets]] discovered that **[[metarhizium-anisopliae]]** could be deployed to eliminate termite colonies by exploiting their social behavior:
 
 1. Worker termites encounter the fungus
 2. Before dying (3-5 days), infected termites return to the colony
@@ -46,7 +46,7 @@ Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to chemic
 
 ## Advantages Over Chemical Pesticides
 
-| | Chemical Pesticides | Fungal Biopesticides |
+| | Chemical Pesticides | [[fungal-biopesticides]] |
 |---|---|---|
 | Toxicity to humans | High | Negligible |
 | Environmental persistence | Years to decades | Days to weeks |
@@ -66,8 +66,8 @@ Similar social-disruption strategy used against fire ants:
 
 ## Integration with Gardens
 
-- **Companion planting** with insect-attractive plants near mycelial beds draws pests into fungal traps
-- **Sawdust spawn** placed at the base of vulnerable plants creates a protective mycelial zone
+- **[[companion-planting]]** with insect-attractive plants near mycelial beds draws pests into fungal traps
+- **[[sawdust-spawn]]** placed at the base of vulnerable plants creates a protective mycelial zone
 - **Spore sprays** can be applied to foliage using standard garden sprayers
 - Works synergistically with [[garden-mushroom-growing]] — same beds can produce food mushrooms AND control pests
 
@@ -81,41 +81,6 @@ Similar social-disruption strategy used against fire ants:
 
 ## See Also
 
-- [[mycorestoration]] for the broader framework
+- mycorestoration overview for the broader framework
 - [[garden-mushroom-growing]] for combining pest control with food production
 - [[fungal-ecology]] for how fungi interact with insect populations in nature
-
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.

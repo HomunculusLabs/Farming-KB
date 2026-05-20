@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, water-management, drought, gardening]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md']
 type: comparison
 ---
 ## Dry Farming vs Xeriscaping

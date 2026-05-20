@@ -13,7 +13,7 @@ in temperate and subtropical orchards.
 
 ## What Is Jujube?
 
-Jujube (*[[ziziphus-jujuba]]*), commonly known as the Chinese date, is a deciduous tree
+Jujube (*ziziphus-jujuba]]*), commonly known as the Chinese date, is a deciduous tree
 in the buckthorn family Rhamnaceae. It has been cultivated in China for over
 4,000 years, making it one of the oldest domesticated fruit species. The tree
 typically reaches 15–30 feet at maturity and features glossy green leaves with a

@@ -1,3 +1,11 @@
+---
+title: Fly Agaric — Amanita muscaria Identification and Preparation
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [entheogen, species, ethnobotany, psychopharmacology, preparation, safety, mycology, folklore, old-world, beginner, biochemistry]
+sources: []
+---
 
 # Fly Agaric — Amanita muscaria
 

@@ -3,7 +3,7 @@ title: "Chamomile vs Passionflower"
 tags: [comparison, medicinal-herbs, relaxation, herbalism, cultivation]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/laminar-flow-hood-construction-1.md']
 ---
 
 ## Chamomile vs Passionflower

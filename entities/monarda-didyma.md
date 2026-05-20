@@ -2,7 +2,7 @@
 title: "Monarda Didyma"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 **Antioxidant activity:** The essential oil demonstrates significant free radical scavenging activity in DPPH and ABTS assays, primarily attributed to the phenolic terpenoids.

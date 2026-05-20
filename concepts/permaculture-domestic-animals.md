@@ -1,3 +1,11 @@
+---
+title: Permaculture Domestic Animals
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags: [permaculture, animal-husbandry, livestock, ducks, goats, forage, polyculture, homesteading]
+sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
+---
 
 # Permaculture Domestic Animals
 
@@ -71,13 +79,3 @@ Bees are among the most easily protected from predators by elevation on pole str
 - [[animal-manure-guide]] -- nutrient cycling from animals
 - [[permaculture-tree-crop-systems]] -- animals integrated with tree crops
 - permaculture domestic animals -- this page
-
-## Integration Principles
-
-Domestic animals in permaculture systems serve multiple functions:
-pest control, fertilization, weed management, and food production.
-Chickens excel at garden bed preparation through scratching and
-foraging. Ducks manage slug and snail populations effectively.
-Rotational grazing with portable enclosures prevents overgrazing
-while distributing manure evenly across the landscape. Housing
-design integrates animals into zone planning for maximum efficiency.

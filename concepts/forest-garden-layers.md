@@ -1,3 +1,11 @@
+---
+title: Forest Garden Layers
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [permaculture, food-forest, plant-systems, guild, plants, ecology, succession, plant-systems]
+sources: []
+---
 
 # Forest Garden Layers
 

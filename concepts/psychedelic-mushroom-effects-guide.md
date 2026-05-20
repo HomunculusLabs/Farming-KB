@@ -1,3 +1,11 @@
+---
+title: Psychedelic Mushroom Effects Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, psychopharmacology, psychedelics, consciousness, psychology, entheogen-research, health, safety]
+sources: []
+---
 
 # Psychedelic Mushroom Effects Guide
 

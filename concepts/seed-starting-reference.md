@@ -1,3 +1,11 @@
+---
+title: Seed Starting Reference
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [germination, cultivation, gardening, vegetables, indoor, plant-growth, beginner]
+sources: []
+---
 
 # Seed Starting Reference
 

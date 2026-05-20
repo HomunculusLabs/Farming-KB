@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, lab-technique, preparation, recipe, workflow, genetics]
-sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+sources: []
 ---
 
 ## Overview

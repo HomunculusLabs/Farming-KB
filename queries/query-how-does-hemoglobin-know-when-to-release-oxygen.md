@@ -6,7 +6,7 @@ tags: [biochemistry, physiology, hemoglobin, oxygen-transport, bohr-effect]
 related: hemoglobin-oxygen-transport-biochemistry, hemoglobin-vs-myoglobin, hemoglobin-oxygen-transport-biochemistry]
 created: 2026-05-02
 updated: 2026-05-06
-sources: []
+sources: ['papers/gardening-when-it-counts-steve-solomon.md']
 ---
 ## How does hemoglobin know when to release oxygen?
 ## Short Answer

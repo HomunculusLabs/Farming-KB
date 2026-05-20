@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [water, conservation]
-sources: []
+sources: ['water-for-every-farmer']
 ---
 
 ## Yakuruna: Water Spirits of the Amazon

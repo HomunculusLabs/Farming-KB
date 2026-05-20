@@ -3,7 +3,7 @@ title: "How Do I Plan and Start a Vegetable Garden From Scratch?"
 tags: [query, vegetable-garden, garden-planning, beginner, soil-preparation]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/unknown-mushrooms-fungi-from-around-the-world.md']
 ---
 
 ## How Do I Plan and Start a Vegetable Garden From Scratch?

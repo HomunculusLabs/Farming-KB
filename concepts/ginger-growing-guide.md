@@ -1,3 +1,11 @@
+---
+title: Ginger Growing Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, ethnobotany]
+sources: []
+---
 
 # Ginger Growing Guide (Zingiber officinale)
 

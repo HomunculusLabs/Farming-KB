@@ -1,3 +1,11 @@
+---
+title: St. John's Wort Growing Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, safety, ethnobotany]
+sources: []
+---
 
 # St. John's Wort Growing Guide (Hypericum perforatum)
 
@@ -169,7 +177,6 @@ also make a double extraction (tincture + oil) for maximum therapeutic
 effect.
 
 ## See Also
-- [[comparison-mullein-vs-st-johns-wort]]
 
 - [[valerian-growing-guide]] -- often combined with St. John's Wort in
   formulas for anxiety and depression

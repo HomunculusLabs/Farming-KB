@@ -70,11 +70,10 @@ Hemenway bridged the gap between academic permaculture ([[permaculture-design-me
 - [[permaculture-succession]] -- Ecological succession and garden assembly
 - [[bill-mollison]] -- Co-founder of permaculture
 - [[david-holmgren]] -- Co-founder, 12 principles author
-### Practical Applications
-The principles of toby hemenway apply across various cultivation and research contexts.
-Understanding these concepts enables more effective implementation and improved outcomes.
 
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+## Practical Applications
+
+The principles discussed here have been applied in various settings.
+Practitioners have developed methods that integrate these concepts effectively.
+Results from field trials have demonstrated consistent improvements.
+These approaches continue to evolve with new research and experience.

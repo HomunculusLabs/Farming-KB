@@ -4,7 +4,8 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 ## Permaculture Chicken Raising updated: 2026-04-18 Chickens are one of the most productive livestock animals in permaculture-zone-planning and profit from them in [[korean-natural-farming-imo-recipes]]
 - [[urban-permaculture-trees-water-cycling]]

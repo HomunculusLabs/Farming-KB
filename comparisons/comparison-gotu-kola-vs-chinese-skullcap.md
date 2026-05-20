@@ -3,7 +3,7 @@ title: "Gotu Kola vs Chinese Skullcap"
 tags: [comparison, medicinal-plants, gotu-kola, skullcap, herbal-medicine]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Gotu Kola vs Chinese Skullcap

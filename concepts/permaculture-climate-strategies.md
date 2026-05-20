@@ -163,7 +163,7 @@ From Mollison's detailed treatment:
 - [[edge-effect-and-microclimate]] — Microclimate creation techniques
 - [[water-management]] — Water harvesting strategies
 - [[sepp-holzer-methods]] — Holzer's mountain climate techniques
-- [[hugelkultur]] — Raised bed water retention
+- [[hugelkultur-guide]] — Raised bed water retention
 - [[no-till-gardening-method]] — Minimum disturbance soil management
 - [[mulching-guide]] — Mulch types and application
 

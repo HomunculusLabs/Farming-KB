@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources: ['geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-staycare-endobacteria-arbuscular-mycorrhizal-fungi-fungi-arbuscular-mycorrhizal-fungi-in-the-environment-fungal-biodiversity-tropical-forest-restoration-hydrocarbon-remediation-the-environment.md']
 ---
 ## Micro-PIXE Analysis of Mycorrhizal Metal-Tolerant Plants
 

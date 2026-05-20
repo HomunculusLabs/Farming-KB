@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Passionflower in My Garden?"
 tags: [query, passionflower, passiflora, medicinal-herbs, perennial-vines]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/laminar-flow-hood-construction-1.md']
 ---
 
 ## How Do I Grow and Use Passionflower in My Garden?

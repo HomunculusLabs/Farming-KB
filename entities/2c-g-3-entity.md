@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: methyl-k-entity-pihkal
 tags: [chemistry, tihkal, 2c-family]
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 ## 2C-G-3
 

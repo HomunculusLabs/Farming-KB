@@ -1,3 +1,11 @@
+---
+title: Fungal Allergies
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, fungi, health, medicine, biology, ecology, safety]
+sources: []
+---
 
 # Fungal Allergies
 

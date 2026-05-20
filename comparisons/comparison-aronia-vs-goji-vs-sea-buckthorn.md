@@ -3,7 +3,7 @@ title: comparison aronia vs goji vs sea buckthorn Berry vs comparison-sea-buckth
 tags: [aronia, goji, sea-buckthorn, superfood, berries, comparison, anti-oxidant, medicinal-plants, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['living-the-good-life-nearing']
 ---
 
 ## Aronia vs Goji Berry vs Sea Buckthorn — Superfood Berry Comparison

@@ -2,7 +2,7 @@
 title: "Xerula Furfuracea"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The species fruits from late spring through autumn, typically appearing after sustained rainfall.

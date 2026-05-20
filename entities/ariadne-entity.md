@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: entity
 tags: [psychedelics]
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md']
 ---
 ## ARIADNE
 

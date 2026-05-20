@@ -2,7 +2,7 @@
 title: "Deschloroketamine"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
 ---
 
 It functions primarily as an NMDA receptor antagonist, producing dissociative, analgesic, and hallucinogenic effects similar to ketamine but with distinct pharmacokinetic and subjective properties.

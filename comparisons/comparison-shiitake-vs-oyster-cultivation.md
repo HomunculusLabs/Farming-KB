@@ -3,7 +3,7 @@ title: "Shiitake vs Oyster Mushroom Cultivation"
 tags: [comparison, shiitake, oyster-mushroom, mushroom-cultivation, pleurotus, lentinula-edodes]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['unknown-cotter-oyster-mushroom-cultivation.md']
 ---
 
 ## Shiitake vs Oyster Mushroom Cultivation

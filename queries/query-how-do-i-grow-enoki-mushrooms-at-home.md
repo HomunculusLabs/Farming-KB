@@ -3,7 +3,7 @@ title: "How Do I Grow Enoki Mushrooms at Home?"
 tags: [query, mushrooms, enoki, flammulina, cultivation, medicinal, gourmet]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## How Do I Grow Enoki Mushrooms at Home?

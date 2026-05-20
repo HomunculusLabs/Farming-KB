@@ -1,3 +1,16 @@
+---
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags:
+  - mycology
+  - cultivation
+  - gourmet-mushrooms
+  - pholiota
+  - nameko
+sources:
+  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+---
 
 # Nameko Cultivation
 

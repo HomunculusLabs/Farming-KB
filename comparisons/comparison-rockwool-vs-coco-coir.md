@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, growing-mediums, cannabis, hydroponics]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 type: comparison
 ---
 ## Rockwool vs Coco Coir

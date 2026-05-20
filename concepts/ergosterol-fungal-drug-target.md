@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 ## Ergosterol as a Fungal Drug Target
 

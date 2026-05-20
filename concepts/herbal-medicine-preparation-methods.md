@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [herbalism, herbs, medicine]
-sources: []
+sources:
+  - "raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md"
 ---
 ## Herbal Medicine Preparation Methods
 

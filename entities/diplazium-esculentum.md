@@ -2,7 +2,7 @@
 title: "Diplazium Esculentum"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The young fronds are harvested as a [[hamilton-composting-and-organic-matter-management]].

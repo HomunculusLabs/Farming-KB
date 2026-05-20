@@ -3,7 +3,7 @@ title: "How do I grow barley in my garden or small farm?"
 tags: [query, barley, grain-growing, cover-crops, brewing]
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['raw/papers/unknown-oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid|oyster-mushroom-cultivation.md']
 ---
 
 ## How do I grow barley in my garden or small farm?

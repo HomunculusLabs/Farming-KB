@@ -1,3 +1,11 @@
+---
+title: Fermented Hot Sauce Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fermentation, food, recipe, safety, homesteading, cooking, preservation]
+sources: []
+---
 
 # Fermented Hot Sauce Guide
 

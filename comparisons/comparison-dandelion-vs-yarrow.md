@@ -3,7 +3,7 @@ title: "Dandelion vs Yarrow"
 tags: [comparison, medicinal-herbs, permaculture-plants, companion-planting]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## Dandelion vs Yarrow

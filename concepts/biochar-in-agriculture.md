@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [soil-amendment, soil, regenerative, agriculture, carbon-sequestration, fertility, living-soil]
-sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
+sources: []
 ---
 
 # Biochar in Agriculture

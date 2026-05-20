@@ -1,7 +1,7 @@
 ---
 title: "Northern Lights Cannabis"
 tags: [wiki]
-sources: []
+sources: ['raw/papers/unknown-effect-of-light-upon-basidiocarp-initiation-psilocybe-cubensis.md']
 ---
 
 ## Morphology and Growing Characteristics

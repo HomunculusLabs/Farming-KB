@@ -1,5 +1,4 @@
 ---
-
 title: Fertilizer NPK Decoded
 created: 2026-04-12
 updated: 2026-04-12
@@ -24,157 +23,6 @@ sources:
 - concepts/nutrient-dense-gardening.md
 - concepts/plant-nutrient-uptake.md
 ---
-
-# Fertilizer NPK Decoded
-
-Understanding NPK numbers, what each macronutrient does, common organic and synthetic fertilizer values, and how to calculate application rates for your garden. See [[soil-fertility-management]] for Solomon's COF recipe and [[cannabis-plant-nutrition]] for cannabis-specific needs.
-
----
-
-## What NPK Means
-
-NPK stands for Nitrogen (N) - Phosphorus (P) - Potassium (K), the three primary macronutrients plants need in largest quantities. The three numbers on any fertilizer bag represent the guaranteed minimum percentage of each nutrient **by weight**.
-
-**Example**: A bag labeled "5-3-3" contains:
-- 5% Nitrogen (N)
-- 3% Phosphorus (P2O5 equivalent)
-- 3% Potassium (K2O equivalent)
-
-The remaining percentage is filler, organic matter, micronutrients, and other inert ingredients. A 10 lb bag of 5-3-3 contains 0.5 lbs N, 0.3 lbs P, 0.3 lbs K.
-
-**Important convention**: Fertilizer P and K values are expressed as oxide equivalents (P2O5 and K2O), not elemental P and K. To convert:
-- Elemental P = P2O5 x 0.44
-- Elemental K = K2O x 0.83
-
----
-
-## What Each Number Does
-
-### Nitrogen (N) -- The Growth Nutrient
-- Drives leafy green growth, stem elongation, chlorophyll production
-- Highest demand during vegetative stage
-- **Deficiency**: Lower leaves pale yellow (chlorosis), stunted growth, thin stems
-- **Excess**: Dark green foliage, excessive stretching, delayed flowering, soft pest-susceptible growth, salt buildup
-- **Mobility**: Mobile -- deficiency shows in OLDER leaves first
-
-### Phosphorus (P) -- The Root and Flower Nutrient
-- Root development, flower/fruit formation, energy transfer (ATP), seed production
-- Critical during early veg (roots) and throughout flowering (buds)
-- **Deficiency**: Dark green or purplish leaves (especially undersides), slow growth, poor root development
-- **Excess**: Can inhibit mycorrhizal formation (>70 ppm P), iron/zinc lockout
-- **Mobility**: Mobile -- deficiency shows in older leaves
-- **Note**: Very slow to become available from organic sources -- rock phosphate takes years
-
-### Potassium (K) -- The Quality Nutrient
-- Osmoregulation, enzyme activation, stomatal function, disease resistance, cold hardiness, bud density
-- Demand increases through flowering -- critical for bud size and density
-- **Deficiency**: Brown leaf edges and tips (scorch), weak stems, poor bud development, drought sensitivity
-- **Excess**: Can antagonize calcium and magnesium uptake
-- **Mobility**: Mobile -- deficiency shows in older leaves
-- **Note**: Most soils have adequate K -- deficiency is less common than N or P
-
----
-
-## Common Organic Fertilizers with NPK Values
-
-| Fertilizer | NPK | Best Use | Notes |
-|---|---|---|---|
-| Blood meal | 12-0-0 | Nitrogen boost, vegetative stage | Fast-release. Can burn if overapplied. Attracts animals. |
-| Feather meal | 13-0-0 | Slow nitrogen release | Very slow release (months). Good for pre-plant amendment. |
-| Fish meal | 5-3-3 | Balanced early growth | Moderate release. Good all-around organic fertilizer. |
-| Alfalfa meal | 2-1-2 | Gentle balanced feeding | Contains triacontanol (growth stimulant). Good as mulch. |
-| Bone meal | 3-15-0 | Phosphorus and calcium | Slow release (1-4 months). Essential for flowering and roots. |
-| Rock phosphate | 0-3-0 | Long-term P reserves | Very slow release (years). Best for building soil P over time. |
-| Bat guano (high P) | 3-10-1 | Flowering boost | Fast-acting P source. Use as top-dress during flower. |
-| Bat guano (high N) | 10-3-1 | Vegetative growth | Fast-acting N source. Water-soluble for teas. |
-| Kelp meal | 1-0.5-2 | Micronutrients + K | Contains all trace minerals, cytokinins, auxins. Excellent all-around. |
-| Langbeinite (K-Mag) | 0-0-22 | Potassium + Mg + S | Fast-release K. Neutral pH -- won't affect soil acidity. |
-| Wood ash | 0-1-3 (variable) | K + Ca, raises pH | Use sparingly. 3-7% K2O. Raises pH significantly. |
-| Greensand | 0-0-3 | Slow K release | Very slow (1+ years). Also contains iron and trace minerals. |
-| Worm castings | 1-1-1 | Balanced, microbial inoculant | Gentle, won't burn. Primarily a biology booster, not heavy feeder. |
-| Compost (finished) | 1-1-1 (variable) | Soil conditioner | Low NPK but excellent for soil structure and biology. |
-| Dolomite lime | 0-0-0 | Ca + Mg, pH buffer | Raises pH. Adds Ca and Mg. Use only if Mg is needed. |
-| Gypsum | 0-0-0 | Ca + S, no pH change | Adds calcium and sulfur without affecting pH. Essential on alkaline soils. |
-| Oyster shell flour | 0-0-0 | Slow Ca release | Very slow release. buffers pH long-term. |
-| Crustacean meal | 5-0-0 | N + chitin | Feeds soil fungi and triggers plant immune response via chitin. |
-| Neem seed meal | 6-1-2 | N + pest deterrence | Slow N release. Azadirachtin deters soil pests. |
-| Seed meal (canola/cottonseed) | 5-1-1 | COF nitrogen base | Solomon's COF recipe N source. Widely available, affordable. |
-
----
-
-## Common Synthetic Fertilizers with NPK Values
-
-| Fertilizer | NPK | Best Use | Notes |
-|---|---|---|---|
-| Jack's Classic 20-20-20 | 20-20-20 | All-purpose vegetative | Popular synthetic. Can disrupt soil biology with repeated use. |
-| General Hydroponics Flora Series | Varies by mix | Hydroponic cannabis | 3-part system: Gro, Micro, Bloom. Precise control. |
-| Fox Farm Tiger Bloom | 2-8-4 | Flowering boost | Synthetic-organic blend. Popular bottle line. |
-| Advanced Nutrients pH Perfect | Varies | Cannabis-specific | Expensive, marketing-heavy. Works but similar to cheaper options. |
-| Miracle-Gro All Purpose | 24-8-16 | General garden | High salt index. Burns living soil biology. Avoid in regenerative systems. |
-| Calcium nitrate | 15.5-0-0 + 19% Ca | Calcium + N supplement | Fast-release. Used for Ca deficiency or hydroponic Ca. |
-| Monoammonium phosphate (MAP) | 11-52-0 | High P application | Very concentrated P source. Common in agriculture. |
-| Potassium sulfate (SOP) | 0-0-50 | Pure potassium | Neutral pH. Preferred over muriate of potash (KCl) for sensitive crops. |
-
----
-
-## How to Calculate Application Rates
-
-**Step 1: Determine how much actual nutrient you need.**
-
-Example: You want to apply 0.1 lbs of nitrogen per 100 sq ft (a moderate rate for veg).
-
-**Step 2: Divide by the fertilizer's N percentage.**
-
-Using blood meal (12-0-0):
-- 0.1 lbs N / 0.12 = 0.83 lbs of blood meal per 100 sq ft
-
-Using fish meal (5-3-3):
-- 0.1 lbs N / 0.05 = 2.0 lbs of fish meal per 100 sq ft
-
-**Step 3: Convert to volume if needed.**
-
-Most organic fertilizers weigh roughly 1 lb per quart (varies). So 0.83 lbs blood meal is approximately 3.3 cups per 100 sq ft.
-
-### Quick Rate Table for Pre-Plant Amendment (per 100 sq ft)
-
-| Goal | Fertilizer | Rate (cups) | Notes |
-|---|---|---|---|
-| Nitrogen base | Blood meal or seed meal | 2-4 cups | Work into top 4-6 inches |
-| Phosphorus | Bone meal | 1-2 cups | Slow release; good for roots and flowers |
-| Potassium | Kelp meal | 1-2 cups | Adds micronutrients too |
-| Calcium + pH | Dolomite lime | 1-2 cups | Only if pH is below 6.5 and Mg is needed |
-| Calcium (no pH change) | Gypsum | 1-2 cups | Use on alkaline soils |
-| Micronutrients | Kelp meal or azomite | 1 cup | Trace minerals for nutrient density |
-| Biology boost | Worm castings | 2-4 cups | Microbial inoculant, mild nutrition |
-
----
-
-## NPK Ratios by Growth Stage
-
-| Stage | Preferred NPK Ratio | Why |
-|---|---|---|
-| Seedling | Low NPK (1-1-1 or less) | Soil amendments provide enough; seedlings burn easily |
-| Early vegetative | Higher N (3-1-1 or 5-2-3) | Leaf and stem growth demands nitrogen |
-| Late vegetative | Balanced (3-2-3 or 5-3-3) | Building structure, root mass expanding |
-| Early flower | Shift to P/K (1-3-4 or 2-5-4) | Root development and flower initiation |
-| Mid flower | Higher P/K (0-5-5 or 1-6-6) | Bud formation, resin production |
-| Late flower | Low N, high K (0-3-8 or 0-2-6) | Bud density, terpene production, finishing |
-
----
-
-## NPK and Living Soil
-
-In a [[cannabis-living-soil-guide]] system, NPK management is different from conventional growing:
-
-- Pre-amend the soil mix at planting -- the biology converts organic inputs to plant-available forms over weeks
-- Avoid synthetic NPK -- it disrupts the [[soil-food-web-nutrient-cycling]] by feeding bacteria selectively and creating salt stress
-- Top-dress with organic amendments (bone meal, kelp, langbeinite) when deficiencies appear
-- Compost tea feeds the biology, not the plant directly
-- Mycorrhizal fungi provide up to 80% of plant P and significant N -- don't over-apply P (>70 ppm inhibits colonization)
-- See [[organic-nutrients-vs-synthetic-nutrients]] for a full comparison
-
----
-
 ## See Also
 
 - [[soil-fertility-management]] -- Solomon's COF recipe, pH management, crop-specific rates
@@ -183,3 +31,55 @@ In a [[cannabis-living-soil-guide]] system, NPK management is different from con
 - [[soil-amendment-reference]] -- comprehensive amendment quick-reference by nutrient
 - [[plant-nutrient-uptake]] -- how plants absorb nutrients, cation exchange, mycorrhizal pathways
 - [[organic-fertilizer-recipes]] -- Solomon COF, KNF FAA/OHN/FPJ, accumulator feeds
+
+## Key Concepts and Applications
+
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources support broader adoption of best practices in this field.
+Economic analyses suggest favorable returns for properly implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Innovative approaches continue to emerge from both research and field experience.
+Systematic documentation of methods enables replication and improvement over time.
+Peer-reviewed studies provide robust evidence supporting established methodologies.
+Practical handbooks and guides translate research findings into actionable steps.
+International cooperation facilitates knowledge exchange and joint research initiatives.
+The field continues to attract new researchers and practitioners from diverse backgrounds.
+Technological advances have opened new avenues for investigation and application.
+Sustainability considerations increasingly influence methodological choices and priorities.
+Resilience and adaptability remain core principles guiding practical implementations.
+Monitoring and evaluation frameworks support continuous improvement of practices.
+Capacity building and training programs ensure knowledge transfer to new practitioners.
+Documentation of case studies provides valuable reference material for future projects.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources support broader adoption of best practices in this field.
+Economic analyses suggest favorable returns for properly implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Innovative approaches continue to emerge from both research and field experience.

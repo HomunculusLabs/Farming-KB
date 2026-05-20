@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources: ['geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-staycare-endobacteria-arbuscular-mycorrhizal-fungi-fungi-arbuscular-mycorrhizal-fungi-in-the-environment-fungal-biodiversity-tropical-forest-restoration-hydrocarbon-remediation-the-environment.md']
 ---
 
 ## Tropical Rain Forest Seedling Mycorrhiza in Ecological Restoration

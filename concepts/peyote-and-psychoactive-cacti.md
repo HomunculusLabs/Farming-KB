@@ -1,3 +1,13 @@
+---
+title: Peyote and Psychoactive Cacti
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags: [peyote, cacti, mescaline, san-pedro, peruvian-torch, ethnobotany, native-american-church, cultivation, extraction]
+sources:
+  - raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md
+  - raw/papers/a-golden-guide-to-hallucinogenic-plants.md
+---
 
 # Peyote and Psychoactive Cacti
 
@@ -51,6 +61,4 @@ About half an hour after ingestion, the first effects are felt: strange intoxica
 ## Related Concepts
 
 - [[hallucinogenic-plants-of-the-world]] -- broader survey of psychoactive flora
-- [[amanita-preparation-methods]] -- preparation of another entheogen
-## See Also
-- [[golden-guide-peyote-and-mescaline-cacti]]
+- amanita muscaria preparation methods -- preparation of another entheogen

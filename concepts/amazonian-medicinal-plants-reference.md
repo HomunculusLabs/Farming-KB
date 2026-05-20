@@ -1,3 +1,12 @@
+---
+title: Amazonian Medicinal Plants Reference
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [ethnobotany, medicine, plants, amazon, reference, pharmacology]
+sources:
+- raw/papers/amaringo-p-ayahuasca-visions.md
+---
 
 # Amazonian Medicinal Plants Reference
 

@@ -3,7 +3,7 @@ title: "Rocket Stove vs Rocket Mass Heater"
 tags: [comparison, rocket-stove-design, rocket-mass-heater-design, homesteading, heating]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Rocket Stove vs Rocket Mass Heater

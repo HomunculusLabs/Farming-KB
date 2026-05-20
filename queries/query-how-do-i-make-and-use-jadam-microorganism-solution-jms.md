@@ -3,7 +3,7 @@ title: "How Do I Make and Use JADAM Microorganism Solution (JMS)?"
 tags: [query, jadam, microorganism-solution, jms, organic-farming, soil-biology]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## How Do I Make and Use JADAM Microorganism Solution (JMS)?

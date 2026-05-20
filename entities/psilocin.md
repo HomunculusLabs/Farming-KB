@@ -6,7 +6,7 @@ tags: [psychedelic, tryptamine, serotonergic, hallucinogen,
   Schedule-I, endogenous-compound]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md']
 ---
 
 ## Psilocin (4-HO-DMT)

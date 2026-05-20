@@ -9,7 +9,7 @@ tags:
   - liquid-culture
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/unknown-mushroom-culture-patent-2761246.md']
 type: comparison
 ---
 

@@ -3,7 +3,7 @@ title: "Enoki vs Pioppino"
 tags: [comparison, mushrooms, cultivation, enoki, pioppino]
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Enoki vs Pioppino

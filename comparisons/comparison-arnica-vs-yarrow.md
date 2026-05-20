@@ -3,7 +3,7 @@ title: "Arnica vs Yarrow"
 tags: [comparison, medicinal-herbs, wound-healing, anti-inflammatory, asteraceae]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Arnica vs Yarrow

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, medicinal-herbs, gardening, beginner-guide, herbs]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 type: query
 ---
 

@@ -3,7 +3,7 @@ title: "What Is the Difference Between Aerobic and Anaerobic Composting"
 tags: [query, composting, soil-health, organic-farming, waste-management]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## What Is the Difference Between Aerobic and Anaerobic Composting?

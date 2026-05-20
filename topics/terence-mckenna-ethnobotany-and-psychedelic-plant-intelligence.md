@@ -2,7 +2,7 @@
 title: "Terence Mckenna Ethnobotany And Psychedelic Plant Intelligence"
 type: topic
 tags: []
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## [[i-thou-relationship-with-psychedelic-entities]] plants was not

@@ -2,7 +2,7 @@
 title: "Cerrena Unicolor"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species colonizes dead and dying hardwood, particularly fallen branches and stumps of oak, beech, and birch. It fruits as tough, semicircular brackets with a distinctive zonate upper surface and a gray-to-cream pore layer underneath.

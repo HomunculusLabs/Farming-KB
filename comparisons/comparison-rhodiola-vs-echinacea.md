@@ -3,7 +3,7 @@ title: "Rhodiola vs Echinacea"
 tags: [comparison, adaptogen, immune-support, medicinal-herb, rhodiola, echinacea]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Rhodiola vs Echinacea

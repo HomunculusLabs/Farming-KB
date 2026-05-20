@@ -3,7 +3,7 @@ title: "What Is Terra Preta and How Does It Differ from Modern Biochar?"
 tags: [query, soil, biochar, terra-preta, amazon]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md']
 ---
 
 ## What Is Terra Preta and How Does It Differ from Modern Biochar?

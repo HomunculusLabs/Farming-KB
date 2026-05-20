@@ -1,3 +1,11 @@
+---
+title: Shiitake (Lentinula edodes) — Medicinal Mushroom Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profiles, pharmacology, cooking]
+sources: []
+---
 
 # Shiitake (Lentinula edodes)
 

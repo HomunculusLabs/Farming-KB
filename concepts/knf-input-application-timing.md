@@ -115,7 +115,3 @@ Dr. Cho's view: providing nutrients in excess to plants is not needed -- it will
 - [[knf-oriental-herbal-nutrient]]
 - [[knf-lactic-acid-bacteria-serum]]
 - [[knf-fpj-ratio-guide]]
-
-Integration across multiple growing systems enhances overall resilience and productivity in diverse cultivation environments.
-
-Application frequency and timing directly impact biological efficacy across diverse growing systems.

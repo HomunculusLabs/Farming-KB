@@ -3,7 +3,7 @@ title: "How Do I Replace My Lawn With Productive or Ecological Plantings?"
 tags: [query, lawn-replacement, ground-covers, permaculture, meadow, sheet-mulching]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Replace My Lawn With Productive or Ecological Plantings?

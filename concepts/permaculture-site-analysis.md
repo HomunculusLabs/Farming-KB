@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, design, survey, water, soil, climate, environment, patterns]
-sources: [raw/papers/permaculture-beginners-guide.md]
+sources: []
 ---
 
 # Permaculture Site Analysis

@@ -1,3 +1,11 @@
+---
+title: Elderberry Growing Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [medicine, plants, cultivation, species-profiles, pruning, harvesting, processing, fruit-tree, permaculture]
+sources: []
+---
 
 # Elderberry Growing Guide (Sambucus nigra / S. canadensis)
 
@@ -171,7 +179,6 @@ Elderflowers:
   value-added products
 
 ## See Also
-- [[onion-growing-guide]]
 
 - [[hawthorn-berry-guide]] -- another berry-producing medicinal shrub for
   the homestead

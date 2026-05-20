@@ -1,3 +1,11 @@
+---
+title: Keyhole Garden Design
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [gardening, permaculture, water-management, sustainability, compost, design]
+sources: []
+---
 
 # Keyhole Garden Design
 

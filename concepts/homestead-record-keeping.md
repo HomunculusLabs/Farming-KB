@@ -1,3 +1,11 @@
+---
+title: Homestead Record Keeping
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, workflow, annual-calendar, reference, economics]
+sources: []
+---
 
 # Homestead Record Keeping
 
@@ -142,5 +150,3 @@ Consult a tax professional familiar with agricultural operations. Many homestead
 Start simple. Do not let the ideal system prevent you from starting. A notebook and a pencil, used consistently, is infinitely better than a perfect database you never maintain. Add complexity as you identify needs. The most important habit is recording data at the time it happens, not from memory days later.
 
 For financial tracking that connects to your records, see [[homestead-financial-planning]]. Planning your seasonal activities is aided by the resources in [[homestead-education-resources]].
-## See Also
-- [[mushroom-farm-record-keeping-profitability]]

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, composting, soil, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 type: comparison
 ---
 

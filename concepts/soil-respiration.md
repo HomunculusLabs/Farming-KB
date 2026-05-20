@@ -5,7 +5,7 @@ tags: [soil-science, carbon-cycle, microbiology, agroecology, climate]
 date: 2026-05-02
 updated: 2026-05-02
 type: concept
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Overview

@@ -3,7 +3,7 @@ title: "How Do I Plan and Plant a Culinary Herb Garden?"
 tags: [query, herb-garden, culinary-herbs, kitchen-garden, permaculture]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## How Do I Plan and Plant a Culinary Herb Garden?

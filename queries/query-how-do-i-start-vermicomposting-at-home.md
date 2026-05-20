@@ -3,7 +3,7 @@ title: "How Do I Start Vermicomposting at Home?"
 tags: [query, vermicomposting, composting, worms, soil-health]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['gaias-garden-a-guide-to-home-scale-permaculture']
 ---
 
 ## How Do I Start Vermi[[vermicomposting]] is the process of using earthworms to decompose organic waste into nutrient-rich castings.

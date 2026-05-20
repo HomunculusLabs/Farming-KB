@@ -3,7 +3,7 @@ title: "comparison-solar-cooking-vs-cob-oven vs comparison-rocket-stove-vs-mason
 tags: [comparison, cooking, energy, homesteading, off-grid]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Solar Cooking vs Rocket Stove

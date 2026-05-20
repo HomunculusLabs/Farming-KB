@@ -3,7 +3,7 @@ title: "How do I grow blueberries in my garden or backyard?"
 tags: [query, blueberries, fruit, berries, acid-loving-plants]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How do I grow blueberries in my garden or backyard?

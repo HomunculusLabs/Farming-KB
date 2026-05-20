@@ -3,7 +3,7 @@ title: "Elderberry vs Valerian"
 tags: [comparison, elderberry, valerian, medicinal-herbs, permaculture]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Elderberry vs Valerian

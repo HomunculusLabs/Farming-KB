@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [fermentation, brewing, homesteading, beverages, comparison]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/unknown-oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid|oyster-mushroom-cultivation.md']
 type: comparison
 ---
 

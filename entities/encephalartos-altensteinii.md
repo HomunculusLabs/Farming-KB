@@ -2,7 +2,7 @@
 title: "Encephalartos Altensteinii"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 Leaves are pinnate, 1.5 to 3 meters long, with 120 to 200 leaflets arranged in a V-shaped orientation. Leaflets are lanceolate, 15 to 25 cm long and 2 to 4 cm wide, with serrated margins near the tip and a glossy dark green color.

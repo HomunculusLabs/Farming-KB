@@ -2,7 +2,7 @@
 title: "3 Meo Pce"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
 ---
 
 The compound acts primarily as an NMDA receptor antagonist, producing characteristic

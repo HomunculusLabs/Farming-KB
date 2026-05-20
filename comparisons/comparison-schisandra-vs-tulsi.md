@@ -3,7 +3,7 @@ title: "Schisandra vs Tulsi"
 tags: [comparison, adaptogens, schisandra, tulsi, medicinal-herbs]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Schisandra vs Tulsi

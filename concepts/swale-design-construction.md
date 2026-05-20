@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [swales, permaculture, water-management, earthworks, erosion, regenerative, agriculture]
-sources: [raw/papers/permaculture-beginners-guide.md]
+sources: []
 ---
 
 # Swale Design and Construction

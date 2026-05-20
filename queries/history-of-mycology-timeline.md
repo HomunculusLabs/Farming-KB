@@ -40,7 +40,7 @@ Draws from history of mycology timeline, [[fungal-evolution]], and entity pages 
   [[r-gordon-wasson]] proposed (1968) in Soma: Divine Mushroom of Immortality
   that the divine Soma of Vedic ritual was Amanita muscaria.
   This remains debated among scholars.
-  See [[amanita-muscaria]] and [[soma-hypothesis]].
+  See [[amanita-muscaria-guide]] and [[soma-hypothesis]].
 
 - **~300 BCE — Eleusinian Mysteries:**
   Annual initiation rites at Eleusis honoring Demeter and Persephone,

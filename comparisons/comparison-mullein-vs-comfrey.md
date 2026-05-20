@@ -3,7 +3,7 @@ title: "Mullein vs Comfrey"
 tags: [comparison, medicinal-herbs, dynamic-accumulators, permaculture, soil-building]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## Mullein vs Comfrey

@@ -1,3 +1,11 @@
+---
+title: Turmeric Growing Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, ethnobotany, species]
+sources: []
+---
 
 # Turmeric Growing Guide (Curcuma longa)
 
@@ -161,7 +169,6 @@ yielding approximately 1-2 pounds of dried turmeric powder per 10 square
 feet of planting area.
 
 ## See Also
-- [[onion-growing-guide]]
 
 - [[ginger-growing-guide]] -- close relative with similar cultivation
   requirements

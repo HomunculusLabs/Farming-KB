@@ -1,3 +1,11 @@
+---
+title: Aeroponics Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [cannabis, indoor, equipment, engineering, cultivation, methods, plant-growth, nutrients]
+sources: []
+---
 
 # Aeroponics Guide
 
@@ -175,7 +183,6 @@ Aeroponics is the most vulnerable system to power outages:
 | Root monitoring | Excellent | Poor | Good | Poor |
 
 ## See Also
-- [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]
 
 - [[hydroponic-growing-basics]] for simpler hydroponic alternatives
 - [[cannabis-lighting-guide]] for pairing aeroponics with optimal lighting

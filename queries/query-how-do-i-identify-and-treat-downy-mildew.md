@@ -3,7 +3,7 @@ title: "How Do I Identify and Treat Downy Mildew?"
 tags: [query, plant-pathology, downy-mildew, disease-management, oomycetes]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How Do I Identify and Treat Downy Mildew?

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, companion-planting, crop-rotation, organic-farming, pest-management]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 type: comparison
 ---
 

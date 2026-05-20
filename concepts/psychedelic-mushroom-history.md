@@ -1,3 +1,11 @@
+---
+title: Psychedelic Mushroom History
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, history, ethnomycology, ethnobotany, counterculture, culture, entheogen, mesoamerica, religion]
+sources: []
+---
 
 # Psychedelic Mushroom History
 
@@ -54,7 +62,7 @@ Maria Sabina became internationally famous following Wasson's publication, which
 
 ### Identification and Isolation (1957-1958)
 
-Following Wasson's report, [[roger-heim]] (French mycologist) identified the mushrooms and sent specimens to Albert Hofmann at Sandoz Laboratories in Switzerland. Hofmann, already famous for synthesizing LSD in 1938, successfully isolated and identified **psilocybin** and **psilocin** in 1958, synthesizing both compounds in the laboratory.
+Following Wasson's report, [[roger-heim]] (French mycologist) identified the mushrooms and sent specimens to [[albert-hofmann]] at Sandoz Laboratories in Switzerland. Hofmann, already famous for synthesizing LSD in 1938, successfully isolated and identified **psilocybin** and **psilocin** in 1958, synthesizing both compounds in the laboratory.
 
 ## The Harvard Psilocybin Project (1960-1962)
 
@@ -125,5 +133,3 @@ Psilocybin mushrooms have experienced a dramatic cultural rehabilitation:
 - Academic conferences and training programs for psychedelic therapists
 
 See [[psychedelic-mushroom-taxonomy]] for the scientific classification of these fungi and [[psilocybin-clinical-trials]] for current research status.
-## See Also
-- [[psychedelic-mushroom-art-and-iconography]]

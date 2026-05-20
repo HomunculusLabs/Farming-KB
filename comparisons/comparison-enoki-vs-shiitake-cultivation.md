@@ -3,7 +3,7 @@ title: "Enoki Comparison Maitake Vs Shiitake Cultivation"
 tags: [comparison, mushrooms, cultivation, enoki, shiitake]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md']
 ---
 
 ## Enoki vs Shiitake Cultivation

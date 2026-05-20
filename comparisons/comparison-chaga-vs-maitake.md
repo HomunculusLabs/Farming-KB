@@ -3,7 +3,7 @@ title: "Chaga vs Maitake"
 tags: [comparison, chaga, maitake, medicinal-mushrooms, adaptogen]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['papers/cancer-medicinal-mushrooms-immune-modulation-beta-glucans|cancer-treatments-medicinal-mushrooms.md']
 ---
 
 ## Chaga vs Maitake

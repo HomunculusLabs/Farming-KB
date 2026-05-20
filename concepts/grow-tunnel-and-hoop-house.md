@@ -1,3 +1,11 @@
+---
+title: Grow Tunnel and Hoop House
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [season-extension, construction, gardening, permaculture, sustainability]
+sources: []
+---
 
 # Grow Tunnel and Hoop House
 

@@ -3,7 +3,7 @@ title: "Biogas Digester vs Micro Hydro Power"
 tags: [comparison, energy, off-grid, homesteading, sustainability]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Biogas Digester vs Micro Hydro Power

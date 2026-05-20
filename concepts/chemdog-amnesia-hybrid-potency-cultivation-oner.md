@@ -3,20 +3,6 @@ title: "Chemdog × Amnesia — Potent Sativa-Dominant Hybrid Cross"
 tags:
   - concept
 ---
-
-## Parent Strain Analysis
-
-The two parent strains that form this cross are both legendary in their own right:
-
-**Chemdog IX-III** represents a specific cut of the Chemdog lineage, which traces its origins to a legendary bag of cannabis purchased at a Grateful Dead concert in 1991. The Chemdog genetics are indica-heavy in this particular expression (IX-III phenotype), contributing dense bud structure, heavy resin production, and the characteristic "Chemdog" fuel-like aroma. Chemdog is one of the most influential genetic lines in modern cannabis, having given rise to [[cannabis-terpene-profile]], and the psychedelic potency that has made [[cannabis-sativa-indoor-training-techniques]] is strongly recommended
-- **Light placement:** Keep lights hung low to minimize stretching
-- **Indoor suitability:** Hybrid traits make it manageable indoors despite sativa lean
-- **Outdoor potential:** Letting the plant grow to full size outdoors maximizes yield
-
-The breeder specifically recommends training and close light placement to manage the plant's natural tendency to stretch. This is a strain that benefits from active cultivation management rather than a hands-off approach.
-
----
-
 ## Flowering Time and Yield
 
 Chemdog × Amnesia has a medium-long flowering period of approximately 10 weeks (70 days) when cultivated indoors. This flowering time reflects the compromise between the Chemdog parent's more moderate flowering cycle and the Amnesia side's longer sativa-influenced maturation.

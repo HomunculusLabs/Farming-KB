@@ -3,7 +3,7 @@ title: "Astragalus vs Valerian"
 tags: [comparison, astragalus, valerian, adaptogen, nervine, medicinal-herbs]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Astragalus vs Valerian

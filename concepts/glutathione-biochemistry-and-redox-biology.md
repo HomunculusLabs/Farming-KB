@@ -6,7 +6,8 @@ tags: [biochemistry, redox, antioxidant, detoxification, pharmacology, peptide, 
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
 Glutathione (GSH) is a tripeptide thiol — γ-L-glutamyl-L-cysteinylglycine — and the most abundant non-protein thiol in mammalian cells, present at 1–10 mM in the cytosol. With a molecular weight of 307.32 g/mol, it plays a central role in redox homeostasis, detoxification, and cellular signaling across virtually all cell types. The name derives from its three constituent parts: glutamic acid, the thiol of cysteine, and the glycine residue. Discovered by Frederick Gowland Hopkins in 1921 from yeast and liver extracts, glutathione was confirmed as a tripeptide by Harington and Mead in 1935. Hopkins received the 1929 Nobel Prize in Physiology or Medicine for his broader biochemical contributions, including this foundational work.

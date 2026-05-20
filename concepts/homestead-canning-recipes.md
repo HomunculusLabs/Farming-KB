@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [preservation, food, recipe, safety, homesteading, storage]
-sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
+sources: []
 ---
 
 # Homestead Canning Recipes
@@ -119,5 +119,5 @@ Canning transforms seasonal abundance into shelf-stable food, making it a corner
 - USDA Complete Guide to Home Canning (2015 revision)
 - National Center for Home Food Preservation (nchfp.uga.edu)
 - Ball Blue Book Guide to Preserving
-## See Also
-- [[compost-tea-ingredients-and-recipes]]
+
+See also: [[aact-disease-suppression-recipes]]

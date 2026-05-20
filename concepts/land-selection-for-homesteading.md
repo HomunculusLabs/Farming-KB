@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, water, soil, climate, permaculture, sustainability]
-sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
+sources: []
 ---
 
 # Land Selection for Homesteading

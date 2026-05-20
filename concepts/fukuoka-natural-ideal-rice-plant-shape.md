@@ -57,7 +57,7 @@ The major characteristics of rice plants with an ideal form include:
 
 Both the plant height and length of the leaf blades are much smaller than in
 ordinary varieties. This is no accident. Large plants were found unnecessary
-in [[savory-growing-season-and-non-growing-season-management]], and fresh straw was applied to the field to check plant
+in savory-growing-season-and-non-growing-season-management]], and fresh straw was applied to the field to check plant
 response to a basal application of fertilizer.
 
 In ideally shaped rice, the internode lengths each decrease by half from the

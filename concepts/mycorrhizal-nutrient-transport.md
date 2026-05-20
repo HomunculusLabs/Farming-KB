@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, soil-biology, symbiosis]
-sources: []
+sources: ['geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-staycare-endobacteria-arbuscular-mycorrhizal-fungi-fungi-arbuscular-mycorrhizal-fungi-in-the-environment-fungal-biodiversity-tropical-forest-restoration-hydrocarbon-remediation-the-environment.md']
 ---
 ## Mycorrhizal Nutrient Transport The physical movement of water, minerals, and carbon between mycorrhizal fungi and their host plants is the engine of the symbiosis. Understanding how nutrients cross the fungal-plant interface explains why mycorrhizal plants outperform non-mycorrhizal ones by orders of magnitude in nutrient acquisition. See [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi colonize a root cell, the plant's plasmalemma (cell membrane) envelops the invading hyphae, creating a narrow space called the interfacial apoplast. This interface is more acidic than the cytoplasm of either organism because it accumulates hydrogen ions (H+). The pH gradient and ion concentration differences drive [[diffusion-osmosis-and-active-transport-in-plants]] against concentration gradients
 - **Aquaporins** — facilitate water movement across membranes

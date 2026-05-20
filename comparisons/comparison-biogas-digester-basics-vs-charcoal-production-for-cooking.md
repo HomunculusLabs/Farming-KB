@@ -3,7 +3,7 @@ title: "Biogas Digester vs Charcoal Production for Cooking"
 tags: [comparison, biogas, charcoal, off-grid, energy, homesteading]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['https://www.sare.org/publications/goat-production']
 ---
 
 ## Biogas Digester vs Charcoal Production for Cooking

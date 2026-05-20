@@ -1,3 +1,17 @@
+---
+title: Permaculture Livestock Forage Systems
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags:
+  - animals
+  - forage
+  - pasture
+  - permaculture
+  - polyculture
+sources:
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
+---
 
 # Permaculture Livestock Forage Systems
 
@@ -66,17 +80,6 @@ Tagasaste is drilled with turnip for future sheep forage; seedling trees establi
 
 ## Related Concepts
 
-- permaculture livestock forage systems -- Rotational grazing and pasture management
+- permaculture livestock forage systems -- Rotational grazing and [[pasture-management]]
 - permaculture livestock forage systems -- Animal species in permaculture systems
 - [[permaculture-woody-mulch-systems]] -- Forage species that double as mulch producers
-## Forage Crop Selection
-
-Selecting appropriate forage crops depends on climate zone,
-soil conditions, and animal nutritional requirements. Common
-perennial forage species include alfalfa, clover, and chicory.
-Rotational grazing maximizes forage utilization while allowing
-adequate plant recovery periods between grazing events.
-
-## See Also
-- [[permaculture-designers-manual-animal-forage-systems]]
-- [[bee-forage-systems-permaculture-design]]

@@ -1,9 +1,17 @@
+---
+title: DMT Reference
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [chemistry, pharmacology, psychopharmacology, neuroscience, biochemistry, psychedelics, entheogen, safety, ethnobotany, species]
+sources: []
+---
 
 # N,N-Dimethyltryptamine (DMT) Reference
 
 ## Overview
 
-N,N-Dimethyltryptamine (DMT) is a naturally occurring [[tryptamine]] compound found in many plants, animals, and fungi. It is a potent serotonergic psychedelic and one of the most widely distributed psychoactive compounds in nature. DMT has been used for centuries in indigenous South American ayahuasca ceremonies and has become the subject of intensive clinical research for its potential therapeutic applications. This page covers chemistry, natural sources, pharmacology, effects, dosage, and safety.
+N,N-[[dimethyltryptamine]] (DMT) is a naturally occurring tryptamine compound found in many plants, animals, and fungi. It is a potent serotonergic psychedelic and one of the most widely distributed psychoactive compounds in nature. DMT has been used for centuries in indigenous South American ayahuasca ceremonies and has become the subject of intensive clinical research for its potential therapeutic applications. This page covers chemistry, natural sources, pharmacology, effects, dosage, and safety.
 
 ## Chemistry
 

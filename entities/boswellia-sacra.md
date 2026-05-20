@@ -2,7 +2,7 @@
 title: "Boswellia Sacra"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 Leaves are alternate, imparipinnate, with 7 to 15 pairs of opposite

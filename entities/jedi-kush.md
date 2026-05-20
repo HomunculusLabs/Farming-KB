@@ -2,7 +2,7 @@
 title: "Jedi Kush"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 - **[[sfv-og]] Kush** (pollen parent): An indica-dominant phenotype of OG Kush

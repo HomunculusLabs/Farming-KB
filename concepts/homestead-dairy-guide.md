@@ -1,3 +1,11 @@
+---
+title: Homestead Dairy Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, goats, animal-husbandry, food, recipe, preparation, processing, homestead-crafts, livestock-health]
+sources: []
+---
 
 # Homestead Dairy Guide
 
@@ -172,5 +180,3 @@ Goat milk does not separate cream as readily as cow milk due to smaller fat glob
 - [[homesteading-income-streams]] -- goat dairy products as a revenue stream
 - animal husbandry for general goat care principles
 - [[food-fermentation-guide]] -- cheese and yogurt are both fermented dairy products
-## See Also
-- [[homestead-insurance-guide]]

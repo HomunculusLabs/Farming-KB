@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, composting, soil-health, microbiology, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/jeavons-john-how-to-grow-more-vegetables.md']
 type: query
 ---
 

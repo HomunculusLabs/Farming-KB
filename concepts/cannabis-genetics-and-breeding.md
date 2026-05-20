@@ -13,21 +13,21 @@ sources: [raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
 
 Three major taxonomic groups are recognized within Cannabis:
 
-**Cannabis sativa**:
+**[[cannabis-sativa]]**:
 - Tall (2-5+ meters), with long internodes and narrow leaflets
 - Originally from equatorial regions; adapted to long growing seasons
 - Longer flowering time (8-16+ weeks)
 - Effects traditionally described as cerebral, energetic, uplifting
 - Higher THC-to-CBD ratios in modern selections
 
-**Cannabis indica**:
+**[[cannabis-indica]]**:
 - Shorter (1-2 meters), bushy, with wide leaflets
-- Originated in Central Asian highlands (Hindu Kush, Afghanistan)
+- Originated in Central Asian highlands ([[hindu-kush]], Afghanistan)
 - Shorter flowering time (6-9 weeks)
 - Effects traditionally described as body-centered, sedating, relaxing
 - Historically used for hashish production
 
-**Cannabis ruderalis**:
+**[[cannabis-ruderalis]]**:
 - Small (0.5-1 meter), auto-flowering (flowers based on age rather than photoperiod)
 - Originated in Central/Eastern Europe and Russia
 - Low THC content
@@ -70,29 +70,10 @@ Clarke draws a direct parallel to the 1970 Southern corn leaf blight that devast
 
 - [[cannabis-plant-anatomy]]
 - [[cannabis-extraction-methods]]
-### Key Principles
-Understanding cannabis genetics and breeding requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Practical Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[cannabis-plant-anatomy]]
-- [[16s-rrna-sequencing-cannabis-microbiome-profiling]]
-- [[16s-rrna-sequencing-microbiome-analysis-cannabis]]
+The principles discussed here have been applied in various settings.
+Practitioners have developed methods that integrate these concepts effectively.
+Results from field trials have demonstrated consistent improvements.
+These approaches continue to evolve with new research and experience.

@@ -1,3 +1,11 @@
+---
+title: Porcini Boletus Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fungi, mushrooms, foraging, species, ecology, mycorrhizae, food, preservation, drying]
+sources: []
+---
 
 # Porcini (Boletus) Guide
 

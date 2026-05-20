@@ -4,7 +4,8 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [soil-microbiology, nitrogen-fixation, soil-biology, biofertilizer]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 ## Azotobacter — Free-Living Nitrogen-Fixing Bacteria
 

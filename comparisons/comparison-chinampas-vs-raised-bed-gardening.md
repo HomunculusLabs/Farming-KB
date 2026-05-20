@@ -3,7 +3,7 @@ title: "raised-bed-gardening"
 tags: [comparison, growing-methods, intensive-gardening, water-management, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md']
 ---
 
 ## Chinampas vs Raised Bed Gardening

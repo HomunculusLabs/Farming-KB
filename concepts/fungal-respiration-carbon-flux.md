@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: ['~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
 ---
 ## Fungal Respiration and Carbon Flux
 

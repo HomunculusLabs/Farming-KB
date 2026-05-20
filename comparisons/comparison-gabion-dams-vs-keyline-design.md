@@ -3,7 +3,7 @@ title: "Gabion Dams vs Keyline Design"
 tags: [comparison, water-management, earthworks, permaculture, erosion-control]
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['water-for-every-farmer']
 ---
 
 ## Gabion Dams vs Keyline Design

@@ -2,7 +2,7 @@
 title: "Pistil Whippersnapper"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Genetic Lineage

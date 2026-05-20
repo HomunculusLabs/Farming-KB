@@ -3,7 +3,7 @@ title: "Cordyceps vs Reishi Cultivation"
 tags: [comparison, cordyceps, reishi, medicinal-mushrooms, mycology]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Cordyceps vs Reishi Cultivation

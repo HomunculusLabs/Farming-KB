@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 ## Macrofungi Seasonality and Year-to-Year Variation
 

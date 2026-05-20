@@ -3,7 +3,7 @@ title: Comparison Hempcrete Vs Cordwood Construction
 tags: [comparison, hempcrete, cordwood, natural-building, sustainable-construction]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Hempcrete vs Cordwood Construction

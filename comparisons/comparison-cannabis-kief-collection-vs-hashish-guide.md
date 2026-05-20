@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, kief, hashish, concentrates, extraction]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/a-golden-guide-to-hallucinogenic-plants.md']
 type: comparison
 ---
 

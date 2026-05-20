@@ -3,7 +3,7 @@ title: "Echinacea vs Tulsi"
 tags: [comparison, medicinal-herbs, immunomodulatory, adaptogens, herbalism]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Echinacea vs Tulsi

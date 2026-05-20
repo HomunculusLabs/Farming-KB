@@ -3,7 +3,7 @@ title: Comparison Pig Husbandry Vs Goat Husbandry
 tags: [comparison, livestock, animal-husbandry, homesteading]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['https://www.sare.org/publications/goat-production']
 ---
 
 ## Pig Husbandry vs Goat Husbandry

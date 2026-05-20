@@ -3,7 +3,7 @@ title: "Azomite vs Rock Dust"
 tags: [comparison, soil-amendments, minerals, remineralization, fertility]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['~/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md']
 ---
 
 ## Azomite vs Rock Dust

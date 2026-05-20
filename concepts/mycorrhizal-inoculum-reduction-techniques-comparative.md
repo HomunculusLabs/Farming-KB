@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: mycology, soil-biology, symbiosis]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 ## Mycorrhizal Inoculum Reduction Techniques
 

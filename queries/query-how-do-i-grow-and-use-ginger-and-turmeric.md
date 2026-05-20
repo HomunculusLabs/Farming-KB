@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Ginger and Turmeric?"
 tags: [query, growing, herbs, spices, medicinal-plants]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow and Use Ginger and Turmeric?

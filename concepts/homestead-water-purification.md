@@ -1,3 +1,12 @@
+---
+title: Homestead Water Purification
+created: 2026-04-12
+updated: 2026-04-13
+type: concept
+tags: [water, homesteading, off-grid, filtration, sustainability, health]
+sources: []
+---
+
 # Homestead Water Purification
 
 Reliable water purification is essential for any [[off-grid-waste-management|off-grid]] or [[homesteading|rural]] [[homesteading|homestead]]. Whether your water comes from a well, spring, creek, or rainwater catchment, it may contain bacteria, viruses, parasites, chemicals, heavy metals, or sediment. A multi-barrier approach using complementary treatment methods ensures safe drinking water.
@@ -140,5 +149,52 @@ Before selecting a purification system, test your water:
 **How they work:** A container filled with sand and gravel supports a biological layer (schmutzdecke) that breaks down pathogens as water slowly percolates through.
 
 **Pros:**
-## See Also
-- [[water-purification-contaminants]]
+- No electricity, no chemicals
+- Can be built from local materials (concrete, sand, gravel)
+- Long-lasting with minimal maintenance
+- Proven technology (used in developing countries worldwide)
+
+**Cons:**
+- Slow flow rate (0.5-1 liter per minute)
+- Requires consistent use to maintain biological layer
+- Does not remove viruses effectively
+- Requires periodic cleaning
+
+## System Design: Multi-Barrier Approach
+
+No single method addresses all contaminants. A complete homestead water system layers multiple treatments:
+
+### Recommended System for Well Water
+
+1. **Sediment filter** (5-20 micron): Removes sand, silt, rust
+2. **Carbon filter**: Removes chlorine, VOCs, pesticides, bad taste
+3. **UV purifier**: Kills bacteria and viruses
+4. **Optional RO at kitchen tap**: For drinking/cooking water only
+
+### Recommended System for Surface Water (Creek/Spring)
+
+1. **Coarse screen**: Removes leaves, debris, large particles
+2. **Sediment filter** (5-20 micron): Removes fine particles
+3. **Ceramic filter or UV**: Kills/removes pathogens
+4. **Carbon filter**: Removes chemicals and improves taste
+5. **Boil or treat**: As backup before drinking
+
+### Rainwater Purification
+
+1. **First-flush diverter**: Discards the first rain that washes the roof
+2. **Mesh screen**: Filters debris from downspouts
+3. **Storage tank**: Dark, opaque tank to prevent algae growth
+4. **Ceramic filter + UV**: For drinking water point-of-use
+5. **Boil before drinking** as additional safety
+
+## Well Water Treatment
+
+### Common Well Problems and Solutions
+
+- **Bacteria**: Shock chlorinate the well (pour chlorine solution, let sit 12-24 hours, flush)
+- **Iron**: Oxidizing filter (greensand or birm) removes iron
+- **Hard water**: Water softener (ion exchange) or magnetic conditioner
+- **Low pH (acidic)**: Acid neutralizer (calcite or corosex media)
+- **Hydrogen sulfide (rotten egg smell)**: Carbon filter or aeration system
+- **Sediment**: Sediment filter cartridge (replaceable)
+## Related

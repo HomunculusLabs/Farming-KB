@@ -3,7 +3,7 @@ title: "Charcoal Production for Cooking vs Rocket Stove Design"
 tags: [comparison, homesteading, off-grid, cooking, energy]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['https://www.sare.org/publications/goat-production']
 ---
 
 ## Charcoal Production for Cooking vs Rocket Stove Design

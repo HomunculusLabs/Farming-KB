@@ -5,7 +5,8 @@ tags: [organometallic-chemistry, catalysis, inorganic-chemistry, pericyclic-reac
 created: 2026-05-03
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
 ## Overview

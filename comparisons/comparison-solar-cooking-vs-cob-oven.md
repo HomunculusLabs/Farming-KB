@@ -3,7 +3,7 @@ title: "Solar Cooking vs Cob Oven"
 tags: [comparison, cooking, off-grid, renewable-energy]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/unknown-mushrooms-fungi-from-around-the-world.md']
 ---
 
 ## Solar Cooking vs Cob Oven

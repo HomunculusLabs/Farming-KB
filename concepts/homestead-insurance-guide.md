@@ -1,3 +1,11 @@
+---
+title: Homestead Insurance Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, economics, regulation, law, business, safety]
+sources: []
+---
 
 # Homestead Insurance Guide
 
@@ -140,5 +148,3 @@ Insurance protects homestead businesses from financial catastrophe. As a farm or
 | Umbrella policy | $200-500 | Recommended |
 
 Insurance costs should be factored into [[homestead-scale-assessment]] and are a legitimate deduction for [[homestead-financial-planning]].
-## See Also
-- [[homestead-dairy-guide]]

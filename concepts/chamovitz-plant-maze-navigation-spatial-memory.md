@@ -2,7 +2,8 @@
 title: "Chamovitz Plant Maze Navigation Spatial Memory"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md"
 ---
 
 The universality of [[gravitropism]] across the plant kingdom underscores its

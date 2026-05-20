@@ -4,7 +4,8 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [soil-physics, water-infiltration, hydrology, irrigation]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
 ## Water Infiltration and Soil Hydraulic Conductivity

@@ -4,7 +4,7 @@ created: 2026-05-03
 updated: 2026-05-03
 type: concept
 tags: [science, physics, systems-thinking]
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Information Entropy

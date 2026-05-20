@@ -19,7 +19,7 @@ form. Nature should not be taken apart. The moment it is broken down, parts
 cease being parts and the whole is no longer a whole. When collected together,
 all the parts do not make a whole.
 
-The instant he begins to ponder over the factors of [[det]]
+The instant he begins to ponder over the factors of det]]
 - [[fukuoka-textdoc-seeing-nature-wholistically-fuji-hokusai-analysis]]
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
 

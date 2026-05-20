@@ -3,7 +3,7 @@ title: "Chamomile vs St. John's Wort"
 tags: [comparison, medicinal-herbs, nervines, cultivation, herbalism]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/jeavons-john-how-to-grow-more-vegetables.md']
 ---
 
 ## Chamomile vs St. John's Wort

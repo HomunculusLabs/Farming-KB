@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mycology, mycorrhizae, symbiosis, ecology, biology, soil, plant-systems, species-profiles, agriculture]
-sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
+sources: []
 ---
 
 # Fungal Symbiosis Types

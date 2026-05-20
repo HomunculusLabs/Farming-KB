@@ -2,7 +2,7 @@
 title: "Coriandrum Sativum"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 Cilantro prefers full sun to partial shade and well-drained, loamy soils

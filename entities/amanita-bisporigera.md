@@ -20,7 +20,7 @@ taxonomy:
   section: Phalloideae
 edibility: deadly poisonous
 tags: [profile]
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Amanita bisporigera

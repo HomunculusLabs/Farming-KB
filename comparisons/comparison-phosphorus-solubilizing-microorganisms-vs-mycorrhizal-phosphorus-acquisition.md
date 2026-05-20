@@ -10,7 +10,7 @@ type: comparison
 
 Phosphorus-solubilizing microorganisms employ three principal biochemical strategies:
 
-**[[mycorrhizal-phosphatase-activity-elf97-detection]] is strongly induced under low-P conditions and suppressed by adequate available P.
+**mycorrhizal-phosphatase-activity-elf97-detection]] is strongly induced under low-P conditions and suppressed by adequate available P.
 
 **Inorganic acid production** by nitrifying and sulfur-oxidizing bacteria (e.g., *Thiobacillus*, *Nitrosomonas*) generates nitric and sulfuric acids that solubilize phosphate minerals as a byproduct of their primary metabolism. This mechanism is slower but provides sustained P solubilization in amended soils.
 

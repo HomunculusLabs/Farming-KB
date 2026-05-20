@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [mycology, mushrooms, cultivation]
-sources: []
+sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 ---
 ## Mushroom Spore Catapult Mechanism Updated: 2026-2026-04-18 The spore catapult is the high-speed launch mechanism that ejects basidiospores from the gills, pores, or spines of mushroom fruiting bodies. It is driven by the mushroom-evaporative-cooling of the mushroom, which creates supersaturated conditions between the gills. ## Gasteromycete Contrast [[fungal-spore-biology]] - Spore structure and diversity
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

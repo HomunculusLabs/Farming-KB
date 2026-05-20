@@ -3,7 +3,7 @@ title: "How and When Should I Prune My Fruit Trees and Bushes?"
 tags: [query, pruning, fruit-trees, orchard, permaculture]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## How and When Should I Prune My Fruit Trees and Bushes?

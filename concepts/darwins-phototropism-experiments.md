@@ -4,7 +4,8 @@ created: 2026-05-02
 updated: 2026-05-08
 type: concept
 tags: [plant-biology, phototropism, history-of-science, darwin]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 
 ## Darwin's Phototropism Experiments

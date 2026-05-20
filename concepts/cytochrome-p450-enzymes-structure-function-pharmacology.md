@@ -5,7 +5,8 @@ updated: 2026-05-06
 aliases: [CYP450, cytochrome P450, CYP enzymes, cytochrome-p450-enzymes-drug-metabolism enzymes]
 tags: [biochemistry, pharmacology, drug-metabolism, enzymology, toxicology]
 type: concept
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 ## Cytochrome P450 Superfamily Overview
 

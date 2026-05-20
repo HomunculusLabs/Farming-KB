@@ -3,7 +3,7 @@ title: "What Is Sclerotinia White Mold and How Do I Manage It Organically?"
 tags: [query, sclerotinia, white-mold, plant-disease, fungal-pathogen, organic-disease-management]
 date: 2026-05-20
 updated: 2026-05-20
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 # What Is Sclerotinia White Mold and How Do I Manage It Organically?

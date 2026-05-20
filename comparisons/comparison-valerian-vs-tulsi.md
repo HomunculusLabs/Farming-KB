@@ -3,7 +3,7 @@ title: "Valerian vs Tulsi"
 tags: [comparison, medicinal-herbs, adaptogens, nervines, sedatives]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Valerian vs Tulsi

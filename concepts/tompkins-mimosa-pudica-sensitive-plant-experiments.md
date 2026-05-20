@@ -2,7 +2,8 @@
 title: "Tompkins Mimosa Pudica Sensitive Plant Experiments"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
 ## Byrd's Instrumentation Experiments

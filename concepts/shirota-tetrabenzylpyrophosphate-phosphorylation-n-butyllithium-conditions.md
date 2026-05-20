@@ -23,7 +23,7 @@ for several reasons:
   processing steps while remaining amenable to final deprotection
 - **Purification difficulty**: Psilocybin has high polarity, making
   chromatographic purification difficult
-- **Side reactions**: Several [[decomposition]] products or failed to consume the [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]] using a
+- **Side reactions**: Several decomposition]] products or failed to consume the [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]] using a
 literature procedure with modifications, achieving almost 100% yield.
 This reagent is the tetraester of pyrophosphoric acid with benzyl
 groups, serving as a benzyl phosphate donor.

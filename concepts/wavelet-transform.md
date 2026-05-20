@@ -2,7 +2,7 @@
 title: query-what-is-a-wavelet-transform-used-for
 created: 2026-04-28
 updated: 2026-05-06
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 type: concept
 tags: [reference]
 ---

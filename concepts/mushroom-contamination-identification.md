@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, troubleshooting, pathogens, safety, microbes, bacteria]
-sources: [raw/papers/mycelium-running-stamets.md]
+sources: []
 ---
 
 ## Overview

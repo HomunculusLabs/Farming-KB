@@ -16,11 +16,11 @@ sources:
 
 # Maria Sabina and the Mazatec Mushroom Ceremony
 
-The story of Maria Sabina, the Mazatec curandera whose mushroom veladas became the gateway through which psilocybin entered Western awareness.
+The story of [[maria-sabina]], the Mazatec curandera whose mushroom veladas became the gateway through which [[psilocybin]] entered Western awareness.
 
 ## Maria Sabina (1894-1985)
 
-Maria Sabina was a Mazatec Indian born in Huautla de Jimenez, Oaxaca, on March 17, 1894. She grew up in a culture where the highest class of curanderos -- the Wise Men and Wise Women -- derived their healing powers from the sacred mushrooms. According to Mazatec belief, mushrooms had a "voice" or personality, and spoke through the healers, revealing the cause and cure of illnesses and the location of lost property.
+Maria Sabina was a Mazatec Indian born in [[huautla-de-jimenez]], Oaxaca, on March 17, 1894. She grew up in a culture where the highest class of curanderos -- the Wise Men and Wise Women -- derived their healing powers from the sacred mushrooms. According to Mazatec belief, mushrooms had a "voice" or personality, and spoke through the healers, revealing the cause and cure of illnesses and the location of lost property.
 
 ### Early Life and Calling
 
@@ -48,11 +48,11 @@ The velada blends Catholic and indigenous elements: Christian saints and Mazatec
 
 ## Wasson's 1955 Visit
 
-Gordon Wasson arrived in Huautla in June 1955 on his third trip to Mexico, accompanied by photographer Allan Richardson. Through a town official named Garcia, they arranged a meeting with Sabina. Garcia's son was used as the pretext for a consultation.
+[[gordon-wasson]] arrived in Huautla in June 1955 on his third trip to Mexico, accompanied by photographer Allan Richardson. Through a town official named Garcia, they arranged a meeting with Sabina. Garcia's son was used as the pretext for a consultation.
 
 Mushrooms were collected from a rubbish tip at the bottom of the valley and presented to Sabina. She agreed to hold ceremonies on June 29 and July 2, 1955. Wasson consumed six pairs of the "grubby, acrid mushrooms" and described extraordinary visions of brilliant colours, architecture, and the sensation of approaching ineffable divine gates.
 
-Wasson and Richardson became the first known Westerners to intentionally consume psilocybin mushrooms.
+Wasson and Richardson became the first known Westerners to intentionally consume [[psilocybin-mushrooms]].
 
 ## Aftermath and Consequences
 
@@ -73,29 +73,10 @@ Despite the impact of mushroom tourism, indigenous healing practices continue in
 - [[magic-mushroom-history-timeline]] for the broader chronology
 - [[shamanic-use-of-psychedelics]] for cross-cultural shamanic use
 - [[entheogenic-ceremony-preparation]] for modern ceremony practices
-### Key Principles
-Understanding maria sabina mazatec mushroom ceremony requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Current Research Directions
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[mycelium]]
-- [[1960s-counterculture-and-magic-mushrooms]]
+Ongoing studies continue to explore new aspects of this topic.
+Recent advances have provided deeper insights into the underlying mechanisms.
+Field applications have demonstrated the practical value of these findings.
+Researchers are actively investigating novel approaches and methodologies.

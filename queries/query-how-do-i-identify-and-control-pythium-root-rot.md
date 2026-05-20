@@ -3,7 +3,7 @@ title: "How Do I Identify and Control Pythium Root Rot?"
 tags: [query, pythium, root-rot, damping-off, plant-pathology]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## How Do I Identify and Control Pythium Root Rot?

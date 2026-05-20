@@ -7,7 +7,7 @@ tags: [pihkal, phenethylamine, 2c-b-pihkal-entry-20 #9**
 ## Chemical Identity
 
 - **Full name:** Asymbescaline; 3,4-diethoxy-5-methoxyphenethylamine
-- **Class:** Phenethylamine ([[adverse-effects-and-harm-reduction-psilocybin|Effects]]
+- **Class:** Phenethylamine (adverse-effects-and-harm-reduction-psilocybin|Effects]]
 
 ### At 240 mg
 A pleasant and easy flow of day-dreaming thoughts, described as

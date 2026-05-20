@@ -3,7 +3,7 @@ title: "How Do I Grow Loquat in My Garden or Orchard?"
 tags: [query, loquat, subtropical-fruit, fruit-tree, orchard]
 date: 2026-05-18
 updated: 2026-05-18
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How Do I Grow Loquat in My Garden or Orchard?

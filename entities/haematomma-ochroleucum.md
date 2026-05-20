@@ -2,7 +2,7 @@
 title: "Haematomma Ochroleucum"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The species was historically used in [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] are consistent with the order Lecanorales.

@@ -3,7 +3,7 @@ title: "Turkey Tail vs Oyster Mushroom"
 tags: [comparison, medicinal-mushrooms, turkey-tail, oyster-mushroom, fungi]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 ---
 
 ## Turkey Tail vs Oyster Mushroom

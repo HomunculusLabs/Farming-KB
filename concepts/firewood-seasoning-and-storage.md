@@ -1,3 +1,11 @@
+---
+title: Firewood Seasoning and Storage
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, homestead-crafts, preparation, storage, tools]
+sources: []
+---
 
 # Firewood Seasoning and Storage
 
@@ -144,5 +152,3 @@ Once wood is seasoned, store it:
 
 - [[emergency-preparedness]] — Ensuring adequate firewood supply for winter heating backup
 - [[homesteading]] — Firewood as part of overall homestead self-sufficiency planning
-## See Also
-- [[growing-gourmet-culture-slant-preservation-cryogenic-storage]]

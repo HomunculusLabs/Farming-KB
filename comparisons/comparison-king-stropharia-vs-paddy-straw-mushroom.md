@@ -3,7 +3,7 @@ title: "King Stropharia vs Paddy Straw Mushroom"
 tags: [comparison, king-stropharia, paddy-straw-mushroom, mushroom-cultivation, outdoor-growing]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 ---
 
 ## King Stropharia vs Paddy Straw Mushroom

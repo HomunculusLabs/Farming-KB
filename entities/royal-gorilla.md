@@ -2,7 +2,7 @@
 title: "Royal Gorilla"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The strain is notable for its exceptionally high THC content (often exceeding

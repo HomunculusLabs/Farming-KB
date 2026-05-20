@@ -1,3 +1,11 @@
+---
+title: Mycoremediation of Plastics
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycoremediation, pollution, fungi, decomposition, mycology, ecology, environment, sustainability]
+sources: []
+---
 
 ## Overview
 
@@ -94,7 +102,7 @@ Fungi often degrade plastics more effectively when alternative carbon sources ar
 
 ### Waste Treatment
 - Landfill bioreactors inoculated with plastic-degrading fungi
-- Composting facilities processing biodegradable plastics alongside organic waste
+- [[composting]] facilities processing biodegradable plastics alongside organic waste
 - Industrial pre-treatment of plastic waste before recycling
 
 ### Environmental Cleanup
@@ -114,7 +122,6 @@ Fungi often degrade plastics more effectively when alternative carbon sources ar
 - Life cycle assessment comparing fungal degradation to conventional disposal methods
 
 ## See Also
-- [[organic-mushroom-farming-and-mycoremediation-overview]]
 
 - [[mycoremediation-of-oil-spills]] -- established fungal remediation of petroleum hydrocarbons
 - [[mycoremediation-of-heavy-metals]] -- fungal biosorption and immobilization of toxic metals

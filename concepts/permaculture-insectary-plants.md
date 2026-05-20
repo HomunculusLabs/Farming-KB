@@ -1,3 +1,17 @@
+---
+title: Permaculture Insectary Plants
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags:
+  - plants
+  - insects
+  - biological-control
+  - companion-planting
+  - permaculture
+sources:
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
+---
 
 # Permaculture Insectary Plants
 
@@ -78,30 +92,3 @@ Perennial insectary hedges along garden edges and between crop zones provide per
 - [[permaculture-livestock-forage-systems]] -- Including bees as pollinators and honey producers
 - [[permaculture-forestry-systems]] -- Insectary plants in the understory of food forests
 - [[permaculture-introduction-and-ethics]] -- The ethical basis for working with natural systems
-
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.

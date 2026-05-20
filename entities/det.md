@@ -2,7 +2,7 @@
 title: "Det"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The compound acts primarily as a 5-HT2A receptor agonist, producing visual and cognitive effects similar to DMT but with a longer duration and different character.

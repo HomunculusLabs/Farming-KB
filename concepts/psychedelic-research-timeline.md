@@ -1,3 +1,11 @@
+---
+title: Psychedelic Research Timeline
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [history, timeline, psychedelics, academia, psychopharmacology, entheogen-research, consciousness, counterculture]
+sources: []
+---
 
 # Psychedelic Research Timeline
 
@@ -42,7 +50,7 @@ Albert Hofmann isolates psilocybin and psilocin from [[psilocybe-mexicana]] mush
 Over 1,000 clinical papers are published, and approximately 40,000 patients receive psychedelic therapy. Key researchers include:
 
 - Humphry Osmond and Abram Hoffer — alcoholism treatment with LSD in Saskatchewan
-- Stanislav Grof — LSD psychotherapy for neuroses and terminal illness
+- [[stanislav-grof]] — LSD psychotherapy for neuroses and terminal illness
 - Eric Kast — LSD for pain and anxiety in cancer patients
 - Sidney Cohen — early safety and dose-response research
 
@@ -148,7 +156,6 @@ Clinical trials expand to include psilocybin for depression (COMPASS, Usona), DM
 | Robin Carhart-Harris | Imperial College research, REBUS model | 2010s-2020s |
 
 ## See Also
-- [[controlled-substances-act-and-psychedelic-research]]
 
 - [[psychedelic-therapy-current-research]] — current state of clinical research
 - [[harm-reduction-guide]] — modern harm reduction rooted in decades of research

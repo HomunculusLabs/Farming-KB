@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [water, conservation]
-sources: []
+sources: ['water-for-every-farmer']
 ---
 
 ## Water Activity and Osmophilic Fungal Media Preparation

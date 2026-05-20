@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [remediation, environment]
-sources: []
+sources: ['https://www.sare.org/publications/goat-production']
 ---
 ## Ligninolytic Enzyme Production for Bioremediation
 

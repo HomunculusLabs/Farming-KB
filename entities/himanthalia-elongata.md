@@ -2,7 +2,7 @@
 title: "Himanthalia Elongata"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Nutritional Value

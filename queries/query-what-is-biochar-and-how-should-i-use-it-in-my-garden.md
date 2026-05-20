@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: permaculture, soil-health, organic-farming, biochar, carbon-sequestration]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 type: query
 ---
 ## What Is Biochar and How Should I Use It in My Garden?

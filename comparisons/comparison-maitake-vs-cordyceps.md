@@ -3,7 +3,7 @@ title: "Maitake vs Cordyceps"
 tags: [comparison, maitake, cordyceps, medicinal-mushrooms, cultivation]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Maitake vs Cordyceps

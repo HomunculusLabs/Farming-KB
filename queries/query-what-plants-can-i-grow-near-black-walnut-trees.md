@@ -3,7 +3,7 @@ title: "What Plants Can I Grow Near Black Walnut Trees?"
 tags: [query, black-walnut, juglone, allelopathy, companion-planting]
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## What Plants Can I Grow Near Black Walnut Trees?

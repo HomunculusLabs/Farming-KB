@@ -3,7 +3,7 @@ title: "Maitake vs Shiitake Cultivation"
 tags: [comparison, maitake, shiitake, mushroom-cultivation]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Maitake vs Shiitake Cultivation

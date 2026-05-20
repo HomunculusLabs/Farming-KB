@@ -1,3 +1,11 @@
+---
+title: Charcoal Production for Cooking
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, off-grid, sustainability, processing, ecology, carbon, energy]
+sources: []
+---
 
 ## Overview
 

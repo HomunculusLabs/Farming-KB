@@ -3,7 +3,7 @@ title: Comparison Earthship Vs Cordwood Construction
 tags: [comparison, natural-building, earthship, cordwood-construction, off-grid]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Earthship vs Cordwood Construction

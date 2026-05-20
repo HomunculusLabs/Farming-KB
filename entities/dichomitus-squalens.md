@@ -2,7 +2,7 @@
 title: "Dichomitus Squalens"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 Its bio[[fungal-degradation-of-pcbs-by-white-rot-fungi]] recalcitrant pollutants.

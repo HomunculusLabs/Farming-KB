@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Phytoextraction Mechanisms and Applications

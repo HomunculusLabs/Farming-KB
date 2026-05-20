@@ -1,3 +1,11 @@
+---
+title: Pollinator Gardening
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [plants, gardening, ecology, insects, permaculture, plant-systems, cultivation]
+sources: []
+---
 
 # Pollinator Gardening
 

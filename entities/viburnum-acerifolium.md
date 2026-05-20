@@ -2,7 +2,7 @@
 title: "Viburnum Acerifolium"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The species typically grows 1.5 to 2 meters tall and forms loose, open thickets

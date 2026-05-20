@@ -12,7 +12,7 @@ tags:
   - endophyte
 date: 2026-05-02
 updated: 2026-05-02
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Beauveria

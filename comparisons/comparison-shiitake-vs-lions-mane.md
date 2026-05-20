@@ -3,7 +3,7 @@ title: "Shiitake vs Lion's Mane"
 tags: [comparison, shiitake, lions-mane, medicinal-mushrooms, cultivation]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## Shiitake vs Lion's Mane

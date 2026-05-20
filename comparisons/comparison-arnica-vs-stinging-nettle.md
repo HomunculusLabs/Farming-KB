@@ -3,7 +3,7 @@ title: "Comparison Arnica vs Stinging Nettle"
 tags: [comparison, medicinal-herbs, anti-inflammatory, herbal-remedies]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Arnica vs Stinging Nettle

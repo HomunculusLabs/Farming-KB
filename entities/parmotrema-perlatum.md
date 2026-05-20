@@ -2,7 +2,7 @@
 title: "Parmotrema Perlatum"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 Elevation range extends from sea level to approximately 1500 m in montane habitats.

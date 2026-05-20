@@ -3,7 +3,7 @@ title: "How do I use Elaeagnus species in my permaculture system?"
 tags: [query, permaculture, nitrogen-fixing-shrubs, elaeagnus, food-forest]
 date: 2026-05-20
 updated: 2026-05-20
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 # How do I use Elaeagnus species in my permaculture system?

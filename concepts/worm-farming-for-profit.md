@@ -1,3 +1,11 @@
+---
+title: Worm Farming for Profit
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, compost, composting, economics, business, cultivation, biology, nutrients]
+sources: []
+---
 
 # Worm Farming for Profit
 
@@ -86,6 +94,6 @@ Check local ordinances before scaling. Some areas regulate worm farming as agric
 
 ## Related Concepts
 
-- [[aquaponics]] -- worms can live in aquaponic grow beds
+- aquaponics guide -- worms can live in aquaponic grow beds
 - [[homesteading-income-streams]] -- vermicomposting fits into a diversified homestead income plan
 - [[medicinal-herb-growing]] -- castings are excellent fertilizer for herb production

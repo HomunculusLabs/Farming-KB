@@ -1,3 +1,11 @@
+---
+title: Composting Toilet Systems
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, off-grid, water, composting, sustainability, construction]
+sources: []
+---
 
 # Composting Toilet Systems
 
@@ -177,5 +185,3 @@ A permanent installation with a larger composting chamber:
 
 For complementary off-grid water and sanitation infrastructure, see
 [[well-drilling-and-maintenance]] and [[rainwater-harvesting-systems]].
-## See Also
-- [[query-how-do-i-build-and-use-a-composting-toilet-system]]

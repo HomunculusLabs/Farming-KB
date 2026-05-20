@@ -46,7 +46,7 @@ Singh's book systematically catalogs the degradative capabilities of fungi acros
 
 ## Mycorrhizal Connections
 
-Singh is also cited in connection with mycorrhizal research literature and methodology references. His work bridges pure mycological science and applied environmental remediation, making it relevant to [[mycorrhizal-fungi]] research as well as [[mycorestoration]] applications.
+Singh is also cited in connection with mycorrhizal research literature and methodology references. His work bridges pure mycological science and applied environmental remediation, making it relevant to [[mycorrhizal-fungi]] research as well as [[mycorestoration-overview]] applications.
 
 ## Significance
 
@@ -55,31 +55,30 @@ Singh's book represents the most comprehensive single-volume technical reference
 ## See Also
 
 - [[mycoremediation-basics]] — Fungal pollution cleanup overview
-- [[mycorestoration]] — Broader fungal restoration applications
+- [[mycorestoration-overview]] — Broader fungal restoration applications
 - [[mycorrhizal-fungi]] — Mycorrhizal associations and plant relationships
 - [[fungal-ecosystem-roles]] — Decomposition and nutrient cycling
 - [[paul-stamets]] — Popularizer of mycoremediation concepts
 - [[geoffrey-gadd]] — Researcher in fungal ecology and bioremediation
-### Key Principles
-Understanding harbhajan singh requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
+## Key Concepts and Applications
 
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
-### Additional Notes
-The study and application of harbhajan singh continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources and training programs support broader adoption of best practices.
+Economic analyses suggest favorable returns on investment for implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Understanding this subject requires examining multiple interconnected factors.

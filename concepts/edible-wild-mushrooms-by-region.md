@@ -1,3 +1,11 @@
+---
+title: Edible Wild Mushrooms by Region
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [foraging, mushrooms, fungi, species, distribution, safety, ecology, foraging, season-extension]
+sources: []
+---
 
 ## Overview
 

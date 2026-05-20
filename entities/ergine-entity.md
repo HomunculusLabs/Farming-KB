@@ -2,7 +2,7 @@
 title: "Ergine Entity"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
 ---
 
 Ergine is a structural analog of LSD, with an amide group in place of

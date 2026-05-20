@@ -2,7 +2,7 @@
 title: "Oplopanax Horridus"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species occupies a central role in the ethnobotany of virtually every Indigenous

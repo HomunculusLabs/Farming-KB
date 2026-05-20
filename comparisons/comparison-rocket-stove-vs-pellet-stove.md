@@ -3,7 +3,7 @@ title: "comparison-rocket-stove-vs-masonry-heater vs Pellet Stove"
 tags: [comparison, heating, homesteading, biomass, energy]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Rocket Stove vs Pellet Stove

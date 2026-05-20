@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, mycology, plant-biology, mycorrhizal, ecology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/gardening-without-work-ruth-stout.md']
 type: query
 ---
 

@@ -3,7 +3,7 @@ title: "How Do I Manage Root-Knot and Other Plant-Parasitic Nematodes in My Gard
 tags: [query, nematodes, plant-parasites, root-knot, soil-pests, ipm]
 date: 2026-05-20
 updated: 2026-05-20
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 # How Do I Manage Root-Knot and Other Plant-Parasitic Nematodes in My Garden?

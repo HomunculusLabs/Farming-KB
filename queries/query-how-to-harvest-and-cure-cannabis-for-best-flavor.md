@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, cannabis, harvest, curing, post-harvest, quality]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/eliot-coleman-winter-harvest-handbook.md']
 type: query
 ---
 

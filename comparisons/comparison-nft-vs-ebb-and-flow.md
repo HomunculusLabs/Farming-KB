@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, hydroponics, growing-methods, cannabis]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/laminar-flow-hood-construction-1.md']
 type: comparison
 ---
 

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, compost, vermicompost, soil-biology]
 date: 2026-05-02
 updated: 2026-05-02
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md']
 type: comparison
 ---
 

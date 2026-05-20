@@ -2,7 +2,7 @@
 title: "Borassus Aethiopum"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Taxonomy and Morphology

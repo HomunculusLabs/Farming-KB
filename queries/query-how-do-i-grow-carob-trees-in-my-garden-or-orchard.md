@@ -3,7 +3,7 @@ title: "How Do I Grow Carob Trees in My Garden or Orchard?"
 tags: [query, carob, drought-tolerant, mediterranean, fruit-trees]
 date: 2026-05-18
 updated: 2026-05-18
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How Do I Grow Carob Trees in My Garden or Orchard?

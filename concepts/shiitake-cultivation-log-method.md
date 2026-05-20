@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultiv
 
 # Shiitake Cultivation - Log Method
 
-Shiitake (Lentinula edodes) has been cultivated on hardwood logs for centuries in Asia. The log method remains one of the most reliable and low-maintenance approaches to growing this prized mushroom.
+Shiitake ([[lentinula-edodes]]) has been cultivated on hardwood logs for centuries in Asia. The log method remains one of the most reliable and low-maintenance approaches to growing this prized mushroom.
 
 ## Selecting Logs
 
@@ -24,7 +24,7 @@ Hardwood logs are essential. Oak (especially white oak) is the traditional and p
 
 ### Using Sawdust Spawn
 1. Drill holes 1 inch deep, spaced 6 inches apart in a diamond pattern around the log
-2. Fill each hole with sawdust spawn
+2. Fill each hole with [[sawdust-spawn]]
 3. Seal with melted wax (cheese wax, beeswax, or specialized sealing wax)
 4. Waxing prevents desiccation and protects against contaminants
 
@@ -61,7 +61,7 @@ A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 
 - Low startup cost (logs are free or cheap; minimal equipment needed)
 - Low maintenance after inoculation
 - Produces high-quality, thick-capped mushrooms preferred by chefs
-- No sterilization required (wax sealing prevents contamination)
+- No [[sterilization]] required (wax sealing prevents contamination)
 - Logs can be integrated into garden landscapes
 
 ## See Also
@@ -70,29 +70,10 @@ A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 
 - [[oyster-mushroom-cultivation]]
 - [[mushroom-cultivation-grain-spawn]]
 - [[mushroom-cultivation-bulk-substrates]]
-### Key Principles
-Understanding shiitake cultivation log method requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Practical Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[agar-culture-technique]]
-- [[grain-spawn-preparation]]
+The principles discussed here have been applied in various settings.
+Practitioners have developed methods that integrate these concepts effectively.
+Results from field trials have demonstrated consistent improvements.
+These approaches continue to evolve with new research and experience.

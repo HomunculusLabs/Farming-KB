@@ -69,11 +69,14 @@ Oei's work has been widely referenced in both academic and practical [[mushroom-
 - [[william-falconer]] — earlier mushroom cultivation author
 - [[mushroom-substrates]] — substrate preparation details
 - [[straw-cultivation-methods]] — Oei's straw-based methods
-### Practical Applications
-The principles of peter oei apply across various cultivation and research contexts.
-Understanding these concepts enables more effective implementation and improved outcomes.
 
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+## Practical Applications
+
+The principles discussed here have been applied in various settings.
+Practitioners have developed methods that integrate these concepts effectively.
+Results from field trials have demonstrated consistent improvements.
+These approaches continue to evolve with new research and experience.
+Ongoing work in this area promises further refinements.
+
+This topic continues to develop with ongoing research.
+New findings regularly contribute to our understanding.

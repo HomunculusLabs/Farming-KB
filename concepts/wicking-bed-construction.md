@@ -1,3 +1,11 @@
+---
+title: Wicking Bed Construction
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [water-management, gardening, permaculture, sustainability, construction]
+sources: []
+---
 
 # Wicking Bed Construction
 

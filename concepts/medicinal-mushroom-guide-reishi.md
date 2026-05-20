@@ -1,3 +1,11 @@
+---
+title: Reishi (Ganoderma lucidum) — Medicinal Mushroom Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, species-profiles, pharmacology]
+sources: []
+---
 
 # Reishi (Ganoderma lucidum)
 

@@ -1,3 +1,11 @@
+---
+title: Turkey Tail (Trametes versicolor)
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mushrooms, fungi, mycology, medicine, health, biology, species-profiles, ecology, biochemistry]
+sources: []
+---
 
 # Turkey Tail (Trametes versicolor)
 

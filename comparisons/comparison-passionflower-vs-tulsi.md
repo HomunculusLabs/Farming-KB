@@ -3,7 +3,7 @@ title: "Passionflower vs Tulsi"
 tags: [comparison, medicinal-herbs, nervine, adaptogen, herbalism]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/laminar-flow-hood-construction-1.md']
 ---
 
 ## Passionflower vs Tulsi

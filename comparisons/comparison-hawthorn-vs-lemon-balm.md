@@ -3,7 +3,7 @@ title: "Hawthorn vs Lemon Balm"
 tags: [comparison, hawthorn, lemon-balm, medicinal-herbs, herbal-medicine]
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## Hawthorn vs Lemon Balm

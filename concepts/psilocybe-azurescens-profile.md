@@ -1,3 +1,12 @@
+---
+title: Psilocybe azurescens Profile
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags: [species-profiles, species-identification, mycology, psilocybin, potency, distribution, coastal, temperate]
+sources:
+  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+---
 
 # Psilocybe azurescens Profile
 
@@ -58,30 +67,16 @@ After six months of storage, analyses revealed that this species retained most o
 
 - Psilocybe cyanescens -- similar but smaller, with characteristically wavy cap margin
 - Psilocybe semilanceata -- shares high baeocystin content
-- Psilocybe subaeruginosa, Psilocybe serbica, Psilocybe venenata
-### Key Principles
-Understanding psilocybe azurescens profile requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
+- [[psilocybe-subaeruginosa]], Psilocybe serbica, Psilocybe venenata
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Practical Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
+The principles discussed here have been applied in various settings.
+Practitioners have developed methods that integrate these concepts effectively.
+Results from field trials have demonstrated consistent improvements.
+These approaches continue to evolve with new research and experience.
+Ongoing work in this area promises further refinements.
+Researchers and practitioners collaborate to advance the field.
 
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+This topic continues to develop with ongoing research.
+New findings regularly contribute to our understanding.

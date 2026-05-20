@@ -3,7 +3,7 @@ title: "How Does Square Foot Gardening Work and Is It Worth It?"
 tags: [query, square-foot-gardening, intensive-gardening, raised-beds, garden-planning]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md']
 ---
 
 ## How Does Square Foot Gardening Work and Is It Worth It?

@@ -34,7 +34,7 @@ Fukuoka's vision of Mu economics is ultimately a vision of human happiness liber
 
 - Culture and the light of religious teachings are not to be found in the cities and temples of dazzling splendor
 
-This connects directly to [[det]]
+This connects directly to det]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[permaculture-principle-use-and-value-renewable-resources]]
 

@@ -2,7 +2,7 @@
 title: "6 Mapb"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
 ---
 
 The benzofuran substitution increases lipophilicity compared to MDMA, which

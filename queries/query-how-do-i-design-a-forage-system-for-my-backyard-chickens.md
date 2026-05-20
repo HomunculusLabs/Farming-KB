@@ -3,7 +3,7 @@ title: "How Do I Design a Forage System for My Backyard Chickens?"
 tags: [query, chicken-forage, poultry, permaculture, free-range, chicken-tractor, forage-systems, homestead]
 date: 2026-05-20
 updated: 2026-05-20
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 # How Do I Design a Forage System for My Backyard Chickens?

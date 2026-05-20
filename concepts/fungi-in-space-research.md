@@ -1,3 +1,11 @@
+---
+title: Fungi in Space Research
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, fungi, ecology, environment, biology, research, academia, mushrooms, cultivation]
+sources: []
+---
 
 ## Overview
 

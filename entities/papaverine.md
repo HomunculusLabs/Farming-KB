@@ -2,7 +2,7 @@
 title: "Papaverine"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 Papaverine is classified pharmacologically as a non-nitrogenous phosphodiesterase inhibitor with direct vasodilatory and antispasmodic properties.

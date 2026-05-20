@@ -2,7 +2,7 @@
 title: "Coffea Canephora"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 It is the second most widely cultivated coffee species in the world after [[biodiversity-fungal-genetic-diversity]] is in the Democratic Republic of the Congo, Uganda, and Cameroon.

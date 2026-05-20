@@ -3,7 +3,7 @@ title: "Wattle-and-Daub vs Cordwood Construction"
 tags: [comparison, natural-building, wattle-and-daub, cordwood, sustainable-construction]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Wattle-and-Daub vs Cordwood Construction

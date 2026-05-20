@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, root-cellar, food-storage, construction, preservation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 type: query
 ---
 

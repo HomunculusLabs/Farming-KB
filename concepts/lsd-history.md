@@ -1,6 +1,6 @@
 ---
 created: 2026-04-11
-sources: [raw/papers/hofmann-a-lsd-my-problem-child.md]
+sources: []
 tags:
 - history
 - psychopharmacology

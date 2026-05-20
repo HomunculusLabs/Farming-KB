@@ -3,7 +3,7 @@ title: "How Do I Build With Earthbags?"
 tags: [query, natural-building, earthbag, permaculture, homesteading]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How Do I Build With Earthbags?

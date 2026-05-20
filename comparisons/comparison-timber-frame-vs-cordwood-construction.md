@@ -3,7 +3,7 @@ title: Comparison Timber Frame Vs Cordwood Construction
 tags: [comparison, construction, natural-building, homesteading, permaculture]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Timber Frame vs Cordwood Construction

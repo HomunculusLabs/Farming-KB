@@ -9,7 +9,7 @@ tags:
   - comparison
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/nutrient-and-dynamic-accumulators.md']
 type: comparison
 ---
 

@@ -2,7 +2,8 @@
 title: "Ayahuasca Chemistry Mao Inhibition Synergy"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 
 ## The Pharmacological Problem

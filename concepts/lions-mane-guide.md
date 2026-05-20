@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, cultivation, indoor, fruiting, species, food, medicine, health, neuroscience]
-sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
+sources: []
 ---
 
 # Lion's Mane Cultivation Guide

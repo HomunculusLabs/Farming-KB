@@ -3,7 +3,7 @@ title: "How Do I Grow Fennel in My Garden?"
 tags: [query, fennel, herbs, apiaceae, perennial-vegetables]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## How Do I Grow Fennel in My Garden?

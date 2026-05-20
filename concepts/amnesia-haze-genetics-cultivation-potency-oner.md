@@ -3,36 +3,6 @@ title: "Amnesia Haze — Origins, Genetics, and Cultivation Profile"
 tags:
   - concept
 ---
-
-## Growth Characteristics
-
-Despite its sativa-dominant genetics, Amnesia Haze is described as well-suited to indoor cultivation and accessible to growers with moderate experience. The plant does not present the extreme height and flowering-time challenges of pure tropical sativas, thanks to the Afghan indica influence that tames some of the more difficult sativa growth traits.
-
-Key cultivation characteristics include:
-
-- **Container size:** Recommended 2-gallon pots for indoor cultivation
-- **Plant density:** Up to 12 plants per square yard of grow space
-- **Pruning:** Recommended to prune at the 5th internode for optimal structure
-- **Vegetative period:** Approximately 3 weeks before switching to flowering
-- **Outdoor height:** Can easily exceed 6 feet when grown outdoors
-
-The strain's adaptability to high-density indoor cultivation makes it popular among commercial growers in Europe, where space constraints and the desire for multiple harvests per year drive cultivation decisions.
-
----
-
-## Flowering Time and Yield
-
-Amnesia Haze has a moderate-to-long flowering period of approximately 65 days when grown indoors under forced flowering conditions. This places it in a middle ground—longer than indica-heavy hybrids but significantly shorter than the 12 to 16 weeks required by pure Haze or tropical sativa varieties.
-
-For outdoor growers, the strain is typically ready for harvest around the first two weeks of October in the Northern Hemisphere. This mid-October finish makes it suitable for Mediterranean and warm [[plant-sensory-perception]]
-- Potential for short-term memory impairment at higher doses
-- Creative and introspective thought patterns
-- Duration that extends for several hours
-
-Oner notes that even veteran smokers will find that a full joint or a large bong hit of Amnesia Haze produces a profoundly disorienting experience. The strain is not recommended for novice consumers or situations requiring mental clarity and focus.
-
----
-
 ## Medical Considerations
 
 ## Practical Applications

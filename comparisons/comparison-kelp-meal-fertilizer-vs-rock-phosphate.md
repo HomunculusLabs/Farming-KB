@@ -3,7 +3,7 @@ title: "Kelp Meal Fertilizer vs Rock Phosphate"
 tags: [comparison, soil-amendment, minerals, phosphorus, trace-elements, organic]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Kelp Meal Fertilizer vs Rock Phosphate

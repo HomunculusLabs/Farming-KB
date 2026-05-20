@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [herbs, umbelliferae, companion-planting, culinary-herbs, pollinator-plants, apiaceae]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/jeavons-john-how-to-grow-more-vegetables.md']
 type: comparison
 ---
 

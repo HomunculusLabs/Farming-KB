@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: entity
 tags: [reference]
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md']
 ---
 
 ## Gerronema fibula

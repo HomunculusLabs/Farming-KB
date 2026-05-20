@@ -2,7 +2,7 @@
 title: "Nepenthes Rafflesiana"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species is named in honor of Sir Stamford Raffles, founder of modern Singapore. It produces two distinct pitcher types — lower terrestrial and upper aerial — that differ markedly in size, shape, and coloration.

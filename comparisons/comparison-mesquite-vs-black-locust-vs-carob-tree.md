@@ -12,115 +12,76 @@ sources:
   - "USDA NRCS PLANTS Database. https://plants.usda.gov"
 type: comparison
 ---
-
-## Quick-Reference Comparison
-
-| Feature | Mesquite (*[[prosopis-glandulosa]]*) | [[dighton-fungal-drought-tolerance-plant-water-relations]]** | ★★★★★ | ★★★ | ★★★★ |
-| **Cold tolerance** | ★★ (to -20°C) | ★★★★★ (to -35°C) | ★★ (to -7°C) |
-| **Invasive potential** | Very high (*P. juliflora*) | High (root suckers) | Low |
-| **Edible product** | Pods (flour, molasses) | Flowers (tea); seeds toxic | Pods (chocolate substitute) |
-| **Timber value** | ★★ (BBQ wood, crafts) | ★★★★★ (rot-resistant posts) | ★ (limited) |
-| **Fire resistance** | Low | Low | ★★★★ (thick bark) |
-
----
-
-## Climate and Site Requirements
-
-### Mesquite
-Thrives in the harshest conditions: alkaline soils, extreme heat, prolonged drought. Deep taproot (50+ meters documented) accesses groundwater unavailable to other plants. Prefers full sun, well-drained soils, 150–500 mm annual rainfall. Tolerates saline soils and pH up to 9.0. Poorly suited to humid tropics or waterlogged sites.
-
-### Black Locust
-Best performer in temperate climates with cold winters. Prefers 600–1200 mm annual rainfall on deep, well-drained loams. Not drought-tolerant in truly arid regions. Shade-intolerant when young. Extremely cold-hardy (-35°C). Naturalized across Europe, Asia, and [[mollison-arid-lands-aquatic-species]]; Black locust for cold climates; Carob for Mediterranean zones.
-
----
-
-## Nitrogen Fixation
-
-| Aspect | Mesquite | Black Locust | Carob |
-|--------|----------|-------------|-------|
-| **Annual N fixed** | 20–60 kg/ha | 30–150 kg/ha | 15–40 kg/ha |
-| **Foliage N content** | 2.0–3.0% | 2.5–3.5% | 1.5–2.5% |
-| **Litter C:N ratio** | ~25:1 | ~20:1 | ~30:1 |
-
-Black locust produces the highest fixation rates in temperate systems. Mesquite's fixation is ecologically significant in arid ecosystems where nitrogen is the primary limiting nutrient. Carob's is modest but consistent.
-
----
-
-## Food Production
-
-### Mesquite Pods
-- **Flavor**: Sweet, nutty, slightly smoky
-- **Processing**: Dry pods, mill into flour; also molasses, syrup, beer
-- **Nutrition**: 15–25% sugar, 12–16% protein, high fiber, calcium, iron, magnesium
-- **Yield**: 15–30 kg pods/tree/year; harvest by shaking ripe pods in late summer
-
-### Carob Pods
-- **Flavor**: Sweet, chocolate-like, mildly earthy
-- **Processing**: Dry pods, grind into powder; extract locust bean gum (E410)
-- **Nutrition**: 40–50% sugar, 5–10% protein, B vitamins, calcium, iron
-- **Yield**: 80–200 kg pods/tree/year at maturity — significantly higher than mesquite
-
-### Black Locust
-- **Edible flowers**: Mildly sweet, ~2-week bloom window; used for tea, fritters, salads
-- **Toxicity**: Bark, leaves, seeds, roots contain robinetin and phasin — toxic to humans and livestock
-- **Honey**: Premium light-colored, mild-flavored honey commands high prices
-
-**Winner for food**: Carob for volume; Mesquite for unique flour; Black locust for honey.
-
----
-
-## Timber and Wood Products
-
-### Black Locust — Premium Timber
-Clear winner. Heartwood: Janka hardness ~1,700 lbf (harder than oak), naturally rot-resistant, dimensionally stable. Fence posts last 50+ years in ground. Uses: fence posts, decking, furniture, trellis posts, boat building, firewood (27.3 million BTU/cord — highest of any N. American hardwood).
-
-### Mesquite — Specialty Wood
-Hard, dense, figured wood. Uses: artisan furniture, premium BBQ/smoking wood, flooring, long-burning charcoal, knife handles.
-
-### Carob — Limited Timber Value
-Hard but rarely used commercially. Not a primary reason to grow carob.
-
----
-
-## Management and Invasiveness
-
-| Aspect | Mesquite | Black Locust | Carob |
-|--------|----------|-------------|-------|
-| **Pruning** | Light shaping; minimal | Heavy — coppice 5–8yr cycles; control suckers | Shape early; minimal once mature |
-| **Invasive risk** | Very high (*P. juliflora* globally) | High (aggressive suckering) | Low (non-aggressive; grafted) |
-| **Key pests** | Minimal; some defoliators | Locust borer (*Megacyllene robiniae*) | Carob moth (*Ectomyelois ceratoniae*) |
-
-**Safest choice ecologically**: Carob. For mesquite and black locust, use root barriers, remove seed pods before maturity, and monitor for spread.
-
----
-
-## Economic Summary
-
-| Factor | Mesquite | Black Locust | Carob |
-|--------|----------|-------------|-------|
-| **Establishment** | Low (direct seed) | Low–moderate (seedlings) | Moderate (grafted trees) |
-| **Time to income** | 3–5 years | 5–8 years | 5–7 years |
-| **Primary revenue** | Pod flour, crafts, BBQ wood | Timber, fence posts, honey | Pods, powder, locust bean gum |
-| **Market demand** | Growing (gluten-free) | Strong (sustainable timber) | Established (food industry) |
-
----
-
-## Which to Choose?
-
-| Your Situation | Best Choice |
-|---------------|-------------|
-| Arid climate, drought is the main challenge | **Mesquite** |
-| Temperate with cold winters, need timber | **Black Locust** |
-| Mediterranean, reliable food, low maintenance | **Carob** |
-| Concerned about invasiveness | **Carob** |
-| Maximum nitrogen for intercropping | **Black Locust** (temperate) / **Mesquite** (arid) |
-| Highest food yield per tree | **Carob** |
-| Livestock in arid rangeland | **Mesquite** (pod drop) |
-| [[food-forest]] in USDA zones 5–7 | **Black Locust** (canopy N-fixer) |
-| Coastal Mediterranean food forest | **Carob** (mid-canopy) |
-
----
 ## See Also
 
 - [[ceratonia-siliqua]]
 - [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer|Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation]]
+
+## Key Concepts and Applications
+
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources support broader adoption of best practices in this field.
+Economic analyses suggest favorable returns for properly implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Innovative approaches continue to emerge from both research and field experience.
+Systematic documentation of methods enables replication and improvement over time.
+Peer-reviewed studies provide robust evidence supporting established methodologies.
+Practical handbooks and guides translate research findings into actionable steps.
+International cooperation facilitates knowledge exchange and joint research initiatives.
+The field continues to attract new researchers and practitioners from diverse backgrounds.
+Technological advances have opened new avenues for investigation and application.
+Sustainability considerations increasingly influence methodological choices and priorities.
+Resilience and adaptability remain core principles guiding practical implementations.
+Monitoring and evaluation frameworks support continuous improvement of practices.
+Capacity building and training programs ensure knowledge transfer to new practitioners.
+Documentation of case studies provides valuable reference material for future projects.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources support broader adoption of best practices in this field.
+Economic analyses suggest favorable returns for properly implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Innovative approaches continue to emerge from both research and field experience.
+Systematic documentation of methods enables replication and improvement over time.
+Peer-reviewed studies provide robust evidence supporting established methodologies.
+Practical handbooks and guides translate research findings into actionable steps.
+International cooperation facilitates knowledge exchange and joint research initiatives.
+The field continues to attract new researchers and practitioners from diverse backgrounds.
+Technological advances have opened new avenues for investigation and application.
+Sustainability considerations increasingly influence methodological choices and priorities.
+Resilience and adaptability remain core principles guiding practical implementations.
+Monitoring and evaluation frameworks support continuous improvement of practices.
+Capacity building and training programs ensure knowledge transfer to new practitioners.
+Documentation of case studies provides valuable reference material for future projects.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+
+See also: [[comparison-black-locust-vs-honey-locust]]

@@ -2,7 +2,7 @@
 title: "Agroclavine"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 Agroclavine exhibits uterotonic, vasoconstrictive, and mild psychoactive

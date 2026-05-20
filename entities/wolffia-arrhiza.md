@@ -2,7 +2,7 @@
 title: "Wolffia Arrhiza"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Taxonomy and Morphology

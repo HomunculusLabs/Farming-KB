@@ -1,6 +1,32 @@
+---
+
+title: Fermented Plant Extract (FPE) — FPJ & FFJ
+created: 2026-04-10
+updated: 2026-04-12
+type: concept
+
+tags:
+- knf
+- fermentation
+- fertilizer
+- recipe
+- plant-systems
+- fpe
+- plant-growth
+- plants
+- vegetative
+
+sources:
+- raw/papers/master-cho-knf-recipe-book.md
+- raw/papers/unknown-natural-farming-poster.md
+- raw/papers/bahay-kubo-indigenous-microorganisms_.md
+- raw/papers/chos-global-natural-farming.md
+- raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
+---
+
 # Fermented Plant Extract (FPE)
 
-[[fermented-plant-juice]] (FPJ) and Fermented Fruit Juice (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
+Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
 
 FPJ and FFJ are functionally the same process — FPJ uses vegetative plant parts, FFJ uses fruits. The key difference is the sugar content and stage of the source plant.
 
@@ -46,7 +72,7 @@ Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels vegetative 
 
 **Process**:
 1. **Harvest at dawn** (before sunrise) when plant sugars and energy are highest — plants produce maximum nutrients during night via photosynthesis, peaking at dawn
-2. Do NOT wash the plant material — washing removes the [[indigenous-microorganisms]] on leaf surfaces that drive fermentation
+2. Do NOT wash the plant material — washing removes the indigenous microorganisms on leaf surfaces that drive fermentation
 3. Shake off dust gently if needed
 4. Chop or crush plant material to increase surface area (do not blend — preserves microbial diversity)
 5. Alternate layers of plant material and sugar in the jar
@@ -122,5 +148,53 @@ A separate KNF input that functions as both a nutrient source and an extraction 
 
 Key uses with FPJ/FFJ:
 - Extracts calcium from eggshells (see [[water-soluble-calcium-wca]])
-- Extracts [[calcium-phosphate]] from bones (see [[water-soluble-calcium-phosphate-wcp]])
+- Extracts calcium phosphate from bones (see [[water-soluble-calcium-phosphate-wcp]])
+- Promotes root development
+- Prevents over-luxurious plant growth when mixed with FPJ
+- Acts as "sour nutrient" during changeover period
+
+## FPJ for Pest Control
+
+Some FPJ preparations double as pest deterrents:
+- Garlic FPJ — insect repellent (strong odor)
+- Neem FPJ — antifungal, insecticidal
+- Hot pepper FPJ — mammal deterrent
+- Ginger FPJ — antifungal, stimulant
+- Tagetes (marigold) FPJ — nematode deterrent
+
+For serious pest issues, combine FPJ with [[oriental-herbal-nutrient-ohn]] and LAB for stronger effect.
+
+## FPJ in the Nutritive Cycle
+
+FPJ is one of the most versatile KNF inputs. According to [[nutritive-cycle-theory]]:
+- Choose plant source based on growth stage needed
+- FPJ from fast-growing plants = more vegetative energy
+- FFJ from ripe fruits = reproductive energy
+- FPJ from medicinal herbs = pest/disease resistance
+- Adjust dilution based on plant response (start at 1:1000, increase if plants look hungry)
+
+## Carandang's Alternative: Fermented Ginger-Garlic Extract
+
+From the IMO/bionutrients paper — a simplified approach:
+1. Mix 1 kg ginger + 1 kg garlic (crushed) + 1 kg crude sugar/molasses
+2. Add 1 liter beer (natural yeast source) or local wine
+3. Ferment 1 week
+4. Strain and add equal amount crude sugar for storage
+5. Dilute 1:20 for basic concoction, 2 tbsp per gallon for spray
+6. Functions as both nutrient source and pest control
+
+## Troubleshooting
+
+| Problem | Cause | Solution |
+|---------|-------|----------|
+| Putrid smell | Anaerobic, too wet, wrong plant | Discard, ensure breathable container, reduce moisture |
+| Mold on surface | Normal early fermentation | Stir gently, mold is usually harmless (white ok, black bad) |
+| Too much liquid | Plant too watery | Use less sugar ratio next time |
+| Weak smell | Not enough fermentation time | Wait longer or move to warmer spot |
+| Alcohol smell | Too warm, yeast overgrowth | Move to cooler location |
+
 ## See Also
+
+- [[knf-preparations]] — all KNF inputs overview
+- [[indigenous-microorganisms-imo]] — the microbes that drive FPJ fermentation
+- [[fish-amino-acid-faa]] — nitrogen companion to FPJ

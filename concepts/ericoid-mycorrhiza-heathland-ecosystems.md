@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
-sources: []
+sources: ['papers/john-dighton-fungi-in-ecosystem-processes.md']
 ---
 ## Ericoid Mycorrhiza in Heathland Ecosystems
 

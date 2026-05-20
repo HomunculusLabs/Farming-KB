@@ -10,7 +10,7 @@ tags:
   - hallucinogenic-fungi
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Pluteus romellii

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, foraging, mushroom-identification, mycology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 type: query
 ---
 

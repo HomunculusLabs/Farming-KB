@@ -3,7 +3,7 @@ title: "How Do I Grow Maitake Mushrooms at Home?"
 tags: [query, mushroom-cultivation, maitake, medicinal-mushrooms, gourmet-mushrooms]
 date: 2026-05-18
 updated: 2026-05-18
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How Do I Grow Maitake Mushrooms at Home?

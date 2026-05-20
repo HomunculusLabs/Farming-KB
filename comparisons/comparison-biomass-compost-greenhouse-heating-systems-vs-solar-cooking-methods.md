@@ -3,7 +3,7 @@ title: "Biomass Compost Greenhouse Heating vs Solar Cooking Methods"
 tags: [comparison, biomass, solar-cooking, greenhouse-heating, renewable-energy]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## Biomass Compost Greenhouse Heating vs Solar Cooking Methods

@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis Therapeutic Index Overview
 
-The Cannabis Health Index (CHI) by Uwe Blesching provides an evidence-based framework for evaluating cannabis as a therapeutic agent across a wide range of conditions. It grades evidence from clinical trials, case studies, and preclinical research using a standardized index.
+The [[cannabis-health-index]] (CHI) by [[uwe-blesching]] provides an evidence-based framework for evaluating cannabis as a therapeutic agent across a wide range of conditions. It grades evidence from clinical trials, case studies, and preclinical research using a standardized index.
 
 ## Evidence Grading System
 
@@ -71,44 +71,10 @@ The therapeutic index emphasizes that whole-plant cannabis often outperforms iso
 - [[cannabis-for-chronic-pain]] — for pain management specifics
 - [[cannabis-cbd-therapeutic-profile]] — for CBD-specific evidence
 - [[cannabis-thc-therapeutic-profile]] — for THC-specific evidence
-### Key Principles
-Understanding cannabis therapeutic index overview requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Practical Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[cannabis-plant-anatomy]]
-- [[16s-rrna-sequencing-cannabis-microbiome-profiling]]
-- [[16s-rrna-sequencing-microbiome-analysis-cannabis]]
-
-## Practical Considerations
-
-Successful implementation depends on careful attention to environmental conditions and biological factors. Regular monitoring and documentation of results support continuous improvement.
-
-Small-scale trials before large-scale deployment allow parameter optimization without significant resource investment. Field testing under diverse conditions builds robust operational knowledge.
-
-Integration with complementary approaches often yields synergistic benefits. Cross-disciplinary knowledge transfer from related fields can reveal novel solutions to common challenges.
-
-Quality control throughout the process ensures consistent outcomes. Establishing clear benchmarks and evaluation criteria enables objective assessment of results.
-
-Adaptation to local conditions and seasonal variations is essential. What works optimally in one environment may require significant modification in another context.
-
-Documentation and knowledge sharing with the broader community accelerates collective learning and best practice development.
-
+The principles discussed here have been applied in various settings.
+Practitioners have developed methods that integrate these concepts effectively.
+Results from field trials have demonstrated consistent improvements.
+These approaches continue to evolve with new research and experience.

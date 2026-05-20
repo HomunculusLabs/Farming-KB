@@ -3,7 +3,7 @@ title: "What Is Allelopathy and How Does It Affect My Garden?"
 tags: [query, allelopathy, plant-interactions, soil-science, companion-planting]
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## What Is Allelopathy and How Does It Affect My Garden?

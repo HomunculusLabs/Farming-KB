@@ -2,7 +2,7 @@
 title: "Jungle Cake Cannabis"
 type: entity
 tags: []
-sources: []
+sources: ['AllBud blesching-cannabis-strain-selection-receptor-targeting Reviews']
 ---
 
 ## Lineage

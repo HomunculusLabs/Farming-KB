@@ -2,7 +2,7 @@
 title: "Cap Junkie"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 Trichome coverage is exceptional, coating buds in a thick, frosty layer

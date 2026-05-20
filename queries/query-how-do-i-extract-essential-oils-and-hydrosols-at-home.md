@@ -3,7 +3,7 @@ title: Query How Do I Extract Essential Oils And Hydrosols At Home
 tags: [query, essential-oils, hydrosols, distillation, aromatic-plants, herbalism]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md']
 type: query
 created: 2026-04-28
 ---

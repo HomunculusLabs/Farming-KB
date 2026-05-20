@@ -3,27 +3,6 @@ title: "Bay 11 — Award-Winning Medical Sativa from Granddaddy Purp Genetics"
 tags:
   - concept
 ---
-
-## Visual Characteristics
-
-One of Bay 11's most distinctive attributes is its striking visual presentation. The breeder describes the buds as exploding in "a riot of color" that resembles "the cannabis equivalent of setting off a bunch of party poppers." This colorful display includes:
-
-- **Base color:** Deep green as the primary hue
-- **Accent colors:** White and orange highlights throughout the flowers
-- **Bonus tones:** Cheeky hints of blue appearing on select buds
-
-This multi-colored presentation makes Bay 11 one of the more visually appealing strains in cultivation, with the breeder noting that the plants make a grow room look like there is "a party going down 24/7." The colorful bud structure, combined with the heavy resin production typical of high-yielding sativas, creates flowers that are as beautiful as they are productive.
-
----
-
-## Aroma and Flavor Profile
-
-Bay 11 presents a sweet and fresh aroma offset by hints of berries. The overall olfactory experience is described as similar to "chewing fruity gum"—a light, pleasant, and accessible scent that contrasts with the heavy, pungent aromas of many Kush and Diesel varieties.
-
-The flavor profile is noted as being secondary to the strain's effects. While the sweet, fruity aroma is enjoyable, Bay 11 is primarily valued for what it does rather than how it tastes. This effect-forward profile is consistent with the strain's development as a medical pain relief tool, where therapeutic efficacy takes priority over flavor complexity.
-
----
-
 ## Effects and Medical Applications
 
 Bay 11 was specifically developed as a medical strain, and its effects profile reflects this design intention. The breeder describes it as a "fantastic medical strain" that provides effective relief for several conditions:

@@ -81,5 +81,5 @@ Every member of the soil food web has its place. Each plays a specific role. Eli
 - [[protozoa-in-soil]]
 - [[nematodes-in-soil-ecology]]
 - [[bacterial-vs-fungal-soil]]
-- [[mycorrhizal-inoculation-guide]]
+- [[mycorrhizal-inoculation]]
 - [[nitrogen-cycle-in-soil]]

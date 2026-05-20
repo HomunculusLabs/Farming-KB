@@ -1,3 +1,11 @@
+---
+title: Backyard Pond Building
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [water, construction, wildlife, permaculture, homesteading, plant-systems, design, earthworks]
+sources: []
+---
 
 # Backyard Pond Building
 

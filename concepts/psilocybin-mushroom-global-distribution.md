@@ -1,3 +1,18 @@
+---
+title: Psilocybin Mushroom Global Distribution
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags:
+  - mycology
+  - distribution
+  - geography
+  - psilocybin
+  - ecology
+sources:
+  - raw/particles/psilocybin-mushrooms-of-the-world-stamets.md
+  - raw/particles/magic-mushrooms-around-the-world-by-jochen-gartz.md
+---
 
 # Psilocybin Mushroom Global Distribution
 
@@ -45,7 +60,7 @@ Species are concentrated in the states of Oaxaca, Puebla, Veracruz, Chiapas, and
 
 ## Asia
 
-- **Japan**: Several species documented including *Psilocybe subcaerulipes*, *P. argentipes*, and *P. cubensis* in Okinawa.
+- **Japan**: Several species documented including *[[psilocybe-subcaerulipes]]*, *P. argentipes*, and *P. cubensis* in Okinawa.
 - **Southeast Asia**: Thailand, Cambodia, Vietnam, and Indonesia support rich diversity. *Psilocybe cubensis* and *P. samuiensis* are among the known species. The region has been a significant source for "magic mushrooms" sold to tourists.
 - **India**: Species documented in the Western Ghats and northeastern states.
 - **China and Korea**: Limited documentation but species known to occur.
@@ -74,8 +89,5 @@ Species are concentrated in the states of Oaxaca, Puebla, Veracruz, Chiapas, and
 ## Related Topics
 
 - [[psilocybin-mushroom-habitat-types]] for detailed habitat descriptions
-- [[psilocybin-mushroom-identification]] for identification features
+- psilocybin mushroom identification guide for identification features
 - [[psychedelic-mushroom-pharmacology]] for the chemistry
-
-Psilocybin-containing species are found across every inhabited continent,
-from tropical forests to temperate grasslands and alpine meadows.

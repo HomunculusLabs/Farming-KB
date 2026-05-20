@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, cultivation, medicine, plants, gardening, drying, harvesting, plant-growth, ethnobotany]
-sources: [raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: []
 ---
 
 # Medicinal Herb Growing
@@ -91,6 +91,6 @@ Uses: immune support, antiviral, anti-inflammatory, fever reduction. Deciduous s
 
 ## Related Concepts
 
-- [[greenhouse-growing]] -- many medicinal herbs can be grown year-round in a greenhouse
+- [[greenhouse-growing-guide]] -- many medicinal herbs can be grown year-round in a greenhouse
 - [[wild-foraging-guide]] -- some medicinal herbs can also be wildcrafted
 - [[saving-seeds]] -- save seeds from your best medicinal herb specimens

@@ -2,7 +2,7 @@
 title: "Garcinia Mangostana"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The species is believed to have originated in the Sunda Islands and the Moluccas of Indonesia. It has been cultivated throughout Southeast Asia for centuries and was introduced to tropical America and Australia in more recent times.

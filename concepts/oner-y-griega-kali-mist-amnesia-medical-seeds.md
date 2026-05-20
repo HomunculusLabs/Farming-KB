@@ -1,7 +1,8 @@
 ---
 title: "Oner Y Griega Kali Mist Amnesia Medical Seeds"
 tags: [wiki]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 
 ## Overview

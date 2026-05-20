@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, beginner, plants, species-profiles, genetics, psychopharmacology]
-sources: [raw/papers/growing-the-woodlovers-outdoors.md]
+sources: []
 ---
 
 # Marijuana Strain Guide — Hybrid

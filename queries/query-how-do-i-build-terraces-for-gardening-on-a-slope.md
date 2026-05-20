@@ -3,7 +3,7 @@ title: "How do I build terraces for gardening on a slope?"
 tags: [query, terracing, earthworks, slope-gardening, permaculture]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How do I build terraces for gardening on a slope?

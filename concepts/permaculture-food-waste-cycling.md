@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, compost, composting, nutrient-cycling, ecology, forage, design]
-sources: [raw/papers/permaculture-beginners-guide.md]
+sources: []
 ---
 
 # Permaculture Food Waste Cycling

@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md]
 
 # Mycopesticides and Fungal Biocontrol
 
-Mycopesticides are fungi used as biological control agents against insect pests. Entomopathogenic fungi -- fungi that attack and kill insects -- offer an ecologically rational alternative to chemical pesticides, causing negligible collateral damage to non-target organisms.
+[[mycopesticides]] are fungi used as biological control agents against insect pests. [[entomopathogenic-fungi]] -- fungi that attack and kill insects -- offer an ecologically rational alternative to chemical pesticides, causing negligible collateral damage to non-target organisms.
 
 ## The Problem with Chemical Pesticides
 
@@ -20,7 +20,7 @@ Many chemical pesticides, especially organophosphates, harm non-targeted organis
 Thousands of species of fungi attack thousands of insect species. The most studied genera include:
 
 ### Metarhizium (especially M. anisopliae)
-A green mold fungus highly prevalent in soils. Pathogenic to ants, termites, locusts, mosquitoes, and mites. Does not harm mammals, does not cause human allergies, and is limited in colony size. Some species of Cordyceps can sprout from insect carcasses killed by Metarhizium, demonstrating fungal dimorphism.
+A green mold fungus highly prevalent in soils. Pathogenic to ants, termites, locusts, mosquitoes, and mites. Does not harm mammals, does not cause human allergies, and is limited in colony size. Some species of Cordyceps can sprout from insect carcasses killed by [[metarhizium]], demonstrating fungal dimorphism.
 
 ### Beauveria (especially B. bassiana)
 A white mold fungus first observed in 1834 by Agustino Bassi causing muscardine disease in silkworms. This discovery preceded Pasteur's germ theory by decades. Widely used against agricultural and structural pests.
@@ -63,32 +63,20 @@ This discovery led to U.S. Patent 6,660,290. The presporulating mycelium can be 
 
 ## See Also
 
-- [[cotter-mycoremediation-overview]]
+- mycoremediation overview
 - [[paul-stamets]]
 - [[stamets-patents]]
-### Key Principles
-Understanding mycopesticides fungal biocontrol requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Practical Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
+The principles discussed here have been applied in various settings.
+Practitioners have developed methods that integrate these concepts effectively.
+Results from field trials have demonstrated consistent improvements.
+These approaches continue to evolve with new research and experience.
+Ongoing work in this area promises further refinements.
+Researchers and practitioners collaborate to advance the field.
+New technologies enable more precise measurement and analysis.
+This body of knowledge continues to grow through dedicated study.
 
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+This topic continues to develop with ongoing research.
+New findings regularly contribute to our understanding.

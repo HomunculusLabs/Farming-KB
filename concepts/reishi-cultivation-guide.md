@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, cultivation, indoor, fruiting, species, medicine, health]
-sources: [raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
+sources: []
 ---
 
 # Reishi Cultivation Guide

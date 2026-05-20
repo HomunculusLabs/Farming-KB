@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [food-forest, permaculture, design, plant-systems, cultivation, guild, companion-planting]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: []
 ---
 
 ## Overview

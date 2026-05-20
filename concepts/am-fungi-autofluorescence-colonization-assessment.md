@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-05-09
 type: concept
 tags: [mycology, arbuscular-mycorrhiza, microscopy, fluorescence, root-analysis]
-sources: []
+sources: ['raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md']
 ---
 ## Autofluorescence Properties of AM Fungi for Colonization Assessment
 Autofluorescence detection of [[chamovitz-julius-von-sachs-blue-light-phototropism]]

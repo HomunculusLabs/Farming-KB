@@ -20,7 +20,7 @@ compound available without prescription or regulatory restriction.
 
 The (E)-beta-caryophyllene content in test samples of Black Ashanti pepper
 was 58% and in White Ashanti pepper 52%. For comparison, the (E)-beta-
-caryophyllene content in a sample of [[staphylococcus-aureus]], making them dual-purpose
+caryophyllene content in a sample of staphylococcus-aureus]], making them dual-purpose
 therapeutic spices with both cannabinoid and antimicrobial activity.
 
 ### Indian Bay-Leaf (Cinnamomum tamala)

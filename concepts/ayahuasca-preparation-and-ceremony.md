@@ -1,3 +1,21 @@
+---
+title: Ayahuasca Preparation and Ceremony
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags:
+  - ayahuasca
+  - amazon
+  - ceremony
+  - preparation
+  - dmt
+  - maoi
+  - shamanism
+sources:
+  - raw/particles/harner-j-hallucinogens-and-shamanism.md
+  - raw/papers/mckenna_t-food_of_the-gods.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+---
 
 # Ayahuasca Preparation and Ceremony
 
@@ -22,7 +40,7 @@ Ayahuasca is not a single plant but a combination of at least two:
 
 Several plants are combined with *B. caapi* to provide the visionary component:
 
-- ***[[psychotria-viridis]]*** (Chacruna): The most common admixture, containing N,N-dimethyltryptamine (DMT) in its leaves. Used throughout the western Amazon.
+- ***[[psychotria-viridis]]*** (Chacruna): The most common admixture, containing N,N-[[dimethyltryptamine]] (DMT) in its leaves. Used throughout the western Amazon.
 - ***Diplopterys cabrerana*** (Chaliponga): Another DMT-containing plant, also used as an admixture. Contains both DMT and 5-MeO-DMT.
 - Less commonly, *Psychotria carthaginensis* or other species may be used.
 

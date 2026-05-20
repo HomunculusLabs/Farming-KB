@@ -3,7 +3,7 @@ title: "How Do I Design an Edible Landscape for My Front Yard?"
 tags: [query, edible-landscaping, front-yard, permaculture-design, urban-gardening]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Design an Edible Landscape for My Front Yard?

@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [permaculture, design, water]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 ## The Hydro Cycle and Watershed Management updated: 2026-04-18 The hydrological cycle is one of three major cycles that support all ecology (alongside the atmospheric cycle and the nutrient cycle). Understanding how water moves across and through landscapes is essential for [[pdc-swales-and-earthworks-water-management]] that slow runoff and maximize infiltration
 - Using plants and trees to manage water movement through evapotranspiration

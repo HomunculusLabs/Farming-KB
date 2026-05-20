@@ -2,7 +2,7 @@
 title: "Sassafras Albidum"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The species is easily identified by its distinctive leaves, which occur in three shapes

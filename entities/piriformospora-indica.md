@@ -22,7 +22,7 @@ habitat: "Rhizosphere soil, Thar Desert, Rajasthan, India"
 host_range: ">150 plant species"
 genome_size: "~25 Mb"
 tags: [profile]
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## Piriformospora indica

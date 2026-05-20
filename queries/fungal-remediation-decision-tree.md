@@ -108,7 +108,7 @@ Key rules: surface area should be several times the contamination source; water 
 - [[mycoremediation-techniques]] — spawn types, mycelial mat construction, site strategies
 - [[mycofiltration-overview]] — water filtration design, E. coli discovery, agricultural apps
 - [[mushroom-species-guide]] — species parameters for cultivation
-- [[mycorestoration]] — broader restoration framework
+- [[mycorestoration-overview]] — broader restoration framework
 
 ## Related
 

@@ -3,7 +3,7 @@ title: "Rhodiola vs Lemon Balm"
 tags: [comparison, rhodiola, lemon-balm, adaptogen, nervine]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## Rhodiola vs Lemon Balm

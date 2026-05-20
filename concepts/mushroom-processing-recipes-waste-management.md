@@ -3,58 +3,6 @@ title: Mushroom Processing Recipes and Waste Management
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
-
-## Recipe 1: Fermented Mushrooms "Pla la Hed"
-
-A traditional fermented mushroom product with a savory, umami-rich flavor.
-
-### Ingredients
-
-| Ingredient | Quantity |
-|---|---|
-| Oyster or Nang Fa mushrooms (shredded) | 2 kg |
-| Roasted rice | 200 g |
-| Salt | 100 g |
-| Garlic cloves | 3 tbsp |
-
-### Preparation
-
-1. Clean, trim, and shred the mushrooms.
-2. Steam the shredded mushrooms until tender, then allow to cool completely.
-3. Pound the roasted rice in a mortar until coarsely ground.
-4. Add garlic cloves and salt to the mortar; pound together.
-5. Blend the pounded mixture with the steamed mushrooms until evenly combined.
-6. Place the mixture into a clean jar and press down firmly.
-7. Add a clean Styrofoam sheet on top to keep the mixture submerged.
-8. Close the jar tightly.
-9. Place the jar in direct sun for **3 days**, then move to a shaded area for **2 weeks** to complete fermentation.
-10. After opening, **refrigerate** to slow further fermentation.
-
----
-
-## Recipe 2: Fermented Mushrooms in Banana Leaf
-
-Wrapped and fermented in banana leaves for a naturally sour flavor profile.
-
-### Ingredients
-
-| Ingredient | Quantity |
-|---|---|
-| Oyster or Nang Fa mushrooms (trimmed) | 2 kg |
-| Sticky rice | 200 g |
-| Garlic | 150 g |
-| Salt | 30 g |
-| Shanghai noodles (optional) | 200 g |
-| Fresh [[cultivation-of-oyster-mushrooms]], then sun-dry until fully dehydrated (approximately 300 g dried).
-2. Heat vegetable oil in a wok or deep pan.
-3. Fry the dried mushrooms until browned and crispy; they will absorb oil during frying.
-4. In a separate pan, combine white soya sauce and palm sugar; cook over medium heat until the mixture becomes thick and sticky.
-5. Add ground pepper and the fried mushrooms to the sticky syrup; mix thoroughly to coat.
-6. Add sesame seeds and mix until evenly distributed.
-7. Allow to cool completely, then store in airtight containers.
-
----
-
 ## Recipe 4: Pickled Mushrooms with Soya Sauce
 
 A simple, shelf-stable pickled mushroom product requiring minimal ingredients.
@@ -118,3 +66,20 @@ resources, and specific goals when applying these concepts.
 - [[aact-foam-management-troubleshooting-ingham]]
 - [[aact-ingredient-ratios-compost-volume-and-recipes]]
 - [[aact-ingredients-and-tea-recipes]]
+
+## Key Concepts and Applications
+
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources support broader adoption of best practices in this field.
+Economic analyses suggest favorable returns for properly implemented projects.

@@ -9,7 +9,7 @@ tags:
   - livestock-integration
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/williams-pdc-earthworks-pdc_-a-permaculture-design-cours.md']
 type: query
 ---
 ## How to Design a Chicken Tractor System

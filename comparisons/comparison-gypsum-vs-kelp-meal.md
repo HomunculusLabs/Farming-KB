@@ -3,7 +3,7 @@ title: "Gypsum vs Kelp Meal"
 tags: [comparison, soil-amendment, gypsum, kelp-meal, minerals]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Gypsum vs Kelp Meal

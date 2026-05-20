@@ -3,23 +3,6 @@ title: "drought, or with limited resources — the layout method you choose dete
 tags:
   - concept
 ---
-
-## Method 1: Raised Beds
-
-Raised beds are the standard [[wide-spacing-dry-gardening-low-irrigation-solomon|Spacing]]:** Increase spacing between rows if there may be long periods without rain
-
-### Dry Climate Adaptation
-In western Oregon, where it almost never rains in summer, Solomon used row centers of 4-5 feet (120-150 cm) apart, depending on the crop. This extreme spacing ensures each plant has access to soil moisture reserves that will last through drought.
-
-### Creation
-Same as raised beds — use a combination shovel to move soil from paths onto the row area. The narrower width means faster creation and less soil movement per linear foot.
-
-### Best Uses
-- **Non-irrigated or minimally irrigated gardens**
-- **Dry [[water-conservation]] priority** scenarios
-
----
-
 ## Method 3: Hills
 
 Hills are the most frugal layout method — best for winter gardens, large-seeded crops, and situations where you cannot afford to enrich the entire garden area.

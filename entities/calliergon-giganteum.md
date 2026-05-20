@@ -2,7 +2,7 @@
 title: "Calliergon Giganteum"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Ecology

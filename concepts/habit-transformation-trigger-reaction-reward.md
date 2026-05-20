@@ -2,7 +2,8 @@
 title: "Habit Transformation Trigger Reaction Reward"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
 The mind-body medicine approach to habit transformation focuses on

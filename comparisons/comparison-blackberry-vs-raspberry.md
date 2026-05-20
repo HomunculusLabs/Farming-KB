@@ -14,7 +14,7 @@ type: comparison
 ## Overview
 
 Blackberries and raspberries are both members of the Rubus genus and are
-among the most productive and rewarding [[harvest-window-cannabis]], and management needs. Understanding these differences
+among the most productive and rewarding harvest-window-cannabis]], and management needs. Understanding these differences
 helps growers bramble for their site, climate, and goals.
 
 Both plants produce biennial canes that fruit in their second year before

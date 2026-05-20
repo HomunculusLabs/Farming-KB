@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-management, agriculture, gardening, pest-control, troubleshooting, cover-crop, soil, biology]
-sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+sources: []
 ---
 
 # Nematode Management

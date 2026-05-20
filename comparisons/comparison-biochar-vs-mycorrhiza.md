@@ -3,7 +3,7 @@ title: "mycorrhiza"
 tags: [comparison, soil-biology, soil-amendments, carbon, mycology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Biochar vs Mycorrhiza

@@ -2,7 +2,7 @@
 title: "Clinopodium Vulgare"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species is widespread across temperate Europe and Asia. It has a long history of use in European folk medicine as an astringent, carminative, and wound-healing herb.

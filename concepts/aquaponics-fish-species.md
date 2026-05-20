@@ -1,3 +1,11 @@
+---
+title: Aquaponics Fish Species
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [aquaponics, animal-husbandry, species, homesteading, water-management, sustainability]
+sources: []
+---
 
 # Aquaponics Fish Species
 

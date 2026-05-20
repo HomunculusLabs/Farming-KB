@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, soil-science, nitrogen, nutrient-cycling, soil-biology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/nitrogen-fixation']
 type: query
 ---
 

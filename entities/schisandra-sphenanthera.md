@@ -2,7 +2,7 @@
 title: "Schisandra Sphenanthera"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The fruit of *S. sphenanthera* contains a distinct lignan profile that differs from *S. chinensis*, with schisandrin A (schisandrol A) as the primary bioactive marker compound rather than schisandrin B. Despite this distinction, the two species have historically been used interchangeably in some TCM formulations, though modern pharmacopoeias treat them as separate drugs.

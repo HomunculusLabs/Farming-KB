@@ -169,4 +169,4 @@ Finished compost is dark brown, crumbly, smells like forest floor (earthy, not s
 - [[composting-systems-design-comparison]]
 - [[permaculture-history-timeline]]
 - [[garden-soil-basics]]
-- [[hugelkultur-bed-construction-detailed]] — Hugelkultur Bed Construction is a large-scale composting technique that bury woody debris in garden beds.
+- [[hugelkultur-bed-construction]] — Hugelkultur Bed Construction is a large-scale composting technique that bury woody debris in garden beds.

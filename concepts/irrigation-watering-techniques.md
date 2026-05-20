@@ -1,3 +1,11 @@
+---
+title: Irrigation and Watering Techniques
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [gardening, water, water-management, irrigation, techniques, vegetables]
+sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
+---
 
 # Irrigation and Watering Techniques
 

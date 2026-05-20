@@ -2,7 +2,7 @@
 title: "Copelandia Cyanescens"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Description

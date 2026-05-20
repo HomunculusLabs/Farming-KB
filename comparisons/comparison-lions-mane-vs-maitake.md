@@ -3,7 +3,7 @@ title: "Lion's Mane vs Maitake"
 tags: [comparison, lions-mane, maitake, medicinal-mushrooms, cultivation]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md']
 ---
 
 ## Lion's Mane vs Maitake

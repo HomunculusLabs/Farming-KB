@@ -2,7 +2,7 @@
 title: "Vernonia Noveboracensis"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species hybridizes with Vernonia glauca where their ranges overlap. Hybrids show intermediate floral and leaf characteristics.

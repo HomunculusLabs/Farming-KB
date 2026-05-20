@@ -3,7 +3,7 @@ title: "How Do I Identify and Forage Chanterelle Mushrooms?"
 tags: [query, mushroom-foraging, chanterelle, wild-mushrooms, mycology]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How Do I Identify and Forage Chanterelle Mushrooms?

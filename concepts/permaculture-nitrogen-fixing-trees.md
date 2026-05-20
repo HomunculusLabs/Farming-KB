@@ -1,5 +1,4 @@
 ---
-title: Permaculture Nitrogen Fixing Trees
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -113,7 +112,7 @@ A large genus of approximately 850 species native to Australia, many with valuab
 - Plant in shelterbelts and windbreaks for multi-function barriers
 - Integrate into grazing systems as protein-rich fodder
 - Place in [[permaculture-guild-design-method|guilds]] around food-producing trees
-- Use in [[permaculture-earthworks|earthworks stabilization]] on slopes and waterways
+- Use in [[permaculture-earthworks-guide|earthworks stabilization]] on slopes and waterways
 
 ## Related Concepts
 

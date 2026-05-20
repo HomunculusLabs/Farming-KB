@@ -1,3 +1,11 @@
+---
+title: Wood-Fired Hot Tub
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, equipment, engineering, construction, water, safety]
+sources: []
+---
 
 # Wood-Fired Hot Tub
 
@@ -133,5 +141,3 @@ A cover is essential — it retains heat between uses (reducing heating time and
 - Once at temperature, maintain with a small fire or let it cool naturally — the tub holds heat for several hours
 
 A wood-fired hot tub is one of the most rewarding homestead additions. It costs little to operate, requires no grid connection, and provides genuine therapeutic benefit after hard physical work.
-## See Also
-- [[fungal-enzyme-wood-decay]]

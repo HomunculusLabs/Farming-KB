@@ -1,3 +1,11 @@
+---
+title: Fungal Vaccines
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, fungi, health, medicine, academia, biology, lab-technique, immunology]
+sources: []
+---
 
 # Fungal Vaccines
 
@@ -135,5 +143,3 @@ The success of mRNA vaccines against SARS-CoV-2 has renewed interest in mRNA pla
 - **Personalized approaches**: Tailoring vaccine strategies to individual patient risk profiles and immune status
 
 See [[fungal-infections-human]] for details on the diseases these vaccines aim to prevent and [[fungal-antibiotics]] for current treatment approaches.
-## See Also
-- [[fungal-nutrient-immobilization-and-cycling]]

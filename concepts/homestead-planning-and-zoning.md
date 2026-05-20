@@ -1,3 +1,11 @@
+---
+title: Homestead Planning and Zoning
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, law, design, sustainability, permaculture]
+sources: []
+---
 
 # Homestead Planning and Zoning
 

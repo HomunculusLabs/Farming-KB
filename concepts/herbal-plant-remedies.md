@@ -1,3 +1,11 @@
+---
+title: Herbal Plant Remedies
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [medicine, herbs, herbalism, natural-remedies, health, plants, gardening, recipe, preparation, calendula, thyme]
+sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
+---
 
 # Herbal Plant Remedies
 

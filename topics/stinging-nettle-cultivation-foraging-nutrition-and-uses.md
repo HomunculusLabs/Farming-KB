@@ -4,7 +4,7 @@ subtitle: ""The multifunctional powerhouse plant of permaculture, herbal medicin
 tags: [permaculture, dynamic-accumulators, medicinal-herbs, foraging, fiber-crops]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 related_concepts:
   - comfrey-as-dynamic-accumulator
   - nutrient-and-dynamic-accumulators

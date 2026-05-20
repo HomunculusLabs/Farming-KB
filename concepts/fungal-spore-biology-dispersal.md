@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: ['~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
 ---
 ## Fungal Spore Biology and Dispersal Fungal spores are the primary vehicles for dispersal, survival, and reproduction in the Kingdom Fungi. Their biology encompasses diverse mechanisms of production, release, transport, and germination that determine fungal distribution patterns and colonization success. The major phyla of fungi -- [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]] in both ascomycetes and basidiomycetes are thought to have arisen independently in ancestral organisms and conferred significant fitness advantages that have been largely maintained. In Magnaporthe grisea, perithecia produce an abundance of ascospores consisting of four pairs, which can initiate new infections (Valent and Chumley, 1991).
 

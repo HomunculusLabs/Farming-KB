@@ -3,7 +3,7 @@ title: "What Are the query what are the best chicken breeds for a backyard flock
 tags: [query, poultry, chicken-breeds, backyard-farming, homesteading]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['masanobu-fukuoka-the-road-back-to-nature.md']
 ---
 
 ## What Are the Best Chicken Breeds for a Backyard Flock?

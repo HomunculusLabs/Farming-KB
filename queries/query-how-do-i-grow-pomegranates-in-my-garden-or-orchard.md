@@ -3,7 +3,7 @@ title: "How Do I Grow Pomegranates in My Garden or Orchard?"
 tags: [query, fruit-trees, pomegranate, mediterranean, dryland-gardening]
 date: 2026-05-18
 updated: 2026-05-18
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow Pomegranates in My Garden or Orchard?

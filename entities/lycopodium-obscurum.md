@@ -2,7 +2,7 @@
 title: "Lycopodium Obscurum"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species is named for its resemblance to small pine seedlings, with dense radial clusters of sterile branches creating a miniature tree-like silhouette.

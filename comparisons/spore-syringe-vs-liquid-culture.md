@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: comparison
 tags: [comparison]
-sources: []
+sources: ['raw/papers/unknown-mushroom-culture-patent-2761246.md']
 ---
 
 ## Spore Syringe vs Liquid Culture Comparison

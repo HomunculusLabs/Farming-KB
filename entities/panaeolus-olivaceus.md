@@ -5,7 +5,7 @@ type: species
 tags: [fungi, psychoactive, coprophilous, panaeolus, cosmopolitan]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 ## Panaeolus olivaceus
 **Panaeolus olivaceus**, commonly known as the **olive mottlegill**, is a small,

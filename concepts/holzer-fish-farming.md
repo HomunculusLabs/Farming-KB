@@ -31,7 +31,7 @@ The ponds function as self-regulating ecosystems:
 
 - **Deep areas** (3m+) provide winter habitat and prevent aquatic plant overgrowth
 - **Shallow areas** allow diverse plant and animal life; fish reproduce naturally
-- **Multiple species** at different [[sweet-flag-acorus-calamus-ethnobotany]]
+- **Multiple species** at different sweet-flag-acorus-calamus-ethnobotany]]
 - Fringed water lilies, water plantain, water soldier, mare's tail, arrowhead, yellow iris
 - Unusually [[hamilton-beneficial-insects-and-biological-pest-control]]), aquatic plants, small fish, and amphibians
 - Geese graze the margins and fertilise surrounding vegetation

@@ -1,3 +1,11 @@
+---
+title: Bacterial Plant Diseases
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [bacteria, pathogens, troubleshooting, plants, gardening, pest-control, cultivation]
+sources: []
+---
 
 # Bacterial Plant Diseases
 

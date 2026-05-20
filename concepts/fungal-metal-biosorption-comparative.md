@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: ['raw/papers/vic-high-creating-true-breeding-strains.md']
 ---
 ## [[aspergillus-fumigatus]] | UO₂²⁺ | 0.81 | Bhainsa & D'Souza, 1999 |
 | Aspergillus oryzae | Cd²⁺ | 0.38 | Yin et al., 1999 |

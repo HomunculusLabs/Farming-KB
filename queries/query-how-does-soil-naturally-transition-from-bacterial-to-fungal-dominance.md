@@ -3,7 +3,7 @@ title: "How Does Soil Naturally Transition from Bacterial to Fungal Dominance?"
 tags: [query, soil-biology, succession, microbiome, regenerative-agriculture]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
 ---
 
 ## How Does Soil Naturally Transition from Bacterial to Fungal Dominance?

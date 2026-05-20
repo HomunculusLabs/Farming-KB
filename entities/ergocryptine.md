@@ -2,7 +2,7 @@
 title: "Ergocryptine"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/williams-pdc-earthworks-pdc_-a-permaculture-design-cours.md']
 ---
 
 Ergocryptine exists in two epimeric forms: α-ergocryptine and

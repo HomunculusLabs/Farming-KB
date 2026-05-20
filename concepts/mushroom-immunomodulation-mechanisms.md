@@ -4,7 +4,8 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: mycology, mushrooms, cultivation]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 ## Mushroom Immunomodulation Mechanisms
 Mushroom-derived polysaccharides and proteoglycans act primarily as

@@ -1,6 +1,6 @@
 ---
 title: "Seaweed And Marine Macroalgae In Agriculture"
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Seaweed Products and Processing Methods
@@ -77,3 +77,11 @@ resources, and specific goals when applying these concepts.
 - [[aact-definitions-and-types-ingham]]
 - [[aact-fermentative-and-anaerobic-tea-types-ingham]]
 - [[aact-fish-hydrolysate-marine-brewing-ingredients-ingham]]
+
+These principles remain foundational to modern practice.
+
+## See Also
+
+- [[marine-aquaculture-seaweed-estuary-systems]]
+- [[seaweed-farming-and-marine-aquaculture]]
+- [[termite-and-ant-ecology-in-tropical-agriculture]]

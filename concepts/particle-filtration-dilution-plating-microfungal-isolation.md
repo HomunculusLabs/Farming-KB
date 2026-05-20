@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources: ['~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
 ---
 
 ## Particle Filtration and Dilution Plating for Microfungal Isolation

@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 ## Insect and Arthropod-Associated Fungi — Biodiversity and Sampling
 

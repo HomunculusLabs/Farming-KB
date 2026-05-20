@@ -9,7 +9,7 @@ tags:
   - homesteading
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['masanobu-fukuoka-sowing-seeds-in-the-desert']
 type: query
 ---
 

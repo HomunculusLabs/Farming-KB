@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 ## Tagasaste (Chamaecytisus palmensis) Tagasaste, also known as tree lucerne, is a nitrogen-fixing legume (Fabaceae/Papilionaceae) native to the Canary Islands. One of the most useful [[legume-nitrogen-dynamics]] and [[permaculture-grazing-and-pasture]] systems. The synergy between tagasaste and pasture supports [[permaculture-forest-garden-establishment]] by sheltering and nurturing young food trees. See [[permaculture-plant-propagation-guide]] for techniques. Seedling establishment benefits from [[permaculture-tree-crop-systems]] as a [[permaculture-climate-zones]] with as little as 300mm annual rainfall when established with rock phosphate. Its [[permaculture-frost-protection-strategies]] in colder areas.
 

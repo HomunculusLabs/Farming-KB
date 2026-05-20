@@ -3,7 +3,7 @@ title: "Shiitake vs Cordyceps"
 tags: [comparison, shiitake, cordyceps, medicinal-mushrooms, mushroom-cultivation]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Shiitake vs Cordyceps

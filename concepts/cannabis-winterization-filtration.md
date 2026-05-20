@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources: ['raw/papers/eliot-coleman-winter-harvest-handbook.md']
 ---
 ## Cannabis Winterization and Filtration
 

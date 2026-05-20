@@ -3,7 +3,7 @@ title: "Diatomaceous Earth vs Bacillus Thuringiensis"
 tags: [comparison, pest-management, organic-control, biocontrol, diatomaceous-earth]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles']
 ---
 
 ## Diatomaceous Earth vs Bacillus Thuringiensis

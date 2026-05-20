@@ -3,7 +3,7 @@ title: "Echinacea vs Chamomile"
 tags: [comparison, medicinal-herbs, immune-support, herbalism, adaptogens]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Echinacea vs Chamomile

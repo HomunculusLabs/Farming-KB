@@ -3,7 +3,7 @@ title: "Comparison Timber Frame Vs Wattle And Daub Comparison Earthbag Vs Rammed
 tags: [comparison, natural-building, wattle-and-daub, rammed-earth, earth-building]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Wattle and Daub vs Rammed Earth

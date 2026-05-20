@@ -1,3 +1,11 @@
+---
+title: Holy Basil (Tulsi) Growing Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, ethnobotany, asia, companion-planting, pollinators]
+sources: []
+---
 
 # Holy Basil (Tulsi) Growing Guide (Ocimum sanctum)
 
@@ -173,7 +181,6 @@ Tulsi is an excellent garden companion:
 - Final harvest before first frost; cut the entire plant
 
 ## See Also
-- [[query-how-to-grow-tulsi-holy-basil-medicinal-garden]]
 
 - [[chamomile-growing-guide]] -- combine with tulsi in calming evening tea
   blends

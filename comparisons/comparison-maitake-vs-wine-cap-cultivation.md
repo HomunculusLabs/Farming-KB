@@ -3,7 +3,7 @@ title: "Maitake vs Wine Cap Cultivation"
 tags: [comparison, mushroom-cultivation, maitake, wine-cap, gourmet-mushrooms]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 ---
 
 ## Maitake vs Wine Cap Cultivation

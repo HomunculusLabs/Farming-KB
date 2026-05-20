@@ -1,3 +1,11 @@
+---
+title: Harmala Alkaloids
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [entheogen, chemistry, psychopharmacology, biochemistry, pharmacology, safety, species, ethnobotany, amazon, south-america, preparation]
+sources: []
+---
 
 # Harmala Alkaloids
 
@@ -140,7 +148,7 @@ Harmala alkaloids must NEVER be combined with:
 - SNRIs (venlafaxine, duloxetine)
 - Tricyclic antidepressants
 - Tramadol, [[dextromethorphan]]
-- 5-HTP or tryptophan supplements
+- 5-HTP or [[tryptophan]] supplements
 - Other serotonergic psychedelics at high doses
 
 This is the most dangerous interaction — serotonin syndrome can be fatal.
@@ -162,5 +170,3 @@ RIMAs are less dangerous with tyramine than irreversible MAOIs, but caution is s
 
 - [[ayahuasca-brewing-guide]] — traditional use of harmala alkaloids with DMT
 - [[dmt-extraction-guide]] — DMT extraction, the other half of the ayahuasca equation
-## See Also
-- [[tihkal-harmala-alkaloids]]

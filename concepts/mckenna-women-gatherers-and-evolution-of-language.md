@@ -2,7 +2,7 @@
 title: "Mckenna Women Gatherers And Evolution Of Language"
 type: concept
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## The Hunter Versus the Gatherer

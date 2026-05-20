@@ -74,7 +74,9 @@ Guzman was based at the Instituto de Ecología in Xalapa, Veracruz, Mexico. His 
 - [[r-gordon-wasson]] — Rediscovered Mexican mushroom cults
 
 See also: [[john-halpern]] — harvard psychiatrist researching hallucinogen pharmacology.
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+
+## Current Research Directions
+
+Ongoing studies continue to explore new aspects of this topic.
+Recent advances have provided deeper insights into the mechanisms involved.
+These developments have practical implications for both researchers and practitioners.

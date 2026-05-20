@@ -2,7 +2,8 @@
 title: "Mushroom Life Cycle"
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 
 ## Spore Release and Dispersal

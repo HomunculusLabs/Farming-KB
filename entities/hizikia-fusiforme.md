@@ -2,7 +2,7 @@
 title: "Hizikia Fusiforme"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 [[ph-and-nutrient-availability-garden-soils]]. Shaded, wave-protected sites produce longer but thinner fronds, while exposed sites yield shorter, sturdier plants. Anthropogenic nutrient inputs from coastal agriculture and aquaculture have been associated with increased growth rates and expanded distribution in some regions.

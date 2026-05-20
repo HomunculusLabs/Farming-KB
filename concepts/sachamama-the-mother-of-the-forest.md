@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources: ['raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md']
 ---
 
 ## Sachamama: The Mother of the Forest

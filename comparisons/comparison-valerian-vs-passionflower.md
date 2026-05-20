@@ -3,7 +3,7 @@ title: "Valerian vs Passionflower"
 tags: [comparison, nervine, sedative, medicinal-herb, sleep]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Valerian vs Passionflower

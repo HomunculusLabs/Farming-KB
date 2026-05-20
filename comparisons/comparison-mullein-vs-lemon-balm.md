@@ -3,7 +3,7 @@ title: "Mullein vs Lemon Balm"
 tags: [comparison, mullein, lemon-balm, medicinal-herbs, respiratory, nervine]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## Mullein vs Lemon Balm

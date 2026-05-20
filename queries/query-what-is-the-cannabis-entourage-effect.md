@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, cannabis, cannabinoids, terpenes, science]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
 type: query
 ---
 

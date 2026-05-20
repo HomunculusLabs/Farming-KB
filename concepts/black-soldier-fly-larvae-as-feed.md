@@ -1,7 +1,15 @@
+---
+title: Black Soldier Fly Larvae as Feed
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [animal-husbandry, byproducts, nutrition, homesteading, processing, preservation, sustainability]
+sources: []
+---
 
 # Black Soldier Fly Larvae as Feed
 
-Black soldier fly (BSF) larvae are a high-quality protein source for poultry, fish, swine, and other livestock. As homestead-scale insect farming grows, BSF larvae offer a locally produced alternative to commercial feed, reducing input costs and closing nutrient cycles.
+Black soldier fly (BSF) larvae are a high-quality protein source for poultry, fish, swine, and other livestock. As homestead-[[scale-insect]] farming grows, BSF larvae offer a locally produced alternative to commercial feed, reducing input costs and closing nutrient cycles.
 
 ## Nutrition Profile
 
@@ -108,5 +116,3 @@ BSF larvae are produced as a byproduct of [[black-soldier-fly-composting]]. The 
 ## Economic Considerations
 
 At homestead scale, BSF larvae production costs are primarily labor and bin materials. The value of waste diverted from landfill and feed costs avoided typically provides a strong return on investment. Commercial BSF meal sells for $800-1,500 per ton, making small-scale production economically competitive with soybean meal ($350-500/ton) when waste diversion value is included.
-## See Also
-- [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]

@@ -3,7 +3,7 @@ title: "Cordyceps vs Turkey Tail"
 tags: [comparison, cordyceps, turkey-tail, medicinal-mushrooms, cultivation]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['cancer-treatments-medicinal-mushrooms.md']
 ---
 
 ## Cordyceps vs Turkey Tail

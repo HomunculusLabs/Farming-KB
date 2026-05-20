@@ -9,7 +9,7 @@ tags:
   - homesteading
 created: 2026-05-06
 updated: 2026-05-06
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## How to Grow Black Currants at Home

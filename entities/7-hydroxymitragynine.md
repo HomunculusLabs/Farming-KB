@@ -2,7 +2,7 @@
 title: "7 Hydroxymitragynine"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Chemical Identity

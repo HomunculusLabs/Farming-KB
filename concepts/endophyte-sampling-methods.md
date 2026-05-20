@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Endophyte Sampling Methods — Isolation, Culture, and Identification

@@ -5,7 +5,7 @@ type: species
 tags: [fungi, psychoactive, cortinariaceae, wood-inhabiting, temperate]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Gymnopilus luteus

@@ -2,7 +2,7 @@
 title: "Elymus Hystrix"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species is named for its distinctive inflorescence, which resembles a bottlebrush or bristly caterpillar with long, straight awns extending outward from a dense spike.

@@ -1,3 +1,11 @@
+---
+title: Mushroom Cooking Techniques
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [food, mushrooms, cooking, nutrition, preparation, preservation, foraging, species]
+sources: []
+---
 
 ## Overview
 

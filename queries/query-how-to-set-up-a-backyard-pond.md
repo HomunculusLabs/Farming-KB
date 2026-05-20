@@ -9,7 +9,7 @@ tags:
   - diy
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 type: query
 ---
 ## How to Set Up a Backyard Pond

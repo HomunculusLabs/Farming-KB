@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Dandelion in My Garden?"
 tags: [query, dandelion, edible-weeds, medicinal-herbs, permaculture]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 # How Do I Grow and Use Dandelion in My Garden?

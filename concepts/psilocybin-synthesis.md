@@ -11,7 +11,7 @@ This represented a dramatic improvement over previous synthetic routes.
 
 ## The Challenge of Psilocybin Synthesis
 
-While several reports on [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] is added to the reaction mixture. The
+While several reports on aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] is added to the reaction mixture. The
 mixture is diluted with ethyl acetate and filtered through a Celite pad.
 The filtrate is concentrated, redissolved in dichloromethane, and stored
 overnight.

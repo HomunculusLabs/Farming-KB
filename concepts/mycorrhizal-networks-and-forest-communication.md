@@ -1,3 +1,11 @@
+---
+title: Mycorrhizal Networks and Forest Communication
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycorrhizae, forest-ecology, ecology, fungi, symbiosis, biology, networks, environment, carbon]
+sources: []
+---
 
 ## Overview
 

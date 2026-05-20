@@ -3,7 +3,7 @@ title: "How do I grow feijoa in my garden or orchard?"
 tags: [query, feijoa, subtropical-fruit, fruit-trees, orchard]
 date: 2026-05-18
 updated: 2026-05-18
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How do I grow feijoa in my garden or orchard?

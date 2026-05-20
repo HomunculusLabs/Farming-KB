@@ -3,7 +3,7 @@ title: "What Is Ergot and How Has It Shaped History, Medicine, and Agriculture?"
 tags: [query, ergot, claviceps, mycotoxins, lsd, agricultural-disease]
 date: 2026-05-20
 updated: 2026-05-20
-sources: []
+sources: ['raw/papers/unknown-oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid|oyster-mushroom-cultivation.md']
 ---
 
 # What Is Ergot and How Has It Shaped History, Medicine, and Agriculture?

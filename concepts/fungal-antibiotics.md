@@ -1,3 +1,11 @@
+---
+title: Fungal Antibiotics
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, fungi, chemistry, health, medicine, history, biology, lab-technique]
+sources: []
+---
 
 # Fungal Antibiotics
 

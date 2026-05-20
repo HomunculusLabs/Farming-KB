@@ -3,7 +3,7 @@ title: "How Do I Grow Nameko Mushrooms at Home?"
 tags: [query, mushroom-cultivation, nameko, pholiota, gourmet-mushrooms]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 ---
 
 # How Do I Grow Nameko Mushrooms at Home?

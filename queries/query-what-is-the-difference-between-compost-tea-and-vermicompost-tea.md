@@ -9,7 +9,7 @@ tags:
   - organic-fertilizer
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/gardening-when-it-counts-steve-solomon.md']
 type: query
 ---
 ## Overview

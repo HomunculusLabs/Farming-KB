@@ -5,7 +5,7 @@ tags: [pharmacology, toxicology, immunology, drug-metabolism, safety]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Overview

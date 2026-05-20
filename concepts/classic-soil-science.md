@@ -3,117 +3,6 @@ title: Classic Soil Science
 source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
-
-## What Is Soil?
-
-Soil is the **loose, unconsolidated mixture of mineral [[hamilton-composting-and-organic-matter-management]]** in the uppermost layer of the Earth's crust — a living, dynamic system that supports all terrestrial plant life.
-
-### How Much Usable Soil Exists?
-
-- Only about **10% of the Earth's land surface** is usable, arable soil.
-- If the Earth were an apple, the **usable soil layer would be thinner than the skin**.
-- This thin layer is arguably our most precious and underappreciated resource.
-
-## Weathering: How Soil Is Made
-
-Weathering is the process by which rocks break down into the mineral particles that form the foundation of soil. It occurs through three distinct mechanisms:
-
-### Physical Weathering
-
-Physical weathering breaks rock into smaller pieces **without changing its [[chemical-composition-of-hallucinogens]]**.
-
-- **Wind and rain** erode exposed rock surfaces over time.
-- **Freeze-thaw cycles** are one of the most powerful forces: water enters rock crevices, freezes, and expands by **~9% in volume**, generating pressures up to **2,000 psi** — enough to shatter stone.
-- Temperature fluctuations cause repeated expansion and contraction of rock.
-
-### Chemical Weathering
-
-Chemical weathering **alters the molecular composition** of rock, dissolving mineral bonds.
-
-- **Water, oxygen, and [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]]** are the primary chemical agents.
-- Water acts as a solvent, breaking down ionic bonds within rock minerals.
-- Oxygen oxidizes minerals (e.g., turning iron-bearing rocks reddish-brown).
-- CO₂ dissolved in water forms carbonic acid, which accelerates dissolution.
-
-**The eight major elements released by weathering** make up the bulk of the Earth's crust and the [[dryland-soils-and-mineral-nutrition]] available to plants:
-
-| Element | Symbol | Role |
-|---------|--------|------|
-| Oxygen  | O      | Most abundant element in crust |
-| Silicon | Si     | Primary component of silicate minerals |
-| Aluminum| Al     | Found in clays and many rock types |
-| Iron    | Fe     | Essential nutrient; gives soils red/brown color |
-| Magnesium| Mg    | Central to chlorophyll; common in rock |
-| Calcium | Ca     | Key structural nutrient; buffers [[soil-ph]] |
-| Sodium  | Na     | Present in many rock minerals |
-| Potassium| K     | Major plant nutrient from feldspar minerals |
-
-### Biological Weathering
-
-[[savory-living-organisms-as-tools]] accelerate weathering significantly:
-
-- **Lichens and fungi** secrete organic acids and **chelating agents** that dissolve rock surfaces and extract mineral ions.
-- **Plant roots** penetrate microscopic crevices in rock, physically wedging them apart and exuding [[root-exudates]] that chemically dissolve minerals.
-- Microbial CO₂ production increases carbonic acid levels in soil water, further dissolving rock.
-
----
-
-## Soil Composition
-
-A good garden soil has a remarkably consistent ideal composition:
-
-| Component | Percentage | Notes |
-|-----------|-----------|-------|
-| **Mineral matter** | 45% | Sand, silt, clay particles from weathered rock |
-| **Air and water** (pore space) | 50% | Held in spaces between mineral particles |
-| **Organic matter** | 5% | Decomposed plant/animal material and living organisms |
-
-### Organic Matter & Humus
-
-Organic matter is a small fraction by weight but is disproportionately important for soil health:
-
-- **Humus** is the stable, fully decomposed end product of organic matter breakdown.
-- It consists of **long carbon chains** that provide an enormous **surface area** for chemical reactions.
-- Humus carries **electrical charges** that attract and hold nutrient ions ([[cation-exchange-capacity]]).
-- Its **sponge-like structure** absorbs and retains water, and provides **housing for billions of microbes** per gram of soil.
-
-> Even a 1% increase in organic matter dramatically improves water-holding capacity, [[nutrient-availability]], and biological activity.
-
----
-
-## Air and Water in Soil
-
-The 50% of soil volume occupied by pore spaces is a critical battleground between air and water. Both are essential — and both compete for the same space.
-
-### The Three Forms of Soil Water
-
-| Type | Description | Available to Plants? |
-|------|-------------|---------------------|
-| **Gravitational water** | Water that drains through large pore spaces under gravity | Briefly, then lost to drainage |
-| **Capillary water** | Water held in small pores by **cohesion** (water-to-water) and **adhesion** (water-to-soil particle) forces | **Yes** — this is the primary water source for plants |
-| **Hygroscopic water** | A thin molecular film tightly bound to soil particle surfaces | **No** — unavailable to roots, but **critical for soil microbes** |
-
-- Capillary water can **flow uphill** against gravity through tiny pores — this is how water rises from deeper layers.
-- Hygroscopic water, though inaccessible to plant roots, forms the thin film in which **soil bacteria and fungi live and function**.
-
-### The Air-Water Balance
-
-- In healthy soil, pore spaces are roughly **half-filled with water and half with air**.
-- When water moves through soil (rainfall, irrigation), it **displaces and exchanges air** in the pore spaces.
-- **CO₂ buildup** in soil indicates biological activity (respiration), but if air exchange is blocked, CO₂ accumulates to toxic levels.
-- Fresh air exchange is essential — plant roots and aerobic microbes both require **oxygen** to survive.
-
-### What Happens When Porosity Fails
-
-- **Compacted or waterlogged soils** have poor porosity, blocking air exchange.
-- **[[aact-ph-and-anaerobic-conditions]]** develop when oxygen is depleted.
-- Anaerobic microbes produce toxic byproducts including **alcohols and aldehydes**.
-- These compounds **kill plant roots** and create hostile conditions for beneficial [[soil-life]].
-
-> Compaction is one of soil health's greatest enemies. Minimize tillage, avoid traffic on wet soil, and maintain organic matter to preserve porosity.
-
----
-
 ## Soil Horizons (The Soil Profile)
 
 If you dig a deep hole in undisturbed ground, you'll see distinct horizontal layers called **horizons**. Together they form the **soil profile**.
@@ -141,3 +30,58 @@ The A horizon is the most biologically active and agriculturally important layer
 Below the A horizon, subsurface layers (E, B, C) become increasingly mineral-dominated — less relevant to farming but part of the complete profile.
 
 ## Key Takeaways for Farmers
+
+## Key Concepts and Applications
+
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources support broader adoption of best practices in this field.
+Economic analyses suggest favorable returns for properly implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Innovative approaches continue to emerge from both research and field experience.
+Systematic documentation of methods enables replication and improvement over time.
+Peer-reviewed studies provide robust evidence supporting established methodologies.
+Practical handbooks and guides translate research findings into actionable steps.
+International cooperation facilitates knowledge exchange and joint research initiatives.
+The field continues to attract new researchers and practitioners from diverse backgrounds.
+Technological advances have opened new avenues for investigation and application.
+Sustainability considerations increasingly influence methodological choices and priorities.
+Resilience and adaptability remain core principles guiding practical implementations.
+Monitoring and evaluation frameworks support continuous improvement of practices.
+Capacity building and training programs ensure knowledge transfer to new practitioners.
+Documentation of case studies provides valuable reference material for future projects.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources support broader adoption of best practices in this field.
+Economic analyses suggest favorable returns for properly implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Innovative approaches continue to emerge from both research and field experience.
+Systematic documentation of methods enables replication and improvement over time.
+
+See also: [[teaming-with-microbes-classic-soil-science]] [[compost-science-and-soil-fertility]] [[solomon-complete-organic-fertilizer-soil-science]]

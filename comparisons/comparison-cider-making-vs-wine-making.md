@@ -3,7 +3,7 @@ title: "Cider Making vs Wine Making"
 tags: [comparison, fermentation, homesteading, fruit, beverage]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/unknown-mushrooms-fungi-from-around-the-world.md']
 ---
 
 ## Cider Making vs Wine Making

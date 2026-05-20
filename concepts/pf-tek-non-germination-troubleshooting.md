@@ -6,7 +6,7 @@ tags: [pf-tek, spore-germination, troubleshooting, inoculation, query-spore-syri
 
 ## Expected Germination Timeline
 
-Under proper conditions, [[mycelium]]
+Under proper conditions, mycelium]]
 is actively seeking nutrients throughout the substrate.
 If no growth is observed after 7 to 10 days, non-germination should be suspected and
 the following diagnostic factors investigated systematically.

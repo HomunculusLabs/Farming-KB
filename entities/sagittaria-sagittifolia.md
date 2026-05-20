@@ -2,7 +2,7 @@
 title: "Sagittaria Sagittifolia"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/laminar-flow-hood-construction-1.md']
 ---
 
 **Inflorescences** are racemose, rising on erect peduncles 20–80 cm above the water. Each peduncle bears 3–12 whorls of flowers, with female flowers in the lower whorls and male flowers in the upper whorls.

@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Different plants prefer different soil biology. The ratio of fungi to bacteria (F:B ratio) is one of the most important indicators of soil health and determines what kinds of plants will thrive. This preference is tied to ecological succession -- the natural progression from bare soil to old-growth forest.
+Different plants prefer different soil biology. The ratio of fungi to bacteria (F:B ratio) is one of the most important indicators of soil health and determines what kinds of plants will thrive. This preference is tied to [[ecological-succession]] -- the natural progression from bare soil to old-growth forest.
 
 ## The Two Rules
 
@@ -23,7 +23,7 @@ From Teaming with Microbes:
 
 ## Ecological Succession and Soil Biology
 
-Early succession communities are bacterially dominated. As organic litter accumulates from waste products and the plant life they support, fungal spores finally have enough nutrients to germinate. As plant life and the soil food web become more varied, fungal numbers increase and short-lived annuals give way to perennial grassland plants, then shrubs, soft hardwoods, expanding saplings, mature hardwoods, and finally the conifers of old-growth forests.
+Early succession communities are bacterially dominated. As organic litter accumulates from waste products and the plant life they support, fungal spores finally have enough nutrients to germinate. As plant life and [[the-soil-food-web]] become more varied, fungal numbers increase and short-lived annuals give way to perennial grassland plants, then shrubs, soft hardwoods, expanding saplings, mature hardwoods, and finally the conifers of old-growth forests.
 
 The transition from bacterial to fungal dominance occurs because:
 
@@ -54,7 +54,7 @@ Some trees and shrubs considered transitional in ecological succession -- cotton
 
 **To increase bacteria**: Add bacterial foods (simple sugars, molasses, green composts, plant material low in lignin), keep soil disturbed (tilling favors bacteria), use green mulches.
 
-**To increase fungi**: Add fungal foods (humic acids, fish hydrolysate, kelp, brown woody materials), minimize soil disturbance, apply brown mulches, avoid excessive tilling which destroys fungal hyphae.
+**To increase fungi**: Add fungal foods (humic acids, [[fish-hydrolysate]], kelp, brown woody materials), minimize soil disturbance, apply brown mulches, avoid excessive tilling which destroys [[fungal-hyphae]].
 
 ## Practical Implications
 
@@ -66,33 +66,14 @@ Some trees and shrubs considered transitional in ecological succession -- cotton
 ## Related
 
 - [[soil-food-web-structure]]
-- [[mycorrhizal-inoculation-guide]]
+- mycorrhizal inoculation
 - [[root-exudates]]
 - [[compost-tea-recipe-guide]]
 - [[nitrogen-cycle-in-soil]]
-### Key Principles
-Understanding bacterial vs fungal soil requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Practical Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[soil-food-web]]
-- [[mycorrhiza]]
-- [[aact-bacterial-dominant-tea]]
+The principles discussed here have been applied in various settings.
+Practitioners have developed methods that integrate these concepts effectively.
+Results from field trials have demonstrated consistent improvements.
+These approaches continue to evolve with new research and experience.

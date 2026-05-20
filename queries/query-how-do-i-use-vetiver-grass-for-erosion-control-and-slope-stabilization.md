@@ -3,7 +3,7 @@ title: "How Do I Use Vetiver Grass for Erosion Control and Slope Stabilization?"
 tags: [query, permaculture, erosion-control, vetiver, slope-stabilization, earthworks]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 # How Do I Use Vetiver Grass for Erosion Control and Slope Stabilization?

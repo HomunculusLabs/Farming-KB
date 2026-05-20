@@ -22,7 +22,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
+successful implementations combine established fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 
 ## Overview

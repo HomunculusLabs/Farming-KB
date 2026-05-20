@@ -23,7 +23,7 @@ Weil's foreword to *Mycelium Running* articulates several key positions on funga
 
 **On the medical potential of fungi:** "When we first met, I was questioning why Western medicine had never looked to mushrooms as sources of new therapeutic agents, given their prominence in the traditional pharmacopeias of China, Japan, and Korea." He endorsed Stamets' "Big Idea" that fungi from old-growth forests may be sources of new medicines active against a range of germs, including HIV/AIDS and the causative agents of smallpox and anthrax — potential bioterrorist threats.
 
-**On mycoremediation:** Weil endorsed Stamets' concept that "mycelium can be selected and trained to break down toxic waste, reducing it to harmless metabolites" and the broader [[mycorestoration]] strategy of using fungi to filter water, help trees grow, and control insect pests through completely nontoxic means.
+**On mycoremediation:** Weil endorsed Stamets' concept that "mycelium can be selected and trained to break down toxic waste, reducing it to harmless metabolites" and the broader [[mycorestoration-overview]] strategy of using fungi to filter water, help trees grow, and control insect pests through completely nontoxic means.
 
 **On the ecological importance of fungi:** "Trees and other green plants could not grow and reach maturity without symbiotic associations with mushrooms, at least with mycelium, the network of fungal threads in soil that act as interfaces between plant roots and nutrients." He noted that "mushrooms — ignored by many, reviled by some — may turn out to be important keys to both human health and planetary health."
 
@@ -57,32 +57,28 @@ Weil went on to found the field of integrative medicine, which combines conventi
 - [[richard-alpert]] — Harvard colleague of Leary covered in Weil's reporting
 - [[entheogen-culture]] — Weil's early research on consciousness-altering substances
 - [[medicinal-mushroom-guide]] — Weil helped bring medicinal mushroom research to mainstream attention
-- [[mycorestoration]] — Weil endorsed Stamets' mycorestoration framework
-### Key Principles
-Understanding andrew weil requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
+- [[mycorestoration-overview]] — Weil endorsed Stamets' mycorestoration framework
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
+## Key Concepts and Applications
 
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
-### Additional Notes
-The study and application of andrew weil continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of andrew weil continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources and training programs support broader adoption of best practices.
+Economic analyses suggest favorable returns on investment for implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.

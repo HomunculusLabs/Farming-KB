@@ -7,19 +7,7 @@ Each sister fills a distinct structural and nutritional niche:
 
 - **Corn (the "oldest sister")**: Provides vertical support. A strong stalk is essential -- field corn and flour corn varieties work best because they grow tall (6-10 ft) and produce sturdy stems.
 - **Beans (the "second sister")**: Climbing pole beans (not bush beans) wind up the corn stalks. Through mollison-designers-cover-crops-and-green-manure-species.
-
 ---
-
-## Common Mistakes
-
-1. **Planting all three crops on the same day.** Corn must get a head start or beans will smother it before stalks can support climbing.
-2. **Using bush beans instead of pole beans.** Bush beans won't climb and add nothing to the vertical dynamic.
-3. **Crowding mounds too close.** Squash needs room to sprawl. Fewer, well-spaced mounds outperform many crowded ones.
-4. **Planting super-sweet corn.** Modern supersweet hybrids (SH₂) have weak stalks that may not support climbing beans. Use field, flour, or flint corn.
-5. **Neglecting inoculation.** If your soil hasn't hosted beans before, treat bean seeds with Rhizobium inoculant to ensure effective [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and polycultures.
-
----
-
 ## Companion Planting Benefits Beyond the Three Sisters
 
 The [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], or pollination services:

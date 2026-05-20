@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [compost, composting, soil, microbes, temperature, methods, soil-building, microbes, recipe, workflow]
-sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
+sources: []
 ---
 
 # Hot Composting Method

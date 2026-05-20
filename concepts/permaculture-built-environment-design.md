@@ -4,7 +4,7 @@ created: 2026-04-20
 updated: 2026-05-09
 type: concept
 tags: [permaculture, design]
-sources: []
+sources: ['raw/papers/williams-pdc-earthworks-pdc_-a-permaculture-design-cours.md']
 ---
 ## Permaculture Built Environment Design
 

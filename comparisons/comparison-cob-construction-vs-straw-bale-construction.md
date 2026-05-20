@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, natural-building, construction, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 type: comparison
 ---
 ## Cob vs Straw Bale Construction

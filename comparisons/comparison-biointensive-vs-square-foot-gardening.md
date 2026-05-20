@@ -3,7 +3,7 @@ title: "Biointensive vs square-foot-gardening"
 tags: [comparison, gardening, biointensive, square-foot, intensive-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md']
 ---
 
 ## Biointensive vs Square Foot Gardening

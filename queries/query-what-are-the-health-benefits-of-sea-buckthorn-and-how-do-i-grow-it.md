@@ -3,7 +3,7 @@ title: "What Are the Health Benefits of Sea Buckthorn and How Do I Grow It?"
 tags: [query, sea-buckthorn, superfood, medicinal-plants, permaculture]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['uwe-blesching-the-cannabis-health-index.md']
 ---
 
 ## What Are the Health Benefits of Sea Buckthorn and How Do I Grow It?

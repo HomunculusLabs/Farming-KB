@@ -3,7 +3,7 @@ title: "Ginkgo biloba vs Panax ginseng"
 tags: [comparison, medicinal-plants, adaptogens, nootropics, herbal-medicine]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Ginkgo biloba vs Panax ginseng

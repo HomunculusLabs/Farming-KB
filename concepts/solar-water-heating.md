@@ -1,3 +1,11 @@
+---
+title: Solar Water Heating
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, energy, off-grid, engineering, water, sustainability]
+sources: []
+---
 
 # Solar Water Heating
 

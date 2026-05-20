@@ -4,7 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [soil, ph, minerals, fertility, nutrients, methods, plant-growth, troubleshooting]
-sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
+sources: []
 ---
 
 # Soil pH Management

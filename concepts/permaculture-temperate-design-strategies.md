@@ -1,3 +1,18 @@
+---
+title: Permaculture Temperate Design Strategies
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags:
+  - temperate
+  - climate
+  - frost
+  - wind
+  - season-extension
+  - permaculture
+sources:
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
+---
 
 # Permaculture Temperate Design Strategies
 
@@ -69,13 +84,3 @@ Best defenses: preservation of high-slope forests, placement of essential servic
 - [[permaculture-livestock-forage-systems]] -- Forage strategies for temperate livestock
 - [[permaculture-design-process]] -- Energy-efficient housing for cold climates
 - [[permaculture-livestock-forage-systems]] -- Rotational grazing in temperate grasslands
-
-## Seasonal Planning Cycles
-
-Temperate permaculture requires careful seasonal timing for plantings,
-harvests, and infrastructure projects. Spring focuses on soil
-preparation and early plantings, summer on water management and
-succession planting, autumn on harvest and preservation, and winter
-on design review and tool maintenance. Microclimate modification
-through windbreaks, thermal mass, and water bodies extends the
-growing season significantly in temperate zones.

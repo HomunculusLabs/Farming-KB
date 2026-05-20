@@ -3,39 +3,6 @@ title: "Three Types of Lime: Agricultural, Dolomitic, and Gypsum — The pH Myth
 tags:
   - concept
 ---
-
-## Forget About pH
-
-You may have read that the acidity or pH of soil should be corrected by liming. Solomon's advice: forget about pH. Liming to adjust soil pH may be standard practice in conventional farming, but it is not of concern in an organic garden.
-
-The concept of soil pH is controversial. Solomon references the work of William Albrecht, whose research demonstrated that soil pH is more of a symptom than a cause — it reflects the balance of calcium and magnesium (and other cations) in the soil rather than being a primary factor requiring direct intervention.
-
-### [[complete-organic-fertilizer-cof-recipe-solomon|Complete]] Organic Fertilizer) formula, providing the calcium that all vegetables need for cell wall structure, disease resistance, and root development.
-
-### 2. Dolomitic Lime (Dolomite)
-
-Dolomite is [[query-how-do-fungi-improve-soil-structure]] in clay soils (the sulfate ions help flocculate clay particles)
-- **Calcium:magnesium ratio:** Very high (no magnesium)
-- **When to use:** When you need calcium but pH is already adequate or high
-- **Special advantage:** Can be used on soils that are already alkaline, where agricultural lime or dolomite would make things worse
-- **Solubility:** More soluble than agricultural lime, making calcium available more quickly
-
-If you do not have access to gypsum, Solomon recommends doubling the quantity of agricultural lime in the COF recipe to compensate for the missing calcium. This is less ideal because it also raises pH, but in most garden soils the effect is modest at the rates used in COF.
-
----
-
-## The COF Lime Blend
-
-In Solomon's [[complete-organic-fertilizer-cof]], all three lime types appear:
-
-- 1 part agricultural lime (calcium carbonate)
-- 1 part gypsum (calcium sulfate) — or double the agricultural lime if gypsum unavailable
-- 1 part dolomite lime (calcium magnesium carbonate) — for best results
-
-When COF is mixed by volume and applied at the standard rate, it automatically distributes about 25 pounds of lime per 1,000 square feet per year. This consistent, modest application maintains calcium and magnesium levels without the risk of over-liming that comes from large periodic applications.
-
----
-
 ## Why pH Correction Is Unnecessary
 
 Solomon's argument against pH-focused liming has several components:

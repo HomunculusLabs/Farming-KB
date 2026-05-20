@@ -4,7 +4,7 @@ created: 2026-04-11
 updated: 2026-04-13
 type: concept
 tags: [homesteading, methods, gardening, health, troubleshooting]
-sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+sources: []
 ---
 
 # Food Preservation and Canning

@@ -1,3 +1,11 @@
+---
+title: Hot Sauce Making
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fermentation, recipe, food, homesteading, homestead-crafts, preservation, preparation]
+sources: []
+---
 
 ## What Is Hot Sauce
 

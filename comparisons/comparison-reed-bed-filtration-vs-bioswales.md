@@ -3,7 +3,7 @@ title: "Reed Bed Filtration vs Bioswales"
 tags: [comparison, water-treatment, stormwater, bioswales, reed-bed, greywater]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['water-for-every-farmer']
 ---
 
 ## Reed Bed Filtration vs Bioswales

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [herbalism, organic-gardening, pest-control, permaculture, herbal-preparations]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 type: query
 ---
 

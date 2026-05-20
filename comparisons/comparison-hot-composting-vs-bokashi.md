@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, composting, soil-building, microbes, waste-management]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/gardening-when-it-counts-steve-solomon.md']
 type: comparison
 ---
 

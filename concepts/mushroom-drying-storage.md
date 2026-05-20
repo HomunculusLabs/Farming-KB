@@ -1,3 +1,11 @@
+---
+title: Mushroom Drying and Storage
+created: 2026-04-11
+updated: 2026-04-12
+type: concept
+tags: [mushrooms, fungi, processing, methods, troubleshooting]
+sources: []
+---
 
 # Mushroom Drying and Storage
 

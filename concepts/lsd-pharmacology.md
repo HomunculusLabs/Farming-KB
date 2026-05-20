@@ -1,3 +1,19 @@
+---
+title: LSD Pharmacology
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags:
+  - lsd
+  - pharmacology
+  - serotonin
+  - 5-ht2a
+  - neuroscience
+  - pharmacokinetics
+sources:
+  - raw/particles/hofmann-a-lsd-my-problem-child.md
+  - raw/papers/the-psilocybin-solution-by-simon-g-powell.md
+---
 
 # LSD Pharmacology
 

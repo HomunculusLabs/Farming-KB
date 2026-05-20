@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [natural-building, hempcrete, straw-bale, sustainable-construction, insulation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/one-straw-revolution-masanobu-fukuoka.md']
 type: comparison
 ---
 

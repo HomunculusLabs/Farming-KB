@@ -2,7 +2,7 @@
 title: "Myrica Gale"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 Sweetgale was a primary flavoring agent in European gruit beers before the

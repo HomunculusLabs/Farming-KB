@@ -3,7 +3,7 @@ title: "What Is Gypsum and How Do I Use It in My Garden?"
 tags: [query, soil-amendment, gypsum, soil-structure, calcium]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 # What Is Gypsum and How Do I Use It in My Garden?

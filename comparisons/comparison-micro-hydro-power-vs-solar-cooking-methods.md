@@ -3,7 +3,7 @@ title: "Micro Hydro Power vs Solar Cooking Methods"
 tags: [comparison, energy, off-grid, homesteading, renewable-energy]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Micro Hydro Power vs Solar Cooking Methods

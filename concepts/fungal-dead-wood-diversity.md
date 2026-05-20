@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 ## Fungal Diversity in Dead Wood and Coarse Woody Debris Dead wood and coarse woody debris (CWD) constitute one of the most important substrates for fungal diversity in forest ecosystems. The slow decomposition of lignified tissues allows extensive fungal succession and supports specialized communities. [[coprophilous-fungi]] fungal-succession-patterns [[saprotrophic-fungi]]
 

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, species, potency, species-profiles, psychopharmacology, genetics]
-sources: [raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
+sources: []
 ---
 
 ## Overview

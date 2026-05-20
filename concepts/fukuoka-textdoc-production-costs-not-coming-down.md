@@ -11,7 +11,7 @@ while human effort always demands payment in return.
 
 Suppose an entrepreneur decided to grow rice and vegetables in a large building
 right at the center of a major city. He would make full spatial use of the
-building in [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
+building in fukuoka-textdoc-natural-livestock-unconditional-truth]]
 - [[doc]]
 - [[fukuoka-textdoc-increased-production-not-increased-yields]]
 - [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]]

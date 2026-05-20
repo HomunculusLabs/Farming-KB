@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [remediation, environment]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 
 ## Bioremediation of Heavy Metal Contaminated Soils

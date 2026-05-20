@@ -3,7 +3,7 @@ title: "How Do I Grow Quinoa in My Garden or on My Small Farm?"
 tags: [query, quinoa, grain-growing, ancient-grains, pseudo-cereals, drought-tolerant]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow Quinoa in My Garden or on My Small Farm?

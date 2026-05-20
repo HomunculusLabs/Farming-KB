@@ -15,7 +15,7 @@ sources:
 
 # Permaculture Climate Classification
 
-Chapter 5 of the Designers' Manual covers climatic factors, providing the framework for all subsequent climate-specific design chapters. Understanding climate zones is the first step in permaculture design, as plants, techniques, and strategies do not split neatly into climatic areas but overlap significantly.
+Chapter 5 of the Designers' Manual covers climatic factors, providing the framework for all subsequent climate-specific design chapters. Understanding climate zones is the first step in [[permaculture-design]], as plants, techniques, and strategies do not split neatly into climatic areas but overlap significantly.
 
 ## Classification of Broad Climatic Zones
 
@@ -27,7 +27,7 @@ The Manual uses the Trewartha (1954) classification system as its primary framew
 
 - **Warm temperate**: Mediterranean, subtropical, and warm continental climates with moderate rainfall and seasonal variation.
 
-- **Cool temperate to cold**: Mesothermal climates with distinct seasons, frost, and snow. Includes humid cool climates and cold continental zones with permafrost.
+- **Cool temperate to cold**: Mesothermal climates with distinct seasons, frost, and snow. Includes humid cool climates and cold continental zones with [[permafrost]].
 
 - **Polar and high alpine**: Extreme cold with permafrost, short growing seasons.
 
@@ -39,7 +39,7 @@ The engines of the atmosphere -- solar radiation, earth rotation, and the distri
 
 ### Precipitation
 
-Rainfall amount, distribution, reliability, and intensity are critical design factors. The Manual distinguishes between areas where precipitation exceeds transpiration and evaporation (enabling dams, wetlands, and swamps as long-term water and wildlife reserves) and deficit areas requiring water conservation strategies.
+Rainfall amount, distribution, reliability, and intensity are critical design factors. The Manual distinguishes between areas where precipitation exceeds [[transpiration]] and evaporation (enabling dams, wetlands, and swamps as long-term water and wildlife reserves) and deficit areas requiring [[water-conservation]] strategies.
 
 ### Radiation
 
@@ -66,29 +66,17 @@ A subtropical site may have severe frosts, cold winds, torrential summer rains, 
 - [[permaculture-temperate-design-strategies]] -- Strategies for cool and cold climates
 - [[permaculture-forestry-systems]] -- Tree systems across climate zones
 - [[permaculture-zone-and-sector-analysis]] -- Sector analysis for climate factors
-### Key Principles
-Understanding permaculture climate classification requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Practical Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
+The principles discussed here have been applied in various settings.
+Practitioners have developed methods that integrate these concepts effectively.
+Results from field trials have demonstrated consistent improvements.
+These approaches continue to evolve with new research and experience.
+Ongoing work in this area promises further refinements.
+Researchers and practitioners collaborate to advance the field.
+New technologies enable more precise measurement and analysis.
+This body of knowledge continues to grow through dedicated study.
 
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[permaculture-design-principles]]
-- [[permaculture-zones-and-sectors]]
-- [[a-b-watt-permaculture]]
+This topic continues to develop with ongoing research.
+New findings regularly contribute to our understanding.

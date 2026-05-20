@@ -1,3 +1,11 @@
+---
+title: Seed Saving Vegetables
+created: 2026-04-12
+updated: 2026-04-13
+type: concept
+tags: [seeds, vegetables, gardening, propagation, self-reliance, self-sufficiency, methods, plants]
+sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
+---
 
 # Seed Saving Vegetables
 

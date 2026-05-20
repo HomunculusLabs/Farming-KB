@@ -2,7 +2,7 @@
 title: "Riccia Fluitans"
 type: entity
 tags: []
-sources: []
+sources: ['water-for-every-farmer']
 ---
 
 It frequently grows among other aquatic bryophytes and macrophytes, forming mixed mats on the water surface. These floating mats provide habitat for numerous invertebrate species.

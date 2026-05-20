@@ -1,3 +1,11 @@
+---
+title: Cannabis Extraction Basics
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [cannabis, processing, lab-technique, chemistry, safety, potency, equipment]
+sources: []
+---
 
 ## Overview
 

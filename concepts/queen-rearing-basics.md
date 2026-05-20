@@ -154,5 +154,5 @@ Maintain records of colony performance to inform breeding decisions. See
 [[beekeeping-problems-and-solutions]] for information on selecting for
 disease resistance and [[beekeeping-seasonal-calendar]] for timing queen
 rearing with the seasonal cycle.
-## See Also
-- [[comparison-biogas-digester-basics-vs-solar-cooking-methods]]
+
+See also: [[bee-forage-plants]]

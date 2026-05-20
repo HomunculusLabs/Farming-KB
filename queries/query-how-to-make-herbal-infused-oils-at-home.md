@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [herbalism, medicine-making, herbal-oils, natural-remedies, herbalism-basics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 type: query
 ---
 

@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 Tannins and phenolic compounds are among the most chemically
 recalcitrant components of plant litter, and their decomposition by

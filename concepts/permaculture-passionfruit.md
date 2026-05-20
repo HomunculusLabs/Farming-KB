@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 Updated: 2026-04-18 Source: Permaculture Plants: A Selection (Nugent & Boniface, 2nd ed 2004) ## Overview - Family: Passifloraceae - 40+ edible species; mostly tropical to subtropical woody [[query-how-do-i-train-and-trellis-fruiting-vines-and-climbing-plants]] - Climb by tendrils; will climb trellis or trees - Can inhibit supporting tree growth by reducing sunlight — provide clump of trees so vine can spread - Fruit falls to ground when ripe - Named by Spanish who thought flowers resembled the passion of Christ ## Key Species ### [[passiflora-edulis]] (Purple Passionfruit / Granadilla) - Most widely known; native Brazil - Subtropical, fairly dense, evergreen vine; also red and black variations - Prefers moist, well-drained, fertile, neutral to slightly alkaline soil - Withstands occasional light frosts; long fruiting season; often two crops/year - Ripe aromatic fruits: raw, juiced, bottled, sauces, cakes, jellies; edible oil from seeds (comparable to sunflower/soybean) - Medicinal: juice used as digestive stimulant; treatment for [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] Common pests include [[permaculture-beekeeping]]
 - [[jadam-fruit-tree-winter-pest-control]]

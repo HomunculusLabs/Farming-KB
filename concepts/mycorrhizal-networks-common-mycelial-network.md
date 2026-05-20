@@ -1,3 +1,11 @@
+---
+title: Mycorrhizal Networks (Common Mycelial Network)
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags: [mycology, soil-biology, ecology, fungi]
+sources: [raw/papers/symbiotic-fungi.md]
+---
 
 # Mycorrhizal Networks (Common Mycelial Network)
 
@@ -99,13 +107,3 @@ The "[[wood-wide-web]]" — [[mycorrhizal-networks]] connect individual plants i
 - [[ectomycorrhizal-ecology]] — for ECM networks in forests
 - [[soil-food-web-structure]] — for the broader soil web
 - [[fungal-role-in-carbon-cycling]] — for carbon flow through networks
-
-## Practical Notes
-
-Sterile technique is essential throughout all cultivation stages. Contamination from competing organisms is the primary cause of cultivation failure.
-
-Environmental control during fruiting significantly impacts yield and quality outcomes.
-
-Regular monitoring and documentation support continuous improvement in cultivation results.
-
-Field observations and practical experience remain the most reliable guides for system optimization.

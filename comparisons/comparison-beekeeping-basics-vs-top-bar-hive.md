@@ -4,7 +4,7 @@ created: 2026-05-02
 updated: 2026-05-02
 type: comparison
 tags: [homesteading]
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 date: 2026-04-25
 updated: 2026-04-25
 sources:

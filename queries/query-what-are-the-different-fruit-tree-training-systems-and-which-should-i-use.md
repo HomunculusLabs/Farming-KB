@@ -3,7 +3,7 @@ title: "Query What Are The Different Fruit Tree Training Systems And Which Shoul
 tags: [query, fruit-trees, pruning, training, espalier]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md']
 ---
 
 ## What Are the Different Fruit Tree Training Systems and Which Should I Use?

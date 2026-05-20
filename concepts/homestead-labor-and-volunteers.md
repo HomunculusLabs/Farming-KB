@@ -184,5 +184,5 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Build community: shared meals, celebrations, social events
 
 Effective labor management is often the difference between a [[homestead-scale-assessment]] that stays at hobby level and one that grows to full-time farm income.
-## See Also
-- [[fukuoka-textdoc-postwar-farm-labor-appropriated-urban-prosperity]]
+
+See also: [[permaculture-design]]

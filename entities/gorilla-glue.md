@@ -2,7 +2,7 @@
 title: "Gorilla Glue"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Appearance

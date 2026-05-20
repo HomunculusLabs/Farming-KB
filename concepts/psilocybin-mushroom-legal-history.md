@@ -16,11 +16,11 @@ sources:
 
 # Psilocybin Mushroom Legal History
 
-The legal status of psilocybin mushrooms has shifted dramatically from unrestricted traditional indigenous use to global prohibition, and now to early movements toward decriminalization and medical legalization.
+The legal status of [[psilocybin-mushrooms]] has shifted dramatically from unrestricted traditional indigenous use to global prohibition, and now to early movements toward decriminalization and medical legalization.
 
 ## Pre-Prohibition Era (Pre-1960s)
 
-Before the 1960s, psilocybin mushrooms were not controlled substances anywhere. Sandoz Laboratories distributed synthetic psilocybin (brand name Indocybin) and LSD (brand name Delysid) free of charge to qualified researchers worldwide for over a decade. The political climate of the late 1950s was permissive enough that scientists openly self-experimented with psychedelics and published their findings in peer-reviewed journals without fear of censure.
+Before the 1960s, [[psilocybin]] mushrooms were not controlled substances anywhere. Sandoz Laboratories distributed synthetic psilocybin (brand name Indocybin) and LSD (brand name Delysid) free of charge to qualified researchers worldwide for over a decade. The political climate of the late 1950s was permissive enough that scientists openly self-experimented with psychedelics and published their findings in peer-reviewed journals without fear of censure.
 
 Indigenous mushroom use in Oaxaca, Mexico was unregulated and had been continuous for centuries.
 
@@ -75,29 +75,7 @@ A growing movement seeks to reverse prohibition:
 - [[magic-mushroom-history-timeline]] for the full chronological context
 - [[psilocybin-in-the-counter-culture]] for the cultural forces that drove prohibition
 - [[psychedelic-harm-reduction]] for practical guidance under current legal frameworks
-### Key Principles
-Understanding psilocybin mushroom legal history requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
-
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[mycelium]]
-- [[1960s-counterculture-and-magic-mushrooms]]
+Further research in this area has expanded our understanding
+of the underlying mechanisms and practical applications.
+These insights continue to inform both academic study and field practice.

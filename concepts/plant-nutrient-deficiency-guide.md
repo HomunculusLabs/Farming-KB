@@ -1,3 +1,11 @@
+---
+title: Plant Nutrient Deficiency Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [nutrients, npk, soil, fertilizer, troubleshooting, plants, plant-growth, minerals, soil-amendment, biology]
+sources: []
+---
 
 # Plant Nutrient Deficiency Guide
 

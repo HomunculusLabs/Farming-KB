@@ -3,7 +3,7 @@ title: "Nameko vs Enoki Cultivation"
 tags: [comparison, mycology, mushroom-cultivation, nameko, enoki]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md']
 ---
 
 ## Nameko vs Enoki Cultivation

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, gardening, intensive-planting, soil-preparation, raised-beds]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['unknown-cotter-oyster-mushroom-cultivation.md']
 type: comparison
 ---
 

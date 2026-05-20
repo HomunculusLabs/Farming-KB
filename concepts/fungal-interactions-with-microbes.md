@@ -1,3 +1,11 @@
+---
+title: Fungal Interactions with Microbes
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags: [mycology, soil-biology, microbes, ecology]
+sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md]
+---
 
 # Fungal Interactions with Microbes
 
@@ -29,7 +37,7 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 - Fungi compete for space and nutrients through:
   - Rapid colonization (race for resources)
   - Antibiotic production (inhibit competitors)
-  - Mycoparasitism (Trichoderma attacks other fungi)
+  - Mycoparasitism ([[trichoderma]] attacks other fungi)
   - Enzyme production (degrade competitors' cell walls)
 
 ### Mycoparasitism
@@ -79,35 +87,3 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 - **Composting**: Fungal-bacterial consortia for efficient decomposition
 - [[soil-food-web-structure]] — for the complete [[soil-food-web]]
 - [[mycopesticides-fungal-biocontrol]] — for fungal biocontrol agents
-## See Also
-- [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
-
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.

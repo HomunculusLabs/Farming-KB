@@ -3,7 +3,7 @@ title: "Schisandra vs Valerian"
 tags: [comparison, schisandra, valerian, adaptogens, nervines, sleep-aid, tcm]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation|Schisandra]] vs Valerian

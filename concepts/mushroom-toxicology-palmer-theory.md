@@ -1,3 +1,11 @@
+---
+title: Mushroom Toxicology — Palmer's Theory
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mushrooms, biology, medicine]
+sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
+---
 
 # Mushroom Toxicology — Palmer's Theory
 
@@ -75,8 +83,4 @@ Palmer observed that animal susceptibility to mushroom toxins does not correlate
 
 "Because a mushroom is eaten with impunity by the lower animals it by no means follows that it is fit for the food of man."
 
-See also: [[amanita-muscaria]] | [[amanita-preparation-methods]] | [[nineteenth-century-mushroom-identification]] | [[julius-palmer]]
-
-Palmer's theory proposes that many mushroom toxins evolved as chemical
-defense compounds rather than metabolic byproducts, suggesting coevolution
-between fungi and their predators shaped toxin diversity.
+See also: [[amanita-muscaria-guide]] | [[amanita-preparation-methods]] | [[nineteenth-century-mushroom-identification]] | [[julius-palmer]]

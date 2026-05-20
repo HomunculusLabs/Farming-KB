@@ -8,7 +8,7 @@ tags: [knf, comparison-natural-farming-vs-permaculture. Method-1 is the detailed
 
 ## Overview
 
-FMC is made from a mixture of organic materials fermented with [[cervantes-reservoir-temperature-management]]:
+FMC is made from a mixture of organic materials fermented with cervantes-reservoir-temperature-management]]:
 
 - **Target fermentation range:** 40-50C
 - **Turning trigger:** Turn when temperature reaches 50C

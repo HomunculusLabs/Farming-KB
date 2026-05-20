@@ -3,7 +3,7 @@ title: "What Is the query what is the difference between thc cbd and minor canna
 tags: [query, cannabis, cannabinoids, thc, cbd]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## What Is the Difference Between THC, CBD, and Minor Cannabinoids?

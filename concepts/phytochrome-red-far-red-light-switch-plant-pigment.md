@@ -3,25 +3,6 @@ title: "Phytochrome: The Red/Far-Red Light Switch"
 tags:
   - concept
 ---
-
-## Discovery
-
-The discovery of phytochrome is one of the great stories in plant physiology. In the 1950s, a team led by **Harry Borthwick** and **Sterling Hendricks** at the USDA's Beltsville [[chrysanthemum-coronarium]] then tracks how long Pfr levels have been low — i.e., how long the night has been. If the dark period exceeds a critical threshold, specific physiological responses (like flowering) are triggered. This is why interrupting the night with a brief flash of red light resets the "darkness counter" — it converts the remaining Pr back to Pfr, and the plant behaves as if the night never happened.
-
----
-
-## Photoperiodism and Flowering
-
-Photoperiodism is the [[chamovitz-maryland-mammoth-photoperiodism-discovery]] experiments. Phytochrome is the primary molecular sensor underlying this response, particularly for the regulation of flowering. Plants fall into several categories:
-
-- **Short-day plants (SDP):** Flower when the length of continuous darkness exceeds a critical threshold (e.g., chrysanthemums, poinsettias). They are really "long-night plants."
-- **Long-day plants (LDP):** Flower when the length of continuous darkness falls below a critical threshold (e.g., spinach, lettuce, Arabidopsis). They are really "short-night plants."
-- **Day-neutral plants:** Flowering is not governed by photoperiod (e.g., tomatoes, rice).
-
-The phytochrome system provides the plant with a molecular "hourglass" that tracks [[cannabis-vegetative-growth-stage]] to flowering. The identity of florigen remained elusive for over 70 years until the FT (FLOWERING LOCUS T) protein was identified in the early 2000s, finally solving one of plant biology's longest-standing mysteries.
-
----
-
 ## Shade Avoidance
 
 Phytochrome plays a central role in **[[arabidopsis-thaliana]]*, five phytochrome genes have been identified:

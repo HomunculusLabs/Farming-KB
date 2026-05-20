@@ -4,7 +4,8 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 ## Cannabis Hash Making from Extracted Oil
 

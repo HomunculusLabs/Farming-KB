@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, cannabis, nutrient-deficiency, ph, growing-problems]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/nutrient-and-dynamic-accumulators.md']
 type: query
 ---
 

@@ -3,7 +3,7 @@ title: "How Does Vermicomposting Work"
 tags: [query, composting, soil-health, earthworms, vermicomposting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## How Does Vermicomposting Work?

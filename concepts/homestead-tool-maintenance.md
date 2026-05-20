@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [tools, homesteading, sustainability, equipment, gardening, farming]
-sources: [raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
+sources: []
 ---
 
 # Homestead Tool Maintenance

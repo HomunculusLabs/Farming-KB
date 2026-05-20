@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 ## Fungi as Environmental Indicators and Biosensors Updated: 2026-04-18 Fungi are increasingly recognized as valuable bioindicators in environmental pollution surveys. Their sensitivity to various pollutants, their ability to accumulate contaminants, and the development of molecular detection methods make them useful tools for environmental monitoring. The use of fungi as bioindicators draws on [[allegro-amanita-muscaria-properties-and-pharmacology]] and Boletus edulis are among the most effective metal accumulators, with some species concentrating cadmium, mercury, and lead to levels 100-1000 times higher than surrounding soil.
 

@@ -17,11 +17,11 @@ sources:
 
 # Terence McKenna's Stoned Ape Hypothesis
 
-Terence McKenna's speculative theory that psilocybin mushrooms played a catalytic role in the rapid evolution of human consciousness, language, and culture.
+[[terence-mckenna]]'s speculative theory that [[psilocybin-mushrooms]] played a catalytic role in the rapid evolution of human consciousness, language, and culture.
 
 ## Overview
 
-McKenna proposed that the sudden and still-unexplained tripling of the human brain size over approximately three million years of hominid evolution was catalyzed by the inclusion of psychoactive mushrooms -- particularly psilocybin-containing species of the genus *Psilocybe* -- in the protohuman diet. He articulated this hypothesis most fully in *Food of the Gods* (1992).
+McKenna proposed that the sudden and still-unexplained tripling of the human brain size over approximately three million years of hominid evolution was catalyzed by the inclusion of psychoactive mushrooms -- particularly [[psilocybin]]-containing species of the genus *Psilocybe* -- in the protohuman diet. He articulated this hypothesis most fully in *Food of the Gods* (1992).
 
 ## The Evolutionary Puzzle
 
@@ -55,11 +55,11 @@ McKenna responded that psilocybin inclusion in the diet "changed the parameters 
 
 ## Ecological Context
 
-McKenna noted that psilocybin mushrooms of the genus *Psilocybe* grow predominantly on the dung of ungulate (hoofed) herbivores -- the same animals that early hominids hunted and followed across the grasslands of Africa. As hominids expanded from forest to savanna, they would have encountered *Psilocybe* species growing on bovine dung. The mushrooms' preference for this ecological niche placed them directly in the path of evolving humans.
+McKenna noted that psilocybin mushrooms of the genus *Psilocybe* grow predominantly on the dung of ungulate (hoofed) herbivores -- the same animals that early hominids hunted and followed across the grasslands of Africa. As hominids expanded from forest to savanna, they would have encountered *Psilocybe* species growing on bovine dung. The mushrooms' preference for this [[ecological-niche]] placed them directly in the path of evolving humans.
 
 ## Reception and Criticism
 
-The Stoned Ape hypothesis remains highly controversial and is not accepted within mainstream evolutionary biology or anthropology. Critics note:
+The [[stoned-ape-hypothesis]] remains highly controversial and is not accepted within mainstream evolutionary biology or anthropology. Critics note:
 
 - There is no direct archaeological or fossil evidence of mushroom use by early hominids.
 - The neurological effects McKenna describes at low doses are not well-established.
@@ -73,29 +73,10 @@ McKenna acknowledged the speculative nature of the theory but maintained that th
 - [[mckenna-food-of-the-gods-thesis]] for McKenna's broader argument about psychedelics and civilization
 - [[psychedelic-plants-in-ancient-cultures]] for evidence of ancient psychedelic use
 - [[psilocybin-psychological-mechanisms]] for modern neuroscience of psilocybin
-### Key Principles
-Understanding terence mckenna stoned ape hypothesis requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Current Research Directions
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+Ongoing studies continue to explore new aspects of this topic.
+Recent advances have provided deeper insights into the underlying mechanisms.
+Field applications have demonstrated the practical value of these findings.
+Researchers are actively investigating novel approaches and methodologies.

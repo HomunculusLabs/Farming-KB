@@ -9,7 +9,7 @@ tags:
   - sustainable-agriculture
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md']
 type: comparison
 ---
 ## White Rot Fungi vs Trichoderma

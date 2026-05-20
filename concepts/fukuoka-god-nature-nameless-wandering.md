@@ -63,7 +63,7 @@ Man's arrogance and pride have torn him from the embrace of nature. If man were 
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers
 continue to explore new ways to integrate these concepts into modern practice,
-adapting [[wasted-human-resources-and-traditional-knowledge]] to contemporary challenges and opportunities.
+adapting wasted-human-resources-and-traditional-knowledge]] to contemporary challenges and opportunities.
 
 ## Key Considerations
 

@@ -2,7 +2,7 @@
 title: "Molecular Methods Fungal Taxonomy"
 type: concept
 tags: []
-sources: []
+sources: ['~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
 ---
 
 ## apPCR / RAPD Analysis

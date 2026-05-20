@@ -3,7 +3,7 @@ title: "comparison vertical gardening vs container gardening vs comparison-cold-
 tags: [comparison, gardening, urban, small-space, design]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md']
 ---
 
 ## Vertical Gardening vs Container Gardening

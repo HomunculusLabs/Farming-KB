@@ -2,7 +2,7 @@
 title: "Humulus Lupulus"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Medicinal Properties

@@ -3,7 +3,7 @@ title: "How Do I Identify and Manage Verticillium Wilt in My Garden?"
 tags: [query, plant-disease, verticillium, soil-borne-pathogen, organic-management]
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Identify and Manage Verticillium Wilt in My Garden?

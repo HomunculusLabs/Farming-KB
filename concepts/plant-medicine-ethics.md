@@ -1,3 +1,11 @@
+---
+title: Plant Medicine Ethics
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [ethics, ethnobotany, entheogen, sustainability, culture, activism, principles, ecology]
+sources: []
+---
 
 # Plant Medicine Ethics
 
@@ -56,7 +64,7 @@ Distinguish appropriation from appreciation:
 
 ### Iboga
 
-- Tabernanthe iboga is slow-growing and overharvested in Gabon
+- [[tabernanthe-iboga]] is slow-growing and overharvested in Gabon
 - Some estimates suggest wild populations could be depleted within decades at current rates
 - The Bwiti tradition depends on iboga access for coming-of-age ceremonies
 - Cultivation programs exist but are insufficient to meet global demand
@@ -171,7 +179,6 @@ Five principles for ethical engagement with plant medicines:
 5. Integrate: Approach the work with humility, ongoing learning, and willingness to be corrected
 
 ## See Also
-- [[ayahuasca-and-dmt-plant-medicine]]
 
 - [[entheogenic-ceremony-preparation]] — practical preparation including ethical considerations
 - plant medicine ethics — this page

@@ -3,7 +3,7 @@ title: "Lemon Balm vs Chamomile"
 tags: [comparison, lemon-balm, chamomile, medicinal-herbs, calming-herbs]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## Lemon Balm vs Chamomile

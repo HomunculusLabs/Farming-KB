@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, season-extension, vegetables, agriculture, climate, cultivation, plant-growth]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: []
 ---
 
 # Winter Gardening Techniques

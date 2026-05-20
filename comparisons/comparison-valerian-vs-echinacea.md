@@ -3,7 +3,7 @@ title: "Valerian vs Echinacea"
 tags: [comparison, valerian, echinacea, medicinal-herbs, herbal-medicine]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Valerian vs Echinacea

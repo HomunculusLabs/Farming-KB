@@ -3,7 +3,7 @@ title: "Biogas Digester Basics vs Solar Cooking Methods"
 tags: [comparison, biogas, solar-cooking, homestead-energy, off-grid]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Biogas Digester Basics vs Solar Cooking Methods

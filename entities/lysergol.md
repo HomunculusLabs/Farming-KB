@@ -2,7 +2,7 @@
 title: "Lysergol"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The compound was first isolated and characterized from *Ipomoea* species

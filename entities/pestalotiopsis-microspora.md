@@ -2,7 +2,7 @@
 title: "Pestalotiopsis Microspora"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 Beyond plastic degradation, P. microspora produces diverse **secondary

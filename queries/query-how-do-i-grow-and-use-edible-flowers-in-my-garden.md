@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Edible Flowers in My Garden?"
 tags: [query, edible-flowers, culinary-garden, ornamental-edibles, companion-planting]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['raw/papers/laminar-flow-hood-construction-1.md']
 ---
 
 ## How Do I Grow and Use Edible Flowers in My Garden?

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [composting, bioconversion, waste-management, bsf, protein-recycling, soil-health]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 type: comparison
 ---
 

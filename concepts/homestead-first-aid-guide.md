@@ -1,3 +1,11 @@
+---
+title: Homestead First Aid Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, health, medicine, safety, animal-husbandry]
+sources: []
+---
 
 # Homestead First Aid Guide
 

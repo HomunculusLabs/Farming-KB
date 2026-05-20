@@ -3,7 +3,7 @@ title: "How does soil temperature affect plant growth and how can I manage it?"
 tags: [query, soil-science, temperature, plant-growth, season-extension]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 # How does soil temperature affect plant growth and how can I manage it?

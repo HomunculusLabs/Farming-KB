@@ -2,7 +2,7 @@
 title: "Pyropia"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The blade is attached to substrate by a small basal holdfast and expands

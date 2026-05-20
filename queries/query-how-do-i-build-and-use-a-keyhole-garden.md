@@ -3,7 +3,7 @@ title: "How Do I Build and Use a Keyhole Garden?"
 tags: [query, keyhole-garden, raised-bed, permaculture-design, small-space-gardening]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md']
 ---
 
 ## How Do I Build and Use a Keyhole Garden?

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [mycology, symbiosis, plant-microbe-interactions, soil-health, agriculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['understanding-cultivar-specificity-cannabis-microbiome']
 type: comparison
 ---
 ## Arbuscular [[soil-nutrient-cycling]] and mineral nutrition, whereas endophytes excel at

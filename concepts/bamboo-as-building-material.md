@@ -1,3 +1,11 @@
+---
+title: Bamboo as Building Material
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [construction, permaculture, sustainability, homesteading, tools, engineering]
+sources: []
+---
 
 # Bamboo as Building Material
 

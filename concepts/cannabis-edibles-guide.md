@@ -1,3 +1,11 @@
+---
+title: Cannabis Edibles Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [cannabis, processing, recipe, preparation, food, potency, beginner]
+sources: []
+---
 
 ## Overview
 
@@ -168,5 +176,3 @@ CBD does not produce psychoactive effects at any reasonable dose:
 - **Food interactions**: Consuming edibles on a full stomach delays onset but may increase overall absorption
 
 For the extraction methods used to produce concentrates for edibles, see [[cannabis-extraction-basics]]. For liquid-based sublingual alternatives, see [[cannabis-tinctures-guide]].
-## See Also
-- [[comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide]]

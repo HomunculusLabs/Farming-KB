@@ -17,7 +17,7 @@ healing, divination, and spiritual exploration. The term derives
 from "ayahuasca" (the brew) plus the Spanish suffix "-ero"
 indicating a practitioner or specialist. Ayahuasqueros are found
 throughout the Amazon but are particularly concentrated among the
-[[ayahuasquero-practitioner-profiles-ethics-ucayali-region]], where the tradition is
+ayahuasquero-practitioner-profiles-ethics-ucayali-region]], where the tradition is
 especially deep and well-developed.
 
 ## Role and Function

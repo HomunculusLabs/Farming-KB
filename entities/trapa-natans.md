@@ -2,7 +2,7 @@
 title: "Trapa Natans"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 Habitat: still or slow freshwater (ponds, lakes, backwaters, rice

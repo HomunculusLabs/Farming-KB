@@ -3,7 +3,7 @@ title: "Root Cellaring vs Lacto-fermentation"
 tags: [comparison, food-preservation, storage, fermentation, root-cellar]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
 ---
 
 ## Root Cellaring vs Lacto-fermentation

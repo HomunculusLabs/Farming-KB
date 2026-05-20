@@ -1,3 +1,11 @@
+---
+title: Psychedelic Assisted Therapy Protocol
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, therapy, psychology, psychiatry, psychedelics, psychopharmacology, health, methods, safety]
+sources: []
+---
 
 # Psychedelic Assisted Therapy Protocol
 

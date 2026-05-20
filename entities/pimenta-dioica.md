@@ -2,7 +2,7 @@
 title: "Pimenta Dioica"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 Leaves are opposite, simple, elliptic to oblong, 8–15 cm long and 3–6 cm

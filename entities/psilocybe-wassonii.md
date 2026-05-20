@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, mexico, indigenous-use]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
 ---
 
 ## Psilocybe wassonii

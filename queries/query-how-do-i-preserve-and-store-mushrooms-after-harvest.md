@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, mushrooms, preservation, storage, drying, canning, pickling, food-storage]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 type: query
 ---
 Proper [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] spoilage within days of harvest if not processed promptly.

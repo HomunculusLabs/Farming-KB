@@ -3,7 +3,7 @@ title: "Rhodiola vs Valerian"
 tags: [comparison, rhodiola, valerian, adaptogen, sedative, medicinal-herbs]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Rhodiola vs Valerian

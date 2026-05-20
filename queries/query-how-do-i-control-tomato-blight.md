@@ -3,7 +3,7 @@ title: "How Do I query how do i control tomato blight Blight?"
 tags: [query, tomato, disease, blight, organic-gardening]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/unknown-effect-of-light-upon-basidiocarp-initiation-psilocybe-cubensis.md']
 ---
 
 ## How Do I Control Tomato Blight?

@@ -3,7 +3,7 @@ title: "Yarrow vs Rhodiola"
 tags: [comparison, yarrow, rhodiola, adaptogen, wound-healing, medicinal-herbs]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Yarrow vs Rhodiola

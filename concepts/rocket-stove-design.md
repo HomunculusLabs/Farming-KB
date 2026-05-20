@@ -1,3 +1,11 @@
+---
+title: Rocket Stove Design
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, equipment, engineering, design, construction]
+sources: []
+---
 
 # Rocket Stove Design
 

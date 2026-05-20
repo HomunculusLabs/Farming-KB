@@ -3,7 +3,7 @@ title: "Mullein vs Chamomile"
 tags: [comparison, medicinal-herbs, respiratory, relaxation, cultivation]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/laminar-flow-hood-construction-1.md']
 ---
 
 ## Mullein vs Chamomile

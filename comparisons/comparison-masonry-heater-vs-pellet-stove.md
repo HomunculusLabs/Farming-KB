@@ -3,7 +3,7 @@ title: "Comparison Charcoal Production For Cooking Vs Masonry Heater Design Comp
 tags: [comparison, heating, homesteading, off-grid, energy]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Masonry Heater vs Pellet Stove

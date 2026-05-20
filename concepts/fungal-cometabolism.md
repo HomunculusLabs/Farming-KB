@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 ## Fungal Cometabolism in Bioremediation Fungal cometabolism refers to the incidental transformation of environmental pollutants by fungal enzymes that are produced primarily for other metabolic purposes. Unlike primary metabolism, where microorganisms use a substrate as a carbon and energy source for growth, cometabolism involves transformation of a compound that the organism cannot assimilate. Fungal cometabolism is a central mechanism in [[ligninolytic-enzymes-bioremediation]] provides detailed coverage of these enzyme systems and their role in pollutant transformation.
 

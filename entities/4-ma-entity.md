@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: entity
 tags: [chemistry, tihkal]
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 ## 4-MA
 

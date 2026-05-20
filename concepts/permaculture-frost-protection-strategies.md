@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 ## Permaculture Frost Protection Strategies Permaculture frost protection strategies use landscape position, vegetation design, water bodies, thermal mass, and structural elements to minimize frost damage to crops and buildings. Understanding the physics of frost formation allows designers to work with natural processes rather than against them. [[hemenway-cold-air-drainage-and-frost-management]] down hill slopes and valleys to pool in flat areas. Frost also forms rapidly on high plateaus.
 

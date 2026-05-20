@@ -3,7 +3,7 @@ title: "How do I make kefir at home?"
 tags: [query, kefir, fermentation, probiotics, dairy]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/unknown-oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid|oyster-mushroom-cultivation.md']
 ---
 
 # How do I make kefir at home?

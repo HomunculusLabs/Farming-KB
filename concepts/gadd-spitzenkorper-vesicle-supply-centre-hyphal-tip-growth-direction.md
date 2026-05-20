@@ -3,34 +3,6 @@ title: "The Spitzenkörper: Vesicle Supply Centre and Hyphal Tip Growth Directio
 tags:
   - concept
 ---
-
-## Structure and Composition
-
-### Vesicle Populations
-The Spitzenkörper contains two main populations of vesicles, distinguishable by size and function:
-
-- **Macrovesicles (large vesicles):** 70-140 nm diameter, derived from the Golgi apparatus, carrying cell wall-synthesizing enzymes ([[mycorrhizal-fungi-rock-penetration-soil-formation]] and bioweathering
-- **Electrotropism:** Weak electric fields can redirect Spitzenkörper position and hence growth direction
-- **Host signals:** In [[reactive-oxygen-species-and-oxidative-stress]] (ROS) acting as signaling molecules
-- MAP kinase signaling cascades that integrate environmental information
-
----
-
-## Spitzenkörper and Branching
-
-Lateral branch formation in fungi begins with the appearance of a new Spitzenkörper at a subapical location on the hyphal flank. This local vesicle aggregation establishes a new polarity axis, leading to the emergence of a new hyphal branch. The branching pattern (spacing, angle, frequency) depends on how and where new Spitzenkörper are initiated — a process regulated by the same Rho GTPases and cytoskeletal machinery that control apical growth.
-
----
-
-## Absence in Other Growth Forms
-
-Not all fungal growth involves a Spitzenkörper:
-- **Yeast forms** (budding yeasts like Saccharomyces) use a different polarity mechanism involving a small polar cap rather than a distinct Spitzenkörper
-- **Dimorphic fungi** switch between yeast-like and hyphal growth, gaining or losing the Spitzenkörper during morphological transitions
-- The presence and prominence of the Spitzenkörper correlates with the rate of hyphal extension — rapidly growing hyphae have large, well-defined Spitzenkörper; slow-growing hyphae have smaller, less distinct ones
-
----
-
 ## Significance for Fungal Ecology
 
 The Spitzenkörper's [[fungal-ecology]]:

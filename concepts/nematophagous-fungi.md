@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, biocontrol]
-sources: []
+sources: ['raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md']
 ---
 ## Nematophagous Fungi Nematophagous fungi are a diverse guild of fungal species that obtain part or all of their nutrition by attacking and consuming living microscopic invertebrates, principally nematodes and rotifers. The existence of fungi using this nutritional mode was first revealed through the detailed studies of Charles Drechsler (1933, 1941a, 1941b, 1941c), who described fungi that attack nematodes and other microfauna by means of specialized trapping devices. More than 300 recognized species of nematode- and rotifer-destroying fungi are now known, distributed across the Ascomycota, Basidiomycota, Chytridiomycota, and Zygomycota, as well as the fungus-like phylum Oomycota. These fungi play important roles in [[bloomfield-fungal-parasites-of-insects]] and predators of microfauna employ three fundamental modes of existence: predation, parasitism of adult invertebrates, and parasitism of invertebrate eggs and cysts. The two primary strategies relevant to adult nematodes are endoparasitism and predation.
 

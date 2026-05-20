@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, mushroom-cultivation, inoculation, sterile-technique, spawn]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/unknown-mushroom-culture-patent-2761246.md']
 type: comparison
 ---
 

@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: ['raw/papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md']
 ---
 ## RAPD and Molecular Marker Techniques for Fungi
 Random Amplified Polymorphic DNA (RAPD) and related molecular marker techniques

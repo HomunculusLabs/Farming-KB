@@ -3,7 +3,7 @@ title: "Cob vs Hempcrete"
 tags: [comparison, natural-building, cob, hempcrete, sustainable-construction]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 created: 2026-04-28
 type: comparison
 ---

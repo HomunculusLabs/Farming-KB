@@ -1,3 +1,11 @@
+---
+title: Rocket Mass Heater Design
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [energy, construction, homesteading, off-grid, safety, sustainability]
+sources: []
+---
 
 # Rocket Mass Heater Design
 
@@ -129,5 +137,3 @@ A cob bench is the most common and accessible approach:
 
 - [[natural-building-materials-guide]] for cob and earth materials used in bench construction
 - [[earth-plaster-and-natural-finishes]] for finishing the cob bench surface
-## See Also
-- [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]]

@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: entity
 tags: [chemistry, tihkal]
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 ## 4-Br-3,5-DMA
 

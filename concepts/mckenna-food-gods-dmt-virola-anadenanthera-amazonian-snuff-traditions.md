@@ -2,7 +2,7 @@
 title: "Mckenna Food Gods Dmt Virola Anadenanthera Amazonian Snuff Traditions"
 type: concept
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## N,N-Dimethyltryptamine (DMT)

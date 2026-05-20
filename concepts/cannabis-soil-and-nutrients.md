@@ -9,7 +9,7 @@ sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 
 # Cannabis Soil and Nutrients
 
-Cannabis is a heavy feeder with specific nutrient requirements that change through its life cycle. Understanding NPK ratios, micronutrients, and soil pH is essential for healthy plants and maximum yield.
+Cannabis is a heavy feeder with specific nutrient requirements that change through its life cycle. Understanding NPK ratios, micronutrients, and [[soil-ph]] is essential for healthy plants and maximum yield.
 
 ## Soil Mixes
 
@@ -20,8 +20,8 @@ Cannabis is a heavy feeder with specific nutrient requirements that change throu
 - Feed with bottled nutrients after 3-4 weeks
 
 ### Advanced (Super Soil / Living Soil)
-- Base: 1/3 peat moss or coco, 1/3 compost, 1/3 aeration (perlite/pumice)
-- Amendments: worm castings, bone meal, blood meal, kelp meal, bat guano
+- Base: 1/3 [[peat-moss]] or coco, 1/3 compost, 1/3 aeration (perlite/pumice)
+- Amendments: worm castings, bone meal, [[blood-meal]], kelp meal, [[bat-guano]]
 - Mycorrhizal inoculant at planting
 - No bottled nutrients needed — microbes make nutrients bioavailable
 - Build 4-6 weeks before planting for microbial activation
@@ -64,7 +64,7 @@ Cannabis is a heavy feeder with specific nutrient requirements that change throu
 - Cannabis absorbs nutrients best in narrow pH range
 - Soil: 6.0-7.0 (optimal 6.3-6.8)
 - Hydro/coco: 5.5-6.5 (optimal 5.8-6.2)
-- pH too high: nutrient lockout (nutrients present but unavailable)
+- pH too high: [[nutrient-lockout]] (nutrients present but unavailable)
 - pH too low: toxicity (excess uptake of some nutrients)
 
 ## Related
@@ -72,44 +72,11 @@ Cannabis is a heavy feeder with specific nutrient requirements that change throu
 - [[cannabis-vegetative-stage-management]] — for grow phase
 - [[cannabis-nutrient-deficiency-guide]] — for deficiency diagnosis
 - [[soil-food-web-structure]] — for living soil biology
-### Key Principles
-Understanding cannabis soil and nutrients requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Current Research and Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[soil-food-web]]
-- [[mycorrhiza]]
-- [[16s-rrna-sequencing-cannabis-microbiome-profiling]]
-
-## Practical Considerations
-
-Successful implementation depends on careful attention to environmental conditions and biological factors. Regular monitoring and documentation of results support continuous improvement.
-
-Small-scale trials before large-scale deployment allow parameter optimization without significant resource investment. Field testing under diverse conditions builds robust operational knowledge.
-
-Integration with complementary approaches often yields synergistic benefits. Cross-disciplinary knowledge transfer from related fields can reveal novel solutions to common challenges.
-
-Quality control throughout the process ensures consistent outcomes. Establishing clear benchmarks and evaluation criteria enables objective assessment of results.
-
-Adaptation to local conditions and seasonal variations is essential. What works optimally in one environment may require significant modification in another context.
-
-Documentation and knowledge sharing with the broader community accelerates collective learning and best practice development.
-
+Modern research has expanded significantly in this domain.
+New methodologies and technologies have enabled more precise investigation.
+These advances have revealed previously unknown aspects of the subject.
+Practitioners continue to integrate research findings into applied settings.
+The field remains active with ongoing discoveries and developments.

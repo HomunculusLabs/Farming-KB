@@ -143,5 +143,5 @@ Gouda is a washed-curd cheese that requires more equipment and time but produces
 -  **Crumbly cheese** — pH too low (over-acidified), or insufficient pressing
 -  **Rubbery cheese** — Temperature too high during cooking, or excess rennet
 -  **Off-flavors** — Check milk quality, sanitation, and feed. Goat milk absorbs flavors readily
-## See Also
-- [[mollison-designers-goat-dairy-and-cheese-production]]
+
+See also: [[cheese-making-basics]]

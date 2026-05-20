@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-05-09
 type: concept
 tags: [mycology, fungi, endophytes, plant-biology, symbiosis]
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 ## Fungal Endophytes and Plant Fitness
 

@@ -1,3 +1,11 @@
+---
+title: Yarrow Growing Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [medicine, plants, cultivation, species-profiles, companion-planting, pollinators, permaculture, ethnobotany]
+sources: []
+---
 
 # Yarrow Growing Guide (Achillea millefolium)
 
@@ -128,7 +136,6 @@ but rarely cause significant damage. The aromatic foliage naturally deters
 deer and rabbits.
 
 ## See Also
-- [[comfrey-plant-guide]]
 
 - [[echinacea-growing-guide]] -- combine with yarrow in immune-support teas
 - [[cover-cropping-guide]] -- yarrow can be integrated into polyculture cover mixes

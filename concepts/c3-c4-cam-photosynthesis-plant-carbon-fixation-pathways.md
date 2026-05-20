@@ -5,7 +5,7 @@ updated: 2026-05-06
 aliases: comparison-c3-c4-and-cam-photosynthesis-pathways, carbon fixation, C4 photosynthesis, CAM photosynthesis, Hatch-Slack pathway, crassulacean acid metabolism, Kranz anatomy]
 tags: [botany, plant-physiology, photosynthesis, agriculture, crop-science, plant-biology, biochemistry, ecology]
 type: concept
-sources: []
+sources: ['raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md']
 ---
 
 Photosynthetic carbon fixation in plants occurs through three principal pathways: C3 (Calvin-Benson-Bassham cycle), C4 (Hatch-Slack pathway), and CAM (crassulacean acid metabolism). These pathways differ fundamentally in how they acquire, concentrate, and fix atmospheric CO₂, resulting in distinct trade-offs between water use efficiency, energy cost, [[dighton-fungi-climate-change-feedback]].

@@ -1,3 +1,28 @@
+---
+
+title: Pablo Amaringo
+created: 2026-04-11
+updated: 2026-04-12
+type: entity
+
+tags:
+- person
+- ethnobotany
+- culture
+- religion
+- consciousness
+- folklore
+- plant-systems
+- entheogen
+- amazon
+- ph
+- lighting
+- preparation
+- species
+
+sources:
+- raw/papers/amaringo-p-ayahuasca-visions.md
+---
 
 # Pablo Amaringo
 
@@ -68,10 +93,6 @@ Amaringo describes the two plants as snake spirits:
 ## Legacy
 
 Amaringo's paintings bridge Amazonian shamanism and the global art world, providing an unparalleled visual record of ayahuasca visionary experiences. His work contributed to international awareness of Amazonian plant medicine traditions and the concept of plant consciousness.
-
-Amaringo's visionary artwork continues to inspire psychedelic art
-movements worldwide, bridging indigenous Amazonian cosmology with
-contemporary consciousness research and environmental awareness.
 
 ## See Also
 

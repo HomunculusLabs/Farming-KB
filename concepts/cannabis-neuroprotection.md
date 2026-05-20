@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 ## Cannabis Neuroprotection
 

@@ -2,7 +2,7 @@
 title: "Greenhouse Cannabis Growing"
 created: 2026-04-26
 updated: 2026-04-23
-sources: []
+sources: ['greg-green-the-cannabis-grow-bible.md']
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]

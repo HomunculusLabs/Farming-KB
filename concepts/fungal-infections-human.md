@@ -1,3 +1,11 @@
+---
+title: Fungal Infections in Humans
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, fungi, health, medicine, biology, safety, species, pathogens]
+sources: []
+---
 
 # Fungal Infections in Humans
 

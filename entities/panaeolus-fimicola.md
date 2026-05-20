@@ -10,7 +10,7 @@ tags:
   - bolbitiaceae
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md']
 ---
 
 ## Panaeolus fimicola

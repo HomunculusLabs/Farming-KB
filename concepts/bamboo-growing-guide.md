@@ -1,3 +1,11 @@
+---
+title: Bamboo Growing Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [cultivation, plants, design, permaculture, water-management]
+sources: []
+---
 
 # Bamboo Growing Guide
 

@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, humidity, equipment, engineering, design, environment]
-sources: [raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
+sources: []
 ---
 
 ## Overview

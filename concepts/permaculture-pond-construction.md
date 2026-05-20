@@ -1,3 +1,11 @@
+---
+title: Permaculture Pond Construction
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags: [permaculture, aquaculture, ponds, earthworks, water-harvesting, water, ecology]
+sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
+---
 
 # Permaculture Pond Construction
 
@@ -73,11 +81,3 @@ Dams and ponds are potential aquaculture sites. Ponds can be organised as [[fodd
 - [[permaculture-water-harvesting]] -- broader water management strategies
 - [[aquaponics]] -- integrated fish and plant systems
 - [[permaculture-fire-management]] -- dams designed for fire control
-
-## Construction Methods
-
-Natural pond construction uses clay sealing, gleying techniques,
-or synthetic liners to create watertight basins. Key design factors
-include watershed catchment area, depth zoning for habitat diversity,
-and overflow spillways for flood management. Integration with swales
-and contour earthworks maximizes water harvesting potential.

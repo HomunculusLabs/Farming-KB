@@ -1,3 +1,11 @@
+---
+title: Fungal-Based Materials
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, engineering, construction, sustainability, environment, processing, fungi, ecology]
+sources: []
+---
 
 # Fungal-Based Materials
 

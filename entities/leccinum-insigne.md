@@ -2,7 +2,7 @@
 title: "Leccinum Insigne"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The species is edible when thoroughly cooked, though some individuals

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, cannabis, flowering, bud-quality, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['AllBud blesching-cannabis-strain-selection-receptor-targeting Reviews']
 type: query
 ---
 

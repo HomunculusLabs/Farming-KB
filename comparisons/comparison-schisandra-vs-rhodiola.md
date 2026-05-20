@@ -3,7 +3,7 @@ title: "Schisandra vs Rhodiola"
 tags: [comparison, adaptogens, medicinal-herbs, stress-management, herbal-medicine]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Schisandra vs Rhodiola

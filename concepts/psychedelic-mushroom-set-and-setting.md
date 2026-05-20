@@ -1,3 +1,11 @@
+---
+title: Psychedelic Mushroom Set and Setting
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, psychedelics, psychology, consciousness, therapy, safety, entheogen-research]
+sources: []
+---
 
 # Psychedelic Mushroom Set and Setting
 

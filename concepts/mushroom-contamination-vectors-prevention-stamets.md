@@ -3,25 +3,6 @@ title: "contamination prevention in mushroom cultivation. cultivator sterile tec
 tags:
   - concept
 ---
-
-## Pasteurization vs. Sterilization
-
-| Parameter | Pasteurization | Sterilization |
-|---|---|---|
-| Temperature | 60–80°C (140–176°F) | 121°C (250°F) at 15 psi |
-| Duration | 1–2 hours | 60–90 minutes at temperature |
-| Method | Hot water bath, steam | Autoclave, pressure sterilizer |
-| Target | Selectively kills competitors | Kills all viable organisms |
-| Use case | Bulk substrates (straw, compost) | Grain spawn, supplemented substrates |
-
-Pasteurization is sufficient for straw and compost because it selectively kills competitor molds and bacteria while leaving beneficial thermophilic organisms that help defend against later contamination. These thermophiles colonize the substrate and create a biological buffer against invasion.
-
-Sterilization is required for grain spawn and supplemented [[oyster-mushroom-supplemented-sawdust-blocks]] (sawdust + 5–20% bran) must be sterilized at **121°C (15 psi) for 90–120 minutes**. Larger bags require extended cycles—up to 2–4 hours for bags over 5 kg—to ensure complete heat penetration to the center of the substrate mass.
-
-A slow exhaust (gravity exhaust) prevents bags from bursting as pressure drops. Validate sterilization by placing biological indicators (spore strips of *Geobacillus stearothermophilus*) in the center of test bags. These indicators provide definitive proof that lethal temperatures were achieved throughout the entire substrate mass.
-
----
-
 ## Identifying Common Contaminants
 
 ## Overview

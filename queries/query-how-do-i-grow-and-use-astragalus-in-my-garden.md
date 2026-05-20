@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Astragalus in My Garden?"
 tags: [query, astragalus, medicinal-herbs, adaptogens, perennial-herbs]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow and Use Astragalus in My Garden?

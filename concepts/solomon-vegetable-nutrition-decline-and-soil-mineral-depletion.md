@@ -3,32 +3,6 @@ title: "Solomon: Vegetable Nutrition Decline and Soil Mineral Depletion"
 tags:
   - concept
 ---
-
-## Soil Mineral Depletion from Chemical Farming
-
-Solomon places significant emphasis on soil degradation as a driver of
-[[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] supply nitrogen, phosphorus, and potassium in soluble
-forms that drive lush growth but do not replace the dozens of trace minerals
-plants and humans require. Over decades of NPK-only application, soils become
-progressively depleted of calcium, magnesium, iron, zinc, copper, manganese,
-boron, cobalt, selenium, and other essential elements.
-
-### Loss of Soil Biology
-
-Chemical fertilizers and pesticides suppress the soil microbiome — the fungi,
-bacteria, and organisms that solubilize rock minerals and make them available
-to plant roots. Healthy soil biology acts as a living mineral-processing system;
-when destroyed, plants access only what is already in soluble form, which in
-chemically managed soils is primarily NPK.
-
-### Erosion and Organic Matter Decline
-
-Intensive tillage and lack of organic inputs accelerate [[fukuoka-irrigation-topsoil-erosion-salt-accumulation]]. The
-topsoil is where most mineral nutrients and biological activity reside. Once
-lost, rebuilding mineral-rich topsoil takes decades.
-
----
-
 ## Solomon's Recommendations
 
 Solomon advocates for practices that rebuild soil mineral content and grow

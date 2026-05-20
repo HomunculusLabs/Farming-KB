@@ -3,7 +3,7 @@ title: "Chop-and-Drop Mulching vs Mulching"
 tags: [comparison, soil, mulching, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/a-golden-guide-to-hallucinogenic-plants.md']
 ---
 
 ## Chop-and-Drop Mulching vs Mulching

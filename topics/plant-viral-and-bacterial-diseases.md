@@ -4,7 +4,7 @@ subtitle: "Pathogens, symptoms, transmission, and management of viral and bacter
 tags: [plant-disease, virology, bacteriology, plant-pathology, crop-protection]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 related_concepts:
   - viral-plant-diseases
   - bacterial-plant-diseases

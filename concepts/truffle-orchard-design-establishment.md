@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources: ['raw/papers/williams-pdc-earthworks-pdc_-a-permaculture-design-cours.md']
 ---
 ## Truffle Orchard Design and Establishment
 

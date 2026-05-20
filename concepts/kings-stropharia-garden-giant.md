@@ -1,3 +1,11 @@
+---
+title: King Stropharia Garden Giant
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fungi, mushrooms, cultivation, permaculture, ecology, food, species, gardening]
+sources: []
+---
 
 # King Stropharia (Garden Giant)
 

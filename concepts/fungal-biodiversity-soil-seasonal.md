@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 ## Seasonal Variation in Soil Fungal Communities Soil fungal communities are not static but exhibit significant temporal dynamics, with species composition, relative abundance, and activity levels changing across seasons. Understanding these patterns is critical for designing sampling programs and interpreting fungal biodiversity data. ## Seasonal Dynamics of Common Species Relative abundances of the common species of fungi in forest and grassland soils vary seasonally (Christensen 1969; Gochenaur 1978; Clarke and Christensen 1981; Widden 1986b). This seasonal variation apparently is less conspicuous in agricultural soils and those of some boreal conifer forests (Gams and Domsch 1969; Soderstrom and Bath 1978; Bath 1980; Gams 1992). The mechanisms driving seasonal shifts include: - Fluctuations in soil temperature and moisture - Seasonal inputs of organic matter (leaf fall, root exudates, root turnover) - Changes in plant physiological activity and root exudation patterns - Interactions with seasonal microbial communities (bacteria, other fungi) ## Sporulation Seasonality Many fungal species in both temperate and tropical ecosystems sporulate seasonally. In temperate regions, seasonality often is related to nutritional demands and requirements for spore dissemination. Most larger [[cryptic-species-fungal-biodiversity]] dominating
 throughout the year.

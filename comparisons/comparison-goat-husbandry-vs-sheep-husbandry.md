@@ -9,7 +9,7 @@ tags:
   - sheep
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md']
 type: comparison
 ---
 ## Goat Husbandry vs Sheep Husbandry

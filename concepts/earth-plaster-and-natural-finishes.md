@@ -1,3 +1,11 @@
+---
+title: Earth Plaster and Natural Finishes
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [construction, homesteading, permaculture, sustainability]
+sources: []
+---
 
 # Earth Plaster and Natural Finishes
 
@@ -165,5 +173,3 @@ Tadelakt is a waterproof lime plaster technique originating from Morocco. It pro
 
 - [[natural-building-materials-guide]] for wall systems that require these finishes
 - [[straw-bale-construction]] which depends heavily on proper plaster application for weather protection
-## See Also
-- [[diatomaceous-earth-and-natural-pest-management]]

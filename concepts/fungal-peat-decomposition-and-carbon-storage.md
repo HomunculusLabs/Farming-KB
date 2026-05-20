@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: ['raw/papers/unknown-biodiversity-of-fungi-biomass-carbon-soil-structure|biodiversity-of-fungi.md']
 ---
 Peat formation represents one of the most significant long-term
 carbon storage mechanisms in terrestrial ecosystems. Fungi play a

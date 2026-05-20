@@ -3,7 +3,7 @@ title: "Schisandra vs Lemon Balm"
 tags: [comparison, schisandra, lemon-balm, adaptogen, nervine, medicinal-herbs]
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## Schisandra vs Lemon Balm

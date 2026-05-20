@@ -1,3 +1,11 @@
+---
+title: Cordyceps and Entomopathogenic Fungi
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fungi, mycology, biology, ecology, entomopathogenic, pesticide, agriculture]
+sources: []
+---
 
 # Cordyceps and Entomopathogenic Fungi
 
@@ -167,5 +175,3 @@ Formerly considered part of M. anisopliae, now recognized as a separate species.
 ## Related
 
 - [[fungal-biology-fundamentals]]
-## See Also
-- [[cordyceps-claviceps-sacred-neurotropic-fungi-mexico]]

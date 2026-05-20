@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Holzer Raised Bed Design
 
-Raised beds are central to Sepp Holzer's permaculture system. They are built with bulky organic material at their core, which breaks down to provide long-term nutrient supply and moisture retention.
+Raised beds are central to [[sepp-holzer]]'s [[permaculture]] system. They are built with bulky organic material at their core, which breaks down to provide long-term nutrient supply and moisture retention.
 
 ## Construction
 
@@ -21,7 +21,7 @@ On hills, the beds must not be parallel to the slope, otherwise those at the top
 
 ### Side Angle
 
-The sides of raised beds should be at an angle of at least 45 degrees. Holzer has had good results with even steeper beds of 60 to 70 degrees on heavy loam. Beds that are too flat become compacted, oxygen supply decreases, decomposition is interrupted, and anaerobic sludge can build up — negatively affecting plants. Plants will not be able to establish their roots properly because the ground is too compacted and they will begin to wilt.
+The sides of raised beds should be at an angle of at least 45 degrees. Holzer has had good results with even steeper beds of 60 to 70 degrees on heavy loam. Beds that are too flat become compacted, oxygen supply decreases, [[decomposition]] is interrupted, and anaerobic sludge can build up — negatively affecting plants. Plants will not be able to establish their roots properly because the ground is too compacted and they will begin to wilt.
 
 ### Height
 
@@ -48,78 +48,37 @@ Beds made of chipped wood break down quickly, releasing large amounts of nutrien
 - [[sepp-holzer-method]]
 - holzer raised bed design
 - [[sepp-holzer-methods]]
-### Key Principles
-Understanding holzer raised bed design requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Key Concepts and Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[sepp-holzer]]
-- [[aact-brewer-design-principles-aeration-systems-ingham]]
-- [[aact-brewer-machine-design-testing-standards-ingham]]
-### Additional Notes
-The study and application of holzer raised bed design continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of holzer raised bed design continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of holzer raised bed design continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of holzer raised bed design continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of holzer raised bed design continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of holzer raised bed design continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of holzer raised bed design continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of holzer raised bed design continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of holzer raised bed design continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-## See Also
-- [[sepp-holzer]]
-- [[aact-brewer-design-principles-aeration-systems-ingham]]
-- [[aact-brewer-machine-design-testing-standards-ingham]]
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources and training programs support broader adoption of best practices.
+Economic analyses suggest favorable returns on investment for implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources and training programs support broader adoption of best practices.

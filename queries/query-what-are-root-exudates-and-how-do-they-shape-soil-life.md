@@ -3,7 +3,7 @@ title: "What Are Root Exudates and How Do They Shape Soil Life?"
 tags: [query, soil-biology, rhizosphere, root-exudates, plant-microbe-interactions]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## What Are Root Exudates and How Do They Shape Soil Life?

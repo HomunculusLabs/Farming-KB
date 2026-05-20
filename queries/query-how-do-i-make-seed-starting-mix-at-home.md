@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [farming, soil, seed-starting, organic-gardening, diy]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['gaias-garden-a-guide-to-home-scale-permaculture']
 type: query
 ---
 

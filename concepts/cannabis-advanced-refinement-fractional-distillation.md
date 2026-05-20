@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-18
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 ## Cannabis Advanced Refinement and Fractional Distillation
 

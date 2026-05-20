@@ -3,7 +3,7 @@ title: "Yarrow vs Ashwagandha"
 tags: [comparison, yarrow, ashwagandha, medicinal-herbs, adaptogens, wound-healing]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Yarrow vs Ashwagandha

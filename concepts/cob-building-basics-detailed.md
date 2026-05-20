@@ -1,3 +1,11 @@
+---
+title: Cob Building Basics Detailed
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [construction, permaculture, homesteading, sustainability, design, engineering]
+sources: []
+---
 
 # Cob Building Basics Detailed
 

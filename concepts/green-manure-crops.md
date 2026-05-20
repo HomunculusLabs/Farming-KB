@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cover-crop, soil, regenerative, compost, fertilizer, nutrient-cycling, agriculture, soil-building]
-sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
+sources: []
 ---
 
 # Green Manure Crops

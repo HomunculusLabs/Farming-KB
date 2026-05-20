@@ -3,7 +3,7 @@ title: "How Do I Grow Onions from Seed, Sets, and Transplants?"
 tags: [query, onion, allium, vegetable-growing, bulb-crops]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow Onions from Seed, Sets, and Transplants?

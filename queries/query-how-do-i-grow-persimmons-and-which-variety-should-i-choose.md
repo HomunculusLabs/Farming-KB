@@ -3,7 +3,7 @@ title: "How Do I query how do i grow persimmons and which variety should i choos
 tags: [query, persimmon, fruit-trees, orchard, food-forest]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## How Do I Grow Persimmons and Which Variety Should I Choose?

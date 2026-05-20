@@ -1,3 +1,11 @@
+---
+title: Peyote Ceremony Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [entheogen, cacti, ethnobotany, mesoamerica, new-world, shamanism, spirituality, religion, culture, psychopharmacology, safety, history, species]
+sources: []
+---
 
 # Peyote Ceremony Guide
 

@@ -1,3 +1,11 @@
+---
+title: Natto Making
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fermentation, recipe, food, homesteading, microbes, homestead-crafts, preservation, asia, bacteria, nutrients]
+sources: []
+---
 
 ## What Is Natto
 

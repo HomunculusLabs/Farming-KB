@@ -1,3 +1,11 @@
+---
+title: Wild Yeast Bread Baking
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fermentation, food, recipe, homesteading, grain, cooking, seeds]
+sources: []
+---
 
 # Wild Yeast Bread Baking
 
@@ -124,5 +132,3 @@ Using locally grown grains connects bread to terroir and supports regional grain
 - Proofing container with lid
 
 Wild yeast bread baking produces a high-value product for [[farmers-market-selling-guide]] and connects to broader [[food-fermentation-guide]] practices on the homestead.
-## See Also
-- [[comparison-sourdough-vs-wild-yeast-bread]]

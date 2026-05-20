@@ -9,7 +9,7 @@ tags:
   - inoculation
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/unknown-oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid|oyster-mushroom-cultivation.md']
 type: comparison
 ---
 ## Grain Spawn vs Grain-to-Grain Transfer

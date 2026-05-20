@@ -1,3 +1,11 @@
+---
+title: Flood Preparedness Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [safety, homesteading, climate, water, water-management]
+sources: []
+---
 
 # Flood Preparedness Guide
 

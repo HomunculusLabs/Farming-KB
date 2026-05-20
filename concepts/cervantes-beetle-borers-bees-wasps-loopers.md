@@ -13,44 +13,6 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
-
-## Bees and Wasps
-
-### Identification
-
-Bees and wasps that sting are usually from 0.5 inch (1.5 cm)
-to more than an inch (3 cm) long. Most have yellow stripes
-around their bodies, though some species lack distinctive
-markings. They are especially attracted to indoor gardens when
-weather cools outdoors, as they move right in seeking warmth
-and food.
-
-### Impact
-
-Bees and wasps cause no direct damage to cannabis plants but
-can become a nuisance in grow rooms and deliver painful stings.
-They enter through vents, cracks, and other openings attracted
-by the growing plants, a valuable commodity in the middle of
-cold weather.
-
-### Control
-
-- Screen all entrances to the grow room with fine mesh to
-  exclude flying insects
-- Install more circulation fans to make flying difficult for
-  these insects
-- Wasp traps, sweet flypaper, and Tanglefoot barriers impair
-  pest entry and capture individuals
-- Bees and wasps are also attracted to hot HID lamps and may
-  fly into them and die
-- [[pyrethrum]] is recommended for chemical control
-- Small wasp nests can be stuffed into a wide-mouthed jar at
-  night when wasps are quiet, then placed in a freezer for
-  a few hours
-- Use Sevin (Carbaryl) only if there is a significant problem
-  with an established wasp nest
-
----
 Related topics include [[bark-beetle-fungi-ophiostomatales-collection-isolation]] and associated practices.
 
 ## See Also

@@ -3,7 +3,7 @@ title: "Basalt Rock Dust vs Rock Dust Soil Remineralization"
 tags: [comparison, rock-dust, basalt, soil-amendment, remineralization]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Basalt Rock Dust vs Rock Dust Soil Remineralization

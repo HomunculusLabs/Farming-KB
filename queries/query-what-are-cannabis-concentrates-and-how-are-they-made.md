@@ -3,7 +3,7 @@ title: "Query What Are Cannabis Concentrates And How Are They Made"
 tags: [query, cannabis, concentrates, extraction, hashish]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['AllBud blesching-cannabis-strain-selection-receptor-targeting Reviews']
 ---
 
 ## What Are Cannabis Concentrates and How Are They Made?

@@ -3,7 +3,7 @@ title: "How Do I Grow Elderberry for Fruit and Medicine?"
 tags: [query, elderberry, medicinal-herbs, fruit-growing, permaculture]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow Elderberry for Fruit and Medicine?

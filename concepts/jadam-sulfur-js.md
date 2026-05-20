@@ -1,3 +1,24 @@
+---
+
+title: JADAM Sulfur (JS) — Natural Germicide Recipe
+created: 2026-04-11
+updated: 2026-04-12
+type: concept
+
+tags:
+- jadam
+- fermentation
+- recipe
+- pest-control
+- water
+- equipment
+- wood-rot
+- ph
+- processing
+
+sources:
+- raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
+---
 
 # JADAM Sulfur (JS)
 

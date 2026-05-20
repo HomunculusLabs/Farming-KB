@@ -1,3 +1,11 @@
+---
+title: Functional Mushroom Products
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, processing, preparation, mushrooms, fungi, health, medicine, methods]
+sources: []
+---
 
 # Functional Mushroom Products
 

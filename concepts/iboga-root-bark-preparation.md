@@ -1,3 +1,11 @@
+---
+title: Iboga Root Bark Preparation
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [entheogen, preparation, ethnobotany, africa, psychopharmacology, safety, chemistry, species, pharmacology, medicine, health, shamanism, history]
+sources: []
+---
 
 # Iboga Root Bark Preparation
 
@@ -139,5 +147,3 @@ Ibogaine is classified as a Schedule I substance in the United States. It is ill
 
 - [[dmt-extraction-guide]] — extraction methods for another major entheogenic compound
 - [[psychedelic-plants-legal-status]] — comprehensive legal status information
-## See Also
-- [[endophytic-fungi-bark-root-xylotropic-specialized-hosts]]

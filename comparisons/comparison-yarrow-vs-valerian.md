@@ -3,7 +3,7 @@ title: "Yarrow vs Valerian"
 tags: [comparison, yarrow, valerian, medicinal-herbs, adaptogens]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Yarrow vs Valerian

@@ -3,7 +3,7 @@ title: "How Do I Grow Sorghum in My Garden or Small Farm?"
 tags: [query, sorghum, grain, cover-crop, drought-tolerant]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/unknown-oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid|oyster-mushroom-cultivation.md']
 ---
 
 ## How Do I Grow Sorghum in My Garden or Small Farm?

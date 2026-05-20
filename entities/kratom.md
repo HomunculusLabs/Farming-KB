@@ -2,7 +2,7 @@
 title: "Kratom"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The pharmacological profile of kratom is unusual in that it produces both stimulant-like effects at lower doses and opioid-like effects at higher doses. This biphasic action has generated significant scientific and public health interest, particularly as kratom has been increasingly used in Western countries as a self-managed treatment for chronic pain, anxiety, and opioid dependence. The US DEA estimated approximately 10–15 million kratom users in the United States as of the mid-2020s.

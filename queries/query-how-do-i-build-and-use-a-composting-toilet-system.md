@@ -3,7 +3,7 @@ title: "How Do I Build and Use a Composting Toilet System?"
 tags: [query, composting-toilet, humanure, off-grid, sanitation]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How Do I Build and Use a Composting Toilet System?

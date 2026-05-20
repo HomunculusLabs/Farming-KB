@@ -3,35 +3,6 @@ title: Mushroom Farm Business Startup Guide
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
-
-## Initial Investment Estimates
-
-All costs in **Thai Baht (฿)** based on the [[fao-accessible-mushroom-house-design-disabilities]] 3 m × 4 m (2-year lifespan) | 500 – 2,000 |
-| 1,000 inoculated mushroom bags (3-month cycle) | 3,500 |
-| **Total** | **4,000 – 5,500** |
-
-This gets you started quickly with the lowest risk, focusing on growing and
-selling while learning the craft.
-
-### Additional Equipment for Making Your Own Bags
-
-Making your own bags reduces recurring costs and opens an additional revenue
-stream (selling bags to others).
-
-| Item | Cost (Baht) |
-|------|-------------|
-| 200L oil drums × 2 ([[sterilization]], 80–100 bags/batch, 2 years) | 400 – 700 |
-| Gas tank and burner (optional; wood/branches work as fuel) | 2,000 – 3,000 |
-| Other tools (basket, sprayer, gloves, etc.) | ~1,000 |
-| Cement floor (optional but recommended) | ~4,000 |
-| Compacted earth floor (free alternative, ~1 year) | Free |
-| **Total additional (minimum)** | **400 – 700** |
-
-The absolute minimum for self-production requires only oil drums and compacted
-earth, keeping additional investment under 700 Baht.
-
----
-
 ## Three Levels of Operation
 
 | Level | Method | Houses | Bags | [[mushroom-substrate-bags]]. Premature self-production leads to high contamination rates.

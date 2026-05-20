@@ -3,36 +3,6 @@ title: "Biology of Emotions: Expansive and Constricting Neurotransmitters"
 tags:
   - concept
 ---
-
-## Molecules of Expansive Emotions
-
-These molecules are associated with positive, open emotional states. When present in balanced amounts, they support creativity, social bonding, relaxation, learning, and overall well-being. Each has direct connections to the endocannabinoid system through CB1 or CB2 receptors, and each can be consciously boosted through specific practices.
-
-### Acetylcholine
-- **Produced by:** Neurons throughout the body; neurons contain CB1
-- **Emotional keyword:** "I remember" (learning, memory, plasticity, arousal, attention)
-- **Function:** Only neurotransmitter of the voluntary nervous system; contracts skeletal muscle, inhibits cardiac muscle
-- **Cannabis connection:** Low-to-medium THC doses increase brain acetylcholine
-- **Deficiency:** Insomnia, impaired creativity, dementia (Alzheimer's)
-- **Excess:** [[blesching-cannabis-gaba-glutamate-endocannabinoid-system|GABA]] (Gamma-Aminobutyric Acid)
-- **Made in:** Brain cells from glutamate; brain cells contain CB1
-- **Emotional keyword:** "I am melting" (relaxed, calm, slowed down)
-- **Function:** Inhibitory neurotransmitter — the brain's "Valium"; regulates nerve excitability
-- **Balance:** GABA and glutamate balance each other — relaxation balances excitement
-- **ADHD relevance:** ECS dual capacity to balance glutamate (upper) and GABA (downer) offers new ADHD treatment
-- **Evidence:** Yoga increased brain GABA by 27% (Boston University pilot)
-- **Deficiency:** Irritability, anxiety, panic attacks, aggression, ADHD, depression
-- **Boosting:** Yoga, reducing chronic stress, CB1-activating cannabinoids
-
-### Oxytocin
-- **Produced in:** Hypothalamus, stored in pituitary; contain CB1
-- **Emotional keyword:** "I feel for you" (empathy, generosity, trust, reduced fear)
-- **Known as:** The "cuddle molecule" or "vitamin O"
-- **Physical benefits:** Reduces blood pressure, reduces cravings, enhances wound healing, reduces pain, reduces inflammation/[[serotonin]] syndrome
-- **Boosting:** Reduce stress, recall happy memories, massage, CB2 cannabinoids, exercise, sunlight
-
----
-
 ## Molecules of Constricting Emotions
 
 These molecules are associated with survival-oriented, activating emotional states. While essential for acute threat response and motivation, chronic elevation of constricting molecules damages health. The catecholamine family ([[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]] (contain CB1)

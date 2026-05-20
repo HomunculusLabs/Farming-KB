@@ -26,7 +26,7 @@ The women accused of witchcraft in Salem, Massachusetts, in the seventeenth
 century suffered from a constellation of disturbing symptoms: epileptic
 convulsions, choking sensations, and the feeling of being pinched, bitten,
 and pricked with pins. These presentations closely mirror the clinical
-profile of ergotism, a disease caused by ingestion of [[bloomfield-ergot-claviceps-purpurea-ergotism]]*
+profile of ergotism, a disease caused by ingestion of bloomfield-ergot-claviceps-purpurea-ergotism]]*
 on rye crops. Symptoms of poisoning began in December 1691, immediately
 after the threshing of Salem's grain harvest, some of which was almost
 certainly contaminated with ergot sclerotia.

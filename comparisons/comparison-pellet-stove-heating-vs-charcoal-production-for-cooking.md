@@ -3,7 +3,7 @@ title: "Pellet Stove Heating vs Charcoal Production for Cooking"
 tags: [comparison, energy, homesteading, off-grid, heating, cooking]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['https://www.sare.org/publications/goat-production']
 ---
 
 ## Pellet Stove Heating vs Charcoal Production for Cooking

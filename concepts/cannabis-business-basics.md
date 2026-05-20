@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, business, law, economics, organization, regulation, safety]
-sources: [raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
+sources: []
 ---
 
 # Cannabis Business Basics
@@ -180,5 +180,5 @@ Common roles: budtenders, cultivation technicians, trimmers, extraction technici
 - Beverage market growth, delivery service expansion
 - International markets opening (Germany, Thailand)
 - Quality ([[cannabis-testing-and-quality|testing results]], terpene profiles) increasingly matters more than raw THC percentage
-## See Also
-- [[comparison-cannabis-extraction-basics-vs-extraction-methods]]
+
+See also: [[cannabis-breeding-basics]]

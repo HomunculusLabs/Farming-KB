@@ -2,7 +2,7 @@
 title: "Nypa Fruticans"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species has been utilized by coastal communities for millennia across its range. Archaeological evidence from Southeast Asia suggests nipa palm exploitation dates back at least 3,000 years.

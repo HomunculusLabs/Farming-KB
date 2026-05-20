@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [composting, compost, soil-building, methods, soil, decomposition, regenerative, gardening]
-sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
+sources: []
 ---
 
 # Leaf Mold Composting

@@ -2,7 +2,7 @@
 title: "Picea Sitchensis"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 Maximum recorded age is approximately 700–800 years, though most trees in managed stands are harvested well before maturity. Old-growth individuals develop massive buttressed root systems and spreading crowns.

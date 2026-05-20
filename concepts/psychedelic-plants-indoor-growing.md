@@ -1,3 +1,11 @@
+---
+title: Psychedelic Plants Indoor Growing
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [entheogen, indoor, cultivation, cacti, species, plants, beginner, environment, methods, preparation, humidity, species-profiles]
+sources: []
+---
 
 # Psychedelic Plants Indoor Growing
 

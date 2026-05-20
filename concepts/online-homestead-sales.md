@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [business, economics, homesteading, food, regulation, homestead-crafts]
-sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
+sources: []
 ---
 
 # Online Homestead Sales

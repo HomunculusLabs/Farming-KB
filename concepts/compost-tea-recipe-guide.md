@@ -147,6 +147,6 @@ AACT must stay aerobic to retain beneficial fungi, protozoa, and nematodes. Anae
 - [[soil-food-web-structure]]
 - [[bacterial-vs-fungal-soil]]
 - [[protozoa-in-soil]]
-- [[mycorrhizal-inoculation-guide]]
+- [[mycorrhizal-inoculation]]
 - [[foliar-feeding-plants]]
 - [[nitrogen-cycle-in-soil]]

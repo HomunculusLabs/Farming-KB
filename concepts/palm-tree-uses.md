@@ -1,3 +1,11 @@
+---
+title: Palm Tree Uses
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [trees, permaculture, plant-catalog, species, plants, multi-function, forage, food-forest, species-profiles]
+sources: [raw/papers/a-selection-permaculture-plants.md]
+---
 
 # Palm Tree Uses
 

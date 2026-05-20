@@ -3,7 +3,7 @@ title: "Passionflower vs St. John's Wort"
 tags: [comparison, medicinal-herbs, nervine-herbs, sedatives, antidepressants]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Passionflower vs St. John's Wort

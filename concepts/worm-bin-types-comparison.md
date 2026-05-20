@@ -1,3 +1,11 @@
+---
+title: Worm Bin Types Comparison
+created: 2026-04-12
+updated: 2026-04-12
+type: comparison
+tags: [comparison, compost, microbes, homesteading, equipment]
+sources: []
+---
 
 # Worm Bin Types Comparison
 

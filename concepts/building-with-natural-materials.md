@@ -1,3 +1,11 @@
+---
+title: Building with Natural Materials
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, construction, design, sustainability, homestead-crafts]
+sources: []
+---
 
 # Building with Natural Materials
 

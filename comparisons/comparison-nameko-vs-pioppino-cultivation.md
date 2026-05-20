@@ -3,7 +3,7 @@ title: "Nameko vs Pioppino Cultivation"
 tags: [comparison, mushroom-cultivation, nameko, pioppino, agrocybe]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md']
 ---
 
 ## Nameko vs Pioppino Cultivation

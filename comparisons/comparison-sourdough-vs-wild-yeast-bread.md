@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [sourdough, wild-yeast, bread-baking, fermentation, comparison]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/a-golden-guide-to-hallucinogenic-plants.md']
 type: comparison
 ---
 ## Sourdough Bread Guide vs [[living-mulch-systems-guide]] |

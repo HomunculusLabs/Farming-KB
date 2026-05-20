@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 Updated: 2026-04-18 Autumn Olive (Elaeagnus umbellata) is a hardy nitrogen-fixing small tree producing small, nutritious fruit. Despite its versatility, it is considered invasive in parts of [[permaculture-tree-crop-systems]] as a nitrogen-fixing support tree.
 

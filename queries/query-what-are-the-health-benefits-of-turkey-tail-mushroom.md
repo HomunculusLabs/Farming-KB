@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, mushrooms, medicinal, cancer, immune-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['cancer-treatments-medicinal-mushrooms.md']
 type: query
 ---
 

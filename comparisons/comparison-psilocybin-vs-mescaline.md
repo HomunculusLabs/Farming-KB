@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [psychedelics, comparison, psilocybin, mescaline, tryptamine-vs-phenethylamine]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['papers/field-guide-to-the-psilocybin-mushroom.md']
 type: comparison
 ---
 ## Psilocybin vs Mescaline

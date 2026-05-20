@@ -1,3 +1,11 @@
+---
+title: Mycology Research Methods
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, fungi, biology, lab-technique, field-methods, methods, taxonomy, genomics, microscopy]
+sources: []
+---
 
 # Mycology Research Methods
 
@@ -16,7 +24,7 @@ Systematic fungal surveys require careful planning and documentation:
 - **Collection protocol**:
   - Photograph specimens in situ before collection (cap, gills/pores, stipe, habitat, substrate)
   - Collect complete specimens including the base of the stipe (important for identification)
-  - Wrap each specimen individually in wax paper or aluminum foil (never plastic bags, which promote decomposition)
+  - Wrap each specimen individually in wax paper or aluminum foil (never plastic bags, which promote [[decomposition]])
   - Record collection data: date, location (GPS coordinates), habitat, substrate, associated trees/plants, collector name, field number
   - Collect in duplicate when possible: one for immediate study, one for drying/herbarium
   - Use a field notebook or digital collection app (iNaturalist, MycoMap)
@@ -181,5 +189,3 @@ Provides high-resolution surface detail:
 - **Metatranscriptomics and stable isotope probing**: Active gene expression and carbon/nitrogen flow through fungal networks
 
 See [[psychedelic-mushroom-taxonomy]] for how these methods are applied to psychedelic mushroom classification and [[fungal-antibiotics]] for applications in drug discovery.
-## See Also
-- [[international-mycology-research-network]]

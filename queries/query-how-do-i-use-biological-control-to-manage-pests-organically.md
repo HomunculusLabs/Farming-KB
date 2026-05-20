@@ -3,7 +3,7 @@ title: "How Do I Use Biological Control to Manage Pests Organically?"
 tags: [query, biocontrol, pest-management, organic-gardening, ipm]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles']
 ---
 
 ## How Do I Use Biological Control to Manage Pests Organically?

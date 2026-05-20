@@ -1,3 +1,17 @@
+---
+title: Permaculture Currency and Economics
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags:
+  - economics
+  - community
+  - permaculture
+  - trade
+  - local-economy
+sources:
+  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
+---
 
 # Permaculture Currency and Economics
 
@@ -86,5 +100,3 @@ Mollison's key metaphor: "Money is to the social fabric as water is to landscape
 - [[permaculture-introduction-and-ethics]] -- The ethical foundation underlying permaculture economics
 - [[permaculture-design-process]] -- Community-scale design for self-reliance
 - [[permaculture-design-process]] -- Reducing household costs through design
-## See Also
-- [[pdc-right-livelihood-and-permaculture-economics]]

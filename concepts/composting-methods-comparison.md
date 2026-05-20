@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: comparison
 tags: [composting, compost, comparison, soil-building, methods, regenerative, sustainability, soil]
-sources: [raw/papers/nutrient-and-dynamic-accumulators.md]
+sources: []
 ---
 
 # Composting Methods Comparison

@@ -2,7 +2,7 @@
 title: "Bryum Bimum"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 *Bryum* is one of the largest moss genera with over 500 species worldwide,

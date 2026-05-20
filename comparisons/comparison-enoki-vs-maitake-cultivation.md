@@ -3,7 +3,7 @@ title: Comparison Enoki Vs Maitake Cultivation
 tags: [comparison, mushrooms, cultivation, enoki, maitake, gourmet]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Enoki vs Maitake Cultivation

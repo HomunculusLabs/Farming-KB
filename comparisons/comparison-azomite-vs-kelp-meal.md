@@ -3,7 +3,7 @@ title: "Azomite vs Kelp Meal"
 tags: [comparison, mineral-amendment, trace-elements, soil-fertility, organic]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Azomite vs Kelp Meal

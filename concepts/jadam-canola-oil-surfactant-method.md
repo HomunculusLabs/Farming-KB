@@ -11,7 +11,7 @@ tags: [jadam, jadam-nutrient-management-wetting-agent-and-calcium (JWA) is a nat
 Most canola and soybean oils are genetically modified (GMO). In Korea, there is no law regulating GMO in natural oil. To avoid GMO, farmers can use:
 - Non-GMO canola oil
 - Sunflower oil
-- [[youngsang-cho]] experimented extensively to find a radically easier method:
+- youngsang-cho]] experimented extensively to find a radically easier method:
 - Goal: no heating, only 10 minutes of mixing, 3 days of sitting
 - Completely ignored temperature requirements
 - Continued experimenting with different proportions of water, caustic potash, and oil

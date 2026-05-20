@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, mushroom-cultivation, strain-development, sterile-technique, mycology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/unknown-mushrooms-fungi-from-around-the-world.md']
 type: comparison
 ---
 

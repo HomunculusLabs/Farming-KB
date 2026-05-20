@@ -2,7 +2,7 @@
 title: "Lotus Corniculatus"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 Grows in a wide range of habitats: grasslands, meadows, roadsides,

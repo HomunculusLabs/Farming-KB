@@ -5,7 +5,7 @@ updated: 2026-05-06
 aliases: [PsiD, L-tryptophan decarboxylase]
 tags: [enzyme, psilocybin, biosynthesis, mycology, biochemistry]
 type: entity
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## PsiD Enzyme

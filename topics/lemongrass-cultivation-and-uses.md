@@ -38,31 +38,6 @@ sources:
     publisher: "CRC Press"
     year: 2019
 ---
-
-## Botanical Profile
-
-Lemongrass belongs to the genus **Cymbopogon**, which comprises approximately 55 species of aromatic grasses distributed across tropical and subtropical regions of Africa, Asia, and Australia. The two most economically significant species are:
-
-- **[[psilocybe-southeast-asia-pacific]], with its center of diversity spanning from India and Sri Lanka eastward through Myanmar, Thailand, Cambodia, Vietnam, Malaysia, and Indonesia. Archaeological and historical evidence suggests that lemongrass has been used for thousands of years in these regions, both as a culinary ingredient and as a traditional remedy.
-
-### Early Historical Records
-
-- **India**: Lemongrass has been used in Ayurvedic medicine for over 2,000 years, where it is known as "bhustrina" or "choomana poolu." It was employed to treat fevers, digestive disorders, and nervous conditions. It also features prominently in traditional Indian cooking, particularly in coastal and southern cuisines.
-- **Sri Lanka**: Known locally as "sera," lemongrass has been cultivated on the island for centuries and was one of the earliest aromatic plants traded by Sri Lankan merchants.
-- **Southeast Asia**: Lemongrass is a fundamental ingredient in Thai, Vietnamese, Cambodian, and Indonesian cuisines. In Thailand, it is called "takrai" and is considered one of the essential aromatics alongside galangal, kaffir lime, and Thai basil.
-- **Philippines**: Known as "tanglad," lemongrass has a long history of use in traditional Filipino medicine and cooking.
-
-### Global Spread
-
-The global dispersal of lemongrass followed trade routes and colonial expansion:
-
-1. **East Africa and the Middle East** (circa 10th-12th centuries): Traders carried lemongrass along maritime routes to the Swahili coast, the Arabian Peninsula, and the Comoros Islands, where it became naturalized and integrated into local cuisines and traditional medicine.
-2. **Central and South America** (16th-18th centuries): Spanish and Portuguese colonists introduced lemongrass to the Caribbean, [[permaculture-designers-manual-essential-oil-plants]] production. By the early 20th century, major cultivation centers had been established in India, Guatemala, Haiti, and the Comoros Islands.
-
-Today, the largest producers of lemongrass essential oil are India, Guatemala, China, Indonesia, Vietnam, Brazil, and Haiti. The global lemongrass oil market has grown steadily due to increasing demand from the food, fragrance, pharmaceutical, and cosmetics industries.
-
----
-
 ## Active Compounds
 
 The characteristic lemon aroma and many of the biological activities of lemongrass are attributed to its complex essential oil composition. The chemistry varies between species, cultivars, growing conditions, and stage of harvest.
@@ -100,3 +75,11 @@ While C. citratus and C. flexuosus are the most important, several related speci
 - **Cymbopogon nardus**: Source of citronella oil, widely used as an insect repellent.
 - **[[coleman-claytonia-winter-harvest-cultivation]]
 - [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]
+
+## Key Concepts and Applications
+
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.

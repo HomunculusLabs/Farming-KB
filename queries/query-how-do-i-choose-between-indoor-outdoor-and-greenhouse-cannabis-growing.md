@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, cannabis, growing-methods, beginner]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md']
 type: query
 ---
 

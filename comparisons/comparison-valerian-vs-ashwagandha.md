@@ -3,7 +3,7 @@ title: "Valerian vs Ashwagandha"
 tags: [comparison, adaptogenic-herbs, nervines, herbal-medicine, stress-management]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Valerian vs Ashwagandha

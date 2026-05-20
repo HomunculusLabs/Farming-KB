@@ -3,7 +3,7 @@ title: "Leaf Mold vs Biochar"
 tags: [comparison, soil-building, composting, biochar, organic-matter]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Leaf Mold vs Biochar

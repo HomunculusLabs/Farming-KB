@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Mushrooms have been an enduring source of artistic inspiration throughout Western history. Their sudden appearance, ephemerality, association with rot and decay, and sheer otherness have made them living repositories of "all that is weird, enchanted, otherworldly and uncanny." The question of whether prehistoric and ancient cultures used psychoactive mushrooms visually -- and whether mushroom iconography represents entheogenic use -- is one of the most debated topics in ethnomycology.
+Mushrooms have been an enduring source of artistic inspiration throughout Western history. Their sudden appearance, ephemerality, association with rot and decay, and sheer otherness have made them living repositories of "all that is weird, enchanted, otherworldly and uncanny." The question of whether prehistoric and ancient cultures used psychoactive mushrooms visually -- and whether mushroom iconography represents entheogenic use -- is one of the most debated topics in [[ethnomycology]].
 
 ## Mesoamerican Mushroom Stones and Effigies
 
@@ -20,17 +20,17 @@ Throughout Central America, approximately three hundred stone and pottery "mushr
 
 The pottery figures are simpler, and for a long time were considered to be phallic symbols. The earliest figures date from the pre-classic period, around the first millennium BCE; the latest, and simplest, from the late classic. What they were for is uncertain: they have been variously interpreted as phallic symbols, boundary markers, seats, and as connected to the Mesoamerican ball-game. Given the historical evidence and the discovery of other figurines depicting euphoric-looking humans with mushrooms, it is extremely likely these figures were connected with mushroom consumption.
 
-Mesoamerican codices also portray mushrooms. The Vienna Codex (Vindobonensis), a Mixtec work on the mythological origins of the world, shows several gods including Quetzalcoatl clutching mushrooms. The Lienzo de Zacatepec shows a man with mushrooms in his hair, and another codex shows a man eating mushrooms while a supernatural figure stands behind him.
+Mesoamerican codices also portray mushrooms. The Vienna Codex (Vindobonensis), a Mixtec work on the mythological origins of the world, shows several gods including [[quetzalcoatl]] clutching mushrooms. The Lienzo de Zacatepec shows a man with mushrooms in his hair, and another codex shows a man eating mushrooms while a supernatural figure stands behind him.
 
 ## The Tassili "Bemushroomed Shaman"
 
-The most famous claimed example of prehistoric mushroom art comes from rock art on the Tassili plateau of southern Algeria, dating from the Neolithic to the start of the Common Era. One particular image, popularised by Terence McKenna, depicts a squat male figure covered in a psychedelic pattern of lozenges and dots, apparently clutching handfuls of mushrooms that sprout from his body. It has become an icon for the psychedelic mushroom community.
+The most famous claimed example of prehistoric mushroom art comes from rock art on the Tassili plateau of southern Algeria, dating from the Neolithic to the start of the Common Era. One particular image, popularised by [[terence-mckenna]], depicts a squat male figure covered in a psychedelic pattern of lozenges and dots, apparently clutching handfuls of mushrooms that sprout from his body. It has become an icon for the psychedelic mushroom community.
 
 However, the widely circulated image is not a photograph of the original but a drawing made by Kat Harrison during the 1990s, derived from photos in Jean-Dominique Lajoux's book "The Rock Paintings of Tassili." Her representation, informed by her own mushroom experiences, subtly reinforced the shamanistic interpretation. In the original, the objects could be mushrooms or arrows; the psychedelic patterns are less emphatic. Whether the original Neolithic artist(s) intended to depict a bemushroomed shaman "is far from settled."
 
 ## Wasson's LIFE Magazine Article (1957)
 
-Gordon Wasson's 1957 LIFE magazine article "Seeking the Magic Mushroom" was a watershed moment in psychedelic iconography. The article described Wasson's 1955 velada with Maria Sabina in Huautla de Jimenez, Oaxaca, and featured photographs by Allan Richardson of the mushroom ceremony. The article's dramatic presentation -- complete with images of the "divine mushroom" -- played a major role in kick-starting the psychedelic revolution. Within months, "seekers were knocking on Sabina's door" and Oaxaca was "awash with hippies" on the magic mushroom trail.
+[[gordon-wasson]]'s 1957 LIFE magazine article "Seeking the Magic Mushroom" was a watershed moment in psychedelic iconography. The article described Wasson's 1955 velada with [[maria-sabina]] in [[huautla-de-jimenez]], Oaxaca, and featured photographs by Allan Richardson of the mushroom ceremony. The article's dramatic presentation -- complete with images of the "divine mushroom" -- played a major role in kick-starting the psychedelic revolution. Within months, "seekers were knocking on Sabina's door" and Oaxaca was "awash with hippies" on the magic mushroom trail.
 
 ## Modern Mushroom Art
 
@@ -47,83 +47,38 @@ The Liberty Cap's distinctive shape -- resembling both the Phrygian bonnet of Fr
 
 - [[soma-and-the-sacred-mushroom-debate]] -- scholarly debate about mushrooms in ancient religion
 - [[ayahuasca-vision-art-and-Shipibo-tradition]] -- visionary art from Amazonian traditions
-### Key Principles
-Understanding psychedelic mushroom art and iconography requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Key Concepts and Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[mycelium]]
-- [[1960s-counterculture-and-magic-mushrooms]]
-### Cultivation Considerations
-Successful cultivation depends on maintaining proper environmental conditions throughout all growth phases.
-Temperature, humidity, and fresh air exchange must be carefully managed for optimal results.
-Contamination prevention is critical during the early stages of mycelial colonization.
-
-### Additional Notes
-The study and application of psychedelic mushroom art and iconography continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of psychedelic mushroom art and iconography continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of psychedelic mushroom art and iconography continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of psychedelic mushroom art and iconography continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of psychedelic mushroom art and iconography continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of psychedelic mushroom art and iconography continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of psychedelic mushroom art and iconography continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of psychedelic mushroom art and iconography continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of psychedelic mushroom art and iconography continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[mycelium]]
-- [[1960s-counterculture-and-magic-mushrooms]]
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources and training programs support broader adoption of best practices.
+Economic analyses suggest favorable returns on investment for implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources and training programs support broader adoption of best practices.
+Economic analyses suggest favorable returns on investment for implemented projects.

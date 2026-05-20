@@ -3,7 +3,7 @@ title: "Schisandra vs Echinacea"
 tags: [comparison, medicinal-herb, adaptogen, immune-support, tcm, herbal-medicine]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Schisandra vs Echinacea

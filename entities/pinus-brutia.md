@@ -2,7 +2,7 @@
 title: "Pinus Brutia"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 It also plays a critical role in [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] on steep Mediterranean hillsides.

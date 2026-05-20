@@ -3,7 +3,7 @@ title: "Chaga vs Turkey Tail"
 tags: [comparison, medicinal-mushrooms, chaga, turkey-tail, immunology]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 ---
 
 ## Chaga vs Turkey Tail

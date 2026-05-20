@@ -4,7 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [cannabis, indoor, plant-growth, methods, equipment]
-sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+sources: []
 ---
 
 # Cannabis Topping and Training Techniques

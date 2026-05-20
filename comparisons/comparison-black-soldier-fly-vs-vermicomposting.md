@@ -3,7 +3,7 @@ title: "Black Soldier Fly vs Vermicomposting"
 tags: [composting, soil, waste-management, insects]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 ## [[oyster-mushroom-coffee-grounds-cultivation]]. Heavily salted foods, large amounts of citrus, and pesticide-treated material should be avoided. This broad input tolerance is one of the primary advantages over vermicomposting.
 

@@ -2,7 +2,7 @@
 title: "Nicotiana Sylvestris"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/laminar-flow-hood-construction-1.md']
 ---
 
 It is prized in ornamental horticulture for its tall, elegant habit and intensely fragrant, tubular white flowers that open in the evening.

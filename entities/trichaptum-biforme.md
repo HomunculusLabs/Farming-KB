@@ -2,7 +2,7 @@
 title: "Trichaptum Biforme"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/unknown-exploring-the-rich-history-of-plant-scienc.md']
 ---
 
 ## Ecological Role

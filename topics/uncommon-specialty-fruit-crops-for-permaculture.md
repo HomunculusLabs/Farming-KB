@@ -4,7 +4,7 @@ subtitle: "A guide to lesser-known fruiting plants that diversify food forests, 
 tags: [permaculture, fruit-trees, food-forest, homesteading, specialty-crops]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 related_concepts:
   - berry-and-small-fruit-growing
   - fruit-tree-care-and-orchard-management

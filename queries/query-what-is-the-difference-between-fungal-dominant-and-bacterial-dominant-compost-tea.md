@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, compost-tea, soil-biology, microbiology, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
 type: query
 ---
 

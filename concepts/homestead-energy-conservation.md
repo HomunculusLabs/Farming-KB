@@ -1,3 +1,11 @@
+---
+title: Homestead Energy Conservation
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, sustainability, engineering, construction, beginner]
+sources: []
+---
 
 # Homestead Energy Conservation
 

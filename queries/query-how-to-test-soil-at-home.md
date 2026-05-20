@@ -3,7 +3,7 @@ title: "How to Test Your Soil at Home"
 tags: [query, soil-testing, soil-ph, soil-health, diy-soil-tests, gardening]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## How to Test Your Soil at Home?

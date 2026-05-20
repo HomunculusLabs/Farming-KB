@@ -3,45 +3,6 @@ title: "Coleman Mobile Greenhouse Mechanical Systems — Skids, Rails, Runners, 
 tags:
   - concept
 ---
-
-## Historical Context and Rationale
-
-The concept of mobile greenhouses is not entirely new. According to Coleman's historical research, the first mobile greenhouse was built in 1898 in England — a large glasshouse on iron framework supported by railroad wheels running on steel rails. Even this early design recognized the fundamental advantage of being able to move protected [[coleman-claytonia-winter-harvest-cultivation]] system, Coleman experimented with four distinct mechanical approaches to greenhouse mobility. Each design had advantages and limitations that informed the next iteration.
-
-### Greased Wooden Skids on Wooden Rails
-
-Coleman's first [[coleman-french-historical-winter-vegetable-production]].
-
-### Rails on the Structure with Ball Casters
-
-The second design reversed the rolling relationship. Instead of skids on the bottom of the greenhouse, rails were mounted to the bottom of the structure, and these rails rolled along on ball casters set into the tops of support posts. The support posts were installed at regular intervals along both growing sites, providing a stable rolling surface at a consistent height above the ground.
-
-This design reduced ground-level friction significantly, as the ball casters provided smooth, low-resistance rolling points. The primary challenge was ensuring that all ball casters were precisely aligned and level. Any misalignment caused the rails to bind or jump off the casters during movement. The system required careful installation and regular maintenance to remain functional. It also required a larger initial investment in materials and labor.
-
-### Ground-Level Runners Like a Sled
-
-The third design used runners attached to the bottom of the greenhouse that slid directly along the ground surface, like a sled. This approach eliminated the need for separate rail infrastructure, reducing both material costs and installation complexity. The runners were typically made of metal for durability and smooth sliding.
-
-The sled-runner design worked well on firm, level ground with short vegetation or compacted soil. On soft or uneven ground, the runners could dig in and bog down, making movement difficult or impossible. Frost heave during winter could shift the ground surface enough to prevent smooth movement. This design was most practical for smaller structures on well-prepared sites with good drainage and minimal slope.
-
-### Flanged Wheels on Pipes
-
-The fourth and ultimately most successful design used flanged wheels attached to the bottom of each hoop, rolling along steel pipes laid on the ground. The flanges keep the wheels centered on the pipes, preventing lateral drift during movement. This is the design that Coleman ultimately standardized for his commercial operation.
-
-The pipe-and-wheel system offers several advantages:
-
-- Steel pipes provide a durable, consistent rolling surface that does not degrade with use
-- Flanged wheels stay aligned without manual guidance during movement
-- The system handles moderate ground irregularities better than fixed-rail designs
-- Pipes can be leveled easily using shims or compacted gravel beds beneath them
-- The entire system is relatively inexpensive compared to commercial greenhouse moving equipment
-- Maintenance requirements are minimal — occasional pipe cleaning and wheel inspection
-- The system scales well from small backyard structures to large commercial houses
-
-Coleman ultimately selected this design for his commercial operation because it balanced reliability, cost, and ease of maintenance. The initial investment in steel pipes and flanged wheels is moderate, and the system has proven durable over many years of twice-yearly moves.
-
----
-
 ## Movement Operations
 
 ### Tractor-Pulled Sled Design for Commercial Scale

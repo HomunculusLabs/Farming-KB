@@ -4,7 +4,7 @@ subtitle: "Sustainable carbon-negative building with hemp hurd and lime binders"
 tags: [hempcrete, natural-building, sustainable-construction, lime, hemp]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 related_concepts:
   - natural-building-techniques
   - wattle-and-daub-construction

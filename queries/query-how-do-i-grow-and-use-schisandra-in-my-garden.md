@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Schisandra in My Garden?"
 tags: [query, medicinal-herbs, adaptogens, permaculture-vines, schisandra]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How Do I Grow and Use Schisandra in My Garden?

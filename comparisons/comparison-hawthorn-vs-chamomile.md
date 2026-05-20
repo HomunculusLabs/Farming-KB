@@ -3,7 +3,7 @@ title: "Hawthorn vs Chamomile"
 tags: [comparison, hawthorn, chamomile, herbal-medicine, medicinal-herbs]
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Hawthorn vs Chamomile

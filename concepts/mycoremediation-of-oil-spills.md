@@ -1,3 +1,11 @@
+---
+title: Mycoremediation of Oil Spills
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycoremediation, pollution, fungi, ecology, remediation, decomposition, environment, mycology]
+sources: []
+---
 
 ## Overview
 

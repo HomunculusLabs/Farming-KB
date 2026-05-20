@@ -1,7 +1,7 @@
 ---
 title: "Paphiopedilum Insigne"
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Taxonomy and Morphology

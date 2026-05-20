@@ -1,3 +1,21 @@
+---
+title: Psilocybin Therapeutic Applications
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags:
+  - therapy
+  - psychiatry
+  - depression
+  - anxiety
+  - ptsd
+  - addiction
+  - psilocybin
+  - clinical-research
+sources:
+  - raw/papers/the-psilocybin-solution-by-simon-g-powell.md
+  - raw/particles/psilocybin-mushrooms-of-the-world-stamets.md
+---
 
 # Psilocybin Therapeutic Applications
 

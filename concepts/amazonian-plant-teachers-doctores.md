@@ -1,3 +1,12 @@
+---
+title: Amazonian Plant Teachers (Doctores)
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [ethnobotany, medicine, culture, consciousness, plants, shamanism, amazon]
+sources:
+- raw/papers/amaringo-p-ayahuasca-visions.md
+---
 
 # Amazonian Plant Teachers (Doctores)
 
@@ -71,12 +80,3 @@ The spirits are described as real entities: "They are the ones that have taken o
 - [[pablo-amaringo]] — The artist who documented these plant spirits
 - [[shipibo-icaros-healing-songs]] — Songs taught by plant teachers
 - [[amazonian-medicinal-plants-reference]] — Medicinal plant index
-
-## Preparation and Ceremony
-
-Plant teacher preparation often involves strict dietary restrictions
-called dietas lasting weeks to months. Traditional preparation methods
-include water extraction, fermentation, and direct consumption of
-plant materials. Ceremonial contexts involve icaros (healing songs),
-purging rituals, and guidance from experienced practitioners.
-Different doctores are associated with specific healing intentions.

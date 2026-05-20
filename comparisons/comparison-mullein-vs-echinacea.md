@@ -3,7 +3,7 @@ title: "Mullein vs Echinacea"
 tags: [comparison, mullein, echinacea, medicinal-herbs, respiratory, immune-support]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Mullein vs Echinacea

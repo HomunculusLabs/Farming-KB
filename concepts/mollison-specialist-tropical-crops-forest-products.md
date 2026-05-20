@@ -54,7 +54,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-[[permaculture]]
+permaculture]]
 - [[det]]
 - [[tree-vine-crops-arid-tropical-mollison]]
 

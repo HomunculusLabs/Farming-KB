@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 Updated: 2026-04-18 Buckwheat (Fagopyrum esculentum) is a fast-growing, gluten-free grain that doubles as an excellent [[mollison-designers-bee-forage-tree-planting]]. Despite being eaten as a grain, it is not a grass or cereal — it is a member of the Polygonaceae (knotweed) family. It is a valuable [[jadam-cover-crop-method]] for several reasons. Its rapid growth shades and outcompetes weeds. It accumulates phosphorus from the soil and makes it available to subsequent crops when incorporated. The flowers attract enormous numbers of pollinators and [[comparison-green-manure-guide-vs-mulch-types-and-effects]], it breaks down quickly, adding [[savory-growing-season-and-non-growing-season-management]].
 

@@ -8,7 +8,7 @@ tags:
   - comparative-review
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Arbuscular Mycorrhizal Fungi vs Ericoid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and soil health.

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [food-preservation, fermentation, canning, nutrition, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
 type: comparison
 ---
 

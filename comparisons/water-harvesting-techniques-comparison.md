@@ -4,7 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: comparison
 tags: [comparison]
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 ## Water Harvesting Techniques Comparison
 

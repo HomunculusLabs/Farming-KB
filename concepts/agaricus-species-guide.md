@@ -1,3 +1,11 @@
+---
+title: Agaricus Species Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fungi, mushrooms, cultivation, species, species-profiles, food, foraging, agriculture]
+sources: []
+---
 
 # Agaricus Species Guide
 

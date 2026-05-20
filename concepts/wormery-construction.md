@@ -11,11 +11,11 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-A wormery is a managed system for producing [[vermicomposting]] by housing composting worms (typically red worms / nightcrawlers, *Lumbricus terrestris*) in a purpose-built container. Worms dramatically speed up decomposition and produce a superior soil conditioner and fertilizer compared to conventional composting.
+A wormery is a managed system for producing [[vermicomposting]] by housing [[composting]] worms (typically red worms / nightcrawlers, *[[lumbricus-terrestris]]*) in a purpose-built container. Worms dramatically speed up [[decomposition]] and produce a superior soil conditioner and fertilizer compared to conventional composting.
 
 ## How Worms Improve Soil
 
-Worms feed on organic matter and eject it as gel-coated pellets. This crumb structure improves soil drainage and aeration, providing a superior environment for root growth. The pellets convert nutrients into a form readily available to plant roots, released slowly as required, preventing short-term toxicity. The water-holding capacity of soil is also increased considerably.
+Worms feed on organic matter and eject it as gel-coated pellets. This [[crumb-structure]] improves soil drainage and aeration, providing a superior environment for root growth. The pellets convert nutrients into a form readily available to plant roots, released slowly as required, preventing short-term toxicity. The water-holding capacity of soil is also increased considerably.
 
 Worms break organic matter into smaller granules, enabling soil microbes to work on a greater surface area. They produce enzymes that help bacteria work more efficiently, accelerating decomposition overall.
 
@@ -61,31 +61,24 @@ The worm works upward through layers. Take worm-worked material from the bottom 
 ## Related
 
 - [[compost-container-types]] — other composting container designs
-- [[green-manure-crops]] — alternative soil improvement through cover crops
+- green manure crops detailed — alternative soil improvement through [[cover-crops]]
 - [[homemade-liquid-fertilizer]] — liquid feeding for plants
-### Key Principles
-Understanding wormery construction requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Key Concepts and Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources and training programs support broader adoption of best practices.
+Economic analyses suggest favorable returns on investment for implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.

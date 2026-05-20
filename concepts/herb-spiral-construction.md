@@ -1,3 +1,11 @@
+---
+title: Herb Spiral Construction
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [gardening, permaculture, design, plants, homesteading]
+sources: []
+---
 
 # Herb Spiral Construction
 

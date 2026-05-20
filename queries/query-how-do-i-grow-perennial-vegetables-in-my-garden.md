@@ -3,7 +3,7 @@ title: "How do I grow perennial vegetables in my garden?"
 tags: [query, perennial-vegetables, edible-perennials, garden-design, low-maintenance-gardening]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How do I grow perennial vegetables in my garden?

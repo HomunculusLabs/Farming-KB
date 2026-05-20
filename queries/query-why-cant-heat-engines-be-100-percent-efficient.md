@@ -6,7 +6,7 @@ tags: [thermodynamics, heat-engines, carnot-cycle-vs-rankine-cycle|carnot]-cycle
 related: [carnot-cycle-and-heat-engines, rankine-cycle, laws-of-thermodynamics]
 created: 2026-05-02
 updated: 2026-05-06
-sources: []
+sources: ['raw/papers/gardening-without-work-ruth-stout.md']
 ---
 
 ## Why can't heat engines be 100 percent efficient?

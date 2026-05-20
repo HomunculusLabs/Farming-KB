@@ -3,7 +3,7 @@ title: "Arnica vs Echinacea"
 tags: [comparison, medicinal-herbs, anti-inflammatory, immunomodulator, herbal-medicine]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['papers/gardening-when-it-counts-steve-solomon.md']
 ---
 
 ## Arnica vs Echinacea

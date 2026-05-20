@@ -1,3 +1,17 @@
+---
+created: 2026-04-12
+source: biodiversity-of-fungi (Hyde et al. Appendix II, Bills/Foster)
+sources: []
+tags:
+- laboratory-methods
+- culture-media
+- mycology
+- isolation
+- cultivation
+title: Fungal Culture Media
+type: concept
+updated: 2026-04-12
+---
 
 # Fungal Culture Media
 

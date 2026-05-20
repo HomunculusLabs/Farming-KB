@@ -3,7 +3,7 @@ title: "Echinacea vs Yarrow"
 tags: [comparison, medicinal-herbs, echinacea, yarrow, immune-support]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Echinacea vs Yarrow

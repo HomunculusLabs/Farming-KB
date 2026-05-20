@@ -9,13 +9,13 @@ sources: [raw/papers/urban-permaculture-guerilla-gardening.md]
 
 # Guerilla Gardening Guide
 
-Guerilla gardening is the practice of cultivating food and useful plants on abandoned, neglected, or unauthorised urban land. Drawn from "Urban Permaculture: Guerilla Gardening" -- a DIY Skillshare Conference reader.
+Guerilla gardening is the practice of cultivating food and useful plants on abandoned, neglected, or unauthorised urban land. Drawn from "Urban [[permaculture]]: Guerilla Gardening" -- a DIY Skillshare Conference reader.
 
 ## Philosophy
 
 "We need to start growing food where we live and reclaiming all this knowledge for ourselves and future generations. We can't keep importing and trucking all of our food all over the globe and let big corporations control the most basic aspect of our lives for us."
 
-The approach combines permaculture principles with urban activism, using the concepts of edge, stacking, diversity, and closed-loop systems in the city environment.
+The approach combines [[permaculture-principles]] with urban activism, using the concepts of edge, stacking, diversity, and closed-loop systems in the city environment.
 
 ## Urban Growing Potential
 
@@ -72,29 +72,11 @@ Black locust, clover, comfrey, dandelion, fruit trees, hawthorn, lavender, raspb
 - [[clay-ball-seed-pellets]]
 - [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-design-process]]
-### Key Principles
-Understanding guerilla gardening guide requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Current Research and Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+Modern research has expanded significantly in this domain.
+New methodologies and technologies have enabled more precise investigation.
+These advances have revealed previously unknown aspects of the subject.
+Practitioners continue to integrate research findings into applied settings.
+The field remains active with ongoing discoveries and developments.

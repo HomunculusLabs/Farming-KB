@@ -2,7 +2,7 @@
 title: "Dextromethorphan"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The drug is metabolized primarily by cytochrome P450 2D6 (CYP2D6) to dextrorphan (DXO), which has greater NMDA antagonist potency than the parent compound. Genetic polymorphisms in CYP2D6 produce significant inter-individual variation in metabolism and response.

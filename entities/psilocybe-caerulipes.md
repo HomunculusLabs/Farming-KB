@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, north-america, bluing]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Psilocybe caerulipes

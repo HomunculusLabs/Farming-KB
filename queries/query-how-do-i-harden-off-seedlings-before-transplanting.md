@@ -3,7 +3,7 @@ title: "How do I harden off seedlings before transplanting?"
 tags: [query, seedlings, hardening-off, transplanting, season-extension]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How do I harden off seedlings before transplanting?

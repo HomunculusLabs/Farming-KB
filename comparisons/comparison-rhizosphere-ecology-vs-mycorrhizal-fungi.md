@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [soil-biology, mycology, plant-microbe-interactions, rhizosphere, mycorrhizae]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 type: comparison
 ---
 

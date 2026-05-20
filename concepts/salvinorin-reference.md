@@ -1,3 +1,11 @@
+---
+title: Salvinorin A Reference
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [psychopharmacology, entheogen, ethnobotany, consciousness, pharmacology, safety, preparation, species-profiles]
+sources: []
+---
 
 # Salvinorin A
 
@@ -98,5 +106,5 @@ Salvia divinorum has been used for centuries by the [[mazatec-people]] of Oaxaca
 
 ## See Also
 
-- [[5-meo-dmt-reference]] — comparison of non-classical psychedelics
+- five meo dmt reference — comparison of non-classical psychedelics
 - [[harm-reduction-guide]] — general harm reduction principles applicable to salvinorin use

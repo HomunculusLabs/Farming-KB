@@ -1,3 +1,11 @@
+---
+title: Sweet Potato Growing Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
+sources: []
+---
 
 # Sweet Potato Growing Guide
 

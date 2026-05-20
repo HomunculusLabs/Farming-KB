@@ -1,3 +1,11 @@
+---
+title: Herbal Salves and Balms
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, homestead-crafts, recipe, medicine, plants, preparation]
+sources: []
+---
 
 # Herbal Salves and Balms
 

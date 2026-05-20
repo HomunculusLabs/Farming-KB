@@ -1,3 +1,11 @@
+---
+title: Hydroponic Growing Basics
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [cannabis, indoor, equipment, ph, nutrients, cultivation, methods, plant-growth, engineering]
+sources: []
+---
 
 # Hydroponic Growing Basics
 

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, permaculture, chickens, livestock, integrated-systems]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['permaculture-a-designers-manual']
 type: query
 ---
 

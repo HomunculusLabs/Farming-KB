@@ -3,7 +3,7 @@ title: "Can Bamboo Be Used as a fungal-building-material-deterioration and How D
 tags: [query, bamboo, natural-building, construction, permaculture]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Can Bamboo Be Used as a Building Material and How Do I Get Started?

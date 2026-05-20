@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, mycology, foraging, species-profiles, ecology, species, safety, harvesting]
-sources: [raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
+sources: []
 ---
 
 # Morel Mushroom Guide

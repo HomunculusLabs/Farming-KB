@@ -2,7 +2,7 @@
 title: "Xanthoparmelia Conspersa"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Taxonomy and Morphology

@@ -3,7 +3,7 @@ title: "Pioppino vs Wine Cap (King Stropharia)"
 tags: [comparison, mushroom-cultivation, pioppino, wine-cap, king-stropharia]
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 ---
 
 ## Pioppino vs Wine Cap (King Stropharia)

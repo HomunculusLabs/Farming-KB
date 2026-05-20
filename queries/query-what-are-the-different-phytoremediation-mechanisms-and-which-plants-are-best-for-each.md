@@ -3,7 +3,7 @@ title: "What Are the Different Phytoremediation Mechanisms and Which Plants Are 
 tags: [query, phytoremediation, hyperaccumulator, heavy-metals, soil-remediation]
 date: 2026-05-20
 updated: 2026-05-20
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 # What Are the Different Phytoremediation Mechanisms and Which Plants Are Best for Each?

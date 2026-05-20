@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 Updated: 2026-04-18 Mesquite (Prosopis spp.) is a remarkably hardy tree of the American Southwest that produces edible pods, fixes nitrogen, provides excellent firewood, and survives extreme drought through its enormous taproot. ## Species - Honey Mesquite (Prosopis glandulosa) - Velvet Mesquite (Prosopis velutina) - Creeping Mesquite (Prosopis strombulifera) - Screwbean Mesquite (Prosopis pubescens) ## Uses - Bee forage - Dryland tolerant - [[permaculture-designers-manual-animal-forage-systems]] (pods) ## Growing Conditions - Extremely [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] in the field is also effective, especially when timed before summer rains in arid regions. Seedlings establish quickly due to rapid taproot development. ## [[permaculture-food-forest-design-principles]], providing shade and nitrogen to understory plants. It pairs well with other drought-adapted species such as [[permaculture-farm-design-principles]], mesquite exemplifies the principle of "the problem is the solution" — a tree considered invasive in grazing land becomes invaluable in food forest design. Its deep taproot mines minerals from subsoil layers and brings them to the surface through leaf fall. As a [[permaculture-beekeeping]]
 

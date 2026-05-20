@@ -1,9 +1,17 @@
+---
+title: Cannabis Living Soil Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [cannabis, living-soil, no-till, microbes, compost, soil, biology, organic, beginner]
+sources: []
+---
 
 # Cannabis Living Soil Guide
 
 ## Overview
 
-Living soil is a cultivation approach centered on building and maintaining a thriving ecosystem of microorganisms, fungi, and invertebrates within the growing medium. Rather than feeding plants directly with liquid nutrients, living soil growers feed the soil biology, which in turn makes nutrients available to plants through natural decomposition and mineralization processes. This approach aligns with [[regenerative-agriculture]] principles and produces cannabis with superior terpene profiles and flavor.
+Living soil is a cultivation approach centered on building and maintaining a thriving ecosystem of microorganisms, fungi, and invertebrates within the growing medium. Rather than feeding plants directly with liquid nutrients, living soil growers feed the soil biology, which in turn makes nutrients available to plants through natural decomposition and mineralization processes. This approach aligns with regenerative agriculture principles and produces cannabis with superior terpene profiles and flavor.
 
 ## What Is Living Soil?
 
@@ -77,7 +85,7 @@ These micro-predators consume bacteria and fungi, releasing nutrients in plant-a
 
 Mixed into the base soil before planting:
 
-- **Nitrogen:** Alfalfa meal, blood meal, fish meal
+- **Nitrogen:** [[alfalfa-meal]], blood meal, fish meal
 - **Phosphorus:** Bone meal, rock phosphate, fish bone meal
 - **Potassium:** Kelp meal, wood ash, langbeinite
 - **Calcium:** Oyster shell flour, gypsum, eggshells

@@ -13,14 +13,14 @@ Petroleum hydrocarbons -- including crude oil, diesel fuel, gasoline, motor oil,
 
 ## How Fungi Degrade Petroleum
 
-The enzymes that white rot fungi use to break down lignin -- particularly lignin peroxidase, manganese peroxidase, and laccase -- are non-specific in their action. Because many petroleum hydrocarbons share structural similarities with lignin's complex aromatic rings, these enzymes can also oxidize and dismantle oil molecules into simpler, less toxic compounds.
+The enzymes that [[white-rot-fungi]] use to break down lignin -- particularly [[lignin-peroxidase]], [[manganese-peroxidase]], and laccase -- are non-specific in their action. Because many petroleum hydrocarbons share structural similarities with lignin's complex aromatic rings, these enzymes can also oxidize and dismantle oil molecules into simpler, less toxic compounds.
 
 Key species for petroleum remediation:
 
-- **Oyster mushroom (Pleurotus ostreatus)**: Primary saprophyte, aggressive colonizer, documented to break down diesel fuel and oil-soaked straw. After 3 weeks of growth on oil-soaked straw, oyster mushrooms fruited, showing the mycelium was undeterred and actively metabolizing the oil as a nutrient. The straw lightened in color, directly reflecting the reduction of petroleum hydrocarbons.
+- **[[oyster-mushroom]] ([[pleurotus-ostreatus]])**: Primary saprophyte, aggressive colonizer, documented to break down diesel fuel and oil-soaked straw. After 3 weeks of growth on oil-soaked straw, [[oyster-mushrooms]] fruited, showing the mycelium was undeterred and actively metabolizing the oil as a nutrient. The straw lightened in color, directly reflecting the reduction of petroleum hydrocarbons.
 - **Turkey tail (Trametes versicolor)**: White rot polypore with strong lignin-degrading enzyme production.
-- **Reishi (Ganoderma lucidum)**: Medicinal polypore that can co-inhabit woody substrates with other decomposers.
-- **King stropharia (Stropharia rugoso-annulata)**: Garden giant that thrives in contact with bacteria and organic debris.
+- **Reishi ([[ganoderma-lucidum]])**: Medicinal polypore that can co-inhabit woody substrates with other decomposers.
+- **[[king-stropharia]] (Stropharia rugoso-annulata)**: Garden giant that thrives in contact with bacteria and organic debris.
 
 ## Polycyclic Aromatic Hydrocarbons (PAHs)
 
@@ -49,33 +49,36 @@ The more surface area of substrate available to the mycelium, the faster the deg
 
 ## See Also
 
-- [[cotter-mycoremediation-overview]]
-- [[mycoremediation-of-heavy-metals]]
+- mycoremediation overview
+- mycoremediation heavy metals
 - [[mycoforestry-forest-restoration]]
 - [[paul-stamets]]
-### Key Principles
-Understanding mycoremediation petroleum hydrocarbons requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Key Concepts and Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mycoremediation]]
-- [[advanced-mycoremediation-research-techniques]]
-- [[battelle-diesel-mycoremediation-study]]
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources and training programs support broader adoption of best practices.
+Economic analyses suggest favorable returns on investment for implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.

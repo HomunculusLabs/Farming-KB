@@ -1,3 +1,11 @@
+---
+title: Grape Growing Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [cultivation, pruning, fruit-tree, orchard, pest-control, harvesting]
+sources: []
+---
 
 ## Overview
 

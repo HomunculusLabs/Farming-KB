@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, water-management, wildlife-habitat, permaculture, backyard-ecology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['~/wiki/raw/papers/tompkins-secret-life-of-plants.md']
 type: query
 ---
 

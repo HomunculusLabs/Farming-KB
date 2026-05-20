@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources: ['raw/papers/unknown-mushrooms-fungi-from-around-the-world.md']
 ---
 
 ## Ribosomal RNA Sequencing for Yeast and Fungal Identification

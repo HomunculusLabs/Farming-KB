@@ -3,7 +3,7 @@ title: "What Is Mycofiltration and How Do Mushrooms Filter Water?"
 tags: [query, mycofiltration, mycoremediation, water-filtration, fungi]
 date: 2026-05-18
 updated: 2026-05-18
-sources: []
+sources: ['water-for-every-farmer']
 ---
 
 ## What Is Mycofiltration and How Do Mushrooms Filter Water?

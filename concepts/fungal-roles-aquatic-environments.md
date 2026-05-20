@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: ['geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md']
 ---
 ## Fungal Roles in Aquatic Environments
 Fungi are ubiquitous in aquatic environments, occurring as unicellular yeasts,

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Gourmet Mushroom Cultivation"
 tags: []
-sources: []
+sources: ['raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md']
 ---
 
 ## Introduction — Beyond Basic Cultivation

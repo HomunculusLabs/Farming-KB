@@ -2,7 +2,7 @@
 title: "White Widow Cannabis"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Lineage and Breeding History

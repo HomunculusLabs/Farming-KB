@@ -3,7 +3,7 @@ title: "Comparison Mulch Types and Effects vs Landscape Fabric Alternatives"
 tags: [comparison, mulch, soil, weed-suppression, permaculture]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Mulch Types and Effects vs Landscape Fabric Alternatives

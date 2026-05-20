@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, food-preservation, solar-dehydrator, homesteading, off-grid]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
 type: query
 ---
 

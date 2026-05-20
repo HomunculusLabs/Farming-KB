@@ -3,7 +3,7 @@ title: "Elderberry vs Lemon Balm"
 tags: [comparison, medicinal-herbs, elderberry, lemon-balm, nervine, immune-support]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## Elderberry vs Lemon Balm

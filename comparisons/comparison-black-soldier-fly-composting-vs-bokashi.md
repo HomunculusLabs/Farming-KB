@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [composting, waste-management, black-soldier-fly, bokashi, protein, soil-amendment, bioconversion, fermentation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 type: comparison
 ---
 

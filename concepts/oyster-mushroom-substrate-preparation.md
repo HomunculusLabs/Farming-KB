@@ -1,3 +1,11 @@
+---
+title: Oyster Mushroom Substrate Preparation
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags: [mushrooms, mycology, cultivation, gardening]
+sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
+---
 
 # Oyster Mushroom Substrate Preparation
 

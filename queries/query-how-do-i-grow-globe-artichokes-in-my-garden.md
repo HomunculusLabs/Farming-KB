@@ -3,7 +3,7 @@ title: "How Do I Grow Globe Artichokes in My Garden?"
 tags: [query, artichoke, perennial-vegetables, mediterranean-garden, cynara]
 date: 2026-05-18
 updated: 2026-05-18
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow Globe Artichokes in My Garden?

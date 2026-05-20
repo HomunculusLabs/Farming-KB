@@ -5,7 +5,7 @@ type: person
 tags: [mycologist, taxonomy, psychedelic-research, french-botanist, mushroom-classification]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Roger Heim

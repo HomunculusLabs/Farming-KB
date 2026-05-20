@@ -2,7 +2,7 @@
 title: "Thelypteris Noveboracensis"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/unknown-mushrooms-fungi-from-around-the-world.md']
 ---
 
 ## Overview

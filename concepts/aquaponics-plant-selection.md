@@ -1,3 +1,11 @@
+---
+title: Aquaponics Plant Selection
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [aquaponics, plant-systems, cultivation, gardening, vegetables, water-management, nutrients]
+sources: []
+---
 
 # Aquaponics Plant Selection
 

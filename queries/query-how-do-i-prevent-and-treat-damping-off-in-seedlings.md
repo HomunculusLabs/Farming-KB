@@ -3,7 +3,7 @@ title: "How Do I Prevent and Treat Damping Off in Seedlings?"
 tags: [query, seedling-care, disease-prevention, pythium, oomycete]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## How Do I Prevent and Treat Damping Off in Seedlings?

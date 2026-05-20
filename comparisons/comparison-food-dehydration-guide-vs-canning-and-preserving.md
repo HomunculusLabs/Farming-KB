@@ -3,7 +3,7 @@ title: "Food Dehydration vs Canning"
 tags: [comparison, food-preservation, dehydration, canning, homesteading]
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
 ---
 
 ## Food Dehydration vs Canning

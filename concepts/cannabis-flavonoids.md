@@ -1,3 +1,11 @@
+---
+title: Cannabis Flavonoids
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [cannabis, chemistry, medicine, biology, potency, plant-growth, biochemistry]
+sources: []
+---
 
 # Cannabis Flavonoids
 

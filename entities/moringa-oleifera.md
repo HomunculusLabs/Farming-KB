@@ -12,7 +12,7 @@ tags: [herbal-plant, superfood, medicinal, short-day-and-long-day-plant-classifi
 
 Nutrient composition per **100 g fresh leaves**:
 
-| Nutrient | Amount | % DV | [[quercetin]] (antioxidant, anti-inflammatory), [[cannabis-for-skin-conditions-detailed]], crushed seeds for water coagulation (Sudan, Malawi).
+| Nutrient | Amount | % DV | quercetin]] (antioxidant, anti-inflammatory), [[cannabis-for-skin-conditions-detailed]], crushed seeds for water coagulation (Sudan, Malawi).
 
 ## Modern Pharmacological Research
 

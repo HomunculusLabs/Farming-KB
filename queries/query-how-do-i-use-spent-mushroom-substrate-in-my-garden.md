@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [mycology, composting, soil-health, permaculture, cannabis]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 type: query
 ---
 ## What is spent mushroom substrate? [[soil-food-web]] as it breaks down. Keep mulch a few inches away from plant stems to prevent rot.

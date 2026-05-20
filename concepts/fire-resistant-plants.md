@@ -1,3 +1,11 @@
+---
+title: Fire Resistant Plants
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [permaculture, plants, plant-catalog, species, windbreak, design]
+sources: [raw/papers/a-selection-permaculture-plants.md]
+---
 
 # Fire Resistant Plants
 
@@ -35,7 +43,7 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 ### Oaks
 - [[quercus-robur]] (English Oak) -- recovers
 - [[quercus-suber]] (Cork Oak)
-- Quercus ilex (Holm Oak)
+- [[quercus-ilex]] (Holm Oak)
 - Quercus virginiana (Live Oak)
 - Quercus macrocarpa (Burr Oak)
 - Quercus palustris (Pin Oak)
@@ -85,22 +93,6 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 
 ## Related
 
-- [[permaculture-plant-selection]]
+- permaculture plant selection guide
 - [[difficult-site-planting]]
 - [[bee-forage-plant-system]]
-
-## Practical Considerations
-
-Successful implementation depends on careful attention to environmental conditions and biological factors. Regular monitoring and documentation of results support continuous improvement.
-
-Small-scale trials before large-scale deployment allow parameter optimization without significant resource investment. Field testing under diverse conditions builds robust operational knowledge.
-
-Integration with complementary approaches often yields synergistic benefits. Cross-disciplinary knowledge transfer from related fields can reveal novel solutions to common challenges.
-
-Quality control throughout the process ensures consistent outcomes. Establishing clear benchmarks and evaluation criteria enables objective assessment of results.
-
-Adaptation to local conditions and seasonal variations is essential. What works optimally in one environment may require significant modification in another context.
-
-Documentation and knowledge sharing with the broader community accelerates collective learning and best practice development.
-
-Field observations and practical experience remain the most reliable guides for system optimization.

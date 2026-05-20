@@ -11,18 +11,7 @@ type: comparison
 ## Quick Answer
 
 **Choose cassava** for maximum caloric yield on poor, drought-prone soils where processing capacity exists. **Choose sweet potato** for the fastest harvest (3–5 months), highest nutrition (especially orange varieties for vitamin A), and edible leaves. **Choose taro** for wetland integration (ponds, paddies) and systems where both corm and leaves are valued. **Choose yam** for long-term storage (3–6 months) and cultural staple importance, accepting the higher labor and longer growing season.
-
 ---
-
-## Caloric Yield Efficiency
-
-When comparing caloric yield per hectare per day of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] effective) |
-| **Taro** | Taro beetle | Taro leaf blight (*Phytophthora*) | High (leaf blight devastating) |
-| **Sweet Potato** | Sweet potato weevil | Virus disease complex (SPVD) | Moderate |
-| **Yam** | Yam beetle, nematode | Yam anthracnose | High (nematode + storage losses) |
-
----
-
 ## Best Use Cases by Scenario
 
 ### Arid or Drought-Prone Area

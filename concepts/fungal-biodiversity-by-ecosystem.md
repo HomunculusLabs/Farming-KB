@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: ['~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
 ---
 ## Fungal Biodiversity by Ecosystem ## Overview Fungi occupy virtually every ecosystem on Earth, from tropical rain forests to polar ice, from deep ocean sediments to the upper atmosphere. Their biodiversity varies dramatically across ecosystem types, driven by plant community composition, climate, substrate availability, moisture, and disturbance regimes. Understanding patterns of [[fungal-decomposition]] specialists of grass litter. Grassland soils are enriched by organic accretion throughout the soil profile, especially from grass roots that are annual, finely divided, and contribute a biomass that far exceeds above-ground biomass. See [[soil-food-web-nutrient-cycling]] for detailed treatment. The soil mycobiota drives [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] apparently increases through both primary and secondary succession in plant communities. In the Wisconsin surveys spanning more than 20 years, northern upland conifer-hardwood forests yielded more than 476 taxa from 8,061 isolates — the highest diversity of any vegetation type surveyed.
 

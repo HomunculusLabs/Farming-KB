@@ -4,7 +4,7 @@ created: 2026-04-28
 date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, soil-building, food-production, permaculture, regenerative]
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 type: comparison
 ---
 

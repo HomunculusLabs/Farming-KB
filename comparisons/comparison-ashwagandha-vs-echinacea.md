@@ -3,7 +3,7 @@ title: "Ashwagandha vs Echinacea"
 tags: [comparison, adaptogen, immunomodulator, medicinal-herbs, herbal-medicine]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Ashwagandha vs Echinacea

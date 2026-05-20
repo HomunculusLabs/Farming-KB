@@ -2,7 +2,7 @@
 title: "Proscaline"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 Proscaline produces effects broadly similar to mescaline, including visual hallucinations, enhanced [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to scheduled phenethylamines.

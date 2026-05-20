@@ -3,13 +3,6 @@ title: "Fine Seedbeds, Solomon, S. — *Gardening When It Counts*"
 tags:
   - concept
 ---
-
-## The Raised Bed Advantage for Seedbeds
-
-After elevating [[coleman-preemergence-flaming-weed-control]] but also useful for breaking small clods during bed preparation. A sharp hoe makes all the difference.
-
----
-
 ## Restoring a Raised Bed After Cropping
 
 After a raised bed or raised wide row has grown a crop, you will need to restore its surface before replanting:

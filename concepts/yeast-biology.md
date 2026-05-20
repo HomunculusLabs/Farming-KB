@@ -4,7 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [fungi, biology, academia, microbes, ecology]
-sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+sources: []
 ---
 
 # Yeast Biology
@@ -29,7 +29,7 @@ Yeast is not a taxonomic group but a growth form. Any fungus that exists predomi
 
 S. cerevisiae (baker's yeast / brewer's yeast) is the most studied and most important yeast species:
 
-- **Phylum**: Ascomycota
+- **Phylum**: [[ascomycota]]
 - **Genome**: 12.1 Mb, ~6,275 genes on 16 chromosomes
 - **First eukaryotic genome fully sequenced** (1996) — landmark achievement
 - **Haploid or diploid**: Can exist in both states, unlike most fungi which are predominantly haploid
@@ -109,7 +109,7 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 
 - **Lambic beer**: Fermented by wild yeasts and bacteria (Brettanomyces, Pediococcus) in the Senne Valley, Belgium. No added yeast — relies on airborne microflora
 - **Natural wine**: Fermented by indigenous grape yeasts (Hanseniaspora, Candida, then Saccharomyces)
-- **Sourdough bread**: Maintained by wild yeast (often Kazachstania exigua, Pichia kudriavzevii) and Lactobacillus bacteria in a starter culture
+- **Sourdough bread**: Maintained by wild yeast (often Kazachstania exigua, Pichia kudriavzevii) and [[lactobacillus]] bacteria in a starter culture
 - **Wild fermentation**: Sandor Katz's philosophy — "wild fermentation" as a broader cultural practice
 
 ## Industrial Uses of Yeast
@@ -120,7 +120,7 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 - **Beer**: Ale yeasts (S. cerevisiae, top-fermenting) vs. lager yeasts (S. pastorianus, bottom-fermenting, a hybrid of S. cerevisiae and S. eubayanus)
 - **Wine**: Multiple Saccharomyces strains available. Different strains produce different ester profiles, affecting flavor
 - **Distilled spirits**: Yeast strains optimized for high ethanol tolerance and fast fermentation (rum, whiskey, vodka)
-- **Cheese**: Debaryomyces hansenii contributes to rind development on many cheeses
+- **Cheese**: [[debaryomyces-hansenii]] contributes to rind development on many cheeses
 - **Soy sauce and miso**: Zygosaccharomyces rouxii is the primary yeast in soy sauce fermentation
 
 ### Biotechnology
@@ -177,4 +177,4 @@ S. cerevisiae is one of the most important model organisms in biology:
 - [[fungal-genetics]] for yeast as a genetic model organism
 - [[fungal-evolution]] for the evolutionary origin of yeast forms
 - [[food-fermentation-guide]] for yeast in broader fermentation contexts
-- [[knf-yeast-preparation-detailed]] for wild yeast capture and use in Korean Natural Farming
+- knf yeast preparation for wild yeast capture and use in [[korean-natural-farming]]

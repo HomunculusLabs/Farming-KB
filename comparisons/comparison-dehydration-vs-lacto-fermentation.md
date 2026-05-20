@@ -3,7 +3,7 @@ title: "Dehydration vs Lacto-Fermentation"
 tags: [comparison, food-preservation, dehydration, fermentation]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
 ---
 
 ## Dehydration vs Lacto-Fermentation

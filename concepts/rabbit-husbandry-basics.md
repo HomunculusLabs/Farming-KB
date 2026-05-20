@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
 ---
 
 ## Rabbit Husbandry Basics

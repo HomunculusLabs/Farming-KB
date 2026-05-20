@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [herbalism, herbal-preparations, homesteading, diy, natural-remedies]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 type: query
 ---
 ## How to Make Herbal Salves and Balms at Home

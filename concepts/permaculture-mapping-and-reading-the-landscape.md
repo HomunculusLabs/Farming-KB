@@ -1,3 +1,11 @@
+---
+title: Permaculture Mapping and Reading the Landscape
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [permaculture, mapping, topography, contour, landscape-analysis, site-design, observation]
+sources: [raw/papers/bill-mollison-permaculture-design-course.md]
+---
 
 # Permaculture Mapping and Reading the Landscape
 
@@ -103,11 +111,3 @@ Understanding the watershed above and below your site is critical:
 - [[permaculture-site-analysis]]
 - [[permaculture-design-methods]]
 - [[rainwater-harvesting-systems]]
-
-## Design Notes
-
-Observation of natural patterns over at least one full season before major interventions is recommended.
-
-Zone planning should reflect actual use frequency for the specific site and occupants.
-
-Field observations and practical experience remain the most reliable guides for system optimization.

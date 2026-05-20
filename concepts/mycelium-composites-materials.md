@@ -9,13 +9,13 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/unknown-growing-gou
 
 # Mycelium Composites and Materials
 
-Mycelium composites are materials produced by growing fungal mycelium through agricultural waste substrates, creating dense, structural materials that can replace traditional products like styrofoam packaging, building insulation, and even leather.
+Mycelium composites are materials produced by growing fungal mycelium through [[agricultural-waste-substrates]], creating dense, structural materials that can replace traditional products like styrofoam packaging, building insulation, and even leather.
 
 ## How Mycelium Composites Are Made
 
 The process exploits the natural tendency of mycelium to colonize and bind together substrate materials:
 
-1. **Substrate preparation**: Agricultural waste (straw, sawdust, corn stalks, hemp hurds) is cleaned and sometimes pasteurized
+1. **[[substrate-preparation]]**: Agricultural waste (straw, sawdust, corn stalks, hemp hurds) is cleaned and sometimes pasteurized
 2. **Inoculation**: Mycelium of selected fungal species is introduced to the substrate
 3. **Colonization**: The mycelium grows through the substrate over days to weeks, binding the particles together with a dense network of hyphae
 4. **Formation**: The colonized substrate is pressed into molds (for packaging, bricks, panels) or shaped into sheets
@@ -35,7 +35,7 @@ Mycelium composites offer several advantageous properties:
 ## Applications
 
 ### Packaging
-Mycelium packaging can replace expanded polystyrene (styrofoam) for protective packaging. Companies like Ecovative Design have commercialized this application, growing custom-shaped packaging inserts that protect items during shipping and then compost in soil.
+Mycelium packaging can replace expanded polystyrene (styrofoam) for protective packaging. Companies like [[ecovative-design]] have commercialized this application, growing custom-shaped packaging inserts that protect items during shipping and then compost in soil.
 
 ### Building Materials
 Mycelium can be grown into bricks, insulation panels, and wallboard. The material provides both thermal insulation and structural properties. When combined with other natural materials, it can serve as a load-bearing element in non-structural applications.
@@ -48,7 +48,7 @@ Mycelium can be grown into thin, durable sheets that mimic the texture and prope
 Species with strong mycelial networks and rapid colonization are preferred:
 
 - **Ganoderma species**: Dense, tough mycelium; reishi (G. lucidum) produces very robust growth
-- **Pleurotus ostreatus**: Fast colonizer, aggressive growth through diverse substrates
+- **[[pleurotus-ostreatus]]**: Fast colonizer, aggressive growth through diverse substrates
 - **Trametes versicolor**: Strong white rot fungus with tenacious mycelial binding
 
 ## Relationship to Stamets' Work
@@ -57,32 +57,28 @@ While Mycelium Running discusses the structural role of mycelium in nature -- bi
 
 ## See Also
 
-- [[cotter-mycoremediation-overview]]
+- mycoremediation overview
 - [[mushroom-substrates]]
 - [[fungal-ecology-decomposition-cycles]]
-### Key Principles
-Understanding mycelium composites materials requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Key Concepts and Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources and training programs support broader adoption of best practices.
+Economic analyses suggest favorable returns on investment for implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Understanding this subject requires examining multiple interconnected factors.

@@ -1,3 +1,11 @@
+---
+title: Kimchi Making
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fermentation, recipe, food, homesteading, microbes, homestead-crafts, preservation, vegetables, asia, preparation]
+sources: []
+---
 
 ## What Is Kimchi
 

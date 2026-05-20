@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 Updated: 2026-04-18 Daylilies (Hemerocallis spp.) are [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. They serve as both ornamental and functional plants in [[permplant-carob-drought-tolerant-food-tree]] once established
 

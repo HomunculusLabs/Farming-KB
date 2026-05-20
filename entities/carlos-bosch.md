@@ -2,7 +2,7 @@
 title: Carlos Bosch
 type: person
 tags: [mycologist, taxonomy, fungal-classification, botany, specimen-collection]
-sources: []
+sources: ['~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md']
 ---
 
 ## Carlos Bosch

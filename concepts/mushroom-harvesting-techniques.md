@@ -1,3 +1,11 @@
+---
+title: Mushroom Harvesting Techniques
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mushrooms, fungi, cultivation, indoor, harvesting, drying, storage, processing, workflow]
+sources: []
+---
 
 ## Overview
 

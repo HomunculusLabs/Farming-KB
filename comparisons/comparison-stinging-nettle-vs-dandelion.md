@@ -3,7 +3,7 @@ title: Comparison Stinging Nettle Vs Dandelion
 tags: [comparison, medicinal-herbs, foraging, dynamic-accumulators, edible-weeds]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Stinging Nettle vs Dandelion

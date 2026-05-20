@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [erosion, conservation, water-management, earthworks, soil, plants, restoration]
-sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
+sources: []
 ---
 
 # Soil Erosion Control

@@ -3,7 +3,7 @@ title: "Calendula vs St. John's Wort"
 tags: [comparison, calendula, st-johns-wort, medicinal-herbs, herbalism]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/jeavons-john-how-to-grow-more-vegetables.md']
 ---
 
 ## Calendula vs St. John's Wort

@@ -5,7 +5,7 @@ updated: 2026-05-06
 tags: [biochemistry, pharmacology, drug-metabolism, enzymology, toxicology]
 date: 2026-05-02
 type: concept
-sources: []
+sources: ['raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md']
 ---
 
 ## Overview

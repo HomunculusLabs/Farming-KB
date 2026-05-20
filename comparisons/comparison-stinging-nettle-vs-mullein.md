@@ -3,7 +3,7 @@ title: "Stinging Nettle vs Mullein"
 tags: [comparison, medicinal-herbs, dynamic-accumulators, respiratory-health, permaculture]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Stinging Nettle vs Mullein

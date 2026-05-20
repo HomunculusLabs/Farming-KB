@@ -3,7 +3,7 @@ title: "Yarrow vs Chamomile"
 tags: [comparison, yarrow, chamomile, medicinal-herbs, asteraceae]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Yarrow vs Chamomile

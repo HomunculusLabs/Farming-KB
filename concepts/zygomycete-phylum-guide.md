@@ -1,3 +1,11 @@
+---
+title: Zygomycete Phylum Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fungi, mycology, taxonomy, species-profiles, ecology, biology, microbes]
+sources: []
+---
 
 # Zygomycete Phylum Guide
 
@@ -102,6 +110,5 @@ Mucormycosis is a rare but serious fungal infection caused by Mucorales (especia
 ## Related
 
 - [[fungal-biology-fundamentals]]
+- [[fungal-biology-fundamentals]]
 - [[mold-identification-guide]]
-## See Also
-- [[basidiomycete-phylum-guide]]

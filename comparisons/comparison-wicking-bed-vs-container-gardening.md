@@ -3,7 +3,7 @@ title: Comparison Wicking Bed Vs Container Gardening
 tags: [comparison, water-management, gardening, containers, raised-beds]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md']
 ---
 
 ## Wicking Bed vs Container Gardening

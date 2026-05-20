@@ -3,7 +3,7 @@ title: "How Do I Choose the Right Irrigation Method for My Vegetable Garden?"
 tags: [query, irrigation, water-management, vegetable-gardening, drip-irrigation]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['water-for-every-farmer']
 ---
 
 ## How Do I Choose the Right Irrigation Method for My Vegetable Garden?

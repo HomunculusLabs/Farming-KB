@@ -3,7 +3,7 @@ title: "How Do query how do green roofs and living walls benefit urban environme
 tags: [query, green-roofs, living-walls, urban-ecology, sustainability]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['greg-green-the-cannabis-grow-bible.md']
 created: 2026-05-07
 type: query
 ---

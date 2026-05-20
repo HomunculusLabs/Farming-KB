@@ -2,7 +2,7 @@
 title: "Codonopsis Pilosula"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 Modern pharmacological research has validated adaptogenic, immunomodulatory,

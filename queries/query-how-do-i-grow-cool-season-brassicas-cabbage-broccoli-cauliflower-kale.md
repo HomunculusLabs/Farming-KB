@@ -3,7 +3,7 @@ title: "How Do I Grow Cool-Season Brassicas (Cabbage, Broccoli, Cauliflower, Kal
 tags: [query, brassicas, cool-season, vegetables, cole-crops]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow Cool-Season Brassicas (Cabbage, Broccoli, Cauliflower, Kale)?

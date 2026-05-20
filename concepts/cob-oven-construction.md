@@ -1,3 +1,11 @@
+---
+title: Cob Oven Construction
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, construction, design, homestead-crafts, food]
+sources: []
+---
 
 # Cob Oven Construction
 

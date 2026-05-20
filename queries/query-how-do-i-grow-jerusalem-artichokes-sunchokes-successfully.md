@@ -3,7 +3,7 @@ title: "How Do I Grow Jerusalem Artichokes (Sunchokes) Successfully and What Are
 tags: [query, jerusalem-artichoke, sunchoke, perennial-vegetables, root-crops, tubers, inulin, permaculture]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 # How Do I Grow Jerusalem Artichokes (Sunchokes) Successfully and What Are Their Culinary Uses?

@@ -1,3 +1,11 @@
+---
+title: Cannabis Harvest and Curing
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [cannabis, harvesting, drying, storage, processing, beginner]
+sources: []
+---
 
 ## Overview
 
@@ -156,5 +164,3 @@ After curing, proper storage preserves quality for months to years.
 - **Not burping jars**: Anaerobic conditions produce ammonia smell and encourage mold
 - **Overpacking jars**: No air circulation; mold risk
 - **Using plastic for storage**: Static pulls trichomes off buds; plastic is permeable to air and moisture
-## See Also
-- [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]]

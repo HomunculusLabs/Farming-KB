@@ -1,3 +1,11 @@
+---
+title: Raw Milk Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [goats, food, health, law, homesteading, nutrition, safety, regulation]
+sources: []
+---
 
 # Raw Milk Guide
 
@@ -142,5 +150,3 @@ If you do not have your own dairy animals:
 -  Ask about the herd — Breed, diet (grass-fed preferred), grazing management, health care practices
 -  Taste before committing — Fresh, well-handled raw milk should taste clean and sweet with no off-flavors
 -  Start small — Buy a small quantity first to verify quality before committing to a regular source
-## See Also
-- [[field-guide-psilocybin-mushroom-species-identification]]

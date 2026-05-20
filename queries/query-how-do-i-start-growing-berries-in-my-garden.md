@@ -3,7 +3,7 @@ title: "How Do I Start Growing Berries in My Garden?"
 tags: [query, berries, fruit-growing, permaculture, garden-planning]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## How Do I Start Growing Berries in My Garden?

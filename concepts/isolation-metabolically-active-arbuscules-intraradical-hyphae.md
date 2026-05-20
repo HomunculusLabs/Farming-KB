@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources: ['raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md']
 ---
 
 ## Isolation of Metabolically Active Arbuscules and Intraradical Hyphae

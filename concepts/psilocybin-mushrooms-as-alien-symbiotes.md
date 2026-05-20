@@ -18,7 +18,7 @@ mushroom is an extraterrestrial organism with specific characteristics:
 - Spores colored deep purple — the color needed to absorb deep ultraviolet
   radiation in space
 - Spore casings composed of one of the hardest organic substances known, with
-  [[mckenna-spore-brownian-motion-and-galactic-percolation]]
+  mckenna-spore-brownian-motion-and-galactic-percolation]]
 - Through interaction with energetic particles, a small number could escape
   into space
 - Only one in billions of spores needs to make the transition — a viable

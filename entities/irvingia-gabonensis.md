@@ -2,7 +2,7 @@
 title: "Irvingia Gabonensis"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md']
 ---
 
 The species produces edible fruits with sweet, fibrous mesocarp and large seeds that are widely used as a thickening agent in West African soups and stews. The kernels, traded commercially as ogbono or dika nuts, are a significant source of dietary fat and protein.

@@ -3,7 +3,7 @@ title: "How Do I Grow Asparagus in My Garden?"
 tags: [query, asparagus, perennial-vegetables, vegetable-growing]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## How Do I Grow Asparagus in My Garden?

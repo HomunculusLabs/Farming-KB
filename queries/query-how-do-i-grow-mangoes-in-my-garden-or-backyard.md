@@ -3,7 +3,7 @@ title: "How do I grow mangoes in my garden or backyard?"
 tags: [query, mango, tropical-fruit, fruit-tree, subtropical]
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How do I grow mangoes in my garden or backyard?

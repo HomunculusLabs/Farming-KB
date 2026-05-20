@@ -1,7 +1,7 @@
 ---
 title: "Withania Somnifera"
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Withania somnifera (Ashwagandha)

@@ -3,7 +3,7 @@ title: "Hawthorn vs Valerian"
 tags: [comparison, medicinal-herbs, cardiovascular, nervine, herbal-sedative]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Hawthorn vs Valerian

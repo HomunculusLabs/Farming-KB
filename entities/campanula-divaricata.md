@@ -2,7 +2,7 @@
 title: "Campanula Divaricata"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species is characterized by its slender, diffusely branched stems bearing small, nodding, pale blue to white campanulate flowers. It is one of the few [[campanula-rotundifolia]]* (harebell), *C. divaricata* occupies cool, moist forest understories rather than open, rocky sites. This habitat preference makes it a useful species for shade-garden native-plant landscaping.

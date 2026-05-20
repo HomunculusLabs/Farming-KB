@@ -152,5 +152,5 @@ Experienced growers often combine techniques:
 - **Topping + LST + Defoliation**: Top for structure, LST for canopy evenness, defoliate for airflow
 
 The key principle is that all training should be completed during vegetative growth. Late-stage training during flowering adds unnecessary stress and can reduce yield. See [[cannabis-environment-control]] for maintaining the proper environment to support stressed plants during recovery.
-## See Also
-- [[cannabis-training-techniques-comparison]]
+
+See also: [[cannabis-plant-anatomy]]

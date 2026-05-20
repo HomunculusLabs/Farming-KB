@@ -3,7 +3,7 @@ title: "Lemon Balm vs Passionflower"
 tags: [comparison, nervine, medicinal-herb, herbalism, calming-herbs]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## Lemon Balm vs Passionflower

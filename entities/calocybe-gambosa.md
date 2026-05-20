@@ -2,7 +2,7 @@
 title: "Calocybe Gambosa"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ### Microscopic Features

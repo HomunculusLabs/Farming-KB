@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Rosemary in My Garden?"
 tags: [query, herbs, rosemary, culinary, medicinal, mediterranean, drought-tolerant]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## How Do I Grow and Use Rosemary in My Garden?

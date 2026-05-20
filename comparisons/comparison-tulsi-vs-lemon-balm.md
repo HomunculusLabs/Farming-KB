@@ -3,7 +3,7 @@ title: "Comparison Tulsi vs Lemon Balm"
 tags: [comparison, adaptogen, nervine, medicinal-herbs, lamiaceae]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## Tulsi vs Lemon Balm

@@ -5,7 +5,8 @@ updated: 2026-05-06
 tags: [photosynthesis, plant-physiology, c4-plants, cam-plants, carbon-fixation, plant-biochemistry, crop-science, water-use-efficiency, climate-change]
 date: 2026-05-02
 type: concept
-sources: []
+sources:
+  - "raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md"
 ---
 
 c4 and [[decarboxylation]] releases concentrated CO₂ around Rubisco for the

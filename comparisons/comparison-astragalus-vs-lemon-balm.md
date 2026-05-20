@@ -3,7 +3,7 @@ title: "Astragalus vs Lemon Balm"
 tags: [comparison, adaptogen, nervine, herbal-medicine, astragalus, lemon-balm]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/ben-lemon-cannabis-alchemy.md']
 ---
 
 ## Astragalus vs Lemon Balm

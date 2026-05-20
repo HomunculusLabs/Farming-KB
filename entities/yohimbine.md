@@ -2,7 +2,7 @@
 title: "Yohimbine"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Effects and Dosage

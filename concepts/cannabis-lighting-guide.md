@@ -4,7 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [cannabis, indoor, lighting, equipment, plant-growth]
-sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
+sources: []
 ---
 
 # Cannabis Lighting Guide

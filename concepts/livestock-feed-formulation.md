@@ -1,3 +1,11 @@
+---
+title: Livestock Feed Formulation
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [animal-husbandry, homesteading, livestock, forage, nutrients, recipe]
+sources: []
+---
 
 # Livestock Feed Formulation
 
@@ -179,5 +187,3 @@ feeds, and practical formulation for homestead-scale operations.
 ### Body Condition Scoring (BCS)
 - Scale 1-9 for cattle (5 = ideal), 1-5 for sheep/goats (3 = ideal).
 - Score monthly for cattle; before breeding and lambing for sheep/goats.
-## See Also
-- [[small-farm-livestock-management]]

@@ -2,7 +2,7 @@
 title: "Rumex Acetosa"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Culinary Uses

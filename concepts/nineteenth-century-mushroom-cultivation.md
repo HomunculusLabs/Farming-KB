@@ -9,11 +9,11 @@ sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 
 # Nineteenth-Century Mushroom Cultivation
 
-Julius Auboineau Palmer's practical methods from "About Mushrooms" (1894), supplemented by period cultivation practices documented in his journalism (1877-1894).
+[[julius-auboineau-palmer]]'s practical methods from "About Mushrooms" (1894), supplemented by period cultivation practices documented in his journalism (1877-1894).
 
 ## Historical Context
 
-Palmer was a Boston-based amateur mycologist who studied mushrooms for over seven years. He noted that the common mushroom (Agaricus campestris / A. arvensis) was the only cultivated species: "To this day it is the only species of fungus which is ever propagated artificially. Further, so far as known, it is the only species susceptible of cultivation." This limitation defined the entire 19th-century mushroom industry.
+Palmer was a Boston-based amateur mycologist who studied mushrooms for over seven years. He noted that the common mushroom ([[agaricus-campestris]] / A. arvensis) was the only cultivated species: "To this day it is the only species of fungus which is ever propagated artificially. Further, so far as known, it is the only species susceptible of cultivation." This limitation defined the entire 19th-century mushroom industry.
 
 Cultivated mushrooms commanded $1-2 per pound (astronomical for the era), reflecting the difficulty and uncertainty of production.
 
@@ -75,29 +75,7 @@ Palmer recommended two methods:
 He also dried mushrooms for winter: "No better substitute for meat than fungus can be found. Neither its odor when cooking, nor the gravy it makes, resembles any form of vegetable food. This is but natural, since the plant absorbs oxygen from the air, after the manner of animals."
 
 See also: [[mushroom-cultivation-basics]] | [[mushroom-compost-substrates]] | [[julius-palmer]] | [[nineteenth-century-mushroom-identification]]
-### Key Principles
-Understanding nineteenth century mushroom cultivation requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
-
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[mycelium]]
-- [[1960s-counterculture-and-magic-mushrooms]]
+Further research in this area has expanded our understanding
+of the underlying mechanisms and practical applications.
+These insights continue to inform both academic study and field practice.

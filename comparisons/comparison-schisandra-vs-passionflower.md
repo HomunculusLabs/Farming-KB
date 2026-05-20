@@ -3,7 +3,7 @@ title: "Schisandra vs Passionflower"
 tags: [comparison, schisandra, passionflower, adaptogens, nervines, medicinal-herbs]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/laminar-flow-hood-construction-1.md']
 ---
 
 ## Schisandra vs Passionflower

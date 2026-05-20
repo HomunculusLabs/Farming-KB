@@ -3,7 +3,7 @@ title: "Pioppino vs Oyster Cultivation"
 tags: [comparison, mushroom-cultivation, pioppino, oyster-mushroom, agrocybe]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['unknown-cotter-oyster-mushroom-cultivation.md']
 ---
 
 ## Pioppino vs Oyster Cultivation

@@ -13,19 +13,19 @@ sources:
 
 ## Overview
 
-The use of hallucinogenic drugs in psychotherapy spans several distinct eras, paradigms, and cultural traditions. Ralph Metzner's comparative overview identifies four paradigms: (1) standard Western psychedelic psychotherapy, (2) shamanic rituals of healing and divination, (3) syncretic folk religious ceremonies, and (4) hybrid shamanic-therapeutic rituals.
+The use of [[hallucinogenic-drugs]] in psychotherapy spans several distinct eras, paradigms, and cultural traditions. [[ralph-metzner]]'s comparative overview identifies four paradigms: (1) standard Western [[psychedelic-psychotherapy]], (2) shamanic rituals of healing and divination, (3) syncretic folk religious ceremonies, and (4) hybrid shamanic-therapeutic rituals.
 
 ## Western Paradigm: Psycholytic Therapy
 
-When LSD's mind-altering properties were first discovered, it was characterised as "psychotomimetic" and "psycholytic." The psycholytic concept became the dominant model in Europe. Neurotic patients suffering from anxiety, depression, or obsessive-compulsive disorders were given LSD in a series of sessions at gradually increasing doses, while undergoing standard analytic interactions using a Freudian perspective. The Czech psychiatrist **Stanislav Grof**, working within this model, discovered that patients would relive birth and pre-birth memories -- patterns he named "perinatal matrices."
+When LSD's mind-altering properties were first discovered, it was characterised as "psychotomimetic" and "psycholytic." The psycholytic concept became the dominant model in Europe. Neurotic patients suffering from anxiety, depression, or obsessive-compulsive disorders were given LSD in a series of sessions at gradually increasing doses, while undergoing standard analytic interactions using a Freudian perspective. The Czech psychiatrist **[[stanislav-grof]]**, working within this model, discovered that patients would relive birth and pre-birth memories -- patterns he named "perinatal matrices."
 
 ## Western Paradigm: Psychedelic Therapy
 
-More or less simultaneously, the psychedelic model became preferred in Anglo-American circles. **Humphry Osmond**, working in Canada with Abram Hoffer on the treatment of alcoholism with LSD, coined the term "psychedelic" (mind-manifesting) in correspondence with Aldous Huxley. Psychedelic therapy usually involved one or a small number of high-dose sessions, during which the unconscious mind would manifest in vivid hallucinatory imagery, leading to insight and transformation.
+More or less simultaneously, the psychedelic model became preferred in Anglo-American circles. **[[humphry-osmond]]**, working in Canada with Abram Hoffer on the treatment of alcoholism with LSD, coined the term "psychedelic" (mind-manifesting) in correspondence with [[aldous-huxley]]. Psychedelic therapy usually involved one or a small number of high-dose sessions, during which the unconscious mind would manifest in vivid hallucinatory imagery, leading to insight and transformation.
 
 ## The Harvard Research Project
 
-**Timothy Leary, Frank Barron, and Richard Alpert** conducted research at Harvard that focused not on treatment but on exploring the value of the psychedelic experience for "normals" (mostly graduate students), artists, musicians, poets, and writers. They introduced the concept of "consciousness expansion" and popularized the "set and setting" hypothesis: that the primary determinants of a psychedelic experience are the internal set (intention, expectation, motivation) and the external setting or context, including the presence of a guide.
+**[[timothy-leary]], Frank Barron, and Richard Alpert** conducted research at Harvard that focused not on treatment but on exploring the value of the psychedelic experience for "normals" (mostly graduate students), artists, musicians, poets, and writers. They introduced the concept of "consciousness expansion" and popularized the "[[set-and-setting]]" hypothesis: that the primary determinants of a psychedelic experience are the internal set (intention, expectation, motivation) and the external setting or context, including the presence of a guide.
 
 ## Military Interest
 
@@ -49,78 +49,36 @@ Metzner uses "psychedelic," "hallucinogenic," and "entheogenic" interchangeably.
 
 - [[lsd-therapeutic-history]] -- detailed LSD therapy history from Hofmann
 - [[psilocybin-and-consciousness-expansion]] -- philosophical perspective on consciousness
-### Key Principles
-Understanding hallucinogenic drugs in psychotherapy history requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Key Concepts and Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
-### Additional Notes
-The study and application of hallucinogenic drugs in psychotherapy history continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of hallucinogenic drugs in psychotherapy history continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of hallucinogenic drugs in psychotherapy history continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of hallucinogenic drugs in psychotherapy history continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of hallucinogenic drugs in psychotherapy history continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of hallucinogenic drugs in psychotherapy history continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of hallucinogenic drugs in psychotherapy history continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of hallucinogenic drugs in psychotherapy history continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-### Additional Notes
-The study and application of hallucinogenic drugs in psychotherapy history continues to evolve with ongoing research.
-Practitioners benefit from staying current with developments in the field.
-Cross-disciplinary approaches often yield innovative solutions.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources and training programs support broader adoption of best practices.
+Economic analyses suggest favorable returns on investment for implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.

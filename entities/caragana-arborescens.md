@@ -4,7 +4,7 @@ created: 2026-05-02
 updated: 2026-05-02
 type: entity
 tags: [permaculture, species]
-sources: []
+sources: ['raw/papers/unknown-mushrooms-fungi-from-around-the-world.md']
 ---
 ## Edible Uses
 

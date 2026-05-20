@@ -3,7 +3,7 @@ title: "How Do I Grow Pawpaws in My Garden or Backyard?"
 tags: [query, pawpaw, fruit-trees, native-plants, permaculture]
 date: 2026-05-18
 updated: 2026-05-18
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## How Do I Grow Pawpaws in My Garden or Backyard?

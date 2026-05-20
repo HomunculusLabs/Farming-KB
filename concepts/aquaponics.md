@@ -4,7 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [permaculture, design, water, ecology, biology, methods, plant-growth, troubleshooting]
-sources: [raw/papers/plants-of-the-gods-schultes-hofmann.md]
+sources: []
 ---
 
 # Aquaponics

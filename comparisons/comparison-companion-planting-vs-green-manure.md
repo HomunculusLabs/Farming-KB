@@ -3,7 +3,7 @@ title: "comparison-companion-planting-reference-vs-jadam-monoculture-critique vs
 tags: [comparison, companion-planting, green-manure, soil-health, gardening]
 date: 2026-05-07
 updated: 2026-05-07
-sources: []
+sources: ['greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## Companion Planting vs Green Manure

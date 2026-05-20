@@ -5,7 +5,7 @@ tags: [comparison, biochemistry, metabolism, nutrition, redox-biology]
 created: 2026-05-02
 updated: 2026-05-06
 type: comparison
-sources: []
+sources: ['raw/papers/unknown-biodiversity-of-fungi-biomass-carbon-soil-structure|biodiversity-of-fungi.md']
 ---
 
 ## Overview

@@ -3,51 +3,6 @@ title: Amanita Muscaria Seers Milk Preparation Ancient and Modern Methods
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
-
-## Ancient Milk-Mushroom Practice
-
-The combination of sacred psychoactive plants with milk is one of the oldest known [[allegro-amanita-muscaria-properties-and-pharmacology]]*.
-
-### Siberian Traditions
-
-Ethnographic reports from the late 19th and early 20th centuries document that native Siberian peoples, including the Koryak and Chukchi, routinely prepared dried *[[amanita-muscaria]]* by fermenting it with reindeer milk. These accounts, recorded by Waldemar Jochelson, Vladimir Bogoras, and later researchers, describe a practice in which dried [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]].
-
-### Fermentation
-
-Unlike the Vedic method, the Siberian preparation explicitly includes a fermentation period. When reindeer milk — which contains a high concentration of lactose — is combined with the mushroom and left at ambient temperatures, wild lactobacilli and yeasts present in the environment and on the mushroom itself convert the lactose into lactic acid and ethanol. The resulting preparation contains a measurable alcoholic content, adding a third intoxicant layer to the already complex pharmacological profile of the mushroom.
-
-### Combined Effects
-
-The fermented reindeer milk preparation produces combined psychoactive, sedative, and intoxicating effects that practitioners describe as qualitatively different from consuming the mushroom alone. The ethanol from fermentation, the GABAergic activity of muscimol, and the nutritional density of the reindeer milk create a synergistic effect that Siberian shamans valued for journeying, healing, and divination.
-
-### The Reindeer Connection
-
-Reindeer are active participants in this practice. They avidly seek out and consume *Amanita muscaria* in the wild, becoming visibly intoxicated in the process. Siberian herders sometimes collected the urine of intoxicated reindeer, which contains concentrated muscimol that has been partially metabolized — removing much of the [[ibotenic-acid]] while preserving the psychoactive muscimol. This urine was consumed directly or used as a base for further preparations, creating a recycling loop in the mushroom's pharmacological journey.
-
----
-
-## Vedic Soma-Milk Ceremony
-
-The Rig Veda provides the most detailed ancient textual account of a milk-mushroom preparation, describing a highly ritualized ceremony built around the pressing and consumption of Soma.
-
-### Pressing and Mixing
-
-Soma was pressed from the mushroom using stones on a wooden board. The expressed juice was immediately collected and mixed with sour milk (*dadhi*) and curds. Barley meal was sometimes added to the mixture, likely as a thickening agent and additional source of nourishment.
-
-### Filtration
-
-The combined Soma-milk mixture was filtered through a wool strainer — a detail that appears repeatedly in the Rig Veda and is depicted on seals and artifacts from the Indus Valley civilization. The wool filtration removed coarse fungal debris while allowing the dissolved actives to pass through.
-
-### Multiple Pressings
-
-The pressing process was performed multiple times, with each pressing producing a liquid of different strength. The first pressing was considered the most potent and was reserved for the most important offerings and participants. Later pressings, increasingly dilute, were distributed according to social hierarchy.
-
-### The Integral Role of Milk
-
-In the Vedic ceremony, the milk component was not incidental — it was integral to the rite. Specific hymns celebrate the merging of Soma with milk, describing the two substances as divine partners. The milk was understood to complete the Soma, making it suitable for consumption and worthy of offering to the gods.
-
----
-
 ## Why "Seer's Milk"
 
 The term "Seer's Milk" reflects the preparation's association with visionary and divinatory practice across cultures and millennia.

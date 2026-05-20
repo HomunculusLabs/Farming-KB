@@ -64,7 +64,7 @@ Plants can modify their root exudates to deal with specific nutrient challenges:
 
 ## Exudates and Mycorrhizae
 
-[[mycorrhizal-inoculation-guide|Mycorrhizal fungal]] spores only germinate when they receive root exudates. The plant essentially "calls" for fungal partners by sending chemical signals. The fungi then grow toward the root and form the symbiotic association. The plant provides carbohydrates through exudates, and the fungi provide phosphorus, nitrogen, copper, zinc, and other nutrients in return.
+[[mycorrhizal-inoculation|Mycorrhizal fungal]] spores only germinate when they receive root exudates. The plant essentially "calls" for fungal partners by sending chemical signals. The fungi then grow toward the root and form the symbiotic association. The plant provides carbohydrates through exudates, and the fungi provide phosphorus, nitrogen, copper, zinc, and other nutrients in return.
 
 ## Sloughed Root Cells
 

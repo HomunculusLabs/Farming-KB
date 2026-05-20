@@ -3,37 +3,6 @@ title: Natural Swimming Pools and Water Design
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
-
-## Critique of Chemical Swimming Pools
-
-Conventional pools rely on biocides — most commonly chlorine — to maintain water clarity. Mollison identifies several serious problems:
-
-- **Health hazards**: Chlorine reacts with organic matter (skin cells, sweat, leaves) to form **chloroform and trihalomethanes**, known carcinogens absorbed through inhalation and skin contact.
-- **Ecological damage**: Biocides kill all aquatic life, producing a sterile body of water with no ecological function.
-- **Resource waste**: Chemical pools consume energy for filtration and pumping, require constant inputs, and contribute nothing to the landscape.
-
-Permaculture replaces this single-function system with a living aquatic ecosystem that purifies water biologically while providing multiple yields.
-
----
-
-## Natural Swimming Pool Design
-
-### Filtration System
-
-- A **pebble bed beneath the pool base** serves as the primary biological filter. Microbes and algae colonize pebble surfaces, breaking down organic waste.
-- Water cycles through a **reed-bed zone** where emergent aquatic plants uptake excess nutrients that would otherwise feed algae blooms.
-- Cleaned water **cascades back** into the swimming zone, freshly oxygenated through the fall and root-zone activity.
-
-### Ecological Features
-
-Natural pools incorporate **tame fish** (nutrient cycling), **crayfish** (detritus scavengers), **rock ledges** (microorganism habitat), and **ferns/marginal plants** (bank stabilization and filtration).
-
-### Multifunctional Benefits
-
-Beyond swimming, natural pools serve as fire-fighting reserves, heat sources for heat pumps, barriers to fire, emergency water supplies (rechargeable from roof via photovoltaic pumps), and aquaculture habitat for edible plants and fish.
-
----
-
 ## The Designer's Water Checklist
 
 Mollison provides a systematic checklist ensuring no water resource is overlooked:

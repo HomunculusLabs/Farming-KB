@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: mycology, mushrooms]
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 Updated: 2026-04-18 ## Overview William Shakespeare made several notable [[weil-cultural-attitudes-toward-altered-states]] mushrooms in early modern English culture. Source: [[fairy-rings-folklore-and-science]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

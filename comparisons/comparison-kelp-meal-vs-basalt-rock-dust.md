@@ -3,7 +3,7 @@ title: "Kelp Meal vs Basalt Rock Dust"
 tags: [comparison, soil-amendment, trace-elements, mineral-supplement, organic-fertilizer]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md']
 ---
 
 ## Kelp Meal vs Basalt Rock Dust

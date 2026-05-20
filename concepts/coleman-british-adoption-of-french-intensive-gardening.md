@@ -8,7 +8,7 @@ tags: [french-intensive, british-gardening, history, william-robinson, kropotkin
 
 ## British Adoption of French Intensive Gardening
 
-The transfer of French intensive [[cervantes-chemical-fertilizers-guide]] as "pompously labeled and
+The transfer of French intensive cervantes-chemical-fertilizers-guide]] as "pompously labeled and
 unworthy drugs." The gardening world finally took notice.
 
 ## The 1905 British Delegation to Paris

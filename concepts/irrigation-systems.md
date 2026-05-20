@@ -167,6 +167,7 @@ Recommendation: Automate Zone 1-2 (daily/weekly visits). Manual is fine for Zone
 | Berry bushes | 500-1000 sq ft | Drip emitters | 2-4 |
 | Orchard/food forest | 0.5-2 acres | Drip + micro-sprinkler | 5-15 |
 | Pasture | 2-5 acres | Impact sprinkler or swale | 10-25 |
+| Pasture | 2-5 acres | Impact sprinkler or swale | 10-25 |
 
 Total homestead demand: 15-50 GPM. Match to well yield or design zones to run sequentially. See [[seasonal-planning]] for monthly water demand.
 

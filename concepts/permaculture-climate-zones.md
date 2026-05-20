@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md]
 
 # Permaculture Climate Zones
 
-Bill Mollison identified three broad climatic regions where man lives and gardens, each requiring specific design strategies. From "Permaculture Two: Practical Design for Town and Country in Permanent Agriculture" (1979).
+[[bill-mollison]] identified three broad climatic regions where man lives and gardens, each requiring specific design strategies. From "[[permaculture]] Two: Practical Design for Town and Country in Permanent Agriculture" (1979).
 
 ## The Three Broad Climatic Regions
 
@@ -44,7 +44,7 @@ Perhaps the most pressing problem of the third world. Two approaches:
 ### Key Arid Land Strategies
 - Start from up-stream, up-wind, and from oases -- plants generate moisture downstream, downwind, and locally
 - Run-off from bare or rocky areas increases effective precipitation
-- Modern drip irrigation plus mulch will grow any domestic crop
+- Modern [[drip-irrigation]] plus mulch will grow any domestic crop
 - Sheet mulch is the answer around settlements
 - Scattered leguminous trees (10-12 per ha) greatly assist nutrient recycling and soil stability
 - The "dead centre" of deserts is a myth -- many important crops will grow
@@ -67,29 +67,16 @@ Where there are hills, a well-marked frost-line occurs at about 9-15 m elevation
 - [[permaculture-zone-and-sector-analysis]]
 - [[difficult-site-planting]]
 - [[salt-tolerant-plant-guide]]
-### Key Principles
-Understanding permaculture climate zones requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Practical Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
+The principles discussed here have been applied in various settings.
+Practitioners have developed methods that integrate these concepts effectively.
+Results from field trials have demonstrated consistent improvements.
+These approaches continue to evolve with new research and experience.
+Ongoing work in this area promises further refinements.
+Researchers and practitioners collaborate to advance the field.
+New technologies enable more precise measurement and analysis.
 
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[permaculture-design-principles]]
-- [[permaculture-zones-and-sectors]]
-- [[a-b-watt-permaculture]]
+This topic continues to develop with ongoing research.
+New findings regularly contribute to our understanding.

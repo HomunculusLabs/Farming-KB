@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, organic-gardening, pest-control, slugs, snails]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md']
 type: query
 ---
 

@@ -2,7 +2,7 @@
 title: "Big Bud"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The strain earned its name from its massive, dense colas that can reach extraordinary sizes under optimal growing conditions. It remains a staple for commercial growers seeking maximum output and has served as a genetic parent for numerous high-yielding [[cervantes-breeding-program-design-goal-setting]].

@@ -1,3 +1,11 @@
+---
+title: Gotu Kola Growing Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, ethnobotany, asia]
+sources: []
+---
 
 # Gotu Kola Growing Guide (Centella asiatica)
 
@@ -167,7 +175,6 @@ herb per square foot per year from an established patch.
 - Leggy growth: Indicates insufficient light; move to a brighter location.
 
 ## See Also
-- [[onion-growing-guide]]
 
 - [[ashwagandha-growing-guide]] -- complementary Ayurvedic adaptogen for
   cognitive support and stress management

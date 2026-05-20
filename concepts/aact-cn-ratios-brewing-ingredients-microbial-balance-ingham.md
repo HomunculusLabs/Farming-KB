@@ -3,21 +3,6 @@ title: "AACT C:N Ratios in Brewing Ingredients and Microbial Community Balance"
 tags:
   - concept
 ---
-
-## C:N Ratio Fundamentals
-
-The carbon-to-nitrogen ratio expresses the relative amounts of carbon and nitrogen available in organic materials. Microorganisms require both elements for growth, using carbon as an energy source and nitrogen for protein synthesis. The C:N ratio of available food sources directly influences which types of microorganisms will proliferate.
-
-In the context of AACT brewing, C:N ratios matter because:
-
-- **Low C:N ratios** (below 20:1) favor bacterial growth. Bacteria have high nitrogen requirements relative to their carbon needs and thrive when nitrogen is abundant
-- **High C:N ratios** (above 30:1) favor fungal growth. Fungi are more efficient at metabolizing carbon-rich materials and can access nitrogen from more complex sources
-- **Intermediate C:N ratios** (20:1 to 30:1) support a mixed community of both bacteria and fungi
-
-These ranges are general guidelines. The actual C:N ratio experienced by microorganisms depends not just on the total C and N in the ingredients, but on the proportion that is readily available in soluble forms.
-
----
-
 ## C:N Ratios of Common AACT Ingredients
 
 ### Simple Sugars and Bacterial Foods

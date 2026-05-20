@@ -1,3 +1,11 @@
+---
+title: Psychedelic Mushroom Dosage Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycology, fungi, psychopharmacology, psychedelics, entheogen, safety, potency, preparation]
+sources: []
+---
 
 # Psychedelic Mushroom Dosage Guide
 

@@ -1,3 +1,11 @@
+---
+title: Root Beer Making
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fermentation, recipe, food, homesteading, homestead-crafts, preparation, history, plants]
+sources: []
+---
 
 ## What Is Root Beer
 

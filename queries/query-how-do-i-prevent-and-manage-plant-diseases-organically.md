@@ -3,7 +3,7 @@ title: "How Do I query how do i prevent and manage plant diseases organically Pl
 tags: [query, plant-disease, organic-farming, ipm, biocontrol]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md']
 created: 2026-05-07
 type: query
 ---

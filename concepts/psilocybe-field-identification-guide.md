@@ -3,39 +3,6 @@ title: Psilocybe Field Identification Guide — Three Common Southern Species
 source: field-guide-to-the-psilocybin-mushroom.md
 type: concept
 ---
-
-## Species Descriptions
-
-### *Psilocybe cubensis*
-
-The most common and widely distributed of the three species, found on cow manure (and manure of other grain-fed animals) or enriched soil throughout the southern United States.
-
-**Cap**: 1/2 to 4 inches wide. Initially cone-shaped for the first few hours, quickly becoming convex, then flat, and finally uplifted at the edges to form a bowl shape at maturity (24–48 hours after rain). A sticky protective film covers the entire cap in fresh specimens. Color varies from nearly pure white with a gold center spot to overall light brown retaining the gold center spot. Becomes translucent when water-soaked, appearing dark olive (actually dark spore color showing through). Both normal and water-soaked specimens dry to a yellow-rust color with an orange-to-gold center spot.
-
-**Gills**: Rather closely spaced, light brown when young, becoming deep purple to black with maturity. Initially attached to the stem but may separate with age.
-
-**Stem**: 1.5 to nearly 6 inches tall, up to 1/2 inch thick. The stem base (volva) is often — though not always — thickened. The stem is hollow, fibrous, generally white or lighter than the cap. A ring of tissue (the veil) typically hangs from the upper portion and usually turns blue with age. The inside flesh of a broken stem yields the fastest bluing reaction.
-
-**Flesh**: White, with little odor and a taste similar to fresh grain. Occurs almost exclusively on cow manure or manure-enriched soil.
-
-**Dosage**: 4 to 6 fresh mushrooms, or approximately 2mg of active alkaloids per dry gram. The stem contains roughly the same concentration as the cap. Mexican indigenous practitioners reportedly consume 30–40 specimens per ceremony. Increasing dosage intensifies the experience rather than prolonging it.
-
----
-
-### *Panaeolus subbalteatus*
-
-Less common than *P. cubensis* — roughly 12% as frequent (about 3 found for every 25 *P. cubensis* collected). Often discovered incidentally while harvesting *P. cubensis* since it shares the same dung habitat.
-
-**Cap**: Bluntly cone-shaped with an incurved margin in young specimens. As it matures, the cap expands but the incurved margin usually remains visible. Color is uniform light-cinnamon covered with small white flecks in younger stages. With age, the center becomes lighter or darker, forming a distinctive margin ring. The veil in young specimens is off-white, never bluing, and hangs downward from the closed cap; it disappears as the cap expands.
-
-**Gills**: Very closely spaced, light brown in young specimens, becoming black with maturity.
-
-**Stem**: 1.5 to nearly 4 inches tall, never over 1/2 inch thick. Very uniform and evenly shaped. The top of the stem is vertically grooved; the lower portion is covered with a mat of hairlike scales and fine white powder. Color is usually white, sometimes with a sepia or light-cinnamon tint. The stem is hollow. The bluing reaction is best observed in the stem of this species.
-
-**Flesh**: White to yellowish, with a taste and odor resembling fine table mushrooms purchased at a store. This species matures slowly and is rarely seen in older stages when discovered during *P. cubensis* harvest.
-
----
-
 ### *Psilocybe caerulescens*
 
 Unlike the other two species, *P. caerulescens* grows on stream and river banks rather than dung. Found throughout the entire southern United States.

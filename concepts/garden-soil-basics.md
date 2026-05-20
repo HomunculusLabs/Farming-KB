@@ -1,3 +1,11 @@
+---
+title: Garden Soil Basics
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [gardening, soil, nutrients, minerals, fertilizer, compost, beginner]
+sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
+---
 
 # Garden Soil Basics
 

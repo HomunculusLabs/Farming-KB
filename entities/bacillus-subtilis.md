@@ -18,7 +18,7 @@ taxonomy:
   genus: Bacillus
   species: B. subtilis
 tags: [profile]
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Bacillus subtilis

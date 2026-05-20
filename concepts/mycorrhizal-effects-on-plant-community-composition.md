@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-05-09
 type: concept
 tags: [mycology, soil-biology, symbiosis, ecology]
-sources: []
+sources: ['geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-staycare-endobacteria-arbuscular-mycorrhizal-fungi-fungi-arbuscular-mycorrhizal-fungi-in-the-environment-fungal-biodiversity-tropical-forest-restoration-hydrocarbon-remediation-the-environment.md']
 ---
 ## Mycorrhizal Effects on Plant Community Composition
 

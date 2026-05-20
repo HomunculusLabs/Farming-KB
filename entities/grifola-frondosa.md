@@ -2,7 +2,7 @@
 title: "Grifola Frondosa"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Taxonomy

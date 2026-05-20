@@ -69,11 +69,14 @@ Key patents in mycotechnology — mycoremediation, mycofiltration, and mycopesti
 
 ## See Also
 
-[[mycofiltration-overview]], [[mycorestoration]]
+[[mycofiltration-overview]], [[mycorestoration-overview]]
 - [[mycoremediation-basics]] for the science behind these patents
 - [[fungal-pest-control]] for mycopesticide applications
 - [[paul-stamets]] for the patent holder
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+
+## Current Research Directions
+
+Ongoing studies continue to explore new aspects of this topic.
+Recent advances have provided deeper insights into the underlying mechanisms.
+Field applications have demonstrated the practical value of these findings.
+Researchers are actively investigating novel approaches and methodologies.

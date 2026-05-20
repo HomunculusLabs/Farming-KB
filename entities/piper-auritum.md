@@ -2,7 +2,7 @@
 title: "Piper Auritum"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species is most widely recognized for its large, heart-shaped leaves that emit a distinctive anise-like aroma when crushed. This characteristic scent is primarily due to the presence of safrole in its essential oil.

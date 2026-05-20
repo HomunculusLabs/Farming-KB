@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources: ['AllBud blesching-cannabis-strain-selection-receptor-targeting Reviews']
 ---
 
 ## Cannabis Curing Jar Technique

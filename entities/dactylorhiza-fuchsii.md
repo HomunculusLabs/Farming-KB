@@ -2,7 +2,7 @@
 title: "Dactylorhiza Fuchsii"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 *Dactylorhiza fuchsii* is an allotetraploid species (2n = 80), originating from ancient hybridization between diploid ancestors. This polyploid origin contributes to its ecological versatility and morphological variability.

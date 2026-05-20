@@ -2,7 +2,8 @@
 title: query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress Burn
 created: 2026-04-26
 updated: 2026-04-23
-sources: []
+sources:
+  - "raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]

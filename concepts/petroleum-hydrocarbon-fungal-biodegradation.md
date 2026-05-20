@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources: ['raw/papers/unknown-biodiversity-of-fungi-biomass-carbon-soil-structure|biodiversity-of-fungi.md']
 ---
 ## Petroleum Hydrocarbon Fungal Biodegradation
 

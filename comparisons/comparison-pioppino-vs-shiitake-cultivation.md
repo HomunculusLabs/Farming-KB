@@ -3,7 +3,7 @@ title: Comparison Pioppino Vs Shiitake Cultivation
 tags: [comparison, mushroom-cultivation, pioppino, shiitake, agrocybe, lentinula]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Pioppino vs Shiitake Cultivation

@@ -4,7 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [fungi, biology, academia, lab-technique, microbes]
-sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
+sources: []
 ---
 
 # Fungal Genetics

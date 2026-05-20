@@ -3,7 +3,7 @@ title: "Elderberry vs Ashwagandha"
 tags: [comparison, elderberry, ashwagandha, medicinal-herbs, adaptogens, immune-support]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Elderberry vs Ashwagandha

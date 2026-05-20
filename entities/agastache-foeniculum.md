@@ -2,7 +2,7 @@
 title: "Agastache Foeniculum"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The species has a long history of use among Indigenous peoples of the Great

@@ -3,7 +3,7 @@ title: "What is Biogas and How Do I Build a Small-Scale Digester System?"
 tags: [query, biogas, renewable-energy, waste-management, sustainability]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## What is Biogas and How Do I Build a Small-Scale Digester System?

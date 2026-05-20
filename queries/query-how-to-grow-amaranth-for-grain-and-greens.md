@@ -3,7 +3,7 @@ title: "How to query how to grow amaranth for grain and greens for Grain and Gre
 tags: [query, amaranth, grain-crops, leafy-greens, homesteading]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/unknown-oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid|oyster-mushroom-cultivation.md']
 ---
 
 ## How to Grow Amaranth for Grain and Greens

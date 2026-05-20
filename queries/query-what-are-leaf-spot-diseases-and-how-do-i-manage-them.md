@@ -3,7 +3,7 @@ title: "What are leaf spot diseases and how do I manage them?"
 tags: [query, plant-pathology, fungal-diseases, leaf-spot, organic-control]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## What are leaf spot diseases and how do I manage them?

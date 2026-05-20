@@ -9,31 +9,31 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultiv
 
 # Mushroom Foraging Safety
 
-Mushroom foraging is rewarding but carries genuine risks. Several mushroom species contain lethal [[mushroom-toxins-and-poisoning|toxin]]s, and many edible species have deadly lookalikes. Proper identification skills are essential before consuming any wild mushroom.
+Mushroom foraging is rewarding but carries genuine risks. Several mushroom species contain lethal [[mushroom-toxins-and-poisoning|toxin]] s, and many edible species have deadly lookalikes. Proper identification skills are essential before consuming any wild mushroom.
 
 ## The Golden Rules
 
 1. **Never eat a mushroom unless you are 100% certain of its identification.** If in doubt, throw it out.
 2. **Learn from experts.** Join a local mycological society, take guided walks, and study with experienced foragers.
-3. **Identify the mushroom, not just match pictures.** Consider habitat, season, substrate, cap features, gill structure, stem characteristics, spore print color, and bruising reactions.
+3. **Identify the mushroom, not just match pictures.** Consider habitat, season, substrate, cap features, gill structure, stem characteristics, [[spore-print]] color, and bruising reactions.
 4. **When trying a new edible species for the first time, eat only a small amount and wait 24 hours.** Some people have individual sensitivities.
 5. **Keep a voucher specimen** of every mushroom you eat, in case identification needs to be confirmed later.
 
 ## Deadly Species
 
 ### Death Cap (Amanita phalloides)
-Responsible for the majority of mushroom fatalities worldwide. Contains amatoxins that destroy the liver and kidneys. Symptoms may not appear for 6-24 hours after ingestion, by which time organ damage may be irreversible. Looks similar to several edible species (paddy straw mushroom, some caesar's mushrooms).
+Responsible for the majority of mushroom fatalities worldwide. Contains amatoxins that destroy the liver and kidneys. Symptoms may not appear for 6-24 hours after ingestion, by which time organ damage may be irreversible. Looks similar to several edible species ([[paddy-straw-mushroom]], some caesar's mushrooms).
 
 ### Destroying Angel (Amanita virosa, A. bisporigera, A. ocreata)
-Pure white, elegant mushrooms in the Amanita genus. Also contain lethal amatoxins. Often confused with edible white mushrooms by beginners.
+Pure white, elegant mushrooms in the [[amanita-genus]]. Also contain lethal amatoxins. Often confused with edible white mushrooms by beginners.
 
 ### Galerina marginata (Deadly Galerina)
-A small brown mushroom that grows on wood -- the same habitat as many edible species including the honey mushroom (Armillaria mellea) and oyster mushrooms. Contains the same lethal amatoxins as Amanita species.
+A small brown mushroom that grows on wood -- the same habitat as many edible species including the honey mushroom ([[armillaria-mellea]]) and [[oyster-mushrooms]]. Contains the same lethal amatoxins as Amanita species.
 
 ### Other Dangerous Species
 - **Cortinarius species**: Some contain orellanine, which causes irreversible kidney failure
 - **Conocybe filaris**: Small lawn mushroom containing amatoxins
-- **Amanita muscaria**: Fly agaric -- rarely fatal but causes severe CNS effects (ibotenic acid, muscimol)
+- **[[amanita-muscaria]]**: Fly agaric -- rarely fatal but causes severe CNS effects (ibotenic acid, muscimol)
 
 ## Deadly Lookalikes
 
@@ -72,29 +72,11 @@ A proper identification considers ALL of these features:
 - [[gourmet-mushroom-species-guide]]
 - [[fungal-ecology-forest-floor]]
 - [[psilocybin-mushroom-cultivation-basics]]
-### Key Principles
-Understanding mushroom foraging safety requires consideration of several interrelated factors.
-These principles form the foundation for practical application and further research.
-Each factor contributes to the overall effectiveness and sustainability of the approach.
-Integration of multiple approaches often yields the best results.
 
-### Methods and Techniques
-Various methods have been developed to implement these concepts effectively.
-Selection of appropriate techniques depends on specific conditions and objectives.
-Adaptation to local conditions improves outcomes and resource efficiency.
-Best practices continue to evolve as new research becomes available.
+## Current Research and Applications
 
-### Practical Applications
-Real-world implementation requires attention to local conditions and available resources.
-Success often depends on careful planning and iterative refinement of techniques.
-Documentation and observation support continuous improvement.
-
-### Research and Development
-Ongoing research continues to refine understanding and improve practical applications.
-New developments in related fields contribute to advancing knowledge in this area.
-Field trials and experimental results provide valuable data for optimization.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[mycelium]]
-- [[1960s-counterculture-and-magic-mushrooms]]
+Modern research has expanded significantly in this domain.
+New methodologies and technologies have enabled more precise investigation.
+These advances have revealed previously unknown aspects of the subject.
+Practitioners continue to integrate research findings into applied settings.
+The field remains active with ongoing discoveries and developments.

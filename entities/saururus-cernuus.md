@@ -2,7 +2,7 @@
 title: "Saururus Cernuus"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The species grows in shallow water and saturated soils along stream banks, marshes, swamps, and pond margins. It forms dense colonies through creeping rhizomes and can dominate wetland understories where conditions are favorable.

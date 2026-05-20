@@ -1,3 +1,11 @@
+---
+title: LSD Synthesis History
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [entheogen, history, chemistry, psychopharmacology, counterculture, pharmacology, biochemistry, neuroscience, psychedelics, underground-press, culture]
+sources: []
+---
 
 # LSD Synthesis History
 
@@ -37,7 +45,7 @@ Between 1950 and 1966, over 1,000 clinical papers on LSD were published. Researc
 - **Consciousness**: Early consciousness research and [[mystical-experience]] studies
 
 ### Key Researchers
-- **Humphry Osmond**: Coined the term "psychedelic" (mind-manifesting), researched LSD for alcoholism in Canada
+- **[[humphry-osmond]]**: Coined the term "psychedelic" (mind-manifesting), researched LSD for alcoholism in Canada
 - **Stanislav Grof**: Developed LSD psychotherapy methods in Czechoslovakia, later became a leading transpersonal psychologist
 - **Aldous Huxley**: Wrote "The Doors of Perception" (1954) about his mescaline experiences; advocated for psychedelic research
 - **Myron Stolaroff**: Researched LSD's potential for creativity enhancement
@@ -105,5 +113,3 @@ LSD remains culturally significant in art, music, literature, and technology cul
 
 - [[psychedelic-plants-legal-status]] — current legal status of LSD and other psychedelics
 - [[psilocybin-extraction-guide]] — extraction methods for psilocybin, another classic psychedelic
-## See Also
-- [[blue-lotus-history]]

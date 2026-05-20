@@ -3,7 +3,7 @@ title: "Maitake Comparison Cordyceps Vs Oyster Cultivation"
 tags: [comparison, maitake, oyster, mushroom-cultivation, medicinal-mushrooms]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['unknown-cotter-oyster-mushroom-cultivation.md']
 ---
 
 ## Maitake vs Oyster Cultivation

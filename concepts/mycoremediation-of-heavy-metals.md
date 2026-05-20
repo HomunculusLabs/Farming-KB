@@ -1,3 +1,11 @@
+---
+title: Mycoremediation of Heavy Metals
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mycoremediation, pollution, fungi, soil-health, ecology, remediation, microbes, mycology, environment]
+sources: []
+---
 
 ## Overview
 

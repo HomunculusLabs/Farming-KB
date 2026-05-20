@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, symbiosis, mycorrhizal-fungi, endophytes, plant-microbe]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md']
 type: comparison
 ---
 

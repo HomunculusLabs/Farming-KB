@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: []
+sources: ['permaculture-a-designers-manual']
 ---
 Updated: 2026-04-18 The Pyrethrum Daisy (Chrysanthemum cinerariifolium) is a valuable [[medicinal-herb-growing]] 30–60 cm tall with finely divided, silvery-green foliage and white daisy-like flowers with yellow centers. It is native to the Balkan Peninsula and Dalmatian coast, growing wild on rocky limestone hillsides. The active insecticidal compounds, called pyrethrins, are concentrated in the flower heads. Six naturally occurring pyrethrin esters work together to rapidly paralyze insects by disrupting their nervous systems. As a [[permaculture-beekeeping]] and [[permaculture-tree-crop-systems]] as an understory herb beneath [[organic-pest-and-disease-management]] for treatment options.
 

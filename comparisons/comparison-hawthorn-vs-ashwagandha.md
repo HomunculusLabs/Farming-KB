@@ -3,7 +3,7 @@ title: "Hawthorn vs Ashwagandha"
 tags: [comparison, hawthorn, ashwagandha, adaptogens, cardiovascular, herbal-medicine]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Hawthorn vs Ashwagandha

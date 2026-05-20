@@ -2,7 +2,7 @@
 title: "Dicentra Spectabilis"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/laminar-flow-hood-construction-1.md']
 ---
 
 ## Taxonomy and Morphology

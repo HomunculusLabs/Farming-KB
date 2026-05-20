@@ -12,7 +12,7 @@ tags: [species, plant, herbal, silybum-marianum (milk thistle), another Asterace
 - **Species:** C. scolymus L.
 - **Authority:** Carl Linnaeus, 1753
 - **Common names:** Globe artichoke, French artichoke, green artichoke
-- **Synonyms:** [[guzman-psilocybin-mushrooms-south-america]] (Peru, Argentina), North Africa,
+- **Synonyms:** guzman-psilocybin-mushrooms-south-america]] (Peru, Argentina), North Africa,
   and parts of Asia
 - **Habitat preference:** Full sun, deep fertile well-drained soils;
   tolerant of slightly alkaline pH (6.5–8.0); sensitive to waterlogging;

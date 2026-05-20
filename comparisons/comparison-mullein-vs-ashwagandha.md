@@ -3,7 +3,7 @@ title: "Mullein vs Ashwagandha"
 tags: [comparison, mullein, ashwagandha, medicinal-herbs, adaptogen, respiratory]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Mullein vs Ashwagandha

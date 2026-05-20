@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [plant-systems, agriculture, regenerative, companion-planting, permaculture, vegetables, cover-crop]
-sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
+sources: []
 ---
 
 # Intercropping Systems

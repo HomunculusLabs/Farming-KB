@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, legumes, nitrogen, soil-fertility]
 date: 2026-05-02
 updated: 2026-05-02
-sources: []
+sources: ['https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/nitrogen-fixation']
 type: query
 ---
 

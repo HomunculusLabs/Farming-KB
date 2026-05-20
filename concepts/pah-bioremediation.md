@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [remediation, environment]
-sources: []
+sources: ['geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-staycare-endobacteria-arbuscular-mycorrhizal-fungi-fungi-arbuscular-mycorrhizal-fungi-in-the-environment-fungal-biodiversity-tropical-forest-restoration-hydrocarbon-remediation-the-environment.md']
 ---
 
 ## Bioremediation of Polycyclic Aromatic Hydrocarbons

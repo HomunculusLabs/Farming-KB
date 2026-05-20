@@ -3,7 +3,7 @@ title: "Pruning vs Grafting"
 tags: [comparison, fruit-tree, orchard, plant-care, cultivation]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 ## Pruning vs Grafting

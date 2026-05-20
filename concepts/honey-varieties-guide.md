@@ -1,3 +1,11 @@
+---
+title: Honey Varieties Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, animal-husbandry, food, plants, pollinators]
+sources: []
+---
 
 # Honey Varieties Guide
 

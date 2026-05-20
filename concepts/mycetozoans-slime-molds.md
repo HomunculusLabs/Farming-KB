@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources: ['raw/papers/mr-nicholas-moneychard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md']
 ---
 
 ## Mycetozoans — Slime Molds and Their Relatives

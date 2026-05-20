@@ -6,7 +6,7 @@ tags: [fungi, basidiomycota, agaricales, panaeolaceae, panaeolus,
   psychoactive, psilocybin-containing, coprophilous]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md']
   - ""raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 ## Panaeolus retirugis

@@ -2,7 +2,7 @@
 title: "Starfighter"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 The strain was developed by Alien Genetics and gained recognition for its exceptionally resinous buds and complex citrus-fuel aroma.

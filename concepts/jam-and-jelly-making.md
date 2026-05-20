@@ -1,3 +1,11 @@
+---
+title: Jam and Jelly Making
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [food, recipe, homesteading, homestead-crafts, preservation, preparation, fruit-tree]
+sources: []
+---
 
 ## What Is Jam and Jelly
 

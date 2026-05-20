@@ -2,7 +2,7 @@
 title: "Geranium Maculatum"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/unknown-mushrooms-fungi-from-around-the-world.md']
 ---
 
 The species is one of the most important native medicinal plants of eastern North America, with a long history of use among Indigenous peoples and later European settlers. The root contains significant concentrations of tannins, which account for its potent astringent properties.

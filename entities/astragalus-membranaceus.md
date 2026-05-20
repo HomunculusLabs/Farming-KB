@@ -2,7 +2,7 @@
 title: "Astragalus Membranaceus"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Taxonomy

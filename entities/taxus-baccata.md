@@ -2,7 +2,7 @@
 title: "Taxus Baccata"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 Growth is exceptionally slow: 20–30 cm/year in youth, declining with age.

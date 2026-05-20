@@ -1,3 +1,21 @@
+---
+title: Amanita Muscaria Ethnobotany
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags:
+  - amanita-muscaria
+  - ethnobotany
+  - siberia
+  - ibotenic-acid
+  - muscimol
+  - fly-agaric
+  - shamanism
+sources:
+  - raw/papers/amanita-muscaria-herb-of-immortality.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - raw/papers/mckenna_t-food_of_the_gods.md
+---
 
 # Amanita Muscaria Ethnobotany
 

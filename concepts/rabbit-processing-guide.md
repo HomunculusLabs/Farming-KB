@@ -152,5 +152,5 @@ Some states have additional requirements. Check local regulations before selling
 -  **Offal** — Hearts, livers, and kidneys are edible and nutritious. Intestines and stomach contents go to compost.
 -  **Bones** — Make bone broth or add to compost. Bones decompose readily in a hot compost pile.
 -  **Blood** — Dilute and add to compost as a nitrogen source, or collect for [[black-soldier-fly-composting]].
-## See Also
-- [[grain-processing-and-milling-guide]]
+
+See also: [[grain-processing-and-milling-guide]]

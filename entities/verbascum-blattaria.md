@@ -2,7 +2,7 @@
 title: "Verbascum Blattaria"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 In North America, it is naturalized across most of the eastern and central United States and southern Canada. It is less common in the arid West, where it is confined to irrigated areas.

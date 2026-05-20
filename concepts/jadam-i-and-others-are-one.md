@@ -8,7 +8,7 @@ tags: [jadam, fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic of
 ---
 
 Just as overeating with unbalanced diet causes obesity and disease in humans, overfertilization with nutritionally unbalanced inputs causes problems in crops. This manifests as:
-- [[jadam-rice-bran-problems]], perilla pulp, and press cakes as primary fertilizers. These are leftovers -- peels and skins. You cannot expect big fruits from feeding crops peels.
+- jadam-rice-bran-problems]], perilla pulp, and press cakes as primary fertilizers. These are leftovers -- peels and skins. You cannot expect big fruits from feeding crops peels.
 
 ## Philosophical Depth
 

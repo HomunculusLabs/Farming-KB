@@ -3,7 +3,7 @@ title: "How Do I Make Hard Cider From My Apple Harvest?"
 tags: [query, cider, fermentation, food-preservation, homesteading]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 # How Do I Make Hard Cider From My Apple Harvest?

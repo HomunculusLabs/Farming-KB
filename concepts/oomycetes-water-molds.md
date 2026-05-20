@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [water, conservation]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 ## Oomycetes (Water Molds) — Biology and Freshwater Diversity
 

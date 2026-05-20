@@ -1,3 +1,11 @@
+---
+title: Psychedelic Mushroom Decriminalization
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [entheogen, law, reform, activism, history, counterculture, psychopharmacology, entheogen-research, psychedelics, culture, community]
+sources: []
+---
 
 # Psychedelic Mushroom Decriminalization
 
@@ -140,5 +148,3 @@ The US movement has inspired reform efforts worldwide:
 
 - [[psychedelic-plants-legal-status]] — comprehensive legal status for all entheogens
 - [[psilocybin-extraction-guide]] — preparation methods for psilocybin mushrooms
-## See Also
-- [[psychedelic-mushroom-art-and-iconography]]

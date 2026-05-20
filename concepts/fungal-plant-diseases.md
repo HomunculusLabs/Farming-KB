@@ -1,3 +1,11 @@
+---
+title: Fungal Plant Diseases
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fungi, pathogens, troubleshooting, plants, gardening, pest-control, cultivation]
+sources: []
+---
 
 # Fungal Plant Diseases
 

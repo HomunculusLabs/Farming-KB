@@ -1,3 +1,11 @@
+---
+title: Mushroom Liquid Culture
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [mushrooms, fungi, cultivation, indoor, preparation, recipe, workflow, inoculation, storage]
+sources: []
+---
 
 ## Overview
 
@@ -168,7 +176,7 @@ The rule: if LC smells bad (anything other than mushroomy or neutral), discard i
 
 ## Related Topics
 
-- [[mushroom-spawn-making-detailed|spawn preparation]] — inoculating grain jars with liquid culture
+- [[mushroom-spawn-making-detailed|spawn]]-preparation]] — inoculating grain jars with liquid culture
 - [[agar-work-guide]] — preparing agar wedges for LC inoculation
 - [[mushroom-sterile-technique-detailed]] — maintaining sterility during LC preparation
 - [[mushroom-spore-printing-and-storage]] — alternative inoculation method

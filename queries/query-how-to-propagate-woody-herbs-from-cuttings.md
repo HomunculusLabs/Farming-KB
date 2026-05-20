@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [herbalism, propagation, cuttings, herbs, plant-reproduction]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: ['raw/papers/unknown-mushrooms-fungi-from-around-the-world.md']
 type: query
 ---
 

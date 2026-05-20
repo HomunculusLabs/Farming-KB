@@ -1,3 +1,11 @@
+---
+title: Hay and Forage Management
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [forage, animal-husbandry, homesteading, livestock, storage, preservation]
+sources: []
+---
 
 # Hay and Forage Management
 

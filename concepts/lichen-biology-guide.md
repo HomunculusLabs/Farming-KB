@@ -1,3 +1,11 @@
+---
+title: Lichen Biology Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [fungi, mycology, ecology, biology, symbiosis, foraging, species-profiles]
+sources: []
+---
 
 # Lichen Biology Guide
 

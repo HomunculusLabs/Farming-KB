@@ -3,7 +3,7 @@ title: "comparison-solar-cooking-vs-cob-oven vs Solar Dehydrating"
 tags: [comparison, solar-energy, food-preservation, off-grid, homesteading]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
 ---
 
 ## Solar Cooking vs Solar Dehydrating

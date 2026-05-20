@@ -3,7 +3,7 @@ title: Comparison: Shiitake vs Maitake
 tags: [comparison, shiitake, maitake, mushroom-cultivation, medicinal-mushrooms]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md']
 ---
 
 ## Shiitake vs Maitake

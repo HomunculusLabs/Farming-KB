@@ -10,7 +10,7 @@ Beekeeping, or apiculture, is one of humanity's oldest forms of agriculture.
 For at least nine thousand years, people have harvested honey from wild
 colonies and later managed bees in purpose-built hives. Today, the
 relationship between humans and bees is more critical, and more threatened,
-than at any point in that long history. [[dmt-containing-plants-united-states-halpern]] economy alone. Yet since
+than at any point in that long history. dmt-containing-plants-united-states-halpern]] economy alone. Yet since
 2006, beekeepers have reported annual colony losses of thirty to forty
 percent, a rate that is unsustainable for either commercial agriculture or
 the broader ecosystem.

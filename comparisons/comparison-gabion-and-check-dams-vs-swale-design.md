@@ -3,7 +3,7 @@ title: "Gabion and Check Dams vs Swale Design"
 tags: [comparison, water-earthworks, erosion-control, permaculture, dryland]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['water-for-every-farmer']
 ---
 
 ## Gabion and Check Dams vs Swale Design

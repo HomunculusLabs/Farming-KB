@@ -3,7 +3,7 @@ title: "How Do I Start and Run a Successful Community Garden?"
 tags: [query, community-garden, urban-permaculture, urban-farming, community-building, food-security, shared-gardening, permaculture]
 date: 2026-05-20
 updated: 2026-05-20
-sources: []
+sources: ['raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md']
 ---
 
 # How Do I Start and Run a Successful Community Garden?

@@ -3,7 +3,7 @@ title: "How Do I Get Started With Home Canning to Preserve My Garden Harvest?"
 tags: [query, canning, food-preservation, home-preservation, garden-harvest]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
 ---
 
 ## How Do I Get Started With Home Canning to Preserve My Garden Harvest?

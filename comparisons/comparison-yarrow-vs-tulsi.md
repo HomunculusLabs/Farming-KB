@@ -3,7 +3,7 @@ title: "Yarrow vs Tulsi"
 tags: [comparison, medicinal-herb, adaptogen, yarrow, tulsi]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Yarrow vs Tulsi

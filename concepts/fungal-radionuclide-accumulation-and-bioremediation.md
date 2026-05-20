@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 Fungi demonstrate a remarkable capacity to accumulate radionuclides
 from contaminated environments, a property with significant implications

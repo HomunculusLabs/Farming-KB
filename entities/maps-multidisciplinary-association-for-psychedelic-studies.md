@@ -4,7 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: entity
 tags: [research, psychedelics]
-sources: []
+sources: ['raw/papers/leary-t-the-psychedelic-experience.md']
 ---
 ## MAPS (Multidisciplinary Association for Psychedelic Studies)
 

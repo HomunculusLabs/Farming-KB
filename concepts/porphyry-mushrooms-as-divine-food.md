@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, mushrooms]
-sources: []
+sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 ---
 ## Porphyry and Mushrooms as Divine Food **Source:** The Road to Eleusis, Chapter III — Carl A. P. Ruck **Updated:** 2026-04-19 ## Overview The Neoplatonic philosopher Porphyry (3rd century CE) discussed mushrooms as divine food in his writings on vegetarianism and religious practice. His testimony, preserved in fragments, provides rare direct evidence that the [[cattle-dispersal-psychoactive-fungi-australia]] as mediators between the human and divine realms.
 

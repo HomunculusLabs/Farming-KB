@@ -1,3 +1,11 @@
+---
+title: Echinacea Growing Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, permaculture, ethnobotany]
+sources: []
+---
 
 # Echinacea Growing Guide (Echinacea purpurea / E. angustifolia)
 

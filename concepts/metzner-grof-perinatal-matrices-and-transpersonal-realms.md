@@ -1,7 +1,8 @@
 ---
 title: "Metzner Grof Perinatal Matrices And Transpersonal Realms"
 tags: []
-sources: []
+sources:
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 ---
 
 The rationale was that through psycholysis, the loosening of

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [comparison, permaculture, water-management, earthworks, wind-protection]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['water-for-every-farmer']
 type: comparison
 ---
 

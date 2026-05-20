@@ -2,7 +2,7 @@
 title: "Carvacrol"
 type: entity
 tags: []
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 
 - **Origanum vulgare** (oregano): The premier natural source; carvacrol-dominated chemotypes produce essential oil containing 60–85% carvacrol. Greek and Turkish oregano cultivars are particularly valued for high carvacrol content.

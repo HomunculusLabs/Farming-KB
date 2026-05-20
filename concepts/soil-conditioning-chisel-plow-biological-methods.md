@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: permaculture, soil-health, earthworks, water-retention]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 type: concept
 ---
 Soil conditioning is the process of opening compacted soil to restore its forest-like absorption capacity. In [[soil-fungal-community-isolation-survey-methods]]

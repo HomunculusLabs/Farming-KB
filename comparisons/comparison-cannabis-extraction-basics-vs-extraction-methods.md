@@ -3,7 +3,7 @@ title: "Extraction Basics vs Extraction Methods"
 tags: [comparison, extraction, concentrates, solvents, processing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['back-to-basics']
 ---
 
 ## Extraction Basics vs Extraction Methods

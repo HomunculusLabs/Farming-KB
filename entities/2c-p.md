@@ -2,7 +2,7 @@
 title: "2C P"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The compound is distinguished among the 2C series by its exceptionally long duration of action — typically 10–16 hours — and its high potency, with active doses ranging from 6–12 mg. These characteristics make 2C-P one of the longest-lasting and most potent members of the 2C family.

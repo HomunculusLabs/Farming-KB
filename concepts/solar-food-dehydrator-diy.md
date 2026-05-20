@@ -167,5 +167,5 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 
 - [[herb-spiral-construction]] for growing herbs that can be dried in the solar dehydrator
 - [[cold-climate-gardening]] for another passive solar structure for the homestead
-## See Also
-- [[query-how-to-build-and-use-a-solar-food-dehydrator]]
+
+See also: [[comparison-solar-dehydrator-vs-electric-dehydrator]]

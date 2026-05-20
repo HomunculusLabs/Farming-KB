@@ -3,7 +3,7 @@ title: "Chaga vs Oyster Mushroom"
 tags: [comparison, chaga, oyster-mushroom, medicinal-mushrooms, mycology]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 ---
 
 ## Chaga vs Oyster Mushroom

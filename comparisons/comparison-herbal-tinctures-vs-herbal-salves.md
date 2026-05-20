@@ -3,7 +3,7 @@ title: "Herbal Tinctures vs Herbal Salves"
 tags: [comparison, herbalism, medicine, homesteading, preparation]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Herbal Tinctures vs Herbal Salves

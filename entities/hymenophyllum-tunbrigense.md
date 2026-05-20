@@ -2,7 +2,7 @@
 title: "Hymenophyllum Tunbrigense"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The family Hymenophyllaceae is one of the most ancient fern lineages, with a fossil record extending to the Carboniferous period. These ferns are characterized by their one-cell-thick laminae, which lack stomata entirely.

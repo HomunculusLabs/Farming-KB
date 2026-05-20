@@ -4,7 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [reference]
-sources: []
+sources: ['papers/savory-holistic-resource-management.md']
 ---
 ## CBD to THC Isomerization Chemistry
 

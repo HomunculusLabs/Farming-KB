@@ -3,7 +3,7 @@ title: Comparison Root Cellaring Vs Freezing
 tags: [comparison, food-preservation, root-cellar, freezing, homesteading
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md']
 ---
 
 ## Root Cellaring vs Freezing

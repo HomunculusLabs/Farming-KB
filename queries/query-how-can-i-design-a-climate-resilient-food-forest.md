@@ -20,26 +20,6 @@ sources:
   - Mollison, B. & Holmgren, D. (1978). *Permaculture One: A Perennial Agriculture for Human Settlements*. Tagari Publications.
 type: query
 ---
-
-## What Site Analysis Do I Need for Climate Risk?
-
-Before planting a single tree, understand the climate risks written into your landscape. Spend at least a full year observing through all seasons.
-
-### Key Climate Risk Factors to Map
-
-- **Frost pockets**: [[permaculture-plants-root-crops-and-tubers]] or berry bushes.
-- **Heat zones**: Identify south-facing slopes, reflected heat from structures, and full afternoon-sun areas. These are critical during heat waves but offer early-spring advantages.
-- **Flood and drought exposure**: Map seasonal water flow — where does water collect after heavy rain? Where does soil crack first in dry spells? Position water-loving species (willow, elderberry) in wet zones and drought-adapted species (carob, [[keyline-design]]
-
-For larger properties, keyline patterning (P.A. Yeomans) plows shallow subsoil channels along the "keypoint" where a valley transitions from convex to concave, spreading water from wet valleys to dry ridges.
-
-### Drought-Proofing Strategies
-
-- Prioritize **deep-rooted perennials** — they access deep moisture and improve soil structure.
-- Apply 4–6 inches of [[sheet-mulching]] and minimal-disturbance planting. Inoculate bare-root plantings with commercial products or import soil from a healthy nearby forest.
-
----
-
 ## Step-by-Step Design Process
 
 ### Step 1: Observe and Map (Months 1–12)

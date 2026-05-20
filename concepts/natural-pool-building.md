@@ -1,3 +1,11 @@
+---
+title: Natural Pool Building
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [water, sustainability, homesteading, construction, ecology, off-grid, water-management]
+sources: []
+---
 
 ## Overview
 

@@ -5,7 +5,7 @@ tags: [query, biochemistry, metabolism, epigenetics, nutrition]
 created: 2026-05-02
 updated: 2026-05-06
 type: query
-sources: []
+sources: ['raw/papers/unknown-biodiversity-of-fungi-biomass-carbon-soil-structure|biodiversity-of-fungi.md']
 ---
 
 ## Short Answer

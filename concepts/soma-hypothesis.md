@@ -92,7 +92,7 @@ Despite scholarly criticism, the Soma hypothesis has been enormously influential
 
 ## See Also
 
-- [[amanita-muscaria]] — The mushroom proposed as Soma
+- [[amanita-muscaria-guide]] — The mushroom proposed as Soma
 - [[r-gordon-wasson]] — Primary advocate of the hypothesis
 - [[john-allegro]] — Extended the hypothesis to Christianity
 - [[psychedelic-mushroom-history]] — Timeline including Soma debate
@@ -146,7 +146,7 @@ Teeter proposes that the Christian Eucharist (bread and wine) and the Holy Grail
 - **Holy Grail (terra cotta vessel):** Amanita muscaria pieces placed in a terra cotta pot with liquid food (grape juice, honey water) resurrect and grow as mycelium on the pot walls. The pot is filled, sits 6-12 hours, ambrosia is poured off and diluted for consumption. The pot then dries for 1-4 weeks and can be reused indefinitely. The fungus becomes more potent with each cycle.
 - **Resurrection:** Dried Amanita muscaria resurrects into living mycelium within 3 days when rehydrated — the author argues this biological property is the literal origin of resurrection myths in multiple religions.
 
-See [[amanita-muscaria]] for detailed preparation methods and [[entheogen-culture]] for broader context on entheogenic practices across cultures.
+See [[amanita-muscaria-guide]] for detailed preparation methods and [[entheogen-culture]] for broader context on entheogenic practices across cultures.
 
 ## Allegro's Philological Thesis
 
@@ -171,7 +171,7 @@ Allegro proposed that the Jewish Revolt of 66 AD — possibly instigated by cult
 The book was universally condemned by theologians and many scholars. His publisher withdrew it. Modern assessment is mixed: some linguistic observations have been confirmed, but the broader thesis is considered speculative. The pirated edition notes that "philology today knows he was right" (citing Piotr Michalowski in the Cambridge Encyclopedia of the World's Ancient Languages), though this is contested. Allegro's errors include misunderstanding Amanita's growth cycle, overlooking references to A. pantherina and P. cubensis, and incorrectly classifying Rue as an abortifacient rather than recognizing it as an ayahuasca analogue with Acacia.
 
 ### Significance for the Soma Debate
-Regardless of whether Allegro's specific etymologies are correct, his work demonstrates that mushroom-centered fertility cults were geographically and temporally widespread in the ancient Near East — supporting the plausibility of Wasson's Soma hypothesis and suggesting the cult may have been far more extensive than Siberia alone. See [[entheogen-culture]] and [[amanita-muscaria]].
+Regardless of whether Allegro's specific etymologies are correct, his work demonstrates that mushroom-centered fertility cults were geographically and temporally widespread in the ancient Near East — supporting the plausibility of Wasson's Soma hypothesis and suggesting the cult may have been far more extensive than Siberia alone. See [[entheogen-culture]] and [[amanita-muscaria-guide]].
 
 ## Arthur's Multi-Plant Soma Theory
 

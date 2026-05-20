@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, cannabis, flowering, photoperiod, growth-stages]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/unknown-mushrooms-fungi-from-around-the-world.md']
 type: query
 ---
 

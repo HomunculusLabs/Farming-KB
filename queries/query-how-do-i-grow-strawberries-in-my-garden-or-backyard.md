@@ -3,7 +3,7 @@ title: "How Do I Grow Strawberries in My Garden or Backyard?"
 tags: [query, strawberries, berries, fruit, perennials]
 date: 2026-05-14
 updated: 2026-05-14
-sources: []
+sources: ['raw/papers/one-straw-revolution-masanobu-fukuoka.md']
 ---
 
 ## How Do I Grow Strawberries in My Garden or Backyard?

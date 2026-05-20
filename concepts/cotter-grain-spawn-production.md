@@ -8,7 +8,7 @@ tags: [spawn-production, grain, mason-jar-preserving-guide lids
 
 Autoclavable bags with aeration filters are used for large quantities. Oven
 bags or microwavable bags work in a pinch. The preferred expansion path is
-[[double-layer-tinfoil-jar-covering-pressure-cooker-method]] or autoclave. Process at 12-15 PSI for two hours.
+double-layer-tinfoil-jar-covering-pressure-cooker-method]] or autoclave. Process at 12-15 PSI for two hours.
 
 ### Step 6: Prepare Workstation
 

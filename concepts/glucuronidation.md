@@ -5,7 +5,7 @@ tags: [biochemistry, pharmacology, toxicology, drug-metabolism, phase-ii-metabol
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources: ['domain-knowledge']
 ---
 
 Glucuronidation is a major conjugation pathway in which glucuronic acid is transferred to drugs, hormones, bilirubin, bile acids, pollutants, and other small molecules.

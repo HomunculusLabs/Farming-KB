@@ -3,7 +3,7 @@ title: "How Do I Grow and Use Goldenseal?"
 tags: [query, goldenseal, medicinal-herbs, forest-farming, herbal-medicine]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['papers/a-golden-guide-to-hallucinogenic-plants.md']
 ---
 
 ## How Do I Grow and Use Goldenseal?

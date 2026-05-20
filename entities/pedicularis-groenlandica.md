@@ -2,7 +2,7 @@
 title: "Pedicularis Groenlandica"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/williams-pdc-earthworks-pdc_-a-permaculture-design-cours.md']
 ---
 
 The species is a root hemiparasite, supplementing its photosynthesis by

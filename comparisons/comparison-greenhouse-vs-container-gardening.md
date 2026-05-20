@@ -5,7 +5,7 @@ tags: [comparison, growing-methods, protected-cultivation, gardening,
 season-extension]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['greg-green-the-cannabis-grow-bible.md']
 type: comparison
 ---
 

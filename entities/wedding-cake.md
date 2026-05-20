@@ -2,7 +2,7 @@
 title: "Wedding Cake"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 The strain won first place in the Hybrid category at the 2018 High Times Cannabis Cup in Santa Rosa, California.

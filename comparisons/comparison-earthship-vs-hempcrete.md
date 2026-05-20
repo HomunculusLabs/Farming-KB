@@ -3,7 +3,7 @@ title: "Earthship vs Hempcrete"
 tags: [comparison, natural-building, earthship, hempcrete, off-grid, sustainable-construction]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## Earthship vs Hempcrete

@@ -3,7 +3,7 @@ title: "What Are the Best Medicinal Herbs to Grow for a First Aid Garden?"
 tags: [query, medicinal-herbs, first-aid, herb-garden, permaculture]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## What Are the Best Medicinal Herbs to Grow for a First Aid Garden?

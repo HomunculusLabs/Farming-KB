@@ -1,3 +1,11 @@
+---
+title: Saving Seeds
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [homesteading, seeds, genetics, harvesting, storage, cultivation, sustainability, plants]
+sources: []
+---
 
 # Saving Seeds
 

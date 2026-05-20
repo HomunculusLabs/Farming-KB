@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, cannabis, co2, environment, indoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 type: query
 ---
 

@@ -3,7 +3,7 @@ title: "Hawthorn vs Tulsi"
 tags: [comparison, hawthorn, tulsi, adaptogens, cardiovascular, herbal-medicine]
 date: 2026-05-15
 updated: 2026-05-15
-sources: []
+sources: ['raw/papers/amanita-muscaria-herb-of-immortality.md']
 ---
 
 ## Hawthorn vs Tulsi

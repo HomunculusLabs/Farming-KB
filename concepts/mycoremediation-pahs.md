@@ -170,5 +170,5 @@ Synergistic degradation occurs when fungi and bacteria work together:
 - [[mycoremediation-of-oil-spills]] — Related petroleum contamination cleanup
 - [[mycoremediation-of-heavy-metals]] — Heavy metal biosorption
 - [[mycoremediation-pcbs-and-dioxins]] — PCB and dioxin degradation
-- [[mycorestoration]] — Broader ecological restoration framework
+- [[mycorestoration-overview]] — Broader ecological restoration framework
 - [[harbhajan-singh]] — Comprehensive mycoremediation reference

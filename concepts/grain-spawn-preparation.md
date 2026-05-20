@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, grain, preparation, workflow, recipe, inoculation]
-sources: [raw/papers/mycelium-running-stamets.md]
+sources: []
 ---
 
 ## Overview

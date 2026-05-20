@@ -3,7 +3,7 @@ title: "Earthship vs Straw Bale Construction"
 tags: [comparison, earthship, straw-bale, natural-building, off-grid]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/one-straw-revolution-masanobu-fukuoka.md']
 ---
 
 ## Earthship vs Straw Bale Construction

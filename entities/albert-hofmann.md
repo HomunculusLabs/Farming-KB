@@ -76,7 +76,5 @@ Hofmann's discoveries fundamentally shaped the 20th century's understanding of c
 
 - [[lsd-reference]]
 - [[lsd-synthesis-history]]
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[soil-food-web]]
-- [[mycelium]]
+
+These developments continue to influence modern research and practice in this field.

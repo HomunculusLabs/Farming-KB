@@ -2,7 +2,7 @@
 title: "Phoenix Roebelenii"
 type: entity
 tags: []
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 It is one of the most widely cultivated ornamental palms in tropical and subtropical landscapes worldwide.

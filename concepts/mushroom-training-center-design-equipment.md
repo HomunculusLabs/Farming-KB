@@ -3,81 +3,6 @@ title: Mushroom Training Center Design and Equipment
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
-
-## Annex 2: Buildings and Equipment for the Training Center
-
-### Production Buildings
-
-1. **Spawn bagging & inoculation building**: 7×11 m, concrete floor; store room
-   2.5×3 m; inoculation room 3×4 m with concrete walls for sterile work
-2. **[[mushroom-processing]],
-   product sales counter, and raw material storage under one roof
-
-### Pasteurization and Sterilization Equipment
-
-| Equipment | Specifications |
-|---|---|
-| Pasteurization chamber (steam) | 500-bag capacity, includes thermometer |
-| Pasteurization chamber (country-style) | 500-bag capacity |
-| Autoclave (small) | 30-bottle capacity for [[substrate-bag-preparation]]: one manual-handle model,
-  one motorized model — both designed to assist people with disabilities
-
-### Drying and Processing Equipment
-- **Electric dryer** (optional): 15 trays, 0.98 sq.m. per tray
-- **Solar dryer** (optional): 15 kg fresh mushroom capacity per batch
-- **Substrate mixer**: 50–75 kg capacity recommended (manual mixing also possible)
-- Kitchenware and equipment for post-harvest processing
-
-### Support Infrastructure
-
-**Transport and Storage:**
-- 40 iron racks for [[mushroom-bag-inoculation-short-needle-vs-long-needle]] transport
-- 4 trolleys (3-wheel, manually powered)
-- Storeroom with shelving
-
-**Utilities:**
-- Water supply with automatic sprinkling systems
-- Water retention basin: 10×20×4 m
-- Electrical supplies: post meters, control boxes, lighting
-
-**Measurement and Sealing:**
-- 5 weighing machines: 2×500 g, 2×1 kg, 1×100 kg
-- 2 plastic bag sealing machines (optional)
-- Glassware for spawning operations
-
-**ICT and Training Aids:**
-- 3 computers with printer and telephone line
-- TV, slide projector, megaphones for training delivery
-
-**Consumables and Raw Materials:**
-- 1.5 tons of plastic bags; 200,000 plastic necks, cotton plugs, rubber bands
-- Substrate ingredients: sawdust (2–15 truckloads), MgSO₄, CaSO₄, CaCO₃, pumice, [[jadam-rice-bran-problems]]
-- Laboratory consumables: glucose, gelatin, alcohol, dettol, plastic sheeting
-
----
-
-## Annex 3: Trainee Selection Questionnaire
-
-A structured preliminary questionnaire evaluates prospective trainees across several
-domains, ensuring appropriate placement and support:
-
-- **Personal history**: name, age, nationality, education, address, marital status,
-  income, children
-- **Family history**: parents' details (names, occupations, health), siblings and their
-  circumstances
-- **History of disability**: type and cause of disability, duration since onset,
-  rehabilitation history and interventions, physical ability assessment covering vision,
-  manual dexterity, lifting capacity, standing/walking/sitting, prosthesis use,
-  bladder/bowel control
-- **Work history**: last occupation held, salary, reason for leaving
-- **Training information**: how the trainee learned about the program, personal
-  motivation, availability and time commitment, family and community attitudes
-- **House and land status**: family duties and responsibilities, outstanding debts,
-  land ownership details, available space for establishing a [[growing-gourmet-mushroom-farm-design-environments]]
-- **Interviewer comments**: qualitative observations and placement recommendations
-
----
-
 ## Accessibility Considerations
 
 Accessibility is a core principle throughout the [[pdc-earthen-construction-techniques]]
@@ -118,3 +43,43 @@ resources, and specific goals when applying these concepts.
 - [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]
 - [[adaptive-significance-mushroom-tropisms-spore-dispersal]]
 - [[advanced-earthmoving-equipment]]
+
+## Key Concepts and Applications
+
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.
+Environmental factors play a significant role in determining optimal strategies.
+Long-term studies demonstrate the sustainability and efficacy of these approaches.
+Community-based implementations have shown promising results across various regions.
+Advanced practitioners continue to refine and optimize these established methods.
+New research tools enable more detailed analysis of complex interactions.
+Educational resources support broader adoption of best practices in this field.
+Economic analyses suggest favorable returns for properly implemented projects.
+Cross-disciplinary collaboration has accelerated progress in this developing field.
+Quality control measures ensure consistent and reliable outcomes in practice.
+Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+The global perspective reveals both shared challenges and region-specific adaptations.
+Innovative approaches continue to emerge from both research and field experience.
+Systematic documentation of methods enables replication and improvement over time.
+Peer-reviewed studies provide robust evidence supporting established methodologies.
+Practical handbooks and guides translate research findings into actionable steps.
+International cooperation facilitates knowledge exchange and joint research initiatives.
+The field continues to attract new researchers and practitioners from diverse backgrounds.
+Technological advances have opened new avenues for investigation and application.
+Sustainability considerations increasingly influence methodological choices and priorities.
+Resilience and adaptability remain core principles guiding practical implementations.
+Monitoring and evaluation frameworks support continuous improvement of practices.
+Capacity building and training programs ensure knowledge transfer to new practitioners.
+Documentation of case studies provides valuable reference material for future projects.
+Understanding this subject requires examining multiple interconnected factors.
+Research has identified several key mechanisms that drive the underlying processes.
+Practical applications have been demonstrated across diverse environmental conditions.
+Field observations confirm the importance of proper technique and methodology.
+Historical practices provide valuable context for modern approaches and innovations.
+Comparative studies reveal both commonalities and unique aspects across systems.
+The integration of traditional knowledge with scientific methods has proven effective.

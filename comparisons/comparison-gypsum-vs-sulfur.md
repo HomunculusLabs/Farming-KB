@@ -3,7 +3,7 @@ title: "Gypsum vs Elemental Sulfur"
 tags: [comparison, soil-amendment, gypsum, sulfur, ph-management]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources: ['raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md']
 ---
 
 ## Gypsum vs Elemental Sulfur

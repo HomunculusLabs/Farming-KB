@@ -1,3 +1,11 @@
+---
+title: Ayahuasca Brewing Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [entheogen, recipe, preparation, ethnobotany, amazon, south-america, psychopharmacology, safety, shamanism, spirituality, chemistry, beginner, methods]
+sources: []
+---
 
 # Ayahuasca Brewing Guide
 

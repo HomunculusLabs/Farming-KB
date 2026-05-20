@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [reference]
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 ## Myxomycetes (Slime Molds) — Biology, Taxonomy, and Sampling
 

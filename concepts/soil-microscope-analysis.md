@@ -1,3 +1,11 @@
+---
+title: Soil Microscope Analysis
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [soil-biology, microbes, lab-technique, soil-health]
+sources: [raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
+---
 
 # Soil Microscope Analysis
 
@@ -94,20 +102,3 @@ Direct microscopic examination of soil and compost tea is the primary tool for a
 - [[compost-tea-recipe-guide]] — for brewing AAct
 - [[thermal-composting-vs-aact]] — for comparing compost methods
 - [[soil-food-web-structure]] — for the complete soil biology hierarchy
-
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.
-Field observations and practical experience remain the most reliable guides for system optimization.

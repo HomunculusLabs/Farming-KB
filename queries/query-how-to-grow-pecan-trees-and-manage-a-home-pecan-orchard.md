@@ -3,7 +3,7 @@ title: "How Do I Grow Pecan Trees and Manage a Home Pecan Orchard?"
 tags: [query, pecan, nut-trees, orchard, permaculture]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources: ['raw/papers/working-with-agar.md']
 ---
 
 ## How Do I Grow Pecan Trees and Manage a Home Pecan Orchard?

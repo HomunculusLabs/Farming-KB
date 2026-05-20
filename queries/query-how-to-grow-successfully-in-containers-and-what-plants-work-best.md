@@ -3,7 +3,7 @@ title: "How to Grow Successfully in Containers and What Plants Work Best?"
 tags: [query, container-gardening, urban-gardening, small-space, balcony-garden, patio-garden]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How to Grow Successfully in Containers and What Plants Work Best?

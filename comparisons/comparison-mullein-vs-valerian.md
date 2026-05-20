@@ -3,7 +3,7 @@ title: "Mullein vs Valerian"
 tags: [comparison, mullein, valerian, herbal-medicine, respiratory, sedative]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources: ['raw/papers/laminar-flow-hood-construction-1.md']
 ---
 
 ## Mullein vs Valerian

@@ -21,7 +21,7 @@ radicchio, Belgian endive, and sugarloaf chicory.
 
 ## Botanical Description
 ### Growth Habit
-- **[[bloomfield-fungal-life-cycle-spiral-versus-circle]]:** Perennial (USDA zones 3-9)
+- **bloomfield-fungal-life-cycle-spiral-versus-circle]]:** Perennial (USDA zones 3-9)
 - **Height:** 30-120 cm flowering | **Spread:** 30-60 cm
 - **Root:** Deep taproot 1-2 m; thick, fleshy, penetrates
   compacted soils

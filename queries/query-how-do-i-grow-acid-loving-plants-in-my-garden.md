@@ -3,7 +3,7 @@ title: "How Do I Grow Acid-Loving Plants in My Garden?"
 tags: [query, soil-ph, ericaceous-plants, permaculture, blueberries]
 date: 2026-05-19
 updated: 2026-05-19
-sources: []
+sources: ['raw/papers/what-a-plant-knows-daniel-chamovitz.md']
 ---
 
 ## How Do I Grow Acid-Loving Plants in My Garden?
