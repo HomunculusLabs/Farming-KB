@@ -137,6 +137,9 @@ A timber frame provides the structure; the enclosure system provides the walls. 
 - **Enclosed timber frame (stick-framed wrap):** Conventional 2x walls built around the outside of the timber frame, insulated with fiberglass, cellulose, or mineral wool
 - **Structural insulated panels (SIPs):** Pre-fabricated foam-core panels attached to the outside of the frame
 
+
+## See Also
+- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 ## Tools
 
 ### Hand Tools (Traditional)
@@ -145,10 +148,3 @@ A timber frame provides the structure; the enclosure system provides the walls. 
 - **Hand saws (rip and crosscut):** Cutting timbers to length
 - **Chisels (1/4 inch to 2 inch):** Cutting mortises and tenons
 - **Mallet:** Driving chisels — use a wooden mallet to avoid damaging chisel handles
-- **Boring machine or brace and bit:** Drilling peg holes and mortises
-- **Hand plane (jack and smoothing):** Flattening and finishing surfaces
-- **Drawknife and spokeshave:** Shaping curved elements
-
-## See Also
-
-- [[comparison-bamboo-construction-vs-timber-frame-basics]]

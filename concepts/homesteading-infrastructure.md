@@ -148,4 +148,3 @@ Zone 5: Wildlife area, observation, reference ecosystem
 - [[sepp-holzer-methods]]
 - [[food-forest-design]]
 - [[cover-cropping-guide]]
-- [[homestead-energy-conservation]]

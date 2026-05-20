@@ -148,5 +148,3 @@ If you want sweet or semi-sweet cider, you must stabilize before adding sugar:
 - Extended aging (1-3+ years): gains depth and complexity. Higher-tannin ciders benefit most from aging.
 - Store at 50-60F, on their side if corked, away from light
 ## See Also
-
-- [[comparison-cider-making-vs-wine-making]]

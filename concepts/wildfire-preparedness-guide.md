@@ -139,16 +139,12 @@ Keep a packed bag for each family member and pet at all times during fire season
 - If you cannot evacuate livestock: open gates to allow them to flee, remove halters, mark animals with phone number (livestock crayon or spray paint)
 - Photograph all animals and property before fire season for insurance documentation
 
+
+## See Also
+- [[wildfire-firestorm-mechanics]]
+- [[wildfire-ecology-and-management]]
+- [[wildfire-behavior-and-firestorm-dynamics]]
 ## Insurance and Documentation
 
 - Review your homeowner's insurance annually for adequate wildfire coverage
 - Document everything: photograph all structures, contents, livestock, equipment, and infrastructure
-- Store documentation in three places: physical copy in go bag, cloud storage, and off-site physical location
-- Understand your policy's coverage for: structure, contents, additional living expenses, debris removal, and livestock
-- Keep insurance agent contact information readily available
-- Inventory all major purchases and improvements as they are made
-## See Also
-- [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]]
-- [[hurricane-preparedness-guide]]
-- [[emergency-preparedness]]
-

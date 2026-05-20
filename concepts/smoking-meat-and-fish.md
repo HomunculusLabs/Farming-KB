@@ -135,6 +135,9 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 5. After smoking, air-dry to reduce moisture to 25-35% for preservation
 6. Refrigerate or freeze after smoking
 
+
+## See Also
+- [[pressure-canning-safety]]
 ## Food Safety for Smoked Products
 
 ### Cold Smoking Risks
@@ -145,10 +148,3 @@ Cold smoking is riskier because food spends extended time in the danger zone:
 - Monitor temperature; if it exceeds 90F, move product to cooler location
 - After smoking, products should lose 20-25% of original weight through moisture loss
 - Cold-smoked fish: 2-3 weeks refrigerated, 3-6 months frozen
-- Cold-smoked meats: 1-2 weeks refrigerated, 4-6 months frozen
-
-### Hot Smoking Safety
-
-## See Also
-
-- [[faires-meat-processing-curing-and-smoking]]

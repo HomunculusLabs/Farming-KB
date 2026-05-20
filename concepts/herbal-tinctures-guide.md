@@ -137,6 +137,9 @@ Percolation produces a finished tincture in 24-48 hours instead of 4-6 weeks:
 
 Requires practice to get the drip rate right. Produces clearer, more standardized tinctures.
 
+
+## See Also
+- [[cannabis-metabolic-syndrome-research]]
 ## Dosing Guidelines
 
 Standard adult dose: 20-60 drops (1/4 to 1 dropperful), 2-4 times daily.
@@ -145,10 +148,3 @@ Standard adult dose: 20-60 drops (1/4 to 1 dropperful), 2-4 times daily.
 
 - Under 150 lbs: 20-30 drops
 - 150-200 lbs: 30-50 drops
-- Over 200 lbs: 50-60 drops
-
-### Administration
-
-## See Also
-
-- [[comparison-herbal-tinctures-vs-herbal-salves]]

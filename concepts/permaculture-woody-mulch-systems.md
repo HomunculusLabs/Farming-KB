@@ -77,3 +77,10 @@ Woody mulch from autumn leaf fall, prunings, and chipped branch wood builds soil
 - [[permaculture-forestry-systems]] -- Tree systems as mulch producers
 - [[permaculture-principle-produce-no-waste]] -- Closing loops with organic waste
 - [[permaculture-livestock-forage-systems]] -- Forage species that double as mulch
+
+Permaculture Woody Mulch Systems represents an important area of study within its domain, connecting practical applications with deeper understanding of underlying principles.
+
+## See Also
+- [[williams-pdc-plants-in-permaculture-systems]]
+- [[value-of-marginal-systems-in-permaculture]]
+- [[urban-permaculture-systems]]

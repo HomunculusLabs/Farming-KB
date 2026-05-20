@@ -139,18 +139,12 @@ Not technically drying, but freezing preserves herbs well for culinary use.
 - Taste a tiny amount — flavor should be clearly present
 - If an herb has no scent or flavor, it is past its useful life and should be composted
 
+
+## See Also
+- [[pressure-canning-safety]]
+- [[comparison-root-cellaring-vs-dehydration]]
+- [[homestead-canning-recipes]]
 ## Labeling
 
 Every container should be labeled with:
 - Herb name (common and botanical if desired)
-- Date dried or packaged
-- Source (garden location, purchased, wild-harvested)
-- Any notes on variety or use
-
-A simple label system prevents the common problem of unidentifiable dried herbs in the back of the pantry.
-
-## See Also
-
-- [[solomon-food-preservation-storage]]
-- [[mushroom-spore-printing-and-storage]]
-- [[cannabis-pollen-collection-storage-clarke]]

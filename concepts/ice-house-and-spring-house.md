@@ -102,6 +102,10 @@ With good construction and packing, expect 50-75% ice retention:
   off-grid food preservation system
 - Use food-grade glycol or brine loops to distribute cooling to other areas
 
+
+## See Also
+- [[pressure-canning-safety]]
+- [[comparison-root-cellaring-vs-dehydration]]
 ## Spring Houses
 
 A spring house is a small stone or concrete structure built over a natural
@@ -144,12 +148,3 @@ chill food stored in the structure.
   [[root-cellaring-guide|ice house]] or root cellar for complete
   preservation
 
-**Other uses:**
-- Cool storage for beverages
-- Milk cooling before processing
-- Fermentation temperature control
-
-## See Also
-
-- [[comparison-root-cellar-vs-ice-house]]
-- [[mushroom-house-construction-design]]

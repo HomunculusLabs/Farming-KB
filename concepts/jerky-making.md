@@ -131,6 +131,11 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 - Flip jerky every 2 hours
 - Total time: 4-8 hours
 
+
+## See Also
+- [[pressure-canning-safety]]
+- [[comparison-root-cellaring-vs-dehydration]]
+- [[homestead-canning-recipes]]
 ## Food Safety
 
 ### The 160F Rule
@@ -143,15 +148,3 @@ Methods to achieve this:
 - Post-dry in an oven at 275F (135C) for 10 minutes after dehydrating
 
 ### Moisture and Spoilage
-
-- Jerky should be dry but not brittle
-- Properly dried jerky should bend and crack, not snap
-- Any moisture remaining promotes mold growth
-- Test: take a piece, bend it — if it cracks but does not break, it is done
-- If it is spongy or flexible without cracking, it needs more time
-
-## See Also
-
-- [[candle-making]]
-- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]
-- [[wine-making-from-grapes]]

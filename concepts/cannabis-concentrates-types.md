@@ -75,6 +75,10 @@ Rosin is produced by applying heat and pressure to cannabis flower or hash using
 - **Hash**: 160-200 F, 2-10 tons, 30-120 seconds
 - **Live hash**: 150-180 F, 3-15 tons, 30-90 seconds
 
+
+## See Also
+- [[cannabis-metabolic-syndrome-research]]
+- [[cannabis-reefers-and-tincture-preparation]]
 ## Solvent-Based Concentrates
 
 ### Shatter
@@ -144,12 +148,3 @@ A highly refined, nearly pure cannabinoid extract that has been stripped of near
 
 **Characteristics**:
 - Clear, thick, honey-like liquid
-- Potency: 85-99% THC or CBD
-- Nearly tasteless and odorless (terpenes removed)
-- Base ingredient for vape cartridges, edibles, and tinctures
-- Terpenes are often re-added (botanical or cannabis-derived) for flavor
-
-## See Also
-
-- [[blesching-cannabis-resin-preparations-kief-hashish-concentrates]]
-- [[cannabis-concentrates-and-extracts]]

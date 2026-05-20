@@ -137,6 +137,9 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 - Monitor weather radio for storm updates
 - Keep your emergency supplies in your shelter room
 
+
+## See Also
+- [[mollison-hurricane-and-cyclone-resilient-design]]
 ## Protecting Livestock and Animals
 
 - Evacuate livestock early — trailers cannot be safely towed in hurricane winds
@@ -145,10 +148,3 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 - Do not leave animals in pastures that may flood from storm surge or rainfall
 - Tag or mark all animals with identification
 - Have veterinary first aid supplies ready (see [[homestead-first-aid-guide]])
-- After the storm, check animals for injuries and provide clean water immediately
-
-## Recovery After Hurricane
-
-## See Also
-
-- [[mollison-hurricane-and-cyclone-resilient-design]]

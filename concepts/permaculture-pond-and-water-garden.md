@@ -148,10 +148,3 @@ Stock approximately 1 inch of fish per square foot of surface area in an unfilte
 
 - Remove excess algae by hand or with barley straw
 - Thin plants as needed to prevent the pond from becoming choked
-- Top up water during dry periods
-- Clean out debris in autumn if excessive leaf fall is a problem
-- Monitor water quality; clear water with balanced plant life indicates a healthy pond
-
-## See Also
-
-- [[permaculture-water-design-checklist]]

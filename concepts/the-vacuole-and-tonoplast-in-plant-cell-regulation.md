@@ -148,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[lowenfels-rhizosphere-bacteria-plant-interaction]]
 - [[phytochrome-and-plant-photoperiodism]]
 - [[plant-fungal-signaling-mycorrhiza]]
-- [[plant-life-rhythms-pulsatory-growth]]

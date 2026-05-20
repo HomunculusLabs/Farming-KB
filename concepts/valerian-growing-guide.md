@@ -142,14 +142,9 @@ Harvesting method:
 4. Shake off excess soil; do not wash roots until ready to process (moisture
    promotes mold during storage)
 
-## Processing and Storage
-
-- Wash roots thoroughly, removing all soil
-- Cut larger roots into 1/4 inch slices; smaller roots can be left whole
-- For tincturing: Process fresh roots immediately into alcohol
-- For drying: Spread pieces on screens in a warm, well-ventilated area
 
 ## See Also
+- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
+- [[fukuoka-straw-mulch-system]]
+## Processing and Storage
 
-- [[growing-gourmet-hypholoma-capnoides-cultivation]]
-- [[green-cannabis-ph-management-cannabis-growing]]

@@ -148,9 +148,3 @@ From Cho's recipe book — four principles for choosing FMC ingredients:
 3. **Avoid agricultural by-products** (chemically treated residues)
 4. **Microbe food = human food = plant food**: choose high-quality diverse materials
 
-Good additions: bush clover (with flowers), immature beans, clover at flowering, green tea powder, citron, mountain fruits, flower pollen, seaweed, broccoli, spinach, Japanese mugwort. These provide vitamins (supportive enzymes), minerals, and proteins that enhance disease resistance and crop quality.
-
-## See Also
-
-- [[cho-fermented-mixed-compost-methods]]
-- [[knf-fermented-mixed-compost]]

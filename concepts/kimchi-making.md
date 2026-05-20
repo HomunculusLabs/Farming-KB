@@ -144,15 +144,7 @@ Refrigeration at any point slows fermentation dramatically. Kimchi keeps in the 
 - Fermentation increases bioavailability of nutrients
 - Supports gut microbiome health
 
-## Troubleshooting
-
-- Too salty — rinse cabbage more thoroughly during brining, or reduce brining time
-- Too watery — cabbage was not drained long enough, or not packed tightly enough
-- White film on surface (kahm yeast) — harmless; skim it off, ensure vegetables are submerged
-- Mold (fuzzy, colored growth) — if localized, remove affected portion and surrounding area; if widespread, discard
-- Too sour — expected with long fermentation; use for cooking instead of eating fresh
-- Not fermenting — room temperature too cold, salt concentration too high, or chlorinated water
 
 ## See Also
-
-- [[candle-making]]
+- [[honey-oil]]
+## Troubleshooting

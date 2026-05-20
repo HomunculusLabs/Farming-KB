@@ -141,16 +141,10 @@ Tinctures can be flavored with:
 - **Terpenes**: Add strain-specific or botanical terpenes for flavor and effect enhancement
 - **Cinnamon, ginger, or chamomile**: Steep with the cannabis during extraction
 
+
+## See Also
+- [[cannabis-metabolic-syndrome-research]]
+- [[cannabis-reefers-and-tincture-preparation]]
 ## Storage
 
 - Store all tinctures in dark glass bottles (amber or cobalt)
-- Keep in a cool, dark place
-- Alcohol tinctures: shelf stable at room temperature for 1-2 years
-- Glycerin tinctures: 6-12 months at room temperature
-- MCT oil tinctures: 3-6 months; do not refrigerate
-- Label with strain, date, estimated potency, and solvent type
-
-## See Also
-
-- [[cervantes-cannabis-tinctures]]
-- [[lemon-cannabis-alchemy-tinctures-and-edibles]]

@@ -139,16 +139,12 @@ Bamboo flooring is commercially available as tongue-and-groove strips. It is har
 ### Scaffolding
 Bamboo scaffolding is still standard in many parts of Asia. Lightweight, strong, and quickly assembled. Use lashings rather than bolts for flexibility.
 
+
+## See Also
+- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
+- [[fukuoka-straw-mulch-system]]
 ## Limitations
 
 - Durability: Even treated bamboo has a shorter lifespan than treated timber (15-30 years vs. 50+ years)
 - Moisture sensitivity: Swells and can split when wet; shrinks when dry
 - Fire resistance: Low — bamboo burns easily without fire-retardant treatment
-- Standardization: Each pole is unique in diameter and wall thickness — engineering requires flexibility
-- Climate restriction: Best suited for tropical and subtropical regions; temperate-zone species are smaller
-- Code compliance: Building codes rarely address bamboo — may require engineering approval
-
-## See Also
-
-- [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]]
-- [[fungal-building-material-deterioration]]

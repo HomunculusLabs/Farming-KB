@@ -129,6 +129,10 @@ sheep, goats, pigs, and cattle).
 - If contamination occurs, wash with clean, cold water immediately.
 - Work quickly to cool the carcass.
 
+
+## See Also
+- [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
+- [[quail-husbandry-detailed]]
 ## Cutting and Wrapping
 
 ### Chilling
@@ -144,12 +148,3 @@ sheep, goats, pigs, and cattle).
   leg, ham (pork).
 - **Sub-primal cuts:** Break primals into roasts, steaks, chops, stew meat,
   and ground meat.
-- **Cutting order:** Remove legs first, then separate chuck/shoulder from
-  rib/loin, then break individual cuts.
-- **Ground meat:** Trim and grind trimmings. Mix with fat (pork fat or
-  beef fat) for proper consistency. 80/20 or 75/25 lean-to-fat ratio.
-
-## See Also
-
-- [[animal-harvest-and-processing]]
-- [[animal-tractoring]]

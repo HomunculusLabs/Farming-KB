@@ -143,15 +143,8 @@ Super cropping is a high-stress technique that involves crushing the inner tissu
 - Over-stressing the plant if performed on multiple branches simultaneously
 - Not suitable for thin or young stems
 
-## Combination Approaches
-
-Experienced growers often combine techniques:
-
-- **ScROG + LST**: Use LST to train branches into the screen
-- **Main-line + ScROG**: Manifold the plant, then ScROG the resulting branches
-- **Topping + LST + Defoliation**: Top for structure, LST for canopy evenness, defoliate for airflow
 
 ## See Also
-
-- [[cannabis-sativa-indoor-training-techniques]]
-- [[deep-water-culture-cannabis-training-techniques]]
+- [[cannabis-metabolic-syndrome-research]]
+- [[cannabis-reefers-and-tincture-preparation]]
+## Combination Approaches

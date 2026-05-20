@@ -134,6 +134,10 @@ Even branched drain systems benefit from a simple surge tank:
 
 Without a surge tank, a 50-gallon bathtub draining in 5 minutes can overwhelm mulch basins designed for slow percolation.
 
+
+## See Also
+- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
+- [[winter-harvest-tools-equipment-suppliers]]
 ## Legal Considerations
 
 Greywater regulations vary enormously by jurisdiction:
@@ -144,12 +148,3 @@ Greywater regulations vary enormously by jurisdiction:
 
 **Common regulatory requirements:**
 - System must be entirely subsurface (no surface pooling or spray)
-- Minimum setback distances from property lines, wells, and surface water
-- No kitchen grease water without additional treatment
-- System must not create a nuisance (odor, breeding mosquitoes)
-- Professional design may be required for systems above a certain volume
-
-## See Also
-
-- [[comparison-composting-toilets-vs-greywater-systems-detailed]]
-- [[greywater-systems-and-domestic-water-conservation]]

@@ -141,15 +141,10 @@ faster but cannot breed naturally.
   heavier breast meat).
 - Breast meat is 30-35% of carcass weight.
 
+
+## See Also
+- [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
+- [[quail-husbandry-detailed]]
 ## Breeding
 
 - Heritage turkeys breed naturally. Broad-breasted require AI.
-- Turkey breeding season: March-June, triggered by increasing daylength.
-- Toms display (strut, fan tail, gobble) to attract hens.
-- Mating ratio: 1 tom per 8-10 hens.
-- Hens lay 10-15 eggs per clutch, may lay 40-100 per season.
-
-## See Also
-
-- [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]]
-- [[rabbit-husbandry]]

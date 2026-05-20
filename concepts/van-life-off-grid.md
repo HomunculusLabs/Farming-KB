@@ -142,17 +142,9 @@ A 200W solar array with 100Ah LiFePO4 battery handles this budget comfortably in
 - Propane instant water heater (more complex but convenient)
 - Heat water on stove and transfer to shower bag
 
-## Composting Toilet
-
-Essential for off-grid van living. See [[off-grid-waste-management|waste management]] for detailed comparison.
-
-**Popular Options:**
-- Nature's Head: Most proven, urine diverter, 12V vent fan
-- Separett Villa: Looks like a regular toilet, urine diverter, 12V
-- OGO: Fully electric, agitation, 12V
-- Chead (DIY): Build your own with 5-gallon bucket and urine diverter kit
 
 ## See Also
+- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
+- [[winter-harvest-tools-equipment-suppliers]]
+## Composting Toilet
 
-- [[cotter-off-grid-mushroom-cultivation]]
-- [[off-grid-electricity-basics]]

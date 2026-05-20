@@ -140,18 +140,11 @@ or kill a queen they do not accept.
   7 days
 - Ensure the colony has adequate food during the introduction period
 
+
+## See Also
+- [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
+- [[quail-husbandry-detailed]]
+- [[hemenway-chicken-tractor-and-poultry-integration]]
 ## Selecting Breeder Stock
 
 The quality of your queens depends on the genetics of the breeder colony.
-Select for:
-- Gentle temperament
-- High honey production
-- Good winter survival
-- Low Varroa mite loads (VSH or hygiene traits)
-- Resistance to brood diseases
-
-## See Also
-
-- [[oner-jack-the-ripper-jacks-cleaner-space-queen]]
-- [[oner-jack-the-ripper-jacks-cleaner-space-queen-tga-subcool]]
-- [[queen-inamullo]]

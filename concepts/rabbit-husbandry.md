@@ -146,7 +146,5 @@ fertilizer that can be applied directly without [[composting]].
 - Yield: approximately 60% dress-out (live to hanging weight).
 - See [[animal-harvest-and-processing]] for detailed processing procedures.
 
-## Tanning Hides
 ## See Also
-- [[rabbit-husbandry-basics]]
-
+- [[mushroom-processing-recipes-waste-management]]

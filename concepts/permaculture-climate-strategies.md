@@ -148,7 +148,3 @@ From Mollison's detailed treatment:
 - Used for frost-sensitive species, early vegetables, and livestock shelters
 
 ### Frost Pocket Management
-
-## See Also
-
-- [[mollison-climate-zones-permaculture-strategies]]

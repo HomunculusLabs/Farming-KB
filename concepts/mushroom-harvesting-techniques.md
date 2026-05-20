@@ -123,6 +123,9 @@ For any drying method, fan-drying for 24-48 hours before using a dehydrator or d
 3. After 24-48 hours, the mushrooms will have lost 60-80% of their water content and will feel leathery but not cracker dry.
 4. Transfer to a dehydrator or desiccant chamber for final drying.
 
+
+## See Also
+- [[mushroom-toxins-and-poisoning]]
 ## Storage
 
 ### Short-Term Storage (Weeks to Months)
@@ -145,8 +148,3 @@ Psilocybin degrades through oxidation, exposure to UV light, and heat:
 - **Light**: UV light accelerates degradation. Store in opaque containers or dark locations.
 - **Heat**: Elevated temperatures accelerate chemical degradation. Store below 70F (21C).
 - **Moisture**: Residual moisture promotes enzymatic degradation. Ensure cracker-dry before storage.
-
-### Expected Shelf Life
-## See Also
-- [[mushroom-crop-sustaining-flushing-watering-harvesting]]
-

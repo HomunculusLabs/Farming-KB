@@ -148,9 +148,3 @@ Soil organisms consume 10 to 50 times more carbon than nitrogen. A
 too-rich nitrogen fuel from pure legumes can actually deplete more
 organic matter than the cover crop adds. Balance species in mixes for
 optimal nutrient timing — legume-grass blends typically hit 15-25:1.
-
-## See Also
-
-- [[cover-crops-green-manures]]
-- [[green-manures-and-cover-crops]]
-- [[jeavons-green-manures-cover-crops]]

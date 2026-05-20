@@ -148,5 +148,3 @@ Research-validated results of [[mycorrhizal-inoculation]] on specific crops. Eac
 
 - [[mycorrhizal-fungi]] — Biological overview
 ## See Also
-
-- [[mycorrhizal-crop-rotation-guide]]

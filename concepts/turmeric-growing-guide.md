@@ -138,6 +138,9 @@ Harvesting method:
 4. Gently separate rhizomes from the root ball
 5. Save the best rhizomes with healthy buds for next year's planting stock
 
+
+## See Also
+- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 ## Processing
 
 Fresh use:
@@ -145,10 +148,3 @@ Fresh use:
 - Peel with a spoon or vegetable peeler
 - Grate, slice, or juice
 - Add to curries, smoothies, teas, and golden milk
-
-Drying:
-- Slice rhizomes 1/8-1/4 inch thick
-
-## See Also
-
-- [[growing-gourmet-hypholoma-capnoides-cultivation]]

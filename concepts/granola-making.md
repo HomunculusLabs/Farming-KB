@@ -138,20 +138,13 @@ Add after baking to prevent burning and drying out.
 - Let cool completely before breaking apart — warm granola falls apart
 - Add an egg white (beaten) to the wet ingredients for extra-binding clusters
 
+
+## See Also
+- [[honey-oil]]
+- [[cannabis-honey-oil-production]]
+- [[fungal-solid-state-fermentation-agricultural-waste]]
 ## Customizing
 
 ### Flavor Profiles
 
 - Maple Pecan: maple syrup, pecans, cinnamon, vanilla, a pinch of nutmeg
-- Coconut Almond: coconut oil, coconut flakes, almonds, coconut extract
-- Chocolate Peanut: cocoa powder, peanuts, chocolate chips (added after cooling)
-- Apple Pie: dried apples, cinnamon, nutmeg, a pinch of allspice
-- Ginger Molasses: molasses, crystallized ginger, cinnamon, cloves
-- Honey Walnut: honey, butter, walnuts, a pinch of sea salt flakes on top
-- Citrus Pistachio: orange zest, pistachios, cardamom, honey
-
-## See Also
-
-- [[candle-making]]
-- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]
-- [[jerky-making]]

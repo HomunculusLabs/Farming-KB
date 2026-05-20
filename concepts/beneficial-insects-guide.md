@@ -123,6 +123,10 @@ Large, hairy flies that parasitize caterpillars, beetles, and bugs. Females lay 
 - **How to attract**: Plant dill, fennel, buckwheat, and clover for adult nectar
 - **Identification**: Resemble houseflies but with bristly bodies. Look for small white eggs glued to the backs of caterpillars.
 
+
+## See Also
+- [[2c-b-psychedelic-empathogen-guide]]
+- [[aact-applications-guide-ingham]]
 ## Pollinators
 
 ### Honeybees (Apis mellifera)
@@ -144,12 +148,3 @@ Over 4,000 species of native bees in North America. Many are more efficient poll
 
 - **Provide continuous bloom**: Plant flowers that bloom from early spring through late fall
 - **Plant native species**: Native bees co-evolved with native plants and are most attracted to them
-- **Provide nesting habitat**: Leave some bare ground for ground-nesting bees; provide hollow stems, dead wood, and mason bee houses for cavity nesters
-- **Avoid pesticides**: Even organic pesticides can harm bees. Apply sprays only in the evening when bees are not foraging.
-- **Provide water**: A shallow dish with pebbles (bees need landing platforms) provides drinking water
-- See [[insectary-plantings]] for detailed plant lists
-
-## See Also
-
-- [[gaias-garden-beneficial-insects-pest-management]]
-- [[beneficial-insects-pollinators]]

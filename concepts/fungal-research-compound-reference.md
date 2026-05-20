@@ -148,5 +148,3 @@ Gram-scale synthesis of psilocin and psilocybin without chromatographic purifica
 
 | Step | Transformation | Conditions | Yield |
 ## See Also
-
-- [[marine-fungal-ecology-research]]

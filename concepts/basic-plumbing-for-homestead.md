@@ -111,6 +111,11 @@ Rigid plastic piping for drainage and (CPVC only) hot water supply.
 - Set temperature to 120°F to prevent scalding and save energy
 - Flush the tank annually to remove sediment buildup
 
+
+## See Also
+- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
+- [[winter-harvest-tools-equipment-suppliers]]
+- [[mushroom-vs-toadstool-terminology]]
 ## Troubleshooting Common Problems
 
 ### Low Water Pressure
@@ -143,14 +148,3 @@ Rigid plastic piping for drainage and (CPVC only) hot water supply.
 - Start from the faucet end and work toward the frozen section
 - Once thawed, inspect for cracks or splits that may have occurred
 
-### Dripping Faucets
-
-- Compression faucets: Replace the rubber seat and washer
-- Cartridge faucets: Replace the entire cartridge
-- Ceramic disk faucets: Replace the ceramic cartridge
-
-## See Also
-
-- [[basic-electrical-for-homestead]]
-- [[homestead-tool-maintenance]]
-- [[homestead-record-keeping]]

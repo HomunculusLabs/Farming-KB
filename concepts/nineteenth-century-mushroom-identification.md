@@ -77,3 +77,10 @@ See also: [[edible-wild-mushrooms-by-region]] | [[mushroom-poisoning-guide]] | [
 ## Related
 
 - [[mushroom-toxicology-palmer-theory]]
+
+Nineteenth Century Mushroom Identification represents an important area of study within its domain, connecting practical applications with deeper understanding of underlying principles.
+
+## See Also
+- [[nineteenth-century-mushroom-cultivation]]
+- [[nineteenth-century-mushroom-cellars]]
+- [[toadstool-eating-mushroom-identification-history]]

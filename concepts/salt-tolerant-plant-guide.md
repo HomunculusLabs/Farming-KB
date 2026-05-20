@@ -77,3 +77,10 @@ Companions to saltbushes, native to Australia.
 - [[difficult-site-planting]]
 - [[water-plant-guide]]
 - permaculture plant selection guide
+
+Salt Tolerant Plant Guide represents an important area of study within its domain, connecting practical applications with deeper understanding of underlying principles.
+
+## See Also
+- [[yarrow-plant-guide]]
+- [[water-plant-guide]]
+- [[salt-tolerant-trees-and-shrubs-permaculture]]

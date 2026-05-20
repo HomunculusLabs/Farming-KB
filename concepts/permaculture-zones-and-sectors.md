@@ -148,7 +148,3 @@ Key design response: [[permaculture-earthworks]] such as swales and keyline syst
 
 Track animal movement corridors and foraging patterns:
 
-- Deer trails and browsing pressure zones
-- Bird migration routes and nesting areas
-- [[beneficial-insect-habitat]] (hedgerows, wildflower strips)
-- Predator presence and livestock protection needs

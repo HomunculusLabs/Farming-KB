@@ -142,14 +142,9 @@ Ventilation is the most important cold frame management task:
 | October | Sow overwintering crops (spinach, mache, garlic) |
 | November-December | Harvest fall crops; close lid at night |
 
-## Maintenance
-
-- **Clean the lid:** Dirty glazing reduces light transmission by 20-40%. Wash periodically with mild soap and water.
-- **Check seals:** Replace weatherstripping around the lid if you notice gaps where heat escapes
-- **Replace the covering:** Poly film lasts 1-2 seasons; polycarbonate lasts 10+ years; old windows may need re-puttying
-- **Refresh the soil:** Add 1-2 inches of compost each spring before replanting
 
 ## See Also
+- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
+- [[fukuoka-straw-mulch-system]]
+## Maintenance
 
-- [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
-- [[comparison-cold-frame-gardening-vs-container-gardening-guide]]

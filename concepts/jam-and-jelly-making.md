@@ -140,15 +140,11 @@ If any element is out of balance, the jam will not set properly.
 - Stevia and monk fruit do not provide the preservative and textural benefits of sugar; use with calcium-activated pectin
 - Sugar-free jam has shorter shelf life and softer set; always refrigerate
 
-## Common Problems
-
-- Jam does not set: insufficient pectin, acid, or sugar; undercooking; wrong pectin-to-fruit ratio. Remake by recooking with additional pectin.
-- Jam is too stiff: too much pectin or overcooking. Thin with water or fruit juice and re-can.
-- Jam is too dark: overcooking or excessive sugar. Use lower heat and shorter cooking time.
-- Fruit floats to top: fruit was not cooked long enough before canning; mixture was not stirred after filling jars. Turn jars occasionally during cooling.
-- Mold on surface: indicates improper seal or insufficient processing; discard the entire jar (mold can produce [[mycotoxins]] below the surface).
-- Crystallization: too much sugar or sugar not fully dissolved. Ensure sugar is fully dissolved during cooking.
 
 ## See Also
+- [[pressure-canning-safety]]
 
+## See Also
 - [[query-how-do-i-make-jam-and-jelly-at-home]]
+## Common Problems
+

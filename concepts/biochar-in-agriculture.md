@@ -148,5 +148,3 @@ Biochar pores provide refuge for beneficial bacteria, fungi, and protozoa. The p
 
 ### pH Buffering
 ## See Also
-
-- [[biochar-in-regenerative-agriculture]]

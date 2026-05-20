@@ -140,13 +140,11 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 - **Strong flavor** — More pronounced with age; young turnips are milder
 - **Rapid softening** — Turnips lose quality faster than carrots or beets
 
+
+## See Also
+- [[root-cross-section-anatomy-and-mucilage]]
 ## Rutabaga Storage (Brassica napus)
 
 ### Ideal Conditions
 - Temperature: 32-35F
 - Humidity: 90-95%
-- Darkness: Important
-- Ventilation: Good
-## See Also
-- [[vegetable-storage-conditions-by-temperature-and-humidity]]
-

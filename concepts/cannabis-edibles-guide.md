@@ -139,20 +139,12 @@ CBD does not produce psychoactive effects at any reasonable dose:
 - **Strong**: 30-60 mg
 - **Therapeutic**: Up to 100+ mg (for epilepsy, severe pain)
 
+
+## See Also
+- [[cannabis-metabolic-syndrome-research]]
 ## Common Edible Recipes
 
 ### Cannabutter Cookies
 
 - Use cannabutter in place of regular butter in any cookie recipe
 - Standard batch of 24 cookies with 1 cup cannabutter at ~125 mg THC per cup = ~5 mg THC per cookie
-
-### Cannabis-Infused Gummies
-
-- Use cannabis tincture or infused coconut oil mixed with gelatin, fruit juice, and sweetener
-- Pour into silicone molds
-- Refrigerate to set
-- Each gummy can be precisely dosed
-
-## See Also
-
-- [[lemon-cannabis-alchemy-tinctures-and-edibles]]

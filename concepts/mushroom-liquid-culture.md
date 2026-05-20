@@ -130,6 +130,10 @@ LC can be expanded by transferring a small amount to fresh medium:
 - **Growth timeline**: Visible mycelium appears in 3-7 days. Full colonization (opaque, cloudy appearance with floating mycelial balls) takes 10-21 days depending on inoculation method and conditions.
 - **Light**: Not required. Incubate in darkness or ambient light.
 
+
+## See Also
+- [[oyster-mushroom-spawn-preparation]]
+- [[permaculture-edge-theory-and-harmonics]]
 ## Using Liquid Culture
 
 Once the LC is fully colonized (cloudy white with visible mycelial masses):
@@ -144,10 +148,3 @@ Once the LC is fully colonized (cloudy white with visible mycelial masses):
 - **Speed**: Living mycelium begins growing immediately. No germination phase.
 - **Multiple inoculation points**: The liquid distributes across the grain, creating many starting points for colonization.
 - **Lower contamination rate**: The large amount of living mycelium outcompetes most contaminants.
-- **Expandability**: One LC jar can inoculate 20-50 grain jars.
-
-## Contamination in Liquid Culture
-## See Also
-- [[comparison-mushroom-liquid-culture-vs-spore-syringe]]
-- [[query-how-to-make-liquid-culture-for-mushroom-cultivation]]
-

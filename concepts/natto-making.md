@@ -139,16 +139,9 @@ Traditional serving:
 - Serve over steamed rice (natto gohan)
 - Add raw egg (tamago kake gohan style) for extra richness
 
-Other uses:
-- Natto sushi rolls (natto maki)
-- Mixed with okra or kimchi for extra texture
-- Natto spaghetti (natto pasta)
-- On toast or crackers
-- Blended into smoothies (for the adventurous)
-
-## Nutritional Profile
 
 ## See Also
-
-- [[candle-making]]
-- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]
+- [[kimchi-making]]
+- [[bacillus-subtilis]]
+- [[hot-sauce-making]]
+- [[mason-jar-preserving-guide]]

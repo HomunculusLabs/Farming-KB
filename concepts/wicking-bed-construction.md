@@ -139,17 +139,12 @@ The growing medium sits on top of the wicking medium:
 - Tall plants on the north side (to avoid shading), short plants on the south
 - Consider [[companion-planting]] for pest management and efficient space use
 
+
+## See Also
+- [[wicking-bed-materials-construction-variants]]
+- [[wicking-bed-crop-selection-seasonal-management]]
 ## Maintenance
 
 - **Check water level weekly:** Lift the fill pipe cap and look inside, or insert a dipstick
 - **Top-dress with compost:** Apply 1-2 inches of compost each season
 - **Replace soil:** Every 2-3 years, replace the top few inches of soil with fresh compost-soil mix
-- **Clean reservoir:** Every 1-2 years, drain and flush the reservoir to remove sediment buildup
-- **Winter:** In freezing climates, drain the reservoir before hard freezes to prevent ice damage
-
-## Water Efficiency
-
-## See Also
-
-- [[wicking-bed-materials-construction-variants]]
-- [[wicking-bed-crop-selection-seasonal-management]]

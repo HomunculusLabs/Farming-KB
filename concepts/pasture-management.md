@@ -148,5 +148,3 @@ plant and soil health.
 - Tall fescue and orchardgrass stockpile well. Strip-graze with temporary
   fencing to minimize waste. Can reduce winter hay feeding 30-60 days.
 ## See Also
-
-- [[comparison-silvopasture-systems-vs-pasture-management]]

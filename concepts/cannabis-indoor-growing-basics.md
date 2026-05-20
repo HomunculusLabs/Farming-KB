@@ -148,5 +148,3 @@ Training methods and spacing: Natural growth 1 plant per 2-3 sq ft, LST 1 per 2 
 - Harvesting too early, not monitoring pH in coco/hydro systems
 
 ## Related
-
-- [[cannabis-seed-germination]]

@@ -148,6 +148,3 @@ A richer medium for fastidious species:
 
 1. Allow sterilized media to cool to approximately 50-55°C (comfortable to touch but still liquid)
 2. Pour 20-25 mL into each sterile Petri dish inside a [[laminar-flow-hood]]
-3. Cover immediately and allow to solidify (15-30 minutes)
-4. Invert plates and store at room temperature; use within 2-4 weeks
-5. Before use, check for contamination -- any plates showing microbial growth should be discarded

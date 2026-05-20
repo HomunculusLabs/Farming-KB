@@ -141,12 +141,10 @@ Earthquakes can disrupt utilities (water, gas, electricity, sewage) for days to 
 - Include extra trauma supplies: splints, tourniquet, hemostatic gauze
 - Prescription medications (30-day minimum supply)
 
+
+## See Also
+- [[williams-pdc-disaster-preparedness]]
 ## During an Earthquake
 
 **Drop, Cover, and Hold On:**
 1. DROP to your hands and knees
-2. Take COVER under a sturdy desk or table
-3. HOLD ON until the shaking stops
-## See Also
-
-- [[wildfire-preparedness-guide]]

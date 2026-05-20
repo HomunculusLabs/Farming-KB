@@ -137,6 +137,9 @@ Easily leached from sandy soils. The ore of boron is borax (Na2B4O7).
 
 More commonly a concern than deficiency. Excess chlorine causes yellowing of leaf margins, particularly in older leaves. Can occur from irrigation with saline water or excessive chloride-based fertilizers.
 
+
+## See Also
+- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 ## Molybdenum (Mo)
 
 ### Functions
@@ -145,11 +148,3 @@ More commonly a concern than deficiency. Excess chlorine causes yellowing of lea
 - **Nitrogen fixation:** Essential for Rhizobia and Frankia bacteria to fix atmospheric nitrogen in root nodules of legumes
 
 ### Deficiency Symptoms
-
-- Chlorosis in older leaves (molybdenum is mobile)
-- "Whiptail" -- leaf curling caused by nitrate buildup when molybdenum is insufficient for nitrogen processing
-
-## See Also
-
-- [[plant-micronutrients-and-their-essential-functions]]
-- [[plant-macronutrient-functions]]

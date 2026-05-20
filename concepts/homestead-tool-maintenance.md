@@ -130,6 +130,10 @@ Maintain a consistent angle between the blade and the stone. Common angles:
 - Japanese pull saws: Cannot be resharpened easily — replace when dull
 - Bow saws: Replace blades when dull (inexpensive)
 
+
+## See Also
+- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
+- [[winter-harvest-tools-equipment-suppliers]]
 ## Oiling Handles
 
 Wooden handles require periodic oiling to prevent drying, cracking, and splintering.
@@ -144,12 +148,3 @@ Wooden handles require periodic oiling to prevent drying, cracking, and splinter
 
 ### Tung Oil
 
-- Natural, food-safe finish
-- Penetrates deeply, water-resistant
-- More expensive than linseed oil
-- Reapply annually
-
-## See Also
-
-- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]
-- [[homestead-record-keeping]]

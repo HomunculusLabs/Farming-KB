@@ -132,6 +132,9 @@ Alis is a traditional earthen finish coat from the American Southwest, used on a
 - Cactus juice acts as a natural binder and waterproofing agent
 - Easy to repair and reapply
 
+
+## See Also
+- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 ## Tadelakt
 
 Tadelakt is a waterproof lime plaster technique originating from Morocco. It produces a smooth, polished, water-resistant surface suitable for showers, sinks, and exterior walls in wet climates.
@@ -145,12 +148,3 @@ Tadelakt is a waterproof lime plaster technique originating from Morocco. It pro
 ### Process
 
 1. Apply lime plaster in thin coats (1/8 inch) to a smooth substrate
-2. Allow to cure for several days until firm but still slightly damp
-3. Smooth with a wooden or stone trowel, then compress with a hard plastic trowel
-4. Apply black soap diluted in water with a rag
-5. Burnish vigorously with a smooth stone or agate
-6. Repeat soap and burnishing passes until the surface is waterproof and polished
-
-## See Also
-
-- [[fukuoka-sowing-natural-culture-community-and-green-earth-vision]]

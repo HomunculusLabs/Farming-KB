@@ -136,6 +136,9 @@ The liquid effluent from a biogas digester is an excellent fertilizer:
 
 Application rate: dilute 1:3 to 1:5 with water and apply to garden beds, fruit trees, or pasture. Avoid applying to crops intended for raw consumption within 30 days of harvest.
 
+
+## See Also
+- [[biogas-digesters-and-anaerobic-digestion-systems]]
 ## Gas Storage and Use
 
 ### Storage
@@ -145,8 +148,3 @@ Application rate: dilute 1:3 to 1:5 with water and apply to garden beds, fruit t
 - 1 cubic meter of biogas = roughly 2 hours of cooking on a single-burner stove
 
 ### Use Options
-
-- Cooking (primary use, modified LPG stove), lighting (mantle lamps), space/water heating, and small-scale electricity generation (requires H2S removal)
-## See Also
-
-- [[comparison-biogas-digester-basics-vs-rocket-stove-design]]

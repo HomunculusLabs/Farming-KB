@@ -62,3 +62,21 @@ About half an hour after ingestion, the first effects are felt: strange intoxica
 
 - [[hallucinogenic-plants-of-the-world]] -- broader survey of psychoactive flora
 - amanita muscaria preparation methods -- preparation of another entheogen
+
+## Practical Considerations
+
+Understanding peyote and psychoactive cacti requires attention to both theoretical frameworks and hands-on implementation approaches.
+Practitioners benefit from studying related methods and integrating knowledge from complementary disciplines.
+Field experience and controlled observation remain essential for developing expertise in this area.
+
+## Historical Context
+
+The development of knowledge in this area has been shaped by decades of research and practical experimentation.
+Early pioneers established foundational principles that continue to inform modern approaches and methodologies.
+
+## See Also
+- [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]]
+- [[golden-guide-peyote-and-mescaline-cacti]]
+- [[schultes-peyote-and-mescaline]]
+- [[psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins]]
+- [[psychoactive-cacti-species-reference]]

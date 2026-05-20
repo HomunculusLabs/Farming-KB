@@ -145,8 +145,6 @@ How to use:
 | Landscape fabric | High | 3-5 years | Good (initial) | Poor | Not recommended |
 
 ## See Also
-
-- [[no-till-gardening-method]]
-- [[sheet-mulching]]
-- [[cover-crop-guide-detailed]]
-- [[hugelkultur-bed-construction]]
+- [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]]
+- [[water-retention-landscape-design-principles-construction]]
+- [[tryptamine-hypercontinuum-and-invisible-landscape]]

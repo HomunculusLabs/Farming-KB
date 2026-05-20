@@ -77,3 +77,10 @@ See also: [[benjamin-duggar]] for details on Benjamin Duggar's scientific contri
 ## Related
 
 - [[mushroom-cultivation-history]]
+
+Historical Mushroom Cultivation represents an important area of study within its domain, connecting practical applications with deeper understanding of underlying principles.
+
+## See Also
+- [[historical-mushroom-cultivation-cuthill-1870-treatise]]
+- [[historical-development-of-mushroom-cultivation]]
+- [[wine-cap-mushroom-cultivation]]

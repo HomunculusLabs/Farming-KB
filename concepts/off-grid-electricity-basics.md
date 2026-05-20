@@ -133,6 +133,11 @@ Solar panels --> Charge controller --> Battery bank --> Inverter --> AC breaker 
 
 All DC wiring (panels to controller, controller to batteries) should use appropriate gauge wire with fusing. All AC wiring should follow standard electrical code (NEC in the US).
 
+
+## See Also
+- [[solar-water-heating]]
+- [[micro-hydro-power]]
+- [[homestead-internet-options]]
 ## Cost Estimates
 
 A basic 2-4 kW off-grid system:
@@ -143,13 +148,3 @@ A basic 2-4 kW off-grid system:
 - Inverter (3000W pure sine): $500-1500
 - Wiring, fuses, mounting: $500-1500
 - **Total: $5700-$11,600**
-
-Lead-acid systems cost less upfront ($3000-6000) but require battery replacement every 3-7 years.
-
-## Conservation First
-
-## See Also
-
-- [[cotter-off-grid-mushroom-cultivation]]
-- [[off-grid-waste-management]]
-- [[van-life-off-grid]]

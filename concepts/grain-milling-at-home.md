@@ -124,6 +124,10 @@ The primary grain for most home millers:
 - **Buckwheat** — Not a true grain (a pseudocereal). Gluten-free, strong flavor, good for pancakes and soba noodles
 - **Rice** — Brown rice can be milled into flour for gluten-free baking
 
+
+## See Also
+- [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]]
+- [[homesteading-self-sufficiency-skills]]
 ## Grinding Fresh Flour: Practical Tips
 
 ### Before Milling
@@ -144,10 +148,3 @@ The primary grain for most home millers:
 1. **Use immediately or store briefly** — Fresh flour is at peak nutrition within hours of milling
 2. **Short-term storage** — Room temperature in a paper bag or breathable container for 1-2 weeks
 3. **Longer storage** — Refrigerate for up to 1 month, freeze for up to 3 months
-4. **Do not store fresh flour in sealed containers at room temperature** — The oils in the germ will go rancid
-
-## Grain Storage
-## See Also
-- [[grain-processing-and-milling-guide]]
-- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]
-

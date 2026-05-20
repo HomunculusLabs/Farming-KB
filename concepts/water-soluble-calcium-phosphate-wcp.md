@@ -148,4 +148,3 @@ WS-CaPo provides the phosphoric acid compounds that fuel this metabolic shift. W
 - [[brown-rice-vinegar-brv]] — BRV extraction solvent recipe
 - [[fish-amino-acid-faa]] — source of fish bones for WS-CaPo
 - [[fermented-mixed-compost-fmc]] — use bone residue in compost
-- [[fermented-plant-extract-fpe]] — sour FFJ as complementary changeover input

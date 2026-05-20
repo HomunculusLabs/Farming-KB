@@ -122,6 +122,9 @@ Solarization uses the sun's heat to kill weed seeds, soil-borne pathogens, and n
 - Best results: in hot, sunny climates with long summer days
 - Side benefit: soil nutrient availability may increase after solarization (ammonification of organic nitrogen)
 
+
+## See Also
+- [[weed-control-in-winter-greenhouses]]
 ## Sheet Mulching (Lasagna Gardening)
 
 Sheet mulching smothers existing vegetation and weed seeds under multiple layers of organic material. It is the primary weed-control method in [[no-till-gardening-method]] systems.
@@ -145,8 +148,3 @@ Sheet mulching smothers existing vegetation and weed seeds under multiple layers
 
 - Some persistent perennial weeds (bindweed, nutsedge) may push through the cardboard
 - Takes several months for full effectiveness — not an instant solution
-- Heavy cardboard may impede water infiltration initially
-- See [[no-till-gardening-method]] for integrating sheet mulching into no-till systems
-## See Also
-
-- [[jeavons-weed-management]]

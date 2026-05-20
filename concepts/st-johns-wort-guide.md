@@ -134,6 +134,9 @@ Management:
 - Keep away from pastures where livestock graze
 - Do not compost mature seed heads
 
+
+## See Also
+- [[comparison-calendula-vs-st-johns-wort]]
 ## Harvesting
 
 For medicinal use, harvest the upper 6-12 inches of the plant (flowering
@@ -145,10 +148,3 @@ Optimal harvest timing:
   open and 50% are in bud
 - Snip stems above a leaf node to allow regrowth
 - Handle fresh material minimally to avoid losing the red pigment on your
-  fingers (it stains)
-
-## Processing
-
-## See Also
-
-- [[comparison-arnica-vs-st-johns-wort]]

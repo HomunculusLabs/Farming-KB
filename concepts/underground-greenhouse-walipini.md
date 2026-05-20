@@ -134,6 +134,7 @@ Water is the enemy of underground structures. Install drainage before building a
 - **Seasonal water table:** In areas with a seasonal high water table, install a sump pump in the French drain sump
 
 ## Growing in a Walipini
+- [[clay-seed-pellet-composition-and-aerial-seeding-method]]
 
 ### Winter Crops
 
@@ -147,8 +148,3 @@ Water is the enemy of underground structures. Install drainage before building a
 - **Ventilation:** Open all vents and doors. Consider removing sections of glazing.
 - **Shade cloth:** 50-70% shade cloth over the glazing reduces heat load
 - **Crop selection:** Switch to heat-loving crops (tomatoes, peppers, cucumbers) or use the walipini as a propagation area
-- **Night ventilation:** Leave vents open at night in summer to release accumulated heat
-
-## See Also
-
-- [[walipini-underground-greenhouse]]

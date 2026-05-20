@@ -148,5 +148,3 @@ Maintain a 2-3 inch layer of straw or leaf mulch on top:
 
 - Cut at the base with a knife or twist gently
 - Do not pull — this damages the mycelial network
-- Leave small pins to continue growing
-- Harvest all large mushrooms within 1-2 days of emergence

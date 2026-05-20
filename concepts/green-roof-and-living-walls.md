@@ -148,5 +148,3 @@ A middle ground combining features of both extensive and intensive systems.
 
 - [[vertical-gardening-guide]]
 - [[rain-garden-design]]
-- [[container-gardening-guide]]
-- [[xeriscaping-guide]]

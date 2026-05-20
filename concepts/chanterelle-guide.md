@@ -133,6 +133,9 @@ The most dangerous chanterelle look-alike:
 5. True chanterelles have a distinctive fruity/apricot odor
 6. When cut, the flesh is pale yellow to white — never bright colors
 
+
+## See Also
+- [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
 ## Foraging Techniques
 
 ### Habitat
@@ -145,10 +148,3 @@ The most dangerous chanterelle look-alike:
 
 ### Timing
 
-- After sustained rain (2+ inches over several days)
-- 2-7 days after significant rainfall
-- Morning foraging is best (mushrooms are fresh before insects and heat)
-
-## See Also
-
-- [[growing-gourmet-chanterelle-truffle-cultivation-challenges]]

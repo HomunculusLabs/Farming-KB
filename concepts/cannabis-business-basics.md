@@ -144,11 +144,7 @@ Most states require seed-to-sale tracking systems that monitor cannabis from cul
 - Restrictions near schools, churches, and playgrounds
 - Social media platforms often prohibit cannabis content
 
-## Startup Costs
-
-| Business Type | Typical Total |
-|---------------|---------------|
 
 ## See Also
-
-- [[mckenna-hashish-scythians-and-classical-cannabis]]
+- [[cannabis-metabolic-syndrome-research]]
+## Startup Costs

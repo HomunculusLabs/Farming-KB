@@ -148,7 +148,3 @@ Rule of thumb: online price = farmers market price + $3-5 for shipping/packaging
 
 - Ship within 1-3 business days (state this clearly)
 - Provide tracking numbers automatically
-- Include a thank-you note or small freebie with orders
-- Respond to messages within 24 hours
-- Handle returns gracefully (refund or replace)
-- Request reviews after delivery (builds social proof)

@@ -138,18 +138,13 @@ Adding sunflower or soy lecithin (1 teaspoon per cup of oil) improves cannabinoi
 - **Softer salve**: Add more carrier oil or reduce beeswax
 - **Thicker balm**: Add shea butter or cocoa butter
 
+
+## See Also
+- [[cannabis-metabolic-syndrome-research]]
+- [[cannabis-reefers-and-tincture-preparation]]
+- [[cannabis-for-colon-cancer]]
 ## Dosing
 
 Topical dosing is less precise than other methods. General guidelines:
 
 - **Mild potency**: 1/4 ounce (7g) cannabis per 1 cup oil
-- **Medium potency**: 1/2 ounce (14g) cannabis per 1 cup oil
-- **Strong potency**: 1 ounce (28g) cannabis per 1 cup oil
-
-Start with a small amount and apply more as needed. Effects are typically felt within 15-30 minutes and last 2-4 hours. For chronic conditions, consistent daily application is more effective than sporadic heavy use.
-
-## See Also
-
-- [[mckenna-hashish-scythians-and-classical-cannabis]]
-- [[green-cannabis-ph-management-cannabis-growing]]
-- [[supercritical-co2-cannabis-extraction]]

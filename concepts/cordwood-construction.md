@@ -148,5 +148,3 @@ Cordwood construction is not addressed in most building codes. Approaches:
 
 - [[cob-building-basics-detailed]]
 - [[earthbag-building]]
-- [[passive-solar-design]]
-- [[bamboo-as-building-material]]

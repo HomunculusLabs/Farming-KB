@@ -140,15 +140,11 @@ of disease on your homestead.
 - Allow housing to dry completely before restocking.
 - Lime (agricultural lime) on floor between flocks helps reduce pathogen load.
 
+
+## See Also
+- [[homesteading-livestock-comparison]]
 ## Vaccination
 
 ### Core Vaccines for Homestead Flocks
 - **Marek's Disease:** Hatchery vaccination. Essential. No practical way to
   vaccinate at home after hatch.
-- **Newcastle Disease:** Live vaccine, can be administered in water or by
-  eye drop. Recommended in areas where ND is endemic.
-- **Infectious Bronchitis:** Often combined with ND vaccine. Recommended for
-
-## See Also
-
-- [[tompkins-dowsing-plants-for-health]]

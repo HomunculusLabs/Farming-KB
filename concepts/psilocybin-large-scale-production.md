@@ -148,5 +148,3 @@ This allows for harvesting approximately every 3-4 days from a single room.
 - Rye grain: ~$0.50/lb
 - Syringes: ~$0.25 each
 - Fluorescent fixture: ~$10
-- Humidifier: ~$15
-- Shelving: ~$10-15 per unit

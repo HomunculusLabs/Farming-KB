@@ -146,10 +146,5 @@ Some crops (carrots, beets, onions, cabbage, kale, parsnips) are biennials -- th
 
 This requires planning a year in advance and dedicated garden space in year two.
 
-## Seed Libraries and Sharing
-
-Many communities have seed libraries where members can borrow seeds, grow them, save seeds, and return some. This is an excellent way to access new varieties and build local seed sovereignty. Always follow the library's guidelines and return clean, well-labeled seed.
-
 ## See Also
-
-- [[comparison-seed-saving-vs-hybrid-seeds]]
+- [[saprobic-soil-fungi-inventory-planning-isolation-media-incubation]]

@@ -143,12 +143,8 @@ After washing, biodiesel contains suspended water droplets:
 - **Cloud point** — The temperature at which biodiesel begins to gel. Important for cold climate use
 - **Water content** — Professional testing kits available; should be below 500ppm
 
-## Glycerin Byproduct
-
-Glycerin makes up about 20% of the reaction volume and has several uses:
-
-- **Soap making** — Glycerin-rich soap from biodiesel production is excellent quality. See [[soap-making-guide]]
 
 ## See Also
-
-- [[fukuoka-sowing-agricultural-production-as-net-energy-deduction]]
+- [[holmgren-catch-and-store-energy-four-landscape-storages]]
+- [[holmgren-biomass-fuels-and-energy-yield-ratios]]
+- [[energy-conversion-efficiency]]

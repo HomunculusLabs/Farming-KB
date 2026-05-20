@@ -142,15 +142,9 @@ For both species:
 - [[powdery-mildew]]: Improve air circulation around plants.
 - Leggy growth: Indicates too much shade or excessive nitrogen.
 
+
+## See Also
+- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 ## Companion Planting
 
 Chamomile is an excellent companion plant:
-- Said to improve the flavor and growth of nearby herbs and vegetables
-- Attracts beneficial insects including hoverflies and wasps
-- Its anti-fungal properties may help prevent damping off in nearby seedlings
-- Compatible with most garden plants; traditionally paired with onions,
-  cabbage, and cucumbers
-
-## See Also
-
-- [[growing-gourmet-hypholoma-capnoides-cultivation]]

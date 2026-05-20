@@ -142,18 +142,9 @@ A WISP installs a small directional antenna on your roof or a tower, aimed at th
 - Ask neighbors what they use
 - Look for towers on hilltops with dish-shaped antennas
 
-## Option 4: DSL (Digital Subscriber Line)
-
-DSL delivers internet over existing copper telephone lines. Availability is declining as carriers abandon copper infrastructure.
-
-### Specifications
-
-- **Speed**: 1-100 Mbps (typically 5-25 Mbps in rural areas)
-- **Cost**: $30-70/month
-- **Data cap**: Usually unlimited
-- **Latency**: 20-70 ms
 
 ## See Also
+- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
+- [[winter-harvest-tools-equipment-suppliers]]
+## Option 4: DSL (Digital Subscriber Line)
 
-- [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]
-- [[homestead-tool-maintenance]]

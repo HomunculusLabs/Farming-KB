@@ -148,4 +148,3 @@ Month-by-month garden tasks for temperate climates (USDA zones 5-7). Covers plan
 ### November
 - Harvest remaining root crops before hard freeze; store in cool, humid conditions
 - Complete final cleanup; mulch perennial beds and fruit trees
-- Review garden journal; plan crop rotation; order seed catalogs

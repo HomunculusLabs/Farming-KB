@@ -122,6 +122,10 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
 - Above 20% moisture: risk of spontaneous combustion (hay fire).
 - Below 12% moisture: excessive leaf loss during baling.
 
+
+## See Also
+- [[1960s-counterculture-and-magic-mushrooms]]
+- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
 ## Storage
 
 ### Barn Storage (Ideal)
@@ -144,12 +148,3 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
   quality if properly sealed.
 
 ### Hay Storage Management
-- Inventory hay in fall: calculate total tons needed based on number of
-  animals and days of feeding.
-- Rule of thumb: 1 ton of hay per cow-calf pair per winter (120-150 days).
-- Sheep: 1 ton per 5-6 adult sheep per winter.
-
-## See Also
-
-- [[pasture-management-and-forage]]
-- [[bee-forage-hive-management-mollison]]

@@ -127,6 +127,11 @@ Ham radio is the most reliable communication method during disasters. It require
 4. Start with a $30 Baofeng handheld and listen to local frequencies
 5. Join a local ham club for mentorship and resources
 
+
+## See Also
+- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
+- [[winter-harvest-tools-equipment-suppliers]]
+- [[mushroom-vs-toadstool-terminology]]
 ## Emergency Communication Planning
 
 ### Communication Kit
@@ -143,17 +148,3 @@ Every homestead should have a dedicated emergency communication kit:
 - Flares or signal strobe
 
 ### Emergency Frequencies
-
-- 146.520 MHz — National simplex calling frequency (ham)
-- 446.000 MHz — National UHF simplex calling frequency (ham)
-- Channel 19 (27.185 MHz) — CB emergency and trucker channel
-- FRS/GMRS Channel 1 — Family communication
-- NOAA Weather Radio — 162.400-162.550 MHz (your local frequency)
-- 3.840 MHz — Amateur Radio Emergency Service (ARES) frequency
-- 7.093 MHz — Southern California Emergency Net (example — find your local equivalent)
-
-## See Also
-
-- [[homestead-tool-maintenance]]
-- [[homestead-record-keeping]]
-- [[plant-intelligence-and-communication]]

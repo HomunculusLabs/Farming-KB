@@ -142,13 +142,9 @@ Common homestead recipes include:
 | Cloudy liquid | Minerals in water, starch from food | Use soft water, blanch vegetables before canning |
 | Discolored food | Iron in water, reaction with metal | Use soft water, do not use aluminum cookware |
 
+
+## See Also
+- [[comparison-root-cellaring-vs-dehydration]]
 ## Storage and Shelf Life
 
 - Store jars in a cool (50-70F), dark, dry location
-- Do not store above 95F or below freezing
-- Remove rings before storage to detect seal failure
-- Shelf life: 12-18 months for best quality; safe indefinitely if properly sealed and stored, though quality declines over time
-
-## See Also
-
-- [[pf-tek-jar-preparation-steam-sterilization]]

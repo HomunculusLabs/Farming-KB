@@ -148,9 +148,3 @@ culture of bacteria and yeast that forms a gelatinous cellulose mat on the
 liquid surface. The culture includes Acetobacter species (acetic acid),
 Gluconacetobacter (gluconic acid, cellulose), various yeasts, and
 Lactobacillus species.
-
-## See Also
-
-- [[comparison-mead-vs-kvass-fermented-beverages]]
-- [[cho-seawater-and-fermented-seawater]]
-- [[functional-foods-and-dietary-supplements-from-medicinal-mushrooms]]

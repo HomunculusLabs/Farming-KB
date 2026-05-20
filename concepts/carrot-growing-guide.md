@@ -135,6 +135,9 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 - **Alternaria leaf blight**: Brown spots on leaves; improve air circulation, remove affected foliage
 - **[[cercospora]] leaf spot**: Similar to alternaria; same management approach
 
+
+## See Also
+- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
 ## Harvesting
 
 ### When to Harvest
@@ -145,9 +148,3 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 
 ### How to Harvest
 - Loosen soil with a fork beside the row before pulling
-- Pull straight up gently; twist slightly if resistant
-- Harvest in the morning for best flavor and crispness
-
-## See Also
-
-- [[growing-gourmet-hypholoma-capnoides-cultivation]]

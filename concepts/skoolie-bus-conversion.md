@@ -38,6 +38,10 @@ A skoolie is a retired school bus converted into a mobile living space. Bus conv
 - Roof: Check for leaks around emergency hatches and roof panels
 - Title: Ensure clean title; some states have special requirements for converted buses
 
+
+## See Also
+- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
+- [[winter-harvest-tools-equipment-suppliers]]
 ## Conversion Steps
 
 ### Phase 1: Demolition (1-2 Weeks)
@@ -144,12 +148,3 @@ Build a stud wall framework inside the bus:
 - Appliances: cooktop, oven, heater, water heater, refrigerator
 
 ### Phase 8: Interior Finish (2-4 Weeks)
-
-1. Install wall paneling (tongue-and-groove pine, shiplap, or painted plywood)
-2. Install ceiling (thin plywood or paneling)
-3. Install flooring
-
-## See Also
-
-- [[staycare-fungal-agricultural-waste-conversion]]
-- [[hybrid-to-op-variety-conversion-breeding-solomon]]

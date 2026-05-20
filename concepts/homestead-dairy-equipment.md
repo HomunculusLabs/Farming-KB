@@ -121,6 +121,9 @@ Pasteurization equipment is needed when selling dairy products commercially or w
 -  **Vat method (LTLT)** — 63 C (145 F) for 30 minutes. Preserves more flavor and nutritional quality. Best for homestead scale.
 -  **HTST (flash)** — 72 C (161 F) for 15 seconds. Requires specialized equipment with rapid heating and cooling. More common in commercial operations.
 
+
+## See Also
+- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
 ## Cheese Presses
 
 A cheese press applies controlled pressure to drained curds, expelling whey and creating a dense, uniform cheese. Required for hard cheeses like cheddar, gouda, and colby. See [[goat-cheese-making]] for cheese making procedures.
@@ -145,10 +148,3 @@ A cheese press applies controlled pressure to drained curds, expelling whey and 
 |--------|----------|----------|
 | Feta | None (self-pressing under brine) | 24 hours |
 | Chevre | None (gravity drain) | 6-12 hours |
-| Gouda | 2.5 kg / 9 kg / 23 kg (increasing) | 20 min / 20 min / 12 hr |
-| Cheddar | 5 kg / 11 kg / 22 kg | 15 min / 15 min / 12 hr |
-| Parmesan | 5 kg / 11 kg / 22 kg / 45 kg | 30 min / 30 min / 2 hr / 12 hr |
-
-## See Also
-
-- [[homestead-dairy-guide]]

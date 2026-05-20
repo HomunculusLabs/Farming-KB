@@ -135,20 +135,16 @@ Good charcoal for cooking should:
 
 Poor quality charcoal is crumbly, lightweight, has a brownish color, produces excessive ash, and may smell of chemicals or smoke.
 
+
+## See Also
+- [[mushroom-spawn-production-sorghum-seeds]]
+
+## See Also
+- [[solar-oven-cooking]]
+- [[smoking-meat-and-fish]]
+- [[mud-oven]]
 ## Biochar as a Byproduct
 
 Any charcoal production method can produce biochar for soil amendment:
 
 - Quench hot charcoal with water rather than letting it cool slowly (water quenching preserves more micropore structure)
-- Crush charcoal to particle sizes from powder to 1/2 inch
-- Incorporate into compost piles or garden beds at 5-10% by volume
-- Biochar improves soil water retention, [[cation-exchange-capacity]], and microbial habitat
-- "Charge" biochar by soaking in compost tea or mixing with compost before soil application
-
-See [[composting-methods-comparison]] for integration with biochar production.
-
-## Safety Considerations
-
-## See Also
-
-- [[comparison-charcoal-production-for-cooking-vs-solar-cooking-methods]]

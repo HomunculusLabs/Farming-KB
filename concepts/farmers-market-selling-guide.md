@@ -144,13 +144,7 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 - Explain why your products cost more (grass-fed, organic, hand-harvested)
 - Customers who understand your methods become advocates
 
-## Sales Tips
-
-- Arrive early for setup (1-2 hours before market opens)
-- Stay until official close (latecomers are often buyers)
-
 ## See Also
-
-- [[hallucinogenic-mushroom-market-in-europe]]
-- [[emcdda-european-magic-mushroom-smartshop-market]]
-- [[emcdda-hallucinogenic-mushroom-uk-pre-prohibition-market-economics]]
+- [[tree-vine-crops-arid-tropical-mollison]]
+- [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]]
+- [[black-soldier-fly-farming-and-insect-protein]]

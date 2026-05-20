@@ -143,17 +143,8 @@ Annual energy: 275 watts x 24 hours x 365 days = 2,409,000 Wh = 2,409 kWh/year
 - Channel that returns water to the stream below the turbine
 - Must meet environmental regulations (fish passage, water temperature)
 
-## Permitting and Regulations
-
-- **Water rights**: Many states require water rights or permits to divert stream flow
-- **Fish and wildlife**: Federal and state agencies protect aquatic habitat
-- **Dam safety**: Even small diversions may require permits
-- **Environmental impact**: Studies may be required for larger systems
-- **Grid interconnection**: If connecting to the grid, utility approval needed
-- **Construction permits**: Building permits for penstock, powerhouse, and electrical
 
 ## See Also
-
-- [[comparison-micro-hydro-power-vs-solar-cooking-methods]]
+- [[biodiversity-power-natural-regeneration]]
+- [[coaxial-power-splitter-waveguide-microwave-sterilization]]
 - [[comparison-biogas-digester-basics-vs-micro-hydro-power]]
-- [[fungal-biodiversity-power-analysis-statistical-design-zak-willig]]

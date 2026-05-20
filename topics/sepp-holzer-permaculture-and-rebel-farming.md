@@ -148,10 +148,3 @@ portion warms more quickly in spring — critical in cold climates. Position
 relative to sun and wind provides different microclimates for different plants
 on the same bed.
 
-### Zonation Within a Raised Bed
-
-## See Also
-
-- [[sepp-holzer-permaculture-water-landscapes-climate-restoration]]
-- [[comparison-sepp-holzer-vs-permaculture-design]]
-- [[holzer-thailand-permaculture-project]]

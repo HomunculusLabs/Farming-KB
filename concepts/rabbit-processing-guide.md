@@ -137,17 +137,9 @@ Rabbit meat is exceptionally lean and nutritious:
 - Iron, B12, and niacin content comparable to other lean meats
 - Low in cholesterol relative to other red meats
 
-## Regulations
 
-In the United States, the USDA exempts rabbit processing from federal inspection if:
-- The producer raises and processes the rabbits on their own farm
-- Sales are direct to the end consumer (no retail, restaurant, or wholesale)
-- The producer does not process rabbits from other farms
-
-Some states have additional requirements. Check local regulations before selling processed rabbit meat. For a more permanent processing setup, see [[home-butcher-shop-setup]].
-
-## Waste Utilization
 ## See Also
-- [[animal-butcher-and-processing]]
-- [[oyster-mushroom-storage-processing]]
-
+- [[rabbit-husbandry]]
+- [[home-butcher-shop-setup]]
+- [[quail-husbandry-detailed]]
+- [[homestead-poultry-health]]

@@ -148,5 +148,3 @@ Fertigation delivers soluble fertilizers through the drip system, providing nutr
 
 ### Fertigation Schedule
 ## See Also
-- [[drip-irrigation-and-microirrigation]]
-

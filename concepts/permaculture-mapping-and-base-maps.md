@@ -148,9 +148,3 @@ Modern permaculture designers increasingly use digital tools:
 - **Google Earth/Google Maps**: Free imagery, measurement tools, and export capabilities
 - **GIS software (QGIS)**: Professional-grade mapping with multiple data layers
 - **CAD software**: Precise drafting for detailed designs
-- **Drawing apps**: SketchUp, Illustrator, or similar for attractive presentation maps
-- **Dedicated permaculture software**: Specialized tools for zone/sector analysis
-
-## See Also
-
-- [[permaculture-mapping-and-reading-the-landscape]]

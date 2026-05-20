@@ -112,6 +112,11 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 - An oven thermometer works well
 - Monitor during the first few uses to learn your dehydrator's behavior in different weather conditions
 
+
+## See Also
+- [[solar-water-heating]]
+- [[solar-radiation-and-plant-light-responses]]
+- [[solar-and-electric-food-drying-methods]]
 ## Building an Indirect Solar Dehydrator (Step-by-Step)
 
 ### Frame
@@ -143,14 +148,3 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 ### Vents
 
 1. Cut intake vents at the bottom of the collector (low point)
-2. Cut exhaust vents at the top of the drying chamber (high point, opposite end from collector)
-3. Build adjustable vent covers from wood with a sliding mechanism
-4. Cover vents with screen to keep insects out
-
-## Drying Tips
-
-## See Also
-
-- [[query-how-to-build-and-use-a-solar-food-dehydrator]]
-- [[solar-and-electric-food-drying-methods]]
-- [[solar-dehydrator-plans]]

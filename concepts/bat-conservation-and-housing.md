@@ -120,6 +120,9 @@ Bats are particularly effective at controlling:
 - **Forest defoliators**: Gypsy moth, tent caterpillar, and forest tent caterpillar moths
 - **Mosquitoes**: While not the primary prey, bats still contribute to mosquito population suppression
 
+
+## See Also
+- [[1960s-counterculture-and-magic-mushrooms]]
 ## White-Nose Syndrome
 
 ### The Disease
@@ -145,10 +148,3 @@ Not all bat species are equally affected:
 - **Less susceptible**: Mexican free-tailed bat, silver-haired bat, eastern red bat (migrate rather than hibernate; lower exposure)
 - **Resistant**: Some European bat species coexist with Pd; research into resistance mechanisms ongoing
 
-### What You Can Do
-- Install bat houses to provide alternative summer roosting habitat
-- Avoid disturbing hibernating bats in caves and mines (decontaminate gear between sites)
-
-## See Also
-
-- [[mollison-designers-home-energy-conservation-and-solar-heating]]

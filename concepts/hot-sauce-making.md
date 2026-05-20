@@ -116,6 +116,15 @@ After fermentation (or as part of the quick method), cooking develops the final 
 - Add vinegar to at least 4-5% acidity if canning for safety
 - Adding 1-2 tablespoons of vinegar per 5 oz bottle aids preservation
 
+
+## See Also
+- [[honey-oil]]
+- [[cannabis-honey-oil-production]]
+
+## See Also
+- [[kimchi-making]]
+- [[natto-making]]
+- [[mason-jar-preserving-guide]]
 ## Hot Sauce Recipe Variations
 
 ### Classic Louisiana-Style
@@ -139,16 +148,3 @@ After fermentation (or as part of the quick method), cooking develops the final 
 - Sweet, tangy, garlic-forward
 
 ### Green Chile Sauce
-
-- Jalapenos or serranos, tomatillos, cilantro, lime juice, garlic, onion
-- Bright, herbaceous
-
-### Pineapple Habanero
-
-- Habaneros, fresh pineapple, lime juice, honey, garlic, white vinegar
-- Tropical, sweet heat
-
-## See Also
-
-- [[fermented-hot-sauce-guide]]
-- [[candle-making]]

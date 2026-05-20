@@ -141,14 +141,10 @@ Once wood is seasoned, store it:
 - Accessible in winter — plan your stacking location for snow access
 - Separate from green/seasoning wood to avoid confusion
 
+
+## See Also
+- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
+- [[winter-harvest-tools-equipment-suppliers]]
 ## Firewood Volume Measurements
 
 - **Cord:** 128 cubic feet (4x4x8 feet stacked)
-- **Face cord:** 4x8 feet, one-third the depth of a full cord (about 42 cubic feet)
-- **Rick:** Regional term, usually refers to a face cord
-- **Throw:** Loose-piled — about 40% less wood than a stacked cord by volume
-
-## See Also
-
-- [[solomon-food-preservation-storage]]
-- [[mushroom-spore-printing-and-storage]]

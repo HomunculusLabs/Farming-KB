@@ -7,7 +7,7 @@ tags: [mycology, psychedelics, psychology, consciousness, therapy, safety, enthe
 sources: []
 ---
 
-# Psychedelic Mushroom Set and Setting
+# Psychedelic Mushroom [[set-and-setting|Set and Setting]]
 
 ## Overview
 
@@ -148,5 +148,3 @@ Integration is the process of making sense of and incorporating the insights, em
 - Know your limits and respect them
 - Leave adequate time between experiences (minimum 1-2 weeks; ideally 1-3 months)
 ## See Also
-
-- [[psychedelic-mushroom-chemistry]]

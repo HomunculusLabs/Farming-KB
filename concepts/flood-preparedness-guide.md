@@ -144,12 +144,7 @@ In addition to standard emergency supplies, include:
 - Document all losses with receipts, photos, and serial numbers
 - File claims as soon as possible — delays can complicate reimbursement
 
-## Long-Term Flood Mitigation
-
-- Work with local agencies on [[watershed-management]] and drainage improvements
-- Consider relocating structures if flooding is frequent and severe
-
 ## See Also
-
-- [[wildfire-preparedness-guide]]
-- [[mollison-flood-retardation-by-trees-and-earthworks]]
+- [[plant-cell-wall-and-water-pathways]]
+- [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
+- [[flowform-water-aeration-design]]

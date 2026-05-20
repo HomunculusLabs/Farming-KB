@@ -131,6 +131,9 @@ Roots:
 - Use a digging fork to lift roots without breaking them
 - Older roots (4+ years) become woody and less medicinally active
 
+
+## See Also
+- [[echinacea-purpurea]]
 ## Processing and Storage
 
 Roots:
@@ -145,10 +148,3 @@ Aerial parts:
 - Bundle stems and hang upside down to dry, or spread on screens
 - Dry away from direct sunlight to preserve compounds
 - Store dried herb in airtight containers
-- Properly stored echinacea retains potency for 1-2 years
-
-## Yields
-
-## See Also
-
-- [[growing-gourmet-hypholoma-capnoides-cultivation]]

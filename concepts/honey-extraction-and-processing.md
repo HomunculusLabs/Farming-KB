@@ -126,6 +126,12 @@ to the top and can be skimmed.
 - Your name and address
 - Origin state or "Product of USA"
 
+
+## See Also
+- [[honey-oil]]
+
+## See Also
+- [[honey-oil-cannabis]]
 ## Beeswax Processing
 
 Cappings from extraction are roughly 20% honey by weight and yield
@@ -142,13 +148,3 @@ A simple insulated box with a glass lid. Sun melts wax, which flows into
 a collection container. Slumgum stays behind on the screen. Excellent
 off-grid method — see [[solar-oven-cooking]] for related solar energy
 principles.
-
-### Uses for Beeswax
-- Candles, lip balm, salves, furniture polish
-- Waxing frames (foundation coating with a wax dip tank)
-- Cheese waxing and food preservation
-- See [[bee-product-medicinal-uses]] for medicinal applications
-
-## See Also
-
-- [[supercritical-co2-cannabis-extraction]]

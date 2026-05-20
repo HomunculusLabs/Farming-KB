@@ -132,6 +132,9 @@ Before pressurizing, the canner must be vented:
 
 Skipping venting is one of the most dangerous errors in pressure canning. It can result in actual temperatures 20-30F lower than the gauge indicates, leaving botulism spores alive.
 
+
+## See Also
+- [[comparison-root-cellaring-vs-dehydration]]
 ## Identifying Spoilage
 
 ### Warning Signs (Do Not Eat)
@@ -145,10 +148,3 @@ Skipping venting is one of the most dangerous errors in pressure canning. It can
 
 As an extra safety margin, the USDA recommends boiling all home-canned vegetables and meats for 10 minutes before tasting. This destroys any botulinum toxin that might be present:
 
-1. Open the jar
-2. Transfer contents to a saucepan
-3. Bring to a rolling boil
-
-## See Also
-
-- [[pressure-canning-food-preservation]]

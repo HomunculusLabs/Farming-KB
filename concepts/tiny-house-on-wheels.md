@@ -148,5 +148,3 @@ Weight is the critical constraint in THOW design. Every material choice has weig
 - Stairs vs. ladder: Stairs provide storage underneath and are safer; ladders save space
 - Kitchen layout: Galley (along one wall) maximizes counter space in narrow footprint
 - Bathroom: Minimum 30x36 inches for shower; wet baths combine toilet and shower
-- Windows: Maximize natural light and ventilation; operable windows on every wall
-- Ventilation: Range hood for cooking, bathroom exhaust fan, roof vent for moisture control

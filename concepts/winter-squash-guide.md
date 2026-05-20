@@ -148,5 +148,3 @@ Curing thickens the skin and heals minor cuts, dramatically improving storage li
 | Kabocha | 4-6 months |
 | Hubbard | 5-6 months |
 | Spaghetti | 2-3 months |
-| Delicata | 2-3 months |
-| Acorn | 1-2 months |

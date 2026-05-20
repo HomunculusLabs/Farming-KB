@@ -148,4 +148,3 @@ A permanent installation with a larger composting chamber:
 - Rotate drum or rake compost monthly
 - Empty finished compost annually (or per manufacturer schedule)
 - Inspect and clean ventilation system annually
-- Check liquid overflow and leach field function

@@ -148,11 +148,3 @@ For faster leaf mold (6-9 months), you can add:
 - Provides slow-release organic matter
 
 ### Moisture Management
-- Add to the bottom of planting holes for water-loving plants
-- Mix into raised beds to improve water retention
-- Use as a component in [[soil-testing-and-analysis]] remediation plans for sandy soils
-
-## See Also
-
-- [[comparison-leaf-mold-composting-vs-hot-composting-method]]
-- [[jadam-leaf-mold-as-ideal-soil]]

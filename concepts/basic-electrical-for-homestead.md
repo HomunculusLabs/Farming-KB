@@ -144,13 +144,7 @@ Required in modern construction for bedrooms, living rooms, and other habitable 
 - Failing light switch — replace if it feels warm or makes crackling sounds
 - If widespread, may indicate a failing main connection — call an electrician
 
-## Tools for Basic Electrical Work
-
-- Non-contact voltage tester (essential)
-- Multimeter
-
 ## See Also
-
-- [[basic-plumbing-for-homestead]]
-- [[homestead-tool-maintenance]]
-- [[homestead-record-keeping]]
+- [[off-grid-electricity-basics]]
+- [[solar-water-heating]]
+- [[homestead-internet-options]]

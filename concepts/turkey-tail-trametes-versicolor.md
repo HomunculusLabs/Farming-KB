@@ -148,5 +148,3 @@ Commercial turkey tail products vary widely in quality:
 - Generally considered safe with minimal side effects (occasional mild digestive upset)
 - Consult oncologist before using alongside cancer treatment
 - May enhance immune activity — use caution with autoimmune conditions
-- Possible interactions with immunosuppressant drugs
-- Not recommended during pregnancy or breastfeeding (insufficient safety data)

@@ -137,20 +137,14 @@ Isolation is the homesteader's greatest vulnerability. A connected community is 
 - Community members tend to look out for each other
 - Reduced density means fewer random criminal opportunities
 
+
+## See Also
+- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
+- [[winter-harvest-tools-equipment-suppliers]]
+- [[mushroom-vs-toadstool-terminology]]
 ## Additional Security Measures
 
 ### Vehicle and Equipment Security
 
 - Keep vehicles locked, keys secured, and parked in visible areas
 - Use wheel locks, steering wheel locks, or GPS trackers on tractors and ATVs
-- Engrave equipment with your driver's license number
-- Photograph serial numbers and store records off-site
-- Chain and lock equipment in sheds when not in use
-
-### Firearm Safety and Self-Defense
-
-## See Also
-
-- [[homestead-tool-maintenance]]
-- [[homestead-record-keeping]]
-- [[homestead-internet-options]]

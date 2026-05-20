@@ -148,6 +148,3 @@ Rotate crop families to prevent disease and pest buildup:
 - Year 1: Nightshades (tomatoes, peppers, potatoes, eggplant)
 - Year 2: Legumes (beans, peas)
 - Year 3: Brassicas (cabbage, broccoli, cauliflower, kale)
-- Year 4: Roots (carrots, onions, beets, parsnips)
-- Year 5: Squash family (cucumbers, squash, melons, pumpkins)
-- Year 6: Grains/corn or fallow with [[cover-crops]]

@@ -148,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fungal-salt-tolerance-and-ion-homeostasis]]
 - [[fungal-woronin-bodies-and-septal-pore-organization]]
 - [[plant-fungal-signaling-mycorrhiza]]
-- [[singh-fungal-alkane-metabolism-pathways]]

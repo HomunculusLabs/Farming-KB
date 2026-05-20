@@ -148,8 +148,3 @@ Create lists of existing on-site resources:
 ## Ecological Design Checklist
 
 Williams recommends evaluating the design against these criteria:
-
-## See Also
-
-- [[permaculture-site-resource-assessment]]
-- [[permaculture-site-assessment-report-writing]]

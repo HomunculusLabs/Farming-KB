@@ -134,6 +134,10 @@ The most commonly used primers for fungal ITS amplification:
 
 Common software: QIIME2, DADA2, mothur, OBITOOLS, USEARCH
 
+
+## See Also
+- [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
+- [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]
 ## Citizen Science
 
 ### iNaturalist
@@ -144,14 +148,3 @@ Common software: QIIME2, DADA2, mothur, OBITOOLS, USEARCH
 
 ### Sequence-Verified Citizen Science
 
-Projects like the North American Mycoflora Project aim to:
-1. Collect and photograph fungi across North America
-2. Generate DNA barcodes for every observation
-3. Build a comprehensive, georeferenced fungal database
-4. Train citizen scientists in collection and documentation protocols
-
-## See Also
-
-- [[dna-barcoding-fungal-identification]]
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]]
-- [[fungal-environmental-dna]]

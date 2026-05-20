@@ -107,6 +107,13 @@ along the outside of the casing. Required by code in most jurisdictions.
 A sanitary well cap at the surface that prevents insects, animals, and
 surface water from entering the well. Must be vented but insect-proof.
 
+
+## See Also
+- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
+
+## See Also
+- [[seed-variety-degeneration-and-quality-maintenance]]
+- [[greg-green-mother-plants-and-clone-maintenance]]
 ## Pump Types
 
 ### Submersible Pump
@@ -141,13 +148,3 @@ Manual pump for off-grid or emergency backup use.
 
 ### Solar-Powered Pump
 DC submersible pump powered by a solar panel array with battery backup or
-direct drive.
-
-- Ideal for off-grid homesteads
-- Pair with a solar-direct system for daytime pumping into a cistern
-- See [[solar-water-heating]] for complementary solar energy systems
-- See [[rainwater-harvesting-systems]] for combining well and rainwater
-
-## See Also
-
-- [[homestead-tool-maintenance]]

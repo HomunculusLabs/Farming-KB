@@ -127,6 +127,10 @@ longest-lasting fencing option, with a lifespan of 40+ years.
 - Cons: high initial cost, requires specialized knowledge and tools, less
   forgiving of poor installation, dangerous if broken wire snaps back.
 
+
+## See Also
+- [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
+- [[quail-husbandry-detailed]]
 ## Portable Fencing for Rotational Grazing
 
 ### Systems
@@ -144,12 +148,3 @@ longest-lasting fencing option, with a lifespan of 40+ years.
 - Design lanes (permanent alleys) for animal movement between paddocks.
 - Water access in every paddock, or lane access to a central water point.
 - Use permanent fencing for the perimeter and division lanes; portable
-  fencing for internal paddock divisions.
-- Plan gate placement to allow easy movement between paddocks.
-
-### Species-Specific Notes
-
-## See Also
-
-- [[holzer-livestock-integration]]
-- [[fukuoka-critique-modern-livestock]]

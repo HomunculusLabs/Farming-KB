@@ -129,6 +129,9 @@ One of the world's largest hash producers for centuries. Traditional sieving (dr
 
 Long tradition from indica landrace strains. Methods include finger hash (resin from workers' hands during harvest), hand rubbing, water extraction, and traditional pressing. Known for dark color, spicy aroma, and potent body effects.
 
+
+## See Also
+- [[cannabis-grow-nutrient-deficiency-problem-solving]]
 ## Modern Hashish Products
 
 ### Rosin
@@ -145,10 +148,3 @@ Rosin presses use heated plates (180-220F) with 3-20 tons of pressure for 30 sec
 Made from fresh frozen cannabis (harvested and immediately frozen rather than dried):
 - Preserves the plant's full terpene profile
 - Higher quality and more complex flavor than hash from dried material
-- Considered the premium tier of solventless concentrates
-
-## Storage and Consumption
-
-## See Also
-
-- [[mckenna-hashish-scythians-and-classical-cannabis]]

@@ -142,13 +142,9 @@ several color and production varieties:
 - Quail are typically cooked whole (roasted, grilled, fried).
 - See [[animal-harvest-and-processing]] for broader processing principles.
 
+
+## See Also
+- [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
 ## Breeding and Incubation
 
 ### Breeding Ratio
-- 1 male per 2-3 females in breeder cages.
-- Males become aggressive in crowded conditions. Monitor and separate.
-- Breeding season: year-round with 14+ hours of light.
-
-## See Also
-
-- [[goat-husbandry-detailed-guide]]

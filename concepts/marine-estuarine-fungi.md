@@ -148,9 +148,3 @@ Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi
 - Halophytophthora baited from sediments using hemp seeds or grass blades
 - Molecular methods (DNA from seawater and sediment) revealing hidden diversity
 - KMV Agar with streptomycin for marine/clinical isolates
-
-## See Also
-
-- [[marine-fungi-and-salt-marsh-decomposition]]
-- [[heavy-metals-aquatic-marine-fungi]]
-- [[dighton-fungi-aquatic-marine-faunal-interactions]]

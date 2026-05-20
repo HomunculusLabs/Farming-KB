@@ -148,5 +148,3 @@ Sandy coastal soils need constant organic matter additions:
 - **Biochar**: Incorporate to improve nutrient retention in sand
 - **Sheet composting**: Layer organic materials directly on garden beds and let them decompose in place
 ## See Also
-
-- [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]

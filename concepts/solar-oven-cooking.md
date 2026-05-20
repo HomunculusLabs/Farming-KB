@@ -140,17 +140,11 @@ normal cooking time.
 - Place in solar oven for 45-60 minutes
 - Let stand 10 minutes before opening
 
+
+## See Also
+- [[solar-water-heating]]
+- [[solar-radiation-and-plant-light-responses]]
+- [[solar-and-electric-food-drying-methods]]
 ## Water Pasteurization
 
 Solar ovens can pasteurize water when fuel is unavailable. Water does not
-need to boil to be safe — pasteurization occurs at 150F (65C) held for
-6 minutes. A WAPI (Water Pasteurization Indicator) — a small tube of wax
-that melts at 150F — indicates when water is safe.
-
-## Limitations and Considerations
-
-## See Also
-
-- [[comparison-solar-cooking-vs-cob-oven]]
-- [[solar-cooking-methods]]
-- [[comparison-biomass-compost-greenhouse-heating-systems-vs-solar-cooking-methods]]

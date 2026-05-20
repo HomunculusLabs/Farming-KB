@@ -77,3 +77,10 @@ Hofmann's discoveries fundamentally shaped the 20th century's understanding of c
 - [[lsd-synthesis-history]]
 
 These developments continue to influence modern research and practice in this field.
+
+Albert Hofmann represents an important area of study within its domain, connecting practical applications with deeper understanding of underlying principles.
+
+## See Also
+- [[albert-hofmann-eleusinian-potion-analysis]]
+- [[albert-hofmann-early-career-ergot-research-sandoz]]
+- [[wasson-hofmann-schultes-research-network]]

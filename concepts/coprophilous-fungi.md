@@ -148,13 +148,3 @@ Coprophilous fungi have evolved remarkable dispersal strategies:
 ## Biogeography
 
 Most coprophilous fungi are thought to be cosmopolitan, distributed worldwide alongside their herbivore hosts. However, some tropical species have restricted ranges. The composition of dung fungal communities varies with:
-- Herbivore diet (grass vs. browse)
-- Habitat (tropical vs. temperate)
-- Season and moisture conditions
-- Dung size and consistency
-
-## See Also
-
-- [[bloomfield-coprophilous-dung-fungi-spore-dispersal-herbivore]]
-- [[antifungal-secondary-metabolites-coprophilous-fungi]]
-- [[coprophilous-fungi-taxonomic-groups-distribution]]

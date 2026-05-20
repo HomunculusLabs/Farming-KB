@@ -136,6 +136,10 @@ cloudy days. For 60 gallons/day demand, use an 80-120 gallon storage tank.
   degrees for summer emphasis; latitude + 15 for winter emphasis
 - **Shading**: collector must have full sun from 9AM-3PM year-round
 
+
+## See Also
+- [[solar-radiation-and-plant-light-responses]]
+- [[solar-and-electric-food-drying-methods]]
 ## Freeze Protection
 
 In climates with freezing temperatures, freeze protection is essential:
@@ -144,12 +148,3 @@ In climates with freezing temperatures, freeze protection is essential:
   stops; collector is empty when not producing heat
 - **Glycol loop** — antifreeze solution circulates through collector;
   requires a double-walled heat exchanger for potable water safety
-- **Recirculation** — pump runs briefly to circulate warm tank water
-  through the collector during freezing conditions (wastes some heat)
-
-## Maintenance
-
-## See Also
-
-- [[mollison-designers-solar-water-heating-systems]]
-- [[mollison-designers-home-energy-conservation-and-solar-heating]]

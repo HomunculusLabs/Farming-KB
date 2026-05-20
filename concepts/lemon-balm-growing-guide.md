@@ -134,6 +134,10 @@ or spearmint and is easier to manage.
 - Fertilize lightly in spring with compost; avoid heavy nitrogen which
   reduces essential oil content
 
+
+## See Also
+- [[lemon-cherry-gelato]]
+- [[lemon-cannabis-alchemy-reefers-preparation]]
 ## Harvesting
 
 For tea and culinary use:
@@ -144,12 +148,3 @@ For tea and culinary use:
 
 For medicinal use:
 - Harvest aerial parts in early to mid-bloom for maximum rosmarinic acid
-  content
-- Cut the top 6-8 inches of the plant
-
-## Drying and Storage
-
-## See Also
-
-- [[lemon-balm-melissa-officinalis]]
-- [[comparison-hawthorn-vs-lemon-balm]]
