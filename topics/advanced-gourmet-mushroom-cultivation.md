@@ -111,10 +111,6 @@ Supplemented substrates require full sterilization — 121 degrees Celsius at 15
 for 60 to 90 minutes. The added nutrients benefit the cultivated species but also
 ## See Also
 
-- [[mushroom-cultivation-fundamentals]]
-
-## See Also
-
-- [[mushroom-cultivation-fundamentals]]
 - [[advanced-mushroom-fruiting-techniques]]
+- [[mushroom-cultivation-fundamentals]]
 - [[mushroom-spore-syringe-preparation]]

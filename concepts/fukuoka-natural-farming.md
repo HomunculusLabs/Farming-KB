@@ -141,15 +141,10 @@ Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
-
-## See Also
-- fukuoka-earthen-levee-building-artistic-religious-work
-- fukuoka-five-grains-food-mandala
-
 ## See Also
 
-- [[fukuoka-desert-greening-projects]]
 - [[fukuoka-desert-greening-plant-irrigation]]
+- [[fukuoka-desert-greening-projects]]
 - [[fukuoka-do-nothing-health-philosophy]]
-- [[fukuoka-orchard-method]]
 - [[fukuoka-machine-culture-doomed]]
+- [[fukuoka-orchard-method]]
