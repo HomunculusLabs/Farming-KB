@@ -6,8 +6,8 @@ type: concept
 ## See Also
 
 - *About Mushrooms* — [[julius-auboineau-palmer]] (1894), full reference source
-- Amanita toxicity and identification
-- Boleti of North America
+- [[amanita]] toxicity and identification
+- [[boleti]] of North America
 - Edible Russula species
 - Mushroom poisoning: symptoms and treatment
 

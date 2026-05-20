@@ -70,7 +70,7 @@ Eight beds with eight keyhole paths, creating a more intricate pattern. Each bed
   - An herb spiral (combines two permaculture patterns)
   - A circular seating area
   - A water feature or pond
-  - A compost bin or worm bin
+  - A [[compost]] bin or worm bin
   - A statuary or art piece
 - **Solar orientation:** In the Northern Hemisphere, the south side of the mandala receives the most sun. Plant accordingly — sun-loving crops on the south, shade-tolerant crops on the north.
 - **Wind:** If prevailing wind comes from one direction, use taller plants or a trellis on the windward side as a windbreak for the rest of the garden.
@@ -111,7 +111,7 @@ The mandala garden's design lends itself to intensive planting methods:
 
 - As one crop is harvested, immediately replant with a different crop
 - Use a planting calendar to plan continuous harvests throughout the season
-- Fast-growing crops (radishes, lettuce, arugula) fill gaps between slower crops
+- Fast-growing crops (radishes, lettuce, [[arugula]]) fill gaps between slower crops
 
 ### Companion Planting
 

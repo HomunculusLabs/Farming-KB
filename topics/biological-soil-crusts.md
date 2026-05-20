@@ -33,7 +33,7 @@ The relationship between biocrusts and water infiltration is complex and depends
 
 - Biocrusts increase soil moisture retention by reducing evaporation (the crust creates a physical barrier to capillary rise) and increasing water-holding capacity.
 - The EPS matrix acts as a hydrogel, absorbing and slowly releasing water.
-- Moss and lichen crusts can hold 3–8× their dry weight in water, creating a moist microhabitat that persists for days after surface drying.
+- Moss and [[lichen]] crusts can hold 3–8× their dry weight in water, creating a moist microhabitat that persists for days after surface drying.
 - This moisture retention is critical for seed germination and seedling establishment of vascular plants.
 
 ## Key Concepts and Applications

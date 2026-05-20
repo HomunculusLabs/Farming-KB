@@ -9,7 +9,7 @@ sources: []
 
 # Earth Plaster and Natural Finishes
 
-Natural wall finishes protect building surfaces while maintaining breathability. Unlike conventional paint and gypsum plaster, natural finishes allow moisture vapor to pass through walls, preventing trapped moisture that causes mold and decay. This is essential for earth, straw, and timber-based buildings.
+Natural wall finishes protect building surfaces while maintaining breathability. Unlike conventional paint and [[gypsum]] plaster, natural finishes allow moisture vapor to pass through walls, preventing trapped moisture that causes mold and decay. This is essential for earth, straw, and timber-based buildings.
 
 ## Why Natural Finishes Matter
 

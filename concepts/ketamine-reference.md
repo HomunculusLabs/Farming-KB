@@ -9,7 +9,7 @@ sources: []
 
 # Ketamine Reference
 
-Ketamine is a dissociative anesthetic with a unique pharmacological profile that has made it one of the most important drugs in modern psychiatry. Originally developed as a surgical anesthetic in the 1960s, ketamine has emerged as a breakthrough treatment for treatment-resistant depression, with the FDA approving esketamine (S-enantiomer) nasal spray (Spravato) in 2019. It operates through a fundamentally different mechanism than classical psychedelics, acting primarily as an NMDA receptor antagonist.
+[[ketamine]] is a dissociative anesthetic with a unique pharmacological profile that has made it one of the most important drugs in modern psychiatry. Originally developed as a surgical anesthetic in the 1960s, ketamine has emerged as a breakthrough treatment for treatment-resistant depression, with the FDA approving esketamine (S-enantiomer) nasal spray (Spravato) in 2019. It operates through a fundamentally different mechanism than classical psychedelics, acting primarily as an NMDA receptor antagonist.
 
 ## Chemistry
 
@@ -115,7 +115,7 @@ This mechanism is fundamentally different from classical psychedelics (5-HT2A ag
 
 - Emerging evidence for PTSD symptom reduction
 - May disrupt fear memory consolidation and enhance extinction learning
-- Preliminary evidence for treating alcohol, opioid, and cocaine use disorders
+- Preliminary evidence for treating alcohol, opioid, and [[cocaine]] use disorders
 
 ## Effects
 

@@ -51,7 +51,7 @@ Setting up a proper grow room is the foundation of a successful cannabis cultiva
 - Controller: Inkbird or AC Infinity for automated temp/humidity management
 
 ## Growing Mediums
-- **Soil**: Easiest for beginners. Ocean Forest + perlite. pH 6.0-7.0
+- **Soil**: Easiest for beginners. Ocean Forest + [[perlite]]. pH 6.0-7.0
 - **Coco coir**: Middle ground. Buffer with cal-mag. pH 5.8-6.3
 - **Hydroponics (DWC/NFT)**: Fastest growth, highest yield. pH 5.5-6.0
 - **Living soil**: Organic, no bottled nutrients. Builds [[soil-food-web]]

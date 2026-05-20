@@ -16,7 +16,7 @@ Biodiesel is a renewable diesel fuel substitute made through transesterification
 Biodiesel production converts triglycerides (the main component of vegetable oils) into fatty acid methyl esters (FAME) — biodiesel — and glycerin as a byproduct.
 
 The reaction:
-- Vegetable oil (triglyceride) + Methanol + Catalyst (sodium hydroxide or potassium hydroxide) = Biodiesel (FAME) + Glycerin
+- Vegetable oil (triglyceride) + [[methanol]] + Catalyst (sodium hydroxide or potassium hydroxide) = Biodiesel (FAME) + Glycerin
 
 For every liter of oil, you need approximately:
 - 200ml methanol (20% by volume)

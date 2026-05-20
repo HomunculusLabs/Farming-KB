@@ -134,7 +134,7 @@ A timber frame provides the structure; the enclosure system provides the walls. 
 - **Light straw-clay:** Insulative infill within temporary forms between timbers
 - **Hempcrete:** Pack or spray hemp-lime mix around the frame
 - **Cob:** Build cob walls between the timbers or use cob as an exterior skin
-- **Enclosed timber frame (stick-framed wrap):** Conventional 2x walls built around the outside of the timber frame, insulated with fiberglass, cellulose, or mineral wool
+- **Enclosed timber frame (stick-framed wrap):** Conventional 2x walls built around the outside of the timber frame, insulated with fiberglass, [[cellulose]], or mineral wool
 - **Structural insulated panels (SIPs):** Pre-fabricated foam-core panels attached to the outside of the frame
 
 ## See Also

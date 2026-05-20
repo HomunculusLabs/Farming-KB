@@ -76,7 +76,7 @@ Complete their life cycle in one growing season. Must be replanted each year, th
 - Chamomile (German annual, Roman perennial), lemon balm, peppermint, spearmint, lemon verbena, bee balm, holy basil (tulsi), anise hyssop
 
 ### Medicinal Herbs
-- Echinacea, calendula, yarrow, valerian, holy basil, elderberry, goldenseal
+- Echinacea, calendula, [[yarrow]], valerian, holy basil, elderberry, goldenseal
 - Many have deep traditional use and growing pharmacological evidence
 - Research specific herbs thoroughly before medicinal use
 

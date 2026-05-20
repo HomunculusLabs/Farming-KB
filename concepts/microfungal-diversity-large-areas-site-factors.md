@@ -12,7 +12,7 @@ type: concept
 - Dennis, R.W.G. (1970). Fungus flora of Venezuela and British Isles comparison.
 - Hawksworth, D.L. (1991). The fungal dimension of biodiversity.
 - Rambelli, A. et al. (1983, 1991). Human disturbance and microfungal diversity in Ivory Coast.
-- da Silva, M. and Minter, D.W. (1995). Foliicolous lichen community fungi.
+- da Silva, M. and Minter, D.W. (1995). Foliicolous [[lichen]] community fungi.
 - Tubaki, K. and Yokoyama, T. (1973). Litter fungi in Japan.
 
 ## Key Takeaways

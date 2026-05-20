@@ -5,7 +5,7 @@ type: concept
 ---
 ## Summary Comparison Table
 
-| Criteria | Aerobic Compost Tea | Anaerobic Compost Tea |
+| Criteria | Aerobic [[compost]] Tea | Anaerobic Compost Tea |
 |---|---|---|
 | **Plant Protection** | Ecological competition & predation | Toxic chemical inhibition |
 | **Nutrient Cycling** | Full food web cycles nutrients | No cycling; nutrients lost as gas |

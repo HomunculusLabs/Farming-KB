@@ -76,7 +76,7 @@ meadows, so replicating these conditions yields the best results.
 
 ### Soil Preparation
 Work the soil to a depth of 12-18 inches, removing rocks that could cause
-roots to fork. Incorporate generous amounts of compost or well-rotted manure.
+roots to fork. Incorporate generous amounts of [[compost]] or well-rotted manure.
 A pH of 5.5-7.0 is ideal. Ensure good drainage -- valerian likes moisture
 but not waterlogged soil.
 

@@ -127,7 +127,7 @@ Gouda is a washed-curd cheese that requires more equipment and time but produces
 ### Rennet
 
 -  **Animal rennet** — Traditional, from calf stomach. Strongest coagulation. Preferred for aged cheeses.
--  **Vegetable rennet** — From cardoon thistle or fig sap. Weaker coagulation. Required for vegetarian cheese.
+-  **Vegetable rennet** — From [[cardoon]] thistle or fig sap. Weaker coagulation. Required for vegetarian cheese.
 -  **Microbial rennet** — Fermentation-produced. Consistent, affordable, vegetarian. Good all-purpose choice.
 -  **Junket tablets** — Available at grocery stores. Weak but work for soft cheeses.
 

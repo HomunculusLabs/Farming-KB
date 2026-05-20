@@ -16,7 +16,7 @@ type: concept
 - More than **13,500 species** (~20% of all described fungi; Sipman and Aptroot 2001, Hawksworth et al. 1995).
 - Not a cohesive taxonomic group; belong to distantly related orders/families.
 - Lichenization is a **biological strategy** evolved independently multiple times.
-- Cohesiveness relates to **similar ecological/functional roles** and common constraints of the lichen habit.
+- Cohesiveness relates to **similar ecological/functional roles** and common constraints of the [[lichen]] habit.
 
 ### Symbiotic Relationship
 

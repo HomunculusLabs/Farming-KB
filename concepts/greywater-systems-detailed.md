@@ -119,7 +119,7 @@ Products used in the household directly affect greywater quality:
 - Bleach and chlorine — Kills beneficial soil organisms
 - Sodium-based water softeners — Damages soil structure
 - Petroleum-based surfactants — Slow to break down
-- Enzyme cleaners — May accelerate pipe corrosion
+- [[enzyme]] cleaners — May accelerate pipe corrosion
 - Artificial dyes and fragrances — No agronomic benefit, potential irritation
 
 ## Surge Tank Design

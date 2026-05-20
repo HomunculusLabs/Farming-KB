@@ -27,7 +27,7 @@ When swallowed or added to food, tinctures are processed through the digestive s
 
 ### Alcohol Tinctures (Green Dragon)
 
-Alcohol is the most efficient solvent for cannabis tinctures, extracting a full spectrum of cannabinoids and terpenes. High-proof ethanol (190-proof or Everclear) is ideal.
+Alcohol is the most efficient solvent for cannabis tinctures, extracting a full spectrum of cannabinoids and [[terpenes]]. High-proof [[ethanol]] (190-proof or Everclear) is ideal.
 
 **Cold Method (Long Extraction)**:
 1. Decarboxylate 1 ounce (28g) cannabis at 240 F for 35 minutes

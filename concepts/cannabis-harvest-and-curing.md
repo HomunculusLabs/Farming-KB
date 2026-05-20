@@ -9,13 +9,13 @@ sources: []
 
 ## Overview
 
-Harvest and curing are the final and most patient-dependent stages of cannabis cultivation. Proper technique during these phases preserves the terpenes, potency, and smoothness developed during the grow. Rushing any step — harvest timing, drying speed, or cure duration — directly reduces quality.
+Harvest and curing are the final and most patient-dependent stages of cannabis cultivation. Proper technique during these phases preserves the [[terpenes]], potency, and smoothness developed during the grow. Rushing any step — harvest timing, drying speed, or cure duration — directly reduces quality.
 
 ## Harvest Timing
 
 Proper timing depends on monitoring trichome development throughout the [[cannabis-flowering-stage]]. The [[cannabis-environment-control]] during final weeks also affects terpene preservation at harvest. Key summary:
 
-- **Clear trichomes**: Too early — lower potency, grassy taste
+- **Clear [[trichomes]]**: Too early — lower potency, grassy taste
 - **Milky/cloudy trichomes**: Peak potency — energetic, cerebral effect
 - **Amber trichomes**: THC degrading to CBN — more sedative, body-heavy effect
 - **Target**: 50-70% milky with first amber appearing

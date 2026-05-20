@@ -9,7 +9,7 @@ type: query
 
 1. Design with steep edges and minimum 3-foot depth in main basin.
 2. Include a pump or aerator for continuous surface movement.
-3. Stock with native predatory fish (minnows or Gambusia where legal).
+3. Stock with native predatory fish (minnows or [[gambusia]] where legal).
 4. Plant open-structure marginals — avoid dense monocultures.
 5. Install bat and bird housing within 30–50 feet.
 6. Keep BTI dunks on hand for the active season.

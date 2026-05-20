@@ -28,7 +28,7 @@ Chronic pain is the most common reason patients use medical cannabis, and it has
 ### Nociceptive Pain
 - Musculoskeletal pain, headaches, menstrual cramps
 - Evidence level: Moderate
-- Whole-plant products (with terpenes like myrcene and caryophyllene) enhance analgesic effects
+- Whole-plant products (with [[terpenes]] like [[myrcene]] and caryophyllene) enhance analgesic effects
 
 ### Cancer Pain
 - Evidence level: Moderate to strong
@@ -56,8 +56,8 @@ Chronic pain is the most common reason patients use medical cannabis, and it has
 ## Key Terpenes for Pain
 - **Myrcene**: Muscle relaxant, sedative (found in indica strains)
 - **Beta-caryophyllene**: Anti-inflammatory, CB2 agonist (found in black pepper, cannabis)
-- **Pinene**: Anti-inflammatory, bronchodilator
-- **Linalool**: Analgesic, anxiolytic (found in lavender, cannabis)
+- **[[pinene]]**: Anti-inflammatory, bronchodilator
+- **[[linalool]]**: Analgesic, anxiolytic (found in lavender, cannabis)
 
 ## Opioid Crisis Context
 Cannabis shows significant promise as an opioid alternative or adjunct. States with medical cannabis laws see 25% fewer opioid overdose deaths. Patients using cannabis for chronic pain report reducing or eliminating opioid use in many cases.

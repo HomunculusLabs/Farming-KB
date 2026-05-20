@@ -30,7 +30,7 @@ A homestead herb business transforms homegrown herbs into value-added products: 
 - Lemon balm: calming, easy to grow, perennial
 - Calendula: skin healing, salves, infused oils, annual
 - Peppermint: digestive, tea, tincture
-- Yarrow: wound healing, fever reduction, perennial
+- [[yarrow]]: wound healing, fever reduction, perennial
 - Holy basil (tulsi): adaptogen, growing popularity
 - Valerian: sleep aid, root harvest, perennial
 - Elderberry: syrup, immune support, shrub

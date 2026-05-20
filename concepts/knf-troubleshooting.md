@@ -98,7 +98,7 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 | Yellowing upper/new leaves | Fe, S, or general [[nutrient-lockout]] | Seawater 1:30 (trace minerals); check pH |
 | Leaf curl (upward) | Ca deficiency, heat stress | WS-Ca 1:500 foliar; improve airflow |
 | Leaf curl (downward) | Overwatering, P toxicity | Reduce water; check drainage |
-| Interveinal chlorosis | Mg or Fe deficiency | Seawater 1:30; Epsom salt soil drench |
+| Interveinal [[chlorosis]] | Mg or Fe deficiency | Seawater 1:30; Epsom salt soil drench |
 | Purple stems/leaves | P deficiency (cold) | WS-CaPo 1:500; WS-PA 1:30; raise temps |
 | Brown spots on leaves | Fungal disease, Ca deficiency | OHN 1:500 + WS-Ca 1:500; improve airflow |
 | Soft, sappy growth | Excess N, insufficient Ca | Stop FAA; apply WS-Ca 1:500 |

@@ -69,7 +69,7 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 - **Texture**: Sandy or sandy loam is ideal — heavy clay produces misshapen roots. Raised beds with loose, well-drained soil work well.
 - **pH**: 5.0-6.5 (slightly acidic). Do NOT lime — sweet potatoes are sensitive to high pH.
 - **Fertility**: LOW to moderate nitrogen. Excess nitrogen produces huge vines and small tubers. Sweet potatoes need phosphorus and potassium more than nitrogen.
-- **Organic matter**: Moderate — avoid overly rich soil (too much compost = lush foliage, few tubers). Sandy soil with moderate compost is ideal.
+- **Organic matter**: Moderate — avoid overly rich soil (too much [[compost]] = lush foliage, few tubers). Sandy soil with moderate compost is ideal.
 - **Preparation**: Loosen soil to 12 inches deep. Remove rocks and debris that can cause deformed roots.
 
 ## Planting

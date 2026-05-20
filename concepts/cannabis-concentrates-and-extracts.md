@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Cannabis concentrates are products made by extracting and concentrating the active compounds -- cannabinoids and terpenes -- from the cannabis plant. They represent a spectrum from simple mechanical separation to sophisticated chemical extraction. Throughout S.T. Oner's [[cannabis-sativa]] Vol. 3, the production of hash and other concentrates is a recurring theme, with many strains recommended specifically for their hash-making potential.
+Cannabis concentrates are products made by extracting and concentrating the active compounds -- cannabinoids and [[terpenes]] -- from the cannabis plant. They represent a spectrum from simple mechanical separation to sophisticated chemical extraction. Throughout S.T. Oner's [[cannabis-sativa]] Vol. 3, the production of hash and other concentrates is a recurring theme, with many strains recommended specifically for their hash-making potential.
 
 ## Types of Concentrates
 
@@ -22,9 +22,9 @@ The simplest form of concentrate. Kief consists of the trichome heads that have 
 
 ### Hash (Hashish)
 
-Hash is made by separating trichomes from plant material and compressing them into a solid mass. Traditional methods include:
+Hash is made by separating [[trichomes]] from plant material and compressing them into a solid mass. Traditional methods include:
 - **Dry-sifting**: Passing dried cannabis through screens of progressively finer mesh to collect trichomes
-- **Hand-rubbing (charas)**: Gently rubbing living cannabis plants to collect the resin on the hands
+- **Hand-rubbing ([[charas]])**: Gently rubbing living cannabis plants to collect the resin on the hands
 - **Ice water extraction (bubble hash)**: Using cold water and agitation to separate trichomes, then filtering through micron bags
 
 In Oner's guide, "finger hash" -- the resin that accumulates on fingers during trimming -- is frequently mentioned as an early treat after harvest. Many strains are specifically noted as good choices for "hash production" due to their heavy trichome production.
@@ -47,7 +47,7 @@ Cannabis distillate is a highly refined product that has been purified through s
 
 ### Tinctures
 
-Cannabis tinctures are liquid extracts made by steeping cannabis in alcohol (typically food-grade ethanol). They are administered sublingually (under the tongue) using a dropper. Tinctures were among the earliest pharmaceutical cannabis preparations, sold as patent medicines in the 19th and early 20th centuries.
+Cannabis tinctures are liquid extracts made by steeping cannabis in alcohol (typically food-grade [[ethanol]]). They are administered sublingually (under the tongue) using a dropper. Tinctures were among the earliest pharmaceutical cannabis preparations, sold as patent medicines in the 19th and early 20th centuries.
 
 ## Strain Selection for Concentrates
 

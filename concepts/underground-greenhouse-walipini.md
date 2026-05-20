@@ -138,7 +138,7 @@ Water is the enemy of underground structures. Install drainage before building a
 
 ### Winter Crops
 
-- **Leafy greens:** Spinach, kale, lettuce, chard, Asian greens, arugula, mustard
+- **Leafy greens:** Spinach, kale, lettuce, chard, Asian greens, [[arugula]], mustard
 - **Root crops:** Carrots, beets, radishes, turnips, parsnips
 - **Alliums:** Garlic, onions, leeks, scallions
 - **Herbs:** Parsley, cilantro, chives, mint, rosemary (if warm enough)

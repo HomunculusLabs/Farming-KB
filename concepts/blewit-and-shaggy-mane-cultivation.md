@@ -31,7 +31,7 @@ cycle spans just **1–2 days**, demanding daily monitoring.
 slurry, then apply directly to substrate.
 
 **Lab cloning** is easy from stem tissue. Notably, **antibiotic media should
-not be used** — the mycelium is sensitive to these compounds.
+not be used** — the [[mycelium]] is sensitive to these compounds.
 
 ### Substrates
 
@@ -41,7 +41,7 @@ by-products. **[[casing-soil]] is required** for [[fruiting-initiation]].
 ### Outdoor Cultivation
 
 Colonization: **6–12 months**. Preferred site: **shade/sunlight interface**
-(e.g., hedgerows, compost edges). Place under **rotting wheat bales** to mimic
+(e.g., hedgerows, [[compost]] edges). Place under **rotting wheat bales** to mimic
 natural habitat and sustain moisture. Yields are **extremely low** regardless
 of technique. Check daily during fruiting season.
 

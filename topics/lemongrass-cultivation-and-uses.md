@@ -47,11 +47,11 @@ The characteristic lemon aroma and many of the biological activities of lemongra
 - **Citral**: A mixture of two geometric isomers -- geranial (citral A) and neral (citral B). Citral is the dominant compound, typically comprising 65-85% of the essential oil. It is responsible for the intense lemon fragrance and possesses significant antimicrobial, antifungal, and anti-inflammatory properties.
 - **Geranial (citral A)**: The trans-isomer of citral, typically present at 35-50% of the oil. Geranial has demonstrated stronger antimicrobial activity than neral in many studies.
 - **Neral (citral B)**: The cis-isomer of citral, typically present at 25-40% of the oil. It contributes a sweeter, less sharp lemon note compared to geranial.
-- **Myrcene**: A monoterpene hydrocarbon present at approximately 10-20% in many cultivars. Myrcene contributes to the herbaceous, green undertone of the aroma and has reported analgesic and anti-inflammatory effects.
-- **Limonene**: Present at 1-5% in most cultivars, limonene adds brightness to the fragrance profile and has well-documented anti-inflammatory and anxiolytic properties.
-- **Geraniol**: A monoterpene alcohol found at 1-5%, contributing floral and rosy notes to the aroma. Geraniol has demonstrated insect-repellent properties.
+- **[[myrcene]]**: A monoterpene hydrocarbon present at approximately 10-20% in many cultivars. Myrcene contributes to the herbaceous, green undertone of the aroma and has reported analgesic and anti-inflammatory effects.
+- **[[limonene]]**: Present at 1-5% in most cultivars, limonene adds brightness to the fragrance profile and has well-documented anti-inflammatory and anxiolytic properties.
+- **[[geraniol]]**: A monoterpene alcohol found at 1-5%, contributing floral and rosy notes to the aroma. Geraniol has demonstrated insect-repellent properties.
 
-Additional compounds identified in lemongrass essential oil include citronellal, linalool, nerol, farnesol, and methyl heptenone. The specific ratios vary significantly based on chemotype, geographic origin, and [[vegetative-propagation-methods-mollison]] the standard method.
+Additional compounds identified in lemongrass essential oil include citronellal, [[linalool]], nerol, farnesol, and methyl heptenone. The specific ratios vary significantly based on chemotype, geographic origin, and [[vegetative-propagation-methods-mollison]] the standard method.
 - Preferred for fresh and dried culinary herb markets.
 - Native to maritime Southeast Asia, now widely naturalized throughout the tropics.
 - The essential oil composition is dominated by citral, with myrcene as a secondary constituent.

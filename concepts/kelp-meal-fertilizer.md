@@ -27,7 +27,7 @@ Kelp meal is an alternative to blood, fish, and bone meal. Though more expensive
 - Cost generally limits its use as a general soil amendment, but it is the best choice where trace element deficiencies are a concern
 
 ### As a Compost Activator
-- Due to its high cost, kelp meal is most economically used as a compost activator
+- Due to its high cost, kelp meal is most economically used as a [[compost]] activator
 - Kelp fronds contain alginic acid, which is very attractive to the bacteria required on the compost heap
 
 ### Timing

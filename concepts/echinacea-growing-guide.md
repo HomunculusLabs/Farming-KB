@@ -69,7 +69,7 @@ but performs best in moderately fertile, slightly alkaline to neutral soil
 ### Soil Preparation
 Prepare beds by loosening soil to a depth of 12-18 inches. For root harvest
 species (E. angustifolia), deeper soil preparation (18-24 inches) encourages
-the development of large, harvestable taproots. Incorporate compost but avoid
+the development of large, harvestable taproots. Incorporate [[compost]] but avoid
 excessive nitrogen, which promotes foliage at the expense of root development.
 
 ### Propagation

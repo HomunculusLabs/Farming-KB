@@ -28,7 +28,7 @@ Many alternatives are available that are either completely peat-free or have red
 - **Coir** — the preferred choice for propagation (seed sowing and rooting cuttings)
 - **Bark-based mixes** — more suited for growing on established plants
 - **Wood chip products** — made from various wood materials
-- **Municipal green compost** — composted waste from green recycling centers
+- **Municipal green [[compost]]** — composted waste from green recycling centers
 - **Composted bark** — often combined with other materials
 
 ### Soil Conditioning

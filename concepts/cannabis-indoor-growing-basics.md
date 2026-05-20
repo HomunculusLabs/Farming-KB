@@ -138,7 +138,7 @@ Training methods and spacing: Natural growth 1 plant per 2-3 sq ft, LST 1 per 2 
 
 ### Pre-Harvest (Final 1-2 Weeks)
 
-- Monitor trichomes with a jeweler's loupe (60-100x)
+- Monitor [[trichomes]] with a jeweler's loupe (60-100x)
 - Reduce watering, prepare drying and curing space
 
 ## Common Beginner Mistakes

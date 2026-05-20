@@ -37,7 +37,7 @@ Rabbits are hindgut fermenters — they digest fibrous material through cecal fe
 **Forage-based diet:** Requires more knowledge but closes nutrient loops. Components include:
 
 - **Free-choice grass hay:** Timothy, orchard grass, brome, or fescue. This should constitute 60–80% of the diet.
-- **Fresh forage:** Dandelion, plantain, clover, alfalfa, comfrey (in moderation), raspberry leaves, mulberry leaves, wheatgrass, oats (as green forage or sprouted grain), kale, beet tops, carrot tops.
+- **Fresh forage:** [[dandelion]], plantain, clover, alfalfa, [[comfrey]] (in moderation), raspberry leaves, mulberry leaves, wheatgrass, oats (as green forage or sprouted grain), kale, beet tops, carrot tops.
 - **Grain supplement:** Rolled oats, barley, or wheat — 1–2 oz per day for breeding stock.
 - **Kitchen scraps:** Apple cores, banana peels, carrot ends, melon rinds, squash — in moderation and introduced gradually.
 

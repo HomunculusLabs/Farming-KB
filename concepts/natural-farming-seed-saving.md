@@ -52,7 +52,7 @@ These cross-pollinate and need isolation distances to stay true:
 
 ## Storage
 - Seeds store best cool (40-50°F), dark, and dry (below 8% moisture)
-- Glass jars with desiccant packets in the refrigerator
+- Glass jars with [[desiccant]] packets in the refrigerator
 - Paper envelopes in a cool closet (2-5 year viability for most vegetables)
 - Parsley, onion, and parsnip seeds lose viability quickly (1-2 years)
 - Tomato and lettuce seeds can last 5-10 years under ideal conditions

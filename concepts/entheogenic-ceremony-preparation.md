@@ -21,7 +21,7 @@ Traditional Amazonian preparations involve dietary restrictions, often called "l
 
 Foods to avoid:
 - Pork and red meat (considered heavy and interfering with the medicine)
-- Fermented foods and alcohol (tyramine interaction with MAOI-containing plants like ayahuasca)
+- Fermented foods and alcohol (tyramine interaction with MAOI-containing plants like [[ayahuasca]])
 - Dairy products
 - Refined sugar and processed foods
 - Excess salt and spicy foods
@@ -43,9 +43,9 @@ Critical for safety, especially with MAOI-containing entheogens like ayahuasca:
 
 - Alcohol: Abstain for at least 1-2 weeks prior
 - Cannabis: 3-7 days minimum; longer for heavy users
-- SSRIs: Consult medical professional — discontinuation before ayahuasca is essential (serotonin syndrome risk) but must be tapered gradually
+- SSRIs: Consult medical professional — discontinuation before ayahuasca is essential ([[serotonin]] syndrome risk) but must be tapered gradually
 - MAOIs: Absolutely contraindicated
-- Stimulants (cocaine, amphetamines): At least 1 week
+- Stimulants ([[cocaine]], amphetamines): At least 1 week
 - Other psychedelics: At least 2 weeks between experiences
 - Antidepressants: Sertraline, fluoxetine, and other SSRIs require 2-6 week washout under medical supervision
 
@@ -112,7 +112,7 @@ While structures vary by tradition, common elements include:
 - Opening prayers or invocations
 - Consumption of the medicine (typically in group setting)
 - Period of silence and inward focus (often 2-6 hours)
-- Facilitator presence: singing (icaros), rattling, smudging, or verbal guidance
+- Facilitator presence: singing ([[icaros]]), rattling, smudging, or verbal guidance
 - Individual support: facilitators may attend to participants one-on-one during difficult moments
 - Closing: return to communal space, sharing circle
 

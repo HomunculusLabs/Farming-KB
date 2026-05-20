@@ -126,7 +126,7 @@ or spearmint and is easier to manage.
 ### Care and Maintenance
 - Water regularly during the first season; established plants are moderately
   drought tolerant
-- Mulch with compost to retain moisture and suppress weeds
+- Mulch with [[compost]] to retain moisture and suppress weeds
 - Cut plants back by half after flowering to encourage a fresh flush of
   growth and prevent excessive self-seeding
 - Cut back to the ground in fall; mulch lightly in colder zones

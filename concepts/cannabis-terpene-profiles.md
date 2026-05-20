@@ -12,25 +12,25 @@ sources:
 
 ## Overview
 
-Terpenes are the aromatic compounds responsible for the distinctive scents and flavors of cannabis. Produced in the plant's trichomes alongside cannabinoids like THC and CBD, terpenes contribute to the "entourage effect" -- the synergistic interaction between multiple cannabis compounds that modulates the overall experience. The terpene profile of a strain is a major determinant of its character, and experienced cultivators and consumers identify strains largely by their scent signatures.
+[[terpenes]] are the aromatic compounds responsible for the distinctive scents and flavors of cannabis. Produced in the plant's [[trichomes]] alongside cannabinoids like THC and CBD, terpenes contribute to the "entourage effect" -- the synergistic interaction between multiple cannabis compounds that modulates the overall experience. The terpene profile of a strain is a major determinant of its character, and experienced cultivators and consumers identify strains largely by their scent signatures.
 
 ## Major Cannabis Terpenes
 
 ### Myrcene
 
-The most abundant terpene in most cannabis varieties. Contributes earthy, musky, and herbal aromas reminiscent of cloves and mangoes. Myrcene is also found in hops, thyme, lemongrass, and mango. It is associated with sedative, relaxing effects and is thought to contribute to the "couch-lock" effect of heavy indicas. Greenhouse growers and warm environments bring out rich terpene signatures that include prominent myrcene.
+The most abundant terpene in most cannabis varieties. Contributes earthy, musky, and herbal aromas reminiscent of cloves and mangoes. [[myrcene]] is also found in hops, thyme, lemongrass, and mango. It is associated with sedative, relaxing effects and is thought to contribute to the "couch-lock" effect of heavy indicas. Greenhouse growers and warm environments bring out rich terpene signatures that include prominent myrcene.
 
 ### Limonene
 
-A citrus-scented terpene found in the rinds of citrus fruits, juniper, and peppermint. Strains described as having notes of "citrus," "lemon," or "orange" typically have significant limonene content. It is associated with mood elevation, stress relief, and anti-anxiety effects. Limonene is the second most common terpene in cannabis after myrcene.
+A citrus-scented terpene found in the rinds of citrus fruits, juniper, and peppermint. Strains described as having notes of "citrus," "lemon," or "orange" typically have significant [[limonene]] content. It is associated with mood elevation, stress relief, and anti-anxiety effects. Limonene is the second most common terpene in cannabis after myrcene.
 
 ### Pinene
 
-As the name suggests, pinene produces a pine aroma. It is the most common terpene in the natural world, found in pine needles, rosemary, and basil. Strains with "piney," "forest," or "fuel" notes often have high pinene content. Pinene is associated with mental clarity, alertness, and counteracting some of the memory impairment associated with THC.
+As the name suggests, [[pinene]] produces a pine aroma. It is the most common terpene in the natural world, found in pine needles, rosemary, and basil. Strains with "piney," "forest," or "fuel" notes often have high pinene content. Pinene is associated with mental clarity, alertness, and counteracting some of the memory impairment associated with THC.
 
 ### Linalool
 
-A floral terpene with a lavender-like aroma, also found in lavender, birch bark, and coriander. Strains described as "floral," "perfume-like," or "sweet" often contain linalool. It is associated with calming, anxiolytic, and sedative effects, and is commonly used in aromatherapy for relaxation.
+A floral terpene with a lavender-like aroma, also found in lavender, birch bark, and coriander. Strains described as "floral," "perfume-like," or "sweet" often contain [[linalool]]. It is associated with calming, anxiolytic, and sedative effects, and is commonly used in aromatherapy for relaxation.
 
 ### Beta-Caryophyllene
 
@@ -38,7 +38,7 @@ A spicy, peppery terpene found in black pepper, cloves, cinnamon, and cannabis. 
 
 ### Humulene
 
-An earthy, woody terpene also prominent in hops ([[humulus-lupulus]], its namesake). Contributes notes described as "earthy," "woody," or "spice." Strains with earthy aroma profiles often have notable humulene content. It is associated with appetite suppression and anti-inflammatory effects.
+An earthy, woody terpene also prominent in hops ([[humulus-lupulus]], its namesake). Contributes notes described as "earthy," "woody," or "spice." Strains with earthy aroma profiles often have notable [[humulene]] content. It is associated with appetite suppression and anti-inflammatory effects.
 
 ## Terpene Profiles in Practice
 

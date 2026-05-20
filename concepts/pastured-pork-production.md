@@ -98,7 +98,7 @@ Ideal slaughter weight: 240-280 lbs live (175-200 lbs hanging weight).
 - Shelter: simple 3-sided hoop house or A-frame, 8x10 ft minimum per 3-4 pigs
 - Water: nipple waterers or heavy rubber tubs (they'll tip lightweight ones)
 - Wallows: pigs need access to mud in summer for cooling and sun protection
-- Winter: deep bedding (straw, hay) in shelter -- pigs will compost it themselves
+- Winter: deep bedding (straw, hay) in shelter -- pigs will [[compost]] it themselves
 
 ## Pasture Rotation
 

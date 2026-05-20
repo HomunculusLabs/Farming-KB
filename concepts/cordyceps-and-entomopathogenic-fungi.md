@@ -51,7 +51,7 @@ The most prized medicinal fungus in Traditional Chinese Medicine.
 - Traditionally harvested by hand in spring; increasingly scarce due to overharvesting
 - Prices reached $50,000-100,000 per kilogram at peak, though prices have moderated
 - Contains cordycepin (3'-deoxyadenosine), adenosine, and other bioactive compounds
-- CS-4 is a commercially available fermented mycelium product claimed to mimic wild C. sinensis
+- CS-4 is a commercially available fermented [[mycelium]] product claimed to mimic wild C. sinensis
 - Classified as a protected species in China; harvest regulations have been implemented
 
 ## Beauveria

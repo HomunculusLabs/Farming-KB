@@ -40,7 +40,7 @@ Psilocybin mushrooms occupy a unique position in drug policy discussions:
 
 **Oakland, California (June 2019)**
 - City council unanimously passed a resolution decriminalizing psilocybin
-- Went further than Denver by decriminalizing all "entheogenic plants and fungi" — including peyote, ayahuasca, iboga, and mescaline-containing cacti
+- Went further than Denver by decriminalizing all "entheogenic plants and fungi" — including [[peyote]], [[ayahuasca]], iboga, and [[mescaline]]-containing cacti
 - Became the model for subsequent broader entheogen decriminalization
 
 **Santa Cruz, California (January 2020)**
@@ -78,7 +78,7 @@ Colorado became the second state to legalize psilocybin:
 - **Proposition 122** (passed November 2022, 53.6% of vote): Natural Medicine Health Act
 - Decriminalized personal use and possession of psilocybin and other natural medicines
 - Created a regulated "healing center" model for psilocybin administration (similar to Oregon)
-- Established a pathway to add other natural medicines (ibogaine, mescaline, DMT) by 2026
+- Established a pathway to add other natural medicines ([[ibogaine]], mescaline, DMT) by 2026
 - Created the Natural Medicine Advisory Board
 - Prohibited peyote from the commercial program (respecting conservation concerns)
 - Implementation began in 2024

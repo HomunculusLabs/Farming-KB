@@ -131,7 +131,7 @@ Adequate ventilation is critical — high tunnels can overheat rapidly on sunny 
 
 ### Spring (Using High Tunnel)
 
-- **February-March:** Plant cold-hardy greens (spinach, kale, arugula, lettuce, Asian greens), radishes, turnips, carrots
+- **February-March:** Plant cold-hardy greens (spinach, kale, [[arugula]], lettuce, Asian greens), radishes, turnips, carrots
 - **March-April:** Plant warm-season crops (tomatoes, peppers, cucumbers, squash, beans)
 - **Advantage:** 4-8 weeks ahead of outdoor planting dates
 

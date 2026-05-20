@@ -66,7 +66,7 @@ Uses: immune support, antiviral, anti-inflammatory, fever reduction. Deciduous s
 
 - Seed: many herbs grow readily from seed. Stratify per species requirements. Start indoors 6-8 weeks before last frost.
 - Cuttings: softwood cuttings in spring for mint, rosemary, lavender, thyme. Root in water or damp potting mix with humidity dome.
-- Division: divide perennials in early spring or fall. Chamomile, echinacea, yarrow, valerian, marshmallow all divide well.
+- Division: divide perennials in early spring or fall. Chamomile, echinacea, [[yarrow]], valerian, marshmallow all divide well.
 - Layering: bend a low stem to the ground, pin it, and cover with soil. Roots form at the node in 4-8 weeks.
 
 ## Harvesting and Drying

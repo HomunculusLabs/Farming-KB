@@ -112,7 +112,7 @@ The foundation should extend at least 8 inches beyond the wall face on each side
 The center of a 24-inch cordwood wall is largely air space between log ends. This space can be filled for additional insulation:
 
 - Sawdust (least effective, cheapest)
-- Cellulose insulation (good insulation, moderate cost)
+- [[cellulose]] insulation (good insulation, moderate cost)
 - Roxul/mineral wool batts (excellent insulation, higher cost)
 - Spray foam (excellent insulation, highest cost)
 - Mix of sawdust and lime (traditional, moderate insulation)

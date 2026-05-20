@@ -36,7 +36,7 @@ requirements, and ideal uses.
 ## Medicinal Uses
 
 Both species contain similar active compounds: chamazulene (anti-inflammatory),
-apigenin (sedative, anxiolytic), bisabolol (anti-inflammatory, anti-microbial),
+[[apigenin]] (sedative, anxiolytic), [[bisabolol]] (anti-inflammatory, anti-microbial),
 and flavonoids.
 
 Primary applications:

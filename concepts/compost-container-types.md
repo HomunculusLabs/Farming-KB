@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Compost containers keep compost moist right up to the edges and keep the area tidy. Whether you build or buy, the key requirement is easy access to the compost when it is ready for the garden. Several types are available, from manufactured bins to simple homemade solutions.
+[[compost]] containers keep compost moist right up to the edges and keep the area tidy. Whether you build or buy, the key requirement is easy access to the compost when it is ready for the garden. Several types are available, from manufactured bins to simple homemade solutions.
 
 ## Manufactured Containers
 

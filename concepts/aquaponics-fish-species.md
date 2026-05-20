@@ -13,7 +13,7 @@ Choosing the right fish species is critical to [[aquaponics]] system success. Fi
 
 ## Tilapia (Oreochromis spp.)
 
-Tilapia is the most popular aquaponics fish worldwide for good reason.
+[[tilapia]] is the most popular aquaponics fish worldwide for good reason.
 
 - Temperature range: 20-30 C (68-86 F), optimal 26-28 C
 - Growth rate: Fast — reach harvest size (350-500g) in 6-9 months

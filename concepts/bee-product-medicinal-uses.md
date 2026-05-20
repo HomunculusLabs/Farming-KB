@@ -23,7 +23,7 @@ research supports several mechanisms:
 - **Osmotic effect** — high sugar concentration draws water from wounds,
   reducing edema and creating an unfavorable environment for bacteria
 - **Low pH (3.2-4.5)** — acidic environment inhibits bacterial growth
-- **Hydrogen peroxide production** — the enzyme glucose oxidase produces
+- **Hydrogen peroxide production** — the [[enzyme]] glucose oxidase produces
   low levels of H2O2 when honey is diluted by wound fluids, providing
   sustained antibacterial action
 - **MGO (methylglyoxal)** — unique to manuka honey; non-peroxide
@@ -72,7 +72,7 @@ They use it to seal gaps in the hive and as an antimicrobial agent.
 
 ### Composition
 Over 300 compounds identified, including flavonoids, phenolic acids,
-terpenes, and aromatic compounds. Exact composition varies by botanical
+[[terpenes]], and aromatic compounds. Exact composition varies by botanical
 source and region.
 
 ### Medicinal Properties
@@ -93,7 +93,7 @@ source and region.
 - **Wound care** — propolis ointments for minor cuts and abrasions
 
 ### Preparation
-- **Tincture** — steep propolis chunks in 70% ethanol for 2-4 weeks;
+- **Tincture** — steep propolis chunks in 70% [[ethanol]] for 2-4 weeks;
   strain and dilute for internal use
 - **Salve** — infuse propolis in oil, combine with beeswax for topical use
 - **Powder** — freeze propolis, grind in a coffee grinder, encapsulate

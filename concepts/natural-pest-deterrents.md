@@ -89,7 +89,7 @@ Insecticidal soap is a potassium salt of fatty acids that breaks down insect cel
 
 ## Garlic and Chile Spray
 
-Garlic-chile sprays combine the repellent properties of garlic (allicin and other sulfur compounds) with the capsaicin burn of hot chiles. They repel a wide range of pests by smell and taste.
+Garlic-chile sprays combine the repellent properties of garlic ([[allicin]] and other sulfur compounds) with the [[capsaicin]] burn of hot chiles. They repel a wide range of pests by smell and taste.
 
 ### Basic Recipe
 

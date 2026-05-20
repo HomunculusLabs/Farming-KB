@@ -18,7 +18,7 @@ Home grain milling transforms whole grains into fresh flour at the point of use.
 Commercial whole wheat flour has lost significant nutritional value by the time it reaches the consumer:
 
 - **Vitamin E degradation** — Wheat germ oil contains vitamin E, which oxidizes rapidly once the grain is crushed. Commercial whole wheat flour typically loses 50-90% of its vitamin E within days of milling
-- **Enzyme activity** — Fresh flour contains active enzymes (amylase, protease) that improve dough development and bread quality
+- **[[enzyme]] activity** — Fresh flour contains active enzymes (amylase, protease) that improve dough development and bread quality
 - **Flavor** — Fresh flour has a complex, slightly sweet, nutty flavor that commercial flour lacks
 - **Complete nutrition** — The bran, germ, and endosperm remain intact and balanced
 

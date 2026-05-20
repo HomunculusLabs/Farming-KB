@@ -36,7 +36,7 @@ Days 6-14:
 ### Alternative Capture Methods
 
 - Organic fruit method: add a few organic grapes or unwashed berries to the initial mix
-- Rye flour method: rye ferments faster due to higher enzyme and mineral content
+- Rye flour method: rye ferments faster due to higher [[enzyme]] and mineral content
 - Whole grain method: whole wheat or whole rye has more wild organisms than white flour
 
 ## Sourdough Maintenance

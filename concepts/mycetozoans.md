@@ -34,7 +34,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 **Characteristics**:
 - Microscopic fruiting bodies with delicate acellular stalks supporting 1-few spores
 - Trophic cells are diverse: amoeboid, flagellated, or both
-- Spores germinate as amoebae or amoeboflagellates
+- Spores germinate as [[amoebae]] or amoeboflagellates
 - Many species produce both flagellated and non-flagellated trophic cells
 
 **Distribution**: Probably ubiquitous. Collected from subarctic North America, temperate and desert North America, Caribbean, Brazil, Melanesia, Micronesia, Polynesia, Japan, Southeast Asia, England, Africa. Most species appear cosmopolitan; endemism likely does not exist.

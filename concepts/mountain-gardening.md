@@ -143,8 +143,8 @@ Mountain soils are typically shallow, rocky, and low in organic matter:
 - Often acidic due to conifer influence and high rainfall
 
 ### Building Soil
-- Import compost and organic matter; incorporate 4-6 inches into new beds
+- Import [[compost]] and organic matter; incorporate 4-6 inches into new beds
 - Use raised beds to increase rooting depth above rocky subsoil
 - Plant [[green-manure-cover-crops]] during short off-seasons (hairy vetch, field peas, oats, winter rye)
 - Mulch heavily to retain moisture and build organic matter
-- Add biochar to improve nutrient retention in sandy mountain soils
+- Add [[biochar]] to improve nutrient retention in sandy mountain soils

@@ -94,7 +94,7 @@ fertilizer that can be applied directly without [[composting]].
   and calcium). Too rich for adult maintenance.
 
 ### Fresh Feed
-- 10-20% of diet can be fresh greens: dandelion, plantain, comfrey,
+- 10-20% of diet can be fresh greens: [[dandelion]], plantain, [[comfrey]],
   raspberry leaves, clover, parsley.
 - Avoid iceberg lettuce (causes diarrhea), cabbage family in excess,
   potatoes, rhubarb.

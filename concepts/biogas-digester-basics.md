@@ -32,7 +32,7 @@ Four stages of microbial [[decomposition]] occur in sequence:
 
 ### 1. Hydrolysis
 
-Complex organic molecules (cellulose, proteins, fats) are broken down into simpler soluble compounds by hydrolytic bacteria. This is often the rate-limiting step, especially for fibrous feedstocks. Temperature range: psychrophilic (55-68F), mesophilic (85-105F), or thermophilic (120-140F).
+Complex organic molecules ([[cellulose]], proteins, fats) are broken down into simpler soluble compounds by hydrolytic bacteria. This is often the rate-limiting step, especially for fibrous feedstocks. Temperature range: psychrophilic (55-68F), mesophilic (85-105F), or thermophilic (120-140F).
 
 ### 2. Acidogenesis
 

@@ -30,7 +30,7 @@ A mud oven (also called cob oven, earth oven, or clay oven) is a wood-fired baki
 | Firebricks | 25-35 (for hearth floor) | Oven floor (cooking surface) |
 | Gravel/crushed rock | 2-3 cubic feet | Insulation base |
 | Empty glass bottles | 20-30 | Insulation layer under floor |
-| Sawdust or perlite | 2-3 cubic feet | Insulation around dome |
+| Sawdust or [[perlite]] | 2-3 cubic feet | Insulation around dome |
 | Newspaper | 1 stack | Mold for the oven dome |
 | Water | 5-10 gallons | Mixing |
 

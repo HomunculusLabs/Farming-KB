@@ -30,14 +30,14 @@ produces a beautiful red oil infusion valued in topical [[herbal-medicine]].
 The name "perforatum" refers to the translucent oil glands visible in the
 leaves when held up to light. Flowers are bright yellow with five petals
 and prominent stamens. When flower buds or flowers are crushed, they release
-a reddish-purple pigment (hypericin), which is the signature of this plant.
+a reddish-purple pigment ([[hypericin]]), which is the signature of this plant.
 
 ## Medicinal Uses
 
 St. John's Wort contains several active compounds: hypericin, hyperforin,
 pseudohypericin, flavonoids, and xanthones. Hyperforin is now believed to
 be the primary compound responsible for the antidepressant effect, acting on
-serotonin, dopamine, and norepinephrine reuptake.
+[[serotonin]], dopamine, and norepinephrine reuptake.
 
 Internal uses:
 - Mild to moderate depression: The most extensively studied use. Numerous
@@ -70,7 +70,7 @@ CYP3A4) and P-glycoprotein, which speeds up the metabolism of many drugs:
 - Immunosuppressants (cyclosporine): Can cause organ rejection in transplant
   patients
 - HIV protease inhibitors: Reduces drug effectiveness
-- Digoxin: Reduces cardiac drug levels
+- [[digoxin]]: Reduces cardiac drug levels
 - Benzodiazepines: Reduces effectiveness
 - Many other medications: Always check with a pharmacist or practitioner
 
@@ -132,7 +132,7 @@ Management:
 - Check local regulations before planting -- it is legally restricted in some
   areas
 - Keep away from pastures where livestock graze
-- Do not compost mature seed heads
+- Do not [[compost]] mature seed heads
 
 ## See Also
 - [[comparison-calendula-vs-st-johns-wort]]

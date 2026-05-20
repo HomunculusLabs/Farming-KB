@@ -23,7 +23,7 @@ Wind harmonics are important: ground winds do not blow steadily, but vary as gus
 
 ## Design Principles
 
-On sites with predictable wind patterns, we can plan directional, patterned windbreak of earthbank and trees. On sites where severe winds may come from any direction, the strategy is to impose a close rectangular or network pattern on windbreak.
+On sites with predictable wind patterns, we can plan directional, patterned windbreak of [[earthbank]] and trees. On sites where severe winds may come from any direction, the strategy is to impose a close rectangular or network pattern on windbreak.
 
 ### Essential Requirements
 
@@ -62,7 +62,7 @@ Blizzards will kill livestock and newborn lambs, and even hardy animals can lose
 
 ### On Croplands
 
-A matrix of shelterbelt species 10-16m in height and 33-66m apart (Casuarina, poplar, Matsudana willow, trimmed eucalypt) affords wind protection. Citrus culled as damaged is 50% of crop in unsheltered areas versus 18.5% in shelterbelt systems. Cotton yields are 17.4% higher within five times the height of the shelterbelt.
+A matrix of shelterbelt species 10-16m in height and 33-66m apart ([[casuarina]], poplar, Matsudana willow, trimmed eucalypt) affords wind protection. Citrus culled as damaged is 50% of crop in unsheltered areas versus 18.5% in shelterbelt systems. Cotton yields are 17.4% higher within five times the height of the shelterbelt.
 
 ### On Soil Moisture
 

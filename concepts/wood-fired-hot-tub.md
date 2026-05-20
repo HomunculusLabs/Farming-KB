@@ -83,7 +83,7 @@ Wood-fired tubs typically do not use conventional pool chemicals (chlorine is un
 
 ### Non-Chemical Methods
 - **Drain and refill** — the simplest approach. Drain every 1-3 weeks depending on use. At 250-400 gallons, this is practical if you have a water source. See [[water-management|water]] systems.
-- **Enzyme treatment** — commercial enzyme products (like Spa Marvel) break down body oils and organic matter. Add weekly. Extends water life to 2-4 weeks.
+- **[[enzyme]] treatment** — commercial enzyme products (like Spa Marvel) break down body oils and organic matter. Add weekly. Extends water life to 2-4 weeks.
 - **Hydrogen peroxide** — 1 cup of 3% hydrogen peroxide per 100 gallons helps oxidize contaminants. Safer than chlorine and breaks down to water and oxygen.
 - **Ozone generators** — small 12V ozone units reduce contaminants. Effective but require electricity.
 

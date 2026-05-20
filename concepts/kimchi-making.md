@@ -50,7 +50,7 @@ The foundation of the most common kimchi variety (baechu-kimchi).
 - Ginger — 1-2 tablespoons, minced or grated
 - Korean radish (mu) — julienned or matchstick-cut, roughly 1 cup
 - Scallions (green onions) — 4-6, cut into 1-inch pieces
-- Sugar or Asian pear — 1 tablespoon sugar or 1/4 grated Asian pear for sweetness and enzyme activity
+- Sugar or Asian pear — 1 tablespoon sugar or 1/4 grated Asian pear for sweetness and [[enzyme]] activity
 - Water — a small amount to thin the seasoning paste
 
 ## The Brining Process
@@ -140,7 +140,7 @@ Refrigeration at any point slows fermentation dramatically. Kimchi keeps in the 
 - Rich source of lactic acid bacteria ([[lactobacillus]], Leuconostoc, Weissella species)
 - High in vitamins A, B, C, and K
 - Contains dietary fiber from the vegetables
-- Capsaicin from gochugaru has anti-inflammatory properties
+- [[capsaicin]] from gochugaru has anti-inflammatory properties
 - Fermentation increases bioavailability of nutrients
 - Supports gut microbiome health
 

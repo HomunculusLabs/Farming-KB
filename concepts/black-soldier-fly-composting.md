@@ -17,7 +17,7 @@ The BSF lifecycle has four stages:
 
 1.  **Egg** — Females lay 500-900 eggs near decaying organic matter. Eggs hatch in 3-4 days.
 2.  **Larva** — The active feeding stage lasts 14-21 days. Larvae grow from 1 mm to 25 mm and pass through 6 instars. This is the composting workhorse stage.
-3.  **Prepupa** — Larvae stop feeding, turn dark, and seek dry pupation sites. They migrate out of the compost on their own, enabling self-harvesting.
+3.  **Prepupa** — Larvae stop feeding, turn dark, and seek dry pupation sites. They migrate out of the [[compost]] on their own, enabling self-harvesting.
 4.  **Adult** — Adults live 5-8 days, do not feed, and focus solely on mating and egg-laying. They are drawn to composting bins by volatile organic compound cues.
 
 ## Bin Design

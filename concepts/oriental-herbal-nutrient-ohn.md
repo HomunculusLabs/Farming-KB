@@ -25,7 +25,7 @@ sources:
 
 # Oriental Herbal Nutrient (OHN)
 
-OHN is a medicinal herbal tincture in [[korean-natural-farming]]. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
+OHN is a medicinal herbal tincture in [[korean-natural-farming]]. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds ([[allicin]], gingerol, [[capsaicin]], etc.) that strengthen cell walls and repel pests.
 
 ## The Five Herbs
 
@@ -34,7 +34,7 @@ Cho's original formulation uses five medicinal herbs, each contributing specific
 | Herb | Active Compounds | Primary Function |
 |------|-----------------|-----------------|
 | Angelica (Angelica gigas/Dong Quai) | Coumarins, angelic acid | Immune system stimulation, disease resistance |
-| Cinnamon ([[cinnamomum-cassia]]) | Cinnamaldehyde, eugenol | Antifungal, antibacterial, growth promotion |
+| Cinnamon ([[cinnamomum-cassia]]) | Cinnamaldehyde, [[eugenol]] | Antifungal, antibacterial, growth promotion |
 | Garlic | Allicin, diallyl disulfide | Broad-spectrum antimicrobial, pest repellent |
 | Ginger | Gingerol, shogaol | Antifungal, growth stimulant, digestive aid |
 | Licorice ([[glycyrrhiza-uralensis]]) | Glycyrrhizin | Harmonizer, anti-inflammatory, enhances other herbs |

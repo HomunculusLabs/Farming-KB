@@ -5,11 +5,11 @@ type: concept
 ---
 ## Key Takeaways
 
-- The Amanita alkaloid exists under several historical names: **muscarine**, **bulbosine**, and **amanitine**.
+- The [[amanita]] alkaloid exists under several historical names: **[[muscarine]]**, **[[bulbosine]]**, and **[[amanitine]]**.
 - **Currie and Vigier (1868)** produced the first standardized pharmaceutical forms from *A. mappa*.
 - 19th-century physicians used Amanita preparations for catarrh, epilepsy, skin disease, tuberculosis, and even as a proposed **opium substitute**.
 - The alkaloid is absorbed via the **intestinal canal, skin, and lungs** — ingestion is not the only dangerous route.
-- **Atropine** (from the [[solanaceae]] family), administered hypodermically, is the antidote, exploiting competitive receptor antagonism.
+- **[[atropine]]** (from the [[solanaceae]] family), administered hypodermically, is the antidote, exploiting competitive receptor antagonism.
 - **Shorter latency** between exposure and symptom onset predicts a **better prognosis**.
 - Physicians should suspect Amanita poisoning when **cholera-like symptoms** appear **6–18 hours** after mushroom consumption, especially with the characteristic **ash-colored complexion**.
 

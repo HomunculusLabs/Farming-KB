@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Few gardens produce enough waste organic material to be self-sufficient in compost. However, a remarkable amount of useful material that would otherwise be thrown away can be "harvested" by the organic gardener from local sources.
+Few gardens produce enough waste organic material to be self-sufficient in [[compost]]. However, a remarkable amount of useful material that would otherwise be thrown away can be "harvested" by the organic gardener from local sources.
 
 ## External Sources of Compost Material
 
@@ -32,7 +32,7 @@ Leaves from municipal collection are often available. They may contain trash (ci
 
 ## Leaf Mold
 
-Leaves are slow to rot because they contain lignin. Expect to wait at least one year, possibly two to three, for crumbly leaf mold ready to use.
+Leaves are slow to rot because they contain [[lignin]]. Expect to wait at least one year, possibly two to three, for crumbly leaf mold ready to use.
 
 - Leaf mold is too good for general mulching — use as potting or seed-sowing compost
 - The decaying process differs from green compost: leaves are broken down by fungi (which need more light and less air), not bacteria

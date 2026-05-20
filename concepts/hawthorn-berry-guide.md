@@ -43,7 +43,7 @@ Common species for cultivation:
 ## Medicinal Uses
 
 Hawthorn is the preeminent cardiovascular tonic in Western herbalism. Active
-compounds include oligomeric procyanidins (OPCs), flavonoids (quercetin,
+compounds include oligomeric procyanidins (OPCs), flavonoids ([[quercetin]],
 rutin, vitexin), and triterpenoid acids.
 
 Key medicinal applications:
@@ -101,7 +101,7 @@ and suitable for hedgerows and windbreaks.
 ### Care and Maintenance
 - Water regularly during the first year; minimal irrigation needed after
   establishment
-- Minimal fertilizer requirements; a spring application of compost is sufficient
+- Minimal fertilizer requirements; a spring application of [[compost]] is sufficient
 - Mulch annually to retain moisture and suppress weeds
 - Hawthorns are generally disease-resistant when healthy and well-sited
 

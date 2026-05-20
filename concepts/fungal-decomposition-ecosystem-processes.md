@@ -5,9 +5,9 @@ type: concept
 ---
 ## Lichens on Rocky Coastlines: Rock Dissolution and Ocean Nutrient Input
 
-Lichens — symbiotic associations between fungi (mycobionts) and photosynthetic partners (photobionts) — play a unique role in coastal nutrient cycling:
+[[lichens]] — symbiotic associations between fungi (mycobionts) and photosynthetic partners (photobionts) — play a unique role in coastal nutrient cycling:
 
-- Lichens colonizing rocky coastlines and intertidal zones contribute to **rock weathering and dissolution** through the production of organic acids (oxalic, usnic, and other lichen acids)
+- Lichens colonizing rocky coastlines and intertidal zones contribute to **rock weathering and dissolution** through the production of organic acids (oxalic, usnic, and other [[lichen]] acids)
 - This slow but continuous dissolution of mineral substrates releases cations (calcium, magnesium, potassium, iron) and trace elements into coastal waters
 - The nutrient input from lichen-mediated rock dissolution contributes to oceanic chemical budgets, particularly in regions with extensive rocky shorelines
 - Lichens represent one of the few biological agents capable of initiating primary mineral breakdown on bare rock surfaces, a process that ultimately contributes to soil formation on land and nutrient input at sea

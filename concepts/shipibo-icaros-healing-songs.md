@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Icaros are sacred healing songs used by Amazonian vegetalistas (plant healers) during ayahuasca ceremonies. They are received directly from plant spirits during dieta (plant dieting) and serve multiple functions: calling protective spirits, directing the visionary experience, extracting illness, and defending against hostile entities. Pablo Amaringo's paintings frequently depict icaros as visible, luminous energies — ribbons, waves, or geometric patterns that radiate from the mouth of the singing vegetalista.
+[[icaros]] are sacred healing songs used by Amazonian vegetalistas (plant healers) during [[ayahuasca]] ceremonies. They are received directly from plant spirits during dieta (plant dieting) and serve multiple functions: calling protective spirits, directing the visionary experience, extracting illness, and defending against hostile entities. Pablo Amaringo's paintings frequently depict icaros as visible, luminous energies — ribbons, waves, or geometric patterns that radiate from the mouth of the singing vegetalista.
 
 ## Nature and Origin of Icaros
 
@@ -30,7 +30,7 @@ Icaros are sacred healing songs used by Amazonian vegetalistas (plant healers) d
 - Create energetic shields around the ceremony space
 - Used to ward off evil spirits, sorcerers (brujos), and hostile entities
 - Depicted in Amaringo's paintings as colorful geometric arcs, nets, or barriers
-- Some form visible "arkana" defenses — luminous walls of light
+- Some form visible "[[arkana]]" defenses — luminous walls of light
 
 **Healing Icaros**
 - Used to extract illness from a patient's body
@@ -85,7 +85,7 @@ Amaringo's paintings represent a visual translation of icaros — the patterns, 
 
 ## Modern Context
 
-Icaros have become one of the most studied aspects of Amazonian shamanism. They represent:
+Icaros have become one of the most studied aspects of Amazonian [[shamanism]]. They represent:
 - An oral tradition of immense complexity and specificity
 - A pharmacological component (sound/vibration affecting consciousness states)
 - A cultural bridge between Indigenous Amazonian knowledge and the modern world

@@ -120,7 +120,7 @@ Caused by encapsulated yeast [[cryptococcus-neoformans]] and C. gattii.
 
 ### Mucormycosis
 
-Caused by fungi in the order Mucorales (Rhizopus, Mucor, Lichtheimia, Cunninghamella). Aggressive, rapidly progressive infection.
+Caused by fungi in the order Mucorales ([[rhizopus]], Mucor, Lichtheimia, Cunninghamella). Aggressive, rapidly progressive infection.
 
 **Risk factors**: Diabetic ketoacidosis, neutropenia, iron overload (deferoxamine therapy), transplantation, prolonged corticosteroid use.
 

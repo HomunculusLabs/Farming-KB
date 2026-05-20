@@ -135,7 +135,7 @@ Stone fruits have specific chill hour requirements for proper dormancy release a
 ### Plum Curculio
 - Small weevil that scars fruit and causes premature drop
 - More severe on peaches and plums than cherries
-- Management: Surround WP (kaolin clay), pyrethrin at petal fall, clean up dropped fruit
+- Management: Surround WP ([[kaolin]] clay), pyrethrin at petal fall, clean up dropped fruit
 
 ### Cherry Fruit Fly
 - Maggots in sweet cherries — the primary pest of sweet cherries

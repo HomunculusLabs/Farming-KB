@@ -56,7 +56,7 @@ A [[cold-frame]] is a bottomless box with a transparent lid, used to extend the 
 
 ## What to Grow
 - Early spring: lettuce, spinach, radishes, onions, brassicas
-- Autumn extension: lettuce, Asian greens, arugula, carrots, beets
+- Autumn extension: lettuce, Asian greens, [[arugula]], carrots, beets
 - Winter: garlic, shallots, overwintering onions
 
 ## Related

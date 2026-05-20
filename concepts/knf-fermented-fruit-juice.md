@@ -58,7 +58,7 @@ Choose fruits appropriate to the plant's growth stage:
 7. In 3-4 days, osmotic pressure begins extracting liquid from plant material
 8. Ferment at 23-25C in a cool, shaded place
 9. After 7 days, liquid begins dripping out (collect this)
-10. The remaining solid can be dried and used as animal feed or compost
+10. The remaining solid can be dried and used as animal feed or [[compost]]
 11. Fermented juice is extracted and used
 
 ## Fermentation Time

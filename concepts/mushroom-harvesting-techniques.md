@@ -79,7 +79,7 @@ Aborts are small mushrooms that have stopped growing and begun to die. They are 
 - Caps may darken or develop a bluish tint.
 - Stems may appear shriveled or thin compared to healthy mushrooms.
 
-**Harvest aborts along with the flush.** Aborts are fully potent — often proportionally more potent by weight than mature mushrooms because [[psilocybin]]/psilocin concentration peaks before full maturity. Leaving aborts on the substrate creates contamination risk.
+**Harvest aborts along with the flush.** Aborts are fully potent — often proportionally more potent by weight than mature mushrooms because [[psilocybin]]/[[psilocin]] concentration peaks before full maturity. Leaving aborts on the substrate creates contamination risk.
 
 ## Drying
 
@@ -108,7 +108,7 @@ A food dehydrator is the fastest and most reliable drying method:
 
 For cultivators without a dehydrator:
 
-1. Place mushrooms on a wire rack over a bed of desiccant (silica gel, DampRid, or indicating silica gel).
+1. Place mushrooms on a wire rack over a bed of [[desiccant]] (silica gel, DampRid, or indicating silica gel).
 2. Seal in an airtight container (Tupperware, gallon jar).
 3. Replace desiccant when it changes color (for indicating gel) or becomes saturated.
 4. This method takes 3-7 days and may not achieve cracker-dry consistency in humid environments.

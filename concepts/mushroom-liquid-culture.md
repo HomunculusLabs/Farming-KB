@@ -9,7 +9,7 @@ sources: [raw/papers/unknown-mushroom-culture-patent-2761246.md]
 
 ## Overview
 
-[[liquid-culture]] (LC) is a nutrient-rich liquid medium inoculated with mushroom mycelium. The mycelium grows throughout the liquid, forming a floating mat of white growth that can be drawn into a syringe and used to inoculate grain jars. Liquid culture offers several advantages over spore syringes: faster colonization, lower contamination rates, and the ability to expand a small amount of mycelium into a large number of inoculations. It is an essential skill for cultivators working at any scale beyond casual hobby growing.
+[[liquid-culture]] (LC) is a nutrient-rich liquid medium inoculated with mushroom [[mycelium]]. The mycelium grows throughout the liquid, forming a floating mat of white growth that can be drawn into a syringe and used to inoculate grain jars. Liquid culture offers several advantages over spore syringes: faster colonization, lower contamination rates, and the ability to expand a small amount of mycelium into a large number of inoculations. It is an essential skill for cultivators working at any scale beyond casual hobby growing.
 
 ## How Liquid Culture Works
 
@@ -23,7 +23,7 @@ The simplest and most accessible LC recipe.
 
 - 500ml distilled water
 - 15-20ml raw honey (approximately 1 tablespoon)
-- A pinch of gypsum (optional)
+- A pinch of [[gypsum]] (optional)
 
 Process:
 1. Add honey to distilled water in a jar or flask.
@@ -82,7 +82,7 @@ For cultivators with a flow hood, Erlenmeyer flasks fitted with foam stoppers or
 
 ### Specialty Culture Bags
 
-Pre-sterilized LC bags with injection ports and filters are available from mycology suppliers. Convenient but more expensive than DIY.
+Pre-sterilized LC bags with injection ports and filters are available from [[mycology]] suppliers. Convenient but more expensive than DIY.
 
 ## Sterilization
 

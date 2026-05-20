@@ -20,7 +20,7 @@ Healthy cannabis seeds should exhibit:
 - **Smooth, intact surface**: Cracks, dents, or holes suggest damage or age.
 - **Size**: Larger seeds generally have more energy reserves, though this is not always correlated with plant quality.
 
-Store seeds in a cool, dark, dry place. Refrigeration in an airtight container with desiccant extends viability to 2+ years.
+Store seeds in a cool, dark, dry place. Refrigeration in an airtight container with [[desiccant]] extends viability to 2+ years.
 
 ## Germination Methods
 

@@ -15,7 +15,7 @@ Turmeric is a tropical herbaceous perennial in the ginger family, native to
 the Indian subcontinent and Southeast Asia. Widely known as the golden spice
 that gives curry its color, turmeric has been used for over 4,000 years in
 Ayurvedic medicine, traditional Chinese medicine, and culinary traditions.
-Its primary active compound, curcumin, is one of the most studied
+Its primary active compound, [[curcumin]], is one of the most studied
 phytochemicals in modern biomedical research for its potent anti-inflammatory,
 antioxidant, and anticancer properties.
 
@@ -60,7 +60,7 @@ Key medicinal applications:
 
 Bioavailability challenge: Curcumin has very poor oral bioavailability.
 Absorption can be significantly enhanced by:
-- Combining with black pepper (piperine increases absorption by up to 2,000%)
+- Combining with black pepper ([[piperine]] increases absorption by up to 2,000%)
 - Consuming with fats (curcumin is fat-soluble)
 - Using liposomal or nano-curcumin formulations
 
@@ -78,7 +78,7 @@ Ideal conditions include:
 ### Soil Preparation
 Turmeric prefers loose, well-drained, organically rich soil with a pH of
 5.5-7.0. Raised beds or mounded rows are ideal to ensure good drainage and
-loose soil for rhizome expansion. Work in generous amounts of compost or
+loose soil for rhizome expansion. Work in generous amounts of [[compost]] or
 well-rotted manure before planting. The soil should be loose enough to allow
 rhizomes to expand freely -- compacted soil produces small, deformed rhizomes.
 

@@ -20,7 +20,7 @@ Cannabis has been used as a sleep aid for centuries. Modern research confirms it
 - Long-term THC use may alter sleep architecture (REM rebound on cessation = vivid dreams)
 
 ### Indica vs Sativa
-- Indica-dominant strains: More sedating, better for sleep (higher myrcene)
+- Indica-dominant strains: More sedating, better for sleep (higher [[myrcene]])
 - Sativa-dominant strains: More stimulating, may disrupt sleep
 - Hybrid strains: Variable effects depending on terpene profile
 
@@ -41,7 +41,7 @@ Cannabis has been used as a sleep aid for centuries. Modern research confirms it
 ### PTSD-Related Nightmares
 - Evidence level: Moderate
 - THC before sleep significantly reduces nightmare frequency
-- Nabilone (synthetic THC) FDA-approved off-label for PTSD nightmares
+- [[nabilone]] (synthetic THC) FDA-approved off-label for PTSD nightmares
 - CBD daytime + THC nighttime may be optimal combination
 
 ### Chronic Pain-Related Insomnia

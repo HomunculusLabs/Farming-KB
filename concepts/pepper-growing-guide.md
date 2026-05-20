@@ -15,7 +15,7 @@ Peppers (Capsicum species) are warm-season crops that thrive in heat and full su
 
 ### Sweet Peppers (Capsicum annuum)
 - Bell peppers, pimentos, frying peppers, sweet bananas.
-- Mild, no capsaicin (or negligible levels).
+- Mild, no [[capsaicin]] (or negligible levels).
 - Most popular: bell peppers (green, red, yellow, orange, purple).
 - Shishito, Padrón (occasionally hot), Cubanelle, Marconi.
 
@@ -69,13 +69,13 @@ Peppers (Capsicum species) are warm-season crops that thrive in heat and full su
 ### Planting
 - Space sweet peppers 12-18 inches apart; hot peppers 12-24 inches apart.
 - Plant at the same depth as in the pot — peppers do NOT root from the stem like tomatoes.
-- Add a handful of compost and a sprinkle of bone meal to each planting hole.
+- Add a handful of [[compost]] and a sprinkle of bone meal to each planting hole.
 - Water in well.
 - Row cover or cloche for the first 1-2 weeks after transplanting helps with temperature regulation.
 
 ### Container Growing
 - Peppers grow very well in containers (5+ gallon minimum).
-- Use a well-draining potting mix with compost and perlite.
+- Use a well-draining potting mix with compost and [[perlite]].
 - Container peppers dry out faster — monitor daily.
 - Smaller pepper varieties (jalapeño, Thai, shishito) do especially well in pots.
 

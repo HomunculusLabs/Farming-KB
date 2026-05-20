@@ -37,7 +37,7 @@ It is very easy to make your own liquid manure that is as nutritious as any you 
 The same method can be used with plant materials to produce specific nutrient feeds:
 
 - **High nitrogen feed:** Use stinging nettles — fill sack with nettle tops, steep in water for 2-3 weeks
-- **High potash feed:** Use comfrey leaves — same method as nettles; comfrey is rich in potassium
+- **High potash feed:** Use [[comfrey]] leaves — same method as nettles; comfrey is rich in potassium
 
 ## Applying Liquid Fertilizers
 
