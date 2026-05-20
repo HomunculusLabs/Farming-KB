@@ -33,7 +33,7 @@ Polyphenols are a diverse class of secondary plant metabolites characterized by 
 ## Relevance to Cultivation and Mycology
 
 - Polyphenol content of substrate materials directly impacts colonization speed and efficiency of cultivated fungi.
-- High polyphenol substrates (e.g., certain hardwood sawdusts, conifer needles) may require pretreatment or aging before use in [[mushroom-cultivation]].
+- High polyphenol substrates (e.g., certain hardwood sawdusts, conifer needles) may require pretreatment or aging before use in [[accessible-mushroom-cultivation-for-disabilities]].
 - Understanding polyphenol:N ratios helps cultivators select and blend substrate components for optimal decomposition and yield.
 - The Vanlauwe et al. (1997) combined ratio provides a practical framework for predicting substrate decomposition rates in controlled environments.
 - Composting and fermentation pretreatments can reduce polyphenol content, improving substrate quality for fungal growth.

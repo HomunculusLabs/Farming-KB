@@ -27,7 +27,7 @@ outdoor cultivated specimens rather than naturalized populations.
 
 For cultivators and researchers, P. subcubensis represents an
 understudied close relative of the most widely cultivated psilocybin
-mushroom. Its [[psilocybe-cubensis]]
+mushroom. Its [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures

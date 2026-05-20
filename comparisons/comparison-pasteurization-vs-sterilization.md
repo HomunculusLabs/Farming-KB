@@ -15,7 +15,7 @@ type: comparison
 
 ## Overview
 
-[[mushroom-cultivation]]. Both aim to eliminate unwanted microorganisms, but they differ fundamentally in intensity, equipment requirements, and the types of substrates they suit. Choosing the wrong method can mean contamination failure or wasted energy, so understanding the tradeoffs is essential for every cultivator.
+[[accessible-mushroom-cultivation-for-disabilities]]. Both aim to eliminate unwanted microorganisms, but they differ fundamentally in intensity, equipment requirements, and the types of substrates they suit. Choosing the wrong method can mean contamination failure or wasted energy, so understanding the tradeoffs is essential for every cultivator.
 
 Pasteurization selectively weakens competitors while preserving a beneficial [[substrate-pasteurization]].
 

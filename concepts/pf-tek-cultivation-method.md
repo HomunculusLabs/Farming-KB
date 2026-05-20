@@ -145,4 +145,4 @@ Despite its influence, the PF TEK has known limitations:
 
 - [[spore-syringe-inoculation]]
 - [[dual-chambered-terrarium]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]

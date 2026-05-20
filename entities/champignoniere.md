@@ -9,7 +9,7 @@ tags: [technique, place, france, cave-cultivation, terminology]
 
 ## Description
 
-A **[[mushroom-cultivation]] in and around Paris.
+A **[[accessible-mushroom-cultivation-for-disabilities]] in and around Paris.
 - In the mushroom-growing suburbs (Montrouge, Vitry, Chatillon, Isny, Nanterre, Rosny-sous-Bois, Pasey, etc.), mushroom growing became such a dominant industry that **"[[champignonniere]]" and "carriere" were used interchangeably**.
 - Champignonniere are accessed either through open quarries or through narrow shafts requiring ladders and windlasses.
 - **Ventilation** is achieved through chimneys or chutes, sometimes with charcoal fires to promote air circulation.

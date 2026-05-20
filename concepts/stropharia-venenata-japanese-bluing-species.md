@@ -25,7 +25,7 @@ S. venenata grows on top of wood and dung in Japan. Today it is classified withi
 
 ### The Monograph Mistake
 
-Singer and Smith, in their 1958 monograph about the [[psilocybe-cubensis]]
+Singer and Smith, in their 1958 monograph about the [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 
 As a close relative of P. cubensis, S. venenata shares many characteristics:
 

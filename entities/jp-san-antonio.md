@@ -6,12 +6,12 @@ type: entity
 
 ## Overview
 
-J.P. San Antonio is an American mycologist who, in 1971, published a landmark paper describing a laboratory method for obtaining mushroom fruits from cased [[grain-spawn]] of the cultivated mushroom *[[agaricus-bisporus]]*. His technique of growing mycelium on sterilized grain and then applying a [[casing-soil]] layer to induce fruiting became the foundation for the indoor cultivation methods later adapted for *[[psilocybe-cubensis]]* and widely disseminated through the Oss & Oeric *Magic Mushroom Grower's Guide* (1976).
+J.P. San Antonio is an American mycologist who, in 1971, published a landmark paper describing a laboratory method for obtaining mushroom fruits from cased [[grain-spawn]] of the cultivated mushroom *[[agaricus-bisporus]]*. His technique of growing mycelium on sterilized grain and then applying a [[casing-soil]] layer to induce fruiting became the foundation for the indoor cultivation methods later adapted for *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and widely disseminated through the Oss & Oeric *Magic Mushroom Grower's Guide* (1976).
 
 ## Classification
 
 - **Type**: Person — mycologist, researcher
-- **Field**: Mycology, [[mushroom-cultivation]]
+- **Field**: Mycology, [[accessible-mushroom-cultivation-for-disabilities]]
 - **Era**: 20th century
 - **Country**: United States
 

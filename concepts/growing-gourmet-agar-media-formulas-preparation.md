@@ -111,7 +111,7 @@ Materials and resources needed for implementation. For growing gourmet agar medi
 Flexible approaches that respond to changing conditions. For growing gourmet agar media formulas preparation, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
 
 ## See Also
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[laminar-flow-hood]]
 - [[growing-gourmet-volunteer-primordia-agar-media]]
 ## Further Reading

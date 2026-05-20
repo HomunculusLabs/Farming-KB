@@ -11,7 +11,7 @@ key intellectual contributor and is cited extensively throughout the text.*
 
 - [[john-dighton]]
 - [[fungal-mycelial-networks-nutrient-translocation]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[saprotrophic-fungi]]
 - [[fungal-ecology]]
 

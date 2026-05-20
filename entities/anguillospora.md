@@ -46,7 +46,7 @@ Anguillospora is a genus of aquatic hyphomycete fungi that are dominant decompos
 - Anguillospora demonstrates how fungal communities are structured by water chemistry, relevant to understanding substrate-moisture interactions in cultivation
 - The production of sigmoid conidia optimized for aquatic dispersal contrasts with terrestrial spore morphology
 - The genus shows that lignin decomposition in aquatic systems is achieved by different fungal groups than in terrestrial ecosystems
-- Understanding enzyme production profiles of aquatic hyphomycetes could inform substrate processing in [[mushroom-cultivation]]
+- Understanding enzyme production profiles of aquatic hyphomycetes could inform substrate processing in [[accessible-mushroom-cultivation-for-disabilities]]
 - The stream-specific distribution patterns illustrate the importance of matching fungal strains to environmental conditions
 
 ## Key References

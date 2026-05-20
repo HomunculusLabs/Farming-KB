@@ -46,7 +46,7 @@ Fukuoka regarded Kurosawa as a father figure and studied plant pathology under h
 
 ## Relevance to Cultivation and Mycology
 
-Kurosawa's work demonstrates the profound interconnection between fungal metabolism and plant growth. His discovery that a fungal metabolite (gibberellin) can fundamentally alter plant development laid the groundwork for understanding how fungal enzymes and metabolites interact with plant substrates — knowledge directly applicable to [[mushroom-cultivation]] on agricultural substrates.
+Kurosawa's work demonstrates the profound interconnection between fungal metabolism and plant growth. His discovery that a fungal metabolite (gibberellin) can fundamentally alter plant development laid the groundwork for understanding how fungal enzymes and metabolites interact with plant substrates — knowledge directly applicable to [[accessible-mushroom-cultivation-for-disabilities]] on agricultural substrates.
 
 ## Key Facts
 

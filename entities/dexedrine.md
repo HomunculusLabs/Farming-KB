@@ -40,7 +40,7 @@ Dexedrine is relevant to the broader pharmacological context of psychedelic prac
 - Represents the historical use of pharmaceutical adjuncts in psychedelic sessions — a practice that continues in modern clinical settings with different medications
 - The concept of "breaking the set" during a stuck psychedelic experience has modern parallels in psychedelic-assisted therapy approaches
 - Understanding the full pharmacological toolkit referenced in historical psychedelic literature provides context for modern [[psilocybin]] session protocols
-- Modern clinical psilocybin research generally avoids stimulant adjuncts, preferring proper [[set-and-setting]] preparation instead
+- Modern clinical psilocybin research generally avoids stimulant adjuncts, preferring proper [[lsd-set-and-setting-framework]] preparation instead
 
 ## Sources
 

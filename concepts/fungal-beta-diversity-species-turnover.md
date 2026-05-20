@@ -97,7 +97,7 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[mycorrhiza]]
 - [[fungal-beta-diversity-similarity-indices-zak-willig]]
 ## Practical Applications

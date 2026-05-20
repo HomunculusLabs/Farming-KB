@@ -121,7 +121,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[cotter-mycoremediation-techniques]]
+- [[mycoremediation-techniques]]
 - [[factors-affecting-mycoremediation-efficiency]]
 - [[mycoremediation-bioreactor-design-considerations]]
 - [[mycoremediation-case-studies]]

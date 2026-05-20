@@ -11,7 +11,7 @@ Sectoring is the technique of selecting and isolating individual strains of mush
 
 ## Classification
 - **Category**: Cultivation technique / Strain selection
-- **Domain**: Mycology, [[mushroom-cultivation]]
+- **Domain**: Mycology, [[accessible-mushroom-cultivation-for-disabilities]]
 - **Function**: Isolating individual strains from mixed spore germinations
 
 ## Key Facts

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Clitocybe is a large genus of mushrooms that includes several edible species commonly known as blewits. The most notable cultivated species include [[clitocybe-nuda]] (syn. [[lepista-nuda]], wood blewit) and Clitocybe saeva (field blewit). These mushrooms are prized for their distinctive lilac to purple coloration and fruity aroma. In [[mushroom-cultivation]], Clitocybe species are among those that require or benefit from microbial interactions in casing soil to trigger fruitbody formation.
+Clitocybe is a large genus of mushrooms that includes several edible species commonly known as blewits. The most notable cultivated species include [[clitocybe-nuda]] (syn. [[lepista-nuda]], wood blewit) and Clitocybe saeva (field blewit). These mushrooms are prized for their distinctive lilac to purple coloration and fruity aroma. In [[accessible-mushroom-cultivation-for-disabilities]], Clitocybe species are among those that require or benefit from microbial interactions in casing soil to trigger fruitbody formation.
 
 ## Classification
 

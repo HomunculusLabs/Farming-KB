@@ -29,7 +29,7 @@ Fungi are not plants; they belong to a separate kingdom and are among the most i
 ### Suitable Species
 - Button mushroom (*[[mushroom-cultivation-basics]]
 - [[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[pleurotus-ostreatus]]
 - [[stropharia-rugosoannulata]]
 

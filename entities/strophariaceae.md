@@ -22,7 +22,7 @@ The Strophariaceae are a family of fungi in the order Agaricales that includes m
 The Strophariaceae encompasses several genera of significance to cultivation and ethnomycology:
 
 - **Psilocybe** — the primary psilocybin-producing genus, reclassified from *Stropharia* by mycologist [[rolf-singer]]. Contains dozens of psychoactive species.
-- **Stropharia** — includes both psychoactive and non-psychoactive species. *[[stropharia-cubensis]]* was reclassified as *[[psilocybe-cubensis]]* but the older name persists in cultivation literature.
+- **Stropharia** — includes both psychoactive and non-psychoactive species. *[[stropharia-cubensis]]* was reclassified as *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* but the older name persists in cultivation literature.
 - **Conocybe** — a genus of small mushrooms, some species containing psilocybin
 - **Panaeolus** — includes several psilocybin-containing species found in dung habitats
 - **Copelandia** — tropical psilocybin-containing mushrooms, closely related to *Panaeolus*

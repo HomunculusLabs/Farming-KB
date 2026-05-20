@@ -45,7 +45,7 @@ that promote wild mushroom production. The economic value of ECM mushroom
 harvesting can rival timber production in some regions, providing strong
 incentives for forest conservation. See [[mycorrhizal-fungi]]
 - [[dom]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 
 ## Overview
 

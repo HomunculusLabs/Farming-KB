@@ -150,9 +150,8 @@ Select for:
 - Low Varroa mite loads (VSH or hygiene traits)
 - Resistance to brood diseases
 
-Maintain records of colony performance to inform breeding decisions. See
-[[beekeeping-problems-and-solutions]] for information on selecting for
-disease resistance and [[beekeeping-seasonal-calendar]] for timing queen
-rearing with the seasonal cycle.
+## See Also
 
-See also: [[bee-forage-plants]]
+- [[oner-jack-the-ripper-jacks-cleaner-space-queen]]
+- [[oner-jack-the-ripper-jacks-cleaner-space-queen-tga-subcool]]
+- [[queen-inamullo]]

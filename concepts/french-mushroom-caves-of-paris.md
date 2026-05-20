@@ -20,7 +20,7 @@ The catacombs — the cave systems lying directly beneath the city proper — ar
 
 ### The Birth of Cave Cultivation
 
-While mushrooms were cultivated in France as early as the reign of Louis XIV, the use of underground quarries for this purpose does not appear to have become common until the beginning of the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. [[mushroom-cultivation]] makes no mention of caves, suggesting that the earlier practice relied on surface-level structures. The transition to cave cultivation represented a significant advance, as the stable underground environment greatly simplified the management of [[greg-green-temperature-and-humidity-control]].
+While mushrooms were cultivated in France as early as the reign of Louis XIV, the use of underground quarries for this purpose does not appear to have become common until the beginning of the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. [[accessible-mushroom-cultivation-for-disabilities]] makes no mention of caves, suggesting that the earlier practice relied on surface-level structures. The transition to cave cultivation represented a significant advance, as the stable underground environment greatly simplified the management of [[greg-green-temperature-and-humidity-control]].
 
 ## Physical Characteristics of the Caves
 

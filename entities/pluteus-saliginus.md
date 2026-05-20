@@ -38,7 +38,7 @@ The fruiting season extends from late summer through autumn (August to November 
 
 *P. salicinus* contains the indole alkaloids [[psilocybin]] and psilocin, confirmed by Gartz (1996) through TLC and HPLC analysis of European specimens. Baeocystin has also been detected in some collections, though at lower concentrations than the primary alkaloids.
 
-Reported alkaloid concentrations are variable and generally lower than those of *[[psilocybe-cubensis]]* or *P. semilanceata*. Gartz (1996) reported approximately 0.03% psilocybin and 0.01% psilocin in dried material from German collections.
+Reported alkaloid concentrations are variable and generally lower than those of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* or *P. semilanceata*. Gartz (1996) reported approximately 0.03% psilocybin and 0.01% psilocin in dried material from German collections.
 
 North American specimens analyzed by Allen and Gartz (2001) showed slightly higher variability in psilocybin content, ranging from 0.01% to 0.3% of dry weight. This geographic variation may reflect genetic differences between European and North American populations, or differences in substrate and environmental conditions.
 

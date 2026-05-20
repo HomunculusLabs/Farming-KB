@@ -62,7 +62,7 @@ Bray-Curtis dissimilarity has become a standard tool in mycological community ec
 - **Geographic comparisons**: Assessing [[alpha-beta-gamma-diversity-fungi|beta diversity]] among geographically separated fungal communities in different forest types, elevational gradients, or biomes
 - **Mycorrhizal ecology**: Comparing arbuscular mycorrhizal (AMF) and ectomycorrhizal fungal communities across host plant species and soil conditions
 - **Disturbance assessment**: Evaluating the impact of fire, logging, pollution, or land-use change on fungal community structure
-- **[[mushroom-cultivation]]**: Monitoring community shifts during substrate colonization, identifying contaminant organisms, and optimizing growing conditions
+- **[[accessible-mushroom-cultivation-for-disabilities]]**: Monitoring community shifts during substrate colonization, identifying contaminant organisms, and optimizing growing conditions
 - **Metagenomic studies**: Applied to high-throughput sequencing (HTS) amplicon data (e.g., ITS, 18S) for beta diversity estimation in environmental samples
 
 ## Comparison with Other Distance Measures
@@ -112,7 +112,7 @@ The resulting dendrograms reveal groupings of similar fungal communities, which 
 
 ## Relevance to Cultivation and Mycology
 
-The Bray-Curtis index is directly applicable to comparing fungal communities across different cultivation substrates, environmental conditions, or geographic locations. In [[mushroom-cultivation]], it can quantify how similar or different fungal communities are between substrate preparations, [[composting]] stages, or growing environments. For mycological biodiversity surveys, the index provides a robust measure for comparing species composition and abundance across forest types, [[soil-horizons]], or successional stages. Its use with quantitative data makes it superior to binary indices for detecting subtle community shifts.
+The Bray-Curtis index is directly applicable to comparing fungal communities across different cultivation substrates, environmental conditions, or geographic locations. In [[accessible-mushroom-cultivation-for-disabilities]], it can quantify how similar or different fungal communities are between substrate preparations, [[composting]] stages, or growing environments. For mycological biodiversity surveys, the index provides a robust measure for comparing species composition and abundance across forest types, [[soil-horizons]], or successional stages. Its use with quantitative data makes it superior to binary indices for detecting subtle community shifts.
 
 ## See Also
 

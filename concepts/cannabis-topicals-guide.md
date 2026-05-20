@@ -148,20 +148,8 @@ Topical dosing is less precise than other methods. General guidelines:
 
 Start with a small amount and apply more as needed. Effects are typically felt within 15-30 minutes and last 2-4 hours. For chronic conditions, consistent daily application is more effective than sporadic heavy use.
 
-## Storage
+## See Also
 
-- Store in a cool, dark place (cabinet, not refrigerator)
-- Use opaque or dark glass containers to prevent light degradation
-- Shelf life: 3-6 months for homemade preparations
-- Vitamin E oil (1/2 teaspoon per cup) can extend shelf life as a natural preservative
-
-## Common Applications
-
-- **Arthritis and joint pain**: Apply to affected joints 2-3 times daily
-- **Muscle soreness**: Apply after exercise or physical labor
-- **Menstrual cramps**: Apply to lower abdomen
-- **Headaches**: Apply to temples and neck (peppermint + cannabis)
-- **Skin conditions**: Psoriasis, eczema, dermatitis (CBD-dominant preparations)
-- **Nerve pain**: Apply to the affected area; some find relief with regular application
-
-For internal consumption methods, see [[cannabis-tinctures-guide]] and [[cannabis-edibles-guide]]. For the extracts used in topical production, see [[cannabis-extraction-basics]]. Cannabis potency in topicals can be estimated using dosing principles from [[cannabis-concentrates-types]].
+- [[mckenna-hashish-scythians-and-classical-cannabis]]
+- [[green-cannabis-ph-management-cannabis-growing]]
+- [[supercritical-co2-cannabis-extraction]]

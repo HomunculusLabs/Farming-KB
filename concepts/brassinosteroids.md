@@ -74,7 +74,7 @@ conservation of brassinosteroid signaling mechanisms.
 
 ## See Also
 
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[mycelial-growth-promotion]]
 
 ## References

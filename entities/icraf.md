@@ -77,7 +77,7 @@ producing corn yield increases of up to tenfold in subsistence farming systems.
   designing integrated cultivation systems that incorporate fungal elements.
 - **Modelling for Permaculture**: The ICRAF approach is cited as a "classic
   Permaculture solution," providing a research-validated model for biological
-  services in agriculture that can inform [[mushroom-cultivation]] system design.
+  services in agriculture that can inform [[accessible-mushroom-cultivation-for-disabilities]] system design.
 
 ## Source References
 

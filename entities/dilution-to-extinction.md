@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Dilution to extinction is a serial dilution technique used in [[mushroom-cultivation]] to
+Dilution to extinction is a serial dilution technique used in [[accessible-mushroom-cultivation-for-disabilities]] to
 isolate the specific microbial communities that trigger fruitbody formation in species
 that require or benefit from microbial interaction with [[casing-soil]]. The method involves
 progressively diluting a soil sample from a mushroom stem base across twelve sequential

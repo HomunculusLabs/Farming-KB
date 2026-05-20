@@ -24,7 +24,7 @@ commensalism, and [[comparison-trichoderma-vs-entomopathogenic-fungi]] used in [
   oviposition and pre-digest the wood for developing larvae.
 
 ### Spore-Dispersal Interactions
-Many free-living fungi and [[spore-dispersal]].
+Many free-living fungi and [[aquatic-fungi-spore-dispersal-ingold]].
 
 ## Major Groups
 

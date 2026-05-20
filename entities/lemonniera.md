@@ -35,7 +35,7 @@ type: entity
 ## Relevance to Cultivation and Mycology
 
 - Demonstrates the importance of genus-level diversity in early substrate colonization, where multiple congeneric species co-occupy similar niches.
-- Understanding early colonizer communities informs strategies for rapid substrate conditioning in [[mushroom-cultivation]].
+- Understanding early colonizer communities informs strategies for rapid substrate conditioning in [[accessible-mushroom-cultivation-for-disabilities]].
 - The successional pattern from *Lemonniera*-dominated early communities to more diverse later communities parallels colonization dynamics on mushroom substrates.
 - Aquatic hyphomycete ecology provides insights into fungal adaptation to specific environmental conditions.
 - The coexistence of three *Lemonniera* species during early colonization suggests niche differentiation even among closely related taxa.

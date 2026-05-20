@@ -33,7 +33,7 @@ distinct germ pore. Spore dimensions are approximately 10 to 13 μm in length by
 electron microscopy. In Melzer's reagent, the spores are non-amyloid, which is
 consistent with the genus.
 
-**Taste and odor:** Farinaceous (mealy or flour-like), similar to [[psilocybe-cubensis]], involving the enzymes PsiD, PsiK, PsiM,
+**Taste and odor:** Farinaceous (mealy or flour-like), similar to [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], involving the enzymes PsiD, PsiK, PsiM,
 and PsiH that convert [[psilocybe-galindoi]]: Another Mediterranean semilanceata-group species with which
   P. maiorchina shares significant morphological similarity. Definitive identification
   often requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore size and cheilocystidia morphology.

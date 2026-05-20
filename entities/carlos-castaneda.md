@@ -65,7 +65,7 @@ Castaneda's work explores several philosophical themes relevant to the study of 
 - [[peter-furst]]
 - [[henry-munn]]
 - [[hallucinogens-and-shamanism]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 
 - Mircea Eliade - whose theoretical framework on shamanism influenced Castaneda's approach
 - Peter Furst - editor of Flesh of the Gods, the companion volume to Harner

@@ -80,7 +80,7 @@ Monitoring protocols help track population trends and inform adaptive management
 - [[doctrinal-compliance-magical-psychotherapy]]
 - [[hallucinogens-and-shamanism]]
 - [[marlene-dobkin-de-rios]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 
 ## References
 

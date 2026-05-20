@@ -117,7 +117,7 @@ Monitoring protocols help track population trends and inform adaptive management
 
 ## See Also
 - [[mycorrhizal-networks]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[ectomycorrhizal-fungi]]
 - [[ectomycorrhizal-associations]]
 - [[mycorrhizal-fungi]]

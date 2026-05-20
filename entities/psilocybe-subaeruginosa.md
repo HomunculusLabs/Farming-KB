@@ -28,7 +28,7 @@ In the field, *P. subaeruginosa* can be confused with several non-psychoactive o
 
 *P. subaeruginosa* can be cultivated using methods similar to those employed for other wood-loving Psilocybe species such as psilocybe-aucklandii from New Zealand and other Australasian taxa. The full scope of the *P. subaeruginosa* species complex remains under investigation, and cryptic speciation is suspected given the broad geographic range and morphological variability. Molecular phylogenetic studies by [[weraroa-novae-zelandiae]] Species
 
-The *P. subaeruginosa* complex is closely related to the Northern Hemisphere species [[psilocybe-cubensis]] for comparison with tropical coprophilous species, and [[psilocybe-tasmaniana]] for other Australian psychoactive taxa found in overlapping habitats.
+The *P. subaeruginosa* complex is closely related to the Northern Hemisphere species [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] for comparison with tropical coprophilous species, and [[psilocybe-tasmaniana]] for other Australian psychoactive taxa found in overlapping habitats.
 ## Practical Applications
 
 Psilocybe subaeruginosa has a range of practical applications that make it relevant to

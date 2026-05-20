@@ -52,7 +52,7 @@ PiHKAL typically reports dosages as ranges rather than single numbers (e.g., "80
 The [[shulgin-dosage-guidelines]]
 - [[turner-psychedelic-combination-experience-reports]]
 - [[mdma]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[shulgin-rating-scale]]
 
 ## Overview

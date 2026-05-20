@@ -120,6 +120,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[cotter-fungi-in-the-classroom-education]]
 - [[cotter-king-stropharia-cultivation]]
-- [[cotter-mycoremediation-techniques]]
+- [[mycoremediation-techniques]]
 - [[cotter-substrate-preparation]]
 - [[mushroom-spawn-run-thermogenesis-cotter]]

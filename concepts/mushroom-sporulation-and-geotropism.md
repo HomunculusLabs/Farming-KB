@@ -9,7 +9,7 @@ type: concept
 ## Overview
 
 Mushroom fruiting bodies exhibit complex directed growth behaviors (tropisms)
-linked to their reproductive function. In *[[psilocybe-cubensis]]* and related
+linked to their reproductive function. In *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and related
 agarics, the transition from vegetative stipe elongation to negatively
 geotropic orientation coincides with [[spore]] production onset. This page
 synthesizes Badham's tropisms study and broader mycological literature on
@@ -39,7 +39,7 @@ mushrooms such as *P. cubensis* fruit from ephemeral substrates that may be
 tilted, irregular, or decaying rapidly. The strong negatively geotropic
 response allows the fruiting body to correct its orientation regardless of
 substrate angle, ensuring the pileus reaches a horizontal position for
-effective [[spore-dispersal]].
+effective [[aquatic-fungi-spore-dispersal-ingold]].
 
 Species with robust geotropic correction can successfully release spores even
 when fruiting from vertical surfaces, overhanging substrates, or substrates

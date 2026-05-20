@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Desiccant drying is the preferred method for preserving harvested *[[psilocybe-cubensis]]* mushrooms in the [[pf-tek]]. The technique uses moisture-absorbing chemical agents (desiccants) to remove water from mushrooms at cool or room temperatures, preserving their psychoactive alkaloid content far better than heat-based drying methods. The PF TEK identifies cool desiccation as "overall, the best drying technique" and a critical step in producing high-quality preserved specimens.
+Desiccant drying is the preferred method for preserving harvested *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* mushrooms in the [[pf-tek]]. The technique uses moisture-absorbing chemical agents (desiccants) to remove water from mushrooms at cool or room temperatures, preserving their psychoactive alkaloid content far better than heat-based drying methods. The PF TEK identifies cool desiccation as "overall, the best drying technique" and a critical step in producing high-quality preserved specimens.
 
 ## Classification
 

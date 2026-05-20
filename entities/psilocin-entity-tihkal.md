@@ -61,7 +61,7 @@ Shulgin noted the drift from criminal statutes (where the burden of proof falls 
 
 ## See Also
 
-- [[psilocybe-cubensis]] — the most widely cultivated [[mckenna-suppression-psychedelic-research-lsd-therapy]]. Modern [[savory-short-duration-grazing-and-cell-systems]] (3-6 hours), compared to LSD (8-12 hours), makes them particularly attractive for therapeutic settings. See [[psychedelic-mushroom-decriminalization]] and the emergence of psilocybin therapy centers in Oregon and Colorado represent a remarkable shift from the prohibition era that Shulgin navigated, suggesting that these compounds may finally receive the clinical and cultural recognition their pharmacological profiles have always warranted.
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] — the most widely cultivated [[mckenna-suppression-psychedelic-research-lsd-therapy]]. Modern [[savory-short-duration-grazing-and-cell-systems]] (3-6 hours), compared to LSD (8-12 hours), makes them particularly attractive for therapeutic settings. See [[psychedelic-mushroom-decriminalization]] and the emergence of psilocybin therapy centers in Oregon and Colorado represent a remarkable shift from the prohibition era that Shulgin navigated, suggesting that these compounds may finally receive the clinical and cultural recognition their pharmacological profiles have always warranted.
 ## Practical Considerations
 
 Successful implementation of Psilocin & Psilocybin — TIHKAL Entry #18 requires attention to

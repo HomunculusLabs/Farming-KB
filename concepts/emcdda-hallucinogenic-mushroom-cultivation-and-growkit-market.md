@@ -49,7 +49,7 @@ Psilocybe cubensis and Psilocybe tampensis. A typical growkit contains:
 - A box with colonised substrate (the growing medium already inoculated
   with mycelium).
 - A bag with an air filter for [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] for a price of approximately 1 EUR per print. This
-organisation represented an informal [[mushroom-cultivation]]
+organisation represented an informal [[accessible-mushroom-cultivation-for-disabilities]]
 - [[spore]]
 - [[smartshops]]
 

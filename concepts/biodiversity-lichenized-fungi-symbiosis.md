@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [mycology, lichenology, symbiosis, biodiversity, ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ["raw/papers/unknown-biodiversity-of-fungi.md""]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
 ## Lichenized Fungi and Their Symbiotic Relationships ## Overview [[lichen-symbiosis]]

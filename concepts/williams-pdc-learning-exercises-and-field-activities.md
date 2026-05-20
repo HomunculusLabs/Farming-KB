@@ -111,7 +111,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[william-ozier-williams]]
-- [[williams-pdc-invisible-structures]]
+- [[permaculture-invisible-structures-economics]]
 - [[williams-pdc-non-violent-communication]]
 - [[williams-pdc-sustainability-history-and-definition]]
 - [[williams-pdc-zone-analysis]]

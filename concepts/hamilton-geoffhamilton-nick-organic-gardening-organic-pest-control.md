@@ -99,7 +99,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fukuoka-fruit-tree-disease-pest-control-natural-predators]]
 - [[hamilton-clearing-uncultivated-ground]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
+- [[hamilton-organic-fertilizers-and-plant-nutrition]]
 - [[hamilton-grafting-budding-techniques]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

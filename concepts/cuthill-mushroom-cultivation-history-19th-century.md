@@ -47,7 +47,7 @@ issued works by Shirley Hibberd on ferns, roses, and town gardening.
 
 Cuthill insisted on the distinctness of the true cultivated mushroom
 ([[mushroom-genetics-strain-selection]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[falconer-mushroom-cultivation-history]]
 - [[mushroom-home-cultivation-history]]
 

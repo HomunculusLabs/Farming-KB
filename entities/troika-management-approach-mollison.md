@@ -80,7 +80,7 @@ Mollison identifies these as primary errors causing constant conflict in communi
 
 ## Relevance to Cultivation and Mycology
 
-The Troika approach has direct applications for [[mushroom-cultivation]] and permaculture operations:
+The Troika approach has direct applications for [[accessible-mushroom-cultivation-for-disabilities]] and permaculture operations:
 
 - **[[spawn-production]] team (1-3 people):** Manage culture maintenance, grain preparation, and inoculation independently
 - **Fruiting operations team (1-3 people):** Manage environmental controls, harvesting, [[mushroom-spawn-vitality-testing-and-quality-assessment]] on their own schedule

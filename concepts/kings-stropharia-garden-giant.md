@@ -149,9 +149,3 @@ Harvest when caps are fully expanded but before the gills darken significantly:
 - Competing fungi: use fresh substrate and adequate spawn rates
 - No fruiting: insufficient rain/moisture; try a deep soaking
 - Chip-eating insects (pillbugs): generally not a major problem
-
-## Related Topics
-
-- [[wine-cap-stropharia-cultivation]] for detailed bed preparation and cultivation
-- kings stropharia garden giant for companion planting strategies
-- [[shiitake-cultivation-guide]] for another outdoor log/wood cultivation method

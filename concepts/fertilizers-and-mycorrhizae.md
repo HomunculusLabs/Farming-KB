@@ -106,7 +106,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[cannabis-organic-fertilizers]]
 - [[cervantes-chemical-fertilizers-guide]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
+- [[hamilton-organic-fertilizers-and-plant-nutrition]]
 - [[ingham-inorganic-fertilizers-soil-biology-damage]]
 - [[lowenfels-chemical-fertilizers-damage]]
 ## Further Reading

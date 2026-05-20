@@ -27,7 +27,7 @@ aliases: [Mushroom Contamination, substrate-preparation can introduce bacteria.
 - **Prevention:** Ensure proper substrate moisture content and adequate sterilization
   time
 - **Action:** The jar is lost — bacterial contamination cannot be treated. Dispose
-  of the contaminated jar without opening it to prevent [[fruiting-chamber]]
+  of the contaminated jar without opening it to prevent [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]
 - **Prevention:** Maintain proper FAE (fresh air exchange), avoid excessive humidity
   condensation on mushroom surfaces
 

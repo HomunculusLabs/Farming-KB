@@ -20,7 +20,7 @@ type: concept
 
 Phosphate supplementation is a critical but often overlooked factor in
 mushroom cultivation. In the Gartz, Adam and Vorbrodt (1990) study on
-[[psilocybe-cubensis]]. This buffering capacity helps maintain
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]. This buffering capacity helps maintain
 stable pH during the [[adenosine-triphosphate-and-cellular-energy]] (ATP), the universal energy currency
 of cells. ATP drives virtually every energy-requiring process in fungal
 cells, from hyphal extension and nutrient uptake to spore germination
@@ -38,7 +38,7 @@ In the Gartz study, KH2PO4 was added to both the 6% malt agar plates
 and the horse dung and rice grain mixture used for fruiting. On agar,
 phosphate is readily available in the homogeneous gel medium. In bulk
 substrates, phosphate availability is more complex due to interactions
-with organic matter, mineral particles, and [[mushroom-cultivation]]
+with organic matter, mineral particles, and [[accessible-mushroom-cultivation-for-disabilities]]
 - [[spore]]
 - [[mycelium]]
 

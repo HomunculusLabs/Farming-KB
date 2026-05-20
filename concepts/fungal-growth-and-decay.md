@@ -10,7 +10,7 @@ Fungi are among the most remarkable and ecologically vital organisms in soil eco
 
 ## Fungi in Extreme Environments
 
-Fungi are extraordinarily resilient. Some species thrive in the frozen expanses of Antarctica, demonstrating an ability to survive conditions that would eliminate most other life forms. Their global distribution is facilitated by **airborne [[spore-dispersal]]** — microscopic spores carried on wind currents across continents — which explains why the same fungal species are often recognized on multiple landmasses worldwide.
+Fungi are extraordinarily resilient. Some species thrive in the frozen expanses of Antarctica, demonstrating an ability to survive conditions that would eliminate most other life forms. Their global distribution is facilitated by **airborne [[aquatic-fungi-spore-dispersal-ingold]]** — microscopic spores carried on wind currents across continents — which explains why the same fungal species are often recognized on multiple landmasses worldwide.
 
 ## Fungal Food Preferences
 

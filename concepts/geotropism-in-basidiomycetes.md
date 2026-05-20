@@ -107,7 +107,7 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[det]]
 - [[spore]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.

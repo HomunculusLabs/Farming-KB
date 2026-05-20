@@ -27,7 +27,7 @@ Agenda 21 is the comprehensive global action plan for sustainable development ad
 
 ## Relevance to Cultivation and Mycology
 
-Agenda 21 created the international policy context for promoting [[mushroom-cultivation]] as a sustainable development tool. Under its framework, organizations like ZERI developed projects that use [[accessible-mushroom-cultivation-for-disabilities]] to address multiple Millennium Development Goals simultaneously — poverty reduction, food security, environmental sustainability, and economic development. The Hong Kong government's substitution of [[mushroom-cultivation-for-disabilities-training-program]] [[natural-free-range-poultry-farming]] after the avian flu crisis exemplifies an Agenda 21-aligned response.
+Agenda 21 created the international policy context for promoting [[accessible-mushroom-cultivation-for-disabilities]] as a sustainable development tool. Under its framework, organizations like ZERI developed projects that use [[accessible-mushroom-cultivation-for-disabilities]] to address multiple Millennium Development Goals simultaneously — poverty reduction, food security, environmental sustainability, and economic development. The Hong Kong government's substitution of [[mushroom-cultivation-for-disabilities-training-program]] [[natural-free-range-poultry-farming]] after the avian flu crisis exemplifies an Agenda 21-aligned response.
 
 ## References
 

@@ -40,7 +40,7 @@ Water bath canning is used for high-acid foods (pH below 4.6): fruits, pickles, 
 
 ## Pressure Canning Specifics
 
-Pressure canning is required for all low-acid foods (pH above 4.6): vegetables, meats, poultry, seafood, soups, stews, beans, and plain tomatoes. The temperature inside the canner must reach 240F (at sea level) to destroy Clostridium botulinum spores — the organism that causes botulism. Boiling water only reaches 212F, which is insufficient.
+Pressure canning is required for all low-acid foods (pH above 4.6): vegetables, meats, poultry, seafood, soups, stews, beans, and plain tomatoes. The temperature inside the canner must reach 240F (at sea level) to destroy [[clostridium]] botulinum spores — the organism that causes botulism. Boiling water only reaches 212F, which is insufficient.
 
 See [[pressure-canning-safety]] for detailed botulism prevention and equipment testing.
 
@@ -148,7 +148,7 @@ Common homestead recipes include:
 - Do not store above 95F or below freezing
 - Remove rings before storage to detect seal failure
 - Shelf life: 12-18 months for best quality; safe indefinitely if properly sealed and stored, though quality declines over time
+
 ## See Also
 
-- [[comparison-root-cellaring-guide-vs-canning-and-preserving]]
-- [[comparison-food-dehydration-guide-vs-canning-and-preserving]]
+- [[pf-tek-jar-preparation-steam-sterilization]]

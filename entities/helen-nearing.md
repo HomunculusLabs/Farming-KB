@@ -62,7 +62,7 @@ Helen Nearing (1904–1995) was an American homesteader, author, and musician wh
 ### Practical Self-Sufficiency
 - Helen's hands-on approach to food production exemplifies the practical skills needed for small-scale agriculture
 - Her methods for managing a household food system translate to planning a year-round mushroom production schedule
-- The emphasis on processing and preserving the harvest applies to [[mushroom-cultivation]] businesses
+- The emphasis on processing and preserving the harvest applies to [[accessible-mushroom-cultivation-for-disabilities]] businesses
 
 ### Educational Legacy
 - The Nearing model of hosting visitors and sharing knowledge through demonstration influenced agricultural education

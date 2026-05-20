@@ -21,7 +21,7 @@ involvement of internal signaling molecules in coordinating growth direction.
 
 ## Anemotropism: Parallel Responses in Two Kingdoms
 
-Badham noted that [[psilocybe-cubensis]] shows anemotropic behavior analogous to that
+Badham noted that [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] shows anemotropic behavior analogous to that
 described for Phycomyces. In both organisms, the aerial reproductive structure
 grows toward the source of air flow. Cohen, Jan, Matricon, and Delbruck
 documented in 1975 that Phycomyces sporangiophores exhibit both anemotropism

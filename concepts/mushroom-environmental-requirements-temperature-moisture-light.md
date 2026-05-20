@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The relationship of the cultivated mushroom (*[[mushroom-cultivation]].
+The relationship of the cultivated mushroom (*[[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Temperature
 

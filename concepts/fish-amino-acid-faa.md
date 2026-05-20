@@ -1,5 +1,4 @@
 ---
-
 title: Fish Amino Acid (FAA) — Preparation and Use
 created: 2026-04-10
 updated: 2026-04-12
@@ -149,11 +148,3 @@ FAA works synergistically with:
 - [[oriental-herbal-nutrient-ohn]] — OHN prevents disease on nitrogen-rich soft tissue
 - [[water-soluble-calcium-wca]] — WS-Ca balances nitrogen, strengthens cell walls
 
-## See Also
-
-- [[knf-preparations]] — all KNF inputs overview
-- [[fermented-plant-extract-fpe]] — FPJ/FFJ companion input
-- [[nutritive-cycle-theory]] — when to apply FAA
-- [[water-soluble-calcium-phosphate-wcp]] — use FAA residue for WS-CaPo
-- [[brown-rice-vinegar-brv]] — BRV for calcium extraction from bones
-- [[cannabis-living-soil-guide]] — caution with FAA in living soil (already N-rich)

@@ -61,7 +61,7 @@ Throughout the Third Bardo, the guide (trip sitter) plays a critical role by rea
 
 - **Psychedelic mushroom context:** The Third Bardo framework is directly relevant to experiences with psilocybin mushrooms, which are central to mycological and psychedelic cultivation communities.
 - **Integration practice:** Understanding the Third Bardo helps cultivators and practitioners prepare for and integrate psychedelic experiences, particularly those involving cultivated fungal medicines.
-- **[[set-and-setting]]:** The emphasis on preparation, guidance, and trust in the Third Bardo instructions informs best practices for safe psychedelic mushroom sessions.
+- **[[lsd-set-and-setting-framework]]:** The emphasis on preparation, guidance, and trust in the Third Bardo instructions informs best practices for safe psychedelic mushroom sessions.
 - **Cultural significance:** Leary's interpretation of the Tibetan Book of the Dead has deeply influenced psychedelic culture, including the community surrounding [[psilocybin-mushroom-cultivation]] and use.
 - **Therapeutic applications:** Modern clinical research on psilocybin therapy echoes many Third Bardo principles—integration of difficult experiences, importance of guidance, and the therapeutic value of ego dissolution.
 

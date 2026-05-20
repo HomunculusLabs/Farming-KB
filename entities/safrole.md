@@ -6,7 +6,7 @@ tags: [chemical, phenylpropanoid, precursor, natural-product, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ""raw/papers/shulgin-a-tihkal.md"
+  - "raw/papers/shulgin-a-tihkal.md"
 ---
 
 ## Safrole

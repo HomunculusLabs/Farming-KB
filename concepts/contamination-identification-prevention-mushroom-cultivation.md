@@ -12,7 +12,7 @@ tags: [contamination, cultivation, sterile-technique, mycology, mold, bacteria]
 Contamination is the most common cause of failure in amateur mushroom cultivation.
 Competing organisms — primarily molds and bacteria — can colonize the substrate
 before or alongside the intended mushroom mycelium, rendering the crop unusable
-and potentially dangerous. Understanding [[fruiting-chamber]]. Can sometimes be treated by increasing fresh air exchange
+and potentially dangerous. Understanding [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]. Can sometimes be treated by increasing fresh air exchange
 and spraying with 3% [[cultivator-sterile-technique-and-agar-culture]] is the foundation of contamination prevention:
 
 1. **Clean workspace**: Wipe all surfaces with 70% isopropyl alcohol before
@@ -72,8 +72,8 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mushroom-cultivation]]
-- [[fruiting-chamber]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
+- [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]
 - [[isopropyl-alcohol]]
 
 ## Overview

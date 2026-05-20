@@ -83,7 +83,7 @@ as diverse as fish, game, wheat, and firewood.
 
 ## Relevance to Cultivation and Mycology
 
-- **Mushroom CSA:** The Farm Link model directly applies to [[mushroom-cultivation]], where
+- **Mushroom CSA:** The Farm Link model directly applies to [[accessible-mushroom-cultivation-for-disabilities]], where
   urban families subscribe to weekly or monthly mushroom deliveries from a dedicated
   grower, receiving fresh shiitake, oyster, lion's mane, and seasonal varieties
 - **Shared Substrate Production:** Urban families can collect and deliver agricultural

@@ -53,7 +53,7 @@ for [[stamets-mushroom-genetics-mating-systems-reproduction]].
 - stamets-casing-layer-design
 - stamets-cultivator-agaricus-bisporus-commercial-methods
 - [[agaricus-campestris]]
-- [[spawn-preparation]]
+- [[azurescens-spawn-preparation-grain-to-wood]]
 
 ## Overview
 

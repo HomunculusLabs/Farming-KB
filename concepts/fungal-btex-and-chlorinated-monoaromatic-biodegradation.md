@@ -10,7 +10,7 @@ sources: [raw/papers/fungi-and-sustainability-fungi-magazine.md]
 
 Fungi degrade monoaromatic compounds including BTEX (benzene, toluene,
 ethylbenzene, and m-, o-, p-xylenes) and chlorinated monoaromatics through both
-intracellular and [[ligninolytic-enzymes]] for nonspecific
+intracellular and [[singh-ligninolytic-enzymes-fungal-bioremediation]] for nonspecific
 oxidation of aromatic compounds. These systems generate highly reactive radicals
 that attack aromatic rings without requiring prior modification. The broad
 substrate specificity of ligninolytic systems is a major advantage for treating

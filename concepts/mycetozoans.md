@@ -17,7 +17,7 @@ updated: 2026-04-12
 
 # Mycetozoans
 
-Mycetozoans (slime molds) are a polyphyletic group of fungus-like protists that produce fruiting bodies and feed as predators on bacteria and other microorganisms. They comprise several distinct lineages within the Eumycetozoa and related groups.
+Mycetozoans ([[slime-molds]]) are a polyphyletic group of fungus-like protists that produce fruiting bodies and feed as predators on bacteria and other microorganisms. They comprise several distinct lineages within the Eumycetozoa and related groups.
 
 ## Overview
 
@@ -76,7 +76,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 **Fruiting body types**:
 - **Sporangium**: Small, discrete structure (most common)
 - **Plasmodiocarp**: Elongated, wormlike, netted
-- **Aethalium**: Massive, mound-shaped (Fuligo septica can exceed 20 cm across)
+- **Aethalium**: Massive, mound-shaped ([[fuligo-septica]] can exceed 20 cm across)
 - **Pseudoaethalium**: Clustered sporangia appearing as a single mass
 
 **Distribution**: Most species are cosmopolitan. Some tropical, some temperate, some habitat-restricted (e.g., Barbeyella minutissima in montane spruce-fir forests). Erionema aureum is common in Old World but absent from New World.
@@ -93,7 +93,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 
 **Taxonomy**: Class Eumycetozoa, Subclass Dictyostelia
 **Diversity**: 71 described species in 3 genera; ~12 undescribed species in culture
-**Key genera**: Dictyostelium, Polysphondylium, Acytostelium
+**Key genera**: [[dictyostelium]], Polysphondylium, Acytostelium
 
 **Life cycle**:
 1. Spores germinate as amoebae
@@ -103,7 +103,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 5. Slug transforms into fruiting body with stalk and spore mass
 6. Sexual cycle: macrocyst formation from zygotes
 
-**Distribution**: Worldwide in soil, particularly surface humus layers. Also found in litter, dung, and canopy soil of tropical rainforests. Transported by arthropods, earthworms, rodents, amphibians, and ground-feeding birds.
+**Distribution**: Worldwide in soil, particularly surface humus layers. Also found in litter, dung, and canopy soil of tropical rainforests. Transported by arthropods, [[earthworms]], rodents, amphibians, and ground-feeding birds.
 
 **Habitat patterns**:
 - More species in forest soils than agricultural soils, grasslands, or deserts
@@ -148,8 +148,3 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 - Myxomycetes: collect fruiting bodies from natural substrata; store in boxes with glued substrata
 - Preserve as dried specimens or permanent slide mounts
 - Photograph in situ when possible
-## See Also
-
-- [[mycetozoans-slime-molds]]
-- [[mushroom-cultivation-basics]]
-- [[permaculture-principles]]

@@ -15,7 +15,7 @@ for religious, spiritual, and healing purposes across many cultures.
 With the resurgence of interest in these fungi, understanding dosage,
 routes of administration, onset, duration, and both psychological and
 physiological effects is essential for [[lsd]] and the broader [[psilocybin]] and psilocin, [[psilocybe-semilanceata|Psilocybe semilanceata]]) can contain up to 1% psilocybin, with even higher
-potency reported in specific species like [[set-and-setting]] conditions are unfavorable.
+potency reported in specific species like [[lsd-set-and-setting-framework]] conditions are unfavorable.
 
 The 'good trips' are associated with relaxation, mental stimulation,
 new insights (often about time) and perspectives, and quickly changing

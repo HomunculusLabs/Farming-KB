@@ -152,5 +152,3 @@ Rule of thumb: online price = farmers market price + $3-5 for shipping/packaging
 - Respond to messages within 24 hours
 - Handle returns gracefully (refund or replace)
 - Request reviews after delivery (builds social proof)
-
-Online sales complement [[farmers-market-selling-guide]] and provide year-round revenue to supplement seasonal [[csa-farm-share-model]] income.

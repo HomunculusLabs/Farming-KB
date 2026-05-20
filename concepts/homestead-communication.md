@@ -152,17 +152,8 @@ Every homestead should have a dedicated emergency communication kit:
 - 3.840 MHz — Amateur Radio Emergency Service (ARES) frequency
 - 7.093 MHz — Southern California Emergency Net (example — find your local equivalent)
 
-### Family Communication Plan
+## See Also
 
-- Establish a check-in schedule (every 6-12 hours during emergencies)
-- Designate an out-of-area contact person as a relay point
-- Know how to reach local emergency services (911, sheriff direct line)
-- Practice using your communication equipment regularly
-- Ensure all family members can operate the radio equipment
-
-## Related Concepts
-
-- [[mushroom-foraging-safety-guide]] — Emergency preparedness and risk management
-- [[homestead-security]] — Communication as part of the security posture
-- [[emergency-preparedness]] — Communication during extended power outages
-- [[emergency-preparedness]] — Emergency communication during evacuation scenarios
+- [[homestead-tool-maintenance]]
+- [[homestead-record-keeping]]
+- [[plant-intelligence-and-communication]]

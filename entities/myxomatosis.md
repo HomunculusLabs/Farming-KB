@@ -79,7 +79,7 @@ practised a form of sustainable "farming" of wild rabbits.
 - **[[integrated-pest-management]]**: The myxomatosis experience informed development
   of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (IPM) strategies that combine biological,
   cultural, and chemical controls — approaches applicable to managing
-  competitor moulds and pathogens in [[mushroom-cultivation]].
+  competitor moulds and pathogens in [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Source References
 

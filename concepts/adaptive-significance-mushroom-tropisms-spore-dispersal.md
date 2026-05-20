@@ -71,7 +71,7 @@ Successful implementation of adaptive significance mushroom tropisms spore dispe
 ## See Also
 - [[spore-inoculation-sterile-technique]]
 - [[mycelium-running-mushroom-spore-dispersal]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[spore]]
 - [[mycelium]]
 

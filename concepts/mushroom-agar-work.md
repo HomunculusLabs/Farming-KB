@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Agar work is the practice of growing mushroom mycelium on nutrient agar in petri dishes. It is the foundation of advanced mushroom cultivation, enabling spore germination, contamination identification, strain isolation, and long-term culture storage. Working with agar transforms cultivation from a gamble with multi-spore genetics into a precise, repeatable process. Every serious cultivator eventually adopts agar work as a core skill.
+Agar work is the practice of growing mushroom mycelium on nutrient agar in petri dishes. It is the foundation of advanced [[accessible-mushroom-cultivation-for-disabilities]], enabling spore germination, [[contamination-identification]], strain isolation, and long-term culture storage. Working with agar transforms cultivation from a gamble with multi-spore genetics into a precise, repeatable process. Every serious cultivator eventually adopts agar work as a core skill.
 
 ## What is Agar?
 
@@ -70,8 +70,8 @@ Good for recovering stressed or slow-growing cultures.
 
 - Prepared agar solution (still hot/liquid)
 - Sterile petri dishes (pre-sterilized plastic or glass)
-- Still air box (SAB) or laminar flow hood
-- Isopropyl alcohol (70%)
+- Still air box (SAB) or [[laminar-flow-hood]]
+- [[isopropyl-alcohol]] (70%)
 
 ### Process
 
@@ -94,7 +94,7 @@ Good for recovering stressed or slow-growing cultures.
 
 ### Spore Inoculation
 
-Drop 0.1-0.5 cc of spore solution onto the agar surface. A single drop from a spore syringe contains thousands of spores. Multiple germination points will appear over 3-7 days.
+Drop 0.1-0.5 cc of spore solution onto the agar surface. A single drop from a [[spore-syringe]] contains thousands of spores. Multiple germination points will appear over 3-7 days.
 
 ### Agar Wedge Transfer
 
@@ -148,7 +148,3 @@ Agar slants are test tubes partially filled with solidified agar, stored at cool
 4. While still liquid, lay tubes at an angle so the agar solidifies as a diagonal surface (a "slant").
 5. Inoculate with a small wedge of mycelium.
 6. Once colonized, seal with a cap or parafilm and store at 35-45F (2-7C).
-## See Also
-
-- [[mushroom-agar-media-pouring-sterilization-techniques]]
-- [[mushroom-cultivator-agar-media-formulas]]

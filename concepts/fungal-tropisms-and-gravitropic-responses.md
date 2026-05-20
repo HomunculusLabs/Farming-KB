@@ -82,7 +82,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[dom]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[gravitropism]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-A desiccant is a hygroscopic substance used to create and maintain a low-humidity environment by absorbing moisture from the surrounding air. In [[mushroom-cultivation]], desiccants are essential for drying harvested mushrooms to a crisp, shelf-stable state. Proper desiccation preserves potency by preventing the degradation of psilocybin and psilocin that occurs in the presence of moisture and heat. The [[pf-tek]] method specifically recommends cool drying with desiccant as the preferred preservation method.
+A desiccant is a hygroscopic substance used to create and maintain a low-humidity environment by absorbing moisture from the surrounding air. In [[accessible-mushroom-cultivation-for-disabilities]], desiccants are essential for drying harvested mushrooms to a crisp, shelf-stable state. Proper desiccation preserves potency by preventing the degradation of psilocybin and psilocin that occurs in the presence of moisture and heat. The [[pf-tek]] method specifically recommends cool drying with desiccant as the preferred preservation method.
 
 ## Classification
 
@@ -69,7 +69,7 @@ than snap still contain too much moisture for safe storage.
 The desiccant chamber method achieves the lowest possible
 moisture content without introducing heat, which is critical
 because heat-based drying (ovens, food dehydrators on high)
-can reduce alkaloid content significantly. [[psilocybe-cubensis]]
+can reduce alkaloid content significantly. [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 specimens dried with desiccant consistently test higher for
 active alkaloids than heat-dried controls.
 

@@ -23,7 +23,7 @@ zone.
 
 The species is of particular ecological interest due to its
 interactions with soil microfauna, specifically collembola (springtails),
-and the effects of these interactions on [[spore-dispersal]] dynamics.
+and the effects of these interactions on [[aquatic-fungi-spore-dispersal-ingold]] dynamics.
 Research has shown that the presence of collembola can have markedly
 different effects on different AM fungal species, with S. calospora
 exhibiting reduced spore dispersal in the presence of these soil

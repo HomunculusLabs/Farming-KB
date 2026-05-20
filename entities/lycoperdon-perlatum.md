@@ -25,7 +25,7 @@ Lycoperdon perlatum, commonly known as the common puffball, gem-studded puffball
 
 The fruiting body of L. perlatum is a globose to pyriform (pear-shaped) structure typically 3-7 cm tall and 2-5 cm in diameter. The outer surface (exoperidium) is white to cream-colored when young, covered with small conical spines or warts (the "gems") that rub off easily with age. Beneath the spines, the surface is smooth and brownish. The inner gleba is firm and white when young, gradually turning yellowish and then olive-brown as the spores mature. At maturity, the gleba becomes a powdery mass of spores that are released through an apical pore (ostiole) when the fruiting body is disturbed by rain, wind, or animal contact.
 
-The spores are spherical, 3.5-4.5 micrometers in diameter, finely verrucose (warted), and olive-brown in mass. The species also produces capillitium threads - sterile, thread-like structures mixed with the spores that aid in [[spore-dispersal]].
+The spores are spherical, 3.5-4.5 micrometers in diameter, finely verrucose (warted), and olive-brown in mass. The species also produces capillitium threads - sterile, thread-like structures mixed with the spores that aid in [[aquatic-fungi-spore-dispersal-ingold]].
 
 ## Ecology and Habitat
 
@@ -79,4 +79,4 @@ L. perlatum is relevant to several areas of mycological research and application
 
 - [[fungal-biology-fundamentals]]
 - [[fungal-sexual-reproduction]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]

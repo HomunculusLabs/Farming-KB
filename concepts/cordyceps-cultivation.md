@@ -27,7 +27,7 @@ C. militaris requires:
 - Good fresh air exchange during fruiting (CO2 below 1,500 ppm)
 - Moderate light (500-1,500 lux) with a 12-hour photoperiod
 - Cool temperatures (60-68 F) -- one of the few commercially [[cordyceps-sinensis]]
-- [[spawn-preparation]]
+- [[azurescens-spawn-preparation-grain-to-wood]]
 - [[chaga]]
 
 ## Overview

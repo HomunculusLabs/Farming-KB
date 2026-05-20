@@ -148,6 +148,7 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 4. Cover vents with screen to keep insects out
 
 ## Drying Tips
+
 ## See Also
 
 - [[query-how-to-build-and-use-a-solar-food-dehydrator]]

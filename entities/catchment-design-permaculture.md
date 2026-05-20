@@ -32,7 +32,7 @@ Catchment design in permaculture refers to the application of natural catchment 
 
 ### Hydrological Design for Mushroom Production
 
-Catchment-scale water management determines the moisture regime available for [[mushroom-cultivation]]. Keyline dams, swales, and managed waterways create the moist, shaded environments along drainage lines where woodland mushrooms thrive.
+Catchment-scale water management determines the moisture regime available for [[accessible-mushroom-cultivation-for-disabilities]]. Keyline dams, swales, and managed waterways create the moist, shaded environments along drainage lines where woodland mushrooms thrive.
 
 ### Nutrient Cycling and Fungal Networks
 

@@ -110,7 +110,7 @@ Management of banana anthracnose requires an integrated approach combining pre-h
 
 ## Relevance to Cultivation and Mycology
 
-While Colletotrichum musae is primarily known as a plant pathogen rather than a cultivated fungus, its study is relevant to [[mycology]] in several ways. The molecular identification techniques validated with this species (apPCR, dpPCR) are transferable to identifying and monitoring any fungal species in complex substrates, including beneficial fungi used in [[mushroom-cultivation]]. Understanding the genetic diversity and population structure of Colletotrichum species provides comparative frameworks for studying genetic variation in cultivated mushrooms. Additionally, Colletotrichum species are sometimes encountered as contaminants in fungal cultivation operations, making rapid molecular identification tools valuable for quality control and contamination management.
+While Colletotrichum musae is primarily known as a plant pathogen rather than a cultivated fungus, its study is relevant to [[mycology]] in several ways. The molecular identification techniques validated with this species (apPCR, dpPCR) are transferable to identifying and monitoring any fungal species in complex substrates, including beneficial fungi used in [[accessible-mushroom-cultivation-for-disabilities]]. Understanding the genetic diversity and population structure of Colletotrichum species provides comparative frameworks for studying genetic variation in cultivated mushrooms. Additionally, Colletotrichum species are sometimes encountered as contaminants in fungal cultivation operations, making rapid molecular identification tools valuable for quality control and contamination management.
 
 ## See Also
 

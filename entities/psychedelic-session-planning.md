@@ -98,7 +98,7 @@ Psychedelic session planning refers to the systematic preparation for a psychede
 
 ## See Also
 
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[psychedelic-experience-book]]
 - [[psilocybin]]
 - [[lsd]]

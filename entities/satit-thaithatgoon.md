@@ -13,7 +13,7 @@ Satit Thaithatgoon is a renowned Thai mushroom entrepreneur and national cultiva
 
 ## Classification
 
-- **Category**: Person / [[mushroom-cultivation]] expert / Entrepreneur
+- **Category**: Person / [[accessible-mushroom-cultivation-for-disabilities]] expert / Entrepreneur
 - **Role**: National consultant for FAO TCP/THA/8821(A)
 - **Expertise**: Commercial [[prasert-wuthikamphee]]
 - [[mushroom-substrate-bags]]

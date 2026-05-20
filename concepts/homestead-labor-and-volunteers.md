@@ -148,6 +148,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - State workers comp requirements vary
 - State unemployment insurance: required for most employers
 - State-mandated breaks and meal periods
+
 ## See Also
 
-- [[integrated-homestead-annual-calendar]]
+- [[fukuoka-textdoc-postwar-farm-labor-appropriated-urban-prosperity]]

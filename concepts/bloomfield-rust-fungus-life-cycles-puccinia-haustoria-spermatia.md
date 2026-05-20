@@ -55,7 +55,7 @@ daughter nuclei into bean-shaped spores at the tips of spikes.
 A critical discovery from A.H.R. Buller's work: a droplet of fluid
 appears at the base of every spore before launch. This "Buller's drop"
 reveals these third-type spores are basidiospores, proving rusts are
-[[spore-dispersal]]
+[[aquatic-fungi-spore-dispersal-ingold]]
 - [[ergosterol]]
 - [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]]
 

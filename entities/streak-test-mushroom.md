@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-The [[streak-test]] is a simple but powerful diagnostic technique used in [[mushroom-cultivation]] to screen liquid cultures for contamination. By dragging a sterilized loop dipped in [[liquid-culture]] across a fresh agar plate in a Z pattern, cultivators can visually identify whether bacteria or mold contaminants are present alongside the target mycelium. The technique is recommended before any expansion of liquid cultures into grain spawn to prevent propagating hidden contamination through large volumes of substrate.
+The [[streak-test]] is a simple but powerful diagnostic technique used in [[accessible-mushroom-cultivation-for-disabilities]] to screen liquid cultures for contamination. By dragging a sterilized loop dipped in [[liquid-culture]] across a fresh agar plate in a Z pattern, cultivators can visually identify whether bacteria or mold contaminants are present alongside the target mycelium. The technique is recommended before any expansion of liquid cultures into grain spawn to prevent propagating hidden contamination through large volumes of substrate.
 
 ## Classification
 

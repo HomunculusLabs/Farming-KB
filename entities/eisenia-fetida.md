@@ -7,7 +7,7 @@ tags: [species, annelid, vermiculture, composting, worm]
 
 ## Description
 
-*Eisenia fetida*, commonly known as the red wiggler or red composting worm, is a species of earthworm widely used in vermicomposting systems worldwide. In [[mushroom-cultivation]] contexts, this species plays a critical role in mycovermicomposting — the practice of introducing composting worms into [[spent-mushroom-substrate]] to convert it into nutrient-rich worm castings. Red wigglers are extremely fond of mushroom mycelium, making them ideally suited for processing spent growing media from mushroom operations.
+*Eisenia fetida*, commonly known as the red wiggler or red composting worm, is a species of earthworm widely used in vermicomposting systems worldwide. In [[accessible-mushroom-cultivation-for-disabilities]] contexts, this species plays a critical role in mycovermicomposting — the practice of introducing composting worms into [[spent-mushroom-substrate]] to convert it into nutrient-rich worm castings. Red wigglers are extremely fond of mushroom mycelium, making them ideally suited for processing spent growing media from mushroom operations.
 
 ## Classification
 

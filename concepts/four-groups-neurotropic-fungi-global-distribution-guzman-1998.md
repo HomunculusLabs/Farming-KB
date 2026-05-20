@@ -52,7 +52,7 @@ Various Russula species have been reported in ceremonial contexts, though chemic
 ### Gasteromycetes (6 species in 3 genera, Lycoperdales and Phallales)
 Puffballs and related fungi used in religious or magical contexts:
 
-- [[amanita-muscaria]] has a circumboreal distribution across the Northern Hemisphere, associated with birch and pine forests. [[psilocybe-cubensis]]
+- [[amanita-muscaria]] has a circumboreal distribution across the Northern Hemisphere, associated with birch and pine forests. [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - **"Pajaritos"** (Spanish): "little birds"; commonly applied to [[distribution-of-neurotropic-fungi]]
 - [[neurotropic-fungi]]
 - [[african-neurotropic-fungi-distribution-and-underexplored-biodiversity-guzman-1998]]

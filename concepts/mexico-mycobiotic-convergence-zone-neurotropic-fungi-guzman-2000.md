@@ -28,7 +28,7 @@ The majority of Mexican neurotropic Psilocybe species (34 of 42 catalogued in Gu
 The convergence operates through two primary corridors of fungal migration:
 
 ### Northern Migration (Nearctic → South)
-Species such as [[psilocybe-yungensis]] and [[psilocybe-cubensis]] — a subtropical species adapted to warmer, less stable conditions — are generally less potent than wild-harvested species from mesophytic forests. The wild environment selects for alkaloid production as a chemical defense mechanism that is partially relaxed under artificial cultivation conditions.
+Species such as [[psilocybe-yungensis]] and [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] — a subtropical species adapted to warmer, less stable conditions — are generally less potent than wild-harvested species from mesophytic forests. The wild environment selects for alkaloid production as a chemical defense mechanism that is partially relaxed under artificial cultivation conditions.
 
 This vegetation preference explains why the more extensively surveyed coniferous forests of Mexico have yielded fewer neurotropic species — the habitat itself is less suitable, not the exploration effort.
 

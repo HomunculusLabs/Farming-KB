@@ -148,7 +148,8 @@ chill food stored in the structure.
 - Cool storage for beverages
 - Milk cooling before processing
 - Fermentation temperature control
+
 ## See Also
 
-- [[coleman-spring-transition]]
-- [[fukuoka-spring-orchard-bloom-and-aesthetic-philosophy]]
+- [[comparison-root-cellar-vs-ice-house]]
+- [[mushroom-house-construction-design]]

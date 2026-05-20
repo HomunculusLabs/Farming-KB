@@ -83,7 +83,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[det]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[ascomycota]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

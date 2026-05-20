@@ -81,7 +81,7 @@ The entire biomass uses the outer edges of the mycelium for oxygen transport, ch
 
 ### Clean Technique
 - Hands sprayed with 70% [[isopropyl-alcohol]] or half-strength bleach
-- Clean rake (designated solely for [[mushroom-cultivation]]) dunked in diluted bleach
+- Clean rake (designated solely for [[accessible-mushroom-cultivation-for-disabilities]]) dunked in diluted bleach
 - Spread media 3-4 inches deep; break spawn into smallest fragments; broadcast evenly
 - Tools don't need cleaning until after container filling if they stay in the mixing area
 

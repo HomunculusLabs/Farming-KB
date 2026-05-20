@@ -46,7 +46,7 @@ The dikaryotic mycelium stage is the most prolonged and the main assimilative ph
 
 The Agaricales contains many genera significant to cultivation and mycology:
 
-- **Psilocybe** / **Stropharia** — includes *[[psilocybe-cubensis]]* (formerly *[[stropharia-cubensis]]*), the most widely cultivated [[psilocybin-mushroom]]
+- **Psilocybe** / **Stropharia** — includes *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* (formerly *[[stropharia-cubensis]]*), the most widely cultivated [[psilocybin-mushroom]]
 - **Agaricus** — includes the common button mushroom (*[[agaricus-bisporus]]*)
 - **Amanita** — includes both toxic (*A. phalloides*) and psychoactive (*A. muscaria*) species
 - **Pleurotus** — oyster mushrooms, widely cultivated

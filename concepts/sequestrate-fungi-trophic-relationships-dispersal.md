@@ -89,7 +89,7 @@ The mycorrhizal or saprobic habits carry over directly from epigeous relatives, 
 host specificity. Mycorrhizal species absorb water and mineral nutrients, transferring them
 to host plants; in return they receive photosynthates (carbohydrates). Saprobic species
 produce extracellular enzymes for dead organic matter without symbiosis. In both cases,
-hypogeous fruiting has not altered the fundamental trophic role — only the [[spore-dispersal]]
+hypogeous fruiting has not altered the fundamental trophic role — only the [[aquatic-fungi-spore-dispersal-ingold]]
 mechanism has changed.
 
 ## Coevolution Example — Pacific Northwest Pinaceae Old-Growth

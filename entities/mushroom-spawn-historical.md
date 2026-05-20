@@ -57,7 +57,7 @@ Cuthill's spawn management practices, though described in pre-mycological langua
 - [[brick-spawn]]
 - [[cewey-mushroom-spawn]]
 - [[historical-mushroom-cultivation]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mushroom-spawn]]
 
 ## Practical Applications

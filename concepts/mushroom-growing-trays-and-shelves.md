@@ -116,7 +116,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[phase-ii-composting]] — compost conditioning procedures
+- [[mushroom-cultivator-phase-ii-composting-biology]] — compost conditioning procedures
 mushroom-composting — [[mushroom-market-and-economics]] — economics of tray vs. shelf systems
 [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what

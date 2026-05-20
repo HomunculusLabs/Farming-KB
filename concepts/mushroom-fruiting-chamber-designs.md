@@ -16,7 +16,7 @@ source: jarrold-indoor-mushroom-growing
 
 ## Overview
 
-Fruiting chambers are enclosed environments designed to maintain the high humidity and fresh air exchange conditions that mushrooms need to develop from colonized substrate into mature fruiting bodies. D.H. Jarrold describes several [[fruiting-chamber]] designs ranging from simple [[passive-humidity-fruit-chamber-polyethylene-sheeting]] setups to active [[reactive-house-passive-climate-control-systems]]. These chambers are used after the [[straw-based-mushroom-cultivation-boil-bag-method]] is complete.
+Fruiting chambers are enclosed environments designed to maintain the high humidity and fresh air exchange conditions that mushrooms need to develop from colonized substrate into mature fruiting bodies. D.H. Jarrold describes several [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] designs ranging from simple [[passive-humidity-fruit-chamber-polyethylene-sheeting]] setups to active [[reactive-house-passive-climate-control-systems]]. These chambers are used after the [[straw-based-mushroom-cultivation-boil-bag-method]] is complete.
 
 The fundamental requirements for any fruiting chamber are high relative humidity (90-95%), adequate fresh air exchange to prevent CO2 buildup, indirect light, and appropriate temperature. The designs described here address these requirements with varying levels of automation and complexity.
 

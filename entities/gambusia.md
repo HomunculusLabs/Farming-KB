@@ -44,7 +44,7 @@ tags: [fish, aquaculture, freshwater, mosquito-control, permaculture]
 
 ## Relevance to Cultivation and Mycology
 - Mosquito control is relevant to any outdoor cultivation operation with standing water
-- [[mushroom-cultivation]] operations with outdoor soaking tanks or runoff ponds benefit from biological mosquito control
+- [[accessible-mushroom-cultivation-for-disabilities]] operations with outdoor soaking tanks or runoff ponds benefit from biological mosquito control
 - Demonstrates the [[permaculture-principle-1-observe-interact]] of [[integrated-pest-management]] -- a biological solution replacing chemical insecticides
 
 ## References

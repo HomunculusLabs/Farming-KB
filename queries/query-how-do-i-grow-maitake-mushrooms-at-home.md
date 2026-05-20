@@ -91,7 +91,7 @@ Prevention through [[mushroom-contamination-prevention|contamination prevention]
 ## What About Environmental Control Equipment?
 
 Maintaining precise environmental conditions is one of the biggest challenges for maitake cultivators growing indoors.
-A basic [[fruiting-chamber|fruiting chamber]] can be built from a plastic tote with perlite for humidity, though more sophisticated setups use automated humidifiers and exhaust fans.
+A basic [[gottlieb-psilocybin-cultivation-fruiting-chamber-design|fruiting chamber]] can be built from a plastic tote with perlite for humidity, though more sophisticated setups use automated humidifiers and exhaust fans.
 The [[fruiting-chamber-design-and-environmental-control|design considerations]] for maitake include providing enough headroom for large clusters and ensuring even airflow distribution.
 A [[laminar-flow-hood|laminar flow hood]] is recommended for inoculation work to maintain sterile conditions during grain-to-grain transfers and substrate inoculation.
 Temperature control can be achieved with a small space heater or cooling unit connected to a thermostat controller.

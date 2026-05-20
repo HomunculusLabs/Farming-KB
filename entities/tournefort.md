@@ -16,7 +16,7 @@ Joseph Pitton de Tournefort (1656-1708) was a French botanist and mycologist not
 - **Domain**: Historical figure
 - **Field**: Botany, early mycology
 - **Era**: Late 17th to early 18th century (France)
-- **Significance**: Early documenter of [[mushroom-cultivation]] techniques
+- **Significance**: Early documenter of [[accessible-mushroom-cultivation-for-disabilities]] techniques
 
 ## Key Facts
 

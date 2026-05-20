@@ -42,7 +42,7 @@ The gills are adnate to slightly decurrent, moderately spaced, and white to pale
 The stem (stipe) is slender, central, hollow, and fragile. It measures 20 to 50 mm in length and 1 to 2 mm in thickness. The stem surface is smooth, colored similarly to the cap or slightly paler, often with a whitish basal mycelium. The base may be slightly tomentose where it attaches to the substrate. The stem is insititious, arising directly from the substrate without a distinct bulb or root-like base structure.
 
 ### Spores and Microscopic Features
-The [[spore-dispersal]] or possibly as a deterrent to nocturnal invertebrate predators.
+The [[aquatic-fungi-spore-dispersal-ingold]] or possibly as a deterrent to nocturnal invertebrate predators.
 
 The intensity of bioluminescence varies with environmental conditions including temperature, humidity, and the age of the fruiting body. Freshly developed basidiocarps typically exhibit the strongest luminescence. The bioluminescent system in *Mycena* is distinct from that found in other [[mycena-pura]]** — Similar coloration but typically larger and with a more distinctive radish-like odor
 - **Mycena rosea** — Pinker overall coloration, found in similar habitats

@@ -16,7 +16,7 @@ A **keyhole bed** is a garden bed design pattern that uses a lobular or crenella
 - Keyhole beds create sheltered microclimates within each lobular section.
 - The design allows all plants to be reached from a standing or kneeling position without compacting soil.
 - Figure 4.7 in Mollison's manual illustrates the "least path" design principle using keyhole geometry.
-- Related to Gangamma's Mandala pattern (Figure 10.26 in the manual), a circular [[mushroom-cultivation]] in outdoor settings. The lobular shape creates multiple microclimates — some sections receive more sun, others more shade, some retain moisture longer. This diversity of conditions allows cultivators to grow multiple mushroom species with different environmental requirements within a single bed system. The edges of keyhole beds accumulate organic debris, providing natural substrate for saprophytic fungi. The reduced foot traffic minimizes soil compaction, preserving [[keyhole-garden-design]]
+- Related to Gangamma's Mandala pattern (Figure 10.26 in the manual), a circular [[accessible-mushroom-cultivation-for-disabilities]] in outdoor settings. The lobular shape creates multiple microclimates — some sections receive more sun, others more shade, some retain moisture longer. This diversity of conditions allows cultivators to grow multiple mushroom species with different environmental requirements within a single bed system. The edges of keyhole beds accumulate organic debris, providing natural substrate for saprophytic fungi. The reduced foot traffic minimizes soil compaction, preserving [[keyhole-garden-design]]
 - [[gaias-garden-keyhole-beds-and-mandala-gardens]]
 - [[comparison-herb-spiral-vs-keyhole-beds]]
 

@@ -6,7 +6,7 @@ type: concept
 
 ## Fungal-Faunal Research in Decomposition and Nutrient Cycling
 
-The research literature on fungal-faunal interactions in soil decomposition and nutrient cycling reveals a complex web of relationships between fungi, soil invertebrates, and ecosystem processes. The body of work cited across multiple studies demonstrates how grazing, comminution, [[spore-dispersal]], and competitive interactions between fungi and fauna shape the rates and pathways of nutrient cycling in terrestrial ecosystems.
+The research literature on fungal-faunal interactions in soil decomposition and nutrient cycling reveals a complex web of relationships between fungi, soil invertebrates, and ecosystem processes. The body of work cited across multiple studies demonstrates how grazing, comminution, [[aquatic-fungi-spore-dispersal-ingold]], and competitive interactions between fungi and fauna shape the rates and pathways of nutrient cycling in terrestrial ecosystems.
 
 ## Soil Fauna as Fungal Grazers
 

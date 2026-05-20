@@ -28,7 +28,7 @@ sources:
 - **Authority:** Peck
 
 *P. silvatica* has at times been conflated with or considered closely allied to [[psilocybe-pelliculosa-entity]]** — Very similar habitat and appearance; distinguished by microscopic features and slightly different spore morphology
-- **[[psilocybe-cubensis]] [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Berkeley: Ten Speed Press.
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Berkeley: Ten Speed Press.
 ## Practical Applications
 
 Psilocybe silvatica has a range of practical applications that make it relevant to

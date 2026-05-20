@@ -72,7 +72,7 @@ Monitoring protocols help track population trends and inform adaptive management
 - [[gardening-when-it-counts]]
 - [[mushroom-inoculation]]
 - [[oyster-mushroom]]
-- [[plant-propagation]]
+- [[permaculture-plant-propagation-guide]]
 - [[seed-company-supplier-reference]]
 - [[seed-saving-techniques]]
 - [[steve-solomon]]

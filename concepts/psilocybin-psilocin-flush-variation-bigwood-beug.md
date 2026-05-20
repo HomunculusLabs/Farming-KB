@@ -11,7 +11,7 @@ created: 2026-05-11
 
 Bigwood and Beug (1982) conducted the first controlled study tracking how
 psilocybin and psilocin levels change across successive fruiting flushes
-(harvests) of *[[psilocybe-cubensis]]* grown under rigorously controlled culture
+(harvests) of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* grown under rigorously controlled culture
 conditions. Their findings revealed fundamentally different accumulation
 patterns for the two principal psychoactive alkaloids and demonstrated that
 [[fungal-elicitors-enhanced-secondary-metabolite-production]] whose biosynthetic pathway

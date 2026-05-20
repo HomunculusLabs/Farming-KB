@@ -49,7 +49,7 @@ Mushroom powder is a value-added product created by drying and grinding mushroom
 
 ## Relevance to Cultivation and Mycology
 
-Mushroom powder transforms the economics of [[mushroom-cultivation]] by creating a high-value product from what would otherwise be waste. Culled, damaged, or surplus mushrooms that cannot be sold fresh become a marketable product with extended shelf life. This is particularly important for small-scale cultivators who may experience production surges or aesthetic quality variations. The technique also provides a solution for off-season storage, allowing year-round mushroom consumption from seasonal production. In humanitarian contexts, powdering is the key to preserving overproduction for lean periods.
+Mushroom powder transforms the economics of [[accessible-mushroom-cultivation-for-disabilities]] by creating a high-value product from what would otherwise be waste. Culled, damaged, or surplus mushrooms that cannot be sold fresh become a marketable product with extended shelf life. This is particularly important for small-scale cultivators who may experience production surges or aesthetic quality variations. The technique also provides a solution for off-season storage, allowing year-round mushroom consumption from seasonal production. In humanitarian contexts, powdering is the key to preserving overproduction for lean periods.
 
 ## See Also
 

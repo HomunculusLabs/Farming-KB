@@ -87,7 +87,7 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[laccase]]
 - [[pleurotus-species]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

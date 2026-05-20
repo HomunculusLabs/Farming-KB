@@ -58,7 +58,7 @@ The fact that the M.R. and Ecuadorian strains showed the same pattern (caps high
 The uneven distribution of alkaloid biosynthesis products across fruiting body tissues has practical implications for consumers and cultivators:
 
 - **Caps are more potent per gram**: In most strains, caps contain significantly more psilocybin by dry weight than stems. Dried cap material is generally more potent than stem material for psilocybin content.
-- **Whole mushroom consumption averages the difference**: Eating whole fruiting bodies (caps and stems together) provides a blended alkaloid profile. Selective consumption of only caps or only stems would alter the [[psilocybe-cubensis]] material. If the cap-to-stem psilocybin ratio is relatively consistent within a strain but varies between strains, this ratio could serve as a supplementary chemical fingerprint for strain identification. However, the significant inter-strain variation observed in this study (including the Amazon strain's equal distribution versus the 1.5:1 ratio in the other strains) suggests that this metric alone would not be sufficient for definitive identification.
+- **Whole mushroom consumption averages the difference**: Eating whole fruiting bodies (caps and stems together) provides a blended alkaloid profile. Selective consumption of only caps or only stems would alter the [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] material. If the cap-to-stem psilocybin ratio is relatively consistent within a strain but varies between strains, this ratio could serve as a supplementary chemical fingerprint for strain identification. However, the significant inter-strain variation observed in this study (including the Amazon strain's equal distribution versus the 1.5:1 ratio in the other strains) suggests that this metric alone would not be sufficient for definitive identification.
 
 Chemical profiling techniques such as HPLC combined with multivariate statistical analysis could potentially leverage tissue-specific [[cotter-mushroom-products-and-value-added-applications]]. Such approaches are already used in the quality control of other botanical and fungal products.
 
@@ -75,7 +75,7 @@ For manufacturers of mushroom-derived products (teas, tinctures, capsules, choco
 
 - [[psilocybin-stability-across-flushes]]
 - [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[psilocybe-cubensis-cap-versus-stem-alkaloid-distribution]]
 
 ## Overview

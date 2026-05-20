@@ -41,7 +41,7 @@ Boron (B) is an essential plant micronutrient critical for cell wall formation, 
 ## Relevance to Cultivation and Mycology
 
 - **Fungal interaction**: Boron availability affects the plant-fungal interface; deficient plants have weaker cell walls that may be more susceptible to fungal pathogens.
-- **[[mushroom-cultivation|mushroom-cultivation]], as excessive boron can be toxic to fungal mycelium.
+- **[[accessible-mushroom-cultivation-for-disabilities|mushroom-cultivation]], as excessive boron can be toxic to fungal mycelium.
 - **Compost management**: Boron concentrations in compost should be monitored, especially if using materials from reclaimed marine areas.
 - **Wood decay**: Boron-treated timber resists fungal decay, demonstrating boron's fungicidal properties at higher concentrations.
 - **Soil biology**: Balanced boron levels support healthy root systems that sustain mycorrhizal partnerships.

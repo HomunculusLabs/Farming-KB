@@ -56,7 +56,7 @@ Chytridiomycosis is recognized as one of the most destructive infectious disease
 - At least **90 species** driven to probable or confirmed extinction as a direct result of chytridiomycosis, with many extinctions occurring before the pathogen was even identified.
 - Dramatic population declines across [[zoosporic-fungi]]
 - [[dom]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 
 ## Overview
 

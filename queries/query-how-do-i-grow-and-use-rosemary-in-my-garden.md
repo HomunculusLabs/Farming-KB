@@ -28,7 +28,7 @@ For container growing, compact varieties like 'Blue Boy' or 'Spice Island' stay 
 ## Site Preparation and Soil Requirements
 
 Rosemary demands excellent drainage and will rot in waterlogged soil, making it one of the few herbs that actually prefers lean, slightly alkaline conditions.
-Aim for a soil pH between 6.5 and 7.5, and amend heavy clay with coarse sand, gravel, or [[solomon-composting-methods]] compost to improve permeability.
+Aim for a soil pH between 6.5 and 7.5, and amend heavy clay with coarse sand, gravel, or [[natural-farming-guide-composting-methods-and-techniques]] compost to improve permeability.
 Full sun exposure of at least 6-8 hours daily is essential for robust growth and strong essential oil production.
 In regions with cold, wet winters, planting against a south-facing wall provides radiant heat and wind protection that can make the difference between survival and loss.
 A [[herb-spiral]] is an ideal planting location because its raised, well-drained upper sections mimic the Mediterranean hillside conditions rosemary loves.

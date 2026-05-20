@@ -139,5 +139,5 @@ Freshly picked mushrooms retain potency for years if properly dried:
 
 - [[psilocybin-mushroom-harvesting-potency]]
 - [[psilocybin-alcohol-extraction]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[pf-tek-cultivation-method]]

@@ -17,7 +17,7 @@ type: concept
 
 ## Hallucinogenic Mushroom Market in Europe
 
-The market for [[psilocybe-cubensis]] (Mexican): 8.50 to 45.28 EUR per 30 grams
+The market for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] (Mexican): 8.50 to 45.28 EUR per 30 grams
 - Fresh Copelandia cyanescens: 13 to 17.50 EUR per 10 grams
 - [[salvia-divinorum]], capitalizing on consumer preference for natural and organic products.
 

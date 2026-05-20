@@ -74,7 +74,7 @@ maintenance in the built environment.
 - **Decomposition and Maintenance**: The parallel between building decay and
   biological decomposition is instructive — both involve gradual deterioration
   that can be managed through proactive maintenance, whether of structures or
-  of substrate conditions in [[mushroom-cultivation]].
+  of substrate conditions in [[accessible-mushroom-cultivation-for-disabilities]].
 - **Systems Thinking**: Brand's pace layering concept applies to cultivation
   systems where biological processes (mycelial growth, fruiting) operate on
   different timescales than [[industrial-recycling-and-infrastructure-maintenance]] or seasonal cycles.

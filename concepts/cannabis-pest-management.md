@@ -148,7 +148,3 @@ Soft-bodied insects that cluster on new growth and undersides of leaves, sucking
 - Quarantine any plant showing pest symptoms immediately
 
 Pest-damaged plants are more susceptible to [[cannabis-disease-guide]] pathogens. Weak, stressed plants attract more pests — maintaining plant health through proper [[cannabis-nutrient-recipes]] is foundational to pest resistance.
-
-## Related
-
-- cannabis pest management

@@ -19,7 +19,7 @@ fertility in arid agricultural systems.
 - **Category**: Person — Permaculture practitioner / Dryland farmer
 - **Domain**: Dryland agriculture, Nutrient cycling, Soil fertility
 - **Location**: Near Flinders, South Australia, Australia
-- **Specialty**: Wildlife-integrated [[mushroom-cultivation]]; bird guano serves a similar function.
+- **Specialty**: Wildlife-integrated [[accessible-mushroom-cultivation-for-disabilities]]; bird guano serves a similar function.
 - Guano-enriched soil beneath roost trees develops rich **microbial and fungal
   communities** that accelerate organic matter decomposition.
 - The concentrated nutrient patches created by guano deposition can be used as

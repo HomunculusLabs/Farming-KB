@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Everclear is a high-proof grain spirit (typically 95% alcohol by volume / 190 proof) used as the standard [[ethanol-solvent]] in mushroom extraction processes. In the context of [[mushroom-cultivation]] and mycology, Everclear serves as the primary alcohol for making dual-extraction tinctures and alcohol-based medicinal mushroom extracts. Its high ABV makes it ideal for extracting both alcohol-soluble and certain water-soluble bioactive compounds from mushroom fruitbodies and myceliated grain. The 95% ethanol concentration provides the maximum solvent capacity for breaking down the chitin matrix that traps [[beta-glucans]] and other medicinal compounds inside fungal cell walls.
+Everclear is a high-proof grain spirit (typically 95% alcohol by volume / 190 proof) used as the standard [[ethanol-solvent]] in mushroom extraction processes. In the context of [[accessible-mushroom-cultivation-for-disabilities]] and mycology, Everclear serves as the primary alcohol for making dual-extraction tinctures and alcohol-based medicinal mushroom extracts. Its high ABV makes it ideal for extracting both alcohol-soluble and certain water-soluble bioactive compounds from mushroom fruitbodies and myceliated grain. The 95% ethanol concentration provides the maximum solvent capacity for breaking down the chitin matrix that traps [[beta-glucans]] and other medicinal compounds inside fungal cell walls.
 
 ## Classification
 

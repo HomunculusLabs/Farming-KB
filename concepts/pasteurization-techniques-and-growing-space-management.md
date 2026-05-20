@@ -6,7 +6,7 @@ type: concept
 
 ## Pasteurization Techniques and Growing Space Management
 
-From [[tradd-cotter]]'s *[[organic-mushroom-farming-and-mycoremediation-overview]] and [[mycoremediation]]*, detailed methods for [[substrate-pasteurization]] and efficient use of growing space in [[mushroom-cultivation]] operations.
+From [[tradd-cotter]]'s *[[organic-mushroom-farming-and-mycoremediation-overview]] and [[mycoremediation]]*, detailed methods for [[substrate-pasteurization]] and efficient use of growing space in [[accessible-mushroom-cultivation-for-disabilities]] operations.
 
 ## Hot Water Immersion Pasteurization
 

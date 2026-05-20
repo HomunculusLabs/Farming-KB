@@ -69,7 +69,7 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycelium]]
 - [[sterilization]]
 

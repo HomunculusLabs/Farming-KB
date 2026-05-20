@@ -148,6 +148,7 @@ The most dangerous chanterelle look-alike:
 - After sustained rain (2+ inches over several days)
 - 2-7 days after significant rainfall
 - Morning foraging is best (mushrooms are fresh before insects and heat)
+
 ## See Also
 
-- [[cannabis-screen-of-green-scrog-guide]]
+- [[growing-gourmet-chanterelle-truffle-cultivation-challenges]]

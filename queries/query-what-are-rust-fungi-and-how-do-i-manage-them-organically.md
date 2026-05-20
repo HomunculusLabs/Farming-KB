@@ -57,7 +57,7 @@ Accurate [[plant-disease-identification]] is critical because rust symptoms can 
 ## Why Rust Fungi Are Difficult to Control
 
 Their obligate biotrophic nature means rust fungi grow deep into living plant tissue before symptoms appear.
-Massive [[spore-dispersal]] events can carry rust spores hundreds of kilometers on wind currents.
+Massive [[aquatic-fungi-spore-dispersal-ingold]] events can carry rust spores hundreds of kilometers on wind currents.
 Some rust species produce billions of spores per hectare of infected crop, overwhelming preventive measures.
 The complex life cycle with multiple spore stages means different control measures may be needed at different times of year.
 As [[plant-disease-ecology-and-organic-management]] explains, understanding the ecological relationships between pathogen, host, and environment is the foundation of any management plan.

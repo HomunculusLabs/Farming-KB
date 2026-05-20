@@ -36,7 +36,7 @@ This reaction converts ethylene—produced by both plants and many fungi as a me
 
 ### Space Cultivation Application
 
-Cotter identifies potassium permanganate filtration as a critical technology for space-based [[mushroom-cultivation]]. In the closed-loop environment of a spacecraft or [[space-station-closed-system-aseptic-access-sterilization]]:
+Cotter identifies potassium permanganate filtration as a critical technology for space-based [[accessible-mushroom-cultivation-for-disabilities]]. In the closed-loop environment of a spacecraft or [[space-station-closed-system-aseptic-access-sterilization]]:
 
 1. Mushrooms and plants both produce ethylene as a metabolic byproduct
 2. Ethylene accumulates rapidly in sealed environments without natural atmospheric exchange

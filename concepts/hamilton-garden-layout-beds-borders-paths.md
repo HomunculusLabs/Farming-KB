@@ -103,7 +103,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[edge-geometry-and-compatible-borders]]
 - [[fukuoka-mahayana-hinayana-scientific-three-paths-detailed]]
 - [[hamilton-clearing-uncultivated-ground]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
+- [[hamilton-organic-fertilizers-and-plant-nutrition]]
 - [[hamilton-grafting-budding-techniques]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

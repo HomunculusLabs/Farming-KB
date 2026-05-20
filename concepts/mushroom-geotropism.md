@@ -14,7 +14,7 @@ Geotropism (also called gravitropism) is the growth response of an organism to g
 - The pileus to orient horizontally with the gills facing downward, optimizing the vertical drop of spores from basidia
 - Curvature correction when a growing mushroom is displaced from vertical — the stipe bends to restore upward growth
 
-This response has been documented in numerous mushroom species including *[[schizophyllum-commune]]*, *Polyporus brumalis*, and *[[psilocybe-cubensis]]*.
+This response has been documented in numerous mushroom species including *[[schizophyllum-commune]]*, *Polyporus brumalis*, and *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*.
 
 ### The Geotropic Shift in Psilocybe cubensis
 

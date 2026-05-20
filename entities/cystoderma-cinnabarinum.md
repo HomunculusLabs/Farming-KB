@@ -63,11 +63,11 @@ There are no known medicinal or biotechnological applications for this species. 
 
 C. cinnabarinum has served as a model organism in population genetics studies of [[basidiomycota]]. Research using arbitrarily primed polymerase chain reaction (apPCR) demonstrated that even closely spaced sporocarps (within 1 meter of each other) are genetically distinct, nonclonal individuals — a finding with significant implications for understanding spore dispersal, outcrossing efficiency, and population structure in basidiomycete fungi.
 
-The molecular methods validated with C. cinnabarinum, including small-tissue-sample apPCR protocols, have proven applicable to strain identification and genetic monitoring in [[fungal-biodiversity]] surveys and [[mushroom-cultivation]] programs. These techniques contribute to the broader toolkit used in conservation genetics and sustainable management of wild fungal resources. The species also serves as a useful reference point when comparing population genetic structures between saprotrophic and mycorrhizal basidiomycete lifestyles.
+The molecular methods validated with C. cinnabarinum, including small-tissue-sample apPCR protocols, have proven applicable to strain identification and genetic monitoring in [[fungal-biodiversity]] surveys and [[accessible-mushroom-cultivation-for-disabilities]] programs. These techniques contribute to the broader toolkit used in conservation genetics and sustainable management of wild fungal resources. The species also serves as a useful reference point when comparing population genetic structures between saprotrophic and mycorrhizal basidiomycete lifestyles.
 
 ## Relevance to Cultivation and Mycology
 
-Cystoderma cinnabarinum represents the type of saprotrophic agaric that contributes to nutrient cycling in forest ecosystems. While not commercially cultivated, its population genetics provide important comparative data for understanding genetic structure in basidiomycete populations. The finding that closely spaced sporocarps are genetically distinct individuals has implications for understanding [[spore-dispersal]], mating systems, and population dynamics in related cultivated species. The molecular methods validated with C. cinnabarinum are applicable to strain identification and genetic monitoring in [[mushroom-cultivation]].
+Cystoderma cinnabarinum represents the type of saprotrophic agaric that contributes to nutrient cycling in forest ecosystems. While not commercially cultivated, its population genetics provide important comparative data for understanding genetic structure in basidiomycete populations. The finding that closely spaced sporocarps are genetically distinct individuals has implications for understanding [[aquatic-fungi-spore-dispersal-ingold]], mating systems, and population dynamics in related cultivated species. The molecular methods validated with C. cinnabarinum are applicable to strain identification and genetic monitoring in [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## See Also
 
@@ -76,5 +76,5 @@ Cystoderma cinnabarinum represents the type of saprotrophic agaric that contribu
 - agaricaceae family — the taxonomic family containing Cystoderma and related genera
 - [[basidiomycota]] — the phylum to which all agaric fungi belong
 - [[fungal-biodiversity]] — broader context of fungal diversity research and conservation
-- [[spore-dispersal]] — mechanisms of spore spread relevant to Cystoderma population genetics
-- [[mushroom-cultivation]] — applied mycological techniques informed by population genetics research
+- [[aquatic-fungi-spore-dispersal-ingold]] — mechanisms of spore spread relevant to Cystoderma population genetics
+- [[accessible-mushroom-cultivation-for-disabilities]] — applied mycological techniques informed by population genetics research

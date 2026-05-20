@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Among the white-spored agarics, several genera beyond Lepiota offer edible species of considerable interest to foragers, cultivators, and mycologists. The genera **Tricholoma** (blewitts and allies), **Pleurotus** ([[mushroom-cultivation]] beyond the traditional *[[chicken-of-the-woods]])
+Among the white-spored agarics, several genera beyond Lepiota offer edible species of considerable interest to foragers, cultivators, and mycologists. The genera **Tricholoma** (blewitts and allies), **Pleurotus** ([[accessible-mushroom-cultivation-for-disabilities]] beyond the traditional *[[chicken-of-the-woods]])
 
 ## Overview
 

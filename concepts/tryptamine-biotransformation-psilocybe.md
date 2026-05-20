@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The biotransformation of exogenous tryptamine into psilocin by *[[psilocybe-cubensis]]*
+The biotransformation of exogenous tryptamine into psilocin by *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*
 represents one of the most significant findings in fungal biochemical research. First
 demonstrated by Gartz (1989) in *Planta Medica*, this process revealed that the
 fruiting mycelia of *P. cubensis* possess powerful enzymatic machinery capable of

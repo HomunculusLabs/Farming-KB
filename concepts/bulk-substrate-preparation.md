@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Bulk substrate is the nutritious, water-retaining medium that mushroom mycelium colonizes to produce fruiting bodies. In home cultivation, the bulk substrate is typically mixed with colonized [[grain-spawn]] at a defined ratio. The substrate provides the water reservoir and additional nutrition that grain alone cannot supply. The standard bulk substrate for [[psilocybe-cubensis]] is CVG — coconut coir, vermiculite, and gypsum — valued for its simplicity, contamination resistance, and consistent results.
+Bulk substrate is the nutritious, water-retaining medium that mushroom mycelium colonizes to produce fruiting bodies. In home cultivation, the bulk substrate is typically mixed with colonized [[grain-spawn]] at a defined ratio. The substrate provides the water reservoir and additional nutrition that grain alone cannot supply. The standard bulk substrate for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] is CVG — coconut coir, vermiculite, and gypsum — valued for its simplicity, contamination resistance, and consistent results.
 
 ## CVG: The Standard Substrate
 
@@ -19,7 +19,7 @@ Bulk substrate is the nutritious, water-retaining medium that mushroom mycelium 
 - Processed from coconut husk fibers, usually sold in compressed bricks (650g is standard).
 - Naturally resistant to contamination — coconut coir contains tannins and other compounds that inhibit microbial growth.
 - Excellent water retention capacity (holds 8-9 times its weight in water).
-- Near-neutral pH (6.0-6.8), ideal for [[mushroom-cultivation]].
+- Near-neutral pH (6.0-6.8), ideal for [[accessible-mushroom-cultivation-for-disabilities]].
 - No nutritional supplementation needed for cubensis, though it can be added.
 
 **Vermiculite**

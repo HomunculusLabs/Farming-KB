@@ -73,7 +73,7 @@ themselves. This would explain its current [[copelandia-cyanescens-pantropical-d
 
 ## Overview
 
-[[psilocybe-cubensis]] Cattle Dung Substrate Introduction Americas Guzman 1998 represents an important element within sustainable
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] Cattle Dung Substrate Introduction Americas Guzman 1998 represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

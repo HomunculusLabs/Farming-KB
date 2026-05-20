@@ -35,7 +35,7 @@ Within the [[panaeolus-cinctulus]].
 ## Cultural Significance
 
 Copelandia species, particularly [[copelandia-cyanescens]] — the most well-known and widely distributed species in the genus
-* [[psilocybe-cubensis]] — commonly co-occurs with Copelandia species in tropical dung habitats
+* [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] — commonly co-occurs with Copelandia species in tropical dung habitats
 * [[gottlieb-psilocybin-production-extraction-methods]]
 * [[baeocystin]] — secondary alkaloid found in Copelandia species
 

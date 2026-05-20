@@ -21,7 +21,7 @@ of behavior change in convicts. They started publishing the Psychedelic Review.
 Leary's work focused on exploring the possibilities and values of the psychedelic
 experience for "normals" (mostly graduate students) as well as artists, musicians,
 poets and writers, when provided in a relatively unstructured but supportive,
-home-like seset-and-settingept of "[[set-and-setting]] model represents a
+home-like seset-and-settingept of "[[lsd-set-and-setting-framework]] model represents a
 fundamental distinction between psychedelic therapy and conventional pharmacotherapy:
 with antidepressants or tranquilizers, the patient takes a pill and goes home, and
 pharmacological action is paramount; with psychedelics, set and setting are primary,

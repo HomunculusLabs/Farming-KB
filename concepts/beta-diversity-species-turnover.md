@@ -45,7 +45,7 @@ Within his broader scheme, Whittaker further subdivided differentiation diversit
 Species turnover — the replacement of some species by others as one moves across space or environmental conditions — is the fundamental process underlying beta diversity. Key mechanisms driving turnover include:
 
 - **Environmental gradients**: Changes in temperature, moisture, pH, or [[nutrient-availability]] select for different species. Fungal fruiting patterns, for instance, often shift predictably along elevation and precipitation gradients.
-- **Spatial distance and [[fungal-dispersal-limitation-biogeographic-barriers]]**: Even in environmentally homogeneous areas, communities may differ due to limited [[spore-dispersal]] and historical contingency.
+- **Spatial distance and [[fungal-dispersal-limitation-biogeographic-barriers]]**: Even in environmentally homogeneous areas, communities may differ due to limited [[aquatic-fungi-spore-dispersal-ingold]] and historical contingency.
 - **Biotic interactions**: Competition, host specificity, and mutualisms (e.g., [[plants-without-mycorrhizal-associations]]) can cause sharp species turnover across host plant boundaries.
 - **Disturbance and succession**: Post-fire, post-harvest, or post-flood successional gradients often show strong fungal species turnover as pioneer species are replaced by late-successional taxa.
 

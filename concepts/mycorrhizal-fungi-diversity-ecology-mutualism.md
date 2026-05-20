@@ -60,7 +60,7 @@ unexpected shifts in forest composition.
 The fruiting bodies of many ECM fungi are important food sources for forest
 wildlife. Mammals including deer, squirrels, chipmunks, and voles consume
 large quantities of ECM mushrooms, and many invertebrates feed on or within
-fruiting bodies. [[spore-dispersal]] by mammals (particularly mycophagous rodents)
+fruiting bodies. [[aquatic-fungi-spore-dispersal-ingold]] by mammals (particularly mycophagous rodents)
 is an important mechanism for ECM fungal colonization of new sites, as the
 spores survive passage through the animal digestive tract and are deposited in
 fecal pellets along with nutrients that support fungal establishment.

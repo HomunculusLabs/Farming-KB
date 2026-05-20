@@ -58,7 +58,7 @@ sterile filtration could circumvent this issue.
 
 ## Morphological Effects
 
-[[mushroom-cultivation]]
+[[accessible-mushroom-cultivation-for-disabilities]]
 - [[det]]
 - [[stigmasterol]]
 

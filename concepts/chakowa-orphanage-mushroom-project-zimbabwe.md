@@ -38,7 +38,7 @@ understanding and appreciation of [[fungal-building-material-deterioration]] wit
 To address low humidity, the project developed an innovative drip
 cooling system using plastic tubes filled with water, suspended from the
 roof adjacent to each grow bag. The tubes were punctured to allow water
-to drip out in a fine spray, providing [[mushroom-cultivation]]
+to drip out in a fine spray, providing [[accessible-mushroom-cultivation-for-disabilities]]
 - [[det]]
 - [[ubon-ratchathani-mushroom-project]]
 

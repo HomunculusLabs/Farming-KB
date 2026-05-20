@@ -40,7 +40,7 @@ That attention to procedure is one reason the FAO manual remains useful as a tea
 
 ## Mycology Context
 
-The project treated [[mushroom-cultivation]] as applied biology, sanitation practice, and livelihood design at the same time.
+The project treated [[accessible-mushroom-cultivation-for-disabilities]] as applied biology, sanitation practice, and livelihood design at the same time.
 Spawn quality, [[bulk-substrate-preparation]], incubation conditions, and harvest timing all had to be reliable before marketing or processing could succeed.
 Wuthikamphee's institutional background helped anchor those steps in extension-friendly standards.
 This makes him an important but easily overlooked figure in the manual's practical success.

@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Accurate dosing of psychedelic mushrooms is complicated by significant variability in potency between species, within species, and even between individual fruiting bodies. This guide provides general dosage frameworks based on [[psilocybe-cubensis]] as a reference standard, with conversion factors for other species. All dosages refer to dried mushroom material unless otherwise noted.
+Accurate dosing of psychedelic mushrooms is complicated by significant variability in potency between species, within species, and even between individual fruiting bodies. This guide provides general dosage frameworks based on [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] as a reference standard, with conversion factors for other species. All dosages refer to dried mushroom material unless otherwise noted.
 
 ## Critical Caveats
 

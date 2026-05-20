@@ -26,7 +26,7 @@ S. Dana Hayes was a prominent American assayer and chemist of the 19th century, 
 
 ## Relevance to Cultivation and Mycology
 
-Hayes' ignorance of fungal deliquescence illustrates the historical neglect of [[mycology]] as a [[bloomfield-history-of-mycology-scientific-discipline]]. Even skilled analytical chemists were unfamiliar with basic fungal processes like autodigestion (deliquescence), which is a well-known feature of genera like *Coprinus* (inky [[query-how-to-grow-wine-cap-mushrooms]]). This knowledge gap — which Palmer made it his mission to address — parallels modern challenges in [[palmer-mushroom-charts-american-mycological-education]]. Understanding this [[ghouled-field-guide-historical-context]] helps explain why [[mushroom-cultivation]] remained underdeveloped for so long and why basic mycological knowledge was so hard-won.
+Hayes' ignorance of fungal deliquescence illustrates the historical neglect of [[mycology]] as a [[bloomfield-history-of-mycology-scientific-discipline]]. Even skilled analytical chemists were unfamiliar with basic fungal processes like autodigestion (deliquescence), which is a well-known feature of genera like *Coprinus* (inky [[query-how-to-grow-wine-cap-mushrooms]]). This knowledge gap — which Palmer made it his mission to address — parallels modern challenges in [[palmer-mushroom-charts-american-mycological-education]]. Understanding this [[ghouled-field-guide-historical-context]] helps explain why [[accessible-mushroom-cultivation-for-disabilities]] remained underdeveloped for so long and why basic mycological knowledge was so hard-won.
 
 ## Historical Context
 

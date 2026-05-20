@@ -144,38 +144,7 @@ Sheep are extremely vulnerable to predation. Protection is essential.
   (FECRT) to determine effective dewormers.
 
 ### Vaccinations
-- CD&T (Clostridium perfringens C & D + tetanus) — core vaccine.
+- CD&T ([[clostridium]] perfringens C & D + tetanus) — core vaccine.
 - Ewes: booster 4-6 weeks pre-lambing to pass immunity to lambs via colostrum.
 - Lambs: first dose at 6-8 weeks, booster at 10-12 weeks.
 
-### Common Health Issues
-- Foot rot — caused by bacteria in wet conditions. Trim hooves, zinc sulfate
-  foot baths, improve drainage.
-- Caseous lymphadenitis (CL) — chronic abscesses, no cure, cull affected
-  animals.
-- Scrapie — fatal prion disease. Participate in USDA scrapie eradication program.
-- Enterotoxemia (overeating disease) — prevent with CD&T vaccination.
-- Fly strike — especially in wool breeds. Crutching, shearing, and insect
-  control help prevent.
-
-## Manure and Byproducts
-
-- Sheep manure is an excellent cold fertilizer, higher in nitrogen than
-  horse or cow manure.
-- Can be applied directly to gardens or composted first.
-- Average sheep produces ~500-1000 lbs of manure per year.
-- Wool can be sold raw, spun into yarn, felted, or used for insulation.
-- Sheepskins can be tanned as hides. See [[animal-harvest-and-processing]].
-- Bones are excellent for bone meal fertilizer or stock.
-
-## Links
-
-- [[goat-husbandry]]
-- [[pasture-management]]
-- [[livestock-fencing-guide]]
-- [[hay-and-forage-management]]
-- [[animal-harvest-and-processing]]
-
-## Related
-
-- [[sheep-health-and-production]]

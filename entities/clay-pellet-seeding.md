@@ -61,7 +61,7 @@ After broadcasting pellets, a thin layer of [[chicken-manure]] is spread over th
 
 ## Relevance to Cultivation and Mycology
 
-The clay pellet technique has direct analogues in [[mushroom-cultivation]]:
+The clay pellet technique has direct analogues in [[accessible-mushroom-cultivation-for-disabilities]]:
 
 1. **Spawn distribution**: Similar to how mushroom spawn is mixed with substrate and formed into blocks or plugs for distribution
 2. **Protection of inoculum**: Just as clay protects seeds, [[enterprise-development-mushroom-growers]] protect grain spawn from contamination

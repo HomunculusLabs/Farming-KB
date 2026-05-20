@@ -16,7 +16,7 @@ However, a critical caveat applies: developing reliable laboratory skills takes 
 
 ## Laboratory Space Requirements
 
-A [[mushroom-cultivation]] lab does not require a purpose-built clean room. Any enclosed space can serve as a laboratory: a closet, a spare bedroom, or even a partitioned section of a larger room. The key requirement is the ability to create and maintain a clean, controllable environment.
+A [[accessible-mushroom-cultivation-for-disabilities]] lab does not require a purpose-built clean room. Any enclosed space can serve as a laboratory: a closet, a spare bedroom, or even a partitioned section of a larger room. The key requirement is the ability to create and maintain a clean, controllable environment.
 
 For cultivators working within larger rooms, partitions offer an affordable solution. PVC or metal frames fitted with clear plastic sheeting (similar to greenhouse walls) create effective barriers against airborne contaminants. These partitions should include a well-sealed entry; zippered plastic door entries are inexpensive and work well for this purpose.
 

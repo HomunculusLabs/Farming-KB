@@ -34,7 +34,7 @@ The Soxhlet method is central to [[isopropyl-alcohol]] or ethanol) fills the rea
 
 Soxhlet extraction is relevant to:
 - Processing cannabis harvests into concentrated products
-- Extracting active compounds from [[psilocybe-cubensis]] powder with cannabis in the soxhlet basket)
+- Extracting active compounds from [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] powder with cannabis in the soxhlet basket)
 - Laboratory-scale extraction of any fungal or plant [[lemon-cannabis-alchemy-reflux-apparatus-and-laboratory-setup]]
 - [[street-sample-potency-variability-in-psilocybe-cubensis]]
 - [[psilocybe-cubensis-street-sample-potency-variability-bigwood-beug-1982]]

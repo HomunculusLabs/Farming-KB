@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Approximately **109 species** across four genera are known to contain psilocybin and/or psilocin: 40 species of *Conocybe*, 20 of *Panaeolus*, 40 of *Psilocybe*, and 9 of *Stropharia*. These species have a cosmopolitan range from the Arctic to the tropics, found on soil, dung, rotting wood, moss, and various organic substrates. The most commonly cultivated species is *[[psilocybe-cubensis]]*, valued for its ease of cultivation, disease resistance, and potency. This guide summarizes key species data and mycelial [[cannabis-sativa-indoor-cultivation-techniques]].
+Approximately **109 species** across four genera are known to contain psilocybin and/or psilocin: 40 species of *Conocybe*, 20 of *Panaeolus*, 40 of *Psilocybe*, and 9 of *Stropharia*. These species have a cosmopolitan range from the Arctic to the tropics, found on soil, dung, rotting wood, moss, and various organic substrates. The most commonly cultivated species is *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, valued for its ease of cultivation, disease resistance, and potency. This guide summarizes key species data and mycelial [[cannabis-sativa-indoor-cultivation-techniques]].
 
 ## Key Species
 

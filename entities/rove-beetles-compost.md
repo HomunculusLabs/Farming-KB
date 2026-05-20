@@ -54,7 +54,7 @@ In the composting food web described by Lowenfels and Lewis:
 
 - **Compost quality contributors:** Rove beetles contribute to the thorough decomposition of organic matter during compost maturation, producing higher-quality finished compost for garden and cultivation use.
 
-- **Biological pest control:** Some rove beetle species prey on fungus gnat larvae and other pests that can damage mushroom crops. Their presence in compost used for [[mushroom-cultivation]] can provide ongoing pest suppression.
+- **Biological pest control:** Some rove beetle species prey on fungus gnat larvae and other pests that can damage mushroom crops. Their presence in compost used for [[accessible-mushroom-cultivation-for-disabilities]] can provide ongoing pest suppression.
 
 - **Indicator species:** The presence of rove beetles in compost indicates a healthy, mature ecosystem with diverse trophic levels. Their absence may indicate compost that is too hot (thermophilic), too dry, or contaminated.
 

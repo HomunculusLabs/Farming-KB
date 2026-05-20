@@ -13,7 +13,7 @@ created: 2026-05-08
 Shirota, Hakamata, and Goda's 2003 synthesis paper briefly noted the
 structural and pharmacological relationship between psilocin and serotonin:
 "These compounds closely resemble the neurotransmitter serotonin, and the
-hallucinogenic effect of the '[[set-and-setting]] ting, as the ambient
+hallucinogenic effect of the '[[lsd-set-and-setting-framework]] ting, as the ambient
 serotonergic tone varies with the individual's emotional state, expectations,
 and environment.
 

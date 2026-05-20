@@ -121,5 +121,5 @@ Careful observation and documentation support ongoing improvement.
 
 ## See Also
 - shamanism
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[ayahuasca]]

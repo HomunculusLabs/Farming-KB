@@ -149,17 +149,6 @@ Aerial parts:
 
 ## Yields
 
-Under good conditions, expect approximately:
-- E. purpurea: 0.5-1 lb dried root per plant (3rd year)
-- E. angustifolia: 0.25-0.5 lb dried root per plant (3rd-4th year)
-- Aerial parts: 0.25-0.5 lb dried herb per plant per year
-
 ## See Also
 
-- [[yarrow-plant-guide]] -- excellent companion plant; combine in immune teas
-- [[comfrey-plant-guide]] -- another medicinal perennial for the homestead
-  medicine garden
-
-## Related
-
-- [[gotu-kola-growing-guide]]
+- [[growing-gourmet-hypholoma-capnoides-cultivation]]

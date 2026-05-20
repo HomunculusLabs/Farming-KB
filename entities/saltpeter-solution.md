@@ -9,7 +9,7 @@ tags: [treatment, fertilizer, bed-revival, inorganic-compound]
 
 ## Description
 
-Saltpeter solution is a dilute aqueous preparation of potassium nitrate (KNO3) historically used as a revival treatment for exhausted mushroom beds. When mushroom beds cease producing, growers have traditionally experimented with watering them using dilute saltpeter solution or liquid manure in an attempt to stimulate renewed fruiting. Benjamin Minge Duggar noted that while this practice was sometimes advised, he did not find it sufficiently beneficial to justify a general recommendation for general use in [[mushroom-cultivation]].
+Saltpeter solution is a dilute aqueous preparation of potassium nitrate (KNO3) historically used as a revival treatment for exhausted mushroom beds. When mushroom beds cease producing, growers have traditionally experimented with watering them using dilute saltpeter solution or liquid manure in an attempt to stimulate renewed fruiting. Benjamin Minge Duggar noted that while this practice was sometimes advised, he did not find it sufficiently beneficial to justify a general recommendation for general use in [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Classification
 

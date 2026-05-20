@@ -36,7 +36,7 @@ type: entity
 ## Relevance to Cultivation and Mycology
 
 - Understanding pioneer colonizers like *Ceuthospora* informs the ecological dynamics of conifer substrate decomposition.
-- The presence of [[endophytic-fungi]] in needles at abscission has implications for substrate sterilization in [[mushroom-cultivation]].
+- The presence of [[endophytic-fungi]] in needles at abscission has implications for substrate sterilization in [[accessible-mushroom-cultivation-for-disabilities]].
 - Early colonizers precondition substrates by degrading simple carbohydrates, potentially facilitating subsequent colonization by cultivated species.
 - The four-stage succession model (Ponge, 1991) provides a framework for understanding fungal community development on conifer-based substrates.
 - Knowledge of pioneer decomposer communities helps predict natural decomposition rates in forest ecosystems used for wild mushroom foraging.

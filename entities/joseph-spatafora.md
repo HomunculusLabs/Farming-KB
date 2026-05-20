@@ -63,7 +63,7 @@ For cultivators working with [[synthetic-log-cultivation]] systems, phylogenetic
 
 Spatafora's laboratory has produced several landmark phylogenetic studies, including the Assembling the Fungal Tree of Life (AFTOL) project which resolved deep branching patterns across the kingdom. His work on [[fungal-phylogeny-classification|fungal systematics]] has directly impacted how cultivators classify and select strains for commercial production.
 
-The "Spatafora Lab" at Oregon State University continues to train mycologists who go on to work in taxonomy, plant pathology, and [[mushroom-cultivation]] research. His mentorship network extends to institutions worldwide, strengthening the taxonomic foundation that underpins modern applied mycology.
+The "Spatafora Lab" at Oregon State University continues to train mycologists who go on to work in taxonomy, plant pathology, and [[accessible-mushroom-cultivation-for-disabilities]] research. His mentorship network extends to institutions worldwide, strengthening the taxonomic foundation that underpins modern applied mycology.
 
 His research group has also contributed to understanding fungal diversity in tropical and temperate forests, discovering numerous new species and genera. This taxonomic work has implications for [[mycoremediation]] and the discovery of novel bioactive compounds from understudied fungal lineages.
 

@@ -36,7 +36,7 @@ The flush-dependent nature of psilocin accumulation has practical consequences f
 
 - **Potency is not uniform**: Growers cannot assume consistent alkaloid profiles across all flushes from a single grow. Later flushes contain proportionally more psilocin, which may produce qualitatively different subjective effects.
 - **Harvest timing matters**: If maximizing total tryptamine content is desired, later flushes (3 to 5) may be preferable. If consistent dosing is important, blending material from multiple flushes is advisable to average out the variation.
-- **[[psilocybe-cubensis]] biology rather than a quirk of the Amazonian strain used in the primary experiment. However, the magnitude and exact timing of the accumulation curve likely varies among strains, and additional research with more diverse genetic material would help characterize the full range of natural variation.
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] biology rather than a quirk of the Amazonian strain used in the primary experiment. However, the magnitude and exact timing of the accumulation curve likely varies among strains, and additional research with more diverse genetic material would help characterize the full range of natural variation.
 
 ## Analytical Methodology
 

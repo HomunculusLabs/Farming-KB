@@ -29,7 +29,7 @@ respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
 [[doc]]
-- [[ligninolytic-enzymes]]
+- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[aspergillus-niger]]
 
 ## Overview

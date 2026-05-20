@@ -74,7 +74,7 @@ Blue-end spectrum light at intensities above 1.5 x 10^4 ergs/cm^2/sec
 induced mature [[light-initiation-basidiocarp-formation]]. Green, red, and far-red
 wavelengths failed to induce initials, consistent with P. cubensis.
 
-### [[psilocybe-cubensis]]
+### [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 
 ## Overview
 

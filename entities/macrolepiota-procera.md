@@ -25,7 +25,7 @@ sources:
 
 Prefers open grasslands, meadows, pastures, and woodland edges. Common along hedgerows and forest paths. Favors well-drained, nutrient-rich soils. Solitary to scattered. Fruits from late summer to late autumn (July–November in the Northern Hemisphere).
 
-Considered primarily saprotrophic but may form weak [[spore-dispersal]].
+Considered primarily saprotrophic but may form weak [[aquatic-fungi-spore-dispersal-ingold]].
 
 ## Cultivation
 

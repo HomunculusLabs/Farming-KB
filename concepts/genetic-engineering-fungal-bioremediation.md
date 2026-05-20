@@ -26,7 +26,7 @@ The first complete eukaryotic genome belongs to the yeast Saccharomyces cerevisi
 The 30 million base pair genome of the first basidiomycete, [[fungal-manganese-peroxidase-remediation]]. These enzymes have broad substrate specificity and can oxidize a wide range of aromatic pollutants including [[mycoremediation-emerging-techniques]]
 
 [[neurospora-crassa]]
-- [[ligninolytic-enzymes]]
+- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 
 ## Practical Applications
 

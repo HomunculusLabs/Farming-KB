@@ -5,7 +5,7 @@ tags:
 ---
 
 ## Disposable Tray Casing Method for [[grass-seed-substrate-for-mushroom-cultivation]] into a fruiting-ready
-configuration. Popular among home cultivators of **[[fruiting-chamber]]. Trays are disposable,
+configuration. Popular among home cultivators of **[[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]. Trays are disposable,
 eliminating sterilisation of fruiting containers between runs.
 
 ## Materials

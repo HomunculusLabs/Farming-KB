@@ -28,7 +28,7 @@ The Sharanahua are an indigenous people of the Panoan language family living in 
 ## Relevance to Cultivation and Mycology
 
 - The Sharanahua case provides evidence that the therapeutic effects of ayahuasca are not purely pharmacological but are mediated by social and cultural factors — the shaman's active direction of the experience and the communal context of the session.
-- The concept of "consensual validation" in shared hallucinogenic states has implications for understanding [[set-and-setting]] in psychoactive plant use: the cultural framework shapes not only the interpretation of the experience but its phenomenological content itself.
+- The concept of "consensual validation" in shared hallucinogenic states has implications for understanding [[lsd-set-and-setting-framework]] in psychoactive plant use: the cultural framework shapes not only the interpretation of the experience but its phenomenological content itself.
 - The Sharanahua curing model illustrates how indigenous peoples have developed sophisticated psychotherapeutic frameworks that harness the powerful subjective effects of *Banisteriopsis* brews within a structured social context to achieve therapeutic outcomes.
 
 ## Sources

@@ -1,5 +1,4 @@
 ---
-
 title: Beneficial Indigenous Microorganisms (BIM) — Carandang Method
 created: 2026-04-11
 updated: 2026-04-12

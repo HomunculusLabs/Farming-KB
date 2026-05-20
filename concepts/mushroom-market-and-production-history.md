@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The cultivation and marketing of mushrooms (*[[mushroom-cultivation]], and it remains the historical center of the industry. The extraordinary cave systems around Paris — vast underground quarries created by centuries of limestone mining — provided near-ideal conditions for mushroom growing and were directly responsible for the enormous scale of the French industry.
+The cultivation and marketing of mushrooms (*[[accessible-mushroom-cultivation-for-disabilities]], and it remains the historical center of the industry. The extraordinary cave systems around Paris — vast underground quarries created by centuries of limestone mining — provided near-ideal conditions for mushroom growing and were directly responsible for the enormous scale of the French industry.
 
 ### Production Statistics
 

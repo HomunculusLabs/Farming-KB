@@ -91,7 +91,7 @@ The emotional spectrum under [[psilocybin]] is dramatically widened:
 - **Challenging**: Anxiety, fear, grief, sadness, anger, guilt, shame, existential dread, paranoia, confusion
 - **Neutral**: Contemplative, meditative, detached observation
 
-Emotions are often experienced more intensely and with greater immediacy than in ordinary consciousness. Suppressed emotions may surface. The emotional tone is heavily influenced by [[set-and-setting]] — see [[psychedelic-mushroom-set-and-setting]].
+Emotions are often experienced more intensely and with greater immediacy than in ordinary consciousness. Suppressed emotions may surface. The emotional tone is heavily influenced by [[lsd-set-and-setting-framework]] — see [[psychedelic-mushroom-set-and-setting]].
 
 ## Cognitive Effects
 

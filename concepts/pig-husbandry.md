@@ -86,7 +86,7 @@ Pigs are notorious for testing and destroying fencing.
 ### Grain Rations
 - Grower diet: 16% protein from weaning to ~120 lbs.
 - Finisher diet: 14% protein from 120 lbs to market weight (220-280 lbs).
-- Common grains: corn (energy), soybean meal (protein), barley, oats, wheat.
+- Common grains: corn (energy), [[soybean-meal]] (protein), barley, oats, wheat.
 - Feed conversion ratio: 2.5-4 lbs of feed per lb of gain (heritage breeds
   are less efficient, 3.5-4.5:1). See [[livestock-feed-formulation]].
 

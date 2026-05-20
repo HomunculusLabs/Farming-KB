@@ -82,7 +82,7 @@ In a healthy, balanced [[soil-food-web]], gastropod populations are controlled b
 - Chemical control disrupts the entire soil food web, removing slug predators and worsening the problem
 - Maintaining habitat for ground beetles, birds, and other natural predators keeps gastropod populations in check
 - Organic mulches provide gastropod habitat but also support their predators
-- In [[mushroom-cultivation]], slugs can be significant pests [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
+- In [[accessible-mushroom-cultivation-for-disabilities]], slugs can be significant pests [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
 
 ## References
 

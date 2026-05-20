@@ -7,7 +7,7 @@ type: concept
 ## Lion's Mane and Brick Top — Cultivation and Identification
 
 Lion's mane (*Hericium* spp.) and brick top (*Hypholoma* spp.) represent two distinct approaches to
-specialty [[mushroom-cultivation]]. Lion's mane is a highly prized edible with remarkable neurological
+specialty [[accessible-mushroom-cultivation-for-disabilities]]. Lion's mane is a highly prized edible with remarkable neurological
 [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]], while brick top is a prolific and relatively easy-to-grow species that requires
 careful identification to distinguish from toxic look-alikes. Both offer unique opportunities for
 outdoor and indoor cultivators.

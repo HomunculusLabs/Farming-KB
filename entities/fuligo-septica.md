@@ -27,7 +27,7 @@ created: 2026-04-28
 When food becomes scarce or environmental conditions deteriorate, the plasmodium transforms into the reproductive stage:
 
 1. **Migration**: The plasmodium migrates to an elevated, exposed position (often climbing up plant stems or structures)
-2. **Sporangium formation**: It forms one or more stationary, crust-like structures called **aethalia** (a type of compound [[spore-dispersal]] by expanding and contracting with humidity changes
+2. **Sporangium formation**: It forms one or more stationary, crust-like structures called **aethalia** (a type of compound [[aquatic-fungi-spore-dispersal-ingold]] by expanding and contracting with humidity changes
    - **Hypothallus**: A thin, membranous base attaching the aethalium to the substrate
 
 ### Germination

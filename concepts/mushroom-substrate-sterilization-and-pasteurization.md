@@ -7,7 +7,7 @@ sources: ['papers/shroom-a-cultural-history-of-the-magic-mushroom.md']
 ## Common Issues
 
 Inadequate [[sterilization]] is one of the most common causes of failure in home
-[[mushroom-cultivation]]. Signs of insufficient sterilization include unexpected
+[[accessible-mushroom-cultivation-for-disabilities]]. Signs of insufficient sterilization include unexpected
 colours (green, blue, black, or pink) appearing in the substrate, foul odours,
 and stalled [[pasteurization-techniques]]
 

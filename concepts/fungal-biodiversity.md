@@ -1,5 +1,4 @@
 ---
-
 title: Fungal Biodiversity
 created: 2026-04-11
 updated: 2026-04-12
@@ -36,8 +35,8 @@ Fungi constitute one of the largest and least-known groups of organisms on Earth
 ## Why Fungal Diversity Matters
 
 Fungi are essential to:
-- **Nutrient cycling** — decomposition of organic matter
-- **Nutrient transport** — mycorrhizal networks securing nutrients for plants
+- **Nutrient cycling** — [[decomposition]] of organic matter
+- **Nutrient transport** — [[mycorrhizal-networks]] securing nutrients for plants
 - **Sustainable development** — sources of antibiotics, pharmaceuticals, food, industrial enzymes
 - **Ecosystem health** — indicators of environmental change
 - **Plant health** — as pathogens, mutualists, and endophytes
@@ -55,11 +54,11 @@ Fungi and fungus-like organisms span **three kingdoms comprising 11 phyla:**
 |---|---|---|
 | **Chytridiomycota** | Zoosporic, flagellated spores; mostly aquatic | Batrachochytrium (frog pathogen), Olpidium (plant virus vector) |
 | **Zygomycota** | Zygospore formation; pin molds, bread molds | Rhizopus, Mucor, Entomophthora |
-| **Ascomycota** | Ascospores in asci; largest phylum | Morels, truffles, yeasts, Penicillium, Neurospora |
+| **[[ascomycota]]** | Ascospores in asci; largest phylum | Morels, truffles, yeasts, Penicillium, Neurospora |
 | **Basidiomycota** | Basidiospores on basidia; mushrooms | Agaricus, Amanita, Russula, rusts, smuts |
 
 ### Clade Glomales (now Glomeromycota)
-- Arbuscular mycorrhizal fungi (AMF)
+- [[arbuscular-mycorrhizal-fungi]] (AMF)
 - Oblate root symbionts of most terrestrial plants
 - Produce glomalin (27-30% of soil carbon in colonized soils)
 - See [[fungal-symbiosis-types]]
@@ -70,7 +69,7 @@ Fungi and fungus-like organisms span **three kingdoms comprising 11 phyla:**
 |---|---|---|
 | **Oomycota** | Biflagellate zoospores; water molds | Saprolegnia, Pythium, Phytophthora |
 | **Hyphochytriomycota** | Single anterior flagellum with filaments | Aquatic parasites |
-| **Labyrinthulomycota** | Net-like slime molds; marine | Labyrinthula |
+| **Labyrinthulomycota** | Net-like [[slime-molds]]; marine | Labyrinthula |
 
 ### Kingdom Protista (Slime Molds)
 
@@ -112,11 +111,11 @@ Different fungal groups demand entirely different detection and identification m
 - Powdery mildews: ~400 species across 19-22 genera, 4.5% ratio to angiosperm species (9,838 host species documented by Hirata 1986)
 - Smuts: major pathogens of grasses; distribution follows host plant biogeography
 - Endophytes: estimated 80% of species in species-rich groups are widely distributed, leaving 20% with more limited distributions
-- Ectomycorrhizal fungi: 90% undescribed in some tropical surveys
+- [[ectomycorrhizal-fungi]]: 90% undescribed in some tropical surveys
 
 ### Geographic Patterns
 
-- North-temperate regions have far more documented powdery mildew host species than tropical/subtropical
+- North-temperate regions have far more documented [[powdery-mildew]] host species than tropical/subtropical
 - Whether this reflects true diversity or sampling bias remains unresolved
 - Areas of greatest powdery mildew abundance/damage: California and Israel (warm, rain-free summers + intensive agriculture)
 
@@ -151,8 +150,5 @@ DNA-based approaches are revolutionizing fungal biodiversity studies:
 
 ## See Also
 
-- [[fungal-spore-biology]] — Spore diversity and dispersal mechanisms
-- [[fungal-sexual-reproduction]] — Reproductive strategies affecting diversity
-- [[fungal-symbiosis-types]] — Plant-fungal associations
-- [[mycotoxins-and-human-health]] — Fungal effects on human health
-- [[nicholas-money]] — Popular science writing on fungal biology
+- [[fungal-biodiversity-power-analysis-statistical-design-zak-willig]]
+- [[fungal-biodiversity-similarity-indices-beta-diversity]]

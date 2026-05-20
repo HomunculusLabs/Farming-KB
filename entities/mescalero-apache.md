@@ -80,7 +80,7 @@ Research by L. Bryce Boyer identified a typical Apache personality configuration
 
 ## Relevance to Cultivation and Mycology
 
-The Mescalero Apache case demonstrates that the cultural context of hallucinogenic plant use is as important as the pharmacology of the plants themselves. The same peyote cactus that produces harmonious communal experiences in the Native American Church generated violence and social disruption among the Mescalero. This case is essential for understanding the [[set-and-setting]] principle in ethnopharmacology and the cultural factors that shape the experience of psychoactive plants.
+The Mescalero Apache case demonstrates that the cultural context of hallucinogenic plant use is as important as the pharmacology of the plants themselves. The same peyote cactus that produces harmonious communal experiences in the Native American Church generated violence and social disruption among the Mescalero. This case is essential for understanding the [[lsd-set-and-setting-framework]] principle in ethnopharmacology and the cultural factors that shape the experience of psychoactive plants.
 
 ## References
 

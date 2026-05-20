@@ -25,7 +25,7 @@ Indonesia, the Philippines, Sri Lanka, New Guinea, Fiji, Samoa, and
 the Hawaiian Islands. The tropical and subtropical climates, combined
 with diverse forest types and extensive pastoral agriculture, create
 favorable conditions for both dung-inhabiting and wood-inhabiting
-[[psilocybe-cubensis]]**: Widespread in tropical India, found on
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]**: Widespread in tropical India, found on
   bovine dung in pastures throughout the country.
 
 - **[[fungal-diversity-boreal-forests-taiga]]. The proposed connection between

@@ -20,7 +20,7 @@ type: entity
 
 ## Key Facts
 
-- Endogeic earthworm species studied in the context of arbuscular mycorrhizal [[spore-dispersal]]
+- Endogeic earthworm species studied in the context of arbuscular mycorrhizal [[aquatic-fungi-spore-dispersal-ingold]]
 - Pattinson et al. (1997) demonstrated that A. trapezoids reduced rather than increased arbuscular mycorrhizal infection of subterranean clover due to lateral transport of inoculum
 - Worm activity disrupted the extraradical hyphal network of [[arbuscular-mycorrhizal-fungi]], preventing interplant infection by mycelial growth
 - Capable of transporting propagules of saprotrophic, mycorrhizal, and pathogenic fungi through soil profiles

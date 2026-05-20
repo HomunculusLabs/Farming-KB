@@ -130,7 +130,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[dom]]
 - [[soma]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[boletales-order]]
 - [[fukuoka-textdoc-natural-order-microbial-ecology]]
 - [[implicate-order-and-unity-of-nature]]

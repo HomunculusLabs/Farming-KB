@@ -76,7 +76,7 @@ The coprophilous lifestyle has evolved independently in multiple lineages:
 - **Ascomycetes**: Ascobolus, Saccobolus, Sporormiella, and Podospora are mid-succession species fruiting after the initial zygospore bloom.
 - **Basidiomycetes**: Coprinus (ink-caps), Psathyrella, Stropharia, and Bolbitius appear later when the dung has partially decomposed and the carbon-to-nitrogen ratio has shifted.
 
-Each group employs different [[spore-dispersal]] strategies and occupies a distinct
+Each group employs different [[aquatic-fungi-spore-dispersal-ingold]] strategies and occupies a distinct
 temporal niche, creating a complex decomposition system that functions as a
 natural waste-processing facility on every pasture.
 

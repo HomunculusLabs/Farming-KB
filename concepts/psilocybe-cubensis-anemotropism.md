@@ -7,7 +7,7 @@ type: concept
 ## Anemotropism in Psilocybe Cubensis
 
 Anemotropism — wind-directed growth — is a principal tropic response governing stipe
-elongation in *[[psilocybe-cubensis]]* prior to sporulation. First documented systematically
+elongation in *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* prior to sporulation. First documented systematically
 by Badham (1982) using controlled wind-tunnel experiments, this response operates
 alongside and then yields to negative geotropism as the basidiocarp matures. The
 interplay between these two tropisms ensures that the mushroom positions its pileus
@@ -143,4 +143,4 @@ hydration — into a coordinated developmental program optimizing reproductive f
 - Negative [[geotropism-in-basidiomycetes]]
 - Boundary-layer effects on fungal growth
 - *Phycomyces* sporangiophore tropisms
-- [[spore-dispersal]] mechanisms in Agaricales
+- [[aquatic-fungi-spore-dispersal-ingold]] mechanisms in Agaricales

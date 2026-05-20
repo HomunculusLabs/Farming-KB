@@ -48,7 +48,7 @@ For fungal-dominated compost tea (appropriate for trees, vines, and perennials):
 Fish hydrolysate in soil drenches provides slow-release nitrogen through microbial processing. Unlike synthetic nitrogen, the nitrogen in fish hydrolysate is immobilized in microbial biomass and released gradually through protozoan and nematode predation.
 
 ### Mushroom Substrate Supplementation
-While not directly discussed by Ingham in this context, fish hydrolysate principles apply to [[mushroom-cultivation]]: protein-rich supplements feed the thermophilic and mesophilic organisms that precondition substrates. The amino acid and mineral content supports robust mycelial growth.
+While not directly discussed by Ingham in this context, fish hydrolysate principles apply to [[accessible-mushroom-cultivation-for-disabilities]]: protein-rich supplements feed the thermophilic and mesophilic organisms that precondition substrates. The amino acid and mineral content supports robust mycelial growth.
 
 ### Organic Certification
 Fish hydrolysate is generally approved for organic production. Check with specific certification bodies (OMRI, IFOAM, state programs) for product-specific approval.

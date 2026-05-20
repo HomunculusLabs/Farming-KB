@@ -5,7 +5,7 @@ tags:
 ---
 
 **Tags:** potency, harvesting, drying, [[cannabis-harvest-timing-visual-cues]] the single most important factor in
-producing a powerful [[psilocybe-cubensis]] Fanaticus summarized: "Grow them on brown rice, harvest
+producing a powerful [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] Fanaticus summarized: "Grow them on brown rice, harvest
 when young, cool dry with desiccant = entheogen of highest order."
 
 ## The Potency Secret: Harvest Age

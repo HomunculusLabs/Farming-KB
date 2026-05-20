@@ -12,7 +12,7 @@ Primordia are the earliest recognizable mushroom fruiting bodies, appearing as t
 
 - **Category:** Developmental stage of mushroom fruiting body
 - **Type:** Initial fruiting body formation
-- **Organism:** *[[psilocybe-cubensis]]* (in PF TEK context)
+- **Organism:** *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* (in PF TEK context)
 - **Appearance:** Tiny worm-like structures with reddish heads
 - **Developmental Sequence:** Pin → Hyphal knot → Primordia → Mature mushroom (sporocarp)
 

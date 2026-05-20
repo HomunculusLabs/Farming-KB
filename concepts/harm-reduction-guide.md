@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Harm reduction is a set of practical strategies and principles aimed at reducing the negative consequences associated with psychoactive substance use, without necessarily requiring abstinence. In the context of psychedelics and entheogens, harm reduction encompasses drug checking, dosing best practices, [[set-and-setting]] optimization, contraindication screening, and overdose response. These practices can meaningfully reduce risks while respecting individual autonomy.
+Harm reduction is a set of practical strategies and principles aimed at reducing the negative consequences associated with psychoactive substance use, without necessarily requiring abstinence. In the context of psychedelics and entheogens, harm reduction encompasses drug checking, dosing best practices, [[lsd-set-and-setting-framework]] optimization, contraindication screening, and overdose response. These practices can meaningfully reduce risks while respecting individual autonomy.
 
 ## Core Principles
 

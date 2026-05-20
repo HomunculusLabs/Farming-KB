@@ -120,4 +120,4 @@ The key to the return voyage: take it easy, slowly, naturally. Enjoy every secon
 - first bardo clear light — The initial transcendence
 - [[wrathful-visions-psychedelic-experience]] — Second Bardo nightmares
 - psychedelic guide role — The guide's function during re-entry
-- [[set-and-setting]] psychedelic therapy — Preparation for navigating difficult phases
+- [[lsd-set-and-setting-framework]] psychedelic therapy — Preparation for navigating difficult phases

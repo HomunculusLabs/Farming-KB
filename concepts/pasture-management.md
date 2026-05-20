@@ -30,9 +30,9 @@ plant and soil health.
 - Reduced parasite load — larvae die during rest periods before animals return.
 - Deeper root systems — plants grow deeper when grazed and rested properly.
 - Improved water infiltration — root channels and organic matter increase
-  soil porosity.
-- Carbon sequestration — grazing stimulates root exudates that feed soil
-  microbes, building soil organic carbon.
+  [[soil-porosity]].
+- Carbon sequestration — grazing stimulates [[root-exudates]] that feed soil
+  microbes, [[building-soil]] organic carbon.
 
 ### Implementation
 - Start simple: divide existing pasture into 4-8 paddocks with portable
@@ -113,7 +113,7 @@ plant and soil health.
 ### Legumes (Nitrogen Fixation + High Protein)
 - **White Clover:** Low-growing, persistent, high protein. Excellent in
   grazing mixes. Fixes 50-100 lbs N/acre/year.
-- **Red Clover:** Biennial, taller, good quality. Fixes 70-150 lbs N/acre.
+- **[[red-clover]]:** Biennial, taller, good quality. Fixes 70-150 lbs N/acre.
 - **Alfalfa:** Deep-rooted, very high protein and productivity. Requires
   well-drained soil and careful grazing management (bloat risk). See
   [[hay-and-forage-management]].

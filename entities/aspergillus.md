@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Aspergillus is a large and ubiquitous genus of filamentous fungi (molds) and one of the most common contaminants in [[mushroom-cultivation]] laboratories. In culture, Aspergillus species appear as green, black, yellow, or brown circular colonies with a powdery texture from profuse conidiospore production. Aspergillus contamination frequently competes with mushroom [[mycelium]] on agar plates and [[grain-spawn]], appearing as green and powdery circular colonies.
+Aspergillus is a large and ubiquitous genus of filamentous fungi (molds) and one of the most common contaminants in [[accessible-mushroom-cultivation-for-disabilities]] laboratories. In culture, Aspergillus species appear as green, black, yellow, or brown circular colonies with a powdery texture from profuse conidiospore production. Aspergillus contamination frequently competes with mushroom [[mycelium]] on agar plates and [[grain-spawn]], appearing as green and powdery circular colonies.
 
 ## Classification
 

@@ -57,7 +57,7 @@ Jarrold's Boil-A-Bag technique represents a significant contribution to the amat
 
 - [[lakeland-plastics-boil-bag]]
 - [[monotub-cultivation]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[spore-print-collection]]
 - [[substrate-preparation]]
 

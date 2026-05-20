@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-[[mushroom-cultivation]]. In the context of mycology and mushroom growing, cotton seed meal has been investigated as a nutritional supplement for compost, intended to boost yields of the cultivated mushroom *[[fruiting-body-development]].
+[[accessible-mushroom-cultivation-for-disabilities]]. In the context of mycology and mushroom growing, cotton seed meal has been investigated as a nutritional supplement for compost, intended to boost yields of the cultivated mushroom *[[fruiting-body-development]].
 - Supplementation with cotton seed meal must be performed during composting (fermentation), not after, to allow proper integration into the compost matrix and to prevent competitive mould growth.
 - The meal requires fermentation with the manure to break down complex proteins and release nitrogen in forms accessible to mushroom mycelium.
 

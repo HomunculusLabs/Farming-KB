@@ -28,7 +28,7 @@ within permaculture systems. Key concepts from this work include:
 
 The Stametsian permaculture model extends beyond simple mushroom cultivation
 to encompass a holistic vision of fungal integration in sustainable agriculture.
-This approach connects [[mushroom-cultivation]] practices with broader
+This approach connects [[accessible-mushroom-cultivation-for-disabilities]] practices with broader
 ecological design patterns, including [[mycoremediation]] and
 [[mycoforestry]] strategies.
 
@@ -119,5 +119,5 @@ skill for integrated permaculture mushroom production.
 - [[stametsian-permaculture-model]]
 - [[mycoremediation]]
 - [[mycoforestry]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[permaculture-design-principles]]

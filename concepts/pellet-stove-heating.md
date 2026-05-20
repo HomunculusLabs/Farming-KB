@@ -148,6 +148,7 @@ Electronic controls manage:
 Since pellet stoves require electricity, off-grid installations need a 12V battery with inverter (runs 8-12 hours during outages) and ideally a 200W solar panel. Always have a backup heating plan (woodstove, propane heater). Power consumption: 100-400 watts while running; startup draws 300-500 watts for 5-10 minutes.
 
 ## Installation Requirements
+
 ## See Also
 
 - [[comparison-pellet-stove-heating-vs-charcoal-production-for-cooking]]

@@ -79,7 +79,7 @@ Monitoring protocols help track population trends and inform adaptive management
 - [[fungal-sexual-reproduction]]
 - [[ganoderma-lucidum]]
 - [[lentinula-edodes]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycelial-network-structure]]
 - [[fungal-mycelial-networks-nutrient-translocation]]
 - [[pleurotus-ostreatus]]

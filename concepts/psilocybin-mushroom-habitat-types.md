@@ -28,7 +28,7 @@ The ecological niches and substrates where psilocybin-containing mushrooms natur
 
 The most characteristic habitat for many psilocybin species, particularly in tropical and subtropical regions:
 
-- **Primary species**: *[[psilocybe-cubensis]]* is the quintessential dung-inhabiting species, found on the dung of cattle, horses, and other herbivores across tropical and subtropical regions worldwide.
+- **Primary species**: *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* is the quintessential dung-inhabiting species, found on the dung of cattle, horses, and other herbivores across tropical and subtropical regions worldwide.
 - Other dung-associated species include *Panaeolus cyanescens*, *P. subbalteatus*, and *P. coprophila*.
 - Mushrooms typically fruit directly from dung pats or from soil heavily enriched with manure.
 - Seasonal availability depends on rainfall patterns; in tropical regions, fruiting can occur year-round during wet periods.

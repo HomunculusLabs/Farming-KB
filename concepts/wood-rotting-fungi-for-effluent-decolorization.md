@@ -72,7 +72,7 @@ Transitioning from laboratory to industrial scale presents several obstacles. Ma
 
 Choosing the right fungal species for a given effluent depends on multiple factors:
 
-- **Phanerochaete chrysosporium**: The most extensively studied species. Produces LiP and MnP under nitrogen limitation. Best for kraft effluents and high-molecular-weight chlorolignins. Requires careful culture conditions to induce [[ligninolytic-enzymes]].
+- **Phanerochaete chrysosporium**: The most extensively studied species. Produces LiP and MnP under nitrogen limitation. Best for kraft effluents and high-molecular-weight chlorolignins. Requires careful culture conditions to induce [[singh-ligninolytic-enzymes-fungal-bioremediation]].
 - **Trametes versicolor (Coriolus versicolor)**: Produces laccase as the primary enzyme. Effective across a broad range of dye types and effluent compositions. More tolerant of varying nitrogen conditions than P. chrysosporium.
 - **Pleurotus ostreatus**: Produces MnP and laccase. Particularly effective for phenol-rich effluents. Edible species, making spent biomass potentially useful as animal feed or compost after treatment.
 

@@ -137,7 +137,7 @@ Monitoring integration outcomes supports adaptive management.
 Common challenges include environmental variability, resource
 
 ## See Also
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures

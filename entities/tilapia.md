@@ -44,7 +44,7 @@ Tilapia is a common name for nearly a hundred species of cichlid fish from the t
 - Pond water enriched by Tilapia waste benefits downstream land crops
 
 ## Relevance to Cultivation and Mycology
-- While not directly related to mycology, Tilapia aquaculture shares principles of integrated nutrient cycling with [[mushroom-cultivation]]
+- While not directly related to mycology, Tilapia aquaculture shares principles of integrated nutrient cycling with [[accessible-mushroom-cultivation-for-disabilities]]
 - Pond sediments and organic waste from Tilapia systems can be composted for use as mushroom substrate
 - The polyculture design philosophy mirrors the multi-species approach used in mycological cultivation systems
 - [[water-management]] skills in aquaculture translate to humidity and substrate moisture management in mushroom growing

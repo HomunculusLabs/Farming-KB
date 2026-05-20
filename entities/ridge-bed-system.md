@@ -9,7 +9,7 @@ tags: [technique, cultivation, bed-construction, mushroom-growing, french-method
 
 ## Description
 
-The ridge bed system is one of the two primary bed construction methods used in [[mushroom-cultivation]], historically favored by French growers and practiced extensively in the limestone caves around Paris. Ridge beds are constructed as raised, peaked mounds of compost that maximize surface area for mushroom production in low-ceilinged growing spaces. The system is also known as the French bed method.
+The ridge bed system is one of the two primary bed construction methods used in [[accessible-mushroom-cultivation-for-disabilities]], historically favored by French growers and practiced extensively in the limestone caves around Paris. Ridge beds are constructed as raised, peaked mounds of compost that maximize surface area for mushroom production in low-ceilinged growing spaces. The system is also known as the French bed method.
 
 ## Classification
 

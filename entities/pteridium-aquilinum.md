@@ -47,7 +47,7 @@ Frankland (1992, 1998) described the following successional stages:
 
 ## Relevance to Cultivation and Mycology
 
-- Pteridium litter has been explored as a substrate for [[mushroom-cultivation]] in some regions
+- Pteridium litter has been explored as a substrate for [[accessible-mushroom-cultivation-for-disabilities]] in some regions
 - The detailed succession data from bracken decomposition provides a template for understanding colonization dynamics on any lignocellulosic substrate
 - The C:N ratio trajectory (200:1 to 30:1) helps predict when net [[nutrient-mineralization]] begins
 - Bracken fern contains carcinogenic compounds (ptaquiloside) that must be considered if used as a cultivation substrate

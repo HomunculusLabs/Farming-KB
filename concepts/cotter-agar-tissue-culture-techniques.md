@@ -31,7 +31,7 @@ so between 105-110 degrees F.
 Prepare petri plates at the [[pf-tek-maximum-fruiting-substrate-formula]] (finely
 ground sawdust or screened [[cotter-laboratory-setup]]
 - [[cotter-recycling-composting-vermicomposting-mushrooms]]
-- [[cotter-shiitake-cultivation]]
+- [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]
 
 ## Overview
 

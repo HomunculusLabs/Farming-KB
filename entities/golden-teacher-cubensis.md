@@ -12,7 +12,7 @@ sources:
 
 ## Golden Teacher
 
-**Golden Teacher** is a popular and widely circulated strain of *[[psilocybe-cubensis]]*, the most commonly cultivated psilocybin-containing mushroom in the world. Distinguished by its golden-colored caps and its reputation as a gentle, philosophically oriented [[bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson]].
+**Golden Teacher** is a popular and widely circulated strain of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, the most commonly cultivated psilocybin-containing mushroom in the world. Distinguished by its golden-colored caps and its reputation as a gentle, philosophically oriented [[bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson]].
 
 Despite the lack of documented provenance, Golden Teacher has become one of the most widely distributed and commercially available *P. cubensis* strains in the world.
 It is sold by virtually every major spore vendor and cultivation supply company, and its genetics have been propagated through countless generations of both amateur and commercial cultivators.
@@ -53,7 +53,7 @@ Potency can vary considerably depending on growing conditions, substrate composi
 The subjective effects profile reported by users is consistently described as smooth, gentle, and contemplative, with less visual intensity and more cognitive and emotional depth than some other strains.
 Common effects include enhanced pattern recognition, philosophical introspection, mild visual distortion (color enhancement, geometric patterning, and waviness of edges), increased emotional sensitivity, and a sense of connection to nature or to abstract concepts.
 Peak effects typically last 4–6 hours following oral ingestion.
-This qualitative profile — whether attributable to actual differences in alkaloid ratios or to expectation and [[set-and-setting]] effects — has contributed significantly to the strain's enduring popularity as an introductory psychedelic experience.
+This qualitative profile — whether attributable to actual differences in alkaloid ratios or to expectation and [[lsd-set-and-setting-framework]] effects — has contributed significantly to the strain's enduring popularity as an introductory psychedelic experience.
 
 ## Substrate and Environmental Preferences
 

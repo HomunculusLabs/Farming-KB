@@ -38,7 +38,7 @@ Earth cellars are a fundamental element of Holzer's permaculture infrastructure,
 - Direct contact as focus
 - Ford that can be crossed in a wheelchair
 - Planting possible from a wheelchair
-- Aquatic [[plant-propagation]] and fish breeding
+- Aquatic [[permaculture-plant-propagation-guide]] and fish breeding
 
 **Sensory Garden**
 - Heavily scented and aromatic flowers and herbs

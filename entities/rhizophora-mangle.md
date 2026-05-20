@@ -54,7 +54,7 @@ The sequential development of fungal biomass on red mangrove leaves:
 
 - Rhizophora demonstrates how substrate chemistry (high tannin content, saline environment) selects for specialized fungal communities
 - The viviparous seedling dispersal mechanism illustrates how fungal spores and mycelia can be transported across vast distances
-- Understanding mangrove fungal succession has applications for tropical [[mushroom-cultivation]] using mangrove-derived substrates
+- Understanding mangrove fungal succession has applications for tropical [[accessible-mushroom-cultivation-for-disabilities]] using mangrove-derived substrates
 - The ergosterol underestimation issue with oomycetes highlights the need for complementary biomass measurement techniques
 - Mangrove fungal communities are potential sources of novel enzymes adapted to high-salt, high-tannin environments
 

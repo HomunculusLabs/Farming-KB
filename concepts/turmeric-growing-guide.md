@@ -148,29 +148,7 @@ Fresh use:
 
 Drying:
 - Slice rhizomes 1/8-1/4 inch thick
-- Dehydrate at 130-140 degrees F until completely brittle (8-12 hours)
-- Grind dried slices into powder using a high-powered blender or spice mill
-- Store powder in airtight jars away from light and heat
-- Fresh-ground turmeric is far more potent and flavorful than commercial
-  powder
-
-Making golden milk (turmeric latte):
-1. Heat 1 cup milk (dairy or plant-based) in a saucepan
-2. Add 1 teaspoon turmeric powder or 1 inch grated fresh turmeric
-3. Add 1/4 teaspoon black pepper (essential for absorption)
-4. Add 1/2 teaspoon cinnamon and 1 teaspoon coconut oil or ghee
-5. Simmer for 5-10 minutes
-6. Sweeten to taste with honey or maple syrup
-
-## Yields
-
-Under good conditions, expect 5-10 pounds of fresh rhizomes per plant,
-yielding approximately 1-2 pounds of dried turmeric powder per 10 square
-feet of planting area.
 
 ## See Also
 
-- [[ginger-growing-guide]] -- close relative with similar cultivation
-  requirements
-- [[ashwagandha-growing-guide]] -- another tropical/subtropical medicinal
-  root crop
+- [[growing-gourmet-hypholoma-capnoides-cultivation]]

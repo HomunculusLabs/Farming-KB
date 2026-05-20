@@ -8,7 +8,7 @@ tags: [psilocybin, psilocin, psilocybe-cubensis, cap, stem, tissue-distribution,
 
 ## Psilocybin vs Psilocin Distribution in Cap and Stem
 
-The distribution of [[psilocybe-cubensis]]* is not uniform.
+The distribution of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* is not uniform.
 
 Bigwood and Beug (1982) found that caps generally contain approximately twice as much psilocybin as stems, while psilocin shows a more complex and strain-dependent distribution pattern.
 

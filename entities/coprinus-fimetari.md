@@ -9,7 +9,7 @@ tags: [species, coprinus, contaminant, compost, ink-cap]
 
 coprinus fimetari is a small species of ink cap mushroom that commonly appears on [[mushroom-spawn]], but indicates conditions where competing organisms are still active.
 - Duggar noted that if mould and C. fimetarius continue abundantly after spawning, the condition can be remedied by further compression of the compost or by early casing.
-- Auto-digestion (deliquescence) is characteristic of the genus and aids in [[mushroom-cultivation]]. Its presence on prepared beds communicates important information about compost readiness:
+- Auto-digestion (deliquescence) is characteristic of the genus and aids in [[accessible-mushroom-cultivation-for-disabilities]]. Its presence on prepared beds communicates important information about compost readiness:
 
 - **Compost maturity**: Abundant fruiting before spawning suggests the compost has not reached full fermentation maturity. The rapid growth of C. fimetarius indicates readily available soluble nutrients that should have been consumed during proper fermentation.
 - **Substrate composition**: More frequent on shavings- or sawdust-rich compost, reflecting the longer decomposition timeline for woody materials. Resinous shavings in particular slow fermentation and create conditions favorable to ink caps.

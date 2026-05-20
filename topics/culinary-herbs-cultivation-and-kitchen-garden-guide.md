@@ -1,6 +1,6 @@
 ---
 title: Culinary Herbs Cultivation And Kitchen Garden Guide
-subtitle: "" to growing, harvesting, and using culinary herbs in home gardens, containers, and permaculture systems""
+subtitle: " to growing, harvesting, and using culinary herbs in home gardens, containers, and permaculture systems"
 tags: [herbs, culinary, kitchen-garden, cultivation, permaculture, propagation, organic]
 date: 2026-05-09
 updated: 2026-05-09

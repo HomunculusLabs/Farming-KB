@@ -94,7 +94,7 @@ Contemporary cultural relevance continues in traditional, recreational, and rese
 
 - [[fungal-biology-fundamentals]]
 - [[fungal-mycelial-networks-nutrient-translocation]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycelial-network-structure]]
 - [[fungal-mycelial-networks-nutrient-translocation]]
 - [[phanerochaete-velutina]]

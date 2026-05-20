@@ -10,7 +10,7 @@ tags: [mycology, tropism, phototropism, geotropism, psilocybe-cubensis, basidioc
 
 The interplay between phototropism and geotropism [[four-stage-basidiocarp-development-psilocybe-cubensis-badham]], with a critical transition linked
 to spore production. This interaction determines final fruiting body
-orientation and directly affects [[spore-dispersal]] efficiency.
+orientation and directly affects [[aquatic-fungi-spore-dispersal-ingold]] efficiency.
 
 ## Two-Phase Tropic Model
 
@@ -78,7 +78,7 @@ Key experiments revealing wind vs. gravity contributions:
 
 ## Overview
 
-[[mushroom-tropisms-phototropism-geotropism]] Interaction [[psilocybe-cubensis]] [[four-stage-basidiocarp-development-psilocybe-cubensis]] represents an important element within sustainable
+[[mushroom-tropisms-phototropism-geotropism]] Interaction [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] [[four-stage-basidiocarp-development-psilocybe-cubensis]] represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

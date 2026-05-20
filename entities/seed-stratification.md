@@ -12,7 +12,7 @@ Seed stratification (also known as vernalization when applied to flowering induc
 ## Classification
 
 - **Category:** Seed treatment technique
-- **Domain:** Horticulture, silviculture, [[plant-propagation]]
+- **Domain:** Horticulture, silviculture, [[permaculture-plant-propagation-guide]]
 - **Also known as:** Cold stratification, vernalization, cold conditioning
 - **Temperature range:** 0-5 C (32-40 F)
 - **Duration:** Autumn to spring (weeks to months depending on species)

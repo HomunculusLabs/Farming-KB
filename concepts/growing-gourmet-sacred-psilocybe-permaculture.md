@@ -112,7 +112,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[psilocybe-mexicana]]
-- [[spawn-preparation]]
+- [[azurescens-spawn-preparation-grain-to-wood]]
 - [[grain-spawn-preparation]]
 ## Further Reading
 Continued research and field trials yield new insights into this subject.

@@ -112,7 +112,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[psilocybin]] — primary active compound and its biosynthesis
-- [[psilocybe-cubensis]] — the primary species cultivated with PF Tek
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] — the primary species cultivated with PF Tek
 - [[abort-dead-pinhead-cleanup-casing-surface-hygiene]]
 - [[abort-management-pinhead-removal-mushroom-casing-cultivation]]
 - [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]]

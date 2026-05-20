@@ -137,7 +137,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[det]]
 - [[bri1]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]]
 - [[brassinosteroid-psilocybe-cubensis-growth]]
 - [[first-flush-acceleration-brassinosteroid-timing-reduction]]

@@ -87,7 +87,7 @@ Bigwood and Beug reported the following performance characteristics for their Am
 While developed for alkaloid analysis, the miniculture method has broader applications:
 
 1. **Strain comparison**: Multiple strains can be grown simultaneously under identical conditions, enabling controlled comparisons of growth rate, yield, morphology, and chemical composition.
-2. **Mutation studies**: The method is well-suited for studying the effects of mutations (such as the sporeless mutant studied by Badham) on [[psilocybe-cubensis]]
+2. **Mutation studies**: The method is well-suited for studying the effects of mutations (such as the sporeless mutant studied by Badham) on [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 
 ## References
 

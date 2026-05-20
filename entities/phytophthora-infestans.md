@@ -102,7 +102,7 @@ Monitoring protocols help track population trends and inform adaptive management
 
 ## See Also
 - [[late-blight]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[ectomycorrhizal-fungi]]
 - [[arbuscular-mycorrhizal-fungi]]
 - [[solanum-lycopersicum]]

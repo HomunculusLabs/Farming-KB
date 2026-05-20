@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Pressure canning safety is about preventing botulism — a potentially fatal illness caused by Clostridium botulinum toxin. Unlike spoilage organisms that produce visible signs (mold, gas, off-odors), botulism toxin is invisible, odorless, and tasteless. Following proper pressure canning procedures is non-negotiable because the consequences of a mistake are severe.
+Pressure canning safety is about preventing botulism — a potentially fatal illness caused by [[clostridium]] botulinum toxin. Unlike spoilage organisms that produce visible signs (mold, gas, off-odors), botulism toxin is invisible, odorless, and tasteless. Following proper pressure canning procedures is non-negotiable because the consequences of a mistake are severe.
 
 ## Clostridium Botulinum
 
@@ -148,7 +148,7 @@ As an extra safety margin, the USDA recommends boiling all home-canned vegetable
 1. Open the jar
 2. Transfer contents to a saucepan
 3. Bring to a rolling boil
+
 ## See Also
 
-- [[comparison-pressure-canning-vs-water-bath-canning]]
 - [[pressure-canning-food-preservation]]

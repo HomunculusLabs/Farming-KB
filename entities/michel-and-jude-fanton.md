@@ -40,7 +40,7 @@ locally adapted plant varieties.
 - The retained moisture upslope of contour plantings creates **fungal-friendly
   microclimates** in what would otherwise be fast-draining hillside soils.
 - Harvested lemongrass biomass can be **composted or used directly as substrate
-  supplement** for [[mushroom-cultivation]], particularly for species that tolerate
+  supplement** for [[accessible-mushroom-cultivation-for-disabilities]], particularly for species that tolerate
   grass-based substrates.
 - The Northern Rivers region's warm, wet climate is excellent for **tropical
   and subtropical mushroom cultivation** including *Pleurotus*, *Ganoderma*,

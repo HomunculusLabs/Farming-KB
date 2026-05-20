@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - "Binns, S.E. et al. (2002). \"Phytochemical and genetic analysis of Echinacea species.\" Planta Medica, 68(8), 688-692."
   - "Baskin, J.M. & Baskin, C.C. (1989). \"Cedar glade endemics of Tennessee.\" Castanea, 54(2), 100-108."
-  - "USFWS. (2011). \"Echinacea tennesseensis (Tennessee Coneflower) 5-Year Review.\""
+  - "USFWS. (2011). \"Echinacea tennesseensis (Tennessee Coneflower) 5-Year Review.\"
   - "McGregor, R.L. (1968). \"The taxonomy of the genus Echinacea.\" University of Kansas Science Bulletin, 48(4), 113-142."
 ---
 

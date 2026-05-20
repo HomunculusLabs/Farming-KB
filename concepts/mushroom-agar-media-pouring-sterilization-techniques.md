@@ -14,7 +14,7 @@ tags:
 
 ## Overview
 
-Proper sterilization and pouring of [[mushroom-cultivation|mushroom cultivation]]. Even the finest agar formulation will fail if contaminants are introduced during preparation, sterilization, or pouring. This page covers the complete workflow from media preparation through pouring sterile petri dishes, with emphasis on [[cultivator-contaminants-of-mushroom-culture]] laboratories.
+Proper sterilization and pouring of [[accessible-mushroom-cultivation-for-disabilities|mushroom cultivation]]. Even the finest agar formulation will fail if contaminants are introduced during preparation, sterilization, or pouring. This page covers the complete workflow from media preparation through pouring sterile petri dishes, with emphasis on [[cultivator-contaminants-of-mushroom-culture]] laboratories.
 
 ### Prevention Strategy
 

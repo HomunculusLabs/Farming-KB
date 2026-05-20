@@ -33,7 +33,7 @@ American species in the *Hericium* genus, closely related to the well-known lion
 (*H. erinaceus*) and coral hedgehog (*H. coralloides*). The species produces large,
 cascading clusters of soft, white-to-cream spines that hang from a branched
 [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]**: Large, branched structure from a short stout base; 10–40 cm broad and 10–30 cm tall. Branches divide repeatedly, each bearing dense spine clusters.
-- **Spines**: White to cream, soft and fleshy, 10–40 mm long and 1–2 mm thick, hanging in cascading groups. Unlike *H. erinaceus*, spines grow from multiple branching points rather than [[mushroom-cultivation]].
+- **Spines**: White to cream, soft and fleshy, 10–40 mm long and 1–2 mm thick, hanging in cascading groups. Unlike *H. erinaceus*, spines grow from multiple branching points rather than [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Distinguishing from Similar Species
 

@@ -15,7 +15,7 @@ type: concept
 
 The final stages of the PF TEK concern maximizing mushroom potency through
 proper harvesting, preserving mushrooms through drying, and concentrating the
-active compounds through [[psilocybe-cubensis]] is not inherently weak; its potency depends entirely
+active compounds through [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] is not inherently weak; its potency depends entirely
 on how it is grown, when it is harvested, and how it is preserved.
 
 ## Understanding Potency

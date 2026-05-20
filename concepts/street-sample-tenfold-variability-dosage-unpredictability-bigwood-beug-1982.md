@@ -70,7 +70,7 @@ The practical implications of tenfold [[emcdda-psilocybin-mushroom-fresh-dried-p
   0.7 mg—an eightfold difference in active compound consumed.
 - A 10-gram fresh dose (approximately 1 gram dry) could range from a sub-threshold
   experience to a strong [[leary-psychedelic-experience-bardo-mapping]] depending on the sample.
-- This variability compounds the effects of [[set-and-setting]], making subjective
+- This variability compounds the effects of [[lsd-set-and-setting-framework]], making subjective
   experiences unpredictable even for experienced users.
 - Users attempting to calibrate their dosage across different sources face
   essentially impossible task without analytical testing.

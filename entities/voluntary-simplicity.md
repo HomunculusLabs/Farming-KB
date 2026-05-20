@@ -98,7 +98,7 @@ Mollison documents specific failure modes when communities lack this ethic:
 
 - **Low-Input Systems:** Voluntary simplicity aligns with low-input cultivation methods --
   using locally available substrates (straw, wood chips, agricultural waste) rather than
-  expensive commercial inputs for [[mushroom-cultivation]]
+  expensive commercial inputs for [[accessible-mushroom-cultivation-for-disabilities]]
 - **[[appropriate-technology]]:** Choosing manual or low-energy tools over industrial equipment
   reduces both cost and environmental impact while maintaining production
 - **Seed and Spawn Saving:** Maintaining personal genetic libraries rather than purchasing

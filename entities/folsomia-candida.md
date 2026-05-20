@@ -95,6 +95,6 @@ Monitoring protocols help track population trends and inform adaptive management
 - [[fungal-ecology]]
 - [[hypholoma-fasciculare]]
 - [[mushroom-compost]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycelial-cord]]
 - [[fungal-mycelial-networks-nutrient-translocation]]

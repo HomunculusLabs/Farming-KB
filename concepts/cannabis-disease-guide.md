@@ -46,11 +46,11 @@ Bud rot is the most feared disease in cannabis cultivation. It attacks from the 
 - Dispose of infected material outside the grow space (do not compost)
 - Increase airflow and reduce humidity immediately
 - If more than 10-15% of the plant is affected, consider early harvest
-- Apply preventative biological sprays (Trichoderma, Bacillus subtilis) to remaining plants
+- Apply preventative biological sprays ([[trichoderma]], [[bacillus-subtilis]]) to remaining plants
 
 ## Powdery Mildew (Podosphaera macularis)
 
-A fungal disease that appears as white powdery spots on leaf surfaces. Unlike most fungi, powdery mildew does not require free water to establish — it thrives in moderate humidity with warm days and cool nights.
+A fungal disease that appears as white powdery spots on leaf surfaces. Unlike most fungi, [[powdery-mildew]] does not require free water to establish — it thrives in moderate humidity with warm days and cool nights.
 
 ### Identification
 
@@ -84,7 +84,7 @@ A fungal disease that appears as white powdery spots on leaf surfaces. Unlike mo
 
 ## Root Rot
 
-Root rot encompasses several conditions that destroy the root system, most commonly caused by Pythium, Fusarium, or Phytophthora species. Overwatering and poorly drained media are the primary causes.
+Root rot encompasses several conditions that destroy the root system, most commonly caused by Pythium, Fusarium, or [[phytophthora]] species. Overwatering and poorly drained media are the primary causes.
 
 ### Identification
 
@@ -108,7 +108,7 @@ Root rot encompasses several conditions that destroy the root system, most commo
 - Ensure pots have adequate drainage holes
 - Use well-aerated media (perlite, pumice, rice hulls)
 - Maintain root zone temperature at 65-72 F
-- Use beneficial microbes (Trichoderma, Bacillus, mycorrhizae) to colonize and protect roots
+- Use beneficial microbes (Trichoderma, Bacillus, [[mycorrhizae]]) to colonize and protect roots
 - In hydroponics, maintain dissolved oxygen above 6 ppm with air stones
 
 ### Treatment
@@ -118,7 +118,7 @@ Root rot encompasses several conditions that destroy the root system, most commo
 - Drench with beneficial microbe solution (Trichoderma, Bacillus subtilis)
 - Reduce watering frequency significantly
 - In hydroponics: add hydrogen peroxide (3%, 3 ml per gallon) for emergency oxygen boost; add beneficial bacteria
-- Treat water with UV sterilization for ongoing prevention
+- Treat water with UV [[sterilization]] for ongoing prevention
 
 ## Fusarium Wilt (Fusarium oxysporum)
 
@@ -148,7 +148,3 @@ Damping off is a condition affecting seedlings and young clones, caused by sever
 ### Identification
 
 - Seedling stems become thin and water-soaked at the base
-## See Also
-
-- [[cannabis-screen-of-green-scrog-guide]]
-- [[cannabis-phenotype-and-genotype-guide]]

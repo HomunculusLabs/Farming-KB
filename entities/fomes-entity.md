@@ -28,7 +28,7 @@ The tinder conk (*F. fomentarius*) has one of the longest histories of human use
 
 Amadou production involves a laborious preparation process. The tough outer crust is removed, and the fibrous inner context is beaten, soaked in a solution of wood ash (potash), and dried repeatedly until it becomes soft, felt-like, and highly absorbent. This processed material can smolder for hours while holding an ember, making it invaluable for transporting fire in pre-industrial societies. Amadou was also used historically as a padding material for clothing and as a wound dressing due to its absorbent and hemostatic properties.
 
-In traditional Chinese medicine, Fomes species have been used to treat digestive disorders, throat inflammations, and skin conditions. Modern pharmacological studies have identified several [[ligninolytic-enzymes]] produced by *F. fomentarius*, particularly laccase and [[spore-dispersal]] occurs from spring
+In traditional Chinese medicine, Fomes species have been used to treat digestive disorders, throat inflammations, and skin conditions. Modern pharmacological studies have identified several [[singh-ligninolytic-enzymes-fungal-bioremediation]] produced by *F. fomentarius*, particularly laccase and [[aquatic-fungi-spore-dispersal-ingold]] occurs from spring
 through autumn.
 
 Annual growth zones can sometimes be observed on the upper surface of the

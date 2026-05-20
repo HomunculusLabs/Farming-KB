@@ -17,7 +17,7 @@ combines the acute neuroplastic and psychoactive effects of psilocybin with
 psychotherapeutic preparation, guidance during the session, and integration
 afterward. [[hofmann-lsd-clinical-research-early-studies]] for nearly three
 decades.
-Modern [[psilocybe-cubensis]]) in a comfortable, controlled clinical environment.
+Modern [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]) in a comfortable, controlled clinical environment.
 The client reclines on a couch or bed, wears an eye mask, and listens to a
 carefully curated music playlist. One or two therapists are present throughout
 the session, which lasts approximately six to eight hours. Therapists provide

@@ -1,5 +1,4 @@
 ---
-
 title: KNF Troubleshooting — Problems and Solutions
 created: 2026-04-11
 updated: 2026-04-12
@@ -96,7 +95,7 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 | Symptom | Likely Cause | KNF Response |
 |---------|-------------|--------------|
 | Yellowing lower leaves (veg) | N deficiency or natural senescence | FAA 1:1000 foliar; check if old growth (normal) |
-| Yellowing upper/new leaves | Fe, S, or general nutrient lockout | Seawater 1:30 (trace minerals); check pH |
+| Yellowing upper/new leaves | Fe, S, or general [[nutrient-lockout]] | Seawater 1:30 (trace minerals); check pH |
 | Leaf curl (upward) | Ca deficiency, heat stress | WS-Ca 1:500 foliar; improve airflow |
 | Leaf curl (downward) | Overwatering, P toxicity | Reduce water; check drainage |
 | Interveinal chlorosis | Mg or Fe deficiency | Seawater 1:30; Epsom salt soil drench |
@@ -126,7 +125,7 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 | Silver streaks, black dots | Thrips | OHN 1:500 + neem FPJ; blue sticky traps |
 | Clusters on new growth | Aphids | OHN 1:500; ladybugs; neem FPJ |
 | White flying insects | Whiteflies | OHN 1:500; yellow sticky traps |
-| White powder on leaves | Powdery mildew | OHN 1:500 (cinnamon antifungal); milk spray 1:9; improve airflow |
+| White powder on leaves | [[powdery-mildew]] | OHN 1:500 (cinnamon antifungal); milk spray 1:9; improve airflow |
 | Brown mushy buds | Bud rot (Botrytis) | Remove affected buds; reduce humidity <50%; OHN 1:500 preventive |
 | Wilting, brown roots | Root rot | Improve drainage; LAB 1:500 soil drench; H2O2 1:4 |
 

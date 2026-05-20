@@ -7,7 +7,7 @@ tags: [ecology, coastal-systems, biodiversity, wetland]
 
 ## Description
 
-Mangrove ecosystems are coastal wetland communities dominated by mangrove tree species adapted to saline, intertidal environments. Mollison describes them as "extremely productive ecologies" that demonstrate how simple plant associations can support complex animal communities. The key productivity driver is the mobile species working at different stages of [[volvariella-volvacea]]*, the [[mushroom-cultivation]] strategies
+Mangrove ecosystems are coastal wetland communities dominated by mangrove tree species adapted to saline, intertidal environments. Mollison describes them as "extremely productive ecologies" that demonstrate how simple plant associations can support complex animal communities. The key productivity driver is the mobile species working at different stages of [[volvariella-volvacea]]*, the [[accessible-mushroom-cultivation-for-disabilities]] strategies
 - Lessons from mangrove nutrient cycling inform composting and substrate management in cultivation
 
 ## Source Context

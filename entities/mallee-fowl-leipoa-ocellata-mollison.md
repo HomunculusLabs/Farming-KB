@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-The [[plant-propagation]].
+The [[permaculture-plant-propagation-guide]].
 - **Nucleus expansion strategy**: The nest acts as a nutrient nucleus from which vegetation expands outward, mirroring the permaculture approach of starting with small nuclei and gradually expanding the perimeter.
 - **Desert reforestation model**: Mollison cites the mallee fowl's compost nest as inspiration for human desert reforestation strategies using buried organic matter, manure, and wood chips in contour swales.
 - **Mycelial web development**: The decomposing mound creates ideal conditions for fungal networks, demonstrating the importance of mycelial webs in supporting tree establishment in arid reforestation.

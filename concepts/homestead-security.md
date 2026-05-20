@@ -149,22 +149,8 @@ Isolation is the homesteader's greatest vulnerability. A connected community is 
 
 ### Firearm Safety and Self-Defense
 
-For homesteaders who choose to own firearms:
-- Store in a heavy gun safe, bolted to the floor or wall
-- Ammunition stored separately
-- Regular practice and training
-- Know your local laws regarding self-defense and use of force
-- Have a clear family plan for security scenarios
-- Consider first aid/trauma training alongside firearms proficiency
+## See Also
 
-### Data and Document Security
-
-- Keep copies of important documents in a fireproof safe and off-site (cloud or safe deposit box)
-- Maintain an inventory of all valuable property with photos and serial numbers
-- Back up homestead records (financial, animal health, breeding) to cloud storage
-
-## Related Concepts
-
-- [[mushroom-foraging-safety-guide]] — Broader safety principles and risk management
-- [[goat-husbandry]] — Livestock guardian dogs as part of animal management
-- [[homestead-communication]] — Communication systems for security and emergency coordination
+- [[homestead-tool-maintenance]]
+- [[homestead-record-keeping]]
+- [[homestead-internet-options]]

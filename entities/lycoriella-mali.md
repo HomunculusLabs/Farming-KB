@@ -57,7 +57,7 @@ Three hypotheses were proposed for the grazing effect:
 
 ### Mushroom Cultivation Pest
 
-*Lycoriella* species, including *L. mali*, are significant pests in commercial [[mushroom-cultivation]]:
+*Lycoriella* species, including *L. mali*, are significant pests in commercial [[accessible-mushroom-cultivation-for-disabilities]]:
 
 1. **Direct damage:** Larvae tunnel through mushroom fruiting bodies and mycelial substrate
 2. **Vector for pathogens:** Adults and larvae can carry mites, nematodes, and fungal pathogens between growing areas

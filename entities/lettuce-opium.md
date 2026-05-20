@@ -9,7 +9,7 @@ tags: [extract, binder, cannabis-processing, lactuca, hash-production]
 
 ## Description
 
-"Lettuce opium" (also called lettuce extract or lactucarium) is a dried, tarry extract obtained from lettuce (Lactuca sativa) through [[cannabis-alchemy-overview]], lettuce opium was used as a binding agent for Iso hash — helping powdered cannabis material cohere into solid hash blocks. The name "opium" is colloquial and refers to the tar-like appearance of the extract, not to any opioid content.
+"Lettuce opium" (also called lettuce extract or lactucarium) is a dried, tarry extract obtained from lettuce (Lactuca sativa) through [[lemon-cannabis-alchemy-advanced-refinement-techniques]], lettuce opium was used as a binding agent for Iso hash — helping powdered cannabis material cohere into solid hash blocks. The name "opium" is colloquial and refers to the tar-like appearance of the extract, not to any opioid content.
 
 ## Classification
 

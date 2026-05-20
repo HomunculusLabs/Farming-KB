@@ -1,5 +1,4 @@
 ---
-
 title: The One-Straw Revolution — Book Guide
 created: 2026-04-12
 updated: 2026-04-12

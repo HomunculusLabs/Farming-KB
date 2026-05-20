@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Lepiota is a genus of mushrooms commonly known as parasol mushrooms, named for their distinctive large, umbrella-shaped fruitbodies. While some Lepiota species are prized edibles (notably [[macrolepiota-procera]], the true parasol), the genus also contains dangerously toxic species containing amatoxins. In [[mushroom-cultivation]], Lepiota species are noted for requiring or benefiting from microbial interactions in [[casing-soil]] to trigger fruitbody formation, placing them among the more challenging genera to cultivate.
+Lepiota is a genus of mushrooms commonly known as parasol mushrooms, named for their distinctive large, umbrella-shaped fruitbodies. While some Lepiota species are prized edibles (notably [[macrolepiota-procera]], the true parasol), the genus also contains dangerously toxic species containing amatoxins. In [[accessible-mushroom-cultivation-for-disabilities]], Lepiota species are noted for requiring or benefiting from microbial interactions in [[casing-soil]] to trigger fruitbody formation, placing them among the more challenging genera to cultivate.
 
 ## Classification
 

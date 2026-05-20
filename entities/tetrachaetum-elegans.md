@@ -36,7 +36,7 @@ type: entity
 
 - Represents a model organism for understanding early substrate colonization dynamics in aquatic environments.
 - The rapid colonization ability of *T. elegans* demonstrates the competitive advantage of early arrival at new resources.
-- Understanding early vs. late colonizer strategies informs substrate management approaches in [[mushroom-cultivation]].
+- Understanding early vs. late colonizer strategies informs substrate management approaches in [[accessible-mushroom-cultivation-for-disabilities]].
 - The succession from *T. elegans*-dominated to diverse communities provides a template for monitoring fungal community development.
 - Aquatic hyphomycete ecology demonstrates the importance of spore morphology in substrate colonization efficiency.
 - Studies of *T. elegans* succession contribute to understanding the relationship between fungal diversity and decomposition function.

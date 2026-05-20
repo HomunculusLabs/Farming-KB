@@ -9,7 +9,7 @@ created: 2026-05-09
 
 ## Overview
 
-Spore printing and syringe preparation are essential skills for maintaining a continuous cultivation cycle. The PF TEK relies on mass [[psilocybe-cubensis]]* mushroom produces an enormous number of spores — estimates range from tens of millions to over a billion per cap. Spores are haploid, meaning they carry only one set of genetic material. When a spore germinates, it produces a monokaryotic mycelium that must find and fuse with a compatible monokaryon from another spore to form a dikaryotic, fertile mycelium capable of fruiting. This genetic recombination at each generation is what gives the PF TEK its advantage in avoiding senescence.
+Spore printing and syringe preparation are essential skills for maintaining a continuous cultivation cycle. The PF TEK relies on mass [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* mushroom produces an enormous number of spores — estimates range from tens of millions to over a billion per cap. Spores are haploid, meaning they carry only one set of genetic material. When a spore germinates, it produces a monokaryotic mycelium that must find and fuse with a compatible monokaryon from another spore to form a dikaryotic, fertile mycelium capable of fruiting. This genetic recombination at each generation is what gives the PF TEK its advantage in avoiding senescence.
 
 ## Spore Printing
 

@@ -74,7 +74,7 @@ psilocybin depending on the source and flush, consuming 2 grams could deliver an
 dose means that the same nominal weight of mushrooms could produce experiences ranging from barely
 perceptible to overwhelmingly intense. See [[psilocybin]]
 - [[psilocin]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 
 ## Overview
 

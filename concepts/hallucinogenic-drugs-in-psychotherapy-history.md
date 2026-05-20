@@ -25,7 +25,7 @@ More or less simultaneously, the psychedelic model became preferred in Anglo-Ame
 
 ## The Harvard Research Project
 
-**[[timothy-leary]], Frank Barron, and Richard Alpert** conducted research at Harvard that focused not on treatment but on exploring the value of the psychedelic experience for "normals" (mostly graduate students), artists, musicians, poets, and writers. They introduced the concept of "consciousness expansion" and popularized the "[[set-and-setting]]" hypothesis: that the primary determinants of a psychedelic experience are the internal set (intention, expectation, motivation) and the external setting or context, including the presence of a guide.
+**[[timothy-leary]], Frank Barron, and Richard Alpert** conducted research at Harvard that focused not on treatment but on exploring the value of the psychedelic experience for "normals" (mostly graduate students), artists, musicians, poets, and writers. They introduced the concept of "consciousness expansion" and popularized the "[[lsd-set-and-setting-framework]]" hypothesis: that the primary determinants of a psychedelic experience are the internal set (intention, expectation, motivation) and the external setting or context, including the presence of a guide.
 
 ## Military Interest
 

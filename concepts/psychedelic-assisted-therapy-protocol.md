@@ -20,7 +20,7 @@ Psychedelic-assisted therapy (PAT) is a clinical approach that combines the admi
 PAT relies heavily on non-specific therapeutic factors that are common across psychotherapy modalities:
 
 - **Therapeutic alliance**: The trust and rapport between patient and therapist is the single strongest predictor of outcomes
-- **[[set-and-setting]]**: The patient's psychological state and the physical/interpersonal environment profoundly shape the experience
+- **[[lsd-set-and-setting-framework]]**: The patient's psychological state and the physical/interpersonal environment profoundly shape the experience
 - **Expectancy**: Patient beliefs and expectations about the treatment influence both the experience and outcomes
 - **Meaning-making**: The patient's capacity to construct helpful narratives from the experience determines therapeutic benefit
 

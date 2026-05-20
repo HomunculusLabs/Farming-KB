@@ -56,7 +56,7 @@ The most widely studied species for petroleum remediation:
 
 ### Phanerochaete chrysosporium
 - Model organism for [[lignin-degradation]] research
-- Produces all three major [[ligninolytic-enzymes]]
+- Produces all three major [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - Effective against both aliphatic and aromatic hydrocarbons
 - Used extensively in laboratory studies; less common in field applications
 

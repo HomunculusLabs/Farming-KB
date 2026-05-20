@@ -6,7 +6,7 @@ type: concept
 
 ## Stropharia cubensis — Identification and Natural History
 
-**[[stropharia-cubensis]]** (also classified as *[[psilocybe-cubensis]]* Earle ex Singer) is the most widely cultivated psilocybin-containing mushroom and one of the most easily recognized species in the family Strophariaceae. Often called "the starborn magic mushroom," it is native to circumtropical and subtropical regions worldwide, where its preferred substrate is herbivore dung — particularly that of cattle.
+**[[stropharia-cubensis]]** (also classified as *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* Earle ex Singer) is the most widely cultivated psilocybin-containing mushroom and one of the most easily recognized species in the family Strophariaceae. Often called "the starborn magic mushroom," it is native to circumtropical and subtropical regions worldwide, where its preferred substrate is herbivore dung — particularly that of cattle.
 
 ## Taxonomy and Nomenclature
 

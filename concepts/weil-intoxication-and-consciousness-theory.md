@@ -35,7 +35,7 @@ Weil proposes a hierarchy of methods for altering consciousness, ranging from in
 
 **Internal methods** (working directly with the nervous system's own mechanisms):
 - Meditation and contemplative practices
-- Controlled breathing (pranayama, [[set-and-setting]] and setting.
+- Controlled breathing (pranayama, [[lsd-set-and-setting-framework]] and setting.
 3. **The effects of drugs are not all-or-nothing** — they exist on a dose-response curve that is continuous, not categorical.
 4. **Spontaneous altered states are not fundamentally different from drug-induced states** — they represent different points of access to the same continuum of experience.
 

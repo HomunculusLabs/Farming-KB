@@ -150,15 +150,7 @@ Tinctures can be flavored with:
 - MCT oil tinctures: 3-6 months; do not refrigerate
 - Label with strain, date, estimated potency, and solvent type
 
-## Tincture vs Edible Comparison
+## See Also
 
-| Aspect | Tincture (Sublingual) | Edible |
-|---|---|---|
-| Onset | 15-45 minutes | 1-2 hours |
-| Duration | 2-4 hours | 4-8 hours |
-| Dose precision | High (measurable drops) | Variable (distribution in food) |
-| Discretion | High (small bottle, no smell) | Moderate |
-| First-pass metabolism | Bypassed (sublingual) | Yes (liver processing) |
-| Shelf life | Long (especially alcohol) | Variable |
-
-For edible preparation methods, see [[cannabis-edibles-guide]]. For the decarboxylation process shared with [[cannabis-extraction-basics]], ensure proper temperature control. Understanding [[cannabis-concentrates-types]] can also help when choosing input material for tinctures.
+- [[cervantes-cannabis-tinctures]]
+- [[lemon-cannabis-alchemy-tinctures-and-edibles]]

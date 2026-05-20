@@ -38,7 +38,7 @@ This series illustrates the gradual transition from exposed, forcibly-dischargin
 - **Habitat loss** — Forest clearing eliminates both the fungal habitat and their animal dispersers
 - **Disruption of mycophagist populations** — Declines in mammal and bird species directly reduce spore dispersal capacity
 - **[[sequestrate-fungi-ecology-evolution]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 
 ## Overview
 

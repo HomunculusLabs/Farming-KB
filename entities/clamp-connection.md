@@ -47,7 +47,7 @@ Clamp connections serve as a rapid diagnostic tool in the mushroom laboratory wi
 
 ## Relevance to Cultivation
 
-Understanding clamp connections is important for cultivators working with culture isolation and preservation. When recovering cultures from frozen storage, verifying the presence of clamp connections under a microscope provides confidence that the correct species has been recovered and that the culture is pure. This microscopic verification is part of rigorous quality control in professional [[mushroom-cultivation]] laboratories, particularly when validating the viability of cryopreserved cultures that have been stored for extended periods.
+Understanding clamp connections is important for cultivators working with culture isolation and preservation. When recovering cultures from frozen storage, verifying the presence of clamp connections under a microscope provides confidence that the correct species has been recovered and that the culture is pure. This microscopic verification is part of rigorous quality control in professional [[accessible-mushroom-cultivation-for-disabilities]] laboratories, particularly when validating the viability of cryopreserved cultures that have been stored for extended periods.
 
 ## Practical Applications
 

@@ -61,7 +61,7 @@ of vigor and yield. By not returning to growing-gourmet-stock-culture-library
 
 The slowing of mycelium may also be partly due to media
 specificity, where the agar formula selectively influences
-the type of [[mushroom-cultivation]]
+the type of [[accessible-mushroom-cultivation-for-disabilities]]
 - [[growing-gourmet-stamets-p-value-strain-age-system]]
 - [[growing-gourmet-culture-slant-preservation-cryogenic-storage]]
 
@@ -96,7 +96,7 @@ Related topics include [[advanced-gourmet-mushroom-cultivation]] and associated 
 
 ## See Also
 - [[spore]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycelium]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

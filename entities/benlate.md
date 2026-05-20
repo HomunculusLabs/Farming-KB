@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Benlate is the brand name for benomyl, a systemic fungicide that was widely used in agriculture and horticulture. In [[mushroom-cultivation]], Benlate (specifically the 50% wettable powder formulation) is used in antibiotic agar formulations to suppress mold contaminants while allowing mushroom [[mycelium]] to grow. The antibiotic agar formula containing Benlate was recommended by Dr. Bob Blanchette from the University of Minnesota for screening and purifying bacterial-contaminated mushroom cultures.
+Benlate is the brand name for benomyl, a systemic fungicide that was widely used in agriculture and horticulture. In [[accessible-mushroom-cultivation-for-disabilities]], Benlate (specifically the 50% wettable powder formulation) is used in antibiotic agar formulations to suppress mold contaminants while allowing mushroom [[mycelium]] to grow. The antibiotic agar formula containing Benlate was recommended by Dr. Bob Blanchette from the University of Minnesota for screening and purifying bacterial-contaminated mushroom cultures.
 
 ## Classification
 

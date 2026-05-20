@@ -21,7 +21,7 @@ be identified as [[metzner-shamanic-healing-and-divination-paradigm]]:
 - **Teonanacatl** (Psilocybe species): The [[psilocin-and-psilocybin-chemistry]]
 - **Ololiuhqui** ([[salvia-divinorum]]
 
-- [[schultes-salvia-divinorum]]
+- [[golden-guide-salvia-divinorum-and-diviner-sage]]
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures

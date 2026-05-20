@@ -17,7 +17,7 @@ The shamanic journey begins with a deliberate departure from ordinary consciousn
 
 The departure is not an accidental or passive process but a skilled, intentional transition managed by the shaman through years of training and practice.
 
-In plant-based traditions, the departure is facilitated by the ingestion of specific hallucinogenic preparations such as ayahuasca, peyote, [[set-and-setting]] for all participants, using songs, chants, and rituals to create a safe container for the collective journey.
+In plant-based traditions, the departure is facilitated by the ingestion of specific hallucinogenic preparations such as ayahuasca, peyote, [[lsd-set-and-setting-framework]] for all participants, using songs, chants, and rituals to create a safe container for the collective journey.
 
 The shaman's songs—known as icaros in the Amazonian tradition—are believed to have power in themselves, structuring the experience and communicating with the spirits.
 

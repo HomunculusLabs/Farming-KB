@@ -14,7 +14,7 @@ EMCDDA Thematic Paper: "[[emcdda-epod-project-emerging-trend-detection-methodolo
 
 ## Organization and Operations
 
-FSRE operated through its website (fsre.org) and distributed spores of various strains including [[mushroom-cultivation]] was technically illegal but spore possession was not.
+FSRE operated through its website (fsre.org) and distributed spores of various strains including [[accessible-mushroom-cultivation-for-disabilities]] was technically illegal but spore possession was not.
 
 ## Spawnbags and Advanced Products
 

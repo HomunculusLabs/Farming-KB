@@ -75,7 +75,7 @@ Monitoring protocols help track population trends and inform adaptive management
 
 - [[dighton-fungal-rhizomorphs-mycelial-cords]]
 - [[fungal-biology-fundamentals]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycelial-cord]]
 - [[mycelial-network-graph-theory-analysis]]
 - [[mycelial-network-structure]]

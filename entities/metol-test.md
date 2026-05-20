@@ -25,7 +25,7 @@ The metol reagent must be prepared fresh before each use:
 
 ## Test Procedure
 
-1. **Collect a specimen** of the suspected psilocybin-containing mushroom (e.g., *[[psilocybe-cubensis]]*)
+1. **Collect a specimen** of the suspected psilocybin-containing mushroom (e.g., *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*)
 2. **Crush or section** a portion of the stem (stipe)
 3. **Apply a few drops** of freshly prepared metol solution to the crushed stem tissue
 4. **Observe the reaction**: A deep purple color developing within 1–30 minutes indicates the presence of psilocybin

@@ -47,7 +47,7 @@ integration across dozens of ethnic groups.
 
 Among the most significant species in indigenous practice:
 
-- [[psilocybe-cubensis]] — known as "san isidros" (after Saint Isidore, patron
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] — known as "san isidros" (after Saint Isidore, patron
   saint of agriculture), the most widely distributed psilocybin species
   globally and the most commonly cultivated. Grows on bovine dung in tropical
   and subtropical regions.

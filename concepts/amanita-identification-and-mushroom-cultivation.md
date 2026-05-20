@@ -58,7 +58,7 @@ Palmer describes the process as analogous to yeast in bread-making: just as a sm
 
 ### Spawn Preparation Process
 
-Palmer outlines the theoretical process for [[mushroom-cultivation]] in detail:
+Palmer outlines the theoretical process for [[accessible-mushroom-cultivation-for-disabilities]] in detail:
 
 1. **Manure Composition**: The growing medium should be about two-thirds horse manure and one-third manure from other grazing animals, or rich loam. The mixture must be thoroughly blended to create a uniform substrate that retains both moisture and warmth.
 

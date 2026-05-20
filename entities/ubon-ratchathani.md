@@ -24,7 +24,7 @@ Ubon Ratchathani is a province in northeastern Thailand (Isan region) that serve
 - Training activities were conducted in collaboration with Thailand's Ministry of Labour and Social Welfare
 - Several trainees from the province became successful mushroom farmers and a few became trainers themselves
 - The project showed that disabled farmers in this rural province could achieve economic self-reliance through mushroom production
-- Trainees transferred knowledge to family members, making [[mushroom-cultivation]] a major source of household income in the area
+- Trainees transferred knowledge to family members, making [[accessible-mushroom-cultivation-for-disabilities]] a major source of household income in the area
 
 ## Relevance to Cultivation and Mycology
 

@@ -93,7 +93,7 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[cordyceps-militaris]]
 - [[lentinan]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 ## Practical Applications
 The principles discussed here have direct applications across diverse ecological and agricultural contexts.
 Practitioners have demonstrated successful implementation across varied climates and conditions.

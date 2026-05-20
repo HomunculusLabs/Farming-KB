@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Potato agar is a simple, inexpensive agar growth medium used in [[mushroom-cultivation]] for germinating spores and culturing mycelial tissue. Made by boiling potato pieces in water to create a nutrient broth and then adding powdered agar as a gelling agent, it is one of the most accessible and beginner-friendly agar formulas. Potato agar is particularly valued because it is difficult for bacteria to grow on, making it an excellent starter medium for those new to tissue culturing.
+Potato agar is a simple, inexpensive agar growth medium used in [[accessible-mushroom-cultivation-for-disabilities]] for germinating spores and culturing mycelial tissue. Made by boiling potato pieces in water to create a nutrient broth and then adding powdered agar as a gelling agent, it is one of the most accessible and beginner-friendly agar formulas. Potato agar is particularly valued because it is difficult for bacteria to grow on, making it an excellent starter medium for those new to tissue culturing.
 
 ## Classification
 

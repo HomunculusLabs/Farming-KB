@@ -47,7 +47,7 @@ The source paper explicitly identifies several species for which cold shock prov
 
 ## Easy-Fruiting Strains: Ecuador Cubensis
 
-The paper notes that easy-fruiting strains — using **Ecuador cubensis** (*[[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]] are following inherited wi [[fruiting-chamber]]
+The paper notes that easy-fruiting strains — using **Ecuador cubensis** (*[[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]] are following inherited wi [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]
 - [[species-specific-cold-shock-and-fruiting-behavior-psilocybe-guide]]
 - [[psilocybin]]
 

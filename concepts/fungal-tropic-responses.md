@@ -8,7 +8,7 @@ type: concept
 
 Fungal tropic responses are directional growth movements by which mushrooms and other
 fungi orient their structures in response to environmental stimuli. These responses are
-critical for successful [[spore-dispersal]] and reproductive fitness. The primary tropisms
+critical for successful [[aquatic-fungi-spore-dispersal-ingold]] and reproductive fitness. The primary tropisms
 studied in mushrooms include [[phototropism]] (response to light), geotropism (response to
 gravity), and anemotropism (response to wind). At least four distinct responses to light
 have been described for mushrooms (Eger-Hummel 1980), underscoring the complexity of
@@ -36,7 +36,7 @@ receptor systems or signal transduction pathways.
 ### Geotropism
 
 Geotropic responses govern how fungal fruiting bodies orient relative to gravity. In
-*[[psilocybe-cubensis]]* and many other mushrooms, a striking **geotropic switch** occurs
+*[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and many other mushrooms, a striking **geotropic switch** occurs
 during development: the stipe initially grows negatively geotropic (upward), but as
 spore formation begins, a negative geotropic curvature develops to reorient the pileus
 horizontally. This reorientation is critical for effective spore release, as a horizontal

@@ -15,7 +15,7 @@ species within the genus Psilocybe that contain or are suspected to contain [[ps
 [[baeocystin]] (4-phosphoryloxy-N-methyltryptamine) and
 [[psilocybe-coprophila]] — another small coprophilous Psilocybe species, typically with a
 more conical cap, slightly larger spores, and differences in cystidia morphology.
-- [[psilocybe-cubensis]] — much larger and more robust species growing on the same substrates;
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] — much larger and more robust species growing on the same substrates;
 immediately distinguishable by size (cap 2-8 cm vs. 0.5-1.5 cm).
 - Species of Panaeolus and Copelandia — also coprophilous with dark spore prints;
 distinguished by their black spore prints, mottled gills (spots of different maturity), and

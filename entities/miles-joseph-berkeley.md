@@ -85,7 +85,7 @@ for agriculture and food security that remain relevant today.
 
 Berkeley's taxonomic framework underpins the species identification
 
-essential for safe [[mushroom-cultivation]] and foraging. His plant pathology
+essential for safe [[accessible-mushroom-cultivation-for-disabilities]] and foraging. His plant pathology
 
 work has implications for cultivators managing fungal contaminants.
 

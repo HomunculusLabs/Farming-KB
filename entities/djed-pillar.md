@@ -33,7 +33,7 @@ ceremonies.
 
 ## See Also
 - [[amanita-muscaria]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[mushrooms-and-mankind]]
 
 ## Overview

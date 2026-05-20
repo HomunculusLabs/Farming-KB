@@ -7,7 +7,7 @@ tags: [legume, crop, agriculture, food-systems]
 
 ## Description
 
-The soybean (*[[mushroom-cultivation]], particularly for species like *Pleurotus* ([[mycorrhizal-fungi]]
+The soybean (*[[accessible-mushroom-cultivation-for-disabilities]], particularly for species like *Pleurotus* ([[mycorrhizal-fungi]]
 - Soy-based compost is high in nitrogen and useful for [[miso-tempeh-and-soybean-fermentation]]
 - [[soybean-oil-wastewater-fungi]]
 

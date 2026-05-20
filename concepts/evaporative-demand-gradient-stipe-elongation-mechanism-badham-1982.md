@@ -39,7 +39,7 @@ Badham also considered an alternative explanation—that the mushroom is respond
 
 Understanding the evaporative demand mechanism has practical implications [[fruiting-chambers-and-environmental-control]] affect the directionality of stipe growth. Even gentle air movement from fans or ventilation can induce anemotropic bending.
 - **[[dom]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[phototropism]]
 
 ## Overview

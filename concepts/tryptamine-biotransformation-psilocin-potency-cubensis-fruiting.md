@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[jochen-gartz]]'s 1989 study demonstrated that mycelial cultures of *[[psilocybe-cubensis]]* can hydroxylate and methylate exogenously supplied tryptamine to produce exceptionally high levels of psilocin — up to 3.3% of the dry mass of fruiting bodies. This represents the highest psilocin concentrations ever measured in any mushroom species and reveals the remarkable biosynthetic capacity of the enzymatic systems in *P. cubensis*.
+[[jochen-gartz]]'s 1989 study demonstrated that mycelial cultures of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* can hydroxylate and methylate exogenously supplied tryptamine to produce exceptionally high levels of psilocin — up to 3.3% of the dry mass of fruiting bodies. This represents the highest psilocin concentrations ever measured in any mushroom species and reveals the remarkable biosynthetic capacity of the enzymatic systems in *P. cubensis*.
 
 ## The Biosynthetic Pathway
 

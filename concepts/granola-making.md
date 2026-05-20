@@ -150,26 +150,8 @@ Add after baking to prevent burning and drying out.
 - Honey Walnut: honey, butter, walnuts, a pinch of sea salt flakes on top
 - Citrus Pistachio: orange zest, pistachios, cardamom, honey
 
-### Dietary Adaptations
-
-- Vegan: use maple syrup and coconut oil or olive oil (no honey or butter)
-- Nut-free: use only seeds (pumpkin, sunflower, hemp, sesame)
-- Sugar-free: use monk fruit sweetener or allulose (may affect browning)
-- Gluten-free: use certified GF oats
-- High-protein: add protein powder (half the amount in dry ingredients), extra nuts and seeds
-- Keto: replace oats with a mix of coconut flakes, nuts, and seeds; use sugar-free sweetener
-
-## Storage
-
-- Store in an airtight glass jar or container at room temperature
-- Keeps for 2-3 weeks at room temperature
-- Refrigerate for up to 6 weeks
-- Freeze for up to 3 months in a sealed freezer bag
-- If granola loses crunch, spread on a baking sheet and toast at 300F for 5-10 minutes
-- Add dried fruit just before eating if storing for long periods (fruit can make granola soggy)
-
 ## See Also
 
-- [[nut-butter-making]] — homemade nut butters pair well with granola
-- [[dried-herb-storage]] — drying and storing ingredients for homemade foods
-- [[jam-and-jelly-making]] — homemade preserves to pair with granola and yogurt
+- [[candle-making]]
+- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]
+- [[jerky-making]]

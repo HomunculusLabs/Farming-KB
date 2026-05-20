@@ -40,7 +40,7 @@ Frost heave has several connections to fungal cultivation and soil biology:
 3. **Spring fruiting trigger**: The thaw period following frost heave coincides with spring moisture availability, potentially triggering fruiting of cold-adapted mushroom species
 4. **Seedbed for mycorrhizal plants**: By creating ideal seedbeds for clover and other plants, frost heave indirectly establishes hosts for mycorrhizal fungal partnerships
 5. **Peat protection**: Re-sodding eroded frost-heaved areas with peat protects underlying soil biology including fungal communities
-6. **Infrastructure protection**: [[mushroom-cultivation]] beds and structures in cold climates must account for frost heave to avoid structural damage
+6. **Infrastructure protection**: [[accessible-mushroom-cultivation-for-disabilities]] beds and structures in cold climates must account for frost heave to avoid structural damage
 
 ## Management Strategies
 

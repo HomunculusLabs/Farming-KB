@@ -49,7 +49,7 @@ tags: [fungi, basidiomycete, oyster-mushroom, nematophagous, toxin, pleurotus]
 ## See also
 
 - [[pleurotus-subareolatus]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[fungal-biology-fundamentals]]
 
 ## Morphology and Identification

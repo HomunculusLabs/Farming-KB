@@ -22,7 +22,7 @@ Kraznozems (also spelled "krasnozem") are deep, well-structured red soils known 
 - Kraznozems are among the most permeable agricultural soils, alongside coarse sands and sandy loams.
 - They require 15–20% or more humus content to maintain their rapid infiltration characteristics.
 - In [[water-management]]**: Kraznozems are ideal candidates for swale-based water harvesting systems because they absorb water rapidly, reducing the need for large artificial storage capacity.
-- **Fungal habitat**: The deep, well-aerated structure of kraznozems provides excellent habitat for [[mushroom-cultivation]]**: The moisture-retentive yet well-drained nature of kraznozems makes them suitable for [[cotter-outdoor-mushroom-garden-mulch-beds]] beds, particularly for species that prefer well-aerated substrates.
+- **Fungal habitat**: The deep, well-aerated structure of kraznozems provides excellent habitat for [[accessible-mushroom-cultivation-for-disabilities]]**: The moisture-retentive yet well-drained nature of kraznozems makes them suitable for [[cotter-outdoor-mushroom-garden-mulch-beds]] beds, particularly for species that prefer well-aerated substrates.
 - **Agroforestry**: Their depth supports deep-rooted tree species, making them excellent for [[food-forest-establishment]] in permaculture systems.
 
 ## Design Implications

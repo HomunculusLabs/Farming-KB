@@ -89,7 +89,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[oyster-mushroom]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycelium]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

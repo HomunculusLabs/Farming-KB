@@ -51,7 +51,7 @@ often to extraordinary depths measured in hundreds of metres.
 - **[[psychrophilic-fungi]]:** Permafrost soils harbor cold-loving fungi for decomposition in cold biomes
 - **Active layer gardening:** The seasonal thaw zone offers a narrow cultivation window
 - **[[dighton-fungal-responses-climate-change]]:** Warming accelerates thaw, releasing stored carbon in positive feedback loops
-- **[[mushroom-cultivation]]:** Underground chambers provide natural cooling for cold-loving edible fungi
+- **[[accessible-mushroom-cultivation-for-disabilities]]:** Underground chambers provide natural cooling for cold-loving edible fungi
 - **[[design-principle-integration]]:** Cold-climate permaculture must account for permafrost depth and peat insulation
 
 ## Ecological Relationships

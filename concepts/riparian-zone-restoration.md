@@ -91,12 +91,12 @@ When bioengineering alone is insufficient:
 ### Tree Species
 | Species | Zone | Notes |
 |---------|------|-------|
-| Black willow (Salix nigra) | Stream bank | Fast-growing; tolerates flooding; easy to propagate from cuttings |
-| Cottonwood (Populus deltoides) | Floodplain | Fast-growing pioneer; wildlife habitat |
-| Red maple (Acer rubrum) | Riparian forest | Tolerates seasonal flooding; fall color |
-| Sycamore (Platanus occidentalis) | Stream bank | Distinctive bark; flood-tolerant |
-| River birch (Betula nigra) | Stream bank | Ornamental bark; tolerates wet soil |
-| Green ash (Fraxinus pennsylvanica) | Riparian forest | Fast-growing; note: susceptible to emerald ash borer |
+| Black willow ([[salix-nigra]]) | Stream bank | Fast-growing; tolerates flooding; easy to propagate from cuttings |
+| Cottonwood ([[populus-deltoides]]) | Floodplain | Fast-growing pioneer; wildlife habitat |
+| Red maple ([[acer-rubrum]]) | Riparian forest | Tolerates seasonal flooding; fall color |
+| Sycamore ([[platanus-occidentalis]]) | Stream bank | Distinctive bark; flood-tolerant |
+| River birch ([[betula-nigra]]) | Stream bank | Ornamental bark; tolerates wet soil |
+| Green ash ([[fraxinus-pennsylvanica]]) | Riparian forest | Fast-growing; note: susceptible to emerald ash borer |
 | Bald cypress (Taxodium distichum) | Swamps | Very flood-tolerant; southern species |
 | American elm (Ulmus americana) | Riparian forest | Good shade; Dutch elm disease-resistant varieties available |
 

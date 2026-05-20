@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
-  - ""raw/papers/world-wide-distribution-of-magic-mushrooms-&-gartz.md"
+  - "raw/papers/world-wide-distribution-of-magic-mushrooms-&-gartz.md"
 ---
 ## Copelandia tropicalis [[spore]] print | Dark violet black to black |
 | Spores | Lemon-shaped in side view, ellipsoid in face view |

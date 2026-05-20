@@ -19,7 +19,7 @@ A central principle of the manual is that the drug dose does not produce the tra
 - **Set**: The preparation of the individual, including personality structure and mood at the time of the session
 - **Setting**: The physical environment (weather, room atmosphere), social context (feelings of persons present toward one another), [[ayahuasca-pharmacology-and-cultural-context]] (prevailing views as to what is real)
 
-This framework — [[set-and-setting]] — became one of the most influential concepts in [[controlled-substances-act-and-psychedelic-research]] and remains fundamental to contemporary understanding of psychoactive substance effects.
+This framework — [[lsd-set-and-setting-framework]] — became one of the most influential concepts in [[controlled-substances-act-and-psychedelic-research]] and remains fundamental to contemporary understanding of psychoactive substance effects.
 
 ## The Three Bardos: Phases of the Psychedelic Experience
 

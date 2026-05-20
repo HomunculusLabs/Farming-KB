@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Tyvek is a synthetic material made of high-density polyethylene fibers, originally manufactured by DuPont as a house wrap for vapor-proofing buildings. In [[mushroom-cultivation]], Tyvek is widely used as an aeration filter for spawn jars and containers, allowing gas exchange while preventing contaminant organisms from entering sterile grain or substrate cultures. Its availability as a common building material makes it one of the most accessible filter options for home and small-scale cultivators.
+Tyvek is a synthetic material made of high-density polyethylene fibers, originally manufactured by DuPont as a house wrap for vapor-proofing buildings. In [[accessible-mushroom-cultivation-for-disabilities]], Tyvek is widely used as an aeration filter for spawn jars and containers, allowing gas exchange while preventing contaminant organisms from entering sterile grain or substrate cultures. Its availability as a common building material makes it one of the most accessible filter options for home and small-scale cultivators.
 
 ## Classification
 

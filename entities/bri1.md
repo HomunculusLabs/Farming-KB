@@ -38,7 +38,7 @@ component in multiple pathways.
 - **bri1 null mutants**: Extreme dwarfism (~10% of wild-type height),
   dark green leaves, reduced apical dominance, male sterility.
 - **bri1 weak alleles**: Moderate dwarfism, useful for dose-response
-  studies and [[psilocybe-cubensis]] (demonstrated by [[epibrassinolide]]
+  studies and [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] (demonstrated by [[epibrassinolide]]
 - [[adam-vorbrodt]]
 ## Practical Considerations
 

@@ -75,7 +75,7 @@ climate-controlled growing spaces that would be impossible in other soil types.
 - Protect all vertical loess faces from concentrated water flow to prevent tunnel erosion
 - Leverage thermal mass of loess walls for passive climate control in structures and growing areas
 - Establish dense vegetative cover on all exposed loess surfaces as primary erosion control
-- Use underground chambers for [[mushroom-cultivation]] leveraging natural thermal stability
+- Use underground chambers for [[accessible-mushroom-cultivation-for-disabilities]] leveraging natural thermal stability
 - Avoid overgrazing on loess slopes which can trigger rapid erosion and gullying
 
 ## References

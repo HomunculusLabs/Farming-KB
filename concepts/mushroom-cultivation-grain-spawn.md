@@ -9,7 +9,7 @@ sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 
 # Mushroom Cultivation - Grain Spawn
 
-[[grain-spawn]] is the primary inoculum used in [[mushroom-cultivation]], consisting of cereal grain fully colonized by mushroom mycelium. Each individual kernel becomes a point from which mycelium can spread, making grain spawn the most efficient medium for expanding mycelial mass.
+[[grain-spawn]] is the primary inoculum used in [[accessible-mushroom-cultivation-for-disabilities]], consisting of cereal grain fully colonized by mushroom mycelium. Each individual kernel becomes a point from which mycelium can spread, making grain spawn the most efficient medium for expanding mycelial mass.
 
 ## History
 

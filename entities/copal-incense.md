@@ -76,7 +76,7 @@ The combination of copal smoke, absolute darkness, and the acoustic environment 
 - [[henry-munn]]
 - [[hallucinogens-and-shamanism]]
 - [[psilocybin-mushrooms]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 
 - Mazatec mushroom velada - the ceremony in which copal is used
 - Irene Pineda de Figueroa - the shamaness who blesses mushrooms in copal smoke

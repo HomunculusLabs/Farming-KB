@@ -14,7 +14,7 @@ E.R. Badham's 1980 paper in Mycologia (Vol. 72, No. 1, pp. 136-142) provides
 the first systematic determination of an action spectrum for basidiocarp
 (fruitbody) initiation in Psilocybe cubensis. This research resolved a
 significant contradiction in the literature and established the specific light
-wavelengths, intensities, and durations required to trigger [[psilocybe-cubensis]] and related species.
+wavelengths, intensities, and durations required to trigger [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] and related species.
 
 ## Research Background
 

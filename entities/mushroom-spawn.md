@@ -26,7 +26,7 @@ Mushroom spawn is the vegetative mycelial growth of a fungus used to seed a comp
 - Spawn odors are largely lost upon drying
 - Before pure culture techniques, spawn was sold generically as "mushroom spawn" with no variety indication
 - For centuries after cultivation began, it was not possible to select or propagate specific varieties
-- Pure culture methods developed around 1900 in both France and the United States revolutionized [[mushroom-cultivation]]. The transition from uncontrolled, unreliable spawn to pure-culture spawn around 1900 marked a watershed moment in the industry. As one large grower stated: "If we had to depend upon foreign spawn, as in the past, mushrooms would still be scarce and high." Pure culture techniques allowed propagators to maintain named varieties, ensure spawn viability, and produce consistent crops. The development also broke the secrecy that had surrounded mushroom growing for centuries, as reliable spawn made the craft accessible to a broader range of cultivators.
+- Pure culture methods developed around 1900 in both France and the United States revolutionized [[accessible-mushroom-cultivation-for-disabilities]]. The transition from uncontrolled, unreliable spawn to pure-culture spawn around 1900 marked a watershed moment in the industry. As one large grower stated: "If we had to depend upon foreign spawn, as in the past, mushrooms would still be scarce and high." Pure culture techniques allowed propagators to maintain named varieties, ensure spawn viability, and produce consistent crops. The development also broke the secrecy that had surrounded mushroom growing for centuries, as reliable spawn made the craft accessible to a broader range of cultivators.
 
 ## Spawn Development Stages
 

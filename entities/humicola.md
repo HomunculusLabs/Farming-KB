@@ -46,7 +46,7 @@ Humicola is a genus of fungi commonly found in soil and decomposing organic matt
 
 - Humicola demonstrates that fungal-bacterial interactions are not always beneficial, informing composting and [[substrate-preparation]] strategies
 - Pure fungal cultures may be more efficient at substrate decomposition than mixed microbial communities under some conditions
-- Thermophilic Humicola species are relevant to [[phase-ii-composting]] in [[mushroom-cultivation]], where temperature peaks select for heat-tolerant fungi
+- Thermophilic Humicola species are relevant to [[mushroom-cultivator-phase-ii-composting-biology]] in [[accessible-mushroom-cultivation-for-disabilities]], where temperature peaks select for heat-tolerant fungi
 - The chitinase production is relevant to understanding fungal-fungal interactions [[odonata-dragonflies-damselflies-ecology-and-biological-control]]
 - Understanding when fungal-bacterial synergy vs. antagonism occurs helps optimize substrate conditioning
 

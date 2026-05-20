@@ -4,7 +4,7 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-## Open-Air [[mushroom-cultivation]] takes place in controlled environments—caves, cellars, and purpose-built houses—there has long been interest in the possibility of growing mushrooms in open-air conditions. At the same time, the foundation of all successful [[coleman-rye-straw-mat-cold-frame-insulation]]s
+## Open-Air [[accessible-mushroom-cultivation-for-disabilities]] takes place in controlled environments—caves, cellars, and purpose-built houses—there has long been interest in the possibility of growing mushrooms in open-air conditions. At the same time, the foundation of all successful [[coleman-rye-straw-mat-cold-frame-insulation]]s
 
 In Southern England, where winter temperature extremes are less severe than in many other regions, open-air mushroom cultivation has been practiced with some success using **modified hot beds or cold frames**. The system employed simple culture frames of the usual type, with one critical modification: **no glass was used**. Instead, the frames were covered with sheet iron or boards, upon which a layer of straw was placed for additional insulation when necessary.
 

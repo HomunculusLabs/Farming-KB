@@ -106,7 +106,7 @@ plants over grass.
 - Use sharp hoof shears. Trim to the level of the frog.
 
 ### Vaccinations
-- CD&T (Clostridium perfringens types C & D + tetanus) — core vaccine.
+- CD&T ([[clostridium]] perfringens types C & D + tetanus) — core vaccine.
   Give to does 4 weeks pre-kidding, kids at 6-8 weeks with booster at 10-12
   weeks.
 - Consider caseous lymphadenitis (CL) and pneumonia vaccines based on local
@@ -148,26 +148,3 @@ plants over grass.
 - Signs of impending kidding: ligaments around tailhead soften, udder fills,
   discharge, restlessness, pawing.
 - Stages of labor: (1) cervical dilation 0-12 hours, (2) active labor with
-  pushing 30-60 minutes, (3) placenta delivery within 4 hours.
-- Clear membranes from kid's nose immediately. Dip navel in 7% iodine.
-- Ensure kid colostrum within first 2 hours — critical for immunity.
-- Bottle raise or dam raise depending on management goals. Bottle raising
-  produces friendlier, more manageable goats.
-
-## Manure and Byproducts
-
-- Goat manure is "cold" — can go directly on gardens without composting,
-  though composting is preferred.
-- Average goat produces ~1 ton of manure per year. Rich in nitrogen and
-  potassium.
-- Goat hides can be tanned for leather. See [[animal-harvest-and-processing]].
-- Buck horns (if left intact) and bones are useful for bone broth and
-  [[animal-byproducts]].
-
-## Links
-
-- [[sheep-husbandry]]
-- [[pasture-management]]
-- [[livestock-fencing-guide]]
-- [[livestock-feed-formulation]]
-- [[animal-harvest-and-processing]]

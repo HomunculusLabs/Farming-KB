@@ -66,7 +66,7 @@ but several principles from the guide remain valid:
   while allowing necessary gas exchange
 - **Surface sanitation**: Wiping work surfaces with 70% [[isopropyl-alcohol]] and
   wearing gloves and masks reduces the introduction of contaminant spores.
-  See [[psilocybe-cubensis]] cultivation pages for detailed sterile procedure
+  See [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] cultivation pages for detailed sterile procedure
 
 ## Troubleshooting Common Problems
 

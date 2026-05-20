@@ -76,7 +76,7 @@ metabolic output that neither partner achieves independently.
 
 ## Relevance to Cultivation and Mycology
 
-- **Substrate transformation:** Demonstrates how fungal metabolites can transform inert substrates (bare rock) into viable growing media, a principle directly applicable to [[substrate-preparation]] and amendment in [[mushroom-cultivation]]
+- **Substrate transformation:** Demonstrates how fungal metabolites can transform inert substrates (bare rock) into viable growing media, a principle directly applicable to [[substrate-preparation]] and amendment in [[accessible-mushroom-cultivation-for-disabilities]]
 - **Pioneer colonization strategies:** Relevant to understanding how fungi establish on challenging substrates — lichenic acid production is a model for how cultivated fungi might be selected or engineered to modify recalcitrant growing media
 - **Biochemical weathering model:** Lichenic acid production illustrates the potential for leveraging fungal secondary metabolites to break down lignocellulosic or mineral-based cultivation substrates, reducing dependence on mechanical or chemical pretreatment
 - **Soil formation and substrate preparation:** Understanding protosoil formation processes informs the development of substrate preparation techniques that mimic natural weathering and decomposition pathways used by pioneer organisms

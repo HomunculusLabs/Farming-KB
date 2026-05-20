@@ -133,7 +133,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[det]]
 - [[fungal-spore-biology]]
 - [[fungal-salt-tolerance-and-ion-homeostasis]]

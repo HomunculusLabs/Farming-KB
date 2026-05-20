@@ -9,7 +9,7 @@ sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 
 # Mushroom Cultivation - Fruiting Chambers
 
-A [[fruiting-chamber]] (growing room) is a controlled environment designed to provide the specific conditions mushrooms need to initiate and develop fruitbodies. The three critical environmental parameters are humidity, fresh air exchange, and temperature.
+A [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] (growing room) is a controlled environment designed to provide the specific conditions mushrooms need to initiate and develop fruitbodies. The three critical environmental parameters are humidity, fresh air exchange, and temperature.
 
 ## Environmental Parameters
 
@@ -22,7 +22,7 @@ Methods of humidification include:
 - Evaporative cooling pads ("swamp cooler" principle)
 
 ### Fresh Air Exchange (FAE)
-Carbon dioxide levels directly affect mushroom formation. High CO2 during spawn running promotes mycelial growth; low CO2 triggers fruiting. Air changes per hour: 4-6 for [[agaricus-brunnescens]], 2-3 for [[psilocybe-cubensis]].
+Carbon dioxide levels directly affect mushroom formation. High CO2 during spawn running promotes mycelial growth; low CO2 triggers fruiting. Air changes per hour: 4-6 for [[agaricus-brunnescens]], 2-3 for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]].
 
 Fan sizing formula: X = (4 air exchanges/hour * Y cubic feet free air space) / 60 minutes. For an 8x8x15 ft room with 800 cu ft free air space: X = 53.3 CFM.
 

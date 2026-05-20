@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [fungi, taxonomy, ascomycota, biodiversity, systematics]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ["raw/papers/unknown-biodiversity-of-fungi.md'"]
+sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
 

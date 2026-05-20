@@ -50,7 +50,7 @@ The publication of "Flesh of the Gods" marked a turning point in the academic st
 ## See Also
 - [[richard-evans-schultes]]
 - [[hallucinogens-and-shamanism]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[marlene-dobkin-de-rios]]
 - [[michael-harner]]
 

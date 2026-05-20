@@ -147,4 +147,4 @@ Growing herbs indoors extends the harvest year-round, especially for tender pere
 
 ## Related
 
-- [[herb-spiral-design]] — Herb Spiral Design is a permaculture pattern for growing herbs in a space-efficient spiral that creates multiple microclimates.
+- [[herb-spiral-design]] — [[herb-spiral]] Design is a [[permaculture]] pattern for growing herbs in a space-efficient spiral that creates multiple microclimates.

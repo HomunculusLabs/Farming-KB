@@ -68,7 +68,7 @@ Implementation spans agricultural, ecological, and cultural contexts. The method
 - [[lemon-cannabis-alchemy-potency-enhancement]]
 - [[cannabidiol-cbd]] — substrate converted to THC
 - [[thc-acetate]] — next-step product after acetylation of isomerized THC
-- [[cannabis-alchemy-overview]] — the source text describing this technique
+- [[lemon-cannabis-alchemy-advanced-refinement-techniques]] — the source text describing this technique
 
 > This entry is part of the comprehensive wiki database.
 

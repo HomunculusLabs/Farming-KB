@@ -150,7 +150,5 @@ Bamboo scaffolding is still standard in many parts of Asia. Lightweight, strong,
 
 ## See Also
 
-- [[cordwood-construction]]
-- [[earthbag-building]]
-- [[cob-building-basics-detailed]]
-- [[passive-solar-design]]
+- [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]]
+- [[fungal-building-material-deterioration]]

@@ -48,7 +48,7 @@ The manual emphasises rigorous selection to ensure programme sustainability:
 ## Training Programme Structure
 
 - **Theory classes**: Using video, pictures, overhead projector, white board
-- **Visual demonstrations**: Show how other [[mushroom-cultivation]]
+- **Visual demonstrations**: Show how other accessible mushroom cultivation for disabilities
 - [[permaculture]]
 - [[mushroom-cultivation-for-disabilities-training-program]]
 

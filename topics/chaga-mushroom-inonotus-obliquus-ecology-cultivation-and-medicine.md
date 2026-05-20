@@ -1,6 +1,6 @@
 ---
 title: "Chaga Mushroom (chaga-inonotus-obliquus-medicinal-profile) — Ecology, Cultivation, and Medicine"
-subtitle: ""The king of, from boreal birch forests to modern"
+subtitle: "The king of, from boreal birch forests to modern"
   superfood shelves"
 tags: [medicinal-mushrooms, chaga, inonotus-obliquus, mycology,
   adaptogens, traditional-medicine, foraging, fungal-ecology]

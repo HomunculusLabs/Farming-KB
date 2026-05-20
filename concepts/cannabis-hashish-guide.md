@@ -148,6 +148,7 @@ Made from fresh frozen cannabis (harvested and immediately frozen rather than dr
 - Considered the premium tier of solventless concentrates
 
 ## Storage and Consumption
+
 ## See Also
 
-- [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]
+- [[mckenna-hashish-scythians-and-classical-cannabis]]

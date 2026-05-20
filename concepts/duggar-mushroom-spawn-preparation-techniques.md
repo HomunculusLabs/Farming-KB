@@ -42,7 +42,7 @@ did not experience comparable difficulties.
 
 In 1899, working in his laboratory, Duggar and Miss Ferguson
 investigated [[duggar-mushroom-spawn-preparation]]
-- [[spawn-preparation]]
+- [[azurescens-spawn-preparation-grain-to-wood]]
 - [[dom]]
 
 ## Overview

@@ -140,7 +140,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[mycology]]
-- [[fruiting-chamber]]
+- [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]
 - [[spore]]
 - [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
 - [[duggar-mushroom-disease-and-contamination]]

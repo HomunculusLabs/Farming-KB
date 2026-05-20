@@ -122,7 +122,7 @@ The Psychedelic Experience Bardo Framework has had a lasting impact on multiple 
 
 ## Related Concepts
 
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - tibetan book of the dead
 - ego death
 - clear light

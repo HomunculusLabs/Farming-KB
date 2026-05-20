@@ -65,7 +65,7 @@ China offers a good market for dried mushrooms shipped both from Japan and New Z
 
 ### Industry Scale
 
-The production of Shiitake mushrooms constitutes a genuine industry in Japan, with organized cultivation practices, established trade routes, and significant economic output. This represents an alternative model to the Western compost-based mushroom industry, demonstrating that commercial [[mushroom-cultivation]] can be successfully based on entirely different substrates and methods.
+The production of Shiitake mushrooms constitutes a genuine industry in Japan, with organized cultivation practices, established trade routes, and significant economic output. This represents an alternative model to the Western compost-based mushroom industry, demonstrating that commercial [[accessible-mushroom-cultivation-for-disabilities]] can be successfully based on entirely different substrates and methods.
 
 ## Historical Context
 

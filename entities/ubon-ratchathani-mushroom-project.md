@@ -55,7 +55,7 @@ The [[ubon-ratchathani]] Mushroom Project was a pioneering FAO Technical Coopera
 
 ## Relevance to Cultivation and Mycology
 
-The Ubon Ratchathani project demonstrates that [[mushroom-cultivation]] is one of the most accessible agricultural enterprises for people with diverse physical and mental abilities. The project's findings have implications for:
+The Ubon Ratchathani project demonstrates that [[accessible-mushroom-cultivation-for-disabilities]] is one of the most accessible agricultural enterprises for people with diverse physical and mental abilities. The project's findings have implications for:
 
 - Designing inclusive agricultural training programs
 - Adapting cultivation infrastructure for accessibility

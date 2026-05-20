@@ -59,7 +59,7 @@ previously unavailable in compacted zones. Ingham notes that roots should
 improving soil structure, and that this effect may become obvious within a
 week or two after a successful tea application.
 
-For mycology and [[mushroom-cultivation]], the penetrometer provides a way to
+For mycology and [[accessible-mushroom-cultivation-for-disabilities]], the penetrometer provides a way to
 monitor whether the fungal component of compost tea is successfully
 establishing in soil. Fungal hyphae are primary architects of soil aggregates.
 Their physical networks bind soil particles together, creating the macropores

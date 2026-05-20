@@ -6,7 +6,7 @@ type: concept
 
 ## Anemotropism and Evaporative Demand in Fungi
 
-Anemotropism is the growth response of an organism to wind or air currents. In fungi, this tropism has been most thoroughly studied in the sporangiophores of *Phycomyces blakesleeanus* and the basidiocarps of *[[psilocybe-cubensis]]*. The prevailing mechanistic explanation involves differential evaporative demand across the fungal structure, driven by asymmetric boundary layer redistribution in the presence of airflow.
+Anemotropism is the growth response of an organism to wind or air currents. In fungi, this tropism has been most thoroughly studied in the sporangiophores of *Phycomyces blakesleeanus* and the basidiocarps of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*. The prevailing mechanistic explanation involves differential evaporative demand across the fungal structure, driven by asymmetric boundary layer redistribution in the presence of airflow.
 
 ## The Boundary Layer Mechanism
 
@@ -73,7 +73,7 @@ However, the evaporative demand hypothesis is generally favored because:
 
 Anemotropic growth serves two primary ecological functions:
 
-1. **Optimizing [[spore-dispersal]]**: By growing into the airflow, the stipe extends the pileus into the wind stream, maximizing the distance and efficiency of spore release
+1. **Optimizing [[aquatic-fungi-spore-dispersal-ingold]]**: By growing into the airflow, the stipe extends the pileus into the wind stream, maximizing the distance and efficiency of spore release
 2. **Spacing cespitose fruiting bodies**: In clustered (cespitose) growth, directed growth toward evaporative demand helps separate individual stipes, reducing competition and improving spore dispersal from each cap
 
 The transition from anemotropic to geotropic growth at maturity ensures that the final pileus orientation is horizontal — ideal for basidiospore release from downward-facing lamellae.

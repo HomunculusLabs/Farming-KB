@@ -14,7 +14,7 @@ The Psychedelic Guide (also called "sitter" or "facilitator" in modern terminolo
 
 - **Category**: Concept — Role / Practice
 - **Tradition**: Psychedelic Therapy / Tibetan Buddhist Practice (adapted)
-- **Related Concepts**: [[set-and-setting]], Trip Sitter, Psychedelic Facilitator, Integration
+- **Related Concepts**: [[lsd-set-and-setting-framework]], Trip Sitter, Psychedelic Facilitator, Integration
 
 ## Key Facts
 

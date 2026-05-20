@@ -22,7 +22,7 @@ A related finding from the Bloomfield source illuminates why fungal spores have 
 
 The truffle evolutionary narrative illustrates several fundamental principles of [[bloomfield-truffle-evolution-cup-fungi-subterranean]]
 - [[fungal-spore-dispersal]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 
 ## Overview
 

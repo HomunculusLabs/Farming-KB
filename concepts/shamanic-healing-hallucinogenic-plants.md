@@ -109,11 +109,11 @@ The capacity of psychedelics to tap into hidden potentials of the human mind was
 
 ## See Also
 
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[psilocybin]]
 - [[timothy-leary]]
 - [[mdma]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.

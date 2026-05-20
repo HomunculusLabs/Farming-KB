@@ -54,7 +54,7 @@ Calcium is the only element more concentrated in substrate than in fungal fruit 
 
 - Nothofagus-associated fungi demonstrate how fruit bodies serve as nutrient redistribution mechanisms, relevant to understanding [[cotter-mushroom-nutrition-medicinal-compounds]] in cultivation
 - The concentration effect (fungal tissue having much higher nutrient levels than substrate) shows that fungi actively import and concentrate nutrients
-- Understanding calcium dynamics (lower in fruit bodies than substrate) is relevant to calcium supplementation in [[mushroom-cultivation]]
+- Understanding calcium dynamics (lower in fruit bodies than substrate) is relevant to calcium supplementation in [[accessible-mushroom-cultivation-for-disabilities]]
 - The C:N ratios of fungal fruit bodies (13-19) are much lower than most plant substrates, indicating efficient carbon metabolism
 - Nothofagus forests serve as model systems for studying mycorrhizal and saprotrophic fungal interactions
 

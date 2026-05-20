@@ -13,7 +13,7 @@ tags: [entheogen]
 The genus Anadenanthera comprises several species of leguminous trees
 whose seeds have been used as psychoactive snuffs and smoked
 preparations for thousands of years across South America and the
-Caribbean. The most significant species are [[yopo-snuff]] and [[virola-snuff]].
+Caribbean. The most significant species are [[yopo-snuff]] and [[entheogen-virola-snuff-ethnobotany-chemistry]].
 
 ## Cultural Impact on Art
 

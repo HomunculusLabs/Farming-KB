@@ -107,7 +107,7 @@ Will depend on understanding:
 The report covers:
 - Nature of fungi with emphasis on mushrooms
 - Medicinally important mushrooms (detailed species profiles)
-- Technology of [[mushroom-cultivation]]
+- Technology of [[accessible-mushroom-cultivation-for-disabilities]]
 - Extraction, development and chemistry of anti-cancer compounds
 - Immunomodulatory activities in animals and humans
 - Role of polysaccharides in cancer

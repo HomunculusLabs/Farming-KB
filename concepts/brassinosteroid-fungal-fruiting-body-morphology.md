@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, morphology, brassinosteroid, fruiting-body, annulus,
        developmental-biology]
 sources:
-  - ""raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
+  - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
 ---
 
 ## Brassinosteroid Effects on Fungal Fruiting Body Morphology

@@ -36,7 +36,7 @@ Aquatic hyphomycetes are a polyphyletic assemblage found primarily within the [[
 
 - Aquatic hyphomycetes are essential for understanding [[fungal-ecology]] in freshwater systems, complementing terrestrial decomposition models.
 - Their enzyme systems (cellulases, pectinases, xylanases) are adapted to function at low temperatures and in aquatic conditions, with potential biotechnological applications.
-- The study of aquatic hyphomycete succession on leaf litter parallels successional patterns seen in terrestrial fungi and [[mushroom-cultivation]] substrates.
+- The study of aquatic hyphomycete succession on leaf litter parallels successional patterns seen in terrestrial fungi and [[accessible-mushroom-cultivation-for-disabilities]] substrates.
 - Understanding their role in nutrient cycling helps inform the management of watershed health and water quality in agricultural landscapes.
 - They serve as model organisms for studying fungal community ecology, substrate specificity, and environmental sensitivity.
 

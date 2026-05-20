@@ -7,7 +7,7 @@ tags: [fungi, ascomycota, truffle, mycophagy, food-value]
 
 ## Description
 
-**Tuber malnosporum** is a species of truffle belonging to the genus *Tuber* (Ascomycota, Pezizales). Truffles are hypogeous (subterranean) fungi that produce fruiting bodies entirely below ground, relying on animals for [[spore-dispersal]]. *Tuber malnosporum* is one of several truffle species valued as a food source by both humans and wildlife.
+**Tuber malnosporum** is a species of truffle belonging to the genus *Tuber* (Ascomycota, Pezizales). Truffles are hypogeous (subterranean) fungi that produce fruiting bodies entirely below ground, relying on animals for [[aquatic-fungi-spore-dispersal-ingold]]. *Tuber malnosporum* is one of several truffle species valued as a food source by both humans and wildlife.
 
 ## Classification
 

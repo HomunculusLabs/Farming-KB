@@ -33,7 +33,7 @@ The 5-Dimensional Altered States of Consciousness questionnaire (5D-ASC), develo
 These trials have increasingly incorporated phenomenological methods alongside conventional clinical measures. Researchers at Imperial College London, Johns Hopkins University, and the University of Zurich have combined neuroimaging data with detailed phenomenological interviews, seeking to correlate specific patterns of brain activity with specific experiential features. This "neurophenomenological" approach, which explicitly integrates first-person reports with third-person physiological data, represents the most concrete realisation to date of the kind of interdisciplinary methodology that Powell's neo-shamanic phenomenology envisions.
 
 The growing field of [[psychedelic-consciousness-models]]
-- [[natural-intelligence]]
+- [[powell-natural-intelligence-and-the-universal-computation]]
 - [[information-paradigm-of-consciousness]]
 
 ## Overview

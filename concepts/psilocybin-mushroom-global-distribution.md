@@ -26,7 +26,7 @@ Psilocybin-containing mushrooms are found on every inhabited continent. They bel
 
 ### United States
 - **Pacific Northwest**: Rich in psilocybin species, particularly *[[psilocybe-cyanescens]]* ("wavy caps"), *P. azurescens*, and *P. stuntzii*. The coastal dune grasslands of Oregon and Washington support naturalized populations of *P. azurescens*, one of the most potent species known.
-- **Gulf Coast / Southeast**: *[[psilocybe-cubensis]]* is common in subtropical Florida, Texas, and along the Gulf Coast, fruiting on bovine dung from spring through fall. *[[panaeolus-subbalteatus]]* and *P. cyanescens* also occur.
+- **Gulf Coast / Southeast**: *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* is common in subtropical Florida, Texas, and along the Gulf Coast, fruiting on bovine dung from spring through fall. *[[panaeolus-subbalteatus]]* and *P. cyanescens* also occur.
 - **Southwest**: Scattered species in Arizona and New Mexico, associated with higher elevation grasslands.
 - **Northeast**: *[[psilocybe-ovoideocystidiata]]* and *[[panaeolus-cinctulus]]* occur in the mid-Atlantic and northeastern states.
 

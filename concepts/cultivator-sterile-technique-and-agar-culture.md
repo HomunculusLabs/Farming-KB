@@ -80,7 +80,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[hepa-filter]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycelium]]
 
 ## Theoretical Background

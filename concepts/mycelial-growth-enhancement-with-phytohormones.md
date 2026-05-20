@@ -25,7 +25,7 @@ than earlier reports with other hormone classes.
 
 Brassinosteroids show the strongest documented [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
 - **[[brassinosteroids]] — The most active phytohormone class in fungi
-- [[psilocybe-cubensis]]-fruiting-optimization — Practical outcomes
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]-fruiting-optimization — Practical outcomes
 ## Practical Applications
 
 Mycelial Growth Enhancement with Phytohormones has a range of practical applications that make it relevant to

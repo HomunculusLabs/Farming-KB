@@ -153,47 +153,7 @@ DSL delivers internet over existing copper telephone lines. Availability is decl
 - **Data cap**: Usually unlimited
 - **Latency**: 20-70 ms
 
-### Pros
+## See Also
 
-- Unlimited data
-- Reliable connection
-- Lower latency than satellite
-- Uses existing phone lines
-
-### Cons
-
-- Speed decreases with distance from telephone exchange (beyond 3 miles, very slow)
-- Many rural telephone exchanges have limited capacity
-- Carriers are actively degrading or shutting down DSL networks
-- Upload speeds are typically much slower than download
-
-### Best For
-
-- Properties close to a telephone exchange with DSL capability
-- Users who need unlimited data at moderate speeds
-
-## Option 5: Traditional Satellite (Geostationary)
-
-Viasat and HughesNet use geostationary satellites 22,000+ miles above Earth.
-
-### Specifications
-
-- **Speed**: 12-100 Mbps (varies by plan and congestion)
-- **Cost**: $50-150/month
-- **Data cap**: 10-100 GB/month (throttled after cap)
-- **Latency**: 500-700 ms (very high — noticeable lag)
-
-### Pros
-
-- Available anywhere with clear sky view
-- Established technology
-- Multiple plan options
-
-### Cons
-
-## Related
-
-- [[homestead-first-aid-guide]]
-- [[homestead-water-purification]]
-- [[homestead-financial-planning]]
-- [[off-grid-electricity-basics]]
+- [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]
+- [[homestead-tool-maintenance]]

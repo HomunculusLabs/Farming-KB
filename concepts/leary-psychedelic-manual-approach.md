@@ -13,7 +13,7 @@ sources: [raw/papers/leary-t-the-psychedelic-experience.md]
 
 ### Central Thesis: Set and Setting
 
-Leary's foundational principle: "The psychedelic experience depends almost entirely on [[set-and-setting]]."
+Leary's foundational principle: "The psychedelic experience depends almost entirely on [[lsd-set-and-setting-framework]]."
 
 - **Set**: the preparation of the individual — expectations, personality, mood, intention
 - **Setting**: the physical and social environment — the room, the people present, the sounds

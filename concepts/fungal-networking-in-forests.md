@@ -53,7 +53,7 @@ Stamets describes mycelium as an "exposed sentient membrane, aware and responsiv
 - Organisms moving across the network leave impressions mycelia sense and respond to
 - Chemical signals can travel between connected plants through the mycelial web
 - Stressed plants may trigger defensive responses in neighbors through fungal connections
-- The network actively shapes its microbial [[natural-intelligence]]
+- The network actively shapes its microbial [[powell-natural-intelligence-and-the-universal-computation]]
 - [[mycorrhizal-networks]]
 - [[spore]]
 

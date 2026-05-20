@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Mushroom Business
 
-Growing and selling mushrooms on a homestead scale offers high returns on low capital investment. Gourmet mushrooms (shiitake, oyster, lion's mane, wine cap) command $8-20/lb retail and can be produced in small spaces using low-tech methods. This guide covers production, pricing, licensing, and scaling.
+Growing and selling mushrooms on a homestead scale offers high returns on low capital investment. Gourmet mushrooms (shiitake, oyster, lion's mane, [[wine-cap]]) command $8-20/lb retail and can be produced in small spaces using low-tech methods. This guide covers production, pricing, licensing, and scaling.
 
 ## Species Selection for Beginners
 
@@ -17,7 +17,7 @@ Growing and selling mushrooms on a homestead scale offers high returns on low ca
 - Fastest to fruit (2-4 weeks from inoculation)
 - Multiple varieties: blue, pink, golden, king, phoenix
 - Grow on straw, coffee grounds, cardboard, hardwood sawdust
-- Yield: 50-100% biological efficiency (1 lb mushrooms per lb dry substrate)
+- Yield: 50-100% [[biological-efficiency]] (1 lb mushrooms per lb dry substrate)
 - Price: $8-12/lb retail
 
 ### Shiitake (Lentinula edodes)
@@ -53,11 +53,11 @@ Setup requirements:
 - Light: ambient room light (no grow lights needed for most)
 - Shelving: wire shelves with space between blocks
 
-Substrate preparation:
-1. Hardwood sawdust + wheat bran (80:20 ratio) + water to 60% moisture
+[[substrate-preparation]]:
+1. Hardwood sawdust + [[wheat-bran]] (80:20 ratio) + water to 60% moisture
 2. Sterilize in pressure cooker or autoclave (15 psi, 90 min for bags)
 3. Cool to room temperature in clean environment
-4. Inoculate with grain spawn (5-10% of substrate weight)
+4. Inoculate with [[grain-spawn]] (5-10% of substrate weight)
 5. Seal bags with filter patch and tape inoculation point
 6. Incubate at 70-75F in dark until fully colonized (2-4 weeks)
 
@@ -135,7 +135,7 @@ Check your state's Department of Agriculture for specific requirements. Some sta
 
 ## Scaling Considerations
 
-- Start with one species (oyster mushrooms recommended)
+- Start with one species ([[oyster-mushrooms]] recommended)
 - Master the process before expanding
 - Add species as confidence grows
 - Automate humidity/ventilation when production exceeds manual capacity
@@ -148,20 +148,11 @@ Check your state's Department of Agriculture for specific requirements. Some sta
 - Farmers markets: see [[farmers-market-selling-guide]]
 - Restaurants: chefs seek local mushrooms, approach directly
 - CSAs: add mushroom share or include in vegetable boxes
-- Online sales: see online homestead sales
+- Online sales: see [[online-homestead-sales]]
 - On-farm sales: pick-your-own mushroom events
 - Food co-ops and natural grocery stores
 
-## Common Problems
+## See Also
 
-- Contamination (green mold, trichoderma): maintain clean procedures, sterilize properly
-- Low yields: check moisture, fresh air exchange, spawn quality
-- Pests: fungus gnats (sticky traps, nematodes), slugs (diatomaceous earth)
-- Storage: refrigerate at 34-38F, store in paper bags (not plastic -- they sweat)
-- Shelf life: 7-10 days refrigerated for most species
-
-The mushroom business fits well into a diversified homestead with [[homestead-herb-business]] products and connects to broader [[fungal-biology-fundamentals|fungi]] and [[fungal-biology-fundamentals|mycology]] knowledge.
-
-## Related
-
-- [[online-homestead-sales]]
+- [[homestead-herb-business]]
+- [[mushroom-training-marketing-business]]

@@ -148,16 +148,7 @@ After fermentation (or as part of the quick method), cooking develops the final 
 - Habaneros, fresh pineapple, lime juice, honey, garlic, white vinegar
 - Tropical, sweet heat
 
-## Safety Considerations
-
-- Wear gloves when handling hot peppers — capsaicin burns skin and eyes
-- Work in a well-ventilated area or under an exhaust fan when blending hot peppers
-- Never touch your face or eyes while handling peppers
-- Wash hands, cutting boards, and knives thoroughly after working with hot peppers
-- Label bottles clearly with pepper type and heat level
-
 ## See Also
 
-- [[pickle-making]] — fermentation of vegetables in brine
-- [[kimchi-making]] — Korean fermented vegetable condiment
-- [[vinegar-making]] — making your own vinegar for hot sauce base
+- [[fermented-hot-sauce-guide]]
+- [[candle-making]]

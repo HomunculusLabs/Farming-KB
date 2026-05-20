@@ -148,6 +148,7 @@ several color and production varieties:
 - 1 male per 2-3 females in breeder cages.
 - Males become aggressive in crowded conditions. Monitor and separate.
 - Breeding season: year-round with 14+ hours of light.
+
 ## See Also
 
-- [[quail-husbandry-and-egg-production]]
+- [[goat-husbandry-detailed-guide]]

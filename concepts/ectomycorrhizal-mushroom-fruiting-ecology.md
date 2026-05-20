@@ -79,7 +79,7 @@ knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
 - [[doc]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[desert-truffles]]
 
 ## Historical Context

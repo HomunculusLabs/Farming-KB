@@ -80,5 +80,5 @@ anchor points for modern nomenclatural decisions.
 - [[mycology]]
 - [[mushroom-identification]]
 - [[fungal-taxonomy]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycorrhizal-fungi]]

@@ -42,7 +42,7 @@ For [[fukuoka-soil-building-method]]
 
 - [[fukuoka-critique-soil-cultivation]]
 - [[doc]]
-- [[green-philosophy]]
+- [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
 - [[natural-farming]]
 
 ## Overview

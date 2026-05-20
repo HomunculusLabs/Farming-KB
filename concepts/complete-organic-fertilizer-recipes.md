@@ -51,7 +51,7 @@ protocols regardless of circumstances or local variation.
 
 [[organic-fertilizer-recipes]]
 - [[det]]
-- [[solomon-composting-methods]]
+- [[natural-farming-guide-composting-methods-and-techniques]]
 
 ## Overview
 

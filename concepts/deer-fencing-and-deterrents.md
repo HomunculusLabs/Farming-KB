@@ -103,7 +103,7 @@ No plant is completely deer-proof, but many are strongly avoided. Incorporating 
 - Lavender, rosemary, thyme, sage
 - Daffodils, foxglove, bleeding heart
 - Yarrow, catmint, Russian sage
-- Ornamental grasses (Miscanthus, Pennisetum)
+- Ornamental grasses (Miscanthus, [[pennisetum]])
 - Ferns, hellebores, lungwort
 
 **Moderately resistant (occasionally browsed when food is scarce):**
@@ -148,7 +148,3 @@ No plant is completely deer-proof, but many are strongly avoided. Incorporating 
 - Integrate livestock guardian dogs into your [[goat-husbandry]] plan for both deer and predator deterrence
 
 ## Related Concepts
-
-- [[homestead-permaculture-design]] — Zone-based design integrating fencing into overall homestead layout
-- [[fungal-pest-control]] — Broader integrated pest management strategies for the homestead
-- [[goat-husbandry]] — Livestock guardian animals for multi-purpose protection

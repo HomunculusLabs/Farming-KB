@@ -73,7 +73,7 @@ Once converted to LSD, the active compound acts as a **potent partial agonist** 
 The psychedelic effects are primarily mediated through 5-HT₂A receptor activation in the prefrontal cortex, leading to increased glutamate release, thalamocortical dysrhythmia, and altered functional connectivity in the [[dosage-unpredictability-psilocybin-subjective-experience]] of 1P-LSD is reported by users as essentially indistinguishable from LSD at equivalent doses:
 
 - **Visual effects:** Geometric patterns, color enhancement, trailing/afterimages, texture flowing, synesthesia
-- **Cognitive effects:** Enhanced creativity, introspective thought, altered sense of time, [[set-and-setting]] dependent), feelings of unity/connectedness, enhanced empathy
+- **Cognitive effects:** Enhanced creativity, introspective thought, altered sense of time, [[lsd-set-and-setting-framework]] dependent), feelings of unity/connectedness, enhanced empathy
 
 Common dosages reported by users:
 

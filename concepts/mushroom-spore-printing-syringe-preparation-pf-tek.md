@@ -6,7 +6,7 @@ tags: [spore-print, spore-syringe, mushroom-propagation, sterile-technique, myco
 created: 2026-05-08
 ---
 ## Mushroom Spore Printing and [[stamets-mushroom-genetics-mating-systems-reproduction]]
-and initiating new cultivation cycles. The [[mushroom-cultivation]]
+and initiating new cultivation cycles. The [[accessible-mushroom-cultivation-for-disabilities]]
 ## Background and Context
 
 Mushroom [[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error

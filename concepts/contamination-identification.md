@@ -118,7 +118,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[agar-culture-and-isolation]]
 - [[dom]]
 - [[spore]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[contamination-prevention-in-mushroom-cultivation]]
 - [[mushroom-cultivation-contamination-control]]
 - [[mushroom-cultivator-contamination-prevention]]

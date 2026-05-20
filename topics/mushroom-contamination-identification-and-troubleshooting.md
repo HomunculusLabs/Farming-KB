@@ -14,7 +14,7 @@ type: topic
 
 ## Mushroom Contamination Identification and Troubleshooting
 
-Contamination is the single greatest challenge in [[mushroom-cultivation|mushroom cultivation]].
+Contamination is the single greatest challenge in [[accessible-mushroom-cultivation-for-disabilities|mushroom cultivation]].
 
 Competing organisms — molds, bacteria, viruses, and insect pests — can destroy entire crops before a single fruiting body appears.
 

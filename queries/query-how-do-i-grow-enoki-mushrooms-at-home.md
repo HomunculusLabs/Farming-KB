@@ -88,7 +88,7 @@ Enoki benefits from elevated CO₂ levels during fruiting, which promotes long s
 
 A simple plastic container or bottle culture system works well for enoki at home.
 
-[[fruiting-chamber]] design principles still apply, but enoki chambers can be simpler because high CO₂ is actually desirable rather than a problem to solve.
+[[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] design principles still apply, but enoki chambers can be simpler because high CO₂ is actually desirable rather than a problem to solve.
 
 For cultivators using more elaborate setups, [[fruiting-conditions]] covers temperature, humidity, light, and fresh air exchange parameters.
 

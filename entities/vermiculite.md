@@ -10,7 +10,7 @@ type: material
 
 Vermiculite is a naturally occurring mineral (hydrated magnesium-aluminum-
 iron silicate) that expands dramatically when heated — a process called
-exfoliation. In [[mushroom-cultivation]], it is a critical substrate component
+exfoliation. In [[accessible-mushroom-cultivation-for-disabilities]], it is a critical substrate component
 and the "secret ingredient" of the PF TEK. It is a ubiquitous horticultural
 product sold at garden centers and hardware stores, typically labeled as
 horticultural-grade vermiculite.

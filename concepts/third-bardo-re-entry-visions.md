@@ -125,6 +125,6 @@ The suggestibility of Bardo consciousness makes primitive impulses seem all-powe
 - [[peaceful-visions-second-bardo]] — The period of visionary encounters with peaceful and wrathful deities
 - ego death — The dissolution of the self-concept
 - [[bardo-thodol]] — The Tibetan Book of the Dead
-- [[set-and-setting]] — The contextual factors shaping psychedelic experience
+- [[lsd-set-and-setting-framework]] — The contextual factors shaping psychedelic experience
 - [[oedipus-complex-psychedelic]] — Freudian theory of parent-child psychosexual dynamics
 - [[tri-kaya]] — The Three Bodies doctrine in Tibetan Buddhism

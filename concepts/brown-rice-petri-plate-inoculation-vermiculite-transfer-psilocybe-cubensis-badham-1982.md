@@ -43,7 +43,7 @@ The pie tins were covered with glass to maintain high humidity around the
 developing cultures. This simple glass cover created a miniaturized
 [[cervantes-compact-fluorescent-lighting]] is notable because it provides a
 broad spectrum with peaks in both the blue and red regions. Blue light
-sensitivity is well-established for [[psilocybe-cubensis]]
+sensitivity is well-established for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[det]]
 - [[mycelium]]
 

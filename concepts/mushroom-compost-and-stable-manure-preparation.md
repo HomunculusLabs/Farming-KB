@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-There is no known substitute for stable manure as a compost for commercial mushroom production. Wherever *[[mushroom-cultivation]].
+There is no known substitute for stable manure as a compost for commercial mushroom production. Wherever *[[accessible-mushroom-cultivation-for-disabilities]].
 
 ## The Essential Role of Stable Manure
 

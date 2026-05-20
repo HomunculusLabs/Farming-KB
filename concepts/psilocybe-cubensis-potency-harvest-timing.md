@@ -14,7 +14,7 @@ Research by [[penis-envy-cubensis]]
 - [[spore-printing-and-syringe-preparation]]
 ## Practical Applications
 
-[[psilocybe-cubensis]] Potency Harvest Timing has a range of practical applications that make it relevant to
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] Potency Harvest Timing has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

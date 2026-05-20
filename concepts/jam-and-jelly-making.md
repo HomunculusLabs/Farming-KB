@@ -151,6 +151,4 @@ If any element is out of balance, the jam will not set properly.
 
 ## See Also
 
-- [[pickle-making]] — another water bath canning and preservation method
-- [[dried-herb-storage]] — alternative preservation for herbs and some fruits
-- [[vinegar-making]] — homemade vinegar for fruit-based shrubs and drinking vinegars
+- [[query-how-do-i-make-jam-and-jelly-at-home]]

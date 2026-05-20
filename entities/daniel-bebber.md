@@ -98,5 +98,5 @@ Contemporary cultural relevance continues in traditional, recreational, and rese
 - [[fungal-ecology]]
 - [[geoffrey-gadd]]
 - [[lynne-boddy]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[fungal-mycelial-networks-nutrient-translocation]]

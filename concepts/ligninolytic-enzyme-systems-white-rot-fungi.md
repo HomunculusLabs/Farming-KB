@@ -122,7 +122,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[biochemistry-of-ligninolytic-fungi-bioremediation]]
-- [[ligninolytic-enzymes]]
+- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[ligninolytic-enzymes-bioremediation]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[staycare-non-ligninolytic-fungi-in-pah-biodegradation]]

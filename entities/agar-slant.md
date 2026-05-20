@@ -59,7 +59,7 @@ Agar slants are one component of a comprehensive culture preservation strategy. 
 
 ## Relevance to Cultivation
 
-Agar slants are one of the foundational [[culture-storage-methods]] in [[mushroom-cultivation]]. They provide a reliable, space-efficient way to maintain purified isolates for medium-term storage. Combined with other storage methods, slants form part of a comprehensive culture preservation strategy that protects valuable genetic material from loss and ensures cultivators always have access to pure, vigorous cultures for spawn production.
+Agar slants are one of the foundational [[culture-storage-methods]] in [[accessible-mushroom-cultivation-for-disabilities]]. They provide a reliable, space-efficient way to maintain purified isolates for medium-term storage. Combined with other storage methods, slants form part of a comprehensive culture preservation strategy that protects valuable genetic material from loss and ensures cultivators always have access to pure, vigorous cultures for spawn production.
 
 ## Practical Applications
 

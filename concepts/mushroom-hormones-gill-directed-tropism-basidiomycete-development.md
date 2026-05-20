@@ -53,7 +53,7 @@ for demonstrating gill-derived hormonal regulation:
   factor from the gills is involved.
 
 This experimental paradigm has been replicated across multiple species including
-*Agaricus bisporus*, *Coprinus* spp., and *[[psilocybe-cubensis]]*, suggesting a
+*Agaricus bisporus*, *Coprinus* spp., and *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, suggesting a
 conserved mechanism among agarics.
 
 ## Connection to Spore Production in Psilocybe Cubensis

@@ -144,6 +144,6 @@ The Amazonian model suggests several principles for contemporary psychedelic the
 ## See Also
 - [[doctrinal-compliance]]
 - [[nicotiana-tabacum]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[bad-trip]]
 - [[ayahuasca-vision-diagnosis-doctrinal-compliance]]

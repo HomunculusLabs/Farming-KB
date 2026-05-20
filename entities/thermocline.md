@@ -46,7 +46,7 @@ A thermocline is a thin but distinct layer in a body of water where temperature 
 ## Relevance to Cultivation and Mycology
 - Temperature stratification concepts apply directly to [[mushroom-fruiting-chamber-design]], where thermal gradients affect pinning and fruit body development
 - Compost heating systems used for ponds are identical to the hot composting methods used to prepare mushroom substrate
-- The principle of creating microclimate refuges in ponds translates to creating fruiting zones in [[mushroom-cultivation]]
+- The principle of creating microclimate refuges in ponds translates to creating fruiting zones in [[accessible-mushroom-cultivation-for-disabilities]]
 - Thermosiphon and [[mollison-designers-passive-solar-heating-building-design]] techniques used in aquaculture can be adapted for mushroom house climate control
 
 ## References

@@ -150,25 +150,8 @@ Methods to achieve this:
 - Test: take a piece, bend it — if it cracks but does not break, it is done
 - If it is spongy or flexible without cracking, it needs more time
 
-### General Safety
-
-- Start with fresh, high-quality meat from a trusted source
-- Keep meat refrigerated until ready to process
-- Work quickly during slicing and marinating
-- Sanitize all equipment, surfaces, and hands before and after
-- Do not skip the 160F safety step
-
-## Storage
-
-- Cool jerky completely before storing — warm jerky creates condensation
-- Vacuum-sealed: store at room temperature for up to 1 month, refrigerated for up to 6 months, frozen for up to 1 year
-- In ziplock bags: squeeze out all air, refrigerate for up to 2 months, freeze for up to 6 months
-- Glass jars with desiccant packets: cool, dark, dry place for 1-2 months
-- Check for mold periodically — any mold means the batch should be discarded
-- Absorb moisture packets (food-safe silica gel) extend shelf life significantly
-
 ## See Also
 
-- [[dried-herb-storage]] — principles of drying and storing dried foods
-- [[pickle-making]] — another food preservation method
-- [[jam-and-jelly-making]] — water bath canning and preservation
+- [[candle-making]]
+- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]
+- [[wine-making-from-grapes]]

@@ -63,7 +63,7 @@ The method uses simple clear plastic bins covered with polyethylene sheeting. Ho
 ### Cold Shocking
 
 Harder-to-fruit strains benefit from cold shocking — placing trays in a refrigerator overnight before introducing to the fruiting bin. Easy-fruiting strains such as Ecuador cubensis do not require this treatment. *Psilocybe mexicana*, *Psilocybe tampanensis*, and *[[psilocybe-mexicana]] for the species biology and natural history
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[fruiting-conditions]]
 - [[psilocybe-mexicana]]
 

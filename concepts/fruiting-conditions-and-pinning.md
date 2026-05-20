@@ -111,7 +111,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[fruiting-conditions-and-harvesting]]
 - [[fruiting-conditions]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[spore]]
 - [[fruiting-environment-parameters]]
 - [[humidity-chamber-aquarium-mushroom-fruiting]]

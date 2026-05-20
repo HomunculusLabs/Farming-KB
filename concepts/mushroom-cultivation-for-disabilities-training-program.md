@@ -10,7 +10,7 @@ Updated: 2026-04-18 Source: FAO RAP Publication 2001/12, "A [[accessible-mushroo
 - [[mushroom-disabilities-training-program-design]]
 ## Background and Context
 
-[[mushroom-cultivation]] [[mushroom-cultivation-disabilities-nine-week-training-program]] for People with Disabilities is an important subject that has garnered significant attention
+[[accessible-mushroom-cultivation-for-disabilities]] [[mushroom-cultivation-disabilities-nine-week-training-program]] for People with Disabilities is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

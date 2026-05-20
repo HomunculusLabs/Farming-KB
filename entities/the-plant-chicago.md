@@ -7,7 +7,7 @@ tags: [place, institution, urban-farming, vertical-farming, closed-loop, chicago
 
 ## Description
 
-The Plant (plantchicago.com) is an urban agriculture facility in downtown Chicago that operates multiple demonstration farms within a repurposed old meatpacking plant. It exemplifies the concept of closed-loop urban food production by integrating three complementary farming systems — outdoor vegetable farming, indoor aquaponics, and indoor [[mushroom-cultivation]] — within a single building. Tradd Cotter references The Plant as a model for how mushrooms can be incorporated into multilevel urban food factories.
+The Plant (plantchicago.com) is an urban agriculture facility in downtown Chicago that operates multiple demonstration farms within a repurposed old meatpacking plant. It exemplifies the concept of closed-loop urban food production by integrating three complementary farming systems — outdoor vegetable farming, indoor aquaponics, and indoor [[accessible-mushroom-cultivation-for-disabilities]] — within a single building. Tradd Cotter references The Plant as a model for how mushrooms can be incorporated into multilevel urban food factories.
 
 ## Classification
 

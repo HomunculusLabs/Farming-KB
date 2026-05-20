@@ -73,7 +73,7 @@ Management recommendations include habitat protection, sustainable harvest pract
 Monitoring protocols help track population trends and inform adaptive management strategies.
 
 ## See Also
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[saccharomyces-cerevisiae]]
 - [[mushroom-substrate-preparation]]
 - [[claviceps-purpurea]]

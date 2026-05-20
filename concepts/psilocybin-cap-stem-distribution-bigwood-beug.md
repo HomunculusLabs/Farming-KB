@@ -23,7 +23,7 @@ Across all three strains, caps generally contained higher concentrations of psil
 
 ### Cultivation Conditions
 
-Specimens were grown on a rye-grain medium adapted from methods by San Antonio (1971) and Oss and Oeric (1976) into a "miniculture" system using wide-mouth half-pint jars (~250 ml) charged with 10 g [[psilocybe-cubensis]] is inherently imprecise. The same dry weight of mushrooms from different sources, or even different flushes from the same culture, can deliver substantially different doses of active compounds.
+Specimens were grown on a rye-grain medium adapted from methods by San Antonio (1971) and Oss and Oeric (1976) into a "miniculture" system using wide-mouth half-pint jars (~250 ml) charged with 10 g [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] is inherently imprecise. The same dry weight of mushrooms from different sources, or even different flushes from the same culture, can deliver substantially different doses of active compounds.
 
 ## Practical Considerations
 
@@ -123,7 +123,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - bigwood-beug-psilocybin-psilocin-variation-analysis - Full analysis of flush-to-flush variation
-- [[psilocybe-cubensis]] - Species overview and cultivation
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] - Species overview and cultivation
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]
 - [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[powell-psilocybin-serotonin-pathways-environmental-chemistry]]

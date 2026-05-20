@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[mushroom-cultivation]], as it forms the basis upon which the entire crop depends.
+[[accessible-mushroom-cultivation-for-disabilities]], as it forms the basis upon which the entire crop depends.
 
 ## What Is Spawn
 

@@ -60,7 +60,7 @@ lines:
 - May represent evolutionary progression in opposite direction
 - Glomales fossil record suggests extremely early occurrence
 - Present-day forms range from simple spore masses to complex
-  [[spore-dispersal]] — Animal Vectors
+  [[aquatic-fungi-spore-dispersal-ingold]] — Animal Vectors
 Loss of forcible [[mycovolatiles-fungal-volatile-compounds]] include dimethyl sulfide, alcohols, aldehydes,
   and various sulfur-containing molecules
 - Aroma intensity peaks precisely when spores are viable, ensuring

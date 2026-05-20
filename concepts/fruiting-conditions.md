@@ -84,7 +84,7 @@ Proper harvest timing affects both yield and quality:
 ## See Also
 - [[growing-gourmet-light-requirements-mushroom-fruiting]]
 - [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]]
-- [[fruiting-chamber]]
+- [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]
 - [[agaricus-bisporus]]
 - [[hericium-erinaceus]]
 ## Practical Applications

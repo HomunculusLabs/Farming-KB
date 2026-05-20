@@ -17,7 +17,7 @@ sources:
 
 # Permaculture Pond and Water Garden
 
-Ponds and water features are among the most productive and ecologically valuable elements in a permaculture design. Toby Hemenway dedicates significant attention to backyard ponds in Gaia's Garden, describing them as multi-functional systems that provide food, habitat, water storage, and aesthetic value.
+Ponds and water features are among the most productive and ecologically valuable elements in a [[permaculture-design]]. [[toby-hemenway]] dedicates significant attention to backyard ponds in Gaia's Garden, describing them as multi-functional systems that provide food, habitat, water storage, and aesthetic value.
 
 ## Why Include a Pond?
 
@@ -100,16 +100,16 @@ Even a small pond (1.5 to 3 meters across) provides significant ecological benef
 
 ### Marginal Plants (shallow edges)
 - Iris (Iris spp.)
-- Cattail (Typha latifolia) -- useful but can be invasive
-- Pickerel weed (Pontederia cordata)
+- Cattail ([[typha-latifolia]]) -- useful but can be invasive
+- Pickerel weed ([[pontederia-cordata]])
 - Arrowhead (Sagittaria spp.)
 - Water mint (Mentha aquatica)
-- Sweet flag (Acorus calamus)
+- Sweet flag ([[acorus-calamus]])
 
 ### Floating Plants
-- Water hyacinth (Eichhornia crassipes) -- excellent biofilter but invasive in warm climates
+- Water hyacinth ([[eichhornia-crassipes]]) -- excellent biofilter but invasive in warm climates
 - Duckweed (Lemna spp.) -- high protein food for fish and poultry
-- Water lettuce (Pistia stratiotes)
+- Water lettuce ([[pistia-stratiotes]])
 
 ### Submerged/Oxygenating Plants
 - Hornwort (Ceratophyllum demersum)
@@ -152,13 +152,6 @@ Stock approximately 1 inch of fish per square foot of surface area in an unfilte
 - Clean out debris in autumn if excessive leaf fall is a problem
 - Monitor water quality; clear water with balanced plant life indicates a healthy pond
 
-## Related Concepts
+## See Also
 
-- [[permaculture-pond-construction]]
-- [[water-garden-and-ponds]]
-- [[permaculture-aquaculture-guide]]
-- [[permaculture-water-harvesting]]
-- [[pond-and-aquaculture]]
-- [[pond-maintenance-and-troubleshooting]]
-- [[backyard-pond-building]]
-- [[rain-garden-design]]
+- [[permaculture-water-design-checklist]]

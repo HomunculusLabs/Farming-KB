@@ -1,6 +1,6 @@
 ---
 title: "Soil Nematodes — Ecology and Management"
-subtitle: ""The hidden world of roundworms that drive and challenge agriculture""
+subtitle: "The hidden world of roundworms that drive and challenge agriculture"
 tags: [nematodes, soil-ecology, soil-food-web, pest-management, nutrient-cycling, biological-control]
 date: 2026-05-08
 updated: 2026-05-08

@@ -39,7 +39,7 @@ Bakanae ("foolish seedling") disease is a condition of rice plants caused by inf
 
 Gibberellin occupies a unique position at the intersection of mycology and plant science. Its discovery from a pathogenic fungus demonstrated that fungal metabolites can profoundly influence plant growth and development. This understanding is relevant to:
 
-- **[[mushroom-cultivation]]**: Understanding fungal metabolites and their effects on plant substrates
+- **[[accessible-mushroom-cultivation-for-disabilities]]**: Understanding fungal metabolites and their effects on plant substrates
 - **[[substrate-preparation]]**: Knowledge of how fungal enzymes and growth regulators modify organic matter
 - **[[natural-farming]]**: Fukuoka's experience with gibberellin research informed his later understanding that natural systems self-regulate without human chemical intervention
 

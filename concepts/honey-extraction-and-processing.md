@@ -149,15 +149,6 @@ principles.
 - Cheese waxing and food preservation
 - See [[bee-product-medicinal-uses]] for medicinal applications
 
-## Storage
+## See Also
 
-Honey is one of the few foods that never spoils if stored properly.
-
-- **Moisture**: keep below 18.2%; fermented honey tastes sour
-- **Temperature**: 70-80F ideal; refrigeration accelerates crystallization
-- **Container**: airtight; honey is hygroscopic and absorbs moisture
-- **Shelf life**: indefinite; crystallized honey can be gently warmed
-
-For troubleshooting extraction issues, see [[beekeeping-problems-and-solutions]].
-For understanding the varieties you are extracting, see
-[[honey-varieties-guide]].
+- [[supercritical-co2-cannabis-extraction]]

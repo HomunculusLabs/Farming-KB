@@ -25,7 +25,7 @@ The subjective effects of [[psilocin]] depend on several interacting variables: 
 ## Related
 
 - [[emcdda-hallucinogenic-mushroom-dose-effects]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 ## Practical Considerations
 
 When working with Hallucinogenic Mushroom Route of Administration, Onset, and Acute Effects, several practical factors should be

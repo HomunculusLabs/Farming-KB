@@ -36,7 +36,7 @@ Cool season annuals:
 - Brassicas (radish, turnip): Late-season food source. Leaves browsed in fall, roots dug in winter.
 
 Perennials:
-- White and red clover: Long-lived, provides years of forage.
+- White and [[red-clover]]: Long-lived, provides years of forage.
 - Chicory: Deep-rooted, drought-tolerant, high protein.
 - Alfalfa: Excellent forage but requires well-drained soil.
 
@@ -148,6 +148,3 @@ Invasive plants degrade habitat by outcompeting natives and providing poor food 
 - Multiflora rose: Forms impenetrable thickets. Mow or treat.
 - Garlic mustard: Outcompetes spring wildflowers. Pull by hand before seed set.
 - Oriental bittersweet: Strangles trees. Cut vines and treat stumps.
-## See Also
-
-- [[habitat-nooks-for-garden-wildlife]]

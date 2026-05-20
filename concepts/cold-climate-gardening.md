@@ -9,7 +9,7 @@ sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livin
 
 # Cold Climate Gardening
 
-Growing food in cold climates (zones 3-6) requires specific strategies: season extension, cold-hardy varieties, succession planting, and protected cultivation. Drawn from [[nicole-faires]]' comprehensive manual.
+Growing food in cold climates (zones 3-6) requires specific strategies: season extension, cold-hardy varieties, [[succession-planting]], and protected cultivation. Drawn from [[nicole-faires]]' comprehensive manual.
 
 ## Zone 5-6 Growing Season
 
@@ -122,7 +122,7 @@ See [[greenhouse-design]] for detailed construction.
 |------|------|--------|
 | Mar 1 (indoors) | Peppers, eggplant, tomatoes | Seed indoors, 8-10 weeks before last frost |
 | Mar 15 (indoors) | Broccoli, cabbage, cauliflower | Seed indoors, 6-8 weeks before last frost |
-| Apr 1 (outdoor, cold frame) | Spinach, lettuce, radishes, peas | Direct sow under cold frame |
+| Apr 1 (outdoor, [[cold-frame]]) | Spinach, lettuce, radishes, peas | Direct sow under cold frame |
 | Apr 15 (outdoor) | Potatoes, onion sets, asparagus crowns | Direct sow/plant |
 | May 1 (outdoor) | Beets, carrots, Swiss chard, lettuce | Direct sow (row cover ready) |
 | May 10-20 | Tomatoes, peppers, eggplant | Transplant after last frost |
@@ -150,18 +150,4 @@ Rotate crop families to prevent disease and pest buildup:
 - Year 3: Brassicas (cabbage, broccoli, cauliflower, kale)
 - Year 4: Roots (carrots, onions, beets, parsnips)
 - Year 5: Squash family (cucumbers, squash, melons, pumpkins)
-- Year 6: Grains/corn or fallow with cover crops
-
-## Growing Techniques and Winter Production
-
-For seed starting, raised beds, soil warming, wind protection, microclimate creation, variety selection, indoor and winter growing, and food storage, see cold climate gardening.
-
-## Related Pages
-
-- cold climate gardening -- Techniques and winter production
-- [[season-extension-techniques]] -- Season extension construction
-- [[greenhouse-design]] -- Greenhouse types and construction
-- [[seed-starting-reference]] -- Indoor seed starting
-- [[raised-bed-gardening]] -- Raised bed construction
-- [[food-preservation-canning]] -- Storing the harvest
-- [[edge-effect-and-microclimate]] -- Microclimate creation
+- Year 6: Grains/corn or fallow with [[cover-crops]]

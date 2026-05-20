@@ -14,7 +14,7 @@ The cultivated mushroom faces a range of insect pests and other enemies that can
 
 ### Why Insects Thrive in Mushroom Beds
 
-Mushroom beds provide ideal conditions for many insect pests: abundant organic matter, consistent warmth, high humidity, and protection from weather extremes. The same environmental factors that favor mushroom growth also create hospitable conditions for a variety of arthropods. The [[mushroom-cultivation]] not by directly killing the [[composting]], environmental management, and targeted treatment—apply across the spectrum of potential pests.
+Mushroom beds provide ideal conditions for many insect pests: abundant organic matter, consistent warmth, high humidity, and protection from weather extremes. The same environmental factors that favor mushroom growth also create hospitable conditions for a variety of arthropods. The [[accessible-mushroom-cultivation-for-disabilities]] not by directly killing the [[composting]], environmental management, and targeted treatment—apply across the spectrum of potential pests.
 
 ## Prevention Through Sanitation
 

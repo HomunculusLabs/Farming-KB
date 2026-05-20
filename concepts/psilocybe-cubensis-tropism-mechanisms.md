@@ -8,9 +8,9 @@ type: concept
 
 ## Overview
 
-[[psilocybe-cubensis]] exhibits a **dual-phase tropism system** governing stipe orientation and
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] exhibits a **dual-phase tropism system** governing stipe orientation and
 cap positioning during [[fruiting-body-development]]. This two-stage mechanism combines responses
-to evaporative demand and gravity to ensure efficient [[spore-dispersal]], synthesized from
+to evaporative demand and gravity to ensure efficient [[aquatic-fungi-spore-dispersal-ingold]], synthesized from
 Badham (1982) with comparative data from basidiomycete and zygomycete studies.
 
 ## Phase 1: Evaporative Demand–Driven Elongation

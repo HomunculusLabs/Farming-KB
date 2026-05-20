@@ -13,7 +13,7 @@ created: 2026-05-08
 
 The hypercontinuum is perhaps McKenna's most radical ontological claim: that there exist dimensions of reality accessible through chemistry that are as real and as informationally rich as the physical world.
 
-The invisible landscape is not a single place but a continuum—a range of spaces accessible through different doses, [[set-and-setting]] configurations, and types of tryptamine compound.
+The invisible landscape is not a single place but a continuum—a range of spaces accessible through different doses, [[lsd-set-and-setting-framework]] configurations, and types of tryptamine compound.
 
 The continuum model accounts for the diversity of tryptamine experiences while maintaining that they all share a common underlying reality.
 
@@ -96,7 +96,7 @@ help ensure consistent results across different scenarios.
 
 - [[mycelium]]
 - [[spore]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[basidiomycota]]
 - [[ascomycota]]
 ## Practical Applications

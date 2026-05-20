@@ -149,33 +149,8 @@ Rigid plastic piping for drainage and (CPVC only) hot water supply.
 - Cartridge faucets: Replace the entire cartridge
 - Ceramic disk faucets: Replace the ceramic cartridge
 
-## Tools Every Homesteader Should Have
+## See Also
 
-- Pipe wrenches (10-inch and 14-inch)
-- Basin wrench (for faucet nuts in tight spaces)
-- PEX cutter and crimping tool with gauge
-- Adjustable wrenches
-- Teflon tape and pipe joint compound
-- Plumber's snake (25-foot minimum)
-- Cup plunger and flange plunger
-- Multi-bit screwdriver set
-- Hacksaw or reciprocating saw with metal blade
-- Safety glasses and work gloves
-
-## When to Call a Professional
-
-- Main sewer line blockages or backups
-- Gas line work (in many jurisdictions, illegal for homeowners)
-- Permit-required remodels or new construction
-- Water heater installation where code requires it
-- Persistent low pressure with no identifiable cause
-- Sewer gas odor indicating a venting problem
-- Any work on a pressurized system you are not confident in
-
-## Related Concepts
-
-- [[water-management]] — Water sourcing, filtration, and management systems
-- [[water-management]] — Irrigation and drainage planning for the homestead
-- [[greywater-systems-detailed]] — Greywater recycling and treatment systems
-
-See also: [[basic-electrical-for-homestead]]
+- [[basic-electrical-for-homestead]]
+- [[homestead-tool-maintenance]]
+- [[homestead-record-keeping]]

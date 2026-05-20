@@ -148,7 +148,7 @@ Once wood is seasoned, store it:
 - **Rick:** Regional term, usually refers to a face cord
 - **Throw:** Loose-piled — about 40% less wood than a stacked cord by volume
 
-## Related Concepts
+## See Also
 
-- [[emergency-preparedness]] — Ensuring adequate firewood supply for winter heating backup
-- [[homesteading]] — Firewood as part of overall homestead self-sufficiency planning
+- [[solomon-food-preservation-storage]]
+- [[mushroom-spore-printing-and-storage]]

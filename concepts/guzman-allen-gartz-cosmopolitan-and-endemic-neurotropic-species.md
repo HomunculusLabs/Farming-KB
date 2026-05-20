@@ -31,7 +31,7 @@ grasses, respectively).
 mycorrhizal association with Pinus and Betula in northern forests, and has
 been introduced to pine plantations in tropical regions including Brazil,
 Colombia, Tanzania, Australia, and New Zealand. This introduction pattern
-demonstrates how human [[psilocybe-cubensis]], P. subcubensis, and Copelandia spp. are primarily
+demonstrates how human [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], P. subcubensis, and Copelandia spp. are primarily
 tropical and subtropical, with some exceptions. C. cyanescens sometimes
 grows in disturbed zones of temperate regions. The tropical concentration
 of psilocybin-containing species aligns with the broader pattern of higher

@@ -104,7 +104,7 @@ Systems thinking reveals feedback loops and emergent properties that affect over
 - [[psilocybe-azurescens]]
 - [[grain-spawn]]
 - [[psilocybe-subaeruginosa]]
-- [[spawn-preparation]]
+- [[azurescens-spawn-preparation-grain-to-wood]]
 - [[cultivation-psilocybe-azurescens]] — Detailed *P. azurescens* cultivation
 - [[psilocybin-mushroom-species-identification-cultivation]] — Species data
 ## Practical Applications

@@ -134,4 +134,4 @@ The most pervasive danger throughout all four visions is **conceptual freezing**
 - Wrathful Visions of the Second Bardo — the fierce deities that follow
 - Tibetan Book of the Dead — the [[bardo-thodol]] source text
 - [[dhyani-buddhas]] — the five celestial Buddhas and their wisdoms
-- [[set-and-setting]] — the role of preparation in psychedelic experience
+- [[lsd-set-and-setting-framework]] — the role of preparation in psychedelic experience

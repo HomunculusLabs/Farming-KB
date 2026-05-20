@@ -34,7 +34,7 @@ Cosmospora is a genus of fungicolous ascomycetes in the family Nectriaceae (Hypo
 
 ## Relevance to Cultivation and Mycology
 
-Cosmospora species are among the most common and conspicuous [[fungicolous-fungi]] found on decaying fungal sporocarps in temperate forests. Their prevalence on carbonized stromata of Xylariales and Diatrypaceae makes them important indicators of fungal succession on woody substrates. In [[mushroom-cultivation]] contexts, Cosmospora species may appear as secondary colonizers on spent mushroom substrates or on wild-collected specimens. Understanding their ecological role helps cultivators distinguish between harmful contaminants and benign saprotrophic colonizers that naturally follow primary decay fungi.
+Cosmospora species are among the most common and conspicuous [[fungicolous-fungi]] found on decaying fungal sporocarps in temperate forests. Their prevalence on carbonized stromata of Xylariales and Diatrypaceae makes them important indicators of fungal succession on woody substrates. In [[accessible-mushroom-cultivation-for-disabilities]] contexts, Cosmospora species may appear as secondary colonizers on spent mushroom substrates or on wild-collected specimens. Understanding their ecological role helps cultivators distinguish between harmful contaminants and benign saprotrophic colonizers that naturally follow primary decay fungi.
 
 ## Notable Species
 

@@ -148,6 +148,6 @@ Espalier is the practice of training trees to grow flat against a wall, fence, o
 - **Summer pruning (June-August)**: Remove water sprouts, thin crowded areas, improve light. Less vigorous regrowth from summer cuts.
 - Best pruned during dormancy; summer pruning is supplemental.
 ## See Also
+- [[fukuoka-no-pruning-philosophy-fruit-trees]]
+- [[holzer-fruit-trees-no-pruning]]
 
-- [[fukuoka-argument-against-pruning-natural-form-fruit-trees]]
-- [[hamilton-pruning-and-training-fruit-trees]]

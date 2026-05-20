@@ -54,7 +54,7 @@ the industry grew steadily, particularly in the northeastern states where the cl
 was favorable and urban markets provided strong demand.
 
 American growers initially followed European methods, [[hamilton-greenhouse-heating-and-temperature-control]], ventilation, and
-[[mushroom-cultivation]]
+[[accessible-mushroom-cultivation-for-disabilities]]
 - [[mushroom-cultivation-history]]
 - [[history-of-mushroom-cultivation]]
 

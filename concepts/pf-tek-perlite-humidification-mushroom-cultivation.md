@@ -82,7 +82,7 @@ of the enclosed air.
 Heat lamps and heating mats are explicitly discouraged in the PF TEK:
 ## Research Context
 
-Research on pf tek perlite humidification [[mushroom-cultivation]] continues to evolve with new findings emerging from
+Research on pf tek perlite humidification [[accessible-mushroom-cultivation-for-disabilities]] continues to evolve with new findings emerging from
 both laboratory studies and field observations. Current investigations focus on
 optimizing parameters, understanding underlying mechanisms, and documenting
 outcomes across diverse conditions and geographic regions. Published literature

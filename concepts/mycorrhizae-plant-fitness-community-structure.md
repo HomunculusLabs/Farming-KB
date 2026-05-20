@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-[[mycorrhizal-fungi]] are among the most important regulators of plant community structure and ecosystem function. By asymmetrically enhancing the growth and fitness of some plant species over others, mycorrhizae act as hidden architects of plant communities. Their influence extends from individual plant physiology to landscape-level patterns of succession and biodiversity, mediated through nutrient exchange networks, [[spore-dispersal]] by animals, and differential effects on plant reproduction.
+[[mycorrhizal-fungi]] are among the most important regulators of plant community structure and ecosystem function. By asymmetrically enhancing the growth and fitness of some plant species over others, mycorrhizae act as hidden architects of plant communities. Their influence extends from individual plant physiology to landscape-level patterns of succession and biodiversity, mediated through nutrient exchange networks, [[aquatic-fungi-spore-dispersal-ingold]] by animals, and differential effects on plant reproduction.
 
 ## Mycorrhizae and Plant Succession
 

@@ -1,6 +1,6 @@
 ---
 title: "Permaculture Zone and mollison-designers-sector-analysis-wind-sun-fire"
-subtitle: ""Understanding spatial planning through zones of use and sectors of influence in ""
+subtitle: "Understanding spatial planning through zones of use and sectors of influence in "
 tags: [permaculture, zone-planning, sector-analysis, site-design, permaculture-design]
 date: 2026-04-28
 updated: 2026-04-28

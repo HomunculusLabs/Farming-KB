@@ -148,7 +148,8 @@ faster but cannot breed naturally.
 - Toms display (strut, fan tail, gobble) to attract hens.
 - Mating ratio: 1 tom per 8-10 hens.
 - Hens lay 10-15 eggs per clutch, may lay 40-100 per season.
+
 ## See Also
 
-- [[quail-husbandry-and-egg-production]]
-- [[comparison-chicken-keeping-vs-quail-husbandry]]
+- [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]]
+- [[rabbit-husbandry]]

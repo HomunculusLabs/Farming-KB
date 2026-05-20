@@ -59,7 +59,7 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 - Can be harvested and composted after saturation
 
 ### Mushroom Grow Bags as Filters
-- Spent oyster mushroom substrate (post-harvest) repurposed as water filters
+- Spent [[oyster-mushroom]] substrate (post-harvest) repurposed as water filters
 - Rich in active mycelium and residual enzymes
 - Cost-effective use of waste material from mushroom cultivation
 - Effective for greywater treatment and stormwater polishing
@@ -148,7 +148,3 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 - Regulatory acceptance for municipal water treatment is still developing
 
 ## See Also
-
-- [[mycoremediation-of-heavy-metals]] -- detailed coverage of fungal metal biosorption
-- [[mycoremediation-of-oil-spills]] -- fungal degradation of petroleum hydrocarbons
-- [[biochar-and-fungi]] -- biochar-fungal combinations for water treatment

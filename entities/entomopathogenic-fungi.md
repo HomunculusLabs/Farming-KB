@@ -20,7 +20,7 @@ Entomopathogenic fungi are a specialized group of fungi that parasitize insects,
 ## Key Facts
 
 - Entomopathogenic fungi attack and kill insects primarily by parasitizing them, colonizing the host insect's body and sometimes its brainstem.
-- Some species can take control of the insect's activities and movement, directing infected hosts to climb to elevated positions before killing them, which maximizes [[spore-dispersal]].
+- Some species can take control of the insect's activities and movement, directing infected hosts to climb to elevated positions before killing them, which maximizes [[aquatic-fungi-spore-dispersal-ingold]].
 - These fungi can be found almost anywhere but require careful searching. Infected insects may appear sluggish or "mummified," found gripping plant tissue after death.
 - Not all entomopathogenic fungi produce elaborate fruiting structures; any insect engulfed by or swollen with mycelium, powdery growth, or tiny bumps not part of its normal exoskeleton may have been parasitized.
 - Identification involves locating infected insects, identifying the host insect species, and isolating and identifying the fungal parasite, ideally through DNA analysis.
@@ -30,7 +30,7 @@ Entomopathogenic fungi are a specialized group of fungi that parasitize insects,
 
 ## Relevance to Cultivation and Mycology
 
-Entomopathogenic fungi represent a promising frontier in biological pest control for agriculture and [[mushroom-cultivation]]. By isolating strains that target specific pest insects, cultivators and farmers can develop natural pest management solutions. The process of culturing these fungi involves collecting infected insects, isolating the pathogen on agar media, and testing pathogenicity in controlled gallery experiments. This work has significant implications for reducing dependence on chemical insecticides in both conventional agriculture and mushroom cultivation operations. The study of entomopathogenic fungi also advances understanding of [[fungal-ecology]], host-pathogen coevolution, and the molecular mechanisms behind behavioral manipulation.
+Entomopathogenic fungi represent a promising frontier in biological pest control for agriculture and [[accessible-mushroom-cultivation-for-disabilities]]. By isolating strains that target specific pest insects, cultivators and farmers can develop natural pest management solutions. The process of culturing these fungi involves collecting infected insects, isolating the pathogen on agar media, and testing pathogenicity in controlled gallery experiments. This work has significant implications for reducing dependence on chemical insecticides in both conventional agriculture and mushroom cultivation operations. The study of entomopathogenic fungi also advances understanding of [[fungal-ecology]], host-pathogen coevolution, and the molecular mechanisms behind behavioral manipulation.
 
 ## Research Methodology
 

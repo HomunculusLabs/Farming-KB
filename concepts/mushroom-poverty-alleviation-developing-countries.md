@@ -16,7 +16,7 @@ type: concept
 
 ## Mushroom Growing for Poverty Alleviation in Developing Countries
 
-[[mushroom-cultivation]] offers several unique advantages for economically
+[[accessible-mushroom-cultivation-for-disabilities]] offers several unique advantages for economically
 vulnerable populations in developing nations:
 
 - **Low startup costs**: Unlike traditional crops, mushrooms require no

@@ -67,7 +67,7 @@ While spore syringes can survive freezing, extreme low temperatures below freezi
 
 ### Spore Age and Viability
 
-[[psilocybe-cubensis]] spores begin to degrade a few months after collection. After approximately 1.5 years, germination will be greatly reduced or will not occur at all. Fresh spores germinate massively and quickly, making spore age an important factor in non germination cases.
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] spores begin to degrade a few months after collection. After approximately 1.5 years, germination will be greatly reduced or will not occur at all. Fresh spores germinate massively and quickly, making spore age an important factor in non germination cases.
 
 ## Overview
 

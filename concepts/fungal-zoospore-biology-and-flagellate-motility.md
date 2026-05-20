@@ -56,7 +56,7 @@ ecosystems. Chytrid species are parasites of algae and contribute to the
 regulation of algal populations in freshwater systems. Other zoosporic fungi
 are saprotrophs that decompose pollen, plant detritus, and other organic
 materials in [[det]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[ghb]]
 
 ## Overview

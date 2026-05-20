@@ -48,7 +48,7 @@ Schizophyllum commune is a species of basidiomycete fungus in the family Schizop
 - S. commune is edible and consumed in some cultures (e.g., in Southeast Asia), though it is not a major commercial species
 - It is one of the most important model organisms in fungal genetics, with a fully sequenced genome
 - The species demonstrates how fungi bioaccumulate metals and radionuclides, relevant to bioremediation applications
-- Understanding translocation mechanisms in S. commune informs substrate management in [[mushroom-cultivation]]
+- Understanding translocation mechanisms in S. commune informs substrate management in [[accessible-mushroom-cultivation-for-disabilities]]
 - The species is sometimes a contamination in mushroom cultivation facilities due to its prolific spore production
 
 ## Key References

@@ -28,7 +28,7 @@ Pholiotina cyanopoda belongs to the order Agaricales, family
 Bolbitiaceae. The genus Pholiotina is closely related to Conocybe,
 and the two genera have overlapping morphological features that have
 historically caused [[panaeolus-cyanescens-entity]],
-[[psilocybe-cubensis]] or
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] or
 [[comparison-spore-print-collection-vs-spore-syringe-production]]. Key distinguishing features include the bluish staining
 reaction on the stipe and the specific microscopic characteristics of the
 spores and cheilocystidia.

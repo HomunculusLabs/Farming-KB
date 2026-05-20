@@ -54,7 +54,7 @@ The *Colletotrichum* study is particularly significant because many species in t
 
 Beyond ascomycetes, apPCR has proven equally effective for discrimination among basidiomycete fungi (Fig. 6.2). The technique's ability to generate diagnostic fingerprints across diverse fungal lineages underscores its broad applicability and robustness as a taxonomic tool.
 
-Basidiomycete discrimination by apPCR has practical implications for [[mushroom-cultivation]], mycological surveys, and ecological studies where accurate species identification is prerequisite to understanding community composition [[fungal-biodiversity-and-ecosystem-function]].
+Basidiomycete discrimination by apPCR has practical implications for [[accessible-mushroom-cultivation-for-disabilities]], mycological surveys, and ecological studies where accurate species identification is prerequisite to understanding community composition [[fungal-biodiversity-and-ecosystem-function]].
 
 ### Taxonomic Discrimination Criteria
 

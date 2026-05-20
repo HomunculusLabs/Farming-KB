@@ -24,7 +24,7 @@ Phytosterols including stigmasterol contribute to plant defense by maintaining m
 
 Stigmasterol serves as the starting material for the chemical synthesis of 22S,23S, as reported by Adam and Marquardt (1986) in *Phytochemistry*. The synthetic route involves stereoselective hydroxylation at C-22 and C-23 to generate the tetrahydroxylated brassinosteroid core, followed by lactone ring formation. The C-29 ethyl side chain of stigmasterol is retained in the homobrassinolide product, distinguishing it from C₂₈ brassinosteroids derived from campesterol.
 
-The synthetic homobrassinolide produced from stigmasterol was subsequently used by Gartz, Adam, and Vorbrodt (1990) in their pioneering study of brassinosteroid effects on [[psilocybe-cubensis]]
+The synthetic homobrassinolide produced from stigmasterol was subsequently used by Gartz, Adam, and Vorbrodt (1990) in their pioneering study of brassinosteroid effects on [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - β-sitosterol
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what

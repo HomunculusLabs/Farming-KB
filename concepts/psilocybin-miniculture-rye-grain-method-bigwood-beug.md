@@ -11,7 +11,7 @@ type: concept
 
 ## Psilocybin Miniculture on Rye Grain Method
 
-The miniculture technique developed by Bigwood and Beug (1982) represents a standardized, small-scale cultivation method for [[psilocybin]] and [[psilocybe-cubensis]]. Bigwood and Beug scaled it down into a "miniculture" format suitable for laboratory conditions.
+The miniculture technique developed by Bigwood and Beug (1982) represents a standardized, small-scale cultivation method for [[psilocybin]] and [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]. Bigwood and Beug scaled it down into a "miniculture" format suitable for laboratory conditions.
 
 ## Rye Grain Substrate Preparation
 

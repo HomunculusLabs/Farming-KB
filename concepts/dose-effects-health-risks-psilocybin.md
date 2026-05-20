@@ -20,7 +20,7 @@ type: concept
 
 | Species | Approximate Max Psilocybin Content |
 |---------|-------------------------------------|
-| [[psilocybe-cubensis]] | Up to ~0.6% dry weight |
+| [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] | Up to ~0.6% dry weight |
 
 These values are orientation only; individual specimens vary considerably.
 

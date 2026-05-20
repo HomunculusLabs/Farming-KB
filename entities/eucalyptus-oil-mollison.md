@@ -43,7 +43,7 @@ Eucalyptus oil is a volatile essential oil distilled from the leaves of *Eucalyp
 
 ## Relevance to Cultivation and Mycology
 
-- **Antifungal properties**: Eucalyptus oil has documented antifungal activity against various pathogenic fungi, including *Aspergillus*, *Candida*, and dermatophytes. This could potentially be used as a natural contaminant control in [[mushroom-cultivation]] facilities.
+- **Antifungal properties**: Eucalyptus oil has documented antifungal activity against various pathogenic fungi, including *Aspergillus*, *Candida*, and dermatophytes. This could potentially be used as a natural contaminant control in [[accessible-mushroom-cultivation-for-disabilities]] facilities.
 
 - **Spent leaf substrate**: After steam distillation, the spent eucalyptus leaf material has reduced volatile oil content and could potentially be used as a bulk substrate component for mushroom cultivation, though residual antimicrobial compounds would need evaluation.
 

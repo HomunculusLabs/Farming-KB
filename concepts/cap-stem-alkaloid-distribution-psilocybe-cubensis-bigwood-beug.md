@@ -10,7 +10,7 @@ created: 2026-05-11
 ## Overview
 
 Bigwood and Beug (1982) investigated how [[psilocybin-and-psilocin-biosynthesis-variation]] are distributed
-between the cap (pileus) and stem (stipe) of *[[psilocybe-cubensis]]*. Their
+between the cap (pileus) and stem (stipe) of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*. Their
 analysis of three distinct strains revealed that the two alkaloids follow
 strikingly different tissue-distribution patterns, and that these patterns vary
 between strains. Understanding cap-versus-stem distribution is essential for

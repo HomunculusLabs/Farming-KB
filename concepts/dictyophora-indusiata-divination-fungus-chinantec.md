@@ -23,7 +23,7 @@ Dictyophora indusiata belongs to the family Phallaceae (order Phallales) within 
 - **Indusium (veil/skirt)** — a lacy, net-like structure that hangs from the cap to near the base, giving the fungus its common name
 - **Gleba** — a dark, olive-green, foul-smelling spore mass on the cap surface
 
-The indusium is the most distinctive feature — a delicate, white, net-like skirt that can extend 10-20 cm below the cap. In some specimens, the skirt can reach the ground, creating a truly dramatic appearance. The gleba produces a strong, putrid odor that attracts flies and other insects for [[spore-dispersal]].
+The indusium is the most distinctive feature — a delicate, white, net-like skirt that can extend 10-20 cm below the cap. In some specimens, the skirt can reach the ground, creating a truly dramatic appearance. The gleba produces a strong, putrid odor that attracts flies and other insects for [[aquatic-fungi-spore-dispersal-ingold]].
 
 The three forms recognized by Guzmán et al. (1990) vary in the characteristics of the indusium, stipe dimensions, and cap morphology. These forms may represent ecological variants or distinct populations adapted to different microhabitats within the Chinantec territory.
 

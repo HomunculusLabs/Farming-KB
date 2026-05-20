@@ -9,7 +9,7 @@ tags: [technique, cultivation, bed-construction, mushroom-growing, english-metho
 
 ## Description
 
-The flat bed system is the most widely used bed construction method in American [[mushroom-cultivation]], also known as the English type. Beds are prepared as horizontal, flat surfaces of compressed compost, typically arranged in tiers or shelves to maximize vertical space utilization in mushroom houses and cellars. This system dominated English and American commercial mushroom production throughout the 19th and 20th centuries.
+The flat bed system is the most widely used bed construction method in American [[accessible-mushroom-cultivation-for-disabilities]], also known as the English type. Beds are prepared as horizontal, flat surfaces of compressed compost, typically arranged in tiers or shelves to maximize vertical space utilization in mushroom houses and cellars. This system dominated English and American commercial mushroom production throughout the 19th and 20th centuries.
 
 ## Classification
 

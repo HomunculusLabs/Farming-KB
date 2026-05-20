@@ -87,7 +87,7 @@ When applying these concepts, consider regional variations, available resources,
 - [[oyster-mushroom-spawn-preparation]]
 - [[mushroom-spawn-history-and-methods-duggar]]
 - [[mushroom-spawn-preparation]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[spawn-production]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

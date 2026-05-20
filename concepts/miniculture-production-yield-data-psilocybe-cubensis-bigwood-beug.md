@@ -7,7 +7,7 @@ type: concept
 created: 2026-05-09
 ---
 
-## Miniculture Production Parameters — *[[psilocybe-cubensis]]* [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]]. Their miniculture apparatus provided a standardized, reproducible platform that yielded quantitative data on flush-by-flush variation in [[gadd-mycelial-network-dynamics]] formation, slowing colonization
+## Miniculture Production Parameters — *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]]. Their miniculture apparatus provided a standardized, reproducible platform that yielded quantitative data on flush-by-flush variation in [[gadd-mycelial-network-dynamics]] formation, slowing colonization
 - **Too infrequent:** Allows clumping and uneven colonization
 
 ### Colonization Phase

@@ -91,7 +91,7 @@ Beyond essential occupations, a range of additional village enterprises can deve
 | Cut flowers | Floriculture for local and distant markets |
 | Processed dairy products | Cheese, yogurt, butter from village dairy |
 | Fish and aquaculture | Pond and tank-based fish production |
-| Nursery | [[plant-propagation]] for village and district sales |
+| Nursery | [[permaculture-plant-propagation-guide]] for village and district sales |
 | Special forage crops | [[comfrey]], tagasaste, and other multi-purpose plants |
 | Beekeeping | Honey, pollination services, wax products |
 | [[orchard-management]] | Fruit production for fresh market and processing |

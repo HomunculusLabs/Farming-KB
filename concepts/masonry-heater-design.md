@@ -149,32 +149,7 @@ Masonry heaters are sized by the square footage they need to heat:
 
 ### Safety Clearances
 
-- To combustible walls: 36 inches minimum (can be reduced with proper shielding)
-- To ceiling: 18 inches minimum
-- Floor protection: 16 inches in front of the load door
-- Hearth extension: Non-combustible surface extending 16-20 inches in front
-
-## Operating a Masonry Heater
-
-1. Build a hot fire with dry, well-seasoned hardwood
-2. Load the firebox to capacity (do not small fires frequently)
-3. The fire should burn vigorously for 1-2 hours
-4. Do not damper down the fire — let it burn hot and fast
-5. Close all dampers after the fire burns down
-6. The heater continues radiating heat for 12-24 hours
-7. One or two fires per day is sufficient for most climates
-
-## Integration with Other Systems
-
-- **Bake oven**: Many masonry heaters include a bake oven on the side
-- **Water heating**: A coil in the firebox can heat domestic water
-- **[[radiant-floor-heating|Radiant floor]]**: Water heated by the heater circulates through floor tubing
-- **Cob bench**: A heated cob bench attached to the heater provides warm seating
-- **Cooktop**: Some designs include a flat cooking surface on top
-
 ## See Also
 
-- [[radiant-floor-heating]]
-- [[passive-solar-design]]
-- [[cob-building-basics-detailed]]
-- [[homestead-winter-preparations]]
+- [[comparison-charcoal-production-for-cooking-vs-masonry-heater-design]]
+- [[comparison-masonry-heater-design-vs-solar-cooking-methods]]

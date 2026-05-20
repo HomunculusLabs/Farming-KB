@@ -28,7 +28,7 @@ The bluing reaction is driven by the oxidation of **psilocin** (the dephosphoryl
 4. **Accelerating enzymes** such as cytochrome oxidases and laccases further catalyze psilocin breakdown
 5. **Iron ions** (Fe²⁺/Fe³⁺) also accelerate the bluing reaction even in trace amounts
 
-[[singh-fungal-laccase-enzymes-bioremediation]] have been found in the mycelia of *[[psilocybe-cubensis]]*. The blue-colored compounds formed are likely **quinone** structures — a basic chemical motif found in many natural pigments — though their exact structures have not been determined. They are quite unstable.
+[[singh-fungal-laccase-enzymes-bioremediation]] have been found in the mycelia of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*. The blue-colored compounds formed are likely **quinone** structures — a basic chemical motif found in many natural pigments — though their exact structures have not been determined. They are quite unstable.
 
 ### Why Some High-Psilocybin Mushrooms Don't Turn Blue
 

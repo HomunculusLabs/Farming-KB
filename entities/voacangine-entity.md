@@ -6,7 +6,7 @@ tags: [chemical, alkaloid, indole, iboga, psychedelic, tryptamine, apocynaceae]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ""raw/papers/plants-of-the-gods-schultes-hofmann.md"
+  - "raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 ## Voacangine
 Voacangine is a monoterpenoid [[plants-of-the-gods-tabernanthe-iboga-chemistry]]. It is a biosynthetic precursor to ibogaine and serves

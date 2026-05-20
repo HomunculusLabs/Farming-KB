@@ -37,7 +37,7 @@ For context, the [[mycelial-growth-enhancement-with-phytohormones]] including au
 
 The Gartz et al. study fits into a growing body of evidence that phytohormones — compounds traditionally considered plant-specific — have activity in fungal systems. Auxins, cytokinins, gibberellins, ethylene, and abscisic acid have all been reported to affect fungal growth, development, or secondary metabolism. Some fungi even produce these compounds endogenously. The cross-kingdom activity of plant hormones suggests deep evolutionary conservation of steroid and isoprenoid signaling pathways that predates the divergence of plants and fungi.
 
-The [[psilocybe-cubensis]]
+The [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[doc]]
 - [[dom]]
 

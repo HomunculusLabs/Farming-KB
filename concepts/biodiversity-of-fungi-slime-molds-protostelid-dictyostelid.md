@@ -71,7 +71,7 @@ multicellularity.
 Protostelids are the smallest and least conspicuous group, producing simple,
 minute fruiting bodies often consisting of a single spore on a delicate stalk.
 Many species are known only from culture and require [[slime-molds]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[mycology]]
 
 ## Overview

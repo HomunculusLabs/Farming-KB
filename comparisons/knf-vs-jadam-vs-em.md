@@ -1,5 +1,4 @@
 ---
-
 title: KNF vs JADAM vs EM — Comparison
 created: 2026-04-11
 updated: 2026-04-12

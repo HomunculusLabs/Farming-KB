@@ -148,17 +148,6 @@ Earthbag walls must be plastered to protect the bags from UV degradation.
 - Moisture sensitivity: Earth walls must be protected from prolonged moisture exposure
 - Bag degradation: Polypropylene eventually degrades — plaster is essential for longevity
 
-## Cost Estimates
-
-- Bags: $0.10-0.50 each (200-400 bags for a small structure)
-- Barbed wire: $50-100 per structure
-- Fill: Free (on-site subsoil)
-- Plaster materials: $100-500
-- Total for a 200 sq ft structure: $500-2,000 in materials
-
 ## See Also
 
-- [[cob-building-basics-detailed]]
-- [[cordwood-construction]]
-- [[passive-solar-design]]
-- [[bamboo-as-building-material]]
+- [[earthbag-construction-and-superadobe-building]]

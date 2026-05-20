@@ -19,7 +19,7 @@ A typical 2C-B experience lasts 4-8 hours depending on dose. Onset occurs within
 The dose-response curve for 2C-B is notably non-linear. While 16 mg may produce gentle perceptual enhancement, 24 mg can produce full-blown psychedelic experiences with intense visuals and [[6-mapb]] Topics
 
 - [[turner-psychedelic-combination-experience-reports]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[turner-essential-psychedelics-lsd-cosmic-consciousness]]
 ## Practical Considerations
 

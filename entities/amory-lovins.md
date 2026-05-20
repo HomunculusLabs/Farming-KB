@@ -68,7 +68,7 @@ environmental benefit.
 ## Relevance to Cultivation and Mycology
 
 - **Resource Efficiency in Cultivation**: Lovins' Factor 4 framework can be
-  applied to [[mushroom-cultivation]] and broader agricultural systems to identify
+  applied to [[accessible-mushroom-cultivation-for-disabilities]] and broader agricultural systems to identify
   opportunities for doubling output while halving resource inputs.
 - **Closed-Loop Systems**: The zero-waste principle Lovins advocates aligns
   directly with circular substrate management [[contamination-prevention-in-mushroom-cultivation]], where

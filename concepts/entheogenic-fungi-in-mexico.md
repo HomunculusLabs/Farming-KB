@@ -20,7 +20,7 @@ groups include:
   movement.
 
 - **Mixtec** (Oaxaca) — Known for their use of [[psilocybe-mexicana]] |
-| atkad | Zapotec | mayor / leader | [[psilocybe-cubensis]] |
+| atkad | Zapotec | mayor / leader | [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] |
 | derrumbes | Spanish | landslides | [[maria-sabina]]
 
 - gordon-wasson

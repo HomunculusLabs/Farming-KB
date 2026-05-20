@@ -28,7 +28,7 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-M. ellipsosporum and related [[nematophagous-fungi]] have potential applications in managing plant-parasitic nematodes in agricultural and mycological contexts. In [[mushroom-cultivation]], nematodes can contaminate substrates. Nematophagous fungi offer a biological approach to nematode management. The rhizosphere occurrence suggests compatibility with plant-fungal systems.
+M. ellipsosporum and related [[nematophagous-fungi]] have potential applications in managing plant-parasitic nematodes in agricultural and mycological contexts. In [[accessible-mushroom-cultivation-for-disabilities]], nematodes can contaminate substrates. Nematophagous fungi offer a biological approach to nematode management. The rhizosphere occurrence suggests compatibility with plant-fungal systems.
 
 ## Ecological Role
 

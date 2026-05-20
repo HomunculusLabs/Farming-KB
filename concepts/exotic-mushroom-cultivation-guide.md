@@ -21,7 +21,7 @@ type: concept
 
 ## Summary
 
-This guide covers the complete cultivation cycle for several exotic mushroom species on sterilised grass seed substrate, from [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]**, **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]**. The core technique uses rye grass seed (*Lolium perenne*) in jars sterilised in a pressure cooker, inoculated with spore or mycelium syringes or agar squares, then either cased for mushroom production or left in jars for [[mushroom-cultivation]]
+This guide covers the complete cultivation cycle for several exotic mushroom species on sterilised grass seed substrate, from [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]**, **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]**. The core technique uses rye grass seed (*Lolium perenne*) in jars sterilised in a pressure cooker, inoculated with spore or mycelium syringes or agar squares, then either cased for mushroom production or left in jars for [[accessible-mushroom-cultivation-for-disabilities]]
 - [[substrate-preparation]]
 - [[panaeolus-subbalteatus]]
 

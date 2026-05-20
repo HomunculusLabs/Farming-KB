@@ -1,5 +1,4 @@
 ---
-
 title: Think Grow Model H Plus LED
 created: 2026-04-10
 updated: 2026-04-12

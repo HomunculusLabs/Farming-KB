@@ -85,7 +85,7 @@ At this stage in a psychedelic session, the voyager is usually capable of tellin
 - first bardo clear light — The initial ego-death and Clear Light experience
 - second bardo hallucinations — The period of visionary experiences
 - [[wrathful-visions-psychedelic-experience]] — Second Bardo nightmares and their interpretation
-- [[set-and-setting]] psychedelic therapy — Preparation and environmental factors
+- [[lsd-set-and-setting-framework]] psychedelic therapy — Preparation and environmental factors
 - psychedelic guide role — The function and responsibilities of the session guide
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

@@ -68,7 +68,7 @@ external ducts and pipes.
 
 - **Infrastructure Design**: The Pompidou Centre's maintenance issues provide a
   cautionary lesson for designing cultivation infrastructure — exposed services
-  (plumbing, ventilation, electrical systems) in humid [[mushroom-cultivation]]
+  (plumbing, ventilation, electrical systems) in humid [[accessible-mushroom-cultivation-for-disabilities]]
   environments face accelerated degradation from moisture and biological
   colonisation.
 - **Material Selection**: The contrast between durable iron (Eiffel Tower) and

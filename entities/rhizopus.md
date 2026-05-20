@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Rhizopus is a genus of common zygomycete fungi widely known as bread molds. In [[mushroom-cultivation]], Rhizopus species are frequent contaminants of [[grain-spawn]] and agar plates, among the most common mold contaminants encountered in the laboratory. They are easily recognized by their distinctive appearance: white or clear fuzzy growth with small black pinheads on the upper surface where spores discharge. Rhizopus grows extremely rapidly and can quickly overtake mushroom [[mycelium]] on nutritive media.
+Rhizopus is a genus of common zygomycete fungi widely known as bread molds. In [[accessible-mushroom-cultivation-for-disabilities]], Rhizopus species are frequent contaminants of [[grain-spawn]] and agar plates, among the most common mold contaminants encountered in the laboratory. They are easily recognized by their distinctive appearance: white or clear fuzzy growth with small black pinheads on the upper surface where spores discharge. Rhizopus grows extremely rapidly and can quickly overtake mushroom [[mycelium]] on nutritive media.
 
 ## Classification
 

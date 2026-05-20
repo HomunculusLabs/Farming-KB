@@ -8,7 +8,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "general botanical and pharmacological knowledge"
-  - ""raw/a-selection-permaculture-plants.md"
+  - "raw/a-selection-permaculture-plants.md"
 ---
 ## Thymus vulgaris
 Thymus vulgaris, common thyme, is a low-growing evergreen subshrub in the

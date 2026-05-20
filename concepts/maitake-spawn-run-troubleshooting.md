@@ -144,7 +144,7 @@ When primordia reach 2.54–5.08 cm (1–2 inches) in diameter with visible matu
 ## See Also
 
 - [[grifola-frondosa]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycelium]]
 - [[spore]]
 - [[maitake-fruiting-body-development]]

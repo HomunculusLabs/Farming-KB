@@ -35,7 +35,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-[[mushroom-cultivation]]
+[[accessible-mushroom-cultivation-for-disabilities]]
 - [[dmt]]
 - [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
 

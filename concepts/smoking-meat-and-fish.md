@@ -148,6 +148,7 @@ Cold smoking is riskier because food spends extended time in the danger zone:
 - Cold-smoked meats: 1-2 weeks refrigerated, 4-6 months frozen
 
 ### Hot Smoking Safety
+
 ## See Also
 
 - [[faires-meat-processing-curing-and-smoking]]

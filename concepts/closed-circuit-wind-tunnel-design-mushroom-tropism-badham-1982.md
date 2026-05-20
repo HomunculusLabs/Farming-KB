@@ -97,7 +97,7 @@ multiple approaches often yields synergistic benefits.
 ## See Also
 
 - [[mycelium]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[spore-print]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

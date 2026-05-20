@@ -151,6 +151,7 @@ Experienced growers often combine techniques:
 - **Main-line + ScROG**: Manifold the plant, then ScROG the resulting branches
 - **Topping + LST + Defoliation**: Top for structure, LST for canopy evenness, defoliate for airflow
 
-The key principle is that all training should be completed during vegetative growth. Late-stage training during flowering adds unnecessary stress and can reduce yield. See [[cannabis-environment-control]] for maintaining the proper environment to support stressed plants during recovery.
+## See Also
 
-See also: [[cannabis-plant-anatomy]]
+- [[cannabis-sativa-indoor-training-techniques]]
+- [[deep-water-culture-cannabis-training-techniques]]

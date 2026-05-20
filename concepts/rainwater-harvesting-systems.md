@@ -153,6 +153,6 @@ water as a complementary source, see [[well-drilling-and-maintenance]].
 For greywater recycling to extend water supplies, see [[composting-toilet-systems]]
 for waterless sanitation options.
 
-## Related
+## See Also
 
-- [[permaculture-water-harvesting]] — [[permaculture]] Water Harvesting covers the broader [[permaculture-design]] approach to capturing and storing water on-site.
+- [[mollison-designers-rainwater-harvesting-swale-systems]]

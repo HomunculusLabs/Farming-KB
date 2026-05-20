@@ -25,7 +25,7 @@ Sunflower seed hulls constitute approximately 18-20% of raw sunflower seeds by w
 
 ## White Rot Fungi and Lignin Degradation
 
-Sunflower seed hulls are considered difficult to biodegrade rapidly due to their high lignin content. However, white rot basidiomycete fungi are the primary agents of lignin degradation in nature. [[ligninolytic-enzymes]] including laccases, manganese peroxidases, and lignin peroxidases. These enzymes work synergistically to break down the complex lignin polymer into simpler aromatic compounds that the fungus can metabolize. The presence of reduced sugars in SSH provides an immediate energy source while the more complex lignocellulosic components are gradually degraded.
+Sunflower seed hulls are considered difficult to biodegrade rapidly due to their high lignin content. However, white rot basidiomycete fungi are the primary agents of lignin degradation in nature. [[singh-ligninolytic-enzymes-fungal-bioremediation]] including laccases, manganese peroxidases, and lignin peroxidases. These enzymes work synergistically to break down the complex lignin polymer into simpler aromatic compounds that the fungus can metabolize. The presence of reduced sugars in SSH provides an immediate energy source while the more complex lignocellulosic components are gradually degraded.
 
 ## Mycelial Growth on Sunflower Seed Hulls
 

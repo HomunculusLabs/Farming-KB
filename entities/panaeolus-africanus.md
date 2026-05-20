@@ -59,7 +59,7 @@ fertilizer provides a plausible mechanism for the species' spread to
 gardens and pastures in [[schultes-panaeolus-mushrooms-shamanic]] to new ecological niches and
 raises questions about the undocumented [[panaeolus-venenosus]]
 - [[panaeolus-subbalteatus]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 
 ## Overview
 

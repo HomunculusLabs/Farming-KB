@@ -29,7 +29,7 @@ Substrate spawn (also called sawdust spawn) is the third-generation expansion of
 
 ## Relevance to Cultivation
 
-Substrate spawn is the most cost-effective inoculum for most [[mushroom-cultivation]] operations. While grain spawn can be used directly for fruiting (yielding slightly higher yields), it is more expensive per unit volume. Substrate spawn allows a small amount of grain spawn to inoculate a much larger volume of fruiting substrate, reducing production costs significantly. The acclimation from grain to wood-based media through substrate spawn improves colonization performance on final fruiting substrates.
+Substrate spawn is the most cost-effective inoculum for most [[accessible-mushroom-cultivation-for-disabilities]] operations. While grain spawn can be used directly for fruiting (yielding slightly higher yields), it is more expensive per unit volume. Substrate spawn allows a small amount of grain spawn to inoculate a much larger volume of fruiting substrate, reducing production costs significantly. The acclimation from grain to wood-based media through substrate spawn improves colonization performance on final fruiting substrates.
 
 ## Relevance to Mycology
 

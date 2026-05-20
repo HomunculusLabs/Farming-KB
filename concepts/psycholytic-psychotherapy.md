@@ -108,7 +108,7 @@ The term "psychedelic," popularized by Leary and the Harvard group, means "mind-
 
 ## See Also
 
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[timothy-leary]]
 - [[shamanic-healing-hallucinogenic-plants]]
 - [[psilocybin]]

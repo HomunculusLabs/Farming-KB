@@ -63,7 +63,7 @@ The filter can exemplifies the resourceful DIY approach that characterizes amate
 - Jarrold, D.H. "Indoor Mushroom Growing Technique for the Boil-A-Bag." Self-published guide.
 
 ## See Also
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mushroom-substrate-bags]]
 - [[filter-can-construction-mushroom-cultivation]]
 - [[jarrold-filter-can-vermiculite-air-exchange-mushroom-cultivation]]

@@ -35,7 +35,7 @@ Active brassinosteroids are maintained at very low concentrations in plant tissu
 
 Brassinosteroid signaling intersects extensively with other plant hormonal systems. It synergizes with [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and fruiting in [[singh-fungal-plant-growth-regulators-production]] and stress mitigants. [[homobrassinolide]]
 - brassinolide
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - j.-gartz
 - arabidopsis thaliana
 

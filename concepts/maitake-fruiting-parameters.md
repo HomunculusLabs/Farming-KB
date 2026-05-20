@@ -92,7 +92,7 @@ help ensure consistent results across different scenarios.
 
 - [[mycelium]]
 - [[spore]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[basidiomycota]]
 - [[ascomycota]]
 ## Practical Applications

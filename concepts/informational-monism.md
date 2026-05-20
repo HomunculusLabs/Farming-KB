@@ -40,7 +40,7 @@ Entheogenic phenomenology provides the most compelling evidence for informationa
 
 Since states of neuronal firing are states of information (what else could they be?), and these altered states correspond to profoundly different states of consciousness, we can observe a direct mapping between information patterns and conscious experience.
 
-The fact that entheogenic visions are loaded with powerful and often [[natural-intelligence]], [[natural-intelligence]]
+The fact that entheogenic visions are loaded with powerful and often [[powell-natural-intelligence-and-the-universal-computation]], [[powell-natural-intelligence-and-the-universal-computation]]
 
 ## Practical Applications
 

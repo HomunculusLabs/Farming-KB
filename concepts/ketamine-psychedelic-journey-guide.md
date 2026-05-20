@@ -98,7 +98,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mckenna-consciousness-expansion-and-drug-war]]" and popularized the "set and setting" hypothesis: that the primary determinants of a psychedelic experience are the internal set (intention, expectation, motivation) and the external setting or context, including the presence of a guide.
 The set and setting framework remains foundational to modern psychedelic therapy, emphasizing that the therapeutic context is as important as the pharmacological substance.
 The set and [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]. The extensive dose-response data collected by military researchers, much of which was later declassified, provided valuable information about the relationship between dose, duration, and subjective experience. However, the programs also generated enormous public distrust of government-funded [[ketamine]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[set-and-setting-framework]]
 - [[ketamine]]
 - [[ketamine-dissociative-pharmacology]]

@@ -6,7 +6,7 @@ type: concept
 
 ## Mushroom Cultivation Education Curriculum
 
-[[mushroom-cultivation]] provides a rich, multidisciplinary platform for education across all age groups, from elementary school through college. Fungi are uniquely suited to classroom settings because they are safe to handle, grow quickly enough to observe meaningful changes, and connect to fundamental concepts in biology, ecology, chemistry, and environmental science. A well-structured mycology curriculum can engage students through hands-on experimentation while teaching critical thinking, scientific methodology, and environmental stewardship.
+[[accessible-mushroom-cultivation-for-disabilities]] provides a rich, multidisciplinary platform for education across all age groups, from elementary school through college. Fungi are uniquely suited to classroom settings because they are safe to handle, grow quickly enough to observe meaningful changes, and connect to fundamental concepts in biology, ecology, chemistry, and environmental science. A well-structured mycology curriculum can engage students through hands-on experimentation while teaching critical thinking, scientific methodology, and environmental stewardship.
 
 ## Elementary Education (Grades K–4)
 

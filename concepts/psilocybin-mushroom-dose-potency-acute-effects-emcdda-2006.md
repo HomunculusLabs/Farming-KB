@@ -57,7 +57,7 @@ These ranges should be interpreted cautiously:
 - **Altered time perception**: Time may appear to slow or speed up
 - **Synesthesia**: Blending of sensory modalities
 - **Altered thought patterns**: Philosophical insights, creative thinking
-- **Mood changes**: Euphoria to anxiety depending on [[set-and-setting]]
+- **Mood changes**: Euphoria to anxiety depending on [[lsd-set-and-setting-framework]]
 - **Changed self-awareness**: Altered body image, ego boundary dissolution
 
 ### Negative Psychological Effects

@@ -9,7 +9,7 @@ type: concept
 ## Overview
 
 Tryptamine supplementation of growth substrates significantly alters the alkaloid
-profiles of *[[psilocybe-cubensis]]* fruiting bodies. Research by Gartz demonstrated
+profiles of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* fruiting bodies. Research by Gartz demonstrated
 that exogenous tryptamine is incorporated into the mushroom's metabolic pathways,
 yielding elevated concentrations of psilocybin, psilocin, baeocystin, and other
 indole alkaloids. This has important implications for understanding fungal secondary

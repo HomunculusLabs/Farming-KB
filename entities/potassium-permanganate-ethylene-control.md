@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-[[potassium-permanganate]] (KMnO4) is an inorganic chemical compound used in [[mushroom-cultivation]] and closed-environment systems to oxidize and remove ethylene gas from the atmosphere. Ethylene (C2H4) is a plant hormone produced by many fungi and plants that accumulates in enclosed spaces and can interfere with fruiting, ripening, and air quality. Potassium permanganate filters oxidize ethylene into water and carbon dioxide, making them an essential component of life support systems in space cultivation and controlled environment agriculture. The compound is valued for its nonflammable nature and efficacy at low concentrations, making it suitable for use in spacecraft and sealed habitat environments.
+[[potassium-permanganate]] (KMnO4) is an inorganic chemical compound used in [[accessible-mushroom-cultivation-for-disabilities]] and closed-environment systems to oxidize and remove ethylene gas from the atmosphere. Ethylene (C2H4) is a plant hormone produced by many fungi and plants that accumulates in enclosed spaces and can interfere with fruiting, ripening, and air quality. Potassium permanganate filters oxidize ethylene into water and carbon dioxide, making them an essential component of life support systems in space cultivation and controlled environment agriculture. The compound is valued for its nonflammable nature and efficacy at low concentrations, making it suitable for use in spacecraft and sealed habitat environments.
 
 ## Classification
 

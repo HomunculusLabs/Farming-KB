@@ -138,7 +138,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[lentinula-edodes]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycelium]]
 - [[grass-seed-cultivation-of-psilocybe-species]]
 - [[juncao-technology-mushroom-substrate]]

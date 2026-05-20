@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The application of the brassinosteroid 22S,23S-homobrassinolide to a horse dung and rice grain substrate demonstrated significant enhancement of fruiting in [[psilocybe-cubensis]].
+The application of the brassinosteroid 22S,23S-homobrassinolide to a horse dung and rice grain substrate demonstrated significant enhancement of fruiting in [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]].
 
 This morphological change raises important considerations for:
 

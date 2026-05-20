@@ -18,7 +18,7 @@ regulatory frameworks.
 
 The commercial market for hallucinogenic mushrooms emerged most
 prominently in the Netherlands, where smartshops specialized in
-psychoactive herbal substances began marketing [[psilocybe-cubensis]] shop', and 'buy psilocybe
+psychoactive herbal substances began marketing [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] shop', and 'buy psilocybe
 cubensis'. Analysis revealed that the vast majority (82%) of these
 online shops were based in the Netherlands. The remaining 18%
 included four Austrian online shops selling growkits and sporeprints,

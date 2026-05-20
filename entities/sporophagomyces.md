@@ -55,7 +55,7 @@ This mechanism is distinct from most other mycoparasites, which typically parasi
 - **Ganoderma pathology:** Could potentially affect cultivated Ganoderma species used in medicinal mushroom production
 - **Unique biology:** The spore-trapping mechanism represents a specialized evolutionary adaptation among mycoparasites
 - **Taxonomic significance:** Shares characters with Hypocrea and Hypomyces but is distinguished by its subiculum-based spore-trapping strategy
-- **Ecological role:** May influence Ganoderma population dynamics and [[spore-dispersal]] in forest ecosystems
+- **Ecological role:** May influence Ganoderma population dynamics and [[aquatic-fungi-spore-dispersal-ingold]] in forest ecosystems
 
 ## Key References
 

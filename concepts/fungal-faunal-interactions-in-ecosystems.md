@@ -28,7 +28,7 @@ Like terrestrial and aquatic arthropods, marine isopods contain fungi in their g
 
 ### Vertebrate Mycophagy
 
-Fungi serve as important food resources for numerous vertebrate and invertebrate animals. For vertebrates, fungal consumption is often seasonal — particularly important when other foods are scarce. In Arctic regions, when the ground is snow-covered and vascular plant food is limited, reindeer forage for lichens as their main food source. Small mammals worldwide make use of fungi at times when other food sources are depleted or when fungi are particularly abundant. Many small mammals also forage below ground for hypogeous fungi, whose [[spore-dispersal]] is entirely dependent on these creatures. The [[mushroom-cultivation]] industry for human consumption is a multimillion dollar enterprise in the United States alone, testament to the food, medicinal, and cultural value of fungi.
+Fungi serve as important food resources for numerous vertebrate and invertebrate animals. For vertebrates, fungal consumption is often seasonal — particularly important when other foods are scarce. In Arctic regions, when the ground is snow-covered and vascular plant food is limited, reindeer forage for lichens as their main food source. Small mammals worldwide make use of fungi at times when other food sources are depleted or when fungi are particularly abundant. Many small mammals also forage below ground for hypogeous fungi, whose [[aquatic-fungi-spore-dispersal-ingold]] is entirely dependent on these creatures. The [[accessible-mushroom-cultivation-for-disabilities]] industry for human consumption is a multimillion dollar enterprise in the United States alone, testament to the food, medicinal, and cultural value of fungi.
 
 ### Invertebrate Mycophagy
 

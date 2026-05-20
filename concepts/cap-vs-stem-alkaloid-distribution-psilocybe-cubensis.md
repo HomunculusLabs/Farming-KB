@@ -4,7 +4,7 @@ tags:
   - concept
 ---
 
-The distribution of [[psilocybe-cubensis]]* is not uniform. Research by Bigwood
+The distribution of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* is not uniform. Research by Bigwood
 and Beug (1982) demonstrated that caps contain significantly higher
 psilocybin concentrations than stems, while psilocin shows a more complex
 tissue-specific distribution pattern that varies by strain.
@@ -83,7 +83,7 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[psilocybe-cubensis-cap-stem-alkaloid-distribution]]
 - [[cap-stem-alkaloid-distribution-psilocybe-cubensis-strains-detailed]]
 ## Practical Applications

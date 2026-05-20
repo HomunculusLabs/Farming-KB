@@ -52,7 +52,7 @@ Fennel is a perennial herb in the carrot family, often considered a rampant weed
 
 - **Decomposition ecology**: As a member of the Apiaceae, fennel's relatively soft, hollow stems decompose rapidly and could contribute to compost or leaf-litter substrate mixes for saprophytic mushroom species.
 
-- **Integrated land design**: Mollison's fennel example illustrates a core permaculture principle directly applicable to [[mushroom-cultivation]]: before investing in [[substrate-preparation]] and controlled environments, examine what decomposable organic material already exists on site and could be valorized through fungal cultivation.
+- **Integrated land design**: Mollison's fennel example illustrates a core permaculture principle directly applicable to [[accessible-mushroom-cultivation-for-disabilities]]: before investing in [[substrate-preparation]] and controlled environments, examine what decomposable organic material already exists on site and could be valorized through fungal cultivation.
 
 - **Fermentation potential**: Fennel seeds and foliage contain fermentable sugars and aromatic compounds that could be explored for novel mushroom substrate formulations with enhanced flavor profiles in the resulting mushrooms.
 

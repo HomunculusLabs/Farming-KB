@@ -34,7 +34,7 @@ beauty. The village experienced population growth in the 1960s as new
 homes consumed surrounding wheat fields and dairy farms. An untended
 apple orchard belonging to a village milkman named Mr. Bloomfield
 bordered his home, its dying trees consumed by bitter rot, black rot,
-blossom end rot, canker, rust, [[spore-dispersal]], [[bloomfield-history-of-mycology-pioneers]]. Each chapter profiles notable figures in the field,
+blossom end rot, canker, rust, [[aquatic-fungi-spore-dispersal-ingold]], [[bloomfield-history-of-mycology-pioneers]]. Each chapter profiles notable figures in the field,
 including A. H. R. Buller, [[bloomfield-curtis-gates-lloyd-pharmacist-mycologist]], Cecil Terence Ingold,
 and John Webster.
 

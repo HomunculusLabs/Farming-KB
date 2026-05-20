@@ -28,7 +28,7 @@ The I Ching (Chinese: 易經, "Book of Changes") is an ancient Chinese divinatio
 Jung's engagement with the I Ching exemplifies his openness to eastern systems of knowledge that operate outside Western rational frameworks. The I Ching's emphasis on change, process, and the limitations of linear logic parallels the psychedelic experience, where the rigid structures of ego-consciousness dissolve into a flowing, ever-changing stream of experience. The I Ching's method of generating meaning from seemingly random patterns mirrors the psychedelic experience of finding profound significance in spontaneous mental imagery.
 
 ## Relevance to Cultivation and Mycology
-The I Ching's philosophical framework — constant change, cycles of growth and decay, the interplay of yin and yang — resonates with the cyclical nature of [[mushroom-cultivation]]. The principle of attending to subtle signs and responding appropriately (rather than imposing rigid plans) is relevant to the dynamic, living process of fungal cultivation.
+The I Ching's philosophical framework — constant change, cycles of growth and decay, the interplay of yin and yang — resonates with the cyclical nature of [[accessible-mushroom-cultivation-for-disabilities]]. The principle of attending to subtle signs and responding appropriately (rather than imposing rigid plans) is relevant to the dynamic, living process of fungal cultivation.
 
 ## Historical Context
 

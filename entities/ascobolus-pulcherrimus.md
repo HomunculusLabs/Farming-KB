@@ -53,7 +53,7 @@ While Ascobolus pulcherrimus is not a cultivated species, its study has provided
 - **Cellular integrity**: Understanding Woronin body function in A. pulcherrimus has illuminated how all septate fungi maintain colony integrity during damage and stress.
 - **Evolutionary biology**: This species serves as a model for understanding the evolution of multicellular organization in fungi.
 - **Comparative mycology**: The presence of Woronin bodies in Ascobolus but not in basidiomycetes highlights the independent evolutionary solutions to septal pore management in different fungal lineages.
-- **Compost ecology**: As a coprophilous species, Ascobolus is part of the decomposer community that processes organic matter, analogous to the composting processes used in [[mushroom-cultivation]].
+- **Compost ecology**: As a coprophilous species, Ascobolus is part of the decomposer community that processes organic matter, analogous to the composting processes used in [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## References
 

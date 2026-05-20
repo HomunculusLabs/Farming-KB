@@ -142,6 +142,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
+- [[hamilton-organic-fertilizers-and-plant-nutrition]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
 - [[hamilton-cottage-garden-design]]

@@ -92,7 +92,7 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-alchemy-overview]]
+- [[lemon-cannabis-alchemy-advanced-refinement-techniques]]
 - [[cannabis-trichome-types-and-development]]
 - [[charas]]
 - [[cannabis-hashish-production]]

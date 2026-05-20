@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Benlate is the brand name for benomyl, a systemic benzimidazole fungicide used in mycological laboratories as a selective agent in antibiotic agar formulations. In [[mushroom-cultivation]], it is included in specialized agar recipes to suppress unwanted mold growth while allowing target mushroom mycelium to colonize the medium. Its ability to selectively inhibit filamentous fungi without harming basidiomycete mycelium makes it valuable for culture purification protocols.
+Benlate is the brand name for benomyl, a systemic benzimidazole fungicide used in mycological laboratories as a selective agent in antibiotic agar formulations. In [[accessible-mushroom-cultivation-for-disabilities]], it is included in specialized agar recipes to suppress unwanted mold growth while allowing target mushroom mycelium to colonize the medium. Its ability to selectively inhibit filamentous fungi without harming basidiomycete mycelium makes it valuable for culture purification protocols.
 
 ## Classification
 

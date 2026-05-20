@@ -54,7 +54,7 @@ For sites without adequate slope, or when distributing to a larger area, a surge
 
 1. Greywater flows by gravity into a surge tank (30-50 gallons)
 2. A small sump pump activates when the tank fills
-3. Water is pumped through a distribution network to mulch basins or subsurface irrigation lines
+3. Water is pumped through a distribution network to mulch basins or [[subsurface-irrigation]] lines
 4. A float switch prevents overfilling and dry-running
 
 **Key components:**
@@ -148,8 +148,8 @@ Greywater regulations vary enormously by jurisdiction:
 - No kitchen grease water without additional treatment
 - System must not create a nuisance (odor, breeding mosquitoes)
 - Professional design may be required for systems above a certain volume
+
 ## See Also
 
 - [[comparison-composting-toilets-vs-greywater-systems-detailed]]
 - [[greywater-systems-and-domestic-water-conservation]]
-- [[aquatic-plant-systems-permaculture]]

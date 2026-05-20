@@ -65,7 +65,7 @@ The repurposing of kitchen boil bags for mushroom cultivation illustrates an imp
 
 ## See Also
 - [[mycelial-colonization]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycoremediation-of-plastics]]
 - [[jarrold-pressure-cooker-sterilization-boil-bag-mushroom-cultivation]]
 - [[straw-based-mushroom-cultivation-boil-bag-method]]

@@ -32,7 +32,7 @@ M. tuberiformis is relevant to understanding the ecology of [[sequestrate-fungi]
 
 ## Ecological Role
 
-As a hypogeous ectomycorrhizal fungus, M. tuberiformis relies on mycophagous animals for [[spore-dispersal]]. Small mammals excavate and consume the fruiting bodies, dispersing spores through their feces. The fungus forms mycorrhizal associations with trees, contributing to forest nutrient cycling and tree health.
+As a hypogeous ectomycorrhizal fungus, M. tuberiformis relies on mycophagous animals for [[aquatic-fungi-spore-dispersal-ingold]]. Small mammals excavate and consume the fruiting bodies, dispersing spores through their feces. The fungus forms mycorrhizal associations with trees, contributing to forest nutrient cycling and tree health.
 
 ## References
 

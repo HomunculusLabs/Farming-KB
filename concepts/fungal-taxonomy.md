@@ -29,7 +29,7 @@ branches of the fungal tree of life.
 ## Notable Mycologists
 
 The history of fungal taxonomy is intertwined with the work of pioneering
-mycologists. Elias Magnus Fries established the foundation of [[spore-dispersal]]
+mycologists. Elias Magnus Fries established the foundation of [[aquatic-fungi-spore-dispersal-ingold]]
 ## Practical Considerations
 
 Successful implementation of Fungal Taxonomy requires attention to

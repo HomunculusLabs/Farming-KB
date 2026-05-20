@@ -28,7 +28,7 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-U. gigas represents the wood wasp-[[fungal-symbiosis]] strategy, where fungi pre-digest wood for insect nutrition. This is analogous to leaf-cutter ant fungus gardens but occurs within wood substrate. For mycologists, the siricid-Amylostereum symbiosis demonstrates how fungi can be employed as external digestive systems, a principle that underpins [[mushroom-cultivation]] on woody substrates.
+U. gigas represents the wood wasp-[[fungal-symbiosis]] strategy, where fungi pre-digest wood for insect nutrition. This is analogous to leaf-cutter ant fungus gardens but occurs within wood substrate. For mycologists, the siricid-Amylostereum symbiosis demonstrates how fungi can be employed as external digestive systems, a principle that underpins [[accessible-mushroom-cultivation-for-disabilities]] on woody substrates.
 
 ## Ecological Role
 

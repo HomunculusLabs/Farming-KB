@@ -51,7 +51,7 @@ The slower onset of mescaline compared to LSD is clinically significant, as it a
 
 ## Relevance to Psychedelic Studies
 
-In the framework of *The Psychedelic Experience*, mescaline is considered equivalent to LSD-25 and psilocybin in its capacity to induce the three bardos of ego-dissolution, hallucinatory reconstitution, and return. The specific chemical vehicle matters less than the depth of the experience and the quality of [[set-and-setting]].
+In the framework of *The Psychedelic Experience*, mescaline is considered equivalent to LSD-25 and psilocybin in its capacity to induce the three bardos of ego-dissolution, hallucinatory reconstitution, and return. The specific chemical vehicle matters less than the depth of the experience and the quality of [[lsd-set-and-setting-framework]].
 
 Leary's approach treats mescaline as interchangeable with LSD for the purposes of guided psychedelic sessions. The dosage guidelines reflect adjustments for mescaline's different potency curve, but the experiential terrain — the dissolution of ego, the confrontation with archetypal imagery, and the potential for transcendence — is considered fundamentally similar across classical psychedelics.
 

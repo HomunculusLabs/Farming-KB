@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Parafilm is a flexible, stretchable, self-sealing laboratory film used extensively in [[mushroom-cultivation]] to seal petri plates, test tubes, and other culture containers. It creates a semi-permeable barrier that allows limited gas exchange while preventing desiccation and contamination of agar cultures and stored specimens. In mushroom laboratories, Parafilm is one of the most frequently used consumable supplies, appearing at virtually every stage of culture work from isolation through storage.
+Parafilm is a flexible, stretchable, self-sealing laboratory film used extensively in [[accessible-mushroom-cultivation-for-disabilities]] to seal petri plates, test tubes, and other culture containers. It creates a semi-permeable barrier that allows limited gas exchange while preventing desiccation and contamination of agar cultures and stored specimens. In mushroom laboratories, Parafilm is one of the most frequently used consumable supplies, appearing at virtually every stage of culture work from isolation through storage.
 
 ## Classification
 

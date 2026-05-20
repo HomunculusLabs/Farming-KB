@@ -6,7 +6,7 @@ tags: [fungi, cortinariaceae, psychoactive, gymnopilus, wood-inhabiting, basidio
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ""raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
+  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
   - "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=194849"
 ---
 ## Gymnopilus fulgens

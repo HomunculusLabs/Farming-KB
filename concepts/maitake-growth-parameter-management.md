@@ -144,7 +144,7 @@ influence actual optimal conditions:
 ## See Also
 
 - [[grifola-frondosa]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycelium]]
 - [[spore]]
 - [[maitake-fruiting-body-development]]

@@ -102,7 +102,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - growing-gourmet-growing-room-humidification-climate-control
 - [[doc]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[growing-gourmet-gypsum-lime-ph-management]]
 - [[bean-growing-guide]]
 - [[brassica-growing-guide]]

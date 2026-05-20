@@ -9,7 +9,7 @@ tags: [technique, environmental-control, moisture, watering, cultivation]
 
 ## Description
 
-Moisture management is one of the two most critical factors (alongside temperature) in successful [[mushroom-cultivation]]. It encompasses the control of water content in the compost, the casing layer, and the atmosphere of the growing space. Benjamin Minge Duggar emphasized that many cultivation failures could be attributed to improper moisture management — either excessive watering that drowns spawn, or insufficient watering that prevents fruiting.
+Moisture management is one of the two most critical factors (alongside temperature) in successful [[accessible-mushroom-cultivation-for-disabilities]]. It encompasses the control of water content in the compost, the casing layer, and the atmosphere of the growing space. Benjamin Minge Duggar emphasized that many cultivation failures could be attributed to improper moisture management — either excessive watering that drowns spawn, or insufficient watering that prevents fruiting.
 
 ## Classification
 

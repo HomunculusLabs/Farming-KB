@@ -81,7 +81,7 @@ type: entity
 ## Relevance to Cultivation and Mycology
 
 1. **Matching soil to crop:** Understanding succession allows gardeners to create appropriate F:B ratios for their target crops — bacterial for vegetables, fungal for perennials and trees
-2. **[[mushroom-cultivation]]:** Fungal-dominant soils (late successional stages) are natural environments for many [[classification-of-cultivated-mushroom-species]]; substrate preparation mimics late-successional soil conditions
+2. **[[accessible-mushroom-cultivation-for-disabilities]]:** Fungal-dominant soils (late successional stages) are natural environments for many [[classification-of-cultivated-mushroom-species]]; substrate preparation mimics late-successional soil conditions
 3. **Transition management:** Converting a lawn (grass stage) to a perennial garden (shrub stage) or orchard (hardwood stage) requires intentional shifts in soil biology
 4. **Restoration ecology:** Rebuilding soil food webs on degraded land follows the successional progression
 5. **Forest management:** Understanding why conifer forests are maximally fungally dominated informs [[sustainable-forestry-coppicing-and-woodlot-management]] practices

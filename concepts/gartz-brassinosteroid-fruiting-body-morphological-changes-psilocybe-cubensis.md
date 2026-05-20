@@ -140,7 +140,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[fruiting-body-development]]
 - [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[gartz-psilocybin-alkaloid-baeocystin-chemistry]]
 - [[guzman-allen-gartz-cyanescens-complex-coprinifacies-bohemica-european-taxonomy]]
 - [[guzman-allen-gartz-mixtec-narcotic-puffballs-ott-investigation]]

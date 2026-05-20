@@ -103,7 +103,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[psilocybin-and-mystical-experience]]
 - [[psilocybin-mushroom-habitat-and-ecology]]
 - [[psilocybin-mushrooms-species-and-pharmacology]]

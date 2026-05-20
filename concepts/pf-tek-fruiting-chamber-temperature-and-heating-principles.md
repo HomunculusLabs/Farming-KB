@@ -40,7 +40,7 @@ environment that kills the very humidity the fungus depends on.
 
 ## Optimal Temperature Ranges
 
-[[psilocybe-cubensis]] fruits well at temperatures as low as 60F (15C). PF
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] fruits well at temperatures as low as 60F (15C). PF
 reported seeing the fungi growing perfectly at temperatures even cooler than
 60F. The fungi grow more slowly at cooler temperatures but develop normally.
 When grown at warm or heated room temperature, they grow very fast. The

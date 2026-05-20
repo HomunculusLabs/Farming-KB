@@ -6,7 +6,7 @@ tags: [alkaloid, stimulant, sympathomimetic, bronchodilator, entheogen-related]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ""raw/papers/shulgin-a-tihkal.md"
+  - "raw/papers/shulgin-a-tihkal.md"
 ---
 
 ## Ephedrine

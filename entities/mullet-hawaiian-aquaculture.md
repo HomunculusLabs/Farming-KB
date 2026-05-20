@@ -44,7 +44,7 @@ Mullet (primarily *Mugil cephalus*, the striped mullet) was the primary fish spe
 
 ## Relevance to Cultivation and Mycology
 
-- **Aquaponics integration**: Mullet could be integrated into aquaponic systems where fish waste nutrients feed plant production. The nutrient-rich water from mullet ponds could irrigate [[mushroom-cultivation]] beds, though careful attention to water chemistry would be needed.
+- **Aquaponics integration**: Mullet could be integrated into aquaponic systems where fish waste nutrients feed plant production. The nutrient-rich water from mullet ponds could irrigate [[accessible-mushroom-cultivation-for-disabilities]] beds, though careful attention to water chemistry would be needed.
 
 - **Detritivore ecology**: Mullet's feeding ecology—consuming detritus and algae—parallels the role of [[saprophytic-fungi]] in terrestrial systems. Both convert decomposing organic matter into protein-rich biomass. Understanding mullet pond ecology can inform the design of fungal decomposition systems.
 

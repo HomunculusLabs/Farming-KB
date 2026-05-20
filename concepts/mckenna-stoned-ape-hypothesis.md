@@ -5,7 +5,7 @@ tags: [evolution, consciousness, psychedelics, anthropology, mycology]
 created: 2026-05-08
 ---
 
-## McKenna's [[psilocybe-cubensis]]*, a psilocybin-containing mushroom that fruits prolifically on bovine dung in tropical and subtropical grasslands.
+## McKenna's [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, a psilocybin-containing mushroom that fruits prolifically on bovine dung in tropical and subtropical grasslands.
 
 ### Incidental Consumption
 

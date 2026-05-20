@@ -153,9 +153,4 @@ Chamomile is an excellent companion plant:
 
 ## See Also
 
-- [[yarrow-plant-guide]] -- combine with chamomile in calming tea blends
-- [[holy-basil-tulsi-guide]] -- another adaptogenic tea herb for daily use
-
-## Related
-
-- [[st-johns-wort-guide]]
+- [[growing-gourmet-hypholoma-capnoides-cultivation]]

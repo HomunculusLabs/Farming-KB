@@ -140,7 +140,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[det]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycology]]
 - [[bacillus-megaterium]]
 - [[bacillus-pumilus-nasa-challenge-organism-sterilization-validation]]

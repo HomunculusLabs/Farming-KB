@@ -36,7 +36,7 @@ type: entity
 
 - Demonstrates that [[fungal-decomposition]] of lignocellulose occurs across all major ecosystem types, with different taxa filling similar ecological roles.
 - The enzyme versatility of *Tricladium* species suggests potential biotechnological applications for lignocellulose degradation under submerged conditions.
-- Understanding aquatic fungal decomposition has implications for submerged fermentation processes used in some [[mushroom-cultivation]] approaches.
+- Understanding aquatic fungal decomposition has implications for submerged fermentation processes used in some [[accessible-mushroom-cultivation-for-disabilities]] approaches.
 - The adaptation of tetraradiate spores for aquatic dispersal illustrates the evolutionary convergence in spore morphology driven by habitat.
 - Aquatic hyphomycete ecology informs our understanding of fungal diversity and the range of enzymes available for substrate degradation.
 - Knowledge of *Tricladium* enzyme systems may contribute to developing new approaches for biological pretreatment of mushroom substrates.

@@ -47,7 +47,7 @@ Duggar published extensively on fungal physiology throughout his career,
 with particular attention to the environmental triggers that initiate fruiting
 body formation in commercially important species. His experimental protocols
 for controlling temperature gradients and humidity cycling in growing chambers
-anticipated the [[mushroom-cultivation]]
+anticipated the [[accessible-mushroom-cultivation-for-disabilities]]
 practice today.
 
 ## Legacy in Mycology
@@ -137,7 +137,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - aureomycin discovery chlortetracycline
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[brassinosteroid]]
 - [[mycology]]
 - [[benjamin-duggar]]

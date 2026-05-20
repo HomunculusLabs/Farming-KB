@@ -16,7 +16,7 @@ created: 2026-05-07
 
 The legal status [[hplc-analysis-of-psilocybin-and-psilocin]]) and the fact that mushrooms containing these substances grow wild across much of the continent. Between 2001 and 2006, six EU member states tightened legislation specifically targeting mushrooms, each responding to rising prevalence but using different legal mechanisms to address the unique regulatory challenges posed by a living organism that contains [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] are controlled under the **1971 UN Convention on Psychotropic Substances**, listed in Schedule I under the names "psilocybine" and "psilocine" (or "psilotsin"). All EU member states control these substances at the national level accordingly.
 
-However, the Convention controls the [[psilocybe-cubensis]] or other fungi/spores containing psilocin or psilocybin, including grown, dried or processed in any other manner" as a controlled substance.
+However, the Convention controls the [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] or other fungi/spores containing psilocin or psilocybin, including grown, dried or processed in any other manner" as a controlled substance.
 
 ### Netherlands (November 2002)
 

@@ -33,7 +33,7 @@ population management in commercial facilities.
 
 ## Sources of Contamination
 
-Air is the primary vector for contaminant spores in [[mushroom-cultivation]]
+Air is the primary vector for contaminant spores in [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycotoxins]]
 - [[spore]]
 

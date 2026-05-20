@@ -62,7 +62,7 @@ must be kept from damaging newly planted vegetables and other crops.
   [[soil-food-web]] essential for nutrient cycling.
 - **Pest Control**: Active foraging on insects reduces pest pressure on crops,
   potentially including fungus gnat larvae and other soil-dwelling pests that
-  affect [[mushroom-cultivation]].
+  affect [[accessible-mushroom-cultivation-for-disabilities]].
 - **Compost Integration**: When used in deep-litter systems, chicken manure
   mixed with carbon-rich bedding materials creates excellent substrate for
   thermophilic composting, which can produce material suitable for mushroom

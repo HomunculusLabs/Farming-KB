@@ -149,7 +149,3 @@ Grow clover, alfalfa, buckwheat, or daikon radish between grows to protect soil 
 - Slower to correct deficiencies (biological processes take time)
 - Requires understanding of soil biology
 - Heavier containers, not ideal for rapid-cycle grows
-
-## Related
-
-- [[cannabis-seed-germination]]

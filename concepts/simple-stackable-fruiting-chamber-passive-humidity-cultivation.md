@@ -11,7 +11,7 @@ topics: [mycology, mushroom-cultivation, fruiting-chamber, humidity-management, 
 
 ## Overview
 
-The GUILD cultivation guide describes a minimalist [[fruiting-chamber]] system
+The GUILD cultivation guide describes a minimalist [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] system
 that achieves reliable mushroom production without humidifiers, cool-mist
 devices, or other powered [[passive-humidity-fruit-chamber-polyethylene-sheeting]], with [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]*.
 

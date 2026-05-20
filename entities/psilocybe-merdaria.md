@@ -19,7 +19,7 @@ sources:
 ## Overview
 
 **Psilocybe merdaria** is a small, coprophilous mushroom in the family Hymenogastraceae, known from temperate regions of Europe and [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]].
-- **[[psilocybe-cubensis]]** — Much larger and more potent dung-inhabiting species; the most well-known psychoactive coprophilous mushroom
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** — Much larger and more potent dung-inhabiting species; the most well-known psychoactive coprophilous mushroom
 - **deconica coprophila** — A non-psychoactive dung species that may be confused with inactive Psilocybe specimens
 
 ## Ethnobotanical and Legal Status

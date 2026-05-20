@@ -92,6 +92,6 @@ Monitoring protocols help track population trends and inform adaptive management
 ## See Also
 - [[laccaria-laccata]]
 - [[ectomycorrhizal-fungi]]
-- [[spore-dispersal]]
-- [[mushroom-cultivation]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[cenococcum-geophilum]]

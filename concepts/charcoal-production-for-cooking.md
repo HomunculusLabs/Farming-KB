@@ -148,6 +148,7 @@ Any charcoal production method can produce biochar for soil amendment:
 See [[composting-methods-comparison]] for integration with biochar production.
 
 ## Safety Considerations
+
 ## See Also
 
-- [[comparison-charcoal-production-for-cooking-vs-rocket-stove-design]]
+- [[comparison-charcoal-production-for-cooking-vs-solar-cooking-methods]]

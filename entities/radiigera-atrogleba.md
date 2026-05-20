@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-*Radiigera atrogleba* is a sequestrate (truffle-like) ectomycorrhizal fungus in the family Mesophelliaceae. Like other members of this family, it produces below-ground fruiting bodies and relies on mycophagous animals for [[spore-dispersal]]. This species has been specifically identified as one of the most effective [[mycorrhizal-fungi]] for degrading polychlorinated biphenyls (PCBs).
+*Radiigera atrogleba* is a sequestrate (truffle-like) ectomycorrhizal fungus in the family Mesophelliaceae. Like other members of this family, it produces below-ground fruiting bodies and relies on mycophagous animals for [[aquatic-fungi-spore-dispersal-ingold]]. This species has been specifically identified as one of the most effective [[mycorrhizal-fungi]] for degrading polychlorinated biphenyls (PCBs).
 
 ## Classification
 

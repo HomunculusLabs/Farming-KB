@@ -148,6 +148,7 @@ Not all bat species are equally affected:
 ### What You Can Do
 - Install bat houses to provide alternative summer roosting habitat
 - Avoid disturbing hibernating bats in caves and mines (decontaminate gear between sites)
+
 ## See Also
 
-- [[water-harvesting-and-conservation-in-permaculture]]
+- [[mollison-designers-home-energy-conservation-and-solar-heating]]

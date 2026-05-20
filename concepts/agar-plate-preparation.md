@@ -6,7 +6,7 @@ type: concept
 
 ## Agar Plate Preparation
 
-Preparing agar plates is one of the foundational skills in [[mushroom-cultivation]] and mycological laboratory work. An agar plate is a petri dish containing agar—a gelatinous seaweed extract commonly used as a substrate for tissue cultures. The process involves preparing a nutrient-rich gel, sterilizing it, pouring it into sterile petri plates, and optionally supplementing it with additives tailored to specific mushroom species or experimental goals.
+Preparing agar plates is one of the foundational skills in [[accessible-mushroom-cultivation-for-disabilities]] and mycological laboratory work. An agar plate is a petri dish containing agar—a gelatinous seaweed extract commonly used as a substrate for tissue cultures. The process involves preparing a nutrient-rich gel, sterilizing it, pouring it into sterile petri plates, and optionally supplementing it with additives tailored to specific mushroom species or experimental goals.
 
 ## Understanding Agar
 

@@ -9,13 +9,13 @@ sources: []
 
 # Biochar in Agriculture
 
-Biochar is a carbon-rich, porous material produced by pyrolyzing biomass (heating in the absence of oxygen). When incorporated into soil, it can improve water retention, nutrient holding capacity, microbial habitat, and long-term carbon storage. Biochar has been used for centuries — most notably in Amazonian Terra Preta soils — and is gaining renewed attention in regenerative agriculture.
+Biochar is a carbon-rich, porous material produced by pyrolyzing biomass (heating in the absence of oxygen). When incorporated into soil, it can improve water retention, nutrient holding capacity, microbial habitat, and long-term carbon storage. Biochar has been used for centuries — most notably in Amazonian [[terra-preta]] soils — and is gaining renewed attention in [[regenerative-agriculture]].
 
 ## Biochar Production
 
 ### Pyrolysis Basics
 
-Biochar is created through pyrolysis, the thermal decomposition of organic material at 400-900°C in low-oxygen conditions. The process drives off volatile gases (syngas) and leaves behind a stable carbon matrix.
+Biochar is created through pyrolysis, the thermal [[decomposition]] of organic material at 400-900°C in low-oxygen conditions. The process drives off volatile gases (syngas) and leaves behind a stable carbon matrix.
 
 ### Production Methods
 
@@ -95,7 +95,7 @@ Never use treated wood, painted wood, plastic, or glossy paper as biochar feedst
 
 ## Charging Biochar with Nutrients
 
-Fresh biochar has an extremely high cation exchange capacity (CEC) but is essentially an empty sponge. If applied raw, it will adsorb nutrients from the surrounding soil, potentially creating a temporary nutrient deficiency for plants. "Charging" or "activating" biochar pre-loads it with nutrients and microbial life before soil application.
+Fresh biochar has an extremely high [[cation-exchange-capacity]] (CEC) but is essentially an empty sponge. If applied raw, it will adsorb nutrients from the surrounding soil, potentially creating a temporary nutrient deficiency for plants. "Charging" or "activating" biochar pre-loads it with nutrients and microbial life before soil application.
 
 ### Compost Charging (Recommended)
 
@@ -112,7 +112,7 @@ The easiest and most effective method:
 Faster but less thorough:
 
 1. Soak biochar in a nutrient-rich liquid for 24-48 hours
-2. Use compost tea, liquid fish fertilizer, diluted urine, or manure tea
+2. Use compost tea, liquid fish fertilizer, diluted urine, or [[manure-tea]]
 3. Drain and apply the charged biochar to soil
 4. Repeat 2-3 times for more thorough charging
 
@@ -130,7 +130,7 @@ For larger applications:
 1. Apply biochar to the soil surface
 2. Immediately apply a layer of compost or manure on top (2-4 inches)
 3. The nutrients from the compost leach into the biochar over weeks to months
-4. Plant cover crops to help incorporate and cycle nutrients through the biochar
+4. Plant [[cover-crops]] to help incorporate and cycle nutrients through the biochar
 
 ## Soil Benefits
 
@@ -144,7 +144,7 @@ Biochar's high surface area and negative charge attract and hold positively char
 
 ### Microbial Habitat
 
-Biochar pores provide refuge for beneficial bacteria, fungi, and protozoa. The porous structure protects microbes from predation and desiccation. Mycorrhizal fungi colonize biochar surfaces, using it as a substrate for hyphal growth and nutrient exchange. See microbes for more on soil biology.
+Biochar pores provide refuge for beneficial bacteria, fungi, and protozoa. The porous structure protects microbes from predation and desiccation. [[mycorrhizal-fungi]] colonize biochar surfaces, using it as a substrate for hyphal growth and nutrient exchange. See microbes for more on soil biology.
 
 ### pH Buffering
 ## See Also

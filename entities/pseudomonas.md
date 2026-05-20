@@ -25,7 +25,7 @@ sources:
 rod-shaped bacteria in the family Pseudomonadaceae. With over 270 named
 species, it is one of the most ecologically versatile bacterial genera,
 inhabiting soil, water, plant surfaces, and animal tissues. Members play
-critical roles in [[mushroom-cultivation]].
+critical roles in [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Taxonomy and Characteristics
 

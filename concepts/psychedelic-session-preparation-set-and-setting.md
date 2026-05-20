@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The specific reaction to a psychedelic substance has little to do with the chemical itself and is chiefly a function of **[[set-and-setting]]** — the psychological predisposition of the individual and the environment in which the session takes place. Understanding and carefully preparing these two dimensions is the single most important factor in determining the quality and safety of a [[leary-psychedelic-experience-bardo-mapping]]. Leary, Metzner, and Alpert emphasize that no amount of pharmacological knowledge can substitute for proper attention to set and setting.
+The specific reaction to a psychedelic substance has little to do with the chemical itself and is chiefly a function of **[[lsd-set-and-setting-framework]]** — the psychological predisposition of the individual and the environment in which the session takes place. Understanding and carefully preparing these two dimensions is the single most important factor in determining the quality and safety of a [[leary-psychedelic-experience-bardo-mapping]]. Leary, Metzner, and Alpert emphasize that no amount of pharmacological knowledge can substitute for proper attention to set and setting.
 
 ## Set
 

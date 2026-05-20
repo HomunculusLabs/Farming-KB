@@ -8,7 +8,7 @@ type: entity
 
 Open air mushroom culture refers to the practice of cultivating Agaricus mushrooms outdoors in beds or frames without permanent enclosing structures. This method has been practiced with limited success in regions with favorable climatic conditions, particularly Southern England and potentially parts of California, but is generally considered unreliable for commercial production due to the difficulty of controlling temperature and moisture variables that are critical for consistent fruiting.
 
-The technique occupies a niche position in [[mushroom-cultivation]] success depends on matching environmental conditions to the organism's biological requirements — a principle that applies universally across all cultivation methods and species.
+The technique occupies a niche position in [[accessible-mushroom-cultivation-for-disabilities]] success depends on matching environmental conditions to the organism's biological requirements — a principle that applies universally across all cultivation methods and species.
 - **Low-input cultivation potential**: For hobbyists or small-scale growers in suitable climates, open-air methods require minimal infrastructure investment compared to purpose-built mushroom houses or cave systems.
 - **Natural spawn spreading**: The practice of spreading spawn on lawns and pastures, while unreliable, represents a low-effort approach that may occasionally yield returns in favorable seasons, making it worth attempting when spawn is available.
 - **Regional adaptation**: The discussion of California's suitability for outdoor cultivation illustrates the importance of regional climate analysis when selecting cultivation methods for any mushroom species.

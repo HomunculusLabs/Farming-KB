@@ -5,7 +5,7 @@ tags:
 ---
      1|     1|---
      2|     2|title: [[mushroom-geotropism]] and Spore Formation
-     3|     3|source: Badham (1982) Tropisms in the Mushroom [[psilocybe-cubensis]]
+     3|     3|source: Badham (1982) Tropisms in the Mushroom [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
      4|     4|extracted: 2026-05-10
      5|     5|type: concept
      6|     6|tags: [mycology, geotropism, psilocybe-cubensis, spore-formation, tropism, mushroom-development, gravitropism]

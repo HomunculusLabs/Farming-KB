@@ -27,7 +27,7 @@ Research on mammalian consumption of fungi has revealed important ecosystem func
 - **Fogel and Trappe (1978)** synthesized evidence of fungus consumption (mycophagy) by small animals, establishing mycophagy as a significant ecological interaction
 - **Claridge and May (1994)** surveyed mycophagy among Australian mammals, revealing the geographic breadth of this interaction
 - **Cork and Kenagy (1989a, 1989b)** quantified the nutritional value of hypogeous fungi for forest-dwelling squirrels and measured rates of spore passage and retention through rodent digestive tracts
-- **Trappe and Maser (1976)** demonstrated that spores of *Glomus macrocarpus* could germinate after passage through rodent digestive tracts, confirming the viability of animal-mediated [[spore-dispersal]]
+- **Trappe and Maser (1976)** demonstrated that spores of *Glomus macrocarpus* could germinate after passage through rodent digestive tracts, confirming the viability of animal-mediated [[aquatic-fungi-spore-dispersal-ingold]]
 - **Mangan and Adler (2002)** documented seasonal dispersal of [[arbuscular-mycorrhizal-fungi]] by spiny rats in neotropical forests
 
 ## Collembola-Fungal Interactions

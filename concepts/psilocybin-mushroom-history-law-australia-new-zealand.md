@@ -10,7 +10,7 @@ type: concept
 
 - **Pre-1934:** First suspected hallucinogenic mushroom intoxication in Australia (Cleland's colleague's parents ate dung-inhabiting mushrooms, experienced hilarity)
 - **1941–1945:** Numerous reports of "hysteria fungus" poisonings attributed to *Panaeolus ovatus* — actually likely *[[copelandia-cyanescens]]* (which is not psychoactive)
-- **1958:** Aberdeen and Vogt documented *[[psilocybe-cubensis]]* as the first known psychoactive mushroom in Australia (Springbrook, Qld)
+- **1958:** Aberdeen and Vogt documented *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* as the first known psychoactive mushroom in Australia (Springbrook, Qld)
 - **1970:** Picker and Rickards found psilocybin (but no psilocin) in *P. subaeruginosa* — second confirmed species
 - **1970:** Perkel et al. developed HPLC method for quantifying psilocin/psilocybin from dried *P. subaeruginosa* specimens
 - **1978:** Guzmán and Watling described three new species (*P. eucalypta*, *P. australiana*, *P. tasmaniana*) based on intense bluing reactions

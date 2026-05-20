@@ -51,7 +51,7 @@ Approximately 48-72 hours after Stage 1 onset under controlled conditions.
 
 ### Tropic Behavior
 
-- **[[psilocybe-cubensis]]
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[four-stage-basidiocarp-development-psilocybe-cubensis-badham]]
 - [[dom]]
 

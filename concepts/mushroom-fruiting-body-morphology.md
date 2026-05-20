@@ -39,7 +39,7 @@ for the physics of spore release from these surfaces.
 ## The Stalk (Stipe)
 
 The stalk, or stipe, supports the cap and elevates the spore-bearing
-surface above the substrate for improved [[spore-dispersal]] by air
+surface above the substrate for improved [[aquatic-fungi-spore-dispersal-ingold]] by air
 currents. Stalks may be central, eccentric, or lateral, and in some
 species absent entirely, as in bracket fungi and some puffballs. The
 surface texture can be smooth, fibrous, scaly, or powdery, and may bear

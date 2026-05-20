@@ -10,7 +10,7 @@ tags: [mycology, evaporative-demand, tropism, wind, humidity, light, temperature
 ## Overview
 
 Badham (1982) proposed that the primary mechanism driving stipe curvature in
-*[[psilocybe-cubensis]]* is differential evaporative demand across the stipe surface.
+*[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* is differential evaporative demand across the stipe surface.
 This evaporative demand is a function of four interacting [[duggar-mushroom-environmental-factors-temperature-moisture-light]]:
 wind, humidity, light, and temperature. The combined effect of these factors
 determines the rate of water loss from the stipe surface, which in turn modulates

@@ -53,7 +53,7 @@ Peyote is relevant to the broader context of entheogenic cultivation:
 - Cultivation techniques include grafting peyote onto faster-growing cactus rootstock (e.g., San Pedro) to accelerate growth
 - The conservation concerns around wild peyote populations parallel concerns about wild mushroom habitats
 - Peyote's mescaline is structurally similar to the neurotransmitters affected by psilocybin
-- Understanding peyote traditions provides cultural context for the broader entheogenic movement that includes [[mushroom-cultivation]]
+- Understanding peyote traditions provides cultural context for the broader entheogenic movement that includes [[accessible-mushroom-cultivation-for-disabilities]]
 - The legal landscape around peyote (protected for NAC use) provides a model for potential psilocybin regulatory frameworks
 
 ## Sources

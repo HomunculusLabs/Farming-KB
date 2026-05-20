@@ -18,7 +18,7 @@ of its mature cap, ranks second in potency at approximately 1.2% total
 tryptamines. Originally from the Pacific Northwest, it has become a widespread
 species in temperate regions worldwide, often found in [[psilocybe-bohemica]], found in Central Europe, matches Liberty Caps in
 potency at approximately 1% total tryptamines. It grows in deciduous and
-coniferous forests on [[psilocybe-cubensis]] is by far the most widely cultivated and consumed
+coniferous forests on [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] is by far the most widely cultivated and consumed
 psilocybin mushroom globally, yet it has one of the lowest potencies among
 psychoactive Psilocybe species at approximately 0.6% average total
 tryptamines. However, certain cultivated strains of cubensis have been

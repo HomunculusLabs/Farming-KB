@@ -148,7 +148,8 @@ longest-lasting fencing option, with a lifespan of 40+ years.
 - Plan gate placement to allow easy movement between paddocks.
 
 ### Species-Specific Notes
+
 ## See Also
 
-- [[cannabis-screen-of-green-scrog-guide]]
-- [[fukuoka-livestock-energy-inefficiency-caloric-cost]]
+- [[holzer-livestock-integration]]
+- [[fukuoka-critique-modern-livestock]]

@@ -70,9 +70,9 @@ Monitoring protocols help track population trends and inform adaptive management
 
 - [[comparison-seed-saving-vs-hybrid-seeds]]
 - [[gardening-when-it-counts]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[oner-la-roja-panama-red-colombian-sativa-jamaica-seeds]]
-- [[plant-propagation]]
+- [[permaculture-plant-propagation-guide]]
 - [[seed-company-supplier-reference]]
 - [[seed-saving-techniques]]
 - [[steve-solomon]]

@@ -19,7 +19,7 @@ Contaminants fall into three main categories: molds, bacteria, and yeasts. Each 
 
 ### Trichoderma (Green Mold)
 
-The most feared and common contaminant in mushroom cultivation. Trichoderma is an aggressive mold that rapidly colonizes substrates, turning them a distinctive green color as it sporulates.
+The most feared and common contaminant in [[accessible-mushroom-cultivation-for-disabilities]]. [[trichoderma]] is an aggressive mold that rapidly colonizes substrates, turning them a distinctive green color as it sporulates.
 
 **Identification**:
 - Early stage: white, fluffy growth that can be mistaken for mushroom mycelium.
@@ -29,7 +29,7 @@ The most feared and common contaminant in mushroom cultivation. Trichoderma is a
 - On bulk substrate: green patches on the surface or within the substrate.
 - Distinctive sweet, earthy smell.
 
-**Cause**: Airborne spores, contaminated grain, insufficient sterilization, or poor sterile technique.
+**Cause**: Airborne spores, contaminated grain, insufficient [[sterilization]], or poor sterile technique.
 
 **Response**:
 - On grain jars: discard immediately. Seal jar before removing from the grow area.
@@ -47,7 +47,7 @@ A common genus of mold with several species that appear in mushroom cultures.
 - Typically appears as distinct circular colonies on agar or grain.
 - Powdery texture when mature.
 
-**Response**: Discard contaminated cultures. Aspergillus spores are common in indoor environments and can cause respiratory infections in immunocompromised individuals. Handle contaminated materials with care.
+**Response**: Discard contaminated cultures. [[aspergillus]] spores are common in indoor environments and can cause respiratory infections in immunocompromised individuals. Handle contaminated materials with care.
 
 ### Penicillium
 
@@ -75,7 +75,7 @@ A common genus of mold with several species that appear in mushroom cultures.
 **Identification**:
 - Very fast-growing, grayish-white mycelium that quickly produces tall, dark sporangia (looks like tiny black pins on stalks).
 - Appears "fuzzy" and taller than typical mold growth.
-- Common on bread and fruit, occasionally on grain spawn.
+- Common on bread and fruit, occasionally on [[grain-spawn]].
 
 **Response**: Discard immediately. Mucor spreads rapidly and produces enormous spore loads.
 
@@ -120,7 +120,7 @@ A common genus of mold with several species that appear in mushroom cultures.
 **Identification**:
 - Creamy, white, raised colonies on agar.
 - May appear bubbly or frothy.
-- In liquid culture, produces a creamy layer on the surface.
+- In [[liquid-culture]], produces a creamy layer on the surface.
 - In grain jars, kernels may appear excessively wet with a yeasty or beer-like smell.
 
 **Response**: Discard contaminated cultures. Yeast is less aggressive than mold but still renders cultures unusable.
@@ -148,8 +148,3 @@ Agar is the best diagnostic tool because all contaminants are visible against th
 - **Surface patches**: Green, blue, or colored growth = mold contamination.
 - **Cobweb**: Gray, fast-growing, cobweb-like growth = cobweb mold.
 - **Slimy areas**: Bacterial contamination.
-## See Also
-
-- [[mushroom-contamination-identification-and-troubleshooting]]
-- [[contamination-identification-prevention-mushroom-cultivation]]
-- [[poisonous-mushroom-identification-myths]]

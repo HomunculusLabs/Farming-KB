@@ -50,7 +50,7 @@ worlds" accessible in expanded states of consciousness and affirms the reality
 of "[[shamanic-vs-western-psychedelic-healing]] therapy tradition, despite
 operating within a materialist paradigm, had independently arrived at
 conclusions that support the shamanic worldview. The discovery of transpersonal
-re [[set-and-setting]] and setting are more
+re [[lsd-set-and-setting-framework]] and setting are more
 important than pharmacology, and the consistent reports of encounters with
 apparently independent intelligences under psychedelics all point toward a
 reality that James's radical empiricism had anticipated.

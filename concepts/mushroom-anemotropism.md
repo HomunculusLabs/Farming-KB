@@ -8,7 +8,7 @@ created: 2026-05-11
 
 ## Mushroom Anemotropism
 
-Anemotropism is the growth response of an organism to wind or air currents. In mushrooms, anemotropism describes the phenomenon where the stipe (stem) of a basidiocarp grows into the direction of airflow, orienting the fruiting body toward moving air rather than away from it. This behavior was systematically documented by Edmond R. Badham in a 1982 study of *[[psilocybe-cubensis]]* published in *Mycologia* (Vol. 74, No. 2, pp. 275-279).
+Anemotropism is the growth response of an organism to wind or air currents. In mushrooms, anemotropism describes the phenomenon where the stipe (stem) of a basidiocarp grows into the direction of airflow, orienting the fruiting body toward moving air rather than away from it. This behavior was systematically documented by Edmond R. Badham in a 1982 study of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* published in *Mycologia* (Vol. 74, No. 2, pp. 275-279).
 
 ## Mechanism of Wind-Directed Growth
 

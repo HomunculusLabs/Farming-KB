@@ -33,7 +33,7 @@ changes.
 ## Related
 
 - [[nitroaromatic-degradation-by-white-rot-fungi]] Topics
-- [[ligninolytic-enzymes]]
+- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[mycoremediation]]
 - [[mycoremediation-techniques|Mycoremediation Techniques]]
 

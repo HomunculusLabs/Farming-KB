@@ -14,7 +14,7 @@ sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-
 
 ## Taxonomy and Etymology
 
-The species was described by Gastón Guzmán and is named after R. Gordon Wasson (1898-1986), the American banker, author, and amateur ethnomycologist who, along with his Russian-born wife Valentina Pavlovna Wasson (1901-1958), became the first known Westerners to participate in a [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and catalyzed decades of scientific research into their chemistry, effects, and [[psilocybe-caerulipes]], [[psilocybe-cubensis]].
+The species was described by Gastón Guzmán and is named after R. Gordon Wasson (1898-1986), the American banker, author, and amateur ethnomycologist who, along with his Russian-born wife Valentina Pavlovna Wasson (1901-1958), became the first known Westerners to participate in a [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and catalyzed decades of scientific research into their chemistry, effects, and [[psilocybe-caerulipes]], [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]].
 
 ## See Also
 

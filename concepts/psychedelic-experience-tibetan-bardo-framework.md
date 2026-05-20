@@ -81,7 +81,7 @@ The book represents one of the earliest serious attempts to integrate Eastern co
 ## See Also
 
 - Bardo Thodol (Tibetan Book of the Dead)
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[psychedelic-harm-reduction]]
 - Aldous Huxley — *The Doors of Perception*
 ## Practical Applications

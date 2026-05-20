@@ -21,7 +21,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ## See Also
 
 - [[5-meo-dmt-compound-profile]] — parent structure comparison
-- [[psilocybe-cubensis]] — natural source mushrooms
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] — natural source mushrooms
 ## Practical Applications
 
 4 Ho Det (Tihkal) has a range of practical applications that make it relevant to

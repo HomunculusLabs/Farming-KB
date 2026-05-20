@@ -144,24 +144,12 @@ Start with 5-8 varieties. Recommended starter mix:
 ## Sales Channels
 
 - Farmers markets: see [[farmers-market-selling-guide]] for booth and display guidance
-- Online: Etsy, Shopify, see online homestead sales
+- Online: Etsy, Shopify, see [[online-homestead-sales]]
 - CSA additions: herb shares, dried herb boxes
 - Local stores: natural food stores, gift shops, co-ops
 - Herbalists and practitioners: wholesale to acupuncturists, naturopaths
 - Holiday markets and craft fairs: high gift-buying season (Oct-Dec)
 
-## Scaling
+## See Also
 
-- Start with 3-5 products, expand based on demand
-- Track best-sellers and seasonal trends
-- Invest in a small dehydrator ($50-200) early
-- Label printer ($200-500) improves professionalism
-- Build an email list for repeat customers
-- Consider wholesale at 50% of retail once production capacity allows
-- Target revenue: $500-2,000/month at medium scale
-
-The herb business integrates naturally with [[homestead-mushroom-business]] at market and builds on [[food-fermentation-guide|fermentation]] and [[food-preservation-canning|preservation]] skills.
-
-## Related
-
-- [[online-homestead-sales]]
+- [[homestead-mushroom-business]]

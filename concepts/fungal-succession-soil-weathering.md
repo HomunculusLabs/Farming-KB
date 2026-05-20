@@ -34,7 +34,7 @@ fueling extensive extraradical [[fungal-mycelial-networks-nutrient-translocation
 nitrogen. These networks contribute significantly to **soil carbon** pools through
 continuous hyphal turnover. **Truffles** (hypogeous ECM fruiting bodies) represent
 a specialized reproductive strategy within late-successional ECM communities,
-relying on mammalian vectors rather than wind for [[spore-dispersal]]. In the
+relying on mammalian vectors rather than wind for [[aquatic-fungi-spore-dispersal-ingold]]. In the
 **tallgrass prairie**, **vesicular-[[arbuscular-mycorrhizae]]** (VAM, now arbuscular
 mycorrhizae) dominate, forming intraradical structures — the **vesicle** and
 arbuscule — that facilitate bidirectional nutrient exchange with grasses such as

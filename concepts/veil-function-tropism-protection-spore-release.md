@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The partial veil (also called the annular veil or velum partiale) in *[[psilocybe-cubensis]]* and other agaric mushrooms may serve a previously underappreciated function: protecting the uppermost and unexpanded portion of the stipe from wind and light during the early phases of directed growth, prior to the final reorientation of the cap for spore release. This hypothesis, proposed by Badham (1982) in the context of tropism research, connects the veil's physical presence to the mushroom's two-phase growth strategy.
+The partial veil (also called the annular veil or velum partiale) in *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and other agaric mushrooms may serve a previously underappreciated function: protecting the uppermost and unexpanded portion of the stipe from wind and light during the early phases of directed growth, prior to the final reorientation of the cap for spore release. This hypothesis, proposed by Badham (1982) in the context of tropism research, connects the veil's physical presence to the mushroom's two-phase growth strategy.
 
 ## The Two-Phase Growth Model
 
@@ -16,7 +16,7 @@ Badham's research demonstrated that *Psilocybe cubensis* exhibits two distinct p
 
 **Phase 1: Anemotropic stipe elongation.** During Stages 1-2 of development, the stipe grows toward the direction of greatest evaporative demand, typically into the wind. Individual cells of the stipe may respond independently to this stimulus through differential growth rates caused by asymmetric boundary layer distribution.
 
-**Phase 2: Negative geotropic reorientation.** Beginning at Stage 3 (sporulation onset), a substance produced in the gills modifies the first tropism, causing the mushroom to respond primarily to gravity. The pileus turns upward and the cap opens with lamellae facing downward for [[spore-dispersal]].
+**Phase 2: Negative geotropic reorientation.** Beginning at Stage 3 (sporulation onset), a substance produced in the gills modifies the first tropism, causing the mushroom to respond primarily to gravity. The pileus turns upward and the cap opens with lamellae facing downward for [[aquatic-fungi-spore-dispersal-ingold]].
 
 ## The Veil as a Protective Structure
 

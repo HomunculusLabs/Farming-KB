@@ -46,7 +46,7 @@ A chinampa is a traditional Mesoamerican agricultural system consisting of artif
 ## Relevance to Cultivation and Mycology
 - The constant moisture environment of chinampa beds is analogous to controlled mushroom growing conditions
 - Mud and organic dredgings from chinampa canals would serve as excellent mushroom substrate material
-- The edge-maximisation principle applies directly to mushroom bed and [[fruiting-chamber]] design
+- The edge-maximisation principle applies directly to mushroom bed and [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] design
 - Integrated multi-trophic systems parallel the multi-organism approach in mycorestoration
 
 ## References

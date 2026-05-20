@@ -148,6 +148,6 @@ Once the LC is fully colonized (cloudy white with visible mycelial masses):
 
 ## Contamination in Liquid Culture
 ## See Also
-
 - [[comparison-mushroom-liquid-culture-vs-spore-syringe]]
 - [[query-how-to-make-liquid-culture-for-mushroom-cultivation]]
+

@@ -113,7 +113,7 @@ Flexible approaches that respond to changing conditions. For shirota psilocin ps
 ## See Also
 
 - [[psilocybin]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.

@@ -14,7 +14,7 @@ Before adding mushrooms to beverages, brewers should have several successful bat
 
 ### Cleanliness
 
-As with [[mushroom-cultivation]], cleanliness is critical in brewing. While brewing is more forgiving than sterile tissue culture, contamination can accumulate across batches and alter the dynamics of [[comparison-mead-vs-kvass-fermented-beverages]]. Strive for complete cleanliness at every stage.
+As with [[accessible-mushroom-cultivation-for-disabilities]], cleanliness is critical in brewing. While brewing is more forgiving than sterile tissue culture, contamination can accumulate across batches and alter the dynamics of [[comparison-mead-vs-kvass-fermented-beverages]]. Strive for complete cleanliness at every stage.
 
 ### Yeast Management
 

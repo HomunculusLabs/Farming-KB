@@ -32,7 +32,7 @@ A. olicaeotinctus is relevant to understanding feeding preferences of soil micro
 
 ## Ecological Role
 
-As a sequestrate ectomycorrhizal fungus, A. olicaeotinctus forms hypogeous fruiting bodies and relies on animals (particularly small mammals) for [[spore-dispersal]]. Its below-ground fruiting habit makes it a component of forest soil biodiversity and a food resource for soil-dwelling invertebrates and small mammals.
+As a sequestrate ectomycorrhizal fungus, A. olicaeotinctus forms hypogeous fruiting bodies and relies on animals (particularly small mammals) for [[aquatic-fungi-spore-dispersal-ingold]]. Its below-ground fruiting habit makes it a component of forest soil biodiversity and a food resource for soil-dwelling invertebrates and small mammals.
 
 ## References
 

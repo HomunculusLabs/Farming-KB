@@ -28,7 +28,7 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-C. sphagnetorum influences fungal community dynamics through grazing on both mycorrhizal and [[saprotrophic-fungi]]. In cultivation systems with acidic substrates (common in mycological operations), enchytraeids may affect mycelial establishment and fruiting body formation. Their role in decomposition and [[nutrient-mineralization]] makes them relevant to understanding substrate ecology in [[mushroom-cultivation]]. The species' positive influence on plant growth in the absence of mycorrhizae suggests it may enhance nutrient availability through microbial grazing and organic matter turnover.
+C. sphagnetorum influences fungal community dynamics through grazing on both mycorrhizal and [[saprotrophic-fungi]]. In cultivation systems with acidic substrates (common in mycological operations), enchytraeids may affect mycelial establishment and fruiting body formation. Their role in decomposition and [[nutrient-mineralization]] makes them relevant to understanding substrate ecology in [[accessible-mushroom-cultivation-for-disabilities]]. The species' positive influence on plant growth in the absence of mycorrhizae suggests it may enhance nutrient availability through microbial grazing and organic matter turnover.
 
 ## Ecological Role
 

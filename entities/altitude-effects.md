@@ -48,7 +48,7 @@ Altitude effects describe the systematic changes in temperature, atmospheric pre
 
 - **Species range by altitude**: High islands and mountain ranges enable growing a wide range of plant and fungal species from ocean to mountain-top within a single property, making altitudinal diversity one of the greatest assets in permaculture design.
 - **Mycorrhizal zonation**: Ectomycorrhizal fungal communities shift dramatically with altitude, tracking their host trees along elevational gradients. Understanding altitude effects helps predict which mycorrhizal species will be present and productive at any given elevation.
-- **[[mushroom-cultivation]] at altitude**: Reduced atmospheric pressure and lower boiling points affect sterilisation procedures for substrate preparation. Longer sterilisation times or pressure cookers calibrated for altitude are needed to achieve proper Pasteurisation.
+- **[[accessible-mushroom-cultivation-for-disabilities]] at altitude**: Reduced atmospheric pressure and lower boiling points affect sterilisation procedures for substrate preparation. Longer sterilisation times or pressure cookers calibrated for altitude are needed to achieve proper Pasteurisation.
 - **Snow management for fungal beds**: Snow cover insulating over-wintering mushroom beds (e.g., outdoor shiitake logs) protects mycelium from lethal freezing while maintaining adequate moisture levels through the dormant season.
 - **UV radiation effects**: Higher UV at altitude may affect the viability of spore prints, liquid cultures, and surface-inoculated substrates. Indoor or covered cultivation becomes more important at higher elevations to protect sensitive biological materials.
 

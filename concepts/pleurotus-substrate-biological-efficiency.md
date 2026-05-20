@@ -97,7 +97,7 @@ Related topics include [[aquaculture-design-principles-and-energy-efficiency]] a
 
 - [[mycelium]]
 - [[spore]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[basidiomycota]]
 - [[ascomycota]]
 ## Practical Applications

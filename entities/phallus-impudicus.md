@@ -9,7 +9,7 @@ tags: [species, basidiomycete, saprotroph, wood-decomposer, cord-forming]
 
 ## Description
 
-Phallus impudicus, commonly known as the common stinkhorn, is a basidiomycete fungus in the family Phallaceae. It is well-known for its distinctive phallic fruiting body and strong odor that attracts insects for [[spore-dispersal]]. Beyond its notoriety, P. impudicus is an important saprotrophic decomposer of wood and plant litter in temperate forest ecosystems, forming [[mycelial-cord]] systems that translocate nutrients between decomposing resources.
+Phallus impudicus, commonly known as the common stinkhorn, is a basidiomycete fungus in the family Phallaceae. It is well-known for its distinctive phallic fruiting body and strong odor that attracts insects for [[aquatic-fungi-spore-dispersal-ingold]]. Beyond its notoriety, P. impudicus is an important saprotrophic decomposer of wood and plant litter in temperate forest ecosystems, forming [[mycelial-cord]] systems that translocate nutrients between decomposing resources.
 
 ## Classification
 

@@ -72,7 +72,7 @@ For self-pick operations (alternative to cage culture):
 - Deep mulch systems create favorable microhabitats for beneficial fungi
 - Organic management practices (liquid manures, mulch) support soil fungal communities
 - The protected environment could potentially be adapted for specialty mushroom production alongside berry crops
-- Moisture management techniques are transferable to [[mushroom-cultivation]] bed preparation
+- Moisture management techniques are transferable to [[accessible-mushroom-cultivation-for-disabilities]] bed preparation
 - Integrated biological pest control principles apply equally to [[permaculture]]
 - [[vaccinium-corymbosum-entity]]
 

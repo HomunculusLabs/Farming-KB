@@ -9,7 +9,7 @@ created: 2026-05-11
 
 ## Overview
 
-In January 2006, the EMCDDA conducted a systematic snapshot of online shops selling hallucinogenic mushroom products across Europe. Using search engines Google and AltaVista with four keyword combinations ("magic mushrooms shop," "buy magic mushrooms," "[[psilocybe-cubensis]] shop," "buy psilocybe cubensis"), researchers identified 39 unique online shops. The vast majority (82%) were based in the Netherlands, with the remaining 18% located in Austria, Germany, the UK, and Poland.
+In January 2006, the EMCDDA conducted a systematic snapshot of online shops selling hallucinogenic mushroom products across Europe. Using search engines Google and AltaVista with four keyword combinations ("magic mushrooms shop," "buy magic mushrooms," "[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] shop," "buy psilocybe cubensis"), researchers identified 39 unique online shops. The vast majority (82%) were based in the Netherlands, with the remaining 18% located in Austria, Germany, the UK, and Poland.
 
 ## Product Types and Price Ranges
 

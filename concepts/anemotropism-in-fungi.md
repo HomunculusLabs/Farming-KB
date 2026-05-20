@@ -77,7 +77,7 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[gravitropism]]
 - [[brassinosteroid]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 ## Benefits and Limitations
 
 Anemotropism In Fungi offers several advantages in practice, including adaptability to

@@ -20,7 +20,7 @@ architecture of the planet.
 Powell emphasises that psilocybin is a natural product of Nature, no more
 artificial than the oxygen we breathe. Rarer perhaps, and not absolutely
 essential for survival, yet certainly not artificial. This reframing is
-significant because it situates [[natural-intelligence]] And [[powell-natural-intelligence-and-the-universal-computation]],
+significant because it situates [[powell-natural-intelligence-and-the-universal-computation]] And [[powell-natural-intelligence-and-the-universal-computation]],
 [[powell-paradigm-shifting-and-the-psychedelic-revolution]]
 
 ## See Also

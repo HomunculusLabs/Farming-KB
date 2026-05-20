@@ -67,7 +67,7 @@ Gradually reduce humidity over 7 to 10 days by propping the dome open incrementa
 ## Related
 
 - [[query-how-to-grow-medicinal-herbs-at-home]]
-- [[plant-propagation]]
+- [[permaculture-plant-propagation-guide]]
 
 ## Overview
 

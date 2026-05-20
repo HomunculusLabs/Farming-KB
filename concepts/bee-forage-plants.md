@@ -42,7 +42,7 @@ brood production and nectar for energy.
 |---|---|---|---|
 | Maple (Acer spp.) | Feb-Apr | Pollen | Early tree pollen; critical for spring build-up |
 | Dandelion | Apr-May | Both | Excellent early pollen; often undervalued |
-| Crimson clover | Apr-Jun | Both | Annual; excellent cover crop |
+| Crimson clover | Apr-Jun | Both | Annual; excellent [[cover-crop]] |
 | Fruit trees (apple, cherry, plum) | Mar-May | Both | High-value orchard forage |
 | Willow (Salix spp.) | Mar-Apr | Pollen | Very early pollen source |
 | Wild mustard | Apr-May | Both | Common weed; good early forage |
@@ -78,7 +78,7 @@ winter bees.
 | Goldenrod (Solidago spp.) | Aug-Oct | Both | Primary fall honey source; produces strong honey |
 | Aster (Symphyotrichum spp.) | Aug-Oct | Both | Pairs with goldenrod; critical fall pollen |
 | Japanese knotweed | Aug-Oct | Nectar | Invasive; produces late fall honey |
-| Ivy (Hedera helix) | Oct-Nov | Nectar | Very late; provides winter stores in mild climates |
+| Ivy ([[hedera-helix]]) | Oct-Nov | Nectar | Very late; provides winter stores in mild climates |
 | Autumn-blooming crocus | Sep-Oct | Both | Saffron crocus; pollen and nectar |
 | Sedum (Autumn Joy) | Sep-Oct | Both | Ornamental; excellent late forage |
 | Smartweed | Aug-Oct | Both | Common wetland plant; good pollen |
@@ -128,10 +128,10 @@ dutch white clover as a living mulch that also feeds bees.
 Trees are the most efficient forage plants — a single mature tree provides
 the nectar and pollen of acres of herbaceous plants. Key bee trees:
 
-- **Tupelo** (Nyssa ogeche) — premium honey, southeastern US
-- **Basswood** (Tilia americana) — excellent nectar, northern US
-- **Black locust** (Robinia pseudoacacia) — prolific nectar, light honey
-- **Sourwood** (Oxydendrum arboreum) — prized Appalachian honey
+- **Tupelo** ([[nyssa-ogeche]]) — premium honey, southeastern US
+- **Basswood** ([[tilia-americana]]) — excellent nectar, northern US
+- **Black locust** ([[robinia-pseudoacacia]]) — prolific nectar, light honey
+- **Sourwood** ([[oxydendrum-arboreum]]) — prized Appalachian honey
 - **Eucalyptus** — prolific in mild climates; medicinal honey
 - **Manuka** (Leptospermum scoparium) — New Zealand; see
   [[honey-varieties-guide]]
@@ -148,7 +148,3 @@ aware of:
 - Rhododendron/azalea — grayanotoxin in nectar ("mad honey")
 - Mountain laurel (Kalmia latifolia) — toxic nectar
 - Yellow jessamine (Gelsemium sempervirens) — toxic nectar and pollen
-
-For honey production from specific forage, see [[honey-varieties-guide]].
-For seasonal management aligned with forage availability, see
-[[beekeeping-seasonal-calendar]].

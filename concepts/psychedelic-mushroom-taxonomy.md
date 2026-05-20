@@ -21,7 +21,7 @@ As of 2026, over 180 species within Psilocybe are recognized as containing psilo
 
 ### Key Species Groups
 
-- **[[psilocybe-cubensis]]** — The most widely cultivated species, native to subtropical regions of the Americas. Large, robust fruiting bodies with moderate potency. Often found on bovine dung.
+- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** — The most widely cultivated species, native to subtropical regions of the Americas. Large, robust fruiting bodies with moderate potency. Often found on bovine dung.
 - **[[psilocybe-semilanceata]]** — "Liberty cap," native to temperate grasslands of Europe and North America. Among the most potent species naturally. Found in association with grasses, particularly in autumn.
 - **[[psilocybe-cyanescens]]** — "Wavy caps," found on decaying wood chips in temperate coastal regions. Known for high potency and blueing reaction.
 - **[[psilocybe-azurescens]]** — Among the most potent known species, restricted to the Pacific Northwest coast of North America. Grows on dune grasses and decaying wood.

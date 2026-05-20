@@ -16,7 +16,7 @@ Paul Stamets' *Growing Gourmet and Medicinal Mushrooms* remains the single most
 comprehensive practical reference in the field, documenting methods for dozens of
 species, each demanding precise environmental parameters and tailored techniques.
 
-Today, gourmet [[mushroom-cultivation]] spans from basement hobby setups to
+Today, gourmet [[accessible-mushroom-cultivation-for-disabilities]] spans from basement hobby setups to
 multi-million-dollar commercial operations. The global specialty mushroom market
 continues to expand as consumers discover species beyond the common button mushroom.
 

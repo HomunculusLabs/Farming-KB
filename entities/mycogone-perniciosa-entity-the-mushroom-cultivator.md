@@ -12,7 +12,7 @@ sources: ["raw/papers/the-mushroom-cultivator-stamets.md"]
 
 ## Taxonomy
 
-Mycogone perniciosa Magnus is a [[spore-dispersal]]. Watering infected areas further spreads
+Mycogone perniciosa Magnus is a [[aquatic-fungi-spore-dispersal-ingold]]. Watering infected areas further spreads
 this contaminant to healthy regions of the crop.
 
 ## Role in Mushroom Cultivation

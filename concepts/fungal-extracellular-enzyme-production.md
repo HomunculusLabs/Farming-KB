@@ -31,7 +31,7 @@ regular repeating structure that enzymes can bind to specifically.
 - **Amylases** -- degrade starch to sugars; produced by fungi like
   [[singh-entomopathogenic-fungi-biocontrol-agents]]
 - **Phytases** -- hydrolyze phytic acid in animal feed, improving
-  [[ligninolytic-enzymes]] induced under nutrient (nitrogen/carbon)
+  [[singh-ligninolytic-enzymes-fungal-bioremediation]] induced under nutrient (nitrogen/carbon)
   limitation
 - Protease induced by proteins or peptides
 

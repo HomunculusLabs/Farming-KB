@@ -32,7 +32,7 @@ The paper reported a **growth-promoting effect** of 22S,23S-homobrassinolide on 
 
 This paper opened a genuinely novel line of inquiry at the intersection of plant physiology and mycology. Its principal contributions include:
 
-- **Cross-kingdom hormone sensitivity**: Demonstrating that a class of compounds thought to be exclusively plant-specific could affect fungal growth raised fundamental questions about the evolutionary conservation of steroid [[mushroom-cultivation]] and industrial mycology.
+- **Cross-kingdom hormone sensitivity**: Demonstrating that a class of compounds thought to be exclusively plant-specific could affect fungal growth raised fundamental questions about the evolutionary conservation of steroid [[accessible-mushroom-cultivation-for-disabilities]] and industrial mycology.
 
 ## Open Questions Raised
 

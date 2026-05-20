@@ -9,7 +9,7 @@ created: 2026-05-09
 
 ## Overview
 
-The PF TEK substrate is a cultivation medium developed by [[mushroom-cultivation]] accessible with common kitchen supplies.
+The PF TEK substrate is a cultivation medium developed by [[accessible-mushroom-cultivation-for-disabilities]] accessible with common kitchen supplies.
 
 ## Core Formula (Per Half-Pint Jar)
 
@@ -31,7 +31,7 @@ Vermiculite is the critical distinguishing ingredient of the PF TEK. When myceli
 
 - **Moisture retention:** Fine-grade vermiculite (particles ~1 mm) holds significantly more water than coarse grade (~4–5 mm particles). Fine grade is strongly preferred.
 - **Air space:** The expanded mineral flakes create channels for gas exchange, critical during both colonization and fruiting.
-- **[[saprophytic-fungi]] prefer. In nature, *[[psilocybe-cubensis]]* colonizes nutrient-rich substrates such as decaying plant matter and herbivore dung. The brown rice powder provides a balanced mix of complex carbohydrates, proteins, and minerals. Vermiculite mimics the airy, water-retentive structure of decomposing organic matter.
+- **[[saprophytic-fungi]] prefer. In nature, *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* colonizes nutrient-rich substrates such as decaying plant matter and herbivore dung. The brown rice powder provides a balanced mix of complex carbohydrates, proteins, and minerals. Vermiculite mimics the airy, water-retentive structure of decomposing organic matter.
 
 The mass spore inoculation approach of the PF TEK is also biologically significant. Rather than cloning mushroom tissue (which leads to senescence and declining vigor over generations), direct spore-to-substrate inoculation preserves the full genetic diversity of the spore race. Each fruiting event represents a unique genetic expression, and the spores produced carry the complete reproductive capability of the organism. This eliminates the senescence problem that plagues cloned cultures.
 

@@ -14,7 +14,7 @@ The human brain tripled in size over approximately 3 million years — from ~500
 
 ## The Setting: African Grasslands and Dung-Inhabiting Mushrooms
 
-As forests contracted and grasslands expanded in East Africa during the late Miocene and Pliocene (5–2 million years ago), early hominids were forced into new ecological niches. *[[psilocybe-cubensis]]* and related species grow exclusively in the dung of herbivores — particularly cattle. As hominids followed grazing herds across the savannah, they encountered these mushrooms repeatedly.
+As forests contracted and grasslands expanded in East Africa during the late Miocene and Pliocene (5–2 million years ago), early hominids were forced into new ecological niches. *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and related species grow exclusively in the dung of herbivores — particularly cattle. As hominids followed grazing herds across the savannah, they encountered these mushrooms repeatedly.
 
 The hypothesis proposes that the domestication of cattle (a major step in human [[cultural-evolution-and-psychoactive-substances]]) brought humans into even closer proximity to these mushrooms, deepening what McKenna called an "interspecies codependency."
 

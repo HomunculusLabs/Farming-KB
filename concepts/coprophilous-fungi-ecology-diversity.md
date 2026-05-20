@@ -86,7 +86,7 @@ fungal sexual reproduction and genetics.
 - [[mycorrhizal-fungi-diversity-ecology-mutualism]]
 - [[neurotropic-fungi-colombia-species-diversity-and-ecology]]
 - [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

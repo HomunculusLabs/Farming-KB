@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, livestock, byproducts, processing, preser
 sources: []
 ---
 # Animal Butcher and Processing
-On-farm slaughter and processing is a fundamental homesteading skill that
+On-farm slaughter and processing is a fundamental [[homesteading]] skill that
 provides complete control over meat quality, animal welfare at harvest, and
 food safety. Processing your own animals eliminates processing fees and
 allows full utilization of every part of the animal. This guide covers the
@@ -148,8 +148,8 @@ sheep, goats, pigs, and cattle).
   rib/loin, then break individual cuts.
 - **Ground meat:** Trim and grind trimmings. Mix with fat (pork fat or
   beef fat) for proper consistency. 80/20 or 75/25 lean-to-fat ratio.
+
 ## See Also
 
 - [[animal-harvest-and-processing]]
-- [[permaculture-designers-manual-animal-forage-systems]]
-- [[permaculture-animal-integration]]
+- [[animal-tractoring]]

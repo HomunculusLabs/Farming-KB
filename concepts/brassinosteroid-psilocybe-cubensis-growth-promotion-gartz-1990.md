@@ -79,7 +79,7 @@ However, the morphological changes (suppressed annulus) may be undesirable for c
 
 The study was a short communication in *Naturwissenschaften* and as such presents limited experimental detail. It was conducted with only one brassinosteroid (22S,23S-homobrassinolide) at one concentration (10⁻² ppm) on one fungal strain of one species. No statistical analysis (standard deviations, p-values) was reported for the quantitative data. Key unanswered questions include:
 
-- Whether the effect is generalisable to other *Psilocybe* species, to other psilocybin-containing fungi, or to commercially cultivated edible mushrooms (e.g., *[[psilocybe-cubensis]]
+- Whether the effect is generalisable to other *Psilocybe* species, to other psilocybin-containing fungi, or to commercially cultivated edible mushrooms (e.g., *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[brassinosteroid-growth-promotion-psilocybe-cubensis]]
 - [[psilocybin]]
 

@@ -7,7 +7,7 @@ type: entity
 ## Description
 
 Grain spawn is the intermediate cultivation medium that bridges the gap between pure agar
-cultures and bulk fruiting substrates in [[mushroom-cultivation]]. It consists of cereal
+cultures and bulk fruiting substrates in [[accessible-mushroom-cultivation-for-disabilities]]. It consists of cereal
 grains such as wheat, rye, millet, milo, or corn that have been hydrated, sterilized, and
 inoculated with mushroom mycelium. Each individual colonized grain acts as a self-
 contained fuel tank of nutrients, allowing the mycelium to rapidly outcompete molds and

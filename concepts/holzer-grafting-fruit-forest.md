@@ -72,7 +72,7 @@ Holzer's pig paddock system uses animals to root and fertilize soil in controlle
 Ancient grain varieties selected for mountain conditions show superior resilience and nutritional quality.
 - [[sepp-holzer]]
 - [[hugelkultur]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 
 ## Overview
 

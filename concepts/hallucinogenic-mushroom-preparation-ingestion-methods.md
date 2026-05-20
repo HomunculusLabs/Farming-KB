@@ -109,7 +109,7 @@ mushrooms, many of which relate to preparation and ingestion:
 4. **Individual metabolism** — Body weight, stomach contents, enzyme
    activity, and tolerance all affect intensity and duration of effects.
 
-5. **[[set-and-setting]]** — Psychological mindset and physical environment
+5. **[[lsd-set-and-setting-framework]]** — Psychological mindset and physical environment
    profoundly shape the experience, often more than pharmacological
    variables alone.
 

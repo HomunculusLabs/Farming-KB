@@ -32,7 +32,7 @@ each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
 successful implementations combine established [[doc]]
 - [[composting]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 
 ## Overview
 

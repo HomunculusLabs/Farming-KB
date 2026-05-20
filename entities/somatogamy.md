@@ -6,7 +6,7 @@ type: entity
 
 ## Overview
 
-Somatogamy is a process of [[basidiomycete-mating-systems-sexual-reproduction]] in fungi in which the somatic (vegetative) cells of two compatible monokaryotic mycelia fuse together, establishing a dikaryotic mycelium. This process is central to the life cycle of gilled mushrooms (Agaricales) and other [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]], including all species relevant to [[mushroom-cultivation]].
+Somatogamy is a process of [[basidiomycete-mating-systems-sexual-reproduction]] in fungi in which the somatic (vegetative) cells of two compatible monokaryotic mycelia fuse together, establishing a dikaryotic mycelium. This process is central to the life cycle of gilled mushrooms (Agaricales) and other [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]], including all species relevant to [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Classification
 
@@ -80,7 +80,7 @@ Different fungal groups employ different strategies for establishing the dikaryo
 - **Spermatization** (some Ascomycetes, rusts): Fusion of specialized spermatia with receptive hyphae
 - **Planogametic reproduction** (Chytridiomycetes): Fusion of motile gametes
 
-Somatogamy is the mechanism employed by all gilled mushrooms relevant to indoor cultivation, including *[[psilocybe-cubensis]]*, *[[agaricus-bisporus]]*, *Pleurotus* species, and others.
+Somatogamy is the mechanism employed by all gilled mushrooms relevant to indoor cultivation, including *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, *[[agaricus-bisporus]]*, *Pleurotus* species, and others.
 
 ## Sources
 

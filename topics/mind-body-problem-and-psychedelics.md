@@ -1,6 +1,6 @@
 ---
 title: "Mind-Body Problem and Psychedelics"
-subtitle: ""Consciousness, Brain Chemistry, and the Philosophical Status of ""
+subtitle: "Consciousness, Brain Chemistry, and the Philosophical Status of "
 tags: [consciousness, psychedelics, philosophy-of-mind, neuropharmacology, psilocybin]
 date: 2026-05-02
 updated: 2026-05-02

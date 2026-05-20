@@ -26,7 +26,7 @@ Henry Munn was an anthropologist and writer who contributed the chapter "The Mus
 
 ## Relevance to Cultivation and Mycology
 
-- Munn's focus on "the mushrooms of language" provides important ethnographic context for understanding how psilocybin-containing mushrooms are used in their indigenous cultural context — information relevant to anyone studying [[mushroom-cultivation]] for research or therapeutic purposes.
+- Munn's focus on "the mushrooms of language" provides important ethnographic context for understanding how psilocybin-containing mushrooms are used in their indigenous cultural context — information relevant to anyone studying [[accessible-mushroom-cultivation-for-disabilities]] for research or therapeutic purposes.
 - The Mazatec mushroom ceremony represents one of the best-documented indigenous psychoactive mushroom traditions, and Munn's linguistic analysis adds an important dimension to the understanding of how mushroom experiences are processed and communicated.
 - His work on the relationship between psilocybin experiences and enhanced verbal expression connects to modern research on psychedelics and language processing, creativity, and therapeutic communication.
 - The Mazatec tradition studied by Munn involves specific protocols for [[mushroom-harvesting]], preparation, and ceremonial use that represent traditional mycological knowledge relevant to contemporary psilocybin research.

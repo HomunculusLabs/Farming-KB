@@ -27,7 +27,7 @@ updated: 2026-04-26
 
 Asia and Oceania together encompass enormous mycological diversity, from the
 tropical forests of Southeast Asia to the temperate zones of Japan and New
-Zealand. New Guinea harbors unique sacred [[allegro-amanita-muscaria-properties-and-pharmacology]], [[psilocybe-cubensis]], P. goniospora, P. indica (endemic), P. natarajanii
+Zealand. New Guinea harbors unique sacred [[allegro-amanita-muscaria-properties-and-pharmacology]], [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], P. goniospora, P. indica (endemic), P. natarajanii
   (endemic), P. pseudoaztecorum (endemic), P. semilanceata**
 
 ### Southeast Asia

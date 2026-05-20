@@ -38,7 +38,7 @@ Mycena is a large genus of small basidiomycete fungi in the family Mycenaceae, c
 
 ## Decomposition and Enzyme Activity
 
-- Produces cellulolytic and [[ligninolytic-enzymes]] as a basidiomycete decomposer
+- Produces cellulolytic and [[singh-ligninolytic-enzymes-fungal-bioremediation]] as a basidiomycete decomposer
 - Colonizes resources after initial ascomycete and mitosporic species have depleted simple carbohydrate sources
 - Part of the successional transition from sugar fungi to basidiomycetes as described by Swift et al. (1979)
 
@@ -69,7 +69,7 @@ Mycena is a large genus of small basidiomycete fungi in the family Mycenaceae, c
 
 Several Mycena species produce bioluminescent fruit bodies and mycelia:
 - Mycena chlorophos: The most famous bioluminescent species, found in subtropical and tropical Asia
-- Bioluminescence is thought to attract insects for [[spore-dispersal]]
+- Bioluminescence is thought to attract insects for [[aquatic-fungi-spore-dispersal-ingold]]
 - The light-producing reaction involves luciferin-luciferase chemistry
 - Bioluminescence has also been observed in mycelia of some species, suggesting additional ecological functions beyond spore dispersal
 

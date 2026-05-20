@@ -148,7 +148,8 @@ In addition to standard emergency supplies, include:
 
 - Work with local agencies on [[watershed-management]] and drainage improvements
 - Consider relocating structures if flooding is frequent and severe
+
 ## See Also
 
 - [[wildfire-preparedness-guide]]
-- [[hurricane-preparedness-guide]]
+- [[mollison-flood-retardation-by-trees-and-earthworks]]

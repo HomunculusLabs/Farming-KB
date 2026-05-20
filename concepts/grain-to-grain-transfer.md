@@ -136,7 +136,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]]
 - [[det]]
 - [[mycelium]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[bigwood-beug-miniculture-rye-grain-flush-variation-method]]
 - [[fukuoka-barley-winter-grain-method]]
 - [[grain-spawn-preparation]]

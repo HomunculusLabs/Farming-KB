@@ -148,24 +148,8 @@ Harvesting method:
 - Cut larger roots into 1/4 inch slices; smaller roots can be left whole
 - For tincturing: Process fresh roots immediately into alcohol
 - For drying: Spread pieces on screens in a warm, well-ventilated area
-  (95-105 degrees F in a dehydrator)
-- Roots are dry when they snap cleanly with no flexible center
-- Dried roots have an extremely strong, pungent odor -- store in airtight
-  containers in a location where the smell won't be problematic
-- Store in a cool, dark place; potency lasts 1-2 years
-
-## Yields
-
-Expect approximately 0.5-1 lb of fresh root per plant (2nd year), yielding
-roughly 0.15-0.3 lb dried per plant.
 
 ## See Also
 
-- [[passionflower-growing-guide]] -- combine with valerian in sleep and
-  relaxation formulas
-- [[chamomile-growing-guide]] -- another gentle sedative herb for the
-  homestead medicine cabinet
-
-## Related
-
-- [[st-johns-wort-guide]]
+- [[growing-gourmet-hypholoma-capnoides-cultivation]]
+- [[green-cannabis-ph-management-cannabis-growing]]

@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-[[mushroom-cultivation]] serves as a proven **[[mollison-designers-banana-circle-waste-recycling-system]] for rural communities. The handbook's case studies
+[[accessible-mushroom-cultivation-for-disabilities]] serves as a proven **[[mollison-designers-banana-circle-waste-recycling-system]] for rural communities. The handbook's case studies
 (Part I, Chapters 1–2) reveal a consistent pattern: low startup costs, locally available substrates,
 and strong market demand make [[organic-mushroom-farming-and-mycoremediation-overview]] an accessible and profitable enterprise even for
 resource-poor households.

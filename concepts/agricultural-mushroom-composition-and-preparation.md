@@ -58,7 +58,7 @@ product and reduced mushroom yields.
 During the initial fermentation phase, the raw materials are assembled into piles or
 windrows. The microbial populations naturally present in the manure and straw begin to
 break down the organic matter, generating considerable heat. Internal temperatures in
-the [[mushroom-cultivation]]
+the [[accessible-mushroom-cultivation-for-disabilities]]
 - [[dom]]
 - [[mycelium]]
 

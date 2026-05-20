@@ -40,7 +40,7 @@ respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
 [[mushroom-cultivation-history]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[dom]]
 
 ## Overview

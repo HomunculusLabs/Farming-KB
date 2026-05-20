@@ -76,7 +76,7 @@ always compact, confirming that appendages add unwelcome mass and speed descent.
 - [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]]
 - [[ingoldian-aquatic-fungi-and-spore-dispersal]]
 - [[ingoldian-aquatic-fungi]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[decomposition]]
 
 ## Overview

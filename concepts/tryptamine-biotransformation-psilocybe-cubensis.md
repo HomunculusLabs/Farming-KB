@@ -9,7 +9,7 @@ type: concept
 ## Overview
 
 In 1989, [[jochen-gartz]] published a landmark paper in *Planta Medica* demonstrating that
-mycelial cultures of *[[psilocybe-cubensis]]* could convert exogenously supplied tryptamine
+mycelial cultures of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* could convert exogenously supplied tryptamine
 into psilocin at remarkably high concentrations — up to 3.3% of the dry mass of fruit
 bodies. This revealed the extraordinary hydroxylation and methylation capacity of the
 enzymatic machinery in *P. cubensis* and opened new avenues for understanding fungal

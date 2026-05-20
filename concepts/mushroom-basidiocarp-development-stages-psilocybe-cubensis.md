@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The development of the mushroom *[[psilocybe-cubensis]]* basidiocarp (fruiting body) can be divided into four distinct morphological stages, as described by Badham (1982) in controlled wind tunnel experiments. This staging system provides a framework for understanding how environmental stimuli differentially affect mushroom growth at different phases of development.
+The development of the mushroom *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* basidiocarp (fruiting body) can be divided into four distinct morphological stages, as described by Badham (1982) in controlled wind tunnel experiments. This staging system provides a framework for understanding how environmental stimuli differentially affect mushroom growth at different phases of development.
 
 Each stage is characterized by specific changes in pileus (cap) morphology, stipe (stem) elongation behavior, and responsiveness to environmental cues including wind, light, and gravity. The transition between stages marks fundamental shifts in the tropic responses guiding growth direction.
 
@@ -67,7 +67,7 @@ A sterile mutant strain of the same isolate was also studied for comparison. The
 
 The four-stage model highlights that mushroom development is not a continuous process of uniform growth, but rather a series of distinct phases with fundamentally different regulatory mechanisms. The shift from evaporative-demand-driven anemotropism to spore-production-linked negative geotropism represents a remarkable example of developmental reprogramming in fungi.
 
-This staging system has implications for understanding how mushrooms optimize [[spore-dispersal]] in natural environments. The initial anemotropic growth may help elevate the fruiting body above the substrate boundary layer, while the subsequent geotropic reorientation ensures horizontal pileus placement for effective spore release into air currents.
+This staging system has implications for understanding how mushrooms optimize [[aquatic-fungi-spore-dispersal-ingold]] in natural environments. The initial anemotropic growth may help elevate the fruiting body above the substrate boundary layer, while the subsequent geotropic reorientation ensures horizontal pileus placement for effective spore release into air currents.
 
 ## References
 

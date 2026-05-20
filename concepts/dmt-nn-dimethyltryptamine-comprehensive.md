@@ -142,6 +142,6 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[dmt]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[psilocybin]]
 - [[4-acetoxy-nn-dimethyltryptamine]]

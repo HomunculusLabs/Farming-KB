@@ -35,7 +35,7 @@ Octotemnus glabriculus is a small ciid beetle (family Ciidae) that specializes i
 - Serves as a key example of how even small invertebrate grazers can significantly impact fungal reproduction, challenging assumptions about the insignificance of fruiting-body grazing.
 - Relevant to [[outdoor-mushroom-cultivation]] and forest-based cultivation systems where bracket fungi and polypores are part of the ecosystem.
 - Demonstrates that fungal–insect interactions on fruiting bodies can reduce spore output and thereby affect the dispersal and colonization success of wood-decomposing fungi.
-- Understanding ciid beetle ecology is relevant for managing insect pests in log-based [[mushroom-cultivation]] (e.g., shiitake on logs).
+- Understanding ciid beetle ecology is relevant for managing insect pests in log-based [[accessible-mushroom-cultivation-for-disabilities]] (e.g., shiitake on logs).
 - The species illustrates the concept that fungi–insect associations can range from commensalistic to strongly antagonistic, depending on the intensity of grazing and the specific biology of the interaction.
 
 ## Ecological Impact on Fungal Reproduction

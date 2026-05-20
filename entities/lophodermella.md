@@ -35,7 +35,7 @@ type: entity
 ## Relevance to Cultivation and Mycology
 
 - Understanding *Lophodermella* and related pioneer colonizers is essential for predicting decomposition dynamics on conifer substrates.
-- Endophytic presence in living needles has implications for [[substrate-preparation]] and sterilization protocols in [[mushroom-cultivation]].
+- Endophytic presence in living needles has implications for [[substrate-preparation]] and sterilization protocols in [[accessible-mushroom-cultivation-for-disabilities]].
 - Pioneer colonizers degrade simple carbohydrates, potentially altering substrate chemistry in ways that affect subsequent colonization by cultivated species.
 - The successional model from Ponge (1991) provides a practical framework for understanding [[fungal-community-assembly]] on pine-based substrates.
 - Knowledge of early-stage decomposer communities aids in forest management for mycorrhizal mushroom production.

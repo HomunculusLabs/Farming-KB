@@ -76,7 +76,7 @@ The strain-dependent distribution of psilocin raises questions about the biosynt
 
 All three strains were analyzed from first-flush harvests, a context in which psilocin levels are typically at their lowest. The study's multi-flush data showed that psilocin is generally absent or minimal in the first flush and increases in subsequent flushes. If these strains had been analyzed from third or fourth flushes, the psilocin [[cap-vs-stem-alkaloid-distribution]]
 - [[cap-stem-alkaloid-distribution-psilocybe-cubensis-strains-detailed]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 
 ## Overview
 

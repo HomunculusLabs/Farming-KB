@@ -75,6 +75,6 @@ brassinosteroids as essential hormones.
 ## Effects on Fungal Growth
 
 The growth-promoting effects of epibrassinolide on fungi were documented by
-[[psilocybe-cubensis]]
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 mycelium on agar media. The effect was visible within the first few days of
 growth and persisted throughout the culture period.

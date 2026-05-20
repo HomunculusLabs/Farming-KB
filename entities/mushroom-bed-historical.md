@@ -58,7 +58,7 @@ Cuthill's mushroom bed construction methods represent the practical foundation u
 
 - [[historical-mushroom-cultivation]]
 - [[james-cuthill]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mushroom-spawn]]
 - [[outdoor-mushroom-bed]]
 

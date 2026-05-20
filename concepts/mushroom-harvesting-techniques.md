@@ -45,7 +45,7 @@ Mushrooms within a single flush do not all mature simultaneously. However, it is
 
 ### Twist and Pull (Recommended)
 
-The standard harvesting method for monotub cultivation:
+The standard harvesting method for [[monotub-cultivation]]:
 
 1. Grasp the mushroom at the base of the stem, as close to the substrate as possible.
 2. Gently twist the mushroom while pulling upward.
@@ -148,6 +148,5 @@ Psilocybin degrades through oxidation, exposure to UV light, and heat:
 
 ### Expected Shelf Life
 ## See Also
+- [[mushroom-crop-sustaining-flushing-watering-harvesting]]
 
-- [[advanced-mushroom-fruiting-techniques]]
-- [[mushroom-agar-media-pouring-sterilization-techniques]]

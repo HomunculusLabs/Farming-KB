@@ -47,7 +47,7 @@ is blown into the nostrils of the user through long tubes by an assistant.
 The experience begins within minutes and is overwhelmingly intense. Users
 report visions of luminous geometric patterns, encounters with animal
 spirits and ancestors, and sensations of flight through multidimensional
-spaces. The [[virola-snuff]] experience is among the most powerful psychedelic
+spaces. The [[entheogen-virola-snuff-ethnobotany-chemistry]] experience is among the most powerful psychedelic
 states produced by any natural substance.
 
 ## Anadenanthera: Yopo and Cohoba

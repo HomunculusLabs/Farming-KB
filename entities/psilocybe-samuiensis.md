@@ -18,7 +18,7 @@ sources: ['raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe
 *Psilocybe samuiensis* Guzmán, Allen & Merlin is a bluing, psychoactive mushroom species
 in the family Hymenogastraceae. First reported from the island of Koh Samui, Thailand,
 the species is noted for its strong morphological resemblance to the temperate liberty
-cap, [[psilocybe-cubensis]].
+cap, [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]].
 
 ### Microscopic Features
 
@@ -35,7 +35,7 @@ fruiting in close proximity during the rainy season.
 |--------------|-----------------------------|
 | psilocybin | 0.73%                       |
 | [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]], produce a strong psychoactive effect with a chemical
-profile comparable to that of [[psilocybe-cubensis]] is considerably larger
+profile comparable to that of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] is considerably larger
   with a more persistent annulus. [[psilocybe-semilanceata]]
 - [[panaeolus-cyanescens-entity]]
 

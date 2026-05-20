@@ -36,7 +36,7 @@ brassinosteroid compounds on [[jochen-gartz]] placed this research within
 the context of Gartz's broader program investigating the biology and
 chemistry of psychoactive fungi. Gartz's extensive body of work includes
 discovery of new tryptamine compounds in mushrooms, [[psilocybin-psilocin-variation-across-flushes]] across species, studies on [[genetic-improvement-agaricus-bisporus-molecular-approaches]], Pleurotus spp., [[epibrassinolide]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 ## Practical Considerations
 
 Successful implementation of Adam Vorbrodt requires attention to

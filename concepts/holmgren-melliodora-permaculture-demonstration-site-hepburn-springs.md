@@ -60,7 +60,7 @@ integrated feature of household design rather than an add-on recycling effort.
 
 Holmgren's approach to [[permaculture-principles]]
 - [[david-holmgren]]
-- [[plant-propagation]]
+- [[permaculture-plant-propagation-guide]]
 
 ## Overview
 

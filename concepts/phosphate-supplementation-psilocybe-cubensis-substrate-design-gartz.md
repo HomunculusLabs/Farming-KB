@@ -21,7 +21,7 @@ topics:
 
 In their 1990 study published in *Naturwissenschaften*, Gartz, Adam,
 and Vorbrodt investigated the growth-promoting effects of
-brassinosteroid on *[[psilocybe-cubensis]]* using a substrate formulation
+brassinosteroid on *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* using a substrate formulation
 containing potassium dihydrogen phosphate (KH2PO4) at 5 grams per
 liter. While the brassinosteroid effects were the primary focus, the
 substrate design itself reveals important principles of phosphate

@@ -107,7 +107,7 @@ S. Grof analyzed 5,000 experimental LSD protocols and identified a consistent pr
 4. **Perinatal** — experiences related to birth trauma
 5. **Transpersonal** — mystical/religious experiences, archetypal imagery, experiences of unity and eternity
 
-Grof concluded that hallucinogenic substances are **non-specific triggers** causing a sequence of altered states of consciousness. The individual's personality and the experimental setting ("[[set-and-setting]]") significantly shape the nature of the experience. Even "real" somatic symptoms like nausea or vomiting could often be controlled through psychological intervention.
+Grof concluded that hallucinogenic substances are **non-specific triggers** causing a sequence of altered states of consciousness. The individual's personality and the experimental setting ("[[lsd-set-and-setting-framework]]") significantly shape the nature of the experience. Even "real" somatic symptoms like nausea or vomiting could often be controlled through psychological intervention.
 
 ## Ideal Treatment for Panic Reactions
 

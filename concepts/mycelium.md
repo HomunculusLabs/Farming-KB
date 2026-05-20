@@ -48,7 +48,7 @@ providing access to water and minerals (particularly phosphorus) that would
 otherwise be unavailable. See [[fungal-mycelial-networks-nutrient-translocation]] help bind soil particles together,
 improving soil structure, water retention, and erosion resistance. Glomalin, a
 glycoprotein produced by [[dighton-mycorrhizal-networks-carbon-transfer]], leading to the concept of the "wood wide web." See
-[[mushroom-cultivation|mushroom cultivation]], establishing a healthy,
+[[accessible-mushroom-cultivation-for-disabilities|mushroom cultivation]], establishing a healthy,
 vigorous mycelium culture is the critical first step. The process typically
 begins with inoculation of a sterile substrate with fungal spores or living
 tissue. As the mycelium colonizes the substrate, it digests available nutrients

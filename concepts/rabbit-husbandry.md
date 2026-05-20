@@ -13,7 +13,7 @@ Rabbits are the most space-efficient meat animal for the homestead. A single
 breeding trio (1 buck, 2 does) can produce 80-100+ lbs of meat per year in
 a footprint smaller than a garden shed. They are quiet, reproduce rapidly,
 and produce lean, mild-tasting meat. Their manure is an outstanding garden
-fertilizer that can be applied directly without composting.
+fertilizer that can be applied directly without [[composting]].
 
 ## Breed Selection
 
@@ -148,6 +148,5 @@ fertilizer that can be applied directly without composting.
 
 ## Tanning Hides
 ## See Also
-
-- [[rabbit-husbandry-and-breeding-in-permaculture-systems]]
 - [[rabbit-husbandry-basics]]
+

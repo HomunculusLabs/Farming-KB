@@ -1,5 +1,4 @@
 ---
-
 title: Indigenous Microorganisms (IMO) — Collection and Cultivation
 created: 2026-04-10
 updated: 2026-04-12

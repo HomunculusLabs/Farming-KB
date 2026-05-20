@@ -95,7 +95,7 @@ Contemporary cultural relevance continues in traditional, recreational, and rese
 - [[fungal-biology-fundamentals]]
 - [[fungal-ecology]]
 - [[hypholoma-fasciculare]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mycelial-cord]]
 - [[mycelial-network-structure]]
 - [[fungal-mycelial-networks-nutrient-translocation]]

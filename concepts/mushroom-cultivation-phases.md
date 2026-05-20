@@ -11,7 +11,7 @@ type: concept
 
 ## Phase 5: Fruiting
 
-Once fully colonized, substrates are exposed to fruiting triggers: fresh air exchange (high CO2 to ambient O2), indirect light (12 hours on/off), high humidity (85-95%), and a temperature drop of 5-10 degrees C. Primordia (pin formation) typically appears within 3-7 days. Proper [[mushroom-cultivation]] for the complete lifecycle context.
+Once fully colonized, substrates are exposed to fruiting triggers: fresh air exchange (high CO2 to ambient O2), indirect light (12 hours on/off), high humidity (85-95%), and a temperature drop of 5-10 degrees C. Primordia (pin formation) typically appears within 3-7 days. Proper [[accessible-mushroom-cultivation-for-disabilities]] for the complete lifecycle context.
 
 ## Practical Considerations
 

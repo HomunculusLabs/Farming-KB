@@ -64,7 +64,7 @@ substrate block:
   1-2 weeks with reduced humidity to allow substrate recovery
 - **Third flush and beyond** — diminishing returns; most commercial growers
   harvest 2-3 flushes before discarding blocks
-- **Total [[mushroom-cultivation]]
+- **Total [[accessible-mushroom-cultivation-for-disabilities]]
 - [[substrate-preparation]]
 - [[malt-extract-agar]]
 

@@ -63,7 +63,7 @@ of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
 [[dom]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[growing-gourmet-straw-pasteurization-methods]]
 
 ## Overview

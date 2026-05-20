@@ -6,7 +6,7 @@ type: entity
 
 ## Overview
 
-Orson K. Miller Jr. (1930–2006) was an American mycologist whose published botanical descriptions provided key identification criteria for *[[psilocybe-cubensis]]* (syn. *[[stropharia-cubensis]]*). His book *Mushrooms of North America* served as the primary taxonomic reference cited in early cultivation guides for magic mushrooms.
+Orson K. Miller Jr. (1930–2006) was an American mycologist whose published botanical descriptions provided key identification criteria for *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* (syn. *[[stropharia-cubensis]]*). His book *Mushrooms of North America* served as the primary taxonomic reference cited in early cultivation guides for magic mushrooms.
 
 ## Classification
 

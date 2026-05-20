@@ -61,7 +61,7 @@ The succession of fungal species on submerged leaves follows a predictable
 pattern. Early colonizers tend to be opportunistic species with rapid growth
 rates. As decomposition progresses and the leaf chemistry changes, these are
 gradually replaced by species adapted to more recalcitrant substrates. This
-[[spore-dispersal]]
+aquatic fungi spore dispersal ingold
 - [[decomposition]]
 - [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]]
 

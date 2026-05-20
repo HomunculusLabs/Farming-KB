@@ -43,7 +43,7 @@ Psychedelic harm reduction operates on the principle that people will use these 
 
 ### Psilocybin Mushrooms
 
-Doses vary enormously depending on species, age, preparation, and individual sensitivity. The following are approximate guidelines for dried *[[psilocybe-cubensis]]* (the most commonly available species):
+Doses vary enormously depending on species, age, preparation, and individual sensitivity. The following are approximate guidelines for dried *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* (the most commonly available species):
 
 | Level | Dose (dried *P. cubensis*) | Effects |
 |---|---|---|

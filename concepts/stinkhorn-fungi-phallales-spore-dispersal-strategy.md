@@ -11,7 +11,7 @@ tags: [fungi, mycology, spore-dispersal, phallales, stinkhorn, phallus-impudicus
 ## Overview
 
 [[stinkhorn-fungi]], belonging to the order Phallales, employ one of the most dramatic and
-olfactorily offensive [[spore-dispersal]] strategies in the fungal kingdom. Rather than
+olfactorily offensive [[aquatic-fungi-spore-dispersal-ingold]] strategies in the fungal kingdom. Rather than
 releasing spores passively into air currents like gilled mushrooms, stinkhorns produce
 a sticky, foul-smelling spore mass designed to attract insects — primarily flies and
 slugs — which then serve as unwilling vectors for [[solomon-root-exudates-and-allelopathy]], animal behavior exploitation,

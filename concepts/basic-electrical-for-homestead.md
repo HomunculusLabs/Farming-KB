@@ -148,30 +148,9 @@ Required in modern construction for bedrooms, living rooms, and other habitable 
 
 - Non-contact voltage tester (essential)
 - Multimeter
-- Wire strippers (combo with cutter and crimper)
-- Screwdrivers (insulated set)
-- Needle-nose pliers
-- Lineman's pliers
-- Fish tape (for pulling wire through walls)
-- Circuit tracer (for identifying circuits)
-- Headlamp (for working in panels and dark spaces)
 
-## When to Hire a Licensed Electrician
+## See Also
 
-- Any work on the service entrance (masthead, main panel, meter socket)
-- Installing a new circuit or subpanel
-- Work requiring a permit or inspection
-- Aluminum wiring repairs (specialized and dangerous)
-- Any work in wet or hazardous locations
-- Upgrading service amperage
-- Generator transfer switch installation
-- Solar panel electrical connections
-- If you are not 100% confident in your understanding and ability
-
-Electrical mistakes can kill. The cost of hiring an electrician is always less than the cost of a house fire or electrocution. Know your limits.
-
-## Related Concepts
-
-- [[barn-construction-reference]] — Building and construction infrastructure for the homestead
-- [[mushroom-foraging-safety-guide]] — Safety principles and risk management across homestead systems
-- [[emergency-preparedness]] — Backup power considerations during electrical outages
+- [[basic-plumbing-for-homestead]]
+- [[homestead-tool-maintenance]]
+- [[homestead-record-keeping]]

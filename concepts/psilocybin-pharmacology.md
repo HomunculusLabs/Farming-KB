@@ -39,7 +39,7 @@ The most significant acute mental health risk is the **panic reaction** or
 loss of behavioral control. Risk factors include:
 
 - High doses or unexpectedly potent mushrooms
-- Unfamiliar or threatening environment ("[[psilocybe-cubensis]]**: 0.5–1.0% dry weight (most commonly cultivated)
+- Unfamiliar or threatening environment ("[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]**: 0.5–1.0% dry weight (most commonly cultivated)
 - **[[psilocybin-mushroom-markets-europe]]
 - [[allegro-amanita-muscaria-properties-and-pharmacology]]
 ## Practical Considerations

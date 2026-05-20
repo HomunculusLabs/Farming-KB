@@ -6,7 +6,7 @@ tags: [cannabis, sativa-dominant, hybrid, energetic, daytime]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ""raw/papers/cannabis-health-index.md"
+  - "raw/papers/cannabis-health-index.md"
 ---
 
 ## Green Crack

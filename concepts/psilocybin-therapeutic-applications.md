@@ -80,7 +80,7 @@ Modern [[psilocybin-therapy]] does not simply administer a drug. The treatment m
 2. **The psilocybin session** (6-8 hours): A supervised experience with one or two trained guides/therapists present throughout. The patient lies on a couch, wears an eye mask, and listens to a carefully curated music playlist.
 3. **Integration sessions** (1-3 meetings): Processing the experience, exploring insights, and translating them into behavioral and psychological changes in daily life.
 
-This model emphasizes **[[set-and-setting]]** -- the psychological preparation and the physical/interpersonal environment -- as critical determinants of therapeutic outcome.
+This model emphasizes **[[lsd-set-and-setting-framework]]** -- the psychological preparation and the physical/interpersonal environment -- as critical determinants of therapeutic outcome.
 
 ## Current Status (2026)
 

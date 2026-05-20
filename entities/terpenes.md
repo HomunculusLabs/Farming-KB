@@ -51,7 +51,7 @@ Terpenes (also called terpenoids when modified with functional groups) are a lar
 1. **Mulch safety**: Fresh pine and cedar mulches release terpenes that can damage or kill sensitive crop plants — always age these materials before garden use.
 2. **Allelopathic effects**: Terpene-producing plants (e.g., black walnut, certain eucalyptus) can inhibit growth of nearby crops through terpene exudation into soil.
 3. **Antimicrobial properties**: Terpene-rich environments can suppress both beneficial and pathogenic soil microorganisms, affecting [[soil-food-web]] dynamics.
-4. **[[mushroom-cultivation]]**: Some mushroom species (e.g., *Pleurotus* / [[oyster-mushrooms]]) produce terpenes as secondary metabolites, and terpenes are key flavor/aroma compounds in many edible mushrooms.
+4. **[[accessible-mushroom-cultivation-for-disabilities]]**: Some mushroom species (e.g., *Pleurotus* / [[oyster-mushrooms]]) produce terpenes as secondary metabolites, and terpenes are key flavor/aroma compounds in many edible mushrooms.
 5. **Cannabis cultivation**: Terpenes are major quality determinants in cannabis, contributing to aroma, flavor, and therapeutic effects. Growing conditions affect terpene profiles significantly.
 6. **[[substrate-preparation]]**: Conifer-derived substrates (pine shavings, cedar chips) may release terpenes inhibitory to mushroom mycelium — aging or heat treatment may be necessary.
 

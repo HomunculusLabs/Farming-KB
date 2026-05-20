@@ -17,7 +17,7 @@ type: concept
 ## Psilocybe semilanceata
 
 Psilocybe semilanceata, commonly known as the liberty cap, is the most common wild
-[[psilocybe-cubensis]], which is predominantly cultivated for the commercial market,
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], which is predominantly cultivated for the commercial market,
 P. semilanceata is primarily encountered in the wild, where it is foraged by mushroom hunters
 rather than purchased through retail channels.
 

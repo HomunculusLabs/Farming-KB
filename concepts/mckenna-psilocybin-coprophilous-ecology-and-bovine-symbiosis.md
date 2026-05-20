@@ -19,7 +19,7 @@ type: concept
 
 ## Overview
 
-In "Food of the Gods," Terence McKenna develops the argument that the relationship between [[psilocybe-cubensis]], are coprophilous, meaning they grow exclusively on the dung of herbivorous animals, especially cattle. This dependency created a tight ecological link between the expansion of pastoralism and the availability of psychoactive fungi.
+In "Food of the Gods," Terence McKenna develops the argument that the relationship between [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], are coprophilous, meaning they grow exclusively on the dung of herbivorous animals, especially cattle. This dependency created a tight ecological link between the expansion of pastoralism and the availability of psychoactive fungi.
 
 ## Coprophilous Fungi: Biology and Habitat
 

@@ -88,7 +88,7 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[terence-mckenna]]
 - [[doc]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

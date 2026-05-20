@@ -79,7 +79,7 @@ observation, and a willingness to adapt approaches based on results.
 - [[ligninolytic-enzymes-bioremediation]]
 - [[fungal-immobilization-bioreactor-systems]]
 - [[psilocybin]]
-- [[ligninolytic-enzymes]]
+- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[mycoremediation]]
 
 ## Technical Framework

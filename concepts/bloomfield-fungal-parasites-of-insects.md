@@ -13,7 +13,7 @@ tags: [fungi]
 Fungi are among the most devastating parasites of insects, capable of
 commandeering the behavior of their hosts, liquefying their internal organs,
 and erupting from their bodies in spectacular displays of lethal beauty. The
-fungi that kill insects are called [[spore-dispersal]], and the wing-spreading posture increases
+fungi that kill insects are called [[aquatic-fungi-spore-dispersal-ingold]], and the wing-spreading posture increases
 the surface area from which spores can be launched. The fungus effectively
 turns the fly into a platform for its own reproduction.
 

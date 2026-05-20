@@ -13,7 +13,7 @@ tags:
 
 ## Description
 
-Rhizopogon luteolus is a hypogeous (belowground fruiting) ectomycorrhizal basidiomycete fungus commonly known as a "false truffle." It forms obligate mutualistic associations with the roots of coniferous trees, particularly pines (Pinus spp.). The species produces subterranean, irregularly shaped fruiting bodies that are yellowish to brownish in color and resemble small tubers. Unlike epigeous (aboveground) mushrooms, Rhizopogon species rely on animals for [[spore-dispersal]], particularly small mammals that excavate and consume the fruiting bodies.
+Rhizopogon luteolus is a hypogeous (belowground fruiting) ectomycorrhizal basidiomycete fungus commonly known as a "false truffle." It forms obligate mutualistic associations with the roots of coniferous trees, particularly pines (Pinus spp.). The species produces subterranean, irregularly shaped fruiting bodies that are yellowish to brownish in color and resemble small tubers. Unlike epigeous (aboveground) mushrooms, Rhizopogon species rely on animals for [[aquatic-fungi-spore-dispersal-ingold]], particularly small mammals that excavate and consume the fruiting bodies.
 
 ## Classification
 

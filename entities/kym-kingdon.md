@@ -40,7 +40,7 @@ Alley farming creates sheltered microclimates between tree rows that modify temp
 
 ### Integrated Tree Systems
 
-The integration of timber, fodder, seed, and honey production from tree rows parallels multi-functional forest systems where [[mushroom-cultivation]] adds yet another yield from the same tree infrastructure.
+The integration of timber, fodder, seed, and honey production from tree rows parallels multi-functional forest systems where [[accessible-mushroom-cultivation-for-disabilities]] adds yet another yield from the same tree infrastructure.
 
 ### Dryland Soil Building
 

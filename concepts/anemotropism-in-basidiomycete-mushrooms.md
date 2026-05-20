@@ -104,7 +104,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[spore]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

@@ -95,7 +95,7 @@ help ensure consistent results across different scenarios.
 ## See Also
 
 - [[psilocybin]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[psychedelic-integration]]
 
 ## Practical Considerations

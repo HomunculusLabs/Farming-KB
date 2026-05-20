@@ -1,6 +1,6 @@
 ---
 title: "Potato Cultivation and Growing Guide"
-subtitle: ""Complete guide to growing potatoes from, covering varieties, soil preparation, pest management, and storage.""
+subtitle: "Complete guide to growing potatoes from, covering varieties, soil preparation, pest management, and storage."
 tags: [potato, solanum-tuberosum, root-crops, staple-crops, cultivation, nightshade]
 date: 2026-05-11
 updated: 2026-05-11

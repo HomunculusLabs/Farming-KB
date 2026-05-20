@@ -60,7 +60,7 @@ Different mushroom species have different gas exchange requirements during colon
 
 ## Contamination Prevention Strategy
 
-Filter cans are one component of a comprehensive contamination prevention strategy that includes [[pf-tek-inoculation-technique-and-syringe-management]], and environmental control. Even a perfectly constructed filter can cannot compensate for poor [[mushroom-cultivation]]
+Filter cans are one component of a comprehensive contamination prevention strategy that includes [[pf-tek-inoculation-technique-and-syringe-management]], and environmental control. Even a perfectly constructed filter can cannot compensate for poor [[accessible-mushroom-cultivation-for-disabilities]]
 - [[det]]
 - [[spore]]
 

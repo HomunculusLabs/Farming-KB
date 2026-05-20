@@ -12,7 +12,7 @@ Fungi occupy a pivotal position in terrestrial food webs, serving as a critical 
 
 The importance of fungi as food is reflected in both natural and commercial contexts. Commercial mushroom sales in the United States alone reached approximately 426,625 Mg at a value of $863 million (2000–2001 data, USDA). In natural ecosystems, fungi support populations of collembola, mites, nematodes, and numerous vertebrate species. The unseen grazing of fungal mycelia by soil fauna is often as ecologically important as the conspicuous consumption of mushroom fruiting bodies by larger animals.
 
-Fungi provide a range of ecosystem services as food for secondary producers, including sustaining animal populations, facilitating [[spore-dispersal]], and mediating energy flow from primary production (via decomposition and mycorrhizal nutrient uptake) into animal biomass. This trophic linkage connects fungal functional groups — saprotrophs, mycorrhizae, and even some pathogens — to the broader faunal community.
+Fungi provide a range of ecosystem services as food for secondary producers, including sustaining animal populations, facilitating [[aquatic-fungi-spore-dispersal-ingold]], and mediating energy flow from primary production (via decomposition and mycorrhizal nutrient uptake) into animal biomass. This trophic linkage connects fungal functional groups — saprotrophs, mycorrhizae, and even some pathogens — to the broader faunal community.
 
 ## Nutritional Profile of Fungi
 

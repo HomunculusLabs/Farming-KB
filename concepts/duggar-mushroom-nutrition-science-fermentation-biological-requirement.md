@@ -8,7 +8,7 @@ source_slug: benjamin-minge-duggar-mushroom-growing
 
 ## Overview
 
-Benjamin Minge Duggar's 1915 treatise on mushroom growing provided some of the earliest scientific insights into the nutritional requirements of cultivated mushrooms ([[mushroom-cultivation]]: fermentation of stable manure, long considered essential for mushroom growth, is actually chemically harmful to the mushroom mycelium. When grown in sterilized fresh manure under pure culture conditions, mushroom mycelium grew as rapidly and even more profusely than in fermented manure treated identically.
+Benjamin Minge Duggar's 1915 treatise on mushroom growing provided some of the earliest scientific insights into the nutritional requirements of cultivated mushrooms ([[accessible-mushroom-cultivation-for-disabilities]]: fermentation of stable manure, long considered essential for mushroom growth, is actually chemically harmful to the mushroom mycelium. When grown in sterilized fresh manure under pure culture conditions, mushroom mycelium grew as rapidly and even more profusely than in fermented manure treated identically.
 
 This finding proved conclusively that fermentation was not chemically essential. The chemical changes that occur during fermentation—including the breakdown of complex organic compounds, the loss of [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of the substrate for the mushroom.
 
@@ -21,7 +21,7 @@ Fermentation is essential for biological reasons related to competitive microbia
 3. **The mycelium fails [[mycorrhizal-drought-and-temperature-tolerance]] is biological, not physiological** — the mushroom can grow at higher temperatures than commercial cultivation allows, but only when competitors are eliminated.
 6. **Spawn quality and vitality are paramount** — Duggar emphasized that all the care in bed preparation and environmental management could not compensate for degraded or dead spawn, making spawn selection the single most important decision in the cultivation cycle.
 7. **[[phase-i-compost-preparation-agaricus|Phase I Compost Preparation]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[agaricus-phase-i-composting]]
 - [[mycorrhiza]]
 

@@ -45,7 +45,7 @@ Some fungi have evolved remarkable ballistic dispersal mechanisms that launch
 spores over considerable distances using built-up hydrostatic pressure. The
 Pilobolus fungus, commonly called the hat-thrower, grows on herbivore dung
 and aims its sporangium toward light sources using a photosensitive vesicle.
-When internal [[spore-dispersal]]
+When internal [[aquatic-fungi-spore-dispersal-ingold]]
 - [[dom]]
 - [[fungal-spore-dispersal-mechanisms]]
 

@@ -148,11 +148,3 @@ Average yield from 250 lb live pig:
 
 ## Health Considerations
 
-- Vaccinate for erysipelas and circovirus
-- Deworm: ivermectin or fenbendazole, 2-3 times/year
-- Watch for external parasites (mange, lice) -- treat promptly
-- Provide shade and wallows to prevent heat stress
-- Pigs are susceptible to stress -- handle calmly and consistently
-- Biosecurity: quarantine new arrivals for 30 days
-
-Pastured pork complements [[grass-fed-beef-production]] in a diversified livestock operation and generates valuable manure for [[hot-composting-vs-vermicompost-vs-bokashi|compost]] and soil building.

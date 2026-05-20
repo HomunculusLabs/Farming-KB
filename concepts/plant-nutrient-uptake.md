@@ -1,5 +1,4 @@
 ---
-
 title: Plant Nutrient Uptake — How Plants Absorb Nutrients
 created: 2026-04-11
 updated: 2026-04-12

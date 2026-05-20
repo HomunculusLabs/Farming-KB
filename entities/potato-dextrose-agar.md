@@ -6,7 +6,7 @@ type: entity
 
 ## Overview
 
-Potato Dextrose Agar (PDA) is one of the most widely used solid nutrient media in mycology for cultivating the mycelia of higher fungi. It consists of potato extract, dextrose (glucose), and agar, providing a balanced nutrient profile that supports robust mycelial growth. PDA is a standard medium for growing stock inocula of mushroom species including *[[psilocybe-cubensis]]*, *[[agaricus-bisporus]]*, and many others.
+Potato Dextrose Agar (PDA) is one of the most widely used solid nutrient media in mycology for cultivating the mycelia of higher fungi. It consists of potato extract, dextrose (glucose), and agar, providing a balanced nutrient profile that supports robust mycelial growth. PDA is a standard medium for growing stock inocula of mushroom species including *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, *[[agaricus-bisporus]]*, and many others.
 
 ## Classification
 

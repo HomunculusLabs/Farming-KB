@@ -136,7 +136,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[habitat-nooks-for-garden-wildlife]]
-- [[plant-propagation]]
+- [[permaculture-plant-propagation-guide]]
 - [[food-forest]]
 - [[dom]]
 - [[swale]]

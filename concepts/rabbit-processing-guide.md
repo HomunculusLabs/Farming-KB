@@ -148,6 +148,6 @@ Some states have additional requirements. Check local regulations before selling
 
 ## Waste Utilization
 ## See Also
+- [[animal-butcher-and-processing]]
+- [[oyster-mushroom-storage-processing]]
 
-- [[grain-processing-and-milling-guide]]
-- [[cannabis-screen-of-green-scrog-guide]]

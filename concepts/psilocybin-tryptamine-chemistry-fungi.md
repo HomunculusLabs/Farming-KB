@@ -33,7 +33,7 @@ are serotonin (5-HT) [[inocybe-aeruginascens]]
 A fundamentally different class of psychoactive compounds is found in
 [[ergot-fungus]] parasitic on grasses and cereals,
 produces a complex mixture of alkaloids including ergotamine, ergocristine,
-ergocryptine, ergoclavine, and [[psilocybe-cubensis]] in 2017, confirming the fungal origin of these
+ergocryptine, ergoclavine, and [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] in 2017, confirming the fungal origin of these
 compounds.
 
 ## Analytical Detection Methods

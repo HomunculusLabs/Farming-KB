@@ -144,4 +144,4 @@ can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
+- [[hamilton-organic-fertilizers-and-plant-nutrition]]

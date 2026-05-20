@@ -28,7 +28,7 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-E. maimaiga is a prime example of successful fungal biocontrol of a major forestry pest. For mycologists, it demonstrates how [[entomopathogenic-fungi]] can be harnessed for pest management. The species has been studied extensively as a model for understanding the ecological requirements for fungal epizootics, including humidity thresholds, inoculum density, and host density effects. These principles are transferable to developing fungal biocontrol strategies for pest management in [[mushroom-cultivation]] facilities.
+E. maimaiga is a prime example of successful fungal biocontrol of a major forestry pest. For mycologists, it demonstrates how [[entomopathogenic-fungi]] can be harnessed for pest management. The species has been studied extensively as a model for understanding the ecological requirements for fungal epizootics, including humidity thresholds, inoculum density, and host density effects. These principles are transferable to developing fungal biocontrol strategies for pest management in [[accessible-mushroom-cultivation-for-disabilities]] facilities.
 
 ## Ecological Role
 

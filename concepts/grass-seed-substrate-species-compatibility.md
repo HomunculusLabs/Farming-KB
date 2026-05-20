@@ -27,7 +27,7 @@ the colonised jar without casing. This species does not benefit from cold
 shock treatment. The sclerotia of *P. tampanensis* are sometimes referred to
 as "philosopher's stones" in the underground mycological community. Like
 *P. mexicana*, the jars can simply be stored in a clean, preferably dark
-location for [[fruiting-chamber]] setup.
+location for [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] setup.
 
 ### Psilocybe cubensis
 

@@ -28,7 +28,7 @@ During mushroom mycelial colonisation, the growing fungus requires oxygen for re
 
 ### Properties
 
-Vermiculite is a naturally occurring mineral that expands when heated, creating lightweight, porous particles with high surface area. Its properties make it suitable as a biological filter [[fruiting-chamber]]
+Vermiculite is a naturally occurring mineral that expands when heated, creating lightweight, porous particles with high surface area. Its properties make it suitable as a biological filter [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]
 - [[mycelium]]
 - [[sterilization]]
 

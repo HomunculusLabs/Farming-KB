@@ -44,7 +44,7 @@ cases, providing a coherent framework for understanding experience.
 
 ## The Many Guises of the Other
 
-Following [[powell-omega-point-and-cosmic-evolution]], Powell [[natural-intelligence]] And The Universal Computation
+Following [[powell-omega-point-and-cosmic-evolution]], Powell [[powell-natural-intelligence-and-the-universal-computation]] And The Universal Computation
 ## Practical Considerations
 
 Successful implementation of The Other and Sentient Presence requires attention to

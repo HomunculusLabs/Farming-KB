@@ -151,25 +151,6 @@ Tadelakt is a waterproof lime plaster technique originating from Morocco. It pro
 5. Burnish vigorously with a smooth stone or agate
 6. Repeat soap and burnishing passes until the surface is waterproof and polished
 
-### Characteristics
+## See Also
 
-- Truly waterproof when properly applied — can be used in showers
-- Beautiful, seamless, polished surface
-- Requires skill and practice to execute well
-- Hydraulic lime must be appropriate for your substrate
-- Breathable despite being water-resistant
-
-## Choosing the Right Finish
-
-| Finish | Breathability | Waterproof | Durability | Skill Level |
-|--------|:------------:|:----------:|:----------:|:-----------:|
-| Earthen plaster | Excellent | Low | Moderate | Low |
-| Lime wash | Excellent | Low-Moderate | Low-Moderate | Low |
-| Milk paint | Good | Low | Moderate | Low |
-| Alis | Good | Moderate | Moderate | Moderate |
-| Tadelakt | Good | Excellent | High | High |
-
-## Related Concepts
-
-- [[natural-building-materials-guide]] for wall systems that require these finishes
-- [[straw-bale-construction]] which depends heavily on proper plaster application for weather protection
+- [[fukuoka-sowing-natural-culture-community-and-green-earth-vision]]

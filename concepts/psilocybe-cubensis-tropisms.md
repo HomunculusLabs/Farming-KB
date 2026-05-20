@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Tropisms are directional growth responses in organisms, where growth is oriented by an environmental stimulus. In fungi, tropisms are particularly important for fruiting body (basidiocarp) development, as the mushroom must orient itself optimally for [[spore]] production and dispersal. The foundational study of tropisms in *[[psilocybe-cubensis]]* was conducted by Edmond R. Badham in 1982, using controlled wind tunnel experiments to systematically investigate how wind, gravity, and light influence mushroom growth and orientation.
+Tropisms are directional growth responses in organisms, where growth is oriented by an environmental stimulus. In fungi, tropisms are particularly important for fruiting body (basidiocarp) development, as the mushroom must orient itself optimally for [[spore]] production and dispersal. The foundational study of tropisms in *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* was conducted by Edmond R. Badham in 1982, using controlled wind tunnel experiments to systematically investigate how wind, gravity, and light influence mushroom growth and orientation.
 
 ## Experimental Approach
 
@@ -105,7 +105,7 @@ These parallels suggest that the fundamental mechanisms of fungal tropisms — p
 
 The tropic behaviors of *P. cubensis* have clear adaptive value for a coprophagous (dung-inhabiting) and lignicolous (wood-inhabiting) fungus:
 
-- **Anemotropism** (Phase 1) positions the developing cap into the airflow, maximizing [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]] preparing the fruitbody for efficient [[spore-dispersal]]. Growing into wind also helps the stipe reach above the boundary layer of the dung or wood substrate, where air currents are stronger.
+- **Anemotropism** (Phase 1) positions the developing cap into the airflow, maximizing [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]] preparing the fruitbody for efficient [[aquatic-fungi-spore-dispersal-ingold]]. Growing into wind also helps the stipe reach above the boundary layer of the dung or wood substrate, where air currents are stronger.
 - **Negative geotropism** (Phase 2) ensures the cap is horizontal at the time of sporulation, which is the optimal orientation for basidiospore release and catch by air currents. This is especially important for species growing on **unstable substrates** — dung pats and decaying wood that may be irregularly shaped or tilted. A strong geotropic response guarantees horizontal cap orientation regardless of substrate angle.
 - The **sequential deployment** of these two tropisms — first anemotropic, then geotropic — ensures that the mushroom first reaches a favorable position for height and exposure, then locks in the correct cap orientation for spore release.
 

@@ -73,7 +73,7 @@ eliminating the need for separate sealing and lubrication systems.
    agricultural waste, the Humphrey engine can pump irrigation water for crops
    and greenhouses without requiring fossil fuels or grid electricity.
 
-2. **Mushroom Facility Water Supply:** [[mushroom-cultivation]] requires significant
+2. **Mushroom Facility Water Supply:** [[accessible-mushroom-cultivation-for-disabilities]] requires significant
    water for humidity control, substrate hydration, and cleaning. A Humphrey
    engine running on biogas from [[spent-mushroom-substrate]] can provide this
    water sustainably.

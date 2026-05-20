@@ -104,7 +104,7 @@ Methods for incorporating these practices into broader workflows. Working with f
 
 ## See Also
 - [[doc]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[spore]]
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.

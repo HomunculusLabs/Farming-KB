@@ -148,7 +148,8 @@ Over 4,000 species of native bees in North America. Many are more efficient poll
 - **Avoid pesticides**: Even organic pesticides can harm bees. Apply sprays only in the evening when bees are not foraging.
 - **Provide water**: A shallow dish with pebbles (bees need landing platforms) provides drinking water
 - See [[insectary-plantings]] for detailed plant lists
+
 ## See Also
 
-- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-- [[coleman-beneficial-insects-and-ecological-pest-control]]
+- [[gaias-garden-beneficial-insects-pest-management]]
+- [[beneficial-insects-pollinators]]

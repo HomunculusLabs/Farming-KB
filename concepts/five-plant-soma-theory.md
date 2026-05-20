@@ -140,5 +140,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - entheogenic sacraments in religious art — Hidden plant symbolism in Christian iconography
 - [[ayahuasca]]
 - [[harmine]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[endocannabinoid-five-ligands-blesching]]

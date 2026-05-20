@@ -73,7 +73,7 @@ Monitoring protocols help track population trends and inform adaptive management
 
 ## See Also
 - [[lichenic-acid]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[ectomycorrhizal-fungi]]
 - [[wood-decay-fungi]]
 - [[sclerotinia-sclerotiorum]]

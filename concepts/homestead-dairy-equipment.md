@@ -148,6 +148,7 @@ A cheese press applies controlled pressure to drained curds, expelling whey and 
 | Gouda | 2.5 kg / 9 kg / 23 kg (increasing) | 20 min / 20 min / 12 hr |
 | Cheddar | 5 kg / 11 kg / 22 kg | 15 min / 15 min / 12 hr |
 | Parmesan | 5 kg / 11 kg / 22 kg / 45 kg | 30 min / 30 min / 2 hr / 12 hr |
+
 ## See Also
 
 - [[homestead-dairy-guide]]

@@ -33,7 +33,7 @@ Limanim (singular: liman) are dry dams developed in Israel for harvesting runoff
 - **Dryland afforestation**: Limanim provide a proven model for establishing trees in arid regions without piped irrigation. The principle can be applied to establishing mycorrhizal tree-fungal networks in dryland permaculture.
 - **Soil moisture banking**: The system effectively "banks" water in deep loess soil profiles, maintaining moisture availability for months after a single flood event — relevant for fungal substrate moisture management.
 - **Fungal habitat**: The periodic inundation and slow drying cycle of limanim soils creates unique habitat conditions. Fungi adapted to wet-dry cycles (e.g., some arbuscular mycorrhizal species) may thrive in these systems.
-- **Organic matter accumulation**: Tree leaf litter within limanim basins accumulates over years, building humus and creating substrate for [[mushroom-cultivation]] sites where periodic watering is the only option.
+- **Organic matter accumulation**: Tree leaf litter within limanim basins accumulates over years, building humus and creating substrate for [[accessible-mushroom-cultivation-for-disabilities]] sites where periodic watering is the only option.
 
 ## Design Application
 

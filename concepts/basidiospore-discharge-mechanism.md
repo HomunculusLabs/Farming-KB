@@ -22,7 +22,7 @@ type: concept
 
 The mechanism by which mushrooms launch their spores from gill surfaces remained
 one of the great unsolved problems in mycology for over a century. The solution,
-involving a microscopic fluid drop and the physics of [[spore-dispersal]]), careful
+involving a microscopic fluid drop and the physics of [[aquatic-fungi-spore-dispersal-ingold]]), careful
 measurements with thermocouples revealed that mushrooms are actually colder than
 the air during spore release. Cooling is most extreme on warm days, when gills
 can chill as much as 5 degrees Celsius.

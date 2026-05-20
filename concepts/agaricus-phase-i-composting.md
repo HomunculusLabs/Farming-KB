@@ -68,7 +68,7 @@ to inform current best practices and research directions.
 
 ## See Also
 - [[doc]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[decomposition]]
 
 ## Overview

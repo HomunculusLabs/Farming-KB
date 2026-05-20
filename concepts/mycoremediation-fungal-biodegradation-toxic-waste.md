@@ -123,7 +123,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mycofiltration-fungal-water-filtration]]
 - entomopathogenic fungi biocontrol mycopesticides
 - mushroom life cycle spore to fruiting body
-- [[cotter-mycoremediation-techniques]]
+- [[mycoremediation-techniques]]
 - [[factors-affecting-mycoremediation-efficiency]]
 - [[mycoremediation-bioreactor-design-considerations]]
 - [[mycoremediation-case-studies]]

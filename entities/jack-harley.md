@@ -10,7 +10,7 @@ Harley, J. L. (1969). The Biology of [[mycorrhiza]]. Leonard Hill; Harley, J. L.
 
 ## See Also
 
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[substrate-preparation]]
 - [[ectomycorrhizal-associations]]
 

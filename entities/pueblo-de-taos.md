@@ -70,7 +70,7 @@ consistent, committed maintenance over generations.
 - **Maintenance Philosophy**: The Taos Pueblo demonstrates that consistent,
   generational maintenance can overcome inherent material weakness — a principle
   applicable to managing substrate conditions, humidity, and contamination
-  in [[mushroom-cultivation]] over time.
+  in [[accessible-mushroom-cultivation-for-disabilities]] over time.
 - **Thermal Mass**: The thick adobe walls provide passive temperature regulation,
   a principle applicable to designing [[mushroom-fruiting-chambers]] and incubation
   spaces that require stable temperature control.

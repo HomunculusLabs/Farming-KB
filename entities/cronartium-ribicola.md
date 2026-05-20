@@ -105,7 +105,7 @@ hosts essential for the disease cycle.
 
 ### Cultivation Considerations
 
-- In forest-based [[mushroom-cultivation]] (e.g., shiitake on logs, maitake
+- In forest-based [[accessible-mushroom-cultivation-for-disabilities]] (e.g., shiitake on logs, maitake
   on stumps), the presence of WPBR cankers may affect log quality
   and stand health
 - Affected white pine forests may have altered fungal species

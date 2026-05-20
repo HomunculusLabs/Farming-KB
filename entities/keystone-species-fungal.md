@@ -33,7 +33,7 @@ A keystone species is an organism whose impact on an ecosystem is disproportiona
 - Understanding which fungal species are keystone species helps prioritize conservation and management efforts in both natural and cultivated ecosystems.
 - In cultivation systems, inoculation with keystone mycorrhizal species can dramatically improve plant establishment, nutrient uptake, and disease resistance.
 - The concept informs biological control strategies: introducing a single pathogenic fungus as a keystone agent can suppress invasive plant species.
-- In [[mushroom-cultivation]], understanding keystone interactions in [[compost]] or substrate microbial communities can optimize conditions for the target species.
+- In [[accessible-mushroom-cultivation-for-disabilities]], understanding keystone interactions in [[compost]] or substrate microbial communities can optimize conditions for the target species.
 - The loss of keystone fungal species through pollution, habitat destruction, or climate change can trigger cascading ecosystem failures — monitoring fungal diversity is therefore critical for sustainable cultivation.
 - Recognizing keystone fungal roles helps explain why some reforestation or restoration efforts fail when key fungal partners are absent from the soil.
 

@@ -9,7 +9,7 @@ type: concept
 ## Overview
 
 The common perception that mushrooms must be consumed immediately and cannot be kept even for a day or two is an exaggerated one that unnecessarily limits their culinary use. Properly handled, *[[mushroom-processing-recipes-waste-management]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 
 ## Overview
 

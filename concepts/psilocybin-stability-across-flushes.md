@@ -24,7 +24,7 @@ The independence of psilocybin levels from flush number also means that early-fl
 
 The unpredictability of psilocybin levels has direct safety implications for both recreational and therapeutic use:
 
-- A given dry weight of mushrooms could contain anywhere from 0.7 to 13+ mg/g of [[psilocybe-cubensis]].
+- A given dry weight of mushrooms could contain anywhere from 0.7 to 13+ mg/g of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]].
 
 ## Practical Guidelines From the Data
 

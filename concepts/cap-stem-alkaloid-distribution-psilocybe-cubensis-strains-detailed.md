@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-The distribution of [[psilocybe-cubensis]] is not uniform and varies significantly between
+The distribution of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] is not uniform and varies significantly between
 strains. Bigwood and Beug (1982) analyzed [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] or accumulation. The higher
 surface area-to-volume ratio of gill tissue in the cap may facilitate
 [[sandoz-psilocybin-distribution-program]]
@@ -137,7 +137,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[psilocybe-cubensis-cap-stem-alkaloid-distribution]]
 - [[cap-stem-alkaloid-distribution-psilocybe-cubensis-bigwood-beug]]
 - [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]

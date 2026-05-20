@@ -153,26 +153,6 @@ CBD does not produce psychoactive effects at any reasonable dose:
 - Refrigerate to set
 - Each gummy can be precisely dosed
 
-### Canna-Oil Capsules
+## See Also
 
-- Fill empty gel capsules with infused coconut oil
-- Allows precise, discreet dosing
-- Onset and duration similar to other edibles
-
-### Infused Honey
-
-- Mix decarboxylated cannabis with raw honey
-- Heat gently (150-160 F) for 1-2 hours
-- Strain and store
-- Add to tea, toast, or recipes
-
-## Safety Tips
-
-- **Never consume edibles and drive**: Onset delay makes impairment unpredictable
-- **Keep away from children and pets**: Store in child-proof containers, clearly labeled
-- **Label everything**: Include potency estimate, date, and strain
-- **Start with a known dose**: Homemade edibles have variable potency
-- **CBD can moderate THC**: A 1:1 CBD:THC ratio reduces anxiety and intensity
-- **Food interactions**: Consuming edibles on a full stomach delays onset but may increase overall absorption
-
-For the extraction methods used to produce concentrates for edibles, see [[cannabis-extraction-basics]]. For liquid-based sublingual alternatives, see [[cannabis-tinctures-guide]].
+- [[lemon-cannabis-alchemy-tinctures-and-edibles]]

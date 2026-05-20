@@ -14,7 +14,7 @@ How fungi survive and function in extreme habitats: deserts, polar regions, deep
 
 ## Overview
 
-Fungi are remarkably adaptable organisms that colonize virtually every environment on Earth, including many considered "extreme" for most life forms. Their ability to tolerate environmental stresses -- through physiological adaptation, biochemical innovation, and genetic plasticity -- makes them key organisms in some of the planet's harshest habitats. Geoffrey Gadd's research group has been instrumental in characterizing fungal stress responses and metal-microbe interactions in extreme environments.
+Fungi are remarkably adaptable organisms that colonize virtually every environment on Earth, including many considered "extreme" for most life forms. Their ability to tolerate environmental stresses -- through physiological adaptation, biochemical innovation, and genetic plasticity -- makes them key organisms in some of the planet's harshest habitats. [[geoffrey-gadd]]'s research group has been instrumental in characterizing [[fungal-stress-responses]] and metal-microbe interactions in extreme environments.
 
 ## Desert Fungi
 
@@ -23,13 +23,13 @@ Fungi are remarkably adaptable organisms that colonize virtually every environme
 Desert soils harbor diverse fungal communities despite extreme conditions:
 
 - **Stress factors**: Low water availability, high temperatures (soil surface can exceed 70C), high UV radiation, large diurnal temperature fluctuations, low organic matter
-- **Black fungi (black yeasts)**: Melanized fungi (e.g., *Cladosporium sphaerospermum*, *Aureobasidium pullulans*) dominate exposed desert rock surfaces. Melanin provides UV protection and desiccation resistance by absorbing radiation and binding water molecules.
+- **Black fungi (black yeasts)**: Melanized fungi (e.g., *[[cladosporium-sphaerospermum]]*, *[[aureobasidium-pullulans]]*) dominate exposed desert rock surfaces. Melanin provides UV protection and desiccation resistance by absorbing radiation and binding water molecules.
 - **Microcolonial fungi**: Slow-growing, melanized fungi that form compact colonies on rock surfaces. They can survive in a metabolically inactive state for years and resume growth during brief moisture events.
 - **Desert truffles**: *Terfezia* and *Tirmania* species form mycorrhizas with desert shrubs (e.g., *Helianthemum*) and produce underground fruiting bodies after rare rainfall events. They are important food sources for desert cultures.
 
 ### Biological Soil Crusts
 
-In arid and semi-arid regions, fungi are key components of biological soil crusts (cryptogamic covers):
+In arid and semi-arid regions, fungi are key components of [[biological-soil-crusts]] (cryptogamic covers):
 
 - Fungal hyphae bind soil particles together, reducing erosion by wind and water
 - Dark-pigmented fungi (especially *Microcolonium* species) are dominant in biological soil crusts
@@ -59,7 +59,7 @@ Polar regions support surprisingly diverse fungal communities:
 - **Psychrophily**: Cold-adapted fungi produce enzymes with higher catalytic efficiency at low temperatures, achieved through more flexible protein structures with fewer stabilizing bonds
 - **Membrane fluidity**: Increased proportions of unsaturated fatty acids in cell membranes maintain fluidity at low temperatures
 - **Antifreeze proteins**: Some polar fungi produce ice-binding proteins that inhibit ice crystal formation
-- **Pigmentation**: Dark pigments absorb solar radiation, raising tissue temperature above ambient (important for fruiting body development in polar environments)
+- **Pigmentation**: Dark pigments absorb solar radiation, raising tissue temperature above ambient (important for [[fruiting-body-development]] in polar environments)
 
 ### Alpine Fungi
 

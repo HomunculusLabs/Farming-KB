@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Streptomycin sulfate is an antibiotic compound used in [[mushroom-cultivation]] as a component of antibiotic agar formulations for purifying bacterial-contaminated cultures. It is added to [[malt-extract-agar]] after autoclaving and cooling to target and eliminate bacterial contaminants while allowing fungal mycelium to grow through the medium. In the [[antibiotic-sandwich]] technique, streptomycin-laced agar prevents bacteria from accompanying mycelium through the gel, effectively separating clean mycelium from bacterial contamination.
+Streptomycin sulfate is an antibiotic compound used in [[accessible-mushroom-cultivation-for-disabilities]] as a component of antibiotic agar formulations for purifying bacterial-contaminated cultures. It is added to [[malt-extract-agar]] after autoclaving and cooling to target and eliminate bacterial contaminants while allowing fungal mycelium to grow through the medium. In the [[antibiotic-sandwich]] technique, streptomycin-laced agar prevents bacteria from accompanying mycelium through the gel, effectively separating clean mycelium from bacterial contamination.
 
 ## Classification
 

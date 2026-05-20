@@ -136,7 +136,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[fruiting-chamber]]
+- [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]
 - [[humidity-chamber-mushroom-fruiting]]
 - [[moist-chamber-technique-fungal-fruiting]]
 - [[mushroom-fruiting-chamber-setup]]

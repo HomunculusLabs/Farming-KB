@@ -33,7 +33,7 @@ Microwave radiation has been demonstrated to penetrate [[eclss-water-system-asep
 
 ### Bioreactors and Fermentation Systems
 
-Industrial and research [[mushroom-cultivation]], certain equipment and container systems may be heat-sensitive. Microwave sterilization offers an alternative for decontaminating surfaces of fruiting chambers, humidity systems, and air handling components where autoclave temperatures could damage seals, sensors, or electronic controls. The ability to sterilize enclosed systems through barrier penetration is particularly relevant for sealed grow containers and sterile inoculation setups where maintaining equipment integrity is essential for long-term productivity.
+Industrial and research [[accessible-mushroom-cultivation-for-disabilities]], certain equipment and container systems may be heat-sensitive. Microwave sterilization offers an alternative for decontaminating surfaces of fruiting chambers, humidity systems, and air handling components where autoclave temperatures could damage seals, sensors, or electronic controls. The ability to sterilize enclosed systems through barrier penetration is particularly relevant for sealed grow containers and sterile inoculation setups where maintaining equipment integrity is essential for long-term productivity.
 
 ### Medical and Pharmaceutical Applications
 

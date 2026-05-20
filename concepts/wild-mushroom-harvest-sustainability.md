@@ -35,7 +35,7 @@ important caveats. Raking or digging to harvest mushrooms (particularly
 common in some porcini and truffle harvesting practices) can damage the
 mycelium by disturbing the soil and organic matter layers where it grows.
 Trampling by harvesters can compact soil and damage the fruiting
-environment. Harvesting immature mushrooms prevents [[spore-dispersal]] and
+environment. Harvesting immature mushrooms prevents [[aquatic-fungi-spore-dispersal-ingold]] and
 may affect [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]] over the long term.
 
 ## Factors Affecting Sustainability

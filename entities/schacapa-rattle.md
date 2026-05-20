@@ -78,7 +78,7 @@ Monitoring protocols help track population trends and inform adaptive management
 - [[iquitos]]
 - [[marlene-dobkin-de-rios]]
 - [[schacapa]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 
 ## References
 

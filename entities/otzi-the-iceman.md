@@ -55,7 +55,7 @@ Otzi's discovery revolutionized understanding of Copper Age life in Europe. The 
 
 ## Cultural Significance
 
-Otzi's discovery provides a rare window into prehistoric mycological knowledge. The presence of Fomes fomentarius in his kit connects modern [[mushroom-cultivation]] and medicinal use to an unbroken tradition spanning over five millennia. The "iceman polypore" common name for Fomes fomentarius is a direct tribute to this archaeological find, cementing Otzi's place in mycological history.
+Otzi's discovery provides a rare window into prehistoric mycological knowledge. The presence of Fomes fomentarius in his kit connects modern [[accessible-mushroom-cultivation-for-disabilities]] and medicinal use to an unbroken tradition spanning over five millennia. The "iceman polypore" common name for Fomes fomentarius is a direct tribute to this archaeological find, cementing Otzi's place in mycological history.
 
 ## Relevance to Cultivation and Mycology
 

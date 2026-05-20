@@ -10,7 +10,7 @@ type: concept
 
 ## Overview
 
-Leary's manual identifies **[[set-and-setting]]** as the two primary variables determining the quality and direction of a psychedelic experience, with the **[[psychedelic-guide]]** and **group composition** serving as critical extensions of the setting. When the ego and cognitive mind are suspended under psychedelics, the external environment and the people within it gain enormous influence over the voyage.
+Leary's manual identifies **[[lsd-set-and-setting-framework]]** as the two primary variables determining the quality and direction of a psychedelic experience, with the **[[psychedelic-guide]]** and **group composition** serving as critical extensions of the setting. When the ego and cognitive mind are suspended under psychedelics, the external environment and the people within it gain enormous influence over the voyage.
 
 ## Set and Setting Framework
 

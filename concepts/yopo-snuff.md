@@ -11,7 +11,7 @@ tags: [reference]
 ## Yopo Snuff
 
 Yopo (also known as niopo, nyopa, or yopa) is a powerful psychoactive
-snuff prepared from the toasted seeds of [[virola-snuff]] and in the
+snuff prepared from the toasted seeds of [[entheogen-virola-snuff-ethnobotany-chemistry]] and in the
 DMT-containing plants used in [[metzner-spirit-beings-multiple-realities-entheogens]]; synesthetic experien
   ces; alterations in body image and sense of self
 - **Aftereffects**: Contemplative state, sense of insight or revelatio

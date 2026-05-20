@@ -35,7 +35,7 @@ tags: [basidiomycete, mycoparasite, tremellales, micropore, haustorial]
 
 *Tetragoniomyces uliginosus* has significant relevance to agriculture and cultivation:
 - **Biocontrol of *Rhizoctonia*:** As a natural parasite of *R. solani*, *T. uliginosus* represents a potential biocontrol agent for one of the most damaging soil-borne pathogens. Its biotrophic nature means it could provide sustained suppression rather than temporary elimination.
-- **[[mushroom-cultivation]]:** *R. solani* (thanatephorus stage) is a common contaminant in mushroom cultivation substrate, causing competitive mold problems. Understanding its natural enemies, including *T. uliginosus*, could inform biological control strategies.
+- **[[accessible-mushroom-cultivation-for-disabilities]]:** *R. solani* (thanatephorus stage) is a common contaminant in mushroom cultivation substrate, causing competitive mold problems. Understanding its natural enemies, including *T. uliginosus*, could inform biological control strategies.
 - **Tremellalean mycoparasitism:** The Tremellales are the most diverse group of mycoparasitic fungi. *T. uliginosus* contributes to understanding how this order has radiated to exploit diverse fungal hosts.
 - **Fusion interface biology:** The micropore-mediated fusion interface is poorly understood at the molecular level and represents a frontier in mycoparasitism research.
 

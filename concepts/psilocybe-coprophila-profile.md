@@ -27,7 +27,7 @@ defines much of the species' ecology and distribution.
 
 Psilocybe coprophila belongs to the genus Psilocybe within the
 family Hymenogastraceae. The species epithet clearly indicates its
-preferred substrate, placing it among the [[spore-dispersal]] through herbivore grazing, as spores
+preferred substrate, placing it among the [[aquatic-fungi-spore-dispersal-ingold]] through herbivore grazing, as spores
 pass through the animal's digestive system and are deposited in
 fresh dung.
 

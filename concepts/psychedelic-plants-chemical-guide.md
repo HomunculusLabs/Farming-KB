@@ -38,7 +38,7 @@ Phase 1 (1-6h): dreamlike visions, life review. Phase 2 (6-12h): introspection. 
 
 ## Harm Reduction and Safety
 
-- **[[set-and-setting]]** are critical for all psychedelic experiences.
+- **[[lsd-set-and-setting-framework]]** are critical for all psychedelic experiences.
 - Screen for personal/family history of psychosis or bipolar disorder.
 - Start with lower doses. Use test kits to verify substance identity.
 - Have a trusted, sober sitter present. Integrate experiences through journaling, therapy, or discussion.

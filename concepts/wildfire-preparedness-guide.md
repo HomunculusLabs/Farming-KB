@@ -148,7 +148,7 @@ Keep a packed bag for each family member and pet at all times during fire season
 - Keep insurance agent contact information readily available
 - Inventory all major purchases and improvements as they are made
 ## See Also
-
+- [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]]
 - [[hurricane-preparedness-guide]]
-- [[earthquake-preparedness-guide]]
-- [[flood-preparedness-guide]]
+- [[emergency-preparedness]]
+

@@ -121,5 +121,5 @@ Blewit mushrooms are approximately **90% water** with a protein content of **24�
 
 - [[agaricus-cultivation]] — another compost-loving genus requiring casing soil
 - [[casing-soil]] — microbial casing preparation for secondary decomposers
-- [[mushroom-cultivation]] — techniques for fall and winter fruiting species
+- [[accessible-mushroom-cultivation-for-disabilities]] — techniques for fall and winter fruiting species
 - [[hyperaccumulation]] — mushrooms that concentrate heavy metals

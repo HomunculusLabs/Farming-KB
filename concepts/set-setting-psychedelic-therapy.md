@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-One of the most influential contributions of *The Psychedelic Experience* (Leary, Metzner, Alpert, 1964) to the broader field of psychedelic research is its systematic treatment of **[[set-and-setting]]** — the foundational principle that the nature and quality of a psychedelic experience is determined not primarily by the chemical substance, but by the psychological preparation (set) and environmental conditions (setting) of the session. This principle, now widely accepted in psychedelic science, was articulated here with particular clarity and depth through the framework of the Tibetan [[bardo-thodol]].
+One of the most influential contributions of *The Psychedelic Experience* (Leary, Metzner, Alpert, 1964) to the broader field of psychedelic research is its systematic treatment of **[[lsd-set-and-setting-framework]]** — the foundational principle that the nature and quality of a psychedelic experience is determined not primarily by the chemical substance, but by the psychological preparation (set) and environmental conditions (setting) of the session. This principle, now widely accepted in psychedelic science, was articulated here with particular clarity and depth through the framework of the Tibetan [[bardo-thodol]].
 
 ## The Primacy of Set and Setting
 

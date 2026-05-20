@@ -65,7 +65,7 @@ on scarce inputs when a simpler ecological substitute is available.
 
 ## Related Topics
 
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 
 ## See Also
 

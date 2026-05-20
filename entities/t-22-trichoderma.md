@@ -37,7 +37,7 @@ T-22 is a proprietary strain of *[[trichoderma-harzianum]]* (Rifai) developed th
 
 - Widely used as a seed treatment, soil drench, and foliar spray in commercial agriculture, horticulture, and turf management.
 - In compost tea (AACT) formulations, *Trichoderma harzianum* T-22 can be added as an inoculant to enhance fungal diversity and disease suppression capacity.
-- Effective against damping-off diseases caused by *Pythium* and *Rhizoctonia*, which are common problems in [[mushroom-cultivation]] substrate preparation.
+- Effective against damping-off diseases caused by *Pythium* and *Rhizoctonia*, which are common problems in [[accessible-mushroom-cultivation-for-disabilities]] substrate preparation.
 
 ### Integration with Compost Tea
 

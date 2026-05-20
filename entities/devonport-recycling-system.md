@@ -58,7 +58,7 @@ growing space from what would otherwise be a landfill, and demonstrates the
 
 1. **Compost Production Model:** The windrow composting of all organic waste
    provides a direct template for municipal-scale compost production — the same
-   compost can be used as substrate material for [[mushroom-cultivation]] or as
+   compost can be used as substrate material for [[accessible-mushroom-cultivation-for-disabilities]] or as
    garden amendments.
 
 2. **Mushroom Substrate from Waste:** The chipping/mulch wood stream and organic

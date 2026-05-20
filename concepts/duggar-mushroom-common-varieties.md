@@ -122,7 +122,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 - [[query-how-to-troubleshoot-common-problems-in-mushroom-cultivation]]
 - [[mushroom-spawn-history-and-methods-duggar]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[calvatia-gigantea]]
 - [[dom]]
 - [[duggar-mushroom-culinary-preparation-and-cooking]]

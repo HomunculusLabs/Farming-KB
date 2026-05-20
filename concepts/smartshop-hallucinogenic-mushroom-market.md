@@ -18,7 +18,7 @@ type: concept
 
 The commercial market for [[amanita-muscaria]] ([[hallucinogenic-mushroom-legal-status-europe]]
 
-- [[psilocybe-cubensis]] for the primary product sold through smartshops
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] for the primary product sold through smartshops
 - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures

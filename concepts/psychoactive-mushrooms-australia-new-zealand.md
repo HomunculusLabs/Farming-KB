@@ -12,9 +12,9 @@ Australia and New Zealand host more than a dozen species of psychoactive (psiloc
 
 The first livestock arrived in Australia from the Cape of Good Hope in 1788 — 2 bulls and 5 cows. By 1803, the government owned ~1,800 cattle imported from the Cape, Calcutta, and the west coast of America. According to Australian mycologist John Burton Cleland (1934): "fungi growing in cow or horse-dung and confined to such habitats, must in the case of Australia, all belong to introduced species."
 
-The **South African dung beetle** likely served as the primary [[spore-dispersal]] vector, spreading fungal spores through cattle dung. This same mechanism probably introduced:
+The **South African dung beetle** likely served as the primary [[aquatic-fungi-spore-dispersal-ingold]] vector, spreading fungal spores through cattle dung. This same mechanism probably introduced:
 
-- *[[psilocybe-cubensis]]* / *P. subcubensis*
+- *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* / *P. subcubensis*
 - *[[copelandia-cyanescens]]*
 - *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]*
 - *Psilocybe semilanceata* (grows in manured soil, not directly on dung)

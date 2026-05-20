@@ -155,6 +155,4 @@ Refrigeration at any point slows fermentation dramatically. Kimchi keeps in the 
 
 ## See Also
 
-- [[pickle-making]] — lactic acid fermentation of vegetables in brine
-- [[miso-making]] — another Asian fermented food tradition
-- [[hot-sauce-making]] — another spicy condiment with fermentation options
+- [[candle-making]]

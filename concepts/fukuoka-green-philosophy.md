@@ -45,7 +45,7 @@ balance between the surface and underground portions of the plant.
 Nature is an indivisible whole; all laws emanate from one source and return to
 Mu, or nothingness. Scientists have examined nature from every conceivable angle
 and have seen this unity as a thousand different forms. Each of the so-called
-laws of [[green-philosophy]]
+laws of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
 - [[doc]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]
 

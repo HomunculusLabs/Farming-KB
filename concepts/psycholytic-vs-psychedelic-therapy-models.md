@@ -99,7 +99,7 @@ Specific technical specifications that govern successful results. Success with p
 
 ## Set and Setting in Each Model
 
-The concept of "[[set-and-setting]]"—the psychological state of the individual and the physical and [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]] of the experience—is central to both models but is operationalized differently.
+The concept of "[[lsd-set-and-setting-framework]]"—the psychological state of the individual and the physical and [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]] of the experience—is central to both models but is operationalized differently.
 
 In the psycholytic model, set and setting are managed to create a safe, controlled environment in which the patient can explore difficult material without becoming overwhelmed.
 

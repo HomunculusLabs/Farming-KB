@@ -97,7 +97,7 @@ Related topics include [[aact-brewer-design-principles-aeration-systems-ingham]]
 
 - [[mycelium]]
 - [[spore]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[basidiomycota]]
 - [[ascomycota]]
 ## Practical Applications

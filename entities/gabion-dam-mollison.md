@@ -53,7 +53,7 @@ Gabion dams are permeable barriers constructed from rock-filled wire mesh basket
 
 Gabion dams create moist, silt-rich deposition zones that can support cultivation in otherwise arid landscapes. The accumulated silt and organic matter behind gabion structures creates ideal substrate conditions for moisture-loving fungi. In dryland mycorestoration projects, gabion-sealed valleys provide the sustained soil moisture needed for fungal mycelium to establish and propagate through degraded soils.
 
-The silt fields created by gabion dams progressively build soil depth and organic matter content, transforming eroded gullies into productive growing areas. This has direct application for mycoremediation of eroded landscapes, establishing fungal networks in degraded dryland soils, creating moist microsites for [[mushroom-cultivation]] in arid regions, and building soil carbon through combined silt capture and biological activity.
+The silt fields created by gabion dams progressively build soil depth and organic matter content, transforming eroded gullies into productive growing areas. This has direct application for mycoremediation of eroded landscapes, establishing fungal networks in degraded dryland soils, creating moist microsites for [[accessible-mushroom-cultivation-for-disabilities]] in arid regions, and building soil carbon through combined silt capture and biological activity.
 
 ## Source Reference
 

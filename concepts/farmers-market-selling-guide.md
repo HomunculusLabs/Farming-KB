@@ -148,25 +148,9 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 
 - Arrive early for setup (1-2 hours before market opens)
 - Stay until official close (latecomers are often buyers)
-- Smile, make eye contact, greet everyone
-- Stand up and stay engaged (sitting behind a table creates distance)
-- Keep your booth tidy throughout the day
-- Track sales by item to identify best sellers
-- Accept SNAP/EBT if the market offers it (many provide token systems)
-- Partner with complementary vendors: bread + jam, meat + vegetables
 
-## Record Keeping
+## See Also
 
-- Track daily sales by product (spreadsheet or app)
-- Record weather, customer count, and notes
-- Calculate revenue per hour (market time + prep + travel)
-- Use data to decide which markets and products are most profitable
-- Keep receipts for all market expenses (booth fees, supplies, equipment)
-
-Farmers market success builds the foundation for [[online-homestead-sales]] and supports the broader [[csa-farm-share-model]] approach to homestead revenue.
-
-## Related
-
-- [[online-homestead-sales]]
-
-See also: [[selling-farm-products-and-business]]
+- [[hallucinogenic-mushroom-market-in-europe]]
+- [[emcdda-european-magic-mushroom-smartshop-market]]
+- [[emcdda-hallucinogenic-mushroom-uk-pre-prohibition-market-economics]]

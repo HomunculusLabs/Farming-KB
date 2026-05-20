@@ -25,7 +25,7 @@ Morels are found across [[berry-growing]], Europe, and Asia. They fruit in sprin
 
 Morels are found in a variety of habitats, often associated with specific tree species:
 - Cottonwood ([[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
-- This natural spring warming pattern is essential for [[spawn-preparation]]
+- This natural spring warming pattern is essential for [[azurescens-spawn-preparation-grain-to-wood]]
 - [[morchella-angusticeps]]
 - [[mycelium]]
 

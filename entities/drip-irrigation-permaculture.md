@@ -48,7 +48,7 @@ Drip irrigation (also called trickle irrigation) is a water-efficient irrigation
 ## Relevance to Cultivation and Mycology
 
 - Drip irrigation maintains consistent soil moisture levels critical for mycorrhizal development and beneficial fungal networks in soil.
-- Subsurface drip placement creates moist root zones favorable for [[mushroom-cultivation]] substrates in integrated food forest systems.
+- Subsurface drip placement creates moist root zones favorable for [[accessible-mushroom-cultivation-for-disabilities]] substrates in integrated food forest systems.
 - The precise moisture control enables cultivation of moisture-sensitive fungi in controlled environments.
 - Greywater-fed drip systems integrate nutrient cycling with fungal decomposition of organic particulates.
 

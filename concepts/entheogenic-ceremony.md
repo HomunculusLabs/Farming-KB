@@ -116,6 +116,6 @@ Key metrics include growth rates, resource efficiency, and outcome quality. Docu
 This overview of entheogenic ceremony covers the essential aspects needed for both beginners and experienced practitioners. Continued learning and hands-on experience remain the most reliable paths to mastery in this field.
 
 ## See Also
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[aldous-huxley]]
 - [[jonathan-ott]]

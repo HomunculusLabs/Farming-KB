@@ -151,5 +151,3 @@ Strong colonies raid weak ones, especially during dearths.
 - Do not spill syrup or honey in the apiary
 - Feed in the evening to avoid attracting robbers
 - Use robbing screens on weak colonies during dearths
-
-For seasonal timing of these interventions, see [[beekeeping-seasonal-calendar]].

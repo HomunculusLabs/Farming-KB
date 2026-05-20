@@ -39,7 +39,7 @@ Spinifex (genus *Triodia*, not to be confused with the coastal grass *Spinifex* 
 ## Relevance to Cultivation and Mycology
 
 - **Bioengineering model**: The natural swale-formation behavior of spinifex provides a template for designing biological erosion control and water harvesting systems using tussock grasses.
-- **Fungal associations**: Spinifex roots likely host [[permaculture-design]], [[mushroom-cultivation]].
+- **Fungal associations**: Spinifex roots likely host [[permaculture-design]], [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Sources
 

@@ -19,7 +19,7 @@ source: "Grass fruiting-conditions by Species"
 
 Cold shock is a [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]] must be completely
    colonized, and the casing layer should show visible mycelial penetration
-   (a whitish network on the [[fruiting-chamber]]** — Move trays directly from the fridge into
+   (a whitish network on the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]** — Move trays directly from the fridge into
    the [[passive-humidity-fruit-chamber-polyethylene-sheeting]]
    covers).
 5. **Resume normal misting** — Begin the standard daily misting schedule.
@@ -64,7 +64,7 @@ to standard fruiting conditions without the need for temperature manipulation.
 
 ### Panaeolus subbalteatus
 
-P. subbalteatus (also known as [[psilocybe-cubensis]] — Ecuador Strain
+P. subbalteatus (also known as [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] — Ecuador Strain
 
 The Ecuador strain of P. cubensis is specifically called out as an **easy
 

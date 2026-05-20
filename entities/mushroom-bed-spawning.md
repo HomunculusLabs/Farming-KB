@@ -9,7 +9,7 @@ tags: [technique, cultivation-process, spawning, bed-management]
 
 ## Description
 
-Mushroom bed spawning is the process of inoculating prepared compost beds with mushroom mycelium (spawn) to initiate colonization and subsequent fruiting. This is a critical step in [[mushroom-cultivation]] that requires careful attention to temperature, moisture, and technique. Benjamin Minge Duggar provided detailed early 20th-century instructions for spawning that established principles still followed in modified form today.
+Mushroom bed spawning is the process of inoculating prepared compost beds with mushroom mycelium (spawn) to initiate colonization and subsequent fruiting. This is a critical step in [[accessible-mushroom-cultivation-for-disabilities]] that requires careful attention to temperature, moisture, and technique. Benjamin Minge Duggar provided detailed early 20th-century instructions for spawning that established principles still followed in modified form today.
 
 ## Classification
 

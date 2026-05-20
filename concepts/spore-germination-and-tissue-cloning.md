@@ -6,7 +6,7 @@ type: concept
 
 ## Spore Germination and Tissue Cloning Techniques
 
-Starting fungal cultures is the foundational skill of [[mushroom-cultivation]]. Two primary pathways exist: spore germination, which produces genetically variable offspring, and tissue cloning, which creates genetically identical copies of a parent mushroom. Each method has distinct advantages depending on the cultivator's goals—whether breeding new strains adapted to local conditions or preserving the exact genetics of a high-performing specimen.
+Starting fungal cultures is the foundational skill of [[accessible-mushroom-cultivation-for-disabilities]]. Two primary pathways exist: spore germination, which produces genetically variable offspring, and tissue cloning, which creates genetically identical copies of a parent mushroom. Each method has distinct advantages depending on the cultivator's goals—whether breeding new strains adapted to local conditions or preserving the exact genetics of a high-performing specimen.
 
 ## Spores vs. Cloning: Choosing the Right Approach
 

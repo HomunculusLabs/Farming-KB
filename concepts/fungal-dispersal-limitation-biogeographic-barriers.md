@@ -65,7 +65,7 @@ both challenges and opportunities for fungal conservation:
 
 ## Zoosporic Fungi: The Cosmopolitan Hypothesis
 
-For [[spore-dispersal]]
+For [[aquatic-fungi-spore-dispersal-ingold]]
 - [[dom]]
 - [[douglas-fir]]
 

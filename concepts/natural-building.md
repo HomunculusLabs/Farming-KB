@@ -1,5 +1,4 @@
 ---
-
 title: Natural Building
 created: 2026-04-11
 updated: 2026-04-12
@@ -33,7 +32,7 @@ Natural building uses locally sourced, minimally processed materials — earth, 
 ### Cob
 Monolithic earthen building: subsoil + sand + straw, sculpted by hand in lifts.
 - **Soil test:** Drop a 4" ball from waist height — cracks but holds shape = works
-- **Mix ratio:** ~1 clay soil : 2 sand : 1 straw (by volume)
+- **Mix ratio:** ~1 [[clay-soil]] : 2 sand : 1 straw (by volume)
 - **Wall thickness:** 18–24" load-bearing; thinner for timber frame infill
 - **Foundation:** Rubble trench + stone stem wall 12–18" above grade
 - **Drying:** Each lift (6–8") dries 1–2 weeks
@@ -63,7 +62,7 @@ Sand/earth-filled bags stacked like masonry with barbed wire between courses.
 
 ### Timber Frame
 Post-and-beam with traditional joinery (mortise and tenon, pegged).
-- **Wood:** Oak, Douglas fir, pine, hemlock — local availability matters most
+- **Wood:** Oak, [[douglas-fir]], pine, hemlock — local availability matters most
 - **Infill:** Straw bale, light clay straw, cob, or conventional framing
 - **Tools:** Chainsaw mill, chisels, mallet, drill press
 - **Best for:** Barns, homes, greenhouses — where clear-span space is needed

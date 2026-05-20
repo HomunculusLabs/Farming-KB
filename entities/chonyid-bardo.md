@@ -32,7 +32,7 @@ The Chonyid Bardo [[maps]] onto the middle and most visually intense portion of 
 
 ## Relevance to Cultivation and Mycology
 
-[[psilocybin-mushroom]] experiences at moderate doses (2–5 grams dried [[psilocybe-cubensis]]) typically involve an extended Chonyid Bardo phase with vivid closed-eye and open-eye visuals. [[cultivator-strain-selection-and-stock-culture]] potency affect the intensity of this phase. Facilitators should be prepared to guide subjects through this visionary period using bardo-informed techniques: reminding them that visions are self-generated and encouraging surrender rather than resistance.
+[[psilocybin-mushroom]] experiences at moderate doses (2–5 grams dried [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]) typically involve an extended Chonyid Bardo phase with vivid closed-eye and open-eye visuals. [[cultivator-strain-selection-and-stock-culture]] potency affect the intensity of this phase. Facilitators should be prepared to guide subjects through this visionary period using bardo-informed techniques: reminding them that visions are self-generated and encouraging surrender rather than resistance.
 
 ## Sources and References
 

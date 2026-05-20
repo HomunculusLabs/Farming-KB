@@ -14,7 +14,7 @@ communities are essential triggers for fruitbody formation.
 The mycelium of such species will remain in the vegetative colonization stage indefinitely
 until it encounters compatible microbial partners, at which point it commits energy to the
 fruiting cycle. The interaction between fungal mycelium and casing soil microbes
-represents one of the most significant frontiers in [[mushroom-cultivation]] science.
+represents one of the most significant frontiers in [[accessible-mushroom-cultivation-for-disabilities]] science.
 
 While the phenomenon is well-documented through decades of commercial [[agaricus-cultivation]]
 practice, the specific microbial species, chemical signals, and molecular mechanisms

@@ -28,7 +28,7 @@ D. W. Burger was a researcher at the Department of Environmental Horticulture, U
 
 ## Relevance to Cultivation and Mycology
 
-Burger's co-authored construction guide provides a proven, cost-effective blueprint for building laminar flow hoods — one of the most critical pieces of equipment in [[mushroom-cultivation]]. Mycological work requires the same sterile conditions as plant tissue culture: agar plate pouring, [[duggar-mushroom-life-cycle-spore-germination-fruiting]], mycelium transfer, [[liquid-culture]] work, and substrate inoculation all benefit enormously from [[laminar-flow-hood]] protection. The detailed [[oss-oeric-equipment-and-materials-list]] and construction sequence make this design accessible to amateur and professional mycologists alike.
+Burger's co-authored construction guide provides a proven, cost-effective blueprint for building laminar flow hoods — one of the most critical pieces of equipment in [[accessible-mushroom-cultivation-for-disabilities]]. Mycological work requires the same sterile conditions as plant tissue culture: agar plate pouring, [[duggar-mushroom-life-cycle-spore-germination-fruiting]], mycelium transfer, [[liquid-culture]] work, and substrate inoculation all benefit enormously from [[laminar-flow-hood]] protection. The detailed [[oss-oeric-equipment-and-materials-list]] and construction sequence make this design accessible to amateur and professional mycologists alike.
 
 ## Sources and References
 

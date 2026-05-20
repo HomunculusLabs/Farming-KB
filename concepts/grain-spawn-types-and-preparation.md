@@ -59,7 +59,7 @@ The exponential expansion potential of grain spawn is remarkable. From a single 
 2. G1 to G2 (each G1 inoculates multiple G2 jars)
 3. G2 to G3
 4. G3 to [[det]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[sterilization]]
 
 ## Overview

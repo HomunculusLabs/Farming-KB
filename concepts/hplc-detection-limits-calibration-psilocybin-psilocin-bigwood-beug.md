@@ -11,7 +11,7 @@ created: 2026-05-09
 
 ## Overview
 
-Bigwood and Beug (1982) employed reversed-phase high-performance liquid chromatography (RP-HPLC) for the quantitative analysis of [[psilocybe-cubensis]]* [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] established a linear relationship between analyte concentration and detector response (peak area):
+Bigwood and Beug (1982) employed reversed-phase high-performance liquid chromatography (RP-HPLC) for the quantitative analysis of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] established a linear relationship between analyte concentration and detector response (peak area):
 
 - **Linear range:** 0.2 to 3 μg total psilocybin or psilocin per injection
 - **Repeatability:** 10% relative standard deviation across the linear range

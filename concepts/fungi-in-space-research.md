@@ -90,7 +90,7 @@ Mushrooms offer unique advantages for space agriculture:
 - Astronauts on long missions experience sensory deprivation and psychological stress
 - Growing and tending living organisms provides meaningful work and connection to Earth
 - Mushrooms offer visible, dynamic growth that is psychologically rewarding
-- The earthy smell of [[mushroom-cultivation]] may provide olfactory comfort
+- The earthy smell of [[accessible-mushroom-cultivation-for-disabilities]] may provide olfactory comfort
 
 ### Analog Research
 - Mars Desert Research Station (MDRS) has tested small-scale mushroom cultivation

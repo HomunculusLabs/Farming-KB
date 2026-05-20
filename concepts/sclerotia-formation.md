@@ -87,7 +87,7 @@ its native Florida habitat.
 
 - **Simplicity**: No casing, fruiting chamber, or [[grass-seed-substrate]]
 - [[mushroom-fruiting-chambers]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 
 ## References
 

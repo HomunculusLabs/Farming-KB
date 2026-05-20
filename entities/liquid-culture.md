@@ -26,7 +26,7 @@ large-scale expansion.
 
 ## Classification
 
-Category: Cultivation technique and inoculum type. Domain: Mycology, [[mushroom-cultivation]].
+Category: Cultivation technique and inoculum type. Domain: Mycology, [[accessible-mushroom-cultivation-for-disabilities]].
 Alternative names: LC, mycelial slurry, liquid inoculum. Related techniques: streak
 testing, [[grain-spawn-preparation]], glycerol cryopreservation.
 

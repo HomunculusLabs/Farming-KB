@@ -37,7 +37,7 @@ tags: [zygomycete, obligate-mycoparasite, biotroph, haustorial, mucorales-parasi
 - **Biocontrol potential:** Could theoretically suppress undesirable Mucorales (e.g., *Rhizopus* species causing post-harvest rots), though practical applications are limited by its obligate biotrophy.
 - **[[fungal-ecology]]:** Illustrates the complexity of fungal community interactions, where even primary decomposers (Mucorales) have their own specialized parasites.
 - **Evolutionary biology:** The biotrophic haustorial interface in *Piptocephalis* represents one of the most intimate fungal-fungal interactions and is a model for understanding the evolution of parasitism.
-- **Cultivation systems:** In [[mushroom-cultivation]], Mucorales are common early colonizers of substrate; *Piptocephalis* may naturally occur in substrates and influence the succession of fungal communities.
+- **Cultivation systems:** In [[accessible-mushroom-cultivation-for-disabilities]], Mucorales are common early colonizers of substrate; *Piptocephalis* may naturally occur in substrates and influence the succession of fungal communities.
 
 ## Reading notes
 - This note is classified as an entity page in the local wiki.
@@ -58,7 +58,7 @@ tags: [zygomycete, obligate-mycoparasite, biotroph, haustorial, mucorales-parasi
 ## Local cross-checks
 - Existing wikilink already present on this page: [[piptocephalidaceae]].
 - Existing wikilink already present on this page: [[kingdom-fungi]].
-- Existing wikilink already present on this page: [[mushroom-cultivation]].
+- Existing wikilink already present on this page: [[accessible-mushroom-cultivation-for-disabilities]].
 - Cross-check future additions against names already appearing in the description and key facts.
 - Keep any additional wikilinks limited to existing page names in this vault.
 - Avoid creating a new link merely to make the page longer.

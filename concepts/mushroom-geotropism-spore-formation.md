@@ -8,7 +8,7 @@ source: ["tropisms-in-the-mushroom-psilocybe-cubensis.md"]
 
 ## Mushroom Geotropism and Spore Formation
 
-[[psilocybe-cubensis]] has revealed that this tropic response is intimately linked to [[psilocybe-cubensis]], the geotropic response follows a specific developmental timeline that correlates with the onset of sporulation. The geotropic response is not constant throughout development but rather emerges as a dominant tropic influence at a specific developmental stage, supplanting the earlier anemotropic (wind-directed) growth.
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] has revealed that this tropic response is intimately linked to [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], the geotropic response follows a specific developmental timeline that correlates with the onset of sporulation. The geotropic response is not constant throughout development but rather emerges as a dominant tropic influence at a specific developmental stage, supplanting the earlier anemotropic (wind-directed) growth.
 
 ## Developmental Stages and Geotropic Switching
 

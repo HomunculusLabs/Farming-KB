@@ -44,7 +44,7 @@ feet mixing droppings with road-sand, the finest variety.
 
 His late-career discovery of spawning at 100 degrees and
 immediately applying cold mould, driving heat downward,
-produced crops two weeks earlier. See [[mushroom-cultivation]]
+produced crops two weeks earlier. See [[accessible-mushroom-cultivation-for-disabilities]]
 sat within a broader Victorian movement popularising
 horticultural knowledge among growing middle and working
 classes.

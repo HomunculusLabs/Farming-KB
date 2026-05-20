@@ -42,7 +42,7 @@ The data on *V. pratense* contributes to the broader understanding that fungal m
 
 - [[fungal-biology-fundamentals]]
 - [[fungal-sexual-reproduction]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 
 ## Morphology and Identification
 Vascellum Pratense can be identified through a combination of morphological characteristics including spore morphology, fruiting body structure, and microscopic features. Key diagnostic traits include colony appearance, hyphal structure, and reproductive organ morphology when observed under laboratory conditions. Field identification requires careful attention to habitat, substrate, and seasonal timing of appearance.

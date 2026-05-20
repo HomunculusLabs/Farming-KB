@@ -10,7 +10,7 @@ type: entity
 
 Perlite is a naturally occurring volcanic glass that, when heated to high
 temperatures, expands into a lightweight, porous, bright-white granular
-material. In [[mushroom-cultivation]], perlite is widely used as a passive
+material. In [[accessible-mushroom-cultivation-for-disabilities]], perlite is widely used as a passive
 humidification medium due to its excellent water uptake and transpiration
 properties. Unlike [[vermiculite]], perlite does not absorb and hold water
 within its structure; instead, it wicks moisture through its porous surface

@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Beans are one of the most productive and versatile crops in the home garden. They fix nitrogen from the air through a symbiotic relationship with rhizobia bacteria, improving soil fertility while producing abundant harvests. This guide covers pole vs bush beans, inoculation, succession planting, trellis systems, and drying beans for storage.
+Beans are one of the most productive and versatile crops in the home garden. They fix nitrogen from the air through a symbiotic relationship with rhizobia bacteria, improving soil fertility while producing abundant harvests. This guide covers pole vs bush beans, inoculation, [[succession-planting]], trellis systems, and drying beans for storage.
 
 ## Pole vs Bush Beans
 
@@ -71,7 +71,7 @@ Bean inoculation introduces rhizobia bacteria to the soil, enabling nitrogen fix
 - Well-draining soil, pH 6.0-6.8
 - Beans do not need rich soil — excess nitrogen reduces nodulation
 - Avoid planting in cold, wet soil — seeds rot easily
-- Soil temperature must be at least 60F for reliable germination (70F ideal)
+- [[soil-temperature]] must be at least 60F for reliable germination (70F ideal)
 
 ### Sowing
 - Direct sow only — beans dislike transplanting
@@ -83,7 +83,7 @@ Bean inoculation introduces rhizobia bacteria to the soil, enabling nitrogen fix
 ### Seed Treatment
 - Do not pre-soak seeds — they crack easily when over-soaked
 - Some gardeners dust with inoculant only
-- Treat seeds with diatomaceous earth if seed corn maggots are a known pest
+- Treat seeds with [[diatomaceous-earth]] if seed corn maggots are a known pest
 
 ## Succession Planting
 
@@ -131,7 +131,7 @@ Succession planting extends the bean harvest over many weeks.
 ### Corn Stalks (Three Sisters)
 - Pole beans climbing corn stalks as part of the traditional Three Sisters planting
 - Plant beans 2-3 weeks after corn to avoid competition
-- See [[food-forest-design]] for companion planting concepts
+- See [[food-forest-design]] for [[companion-planting]] concepts
 
 ## Drying Beans
 

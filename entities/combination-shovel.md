@@ -50,7 +50,7 @@ The combination shovel is a versatile digging tool that combines the functions o
 
 ## Relevance to Cultivation and Mycology
 
-- **Bed preparation:** Essential for preparing garden beds and [[mushroom-cultivation]] beds by hand
+- **Bed preparation:** Essential for preparing garden beds and [[accessible-mushroom-cultivation-for-disabilities]] beds by hand
 - **Soil turning:** Used for double-digging and deep bed preparation methods
 - **Compost management:** Effective for turning compost piles and moving finished compost
 - **Substrate preparation:** Can be used for mixing bulk substrate materials in [[outdoor-mushroom-cultivation]]

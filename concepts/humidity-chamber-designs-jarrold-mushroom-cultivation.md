@@ -66,7 +66,7 @@ The angled drip lids are made from 2mm plastic sheet formed into V-shaped panels
 
 ## Design 3: Warm Humid Air Delivery Chamber
 
-The most advanced design described by Jarrold adds active heating, making it suitable for cold-climate cultivation or winter growing when ambient temperatures are too low for [[mushroom-cultivation]]
+The most advanced design described by Jarrold adds active heating, making it suitable for cold-climate cultivation or winter growing when ambient temperatures are too low for [[accessible-mushroom-cultivation-for-disabilities]]
 - [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]]
 - [[simple-stackable-fruiting-chamber-passive-humidity-cultivation]]
 

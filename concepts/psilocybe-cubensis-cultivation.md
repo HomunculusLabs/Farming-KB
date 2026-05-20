@@ -13,7 +13,7 @@ type: concept
 [[psilocybin-mushrooms]], [[harm-reduction-guide]]
 ## Background and Context
 
-[[psilocybe-cubensis]] Cultivation is an important subject that has garnered significant attention
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] Cultivation is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

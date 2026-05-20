@@ -33,7 +33,7 @@ A mesocosm is an experimental research system that occupies an intermediate posi
 - Mesocosm approaches can be used to test cultivation substrate formulations, composting protocols, and [[mycorrhizal-inoculation]] strategies under semi-realistic conditions before scaling to field trials.
 - They allow controlled comparison of fungal community development in different cultivation media or soil types while maintaining ecological complexity.
 - Mesocosms can be used to study the impact of environmental stressors (drought, heavy metals, temperature changes) on fungal communities relevant to cultivation.
-- The approach is valuable for optimizing [[mushroom-cultivation]] conditions: testing how [[saprotrophic-fungi]] interact with competing microorganisms in substrate at a manageable scale.
+- The approach is valuable for optimizing [[accessible-mushroom-cultivation-for-disabilities]] conditions: testing how [[saprotrophic-fungi]] interact with competing microorganisms in substrate at a manageable scale.
 - Mesocosm experiments can validate whether laboratory findings about individual fungal species translate to community-level outcomes in cultivation systems.
 - Understanding the mesocosm concept helps cultivation researchers design experiments that are ecologically meaningful rather than oversimplified.
 

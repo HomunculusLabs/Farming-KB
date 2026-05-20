@@ -26,7 +26,7 @@ chemical studies.
 
 ## The Coprinifacies-Bohemica Complex
 
-Psilocybe coprinifacies exemplifies the depth of [[psilocybe-cubensis]] alone carries synonyms including
+Psilocybe coprinifacies exemplifies the depth of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] alone carries synonyms including
 [[psilocybe-zapotecorum]] from Mexico and South America is
 closely related to P. aucklandii from New Zealand. P. hoogshagenii was
 treated as P. zapotecorum sensu Singer, though it is now recognized as

@@ -29,7 +29,7 @@ Two sub-models emerged in the 1950s–1960s:
 
 **Key shared principles:**
 1. Profoundly expanded state of consciousness — goes beyond therapeutic insight into questioning fundamental reality concepts
-2. **[[set-and-setting]]** are the primary determinants; the drug is a catalyst (Leary, Litwin & Metzner 1963)
+2. **[[lsd-set-and-setting-framework]]** are the primary determinants; the drug is a catalyst (Leary, Litwin & Metzner 1963)
 3. Two metaphors: **amplifier** (nonspecific psychic amplifier) and **microscope** (opens hidden realms of mind to direct observation)
 4. Therapist's personal experience with psychedelics is essential — without it, communication with the patient in an altered state is severely limited
 5. Access to transcendent, [[metzner-transpersonal-dimensions-psychedelic-therapy]] of consciousness (Grof's "holotropic" states)

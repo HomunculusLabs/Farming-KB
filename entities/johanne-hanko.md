@@ -16,7 +16,7 @@ Johanne Hanko is an international consultant and technical specialist in disabil
 - **Category**: Person / Author / Development specialist
 - **Role**: International consultant for FAO TCP/THA/8821(A)
 - **Specialization**: Technical specialist in disability matters
-- **Publication**: Author of the FAO training manual on [[mushroom-cultivation]] for people with disabilities
+- **Publication**: Author of the FAO training manual on [[accessible-mushroom-cultivation-for-disabilities]] for people with disabilities
 
 ## Contributions
 

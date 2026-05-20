@@ -34,13 +34,13 @@ Importantly, coprine itself is not directly toxic—it only causes symptoms in t
 
 ## Ecological Role
 
-*Coprinus atramentarius* is a saprotrophic fungus that decomposes dead wood and organic matter in soil. The mycelium colonizes buried roots, stumps, and other woody debris, secreting [[spore-dispersal]] through the inky fluid, which is spread by rain splash, insect activity, and contact with passing animals. This dispersal mechanism is particularly effective in the humid, sheltered microenvironments where the species typically fruits.
+*Coprinus atramentarius* is a saprotrophic fungus that decomposes dead wood and organic matter in soil. The mycelium colonizes buried roots, stumps, and other woody debris, secreting [[aquatic-fungi-spore-dispersal-ingold]] through the inky fluid, which is spread by rain splash, insect activity, and contact with passing animals. This dispersal mechanism is particularly effective in the humid, sheltered microenvironments where the species typically fruits.
 
 ## Biochemical and Research Significance
 
 Coprine from *C. atramentarius* has been studied extensively as a biochemical tool and potential pharmacological agent. The compound's specific inhibition of acetaldehyde dehydrogenase has made it a subject of research in [[parasola-plicatilis]]
 
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[volvariella-volvacea]]
 
 ## Overview

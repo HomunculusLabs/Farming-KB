@@ -150,16 +150,3 @@ Curing thickens the skin and heals minor cuts, dramatically improving storage li
 | Spaghetti | 2-3 months |
 | Delicata | 2-3 months |
 | Acorn | 1-2 months |
-
-### Storage Tips
-- Do NOT refrigerate — cold damage causes chilling injury (watery spots, decay).
-- Do NOT store near apples, pears, or bananas — ethylene gas shortens storage.
-- Eat the shortest-storing varieties first (acorn, delicata).
-- Save longest-storing varieties (butternut, hubbard) for deep winter.
-
-## Related Concepts
-
-- [[companion-planting-reference]] — corn, beans, and nasturtiums as squash companions (Three Sisters)
-- hugelkultur guide — squash cascading off hugel mounds
-- [[mulching-guide]] — heavy mulching for moisture retention
-- [[sweet-potato-guide]] — another storage crop with similar planting timing

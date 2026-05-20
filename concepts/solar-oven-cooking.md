@@ -149,16 +149,8 @@ that melts at 150F — indicates when water is safe.
 
 ## Limitations and Considerations
 
-- **Weather dependent** — clouds, rain, and short winter days limit usability
-- **Time investment** — requires planning and periodic adjustment
-- **Learning curve** — cooking times vary with conditions; requires
-  experimentation
-- **Complement, don't replace** — best used alongside other cooking methods;
-  see [[root-cellaring-guide]] and [[ice-house-and-spring-house]] for
-  other off-grid food preservation approaches
+## See Also
 
-## Off-Grid Integration
-
-Solar ovens pair well with other off-grid infrastructure. For water heating
-systems, see [[solar-water-heating]]. For general off-grid living principles,
-see [[rainwater-harvesting-systems]].
+- [[comparison-solar-cooking-vs-cob-oven]]
+- [[solar-cooking-methods]]
+- [[comparison-biomass-compost-greenhouse-heating-systems-vs-solar-cooking-methods]]

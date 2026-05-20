@@ -127,7 +127,7 @@ Several Boletus species stain blue when bruised. Some are edible (after thorough
 - Check for insect damage (porcini are notoriously prone to worm infestation)
 - Slice open lengthwise in the field to check for larvae
 - Accept some insect damage — it is normal and does not affect the edible portions
-- Carry in a basket or mesh bag for [[spore-dispersal]]
+- Carry in a basket or mesh bag for [[aquatic-fungi-spore-dispersal-ingold]]
 - Do not wash — brush off debris
 
 ## Preservation (Drying)

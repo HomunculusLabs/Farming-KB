@@ -100,7 +100,7 @@ challenges for analytical chemistry:
 
 The omission of baeocystin from most potency studies, including Bigwood and
 Beug's otherwise rigorous work, means that the total psychoactive alkaloid
-content of *[[psilocybe-cubensis]]* is likely underestimated. Future studies
+content of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* is likely underestimated. Future studies
 employing LC-MS with multi-analyte panels could provide a more complete
 picture of the flush-dependent dynamics of the entire tryptamine alkaloid
 profile.

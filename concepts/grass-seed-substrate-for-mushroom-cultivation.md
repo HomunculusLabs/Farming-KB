@@ -139,7 +139,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[lolium-perenne]]
 - [[spore]]
 - [[grass-seed-cultivation-of-psilocybe-species]]

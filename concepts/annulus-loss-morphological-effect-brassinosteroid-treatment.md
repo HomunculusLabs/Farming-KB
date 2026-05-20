@@ -34,7 +34,7 @@ protocols regardless of circumstances or local variation.
 
 [[brassinosteroid]]
 - [[det]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 
 ## Overview
 

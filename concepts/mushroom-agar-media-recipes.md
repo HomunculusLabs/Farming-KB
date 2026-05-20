@@ -22,7 +22,7 @@ Agar media are gelatinous, nutrient-rich substrates used for culturing mushroom 
 
 All agar media share these components:
 
-- **Agar:** A gelling agent derived from red algae (Gelidium or Gracilaria species), typically used at 1.5-2.0% concentration (15-20 g per liter). Provides a solid but moist surface for mycelial growth
+- **Agar:** A gelling agent derived from red algae (Gelidium or [[gracilaria]] species), typically used at 1.5-2.0% concentration (15-20 g per liter). Provides a solid but moist surface for mycelial growth
 - **Nutrient source:** Provides carbohydrates, nitrogen, minerals, and vitamins for fungal growth
 - **Water:** Distilled or deionized; typically 1 liter per recipe
 - **pH adjustment:** Most mushroom mycelium prefers slightly acidic conditions (pH 5.0-6.5)
@@ -66,7 +66,7 @@ An excellent all-purpose medium, often preferred over PDA for its consistency an
 
 ### Dog Food Agar (DFA)
 
-A versatile, nutrient-rich medium popularized by Paul Stamets for its ability to support a wide range of fungal species. Uses commercially available canned dog food as the nutrient base.
+A versatile, nutrient-rich medium popularized by [[paul-stamets]] for its ability to support a wide range of fungal species. Uses commercially available canned dog food as the nutrient base.
 
 **Ingredients:**
 - 1 can (approximately 400 g) meat-based canned dog food (avoid fish-based varieties)
@@ -81,7 +81,7 @@ A versatile, nutrient-rich medium popularized by Paul Stamets for its ability to
 5. Return liquid to 1 liter volume
 6. Add agar, stir until dissolved
 7. Adjust pH to 5.6-6.0
-8. Dispense and sterilize at 15 psi for 30 minutes (the organic content requires slightly longer sterilization)
+8. Dispense and sterilize at 15 psi for 30 minutes (the organic content requires slightly longer [[sterilization]])
 
 ### Dextrose Yeast Extract Agar (DYEA)
 
@@ -111,7 +111,7 @@ For isolating fungi from contaminated samples:
 
 - Prepare PDA or MEA as described
 - After autoclaving and cooling to 50-55°C (warm but not hot enough to denature antibiotics), add:
-  - 50 mg streptomycin per liter, OR
+  - 50 mg [[streptomycin]] per liter, OR
   - 30 mg chloramphenicol per liter, OR
   - 25 mg penicillin + 50 mg streptomycin per liter
 
@@ -147,25 +147,7 @@ A richer medium for fastidious species:
 ## Pouring Plates
 
 1. Allow sterilized media to cool to approximately 50-55°C (comfortable to touch but still liquid)
-2. Pour 20-25 mL into each sterile Petri dish inside a laminar flow hood
+2. Pour 20-25 mL into each sterile Petri dish inside a [[laminar-flow-hood]]
 3. Cover immediately and allow to solidify (15-30 minutes)
 4. Invert plates and store at room temperature; use within 2-4 weeks
 5. Before use, check for contamination -- any plates showing microbial growth should be discarded
-
-## Storage
-
-- Prepared plates: store inverted at room temperature (65-75°F) in sealed bags; use within 4 weeks
-- Prepared but unpoured media: store sterilized bottles at room temperature; remelt to pour as needed
-- Dry agar powder: store in airtight containers in a cool, dry place; stable for years
-
-## See Also
-
-- [[pda-and-tissue-culture|PDA and tissue culture]]
-- [[mushroom-agar-work|agar work guide]]
-- [[agar-work-guide|agar work detailed guide]]
-- [[mushroom-cultivation-cloning-isolation|tissue culture and strain isolation]]
-
-## Related
-
-- [[grain-spawn-preparation]]
-- [[mushroom-cultivation-sterile-technique]]

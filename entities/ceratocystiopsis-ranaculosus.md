@@ -28,7 +28,7 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-C. ranaculosus exemplifies fungal mutualism with insects through nitrogen concentration. The fungus transforms low-nutrient phloem into a nitrogen-rich substrate, paralleling processes in [[mushroom-cultivation]] where fungi concentrate nutrients from bulk substrates. The competitive dynamics between this beneficial fungus and antagonistic O. minus illustrate principles of fungal community ecology relevant to managing competitor molds in cultivation.
+C. ranaculosus exemplifies fungal mutualism with insects through nitrogen concentration. The fungus transforms low-nutrient phloem into a nitrogen-rich substrate, paralleling processes in [[accessible-mushroom-cultivation-for-disabilities]] where fungi concentrate nutrients from bulk substrates. The competitive dynamics between this beneficial fungus and antagonistic O. minus illustrate principles of fungal community ecology relevant to managing competitor molds in cultivation.
 
 ## Ecological Role
 

@@ -27,7 +27,7 @@ Sheds ranked second only to pits or frames for mushroom
 cultivation. Beds in sheds were convenient to access and
 easily covered and uncovered as needed. Cuthill grew
 mushrooms under open sheds for extended periods, though he
-encountered difficulties with [[mushroom-cultivation]], suggesting that orchard
+encountered difficulties with [[accessible-mushroom-cultivation-for-disabilities]], suggesting that orchard
 houses, with their glass covering and shade management,
 would provide excellent growing conditions.
 

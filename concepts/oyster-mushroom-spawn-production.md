@@ -9,7 +9,7 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 
 # Oyster Mushroom Spawn Production
 
-Spawn is the mycelium-rich material used to inoculate bulk substrates for [[mushroom-cultivation]]. Producing high-quality spawn is the foundation of successful mushroom growing. Poor spawn = poor or no mushrooms, regardless of substrate quality.
+Spawn is the mycelium-rich material used to inoculate bulk substrates for [[accessible-mushroom-cultivation-for-disabilities]]. Producing high-quality spawn is the foundation of successful mushroom growing. Poor spawn = poor or no mushrooms, regardless of substrate quality.
 
 ## Types of Spawn
 

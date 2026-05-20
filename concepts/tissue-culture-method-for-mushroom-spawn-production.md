@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The tissue culture method for producing [[mushroom-cultivation]] from a chance-dependent art into a systematic, repeatable science.
+The tissue culture method for producing [[accessible-mushroom-cultivation-for-disabilities]] from a chance-dependent art into a systematic, repeatable science.
 
 ## Scientific Background
 

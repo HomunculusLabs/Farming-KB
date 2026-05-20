@@ -16,7 +16,7 @@ created: 2026-05-07
 
 The effects [[pf-tek-mushroom-potency-and-age-relationship]] depends on multiple factors:
 
-- **Species and variety**: [[psilocybe-cubensis]] contains up to 0.6% [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] develops rapidly. Repeated dosing within a short period requires increasingly higher amounts to achieve similar effects. Tolerance typically dissipates after several days of abstinence, consistent with 5-HT2A receptor downregulation and recovery kinetics.
+- **Species and variety**: [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] contains up to 0.6% [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] develops rapidly. Repeated dosing within a short period requires increasingly higher amounts to achieve similar effects. Tolerance typically dissipates after several days of abstinence, consistent with 5-HT2A receptor downregulation and recovery kinetics.
 
 ## Routes of Administration
 

@@ -1,5 +1,4 @@
 ---
-
 title: Orchard Pest Management
 created: 2026-04-11
 updated: 2026-04-12
@@ -149,12 +148,3 @@ Following [[regenerative-agriculture-history]] principles, the most sustainable 
 5. **Monitoring** — regular scouting catches problems early when intervention is most effective
 6. **Tolerance** — accepting some cosmetic damage focuses resources on tree health rather than perfection
 
-## See Also
-
-- [[orchard-management]] — Site selection, planting, pruning, harvest, seasonal calendar
-- [[fruit-tree-varieties]] — Disease-resistant variety recommendations
-- [[cannabis-pest-management]] — General IPM principles applicable across crops
-- [[companion-planting-reference]] — Pest-repellent companion plants
-- [[companion-planting-reference]] — Detailed companion planting reference
-- [[fungal-pest-control]] — Fungal-based pest management approaches
-- [[fruit-tree-pruning]] — Pruning for disease prevention

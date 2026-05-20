@@ -149,28 +149,7 @@ For medicinal use:
 
 ## Drying and Storage
 
-- Bundle stems and hang upside down, or spread leaves on screens
-- Dry in a warm, dark, well-ventilated area (90-100 degrees F in a dehydrator)
-- Lemon balm loses some of its lemon scent during drying but retains
-  medicinal properties
-- Store dried leaves in airtight containers away from light
-- Properly stored, dried lemon balm retains quality for 6-12 months
-- For the freshest flavor, freeze leaves in ice cube trays with water or oil
-
-## Common Issues
-
-Lemon balm is generally pest and disease resistant. Watch for:
-- [[powdery-mildew]]: Improve air circulation; avoid overhead watering
-- Spider mites: Common in dry, hot conditions; increase humidity
-- Rust: Remove affected leaves; avoid crowding
-- Slugs: May damage young growth; use organic slug controls
-
 ## See Also
 
-- [[chamomile-growing-guide]] -- pair with lemon balm in calming tea blends
-- [[holy-basil-tulsi-guide]] -- another aromatic medicinal herb for daily
-  wellness teas
-
-## Related
-
-- [[st-johns-wort-guide]]
+- [[lemon-balm-melissa-officinalis]]
+- [[comparison-hawthorn-vs-lemon-balm]]

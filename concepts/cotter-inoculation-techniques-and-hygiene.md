@@ -61,7 +61,7 @@ long. Break apart matted spawn during inoculation as you spread it through the
 media. Record the details of each batch in a cultivation journal including
 growing [[inoculation-methods]]
 - [[oyster-mushroom]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 
 ## Overview
 

@@ -22,7 +22,7 @@ type: concept
 
 ## Overview
 
-Bigwood and Beug (1982) developed a controlled [[psilocybe-cubensis]]. Published in the *Journal of Ethnopharmacology*, this study provided the first systematic quantitative data on [[rye-grain-miniculture-production-parameters]] technique with high-performance liquid chromatography (HPLC) analysis, enabling precise tracking of alkaloid content from inoculation through five flushes.
+Bigwood and Beug (1982) developed a controlled [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]. Published in the *Journal of Ethnopharmacology*, this study provided the first systematic quantitative data on [[rye-grain-miniculture-production-parameters]] technique with high-performance liquid chromatography (HPLC) analysis, enabling precise tracking of alkaloid content from inoculation through five flushes.
 
 Prior to this work, most published alkaloid assays were performed on single-batch samples of unknown age, storage history, and strain identity, making it impossible to distinguish biological variation from degradation artifacts. Bigwood and Beug addressed this gap by controlling every variable from spore to analysis.
 

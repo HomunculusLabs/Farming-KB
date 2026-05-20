@@ -7,7 +7,7 @@ tags: []
 sources:
   - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
 ---
- title: [[psilocybe-cubensis]] Strain Potency Comparison of Amazon, M.R., and Equadorian tags:
+ title: [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] Strain Potency Comparison of Amazon, M.R., and Equadorian tags:
   - psilocybin - psilocin - psilocybe-cubensis - strain-comparison - potency - alkaloid-profile -
   cultivation - HPLC - cap-stem-distribution - mycology
 date: 2026-04-28 updated: 2026-04-28 sources:

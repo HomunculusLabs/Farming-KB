@@ -30,7 +30,7 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-The southern pine beetle system is a classic model for studying fungal-insect symbiosis. The mycangial fungi effectively pre-digest phloem tissue, concentrating nitrogen to benefit beetle larvae, analogous to how cultivated fungi break down substrate for nutrient release. The competitive dynamics between beneficial mycangial fungi and antagonistic O. minus illustrate principles of fungal community management relevant to controlled cultivation. Understanding how beetles selectively cultivate beneficial fungi while managing competitors has parallels in [[mushroom-cultivation]] hygiene and competitor mold management.
+The southern pine beetle system is a classic model for studying fungal-insect symbiosis. The mycangial fungi effectively pre-digest phloem tissue, concentrating nitrogen to benefit beetle larvae, analogous to how cultivated fungi break down substrate for nutrient release. The competitive dynamics between beneficial mycangial fungi and antagonistic O. minus illustrate principles of fungal community management relevant to controlled cultivation. Understanding how beetles selectively cultivate beneficial fungi while managing competitors has parallels in [[accessible-mushroom-cultivation-for-disabilities]] hygiene and competitor mold management.
 
 ## Ecological Role
 

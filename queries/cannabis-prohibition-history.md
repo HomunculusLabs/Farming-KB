@@ -148,8 +148,3 @@ The Controlled Substances Act, War on Drugs, medical marijuana movement, and mod
 ## Related Pages
 
 - [[cannabis-modern-reform-era]] — CSA, War on Drugs, medical marijuana, and legalization (1970-present)
-- [[cannabis-health-therapeutics]] — medical applications by condition
-- [[cannabis-genetics-and-breeding]] — breeding methods shaped by prohibition-era underground work
-- [[robert-clarke]] — cannabis botany and ethnobotany authority
-- [[cannabis-spiritual-ritual-use]] — ceremonial use across traditions
-- [[cannabis-living-soil-guide]] — modern living soil cultivation methods

@@ -14,7 +14,7 @@ type: concept
 Cool desiccation is the [[pf-tek]]'s recommended method for drying harvested
 mushrooms. Using chemical desiccants to absorb moisture from the surrounding
 air, this technique dries mushrooms at room temperature or below without the
-heat damage that degrades alkaloid content. [[psilocybe-cubensis]] achieves its maximum
+heat damage that degrades alkaloid content. [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] achieves its maximum
 
 ## Key Considerations
 

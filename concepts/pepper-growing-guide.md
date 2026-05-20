@@ -46,7 +46,7 @@ Peppers (Capsicum species) are warm-season crops that thrive in heat and full su
 - Peppers are slower to germinate and grow than tomatoes.
 
 ### Germination
-- Optimal soil temperature: 75-85°F.
+- Optimal [[soil-temperature]]: 75-85°F.
 - Use a heat mat — peppers are warmth-dependent for germination.
 - Germination time: 7-14 days (some hot peppers take 21+ days).
 - Soaking seeds in warm water for 4-6 hours before planting can speed germination.
@@ -56,7 +56,7 @@ Peppers (Capsicum species) are warm-season crops that thrive in heat and full su
 - Maintain 65-70°F after germination (cooler than germination temp).
 - 14-16 hours of light per day under grow lights.
 - Do not overwater — peppers are more sensitive to wet feet than tomatoes.
-- Fertilize with diluted fish emulsion or liquid kelp every 2 weeks once true leaves appear.
+- Fertilize with diluted [[fish-emulsion]] or liquid kelp every 2 weeks once true leaves appear.
 
 ## Transplanting
 
@@ -102,7 +102,7 @@ Peppers are moderate feeders — not as heavy as tomatoes or corn.
 - Consistent moisture is key — peppers are sensitive to fluctuations.
 - 1-1.5 inches per week.
 - Mulch heavily to conserve moisture and regulate soil temperature.
-- Drip irrigation ideal; avoid overhead watering.
+- [[drip-irrigation]] ideal; avoid overhead watering.
 - Peppers tolerate drier conditions than tomatoes but produce better with consistent moisture.
 - Reduce watering slightly as fruits mature to concentrate flavor.
 
@@ -148,10 +148,7 @@ Peppers are moderate feeders — not as heavy as tomatoes or corn.
 - **Smoking and drying**: Chipotle (smoked jalapeño), smoked cayenne for spice blends.
 
 ## Related
+- [[tomato-pepper-eggplant-growing-guide]]
+- [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
+- [[comparison-pepper-growing-guide-vs-tomato-growing-guide]]
 
-- [[fermented-hot-sauce-guide]] Concepts
-
-- [[tomato-growing-guide]] — related nightshade with similar growing conditions
-- [[companion-planting-reference]] — basil, tomatoes, and carrots as pepper companions
-- [[seed-starting-reference]] — indoor starting techniques and schedules
-- [[soil-amendment-reference]] — calcium, phosphorus, and potassium sources

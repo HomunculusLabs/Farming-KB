@@ -141,5 +141,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]
 - [[williams-pdc-electricity-in-permaculture]]
 - [[williams-pdc-food-forests]]
-- [[williams-pdc-invisible-structures]]
+- [[permaculture-invisible-structures-economics]]
 - [[williams-pdc-permaculture-ethics-and-holmgrens-principles]]

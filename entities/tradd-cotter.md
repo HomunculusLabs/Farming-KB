@@ -64,7 +64,7 @@ They also illustrate how mushrooms can enter local economies through prepared go
 
 ## Relationship to other mycologists
 
-Cotter belongs to the same applied-mycolology lineage as [[mushroom-cultivation]]
+Cotter belongs to the same applied-mycolology lineage as [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mushroom-infused-honey-preparation]]
 - [[oyster-mushroom-coffee-grounds-cultivation]]
 

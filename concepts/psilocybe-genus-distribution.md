@@ -78,7 +78,7 @@ The production of psilocybin and related compounds may serve an ecological funct
 - **Chemical defense** against fungivorous invertebrates
 - **Antimicrobial** properties protecting the fungal mycelium from bacterial competitors
 - **Growth regulation** as a byproduct of tryptophan metabolism
-- **Insect behavior modification** to aid [[spore-dispersal]]
+- **Insect behavior modification** to aid [[aquatic-fungi-spore-dispersal-ingold]]
 
 ## Distribution and Indigenous Knowledge
 
@@ -119,5 +119,5 @@ These naturalized populations demonstrate the ecological plasticity of some *Psi
 ## See Also
 
 - [[sacred-mushrooms-ethnography]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[psilocybe-semilanceata]]

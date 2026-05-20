@@ -7,7 +7,7 @@ tags: [ecology, permaculture-theory, biodiversity]
 
 ## Description
 
-An ecological niche is the role and position a species has in its environment — how it meets its needs for food and shelter, how it survives, and how it reproduces. Mollison extends the concept beyond space to include time, defining three types of niche: niche in space (territory), niche in time (cycles of opportunity), and niche in space-time (schedules). This expanded definition is central to [[mushroom-cultivation]], understanding temporal niches helps prevent contamination — competing molds occupy similar substrate niches at different stages
+An ecological niche is the role and position a species has in its environment — how it meets its needs for food and shelter, how it survives, and how it reproduces. Mollison extends the concept beyond space to include time, defining three types of niche: niche in space (territory), niche in time (cycles of opportunity), and niche in space-time (schedules). This expanded definition is central to [[accessible-mushroom-cultivation-for-disabilities]], understanding temporal niches helps prevent contamination — competing molds occupy similar substrate niches at different stages
 - [[mycorrhizal-fungi]] occupy a critical spatial niche between plant roots and soil, acting as nutrient exchange intermediaries
 - Filling empty niches with beneficial fungi (e.g., inoculating wood chips with [[fungal-allelopathy-mechanisms-and-ecological-effects]]
 - [[coleman-beneficial-insects-and-ecological-pest-control]]

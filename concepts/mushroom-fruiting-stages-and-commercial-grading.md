@@ -39,7 +39,7 @@ During the period described in this source, the price structure for mushrooms sh
 - **Peak production season**: 25 cents or less per pound, sometimes below cost of production
 - **Private consumer retail**: 60 to 75 cents per pound
 
-The great future development of the mushroom industry was seen as lying in the direction of retail trade development and direct [[mushroom-cultivation]]
+The great future development of the mushroom industry was seen as lying in the direction of retail trade development and direct [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mushroom-compost-preparation]]
 
 ## Overview

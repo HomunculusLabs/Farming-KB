@@ -6,7 +6,7 @@ originating from the PF TEK brassinosteroid-effects-on-fungal-fruiting-morpholog
 
 ## Core Design Concept
 
-The fundamental innovation is separation of the [[fruiting-chamber]]
+The fundamental innovation is separation of the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]
 - [[brassinosteroid]]
 - [[pf-tek-dual-chambered-terrarium-fruiting]]
 

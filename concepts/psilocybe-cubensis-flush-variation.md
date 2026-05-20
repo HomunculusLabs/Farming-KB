@@ -15,7 +15,7 @@ tags:
 
 ## [[mycelium]] may rest before producing another flush. Bigwood & Beug
 studied up to six flushes from three independent minicultures of the **Amazon
-strain** of *[[psilocybe-cubensis]]* (originally collected in Pucallpa, Peru).
+strain** of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* (originally collected in Pucallpa, Peru).
 
 The key finding was that **[[psilocybin]] and psilocin do not follow the same
 pattern** across flushes. Their accumulation dynamics are independent, suggesting

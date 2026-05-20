@@ -54,7 +54,7 @@ relies entirely on passive exchange through the side holes.
 ## Cold Shock Treatment
 
 For harder-to-fruit strains, a cold shock treatment precedes placement in
-the [[fruiting-chamber]]. The cased trays are placed in a refrigerator
+the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]. The cased trays are placed in a refrigerator
 (approximately 4°C) for one night before being transferred to the fruiting
 bins. This temperature drop mimics the natural onset of autumn conditions
 that trigger fruiting in many mushroom species. Not all strains require this

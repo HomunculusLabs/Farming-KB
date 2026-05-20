@@ -46,7 +46,7 @@ population.
 The author draws a vivid analogy to explain the consequences: just as the Florida
 panther and other rare mammals may be condemned by the effects of inbreeding —
 manifesting what geneticists call "[[doc]]
-- [[spore-dispersal]]
+- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[mycelium]]
 
 ## Overview

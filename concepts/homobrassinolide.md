@@ -112,7 +112,7 @@ physiology research, and understanding of cross-kingdom sterol signaling.
 
 ## See Also
 
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[mycelial-growth-promotion]]
 
 ## References

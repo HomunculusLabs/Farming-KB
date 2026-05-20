@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Fungal DNA barcoding uses standardized DNA regions to rapidly identify fungal species from small tissue samples. It has revolutionized fungal taxonomy, ecology, and monitoring, enabling identification of fungi that are difficult or impossible to distinguish by morphology alone. The technique is essential for environmental DNA (eDNA) studies, biosecurity, and citizen science.
+Fungal DNA barcoding uses standardized DNA regions to rapidly identify fungal species from small tissue samples. It has revolutionized [[fungal-taxonomy]], ecology, and monitoring, enabling identification of fungi that are difficult or impossible to distinguish by morphology alone. The technique is essential for environmental DNA (eDNA) studies, biosecurity, and citizen science.
 
 ## The ITS Region
 
@@ -150,33 +150,8 @@ Projects like the North American Mycoflora Project aim to:
 3. Build a comprehensive, georeferenced fungal database
 4. Train citizen scientists in collection and documentation protocols
 
-### eDNA Monitoring
-
-- Water, soil, and air sampling for fungal DNA
-- Enables monitoring of fungal pathogens (e.g., Batrachochytrium dendrobatidis in amphibian habitats)
-- Early detection of invasive species
-- Tracking seasonal fungal community changes
-
-## Applications
-
-- Species identification for foraging safety
-- Environmental monitoring and biosecurity
-- Food safety (identifying contaminants and toxins)
-- Indoor air quality (mold identification)
-- Soil health assessment
-- Conservation biology (rare species monitoring)
-- Forensic mycology (post-mortem interval estimation)
-- See [[mushroom-taxonomy-history]] for how DNA barcoding has reshaped fungal taxonomy
-
 ## See Also
 
-- [[mushroom-taxonomy-history]] — How molecular methods revolutionized fungal classification
-- [[fungal-symbiosis-types]] — Identifying symbiotic fungi through barcoding
-- [[fungal-parasites-and-predators]] — Molecular identification of predatory fungi
-- [[fungal-biology-fundamentals]]
-- [[lichen-biology-guide]]
-
-## Related
-
-- [[fungal-species-estimates-taxonomy]]
-- [[fungal-species-concept-and-taxonomy]]
+- [[dna-barcoding-fungal-identification]]
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]]
+- [[fungal-environmental-dna]]

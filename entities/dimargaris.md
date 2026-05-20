@@ -35,7 +35,7 @@ tags: [zygomycete, mycoparasite, biotroph, dimargaritales, haustorial]
 *Dimargaris* and the Dimargaritales contribute to our understanding of fungal community dynamics:
 - **Soil ecology:** As parasites of Mucorales, Dimargaritales influence the competitive dynamics between primary sugar fungi (Mucorales) and later-successional fungi in soil and [[composting-systems]].
 - **Evolutionary significance:** The independent origins of mycoparasitism in at least three zygomycete lineages suggest strong selective pressure for this lifestyle, likely driven by the ecological dominance of Mucorales in early succession habitats.
-- **[[mushroom-cultivation]]:** In [[substrate-preparation]], understanding the natural enemies of Mucorales contaminants could inform biological control approaches.
+- **[[accessible-mushroom-cultivation-for-disabilities]]:** In [[substrate-preparation]], understanding the natural enemies of Mucorales contaminants could inform biological control approaches.
 - **Taxonomic significance:** The Dimargaritales are sometimes grouped with saprotrophic fungi in an unnatural "merosporangiferous Mucorales" assemblage; molecular work is needed to clarify relationships.
 
 ## Reading notes

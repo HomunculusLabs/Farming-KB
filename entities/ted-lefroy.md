@@ -31,7 +31,7 @@ Ted Lefroy is an Australian agricultural researcher associated with the Cooperat
 
 ### Water-Energy Equivalence
 
-Lefroy's finding that rainfall carries more embodied energy than direct sunshine (except in arid regions) validates [[permaculture-water-harvesting]] strategies and supports the integration of water-efficient [[mushroom-cultivation]] in humid regions where rainfall EMERGY is high.
+Lefroy's finding that rainfall carries more embodied energy than direct sunshine (except in arid regions) validates [[permaculture-water-harvesting]] strategies and supports the integration of water-efficient [[accessible-mushroom-cultivation-for-disabilities]] in humid regions where rainfall EMERGY is high.
 
 ### Legume Integration
 

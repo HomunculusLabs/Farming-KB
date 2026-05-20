@@ -55,7 +55,7 @@ Community Supported Agriculture (CSA) connects farmers directly with consumers t
 ### Planning Principles
 - Plan for 6-10 items per box (varies by size)
 - Balance staples (lettuce, carrots, onions, potatoes) with specialties
-- Succession planting ensures continuous harvest
+- [[succession-planting]] ensures continuous harvest
 - Include a newsletter with storage tips, recipes, and farm updates
 - "U-pick" options for herbs, flowers, cherry tomatoes reduce packing labor
 
@@ -135,7 +135,7 @@ Week 4: heirloom tomatoes, sweet corn, green beans, squash, onions, garlic
 
 - Member agreement: outlines share terms, pickup policies, risk acknowledgment
 - Not a contract for specific produce (CSA is a shared-risk model)
-- Liability insurance: see homestead insurance guide
+- Liability insurance: see [[homestead-insurance-guide]]
 - Food safety: follow GAP (Good Agricultural Practices) guidelines
 - No warranties implied -- members accept crop variability
 - Check state regulations on direct farm sales
@@ -144,20 +144,7 @@ Week 4: heirloom tomatoes, sweet corn, green beans, squash, onions, garlic
 
 - Start with 15-25 members and grow 20-30% per year
 - Each 10 additional members adds ~2 hours/week of harvest and packing
-- Hire help at 50+ members (see homestead labor and volunteers)
+- Hire help at 50+ members (see [[homestead-labor-and-volunteers]])
 - Software helps manage memberships: Harvie, Barn2Door, CSAware
 - Winter shares extend revenue and maintain member relationships year-round
 
-## Common Mistakes
-
-- Over-promising variety: better to under-promise and over-deliver
-- Underestimating harvest labor: packing 50 boxes takes 2-3 hours
-- Poor communication: members who feel out of the loop don't renew
-- No flexibility: members who travel need a way to manage missed pickups
-- Ignoring feedback: surveys reveal what members value most
-
-The CSA model pairs naturally with [[farmers-market-selling-guide]] (sell surplus) and online homestead sales for additional revenue streams.
-
-## Related
-
-- [[online-homestead-sales]]

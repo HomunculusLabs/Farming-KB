@@ -26,7 +26,7 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-Attamyces bromatificus represents the evolutionary pinnacle of fungal cultivation by insects. The leaf-cutting ant system parallels human [[mushroom-cultivation]]: [[substrate-preparation]] (leaf cutting and processing), inoculation (carried in infrabuccal pockets), environmental management (temperature and humidity in nests), and competitor exclusion (weeding of undesirable molds). Understanding this natural system provides insights into the principles of controlled fungal cultivation, particularly regarding sterile technique and substrate management.
+Attamyces bromatificus represents the evolutionary pinnacle of fungal cultivation by insects. The leaf-cutting ant system parallels human [[accessible-mushroom-cultivation-for-disabilities]]: [[substrate-preparation]] (leaf cutting and processing), inoculation (carried in infrabuccal pockets), environmental management (temperature and humidity in nests), and competitor exclusion (weeding of undesirable molds). Understanding this natural system provides insights into the principles of controlled fungal cultivation, particularly regarding sterile technique and substrate management.
 
 ## Ecological Role
 

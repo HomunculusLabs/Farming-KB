@@ -99,7 +99,7 @@ A potent brew is achieved at **1 to 3+ grams of dried mushroom material per 1 cc
 
 - [[psilocybin-mushroom-harvesting-potency]]
 - [[pf-tek-cultivation-method]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

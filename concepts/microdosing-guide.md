@@ -25,7 +25,7 @@ This distinction is critical: if effects are perceptible, the dose is too high a
 
 The most commonly microdosed psychedelic:
 
-- Source: Dried [[psilocybe-cubensis]] mushrooms (most common)
+- Source: Dried [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] mushrooms (most common)
 - Typical microdose range: 0.05-0.25 g dried mushroom (approximately 0.5-2.5 mg [[psilocybin]])
 - Mushroom potency varies enormously; same species can differ 3-5x in active compound content
 - Variability makes consistent dosing with whole mushrooms challenging

@@ -1,5 +1,4 @@
 ---
-
 title: Bunker Spawn — Scalable Mycelium Production for Habitat Restoration
 created: 2026-04-11
 updated: 2026-04-12

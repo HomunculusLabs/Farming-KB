@@ -8,7 +8,7 @@ created: 2026-05-09
 ## Psilocybin and Psilocin Chemistry
 
 Psilocybin and psilocin are the primary psychoactive compounds found in
-[[psilocybe-cubensis]], [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], [[inocybe-aeruginascens-and-neurotropic-inocybe-species]]. These indolealkylamine
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], [[inocybe-aeruginascens-and-neurotropic-inocybe-species]]. These indolealkylamine
 tryptamines are structurally related to serotonin (5-HT) and are
 responsible for the perceptual distortions, altered mood, and thought
 changes produced by these fungi.

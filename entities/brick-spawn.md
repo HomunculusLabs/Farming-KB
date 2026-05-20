@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Brick spawn (also known as "[[mushroom-cultivation]]. It consists of a compressed block of substratum—typically a mixture of horse manure and loam or other organic material—that has been thoroughly sterilized and then inoculated with pure culture mycelium of the cultivated mushroom *[[mycelial-colonization]].
+Brick spawn (also known as "[[accessible-mushroom-cultivation-for-disabilities]]. It consists of a compressed block of substratum—typically a mixture of horse manure and loam or other organic material—that has been thoroughly sterilized and then inoculated with pure culture mycelium of the cultivated mushroom *[[mycelial-colonization]].
 - **Insertion technique:** Duggar described a specific technique using the right hand to insert the spawn piece and create an aerating passage to one side, while the left hand firms the compost over it. This aerating passage promotes rapid mycelial growth.
 - **Spawn quality:** The quality of brick spawn—its vitality, freedom from contamination, and genetic characteristics—is critical to crop success.
 - **Comparison with [[spore-germination-and-commercial-brick-spawn-production]]

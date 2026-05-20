@@ -50,7 +50,7 @@ Sweet potato (*[[ipomoea-batatas]]*) was a critical dryland crop in traditional 
 
 - **Rock mulch application**: The Hawaiian rock mulch technique for sweet potato could be adapted for outdoor mushroom beds, where rocks placed around beds reduce evaporation and create the humid microclimates favored by fruiting fungi.
 
-- **Crop rotation potential**: Sweet potato could be rotated with mushroom bed crops in a multi-year cycle—sweet potato builds soil organic matter and structure, followed by [[mushroom-cultivation]] in the improved soil.
+- **Crop rotation potential**: Sweet potato could be rotated with mushroom bed crops in a multi-year cycle—sweet potato builds soil organic matter and structure, followed by [[accessible-mushroom-cultivation-for-disabilities]] in the improved soil.
 
 - **Tuber waste substrate**: Sweet potato culls, peels, and processing waste are rich in starch and could be used as a supplement in mushroom substrate formulations, providing an easily accessible energy source for mycelial growth.
 

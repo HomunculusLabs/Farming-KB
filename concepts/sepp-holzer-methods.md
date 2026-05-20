@@ -148,7 +148,3 @@ Holzer achieves productive farming without irrigation through:
 - [[hugelkultur]] — Comprehensive hugelkultur construction guide
 - [[sepp-holzer]] — Austrian farmer, Krameterhof pioneer, agro-rebel philosophy
 
-## Related
-
-- [[mountain-gardening]]
-- [[natural-farming-livestock-integration]]

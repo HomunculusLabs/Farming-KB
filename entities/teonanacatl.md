@@ -78,7 +78,7 @@ The history of teonanacatl is directly relevant to modern [[accessible-mushroom-
 - The ritual use of these mushrooms preserved knowledge of their effects and identification for centuries
 - The Wassons' work led to the scientific identification and isolation of the active species
 - Hofmann's isolation of psilocybin enabled dosage standardization and pharmacological research
-- The traditional Mazatec ceremony — conducted in darkness — provides guidance for [[set-and-setting]] in modern use
+- The traditional Mazatec ceremony — conducted in darkness — provides guidance for [[lsd-set-and-setting-framework]] in modern use
 
 ## Etymology
 

@@ -46,7 +46,7 @@ Common in most soils from weathered minerals, but becomes unavailable at high pH
 ### Functions
 
 - **Oxygen liberation:** Accepts electrons from water during photosynthesis, playing a critical role in splitting water molecules to release oxygen
-- **Carbohydrate metabolism:** Works with certain enzymes to break apart carbohydrates
+- **[[carbohydrate]] metabolism:** Works with certain enzymes to break apart carbohydrates
 
 ### Deficiency Symptoms
 
@@ -149,28 +149,7 @@ More commonly a concern than deficiency. Excess chlorine causes yellowing of lea
 - Chlorosis in older leaves (molybdenum is mobile)
 - "Whiptail" -- leaf curling caused by nitrate buildup when molybdenum is insufficient for nitrogen processing
 
-### Soil Behavior
-
-Becomes less available at low pH. Unlike most micronutrients, molybdenum availability increases with increasing soil pH.
-
-## Nickel (Ni)
-
-### Functions
-
-- **Urea metabolism:** When nickel is absent, nitrogen in the form of urea accumulates in leaves, causing leaf tip burns. Nickel is required for the enzyme urease, which processes urea.
-
-### Deficiency Symptoms
-
-- Leaf tip necrosis (burn)
-- Nickel is immobile in plants
-
-### Status
-
-Nickel is a relatively recent addition to the list of essential nutrients, and some scientists still do not universally recognize it due to its obscure functions and the fact that deficiency is rarely observed in field conditions.
-
 ## See Also
 
-- [[plant-macronutrient-functions|macronutrient functions]]
-- [[plant-nutrient-mobility-in-soil|nutrient mobility]]
-- [[micronutrient-deficiency-symptoms|micronutrient deficiency symptoms]]
-- [[trace-elements-in-soil|trace elements in soil]]
+- [[plant-micronutrients-and-their-essential-functions]]
+- [[plant-macronutrient-functions]]

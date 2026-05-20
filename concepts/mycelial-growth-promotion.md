@@ -26,7 +26,7 @@ biological, or environmental interventions. [[antifungal-secondary-metabolites-c
   inorganic nitrogen sources like [[bacillus-subtilis]]*) produce volatile
 [[brassinosteroids]]
 - [[grass-seed-substrate]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 
 ## References
 

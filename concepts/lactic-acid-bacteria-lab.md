@@ -1,5 +1,4 @@
 ---
-
 title: Lactic Acid Bacteria (LAB) — KNF Preparation
 created: 2026-04-11
 updated: 2026-04-12

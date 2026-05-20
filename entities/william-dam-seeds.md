@@ -70,8 +70,8 @@ Monitoring protocols help track population trends and inform adaptive management
 ## See Also
 
 - [[gardening-when-it-counts]]
-- [[mushroom-cultivation]]
-- [[plant-propagation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
+- [[permaculture-plant-propagation-guide]]
 - [[seed-company-supplier-reference]]
 - [[seed-saving-techniques]]
 - [[steve-solomon]]

@@ -137,4 +137,4 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[salvia-divinorum-and-salvinorin-a]]
 - [[salvia-divinorum-pharmacology]]
 - [[salvia-divinorum-salvinorin]]
-- [[schultes-salvia-divinorum]]
+- [[golden-guide-salvia-divinorum-and-diviner-sage]]

@@ -152,35 +152,8 @@ Annual energy: 275 watts x 24 hours x 365 days = 2,409,000 Wh = 2,409 kWh/year
 - **Grid interconnection**: If connecting to the grid, utility approval needed
 - **Construction permits**: Building permits for penstock, powerhouse, and electrical
 
-## Environmental Considerations
-
-- Minimum instream flow: Must leave enough water for fish and aquatic life
-- Fish passage: Ensure fish can move up and downstream past the intake
-- Water temperature: Don't warm or cool the return water excessively
-- Sediment: Minimize erosion during construction
-- Visual impact: Keep penstock and powerhouse as unobtrusive as possible
-
-## Cost Estimates
-
-| System Size | Head | Flow | Typical Cost | Annual Output |
-|-------------|------|------|-------------|---------------|
-| 200W | 50 ft | 50 GPM | $3,000-6,000 | 1,750 kWh |
-| 1kW | 100 ft | 100 GPM | $8,000-15,000 | 8,750 kWh |
-| 5kW | 150 ft | 300 GPM | $20,000-40,000 | 43,800 kWh |
-| 10kW | 200 ft | 400 GPM | $40,000-80,000 | 87,600 kWh |
-
-## Maintenance
-
-- Clean intake screen: Weekly to monthly (depends on debris load)
-- Inspect penstock: Annually for leaks, damage, or blockages
-- Grease bearings: Every 6-12 months
-- Check generator output: Monthly
-- Turbine overhaul: Every 5-10 years
-- Replace seals and bearings: As needed
-
 ## See Also
 
-- [[wind-power-basics]]
-- [[homestead-water-purification]]
-- [[homestead-internet-options]]
-- [[off-grid-waste-management]]
+- [[comparison-micro-hydro-power-vs-solar-cooking-methods]]
+- [[comparison-biogas-digester-basics-vs-micro-hydro-power]]
+- [[fungal-biodiversity-power-analysis-statistical-design-zak-willig]]

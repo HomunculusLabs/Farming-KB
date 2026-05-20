@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Sectoring is a strain isolation technique in [[mushroom-cultivation]] where different mycelial strains growing on the same agar plate are separated based on their morphological characteristics and growth rates. When multiple strains from a single spore germination develop as distinct "islands" of mycelium on an agar plate, cultivators can select and transfer the most vigorous sectors to fresh plates to purify individual strains. The technique is fundamental to developing productive commercial mushroom cultures from wild spore collections.
+Sectoring is a strain isolation technique in [[accessible-mushroom-cultivation-for-disabilities]] where different mycelial strains growing on the same agar plate are separated based on their morphological characteristics and growth rates. When multiple strains from a single spore germination develop as distinct "islands" of mycelium on an agar plate, cultivators can select and transfer the most vigorous sectors to fresh plates to purify individual strains. The technique is fundamental to developing productive commercial mushroom cultures from wild spore collections.
 
 ## Classification
 

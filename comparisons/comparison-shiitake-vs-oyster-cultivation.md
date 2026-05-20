@@ -66,7 +66,7 @@ the same infrastructure.
 
 - [[comparison-beeswax-vs-shellac-vs-carnauba-wax]]
 - [[comparison-maitake-vs-shiitake-cultivation]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[shiitake-strain-classification-and-substrate-formulas]]
 
 ## Practical Applications

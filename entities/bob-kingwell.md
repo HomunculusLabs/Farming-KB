@@ -35,7 +35,7 @@ Australia**, recognised by [[water-management]]
 - Flood irrigation cycles create **alternating wet-dry soil conditions** that
   can stimulate fungal fruiting in interplanted mushroom beds.
 - The Atherton Tablelands climate (warm, wet tropics) is ideal for **tropical
-  [[mushroom-cultivation]]** — species such as *Pleurotus pulmonarius* and
+  [[accessible-mushroom-cultivation-for-disabilities]]** — species such as *Pleurotus pulmonarius* and
   *Volvariella volvacea* thrive in these conditions.
 - Irrigated papaya systems interplanted with **Desmodium** ground cover and
   **comfrey** mulch interplants create multi-layered fungal habitat in the

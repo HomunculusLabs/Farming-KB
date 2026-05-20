@@ -36,7 +36,7 @@ Loess is a windblown (aeolian) silt-dominated sediment that forms deep, extensiv
 
 1. **High porosity and aeration**: The silt-dominated, highly porous structure provides excellent conditions for fungal hyphal growth and air exchange in substrates
 2. **Forest productivity**: Loess supports excellent forests, which are primary habitats for both mycorrhizal and [[saprotrophic-fungi]] — many commercially valuable mushroom species thrive in loess-supported woodlands
-3. **Underground cultivation potential**: The structural stability of loess (supporting 300 m walls) suggests potential for underground [[mushroom-cultivation]] tunnels, similar to the historic underground housing use in China
+3. **Underground cultivation potential**: The structural stability of loess (supporting 300 m walls) suggests potential for underground [[accessible-mushroom-cultivation-for-disabilities]] tunnels, similar to the historic underground housing use in China
 4. **Rapid drainage consideration**: The tendency to dry quickly means supplemental moisture management would be needed for fungal fruiting — loess alone would not retain sufficient water for mushroom cultivation without irrigation or mulching
 5. **Low calcium**: The low calcium content may influence fungal species selection — some fungi prefer calcium-rich substrates
 6. **Deep soil profiles**: Extensive depth allows for deep-rooting tree species that support extensive [[mycorrhizal-networks]]

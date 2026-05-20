@@ -6,7 +6,7 @@ tags: [herbal, lamiaceae, adaptogen, ayurveda, culinary, medicinal]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ""raw/papers/a-selection-permaculture-plants.md"
+  - "raw/papers/a-selection-permaculture-plants.md"
 ---
 
 ## Tulsi (Ocimum tenuiflorum)

@@ -49,7 +49,7 @@ Polyphenols are a diverse class of organic compounds containing multiple phenol 
 
 ## Relevance to Cultivation and Mycology
 
-- Polyphenol content of substrates directly affects colonization speed and fungal species selection in [[mushroom-cultivation]]
+- Polyphenol content of substrates directly affects colonization speed and fungal species selection in [[accessible-mushroom-cultivation-for-disabilities]]
 - High-polyphenol substrates (e.g., certain hardwood sawdust, pine needles) may require pre-treatment (composting, fermentation) to reduce polyphenol levels
 - White-rot fungi with laccase production are better suited to high-polyphenol substrates
 - The polyphenol:N ratio can be used as a practical metric for evaluating substrate quality

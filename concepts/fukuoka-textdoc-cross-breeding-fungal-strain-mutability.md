@@ -23,7 +23,7 @@ masanobu fukuoka conducted a notable mycological experiment demonstrating that t
 
 ## The Crossing Experiment
 
-Fukuoka, working from his orchard laboratory in Ehime Prefecture, attempted to cross the American and Japanese resin disease fungi. The procedure involved bringing mycelial cultures of both fungi into contact under controlled conditions to test whether [[spore-dispersal]] or through human-mediated transport of plant material, the genetic connectivity of fungal populations has implications for disease spread and the emergence of new virulent strains.
+Fukuoka, working from his orchard laboratory in Ehime Prefecture, attempted to cross the American and Japanese resin disease fungi. The procedure involved bringing mycelial cultures of both fungi into contact under controlled conditions to test whether [[aquatic-fungi-spore-dispersal-ingold]] or through human-mediated transport of plant material, the genetic connectivity of fungal populations has implications for disease spread and the emergence of new virulent strains.
 
 ### Rapid Evolution Under Pesticide Pressure
 

@@ -51,7 +51,7 @@ and interior (Idaho, Colorado) mountain ranges suggests adaptability
 to different moisture regimes and forest types. The species fruits
 during both spring and fall, indicating a bimodal fruiting pattern
 possibly tied to seasonal [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], easily overlooked in the field. Its presence
-on diverse animal dung across western [[psilocybe-cubensis]]
+on diverse animal dung across western [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[conocybe-cyanopus]]
 ## Practical Considerations
 

@@ -60,7 +60,7 @@ killed, leaving the substrate vulnerable to the first contaminant that
 lands on it. While sterilization is necessary for supplemented substrates
 (see [[growing-gourmet-gypsum-lime-ph-management]]
 - oyster [[oyster-mushroom]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[substrate-consistency-water-absorption-grass-seed]]
 
 ## Practical Applications

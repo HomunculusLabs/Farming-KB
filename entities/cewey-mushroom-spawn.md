@@ -42,7 +42,7 @@ The Cewey brand represents the early commercialization of mycelial products, a p
 ## See Also
 
 - [[brick-spawn]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mushroom-cultivation-history]]
 - [[mushroom-spawn]]
 - [[spawn-production]]

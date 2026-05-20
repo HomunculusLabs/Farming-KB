@@ -7,7 +7,7 @@ tags: [composting, vermiculture, cultivation-technique, waste-recycling]
 
 ## Description
 
-Mycovermicomposting is an integrated cultivation technique that combines [[mushroom-cultivation]] with vermicomposting by introducing composting worms (primarily *Eisenia fetida*, the red wiggler) into [[spent-mushroom-substrate]]. The term was coined and popularized by Tradd Cotter as a method for closing the loop in mushroom production systems — converting waste substrate into high-value worm castings while simultaneously producing worms for sale or poultry feed.
+Mycovermicomposting is an integrated cultivation technique that combines [[accessible-mushroom-cultivation-for-disabilities]] with vermicomposting by introducing composting worms (primarily *Eisenia fetida*, the red wiggler) into [[spent-mushroom-substrate]]. The term was coined and popularized by Tradd Cotter as a method for closing the loop in mushroom production systems — converting waste substrate into high-value worm castings while simultaneously producing worms for sale or poultry feed.
 
 ## Classification
 

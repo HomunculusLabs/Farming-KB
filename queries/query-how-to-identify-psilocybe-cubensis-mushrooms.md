@@ -43,7 +43,7 @@ Galerina, particularly Galerina marginata, which contains the same deadly amatox
 found in the death [[stamets-psi-galerina-deadly-look-alikes-safety]].
 
 When venturing into the field to collect specimens, employing proper
-[[psilocybe-cubensis]]
+[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - stamets-psylo-dangers-mistaken-identification
 - stamets-psylo-six-classic-habitats
 - [[stamets-psi-psilocybin-potency-comparative-scale]]

@@ -150,8 +150,6 @@ This requires planning a year in advance and dedicated garden space in year two.
 
 Many communities have seed libraries where members can borrow seeds, grow them, save seeds, and return some. This is an excellent way to access new varieties and build local seed sovereignty. Always follow the library's guidelines and return clean, well-labeled seed.
 
-## Related Concepts
+## See Also
 
-- [[small-scale-grain-growing]] -- grain [[seed-saving-and-selection]]
-- [[fruit-tree-propagation]] -- vegetative propagation as an alternative to seed saving for fruit trees
-- [[medicinal-herb-growing]] -- save seeds from your best medicinal herb plants
+- [[comparison-seed-saving-vs-hybrid-seeds]]

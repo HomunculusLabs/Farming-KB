@@ -91,7 +91,7 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[det]]
 - [[smartshops]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

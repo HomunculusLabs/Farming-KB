@@ -66,7 +66,7 @@ self-reliant communities in [[permaculture-design]].
 - **Farm Labour Access:** Farmers and cultivators can access labour without needing cash,
   exchanging produce or future harvests for help with planting, harvesting, or processing
 - **Local Food Systems:** LET systems naturally favor local food production over imported food,
-  supporting market gardens, [[mushroom-cultivation]], and community orchards
+  supporting market gardens, [[accessible-mushroom-cultivation-for-disabilities]], and community orchards
 - **Tool Sharing:** Expensive [[gottlieb-psilocybin-cultivation-equipment-and-facilities]] (dehydrators, pressure cookers, substrate
   sterilizers) can be shared through LET credits rather than purchased individually
 - **Land Access:** Members can trade labour on each other's cultivation plots, enabling more

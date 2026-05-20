@@ -129,7 +129,7 @@ For a $100 investment, Mollison suggests:
 
 ## Relevance to Cultivation and Mycology
 
-- **Cultivation Finance:** Earthbank-style funds can finance [[mushroom-cultivation]] start-ups,
+- **Cultivation Finance:** Earthbank-style funds can finance [[accessible-mushroom-cultivation-for-disabilities]] start-ups,
   greenhouse construction, and substrate processing equipment through community ethical
   investment pools
 - **Clean Food Investment:** The movement's positive criteria directly support investment

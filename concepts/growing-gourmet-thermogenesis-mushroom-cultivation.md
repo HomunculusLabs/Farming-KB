@@ -41,7 +41,7 @@ to sterilization profiles and heat penetration dynamics.
 
 ## Thermogenesis in Outdoor Cultivation
 
-Even in [[mushroom-cultivation]]
+Even in [[accessible-mushroom-cultivation-for-disabilities]]
 - [[sterilization]]
 - [[growing-gourmet-casing-soils-mushroom-cultivation]]
 

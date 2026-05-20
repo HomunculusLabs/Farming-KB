@@ -48,7 +48,7 @@ Ponge (1990, 1991) characterized four stages of fungal colonization on Pinus syl
 ## Relevance to Cultivation and Mycology
 
 - Lophodermium demonstrates the importance of [[endophytic-fungi]] as pioneer decomposers, relevant to understanding substrate colonization dynamics
-- In conifer-based [[mushroom-cultivation]], these endophytes are already present in the substrate and will be the first to colonize
+- In conifer-based [[accessible-mushroom-cultivation-for-disabilities]], these endophytes are already present in the substrate and will be the first to colonize
 - Understanding the four-stage succession model helps predict when different fungal species will dominate substrate decomposition
 - The phylloplane-to-saprotroph transition illustrates how substrate sterilization affects natural colonization patterns
 - The genus is relevant to forest pathology, as some Lophodermium species can cause needle cast diseases in pines

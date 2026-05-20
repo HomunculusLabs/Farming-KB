@@ -1,5 +1,4 @@
 ---
-
 title: Toby Hemenway
 created: 2026-04-11
 updated: 2026-04-12
@@ -77,3 +76,6 @@ The principles discussed here have been applied in various settings.
 Practitioners have developed methods that integrate these concepts effectively.
 Results from field trials have demonstrated consistent improvements.
 These approaches continue to evolve with new research and experience.
+Further reading and continued study are recommended for deeper engagement with these topics.
+
+For those interested in deeper exploration, Hemenway's works remain essential references in the permaculture literature.

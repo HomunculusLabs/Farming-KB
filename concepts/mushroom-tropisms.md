@@ -6,7 +6,7 @@ type: concept
 
 ## Mushroom Tropisms
 
-> Based on Badham, E.R. (1982). "Tropisms in the Mushroom *[[psilocybe-cubensis]]*."
+> Based on Badham, E.R. (1982). "Tropisms in the Mushroom *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*."
 > *Mycologia* 74(2): 275–279.
 
 ## Overview
@@ -113,7 +113,7 @@ The two phases operate through fundamentally different mechanisms:
 
 ### Anemotropism
 
-- Places caps in a favorable position for **[[spore-dispersal]]** by orienting
+- Places caps in a favorable position for **[[aquatic-fungi-spore-dispersal-ingold]]** by orienting
   growth toward airflow.
 - Directed growth toward evaporative demand could increase **spacing between
   cespitose stipes**, reducing competition and improving individual dispersal

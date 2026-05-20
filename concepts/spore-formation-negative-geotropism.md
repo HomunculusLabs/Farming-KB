@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In agaricoid fungi such as *[[psilocybe-cubensis]]*, the transition from vegetative stipe
+In agaricoid fungi such as *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, the transition from vegetative stipe
 elongation to [[spore]]-bearing maturity involves a dramatic shift in how the fruiting body
 orients itself. Badham (1982) synthesizes experimental observations into a **two-phase
 directed growth model**, in which the primary tropism driving stipe elongation is
@@ -87,7 +87,7 @@ with the onset of Phase 2 geotropic dominance.
 
 ## Adaptive Significance for Spore Dispersal
 
-The tropic shift ultimately maximizes **[[spore-dispersal]] efficiency**. Effective
+The tropic shift ultimately maximizes **[[aquatic-fungi-spore-dispersal-ingold]] efficiency**. Effective
 basidiospore release requires a horizontal pileus for two reasons:
 
 1. **Gravity-assisted spore fall:** A horizontal cap ensures all gill surfaces are

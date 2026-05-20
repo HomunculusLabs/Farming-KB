@@ -13,7 +13,7 @@ type: concept
 ## Mushroom Cultivation Troubleshooting
 
 "Preventing is better than solving problems." This principle underlies all
-[[mushroom-cultivation]] practices. However, when problems do arise, prompt
+[[accessible-mushroom-cultivation-for-disabilities]] practices. However, when problems do arise, prompt
 identification and appropriate response are essential to minimize losses.
 This page covers the most common problems, their causes, and recommended
 solutions based on the FAO [[appropriate-technology]] solutions for water purification.

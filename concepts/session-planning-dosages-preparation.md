@@ -57,7 +57,7 @@ Taken orally on empty stomach: LSD and psilocybin onset ~20–30 min; mescaline 
 
 ### The Primacy of Set and Setting
 
-Psychedelic chemicals have no specific expected reaction sequence. The reaction is chiefly a function of **[[set-and-setting]]**. The better the preparation, the more ecstatic and revelatory the session. In initial sessions with unprepared persons, setting — particularly the actions of others — is most important.
+Psychedelic chemicals have no specific expected reaction sequence. The reaction is chiefly a function of **[[lsd-set-and-setting-framework]]**. The better the preparation, the more ecstatic and revelatory the session. In initial sessions with unprepared persons, setting — particularly the actions of others — is most important.
 
 ### Long-Range Set
 

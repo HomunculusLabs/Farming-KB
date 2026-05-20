@@ -116,5 +116,5 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[entheogen-virola-snuff-ethnobotany-chemistry]]
 - [[mckenna-food-gods-dmt-virola-anadenanthera-amazonian-snuff-traditions]]
 - [[plants-of-the-gods-virola-epena-snuff]]
-- [[virola-snuff]]
+- [[entheogen-virola-snuff-ethnobotany-chemistry]]
 - [[virola-surinamensis]]

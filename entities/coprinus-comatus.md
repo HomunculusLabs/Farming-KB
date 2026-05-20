@@ -69,10 +69,10 @@ The species' dramatic shift in reputation — from feared poison to prized edibl
 
 Coprinus comatus holds several important positions in mycological history:
 
-1. **Taxonomic significance:** The deliquescent gills made it a type species for studies of [[spore-dispersal]] mechanisms
+1. **Taxonomic significance:** The deliquescent gills made it a type species for studies of [[aquatic-fungi-spore-dispersal-ingold]] mechanisms
 2. **Historical perception shift:** Its journey from feared poison to prized edible mirrors the broader evolution of mycological knowledge
 3. **Mycelium visibility:** Palmer's account of discovering the extensive underground network provided early popular education about fungal biology
-4. **Cultivation potential:** The species' preference for disturbed ground and compost-rich substrates makes it relevant to [[mushroom-cultivation]]
+4. **Cultivation potential:** The species' preference for disturbed ground and compost-rich substrates makes it relevant to [[accessible-mushroom-cultivation-for-disabilities]]
 5. **Field identification:** Its distinctive shaggy appearance and inky autodigestion make it one of the easier species for beginners to identify
 
 The species remains valued in modern mycology as an excellent beginner mushroom for foragers, though Palmer's caution about carefully verifying identity before consumption remains essential advice.

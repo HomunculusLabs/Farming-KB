@@ -148,16 +148,8 @@ Lead-acid systems cost less upfront ($3000-6000) but require battery replacement
 
 ## Conservation First
 
-The cheapest watt is the one you never use. Before sizing a system:
-- Replace all lighting with LED
-- Choose DC refrigerators (SunDanzer, Nova Kool) which use 30-50% less power
-- Use a gravity-fed water system to reduce pump runtime (see [[homestead-water-systems]])
-- Eliminate electric heating (use wood, propane, or passive solar instead)
-- Use a laptop instead of a desktop computer
-- Air-dry clothes on a line instead of using an electric dryer
+## See Also
 
-## Related Topics
-
-- [[homestead-water-systems]] for well pump power requirements
-- [[building-with-natural-materials]] for [[passive-solar-design]] to reduce electrical loads
-- [[homestead-energy-conservation]]
+- [[cotter-off-grid-mushroom-cultivation]]
+- [[off-grid-waste-management]]
+- [[van-life-off-grid]]

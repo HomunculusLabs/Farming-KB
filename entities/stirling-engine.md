@@ -71,7 +71,7 @@ The Stirling cycle consists of four processes:
 1. **Biomass-Powered [[mollison-pdc-trellis-systems-climate-control]]:** Stirling engines can be powered by
    burning agricultural waste, wood chips, or biomass — materials readily
    available on permaculture sites — to generate electricity for greenhouse
-   heating, ventilation, and climate control in [[mushroom-cultivation]].
+   heating, ventilation, and climate control in [[accessible-mushroom-cultivation-for-disabilities]].
 
 2. **Solar Thermal Integration:** Coupled with solar concentrators, Stirling
    engines can provide daytime mechanical power for water pumping, substrate

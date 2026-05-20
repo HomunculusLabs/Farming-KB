@@ -69,7 +69,7 @@ The casing layer promotes fruiting through several interconnected mechanisms:
 - **pH buffering:** Calcium-rich casing materials can help stabilize substrate pH in the optimal range (5.5-6.5) for maitake fruiting.
 - **Practical consideration:** Soil casing adds an extra step and material requirement to the cultivation process but pays for itself in increased yield.
 
-For commercial mushroom production, [[mushroom-cultivation]] operations use casing layers primarily for [[agaricus]]-species and maitake, where the casing triggers fruiting body formation.
+For commercial mushroom production, [[accessible-mushroom-cultivation-for-disabilities]] operations use casing layers primarily for [[agaricus]]-species and maitake, where the casing triggers fruiting body formation.
 
 ## See Also
 

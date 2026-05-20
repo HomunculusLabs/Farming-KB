@@ -117,7 +117,7 @@ proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[bloomfield-truffle-evolution-cup-fungi-hypogeous]]
 - [[bloomfield-truffle-hunting-and-culinary-fungi]]
 - [[sequestrate-fungi-evolution-mushroom-to-truffle]]

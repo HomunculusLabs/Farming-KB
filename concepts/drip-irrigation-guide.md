@@ -9,7 +9,7 @@ sources: []
 
 # Drip Irrigation Guide
 
-Drip irrigation (microirrigation) delivers water directly to the root zone of plants through a network of tubes, pipes, and emitters. It is the most water-efficient irrigation method available, reducing water use by 30-50% compared to sprinkler systems while minimizing foliar disease, weed growth, and evaporation losses.
+[[drip-irrigation]] (microirrigation) delivers water directly to the root zone of plants through a network of tubes, pipes, and emitters. It is the most water-efficient irrigation method available, reducing water use by 30-50% compared to sprinkler systems while minimizing foliar disease, weed growth, and evaporation losses.
 
 ## Components
 
@@ -122,7 +122,7 @@ Ensure zone flow does not exceed water source capacity. For a typical residentia
 **For Row Crops (Drip Tape)**
 - Run drip tape down the center of each bed or between double rows
 - For sandy soil: run two lines per bed, 6-12 inches apart (wets a wider band)
-- For clay soil: one line per bed is sufficient (water spreads laterally)
+- For [[clay-soil]]: one line per bed is sufficient (water spreads laterally)
 - Space emitters to match plant spacing
 
 **For Individual Plants (Drip Emitters)**
@@ -148,6 +148,5 @@ Fertigation delivers soluble fertilizers through the drip system, providing nutr
 
 ### Fertigation Schedule
 ## See Also
+- [[drip-irrigation-and-microirrigation]]
 
-- [[drip-irrigation-permaculture]]
-- [[drip-irrigation]]

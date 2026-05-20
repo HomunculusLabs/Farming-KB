@@ -36,7 +36,7 @@ type: entity
 ## Relevance to Cultivation and Mycology
 
 - Demonstrates the principle that fungal colonization dramatically improves the nutritional quality of plant detritus for animal consumers.
-- Understanding fungal-invertebrate interactions is relevant to [[integrated-pest-management]] in [[mushroom-cultivation]], where fungivorous invertebrates may affect yields.
+- Understanding fungal-invertebrate interactions is relevant to [[integrated-pest-management]] in [[accessible-mushroom-cultivation-for-disabilities]], where fungivorous invertebrates may affect yields.
 - The nutritional enhancement of detritus by fungi has implications for using fungal-colonized substrates as animal feed supplements.
 - Salt marsh ecology provides a model for studying tight fungal-animal trophic linkages relevant to understanding ecosystem services of fungi.
 - The relationship between fungal biomass quality and invertebrate reproduction may inform biological control strategies in cultivation.

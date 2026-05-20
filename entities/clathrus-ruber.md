@@ -71,7 +71,7 @@ The fungus decomposes lignocellulosic material in wood chips and woody
 debris. Fruiting is triggered by sustained moisture at 15-25°C. The
 egg stage develops underground for 2-4 weeks before rapid expansion.
 
-[[spore-dispersal]] is entomochorous: flies (Calliphoridae, Muscidae) are
+[[aquatic-fungi-spore-dispersal-ingold]] is entomochorous: flies (Calliphoridae, Muscidae) are
 attracted to the gleba's odor, accumulate spores, and transport them
 to new substrates. Germination in vitro takes 2-4 weeks on enriched
 media.

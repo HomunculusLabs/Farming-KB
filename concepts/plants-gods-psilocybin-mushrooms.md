@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [ethnobotany, psychoactive-plants, traditional-use, entheogen, plants-of-the-gods]
 date: 2026-04-28
 updated: 2026-04-28
-sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md""]
+sources: ["raw/papers/plants-of-the-gods-schultes-hofmann.md"]
 type: concept
 ---
 
@@ -65,7 +65,7 @@ knowledge base.
 
 ## See Also
 
-- [[schultes-salvia-divinorum]] for another Mazatec psychoactive
+- [[golden-guide-salvia-divinorum-and-diviner-sage]] for another Mazatec psychoactive
   plant
 
 - [[plants-of-the-gods-datura-species-toloache]]

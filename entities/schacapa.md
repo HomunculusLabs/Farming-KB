@@ -88,5 +88,5 @@ The schacapa has parallels in other shamanic traditions worldwide:
 - [[schacapa-rattle]]
 - [[psychotria-viridis]]
 - [[hallucinogens-and-shamanism]]
-- [[set-and-setting]]
+- [[lsd-set-and-setting-framework]]
 - [[ayahuasca-ceremony]]

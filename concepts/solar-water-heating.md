@@ -149,15 +149,7 @@ In climates with freezing temperatures, freeze protection is essential:
 
 ## Maintenance
 
-- **Annual inspection** — check connections, glazing seals, insulation
-- **Collector cleaning** — rinse off dust and debris; check for hail damage
-- **Glycol systems** — test glycol pH every 2 years; replace every 5-7 years
-- **Anode rod** — check and replace in glass-lined steel tanks every 3-5 years
-- **Pressure relief valve** — test annually
+## See Also
 
-## Integrating with Off-Grid Systems
-
-Solar water heating reduces the electrical load on an off-grid system
-significantly. For water sourcing and treatment, see
-[[rainwater-harvesting-systems]] and [[well-drilling-and-maintenance]].
-For off-grid cooking alternatives, see [[solar-oven-cooking]].
+- [[mollison-designers-solar-water-heating-systems]]
+- [[mollison-designers-home-energy-conservation-and-solar-heating]]

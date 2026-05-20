@@ -1,5 +1,4 @@
 ---
-
 title: Fairy Rings and Giant Mycelia
 created: 2026-04-12
 updated: 2026-04-12

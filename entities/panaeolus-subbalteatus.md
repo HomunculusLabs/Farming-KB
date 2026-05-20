@@ -16,7 +16,7 @@ sources: ["raw/papers/field-guide-to-the-psilocybin-mushroom.md"]
 ## Chemical Composition
 
 *P. subbalteatus* contains **psilocybin** and **psilocin**, though at lower concentrations than *Psilocybe cubensis* or *[[psilocybin]]
-- [[psilocybe-cubensis]]
+- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 ## Practical Considerations
 
 When working with Panaeolus subbalteatus, several practical factors should be

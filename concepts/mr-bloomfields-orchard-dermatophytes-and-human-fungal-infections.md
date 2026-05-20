@@ -38,7 +38,7 @@ spores are readily transmitted — anyone's hair is a suitable target, making
 this infection highly contagious. The life cycle within a single strand of hair
 reads like a microbial siege: infiltration, enzymatic sabotage, replication,
 and explosive reemergence. The fungus essentially weaponizes the hair against
-its owner, converting each strand into a [[spore-dispersal]] organ.
+its owner, converting each strand into a [[aquatic-fungi-spore-dispersal-ingold]] organ.
 
 ## Tinea Corporis — Ringworm of the Body
 

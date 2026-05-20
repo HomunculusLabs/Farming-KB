@@ -66,7 +66,7 @@ The integration of [[fungal-biodiversity-discovery]] approaches with specimen da
 
 ## Relevance to Cultivation Research
 
-Well-structured specimen databases support [[mushroom-cultivation]] research by providing access to provenance data for commercially important strains. Cultivators can query specimen records to identify wild populations with desirable traits (cold tolerance, substrate preferences, fruiting body morphology) and use this information to guide strain selection for breeding programs. The connection between herbarium voucher data and living culture collections enables traceability from commercial spawn lots back to their original geographic and ecological origins.
+Well-structured specimen databases support [[accessible-mushroom-cultivation-for-disabilities]] research by providing access to provenance data for commercially important strains. Cultivators can query specimen records to identify wild populations with desirable traits (cold tolerance, substrate preferences, fruiting body morphology) and use this information to guide strain selection for breeding programs. The connection between herbarium voucher data and living culture collections enables traceability from commercial spawn lots back to their original geographic and ecological origins.
 
 ## Implementation Considerations
 
@@ -109,7 +109,7 @@ and disaster recovery capabilities for critical collections.
 - [[basidiomycota]]
 - [[ascomycota]]
 - [[kingdom-fungi]]
-- [[mushroom-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
 - [[specimen-database-design]]
 - [[biodiversity-database-design-fields-tables]]
 ## Data Standards

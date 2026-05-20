@@ -81,7 +81,7 @@ The diversity of reported experiences suggests that LSD is best understood not a
 
 ### The Importance of Set and Setting
 
-The dramatic difference between the horror experience and the enlightenment experience, both produced by the same chemical substance, underscores the paramount importance of [[set-and-setting]] in determining the quality of the psychedelic experience. This insight, which emerged from the clinical research of the 1950s and 1960s, remains the foundational principle of contemporary psychedelic therapy.
+The dramatic difference between the horror experience and the enlightenment experience, both produced by the same chemical substance, underscores the paramount importance of [[lsd-set-and-setting-framework]] in determining the quality of the psychedelic experience. This insight, which emerged from the clinical research of the 1950s and 1960s, remains the foundational principle of contemporary psychedelic therapy.
 
 ## See Also
 

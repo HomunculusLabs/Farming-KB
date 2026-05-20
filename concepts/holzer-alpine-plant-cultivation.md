@@ -38,7 +38,7 @@ Over years of experience cultivating plants from Alpine regions, Holzer's most i
 
 See also: holzer-fruit-tree-planting-method, natural-farm-permaculture-ethics-principles
 - permaculture-ground-cover-plants
-- [[plant-propagation]]
+- [[permaculture-plant-propagation-guide]]
 - [[permaculture]]
 - [[mycorrhiza]]
 

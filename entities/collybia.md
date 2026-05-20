@@ -51,7 +51,7 @@ Collybia is a genus of basidiomycete fungi historically encompassing many small 
 
 ## Relevance to Cultivation and Mycology
 
-- Understanding the role of Collybia in decomposition succession informs substrate colonization dynamics in [[mushroom-cultivation]]
+- Understanding the role of Collybia in decomposition succession informs substrate colonization dynamics in [[accessible-mushroom-cultivation-for-disabilities]]
 - Their position as intermediate-stage decomposers (after sugar fungi, before mycorrhizal fungi) makes them models for understanding enzymatic succession
 - Litter-binding capabilities demonstrate the physical engineering role of fungal mycelia in soil structure
 - The reclassification of Collybia species illustrates the importance of molecular phylogenetics in mycological taxonomy

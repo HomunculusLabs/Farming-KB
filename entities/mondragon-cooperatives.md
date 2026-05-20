@@ -65,7 +65,7 @@ are highly relevant to [[permaculture-design]] for several reasons:
 
 5. **Federated Specialisation:** Just as Mondragon cooperatives each produce a
    component, permaculture villages can specialise — one household runs the
-   nursery, another the [[mushroom-cultivation]], another seed saving — trading
+   nursery, another the [[accessible-mushroom-cultivation-for-disabilities]], another seed saving — trading
    within the network.
 
 ## Application in Permaculture Village Design

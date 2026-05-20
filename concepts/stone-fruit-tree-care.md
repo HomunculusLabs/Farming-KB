@@ -148,7 +148,3 @@ Stone fruits have specific chill hour requirements for proper dormancy release a
 - Enters through wounds; no cure — remove severely affected trees
 
 ## See Also
-
-- [[apple-tree-care]] for companion orchard tree management
-- [[backyard-orchard-design]] for orchard layout and spacing
-- [[seasonal-gardening-calendar]] for seasonal spray and maintenance timing

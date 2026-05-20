@@ -7,7 +7,7 @@ type: entity
 ## King Stropharia (Stropharia rugoso-annulata)
 
 ## Description
-King stropharia (Stropharia rugoso-annulata), also known as the [[wine-cap]] mushroom, is a large edible mushroom that has become a flagship species for research into microbial-triggered fruiting. Its size, culinary quality, and role as a model organism in mycological research make it one of the most significant species in modern [[mushroom-cultivation]] science.
+King stropharia (Stropharia rugoso-annulata), also known as the [[wine-cap]] mushroom, is a large edible mushroom that has become a flagship species for research into microbial-triggered fruiting. Its size, culinary quality, and role as a model organism in mycological research make it one of the most significant species in modern [[accessible-mushroom-cultivation-for-disabilities]] science.
 
 ## Classification
 - **Kingdom**: Fungi

@@ -55,7 +55,7 @@ Yield per unit growing area or volume, critical for operations where
 space is the primary constraint.
 ### Time Efficiency
 Yield per unit time from inoculation to final harvest. Fast-cycling
-species like [[mushroom-cultivation]]
+species like [[accessible-mushroom-cultivation-for-disabilities]]
 - [[mushroom-substrate-preparation]]
 - mushroom-spawn-production
 

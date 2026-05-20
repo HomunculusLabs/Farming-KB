@@ -1,5 +1,4 @@
 ---
-
 title: Food Forest Plant Palette
 created: 2026-04-12
 updated: 2026-04-12
@@ -24,7 +23,7 @@ sources:
 
 # Food Forest Plant Palette
 
-Comprehensive plant palette tables, case studies, and practical tips for food forest design. See [[food-forest-design]] for design process, layers overview, and guild design.
+Comprehensive plant palette tables, case studies, and practical tips for [[food-forest]] design. See [[food-forest-design]] for design process, layers overview, and guild design.
 
 ## Case Study: Jerome Osentowski's Central Rocky Mountain Permaculture Institute
 
@@ -34,7 +33,7 @@ At 7,200 feet elevation in Basalt, Colorado, Jerome Osentowski created one of No
 - **Microclimate creation**: Ponds and south-facing stone walls reflect light and moderate temperature
 - **Peach tree amid ponds**: Stored heat from water plus reflected light speeds growth in a frost-prone site
 - **Nitrogen-fixing nurse plants**: Siberian pea shrub and other N-fixers planted first to shelter fruit trees
-- **Canopy layered with diversity**: Over 100 fruit tree varieties, numerous berry species, and extensive herbaceous plantings
+- **Canopy layered with diversity**: Over 100 [[fruit-tree-varieties]], numerous berry species, and extensive herbaceous plantings
 - **Greenhouse integration**: A solar greenhouse extends the growing season and provides heat
 
 ## Case Study: Bullock Brothers' Food Forest (Orcas Island, WA)
@@ -58,9 +57,9 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 | Persimmon | Diospyros spp. | Edible fruit, wildlife |
 | Mulberry | Morus spp. | Excellent poultry forage |
 | Pine | Pinus spp. | Edible nuts (pinyon), timber |
-| Honey locust | Gleditsia triacanthos | Edible pods, N-fixing, light shade |
+| Honey locust | [[gleditsia-triacanthos]] | Edible pods, N-fixing, light shade |
 | Mesquite | Prosopis spp. | Edible pods, N-fixing (SW) |
-| Black locust | Robinia pseudoacacia | N-fixer, bee forage, rot-resistant wood |
+| Black locust | [[robinia-pseudoacacia]] | N-fixer, bee forage, rot-resistant wood |
 
 ### Low Tree Layer
 | Plant | Botanical Name | Notes |
@@ -68,8 +67,8 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 | Apple | Malus domestica | Semi-dwarf preferred for Zone 1-2 |
 | Pear | Pyrus communis | Fire blight resistant varieties |
 | Plum | Prunus spp. | Japanese and European varieties |
-| Peach | Prunus persica | Needs full sun, frost protection |
-| Cherry | Prunus avium | Sweet or tart varieties |
+| Peach | [[prunus-persica]] | Needs full sun, frost protection |
+| Cherry | [[prunus-avium]] | Sweet or tart varieties |
 | Pawpaw | Asimina triloba | Shade-tolerant, native to eastern US |
 | Asian pear | Pyrus pyrifolia | Disease resistant, crisp fruit |
 | Fig | Ficus carica | Marginal in cold climates (needs protection) |
@@ -149,6 +148,3 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 
 - [[food-forest-design]] — Design process and overview
 - [[gaia-garden-plant-guilds]] — Guild design
-- [[permaculture-plant-catalog]] — Plants by function
-- [[dynamic-accumulators]] — Nutrient accumulator list
-- [[bamboo-growing-guide]]
