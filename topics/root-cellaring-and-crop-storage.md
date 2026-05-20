@@ -2,47 +2,6 @@
 title: "Root Cellaring and Crop Storage"
 subtitle: >-
 ---
-  Low-energy storage of living crops through controlled cold, humidity,
-  darkness, and ventilation.
-tags:
-  - root-cellaring
-  - crop-storage
-  - food-preservation
-  - post-harvest
-  - homesteading
-  - permaculture
-  - household-food-security
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - ~/wiki/concepts/solomon-food-preservation-storage.md
-  - ~/wiki/concepts/vegetable-storage-conditions-by-temperature-and-humidity.md
-  - ~/wiki/concepts/permaculture-designers-manual-food-storage.md
-  - ~/wiki/concepts/root-crop-harvest-and-storage.md
-  - ~/wiki/concepts/faires-food-drying-and-no-energy-storage.md
-  - ~/wiki/concepts/coleman-post-harvest-handling-and-storage.md
-  - ~/wiki/concepts/root-cellaring-and-no-energy-food-storage.md
-  - ~/wiki/concepts/solomon-root-cellaring-food-preservation.md
-  - ~/wiki/concepts/permaculture-food-storage-and-preservation.md
-  - ~/wiki/concepts/solomon-root-cellaring-and-crop-storage.md
-  - ~/wiki/concepts/solomon-on-root-cellaring.md
-  - ~/wiki/concepts/grain-harvesting-and-storage.md
-  - ~/wiki/concepts/root-cellaring-guide.md
-related_concepts:
-  - solomon-food-preservation-storage
-  - vegetable-storage-conditions-by-temperature-and-humidity
-  - permaculture-designers-manual-food-storage
-  - root-crop-harvest-and-storage
-  - faires-food-drying-and-no-energy-storage
-  - coleman-post-harvest-handling-and-storage
-  - root-cellaring-and-no-energy-food-storage
-  - solomon-root-cellaring-food-preservation
-  - permaculture-food-storage-and-preservation
-  - solomon-root-cellaring-and-crop-storage
-  - solomon-on-root-cellaring
-  - grain-harvesting-and-storage
-  - root-cellaring-guide
----
 
 ## Root Cellaring and Crop Storage
 

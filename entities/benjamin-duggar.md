@@ -1,8 +1,4 @@
 ---
-title: "Benjamin Duggar"
-tags: []
-sources: []
----
 title: Benjamin Duggar
 created: 2026-04-11
 updated: 2026-04-12

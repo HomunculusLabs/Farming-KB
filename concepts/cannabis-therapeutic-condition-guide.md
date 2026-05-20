@@ -1,8 +1,4 @@
 ---
-title: "Cannabis Therapeutic Condition Guide"
-tags: []
-sources: []
----
 title: Cannabis Therapeutic Condition Guide
 created: 2026-04-11
 updated: 2026-04-12
@@ -121,3 +117,5 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

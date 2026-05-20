@@ -1,11 +1,4 @@
 ---
-title: "Comparison Rain Garden Vs Constructed Wetland"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [gardening, permaculture, water-management]
-sources: []
----
 title: "Rain Garden vs Constructed Wetland"
 tags: [comparison, water-management, phytoremediation,
      ecological-engineering]

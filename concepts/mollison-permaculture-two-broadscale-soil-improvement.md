@@ -7,22 +7,6 @@ tags: [regenerative, soil]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-## Mollison Broadscale Soil Improvement and Keyline Rehabilitation
-
-Broadscale soil rehabilitation is one of the most critical aspects of [[mycelium-running-mycelium-soil-building]]. Warmer soils support more biological activity, faster nutrient cycling, and earlier plant growth in spring—giving farmers a longer effective growing season.
-
-## Application to Small Gardens
-
-For small gardens of compacted earth, Yeomans recommends driving in a heavy fork and gently levering the soil until it cracks open. This simple technique can achieve remarkable results even without access to broadscale equipment.
-
-This small-scale approach aligns with [[mollison-designers-soil-water-storage-in-forest-systems]] work in concert with Keyline techniques to ensure that rainfall is captured, infiltrated, and distributed to support soil biological processes.
-
-## Climate Considerations
-
-The techniques described here are applicable across a wide range of permaculture-designers-manual-tropical-climates, soil rehabilitation is even more critical, as every drop of rain must be absorbed into the soil rather than lost to runoff. In humid climates, the focus shifts to ensuring adequate drainage while maintaining soil structure.
-
----
-
 ## Practical Considerations
 
 Successful implementation of Mollison Broadscale Soil Improvement and Keyline Rehabilitation requires attention to

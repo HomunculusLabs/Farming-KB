@@ -4,22 +4,6 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-## Soil Food Web Garden Calendar
-
-> Based on Chapter 21 of *Teaming with Microbes* by Jeff Lowenfels and Wayne Lewis.
-> A seasonal guide to managing your garden's soil food web year-round.
-
-## Overview
-
-Every garden is unique, and **climate plays a major role** in determining the
-timing and specifics of soil food web management. The calendar below provides
-a general framework that should be adapted to your local conditions, plant
-types, and soil health status. The first year of transitioning to soil food
-web gardening is the most intensive — subsequent years require less input as
-the microbial ecosystem matures and self-regulates.
-
----
-
 ## Spring
 
 Spring is the season of activation. [[the-soil-food-web]] awakens, and your job

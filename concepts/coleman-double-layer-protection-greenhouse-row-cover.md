@@ -6,19 +6,6 @@ tags:
 
 ## Overview
 
-The core innovation of Eliot Coleman's [[coleman-second-spring-august-planting-window]]
-- [[coleman-persephone-months-winter-day-length]]
-
-## Merged: Passive Solar Greenhouse Temperature Performance
-
-## Passive Solar Greenhouse Temperature Performance
-
-**Source:** Eliot Coleman — *The [[winter-harvest-handbook-guide]]* (2009)
-
----
-
-## Overview
-
 Coleman's unheated "cold houses" achieve remarkable winter temperature moderation through passive solar design alone — no heating system, no water or stone thermal mass, no buried perimeter insulation, no fans or pumps. The system works by combining the greenhouse's inherent solar collection with a second internal layer of floating row cover, using the soil itself as the heat-storage medium. This double-layer protection is the technical foundation of the entire winter-harvest concept.
 
 ## The Two-Layer System
@@ -127,3 +114,7 @@ Careful observation and documentation support ongoing improvement.
 - [[coleman-cold-greenhouse-double-layer-protection]]
 - [[passive-solar-design]]
 - [[coleman-double-layer-protection-temperature-performance]]
+
+## Key Takeaways
+
+The information presented here highlights important connections between theory and practice. Consider these factors in relation to your specific context for best results.

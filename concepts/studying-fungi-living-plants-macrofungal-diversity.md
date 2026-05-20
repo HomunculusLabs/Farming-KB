@@ -4,14 +4,6 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-## Studying Fungi on Living Plants and Macrofungal Diversity Factors
-
-## Overview
-
-Investigating fungi that colonize living plants and understanding the diversity of terrestrial macrofungi requires a suite of specialized field and laboratory techniques, as well as an appreciation for the complex factors that drive fungal species richness. This concept page covers methods for studying leaf-colonizing fungi and twig microepiphytes, introduces the study of terrestrial and lignicolous macrofungi, and examines how seasonality and annual variation profoundly affect macrofungal diversity assessments.
-
----
-
 ## Studying Fungi on Living Plants
 
 ### Leaf Colonization Investigation

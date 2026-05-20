@@ -2,51 +2,6 @@
 title: Ayahuasca and DMT Plant Medicine
 subtitle: A Comprehensive Guide to the Botany, Chemistry, Culture,
 ---
-  Ceremony, and Global Spread of Amazonian Entheogenic Medicine
-tags:
-  - ayahuasca
-  - dmt
-  - ethnobotany
-  - shamanism
-  - plant-medicine
-  - entheogens
-  - psychedelic-therapy
-  - amazonian-culture
-date: 2026-05-01
-updated: 2026-05-01
-sources:
-  - ayahuasca-botany-and-preparation.md
-  - dmt-and-ayahuasca-history.md
-  - ayahuasca-preparation-and-ceremony.md
-  - ayahuasca-tourism-ethics.md
-  - iboga-and-ibogaine-profile.md
-  - amazonian-vegetalista-shamanism-degrees-and-hierarchy.md
-  - amaringo-plant-teachers-and-vegetalista-cosmology.md
-  - dmt-containing-plants-and-maoi-combination.md
-  - salvia-divinorum-and-salvinorin-a.md
-  - ayahuasca-vision-art-and-shipibo-tradition.md
-  - ketamine-compound-profile.md
-  - ayahuasca-tourism-legal-status-by-country.md
-  - ayahuasca-tourism-practitioners-and-safety-considerations.md
-  - amazonian-ayahuasca-purge-and-diet-practices.md
-  - ayahuasca-tourism-peru-retreat-landscape.md
-  - harm-reduction-guide.md
-related_concepts:
-  - ayahuasca-botany-and-preparation
-  - dmt-and-ayahuasca-history
-  - ayahuasca-preparation-and-ceremony
-  - ayahuasca-tourism-ethics
-  - ayahuasca-vision-art-and-shipibo-tradition
-  - amazonian-vegetalista-shamanism-degrees-and-hierarchy
-  - amaringo-plant-teachers-and-vegetalista-cosmology
-  - dmt-containing-plants-and-maoi-combination
-  - iboga-and-ibogaine-profile
-  - salvia-divinorum-and-salvinorin-a
-  - ketamine-compound-profile
-  - ayahuasca-tourism-legal-status-by-country
-  - amazonian-ayahuasca-purge-and-diet-practices
-  - harm-reduction-guide
----
 
 ## Ayahuasca and DMT Plant Medicine
 
@@ -118,3 +73,9 @@ N,N-dimethyltryptamine (DMT), the primary visionary compound, is orally
 ## Native US Plants Containing DMT and Monoamine Oxidase Inhibitors
 
 ## Native US Plants Containing DMT and Monoamine Oxidase Inhibitors N,N-Dimethyltryptamine (DMT) is a potent short-acting hallucinogenic tryptamine that occurs naturally in a surprising variety of plants growing within the United States. Unlike the well-known Amazonian ayahuasca brew, which combines DMT-containing plants with monoamine oxidase inhibitors (MAOIs) to achieve oral activity, the North American sources of these compounds are far less recognized despite their widespread distribution across the continent. John Halpern's 2004 review in Pharmacology and Therapeutics documented the principal North American botanical sources and their pharmacological context. ## DMT Pharmacology and Routes of Administration DMT produces rapid and intense hallucinogenic effects when smoked, inhaled, or injected, with peak effects achieved within 2 to 5 minutes and resolution over the following 20 to 30 minutes. The typical smoked dose is 40 to 50 milligrams, though anecdotal reports describe use ranging from 20 to 100 milligrams. ...
+
+## Practical Considerations
+
+Effective implementation requires attention to local conditions, resource availability, and specific objectives. Adaptation of general principles to particular circumstances often determines success.
+
+This topic interconnects with several related areas of study and practical application.

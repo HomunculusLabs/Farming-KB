@@ -4,14 +4,6 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-## Ectomycorrhizal Diversity and Plant Nutrition
-
-## Overview
-
-Ectomycorrhizal (ECM) fungal diversity influences plant nutrition, growth allocation, and carbon dynamics in complex and sometimes counterintuitive ways. Research demonstrates that the *number* of ECM species colonizing a host plant — independent of the extent of colonization — can significantly alter shoot and root biomass, nutrient uptake, and root-to-shoot ratios. These findings challenge the long-standing assumption that mycorrhizal function is determined primarily by colonization intensity rather than by community composition. The relationship is mediated by carbon allocation trade-offs, functional heterogeneity among and within ECM species, and environmental perturbations such as defoliation and shading.
-
----
-
 ## ECM Diversity and Plant Growth (Baxter & Dighton, 2001)
 
 A key laboratory study by **Baxter & Dighton (2001)** provided direct evidence that ECM fungal diversity *per se* affects plant growth, independent of colonization levels. The study was designed to separate the effects of species richness from those of colonization extent, allowing the researchers to isolate diversity as a standalone variable.

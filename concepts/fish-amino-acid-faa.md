@@ -1,8 +1,4 @@
 ---
-title: "Fish Amino Acid Faa"
-tags: []
-sources: []
----
 title: Fish Amino Acid (FAA) — Preparation and Use
 created: 2026-04-10
 updated: 2026-04-12

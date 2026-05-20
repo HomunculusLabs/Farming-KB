@@ -14,22 +14,6 @@ type: comparison
 
 ---
 
-## At-a-Glance Comparison
-
-| Feature | Cassava | Taro | comparison cassava vs taro vs sweet potato vs yam | Yam |
-|---|---|---|---|---|
-| **Species** | *Manihot esculenta* | *Colocasia esculenta* | *Ipomoea batatas* | *Dioscorea* spp. |
-| **Storage organ** | Tuberous root | Corm | Tuberous root | Tuber |
-| **Calories/100g** | 160 kcal | 112 kcal | 86 kcal | 118 kcal |
-| **Days to harvest** | 270–360 | 180–360 | 90–150 | 240–360 |
-| **Min rainfall (mm/yr)** | 500 | 1,500 (upland) | 750 | 1,000 |
-| **[[fungal-calcium-oxalate-crystals]] | None (edible raw) | Mild (some spp.) |
-| **Edible leaves** | After processing | After cooking | Yes (raw or cooked) | No (generally) |
-| **Staking needed** | No | No | No | Yes |
-| **Max yield (t/ha)** | 40 | 30 | 25 | 25 |
-
----
-
 ## Caloric Yield Efficiency
 
 When comparing caloric yield per hectare per day of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] effective) |

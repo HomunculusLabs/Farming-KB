@@ -4,15 +4,6 @@ tags:
   - concept
 ---
 
-Solomon presents data showing the extraordinary range:
-- **Horse manure:** Nitrogen can range from 0.5% to 1.3% — a 2.6× difference
-- **Steer manure:** Can go as high as 2% nitrogen, but may be as poor as 0.5% — a 4× difference
-- The same spread occurs for phosphorus and potassium
-
-This variability exists because there is no telling what balance of nutrients was in the feed the horse, cow, sheep, or other animal consumed. Animals are not [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]]. As manure ages, nitrogen can be lost through volatilization (especially as ammonia), while phosphorus and potassium become more concentrated relative to the remaining nitrogen. The length and method of storage (composted, stacked, spread, etc.) all affect the final nutrient profile.
-
----
-
 ## Solomon's Manure Case Studies
 
 ### The Racehorse Stable (High Quality)

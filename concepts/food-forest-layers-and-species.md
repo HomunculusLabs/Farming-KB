@@ -1,8 +1,4 @@
 ---
-title: "Food Forest Layers And Species"
-tags: []
-sources: []
----
 title: Food Forest Layers and Species
 created: 2026-04-11
 updated: 2026-04-12

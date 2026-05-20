@@ -21,25 +21,6 @@ Both ramial (fresh) wood chips and composted wood chips serve as valuable soil a
 
 ---
 
-## Quick Comparison
-
-| Factor | Ramial Wood Chips | Composted Wood Chips |
-|--------|-------------------|---------------------|
-| **Source material** | Small-diameter branches (<7 cm), twigs, leaves | Any woody material, aged 6–24 months |
-| **Nutrient content** | High in soluble nutrients (Ca, K, P, Mg), lignin, polyphenols | Stabilized humus; nutrients mineralized and available |
-| **Decomposition rate** | Fast (6–18 months to significant breakdown) | Already decomposed; further breakdown is slow |
-| **C:N ratio** | Moderate (~60:1 to 100:1 for ramial; lower with leaves) | Lower and more stable (~20:1 to 40:1) |
-| **Soil biology effect** | Strongly fungal; stimulates saprophytic basidiomycetes | Balanced bacterial-fungal; supports generalist decomposers |
-| **Nitrogen drawdown risk** | Moderate — surface application minimizes risk | Low — nitrogen already cycled through composting |
-| **Moisture retention** | Excellent — thick layer reduces evaporation | Very good — fine texture improves soil water-holding |
-| **Weed suppression** | Excellent — thick physical barrier, allelopathic compounds | Good — physical barrier, fewer allelopathics remaining |
-| **Soil structure impact** | Gradually improves; fungal networks build aggregates | Immediate improvement; humic acids bind soil particles |
-| **Cost / effort** | Low — source branches, chip, apply directly | Higher — requires space, time, turning, and management |
-| **Best used on** | Orchards, food forests, perennial beds, pathways | Vegetable gardens, annual beds, potting mixes, top-dressing |
-| **Seasonal timing** | Apply autumn–spring; avoid peak growing season near shallow-rooted annuals | Apply any time; no nitrogen drawdown concern |
-
----
-
 ## What Is Ramial Wood Chip Mulch?
 
 Ramial wood chips (also called BRF — *Bois Raméal Fragmenté*, or Ramial Fragmented Wood) are made by chipping small-diameter branches and twigs (typically under 7 cm / 3 inches), ideally including leaves. The concept was developed by Quebec researchers (Lemieux, Caron, and others) in the 1990s.

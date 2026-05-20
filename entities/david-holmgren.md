@@ -1,9 +1,4 @@
 ---
-title: "David Holmgren"
-tags: []
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
----
 title: David Holmgren
 created: 2026-04-11
 updated: 2026-04-12

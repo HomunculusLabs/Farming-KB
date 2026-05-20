@@ -13,12 +13,6 @@ sources:
 type: comparison
 ---
 
-## Mesquite vs Black Locust vs Carob Tree
-
-Three versatile nitrogen-fixing trees, each dominating a different climate zone. This comparison helps growers choose the right species for their site and goals.
-
----
-
 ## Quick-Reference Comparison
 
 | Feature | Mesquite (*[[prosopis-glandulosa]]*) | [[dighton-fungal-drought-tolerance-plant-water-relations]]** | ★★★★★ | ★★★ | ★★★★ |

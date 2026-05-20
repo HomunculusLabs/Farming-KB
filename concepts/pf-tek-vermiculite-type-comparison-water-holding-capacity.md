@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-created: 2026-05-08
-source: fanaticus-[[pf-tek-psilocybe-fanaticus]].md
-tags: [pf-tek, vermiculite, substrate, water-holding-capacity, cultivation, mushroom-growing, horticultural-media]
----
-
 ## Overview
 
 The type of vermiculite used in the PF TEK [[pf-tek-psilocybe-fanaticus-cultivation-method]] explicitly addressed vermiculite selection in the PF TEK instructions, noting that vermiculite particle size varies considerably between brands and that the coarser type holds less water than the finer type. This variation is critical because the PF TEK substrate relies on vermiculite as both the structural base and the primary water reservoir for [[cho-brown-rice-vinegar-preparation]] method improved by using vermiculite as a base and adding pulverized brown rice on top. The vermiculite serves several critical functions:
@@ -122,3 +117,5 @@ Documentation of results enables continuous improvement and knowledge sharing.
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
 Collaborative networks facilitate rapid dissemination of innovations and best practices.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

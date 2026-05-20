@@ -1,8 +1,4 @@
 ---
-title: "Historical Mushroom Cultivation"
-tags: []
-sources: []
----
 title: Historical Mushroom Cultivation
 created: 2026-04-11
 updated: 2026-04-12
@@ -121,3 +117,5 @@ Field experience and systematic observation remain the most reliable guides for 
 ## Future Directions
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

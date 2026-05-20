@@ -1,12 +1,4 @@
 ---
-title: "Comparison Insectary Plants Vs Trap Cropping"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [gardening, pest-control]
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
----
 title: "Insectary Plants vs Trap Cropping"
 tags: [comparison, pest-control, companion-planting,
      integrated-pest-management]

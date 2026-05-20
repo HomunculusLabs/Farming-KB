@@ -1,12 +1,4 @@
 ---
-title: "Knf Seed Treatment And Soil Foundation"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [natural-farming, soil-science]
-sources:
-  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
----
 title: Seed Treatment and Soil Foundation with Microbial Activator (M-A)
 created: 2026-04-20
 updated: 2026-04-20

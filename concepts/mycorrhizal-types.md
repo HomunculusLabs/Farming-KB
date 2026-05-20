@@ -1,8 +1,4 @@
 ---
-title: "Mycorrhizal Types"
-tags: []
-sources: []
----
 title: Mycorrhizal Types
 created: 2026-04-11
 updated: 2026-04-12
@@ -121,3 +117,5 @@ These families do not form mycorrhizae and have alternative strategies:
 
 - [[mycorrhizal-plant-defense]]
 - [[mycorrhizal-crop-studies]]
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

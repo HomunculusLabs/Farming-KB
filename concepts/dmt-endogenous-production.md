@@ -1,12 +1,4 @@
 ---
-title: "Dmt Endogenous Production"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [pharmacology, psychedelics]
-sources:
-  - "raw/papers/terence-mckenna-food-of-the-gods.md"
----
 title: Dimethyltryptamine Endogenous Production
 tags: [neuroscience, dmt, endogenous-psychedelics, tryptamines]
 date: 2026-04-28

@@ -1,8 +1,4 @@
 ---
-title: "Fruit Tree Varieties"
-tags: []
-sources: []
----
 title: Fruit Tree Varieties, Rootstocks, and Chill Hours
 created: 2026-04-11
 updated: 2026-04-12

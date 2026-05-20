@@ -5,14 +5,6 @@ source_type: paper
 topics: [cannabis, sativa, matanuska-tundra, congolese, evil-seeds, steak-aroma, heavy-yield, indoor-growing, outdoor-growing, 75-percent-sativa]
 ---
 
-## Neo Blizzard — Matanuska Tundra × Congolese by Evil Seeds
-
-## Summary
-
-Neo Blizzard is a sativa-dominant strain bred by Spain's Evil Seeds, created by crossing the epic Matanuska Tundra with a Congolese sativa. The resulting plant is 75% sativa and 25% indica, producing an incredibly powerful and fairly balanced high. Notable for its unusual steak aroma, heavy production, excellent calyx-to-leaf ratio, and 70-80 day flowering period, Neo Blizzard is a force to be reckoned with for both indoor and outdoor growers.
-
----
-
 ## Breeder and Background
 
 Spain's Evil Seeds have really pulled something speci [[ice-cream-bean-entity]] cream thing from fast food places, or perhaps a winning Scrabble word — but when a strain is purported to be that strong, you really have to sit up and take notice.

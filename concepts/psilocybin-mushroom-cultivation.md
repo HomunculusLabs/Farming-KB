@@ -1,8 +1,4 @@
 ---
-title: "Psilocybin Mushroom Cultivation"
-tags: []
-sources: []
----
 title: Psilocybin Mushroom Cultivation
 created: 2026-04-12
 updated: 2026-04-12

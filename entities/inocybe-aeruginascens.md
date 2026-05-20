@@ -1,9 +1,5 @@
 ---
 title: "Inocybe Aeruginascens"
-tags: []
-sources: []
----
-title: "Inocybe Aeruginascens"
 created: 2026-04-12
 updated: 2026-04-12
 type: entity

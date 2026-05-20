@@ -1,8 +1,4 @@
 ---
-title: "Aquatic Fungi And Ingoldian Spores"
-tags: []
-sources: []
----
 title: Aquatic Fungi and Ingoldian Spores
 created: 2026-04-12
 updated: 2026-04-12

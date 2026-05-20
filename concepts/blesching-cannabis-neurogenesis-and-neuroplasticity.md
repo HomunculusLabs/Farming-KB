@@ -1,12 +1,4 @@
 ---
-title: "Blesching Cannabis Neurogenesis And Neuroplasticity"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [cannabis, cultivation]
-sources:
-  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
----
 title: Cannabis, Neurogenesis, and Neuroplasticity
 tags: [cannabis, neurogenesis, neuroplasticity, ecs, brain-repair]
 date: 2026-04-28

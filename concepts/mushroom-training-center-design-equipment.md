@@ -4,50 +4,6 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-## Mushroom Training Center Design and Equipment
-
-A mushroom cultivation training center requires careful physical planning to support both
-hands-on training and commercial production. This page covers the layout, buildings,
-equipment, and trainee selection processes drawn from Annexes 1–5 of the training manual
-for mushroom cultivation by people with disabilities.
-
-## Annex 1: Layout of the Mushroom Cultivation Center
-
-The overall site layout is divided into functional zones to separate training activities
-from production operations while sharing central support infrastructure.
-
-### Training Zone
-- **Exercise building** — physical activities and rehabilitation exercises
-- **Lecture room** — theoretical instruction and classroom sessions
-- **Multi-purpose building** — includes toilet facilities, adaptable for multiple uses
-- **Canteen** — meal service for trainees and staff
-
-### Mushroom Houses (MH 1–8)
-Eight mushroom houses serve two distinct purposes:
-- **MH 1–4**: Dedicated to training and demonstration activities
-- **MH 5–8**: Business production area for commercial-scale output
-
-### Spawn Facilities
-- **2nd spawn mushroom house** — operated by farmer trainers for advanced spawn work
-- **1st spawn building** — primary spawn production facility
-
-### Support and Utility Areas
-- **Gardening areas** — supplementary growing and landscaping
-- **Processing area** — post-harvest handling and value-added processing
-- **Sale room and display area** — product showcase and customer-facing sales
-- **Kitchen area** — food preparation for training demonstrations and canteen
-- **Storeroom** — general storage for supplies and materials
-- **Steam/boiler area** — centralized pasteurization and sterilization
-- **Solar area** — solar drying and energy generation
-- **Pond and water retention** — irrigation supply and drainage management
-- **Fertilizer storage** — separate area for substrate additives
-- **Fuel storage** — safe storage for boiler and burner fuels
-
-### Commercial Areas
-- **Shop 2, 3, 4** — retail spaces for mushroom products and supplies
-
----
-
 ## Annex 2: Buildings and Equipment for the Training Center
 
 ### Production Buildings

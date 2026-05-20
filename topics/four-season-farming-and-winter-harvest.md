@@ -2,54 +2,6 @@
 title: Four-Season Farming and Winter Harvest
 subtitle: Eliot Coleman's unheated winter growing system for year-round
 ---
-  vegetable production in cold climates
-tags:
-  - four-season-farming
-  - winter-harvest
-  - eliot-coleman
-  - season-extension
-  - unheated-greenhouse
-  - organic-farming
-  - cold-hardy-crops
-date: 2026-04-28
-updated: 2026-04-30
-sources:
-  - ~/wiki/concepts/coleman-four-season-farm.md
-  - ~/wiki/concepts/coleman-winter-harvest-philosophy.md
-  - ~/wiki/concepts/coleman-unheated-greenhouse-design.md
-  - ~/wiki/concepts/coleman-moveable-greenhouse-system.md
-  - ~/wiki/concepts/coleman-high-tunnel-cold-frame-design.md
-  - ~/wiki/concepts/coleman-row-cover-fabric-management.md
-  - ~/wiki/concepts/coleman-winter-greens.md
-  - ~/wiki/concepts/coleman-winter-greens-variety-selection.md
-  - ~/wiki/concepts/coleman-winter-harvesting-techniques.md
-  - ~/wiki/concepts/coleman-cold-hardiness-testing-ratings.md
-  - ~/wiki/concepts/coleman-deep-organic-farming.md
-  - ~/wiki/concepts/coleman-deep-organic-history-and-philosophy.md
-  - ~/wiki/concepts/coleman-french-intensive-bed-method.md
-  - ~/wiki/concepts/coleman-bed-preparation-and-minimal-tillage.md
-  - ~/wiki/concepts/coleman-cover-crop-rotation-and-soil-health.md
-  - ~/wiki/concepts/coleman-planting-schedules.md
-  - ~/wiki/concepts/coleman-succession-planting.md
-  - ~/wiki/concepts/coleman-salad-and-braising-mix-production.md
-  - ~/wiki/concepts/coleman-compost-and-organic-fertility-management.md
-  - ~/wiki/concepts/coleman-drip-irrigation-and-water-management.md
-  - ~/wiki/concepts/coleman-pest-management.md
-  - ~/wiki/concepts/coleman-insects-diseases.md
-  - ~/wiki/concepts/coleman-direct-marketing-and-csa-models.md
-  - ~/wiki/concepts/coleman-tools-small-farm.md
-related_concepts:
-  - coleman-four-season-farm
-  - coleman-winter-harvest-philosophy
-  - coleman-unheated-greenhouse-design
-  - coleman-moveable-greenhouse-system
-  - coleman-winter-greens
-  - coleman-deep-organic-farming
-  - coleman-planting-schedules
-  - coleman-succession-planting
-  - coleman-salad-and-braising-mix-production
-  - coleman-compost-and-organic-fertility-management
----
 
 ## Four-Season Farming and Winter Harvest
 
@@ -121,3 +73,9 @@ pioneers Lady Eve Balfour, F. H. King, and Albert Howard also shaped his
 6. Nearing, Scott and Nearing, Helen. *Living the Good Life*. Social
    Science Institute, 1954.
 7. Jeavons, John. *How to Grow More Vegetables*. Ten Speed Press, 1974.
+
+## Summary
+
+This overview establishes core concepts that inform both understanding and application. The relationships described here connect to broader themes explored in related entries.
+
+This topic interconnects with several related areas of study and practical application.

@@ -1,8 +1,4 @@
 ---
-title: "Fungal Research Compound Reference"
-tags: []
-sources: []
----
 title: Fungal Research Compound Reference
 created: 2026-04-11
 updated: 2026-04-12

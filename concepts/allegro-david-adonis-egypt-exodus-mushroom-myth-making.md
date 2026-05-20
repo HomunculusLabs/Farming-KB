@@ -4,32 +4,6 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-## David as Adonis, the Egypt/Exodus Myth, and Mushroom-Based Name Word-Play
-
-[[allegro-main-thesis|main thesis]]. Names, titles, and entire stories become vehicles for encoding the cultic significance of the sacred fungus.
-
-## David as Adonis
-
-### Shared Etymological Roots
-
-The name **David** means "lover/beloved" in Hebrew. The Greek **Adonis** derives from *'adōn*, "lord." Both, Allegro contends, trace back to the Sumerian **ANDUL**, meaning "heavenly shade"—the same root that yields **Atlas**, the pillar supporting the heavens. The mushroom itself, with its broad canopy, embodies this "heavenly shade," and both David and Adonis are thus covert titles for the fungus in its erect, canopy-bearing form.
-
-### The David Oracle (II Samuel 23:1)
-
-The oracle attributed to David is a dense web of phallic-mushroom word-play. Each epithet Allegro retranslates as a sexual-fungal designation:
-
-- **"Son of Jesse"** — reinterpreted as a hebraized form of *\*B_ush_SA*, "erect penis." The same root appears in the Dionysiac title **Briseus** or **Breseus**, linking David directly to the Greek fertility god and related [[allegro-word-play-and-secret-names-in-scripture|word-play and secret names in scripture]]. The mushroom cult encoded its secrets in the very names and stories that later generations would inherit as "history."
-
-### Historical Dubiety
-
-Nonetheless, the pervasiveness of this technique raises, in Allegro's words, a **"dubiety which must now hang over the Old Testament as being in any sense a work of history."** If the patriarchs, prophets, and kings are linguistic constructs built from mushroom nomenclature, the historical reliability of the biblical narrative as conventionally understood is fundamentally undermined.
-
-### Sumerian Primacy in Jerusalem
-
-The discovery that so many Jerusalem names are **"primarily Sumerian"** points to **very early Sumerian influence in the area**—likely carried by the mushroom cult itself as it spread from Mesopotamia westward. The biblical text, far from being a purely Hebrew production, preserves in its very names and narratives the echoes of a far older, fungally-centered religious tradition.
-
----
-
 *Source: John M. Allegro, The [[sacred-mushroom-and-the-cross]]*
 
 ## Overview

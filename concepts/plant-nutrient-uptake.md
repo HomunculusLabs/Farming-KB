@@ -1,8 +1,4 @@
 ---
-title: "Plant Nutrient Uptake"
-tags: []
-sources: []
----
 title: Plant Nutrient Uptake — How Plants Absorb Nutrients
 created: 2026-04-11
 updated: 2026-04-12
@@ -121,3 +117,5 @@ The [[soil-food-web-nutrient-cycling]] converts organic matter into plant-availa
 
 - [[foliar-feeding]]
 - [[daniel-chamovitz]]
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

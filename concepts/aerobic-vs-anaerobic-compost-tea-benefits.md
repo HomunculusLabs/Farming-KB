@@ -4,28 +4,6 @@ source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
 
-## Aerobic vs Anaerobic Compost Tea Benefits
-
-## Overview
-
-Not all compost teas are created equal. The distinction between aerobic (actively aerated) and anaerobic compost teas is not merely a matter of brewing technique — it fundamentally determines whether the tea benefits or harms your soil and plants. Elaine Ingham's research provides a clear framework for evaluating compost tea effectiveness across five key categories: plant protection, nutrient cycling, soil nutrient levels, soil structure, and toxin removal.
-
-To assess whether a compost tea is truly "beneficial," Ingham defines five criteria that any worthwhile brew must address. When aerobic and anaerobic methods are compared against these benchmarks, the differences are stark and unambiguous.
-
-## The Five Criteria for a Beneficial Compost Tea
-
-A beneficial compost tea should accomplish the following:
-
-1. **Plant Protection** — Defend plants against disease-causing organisms
-2. **Nutrient Cycling** — Promote the cycling of nutrients to support plant growth
-3. **Soil Nutrient Levels** — Improve or maintain nutrient availability in the soil
-4. **Soil Structure** — Build and maintain soil aggregation and porosity
-5. **Toxin Removal** — Break down toxic compounds in the soil
-
-The following sections compare aerobic and anaerobic compost teas against each of these five criteria.
-
----
-
 ## 1. Plant Protection
 
 ### Aerobic Compost Tea
@@ -135,3 +113,9 @@ The evidence is clear: aerobic compost tea delivers measurable benefits across a
 - [[actively-aerated-compost-tea]]
 - [[anaerobic-organisms-compost]]
 - [[compost-tea-disease-suppression]]
+
+## Key Takeaways
+
+The information presented here highlights important connections between theory and practice. Consider these factors in relation to your specific context for best results.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

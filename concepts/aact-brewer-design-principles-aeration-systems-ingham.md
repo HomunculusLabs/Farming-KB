@@ -4,19 +4,6 @@ tags:
   - concept
 ---
 
-## Overview
-
-The design and engineering of compost [[actively-aerated-compost-tea]] Tea (AACT). Dr. [[field-guide-psilocybin-bluing-reaction-identification]] contains extensive correspondence about brewer design principles, aeration system requirements, and the mechanical factors that separate successful brewing systems from those that produce poor-quality or [[mycoremediation-bioreactor-design-considerations]] for AACT [[forest-and-bamboo-beneficial-microorganisms]] from compost. Every design decision should serve this primary goal. Ingham emphasizes that the brewer is essentially a biological incubator, not a mixing machine. The engineering requirements follow directly from the biological needs of the organisms being cultivated.
-
-A successful AACT brewer must accomplish three things simultaneously:
-
-1. Maintain [[fungal-hyphae]]
-3. Provide uniform oxygen distribution throughout the entire liquid volume
-
-Failure in any one of these areas results in tea of inferior quality, regardless of the compost or food ingredients used.
-
----
-
 ## Tank Design and Geometry
 
 ### Tank Size and Compost Ratio
@@ -128,3 +115,7 @@ Practical experience combined with systematic observation yields the most reliab
 ## Future Directions
 Emerging approaches and technologies offer new opportunities for advancement.
 Collaborative knowledge sharing accelerates progress across related domains.
+
+## Practical Considerations
+
+Effective implementation requires attention to local conditions, resource availability, and specific objectives. Adaptation of general principles to particular circumstances often determines success.

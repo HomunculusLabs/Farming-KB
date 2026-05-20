@@ -4,22 +4,6 @@ tags:
   - concept
 ---
 
-## Overview
-
-[[cannabis-landrace-sativa-heritage-varieties]] consistently show lower concentrations
-of protein, minerals, and vitamins in the newer selections.
-
-### The Dilution Effect
-
-The dilution effect occurs when breeding for higher yield increases the portion
-of carbohydrates and water in plant tissue while reducing micronutrient
-concentration per unit of weight. A larger tomato that is mostly water and
-simple sugars provides fewer minerals per calorie than a smaller, denser fruit.
-The plant's total mineral uptake is spread across greater tissue mass, diluting
-nutritional value.
-
----
-
 ## Soil Mineral Depletion from Chemical Farming
 
 Solomon places significant emphasis on soil degradation as a driver of

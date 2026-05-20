@@ -1,8 +1,4 @@
 ---
-title: "Mushroom Folklore And Culture"
-tags: []
-sources: []
----
 title: Mushroom Folklore and Culture
 created: 2026-04-11
 updated: 2026-04-12

@@ -1,8 +1,4 @@
 ---
-title: "Mushroom Grow Equipment"
-tags: []
-sources: []
----
 title: Mushroom Grow Equipment
 created: 2026-04-11
 updated: 2026-04-12

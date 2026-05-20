@@ -4,14 +4,6 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-## Mycorrhizal Plant Nutrition and Ecosystem Sustainability
-
-## Overview
-
-Mycorrhizal fungi form symbiotic associations with the vast majority of terrestrial plants, serving as critical mediators of nutrient cycling, stress tolerance, and ecosystem stability. This concept page synthesizes research on mycorrhizal contributions to plant mineral nutrition, drought and salinity tolerance, salt marsh ecology, and the broader implications for ecosystem sustainability and sustainable agriculture.
-
----
-
 ## 1. Ericoid Mycorrhizal Physiology and Nutrient Acquisition
 
 [[ericoid-mycorrhizae]], formed between ericaceous plants and fungi such as *[[hymenoscyphus-ericae]]*, are especially important in nutrient-poor, acidic soils where organic matter is the primary source of nitrogen and phosphorus.

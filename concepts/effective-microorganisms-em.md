@@ -1,8 +1,4 @@
 ---
-title: "Effective Microorganisms Em"
-tags: []
-sources: []
----
 title: Effective Microorganisms (EM)
 created: 2026-04-10
 updated: 2026-04-12

@@ -1,8 +1,4 @@
 ---
-title: "Pond And Aquaculture"
-tags: []
-sources: []
----
 title: Pond and Aquaculture
 created: 2026-04-11
 updated: 2026-04-12

@@ -4,10 +4,6 @@ tags:
   - concept
 ---
 
-**Source:** Gadd, G.M., Watkinson, S.C., Dyer, P.S. — *[[bloomfield-fungal-biology-and-hyphal-growth]] — how vesicle trafficking, cytoskeletal dynamics, and signal integration at the hyphal tip determine growth directionality in [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] differentiating fungal hyphal growth from other modes of cell expansion.
-
----
-
 ## Structure and Composition
 
 ### Vesicle Populations

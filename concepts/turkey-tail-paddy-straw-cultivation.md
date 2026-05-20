@@ -4,12 +4,6 @@ source: cotter-organic-mushroom-farming-mycoremediation.md
 type: concept
 ---
 
-## Turkey Tail and Paddy Straw Mushroom Cultivation (Trametes and Volvariella)
-
-This page covers two distinct genera of mushrooms from the Cotter cultivation guide: the **turkey tail** (*Trametes versicolor*), one of the most extensively researched medicinal mushrooms in the world, and the **paddy straw mushroom** (*Volvariella volvacea*), a heat-loving tropical species prized for its exceptional protein content and flavor.
-
----
-
 ## Turkey Tail (*Trametes versicolor*)
 
 ### Ecology and Distribution
@@ -118,3 +112,11 @@ Trametes mushrooms show great promise for mycoremediation of both biological and
 - Turkey tail can be grown on **buried logs** in food forests — dual purpose of decomposition and medicine
 - [[paddy-straw-mushroom]] cultivation utilizes agricultural waste (rice straw) that would otherwise be burned
 - Both species contribute to **[[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]** and can be integrated into zone 3-4 production areas
+
+## Practical Considerations
+
+Effective implementation requires attention to local conditions, resource availability, and specific objectives. Adaptation of general principles to particular circumstances often determines success.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.
+
+Further research and field observation continue to refine our understanding of these relationships.

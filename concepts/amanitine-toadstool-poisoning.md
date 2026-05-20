@@ -4,18 +4,6 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-## Amanitine Toadstool Poisoning
-
-Amanitine poisoning is a severe and often fatal form of mushroom intoxication
-caused by ingestion of (or contact with) species of the **Amanita** family.
-The active toxic principle is an alkaloid known by several historical names —
-**Amanitine**, **Muscarine**, and **Bulbosine** — each attributed to a
-different researcher who studied the toxin independently in the 19th century.
-
-> **Primary source:** Palmer, Julius Auboineau. *About Mushrooms* (1894).
-
----
-
 ## The Toxic Alkaloid: Names and Discoverers
 
 The poisonous principle found in [[amanita]] species has been identified under

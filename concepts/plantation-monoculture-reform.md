@@ -4,16 +4,6 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-## Plantation Monoculture Reform
-
-## Overview
-
-Tropical plantation monoculture represents one of the most ecologically and socially destructive land-use patterns in the world. Drawing on Bill Mollison's analysis in *Permaculture: A Designers' Manual*, this concept examines the full scope of harms caused by plantation systems and outlines practical reform strategies — from worker cooperatives to polycultural redesign — that restore ecological function while improving livelihoods.
-
-The core argument is straightforward: monoculture plantations degrade land, impoverish communities, and concentrate power. Reform is possible through diversification, decentralised ownership, and the systematic re-working of aging stands.
-
----
-
 ## Ecological Harms of Plantation Monoculture
 
 ### Soil Erosion and Landscape Degradation

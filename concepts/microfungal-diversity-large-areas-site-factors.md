@@ -4,14 +4,6 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-## Microfungal Diversity Over Large Areas and Factors Influencing Site Diversity
-
-## Overview
-
-Data available for estimating fungal species diversity across large study areas are minimal, regardless of geographic location. The most complete information comes from three intensively surveyed sites in southern England, supplemented by limited data from larger areas and tropical-temperate comparisons. Multiple interacting factors — including climate, water availability, plant diversity, and human disturbance — shape site-level microfungal diversity in complex ways.
-
----
-
 ## Species Diversity of Microfungi Over Large Areas
 
 ### Study Sites in Southern England
@@ -123,3 +115,7 @@ These results suggest a nuanced relationship: mild or single-cycle disturbance m
 - Rambelli, A. et al. (1983, 1991). Human disturbance and microfungal diversity in Ivory Coast.
 - da Silva, M. and Minter, D.W. (1995). Foliicolous lichen community fungi.
 - Tubaki, K. and Yokoyama, T. (1973). Litter fungi in Japan.
+
+## Key Takeaways
+
+The information presented here highlights important connections between theory and practice. Consider these factors in relation to your specific context for best results.

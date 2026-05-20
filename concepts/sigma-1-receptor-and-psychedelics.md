@@ -1,12 +1,4 @@
 ---
-title: "Sigma 1 Receptor And Psychedelics"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [pharmacology, psychedelics]
-sources:
-  - "raw/papers/blesching-cannabis-pain-management.md"
----
 title: Sigma-1 Receptor and Psychedelics
 tags: [neuroscience, sigma-receptors, psychedelics, neuroprotection]
 date: 2026-04-28

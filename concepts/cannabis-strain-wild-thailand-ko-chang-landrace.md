@@ -6,18 +6,6 @@ type: concept
 created: 2026-05-10
 ---
 
-## Wild Thailand
-
-**Breeder:** World of Seeds (Spain) — worldofseeds.eu
-**Genetics:** Landrace from Ko Chang archipelago, Thailand — Pure Sativa
-**THC Content:** 22.3%
-**Yield (Indoor):** ~300g per plant
-**Yield (Outdoor):** Up to 500g per plant
-**Flowering Time:** 12–16 weeks (typical for Southeast Asian sativas)
-**Resistance:** Very resistant to mold; moderately resistant to pests
-
----
-
 ## Overview
 
 Wild Thailand is a pure sativa landrace cultivated from genetics originating on the Ko Chang archipelago in the Gulf of Thailand. Preserved and made commercially available by Spanish breeder World of Seeds, this strain represents one of the most authentic Thai landrace offerings in the modern seed market. With a THC content of 22.3%, it delivers a spectacularly euphoric high that has earned it deep reverence among sativa purists worldwide.

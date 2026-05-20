@@ -1,8 +1,4 @@
 ---
-title: "William Falconer"
-tags: []
-sources: []
----
 title: William Falconer
 created: 2026-04-11
 updated: 2026-04-12

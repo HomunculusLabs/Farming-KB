@@ -4,12 +4,6 @@ tags:
   - concept
 ---
 
-> A photoreversible pigment system that allows plants to sense light quality, measure [[cannabis-seed-germination]] to flowering.
-
-**Tags:** plant-biology, photoreceptors, photoperiodism, plant-signaling, pigments
-
----
-
 ## Discovery
 
 The discovery of phytochrome is one of the great stories in plant physiology. In the 1950s, a team led by **Harry Borthwick** and **Sterling Hendricks** at the USDA's Beltsville [[chrysanthemum-coronarium]] then tracks how long Pfr levels have been low — i.e., how long the night has been. If the dark period exceeds a critical threshold, specific physiological responses (like flowering) are triggered. This is why interrupting the night with a brief flash of red light resets the "darkness counter" — it converts the remaining Pr back to Pfr, and the plant behaves as if the night never happened.
@@ -122,3 +116,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[phytochrome-photoreceptors-photoperiodism]]
 - [[phytochrome-red-far-red-switch-and-photoperiodism]]
 Ongoing developments continue to expand practical applications and theoretical understanding.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.
+
+Further research and field observation continue to refine our understanding of these relationships.

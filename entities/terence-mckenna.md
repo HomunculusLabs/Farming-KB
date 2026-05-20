@@ -1,8 +1,4 @@
 ---
-title: "Terence Mckenna"
-tags: []
-sources: []
----
 title: Terence McKenna
 created: 2026-04-11
 updated: 2026-04-12

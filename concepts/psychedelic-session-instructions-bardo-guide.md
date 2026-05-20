@@ -4,16 +4,6 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-## Psychedelic Session Instructions — The Bardo Guide Texts
-
-Part IV of *The Psychedelic Experience* by Timothy Leary, Ralph Metzner, and Richard Alpert contains the actual instruction texts designed to be read aloud to a person undergoing a psychedelic session. These texts are adapted from the *Tibetan Book of the Dead* (Bardo Thodol) and serve as a practical guide for navigating the expanded states of consciousness encountered during the experience. The instructions correspond to the three Bardos — periods of transition between states of being — and are structured to help the voyager recognize, accept, and move through each phase without attachment or fear. Each major descriptive section of the original Tibetan text has an accompanying instruction passage, designed to lead the voyager back to the original First Bardo transcendence whenever they become lost.
-
-## Session Preparation and Group Composition
-
-The setting and personnel of a psychedelic session are critical to its outcome. Small groups are preferable, with a maximum of six or seven participants. At least two guides should be present — individuals who are experienced, calm, and familiar with the Bardo maps. One guide takes the psychedelic substance while the other serves as practical ground control, managing recordings, food, and reading from the manual as needed. One experienced woman is recommended as part of the guiding team, as her presence contributes a stabilizing and nurturing energy to the session environment. Married couples are advised to have their initial sessions separately, so that each person can undergo the experience without the interpersonal dynamics of the relationship influencing or distorting the process. Unexpected or undesired manipulations by one participant can easily trap others into paranoid Third Bardo delusions. The guides read the appropriate instructions at the proper moments, matching the text to the phase of experience the voyager is undergoing.
-
----
-
 ## First Bardo Instructions
 
 The First Bardo corresponds to the initial phase of ego-loss and the encounter with the [[clear-light]] — the primordial, undifferentiated ground of awareness. The instructions prepare the voyager for ego-death by urging them to seek new levels of reality and to recognize the Clear Light directly. The voyager is addressed by name and told that their ego and familiar game are about to cease. In the ego-free state, all things are like the void and cloudless sky, and the naked intellect is like a transparent vacuum. The voyager is instructed to know themselves and abide in that state.

@@ -1,11 +1,4 @@
 ---
-title: "Comparison Chop And Drop Mulching Vs Mulching Guide"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [general]
-sources: []
----
 title: "Chop-and-Drop Mulching vs Mulching"
 tags: [comparison, soil, mulching, permaculture]
 date: 2026-04-25

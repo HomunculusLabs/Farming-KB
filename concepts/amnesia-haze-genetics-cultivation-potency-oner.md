@@ -4,12 +4,6 @@ tags:
   - concept
 ---
 
-**Source:** S.T. Oner, *[[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in modern European cannabis culture. Bred by Royal Queen Seeds, Amnesia Haze has become a staple of Dutch coffee shops and a favorite among European growers and consumers. The strain is known for its potent cerebral effects that can leave even veteran smokers momentarily disconnected from their surroundings—hence the "Amnesia" name.
-
-The strain's genetic background combines Southeast Asian, Jamaican, and Hawaiian landrace genetics with Afghan indica influences, creating a complex sativa-dominant hybrid that expresses both the soaring cerebral effects of its tropical sativa parents and the [[cannabis-genetics-and-breeding]] from four distinct geographic regions. The Afghan indica influence is subtle but important—it provides enough structural stability and flowering speed to make the strain manageable for indoor cultivation, something that pure tropical sativas often struggle with.
-
----
-
 ## Growth Characteristics
 
 Despite its sativa-dominant genetics, Amnesia Haze is described as well-suited to indoor cultivation and accessible to growers with moderate experience. The plant does not present the extreme height and flowering-time challenges of pure tropical sativas, thanks to the Afghan indica influence that tames some of the more difficult sativa growth traits.

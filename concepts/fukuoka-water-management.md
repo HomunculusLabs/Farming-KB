@@ -8,72 +8,6 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-## Fukuoka Water Management
-
-updated: 2026-04-18
-
-Water management is described by Fukuoka as the most important part of crop management in rice cultivation. It consists of irrigation and drainage, and its proper execution determines success or failure in the first ten to twenty critical days after seeding.
-
-## The Annual Water Cycle
-
-### After Seeding (Winter-Spring)
-- The field is not flooded during winter grain growth
-- Drainage must be maintained; water accumulation can freeze and damage grain
-- If rice has grown to 6 inches by winter, flooding briefly is acceptable and even beneficial (the ducks can graze)
-
-### Transition Period (May-June)
-- After barley harvest, scatter barley straw over the field
-- Flood the field for **four to five days** to weaken the clover cover
-- This gives rice shoots a chance to break through the dense clover mat
-- The brief flooding is critical -- too long and rice seedlings suffer; too short and clover outcompetes rice
-
-### Growing Season (June-August)
-- **June and July:** Leave unirrigated
-- **August:** Run water through drainage ditches once every week or ten days
-- This intermittent irrigation pattern contrasts sharply with conventional rice farming which keeps fields flooded all season
-
-## Levee Construction and Maintenance
-
-Building and maintaining earthen levees is considered essential work, even an art form:
-
-1. Carefully cut grass on the old levee with a sickle
-2. Break down the levee with an open-ended hoe
-3. Dig up soil at the bottom of the levee
-4. Draw some water alongside, break up and knead earth with a three-pronged cultivator
-5. Build up the levee and let stand for a while
-6. Plaster the top and sides with earth
-
-### Mole Problems
-- A mole can dig a tunnel 40-50 feet long in one night along a freshly plastered levee
-- Burrowing straight through weakens the levee; water starts leaking through mole cricket and earthworm holes
-- Grass along levee tops and sides must be cut at least three times a year to spot holes early
-- A hole appearing small from outside widens into larger pockets inside; may require 50-100 lbs of earth to repair
-- Use stiff earth to plug; soft earth works free overnight
-- Bamboo tube traps capped with valves placed at hard points in mole tunnels are effective
-
-### Concrete and Vinyl -- A False Solution
-- Highland paddy farmers increasingly use concrete levees or vinyl sheeting
-- Earth at the base of concrete or below sheeting becomes ideal mole habitat
-- After 2-3 years, repairs become more difficult than on normal earthen levees
-- Traditional earthen levee tools represent "very sophisticated technology" in soil engineering terms
-- Building a well-constructed levee is "akin to making a work of art"
-
-## Social Considerations
-
-Farmers using direct-seeding methods will be seeding and irrigating at times different from neighbors:
-- Irrigation canals are communally controlled; one cannot simply draw water whenever desired
-- If you irrigate when neighboring fields are dry, water leakage can inconvenience adjacent farmers
-- If leakage occurs, immediately plaster your levees with mud
-- With intermittent irrigation, fissures tend to develop in levees, causing leakage
-
-## The Philosophy of Water
-
-Fukuoka sees traditional water management as both artistic and religious work. The mud-coated farmer plastering his levees and transplanting his rice is not a throwback to a crude, pre-scientific age, but an artisan engaged in sophisticated work. The mission of natural farming is to show such labor in its true light.
-
-The entire system of water management -- levee building, mole control, communal irrigation timing -- represents accumulated traditional knowledge that modern engineering attempts to replace at its peril.
-
----
-
 Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of [[fukuoka-disease-pest-management]]
 - [[savory-growing-season-and-non-growing-season-management]], the rice does well under conditions similar to [[water-management]]
 - [[det]]
@@ -123,3 +57,26 @@ Practical experience combined with systematic observation yields the most reliab
 ## Future Directions
 Emerging approaches and technologies offer new opportunities for advancement.
 Collaborative knowledge sharing accelerates progress across related domains.
+
+## Integration with Natural Farming
+
+Fukuoka's approach emphasizes non-intervention and working with natural processes rather than against them. His methods demonstrate that productive agriculture can be achieved without heavy machinery, chemical inputs, or elaborate irrigation systems. The key principle is observation of natural patterns and minimal disturbance of soil ecosystems. Cover crops, mulching, and strategic timing of planting replace conventional tillage and fertilization. These practices build soil organic matter, improve water retention, and support diverse microbial communities essential for plant health.
+
+## Integration with Natural Farming Principles
+
+Fukuoka's approach emphasizes non-intervention and working with natural processes rather than against them. His methods demonstrate that productive agriculture can be achieved without heavy machinery, chemical inputs, or elaborate irrigation systems. The key principle is observation of natural patterns and minimal disturbance of soil ecosystems.
+
+Cover crops, mulching, and strategic timing of planting replace conventional tillage and fertilization. These practices build soil organic matter, improve water retention, and support diverse microbial communities essential for plant health. Fukuoka demonstrated that these methods could achieve yields comparable to or exceeding conventional agriculture while requiring less labor and fewer external inputs.
+
+The philosophical underpinning of natural farming involves recognizing the interconnectedness of all elements in the agricultural system. Rather than seeking to control individual variables, the practitioner aims to create conditions where natural processes optimize themselves. This requires patience and a willingness to observe before acting, but the results are more resilient and self-sustaining systems.
+## Natural Farming Integration and Context
+
+Fukuoka's methods represent a radical departure from conventional agriculture, demonstrating that nature can be trusted to optimize growing conditions when given the right initial framework. His four principles, no tillage, no fertilizer, no pesticides, and no weeding, create conditions where soil biology thrives and plants develop robust immune responses.
+
+The success of this approach depends on careful observation and timing rather than intervention. Cover crops are sown before the previous crop is harvested, creating continuous living root systems that feed soil microorganisms year-round. Straw mulch from the previous harvest suppresses weeds while retaining moisture and providing habitat for beneficial organisms.
+
+Soil development under natural farming follows predictable patterns. Within three to five years, organic matter levels increase significantly, water infiltration improves, and the diversity of soil organisms expands dramatically. Earthworm populations typically double or triple compared to adjacent conventionally managed fields. Mycorrhizal networks establish connections between plants, facilitating nutrient and information exchange.
+
+The economic advantages of natural farming extend beyond reduced input costs. Lower machinery requirements, minimal labor demands once systems are established, and premium market prices for naturally grown products all contribute to profitability. Perhaps most importantly, the reduction in physical labor allows farmers to manage larger areas or dedicate time to other productive activities.
+
+Integration with broader agroecological principles amplifies these benefits. Combining natural farming methods with permaculture design, agroforestry, and holistic grazing management creates multi-functional landscapes that produce food while regenerating ecosystems. The key insight is that productive agriculture and ecological health are not opposing goals but complementary outcomes of working with natural processes.

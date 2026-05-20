@@ -146,5 +146,5 @@ Prevention:
 - [[comparison-aquaponics-vs-aeroponics]]
 - [[comparison-aeroponics-vs-aquaponics]]
 - [[query-what-is-the-difference-between-aeroponics-and-hydroponics-for-cannabis]]
-- [[comparison-aeroponics-vs-hydroponics]]
+- [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]
 - [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]

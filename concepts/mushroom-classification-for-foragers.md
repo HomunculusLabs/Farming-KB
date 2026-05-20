@@ -4,19 +4,6 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-## Mushroom Classification for Foragers
-
-> **Source:** Palmer, Julius Auboineau. *About Mushrooms* (1894).
-
-## Overview
-
-Larger fungi used in foraging fall into three principal groups, distinguished
-primarily by the structure found on the underside of the cap. Correctly
-identifying which group a specimen belongs to is the first essential step in
-determining its edibility and safety.
-
----
-
 ## Group 1 — Agaricini (Gilled Fungi)
 
 **Key feature:** Under the cap, thin lines called *gills* radiate from a common

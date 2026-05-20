@@ -1,8 +1,4 @@
 ---
-title: "One Straw Revolution Guide"
-tags: []
-sources: []
----
 title: The One-Straw Revolution — Book Guide
 created: 2026-04-12
 updated: 2026-04-12

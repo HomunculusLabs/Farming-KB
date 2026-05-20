@@ -4,15 +4,10 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [reference]
+---
+
 ## Merged: How Do I Grow Alliums (Garlic, Onions, Leeks, Shallots) Successfully?
 
----
-
-## How Do I Grow Alliums (Garlic, Onions, Leeks, Shallots) Successfully?
-
-Quick-reference FAQ for planting, growing, harvesting, and saving seed for the main allium crops in a permaculture or small-farm setting.
-
----
 
 ## When Should I Plant Alliums by Climate Zone?
 

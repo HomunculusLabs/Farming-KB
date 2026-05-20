@@ -1,12 +1,4 @@
 ---
-title: "Beta Carboline Alkaloids"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [pharmacology, psychedelics]
-sources:
-  - "raw/papers/terence-mckenna-food-of-the-gods.md"
----
 title: Beta-Carboline Alkaloids
 tags: [pharmacology, beta-carbolines, mao-inharmala-alkaloids-alkaloids]
 date: 2026-04-28

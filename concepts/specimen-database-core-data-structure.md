@@ -4,20 +4,6 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-## Core Data Structure for a Fungal Specimen Database
-
-## Overview
-
-A fungal specimen database is built around a **core specimen data record** that captures the essential "what, who, when, and where" information for each biodiversity observation. This record serves as a **voucher** — a verifiable, physically preserved reference specimen deposited in a recognized collection.
-
-The core data structure fulfills three critical functions:
-
-1. **Exchange Format** — Enables standardized data sharing between institutions, databases, and research networks via a common schema.
-2. **Communication Framework** — Establishes a shared vocabulary and field structure so mycologists and curators can unambiguously transmit specimen information.
-3. **Storage Structure** — Defines the logical organization of data, ensuring consistency, queryability, and long-term integrity.
-
----
-
 ## Taxonomic Name Fields
 
 | Field | Max Size | Description |

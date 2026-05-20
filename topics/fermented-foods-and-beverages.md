@@ -2,51 +2,6 @@
 title: Fermented Foods and Beverages
 subtitle: "The Ancient Art and Modern Science of Culturing Foods — From
 ---
-  Sauerkraut to Sourdough, Koji to Kombucha"
-tags:
-  - fermentation
-  - lacto-fermentation
-  - sourdough
-  - brewing
-  - food-preservation
-  - probiotics
-  - korean-natural-farming
-  - microbiology
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - food-fermentation-guide
-  - fermentation-microbiology-for-brewers
-  - fermented-vegetables-guide
-  - fermented-hot-sauce-guide
-  - faires-food-fermentation-methods
-  - faires-pickling-and-advanced-fermentation
-  - faires-yogurt-and-sourdough-making
-  - fermented-plant-juice-preparation-and-application
-  - fermented-plant-extract-fpe
-  - ale-vs-lager-fermentation
-  - herbal-beer-ingredients
-  - bahay-kubo-fpj-and-ffj-fermentation
-  - bionutrients-lab-fermented-fruit-juice-ffj
-  - bionutrients-lab-fermented-plant-juice-fpj
-  - cho-fermented-mixed-compost-methods
-  - cho-fermented-plant-juice-preparation
-  - fermented-mixed-compost-fmc
-  - canning-and-preserving
-  - faires-comprehensive-food-preservation-guide
-  - faires-low-energy-cooking-and-food-preservation
-related_concepts:
-  - food-fermentation-guide
-  - fermented-vegetables-guide
-  - fermentation-microbiology-for-brewers
-  - faires-food-fermentation-methods
-  - faires-yogurt-and-sourdough-making
-  - ale-vs-lager-fermentation
-  - herbal-beer-ingredients
-  - fermented-plant-juice-preparation-and-application
-  - canning-and-preserving
-  - faires-comprehensive-food-preservation-guide
----
 
 ## Fermented Foods and Beverages
 
@@ -119,3 +74,7 @@ Kefir is a fermented, probiotic-rich beverage originating from the Caucasus Moun
 |---|---|---|
 | **Base liquid** | Dairy milk (cow, goat, coconut) | Sugar water, coconut water, fruit juice |
 | **Grain type** | Milky white, gelatinous | Translucent, crystal-like |
+
+## Key Takeaways
+
+The information presented here highlights important connections between theory and practice. Consider these factors in relation to your specific context for best results.

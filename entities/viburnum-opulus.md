@@ -1,11 +1,4 @@
 ---
-title: Viburnum Opulus
-created: 2026-05-05
-updated: 2026-05-05
-type: entity
-tags: [species, herbalism]
-sources: [raw/papers/medicinal-herb-profiles.md]
----
 title: Viburnum opulus
 type: species
 tags:

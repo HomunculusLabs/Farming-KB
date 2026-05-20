@@ -4,19 +4,6 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-## Amanita Identification Traits and Antidote Treatment
-
-> **Source:** Palmer, Julius Auboineau. *About Mushrooms* (1894).
-
-## Overview
-
-The *Amanita* family includes some of the most dangerous poisonous fungi known.
-While a few kinds are safely edible, Palmer strongly advises amateurs to avoid
-the entire group. Identification depends on a combination of structural and
-color traits.
-
----
-
 ## Field Identification Traits
 
 ### 1. Volva (Wrapper)

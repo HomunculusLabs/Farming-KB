@@ -4,16 +4,6 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-## Fungal Decomposition in Ecosystem Processes
-
-## Overview
-
-Fungi play a central and irreplaceable role in the decomposition of organic matter and the mineralization of nutrients across all major ecosystem types — terrestrial, aquatic, and marine. As the primary agents of biochemical breakdown in many environments, fungi transform complex plant polymers (cellulose, lignin, chitin) into simpler compounds that can be reabsorbed by living organisms, closing nutrient cycles and sustaining primary productivity. Their filamentous growth form, enzymatic versatility, and ability to translocate resources across networks give them unique functional advantages over bacteria in decomposition processes.
-
-This page synthesizes concluding perspectives on the breadth of fungal involvement in decomposition, the similarities and differences across ecosystem types, and the significant methodological challenges that continue to limit our understanding of fungal ecology.
-
----
-
 ## Fungal Diversity in Decomposition and Mineralization
 
 The functional diversity of fungi involved in decomposition is immense. Different fungal taxa specialize in the breakdown of distinct substrates:

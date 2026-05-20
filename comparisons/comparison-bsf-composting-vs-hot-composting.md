@@ -1,12 +1,4 @@
 ---
-title: "Comparison Bsf Composting Vs Hot Composting"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [composting, soil-science]
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
----
 title: "Black Soldier Fly Composting vs Hot Composting"
 tags: [comparison, composting, waste-management, soil-health]
 date: 2026-04-25

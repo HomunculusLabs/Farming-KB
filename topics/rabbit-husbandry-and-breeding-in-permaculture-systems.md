@@ -21,32 +21,6 @@ title: Why Rabbits in Permaculture?
 
 ---
 
-## Choosing the Right Breed
-
-### Meat Breeds
-
-| Breed | Mature Weight | Litter Size | Notes |
-|-------|--------------|-------------|-------|
-| **New Zealand White** | 10–12 lbs | 8–12 | Industry standard; calm temperament; excellent mother |
-| **Californian** | 8–11 lbs | 6–10 | Hardiest commercial breed; good in varied climates |
-| **Flemish Giant** | 14–20+ lbs | 6–12 | Slow-growing but massive; good for crossing |
-| **Silver Fox** | 9–12 lbs | 6–10 | Dual-purpose (meat/pelt); excellent mothers; docile |
-| **Champagne d'Argent** | 9–12 lbs | 6–10 | Heritage meat breed; calm; good on forage |
-| **Rex** | 8–11 lbs | 6–10 | Dual-purpose (meat/pelt); plush fur |
-| **Satin** | 9–12 lbs | 6–10 | Dense, lustrous fur; good meat conformation |
-
-### Dual-Purpose and Fiber Breeds
-
-- **American Chinchilla:** Heritage dual-purpose breed; 9–12 lbs; calm and good mothers; critically rare (breed conservation opportunity).
-- **Angora (English, French, Satin):** Primarily raised for wool fiber; 5–10 lbs; requires regular grooming; meat is a secondary product.
-- **Standard Rex:** Valued for plush pelts; reasonable meat yield.
-
-### Forage-Adapted Breeds
-
-Breeds with larger body cavities and stronger digestive systems tend to perform better on forage-heavy diets. **Silver Fox**, **Champagne d'Argent**, and **Flemish Giant** crosses are popular choices for permaculture systems where purchased feed is minimized.
-
----
-
 ## Housing and Infrastructure
 
 ### Colony vs. Cage Systems

@@ -4,14 +4,6 @@ source: "unknown-a-practical-guide-to-synthetic-log-cultiva.md"
 type: concept
 ---
 
-## Maitake Spawn Run and Environmental Parameters
-
-## Overview
-
-Successful cultivation of *Grifola frondosa* (maitake / hen of the woods) on synthetic logs depends on precise management of environmental parameters across three major phases: **spawn run**, **primordia initiation**, and **fruiting body development**. Two key references define the recommended ranges — **Royse and Guardino (1997)** for commercial cultivation and **Chalmers (1994)** for home-scale growing — with additional guidance from **Stamets (1993)**.
-
----
-
 ## Phase 1: Spawn Run
 
 The spawn run is the period during which mycelium fully colonizes the synthetic substrate. This is the longest phase and sets the foundation for subsequent fruiting.

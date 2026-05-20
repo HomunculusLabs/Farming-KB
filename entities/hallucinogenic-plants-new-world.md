@@ -1,8 +1,4 @@
 ---
-title: "Hallucinogenic Plants New World"
-tags: []
-sources: []
----
 title: Golden Guide — Hallucinogenic Plants of the New World
 created: 2026-04-12
 updated: 2026-04-12

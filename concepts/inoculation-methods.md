@@ -1,8 +1,4 @@
 ---
-title: "Inoculation Methods"
-tags: []
-sources: []
----
 title: Mushroom Inoculation Methods — Spores, Spawn, and Stem Butts
 created: 2026-04-11
 updated: 2026-04-12

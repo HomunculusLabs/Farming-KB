@@ -1,8 +1,4 @@
 ---
-title: "Jadam Mineral Water Jmw"
-tags: []
-sources: []
----
 title: JADAM Mineral Water (JMW) — Rock and Leaf Mold Extraction
 created: 2026-04-11
 updated: 2026-04-12

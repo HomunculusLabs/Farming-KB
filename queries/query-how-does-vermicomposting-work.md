@@ -1,11 +1,4 @@
 ---
-title: "Query How Does Vermicomposting Work"
-created: 2026-05-02
-updated: 2026-05-02
-type: query
-tags: [composting, soil-science]
-sources: []
----
 title: "How Does Vermicomposting Work"
 tags: [query, composting, soil-health, earthworms, vermicomposting]
 date: 2026-04-25

@@ -4,12 +4,6 @@ tags:
   - concept
 ---
 
-**Source:** S.T. Oner, *[[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] from the [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] can match. These yields explain why Oner describes the figures as bringing him "out in a sweat."
-
-The heavy yields necessitate proactive structural support. The breeder warns that the buds become extremely heavy during flowering and that plants can bend or snap under their own weight if not properly supported from the vegetative stage onward.
-
----
-
 ## Visual Characteristics
 
 One of Bay 11's most distinctive attributes is its striking visual presentation. The breeder describes the buds as exploding in "a riot of color" that resembles "the cannabis equivalent of setting off a bunch of party poppers." This colorful display includes:

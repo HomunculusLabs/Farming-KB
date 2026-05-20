@@ -4,29 +4,6 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-## Similarity and Distance Measures in Fungal Community Ecology
-
-[[distance-coefficients-fungal-community-comparison]] are fundamental tools in [[fungal-diversity-fire-ecology]]
-for comparing species assemblages across samples, sites, or environmental gradients.
-They reduce complex multivariate data into pairwise indices used as input for
-**ordination**, **[[cluster-analysis-fungal-biodiversity-classification]]**, and hypothesis testing. The choice depends on
-whether data are binary (presence–absence) or quantitative (abundance-based).
-
-## Overview and Purpose
-
-When mycologists collect fungal inventories, metabarcoding data, or culture-based
-isolates, they need objective measures to ask: *How similar are the fungal
-communities at site A and site B?* Similarity ranges from 0 to 1; distance is the
-complement.
-
-These pairwise matrices are used to:
-- **Cluster** sites into groups with similar assemblages (UPGMA, Ward's method)
-- **Ordinate** samples along reduced-dimension axes (NMDS, PCoA)
-- **Test hypotheses** about environmental drivers (PERMANOVA, Mantel tests)
-- **Track temporal changes** across seasons or successional stages
-
----
-
 ## Binary (Presence–Absence) Similarity Coefficients
 
 Binary coefficients operate on species-by-sample matrices coded as 1 (present) or 0

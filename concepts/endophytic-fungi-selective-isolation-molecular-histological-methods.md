@@ -4,59 +4,6 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-## Endophytic Fungi — Selective Isolation Agents, Molecular Approaches, and Histological Methods
-
-## Selective Isolation Agents
-
-Successful isolation of [[endophytic-fungi]] from plant tissue requires careful use of selective agents to suppress competing microorganisms while permitting slower-growing endophytes to emerge. The following agents (Table 12.4) are organized by functional category.
-
-### Antifungal Agents (Suppress Fast-Growing Fungi)
-
-These agents selectively inhibit rapidly colonizing fungi that would otherwise overgrow endophyte colonies on isolation plates.
-
-| Agent | Concentration | Notes |
-|-------|--------------|-------|
-| Amphotericin B | 0.5–10 mg/L | Sterol synthesis inhibitor |
-| Dichloran (Botran) | 2–100 mg/L | Against Mucorales and Penicillium; less hazardous PCNB substitute |
-| PCNB (pentachloronitrobenzene) | 100 mg–1.0 g/L | Against Aspergillus and filamentous fungi; **carcinogen** |
-| Benzimidazole fungicides | 50–500 mg/L | Substitute thiophanate or thiabendazole for benomyl |
-| Cycloheximide | 100–200 mg/L | Autoclavable; broad-spectrum |
-| Cyclosporin A | 10 mg/L | Heat labile; inhibits fast-growing filamentous fungi (Dreyfuss 1986; Bills and Polishook 1994) |
-| LiCl (lithium chloride) | 1–6 g/L | Against Trichoderma and Mortierella |
-| Natamycin (pimaricin) | 2–30 mg/L | Autoclavable; photosensitive |
-| Nystatin | 2–10 mg/L | Photosensitive |
-| OPP (orthophenylphenol) | 5–50 mg/L | Against Trichoderma; Na salt water-soluble |
-
-### Antibacterial Agents
-
-Several antibacterial agents are heat labile and must be filter-sterilized into cooled autoclaved media.
-
-| Agent | Concentration | Stability |
-|-------|--------------|-----------|
-| Ampicillin | 100–300 mg/L | Filter-sterilize |
-| Chloramphenicol | 50–200 mg/L | Autoclavable |
-| Penicillins | 30–100 IU/mL | Heat labile; pH sensitive |
-| Rifampicin | 5–25 mg/L | Photosensitive |
-| Streptomycin | 50–500 mg/L | Heat labile |
-| Tetracycline | 25–100 mg/L | Heat labile |
-| Vancomycin | 50–200 mg/L | Heat labile |
-
-### General Selective Agents
-
-| Agent | Concentration | Target |
-|-------|--------------|--------|
-| Oxgall (bovine bile) | 0.5–1 g/L | Bacteria, Mucorales, Oomycetes |
-| Rose bengal | 50–500 mg/L | Bacteria and filamentous fungi; photosensitive |
-
-### General Principles
-
-- **Weak media** (low nutrient) are often used for initial isolations to prevent overgrowth by fast-growing opportunists.
-- **Surfactants** (benzyltrimethylammonium hydroxide, sodium dodecyl sulfate) and **organic acids** (tannic acid, lactic acid) serve as differentially selective agents.
-- **Experimentation is essential**: test several media and conditions to determine optimal combinations for specific hosts.
-- **Prompt subculturing**: subculture fungi quickly onto media without inhibitors for normal sporulation.
-
----
-
 ## Molecular Sequence Approaches
 
 Many endophytic isolates fail to sporulate in culture, making morphological identification impossible. Molecular sequence approaches determine approximate phylogenetic placement and estimate diversity without requiring sporulation.
@@ -129,3 +76,5 @@ Histological methods allow direct microscopic visualization of endophytic coloni
 
 - [[biodiversity-of-fungi-endophytic-fungi]]
 - [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]
+
+These principles provide a foundation for practical application and continued learning in this area.

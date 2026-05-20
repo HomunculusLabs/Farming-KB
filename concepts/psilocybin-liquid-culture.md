@@ -1,8 +1,4 @@
 ---
-title: "Psilocybin Liquid Culture"
-tags: []
-sources: []
----
 title: Psilocybin Liquid Culture and Species Parameters
 created: 2026-04-11
 updated: 2026-04-12

@@ -26,14 +26,6 @@ sources:
 type: query
 ---
 
-## How Do Epiphytes Survive Without Soil?
-
-## Quick Answer
-
-Epiphytes survive without soil through a remarkable suite of adaptations that allow them to **absorb water and nutrients directly from the air, rain, and organic debris** that accumulates around their roots. They are not parasites — they use their host tree only for physical support. Their key survival strategies include specialized root structures (velamen in orchids, tank-forming leaves in bromeliads), water-storage tissues (succulence, pseudobulbs), modified photosynthesis (CAM metabolism), and nutrient-scapture mechanisms (absorptive trichomes, mycorrhizal associations, and ant mutualisms). Different epiphyte lineages have evolved these adaptations independently — epiphytism has arisen at least **40+ times** across the plant kingdom.
-
----
-
 ## The Fundamental Challenges
 
 Living on a tree branch without soil presents three existential problems:

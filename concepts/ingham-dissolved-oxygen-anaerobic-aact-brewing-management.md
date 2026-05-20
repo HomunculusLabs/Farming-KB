@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-**Source:** [[field-guide-psilocybin-bluing-reaction-identification]] for [[aerobic-vs-fermentative-compost-tea]]*
-**Domain:** Compost Tea → Brewing Science → Water Chemistry
-
----
-
 ## Overview
 
 Dissolved oxygen (DO) is the single most critical parameter in actively
@@ -122,3 +117,5 @@ Flexible approaches that respond to changing conditions. For ingham dissolved ox
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

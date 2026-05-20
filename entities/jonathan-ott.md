@@ -1,8 +1,4 @@
 ---
-title: "Jonathan Ott"
-tags: []
-sources: []
----
 title: Jonathan Ott
 created: 2026-04-11
 updated: 2026-04-12

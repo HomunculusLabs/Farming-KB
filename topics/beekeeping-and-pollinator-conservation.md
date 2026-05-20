@@ -3,44 +3,6 @@ title: Beekeeping and Pollinator Conservation
 subtitle: From ancient hive management to modern pollinator protection
 tags: [beekeeping, pollinators, apiculture, conservation, permaculture,
 ---
-  homesteading, entomology]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/sepp-holzer-practical-guide.md"
-  - beekeeping-basics
-  - natural-beekeeping-practices
-  - holzer-bee-collapse-natural-beekeeping
-  - top-bar-hive
-  - bee-forage-plants
-  - bee-forage-systems-design
-  - permaculture-beekeeping-guide
-  - pollinator-conservation
-  - pollinator-gardening
-  - pollinator-habitat
-  - beneficial-insects-pollinators
-  - gaias-garden-bees-and-pollinators
-  - permaculture-designers-manual-beekeeping
-  - bee-product-medicinal-uses
-  - bee-products-beyond-honey
-  - faires-beekeeping-and-honey-production
-  - beekeeping-problems-and-solutions
-  - beekeeping-seasonal-calendar
-related_concepts:
-  - beekeeping-basics
-  - natural-beekeeping-practices
-  - top-bar-hive
-  - bee-forage-plants
-  - pollinator-conservation
-  - pollinator-gardening
-  - pollinator-habitat
-  - beneficial-insects-pollinators
-  - gaias-garden-bees-and-pollinators
-  - bee-products-beyond-honey
-  - beekeeping-problems-and-solutions
-  - beekeeping-seasonal-calendar
-  - permaculture-beekeeping-guide
----
 
 ## Beekeeping and Pollinator Conservation
 

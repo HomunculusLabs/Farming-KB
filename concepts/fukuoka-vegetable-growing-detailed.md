@@ -8,82 +8,6 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-## Fukuoka Vegetable Growing Detailed
-
-updated: 2026-04-18
-
-Masanobu Fukuoka's approach to vegetable growing emphasizes semi-wild cultivation -- growing vegetables in a semi-natural state among weeds and other plants, with minimal intervention. The goal is to produce the most healthy and nutritious food possible.
-
-## Semi-Wild Cultivation Method
-
-1. **Site selection:** Choose idle land, a field, or an orchard. Any land that is not useful for conventional farming can be used
-2. **Soil preparation:** Scatter chicken droppings, manure, and well-rotted human waste over the site
-3. **Sowing:** Sow the seeds of vegetables such as carrot, burdock, onion, garlic, and various legumes
-4. **Management:** Grow the vegetables among the weeds, periodically cutting the weeds but leaving them on the ground as mulch
-5. **Harvest:** Vegetables grow semi-wild; they may be irregular in shape but have a pungent aroma and good body
-
-## Vegetable Rotation System
-
-Fukuoka provides a detailed rotation plan organized by vegetable family and season:
-
-**Winter vegetables (A-B groups):** Garlic, onion, shallot, Welsh onion, spinach, Chinese cabbage, Japanese parsley, honewort, celery, butterbur flower, daikon, carrot, burdock, garland chrysanthemum
-
-**Spring vegetables (C-D groups):** Wild rocambole, leek, mugwort, spring daikon, scallion, comfrey, chard, lettuce, garden pea, broad bean, bamboo shoot, bracken, osmund, Japanese knotweed, thistle, violet, Chinese milk vetch, aster, shiitake, Japanese pepper, udo
-
-**Early summer vegetables (E-F groups):** Perilla shoots, cabbage, pepper, kidney bean, young potato, summer daikon, cucumber, eggplant, garlic, early-maturing green soybean, asparagus, onion
-
-**Mid-summer vegetables (G-H groups):** Squash, ginger, Chinese box thorn, knotweed, winter melon, tomato, spring-sown burdock, okra, leek, red pepper, pickling melon, early sweet potato
-
-**Autumn vegetables (I-J groups):** Mushrooms, matsutake, shiitake, lily bulb, sweet potato, soybean, peanut, taro, Chinese yam, lotus root, sesame, corn, arrowhead, autumn eggplant, green soybean, early-maturing taro
-
-**Winter vegetables (K-L groups):** Chinese yam, leaf mustard, daikon, turnip, cabbage, summer-sown burdock, summer-sown carrot, onion, lotus root, arrowhead, ginkgo nut, celery, chrysanthemum, green laver, wakame, hijiki, kelp
-
-## Key Principles
-
-- **Grow the right crop at the right time:** The natural rotation system ensures each vegetable grows when conditions are most favorable
-- **Mix many types together:** Companion-planting vegetables of many different types in place of weeds in an orchard or on idle land is an eminently reasonable method
-- **Use resistant varieties:** Hardy varieties are less susceptible to attack
-- **Healthy soil is essential:** Soil fertility and absence of major problems can be assessed by looking at natural weed growth
-- **Semi-wild vegetables have superior nutrition:** Because they are produced in healthy soil containing all necessary micronutrients, they are without question the most healthy and nutritious food man can eat
-
-## Disease and Pest Resistance
-
-Fukuoka classifies vegetables by resistance level:
-
-**High Resistance (no pesticides needed):**
-- Yam family: Chinese yam, Japanese yam
-- Goosefoot family: spinach, chard, Chinese cabbage
-- Carrot family: carrot, celery, parsley
-- Composite family: burdock, butterbur, lettuce
-- Mint family: perilla, Japanese mint
-- Ginseng family: udo, ginseng
-- Ginger family: ginger, Japanese ginger
-- Morning-glory family: sweet potato
-- Lily family: garlic, scallion, onion, asparagus
-
-**Moderate Resistance (little pesticides needed):**
-- Pea family: garden pea, broad bean, soybean, peanut, kidney bean
-- Mustard family: cabbage, daikon, turnip, rapeseed
-
-**Low Resistance (pesticides may be needed):**
-- Gourd family: cucumber, squash, watermelon
-- Potato family: tomato, eggplant, potato, red pepper
-
-## Natural Pest Control Methods
-
-- **Plant pyrethrum and derris root** at the edge of the garden; dry flowers and roots for powders
-- **Pyrethrum:** effective against aphids and caterpillars
-- **Derris root:** works against cabbage sawflies and leaf beetles
-- Both are harmless to man and garden vegetables; dissolve in water and sprinkle with watering can
-- **Free-range chickens:** Local chickens can be allowed to strut through the vegetable patch, deftly picking at insects without scratching the earth or harming vegetables
-- **Orchard integration:** Raise vegetables as undergrowth in an orchard and let native fowl loose -- birds feed on insects, their droppings nourish the fruit trees
-
-## Historical Context
-
-Pesticide use on the scale seen today is a very recent phenomenon. Before WWII, the main agents were pyrethrum, tobacco, and derris root, with minor use of lead arsenate and Bordeaux mixture. Fukuoka is convinced that by reviving those old pest control measures and practicing semi-wild cultivation, people can easily grow more than enough vegetables for their own consumption.
-
----
-
 Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of [[fukuoka-vegetable-growing-natural-method]]
 - [[fukuoka-crop-rotation-natural-farming]]
 - [[masanobu-fukuoka]]
@@ -118,3 +42,42 @@ Documentation of results enables continuous improvement and knowledge sharing.
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
 Collaborative networks facilitate rapid dissemination of innovations and best practices.
+
+## Integration with Natural Farming
+
+Fukuoka's approach emphasizes non-intervention and working with natural processes rather than against them. His methods demonstrate that productive agriculture can be achieved without heavy machinery, chemical inputs, or elaborate irrigation systems. The key principle is observation of natural patterns and minimal disturbance of soil ecosystems. Cover crops, mulching, and strategic timing of planting replace conventional tillage and fertilization. These practices build soil organic matter, improve water retention, and support diverse microbial communities essential for plant health.
+
+## Integration with Natural Farming Principles
+
+Fukuoka's approach emphasizes non-intervention and working with natural processes rather than against them. His methods demonstrate that productive agriculture can be achieved without heavy machinery, chemical inputs, or elaborate irrigation systems. The key principle is observation of natural patterns and minimal disturbance of soil ecosystems.
+
+Cover crops, mulching, and strategic timing of planting replace conventional tillage and fertilization. These practices build soil organic matter, improve water retention, and support diverse microbial communities essential for plant health. Fukuoka demonstrated that these methods could achieve yields comparable to or exceeding conventional agriculture while requiring less labor and fewer external inputs.
+
+The philosophical underpinning of natural farming involves recognizing the interconnectedness of all elements in the agricultural system. Rather than seeking to control individual variables, the practitioner aims to create conditions where natural processes optimize themselves. This requires patience and a willingness to observe before acting, but the results are more resilient and self-sustaining systems.
+## Natural Farming Integration and Context
+
+Fukuoka's methods represent a radical departure from conventional agriculture, demonstrating that nature can be trusted to optimize growing conditions when given the right initial framework. His four principles, no tillage, no fertilizer, no pesticides, and no weeding, create conditions where soil biology thrives and plants develop robust immune responses.
+
+The success of this approach depends on careful observation and timing rather than intervention. Cover crops are sown before the previous crop is harvested, creating continuous living root systems that feed soil microorganisms year-round. Straw mulch from the previous harvest suppresses weeds while retaining moisture and providing habitat for beneficial organisms.
+
+Soil development under natural farming follows predictable patterns. Within three to five years, organic matter levels increase significantly, water infiltration improves, and the diversity of soil organisms expands dramatically. Earthworm populations typically double or triple compared to adjacent conventionally managed fields. Mycorrhizal networks establish connections between plants, facilitating nutrient and information exchange.
+
+The economic advantages of natural farming extend beyond reduced input costs. Lower machinery requirements, minimal labor demands once systems are established, and premium market prices for naturally grown products all contribute to profitability. Perhaps most importantly, the reduction in physical labor allows farmers to manage larger areas or dedicate time to other productive activities.
+
+Integration with broader agroecological principles amplifies these benefits. Combining natural farming methods with permaculture design, agroforestry, and holistic grazing management creates multi-functional landscapes that produce food while regenerating ecosystems. The key insight is that productive agriculture and ecological health are not opposing goals but complementary outcomes of working with natural processes.
+
+## Future Considerations and Practical Integration
+
+Successful implementation depends on adapting theoretical principles to site-specific conditions. Factors including local climate patterns, soil characteristics, available infrastructure, and market access all influence which approaches will be most effective. Beginning with careful observation and small-scale trials allows practitioners to develop intuition for their particular context before making larger investments.
+
+Documentation of both successes and failures builds a knowledge base that supports continuous improvement. Regular assessment of key performance indicators such as soil health metrics, biodiversity counts, input costs, and yield data provides objective feedback for refining management strategies. Sharing these observations with the broader community accelerates collective learning and innovation.
+## Practical Integration
+
+Successful implementation depends on adapting theoretical principles to site-specific conditions.
+Factors including local climate patterns, soil characteristics, available infrastructure, and market
+access all influence which approaches will be most effective. Beginning with careful observation
+and small-scale trials allows practitioners to develop intuition for their particular context.
+
+Documentation of both successes and failures builds a knowledge base for continuous improvement.
+Regular assessment of key performance indicators provides objective feedback for refining
+management strategies. Sharing observations with the broader community accelerates learning.

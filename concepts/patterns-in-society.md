@@ -4,11 +4,6 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-## Patterns in Society and Applied Pattern [[patterns-of-society-and-social-stratification|stratification]] — though the apex (Level 4) partially
-resists this through lateral marriage.
-
----
-
 ## Tribal Art as Sacred Mnemonic
 
 ### Art in Tribal Society
@@ -119,3 +114,7 @@ Integration with existing systems often yields better results than complete repl
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+
+## Summary
+
+This overview establishes core concepts that inform both understanding and application. The relationships described here connect to broader themes explored in related entries.

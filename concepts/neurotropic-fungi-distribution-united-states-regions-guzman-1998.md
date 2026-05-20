@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-## Source
-Guzmán, Allen & Gartz (1998) — *A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion.* Ann. Mus. civ. Rovereto, Vol. 14, pp. 189-280.
-
----
-
 ## Overview
 
 The Guzmán, Allen and Gartz (1998) catalogue provides a detailed state-by-state inventory of neurotropic fungal species across the United States. This distribution data reveals distinct regional patterns, with the [[hypholoma-popperianum]]*

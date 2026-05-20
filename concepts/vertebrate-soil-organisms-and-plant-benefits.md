@@ -4,14 +4,6 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-## Vertebrate Soil Organisms and Plant Benefits of the Soil Food Web
-
-## Overview
-
-While microorganisms and microarthropods form the vast numerical majority of the soil food web, vertebrate organisms — reptiles, mammals, and birds — play an essential mechanical and ecological role. Their burrowing, feeding, and movement physically reshape soil structure, redistribute organic matter, and create pathways for water and air. The soil food web also provides plants with critical benefits: nutrient retention, nutrient cycling, soil structure maintenance, disease suppression, pH-regulated nitrogen availability, and pollutant degradation. Understanding these benefits and how they relate to the fungal-to-bacterial ratio is central to applying soil food web principles in gardening.
-
----
-
 ## Vertebrate Organisms in the Soil Food Web
 
 ### Key Species

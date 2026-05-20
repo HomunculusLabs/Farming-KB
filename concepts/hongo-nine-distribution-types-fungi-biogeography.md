@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-created: 2026-05-08
-source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
-tags: [biogeography, distribution, mycology, hongo, neurotropic-fungi, fungal-ecology, species-distribution]
----
-
 ## Overview
 
 Hongo (1978) proposed a classification of nine distribution types for Japanese fungi that has proven broadly applicable to fungal biogeography worldwide. Guzmán, Allen & Gartz (1998) demonstrated that these nine distribution patterns can be clearly observed in neurotropic fungi across all continents, providing a useful framework for understanding the global distribution of psychoactive mushrooms.

@@ -4,36 +4,6 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-## Fungi in Stressful Environments
-
-## Chapter 14 Introduction — Ecological Strategies
-
-### Defining Stressful Environments
-
-Stressful environments are characterized by abiotic conditions that restrict or prevent the normal growth and reproduction of organisms. Importantly, stress is a relative concept, not an absolute one — a condition that is stressful for one species may be benign or even optimal for another. This relativity underpins the remarkable diversity of fungal adaptations observed across extreme habitats.
-
-Two broad categories of environmental challenge frame the discussion. MacArthur and Wilson (1967) distinguished between organisms living near their environmental carrying capacity (K-strategy), where resources are limiting and competition is intense, and those exploiting abundant resources (r-strategy), where rapid colonization and reproduction are favored. This foundational dichotomy has been extended and refined for fungi by several researchers (Grime 1977, 1979; Pugh 1980; Cooke and Rayner 1984; Andrews 1992).
-
-### Three Primary Life Strategies for Fungi
-
-Building on Grime's CSR model, fungal ecologists recognize three primary life strategies that describe how species allocate resources and respond to environmental conditions:
-
-**Competitive (C-selected) fungi** are persistent, long-lived organisms that actively defend resources against competitors. They predominate when stress is moderate and resources are reduced, investing in mechanisms that maintain occupancy of substrates over extended periods.
-
-**Stress-tolerant (S-selected) fungi** exhibit slow rates of biomass increase but possess specialized physiology enabling survival under extreme conditions. They are characterized by high enzymatic competence, temporal persistence, and slow germination. Without the selective advantage of stress conditions, these fungi show low competitive ability against faster-growing species. Their adaptations include robust cell walls, efficient DNA repair mechanisms, and the production of compatible solutes that stabilize cellular processes under duress.
-
-**Ruderal (R-selected) fungi** prioritize rapid growth and high reproductive output, typically at the expense of longevity. With short life spans, they are favored when stress is absent and carbohydrate-rich resources are abundant — conditions typical of freshly available substrates such as fallen fruit, dung, or recently dead plant material.
-
-### Context-Dependent Strategy Expression
-
-These strategies define fungal behavior at a particular point in time and are not fixed species traits. A single fungus may employ different strategies under different environmental conditions or at different life stages (Boddy and Wimpenny 1992). This plasticity allows fungi to occupy a broader ecological niche than would be possible under a rigid strategy framework.
-
-### Applied Significance of Stress-Tolerant Fungi
-
-Stress-tolerant fungi hold considerable promise for industrial applications, biocontrol, and bioremediation. Their stress-adapted enzymes and genes are of particular interest — thermostable enzymes from thermophiles, cold-active enzymes from psychrotolerant species, and metal-binding proteins from metal-tolerant isolates all represent valuable biochemical tools. Understanding the ecological strategies that underpin stress tolerance helps identify which species and traits are most likely to prove useful in applied settings.
-
----
-
 ## Thermotolerant and Thermophilic Fungi
 
 ### Temperature Ranges and Definitions

@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-## Source
-Hillebrand, Olszewski & Sedefov (2006) — *Hallucinogenic mushrooms: an emerging trend case study.* EMCDDA Thematic Papers, Lisbon.
-
----
-
 ## Overview
 
 Since the late 1990s, extensive internet repositories of information on hallucinogenic mushrooms emerged, significantly contributing to the accessibility of information on description, use, effects, and exchange of experiences among users. The EMCDDA 2006 case study catalogued major international and national websites that played a role in the European mushroom trend.

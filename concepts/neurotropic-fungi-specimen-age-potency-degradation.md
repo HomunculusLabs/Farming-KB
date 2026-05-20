@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-created: 2026-05-08
-source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
-tags: [psilocybin, potency, degradation, specimen-age, neurotropic-fungi, herbarium, storage, indole-alkaloids]
----
-
 ## Overview
 
 The potency of [[neurotropic-fungi]] is highly dependent on specimen age and [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]], are known to degrade over time through volatility and chemical decomposition. Guzmán, Allen & Gartz (1998) documented extensive evidence for this degradation, including personal observations, [[guzman-allen-gartz-psilocybin-volatility-specimen-age-degradation]] comes from Guzmán's own field experience in Oaxaca, Mexico in 1958. While staying in a small closed-door room of an Indian home filled with a large collection of fresh or semi-fermented neurotropic specimens (a mixture of [[psilocybe-caerulescens]], P. cordispora, P. cubensis, P. mexicana, and P. zapotecorum), Guzmán experienced colored hallucinations despite not having consumed any fungi:
@@ -122,3 +117,5 @@ Documentation of results enables continuous improvement and knowledge sharing.
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
 Collaborative networks facilitate rapid dissemination of innovations and best practices.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

@@ -26,19 +26,6 @@ Chill hours are the cumulative number of hours between 32°F (0°C) and 45°F (7
 
 ---
 
-## Quick-Reference Summary Table
-
-| Species | Zones 3–4 | Zones 5–6 | Zones 7–8 | Zones 9–10 |
-|---|---|---|---|---|
-| Peaches | Reliance, Contender | Redhaven, Elberta | Florida Prince, Gulfcrest | TropicBeauty, Desert Gold |
-| Plums | Toka, Underwood | Stanley, Methley | Mariposa, Santa Rosa | Gulf Ruby, Burgundy |
-| Sweet Cherries | Meteor, Hedelfingen | Bing, Lapins, Stella | Royal Lee, Coral Champagne | Royal Lee (marginal) |
-| Sour Cherries | Montmorency, North Star | Montmorency, Balaton | Balaton | Not viable |
-| Apricots | Scout, Moongold | Harcot, Moorpark | Gold Kist, Blenheim | Gold Kist, Katy |
-| Nectarines | Hardired, Mericrest | Fantasia, Sunglo | Sunraycer, Desert Dawn | Desert Dawn, Panamint |
-
----
-
 ## Frequently Asked Questions
 
 **Can I grow [[comparison-brown-rot-vs-white-rot-bioremediation]], no variety is fully immune, but Oriental-type peaches show partial tolerance. Cultural practices (sanitation, pruning, fungicide timing) remain essential.

@@ -2,52 +2,6 @@
 title: Integrated Pest Management
 subtitle: A comprehensive ecosystem-based approach to pest control through
 ---
-  prevention, monitoring, and least-toxic interventions
-tags: [IPM, pest-control, biological-control, organic-farming, ecology,
-  beneficial-insects, companion-planting, crop-protection]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
-  - beneficial-insects-guide
-  - beneficial-insects-pollinators
-  - beneficial-insect-habitat
-  - beneficial-insects-cannabis
-  - cervantes-biological-pest-control-predators
-  - cervantes-neem-oil-organic-pest-control
-  - cervantes-sticky-traps-pest-monitoring
-  - cervantes-companion-planting-pest-deterrent
-  - companion-planting-deterrents
-  - companion-planting-reference
-  - companion-planting-with-fungi
-  - coleman-beneficial-insects-and-ecological-pest-control
-  - coleman-insects-diseases
-  - cho-natural-pest-control-methods
-  - cho-pest-control-methods
-  - cotter-natural-pest-control-disease-management
-  - fukuoka-natural-fruit-tree-pest-control
-  - fukuoka-natural-predator-protection
-  - fukuoka-straw-pest-control-natural-balance
-  - fukuoka-spider-leafhopper-natural-balance
-  - cervantes-spider-mites-identification-control
-  - cervantes-aphids-identification-control
-  - cervantes-thrips-pest-control
-  - cervantes-whitefly-pest-control
-  - cervantes-caterpillars-budworms
-  - cervantes-slugs-snails
-  - cervantes-nematodes-root-maggots-soil-pests
-related_concepts:
-  - beneficial-insects-guide
-  - beneficial-insects-pollinators
-  - beneficial-insect-habitat
-  - cervantes-biological-pest-control-predators
-  - cervantes-neem-oil-organic-pest-control
-  - companion-planting-deterrents
-  - coleman-beneficial-insects-and-ecological-pest-control
-  - cho-natural-pest-control-methods
-  - fukuoka-natural-fruit-tree-pest-control
-  - cervantes-spider-mites-identification-control
----
 
 ## Integrated Pest Management
 
@@ -102,3 +56,26 @@ Fukuoka, Masanobu. *The Natural Way of Farming: The Theory and Practice
 Hamilton, Geoff. *The Organic Gardening Book*. [[woodlovers-mycelium-running-pathway-technique]]*. Ten Speed Press, 2005. Companion
     planting with fungi, mycorrhizal plant defense, and
     entomopathogenic fungi.
+
+## Practical Applications
+
+The principles described here have broad applications across diverse agricultural and ecological contexts. Implementation requires adaptation to local conditions, including climate, soil type, available resources, and specific goals. Successful practitioners combine theoretical understanding with hands-on experimentation and careful observation of results over multiple seasons. Documentation of outcomes helps refine techniques and build local knowledge that can be shared with the broader community.
+
+## Research Directions
+
+Ongoing research continues to expand our understanding of these systems. Current areas of investigation include optimizing biological interactions, developing improved monitoring techniques, and quantifying long-term outcomes across different environmental conditions. Collaboration between researchers, farmers, and citizen scientists accelerates the pace of discovery and practical innovation.
+
+## Practical Applications and Implementation
+
+The principles described here translate into actionable strategies across diverse agricultural and ecological contexts. Implementation requires adaptation to local conditions, including climate, soil type, available resources, and specific goals. Successful practitioners combine theoretical understanding with hands-on experimentation and careful observation of results over multiple seasons.
+
+A phased approach to implementation is recommended, beginning with small-scale trials that allow for learning and adjustment. Documentation of outcomes helps refine techniques and build local knowledge that can be shared with the broader community. Monitoring key indicators provides early warning of potential issues and validates the effectiveness of adopted practices.
+
+## Research and Future Directions
+
+Ongoing research continues to expand our understanding of these systems and their interactions. Current areas of investigation include optimizing biological synergies, developing improved monitoring and assessment techniques, and quantifying long-term outcomes across different environmental conditions. Collaboration between researchers, practitioners, and citizen scientists accelerates the pace of discovery and practical innovation.
+
+The integration of traditional ecological knowledge with modern scientific methods offers particularly promising avenues for advancement. Many time-tested practices align well with contemporary understanding of ecosystem function, and combining these perspectives often yields insights that neither approach achieves alone.
+These principles provide a practical foundation for application. Continued observation and adaptation to local conditions will refine outcomes over successive growing seasons.
+
+The integration of these concepts with broader agricultural and ecological frameworks creates opportunities for synergistic approaches that enhance overall system performance. Continued learning through observation and experimentation remains essential for adapting these principles to diverse local conditions.

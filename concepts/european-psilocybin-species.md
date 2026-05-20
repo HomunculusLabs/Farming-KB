@@ -1,8 +1,4 @@
 ---
-title: "European Psilocybin Species"
-tags: []
-sources: []
----
 title: European Psilocybin Species
 created: 2026-04-11
 updated: 2026-04-12

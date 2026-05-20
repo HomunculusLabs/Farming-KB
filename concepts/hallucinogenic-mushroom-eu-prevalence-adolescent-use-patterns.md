@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-created: 2026-05-08
-source: carolina-mushrooms_08qxp.md
-tags: [emcdda, prevalence, adolescent, school-survey, europe, hallucinogenic-mushrooms, epidemiology, drug-use-patterns]
----
-
 ## Overview
 
 The EMCDDA (2006) thematic paper on [[european-prevalence-and-patterns-of-magic-mushroom-use]] use among European adolescents. [[allegro-amanita-muscaria-properties-and-pharmacology]] use, which involves different compounds and risks
@@ -121,3 +116,7 @@ Flexible approaches that respond to changing conditions. For hallucinogenic mush
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.
+
+Further research and field observation continue to refine our understanding of these relationships.

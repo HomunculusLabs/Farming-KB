@@ -4,32 +4,6 @@ tags:
   - concept
 ---
 
-## Overview
-
-Water quality is a critical but often overlooked factor in successfully brewing [[cannabis-rhizosphere-microbial-communities]] that AACT is designed to cultivate. Understanding water chemistry, [[aact-compost-quality-standards-ingham]], chlorine removal methods, [[guzman-psilocybin-mushrooms-north-america]] are treated with either free chlorine or chloramines as primary disinfectants. Both compounds are lethal to the bacteria, fungi, protozoa, and nematodes that form the beneficial soil food web organisms targeted by AACT brewing.
-
-### Free Chlorine
-
-Free chlorine (hypochlorous acid and hypochlorite ion) is the older and more common municipal disinfectant. It is relatively volatile and can be removed through aeration or by allowing water to sit in an open container for 24-48 hours. Free chlorine levels in municipal supplies typically range from 0.5 to 2.0 ppm, depending on distance from the treatment plant and seasonal demand.
-
-### Chloramines
-
-Many municipalities have switched to chloramines (monochloramine, dichloramine) because they are more stable and persist longer in the distribution system. Chloramines do not off-gas readily and cannot be removed by simple aeration or standing time. This creates a significant problem for AACT brewers who assume their water is safe after overnight resting.
-
-The key distinction between free chlorine and chloramines matters because treatment methods differ. Brewers must identify which disinfectant their municipality uses by checking the annual water quality report or contacting the local water utility directly.
-
-### Impact on Microbial Communities
-
-The impact of residual chlorine on a compost tea brew is severe:
-
-- Even 0.5-1.0 ppm free chlorine can reduce bacterial populations by 90% or more within the first hour of brewing
-- Fungal hyphae show inhibited growth at chlorine levels above 0.2 ppm
-- Protozoa and [[arbuscular-mycorrhizal-fungi]] are particularly vulnerable, as their delicate hyphal networks are destroyed by oxidizing agents
-
-Ingham's correspondence repeatedly stresses that brewers who experience poor results despite following all other brewing protocols correctly often discover that chlorine in their water source is the culprit. She recommends that every new AACT brewer begin by testing their water supply before investing in compost, foods, or equipment.
-
----
-
 ## Chlorine Removal Methods
 
 ### Citric Acid Neutralization

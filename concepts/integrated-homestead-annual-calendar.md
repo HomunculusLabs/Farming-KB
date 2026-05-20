@@ -1,8 +1,4 @@
 ---
-title: "Integrated Homestead Annual Calendar"
-tags: []
-sources: []
----
 title: Integrated Homestead Annual Calendar
 created: 2026-04-11
 updated: 2026-04-12

@@ -2,54 +2,6 @@
 title: Cold Climate Farming and Season Extension
 subtitle: Strategies, structures, and crop systems for year-round food
 ---
-  production in cold climates
-tags:
-  - cold-climate-farming
-  - season-extension
-  - winter-harvest
-  - eliot-coleman
-  - greenhouse-growing
-  - cold-hardy-crops
-  - protected-cultivation
-  - organic-farming
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
-  - ~/wiki/concepts/cold-climate-gardening.md
-  - ~/wiki/concepts/cold-climate-permaculture-guide.md
-  - ~/wiki/concepts/coleman-four-season-farm.md
-  - ~/wiki/concepts/cold-frame-construction.md
-  - ~/wiki/concepts/cold-frame-gardening.md
-  - ~/wiki/concepts/coleman-high-tunnel-cold-frame-design.md
-  - ~/wiki/concepts/cervantes-microclimate-frost-protection.md
-  - ~/wiki/concepts/cervantes-season-extension-cloches-row-covers.md
-  - ~/wiki/concepts/coleman-cold-hardiness-testing-ratings.md
-  - ~/wiki/concepts/coleman-cold-hardy-varieties.md
-  - ~/wiki/concepts/coleman-cool-greenhouse.md
-  - ~/wiki/concepts/coleman-greenhouse-soil-management.md
-  - ~/wiki/concepts/coleman-mobile-greenhouse-crop-rotation-patterns.md
-  - ~/wiki/concepts/coleman-deep-organic-farming.md
-  - ~/wiki/concepts/coleman-deep-organic-history-and-philosophy.md
-  - ~/wiki/concepts/extending-growing-season.md
-  - ~/wiki/concepts/coleman-mache-and-specialty-winter-greens.md
-  - ~/wiki/concepts/coleman-leek-deep-planting-technique.md
-  - ~/wiki/concepts/coleman-season-extension-timeline-and-frost-protection.md
-  - ~/wiki/concepts/coleman-row-cover-fabric-management.md
-  - ~/wiki/concepts/coleman-winter-day-length-and-persephone-months.md
-  - ~/wiki/concepts/coleman-soil-preparation-for-winter.md
-related_concepts:
-  - cold-climate-gardening
-  - cold-climate-permaculture-guide
-  - coleman-four-season-farm
-  - cold-frame-construction
-  - cold-frame-gardening
-  - coleman-high-tunnel-cold-frame-design
-  - coleman-cold-hardy-varieties
-  - coleman-cool-greenhouse
-  - extending-growing-season
-  - coleman-mache-and-specialty-winter-greens
----
 
 ## Cold Climate Farming and Season Extension
 

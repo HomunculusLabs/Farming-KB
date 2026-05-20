@@ -4,16 +4,6 @@ tags:
   - concept
 ---
 
-**Source:** S.T. Oner, *[[berry-growing]]:
-
-**West Coast Blueberry** contributes the strain's distinctive blue-tinged appearance and sweet berry flavor profile. Blueberry genetics, originally developed by DJ Short in the 1970s and 1980s, are among the most influential in modern [[cannabis-resin-production-and-quality-traits-clarke]] a relaxing, euphoric effect profile.
-
-**New York City Diesel** (also known as [[nyc-diesel]]) contributes the pungent, fuel-like aroma and the energetic, uplifting cerebral effects that the Diesel family is famous for. NYC Diesel itself is believed to descend from Chemdawg and Afghan indica genetics, with the Sour Diesel line becoming one of the most popular and widely cultivated strains in modern cannabis history.
-
-The combination of these two genetic lines produces a hybrid that expresses both the visual beauty and flavor complexity of the Blueberry side with the potency and cerebral stimulation of the Diesel heritage.
-
----
-
 ## Growth Characteristics
 
 Blue City Diesel is notable for its compact stature compared to many sativa-dominant strains. Plants typically reach between 4 and 6 feet in height even when grown outdoors, making it a particularly attractive option for indoor cultivation where vertical space is limited.

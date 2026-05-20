@@ -1,12 +1,4 @@
 ---
-title: Turner Brief History Psychedelics Ancient To Modern
-created: 2026-04-18
-updated: 2026-04-18
-type: concept
-tags: [reference]
-sources:
-  - "raw/papers/the-essential-psychedelic-guide-by-dimitri-turner.md"
----
 title: Brief History of Psychedelics from Ancient Times to Modern Era (Turner)
 created: 2026-04-18
 updated: 2026-04-18
@@ -123,3 +115,7 @@ Practical experience combined with systematic observation yields the most reliab
 ## Future Directions
 Emerging approaches and technologies offer new opportunities for advancement.
 Collaborative knowledge sharing accelerates progress across related domains.
+
+## Key Takeaways
+
+The information presented here highlights important connections between theory and practice. Consider these factors in relation to your specific context for best results.

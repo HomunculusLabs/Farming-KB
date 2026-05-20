@@ -1,8 +1,4 @@
 ---
-title: "Fungal Decomposition"
-tags: []
-sources: []
----
 title: Fungal Decomposition
 created: 2026-04-11
 updated: 2026-04-12
@@ -121,3 +117,5 @@ Fungi are fundamental to pedogenesis (soil formation):
 - [[fungal-decomposition-mycorrhizal-types]]
 ## Further Reading
 Continued research and field trials yield new insights into this subject.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

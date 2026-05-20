@@ -8,79 +8,6 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
-## Fukuoka Food and Health Philosophy
-
-updated: 2026-04-18
-
-Fukuoka's food philosophy is inseparable from his farming philosophy. He argues that agriculture arose from human cravings over food, and unless the human diet is basically sound, agriculture cannot be normal. The failure of modern agriculture has its roots in abnormal dietary practices.
-
-## The Natural Diet
-
-A true natural diet is one where one feeds randomly with an undiscriminating attitude on:
-- Food taken from the wild
-- Crops grown by natural farming
-- Fish and shellfish caught using natural methods
-
-One must abandon an artificial diet designed on the basis of discriminating scientific knowledge and, gradually liberating oneself from philosophical constraints, ultimately deny and transcend these.
-
-### Agricultural Crops as Natural Foods
-Crops that have merely adapted to the environment and survived through natural selection for thousands of years may be thought of as foods that arose naturally. This does not apply to crops developed recently through breeding programs and considerably alienated from nature, nor to artificially bred fish and livestock.
-
-### Seasonal Eating
-Fukuoka provides a detailed year-round food calendar based on the Japanese traditional diet:
-
-**Spring:** Seven herbs of spring (Japanese parsley, shepherd's purse, cudweed, chickweed, bee nettle, wild turnip, wild radish), shellfish (pond snails, fresh water clams, sea clams), bracken, osmund, bamboo shoots, broad beans, Spanish mackerel
-
-**Early summer:** Loquats, green Japanese apricot (ume), pickled scallion, peach, bitter oleaster berry, plum, apricot
-
-**Midsummer:** Melon, milk, honey, rapeseed oil, sesame oil, cucumber, eggplant, tomato
-
-**Early autumn:** Fruits, cereal grains, soybeans, adzuki beans, millet dumplings, taros, green soybeans, corn, chestnuts, matsutake mushrooms
-
-**Late autumn:** Ripened rice (yang of summer stored as calories for winter), buckwheat, daikon, leafy vegetables
-
-**Winter:** Pickled fall vegetables, oysters, sea urchins, sea cucumbers, wild game (mallard, jackrabbit), welsh onions, leek, wild rocambole, butterbur flower
-
-### Eating Principles
-- Summer (yang) -- eat yin foods
-- Winter (yin) -- eat yang foods
-- Grains (intermediate) should be the staple
-- Meat is very yang; its consumption is "essentially cannibalism" and should be avoided
-- However, too much concern over yin/yang, acidic/alkaline, sodium/magnesium leads back into the realm of discriminating knowledge
-
-## The Nature of Flavor
-
-Fukuoka's most striking argument is that people today chase after flavor because they have lost it:
-
-- Natural man gathers food without discrimination; his instincts are intact so he eats properly; everything is delicious, nourishing, and therapeutic
-- Modern man bases judgments on mistaken knowledge; his diet is chaotic; delicious food becomes increasingly rare
-- "People nowadays seem to live by feeding on a mist of notions"
-- An adult who has lost his instinctive sense of taste no longer appreciates the taste of rice; white rice stripped of bran must be dressed with meat sauce or sashimi
-- Refinements in flavoring with petroleum-derived protein have created people unaware their entire diet has been converted into an artificial diet
-
-### What Does It Take to Find Truly Delicious Food?
-"All we have to do is stop trying to create delicious food and we will be surrounded by it."
-
-### Flavor and Nutrition Must Be One
-- What is nourishing and good for the human body should stimulate the human appetite of its own accord
-- Western dietetics treats the body as a mechanical entity; menus give the impression of merely supplying energy
-- Dietetics lacks awareness of man as a living, breathing creature
-- The food that man eats is linked directly and indirectly with human emotion; a diet devoid of feeling is meaningless
-
-## Culture, Diet, and Civilization
-
-- True culture arises from within nature, and is pure, modest, and simple
-- A culture born of human recreation and vanity that is divorced from nature cannot become a true culture
-- When mankind forsakes a natural diet for a civilized diet, he turns away from true culture and sets off on the road to decline
-- Zen and food are one; the kitchen knife can lead to the way of Zen
-- Within a quiet life passed leisurely and tranquilly according to the cycles of nature lies hidden all the grandeur of the human drama
-
-## Unity of Matter and Spirit
-
-"Form is emptiness and emptiness is form" -- matter and spirit are one. The purpose of a natural diet is not to create learned individuals who support their food selection with articulate explanations, but to create unlearned people who gather food without deliberate rationale from nature's garden.
-
----
-
 Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of [[fukuoka-food-and-human-health]]
 - [[fukuoka-japanese-diet-worse]], philosophy of eating) updated: 2026-04-18 - [[fukuoka-natural-way-of-farming-theory-of-natural-farming]], Fukuoka explores the deepest philosophical dimensions of how humans perceive food through flavor and color, arguing that modern man has lost his capacity for true sensory experience through [[fukuoka-tasty-rice-illusion]] -- the [[fukuoka-natural-diet-philosophy]] -- natural [[fukuoka-nature-perfect-imperfect]] -- nature's perfection
 
@@ -124,3 +51,33 @@ concept requires considering both theoretical frameworks
 and real-world implementation challenges. Practitioners
 must balance ideal approaches with available resources
 and site-specific conditions to achieve meaningful results.
+
+## Integration with Natural Farming
+
+Fukuoka's approach emphasizes non-intervention and working with natural processes rather than against them. His methods demonstrate that productive agriculture can be achieved without heavy machinery, chemical inputs, or elaborate irrigation systems. The key principle is observation of natural patterns and minimal disturbance of soil ecosystems. Cover crops, mulching, and strategic timing of planting replace conventional tillage and fertilization. These practices build soil organic matter, improve water retention, and support diverse microbial communities essential for plant health.
+
+## Integration with Natural Farming Principles
+
+Fukuoka's approach emphasizes non-intervention and working with natural processes rather than against them. His methods demonstrate that productive agriculture can be achieved without heavy machinery, chemical inputs, or elaborate irrigation systems. The key principle is observation of natural patterns and minimal disturbance of soil ecosystems.
+
+Cover crops, mulching, and strategic timing of planting replace conventional tillage and fertilization. These practices build soil organic matter, improve water retention, and support diverse microbial communities essential for plant health. Fukuoka demonstrated that these methods could achieve yields comparable to or exceeding conventional agriculture while requiring less labor and fewer external inputs.
+
+The philosophical underpinning of natural farming involves recognizing the interconnectedness of all elements in the agricultural system. Rather than seeking to control individual variables, the practitioner aims to create conditions where natural processes optimize themselves. This requires patience and a willingness to observe before acting, but the results are more resilient and self-sustaining systems.
+## Natural Farming Integration and Context
+
+Fukuoka's methods represent a radical departure from conventional agriculture, demonstrating that nature can be trusted to optimize growing conditions when given the right initial framework. His four principles, no tillage, no fertilizer, no pesticides, and no weeding, create conditions where soil biology thrives and plants develop robust immune responses.
+
+The success of this approach depends on careful observation and timing rather than intervention. Cover crops are sown before the previous crop is harvested, creating continuous living root systems that feed soil microorganisms year-round. Straw mulch from the previous harvest suppresses weeds while retaining moisture and providing habitat for beneficial organisms.
+
+Soil development under natural farming follows predictable patterns. Within three to five years, organic matter levels increase significantly, water infiltration improves, and the diversity of soil organisms expands dramatically. Earthworm populations typically double or triple compared to adjacent conventionally managed fields. Mycorrhizal networks establish connections between plants, facilitating nutrient and information exchange.
+
+The economic advantages of natural farming extend beyond reduced input costs. Lower machinery requirements, minimal labor demands once systems are established, and premium market prices for naturally grown products all contribute to profitability. Perhaps most importantly, the reduction in physical labor allows farmers to manage larger areas or dedicate time to other productive activities.
+
+Integration with broader agroecological principles amplifies these benefits. Combining natural farming methods with permaculture design, agroforestry, and holistic grazing management creates multi-functional landscapes that produce food while regenerating ecosystems. The key insight is that productive agriculture and ecological health are not opposing goals but complementary outcomes of working with natural processes.
+
+The integration of these concepts with broader agricultural and ecological frameworks creates opportunities for synergistic approaches that enhance overall system performance. Continued learning through observation and experimentation remains essential for adapting these principles to diverse local conditions.
+## Notes
+
+The integration of these concepts with broader frameworks creates opportunities for synergistic
+approaches. Continued observation and experimentation remain essential for adapting principles
+to diverse local conditions and achieving optimal outcomes over time.

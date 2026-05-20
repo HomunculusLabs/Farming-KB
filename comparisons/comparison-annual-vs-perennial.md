@@ -1,11 +1,4 @@
 ---
-title: "Comparison Annual Vs Perennial"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [gardening, permaculture]
-sources: []
----
 title: "Annual vs Perennial"
 tags: [comparison, plants, farming, food-forests, permaculture]
 date: 2026-04-25

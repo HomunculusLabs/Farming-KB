@@ -1,8 +1,4 @@
 ---
-title: "Cannabis Living Soil Amendment Schedule"
-tags: []
-sources: []
----
 title: Cannabis Living Soil Amendment Schedule
 created: 2026-04-11
 updated: 2026-04-12

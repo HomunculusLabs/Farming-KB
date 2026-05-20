@@ -7,13 +7,6 @@ tags: [history, mycology, psychedelics]
 sources:
   - "raw/papers/j-gartz-narrenschwamme.md"
 ---
-titlpsilocybinPsilocybin Distribution Program
-created: 2026-04-19
-updated: 2026-04-18
-type: concept
-sources: magic-mushrooms-around-the-world-gartz.md
-tags: [reference]
----
 
 ## The Sandoz Psilocybin Distribution Program
 

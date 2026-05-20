@@ -4,21 +4,6 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-## Soil Food Web Gardening Rules
-
-> The complete set of 19 rules from the Appendix of *Teaming with Microbes* by
-> Jeff Lowenfels & Wayne Lewis — practical guidelines distilled from soil food
-> web science, paired with the book's closing philosophical argument.
-
-## Overview
-
-The soil food web is the community of organisms living in the soil — bacteria,
-fungi, protozoa, nematodes, microarthropods, worms, and more. These 19 rules
-translate that science into actionable gardening practice: feed the soil, and
-the soil feeds the plants.
-
----
-
 ## The 19 Soil Food Web Gardening Rules
 
 ### I. Know Your Plant's Microbial Preference

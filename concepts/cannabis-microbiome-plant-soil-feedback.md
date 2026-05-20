@@ -4,14 +4,6 @@ source: understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
 
-## Cannabis Microbiome and Plant-Soil Feedback
-
-## Overview
-
-Plant-soil feedback (PSF) is a foundational concept in ecology describing how plants alter the soil environment — particularly its microbial communities — which in turn affects the growth and fitness of subsequent plants, including those of the same species. In Cannabis, this dynamic is especially intriguing because of the plant's unique secondary metabolite profile, its cultivar-specific root microbiome associations, and the commercial importance of consistent cannabinoid and terpene production.
-
----
-
 ## 1. Plant-Soil Feedback: Definition and Mechanisms
 
 ### What Is Plant-Soil Feedback?

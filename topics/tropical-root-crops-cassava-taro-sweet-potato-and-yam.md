@@ -15,21 +15,6 @@ These crops share several advantages: they tolerate marginal soils better than m
 
 ---
 
-## Botanical Classification and Storage Organ Types
-
-Understanding what part of the plant you are eating is essential for proper cultivation and processing:
-
-| Crop | Species | Family | Storage Organ Type | Botanical Description |
-|------|---------|--------|--------------------|-----------------------|
-| Cassava | *Manihot esculenta* | Euphorbiaceae | Tuberous root | Swollen lateral roots, not a true tuber |
-| Taro | *Colocasia esculenta* | Araceae | Corm (and cormels) | Enlarged underground stem base |
-| Sweet Potato | *Ipomoea batatas* | Convolvulaceae | Tuberous root | Swollen adventitious roots |
-| Yam | *Dioscorea* spp. | Dioscoreaceae | Tuber | Swollen portions of the hypocotyl |
-
-The distinction between "tuberous roots" and "true tubers" matters: true tubers (like potatoes and yams) have multiple nodes ("eyes") from which shoots emerge, while tuberous roots (cassava, sweet potato) have no nodes and sprout only from the crown or stem cuttings.
-
----
-
 ## Cassava (*Manihot esculenta*)
 
 ### Overview
@@ -88,3 +73,9 @@ Taro produces a large underground corm that is rich in starch, along with edible
 Is your soil waterlogged or do you have a pond/wetland area?
 ├── YES → Plant TARO in the wet zone
 └── NO ↓
+
+## Practical Considerations
+
+Effective implementation requires attention to local conditions, resource availability, and specific objectives. Adaptation of general principles to particular circumstances often determines success.
+
+This topic interconnects with several related areas of study and practical application.

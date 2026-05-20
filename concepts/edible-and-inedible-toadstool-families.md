@@ -4,17 +4,6 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-## Edible and Inedible Toadstool Families
-
-## Overview
-
-Charles McIlvaine's classification of toadstool families provides a foundational
-framework for understanding which mushrooms are safe to eat and which are
-dangerous. His work, referenced in Julius A. Palmer's writings, organizes the
-major families by their physical characteristics and edibility.
-
----
-
 ## The Five Families of Toadstools
 
 McIlvaine identifies five families commonly encountered by foragers, each

@@ -4,14 +4,6 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-## Allegro: Roman Historians on Christians and the Political Nature of Revelation
-
-## Overview
-
-John M. Allegro's *The Sacred Mushroom and the Cross* examines how Roman historians Tacitus and Suetonius documented early Christians, and what their accounts reveal about the gap between Christian ethical teachings and the reality of Christian practice as perceived by outsiders. This concept page also explores the overtly political and apocalyptic language of the Book of Revelation, which Allegro argues is hardly consonant with the New Testament's professed ideals of love and universal brotherhood.
-
----
-
 ## Tacitus on the Christians (Annals 15.44)
 
 The Roman senator and historian Tacitus (c. 56–120 AD) provides the most detailed secular account of Nero's persecution of Christians following the Great Fire of Rome in 64 AD. His *Annals* (15.44) are indispensable—and deeply hostile.

@@ -7,12 +7,6 @@ A practical FAQ for beginners who want to grow dragon fruit (pitaya) at home, wh
 
 ---
 
-## What is dragon fruit and can I grow it at home?
-
-Dragon fruit (*Hylocereus* / *Selenicereus* spp.) is a climbing cactus that produces vivid pink, red, or yellow fruit with white, red, or magenta flesh. Yes, you can grow it at home. It is one of the easier tropical fruits to cultivate because the plant is drought-tolerant, disease-resistant, and adapts well to container culture. You do not need a farm — a sunny patio, balcony, or even a bright indoor space works with the right setup.
-
----
-
 ## What climate do I need?
 
 - **USDA Hardiness Zones:** 9b–11 for outdoor in-ground planting.

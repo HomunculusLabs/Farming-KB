@@ -1,8 +1,4 @@
 ---
-title: "Psilocybin Large Scale Production"
-tags: []
-sources: []
----
 title: Psilocybin Large Scale Production
 created: 2026-04-12
 updated: 2026-04-12

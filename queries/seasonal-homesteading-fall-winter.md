@@ -1,8 +1,4 @@
 ---
-title: "Seasonal Homesteading Fall Winter"
-tags: []
-sources: []
----
 title: Seasonal Homesteading — Fall and Winter
 created: 2026-04-12
 updated: 2026-04-12

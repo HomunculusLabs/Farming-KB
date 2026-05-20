@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-created: 2026-05-08
-source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
-tags: [psilocybe, neurotropic-fungi, biogeography, south-america, mesophytic-forest, mycology]
----
-
 ## Overview
 
 Psilocybe subyungensis is a neurotropic mushroom species belonging to the genus Psilocybe, primarily documented in South American mesophytic forests. The species was discussed by Guzmán, Allen & Gartz (1998) in their comprehensive [[distribution-of-neurotropic-fungi]] as an example of the strong biogeographic connections between South American and Mesoamerican mycobiota through mesophytic forest corridors.

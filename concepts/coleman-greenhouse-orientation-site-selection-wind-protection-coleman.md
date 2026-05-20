@@ -4,14 +4,6 @@ tags:
   - concept
 ---
 
-**Source:** [[coleman-french-historical-winter-vegetable-production]] requires Mediterranean climates. His farm in Harborside, Maine, sits on the 44th parallel of latitude—the same parallel as Avignon, France, and Genoa, Italy. Portland, Maine, shares its latitude with St. Tropez on the French Riviera. New York City aligns with Naples, Italy, and Washington, D.C., with Majorca and Corfu.
-
-This latitude comparison is critical because day length, not temperature, determines the primary constraint on winter plant growth. All locations on the same parallel experience identical day lengths and identical potential solar energy. The milder temperatures of southern Europe are attributable to the Gulf Stream, not to more sunlight. In fact, many parts of the continental United States receive far more winter sunshine than western Europe, where winter vegetable production has a long tradition dating back centuries.
-
-Coleman emphasizes that the continental U.S. below the 37th parallel (the northern borders of North Carolina, Tennessee, Arkansas, Oklahoma, New Mexico, and Arizona) experiences the same winter day length as northern Africa. Even at the far-north extreme, he suggests that winter harvest could succeed as far north as Anchorage, Alaska on the 61st parallel, where days under ten hours extend from October 16 to February 24.
-
----
-
 ## The Ten-Hour Day Threshold
 
 The single most important factor governing winter plant growth in Coleman's system is the ten-hour day threshold. When day length drops below ten hours, the total light energy available diminishes to the point where it significantly affects the rate of plant growth. At Coleman's Maine farm (44.33 degrees north), this period extends from November 5 to February 5.

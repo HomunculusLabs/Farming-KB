@@ -24,35 +24,6 @@ sources:
   - McKenna, D.J. (2004). "Clinical Investigations of the Therapeutic Potential of Ayahuasca." MAPS, 14(1).
 ---
 
-## Overview
-
-**Ayahuasca** (from Quechua *aya* "spirit, soul" + *wasca* "vine, rope") — also known as yagé, hoasca, daime, and caapi — is a psychoactive brew traditionally prepared by indigenous peoples of the Amazon basin. It is one of the most pharmacologically complex entheogenic preparations known, combining N,N-dimethyltryptamine (DMT) with β-carboline alkaloids that inhibit its oral metabolism.
-
-Ayahuasca has been used for centuries — possibly millennia — in shamanic, healing, and divinatory contexts throughout the western Amazon. In the 21st century, it has attracted global attention for its potential therapeutic applications in treating depression, PTSD, substance use disorders, and end-of-life anxiety, as well as for its role in the syncretic religious movements of Brazil (Santo Daime, União do Vegetal, Barquinha).
-
-## Composition and Chemistry
-
-### Traditional Ingredients
-
-The classical ayahuasca brew contains two essential components:
-
-1. **[[peganum-harmala]] ([[ayahuasca-chemistry-mao-inhibition-synergy]]
-- [[ayahuasca-commercial-vs-authentic-ceremony-dynamics]]
-- [[ayahuasca-shamanism-economics]]
-
-## Merged: Amazonian Mythological Beings in Pablo Amaringo's Visionary World
-
-## Amazonian Mythological Beings in Pablo Amaringo's Visionary World
-
-Pablo Amaringo (1938–2009) was a Peruvian **vegetalista** and painter whose
-visionary art documents the spirit beings encountered during **ayahuasca**
-ceremonies. His paintings, collected in *Ayahuasca Visions* (Luna & Amaringo,
-1991), reveal a complex cosmology of Amazonian mythological entities that
-inhabit rivers, forests, mountains, and atmospheric realms — experienced as
-living presences with agency, power, and moral significance.
-
----
-
 ## Sachamama — Mother of the Forest
 
 **Vision 15**

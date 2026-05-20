@@ -7,48 +7,6 @@ tags: [plants, medicine, health, neuroscience, pharmacology, preparation, specie
 sources: []
 ---
 
-## Nootropic Herbs Guide
-
-## Overview
-
-Nootropics are substances that enhance cognitive function — memory, focus, creativity, motivation, and attention. While the term was coined in 1972 by Romanian chemist Corneliu Giurgea (referring to piracetam), many herbs have been used for thousands of years in traditional medicine systems for cognitive enhancement. These herbal nootropics generally work through gentler, multi-target mechanisms compared to synthetic nootropics.
-
-This guide covers five primary nootropic herbs: bacopa, lion's mane, gotu kola, ginkgo, and rosemary.
-
-## Bacopa (Bacopa monnieri)
-
-### Overview
-One of the most important herbs in Ayurvedic medicine, known as Brahmi. Used for over 3,000 years to enhance memory, intellect, and longevity. A small creeping succulent that grows in wet, marshy areas across India, Nepal, and Sri Lanka. Bacopa is the most clinically validated herbal nootropic for memory enhancement.
-
-### Key Compounds
-- **Bacosides:** Triterpenoid saponins (bacoside A and B are primary). Responsible for memory-enhancing, antioxidant, and neuroprotective effects.
-- **Bacogenins:** Aglycone derivatives of bacosides.
-- **Hersaponin:** Saponin with sedative and anxiolytic properties.
-
-### Mechanisms
-- **Memory enhancement:** Enhances dendritic branching and synaptic communication in the hippocampus (memory center). Increases synaptic protein expression.
-- **Antioxidant:** Potent free radical scavenging in brain tissue. Increases endogenous antioxidant enzymes (SOD, catalase, glutathione peroxidase).
-- **Anti-inflammatory:** Reduces neuroinflammation by inhibiting COX-2, LOX, and TNF-alpha in brain tissue.
-- **Cholinergic:** May enhance acetylcholine release and cholinesterase inhibition, supporting memory formation.
-- **Serotonergic:** Modulates serotonin receptors (5-HT1A, 5-HT2A), contributing to anxiolytic and antidepressant effects.
-- **Neurogenesis:** Promotes growth of new neurons in the hippocampus.
-
-### Clinical Evidence
-- Multiple double-blind, placebo-controlled trials demonstrate significant memory improvement.
-- Effects most pronounced after 8-12 weeks. Improves both short-term and long-term memory.
-- Particularly effective for information retention and recall. Shown to reduce anxiety while improving cognition.
-
-### Dosing
-- **Standardized extract (50% bacosides):** 150-300mg, twice daily (300-600mg total).
-- **Traditional leaf powder:** 1-3g per day.
-- Take with a fat-containing meal (bacosides are fat-soluble).
-- Full effects require 8-12 weeks. Can be taken long-term.
-
-### Contraindications
-- Pregnancy and breastfeeding. Thyroid conditions (may enhance hormone production). Bradycardia. Caution with anticholinergic and sedative medications.
-
----
-
 ## Lion's Mane (Hericium erinaceus)
 
 ### Overview

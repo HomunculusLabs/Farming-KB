@@ -4,14 +4,6 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-## Natural Swimming Pools and Water Design
-
-## Overview
-
-Natural swimming pools and integrated water design represent a core permaculture strategy for replacing conventional chemical-dependent water systems with living, multifunctional ecosystems. This concept page draws from Bill Mollison's *Permaculture: A Designers' Manual* and covers the critique of chemical pools, natural pool design, the designer's water checklist, dam and earthworks guidance, greywater systems, and introductory soil science.
-
----
-
 ## Critique of Chemical Swimming Pools
 
 Conventional pools rely on biocides — most commonly chlorine — to maintain water clarity. Mollison identifies several serious problems:

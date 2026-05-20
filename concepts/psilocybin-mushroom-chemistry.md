@@ -1,8 +1,4 @@
 ---
-title: "Psilocybin Mushroom Chemistry"
-tags: []
-sources: []
----
 title: Psilocybin Mushroom Chemistry
 created: 2026-04-12
 updated: 2026-04-12

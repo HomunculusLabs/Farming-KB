@@ -1,8 +1,4 @@
 ---
-title: "Cannabis Nutrient Deficiency Guide"
-tags: []
-sources: []
----
 title: Cannabis Nutrient Deficiency Guide
 created: 2026-04-11
 updated: 2026-04-12

@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-created: 2026-05-08
-source: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
-tags: [aflatoxin, mycotoxin, turkey-x-disease, aspergillus-flavus, peanut-meal, food-safety, mycotoxicology, liver-cancer]
----
-
 ## Overview
 
 The discovery of aflatoxins — among the most potent naturally occurring carcinogens — began with a catastrophic episode of animal suffering in England in 1960. One hundred thousand turkeys died from a mysterious disease characterized by loss of appetite, lethargy, and liver failure. Investigation revealed that the birds had been fed peanut meal contaminated with toxins produced by the mold [[nicholas-money]] noted, the fact that the turkeys faced an unpleasant future with or without aflatoxins may explain why the poultry industry has yet to erect a monument to this event.

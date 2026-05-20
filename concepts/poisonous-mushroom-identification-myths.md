@@ -4,16 +4,6 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-## Poisonous Mushroom Identification Myths
-
-## Overview
-
-One of the most dangerous misconceptions in foraging is the belief that simple rules or tests can reliably distinguish poisonous mushrooms from edible ones. Historical sources, including Julius Auboineau Palmer's work on mushrooms, are emphatic on this point: **no single rule, test, or general characteristic exists that can separate poisonous fungi from edible species**. Mistakes in identification carry fatal consequences, and as Palmer warns, "no antidote to fungus poison has ever been discovered."
-
-This page catalogs the most persistent myths surrounding mushroom identification, explains why each one fails, and outlines the only reliable approach to safe mushroom foraging. The information is drawn primarily from Palmer's synthesis of 19th-century European mycological knowledge, with extensive quotations from Dr. F.S. Cordier's authoritative 1876 French treatise.
-
----
-
 ## The Fatal Stakes
 
 The consequences of misidentifying a mushroom are not merely unpleasant — they are lethal. Unlike some other forms of plant poisoning, fungal toxins act swiftly and irreversibly. Palmer's source, Dr. F.S. Cordier, whose 1876 French treatise was regarded as the most complete work on the subject at the time, stressed that there is no universal antidote for fungal poisoning.

@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-**Source:** coleman claytonia winter harvest cultivation Handbook*
-**Domain:** coleman gothic arch greenhouse design specifications → Mobile Structures
-
----
-
 ## Overview
 
 The [[rolling-greenhouse]] on wheels is Coleman's most evolved mobile

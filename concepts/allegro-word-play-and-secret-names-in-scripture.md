@@ -1,12 +1,4 @@
 ---
-title: "Allegro Word Play And Secret Names In Scripture"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [history, mythology]
-sources:
-  - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
----
 title: "Word Play and Secret Names in Scripture"
 created: 2026-04-26
 updated: "2026-04-23"

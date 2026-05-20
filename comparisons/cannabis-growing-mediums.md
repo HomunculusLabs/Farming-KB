@@ -1,8 +1,4 @@
 ---
-title: "Cannabis Growing Mediums"
-tags: []
-sources: []
----
 title: Cannabis Growing Mediums Comparison
 created: 2026-04-11
 updated: 2026-04-12

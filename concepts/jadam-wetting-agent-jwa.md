@@ -1,8 +1,4 @@
 ---
-title: "Jadam Wetting Agent Jwa"
-tags: []
-sources: []
----
 title: Jadam Wetting Agent (JWA) — Natural Surfactant Recipe
 created: 2026-04-11
 updated: 2026-04-12

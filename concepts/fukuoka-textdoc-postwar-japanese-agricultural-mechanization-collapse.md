@@ -1,11 +1,4 @@
 ---
-title: Fukuoka Textdoc Postwar Japanese Agricultural Mechanization Collapse
-created: 2026-05-05
-updated: 2026-05-05
-type: concept
-tags: [natural-farming, fukuoka]
-sources: [raw/papers/fukuoka-the-one-straw-revolution.md]
----
 title: Postwar Japanese Agricultural Mechanization and Village Collapse
 tags:
   - fukuoka

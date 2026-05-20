@@ -4,13 +4,6 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-## Debunking Mushroom Identification Myths
-
-**Article:** "Toadstool-Eating," *Popular Science Monthly*, May 1877
-**Author:** Julius Auboineau Palmer
-
----
-
 ## The Mushroom vs. Toadstool Fallacy
 
 Palmer opens with a striking philosophical statement that cuts through centuries of folk taxonomy:

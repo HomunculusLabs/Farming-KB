@@ -4,16 +4,6 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-## Fungi in Marine and Salt Marsh Ecosystems
-
-Marine and coastal ecosystems harbor diverse fungal communities that play critical roles in [[fungal-decomposition|decomposition]], [[nutrient-mineralization-fungi|nutrient cycling]], and food web dynamics. Fungi in these environments occupy niches ranging from submerged wood and salt marsh grasses to mangrove detritus, often functioning under extreme conditions of salinity, fluctuating oxygen availability, and tidal immersion. This page synthesizes current understanding of fungal ecology across five key coastal habitat types and processes.
-
-## Overview
-
-Fungi in marine and estuarine environments are predominantly Ascomycota, with smaller contributions from Basidiomycota and mitosporic (asexual) fungi. Despite the challenges posed by saltwater immersion and low-oxygen sediments, fungi maintain ecologically significant populations through specialized adaptations including oxygen conduction through hyphae, rapid growth strategies, and symbiotic relationships with invertebrate herbivores.
-
----
-
 ## Marine Wood Decomposition
 
 ### Species Composition

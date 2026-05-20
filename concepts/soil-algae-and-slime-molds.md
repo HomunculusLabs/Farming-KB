@@ -4,14 +4,6 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-## Soil Algae and Slime Molds
-
-Soil algae and slime molds are often-overlooked groups that play critical roles
-in soil ecology. Their contributions to soil formation, nutrient cycling, and
-soil structure are foundational to healthy terrestrial ecosystems.
-
----
-
 ## Algae in Soil
 
 ### Overview and Classification

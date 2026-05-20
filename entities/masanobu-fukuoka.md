@@ -1,9 +1,4 @@
 ---
-title: "Masanobu Fukuoka"
-tags: []
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
----
 title: Masanobu Fukuoka
 created: 2026-04-11
 updated: 2026-04-12

@@ -1,8 +1,4 @@
 ---
-title: "Mushroom Indoor Cultivation"
-tags: []
-sources: []
----
 title: Comparison Mushroom Log Cultivation Vs Mushroom Indoor Cultivation
 created: 2026-04-11
 updated: 2026-04-12

@@ -4,26 +4,6 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-## Microplot Sampling, Log Sampling Protocols, and Macrofungal Survey Summary
-
-## Sampling Small Ascomycetes Using Microplots
-
-### Purpose
-
-Microplot sampling aims to obtain a **quantitative sample of microfungi** on small substrata (twigs, branches, leaves), targeting **infrequently and rarely collected species** often missed by standard macrofungal inventories. The goal is depth of sampling within a defined unit, not broad geographic coverage.
-
-### Protocol
-
-The microplot protocol parallels macrofungal sampling but is adapted for the smaller scale and higher effort required:
-
-1. **Plot placement**: Establish microplots adjacent to macrofungal subplots along transects. Because substrata are collected (destructive sampling), different plots must be laid out each visit.
-2. **Equipment**: Each sampler carries a **0.56-m or 1.128-m plastic pipe or wood pole** to circumscribe **1-m² circular subplots**; the number of plots depends on team resources.
-3. **Labor intensity**: Sampling is highly time-consuming, requiring careful examination of all small substrata. In Costa Rica, most samplers managed only **2–3 × 1-m² plots per week**.
-4. **Collection workflow**: Collect all microfungi on twigs, branches, and leaves; label with transect letter and subplot number; transport to the field station; sort and examine under a **stereomicroscope** for fertility; describe, divide, and dry specimens; record the **substratum** for each.
-5. **Minimum frequency**: Sample at least **twice per year** (middle and end of fruiting season).
-
----
-
 ## Sampling a Fixed Number of Downed Logs
 
 ### Rationale

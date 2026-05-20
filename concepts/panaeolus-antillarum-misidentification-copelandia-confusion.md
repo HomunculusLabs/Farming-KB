@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-created: 2026-05-08
-source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
-tags: [panaeolus, copelandia, misidentification, taxonomy, neurotropic-fungi, field-identification, mycology]
----
-
 ## Overview
 
 Panaeolus antillarum is a widely distributed tropical agaric that is frequently misidentified as Copelandia species by recreational users of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] world, as P. antillarum is a non-psychoactive edible species that grows alongside genuinely hallucinogenic Copelandia mushrooms in identical habitats. Guzmán, Allen & Gartz (1998) specifically addressed this confusion in their [[growing-gourmet-north-american-reishi-species]] synonym

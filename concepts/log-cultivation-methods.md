@@ -1,8 +1,4 @@
 ---
-title: "Log Cultivation Methods"
-tags: []
-sources: []
----
 title: Log Cultivation Methods — Growing Mushrooms on Logs and Stumps
 created: 2026-04-11
 updated: 2026-04-13

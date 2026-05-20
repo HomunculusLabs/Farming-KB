@@ -4,26 +4,6 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-## Mushroom Processing Recipes and Waste Management
-
-## Overview
-
-Fresh mushrooms are highly perishable and must be sold or consumed within a short period after harvest. Without proper conservation strategies, significant losses can occur. Processing mushrooms into value-added products extends shelf life, diversifies income sources, and reduces post-harvest waste. This page covers conservation methods, five detailed recipes for fermented, pickled, and snack products, and a comprehensive waste management protocol for mushroom cultivation operations.
-
-## Conservation Methods
-
-Mushrooms deteriorate rapidly at room temperature due to their high moisture content and delicate cell structure. To preserve them beyond the fresh window, cultivators should employ one or more of the following strategies:
-
-- **Drying** — Dehydrating mushrooms using electrical or solar dryers is the most common preservation method. Solar dryers are cost-effective but **cannot be used during the rainy season** because dried mushrooms will reabsorb ambient humidity and spoil. Electrical dryers offer more reliable results but require consistent power supply.
-
-- **Fresh processing** — Mushrooms can be transformed into a variety of products immediately after harvest, including soups, sauces, sweets, cookies, candies, and snack items. These products have extended shelf life and can command premium prices at local markets.
-
-- **Fermentation and pickling** — Traditional fermentation techniques produce shelf-stable products that require no refrigeration until opened, making them especially suitable for rural settings.
-
-> **Note for rural cultivators:** Complex processing (e.g., canning, industrial drying) may not be feasible where facilities and equipment are limited. The recipes below are designed for low-tech environments using readily available ingredients and tools.
-
----
-
 ## Recipe 1: Fermented Mushrooms "Pla la Hed"
 
 A traditional fermented mushroom product with a savory, umami-rich flavor.

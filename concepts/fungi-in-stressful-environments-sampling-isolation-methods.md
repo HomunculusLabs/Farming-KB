@@ -4,14 +4,6 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-## Fungi in Stressful Environments — Sampling and Isolation Methods for Stress-Tolerant Fungal Groups
-
-## Overview
-
-Fungi colonize an extraordinary range of stressful habitats, from geothermal soils and polar ice to metal-contaminated sites and hypersaline substrates. Sampling and isolating these organisms requires deliberate modification of standard mycological techniques to match the physiological constraints and selective pressures of each environment. This page summarizes established methods for the major stress-tolerant fungal groups, drawing on classic and contemporary literature in fungal ecology and systematics.
-
----
-
 ## General Considerations
 
 ### Evaluating Community Composition

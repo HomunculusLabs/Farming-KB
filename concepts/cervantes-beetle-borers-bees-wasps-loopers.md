@@ -14,42 +14,6 @@ sources:
 type: concept
 ---
 
-## Beetle Borers, Bees, Wasps, and Loopers on Cannabis
-
-## Beetle Borers
-
-### Identification
-
-Larvae from several boring beetle species tunnel or bore into
-cannabis stems and roots. Look for their entry hole and dead
-growth on either side of the entry hole along the main stem.
-Damage is often accompanied by sawdust-like frass around the
-entry point. Borers are more common outdoors than indoors.
-
-### Damage
-
-Internal tunnels in stems and roots curtail fluid flow, causing
-plant parts above the damage to wilt. If a borer damages the
-main stem severely, fluid flow to the entire plant could stop,
-causing death. The structural weakness from tunneling can also
-cause stems to break under the weight of developing buds.
-
-### Control
-
-Borers are seldom a problem indoors. When they do occur, they
-often cause so much damage on a particular stem that it must be
-removed and destroyed to save the rest of the plant.
-
-- Manual: Handpick all visible beetle grubs when found
-- Biological: Several mixes of beneficial nematodes control
-  borers in soil. Steinernema and Heterorhabditis species seek
-  out and kill boring larvae
-- Sprays: Bacillus popilliae is specific to beetles. Rotenone
-  can be individually injected into stems to reach boring
-  larvae inside
-
----
-
 ## Bees and Wasps
 
 ### Identification

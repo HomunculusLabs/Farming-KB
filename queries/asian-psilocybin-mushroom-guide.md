@@ -1,8 +1,4 @@
 ---
-title: "Asian Psilocybin Mushroom Guide"
-tags: []
-sources: []
----
 title: Asian Psilocybin Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12

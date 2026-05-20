@@ -23,12 +23,6 @@ sources:
 - concepts/jadam-fungal-disease-management.md
 ---
 
-## What Is Botrytis Cinerea (Gray Mold) and How Do I Manage It?
-
-[[botrytis-cinerea]] is one of the most widespread and destructive fungal pathogens in agriculture, attacking hundreds of plant species including cannabis, grapes, strawberries, and tomatoes. Its signature symptom is a fuzzy gray-brown coating of spores on flowers, fruit, and dying tissue. Understanding its life cycle and environmental triggers is essential for prevention — see [[bloomfield-fungal-pathogens-and-parasites]] for broader fungal pathogen ecology.
-
----
-
 ## Short Answer
 
 Botrytis cinerea causes gray mold (also called bud rot on cannabis and bunch rot on grapes). It thrives in cool, humid conditions (60–75°F, 90%+ humidity) and spreads rapidly through airborne spores. Prevention centers on air circulation, humidity control, and canopy management, while organic treatments include [[trichoderma]] biocontrol agents and [[neem-tree-entity|neem oil]] sprays. In wine grapes, a specific strain causes the prized "noble rot" ([[vitis-vinifera]]) that concentrates sugars for dessert wines.

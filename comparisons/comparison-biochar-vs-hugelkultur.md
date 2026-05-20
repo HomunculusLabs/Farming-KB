@@ -18,12 +18,6 @@ sources:
   - "USDA NRCS Soil Health Technical Notes"
 ---
 
-## Biochar vs Hugelkultur
-
-Both biochar and hugelkultur build long-term soil fertility from carbon-rich materials — but through different mechanisms, timescales, and labor requirements.
-
----
-
 ## What Is Biochar?
 
 Charcoal for agriculture, produced by pyrolysis (heating biomass at 350–700°C in low oxygen). Highly porous, recalcitrant carbon persisting in soil for centuries.

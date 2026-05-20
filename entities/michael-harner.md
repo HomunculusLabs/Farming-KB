@@ -1,8 +1,4 @@
 ---
-title: "Michael Harner"
-tags: []
-sources: []
----
 title: Michael Harner
 created: 2026-04-11
 updated: 2026-04-12
@@ -81,3 +77,5 @@ Successful implementation requires attention to multiple interacting factors. En
 ## Mechanisms and Processes
 
 Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+
+This entry contributes to the broader understanding of the subject within its ecological and practical context.

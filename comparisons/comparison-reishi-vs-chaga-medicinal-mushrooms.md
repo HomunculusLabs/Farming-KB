@@ -17,19 +17,6 @@ Chaga is not a true fruiting body — it is a **sterile sclerotial mass**, a den
 
 ---
 
-## Cultivation Difficulty and Methods
-
-| Aspect | Chaga | Reishi |
-|---|---|---|
-| **Cultivation status** | Not commercially viable; wild-harvested | Widely cultivated; one of the easiest [[oyster-mushroom-supplemented-sawdust-blocks]], hardwood logs, stumps |
-| **Time to harvest** | 5–15+ years in the wild | 2–4 months (substrate); 1–2 years (logs) |
-| **Indoor/outdoor** | Not feasible | Straightforward in grow bags, monotubs, or outdoor logs |
-| **Quality concern** | Lab-grown chaga lacks betulin from birch bark | Cultivated retains most triterpenes; wild may have higher ganoderic acid |
-
-Reishi is a **commercial success** with widely available spawn and minimal equipment needs. Chaga **cannot be reliably cultivated** to replicate its wild chemical profile, since birch-derived compounds are central to its therapeutic value.
-
----
-
 ## Active Compounds
 
 | Compound Class | Chaga | Reishi |

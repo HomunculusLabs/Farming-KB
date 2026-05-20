@@ -1,8 +1,4 @@
 ---
-title: "Cho Han Kyu"
-tags: []
-sources: []
----
 title: Master Cho Han-Kyu
 created: 2026-04-11
 updated: 2026-04-12

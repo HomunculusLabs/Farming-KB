@@ -1,8 +1,4 @@
 ---
-title: "Andy Letcher"
-tags: []
-sources: []
----
 title: Andy Letcher
 created: 2026-04-11
 updated: 2026-04-12

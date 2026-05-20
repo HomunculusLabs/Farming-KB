@@ -39,12 +39,6 @@ sources:
     year: 2019
 ---
 
-## Lemongrass Cultivation and Uses
-
-Lemongrass is a fragrant, fast-growing perennial grass in the Poaceae family, widely cultivated across tropical and subtropical regions for its culinary, medicinal, and aromatic properties. Valued for its intense citrus aroma and versatile applications, lemongrass has become one of the most commercially important aromatic grasses in the world. This article provides a comprehensive overview of its botanical profile, cultivation requirements, processing methods, and diverse applications.
-
----
-
 ## Botanical Profile
 
 Lemongrass belongs to the genus **Cymbopogon**, which comprises approximately 55 species of aromatic grasses distributed across tropical and subtropical regions of Africa, Asia, and Australia. The two most economically significant species are:

@@ -4,20 +4,6 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-## Compost Thermal Stages
-
-[[compost|Composting]] progresses through three distinct temperature phases, each driven by a different community of microorganisms. Understanding these stages helps gardeners and farmers manage their piles effectively, producing finished compost that is rich in nutrients and free of pathogens and weed seeds.
-
-## Overview of the Three Stages
-
-| Stage | Temperature Range | Primary Activity |
-|-------|------------------|------------------|
-| Mesophilic | 68–104°F (20–40°C) | Initial breakdown of organic matter |
-| Thermophilic | 104–150°F (40–65°C+) | Rapid decomposition, pathogen kill |
-| Maturation | Cooling back down | Lignin decay, humus formation |
-
----
-
 ## Mesophilic Stage (68–104°F / 20–40°C)
 
 The mesophilic stage is the opening act of composting. [[bacteria-and-microorganisms-in-mushroom-fruiting|Bacteria]] begin the work of decomposing organic matter by breaking down cellulose chains into glucose through a process called [[depolymerization]]. This is the chemical dismantling of long-chain molecules into simpler, consumable forms.

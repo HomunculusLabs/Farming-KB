@@ -4,12 +4,6 @@ source: "cotter-organic-mushroom-farming-mycoremediation.md (Chunk 47, Lines 940
 type: concept
 ---
 
-## Wood Ear and Blewit Cultivation
-
-This page covers three genera of specialty mushrooms — **Agrocybe**, **Auricularia** (wood ear / tree ear), and **Clitocybe** (blewit) — with emphasis on their nutritional and medicinal properties, cultivation techniques, and mycoremediation potential.
-
----
-
 ## Agrocybe — Nutritional and Medicinal Profile
 
 ### Nutritional Value
@@ -119,3 +113,9 @@ Auricularia plays a role in **habitat renewal**, particularly in arid and degrad
 - Essential ingredient in hot and sour soup, stir-fries, and Buddhist vegetarian dishes
 - Blewits have a distinctive **violet color** when young, fading to tan with age; flavor is earthy and slightly sweet
 - Wood ear must be cooked thoroughly — raw consumption can cause allergic reactions in some individuals
+
+## Summary
+
+This overview establishes core concepts that inform both understanding and application. The relationships described here connect to broader themes explored in related entries.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

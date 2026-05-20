@@ -1,9 +1,4 @@
 ---
-title: "Natural Farming Fukuoka"
-tags: []
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
----
 title: Fukuoka's Natural Farming
 created: 2026-04-10
 updated: 2026-04-12

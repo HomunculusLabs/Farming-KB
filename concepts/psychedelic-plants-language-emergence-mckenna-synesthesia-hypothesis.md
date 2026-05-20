@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-created: 2026-05-08
-source: mckenna_t-food_of_the_gods.md
-tags: [mckenna, language-evolution, psychedelic-plants, stoned-ape, consciousness, synesthesia, shamanism, human-origins]
----
-
 ## Overview
 
 [[leary-psychedelic-experience-bardo-mapping]], language literally creates perceptual reality. Words become visible, meanings become tangible, and the act of naming creates the thing named.

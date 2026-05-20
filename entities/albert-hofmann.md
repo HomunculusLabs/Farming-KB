@@ -1,8 +1,4 @@
 ---
-title: "Albert Hofmann"
-tags: []
-sources: []
----
 title: Albert Hofmann
 created: 2026-04-11
 updated: 2026-04-12

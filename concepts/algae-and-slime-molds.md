@@ -4,15 +4,6 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-## Algae and Slime Molds
-
-Algae and slime molds are often-overlooked members of the soil food web. Though
-neither fits neatly into the categories of "plant" or "animal," both play
-important roles in soil formation, nutrient cycling, and soil structure. This
-page draws from *Teaming with Microbes* by Jeff Lowenfels and Wayne Lewis.
-
----
-
 ## Algae
 
 ### Overview

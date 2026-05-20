@@ -4,12 +4,6 @@ source: cotter-organic-mushroom-farming-mycoremediation.md (Lines 9201-9400)
 type: concept
 ---
 
-## Agaricus and Agrocybe Cultivation Guide
-
-A comprehensive guide covering the cultivation, harvesting, storage, marketing, and mycoremediation applications of two important mushroom genera: **Agaricus** (button, portabella, almond agarics) and **Agrocybe** (black poplar, pioppino).
-
----
-
 ## Agaricus Genus
 
 ### Preferred Fruiting Substrates
@@ -120,3 +114,7 @@ The almond-flavored agarics additionally contain high levels of **[[amanita-musc
 
 - Agaricus can be grown year-round in climate-controlled rooms; outdoor beds are seasonal (spring/fall)
 - Agrocybe aegerita fruits naturally in spring and fall on dead hardwood, especially poplar and willow
+
+## Summary
+
+This overview establishes core concepts that inform both understanding and application. The relationships described here connect to broader themes explored in related entries.

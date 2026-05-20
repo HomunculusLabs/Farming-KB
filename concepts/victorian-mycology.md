@@ -1,8 +1,4 @@
 ---
-title: "Victorian Mycology"
-tags: []
-sources: []
----
 title: Victorian Mycology and the Discovery of Psilocybin Mushrooms
 created: 2026-04-11
 updated: 2026-04-12

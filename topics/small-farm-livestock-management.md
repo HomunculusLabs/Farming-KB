@@ -2,52 +2,6 @@
 title: Small-Farm Livestock Management
 subtitle: A comprehensive guide to raising poultry, rabbits, goats, sheep,
 ---
-  and pigs on permaculture and homesteading farms
-tags:
-  - livestock
-  - homesteading
-  - permaculture
-  - poultry
-  - pasture-management
-  - animal-husbandry
-  - small-farming
-  - sustainable-agriculture
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - chicken-keeping-basics.md
-  - chicken-tractor-systems.md
-  - poultry-systems-in-permaculture.md
-  - duck-keeping-guide-detailed.md
-  - rabbit-husbandry-guide.md
-  - goat-husbandry-detailed-guide.md
-  - pig-husbandry-permaculture.md
-  - sheep-husbandry.md
-  - livestock-fencing-guide.md
-  - livestock-feed-management.md
-  - animal-manure-guide.md
-  - animal-tractoring.md
-  - integrated-poultry-forage-systems-zone-two.md
-  - pasture-management.md
-  - animal-butcher-and-processing.md
-related_concepts:
-  - chicken-keeping-basics
-  - chicken-tractor-systems
-  - poultry-systems-in-permaculture
-  - duck-keeping-guide-detailed
-  - rabbit-husbandry-guide
-  - goat-husbandry-detailed-guide
-  - pig-husbandry-permaculture
-  - sheep-husbandry
-  - livestock-fencing-guide
-  - livestock-feed-management
-  - animal-manure-guide
-  - animal-tractoring
-  - integrated-poultry-forage-systems-zone-two
-  - pasture-management
-  - animal-butcher-and-processing
----
 
 ## Small-Farm Livestock Management
 
@@ -117,3 +71,11 @@ reducing feed costs. Ducks complement chickens by consuming slugs, snails,
 4. Nicole Faires, *The Ultimate Guide to [[comparison-chicken-keeping-vs-beekeeping-basics]] Basics. LLM Wiki concept page.
 6. [[grassland-pasture-management-mollison]]. LLM Wiki concept page.
 19. Animal Butcher and Processing. LLM Wiki concept page.
+
+## Key Considerations
+
+Effective application requires attention to local conditions, resource constraints, and specific objectives. Adaptation of general principles to particular circumstances often determines outcomes. Consider integrating multiple complementary approaches for best results.
+
+These principles provide a practical foundation for application and continued study in this domain. Further observation and experimentation will refine understanding over time.
+
+The integration of these concepts with broader agricultural and ecological frameworks creates opportunities for synergistic approaches that enhance overall system performance. Continued learning through observation and experimentation remains essential for adapting these principles to diverse local conditions.

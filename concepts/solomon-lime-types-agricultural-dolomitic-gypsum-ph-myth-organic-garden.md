@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-**Source:** [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management|Gardening]] When It Counts*
-**Concept:** The three lime types used [[dynamic-accumulator-plants-calcium-and-magnesium]], and why liming to adjust soil pH is unnecessary in an organic garden.
-
----
-
 ## Forget About pH
 
 You may have read that the acidity or pH of soil should be corrected by liming. Solomon's advice: forget about pH. Liming to adjust soil pH may be standard practice in conventional farming, but it is not of concern in an organic garden.

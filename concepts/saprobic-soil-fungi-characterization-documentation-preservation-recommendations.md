@@ -4,14 +4,6 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-## Saprobic Soil Fungi — Characterization, Documentation, Preservation, and Inventory Recommendations
-
-## Overview
-
-The systematic study of [[saprobic-soil-fungi]] requires rigorous protocols spanning habitat characterization, isolate documentation and preservation, taxonomic enumeration, and physiological profiling. This page synthesizes established recommendations for each stage of the inventory workflow, drawing on methods developed by Christensen (1969), Bills and Polishook (1994), Nobles (1965), Stalpers (1978), and numerous others working at the interface of soil mycology and fungal systematics.
-
----
-
 ## Characterization of Sampling Sites and Soils
 
 Research questions about vegetation, climate, soil types, disturbance history, and land use determine sampling objectives and site selection strategy. A thorough account of each sampling locality should include:

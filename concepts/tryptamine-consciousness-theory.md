@@ -1,8 +1,4 @@
 ---
-title: "Tryptamine Consciousness Theory"
-tags: []
-sources: []
----
 title: Tryptamine Consciousness Theory
 created: 2026-04-12
 updated: 2026-04-12

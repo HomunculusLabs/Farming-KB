@@ -1,11 +1,4 @@
 ---
-title: "Comparison Reciprocal Roof Vs Timber Frame"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [general]
-sources: []
----
 title: "Reciprocal Roof vs Timber Frame"
 tags: [comparison, natural-building, roof-design, carpentry]
 date: 2026-04-25

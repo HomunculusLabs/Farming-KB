@@ -1,8 +1,4 @@
 ---
-title: "Mushroom Cultivation Basics"
-tags: []
-sources: []
----
 title: Mushroom Cultivation Basics
 created: 2026-04-11
 updated: 2026-04-13

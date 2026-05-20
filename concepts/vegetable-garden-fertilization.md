@@ -1,8 +1,4 @@
 ---
-title: "Vegetable Garden Fertilization"
-tags: []
-sources: []
----
 title: Vegetable Garden Fertilization
 created: 2026-04-11
 updated: 2026-04-12

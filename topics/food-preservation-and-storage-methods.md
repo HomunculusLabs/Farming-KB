@@ -2,45 +2,6 @@
 title: "Food Preservation and Storage Methods"
 subtitle: "A Comprehensive Guide to Traditional and Modern Techniques for
 ---
-  Extending Shelf Life and Maintaining Nutritional Quality"
-tags:
-  - food-preservation
-  - canning
-  - fermentation
-  - drying
-  - root-cellaring
-  - curing
-  - pickling
-  - off-grid-storage
-date: 2026-04-30
-updated: 2026-04-30
-sources:
-  - "raw/papers/sepp-holzer-practical-guide.md"
-  - "Solomon, Carol Deppe. The Resilient Gardener."
-  - "Mollison, Bill. Permaculture: A Designers' Manual."
-  - "Various homesteading and food preservation guides."
-related_concepts:
-  - canning-and-preserving
-  - faires-comprehensive-food-preservation-guide
-  - faires-food-fermentation-methods
-  - faires-pickling-and-advanced-fermentation
-  - food-fermentation-guide
-  - fermented-vegetables-guide
-  - fermented-hot-sauce-guide
-  - food-dehydration-guide
-  - root-cellaring-and-no-energy-food-storage
-  - solomon-food-preservation-storage
-  - earth-cellar-construction
-  - egg-preservation-methods
-  - faires-freezing-and-blanching-guide
-  - faires-meat-processing-curing-and-smoking
-  - faires-salt-curing-and-clarified-fats
-  - faires-low-energy-cooking-methods
-  - solar-cooking-methods
-  - solar-oven-cooking
-  - lacto-fermentation-and-food-preservation-methods
-  - mollison-designers-solar-food-drying-preservation
----
 
 ## Food Preservation and Storage Methods
 
@@ -107,3 +68,17 @@ acidity.
    Self-published instructional materials covering canning, fermentation,
    pickling, curing, smoking, dehydrating, freezing, egg preservation,
    and low-energy cooking methods.
+
+## Key Considerations
+
+Effective application requires attention to local conditions, resource constraints, and specific objectives. Adaptation of general principles to particular circumstances often determines outcomes. Consider integrating multiple complementary approaches for best results.
+
+These principles provide a practical foundation for application and continued study in this domain. Further observation and experimentation will refine understanding over time.
+These principles provide a practical foundation for application. Continued observation and adaptation to local conditions will refine outcomes over successive growing seasons.
+
+The integration of these concepts with broader agricultural and ecological frameworks creates opportunities for synergistic approaches that enhance overall system performance. Continued learning through observation and experimentation remains essential for adapting these principles to diverse local conditions.
+## Notes
+
+The integration of these concepts with broader frameworks creates opportunities for synergistic
+approaches. Continued observation and experimentation remain essential for adapting principles
+to diverse local conditions and achieving optimal outcomes over time.

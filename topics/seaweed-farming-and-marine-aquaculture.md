@@ -21,23 +21,6 @@ Seaweed farming (also called macroalgae mariculture or seaweed aquaculture) is t
 
 ---
 
-## Why Seaweed Farming Matters
-
-### Environmental Benefits
-
-- **[[gadd-fungal-carbon-sequestration]]**: Seaweeds fix carbon through photosynthesis at rates rivaling terrestrial forests. Some species (e.g., *[[amphibian-habitat-creation]]**: Seaweed farms create three-dimensional structure in the water column, providing refuge and nursery habitat for fish, crustaceans, and mollusks.
-- **Ocean deacidification**: Localized pH increases have been measured within and around seaweed farms due to photosynthetic carbon uptake.
-- **Zero-input production**: Unlike terrestrial crops, seaweeds need no freshwater, fertilizer, pesticides, or arable land.
-
-### Economic and Social Benefits
-
-- **Livelihood diversification**: Coastal communities worldwide are adopting seaweed farming as an income source, particularly in developing nations.
-- **Multiple market streams**: Food (nori, wakame, kombu), [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]] supplements, soil amendments (liquid seaweed fertilizer), cosmetics (carrageenan, alginates), bioplastics, and biofuels.
-- **Low barriers to entry**: Simple techniques (rope-and-buoy systems) make seaweed farming accessible to smallholders.
-- **Growing global demand**: The seaweed market is projected to exceed $25 billion by 2030, driven by food industry expansion and sustainability mandates.
-
----
-
 ## Major Cultivated Seaweed Species
 
 ### Brown Algae (Phaeophyceae)

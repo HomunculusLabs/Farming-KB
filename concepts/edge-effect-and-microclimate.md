@@ -1,8 +1,4 @@
 ---
-title: "Edge Effect And Microclimate"
-tags: []
-sources: []
----
 title: Edge Effect and Microclimate
 created: 2026-04-11
 updated: 2026-04-12
@@ -121,3 +117,5 @@ Holmgren cites old English farm landscapes as the archetypal edge-rich design: "
 - [[pond-and-aquaculture]] -- Pond edge design
 ## Further Reading
 Continued research and field trials yield new insights into this subject.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

@@ -1,8 +1,4 @@
 ---
-title: "Soma Hypothesis"
-tags: []
-sources: []
----
 title: The Soma Hypothesis
 created: 2026-04-11
 updated: 2026-04-12

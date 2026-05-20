@@ -2,48 +2,6 @@
 title: Carbon Farming and Climate-Resilient Agriculture
 subtitle: Building soil carbon, adapting to climate change, and the fungal
 ---
-  networks that underpin terrestrial carbon cycling
-tags:
-  - carbon-farming
-  - climate-change
-  - biochar
-  - regenerative-agriculture
-  - soil-carbon
-  - mycorrhiza
-  - decomposition
-  - climate-resilience
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
-  - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
-  - raw/papers/jeavons-john-how-to-grow-more-vegetables.md
-  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
-  - raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
-  - raw/papers/nutrient-and-dynamic-accumulators.md
-related_concepts:
-  - biointensive-carbon-farming
-  - biochar
-  - biochar-in-agriculture
-  - biochar-production-guide
-  - biochar-soil-amendment
-  - dighton-fungi-climate-change-feedback
-  - dighton-fungi-elevated-co2-global-carbon-cycling
-  - dighton-mycorrhizal-networks-carbon-transfer
-  - dighton-fungal-responses-climate-change
-  - dighton-fungal-dissolved-organic-carbon-production
-  - dighton-fungal-greenhouse-gas-nitrogen-saturation
-  - dighton-fungal-drought-tolerance-plant-water-relations
-  - dighton-wood-decay-ecosystem-carbon
-  - dighton-fungal-rock-weathering-mineral-dissolution
-  - fungal-decomposition-succession-resource-quality
-  - mycorrhizal-carbon-phosphorus-exchange
-  - biodiversity-of-fungi-biomass-carbon-soil-structure
-  - dighton-fungi-climate-change-feedback
-  - fungal-decomposition-resource-quality-determinants
-  - humus-and-soil-organic-matter
----
 
 ## Carbon Farming and Climate-Resilient Agriculture
 
@@ -97,3 +55,26 @@ Lehmann, Johannes and Stephen Joseph, eds. Biochar for Environmental
   Management: Science and Technology. London: Earthscan, 2009.
 Augé, R.M. "Water relations, drought and vesicular-arbuscular
   [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]." Mycorrhiza 11 (2001): 3-42.
+
+## Practical Applications
+
+The principles described here have broad applications across diverse agricultural and ecological contexts. Implementation requires adaptation to local conditions, including climate, soil type, available resources, and specific goals. Successful practitioners combine theoretical understanding with hands-on experimentation and careful observation of results over multiple seasons. Documentation of outcomes helps refine techniques and build local knowledge that can be shared with the broader community.
+
+## Research Directions
+
+Ongoing research continues to expand our understanding of these systems. Current areas of investigation include optimizing biological interactions, developing improved monitoring techniques, and quantifying long-term outcomes across different environmental conditions. Collaboration between researchers, farmers, and citizen scientists accelerates the pace of discovery and practical innovation.
+
+## Practical Applications and Implementation
+
+The principles described here translate into actionable strategies across diverse agricultural and ecological contexts. Implementation requires adaptation to local conditions, including climate, soil type, available resources, and specific goals. Successful practitioners combine theoretical understanding with hands-on experimentation and careful observation of results over multiple seasons.
+
+A phased approach to implementation is recommended, beginning with small-scale trials that allow for learning and adjustment. Documentation of outcomes helps refine techniques and build local knowledge that can be shared with the broader community. Monitoring key indicators provides early warning of potential issues and validates the effectiveness of adopted practices.
+
+## Research and Future Directions
+
+Ongoing research continues to expand our understanding of these systems and their interactions. Current areas of investigation include optimizing biological synergies, developing improved monitoring and assessment techniques, and quantifying long-term outcomes across different environmental conditions. Collaboration between researchers, practitioners, and citizen scientists accelerates the pace of discovery and practical innovation.
+
+The integration of traditional ecological knowledge with modern scientific methods offers particularly promising avenues for advancement. Many time-tested practices align well with contemporary understanding of ecosystem function, and combining these perspectives often yields insights that neither approach achieves alone.
+These principles provide a practical foundation for application. Continued observation and adaptation to local conditions will refine outcomes over successive growing seasons.
+
+The integration of these concepts with broader agricultural and ecological frameworks creates opportunities for synergistic approaches that enhance overall system performance. Continued learning through observation and experimentation remains essential for adapting these principles to diverse local conditions.

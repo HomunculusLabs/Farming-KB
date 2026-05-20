@@ -22,18 +22,6 @@ sources:
   - Rodriguez-Caballero, E. et al. (2018). "Global cycling of nitrogen and carbon is driven by biological soil crusts." Nature Geoscience, 11, 708-712.
 ---
 
-## Biological Soil Crusts (Biocrusts)
-
-## Overview
-
-Biological soil crusts — commonly called **biocrusts** or **cryptogamic covers** — are complex communities of cyanobacteria, algae, lichens, mosses, and microfungi that colonize the surface of undisturbed or minimally disturbed soils. They are especially dominant in **arid, semi-arid, and polar** environments where vascular plant cover is sparse, but they also occur in temperate grasslands, dune systems, and post-disturbance landscapes worldwide.
-
-Biocrusts are not a single organism or taxonomic group; they are a **successional mosaic** of organisms that collectively perform ecosystem functions far exceeding what any member could achieve alone. They stabilize soil surfaces, fix carbon and nitrogen, cycle nutrients, influence water infiltration, and modulate surface energy balance.
-
-Globally, biocrusts are estimated to cover roughly **12% of Earth's land surface** (Elbert et al., 2012), making them one of the most widespread biological communities on the planet, yet they remain among the least recognized and most threatened by land use change.
-
----
-
 ## Successional Stages of Biocrust Development
 
 Biocrust communities develop through a recognizable sequence of successional stages, each characterized by dominant organism groups:

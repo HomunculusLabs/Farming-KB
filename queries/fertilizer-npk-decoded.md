@@ -1,8 +1,4 @@
 ---
-title: "Fertilizer Npk Decoded"
-tags: []
-sources: []
----
 title: Fertilizer NPK Decoded
 created: 2026-04-12
 updated: 2026-04-12

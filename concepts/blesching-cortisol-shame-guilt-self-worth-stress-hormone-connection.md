@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-**Source:** [[cannabis-health-index]]*
-**Concept:** How shame, guilt, and low self-worth chronically elevate cortisol and other stress hormones, and the "Giving Shame Back" technique for breaking the cycle.
-
----
-
 ## The Cortisol-Shame Connection
 
 Cortisol is the body's primary stress hormone, produced by the [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]]

@@ -10,35 +10,6 @@ Each sister fills a distinct structural and nutritional niche:
 
 ---
 
-## Step-by-Step Planting Instructions
-
-### 1. Site Selection and Timing
-
-- **Planting date**: Sow corn 1-2 weeks after your average last frost date, when soil reaches at least 50°F (10°C) at a 2-inch depth.
-- **Site**: Full sun (6-8+ hours direct). Rich, well-drained loam is ideal. The mound system works well even on moderate slopes.
-
-### 2. Mound Construction
-
-- Build **mounds 12-18 inches tall and 3-4 feet in diameter** at the base. Space mounds **3-4 feet apart** (center to center) in a grid or staggered pattern.
-- Incorporate 2-4 inches of compost or well-rotted manure into each mound before planting.
-- If your soil is heavy clay, raise mounds to 18 inches to improve drainage.
-
-### 3. Planting Sequence and Spacing
-
-Timing is critical -- planting everything at once is a common mistake.
-
-| Step | Crop | When | How |
-|------|------|------|-----|
-| 1 | Corn | At planting (after last frost) | 5-6 seeds per mound, 6 inches apart, in a circle 8-10 inches from center. Thin to 3-4 strongest seedlings. |
-| 2 | Beans | When corn is **4-6 inches tall** (about 2-3 weeks) | 4-6 bean seeds per mound, planted 3 inches from corn stalks. Thin to 3-4 plants. |
-| 3 | Squash | Same time as beans, or 1 week later | 2-3 squash seeds per mound, on the outer edge (12-15 inches from center). Thin to 1-2 plants per mound. |
-
-### 4. Maintenance
-
-- **Watering**: Consistent moisture is key, especially during silking/pollination. [[biodiversity-fungal-genetic-diversity]] and maintain the traditional character of the system.
-
----
-
 ## Common Mistakes
 
 1. **Planting all three crops on the same day.** Corn must get a head start or beans will smother it before stalks can support climbing.

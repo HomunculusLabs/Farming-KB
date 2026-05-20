@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-created: 2026-05-08
-source: fanaticus-pf-tek-psilocybe-fanaticus.md
-tags: [pf-tek, jar-size, half-pint-jars, wide-mouth-canning-jars, mushroom-cultivation, sterilization, fruiting]
----
-
 ## Overview
 
 The PF TEK specifies half-pint wide-mouth canning jars (8 oz / 237 ml) as the sole acceptable jar size. [[growing-gourmet-atmospheric-steam-sterilization]] to work. The wide-mouth feature is equally critical, enabling both proper substrate loading and easy removal of the colonized cake for fruiting.

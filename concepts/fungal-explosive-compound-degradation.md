@@ -1,12 +1,4 @@
 ---
-title: "Fungal Explosive Compound Degradation"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [bioremediation, fungal-ecology, mycology]
-sources:
-  - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
----
 title: Fungal Explosive and Nitroaromatic Compound Degradation
 tags: [bioremediation, explosives, nitroaromatics, TNT, mycoremediation]
 date: 2026-04-25

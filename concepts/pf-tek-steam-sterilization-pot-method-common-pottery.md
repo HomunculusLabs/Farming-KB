@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-created: 2026-05-08
-source: fanaticus-pf-tek-psilocybe-fanaticus.md
-tags: [pf-tek, steam-sterilization, pressure-cooker-alternative, canning, mushroom-cultivation, home-mycology, sterilization]
----
-
 ## Overview
 
 A defining characteristic of the PF TEK is that it does not require a pressure cooker for sterilization. Instead, [[accessible-mushroom-cultivation-for-disabilities]], making the PF TEK accessible to virtually anyone with a kitchen.

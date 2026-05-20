@@ -4,27 +4,6 @@ source: eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
-## Mobile Greenhouse Crop Rotation Designs
-
-## Philosophy of Year-Round Multi-Crop Production
-
-The core aspiration behind mobile greenhouse crop rotation is to supply the widest
-possible range of fresh vegetables to local customers through a broad-based
-multiple-crop system across the longest possible season. Mobile greenhouses make
-this achievable by enabling multi-crop, multi-season rotations that a static
-greenhouse cannot support. Rather than dedicating a fixed structure to a single
-crop or season, the farmer moves protection where it is needed most at each
-point in the year, effectively multiplying the productive capacity of every
-square foot of covered ground.
-
-This approach transforms the greenhouse from a simple shelter into a dynamic
-tool that follows the rhythm of the seasons and the varying hardiness of
-different crops. The result is a farming system where spatial, temporal, and
-biological relationships between crops are fully exploited for maximum yield
-and continuous harvest.
-
----
-
 ## Two-Plot, One-Move Rotation
 
 The simplest rotation pattern uses a pair of greenhouses, each moving once per

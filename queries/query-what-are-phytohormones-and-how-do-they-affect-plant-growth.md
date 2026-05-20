@@ -18,22 +18,6 @@ title: Newer Phytohormone Classes
 
 ---
 
-### 4. Ethylene (C₂H₄)
-
-**Primary roles:**
-- **Fruit ripening:** Ethylene is the "ripening hormone" — it triggers the conversion of starch to sugar, softening of cell walls, and production of aroma compounds in climacteric fruits
-- **Leaf and flower abscission:** Ethylene promotes the formation of the abscission layer that causes leaves, flowers, and fruit to drop
-- **Senescence:** Accelerates aging in plant tissues
-- **[[brassinosteroid-growth-promotion-psilocybe-cubensis]]:** Under moderate stress, ABA shifts resources toward root growth at the expense of shoot growth
-
-**How growers use it:**
-- **Stress management:** Understanding ABA helps explain why overwatered plants with poor root systems wilt despite adequate moisture (ABA signal imbalance)
-- **Seed storage:** ABA-rich seeds store longer; some seed treatments manipulate ABA levels to break dormancy
-- **Anti-transpirants:** Foliar ABA sprays reduce transpiration in transplanted trees and drought-stressed crops
-
-**Key fact:** ABA levels increase 10–50 fold within minutes of water stress. This rapid response is one of the fastest hormonal signaling events in plants.
----
-
 ## Newer Phytohormone Classes
 
 ### Brassinosteroids

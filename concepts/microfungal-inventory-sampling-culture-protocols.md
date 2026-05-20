@@ -4,14 +4,6 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-## Microfungal Inventory Methods — Sampling Strategies, Culture Techniques, and Protocols
-
-## Undertaking a Microfungal Inventory
-
-Microfungal inventories present unique methodological challenges. The resources required for a complete survey of even a small area are enormous, and most microfungal species are too small to be certain of absence even after extensive sampling. As a result, modern practice emphasizes **reproducibility over completeness** (Cannon 1997b). The lack of widely promulgated protocols has historically led to poorly defined surveys that are difficult to compare across studies. Sampling approaches differ significantly depending on whether the goal is a total inventory or a diversity assessment, making standardization crucial.
-
----
-
 ## Sampling Strategies
 
 Sampling design must account for the microscopic scale and extreme diversity of microfungi. Key considerations include:

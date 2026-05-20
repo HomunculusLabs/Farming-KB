@@ -15,57 +15,6 @@ The best  fruit trees for permaculture-food-waste-cyclingod-forests-design-cours
 
 ---
 
-## Tropical and Subtropical Lowlands (USDA 9b–12, <750 mm rainfall)
-
-These trees handle extreme heat, alkaline soils, and prolonged dry seasons:
-
-### Jujube (*Ziziphus jujuba*)
-
-- **Minimum rainfall**: 300–400 mm once established
-- **Yield**: 30–80 kg/tree/year
-- **Fruit**: Sweet, apple-like when fresh; dried resembles dates
-- **Why it excels**: Deep taproot (up to 6 m), nitrogen in , natural bonsai form needs minimal pruning, productive from year 3, virtually pest-free
-- **Food forest role**: Canopy or understory tree; excellent bee forage with tiny fragrant flowers; produces in partial shade
-- **Cultivars**: 'Li', 'Lang', 'Sherwood', 'Sugarcane', 'So'
-
-### Carob (*Ceratonia siliqua*)
-
-- **Minimum rainfall**: 250–350 mm once established
-- **Yield**: 80–100 kg/tree/year (mature)
-- **Fruit**: Sweet, chocolate-flavored pods for fresh eating, flour, or animal fodder
-- **Why it excels**: Leguminous (fixes nitrogen), lives 100+ years, evergreen canopy provides year-round shade and mulch, extremely deep roots, tolerates saline soils
-- **Food forest role**: Upper canopy nitrogen-fixer, windbreak, animal fodder source, shade tree for understory crops
-- **Note**: Dioecious — plant at least one male for every 8–10 female trees for fruit production
-
-### Mesquite (*Prosopis spp.*)
-
-- **Minimum rainfall**: 150–250 mm once established
-- **Yield**: 15–30 kg pods/tree/year
-- **Fruit**: Sweet pods ground into flour (high protein, 12–17%), also excellent honey source
-- **Why it excels**: The most drought-tolerant fruit tree on this list; nitrogen-fixer with massive root systems that improve soil; pods sustain livestock and wildlife; excellent firewood
-- **Food forest role**: Pioneer tree for soil restoration, nitrogen fixation, wildlife habitat, shade
-- **Caution**: Some species are invasive outside their native range (especially *P. glandulosa* in Australia). Choose species appropriate to your region.
-
-### Fig (*Ficus carica*)
-
-- **Minimum rainfall**: 400 mm (with deep watering during establishment)
-- **Yield**: 10–30 kg/tree/year
-- **Fruit**: Fresh figs in summer and fall; dried figs store for months
-- **Why it excels**: Extremely flexible form — can be trained as a tree, shrub, or espalier; roots seek out water aggressively; tolerates heat reflected from walls; two crops per year in many climates
-- **Food forest role**: Multi-purpose canopy tree; can be pruned heavily for mulch; fruit attracts birds and beneficial insects
-- **Cultivars**: 'Black Mission', 'Brown Turkey', 'Celeste', 'Kadota', 'Desert King'
-
-### Date Palm (*Phoenix dactylifera*)
-
-- **Minimum rainfall**: 100–200 mm (with irrigation or groundwater access)
-- **Yield**: 50–150 kg/tree/year (mature)
-- **Fruit**: Fresh, dried, or syrup dates; one of the most calorie-dense fruits
-- **Why it excels**: Thrives in extreme heat (45°C+); uses deep groundwater; multi-layer harvest (dates, palm hearts, thatch, fiber); lives 100+ years
-- **Food forest role**: Overstory canopy providing shade for understory; vertical stacking element
-- **Note**: Requires a male and female for fruit production; dioecious. Needs hot summers (sustained 35°C+) for fruit quality.
-
----
-
 ## Mediterranean and Warm Temperate (USDA 8–10, 400–700 mm rainfall)
 
 ### Pomegranate (*Punica granatum*)
@@ -122,3 +71,11 @@ These trees handle extreme heat, alkaline soils, and prolonged dry seasons:
 ## See Also
 - [[permplant-persimmon-diospyros-kaki-fruit-tree]]
 - [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
+
+## Key Considerations
+
+Effective application requires attention to local conditions, resource constraints, and specific objectives. Adaptation of general principles to particular circumstances often determines outcomes. Consider integrating multiple complementary approaches for best results.
+
+These principles provide a practical foundation for application and continued study in this domain. Further observation and experimentation will refine understanding over time.
+
+The integration of these concepts with broader agricultural and ecological frameworks creates opportunities for synergistic approaches that enhance overall system performance. Continued learning through observation and experimentation remains essential for adapting these principles to diverse local conditions.

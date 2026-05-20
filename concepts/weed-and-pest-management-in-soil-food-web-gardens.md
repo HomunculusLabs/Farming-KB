@@ -4,14 +4,6 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-## Weed and Pest Management in Soil Food Web Gardens
-
-## Overview
-
-Weed and pest management in a soil food web garden is fundamentally different from conventional approaches. Rather than relying on chemical herbicides and pesticides—which damage or destroy the soil biology that sustains plant health—soil food web gardening addresses weeds and pests by restoring and maintaining a balanced, living soil ecosystem. A healthy soil food web naturally suppresses problematic weeds, supports beneficial insect populations, and reduces crop susceptibility to pest damage. The key insight is that weeds and pests are often symptoms of soil imbalances, not enemies to be eradicated.
-
----
-
 ## Mycorrhizal Fungi: Foundation of Weed Suppression
 
 ### The Role of Mycorrhizal Fungi

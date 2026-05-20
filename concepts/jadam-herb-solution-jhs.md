@@ -1,8 +1,4 @@
 ---
-title: "Jadam Herb Solution Jhs"
-tags: []
-sources: []
----
 title: Ultra Low Jadam Herb Solution Jhs (JHS) — Boiled Herb Extract Recipes
 created: 2026-04-11
 updated: 2026-04-12

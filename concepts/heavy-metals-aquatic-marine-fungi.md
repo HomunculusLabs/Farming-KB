@@ -4,14 +4,6 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-## Heavy Metals and Fungi in Aquatic, Marine, and Lichen Communities
-
-## Overview
-
-Fungi play critical roles in mediating the impacts of heavy metal contamination across terrestrial, aquatic, marine, and lichen-dominated ecosystems. Their interactions with metals—including uptake, sequestration, detoxification, and trophic transfer—have profound implications for ecosystem health, bioremediation, and environmental monitoring. This concept page synthesizes findings from key studies on fungal responses to heavy metals across these diverse habitats.
-
----
-
 ## Arbuscular Mycorrhizae in Contaminated Soils
 
 Arbuscular mycorrhizal (AM) fungi serve as a critical interface between plants and soil contaminants, particularly heavy metals. These symbiotic fungi can significantly alter metal bioavailability and plant uptake patterns.

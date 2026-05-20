@@ -4,16 +4,6 @@ source: john-dighton-fungi-in-ecosystem-processes.md
 type: concept
 ---
 
-## Mycorrhizal Symbiosis Research References
-
-> Key historical references on mycorrhizal symbiosis drawn from the reference
-> list of Chapter 3 ("Fungi and Primary Production") in John Dighton's
-> *Fungi in Ecosystem Processes* (Marcel Dekker, 2003). Entries are organized
-> by major research theme and annotated with brief summaries of their
-> principal findings and lasting significance.
-
----
-
 ## 1. Arbuscular Mycorrhizal (AM) Research
 
 [[arbuscular-mycorrhizal-fungi]] (Glomeromycota) form the most widespread

@@ -1,8 +1,4 @@
 ---
-title: "Mushroom Toxicity Identification Warnings"
-tags: []
-sources: []
----
 title: Mushroom Toxicity and Identification Warnings
 created: 2026-04-11
 updated: 2026-04-12

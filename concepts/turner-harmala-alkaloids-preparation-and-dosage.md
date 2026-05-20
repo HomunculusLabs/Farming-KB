@@ -1,12 +1,4 @@
 ---
-title: Turner Harmala Alkaloids Preparation And Dosage
-created: 2026-04-18
-updated: 2026-04-18
-type: concept
-tags: [reference]
-sources:
-  - "raw/papers/the-essential-psychedelic-guide-by-dimitri-turner.md"
----
 title: Harmala Alkaloids Preparation and Dosage (Turner Guide)
 created: 2026-04-18
 updated: 2026-04-18

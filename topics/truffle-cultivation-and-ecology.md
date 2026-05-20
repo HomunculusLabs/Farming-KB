@@ -2,58 +2,6 @@
 title: Truffle Cultivation and Ecology
 subtitle: The biology, cultivation, and economics of the world's most
 ---
-  expensive fungi
-tags:
-  - truffles
-  - mycology
-  - ectomycorrhizal-fungi
-  - agriculture
-  - fungal-ecology
-  - food-science
-  - mycorrhiza
-  - specialty-crops
-date: 2026-05-01
-updated: 2026-05-01
-sources:
-  - truffle-cultivation-basics
-  - truffle-orchard-design-establishment
-  - truffle-inoculated-seedlings
-  - truffle-dog-training
-  - truffle-guide
-  - truffle-evolution-and-hypogeous-fungi
-  - truffle-auxin-root-morphogenesis
-  - ectomycorrhizal-fungi
-  - ectomycorrhizal-ecology
-  - ectomycorrhizal-morphological-structures
-  - ectomycorrhizal-mushroom-fruiting-ecology
-  - desert-truffles
-  - mycorrhizal-fungi
-  - mycorrhiza
-  - mycorrhizal-agricultural-practices
-  - mycorrhizal-inoculation-techniques
-related_concepts:
-  - truffle-cultivation-basics
-  - truffle-orchard-design-establishment
-  - truffle-inoculated-seedlings
-  - truffle-dog-training
-  - truffle-guide
-  - truffle-evolution-and-hypogeous-fungi
-  - truffle-auxin-root-morphogenesis
-  - ectomycorrhizal-fungi
-  - ectomycorrhizal-ecology
-  - ectomycorrhizal-fungal-ecology
-  - ectomycorrhizal-associations
-  - ectomycorrhizal-host-tree-partnerships
-  - ectomycorrhizal-morphological-structures
-  - ectomycorrhizal-mushroom-fruiting-ecology
-  - ectomycorrhizal-remediation
-  - desert-truffles
-  - mycorrhizal-fungi
-  - mycorrhiza
-  - mycorrhizal-agricultural-practices
-  - mycorrhizal-inoculation-techniques
-  - mycorrhizal-biocontrol
----
 
 ## Truffle Cultivation and Ecology
 
@@ -129,3 +77,5 @@ phyla, suggesting strong convergent evolutionary pressures. Three coordinated
 
 8. Morte, A., Andrino, A., Martin, A., & Honrubia, M. (2010). "Mycorrhiza
    of desert truffles (Terfezia and Tirmania)." Springer.
+
+This topic interconnects with several related areas of study and practical application.

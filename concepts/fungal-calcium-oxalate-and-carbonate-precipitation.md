@@ -4,12 +4,6 @@ tags:
   - concept
 ---
 
-## Overview
-
-Fungi play a significant role [[fungal-oxalate-production-metal-transformation]], calcium oxalate crystallography, carbonate precipitation mechanisms, and their broader environmental significance.
-
----
-
 ## Fungal Metal Oxalate Production
 
 Oxalic acid (C₂H₄O₂) is one of the most common organic acids secreted by fungi. It serves multiple physiological functions, including metal detoxification, nutrient acquisition, and acidification of the surrounding environment. When oxalic acid interacts with metal cations—particularly calcium—insoluble metal oxalate salts precipitate, effectively removing those metals from solution.

@@ -1,8 +1,4 @@
 ---
-title: "Homestead Startup Checklist"
-tags: []
-sources: []
----
 title: Homestead Startup Checklist
 created: 2026-04-11
 updated: 2026-04-12

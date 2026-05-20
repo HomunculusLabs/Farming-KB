@@ -1,12 +1,4 @@
 ---
-title: "Ibogaine Anti Addiction Therapy"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [pharmacology, psychedelics]
-sources:
-  - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
----
 title: Ibogaine Anti-Addiction Therapy
 tags: [pharmacology, ibogaine, addiction-treatment, psychedelics]
 date: 2026-04-28
@@ -123,3 +115,7 @@ Practical experience combined with systematic observation yields the most reliab
 ## Future Directions
 Emerging approaches and technologies offer new opportunities for advancement.
 Collaborative knowledge sharing accelerates progress across related domains.
+
+## Practical Considerations
+
+Effective implementation requires attention to local conditions, resource availability, and specific objectives. Adaptation of general principles to particular circumstances often determines success.

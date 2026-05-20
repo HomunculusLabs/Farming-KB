@@ -4,16 +4,6 @@ source: julius-auboineau-palmer-about-mushrooms.md
 type: concept
 ---
 
-## Amanita Alkaloid — Therapeutic Uses and Pharmacology
-
-## Overview
-
-The Amanita alkaloid is a potent bioactive compound found exclusively within the **Amanita** family of fungi. Recognizable in the field by the **volva** (a cup-like structure at the base of the stem), Amanita species have occupied a dual role in medical history — as agents of poisoning and, paradoxically, as sources of therapeutic preparations. Throughout the 19th century, pioneering chemists and physicians attempted to isolate and standardize the active principles of these mushrooms for pharmaceutical use, while simultaneously developing antidotes for their potentially lethal effects.
-
-The foundational texts on the subject are the works of **Cordier** and **Sicard**, which remain among the most complete practical treatises on both esculent (edible) and poisonous fungi. Their observations bridged mycology, toxicology, and clinical medicine.
-
----
-
 ## Pharmaceutical History of Alkaloid Extraction
 
 ### Early Isolation Attempts

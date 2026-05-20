@@ -1,8 +1,4 @@
 ---
-title: "Mushroom Compost Substrates"
-tags: []
-sources: []
----
 title: Mushroom Compost Substrates (Agaricus)
 created: 2026-04-11
 updated: 2026-04-12

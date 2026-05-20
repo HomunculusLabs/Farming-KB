@@ -4,14 +4,6 @@ tags:
   - concept
 ---
 
-## Overview
-
-One of the most valuable contributions of the pf tek documentation is its
-guidance on potency optimization, proper harvesting timing, and effective drying
-techniques. Understanding these factors is essential for achieving desired results.
-
----
-
 ## Potency and Maturity: The Inverse Relationship
 
 ### Small Immature Specimens Are More Potent

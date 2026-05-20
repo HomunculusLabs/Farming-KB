@@ -4,50 +4,6 @@ source: unknown-biodiversity-of-fungi.md
 type: concept
 ---
 
-## Sequestrate Fungi — Definition, Ecology, Evolution, and Origin
-
-## Lichen Data Analysis — Continuation from Chapter 9
-
-### Contingency Table and Multivariate Analyses
-
-Lichen biodiversity data are subjected to contingency table analyses for comparisons between habitats (Whittaker 1972). Multivariate quantitative analyses of species data provide powerful tools for characterizing community differences. These include ordination techniques such as PCA, DCA, and NMDS that arrange sites or species in reduced-dimensional space based on compositional similarity (Will-Wolf 1980; Rosentreter 1986; Oksanen 1988; Marcelli 1992; Geiser et al. 1994a; Wolseley et al. 1995; McCune et al. 1997a, 1997b), classification methods that cluster sites or species into groups sharing similar composition (Tibell 1992; Geiser et al. 1994a), and gradient analysis approaches that relate community composition directly to measured environmental gradients (Oksanen 1988; McCune et al. 1997b).
-
-These multivariate approaches facilitate description of differences between communities, highlight habitats and microhabitats with high diversity, and help define relationships between communities and habitats.
-
-### Within-Site Survey Protocols (Table 9.4)
-
-Within-site survey protocols can be grouped into four categories:
-
-1. **Species presence at sites** — all species recorded; sites grouped into classes (Table 9.4, example 1).
-
-2. **Abundance at sites for indicator species** — an easily surveyed subset of species quantified; sites grouped into classes or placed along gradients (Table 9.4, example 2).
-
-3. **Species presence at sites (all species) plus abundance at sites for a subset** — combined approach providing greater species capture with more precise abundance estimates (Table 9.4, example 3).
-
-4. **Species presence or abundance in subplots within site (all species)** — most intensive protocol; sites grouped into classes (Table 9.4, example 4).
-
-### Matching Protocols to Survey Goals
-
-Each category of within-site protocol serves particular survey objectives:
-
-- **Rapid (1-year) inventory of large regions:** Protocols 1 and 2 are appropriate. Protocol 1 results in greater species capture; protocol 2 provides better quantification and repeatability for monitoring trends.
-
-- **Medium-term (3–5-year) inventory of regions:** Protocol 3 results in good species capture plus more precise abundance estimates than protocol 2; variation in number of sites affects accuracy and time to completion.
-
-- **Intensive inventory of selected sites:** Variations on protocol 4 give very accurate single-site inventories but require considerable time. For a large region, an inventory may take many years to complete.
-
-### Two-Phase Inventory Strategy
-
-Each study used as an example in Table 9.4 relied primarily on one within-site sampling protocol. However, this need not be the case for an effective biodiversity survey. A two-phase inventory might first use a protocol with low-intensity effort per site to obtain an areawide survey completable within a year or two. That would be followed by high-intensity sampling of a selected subset of sites over a longer period. Results from the first-phase inventory would form the basis for selecting the subset of sites to be emphasized in the high-intensity inventory and at the same time would provide a completed inventory for management decisions before the more intensive surveys were finished.
-
-Another strategy to make information available before the completion of a several-year survey is to distribute sites across a survey area or between site classes in an area for each field season. Preliminary areawide summaries can then be made available before the entire inventory is completed.
-
-### Acknowledgments (Chapter 9)
-
-All coauthors contributed substantially to the text; after the first author, order is alphabetical and does not necessarily reflect relative contribution. The authors thank B. Aguirre-Hudson for extensive comments on the content of the manuscript and J. Wolf for editing and proofreading. L. H. Geiser, A. Y. Rossman, and C. M. Wetmore provided valuable information on their studies. K. Elliot drafted the figures. G. M. Mueller and anonymous reviewers provided helpful critiques.
-
----
-
 ## Sequestrate Fungi (Chapter 10)
 
 *Michael A. Castellano, James M. Trappe, and Daniel L. Luoma*

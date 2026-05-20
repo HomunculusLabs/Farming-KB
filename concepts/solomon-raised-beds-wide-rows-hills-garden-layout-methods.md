@@ -4,16 +4,6 @@ tags:
   - concept
 ---
 
-The fundamental principle underlying all three systems is the same: elevate the growing area a few inches above the surrounding paths. This simple act provides multiple advantages that compound over [[container-growing-vegetables-herbs]] compacts the soil, making it difficult for plants to develop roots. Compaction is physical (and should be avoided) — it is not corrected by adding [[greg-green-temperature-and-humidity-control]] frustration and dies. By raising the bed 3-6 inches, you can rapidly rake clods and lumps off the surface and down into the paths, where feet will break them down over coming months.
-
-**Path drainage:** Raised beds create natural drainage channels in the paths between them, preventing waterlogging during heavy rains.
-
-**Root zone depth:** Elevation effectively deepens the topsoil layer available to plant roots.
-
-**Weed management:** Clear boundaries between growing areas and paths make hoeing more effective — you can hoe right to the edges without hitting retaining walls or stepping stones.
-
----
-
 ## Method 1: Raised Beds
 
 Raised beds are the standard [[wide-spacing-dry-gardening-low-irrigation-solomon|Spacing]]:** Increase spacing between rows if there may be long periods without rain
@@ -126,3 +116,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[solomon-low-grade-compost-making-methods]]
 - [[solomon-shade-and-sunlight-requirements]]
 - [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.
+
+Further research and field observation continue to refine our understanding of these relationships.

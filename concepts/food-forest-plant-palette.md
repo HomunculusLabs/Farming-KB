@@ -1,8 +1,4 @@
 ---
-title: "Food Forest Plant Palette"
-tags: []
-sources: []
----
 title: Food Forest Plant Palette
 created: 2026-04-12
 updated: 2026-04-12

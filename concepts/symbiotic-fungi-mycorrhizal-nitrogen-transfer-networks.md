@@ -1,11 +1,4 @@
 ---
-title: "Symbiotic Fungi Mycorrhizal Nitrogen Transfer Networks"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [fungal-ecology, mycology, symbiosis]
-sources: []
----
 title: Mycorrhizal Nitrogen Transfer Networks
 created: 2026-04-24
 updated: 2026-04-24

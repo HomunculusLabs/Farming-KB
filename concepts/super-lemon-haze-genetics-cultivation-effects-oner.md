@@ -4,12 +4,6 @@ tags:
   - concept
 ---
 
-**Source:** S.T. Oner, *[[super-silver-haze]], this strain has become one of the most recognized and celebrated modern cannabis varieties. It won the High Times Cannabis Cup and has maintained enduring popularity among both recreational and medical users since its introduction.
-
-The strain is classified as sativa-dominant with a THC content of approximately 19.33% and minimal CBD at 0.21%. Its genetic lineage combines the sharp citrus characteristics of Lemon Skunk with the legendary potency and complex resin profile of [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], Haze, and Skunk genetics.
-
----
-
 ## Genetic Lineage
 
 The parent strains that form Super Lemon Haze each bring distinct characteristics to the cross:

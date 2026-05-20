@@ -1,8 +1,4 @@
 ---
-title: "Maria Sabina And Mazatec Mushroom Ceremony"
-tags: []
-sources: []
----
 title: Maria Sabina and the Mazatec Mushroom Ceremony
 created: 2026-04-11
 updated: 2026-04-12

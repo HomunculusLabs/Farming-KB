@@ -1,8 +1,4 @@
 ---
-title: "Permaculture Climate Strategies"
-tags: []
-sources: []
----
 title: Permaculture Climate-Specific Design Strategies
 created: 2026-04-11
 updated: 2026-04-12

@@ -7,22 +7,6 @@ tags: [regenerative, soil]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-## Mollison No-Tillage Grain Cropping and Fukuoka Method
-
-Until the work of Masanobu Fukuoka, there was no satisfactory basis for including grain and legume crops in permaculture. The system outlined in The One-Straw Revolution seems to have solved the problems of no-dig grain cultivation. Fukuoka's methodology, combined with data from P. A. Yeomans and David King, evolved a no-dig and permanent grain-crop system that fits into the [[jadam-cover-crop-soil-temperature-management]] that keep the soil covered at all times.
-
-## Paddy Rice Preparation
-
-If paddy rice is to be grown, the area must first be graded or levelled, and a low bund (water-wall) built around the plot, so that 50 mm or so of water can lie on the ground in December. After levelling or preparation in summer, the area has lime or dolomite spread over it, watered in, and made ready for autumn planting.
-
-## The Mulch System
-
-To start the continuous crop system, a complete seed-free mulch cover of straw, seagrass, shredded paper or sawdust is applied at about 900 kg per 1000 square meters (8000 lb/acre). If no mulch is available, seed can be covered as usual by raking in.
-
-The [[mollison-designers-cover-crops-and-green-manure-species]] used across permaculture. The clover suppresses weeds, fixes atmospheric nitrogen, and provides a continuous ground cover that protects the soil surface.
-
----
-
 ## Practical Considerations
 
 Successful implementation of Mollison No-Tillage Grain Cropping and Fukuoka Method requires attention to
@@ -128,3 +112,11 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mollison-designers-climate-zone-3-farm-forestry]]
 - [[mollison-designers-earthworks-for-erosion-control]]
 - [[soya-bean-mollison]]
+
+## Summary
+
+This overview establishes core concepts that inform both understanding and application. The relationships described here connect to broader themes explored in related entries.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.
+
+Further research and field observation continue to refine our understanding of these relationships.

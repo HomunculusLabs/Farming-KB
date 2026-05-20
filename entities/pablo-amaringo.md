@@ -1,8 +1,4 @@
 ---
-title: "Pablo Amaringo"
-tags: []
-sources: []
----
 title: Ayahuasca Preparation Pablo Amaringo Ucayali Shamanism
 created: 2026-04-11
 updated: 2026-04-12

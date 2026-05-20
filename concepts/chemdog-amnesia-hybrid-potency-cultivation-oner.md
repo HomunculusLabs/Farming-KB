@@ -4,12 +4,6 @@ tags:
   - concept
 ---
 
-**Source:** S.T. Oner, *[[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] of the last two decades. The cross uses an indica-heavy Chemdog IX-III as one parent and an Amnesia plant as the other, producing a hybrid that leans only slightly toward sativa dominance. This near-equal balance of indica and sativa genetics provides both the hybrid vigor that breeders seek and the complex, multi-layered high that consumers desire.
-
-With a tested THC content of 22%, Chemdog × Amnesia ranks among the more potent strains in Oner's guide. The breeder emphasizes that this strain prioritizes quality over quantity—the effects and flavor complexity are the primary rewards, with yield being a secondary consideration.
-
----
-
 ## Parent Strain Analysis
 
 The two parent strains that form this cross are both legendary in their own right:

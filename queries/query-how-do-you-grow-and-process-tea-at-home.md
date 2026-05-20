@@ -7,20 +7,6 @@ Yes, but with significant caveats. Maca has been successfully cultivated in part
 
 ---
 
-### What are the ideal growing conditions?
-
-- **Altitude:** 3,000–4,500 m is optimal; below 2,500 m, results deteriorate sharply.
-- **Temperature:** Daytime highs of 12–20°C (54–68°F) and nighttime lows near or below freezing. Maca requires frost exposure for proper root development and will not perform well where temperatures regularly exceed 25°C.
-- **Soil:** Well-drained, sandy loam to loamy soil with pH 5.5–7.5. Maca tolerates poor, rocky soils better than most crops but benefits from moderate fertility. Avoid waterlogged or heavy clay soils.
-- **Light:** Full sun in high-altitude environments with intense UV. At lower elevations, partial shade (30–40%) may help prevent premature bolting.
-- **Water:** Low to moderate rainfall (300–700 mm annually) is ideal.
-
-### Growth Stages
-
-1. **Germination (weeks 1–3):** Sow seeds directly, 1–2 cm deep. Maca is [[cannabis-vegetative-growth-stage]] (months 1–5):** Maca forms a low rosette of frilly leaves close to the ground. [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]].
-
----
-
 ### What pests and diseases affect maca?
 
 Maca is relatively pest-resistant, especially at its native high altitude where insect pressure is low. Key threats include:

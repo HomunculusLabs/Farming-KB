@@ -1,8 +1,4 @@
 ---
-title: "First Time Grower Common Mistakes"
-tags: []
-sources: []
----
 title: First-Time Grower Common Mistakes
 created: 2026-04-12
 updated: 2026-04-12

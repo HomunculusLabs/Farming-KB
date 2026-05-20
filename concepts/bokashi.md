@@ -1,8 +1,4 @@
 ---
-title: "Bokashi"
-tags: []
-sources: []
----
 title: Bokashi Fermentation
 created: 2026-04-10
 updated: 2026-04-12
@@ -121,3 +117,5 @@ Bokashi doesn't finish composting — it pre-digests. The final step is burial:
 - [[fermented-plant-extract-fpe]]
 - [[knf-preparations]]
 - [[hot-composting-vs-vermicompost-vs-bokashi]] — comparison
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

@@ -1,8 +1,4 @@
 ---
-title: "Steve Solomon"
-tags: []
-sources: []
----
 title: Steve Solomon
 created: 2026-04-11
 updated: 2026-04-12

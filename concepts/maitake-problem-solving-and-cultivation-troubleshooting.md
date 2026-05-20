@@ -4,16 +4,6 @@ source: unknown-a-practical-guide-to-synthetic-log-cultiva.md
 type: concept
 ---
 
-## Maitake Problem-Solving and Cultivation Troubleshooting
-
-A practical troubleshooting reference for *Grifola frondosa* synthetic-log cultivation, covering the ten most critical problem areas growers encounter and their solutions.
-
-## Overview
-
-Maitake cultivation is considered challenging even among experienced specialty mushroom growers. The majority of strains from culture collections and wild isolates—approximately 90%—do **not** fruit reliably. Success depends on careful attention to strain selection, substrate preparation, environmental parameters, and timing throughout the cultivation cycle. This page distills key troubleshooting guidance organized by the most common failure points.
-
----
-
 ## 1. Selecting High-Yield, Fast-Growing, Vigorous Fruiting Strains
 
 Strain selection is the single most important factor in maitake cultivation success.

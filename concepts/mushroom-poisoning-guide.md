@@ -1,8 +1,4 @@
 ---
-title: "Mushroom Poisoning Guide"
-tags: []
-sources: []
----
 title: Mushroom Poisoning Guide
 created: 2026-04-12
 updated: 2026-04-12

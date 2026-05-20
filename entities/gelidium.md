@@ -11,13 +11,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Armisen, R. & Galatas, F. (2000). "Agar." In: Handbook of Hydrocolloids, Woodhead Publishing, 21-40.
-  - Santelices, B. & Doty, M.S. (1989). "A Review of  Gelidiales, family
-Gelidiaceae) comprising approximately 125 described species distributed across
-fukuoka-ideal-rice-plant-form-high-yield-cultivationed in bulk agar production by faster-growing [[gracilaria]] species,
-Gelidium remains essential for high-purity applications including
-microbiological fukuoka-textdoc-sparse-seeding-natural-high-yield-rice beds
-in several regions, particularly along the Iberian Peninsula and Japan.
----# Taxonomy and [[fukuoka-textdoc-energy-efficiency-natural-farming]]. The genus is particularly diverse along the Pacific coasts
+  - Santelices, B. & Doty, M.S. (1989). "A Review of Gelidiales." Hydrobiologia.
+---
+# Taxonomy and . The genus is particularly diverse along the Pacific coasts
 of Japan, Korea, and Mexico, as well as the Atlantic coasts of Portugal,
 Spain, and Morocco.
 
@@ -27,7 +23,7 @@ habitats with moderate to strong water movement and are rarely found in
 sheltered or silty environments.
 
 Optimal growth occurs at 15–22°C, salinity of 30–35 ppt, and high irradiance.
-[[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]. Harvesters wade or dive at low tide, cutting thalli above the holdfast
+. Harvesters wade or dive at low tide, cutting thalli above the holdfast
 to allow regrowth. In some regions, mechanical harvesters using boats with
 rotating blades are used, though this method is more damaging to beds.
 
@@ -36,7 +32,7 @@ the majority of world Gelidium, though Japanese production was significant
 
 ## See Also
 
-- [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
+- 
 - [[gelidium-amansii]]
 
 ## Practical Applications
@@ -79,3 +75,13 @@ Emerging research, technological advances, and evolving understanding continue t
 This topic encompasses significant principles with broad applicability across related disciplines. Integration of theoretical understanding with practical experience yields the most robust and reliable outcomes.
 
 Understanding this topic in its broader ecological context enhances practical application.
+
+## Practical Considerations
+
+Effective implementation requires attention to local conditions, resource availability, and specific objectives. Adaptation of general principles to particular circumstances often determines success.
+
+## See Also
+
+- [[gracilaria]]
+- [[agar-plate-preparation-culture-techniques]]
+

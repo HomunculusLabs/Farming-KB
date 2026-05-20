@@ -1,8 +1,4 @@
 ---
-title: "Ben Lemon"
-tags: []
-sources: []
----
 title: Ben Lemon (Nicolas Flamel)
 created: 2026-04-12
 updated: 2026-04-12

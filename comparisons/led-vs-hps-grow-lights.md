@@ -1,8 +1,4 @@
 ---
-title: "Led Vs Hps Grow Lights"
-tags: []
-sources: []
----
 title: LED vs HPS Grow Lights Comparison
 created: 2026-04-11
 updated: 2026-04-12

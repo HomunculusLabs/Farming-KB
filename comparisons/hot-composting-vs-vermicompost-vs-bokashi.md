@@ -1,8 +1,4 @@
 ---
-title: "Hot Composting Vs Vermicompost Vs Bokashi"
-tags: []
-sources: []
----
 title: Hot Composting vs Vermicompost vs Bokashi
 created: 2026-04-11
 updated: 2026-04-12

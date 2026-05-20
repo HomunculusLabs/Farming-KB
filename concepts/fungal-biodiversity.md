@@ -1,8 +1,4 @@
 ---
-title: "Fungal Biodiversity"
-tags: []
-sources: []
----
 title: Fungal Biodiversity
 created: 2026-04-11
 updated: 2026-04-12

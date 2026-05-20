@@ -1,8 +1,4 @@
 ---
-title: "Fermented Mixed Compost Fmc"
-tags: []
-sources: []
----
 title: Fermented Mixed Compost (FMC) — IMO-Enriched Compost
 created: 2026-04-11
 updated: 2026-04-12

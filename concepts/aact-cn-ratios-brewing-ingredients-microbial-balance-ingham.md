@@ -4,12 +4,6 @@ tags:
   - concept
 ---
 
-## Overview
-
-Carbon-to-nitrogen (C:N) ratios in [[cannabis-rhizosphere-microbial-communities]] dominate during the brewing process. Dr. Elaine Ingham's field guide extensively discusses how the C:N ratio of food sources added to AACT affects bacterial versus fungal growth, dissolved oxygen consumption rates, and the overall quality of the finished tea. Understanding C:N dynamics allows brewers to deliberately steer their teas toward bacterial or fungal dominance depending on the application target.
-
----
-
 ## C:N Ratio Fundamentals
 
 The carbon-to-nitrogen ratio expresses the relative amounts of carbon and nitrogen available in organic materials. Microorganisms require both elements for growth, using carbon as an energy source and nitrogen for protein synthesis. The C:N ratio of available food sources directly influences which types of microorganisms will proliferate.

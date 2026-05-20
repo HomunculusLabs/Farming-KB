@@ -4,15 +4,6 @@ tags:
   - concept
 ---
 
-## Overview
-
-The [[pf-tek]] substrate is a simple, effective [[cervantes-green-algae-growing-medium]] developed by Psilocybe
-Fanaticus. It uses [[brown-rice-powder]] combined with vermiculite to create an airy,
-nutrient-rich environment ideal for fungal colonization. This formulation eliminates
-the need for grain-based substrates and their associated contamination risks.
-
----
-
 ## Base Substrate Formula (Per 1/2 Pint Jar)
 
 The standard PF substrate recipe yields reliable colonization and fruiting:
@@ -122,3 +113,9 @@ Monitoring and adaptive management are essential for long-term success and conti
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 See also [[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]] and [[vermiculite-brown-rice-substrate]] for related information.
+
+## Practical Considerations
+
+Effective implementation requires attention to local conditions, resource availability, and specific objectives. Adaptation of general principles to particular circumstances often determines success.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

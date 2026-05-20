@@ -1,8 +1,4 @@
 ---
-title: "No Tillage Grain Systems"
-tags: []
-sources: []
----
 title: No-Tillage Grain and Staple Crop Systems
 created: 2026-04-11
 updated: 2026-04-12

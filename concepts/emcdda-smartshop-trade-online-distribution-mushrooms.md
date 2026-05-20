@@ -1,11 +1,4 @@
 ---
-title: Emcdda Smartshop Trade Online Distribution Mushrooms
-created: 2026-05-05
-updated: 2026-05-05
-type: concept
-tags: [psychedelics, policy, mycology]
-sources: [raw/papers/emcdda-hallucinogenic-mushrooms-emerging-trend-europe.md]
----
 title: European Smartshop Trade and Online Distribution of Hallucinogenic Mushrooms
 tags:
   - emcdda

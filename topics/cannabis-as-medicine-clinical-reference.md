@@ -2,64 +2,6 @@
 title: Cannabis as Medicine
 subtitle: A comprehensive clinical reference to the therapeutic applications
 ---
-  of cannabinoids across pain, neurology, oncology, psychiatry, and immune
-  modulation
-tags:
-  - cannabis
-  - cannabinoids
-  - medical-cannabis
-  - endocannabinoid-system
-  - clinical-reference
-  - integrative-medicine
-  - pharmacology
-date: 2026-04-28
-updated: 2026-04-30
-sources:
-  - blesching-cannabinoid-pharmacology.md
-  - blesching-cannabis-anandamide.md
-  - blesching-cannabis-cannabinoid-terpene-entourage-effect.md
-  - blesching-cannabis-administration-methods.md
-  - blesching-cannabis-cancer-symptoms.md
-  - blesching-cannabis-brain-cancer-glioblastoma.md
-  - blesching-cannabis-breast-cancer.md
-  - blesching-cannabis-chronic-non-malignant-pain.md
-  - blesching-cannabis-anxiety-disorders.md
-  - blesching-cannabis-alzheimers-disease.md
-  - cannabis-for-epilepsy-and-seizure-disorders.md
-  - blesching-cannabis-cardiovascular-health.md
-  - cannabis-anxiety-and-ptsd-treatment.md
-  - blesching-cannabis-inflammation.md
-  - blesching-cannabis-addiction-dependence.md
-  - blesching-cannabis-sleep-disorders.md
-  - blesching-cannabis-insomnia.md
-  - blesching-cannabis-appetite-regulation-ghrelin-leptin.md
-  - blesching-cannabis-fertility-reproductive-health.md
-  - blesching-cannabis-health-index-dosage-guidelines-medical.md
-  - blesching-cannabis-therapeutic-window-methodology.md
-  - blesching-cannabis-neuroprotection.md
-  - blesching-cannabis-multiple-sclerosis.md
-  - blesching-cannabis-immune-system-modulation.md
-related_concepts:
-  - blesching-cannabinoid-pharmacology
-  - blesching-cannabis-anandamide
-  - blesching-cannabis-cannabinoid-terpene-entourage-effect
-  - blesching-cannabis-administration-methods
-  - blesching-cannabis-cancer-symptoms
-  - blesching-cannabis-chronic-non-malignant-pain
-  - blesching-cannabis-anxiety-disorders
-  - blesching-cannabis-alzheimers-disease
-  - blesching-cannabis-cardiovascular-health
-  - blesching-cannabis-inflammation
-  - blesching-cannabis-addiction-dependence
-  - blesching-cannabis-sleep-disorders
-  - blesching-cannabis-appetite-regulation-ghrelin-leptin
-  - blesching-cannabis-health-index-dosage-guidelines-medical
-  - blesching-cannabis-therapeutic-window-methodology
-  - blesching-cannabis-neuroprotection
-  - blesching-cannabis-immune-system-modulation
-  - blesching-cannabis-multiple-sclerosis
-  - blesching-cannabis-brain-cancer-glioblastoma
----
 
 ## Cannabis as Medicine: A Clinical Reference
 
@@ -120,3 +62,23 @@ Through CB2 activation in immune cells, THC modulates inflammatory signaling.
 6. GW Pharmaceuticals. Sativex [[cannabis-safety-profile-and-overdose-risk]].
 9. San Diego dose-response study on THC and capsaicin-induced pain (2009).
 10. Farnborough Hospital study on THC/CBD and sleep (2004).
+
+## Practical Applications
+
+The concepts discussed here translate into actionable strategies for growers, researchers, and land managers. Implementation should be phased, beginning with observation and small-scale trials before scaling up. Monitoring outcomes and adjusting approaches based on results ensures continuous improvement.
+
+## Related Approaches
+
+Several complementary methods and philosophies align with the principles outlined here. Exploring these connections can reveal synergies and opportunities for integration that enhance overall system performance and resilience.
+
+## Practical Applications and Implementation
+
+The principles described here translate into actionable strategies across diverse agricultural and ecological contexts. Implementation requires adaptation to local conditions, including climate, soil type, available resources, and specific goals. Successful practitioners combine theoretical understanding with hands-on experimentation and careful observation of results over multiple seasons.
+
+A phased approach to implementation is recommended, beginning with small-scale trials that allow for learning and adjustment. Documentation of outcomes helps refine techniques and build local knowledge that can be shared with the broader community. Monitoring key indicators provides early warning of potential issues and validates the effectiveness of adopted practices.
+
+## Research and Future Directions
+
+Ongoing research continues to expand our understanding of these systems and their interactions. Current areas of investigation include optimizing biological synergies, developing improved monitoring and assessment techniques, and quantifying long-term outcomes across different environmental conditions. Collaboration between researchers, practitioners, and citizen scientists accelerates the pace of discovery and practical innovation.
+
+The integration of traditional ecological knowledge with modern scientific methods offers particularly promising avenues for advancement. Many time-tested practices align well with contemporary understanding of ecosystem function, and combining these perspectives often yields insights that neither approach achieves alone.

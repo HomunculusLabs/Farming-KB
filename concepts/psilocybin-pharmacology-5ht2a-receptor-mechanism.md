@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-created: 2026-05-08
-source: carolina-mushrooms_08qxp.md
-tags: [psilocybin, pharmacology, 5-ht2a, serotonin, neuropharmacology, hallucinogens, receptor, mechanism-of-action]
----
-
 ## Overview
 
 Psilocybin and its active metabolite psilocin produce their characteristic psychoactive effects primarily through agonist activity at the serotonin 5-HT2A receptor. The EMCDDA (2006) thematic paper on [[european-prevalence-and-patterns-of-magic-mushroom-use]]. Understanding this mechanism is essential for explaining both the desired effects and the potential risks associated with psilocybin-containing fungi.

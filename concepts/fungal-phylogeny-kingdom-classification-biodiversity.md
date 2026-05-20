@@ -3,19 +3,6 @@ title: "biodiversity of fungi fungal phylogeny kingdom classification"
 tags:
   - concept
 ---
-> implications of fungi and fungus-like organisms.
->
-> **Source:** Blackwell & Spatafora, "Fungi and Their Allies," in *[[fungal-taxonomy-and-kingdom-fungi]] shares a
-more recent common ancestor with Kingdom Animalia than with Kingdom Plantae. Both lineages
-descend from a **choanoflagellate-like ancestor** within the opisthokont clade. Shared derived characters include chitin in [[fungi-aquatic-animals-pathogens-parasites]]; earliest-diverging lineage
-- **Zygomycota** — Zygospore formation; coenocytic hyphae; includes bread molds (*Rhizopus*)
-- **[[basidiomycete-mating-systems-sexual-reproduction]]; largest phylum; yeasts, molds, morels
-- **Basidiomycota** — Basidium-based sexual reproduction; mushrooms, rusts, smuts
-
-These phyla are united by chitinous cell walls, absorptive nutrition, and absence of
-chlorophyll.
-
----
 
 ## Kingdom Straminipila (Heterokont Organisms)
 

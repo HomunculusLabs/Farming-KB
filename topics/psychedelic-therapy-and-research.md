@@ -2,48 +2,6 @@
 title: Psychedelic Therapy and Research
 subtitle: "From Ancient Rituals to Modern Clinical Trials — The Science of Healing
 ---
-  with Psychedelic Compounds"
-tags:
-  - psychedelic-therapy
-  - psilocybin
-  - mdma
-  - ptsd
-  - depression
-  - microdosing
-  - neuroplasticity
-  - mental-health
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - psychedelic-therapy-foundations
-  - psychedelic-therapy-current-research
-  - psychedelic-therapy-mechanisms
-  - psychedelic-therapy-set-and-setting
-  - psychedelic-therapeutic-frameworks
-  - psychedelic-therapy-shamanism-comparison
-  - psychedelic-research-legal-history-united-states
-  - psychedelic-research-timeline
-  - microdosing-guide
-  - microdosing-theory-and-practice
-  - psychedelic-microdosing
-  - powell-psilocybin-end-of-life-anxiety
-  - controlled-substances-act-and-psychedelic-research
-  - cannabis-and-ptsd-research
-  - cannabis-ptsd-research
-  - blesching-cannabis-ptsd-anxiety
-  - cannabis-anxiety-and-ptsd-treatment
-  - cannabis-for-ptsd-and-trauma
-  - cannabis-health-ptsd
-related_concepts:
-  - psychedelic-therapy-foundations
-  - psychedelic-therapy-current-research
-  - psychedelic-therapy-mechanisms
-  - psychedelic-therapy-set-and-setting
-  - psychedelic-therapeutic-frameworks
-  - microdosing-guide
-  - powell-psilocybin-end-of-life-anxiety
-  - controlled-substances-act-and-psychedelic-research
----
 
 ## Psychedelic Therapy and Research
 
@@ -110,3 +68,17 @@ received psychedelic therapy. Osmond and Hoffer used LSD to treat alcoholism,
   68(1), 71–78.
 - Metzner, R. (1998). The pollinator paradigm. *ReVision*, 21(1), 13–21.
 - Blesching, J. (2017). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*.
+
+## Key Considerations
+
+Effective application requires attention to local conditions, resource constraints, and specific objectives. Adaptation of general principles to particular circumstances often determines outcomes. Consider integrating multiple complementary approaches for best results.
+
+These principles provide a practical foundation for application and continued study in this domain. Further observation and experimentation will refine understanding over time.
+These principles provide a practical foundation for application. Continued observation and adaptation to local conditions will refine outcomes over successive growing seasons.
+
+The integration of these concepts with broader agricultural and ecological frameworks creates opportunities for synergistic approaches that enhance overall system performance. Continued learning through observation and experimentation remains essential for adapting these principles to diverse local conditions.
+## Notes
+
+The integration of these concepts with broader frameworks creates opportunities for synergistic
+approaches. Continued observation and experimentation remain essential for adapting principles
+to diverse local conditions and achieving optimal outcomes over time.

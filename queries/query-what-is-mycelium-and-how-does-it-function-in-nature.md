@@ -1,13 +1,4 @@
 ---
-title: "Query What Is Mycelium And How Does It Function In Nature"
-created: 2026-05-02
-updated: 2026-05-02
-type: query
-tags: [fungal-ecology, mycology]
-sources:
-  - "raw/papers/mycelium-running-stamets.md"
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
----
 title: "What Is Mycelium and How Does It Function in Nature"
 tags: [query, mycology, fungal-biology, mycelium, ecology]
 date: 2026-04-25

@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-**Source:** [[cannabis-health-index]]*
-**Concept:** The molecular basis of emotions — how specific neurotransmitters and hormones correspond to emotional states, and how the [[blesching-conscious-intervention-stress-hormone-reduction-endocannabinoid]] in our own molecular biology — not by denying emotions (which suppresses them), but by constructively processing and redirecting them.
-
----
-
 ## Molecules of Expansive Emotions
 
 These molecules are associated with positive, open emotional states. When present in balanced amounts, they support creativity, social bonding, relaxation, learning, and overall well-being. Each has direct connections to the endocannabinoid system through CB1 or CB2 receptors, and each can be consciously boosted through specific practices.

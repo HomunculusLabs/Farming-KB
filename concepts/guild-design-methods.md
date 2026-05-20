@@ -1,8 +1,4 @@
 ---
-title: "Guild Design Methods"
-tags: []
-sources: []
----
 title: Guild Design Methods
 created: 2026-04-12
 updated: 2026-04-12

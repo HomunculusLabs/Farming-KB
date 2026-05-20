@@ -1,8 +1,4 @@
 ---
-title: "Soil Testing"
-tags: []
-sources: []
----
 title: Soil Testing
 created: 2026-04-11
 updated: 2026-04-12

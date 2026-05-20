@@ -1,8 +1,4 @@
 ---
-title: "Mushroom Spore Printing And Storage"
-tags: []
-sources: []
----
 title: Mushroom Spore Printing And Storage
 created: 2026-04-11
 updated: 2026-04-12

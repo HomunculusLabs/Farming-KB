@@ -4,25 +4,6 @@ source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
 
-## Straw Mushroom Bed Cultivation
-
-## Overview
-
-The straw mushroom (*Volvariella volvacea*) is one of the most popular cultivated mushrooms in South East Asia. It is widely grown using the **straw bed method** (also called the plot method), which differs significantly from the substrate bag method used for other mushroom varieties. The bed method is an accessible, low-cost technique that has been successfully demonstrated by trainers working with disabled trainees, making it an inclusive and practical approach to mushroom cultivation.
-
-Straw mushrooms are exceptionally fast-growing. Mycelium colonizes the prepared bed in just **3–4 days**, and fruiting bodies appear within **4–5 days** after colonization. A typical cycle yields **3 flushes** over approximately **23 days** from start to finish.
-
-### Suitable Conditions
-
-Straw mushrooms thrive in warm, humid conditions and are cultivated during the **summer and rainy seasons**:
-
-| Variety | Temperature Range |
-|---------|-------------------|
-| Thai    | 28–38°C           |
-| Taiwan  | 28–38°C           |
-
----
-
 ## Bed Preparation Steps
 
 The bed method involves building layered "cakes" of growth media directly on prepared ground. The following 14 steps cover the complete process.
@@ -134,3 +115,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[paddy-straw-mushroom-volvariella-volvacea-cultivation]]
 - [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]
 - [[straw-bale-construction]]
+
+## Key Takeaways
+
+The information presented here highlights important connections between theory and practice. Consider these factors in relation to your specific context for best results.

@@ -4,27 +4,6 @@ source: gardening-when-it-counts-steve-solomon.md
 type: concept
 ---
 
-## Composting and Soil Health
-
-### Bio-Dynamic Farming and Gardening — Ehrenfried Pfeiffer
-
-Introduced many Western readers to the biodynamic approach developed by Rudolf
-Steiner. [[biodynamic-agriculture-and-steiner]] treats the farm as a self-sustaining organism,
-emphasizing compost preparations, crop rotations, and the relationship between
-soil, plants, and cosmic rhythms. While some principles remain controversial,
-the book's detailed treatment of compost biology and soil microbial life
-continues to inform organic growers.
-
-### Building Soils for Better Crops — SARE
-
-A practical, science-based guide to soil management published by the Sustainable
-Agriculture Research and Education (SARE) program. Covers organic matter
-dynamics, nutrient cycling, [[cover-crops]], tillage reduction, and composting.
-Freely available online and widely regarded as one of the most accessible
-introductions to soil ecology for farmers and gardeners alike.
-
----
-
 ## Cover Crops and Green Manures
 
 ### Managing Cover Crops Profitably — SARE
@@ -134,3 +113,9 @@ the serious organic gardener, covering soil biology, composting, cover cropping,
 season extension, regional growing, and the deep history of the organic
 movement. Many works are freely available online, ensuring this knowledge
 remains accessible to all who wish to grow food responsibly and sustainably.
+
+## Key Takeaways
+
+The information presented here highlights important connections between theory and practice. Consider these factors in relation to your specific context for best results.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

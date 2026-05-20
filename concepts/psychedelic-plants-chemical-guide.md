@@ -7,46 +7,6 @@ tags: [plants, fungi, chemistry, pharmacology, neuroscience, psychopharmacology,
 sources: []
 ---
 
-## Psychedelic Plants and Compounds — Chemical Comparison Guide
-
-## Overview
-
-Psychedelic (classical hallucinogen) compounds are substances that primarily act as serotonin 5-HT2A receptor agonists, producing profound alterations in perception, cognition, and consciousness. Found across plant and fungal kingdoms, these compounds have been used in spiritual, healing, and divinatory contexts for millennia.
-
-This guide compares six major psychedelic compounds: DMT, 5-MeO-DMT, mescaline, psilocybin, salvinorin A, and ibogaine — covering their chemistry, pharmacology, effects, sources, and safety profiles.
-
-## Structural Classification
-
-Psychedelic compounds fall into distinct chemical classes:
-
-- **Tryptamines:** DMT, 5-MeO-DMT, psilocybin (indole ring structure, related to serotonin)
-- **Phenethylamines:** Mescaline (phenyl ring with ethylamine chain)
-- **Diterpene:** Salvinorin A (unique trans-clerodane diterpene — not related to other psychedelics)
-- **Indole alkaloids:** Ibogaine (complex indole structure related to iboga alkaloids)
-
-## Compound Profiles
-
-### 1. N,N-Dimethyltryptamine (DMT)
-
-#### Chemistry
-- Formula: C12H16N2 | MW: 188.27 | White crystalline solid (freebase)
-- Vaporization: ~160°C | MAO substrate (oral inactive without MAOI)
-
-#### Natural Sources
-- **Psychotria viridis** (chacruna), **Diplopterys cabrerana** (chaliponga), **Mimosa tenuiflora** (jurema), **Acacia species**, **Anadenanthera peregrina** (yopo seeds)
-- Endogenous in mammalian brain (trace amounts)
-
-#### Pharmacology
-- **Receptors:** 5-HT2A (primary), 5-HT1A, 5-HT2C, sigma-1, TAAR
-- **Smoked:** Onset 15-60s, peak 2-5min, duration 15-30min | Dose: 20-60mg
-- **Oral + MAOI:** Onset 30-60min, peak 2-3h, duration 4-6h | Dose: 25-75mg
-- Half-life: ~15min
-
-#### Effects
-Intense visual hallucinations, ego dissolution at higher doses, mystical/spiritual experiences, synesthesia, emotional catharsis, entity contact reports.
-
----
-
 ### 2. 5-MeO-DMT
 
 #### Chemistry

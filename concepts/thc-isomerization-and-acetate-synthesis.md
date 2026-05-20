@@ -4,16 +4,6 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-## Cannabis Isomerization and THC Acetate Synthesis
-
-> Based on Chapters Two and Three of *Cannabis Alchemy* by Ben Lemon.
-
-## Overview
-
-Cannabis alchemy encompasses two closely related chemical processes: the **isomerization** of cannabidiol (CBD) into delta-9-tetrahydrocannabinol (THC), and the subsequent **acetylation** of THC into THC acetate — a compound with roughly double the potency of THC itself. These transformations exploit the structural similarity among cannabinoid isomers and the reactivity of their hydroxyl groups.
-
----
-
 ## Part I: Isomerization of CBD to THC
 
 ### Chemical Background
@@ -122,3 +112,11 @@ Practical experience combined with systematic observation yields the most reliab
 ## Future Directions
 Emerging approaches and technologies offer new opportunities for advancement.
 Collaborative knowledge sharing accelerates progress across related domains.
+
+## Summary
+
+This overview establishes core concepts that inform both understanding and application. The relationships described here connect to broader themes explored in related entries.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.
+
+Further research and field observation continue to refine our understanding of these relationships.

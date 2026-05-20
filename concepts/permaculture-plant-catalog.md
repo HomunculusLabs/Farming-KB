@@ -1,8 +1,4 @@
 ---
-title: "Permaculture Plant Catalog"
-tags: []
-sources: []
----
 title: Permaculture Plant Catalog
 created: 2026-04-11
 updated: 2026-04-12
@@ -121,3 +117,5 @@ Key species for fire-prone areas: carob, black locust, English oak, holm oak, co
 - [[permaculture-plant-species-catalog-t-z]]
 - [[permaculture-plant-species-reference]]
 Ongoing developments continue to expand practical applications and theoretical understanding.
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

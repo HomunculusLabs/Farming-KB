@@ -4,26 +4,6 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-## Wet-Dry Tropics Climate and Design
-
-## Overview
-
-The wet-dry tropics occupy approximately 15% of Earth's land surface, spanning latitudes 0–25° with a dominant presence in the southern hemisphere. These regions are defined by a stark seasonal contrast: a long, desiccating dry season followed by a short, intense wet season that can produce episodic flooding. Understanding this cycle is the foundation of all permaculture design in these climates, as water availability drives every other design decision — from tree selection to housing construction to livestock management.
-
-This page also covers the wet tropics (which the wet-dry tropics transition into during summer) and the monsoon tropics (a distinct sub-type of the wet-dry tropics), providing a complete picture of tropical climate zones as described by Bill Mollison in *Permaculture: A Designers' Manual*.
-
-## Wet Tropics — Foundation Context
-
-Because the wet season of the wet-dry tropics closely mirrors conditions found in the true wet tropics year-round, understanding that biome is essential context.
-
-### Landscape and Vegetation
-
-The wet tropics feature **perennial streams** fed by consistent rainfall, **deeply weathered regolith** (ancient, leached rock underlying thin soils), **rounded hills** shaped by prolonged chemical weathering, **rapid [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]], up to **800 tree species per km²** in the most diverse stands, shaded [[cover-crops]]. Large mammalian fauna is limited compared to savannah regions.
-
-A critical insight for [[soil-ph]]. When rainforest is cleared, the thin, heavily leached soils become rapidly infertile. Sustainable design must maintain continuous biomass and [[permaculture-plants-comfrey-chop-and-drop]], yams, coconut, corn, taro, paddy rice, ducks, pigs, poultry, and fish. Trade crops: spices, copra, palm oil, cacao, rubber, manilla hemp, hardwoods, balsa, and chicle. Traditional housing is adapted to continuous heat and moisture — **raised structures**, **steep roofs** for heavy rainfall, **thatched roofing** with permeable walls for ventilation, and **screened openings** to exclude insects.
-
----
-
 ## Wet-Dry Tropics — Core Climate Zone
 
 ### Geographic Distribution

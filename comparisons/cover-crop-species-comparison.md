@@ -1,8 +1,4 @@
 ---
-title: "Cover Crop Species Comparison"
-tags: []
-sources: []
----
 title: Cover Crop Species Comparison
 created: 2026-04-11
 updated: 2026-04-12

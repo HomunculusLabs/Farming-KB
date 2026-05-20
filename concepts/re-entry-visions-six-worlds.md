@@ -4,14 +4,6 @@ source: leary-t-the-psychedelic-experience.md
 type: concept
 ---
 
-## Re-Entry Visions and the Six Worlds of Game Existence
-
-## Overview
-
-This concept covers the concluding phases of the **Third Bardo** in the psychedelic experience as described in *The Psychedelic Experience* (based on the *Tibetan Book of the Dead*). As the voyager moves toward re-entry into ego-consciousness and consensus reality, a series of characteristic visions, sensations, and psychological challenges arise. These include feelings of intellectual limitation, symbolic oppression, visions of the **Six Worlds of Game Existence** (sangsara), the all-determining influence of thought, judgment visions, and sexual visions. Understanding each phase is essential for navigating re-entry with liberation rather than being drawn back involuntarily into old ego-patterns.
-
----
-
 ## Third Bardo Sensations of Limitation
 
 ### Stupidity and Incoherent Thought

@@ -1,8 +1,4 @@
 ---
-title: "Nicole Faires"
-tags: []
-sources: []
----
 title: Nicole Faires
 created: 2026-04-11
 updated: 2026-04-12

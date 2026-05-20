@@ -1,9 +1,5 @@
 ---
 title: "Soil Fertility Management"
-tags: []
-sources: []
----
-title: "Soil Fertility Management"
 created: 2026-04-11
 updated: 2026-04-12
 type: concept

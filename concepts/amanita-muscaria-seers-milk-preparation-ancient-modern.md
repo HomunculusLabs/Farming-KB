@@ -4,14 +4,6 @@ source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
-## Seer's Milk: Amanita Muscaria Milk Preparations — Ancient and Modern
-
-## Overview
-
-"Seer's Milk" refers to the ancient and enduring practice of preparing *Amanita muscaria* by steeping or fermenting the mushroom in milk. This preparation method spans at least four millennia, from Vedic Soma ceremonies in ancient India to Siberian shamanic traditions and into modern rediscovery by ethnobotanical researchers. The milk serves not merely as a vehicle but as an active chemical participant, transforming the mushroom's pharmacological profile through acid-catalyzed reactions, improved extraction, and altered absorption kinetics.
-
----
-
 ## Ancient Milk-Mushroom Practice
 
 The combination of sacred psychoactive plants with milk is one of the oldest known [[allegro-amanita-muscaria-properties-and-pharmacology]]*.

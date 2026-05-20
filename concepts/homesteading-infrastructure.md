@@ -1,8 +1,4 @@
 ---
-title: "Homesteading Infrastructure"
-tags: []
-sources: []
----
 title: Homesteading Infrastructure
 created: 2026-04-10
 updated: 2026-04-12

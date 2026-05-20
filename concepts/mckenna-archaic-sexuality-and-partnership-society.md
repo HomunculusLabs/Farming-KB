@@ -1,11 +1,4 @@
 ---
-title: Mckenna Archaic Sexuality And Partnership Society
-created: 2026-05-05
-updated: 2026-05-05
-type: concept
-tags: [psychedelics, ethnobotany, philosophy]
-sources: [raw/papers/food-of-the-gods-mckenna.md]
----
 title: Archaic Sexuality and the Partnership Society
 tags: [sexuality, partnership-society, dominator-culture, feminism, ibogaine, Bwiti, McKenna, gender]
 date: 2026-04-28
@@ -123,3 +116,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mckenna-fall-of-partnership-society]]
 - [[mckenna-translinguistic-matter-and-exteriorized-soul]]
 - [[mckenna-translinguistic-objects-hyperdimensional-language]]
+
+These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.
+
+Further research and field observation continue to refine our understanding of these relationships.

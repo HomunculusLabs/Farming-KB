@@ -1,8 +1,4 @@
 ---
-title: "Donald Teeter"
-tags: []
-sources: []
----
 title: Donald E. Teeter
 created: 2026-04-12
 updated: 2026-04-12

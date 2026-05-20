@@ -1,11 +1,4 @@
 ---
-title: "Comparison Cannabis Extraction Basics Vs Extraction Methods"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [cannabis, cultivation, processing]
-sources: []
----
 title: "Extraction Basics vs Extraction Methods"
 tags: [comparison, extraction, concentrates, solvents, processing]
 date: 2026-04-25

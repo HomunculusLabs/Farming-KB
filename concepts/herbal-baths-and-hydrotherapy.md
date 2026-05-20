@@ -1,11 +1,4 @@
 ---
-title: Herbal Baths And Hydrotherapy
-created: 2026-04-17
-updated: 2026-04-17
-type: concept
-tags: [herbalism, herbs, medicine]
-sources: []
----
 title: Herbal Baths and Hydrotherapy
 created: 2026-04-17
 updated: 2026-04-17
@@ -122,3 +115,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[herbal-poultices-and-compresses]]
 - [[herbal-tincture-making]]
 - [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]]
+
+## Summary
+
+This overview establishes core concepts that inform both understanding and application. The relationships described here connect to broader themes explored in related entries.

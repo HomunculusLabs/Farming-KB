@@ -1,12 +1,4 @@
 ---
-title: "Seasonal Garden Tasks Calendar"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [gardening, homesteading]
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
----
 title: seasonal garden tasks calendar
 created: 2026-04-20
 updated: 2026-04-20

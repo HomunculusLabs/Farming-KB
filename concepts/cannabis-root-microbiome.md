@@ -1,8 +1,4 @@
 ---
-title: "Cannabis Root Microbiome"
-tags: []
-sources: []
----
 title: Cannabis Root Microbiome
 created: 2026-04-12
 updated: 2026-04-12

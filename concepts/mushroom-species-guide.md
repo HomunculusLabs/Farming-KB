@@ -1,8 +1,4 @@
 ---
-title: "Mushroom Species Guide"
-tags: []
-sources: []
----
 title: Mushroom Species Guide
 created: 2026-04-11
 updated: 2026-04-12

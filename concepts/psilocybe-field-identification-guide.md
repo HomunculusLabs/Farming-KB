@@ -4,55 +4,6 @@ source: field-guide-to-the-psilocybin-mushroom.md
 type: concept
 ---
 
-## Psilocybe Field Identification Guide
-
-## Overview
-
-This guide covers the three most common psilocybin-containing mushroom species found in the southern United States, from California to Louisiana and South Carolina to Florida. Originally published by F.C. Ghouled in 1972, these descriptions are designed to be exhaustive enough to allow positive identification without photographs. All psilocybin mushrooms contain the same two primary active alkaloids — psilocybin and psilocin — though in varying concentrations between species.
-
-## General Principles
-
-### The Bluing Reaction
-
-All psilocybin species described here can be most conclusively identified by an enzyme that co-occurs with psilocybin. When the flesh of the mushroom is damaged, this enzyme triggers an oxidation process that turns the tissue blue within 20 to 120 minutes. The color is similar to blue ink, or blue-green if the flesh itself has a yellowish tone.
-
-**Important exception**: One non-psychedelic genus also exhibits bluing. However, it is easily distinguished by its large, bulbous, smooth appearance; yellow to yellow-brown cap and stem; pores instead of gills (appearing as an organic sponge); solid and fleshy stem; and occurrence on pasture grass rather than dung. These should not be confused with any psilocybin species.
-
-### Field Identification Checklist
-
-A systematic approach to identification covers:
-
-1. Age and condition of the specimen
-2. Does it turn blue when damaged?
-3. **Cap**: Coloration, shape and size, margin (incurved or regular)
-4. **Gills**: Coloration, shape and size, spacing, attachment to stem
-5. **Stem**: Coloration, shape and size, base (volva) present?, hollow or solid?
-6. **Flesh**: Coloration, texture, thickness, special color traits
-7. Climate context: Last rain timing, recent high/low temperatures, substrate
-
-### Safety Warning
-
-Several non-psilocybin mushroom species are dangerously poisonous, causing severe cramping, vomiting, and potentially death. No mushroom collected by a beginner should be eaten in the field. Even when confident in identification, consume only a tiny test portion initially. The famed *Amanita muscaria* (Mexico's "magic" mushroom) is highly toxic despite causing hallucinations — it is a red, ball-shaped mushroom that bears no resemblance to the three species covered here.
-
-## Habitat and Seasonal Patterns
-
-### Ideal Conditions
-
-- **Temperature**: 45–85°F (7–29°C) for growth; 65–85°F (18–29°C) is optimal
-- **Moisture**: Rain is essential, but excess water damages immature mycelium
-- **Drainage**: Well-drained or sloped areas produce the greatest quantities
-- **Timing**: Late spring and early fall are peak seasons; hot summer months produce poor-quality specimens
-
-### Mycelium Biology
-
-The mycelium — a mold-like, web-like growth — is germinated from spores and permeates soil or manure over 6–12+ weeks. Mature mycelium demands large quantities of water for maximum fruit production. The warm, dry summer months promote mycelial growth underground, while cool, moist fall conditions trigger abundant fruiting. Mushrooms themselves mature rapidly (*P. cubensis* fruits in as little as 24 hours), and specimens left in the field quickly age and rot in sunlight since they are over 90% water.
-
-### Preserving Harvested Specimens
-
-Freshly picked mushrooms retain potency for years if air-dried (not sealed in airtight containers, which causes rotting from residual moisture). A simple drying rack can be made by stringing thread taut across a box face and cutting partially through the lower stem so specimens hang and air-dry over several days.
-
----
-
 ## Species Descriptions
 
 ### *Psilocybe cubensis*
@@ -123,3 +74,7 @@ Psilocybin can be extracted by drying specimens, grinding to powder, and soaking
 - [[horse-dung-rice-grain-substrate-formulation-psilocybe-cubensis]]
 - [[malt-agar-vs-dung-grain-comparative-cultivation-psilocybe-cubensis]]
 - [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
+
+## Key Considerations
+
+Effective application requires attention to local conditions, resource constraints, and specific objectives. Adaptation of general principles to particular circumstances often determines outcomes. Consider integrating multiple complementary approaches for best results.

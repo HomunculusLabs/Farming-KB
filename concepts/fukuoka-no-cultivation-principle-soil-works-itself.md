@@ -4,31 +4,6 @@ source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
-## Fukuoka's First Principle: No Cultivation
-
-## Context: The Four Principles
-
-Masanobu Fukuoka's method of natural farming rests on four major principles:
-
-1. **No cultivation** — the soil plows itself through the action of roots and organisms
-2. **No fertilizer** — the soil enriches itself through natural decomposition and microbial cycles
-3. **No weeding** — weeds serve beneficial roles and are managed rather than eliminated
-4. **No pesticides** — a balanced ecosystem regulates pests without chemical intervention
-
-These four principles are not arbitrary rules but interdependent facets of a single insight: nature already knows how to grow food, and human interference disrupts processes that would otherwise function on their own. Remove one intervention and the need for others diminishes. Remove all of them and the system approaches true self-sufficiency — a farm that produces abundantly without being propped up by external inputs or relentless labor.
-
-Fukuoka spent decades refining this approach on his own farm in Shikoku, Japan, ultimately concluding that the ideal state of agriculture approaches complete non-interference. As he writes:
-
-> "Today, my method of natural farming has approached the point of 'doing nothing.'"
-
-This is not laziness or neglect. It is the result of rigorous observation and the deliberate removal of unnecessary actions over decades of experimentation. The farmer who "does nothing" in Fukuoka's sense has already done everything necessary — not by adding inputs and interventions, but by designing a system that no longer requires them.
-
-The results of this approach are remarkable. First, his method succeeds at a tiny fraction of the labor and costs required by conventional agriculture, and his explicit goal is to bring even that remaining fraction down to zero. Second, the practice produces no pollution, and the soil remains eternally fertile rather than being depleted over time. These are not theoretical claims — they are the outcomes Fukuoka documented over more than thirty years of farming.
-
-The four principles function as a unified philosophy: when you stop doing the things that harm the soil, the soil recovers and sustains itself. The first principle — no cultivation — is the foundation upon which the others rest. It challenges one of the oldest and most deeply held assumptions in all of agriculture: that the soil must be worked by man in order to be productive.
-
----
-
 ## Plowing Ruins the Soil
 
 The conventional wisdom holds that plowing loosens the soil, aerates it, increases nitrogen through nitrification, and introduces fertilizer deeper into the ground where roots can access it. These supposed benefits are taught in every agricultural school and practiced on virtually every conventional farm around the world. Yet Fukuoka argues that this entire framework rests on a narrow and self-referential set of conditions — it is true only because prior interventions have made it true.

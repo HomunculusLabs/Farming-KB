@@ -4,12 +4,6 @@ source: lowenfels-teaming-with-microbes.md
 type: concept
 ---
 
-## Classic Soil Science
-
-> Core concepts from classical soil science as presented in *Teaming with Microbes* by Jeff Lowenfels and Wayne Lewis.
-
----
-
 ## What Is Soil?
 
 Soil is the **loose, unconsolidated mixture of mineral [[hamilton-composting-and-organic-matter-management]]** in the uppermost layer of the Earth's crust — a living, dynamic system that supports all terrestrial plant life.

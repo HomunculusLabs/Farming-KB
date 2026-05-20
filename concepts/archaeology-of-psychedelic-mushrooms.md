@@ -1,8 +1,4 @@
 ---
-title: "Archaeology Of Psychedelic Mushrooms"
-tags: []
-sources: []
----
 title: Archaeology Of Psychedelic Mushrooms
 created: 2026-04-11
 updated: 2026-04-12

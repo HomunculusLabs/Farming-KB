@@ -1,8 +1,4 @@
 ---
-title: "Natural Way Of Farming Guide"
-tags: []
-sources: []
----
 title: The Natural Way of Farming — Book Guide
 created: 2026-04-12
 updated: 2026-04-12

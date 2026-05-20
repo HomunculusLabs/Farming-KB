@@ -1,8 +1,4 @@
 ---
-title: "Master Cho"
-tags: []
-sources: []
----
 title: Han-Kyu Cho (Master Cho)
 created: 2026-04-11
 updated: 2026-04-12

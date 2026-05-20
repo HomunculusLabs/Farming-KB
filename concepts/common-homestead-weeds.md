@@ -1,8 +1,4 @@
 ---
-title: "Common Homestead Weeds"
-tags: []
-sources: []
----
 title: Common Homestead Weeds — Identification, Uses, and Management
 created: 2026-04-11
 updated: 2026-04-12

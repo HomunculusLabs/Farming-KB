@@ -4,11 +4,6 @@ tags:
   - concept
 ---
 
-created: 2026-05-08
-source: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
-tags: [fungal-predation, soil-bacteria, nitrogen-acquisition, mycology, soil-ecology, antibiotics, nematode-trapping, bacterial-predators]
----
-
 ## Overview
 
 Mushroom-forming fungi face a fundamental nutritional challenge: the plant tissues they decompose are rich in carbon (sugars) but critically deficient in nitrogen (proteins and nucleic acids). Without nitrogen-containing molecules, fungi cannot synthesize their own proteins or nucleic acids. [[hamilton-composting-and-organic-matter-management]] — present a nutritional paradox for fungi. They are abundant in carbohydrates and other carbon-containing compounds that fungi can metabolize for energy. However, they yield negligible protein, creating a severe nitrogen deficit. Fungi require nitrogen not only for protein synthesis but also for constructing DNA and RNA, the molecules of heredity.

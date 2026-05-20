@@ -1,12 +1,4 @@
 ---
-title: "Comparison Kelp Meal Vs Rock Dust"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [amendments, soil-science]
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
----
 title: "Kelp Meal vs Rock Dust"
 tags: [comparison, soil-amendments, fertilizers, trace-minerals]
 date: 2026-04-25

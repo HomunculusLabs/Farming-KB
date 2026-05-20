@@ -1,8 +1,4 @@
 ---
-title: "Mycorrhizal Crop Studies"
-tags: []
-sources: []
----
 title: Mycorrhizal Crop Studies
 created: 2026-04-12
 updated: 2026-04-12

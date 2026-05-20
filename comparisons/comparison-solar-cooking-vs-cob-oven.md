@@ -1,11 +1,4 @@
 ---
-title: "Comparison Solar Cooking Vs Cob Oven"
-created: 2026-05-02
-updated: 2026-05-02
-type: comparison
-tags: [construction, homesteading]
-sources: []
----
 title: "Solar Cooking vs Cob Oven"
 tags: [comparison, cooking, off-grid, renewable-energy]
 date: 2026-04-25

@@ -139,7 +139,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[cannabis-soilless-grow-media]]
-- [[comparison-aeroponics-vs-hydroponics]]
+- [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]
 - [[comparison-wicking-bed-vs-passive-wick-hydroponics]]
 - [[green-cannabis-grow-bible-hydroponics-and-the-bubbler]]
 - [[query-what-is-the-difference-between-aeroponics-and-hydroponics-for-cannabis]]

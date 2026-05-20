@@ -4,25 +4,6 @@ source: Growing Gourmet and Medicinal Mushrooms (Stamets, 1993)
 concepts: [troubleshooting, contamination, fly-control, agar-culture, grain-spawn]
 ---
 
-## Mushroom Cultivation Troubleshooting — Diagnostic Guide
-
-A systematic approach to diagnosing and resolving failures across the mushroom
-cultivation workflow, drawn from Chapter 25 of *Growing Gourmet and Medicinal
-Mushrooms* (Stamets, 1993).
-
-## Diagnostic Philosophy
-
-Effective troubleshooting rests on two pillars. First, **always include
-uninoculated controls** at every stage — agar plates, grain jars, and substrate
-blocks left untouched reveal whether contamination entered through the air, the
-operator, or the materials themselves. Without controls, you are guessing at the
-source. Second, recognize that **one root cause can cascade into multiple
-symptoms**: excess humidity alone can trigger bacterial blotch on caps, green
-mold on substrate, and a population explosion of fungus gnats simultaneously.
-Treat the underlying condition, not each symptom in isolation.
-
----
-
 ## Agar Culture Problems
 
 ### Media Won't Solidify
