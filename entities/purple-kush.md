@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]." University of California Press.
+  - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution mexican-sacred-mushrooms-indigenous-use-and-ethnobotany." University of California Press.
   - ElSohly, M.A. et al. (2016). "Changes in  Over the Last Two Decades." Biological Psychiatry 79(7): 613-619.
   - Small, E. (2017). "Cannabis: A Complete Guide." CRC Press.
   - Peace, M.R. et al. (2016). "Cannabinoid profile of popular strains." Journal of Forensic Sciences 61(2): 472-479.

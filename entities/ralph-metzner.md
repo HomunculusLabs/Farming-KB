@@ -1,5 +1,8 @@
 ---
-
+title: "Ralph Metzner"
+tags: []
+sources: []
+---
 title: Ralph Metzner
 created: 2026-04-11
 updated: 2026-04-12

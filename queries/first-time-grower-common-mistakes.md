@@ -1,5 +1,8 @@
 ---
-
+title: "First Time Grower Common Mistakes"
+tags: []
+sources: []
+---
 title: First-Time Grower Common Mistakes
 created: 2026-04-12
 updated: 2026-04-12
@@ -145,6 +148,3 @@ The 20 most common mistakes split between mushroom cultivation and cannabis cult
 ---
 
 ## See Also
-
-- [[mushroom-contamination-identification]] — contaminant identification and response
-- [[mushroom-sterile-technique]] — proper lab procedures

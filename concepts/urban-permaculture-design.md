@@ -1,5 +1,8 @@
 ---
-
+title: "Urban Permaculture Design"
+tags: []
+sources: []
+---
 title: Urban Permaculture Design
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Building an urban permaculture site largely from salvaged materials is both prac
 
 **Passive solar retrofits**: Double-glazed windows from salvage replace termite-ridden originals. Old glass saved for [[season-extension-techniques]] solar ovens and cold frames. Rock retaining walls (collected free from development sites) create microclimates and thermal mass. Rebar trellises support edible vines that shade walls in summer.
 
-**Neighbor engagement**: Visible salvage building sparks curiosity and community support. Neighbors offer materials, help, plants, and meals. Being friendly and waving at passersby transforms skepticism into participation.
-
-**Rainwater catchment on the cheap**: Any container under a downspout works. Site tanks at the top of slopes to let gravity distribute water. Even small tanks make a difference — "in the same way that composting creates rich soil from trash, water catchment and greywater cycling create opportunities for growth in barren neighborhoods."

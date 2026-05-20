@@ -1,5 +1,8 @@
 ---
-
+title: "Integrated Homestead Annual Calendar"
+tags: []
+sources: []
+---
 title: Integrated Homestead Annual Calendar
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ A rough annual nutrient budget for a 5-acre homestead with 5-7 goats, 30-50 duck
 | KNF inputs (FAA, FPJ) | 5-15 | 2-5 | 2-5 |
 | **Total** | **200-360** | **80-145** | **165-300** |
 | Typical garden demand | 50-100 | 20-50 | 40-80 |
-| Cannabis (4x4 living soil) | 5-10 | 2-5 | 5-10 |
-
-The homestead produces 2-4x the nutrients needed for food production. The surplus builds soil organic matter, feeds the food forest, and creates buffer against poor years. This is the power of closed-loop design — the system generates its own fertility.

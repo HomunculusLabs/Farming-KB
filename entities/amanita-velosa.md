@@ -10,7 +10,7 @@ tags:
   - edible-mushroom
   - mycorrhizal
   - bloomfield-boletus-satanus-edible-mushroom-hazards
-species native to the western [[psilocybin-north-america-pacific-northwest]]. Despite belonging to the genus *Amanita*
+species native to the western psilocybin-north-america-pacific-northwest. Despite belonging to the genus *Amanita*
 — which includes deadly species like *A. phalloides* and
 *A. virosa* — *A. velosa* is distinctive in appearance and
 reliably identifiable when key features are observed.

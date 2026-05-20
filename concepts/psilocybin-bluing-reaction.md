@@ -1,5 +1,8 @@
 ---
-
+title: "Psilocybin Bluing Reaction"
+tags: []
+sources: []
+---
 title: Psilocybin Bluing Reaction
 created: 2026-04-12
 updated: 2026-04-12

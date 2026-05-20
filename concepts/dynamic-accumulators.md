@@ -1,5 +1,8 @@
 ---
-
+title: "Dynamic Accumulators"
+tags: []
+sources: []
+---
 title: Dynamic Accumulators
 created: 2026-04-10
 updated: 2026-04-12

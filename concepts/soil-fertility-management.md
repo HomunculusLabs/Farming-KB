@@ -1,5 +1,8 @@
 ---
-
+title: "Soil Fertility Management"
+tags: []
+sources: []
+---
 title: "Soil Fertility Management"
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Calcium is arguably the most underappreciated nutrient in home gardening:
 ## Mineral Deficiencies: Visual Diagnosis
 
 | Symptom | Likely Deficiency |
-|---------|-------------------|
-| Pale/yellowing older leaves first | Nitrogen |
-| Purplish tinge on leaves/stems | Phosphorus |

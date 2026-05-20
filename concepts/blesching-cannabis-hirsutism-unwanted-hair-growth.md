@@ -7,7 +7,7 @@ tags:
   - hirsutism
   - hair-growth
   - endocannabinoid-system
-in the skin and its role in hair [[blesching-cannabis-hair-loss-alopecia]]
+in the skin and its role in hair blesching-cannabis-hair-loss-alopecia
 (alopecia), where CB1 down-regulation stimulates hair growth. The
 bidirectional nature of CB1's effects on hair follicles makes it a unique
 therapeutic target:

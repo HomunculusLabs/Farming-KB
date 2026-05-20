@@ -1,5 +1,5 @@
 ---
-title: How They Work
+title: Comparison Broadfork vs Chisel Plow
 tags: []
 type: comparison
 ---

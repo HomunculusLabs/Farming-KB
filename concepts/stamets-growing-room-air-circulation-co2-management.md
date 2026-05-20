@@ -1,7 +1,8 @@
 ---
 title: "Stamets Growing Room Air Circulation Co2 Management"
 tags: []
-sources: []
+sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 
 ## Growing Room Air Circulation and CO2 Management The environmental control system of a mushroom growing room is designed to maintain a selected [[growing-gourmet-growing-room-ventilation-air-exchange]] ced conditions throughout

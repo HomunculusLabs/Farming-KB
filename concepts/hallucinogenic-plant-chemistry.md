@@ -1,5 +1,8 @@
 ---
-
+title: "Hallucinogenic Plant Chemistry"
+tags: []
+sources: []
+---
 title: Hallucinogenic Plant Chemistry — Alkaloid Families and Mechanisms
 created: 2026-04-12
 updated: 2026-04-12

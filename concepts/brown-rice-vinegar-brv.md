@@ -1,5 +1,8 @@
 ---
-
+title: "Brown Rice Vinegar Brv"
+tags: []
+sources: []
+---
 title: Brown Rice Vinegar (BRV) — Natural Acetic Acid
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ BRV works synergistically with:
 - [[knf-preparations]] — all KNF inputs overview
 - [[nutritive-cycle-theory]] — when to apply BRV
 - [[water-soluble-calcium-wca]] — WS-Ca made with BRV
-- [[water-soluble-calcium-phosphate-wcp]] — WS-CaPo made with BRV
-- [[indigenous-microorganisms-imo]] — IMO for fermentation inoculation
-- [[fermented-plant-extract-fpe]] — FPJ pairing with BRV

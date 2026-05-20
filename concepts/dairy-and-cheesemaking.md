@@ -1,5 +1,8 @@
 ---
-
+title: "Dairy And Cheesemaking"
+tags: []
+sources: []
+---
 title: Dairy and Cheese Making
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Processing goat milk into cheese, butter, yogurt, and other dairy products on th
 
 ### Cultured Butter
 1. Ripen cream with mesophilic culture at 68°F for 12-18 hours
-2. Chill to 50-55°F; churn (jar, mixer, or hand crank)
-3. Drain buttermilk; wash butter in cold water until clear (prevents rancidity)
-4. Salt to taste (1% by weight); form into logs; freeze for long storage

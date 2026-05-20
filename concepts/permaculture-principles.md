@@ -1,5 +1,8 @@
 ---
-
+title: "Permaculture Principles"
+tags: []
+sources: []
+---
 title: Permaculture Principles
 created: 2026-04-10
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Graham Burnett's "Permaculture: A Beginner's Guide" adds practical framing for n
 - **Yield is limited only by imagination** — yield isn't just kilograms of food; it includes information, skills learned, health benefits, community connections, and ecological restoration
 
 ### Key Design Heuristics (Burnett's "Ecological Truisms")
-1. **Every function should be supported by many elements** — redundancy creates resilience. If one crop fails in a polyculture, others still produce
-2. **Every element should serve many functions** — a chicken provides eggs, manure, pest control, and soil cultivation
-3. **Stacking** — nature doesn't separate ornamentals, vegetables, and fruit trees. The [[food-forest-design]] concept replicates woodland layering with useful plants

@@ -1,5 +1,8 @@
 ---
-
+title: "Psilocybe Genus Classification"
+tags: []
+sources: []
+---
 title: Psilocybe Genus Classification
 created: 2026-04-12
 updated: 2026-04-13
@@ -145,6 +148,3 @@ Several other mushroom genera contain psilocybin and related tryptamines, with i
   - P. cyanescens (syn. [[copelandia-cyanescens]]) — very potent, pantropical, strong bluing
   - P. subbalteatus — moderate potency, widespread in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
   - P. tropicalis — tropical, high potency
-  - P. bisporus — 2-spored species, Caribbean
-  - P. cambodginiensis — Southeast Asia
-- **Total psychoactive species:** ~15-20 described

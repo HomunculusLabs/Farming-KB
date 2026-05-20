@@ -5,7 +5,7 @@ tags:
   - pruning
   - timing
   - fruit-tree-pruning-training
-- [[query-how-do-i-prune-fruit-trees-naturally]]
+- query-how-do-i-prune-fruit-trees-naturally
 type: querie
 ---
 ## Practical Considerations

@@ -1,5 +1,8 @@
 ---
-
+title: "Fish Amino Acid Faa"
+tags: []
+sources: []
+---
 title: Fish Amino Acid (FAA) — Preparation and Use
 created: 2026-04-10
 updated: 2026-04-12
@@ -145,6 +148,3 @@ FAA is the strongest nitrogen input in KNF. Overuse causes:
 FAA works synergistically with:
 - [[fermented-plant-extract-fpe]] — FPJ provides energy, FAA provides nitrogen
 - [[indigenous-microorganisms-imo]] — IMO provides microbes to break down FAA in soil
-- [[lactic-acid-bacteria-lab]] — LAB helps prevent putrefaction
-- [[oriental-herbal-nutrient-ohn]] — OHN prevents disease on nitrogen-rich soft tissue
-- [[water-soluble-calcium-wca]] — WS-Ca balances nitrogen, strengthens cell walls

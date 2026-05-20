@@ -7,7 +7,7 @@ tags:
   - gasteromycetes
   - sacred-fungi
   - chemical-analysis-psilocybin-mushrooms or contain entirely different classes of psychoactive compounds. These include gasteromycetes (puffballs), boletes, and other groups that fall into their Group 4 classification of "pre-columbian-mushroom-use manuscript that depicts scenes of mushroom worship including figures associated with gasteromycete-like forms. Lowy (1972) also discussed puffball symbolism in Maya codices, and Burck (1983) documented puffball usages among North mesoamerican-mushroom-ceremonies-teonanacatl
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+- arbuscular-mycorrhizal-inoculum-production-best-practices with
 creative adaptation to local conditions and emerging challenges.
 type: concept
 ---

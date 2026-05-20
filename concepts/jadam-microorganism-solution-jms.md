@@ -1,5 +1,8 @@
 ---
-
+title: "Jadam Microorganism Solution Jms"
+tags: []
+sources: []
+---
 title: Jadam Microorganism Solution Culturing (JMS) — Microbe Culture Recipe
 created: 2026-04-11
 updated: 2026-04-12

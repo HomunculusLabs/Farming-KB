@@ -1,5 +1,8 @@
 ---
-
+title: "Asian Psilocybin Mushroom Guide"
+tags: []
+sources: []
+---
 title: Asian Psilocybin Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Across Asia, psychoactive mushrooms follow predictable substrate patterns:
 | Bovine dung (cattle/water buffalo) | P. cubensis, P. samuiensis | Tropical lowlands |
 | Equine dung | P. subbalteatus, Panaeolus cyanescens | Tropical/subtropical |
 | Decomposing wood | P. subcaerulipes, Pluteus salicinus | Temperate forests |
-| Forest floor litter | P. argentipes, P. venenata | Temperate forests |
-| Dead hardwood (logs/stumps) | Gymnopilus spectabilis | Temperate |
-| Disturbed soil/grassland | P. subaeruginascens | Subtropical/tropical |

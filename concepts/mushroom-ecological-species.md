@@ -1,5 +1,8 @@
 ---
-
+title: "Mushroom Ecological Species"
+tags: []
+sources: []
+---
 title: Mushroom Ecological Species
 created: 2026-04-12
 updated: 2026-04-12

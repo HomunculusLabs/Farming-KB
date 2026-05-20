@@ -1,5 +1,8 @@
 ---
-
+title: "Berry Species Guide"
+tags: []
+sources: []
+---
 title: Berry Species Guide
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Hardy, productive shrubs (8-12 ft) thriving in partial shade and wet soils. Exce
 
 ### Varieties (Zone 7-8)
 - American: Adams, York, Johns, Nova
-- European: Haschberg, Samdal, Marge
-
-## Gooseberries and Currants (*Ribes* spp.)

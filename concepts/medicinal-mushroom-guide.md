@@ -1,5 +1,8 @@
 ---
-
+title: "Medicinal Mushroom Guide"
+tags: []
+sources: []
+---
 title: Medicinal Mushroom Guide
 created: 2026-04-11
 updated: 2026-04-13
@@ -145,6 +148,3 @@ Medicinal mushrooms work primarily through immunomodulation rather than direct c
 - Extends survival in gastric cancer: 5-year survival +11% when combined with chemotherapy
 - Effective in colorectal cancer, breast cancer, and non-small cell lung cancer
 - Used as standard adjuvant in Japanese cancer treatment since 1977
-- Mechanism: Activates cytotoxic T-cells and NK cells; induces cytokine production; enhances dendritic cell maturation
-- Dose: 3 g/day standardized PSK (oral)
-- Also shows antiviral activity against HPV, HIV, and hepatitis

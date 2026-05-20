@@ -1,5 +1,8 @@
 ---
-
+title: "Mushroom Species Guide"
+tags: []
+sources: []
+---
 title: Mushroom Species Guide
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Multiple mushroom species can be grown sequentially on the same substrate. Once 
 ## See Also
 
 - [[specialty-mushroom-species]] — Agarikon, enokitake, pioppino, shaggy mane, tinder conk, artist conk, and more
-- [[mushroom-cultivation-basics]] — General cultivation processes
-- [[mushroom-substrates]] — Substrate selection and preparation
-- [[medicinal-mushroom-guide]] — Medicinal compounds and preparations

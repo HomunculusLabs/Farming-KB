@@ -1,5 +1,5 @@
 ---
-title: "holzer stone fruit varieties and growing"
+title: Permaculture Plant Propagation Methods
 tags:
   - concept
 ---

@@ -8,8 +8,8 @@ tags:
   - landscape-design
   - agriculture
   - bill-mollison and permaculture
-- permaculture | Keyline is a core technique within permaculture [[food-forest]]
-- [[paul-stamets]]
+- permaculture | Keyline is a core technique within permaculture food-forest
+- paul-stamets
 ---
 ## Practical Applications
 

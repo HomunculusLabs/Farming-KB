@@ -4,7 +4,6 @@ tags: []
 sources: []
 ---
 
-
 The ceremony serves multiple functions: healing
 physical and psychological ailments, resolving
 conflicts within the community, divining information

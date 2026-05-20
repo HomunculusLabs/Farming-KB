@@ -1,5 +1,5 @@
 ---
-title: How They Work
+title: Comparison Deep Litter vs Hot Composting
 tags: []
 type: comparison
 ---

@@ -1,5 +1,8 @@
 ---
-
+title: "Mycorrhizal Agricultural Practices"
+tags: []
+sources: []
+---
 title: Mycorrhizal Agricultural Practices
 created: 2026-04-12
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Example: A label showing 10-20-10 actually contains 10% N, 8.8% P, 8.3% K.
 - [[mycorrhizal-nitrogen-nutrition-litter-decomposition]]
 - [[mycorrhizal-nutrient-uptake-mechanisms]]
 - [[mycorrhizal-protection-against-plant-pathogens]]
-- [[mycorrhizal-research-nutrition-symbiosis]]
-- [[mycorrhizal-saprotroph-interactions-decomposition]]
-- [[mycorrhizal-succession-forest-development]]

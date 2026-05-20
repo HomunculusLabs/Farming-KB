@@ -1,5 +1,8 @@
 ---
-
+title: "Homesteading Infrastructure"
+tags: []
+sources: []
+---
 title: Homesteading Infrastructure
 created: 2026-04-10
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Zone 5: Wildlife area, observation, reference ecosystem
 
 ## Related Pages
 - [[permaculture-design]]
-- [[water-management]]
-- [[sepp-holzer-methods]]
-- [[food-forest-design]]

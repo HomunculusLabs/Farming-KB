@@ -1,5 +1,8 @@
 ---
-
+title: "Conventional Vs Organic Vs Regenerative"
+tags: []
+sources: []
+---
 title: Conventional vs Organic vs Regenerative Agriculture
 created: 2026-04-11
 updated: 2026-04-12

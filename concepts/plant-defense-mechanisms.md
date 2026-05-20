@@ -1,5 +1,8 @@
 ---
-
+title: "Plant Defense Mechanisms"
+tags: []
+sources: []
+---
 title: Plant Defense Mechanisms
 created: 2026-04-11
 updated: 2026-04-12

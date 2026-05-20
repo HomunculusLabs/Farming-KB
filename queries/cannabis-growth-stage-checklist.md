@@ -1,5 +1,8 @@
 ---
-
+title: "Cannabis Growth Stage Checklist"
+tags: []
+sources: []
+---
 title: Cannabis Growth Stage Checklist
 created: 2026-04-12
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Week-by-week checklist for an indoor photoperiod grow in [[cannabis-living-soil-
 - VPD: 1.0-1.2 kPa
 
 **What to watch for**:
-- Trichome color: mostly cloudy = peak THC; 10-30% amber = preferred harvest window
-- Pistil color: 60-80% darkened and curled = entering harvest window
-- Fan leaves yellowing and dropping (natural senescence -- normal)

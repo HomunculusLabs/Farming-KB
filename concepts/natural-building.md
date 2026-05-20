@@ -1,5 +1,8 @@
 ---
-
+title: "Natural Building"
+tags: []
+sources: []
+---
 title: Natural Building
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ See [[homesteading-legal-considerations]] for broader context.
 - **Insurance:** Difficult for non-standard construction — factor in for primary residences
 
 ## Small Homestead Structures
-
-### Duck/Chicken Coop
-- Cob or timber frame; 4 sq ft/bird inside, 8–10 sq ft in run

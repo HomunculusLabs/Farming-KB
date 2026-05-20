@@ -1,5 +1,8 @@
 ---
-
+title: "Composting Systems"
+tags: []
+sources: []
+---
 title: Composting Systems
 created: 2026-04-11
 updated: 2026-04-13
@@ -145,6 +148,3 @@ Finished compost is dark brown, crumbly, smells like forest floor (earthy, not s
 - **Temperature test:** Pile has cooled to ambient.
 - **Germination test:** Sprout radish or cress seeds in compost — >80% germination indicates maturity. Low germination suggests phytotoxicity (unfinished compost).
 - **C:N ratio:** Below 20:1 when finished.
-- **Visual:** No recognizable original materials; dark brown to black color.
-
-## Related

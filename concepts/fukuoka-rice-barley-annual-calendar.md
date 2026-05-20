@@ -1,5 +1,8 @@
 ---
-
+title: "Fukuoka Rice Barley Annual Calendar"
+tags: []
+sources: []
+---
 title: Fukuoka Rice Barley Annual Calendar
 created: 2026-04-12
 updated: 2026-04-12
@@ -145,6 +148,3 @@ For fields currently under conventional cultivation:
 5. The most important factor is "the state of mind of the farmer" -- patience and observation over intervention
 
 ## Adapting to Other Climates
-
-Fukuoka noted this method could be adapted:
-- Where water is scarce: upland rice, buckwheat, sorghum, millet

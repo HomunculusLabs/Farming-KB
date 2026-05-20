@@ -11,7 +11,7 @@ tags:
   - gene-expression
   - photosynthesis
   - daniel-chamovitz explores how this circadian clock operates as a
-form of [[plant-circadian-rhythms]] were
+form of plant-circadian-rhythms were
 documented. The daily movements of plant leaves, described by Androsthenes
 in the fourth century BCE when he observed tamarind leaves moving up and
 down each day, represent one of the oldest known examples of circadian

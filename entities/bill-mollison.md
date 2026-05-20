@@ -1,5 +1,8 @@
 ---
-
+title: "Bill Mollison"
+tags: []
+sources: []
+---
 title: Bill Mollison
 created: 2026-04-11
 updated: 2026-04-12

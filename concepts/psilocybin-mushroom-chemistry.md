@@ -1,5 +1,8 @@
 ---
-
+title: "Psilocybin Mushroom Chemistry"
+tags: []
+sources: []
+---
 title: Psilocybin Mushroom Chemistry
 created: 2026-04-12
 updated: 2026-04-12
@@ -145,6 +148,3 @@ The final step before the psilocybin-specific pathway is subject to feedback inh
 
 Non-inhibitors: 5-Methoxy-DMT, 5-methoxytryptamine, indole-3-pyruvic acid (0% inhibition). This feedback system explains why simply adding tryptamine to substrate can dramatically alter alkaloid profiles (see Gartz biotransformation below).
 
-### Gartz Tryptamine Biotransformation (1989)
-
-[[jochen-gartz]] demonstrated that adding 25 mM tryptamine HCl to a cow dung/rice substrate caused P. cubensis to hydroxylate and methylate the fed tryptamine, producing unprecedented psilocin levels:

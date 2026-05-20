@@ -1,5 +1,8 @@
 ---
-
+title: "Cannabis Plant Nutrition"
+tags: []
+sources: []
+---
 title: Cannabis Plant Nutrition
 created: 2026-04-10
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Per "Teaming With Fungi", cannabis forms arbuscular mycorrhizae with Rhizophagus
 | Tip burn | Nutrient excess or light stress | Flush with plain water, raise lights |
 
 ## Terpene and Cannabinoid Biosynthesis
-
-The biosynthesis of cannabinoids and terpenes shares precursors with fatty acid pathways:
-- Olivetolic acid production increases under UV-B light exposure

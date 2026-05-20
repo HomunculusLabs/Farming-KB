@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Fukuoka Rice Straw Mulch Fertility Cycle
 source: administrator-microsoft-word-fukuoka-textdoc.md
 source_author: comparison-natural-farming-vs-permaculture method. Rather than preparing compost
 or applying cultivator-compost-preparation-phase-methods. He saw it as an unnecessary

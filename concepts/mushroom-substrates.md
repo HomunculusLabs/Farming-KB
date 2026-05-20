@@ -1,5 +1,8 @@
 ---
-
+title: "Mushroom Substrates"
+tags: []
+sources: []
+---
 title: Mushroom Substrates
 created: 2026-04-11
 updated: 2026-04-13
@@ -145,6 +148,3 @@ Synthetic logs combine the natural log geometry with supplemented sawdust nutrit
 | Calcium carbonate (CaCO3) | 6g | pH buffer |
 | Water | 1.2-1.3L | 55-65% moisture content |
 
-Mix thoroughly, pack into 3-4 inch diameter x 12-18 inch polypropylene tubes or lay flat bags. Sterilize at 15 psi for 90-120 min. Cool to room temperature before inoculation. Inoculate with 5-10% grain spawn by weight.
-
-**Moisture test**: Squeeze a handful of substrate firmly -- a few drops of water should appear between fingers but no stream. Too dry = no drops; too wet = water streams freely.

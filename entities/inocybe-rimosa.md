@@ -6,7 +6,7 @@ tags:
   - agaricales
   - inocybaceae
   - psilocybin-north-america-pacific-northwest. The species is inedible and suspected of containing
-[[comparison-spore-print-collection-vs-spore-syringe-production]] is
+comparison-spore-print-collection-vs-spore-syringe-production is
 snuff-brown to tobacco-brown. Pleurocystidia are thin-walled, cylindrical
 to lageniform, often with a crystalline incrustation at the tip. Cheilocystidia
 are similar but more abundant.

@@ -1,5 +1,8 @@
 ---
-
+title: "Grain And Staple Crops"
+tags: []
+sources: []
+---
 title: Grain and Staple Crops for the Homestead
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Grain crop → harvest grain + straw → grain feeds [[duck-keeping]]/[[goat-kee
 | Winter wheat | 4-8 lbs | Threshing + milling required |
 | Rye | 4-7 lbs | Easiest for beginners |
 | Oats | 3-6 lbs | Hull-less varieties easier to process |
-| Corn (dry) | 6-12 lbs | Highest caloric yield per area |
-| Amaranth | 2-5 lbs | Very high nutrition per pound |
-| Buckwheat | 2-4 lbs | Short season; dual-purpose |

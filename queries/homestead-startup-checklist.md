@@ -1,5 +1,8 @@
 ---
-
+title: "Homestead Startup Checklist"
+tags: []
+sources: []
+---
 title: Homestead Startup Checklist
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 | Jul | Peak | Harvest daily, preserve, mulch heavily, monitor animals |
 | Aug | Preserve | Can/freeze/dry peak harvest, start fall crops, cover crop empty beds |
 | Sep | Harvest | Peak harvest, cure cannabis, winterize animal housing |
-| Oct | Winterize | Plant garlic/cover crops, root cellaring, clean grow space |
-| Nov | Rest | Mulch perennials, greenhouse winter growing, evaluate year |
-| Dec | Plan | Tool repair, seed orders, review and adjust systems |

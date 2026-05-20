@@ -4,7 +4,6 @@ tags: []
 sources: []
 ---
 
-
 ## Introduction — Beyond Basic Cultivation
 
 Advanced [[gourmet-mushroom-cultivation]] extends far beyond inoculating straw buckets

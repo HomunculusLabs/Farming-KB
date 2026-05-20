@@ -1,5 +1,8 @@
 ---
-
+title: "Interpreting Soil Test Results"
+tags: []
+sources: []
+---
 title: Interpreting Soil Test Results
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ For [[cannabis-living-soil-guide]] beds:
 - **Runoff pH/EC testing**: Collect runoff water from watering to monitor what's leaching. pH 6.0–7.0, EC depends on stage
 - **Tissue testing**: Leaf tissue analysis reveals what the plant is actually taking up (vs. what's in the soil). Useful when visual deficiency symptoms appear. Most university labs offer tissue analysis.
 - **Post-harvest soil test**: Test after harvest to plan next cycle's amendments
-- See [[cannabis-plant-nutrition]] for deficiency symptom identification and [[cannabis-living-soil-amendment-schedule]] for amendment timing
-
-## Quick Reference: Soil Test Action Guide

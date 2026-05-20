@@ -1,5 +1,8 @@
 ---
-
+title: "Mushroom Substrate Comparison"
+tags: []
+sources: []
+---
 title: Mushroom Substrate Comparison
 created: 2026-04-11
 updated: 2026-04-12

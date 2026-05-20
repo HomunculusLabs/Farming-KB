@@ -1,5 +1,30 @@
 ---
+title: "Soil Testing"
+tags: []
+sources: []
+---
+title: Soil Testing
+created: 2026-04-11
+updated: 2026-04-12
+type: concept
 
+tags:
+- soil
+- minerals
+- ph
+- calcium
+- phosphorus
+- microbes
+- processing
+- nutrient-cycling
+- soil-amendment
+- cover-crop
+
+sources:
+- raw/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
+- raw/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md
+- raw/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
+---
 title: Soil Testing
 created: 2026-04-11
 updated: 2026-04-12
@@ -41,9 +66,9 @@ Soil testing is the foundation of informed soil management. Without knowing your
 
 | Parameter | What It Tells You | Ideal Range (Most Crops) |
 |-----------|-------------------|--------------------------|
-| **pH** | Nutrient availability, microbial activity, toxic element solubility | 6.0–6.8 |
+| **pH** | [[nutrient-availability]], microbial activity, toxic element solubility | 6.0–6.8 |
 | **Organic Matter (OM)** | Soil structure, water retention, microbial habitat, nutrient reservoir | 3–8% |
-| **CEC** (Cation Exchange Capacity) | Soil's ability to hold nutrients; texture indicator | Varies by soil type |
+| **CEC** ([[cation-exchange-capacity]]) | Soil's ability to hold nutrients; texture indicator | Varies by soil type |
 | **Base Saturation** | Balance of Ca, Mg, K, Na, H on exchange sites | See [[interpreting-soil-test-results]] |
 | **NPK** | Primary macronutrient levels | Varies by crop |
 
@@ -70,7 +95,7 @@ Soil testing is the foundation of informed soil management. Without knowing your
 | **Lead / Heavy metals** | Urban gardens, near old structures, industrial areas |
 | **Soil biological activity** | CO2 respiration test, microbial biomass |
 | **Mycorrhizal colonization** | Root staining, to assess fungal partnerships |
-| **Soil texture** | Once per field — doesn't change, drives CEC and drainage |
+| **[[soil-texture]]** | Once per field — doesn't change, drives CEC and drainage |
 
 ## Lab Tests vs. DIY Tests
 
@@ -112,14 +137,14 @@ Soil testing is the foundation of informed soil management. Without knowing your
 
 **Soil Biological Activity (DIY):**
 - **Solvita CO2 test**: $15–25 per test. Measures microbial respiration. Mail-in or self-read.
-- **Bait lamina test**: Insert wooden sticks into soil, remove after days, measure decomposition. Qualitative measure of biological activity.
+- **Bait lamina test**: Insert wooden sticks into soil, remove after days, measure [[decomposition]]. Qualitative measure of biological activity.
 - **Earthworm count**: Dig 1 sq ft × 6 inches deep. Count worms. >10 = excellent biological activity. 0–3 = degraded.
 
 ### DIY vs Lab: When to Use Which
 
 | Situation | Recommended |
 |-----------|-------------|
-| Starting a new garden/bed | Lab test (full panel) |
+| [[starting-a-new-garden]]/bed | Lab test (full panel) |
 | Annual monitoring of established beds | Lab test every 2–3 years |
 | Quick pH check before planting | Digital pH meter |
 | Suspected micronutrient problem | Lab test (include micronutrients) |
@@ -135,7 +160,7 @@ Bad sampling produces bad data. Follow this protocol:
 - Clean stainless steel trowel or soil probe (not galvanized — zinc contamination)
 - Plastic bucket (not metal for micronutrient samples)
 - Ziploc bags (clean)
-- Permanent marker
+- [[permanent-marker]]
 
 ### Method
 1. **Divide the area into zones** — each distinct soil type, previous crop, or amendment history gets its own sample
@@ -145,6 +170,3 @@ Bad sampling produces bad data. Follow this protocol:
 
 - [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
 - [[comparison-no-till-vs-mulch-soil-management]]
-- [[soil-conditioning-chisel-plow-biological-methods]]
-- [[cannabis-living-soil-guide]]
-- [[soil-fertility-gradient-approach]]

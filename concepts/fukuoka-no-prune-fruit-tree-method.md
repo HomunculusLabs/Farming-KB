@@ -1,9 +1,9 @@
 ---
 title: "Fukuoka No Prune Fruit Tree Method"
 tags: []
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-
 
 ## Fukuoka No-Prune Fruit Tree Method
 

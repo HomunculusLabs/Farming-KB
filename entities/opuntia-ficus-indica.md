@@ -7,7 +7,7 @@ tags:
   - cactus
   - edible
   - comparison-agave-vs-prickly-pear-cultivation,
-is a species of cactus in the family Cactaceae native to [[dighton-fungal-biomass-production-aquatic-ecosystems]], and versatility as food, fodder, and raw
+is a species of cactus in the family Cactaceae native to dighton-fungal-biomass-production-aquatic-ecosystems, and versatility as food, fodder, and raw
 material for cochineal dye production. It is now naturalized across the
 Mediterranean, Africa, Australia, and parts of Asia, where it serves both as
 a productive crop and an aggressive invader.

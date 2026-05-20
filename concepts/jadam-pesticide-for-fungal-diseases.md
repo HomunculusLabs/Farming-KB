@@ -1,5 +1,8 @@
 ---
-
+title: "Jadam Pesticide For Fungal Diseases"
+tags: []
+sources: []
+---
 title: JADAM Pesticide for Fungal Diseases
 created: 2026-04-11
 updated: 2026-04-12

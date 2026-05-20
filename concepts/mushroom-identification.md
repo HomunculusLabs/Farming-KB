@@ -1,5 +1,8 @@
 ---
-
+title: "Mushroom Identification"
+tags: []
+sources: []
+---
 title: Mushroom Identification
 created: 2026-04-11
 updated: 2026-04-12

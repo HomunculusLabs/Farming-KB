@@ -1,5 +1,8 @@
 ---
-
+title: "Jadam Pesticide For Powdery Mildew"
+tags: []
+sources: []
+---
 title: JADAM Pesticide for Powdery Mildew
 created: 2026-04-11
 updated: 2026-04-12

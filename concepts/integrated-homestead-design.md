@@ -1,5 +1,8 @@
 ---
-
+title: "Integrated Homestead Design"
+tags: []
+sources: []
+---
 title: Integrated Homestead Design
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ How systems distribute across permaculture zones (see [[permaculture-design]]):
 | [[pond-and-aquaculture]] | [[duck-keeping]] | Ducks control mosquitoes, fertilize pond |
 | [[knf-preparations]] | [[goat-keeping]] | Milk→LAB, bones→WS-CaPo, manure→FMC |
 | [[cover-cropping-guide]] | [[pasture-management]] | Cover crops double as grazing |
-| [[dairy-and-cheesemaking]] | [[lactic-acid-bacteria-lab]] | Same LAB for cheese and KNF |
-
-## The 80/20 Integration Priorities

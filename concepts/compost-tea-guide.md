@@ -1,5 +1,8 @@
 ---
-
+title: "Compost Tea Guide"
+tags: []
+sources: []
+---
 title: Compost Tea Guide — Complete AACT Manual
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Ingham recommends microscope assessment at 400x magnification:
 - Compost tea cannot be shipped or stored long-term — brew fresh on-site
 - This is why commercial compost tea products are typically extracts, not true AACT
 
-## Bacterial vs. Fungal Tea
-
-| Factor | Bacterial Tea | Fungal Tea |

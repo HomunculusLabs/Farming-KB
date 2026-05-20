@@ -1,9 +1,9 @@
 ---
 title: "Bill Mollison Permaculture Designers Manual"
 tags: []
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-
 
 # Bill Mollison's Permaculture: A Designers' Manual
 

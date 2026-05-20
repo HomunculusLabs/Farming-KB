@@ -1,5 +1,8 @@
 ---
-
+title: "Psilocybin Large Scale Production"
+tags: []
+sources: []
+---
 title: Psilocybin Large Scale Production
 created: 2026-04-12
 updated: 2026-04-12
@@ -145,6 +148,3 @@ This allows for harvesting approximately every 3-4 days from a single room.
 ## Cost and Materials (1976 Prices, Gottlieb)
 
 - Mason jars: ~$1.00 each (reusable)
-- Pressure cooker: ~$20-30
-- Rye grain: ~$0.50/lb
-- Syringes: ~$0.25 each

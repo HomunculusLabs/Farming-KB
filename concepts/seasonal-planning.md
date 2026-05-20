@@ -1,5 +1,8 @@
 ---
-
+title: "Seasonal Planning"
+tags: []
+sources: []
+---
 title: Seasonal Planning — USDA Zone 7-8
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ A comprehensive monthly calendar integrating annual vegetables, perennials, cann
 | Cucumbers | Every 3 weeks | May-Jul | Direct sow/transplant |
 | Carrots | Every 3 weeks | Mar-Apr, Aug-Sep | Direct sow |
 | Brassicas | Every 4 weeks | Jun-Sep | Transplant |
-| Spinach | Every 3 weeks | Mar-Apr, Sep-Oct | Direct sow |
-
-## Fall/Winter Growing (Cold-Hardy Crops)

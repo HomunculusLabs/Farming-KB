@@ -1,5 +1,8 @@
 ---
-
+title: "Psilocybe Bohemica"
+tags: []
+sources: []
+---
 title: Psilocybe bohemica
 created: 2026-04-12
 updated: 2026-04-12

@@ -1,5 +1,8 @@
 ---
-
+title: "Fungal Research Compound Reference"
+tags: []
+sources: []
+---
 title: Fungal Research Compound Reference
 created: 2026-04-11
 updated: 2026-04-12
@@ -30,6 +33,36 @@ sources:
 - raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md
 - raw/papers/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md
 ---
+title: Fungal Research Compound Reference
+created: 2026-04-11
+updated: 2026-04-12
+type: concept
+
+tags:
+- mushrooms
+- fungi
+- biology
+- theory
+- medicine
+- ph
+- entheogen
+- fungal-diversity
+- reference
+- academia
+
+sources:
+- raw/papers/the-metabolic-pathway-of-[[psilocybin]]-production.md
+- raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md
+- raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md
+- raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
+- raw/papers/[[tryptamine]]-cubensis-gartz.md
+- raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug-ocr.md
+- raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
+- raw/papers/the-effect-of-light-upon-basidiocarp-initiation-in-psilocybe-cubensis.md
+- raw/papers/tropisms-in-the-mushroom-psilocybe-cubensis.md
+- raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md
+- raw/papers/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md
+---
 
 ## Fungal Research Compound Reference
 
@@ -40,8 +73,8 @@ Research summary of psilocybin-related fungal biology compiled from published pa
 Psilocybin is produced via the Shikimate pathway in fungal cytosol:
 
 1. **Shikimate pathway**: Phosphoenolpyruvate + eryrose-4-P -> chorismate (via 7 enzymatic steps)
-2. **Tryptophan branch**: Chorismate -> anthranilate -> tryptophan (via 6 steps)
-3. **Decarboxylation**: Tryptophan -> tryptamine (via tryptophan decarboxylase — this step is self-regulated)
+2. **[[tryptophan]] branch**: Chorismate -> anthranilate -> tryptophan (via 6 steps)
+3. **[[decarboxylation]]**: Tryptophan -> tryptamine (via [[tryptophan-decarboxylase]] — this step is self-regulated)
 4. **Hydroxylation + methylation**: Tryptamine -> psilocin -> psilocybin (exact intermediates still unclear; baeocystin and norbaeocystin are produced as phosphorylated intermediates)
 
 ### Tryptophan Decarboxylase Inhibition
@@ -94,7 +127,7 @@ Key findings: Psilocin absent in first 1-2 flushes, peaks at flush 4. Psilocybin
 
 ## P. azurescens Alkaloid Profile (Gartz 1995)
 
-Highest known alkaloid concentrations of any psilocybin mushroom:
+Highest known alkaloid concentrations of any [[psilocybin-mushroom]]:
 
 | Sample | Psilocybin (%) | Psilocin (%) | Baeocystin (%) |
 |--------|---------------|-------------|----------------|
@@ -145,6 +178,3 @@ Key finding: corn spawn x animal bedding/rice medium produced heaviest carpophor
 
 - [[fungi-in-the-environment-fungal-ecosystems]]
 - [[fungal-amber-fossils]]
-- [[singh-fungal-pellet-formation-bioremediation]]
-- [[dark-septate-endophytes]]
-- [[fungal-pathogens-human-disease]]

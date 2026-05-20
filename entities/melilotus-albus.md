@@ -4,7 +4,6 @@ tags: []
 sources: []
 ---
 
-
 It is a biennial herb growing 1 to 3 meters tall with an erect, branching stem arising from a prominent taproot in its first year.
 
 The trifoliate leaves bear elliptic to oblanceolate leaflets 15 to 30 millimeters long with finely toothed margins.

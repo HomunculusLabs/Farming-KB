@@ -1,5 +1,8 @@
 ---
-
+title: "Indoor Vs Outdoor Cannabis"
+tags: []
+sources: []
+---
 title: Indoor vs Outdoor Cannabis Cultivation
 created: 2026-04-11
 updated: 2026-04-12

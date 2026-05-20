@@ -1,6 +1,29 @@
 ---
-
+title: "Psilocybin Pharmacology Detail"
+tags: []
+sources: []
+---
 title: Psilocybin Pharmacology Detail
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+
+tags:
+- psychopharmacology
+- mushrooms
+- safety
+- chemistry
+- ph
+- entheogen
+- soil-food-web
+- pharmacology
+- water
+
+sources:
+- raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
+- raw/papers/carolina-mushrooms_08qxp.md
+---
+title: [[psilocybin-pharmacology]] Detail
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -23,11 +46,11 @@ sources:
 
 ## Psilocybin Pharmacology Detail
 
-Detailed pharmacokinetics, route of administration, toxicity data, psychological risks, and legal status for psilocybin mushrooms. See [[psilocybin-mushroom-chemistry]] for dosage guidelines, subjective effects, and acute incidents.
+Detailed pharmacokinetics, route of administration, toxicity data, psychological risks, and legal status for [[psilocybin-mushrooms]]. See [[psilocybin-mushroom-chemistry]] for dosage guidelines, subjective effects, and acute incidents.
 
 ## Gartz's Aeruginascin Hypothesis
 
-In a fascinating observation, [[jochen-gartz]] noted that users of Inocybe aeruginascens (which contains aeruginascin alongside psilocybin and baeocystin) reported predominantly positive experiences with very few "bad trips" compared to users of other species. Gartz hypothesized that aeruginascin might act as a euphoriant, counteracting anxiety-producing aspects of the psilocybin experience. This hypothesis remains untested in formal clinical settings but represents one of the few examples of a naturally occurring mushroom alkaloid potentially modulating the quality of the psychedelic experience.
+In a fascinating observation, [[jochen-gartz]] noted that users of [[inocybe-aeruginascens]] (which contains aeruginascin alongside psilocybin and baeocystin) reported predominantly positive experiences with very few "bad trips" compared to users of other species. Gartz hypothesized that aeruginascin might act as a euphoriant, counteracting anxiety-producing aspects of the psilocybin experience. This hypothesis remains untested in formal clinical settings but represents one of the few examples of a naturally occurring mushroom alkaloid potentially modulating the quality of the psychedelic experience.
 
 ## Route of Administration and Pharmacokinetics (EMCDDA Data)
 
@@ -36,7 +59,7 @@ In a fascinating observation, [[jochen-gartz]] noted that users of Inocybe aerug
 - **Oral (tea)**: Chopped mushrooms brewed in hot water; onset may be faster, nausea reduced
 - **Oral (food)**: Mixed into food — may cause more nausea/vomiting per EMCDDA
 - **Smoking**: Dried mushrooms reportedly smoked; faster but milder effects; unclear if effective
-- **IV injection**: Literature reports exist of mushroom extract injected IV — causes more severe acute effects; extremely dangerous
+- **IV injection**: Literature reports exist of [[mushroom-extract]] injected IV — causes more severe acute effects; extremely dangerous
 
 ### Onset and Duration (EMCDDA Survey Data)
 - **Onset**: 10-60 minutes depending on ingestion method, physical condition, food intake, and user experience
@@ -91,7 +114,7 @@ In a fascinating observation, [[jochen-gartz]] noted that users of Inocybe aerug
 - **LD50 (psilocybin, oral, mice):** 285 mg/kg
 - **LD50 (psilocybin, oral, rats):** 12.5 mg/kg (parenteral)
 - **Estimated lethal human dose:** Approximately 6g pure psilocybin (1000x typical recreational dose)
-- **No confirmed human fatalities** from psilocybin mushroom overdose alone
+- **No confirmed human fatalities** from [[psilocybin-mushroom]] overdose alone
 - Physiological effects during experience: mild tachycardia, elevated blood pressure, dilated pupils, mild hyperthermia — all within safe ranges
 
 ### Comparison with LSD
@@ -114,7 +137,7 @@ From clinical and self-report data compiled by Gartz:
 
 - **HPPD (Hallucinogen Persisting Perception Disorder):** Rare condition involving persistent visual disturbances after psychedelic use. Prevalence estimated at 1-4% of regular users. Not specific to psilocybin; more commonly associated with LSD.
 - **Precipitation of latent mental illness:** Psilocybin can trigger psychotic episodes in individuals with personal or family history of schizophrenia or bipolar disorder.
-- **Traumatic experiences:** "Bad trips" can be psychologically harmful, especially without preparation or integration support. Set and setting are critical.
+- **Traumatic experiences:** "Bad trips" can be psychologically harmful, especially without preparation or integration support. [[set-and-setting]] are critical.
 - **Impaired judgment:** Users may engage in risky behavior during acute effects.
 
 ### Contraindications
@@ -145,6 +168,3 @@ Psilocybin and psilocin are Schedule I under the UN Convention on Psychotropic S
 
 - [[psilocybin-in-human-evolution]]
 - [[psilocybin-pharmacology-5ht2a-receptor-mechanism]]
-- [[emcdda-psilocybin-non-addictive-profile-tolerance]]
-- [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]
-- [[metzner-harvard-psilocybin-prison-project-behavior-change]]

@@ -1,5 +1,8 @@
 ---
-
+title: "Fukuoka Philosophy In Practice"
+tags: []
+sources: []
+---
 title: Fukuoka's Philosophy in Practice
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Fukuoka's method for growing vegetables on hillsides between citrus trees:
 - **Tomatoes and eggplants**: Start in a bed and transplant; let tomatoes run along the ground (roots grow from stem nodes)
 - **Cucumbers/melons/squash**: Creeping varieties are best; lay out bamboo or branches to keep fruit off the ground
 - **Potatoes and taros**: Extremely strong; leave a few in the ground at harvest for next year
-- **White clover as living mulch**: Can smother even strong weeds like mugwort and crabgrass; enriches soil and keeps ground moist and aerated
-
-## Orchard Restoration: Barren Red Clay to Rich Soil

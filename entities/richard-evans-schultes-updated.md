@@ -1,5 +1,8 @@
 ---
-
+title: "Richard Evans Schultes Updated"
+tags: []
+sources: []
+---
 title: Richard Evans Schultes — Father of Ethnobotany
 created: 2026-04-12
 updated: 2026-04-12

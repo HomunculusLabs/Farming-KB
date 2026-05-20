@@ -1,5 +1,8 @@
 ---
-
+title: "Greenhouse Design"
+tags: []
+sources: []
+---
 title: Greenhouse Design for Homestead Scale
 created: 2026-04-11
 updated: 2026-04-12

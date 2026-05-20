@@ -1,5 +1,8 @@
 ---
-
+title: "Psilocybin Fruiting Chambers"
+tags: []
+sources: []
+---
 title: Psilocybin Fruiting Chambers and Stages
 created: 2026-04-11
 updated: 2026-04-13

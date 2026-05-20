@@ -1,5 +1,8 @@
 ---
-
+title: "Mushroom Folklore And Culture"
+tags: []
+sources: []
+---
 title: Mushroom Folklore and Culture
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ The title of [[nicholas-money]]'s book refers to an abandoned apple orchard belo
 - [[amanita-muscaria]] — Fly agaric identification, chemistry, and Siberian use
 - [[entheogen-culture]] — Entheogens across cultures
 - [[mushroom-identification-resources]] — Identification methods and safety
-- [[edible-wild-mushrooms-by-region]] — Regional foraging guide
-- [[nicholas-money]] — Author of Mr. Bloomfield's Orchard
-- [[christmas-mushroom-symbolism]] — Christmas traditions and Amanita connections

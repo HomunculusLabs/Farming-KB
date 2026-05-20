@@ -1,5 +1,8 @@
 ---
-
+title: "Pf Tek Fruiting Chamber"
+tags: []
+sources: []
+---
 title: PF TEK Fruiting Chamber
 created: 2026-04-12
 updated: 2026-04-12

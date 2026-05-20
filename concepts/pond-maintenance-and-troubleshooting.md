@@ -1,5 +1,8 @@
 ---
-
+title: "Pond Maintenance And Troubleshooting"
+tags: []
+sources: []
+---
 title: Pond Maintenance and Troubleshooting
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ A pond is the connective tissue of a regenerative homestead:
 - **Duck forage**: Pond supports ducks year-round with aquatic plants, insects, and snails. See [[duck-keeping]].
 - **Irrigation relay**: Pond overflow → swales → [[cover-cropping-guide]] fields → [[water-management]] storage. No water leaves the property.
 - **Goat/duck watering**: Gravity-fed troughs from pond reduce well dependence. See [[goat-keeping]].
-- **Pest management**: Frog populations from pond provide natural pest control in gardens. Reference [[cannabis-pest-management]].
-
-## Getting Started Checklist

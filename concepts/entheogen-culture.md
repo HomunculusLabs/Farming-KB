@@ -1,5 +1,8 @@
 ---
-
+title: "Entheogen Culture"
+tags: []
+sources: []
+---
 title: Entheogen Culture
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ The most common class. All share the indole nucleus — a structural similarity 
 - **4-Substituted tryptamines:** Psilocybin (phosphoric acid ester of 4-hydroxydimethyltryptamine) and psilocin — a structure type never before known as a naturally occurring plant constituent when discovered
 - **Ergoline alkaloids:** Lysergic acid amide (morning glories/ololiuqui), ergine, lysergic acid diethylamide (LSD — semi-synthetic from Claviceps)
 - **Beta-carboline alkaloids:** Harmine, harmaline, tetrahydroharmine (Syrian Rue, Banisteriopsis caapi) — monoamine oxidase inhibitors that enable oral DMT activity
-- **Ibogaine alkaloids:** Ibogaine (Tabernanthe iboga)
-
-### Phenylethylamines

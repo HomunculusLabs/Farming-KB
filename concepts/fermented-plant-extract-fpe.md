@@ -1,5 +1,8 @@
 ---
-
+title: "Fermented Plant Extract Fpe"
+tags: []
+sources: []
+---
 title: "Fermented Plant Extract Fpe"
 created: 2026-04-10
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Same process as FPJ but with fruit:
 ## BRV — Brown Rice Vinegar (Natural Acetic Acid)
 
 A separate KNF input that functions as both a nutrient source and an extraction solvent. See [[brown-rice-vinegar-brv]] for full recipe.
-
-Key uses with FPJ/FFJ:
-- Extracts calcium from eggshells (see [[water-soluble-calcium-wca]])

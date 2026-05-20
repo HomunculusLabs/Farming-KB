@@ -1,5 +1,8 @@
 ---
-
+title: "Animal Harvest And Processing"
+tags: []
+sources: []
+---
 title: Animal Harvest and Processing
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ See [[food-preservation-canning]] for detailed methods. [[cover-crop-quick-refer
 - **Bacon from duck/goat belly**: Cure 7 days, cold smoke 4 hours, cook to 150F
 - **Jerky**: Slice 1/4" strips, marinate, dehydrate at 160F until brittle
 
-## Sausage Making
-
-**Basic fresh sausage ratio** (adjust to taste):

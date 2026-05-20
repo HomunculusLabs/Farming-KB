@@ -1,5 +1,8 @@
 ---
-
+title: "Food Forest Plant Palette"
+tags: []
+sources: []
+---
 title: Food Forest Plant Palette
 created: 2026-04-12
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 - Harvest rainwater from any nearby structures to irrigate during establishment
 - Use [[permaculture-useful-plants-reference]] to select species suited to your climate
 
-## Related Pages
-
-- [[food-forest-design]] — Design process and overview

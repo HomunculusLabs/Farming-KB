@@ -1,5 +1,8 @@
 ---
-
+title: "Mushroom Poisoning Guide"
+tags: []
+sources: []
+---
 title: Mushroom Poisoning Guide
 created: 2026-04-12
 updated: 2026-04-12
@@ -145,6 +148,3 @@ See also [[mushroom-identification]], [[mushroom-toxicity-identification-warning
 
 ## Related
 
-- [[mushroom-toxicology-palmer-theory]]
-
-## See Also

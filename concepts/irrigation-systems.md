@@ -1,5 +1,8 @@
 ---
-
+title: "Irrigation Systems"
+tags: []
+sources: []
+---
 title: Irrigation Systems
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Recommendation: Automate Zone 1-2 (daily/weekly visits). Manual is fine for Zone
 | Mineral buildup | Hard water | Vinegar soak emitters monthly, consider acid injection system |
 | Roots in emitters | Emitters too deep, aggressive roots | Install emitters at soil surface, use root barrier discs |
 
-## Water Pressure Requirements
-
-| System | Min PSI | Ideal PSI | Max PSI |

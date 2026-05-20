@@ -4,7 +4,6 @@ tags: []
 sources: []
 ---
 
-
 The rationale was that through psycholysis, the loosening of
 psychological defenses, the patient would become more vividly aware
 of previously unconscious emotional dynamics and reaction patterns

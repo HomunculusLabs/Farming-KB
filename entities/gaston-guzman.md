@@ -1,5 +1,8 @@
 ---
-
+title: "Gaston Guzman"
+tags: []
+sources: []
+---
 title: Gaston Guzman
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource

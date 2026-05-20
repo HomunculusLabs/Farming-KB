@@ -8,7 +8,7 @@ tags:
 deficient. Deficiencies of all three plague many more grow rooms than
 expected. Often deficiencies of all three occur concurrently, especially
 when soil or water pH is above 6.5. Deficiencies are most common in arid
-climates -- Spain, the Southwestern [[cervantes-dolomite-lime-ph-buffering]] lime ph buffering, EDDHA up to pH
+climates -- Spain, the Southwestern cervantes-dolomite-lime-ph-buffering lime ph buffering, EDDHA up to pH
 8, and EDTA chelate is slow to cause leaf burn. Important: chelates
 decompose rapidly in UV light including HID bulbs and sunlight. Keep
 chelates out of light to protect them from rapid decomposition.

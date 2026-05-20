@@ -1,5 +1,8 @@
 ---
-
+title: "Jadam Pesticide For Aphids And Mites"
+tags: []
+sources: []
+---
 title: JADAM Pesticide for Aphids and Mites
 created: 2026-04-11
 updated: 2026-04-12

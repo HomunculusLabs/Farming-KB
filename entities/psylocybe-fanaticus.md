@@ -1,5 +1,8 @@
 ---
-
+title: "Psylocybe Fanaticus"
+tags: []
+sources: []
+---
 title: Psylocybe Fanaticus (PF)
 created: 2026-04-11
 updated: 2026-04-12

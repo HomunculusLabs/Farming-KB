@@ -1,5 +1,8 @@
 ---
-
+title: "David Holmgren"
+tags: []
+sources: []
+---
 title: David Holmgren
 created: 2026-04-11
 updated: 2026-04-12

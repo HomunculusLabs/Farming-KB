@@ -1,5 +1,32 @@
 ---
+title: "Fertilizer Npk Decoded"
+tags: []
+sources: []
+---
+title: Fertilizer NPK Decoded
+created: 2026-04-12
+updated: 2026-04-12
+type: query
 
+tags:
+- fertilizer
+- soil
+- nutrients
+- gardening
+- living-soil
+- npk
+- ph
+- nutrient-cycling
+- plant-growth
+- vegetables
+- reference
+
+sources:
+- concepts/cannabis-plant-nutrition.md
+- concepts/soil-fertility-management.md
+- concepts/nutrient-dense-gardening.md
+- concepts/plant-nutrient-uptake.md
+---
 title: Fertilizer NPK Decoded
 created: 2026-04-12
 updated: 2026-04-12
@@ -63,7 +90,7 @@ The remaining percentage is filler, organic matter, micronutrients, and other in
 - **Deficiency**: Dark green or purplish leaves (especially undersides), slow growth, poor root development
 - **Excess**: Can inhibit mycorrhizal formation (>70 ppm P), iron/zinc lockout
 - **Mobility**: Mobile -- deficiency shows in older leaves
-- **Note**: Very slow to become available from organic sources -- rock phosphate takes years
+- **Note**: Very slow to become available from organic sources -- [[rock-phosphate]] takes years
 
 ### Potassium (K) -- The Quality Nutrient
 - Osmoregulation, enzyme activation, stomatal function, disease resistance, cold hardiness, bud density
@@ -79,12 +106,12 @@ The remaining percentage is filler, organic matter, micronutrients, and other in
 
 | Fertilizer | NPK | Best Use | Notes |
 |---|---|---|---|
-| Blood meal | 12-0-0 | Nitrogen boost, vegetative stage | Fast-release. Can burn if overapplied. Attracts animals. |
-| Feather meal | 13-0-0 | Slow nitrogen release | Very slow release (months). Good for pre-plant amendment. |
-| Fish meal | 5-3-3 | Balanced early growth | Moderate release. Good all-around organic fertilizer. |
-| Alfalfa meal | 2-1-2 | Gentle balanced feeding | Contains triacontanol (growth stimulant). Good as mulch. |
+| [[blood-meal]] | 12-0-0 | Nitrogen boost, vegetative stage | Fast-release. Can burn if overapplied. Attracts animals. |
+| [[feather-meal]] | 13-0-0 | Slow nitrogen release | Very slow release (months). Good for pre-plant amendment. |
+| [[fish-meal]] | 5-3-3 | Balanced early growth | Moderate release. Good all-around organic fertilizer. |
+| [[alfalfa-meal]] | 2-1-2 | Gentle balanced feeding | Contains triacontanol (growth stimulant). Good as mulch. |
 | Bone meal | 3-15-0 | Phosphorus and calcium | Slow release (1-4 months). Essential for flowering and roots. |
-| Rock phosphate | 0-3-0 | Long-term P reserves | Very slow release (years). Best for building soil P over time. |
+| Rock phosphate | 0-3-0 | Long-term P reserves | Very slow release (years). Best for [[building-soil]] P over time. |
 | Bat guano (high P) | 3-10-1 | Flowering boost | Fast-acting P source. Use as top-dress during flower. |
 | Bat guano (high N) | 10-3-1 | Vegetative growth | Fast-acting N source. Water-soluble for teas. |
 | Kelp meal | 1-0.5-2 | Micronutrients + K | Contains all trace minerals, cytokinins, auxins. Excellent all-around. |
@@ -145,6 +172,3 @@ Most organic fertilizers weigh roughly 1 lb per quart (varies). So 0.83 lbs bloo
 
 - [[comfrey-tea-liquid-fertilizer]]
 - [[jadam-wild-grass-liquid-fertilizer]]
-- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
-- [[fukuoka-textdoc-no-weeding-no-fertilizer-no-pruning-orchard-conclusion]]
-- [[fukuoka-five-principles-natural-farming-no-tillage-no-fertilizer]]

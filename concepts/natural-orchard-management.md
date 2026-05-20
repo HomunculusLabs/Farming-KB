@@ -7,7 +7,7 @@ tags:
   - fruit-trees
   - pruning
   - natural-farming-guide-integrated-pest-management
-- [[natural-farming]]
+- natural-farming
 - permaculture
 type: concept
 ---

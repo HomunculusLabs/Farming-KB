@@ -1,5 +1,8 @@
 ---
-
+title: "Oriental Herbal Nutrient Ohn"
+tags: []
+sources: []
+---
 title: Oriental Herbal Nutrient Ohn
 created: 2026-04-10
 updated: 2026-04-12
@@ -145,6 +148,3 @@ For crops that are visibly struggling, yellowing, or recovering from damage:
 | BRV | 2 ml |
 | OHN | 1 ml |
 | FAA | 1 ml (for nitrogen-deficient crops) |
-| WS-Ca | 1 ml (for over-luxurious, soft growth) |
-
-Apply every 3-5 days until recovery is visible.

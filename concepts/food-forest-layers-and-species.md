@@ -1,5 +1,8 @@
 ---
-
+title: "Food Forest Layers And Species"
+tags: []
+sources: []
+---
 title: Food Forest Layers and Species
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 - **Vine**: Passionfruit (maypop) — dies back, shares late-season interest
 - **Animal integration**: Fallen fruit feeds ducks and goats
 
-## Nitrogen Fixers by Layer
-| Layer | Species | Fix Rate (lb N/acre/yr) |
-|-------|---------|------------------------|

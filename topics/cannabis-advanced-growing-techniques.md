@@ -22,7 +22,7 @@ sources:
   - "Green, Greg. The Cannabis Grow Bible"
   - "Rosenthal, Ed. The Cannabis Encyclopedia"
   - "Clarke, Robert Connell. Marijuana Botany"
-  - "Oner, S.T. [[cannabis-sativa]] Volume 3: The Essential Guide"
+  - "Oner, S.T. cannabis-sativa Volume 3: The Essential Guide"
 type: topic
 ---
 

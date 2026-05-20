@@ -1,5 +1,8 @@
 ---
-
+title: "Lactic Acid Bacteria Lab"
+tags: []
+sources: []
+---
 title: Lactic Acid Bacteria Lab
 created: 2026-04-11
 updated: 2026-04-12

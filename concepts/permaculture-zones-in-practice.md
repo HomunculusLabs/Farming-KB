@@ -1,5 +1,8 @@
 ---
-
+title: "Permaculture Zones In Practice"
+tags: []
+sources: []
+---
 title: Permaculture Zones in Practice
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 - Connect Zone 5 to Zone 4 with hedgerow corridors for wildlife movement.
 
 ## Zone Summary for This Homestead
-
-| Zone | Key Systems | Visit Frequency | Priority |
-|------|-------------|-----------------|----------|

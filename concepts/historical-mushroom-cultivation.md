@@ -1,5 +1,8 @@
 ---
-
+title: "Historical Mushroom Cultivation"
+tags: []
+sources: []
+---
 title: Historical Mushroom Cultivation
 created: 2026-04-11
 updated: 2026-04-12

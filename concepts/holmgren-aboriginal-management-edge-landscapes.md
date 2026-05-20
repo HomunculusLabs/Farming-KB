@@ -10,9 +10,9 @@ tags:
 crop and pasture land. Drainage and irrigation channels, ponds, and dams all
 increase the land-water interface. The change from small-scale intensive systems
 to large-scale monocultures eliminated much of this landscape complexity in edges,
-reducing [[permaculture]]
-- [[holmgren-genetic-engineering-and-evolution]]
-- [[holmgren-wind-power-and-renewable-energy-debate]]
+reducing permaculture
+- holmgren-genetic-engineering-and-evolution
+- holmgren-wind-power-and-renewable-energy-debate
 type: concept
 ---
 

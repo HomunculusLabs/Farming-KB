@@ -4,7 +4,7 @@ created: 2026-04-28
 tags:
   - fungal-ecology
   - basidiomycota-classification-major-clades
-- [[fungal-ecology-forest-ecosystems]]
+- fungal-ecology-forest-ecosystems
 type: concept
 ---
 ## Practical Applications

@@ -1,9 +1,9 @@
 ---
 title: "Fukuoka Soil Building Method"
 tags: []
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-
 
 ## Fukuoka Soil Building Method
 

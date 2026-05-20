@@ -5,7 +5,7 @@ tags:
   - bioregionalism
   - governance
   - holmgren-community-design-and-intentional-communities,
-[[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+arbuscular-mycorrhizal-inoculum-production-best-practices with
 creative adaptation to local conditions and emerging challenges.
 type: concept
 ---

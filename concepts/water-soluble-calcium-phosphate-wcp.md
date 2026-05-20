@@ -1,5 +1,8 @@
 ---
-
+title: "Water Soluble Calcium Phosphate Wcp"
+tags: []
+sources: []
+---
 title: Water-Soluble Calcium Phosphate (WS-CaPo)
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ WS-CaPo provides the phosphoric acid compounds that fuel this metabolic shift. W
 
 - [[knf-preparations]] — all KNF inputs and application schedules
 - [[nutritive-cycle-theory]] — when to apply WS-CaPo
-- [[water-soluble-calcium-wca]] — WS-Ca for calcium-specific needs
-- [[brown-rice-vinegar-brv]] — BRV extraction solvent recipe
-- [[fish-amino-acid-faa]] — source of fish bones for WS-CaPo

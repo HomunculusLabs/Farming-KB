@@ -7,8 +7,8 @@ tags:
   - food-crop
   - fukuoka-american-agriculture-fields-of-death. The Three Sisters
 polyculture — bean, maize, and squash — is a celebrated example of
-[[jadam-canker-leaf-spot-pesticide]],
-anthracnose, bacterial blight, bean rust, and [[cannabis-root-rot-prevention-and-treatment]] complexes.
+jadam-canker-leaf-spot-pesticide,
+anthracnose, bacterial blight, bean rust, and cannabis-root-rot-prevention-and-treatment complexes.
 ---
 
 ## Overview

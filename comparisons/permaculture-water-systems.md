@@ -1,5 +1,8 @@
 ---
-
+title: "Permaculture Water Systems"
+tags: []
+sources: []
+---
 title: Permaculture Water Systems Comparison
 created: 2026-04-11
 updated: 2026-04-12

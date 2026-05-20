@@ -1,9 +1,9 @@
 ---
 title: "Mollison Designers Sun Trap And Frost Pocket Design"
 tags: []
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-
 
 ## Sun Trap and Frost Pocket Design
 

@@ -1,5 +1,8 @@
 ---
-
+title: "Homesteading Livestock Comparison"
+tags: []
+sources: []
+---
 title: Homesteading Livestock Comparison
 created: 2026-04-11
 updated: 2026-04-12

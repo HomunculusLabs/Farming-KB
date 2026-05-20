@@ -11,7 +11,7 @@ permaculture-designers-manual-bamboo, Bill
 Mollison provides detailed guidance on selecting suitable dam sites and
 designing storage systems that maximise water availability while minimising
 cost, maintenance, and ecological impact. Properly sited and constructed
-small dams provide irrigation, stock water, fire protection, [[biochar-and-fungi]] and [[soil-testing]]:** Simple field tests include the roll test (squeezing
+small dams provide irrigation, stock water, fire protection, biochar-and-fungi and soil-testing:** Simple field tests include the roll test (squeezing
   moist soil into a ribbon; longer ribbons indicate higher clay content)
   and the pond test (filling a small hole with water and observing the
   seepage rate).

@@ -1,5 +1,8 @@
 ---
-
+title: "Archaeology Of Psychedelic Mushrooms"
+tags: []
+sources: []
+---
 title: Archaeology Of Psychedelic Mushrooms
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
 
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.

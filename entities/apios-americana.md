@@ -25,7 +25,7 @@ sources:
   - Bamberg, J.B. & Hanneman, R.E. (1991). "Origin of the tuber-bearing species
     Apios americana." American Journal of Botany 78(4): 529-538.
   - USDA NRCS (2024). "Apios americana Plant Guide." plants.usda.gov.
-  - Kindscher, K. (1987). [[polypore-fungi-eastern-north-america]] America. It produces
+  - Kindscher, K. (1987). polypore-fungi-eastern-north-america America. It produces
 chains of edible tubers along its root system that are rich in protein and starch,
 making it one of the most promising underutilized perennial food crops for
 temperate permaculture and food-forest systems.

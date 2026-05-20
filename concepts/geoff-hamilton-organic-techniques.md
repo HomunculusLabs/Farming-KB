@@ -1,5 +1,8 @@
 ---
-
+title: "Geoff Hamilton Organic Techniques"
+tags: []
+sources: []
+---
 title: Organic Gardening Techniques (Geoff Hamilton)
 created: 2026-04-11
 updated: 2026-04-12
@@ -145,6 +148,3 @@ See [[companion-planting-reference]] for full details. Hamilton's top combinatio
 - [[greenhouse-design]] — Protected growing structures
 - [[orchard-management]] — Fruit tree care
 - [[mulching-guide]] — Mulch types and application
-- [[no-till-gardening-method]] — Minimum disturbance soil management
-- [[weed-management-strategies]] — Weed ecology and control
-- [[seasonal-planning]] — Monthly task calendar
