@@ -9,7 +9,7 @@ sources: []
 
 # Solar Dehydrator Plans
 
-A solar food dehydrator uses the sun's energy to preserve fruits, vegetables, herbs, and meats without electricity. Well-designed models reach 110-140F internally — the ideal range for food dehydration — using nothing but sunlight and natural convection. This is one of the most practical and cost-effective off-grid preservation tools available to a homesteader.
+A solar food dehydrator uses the sun's energy to preserve fruits, vegetables, herbs, and meats without electricity. Well-designed models reach 110-140F internally — the ideal range for food dehydration — using nothing but sunlight and natural convection. This is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most practical and cost-effective off-grid preservation tools available to a homesteader.
 
 ## Design Principles
 
@@ -26,7 +26,7 @@ The key design variables are:
 
 ## The Indirect Solar Dehydrator (Recommended Design)
 
-The indirect design separates the solar collector from the drying chamber. Sun heats air in the collector, and the heated air flows into the drying chamber. This prevents direct sunlight from hitting the food, preserving nutrients and color better than direct-sun drying.
+The indirect design separates the solar collector from the drying chamber. Sun heats air [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] collector, [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] heated air flows into the drying chamber. This prevents direct sunlight from hitting the food, preserving [[primary-nutrients-and-mineral-sources-in-soils]] color better than direct-sun drying.
 
 ### Materials List
 
@@ -46,7 +46,7 @@ The indirect design separates the solar collector from the drying chamber. Sun h
 2. **Install the absorber plate** — cut sheet metal to fit inside the collector. Paint it matte black. Mount it above the insulation with a 1-inch air gap beneath (the air flows under the plate).
 3. **Add the glazing** — attach polycarbonate or glass to the top of the collector. Seal all edges with silicone and weatherstripping to prevent air leaks.
 4. **Build the drying chamber** — construct a box that sits on top of or behind the collector, with an opening connecting to the collector output. Insulate all walls and the bottom.
-5. **Add airflow baffles** — create a smooth transition from collector to drying chamber. The air should flow evenly across all trays, not channel through the center.
+5. **Add airflow baffles** — [[query-how-do-i-create-a-xeriscape-or-drought-tolerant-garden]] smooth transition from collector to drying chamber. The air should flow evenly across all trays, not channel through the center.
 6. **Build trays** — construct wooden frames that fit snugly inside the drying chamber. Stretch screen material taut and staple. Space trays 3-4 inches apart vertically. Use slide rails for easy removal.
 7. **Install vents** — cut adjustable vents at the bottom front of the collector (intake) and the top back of the drying chamber (exhaust). Cover with hinged doors or sliding covers.
 8. **Seal everything** — caulk all joints, apply weatherstripping to removable panels, and ensure the only air movement is through the intake and exhaust vents.
@@ -77,7 +77,7 @@ Rule of thumb: you need approximately 1 square foot of collector area per square
 ## What to Dehydrate
 
 - **Fruits**: apples, pears, peaches, apricots, berries, bananas, mangoes. Pretreat apples and pears with lemon water to prevent browning.
-- **Vegetables**: tomatoes, peppers, zucchini, kale, spinach, green beans, carrots, beets. Blanch vegetables first for better color and nutrient retention.
+- **Vegetables**: tomatoes, peppers, zucchini, kale, spinach, green beans, carrots, beets. Blanch vegetables first for better color [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]] biofilms-and-nutrient-retention]].
 - **Herbs**: basil, oregano, thyme, mint, sage, rosemary. Cut stems before flowering for peak oil content.
 - **Meats**: lean beef, venison, turkey for jerky. Slice 1/4 inch thick, marinate, and dry at 145F minimum.
 - **Other**: soaked and cooked beans, fruit leather, granola, soaked grains

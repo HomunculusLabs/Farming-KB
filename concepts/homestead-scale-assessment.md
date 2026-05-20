@@ -23,7 +23,7 @@ Determining the right scale for a homestead operation depends on goals, availabl
 - Investment: $500-5,000 startup
 - Tax implications: generally not reportable (below self-employment threshold); cannot claim farm deductions
 - Insurance: standard homeowner's policy likely sufficient
-- Risk: minimal financial risk; time and emotional investment only
+- Risk: minimal financial risk; time [[metzner-empathogen-discovery-mdma-psychotherapy-and-emotional-opening]] investment only
 
 ### 2. Side Hustle Homestead
 - Revenue: $2,000-15,000/year
@@ -69,7 +69,7 @@ Determining the right scale for a homestead operation depends on goals, availabl
 |---|---|---|---|
 | Eggs (50 hens) | 1,000 dozen | $6 | $6,000 |
 | Broilers (200 birds, 2 batches) | 200 | $25 | $5,000 |
-| Grass-fed beef (5 head) | 5 | $2,500 | $12,500 |
+| Grass-[[grass-fed-beef-production]] (5 head) | 5 | $2,500 | $12,500 |
 | Pastured pork (10 pigs) | 10 | $900 | $9,000 |
 | Vegetable CSA (30 members) | 30 shares | $600 | $18,000 |
 | Farmers market vegetables | 30 weeks | $300/week | $9,000 |
@@ -83,12 +83,12 @@ Note: these are gross revenue estimates. Net profit is typically 30-60% of gross
 ## Assessing Your Situation
 
 ### Key Questions
-1. What are your goals? (food security, income, lifestyle, community)
+1. [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] your goals? (food security, income, lifestyle, community)
 2. How much time can you commit? (be realistic about other obligations)
 3. How much capital do you have available? (savings, loans, family support)
 4. How much land do you have or can you access? (own, lease, borrow)
 5. What are your skills and experience? (farming, business, marketing)
-6. What is your risk tolerance? (can you absorb a bad year?)
+6. [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] your risk tolerance? (can you absorb a bad year?)
 7. Who is your market? (local, regional, online)
 8. What is your timeline? (building a farm takes 3-7 years to reach full potential)
 
@@ -102,14 +102,14 @@ Score each category 1-5 (1 = very limited, 5 = abundant):
 - Skills and experience
 - Market access (proximity to customers)
 - Support network (family, mentors, community)
-- Physical health and energy
+- Physical [[query-what-is-the-role-of-actinomycetes-in-soil-health-and-decomposition]] ropical-island-diet-diversification-and-energy-resources]]
 - Business/marketing skills
 
 Total score interpretation:
 - 8-16: start at hobby level, focus on learning
 - 17-24: side hustle is achievable, plan for growth
 - 25-32: part-time farm is realistic with planning
-- 33-40: full-time farm is possible but still requires 3-5 years to build
+- 33-40: full-time farm is possible but still requires 3-5 years [[query-how-to-build-and-use-a-solar-food-dehydrator]]
 
 ## Growth Path
 

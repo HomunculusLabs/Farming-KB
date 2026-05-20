@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Root vegetables are among the most practical crops for winter food self-sufficiency because many store for months under the right conditions without any processing. A proper root cellar or modified cold storage setup can keep potatoes, carrots, beets, parsnips, turnips, and rutabagas fresh from harvest through spring. The key is understanding each crop's specific requirements for temperature, humidity, and handling.
+Root vegetables are among the most practical [[query-how-to-use-cover-crops-for-heavy-clay-soil-improvement]] winter [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]-sufficiency because many store for months under the right conditions without any processing. A proper root cellar or modified cold storage setup can keep potatoes, carrots, beets, parsnips, turnips, and rutabagas fresh from harvest through spring. The key is understanding each crop's specific requirements for temperature, humidity, and handling.
 
 ## General Harvest and Handling Principles
 
@@ -18,14 +18,14 @@ Successful long-term storage begins at harvest:
 1. **Harvest at the right time** — Most roots store best when fully mature but before hard freezes damage them
 2. **Harvest in dry weather** — Wet roots introduce excess moisture into storage
 3. **Handle gently** — Bruised, cut, or punctured roots spoil quickly and can infect neighboring roots
-4. **Do not wash** — Leave soil on roots; it acts as a protective barrier. Brush off excess loose dirt only
+4. **Do not wash** — Leave soil on roots; it acts [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] protective barrier. Brush off excess loose dirt only
 5. **Cure if needed** — Some crops benefit from a curing period before storage (see individual crop sections)
 6. **Sort rigorously** — Only store perfect, undamaged roots. Use damaged ones immediately
 7. **Remove tops** — Cut vegetable tops 1/2 inch above the root. Do not tear or pull tops off
 
 ## Storage Environment Basics
 
-Root vegetable storage depends on three variables: temperature, humidity, and ventilation.
+[[root-vegetable-growing-guide-carrots-beets-turnips-parsnips-radishes]] storage depends on three variables: temperature, humidity, and ventilation.
 
 ### Temperature Zones
 
@@ -41,7 +41,7 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 - **Temperature consistency** — Fluctuations cause condensation, sprouting, and decay. Aim for variation of less than 5F
 - **Humidity** — Too dry: roots shrivel. Too wet: rot and mold. Most roots need high humidity
 - **Ventilation** — Roots are alive and respire. They need oxygen and produce carbon dioxide. Stagnant air causes off-flavors and decay
-- **Darkness** — Light causes potatoes to turn green (solanine production) and most roots to sprout
+- **Darkness** — Light causes potatoes [[query-what-causes-cannabis-leaves-to-turn-yellow]] green (solanine production) and most roots to sprout
 - **Air circulation** — Roots should not be packed tightly. Air must flow around them
 
 ### Potatoes
@@ -59,7 +59,7 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 
 ### Storage Methods
 
-**In sand or sawdust (best for home storage):**
+**In sand or sawdust ([[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] home storage):**
 1. Use a clean container (wooden crate, plastic bin, or cardboard box)
 2. Alternate layers of carrots with slightly damp sand or sawdust
 3. Do not let carrots touch each other (prevents rot spread)
@@ -67,7 +67,7 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 5. Store at 32-35F
 6. Storage life: 4-6 months
 
-**In the ground (overwinter):**
+**[[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] ground (overwinter):**
 1. Mulch heavily (12-18 inches of straw or leaves) before ground freezes
 2. Harvest as needed through winter
 3. Must be harvested before spring growth begins

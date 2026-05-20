@@ -9,11 +9,11 @@ sources: []
 
 # Wild Yeast Bread Baking
 
-Wild yeast bread baking uses naturally occurring yeast and bacteria to leaven bread, producing superior flavor, texture, and keeping quality compared to commercial yeast. The sourdough tradition connects modern bakers to thousands of years of bread-making.
+Wild yeast bread baking uses naturally occurring yeast and bacteria to leaven bread, producing superior flavor, texture, and keeping quality compared [[mckenna-tobacco-shamanic-to-commercial-dilution-process]] yeast. The sourdough tradition connects modern bakers to thousands of years of bread-making.
 
 ## Wild Yeast Capture
 
-Wild yeast (primarily Saccharomyces exiguus and Candida milleri) lives on grains, fruits, and in the air. Combined with [[lactobacillus]] bacteria, these organisms form a stable symbiotic culture -- a sourdough starter.
+Wild yeast (primarily Saccharomyces exiguus and Candida milleri) lives on grains, fruits, and [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] air. Combined with [[lactobacillus]] bacteria, these organisms form a stable symbiotic culture -- a sourdough starter.
 
 ### Creating a Starter from Scratch
 
@@ -36,7 +36,7 @@ Days 6-14:
 ### Alternative Capture Methods
 
 - Organic fruit method: add a few organic grapes or unwashed berries to the initial mix
-- Rye flour method: rye ferments faster due to higher [[enzyme]] and mineral content
+- Rye flour method: rye ferments faster due to higher [[enzyme]] [[mollison-designers-soil-ph-and-mineral-amendments]] content
 - Whole grain method: whole wheat or whole rye has more wild organisms than white flour
 
 ## Sourdough Maintenance
@@ -49,7 +49,7 @@ Days 6-14:
 
 ### Weekly Maintenance (Refrigerator)
 - Store in refrigerator after a peak feeding
-- Feed once a week: discard most, feed 1:3:3 ratio, leave at room temp 2-4 hours, return to fridge
+- Feed once a week: discard most, feed 1:3:3 ratio, leave at room temp 2-4 hours, [[emcdda-return-to-nature-megatrend-mushroom-appeal]] fridge
 - For baking: remove from fridge, feed, wait until doubled (may take 2 feedings)
 
 ### Flour Selection for Feeding
@@ -68,7 +68,7 @@ Days 6-14:
 - 18g salt (2.5% of flour weight)
 
 ### Method
-1. Autolyse: mix flour and water, rest 30-60 minutes (develops gluten without kneading)
+1. Autolyse: mix flour [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]], rest 30-60 minutes (develops gluten without kneading)
 2. Add starter and salt, mix until incorporated
 3. Bulk fermentation: 4-6 hours at room temperature (75-80F ideal)
    - Perform stretch-and-folds every 30 minutes for first 2 hours (4 sets)
@@ -88,7 +88,7 @@ Using locally grown grains connects bread to terroir and supports regional grain
 ### Heritage Wheat Varieties
 - Red Fife: Canadian heritage wheat, nutty and complex flavor, moderate protein (12-13%)
 - Turkey Red: hard red winter wheat brought to Kansas in 1870s, excellent for bread
-- Sonora: soft white wheat, low protein (9-10%), best for tortillas and flatbreads
+- Sonora: soft white wheat, low protein (9-10%), [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] tortillas and flatbreads
 - Emmer: ancient grain, 14-16% protein, nutty, requires adjustment to hydration
 - Einkorn: oldest cultivated wheat, lower gluten, requires gentle handling
 - Spelt: related to wheat but distinct species, nutty flavor, some gluten-sensitive people tolerate it

@@ -9,7 +9,7 @@ sources: []
 
 # Livestock Fencing Guide
 
-Fencing is one of the most important investments on a homestead. Good fencing
+Fencing is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] uery-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] investments [[query-how-to-start-beekeeping-on-a-homestead]]. Good fencing
 keeps animals where they belong, protects them from predators, and enables
 rotational grazing systems that improve pasture health. The right fence depends
 on the species, terrain, budget, and management style. This guide covers the
@@ -18,7 +18,7 @@ major fencing types used in homestead livestock systems.
 ## Electric Fencing
 
 ### Overview
-Electric fencing is the most versatile and cost-effective option for
+Electric fencing [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most versatile and cost-effective option for
 rotational grazing and temporary paddocks. It works by delivering a brief,
 high-voltage pulse that trains animals to respect the barrier. The psychological
 barrier is as important as the physical one.
@@ -54,7 +54,7 @@ barrier is as important as the physical one.
 ### Portable Electric Fencing
 - **Electric net fencing:** Pre-fabricated nets with posts built in. 12-48
   inch heights. Ideal for poultry, sheep, and goats in rotational systems.
-  Quick to set up and move.
+  Quick [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] uery-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]] and move.
 - **Step-in post + poly wire:** More flexible than net fencing. Use 3-5
   strands for larger livestock.
 - **Key consideration:** net fencing requires strong energizers (1+ joule)
@@ -124,7 +124,7 @@ longest-lasting fencing option, with a lifespan of 40+ years.
 ### Pros and Cons
 - Pros: extremely durable, lowest long-term cost, clean appearance, easy
   maintenance, excellent for large properties.
-- Cons: high initial cost, requires specialized knowledge and tools, less
+- Cons: high initial cost, requires specialized [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] tools, less
   forgiving of poor installation, dangerous if broken wire snaps back.
 
 ## See Also

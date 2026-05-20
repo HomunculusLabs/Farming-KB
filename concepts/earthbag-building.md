@@ -9,12 +9,12 @@ sources: []
 
 # Earthbag Building
 
-[[earthbag-construction]] uses polypropylene sandbags filled with subsoil to build walls, domes, and vaults. Developed by architect Nader Khalili in the 1990s, this technique is extremely affordable, requires minimal tools, and produces structures that are resistant to earthquakes, floods, hurricanes, and fire. Earthbag building is one of the most accessible [[natural-building]] methods for homesteaders.
+[[earthbag-construction]] uses polypropylene sandbags filled with subsoil to build walls, domes, and vaults. Developed by architect Nader Khalili in the 1990s, this technique is extremely affordable, requires minimal tools, and produces structures that are resistant to earthquakes, floods, hurricanes, and fire. Earthbag building is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most accessible [[natural-building]] methods for homesteaders.
 
 ## Core Advantages
 
-- Extremely low cost: Bags cost $0.10-0.50 each; fill material is often free
-- Simple tools: Only shovels, tampers, buckets, and a level needed
+- Extremely [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]: Bags cost $0.10-0.50 each; fill material is often free
+- Simple tools: Only shovels, tampers, buckets, [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] level needed
 - Disaster resistant: Flexible walls survive earthquakes; flood-resistant; fireproof
 - Fast learning curve: Basic technique can be learned in a weekend workshop
 - Uses local materials: Subsoil from your site, bags, barbed wire
@@ -79,7 +79,7 @@ In areas with moisture problems or poor soil:
 1. After each course is tamped, lay two strands of barbed wire along the top
 2. Keep wire taut — it locks the next course in place
 3. The barbs grip both the bags above and below
-4. This is the primary reinforcement and earthquake resistance mechanism
+4. This [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] primary reinforcement and earthquake resistance mechanism
 
 ### Keeping Walls Plumb
 
@@ -91,13 +91,13 @@ In areas with moisture problems or poor soil:
 
 ## Dome Building
 
-Earthbag domes are the most dramatic application of this technique. They require no wooden roof structure and create incredibly strong, weatherproof shelter.
+Earthbag domes [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]] dramatic application of this technique. They require no wooden roof [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]] create incredibly strong, weatherproof shelter.
 
 ### Key Principles
 
 - Start with a circular base (typically 12-20 feet diameter)
 - Each course leans slightly inward (about 1-2 inches per course)
-- The catenary arch is the ideal shape — a hanging chain forms this curve in reverse
+- The catenary arch [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] shape — a hanging chain forms this curve in reverse
 - Windows and doors are built with temporary forms (plywood bucks) that remain embedded
 - An arch or lintel is required above every opening
 - The top is closed with a keystone bag or a small capstone

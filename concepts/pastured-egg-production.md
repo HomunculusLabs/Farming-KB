@@ -13,21 +13,21 @@ Pastured eggs come from hens raised on living pasture with access to fresh forag
 
 ## Mobile Coop Systems
 
-The cornerstone of pastured egg production is the mobile coop -- a shelter that protects birds from predators and weather while being moved to fresh pasture regularly.
+The cornerstone of pastured egg production [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] mobile coop -- a shelter that protects birds from predators and weather while being moved to fresh pasture regularly.
 
 ### Eggmobile (Joel Salatin Model)
 - Enclosed shelter on wheels, holding 50-100 hens
 - Roosting space inside, nesting boxes on one side
-- Moved behind grazing cattle (birds spread manure, eat fly larvae)
+- Moved behind grazing cattle (birds spread manure, eat [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]])
 - Floorless or slatted floor (manure drops directly on pasture)
 - Requires a portable electric fence perimeter
 
 ### Chicken Tractor (Lightweight)
 - Smaller units for 10-30 birds
 - Can be moved daily by one person
-- A-frame or hoop house design
+- A-frame or [[query-what-is-the-difference-between-a-high-tunnel-and-a-hoop-house]] ter-mushroom-growing-house-design-site-selection-tropical-climates]]
 - Lightweight materials: PVC, cattle panels, plywood
-- Best for homestead-scale production
+- [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] homestead-scale production
 
 ### Hoop Coop on Skids
 - Larger permanent-feeling structure (50-200 birds)
@@ -122,7 +122,7 @@ Pastured eggs vs. conventional:
 
 ### Water
 - 1 gallon per 5 hens per day (more in heat)
-- Heated waterers in winter
+- Heated waterers [[weed-control-in-winter-greenhouses]]
 - Clean and refill daily
 
 ## Economics

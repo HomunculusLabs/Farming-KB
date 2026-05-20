@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Echinacea, commonly known as purple coneflower, is one of the most
+Echinacea, commonly known as purple coneflower, is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most
 commercially important medicinal herbs in North America. Native to the
 prairies and open woodlands of central and eastern North America, echinacea
 has been used by Indigenous peoples for centuries and is now one of the most
@@ -29,9 +29,9 @@ are primarily used medicinally: E. purpurea, E. angustifolia, and E. pallida.
 | Hardiness | Zones 3-9 | Zones 3-8 | Zones 3-8 |
 | Flower color | Purple-pink | Purple-pink | Pale pink |
 
-E. purpurea is the most commonly cultivated due to its vigor and ease of
+E. purpurea [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most commonly cultivated due to its vigor and ease of
 growth. E. angustifolia is considered by many herbalists to produce the most
-potent medicine, particularly in the root, but is slower growing and more
+potent medicine, particularly [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] root, but is slower growing and more
 demanding.
 
 ## Medicinal Uses
@@ -67,8 +67,8 @@ but performs best in moderately fertile, slightly alkaline to neutral soil
 (pH 6.0-7.0). Once established, plants are highly drought-tolerant.
 
 ### Soil Preparation
-Prepare beds by loosening soil to a depth of 12-18 inches. For root harvest
-species (E. angustifolia), deeper soil preparation (18-24 inches) encourages
+Prepare beds by loosening [[nutrient-movement-through-soil-to-plant-roots]] a depth of 12-18 inches. For root harvest
+species (E. angustifolia), deeper [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] (18-24 inches) encourages
 the development of large, harvestable taproots. Incorporate [[compost]] but avoid
 excessive nitrogen, which promotes foliage at the expense of root development.
 
@@ -121,7 +121,7 @@ Echinacea is relatively trouble-free but watch for:
 
 Aerial parts (E. purpurea):
 - Harvest flowers and upper leaves during peak bloom
-- Cut stems above the lowest set of healthy leaves to allow regrowth
+- Cut stems above the lowest set of healthy [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] allow regrowth
 - Best potency when harvested on dry, sunny days
 
 Roots:

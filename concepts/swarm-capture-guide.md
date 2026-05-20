@@ -9,8 +9,8 @@ sources: []
 
 # Swarm Capture Guide
 
-Swarming is the natural means of honey bee colony reproduction. A swarm
-represents a free colony for the beekeeper who can capture and rehive it.
+Swarming [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] natural means of honey bee colony reproduction. A swarm
+represents a free colony [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] beekeeper who can capture and rehive it.
 This guide covers swarm biology, capture techniques, hive baiting, and
 successful rehiving.
 
@@ -29,7 +29,7 @@ successful rehiving.
    bottoms)
 2. The old queen lays eggs in queen cells and loses body weight for flight
 3. Scout bees locate a new nesting site and communicate its location
-4. On a warm morning (typically 10AM-2PM), 50-60% of the colony exits with
+4. [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] warm morning (typically 10AM-2PM), 50-60% [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] colony exits with
    the old queen
 5. The swarm clusters on a nearby object (tree branch, fence post, building)
    within 50-200 feet of the parent hive
@@ -62,7 +62,7 @@ likely it is to abscond to a permanent location. Capture promptly.
 ### Capturing from a High Branch
 1. If accessible by ladder, use a bucket on a pole or a swarm-catching bag
 2. Alternatively, prune the branch and lower it carefully to a ground sheet
-3. If too high, set up a baited swarm trap (see below) nearby and hope
+3. If too high, [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]] a baited swarm trap (see below) nearby and hope
    scouts find it first
 
 ### Capturing from a Structure (Wall, Fence, Chimney)
@@ -94,7 +94,7 @@ hive can catch swarms without any effort during swarm season.
 
 ### Placement Strategy
 - Place traps 50-200 yards from known colonies
-- Install by early April in temperate climates
+- Install by early April in [[query-how-to-grow-and-use-oca-in-temperate-climates]]
 - Check traps weekly during swarm season (May-June)
 - Use Swarm Commander or lemongrass oil as attractant
 - Place near tree lines or hedgerows along flight paths
@@ -116,7 +116,7 @@ hive can catch swarms without any effort during swarm season.
 
 ### After-Care
 - Feed 1:1 syrup for the first 2-3 weeks to stimulate comb building
-- Reduce entrance for the first week to prevent robbing
+- Reduce entrance for the first week [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]] robbing
 - Monitor Varroa — swarms carry mites from the parent colony; treat proactively
 - Check for disease during the first inspection
 

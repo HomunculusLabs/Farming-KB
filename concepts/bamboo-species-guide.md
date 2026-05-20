@@ -17,7 +17,7 @@ Bamboos (Family: Bambusaceae) are among the most useful multi-purpose plants in 
 Dense clumping bamboo from India. Up to 22 m high, culm diameters of 15 cm. Considered the best bamboo for building purposes in north and eastern India.
 
 ### Bambusa longispiculata (Mahal Bamboo)
-Vigorous Indian bamboo forming open clumps up to 18 m high, culm diameters 10 cm. Noted for straight culms and long intervals between nodes (up to 60 cm). White stripes on green culms make it attractive as an ornamental. Suitable as a hedge.
+Vigorous Indian bamboo forming open clumps up to 18 m high, culm diameters 10 cm. Noted for straight culms and long intervals between nodes (up to 60 cm). White stripes on green culms make it attractive as an ornamental. Suitable [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] hedge.
 
 ### Bambusa oldhamii (Giant Timber Bamboo)
 Compact clumping bamboo with useful erect culms to 17 m height, 10 cm diameter. Often planted as ornamental windbreak or hedge around orchards. Tolerates -9 deg C. Buds are eaten in China.
@@ -34,7 +34,7 @@ Runner, max stem diameter 30 mm, max height 7 m. Hardy to -7 deg C. Edible root 
 Dense runner, reported not too invasive. Coastal plant that withstands some drought. Stem diameter 44 mm, max height 6 m, hardy to -20.5 deg C. Edible shoot; stems used for fish poles.
 
 ### Phyllostachys bambusoides (Madake / Giant Timber Bamboo)
-One of the largest running bamboos in the world, reaching 23 m height and 15 cm diameter. Originally from China, now the most useful bamboo in Japan for scaffolding and general construction. Hardy to -7 deg C. Tolerates wide range of acid and alkaline soils. Edible new culm shoots.
+One [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] largest running bamboos [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] world, reaching 23 m height and 15 cm diameter. Originally from China, now the most useful bamboo in Japan for scaffolding and general construction. Hardy to -7 deg C. Tolerates wide range of [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] nd-alkaline-soil-management]] soils. Edible new culm shoots.
 
 ### Phyllostachys nigra (Black Bamboo)
 Runner grown for culms that turn black with age. Usually 2 m in tropics but up to 9 m in temperate regions, culm widths 7.5 cm. Hardy to -7 deg C. New culm shoots edible when cooked.
@@ -69,7 +69,7 @@ Field observations confirm the importance of proper technique and methodology.
 Historical practices provide valuable context for modern approaches and innovations.
 Comparative studies reveal both commonalities and unique aspects across systems.
 The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
+Environmental factors play a significant [[fungal-role-in-phosphorus-cycling]] determining optimal strategies.
 Long-term studies demonstrate the sustainability and efficacy of these approaches.
 Community-based implementations have shown promising results across various regions.
 Advanced practitioners continue to refine and optimize these established methods.

@@ -11,9 +11,9 @@ sources: []
 
 ## Overview
 
-Lemon balm is a vigorous perennial herb in the mint family, native to the
+Lemon balm is a vigorous perennial herb [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] mint family, native to the
 Mediterranean region and Central Asia. Prized for its bright, lemon-scented
-foliage, lemon balm has been cultivated for over 2,000 years as a medicinal
+foliage, lemon balm has been cultivated for over 2,000 years [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] medicinal
 herb, culinary ingredient, bee plant, and garden ornamental. Its genus name
 Melissa comes from the Greek word for "honeybee," reflecting its long-
 standing association with beekeeping.
@@ -39,7 +39,7 @@ properties.
 
 Key medicinal applications:
 
-- Anxiety and stress relief: One of the gentlest nervine herbs. Clinical
+- Anxiety and stress relief: One [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] gentlest nervine herbs. Clinical
   studies support its use for reducing anxiety and improving mood, often
   in combination with valerian.
 - Sleep support: Promotes relaxation and improves sleep quality, especially
@@ -59,13 +59,13 @@ Preparation methods:
 - Infused oil: For topical use on cold sores
 - Glycerite: Sweet, alcohol-free preparation suitable for children
 
-Lemon balm is considered very safe, even for children and the elderly.
+Lemon balm is considered very safe, even for children [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] elderly.
 Thyroid medication users should consult a practitioner, as lemon balm may
 interfere with thyroid hormone absorption.
 
 ## Bee Plant
 
-Lemon balm is one of the best plants for supporting honeybees and native
+Lemon balm is one of [[query-what-are-the-best-plants-for-a-hugelkultur-bed]] for supporting honeybees and native
 bees. The flowers are rich in nectar and produce an excellent honey. The
 name "Melissa" (Greek for bee) reflects this association. Planting lemon
 balm near hives or in bee forage areas supports pollinator health and honey
@@ -145,5 +145,5 @@ For tea and culinary use:
 - Cut stems 2-3 inches above the base; the plant will regrow
 - Harvest in the morning after dew has dried for best flavor and potency
 
-For medicinal use:
+[[query-what-are-the-best-mushrooms-for-medicinal-use]]:
 - Harvest aerial parts in early to mid-bloom for maximum rosmarinic acid

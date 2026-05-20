@@ -13,14 +13,14 @@ Timber framing is a traditional building method where large timbers are joined t
 
 ## History
 
-Timber framing has been practiced for thousands of years across Europe, Asia, and the Americas. Notable traditions include:
+Timber framing has been practiced for thousands of years across Europe, Asia, [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] Americas. Notable traditions include:
 
-- **European half-timber (Fachwerk):** Exposed timber frame with wattle-and-daub or brick infill
+- **European half-timber (Fachwerk):** Exposed [[comparison-bamboo-construction-vs-timber-frame-basics]] with wattle-and-daub or brick infill
 - **Japanese post-and-beam:** Complex joinery with minimal metal, often using reclaimed timber
 - **New England timber frame:** Brought by English colonists; evolved into the classic American barn
-- **British cruck frame:** Large curved timbers (crucks) forming the full height of the building
+- **British cruck frame:** Large curved timbers (crucks) forming the full height [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] building
 
-The craft declined with the introduction of stick framing (dimensional lumber with nails) in the mid-1800s but has seen a strong revival since the 1970s.
+The craft declined with the introduction of stick framing (dimensional lumber with nails) [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] mid-1800s but has seen a strong revival since the 1970s.
 
 ## Wood Selection
 
@@ -55,7 +55,7 @@ Timber frame joinery uses interlocking wood-to-wood connections secured with woo
 
 ### Mortise and Tenon
 
-The fundamental timber frame joint. A rectangular hole (mortise) is cut into one timber, and a corresponding projection (tenon) is cut on the mating timber.
+The fundamental timber frame joint. A rectangular hole (mortise) is cut into one timber, [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] corresponding projection (tenon) is cut on the mating timber.
 
 - **Through tenon:** Tenon passes completely through the mortise, visible on the far side. Strong and classic.
 - **Blind tenon:** Tenon stops inside the mortise, not visible. Cleaner appearance.
@@ -97,7 +97,7 @@ A bent is a cross-sectional assembly of posts, beams, and braces that forms one 
 
 - **Common rafter:** Rafters bear on plates, ridge, and sometimes purlins
 - **Principal rafter and purlin:** Large principal rafters support purlins, which in turn carry common rafters
-- **Hammerbeam:** A sophisticated medieval design where short horizontal beams (hammerbeams) project from the wall and support the roof structure
+- **Hammerbeam:** A sophisticated medieval design where short horizontal beams (hammerbeams) project from the [[plant-cell-wall-and-water-pathways]] support the roof structure
 - **King post truss:** A central vertical post with angled struts — simple and efficient for spans up to 30 feet
 - **Queen post truss:** Two vertical posts with a connecting tie beam — suitable for longer spans
 

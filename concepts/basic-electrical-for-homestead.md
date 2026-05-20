@@ -9,7 +9,7 @@ sources: []
 
 # Basic Electrical for Homestead
 
-Electrical work on a homestead ranges from wiring a simple shed to installing a full residential service panel. Electricity is the most dangerous system a homeowner can work with — mistakes cause fires, electrocution, and death. This page covers wiring fundamentals, circuit basics, outlet installation, GFCI protection, and critical safety guidelines. It also covers when to hire a licensed electrician.
+Electrical work [[query-how-to-start-beekeeping-on-a-homestead]] ranges from wiring a simple shed to installing a full residential service panel. Electricity [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most dangerous system a homeowner can work with — mistakes cause fires, electrocution, and death. This page covers wiring fundamentals, circuit basics, outlet installation, GFCI protection, [[phase-transitions-and-critical-phenomena]] safety guidelines. It also covers when to hire a licensed electrician.
 
 ## Safety First
 
@@ -113,7 +113,7 @@ GFCIs detect current leaking to ground and shut off power in milliseconds, preve
 
 **Installation:**
 - Connect line wires (from panel) to the LINE terminals
-- Connect load wires (to downstream outlets) to the LOAD terminals for protection of the entire circuit
+- Connect load wires (to downstream outlets) to the LOAD terminals for protection [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] entire circuit
 - Test GFCI monthly using the test/reset buttons
 - Replace any GFCI that fails to trip when tested
 
@@ -126,7 +126,7 @@ Required in modern construction for bedrooms, living rooms, and other habitable 
 ### Tripped Breaker
 
 - Reset once. If it trips again immediately, do NOT keep resetting — there is a fault
-- Unplug all devices on the circuit, then reset. Plug in one at a time to identify the culprit
+- Unplug all devices on the circuit, then reset. Plug [[fao-three-in-one-training-rehabilitation-mushroom-enterprise]] at a time to identify the culprit
 - Common causes: overloaded circuit, short circuit, ground fault, failed appliance
 
 ### Dead Outlet
@@ -134,7 +134,7 @@ Required in modern construction for bedrooms, living rooms, and other habitable 
 - Check the breaker first
 - Check for a tripped GFCI on the same circuit (may be in another room)
 - Test the outlet with a receptacle tester
-- Check wire connections at the outlet — loose connections are the most common cause
+- Check wire connections at the outlet — loose connections [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]]-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] cause
 
 ### Flickering Lights
 

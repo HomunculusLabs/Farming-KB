@@ -22,7 +22,7 @@ off-grid homestead.
 - **Dowsing/water witching** — anecdotal; not scientifically validated
   but some drillers respect the practice
 - **Neighboring wells** — ask nearby property owners about well depth,
-  yield, and water quality
+  yield, [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] er-tanks-and-water-quality]]
 - **Topography** — water tends to accumulate in valleys, low-lying areas,
   and near rock fractures
 - **Vegetation indicators** — lush vegetation in dry areas may indicate
@@ -40,7 +40,7 @@ off-grid homestead.
 ## Drilling Methods
 
 ### Mud Rotary Drilling
-The most common method for modern wells. A rotating drill bit cuts through
+[[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] method for modern wells. A rotating drill bit cuts through
 soil and rock while a [[bentonite]] mud slurry is pumped down the drill string
 to carry cuttings to the surface and stabilize the borehole wall.
 
@@ -49,11 +49,11 @@ to carry cuttings to the surface and stabilize the borehole wall.
 - Can drill through soft to moderately hard rock
 - Depth range: up to 1,000+ feet
 - Cost: $15-40 per foot depending on geology and depth
-- Best for: most residential and agricultural wells
+- Best for: most residential [[night-break-experiments-and-agricultural-light-manipulation]] wells
 
 ### Cable Tool Drilling (Percussion)
 A heavy drill bit is raised and dropped repeatedly, crushing rock at the
-bottom of the borehole. Water is added periodically to create a slurry
+bottom [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] borehole. Water is added periodically to create a slurry
 that is bailed out.
 
 **Characteristics:**
@@ -142,7 +142,7 @@ Manual pump for off-grid or emergency backup use.
   or Simple Pump)
 - **Flow rate**: 3-5 GPM sustained manual effort
 - **Advantages**: no power required; emergency backup
-- **Disadvantages**: labor-intensive; not suitable as primary supply for
+- **Disadvantages**: labor-intensive; not suitable [[mckenna-perceiving-self-as-primary-datum-consciousness]] supply for
   a household
 
 ### Solar-Powered Pump

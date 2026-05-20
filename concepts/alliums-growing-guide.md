@@ -14,7 +14,7 @@ Proper curing is essential for storage life. The goal is to dry the outer wrappe
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers
 continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+adapting traditional knowledge to contemporary [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]] opportunities.
 
 ## Key Considerations
 
@@ -26,16 +26,16 @@ timing, and material selection all play critical roles.
 ## Historical Context
 
 The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
+[[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## Common Challenges
 
 Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
+these concepts. Climate variability, resource limitations, [[tribal-pattern-navigation-and-knowledge]]
 gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+observation, [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] willingness to adapt approaches based on results.
 
 ## See Also
 - crop-rotation-benefits
@@ -67,7 +67,7 @@ Field observations confirm the importance of proper technique and methodology.
 Historical practices provide valuable context for modern approaches and innovations.
 Comparative studies reveal both commonalities and unique aspects across systems.
 The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
+Environmental factors play a significant [[fungal-role-in-phosphorus-cycling]] determining optimal strategies.
 Long-term studies demonstrate the sustainability and efficacy of these approaches.
 Community-based implementations have shown promising results across various regions.
 Advanced practitioners continue to refine and optimize these established methods.
@@ -76,10 +76,10 @@ Educational resources support broader adoption of best practices in this field.
 Economic analyses suggest favorable returns for properly implemented projects.
 Cross-disciplinary collaboration has accelerated progress in this developing field.
 Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+Regulatory frameworks continue to evolve alongside growing understanding [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] topic.
 The global perspective reveals both shared challenges and region-specific adaptations.
 Innovative approaches continue to emerge from both research and field experience.
 Systematic documentation of methods enables replication and improvement over time.
 Peer-reviewed studies provide robust evidence supporting established methodologies.
 Practical handbooks and guides translate research findings into actionable steps.
-International cooperation facilitates knowledge exchange and joint research initiatives.
+International cooperation facilitates knowledge [[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]] joint research initiatives.

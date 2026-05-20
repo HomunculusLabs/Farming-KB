@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis for Inflammatory Conditions
 
-Cannabis has significant anti-inflammatory properties mediated primarily through CB2 receptor activation and modulation of the immune system. Both THC and CBD contribute, along with [[terpenes]] like beta-caryophyllene (a natural CB2 agonist).
+Cannabis has significant anti-inflammatory properties mediated primarily through CB2 receptor activation and modulation [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] immune system. Both THC and CBD contribute, along with [[terpenes]] like beta-caryophyllene (a natural CB2 agonist).
 
 ## Conditions Treated
 
@@ -17,13 +17,13 @@ Cannabis has significant anti-inflammatory properties mediated primarily through
 - Evidence level: Moderate
 - Reduces joint pain, swelling, and morning stiffness
 - CBD-dominant products preferred for daytime use (no impairment)
-- Topical applications effective for localized joint inflammation
+- [[cannabis-topical-applications]] effective for localized joint inflammation
 - May slow disease progression via immune modulation (preclinical)
 
 ### Inflammatory Bowel Disease (Crohn's/Colitis)
 - Evidence level: Moderate
 - Reduces abdominal pain, diarrhea, and improves appetite
-- May promote mucosal healing in the gut
+- May promote mucosal healing [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] i-in-the-gut-of-beetles]]
 - Both oral and inhaled routes studied
 - THC helps with cramping; CBD reduces inflammation
 
@@ -59,7 +59,7 @@ Field observations confirm the importance of proper technique and methodology.
 Historical practices provide valuable context for modern approaches and innovations.
 Comparative studies reveal both commonalities and unique aspects across systems.
 The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
+Environmental factors play a significant [[fungal-role-in-phosphorus-cycling]] determining optimal strategies.
 Long-term studies demonstrate the sustainability and efficacy of these approaches.
 Community-based implementations have shown promising results across various regions.
 Advanced practitioners continue to refine and optimize these established methods.
@@ -69,7 +69,7 @@ Economic analyses suggest favorable returns on investment for implemented projec
 Cross-disciplinary collaboration has accelerated progress in this developing field.
 Quality control measures ensure consistent and reliable outcomes in practice.
 Regulatory frameworks continue to evolve alongside growing understanding of the topic.
-The global perspective reveals both shared challenges and region-specific adaptations.
+The global perspective reveals both shared [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]] region-specific adaptations.
 Understanding this subject requires examining multiple interconnected factors.
 Research has identified several key mechanisms that drive the underlying processes.
 Practical applications have been demonstrated across diverse environmental conditions.

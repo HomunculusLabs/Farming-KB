@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Psychedelic-assisted therapy (PAT) is a clinical approach that combines the administration of psychedelic substances (in this case, [[psilocybin]]) with structured psychological support. Unlike conventional pharmacotherapy, PAT leverages the acute psychoactive experience itself as a therapeutic mechanism, with the therapist serving as a guide rather than a director. Modern protocols have been refined through decades of clinical research and draw on earlier models from the mid-20th century.
+Psychedelic-assisted therapy (PAT) is a clinical approach that combines the administration of psychedelic substances (in this case, [[psilocybin]]) with structured psychological support. Unlike conventional pharmacotherapy, PAT leverages the acute psychoactive experience itself [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] therapeutic mechanism, with the therapist serving as a guide rather than a director. Modern protocols have been refined through decades of [[hofmann-lsd-clinical-research-early-studies]] and draw on earlier models from the mid-20th century.
 
 ## Theoretical Foundation
 
@@ -20,7 +20,7 @@ Psychedelic-assisted therapy (PAT) is a clinical approach that combines the admi
 PAT relies heavily on non-specific therapeutic factors that are common across psychotherapy modalities:
 
 - **Therapeutic alliance**: The trust and rapport between patient and therapist is the single strongest predictor of outcomes
-- **[[lsd-set-and-setting-framework]]**: The patient's psychological state and the physical/interpersonal environment profoundly shape the experience
+- **[[lsd-set-and-setting-framework]]**: The patient's psychological state [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] physical/interpersonal environment profoundly shape the experience
 - **Expectancy**: Patient beliefs and expectations about the treatment influence both the experience and outcomes
 - **Meaning-making**: The patient's capacity to construct helpful narratives from the experience determines therapeutic benefit
 
@@ -41,7 +41,7 @@ Psilocybin-assisted therapy appears to work through several specific mechanisms:
 Typical inclusion criteria for clinical trials:
 
 - Adults aged 21-65 (varies by study)
-- Diagnosis of the target condition (depression, anxiety, substance use disorder)
+- Diagnosis [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] target condition (depression, anxiety, substance use disorder)
 - Stable on current medications (or willing to taper)
 - Adequate physical health
 - Willingness to comply with study protocol
@@ -51,7 +51,7 @@ Typical inclusion criteria for clinical trials:
 
 Key contraindications for psilocybin-assisted therapy:
 
-- **Personal or family history of psychotic disorders**: Schizophrenia, schizoaffective disorder, bipolar I disorder — absolute contraindication
+- **Personal or family [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]] psychotic disorders**: Schizophrenia, schizoaffective disorder, bipolar I disorder — absolute contraindication
 - **Current mania or hypomania**: Absolute contraindication
 - **Active suicidal ideation with plan or intent**: Requires stabilization first
 - **Severe cardiovascular disease**: Psilocybin causes mild increases in heart rate and blood pressure
@@ -68,7 +68,7 @@ Preparation typically consists of 1-3 sessions, each lasting 60-90 minutes, sche
 
 ### Goals of Preparation
 
-1. **Build therapeutic alliance**: Establish trust, rapport, and a sense of safety with the therapy team
+1. **Build therapeutic alliance**: Establish trust, rapport, [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] sense of safety with the therapy team
 2. **Psychoeducation**: Explain the pharmacology, likely effects, duration, and variability of the experience
 3. **Set intentions**: Collaboratively identify what the patient hopes to explore or address
 4. **Manage expectations**: Clarify that the experience may not follow expectations; emphasize openness and trust
@@ -119,7 +119,7 @@ The dosing session room is carefully prepared:
 **Peak experience (90-240 minutes)**:
 - Most intense effects
 - Therapists maintain presence, offering minimal verbal intervention unless patient requests support
-- Non-directive support: "Allow what is arising," "You are safe," "Breathe"
+- Non-directive support: "Allow [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] arising," "You are safe," "Breathe"
 - Music supports the emotional arc of the experience
 - Patient may laugh, cry, move, or remain still
 

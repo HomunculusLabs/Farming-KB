@@ -9,13 +9,13 @@ sources: []
 
 # Homestead Water Systems
 
-A reliable water supply is the foundation of any homestead. Off-grid and rural water systems must provide adequate quantity and quality for drinking, cooking, irrigation, livestock, and sanitation. A well-designed homestead water system typically combines a water source, a delivery mechanism, storage, and treatment.
+A reliable water supply [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] foundation of any homestead. Off-grid and rural water systems must provide adequate quantity and quality for drinking, cooking, irrigation, livestock, and sanitation. A well-designed homestead water system typically combines a water source, a delivery mechanism, storage, and treatment.
 
 ## Water Sources
 
 ### Wells
 
-Wells are the most common homestead water source. Types include:
+Wells [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]]-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] homestead water source. Types include:
 
 - Drilled wells: 4-8 inch borehole, 100-500 feet deep. Most reliable and most expensive ($5000-$15000). Provides the highest water quality when properly cased.
 - Dug wells: 3-5 feet wide, 20-40 feet deep. Less expensive but more vulnerable to contamination from surface runoff.
@@ -29,7 +29,7 @@ Natural springs provide gravity-fed water without pumping. Spring development in
 
 ### Surface Water
 
-Creeks, rivers, and ponds can supply irrigation water but require treatment for drinking. Surface water is seasonal and subject to contamination. Use primarily for livestock and irrigation, not as a primary drinking source.
+Creeks, rivers, and ponds can supply irrigation water but require treatment for drinking. Surface water is seasonal and subject to contamination. Use primarily for livestock and irrigation, not [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] primary drinking source.
 
 ### Rain Catchment
 
@@ -47,7 +47,7 @@ Rainwater harvesting collects and stores roof runoff for non-potable uses (irrig
 Hand pumps provide water without electricity, essential for off-grid resilience. Options include:
 
 - Simple pitcher pumps: Lift water from shallow sources (up to 25 feet). Inexpensive and easy to install.
-- Deep well hand pumps: Can lift from 100-300+ feet. Examples: Bison Pumps, Simple Pump. These use a cylinder down the well and a pump mechanism at the surface.
+- Deep well hand pumps: Can lift from 100-300+ feet. Examples: Bison Pumps, Simple Pump. These use a cylinder down the well [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] pump mechanism at the surface.
 - Suction pumps: Limited to 25 feet of lift (atmospheric pressure limit).
 - Force pumps: Push water up from depth using a cylinder and check valve system.
 
@@ -97,7 +97,7 @@ Remove particles using staged filtration:
 
 ### Mineral Treatment
 
-- Water softeners: Remove calcium and magnesium (hardness) using ion exchange
+- Water softeners: Remove [[dynamic-accumulator-plants-calcium-and-magnesium]] (hardness) using ion exchange
 - Acid neutralizers: Raise pH of acidic water using [[calcite]] media
 - Iron/manganese filters: Remove staining metals using oxidation and filtration
 

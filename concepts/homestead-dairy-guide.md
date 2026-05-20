@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Dairy Guide
 
-Keeping dairy goats on the homestead provides a reliable supply of fresh milk, cheese, butter, yogurt, and cream. Goats are smaller, more manageable, and require less land and feed than dairy cows, making them the ideal dairy animal for small-scale [[homesteading]].
+Keeping dairy goats on the homestead provides a reliable supply of fresh milk, cheese, butter, yogurt, and cream. Goats are smaller, more manageable, and require less land and feed than dairy cows, making them the ideal dairy animal [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]-scale [[homesteading]].
 
 ## Choosing a Dairy Goat Breed
 
@@ -25,7 +25,7 @@ Keeping dairy goats on the homestead provides a reliable supply of fresh milk, c
 - Butterfat: 4-5% (high)
 - Size: 130-175 pounds
 - Advantages: high butterfat, distinctive floppy ears, loud and vocal, friendly personality
-- Disadvantages: seasonal breeders (milk production drops in winter), loud
+- Disadvantages: seasonal breeders (milk production drops [[weed-control-in-winter-greenhouses]]), loud
 
 ### Alpine
 - Milk production: 1-2.5 gallons per day
@@ -73,10 +73,10 @@ LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy
 - Freshen (give birth) once per year. Milk for approximately 10 months, then dry off 2 months before next kidding.
 
 ### Milking Process
-1. Secure the goat in a milking stand with grain to keep her occupied
-2. Clean the udder with warm water and a clean cloth or udder wash
+1. Secure the goat [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] milking stand with grain to keep her occupied
+2. Clean the udder with warm water [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] clean cloth or udder wash
 3. Strip the first few squirts from each teat into a strip cup (discard -- contains high bacteria count)
-4. Milk by hand: squeeze the base of the teat with thumb and forefinger, then squeeze down with the other fingers. Do not pull.
+4. Milk by hand: squeeze the base [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] teat with thumb and forefinger, then squeeze down with the other fingers. Do not pull.
 5. Milk until flow stops (typically 3-8 minutes per goat)
 6. Post-milking: dip teats in teat dip (iodine-based or chlorhexidine) to prevent mastitis
 7. Strain milk through a filter into a sanitized container
@@ -88,7 +88,7 @@ LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy
 
 ## Sanitation
 
-Dairy sanitation is non-negotiable. Poor sanitation leads to off-flavors, spoilage, and food safety risks.
+Dairy sanitation is non-negotiable. Poor sanitation leads to off-flavors, spoilage, [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] safety risks.
 
 - Clean and sanitize all milking equipment after every use (wash with hot soapy water, rinse, then sanitize with a dairy sanitizer or dilute bleach solution)
 - Chill milk to 38F within 30 minutes of milking
@@ -98,7 +98,7 @@ Dairy sanitation is non-negotiable. Poor sanitation leads to off-flavors, spoila
 
 ## Cheese Making
 
-Cheese is the most rewarding value-added product from goat milk. The high butterfat content of goat milk makes excellent cheese.
+Cheese [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most rewarding value-added product from goat milk. The high butterfat content of goat milk makes excellent cheese.
 
 ### Fresh Cheeses (Beginner, Same Day)
 

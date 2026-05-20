@@ -9,7 +9,7 @@ sources: []
 
 ## What Is Jerky
 
-Jerky is lean meat that has been trimmed of fat, cut into strips, marinated or seasoned, and dried to prevent spoilage. The word "jerky" derives from the Quechua word "ch'arki," meaning dried, salted meat. Jerky has been a critical preservation method for millennia — it removes moisture (the medium bacteria need to grow) and uses salt and other ingredients to inhibit microbial growth.
+Jerky is lean meat that has been trimmed of fat, cut into strips, marinated or seasoned, and dried to prevent spoilage. The word "jerky" derives from the Quechua word "ch'arki," meaning dried, salted meat. Jerky has been a critical preservation [[query-how-do-i-choose-the-right-irrigation-method-for-my-vegetable-garden]] millennia — it removes moisture (the medium bacteria need [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]) [[query-best-chestnut-varieties-for-different-climates-and-uses]] salt and other ingredients to inhibit microbial growth.
 
 Homemade jerky allows full control over ingredients, flavor, and quality, avoiding the preservatives, excess sugar, and high sodium found in many commercial brands.
 
@@ -57,7 +57,7 @@ Homemade jerky allows full control over ingredients, flavor, and quality, avoidi
 
 ## Marinades
 
-Marinades add flavor and contribute to preservation through salt, acid, and sometimes sugar.
+Marinades add flavor and [[query-how-do-fungi-contribute-to-carbon-sequestration]] preservation through salt, acid, and sometimes sugar.
 
 ### Basic Marinade Components
 
@@ -100,7 +100,7 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 
 ### Marinating Process
 
-1. Combine marinade ingredients in a bowl or ziplock bag
+1. Combine marinade ingredients [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] bowl or ziplock bag
 2. Add sliced meat and ensure all pieces are coated
 3. Refrigerate for 4-24 hours (overnight is ideal for full flavor penetration)
 4. Turn or shake periodically to redistribute marinade
@@ -110,10 +110,10 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 
 ### Dehydrator (Most Common for Home)
 
-- Set temperature to 160F (71C) — this is critical for food safety
+- Set temperature to 160F (71C) — this is [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]] food safety
 - Arrange strips on dehydrator trays in a single layer, not touching
 - Rotate trays every 2-3 hours for even drying
-- Total drying time: 4-8 hours depending on thickness and humidity
+- Total drying time: 4-8 hours depending on thickness [[vegetable-storage-conditions-by-temperature-and-humidity]]
 - Jerky is done when it bends and cracks slightly but does not break in half
 
 ### Smoker

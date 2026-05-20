@@ -9,19 +9,19 @@ sources: []
 
 ## Why Dry Herbs
 
-Drying herbs preserves their flavor, aroma, and medicinal properties for use long after the growing season. Properly dried and stored herbs retain 50-80% of their volatile oils (compared to fresh) and can last for 1-3 years. Drying concentrates flavors, making dried herbs roughly 3 times more potent by volume than fresh — the general conversion is 1 teaspoon dried herb equals 1 tablespoon fresh.
+Drying herbs preserves their flavor, aroma, [[turkey-tail-mushroom-cultivation-and-medicinal-properties]] properties for use long after the growing season. Properly dried and stored herbs retain 50-80% of their volatile oils (compared to fresh) and can last for 1-3 years. Drying concentrates flavors, making dried herbs roughly 3 times more potent by volume than fresh — the general conversion is 1 teaspoon dried herb equals 1 tablespoon fresh.
 
 Home-dried herbs are significantly cheaper and more flavorful than store-bought dried herbs, which may have been sitting on shelves for months or years before purchase.
 
 ## When to Harvest
 
-- Harvest herbs in the morning after dew has dried but before the heat of the day — volatile oil content is highest at this time
+- Harvest herbs [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] morning after dew has dried but before the heat [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] day — volatile oil content is highest at this time
 - For leafy herbs: harvest before flowering for peak flavor (basil, mint, oregano, thyme)
 - For flowers: harvest at full bloom (chamomile, lavender, calendula)
 - For seeds: harvest when seeds are dry and brown but before they shatter (dill, fennel, coriander)
 - For roots: harvest in fall after the plant has died back (valerian, echinacea, marshmallow)
 - Cut stems 4-6 inches from the base for leafy herbs, leaving enough foliage for the plant to recover
-- Never harvest more than one-third of a plant at one time
+- Never harvest more than one-third of [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] at one time
 
 ## Drying Methods
 
@@ -32,13 +32,13 @@ The simplest and most traditional method. Works well for low-moisture herbs like
 **Bundle method:**
 1. Gather 5-10 stems into small bundles (large bundles mold in the center)
 2. Tie stems tightly with string or rubber bands (stems shrink as they dry)
-3. Hang bundles upside down in a warm, dry, dark, well-ventilated area
+3. Hang bundles upside down [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] warm, dry, dark, well-ventilated area
 4. Upside-down drying preserves the essential oils in the leaves (they flow downward from the stem)
 5. A paper bag with holes punched in it can be placed over bundles to protect from dust and light
 6. Herbs are dry when leaves crumble easily between your fingers (typically 1-3 weeks)
 
 **Screen method:**
-1. Lay herbs in a single layer on a screen, mesh, or window screen
+1. Lay herbs in a single layer [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] screen, mesh, or window screen
 2. Place the screen in a warm, dry, well-ventilated area
 3. Turn herbs daily for even drying
 4. Works well for individual leaves, flowers, and short-stemmed herbs
@@ -51,7 +51,7 @@ Ideal conditions:
 
 ### Dehydrator
 
-Fast and consistent. Best for high-moisture herbs like basil, cilantro, chives, mint, and parsley.
+Fast and consistent. [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] high-moisture herbs like basil, cilantro, chives, mint, and parsley.
 
 1. Remove leaves from stems (or dry whole stems and strip later)
 2. Arrange in a single layer on dehydrator trays — do not overlap

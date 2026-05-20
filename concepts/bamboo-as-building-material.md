@@ -9,16 +9,16 @@ sources: []
 
 # Bamboo as Building Material
 
-Bamboo is one of the fastest-growing and most versatile building materials on Earth. With tensile strength comparable to steel and compressive strength rivaling concrete, bamboo has been used for millennia in tropical and subtropical construction. Modern engineering has expanded its applications to flooring, structural beams, scaffolding, furniture, and even bridges.
+Bamboo is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] fastest-growing and most versatile building materials on Earth. With tensile strength comparable to steel and compressive strength rivaling concrete, bamboo has been used for millennia in tropical and subtropical construction. Modern engineering has expanded its applications to flooring, structural beams, scaffolding, furniture, and even bridges.
 
 ## Why Bamboo for Homestead Construction
 
 - Renewability: Grows to harvestable size in 3-5 years (vs. decades for timber)
 - Strength: Tensile strength of ~28,000 psi (comparable to mild steel)
 - Weight: Extremely lightweight, easy to handle without heavy equipment
-- Carbon sequestration: Absorbs 35% more CO2 than equivalent trees
+- [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]: Absorbs 35% more CO2 than equivalent trees
 - Flexibility: Bends without breaking, excellent for seismic zones
-- Cost: Often free or very low cost in suitable growing regions
+- Cost: Often free or very [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]] in suitable growing regions
 - Low energy: Minimal processing required compared to lumber or concrete
 
 ## Best Bamboo Species for Construction
@@ -68,7 +68,7 @@ Harvest bamboo during the dry season when starch content is lowest (reduces pest
 - Cut above a node (the joint where branches emerge) to prevent water accumulation
 - Use a sharp saw or machete — clean cuts prevent splitting
 - Harvest at ground level or just above the first node
-- Cut in the morning when moisture content is highest (easier to work)
+- Cut [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] morning when moisture content is highest (easier to work)
 
 ## Treatment and Preservation
 
@@ -103,7 +103,7 @@ Coating bamboo with lime (calcium hydroxide) provides some protection against in
 - Rattan or nylon cord lashed in specific patterns
 - Fish-mouth joint: notch the end of one pole to fit around another
 - Square lashing, diagonal lashing, and shear lashing for different forces
-- Lashings should be tight and use friction to hold
+- Lashings should be tight [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] friction to hold
 
 ### Bolted Connections
 
@@ -113,8 +113,8 @@ Coating bamboo with lime (calcium hydroxide) provides some protection against in
 
 ### Wedge Joints
 
-- Split the end of a bamboo pole, insert a wedge, and fit into the node of another pole
-- The wedge expands the split to create a tight friction fit
+- Split the [[allegro-end-of-a-road-motivation]] bamboo pole, insert a wedge, and fit into the node of another pole
+- The wedge expands the split to [[query-how-do-i-create-a-xeriscape-or-drought-tolerant-garden]] tight friction fit
 
 ### Mortise and Tenon
 

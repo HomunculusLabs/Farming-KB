@@ -22,7 +22,7 @@ type: comparison
 ---
 ## Combined Use
 
-Vetiver and bamboo are complementary rather than competing. In large-scale watershed projects, vetiver hedges planted on contour lines anchor the mid-slope while bamboo clumps established at the toe of slope and along waterways provide structural reinforcement and shade. This stacked approach combines vetiver's subsurface anchoring with bamboo's above-ground biomass, delivering [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of [[straw-mulch-in-agriculture]] The Garden And How Do I Use It.
+Vetiver and bamboo are complementary rather than competing. In large-scale watershed projects, vetiver hedges planted on contour lines anchor the mid-slope while bamboo clumps established at the toe of slope and along waterways provide structural reinforcement and shade. This stacked approach combines vetiver's subsurface anchoring with bamboo's above-ground biomass, delivering [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] Are The Benefits Of [[straw-mulch-in-agriculture]] The Garden [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] uery-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] y-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]] It.
 See [[agroforestry]]
 - [[mollison-designers-vetiver-grass-for-erosion-control]]
 
@@ -35,7 +35,7 @@ Field observations confirm the importance of proper technique and methodology.
 Historical practices provide valuable context for modern approaches and innovations.
 Comparative studies reveal both commonalities and unique aspects across systems.
 The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
+Environmental factors play a significant [[fungal-role-in-phosphorus-cycling]] determining optimal strategies.
 Long-term studies demonstrate the sustainability and efficacy of these approaches.
 Community-based implementations have shown promising results across various regions.
 Advanced practitioners continue to refine and optimize these established methods.
@@ -44,7 +44,7 @@ Educational resources support broader adoption of best practices in this field.
 Economic analyses suggest favorable returns for properly implemented projects.
 Cross-disciplinary collaboration has accelerated progress in this developing field.
 Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+Regulatory frameworks continue to evolve alongside growing understanding [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] topic.
 The global perspective reveals both shared challenges and region-specific adaptations.
 Innovative approaches continue to emerge from both research and field experience.
 Systematic documentation of methods enables replication and improvement over time.

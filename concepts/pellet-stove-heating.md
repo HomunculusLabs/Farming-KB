@@ -9,13 +9,13 @@ sources: []
 
 ## Overview
 
-Pellet stoves burn compressed wood pellets — small cylinders of dried, ground wood — to provide efficient, controllable home heating. They combine the convenience of fossil fuel heating with the renewable benefits of biomass fuel. For off-grid homesteads, pellet stoves offer high efficiency (75-90%), programmable thermostats, and the ability to produce fuel on-site from wood waste.
+Pellet stoves burn compressed wood pellets — small cylinders of dried, ground wood — to provide efficient, controllable home heating. They combine the convenience of fossil fuel heating with the renewable benefits of biomass fuel. For off-grid homesteads, pellet stoves offer high efficiency (75-90%), programmable thermostats, [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] ability to produce fuel on-site from wood waste.
 
 ## Wood Pellets
 
 ### Composition and Standards
 
-Quality wood pellets are made from compressed sawdust and wood shavings with no binders — the natural [[lignin]] in wood acts as the binding agent when heated under pressure in the pellet mill.
+Quality wood pellets are made from compressed sawdust and wood shavings with no binders — the natural [[lignin]] in wood acts as the binding agent when heated under pressure [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] pellet mill.
 
 Premium pellet standards (PFI in the US, ENplus in Europe):
 - Diameter: 6mm (1/4 inch) standard, 8mm available
@@ -29,12 +29,12 @@ Premium pellet standards (PFI in the US, ENplus in Europe):
 
 Small-scale pellet production is possible but requires significant equipment investment:
 
-1. **Raw material preparation** — Dry sawdust or wood chips to below 10% moisture content. A hammer mill or chipper/shredder reduces material to uniform small particles.
+1. **Raw material preparation** — Dry sawdust or [[query-how-do-i-use-wood-chips-to-grow-mushrooms-in-my-garden]] below 10% moisture content. A hammer mill or chipper/shredder reduces material to uniform small particles.
 2. **Conditioning** — Steam or water is added to bring moisture to exactly 12-15%. This activates the lignin for binding.
 3. **Pelletizing** — A flat die or ring die pellet mill compresses the material through holes under high pressure and temperature (150-200F).
 4. **Cooling** — Fresh pellets are hot and soft. A cooling tray or bin brings them to ambient temperature, hardening them.
 5. **Screening** — Remove fines (broken pellets and dust) for reuse.
-6. **Storage** — Store in sealed bags or bulk bins in a dry location.
+6. **Storage** — Store in sealed bags or bulk bins [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] dry location.
 
 **Equipment cost:** Small pellet mills (200-400 lbs/hour) range from $2,000-$8,000. Hammer mills add $500-$2,000. For most homesteaders, buying pellets in bulk ($200-$300 per ton) is more economical than producing them unless free sawdust is abundant.
 
@@ -56,7 +56,7 @@ Self-contained units placed in a room, similar to a woodstove. Features:
 - Cast iron or steel construction
 - Hopper capacity: 40-80 pounds (provides 12-24 hours of burn time)
 - Heat output: 30,000-50,000 BTU/hr
-- Heats 1,000-2,000 square feet depending on insulation and climate
+- Heats 1,000-2,000 square feet depending on insulation [[mycelium-running-stamets-fungi-and-climate-change]]
 - Requires a 3-4 inch exhaust vent (can go directly through a wall — no chimney needed)
 
 ### Pellet Inserts
@@ -82,7 +82,7 @@ Whole-house heating via forced air or hydronic systems:
 
 ### Hopper
 
-The fuel storage bin on top or back of the stove. Capacity determines burn time between refills:
+The fuel storage bin on top or back [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] stove. Capacity determines burn time between refills:
 
 - Small (40 lbs): 12-18 hours
 - Medium (60 lbs): 18-30 hours

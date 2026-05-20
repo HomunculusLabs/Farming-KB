@@ -19,11 +19,11 @@ feed inputs.
 ## Hay Types
 
 ### Grass Hay
-- **Orchardgrass:** Palatable, good yield, persistent. One of the best
+- **Orchardgrass:** Palatable, good yield, persistent. One [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] uery-what-are-the-best-native-fruiting-shrubs-for-a-permaculture-food-forest]]
   all-purpose grass hays for horses, cattle, sheep, and goats.
 - **Timothy:** Premium horse hay, good for all livestock. Stems are coarse
   but highly palatable when cut at the right stage.
-- **Bermudagrass:** Warm-season hay. Common in the South. Can be fed to
+- **Bermudagrass:** Warm-season hay. Common [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] South. Can be fed to
   all livestock. Lower protein than cool-season hays.
 - **Tall Fescue:** Very productive, hardy. Endophyte-free or novel endophyte
   varieties only (endophyte-infected causes fescue toxicosis).
@@ -56,7 +56,7 @@ feed inputs.
 - **Barley hay:** Similar to oat hay, slightly lower quality.
 - **Rye hay:** Can be tough and less palatable. Good emergency feed.
 - **Wheat hay:** Variable quality depending on stage at cutting.
-- Small grain hays are best as emergency or supplemental feed.
+- Small grain hays [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] as emergency or supplemental feed.
 
 ## Cutting Timing
 
@@ -69,7 +69,7 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
 - **Vegetative (pre-boot):** Highest quality. 18-22% protein (alfalfa),
   14-18% (grass). Low yield. Best for young animals and lactating stock.
 - **Early boot:** Grass heads just beginning to emerge. Excellent quality.
-  14-20% protein (legumes), 12-15% (grass). Good compromise of quality and
+  14-20% protein (legumes), 12-15% (grass). Good compromise of [[mollison-designers-fish-pond-water-quality-and-aeration]]
   yield.
 - **Boot stage:** Grass heads fully enclosed in sheath. Good quality for
   general feeding. 12-16% protein (legumes), 10-13% (grass).
@@ -83,7 +83,7 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
 ### Legume Cutting Stages
 - **Late bud to early flower (1/10 to 1/4 bloom):** Optimal for alfalfa.
   Maximum protein and digestibility. Allows 2-4 cuttings per year depending
-  on climate.
+  [[altitude-and-latitude-effects-on-climate]].
 - **Mid-bloom (1/2 bloom):** Slightly lower quality, higher yield. Good
   compromise.
 - **Full bloom:** Significant quality decline. For maintenance only.
@@ -107,7 +107,7 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
 ### Large Round Bales
 - 500-1500 lbs. Most common for cattle operations.
 - Require tractor with bale spear or bale handler.
-- More waste during feeding (15-30% if not fed in a feeder).
+- More waste during feeding (15-30% if not fed [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] feeder).
 - Can be stored outside with net wrap (but quality loss is significant).
 - Lower cost per ton than small squares.
 

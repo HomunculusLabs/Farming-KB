@@ -27,7 +27,7 @@ Before investing in wind power, assess your wind resource:
 
 1. **Check wind maps**: NREL (National Renewable Energy Laboratory) wind resource maps for the US provide initial estimates
 2. **Install an anemometer**: Monitor wind speed at hub height for 12+ months
-3. **Observe vegetation**: Flagging (trees leaning in one direction) indicates consistent wind
+3. **Observe vegetation**: Flagging (trees leaning [[fao-three-in-one-training-rehabilitation-mushroom-enterprise]] direction) indicates consistent wind
 4. **Consider local topography**: Ridges, gaps, and open areas accelerate wind; valleys and forests reduce it
 5. **Compare seasonal patterns**: Wind should complement your solar production (windier in winter when solar is weakest)
 
@@ -42,13 +42,13 @@ Before investing in wind power, assess your wind resource:
 
 ### Horizontal Axis Wind Turbines (HAWT)
 
-The most common type — blades rotate around a horizontal axis, pointed into the wind by a tail vane or active yaw mechanism.
+[[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] type — blades rotate around a horizontal axis, pointed into the wind by a tail vane or active yaw mechanism.
 
 **Small HAWT sizes for homesteads:**
 - 400W (6-8 foot diameter): Supplemental power, charging small battery banks
 - 1kW (10-12 foot diameter): Powers a small off-grid cabin
 - 3kW (12-16 foot diameter): Powers a medium off-grid home
-- 10kW (22-25 foot diameter): Powers a large home or small farm
+- 10kW (22-25 foot diameter): Powers a large home [[query-how-do-i-grow-sorghum-in-my-garden-or-small-farm]]
 
 **Advantages of HAWT:**
 - Higher efficiency than vertical axis turbines
@@ -84,7 +84,7 @@ Blades rotate around a vertical axis. Popular for urban installations but genera
 
 ## Tower Height
 
-Tower height is the single most important factor in wind turbine performance. Wind speed increases with altitude due to reduced ground friction.
+Tower height [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] single most important factor in wind turbine performance. Wind speed increases with altitude due to reduced ground friction.
 
 ### Height Guidelines
 
@@ -132,10 +132,10 @@ Wind turbines produce variable power — a battery bank smooths the output.
 
 ### Dump Load
 
-When batteries are full and the wind is blowing, excess energy must be diverted to prevent battery damage. Common dump loads:
+When batteries are full [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] wind is blowing, excess energy must be diverted to prevent battery damage. Common dump loads:
 - Water heating element (most useful — pre-heats domestic hot water)
 - Space heater
-- Air heater in a greenhouse or workshop
+- Air heater [[query-how-do-i-grow-cannabis-in-a-greenhouse]] or workshop
 
 ## Grid-Tie vs. Off-Grid
 

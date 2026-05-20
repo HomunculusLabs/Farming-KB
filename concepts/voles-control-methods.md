@@ -35,7 +35,7 @@ When voles exceed tolerable levels, trapping is recommended over poisoning:
 
 - **Live traps** and **snap traps** placed in active tunnel runs are effective. Bait with apple, carrot, or root vegetable pieces.
 - **Trap placement**: Locate active runs by probing the soil surface. Place traps perpendicular to the runway, with the trap trigger aligned with the tunnel direction.
-- **Timing**: Trap in autumn and early spring when food is scarce and voles are most active near the surface.
+- **Timing**: Trap in autumn [[coleman-overwintered-onions-and-early-spring-crops]] when food is scarce and voles are most active near the surface.
 - **Cover traps** with boards or stones to create dark, enclosed spaces voles will enter willingly.
 
 ## Habitat Management
@@ -56,7 +56,7 @@ Holzer stresses that complete eradication is neither possible nor desirable. The
 
 ## See Also
 
-- [[slugs-and-snails-organic-control]] -- Other common garden pest control methods
+- [[slugs-and-snails-organic-control]] -- Other common garden [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] ral-pest-control-methods]] sterilization-contamination-control-methods]]
 - [[integrated-pest-management]] -- Broader IPM strategies
 - [[animal-manure-guide]] -- Soil health as pest prevention
 
@@ -69,7 +69,7 @@ Field observations confirm the importance of proper technique and methodology.
 Historical practices provide valuable context for modern approaches and innovations.
 Comparative studies reveal both commonalities and unique aspects across systems.
 The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
+Environmental factors play a significant [[fungal-role-in-phosphorus-cycling]] determining optimal strategies.
 Long-term studies demonstrate the sustainability and efficacy of these approaches.
 Community-based implementations have shown promising results across various regions.
 Advanced practitioners continue to refine and optimize these established methods.
@@ -78,7 +78,7 @@ Educational resources and training programs support broader adoption of best pra
 Economic analyses suggest favorable returns on investment for implemented projects.
 Cross-disciplinary collaboration has accelerated progress in this developing field.
 Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+Regulatory frameworks continue to evolve alongside growing understanding [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] topic.
 The global perspective reveals both shared challenges and region-specific adaptations.
 Understanding this subject requires examining multiple interconnected factors.
 Research has identified several key mechanisms that drive the underlying processes.

@@ -9,7 +9,7 @@ sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 
 # Cannabis Grow Room Setup
 
-Setting up a proper grow room is the foundation of a successful cannabis cultivation. The key factors are light, air, temperature, humidity, and space management.
+Setting up a proper grow room [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] foundation of a successful cannabis cultivation. The key factors are light, air, temperature, humidity, and space management.
 
 ## Space Requirements
 - Minimum: 2x2x4 ft (small tent, 1-2 plants)
@@ -33,7 +33,7 @@ Setting up a proper grow room is the foundation of a successful cannabis cultiva
 - 600W for 4x4 tent, 1000W for 5x5
 
 ### CMH (Ceramic Metal Halide)
-- Hybrid: good for both vegetative and flowering
+- Hybrid: good for both vegetative [[mollison-designers-day-length-and-flowering-response]]
 - 315W covers 3x3 or 4x4 area
 - Better spectrum than HPS, less heat
 
@@ -59,7 +59,7 @@ Setting up a proper grow room is the foundation of a successful cannabis cultiva
 ## Related
 - [[cannabis-soil-and-nutrients]] — for nutrient management
 - [[cannabis-vegetative-stage-management]] — for grow phase
-- cannabis grow room setup — for lighting details
+- [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]] o-set-up-an-indoor-cannabis-grow-room]] setup — for lighting details
 - cannabis grow room setup — for general indoor growing principles
 
 ## Key Concepts and Applications
@@ -71,7 +71,7 @@ Field observations confirm the importance of proper technique and methodology.
 Historical practices provide valuable context for modern approaches and innovations.
 Comparative studies reveal both commonalities and unique aspects across systems.
 The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
+Environmental factors play a significant [[fungal-role-in-phosphorus-cycling]] determining optimal strategies.
 Long-term studies demonstrate the sustainability and efficacy of these approaches.
 Community-based implementations have shown promising results across various regions.
 Advanced practitioners continue to refine and optimize these established methods.
@@ -80,5 +80,5 @@ Educational resources and training programs support broader adoption of best pra
 Economic analyses suggest favorable returns on investment for implemented projects.
 Cross-disciplinary collaboration has accelerated progress in this developing field.
 Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+Regulatory frameworks continue to evolve alongside growing understanding [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] topic.
 The global perspective reveals both shared challenges and region-specific adaptations.

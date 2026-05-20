@@ -9,7 +9,7 @@ sources: []
 
 # Honey Extraction and Processing
 
-Extracting honey is the culmination of the beekeeping season. Proper
+Extracting honey [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] culmination [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] beekeeping season. Proper
 technique preserves honey quality, ensures food safety, and maximizes
 yield. This guide covers the full process from uncapping to bottling,
 including beeswax processing.
@@ -17,7 +17,7 @@ including beeswax processing.
 ## When to Harvest
 
 ### Readiness Indicators
-- At least 80% of cells in the super are capped (sealed with wax)
+- At least 80% of cells [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] super are capped (sealed with wax)
 - Capped honey has moisture content below 18.2% — safe from fermentation
 - Uncapped honey can be harvested if it passes the shake test: hold the
   frame horizontal and give a sharp shake — if no nectar flies out, it is
@@ -33,7 +33,7 @@ including beeswax processing.
 ## Removing Supers from the Hive
 
 ### Bee Escape Board
-Place a bee escape (one-way maze) between the super and the brood chamber
+Place a bee escape (one-way maze) between the super [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] brood chamber
 the night before harvest. Bees pass down through the escape but cannot
 return. Gentle but slow — requires 12-24 hours.
 
@@ -43,7 +43,7 @@ tedious for large harvests. Causes some bee agitation.
 
 ### Leaf Blower (Compressed Air)
 Blow bees off frames with a leaf blower or shop vac on reverse. Fast and
-efficient but can damage comb if too aggressive. Best for warm days when
+efficient but can damage comb if too aggressive. [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] warm days when
 bees are not tightly clustered.
 
 ### Fume Board and Bee-Quick
@@ -103,7 +103,7 @@ improves clarity without removing beneficial enzymes and pollen.
 ### Raw Honey Standard
 To label as "raw," honey should not be heated above 115F (46C). Filter
 through mesh rather than fine paper to preserve pollen and enzymes. Let
-honey settle for 24-48 hours in a settling tank; wax and air bubbles rise
+honey settle for 24-48 hours [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] settling tank; wax and air bubbles rise
 to the top and can be skimmed.
 
 ## Bottling
@@ -145,5 +145,5 @@ high-quality beeswax.
 ### Solar Wax Melter
 A simple insulated box with a glass lid. Sun melts wax, which flows into
 a collection container. Slumgum stays behind on the screen. Excellent
-off-grid method — see [[solar-oven-cooking]] for related solar energy
+off-grid method — see [[solar-oven-cooking]] for related [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
 principles.

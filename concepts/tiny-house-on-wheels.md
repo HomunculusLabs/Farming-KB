@@ -9,7 +9,7 @@ sources: []
 
 # Tiny House on Wheels
 
-A Tiny House on Wheels (THOW) is a dwelling built on a trailer chassis, typically 8.5 feet wide and 13.5-22 feet long, designed to be mobile yet function as a permanent home. THOWs are a popular entry point for homesteaders seeking affordable, self-built housing with the flexibility to relocate. Building codes generally exempt structures on wheels, giving builders freedom in design.
+A Tiny House on Wheels (THOW) is a dwelling built [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] trailer chassis, typically 8.5 feet wide and 13.5-22 feet long, designed to be mobile yet function [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] permanent home. THOWs are a popular entry point for homesteaders seeking affordable, self-built housing with the flexibility to relocate. Building codes generally exempt structures on wheels, giving builders freedom in design.
 
 ## Legal Considerations
 
@@ -25,16 +25,16 @@ A Tiny House on Wheels (THOW) is a dwelling built on a trailer chassis, typicall
 
 ### Types of Trailers
 
-**Flatbed Utility Trailer (Most Common)**
+**Flatbed Utility Trailer ([[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]])**
 - Readily available, customizable
 - Cost: $3,000-8,000 new, $1,500-5,000 used
 - Look for: 10,000-14,000 lb GVWR, 5/8 inch or thicker deck, heavy-duty axles
-- Deck-over design preferred for maximum headroom
+- Deck-over design preferred [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] headroom
 
 **Custom Tiny House Trailer**
 - Purpose-built with integrated metal subfloor, wheel wells, and tie-down points
 - Cost: $5,000-12,000
-- Advantages: Better weight distribution, designed for the application
+- Advantages: Better weight distribution, designed [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] application
 
 **Dropped-Axle Trailer**
 - Axles positioned lower for reduced overall height
@@ -51,7 +51,7 @@ A Tiny House on Wheels (THOW) is a dwelling built on a trailer chassis, typicall
 
 ## Weight Management
 
-Weight is the critical constraint in THOW design. Every material choice has weight implications.
+Weight [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] critical constraint in THOW design. Every material choice has weight implications.
 
 ### Typical Weight Breakdown
 
@@ -88,7 +88,7 @@ Weight is the critical constraint in THOW design. Every material choice has weig
 - Acts as air barrier, vapor barrier, and structural reinforcement
 - Eliminates thermal bridging through framing
 - Cost: $2,000-4,000 for a typical THOW
-- Best for: Cold climates where insulation performance is critical
+- [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]: Cold climates where insulation performance is critical
 
 ### Rigid Foam Board (Best Value)
 

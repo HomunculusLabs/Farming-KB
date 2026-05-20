@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Strawberries are one of the most rewarding fruits for home gardeners — they produce fruit quickly (within the first year for some types), take up relatively little space, and the flavor of homegrown berries far exceeds anything from the store. This guide covers the three main types, runner management, bed renovation, and variety selection.
+Strawberries are one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most rewarding fruits for home gardeners — they produce fruit quickly (within the first year for some types), take up relatively little space, and the flavor of homegrown berries far exceeds anything from the store. This guide covers the three main types, runner management, bed renovation, [[banana-and-plantain-cultivation-and-variety-guide]] cing-and-variety-selection]].
 
 ## Strawberry Types
 
@@ -72,7 +72,7 @@ Strawberries are one of the most rewarding fruits for home gardeners — they pr
 
 ### Planting Technique
 - Plant at the correct depth: crown (where roots meet stem) must be at soil level
-- Too deep: crown rots; too shallow: roots dry out and plant dies
+- Too deep: crown rots; too shallow: roots dry out [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]] dies
 - Spread roots out in the planting hole; do not bunch or fold
 - Water immediately after planting
 - Space plants 12-18 inches apart in rows 3-4 feet apart
@@ -87,7 +87,7 @@ Strawberries are one of the most rewarding fruits for home gardeners — they pr
 - Space plants 12 inches apart in all directions (no runners allowed)
 - Remove all runners as they appear
 - Each plant produces as an individual
-- Works well in raised beds and containers
+- Works well in [[solomon-raised-beds-and-bed-preparation]] containers
 
 ## Runners
 
@@ -125,7 +125,7 @@ Strawberry beds decline in productivity after 3-4 years. Renovation extends thei
 
 ### Full Bed Replacement
 - After 3-4 years, complete replacement yields better results than renovation
-- Start a new bed in a different location to avoid soil-borne disease buildup
+- [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]] new bed in a different location to avoid soil-borne disease buildup
 - Use runners from your healthiest plants for the new bed
 - Follow a 3-4 year rotation away from the old strawberry site
 

@@ -20,11 +20,11 @@ Additional benefits:
 - Non-toxic: zero VOCs, no off-gassing, safe for chemically sensitive individuals
 - Repairable: patch and blend new material into existing finishes seamlessly
 - Beautiful: rich, textured, living surfaces that age gracefully
-- Low cost: materials are often free or very cheap (subsoil, sand, lime, milk, pigments)
+- [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]: materials are often free or very cheap (subsoil, sand, lime, milk, pigments)
 
 ## Earthen Plaster
 
-Earthen plaster is a mix of clay-rich subsoil, sand, and fiber (chopped straw or manure), applied to interior and protected exterior walls. It is the most common finish for cob, adobe, and straw bale buildings.
+Earthen plaster is a mix of clay-rich subsoil, sand, and fiber (chopped straw or manure), applied to interior and protected exterior walls. It [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] finish for cob, adobe, and straw bale buildings.
 
 ### Mix Ratios
 
@@ -54,7 +54,7 @@ Make test batches and apply to a small area. Watch for:
 
 ## Lime Wash
 
-Lime wash is a thin, breathable coating made from hydrated lime (type S) and water. It has been used for centuries on exterior and interior masonry, earth, and lime plaster walls.
+Lime wash is a thin, breathable coating made from hydrated lime (type S) [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]. It has been used for centuries on exterior and interior masonry, earth, and lime plaster walls.
 
 ### Recipe
 
@@ -81,7 +81,7 @@ Lime wash is a thin, breathable coating made from hydrated lime (type S) and wat
 
 ## Milk Paint
 
-Milk paint is one of the oldest known paints, made from milk protein (casein), lime, and pigments. It produces a beautiful, matte, velvety finish on wood, earth plaster, and masonry.
+Milk paint is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] oldest known paints, made from milk protein (casein), lime, and pigments. It produces a beautiful, matte, velvety finish on wood, earth plaster, and masonry.
 
 ### Recipe
 
@@ -129,7 +129,7 @@ Alis is a traditional earthen finish coat from the American Southwest, used on a
 
 - Produces a smooth, almost leather-like finish
 - The burnished surface sheds water well
-- Cactus juice acts as a natural binder and waterproofing agent
+- Cactus juice acts [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] natural binder and waterproofing agent
 - Easy to repair and reapply
 
 ## See Also

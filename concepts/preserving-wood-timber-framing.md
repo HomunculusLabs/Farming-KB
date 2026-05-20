@@ -9,7 +9,7 @@ sources: []
 
 # Preserving Wood and Timber Framing
 
-Timber framing is the traditional method of building structures using heavy timbers joined with mortise and tenon connections rather than dimensional lumber and nails. On a homestead, timber framing offers durability, aesthetic beauty, and the ability to work with locally harvested timber. This page covers joinery fundamentals, wood preservation treatments, and air drying methods.
+Timber framing [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] traditional method of building structures using heavy timbers joined with mortise and tenon connections rather than dimensional lumber and nails. [[query-how-to-start-beekeeping-on-a-homestead]], timber framing offers durability, aesthetic beauty, [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] ability to work with locally harvested timber. This page covers joinery fundamentals, wood preservation treatments, and air drying methods.
 
 ## Timber Framing Joinery
 
@@ -18,7 +18,7 @@ Timber framing relies on precise woodworking joints that transfer loads through 
 ### Essential Joints
 
 **Mortise and Tenon:**
-The foundational joint of timber framing. A rectangular hole (mortise) is cut into one timber, and a protruding tongue (tenon) is shaped on the end of the mating timber. Variations include:
+The foundational joint of timber framing. A rectangular hole (mortise) is cut into one timber, [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] protruding tongue (tenon) is shaped on the end [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] mating timber. Variations include:
 - Through tenon: Tenon passes completely through the mortise, visible on the other side
 - Blind tenon: Tenon stops inside the mortise, not visible
 - Wedged tenon: A wedge is driven through the tenon after insertion, locking it permanently
@@ -123,4 +123,4 @@ Best timber framing species by region:
 
 - [[barn-construction-reference]] — General building and construction techniques for homestead infrastructure
 - [[soap-making-guide]] — Woodworking and value-added homestead products
-- [[firewood-seasoning-and-storage]] — Related wood processing and storage principles
+- [[firewood-seasoning-and-storage]] — Related wood [[fukuoka-fruit-processing-and-natural-food-marketing]] storage principles

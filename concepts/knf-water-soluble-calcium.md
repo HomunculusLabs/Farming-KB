@@ -11,7 +11,7 @@ sources:
 
 # KNF Water Soluble Calcium (WSC)
 
-Water Soluble Calcium is extracted from eggshells, animal bones, or seashells using brown rice vinegar (BRV). It strengthens plant cell walls, improves fruit quality, and helps prevent disease.
+[[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] oluble-calcium-phosphate-preparation]] is extracted from eggshells, animal bones, or seashells using [[brown-rice-petri-plate-inoculation-vermiculite-transfer-psilocybe-cubensis-badham-1982]] own-rice-vinegar-production]] (BRV). It strengthens [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] walls, improves fruit quality, and helps prevent disease.
 
 ## Why Calcium Matters
 
@@ -35,7 +35,7 @@ Water Soluble Calcium is extracted from eggshells, animal bones, or seashells us
 2. Wash eggshells thoroughly
 3. Remove inner membrane
 4. Dry in sunlight
-5. Roast eggshells in a pot until they turn white or slightly brown (charred)
+5. Roast eggshells [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] pot until they turn white or slightly brown (charred)
 6. Crush roasted eggshells into small pieces
 7. Put crushed shells into a container
 8. Pour brown rice vinegar to cover (shells should be submerged)

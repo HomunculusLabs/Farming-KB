@@ -16,9 +16,9 @@ Black soldier fly (Hermetia illucens) [[composting]] is a bioconversion method t
 The BSF lifecycle has four stages:
 
 1.  **Egg** — Females lay 500-900 eggs near decaying organic matter. Eggs hatch in 3-4 days.
-2.  **Larva** — The active feeding stage lasts 14-21 days. Larvae grow from 1 mm to 25 mm and pass through 6 instars. This is the composting workhorse stage.
-3.  **Prepupa** — Larvae stop feeding, turn dark, and seek dry pupation sites. They migrate out of the [[compost]] on their own, enabling self-harvesting.
-4.  **Adult** — Adults live 5-8 days, do not feed, and focus solely on mating and egg-laying. They are drawn to composting bins by volatile organic compound cues.
+2.  **Larva** — The active feeding stage lasts 14-21 days. Larvae grow from 1 mm to 25 mm and pass through 6 instars. This [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] composting workhorse stage.
+3.  **Prepupa** — Larvae stop feeding, turn dark, and seek dry pupation sites. They migrate out [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] [[compost]] on their own, enabling self-harvesting.
+4.  **Adult** — Adults live 5-8 days, do not feed, and focus solely on mating and egg-laying. They are drawn to composting bins by [[plant-olfaction-volatile-organic-compound-signaling]] cues.
 
 ## Bin Design
 
@@ -49,7 +49,7 @@ Avoid: heavily salted foods, large amounts of citrus (can lower pH), and anythin
 ## Environmental Conditions
 
 - Temperature: Optimal larval growth occurs at 27-30 C (80-86 F). Below 15 C (59 F), development slows dramatically. Above 40 C (104 F), larvae die.
-- Moisture: Maintain 60-70% moisture in the substrate. Too dry and larvae desiccate; too wet and anaerobic conditions develop.
+- Moisture: Maintain 60-70% moisture in the substrate. Too dry and larvae desiccate; too wet [[aact-ph-and-anaerobic-conditions]] develop.
 - Aeration: Ensure drainage is adequate. Stagnant, waterlogged bins produce foul odors.
 - Light: Adults need UV light to trigger mating. Outdoor bins typically receive enough ambient light.
 
@@ -63,7 +63,7 @@ Alternative harvest methods:
 -  **Water flotation** — Place compost in water; larvae float and can be skimmed off.
 -  **Hand sorting** — Labor-intensive but works for small batches.
 
-Harvested larvae can be fed live to poultry and fish, dried for storage, or processed into meal. See [[black-soldier-fly-larvae-as-feed]] for details on processing and feeding.
+Harvested larvae can be fed live to poultry and fish, dried for storage, or processed into meal. See [[black-soldier-fly-larvae-as-feed]] for details on [[fukuoka-fruit-processing-and-natural-food-marketing]] feeding.
 
 ## Frass (Byproduct)
 
@@ -91,4 +91,4 @@ The residue left after larval digestion is called frass. It is a dark, odorless 
 
 BSF composting closes nutrient loops on the homestead. Food waste becomes protein for [[chickshaw-and-poultry-tractors|poultry]] and fish, and frass returns nutrients to garden beds. The system requires minimal labor once established and produces no foul odor when properly managed.
 
-The leachate can be applied to gardens as a liquid fertilizer (dilute 1:10 with water), though it should be used with caution on edible crops due to potential pathogen load from meat and dairy inputs.
+The leachate can be applied to gardens as a [[jadam-input-production-water-leaf-mold-liquid-fertilizer]] (dilute 1:10 with water), though it should be used with caution on edible crops due to potential pathogen load from meat and dairy inputs.

@@ -9,7 +9,7 @@ sources: []
 
 # Skoolie Bus Conversion
 
-A skoolie is a retired school bus converted into a mobile living space. Bus conversions offer significantly more interior space than tiny houses or vans (typically 200-300 square feet in a full-size bus), strong steel construction, and the familiarity of a vehicle platform. The conversion process involves gutting the interior, adding insulation, building out living systems, and finishing with residential-quality amenities.
+A skoolie is a retired school bus converted into a mobile living space. Bus conversions offer significantly more interior space than tiny houses or vans (typically 200-300 square feet [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] full-size bus), strong steel construction, [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] familiarity [[query-what-are-the-seven-layers-of-a-forest-garden]] vehicle platform. The conversion process involves gutting the interior, adding insulation, building out living systems, and finishing with residential-quality amenities.
 
 ## Bus Selection
 
@@ -47,7 +47,7 @@ A skoolie is a retired school bus converted into a mobile living space. Bus conv
 
 Remove everything from the interior:
 
-1. Remove all seats (bolted to the floor — use impact wrench)
+1. Remove all seats (bolted [[teaming-with-microbes-the-organic-gardeners-guide-to-the-soil-food-web]] floor — use impact wrench)
 2. Remove floor rubber — often glued with industrial adhesive; heat gun helps
 3. Remove ceiling panels and insulation (often fiberglass — wear respirator)
 4. Remove interior wall panels
@@ -67,7 +67,7 @@ Remove everything from the interior:
 
 ### Phase 3: Insulation (1-2 Weeks)
 
-Insulation is critical — metal buses conduct heat and cold aggressively. Without insulation, the bus is uninhabitable in both summer and winter.
+Insulation is critical — metal buses conduct heat [[query-what-is-the-difference-between-hot-compost-and-cold-compost]] aggressively. Without insulation, the bus is uninhabitable in both summer and winter.
 
 **Closed-Cell Spray Foam (Recommended)**
 - Spray 2-3 inches on ceiling and walls directly to metal
@@ -93,7 +93,7 @@ Insulation is critical — metal buses conduct heat and cold aggressively. Witho
 
 ### Phase 4: Framing (1-2 Weeks)
 
-Build a stud wall framework inside the bus:
+[[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] stud wall framework inside the bus:
 
 1. Use 1x2 or 2x2 lumber for wall framing (metal studs save weight)
 2. Screw through framing into the bus structural ribs
@@ -133,7 +133,7 @@ Build a stud wall framework inside the bus:
 
 **Greywater**
 - 30-50 gallon greywater tank
-- Or [[off-grid-waste-management|greywater]] disposal system with filter and direct drain
+- Or [[off-grid-waste-management|greywater]] disposal system with filter [[solomon-thinning-spacing-and-direct-seeding]] drain
 
 **Black Water**
 - Most skoolies use [[off-grid-waste-management|composting toilets]] to eliminate blackwater tanks

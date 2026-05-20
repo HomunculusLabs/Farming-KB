@@ -29,7 +29,7 @@ Modern IP camera systems are affordable and accessible for homesteads. Prioritiz
 **Camera types:**
 - Dome cameras: Vandal-resistant, wide-angle, for under eaves and covered areas
 - Bullet cameras: Long-range, weather-resistant, for driveways and perimeters
-- PTZ (Pan-Tilt-Zoom): Motorized for covering large areas from one position
+- PTZ (Pan-Tilt-Zoom): Motorized for covering [[microfungal-diversity-large-areas-site-factors]] from one position
 - Trail/game cameras: Battery-powered, cellular, for remote locations without power
 
 **Key features for homesteads:**
@@ -47,13 +47,13 @@ Modern IP camera systems are affordable and accessible for homesteads. Prioritiz
 - Animal enclosures and barns
 - Home entrances (front, back, sides)
 - Solar panel arrays and battery storage
-- Well house and utility buildings
+- Well [[underground-house-and-earth-berm-construction]] utility buildings
 
 **Brands to consider:** Reolink (budget-friendly), Ubiquiti UniFi Protect (pro-grade, requires network knowledge), Amcrest (mid-range), Hikvision/Dahua (feature-rich, Chinese-manufactured)
 
 ### Motion Sensor Lights
 
-Bright, sudden illumination is one of the most effective deterrents. Motion lights are low-cost, low-maintenance, and work on their own.
+Bright, sudden illumination is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most effective deterrents. Motion lights are low-cost, low-maintenance, and work on their own.
 
 **Types:**
 - LED floodlights (1000-3000 lumens minimum)
@@ -84,7 +84,7 @@ The first line of physical security. Gates should match the fence in strength an
 - Heavy-duty padlock with weatherproof lock body (boron alloy shackle)
 - Lock boxes that cover the hasp to prevent bolt cutting
 - Automatic gate openers with remote access and camera integration
-- Secondary gate or cattle guard as a speed bump for vehicles
+- Secondary gate or cattle guard [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] speed bump for vehicles
 - Consider a call box or intercom at the main gate for visitor screening
 
 ### Fencing and Perimeter
@@ -97,7 +97,7 @@ The first line of physical security. Gates should match the fence in strength an
 
 ## Livestock Guardian Dogs
 
-Dogs are the oldest and most reliable security system for a homestead. A well-trained livestock guardian dog (LGD) provides 24/7 protection against both human intruders and predators.
+Dogs [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] oldest and most reliable security system for a homestead. A well-trained livestock guardian dog (LGD) provides 24/7 protection against both human intruders and predators.
 
 **Best breeds for security:**
 - Great Pyrenees — calm, territorial, excellent with livestock
@@ -120,11 +120,11 @@ Dogs are the oldest and most reliable security system for a homestead. A well-tr
 
 ## Community Watch and Rural Networks
 
-Isolation is the homesteader's greatest vulnerability. A connected community is a secure community.
+Isolation [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] homesteader's greatest vulnerability. A connected community is a secure community.
 
 **Building rural security networks:**
 - Know your neighbors — exchange phone numbers and establish check-in protocols
-- Join or start a neighborhood watch program (even in rural areas)
+- Join or [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]] neighborhood watch program (even in rural areas)
 - Use radio communication (GMRS or ham radio) for local coordination
 - Establish a phone tree for emergencies
 - Share information about suspicious vehicles or persons

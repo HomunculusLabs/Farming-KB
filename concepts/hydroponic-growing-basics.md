@@ -13,7 +13,7 @@ Hydroponics is the practice of growing plants without soil by delivering nutrien
 
 ## Advantages of Hydroponics
 
-- Faster growth rates: plants spend less energy searching for nutrients and more energy on vegetative growth and flower production
+- Faster growth rates: plants spend less energy searching for [[primary-nutrients-and-mineral-sources-in-soils]] more energy on vegetative growth and flower production
 - Higher yields per square foot compared to soil
 - Precise control over nutrient ratios and concentrations
 - Reduced water usage (water is recirculated, not lost to soil drainage)
@@ -25,7 +25,7 @@ Hydroponics is the practice of growing plants without soil by delivering nutrien
 
 - Higher initial cost for equipment
 - Steeper learning curve — mistakes affect plants faster
-- No soil buffer — pH and nutrient imbalances escalate quickly
+- No soil buffer — [[ph-and-nutrient-availability-garden-soils]] ord-architecture-and-nutrient-translocation-basidiomycetes]] imbalances escalate quickly
 - Complete dependency on electricity (power failure = crop risk)
 - Less forgiving of neglect compared to living soil
 - Water quality is critical — municipal water may contain chlorine, chloramine, or minerals that cause issues
@@ -47,7 +47,7 @@ Pros:
 - Simple to build and maintain
 - Low component count
 - Excellent for single-plant or small-scale grows
-- Very low maintenance during vegetative stage
+- Very low maintenance during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 
 Cons:
 - Root rot risk if temperature exceeds 72°F / 22°C
@@ -62,7 +62,7 @@ A thin film of nutrient solution continuously flows over the root system.
 
 How it works:
 - Plants sit in channels or tubes at a slight angle (typically 1:30 to 1:40 slope)
-- Nutrient solution is pumped to the high end of the channel
+- Nutrient solution is pumped to the high end [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] channel
 - A thin film (1-3mm) of solution flows over roots by gravity
 - Excess solution drains back to the reservoir for recirculation
 - Roots grow into the channel, partly in air and partly in the film
@@ -71,7 +71,7 @@ Pros:
 - Very efficient water and nutrient use
 - Good oxygenation at the root zone (roots exposed to air between solution flow)
 - Easy to scale to multiple channels
-- Relatively low water volume needed
+- Relatively [[ultra-low-water-softening-for-pesticide-efficacy]] volume needed
 - Easy to monitor root health visually
 
 Cons:

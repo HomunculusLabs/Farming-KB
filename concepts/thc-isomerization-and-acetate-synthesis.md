@@ -6,15 +6,15 @@ type: concept
 *Source: Cannabis Alchemy, Chapters 2–3, [[ben-lemon]]*
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
+Practitioners have demonstrated successful implementation across diverse climates [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]] conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 Field trials provide essential data for validating theoretical approaches and refining methodologies.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+[[psychedelic-therapy-current-research]] explores the intersections between traditional [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] modern scientific understanding.
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
+Collaborative research networks facilitate knowledge [[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]] accelerate innovation.
 Peer-reviewed publications and practitioner reports contribute complementary perspectives.
 
 ## Key Considerations
@@ -57,7 +57,7 @@ Field observations confirm the importance of proper technique and methodology.
 Historical practices provide valuable context for modern approaches and innovations.
 Comparative studies reveal both commonalities and unique aspects across systems.
 The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
+Environmental factors play a significant [[fungal-role-in-phosphorus-cycling]] determining optimal strategies.
 Long-term studies demonstrate the sustainability and efficacy of these approaches.
 Community-based implementations have shown promising results across various regions.
 Advanced practitioners continue to refine and optimize these established methods.
@@ -66,7 +66,7 @@ Educational resources support broader adoption of best practices in this field.
 Economic analyses suggest favorable returns for properly implemented projects.
 Cross-disciplinary collaboration has accelerated progress in this developing field.
 Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+Regulatory frameworks continue to evolve alongside growing understanding [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] topic.
 The global perspective reveals both shared challenges and region-specific adaptations.
 Innovative approaches continue to emerge from both research and field experience.
 Systematic documentation of methods enables replication and improvement over time.

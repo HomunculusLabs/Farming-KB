@@ -9,7 +9,7 @@ sources: []
 
 # Cob Building Basics Detailed
 
-Cob is a [[natural-building]] material made from subsoil, sand, straw, and water. Mixed by foot on a tarp and applied in thick layers by hand, cob creates monolithic walls that are sculptural, incredibly durable, and made from materials found on most homestead sites. Cob buildings have survived for hundreds of years in England, Yemen, and other regions with wet climates.
+Cob is a [[natural-building]] material made from subsoil, sand, straw, [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]. Mixed by foot on a tarp and applied in thick layers by hand, cob creates monolithic walls that are sculptural, incredibly durable, and made from materials found on most homestead sites. Cob buildings have survived for hundreds of years in England, Yemen, and other regions with wet climates.
 
 ## What Is Cob
 
@@ -22,13 +22,13 @@ The ideal cob mix contains approximately:
 - Subsoil: 50-75% (must contain 15-30% clay)
 - Sand: 25-50%
 - Straw: handfuls per batch (roughly 5-10% by volume)
-- Water: enough to make a workable, stiff mix
+- Water: enough [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]] workable, stiff mix
 
 ### Testing Your Soil
 
 **Jar Test:**
 1. Fill a clear jar 1/3 full with your subsoil
-2. Fill the rest with water and a drop of dish soap
+2. Fill the rest with water [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] drop of dish soap
 3. Shake vigorously and let settle for 24-48 hours
 4. Sand settles in seconds, silt in minutes, clay in hours/days
 5. Ideal soil has visible layers of all three
@@ -97,10 +97,10 @@ Cob walls must be elevated above ground on a stone or concrete foundation:
 ### Bonding Between Lifts
 
 When starting a new lift on a partially dried previous lift:
-1. Wet the surface of the previous lift (not soaked, just dampened)
+1. Wet the surface [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] previous lift (not soaked, just dampened)
 2. Score horizontal grooves with a stick or cob tool
 3. Press fresh cob firmly into the scored, dampened surface
-4. Poor bonding between lifts is the most common cause of structural failure
+4. Poor bonding between lifts [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] cause of structural failure
 
 ### Window and Door Openings
 

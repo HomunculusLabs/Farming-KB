@@ -13,11 +13,11 @@ Training techniques manipulate cannabis plant structure to optimize light distri
 
 ## Low-Stress Training (LST)
 
-LST involves bending and securing branches to create an even, flat canopy. It is the least invasive training method and suitable for all experience levels.
+LST involves bending and securing branches to create an even, flat canopy. It [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] least invasive training method and suitable for all experience levels.
 
 ### How It Works
 
-- Select flexible branches and bend them away from the center of the plant
+- Select flexible branches and bend them away from the center [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] plant
 - Secure with soft wire ties, garden twist ties, or string anchored to the pot
 - Work incrementally — bend a little more each day over several days
 - Pull outer branches down and inward; pull center branches outward
@@ -64,8 +64,8 @@ Main-lining is a systematic approach that creates a perfectly symmetrical plant 
 
 ### Process
 
-1. **First top**: Cut the seedling above the 3rd node (leaving 2 sets of true leaves and the cotyledons)
-2. **Wait for recovery**: Allow 2 new branches to grow from each node
+1. **First top**: Cut the seedling above the 3rd node (leaving 2 sets of true leaves [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] cotyledons)
+2. **Wait for recovery**: Allow 2 new branches [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] from each node
 3. **Tie down**: Bend each new branch to its own quadrant using LST
 4. **Second top**: Top each of the 4 main branches above the 3rd or 4th node
 5. **Repeat**: Continue topping and training until the desired number of main colas is reached (typically 8-16)
@@ -85,7 +85,7 @@ Main-lining is a systematic approach that creates a perfectly symmetrical plant 
 
 ## Defoliation
 
-Defoliation is the strategic removal of leaves to improve light penetration and airflow. It is one of the most debated techniques in cannabis cultivation.
+Defoliation is the strategic removal of [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] improve light penetration and airflow. It is one of the most debated techniques in cannabis cultivation.
 
 ### When to Defoliate
 
@@ -113,10 +113,10 @@ Proponents argue defoliation increases yield by redirecting energy to buds. Crit
 | Result | 2 main colas from cut site | 2-4 colas (less predictable) |
 | Recovery time | 3-5 days | 2-3 days |
 | Predictability | High | Low to moderate |
-| Best for | Controlled structure | Maximum cola count |
+| [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] | Controlled structure | Maximum cola count |
 | Risk | Low (clean cut) | Moderate (uneven regrowth) |
 
-Topping is generally preferred for structured training like main-lining. FIM is useful for growers who want to maximize branch count without committing to a formal manifold.
+Topping is generally preferred for structured training like main-lining. FIM is useful [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]] who want to maximize branch count without committing to a formal manifold.
 
 ## Super Cropping
 

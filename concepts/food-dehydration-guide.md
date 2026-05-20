@@ -30,11 +30,11 @@ A passive solar dehydrator uses sunlight and natural convection. Build a simple 
 
 ### Oven Drying
 
-Ovens can be used in a pinch but are energy-intensive. Set to the lowest temperature (140-170 F) and prop the door open with a wooden spoon for airflow. Results are less consistent than dedicated dehydrators.
+Ovens can [[query-how-can-duckweed-be-used-in-a-permaculture-pond]] query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] pinch but are energy-intensive. Set to the lowest temperature (140-170 F) and prop the door open with a wooden spoon for airflow. Results are less consistent than dedicated dehydrators.
 
 ## Temperature Guidelines
 
-Temperature is critical -- too high and food case-hardens (dry exterior, moist interior), too low and spoilage can occur before drying completes.
+Temperature is critical -- too high [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] case-hardens (dry exterior, moist interior), too low and spoilage can occur before drying completes.
 
 - Herbs: 95-110 F (preserves volatile oils)
 - Greens (kale, spinach): 125 F
@@ -98,7 +98,7 @@ Proper storage extends shelf life significantly:
 - Cool, dark, dry location
 - Airtight containers: mason jars with oxygen absorbers, vacuum-sealed bags, or mylar bags
 - Glass jars are ideal -- you can see moisture condensation if any develops
-- Add food-grade silica gel packets for extra protection
+- Add food-grade [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] packets for extra protection
 - Label with contents and date
 
 ### Shelf Life
@@ -128,13 +128,13 @@ Fruit leather (fruit roll-ups) is an excellent use for overripe fruit and homest
 3. Sweeten to taste with honey, maple syrup, or sugar (optional)
 4. Pour 1/8 inch thick onto dehydrator tray lined with parchment paper or a silicone mat
 5. Dry at 135 F for 4-8 hours
-6. Leather is done when it peels away cleanly and is no longer sticky in the center
+6. Leather is done when it peels away cleanly and is no longer sticky [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] center
 7. Roll in parchment paper, cut into strips, and store in airtight containers
 
 ## Troubleshooting
 
 - Food is still sticky after extended drying: Temperature too low or pieces too thick. Cut thinner and increase temperature slightly.
-- Case hardening (dry outside, moist inside): Temperature too high. Lower temperature and continue drying.
+- Case hardening (dry outside, moist inside): Temperature too high. Lower [[pf-tek-fruiting-chamber-temperature-and-heating-principles]] continue drying.
 - Mold during storage: Food was not fully dried. Discard affected items.
 - Flavor loss: Over-drying or storage in warm conditions. Rehydrate before use.
 - Uneven drying: Rotate trays periodically. Ensure adequate air circulation between pieces.

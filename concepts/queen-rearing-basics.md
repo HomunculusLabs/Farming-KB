@@ -9,7 +9,7 @@ sources: []
 
 # Queen Rearing Basics
 
-Queen rearing is the practice of raising new honey bee queens from existing
+Queen rearing [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] practice of raising new honey bee queens from existing
 colony stock. It enables beekeepers to replace failing queens, increase
 colony numbers, and selectively breed for desirable traits. This guide
 covers the most accessible methods for small-scale and hobbyist beekeepers.
@@ -57,15 +57,15 @@ queens may be lower quality because they are raised from older larvae.
 ## Method 2: Grafting
 
 The standard method for raising large numbers of high-quality queens.
-Requires a grafting tool, cell cups, cell bars, and a starter colony.
+Requires a grafting tool, cell cups, cell bars, [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] starter colony.
 
 ### Procedure
 1. **Prepare cell bars** — attach plastic or wax cell cups to bars
-2. **Set up a starter colony** — a queenless, heavily provisioned colony
+2. **[[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]] a starter colony** — a queenless, heavily provisioned colony
    with many young nurse bees; confine the queen below a queen excluder or
    move her to another box
 3. **Graft larvae** — using a grafting tool, transfer 12-18 hour old larvae
-   (just hatched, barely visible in the royal jelly pool) into the cell cups
+   (just hatched, barely visible [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] royal jelly pool) into the cell cups
 4. **Place cell bars** in the starter colony for 24-48 hours for cell
    acceptance
 5. **Move to finisher colony** — transfer cell bars to a queenright colony
@@ -77,7 +77,7 @@ Requires a grafting tool, cell cups, cell bars, and a starter colony.
 
 ### Grafting Tips
 - Work quickly; larvae dry out and die in seconds
-- Choose the smallest, youngest larvae possible for the best queens
+- Choose the smallest, youngest larvae possible for [[query-what-are-the-best-native-fruiting-shrubs-for-a-permaculture-food-forest]] queens
 - Warm the grafting area; cold larvae have low acceptance
 - Practice with water or honey before attempting real grafts
 
@@ -94,7 +94,7 @@ A commercial system that avoids the skill-intensive grafting step.
 4. From here, the process is the same as grafting
 
 ### Advantages
-- No grafting skill required — ideal for beginners
+- No grafting skill required — ideal [[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]]
 - Ensures optimal larval age (exactly 0 days old)
 - More consistent results than emergency queen rearing
 
@@ -146,4 +146,4 @@ or kill a queen they do not accept.
 - [[hemenway-chicken-tractor-and-poultry-integration]]
 ## Selecting Breeder Stock
 
-The quality of your queens depends on the genetics of the breeder colony.
+The quality of your queens depends on the genetics [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] breeder colony.

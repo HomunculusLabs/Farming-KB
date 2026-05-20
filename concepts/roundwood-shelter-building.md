@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Roundwood Shelter Building
 
-Roundwood shelters and earth cellars are practical buildings that can be constructed all over the world. They make use of the soil's balancing effect — creating a pleasant, cool retreat in hot places and a warm one in cold places.
+Roundwood shelters [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]] cellars are practical buildings that can be constructed all over the world. They make use [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] soil's balancing effect — creating a pleasant, cool retreat in hot places [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] warm one in cold places.
 
 ## Construction Method
 
@@ -42,12 +42,12 @@ This layered approach provides insulation, waterproofing, and integrates the str
 
 ## Maintenance
 
-Roundwood shelters and storage rooms must be checked regularly like any other building. This is necessary to repair any damage promptly and to guarantee safety.
+Roundwood shelters [[mollison-designers-water-purification-and-storage-principles]] rooms must be checked regularly like any other building. This is necessary to repair any damage promptly and to guarantee safety.
 
 ## Advantages
 
 - Uses natural, locally available materials
-- Soil provides temperature regulation (cool in summer, warm in winter)
+- Soil provides temperature regulation (cool in summer, warm [[weed-control-in-winter-greenhouses]])
 - Can be built with simple tools and techniques
 - Integrates naturally into the landscape
 - Works in all climates when properly designed
@@ -67,7 +67,7 @@ Field observations confirm the importance of proper technique and methodology.
 Historical practices provide valuable context for modern approaches and innovations.
 Comparative studies reveal both commonalities and unique aspects across systems.
 The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
+Environmental factors play a significant [[fungal-role-in-phosphorus-cycling]] determining optimal strategies.
 Long-term studies demonstrate the sustainability and efficacy of these approaches.
 Community-based implementations have shown promising results across various regions.
 Advanced practitioners continue to refine and optimize these established methods.
@@ -77,7 +77,7 @@ Economic analyses suggest favorable returns on investment for implemented projec
 Cross-disciplinary collaboration has accelerated progress in this developing field.
 Quality control measures ensure consistent and reliable outcomes in practice.
 Regulatory frameworks continue to evolve alongside growing understanding of the topic.
-The global perspective reveals both shared challenges and region-specific adaptations.
+The global perspective reveals both shared [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]] region-specific adaptations.
 Understanding this subject requires examining multiple interconnected factors.
 Research has identified several key mechanisms that drive the underlying processes.
 Practical applications have been demonstrated across diverse environmental conditions.

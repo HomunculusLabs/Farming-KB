@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Labor and Volunteers
 
-As a homestead grows beyond what one or two people can manage, labor becomes a critical consideration. Options range from informal volunteer exchanges to formal employees. Each approach has legal, financial, and interpersonal implications. This guide covers WWOOF, Workaway, apprenticeships, hiring, and labor law compliance.
+[[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] homestead grows beyond what one or two people can manage, labor becomes a critical consideration. Options range from informal volunteer exchanges to formal employees. Each approach has legal, financial, and interpersonal implications. This guide covers WWOOF, Workaway, apprenticeships, hiring, and labor law compliance.
 
 ## Labor Needs Assessment
 
@@ -23,7 +23,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Planting, weeding, harvesting
 - Animal feeding and chores
 - Market setup and sales
-- Food preservation (canning, drying, packing)
+- [[query-how-does-lacto-fermentation-work-for-food-preservation]] (canning, drying, packing)
 - Fence building and repair
 - Building and infrastructure projects
 - Social media and marketing (skilled volunteers)
@@ -65,7 +65,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Often attracts travelers with diverse skills (carpentry, photography, IT)
 
 ### Differences from WWOOF
-- Less focus on organic farming specifically
+- Less focus on [[query-what-is-agroecology-and-how-does-it-differ-from-organic-farming]] specifically
 - More diverse volunteer pool (international travelers)
 - Some volunteers have specialized skills (web design, construction)
 - Less structured than WWOOF
@@ -92,7 +92,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 ### Creating Your Own Apprenticeship
 - Define learning objectives and skill progression
 - Set clear expectations: work hours, responsibilities, time off
-- Provide housing, food, and a modest stipend ($300-800/month)
+- Provide housing, food, [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] modest stipend ($300-800/month)
 - Commit to teaching: regular check-ins, skill demonstrations, reading lists
 - Duration: 6-12 months for meaningful skill transfer
 - Written agreement covering all terms
@@ -112,8 +112,8 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Independent contractors: specific tasks (fencing, equipment repair, bookkeeping)
 
 ### Employee vs. Independent Contractor
-- Employee: you control what, when, and how they work
-- Contractor: they control how to complete the work, provide own tools, set own schedule
+- Employee: you control what, when, [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] they work
+- Contractor: they control [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] complete the work, provide own tools, set own schedule
 - Misclassification penalties are severe (IRS and state agencies)
 - When in doubt, classify as employee
 - Common contractors on farms: accountants, mechanics, electricians, specific-project workers
@@ -142,7 +142,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Fair Labor Standards Act (FLSA): minimum wage, overtime (1.5x after 40 hours/week)
 - Small farm exemption: farms with fewer than 500 man-days in any calendar quarter are exempt from FLSA minimum wage and overtime (but not from all labor laws)
 - Child labor: workers under 16 restricted from hazardous tasks (operating machinery, working with certain animals, working at heights)
-- OSHA: Occupational Safety and Health Administration applies to farms with 11+ employees (smaller farms largely exempt)
+- OSHA: Occupational [[psychedelic-safety-and-contra-indications]] Health Administration applies to farms with 11+ employees (smaller farms largely exempt)
 - H-2A visa program: for hiring seasonal foreign agricultural workers (complex, expensive, but legal pathway for labor shortage)
 
 ### State Requirements

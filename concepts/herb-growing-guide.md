@@ -28,13 +28,13 @@ Return year after year in appropriate climate zones. Some are evergreen; others 
 | Mint | 3-9 | Extremely invasive — always container-grow |
 | Chives | 3-9 | Clump-forming, divide every 3 years |
 | Lavender | 5-9 | Needs excellent drainage; short-lived in humidity |
-| Lemon Balm | 3-9 | Mint family, can be invasive |
+| [[query-how-do-i-grow-and-use-lemon-balm-in-my-garden]] | 3-9 | Mint family, can be invasive |
 | Tarragon (French) | 4-9 | Dies back in winter; reliable returner |
 | Winter Savory | 5-8 | Hardy, peppery flavor |
 | Fennel | 5-9 | Perennial in mild zones; self-seeds freely |
 
 ### Annual Herbs
-Complete their life cycle in one growing season. Must be replanted each year, though some self-seed readily.
+Complete their life cycle [[fao-three-in-one-training-rehabilitation-mushroom-enterprise]] growing season. Must be replanted each year, though some self-seed readily.
 
 | Herb | Notes |
 |------|-------|
@@ -56,7 +56,7 @@ Complete their life cycle in one growing season. Must be replanted each year, th
 ### Mediterranean / Italian
 - Basil, oregano, rosemary, thyme, parsley
 - Essential for pasta sauces, pizza, grilled meats
-- Basil is the standout annual; oregano and thyme are perennial staples
+- Basil [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] standout annual; oregano and thyme are perennial staples
 
 ### French / fines herbes
 - Chives, tarragon, parsley, chervil
@@ -99,7 +99,7 @@ Complete their life cycle in one growing season. Must be replanted each year, th
 - Basil demands consistent moisture — wilts dramatically when dry
 - Mint prefers consistently moist soil
 - Lavender and rosemary prefer to dry out between waterings
-- Overwatering is the most common cause of indoor herb death
+- Overwatering is [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] cause of indoor herb death
 
 ## Drying and Preserving
 
@@ -117,7 +117,7 @@ Complete their life cycle in one growing season. Must be replanted each year, th
 - Typically 4-8 hours depending on herb and thickness
 
 ### Freezing
-- Best for herbs that lose flavor when dried: basil, cilantro, chives, dill, parsley
+- [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] herbs that lose flavor when dried: basil, cilantro, chives, dill, parsley
 - Chop herbs, pack into ice cube trays, cover with water or olive oil, freeze
 - Pop cubes out and store in freezer bags for up to 6 months
 - Alternatively, freeze whole leaves in bags
@@ -144,6 +144,6 @@ Growing herbs indoors extends the harvest year-round, especially for tender pere
 
 - [[lettuce-and-leafy-greens]] for companion greens
 - [[urban-farming-methods]] for container and indoor growing techniques
-- [[seasonal-gardening-calendar]] for planting and harvesting timing
+- [[seasonal-gardening-calendar]] [[making-hills-for-planting]] and harvesting timing
 
 ## Related

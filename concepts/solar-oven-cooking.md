@@ -37,9 +37,9 @@ panels that fold out to direct light into the box.
 **Characteristics:**
 - Temperature range: 200-300F (93-149C)
 - Cooking style: slow, similar to a crock pot
-- Advantages: stable temperature, easy to use, good for baking
+- Advantages: stable temperature, easy [[query-how-to-use-cover-crops-for-heavy-clay-soil-improvement]], good for baking
 - Disadvantages: heavier, slower to heat up
-- Best for: breads, casseroles, roasts, grains, soups
+- [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]: breads, casseroles, roasts, grains, soups
 
 ### Panel Cooker
 
@@ -72,7 +72,7 @@ point where the cooking pot is positioned.
 ### Materials
 - Cardboard box (inner) — medium size, roughly 18x18x12 inches
 - Cardboard box (outer) — 2-3 inches larger on all sides
-- Aluminum foil — heavy duty, for reflective panels
+- Aluminum foil — [[oner-peptide-limestone-city-seeds-heavy-duty-fruity-sweet-tooth-durban-poison]], for reflective panels
 - Black spray paint — high-heat rated, for interior
 - Glazing — tempered glass or oven-safe polycarbonate
 - Insulation — crumpled newspaper, foam board, or wool
@@ -81,7 +81,7 @@ point where the cooking pot is positioned.
 ### Construction Steps
 1. Cut the inner box to fit inside the outer box with a 2-inch gap on all
    sides for insulation
-2. Paint the interior of the inner box black
+2. Paint the interior [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] inner box black
 3. Fill the gap between boxes with insulation (crumpled newspaper works well)
 4. Cut and attach reflective flap panels from cardboard and aluminum foil
    to the outer box lid — these hinge open at a 45-degree angle
@@ -95,12 +95,12 @@ hours. More durable versions using plywood or sheet metal cost $50-150.
 
 ## Cooking Times and Techniques
 
-Solar cooking is slower than conventional methods. Plan for 1.5-2x the
+[[comparison-biomass-compost-greenhouse-heating-systems-vs-solar-cooking-methods]] is slower than conventional methods. Plan for 1.5-2x the
 normal cooking time.
 
 ### General Guidelines
 - Preheat the oven for 20-30 minutes before adding food
-- Position the oven facing due south (in the Northern Hemisphere)
+- Position the oven facing due south ([[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] Northern Hemisphere)
 - Adjust the reflector angle every 30-45 minutes to track the sun
 - Use dark, thin-walled pots with tight-fitting lids for fastest results
 - Cast iron works well due to its heat retention
@@ -123,7 +123,7 @@ normal cooking time.
 ### Solar Bread
 - 3 cups flour, 1 packet yeast, 1.5 cups warm water, 1 tbsp salt, 1 tbsp oil
 - Mix, knead, let rise 1 hour in the sun
-- Place in a greased dark bread pan, cover with lid
+- Place [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] greased dark bread pan, cover with lid
 - Bake in solar oven at 250-300F for 1-1.5 hours
 - Internal temp should reach 190F
 

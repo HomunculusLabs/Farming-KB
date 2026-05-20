@@ -10,7 +10,7 @@ sources: []
 On-farm slaughter and processing is a fundamental [[homesteading]] skill that
 provides complete control over meat quality, animal welfare at harvest, and
 food safety. Processing your own animals eliminates processing fees and
-allows full utilization of every part of the animal. This guide covers the
+allows full utilization of every part [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] animal. This guide covers the
 general process applicable to most homestead livestock (poultry, rabbits,
 sheep, goats, pigs, and cattle).
 
@@ -52,7 +52,7 @@ sheep, goats, pigs, and cattle).
   for cleaner evisceration.
 - Handle animals calmly to minimize stress (stress affects meat quality —
   dark cutting, PSE pork, tough meat).
-- Process early in the morning when possible.
+- Process early [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] llegro-star-of-the-morning-venus-and-the-sacred-mushroom]] when possible.
 
 ## Slaughter and Dispatch
 
@@ -60,7 +60,7 @@ sheep, goats, pigs, and cattle).
 - **Cervical dislocation:** Quick, effective for birds and rabbits under
   5 lbs. Hold the bird/rabbit, dislocate the neck with a swift pull and
   twist. Ensure immediate unconsciousness before proceeding.
-- **Killing cone:** Bird is placed head-down in a cone, neck extended.
+- **Killing cone:** Bird is placed head-down [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] cone, neck extended.
   Sever the carotid arteries and jugular vein on both sides of the neck
   with a sharp knife. Allow the bird to bleed out completely (2-3 minutes).
 - **Broomstick method (rabbits):** Place a bar behind the rabbit's ears,
@@ -85,7 +85,7 @@ sheep, goats, pigs, and cattle).
 ## Skinning
 
 ### General Procedure
-- Hang the carcass by the hind legs on a gambrel.
+- Hang the carcass by the hind legs [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] gambrel.
 - Make initial cuts around each hind leg below the hock. Slit between the
   legs along the inside of the thighs to the pelvic area.
 - Begin pulling the hide down from the hind legs, using your knife only to
@@ -108,7 +108,7 @@ sheep, goats, pigs, and cattle).
 ## Gutting (Evisceration)
 
 ### Procedure
-- Open the abdominal cavity: make a shallow cut through the abdominal wall
+- Open the abdominal cavity: [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]] shallow cut through the abdominal wall
   starting at the pelvis (avoid cutting the intestines). Use your free
   hand to guide the knife and protect the organs.
 - Cut down the midline to the breastbone.
@@ -139,7 +139,7 @@ sheep, goats, pigs, and cattle).
   hours) before cutting. Cold meat cuts cleanly.
 - Target temperature: 33-40°F internal.
 - Large animals: hang in a cool, dry, well-ventilated space. Small animals:
-  submerge in ice water.
+  submerge in [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]].
 
 ### Basic Cuts (Beef/Lamb/Goat/Pork)
 - **Primal cuts:** Chuck, rib, loin, round, flank, brisket, plate (beef).

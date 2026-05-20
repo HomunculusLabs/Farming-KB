@@ -9,7 +9,7 @@ sources: []
 
 # Firewood Seasoning and Storage
 
-Properly seasoned firewood is essential for efficient heating, reduced creosote buildup, and a cleaner burn. Green (freshly cut) wood can contain 50% or more moisture by weight and produces excessive smoke, low heat, and dangerous chimney deposits. This page covers wood species selection, BTU values, splitting techniques, stacking methods, seasoning timelines, and moisture measurement.
+Properly seasoned firewood is essential for efficient heating, reduced creosote buildup, [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] cleaner burn. Green (freshly cut) wood can contain 50% or more moisture by weight and produces excessive smoke, low heat, and dangerous chimney deposits. This page covers wood species selection, BTU values, splitting techniques, stacking methods, seasoning timelines, and moisture measurement.
 
 ## Wood Species BTU Comparison
 
@@ -48,7 +48,7 @@ Split wood seasons 2-3 times faster than round wood because surface area is dram
 - Use an 8-pound maul for most hardwoods
 - Start with the maul, switch to wedges for stubborn pieces
 - Strike with the grain, not across it
-- Let the weight of the maul do the work
+- Let the weight [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] maul do the work
 
 **Hydraulic Splitter:**
 - Worth the investment if processing more than 5 cords per year
@@ -56,7 +56,7 @@ Split wood seasons 2-3 times faster than round wood because surface area is dram
 - 30+ ton for knotty elm or large oak
 
 **Felling Axe vs. Splitting Maul:**
-- Felling axes are too thin — they wedge in the wood
+- Felling axes are too thin — they wedge [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] wood
 - Splitting mauls have a wider, heavier head designed to force wood apart
 - Never use an axe to split on a block — it damages the handle
 
@@ -68,7 +68,7 @@ Aim for pieces 3-6 inches across the widest face. This size dries efficiently an
 
 ### End-Stacked (Traditional)
 
-The most common method. Wood is stacked in parallel rows with the ends visible.
+[[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] method. Wood is stacked in parallel rows with the ends visible.
 
 **Best practices:**
 - Stack on treated wood pallets or rails — never directly on dirt
@@ -119,9 +119,9 @@ Wood must dry to below 20% moisture content for optimal burning. Target seasonin
 
 ## Using a Moisture Meter
 
-A pin-type moisture meter is the only reliable way to determine if wood is ready to burn. Relying on visual cues (cracks, weight) is inaccurate.
+A pin-type moisture meter [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] only reliable way to determine if wood is ready to burn. Relying on visual cues (cracks, weight) is inaccurate.
 
-**How to use:**
+**[[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] y-how-to-use-cover-crops-for-heavy-clay-soil-improvement]]:**
 - Push pins into the split face, not the bark side
 - Take readings from multiple pieces in the stack
 - Measure the freshly split face for the most accurate reading

@@ -9,7 +9,7 @@ sources: []
 
 ## What Is Nut Butter
 
-Nut butter is a spreadable paste made by grinding nuts (or seeds) into a smooth or crunchy consistency. The most common varieties are peanut butter, almond butter, and cashew butter, but virtually any nut or seed can be processed into butter. Homemade nut butters are superior to commercial versions — they contain no hydrogenated oils, excess sugar, preservatives, or emulsifiers. Making nut butter at home requires only a food processor and patience.
+Nut butter is a spreadable paste made by grinding nuts (or seeds) into a smooth or crunchy consistency. [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] varieties are peanut butter, almond butter, and cashew butter, but virtually any nut or seed can be processed into butter. Homemade nut butters are superior [[mckenna-tobacco-shamanic-to-commercial-dilution-process]] versions — they contain no hydrogenated oils, excess sugar, preservatives, or emulsifiers. Making nut butter [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]] requires only a food processor and patience.
 
 ## Equipment
 
@@ -44,7 +44,7 @@ A food processor is generally preferred over a blender because the wider bowl sh
 - Raw cashews: naturally softer and creamier than almonds; process quickly
 - Roasted cashews: richer flavor, slightly faster processing
 - Roast at 325F (165C) for 8-12 minutes (cashews burn easily — watch closely)
-- Cashew butter is naturally the creamiest of the common nut butters
+- Cashew butter is naturally the creamiest [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] common nut butters
 - Requires less processing time than almond or peanut butter (5-8 minutes vs 12-20 minutes)
 
 ### Other Nut Butters
@@ -113,7 +113,7 @@ Most nuts will become smooth without added oil if processed long enough. However
 
 ### Crunchy Butter
 
-To make crunchy nut butter:
+[[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] crunchy nut butter:
 1. Process all but 1/4 cup of the nuts into smooth butter
 2. Roughly chop the reserved nuts
 3. Fold chopped nuts into the finished butter
@@ -131,7 +131,7 @@ Natural nut butters will separate over time, with the oil rising to the top. Thi
 
 - Room temperature: 2-4 weeks in an airtight jar (stir before each use)
 - Refrigeration: 2-3 months; butter will thicken and become harder to spread
-- Freezing: up to 6 months; thaw in the refrigerator before using
+- Freezing: up to 6 months; thaw [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] refrigerator before using
 - Glass jars with tight lids are ideal
 - If mold appears (rare due to low moisture), discard immediately
 - Label with the date and flavor
@@ -146,5 +146,5 @@ Natural nut butters will separate over time, with the oil rising to the top. Thi
 ## See Also
 
 - [[granola-making]] — homemade granola pairs perfectly with nut butters
-- [[dried-herb-storage]] — principles of storing homemade food products
+- [[dried-herb-storage]] — [[fukuoka-four-principles-of-natural-farming]] storing homemade food products
 - [[pickle-making]] — other homestead food processing projects

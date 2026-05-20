@@ -9,19 +9,19 @@ sources: []
 
 # Homestead Dairy Equipment
 
-A well-equipped homestead dairy makes milking, processing, and value-added production efficient and enjoyable. The right equipment reduces labor, improves product quality, and enables diversification into cheese, butter, yogurt, and other dairy products. This guide covers the essential equipment for a small-scale homestead dairy operation (1-10 milking animals).
+A well-equipped homestead dairy makes milking, processing, and value-added production efficient and enjoyable. The right equipment reduces labor, improves product quality, and enables diversification into cheese, butter, yogurt, and other dairy products. This guide covers the essential equipment [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]-scale homestead dairy operation (1-10 milking animals).
 
 ## Milking Equipment
 
 ### Hand Milking
 
-For small herds (1-5 goats or 1-2 cows), hand milking is the most economical and simple approach.
+For small herds (1-5 goats or 1-2 cows), hand milking [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most economical and simple approach.
 
 -  **Milking pail** — Stainless steel, 8-12 quart capacity. Features a swing-out handle to avoid contamination. A wide mouth makes pouring easy. Cost: $20-40.
 -  **Milking stool** — Low, stable seat. Traditional three-legged stools work but any low seat with good stability is adequate.
 -  **Strip cup** — A small black plastic or metal cup with a fine mesh insert. The first few streams from each teat are stripped into this cup to check for clots, blood, or flakes (mastitis indicators). Cost: $5-15.
 -  **Teat dip cup** — Holds teat dip solution for pre- and post-milking teat sanitation. Cost: $5-10.
--  **Udder wash** — A dedicated bucket with warm water and a dairy sanitizer or mild soap for pre-milking udder cleaning.
+-  **Udder wash** — A dedicated bucket with warm water [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] dairy sanitizer or mild soap for pre-milking udder cleaning.
 -  **Single-use towels** — Paper towels for drying udders after washing. Avoid cloth towels for milking (harbor bacteria despite washing).
 
 ### Machine Milking
@@ -48,9 +48,9 @@ Machine milking becomes worthwhile at 5+ animals or for daily time savings.
 
 ### Rapid Cooling
 
-Cooling milk quickly after milking is the most important step for quality and safety. See [[raw-milk-guide]] for detailed protocols.
+Cooling milk quickly after milking is [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] step for quality and safety. See [[raw-milk-guide]] for detailed protocols.
 
--  **Ice bath setup** — Place the milking bucket in a larger container (milk can or bus tub) filled with ice water. Stir milk periodically for even cooling. Bring from 38 C to 4 C within 1 hour.
+-  **Ice bath setup** — Place the milking bucket in a larger container (milk can or bus tub) filled with [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]. Stir milk periodically for even cooling. Bring from 38 C to 4 C within 1 hour.
 -  **Plate cooler** — A heat exchanger that uses cold running water to chill milk as it flows from the milking bucket to the storage container. Requires a steady cold water supply. Cost: $100-300.
 -  **Bulk tank with cooling** — For larger operations. An insulated tank with a built-in refrigeration unit that agitates and cools milk to 4 C automatically. Cost: $1,500-5,000.
 
@@ -98,7 +98,7 @@ A cream separator spins milk at high speed in a centrifuge, separating the light
 2.  **Churn** — Agitate cream until butter grains form and separate from buttermilk (10-20 minutes depending on method and temperature). Optimal cream temperature: 10-15 C (50-59 F).
 3.  **Drain buttermilk** — Pour off the buttermilk through a strainer. Save for baking, drinking, or animal feed.
 4.  **Wash butter** — Add cold water to the butter grains, knead to remove residual buttermilk. Repeat until rinse water runs clear. Residual buttermilk causes off-flavors and rapid spoilage.
-5.  **Salt** — Knead in non-iodized salt to taste (1/4 teaspoon per pound of butter is standard). Salt acts as a preservative and flavor enhancer.
+5.  **Salt** — Knead in non-iodized salt to taste (1/4 teaspoon per pound of butter is standard). Salt acts [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] preservative and flavor enhancer.
 6.  **Shape and store** — Press into molds, roll into logs with wax paper, or pack into containers. Refrigerate for up to 2 months or freeze for up to 12 months.
 
 ### Yield
@@ -113,7 +113,7 @@ Pasteurization equipment is needed when selling dairy products commercially or w
 ### Small-Batch Pasteurizer Options
 
 -  **Double boiler method** — Heat milk in a stainless steel container set inside a larger pot of water. Stir constantly. Use a dairy thermometer to verify temperature. Heat to 63 C (145 F) and hold for 30 minutes (vat method). Cool rapidly in ice bath. No special equipment beyond what most kitchens already have.
--  **Dedicated dairy pasteurizer** — Electric units with built-in temperature control and agitation. Ensure precise temperature and hold time. Cost: $200-600.
+-  **Dedicated dairy pasteurizer** — Electric units with built-in temperature control and agitation. Ensure precise [[pf-tek-fruiting-chamber-temperature-and-heating-principles]] hold time. Cost: $200-600.
 -  **Solar pasteurizer** — Solar oven design that achieves pasteurization temperatures. Useful for off-grid operations but less precise.
 
 ### Pasteurization Methods

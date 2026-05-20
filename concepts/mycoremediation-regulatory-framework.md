@@ -9,7 +9,7 @@ sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 
 # Mycoremediation Regulatory Framework
 
-The regulatory landscape for [[mycoremediation]] is still developing. While fungi offer promising solutions for environmental cleanup, deploying living organisms in the environment involves regulatory considerations around safety, efficacy, and liability. Understanding this framework is essential for anyone considering field-scale mycoremediation projects.
+The regulatory landscape for [[mycoremediation]] is still developing. While fungi offer promising solutions for environmental cleanup, deploying [[savory-living-organisms-as-tools]] [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] i-in-the-environment-saltmarsh-cordgrass-laccase-decomposition]] involves regulatory considerations around safety, efficacy, and liability. Understanding this framework is essential for anyone considering field-scale mycoremediation projects.
 
 ## Current Status
 
@@ -74,7 +74,7 @@ The regulatory landscape for [[mycoremediation]] is still developing. While fung
 - Ecological risk assessment (not just chemical concentration)
 
 ### Verification
-- Third-party laboratory analysis of soil/water samples
+- Third-party laboratory analysis [[hamilton-the-four-phases-of-soil-management]]/water samples
 - Statistical comparison of pre- and post-remediation data
 - Ecological assessment (soil organism health, plant bioassays)
 
@@ -91,11 +91,11 @@ The regulatory landscape for [[mycoremediation]] is still developing. While fung
 
 ## Future Directions
 - ASTM and ISO developing standards for biological remediation
-- EPA exploring mycoremediation as a "green remediation" technology
+- EPA exploring mycoremediation [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] "green remediation" technology
 - Insurance industry developing products for biological remediation projects
 - Growing acceptance as pilot projects demonstrate efficacy
 
 ## Related
 - mycoremediation overview — for the science
 - [[mycoremediation-field-applications]] — for case studies
-- [[mycoremediation-petroleum-hydrocarbons]] — for the most common application
+- [[mycoremediation-petroleum-hydrocarbons]] — for [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] application

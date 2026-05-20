@@ -13,7 +13,7 @@ Tinctures are concentrated liquid herbal extracts made by soaking plant material
 
 ## What Is a Tincture?
 
-A tincture is a solution of herbal constituents dissolved in a solvent (menstruum). The standard tincture ratio is expressed as 1:5 (1 part dried herb by weight to 5 parts solvent by volume) or 1:2 for fresh herbs. Alcohol is the primary solvent because it extracts both water-soluble and alcohol-soluble compounds effectively.
+A tincture is a solution of herbal constituents dissolved [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] solvent (menstruum). The standard tincture ratio is expressed as 1:5 (1 part dried herb by weight to 5 parts solvent by volume) or 1:2 for fresh herbs. Alcohol [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] primary solvent because it extracts both water-soluble and alcohol-soluble compounds effectively.
 
 ## Advantages of Tinctures
 
@@ -37,7 +37,7 @@ A tincture is a solution of herbal constituents dissolved in a solvent (menstruu
 
 ## Alcohol Selection
 
-| Alcohol | Proof | Best For |
+| Alcohol | Proof | [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] |
 |---------|-------|----------|
 | Vodka (80-100 proof) | 40-50% | Most herbs, beginners |
 | Everclear (190 proof) | 95% | Roots, resins, hard-to-extract compounds |
@@ -81,7 +81,7 @@ For consistent, reproducible results:
 
 ### Fresh Herb Tinctures
 
-Advantages: Capture volatile oils and water-soluble compounds lost in drying. Some herbs (milky oat tops, fresh valerian) are significantly more effective when tinctured fresh.
+Advantages: Capture volatile oils [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]-soluble compounds lost in drying. Some herbs (milky oat tops, fresh valerian) are significantly more effective when tinctured fresh.
 
 - Pack jar full with chopped fresh herb (do not wash if possible, or dry thoroughly)
 - Fill with alcohol (usually 50-60% to account for water content in fresh plant)
@@ -96,7 +96,7 @@ Advantages: Consistent potency, available year-round, easier to measure precisel
 
 ## Dual Extraction
 
-For mushrooms and herbs with both water-soluble and alcohol-soluble compounds:
+For [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] lating-mushrooms-and-herbs]] ow-do-i-grow-vegetables-and-herbs-in-shaded-areas]] with both water-soluble and alcohol-soluble compounds:
 
 1. Make alcohol tincture as usual
 2. Take the marc (spent herb) and simmer in water for 30-60 minutes

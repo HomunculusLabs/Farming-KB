@@ -13,7 +13,7 @@ Pigs are extraordinarily productive homestead livestock. They grow fast,
 convert feed efficiently, and produce excellent meat. Their rooting behavior
 can be harnessed for land clearing and tillage, and their manure is among
 the most nutrient-rich available. Pigs are intelligent and require secure
-fencing and thoughtful management.
+[[hamilton-garden-fencing-and-boundaries]] thoughtful management.
 
 ## Breed Selection
 
@@ -61,10 +61,10 @@ fencing and thoughtful management.
 
 ## Fencing
 
-Pigs are notorious for testing and destroying fencing.
+Pigs are notorious for [[mushroom-spawn-vitality-testing-and-quality-assessment]] destroying fencing.
 
 - Woven wire (hog panels — 34 inches tall, 4-inch squares) with an electric
-  wire at nose height is the standard. See [[livestock-fencing-guide]].
+  wire at nose height [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] standard. See [[livestock-fencing-guide]].
 - Two or three strands of hot wire at 6, 12, and 24 inches can work for
   older, trained pigs.
 - Pigs will root under fences. Bury wire 6-12 inches or place logs/rocks
@@ -77,9 +77,9 @@ Pigs are notorious for testing and destroying fencing.
 
 ### Pasture and Forage
 - Pigs are omnivores and excellent foragers. On good pasture, they can meet
-  30-50% of their nutritional needs from grazing and rooting.
+  30-50% of their nutritional needs from [[savory-short-duration-grazing-and-cell-systems]] rooting.
 - Excellent foragers on: clover, alfalfa, turnips, beets, field peas,
-  pumpkins, acorns, hickory nuts, apples, and food waste.
+  pumpkins, acorns, hickory nuts, apples, [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] waste.
 - Rooting can be destructive — confine to designated areas or use nose
   rings (controversial) to limit damage.
 
@@ -104,7 +104,7 @@ Pigs are notorious for testing and destroying fencing.
 
 ### Common Issues
 - Respiratory disease (pneumonia) — ventilation is critical. Wet, ammonia-
-  filled environments are the primary cause.
+  filled environments [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] primary cause.
 - Parasites — internal (worms) and external (lice, mange). Rotate pastures,
   deworm strategically.
 - Erysipelas — bacterial disease causing diamond-shaped skin lesions,
@@ -122,7 +122,7 @@ Pigs are notorious for testing and destroying fencing.
 
 ### Biosecurity
 - Quarantine new animals for 30 days minimum.
-- All-in/all-out management for farrowing and finishing groups.
+- All-in/all-out [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]] farrowing and finishing groups.
 - Control rodents and wild birds — disease vectors.
 
 ## Breeding

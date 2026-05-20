@@ -9,13 +9,13 @@ sources: []
 
 ## What Is Granola
 
-Granola is a baked breakfast food consisting of rolled oats, nuts, seeds, sweeteners, and oil, typically eaten with milk, yogurt, or fresh fruit. Homemade granola is far superior to store-bought — it is cheaper, customizable, fresher, and free of the excessive sugar, preservatives, and additives found in commercial varieties. Making granola at home takes about 45 minutes from start to finish and yields roughly 10-12 cups per batch.
+Granola is a baked breakfast food consisting of rolled oats, nuts, seeds, sweeteners, and oil, typically eaten with milk, yogurt, or fresh fruit. Homemade granola is far superior to store-bought — it is cheaper, customizable, fresher, and free [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] excessive sugar, preservatives, and additives found in commercial varieties. Making granola [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]] takes about 45 minutes from start to finish and yields roughly 10-12 cups per batch.
 
 ## Core Ingredients
 
 ### Oats
 
-- Old-fashioned rolled oats — the standard choice; provide the best balance of texture and crunch
+- Old-fashioned rolled oats — the standard choice; provide [[query-what-are-the-best-native-fruiting-shrubs-for-a-permaculture-food-forest]] balance of texture and crunch
 - Quick oats — bake faster but produce a finer, less crunchy granola
 - Steel-cut oats — can be used but remain quite hard; better pre-soaked or combined with rolled oats
 - Do not use instant oats — they turn to mush when baked with liquid
@@ -70,7 +70,7 @@ Seeds add nutrition and texture without overwhelming the flavor.
 
 ### Dried Fruit
 
-Add after baking to prevent burning and drying out.
+Add after baking [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]] burning and drying out.
 
 - Raisins — classic, sweet
 - Dried cranberries — tart, colorful
@@ -112,9 +112,9 @@ Add after baking to prevent burning and drying out.
 
 1. Preheat oven to 300F (150C) — lower temperature promotes even browning without burning
 2. Line a large rimmed baking sheet with parchment paper
-3. Combine all dry ingredients in a large bowl
+3. Combine all dry ingredients [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] large bowl
 4. Warm the oil and sweetener together if needed (coconut oil may need melting)
-5. Pour wet ingredients over dry ingredients and toss thoroughly to coat evenly
+5. Pour wet ingredients over dry [[ingham-field-guide-compost-tea-ingredients-and-recipes]] toss thoroughly to coat evenly
 6. Spread granola in an even layer on the prepared baking sheet
 7. Press down firmly with a spatula — this creates clusters
 8. Bake for 20-25 minutes
@@ -127,7 +127,7 @@ Add after baking to prevent burning and drying out.
 ## Baking Temperatures and Techniques
 
 - 250F (120C): very low, slow baking; takes 45-60 minutes; maximum crunch, minimal risk of burning
-- 300F (150C): standard temperature; 25-35 minutes; good balance of time and quality
+- 300F (150C): standard temperature; 25-35 minutes; good balance of [[pattern-classification-time-and-unified-events]] quality
 - 325F (165C): faster baking; 20-25 minutes; more color and flavor development but watch carefully
 - 350F (175C): hot and fast; 15-20 minutes; high risk of burning, only for experienced bakers
 

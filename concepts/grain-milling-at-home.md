@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Home grain milling transforms whole grains into fresh flour at the point of use. Freshly milled flour retains the full spectrum of nutrients, oils, and flavor that commercial flour loses during processing and storage. For off-grid and self-sufficient homesteads, milling provides independence from commercial flour supplies and access to the full nutritional value of whole grains.
+Home grain milling transforms whole grains into fresh flour at the point of use. Freshly milled flour retains the full spectrum of nutrients, oils, and flavor that commercial flour loses during [[fukuoka-fruit-processing-and-natural-food-marketing]] storage. For off-grid and self-sufficient homesteads, milling provides independence from commercial flour supplies and access to the full nutritional value of whole grains.
 
 ## Why Mill at Home
 
@@ -27,7 +27,7 @@ A whole grain kernel contains:
 - **Germ** (3% by weight): Healthy fats, vitamin E, B vitamins, antioxidants
 - **Endosperm** (83% by weight): Starch, protein (gluten), some B vitamins
 
-Commercial white flour removes the bran and germ entirely. Commercial whole wheat flour includes them but the oils in the germ begin oxidizing immediately.
+Commercial white flour removes the bran and germ entirely. Commercial whole wheat flour includes them but the oils [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] germ begin oxidizing immediately.
 
 ### Shelf Life Comparison
 
@@ -78,7 +78,7 @@ Impact mills use high-speed stainless steel blades (20,000+ RPM) to pulverize gr
 
 ### Hand-Cranked Mills
 
-For off-grid use: throughput 1-3 cups/min. Country Living Grain Mill ($450-500, lifetime warranty) is the gold standard. Budget option: Victorio ($50-80) for occasional use. Many hand-cranked mills can be retrofitted with electric motors.
+For off-grid use: throughput 1-3 cups/min. Country Living Grain Mill ($450-500, lifetime warranty) [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] gold standard. Budget option: Victorio ($50-80) for occasional use. Many hand-cranked mills can be retrofitted with electric motors.
 
 ## Grains for Home Milling
 
@@ -88,9 +88,9 @@ The primary grain for most home millers:
 
 **Hard Red Wheat:**
 - Protein content: 11-15%
-- Best for: Bread, rolls, pizza dough
+- [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]: Bread, rolls, pizza dough
 - Produces hearty, rustic loaves with good rise
-- The most common choice for bread flour
+- [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] choice for bread flour
 
 **Hard White Wheat:**
 - Protein content: 11-14%
@@ -139,7 +139,7 @@ The primary grain for most home millers:
 
 1. **Set the grind consistency** — Start coarser and adjust finer until the desired texture is achieved
 2. **Mill in batches** — Do not overload the mill. Feed grain steadily for best results
-3. **Sift if desired** — For finer pastry flour, sift fresh flour through a fine mesh sieve. The bran that remains can be used in granola or added to bread dough
+3. **Sift if desired** — For finer pastry flour, sift fresh flour through a fine mesh sieve. The bran that remains can [[query-how-can-duckweed-be-used-in-a-permaculture-pond]] granola or added to bread dough
 4. **Let flour cool** — If milling produces warm flour, let it cool to room temperature before using (warm flour ferments too quickly in sourdough)
 
 ### After Milling

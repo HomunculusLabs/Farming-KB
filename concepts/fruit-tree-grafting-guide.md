@@ -9,15 +9,15 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Fruit Tree Grafting Guide
 
-[[sepp-holzer]] describes four main grafting techniques for propagating and repairing fruit trees. The aim of grafting is to bind the rootstock and scion so that they grow together, requiring good contact between the cambium layers.
+[[sepp-holzer]] describes four main grafting techniques for propagating and repairing [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]]. The aim of grafting is to bind the rootstock and scion so that they grow together, requiring good contact between the cambium layers.
 
 ## Rootstock Selection
 
-Holzer prefers rootstocks from vigorous growing seedlings (fruit grown from seeds) and wild varieties over dwarf varieties. Dwarf rootstocks develop weak root systems, cannot supply themselves well with nutrients, and are more sensitive to disease and frost. Vigorous rootstocks produce hardy, independent trees that can thrive on poor soil and in unfavourable locations. They fruit a few years later and grow taller, but require far less maintenance. They also live much longer.
+Holzer prefers rootstocks from vigorous growing seedlings (fruit grown from seeds) and wild varieties over dwarf varieties. Dwarf rootstocks develop weak root systems, cannot supply themselves well with nutrients, and are more sensitive to disease [[coleman-season-extension-timeline-and-frost-protection]]. Vigorous rootstocks produce hardy, independent trees that can thrive on poor soil and in unfavourable locations. They fruit a few years later and grow taller, but require far less maintenance. They also live much longer.
 
 ## Scion Preparation
 
-Use strong and sturdy perennial shoots — water sprouts are not suitable. The middle part of the shoot with three to five buds is used. Scions should be cut during the dormant months in winter (January is best) and stored in a cellar in wet sand until grafting in spring.
+Use strong and sturdy perennial shoots — water sprouts are not suitable. The middle part [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] shoot with three to five buds is used. Scions should be cut during the dormant months [[weed-control-in-winter-greenhouses]] (January is best) and stored in a cellar in wet sand until grafting in spring.
 
 ## Grafting Techniques
 
@@ -26,7 +26,7 @@ Use strong and sturdy perennial shoots — water sprouts are not suitable. The m
 For rootstock and scion of the same thickness, typically done after the first or second year of growth in spring at the root collar:
 
 1. Cut the rootstock around 10cm above the ground at an angle, 3-4cm long, in a single stroke
-2. Cut a tongue in the rootstock
+2. Cut a tongue [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] rootstock
 3. Cut the scion at the same angle with a matching tongue, ensuring a bud on the opposite side
 4. Slot the scion into the rootstock so cambium layers join properly
 5. Bind with raffia (buds must remain uncovered)
@@ -38,7 +38,7 @@ Used when the rootstock is thicker than the scion, typically done in May when ba
 
 1. Cut the rootstock stem straight at the desired height, removing most twigs but leaving one or two small nurse branches
 2. Neaten the cut surface with a pruning knife
-3. Make a slit around 4cm long in the rootstock without damaging the cambium
+3. [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]] slit around 4cm long in the rootstock without damaging the cambium
 4. Peel back the bark
 5. Cut the scion at a 4cm angle with a bud on the opposite side
 6. Smooth off the edges of the cut area slightly (roughly 1mm) to expose more cambium

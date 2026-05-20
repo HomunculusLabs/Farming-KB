@@ -9,7 +9,7 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 # Natural Farming Seed Saving
 
-Saving your own seeds preserves genetic diversity, adapts varieties to your local conditions, and eliminates dependence on commercial seed suppliers. After 3-5 years of selection, saved seeds become locally adapted to your climate and soil.
+Saving your own seeds preserves [[cannabis-landrace-conservation-breeding-genetic-diversity]], adapts varieties to your local conditions, and eliminates dependence on commercial seed suppliers. After 3-5 years of selection, saved seeds become locally adapted to your climate [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]].
 
 ## Seed Types
 
@@ -30,9 +30,9 @@ These cross-pollinate and need isolation distances to stay true:
 ## Dry Seed Processing (beans, peas, lettuce, grains)
 1. Allow pods/seed heads to dry fully on the plant
 2. Harvest before rain or when stems are brown and brittle
-3. Thresh by hand (crush pods) or by flailing in a bag
+3. Thresh by hand (crush pods) or by flailing [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]][boil-a-bag-long-needle-inoculation-method-jarrold]]
 4. Winnow: pour seed from one container to another in a breeze; chaff blows away
-5. Dry seeds further on a screen or paper for 1-2 weeks
+5. Dry seeds further [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] screen or paper for 1-2 weeks
 6. Store in paper envelopes in a cool, dark, dry place
 
 ## Wet Seed Processing (tomatoes, cucumbers, squash)
@@ -52,7 +52,7 @@ These cross-pollinate and need isolation distances to stay true:
 
 ## Storage
 - Seeds store best cool (40-50°F), dark, and dry (below 8% moisture)
-- Glass jars with [[desiccant]] packets in the refrigerator
+- Glass jars with [[desiccant]] packets [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] refrigerator
 - Paper envelopes in a cool closet (2-5 year viability for most vegetables)
 - Parsley, onion, and parsnip seeds lose viability quickly (1-2 years)
 - Tomato and lettuce seeds can last 5-10 years under ideal conditions

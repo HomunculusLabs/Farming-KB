@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Cannabis topicals are preparations applied directly to the skin for localized relief of pain, inflammation, muscle soreness, and skin conditions. Unlike inhaled or ingested cannabis, topicals do not produce psychoactive effects because cannabinoids do not readily penetrate the bloodstream through the skin when applied topically (they bind to CB2 receptors in the skin and local tissues).
+Cannabis topicals are preparations applied directly to the skin for localized relief of pain, inflammation, muscle soreness, and skin conditions. Unlike inhaled or ingested cannabis, topicals do not produce psychoactive effects because cannabinoids do not readily penetrate the bloodstream through the skin when applied topically (they bind to CB2 receptors [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] skin and local tissues).
 
 ## How Cannabis Topicals Work
 
@@ -31,9 +31,9 @@ This guide focuses on topicals. Transdermal products require pharmaceutical-grad
 
 ### Salves
 
-Salves are oil-based preparations with a firm, waxy consistency. They are the simplest and most common homemade cannabis topical.
+Salves are oil-based preparations with a firm, waxy consistency. They are the simplest and most common homemade [[cannabis-topical-applications]].
 
-**Base ingredients**: Cannabis-infused oil + beeswax (or carnauba wax for vegan option)
+**Base ingredients**: Cannabis-infused oil + beeswax (or [[comparison-beeswax-vs-shellac-vs-carnauba-wax]] for vegan option)
 **Consistency**: Firm, spreadable, melts on skin contact
 **Best for**: Joint pain, muscle soreness, arthritis
 
@@ -100,9 +100,9 @@ Before infusing, cannabis flower must be decarboxylated to activate cannabinoids
 
 ### Oil Infusion
 
-1. Combine decarboxylated cannabis with carrier oil in a double boiler or mason jar
+1. Combine decarboxylated cannabis with carrier oil in a double boiler or [[mason-jar-preserving-guide]]
 2. Common carrier oils: coconut oil, olive oil, jojoba oil, sweet almond oil
-3. Ratio: 1-2 cups oil per 1 ounce (28g) of cannabis for medium potency
+3. Ratio: 1-2 cups oil per 1 ounce (28g) of [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] medium potency
 4. Heat on low (160-180 F) for 2-4 hours, stirring occasionally
 5. Strain through cheesecloth or fine mesh strainer
 6. Squeeze remaining oil from the plant material
@@ -127,7 +127,7 @@ Adding sunflower or soy lecithin (1 teaspoon per cup of oil) improves cannabinoi
 2. Stir until beeswax is fully melted
 3. Remove from heat
 4. Add shea butter and stir until melted
-5. Add essential oils and stir gently
+5. Add [[query-how-do-i-extract-essential-oils-and-hydrosols-at-home]] stir gently
 6. Pour into small tins or jars
 7. Allow to cool and set at room temperature (1-2 hours)
 8. Store in a cool, dark place; shelf life 3-6 months

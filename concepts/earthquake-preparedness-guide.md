@@ -35,20 +35,20 @@ Earthquakes occur along fault lines, but damaging shaking can be felt hundreds o
 The most critical structural element. A compromised foundation during an earthquake leads to partial or total building collapse.
 
 **Check for:**
-- Foundation bolts — Is the house bolted to its foundation? (Homes built before 1940 often are not)
-- Cripple walls — The short wood-framed walls between the foundation and the first floor. These are extremely vulnerable. Brace them with structural plywood and blocking.
+- Foundation bolts — [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] house bolted to its foundation? (Homes built before 1940 often are not)
+- Cripple walls — The short wood-framed walls between the foundation [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] oss-and-the-first-bardo-clear-light]] floor. These are extremely vulnerable. Brace them with structural plywood and blocking.
 - Cracks in the foundation — Horizontal cracks are more serious than vertical cracks
 - Bolting schedule — Foundation bolts should be spaced no more than 6 feet apart, within 12 inches of each end
 
 **Retrofit measures:**
 - Install foundation anchor bolts (1/2-inch diameter, minimum) if not present
-- Brace cripple walls with 1/2-inch structural plywood and metal framing clips
+- Brace cripple walls with 1/2-inch structural plywood [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] framing clips
 - Install earthquake-resistant gas shut-off valve on the gas meter
 - Reinforce the connection between the house frame and foundation with steel plate washers
 
 ### Chimney Safety
 
-Unreinforced masonry chimneys are one of the most dangerous structural elements during an earthquake.
+Unreinforced masonry chimneys are one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most dangerous structural elements during an earthquake.
 
 - Have the chimney inspected by a structural engineer or masonry contractor
 - Brace the chimney to the roof framing with steel strapping
@@ -64,7 +64,7 @@ Water heaters are top-heavy and can topple during strong shaking, breaking gas l
 - Wrap completely around the water heater
 - Secure to wall studs with lag screws and washers
 - Straps must be tight enough to prevent the water heater from shifting more than 2 inches
-- Flexible gas and water connections provide additional protection
+- Flexible gas [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] connections provide additional protection
 - This is a simple, inexpensive retrofit (under $30 in materials) that can prevent a house fire
 
 ### Structural Hazards
@@ -95,7 +95,7 @@ Most earthquake injuries are caused by falling objects, not building collapse. S
 - Secure propane tanks with chains to a solid structure
 - Store pesticides, herbicides, fuels, and chemicals in locked, latched cabinets
 - Store incompatible chemicals separately to prevent mixing during shaking
-- Know how to shut off gas, water, and electricity (keep wrench near gas meter)
+- Know [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] shut off gas, water, and electricity (keep wrench near gas meter)
 
 ## Emergency Supplies for Earthquakes
 

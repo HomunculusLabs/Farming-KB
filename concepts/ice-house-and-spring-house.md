@@ -17,7 +17,7 @@ off-grid homestead seeking low-tech food preservation.
 
 ## Ice Houses
 
-An ice house is an insulated structure designed to store ice harvested
+An [[comparison-root-cellar-vs-ice-house]] is an insulated structure designed to store ice harvested
 during winter for use throughout the warmer months. With proper construction,
 ice can be retained from January through September with only 50-75% loss.
 
@@ -82,7 +82,7 @@ military installations worldwide.
 
 ### Ice Retention
 
-With good construction and packing, expect 50-75% ice retention:
+With good [[laminar-flow-hood-construction-and-advanced-agar-techniques]] packing, expect 50-75% ice retention:
 - **January-March**: minimal loss (below freezing, ice not needed)
 - **April-June**: 10-15% loss; ice house at peak utility
 - **July-August**: heaviest losses; 40-50% remaining if well-built
@@ -91,7 +91,7 @@ With good construction and packing, expect 50-75% ice retention:
 
 ### Using the Ice House
 - Lower food items into the ice house in insulated containers
-- Keep food separated from ice (cold air circulation, not direct contact,
+- Keep food separated from ice ([[hemenway-cold-air-drainage-and-frost-management]] circulation, not direct contact,
   provides cooling)
 - A well-managed ice house maintains 33-40F (1-4C) inside
 
@@ -115,7 +115,7 @@ temperature (45-55F / 7-13C) year-round, providing natural refrigeration.
 Groundwater emerges at the earth's surface at a constant temperature equal
 to the average annual air temperature. In temperate climates, this is
 typically 48-55F. A spring house captures this cool water and uses it to
-chill food stored in the structure.
+chill food stored [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] structure.
 
 ### Spring House Design
 
@@ -123,10 +123,10 @@ chill food stored in the structure.
 - Natural spring with reliable year-round flow (minimum 1-2 GPM)
 - Cool, clear water (test for coliform bacteria if using for food)
 - Elevated enough to prevent flooding
-- Accessible from the kitchen and food preparation areas
+- Accessible from the kitchen [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] preparation areas
 
 **Construction:**
-1. **Excavate** around the spring to create a pool or channel
+1. **Excavate** around the spring to [[query-how-do-i-create-a-xeriscape-or-drought-tolerant-garden]] pool or channel
 2. **Foundation** — pour concrete footer on solid ground
 3. **Walls** — stone or concrete block; 8-10 feet wide by 8-10 feet long
 4. **Floor** — poured concrete with drainage channels for water flow
@@ -144,5 +144,5 @@ chill food stored in the structure.
   directly in the flowing water (in sealed containers)
 - Maintain 45-55F — sufficient for dairy, eggs, and short-term meat storage
 - Not cold enough for freezing — use in combination with ice from an
-  [[root-cellaring-guide|ice house]] or root cellar for complete
+  [[root-cellaring-guide|ice house]] or [[mollison-designers-cold-caves-root-cellar-storage]] for complete
   preservation

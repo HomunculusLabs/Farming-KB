@@ -10,7 +10,7 @@ sources: []
 # Turkey Husbandry
 
 Turkeys are rewarding homestead poultry that produce premium meat and serve
-as excellent foragers and pest controllers. The choice between heritage and
+as excellent foragers [[tropical-polyculture-evolution-and-pest-management]] controllers. The choice between heritage and
 commercial broad-breasted strains has significant implications for
 management, feed efficiency, reproduction, and meat quality. Heritage turkeys
 can reproduce naturally and forage well, while broad-breasted turkeys grow
@@ -24,7 +24,7 @@ faster but cannot breed naturally.
 - Feed conversion: 2.5-3.0 lbs feed per lb of gain (very efficient).
 - Prone to leg problems, heart attacks, and heat stress at large sizes.
 - White feathers — clean-looking carcass.
-- Best for: one-time harvest, maximum efficiency, lowest feed cost per pound.
+- [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]: one-time harvest, maximum efficiency, lowest feed cost per pound.
 
 ### Broad-Breasted Bronze (BBB)
 - Similar to BBW but with bronze coloring. Slightly slower growth.
@@ -39,7 +39,7 @@ faster but cannot breed naturally.
   flavorful meat.
 - **Royal Palm** — Striking black and white. Smaller (10-16 lbs toms).
   Primarily ornamental but edible.
-- **Midget White** — Small (8-16 lbs toms). Good for small families.
+- **Midget White** — Small (8-16 lbs toms). Good [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] families.
   Calm, good layers.
 - **Blue Slate** — Blue-gray. 18-25 lbs (toms). Good foragers, hardy.
 - **Black Spanish** — All black. Hardy, good foragers.
@@ -57,7 +57,7 @@ faster but cannot breed naturally.
 - Poults are more fragile than chicks. Temperature: start at 95-100°F for
   first week, reduce 5°F per week until feathered (6-8 weeks).
 - Use red heat lamps (white light causes cannibalism in poults).
-- Poults often starve because they don't find feed and water easily. Place
+- Poults often starve because they don't find feed [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] easily. Place
   marbles in waterers and scatter feed on paper towels for the first few
   days.
 - Add poultry vitamins/electrolytes to water for the first week.
@@ -110,7 +110,7 @@ faster but cannot breed naturally.
 - Heritage turkeys are excellent foragers and can meet 20-40% of their
   needs on good pasture.
 - They eat grass, clover, insects, seeds, and small rodents.
-- Turkeys in orchards provide pest control and fertilization.
+- Turkeys in orchards provide [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] can-ducks-help-with-pest-control-and-fertility-in-a-garden]] fertilization.
 - Broad-breasted turkeys forage less and rely more on grain.
 
 ### Supplements
@@ -132,7 +132,7 @@ faster but cannot breed naturally.
 - Pluck by hand or with a mechanical plucker.
 - Singe remaining hairs over open flame.
 - Eviscerate carefully. Save heart, liver, gizzard.
-- Chill in ice water for at least 1 hour (longer for better texture).
+- Chill in [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] for at least 1 hour (longer for better texture).
 - Age in refrigerator for 1-3 days before cooking for best flavor.
 - See [[animal-harvest-and-processing]] for detailed procedures.
 

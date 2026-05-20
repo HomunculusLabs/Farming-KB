@@ -20,7 +20,7 @@ Starlink is SpaceX's low-earth-orbit (LEO) satellite internet constellation. It 
 - **Download speed**: 25-220+ Mbps (varies by location and time of day)
 - **Upload speed**: 5-25 Mbps
 - **Latency**: 20-50 ms (much better than traditional satellite)
-- **Coverage**: Most of the globe, with some gaps at extreme latitudes
+- **Coverage**: Most [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] globe, with some gaps at extreme latitudes
 - **Data cap**: None (throttling may occur during peak congestion)
 - **Power consumption**: 50-100 watts
 
@@ -44,7 +44,7 @@ Starlink is SpaceX's low-earth-orbit (LEO) satellite internet constellation. It 
 
 - Expensive upfront and monthly cost
 - Occasional brief outages as satellites move
-- Tree canopy obstruction is a dealbreaker (requires clear view of sky)
+- [[tree-canopy-fungal-sampling-techniques]] obstruction is a dealbreaker (requires clear [[fukuoka-view-of-nature-and-human-hubris]] sky)
 - Power consumption may be significant for off-grid solar systems
 - Service quality varies by location and user density
 - SpaceX may adjust pricing or data policies
@@ -78,7 +78,7 @@ Cellular carriers provide internet through LTE and 5G networks, either via mobil
 **Major Providers**
 - Verizon: Best rural coverage in many areas
 - T-Mobile: Expanding rural 5G home internet ($50/month, some unlimited)
-- AT&T: Good coverage in the Southeast and rural corridors
+- AT&T: Good coverage [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] Southeast and rural corridors
 - Regional carriers: Check local options (U.S. Cellular, CSpire, etc.)
 
 ### Pros
@@ -95,11 +95,11 @@ Cellular carriers provide internet through LTE and 5G networks, either via mobil
 - Data caps on most plans (overage charges expensive)
 - Network congestion during peak hours
 - Tower outages affect service
-- May require line-of-sight to cell tower for best performance
+- May require line-of-sight to cell tower [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] performance
 
 ### Best For
 
-- Locations within range of a good cell tower
+- Locations within range [[query-what-are-the-seven-layers-of-a-forest-garden]] good cell tower
 - Users with moderate data needs
 - Budget-conscious homesteaders
 
@@ -117,7 +117,7 @@ Local Wireless Internet Service Providers use tall towers with directional anten
 
 ### How It Works
 
-A WISP installs a small directional antenna on your roof or a tower, aimed at their nearest transmission tower (typically within 5-15 miles). The antenna receives a microwave signal and connects to your home network via Ethernet.
+A WISP installs [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]] directional antenna on your roof or a tower, aimed at their nearest transmission tower (typically within 5-15 miles). The antenna receives a microwave signal and connects to your home network via Ethernet.
 
 ### Pros
 

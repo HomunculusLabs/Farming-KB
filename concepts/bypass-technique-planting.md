@@ -16,14 +16,14 @@ The bypass technique is a vertical [[permaculture]] method where climbing plants
 
 ## How It Works
 
-1. Neighbours interested in permaculture create a terrace system reaching from storey to storey
-2. Climbers like grapes and kiwi plants grow up the front of the building, using each balcony as a climbing aid
+1. Neighbours interested [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] create a terrace system reaching from storey to storey
+2. Climbers like grapes and kiwi plants grow up the front [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] building, using each balcony [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] climbing aid
 3. On the balconies, troughs with soil are prepared so the plants can put down new roots
 4. Lead the plant into the trough, heap soil over it, and possibly weigh it down with a stone
 5. The plants draw fresh strength and nutrients from each trough's soil and grow from one storey to the next
 6. Each resident oversees and harvests from their level
 
-The system is both vertical and horizontal -- it can travel in any direction. Creative thinking is essential, as there are many possible ways to design and plant such a system.
+The system is both vertical and horizontal -- it can travel in any direction. Creative thinking is essential, as there are many possible ways to [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]] uery-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]] such a system.
 
 ## Structural Considerations
 
@@ -55,7 +55,7 @@ Field observations confirm the importance of proper technique and methodology.
 Historical practices provide valuable context for modern approaches and innovations.
 Comparative studies reveal both commonalities and unique aspects across systems.
 The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
+Environmental factors play a significant [[fungal-role-in-phosphorus-cycling]] determining optimal strategies.
 Long-term studies demonstrate the sustainability and efficacy of these approaches.
 Community-based implementations have shown promising results across various regions.
 Advanced practitioners continue to refine and optimize these established methods.

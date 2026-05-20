@@ -9,11 +9,11 @@ sources: []
 
 # Flood Preparedness Guide
 
-Floods are the most common and costly natural disaster in the United States. Homesteads near rivers, streams, low-lying areas, or in regions with intense rainfall are at elevated risk. Even areas far from waterways can experience flash flooding, storm surge, or localized flooding from overwhelmed drainage. This guide covers flood risk assessment, protection measures, evacuation, and recovery.
+Floods [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]]-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] and costly natural disaster [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] United States. Homesteads near rivers, streams, low-lying areas, or in regions with intense rainfall are at elevated risk. Even areas far from waterways can experience flash flooding, storm surge, or localized flooding from overwhelmed drainage. This guide covers flood risk assessment, protection measures, evacuation, and recovery.
 
 ## Flood Risk Assessment
 
-Understanding your flood risk is the first step in preparation.
+Understanding your flood risk [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] first step in preparation.
 
 ### Risk Factors
 - **Flood zone classification:** Check FEMA flood maps (floodsmart.gov) for your property zone. Zones A and V are high risk; Zone X is moderate risk; Zones B and C are lower risk.
@@ -29,7 +29,7 @@ Understanding your flood risk is the first step in preparation.
 - **Flood watch:** Conditions are favorable for flooding — prepare
 - **Flood warning:** Flooding is occurring or imminent — take action
 - **Flash flood warning:** Sudden, violent flooding — move to higher ground immediately
-- **100-year flood:** A flood with a 1% chance of occurring in any given year (not once per century — can happen multiple times in one year)
+- **100-year flood:** A flood with a 1% chance of occurring in any given year (not once per century — can happen multiple times [[fao-three-in-one-training-rehabilitation-mushroom-enterprise]] year)
 
 ## Flood Protection Measures
 
@@ -81,7 +81,7 @@ Understanding your flood risk is the first step in preparation.
 - Tamp each layer firmly
 - Slope the wall toward the water (pyramid shape)
 - Minimum height: 3 layers (about 2 feet)
-- Place plastic sheeting between the water and the sandbag wall for additional protection
+- Place plastic sheeting between the water [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] sandbag wall for additional protection
 
 ## Evacuation Planning
 

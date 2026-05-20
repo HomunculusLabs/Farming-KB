@@ -22,7 +22,7 @@ Satellite is often the only viable option for remote homesteads. Technology has 
 - Low latency (20-50ms) — suitable for video calls and real-time applications
 - $120/month for residential service, $599 hardware kit
 - Best option for most remote homesteads as of 2026
-- Requires clear view of the northern sky
+- Requires clear view [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] northern sky
 - Works in most weather conditions (heavy snow may cause brief outages)
 - Flat panel dish mounts on roof, pole, or ground
 
@@ -47,8 +47,8 @@ If you have cellular signal, cellular internet can be effective:
 - Portable devices that create a WiFi network from cellular signal
 - Plans available from Verizon, AT&T, T-Mobile
 - Speeds range from 10-100+ Mbps depending on signal strength
-- Data caps are the main limitation (50-100GB typical)
-- Useful as a backup or supplement to satellite
+- Data caps [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] limitation (50-100GB typical)
+- Useful [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] backup or supplement to satellite
 
 **Cellular signal improvement:**
 - External directional antennas (Yagi or LPDA) pointed at nearest tower
@@ -71,11 +71,11 @@ If your homestead has landline phone service, DSL may be available:
 - Speeds typically 3-25 Mbps depending on distance from the telephone exchange
 - Limited by copper wire infrastructure
 - Declining availability as phone companies abandon copper networks
-- Low cost ($30-50/month)
+- [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]] ($30-50/month)
 
 ## Amateur (Ham) Radio
 
-Ham radio is the most reliable communication method during disasters. It requires no infrastructure — stations communicate directly with each other using radio waves. A license is required from the FCC (in the US) but is easy to obtain.
+Ham radio [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most reliable communication method during disasters. It requires no infrastructure — stations communicate directly with each other using radio waves. A license is required from the FCC ([[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] US) but is easy to obtain.
 
 ### License Levels
 
@@ -83,7 +83,7 @@ Ham radio is the most reliable communication method during disasters. It require
 - 35-question multiple-choice exam
 - Covers VHF/UHF bands and limited HF privileges
 - Study time: 20-40 hours
-- Best for local and regional communication
+- [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] local and regional communication
 
 **General Class:**
 - 35-question exam (must hold Technician first)

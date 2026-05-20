@@ -9,7 +9,7 @@ sources: []
 
 # Underground Greenhouse (Walipini)
 
-A walipini (from the Aymara word for "place of warmth") is an underground or earth-sheltered greenhouse that uses the earth's thermal mass to maintain stable growing temperatures year-round. By digging the growing area into the ground and covering it with a glazed roof, the walipini harnesses passive solar heating combined with geothermal insulation to grow food through winter in climates that would otherwise be too cold for outdoor production.
+A walipini (from the Aymara word for "place of warmth") is an underground or earth-sheltered greenhouse that uses the earth's thermal mass to maintain stable growing temperatures year-round. By digging the growing area into the ground and covering it with a glazed roof, the walipini harnesses passive solar heating combined with geothermal insulation [[query-how-to-grow-food-in-small-spaces-vertically]] through winter in climates that would otherwise be too cold for outdoor production.
 
 ## How It Works
 
@@ -37,7 +37,7 @@ The earth walls, floor, and any additional thermal mass (water barrels, stone wa
 
 ### Orientation
 
-- **Face south:** The long axis of the walipini should run east-west, with the glazed roof facing due south (in the Northern Hemisphere) for maximum winter solar capture
+- **Face south:** The long axis [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] walipini should run east-west, with the glazed roof facing due south (in the Northern Hemisphere) for maximum winter solar capture
 - **Slope the roof:** The glazing should be angled at approximately your latitude plus 10-15 degrees. For example, at 40° latitude, angle the roof at 50-55° to capture low winter sun while shedding summer sun.
 - **Avoid shading:** Position away from buildings, trees, and hills that block southern exposure, especially in winter when the sun is low
 
@@ -51,7 +51,7 @@ The earth walls, floor, and any additional thermal mass (water barrels, stone wa
 
 ### The Roof Angle
 
-The angle of the south-facing glazing is the most critical design element:
+The angle of the south-facing glazing [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most critical design element:
 
 - **Optimal angle:** Latitude + 10-15 degrees. This captures the maximum amount of low-angle winter sunlight.
 - **Steep enough to shed snow:** The glazing must shed snow loads. A minimum of 35-40 degrees is recommended for snow country.
@@ -78,7 +78,7 @@ The front wall is the lowest point of the structure:
 ### 1. Site Selection
 
 - Southern exposure with no shading from 9 AM to 3 PM, even in midwinter
-- Well-drained soil — water pooling in the excavation is the most common failure mode
+- Well-drained soil — water pooling in the excavation is [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] failure mode
 - Avoid areas with high water table, springs, or poor drainage
 - Level ground is ideal; a gentle south-facing slope can reduce excavation on the south side
 
@@ -93,7 +93,7 @@ The front wall is the lowest point of the structure:
 
 Water is the enemy of underground structures. Install drainage before building anything:
 
-- **French drain:** Dig a trench around the outside perimeter, below the floor level. Fill with gravel and a perforated pipe that drains to daylight (a lower area of the property).
+- **French drain:** Dig a trench around the outside perimeter, below the floor level. Fill with gravel [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] perforated pipe that drains to daylight (a lower area of the property).
 - **Floor drainage:** Slope the floor slightly (1-2%) toward the French drain or a sump
 - **Gravel base:** Lay 4-6 inches of gravel under the floor for drainage
 - **Moisture barrier:** Optional — lay plastic sheeting under the gravel base to prevent rising dampness
@@ -147,4 +147,4 @@ Water is the enemy of underground structures. Install drainage before building a
 
 - **Ventilation:** Open all vents and doors. Consider removing sections of glazing.
 - **Shade cloth:** 50-70% shade cloth over the glazing reduces heat load
-- **Crop selection:** Switch to heat-loving crops (tomatoes, peppers, cucumbers) or use the walipini as a propagation area
+- **Crop selection:** Switch to heat-loving crops (tomatoes, peppers, cucumbers) or use the walipini [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] propagation area

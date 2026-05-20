@@ -20,10 +20,10 @@ small plot of land. Japan has about 15 million acres of
 farming land, which works out to roughly a quarter-acre per
 adult. If Japan's land were divided evenly among 20 million
 households, this would give each household three quarters of
-an acre of farmland plus two and a half acres of mountain
+an acre of farmland plus two [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] half acres of mountain
 and meadow land.
 
-On this amount of land, one could build a small house, grow
+On this amount of land, one could [[query-what-is-biogas-and-how-do-i-build-a-small-scale-digester-system]] house, grow
 grains and vegetables, raise a goat, and even keep several
 chickens and a hive of bees. Everyone has a right and a duty
 to live their lives within narrow bounds as the basic
@@ -42,7 +42,7 @@ The law breaks land up into different zones according to use:
 forests, farmland, housing land. The City Planning Law was
 enacted, based upon which lines were drawn and farmland
 divided into areas within urban planning zones, areas within
-land adjustment zones, and areas outside of the lines. The
+land adjustment zones, and areas outside [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] lines. The
 conversion of farmland to housing land was prohibited, forcing
 a sharp reduction in housing land that pushed up prices.
 
@@ -52,7 +52,7 @@ There is land aplenty, but land classified as housing land
 has become a life-threatening cancer. As laws proliferate,
 they appear to move toward perfection, but they only become
 more imperfect and preposterously complex, breaking humans
-and the land apart. Only those who know the law well and can
+[[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] land apart. Only those who know the law well and can
 change the official category of a piece of land are able to
 buy land and later sell it.
 
@@ -60,7 +60,7 @@ So many legal constraints exist to building a house
 satisfying the legal definition of a house that the house
 cannot be built. A mountain hut or shed is permitted, but
 if someone were to erect a small house with tatami mats,
-a lantern, and water pipes, the land would have to be
+a lantern, [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] pipes, the land would have to be
 housing land, which must be serviced with a 13-foot-wide
 road and plumbing for tap water and sewage.
 
@@ -110,7 +110,7 @@ Flexible management approaches that incorporate monitoring feedback and enable c
 Optimizing resource utilization reduces waste, lowers costs, and minimizes environmental impact. Circular economy principles transform waste streams into valuable inputs.
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
+Practitioners have demonstrated successful implementation across diverse climates [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]] conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions

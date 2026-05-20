@@ -9,7 +9,7 @@ sources: []
 
 # Saving Seeds
 
-[[permaculture-seed-saving-and-selection|Seed saving]] is one of the most empowering [[homesteading]] skills. It reduces costs, preserves genetic diversity, and develops plant varieties uniquely adapted to your local conditions. Over generations, saved seeds become more resilient and productive on your specific land.
+[[permaculture-seed-saving-and-selection|Seed saving]] is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most empowering [[homesteading]] skills. It reduces costs, preserves genetic diversity, and develops plant varieties uniquely adapted to your local conditions. Over generations, saved seeds become more resilient and productive on your specific land.
 
 ## Why Save Seeds
 
@@ -28,7 +28,7 @@ Heirloom varieties are open-pollinated varieties that have been passed down for 
 ## Basic Seed Saving Principles
 
 ### Plant Selection
-Choose the best plants for seed saving, not the best vegetables. Select for:
+Choose [[query-what-are-the-best-native-fruiting-shrubs-for-a-permaculture-food-forest]] what-are-the-best-plants-for-a-hugelkultur-bed]] for [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]], not the best vegetables. Select for:
 - Disease resistance
 - Vigor and growth habit
 - Flavor and yield
@@ -36,10 +36,10 @@ Choose the best plants for seed saving, not the best vegetables. Select for:
 - Seed production (plants that set seed readily)
 - Physical characteristics you want to preserve (color, size, shape)
 
-Mark your best plants early in the season and let them go to seed rather than harvesting for food.
+Mark your best plants early [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] season and let them go to seed rather than harvesting for food.
 
 ### Isolation Distances
-Plants of the same species can cross-pollinate, producing offspring that are not true to type. Prevent unwanted crossing through isolation:
+[[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] the same species can cross-pollinate, producing offspring that are not true to type. Prevent unwanted crossing through isolation:
 
 - Distance isolation: separate varieties by the required distance
 - Time isolation: stagger planting dates so varieties do not flower simultaneously

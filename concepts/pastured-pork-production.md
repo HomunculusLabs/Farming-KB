@@ -23,7 +23,7 @@ Benefits over confinement:
 
 ## Breed Selection
 
-Heritage breeds are preferred for pasture systems:
+Heritage breeds are preferred for [[broadscale-forage-planning-and-forest-pasture-systems]]:
 - Berkshire: excellent marbling, dark meat, premium market price, calm
 - Tamworth: "bacon pig" -- long body, lean, excellent foragers
 - Large Black: docile, excellent foragers, good mothers, black skin (sun tolerant)
@@ -54,7 +54,7 @@ Pigs are omnivores and will consume a wide variety of forage:
 ### Supplemental Forage
 - Pumpkins and squash: excellent fall feed, pigs eat entire fruit
 - Apples, pears, windfall fruit
-- Garden waste and vegetable trimmings
+- Garden waste [[soil-fertility-and-vegetable-nutritional-quality]] trimmings
 - Acorns (limit to 25% of diet -- tannin toxicity risk)
 - Dairy waste (whey, skim milk) -- excellent protein source
 - Spent brewers grain -- high protein, available from local breweries
@@ -64,7 +64,7 @@ Pigs are omnivores and will consume a wide variety of forage:
 Pigs cannot survive on pasture alone -- grain supplementation is required.
 
 ### Feed Ratio
-- Pasture/forage: 20-40% of diet (varies by quality and season)
+- Pasture/forage: 20-40% of diet (varies by [[mollison-designers-fish-pond-water-quality-and-aeration]] uery-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]])
 - Grain ration: 60-80% of diet
 - Grower ration: 16% protein
 - Finisher ration: 13-14% protein
@@ -93,9 +93,9 @@ Ideal slaughter weight: 240-280 lbs live (175-200 lbs hanging weight).
 ## Fencing and Infrastructure
 
 - Electric fencing is essential: 2-3 strands at 6, 12, and 24 inches
-- Train pigs to electric fence in a small enclosure first
+- Train pigs to electric fence [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] small enclosure first
 - Portable fencing (polywire + step-in posts) allows rotational grazing
-- Shelter: simple 3-sided hoop house or A-frame, 8x10 ft minimum per 3-4 pigs
+- Shelter: simple 3-sided [[query-what-is-the-difference-between-a-high-tunnel-and-a-hoop-house]] or A-frame, 8x10 ft minimum per 3-4 pigs
 - Water: nipple waterers or heavy rubber tubs (they'll tip lightweight ones)
 - Wallows: pigs need access to mud in summer for cooling and sun protection
 - Winter: deep bedding (straw, hay) in shelter -- pigs will [[compost]] it themselves

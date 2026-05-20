@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Seed germination is the process of initiating growth from a dormant cannabis seed. Proper technique during this critical early stage sets the foundation for a healthy plant. Cannabis seeds contain the embryo of the plant along with a small nutrient reserve (endosperm) to fuel initial growth until the seedling develops its first true leaves and root system.
+Seed germination is the process of initiating growth from a dormant cannabis seed. Proper technique during this critical early stage sets the foundation for a healthy plant. Cannabis seeds contain the embryo [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] plant along with a small nutrient reserve (endosperm) to fuel initial growth until the seedling develops its first true leaves and root system.
 
 ## Seed Selection and Quality
 
@@ -26,7 +26,7 @@ Store seeds in a cool, dark, dry place. Refrigeration in an airtight container w
 
 ### Paper Towel Method
 
-The most common home germination technique:
+[[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] home germination technique:
 
 1. Moisten a paper towel (distilled or RO water, pH 5.5-6.5)
 2. Place seeds on one half of the towel, spacing them 1 inch apart
@@ -59,7 +59,7 @@ Pre-soaking seeds before germination:
 1. Place seeds in a glass of room-temperature water (pH 5.5-6.5)
 2. Seeds that float initially may sink after a few hours — viable seeds usually sink
 3. Soak for 12-24 hours maximum; prolonged soaking can drown the seed
-4. Remove seeds that have cracked open and plant immediately
+4. Remove seeds that have cracked open [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]] immediately
 5. Seeds that haven't cracked after 24 hours can be moved to the paper towel method
 
 ### Starter Cubes
@@ -80,10 +80,10 @@ Using Rockwool, peat, or coco cubes:
 When the seedling emerges, it will have two embryonic leaves called cotyledons. These are rounded and unlike true cannabis leaves. Within a few days, the first set of serrated "true leaves" will appear.
 
 - **Light**: Use low-intensity light (CFL, T5, or dimmed LED). Start at 200-400 PPFD. Intense light burns young seedlings.
-- **Humidity**: 60-80% RH. Seedlings have underdeveloped root systems and rely on high humidity.
+- **Humidity**: 60-80% RH. Seedlings have underdeveloped [[solomon-root-systems-and-spacing-science]] t-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] rely on high humidity.
 - **Temperature**: 75-82 F (24-28 C) day, 68-75 F (20-24 C) night.
 - **Watering**: Mist the surface to keep it moist. Avoid heavy watering that can drown or displace seedlings.
-- **Nutrients**: No added nutrients for the first 10-14 days. The seed contains enough energy, and seedling roots are sensitive to burn.
+- **Nutrients**: No added nutrients for the first 10-14 days. The seed contains enough energy, [[solomon-potting-mix-and-seedling-soil-recipe]] roots are sensitive to burn.
 
 ### Common Seedling Problems
 

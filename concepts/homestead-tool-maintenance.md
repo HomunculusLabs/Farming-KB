@@ -38,7 +38,7 @@ Well-maintained tools work better, last longer, and are safer to use. A [[homest
 
 ### Sharpening Stones
 
-Sharpening stones (whetstones) are the foundation of tool sharpening. Every homestead should have a basic set.
+Sharpening stones (whetstones) [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] foundation of tool sharpening. Every homestead should have a basic set.
 
 **Stone Types:**
 
@@ -72,7 +72,7 @@ Sharpening stones (whetstones) are the foundation of tool sharpening. Every home
 ### Sharpening Techniques
 
 **Angle Consistency**
-Maintain a consistent angle between the blade and the stone. Common angles:
+Maintain a consistent angle between the blade [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] stone. Common angles:
 - Pocket knives: 20 degrees
 - Kitchen knives: 15-20 degrees
 - Axes and hatchets: 25-30 degrees
@@ -84,7 +84,7 @@ Maintain a consistent angle between the blade and the stone. Common angles:
 1. Lubricate the stone (oil for oil stones, water for water stones)
 2. Place the blade on the stone at the correct angle
 3. Push the blade forward across the stone, maintaining angle
-4. Lift the blade and return to the starting position (do not drag back on oil stones)
+4. Lift the blade and [[emcdda-return-to-nature-megatrend-mushroom-appeal]] the starting position (do not drag back on oil stones)
 5. Alternate sides every 3-5 strokes
 6. Repeat until a burr forms on the opposite edge
 7. Switch to a finer stone and repeat
@@ -101,12 +101,12 @@ Maintain a consistent angle between the blade and the stone. Common angles:
 
 **Shovels and Spades**
 - Use a mill file (bastard cut) to sharpen the digging edge
-- File from the inside of the blade toward the outside (follow the factory bevel)
+- File from the inside [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] blade toward the outside (follow the factory bevel)
 - A sharp shovel cuts through soil with much less effort
 
 **Axes and Hatchets**
 - Use a mill file for the main edge, then a stone for honing
-- File in one direction only — away from the cutting edge
+- File [[fao-three-in-one-training-rehabilitation-mushroom-enterprise]] direction only — away from the cutting edge
 - Maintain the factory bevel angle
 - Do not make the edge too thin — it will chip
 - A file guide helps maintain consistent angle
@@ -120,12 +120,12 @@ Maintain a consistent angle between the blade and the stone. Common angles:
 
 **Chisels**
 - Flatten the back (flat side) first on a stone until it is perfectly flat
-- Then sharpen the bevel on stones of increasing fineness
+- Then sharpen the bevel on [[mckenna-mushroom-stones-of-guatemala]] increasing fineness
 - A hollow-grind bevel is acceptable for light work
 - A flat bevel is stronger for heavy chopping
 
 **Saws**
-- Hand saws: Use a saw set to set teeth, then file each tooth individually
+- Hand saws: Use a saw set [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] teeth, then file each tooth individually
 - Chainsaws: Use a round file with a filing guide; file each cutter at the correct angle
 - Japanese pull saws: Cannot be resharpened easily — replace when dull
 - Bow saws: Replace blades when dull (inexpensive)

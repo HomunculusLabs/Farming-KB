@@ -10,7 +10,7 @@ sources: []
 # Homestead Poultry Health
 
 Maintaining healthy poultry on the homestead requires proactive management,
-biosecurity protocols, and the ability to recognize disease early. Poultry
+biosecurity protocols, [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]] ability to recognize disease early. Poultry
 (including chickens, ducks, turkeys, and quail) are susceptible to a range of
 bacterial, viral, fungal, and parasitic diseases. Prevention is always more
 effective and economical than treatment.
@@ -24,7 +24,7 @@ effective and economical than treatment.
 - **Symptoms:** Bloody diarrhea, lethargy, hunched posture, ruffled feathers,
   weight loss, death. Most common in young birds (3-8 weeks).
 - **Transmission:** Fecal-oral. Spread through contaminated feed, water,
-  litter, and equipment. Survives for months in the environment.
+  litter, and equipment. Survives for months [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] i-in-the-environment-saltmarsh-cordgrass-laccase-decomposition]].
 - **Treatment:** Amprolium (Corid) in water — 9.6 mg/ml for 5-7 days.
   Toltrazuril (Baycox) is also effective. Sulfa drugs for secondary
   infections.
@@ -106,15 +106,15 @@ effective and economical than treatment.
 
 ### The Foundation of Poultry Health
 
-Biosecurity is the set of practices that prevent the introduction and spread
+Biosecurity [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] set of practices that prevent the introduction and spread
 of disease on your homestead.
 
 ### Entry Protocols
-- **Quarantine** all new birds for 2-4 weeks in a separate area, as far
+- **Quarantine** all new birds for 2-4 weeks [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] separate area, as far
   from the existing flock as possible.
 - Observe quarantined birds daily for signs of disease.
 - Test for common diseases (Marek's, MG, pullorum) if possible.
-- Change clothing and footwear between quarantine area and main flock.
+- Change clothing and footwear between quarantine area [[zone-two-orchard-and-main-crops]] flock.
 - Do not share equipment between quarantined and established birds.
 
 ### Visitor Protocols
@@ -146,4 +146,4 @@ of disease on your homestead.
 
 ### Core Vaccines for Homestead Flocks
 - **Marek's Disease:** Hatchery vaccination. Essential. No practical way to
-  vaccinate at home after hatch.
+  vaccinate [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]] after hatch.

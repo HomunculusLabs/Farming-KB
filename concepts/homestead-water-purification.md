@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Water Purification
 
-Reliable water purification is essential for any [[off-grid-waste-management|off-grid]] or [[homesteading|rural]] [[homesteading|homestead]]. Whether your water comes from a well, spring, creek, or rainwater catchment, it may contain bacteria, viruses, parasites, chemicals, heavy metals, or sediment. A multi-barrier approach using complementary treatment methods ensures safe drinking water.
+Reliable water purification is essential for any [[off-grid-waste-management|off-grid]] or [[homesteading|rural]] [[homesteading|homestead]]. Whether your water comes from a well, spring, creek, or rainwater catchment, it may contain bacteria, viruses, parasites, chemicals, [[mycelium-running-mushroom-bioaccumulation-heavy-metals-species-guide]], or sediment. A multi-barrier approach using complementary treatment methods ensures safe drinking water.
 
 ## Water Quality Testing
 
@@ -45,7 +45,7 @@ Before selecting a purification system, test your water:
 
 ### Ceramic Filters (Gravity-Fed)
 
-**How they work:** Water passes through microscopic pores in a ceramic candle that block bacteria and sediment. Many contain impregnated silver for antibacterial properties.
+**How they work:** Water passes through microscopic pores [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] ceramic candle that block bacteria and sediment. Many contain impregnated silver for antibacterial properties.
 
 **Popular systems:**
 - **Berkey (Big Berkey, Royal Berkey)**: Most popular gravity filter. Stainless steel housing, black Berkey elements filter bacteria, viruses (some models), cysts, chemicals, and heavy metals. Flow rate: 2.75 gallons/hour for Big Berkey with 2 elements.
@@ -120,7 +120,7 @@ Before selecting a purification system, test your water:
 
 **Cons:**
 - Does not remove chemicals, heavy metals, or sediment
-- Time and energy intensive
+- [[pattern-classification-time-and-unified-events]] ropical-island-diet-diversification-and-energy-resources]] intensive
 - Not practical for large volumes of daily water
 
 ### Chemical Treatment
@@ -140,9 +140,9 @@ Before selecting a purification system, test your water:
 
 **Calcium hypochlorite (pool shock):**
 - More stable than bleach for long-term storage
-- Mix a small amount with water to create a chlorine solution
+- Mix [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]] amount with water to [[query-how-do-i-create-a-xeriscape-or-drought-tolerant-garden]] chlorine solution
 - Treat drinking water with the solution
-- Excellent for [[emergency-preparedness]] and long-term off-grid use
+- Excellent for [[emergency-preparedness]] [[phloem-sap-composition-and-long-distance-signaling-in-plants]]-term off-grid use
 
 ### Biosand Filters
 

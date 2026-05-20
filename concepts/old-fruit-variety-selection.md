@@ -53,7 +53,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 ## Wild and Sour Cherries
 
-Holzer cultivates wild cherries in the forest to increase species diversity. Wild cherries at high altitudes ripen in September when the harvest is long over at lower altitudes. At high altitudes plums, pears and apples develop a very intense flavour because of the harsh nights.
+Holzer cultivates wild cherries [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] forest to increase [[bloomfield-sudden-oak-death-phytophthora-species-diversity]]. Wild cherries at high altitudes ripen in September when the harvest is long over at lower altitudes. At high altitudes plums, pears and apples develop a very intense flavour because [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] harsh nights.
 
 ## Apricot and Peach Varieties
 
@@ -74,8 +74,8 @@ These approaches continue to evolve with new research and experience.
 Ongoing work in this area promises further refinements.
 Researchers and practitioners collaborate to advance the field.
 New technologies enable more precise measurement and analysis.
-This body of knowledge continues to grow through dedicated study.
-The integration of theory and practice remains essential.
+This body of knowledge continues [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] through dedicated study.
+The integration of [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]] ing-theory-and-practice]] remains essential.
 Future directions include expanded research and broader application.
 
 This topic continues to develop with ongoing research.

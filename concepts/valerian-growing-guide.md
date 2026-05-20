@@ -14,8 +14,8 @@ sources: []
 Valerian is a hardy perennial herb native to Europe and parts of Asia,
 widely cultivated for its medicinal roots. Known for its distinctive
 pungent aroma (often compared to dirty socks), valerian root has been used
-for over 2,000 years as a sedative, anxiolytic, and sleep aid. It is one
-of the most well-researched herbal sedatives and is commonly recommended
+for over 2,000 years [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] sedative, anxiolytic, and sleep aid. It is one
+[[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] most well-researched herbal sedatives and is commonly recommended
 by both herbalists and healthcare practitioners for insomnia and anxiety.
 
 ## Botanical Profile
@@ -75,7 +75,7 @@ root development. Valerian naturally grows along stream banks and in moist
 meadows, so replicating these conditions yields the best results.
 
 ### Soil Preparation
-Work the soil to a depth of 12-18 inches, removing rocks that could cause
+Work [[gaias-garden-bringing-the-soil-to-life]] a depth of 12-18 inches, removing rocks that could cause
 roots to fork. Incorporate generous amounts of [[compost]] or well-rotted manure.
 A pH of 5.5-7.0 is ideal. Ensure good drainage -- valerian likes moisture
 but not waterlogged soil.
@@ -93,9 +93,9 @@ From seed:
 
 From division:
 - Divide established crowns in early spring or fall
-- Each division should have several buds and a good root mass
+- Each division should have several buds [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] good root mass
 - Replant immediately and keep well-watered
-- Division is the fastest method to establish a productive patch
+- Division [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] fastest method to establish a productive patch
 
 From root cuttings:
 - Cut 1-2 inch pieces of healthy root in fall
@@ -127,7 +127,7 @@ rarely serious.
 
 Timing is critical for valerian root harvest:
 
-- Harvest in the fall of the 2nd year (ideally) or 3rd year
+- Harvest [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] fall of the 2nd year (ideally) or 3rd year
 - The optimal harvest window is after the plant has died back but before
   the ground freezes
 - Roots harvested in fall have higher concentrations of active compounds

@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Fungal infections (mycoses) range from superficial skin conditions to life-threatening systemic diseases. An estimated 1.5 million people die from fungal infections annually worldwide, a figure that exceeds deaths from malaria or tuberculosis. The incidence of invasive fungal infections has risen dramatically over the past three decades, driven by increasing populations of immunocompromised patients, advances in medical interventions, and climate change expanding the geographic range of pathogenic fungi.
+Fungal infections (mycoses) range from superficial skin conditions to life-threatening systemic diseases. An estimated 1.5 million people die from fungal infections annually worldwide, a figure that exceeds deaths from malaria or tuberculosis. The incidence of invasive fungal infections has risen dramatically over the past three decades, driven by increasing populations of immunocompromised patients, advances in medical interventions, [[mycelium-running-stamets-fungi-and-climate-change]]-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]] expanding the geographic range of pathogenic fungi.
 
 ## Classification of Fungal Infections
 
@@ -46,9 +46,9 @@ Infect keratinized tissues (skin, hair, nails):
 
 ### Subcutaneous Mycoses
 
-- **Sporotrichosis**: Caused by Sporothrix schenckii, a dimorphic fungus found in soil and plant material. Usually introduced through skin puncture (thorns, splinters). Presents as nodular lesions along lymphatic channels ("sporotrichoid spread"). Treated with itraconazole
+- **Sporotrichosis**: Caused by Sporothrix schenckii, a dimorphic fungus found in soil [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]] material. Usually introduced through skin puncture (thorns, splinters). Presents as nodular lesions along lymphatic channels ("sporotrichoid spread"). Treated with itraconazole
 - **Chromoblastomycosis**: Caused by multiple dematiaceous (dark) fungi (Fonsecaea, Phialophora, Cladophialophora). Presents as verrucous nodules and plaques on extremities. Chronic, difficult-to-treat infection
-- **Mycetoma**: Chronic subcutaneous infection caused by fungi (eumycetoma) or bacteria (actinomycetoma). Characterized by sinus tract formation with grain (granule) discharge. Common in tropical regions
+- **Mycetoma**: Chronic subcutaneous infection caused by fungi (eumycetoma) or bacteria (actinomycetoma). Characterized by sinus tract formation with grain (granule) discharge. Common [[fukuoka-natural-farming-in-tropical-regions]]
 - **Phaeohyphomycosis**: Infections caused by dematiaceous fungi, ranging from superficial to systemic
 
 ## Systemic (Invasive) Mycoses
@@ -87,7 +87,7 @@ Candida species are commensal organisms in the human microbiome (gastrointestina
 
 ### Aspergillosis
 
-Caused primarily by [[aspergillus-fumigatus]] (~90% of cases), with A. flavus, A. niger, and A. terreus also pathogenic.
+Caused primarily by [[aspergillus-fumigatus]] (~90% of cases), with A. flavus, A. niger, [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]]. terreus also pathogenic.
 
 **Clinical presentations**:
 - **Invasive pulmonary aspergillosis (IPA)**: Most common form. Affects immunocompromised patients (neutropenia, transplant recipients, chronic corticosteroid use). Presents with fever, cough, pleuritic chest pain, hemoptysis. CT shows characteristic halo sign or air-crescent sign. Mortality 40-80%
@@ -120,7 +120,7 @@ Caused by encapsulated yeast [[cryptococcus-neoformans]] and C. gattii.
 
 ### Mucormycosis
 
-Caused by fungi in the order Mucorales ([[rhizopus]], Mucor, Lichtheimia, Cunninghamella). Aggressive, rapidly progressive infection.
+Caused by [[fungi-in-the-environment-saltmarsh-cordgrass-laccase-decomposition]] order Mucorales ([[rhizopus]], Mucor, Lichtheimia, Cunninghamella). Aggressive, rapidly progressive infection.
 
 **Risk factors**: Diabetic ketoacidosis, neutropenia, iron overload (deferoxamine therapy), transplantation, prolonged corticosteroid use.
 

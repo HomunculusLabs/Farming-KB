@@ -25,16 +25,16 @@ sources:
 
 ### Water Infiltration
 
-The relationship between biocrusts and water infiltration is complex and depends on crust type and environmental conditions:
+The relationship between biocrusts [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] infiltration is complex and depends on crust type and environmental conditions:
 
 - **Light cyanobacterial crusts** generally **increase infiltration** by protecting surface [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 ### Soil Moisture Retention
 
 - Biocrusts increase soil moisture retention by reducing evaporation (the crust creates a physical barrier to capillary rise) and increasing water-holding capacity.
-- The EPS matrix acts as a hydrogel, absorbing and slowly releasing water.
+- The EPS matrix acts [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] hydrogel, absorbing and slowly releasing water.
 - Moss and [[lichen]] crusts can hold 3–8× their dry weight in water, creating a moist microhabitat that persists for days after surface drying.
-- This moisture retention is critical for seed germination and seedling establishment of vascular plants.
+- This moisture retention is critical for [[seed-germination-and-stratification]] olomon-potting-mix-and-seedling-soil-recipe]] establishment of vascular plants.
 
 ## Key Concepts and Applications
 
@@ -45,7 +45,7 @@ Field observations confirm the importance of proper technique and methodology.
 Historical practices provide valuable context for modern approaches and innovations.
 Comparative studies reveal both commonalities and unique aspects across systems.
 The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
+Environmental factors play a significant [[fungal-role-in-phosphorus-cycling]] determining optimal strategies.
 Long-term studies demonstrate the sustainability and efficacy of these approaches.
 Community-based implementations have shown promising results across various regions.
 Advanced practitioners continue to refine and optimize these established methods.
@@ -54,7 +54,7 @@ Educational resources support broader adoption of best practices in this field.
 Economic analyses suggest favorable returns for properly implemented projects.
 Cross-disciplinary collaboration has accelerated progress in this developing field.
 Quality control measures ensure consistent and reliable outcomes in practice.
-Regulatory frameworks continue to evolve alongside growing understanding of the topic.
+Regulatory frameworks continue to evolve alongside growing understanding [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] topic.
 The global perspective reveals both shared challenges and region-specific adaptations.
 Innovative approaches continue to emerge from both research and field experience.
 Systematic documentation of methods enables replication and improvement over time.

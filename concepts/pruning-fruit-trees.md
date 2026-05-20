@@ -9,16 +9,16 @@ sources: []
 
 # Pruning Fruit Trees
 
-Pruning is the selective removal of branches to shape the tree, improve fruit quality, increase light penetration, remove diseased or dead wood, and maintain tree health. Proper pruning is one of the most important skills for fruit tree care and directly affects yield, fruit size, and tree longevity.
+Pruning [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] selective removal of branches to shape the tree, improve fruit quality, increase light penetration, remove diseased or dead wood, and maintain tree health. Proper pruning is one [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] uery-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] skills for [[fruit-tree-care-and-orchard-management]] and directly affects yield, fruit size, and tree longevity.
 
 ## Why Prune
 
 ### Benefits of Proper Pruning
 
 - **Improved light penetration**: Sun-exposed fruit ripens better, develops more sugar, and has fewer disease problems
-- **Better air circulation**: Reduces humidity within the canopy, decreasing fungal disease pressure
+- **Better air circulation**: Reduces humidity within the canopy, decreasing [[ingham-aact-fungal-disease-suppression-fusarium-rhizoctonia-anthracnose]] pressure
 - **Easier harvest**: Well-shaped trees are more accessible for picking
-- **Disease management**: Removal of infected wood slows the spread of canker, fire blight, and other diseases
+- **[[marijuana-horticulture-cervantes-pest-and-disease-management]]**: Removal of infected wood slows the spread of canker, fire blight, and other diseases
 - **Tree vigor control**: Pruning balances vegetative growth with fruit production
 - **Structural strength**: Removing weak crotches and crowded branches prevents breakage under fruit load
 - **Renewal**: Removing old wood stimulates new productive growth
@@ -118,7 +118,7 @@ Espalier is the practice of training trees to grow flat against a wall, fence, o
 
 ### Best Trees for Espalier
 
-- Apples and pears are the classic espalier subjects (spur-bearing, flexible, long-lived)
+- Apples and pears [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] classic espalier subjects (spur-bearing, flexible, long-lived)
 - Fig trees are excellent for warm-climate espalier
 - Stone fruits (peach, plum) are less common but possible with fan training
 - Citrus can be espaliered in mild climates

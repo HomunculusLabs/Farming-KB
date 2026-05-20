@@ -9,14 +9,14 @@ sources: []
 
 ## Overview
 
-Cloning is the process of taking a cutting from a mature cannabis plant and encouraging it to grow its own root system, creating a genetically identical copy. Cloning preserves desirable traits from mother plants and eliminates the genetic variability of seeds.
+Cloning [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] process of taking a cutting from a mature cannabis plant and encouraging it to grow its own root system, creating a genetically identical copy. Cloning preserves desirable traits from mother plants and eliminates the genetic variability of seeds.
 
 ## Why Clone
 
-- **Genetic consistency**: Every clone is an exact genetic copy of the mother
+- **Genetic consistency**: Every clone is an exact genetic copy [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] mother
 - **Known sex**: No need to sex plants — female clones produce female plants
 - **Preserved phenotypes**: Lock in a specific expression of a strain
-- **Faster than seed**: Clones skip germination and seedling stages
+- **Faster than seed**: Clones skip germination [[solomon-potting-mix-and-seedling-soil-recipe]] stages
 - **Perpetual harvests**: Maintain mother plants for ongoing cuttings
 
 ## Selecting a Mother Plant
@@ -59,7 +59,7 @@ Mother plants are typically kept in perpetual vegetative state (18/6 light) and 
 
 ### Cloning from [[cannabis-vegetative-stage]] Plants
 
-The best time to take cuttings is during the vegetative stage when the mother is actively growing. Avoid taking cuttings from flowering plants unless reverting, as this adds stress and time. Some growers take cuttings 2-3 weeks before the flip to ensure clones root while the mother transitions.
+The best time to take cuttings is during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] when the mother is actively growing. Avoid taking cuttings from flowering plants unless reverting, as this adds stress and time. Some growers take cuttings 2-3 weeks before the flip to ensure clones root while the mother transitions.
 
 ## Rooting Mediums
 
@@ -126,7 +126,7 @@ Use low-intensity light during cloning:
 - **Sanitize everything**: Contamination is the primary cause of failure
 - **Don't overwater cubes**: Soggy cubes promote rot. Moist, not wet.
 - **Don't pull on cuttings** to check roots — this damages fragile new root tissue
-- **Maintain warmth**: Cold rooting zones are the most common cause of slow or failed rooting
+- **Maintain warmth**: Cold rooting zones [[query-what-are-the-most-nutritious-edible-weeds-in-my-garden-and-how-do-i-use-them]]-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] cause of slow or failed rooting
 - **Use a clean razor for each mother plant**: Prevents cross-contamination
 
 ## Transplanting Rooted Clones

@@ -12,7 +12,7 @@ sources: []
 Solar water heating uses the sun's energy to heat water for domestic use,
 reducing or eliminating the need for gas or electric water heating. A
 properly sized system can provide 50-80% of a household's hot water needs.
-This guide covers system types, design principles, DIY construction, and
+This guide covers system types, design principles, [[laminar-flow-hood-diy-construction]], and
 sizing for the homestead.
 
 ## Why Solar Water Heating
@@ -32,15 +32,15 @@ The simplest and cheapest solar water heater.
 
 **How it works:**
 - Cold water flows into the tank from the supply line
-- Sun heats the water directly in the tank
-- Hot water is drawn from the top of the tank for use
-- Cold water from the supply replaces what is drawn
+- Sun heats the water directly [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] tank
+- Hot water is drawn from the top [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] tank for use
+- Cold water from the supply replaces [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] drawn
 
 **Advantages:**
 - Simple to build — essentially a water tank in a box
 - No pumps, controllers, or moving parts
 - Passive operation — no electricity required
-- Low cost ($200-500 DIY)
+- [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]] ($200-500 DIY)
 
 **Disadvantages:**
 - Heat loss overnight — water cools when sun is not shining
@@ -53,7 +53,7 @@ The simplest and cheapest solar water heater.
    outer shell and insulation, repaint the tank black with high-heat paint
 2. Build an insulated box from 2x4 lumber and rigid foam insulation (R-20+)
 3. Glaze the top with tempered glass or twin-wall polycarbonate
-4. Mount the tank inside the box on a south-facing roof or ground stand
+4. Mount the tank inside the box [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]] south-facing roof or ground stand
 5. Plumb cold water in (bottom) and hot water out (top)
 6. Install a tempering valve on the output to prevent scalding
 7. Tilt the collector at latitude + 15 degrees for winter optimization
@@ -86,7 +86,7 @@ the collector.
 ### Active Closed-Loop System
 
 A pump circulates a heat-transfer fluid (propylene glycol) through the
-collector and a heat exchanger in the storage tank. A differential
+collector [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] heat exchanger in the storage tank. A differential
 controller activates the pump when the collector is hotter than the tank.
 
 **How it works:**

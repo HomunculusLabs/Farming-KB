@@ -21,10 +21,10 @@ The simplest and cheapest season extension structure:
 - **Width:** 24-48 inches, covering one or two rows
 - **Frame:** 9-gauge galvanized wire hoops, PVC pipe, or fiberglass rods bent into arches, spaced 3-5 feet apart
 - **Cover:** [[floating-row-cover]] fabric (spun-bonded polypropylene) or clear polyethylene film
-- **Anchoring:** Bury the edges of the cover in soil, or use sandbags, earth staples, or clips
+- **Anchoring:** Bury the edges [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] cover [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]], or use sandbags, earth staples, or clips
 - **Cost:** Very low — $20-50 for a 50-foot row
 - **Season extension:** 2-4 weeks in spring and fall
-- **Best for:** Early spring greens, fall lettuce, protecting seedlings from frost, insect exclusion
+- **[[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]:** Early spring greens, fall lettuce, protecting seedlings from frost, insect exclusion
 
 ### High Tunnels (Hoop Houses)
 
@@ -63,15 +63,15 @@ A hybrid between low and high tunnels:
 
 ### Assembly
 
-1. **Prepare the bed:** Amend soil and plant or transplant before installing the tunnel
+1. **Prepare the bed:** Amend soil [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]] or transplant before installing the tunnel
 2. **Insert hoops:** Push hoop ends 6-8 inches into the soil on both sides of the row, spacing hoops 3-5 feet apart
 3. **Drape the cover:** Pull the cover over the hoops, leaving 12-18 inches of extra material on each side for anchoring
 4. **Anchor the edges:** Bury the excess material in soil, or secure with earth staples every 2-3 feet
-5. **Ventilation:** For row cover fabric, ventilation is generally not needed (the fabric breathes). For poly film, lift or roll up the sides on warm days.
+5. **Ventilation:** For [[coleman-row-cover-fabric-management]], ventilation is generally not needed (the fabric breathes). For poly film, lift or roll up the sides on warm days.
 
 ### Low Tunnel Tips
 
-- **Row cover weights:** 0.5 oz provides light frost protection and insect exclusion. 1.0-2.0 oz provides heavier frost protection (down to 26-28°F).
+- **Row cover weights:** 0.5 oz provides light [[mollison-frost-protection-and-thermal-belt-design]] insect exclusion. 1.0-2.0 oz provides heavier frost protection (down to 26-28°F).
 - **Slugs:** The humid environment under low tunnels can increase slug activity — use organic slug controls.
 - **Heat management:** On sunny days, temperatures under poly film low tunnels can exceed 100°F quickly. Ventilate or switch to shade cloth in summer.
 

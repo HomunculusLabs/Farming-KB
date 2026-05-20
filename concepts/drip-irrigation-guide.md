@@ -9,7 +9,7 @@ sources: []
 
 # Drip Irrigation Guide
 
-[[drip-irrigation]] (microirrigation) delivers water directly to the root zone of plants through a network of tubes, pipes, and emitters. It is the most water-efficient irrigation method available, reducing water use by 30-50% compared to sprinkler systems while minimizing foliar disease, weed growth, and evaporation losses.
+[[drip-irrigation]] (microirrigation) delivers water directly to the root zone of plants through a network of tubes, pipes, and emitters. It [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most water-efficient irrigation method available, reducing water use by 30-50% compared to sprinkler systems while minimizing foliar disease, weed growth, and evaporation losses.
 
 ## Components
 
@@ -38,7 +38,7 @@ Drip systems operate at low pressure (10-30 PSI). Most municipal systems deliver
 
 ### Main Line
 
-The supply pipe from the water source to the garden area. Typically 1/2 inch or 3/4 inch polyethylene (poly) pipe for residential systems. Sized for the total flow rate of the system.
+The supply pipe from the water source to [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] area. Typically 1/2 inch or 3/4 inch polyethylene (poly) pipe for residential systems. Sized for the total flow rate [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] system.
 
 ### Laterals
 
@@ -68,7 +68,7 @@ Discrete devices inserted into the lateral pipe at each plant location. Flow rat
 - **Non-pressure-compensating**: Flow varies with pressure. Cheaper but less accurate. Suitable for flat terrain only.
 - **Adjustable flow**: Twist to change flow rate. Useful where water needs vary between plants.
 
-Best for: widely spaced plants (tomatoes, peppers, fruit trees), container plants, irregular layouts.
+[[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]]: widely spaced plants (tomatoes, peppers, [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]]), container plants, irregular layouts.
 
 ### Drip Tape
 
@@ -106,7 +106,7 @@ Best for: perennial borders, shrub beds, simple garden setups.
 
 Divide the irrigation system into zones based on:
 
-1. **Water needs**: Group plants with similar water requirements (e.g., heavy feeders in one zone, drought-tolerant in another)
+1. **Water needs**: Group plants with similar water requirements (e.g., heavy feeders [[fao-three-in-one-training-rehabilitation-mushroom-enterprise]] ermaculture-zone-one-zone-two-design]], drought-tolerant in another)
 2. **Flow capacity**: Each zone should not exceed the water source's flow rate
 3. **Timing**: Different zones may need different run times
 4. **Topography**: Avoid zones that span significant elevation changes (unless using PC emitters)

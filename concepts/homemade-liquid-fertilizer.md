@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-It is very easy to make your own liquid manure that is as nutritious as any you can buy. All you need is a large metal or plastic drum, a burlap sack, and some animal manure or plant material.
+It is very easy [[query-how-to-make-your-own-organic-fertilizer-at-home]] own liquid manure that is as nutritious as any you can buy. All you need is a large metal or plastic drum, a burlap sack, and some animal manure or plant material.
 
 ## Basic Recipe (Animal Manure Liquid Feed)
 
@@ -21,8 +21,8 @@ It is very easy to make your own liquid manure that is as nutritious as any you 
 
 1. Fill the drum with water
 2. Collect half a sackful of animal droppings
-3. Tie up the top of the sack with a double loop of string
-4. Put a strong stake across the top of the drum and loop the string over it so the sack is suspended in the water
+3. Tie up the top [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] sack with a double loop of string
+4. Put a strong stake across the top of the drum and loop the string over it so the sack is suspended [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] water
 5. Leave for about two weeks, until the water is a rich, dark brown color
 6. Remove the sack and leave the drum covered
 
@@ -30,7 +30,7 @@ It is very easy to make your own liquid manure that is as nutritious as any you 
 
 - **Direct application:** Can be used undiluted, provided the soil has first been watered
 - **Foliar spray:** Dilute the liquid with equal parts water
-- **Golden rule:** Never liquid-feed when the soil is bone dry — you may scorch the roots. Water with clear water first, let it drain, then apply the liquid fertilizer
+- **Golden rule:** Never liquid-feed when the soil is bone dry — you may scorch the roots. Water with clear water first, let it drain, then apply the [[jadam-input-production-water-leaf-mold-liquid-fertilizer]]
 
 ## Plant-Based Liquid Fertilizers
 
@@ -47,7 +47,7 @@ The same method can be used with plant materials to produce specific nutrient fe
 - For potted plants, fill up to the rim of the pot
 
 ### Buried Pot Method
-For plants that are regularly fed (e.g., greenhouse tomatoes):
+For plants that are regularly fed (e.g., [[coleman-vertical-trellis-growing-greenhouse-tomatoes]]):
 - Bury a flower pot in the soil near the plant
 - Fill the pot with liquid fertilizer
 - This gets fertilizer deeper into the soil and lets you measure exactly how much each plant receives
@@ -72,7 +72,7 @@ Field observations confirm the importance of proper technique and methodology.
 Historical practices provide valuable context for modern approaches and innovations.
 Comparative studies reveal both commonalities and unique aspects across systems.
 The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
+Environmental factors play a significant [[fungal-role-in-phosphorus-cycling]] determining optimal strategies.
 Long-term studies demonstrate the sustainability and efficacy of these approaches.
 Community-based implementations have shown promising results across various regions.
 Advanced practitioners continue to refine and optimize these established methods.

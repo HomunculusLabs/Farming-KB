@@ -22,7 +22,7 @@ Raw cannabis contains non-intoxicating acidic cannabinoids (THCA, CBDA). Decarbo
 3. Spread in an even layer on a parchment-lined baking sheet
 4. Bake for 30-40 minutes
 5. Gently mix or shake the tray halfway through
-6. The cannabis should be lightly toasted with a golden-brown color and a nutty aroma
+6. The cannabis should be lightly toasted with a golden-brown color [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] nutty aroma
 7. Allow to cool before infusing
 
 ### Temperature Guide
@@ -37,7 +37,7 @@ Approximately 85-90% of THCA converts to THC under optimal conditions. Overheati
 
 ## Cannabutter
 
-Cannabutter (cannabis-infused butter) is the most common base for homemade edibles.
+Cannabutter (cannabis-infused butter) [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] uery-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] base for homemade edibles.
 
 ### Recipe
 
@@ -48,9 +48,9 @@ Cannabutter (cannabis-infused butter) is the most common base for homemade edibl
 - 1 teaspoon sunflower or soy lecithin (optional, improves bioavailability)
 
 **Instructions**:
-1. Add butter and water to a saucepan or double boiler
+1. Add butter [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] to a saucepan or double boiler
 2. Heat on low (160-180 F) until butter is melted
-3. Add decarboxylated cannabis and lecithin
+3. Add decarboxylated [[query-what-causes-nutrient-burn-in-cannabis-and-how-to-prevent-it]] lecithin
 4. Simmer on low heat for 2-3 hours, stirring every 15-20 minutes
 5. Do NOT boil — high heat degrades cannabinoids and creates off-flavors
 6. The mixture should never exceed 200 F
@@ -58,7 +58,7 @@ Cannabutter (cannabis-infused butter) is the most common base for homemade edibl
 8. Squeeze the cheesecloth firmly to extract all butter
 9. Refrigerate the container; butter will solidify on top, water will remain below
 10. Separate the solid butter from the water
-11. Store in the refrigerator for up to 2 months or freezer for up to 6 months
+11. Store [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] refrigerator for up to 2 months or freezer for up to 6 months
 
 ### Potency Estimation
 
@@ -83,7 +83,7 @@ Coconut oil is an excellent alternative to butter for vegan edibles and those wh
 - 1 teaspoon lecithin
 
 **Instructions**:
-1. Combine coconut oil and cannabis in a double boiler or mason jar
+1. Combine coconut oil and [[query-how-do-i-grow-cannabis-in-a-greenhouse]] double boiler or mason jar
 2. Heat on low (160-180 F) for 2-3 hours
 3. Stir every 15-20 minutes
 4. Add lecithin in the last 30 minutes

@@ -5,19 +5,19 @@ type: concept
 ---
 ## Key References
 
-- Cannon, P.F. (1997a). Diversity of the Phyllachoraceae. [Latitudinal diversity patterns]
+- Cannon, P.F. (1997a). Diversity [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] Phyllachoraceae. [Latitudinal diversity patterns]
 - Cannon, P.F. and Hawksworth, D.L. (1995). Neotropical microfungal diversity.
 - Clark, M.C. (1980). Warwickshire fungus flora.
-- Cooke, R.C. and Whipps, J.M. (1993). Ecophysiology of fungi.
+- Cooke, R.C. and Whipps, J.M. (1993). Ecophysiology [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]].
 - Dennis, R.W.G. (1970). Fungus flora of Venezuela and British Isles comparison.
 - Hawksworth, D.L. (1991). The fungal dimension of biodiversity.
 - Rambelli, A. et al. (1983, 1991). Human disturbance and microfungal diversity in Ivory Coast.
 - da Silva, M. and Minter, D.W. (1995). Foliicolous [[lichen]] community fungi.
-- Tubaki, K. and Yokoyama, T. (1973). Litter fungi in Japan.
+- Tubaki, K. and Yokoyama, T. (1973). Litter [[fungi-in-stressful-environments-strategies-thermophilic-psychrophilic-metal-tolerant]] Japan.
 
 ## Key Takeaways
 
-The information presented here highlights important connections between theory and practice. Consider these factors in relation to your specific context for best results.
+The information presented here highlights important connections between [[microdosing-theory-and-practice]]. Consider these factors in relation to your specific context for best results.
 
 ## Key Concepts and Applications
 
@@ -28,7 +28,7 @@ Field observations confirm the importance of proper technique and methodology.
 Historical practices provide valuable context for modern approaches and innovations.
 Comparative studies reveal both commonalities and unique aspects across systems.
 The integration of traditional knowledge with scientific methods has proven effective.
-Environmental factors play a significant role in determining optimal strategies.
+Environmental factors play a significant [[fungal-role-in-phosphorus-cycling]] determining optimal strategies.
 Long-term studies demonstrate the sustainability and efficacy of these approaches.
 Community-based implementations have shown promising results across various regions.
 Advanced practitioners continue to refine and optimize these established methods.
@@ -43,7 +43,7 @@ Innovative approaches continue to emerge from both research and field experience
 Systematic documentation of methods enables replication and improvement over time.
 Peer-reviewed studies provide robust evidence supporting established methodologies.
 Practical handbooks and guides translate research findings into actionable steps.
-International cooperation facilitates knowledge exchange and joint research initiatives.
+International cooperation facilitates knowledge [[mushroom-cultivation-requirements-food-water-gas-exchange-and-light]] joint research initiatives.
 The field continues to attract new researchers and practitioners from diverse backgrounds.
 Technological advances have opened new avenues for investigation and application.
 Sustainability considerations increasingly influence methodological choices and priorities.

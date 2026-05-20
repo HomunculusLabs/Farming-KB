@@ -32,8 +32,8 @@ type: query
 
 ## Overview
 
-Query How Do Epiphytes Survive Without Soil represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+[[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] Do Epiphytes Survive Without Soil represents an important element within sustainable
+[[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]] ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -48,7 +48,7 @@ and management across diverse environmental conditions.
 
 The ecological relationships involving query extend
 across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
+Soil biology, water cycles, [[tropical-island-diet-diversification-and-energy-resources]] flows all interact
 with this element in complex and beneficial ways.
 
 ## Practical Applications
@@ -70,7 +70,7 @@ Integration with complementary elements enhances system function.
 Different geographic regions present unique challenges and
 opportunities for query how do epiphytes survive without soil. Climate adaptation
 strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
+Local [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] site observation remain essential guides.
 
 ## Sustainability
 
@@ -96,11 +96,11 @@ current understanding and implementation strategies.
 ## Integration Strategies
 
 Successful integration of query how do epiphytes survive without soil into broader
-systems requires careful planning and observation.
+systems requires careful [[mollison-earthworks-planning-and-post-earthworks-planting]] observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
 
 Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
+constraints, [[tribal-pattern-navigation-and-knowledge]] gaps. Diversified approaches and

@@ -26,7 +26,7 @@ Pasteurization heats milk to 72 C (161 F) for 15 seconds (HTST method) or 63 C (
 ### Nutritional Advantages
 
 -  **Enzymes** — Raw milk contains active enzymes that aid digestion. Lactase helps lactose-intolerant individuals tolerate raw milk. Phosphatase aids calcium and phosphorus absorption.
--  **Probiotics** — Beneficial bacteria in raw milk (Lactobacillus, Bifidobacterium, and others) support gut health and immune function. These are the same bacteria used in yogurt and cheese cultures.
+-  **Probiotics** — Beneficial bacteria in raw milk (Lactobacillus, Bifidobacterium, and others) support gut health and immune function. These [[query-what-are-the-different-phytoremediation-mechanisms-and-which-plants-are-best-for-each]] same bacteria used in yogurt and cheese cultures.
 -  **Vitamins** — Raw milk retains more vitamin C, B6, B12, and folate than pasteurized milk. Fat-soluble vitamins A, D, E, and K are more bioavailable in raw milk fat.
 -  **CLA (Conjugated Linoleic Acid)** — Higher levels in grass-fed raw milk. CLA has anti-inflammatory and potential anti-cancer properties.
 -  **Immunoglobulins** — Raw milk contains antibodies that support immune function, particularly important in young animals and children.
@@ -56,7 +56,7 @@ Raw milk can carry pathogenic bacteria that cause serious illness:
 Risk of contamination increases with:
 -  Poor animal health (mastitis, udder infections)
 -  Dirty milking environment or equipment
--  Improper milk handling and storage
+-  Improper milk [[solomon-manure-handling-and-cof-ingredients]] st-harvest-handling-and-storage]] designers-water-purification-and-storage-principles]]
 -  Unhealthy or stressed animals
 -  Mixing milk from multiple animals without individual testing
 -  Feeding animals contaminated feed or water
@@ -72,7 +72,7 @@ Risk is minimized (not eliminated) by:
 
 ### Milking Hygiene
 
-1.  **Clean the animal** — Brush the udder and belly. Wash the udder with warm water and a dairy-specific sanitizer or mild soap. Dry with a clean, single-use paper towel. The first few strips of milk from each teat should be stripped into a separate cup and discarded (this flushes bacteria from the teat canal).
+1.  **Clean the animal** — Brush the udder and belly. Wash the udder with warm water [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] dairy-specific sanitizer or mild soap. Dry with a clean, single-use paper towel. The first few strips of milk from each teat should be stripped into a separate cup and discarded (this flushes bacteria from the teat canal).
 2.  **Pre-dip** — Dip teats in a pre-milking teat dip (iodine-based) 30 seconds before milking. Wipe dry with a clean towel.
 3.  **Sanitize equipment** — All milking equipment (buckets, pails, strainers, jars) must be washed with hot soapy water, rinsed, then sanitized with a dairy sanitizer or bleach solution before each use. Air dry on a clean rack.
 4.  **Milking environment** — Milk in a clean, well-ventilated area. Avoid dusty or muddy conditions. Bedding should be fresh and dry.
@@ -81,7 +81,7 @@ Risk is minimized (not eliminated) by:
 ### Cooling and Storage
 
 -  **Chill immediately** — The most critical step. Cool milk from body temperature (38 C / 100 F) to 4 C (40 F) within 1 hour of milking.
--  **Ice bath method** — Place the milk container in a larger container filled with ice water. Stir occasionally for even cooling.
+-  **Ice bath method** — Place the milk container in a larger container filled with [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]. Stir occasionally for even cooling.
 -  **Refrigerator** — Store at 0-4 C (32-40 F) immediately after chilling.
 -  **Shelf life** — Properly handled raw goat milk lasts 7-10 days refrigerated. Raw cow milk lasts 7-14 days. Quality declines over time as naturally occurring bacteria multiply.
 -  **Do not mix batches** — Keep milk from each milking separate until it has been tested or you are confident in your herd's health status.
@@ -96,7 +96,7 @@ Risk is minimized (not eliminated) by:
 
 ## Testing
 
-Regular testing is the foundation of safe raw milk production.
+Regular testing [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] foundation of safe raw milk production.
 
 ### On-Farm Tests
 

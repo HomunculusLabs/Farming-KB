@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Stone fruits — peaches, plums, cherries, apricots, and nectarines — are named for their hard pit (stone) surrounding the seed. They are among the most flavorful of home orchard fruits but require attentive pruning, disease management, and careful variety selection. This guide covers care for peaches, plums, and cherries specifically.
+Stone fruits — peaches, plums, cherries, apricots, and nectarines — are named for their hard pit (stone) surrounding the seed. They are among the most flavorful of home orchard fruits but require attentive pruning, [[marijuana-horticulture-cervantes-pest-and-disease-management]], and careful variety selection. This guide covers care for peaches, plums, and cherries specifically.
 
 ## General Stone Fruit Characteristics
 
@@ -36,7 +36,7 @@ Peaches fruit on one-year-old wood — they require aggressive annual pruning to
 
 #### Annual Pruning
 - Prune in late winter before bud swell, or at pink bud stage in high-disease areas
-- Remove 50% of last year's growth (more aggressive than other fruit trees)
+- Remove 50% of last year's growth (more aggressive than other [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]])
 - Thin crowded branches to maintain an open center
 - Remove all dead, damaged, and diseased wood
 - Remove branches growing inward or downward
@@ -76,7 +76,7 @@ Peaches fruit on one-year-old wood — they require aggressive annual pruning to
 
 ## Brown Rot (Monilinia fructicola)
 
-[[brown-rot]] is the most destructive disease of stone fruits — it can destroy an entire crop in days during warm, wet conditions.
+[[brown-rot]] [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] most destructive disease of stone fruits — it can destroy an entire crop in days during warm, wet conditions.
 
 ### Symptoms
 - Brown, rapidly spreading lesions on fruit
@@ -105,7 +105,7 @@ Bacterial canker is a serious disease of all stone fruits, especially cherries a
 
 ### Management
 - Avoid pruning in wet weather; paint large pruning cuts with wound sealant
-- Apply copper-based spray (Bordeaux mix) in fall and early spring
+- Apply copper-based spray (Bordeaux mix) in fall [[coleman-overwintered-onions-and-early-spring-crops]]
 - Remove severely cankered branches; avoid nitrogen over-fertilization
 
 ## Chill Hours Explained
@@ -122,12 +122,12 @@ Stone fruits have specific chill hour requirements for proper dormancy release a
 - Contact your local agricultural extension office
 - Many universities publish chill hour maps by region
 - Weather stations track chill hour accumulation
-- In marginal areas, choose varieties at the lower end of the chill range
+- In marginal areas, choose varieties at the lower end [[mckenna-food-of-the-gods-exopheromones-and-plant-communication]] chill range
 
 ## Common Stone Fruit Problems
 
 ### Peach Leaf Curl
-- Fungal disease causing red, curled, puckered leaves in spring
+- [[ingham-aact-fungal-disease-suppression-fusarium-rhizoctonia-anthracnose]] causing red, curled, puckered leaves in spring
 - Favored by cool, wet spring weather
 - Apply copper or lime-sulfur spray in late winter before bud break (most effective timing)
 - Resistant varieties: Redhaven, Reliance, Frost (partial resistance)
