@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushroom Guide Oyster
+title: Oyster Mushroom (Pleurotus ostreatus) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profil
 sources: []
 ---
 
-## Oyster Mushroom (Pleurotus ostreatus)
+# Oyster Mushroom (Pleurotus ostreatus)
 
 ## Overview
 
@@ -131,19 +131,36 @@ Oyster mushrooms are nutritionally dense:
 
 ## Cultivation
 
-Oyster mushrooms are among the easiest [[choosing-mushrooms-to-cultivate-and-infrastructure-planning]], making them ideal for home growers:
+Oyster mushrooms are among the easiest mushrooms to cultivate, making them ideal for home growers:
 
 - **Substrate:** Extremely versatile — hardwood sawdust, straw, coffee grounds, agricultural waste, cardboard, paper.
 - **Colonization:** 10-21 days at 72-78°F (22-26°C).
 - **Fruiting:** Requires high humidity (85-95%), fresh air, and indirect light.
 - **Temperature:** Varies by species (P. ostreatus fruits at 55-75°F).
 - **Biological efficiency:** 50-200% depending on substrate.
-- **Methods:** Bucket tek, straw logs, monotubs, [[growing-gourmet-outdoor-log-inoculation-techniques]].
+- **Methods:** Bucket tek, straw logs, monotubs, outdoor log inoculation.
 
-## See Also
+## Mycoremediation Applications
 
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
-- [[medicinal-mushrooms]]
-- [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]
-- [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]
+Oyster mushrooms have significant environmental applications:
+- Breaks down petroleum hydrocarbons (oil spills).
+- Degrades polycyclic aromatic hydrocarbons (PAHs).
+- Absorbs and concentrates heavy metals (bioaccumulation).
+- Degrades plastic and synthetic dyes in laboratory settings.
+- Used in greywater filtration systems and ecological restoration.
+
+## Safety Considerations
+
+- Very safe with extensive culinary history.
+- Lovastatin content: may interact with statin medications — consult doctor if already taking statins.
+- Possible muscle pain (myopathy) at high doses, similar to statin side effects.
+- Raw oyster mushrooms can cause digestive upset in some people — always cook.
+- Rare allergic reactions (skin rash, respiratory symptoms).
+- Caution with anticoagulant medications.
+- Safe during pregnancy at normal culinary amounts.
+
+## Related Topics
+
+- [[medicinal-mushroom-guide-shiitake]] for complementary cholesterol-lowering mushroom
+- [[medicinal-mushroom-guide-maitake]] for metabolic health comparison
+- [[medicinal-mushroom-guide-king-tubercake]] for another Pleurotus species

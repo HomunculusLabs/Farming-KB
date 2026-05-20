@@ -2,7 +2,7 @@
 title: "Bloomfield Histoplasma Capsulatum Ohio Valley Disease"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/mushrooms-fungi-from-around-the-world.md]
 ---
 
 ## Discovery and Taxonomy

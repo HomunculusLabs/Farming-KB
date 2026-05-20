@@ -17,7 +17,7 @@ Fungi are increasingly studied for space applications including radiation protec
 Multiple fungal species have been successfully cultured aboard the ISS:
 - **Aspergillus nidulans**: Grown since the 1990s to study fungal development without sedimentation
 - **Neurospora crassa**: Model organism for circadian rhythm research in space
-- **[[saccharomyces-cerevisiae]]**: Studied for DNA repair mechanisms in microgravity
+- **Saccharomyces cerevisiae**: Studied for DNA repair mechanisms in microgravity
 - **Pleurotus ostreatus**: Tested for edible mushroom production in space
 
 ### Altered Physiology in Space
@@ -39,7 +39,7 @@ A groundbreaking 2020 study from Johns Hopkins University found that melanized f
 
 ### Cryptococcus neoformans Research
 - Studied for its melanin-based radiation response mechanisms
-- Understanding how fungi repair radiation-induced DNA damage has [[oner-sativa-medical-applications]]
+- Understanding how fungi repair radiation-induced DNA damage has medical applications
 - Potential for engineering radiation-resistant biological shielding materials
 
 ### Proposed Applications
@@ -63,19 +63,19 @@ Mushrooms offer unique advantages for space agriculture:
 - **Pleurotus ostreatus**: Primary candidate; grows on diverse substrates, good nutrition
 - **Lentinula edodes** (shiitake): Studied for flavor and nutritional value
 - **Agaricus bisporus** (button mushroom): Well-understood cultivation; common food item
-- **[[paddy-straw-mushroom-volvariella-volvacea-cultivation]]** ([[paddy-straw-mushroom|paddy straw mushroom]]): Fast growth; tropical species
-- **[[ganoderma-lucidum]]** (reishi): Studied for medicinal and immune-support properties
+- **Volvariella volvacea** ([[paddy-straw-mushroom|paddy straw mushroom]]): Fast growth; tropical species
+- **Ganoderma lucidum** (reishi): Studied for medicinal and immune-support properties
 
 ### Closed-Loop Life Support Integration
 - Mycelium can decompose astronaut waste (food scraps, paper, human waste products)
-- [[spent-mushroom-substrate]] can be composted for plant growing media
+- Spent mushroom substrate can be composted for plant growing media
 - CO2 produced during fruiting can supplement plant photosynthesis
 - Creates a biological recycling loop within spacecraft life support systems
 
 ## Bioremediation in Space
 
 ### Air and Water Filtration
-- Fungal mycelium can filter [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (VOCs) from spacecraft air
+- Fungal mycelium can filter volatile organic compounds (VOCs) from spacecraft air
 - Mycofiltration systems for recycling wastewater in closed habitats
 - Biological air filters reduce dependence on chemical scrubbers
 
@@ -90,7 +90,7 @@ Mushrooms offer unique advantages for space agriculture:
 - Astronauts on long missions experience sensory deprivation and psychological stress
 - Growing and tending living organisms provides meaningful work and connection to Earth
 - Mushrooms offer visible, dynamic growth that is psychologically rewarding
-- The earthy smell [[historical-development-of-mushroom-cultivation]] may provide olfactory comfort
+- The earthy smell of mushroom cultivation may provide olfactory comfort
 
 ### Analog Research
 - Mars Desert Research Station (MDRS) has tested small-scale mushroom cultivation

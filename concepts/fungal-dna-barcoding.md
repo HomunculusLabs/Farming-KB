@@ -7,7 +7,7 @@ tags: [fungi, mycology, genomics, lab-technique, taxonomy, species, biology, eco
 sources: []
 ---
 
-## Fungal DNA Barcoding
+# Fungal DNA Barcoding
 
 ## Overview
 
@@ -140,11 +140,43 @@ Common software: QIIME2, DADA2, mothur, OBITOOLS, USEARCH
 
 - Photos of fungi submitted by users
 - Identification by community and automated suggestions
+- Some observations linked to voucher specimens and sequences
+
+### Sequence-Verified Citizen Science
+
+Projects like the North American Mycoflora Project aim to:
+1. Collect and photograph fungi across North America
+2. Generate DNA barcodes for every observation
+3. Build a comprehensive, georeferenced fungal database
+4. Train citizen scientists in collection and documentation protocols
+
+### eDNA Monitoring
+
+- Water, soil, and air sampling for fungal DNA
+- Enables monitoring of fungal pathogens (e.g., Batrachochytrium dendrobatidis in amphibian habitats)
+- Early detection of invasive species
+- Tracking seasonal fungal community changes
+
+## Applications
+
+- Species identification for foraging safety
+- Environmental monitoring and biosecurity
+- Food safety (identifying contaminants and toxins)
+- Indoor air quality (mold identification)
+- Soil health assessment
+- Conservation biology (rare species monitoring)
+- Forensic mycology (post-mortem interval estimation)
+- See [[mushroom-taxonomy-history]] for how DNA barcoding has reshaped fungal taxonomy
 
 ## See Also
 
-- [[fungi-in-the-environment-fungal-ecosystems]]
-- [[fungal-amber-fossils]]
-- [[singh-fungal-pellet-formation-bioremediation]]
-- [[dark-septate-endophytes]]
-- [[fungal-pathogens-human-disease]]
+- [[mushroom-taxonomy-history]] — How molecular methods revolutionized fungal classification
+- [[fungal-symbiosis-types]] — Identifying symbiotic fungi through barcoding
+- [[fungal-parasites-and-predators]] — Molecular identification of predatory fungi
+- [[fungal-biology-fundamentals]]
+- [[lichen-biology-guide]]
+
+## Related
+
+- [[fungal-species-estimates-taxonomy]]
+- [[fungal-species-concept-and-taxonomy]]

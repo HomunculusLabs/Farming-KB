@@ -73,7 +73,7 @@ The clay pellet technique has direct analogues in [[mushroom-cultivation]]:
 - Seed enclosure technique developed by Masanobu Fukuoka
 - Seeds coated in clay form pellets ~½ inch in diameter
 - Protects against birds, mice, crickets, and slugs
-- Two [[amanita-muscaria-preparation-methods]]: dusting or kneading/screening
+- Two [[amanita-preparation-methods]]: dusting or kneading/screening
 - One day of work produces pellets for several acres
 - Essential for direct-seeding non-cultivation method
 - Also used for vegetables and other grain seeds

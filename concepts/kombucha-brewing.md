@@ -17,7 +17,7 @@ The SCOBY (Symbiotic Culture of Bacteria and Yeast) is a gelatinous cellulose ma
 
 - Acetobacter species (acetic acid bacteria) — produce acetic acid, giving kombucha its tang
 - Gluconacetobacter — produces gluconic acid and builds the cellulose pellicle
-- Various yeast strains (Saccharomyces, Zygosaccharomyces) — consume sugar and produce [[ethanol]] and CO2
+- Various yeast strains (Saccharomyces, Zygosaccharomyces) — consume sugar and produce ethanol and CO2
 - Lactobacillus species — contribute lactic acid and additional probiotics
 
 A healthy SCOBY is opaque, cream-colored, and smooth. Dark spots, mold (fuzzy and dry), or an unusually foul smell indicate contamination — discard the batch and start fresh.
@@ -120,4 +120,4 @@ The second ferment (2F) is where kombucha becomes fizzy and flavored.
 
 - [[kefir-making]] — another cultured beverage using grains
 - [[vinegar-making]] — related acetic acid fermentation process
-- [[pickle-making]] — vegetable fermentation using similar [[lactic-acid-bacteria]]
+- [[pickle-making]] — vegetable fermentation using similar lactic acid bacteria

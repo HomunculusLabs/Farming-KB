@@ -1,4 +1,5 @@
 ---
+
 title: Vegetable Garden Fertilization
 created: 2026-04-11
 updated: 2026-04-12
@@ -19,9 +20,9 @@ sources:
 - raw/papers/purdue-home-gardeners-guide.md
 ---
 
-## Vegetable Garden Fertilization
+# Vegetable Garden Fertilization
 
-Comprehensive fertilization program for home vegetable gardens, based on Purdue Extension guidelines. Covers soil test-based fertility, annual maintenance fertilization, starter solutions for transplants, nitrogen side-dressing by crop, soil pH adjustment, [[hamilton-composting-and-organic-matter-management]].
+Comprehensive fertilization program for home vegetable gardens, based on Purdue Extension guidelines. Covers soil test-based fertility, annual maintenance fertilization, starter solutions for transplants, nitrogen side-dressing by crop, soil pH adjustment, and organic matter management.
 
 Related: [[vegetable-garden-guide]], [[soil-testing]], [[interpreting-soil-test-results]], [[soil-fertility-management]]
 
@@ -42,7 +43,7 @@ Apply balanced fertilizer (N-P-K) in spring, worked into upper 3-5 inches. Commo
 
 ## Step 3: Starter Fertilizer for Transplants
 
-Use high-phosphorus water-soluble fertilizer (5-10-5, 10-52-17, 8-32-16, 12-24-14, 15-30-15, or 13-26-13) at 1-2 tablespoons per gallon. Apply 1-2 cups around roots of each transplant. Phosphorus is the most critical element for [[solomon-fertigation-and-transplant-establishment]].
+Use high-phosphorus water-soluble fertilizer (5-10-5, 10-52-17, 8-32-16, 12-24-14, 15-30-15, or 13-26-13) at 1-2 tablespoons per gallon. Apply 1-2 cups around roots of each transplant. Phosphorus is the most critical element for transplant establishment.
 
 ## Step 4: Nitrogen Side-Dressing
 
@@ -103,19 +104,4 @@ Plant half the garden to winter green manure (Sep/Oct), apply well-rotted manure
 - [[soil-testing]] — Soil analysis methods
 - [[interpreting-soil-test-results]] — Understanding soil test reports
 - [[soil-fertility-management]] — Organic fertility management
-- [[cover-cropping-guide]] — [[green-manures-and-cover-crops]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
+- [[cover-cropping-guide]] — Green manures and cover crops

@@ -4,11 +4,10 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [psychopharmacology, therapy, consciousness, health, methods, culture, medicine, philosophy]
-sources:
-  - "raw/papers/leary-t-the-psychedelic-experience.md"
+sources: []
 ---
 
-## Psychedelic Integration
+# Psychedelic Integration
 
 ## Overview
 
@@ -84,7 +83,7 @@ Integration begins before the psychedelic experience:
 - **Set (mindset)**: Clear intentions, emotional readiness, realistic expectations
 - **Setting (environment)**: Safe, comfortable, aesthetically pleasing space; trusted companions; reduced external demands
 - **Preparation**: Research the substance, discuss expectations with therapist or guide, arrange post-session support
-- Poor [[set-and-setting]] dramatically increases the likelihood of a difficult experience that requires intensive integration work
+- Poor set and setting dramatically increases the likelihood of a difficult experience that requires intensive integration work
 
 ## Working with Difficult Experiences
 

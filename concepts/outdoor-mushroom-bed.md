@@ -7,7 +7,7 @@ tags: [mushrooms, fungi, cultivation, gardening, permaculture, methods, ecology]
 sources: []
 ---
 
-## Outdoor Mushroom Bed Cultivation
+# Outdoor Mushroom Bed Cultivation
 
 Growing mushrooms in outdoor garden beds is the most low-tech, scalable approach to mushroom cultivation. It leverages natural weather cycles and requires minimal equipment compared to indoor methods. Outdoor beds are ideal for wood-decomposing and mulch-loving species, and they integrate directly into permaculture and homestead designs.
 
@@ -141,10 +141,36 @@ The primary substrate for most outdoor bed species. Key considerations:
 - Competing fungi: Trichoderma and other molds appear on exposed substrate. Cover with fresh mulch
 - Animals: deer, squirrels, and rodents may eat fruiting bodies. Netting or motion-activated sprinklers can help
 
+## Fruiting Triggers
+
+Outdoor beds fruit in response to natural environmental cues:
+
+- **Temperature drop**: A shift of 10°F or more, especially after rain
+- **Rainfall**: Heavy rain followed by warm days is the classic trigger
+- **Humidity**: Sustained high humidity (80%+) for several days
+- **Seasonal light changes**: Shortening days in fall trigger autumn species
+
+## Harvesting
+
+- Pick when caps have expanded but before edges curl upward significantly
+- Twist and pull from the base, or cut with a clean knife
+- Wine cap: harvest when cap is convex to flat; purple gills visible underneath
+- Oyster: harvest before margins become ragged and spores drop heavily
+- Blewit: harvest when young and firm; older specimens become tough
+
+## Integration with Homestead Systems
+
+- **Garden pathways**: Inoculate wood chip paths with wine cap for edible landscaping
+- **Orchard understory**: Oyster and wine cap thrive under fruit trees
+- **Compost areas**: Shaggy mane and blewit grow near compost piles
+- [[mycofiltration-overview]]: Wine cap beds filter runoff from livestock areas
+- [[food-forest-design]]: Incorporate mushroom beds in the ground cover layer
+- [[hugelkultur-guide]]: Inoculate hugelkultur mounds with wood-decomposing fungi
+
 ## See Also
 
-- [[query-how-to-build-a-cob-oven-for-outdoor-cooking]]
-- [[cervantes-outdoor-vertebrate-pest-control]]
-- [[cotter-outdoor-mushroom-garden-mulch-beds]]
-- [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]]
-- [[query-how-do-i-start-an-outdoor-mushroom-garden-in-my-backyard]]
+- [[outdoor-wood-lover-cultivation]] for specialized outdoor psilocybe beds
+- [[mushroom-cultivation-methods]] for choosing between cultivation approaches
+- [[mushroom-substrates]] for detailed substrate science
+- [[mushroom-log-cultivation]] for log-based outdoor growing
+- [[garden-mushroom-growing]] for companion planting with fungi

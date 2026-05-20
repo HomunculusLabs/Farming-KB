@@ -1,4 +1,5 @@
 ---
+
 title: Orchard Pest Management
 created: 2026-04-11
 updated: 2026-04-12
@@ -20,9 +21,10 @@ sources:
 - raw/papers/mr-bloomfields-orchard
 - raw/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
 - raw/greg-green-the-cannabis-grow-bible.md
+- web-research
 ---
 
-## Orchard Pest Management
+# Orchard Pest Management
 
 Detailed IPM guidance for fruit tree pests and diseases in zone 7-8 homestead orchards. See [[orchard-management]] for site selection, planting, pruning, and seasonal care.
 
@@ -144,3 +146,15 @@ Following [[regenerative-agriculture-history]] principles, the most sustainable 
 2. **Soil health** — healthy trees grown in nutrient-rich, biologically active soil resist pests and diseases more effectively (see [[soil-food-web-nutrient-cycling]])
 3. **Habitat for predators** — maintain hedgerows, wild areas, and insectary plants to support lady beetles, lacewings, parasitic wasps, and birds
 4. **Cultural practices** — proper pruning (see [[fruit-tree-pruning]]), adequate spacing, and [[mulching-guide]] reduce disease pressure
+5. **Monitoring** — regular scouting catches problems early when intervention is most effective
+6. **Tolerance** — accepting some cosmetic damage focuses resources on tree health rather than perfection
+
+## See Also
+
+- [[orchard-management]] — Site selection, planting, pruning, harvest, seasonal calendar
+- [[fruit-tree-varieties]] — Disease-resistant variety recommendations
+- [[cannabis-pest-management]] — General IPM principles applicable across crops
+- [[companion-planting-reference]] — Pest-repellent companion plants
+- [[companion-planting-reference]] — Detailed companion planting reference
+- [[fungal-pest-control]] — Fungal-based pest management approaches
+- [[fruit-tree-pruning]] — Pruning for disease prevention

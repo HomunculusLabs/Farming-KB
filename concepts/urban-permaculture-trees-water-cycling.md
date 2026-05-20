@@ -1,7 +1,7 @@
 ---
 title: "Urban Permaculture Trees Water Cycling"
 tags: []
-sources: []
+sources: [/wiki/raw/papers/urban-permaculture-guerilla-gardening.md]
 ---
 
 ## Trees and Water Cycling Trees are the primary drivers of local and regional water cycles. They create rainfall, harvest moisture from fog, moderate temperature extremes, purify air and water, and maintain the conditions that make terrestrial life possible. Understanding the relationship between trees and water is essential for permaculture Water Systems design. ## Trees as Condensers On a sea-facing hillside, trees act as [condensers, ice nuclei, inducers of stream flow, and re-humidifiers of the airstream. They create most of the condensation that creates precipitation. Water-laden air flowing inland encounters the rapidly cooling surfaces of tree leaves, and condensation occurs. This process is greatly aided by colonies of bacteria (Pseudomonas) on leaf surfaces, which serve as nuclei for frost crystals and water droplets to settle on. These saturated airstreams produce seaward-facing mosses and lichens on rocks, but more importantly condense in trees to create copious soft condensation.

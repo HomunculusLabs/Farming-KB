@@ -1,4 +1,5 @@
 ---
+
 title: Cannabis Growth Stage Checklist
 created: 2026-04-12
 updated: 2026-04-12
@@ -27,7 +28,7 @@ sources:
 - concepts/cannabis-seed-germination.md
 ---
 
-## Cannabis Growth Stage Checklist
+# Cannabis Growth Stage Checklist
 
 Week-by-week checklist for an indoor photoperiod grow in [[cannabis-living-soil-guide]]. Assumes pre-amended living soil beds with balanced NPK. Timings are approximate -- indica-dominant strains finish faster; sativa-dominant may extend 2-4 weeks in flower. See [[cannabis-vegetative-stage]] and [[cannabis-flowering-stage]] for full details.
 
@@ -144,3 +145,53 @@ Week-by-week checklist for an indoor photoperiod grow in [[cannabis-living-soil-
 - VPD: 1.0-1.2 kPa
 
 **What to watch for**:
+- Trichome color: mostly cloudy = peak THC; 10-30% amber = preferred harvest window
+- Pistil color: 60-80% darkened and curled = entering harvest window
+- Fan leaves yellowing and dropping (natural senescence -- normal)
+- Bud density and resin production at peak
+
+**Tasks**: Daily trichome checks with jeweler's loupe or USB microscope. Prepare drying area (60-70F, 45-55% RH, dark, gentle airflow). Clean and sanitize scissors, trimming trays. Reduce watering. Optional: 48-72 hours darkness before harvest.
+
+---
+
+## Week 10+: Harvest / Cure
+
+**Harvest** (see [[cannabis-harvest-and-curing]]):
+- Cut branches at main stems; work in clean environment
+- Wet trim (remove fan leaves + sugar leaves) or dry trim (hang whole, trim later)
+- Hang branches spaced apart, not touching, on string/hangers/drying rack
+
+**Drying** (7-14 days):
+- Temp: 60-70F | Humidity: 45-55% | Dark | Gentle indirect airflow
+- Done when small stems snap (not bend); buds dry outside, springy inside
+
+**Curing** (4-8+ weeks):
+- Fill glass jars 3/4 full, store 60-70F in dark
+- Burp daily for 15 min (weeks 1-2), then every 2-3 days
+- Target 58-62% RH inside jars (use hygrometer + Boveda 62% if needed)
+- Minimum 2 weeks for improvement; 6-8 weeks for best results
+
+**Long-term storage**: Airtight glass, 55-65F, 58-62% RH, dark. Potency holds 6-12+ months.
+
+---
+
+## Quick Reference: Key Milestones
+
+| Milestone | Timing | Action |
+|-----------|--------|--------|
+| Top / LST | Week 3-4 veg | Cut main stem, begin training |
+| Flip to 12/12 | When 6-8 nodes, space filled | Switch light cycle, shift spectrum |
+| Bloom top-dress | Week 2 flower | Bone meal + kelp + oyster shell |
+| Stop N inputs | Week 5 flower | P/K only from here |
+| Begin trichome checks | Week 7 flower | 60-100x loupe daily |
+| Harvest | 50-70% cloudy trichomes | Cut, trim, dry, cure |
+
+## See Also
+
+- [[cannabis-vegetative-stage]] — detailed veg stage management
+- [[cannabis-flowering-stage]] — flower stage development and environment
+- [[cannabis-plant-nutrition]] — NPK, organic sources, amendment schedules
+- [[cannabis-harvest-and-curing]] — trichome assessment, drying, curing
+- [[cannabis-harvest-and-curing]] — complete harvest and cure walkthrough
+- [[cannabis-lighting-guide]] — PPFD and spectrum targets by stage
+- [[cannabis-pest-management]] — IPM for indoor grows

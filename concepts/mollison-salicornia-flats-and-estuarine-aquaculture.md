@@ -108,7 +108,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mollison-arid-lands-aquatic-species]]
 - [[mollison-orographic-and-forest-rainfall-effects]]
 - [[mollison-spiral-patterns-in-nature-and-design]]
-- [[soil-ph-nutrient-availability-mollison]]
+- [[soil-ph-and-nutrient-availability]]
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
 Field observations and experimental data continue to inform best practices.

@@ -1,4 +1,5 @@
 ---
+
 title: Bunker Spawn — Scalable Mycelium Production for Habitat Restoration
 created: 2026-04-11
 updated: 2026-04-12
@@ -19,9 +20,9 @@ sources:
 - raw/papers/mycelium-running-stamets.md
 ---
 
-## Bunker Spawn
+# Bunker Spawn
 
-From Chapters 9 and 11 of *Mycelium Running* by [[paul-stamets]]. Bunker spawn is one of the most scalable and versatile methods for producing large quantities of mycelium for [[mycorestoration]], [[mycoremediation-basics]], and mushroom cultivation.
+From Chapters 9 and 11 of *Mycelium Running* by [[paul-stamets]]. Bunker spawn is one of the most scalable and versatile methods for producing large quantities of mycelium for [[mycorestoration-overview]], [[mycoremediation-basics]], and mushroom cultivation.
 
 ## What Is Bunker Spawn?
 
@@ -116,5 +117,5 @@ If single inoculation methods fail, combine all three:
 
 - [[inoculation-methods]] — Detailed spore, spawn, and stem butt techniques
 - [[log-cultivation-methods]] — Using bunker spawn for stump inoculation
-- [[mycorestoration]] — Strategic deployment for habitat recovery
+- [[mycorestoration-overview]] — Strategic deployment for habitat recovery
 - [[straw-cultivation-methods]] — Alternative substrate cultivation

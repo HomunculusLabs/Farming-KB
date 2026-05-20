@@ -1,4 +1,5 @@
 ---
+
 title: KNF Preparations — Complete Input Guide
 created: 2026-04-10
 updated: 2026-04-12
@@ -24,9 +25,9 @@ sources:
 - raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md
 ---
 
-## KNF Preparations — Complete Input Guide
+# KNF Preparations — Complete Input Guide
 
-[[korean-natural-farming]] (KNF) uses fermented biological inputs to feed plants and soil life. Developed by Master Han-Kyu Cho, these preparations replace [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] and pesticides with locally-sourced, microbially-active solutions. The system is built on the [[nutritive-cycle-theory]] which prescribes the right input at the right growth stage.
+Korean Natural Farming (KNF) uses fermented biological inputs to feed plants and soil life. Developed by Master Han-Kyu Cho, these preparations replace synthetic fertilizers and pesticides with locally-sourced, microbially-active solutions. The system is built on the [[nutritive-cycle-theory]] which prescribes the right input at the right growth stage.
 
 ## Core Inputs Overview
 
@@ -54,15 +55,15 @@ sources:
 
 JADAM (Youngsang Cho, Korea) extends KNF toward zero-budget agriculture. Key innovations:
 
-- **[[jadam-wetting-agent]] (JWA)**: Canola oil + caustic potash + water (no heating). Replaces commercial surfactants. Essential for all foliar/pesticide applications.
+- **JADAM Wetting Agent (JWA)**: Canola oil + caustic potash + water (no heating). Replaces commercial surfactants. Essential for all foliar/pesticide applications.
 - **JADAM Sulfur (JS)**: Sulfur + caustic soda + red clay/phyllite powder + sea salt. Powerful germicide.
-- **[[jadam-microorganism-solution-culturing]] (JMS)**: Culture microbes from leaf mold, feed with potatoes. Soil inoculant and pathogen suppressor.
+- **JADAM Microorganism Solution (JMS)**: Culture microbes from leaf mold, feed with potatoes. Soil inoculant and pathogen suppressor.
 - **JADAM Mineral Water (JMW)**: Leaf mold + rocks in water. Slow-release mineral input.
 - **Cost**: ~$100/acre/year target. 10-100x reduction vs conventional. All inputs made on-farm from local materials.
 - **Pesticide combos**: JNP (JWA+JS+JHS), JMS-JHS (JMS+JHS+JWA), JS-JHS. Combine wetting agent with sulfur/herb solution.
 - **Philosophy**: "Bring farming back to farmers" — no patents, all knowledge shared openly.
 
-Based on Cho's [[cho-nutritive-cycle-theory]] — see [[nutritive-cycle-theory]] for full explanation.
+Based on Cho's Nutritive Cycle Theory — see [[nutritive-cycle-theory]] for full explanation.
 
 ### Vegetative Growth Stage
 - FPJ (from fast-growing plants like mugwort, bamboo shoots, arrowroot) at 1:800-1000
@@ -123,7 +124,7 @@ Mix and set aside 3-5 hours for microorganisms to propagate. Apply 7 days before
 
 ## Pest Control Methods
 
-KNF uses non-toxic attractants rather than pesticides. See [[indigenous-microorganisms-imo]] and [[oriental-herbal-nutrient-ohn]] for [[beneficial-insects-and-biological-pest-control]].
+KNF uses non-toxic attractants rather than pesticides. See [[indigenous-microorganisms-imo]] and [[oriental-herbal-nutrient-ohn]] for biological pest control.
 
 ### Aromatic Insect Attractant (AIA)
 - Slit open a PET bottle on two sides
@@ -141,3 +142,58 @@ KNF uses non-toxic attractants rather than pesticides. See [[indigenous-microorg
 ## Crack Prevention Treatment
 
 For fruits/vegetables during drought (to prevent cracking when rains arrive):
+
+| Input | Amount per 1000ml water |
+|-------|------------------------|
+| OHN | 1 ml |
+| BRV | 2 ml |
+| FPJ | 2 ml |
+| LAB | 1 ml |
+| Seawater | 30 ml |
+
+## General Mixing Rules
+
+- Mix inputs with non-chlorinated water
+- Apply as foliar spray or soil drench
+- Best applied early morning or late evening (avoid midday heat -- UV kills microbes)
+- Do not mix inputs with chemical fertilizers or pesticides
+- Fresh IMO from [[indigenous-microorganisms-imo]] is the foundation -- all other inputs work best when soil biology is active
+- For cannabis in [[cannabis-living-soil-guide]], use lower dilution rates (1:300-500) for soil drenches
+- All NF inputs are typically diluted at 1:1000 unless otherwise specified
+- Apply IMO-4 and FMC 2-3 hours before sunset or on cloudy days to prevent UV damage to microorganisms
+
+## FMC Details (from Cho's Global Natural Farming)
+
+Fermented Mixed Compost is KNF's primary soil amendment -- "quite similar to farm yard manure or ordinary compost, but the quality is completely different." It excels at promoting micronutrient absorption, enhancing plant hormone effectiveness, and providing vitamins.
+
+**Timing**: Make FMC in late fall — cool dry weather favors fermenting microbes over bacteria. **Key ingredients**: IMO-4, organic matter, NF inputs (FPJ, FAA, OHN), powdered oyster/crab/shrimp/eggshells. **Application**: 1-2 kg per square meter, applied before seeding/transplanting. See [[fermented-mixed-compost-fmc]] for full recipe.
+
+## KNF Livestock (Poultry)
+
+Cho's system extends natural farming to animals: no artificial heating (fermenting compost for warmth), homemade feed (brown rice, bamboo leaves, rice husk), soil floor housing (microorganism-rich), once-daily feeding 2 hours before sunset, no antibiotics. See [[nutritive-cycle-theory]] for context.
+
+## See Also
+
+- [[indigenous-microorganisms-imo]] — step-by-step IMO collection (3 methods)
+- [[fermented-plant-extract-fpe]] — FPJ/FFJ detailed recipes
+- [[fish-amino-acid-faa]] — FAA recipe and application
+- [[oriental-herbal-nutrient-ohn]] — OHN recipe
+- [[lactic-acid-bacteria-lab]] — LAB serum recipe
+- [[soil-food-web-nutrient-cycling]] — why biological inputs work
+- [[jadam-methods]] — JADAM's parallel approach to self-made inputs
+- [[nutritive-cycle-theory]] — Cho's growth stage framework
+- [[fermented-mixed-compost-fmc]] — FMC recipe for soil building
+- [[water-soluble-calcium-wca]] — WS-Ca detailed preparation
+- [[water-soluble-calcium-phosphate-wcp]] — WS-CaPo for changeover period
+- [[brown-rice-vinegar-brv]] — BRV as extraction solvent and growth stimulant
+
+## Related
+
+- [[knf-input-application-timing]]
+
+- [[knf-oha]]
+
+- [[knf-soap-water-and-hot-pepper]]
+- [[complete-knf-input-reference]] — complete input reference
+- [[knf-vs-jadam-vs-em]] — comparison
+- [[soil-amendment-reference]] — amendment quick-reference by nutrient

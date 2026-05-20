@@ -7,7 +7,7 @@ tags: [psychedelics, entheogen-research, therapy, psychiatry, psychopharmacology
 sources: []
 ---
 
-## Psychedelic Therapy Current Research
+# Psychedelic Therapy Current Research
 
 ## Overview
 
@@ -140,11 +140,42 @@ Active or planned research areas include:
 - Alcohol use disorder
 - Smoking cessation
 - End-of-life anxiety
+- Social anxiety in autism spectrum disorder
+
+## Therapeutic Frameworks
+
+Most psychedelic therapy protocols follow a similar structure:
+
+1. Preparation (1-3 sessions): Building therapeutic alliance, setting intentions, medical screening, explaining the experience
+2. Dosing session (1-3 sessions): Administration in comfortable setting with therapist present, typically 4-8 hours for psilocybin, 6-8 hours for MDMA, eye mask and curated music playlist
+3. Integration (2-5 sessions): Processing the experience, making meaning, implementing behavioral changes
+
+This model differs fundamentally from conventional pharmacotherapy, which typically involves daily dosing without psychological support.
+
+## Regulatory Landscape
+
+As of 2026:
+- MDMA-assisted therapy: Under FDA review, potential rescheduling
+- Psilocybin therapy: FDA Breakthrough Therapy designation, Phase 3 trials ongoing
+- Ketamine/esketamine: FDA-approved and available
+- LSD therapy: Phase 2 trials (MindMed, others) for anxiety and depression
+- DMT therapy: Early-phase clinical trials
+- Ibogaine: Not approved in US; available in unregulated international clinics
+
+Oregon and Colorado have implemented state-level regulated access to psilocybin therapy programs.
+
+## Challenges and Limitations
+
+- Blinding difficulty: Psychedelic effects make true placebo conditions nearly impossible
+- Attrition: Some trials lose participants who find their own psychedelics
+- Long-term data: Most studies have limited follow-up periods
+- Generalizability: Trial populations may not represent real-world patients
+- Cost and access: Even if approved, therapy costs may be prohibitive
+- Training: Insufficient number of trained therapists to meet potential demand
+- Commercialization: Tension between profit motives and therapeutic integrity
 
 ## See Also
 
-- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
-- [[psychedelic-1960s-counterculture]]
-- [[psychedelic-consciousness-expansion]]
-- [[psychedelic-prohibition-and-the-war-on-consciousness]]
-- [[psychedelic-therapy-set-and-setting]]
+- [[psychedelic-research-timeline]] — historical context for current research
+- [[psychedelic-integration-guide]] — post-therapy integration practices
+- [[harm-reduction-guide]] — safety considerations for therapeutic and non-therapeutic use

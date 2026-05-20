@@ -7,7 +7,7 @@ tags: [permaculture, design, workflow, methods, beginner, ecological-design]
 sources: [raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 ---
 
-## Permaculture Design Process
+# Permaculture Design Process
 
 From William Ozier's "William's PDC: A Permaculture Design Course" (2011). There is no one true "design process" -- design is a creative endeavour. However, having a structured process helps beginners and ensures design teams can work together efficiently.
 
@@ -103,22 +103,7 @@ Animal Systems, Appropriate Technology, Community, Composting, Earthworks, Elect
 
 - [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-climate-zones]]
-- [[permaculture-plant-selection]]
+- [[permaculture-plant-selection-guide]]
 - [[fukuoka-natural-farming-method]]
 - [[permaculture-wildlife-corridors]]
 - [[permaculture-small-and-slow-solutions]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.

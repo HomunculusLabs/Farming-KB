@@ -7,7 +7,7 @@ tags: [homesteading, animal-husbandry, troubleshooting, pollinators, pest-manage
 sources: []
 ---
 
-## Beekeeping Problems and Solutions
+# Beekeeping Problems and Solutions
 
 Beekeeping involves constant problem-solving. This guide covers the most
 common and serious issues beekeepers face, from parasitic mites to queen
@@ -34,7 +34,7 @@ transmitting deformed wing virus and other pathogens.
   requires temperature management (50-85F)
 - **Amitraz (Apivar)** — chemical strip treatment; 42-day treatment window;
   check for resistance in your area
-- **Apiguard ([[thymol]])** — natural miticide; temperature-sensitive (above
+- **Apiguard (thymol)** — natural miticide; temperature-sensitive (above
   60F); cannot use with supers on
 - **Drone brood trapping** — management technique using drone comb to attract
   mites, then removing and freezing the frame
@@ -53,7 +53,7 @@ slimy larvae that ruin honey.
 - Maintain strong colonies — beetles prefer weak hives
 - Keep apiary in full sun; beetles prefer shaded locations
 - Reduce entrance size to limit beetle access
-- Use beetle blaster traps with oil or [[diatomaceous-earth]] in corners of
+- Use beetle blaster traps with oil or diatomaceous earth in corners of
   super boxes
 
 ### Treatment
@@ -148,3 +148,8 @@ Strong colonies raid weak ones, especially during dearths.
 
 ### Prevention
 - Reduce entrances of weak colonies
+- Do not spill syrup or honey in the apiary
+- Feed in the evening to avoid attracting robbers
+- Use robbing screens on weak colonies during dearths
+
+For seasonal timing of these interventions, see [[beekeeping-seasonal-calendar]].

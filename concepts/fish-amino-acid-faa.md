@@ -1,4 +1,5 @@
 ---
+
 title: Fish Amino Acid (FAA) — Preparation and Use
 created: 2026-04-10
 updated: 2026-04-12
@@ -23,7 +24,7 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-## Fish Amino Acid (FAA)
+# Fish Amino Acid (FAA)
 
 Fish Amino Acid is a nitrogen-rich KNF input made by fermenting fish parts with brown sugar. It provides bioavailable amino acids, peptides, and nitrogen compounds that plants can absorb directly through foliage and roots. It is especially important during early vegetative growth and for recovering stressed or weakened plants.
 
@@ -144,3 +145,15 @@ FAA is the strongest nitrogen input in KNF. Overuse causes:
 FAA works synergistically with:
 - [[fermented-plant-extract-fpe]] — FPJ provides energy, FAA provides nitrogen
 - [[indigenous-microorganisms-imo]] — IMO provides microbes to break down FAA in soil
+- [[lactic-acid-bacteria-lab]] — LAB helps prevent putrefaction
+- [[oriental-herbal-nutrient-ohn]] — OHN prevents disease on nitrogen-rich soft tissue
+- [[water-soluble-calcium-wca]] — WS-Ca balances nitrogen, strengthens cell walls
+
+## See Also
+
+- [[knf-preparations]] — all KNF inputs overview
+- [[fermented-plant-extract-fpe]] — FPJ/FFJ companion input
+- [[nutritive-cycle-theory]] — when to apply FAA
+- [[water-soluble-calcium-phosphate-wcp]] — use FAA residue for WS-CaPo
+- [[brown-rice-vinegar-brv]] — BRV for calcium extraction from bones
+- [[cannabis-living-soil-guide]] — caution with FAA in living soil (already N-rich)

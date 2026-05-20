@@ -7,7 +7,7 @@ tags: [swales, permaculture, water-management, earthworks, erosion, regenerative
 sources: []
 ---
 
-## Swale Design and Construction
+# Swale Design and Construction
 
 Swales are shallow, level-bottomed ditches excavated on contour — lines of equal elevation across a slope. They capture surface water runoff, slow its movement, and allow it to infiltrate into the soil. Swales are one of the most effective tools in the permaculture toolkit for rehydrating landscapes, preventing erosion, and establishing trees and perennial plantings on slopes.
 
@@ -147,3 +147,45 @@ Swales create ideal planting conditions — the berm is well-drained and moistur
 - See [[food-forest-design]] for polyculture designs
 
 ### Understory Planting
+
+- Comfrey, artichokes, and rhubarb on the berm below trees
+- Berry bushes (currants, gooseberries) on the lower berm
+- Nitrogen-fixing ground covers (clover, vetch) as living mulch on the berm
+- Pollinator plants on the swale edge — see [[insectary-plantings]]
+- Aquatic or moisture-loving plants in the swale bottom (only if water persists)
+
+## Swale Maintenance
+
+### Annual Tasks
+
+- Inspect spillways after major storms — clear debris, repair erosion
+- Re-mulch berms as needed
+- Prune trees and maintain plantings
+- Check for berm settling or cracking
+- Remove sediment buildup in swale bottom if it reduces capacity
+
+### Long-Term Monitoring
+
+- Observe water infiltration after rainfall — swales should drain within 24-48 hours
+- Standing water for more than 72 hours indicates poor infiltration (compaction or hardpan)
+- If infiltration is poor, consider broadforking the swale bottom or adding compost
+- After 3-5 years, swales may fill with sediment and organic matter — this is natural and indicates the system is working
+
+## Common Mistakes
+
+- Not building spillways — the most dangerous swale mistake
+- Swales too close together on steep slopes (overloading)
+- Not planting the berm immediately (erosion follows)
+- Building swales on slopes over 20% (use terraces instead)
+- Ignoring local regulations — some jurisdictions restrict earthworks near waterways
+- Digging swales in highly compacted clay without addressing infiltration
+- Not checking contour carefully — even a 1% error concentrates water dangerously
+
+## Related Topics
+
+- [[keyline-design]] for broader landscape water management
+- [[earthworks-for-water-management]] for ponds, berms, and retention basins
+- [[rainwater-harvesting-systems]] for water collection and storage
+- [[cover-cropping-guide]] for stabilizing newly built swales
+- erosion for erosion control context
+- [[preserving-wood-timber-framing]]

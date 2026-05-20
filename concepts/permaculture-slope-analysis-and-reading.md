@@ -1,5 +1,5 @@
 ---
-title: Permaculture Slope Analysis and Reading
+title: Permaculture Slope Analysis And Reading
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,11 +12,11 @@ tags:
   - water-management
   - mollison
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - raw/papers/bill-mollison-permaculture-design-course.md
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
-## Permaculture Slope Analysis and Reading
+# Permaculture Slope Analysis and Reading
 
 Understanding slopes, contours, and landform is essential to permaculture design. Bill Mollison devotes significant attention in the Permaculture Design Course to reading landforms and working with topography to manage water, access, and planting. Slope analysis determines where water flows, where frost settles, where soils are deep or shallow, and where different land uses are appropriate.
 
@@ -138,6 +138,7 @@ Mollison distinguishes between two landform profiles:
 ## Related Concepts
 
 - [[keyline-design]]
+- [[permaculture-earthworks-guide]]
 - [[permaculture-earthworks]]
 - [[swale-construction-guide]]
 - [[permaculture-water-harvesting]]

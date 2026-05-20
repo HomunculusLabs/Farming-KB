@@ -5,17 +5,17 @@ updated: 2026-04-13
 type: concept
 tags: [mycoremediation, biochemistry, mycology, chemistry, enzymes]
 sources:
-  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md
 ---
 
 ## Overview
 
-Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-techniques]]. The extracellular oxidative enzymes produced primarily by white-rot basidiomycetes can degrade recalcitrant environmental pollutants including lignin, [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs), polychlorinated biphenyls (PCBs), dyes, explosives, and pesticides. Three major enzyme families dominate: laccases, lignin peroxidases (LiP), and manganese peroxidases (MnP), with cytochrome P450 systems playing important intracellular roles.
+Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-techniques]]. The extracellular oxidative enzymes produced primarily by white-rot basidiomycetes can degrade recalcitrant environmental pollutants including lignin, polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), dyes, explosives, and pesticides. Three major enzyme families dominate: laccases, lignin peroxidases (LiP), and manganese peroxidases (MnP), with cytochrome P450 systems playing important intracellular roles.
 
 ## Lignin Peroxidase (LiP; EC 1.11.1.14)
 
-- First isolated from **[[phanerochaete-chrysosporium]]** (Tien and Kirk, 1983; Glenn and Gold, 1983)
+- First isolated from **Phanerochaete chrysosporium** (Tien and Kirk, 1983; Glenn and Gold, 1983)
 - A heme-containing glycoprotein requiring H2O2 as cosubstrate and veratryl alcohol (VA) as redox mediator
 - Catalyzes one-electron oxidation of non-phenolic aromatic compounds with high redox potentials (~1.5 V)
 - Capable of cleaving C-C bonds and C-O bonds in lignin model compounds
@@ -28,7 +28,7 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 - Heme-containing enzyme that oxidizes Mn(II) to Mn(III), which then acts as a diffusible oxidant
 - Mn(III) chelated by organic acids (oxalate, malonate, malate) diffuses to oxidize phenolic substrates
 - More widely distributed among white-rot fungi than LiP
-- Key role in dye decolorization — MnP activity correlates with efficient decolorization of [[fungal-olive-mill-wastewater-treatment]] and textile dyes
+- Key role in dye decolorization — MnP activity correlates with efficient decolorization of olive mill wastewater and textile dyes
 - Works in conjunction with Mn-independent peroxidase (MIP) in some species
 
 ## Laccase (EC 1.10.3.2)
@@ -37,7 +37,7 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 - Does not require H2O2 (advantage over peroxidases for bioreactor applications)
 - Oxidizes phenolic and some non-phenolic compounds; mediators (ABTS, HBT) extend substrate range
 - Detected early in white-rot fungal dye decolorization; correlates with reduction of total phenolics
-- Produced by [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], Pleurotus ostreatus, P. sajor-caju, [[coriolopsis-polyzona]], Bjerkandera adusta, and others
+- Produced by Trametes versicolor, Pleurotus ostreatus, P. sajor-caju, Coriolopsis polyzona, Bjerkandera adusta, and others
 - Involved in dye decolorization of azo, anthraquinone, triphenylmethane, and phthalocyanine dyes
 
 ## Cytochrome P450 Enzyme Systems
@@ -46,7 +46,7 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 - Terminal hydroxylation of n-alkanes and omega-hydroxylation of fatty acids
 - Well-studied in Candida maltosa, C. tropicalis, C. apicola, and Yarrowia lipolytica
 - The cyp52 gene family encodes multiple P450 isoforms with different substrate specificities
-- In [[staycare-cunninghamella-elegans-in-bioremediation]], P450 mediates N-demethylation of triphenylmethane dyes (Crystal Violet, Malachite Green)
+- In Cunninghamella elegans, P450 mediates N-demethylation of triphenylmethane dyes (Crystal Violet, Malachite Green)
 - P450 reductase (CPR) genes identified in Aspergillus niger, S. cerevisiae, and Schizosaccharomyces pombe
 - P450 overproduction in fungi has potential for enhanced bioremediation of oil contaminants
 
@@ -73,78 +73,29 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 - [[mycoremediation-textile-dye-degradation]] for enzyme applications in dye treatment
 - [[white-rot-fungi-bioremediation]] for the primary enzyme-producing organisms
 - [[mycoremediation-techniques]] for application methods
+### Key Principles
+Understanding mycoremediation enzymology requires consideration of several interrelated factors.
+These principles form the foundation for practical application and further research.
+Each factor contributes to the overall effectiveness and sustainability of the approach.
+Integration of multiple approaches often yields the best results.
 
-## Overview
+### Methods and Techniques
+Various methods have been developed to implement these concepts effectively.
+Selection of appropriate techniques depends on specific conditions and objectives.
+Adaptation to local conditions improves outcomes and resource efficiency.
+Best practices continue to evolve as new research becomes available.
 
-Mycoremediation Enzymology represents an important element within sustainable
-design and ecological management systems. Its proper understanding
-and integration contributes to the resilience and productivity of
-designed ecosystems and agricultural systems.
+### Practical Applications
+Real-world implementation requires attention to local conditions and available resources.
+Success often depends on careful planning and iterative refinement of techniques.
+Documentation and observation support continuous improvement.
 
-## Key Characteristics
+### Research and Development
+Ongoing research continues to refine understanding and improve practical applications.
+New developments in related fields contribute to advancing knowledge in this area.
+Field trials and experimental results provide valuable data for optimization.
 
-Several defining characteristics distinguish mycoremediation enzymology
-from related concepts in permaculture and ecological design.
-Understanding these traits supports effective implementation
-and management across diverse environmental conditions.
-
-## Ecological Context
-
-The ecological relationships involving mycoremediation extend
-across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
-with this element in complex and beneficial ways.
-
-## Practical Applications
-
-Mycoremediation Enzymology finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
-beneficial interactions while minimizing external inputs.
-Site-specific adaptation ensures relevance to local conditions.
-
-## Management and Implementation
-
-Effective management requires attention to seasonal patterns
-and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
-Integration with complementary elements enhances system function.
-
-## Regional Considerations
-
-Different geographic regions present unique challenges and
-opportunities for mycoremediation enzymology. Climate adaptation
-strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
-
-## Sustainability
-
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
-
-## Research and Development
-
-Ongoing research continues to expand understanding of
-mycoremediation enzymology and its applications. Active investigation
-areas include ecological interactions and optimization.
-Published findings contribute to an evolving evidence base.
-
-## Historical Context
-
-Mycoremediation Enzymology has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
-
-## Integration Strategies
-
-Successful integration of mycoremediation enzymology into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
+## See Also
+- [[mycoremediation]]
+- [[advanced-mycoremediation-research-techniques]]
+- [[battelle-diesel-mycoremediation-study]]

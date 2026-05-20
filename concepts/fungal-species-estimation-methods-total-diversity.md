@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 ## Fungal Species Estimation — Methods for Assessing Total Diversity
 Estimating how many fungal species exist — globally, regionally, or locally —

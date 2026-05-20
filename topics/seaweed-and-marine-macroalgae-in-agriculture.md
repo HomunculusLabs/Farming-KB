@@ -1,27 +1,6 @@
 ---
-title: Seaweed and Marine Macroalgae in Agriculture
-tags:
-  - seaweed
-  - macroalgae
-  - kelp
-  - organic-farming
-  - biostimulant
-  - soil-amendment
-  - marine-biology
-  - sustainable-agriculture
-  - permaculture
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - https://www.frontiersin.org/articles/10.3389/fpls.2020.00695/full
----# Seaweed and Marine Macroalgae in Agriculture
-
-## Overview
-
-Seaweed and marine macroalgae represent one of the oldest and most versatile inputs in agriculture, with a documented history of use spanning thousands of years. Coastal communities in Europe, Asia, and the Pacific Islands have long recognized the value of hauling beach-cast kelp and wrack onto fields as a soil amendment. Modern agricultural science has validated these traditional practices and revealed that seaweed provides far more than simple mineral nutrition — it delivers a complex suite of bioactive compounds including plant hormones, polysaccharides, amino acids, and antimicrobial agents that act as biostimulants, triggering systemic improvements in plant growth, stress tolerance, and disease resistance.
-
-The global seaweed industry has grown dramatically, with production exceeding 35 million tonnes annually as of the mid-2020s, the vast majority from aquaculture rather than wild harvest. While the largest share goes to human food and hydrocolloid extraction (carrageenan, agar, alginates), the agricultural sector is the fastest-growing market segment. Seaweed extracts are now formulated as liquid concentrates, soluble powders, and granular meals, sold under dozens of brand names and applied across conventional and organic farming alike.
-
+title: "Seaweed And Marine Macroalgae In Agriculture"
+sources: []
 ---
 
 ## Seaweed Products and Processing Methods
@@ -30,14 +9,14 @@ The form in which seaweed is delivered to plants significantly affects its effic
 
 ### Whole Seaweed and Kelp Meal
 
-Whole dried and milled seaweed (kelp meal) is the least processed form and retains the widest spectrum of naturally occurring compounds. *Ascophyllum nodosum* meal is the most common product, typically dried at low temperatures (below 60°C) to preserve hormone activity, then milled to a coarse powder.
+Whole dried and milled seaweed (kelp meal) is the least processed form and retains the widest spectrum of naturally occurring compounds. *[[ascophyllum-nodosum]]* meal is the most common product, typically dried at low temperatures (below 60°C) to preserve hormone activity, then milled to a coarse powder.
 
 - **Application rate:** 1–3 kg per 10 m² as a soil amendment, or 1–2 cups per cubic foot of potting mix
 - **Nutrient analysis:** Approximately 1–2% N, 0.2–0.5% P, 3–8% K, plus full trace element spectrum
 - **Advantages:** Slow-release nutrition, soil structure improvement, full spectrum of bioactive compounds, long shelf life (2+ years when stored dry)
 - **Limitations:** Low NPK compared to synthetic fertilizers, variable composition between batches, bulky to transport
 
-Kelp meal is particularly valuable as a compost activator (added at 1–2% by volume to compost piles) and as a component of organic potting mixes. The physical structure of milled seaweed improves soil aeration and water retention, while the slow mineralization of algal tissue provides a sustained release of nutrients over 2–4 months.
+Kelp meal is particularly valuable as a compost activator (added at 1–2% by volume to compost piles) and as a component of organic potting mixes. The physical structure of milled seaweed improves [[soil-aeration]] and water retention, while the slow mineralization of algal tissue provides a sustained release of nutrients over 2–4 months.
 
 ### Liquid Kelp Extracts
 
@@ -48,7 +27,6 @@ Liquid extracts are the most popular and widely studied form of seaweed biostimu
 - Solubilizes alginates, fucoidans, laminarin, and other polysaccharides
 - Produces a dark, viscous liquid with pH 9–11
 ## See Also
-- [[caulerpa]]
 - [[caulerpa]]
 
 ## See Also
@@ -83,3 +61,19 @@ The integration of these concepts with broader frameworks creates opportunities 
 approaches. Continued observation and experimentation remain essential for adapting principles
 to diverse local conditions and achieving optimal outcomes over time.
 - [[gracilaria-tikvahiae]]
+## Practical Applications
+
+Understanding seaweed and marine macroalgae in agriculture has direct implications for
+practical work in the field. The principles described here
+can be adapted to various contexts and scales of operation.
+
+Practitioners should consider local conditions, available
+resources, and specific goals when applying these concepts.
+- [[1960s-counterculture-and-magic-mushrooms]]
+- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
+- [[2c-family-chemistry-and-sar-pihkal]]
+- [[5-meo-dmt-and-bufo-alvarius]]
+- [[aact-brewing-techniques-and-oxygen-management]]
+- [[aact-definitions-and-types-ingham]]
+- [[aact-fermentative-and-anaerobic-tea-types-ingham]]
+- [[aact-fish-hydrolysate-marine-brewing-ingredients-ingham]]

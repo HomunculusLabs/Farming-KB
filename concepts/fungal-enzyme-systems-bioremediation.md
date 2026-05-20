@@ -8,7 +8,7 @@ sources:
   - raw/papers/unknown-mycelium-running.md
 ---
 
-## Fungal Enzyme Systems for Bioremediation
+# Fungal Enzyme Systems for Bioremediation
 
 The biochemical machinery that enables fungi to break down some of the most recalcitrant molecules on Earth. From [[paul-stamets]]' *Mycelium Running* (2005).
 
@@ -137,6 +137,6 @@ Mycelium fosters specific microbial communities through its antibiotic secretion
 - fungal enzyme systems bioremediation for deeper biochemical detail
 - [[mycoremediation-basics]] for application overview
 - [[mycoremediation-of-oil-spills]] for petroleum-specific applications
-- [[mycoremediation-heavy-metals]] for metal bioaccumulation
+- [[mycoremediation-of-heavy-metals]] for metal bioaccumulation
 - [[mycoremediation-pcbs-and-dioxins]] for chlorinated compound degradation
 - [[fungal-decomposition]] for natural decomposition processes

@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychedelics, phenethylamine, dosage, compound-p
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-## 2C-T-2 and 2C-T-7 Compound Profile
+# 2C-T-2 and 2C-T-7 Compound Profile
 
 ## The 2C-T Series
 
@@ -78,43 +78,3 @@ Across the 2C-T series, Shulgin observed clear structure-activity relationships:
 The 2C-T series compounds are synthesized from 2,5-dimethoxybenzaldehyde via electrophilic substitution with the appropriate thiol reagent, followed by the standard nitrostyrene formation and reduction pathway common to all 2C compounds.
 
 See also: [[2c-family-compounds-overview]], [[2c-b-compound-profile]], [[2c-e-compound-profile]], [[phenethylamine-chemistry-basics]], [[phenethylamine-synthesis-safety]]
-## Benefits and Limitations
-
-2C T 2 Compound Profile offers several advantages in practice, including adaptability to
-different conditions and compatibility with related approaches. However,
-limitations exist depending on context, scale, and available resources.
-Understanding both helps practitioners set realistic expectations and plan
-appropriate strategies for implementation.
-
-## Related Methods and Approaches
-
-Several complementary approaches exist alongside 2c t 2 compound profile, each
-offering unique advantages for specific situations. Comparative evaluation
-of these methods helps identify the most suitable option given available
-resources, environmental constraints, and desired outcomes. Combining
-multiple approaches often yields synergistic benefits.
-Related topics include [[2c-c-compound-profile]] and associated practices.
-
-## See Also
-
-- [[mycelium]]
-- [[spore]]
-- [[companion-planting]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-See also [[dmt-compound-profile]] and [[2c-i-compound-profile]] for related information.

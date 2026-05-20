@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 ## Root Cellar Design and Construction

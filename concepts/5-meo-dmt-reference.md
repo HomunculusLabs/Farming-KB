@@ -7,7 +7,7 @@ tags: [psychopharmacology, pharmacology, psychedelics, entheogen, entheogen-rese
 sources: []
 ---
 
-## 5-MeO-DMT Reference
+# 5-MeO-DMT Reference
 
 5-Methoxy-N,N-dimethyltryptamine (5-MeO-DMT) is a naturally occurring psychedelic tryptamine found in certain plant species and notably in the venom of the Colorado River toad (Incilius alvarius, formerly Bufo alvarius). It produces extremely intense, short-lived psychedelic experiences characterized by ego dissolution, unity consciousness, and profound mystical-type experiences. Often described as more powerful than N,N-DMT, 5-MeO-DMT has gained significant research interest for its therapeutic potential in treating depression, anxiety, and addiction.
 
@@ -140,10 +140,60 @@ See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharma
 
 ### Current Research
 
+- Johns Hopkins University: Investigating 5-MeO-DMT for depression and anxiety
+- Maastricht University (Netherlands): Clinical trials exploring therapeutic mechanisms
+- Various independent research groups studying neuroimaging correlates
+- Research is in early stages — no FDA-approved therapeutic application yet
+
+## Safety
+
+### Physical Safety
+
+- No known lethal dose in humans (extremely wide therapeutic index)
+- No evidence of organ toxicity
+- No evidence of neurotoxicity
+- MAO inhibitors: 5-MeO-DMT is metabolized by MAO-A; combining with MAOIs (including ayahuasca) can dangerously potentiate effects and duration
+- Cardiovascular: Transient increase in heart rate and blood pressure (screen for cardiovascular conditions)
+
+### Psychological Safety
+
+- **Intensity**: 5-MeO-DMT is consistently reported as one of the most intense psychedelic experiences. Complete ego dissolution can be terrifying for unprepared users.
+- **Trauma**: Overwhelming experiences can be psychologically harmful without adequate preparation and integration
+- **Psychosis risk**: Individuals with personal or family history of psychosis should avoid
+- **Set and setting**: Critical — see [[harm-reduction-guide|harm reduction]]] for principles
+
+### Harm Reduction
+
+- Always use with an experienced sitter/guide
+- Start with a low test dose (2-3 mg vaporized)
+- Use a scale — never eyeball doses
+- Prepare mentally (meditation, intention-setting) before the experience
+- Plan for integration (journaling, therapy, community) after the experience
+- Allow adequate time between sessions (weeks to months — not a frequent-use substance)
+- Screen for: cardiovascular conditions, psychiatric history, current medications (especially MAOIs, SSRIs)
+- Do not combine with other substances
+
+## Conservation: Bufo Alvarius
+
+The Colorado River toad has become a conservation concern due to increasing demand:
+
+- Wild toads are captured and "milked" for venom, which is dried and sold
+- Repeated milking stresses and potentially harms toads
+- Habitat loss and climate change compound population pressure
+- Synthetic 5-MeO-DMT eliminates the need for wild harvesting
+- Ethical sourcing is essential — synthetic 5-MeO-DMT is recommended over toad-derived material
+
+## Legal Status
+
+- **United States**: Schedule I (illegal). Toad venom itself exists in a legal gray area in some states.
+- **Mexico**: Schedule I. However, toad venom is sold openly in some areas.
+- **Netherlands**: Legal to possess and sell (not scheduled)
+- **Brazil**: Unscheduled (some indigenous use)
+- **Canada**: Schedule III
+- **UK**: Class A
+- **Australia**: Schedule 9 (prohibited)
+
 ## See Also
 
-- [[cover-crop-quick-reference]]
-- [[seed-starting-reference]]
-- [[cactus-alkaloids-reference]]
-- [[ketamine-reference]]
-- [[lsd-reference]]
+- [[dmt-reference]] — N,N-DMT chemistry, pharmacology, and effects
+- [[psilocybin-mushroom-chemistry]]

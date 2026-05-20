@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Species Guide
 created: 2026-04-11
 updated: 2026-04-12
@@ -24,7 +25,7 @@ sources:
 - raw/papers/mycelium-running-stamets.md
 ---
 
-## Mushroom Species Guide
+# Mushroom Species Guide
 
 A practical reference for the most accessible edible and medicinal mushrooms for home cultivation. Parameters drawn from Stamets, Oei, and grower sources. This page covers the five core species most suitable for home growers. For additional specialty species (agarikon, enokitake, pioppino, shaggy mane, and others), see [[specialty-mushroom-species]].
 
@@ -144,3 +145,19 @@ Multiple mushroom species can be grown sequentially on the same substrate. Once 
 ## See Also
 
 - [[specialty-mushroom-species]] — Agarikon, enokitake, pioppino, shaggy mane, tinder conk, artist conk, and more
+- [[mushroom-cultivation-basics]] — General cultivation processes
+- [[mushroom-substrates]] — Substrate selection and preparation
+- [[medicinal-mushroom-guide]] — Medicinal compounds and preparations
+- [[mushroom-growing-reference]] — Complete growing reference
+- [[mycoremediation-techniques]] — Fungal environmental cleanup methods
+
+## Related
+
+- [[mushroom-drying-storage]]
+- [[mushroom-toxicity-identification-warnings]]
+- [[mushroom-foraging-safety-guide]]
+- [[psilocybe-natalensis]]
+- [[african-psilocybin-mushroom-guide]]
+- [[asian-psilocybin-mushroom-guide]]
+- [[psilocybin-mushroom-chemistry]]
+- [[reishi-cultivation-guide]]

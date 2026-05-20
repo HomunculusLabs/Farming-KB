@@ -8,7 +8,6 @@ tags: [reference]
 
 ## Merged: How Do I Grow Alliums (Garlic, Onions, Leeks, Shallots) Successfully?
 
-
 ## When Should I Plant Alliums by Climate Zone?
 
 **Garlic:** Plant in fall (October–November in most zones). Hardneck garlic needs 4–8 weeks of vernalization (temps below 40°F / 4°C) to form proper bulbs — plant 4–6 weeks before ground freezes. Softneck garlic tolerates milder winters; in zones 9–10, plant in November–December. In zones 3–4, plant by late September.

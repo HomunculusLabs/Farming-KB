@@ -7,7 +7,7 @@ tags: [equipment, processing, food, homesteading, construction, safety, law, too
 sources: []
 ---
 
-## Home Butcher Shop Setup
+# Home Butcher Shop Setup
 
 A home butcher shop (also called a processing room or harvest kitchen) is a dedicated space for butchering, cutting, wrapping, and storing meat from homestead-raised livestock. A well-designed setup improves food safety, processing efficiency, and product quality while meeting regulatory requirements for small-scale meat production.
 
@@ -22,10 +22,10 @@ A home butcher shop (also called a processing room or harvest kitchen) is a dedi
 
 ### Location Options
 
--  **Detached outbuilding** — Ideal. Separates processing from living spaces, reduces [[fungicide-treated-seed-contamination-risk-mushroom-substrate]], allows for dedicated ventilation. A converted shed or small barn works well.
+-  **Detached outbuilding** — Ideal. Separates processing from living spaces, reduces contamination risk, allows for dedicated ventilation. A converted shed or small barn works well.
 -  **Garage bay** — Good option if insulated and plumbed. Easier to retrofit than a detached building. Ensure door can be sealed against flies.
 -  **Basement room** — Cool temperatures are a natural advantage. Must have adequate drainage and ventilation.
--  **[[outdoor-shelter-building]]** — Temporary setup for seasonal processing. A canopy or lean-to with a table and water source. Not ideal for regular use.
+-  **Outdoor shelter** — Temporary setup for seasonal processing. A canopy or lean-to with a table and water source. Not ideal for regular use.
 
 ### Essential Features
 
@@ -71,7 +71,7 @@ Keep knives razor-sharp. A dull knife is more dangerous than a sharp one because
 ### Processing Tools
 
 -  **Meat grinder** — Electric grinder rated for 5-10 lbs per minute. Size 12 or 32 grinder head for versatility. Hand-crank grinders work for occasional use but are labor-intensive.
--  **Sausage stuffer** — Vertical or horizontal stuffer for making sausages. A 5 lb capacity is sufficient for [[homestead-scale-assessment]].
+-  **Sausage stuffer** — Vertical or horizontal stuffer for making sausages. A 5 lb capacity is sufficient for homestead scale.
 -  **Meat mixer** — Optional but helpful for incorporating seasonings into ground meat and sausage.
 -  **Thermometer** — Probe thermometer for monitoring meat temperatures during processing and chilling.
 -  **Scale** — Digital scale accurate to 0.1 kg (0.25 lb) for weighing cuts and recording yield.
@@ -84,7 +84,7 @@ Keep knives razor-sharp. A dull knife is more dangerous than a sharp one because
 -  **Plastic wrap** — For double-wrapping cuts before freezer paper.
 -  **Masking tape** — For sealing freezer paper wraps.
 -  **Labels** — Include: cut name, date, weight, animal type. Pre-printed labels save time.
--  **Marker** — Waterproof [[permanent-marker]] for labeling.
+-  **Marker** — Waterproof permanent marker for labeling.
 
 ### Cold Storage
 

@@ -7,7 +7,7 @@ tags: [gardening, coastal, climate, plants, water-management, conservation, ecol
 sources: []
 ---
 
-## Coastal Gardening
+# Coastal Gardening
 
 ## Overview
 
@@ -140,11 +140,51 @@ Most vegetables are salt-sensitive, but a few tolerate mild salt spray:
 ## Sandy Soil Management
 
 ### Building Organic Matter
+Sandy coastal soils need constant organic matter additions:
 
-## See Also
+- **Compost**: Apply 2-4 inches annually; mix into top 6 inches of soil
+- **Green manure cover crops**: Plant in fallow areas; crimson clover, winter rye, field peas
+- **Mulch**: Maintain 3-4 inch layer of organic mulch at all times
+- **Biochar**: Incorporate to improve nutrient retention in sand
+- **Sheet composting**: Layer organic materials directly on garden beds and let them decompose in place
 
-- [[coastal-ground-covers-hedges-permaculture]]
-- [[mollison-designers-sea-level-change-coastal-zones]]
-- [[mangrove-ecosystems-and-coastal-restoration]]
-- [[coastal-edible-plants-permaculture]]
-- [[coastal-plant-communities-permaculture]]
+### Nutrient Management
+Nutrients leach quickly from sandy soils:
+
+- **Split applications**: Apply fertilizer in small doses every 2-3 weeks rather than large single applications
+- **Slow-release organic fertilizers**: Alfalfa meal, feather meal, bone meal release nutrients gradually
+- **Foliar feeding**: Liquid kelp, fish emulsion, compost tea provide quick nutrient boosts
+- **Trace elements**: Sandy soils are often deficient in iron, manganese, zinc, and boron
+- **Monitor pH**: Sandy coastal soils may be acidic or alkaline depending on parent material
+
+### Water Management
+- **Frequent, shallow irrigation**: Water 2-3 times per week in sandy soil; deep watering wastes water as it passes below root zone
+- **Drip irrigation**: Delivers water directly to root zones; reduces evaporation and salt splash
+- **Mulch**: Essential for moisture retention in sandy soil
+- **Rain barrels**: Capture rainwater for irrigation; rainwater is salt-free
+- **Swales and berms**: Slow runoff and allow infiltration; see [[swale-design-construction|swales]] for design
+
+## Dune and Shoreline Conservation
+
+Coastal gardeners have a responsibility to protect fragile dune and shoreline ecosystems:
+
+- Do not remove native dune vegetation (sea oats, beach grass, beach morning glory)
+- Use boardwalks or stepping stones rather than paths across dunes
+- Avoid planting invasive species that can escape and degrade natural areas
+- Participate in [[pollinator-conservation|conservation]] efforts like dune restoration and beach grass planting
+- Design gardens to reduce runoff that could carry nutrients or sediment to coastal waters
+- See [[riparian-zone-restoration]] for related stream and shoreline restoration practices
+
+## Storm Resilience Design
+
+- Use flexible ties for staking trees rather than rigid supports
+- Plant in groups to provide mutual wind protection
+- Keep trees well-pruned to reduce wind resistance
+- Store rainwater for post-storm irrigation (salt-contaminated wells may be unusable)
+- Choose plants that resprout after damage rather than those killed by defoliation
+- Elevate garden beds to prevent saltwater inundation during minor flooding events
+- Have a plan to flush soil with fresh water after saltwater flooding
+
+## Related
+
+- [[desert-gardening]]

@@ -77,7 +77,7 @@ She concludes with a vision of the transcendence that has become immanent and is
 
 ## See Also
 
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]
 - [[mazatec-medicine-woman-shamanic-discourse-healing]]
 - [[mazatec-mushroom-ceremony-ritual]]
 - [[mazatec-mushroom-ceremony-roman-estrada-ethnographic-account]]

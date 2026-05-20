@@ -1,5 +1,5 @@
 ---
-title: Jadam Pest Control Recipes
+title: JADAM Pest Control Recipes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -7,9 +7,9 @@ tags: [natural-farming, pest-control, agriculture, recipes]
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 ---
 
-## JADAM Pest Control Recipes
+# JADAM Pest Control Recipes
 
-JADAM pest control relies on simple, on-farm preparations that are inexpensive, non-toxic, and effective. The foundation is the [[jadam-wetting-agent-jwa]] (JWA), combined with plant extracts and biological agents.
+JADAM pest control relies on simple, on-farm preparations that are inexpensive, non-toxic, and effective. The foundation is the JADAM Wetting Agent (JWA), combined with plant extracts and biological agents.
 
 ## JADAM Wetting Agent (JWA) — The Foundation
 
@@ -66,9 +66,9 @@ JADAM pest control relies on simple, on-farm preparations that are inexpensive, 
 4. Spray on affected plants
 
 ### Effective Against
-- [[cervantes-powdery-mildew-prevention-treatment]]
+- Powdery mildew
 - Rust
-- [[cervantes-downy-mildew-fungal-blight]]
+- Downy mildew
 - Mites
 
 ## JADAM Sea Water (JSW) — Micronutrient Supplement
@@ -86,40 +86,6 @@ JADAM pest control relies on simple, on-farm preparations that are inexpensive, 
 - Always test on a few leaves first before full application
 
 ## Related
-- [[jadam-natural-farming-philosophy]] — for [[jadam-philosophy-and-youngsang-chos-farming-revolution]]
-- [[natural-farming-pest-management]] — for broader [[diatomaceous-earth]]
+- [[jadam-natural-farming-philosophy]] — for JADAM philosophy
+- [[natural-farming-pest-management]] — for broader natural pest management
 - [[companion-planting-deterrents]] — for prevention-based pest control
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

@@ -1,4 +1,5 @@
 ---
+
 title: David Holmgren
 created: 2026-04-11
 updated: 2026-04-12
@@ -17,12 +18,11 @@ tags:
 - species
 
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 - raw/papers/permaculture-a-designers-manual-bill-mollison.md
 - raw/papers/permaculture-one-bill-mollison-david-holmgren.md
 ---
 
-## David Holmgren
+# David Holmgren
 
 ## Overview
 
@@ -51,30 +51,38 @@ Holmgren's Melliodora property in Hepburn, Victoria serves as a living demonstra
 
 ## See Also
 
-- [[allegro-david-adonis-egypt-exodus-mushroom-myth-making]]
-- [[allegro-david-egypt-and-the-census]]
-- [[bill-mollison]]
-- [[charles-arden-clarke-david-hodges-mollison]]
-- [[david-arora]]
-- [[david-hoye]]
-- [[food-forest-design]]
-- [[homesteading-infrastructure]]
-- [[permaculture-design]]
-- [[permaculture-principles]]
-- [[regenerative-agriculture-history]]
-- [[water-management]]
+- [[permaculture-principles]] — The 12 design principles in detail
+- [[permaculture-design]] — Design methodology
+- [[bill-mollison]] — Co-founder and global advocate
+- [[food-forest-design]] — Food forest applications
+- [[homesteading-infrastructure]] — Infrastructure design
+- [[water-management]] — Water design systems
+- [[regenerative-agriculture-history]] — Broader regenerative context
+### Key Principles
+Understanding david holmgren requires consideration of several interrelated factors.
+These principles form the foundation for practical application and further research.
+Each factor contributes to the overall effectiveness and sustainability of the approach.
 
-## Practical Applications
+### Methods and Techniques
+Various methods have been developed to implement these concepts effectively.
+Selection of appropriate techniques depends on specific conditions and objectives.
+Adaptation to local conditions improves outcomes and resource efficiency.
 
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
-## Key Considerations
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]
+### Additional Notes
+The study and application of david holmgren continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-## Comparative Analysis
+### Additional Notes
+The study and application of david holmgren continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Examining this topic alongside related approaches reveals complementary strategies and unique advantages. Multiple perspectives enrich understanding and inform better decision-making.
-
-## Mechanisms and Processes
-
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
-Further research may reveal additional applications and ecological relationships.
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

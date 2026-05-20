@@ -7,7 +7,7 @@ tags: [homesteading, engineering, equipment, sustainability]
 sources: []
 ---
 
-## Off-Grid Electricity Basics
+# Off-Grid Electricity Basics
 
 Off-grid electricity systems generate, store, and distribute power independently from the utility grid. For the homesteader, an off-grid system provides energy independence, resilience during grid outages, and the ability to live on remote land. The core components are solar panels, batteries, charge controllers, and inverters.
 
@@ -140,11 +140,24 @@ A basic 2-4 kW off-grid system:
 - Solar panels (2 kW): $1500-3000
 - Lithium battery bank (10 kWh): $3000-5000
 - MPPT charge controller: $200-600
+- Inverter (3000W pure sine): $500-1500
+- Wiring, fuses, mounting: $500-1500
+- **Total: $5700-$11,600**
 
-## See Also
+Lead-acid systems cost less upfront ($3000-6000) but require battery replacement every 3-7 years.
 
-- [[van-life-off-grid]]
-- [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]
-- [[off-grid-energy-and-homestead-infrastructure]]
-- [[cotter-off-grid-mushroom-cultivation]]
-- [[off-grid-waste-management]]
+## Conservation First
+
+The cheapest watt is the one you never use. Before sizing a system:
+- Replace all lighting with LED
+- Choose DC refrigerators (SunDanzer, Nova Kool) which use 30-50% less power
+- Use a gravity-fed water system to reduce pump runtime (see [[homestead-water-systems]])
+- Eliminate electric heating (use wood, propane, or passive solar instead)
+- Use a laptop instead of a desktop computer
+- Air-dry clothes on a line instead of using an electric dryer
+
+## Related Topics
+
+- [[homestead-water-systems]] for well pump power requirements
+- [[building-with-natural-materials]] for passive solar design to reduce electrical loads
+- [[homestead-energy-conservation]]

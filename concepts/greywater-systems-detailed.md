@@ -140,10 +140,44 @@ Greywater regulations vary enormously by jurisdiction:
 
 **Generally legal and encouraged:** California (updated 2013 code), Arizona, New Mexico, Texas, Oregon, and many rural areas nationwide
 
-## See Also
+**Restricted or requiring permits:** Many states require permits, specific design approval, or professional installation
 
-- [[comparison-greywater-vs-rainwater-harvesting]]
-- [[greywater-recycling-drylands]]
-- [[greywater-systems-and-domestic-water-conservation]]
-- [[comparison-composting-toilets-vs-greywater-systems-detailed]]
-- [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]]
+**Common regulatory requirements:**
+- System must be entirely subsurface (no surface pooling or spray)
+- Minimum setback distances from property lines, wells, and surface water
+- No kitchen grease water without additional treatment
+- System must not create a nuisance (odor, breeding mosquitoes)
+- Professional design may be required for systems above a certain volume
+
+**Strategy:** Start with the simplest legal system (branched drain, no pump), document thoroughly, and check with your local health department before building. Many jurisdictions have a "de minimis" exemption for very small systems.
+
+## Maintenance Schedule
+
+| Task | Frequency |
+|------|-----------|
+| Check mulch basins for pooling | Weekly |
+| Add mulch to basins | Annually |
+| Clean lint filter (washing machine) | Monthly |
+| Clean surge tank sediment | Every 6-12 months |
+| Check pipe junctions for clogs | Every 3-6 months |
+| Inspect pump (if applicable) | Every 6 months |
+| Replace distribution lines | Every 5-10 years |
+
+## Integration with Other Systems
+
+Greywater systems work best as part of an integrated water management strategy. Pair with [[humanure-composting-systems]] to handle blackwater separately. On a homestead, greywater can irrigate fruit trees and perennial food plants. See also [[water-management]] for broader water system design and [[fungi-and-sustainability]] for resilience planning.
+
+## Winter Operation
+
+In freezing climates, greywater systems need winterization:
+
+- Insulate pipes or bury below frost line
+- Design mulch basins to handle freeze-thaw cycles
+- Consider diverting greywater to a septic or municipal system during deep freezes
+- Evergreen plants around mulch basins provide some insulation
+- In mild winters, the warmth of greywater may prevent freezing entirely
+
+## Related
+
+- [[natural-pool-building]]
+- [[basic-plumbing-for-homestead]]

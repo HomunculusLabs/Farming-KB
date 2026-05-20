@@ -1,5 +1,5 @@
 ---
-title: "Cordwood Construction"
+title: Cordwood Construction
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,13 +7,13 @@ tags: [construction, homesteading, sustainability, permaculture, design, enginee
 sources: []
 ---
 
-## Cordwood Construction
+# Cordwood Construction
 
-Cordwood construction (also called cordwood masonry or stackwall) is a building technique where short logs (cordwood) are laid in a bed of mortar, similar to bricks, to create walls. The log ends are visible on both the interior and exterior faces, creating a distinctive and beautiful pattern. This method combines the insulation of wood with the [[comparison-windbreak-vs-thermal-mass]] of masonry.
+Cordwood construction (also called cordwood masonry or stackwall) is a building technique where short logs (cordwood) are laid in a bed of mortar, similar to bricks, to create walls. The log ends are visible on both the interior and exterior faces, creating a distinctive and beautiful pattern. This method combines the insulation of wood with the thermal mass of masonry.
 
 ## History
 
-Cordwood construction has been practiced for over a thousand years across Europe and [[guzman-psilocybin-mushrooms-north-america]]. Pioneer settlers in Wisconsin, Michigan, and Ontario built many surviving cordwood homes in the 1800s. The technique saw a revival in the 1970s alternative building movement and remains popular among homesteaders and natural builders today.
+Cordwood construction has been practiced for over a thousand years across Europe and North America. Pioneer settlers in Wisconsin, Michigan, and Ontario built many surviving cordwood homes in the 1800s. The technique saw a revival in the 1970s alternative building movement and remains popular among homesteaders and natural builders today.
 
 ## Core Advantages
 
@@ -23,7 +23,7 @@ Cordwood construction has been practiced for over a thousand years across Europe
 - Thermal mass: Mortar absorbs and releases heat slowly
 - Aesthetic appeal: Unique, beautiful wall patterns
 - Local materials: Can use wood from your own land
-- [[cervantes-case-study-energy-efficient-sea-of-green]]: Thick walls (16-24 inches) provide high total R-value
+- Energy efficient: Thick walls (16-24 inches) provide high total R-value
 
 ## Wood Selection and Preparation
 
@@ -48,7 +48,7 @@ Avoid:
 2. Debark completely — bark will detach over time, creating gaps in the wall
 3. Split any logs larger than 6 inches diameter — solid logs above this size crack excessively
 4. Dry logs for at least 6 months (longer is better). Dry wood shrinks less after wall construction.
-5. Store off the ground with [[stamets-growing-room-air-circulation-co2-management]]
+5. Store off the ground with air circulation
 6. Sort by diameter for organized building
 
 ### Optimal Moisture Content
@@ -89,7 +89,7 @@ Some builders use papercrete (shredded paper, sand, and cement) as a lightweight
 
 ### Foundation
 
-Cordwood walls are heavy (100-150 lbs per [[comparison-biointensive-vs-square-foot-gardening]]). They require a solid foundation:
+Cordwood walls are heavy (100-150 lbs per square foot). They require a solid foundation:
 - Concrete footing and stem wall, or
 - Rubble trench foundation with a concrete cap, or
 - Frost-protected shallow foundation
@@ -148,3 +148,5 @@ Cordwood construction is not addressed in most building codes. Approaches:
 
 - [[cob-building-basics-detailed]]
 - [[earthbag-building]]
+- [[passive-solar-design]]
+- [[bamboo-as-building-material]]

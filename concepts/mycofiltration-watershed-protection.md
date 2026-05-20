@@ -8,7 +8,7 @@ sources:
   - raw/papers/unknown-mycelium-running.md
 ---
 
-## Mycofiltration — Watershed Protection with Fungal Mats
+# Mycofiltration — Watershed Protection with Fungal Mats
 
 Using mycelial mats to filter water, remove pathogens, capture sediments, and protect watersheds. From [[paul-stamets]]' pioneering work in *Mycelium Running* (2005). See also [[mycofiltration-overview]].
 
@@ -24,7 +24,7 @@ Stamets conducted tests at his farm on Skookum Inlet, Washington:
 
 - **Pathogen target**: Coliform bacteria (including E. coli) from upstream farms
 - **Primary species**: King stropharia (Stropharia rugoso-annulata)
-- **Setup**: Mycelial mats installed in drainage pathways between upstreampollutionsources and downstream waterways
+- **Setup**: Mycelial mats installed in drainage pathways between upstream污染sources and downstream waterways
 - **Results**: Mycelial mats significantly reduced coliform bacteria counts in water passing through them
 - **Mechanism**: Mycelium's extracellular enzymes and antibacterial secretions killed or trapped bacteria; the physical mat structure filtered sediments
 
@@ -131,4 +131,4 @@ Mycofiltration fits naturally into [[permaculture-design]] and [[swale-design-co
 - [[bunker-spawn-method]] for spawn production
 - [[mycoremediation-techniques]] for deployment strategies
 - [[straw-cultivation-methods]] for substrate preparation
-- [[mycorestoration]] for the umbrella concept
+- [[mycorestoration-overview]] for the umbrella concept

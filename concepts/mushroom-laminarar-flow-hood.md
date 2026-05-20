@@ -4,14 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, equipment, engineering, lab-technique, filtration]
-sources:
-  - "raw/papers/2-laminar-flow-hood-construction.md"
-  - "raw/papers/laminar-flow-hood-construction-1.md"
+sources: []
 ---
 
 ## Overview
 
-A [[laminar-flow-hood]] (LFH) is a piece of equipment that creates a continuous stream of HEPA-filtered air moving in parallel lines across a work surface. This sterile airflow prevents airborne contaminants from settling on exposed cultures during inoculation, agar work, and other sensitive procedures. For serious mushroom cultivators, a flow hood is the single most impactful upgrade over a still air box, dramatically reducing contamination rates and enabling faster, more comfortable work.
+A laminar flow hood (LFH) is a piece of equipment that creates a continuous stream of HEPA-filtered air moving in parallel lines across a work surface. This sterile airflow prevents airborne contaminants from settling on exposed cultures during inoculation, agar work, and other sensitive procedures. For serious mushroom cultivators, a flow hood is the single most impactful upgrade over a still air box, dramatically reducing contamination rates and enabling faster, more comfortable work.
 
 ## How Laminar Flow Works
 
@@ -132,7 +130,7 @@ A DIY laminar flow hood typically costs $200-500 depending on size and blower ch
 
 ## Related Topics
 
-- [[mushroom-sterile-technique]] — sterile procedures for working at the hood
+- [[mushroom-sterile-technique-detailed]] — sterile procedures for working at the hood
 - [[agar-work-guide]] — agar technique, the primary use case for a flow hood
 - [[grain-spawn-preparation]] — sterile inoculation of grain jars
 - [[mushroom-spore-printing-and-storage]] — creating spore syringes under sterile conditions

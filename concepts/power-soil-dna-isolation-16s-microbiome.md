@@ -2,7 +2,7 @@
 title: "Power Soil Dna Isolation 16S Microbiome"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 ### Critical Modification

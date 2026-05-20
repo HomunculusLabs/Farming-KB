@@ -45,7 +45,7 @@ of organic acids serve as proton sources.
 Organic acid anions are frequently capable of forming soluble complexes with
 metal cations, thereby increasing metal mobility. The incidence of metal-
 solubilizing ability among natural soil [[fungal-siderophores-iron-acquisition-mycorrhiza]] by fungi. The most common [[heavy-metal-biosorption]]
-- [[mycoremediation-heavy-metals]]
+- [[mycoremediation-of-heavy-metals]]
 ## Practical Considerations
 
 Successful implementation of Heavy Metal Remediation by Fungi requires attention to

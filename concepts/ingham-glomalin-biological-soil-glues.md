@@ -1,7 +1,7 @@
 ---
 title: "Ingham Glomalin Biological Soil Glues"
 tags: []
-sources: []
+sources: [raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
 ---
 
 ## Ingham — Glomalin and Biological Soil Glues

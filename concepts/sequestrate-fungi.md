@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Sequestrate Fungi — Ecology, Diversity, and Sampling ## Overview Sequestrate fungi represent a diverse guild of fungi that produce enclosed, hypogeous (underground) or semi-hypogeous fruiting bodies. These fungi do not actively discharge their spores; instead, they rely entirely on animal vectors for spore dispersal — a strategy known as mycophagy. Approximately **150 genera** and **~1,200 species** have been described across **38 families** and **11 orders**, spanning the [[biodiversity-fungal-biodiversity-estimation-methods]] knowledge. These organisms are central to understanding fungal-earthworm-interactions in forest ecosystems.
 

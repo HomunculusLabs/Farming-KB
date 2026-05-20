@@ -7,7 +7,7 @@ tags: [soil, minerals, biology, ecology, microbes, regenerative, methods, fertil
 sources: []
 ---
 
-## Biochar
+# Biochar
 
 Biochar is a carbon-rich solid material produced by heating biomass in a low-oxygen environment through a process called pyrolysis. When incorporated into soil, biochar acts as a long-term carbon sink, improves soil structure, enhances nutrient retention, and supports microbial communities. Its stability means it can persist in soil for hundreds to thousands of years, making it a powerful tool for both soil improvement and carbon sequestration.
 

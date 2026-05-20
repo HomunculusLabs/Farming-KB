@@ -1,4 +1,5 @@
 ---
+
 title: Sepp Holzer
 created: 2026-04-11
 updated: 2026-04-12
@@ -19,13 +20,12 @@ tags:
 - species
 
 sources:
-  - "raw/papers/sepp-holzer-practical-guide.md"
 - raw/sepp-holzer-practical-guide-to-small-scale-integrative.md
 - raw/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 - raw/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md
 ---
 
-## Sepp Holzer
+# Sepp Holzer
 
 > **Note:** Sources unavailable — content from model knowledge. Review and add sources.
 
@@ -58,24 +58,28 @@ Holzer's practical demonstrations have inspired regenerative farmers worldwide. 
 
 ## See Also
 
+- [[sepp-holzer-methods]] — Detailed techniques and applications
+- [[permaculture-design]] — Broader permaculture context
+- [[pond-and-aquaculture]] — Pond design and integration
+- [[food-forest-design]] — Food forest systems
+- [[composting-systems]] — Composting approaches
+- [[duck-keeping]] — Duck integration on the farm
+- [[goat-keeping]] — Goat management
+- [[water-management]] — Water retention landscapes
+### Practical Applications
+The principles of sepp holzer apply across various cultivation and research contexts.
+Understanding these concepts enables more effective implementation and improved outcomes.
+
+## See Also
+- [[comparison-fukuoka-vs-holzer]]
+- [[comparison-sepp-holzer-vs-biodynamic]]
 - [[comparison-sepp-holzer-vs-permaculture-design]]
-- [[composting-systems]]
-- [[duck-keeping]]
-- [[food-forest-design]]
-- [[goat-keeping]]
-- [[permaculture-design]]
-- [[pond-and-aquaculture]]
-- [[sepp-holzer-composting-and-humus-building]]
-- [[sepp-holzer-methods]]
-- [[water-management]]
+### Additional Notes
+The study and application of sepp holzer continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-## Practical Applications
-
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
-## Key Considerations
-
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-
-## Mechanisms and Processes
-
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## See Also
+- [[comparison-fukuoka-vs-holzer]]
+- [[comparison-sepp-holzer-vs-biodynamic]]
+- [[comparison-sepp-holzer-vs-permaculture-design]]

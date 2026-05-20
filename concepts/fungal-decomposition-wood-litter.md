@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 ## Fungal Decomposition of Wood and Litter ## Overview Wood and litter decomposition by fungi is a foundational ecological process that drives nutrient cycling, soil formation, and carbon flux in terrestrial ecosystems. The diversity of decomposer fungi and the complexity of their interactions with substrata make decomposition one of the most important and least understood aspects of [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]] (primarily ascomycetes) cause a slower, less aggressive decay characterized by cavity formation within the secondary [[fungal-diversity-leaf-litter-coarse-woody-debris]] decomposition.
 

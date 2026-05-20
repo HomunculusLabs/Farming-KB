@@ -7,9 +7,9 @@ tags: [fungi, pathogens, troubleshooting, plants, gardening, pest-control, culti
 sources: []
 ---
 
-## Fungal Plant Diseases
+# Fungal Plant Diseases
 
-[[bloomfield-fungal-pathogens-and-parasites]] are among the most common and destructive plant diseases in both home gardens and [[night-break-photoperiodism-manipulation-commercial-agriculture]]. They spread via spores carried by wind, water, insects, and contaminated tools. Most fungal diseases thrive in warm, humid conditions with poor air circulation.
+Fungal pathogens are among the most common and destructive plant diseases in both home gardens and commercial agriculture. They spread via spores carried by wind, water, insects, and contaminated tools. Most fungal diseases thrive in warm, humid conditions with poor air circulation.
 
 ## Major Fungal Diseases
 
@@ -74,7 +74,7 @@ Management:
 
 ### Botrytis (Gray Mold)
 
-Caused by [[botrytis-cinerea]]. Produces gray-brown fuzzy mold on dying or damaged plant tissue. Common in cool, humid conditions (58-72F) with poor air circulation. Affects strawberries, tomatoes, grapes, beans, and many ornamentals. Often a secondary pathogen that colonizes wounded tissue.
+Caused by Botrytis cinerea. Produces gray-brown fuzzy mold on dying or damaged plant tissue. Common in cool, humid conditions (58-72F) with poor air circulation. Affects strawberries, tomatoes, grapes, beans, and many ornamentals. Often a secondary pathogen that colonizes wounded tissue.
 
 Management:
 - Reduce humidity in greenhouse/grow space
@@ -90,31 +90,14 @@ Management:
 - Select disease-resistant varieties
 - Maintain proper plant spacing for airflow
 - Water at the base of plants, not overhead
-- Sanitize tools between plants with 70% [[isopropyl-alcohol]]
-- Apply preventive biological controls (Trichoderma, [[bacillus-subtilis]])
+- Sanitize tools between plants with 70% isopropyl alcohol
+- Apply preventive biological controls (Trichoderma, Bacillus subtilis)
 - Keep garden debris cleaned up between seasons
 - Monitor plants regularly for early symptoms
 
 ## See Also
 
 - [[plant-disease-identification]] -- visual diagnostic guide for all disease types
-- [[integrated-pest-management]] -- systematic approach to pest [[vegetable-insect-and-disease-control]]
+- [[integrated-pest-management]] -- systematic approach to pest and disease control
 - [[bacterial-plant-diseases]]
 - [[viral-plant-diseases]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

@@ -7,7 +7,7 @@ tags: [mushrooms, fungi, business, economics, homesteading, cultivation, food]
 sources: []
 ---
 
-## Homestead Mushroom Business
+# Homestead Mushroom Business
 
 Growing and selling mushrooms on a homestead scale offers high returns on low capital investment. Gourmet mushrooms (shiitake, oyster, lion's mane, wine cap) command $8-20/lb retail and can be produced in small spaces using low-tech methods. This guide covers production, pricing, licensing, and scaling.
 
@@ -140,11 +140,28 @@ Check your state's Department of Agriculture for specific requirements. Some sta
 - Add species as confidence grows
 - Automate humidity/ventilation when production exceeds manual capacity
 - Consider outdoor wine cap beds for zero-energy production
+- Seasonal: oysters year-round indoors, shiitake seasonal on logs
+- Target: $1,000-3,000/month at medium scale (50-200 blocks/week)
 
-## See Also
+## Sales Channels
 
-- [[homestead-energy-conservation]]
-- [[homestead-winter-preparations]]
-- [[homestead-tool-maintenance]]
-- [[homestead-internet-options]]
-- [[common-homestead-weeds]]
+- Farmers markets: see [[farmers-market-selling-guide]]
+- Restaurants: chefs seek local mushrooms, approach directly
+- CSAs: add mushroom share or include in vegetable boxes
+- Online sales: see online homestead sales
+- On-farm sales: pick-your-own mushroom events
+- Food co-ops and natural grocery stores
+
+## Common Problems
+
+- Contamination (green mold, trichoderma): maintain clean procedures, sterilize properly
+- Low yields: check moisture, fresh air exchange, spawn quality
+- Pests: fungus gnats (sticky traps, nematodes), slugs (diatomaceous earth)
+- Storage: refrigerate at 34-38F, store in paper bags (not plastic -- they sweat)
+- Shelf life: 7-10 days refrigerated for most species
+
+The mushroom business fits well into a diversified homestead with [[homestead-herb-business]] products and connects to broader [[fungal-biology-fundamentals|fungi]] and [[fungal-biology-fundamentals|mycology]] knowledge.
+
+## Related
+
+- [[online-homestead-sales]]

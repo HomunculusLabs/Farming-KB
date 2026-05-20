@@ -6,8 +6,7 @@ type: concept
 tags: [mushrooms, nutrients, food, health, fungi, species-profiles, medicine, nutrition]
 sources: []
 ---
-
-## Mushroom Nutrition Guide
+# Mushroom Nutrition Guide
 
 ## Overview
 
@@ -141,10 +140,14 @@ Mushrooms are particularly notable as a source of selenium, providing amounts co
 | Chanterelle | 38 | 1.5 | 3.8 | 0.5 | 7.0 | 2.2 | 0.4 | 4.1 | 100-800 |
 | Morel | 31 | 3.1 | 2.8 | 0.6 | 5.1 | 5.5 | 0.2 | 3.4 | 100-500 |
 
-## See Also
+*Vitamin D content varies enormously based on UV exposure. Commercially grown mushrooms without UV exposure contain negligible vitamin D. Wild-harvested mushrooms contain variable but significant amounts.
 
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[straw-based-mushroom-substrate-preparation]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[straw-mushroom-cultivation]]
-- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]
+### Culinary Species Comparison (Dried, per 100 g)
+
+| Species | Calories | Protein (g) | Fiber (g) | Fat (g) | Beta-Glucans (g) |
+|---------|----------|-------------|-----------|---------|-------------------|
+| Shiitake (dried) | 296 | 9.6 | 11.0 | 0.9 | 5-8 |
+| Porcini (dried) | 262 | 21.0 | 8.0 | 3.8 | 3-6 |
+## See Also
+- [[medicinal-mushroom-guide-agaricus-blazei]]
+- [[medicinal-mushroom-guide-shiitake]]

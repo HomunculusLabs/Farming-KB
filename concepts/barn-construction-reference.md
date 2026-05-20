@@ -1,4 +1,5 @@
 ---
+
 title: Barn Construction Reference
 created: 2026-04-12
 updated: 2026-04-12
@@ -18,7 +19,7 @@ sources:
 - raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md
 ---
 
-## Barn Construction Reference
+# Barn Construction Reference
 
 Ventilation design, roofing options, construction materials, utilities, fire safety, and cost estimates for barn construction. See [[barn-design]] for layout, flooring, and bedding details.
 
@@ -144,3 +145,9 @@ Costs vary enormously by materials, region, and whether you build yourself or hi
 - [[homesteading-infrastructure]] -- overall homestead planning
 
 - [[basic-electrical-for-homestead]]
+- [[preserving-wood-timber-framing]]
+## Related Pages
+
+- [[barn-design]] -- Layout, flooring, and bedding
+- [[natural-building]] -- Sustainable building methods
+- [[homesteading-infrastructure]] -- Overall homestead planning

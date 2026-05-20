@@ -8,7 +8,7 @@ sources:
   - raw/papers/unknown-mycelium-running.md
 ---
 
-## Oyster Mushroom (Pleurotus ostreatus)
+# Oyster Mushroom (Pleurotus ostreatus)
 
 The most versatile and widely used mushroom for both [[mycoremediation-basics]] and [[mushroom-cultivation-basics]]. From [[paul-stamets]]' *Mycelium Running* (2005).
 

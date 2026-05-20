@@ -1,4 +1,5 @@
 ---
+
 title: Cannabis Microbiome Research — Current State and Implications
 created: 2026-04-12
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 ---
 
-## Cannabis Microbiome Research
+# Cannabis Microbiome Research
 
 Cannabis microbiome research is a young but rapidly growing field. The foundational study by Winston et al. (2014) provided the first comprehensive characterization of bacterial communities across the root-soil continuum, but significant questions remain. This page synthesizes what is known, what is uncertain, and the practical implications for living soil cultivation.
 

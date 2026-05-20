@@ -7,7 +7,7 @@ tags: [forage, animal-husbandry, homesteading, regenerative, permaculture, lives
 sources: []
 ---
 
-## Pasture Management
+# Pasture Management
 
 Pasture management is the foundation of any grass-based livestock system.
 Properly managed pastures produce more forage per acre, build soil health,
@@ -140,11 +140,58 @@ plant and soil health.
   - Spring (rapid growth): 14-21 days
   - Early summer: 21-30 days
   - Mid-summer (drought): 30-60+ days
+  - Fall: 30-45 days
+- Rest until plants have 3-4 fully expanded leaves before re-grazing.
 
-## See Also
+### Stockpiling
+- Allow pasture to grow ungrazed in late summer/fall for winter grazing.
+- Tall fescue and orchardgrass stockpile well. Strip-graze with temporary
+  fencing to minimize waste. Can reduce winter hay feeding 30-60 days.
 
-- [[fukuoka-textdoc-natural-livestock-forest-pasture-method]]
-- [[mollison-designers-broadacre-grain-and-pasture-design]]
-- [[permaculture-grazing-and-pasture]]
-- [[pasture-management-and-forage]]
-- [[holistic-grazing-and-pasture-management]]
+## Stocking Density
+
+### Definitions
+- **Stocking rate:** total number of animals per acre for the entire season.
+- **Stocking density:** number of animals per acre at a given moment
+  (in rotational systems, this is much higher than stocking rate).
+
+### Calculating Stocking Rate
+- A 1000 lb cow-calf pair consumes approximately 2.5-3% of body weight in
+  dry matter daily = 25-30 lbs/day.
+- Good pasture produces 5000-10000 lbs of dry matter per acre per year.
+- Rule of thumb: 1-2 cow-calf pairs per acre on improved cool-season pasture.
+- Adjust for: soil fertility, rainfall, forage species, management level.
+
+### Animal Unit Equivalents
+- 1 Animal Unit (AU) = 1000 lb cow.
+- Sheep: 5 sheep = 1 AU.
+- Goats: 5-6 goats = 1 AU.
+- Horse: 1.25 AU.
+- Stocking calculations should be based on total animal units.
+
+### Overstocking Indicators
+- Pasture grazed below 2-3 inches consistently.
+- Weeds increasing (bare soil allows weed germination).
+- Animals losing body condition. Erosion visible.
+- If any of these occur, reduce stocking rate or improve pasture productivity.
+
+## Integrating with Homestead Systems
+
+- Pasture integrates with [[homestead-permaculture-design]] through zone
+  planning and multi-species grazing.
+- Poultry following cattle reduces parasite larvae (birds eat larvae from
+  manure pats).
+- Pigs can be used for pasture renovation (rooting up old sod for reseeding).
+- Manure from confined animals can be composted and applied to pasture.
+- See [[hay-and-forage-management]] for winter feed production from the same
+  land.
+
+## Links
+
+- [[goat-husbandry]]
+- [[sheep-husbandry]]
+- [[cattle-husbandry]]
+- [[livestock-fencing-guide]]
+- [[hay-and-forage-management]]
+- [[livestock-feed-formulation]]
+- [[integrated-homestead-design]]

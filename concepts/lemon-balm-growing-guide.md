@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, companion-planting, poll
 sources: []
 ---
 
-## Lemon Balm Growing Guide (Melissa officinalis)
+# Lemon Balm Growing Guide (Melissa officinalis)
 
 ## Overview
 
@@ -140,11 +140,37 @@ For tea and culinary use:
 - Harvest leaves at any time during the growing season
 - The highest essential oil concentration is just before flowering
 - Cut stems 2-3 inches above the base; the plant will regrow
+- Harvest in the morning after dew has dried for best flavor and potency
+
+For medicinal use:
+- Harvest aerial parts in early to mid-bloom for maximum rosmarinic acid
+  content
+- Cut the top 6-8 inches of the plant
+
+## Drying and Storage
+
+- Bundle stems and hang upside down, or spread leaves on screens
+- Dry in a warm, dark, well-ventilated area (90-100 degrees F in a dehydrator)
+- Lemon balm loses some of its lemon scent during drying but retains
+  medicinal properties
+- Store dried leaves in airtight containers away from light
+- Properly stored, dried lemon balm retains quality for 6-12 months
+- For the freshest flavor, freeze leaves in ice cube trays with water or oil
+
+## Common Issues
+
+Lemon balm is generally pest and disease resistant. Watch for:
+- Powdery mildew: Improve air circulation; avoid overhead watering
+- Spider mites: Common in dry, hot conditions; increase humidity
+- Rust: Remove affected leaves; avoid crowding
+- Slugs: May damage young growth; use organic slug controls
 
 ## See Also
 
-- [[lemon-cannabis-alchemy-historical-perspective-and-references]]
-- [[super-lemon-haze]]
-- [[oner-super-lemon-haze-greenhouse-strain-profile]]
-- [[lemon-cannabis-alchemy-oil-capsules]]
-- [[comparison-lemon-balm-vs-passionflower]]
+- [[chamomile-growing-guide]] -- pair with lemon balm in calming tea blends
+- [[holy-basil-tulsi-guide]] -- another aromatic medicinal herb for daily
+  wellness teas
+
+## Related
+
+- [[st-johns-wort-guide]]

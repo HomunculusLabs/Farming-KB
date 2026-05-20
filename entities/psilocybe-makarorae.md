@@ -10,7 +10,8 @@ tags:
   - bluing-species
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/mushrooms-demystified-david-arora.md"
 ---
 
 ## Psilocybe makarorae

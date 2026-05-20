@@ -53,12 +53,12 @@ A food processor is generally preferred over a blender because the wider bowl sh
 - Pecan butter: rich, buttery, very soft; processes quickly; expensive but delicious
 - Pistachio butter: vibrant green, complex flavor; excellent for desserts
 - Hazelnut butter: nutella-like; pairs well with chocolate and maple
-- [[macadamia-nut-cultivation-and-uses]] butter: very creamy, high fat; processes very quickly
+- Macadamia nut butter: very creamy, high fat; processes very quickly
 - Brazil nut butter: rich, selenium-rich; strong flavor; use in moderation or blend
 
 ### Seed Butters
 
-- [[oyster-mushroom-sunflower-seed-hull-substrate]] butter (sunbutter): affordable, nut-free alternative; can turn green when combined with baking soda (harmless chemical reaction)
+- Sunflower seed butter (sunbutter): affordable, nut-free alternative; can turn green when combined with baking soda (harmless chemical reaction)
 - Pumpkin seed butter: green color, earthy flavor, very nutritious
 - Tahini (sesame seed butter): essential for hummus; thin, pourable consistency
 - Hemp seed butter: green, high-protein; strongly flavored
@@ -69,7 +69,7 @@ A food processor is generally preferred over a blender because the wider bowl sh
 
 1. **Chunky / crumb stage (1-3 minutes):** Nuts break into small pieces and meal
 2. **Dry ball stage (3-5 minutes):** Meal clumps together into a dry, powdery ball
-3. **Thick paste stage (5-10 minutes):** Ball begins to [[query-can-fungi-break-down-plastic-pollution]] as oils release; paste is thick and grainy
+3. **Thick paste stage (5-10 minutes):** Ball begins to break down as oils release; paste is thick and grainy
 4. **Smooth butter stage (10-20 minutes):** Oils fully release; paste becomes smooth, creamy, and pourable
 
 ### Key Tips
@@ -85,7 +85,7 @@ A food processor is generally preferred over a blender because the wider bowl sh
 Most nuts will become smooth without added oil if processed long enough. However:
 
 - Add 1-2 tablespoons of neutral oil (coconut, avocado, or grapeseed) if processing very dry nuts or if the motor seems to be struggling
-- Raw nuts may need a small amount of oil to [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]]
+- Raw nuts may need a small amount of oil to get started
 - Cashews rarely need added oil due to their high natural fat content
 
 ## Flavoring and Customizing
@@ -93,9 +93,9 @@ Most nuts will become smooth without added oil if processed long enough. However
 ### Sweeteners
 
 - Honey: 1-2 tablespoons per cup of nuts
-- [[maple-syrup-production]]: 1-2 tablespoons
+- Maple syrup: 1-2 tablespoons
 - Coconut sugar or brown sugar: 1-2 tablespoons
-- Stevia or [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]]: for sugar-free options
+- Stevia or monk fruit: for sugar-free options
 - Dates: blend a few dates into the butter for natural sweetness and texture
 - Powdered sugar: dissolves more easily than granulated
 

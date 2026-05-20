@@ -4,11 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, cultivation, species, food, asia, agriculture, composting]
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+sources: []
 ---
 
-## Paddy Straw Mushroom (Volvariella volvacea)
+# Paddy Straw Mushroom (Volvariella volvacea)
 
 The Paddy Straw Mushroom is a tropical and subtropical edible mushroom that is one of the most cultivated mushrooms in Southeast Asia and other warm-climate regions. Named for its traditional cultivation on rice straw, it is an important food source and cash crop in tropical agriculture systems.
 
@@ -142,9 +141,28 @@ Paddy straw mushroom is extremely perishable:
 - Drying: possible but quality is inferior
 - Freezing: blanch first, then freeze for up to 3 months
 
-## See Also
+The cold sensitivity is a significant challenge for distribution. Refrigeration at standard mushroom storage temperatures (35-38 F) causes chilling injury: browning, softening, and off-flavors. Ideal storage is 50-55 F — warmer than typical refrigeration.
 
-- [[comparison-paddy-straw-vs-wine-cap-cultivation]]
-- [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]]
-- [[integrated-paddy-rice-and-tree-system]]
-- [[fukuoka-traditional-paddy-construction]]
+## Nutritional Value
+
+- Protein: 2.5-3.5g per 100g fresh (relatively high for a vegetable)
+- Good source of B vitamins (niacin, thiamin, riboflavin)
+- Contains vitamin C (unusual for mushrooms)
+- Low in calories and fat
+- Good dietary fiber content
+- Contains ergothioneine and other antioxidants
+
+## Common Problems
+
+- Low yield: poor substrate preparation or inadequate pasteurization
+- Contamination: green mold, bacterial soft rot — improve pasteurization
+- No fruiting: temperature too low or humidity too low
+- Small mushrooms: insufficient nutrition or over-picking at egg stage
+- Rapid spoilage: expected; minimize time between harvest and consumption
+- Pest insects: nematodes, flies — maintain clean growing area
+
+## Related Topics
+
+- [[oyster-mushroom-species-guide]] for comparison with heat-tolerant Pleurotus species
+- [[nameko-cultivation]] for another Asian commercially important mushroom
+- [[shiitake-cultivation-guide]] for temperate mushroom cultivation methods

@@ -8,13 +8,13 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-## Fungal Ecology in Extreme Environments
+# Fungal Ecology in Extreme Environments
 
 How fungi survive and function in extreme habitats: deserts, polar regions, deep sea, acidic and alkaline environments, and heavy metal-contaminated sites. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-biodiversity]], [[fungal-nutrient-cycling-mineral-transformations]], and [[endophytic-fungi]].
 
 ## Overview
 
-Fungi are remarkably adaptable organisms that colonize virtually every environment on Earth, including many considered "extreme" for most life forms. Their ability to tolerate environmental stresses -- through physiological adaptation, biochemical innovation, and genetic plasticity -- makes them key organisms in some of the planet's harshest habitats. Geoffrey Gadd's research group has been instrumental in characterizing [[fungal-stress-responses]] and metal-microbe interactions in extreme environments.
+Fungi are remarkably adaptable organisms that colonize virtually every environment on Earth, including many considered "extreme" for most life forms. Their ability to tolerate environmental stresses -- through physiological adaptation, biochemical innovation, and genetic plasticity -- makes them key organisms in some of the planet's harshest habitats. Geoffrey Gadd's research group has been instrumental in characterizing fungal stress responses and metal-microbe interactions in extreme environments.
 
 ## Desert Fungi
 
@@ -147,3 +147,24 @@ Fungi are among the first organisms to colonize bare rock surfaces:
 - **Thermophilic fungi**: Species growing at temperatures above 40C. *Thermomyces lanuginosus* is a well-studied thermophile producing thermostable enzymes. *Myceliophthora thermophila* grows up to 55C.
 - **Geothermal soils**: Fungi in geothermal areas show zonation with temperature. Thermophilic species occupy the hottest zones, while mesophiles dominate cooler areas.
 - **Compost fungi**: Thermophilic fungi are important in the self-heating phase of composting, where temperatures reach 50-70C. *Scytalidium thermophilum* is a key species in mushroom compost.
+
+## Ecosystem Significance of Extreme-Environment Fungi
+
+1. **Primary succession**: Fungi are often the first colonizers of newly exposed substrates (volcanic rock, mine spoil, glacial moraine), initiating soil development and nutrient accumulation.
+
+2. **Biogeochemical cycling**: Even in extreme environments, fungi drive decomposition, nutrient mineralization, and element transformations.
+
+3. **Climate indicators**: Changes in fungal community composition in extreme environments can serve as early indicators of climate change, particularly in polar and alpine regions.
+
+4. **Biotechnological potential**: Extremophilic fungi are sources of novel enzymes (thermostable, cold-active, salt-tolerant) and bioactive compounds with pharmaceutical and industrial applications.
+
+5. **Ecosystem resilience**: The ability of fungi to survive extreme conditions and rapidly resume activity when conditions improve provides ecosystem resilience against disturbance.
+
+## Related Pages
+
+- [[fungal-biodiversity]] -- species diversity and biogeography
+- [[fungal-nutrient-cycling-mineral-transformations]] -- mineral transformations
+- [[endophytic-fungi]] -- fungi inside plant tissues
+- [[lichens]] -- fungal-algal symbioses
+- [[mycoremediation-of-heavy-metals]] -- fungal metal bioremediation
+- [[geoffrey-gadd]] -- geomycology and extremophile research

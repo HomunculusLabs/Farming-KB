@@ -141,10 +141,24 @@ Tinctures can be flavored with:
 - **Terpenes**: Add strain-specific or botanical terpenes for flavor and effect enhancement
 - **Cinnamon, ginger, or chamomile**: Steep with the cannabis during extraction
 
-## See Also
+## Storage
 
-- [[cannabis-cultivar-microbiome-specificity]]
-- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
-- [[cannabis-and-endometriosis]]
-- [[blesching-cannabis-immune-system-modulation]]
-- [[cannabis-seed-germination-viability-breeding-clarke]]
+- Store all tinctures in dark glass bottles (amber or cobalt)
+- Keep in a cool, dark place
+- Alcohol tinctures: shelf stable at room temperature for 1-2 years
+- Glycerin tinctures: 6-12 months at room temperature
+- MCT oil tinctures: 3-6 months; do not refrigerate
+- Label with strain, date, estimated potency, and solvent type
+
+## Tincture vs Edible Comparison
+
+| Aspect | Tincture (Sublingual) | Edible |
+|---|---|---|
+| Onset | 15-45 minutes | 1-2 hours |
+| Duration | 2-4 hours | 4-8 hours |
+| Dose precision | High (measurable drops) | Variable (distribution in food) |
+| Discretion | High (small bottle, no smell) | Moderate |
+| First-pass metabolism | Bypassed (sublingual) | Yes (liver processing) |
+| Shelf life | Long (especially alcohol) | Variable |
+
+For edible preparation methods, see [[cannabis-edibles-guide]]. For the decarboxylation process shared with [[cannabis-extraction-basics]], ensure proper temperature control. Understanding [[cannabis-concentrates-types]] can also help when choosing input material for tinctures.

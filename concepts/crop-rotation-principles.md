@@ -7,7 +7,7 @@ tags: [agriculture, regenerative, cover-crop, nutrient-cycling, soil, plant-syst
 sources: []
 ---
 
-## Crop Rotation Principles
+# Crop Rotation Principles
 
 Crop rotation is the practice of growing different types of crops in sequential seasons on the same land. It is one of the oldest and most effective agricultural practices, reducing pest pressure, breaking disease cycles, balancing nutrient demands, and improving soil health.
 
@@ -148,3 +148,29 @@ This is the fundamental rule. Tomatoes should never follow potatoes (both Solana
 | Winter | Cover crop holds | Cover crop winter-kills | Cover crop holds | Cover crop holds |
 
 ### Intensive Market Garden Rotation
+
+For small plots with intensive production, use succession planting within rotation families:
+
+1. Early spring: Peas (legume) → Summer: Peppers (nightshade) → Fall: Garlic (allium)
+2. Early spring: Lettuce (composite) → Summer: Squash (cucurbit) → Fall: Cover crop
+3. Early spring: Radish (brassica) → Summer: Beans (legume) → Fall: Broccoli (brassica) → Winter: Cover crop
+
+## Intercropping Within Rotations
+
+[[companion-planting-reference]] and [[companion-planting-reference]] can be combined with rotation. For example, plant beans (legumes) between corn rows (heavy feeder) in the same season while still rotating the plot to a different family the following year.
+
+## Common Mistakes
+
+- Rotating by crop name rather than botanical family (e.g., thinking carrots and potatoes are unrelated)
+- Rotating within the same family (e.g., cabbage → broccoli → kale)
+- Skipping the cover crop/fallow phase
+- Ignoring disease history when planning rotations
+- Making the rotation too complex to follow — start with 3-4 plots and simple family groups
+
+## Related Topics
+
+- [[cover-cropping-guide]] for cover crop selection within rotations
+- [[green-manure-crops]] for fertility-building rotation entries
+- [[companion-planting-reference]] for beneficial plant pairings within rotation plots
+- [[companion-planting-reference]] for growing multiple crops simultaneously
+- [[insect-allies]] for rotation strategies against nematodes

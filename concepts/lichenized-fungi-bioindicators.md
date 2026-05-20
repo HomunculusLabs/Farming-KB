@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [/wiki/raw/papers/urban-permaculture-guerilla-gardening.md]
 ---
 ## Lichenized Fungi as Bioindicators Lichens are among the most sensitive and widely used bioindicators of air quality and environmental change. Their dual nature as fungal-algal symbioses makes them responsive to atmospheric conditions while being relatively easy to survey. [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
 

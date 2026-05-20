@@ -1,5 +1,6 @@
 ---
-title: "Fermented Plant Extract Fpe"
+
+title: Fermented Plant Extract (FPE) — FPJ & FFJ
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -22,24 +23,23 @@ sources:
 - raw/papers/chos-global-natural-farming.md
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
+# Fermented Plant Extract (FPE)
 
-## Fermented Plant Extract (FPE)
-
-[[fermented-plant-juice|Fermented Plant Juice]] (FPJ) and [[bionutrients-lab-fermented-fruit-juice-ffj]] (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
+Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
 
 FPJ and FFJ are functionally the same process — FPJ uses vegetative plant parts, FFJ uses fruits. The key difference is the sugar content and stage of the source plant.
 
 ## FPJ — Fermented Plant Juice
 
 ### Purpose
-Provides energy, nitrogen, enzymes, and [[gibberellins-plant-growth-hormones]]. Fuels vegetative growth and overall plant vitality. Different plants contribute different properties — see plant selection below.
+Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels vegetative growth and overall plant vitality. Different plants contribute different properties — see plant selection below.
 
 ### Plant Selection (Cho's Guidelines)
 
 **Choose plants that grow vigorously** in your local environment — these are naturally adapted and nutrient-rich:
 
 **Vegetative growth FPJ** (nitrogen-rich, for leafy growth):
-- Mugwort (Artemisia) — excellent general-purpose FPJ, high in minerals and [[cotter-mushroom-nutrition-medicinal-compounds]]
+- Mugwort (Artemisia) — excellent general-purpose FPJ, high in minerals and medicinal compounds
 - Bamboo shoots — vigorous growth, high silicon
 - Arrowroot — strong vegetative energy
 - Fast-growing wild grasses and weeds
@@ -47,7 +47,7 @@ Provides energy, nitrogen, enzymes, and [[gibberellins-plant-growth-hormones]]. 
 - Sweet potato vines
 - Duckweed — very fast growing, high protein
 
-**[[knf-reproductive-growth-stage]] FPJ/FFJ** (for flowering/fruiting):
+**Reproductive growth FPJ/FFJ** (for flowering/fruiting):
 - Pumpkin/squash vines
 - Yam leaves
 - Tomato plant tips
@@ -71,7 +71,7 @@ Provides energy, nitrogen, enzymes, and [[gibberellins-plant-growth-hormones]]. 
 
 **Process**:
 1. **Harvest at dawn** (before sunrise) when plant sugars and energy are highest — plants produce maximum nutrients during night via photosynthesis, peaking at dawn
-2. Do NOT wash the plant material — washing removes the [[beneficial-indigenous-microorganisms]] on leaf surfaces that drive fermentation
+2. Do NOT wash the plant material — washing removes the indigenous microorganisms on leaf surfaces that drive fermentation
 3. Shake off dust gently if needed
 4. Chop or crush plant material to increase surface area (do not blend — preserves microbial diversity)
 5. Alternate layers of plant material and sugar in the jar
@@ -144,3 +144,9 @@ Same process as FPJ but with fruit:
 ## BRV — Brown Rice Vinegar (Natural Acetic Acid)
 
 A separate KNF input that functions as both a nutrient source and an extraction solvent. See [[brown-rice-vinegar-brv]] for full recipe.
+
+Key uses with FPJ/FFJ:
+- Extracts calcium from eggshells (see [[water-soluble-calcium-wca]])
+- Extracts calcium phosphate from bones (see [[water-soluble-calcium-phosphate-wcp]])
+## See Also
+

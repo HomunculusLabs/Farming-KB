@@ -140,11 +140,32 @@ Traditional serving:
 - Add raw egg (tamago kake gohan style) for extra richness
 
 Other uses:
+- Natto sushi rolls (natto maki)
+- Mixed with okra or kimchi for extra texture
+- Natto spaghetti (natto pasta)
+- On toast or crackers
+- Blended into smoothies (for the adventurous)
+
+## Nutritional Profile
+
+- High-quality complete protein (roughly 18g per 100g serving)
+- Vitamin K2 (MK-7) — 100g provides well over the daily recommended intake
+- Nattokinase — potential cardiovascular benefits (fibrinolytic enzyme)
+- Probiotics — Bacillus subtilis supports gut health
+- Iron, calcium, magnesium, potassium
+- Vitamin C (produced during fermentation, not present in raw soybeans)
+- Enzymes that improve digestibility of soy proteins
+
+## Troubleshooting
+
+- No ammonia smell — fermentation temperature was too low or beans were not inoculated properly
+- Too strong / overpowering smell — over-fermented; reduce time or temperature slightly
+- Not sticky — beans may be undercooked, or insufficient fermentation time; ensure 24-48 hours refrigeration aging
+- Bean texture too hard — cook longer; beans must be very soft before inoculation
+- Slimy or rotten smell (not ammonia) — contamination from other bacteria; discard
 
 ## See Also
 
-- [[comparison-miso-vs-natto]]
-- [[compost-making-methods-solomon]]
-- [[granola-making]]
-- [[mushroom-spawn-making-pure-culture]]
-- [[pickle-making]]
+- [[tempeh-making]] — fermented soybeans using fungal culture
+- [[miso-making]] — fermented soybean paste using koji
+- [[kimchi-making]] — another traditional fermented food with distinct texture and flavor

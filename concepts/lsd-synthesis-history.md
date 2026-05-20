@@ -7,7 +7,7 @@ tags: [entheogen, history, chemistry, psychopharmacology, counterculture, pharma
 sources: []
 ---
 
-## LSD Synthesis History
+# LSD Synthesis History
 
 ## Overview
 
@@ -113,11 +113,5 @@ LSD remains culturally significant in art, music, literature, and technology cul
 
 - [[psychedelic-plants-legal-status]] — current legal status of LSD and other psychedelics
 - [[psilocybin-extraction-guide]] — extraction methods for psilocybin, another classic psychedelic
-
 ## See Also
-
-- [[thc-isomerization-and-acetate-synthesis]]
-- [[psilocybin-chemical-synthesis]]
-- [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
-- [[shirota-4-acetylindole-crystallization-nmr-characterization-synthesis]]
-- [[psilocin-psilocybin-synthesis-shirota]]
+- [[blue-lotus-history]]

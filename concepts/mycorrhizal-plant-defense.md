@@ -8,7 +8,7 @@ sources:
   - raw/papers/unknown-mycelium-running.md
 ---
 
-## Mycorrhizal Plant Defense
+# Mycorrhizal Plant Defense
 
 How mycorrhizal and endophytic fungi protect plants from diseases, pests, and environmental stress. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[mycorrhizal-fungi]], [[endophytic-fungi]], [[plant-defense-mechanisms]], and [[fungal-symbiosis-types]].
 
@@ -142,6 +142,15 @@ Stamets discusses endophytic fungi that live INSIDE plant tissues:
 
 ## See Also
 
-- [[mycorrhizal-plant-nutrition-and-ecosystem-sustainability]]
-- [[mycorrhizal-plant-pathogen-biocontrol]]
-- [[mycorrhizal-plant-pathogen-interactions]]
+- [[mycorrhizal-fungi]] for comprehensive mycorrhizal coverage
+- [[mycorrhizal-types]] for endo/ecto/ericoid/orchid types
+- [[mycorrhizal-networks]] for network architecture and forest intelligence
+- [[endophytic-fungi]] for internal fungal symbionts
+- [[plant-defense-mechanisms]] for the full plant defense picture
+- [[fungal-symbiosis-types]] for the symbiosis spectrum
+- [[mycoforestry-forest-restoration]] for practical inoculation methods
+- [[soil-food-web-nutrient-cycling]] for the soil biology context
+
+## Related
+
+- [[fungal-plant-diseases]]

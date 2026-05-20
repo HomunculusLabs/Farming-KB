@@ -14,7 +14,7 @@ sources:
 - raw/papers/the-mushroom-cultivator-stamets.md
 ---
 
-## Mushroom Cultivation History
+# Mushroom Cultivation History
 
 Chronological development of mushroom cultivation from ancient Asian log culture
 to modern sterile technique and home growing.
@@ -148,3 +148,11 @@ The late 20th and 21st centuries of mushroom cultivation — from species divers
 ## Related Pages
 
 - mushroom cultivation history — late 20th century through present
+- [[historical-mushroom-cultivation]] — detailed cultivation history concept page
+- [[mushroom-cultivation-basics]] — modern 10-step cultivation process
+- [[mushroom-cultivation-methods]] — side-by-side method comparison
+- [[pf-tek-guide]] — complete PF TEK documentation
+- [[mushroom-species-guide]] — species profiles with cultivation parameters
+- [[mushroom-grow-equipment]] — complete equipment guide with costs
+- [[mushroom-substrate-comparison]] — substrate options compared
+- [[peter-oei]]

@@ -7,7 +7,7 @@ tags: [medicine, plants, health, homesteading, homestead-crafts, recipe]
 sources: []
 ---
 
-## Herbal Tinctures Guide
+# Herbal Tinctures Guide
 
 Tinctures are concentrated liquid herbal extracts made by soaking plant material in alcohol (or glycerin) to extract medicinal compounds. They are the backbone of a home herbal apothecary — portable, long-lasting, fast-acting, and potent.
 
@@ -141,10 +141,48 @@ Requires practice to get the drip rate right. Produces clearer, more standardize
 
 Standard adult dose: 20-60 drops (1/4 to 1 dropperful), 2-4 times daily.
 
+### By Body Weight (General Guideline)
+
+- Under 150 lbs: 20-30 drops
+- 150-200 lbs: 30-50 drops
+- Over 200 lbs: 50-60 drops
+
+### Administration
+
+- Drop directly under the tongue for fastest absorption
+- Add to 1-2 oz of water or juice
+- Add to warm tea (allow to cool slightly to avoid alcohol evaporation)
+- Do not add to boiling water
+
+## Acute vs. Chronic Dosing
+
+- **Acute conditions** (colds, cramps, injuries): Take every 2-4 hours for 1-3 days
+- **Chronic conditions** (allergies, anxiety, inflammation): Take 2-3x daily for weeks to months
+- **Tonic herbs** (adaptogens, nutritives): Take consistently for 3-6 months minimum
+
+## Combining Tinctures
+
+Tinctures can be combined in the same bottle for formula preparations:
+
+- **Cold/flu formula**: Echinacea + elderberry + ginger
+- **Stress formula**: Valerian + lemon balm + skullcap
+- **Digestive formula**: Peppermint + ginger + fennel
+- **Immune tonic**: Echinacea + astragalus + reishi
+
+## Storage and Labeling
+
+- Store in amber glass bottles away from heat and light
+- Label with: herb name, plant part, ratio, alcohol %, date made
+- Alcohol tinctures: 2-5 years (longer if properly stored)
+- Glycerites: 1-2 years
+- Discard if mold appears, smell changes, or precipitate forms
+
 ## See Also
 
-- [[bionutrients-lab-oriental-herbal-nutrients-ohn]]
-- [[emcdda-herbal-highs-branding-smartshop-marketing-hallucinogenic-mushrooms]]
-- [[ultra-low-herbal-smoker-greenhouse-pest-control]]
-- [[herbal-actions-and-energetics]]
-- [[herbal-baths-and-hydrotherapy]]
+- [[herbal-medicine]] — Individual herb profiles and preparations
+- [[herbal-salves-and-balms]] — Topical herbal preparations
+- [[herbal-medicine]] — Complete herbal medicine guide for the homestead
+
+## Related
+
+- [[natural-dye-plants]]

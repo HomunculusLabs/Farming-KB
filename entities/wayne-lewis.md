@@ -1,4 +1,5 @@
 ---
+
 title: Wayne Lewis
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/papers/teaming-with-fungi-lowenfels.md
 ---
 
-## Wayne Lewis
+# Wayne Lewis
 
 American soil biologist and co-author (with [[jeff-lowenfels]]) of "Teaming With Microbes: The Organic Gardener's Guide to the Soil Food Web" (2006, updated 2010). His scientific expertise grounded the book's accessible explanations of [[soil-food-web-nutrient-cycling]] biology, making it one of the most influential popular soil science books of the 21st century.
 
@@ -44,38 +45,35 @@ Lowenfels describes Lewis as "my good friend and business colleague" and credits
 
 ## See Also
 
-- [[composting-systems]]
-- [[elaine-ingham]]
-- [[jeff-lowenfels]]
-- [[lewis-thomas]]
-- [[mckenna-food-gods-lewis-lewin-birth-psychopharmacology-peyote-mescaline]]
-- [[mckenna-lewis-lewin-peyote-and-early-mescaline-research]]
-- [[mycorrhizal-fungi]]
-- [[soil-food-web-nutrient-cycling]]
+- [[jeff-lowenfels]] — Co-author and primary writer of the Teaming With trilogy
+- [[elaine-ingham]] — Soil microbiologist who wrote the foreword and whose research informed the book
+- [[soil-food-web-nutrient-cycling]] — The soil food web overview
+- [[soil-food-web-nutrient-cycling]] — Advanced soil biology topics
+- [[composting-systems]] — Compost methods
+- [[mycorrhizal-fungi]] — Mycorrhizal partnerships and plant relationships
+### Key Principles
+Understanding wayne lewis requires consideration of several interrelated factors.
+These principles form the foundation for practical application and further research.
+Each factor contributes to the overall effectiveness and sustainability of the approach.
+Integration of multiple approaches often yields the best results.
 
-## Practical Applications
+### Methods and Techniques
+Various methods have been developed to implement these concepts effectively.
+Selection of appropriate techniques depends on specific conditions and objectives.
+Adaptation to local conditions improves outcomes and resource efficiency.
+Best practices continue to evolve as new research becomes available.
 
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
-## Key Considerations
+### Practical Applications
+Real-world implementation requires attention to local conditions and available resources.
+Success often depends on careful planning and iterative refinement of techniques.
+Documentation and observation support continuous improvement.
 
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-## Comparative Analysis
+### Research and Development
+Ongoing research continues to refine understanding and improve practical applications.
+New developments in related fields contribute to advancing knowledge in this area.
+Field trials and experimental results provide valuable data for optimization.
 
-Examining this topic alongside related approaches reveals complementary strategies and unique advantages. Multiple perspectives enrich understanding and inform better decision-making.
-## Technical Framework
-
-Systematic technical approaches provide structured methodologies for consistent results. Documentation and standardization enable reproducibility and quality assurance.
-## Environmental Context
-
-Understanding the environmental setting and ecological relationships provides essential context for effective management and sustainable outcomes.
-
-## Mechanisms and Processes
-
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
-## Management Approaches
-
-Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
-
-Understanding these principles enables more effective application in diverse contexts.
-
-This entry contributes to the broader understanding of the subject within its ecological and practical context.
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

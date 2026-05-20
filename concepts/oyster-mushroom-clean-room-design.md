@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, cultivation, mushrooms]
-sources: []
+sources: [oyster-mushroom-cultivation.md]
 ---
 ## Oyster Mushroom Clean Room Design for Spawn Production A clean room provides a hygienically sterile enclosed airspace where mushroom mycelium can be isolated from competing organisms. This page describes a simple, low-cost clean room design suitable for teaching, learning, and experimenting with [[cuthill-mushroom-spawn-preparation-historical]] production**, but is excellent for small-scale growers producing their own spawn.
 

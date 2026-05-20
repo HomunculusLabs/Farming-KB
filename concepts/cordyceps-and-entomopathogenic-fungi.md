@@ -7,7 +7,7 @@ tags: [fungi, mycology, biology, ecology, entomopathogenic, pesticide, agricultu
 sources: []
 ---
 
-## Cordyceps and Entomopathogenic Fungi
+# Cordyceps and Entomopathogenic Fungi
 
 Entomopathogenic fungi are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in biological pest control.
 
@@ -140,11 +140,40 @@ Formerly considered part of M. anisopliae, now recognized as a separate species.
 ### Conidial Sprays
 - Most common method: spray conidial suspensions onto crops or directly onto pests
 - Application timing critical: target susceptible life stages
+- Formulation with UV-protectants and humectants improves field persistence
+- Standard application rates: 10^12-10^13 conidia per hectare
 
+### Attract-and-Infect (Auto-dissemination)
+- Stations containing fungal spores are placed in the environment
+- Insects are attracted to the station, pick up conidia, and spread them to nestmates
+- Used successfully for termites and cockroaches
+- Reduces total amount of inoculum needed
+
+### Soil Application
+- Granular or liquid formulations applied to soil for control of soil-dwelling pests
+- Effective against white grubs, wireworms, and root weevils
+- Persistence in soil varies from weeks to months depending on conditions
+
+## Limitations and Challenges
+
+- Environmental sensitivity: temperature, humidity, and UV radiation affect efficacy
+- Slower action than chemical insecticides (days to weeks)
+- Storage and shelf life: conidia lose viability over time, requiring cold storage
+- Production costs: solid-state or liquid fermentation required
+- Regulatory hurdles: biopesticide registration can be lengthy and expensive
+- Variability in field performance compared to controlled conditions
+
+## Research Frontiers
+
+- Genetic engineering for enhanced virulence and environmental tolerance
+- Combination products (entomopathogenic fungi + sublethal insecticides for synergistic effects)
+- Endophytic use: inoculating plants with entomopathogenic fungi for systemic protection
+- Metarhizium-based malaria mosquito control (especially in Africa)
+- Understanding the fungal manipulation of insect behavior at the molecular level
+- Discovery of new species and strains from understudied ecosystems
+
+## Related
+
+- [[fungal-biology-fundamentals]]
 ## See Also
-
-- [[bloomfield-cordyceps-ascospore-fragmentation-multi-segment-fungal-missiles]]
-- [[ergot-fungi-claviceps-and-cordyceps-as-neurotropic-organisms]]
-- [[cordyceps-neurotropic-fungi-mexican-indigenous-ceremonies]]
-- [[cordyceps-sinensis]]
-- [[cordyceps-insect-pathogenic-fungi]]
+- [[cordyceps-claviceps-sacred-neurotropic-fungi-mexico]]

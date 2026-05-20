@@ -7,7 +7,7 @@ tags: [conservation, wildlife, pest-control, species, ecology]
 sources: []
 ---
 
-## Bat Conservation and Housing
+# Bat Conservation and Housing
 
 ## Overview
 
@@ -140,10 +140,39 @@ White-nose syndrome (WNS) is a devastating fungal disease of hibernating bats:
 ### Species Susceptibility
 Not all bat species are equally affected:
 
-## See Also
+- **Most susceptible**: Little brown bat, northern long-eared bat, tricolored bat, Indiana bat (mortality 90-100%)
+- **Moderately susceptible**: Big brown bat, eastern small-footed myotis (mortality 30-70%)
+- **Less susceptible**: Mexican free-tailed bat, silver-haired bat, eastern red bat (migrate rather than hibernate; lower exposure)
+- **Resistant**: Some European bat species coexist with Pd; research into resistance mechanisms ongoing
 
-- [[knf-seed-diversity-and-conservation]]
-- [[desert-house-water-energy-conservation]]
-- [[homestead-energy-conservation]]
-- [[keyline-water-conservation-settlement-design]]
-- [[natfarm-swale-water-conservation]]
+### What You Can Do
+- Install bat houses to provide alternative summer roosting habitat
+- Avoid disturbing hibernating bats in caves and mines (decontaminate gear between sites)
+- Report unusual bat behavior or mortality to state wildlife agencies
+- Support research and conservation organizations working on WNS
+- Maintain and protect summer foraging habitat to support surviving populations
+- Never handle bats with bare hands; bats can carry rabies (though prevalence is very low, approximately 1%)
+
+## Bat-Friendly Practices
+
+### Creating Bat Foraging Habitat
+- **Preserve open water**: Ponds, streams, and wetlands provide drinking water and concentrate insect prey
+- **Reduce light pollution**: Excessive outdoor lighting disrupts bat foraging and navigation; use motion-sensor lights
+- **Maintain native vegetation**: Diverse plant communities support diverse insect populations; see [[pollinator-conservation]]
+- **Avoid pesticide use**: Chemical insecticides reduce bat prey availability and can directly poison bats through bioaccumulation; see [[integrated-pest-management|pest management]] for alternatives
+- **Preserve dead trees**: Snags provide roosting habitat for species that do not use bat houses
+
+### Bat Exclusion (Humanely Removing Bats from Buildings)
+If bats are roosting in unwanted locations:
+
+- Never exclude bats during maternity season (May-August) when flightless young are present
+- Install one-way exclusion devices (bat cones or netting) over entry points
+- Seal all entry points after bats have exited (1/4 inch gaps or larger)
+- Install a bat house nearby before exclusion to provide alternative roosting habitat
+- Timing: Exclusion should be done in early spring (before maternity season) or early fall (after young can fly)
+
+### Legal Protection
+- All bat species in the US are protected by state wildlife laws
+- Federally endangered species (Indiana bat, gray bat, Virginia big-eared bat, northern long-eared bat) have additional protections under the Endangered Species Act
+- Harming, killing, or possessing bats without permits is illegal in most states
+- Contact your state wildlife agency before conducting any bat exclusion or management activities

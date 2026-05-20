@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Breeding Basics"
+title: Cannabis Breeding Basics
 created: 2026-04-12
 updated: 2026-04-13
 type: concept
@@ -8,11 +8,11 @@ sources:
 - raw/papers/vic-high-creating-true-breeding-strains.md
 ---
 
-## Cannabis Breeding Basics
+# Cannabis Breeding Basics
 
 ## Overview
 
-Cannabis breeding is the deliberate crossing of cannabis plants to combine desirable traits from parent strains into new varieties. Whether you are creating [[marijuana-strain-guide-hybrid|hybrid]] strains, preserving [[marijuana-strain-guide-sativa|sativa]] or [[marijuana-strain-guide-indica|indica]] landrace genetics, or developing unique expressions for [[cannabis-seed-banks-and-genetics|seed bank]] distribution, understanding [[oner-cannabis-breeding-fundamentals]] is essential. At its core, breeding is about manipulating gene frequencies — the ratio of desired genes within a population. The higher the frequency, the more uniform and true-breeding the population becomes. A trait is considered "fixed" when its gene frequency reaches 100%.
+Cannabis breeding is the deliberate crossing of cannabis plants to combine desirable traits from parent strains into new varieties. Whether you are creating [[marijuana-strain-guide-hybrid|hybrid]] strains, preserving [[marijuana-strain-guide-sativa|sativa]] or [[marijuana-strain-guide-indica|indica]] landrace genetics, or developing unique expressions for [[cannabis-seed-banks-and-genetics|seed bank]] distribution, understanding breeding fundamentals is essential. At its core, breeding is about manipulating gene frequencies — the ratio of desired genes within a population. The higher the frequency, the more uniform and true-breeding the population becomes. A trait is considered "fixed" when its gene frequency reaches 100%.
 
 ## Cannabis Plant Sex and Reproduction
 
@@ -28,13 +28,13 @@ Male plants produce pollen sacs rather than flowers. They are essential for bree
 
 ### Hermaphrodites
 
-Plants that develop both male and female sex organs. Usually caused by stress (light leaks, temperature extremes, [[query-how-to-read-cannabis-plants-for-nutrient-problems]]). Hermaphrodites are generally undesirable as they can pollinate an entire crop. Some breeders use induced hermaphroditism (rodelization) as a breeding technique.
+Plants that develop both male and female sex organs. Usually caused by stress (light leaks, temperature extremes, nutrient problems). Hermaphrodites are generally undesirable as they can pollinate an entire crop. Some breeders use induced hermaphroditism (rodelization) as a breeding technique.
 
 ## Pollen Collection and Storage
 
 ### Collecting Pollen
 
-Pollen collection requires careful [[jadam-pesticide-spray-timing-and-technique]]:
+Pollen collection requires careful timing and technique:
 
 1. Isolate male plants in a separate space before pollen sacs open
 2. Place a collection container (glass jar or paper bag) over flowering branches
@@ -54,11 +54,11 @@ Properly stored pollen remains viable for extended periods:
 
 ## Making a Cross
 
-The basic process of crossing two [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]:
+The basic process of crossing two cannabis strains:
 
 ### Select Parent Plants
 
-Choose a male and female with complementary traits. The male contributes 50% of the genetic material (vigor, pest resistance, branching, terpenes). The female contributes the other 50% (bud structure, flowering time, [[cannabis-glandular-trichome-types-resin-production-clarke]]). The male should release pollen 2-3 weeks before the female is fully receptive.
+Choose a male and female with complementary traits. The male contributes 50% of the genetic material (vigor, pest resistance, branching, terpenes). The female contributes the other 50% (bud structure, flowering time, resin production). The male should release pollen 2-3 weeks before the female is fully receptive.
 
 ### Pollination and Seed Harvest
 
@@ -148,3 +148,38 @@ Recessive traits are actually easier to fix through generational inbreeding:
 
 - The individual showing the recessive trait must be homozygous (pp)
 - In the F2 generation, 25% of offspring will express the recessive trait
+- With full-sib selection (both parents chosen), you can achieve 100% true breeding by F3: cross pp × pp = all pp
+- With half-sib selection (males random), it takes to F5 to reach 87.5% true breeding — same as cubing
+
+### Mathematical Shortcut for Gene Frequencies
+
+Instead of drawing full Punnett squares, use the gene frequency notation. If your breeding population's genotype is expressed as `3P2p × 3P5p`, the cross result is: multiply each term across (3×3)PP + (3×5)Pp + (2×3)Pp + (2×5)pp = 9PP + 15Pp + 6Pp + 10pp. The total offspring = (3+2)×(3+5) = 40. This scales to any complexity without drawing grids.
+
+## Feminized Seeds
+
+Feminized seeds produce only female plants, eliminating the need to identify and remove males.
+
+### Colloidal Silver Method
+
+1. Apply colloidal silver solution (50-80 PPM) to female plant branches daily for 2-3 weeks
+2. Treated branches develop male pollen sacs (hermaphroditic response)
+3. Collect "feminized" pollen from treated branches
+4. Use this pollen to pollinate another female plant
+5. Resulting seeds are ~99% female (XX chromosomes only)
+
+### Rodelization
+
+A natural technique where a female plant is left unpollinated past its normal harvest window. In response, some plants produce male pollen sacs. This pollen contains only X chromosomes and produces female-only seeds. Less reliable than colloidal silver.
+
+## Naming Conventions
+
+Strain naming follows loose conventions: descriptive (Sour Diesel, Blueberry), geographic (Hindu Kush, Thai), honoring breeders (Jack Herer, DJ Short Blueberry), creative (Gorilla Glue, Girl Scout Cookies), or lineage references (Triangle Mints #23).
+
+## Ethical and Legal Considerations
+
+Check [[cannabis-regulations-by-state|local regulations]] regarding seed production and plant counts. Respect breeder intellectual property, document your program thoroughly, and maintain proper [[cannabis-testing-and-quality|testing]] protocols.
+
+## Related
+
+- [[cannabis-seed-germination]]
+- [[vic-high]]

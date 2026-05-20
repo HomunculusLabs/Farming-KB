@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Fungal Bioreactors for Phenol and Chlorophenol Removal Fungal bioreactors have been developed for the removal of phenols, chlorophenols, and pentachlorophenol (PCP). These bioreactors remain largely in the developmental phase, with scaling challenges related to different optimum operating conditions. Logan et al. (1994) identified key design considerations: long detention times (10-40 days from inoculation to complete PCP removal), case-by-case study of chemical adsorption, and the significance of system design for producing shallow fluid interfaces. The treatment of phenolic wastewaters is a significant environmental challenge, as phenols and chlorophenols are common pollutants from industries including petroleum refining, pulp and paper production, coal conversion, and pesticide manufacturing. Conventional treatments such as activated carbon adsorption and chemical oxidation are expensive, motivating interest in biological alternatives. See [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP)
 

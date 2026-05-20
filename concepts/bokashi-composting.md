@@ -7,7 +7,7 @@ tags: [composting, compost, fermentation, microbes, soil-building, methods, soil
 sources: []
 ---
 
-## Bokashi Composting
+# Bokashi Composting
 
 Bokashi is a Japanese composting method that uses anaerobic fermentation with effective microorganisms (EM) to pre-digest organic waste. Unlike traditional aerobic composting, bokashi works through lactic acid fermentation, similar to making sauerkraut or kimchi. The process is fast, low-odor, and can handle all food waste including meat, dairy, and cooked foods that would cause problems in conventional compost.
 

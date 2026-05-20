@@ -7,7 +7,7 @@ tags: [insects, pest-management, gardening, agriculture, ecology, companion-plan
 sources: []
 ---
 
-## Beneficial Insects Guide
+# Beneficial Insects Guide
 
 Beneficial insects are predatory, parasitic, or pollinating insects that provide essential services in the garden and farm. They control pest populations, pollinate crops, and contribute to a balanced ecosystem. Attracting and conserving beneficial insects is a cornerstone of integrated pest management (IPM) and organic growing.
 
@@ -140,10 +140,55 @@ Over 4,000 species of native bees in North America. Many are more efficient poll
 - **Sweat bees (Halictidae)**: Small, often metallic-colored bees attracted to human sweat. Excellent generalist pollinators.
 - **Leafcutter bees (Megachile spp.)**: Solitary bees that cut circular pieces from leaves to line their nests. Excellent alfalfa pollinators.
 
-## See Also
+### How to Attract Pollinators
 
-- [[ingham-beneficial-nematodes-soil-food-web]]
-- [[gaias-garden-beneficial-insects-pest-management]]
-- [[beneficial-insects-and-biological-pest-control]]
-- [[beneficial-insects-cannabis]]
-- [[jeavons-beneficial-herbs-nutrition]]
+- **Provide continuous bloom**: Plant flowers that bloom from early spring through late fall
+- **Plant native species**: Native bees co-evolved with native plants and are most attracted to them
+- **Provide nesting habitat**: Leave some bare ground for ground-nesting bees; provide hollow stems, dead wood, and mason bee houses for cavity nesters
+- **Avoid pesticides**: Even organic pesticides can harm bees. Apply sprays only in the evening when bees are not foraging.
+- **Provide water**: A shallow dish with pebbles (bees need landing platforms) provides drinking water
+- See [[insectary-plantings]] for detailed plant lists
+
+## Creating Beneficial Insect Habitat
+
+### The Insectary Garden
+
+Dedicate a portion of the garden (5-10%) to plants that support beneficial insects year-round. See [[insectary-plantings]] for plant selection.
+
+### General Habitat Principles
+
+1. **Plant diversity**: Include flowers from multiple plant families, especially umbellifers (Apiaceae) and composites (Asteraceae)
+2. **Continuous bloom**: Something flowering from March through November
+3. **Minimize disturbance**: Reduce tilling, mowing, and clean-up that destroys overwintering habitat
+4. **Provide water**: Shallow water sources with landing platforms
+5. **Provide shelter**: Leaf litter, log piles, stone walls, insect hotels, and perennial grasses
+6. **Eliminate pesticides**: Accept some pest damage as the cost of supporting beneficial populations
+
+### Insect Hotels
+
+Constructed shelters that provide nesting sites for solitary bees, ladybugs, lacewings, and other beneficial insects.
+
+- Fill with hollow bamboo stems, drilled wood blocks, pinecones, and straw
+- Hang in a sheltered, south-facing location
+- 5/16 inch holes for mason bees; smaller holes (1/8 inch) for leafcutter bees
+- Replace nesting materials annually to prevent disease buildup
+
+## Purchasing Beneficial Insects
+
+When to purchase vs. attract:
+
+| Situation | Recommended Action |
+|-----------|-------------------|
+| Chronic greenhouse pest | Purchase and release specific predators |
+| Occasional outdoor pest outbreak | Focus on attracting and conserving natives |
+| Heavy infestation | Purchase for immediate control, plant insectaries for long-term prevention |
+| New garden with no established insect populations | Purchase and release while building habitat |
+
+## Related Topics
+
+- [[insectary-plantings]] for plant selection to attract beneficials
+- [[trap-cropping]] for pest management with sacrificial plants
+- [[natural-pest-deterrents]] for spray-based pest control that spares beneficials
+- [[companion-planting-reference]] for plant pairings that support beneficial insects
+- [[plant-sensing-communication]]
+- [[permaculture-insectary-plants]]

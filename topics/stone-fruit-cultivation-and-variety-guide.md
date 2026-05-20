@@ -76,7 +76,7 @@ Standard spacing depends on the rootstock and training system:
 | Dwarf | 2–3 m | 2.5–3.5 m | 3–4.5 m | 2.5–3.5 m |
 
 See [[fruit-tree-care-and-orchard-management]] — comprehensive [[fruit-tree-pruning-and-training-systems]] — detailed pruning techniques
-- [[integrated-pest-management-ipm]] — IPM framework
+- [[integrated-pest-management]] — IPM framework
 - [[plant-disease-management-solomon]]
 - [[mollison-designers-grafting-and-budding-fruit-trees]] methods
 - [[permaculture-design-principles]] — permaculture integration

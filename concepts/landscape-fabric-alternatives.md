@@ -7,7 +7,7 @@ tags: [gardening, permaculture, no-till, soil, compost, regenerative, plants]
 sources: []
 ---
 
-## Landscape Fabric Alternatives
+# Landscape Fabric Alternatives
 
 Landscape fabric (weed barrier cloth) is widely sold for weed suppression, but it has significant drawbacks in regenerative systems. It blocks water infiltration over time, degrades into plastic fragments that contaminate soil, prevents organic matter from reaching the soil surface, and creates anaerobic conditions that harm soil biology. Natural alternatives work with soil ecology rather than against it.
 
@@ -140,11 +140,13 @@ How to use:
 | Newspaper | Free | 3-6 months | Good | Good | Fine weeds |
 | Wood chips | Free | 2-4 years | Excellent | Excellent | Paths, perennials |
 | Living mulch | Seed cost | Permanent | Moderate | Excellent | Between rows |
+| Straw | Low | 1 season | Good | Good | Vegetable beds |
+| Leaf mold | Free | 1 season | Moderate | Excellent | Amendment + mulch |
+| Landscape fabric | High | 3-5 years | Good (initial) | Poor | Not recommended |
 
 ## See Also
 
-- [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]]
-- [[ayahuasca-tourism-peru-retreat-landscape]]
-- [[dam-types-and-landscape-placement]]
-- [[desert-landscape-features-classification]]
-- [[permaculture-landscape-society-anthropocentric-nature-centered-design]]
+- [[no-till-gardening-method]]
+- [[sheet-mulching]]
+- [[cover-crop-guide-detailed]]
+- [[hugelkultur-bed-construction-detailed]]

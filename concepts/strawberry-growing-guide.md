@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Strawberries are one of the most rewarding fruits for home gardeners — they produce fruit quickly (within the first year for some types), take up relatively little space, and the flavor of homegrown berries far exceeds anything from the store. This guide covers the three main types, runner management, bed renovation, [[seed-saving-and-variety-selection]].
+Strawberries are one of the most rewarding fruits for home gardeners — they produce fruit quickly (within the first year for some types), take up relatively little space, and the flavor of homegrown berries far exceeds anything from the store. This guide covers the three main types, runner management, bed renovation, and variety selection.
 
 ## Strawberry Types
 
@@ -33,7 +33,7 @@ Strawberries are one of the most rewarding fruits for home gardeners — they pr
 - Good choice for steady fresh eating throughout the season
 
 ### Day-Neutral
-- Produce fruit continuously throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] regardless of day length
+- Produce fruit continuously throughout the growing season regardless of day length
 - Start bearing about 3 months after planting
 - Smallest berries of the three types but most consistent production
 - Most productive in the first year
@@ -46,7 +46,7 @@ Strawberries are one of the most rewarding fruits for home gardeners — they pr
 - Want a big harvest for freezing/jam: June-bearing
 - Want steady fresh berries all season: Day-neutral
 - Want moderate harvests with less maintenance: Everbearing
-- [[container-growing-vegetables-herbs]]: Day-neutral (compact, few runners)
+- Container growing: Day-neutral (compact, few runners)
 - Many gardeners plant a combination
 
 ## Site Selection and Soil
@@ -140,11 +140,33 @@ Strawberry beds decline in productivity after 3-4 years. Renovation extends thei
 - **Northeast/Midwest**: Honeoye, Jewel, Allstar, Earliglow — cold-hardy, disease-resistant
 - **Southeast**: Chandler, Camarosa, Sweet Charlie, Albion — heat-tolerant
 - **Northwest**: Hood, Tillamook, Puget Crimson — excellent conditions
+- **General-purpose**: Chandler (adaptable), Seascape (day-neutral), Albion (excellent flavor)
+
+## Fertilizing
+
+- Apply balanced fertilizer at planting and after renovation
+- Side-dress with compost or balanced organic fertilizer in early spring as growth resumes
+- Avoid excess nitrogen — promotes vegetative growth at the expense of fruit
+- A light application of phosphorus at planting promotes root development
+- See [[blueberry-growing-guide]] for companion acid-loving fruit management
+
+## Common Problems
+
+### Pests
+- **Slugs and snails**: Straw mulch creates habitat; use beer traps, diatomaceous earth, handpick at night
+- **Strawberry sap beetle**: Small beetles in ripe fruit; harvest frequently, remove overripe berries
+- **Spider mites**: Common in hot, dry conditions; increase humidity, use insecticidal soap
+- **Tarnished plant bug**: Deforms fruit (cat-facing); control weeds that host them, use row covers at flowering
+- **Birds**: Net plants with bird netting as fruit ripens; support netting above plants
+
+### Diseases
+- **Gray mold (Botrytis)**: Brown rot on berries; remove infected fruit, improve air circulation
+- **Powdery mildew**: White coating on leaves; use resistant varieties, neem oil sprays
+- **Verticillium wilt**: Soil-borne; rotate crops, use resistant varieties
+- **Anthracnose**: Dark lesions on fruit; remove affected plants, avoid overhead watering
 
 ## See Also
 
-- [[strawberry-cough]]
-- [[ingham-strawberry-potato-tomato-aact-application-protocols]]
-- [[oner-chupacabra-trainwreck-strawberry-fire-hybrid]]
-- [[bruce-banner-strawberry-diesel-ghost-og-hybrid]]
-- [[strawberry-banana]]
+- [[blueberry-growing-guide]] for companion small fruit growing
+- [[backyard-orchard-design]] for integrating strawberries into orchard layouts
+- [[seasonal-gardening-calendar]] for planting and maintenance timing

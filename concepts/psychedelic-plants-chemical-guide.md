@@ -7,6 +7,46 @@ tags: [plants, fungi, chemistry, pharmacology, neuroscience, psychopharmacology,
 sources: []
 ---
 
+# Psychedelic Plants and Compounds — Chemical Comparison Guide
+
+## Overview
+
+Psychedelic (classical hallucinogen) compounds are substances that primarily act as serotonin 5-HT2A receptor agonists, producing profound alterations in perception, cognition, and consciousness. Found across plant and fungal kingdoms, these compounds have been used in spiritual, healing, and divinatory contexts for millennia.
+
+This guide compares six major psychedelic compounds: DMT, 5-MeO-DMT, mescaline, psilocybin, salvinorin A, and ibogaine — covering their chemistry, pharmacology, effects, sources, and safety profiles.
+
+## Structural Classification
+
+Psychedelic compounds fall into distinct chemical classes:
+
+- **Tryptamines:** DMT, 5-MeO-DMT, psilocybin (indole ring structure, related to serotonin)
+- **Phenethylamines:** Mescaline (phenyl ring with ethylamine chain)
+- **Diterpene:** Salvinorin A (unique trans-clerodane diterpene — not related to other psychedelics)
+- **Indole alkaloids:** Ibogaine (complex indole structure related to iboga alkaloids)
+
+## Compound Profiles
+
+### 1. N,N-Dimethyltryptamine (DMT)
+
+#### Chemistry
+- Formula: C12H16N2 | MW: 188.27 | White crystalline solid (freebase)
+- Vaporization: ~160°C | MAO substrate (oral inactive without MAOI)
+
+#### Natural Sources
+- **Psychotria viridis** (chacruna), **Diplopterys cabrerana** (chaliponga), **Mimosa tenuiflora** (jurema), **Acacia species**, **Anadenanthera peregrina** (yopo seeds)
+- Endogenous in mammalian brain (trace amounts)
+
+#### Pharmacology
+- **Receptors:** 5-HT2A (primary), 5-HT1A, 5-HT2C, sigma-1, TAAR
+- **Smoked:** Onset 15-60s, peak 2-5min, duration 15-30min | Dose: 20-60mg
+- **Oral + MAOI:** Onset 30-60min, peak 2-3h, duration 4-6h | Dose: 25-75mg
+- Half-life: ~15min
+
+#### Effects
+Intense visual hallucinations, ego dissolution at higher doses, mystical/spiritual experiences, synesthesia, emotional catharsis, entity contact reports.
+
+---
+
 ### 2. 5-MeO-DMT
 
 #### Chemistry
@@ -31,7 +71,7 @@ More "formless" than DMT, intense ego dissolution, "white light"/void experience
 - Formula: C11H17NO3 | MW: 211.26 | 3,4,5-trimethoxyphenethylamine | Water-soluble HCl salt
 
 #### Natural Sources
-- **[[lophophora-williamsii]]** (peyote, 1-6% mescaline), **[[echinopsis-pachanoi]]** (San Pedro), **E. peruviana** (Peruvian torch), **E. lageniformis** (Bolivian torch)
+- **Lophophora williamsii** (peyote, 1-6% mescaline), **Echinopsis pachanoi** (San Pedro), **E. peruviana** (Peruvian torch), **E. lageniformis** (Bolivian torch)
 
 #### Pharmacology
 - **Receptors:** 5-HT2A (primary), 5-HT2C, alpha-1 adrenergic
@@ -49,7 +89,7 @@ Vivid color enhancement, emotional openness, moderate empathogenic qualities, lo
 - Formula: C12H17N2O4P | MW: 284.25 | Prodrug — dephosphorylated to psilocin (4-HO-DMT) in vivo
 
 #### Natural Sources
-- **[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]**, **P. semilanceata**, **P. azurescens**, **P. cyanescens**, **P. mexicana**, **P. natalensis** — 200+ species worldwide
+- **Psilocybe cubensis**, **P. semilanceata**, **P. azurescens**, **P. cyanescens**, **P. mexicana**, **P. natalensis** — 200+ species worldwide
 
 #### Pharmacology
 - **Receptors:** 5-HT2A (primary), 5-HT1A, 5-HT2C, 5-HT2B, 5-HT7
@@ -100,11 +140,37 @@ Phase 1 (1-6h): dreamlike visions, life review. Phase 2 (6-12h): introspection. 
 ## Comparative Pharmacology Table
 
 | Property | DMT | 5-MeO-DMT | Mescaline | Psilocybin | Salvinorin A | Ibogaine |
+|----------|-----|-----------|-----------|------------|--------------|----------|
+| Chemical class | Tryptamine | Tryptamine | Phenethylamine | Tryptamine | Diterpene | Indole alkaloid |
+| Primary receptor | 5-HT2A | 5-HT1A | 5-HT2A | 5-HT2A | KOR | NMDA/5-HT2A/KOR |
+| Duration (oral) | 4-6h | 2-4h | 8-12h | 4-6h | Inactive | 12-36h |
+| Duration (smoked) | 15-30min | 10-30min | N/A | N/A | 15-60min | N/A |
+| Potency (mg) | 20-60 | 5-20 | 200-500 | 10-30 | 0.2-1mg | 1000-2000+ |
+| MAO substrate | Yes | Yes | No | No (psilocin is) | No | No |
+| Traditional use | Ayahuasca | Bufo/Anadenanthera | Peyote/San Pedro | Mazatec mushrooms | Mazatec Salvia | Bwiti (Gabon) |
+| Addiction potential | None | None | None | None | None | None |
+| Therapeutic research | Depression, PTSD, addiction | Depression, anxiety | Addiction, PTSD | Depression, anxiety, OCD, addiction | — | Opioid addiction |
 
-## See Also
+## Harm Reduction and Safety
 
-- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
-- [[psychedelic-1960s-counterculture]]
-- [[psychedelic-consciousness-expansion]]
-- [[psychedelic-prohibition-and-the-war-on-consciousness]]
-- [[psychedelic-therapy-set-and-setting]]
+- **Set and setting** are critical for all psychedelic experiences.
+- Screen for personal/family history of psychosis or bipolar disorder.
+- Start with lower doses. Use test kits to verify substance identity.
+- Have a trusted, sober sitter present. Integrate experiences through journaling, therapy, or discussion.
+
+### Key Risks by Compound
+- **DMT/5-MeO-DMT:** Rapid onset can be overwhelming. MAOI interactions with ayahuasca (tyramine hypertensive crisis). Serotonin syndrome risk with SSRIs.
+- **Mescaline:** Cardiovascular stimulation, prolonged duration, severe nausea (peyote). Vulnerable cactus populations.
+- **Psilocybin:** Generally safest. Possible triggering of latent psychiatric conditions. Wild mushroom misidentification risk.
+- **Salvinorin A:** High dysphoria rate, loss of physical awareness, KOR-mediated non-euphoric effects.
+- **Ibogaine:** CARDIAC RISK — prolongs QT interval (potentially fatal arrhythmias). Requires ECG screening and medical supervision. CYP2D6 poor metabolizers at higher risk. Longest duration.
+
+## Legal Status
+
+All six compounds are Schedule I in the US. International status varies: psilocybin decriminalized in Oregon, Colorado, Netherlands, Brazil, Jamaica. DMT/ayahuasca legal in some religious contexts (US, Brazil, Peru). Ibogaine legal/unregulated in Mexico, Canada, NZ, South Africa. Mescaline generally illegal worldwide (peyote protected for Native American Church). Salvinorin A legal in many countries but increasingly regulated.
+
+## Related Topics
+
+- [[nootropic-herbs-guide]] for non-psychedelic cognitive enhancers
+- [[adaptogenic-herbs-guide]] for stress-modulating herbs
+- [[medicinal-mushroom-guide-reishi]] for medicinal (non-psychedelic) mushroom context

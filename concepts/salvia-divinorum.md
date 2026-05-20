@@ -7,7 +7,7 @@ tags: [ethnobotany, psychopharmacology, consciousness, culture, medicine, plants
 sources: []
 ---
 
-## Salvia divinorum
+# Salvia divinorum
 
 ## Overview
 
@@ -55,12 +55,12 @@ The KOR mechanism may explain the characteristic dysphoria, disorientation, and 
 
 The Mazatec use S. divinorum primarily for:
 
-- **Divination** (seeking respuestas — "seeking answers"): a healer (curandero/a) guides a patient through a session to diagnose illness, locate lost objects, or divine future events
+- **Divination** (寻求 respuestas — "seeking answers"): a healer (curandero/a) guides a patient through a session to diagnose illness, locate lost objects, or divine future events
 - **Healing**: used to treat ailments including headache, rheumatism, and gastrointestinal complaints
 - The leaves are traditionally chewed fresh in pairs (quid method), with the juice held in the mouth for absorption through the buccal mucosa
 - Sessions typically occur at night, in darkness or dim candlelight, often accompanied by prayer
 
-See [[maria-sabina-and-mazatec-mushroom-ceremony]] for context on broader Mazatec entheogenic practices.
+See [[maria-sabina-mazatec-mushroom-ceremony]] for context on broader Mazatec entheogenic practices.
 
 ## Extraction and Preparation
 
@@ -113,8 +113,7 @@ The rapid spread of online videos showing recreational use contributed significa
 ## Related Pages
 
 - [[psychedelic-compounds-reference]] for pharmacological comparison with other psychoactive plants
-- [[maria-sabina-and-mazatec-mushroom-ceremony]] for context on Mazatec entheogenic traditions
+- [[maria-sabina-mazatec-mushroom-ceremony]] for context on Mazatec entheogenic traditions
 - [[entheogen-culture]] for broader indigenous plant-use knowledge
 - [[harm-reduction-guide]] for general safety principles
 - [[salvinorin-reference]]
-Ongoing developments continue to expand practical applications and theoretical understanding.

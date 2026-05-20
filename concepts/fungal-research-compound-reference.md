@@ -1,4 +1,5 @@
 ---
+
 title: Fungal Research Compound Reference
 created: 2026-04-11
 updated: 2026-04-12
@@ -29,38 +30,8 @@ sources:
 - raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md
 - raw/papers/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md
 ---
-title: Fungal Research Compound Reference
-created: 2026-04-11
-updated: 2026-04-12
-type: concept
 
-tags:
-- mushrooms
-- fungi
-- biology
-- theory
-- medicine
-- ph
-- entheogen
-- fungal-diversity
-- reference
-- academia
-
-sources:
-- raw/papers/the-metabolic-pathway-of-[[psilocybin]]-production.md
-- raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md
-- raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md
-- raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
-- raw/papers/[[tryptamine]]-cubensis-gartz.md
-- raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug-ocr.md
-- raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
-- raw/papers/the-effect-of-light-upon-basidiocarp-initiation-in-psilocybe-cubensis.md
-- raw/papers/tropisms-in-the-mushroom-psilocybe-cubensis.md
-- raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md
-- raw/papers/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md
----
-
-## Fungal Research Compound Reference
+# Fungal Research Compound Reference
 
 Research summary of psilocybin-related fungal biology compiled from published papers. See [[mushroom-growing-reference]] for cultivation applications and [[psychedelic-compounds-reference]] for pharmacology.
 
@@ -69,8 +40,8 @@ Research summary of psilocybin-related fungal biology compiled from published pa
 Psilocybin is produced via the Shikimate pathway in fungal cytosol:
 
 1. **Shikimate pathway**: Phosphoenolpyruvate + eryrose-4-P -> chorismate (via 7 enzymatic steps)
-2. **[[tryptophan]] branch**: Chorismate -> anthranilate -> tryptophan (via 6 steps)
-3. **[[decarboxylation]]**: Tryptophan -> tryptamine (via [[tryptophan-decarboxylase]] — this step is self-regulated)
+2. **Tryptophan branch**: Chorismate -> anthranilate -> tryptophan (via 6 steps)
+3. **Decarboxylation**: Tryptophan -> tryptamine (via tryptophan decarboxylase — this step is self-regulated)
 4. **Hydroxylation + methylation**: Tryptamine -> psilocin -> psilocybin (exact intermediates still unclear; baeocystin and norbaeocystin are produced as phosphorylated intermediates)
 
 ### Tryptophan Decarboxylase Inhibition
@@ -123,7 +94,7 @@ Key findings: Psilocin absent in first 1-2 flushes, peaks at flush 4. Psilocybin
 
 ## P. azurescens Alkaloid Profile (Gartz 1995)
 
-Highest known alkaloid concentrations of any [[psilocybin-mushroom]]:
+Highest known alkaloid concentrations of any psilocybin mushroom:
 
 | Sample | Psilocybin (%) | Psilocin (%) | Baeocystin (%) |
 |--------|---------------|-------------|----------------|
@@ -142,3 +113,66 @@ Total alkaloids: up to ~2.5% dry weight (25 mg/g).
 |-----------|---------|---------------------|
 | Mycelial growth rate | Baseline | 2-3x faster |
 | Time to first flush | 4-5 weeks | 3-3.5 weeks |
+| First flush mushroom count | 1-3 | 4-7 |
+| Dry mass per 10g substrate | 2.3-2.9g | 3.4-3.9g |
+| Incomplete fruit bodies | Common | Almost completely suppressed |
+
+Morphological change: treated fruit bodies lacked the typical membranous annulus on stems. First study demonstrating brassinosteroid effects on fungi.
+
+## Light Effects on Fruiting (Badham 1980)
+
+Basidiocarp initiation in P. cubensis requires light:
+
+- **Minimum duration**: 0.0025 sec xenon-arc flash sufficient
+- **Saturation dose**: 0.345 x 10^4 ergs/cm2 at 460nm
+- **Effective wavelengths**: UV and blue (370, 440, 460nm most effective)
+- **Ineffective**: Green and red wavelengths >510nm
+- **Mechanism**: Phototropic response; blue spectrum (370-420nm) most effective for primordia formation
+
+## Spawn Grain x Medium Interaction (Nwanze et al. 2005)
+
+Lentinus squarrosulus on 6 media x 3 spawn grains — significant interaction effects:
+
+| Spawn x Medium | Stipe Dia (cm) | Dry Weight (g) | Pileus Dia (cm) |
+|---------------|----------------|----------------|-----------------|
+| Millet x Animal bedding+rice | 0.53 (best) | 0.25 | 2.68 |
+| Corn x Animal bedding+rice | 0.47 | 0.62 (best) | 4.37 (best) |
+| Wheat x Sawdust | 0.36 | 0.25 | 2.62 |
+
+Key finding: corn spawn x animal bedding/rice medium produced heaviest carpophores and widest caps. Millet spawn x same medium gave widest stipes. Spawn grain choice interacts significantly with substrate medium.
+
+## Large-Scale Synthesis (Shirota, Hakamata & Goda 2003)
+
+Gram-scale synthesis of psilocin and psilocybin without chromatographic purification. Published in J. Nat. Prod. 2003, 66, 885-887. National Institute of Health Sciences, Tokyo, Japan.
+
+### Psilocin Synthesis (3 steps from 4-hydroxyindole)
+
+| Step | Transformation | Conditions | Yield |
+|------|---------------|------------|-------|
+| 1 | 4-hydroxyindole -> 4-acetylindole | Ac2O, pyridine, CH2Cl2, 0C to rt | Quantitative (34g from >185mmol) |
+| 2 | 4-acetylindole -> glyoxalylamide (yellow crystals) | (COCl)2, ether, 0C; then (CH3)2NH, THF | >80% |
+| 3 | Glyoxalylamide -> psilocin (white crystals) | LiAlH4, THF, reflux 2h | >85% (14.3g, 87.5%) |
+
+### Psilocybin Synthesis (key innovation: zwitterionic intermediate)
+
+| Step | Transformation | Conditions | Yield |
+|------|---------------|------------|-------|
+| 1 | Psilocin -> O,O-dibenzyl phosphate (7) | [(BnO)2PO]2O, n-BuLi, THF, -78C to 0C | Consumption confirmed by TLC |
+| 2 | Intramolecular rearrangement -> zwitterionic N,O-dibenzyl phosphate (8) | Suspension in CH2Cl2 overnight | >85% (10.5g) |
+| 3 | Catalytic hydrogenolysis -> psilocybin | H2, Pd/C, MeOH, rt | >72% (5.6g, 87.5%) |
+
+**Key discovery**: The O,O-dibenzyl phosphate derivative spontaneously converts to a zwitterionic N,O-dibenzyl phosphate (compound 8) via intramolecular transfer — one benzyl group migrates from oxygen to the nitrogen of the N,N-dimethyl group. This zwitterion is insoluble in CH2Cl2, enabling isolation by simple filtration instead of chromatography. Fully characterized by 1H, 13C, 31P NMR, HMBC, and NOESY.
+
+### Spectroscopic Data for Reference Compounds
+
+**Psilocin**: mp 169-174 dec C; UV (MeOH) lambda_max 222.5, 268.0, 284.5, 294.0 nm; HRESIMS m/z 205.1303 [M+H]+
+
+**Psilocybin**: mp 190-198 C; UV (MeOH) lambda_max 221.0, 267.5, 278.5, 290.0 nm; IR 3266, 1620, 1580 cm-1; 31P NMR delta -4.48; HRESIMS m/z 285.0991 [M+H]+
+
+**Previous yields**: Psilocybin synthesis was only 20% (Troxler 1959) and 47% (Nichols 1999) — this method represents a major improvement, achieving gram-scale production without any chromatographic purification.
+
+## Related Pages
+- [[mushroom-growing-reference]] — Cultivation parameters and species tips
+- [[psychedelic-compounds-reference]] — Compound pharmacology and dosing
+- [[mushroom-substrates]] — Grain spawn and substrate details
+- [[fungal-biology-fundamentals]] — Fungal lifecycle and fruiting triggers

@@ -33,7 +33,7 @@ Use a 5-gallon (20-liter) plastic bucket and follow these proportions:
 **For loamy or sandy garden soil:**
 1. Half-fill the bucket with ordinary garden soil
 2. Blend in about 1.25 gallons (5 liters) of well-rotted manure or well-ripened compost
-3. Add **one cup (250 ml) of [[complete-organic-fertilizer]] (COF)** per 3-4 gallons (12-15 liters) of mix
+3. Add **one cup (250 ml) of [[complete-organic-fertilizer-cof]] (COF)** per 3-4 gallons (12-15 liters) of mix
 4. If no COF is available, add **one-quarter cup (60 ml) of ordinary all-purpose organic fertilizer** per gallon
 
 **For clayey garden soil:**

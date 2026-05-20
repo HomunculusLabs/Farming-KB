@@ -7,7 +7,7 @@ tags: [trees, permaculture, plant-catalog, species, plants, multi-function, fora
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
 
-## Palm Tree Uses
+# Palm Tree Uses
 
 A comprehensive catalog of palms with utility to humans, from the family Arecaceae (Palmaeae). Most palms are fire tolerant and useful in bee forage systems. This list covers edible fruits, oils, saps for sugar and wine, building materials, thatch, fibres, and other products.
 
@@ -69,7 +69,7 @@ S. and SE Asia. Sap for sugar and wine. Starch from trunk (90 kg/tree). Leaves f
 Palms from which the terminal growing bud (heart) is harvested as a vegetable:
 
 - **Euterpe edulis** (jucara) — 1 kg heart/tree
-- **[[euterpe-oleracea]]** (acai) — heart + edible fruit for beverages, forage for animals
+- **Euterpe oleracea** (acai) — heart + edible fruit for beverages, forage for animals
 - **Sabal palmetto** — sweet edible fruit, terminal bud from thinnings
 - **Roystonea elata** (Royal Palm) — fruit for livestock, heart from thinnings
 - Multiple genera: Genonoma, Hyospathe, Prestoea, Socratea, Welfia
@@ -79,7 +79,7 @@ Palms from which the terminal growing bud (heart) is harvested as a vegetable:
 - **Acrocomia mexicana** (palmito de coyol) — leaf base eaten raw/roasted/boiled/pickled; sap for wine; oil from fruit
 - **Acrocomia sclerocarpa** (macauba) — oil from kernel, fruit tastes like apricot, heart-of-palm, thatch
 - **Butia capitata** (Jelly Palm) — very hardy to -5C, 250-800mm rainfall, edible fruit with edible nut, oil from kernels
-- **[[hyphaene-thebaica]]** (Doum Palm) — NE Africa, semi-desert, heavy crops of edible hard-shelled fruit, medicinal, sap for wine. Promising desert palm
+- **Hyphaene thebaica** (Doum Palm) — NE Africa, semi-desert, heavy crops of edible hard-shelled fruit, medicinal, sap for wine. Promising desert palm
 - **Mauritia flexuosa** (Buriti) — staple food: oil, fruit, heart-of-palm, wine. High in vitamins A and C. Fruit clusters to 45 kg. Leaf fibre for rope, sacking, hammocks. Trunk for balsa-like wood. Indicator plant for tropical rainforest swamp
 - **Salacca zalacca** (Salak Palm) — one of the finest palm fruits for eating raw, edible seeds
 - **Orbignya speciosa** (Babacu) — staple palm. Oil (40 kg/tree/yr) for margarine, soap, fatty acids. Kernels 72% oil. Seedcake 75% protein for animal feed. Thick shells for fuel
@@ -87,9 +87,9 @@ Palms from which the terminal growing bud (heart) is harvested as a vegetable:
 ## Thatch and Building Material Palms
 
 - **Attalea funifera** (Piassava) — leaf base fibre exported, leaves for thatch
-- **[[copernicia-prunifera]]** (Carnauba Wax) — wax from leaves (100 g/tree/yr), very hard and durable trunks for wood
+- **Copernicia prunifera** (Carnauba Wax) — wax from leaves (100 g/tree/yr), very hard and durable trunks for wood
 - **Copernicia spp** (Yarey Palms) — compatible with grazing systems, trunks for pilings
-- **[[lodoicea-maldivica]]** (Coco de Mer) — world's largest seed, very large leaves for roofing
+- **Lodoicea maldivica** (Coco de Mer) — world's largest seed, very large leaves for roofing
 - **Manicaria saccifera** (Monkey Cap Palm) — huge leaves for thatch, sails, baskets (natural sacs 60-90 cm deep)
 - **Thrinax spp** (Thatch Palms) — Caribbean, some grow on dry limestone sites
 - **Licuala spp** — walking sticks from trunk, leaves for weaving and wrapping food
@@ -117,8 +117,8 @@ Several palms have spiny trunks and prickly foliage that make effective fence ba
 - **Jubaea spectabilis** — to -5C, 43 degrees latitude
 - **Parajubaea cocoides** — Andean palm, well below 0C, very drought hardy once established. First crop in 3-4 years from nuts resembling and tasting like coconut
 - **Parajubaea torallyi** — Bolivian ravines, 10 months without rain
-- **[[phoenix-canariensis]]** — hardy to 45 degrees latitude, sea wind tolerant
-- **[[trachycarpus-fortunei]]** (Chinese Windmill Palm) — young flower stem eaten like bamboo shoots
+- **Phoenix canariensis** — hardy to 45 degrees latitude, sea wind tolerant
+- **Trachycarpus fortunei** (Chinese Windmill Palm) — young flower stem eaten like bamboo shoots
 - **Nannorhops ritchieana** — subtropical mountains to 1,500m
 
 ## Related

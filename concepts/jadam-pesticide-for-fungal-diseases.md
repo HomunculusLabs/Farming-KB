@@ -1,4 +1,5 @@
 ---
+
 title: JADAM Pesticide for Fungal Diseases
 created: 2026-04-11
 updated: 2026-04-12
@@ -17,7 +18,7 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-## JADAM Pesticide for Fungal Diseases
+# JADAM Pesticide for Fungal Diseases
 
 For serious fungal diseases -- canker, anthracnose, rust, brown blotch, black spot -- JADAM uses stronger concentrations of [[jadam-sulfur-js]] combined with [[jadam-wetting-agent-jwa]]. These are the "heavy" germicide formulations, one tier above the [[jadam-pesticide-for-powdery-mildew]] recipes.
 
@@ -101,20 +102,3 @@ Instead of relying on JS treatments:
 - [[jadam-natural-pesticide-jnp]] -- complete formulation reference
 - [[jadam-wetting-agent-jwa]] -- surfactant that makes everything work
 - [[jadam-microorganism-solution-jms]] -- preventive disease management
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

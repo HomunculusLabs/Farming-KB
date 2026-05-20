@@ -1,4 +1,5 @@
 ---
+
 title: Terence McKenna
 created: 2026-04-11
 updated: 2026-04-12
@@ -22,7 +23,7 @@ sources:
 - raw/papers/mckenna_t-tryptamines_consciousness.md
 ---
 
-## Terence McKenna
+# Terence McKenna
 
 Terence McKenna (1946-2000) was an American ethnobotanist, author, lecturer, and advocate for the responsible use of natural psychoactives. Known for his speculative theories linking psychedelics to human evolution and consciousness.
 

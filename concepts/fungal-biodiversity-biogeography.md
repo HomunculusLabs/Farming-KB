@@ -8,7 +8,7 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-## Fungal Biodiversity and Biogeography
+# Fungal Biodiversity and Biogeography
 
 Species diversity, distribution patterns, endemism, and the challenges of documenting fungal biodiversity. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-ecology-extreme-environments]], [[fungal-ecology-decomposition-cycles]], and [[fungal-nutrient-cycling-mineral-transformations]].
 
@@ -23,7 +23,7 @@ Fungi represent one of the most diverse kingdoms of life, yet their biodiversity
 - **Described species**: Approximately 70,000-150,000 species have been formally described (the number varies depending on whether lichen-forming fungi are included)
 - **Estimated total**: 1.5 million to 5.1 million species globally (Hawksworth, 1991, 2001). The most commonly cited estimate is ~1.5 million.
 - **The gap**: If the 1.5 million estimate is accurate, only 5-10% of fungal species have been described. At current rates of description (~1,000-1,500 new species per year), cataloging fungal diversity would take centuries.
-- **Temperate vs tropical**: The ratio of described to estimated species is much lower [[fukuoka-natural-farming-in-tropical-regions]], suggesting tropical fungi are dramatically undercollected and understudied.
+- **Temperate vs tropical**: The ratio of described to estimated species is much lower in tropical regions, suggesting tropical fungi are dramatically undercollected and understudied.
 
 ### Why Are Most Fungi Undescribed?
 
@@ -43,7 +43,7 @@ Historically, many fungi were assumed to have cosmopolitan distributions (found 
 
 - **Endemism**: Many fungal species show restricted geographic distributions, especially in association with particular plant hosts or habitat types. Ectomycorrhizal fungi, in particular, often show strong geographic structure.
 - **Disjunct distributions**: Some species show "amphi-Pacific" or "amphi-Atlantic" distributions, found on both sides of an ocean but absent in between. These patterns may reflect ancient continental connections or long-distance dispersal.
-- **Latitudinal gradients**: Like most organisms, fungal diversity generally increases toward the tropics, but the pattern is less pronounced than for plants or animals, partly because sampling has been biased toward [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
+- **Latitudinal gradients**: Like most organisms, fungal diversity generally increases toward the tropics, but the pattern is less pronounced than for plants or animals, partly because sampling has been biased toward temperate regions.
 
 ### Dispersal Limitation vs Ubiquity
 
@@ -69,7 +69,7 @@ DNA-based methods are transforming our understanding of fungal biogeography:
 - **Estimated diversity**: ~30,000 described species; likely 100,000-200,000 total
 - **Key groups**: Agaricales (gilled mushrooms), Polyporales (bracket fungi), Boletales (boletes), Russulales, Cantharellales
 - **Ecological roles**: Dominant wood decomposers, all ectomycorrhizal fungi, many plant pathogens (rusts, smuts), some lichen-forming fungi
-- **[[lichen-biology-guide]]**: Primary decomposers of lignin, major mycorrhizal partners in boreal/temperate forests
+- **Ecological significance**: Primary decomposers of lignin, major mycorrhizal partners in boreal/temperate forests
 
 ### Ascomycota
 
@@ -96,7 +96,7 @@ DNA-based methods are transforming our understanding of fungal biogeography:
 
 - **Estimated diversity**: ~1,000 described species; molecular studies suggest much higher diversity
 - **Key groups**: Chytridiales, Blastocladiales, Neocallimastigales (rumen fungi)
-- **Ecological roles**: Primarily aquatic; decompose chitin, keratin, and cellulose; some parasites (e.g., *[[batrachochytrium-dendrobatidis]]*, the chytrid fungus causing amphibian declines)
+- **Ecological roles**: Primarily aquatic; decompose chitin, keratin, and cellulose; some parasites (e.g., *Batrachochytrium dendrobatidis*, the chytrid fungus causing amphibian declines)
 - **Unique features**: Only fungi with flagellated zoospores; represent the earliest-diverging fungal lineage
 
 ## Habitat-Specific Diversity
@@ -114,7 +114,7 @@ Soil harbors the greatest fungal diversity of any habitat:
 
 Dead wood supports highly diverse fungal communities that change with decomposition stage:
 
-1. **Fresh wood**: Primary colonizers (Ascomycetes, some Basidiomycetes) that tolerate high C:N ratios [[plant-defense-mechanisms]]
+1. **Fresh wood**: Primary colonizers (Ascomycetes, some Basidiomycetes) that tolerate high C:N ratios and secondary metabolites
 2. **Partially decomposed**: Brown-rot and white-rot fungi become dominant, breaking down cellulose and lignin
 3. **Advanced decay**: Specialized fungi utilizing remaining nutrients; succession toward humus formation
 4. **Very decayed**: Transition to soil fungal community as wood becomes incorporated into humus
@@ -125,7 +125,7 @@ Freshwater and marine environments contain diverse but understudied fungal commu
 
 - **Freshwater**: *Ingoldian* fungi (hyphomycetes that produce conidia adapted for underwater dispersal), chytrids parasitizing algae, yeasts in surface films
 - **Marine**: Over 500 species described from wood and mangrove substrates; deep-sea fungi associated with organic falls; sea ice fungi
-- **Leaf decomposition in streams**: [[aquatic-hyphomycetes-and-ingoldian-spores]] are the primary decomposers of autumn-shed leaves in forest streams, a process critical for stream food webs
+- **Leaf decomposition in streams**: Aquatic hyphomycetes are the primary decomposers of autumn-shed leaves in forest streams, a process critical for stream food webs
 
 ## Conservation of Fungal Biodiversity
 
@@ -148,3 +148,15 @@ Freshwater and marine environments contain diverse but understudied fungal commu
 
 - [[fungal-ecology-extreme-environments]] -- fungi in extreme habitats
 - [[fungal-nutrient-cycling-mineral-transformations]] -- mineral cycling roles
+- [[fungal-ecology-decomposition-cycles]] -- decomposition succession
+- [[endophytic-fungi]] -- fungi inside plant tissues
+- [[lichens]] -- fungal-algal symbioses
+- [[fungal-biodiversity]] -- species diversity overview
+
+## Key References
+
+- Hawksworth, D.L. (2001) "The magnitude of fungal diversity: the 1.5 million species estimate revisited." Mycological Research 105: 1422-32.
+- Finlay, B.J. (2002) "Global dispersal of free-living microbial eukaryote species." Science 296: 1061-3.
+- Peay, K.G., Garbelotto, M. & Bruns, T.D. (2010) "Evidence of dispersal limitation in soil microorganisms: isolation reduces species richness on mycorrhizal tree islands." Ecology 91: 3631-40.
+- [[chytrid-fungi-guide]]
+- fungal biodiversity biogeography

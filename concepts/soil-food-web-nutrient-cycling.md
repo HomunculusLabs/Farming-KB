@@ -1,4 +1,5 @@
 ---
+
 title: Soil Food Web Nutrient Cycling
 created: 2026-04-10
 updated: 2026-04-12
@@ -29,11 +30,11 @@ sources:
 - raw/articles/jeff-lowenfels-teaming-with-fungi.md
 ---
 
-## Soil Food Web Nutrient Cycling
+# Soil Food Web Nutrient Cycling
 
 Detailed treatment of the nutrient cycling engine, the predator-prey model, glomalin and soil aggregation, and methods for building soil biology including KNF bionutrient effects. See soil food web nutrient cycling for the overview of trophic levels and bacterial vs. fungal dominance.
 
-Related: soil food web nutrient cycling, [[mycorrhizal-networks]], [[bionutrients]], [[compost-tea-guide]]
+Related: soil food web nutrient cycling, [[mycorrhizal-networks]], [[bionutrients-guide]], [[compost-tea-guide]]
 
 ## Nutrient Cycling
 
@@ -65,7 +66,7 @@ Arbuscular mycorrhizal fungi secrete glomalin, a sticky glycoprotein that contri
 
 ### Bionutrient Effects on Soil Biology
 
-Bionutrient preparations (see [[bionutrients]]) directly feed and shape soil microbial communities:
+Bionutrient preparations (see [[bionutrients-guide]]) directly feed and shape soil microbial communities:
 
 - **FPJ (fermented plant juice)**: Provides plant growth hormones (gibberellins, auxins, cytokinins) that stimulate bacterial and fungal activity. Fast-growing plant extracts (kangkong, kelp) trigger microbial blooms that accelerate decomposition and nutrient cycling.
 - **FAA (fish amino acid)**: High-nitrogen input causes rapid bacterial population growth, which protozoa then graze — releasing plant-available ammonium through the microbial loop. Essential for bacterial-dominated soils (vegetables, annuals).
@@ -88,33 +89,8 @@ Bionutrient preparations (see [[bionutrients]]) directly feed and shape soil mic
 - soil food web nutrient cycling — Overview of trophic levels and bacterial vs. fungal dominance
 - soil food web nutrient cycling — Detailed nutrient cycling and fungal ecology
 - [[mycorrhizal-networks]] — Types, carbon flow, "wood wide web", glomalin
-- [[bionutrients]] — Bionutrient effects on soil microbial communities
+- [[bionutrients-guide]] — Bionutrient effects on soil microbial communities
 - [[compost-tea-guide]] — Complete AACT manual
 - [[effective-microorganisms-em]] — EM consortium and application
 - [[knf-preparations]] — KNF inputs for soil biology
 - [[plant-nutrient-uptake]] — Cation exchange, root exudates, mycorrhizal pathways
-## Practical Applications
-The principles discussed here have direct applications across diverse ecological and agricultural contexts.
-Practitioners have demonstrated successful implementation across varied climates and conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-
-## Integration Strategies
-Successful implementation draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from small plots to broadacre systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement.
-
-## Implementation Notes
-Start with small-scale trials before expanding to larger operations.
-Maintain detailed records for iterative refinement of methods and strategies.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

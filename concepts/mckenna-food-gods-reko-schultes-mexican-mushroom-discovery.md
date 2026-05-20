@@ -21,7 +21,7 @@ type: concept
 
 In [[four-families-of-indole-hallucinogens]] of Mexico and two chains of research and discovery, which would
 eventually be reunited when [[golden-guide-morning-glory-and-ololiuqui]] seeds and the
-[[maria-sabina-and-mazatec-mushroom-ceremony]], or velada." This event marked the beginning of direct
+[[maria-sabina-mazatec-mushroom-ceremony]], or velada." This event marked the beginning of direct
 ethnographic documentation of the mushroom ritual that would later become famous through
 the work of Gordon and [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]. In 1938, Schultes
 accompanied Reko to the village of Huatla de Jimenez in the Sierra Mazatecan highlands,

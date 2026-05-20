@@ -4,23 +4,20 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [history, timeline, psychedelics, academia, psychopharmacology, entheogen-research, consciousness, counterculture]
-sources:
-  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
-  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
-  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
+sources: []
 ---
 
-## Psychedelic Research Timeline
+# Psychedelic Research Timeline
 
 ## Overview
 
-The history of psychedelic research spans nearly a century, from early serendipitous discoveries through periods of intense scientific inquiry, political suppression, and modern renaissance. This timeline traces the key milestones that have shaped our understanding of [[psychedelic-substances-comparison]] and their [[metzner-ayahuasca-therapeutic-potential]].
+The history of psychedelic research spans nearly a century, from early serendipitous discoveries through periods of intense scientific inquiry, political suppression, and modern renaissance. This timeline traces the key milestones that have shaped our understanding of psychedelic substances and their therapeutic potential.
 
 ## 1930s-1940s: Discovery and Early Exploration
 
 ### 1938 — LSD Synthesis
 
-[[albert-hofmann]], a chemist at Sandoz Laboratories in Basel, Switzerland, first synthesizes [[lysergic-acid-diethylamide]] (LSD-25) while researching ergot alkaloids as circulatory and respiratory stimulants. The compound is set aside as unremarkable.
+Albert Hofmann, a chemist at Sandoz Laboratories in Basel, Switzerland, first synthesizes lysergic acid diethylamide (LSD-25) while researching ergot alkaloids as circulatory and respiratory stimulants. The compound is set aside as unremarkable.
 
 ### 1943 — LSD's Psychoactive Effects Discovered
 
@@ -32,7 +29,7 @@ Sandoz begins distributing LSD under the trade name Delysid to researchers and c
 
 ### 1949 — Mescaline Research Expands
 
-Early clinical research with mescaline (the active compound in peyote) continues, building on work by German pharmacologist [[louis-lewin]] in the 1890s. Mescaline becomes a tool for studying consciousness and schizophrenia.
+Early clinical research with mescaline (the active compound in peyote) continues, building on work by German pharmacologist Louis Lewin in the 1890s. Mescaline becomes a tool for studying consciousness and schizophrenia.
 
 ## 1950s-1960s: The Golden Age of Psychedelic Research
 
@@ -46,7 +43,7 @@ British psychiatrist Humphry Osmond suggests the term "psychedelic" (Greek: psyc
 
 ### 1956 — Psilocybin Isolated
 
-Albert Hofmann isolates [[hplc-analysis-of-psilocybin-and-psilocin]] from Psilocybe mexicana mushrooms, specimens collected by R. Gordon Wasson in Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" introduces psilocybin mushrooms to Western audiences.
+Albert Hofmann isolates psilocybin and psilocin from Psilocybe mexicana mushrooms, specimens collected by R. Gordon Wasson in Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" introduces psilocybin mushrooms to Western audiences.
 
 ### 1950s-1960s — Clinical Psychedelic Therapy Peaks
 
@@ -59,7 +56,7 @@ Over 1,000 clinical papers are published, and approximately 40,000 patients rece
 
 ### 1960 — Timothy Leary Begins Harvard Psilocybin Research
 
-Timothy Leary and Richard Alpert establish the [[leary-harvard-psilocybin-project]]. Their research with graduate students eventually leads to their dismissal from Harvard in 1963.
+Timothy Leary and Richard Alpert establish the Harvard Psilocybin Project. Their research with graduate students eventually leads to their dismissal from Harvard in 1963.
 
 ### 1962 — FDA Approves Sandoz's New Drug Application for LSD
 
@@ -77,7 +74,7 @@ President Nixon signs the Controlled Substances Act. LSD, psilocybin, mescaline,
 
 ### 1970-1985 — Research Continues Underground
 
-A small number of committed researchers continue working outside legal frameworks. Stanislav Grof develops [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] as a non-drug method for accessing non-ordinary states based on his psychedelic therapy experience.
+A small number of committed researchers continue working outside legal frameworks. Stanislav Grof develops holotropic breathwork as a non-drug method for accessing non-ordinary states based on his psychedelic therapy experience.
 
 ### 1971 — UN Convention on Psychotropic Substances
 
@@ -85,7 +82,7 @@ International scheduling restricts psychedelic research globally. Most countries
 
 ### 1985 — MDMA Scheduled
 
-Despite showing promise as an adjunct to psychotherapy, MDMA is placed in Schedule I in the US. Rick Doblin founds MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies) the same year, beginning the decades-long effort to reschedule MDMA for medical use.
+Despite showing promise as an adjunct to psychotherapy, MDMA is placed in Schedule I in the US. Rick Doblin founds MAPS (Multidisciplinary Association for Psychedelic Studies) the same year, beginning the decades-long effort to reschedule MDMA for medical use.
 
 ## 1990s-2000s: The Psychedelic Renaissance Begins
 
@@ -142,3 +139,28 @@ Oregon implements Measure 109 (psilocybin therapy) and Measure 110 (drug decrimi
 MAPS completes Phase 3 trials for MDMA-assisted therapy for PTSD. FDA advisory committee review and potential approval decision represents the culmination of nearly 40 years of advocacy.
 
 ### 2025-2026 — Expanding Indications
+
+Clinical trials expand to include psilocybin for depression (COMPASS, Usona), DMT for depression (Small Pharma), ibogaine for addiction (Ambio Life Sciences), and ketamine for various indications. Psychedelic-assisted therapy training programs multiply.
+
+## Key Figures in Psychedelic Research
+
+| Researcher | Contribution | Era |
+|-----------|-------------|-----|
+| Albert Hofmann | LSD and psilocybin discovery | 1940s-2000s |
+| Humphry Osmond | Alcoholism treatment, coined "psychedelic" | 1950s |
+| Stanislav Grof | LSD psychotherapy, transpersonal psychology | 1950s-2020s |
+| Timothy Leary | Harvard research, counterculture advocacy | 1960s |
+| Rick Strassman | DMT clinical research | 1990s |
+| Roland Griffiths | Johns Hopkins psilocybin research | 2000s-2020s |
+| Rick Doblin | MAPS founder, MDMA therapy advocacy | 1980s-2020s |
+| Robin Carhart-Harris | Imperial College research, REBUS model | 2010s-2020s |
+
+## See Also
+- [[controlled-substances-act-and-psychedelic-research]]
+
+- [[psychedelic-therapy-current-research]] — current state of clinical research
+- [[harm-reduction-guide]] — modern harm reduction rooted in decades of research
+
+## Related
+
+- psychedelic research timeline

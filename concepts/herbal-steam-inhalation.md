@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [herbalism, herbs, medicine]
-sources: []
+sources: [papers/teaming-with-fungi-lowenfels.md]
 ---
 
 ## Herbal Steam Inhalation

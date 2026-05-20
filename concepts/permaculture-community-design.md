@@ -1,4 +1,5 @@
 ---
+
 title: Permaculture Community Design
 created: 2026-04-11
 updated: 2026-04-12
@@ -18,7 +19,7 @@ sources:
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
-## Permaculture Community Design
+# Permaculture Community Design
 
 Practical framework for designing and organizing permaculture communities, from William Ozier Williams' PDC course. Covers governance, communication, and social structures alongside physical design. See [[permaculture-design-methods]] for the technical design process and [[permaculture-design]] for zone/sector basics.
 

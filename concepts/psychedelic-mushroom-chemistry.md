@@ -4,12 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, chemistry, biochemistry, psychopharmacology, entheogen, entheogen-research]
-sources:
-  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
-  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
+sources: []
 ---
 
-## Psychedelic Mushroom Chemistry
+# Psychedelic Mushroom Chemistry
 
 ## Overview
 
@@ -115,11 +113,5 @@ Psilocybin content varies significantly based on species, strain, growing condit
 - **P. mexicana**: 0.1-0.4% — relatively low
 
 Intraspecific variation can be 3-5x within a single species, making generalizations unreliable. See [[psychedelic-mushroom-taxonomy]] for species-level detail and [[psychedelic-mushroom-dosage-guide]] for practical dosing considerations.
-
 ## See Also
-
-- [[psycholytic-vs-psychedelic-therapy-historical-models-metzner]]
-- [[sidney-cohen-oscar-janiger-hollywood-psychedelic-therapy-1960s]]
-- [[psychedelic-plants-in-ancient-cultures]]
-- [[archaeology-of-psychedelic-mushrooms]]
-- [[psychedelic-crisis-response-protocol]]
+- [[psychedelic-mushroom-art-and-iconography]]

@@ -45,7 +45,7 @@ The recommended approach is deliberate and ritualistic:
 
 ## Alcohol Extraction Technique
 
-The [[pf-tek-alcohol-extraction-method]] produces a concentrated [[pf-tek-ethyl-alcohol-extraction-psilocybin-liqueur]] using only mushrooms and pure [[ethyl-alcohol-extraction]]. This creates a dose-controllable preparation where potency can be precisely measured.
+The [[pf-tek-alcohol-extraction-method]] produces a concentrated [[pf-tek-ethyl-alcohol-extraction-psilocybin-liqueur]] using only mushrooms and pure [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]. This creates a dose-controllable preparation where potency can be precisely measured.
 
 ### Materials
 

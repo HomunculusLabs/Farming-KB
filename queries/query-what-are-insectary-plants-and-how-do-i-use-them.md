@@ -87,7 +87,7 @@ In cannabis cultivation, integrate insectary borders with [[organic-pest-and-dis
 
 Greenhouse growers can pot insectary species and place them near vents and doorways where pests typically enter.
 Sweet alyssum, marigolds, and basil perform well in containers and attract beneficials that prey on common greenhouse pests like whiteflies and thrips.
-This strategy complements the [[integrated-pest-management-ipm]] framework by creating a first line of defense before pests establish.
+This strategy complements the [[integrated-pest-management]] framework by creating a first line of defense before pests establish.
 For indoor grows, companion planting with insectary species in the same room can reduce dependence on [[predatory-mites-biological-pest-control]] releases.
 
 ## What About Insectary Plants in Different Climate Zones?

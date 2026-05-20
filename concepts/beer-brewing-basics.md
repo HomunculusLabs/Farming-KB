@@ -7,7 +7,7 @@ tags: [homesteading, fermentation, food, recipe, grain, processing, preparation,
 sources: []
 ---
 
-## Beer Brewing Basics
+# Beer Brewing Basics
 
 Home brewing is a natural fit for the homesteader, especially if you grow your own grains and hops. Beer is essentially water, malted grain, hops, and yeast. Understanding the basics of each ingredient and the brewing process allows you to create quality beer at a fraction of commercial prices.
 
@@ -43,7 +43,7 @@ Provide bitterness (to balance malt sweetness), flavor, and aroma. Also act as a
 ### Yeast
 Converts sugars to alcohol and CO2. The single most important ingredient for beer quality.
 
-- Ale yeast ([[saccharomyces-cerevisiae]]): top-fermenting, works at 60-75F. Produces fruity esters. Ferments in 1-2 weeks.
+- Ale yeast (Saccharomyces cerevisiae): top-fermenting, works at 60-75F. Produces fruity esters. Ferments in 1-2 weeks.
 - Lager yeast (Saccharomyces pastorianus): bottom-fermenting, works at 45-55F. Cleaner, crisper flavor. Requires cold fermentation and lagering (cold storage for weeks to months).
 - Dry yeast: convenient, long shelf life, good for beginners. Rehydrate before pitching.
 - Liquid yeast: wider variety of strains, fresher, more expensive. Requires a starter for high-gravity beers.

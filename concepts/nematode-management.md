@@ -7,16 +7,16 @@ tags: [pest-management, agriculture, gardening, pest-control, troubleshooting, c
 sources: []
 ---
 
-## Nematode Management
+# Nematode Management
 
-Plant-parasitic nematodes are microscopic roundworms that attack plant roots, causing stunting, yellowing, wilting, and reduced yields. Root-knot nematodes (Meloidogyne spp.) are the most damaging and widespread group, affecting tomatoes, carrots, peppers, cucurbits, and many other crops. Management requires an [[solomon-insects-and-diseases-integrated-approach]] combining crop rotation, resistant varieties, biological controls, and soil health improvement.
+Plant-parasitic nematodes are microscopic roundworms that attack plant roots, causing stunting, yellowing, wilting, and reduced yields. Root-knot nematodes (Meloidogyne spp.) are the most damaging and widespread group, affecting tomatoes, carrots, peppers, cucurbits, and many other crops. Management requires an integrated approach combining crop rotation, resistant varieties, biological controls, and soil health improvement.
 
 ## Understanding Nematodes
 
 ### Types of Plant-Parasitic Nematodes
 
 **Root-Knot Nematodes (Meloidogyne spp.)**
-- The most destructive group in home [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]]
+- The most destructive group in home gardens and farms
 - Cause characteristic galls (knots) on roots that interfere with water and nutrient uptake
 - Affected plants show stunting, wilting in hot weather (despite adequate moisture), yellowing, and reduced yields
 - Species include M. incognita (southern root-knot), M. hapla (northern root-knot), M. javanica, and M. arenaria
@@ -67,7 +67,7 @@ Not all nematodes are plant pests. Beneficial (entomopathogenic) nematodes are p
 ### Soil Testing
 
 - Collect soil samples from the root zone (4-6 inches deep, 15-20 cores per sample area)
-- Submit to a nematode [[solomon-soil-testing-laboratory-analysis-low-input-gardening]] (many university extension services offer this)
+- Submit to a nematode testing laboratory (many university extension services offer this)
 - Sample in late summer or early fall when populations are typically highest
 - Test before planting susceptible crops to determine if nematodes are present and at what level
 
@@ -81,14 +81,14 @@ Rotation is the most important long-term strategy. The key is to rotate between 
 
 ### Cover Crop Rotation for Nematode Suppression
 
-Certain [[query-how-do-cover-crops-suppress-weeds]] nematode populations through natural chemical compounds or by acting as poor hosts that stimulate nematode eggs to hatch without providing food.
+Certain cover crops suppress nematode populations through natural chemical compounds or by acting as poor hosts that stimulate nematode eggs to hatch without providing food.
 
 - **French marigolds (Tagetes patula)**: Release alpha-terthienyl from their roots, which is toxic to root-knot nematodes. Plant densely as a cover crop for one full growing season. Varieties with the highest nematicidal effect: 'Nemagone', 'Petite Harmony', 'Tangerine'. See details below.
 - **Cereal rye**: Poor host for root-knot nematodes. The rye residues contain allelopathic compounds that suppress nematode populations after incorporation.
 - **Sorghum-sudangrass**: Roots release a natural nematicide (sorgoleone). Incorporate the green manure at peak growth for maximum effect.
 - **Mustard**: Biofumigant glucosinolates suppress nematodes. See [[green-manure-crops]] for biofumigation protocol.
 - **Daikon radish**: Moderate biofumigant effect; breaks compaction, improving root growth of subsequent crops.
-- See [[cover-cropping-guide]] and [[crop-rotation-principles]] for comprehensive [[coleman-yearly-schedule-multi-crop-winter-rotation-planning]].
+- See [[cover-cropping-guide]] and [[crop-rotation-principles]] for comprehensive rotation planning.
 
 ## Marigolds for Nematode Control
 
@@ -135,7 +135,7 @@ Many vegetable varieties have been bred for nematode resistance. The letter "N" 
 
 ### Beneficial Nematodes (Entomopathogenic)
 
-While [[entomopathogenic-nematodes-biological-pest-control]] (Steinernema, Heterorhabditis) primarily target insect pests, some research suggests they may also suppress plant-parasitic nematodes through competition and antibiotic production. Apply as a soil drench in spring.
+While entomopathogenic nematodes (Steinernema, Heterorhabditis) primarily target insect pests, some research suggests they may also suppress plant-parasitic nematodes through competition and antibiotic production. Apply as a soil drench in spring.
 
 ### Mycorrhizal Fungi
 
@@ -147,3 +147,53 @@ Mycorrhizal colonization of roots can reduce nematode damage by:
 ### Pasteuria penetrans
 
 A bacterial parasite of root-knot nematodes. Spores attach to nematode juveniles, penetrate the body, and reproduce inside, killing the nematode. Available as a commercial biological nematicide in some regions.
+
+### Trichoderma
+
+Beneficial fungi (Trichoderma harzianum, T. viride) that:
+- Colonize roots and compete with nematode infection sites
+- Produce compounds toxic to nematodes
+- Enhance plant growth and disease resistance
+- Available as soil drenches or seed treatments
+
+### Organic Amendments
+
+- **Compost**: High-quality compost supports diverse soil biology that suppresses nematodes through competition and predation
+- **Crab meal**: Contains chitin (from crab shells) that stimulates chitin-degrading bacteria, which also attack nematode eggs
+- **Neem cake**: Residue from neem oil production; contains nematicidal compounds. Apply at 1-2 lb per 100 sq ft.
+- **Molasses**: Stimulates microbial activity that can suppress nematodes. Apply as a soil drench (1/4 cup per gallon of water).
+- See [[green-manure-crops]] and [[biochar-in-agriculture]] for soil amendment strategies.
+
+## Soil Solarization
+
+Clear plastic solarization during summer heats the soil to temperatures lethal to nematodes (see [[weed-management-strategies]] for solarization procedure).
+
+- Soil temperature must reach 120°F+ (49°C) for effective nematode kill in the top 6 inches
+- Most effective in hot climates with 6-8 weeks of solarization
+- Combining solarization with biofumigant cover crops (mustard) provides synergistic control
+
+## Integrated Nematode Management Plan
+
+A comprehensive approach combining multiple strategies:
+
+1. **Test soil** to identify nematode species and population levels
+2. **Rotate crops** — never plant susceptible crops in the same location within 3-4 years
+3. **Use resistant varieties** when available, especially for tomatoes and peppers
+4. **Plant French marigold cover crops** in nematode-affected beds for one season
+5. **Incorporate biofumigant cover crops** (mustard, sorghum-sudangrass) before planting susceptible crops
+6. **Solarize soil** during summer before fall planting
+7. **Build soil health** with compost, organic matter, and [[mycorrhizal-types]] — healthy soil supports nematode antagonists
+8. **Monitor annually** — re-test soil every 2-3 years to track population changes
+
+## Related Topics
+
+- [[cover-cropping-guide]] for cover crop selection in nematode management
+- [[crop-rotation-principles]] for rotation planning
+- [[green-manure-crops]] for biofumigant cover crops
+- [[beneficial-insects-guide]] for beneficial nematode use against insect pests
+- [[natural-pest-deterrents]] for organic sprays that may suppress nematodes
+
+## Related
+
+- [[companion-planting-reference]]
+- [[trap-cropping]]

@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Preparation And Ceremony
+title: Ayahuasca Preparation and Ceremony
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,12 +12,12 @@ tags:
   - maoi
   - shamanism
 sources:
-  - "raw/particles/harner-j-hallucinogens-and-shamanism.md"
-  - "raw/papers/mckenna_t-food_of_the-gods.md"
+  - raw/particles/harner-j-hallucinogens-and-shamanism.md
+  - raw/papers/mckenna_t-food_of_the-gods.md
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-## Ayahuasca Preparation and Ceremony
+# Ayahuasca Preparation and Ceremony
 
 The Amazonian psychoactive brew ayahuasca: its botanical components, chemical synergy, preparation methods, and ceremonial structure.
 
@@ -40,7 +40,7 @@ Ayahuasca is not a single plant but a combination of at least two:
 
 Several plants are combined with *B. caapi* to provide the visionary component:
 
-- ***[[chacruna-psychotria-viridis]]*** (Chacruna): The most common admixture, containing N,N-dimethyltryptamine (DMT) in its leaves. Used throughout the western Amazon.
+- ***Psychotria viridis*** (Chacruna): The most common admixture, containing N,N-dimethyltryptamine (DMT) in its leaves. Used throughout the western Amazon.
 - ***Diplopterys cabrerana*** (Chaliponga): Another DMT-containing plant, also used as an admixture. Contains both DMT and 5-MeO-DMT.
 - Less commonly, *Psychotria carthaginensis* or other species may be used.
 
@@ -55,14 +55,14 @@ The ayahuasca brew works because of a remarkable pharmacological synergy:
 
 ## Preparation
 
-[[kava-traditional-preparation-ceremonial-context]] is a lengthy process:
+Traditional preparation is a lengthy process:
 
 1. **Harvesting**: The *B. caapi* vine is pounded or shredded, and the leaves of the DMT plant are collected.
 2. **Cooking**: The plant materials are boiled together in a large pot, often for 12-24 hours or more, with periodic addition of water as it evaporates.
 3. **Reduction**: The liquid is strained and reduced by continued boiling until a concentrated, dark, viscous brew results.
 4. **The final product**: A bitter, dark brown to black liquid with the consistency of motor oil, described by McKenna as tasting "like the blood of some old, old thing."
 
-Some traditions add additional plants for specific purposes -- tobacco (*[[mckenna-shamanic-tobaccos-and-nicotiana-rustica]]*), *Brugmansia* (toe/borrachero), or various medicinal plants.
+Some traditions add additional plants for specific purposes -- tobacco (*Nicotiana rustica*), *Brugmansia* (toe/borrachero), or various medicinal plants.
 
 ## The Ceremony
 
@@ -101,26 +101,11 @@ Ayahuasca has spread far beyond its Amazonian origins:
 
 - **SSRI/SNRI interactions**: Combining ayahuasca's MAO inhibitors with serotonergic psychiatric medications can cause **serotonin syndrome**, a potentially life-threatening condition.
 - **Cardiovascular risk**: Ayahuasca increases heart rate and blood pressure.
-- **Psychological risk**: Individuals with personal or family history of psychosis or [[blesching-cannabis-bipolar-disorder]] may be at elevated risk.
+- **Psychological risk**: Individuals with personal or family history of psychosis or bipolar disorder may be at elevated risk.
 - See [[psychedelic-harm-reduction]] for comprehensive safety guidance.
 
 ## Related Topics
 
 - [[shamanic-use-of-psychedelics]] for cross-cultural shamanic context
 - [[psilocybin-psychological-mechanisms]] for the neuroscience of DMT and 5-HT2A agonism
-- [[entheogenic-ceremony-preparation]] for modern [[ayahuasca-ceremony-practices]]
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
-Collaborative networks and knowledge sharing accelerate progress in this field.
-Emerging technologies offer new tools for analysis and implementation.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.
+- [[entheogenic-ceremony-preparation]] for modern ceremony practices

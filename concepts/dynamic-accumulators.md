@@ -1,4 +1,5 @@
 ---
+
 title: Dynamic Accumulators
 created: 2026-04-10
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/papers/lowenfels-teaming-with-microbes.md
 ---
 
-## Dynamic Accumulators
+# Dynamic Accumulators
 
 Dynamic accumulators are plants that concentrate specific nutrients in their tissues at higher levels than most other plants. They can be grown as [[cover-cropping-guide]] or green manure, then composted or mulched to cycle those nutrients back to crops. Some are "hyperaccumulators" that pull minerals from deep subsoil layers.
 

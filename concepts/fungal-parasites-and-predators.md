@@ -4,11 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mycology, biology, ecology, pest-control, pest-management, agriculture, species-profiles, microbes, entomopathogenic]
-sources:
-  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+sources: []
 ---
 
-## Fungal Parasites and Predators
+# Fungal Parasites and Predators
 
 ## Overview
 
@@ -116,7 +115,7 @@ Challenges:
 ## See Also
 
 - [[fungal-symbiosis-types]] — Mutualistic fungal relationships
-- [[mycorrhizal-inoculation]] — Beneficial fungal inoculation for crops
+- [[mycorrhizal-inoculation-guide]] — Beneficial fungal inoculation for crops
 - [[fungal-dna-barcoding]] — Identifying these fungi in environmental samples
 - [[cordyceps-and-entomopathogenic-fungi]]
 - [[fungal-ecology]]

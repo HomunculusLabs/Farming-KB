@@ -141,10 +141,45 @@ A soil-borne fungal pathogen that invades through roots and colonizes the vascul
 - Maintain healthy soil biology — Trichoderma species compete with Fusarium
 - Avoid over-fertilization with nitrogen (promotes susceptibility)
 
-## See Also
+## Damping Off
 
-- [[cannabis-cultivar-microbiome-specificity]]
-- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
-- [[cannabis-and-endometriosis]]
-- [[blesching-cannabis-immune-system-modulation]]
-- [[cannabis-seed-germination-viability-breeding-clarke]]
+Damping off is a condition affecting seedlings and young clones, caused by several soil-borne fungi (Pythium, Rhizoctonia, Fusarium). It causes young plants to collapse and die at or near the soil line.
+
+### Identification
+
+- Seedling stems become thin and water-soaked at the base
+- Young plant falls over and dies
+- White or gray mold visible at soil line
+- Seeds that germinate but never emerge (pre-emergence damping off)
+
+### Prevention
+
+- Use sterile starting medium (new Rockwool, fresh seedling mix)
+- Do not overwater seedlings — keep medium moist, not wet
+- Maintain good air circulation around seedling trays
+- Use chamomile tea or cinnamon as mild antifungal drenches
+- Sprinkle cinnamon or food-grade diatomaceous earth on soil surface
+- Ensure adequate light to prevent leggy, weak seedlings
+
+### Treatment
+
+- Remove affected seedlings immediately to prevent spread
+- Improve air circulation and reduce moisture
+- Drench remaining seedlings with chamomile tea or Trichoderma solution
+- Ensure seedlings are under adequate light
+
+## General Disease Prevention
+
+1. **Clean environment**: Sanitize between grows; remove dead material promptly
+2. **Proper environment**: Control temperature and humidity per [[cannabis-environment-control]]
+3. **Healthy soil biology**: Beneficial microbes outcompete pathogens
+4. **Proper watering**: Avoid overwatering; allow root zone to breathe
+5. **Genetic selection**: Choose mold-resistant strains for humid climates
+6. **Early detection**: Inspect plants regularly; catch problems before they spread
+7. **Quarantine**: Isolate any sick plant immediately
+
+Diseases often follow pest damage — weakened plants from [[cannabis-pest-management]] issues are more susceptible to infection. Maintaining plant vigor through proper [[cannabis-nutrient-recipes]] is the foundation of disease resistance.
+
+## Related
+
+- [[cannabis-pest-management]]

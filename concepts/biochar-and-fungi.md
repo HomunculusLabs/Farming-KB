@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Biochar and fungi form a powerful synergistic partnership for soil health, carbon sequestration, and environmental remediation. Biochar provides an ideal habitat for mycorrhizal fungi and beneficial soil microorganisms, while fungal networks extend the benefits of biochar deeper into soil profiles. This combination draws from ancient Amazonian [[mycorrhizal-agricultural-practices]] and modern scientific research.
+Biochar and fungi form a powerful synergistic partnership for soil health, carbon sequestration, and environmental remediation. Biochar provides an ideal habitat for mycorrhizal fungi and beneficial soil microorganisms, while fungal networks extend the benefits of biochar deeper into soil profiles. This combination draws from ancient Amazonian agricultural practices and modern scientific research.
 
 ## What is Biochar
 
@@ -121,10 +121,10 @@ Biochar's porous structure provides ideal fungal habitat:
 ## Environmental Applications
 
 ### Heavy Metal Remediation
-- Biochar immobilizes [[singh-fungal-interactions-with-heavy-metals-in-soil]] through adsorption and precipitation
+- Biochar immobilizes heavy metals in soil through adsorption and precipitation
 - Mycorrhizal fungi further stabilize metals through biosorption and biomineralization
 - Combined approach more effective than either alone for lead, cadmium, and zinc
-- See [[mycoremediation-heavy-metals]] for complementary approaches
+- See [[mycoremediation-of-heavy-metals]] for complementary approaches
 
 ### Water Filtration
 - Biochar + mycelium composite filters for stormwater and wastewater treatment
@@ -142,9 +142,11 @@ Biochar's porous structure provides ideal fungal habitat:
 - Not all biochar is equal; quality varies enormously with production method
 - Excessive application can raise pH too high for acid-loving plants
 - Fresh biochar can temporarily bind nutrients, reducing availability
-- [[economic-viability-water-retention-landscapes]] depends on local feedstock availability and pyrolysis costs
+- Economic viability depends on local feedstock availability and pyrolysis costs
 - Long-term field studies (>10 years) are still limited
 
 ## See Also
 
 - [[fungi-in-climate-change]] -- fungal roles in carbon sequestration
+- [[mycorrhizal-networks-and-forest-communication]] -- fungal networks enhanced by biochar
+- [[mycoremediation-of-heavy-metals]] -- combined biochar-fungal remediation approaches

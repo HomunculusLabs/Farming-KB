@@ -1,4 +1,5 @@
 ---
+
 title: Seasonal Homesteading — Fall and Winter
 created: 2026-04-12
 updated: 2026-04-12
@@ -28,7 +29,7 @@ sources:
 - concepts/composting-systems.md
 ---
 
-## Seasonal Homesteading — Fall and Winter
+# Seasonal Homesteading — Fall and Winter
 
 July through December task list for temperate climate zones 5-7. See [[seasonal-homesteading-calendar]] for the spring and summer months (January–June) and [[seasonal-planning]] for the cannabis-integrated version.
 

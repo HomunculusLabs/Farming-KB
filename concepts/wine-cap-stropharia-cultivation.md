@@ -6,8 +6,7 @@ type: concept
 tags: [fungi, mushrooms, cultivation, permaculture, food, gardening, species]
 sources: []
 ---
-
-## Wine Cap Stropharia Cultivation
+# Wine Cap Stropharia Cultivation
 
 This page provides detailed practical instructions for cultivating Wine Cap mushrooms (Stropharia rugosoannulata) in outdoor wood chip beds. See [[kings-stropharia-garden-giant]] for the species overview, ecology, and nematode trapping biology.
 
@@ -140,11 +139,15 @@ Maintain a 2-3 inch layer of straw or leaf mulch on top:
 ### When to Harvest
 
 - Mushrooms appear 2-4 days after heavy rain or deep watering
+- Harvest when caps are fully expanded but still firm
+- Young specimens: burgundy-red cap, white gills, firm flesh
+- Mature: cap faded to tan, gills purple-black, slightly softer
 
+### How to Harvest
+
+- Cut at the base with a knife or twist gently
+- Do not pull — this damages the mycelial network
+- Leave small pins to continue growing
 ## See Also
-
-- [[comparison-paddy-straw-vs-wine-cap-cultivation]]
-- [[amanita-muscaria-ancient-wine-question]]
-- [[wine-cap]]
-- [[wine-cap-mushroom-cultivation]]
-- [[query-how-to-grow-wine-cap-mushrooms]]
+- [[cotter-king-stropharia-cultivation]]
+- [[comparison-enoki-vs-king-stropharia-cultivation]]

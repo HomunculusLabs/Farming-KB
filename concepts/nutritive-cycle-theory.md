@@ -1,4 +1,5 @@
 ---
+
 title: Nutritive Cycle Theory — Cho's Growth Stage Framework
 created: 2026-04-11
 updated: 2026-04-12
@@ -19,7 +20,7 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-## Nutritive Cycle Theory
+# Nutritive Cycle Theory
 
 Master Han-Kyu Cho's Nutritive Cycle Theory is the foundational framework that determines when and how to apply KNF inputs. It recognizes that plants have different nutritional needs at different growth stages, just as humans need different foods as infants, children, adults, and elderly.
 
@@ -144,3 +145,33 @@ Apply 15 days and 2 days before harvest.
 | WS-PA | — | 1:30 | — |
 | WS-CaPo | — | 1:500-1000 | — |
 | BRV | — | 1:200-500 | — |
+| Seawater | — | — | 1:30 |
+| IMO | Soil drench | Soil drench | Soil drench |
+
+## Cannabis-Specific Notes
+
+For cannabis in [[cannabis-living-soil-guide]], the nutritive cycle maps to:
+- **Vegetative stage** (18/6 light): FPJ from fast-growing plants, light FAA if N-deficient
+- **Changeover** (flip to 12/12, weeks 1-2 of flower): WS-CaPo, sour FFJ, reduce all N inputs
+- **Reproductive** (weeks 3-8+ of flower): OHN for IPM, WS-Ca for calyx development, FFJ for resin production
+- **Late flower/ripen** (final 2 weeks): OHN + WS-Ca + Seawater for trichome maturation
+
+Note: Living soil already provides baseline nutrition — use KNF inputs as supplements, not primary feeding.
+
+## See Also
+
+- [[knf-preparations]] — complete input guide with growth stage schedules
+- [[fermented-plant-extract-fpe]] — FPJ/FFJ recipes for each stage
+- [[fish-amino-acid-faa]] — nitrogen input for vegetative stage
+- [[oriental-herbal-nutrient-ohn]] — immune support across all stages
+- [[water-soluble-calcium-wca]] — WS-Ca for changeover and reproductive stages
+- [[water-soluble-calcium-phosphate-wcp]] — WS-CaPo for the critical changeover period
+- [[brown-rice-vinegar-brv]] — BRV sour nutrient for changeover
+- [[indigenous-microorganisms-imo]] — IMO for soil building across all stages
+- [[cannabis-living-soil-guide]] — cannabis-specific application
+
+## Related
+
+- [[knf-input-application-timing]]
+
+- [[complete-knf-input-reference]] — complete input reference

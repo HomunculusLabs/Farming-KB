@@ -7,7 +7,7 @@ tags: [gardening, vegetables, planting, beginner, crops, growing-guide]
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-## Vegetable Growing Guide
+# Vegetable Growing Guide
 
 General principles for growing vegetables, from Steve Solomon's *Gardening When It Counts* Chapter 9, "What to Grow... and How to Grow It."
 
@@ -105,18 +105,3 @@ Need very fertile soil: tomatoes, peppers, eggplant, broccoli, cauliflower, cele
 - [[intensive-planting-spacing]] — Detailed spacing tables
 - [[garden-insect-identification]] — Pest identification and control
 - [[composting-systems]] — Building soil fertility
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.

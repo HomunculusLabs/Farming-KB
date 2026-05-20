@@ -80,7 +80,7 @@ nematodes tend to be more mature, less disturbed, and associated
 ## See Also
 
 [[trichoderma-and-biocontrol-fungi]] |
-[[integrated-pest-management-ipm]] |
+[[integrated-pest-management]] |
 [[mycorrhizal-fungi]] | [[soil-structure-and-aggregate-ecology]] |
 [[mushroom-contamination-identification-and-troubleshooting]]
 

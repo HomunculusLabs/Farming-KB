@@ -7,7 +7,7 @@ tags: [off-grid, homesteading, sustainability, tools, engineering]
 sources: []
 ---
 
-## Homestead Internet Options
+# Homestead Internet Options
 
 Reliable internet access is increasingly essential for homesteaders — remote work, online education, weather forecasting, emergency communication, and market access all depend on connectivity. Off-grid locations often lack cable or fiber options, but several technologies can deliver usable internet to rural properties. This guide compares available options with honest assessments of speed, cost, and reliability.
 
@@ -140,11 +140,60 @@ A WISP installs a small directional antenna on your roof or a tower, aimed at th
 - Search "wireless internet [your county/area]"
 - Check Wireless ISP Association (WISPA) directory
 - Ask neighbors what they use
+- Look for towers on hilltops with dish-shaped antennas
 
-## See Also
+## Option 4: DSL (Digital Subscriber Line)
 
-- [[homestead-energy-conservation]]
-- [[homestead-mushroom-business]]
-- [[homestead-winter-preparations]]
-- [[homestead-tool-maintenance]]
-- [[common-homestead-weeds]]
+DSL delivers internet over existing copper telephone lines. Availability is declining as carriers abandon copper infrastructure.
+
+### Specifications
+
+- **Speed**: 1-100 Mbps (typically 5-25 Mbps in rural areas)
+- **Cost**: $30-70/month
+- **Data cap**: Usually unlimited
+- **Latency**: 20-70 ms
+
+### Pros
+
+- Unlimited data
+- Reliable connection
+- Lower latency than satellite
+- Uses existing phone lines
+
+### Cons
+
+- Speed decreases with distance from telephone exchange (beyond 3 miles, very slow)
+- Many rural telephone exchanges have limited capacity
+- Carriers are actively degrading or shutting down DSL networks
+- Upload speeds are typically much slower than download
+
+### Best For
+
+- Properties close to a telephone exchange with DSL capability
+- Users who need unlimited data at moderate speeds
+
+## Option 5: Traditional Satellite (Geostationary)
+
+Viasat and HughesNet use geostationary satellites 22,000+ miles above Earth.
+
+### Specifications
+
+- **Speed**: 12-100 Mbps (varies by plan and congestion)
+- **Cost**: $50-150/month
+- **Data cap**: 10-100 GB/month (throttled after cap)
+- **Latency**: 500-700 ms (very high — noticeable lag)
+
+### Pros
+
+- Available anywhere with clear sky view
+- Established technology
+- Multiple plan options
+
+### Cons
+
+## Related
+
+- [[homestead-first-aid-guide]]
+- [[homestead-water-purification]]
+- [[homestead-financial-planning]]
+- [[off-grid-electricity-basics]]

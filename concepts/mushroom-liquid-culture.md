@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, preparation, recipe, workflow, inoculation, storage]
-sources: ["raw/papers/unknown-mushroom-culture-patent-2761246.md"]
+sources: []
 ---
 
 ## Overview
@@ -141,10 +141,42 @@ Once the LC is fully colonized (cloudy white with visible mycelial masses):
 
 ### Benefits of LC Inoculation
 
-## See Also
+- **Speed**: Living mycelium begins growing immediately. No germination phase.
+- **Multiple inoculation points**: The liquid distributes across the grain, creating many starting points for colonization.
+- **Lower contamination rate**: The large amount of living mycelium outcompetes most contaminants.
+- **Expandability**: One LC jar can inoculate 20-50 grain jars.
 
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[straw-based-mushroom-substrate-preparation]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[straw-mushroom-cultivation]]
-- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]
+## Contamination in Liquid Culture
+
+LC contamination can be difficult to detect visually:
+
+- **Bacterial contamination**: The LC becomes cloudy (milky) rather than forming distinct mycelial masses. It may smell sour when opened. Bubbles may form at the surface.
+- **Mold contamination**: Colored growth (green, blue, pink) appears. Usually obvious but may be hidden by the mycelium.
+- **Yeast**: Creamy surface growth, sometimes bubbly or frothy.
+
+The rule: if LC smells bad (anything other than mushroomy or neutral), discard it. Never use contaminated LC to inoculate grain — you will spread the contamination to every jar.
+
+## Storage
+
+- **Refrigerated (35-45F / 2-7C)**: LC remains viable for 3-6 months. Growth slows dramatically.
+- **Room temperature**: LC will continue to grow slowly and eventually consume all nutrients. Use within 1-2 months.
+- **Long-term**: Transfer LC to fresh medium every 2-3 months to maintain vigor.
+
+## LC vs. Spore Syringe Comparison
+
+| Feature | Liquid Culture | Spore Syringe |
+|---------|---------------|---------------|
+| Inoculation type | Living mycelium | Dormant spores |
+| Colonization time | 7-14 days | 14-30 days |
+| Genetic consistency | Clone (if from agar/tissue) | Variable (multi-spore) |
+| Contamination risk | Low (with clean LC) | Higher |
+| Expansion potential | Yes (1:10-1:20) | No |
+| Shelf life | 3-6 months (refrigerated) | 6-12 months (refrigerated) |
+| Cost | Higher (DIY) or lower (expanded) | Higher per use |
+
+## Related Topics
+
+- [[mushroom-spawn-making-detailed|spawn preparation]] — inoculating grain jars with liquid culture
+- [[agar-work-guide]] — preparing agar wedges for LC inoculation
+- [[mushroom-sterile-technique-detailed]] — maintaining sterility during LC preparation
+- [[mushroom-spore-printing-and-storage]] — alternative inoculation method

@@ -7,7 +7,7 @@ tags: [fungi, biology, ecology, academia, theory, history]
 sources: []
 ---
 
-## Fungal Evolution
+# Fungal Evolution
 
 Fungi are an ancient eukaryotic lineage that diverged from other organisms over a billion years ago. Their evolutionary history encompasses dramatic adaptations — from aquatic single cells to terrestrial decomposers, symbionts, and pathogens — shaping Earth's ecosystems in fundamental ways.
 
@@ -141,10 +141,40 @@ The transition from aquatic to terrestrial life was a pivotal event in fungal ev
 - Convergent evolution: Saccharomyces (ascomycete) and Cryptococcus (basidiomycete) both evolved yeast forms independently
 - Yeast forms are advantageous in liquid/sugar-rich environments (fruit surfaces, tree exudates)
 
+## Evolutionary Timeline Summary
+
+| Time (Ma) | Event |
+|-----------|-------|
+| ~1,500 | Opisthokont ancestor splits from other eukaryotes |
+| ~1,000-1,500 | Fungi diverge from Animalia |
+| ~800-1,000 | Chytrid lineages diversify |
+| ~600-700 | Zygomycete and Glomeromycota lineages diverge |
+| ~500-600 | Ascomycota and Basidiomycota lineages diverge |
+| ~460 | Earliest fungal fossils (Ordovician) |
+| ~460 | Fungi associated with earliest land plants (Rhynie Chert) |
+| ~400-450 | Ascomycetes and basidiomycetes diversify |
+| ~300 | White-rot fungi evolve lignin decomposition |
+| ~200-250 | Mushroom-forming ability evolves in Agaricomycetes |
+| ~150-200 | Ectomycorrhizae evolve independently in multiple lineages |
+| ~100 | Rust fungi diversify with angiosperm radiation |
+| ~65 | Major fungal radiation follows Cretaceous-Paleogene extinction |
+
+## Current Phylogenetic Research
+
+- High-throughput DNA sequencing is revealing vast undocumented fungal diversity
+- Environmental DNA (eDNA) sampling suggests the actual number of fungal species may exceed 5 million
+- Metagenomics reveals fungal communities in previously unexplored habitats (deep ocean, deep subsurface, Arctic permafrost)
+- Phylogenomic analyses continue to reshape the fungal tree of life — many deep relationships remain unresolved
+
 ## See Also
 
-- [[fungi-in-the-environment-fungal-ecosystems]]
-- [[fungal-amber-fossils]]
-- [[singh-fungal-pellet-formation-bioremediation]]
-- [[dark-septate-endophytes]]
-- [[fungal-pathogens-human-disease]]
+- [[fungal-biology-fundamentals]] for how evolutionary innovations manifest in the life cycle
+- [[fungal-ecology]] for the ecological context of fungal evolution
+- [[fungal-biodiversity]] for the diversity produced by evolutionary processes
+- [[fungal-symbiosis-types]] for co-evolution with plants in detail
+- [[mycorrhizal-fungi]] for the most ancient and widespread plant-fungal symbiosis
+
+## Related
+
+- [[yeast-biology]]
+- [[chytrid-fungi-guide]]

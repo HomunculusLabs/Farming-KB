@@ -1,5 +1,5 @@
 ---
-title: "Medicinal Mushroom Guide Chaga"
+title: Chaga (Inonotus obliquus) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,11 +7,11 @@ tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profil
 sources: []
 ---
 
-## Chaga (Inonotus obliquus)
+# Chaga (Inonotus obliquus)
 
 ## Overview
 
-Chaga is a sterile conk (sclerotium) that forms on living birch trees (Betula species) in cold climates across the Northern Hemisphere — Siberia, Canada, Scandinavia, northern United States, and parts of Asia. It is not a typical [[mushroom-fruiting-body-morphogenesis]] but rather a dense mass of mycelium that slowly parasitizes the birch tree over 10-15+ years.
+Chaga is a sterile conk (sclerotium) that forms on living birch trees (Betula species) in cold climates across the Northern Hemisphere — Siberia, Canada, Scandinavia, northern United States, and parts of Asia. It is not a typical mushroom fruiting body but rather a dense mass of mycelium that slowly parasitizes the birch tree over 10-15+ years.
 
 Chaga has been used for centuries in Siberian, Russian, and Scandinavian folk medicine as a general health tonic, digestive aid, and cancer remedy. It is one of the most antioxidant-rich substances found in nature.
 
@@ -29,7 +29,7 @@ Chaga has been used for centuries in Siberian, Russian, and Scandinavian folk me
 Chaga is renowned for its exceptional antioxidant profile:
 - ORAC (Oxygen Radical Absorbance Capacity) values for chaga are among the highest of any food or medicinal mushroom tested.
 - Three primary antioxidant systems: melanin, SOD enzyme, and polyphenols.
-- Scavenges [[reactive-oxygen-species-and-oxidative-stress]] (ROS) including superoxide, hydroxyl radicals, and singlet oxygen.
+- Scavenges reactive oxygen species (ROS) including superoxide, hydroxyl radicals, and singlet oxygen.
 - Protects cellular DNA from oxidative damage.
 - Anti-inflammatory via suppression of pro-inflammatory cytokines (NF-kB, COX-2, iNOS).
 
@@ -52,12 +52,12 @@ Chaga is renowned for its exceptional antioxidant profile:
 - Protects pancreatic beta cells from oxidative damage.
 
 ### Skin Health
-- [[blesching-cannabis-tinctures-infused-oils-topical-preparations]] used for psoriasis, eczema, and acne in folk medicine.
+- Topical preparations used for psoriasis, eczema, and acne in folk medicine.
 - Melanin content may provide UV protection.
 - Anti-inflammatory compounds reduce skin redness and irritation.
 
 ### Anti-Aging and Longevity
-- [[ashwagandha]] in traditional use.
+- Adaptogenic properties in traditional use.
 - Antioxidant protection against cellular aging.
 - Siberian folk tradition associates chaga with longevity.
 

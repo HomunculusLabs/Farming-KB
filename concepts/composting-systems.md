@@ -1,4 +1,5 @@
 ---
+
 title: Composting Systems
 created: 2026-04-11
 updated: 2026-04-13
@@ -17,7 +18,7 @@ tags:
 
 sources:
 - raw/sepp-holzer-practical-guide-to-small-scale-integrative.md
-- raw/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
+- raw/a-guide-to-home-scale-permaculture-gaias-[[fungi-in-garden-ecosystems|garden]]-a-guide-to-home-scale-permacultu.md
 - raw/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md
 - https://rodaleinstitute.org/why-organic/composting/
 - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=5
@@ -27,7 +28,7 @@ sources:
 - https://articles.extension.org/pages/18362/composting
 ---
 
-## Composting Systems
+# Composting Systems
 
 Composting converts organic waste into stable, nutrient-rich humus through biological decomposition. Different systems suit different scales, inputs, and timelines. On a homestead with [[duck-keeping]] and [[goat-keeping]], manure management makes composting essential. See [[vermicomposting]], [[bokashi]], [[compost-tea-aact]], and [[sepp-holzer-methods]] for specialized methods.
 
@@ -144,3 +145,28 @@ Finished compost is dark brown, crumbly, smells like forest floor (earthy, not s
 - **Temperature test:** Pile has cooled to ambient.
 - **Germination test:** Sprout radish or cress seeds in compost — >80% germination indicates maturity. Low germination suggests phytotoxicity (unfinished compost).
 - **C:N ratio:** Below 20:1 when finished.
+- **Visual:** No recognizable original materials; dark brown to black color.
+
+## Related
+
+- [[vermicomposting]] — Worm-based composting system
+- [[bokashi]] — Anaerobic fermentation pre-compost
+- [[compost-tea-aact]] — Actively aerated compost tea brewing
+- [[sepp-holzer-methods]] — Hugelkultur and holistic land management
+- [[soil-food-web-nutrient-cycling]] — Biology that drives decomposition
+- [[duck-keeping]] — Duck manure as compost input
+- [[goat-keeping]] — Goat manure as compost input
+- [[cover-cropping-guide]]
+- [[no-till-gardening-method]]
+- [[soil-fertility-management]]
+- [[animal-byproducts]]
+- [[cannabis-living-soil-guide]]
+- [[mycorrhizal-fungi]]
+- [[hot-composting-vs-vermicompost-vs-bokashi]] — comparison
+- [[humanure-composting]] — thermophilic composting of human manure
+- [[vermicomposting]] — advanced worm farming: species, bin designs, troubleshooting
+- [[biochar-in-agriculture|biochar]]]
+- [[composting-systems-design-comparison]]
+- [[permaculture-history-timeline]]
+- [[garden-soil-basics]]
+- [[hugelkultur-bed-construction]] — Hugelkultur Bed Construction is a large-scale composting technique that bury woody debris in garden beds.

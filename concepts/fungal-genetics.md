@@ -7,7 +7,7 @@ tags: [fungi, biology, academia, lab-technique, microbes]
 sources: []
 ---
 
-## Fungal Genetics
+# Fungal Genetics
 
 Fungal genetics encompasses the study of heredity, variation, and gene function in fungi. Fungi serve as powerful model organisms for genetic research — they have compact genomes, short life cycles, and haploid genetics that make mutant analysis straightforward. Advances in fungal genetics drive applications in medicine, agriculture, and biotechnology.
 
@@ -140,11 +140,36 @@ CRISPR-Cas9 genome editing has revolutionized fungal genetics since ~2015:
 
 - Many basidiomycetes are dikaryotic — two nuclei per cell complicates editing
 - Efficient transformation protocols are still being developed for many species
+- Some species have robust DNA repair systems that reduce editing efficiency
+- Regulatory concerns for genome-edited cultivated mushrooms
+
+## Epigenetics in Fungi
+
+- **DNA methylation**: Variable across fungal groups. Heavy in some basidiomycetes; minimal in S. cerevisiae (no detectable methylation)
+- **Repeat-Induced Point Mutation (RIP)**: A fungal-specific genome defense in Neurospora and related genera. Duplicates DNA sequences are mutated by C-to-T transitions during the sexual cycle, silencing transposons and duplicated genes
+- **Histone modifications**: H3K9 methylation, H3K27 methylation regulate gene expression
+- **Quelling**: RNAi-dependent gene silencing in Neurospora, similar to co-suppression in plants
+
+## Population Genetics
+
+- Fungal populations exhibit high genetic diversity due to vast spore production and long-distance dispersal
+- **Clonal lineages**: Many pathogenic fungi reproduce primarily clonally (e.g., lineages of Cryptococcus gattii)
+- **Geographic structure**: Some species show strong population structure by geography; others are globally panmictic
+- **Gene flow**: Spore dispersal can move genes across continents
+- **Mating type ratios**: Natural populations often show skewed ratios due to selection pressures
+
+## Industrial Applications of Fungal Genetics
+
+- **Enzyme production**: Genetically modified Trichoderma reesei produces industrial cellulase cocktails for biofuel production
+- **Antibiotics**: Penicillium chrysogenum has been genetically improved over 70 years to produce 100,000x more penicillin than wild strains
+- **Organic acids**: Aspergillus niger engineered for citric acid production
+- **Food**: GMO yeasts for wine, beer, and bread with optimized fermentation properties
+- **Biocontrol**: Genetically characterized Beauveria and Metarhizium strains for pest control
 
 ## See Also
 
-- [[fungi-in-the-environment-fungal-ecosystems]]
-- [[fungal-amber-fossils]]
-- [[singh-fungal-pellet-formation-bioremediation]]
-- [[dark-septate-endophytes]]
-- [[fungal-pathogens-human-disease]]
+- [[fungal-biology-fundamentals]] for the genetic context of the fungal life cycle
+- [[mushroom-genetics-strain-selection]] for practical genetics in cultivation
+- [[fungal-sexual-reproduction]] for mating type systems
+- [[fungal-evolution]] for how fungal genomes have changed over time
+- [[agar-work-guide]] for techniques used in fungal culture work

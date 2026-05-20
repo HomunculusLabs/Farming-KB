@@ -1,7 +1,7 @@
 ---
 title: "Pf Tek Steam Sterilization Jar Preparation"
 tags: [wiki]
-sources: []
+sources: [papers/teaming-with-fungi-lowenfels.md]
 ---
 
 The steamer pot provides the enclosed environment necessary to generate and

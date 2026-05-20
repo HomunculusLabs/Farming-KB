@@ -7,9 +7,9 @@ tags: [animal-husbandry, livestock, forage, permaculture, homesteading, construc
 sources: []
 ---
 
-## Chickshaw and Poultry Tractors
+# Chickshaw and Poultry Tractors
 
-A poultry tractor (or [[chicken-tractor-entity]]) is a mobile coop without a floor that is moved regularly to fresh pasture, allowing chickens to forage on grass, weeds, seeds, and insects while fertilizing the ground. A chickshaw is a specific type of poultry tractor designed as a lightweight, cart-style coop on wheels that can be easily towed or pushed by hand.
+A poultry tractor (or chicken tractor) is a mobile coop without a floor that is moved regularly to fresh pasture, allowing chickens to forage on grass, weeds, seeds, and insects while fertilizing the ground. A chickshaw is a specific type of poultry tractor designed as a lightweight, cart-style coop on wheels that can be easily towed or pushed by hand.
 
 ## Benefits of Mobile Poultry Housing
 
@@ -29,7 +29,7 @@ The chickshaw concept (popularized by Harvey Ussery and Justin Rhodes) is a ligh
 -  **Frame** — 2x4 or 2x3 lumber frame, kept as light as possible. Use cedar or treated lumber for ground-contact parts.
 -  **Wheels** — Two bicycle wheels, wheelbarrow wheels, or pneumatic cart wheels on one end. A skid plate or smaller wheels on the other end for steering. Wheel diameter of 20-26 inches works well for rough terrain.
 -  **Towing** — A rope, chain, or handle attaches to the front for pulling by hand, ATV, or garden tractor.
--  **Floor** — Open bottom (no floor). Chickens have direct contact with the ground. Optional wire mesh floor for [[fukuoka-natural-predator-protection]] in areas with digging predators.
+-  **Floor** — Open bottom (no floor). Chickens have direct contact with the ground. Optional wire mesh floor for predator protection in areas with digging predators.
 -  **Roosting area** — Elevated roosts at the back of the coop. Provide 20-25 cm of roost space per bird.
 -  **Nest boxes** — One nest box per 4-5 hens. Accessible from outside the coop for easy egg collection.
 -  **Shelter** — Plywood or metal roofing on the top 2/3 of the coop. The front 1/3 can be open with hardware cloth for ventilation.
@@ -56,7 +56,7 @@ The classic design — a triangular A-frame structure that is lightweight and ea
 
 ### Hoop House Tractor
 
-A arched frame covered with wire mesh and a tarp or [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]] cover.
+A arched frame covered with wire mesh and a tarp or greenhouse plastic cover.
 
 -  **Pros**: Good headroom, excellent light, can add cold-weather cover, spacious
 -  **Cons**: Heavier than A-frame, more expensive materials, wind can catch the tarp
@@ -67,7 +67,7 @@ A arched frame covered with wire mesh and a tarp or [[coleman-wiggle-wire-channe
 A coop on wooden or metal runners (skids) without wheels. Dragged to new positions.
 
 -  **Pros**: Simplest design, no wheel maintenance, very stable, can be heavy-duty
--  **Cons**: Hard to move on rough or wet ground, can damage [[pasture-sod-seeding]] when dragged
+-  **Cons**: Hard to move on rough or wet ground, can damage pasture sod when dragged
 -  **Best for**: Flat, smooth pasture; small flocks; winter stationary use
 
 ## Pasture Rotation
@@ -106,12 +106,12 @@ Mobile coops are more vulnerable to predators than fixed coops with concrete flo
 ## Seasonal Considerations
 
 - **Summer** — Ensure adequate ventilation. Shade cloth over part of the wire area reduces heat stress. Move to areas with shade trees during midday.
-- **Winter** — Add a tarp or plastic cover to block wind and retain heat. Reduce move frequency (stationary with deep bedding if ground is frozen). Supplement light to maintain [[mollison-designers-chicken-tractors-egg-production]] — 14-16 hours of light per day.
+- **Winter** — Add a tarp or plastic cover to block wind and retain heat. Reduce move frequency (stationary with deep bedding if ground is frozen). Supplement light to maintain egg production — 14-16 hours of light per day.
 - **Wet seasons** — Move to higher ground or well-drained areas. Wet conditions increase parasite load and foot problems. Add a wooden floor panel if the ground is consistently muddy.
 
 ## Egg Production in Mobile Systems
 
-Hens in well-managed mobile systems produce 200-280 eggs per year per bird, comparable to fixed-coop systems. [[factors-affecting-mycoremediation-efficiency]] production:
+Hens in well-managed mobile systems produce 200-280 eggs per year per bird, comparable to fixed-coop systems. Factors affecting production:
 
 - Consistent access to feed and water
 - Protection from weather extremes

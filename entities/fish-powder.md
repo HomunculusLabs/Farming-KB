@@ -11,7 +11,7 @@ tags: [fertilizer, nitrogen, organic, fish-product, fast-acting, soluble]
 Fish powder is a highly soluble, fast-acting [[natural-fertilizer-sources-and-application]] made from heat-processed fish material. It carries an N-P-K ratio of approximately 12-0.25-1 and is distinguished by its very high nitrogen content (12%) in a water-soluble form. Because it dissolves readily in water, fish powder acts almost as quickly as [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]], making it one of the fastest-acting organic nitrogen sources available. However, this same solubility means it can leach from soils easily and is typically used up within 1 month under normal conditions.
 
 ## Classification
-- **Category**: Natural/[[complete-organic-fertilizer]] (Dry Powder)
+- **Category**: Natural/[[complete-organic-fertilizer-cof]] (Dry Powder)
 - **Primary Nutrient**: Nitrogen (N)
 - **N-P-K**: 12-0.25-1
 - **Source**: Animal by-product (fish material)

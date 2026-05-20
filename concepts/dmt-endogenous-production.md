@@ -111,3 +111,10 @@ Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
 
 Understanding dmt endogenous production provides essential context for both practical application and deeper theoretical study in this domain.
+
+## See Also
+- [[permaculture-design-principles]]
+- [[permaculture-zones]]
+- [[permaculture-guilds]]
+- [[2-alpha-dmt-entity-tihkal]]
+- [[2-me-dmt-entity-tihkal]]

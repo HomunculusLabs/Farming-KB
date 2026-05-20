@@ -7,17 +7,17 @@ tags: [psychopharmacology, entheogen, ethnobotany, consciousness, pharmacology, 
 sources: []
 ---
 
-## Salvinorin A
+# Salvinorin A
 
 ## Overview
 
-Salvinorin A is the primary psychoactive compound found in [[salvia-divinorum]], a species of sage in the mint family (Lamiaceae). It is a neoclerodane diterpene and is notable for being the first known non-nitrogenous opioid receptor agonist. Unlike most classical psychedelics (LSD, psilocybin, DMT), salvinorin A has no nitrogen atom and does not act on [[psilocybin-pharmacology-and-serotonin-receptors]].
+Salvinorin A is the primary psychoactive compound found in [[salvia-divinorum|Salvia divinorum]], a species of sage in the mint family (Lamiaceae). It is a neoclerodane diterpene and is notable for being the first known non-nitrogenous opioid receptor agonist. Unlike most classical psychedelics (LSD, psilocybin, DMT), salvinorin A has no nitrogen atom and does not act on serotonin receptors.
 
 ## Pharmacology
 
-Salvinorin A is a highly selective kappa-opioid receptor (KOR) agonist. This distinguishes it from virtually all other [[psychedelic-substances-comparison]], which primarily target serotonin 5-HT2A receptors.
+Salvinorin A is a highly selective kappa-opioid receptor (KOR) agonist. This distinguishes it from virtually all other psychedelic substances, which primarily target serotonin 5-HT2A receptors.
 
-Key [[lsd-discovery-aftermath-pharmacological-properties]]:
+Key pharmacological properties:
 
 - Receptor: kappa-opioid receptor (KOR)
 - Mechanism: Full agonist with high selectivity (no significant activity at mu or delta opioid receptors)
@@ -41,13 +41,13 @@ Effects vary enormously by dose, set, and setting. Common reported experiences i
 - Amnesia of the experience (common at higher doses)
 - Emotional catharsis or, conversely, profound confusion
 
-Many users report that the experience is more "forcing" and less controllable than other psychedelics. The intensity can be overwhelming, and the lack of a serotoninergic mechanism means standard [[psychedelic-integration]] frameworks may not fully apply.
+Many users report that the experience is more "forcing" and less controllable than other psychedelics. The intensity can be overwhelming, and the lack of a serotoninergic mechanism means standard psychedelic integration frameworks may not fully apply.
 
 ## Preparation Methods
 
 ### Traditional Quid Method
 
-The [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] uses fresh [[salvia-divinorum]] leaves chewed as a quid:
+The Mazatec tradition uses fresh Salvia divinorum leaves chewed as a quid:
 
 1. Collect 6-28 large fresh leaves
 2. Roll into a ball or cylinder (quid)
@@ -102,26 +102,9 @@ Salvinorin A is unscheduled in many countries but regulated or banned in others.
 
 ## History and Cultural Context
 
-Salvia divinorum has been used for centuries by the Mazatec people of Oaxaca, Mexico, in traditional [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies. The active compound was isolated and characterized in 1982 by Alfredo Ortega and colleagues. Its unique KOR mechanism was identified in 2002 by Bryan Roth's research group at UNC Chapel Hill, opening new avenues in opioid [[cannabinoid-receptor-pharmacology]].
+Salvia divinorum has been used for centuries by the Mazatec people of Oaxaca, Mexico, in traditional healing and divination ceremonies. The active compound was isolated and characterized in 1982 by Alfredo Ortega and colleagues. Its unique KOR mechanism was identified in 2002 by Bryan Roth's research group at UNC Chapel Hill, opening new avenues in opioid receptor pharmacology.
 
 ## See Also
 
 - [[5-meo-dmt-reference]] — comparison of non-classical psychedelics
 - [[harm-reduction-guide]] — general harm reduction principles applicable to salvinorin use
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
-Collaborative networks and knowledge sharing accelerate progress in this field.
-Emerging technologies offer new tools for analysis and implementation.
-Local adaptation and context-specific strategies remain essential for success.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.

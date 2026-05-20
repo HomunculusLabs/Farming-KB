@@ -1,22 +1,22 @@
 ---
-title: Knf Water Soluble Phosphoric Acid
+title: KNF Water Soluble Phosphoric Acid
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [knf, minerals, fertilizer]
 sources:
-  - "raw/papers/master-cho-knf-recipe-book.md"
+  - raw/papers/master-cho-knf-recipe-book.md
   - raw/papers/chos-global-natural-farming.md
 ---
 
-## KNF Water Soluble Phosphoric Acid (WPA)
+# KNF Water Soluble Phosphoric Acid (WPA)
 
-Water Soluble Phosphoric Acid (also called Water Soluble Phosphate or WSP) is extracted from animal bones using [[brown-rice-vinegar-brv]] (BRV) and charcoal. It is essential for flowering, fruiting, and [[root-development-and-plant-competition]].
+Water Soluble Phosphoric Acid (also called Water Soluble Phosphate or WSP) is extracted from animal bones using brown rice vinegar (BRV) and charcoal. It is essential for flowering, fruiting, and root development.
 
 ## Why Phosphoric Acid Matters
 
 - Critical for flower formation and fruit development
-- Promotes root [[gadd-hyphal-tip-growth-and-branching-mechanisms]]
+- Promotes root growth and branching
 - Increases disease resistance
 - Essential for energy transfer (ATP) in plants
 - Deficiency causes stunted growth, dark green/purplish leaves, poor flowering
@@ -63,7 +63,7 @@ Leftover bones from [[knf-fish-amino-acid]] FAA production can be used. Put them
 ## Dilution and Use
 
 - Basic dilution ratio: 1:1,000
-- Apply during [[knf-reproductive-growth-stage]] period (flowering and fruiting)
+- Apply during reproductive growth period (flowering and fruiting)
 - Can be mixed with WSC for enhanced flower/fruit quality
 - Apply as foliar spray in early morning or late afternoon
 - Good for root crops during tuber development
@@ -73,7 +73,7 @@ Leftover bones from [[knf-fish-amino-acid]] FAA production can be used. Put them
 - When plants show slow flowering or poor fruit set
 - For root crops during bulking stage
 - During transplanting to encourage root development
-- When leaves show purplish discoloration ([[query-how-to-fix-phosphorus-deficiency-in-cannabis]])
+- When leaves show purplish discoloration (phosphorus deficiency)
 
 ## Storage
 
@@ -86,36 +86,3 @@ Leftover bones from [[knf-fish-amino-acid]] FAA production can be used. Put them
 - [[knf-fish-amino-acid]]
 - [[knf-oriental-herbal-nutrient]]
 - [[knf-fermented-fruit-juice]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-
-## Implementation Notes
-Start with small-scale trials before expanding to larger operations.
-Maintain detailed records of conditions, inputs, and outcomes for iterative refinement.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-Documentation of results enables continuous improvement and knowledge sharing.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-Collaborative networks facilitate rapid dissemination of innovations and best practices.

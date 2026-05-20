@@ -7,7 +7,7 @@ tags: [entheogen, indoor, cultivation, cacti, species, plants, beginner, environ
 sources: []
 ---
 
-## Psychedelic Plants Indoor Growing
+# Psychedelic Plants Indoor Growing
 
 ## Overview
 
@@ -140,11 +140,46 @@ From seed:
 5. Germination: 2–6 weeks (highly variable)
 
 From cuttings:
+1. Take woody stem cuttings 8–12 inches long with at least 2 nodes
+2. Dip in rooting hormone
+3. Place in moist propagation medium under high humidity and bottom heat
+4. Roots in 4–12 weeks
+5. Success rate is moderate — this is not the easiest plant to propagate
 
-## See Also
+### Care
+- Provide a sturdy trellis or support structure — the vine will climb aggressively
+- Maintain high humidity consistently
+- Keep warm year-round — even brief cold exposure can be fatal
+- Water when the top inch of soil is dry — do not let soil become waterlogged
+- Fertilize monthly during the growing season with balanced tropical plant fertilizer
+- Prune to manage size — B. caapi can grow 30+ feet in tropical conditions
+- Harvest can be done by pruning sections of mature vine (1+ inch diameter)
 
-- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
-- [[psychedelic-1960s-counterculture]]
-- [[psychedelic-consciousness-expansion]]
-- [[psychedelic-prohibition-and-the-war-on-consciousness]]
-- [[psychedelic-therapy-set-and-setting]]
+### Growth Rate
+- Slow indoors: 1–3 feet per year under good conditions
+- Vine diameter of 1+ inch typically requires 3–5 years of growth
+- A mature, harvestable plant requires significant space and commitment
+
+## General Indoor Entheogen Growing Tips
+
+### Environment Control
+- Use a grow tent or dedicated grow space for consistent conditions
+- A thermometer/hygrometer is essential — monitor conditions daily
+- Automated timers for lights
+- Humidifiers and fans for air circulation
+
+### Pest Management
+- Quarantine new plants for 2 weeks before adding to your grow space
+- Inspect regularly for pests — early detection is key
+- Neem oil, insecticidal soap, and biological controls (ladybugs, predatory mites) are effective organic options
+- Avoid systemic pesticides on plants that may eventually be consumed
+
+### Legal Awareness
+- Growing these plants is generally legal as ornamentals in most jurisdictions
+- However, cultivating with the intent to consume for psychoactive effects may be illegal
+- Be discreet and informed about your local laws — see [[psychedelic-plants-legal-status]]
+
+## Related Topics
+
+- [[entheogen-vendors-and-sources]] — where to obtain plants, seeds, and cuttings
+- [[san-pedro-cactus-preparation]] — what to do with your harvested San Pedro

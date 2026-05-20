@@ -7,7 +7,7 @@ tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
 sources: []
 ---
 
-## Sweet Potato Growing Guide
+# Sweet Potato Growing Guide
 
 Sweet potatoes (Ipomoea batatas) are a warm-climate perennial grown as an annual in most of the US. They produce large, calorie-dense tubers that store for months. Unlike regular potatoes (Solanum tuberosum), sweet potatoes are in the morning glory family and have very different growing requirements. This guide covers slips, soil, planting, hilling, curing, and storage.
 
@@ -140,11 +140,44 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 - Lift a test potato to check size — if they are the size you want, harvest.
 
 ### How to Harvest
+- Cut vines 2-3 inches above ground and remove.
+- Use a digging fork, starting 12-18 inches from the plant center.
+- Dig deep and wide — sweet potatoes can spread far.
+- Lift gently — sweet potatoes skin easily; bruised tubers won't store well.
+- Do NOT wash — brush off loose soil only.
+- Cure damaged or cut tubers separately (use them first).
 
-## See Also
+## Curing
 
-- [[comparison-potato-vs-sweet-potato-cultivation]]
-- [[coleman-sweet-winter-carrots-cold-sweetening]]
-- [[solomon-sweet-potato-cultivation-guide]]
-- [[oner-golden-goat-island-sweet-skunk-hawaiian-romulan]]
-- [[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]]
+Curing is ESSENTIAL for sweet potatoes — it converts starches to sugars, thickens the skin, and heals cuts.
+
+- **Temperature**: 80-85°F with 80-90% humidity.
+- **Duration**: 10-14 days.
+- **Method**: Place in a warm, humid location. Options:
+  - Near a heat source with a humidifier.
+  - In a greenhouse with mist.
+  - In a box with damp towels, in a warm room (check daily for mold).
+  - Wrap individually in newspaper and place in a warm (80-85°F) location.
+- After curing, the skin should be tough and the flesh sweet.
+- Uncured sweet potatoes are starchy, bland, and do not store well.
+
+## Storage
+
+### Ideal Conditions
+- Temperature: 55-60°F (cool but not cold).
+- Humidity: 85-90%.
+- Dark, well-ventilated.
+- Do NOT refrigerate — temperatures below 50°F cause chilling injury (hard core, off-flavor).
+- Do NOT store near apples or pears — ethylene gas causes off-flavors.
+
+### Storage Duration
+- Properly cured and stored sweet potatoes last 4-8 months.
+- Check monthly for soft spots or shriveling — remove immediately.
+- Eat any damaged or bruised roots first.
+
+## Related Concepts
+
+- [[potato-growing-guide]] — similar storage crop with different growing requirements
+- [[winter-squash-guide]] — another long-storing warm-season crop
+- [[soil-amendment-reference]] — phosphorus and potassium for tuber development
+- [[mulching-guide]] — black plastic mulch and straw for sweet potato beds

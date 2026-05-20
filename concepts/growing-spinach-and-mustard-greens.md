@@ -19,7 +19,7 @@ Spinach and mustard are cool-season greens with a twist: their fertilizer demand
 
 ### Fertilizer
 
-Work in strong compost or, better, COF ([[complete-organic-fertilizer]]) made with some tankage or even highly potent bloodmeal instead of one part seedmeal. Work it in before sowing, then side-dress closer to the rows of seedlings as soon as they start forming their first true leaf.
+Work in strong compost or, better, COF ([[complete-organic-fertilizer-cof]]) made with some tankage or even highly potent bloodmeal instead of one part seedmeal. Work it in before sowing, then side-dress closer to the rows of seedlings as soon as they start forming their first true leaf.
 
 ### Timing
 

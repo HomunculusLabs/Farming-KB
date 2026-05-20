@@ -7,7 +7,7 @@ tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
 sources: []
 ---
 
-## Winter Squash Guide
+# Winter Squash Guide
 
 Winter squash (Cucurbita species) are warm-season vining crops harvested at maturity when the rind is hard and the seeds are fully formed. Unlike summer squash, winter squash store for months and are a staple homesteading crop for winter food security. This guide covers varieties, growing, curing, and storage.
 
@@ -84,11 +84,11 @@ Winter squash (Cucurbita species) are warm-season vining crops harvested at matu
 ### Watering
 - 1-2 inches per week.
 - Critical during flowering and fruit development.
-- Drip irrigation ideal; avoid wetting foliage ([[cervantes-powdery-mildew-prevention-treatment]]).
+- Drip irrigation ideal; avoid wetting foliage (powdery mildew).
 - Mulch heavily to conserve moisture.
 
 ### Fertilizing
-- Heavy feeder: side-dress with compost or balanced [[complete-organic-fertilizer]] when vines begin to run.
+- Heavy feeder: side-dress with compost or balanced organic fertilizer when vines begin to run.
 - Additional side-dress when fruits begin to set.
 - Too much nitrogen = lush vines, few fruits.
 
@@ -98,7 +98,7 @@ Winter squash (Cucurbita species) are warm-season vining crops harvested at matu
 |------|--------|---------|
 | Squash bugs | Suck sap, wilt and kill plants | Hand-pick eggs (bronze clusters under leaves), neem oil, row covers early |
 | Squash vine borer | Larvae bore into stem, wilt plant | Row covers until flowering, slit stem and remove larva, Bt, wrap stem bases with foil |
-| Cucumber beetles | Strip leaves, spread bacterial wilt | Row covers, kaolin clay, [[beneficial-insects-and-biological-pest-control]] |
+| Cucumber beetles | Strip leaves, spread bacterial wilt | Row covers, kaolin clay, beneficial insects |
 | Powdery mildew | White coating on leaves, reduces yield | Good airflow, neem oil, potassium bicarbonate spray, resistant varieties |
 
 ### Pollination
@@ -140,10 +140,26 @@ Curing thickens the skin and heals minor cuts, dramatically improving storage li
 - Well-ventilated, dark, single layer or on shelves (not stacked).
 - Check weekly — remove any squash with soft spots or mold immediately.
 
-## See Also
+### Storage Life by Variety
 
-- [[coleman-claytonia-winter-harvest-cultivation]]
-- [[coleman-semi-hibernating-winter-crops-harvest-extension]]
-- [[unheated-greenhouse-winter-harvest]]
-- [[homestead-winter-preparations]]
-- [[coleman-winter-harvest-planting-schedule]]
+| Squash Type | Storage Duration |
+|-------------|-----------------|
+| Butternut | 3-6 months |
+| Kabocha | 4-6 months |
+| Hubbard | 5-6 months |
+| Spaghetti | 2-3 months |
+| Delicata | 2-3 months |
+| Acorn | 1-2 months |
+
+### Storage Tips
+- Do NOT refrigerate — cold damage causes chilling injury (watery spots, decay).
+- Do NOT store near apples, pears, or bananas — ethylene gas shortens storage.
+- Eat the shortest-storing varieties first (acorn, delicata).
+- Save longest-storing varieties (butternut, hubbard) for deep winter.
+
+## Related Concepts
+
+- [[companion-planting-reference]] — corn, beans, and nasturtiums as squash companions (Three Sisters)
+- [[hugelkultur-guide]] — squash cascading off hugel mounds
+- [[mulching-guide]] — heavy mulching for moisture retention
+- [[sweet-potato-guide]] — another storage crop with similar planting timing

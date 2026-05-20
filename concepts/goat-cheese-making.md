@@ -7,7 +7,7 @@ tags: [goats, food, processing, homesteading, recipe, homestead-crafts, nutritio
 sources: []
 ---
 
-## Goat Cheese Making
+# Goat Cheese Making
 
 Goat milk cheese (chevre) is one of the most accessible and rewarding homestead dairy products. Goat milk is naturally homogenized (smaller fat globules), making it easier to curdle and produce a creamy cheese. This guide covers the fundamental cheeses that can be made at home: fresh chevre, feta, and aged gouda.
 
@@ -140,11 +140,8 @@ Gouda is a washed-curd cheese that requires more equipment and time but produces
 
 -  **Curd won't set** — Check rennet freshness, verify milk temperature, ensure milk wasn't UHT pasteurized
 -  **Bitter cheese** — Too much rennet, excess moisture in curd, or insufficient aging
-
+-  **Crumbly cheese** — pH too low (over-acidified), or insufficient pressing
+-  **Rubbery cheese** — Temperature too high during cooking, or excess rennet
+-  **Off-flavors** — Check milk quality, sanitation, and feed. Goat milk absorbs flavors readily
 ## See Also
-
-- [[permaculture-goat-raising]]
-- [[goat-husbandry]]
-- [[comparison-cattle-husbandry-vs-goat-husbandry]]
 - [[mollison-designers-goat-dairy-and-cheese-production]]
-- [[goat-keeping]]

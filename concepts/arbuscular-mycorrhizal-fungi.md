@@ -7,9 +7,9 @@ tags: [mycology, soil-biology, fungi, ecology]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-## Arbuscular Mycorrhizal Fungi
+# Arbuscular Mycorrhizal Fungi
 
-Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, associating with 80-90% of terrestrial plant species. Belonging to the phylum Glomeromycota, AMF form intracellular structures (arbuscules) within root cortical cells where nutrient exchange occurs. They are essential for plant nutrition, soil health, [[fungal-biodiversity-and-ecosystem-function]].
+Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, associating with 80-90% of terrestrial plant species. Belonging to the phylum Glomeromycota, AMF form intracellular structures (arbuscules) within root cortical cells where nutrient exchange occurs. They are essential for plant nutrition, soil health, and ecosystem function.
 
 ## The Symbiosis
 
@@ -18,7 +18,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 - **Nitrogen**: Access organic and inorganic N sources unavailable to roots
 - **Water**: Hyphal network improves water uptake during drought
 - **Micronutrients**: Enhanced uptake of zinc, copper, manganese
-- **Disease protection**: Physical barrier around roots, [[endophytic-mycorrhizal-induced-systemic-resistance]]
+- **Disease protection**: Physical barrier around roots, induced systemic resistance
 - **Soil aggregation**: Glomalin (a glycoprotein produced by AMF) binds soil particles into stable aggregates
 
 ### What Plants Provide
@@ -57,7 +57,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 ### Broad but Not Universal
 - Most crops, vegetables, grasses, and many trees form AM associations
 - Notable non-hosts: Brassicaceae (cabbage, broccoli, mustard), Chenopodiaceae (spinach, beet), Amaranthaceae (amaranth)
-- AMF can associate with multiple plant species simultaneously — creating [[common-mycorrhizal-networks]]
+- AMF can associate with multiple plant species simultaneously — creating common mycorrhizal networks
 
 ### Crop Families and AMF
 - **Highly dependent**: Allium (onion, garlic), Solanaceae (tomato, pepper), Leguminosae (beans, peas), Poaceae (corn, wheat)
@@ -75,7 +75,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 
 ### Suppressing AMF
 - High P fertilizer (plants reduce carbon allocation to AMF)
-- [[comparison-no-till-vs-conventional-tillage]] (breaks hyphal networks)
+- Conventional tillage (breaks hyphal networks)
 - Fallow periods (no host plants, AMF decline)
 - Certain pesticides (fungicides particularly harmful)
 - High soil disturbance
@@ -88,7 +88,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 - Over time, AMF-rich soils require fewer inputs
 
 ### Drought Resilience
-- AMF improve water uptake and [[dighton-fungal-drought-tolerance-plant-water-relations]]
+- AMF improve water uptake and drought tolerance
 - Particularly important in dryland farming
 - AMF-inoculated plants maintain turgor longer under water stress
 
@@ -102,20 +102,3 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 - [[mycorrhizal-networks-common-mycelial-network]] — for common networks
 - [[fungal-role-in-phosphorus-cycling]] — for P cycling role
 - [[soil-food-web-structure]] — for the broader soil biology context
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

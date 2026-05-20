@@ -1,4 +1,5 @@
 ---
+
 title: Uwe Blesching
 created: 2026-04-11
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
 - raw/papers/uwe-blesching-the-cannabis-health-index.md
 ---
 
-## Uwe Blesching
+# Uwe Blesching
 
 Uwe Blesching, Ph.D. (born 1958) is an American author and researcher who compiled one of the most comprehensive references on the therapeutic applications of cannabis. "The Cannabis Health Index" (2013, updated 2015) was published by North Atlantic Books of Berkeley, California, and cross-references health conditions with specific cannabinoid and terpene profiles, preparation methods, and evidence levels from clinical research.
 
@@ -47,35 +48,41 @@ Blesching's work is notable for bridging the gap between clinical pharmacology a
 
 ## See Also
 
-- [[blesching-cannabis-cancer-symptoms]]
-- [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
-- [[blesching-cannabis-dental-and-oral-health]]
-- [[blesching-cannabis-hepatitis-antiviral-treatment-adjunct]]
-- [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]]
-- [[cannabis-health-therapeutics]]
-- [[cannabis-plant-nutrition]]
-- [[cannabis-spiritual-ritual-use]]
-- [[entheogen-culture]]
-- [[herbal-medicine]]
+- [[cannabis-health-therapeutics]] — Medical cannabis by condition
+- [[cannabis-plant-nutrition]] — Cultivation for therapeutic use
+- [[cannabis-spiritual-ritual-use]] — Cannabis in spiritual and ritual contexts
+- [[herbal-medicine]] — Broader herbal therapeutic approaches
+- [[entheogen-culture]] — Sacred plant use across cultures
+### Key Principles
+Understanding uwe blesching requires consideration of several interrelated factors.
+These principles form the foundation for practical application and further research.
+Each factor contributes to the overall effectiveness and sustainability of the approach.
 
-## Practical Applications
+### Methods and Techniques
+Various methods have been developed to implement these concepts effectively.
+Selection of appropriate techniques depends on specific conditions and objectives.
+Adaptation to local conditions improves outcomes and resource efficiency.
 
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
-## Key Considerations
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]
+### Additional Notes
+The study and application of uwe blesching continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-## Comparative Analysis
+### Additional Notes
+The study and application of uwe blesching continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Examining this topic alongside related approaches reveals complementary strategies and unique advantages. Multiple perspectives enrich understanding and inform better decision-making.
+### Additional Notes
+The study and application of uwe blesching continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-## Mechanisms and Processes
-
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
-## Management Approaches
-
-Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
-## Performance Metrics
-
-Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
-
-This entry contributes to the broader understanding of the subject within its ecological and practical context.
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

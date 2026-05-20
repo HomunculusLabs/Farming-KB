@@ -5,7 +5,7 @@ tags: [engineering, fluid-dynamics, computational-physics, simulation, numerical
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 ## Overview

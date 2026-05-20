@@ -14,7 +14,7 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-## Permaculture Temperate Design Strategies
+# Permaculture Temperate Design Strategies
 
 Chapter 12 of the Designers' Manual addresses the cool temperate and cold climate strategies, dealing with the specific challenges of frost, snow, wind, short growing seasons, and the bimodal productivity curve of temperate grasslands.
 
@@ -22,7 +22,7 @@ Chapter 12 of the Designers' Manual addresses the cool temperate and cold climat
 
 ### Bimodal Growth Curve
 
-The net product of grassland in a cool humid climate has a [[bimodal-growth-curve]] with two periods of deficit -- late summer (from grass seeding, droughting, and drying-off) and winter (slow or no growth, with snow cover or blizzards). These deficits are always a feature of open grasslands.
+The net product of grassland in a cool humid climate has a bimodal growth curve with two periods of deficit -- late summer (from grass seeding, droughting, and drying-off) and winter (slow or no growth, with snow cover or blizzards). These deficits are always a feature of open grasslands.
 
 Strategies to overcome seasonal deficits:
 - **Summer**: Green leaf from forage tree plantations overcomes the shortage. Evergreen forage trees like tagasaste may not withstand hard frost if lopped in late autumn; mature leaf must be carried into frost periods. Deciduous species (willow, poplar) provide summer forage, and their wood chips can be fermented to high-value winter concentrates.
@@ -52,7 +52,7 @@ A meadow is maintained by its pollinators, browsers, burrowers, and their predat
 
 ## Soil Revitalisation
 
-Compacted soils and worn-out pastures are revitalised by [[sod-seeding]]: a broad-flanged chisel point at 6-10 cm depth and 0.5-0.6 m spacing cuts existing grass roots and provides a seed furrow. Early spring and mid-autumn to early winter are usual sowing periods. Trace elements, major nutrients, and water-retaining gels can be added to the furrows.
+Compacted soils and worn-out pastures are revitalised by sod-seeding: a broad-flanged chisel point at 6-10 cm depth and 0.5-0.6 m spacing cuts existing grass roots and provides a seed furrow. Early spring and mid-autumn to early winter are usual sowing periods. Trace elements, major nutrients, and water-retaining gels can be added to the furrows.
 
 Seed mixes for sod-seeding include clovers for the specific site, spikeroots (dandelion, plantain, chicory), woody browse species (wormwood, tagasaste, Elaeagnus, pines, willows, poplars), and site-appropriate grasses.
 
@@ -84,38 +84,3 @@ Best defenses: preservation of high-slope forests, placement of essential servic
 - [[permaculture-livestock-forage-systems]] -- Forage strategies for temperate livestock
 - [[permaculture-design-process]] -- Energy-efficient housing for cold climates
 - [[permaculture-livestock-forage-systems]] -- Rotational grazing in temperate grasslands
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-Field trials provide essential data for validating theoretical approaches and refining methodologies.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-Peer-reviewed publications and practitioner reports contribute complementary perspectives.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-Regional networks and demonstration sites play crucial roles in technology transfer.
-
-## Implementation Notes
-Start with small-scale trials before expanding to larger operations.
-Maintain detailed records of conditions, inputs, and outcomes for iterative refinement.
-Regular review and adjustment of strategies based on observed results ensures continuous improvement.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

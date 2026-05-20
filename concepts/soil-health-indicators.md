@@ -1,4 +1,5 @@
 ---
+
 title: Soil Health Indicators
 created: 2026-04-11
 updated: 2026-04-12
@@ -19,7 +20,7 @@ sources:
 - raw/papers/teaming-with-microbes-lowenfels.md
 ---
 
-## Soil Health Indicators
+# Soil Health Indicators
 
 Healthy soil can be assessed through biological, physical, and chemical indicators. While lab tests measure chemistry, the most important indicators of soil health are biological — visible signs of a thriving [[soil-food-web-nutrient-cycling]].
 
@@ -109,18 +110,3 @@ The simplest soil health assessment:
 - [[compost-tea-aact]] — how to restore soil biology
 - [[no-till-gardening-method]] — practices that protect soil health
 - [[soil-food-web-nutrient-cycling]] — the philosophy of biological soil management
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
-Collaborative networks and knowledge sharing accelerate progress in this field.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.

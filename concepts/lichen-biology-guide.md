@@ -7,7 +7,7 @@ tags: [fungi, mycology, ecology, biology, symbiosis, foraging, species-profiles]
 sources: []
 ---
 
-## Lichen Biology Guide
+# Lichen Biology Guide
 
 Lichens are composite organisms arising from a symbiotic relationship between a fungus (the mycobiont, usually an [[ascomycete-phylum-guide|ascomycete]]) and a photosynthetic partner (the photobiont, either a green alga or a cyanobacterium). Approximately 98% of lichen-forming fungi are ascomycetes, with the remaining 2% being basidiomycetes. Lichens are found on every continent, including Antarctica, and are among the oldest living organisms on Earth.
 
@@ -32,7 +32,7 @@ The traditional view describes lichens as a mutualistic relationship where the f
 Tightly attached to the substrate, appearing as a paint-like or crust-like coating. Cannot be removed without damaging the substrate. Often grow on rocks (saxicolous) or tree bark (corticolous). Examples include Graphis scripta (script lichen) and various Caloplaca species. Crustose lichens are slow-growing but extremely long-lived.
 
 ### Foliose (Leaf-like)
-Flat, leaf-like structures with distinct upper and lower surfaces. Can usually be peeled from the substrate. Examples include [[xanthoria-parietina]] (common orange lichen), [[parmelia-sulcata]], and Physcia. Often found on tree bark, rocks, and occasionally soil.
+Flat, leaf-like structures with distinct upper and lower surfaces. Can usually be peeled from the substrate. Examples include Xanthoria parietina (common orange lichen), Parmelia sulcata, and Physcia. Often found on tree bark, rocks, and occasionally soil.
 
 ### Fruticose (Shrubby)
 Branching, shrub-like, or hair-like structures. Erect, pendulous, or loosely attached. Examples include Usnea (old man's beard), Cladonia (reindeer lichen), and Evernia. Often found in clean-air environments and are among the most sensitive to air pollution.
@@ -73,7 +73,7 @@ Lichen substances (secondary metabolites) are crucial for identification. Standa
 
 ## Bioindicators
 
-Lichens are among the most reliable [[biological-indicators-of-soil]] air quality:
+Lichens are among the most reliable biological indicators of air quality:
 
 ### Sensitive Species
 - Usnea, Lobaria, and Evernia are highly sensitive to sulfur dioxide and nitrogen pollution
@@ -82,7 +82,7 @@ Lichens are among the most reliable [[biological-indicators-of-soil]] air qualit
 
 ### Tolerant Species
 - Xanthoria parietina (orange lichen) tolerates nitrogen enrichment and is common near farms
-- [[lecanora-conizaeoides]] was famously associated with sulfur dioxide pollution
+- Lecanora conizaeoides was famously associated with sulfur dioxide pollution
 - Physcia and Candelariella are moderately tolerant
 
 ### Biomonitoring Methods
@@ -106,14 +106,14 @@ Lichens with cyanobacterial photobionts fix atmospheric nitrogen, contributing s
 - Lichens provide microhabitats for tardigrades, nematodes, and other microfauna
 
 ### Carbon Cycling
-Lichens contribute to carbon fixation [[fungal-biodiversity-in-extreme-environments]] (arctic tundra, deserts, high altitude) where vascular plants cannot survive. They are important primary producers in these systems.
+Lichens contribute to carbon fixation in extreme environments (arctic tundra, deserts, high altitude) where vascular plants cannot survive. They are important primary producers in these systems.
 
 ## Human Uses
 
 - Traditional medicine: Usnic acid has antibiotic properties; Cetraria islandica (Iceland moss) was used for respiratory ailments
 - Dyes: Orchil and litmus are derived from lichens (Roccella, Lasallia)
 - Food: Umbilicaria (rock tripe) has been eaten in emergencies; Bryoria (edible horsehair) was used by Pacific Northwest tribes
-- Perfume: Oakmoss ([[evernia-prunastri]]) is a key ingredient in perfumery
+- Perfume: Oakmoss (Evernia prunastri) is a key ingredient in perfumery
 - Air quality monitoring: lichen biomonitoring programs worldwide
 
 ## Growth and Longevity
@@ -121,7 +121,7 @@ Lichens contribute to carbon fixation [[fungal-biodiversity-in-extreme-environme
 Lichens are extremely slow-growing organisms:
 - Crustose lichens may grow only 0.1-1.0 mm per year
 - Foliose and fruticose lichens grow slightly faster, 1-15 mm per year
-- Some thalli of [[rhizocarpon-geographicum]] in the Arctic are estimated to be over 8,000 years old
+- Some thalli of Rhizocarpon geographicum in the Arctic are estimated to be over 8,000 years old
 - The "map lichen" (R. geographicum) has been used in lichenometry to date glacial retreat
 
 ## Threats and Conservation

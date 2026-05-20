@@ -7,7 +7,7 @@ tags: [permaculture, homesteading, animal-husbandry, design, regenerative, food-
 sources: []
 ---
 
-## Homestead Permaculture Design
+# Homestead Permaculture Design
 
 Permaculture design applied to the homestead integrates animals, gardens,
 orchards, water systems, and human habitation into a self-sustaining,
@@ -148,3 +148,50 @@ the broader homestead ecosystem.
 ## Guilds and Polycultures with Animals
 
 ### Chicken-Compost-Garden Guild
+- Chickens scratch through compost piles, accelerating decomposition.
+- Compost feeds garden beds.
+- Garden waste feeds chickens and compost.
+- Chicken manure enriches compost.
+- This closed loop is the foundation of Zone 1 integration.
+
+### Pig-Orchard-Pasture Guild
+- Pigs clean up windfall fruit (pest control).
+- Pig manure fertilizes pasture and orchard.
+- Pasture feeds pigs (30-50% of diet).
+- Orchard provides shade and seasonal food.
+- Rotate pig paddocks annually through orchard rows.
+
+### Goat-Brushland-Silvopasture Guild
+- Goats clear brush and invasive species from forest margins.
+- Cleared land produces better pasture for sheep and cattle.
+- Trees provide browse (leaves), shade, and timber.
+
+## Design Principles
+
+- Each element performs multiple functions (ducks: eggs, meat, pest control,
+  fertilizer). Each function supported by multiple elements (fertility from
+  compost, manure, cover crops, and nitrogen fixers).
+- Use edges and value the marginal: hedgerows with elderberry, hazelnut,
+  blackberry provide browse, wind protection, and crops.
+- Start small and slow: a simple 4-paddock rotation beats a complex system
+  you cannot manage. Observe results and adapt before adding complexity.
+- Spend a full year observing your land before major design decisions — sun
+  angles, water flow, frost pockets, existing vegetation, and soil types.
+
+## Seasonal Overview
+
+- **Spring:** Begin grazing rotations, brood poultry, prep garden beds,
+  repair fencing.
+- **Summer:** Peak production, intensive rotation, heat stress management,
+  preserve surpluses.
+- **Fall:** Process meat animals, stockpile pasture, harvest hay, breed
+  livestock, plant cover crops. See [[hay-and-forage-management]].
+- **Winter:** Feed stored hay and grain, maintain housing, plan improvements,
+  order supplies. See [[livestock-feed-formulation]].
+
+## Links
+
+- [[pasture-management]]
+- [[livestock-fencing-guide]]
+- [[hay-and-forage-management]]
+- [[homestead-poultry-health]]

@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profil
 sources: []
 ---
 
-## King Tubercake (Pleurotus tuber-regium)
+# King Tubercake (Pleurotus tuber-regium)
 
 ## Overview
 
@@ -141,10 +141,43 @@ The sclerotium is the primary part used medicinally in Africa:
 
 P. tuber-regium is cultivated in parts of Africa and Asia, though less widely than P. ostreatus:
 
-## See Also
+- **Sclerotium production:** Can be induced on various substrates (sawdust, agricultural waste). Sclerotia form underground after 2-4 months of mycelial growth.
+- **Substrate:** Hardwood sawdust, rice straw, oil palm waste, cotton waste.
+- **Temperature:** 25-30°C (77-86°F) for both colonization and sclerotium formation.
+- **Humidity:** 80-90%.
+- **Fruiting:** Fruiting bodies form from sclerotia when conditions are favorable (warm, humid, with light).
+- **Sclerotium yield:** Can produce 100-400g sclerotia per kg of substrate.
+- The ability to produce both sclerotia and fruiting bodies from the same culture is unique among cultivated Pleurotus species.
 
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
-- [[medicinal-mushrooms]]
-- [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]
-- [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]
+## Sustainability and Economic Importance
+
+- Important food and medicine source in rural African communities.
+- Sclerotia can be stored for extended periods (months to years), providing food security.
+- Commercial cultivation is developing in Nigeria and other West African countries.
+- Wild harvesting is common but can lead to overcollection in some areas.
+- Substrate flexibility allows cultivation on agricultural waste products.
+
+## Safety Considerations
+
+- Long history of traditional use suggests good safety profile.
+- Insufficient modern safety data — most research is preclinical.
+- Potent immune-stimulating effects — caution with autoimmune conditions.
+- May interact with diabetes and blood pressure medications.
+- Avoid during pregnancy and breastfeeding (insufficient data).
+- Always cook fruiting bodies before eating.
+- Start with small doses and monitor for allergic reactions.
+
+## Research Gaps
+
+P. tuber-regium is significantly under-researched compared to Asian medicinal mushrooms:
+- Limited human clinical trials.
+- Need for standardization of active compounds.
+- Taxonomic work needed — some confusion with closely related Pleurotus species.
+- Mechanisms of action require further elucidation.
+- Potential for drug discovery in anti-diabetic and anti-cancer applications.
+
+## Related Topics
+
+- [[medicinal-mushroom-guide-oyster]] for comparison with another Pleurotus species
+- [[medicinal-mushroom-guide-maitake]] for another sclerotium-forming medicinal mushroom
+- [[medicinal-mushroom-guide-turkey-tail]] for immune modulation comparison

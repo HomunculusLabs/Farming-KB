@@ -14,7 +14,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-## Permaculture Chicken Tractor System
+# Permaculture Chicken Tractor System
 
 The chicken tractor is a foundational tool in permaculture design that integrates poultry into the garden and landscape in a mutually beneficial way. Toby Hemenway describes chicken tractors in Gaia's Garden as a key example of "stacking functions" -- getting multiple useful outputs from a single element.
 
@@ -113,16 +113,3 @@ Chicken manure is "hot" -- very high in nitrogen. If birds stay too long in one 
 - [[permaculture-domestic-animals]]
 - [[pasture-management]]
 - [[permaculture-grazing-and-pasture]]
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.

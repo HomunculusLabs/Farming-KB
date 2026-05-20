@@ -7,7 +7,7 @@ tags: [homesteading, equipment, engineering, construction, water, safety]
 sources: []
 ---
 
-## Wood-Fired Hot Tub
+# Wood-Fired Hot Tub
 
 A wood-fired hot tub provides year-round soaking on the homestead without electricity or gas. Using a wood-burning stove or submersible heater to heat water, these tubs are simple, reliable, and deeply satisfying after a day of physical work. They can be built from a variety of materials and range from simple stock tank conversions to custom-built cedar tubs with sophisticated heater systems.
 
@@ -140,10 +140,6 @@ A cover is essential — it retains heat between uses (reducing heating time and
 - Put the cover on while heating to retain heat
 - Once at temperature, maintain with a small fire or let it cool naturally — the tub holds heat for several hours
 
+A wood-fired hot tub is one of the most rewarding homestead additions. It costs little to operate, requires no grid connection, and provides genuine therapeutic benefit after hard physical work.
 ## See Also
-
-- [[bloomfield-fungal-warfare-territorial-combat-mycelia-wood]]
-- [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
-- [[rocket-stoves-and-efficient-wood-burning-design]]
-- [[ingham-wood-chips-compost-fungal-domination]]
-- [[fungal-succession-wood-substrates]]
+- [[fungal-enzyme-wood-decay]]

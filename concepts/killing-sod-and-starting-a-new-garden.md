@@ -41,7 +41,7 @@ Mow as close to the ground as possible — scalp it right down to the growing po
 ### Step 2: Spread Amendments
 
 Spread your basic soil amendments over the area:
-- Lime (or [[complete-organic-fertilizer]])
+- Lime (or [[complete-organic-fertilizer-cof]])
 - Manure and/or compost
 - Any other amendments recommended for your soil type
 

@@ -7,9 +7,9 @@ tags: [water-management, gardening, permaculture, sustainability, construction]
 sources: []
 ---
 
-## Wicking Bed Construction
+# Wicking Bed Construction
 
-[[query-how-do-i-build-a-wicking-bed-for-my-garden]] is a self-watering garden bed that uses capillary action to draw water upward from a built-in reservoir below the soil. Plants access water from below, reducing surface evaporation and dramatically cutting water use. Wicking beds can reduce water consumption by 50-80% compared to conventional garden beds while providing more consistent soil moisture.
+A wicking bed is a self-watering garden bed that uses capillary action to draw water upward from a built-in reservoir below the soil. Plants access water from below, reducing surface evaporation and dramatically cutting water use. Wicking beds can reduce water consumption by 50-80% compared to conventional garden beds while providing more consistent soil moisture.
 
 ## How Wicking Beds Work
 
@@ -137,14 +137,33 @@ The growing medium sits on top of the wicking medium:
 
 - Space plants as you would in a conventional raised bed
 - Tall plants on the north side (to avoid shading), short plants on the south
-- Consider [[cervantes-companion-planting-pest-deterrent]] [[biofumigation-and-brassica-cover-crops-for-pest-management]] and efficient space use
+- Consider companion planting for pest management and efficient space use
 
 ## Maintenance
 
-## See Also
+- **Check water level weekly:** Lift the fill pipe cap and look inside, or insert a dipstick
+- **Top-dress with compost:** Apply 1-2 inches of compost each season
+- **Replace soil:** Every 2-3 years, replace the top few inches of soil with fresh compost-soil mix
+- **Clean reservoir:** Every 1-2 years, drain and flush the reservoir to remove sediment buildup
+- **Winter:** In freezing climates, drain the reservoir before hard freezes to prevent ice damage
 
-- [[comparison-wicking-bed-vs-passive-wick-hydroponics]]
-- [[wicking-bed-materials-construction-variants]]
-- [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]]
-- [[comparison-wicking-bed-vs-raised-bed]]
-- [[comparison-raised-beds-vs-wicking-beds]]
+## Water Efficiency
+
+- **50-80% less water** than conventional garden beds
+- **Evaporation reduction:** Only the soil surface loses water to evaporation; the reservoir is sealed
+- **Consistent moisture:** Plants experience less stress from alternating wet-dry cycles
+- **Deep root growth:** Because water is available below, roots grow deeper, accessing more nutrients
+
+## Common Problems
+
+- **Waterlogging:** Soil stays too wet — reduce reservoir depth, improve soil drainage, or add more aeration material to the soil mix
+- **Dry top layer:** Soil surface is dry while lower soil is wet — this is normal! Roots access moisture below. Mulch the surface to reduce evaporation.
+- **Mosquitoes:** Cover the fill pipe and overflow with fine mesh screen
+- **Nutrient depletion:** Wicking beds need regular compost top-dressing since nutrients can accumulate in the reservoir over time
+- **Roots clogging overflow:** Trim roots that grow into the overflow pipe during maintenance
+
+## Related Concepts
+
+- [[keyhole-garden-design]] for another self-contained, water-efficient garden bed design
+- [[herb-spiral-construction]] for microclimate-based planting design
+- [[garden-bed-designs]] for intensive, space-efficient garden layout

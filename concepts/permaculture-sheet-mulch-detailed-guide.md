@@ -14,7 +14,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-## Permaculture Sheet Mulch Detailed Guide
+# Permaculture Sheet Mulch Detailed Guide
 
 Sheet mulching (also called lasagna gardening or sheet composting) is the primary soil-building technique in permaculture. Toby Hemenway provides detailed instructions in Gaia's Garden, calling it "the backbone technique for converting lawn and waste land into fertile garden." It builds rich soil without tilling, suppresses weeds, conserves moisture, and sequesters carbon.
 
@@ -148,3 +148,4 @@ Sheet mulching is a layered composting system applied directly on top of the gro
 - [[no-till-gardening-method]]
 - [[mulching-guide]]
 - [[compost-building-guide]]
+- comfrey-plant-guide

@@ -7,7 +7,7 @@ tags: [oyster-mushroom, mushroom-cultivation, pleurotus, fungi, mycology, straw,
 sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 
-## Oyster Mushroom Cultivation
+# Oyster Mushroom Cultivation
 
 Oyster mushrooms (Pleurotus spp.) are among the easiest and most rewarding mushrooms to cultivate. They are aggressive colonizers, grow on a wide variety of substrates, fruit prolifically, and have broad market appeal.
 
@@ -66,7 +66,7 @@ For higher yields and commercial production:
 
 ## Mycoremediation Applications
 
-Pleurotus ostreatus is the keystone species for many [[cotter-mycoremediation-overview]] applications. It is indigenous, aggressive, adaptable to various conditions, and documented to break down petroleum hydrocarbons, PAHs, and other contaminants while still producing edible mushrooms.
+Pleurotus ostreatus is the keystone species for many [[mycoremediation-overview]] applications. It is indigenous, aggressive, adaptable to various conditions, and documented to break down petroleum hydrocarbons, PAHs, and other contaminants while still producing edible mushrooms.
 
 ## See Also
 
@@ -78,45 +78,3 @@ Pleurotus ostreatus is the keystone species for many [[cotter-mycoremediation-ov
 ## Related
 
 - [[shimeji-cultivation]]
-## Research Context
-
-Research on oyster mushroom cultivation continues to evolve with new findings emerging from
-both laboratory studies and field observations. Current investigations focus on
-optimizing parameters, understanding underlying mechanisms, and documenting
-outcomes across diverse conditions and geographic regions. Published literature
-suggests multiple pathways for further exploration and refinement.
-
-## Integration and Implementation
-
-Successful implementation of oyster mushroom cultivation requires attention to site-specific
-conditions and adaptive management strategies. Integration with complementary
-practices often enhances overall outcomes. Practitioners recommend starting with
-small-scale trials before scaling up, documenting results systematically to
-inform future decisions and share knowledge with the broader community.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.

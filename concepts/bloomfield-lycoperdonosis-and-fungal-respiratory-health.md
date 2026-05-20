@@ -2,7 +2,7 @@
 title: "Bloomfield Lycoperdonosis And Fungal Respiratory Health"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 Within a few days of exposure, the Wisconsin teens developed breathing

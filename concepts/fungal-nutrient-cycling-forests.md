@@ -4,7 +4,7 @@ created: 2026-04-10
 updated: 2026-04-18
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [papers/symbiotic-fungi.md]
 ---
 ## Fungal Nutrient Cycling in Forests
 

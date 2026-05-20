@@ -7,7 +7,7 @@ tags: [plants, species, permaculture, plant-catalog, ph, gardening, difficult-si
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
 
-## Alkaline Soil Plants
+# Alkaline Soil Plants
 
 A comprehensive list of plant species tolerant of alkaline soils, sourced from permaculture plant selections. These species are suited to sites with high pH, calcareous soils, or areas with salt spray and coastal exposure. Many are also drought-hardy and fire-resistant.
 
@@ -140,11 +140,15 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 ## Groundcovers and Grasses
 
 - **Baccaris halimifolia** (groundsel bush) — pollen in autumn
+- **Baccaris patagonica**
+- **Banksia ashbyi** — nectar in spring
+- **Clianthus formosus** (Sturt's desert pea)
+- **Colophospermum mopane** (mopane)
+- **Cornus mas** (Cornelian cherry) — deciduous tree with edible fruit
+- **Oryzopsis miliacea** (smilo, millet grass)
+- **Ribes spp**
+- **Sambucus spp** (elder) — edible fruits, flowers, roots
 
-## See Also
+## Notes
 
-- [[alkaline-soil-tolerant-plants-permaculture]]
-- [[plants-tolerant-of-alkaline-soils]]
-- [[acid-and-alkaline-soil-management]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[comparison-no-till-vs-mulch-soil-management]]
+Most palms are also fire tolerant and useful in bee forage systems — see [[palm-tree-uses]] for detailed palm species listings. For soil pH management strategies, see [[soil-testing]] and related [[compost-building-guide]] pages. Many of these species also appear in permaculture design contexts — see [[sepp-holzer-method]] and [[cold-climate-gardening]].

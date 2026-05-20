@@ -1,5 +1,5 @@
 ---
-title: "Passive Solar Design"
+title: Passive Solar Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,9 +7,9 @@ tags: [design, permaculture, construction, sustainability, homesteading, energy,
 sources: []
 ---
 
-## Passive Solar Design
+# Passive Solar Design
 
-Passive solar design uses building orientation, window placement, [[comparison-windbreak-vs-thermal-mass]], and overhangs to heat and cool a building without mechanical systems. By working with the sun's seasonal path, a well-designed passive solar building can reduce heating costs by 50-80% and cooling costs by 30-50%. This approach is foundational for any off-grid or energy-efficient homestead.
+Passive solar design uses building orientation, window placement, thermal mass, and overhangs to heat and cool a building without mechanical systems. By working with the sun's seasonal path, a well-designed passive solar building can reduce heating costs by 50-80% and cooling costs by 30-50%. This approach is foundational for any off-grid or energy-efficient homestead.
 
 ## Solar Principles
 
@@ -40,7 +40,7 @@ The long axis of the building should face within 15 degrees of true south (not m
 - Low-emissivity (low-E) coatings: Low-E with high solar heat gain coefficient (SHGC) on south windows
 
 **Window specifications by climate:**
-- [[avalanche-phenomenon]] (Zone 5-7): Triple-glazed, argon-filled, SHGC 0.50+
+- Cold climates (Zone 5-7): Triple-glazed, argon-filled, SHGC 0.50+
 - Moderate climates (Zone 3-5): Double-glazed, argon-filled, SHGC 0.45+
 - Warm climates (Zone 1-3): Double-glazed, low SHGC 0.30 or less
 
@@ -58,9 +58,9 @@ Thermal mass stores heat from the sun during the day and releases it slowly at n
 - Concrete slab floors: R-value per inch is low, but mass is excellent
 - Stone: Granite, limestone, sandstone
 - Adobe and compressed earth block
-- [[cob-building-basics-detailed|Cob]] walls: Excellent thermal mass in a [[natural-building]]
+- [[cob-building-basics-detailed|Cob]] walls: Excellent thermal mass in a natural building
 - Water: The highest volumetric heat capacity of any common material
-- [[comparison-lime-plaster-vs-earthen-plaster]] over straw bale: Moderate mass
+- Earthen plaster over straw bale: Moderate mass
 
 **Placement:**
 - Directly behind south-facing windows (sun must hit the mass)
@@ -100,7 +100,7 @@ Fixed overhangs are calculated to block summer sun while admitting winter sun.
 Even the best passive solar design fails without proper insulation and air sealing. Heat collected by passive solar must be retained.
 
 **Insulation recommendations by climate:**
-- Walls: R-20 to R-40 (higher [[query-how-do-i-grow-figs-in-cold-climates]])
+- Walls: R-20 to R-40 (higher in cold climates)
 - Ceiling/Roof: R-40 to R-60 (heat rises — roof insulation is critical)
 - Floor: R-20 to R-30 (especially over unheated crawlspaces)
 - Foundation: R-10 to R-20 (frost-protected shallow foundations)
@@ -132,7 +132,7 @@ Even the best passive solar design fails without proper insulation and air seali
 - Prevent solar gain with properly sized overhangs
 - Deciduous trees shade east and west walls
 - Exterior shade screens block sun while allowing airflow
-- Light-colored roof reflects [[albedo-and-solar-radiation]]
+- Light-colored roof reflects solar radiation
 
 ## Design for Specific Building Types
 
@@ -148,3 +148,36 @@ Even the best passive solar design fails without proper insulation and air seali
 
 - Thick earth walls provide excellent thermal mass
 - Small, well-placed windows on south side
+- Dome shapes have natural thermal mass distribution
+- Earthen plaster is the natural finish
+
+### [[cob-building-basics-detailed|Cob Buildings]]
+
+- Cob walls are both structure and thermal mass
+- Design with large south-facing windows
+- Built-in benches and niches can serve as additional thermal mass
+- Lime plaster exterior with proper overhangs for weather protection
+
+## Tools for Design
+
+- Solar path calculators (online tools)
+- Sun charts for your specific latitude
+- SketchUp with solar analysis plugin
+- Passive solar design software (EnergyPlus, DesignBuilder)
+- Simple shadow studies using a compass and protractor
+
+## Common Mistakes
+
+1. Over-glazing: Too much south-facing glass causes overheating in shoulder seasons
+2. Under-sizing thermal mass: Inadequate mass cannot store enough heat for overnight
+3. West-facing glazing: Afternoon sun in summer causes severe overheating
+4. Incorrect overhang sizing: Either too little summer shade or too much winter shade
+5. Poor insulation: Collected solar heat escapes through walls and roof
+6. Not considering summer comfort: Passive solar is about heating AND cooling
+
+## See Also
+
+- [[radiant-floor-heating]]
+- [[masonry-heater-design]]
+- [[tiny-house-on-wheels]]
+- [[cob-building-basics-detailed]]

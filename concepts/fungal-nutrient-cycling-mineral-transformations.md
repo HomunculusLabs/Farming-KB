@@ -8,7 +8,7 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-## Fungal Nutrient Cycling and Mineral Transformations
+# Fungal Nutrient Cycling and Mineral Transformations
 
 How fungi transform minerals, cycle nutrients, and drive biogeochemical processes in terrestrial and aquatic ecosystems. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-ecology-decomposition-cycles]], [[soil-food-web-nutrient-cycling]], and [[mycorrhizal-types]].
 
@@ -90,7 +90,7 @@ Fungi can immobilize toxic metals through several mechanisms:
 - **Precipitation**: Fungal metabolic activity can cause metal precipitation as oxalates, carbonates, or sulfides
 - **Oxalate crystal formation**: Many fungi precipitate metals as metal oxalates (e.g., calcium oxalate, copper oxalate), effectively immobilizing them
 
-See [[mycoremediation-heavy-metals]] for applied aspects.
+See [[mycoremediation-of-heavy-metals]] for applied aspects.
 
 ### Calcium and Oxalate Cycling
 
@@ -146,5 +146,6 @@ The combined mineral transformations performed by fungi have profound ecosystem-
 - [[mycorrhizal-types]] -- types of mycorrhizal associations
 - [[mycorrhizal-networks]] -- common mycorrhizal networks
 - [[soil-food-web-nutrient-cycling]] -- trophic interactions in soil
-- [[mycoremediation-heavy-metals]] -- fungal metal bioremediation
+- [[mycoremediation-of-heavy-metals]] -- fungal metal bioremediation
 - [[geoffrey-gadd]] -- geomycology researcher
+- [[john-dighton]] -- fungal ecology researcher

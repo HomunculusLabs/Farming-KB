@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [remediation, environment]
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 
 ## Bioremediation Scale-Up Considerations

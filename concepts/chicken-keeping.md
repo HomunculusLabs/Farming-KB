@@ -7,7 +7,7 @@ tags: [homesteading, animal-husbandry, biology, methods, troubleshooting, ecolog
 sources: []
 ---
 
-## Chicken Keeping
+# Chicken Keeping
 
 Chickens are the most accessible and productive livestock for homesteads of any size. A small flock of 4-12 hens provides a steady supply of eggs, produces valuable manure for [[composting-systems]], controls insects, and processes food waste. They integrate naturally into [[permaculture-zones-in-practice]] as a Zone 2 element and contribute to the integrated homestead through nutrient cycling, pest control, and food production.
 
@@ -18,7 +18,7 @@ Chickens are the most accessible and productive livestock for homesteads of any 
 Bred for maximum egg production (250-320 eggs/year):
 
 - **Leghorn**: 280-320 white eggs/year; hardy; flighty; not great for cold climates
-- **[[rhode-island-red]]**: 250-300 brown eggs/year; dual-purpose; cold-hardy; good foragers
+- **Rhode Island Red**: 250-300 brown eggs/year; dual-purpose; cold-hardy; good foragers
 - **Sussex**: 250-280 brown eggs/year; calm; good foragers; cold-hardy
 - **Australorp**: 250-300 brown eggs/year; calm; cold-hardy; excellent layer
 - **Plymouth Rock (Barred Rock)**: 200-280 brown eggs/year; dual-purpose; cold-hardy
@@ -147,3 +147,26 @@ Bred for maximum egg production (250-320 eggs/year):
 **Best practices**: Lock chickens in coop every night before dark. Use 1/2 inch hardware cloth instead of chicken wire. Bury fencing or run electric wire at ground level. Consider a livestock guardian dog for free-range flocks.
 
 ## Seasonal Care
+
+- **Spring**: Deep clean coop after winter. Introduce new pullets. Begin pasture rotation. Check for mites/lice.
+- **Summer**: Maximize ventilation and shade. Extra water; ice in waterers in extreme heat. Frozen treats help heat stress.
+- **Fall**: Prepare for winter — check insulation, repair drafts, check waterer heaters. Hens may molt — increase protein. Process excess roosters. Stockpile feed and bedding.
+- **Winter**: Draft-free but well-ventilated coop. Supplemental light (14-16 hrs total) maintains production. Heated waterers prevent freezing. Deep litter provides warmth. Protect combs/wattles from frostbite (petroleum jelly in extreme cold).
+
+## Integration with Homestead Systems
+
+- **[[animal-byproducts]]**: Chicken manure is high-N fertilizer (NPK ~1.8-1.5-0.8). Compost before applying.
+- **[[composting-systems]]**: Chickens accelerate compost by scratching and mixing.
+- **[[duck-keeping]]**: Chickens and ducks can share space with some management considerations.
+- **[[food-forest-design]]**: Rotationally grazed through food forest alleys for pest control and fertilization.
+- **[[integrated-homestead-design]]**: Chickens close nutrient loops between kitchen waste, garden surplus, and soil fertility.
+
+## Related
+
+- [[homesteading-livestock-comparison]]
+- [[duck-keeping]]
+- [[food-forest-design]]
+- [[insect-allies]]
+- [[barn-design]]
+- [[goose-keeping]]
+- [[quail-husbandry-detailed]]

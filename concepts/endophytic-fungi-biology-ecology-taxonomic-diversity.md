@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 ## Endophytic Fungi — Biology, Ecology, and Taxonomic Diversity
 

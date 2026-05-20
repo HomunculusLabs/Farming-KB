@@ -1,5 +1,6 @@
 ---
-title: Lactic Acid Bacteria Lab
+
+title: Lactic Acid Bacteria (LAB) — KNF Preparation
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -21,9 +22,9 @@ sources:
 - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-## Lactic Acid Bacteria (LAB) — KNF Preparation
+# Lactic Acid Bacteria (LAB) — KNF Preparation
 
-LAB is a core KNF input collected from the local environment via rice wash and multiplied through milk fermentation. LAB are conditionally anaerobic, heat-resistant, and function as strong sterilizers. They improve soil ventilation, solubilize phosphates, accelerate [[soil-moisture-management-and-root-growth]], and enhance initial plant establishment. See also lactic acid bacteria lab for cannabis-specific LABS research.
+LAB is a core KNF input collected from the local environment via rice wash and multiplied through milk fermentation. LAB are conditionally anaerobic, heat-resistant, and function as strong sterilizers. They improve soil ventilation, solubilize phosphates, accelerate root growth, and enhance initial plant establishment. See also lactic acid bacteria lab for cannabis-specific LABS research.
 
 ## What LAB Does
 
@@ -59,7 +60,7 @@ LAB is a core KNF input collected from the local environment via rice wash and m
 2. Add rice wash LAB stock at a 10:1 milk-to-rice-water ratio
 3. Cover with porous paper, keep at 23-25C
 4. After 5-7 days, starch/protein/fat float as cheese (curd) on top
-5. Light yellow liquid below is [[cannabis-lab-serum-cultivation]]
+5. Light yellow liquid below is LAB serum
 6. Remove the cheese immediately — if left, it melts and causes secondary reactions, ruining the LAB
 
 ### Phase 3: Storage
@@ -81,7 +82,7 @@ LAB is a core KNF input collected from the local environment via rice wash and m
 - Use with FPJ when applying LAB alone for best results
 - Reduces sweetness when over-applied — reduce in later reproductive stages
 - Makes fruits and leaves large — reduce amount approaching harvest
-- Spraying LAB on [[duck-rice-paddy]] fields increases weed growth
+- Spraying LAB on rice paddy fields increases weed growth
 - No significant effect on disease/insect damage directly
 - About 1 week resistance to some fungi
 - Field fertility recovers and soil becomes soft/fluffy when IMO + LAB sprayed together
@@ -99,22 +100,7 @@ LAB is a core KNF input collected from the local environment via rice wash and m
 ## See Also
 
 - [[knf-preparations]] — all KNF inputs overview
-- lactic acid bacteria lab — LABS [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]] and [[mycorrhiza-induced-resistance-defense-priming]]
+- lactic acid bacteria lab — LABS cannabis research and defense priming
 - [[indigenous-microorganisms-imo]] — LAB used in IMO #3 cultivation
 - [[fermented-mixed-compost-fmc]] — LAB prevents FMC from decaying
 - [[fermented-plant-extract-fpe]] — FPJ pairs well with LAB
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.

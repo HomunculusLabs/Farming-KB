@@ -7,9 +7,9 @@ tags: [soil-biology, microbes, lab-technique, soil-health]
 sources: [raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
 ---
 
-## Soil Microscope Analysis
+# Soil Microscope Analysis
 
-Direct microscopic examination of soil and compost tea is the primary tool for assessing soil biology health. [[elaine-ingham]]'s Soil Food Web approach uses 400x magnification to identify and count bacteria, fungi, protozoa, and nematodes, providing actionable data for soil management.
+Direct microscopic examination of soil and compost tea is the primary tool for assessing soil biology health. Elaine Ingham's Soil Food Web approach uses 400x magnification to identify and count bacteria, fungi, protozoa, and nematodes, providing actionable data for soil management.
 
 ## Equipment Needed
 
@@ -82,7 +82,7 @@ Direct microscopic examination of soil and compost tea is the primary tool for a
 ## Compost Tea Assessment
 
 ### Method
-1. Take 1 mL of [[actively-aerated-compost-tea]]
+1. Take 1 mL of actively aerated compost tea
 2. Place on slide, cover, examine at 400x
 3. Look for: active bacterial movement, fungal hyphae length, protozoa types
 
@@ -102,20 +102,3 @@ Direct microscopic examination of soil and compost tea is the primary tool for a
 - [[compost-tea-recipe-guide]] — for brewing AAct
 - [[thermal-composting-vs-aact]] — for comparing compost methods
 - [[soil-food-web-structure]] — for the complete soil biology hierarchy
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

@@ -5,7 +5,7 @@ updated: 2026-05-06
 aliases: [phosphogluconate pathway, hexose monophosphate shunt, HMP shunt, pentose phosphate shunt, PPP]
 tags: [biochemistry, metabolism, carbohydrate-metabolism, redox-biology, nucleotide-synthesis]
 type: concept
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 ## Overview

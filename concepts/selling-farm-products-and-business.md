@@ -1,4 +1,5 @@
 ---
+
 title: Selling Farm Products and Farm Business
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 note: Composed from model knowledge — web tools were unavailable. Mark for user review.
 ---
 
-## Selling Farm Products and Farm Business
+# Selling Farm Products and Farm Business
 
 > Cottage food laws, raw milk regulations, egg sales, farmers markets, organic certification,
 > farm business structures, taxes, insurance, and land access for the homesteader.
@@ -144,3 +145,34 @@ See also [[regenerative-agriculture-history]].
 - **EQIP (Environmental Quality Incentives Program)**: Financial/technical assistance for conservation practices (rotational grazing, cover crops, high tunnels, irrigation efficiency). Up to 75% cost-share. Good fit for regenerative homesteads
 - **Conservation easements**: Permanent development restrictions in exchange for tax benefits. Land stays private but cannot be subdivided/developed
 - **State programs**: Many states have Agricultural Preservation Restriction (APR), Agricultural Districts, Farmland Protection programs
+
+### Community Land Trusts
+
+- Nonprofits that hold land in trust for community benefit
+- Affordable land access for beginning farmers
+- Own improvements (buildings), lease the land
+- Check the National Community Land Trust Network for local organizations
+
+## Food Freedom Laws
+
+States with expanded producer-to-consumer sales beyond cottage food exemptions:
+
+- **Wyoming (2015)**: Food Freedom Act — sale of most homemade foods directly to consumers without state inspection
+- **Maine (2017)**: Food Sovereignty Act — towns can regulate local food independently
+- **North Dakota (2017)**: Cottage food producers can sell directly without state licensing
+- **Other expanding states**: Utah, Oklahoma, Illinois, Tennessee, Florida
+
+**Key**: Food freedom laws typically allow direct producer-to-consumer sales only — not to restaurants, grocery stores, or across state lines.
+
+## See Also
+
+- [[homesteading-legal-considerations]] — Zoning, livestock, water rights, building permits
+- [[dairy-and-cheesemaking]] — Milk processing regulations and licensing
+- [[food-preservation-canning]] — Home food preservation and cottage food context
+- [[goat-keeping]] — Goat keeping and regulatory considerations
+- [[duck-keeping]] — Duck management and regulations
+- [[beekeeping-basics]] — Apiary regulations and registration
+- [[regenerative-agriculture-history]] — Principles aligned with conservation program incentives
+- [[homesteading-infrastructure]] — Infrastructure planning and permitting
+- [[seasonal-planning]] — Annual homesteading calendar
+- [[food-forest-design]] — Perennial systems and land use classification

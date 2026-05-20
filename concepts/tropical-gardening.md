@@ -7,7 +7,7 @@ tags: [gardening, climate, plants, cultivation, water-management, ecology, biodi
 sources: []
 ---
 
-## Tropical Gardening
+# Tropical Gardening
 
 ## Overview
 
@@ -20,7 +20,7 @@ Tropical gardening encompasses growing food and ornamental plants in regions nea
 - Annual rainfall often exceeds 100 inches
 - High humidity (80%+ year-round)
 - Consistent temperatures with minimal seasonal variation
-- Rapid decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
+- Rapid decomposition and nutrient cycling
 
 ### Monsoon Climates (Am)
 - Short dry season (1-3 months) with heavy monsoon rains
@@ -97,7 +97,7 @@ Tropical gardens benefit enormously from emphasizing perennials:
 | Malanga (Xanthosoma) | 500 | 8-12 months | Similar to taro; more tolerant of dry conditions |
 
 ### Tropical Fruit Trees
-- **[[banana-and-plantain-cultivation-and-variety-guide]]**: Fast-growing; produce within 9-15 months; heavy potassium feeders
+- **Banana and plantain**: Fast-growing; produce within 9-15 months; heavy potassium feeders
 - **Papaya**: Bears fruit within 6-12 months from seed; short-lived (3-5 years)
 - **Citrus**: Oranges, lemons, limes, grapefruit; 2-5 years to fruiting
 - **Mango**: Large, long-lived tree; 3-6 years to fruiting
@@ -112,9 +112,9 @@ Tropical gardens benefit enormously from emphasizing perennials:
 - **Chaya (Cnidoscolus aconitifolius)**: Spinach substitute; must be cooked; extremely productive
 - **Moringa (Moringa oleifera)**: Nutritious leaves, pods, and flowers; fast-growing tree
 - **Katuk (Sauropus androgynus)**: Shrub with edible leaves; grows in shade
-- **Egyptian spinach ([[corchorus-olitorius]])**: Molokhia; annual but self-seeds readily
+- **Egyptian spinach (Corchorus olitorius)**: Molokhia; annual but self-seeds readily
 - **Pigeon pea (Cajanus cajan)**: Perennial legume producing edible peas; nitrogen fixer
-- **Winged bean ([[psophocarpus-tetragonolobus]])**: Entire plant is edible; tropical climbing legume
+- **Winged bean (Psophocarpus tetragonolobus)**: Entire plant is edible; tropical climbing legume
 
 ### Tropical Annual Vegetables
 - **Amaranth**: Both leaves and grain; heat-loving
@@ -123,7 +123,7 @@ Tropical gardens benefit enormously from emphasizing perennials:
 - **Hot peppers**: Multiple species thrive in the tropics
 - **Cucumber**: Choose disease-resistant tropical varieties
 - **Cherry tomato**: More disease-resistant than large tomatoes in humid conditions
-- **Bitter melon ([[momordica-charantia]])**: Cucurbit with medicinal properties
+- **Bitter melon (Momordica charantia)**: Cucurbit with medicinal properties
 
 ## Disease Pressure
 
@@ -140,7 +140,7 @@ High humidity and warmth create ideal conditions for pathogens:
 - Remove and destroy infected plant material immediately
 - Use disease-resistant varieties when available
 - Rotate crop families to break disease cycles
-- Apply biological controls (Trichoderma, [[bacillus-subtilis]])
+- Apply biological controls (Trichoderma, Bacillus subtilis)
 
 ### Nematode Management
 Root-knot nematodes are among the most damaging tropical soil pests:
@@ -148,3 +148,40 @@ Root-knot nematodes are among the most damaging tropical soil pests:
 - Rotate with nematode-resistant crops (marigold, sunn hemp, some cowpea varieties)
 - Incorporate organic matter (compost, green manure) to support nematode-predatory microbes
 - Solarize soil during hot dry season (cover moist soil with clear plastic for 6-8 weeks)
+- Use biological controls (Paecilomyces lilacinus, Bacillus firmus)
+- Avoid moving contaminated soil to clean areas
+
+## Soil Management
+
+### Rapid Decomposition
+In the tropics, organic matter decomposes 2-4x faster than in temperate climates:
+
+- Compost finishes in 4-8 weeks instead of months
+- Mulch layers need frequent replenishing (every 2-3 months)
+- Continuous organic matter inputs are essential
+
+### Nutrient Management
+Tropical soils are often old, weathered, and nutrient-poor:
+
+- Apply compost and organic amendments frequently (every 4-6 weeks for heavy feeders)
+- Use green manure cover crops between vegetable crops
+- Mulch with diverse materials (leaves, straw, wood chips)
+- Incorporate biochar to improve nutrient retention in highly weathered soils
+- Monitor pH; many tropical soils are acidic (pH 4.5-6.0)
+
+### Cover Cropping
+Cover crops prevent erosion and build soil during fallow periods:
+
+- **Sunn hemp (Crotalaria juncea)**: Fast-growing legume; suppresses nematodes
+- **Pigeon pea**: Produces food while fixing nitrogen; perennial
+- **Velvet bean (Mucuna pruriens)**: Aggressive cover; nitrogen fixer
+- **Cowpea**: Dual-purpose food and cover crop
+
+## Integration with Food Forests
+
+Tropical gardening naturally integrates with [[food-forest-design|food forest]] design:
+
+- Tall fruit trees (coconut, breadfruit, mango) form the canopy
+- Understory fruit trees (banana, papaya, cacao) fill the mid-layer
+- Perennial vegetables and root crops occupy lower layers
+- Climbing plants (passionfruit, winged bean, yam) use vertical space

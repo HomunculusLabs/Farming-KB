@@ -22,7 +22,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 - Strong emphasis on psychedelic mushroom education and policy reform
 
 ### NAMA Annual Foray
-- North [[palmer-mushroom-charts-american-mycological-education]] Association (NAMA) hosts annual forays since 1960
+- North American Mycological Association (NAMA) hosts annual forays since 1960
 - Rotates location each year across North America
 - Features expert-led forays, specimen identification tables, and scientific presentations
 - Auction of rare and collectible mushroom-related items
@@ -43,9 +43,9 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 ## European Events
 
 ### Fungus Fair (United Kingdom)
-- [[british-mycological-society]] (BMS) autumn forays since 1896
+- British Mycological Society (BMS) autumn forays since 1896
 - Multiple regional forays throughout the UK mushroom season (September-November)
-- Strong tradition of [[toadstool-eating-and-amateur-mycology]] in the UK
+- Strong tradition of amateur mycology in the UK
 - Annual exhibition and foray at Kew Gardens
 - Record-keeping contributes to national fungal distribution databases
 
@@ -72,10 +72,10 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 
 ### Identification Workshops
 - Hands-on practice with fresh specimens
-- [[psilocybin-mushroom-microscopic-identification]] techniques
-- [[spore-print]] analysis
+- Microscopic identification techniques
+- Spore print analysis
 - Key-based identification practice
-- Often paired with forays for fresh [[fungal-specimen-collection-herbarium-management]]
+- Often paired with forays for fresh specimen collection
 
 ### Scientific Conferences
 - Mycological Society of America (MSA) annual meeting
@@ -112,7 +112,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 - Local clubs host regular forays, meetings, and workshops
 - Membership benefits: newsletters, foray access, identification help
 - Many clubs maintain regional species databases and checklists
-- Volunteer [[citizen-science-fungal-biodiversity-discovery]] programs for fungal biodiversity monitoring
+- Volunteer citizen science programs for fungal biodiversity monitoring
 
 ### Joining a Club
 - Most clubs welcome beginners
@@ -133,7 +133,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 ### Conservation and Stewardship
 - Foray data contributes to conservation assessments
 - Rare species records inform habitat protection decisions
-- Events promote sustainable [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]] (see [[mushroom-foraging-safety]])
+- Events promote sustainable foraging practices (see [[mushroom-foraging-safety-guide]])
 - Public education about fungal ecology and forest health
 - Advocacy for forest conservation and mycological research funding
 
@@ -148,3 +148,38 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 
 ### Digital Forays and Webinars
 - Post-2020 expansion of virtual mycological programming
+- Online identification sessions via video conferencing
+- Virtual forays with pre-collected specimens shown on camera
+- Recorded lectures and workshops available online
+- Social media groups for mushroom identification (iNaturalist, Mushroom Observer)
+
+### Mushroom Observer and iNaturalist
+- Online platforms for documenting fungal observations
+- Community identification assistance
+- Geographic and seasonal databases built from user submissions
+- Contribute to scientific knowledge while foraging
+- Useful for tracking personal finds and learning local species
+
+## Planning Your Attendance
+
+### What to Bring to a Foray
+- Basket or mesh bags for collecting specimens
+- Field knife and small brush
+- Hand lens (10x minimum)
+- Field guide relevant to the region
+- Waterproof clothing and sturdy boots
+- Water, snacks, and first aid
+- Notebook and camera for documentation
+
+### Seasonal Timing
+- Spring (March-May): Morels, oysters, pheasant backs
+- Summer (June-August): Chanterelles, boletes, corals
+- Fall (September-November): Peak diversity; matsutake, porcini, hedgehogs
+- Winter (December-February): Limited; oysters, enoki in warmer regions
+- See [[edible-wild-mushrooms-by-region]] for regional seasonal calendars
+
+## See Also
+
+- [[mushroom-foraging-safety-guide]] -- ethical harvesting practices for forays
+- [[edible-wild-mushrooms-by-region]] -- regional species guides for foray planning
+- [[mushroom-photography-guide]] -- documenting your foray finds

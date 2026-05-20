@@ -1,5 +1,6 @@
 ---
-title: Vegetable Garden Harvest
+
+title: Vegetable Garden Harvest and Storage
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -19,9 +20,9 @@ sources:
 - raw/papers/purdue-home-gardeners-guide.md
 ---
 
-## Vegetable Garden Harvest and Storage
+# Vegetable Garden Harvest and Storage
 
-Harvest timing, [[spawn-storage-conditions]], and detailed crop-specific notes for home [[maintaining-organic-matter-in-vegetable-gardens]], based on Purdue Extension guidelines.
+Harvest timing, storage conditions, and detailed crop-specific notes for home vegetable gardens, based on Purdue Extension guidelines.
 
 Related: [[vegetable-garden-guide]], [[food-preservation-canning]], [[seasonal-planning]]
 
@@ -58,7 +59,7 @@ Related: [[vegetable-garden-guide]], [[food-preservation-canning]], [[seasonal-p
 - **Pumpkins and winter squash**: Harvest when skin is hard and colors darken, before frost. Store in single layers on shelves.
 
 ### Warm, Moist (55-60F, 80-85% RH)
-- **[[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]]**: Harvest before frost. Cure 1 week at 80-85F. Store at 55F, 85% RH.
+- **Sweet potatoes**: Harvest before frost. Cure 1 week at 80-85F. Store at 55F, 85% RH.
 
 ### Perennial Vegetables
 - **Asparagus**: Snap/cut 6-8 inch spears at ground level. Store up to 1 week.
@@ -119,6 +120,6 @@ Related: [[vegetable-garden-guide]], [[food-preservation-canning]], [[seasonal-p
 ## See Also
 
 - [[vegetable-garden-guide]] — Site selection, planting, fertilization, and general techniques
-- [[vegetable-garden-fertilization]] — [[purdue-four-step-garden-fertilization-program]] and pH management
+- [[vegetable-garden-fertilization]] — Fertilization program and pH management
 - [[food-preservation-canning]] — Canning, fermentation, dehydrating, freezing
 - [[seasonal-planning]] — Year-round garden planning

@@ -1,4 +1,5 @@
 ---
+
 title: KNF vs JADAM vs EM — Comparison
 created: 2026-04-11
 updated: 2026-04-12
@@ -22,7 +23,7 @@ sources:
 - raw/papers/bahay-kubo-indigenous-microorganisms_.md
 ---
 
-## KNF vs JADAM vs EM — Comparison
+# KNF vs JADAM vs EM — Comparison
 
 Three systems for biological farming inputs, all originating from East Asia, all based on cultivating beneficial microorganisms. They share the same goal — replace synthetic fertilizers and pesticides with self-made biological inputs — but differ in philosophy, cost, complexity, and approach.
 

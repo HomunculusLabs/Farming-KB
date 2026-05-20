@@ -7,9 +7,9 @@ tags: [homesteading, health, medicine, safety, animal-husbandry]
 sources: []
 ---
 
-## Homestead First Aid Guide
+# Homestead First Aid Guide
 
-Homesteads present a wider range of hazards than typical households: power tools, chainsaws, livestock, [[jadam-soil-compaction-heavy-machinery]], venomous animals, open flames, and remote locations where professional help may be delayed. A comprehensive first aid approach is essential.
+Homesteads present a wider range of hazards than typical households: power tools, chainsaws, livestock, heavy machinery, venomous animals, open flames, and remote locations where professional help may be delayed. A comprehensive first aid approach is essential.
 
 ## Building a Homestead First Aid Kit
 
@@ -74,20 +74,20 @@ Common around wood stoves, [[rocket-stove]], [[mud-oven]], and during canning. C
 
 ## Herbal and Natural Remedies
 
-Many homesteaders incorporate [[childrens-herbal-medicine]] as a complement to conventional first aid. These are not replacements for professional care but can be useful for minor issues:
+Many homesteaders incorporate herbal medicine as a complement to conventional first aid. These are not replacements for professional care but can be useful for minor issues:
 
 - **Plantain (Plantago spp.)** — crush leaves and apply to insect stings, minor wounds, and rashes. Anti-inflammatory and mildly antimicrobial.
-- **Yarrow ([[achillea-millefolium]])** — dried leaves or powder sprinkled on wounds to stop bleeding. Has documented astringent and antiseptic properties.
-- **[[calendula-salve-making]]** — promotes wound healing and reduces inflammation. Apply to minor cuts, scrapes, and burns after initial treatment.
+- **Yarrow (Achillea millefolium)** — dried leaves or powder sprinkled on wounds to stop bleeding. Has documented astringent and antiseptic properties.
+- **Calendula salve** — promotes wound healing and reduces inflammation. Apply to minor cuts, scrapes, and burns after initial treatment.
 - **Honey (raw, medical grade)** — applied topically to wounds, honey has antibacterial properties and promotes healing. Manuka honey has the most research behind it.
-- **Lavender [[permaculture-designers-manual-essential-oil-plants]]** — diluted and applied to minor burns for pain relief. A few drops on a cloth can help with headache or mild anxiety.
+- **Lavender essential oil** — diluted and applied to minor burns for pain relief. A few drops on a cloth can help with headache or mild anxiety.
 - **Echinacea tincture** — may support immune response at early signs of infection. Not a substitute for antibiotics when clearly indicated.
 
 Always document any herbal or natural remedy use alongside conventional treatments in your health records.
 
 ## Snake Bites
 
-Know the venomous snakes in your region before you need this information. In [[guzman-psilocybin-mushrooms-north-america]]: rattlesnakes, copperheads, cottonmouths, and coral snakes are the primary concerns.
+Know the venomous snakes in your region before you need this information. In North America: rattlesnakes, copperheads, cottonmouths, and coral snakes are the primary concerns.
 
 **Do:**
 - Call 911 or your local emergency number immediately

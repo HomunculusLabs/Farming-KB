@@ -4,11 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, ethics, principles, design, sustainability, ecology]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+sources: []
 ---
 
-## Permaculture Ethics and Principles
+# Permaculture Ethics and Principles
 
 Permaculture is a design system founded by Bill Mollison and David Holmgren in the 1970s, grounded in three core ethics and elaborated through a set of design principles that guide the creation of sustainable, self-maintaining human settlements and agricultural systems.
 
@@ -74,48 +73,6 @@ These principles overlap significantly with Holmgren's and remain widely taught 
 The ethics provide the "why" — the moral foundation. The principles provide the "how" — the design methodology. A permaculture design is evaluated not only by its productivity but by whether it upholds earth care, people care, and fair share while following the design principles.
 
 In practice, designers often run through a checklist: Does this element serve multiple functions? Does it produce a yield? Is waste minimized? Does it integrate with surrounding elements? Does it build resilience?
-
-## Practical Applications
-
-Real-world applications and implementation strategies for permaculture ethics principles. Understanding
-the underlying principles helps practitioners achieve consistent results.
-Careful observation and documentation support ongoing improvement.
-
-## Key Considerations
-
-Critical factors for evaluation and decision-making for permaculture ethics principles. Understanding
-the underlying principles helps practitioners achieve consistent results.
-Careful observation and documentation support ongoing improvement.
-
-## Common Challenges
-
-Frequently encountered obstacles and solutions for permaculture ethics principles. Understanding
-the underlying principles helps practitioners achieve consistent results.
-Careful observation and documentation support ongoing improvement.
-
-## Research Developments
-
-Current research directions and emerging findings for permaculture ethics principles. Understanding
-the underlying principles helps practitioners achieve consistent results.
-Careful observation and documentation support ongoing improvement.
-
-## Implementation Methods
-
-Proven approaches for effective practice for permaculture ethics principles. Understanding
-the underlying principles helps practitioners achieve consistent results.
-Careful observation and documentation support ongoing improvement.
-
-## Quality Indicators
-
-Metrics for evaluating success and outcomes for permaculture ethics principles. Understanding
-the underlying principles helps practitioners achieve consistent results.
-Careful observation and documentation support ongoing improvement.
-
-## Technical Parameters
-
-Technical specifications for successful results for permaculture ethics principles. Understanding
-the underlying principles helps practitioners achieve consistent results.
-Careful observation and documentation support ongoing improvement.
 
 ## See Also
 

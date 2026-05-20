@@ -2,7 +2,7 @@
 title: "Garden Soil Fertility Mineral Balance Solomon"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 ## The Mineral Depletion Problem

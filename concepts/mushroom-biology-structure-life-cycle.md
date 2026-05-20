@@ -2,7 +2,7 @@
 title: "Mushroom Biology Structure Life Cycle"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 Implementation varies based on scale, available resources, and

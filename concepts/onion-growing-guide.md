@@ -7,7 +7,7 @@ tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
 sources: []
 ---
 
-## Onion Growing Guide
+# Onion Growing Guide
 
 Onions (Allium cepa) are a foundational kitchen staple with specific day-length requirements that determine bulb formation. This guide covers day-length types, planting methods (sets, seeds, transplants), growing care, curing, and storage.
 
@@ -140,11 +140,13 @@ Onions bulb in response to daylight hours. Choosing the correct type for your la
 |---------|-------|------------|
 | Small bulbs | Wrong day-length type, insufficient nitrogen, crowding | Choose correct type, fertilize, proper spacing |
 | Thick necks (won't cure) | Excess nitrogen late in season, too much water | Stop N when bulbs are 2/3 mature, reduce watering |
+| Bolting | Temperature fluctuations, large sets | Use transplants/seeds, mulch, avoid large sets |
+| Thrips | Tiny insects sucking sap from leaves | Insecticidal soap, neem oil, encourage beneficials |
+| Downy mildew | Fungal disease in humid conditions | Good airflow, avoid overhead watering, copper spray |
 
-## See Also
+## Related Concepts
 
-- [[comparison-garlic-vs-onion-growing]]
-- [[hamilton-bulb-vegetables-onion-family-organic]]
-- [[hamilton-greenhouse-polytunnel-growing]]
-- [[greenhouse-growing]]
-- [[fukuoka-straw-vegetable-growing]]
+- [[garlic-growing-guide]] — related allium with similar planting and curing methods
+- [[companion-planting-reference]] — carrots, beets, lettuce as onion companions; avoid beans
+- [[soil-amendment-reference]] — nitrogen and phosphorus sources for onion beds
+- [[mulching-guide]] — straw mulch for moisture retention and weed suppression

@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, mushrooms]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Wild Mushroom Harvest Sustainability
 Wild mushroom harvest sustainability concerns the practices and principles

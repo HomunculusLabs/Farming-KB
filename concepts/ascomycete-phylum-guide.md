@@ -7,7 +7,7 @@ tags: [fungi, mycology, taxonomy, species-profiles, ecology, decomposition, biol
 sources: []
 ---
 
-## Ascomycete Phylum Guide
+# Ascomycete Phylum Guide
 
 Ascomycota is the largest phylum of fungi, containing over 64,000 described species. Members are commonly called sac fungi because they produce spores (ascospores) inside a microscopic sac called an ascus. This phylum includes some of the most economically and ecologically important fungi on Earth.
 
@@ -25,7 +25,7 @@ Ascomycota is the largest phylum of fungi, containing over 64,000 described spec
 Contains the economically critical genera Penicillium and Aspergillus. These are primarily asexual fungi found in soil, decaying matter, and indoor environments. Penicillium species produce the antibiotic penicillin and are used in cheese production. Aspergillus species are used in soy sauce fermentation (A. oryzae) but some produce aflatoxins (A. flavus). See also [[mold-identification-guide]].
 
 ### Saccharomycetales (Saccharomyces)
-The true yeasts. Most are unicellular and reproduce by budding. [[yeast-biology|Saccharomyces cerevisiae]] is the workhorse of baking, brewing, and winemaking. Other members include Candida albicans (a human pathogen) and Pichia species used in bioethanol production.
+The true yeasts. Most are unicellular and reproduce by budding. [[yeast-biology-guide|Saccharomyces cerevisiae]] is the workhorse of baking, brewing, and winemaking. Other members include Candida albicans (a human pathogen) and Pichia species used in bioethanol production.
 
 ### Pezizales
 The cup fungi and morels. This order contains Morchella (morels), Tuber (truffles), and Helvella (elfin saddles). These are mostly ectomycorrhizal or saprotrophic and produce apothecia as fruiting bodies. See morels and truffles.
@@ -70,7 +70,7 @@ Ascomycetes form the fungal partner in most lichen symbioses (roughly 98% of lic
 
 ### Human Uses
 - Antibiotics (Penicillium)
-- [[fermented-foods-and-beverages]] (Saccharomyces, Aspergillus, Penicillium)
+- Fermented foods and beverages (Saccharomyces, Aspergillus, Penicillium)
 - Cheese production (Penicillium roqueforti, P. camemberti)
 - Model organisms in genetics (Neurospora crassa, Saccharomyces cerevisiae)
 - Biocontrol agents (Trichoderma, Beauveria)
@@ -89,32 +89,3 @@ Ascomycetes reproduce both sexually and asexually. Sexual reproduction involves 
 ## Related
 
 - [[fungal-species-concept-and-taxonomy]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-Documentation of results enables continuous improvement and knowledge sharing.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-Collaborative networks facilitate rapid dissemination of innovations and best practices.

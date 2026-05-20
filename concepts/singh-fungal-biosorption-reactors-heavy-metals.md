@@ -26,7 +26,7 @@ mixer, causing flocculation of biomass, and the solution is discharged
 into a settling tank. This continuous process achieves 87% copper
 reduction at a flow rate of 1.5 L/min. Batch stirred-tank reactors in
 series have also demonstrated adsorption of Cu(II) and Ni(II) by
-[[mycoremediation-heavy-metals]] have been removed
+[[mycoremediation-of-heavy-metals]] have been removed
 in CFST systems using Rhizopus arrhizus, achieving 36% removal of
 Pb(II), 16% of Ni(II), and 13% of Cu(II) (Sag et al., 2000b).
 

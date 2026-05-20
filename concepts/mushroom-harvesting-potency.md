@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Harvesting and Potency
 created: 2026-04-12
 updated: 2026-04-12
@@ -19,9 +20,9 @@ sources:
 - raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md
 ---
 
-## Mushroom Harvesting and Potency
+# Mushroom Harvesting and Potency
 
-Harvest timing, drying method, and storage dramatically affect the quality and potency of [[fungi-cultivated-mushrooms-pathogens-competitors]]. PF ([[psylocybe-fanaticus]]) and Paul Stamets both provide detailed guidance. This page covers harvest timing for maximum potency, drying [[food-preservation-and-storage-methods]], spore printing, and [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]].
+Harvest timing, drying method, and storage dramatically affect the quality and potency of cultivated mushrooms. PF (Psylocybe Fanaticus) and Paul Stamets both provide detailed guidance. This page covers harvest timing for maximum potency, drying and storage methods, spore printing, and spore syringe preparation.
 
 ## When to Harvest: Pre-Sporulation
 
@@ -69,7 +70,7 @@ From PF and Jochen Gartz's research, P. cubensis can achieve baseline psilocybin
 | 3 grams | Visual waves; air appears liquid with tidal movements |
 | 4 grams | Intense experience, 4-5 hours |
 | 5 grams | Nearly overwhelming, 6 hours |
-| 7+ grams | Not recommended; requires very supportive [[lsd-set-and-setting-framework]] |
+| 7+ grams | Not recommended; requires very supportive set and setting |
 
 Note: Individual sensitivity varies enormously. One mycologist needs only 1-2 grams for a full experience; another woman felt nothing at 5 grams.
 
@@ -113,7 +114,7 @@ Note: Individual sensitivity varies enormously. One mycologist needs only 1-2 gr
 
 ### What NOT to Do
 
-- **Never dry in an oven** -- heat leaches [[guzman-magic-mushrooms-chemical-constituents]] and reduces quality
+- **Never dry in an oven** -- heat leaches chemical constituents and reduces quality
 - **Never use hot air dryers** -- same problem
 - Mushrooms dried with desiccant "lose hardly any chemical constituents"
 
@@ -139,8 +140,48 @@ Mature specimens (with dark brown gills and purple spore deposits) are good for 
 
 ### Procedure
 
+1. **Pre-sterilize** jar and metal lid in toaster oven at ~300F for 30 minutes; cool; tighten lid
+2. **Wash hands** -- hands are "a prime source for bacteria and microspore contaminants"
+3. **Sterilize work surfaces** with rubbing alcohol; minimize drafts
+4. Run a HEPA air cleaner (99.97% efficiency) for a few hours in a closed room
+5. **Flame sterilize scissors** with alcohol flame; snip mushroom cap as far up the stem as possible
+6. **Place cap gills-down** on jar bottom using straight pin; lid on loosely
+7. **Leave 2 days** in draft-free area away from direct sunlight
+8. **Remove cap** with minimal air disturbance; let jar dehumidify a few days with loose lid
+9. **Seal with tape**; store at room temperature in dark place (NOT refrigerator)
+
+### Spore Viability
+
+- Psilocybe cubensis spores begin degrading a few months after collection
+- After ~1.5 years: germination greatly reduced or absent
+- Fresh spores: massive and quick germination
+
+## Making a Spore Syringe
+
+1. **Prepare sterile syringes**: Boil water, draw into syringes, squirt out; refill, wrap in foil, boil 1 hour
+2. **Inject sterile water** into spore print jar through the needle hole in the lid
+3. **Flame sterilize glass stirring rod**; insert through center hole; scrape spores into water
+4. **Insert sterile syringe** through edge hole; tilt jar until water reaches needle tip; draw spore water into syringe
+5. **Protect lid holes** with tin foil or sterile surgical tape before and after
+
+## Alcohol Extraction (Advanced)
+
+PF describes a method for extracting psilocybin using 200-proof ethyl alcohol:
+
+1. Pulverize thoroughly dried mushrooms in a freezer bag
+2. Cover with 200-proof ethyl alcohol; shake; let sit 24 hours
+3. Filter through dust-pollen mask into drinking glass
+4. Retrieve mushroom material; resoak with fresh alcohol; repeat
+5. Combine extracts; evaporate with small fan to desired concentration
+6. Dispense with syringe for accurate dosing
+7. Store concentrated liqueur in small vials in freezer (alcohol does not freeze)
+
 ## See Also
 
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[straw-based-mushroom-substrate-preparation]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[pf-tek-guide]] -- Complete PF TEK from substrate to harvest
+- [[pf-tek-fruiting-chamber]] -- Dual chambered terrarium construction
+- [[psilocybin-mushroom-cultivation]] -- Broader cultivation overview
+- [[mushroom-drying-storage]] -- Drying and storage methods
+- [[mushroom-spore-printing-and-storage]] -- Spore techniques
+- [[psilocybin-mushroom-chemistry]] -- Species potency comparison
+- [[psilocybin-mushroom-chemistry]] -- Chemical composition details

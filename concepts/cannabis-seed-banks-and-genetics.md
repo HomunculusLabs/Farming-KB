@@ -7,11 +7,11 @@ tags: [cannabis, genetics, species-profiles, organization, seeds, beginner]
 sources: []
 ---
 
-## Cannabis Seed Banks and Genetics
+# Cannabis Seed Banks and Genetics
 
 ## Overview
 
-Cannabis seed banks are companies that produce, store, and distribute cannabis seeds to growers worldwide. They serve as the primary source of [[biodiversity-fungal-genetic-diversity]] for both commercial operations and home cultivators. Understanding seed banks, strain preservation, and genetic terminology is essential for anyone serious about [[cannabis-breeding-basics|breeding]] or selecting quality genetics for [[cannabis-indoor-growing-basics|indoor]] or [[cannabis-outdoor-growing|outdoor]] cultivation.
+Cannabis seed banks are companies that produce, store, and distribute cannabis seeds to growers worldwide. They serve as the primary source of genetic diversity for both commercial operations and home cultivators. Understanding seed banks, strain preservation, and genetic terminology is essential for anyone serious about [[cannabis-breeding-basics|breeding]] or selecting quality genetics for [[cannabis-indoor-growing-basics|indoor]] or [[cannabis-outdoor-growing|outdoor]] cultivation.
 
 ## Types of Seeds
 
@@ -41,7 +41,7 @@ Seeds containing ruderalis genetics that flower automatically based on age. See 
 
 ### Clone-Only Genetics
 
-Some elite strains are maintained only as living clones — no seeds are available. These genetics are preserved through [[hamilton-vegetative-propagation]]. Examples include original OG Kush, Gelato (certain cuts), and various Cookies phenotypes. Clone-only genetics maintain exact genetic copies of the mother plant.
+Some elite strains are maintained only as living clones — no seeds are available. These genetics are preserved through vegetative propagation. Examples include original OG Kush, Gelato (certain cuts), and various Cookies phenotypes. Clone-only genetics maintain exact genetic copies of the mother plant.
 
 ## Seed Bank Categories
 
@@ -79,7 +79,7 @@ Spain has emerged as a major seed bank hub due to favorable laws:
 
 ## Landrace Genetics
 
-[[cannabis-landrace-strains]] are pure, naturally evolved cannabis varieties from specific geographic regions. They represent the original genetic diversity before modern breeding.
+Landrace strains are pure, naturally evolved cannabis varieties from specific geographic regions. They represent the original genetic diversity before modern breeding.
 
 ### Important Landrace Regions
 
@@ -87,7 +87,7 @@ Spain has emerged as a major seed bank hub due to favorable laws:
 
 **Americas:** Colombian (Gold, Red, Black — used in Skunk #1), Mexican (Acapulco Gold, Oaxacan), Jamaican sativas.
 
-**Africa:** Durban Poison ([[cannabis-strain-swazi-landrace-south-african-sativa-oner]] — one of few pure landraces widely in seed form), Malawi, Swazi.
+**Africa:** Durban Poison (South African sativa — one of few pure landraces widely in seed form), Malawi, Swazi.
 
 ### Landrace Preservation
 
@@ -97,7 +97,7 @@ Many landrace populations are threatened by introduced hybrid genetics. Seed ban
 
 ### Commercial Breeding Goals
 
-High THC, unique [[cannabis-terpene-profiles]], fast flowering, high yields, pest resistance, visual appeal, and [[cannabis-genetic-stability]].
+High THC, unique terpene profiles, fast flowering, high yields, pest resistance, visual appeal, and genetic stability.
 
 ### Breeding Techniques
 

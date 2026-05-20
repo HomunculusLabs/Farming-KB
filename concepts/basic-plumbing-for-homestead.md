@@ -3,11 +3,11 @@ title: Basic Plumbing for Homestead
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: homesteading, water, water-management, equipment, engineering]
+tags: [homesteading, water, water-management, equipment, engineering]
 sources: []
 ---
 
-## Basic Plumbing for Homestead
+# Basic Plumbing for Homestead
 
 Homestead plumbing ranges from simple gravity-fed water systems to full residential plumbing with multiple fixtures. Understanding the basics of piping materials, fixture installation, and troubleshooting saves thousands in contractor costs and prevents catastrophic water damage. This page covers PEX, copper, and PVC systems, common installations, and diagnostic approaches.
 
@@ -51,7 +51,7 @@ Traditional plumbing material with a proven track record spanning decades.
 - Higher material and labor cost
 - Requires soldering skills and a torch
 - Can develop pinhole leaks from acidic water
-- More susceptible to [[query-how-do-i-protect-plants-from-frost-and-freeze-damage]] than PEX
+- More susceptible to freeze damage than PEX
 - Water hammer can be an issue without air chambers
 
 **Installation:**
@@ -140,11 +140,42 @@ Rigid plastic piping for drainage and (CPVC only) hot water supply.
 
 - Open faucets downstream of the frozen section
 - Apply gentle heat with a heat gun, hair dryer, or heat tape — never an open flame
+- Start from the faucet end and work toward the frozen section
+- Once thawed, inspect for cracks or splits that may have occurred
 
+### Dripping Faucets
+
+- Compression faucets: Replace the rubber seat and washer
+- Cartridge faucets: Replace the entire cartridge
+- Ceramic disk faucets: Replace the ceramic cartridge
+
+## Tools Every Homesteader Should Have
+
+- Pipe wrenches (10-inch and 14-inch)
+- Basin wrench (for faucet nuts in tight spaces)
+- PEX cutter and crimping tool with gauge
+- Adjustable wrenches
+- Teflon tape and pipe joint compound
+- Plumber's snake (25-foot minimum)
+- Cup plunger and flange plunger
+- Multi-bit screwdriver set
+- Hacksaw or reciprocating saw with metal blade
+- Safety glasses and work gloves
+
+## When to Call a Professional
+
+- Main sewer line blockages or backups
+- Gas line work (in many jurisdictions, illegal for homeowners)
+- Permit-required remodels or new construction
+- Water heater installation where code requires it
+- Persistent low pressure with no identifiable cause
+- Sewer gas odor indicating a venting problem
+- Any work on a pressurized system you are not confident in
+
+## Related Concepts
+
+- [[water-management]] — Water sourcing, filtration, and management systems
+- [[water-management]] — Irrigation and drainage planning for the homestead
+- [[greywater-systems-detailed]] — Greywater recycling and treatment systems
 ## See Also
-
-- [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]
 - [[basic-electrical-for-homestead]]
-- [[homestead-energy-conservation]]
-- [[homestead-mushroom-business]]
-- [[homestead-winter-preparations]]

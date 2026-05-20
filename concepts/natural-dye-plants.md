@@ -7,7 +7,7 @@ tags: [homesteading, homestead-crafts, plants, plant-systems, beginner]
 sources: []
 ---
 
-## Natural Dye Plants
+# Natural Dye Plants
 
 Natural dyeing transforms leaves, flowers, roots, and barks of plants into colorants for fiber, yarn, and fabric. This ancient craft aligns with homestead self-sufficiency by utilizing garden plants, weeds, and foraged materials for textile coloration.
 
@@ -141,10 +141,51 @@ Integrate dye plants into the homestead landscape:
 
 ### Cold Extraction
 
+For delicate pigments (some flowers, berries):
+1. Soak plant material in water 24-48 hours
+2. Strain and use liquid as dye bath
+3. May require longer immersion times
+
+### Fermentation Extraction
+
+For indigo: leaves are fermented in alkaline water with a reduction agent to extract indican. See dedicated indigo resources for the complex vat process.
+
+## Modifiers
+
+Apply after dyeing to shift colors:
+
+- **Iron water** (rusty nails in vinegar, 2 weeks): Saddens/browns yellows, turns pinks to purple
+- **Ammonia**: Shifts some reds to brown-purple
+- **Vinegar/acid**: Brightens yellows, shifts some colors
+- **Copper after-bath**: Greens yellows
+- **Baking soda (alkaline)**: Shifts reds toward purple
+
+## Lightfastness and Washfastness
+
+Not all natural dyes are equal in permanence:
+
+- **Excellent**: Weld, madder, indigo, walnut hulls, cutch, cochineal
+- **Moderate**: Marigold, coreopsis, logwood, onion skin
+- **Poor**: Turmeric, berries (blackberry, elderberry), most flower petals without mordant
+
+Test all dyes on sample skeins before committing to a large project. Tape samples to a sunny window for 2 weeks to test lightfastness.
+
+## Sustainable Harvesting
+
+- Harvest no more than 1/3 of any wild plant stand
+- Leave roots of perennial dye plants to regenerate
+- Grow dye plants in dedicated garden beds
+- Compost spent dye plant material
+- Collect onion skins, avocado pits, tea leaves, and coffee grounds as kitchen waste dye sources
+- Use rainwater for dye baths when possible (mineral content varies with tap water)
+
 ## See Also
 
-- [[natural-beekeeping-practices]]
-- [[fukuoka-rice-and-barley-natural-farming]]
-- [[natural-building]]
-- [[fukuoka-natural-farming-philosophy-five-principles]]
-- [[natural-farming-do-nothing-philosophy]]
+- [[herbal-medicine]] — Overlap of medicinal and dye plants on the homestead
+- [[permaculture-plant-catalog]] — Multi-functional plants including dye species
+- [[cover-cropping-guide]] — [[cover-crop-species-comparison|Cover crop]]s that double as dye sources (buckwheat, mustard)
+
+## Related
+
+- [[plant-propagation-methods]]
+- [[companion-planting-reference]]

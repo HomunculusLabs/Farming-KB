@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: mycology, fungi]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Rock-Inhabiting and Oligotrophic Fungi
 Rocks exposed to high solar radiation, extreme temperatures,

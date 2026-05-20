@@ -7,7 +7,7 @@ tags: [mycology, therapy, psychology, psychiatry, psychedelics, psychopharmacolo
 sources: []
 ---
 
-## Psychedelic Assisted Therapy Protocol
+# Psychedelic Assisted Therapy Protocol
 
 ## Overview
 
@@ -140,11 +140,52 @@ The dosing session room is carefully prepared:
 - **Minimal intervention**: The default is quiet, supportive presence
 - **Non-directive**: Do not steer the experience; follow the patient's lead
 - **Physical touch**: Only with prior consent; a hand on the shoulder or hand can be deeply grounding
+- **Medication management**: Benzodiazepines (typically lorazepam) may be available as a safety net for severe anxiety, but are rarely needed
+- **Record-keeping**: Therapists may take brief notes on observable behavior and notable themes
 
-## See Also
+## Phase 3: Integration Sessions
 
-- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
-- [[psychedelic-1960s-counterculture]]
-- [[psychedelic-consciousness-expansion]]
-- [[psychedelic-prohibition-and-the-war-on-consciousness]]
-- [[psychedelic-therapy-set-and-setting]]
+### Number and Structure
+
+Integration typically consists of 1-3 sessions, each lasting 60-90 minutes, scheduled in the days and weeks following the dosing session.
+
+### Goals of Integration
+
+1. **Narrative construction**: Help the patient articulate and make meaning of the experience
+2. **Identify insights**: Extract actionable insights from often-ineffable experiences
+3. **Emotional processing**: Continue to process emotions that arose during the session
+4. **Behavioral planning**: Translate insights into concrete behavioral changes
+5. **Support vulnerability**: The post-session period can be emotionally raw; provide containment
+6. **Relapse prevention**: Develop strategies for maintaining gains and preventing regression
+
+### Integration Techniques
+
+- Guided reflection and journaling
+- Art therapy and creative expression
+- Mindfulness and somatic awareness practices
+- Cognitive restructuring of identified maladaptive patterns
+- Values clarification and goal-setting
+- Relapse prevention planning (for substance use disorders)
+- Referral to ongoing therapy or support groups as needed
+
+## Training Requirements
+
+There is no universally standardized training for psychedelic therapists, but emerging programs share common elements:
+
+- Clinical licensure (psychology, psychiatry, social work, counseling)
+- Training in the specific therapeutic model being used
+- Personal experience with altered states of consciousness (either through experiential training or personal practice)
+- Supervised clinical hours conducting psychedelic-assisted therapy
+- Knowledge of psychedelic pharmacology, safety, and ethics
+- Cultural competency and awareness of indigenous traditions
+
+Major training programs include those at CIIS (California Institute of Integral Studies), MAPS (Multidisciplinary Association for Psychedelic Studies), Synthesis Institute, and several university-affiliated programs.
+
+## Ethical Considerations
+
+- **Informed consent**: Patients must understand the experimental nature, potential risks, and limitations
+- **Power dynamics**: The altered state creates vulnerability; therapists must maintain strict boundaries
+- **Cultural respect**: Acknowledge indigenous traditions without appropriation
+- **Equity and access**: Ensure diverse representation in trials and eventual clinical availability
+- **Avoiding hype**: Therapists must not overstate evidence or promise outcomes
+See [[psilocybin-clinical-trials]] for the evidence base supporting this protocol and [[psychedelic-mushroom-set-and-setting]] for foundational set and setting principles.

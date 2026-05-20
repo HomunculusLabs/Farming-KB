@@ -1,5 +1,5 @@
 ---
-title: Mushroom Drying Storage
+title: Mushroom Drying and Storage
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -7,14 +7,14 @@ tags: [mushrooms, fungi, processing, methods, troubleshooting]
 sources: []
 ---
 
-## Mushroom Drying and Storage
+# Mushroom Drying and Storage
 
-Proper drying and storage are essential for preserving mushroom potency, flavor, and [[cotter-mushroom-nutrition-medicinal-compounds]]. Fresh mushrooms degrade rapidly — enzymes continue to metabolize active compounds within hours of harvest. Dehydration halts this process and enables long-term storage.
+Proper drying and storage are essential for preserving mushroom potency, flavor, and medicinal compounds. Fresh mushrooms degrade rapidly — enzymes continue to metabolize active compounds within hours of harvest. Dehydration halts this process and enables long-term storage.
 
 ## Why Dry Mushrooms
 
 - **Preservation**: Fresh mushrooms spoil within 3-7 days refrigerated. Dried mushrooms last years
-- **Potency retention**: Halts [[enzymatic-degradation-in-mycoremediation]] of psilocybin/psilocin and medicinal compounds
+- **Potency retention**: Halts enzymatic degradation of psilocybin/psilocin and medicinal compounds
 - **Weight reduction**: Mushrooms are 90% water. Drying reduces weight by approximately 90%
 - **Convenience**: Easy to store, transport, dose, and incorporate into preparations
 - **Concentration**: Dried material is ~10x more potent by weight than fresh
@@ -140,10 +140,39 @@ Desiccants absorb residual moisture after initial drying. Essential for long-ter
 | Freezer, vacuum-sealed | 2-5+ years | Excellent |
 | Mylar + O2 absorber, cool dark | 5-10+ years | Excellent |
 
+### Potency Preservation Tips
+
+- Get mushrooms cracker-dry as quickly as possible after harvest
+- Grind into a fine powder only when ready to use — powder oxidizes faster than whole pieces
+- Store whole dried mushrooms, not powder, for maximum longevity
+- Keep a food-safe desiccant packet inside every storage jar
+- Label with species, harvest date, and drying method
+- Avoid repeated opening and closing of storage containers
+- Dark chocolate coating provides some protection from light and oxygen (a traditional method)
+
+## Drying Culinary and Medicinal Mushrooms
+
+The same principles apply to gourmet and medicinal species, though temperature sensitivity is less of a concern:
+
+- **Shiitake**: Dry at 100-140°F. Drying actually enhances umami flavor by concentrating guanylic acid
+- **Oyster**: Dry at 115-130°F. Rehydrates well for cooking
+- **Lion's mane**: Dry at 115°F or lower. Delicate texture; crumbles easily when dry
+- **Reishi**: Slice thin (1/8 inch) before drying. Very tough fresh; becomes brittle when dry
+- **Turkey tail**: Dry at 115-120°F. Store whole or powder for teas and extracts
+- **Chaga**: Grate or slice before drying. Extremely dense; may take 48+ hours in dehydrator
+- **Maitake**: Dry at 115-130°F. Fragile — handle carefully when dry
+
+## Powdering and Encapsulation
+
+- Use a coffee grinder or blender to powder dried mushrooms
+- Powdered mushrooms are convenient for making capsules, teas, and extracts
+- Store powder in airtight containers with desiccant
+- Encapsulate using a capsule filling machine (size 00 capsules hold ~500mg of powder)
+- Powder oxidizes faster — use within 3-6 months for maximum potency
+
 ## See Also
 
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[straw-based-mushroom-substrate-preparation]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[straw-mushroom-cultivation]]
-- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]
+- [[mushroom-substrates]] for growing the mushrooms that need drying
+- [[monotub-cultivation]] for the most common growing method
+- [[mushroom-nutrition-guide]] for information on medicinal compounds to preserve
+- [[food-preservation-canning]] for broader preservation techniques on the homestead

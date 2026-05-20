@@ -5,7 +5,7 @@ updated: 2026-05-06
 tags: [biochemistry, metabolism, cellular-respiration, mitochondria, energy]
 date: 2026-05-02
 type: concept
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 
 ## Overview

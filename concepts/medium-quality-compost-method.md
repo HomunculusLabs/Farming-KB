@@ -6,7 +6,7 @@ type: concept
 
 ## Medium Quality Compost Method
 
-The once-a-year heap is the most practical [[comparison-bokashi-vs-hot-composting-method]] for home vegetable gardeners. By accumulating organic materials throughout the year and building one large, well-managed compost heap in early autumn, you can produce medium-quality compost that will significantly improve soil health and grow most vegetables — especially when supplemented with [[complete-organic-fertilizer]] (COF) for high-demand crops.
+The once-a-year heap is the most practical [[comparison-bokashi-vs-hot-composting-method]] for home vegetable gardeners. By accumulating organic materials throughout the year and building one large, well-managed compost heap in early autumn, you can produce medium-quality compost that will significantly improve soil health and grow most vegetables — especially when supplemented with [[complete-organic-fertilizer-cof]] (COF) for high-demand crops.
 
 ## The Annual Cycle
 

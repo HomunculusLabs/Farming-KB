@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [papers/mycelium-running-stamets.md]
 ---
 ## Smut Fungi -- Plant Parasites of Grasses and Cereals
 [[worldwide-distribution-psilocybin-mushrooms]] across all continents except Antarctica

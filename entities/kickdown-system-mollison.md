@@ -77,5 +77,5 @@ The kickdown system exemplifies several [[mollisonian-permaculture-principles]]:
 
 - [[keyline-design]] — slope management in the broader landscape
 - [[compost-process-materials-mollison]] — composting fundamentals
-- [[soil-rehabilitation-mollison]] — restoring degraded soils
+- [[permaculture-designers-manual-soil-rehabilitation]] — restoring degraded soils
 - [[humus-soil-amendment-mollison]] — the role of humus in soil health

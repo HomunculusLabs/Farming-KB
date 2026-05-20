@@ -13,7 +13,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-## Fungal Species Estimates and Taxonomy
+# Fungal Species Estimates and Taxonomy
 
 Estimating the total number of fungal species is one of the most fundamental — and controversial — questions in mycology. Current estimates range from 1.5 to 5.1 million species, but only approximately 150,000 species have been formally described. This page synthesizes estimation methods, the current state of fungal taxonomy, and the classification of the fungal kingdom.
 
@@ -141,10 +141,58 @@ This gap means the vast majority of fungal species remain unknown to science.
 - Anaerobic fungi in herbivore guts
 - See [[anaerobic-gut-fungi]]
 
-## See Also
+### Groups Traditionally Studied by Mycologists
 
-- [[fungi-in-the-environment-fungal-ecosystems]]
-- [[fungal-amber-fossils]]
-- [[singh-fungal-pellet-formation-bioremediation]]
-- [[dark-septate-endophytes]]
-- [[fungal-pathogens-human-disease]]
+**Peronosporomycetes (Oomycetes)** — Not true fungi (Straminipila), but studied by mycologists
+- Water molds, downy mildews
+- Include *Phytophthora infestans* (potato blight), *Pythium* (damping-off)
+- ~700 described species
+
+**Myxomycetes (Slime Molds)** — Protists, not fungi, but traditionally included
+- ~800 described species
+- Plasmodial slime molds
+- See [[mycetozoans]]
+
+**Dictyostelia** — Protists
+- ~71 described species
+- Cellular slime molds
+- See [[mycetozoans]]
+
+## Undescribed Diversity by Habitat
+
+| Habitat | Estimated Undescribed Species | Notes |
+|---------|-------------------------------|-------|
+| Tropical forest soil | Hundreds of thousands | Largest unknown reservoir |
+| Endophytes in tropical plants | 100,000-1,000,000 | Each plant hosts many species |
+| Marine environments | 10,000-100,000 | Poorly sampled |
+| Deep soil/subsoil | 10,000-100,000 | Oligotrophic specialists |
+| Extreme environments | 1,000-10,000 | Halophiles, thermophiles, psychrophiles |
+| Leaf litter (tropical) | 10,000-50,000 | Rapid decomposition hides diversity |
+| Lichens | 10,000-20,000 | Many tropical species undescribed |
+
+## Challenges
+
+### Taxonomic Impediment
+- Too few taxonomists relative to the number of species
+- Expertise concentrated in temperate regions
+- Tropical mycology severely understaffed
+- Training new fungal taxonomists is a priority
+
+### Methodological Challenges
+- Many fungi cannot be cultured
+- Fruiting is often unpredictable
+- DNA reference databases incomplete
+- Molecular operational taxonomic units (MOTUs/OTUs) may not correspond to biological species
+
+### Integration of Methods
+- Integrative taxonomy: combining morphology, DNA, ecology, and chemistry
+- No single method captures all diversity
+- Need for multi-method approaches
+
+## Future Directions
+
+- High-throughput sequencing making large-scale surveys feasible
+- Citizen science platforms (iNaturalist, Mushroom Observer) generating distribution data
+- AI-assisted identification from photographs
+- Genome sequencing becoming cost-effective for species description
+- Global initiatives to accelerate fungal documentation (e.g., SPUN, Species Fungorum)

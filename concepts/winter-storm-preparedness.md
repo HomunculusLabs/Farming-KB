@@ -7,9 +7,9 @@ tags: [safety, homesteading, climate, water, animal-husbandry]
 sources: []
 ---
 
-## Winter Storm Preparedness
+# Winter Storm Preparedness
 
-Winter storms bring heavy snow, ice, extreme cold, and prolonged power outages. Rural homesteads face the greatest challenges due to isolation, longer road clearing times, and reliance on external infrastructure for heating and water. This guide covers backup heating, pipe freeze prevention, [[windbreak-design-and-livestock-shelter]], and emergency supplies.
+Winter storms bring heavy snow, ice, extreme cold, and prolonged power outages. Rural homesteads face the greatest challenges due to isolation, longer road clearing times, and reliance on external infrastructure for heating and water. This guide covers backup heating, pipe freeze prevention, livestock shelter, and emergency supplies.
 
 ## Understanding Winter Storm Risk
 
@@ -49,7 +49,7 @@ A 5,000W generator can run a small electric furnace or several baseboard heaters
 ### Prevention
 - Wrap all exposed pipes in unheated areas with foam insulation sleeves
 - Use heat tape on the most vulnerable pipes
-- Seal gaps and cracks where [[hemenway-cold-air-drainage-and-frost-management]] enters near pipes
+- Seal gaps and cracks where cold air enters near pipes
 - During extreme cold, allow faucets to drip slowly
 - Open cabinet doors under sinks on exterior walls
 - Know the location of your main water shut-off valve
@@ -72,7 +72,7 @@ Wind + moisture is far more dangerous than cold alone.
 
 **Ducks:** Draft-free shelter at night. Ensure water does not freeze — ducks need water to eat and maintain waterproofing. Use heated water bowls. Frostbite risk on feet and bills in extreme cold.
 
-**Chickens:** Draft-free but ventilated coop. [[comparison-deep-litter-vs-hot-composting]] method provides warmth. Apply petroleum jelly to combs and wattles before extreme cold. Heated waterers or frequent replacement. Extra feed in late afternoon for overnight warmth.
+**Chickens:** Draft-free but ventilated coop. Deep litter method provides warmth. Apply petroleum jelly to combs and wattles before extreme cold. Heated waterers or frequent replacement. Extra feed in late afternoon for overnight warmth.
 
 **General:** Windbreak is the single most important shelter feature. Increase feed availability. Ensure continuous water access. Monitor animals twice daily during extreme cold.
 
@@ -80,7 +80,7 @@ Wind + moisture is far more dangerous than cold alone.
 
 **Water:** 1 gallon per person per day, additional for pets/livestock. Store indoors protected from freezing. Water purification supplies.
 
-**Food:** Non-perishable food requiring no cooking. Manual can opener. Camp stove with fuel [[query-how-to-build-a-cob-oven-for-outdoor-cooking]]. High-calorie comfort foods and hot drinks.
+**Food:** Non-perishable food requiring no cooking. Manual can opener. Camp stove with fuel for outdoor cooking. High-calorie comfort foods and hot drinks.
 
 **Warmth:** Sleeping bags rated to 0°F, extra wool blankets, warm layered clothing, waterproof boots and gloves, chemical heat packs, emergency thermal blankets (Mylar).
 
@@ -104,23 +104,8 @@ Wind + moisture is far more dangerous than cold alone.
 
 ## Related Concepts
 
-- safety — Comprehensive safety planning and [[emergency-preparedness]]
+- safety — Comprehensive safety planning and emergency preparedness
 - [[firewood-seasoning-and-storage]] — Ensuring adequate seasoned wood supply for winter heating
-- [[holzer-natural-animal-husbandry]] — Livestock care and management
+- animal husbandry — Livestock care and management
 - [[homestead-communication]] — Communication during winter power outages
 - [[homestead-first-aid-guide]] — First aid for cold-weather injuries
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
-Collaborative networks and knowledge sharing accelerate progress in this field.
-Emerging technologies offer new tools for analysis and implementation.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

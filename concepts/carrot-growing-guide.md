@@ -140,11 +140,25 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 ### When to Harvest
 - Carrots are usually ready 60-80 days after sowing depending on variety
 - Check size by brushing soil away from the shoulder of a test carrot
+- Best flavor develops after a light frost (sugars concentrate)
+- Do not leave in ground through deep winter freezes in cold zones
+
+### How to Harvest
+- Loosen soil with a fork beside the row before pulling
+- Pull straight up gently; twist slightly if resistant
+- Harvest in the morning for best flavor and crispness
+
+## Storage
+
+- Remove tops immediately — they draw moisture from roots
+- Do not wash before storage; brush off loose soil only
+- Store at 32-38F with 95-100% humidity
+- Pack in damp sand, sawdust, or leaves in a root cellar or refrigerator crisper
+- Properly stored carrots last 4-6 months
+- Carrots can overwinter in the ground in zones 5-6 with heavy mulch (straw, leaves)
 
 ## See Also
 
-- [[knf-carrot-enzyme-soil-preparation]]
-- [[hamilton-greenhouse-polytunnel-growing]]
-- [[greenhouse-growing]]
-- [[fukuoka-straw-vegetable-growing]]
-- [[holzer-fruit-growing-marginal-climates]]
+- [[seasonal-gardening-calendar]] for sowing and harvest timing
+- [[brassica-growing-guide]] for companion root crops like radishes and turnips
+- [[urban-farming-methods]] for container carrot growing

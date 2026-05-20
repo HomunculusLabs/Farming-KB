@@ -92,7 +92,7 @@ affinity for cardiovascular and hemostatic applications.
 
 [[forest-gardening-and-food-forests]]
 [[plant-defense-chemistry-and-secondary-metabolites]]
-[[integrated-pest-management-ipm]] | [[botanical-pesticides-and-natural-pest-control]]
+[[integrated-pest-management]] | [[botanical-pesticides-and-natural-pest-control]]
 
 ## References
 

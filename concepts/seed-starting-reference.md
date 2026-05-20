@@ -7,7 +7,7 @@ tags: [germination, cultivation, gardening, vegetables, indoor, plant-growth, be
 sources: []
 ---
 
-## Seed Starting Reference
+# Seed Starting Reference
 
 Starting seeds indoors extends the growing season, provides stronger transplants, and offers access to varieties unavailable as starts. This reference covers germination conditions, lighting, soil blocks, and hardening off.
 
@@ -140,11 +140,36 @@ Transplants grown indoors must be gradually acclimated to outdoor conditions ove
 - Fungal disease that kills seedlings at soil line.
 - Caused by overwatering, poor air circulation, contaminated media.
 - Prevention: use sterile media, clean trays, good airflow, chamomile tea spray.
+- Once symptoms appear (pinched stems, flopped seedlings), affected plants cannot be saved.
 
-## See Also
+### Leggy Seedlings
+- Caused by insufficient light or excessive heat after germination.
+- Solution: increase light intensity, lower light fixture, reduce temperature to 60-65°F.
+- Can partially recover by burying stem up to first leaves when transplanting (tomatoes).
 
-- [[query-how-to-start-seed-saving]]
-- [[natural-farming-seed-saving]]
-- [[species-specific-fruiting-timelines-grass-seed-cultivation]]
-- [[knf-seed-soaking-cannabis-germination]]
-- [[cannabis-seed-germination-viability-breeding-clarke]]
+## Timing: When to Start Seeds
+
+Count backward from your average last frost date:
+
+| Crop | Weeks Before Last Frost |
+|------|------------------------|
+| Peppers | 8-10 |
+| Tomatoes | 6-8 |
+| Eggplant | 8-10 |
+| Onions (from seed) | 10-12 |
+| Broccoli | 6-8 |
+| Cabbage | 6-8 |
+| Lettuce | 6-8 |
+| Basil | 4-6 |
+| Cucumbers | 3-4 |
+| Squash | 2-3 |
+| Melons | 2-3 |
+
+Direct sow outdoors: beans, corn, peas, carrots, beets, radishes, spinach.
+
+## Related Concepts
+
+- [[raised-bed-gardening]] for transplanting seedlings into prepared beds
+- [[compost-tea-brewing]] for feeding seedlings after transplant
+- [[soil-amendment-reference]] for bed preparation before planting
+- [[mulching-guide]] for post-transplant care

@@ -94,7 +94,7 @@ Because of this extreme variability, Solomon recommends a clear division of labo
 - Do not rely on manure/compost as the primary source of plant nutrients
 
 ### COF: Feed the Plants
-- Use the [[complete-organic-fertilizer]] (COF) to supply the plants' mineral nutrient requirements
+- Use the [[complete-organic-fertilizer-cof]] (COF) to supply the plants' mineral nutrient requirements
 - COF provides known, consistent quantities of all essential nutrients
 - This removes the guesswork inherent in manure-based fertilization
 - Together, modest manure/compost + COF produce incredibly nutritious food

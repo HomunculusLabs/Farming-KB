@@ -99,7 +99,7 @@ Knowledge sharing among practitioners accelerates solutions.
 [[shamanic-trance-cross-cultural-patterns]], including the use of darkness, chanting, and the experience of soul flight. However, the Mazatec emphasis on language, poetry, and the creative generation of new words for visionary phenomena represents a distinctive contribution to the cross-cultural understanding of [[metzner-psycholytic-psychedelic-therapy-models]], where the integration of fragmented psychological experience is a central therapeutic goal. The contrast Munn draws between the Mazatec view of the mushroom experience as integrative and the Western psychiatric view of it as producing "depersonalization" and "derangement" highlights the cultural relativity of psychiatric diagnosis.
 The erosion of Mazatec [[yage-cross-cultural-experience]].
 Contemporary research on psilocybin-assisted therapy, as documented in [[leary-psychedelic-experience-bardo-mapping]].
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]
 - [[mazatec-mushroom-tradition]]
 - [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]]
 - [[munn-mazatec-mushroom-oracular-cure]]

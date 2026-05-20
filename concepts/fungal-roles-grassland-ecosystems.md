@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-05-09
 type: concept
 tags: [mycology, fungi, grassland, ecology, soil-biology]
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 ## [[mycorrhizal-nutrient-transport]] associations, and [[biodiversity-fungi-soil-fungal-communities]]

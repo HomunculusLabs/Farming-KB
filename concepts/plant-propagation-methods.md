@@ -6,8 +6,7 @@ type: concept
 tags: [cultivation, plants, gardening, agriculture, plant-growth, techniques, fruit-tree, species]
 sources: []
 ---
-
-## Plant Propagation Methods
+# Plant Propagation Methods
 
 Plant propagation is the process of creating new plants from existing ones. Methods fall into two broad categories: sexual propagation (from seeds) and asexual/vegetative propagation (from plant parts). Vegetative methods produce clones genetically identical to the parent plant, preserving desired traits. Seed propagation introduces genetic variation, which is valuable for breeding but may not preserve specific characteristics.
 
@@ -140,10 +139,15 @@ Used for plants that cannot be easily bent to ground level.
 
 Similar to simple layering but the tip of the branch is buried.
 
-## See Also
+1. Bend the growing tip of a branch down to the soil surface
+2. Bury the tip 4-6 inches deep
+3. The tip grows downward initially, then curves upward
+4. New shoots emerge from the buried tip
+5. Sever and transplant the following season
 
-- [[two-tier-selection-model-plant-microbiome-assembly]]
-- [[holzer-problem-plant-regulation]]
-- [[what-a-plant-knows-plant-hearing-acoustic-sensing]]
-- [[medicinal-plant-preparations-tinctures-salves-teas]]
-- [[rhodopsin-photopsins-animal-visual-pigments-plant-photoreceptor-parallels]]
+**Best for**: blackberries, raspberries, trailing blackberry varieties
+
+## Grafting
+## See Also
+- [[permaculture-plant-propagation-methods]]
+- [[plant-propagation]]

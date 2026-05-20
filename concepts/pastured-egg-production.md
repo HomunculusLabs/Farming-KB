@@ -7,7 +7,7 @@ tags: [livestock, animal-husbandry, forage, agriculture, economics, homesteading
 sources: []
 ---
 
-## Pastured Egg Production
+# Pastured Egg Production
 
 Pastured eggs come from hens raised on living pasture with access to fresh forage, insects, and sunlight. The resulting eggs have deep orange yolks, superior flavor, higher omega-3 content, and command premium prices ($5-9/dozen) compared to conventional eggs.
 
@@ -140,11 +140,31 @@ Pastured eggs vs. conventional:
 - Miscellaneous: $20-50
 
 ### Revenue (50 hens)
+- 50 hens x 250 eggs/year = 12,500 eggs = ~1,040 dozen
+- At $6/dozen: $6,240/year
+- At $8/dozen: $8,320/year
 
-## See Also
+### Profitability
+- Net profit: $2,000-5,000/year for 50-hen flock
+- Labor: 15-30 minutes/day feeding, watering, collecting
+- Most profitable at direct-sale price points ($6+/dozen)
+- Eggs are often the "gateway" homestead product for [[farmers-market-selling-guide]]
 
-- [[mollison-designers-poultry-forage-design-pastured-systems]]
-- [[pastured-pork-production]]
-- [[ligninolytic-enzyme-production-bioremediation]]
-- [[staycare-fungal-organic-acid-production-metal-leaching]]
-- [[cattle-health-and-production]]
+## Predator Protection
+
+- Electric net fencing deters ground predators
+- Hardware cloth on coop openings (1/2 inch mesh)
+- Bury wire skirt 12 inches around coop perimeter
+- Close coop door at night (automatic door openers available)
+- Livestock guardian dogs for larger operations
+- Common predators: raccoons, foxes, weasels, hawks, owls, coyotes, skunks, opossums
+
+## Seasonal Considerations
+
+- Spring: peak production, pullets coming into lay
+- Summer: reduced production in extreme heat (shade, ventilation, frozen treats)
+- Fall: molt causes temporary drop in production (6-8 weeks)
+- Winter: reduced daylight = reduced eggs; supplement light to 14-16 hours if desired
+- Artificial lighting: a single 40W bulb on a timer maintains production through winter
+
+Pastured eggs are an excellent entry point for homestead livestock and pair naturally with [[pastured-pork-production]] in a rotational grazing system.

@@ -7,7 +7,7 @@ tags: [entheogen, safety, reference, community, culture, preparation, cultivatio
 sources: []
 ---
 
-## Entheogen Vendors and Sources
+# Entheogen Vendors and Sources
 
 ## Overview
 
@@ -140,11 +140,34 @@ For those performing plant extractions (see [[dmt-extraction-guide]] and [[mesca
 
 ### Sustainability
 - **Peyote**: Do not purchase wild-harvested peyote — populations are critically threatened. Only cultivated specimens should be considered
+- **Iboga**: Wild iboga harvesting is putting pressure on Gabonese forests. Seek sustainably cultivated sources
+- **Mimosa hostilis**: Brazilian harvesting has raised ecological concerns
+- **Salvia divinorum**: Wild populations in Oaxaca are limited — cultivate rather than wild-harvest
 
-## See Also
+### Cultural Respect
+- Many of these plants are sacred to indigenous communities
+- Commercial exploitation of traditional medicines raises ethical questions
+- Consider supporting indigenous communities and conservation efforts
+- Educate yourself on the cultural context before using these substances
 
-- [[keule-gomortega-keule-chilean-entheogen]]
-- [[entheogen-ayahuasca-admixture-plants]]
-- [[pineal-gland-entheogen]]
-- [[entheogen-jivaro-natem-shamanism]]
-- [[nightshade-plants-entheogen]]
+### Vendor Red Flags
+- Claims of "legal highs" or "designer drugs"
+- Products marketed for consumption that are sold as "not for human consumption"
+- No physical address or contact information
+- Poor reviews or no reviews
+- Prices significantly below or above market rate
+- Unsolicited advertising or aggressive marketing
+
+## Safety Considerations
+
+- Verify the identity of any plant material you receive
+- Start with low doses — potency varies enormously
+- Test substances with reagent tests when possible
+- Be aware of legal risks in your jurisdiction
+- Never consume unidentified plant material
+- See [[psychedelic-plants-legal-status]] for legal information by jurisdiction
+
+## Related Topics
+
+- [[psychedelic-plants-legal-status]] — legal status of entheogens by jurisdiction
+- [[psychedelic-plants-indoor-growing]] — cultivation guidance for legal entheogenic plants

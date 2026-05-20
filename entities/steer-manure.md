@@ -55,7 +55,7 @@ Can be replaced by finished compost at roughly equivalent depths for better resu
 ## See Also
 
 - [[chicken-manure-gardening]] — a more potent manure alternative
-- [[complete-organic-fertilizer]] — Solomon's preferred concentrated fertilizer
+- [[complete-organic-fertilizer-cof]] — Solomon's preferred concentrated fertilizer
 - [[compost]] — the gold standard of organic matter additions
 - [[soil-food-web]] — microbial communities supported by manure amendments
 

@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-## Litter and Wood Decomposing Fungi
+# Litter and Wood Decomposing Fungi
 
 Fungi are the primary decomposers of plant litter and wood in terrestrial ecosystems, driving the global carbon cycle through enzymatic breakdown of cellulose, hemicellulose, and lignin. The fungal communities on decomposing plant material follow predictable successional patterns shaped by resource chemistry and competitive interactions.
 
@@ -48,14 +48,14 @@ Fungi are the primary decomposers of plant litter and wood in terrestrial ecosys
 **Stage 4 — Humus Formation (years)**:
 - Resistant material (humus) decomposes very slowly
 - Specialized fungi with oxidative enzyme systems
-- [[mycorrhizal-fungi]] may contribute to humus decomposition (see [[mycorrhizal-types]])
+- Mycorrhizal fungi may contribute to humus decomposition (see [[mycorrhizal-types]])
 
 ### Factors Affecting Litter Decomposition
 
 **Environmental**:
 - Temperature: Q10 of ~2 for decomposition rate (rate doubles per 10°C increase)
 - Moisture: Optimal near field capacity; both drought and waterlogging inhibit
-- [[soil-ph]]: Acidic soils slow decomposition; neutral to slightly acidic optimal
+- Soil pH: Acidic soils slow decomposition; neutral to slightly acidic optimal
 - Oxygen: Anaerobic conditions slow decomposition and shift to bacterial/fermentative processes
 
 **Chemical**:
@@ -148,3 +148,37 @@ Fungi compete intensely for wood resources. Interactions include:
 - Combat outcomes depend on: relative growth rates, resource status, moisture, temperature
 - Replacements are more common when one fungus has occupied the resource longer
 - Community composition in wood is largely determined by competitive hierarchy
+
+## Carbon Cycling Implications
+
+- Wood decomposition is a major flux in the global carbon cycle
+- Temperature sensitivity of decomposition (Q10) means climate warming will accelerate carbon release from wood and litter
+- White rot fungi are the only organisms that can completely degrade lignin
+- Brown rot leaves lignin residues that contribute to long-term soil carbon storage
+- Forest management practices (tree species selection, dead wood retention) affect fungal decomposition pathways and carbon storage
+
+## Ecological Importance
+
+- Dead wood is habitat for thousands of fungal species
+- Standing dead trees (snags) and fallen logs provide distinct niches
+- Wood decomposition creates habitat for invertebrates, birds, and mammals (cavity nesters)
+- Fungal fruiting bodies on wood support specialized invertebrate communities
+- Saproxyllic (dead-wood-dependent) fungi are among the most threatened fungal groups
+
+## Conservation
+
+Dead wood is declining in managed forests:
+- Removal of fallen logs and snags eliminates habitat
+- Short rotation forestry prevents development of late-stage wood decay communities
+- Old-growth forests with abundant dead wood support the most diverse fungal communities
+- Recommendations: retain dead wood (>20 m3/ha), leave snags, create dead wood piles, extend rotation periods
+
+## Related Topics
+
+- [[fungal-decomposition]] — Decomposition processes overview
+- [[fungal-enzymatic-capabilities]] — Fungal enzyme systems
+- [[fungal-nutrient-cycling-mineral-transformations]] — Carbon and nutrient cycling
+- [[fungal-growth-dynamics]] — Mycelial foraging and resource translocation
+- [[fungi-in-climate-change]] — Climate effects on decomposition
+- [[fairy-rings-and-giant-mycelia]] — Armillaria and large mycelial networks
+- [[fungal-ecology-decomposition-cycles]] — Decomposition cycles in ecosystems

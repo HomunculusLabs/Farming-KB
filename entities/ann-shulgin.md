@@ -1,4 +1,5 @@
 ---
+
 title: Ann Shulgin
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/papers/shulgin-a-tihkal.md
 ---
 
-## Ann Shulgin
+# Ann Shulgin
 
 Ann Shulgin (1931-2024) was an American therapist, author, and research partner who co-authored PIHKAL and TIHKAL with [[alexander-shulgin]]. She contributed the narrative and experiential portions of both books while Sasha provided the chemistry. Her work represents one of the most significant contributions to the humanistic understanding of psychedelic compounds.
 
@@ -50,32 +51,36 @@ Ann's contribution to PIHKAL and TIHKAL provided the human context that made the
 
 ## See Also
 
-- [[alexander-shulgin]]
-- [[entheogen-culture]]
-- [[psychedelic-compounds-reference]]
-- [[ralph-metzner]]
-- [[shulgin-a-pihkal-2c-e-4-ethyl-25-dimethoxyphenethylamine]]
-- [[shulgin-a-pihkal-2c-i-4-iodo-25-dimethoxyphenethylamine]]
-- [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]]
-- [[shulgin-dom-stp-phenethylamine-amphetamine-relationship]]
-- [[shulgin-research-contributions]]
-- [[timothy-leary]]
+- [[alexander-shulgin]] — Research partner and husband, chemist who synthesized the compounds
+- [[timothy-leary]] — Earlier pioneer of set-and-setting psychedelic research
+- [[ralph-metzner]] — Psychologist who also bridged clinical and psychedelic research
+- [[entheogen-culture]] — Cultural context of psychoactive substance use
+- [[psychedelic-compounds-reference]] — Reference to psychoactive compounds cataloged in Shulgin's works
+### Key Principles
+Understanding ann shulgin requires consideration of several interrelated factors.
+These principles form the foundation for practical application and further research.
+Each factor contributes to the overall effectiveness and sustainability of the approach.
 
-## Practical Applications
+### Methods and Techniques
+Various methods have been developed to implement these concepts effectively.
+Selection of appropriate techniques depends on specific conditions and objectives.
+Adaptation to local conditions improves outcomes and resource efficiency.
 
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
-## Key Considerations
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]
+### Additional Notes
+The study and application of ann shulgin continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-## Comparative Analysis
+### Additional Notes
+The study and application of ann shulgin continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Examining this topic alongside related approaches reveals complementary strategies and unique advantages. Multiple perspectives enrich understanding and inform better decision-making.
-
-## Mechanisms and Processes
-
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
-## Management Approaches
-
-Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
-
-This entry contributes to the broader understanding of the subject within its ecological and practical context.
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

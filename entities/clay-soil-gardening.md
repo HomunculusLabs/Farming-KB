@@ -66,7 +66,7 @@ type: entity
 ## See Also
 
 - [[gypsum-soil-amendment]] — alternative to lime for clay in dry climates
-- [[ready-to-till-test]] — essential test for clay soil workability
+- [[solomon-ready-to-till-soil-moisture-test]] — essential test for clay soil workability
 - [[combination-shovel]] — tool for working clay
 
 ## Summary and Key Takeaways

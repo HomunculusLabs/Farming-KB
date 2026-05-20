@@ -7,7 +7,7 @@ tags: [construction, sustainability, homesteading, construction, off-grid]
 sources: []
 ---
 
-## Straw Bale Construction
+# Straw Bale Construction
 
 Straw bale construction uses baled agricultural straw (wheat, rice, oats, barley, rye) as building blocks for walls. The bales provide excellent insulation (approximately R-2.4 to R-3.0 per inch, or R-30 to R-40 for a typical 18-inch bale wall) and are covered with plaster for weather protection and structural integrity.
 
@@ -123,9 +123,3 @@ Straw bale building codes exist in several jurisdictions and can guide design:
 - [[earth-plaster-and-natural-finishes]] for appropriate breathable plaster systems
 - [[timber-frame-basics]] for structural frame options in post-and-beam construction
 - [[rocket-mass-heater-design]]
-
-## See Also
-
-- [[straw-based-oyster-mushroom-cultivation]]
-- [[straw-substrate-preparation]]
-- [[straw-substrate-yeast-extract-marmite-spore-germination-enrichment]]

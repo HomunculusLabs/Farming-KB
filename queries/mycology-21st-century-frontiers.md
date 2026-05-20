@@ -10,7 +10,7 @@ sources:
 - raw/papers/mycelium-running-stamets.md
 ---
 
-## 21st Century Mycology Frontiers
+# 21st Century Mycology Frontiers
 
 Modern mycology from genomics to conservation, covering the scientific advances, ecological insights, and applied mycology that define the current era. See [[history-of-mycology-timeline]] for the complete arc from prehistoric observations through the 20th century revolution.
 
@@ -27,7 +27,7 @@ Modern mycology from genomics to conservation, covering the scientific advances,
   Published Mycelium Running, articulating the mycorestoration framework
   (mycoremediation, mycofiltration, mycoforestry, mycopesticides).
   Links mushroom cultivation to ecological restoration.
-  See [[mycorestoration]].
+  See [[mycorestoration-overview]].
 
 ## Mycorrhizal Networks and Soil Biology
 

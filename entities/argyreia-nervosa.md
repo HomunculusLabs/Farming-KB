@@ -43,7 +43,7 @@ The dominant alkaloid is lysergic acid amide (LSA, ergine), typically present at
 
 Other ergoline alkaloids identified in the seeds include isoergine (the C-8 stereoisomer of ergine), [[fungal-endophyte-colonization-patterns]] of the genus Periglandula (family Clavicipitaceae) rather than by the plant itself. These fungi grow within the leaf and seed tissues and synthesize the alkaloids that accumulate in the seeds.
 
-The seeds also contain a cyanogenic glycoside and various fixed oils. The seed coat coating can cause significant gastrointestinal discomfort when ingested, and many [[amanita-muscaria-preparation-methods]] involve removal of this outer coating.
+The seeds also contain a cyanogenic glycoside and various fixed oils. The seed coat coating can cause significant gastrointestinal discomfort when ingested, and many [[amanita-preparation-methods]] involve removal of this outer coating.
 
 The roots contain different constituents from the seeds, including triterpenoids, flavonoids, and glycosides. The root chemistry is the basis for the plant's traditional medicinal applications in Ayurveda, which are entirely separate from the psychoactive properties of the seeds.
 

@@ -7,7 +7,7 @@ pharmacology, stereochemistry]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 Stereochemistry is the branch of chemistry concerned with the three-
 dimensional arrangement of atoms in molecules and how this affects

@@ -10,7 +10,7 @@ sources:
 - raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md
 ---
 
-## Cannabis Prohibition History
+# Cannabis Prohibition History
 
 From ancient use to modern legalization: the political, legal, and cultural forces
 that criminalized and are now re-legalizing cannabis.
@@ -148,3 +148,8 @@ The Controlled Substances Act, War on Drugs, medical marijuana movement, and mod
 ## Related Pages
 
 - [[cannabis-modern-reform-era]] — CSA, War on Drugs, medical marijuana, and legalization (1970-present)
+- [[cannabis-health-therapeutics]] — medical applications by condition
+- [[cannabis-genetics-and-breeding]] — breeding methods shaped by prohibition-era underground work
+- [[robert-clarke]] — cannabis botany and ethnobotany authority
+- [[cannabis-spiritual-ritual-use]] — ceremonial use across traditions
+- [[cannabis-living-soil-guide]] — modern living soil cultivation methods

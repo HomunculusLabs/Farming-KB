@@ -7,7 +7,7 @@ tags: [homesteading, community, sustainability, economics, permaculture]
 sources: []
 ---
 
-## Homestead Community Building
+# Homestead Community Building
 
 Homesteading can be isolating, but it does not have to be. Building a network of like-minded neighbors creates resilience, shared resources, skill exchange, and social support that no amount of individual preparation can match. A strong community multiplies the capacity of every member.
 
@@ -140,11 +140,14 @@ Community living inevitably produces disagreements. Address conflicts early and 
 ## Building Community from Scratch
 
 If you are new to an area:
+- Attend local farmers markets and agricultural events
+- Join your county extension service mailing list
+- Introduce yourself to neighbors with a small gift (eggs, produce, baked goods)
+- Volunteer for community projects
+- Offer to help during busy seasons (harvest, haying, butchering)
+- Host a potluck — food brings people together
+- Be reliable — your reputation is built on follow-through
 
+A resilient homestead is not self-sufficient — it is community-sufficient. The strongest homesteaders are those embedded in networks of mutual aid, shared knowledge, and reciprocal exchange.
 ## See Also
-
-- [[homestead-energy-conservation]]
-- [[homestead-mushroom-business]]
-- [[homestead-winter-preparations]]
-- [[homestead-tool-maintenance]]
-- [[homestead-internet-options]]
+- [[urban-permaculture-community-building-social-design]]

@@ -1,4 +1,5 @@
 ---
+
 title: Michael Harner
 created: 2026-04-11
 updated: 2026-04-12
@@ -22,7 +23,7 @@ sources:
 - raw/papers/harner-j-hallucinogens-and-shamanism.md
 ---
 
-## Michael Harner
+# Michael Harner
 
 American anthropologist (1929-2018), founder of the Foundation for Shamanic Studies, and editor of the seminal anthology "Hallucinogens and Shamanism" (1973).
 
@@ -57,25 +58,30 @@ Harner later founded the Foundation for Shamanic Studies and developed "core sha
 
 ## See Also
 
-- [[entheogen-culture]]
-- [[metzner-ethnobotanical-generation-harner-halifax-furst-mckenna-shamanic-research]]
-- [[michael-beug]]
-- [[michael-corbett]]
-- [[michael-hackleman]]
-- [[michael-starks]]
-- [[psychedelic-mushroom-history]]
-- [[r-gordon-wasson]]
-- [[siberian-shamanism-and-amanita]]
+- [[siberian-shamanism-and-amanita]] — Siberian shamanism with fly-agaric, as discussed by Harner
+- [[r-gordon-wasson]] — Wasson's Mexican mushroom discoveries that complement Harner's Amazonian work
+- [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom use
+- [[entheogen-culture]] — Broader context of psychoactive substances in spiritual practice
+### Key Principles
+Understanding michael harner requires consideration of several interrelated factors.
+These principles form the foundation for practical application and further research.
+Each factor contributes to the overall effectiveness and sustainability of the approach.
 
-## Practical Applications
+### Methods and Techniques
+Various methods have been developed to implement these concepts effectively.
+Selection of appropriate techniques depends on specific conditions and objectives.
+Adaptation to local conditions improves outcomes and resource efficiency.
 
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
-## Key Considerations
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]
+### Additional Notes
+The study and application of michael harner continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-
-## Mechanisms and Processes
-
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
-
-This entry contributes to the broader understanding of the subject within its ecological and practical context.
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

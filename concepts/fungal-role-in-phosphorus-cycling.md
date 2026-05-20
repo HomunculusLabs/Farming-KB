@@ -7,7 +7,7 @@ tags: [mycology, soil-biology, nutrients, ecology]
 sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
 
-## Fungal Role in Phosphorus Cycling
+# Fungal Role in Phosphorus Cycling
 
 Phosphorus is often the most limiting nutrient in terrestrial ecosystems. Fungi play a central role in making phosphorus available to plants through mineral weathering, organic matter decomposition, and mycorrhizal symbiosis. Without fungi, most soil phosphorus would remain locked in unavailable forms.
 
@@ -17,7 +17,7 @@ Phosphorus is often the most limiting nutrient in terrestrial ecosystems. Fungi 
 - **Organic P**: 30-80% of total soil P. Found in DNA, RNA, phospholipids, phytate
 - **Inorganic P**: 20-70% of total soil P. Found as phosphate minerals (apatite, iron/aluminum phosphates)
 - **Available P**: Only 0.1-1% of total P is in plant-available form (orthophosphate, H2PO4- and HPO4 2-)
-- **P fixation**: In acidic soils, P binds to iron and aluminum oxides. In alkaline soils, P precipitates as [[bionutrients-lab-calcium-phosphate-calamansi]]
+- **P fixation**: In acidic soils, P binds to iron and aluminum oxides. In alkaline soils, P precipitates as calcium phosphate
 
 ### The Problem
 - Plants can only absorb free orthophosphate ions from soil solution
@@ -90,37 +90,3 @@ Phosphorus is often the most limiting nutrient in terrestrial ecosystems. Fungi 
 - [[fungal-mineral-weathering]] — for mineral dissolution
 - [[soil-food-web-nutrient-cycling]] — for the complete nutrient cycle
 - [[fungal-pathogens-in-agriculture]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

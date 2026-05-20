@@ -4,11 +4,9 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycoremediation, mycology, ecology, pollution, remediation, fungi, environment, methods]
-sources:
-  - "raw/papers/mycelium-running-stamets.md"
+sources: []
 ---
-
-## Mycoremediation Techniques
+# Mycoremediation Techniques
 
 ## Overview
 
@@ -86,7 +84,7 @@ Mycoaccumulation uses fungi to absorb and concentrate heavy metals and other ino
 - Suillus luteus: Tolerant of and accumulates zinc and cadmium
 - Pleurotus ostreatus: Accumulates lead and cadmium
 - Trametes versicolor: Biosorbs heavy metals effectively
-- [[arbuscular-mycorrhizal-fungi]]: Reduce metal uptake in crop plants while accumulating metals in their own networks
+- Arbuscular mycorrhizal fungi: Reduce metal uptake in crop plants while accumulating metals in their own networks
 
 ### Limitations
 
@@ -106,7 +104,7 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 
 #### Petroleum Hydrocarbons
 
-- PAHs ([[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]): A major class of petroleum-derived contaminants
+- PAHs (polycyclic aromatic hydrocarbons): A major class of petroleum-derived contaminants
 - BTEX (benzene, toluene, ethylbenzene, xylene): Common groundwater contaminants
 - Oil and fuel spills: Crude oil, diesel, gasoline, jet fuel
 - Oyster mushroom (Pleurotus) species are particularly effective
@@ -125,7 +123,7 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 
 #### Dyes and Textile Chemicals
 
-- Synthetic dyes from [[staycare-fungal-treatment-of-textile-industry-wastewater]]
+- Synthetic dyes from textile industry wastewater
 - Laccase enzymes from white-rot fungi effectively decolorize dye wastewater
 - Trametes versicolor and Phanerochaete are the most studied species
 
@@ -140,11 +138,16 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 - Emerging research area: Some fungi can degrade polyurethane, polyester, and other plastics
 - Pestalotiopsis microspora: Isolated from Amazonian rainforest, can degrade polyurethane
 - Aspergillus and other species show varying plastic degradation capabilities
+- Research is early-stage; not yet practical at scale
 
+## Spent Mushroom Substrate (SMS) Applications
+
+### What It Is
+
+Spent mushroom substrate is the residual material (compost, straw, sawdust) remaining after commercial mushroom cultivation. While not mycoremediation per se, SMS has remediation applications:
+
+### Applications
 ## See Also
-
-- [[singh-ecology-of-mycoremediation]]
-- [[factors-affecting-mycoremediation-efficiency]]
-- [[mycoremediation-heavy-metals]]
-- [[mycoremediation-site-assessment]]
-- [[mycoremediation-applications]]
+- [[advanced-mycoremediation-research-techniques]]
+- [[mycoremediation-emerging-techniques]]
+- [[mycoremediation-fungal-bioremediation-techniques-and-applications]]

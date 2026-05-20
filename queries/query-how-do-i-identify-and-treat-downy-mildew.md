@@ -72,7 +72,7 @@ Several organic treatments can suppress downy mildew if applied early, before wi
 [[compost-tea-specific-disease-management|Compost tea]] applications introduce beneficial microbes that can outcompete pathogens on leaf surfaces.
 Copper-based fungicides are traditionally effective against oomycetes but must be used carefully to avoid soil accumulation.
 Potassium bicarbonate sprays alter leaf surface pH to inhibit spore germination and are less toxic than copper.
-A comprehensive [[integrated-pest-management-ipm|IPM]] approach combines cultural, biological, and chemical tools for best results.
+A comprehensive [[integrated-pest-management|IPM]] approach combines cultural, biological, and chemical tools for best results.
 
 ## What About Environmental Controls in Greenhouses?
 

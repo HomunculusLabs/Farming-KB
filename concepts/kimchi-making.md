@@ -140,11 +140,21 @@ Refrigeration at any point slows fermentation dramatically. Kimchi keeps in the 
 - Rich source of lactic acid bacteria (Lactobacillus, Leuconostoc, Weissella species)
 - High in vitamins A, B, C, and K
 - Contains dietary fiber from the vegetables
+- Capsaicin from gochugaru has anti-inflammatory properties
+- Fermentation increases bioavailability of nutrients
+- Supports gut microbiome health
+
+## Troubleshooting
+
+- Too salty — rinse cabbage more thoroughly during brining, or reduce brining time
+- Too watery — cabbage was not drained long enough, or not packed tightly enough
+- White film on surface (kahm yeast) — harmless; skim it off, ensure vegetables are submerged
+- Mold (fuzzy, colored growth) — if localized, remove affected portion and surrounding area; if widespread, discard
+- Too sour — expected with long fermentation; use for cooking instead of eating fresh
+- Not fermenting — room temperature too cold, salt concentration too high, or chlorinated water
 
 ## See Also
 
-- [[query-how-do-i-make-kimchi-with-lacto-fermentation]]
-- [[comparison-kimchi-vs-kefir]]
-- [[compost-making-methods-solomon]]
-- [[granola-making]]
-- [[natto-making]]
+- [[pickle-making]] — lactic acid fermentation of vegetables in brine
+- [[miso-making]] — another Asian fermented food tradition
+- [[hot-sauce-making]] — another spicy condiment with fermentation options

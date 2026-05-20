@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-## Marine and Estuarine Fungi
+# Marine and Estuarine Fungi
 
 Marine habitats support a diverse assemblage of fungi adapted to saline conditions, including obligate marine species, facultative marine species (also found in freshwater or terrestrial habitats), and terrestrial fungi that survive transit through seawater. Marine mycology encompasses fungi from coastal mangroves to deep ocean sediments.
 
@@ -140,10 +140,35 @@ Mangroves are the most productive habitat for marine fungal diversity. Fungi col
 - Denitrification by some marine fungi
 - Degradation of marine pollutants
 
-## See Also
+## Collection and Study Methods
 
-- [[marine-mycelial-fungi]]
-- [[marine-fungal-diversity-ecology]]
-- [[seaweed-farming-and-marine-aquaculture]]
-- [[seaweed-and-marine-macroalgae-in-agriculture]]
-- [[marine-oomycete-zoospore-biology-encystment]]
+- Collect wood, leaves, and other substrata from intertidal and subtidal zones
+- Incubate in moist chambers with seawater (not freshwater)
+- Seawater agar or cornmeal seawater agar for isolation
+- Halophytophthora baited from sediments using hemp seeds or grass blades
+- Molecular methods (DNA from seawater and sediment) revealing hidden diversity
+- KMV Agar with streptomycin for marine/clinical isolates
+
+## Biotechnological Potential
+
+- Marine fungi produce unique bioactive compounds not found in terrestrial fungi
+- Applications in pharmaceuticals, agriculture, and industry
+- Enzymes adapted to high salinity and pressure have industrial applications
+- Antimicrobial, antitumor, and anti-inflammatory compounds under investigation
+
+## Conservation
+
+Marine fungal habitats are threatened by:
+- Coastal development and mangrove destruction
+- Pollution (oil spills, agricultural runoff, plastics)
+- Climate change (sea level rise, ocean acidification, warming)
+- Coral reef degradation
+- Eutrophication altering marine fungal communities
+
+## Related Topics
+
+- [[freshwater-fungi-biodiversity]] — Freshwater fungal diversity
+- [[fungal-biodiversity-biogeography]] — Global diversity patterns
+- [[fungal-ecology-extreme-environments]] — Fungi in extreme habitats
+- [[fungal-enzymatic-capabilities]] — Fungal enzyme systems
+- [[saprotrophic-fungi]] — Decomposer strategies

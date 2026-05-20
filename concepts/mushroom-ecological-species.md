@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Ecological Species
 created: 2026-04-12
 updated: 2026-04-12
@@ -19,7 +20,7 @@ sources:
 - raw/papers/unknown-mycelium-running.md
 ---
 
-## Mushroom Ecological Species
+# Mushroom Ecological Species
 
 Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/ecological species, mycoremediation species, and substrate preparation reference. Based on [[paul-stamets]]' *Mycelium Running*. See [[mushroom-species-cultivation-parameters]] for primary species (Oyster, Wine Cap, Shiitake, Maitake, Lion's Mane).
 
@@ -139,8 +140,30 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 
 ## Substrate Preparation Quick Reference
 
+| Substrate | Pasteurization | Sterilization | Species |
+|-----------|---------------|---------------|---------|
+| Straw | Hot water (160°F, 1-2 hrs) or cold incubation | Not needed | Oyster, wine cap |
+| Hardwood sawdust + bran | Not recommended | 15 psi, 90-120 min | Shiitake, maitake, lion's mane, reishi |
+| Composted manure | Phase II composting (140°F, 6-8 hrs) | Not needed | Agaricus species, almond mushroom |
+| Wood chips | Not required (outdoor) | Not required | Wine cap, garden giants, reishi |
+| Logs | Not required | Not required | Shiitake, oyster, reishi, maitake |
+| Coffee grounds | Pasteurize if concerned | Not needed | Oyster species |
+
 ## See Also
 
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[straw-based-mushroom-substrate-preparation]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[mushroom-species-guide]] for concise species profiles
+- [[specialty-mushroom-species]] for additional species
+- [[mushroom-cultivation-basics]] for the 10-step process
+- [[mushroom-substrates]] for substrate science
+- [[mushroom-substrate-comparison]] for substrate comparison tables
+- [[mushroom-compost-substrates]] for compost formulas
+- [[mushroom-log-cultivation]] for log methods
+- [[straw-cultivation-methods]] for straw preparation
+- [[mycoremediation-basics]] for remediation applications
+- [[medicinal-mushroom-guide]] for medicinal properties
+
+## Related Pages
+
+- [[mushroom-species-cultivation-parameters]] -- Primary species
+- [[mycoremediation-basics]] -- Remediation applications
+- [[medicinal-mushroom-guide]] -- Medicinal properties

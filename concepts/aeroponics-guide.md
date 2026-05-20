@@ -7,7 +7,7 @@ tags: [cannabis, indoor, equipment, engineering, cultivation, methods, plant-gro
 sources: []
 ---
 
-## Aeroponics Guide
+# Aeroponics Guide
 
 Aeroponics is the most advanced form of soilless growing. Instead of submerging roots in water or growing medium, aeroponic systems suspend plant roots in an enclosed chamber where they are misted or sprayed with a nutrient solution. The roots grow in air, absorbing nutrients and oxygen directly from the mist. This approach can produce the fastest growth rates and highest yields of any cultivation method.
 
@@ -140,11 +140,50 @@ Prevention:
 - Use RO water and clean, synthetic nutrients
 - Sanitize the system between grows with hydrogen peroxide or a commercial cleaner
 - Add beneficial bacteria (Bacillus subtilis strains) to prevent pathogen colonization
+- Replace misting nozzles regularly or clean them with vinegar or CLR
+- Keep the root chamber completely light-proof
+
+## Nutrient Solution for Aeroponics
+
+Aeroponics requires clean, well-filtered nutrient solutions:
+- Always use RO or distilled water
+- Filter nutrients through a 50-micron filter before adding to the reservoir
+- Use synthetic mineral nutrients — organic nutrients clog nozzles
+- Keep EC lower than in other hydro systems (roots absorb more efficiently)
+- Change reservoir weekly
+- Target pH 5.8-6.0 (narrower range than other hydro methods)
+
+Typical EC targets for cannabis:
+- Clones: 0.2-0.4
+- Early veg: 0.6-1.0
+- Late veg: 1.0-1.5
+- Early flower: 1.2-1.8
+- Mid flower: 1.5-2.0
+- Late flower: 1.2-1.6 (reducing nitrogen)
+
+## Power Failure Preparedness
+
+Aeroponics is the most vulnerable system to power outages:
+- Roots in open air dry out in 30-60 minutes without misting
+- Always have a backup power solution (battery backup UPS, generator)
+- Consider an automatic battery backup that switches on during outages
+- Keep a manual mister bottle as emergency backup
+- For critical grows, consider a dual-pump setup with automatic failover
+
+## Aeroponics vs Hydroponics Comparison
+
+| Feature | Aeroponics | DWC | NFT | Ebb/Flow |
+|---------|-----------|-----|-----|----------|
+| Growth rate | Fastest | Fast | Moderate | Moderate |
+| Oxygen at roots | Maximum | Good | Good | Good |
+| Water efficiency | Highest | High | High | Moderate |
+| Complexity | Highest | Low | Moderate | Moderate |
+| Cost | Highest | Low | Moderate | Moderate |
+| Failure risk | Critical | Moderate | High | Moderate |
+| Root monitoring | Excellent | Poor | Good | Poor |
 
 ## See Also
+- [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]
 
-- [[comparison-aquaponics-vs-aeroponics]]
-- [[comparison-aeroponics-vs-aquaponics]]
-- [[query-what-is-the-difference-between-aeroponics-and-hydroponics-for-cannabis]]
-- [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]
-- [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]
+- [[hydroponic-growing-basics]] for simpler hydroponic alternatives
+- [[cannabis-lighting-guide]] for pairing aeroponics with optimal lighting

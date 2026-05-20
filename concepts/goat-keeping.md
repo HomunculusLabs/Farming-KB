@@ -1,4 +1,5 @@
 ---
+
 title: Goat Keeping for the Small Homestead
 created: 2026-04-11
 updated: 2026-04-12
@@ -28,7 +29,7 @@ sources:
 - https://fiascofarm.com/goats/
 ---
 
-## Goat Keeping for the Small Homestead
+# Goat Keeping for the Small Homestead
 
 Goats are versatile, intelligent animals suited to small-acreage homesteads. They provide milk, meat, fiber, and [[vermicomposting]] while clearing brush and browse. Goats are browsers (not grazers) — they prefer weeds, brush, leaves, and tree branches over [[pasture-management]] grass.
 

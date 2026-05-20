@@ -1,5 +1,5 @@
 ---
-title: 5 Meo Dmt Compound Profile
+title: 5-MeO-DMT — Compound Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/shulgin-a-tihkal.md]
 
 ## 5-Methoxy-N,N-dimethyltryptamine
 
-5-MeO-DMT is a naturally occurring tryptamine found in the venom of the Colorado River Toad ([[5-meo-dmt-and-bufo-alvarius]]), numerous Virola tree species of the Amazon, and several plant families. It is substantially more potent than [[dmt-compound-profile]] by weight when smoked, and like DMT, it is inactive orally without a monoamine oxidase inhibitor.
+5-MeO-DMT is a naturally occurring tryptamine found in the venom of the Colorado River Toad (Bufo alvarius), numerous Virola tree species of the Amazon, and several plant families. It is substantially more potent than [[dmt-compound-profile]] by weight when smoked, and like DMT, it is inactive orally without a monoamine oxidase inhibitor.
 
 ### Chemical Identity
 
@@ -40,7 +40,7 @@ Compared to DMT:
 - More potent (approximately 4-6x by weight)
 - Slightly faster onset
 - Less visual complexity, less "sensory contribution"
-- Described by some as more like "receiving grace" or "[[turner-essential-psychedelics-lsd-cosmic-consciousness]]"
+- Described by some as more like "receiving grace" or "cosmic consciousness"
 - Others report "ruthless love" and overwhelming terror
 
 ### Natural Sources
@@ -55,7 +55,7 @@ Compared to DMT:
 - V. rufuta: root and bark ~95% 5-MeO-DMT
 - V. calophylla: bark, root, leaves, and shoots all ~90% DMT (not 5-MeO)
 - Used in snuffs: yakee, yato, parica, epena, nyakwana
-- [[cannabis-sativa-taxonomy-botanical-classification]] disputes: two specimens of V. theiodora collected from different sites showed radically different alkaloid compositions
+- Botanical classification disputes: two specimens of V. theiodora collected from different sites showed radically different alkaloid compositions
 
 **Other sources:**
 - First observed in Dictyoloma incanescens (Rutaceae / Rue family)
@@ -78,11 +78,11 @@ Both are naturally occurring, not orally active, and almost always smoked. Key d
 
 ### Safety Concerns
 
-A documented near-fatal reaction occurred at an unknown but very large smoked dose: the subject became cyanotic and stopped breathing twice, requiring CPR. Three days later, antipsychotic medication was required to restore normal behavior. This underscores the extremely narrow [[cannabis-therapeutic-index-overview]] at high doses and the importance of precise dosing.
+A documented near-fatal reaction occurred at an unknown but very large smoked dose: the subject became cyanotic and stopped breathing twice, requiring CPR. Three days later, antipsychotic medication was required to restore normal behavior. This underscores the extremely narrow therapeutic index at high doses and the importance of precise dosing.
 
 ### Oral Activity with MAOI
 
-Like DMT, 5-MeO-DMT becomes orally active when combined with harmaline or other beta-carboline [[mao-inhibitors-and-psychedelics]], in the 10-25 mg range. This combination mimics aspects of the [[ayahuasca-pharmacology]] experience but with 5-MeO-DMT's distinctive character.
+Like DMT, 5-MeO-DMT becomes orally active when combined with harmaline or other beta-carboline MAO inhibitors, in the 10-25 mg range. This combination mimics aspects of the [[ayahuasca-pharmacology]] experience but with 5-MeO-DMT's distinctive character.
 
 ## See Also
 
@@ -90,32 +90,4 @@ Like DMT, 5-MeO-DMT becomes orally active when combined with harmaline or other 
 - [[tryptamine-family-overview]]
 - [[ayahuasca-pharmacology]]
 - [[5-meo-dmt-reference]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-
-Understanding 5 meo dmt compound profile provides essential context for both practical application and deeper theoretical study in this domain.
+- [[5-meo-dmt-reference]]

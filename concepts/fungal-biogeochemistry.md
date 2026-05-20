@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Fungal Biogeochemistry Fungi are major agents of biogeochemical cycling, mediating transformations of carbon, nitrogen, phosphorus, metals, and minerals in virtually all ecosystems. The field of geomycology encompasses all aspects of fungal interactions with geological and mineral substrates, from rock weathering to metal transformations. Fungi have been components of microbial communities of many terrestrial environments, including deserts, metal-rich and hypersaline habitats, since the Ordovician period (480-460 MYBP) (Heckman et al., 2001; Burford et al., 2003), as explored in [[ph-and-nutrient-availability-garden-soils]], and element cycling.
 

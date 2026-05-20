@@ -7,12 +7,12 @@ tags: [homesteading, animal-husbandry, food, plants, pollinators]
 sources: []
 ---
 
-## Honey Varieties Guide
+# Honey Varieties Guide
 
 Monofloral honey comes predominantly from a single nectar source. The flavor,
-color, [[ginseng-cultivation-and-medicinal-properties]] vary dramatically depending on the floral
+color, and medicinal properties vary dramatically depending on the floral
 source. Understanding honey varieties helps beekeepers market their product and
-consumers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] honey for culinary or therapeutic use.
+consumers choose the right honey for culinary or therapeutic use.
 
 ## Factors That Determine Honey Character
 
@@ -26,7 +26,7 @@ consumers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] honey 
 ### Clover Honey
 
 Light amber color with a mild, sweet, floral flavor. One of the most common
-varieties in [[guzman-psilocybin-mushrooms-north-america]]. White and sweet clover are the primary sources.
+varieties in North America. White and sweet clover are the primary sources.
 Low crystallization tendency in liquid form. Excellent general-purpose sweetener
 and a good entry honey for new beekeepers.
 
@@ -44,13 +44,13 @@ scoparium (manuka tree). Dark, earthy, slightly bitter flavor. Unique
 non-peroxide antibacterial activity measured on the Unique Manuka Factor
 (UMF) scale. UMF 10+ is considered therapeutic grade. Used topically for
 wound healing and internally for digestive support. See
-[[bee-product-medicinal-uses]] for details on [[psilocybin-therapeutic-applications]].
+[[bee-product-medicinal-uses]] for details on therapeutic applications.
 
 ### Buckwheat Honey
 
 Dark brown to nearly black with a robust, malty, molasses-like flavor.
 High in antioxidants and minerals compared to lighter honeys. Produced from
-buckwheat ([[fagopyrum-esculentum]]) flowers. Excellent for baking and
+buckwheat (Fagopyrum esculentum) flowers. Excellent for baking and
 marinades. Known traditionally as a cough remedy — studies support its
 effectiveness for nighttime cough suppression in children.
 
@@ -60,13 +60,13 @@ Golden-green hue with a distinctive buttery, floral flavor. Produced from
 the blossoms of the Ogeechee tupelo tree (Nyssa ogeche) in the southeastern
 United States, particularly along the Apalachicola River in Florida.
 Tupelo honey resists crystallization due to its high fructose-to-glucose
-ratio. Short three-week [[harvest-window-cannabis]] makes it one of the more expensive
+ratio. Short three-week harvest window makes it one of the more expensive
 varieties.
 
 ### Orange Blossom Honey
 
 Light amber to white with a delicate citrus aroma and flavor. Produced in
-Florida, Texas, and California from [[citrus-sinensis]] blossoms. Popular for
+Florida, Texas, and California from Citrus sinensis blossoms. Popular for
 tea, cheese pairings, and baking. The subtle citrus notes make it a favorite
 for mead making. Available in spring after the citrus bloom.
 
@@ -113,8 +113,3 @@ in a water bath at 95F (35C) reliquefies it without degrading enzymes.
 
 See also [[honey-extraction-and-processing]] for post-harvest handling and
 [[bee-forage-plants]] for planting strategies to produce specific honey types.
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.

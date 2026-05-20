@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-## Valerian Growing Guide (Valeriana officinalis)
+# Valerian Growing Guide (Valeriana officinalis)
 
 ## Overview
 
@@ -140,11 +140,32 @@ Harvesting method:
    crown to avoid cutting roots
 3. Lift the entire root mass
 4. Shake off excess soil; do not wash roots until ready to process (moisture
+   promotes mold during storage)
+
+## Processing and Storage
+
+- Wash roots thoroughly, removing all soil
+- Cut larger roots into 1/4 inch slices; smaller roots can be left whole
+- For tincturing: Process fresh roots immediately into alcohol
+- For drying: Spread pieces on screens in a warm, well-ventilated area
+  (95-105 degrees F in a dehydrator)
+- Roots are dry when they snap cleanly with no flexible center
+- Dried roots have an extremely strong, pungent odor -- store in airtight
+  containers in a location where the smell won't be problematic
+- Store in a cool, dark place; potency lasts 1-2 years
+
+## Yields
+
+Expect approximately 0.5-1 lb of fresh root per plant (2nd year), yielding
+roughly 0.15-0.3 lb dried per plant.
 
 ## See Also
 
-- [[comparison-chamomile-vs-valerian]]
-- [[comparison-valerian-vs-echinacea]]
-- [[comparison-valerian-vs-lemon-balm]]
-- [[comparison-valerian-vs-st-johns-wort]]
-- [[comparison-valerian-vs-passionflower]]
+- [[passionflower-growing-guide]] -- combine with valerian in sleep and
+  relaxation formulas
+- [[chamomile-growing-guide]] -- another gentle sedative herb for the
+  homestead medicine cabinet
+
+## Related
+
+- [[st-johns-wort-guide]]

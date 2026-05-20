@@ -7,9 +7,9 @@ tags: [gardening, pest-control, pest-management, insects, troubleshooting, veget
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-## Garden Insect Identification
+# Garden Insect Identification
 
-Common garden insect pests as described in [[steve-solomon]]'s *Gardening When It Counts*, along with identification characteristics and control methods. Solomon emphasizes that the first response to pest problems should be to ask whether the struggling plant is simply not growing fast enough to overcome the problem — often the best cure is fertilizer, not pesticide.
+Common garden insect pests as described in Steve Solomon's *Gardening When It Counts*, along with identification characteristics and control methods. Solomon emphasizes that the first response to pest problems should be to ask whether the struggling plant is simply not growing fast enough to overcome the problem — often the best cure is fertilizer, not pesticide.
 
 ## Aphids (Aphididae family)
 
@@ -26,7 +26,7 @@ At least two distinct species attack brassicas.
 
 - **Identification**: Large green larvae from a white butterfly (day flyer). Smaller green larvae from a night-flying brown moth (cabbage looper). White butterfly lays clusters of small yellowish bullet-shaped eggs on undersides of leaves. Looper lays round greenish-white eggs singly on upper leaf surfaces.
 - **Damage**: Both can do significant damage quickly, especially during early cabbage head formation. The smaller looper larvae are usually more destructive.
-- **Control**: Handpicking works in small gardens. [[bacillus-thuringiensis]] (Bt, marketed as Dipel) is extremely effective — lethal only to cabbageworms and close relatives. Spray with a spreader-sticker (quarter teaspoon dishwashing liquid per quart) and target undersides of leaves.
+- **Control**: Handpicking works in small gardens. Bacillus thuringiensis (Bt, marketed as Dipel) is extremely effective — lethal only to cabbageworms and close relatives. Spray with a spreader-sticker (quarter teaspoon dishwashing liquid per quart) and target undersides of leaves.
 
 ## Colorado Potato Beetle (Leptinotarsa decemlineata)
 
@@ -112,15 +112,3 @@ About 5/8 inch long, dark brown or mottled, with an unpleasant odor.
 - [[garden-disease-identification]] — Common plant diseases
 - [[leatherjacket-pest-control]] — Wireworm-specific control methods
 - [[vegetable-garden-guide]] — Crop-specific pest information
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

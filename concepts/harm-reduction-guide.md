@@ -7,7 +7,7 @@ tags: [safety, psychopharmacology, health, psychedelics, entheogen, principles, 
 sources: []
 ---
 
-## Harm Reduction Guide
+# Harm Reduction Guide
 
 ## Overview
 
@@ -27,7 +27,7 @@ Harm reduction is a set of practical strategies and principles aimed at reducing
 
 Reagent testing uses chemical solutions that change color in the presence of specific compound classes. It cannot identify every substance but can detect the presence or absence of expected compounds and flag dangerous adulterants.
 
-Common reagents for [[psychedelic-harm-reduction|psychedelic harm reduction]]:
+Common reagents for psychedelic harm reduction:
 
 - Ehrlich reagent: Turns purple with indoles (DMT, psilocybin, LSD)
 - Marquis reagent: Turns black/dark with MDMA; orange/brown with amphetamines
@@ -140,11 +140,26 @@ Call emergency services if:
 
 - Chest pain, difficulty breathing, or signs of hypertensive crisis
 - Seizures
+- Loss of consciousness lasting more than a few minutes
+- Severe hyperthermia (especially with MDMA)
+- Signs of serotonin syndrome (agitation, confusion, rapid heartbeat, high blood pressure, muscle rigidity, sweating)
+
+Be honest with medical professionals about what substances were taken. Most jurisdictions have Good Samaritan laws that protect people seeking medical help from drug-related charges.
+
+## Resources
+
+- DanceSafe (dancesafe.org) — drug checking, harm reduction supplies, education
+- Erowid (erowid.org) — comprehensive substance information and experience reports
+- PsychonautWiki (psychonautwiki.org) — detailed pharmacological information
+- MAPS (maps.org) — psychedelic research and therapy training
+- Fireside Project (firesideproject.org) — psychedelic peer support hotline
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-harm-reduction]]
-- [[psychedelic-harm-reduction-philosophy]]
-- [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]]
-- [[adverse-effects-and-harm-reduction-psilocybin]]
-- [[powell-psilocybin-harm-reduction]]
+- [[psychedelic-integration-guide]] — post-experience care and integration
+- [[5-meo-dmt-reference]] — substance-specific harm reduction considerations
+- [[salvinorin-reference]] — safety considerations for salvinorin A
+
+## Related
+
+- [[microdosing-guide]]

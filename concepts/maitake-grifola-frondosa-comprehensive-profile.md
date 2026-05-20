@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources: [papers/mycelium-running-stamets.md]
 ---
 
 **Source:** woodlovers-mycelium-running-pathway-technique ([[paul-stamets]]) | **Updated:** 2026-04-18

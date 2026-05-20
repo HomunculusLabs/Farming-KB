@@ -4,11 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [animal-husbandry, homesteading, livestock, forage, nutrients, recipe]
-sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+sources: []
 ---
 
-## Livestock Feed Formulation
+# Livestock Feed Formulation
 
 Understanding livestock nutrition and feed formulation allows homesteaders to
 optimize animal health, reduce purchased feed costs, and make the most of
@@ -141,10 +140,52 @@ feeds, and practical formulation for homestead-scale operations.
 - Convenient, weather-resistant, good for extensive grazing systems.
 - More expensive per unit of protein than loose supplements.
 
-## See Also
+### Feed Additives
+- **Probiotics:** Support rumen and gut health.
+- **Prebiotics:** Feed beneficial gut microbes.
+- **Yeast culture:** Improves fiber digestion in ruminants.
+- **Apple cider vinegar:** 1-2 tbsp/gallon in water. Supports digestion
+  and immune health (anecdotal evidence).
+- **Diatomaceous earth:** For parasite control (limited evidence, widely
+  used).
+- **Kelp (seaweed):** Trace mineral supplement. 1-2 oz/head/day for cattle,
+  0.5 oz for sheep/goats.
 
-- [[homesteading-livestock-comparison]]
-- [[fukuoka-textdoc-natural-livestock-forest-pasture-method]]
-- [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
+## Winter Feeding
+
+### Challenges
+- Reduced forage quality (hay loses nutrients over time).
+- Increased energy requirements for thermoregulation.
+- Frozen water sources.
+- Limited pasture access.
+
+### Strategies
+- Stockpile pasture for late fall/early winter grazing. See
+  [[pasture-management]].
+- Body condition animals before winter. Thin animals need extra energy.
+- Feed higher-quality hay in the coldest months.
+- Increase grain during extreme cold: cattle need 1% more energy per 10°F
+  below lower critical temperature (20-30°F with winter coat).
+- Provide windbreaks and shelter. Use baleage for higher quality winter feed.
+- Feed in late afternoon — fermentation heat peaks 6-8 hours later,
+  warming animals during the coldest part of night.
+
+### Ration Example (Winter, 1000 lb Beef Cow)
+- 25 lbs good grass hay (10% CP, 55% TDN) + 5 lbs alfalfa-grass mixed hay
+  (15% CP, 58% TDN) + free-choice loose mineral and salt.
+- Provides ~12 lbs TDN and 1.7 lbs CP — adequate for mid-gestation.
+  Adjust for stage of production.
+
+## Ration Balancing Basics
+
+1. Determine animal requirements (species, weight, production stage).
+2. Test hay/forage to know actual nutritional content.
+3. Calculate forage contribution to maintenance needs.
+4. Fill the gap with grain, protein supplement, or minerals.
+5. Monitor body condition and adjust.
+
+### Body Condition Scoring (BCS)
+- Scale 1-9 for cattle (5 = ideal), 1-5 for sheep/goats (3 = ideal).
+- Score monthly for cattle; before breeding and lambing for sheep/goats.
+## See Also
 - [[small-farm-livestock-management]]
-- [[knf-livestock-odorless-piggery]]

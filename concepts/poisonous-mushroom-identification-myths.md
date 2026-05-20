@@ -111,3 +111,10 @@ There is no simple test, visual cue, or folk rule that can safely distinguish po
 Folk identification methods like the silver spoon test and white onion test are not merely inaccurate — they are actively dangerous, as they can create false confidence in lethal species. As Cordier concluded over 140 years ago, and as modern mycology confirms, each mushroom must be learned and identified on its own individual characteristics, or it must be left alone.
 
 The stakes could not be higher: there is no antidote, no second chance, and no room for guesswork.
+
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[mushroom-fruiting-conditions]]
+- [[mushroom-substrate-preparation]]
+- [[abort-management-pinhead-removal-mushroom-casing-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]

@@ -7,9 +7,9 @@ tags: [compost, biology, methods, homesteading, troubleshooting]
 sources: []
 ---
 
-## Vermicomposting
+# Vermicomposting
 
-Vermicomposting is the process of using [[earthworms]] to decompose organic waste into vermicast (worm castings) — one of the finest soil amendments available. Worm castings are rich in plant-available nutrients, beneficial microorganisms, humic acids, and plant growth hormones. Vermicomposting can be done indoors or outdoors, in small apartments or on large homesteads, making it one of the most accessible [[composting]] methods.
+Vermicomposting is the process of using earthworms to decompose organic waste into vermicast (worm castings) — one of the finest soil amendments available. Worm castings are rich in plant-available nutrients, beneficial microorganisms, humic acids, and plant growth hormones. Vermicomposting can be done indoors or outdoors, in small apartments or on large homesteads, making it one of the most accessible composting methods.
 
 ## Benefits of Vermicomposting
 
@@ -43,7 +43,7 @@ Larger worm that is both a composter and a bait worm.
 ### Perionyx excavatus (Indian Blue Worm)
 Tropical species that processes waste quickly but is sensitive to temperature fluctuations. Not recommended for beginners or cooler climates.
 
-**Recommendation**: Start with [[eisenia-fetida]] (red wigglers). They are the most forgiving, widely available, and efficient composters.
+**Recommendation**: Start with Eisenia fetida (red wigglers). They are the most forgiving, widely available, and efficient composters.
 
 ## Bin Setup
 
@@ -148,3 +148,24 @@ Worm casting tea is made by steeping finished vermicast in aerated water:
 See [[compost-tea-brewing]] for detailed brewing guidance.
 
 ## Troubleshooting
+
+| Problem | Cause | Solution |
+|---------|-------|----------|
+| Foul odor | Overfeeding, anaerobic conditions | Stop feeding, add dry bedding, improve aeration, remove rotting material |
+| Fruit flies | Exposed food, fruit scraps on surface | Bury food deeper, add a layer of dry newspaper on top, use a fruit fly trap |
+| Worms escaping | Bin too acidic, too wet, too hot, or new worms adjusting | Check pH (add eggshells if acidic), improve drainage, reduce feeding, keep a light on above the bin for the first few days |
+| Worms dying | Temperature extremes, toxins (pesticides, salt, citrus overload) | Ensure proper temperature range, review what was fed, remove contaminated material |
+| Moldy food | Normal in small amounts | Bury food deeper; mold is part of the decomposition process and not harmful |
+| Slow processing | Population too small, food too large, bedding too wet | Add more worms, chop food smaller, add dry bedding |
+| Mites (tiny red/brown dots) | Overly wet, overfed bin | Reduce moisture and feeding, add dry bedding, leave bin open briefly |
+
+## See Also
+
+- [[composting-systems]] — Traditional thermophilic composting methods
+- [[compost-tea-brewing]] — Brewing aerated compost tea from your castings
+- [[soil-food-web-nutrient-cycling]] — The microbial ecology behind vermicomposting
+- [[homesteading]] — Worm composting as part of a homestead waste management system
+
+## Related
+
+- [[composting-systems-design-comparison]]

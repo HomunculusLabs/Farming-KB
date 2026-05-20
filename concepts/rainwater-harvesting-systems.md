@@ -7,7 +7,7 @@ tags: [homesteading, off-grid, water, water-management, engineering, sustainabil
 sources: []
 ---
 
-## Rainwater Harvesting Systems
+# Rainwater Harvesting Systems
 
 Rainwater harvesting captures and stores precipitation for domestic,
 agricultural, and landscape use. On a homestead, it reduces dependence on
@@ -140,11 +140,19 @@ Test water annually for: coliform bacteria, E. coli, pH, turbidity, lead,
 and nitrate. Use a state-certified laboratory.
 
 ## Maintenance Schedule
+- **Monthly** — check gutters, screens, and first flush diverter
+- **Quarterly** — inspect tank for sediment, algae, and mosquito larvae
+- **Annually** — clean tank interior, replace sediment filters, test water
+  quality, inspect all fittings and seals
+- **After major storms** — clean gutters and screens of debris
 
-## See Also
+## Off-Grid Integration
 
-- [[comparison-greywater-vs-rainwater-harvesting]]
-- [[mollison-designers-rainwater-harvesting-swale-systems]]
-- [[solomon-rainwater-harvesting-for-gardens]]
-- [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]
-- [[rainwater-tanks-and-water-quality]]
+Rainwater harvesting is a cornerstone of off-grid water supply. For well
+water as a complementary source, see [[well-drilling-and-maintenance]].
+For greywater recycling to extend water supplies, see [[composting-toilet-systems]]
+for waterless sanitation options.
+
+## Related
+
+- [[permaculture-water-harvesting]] — Permaculture Water Harvesting covers the broader permaculture design approach to capturing and storing water on-site.

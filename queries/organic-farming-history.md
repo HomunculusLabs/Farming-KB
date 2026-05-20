@@ -11,8 +11,7 @@ sources:
 - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 - raw/papers/chos-global-natural-farming.md
 ---
-
-## Organic Farming History
+# Organic Farming History
 
 From traditional agriculture through the chemical revolution
 to the organic, natural farming, and regenerative movements.
@@ -148,3 +147,4 @@ and [[conventional-vs-organic-vs-regenerative]] for paradigm comparisons.
   Youngsang Cho develops JADAM as a simplified, ultra-low-cost version of KNF.
   Core principle: if farming input costs exceed $100/acre/year, something is wrong.
   All inputs from locally foraged or farmed materials.
+  See [[jadam-methods]].

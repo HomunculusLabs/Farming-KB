@@ -4,7 +4,7 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [plant-nutrition, nutrient-analysis, crop-monitoring, diagnostics]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 ## Leaf Tissue Analysis for Crop Nutrient Status

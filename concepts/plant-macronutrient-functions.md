@@ -12,7 +12,7 @@ sources:
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 ---
 
-## Plant Macronutrient Functions
+# Plant Macronutrient Functions
 
 ## Overview
 
@@ -141,10 +141,18 @@ Very abundant on Earth. Weathers from many minerals, most familiarly dolomite (C
 - **Electron transfer:** Cysteine is necessary for electron transfer during photosynthesis and respiration
 - **Plant defense:** Sulfur-containing compounds contribute to flavor molecules that protect plants from herbivory
 
+### Deficiency Symptoms
+
+- Yellowing in younger leaves (sulfur is immobile in plants -- distinguishable from nitrogen deficiency, which yellows older leaves)
+- Reduced growth
+
+### Soil Behavior
+
+Released from organic material by microbial activity and weathered from gypsum rock. Historically, acid rain provided significant sulfur; stricter air pollution regulations have dramatically reduced atmospheric sulfur deposition, making sulfur deficiencies more common.
+
 ## See Also
 
-- [[two-tier-selection-model-plant-microbiome-assembly]]
-- [[holzer-problem-plant-regulation]]
-- [[what-a-plant-knows-plant-hearing-acoustic-sensing]]
-- [[medicinal-plant-preparations-tinctures-salves-teas]]
-- [[rhodopsin-photopsins-animal-visual-pigments-plant-photoreceptor-parallels]]
+- [[plant-nutrient-mobility-in-soil|nutrient mobility]]
+- [[plant-micronutrient-functions|micronutrient functions]]
+- [[plant-nutrient-deficiency-guide|nutrient deficiency guide]]
+- [[nitrogen-cycle-in-soil|nitrogen cycle]]

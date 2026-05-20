@@ -1,4 +1,5 @@
 ---
+
 title: Gardening in Hard Times
 created: 2026-04-11
 updated: 2026-04-13
@@ -18,7 +19,7 @@ sources:
 - raw/papers/gardening-when-it-counts-steve-solomon.md
 ---
 
-## Gardening in Hard Times
+# Gardening in Hard Times
 
 Strategies for productive vegetable gardening when resources — water, fertilizer, money, energy — are limited or uncertain. Based primarily on Steve Solomon's "Gardening When It Counts."
 

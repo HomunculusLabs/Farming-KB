@@ -7,7 +7,7 @@ tags: [homesteading, safety, animal-husbandry, equipment, community]
 sources: []
 ---
 
-## Homestead Security
+# Homestead Security
 
 Rural and remote homesteads face unique security challenges: longer emergency response times, isolation, and valuable assets spread across open land. A comprehensive security approach combines physical barriers, surveillance, animal deterrents, and community networks. This page covers cameras, motion lighting, gates, livestock guardians, and community-based security strategies.
 
@@ -141,10 +141,30 @@ Isolation is the homesteader's greatest vulnerability. A connected community is 
 
 ### Vehicle and Equipment Security
 
-## See Also
+- Keep vehicles locked, keys secured, and parked in visible areas
+- Use wheel locks, steering wheel locks, or GPS trackers on tractors and ATVs
+- Engrave equipment with your driver's license number
+- Photograph serial numbers and store records off-site
+- Chain and lock equipment in sheds when not in use
 
-- [[homestead-energy-conservation]]
-- [[homestead-mushroom-business]]
-- [[homestead-winter-preparations]]
-- [[homestead-tool-maintenance]]
-- [[homestead-internet-options]]
+### Firearm Safety and Self-Defense
+
+For homesteaders who choose to own firearms:
+- Store in a heavy gun safe, bolted to the floor or wall
+- Ammunition stored separately
+- Regular practice and training
+- Know your local laws regarding self-defense and use of force
+- Have a clear family plan for security scenarios
+- Consider first aid/trauma training alongside firearms proficiency
+
+### Data and Document Security
+
+- Keep copies of important documents in a fireproof safe and off-site (cloud or safe deposit box)
+- Maintain an inventory of all valuable property with photos and serial numbers
+- Back up homestead records (financial, animal health, breeding) to cloud storage
+
+## Related Concepts
+
+- [[mushroom-foraging-safety-guide]] — Broader safety principles and risk management
+- [[goat-husbandry]] — Livestock guardian dogs as part of animal management
+- [[homestead-communication]] — Communication systems for security and emergency coordination

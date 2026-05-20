@@ -1,5 +1,5 @@
 ---
-title: Irrigation Watering Techniques
+title: Irrigation and Watering Techniques
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,9 +7,9 @@ tags: [gardening, water, water-management, irrigation, techniques, vegetables]
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-## Irrigation and Watering Techniques
+# Irrigation and Watering Techniques
 
-[[solomon-sprinkler-irrigation-system-design]] and fertigation methods from Steve Solomon's *[[gardening-when-it-counts]]*. Solomon provides a scientific framework for efficient garden irrigation.
+Sprinkler irrigation and fertigation methods from Steve Solomon's *Gardening When It Counts*. Solomon provides a scientific framework for efficient garden irrigation.
 
 ## The Science of Soil Moisture
 
@@ -53,7 +53,7 @@ Consumer-grade "lawn and garden" sprinklers are not rated for application rate l
 
 ### Why This Matters
 
-Consider what happens running one of these sprinklers for only one hour. At 2-4 inches per hour, you are applying far more water than the root zone can hold, causing massive [[green-cannabis-soil-flushing-nutrient-leaching]].
+Consider what happens running one of these sprinklers for only one hour. At 2-4 inches per hour, you are applying far more water than the root zone can hold, causing massive nutrient leaching.
 
 Another benefit: the water gauge test reveals the uniformity of distribution (or lack of it). Any sprinkler that wets the beds fairly uniformly can water a garden effectively without leaching — IF you know its rate and how much water you need to spread.
 
@@ -93,7 +93,7 @@ It is important that the water sinks right in, making a surface wet spot no larg
 
 ### Fertigation Benefits
 
-Fertigation is wise even when plants are getting enough water from rain or other irrigation. [[william-albrecht]] explained that much of what appears to be drought damage is actually [[cannabis-grow-nutrient-deficiency-problem-solving]] induced by dry surface soil when plant nutrients are located in the plowed surface layer.
+Fertigation is wise even when plants are getting enough water from rain or other irrigation. William Albrecht explained that much of what appears to be drought damage is actually nutrient deficiency induced by dry surface soil when plant nutrients are located in the plowed surface layer.
 
 Crop scientists noticed it took twice as much water to make a given weight of dry plant material on infertile soil as on highly fertile soil. Fertigation addresses both moisture and nutrition simultaneously.
 
@@ -110,11 +110,6 @@ If facing a serious drought without adequate irrigation:
 ## Related
 
 - [[hand-watering-garden]] — Hand watering and the sparkle test
-- [[drought-gardening]] — Minimal-water [[container-gardening-techniques]]
+- [[drought-gardening]] — Minimal-water gardening techniques
 - [[intensive-planting-spacing]] — How spacing determines water needs
 - [[soil-testing-and-analysis]] — Soil water-holding capacity
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.

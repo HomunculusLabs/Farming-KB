@@ -62,7 +62,7 @@ Chicken manure is a potent organic fertilizer widely used in vegetable gardening
 ## See Also
 
 - [[steer-manure]] — weaker but safer bulk amendment
-- [[complete-organic-fertilizer]] — balanced alternative
+- [[complete-organic-fertilizer-cof]] — balanced alternative
 - [[compost]] — the processed end product
 - [[green-manure]] — living plant-based amendment
 

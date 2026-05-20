@@ -7,7 +7,7 @@ tags: [restoration, conservation, water-management, erosion, plants, freshwater,
 sources: []
 ---
 
-## Riparian Zone Restoration
+# Riparian Zone Restoration
 
 ## Overview
 
@@ -91,8 +91,8 @@ When bioengineering alone is insufficient:
 ### Tree Species
 | Species | Zone | Notes |
 |---------|------|-------|
-| Black willow ([[salix-nigra]]) | Stream bank | Fast-growing; tolerates flooding; easy to propagate from cuttings |
-| Cottonwood ([[populus-deltoides]]) | Floodplain | Fast-growing pioneer; wildlife habitat |
+| Black willow (Salix nigra) | Stream bank | Fast-growing; tolerates flooding; easy to propagate from cuttings |
+| Cottonwood (Populus deltoides) | Floodplain | Fast-growing pioneer; wildlife habitat |
 | Red maple (Acer rubrum) | Riparian forest | Tolerates seasonal flooding; fall color |
 | Sycamore (Platanus occidentalis) | Stream bank | Distinctive bark; flood-tolerant |
 | River birch (Betula nigra) | Stream bank | Ornamental bark; tolerates wet soil |
@@ -148,3 +148,13 @@ One of the most impactful restoration actions is excluding livestock from ripari
 - **Alternative water sources**: Provide stock tanks with piped water to draw livestock away from streams
 - **Rotational grazing**: If grazing near streams, use rotational systems with long rest periods
 - **Stabilized crossings**: Designated crossing points with stone or geotextile reinforcement if livestock must cross streams
+- **Buffer planting**: Plant dense vegetation in the exclusion zone to accelerate recovery
+
+## Integration with Watershed Management
+
+Riparian restoration is a key component of [[watershed-management]]:
+
+- Riparian buffers are among the most cost-effective best management practices for water quality
+- Restoration sites should be prioritized within the watershed context (downstream of pollution sources, at confluences, in impaired reaches)
+- Coordinate with upstream landowners to address pollution sources
+- Connect riparian corridors to create continuous wildlife habitat across property boundaries

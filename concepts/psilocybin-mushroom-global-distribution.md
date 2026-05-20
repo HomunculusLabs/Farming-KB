@@ -10,13 +10,13 @@ tags:
   - psilocybin
   - ecology
 sources:
-  - "raw/particles/psilocybin-mushrooms-of-the-world-stamets.md"
+  - raw/particles/psilocybin-mushrooms-of-the-world-stamets.md
   - raw/particles/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-## Psilocybin Mushroom Global Distribution
+# Psilocybin Mushroom Global Distribution
 
-The [[geographic-distribution-of-psilocybe-species]] of psilocybin-containing mushrooms worldwide, organized by region and climate.
+The geographic distribution of psilocybin-containing mushrooms worldwide, organized by region and climate.
 
 ## Overview
 
@@ -25,10 +25,10 @@ Psilocybin-containing mushrooms are found on every inhabited continent. They bel
 ## North America
 
 ### United States
-- **[[psilocybin-north-america-pacific-northwest]]**: Rich in psilocybin species, particularly *Psilocybe cyanescens* ("wavy caps"), *P. azurescens*, and *P. stuntzii*. The coastal dune grasslands of Oregon and Washington support naturalized populations of *P. azurescens*, one of the most potent species known.
-- **Gulf Coast / Southeast**: *Psilocybe cubensis* is common in subtropical Florida, Texas, and along the Gulf Coast, fruiting on bovine dung from spring through fall. *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* and *P. cyanescens* also occur.
+- **Pacific Northwest**: Rich in psilocybin species, particularly *Psilocybe cyanescens* ("wavy caps"), *P. azurescens*, and *P. stuntzii*. The coastal dune grasslands of Oregon and Washington support naturalized populations of *P. azurescens*, one of the most potent species known.
+- **Gulf Coast / Southeast**: *Psilocybe cubensis* is common in subtropical Florida, Texas, and along the Gulf Coast, fruiting on bovine dung from spring through fall. *Panaeolus subbalteatus* and *P. cyanescens* also occur.
 - **Southwest**: Scattered species in Arizona and New Mexico, associated with higher elevation grasslands.
-- **Northeast**: *[[psilocybe-ovoideocystidiata]]* and *[[panaeolus-cinctulus]]* occur in the mid-Atlantic and northeastern states.
+- **Northeast**: *Psilocybe ovoideocystidiata* and *Panaeolus cinctulus* occur in the mid-Atlantic and northeastern states.
 
 ### Mexico
 Mexico is the center of diversity for *Psilocybe* and has the highest number of known psychoactive species in the world (approximately 50+). Key species include:
@@ -60,7 +60,7 @@ Species are concentrated in the states of Oaxaca, Puebla, Veracruz, Chiapas, and
 
 ## Asia
 
-- **Japan**: Several species documented including *[[psilocybe-subcaerulipes]]*, *P. argentipes*, and *P. cubensis* in Okinawa.
+- **Japan**: Several species documented including *Psilocybe subcaerulipes*, *P. argentipes*, and *P. cubensis* in Okinawa.
 - **Southeast Asia**: Thailand, Cambodia, Vietnam, and Indonesia support rich diversity. *Psilocybe cubensis* and *P. samuiensis* are among the known species. The region has been a significant source for "magic mushrooms" sold to tourists.
 - **India**: Species documented in the Western Ghats and northeastern states.
 - **China and Korea**: Limited documentation but species known to occur.
@@ -89,34 +89,5 @@ Species are concentrated in the states of Oaxaca, Puebla, Veracruz, Chiapas, and
 ## Related Topics
 
 - [[psilocybin-mushroom-habitat-types]] for detailed habitat descriptions
-- [[psilocybin-mushroom-identification]] for identification features
+- [[psilocybin-mushroom-identification-guide]] for identification features
 - [[psychedelic-mushroom-pharmacology]] for the chemistry
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-Documentation of results enables continuous improvement and knowledge sharing.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-Collaborative networks facilitate rapid dissemination of innovations and best practices.

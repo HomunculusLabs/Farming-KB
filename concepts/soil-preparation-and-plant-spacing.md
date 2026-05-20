@@ -107,7 +107,7 @@ Solomon's approach to plant spacing is one of the most distinctive aspects of hi
 **Extensive gardening** (Solomon's recommended approach):
 - Plants spaced wider apart
 - Goal: Maximum yield per unit of labor and water
-- Requires: [[complete-organic-fertilizer]], adequate initial soil preparation
+- Requires: [[complete-organic-fertilizer-cof]], adequate initial soil preparation
 - Result: Deep root systems, less competition, greater [[dighton-fungal-drought-tolerance-plant-water-relations]], lower water needs
 
 ### The Spacing Chart (Pages 147-152)

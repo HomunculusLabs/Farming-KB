@@ -93,3 +93,28 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[urban-permaculture-and-city-farming]]
 - [[urban-permaculture-systems]]
 - [[urban-rooftop-farming-guide]]
+
+## Key Considerations
+
+The study of nitrogen-fixing green manures encompasses several interrelated
+domains that inform both theoretical understanding and practical
+application. Researchers and practitioners continue to refine
+methodologies and expand the body of knowledge in this area.
+
+Cross-disciplinary approaches have proven particularly valuable,
+integrating insights from related fields to develop more
+comprehensive frameworks for analysis and implementation.
+
+## Practical Applications
+
+Understanding nitrogen-fixing green manures has direct implications for
+practical work in the field. The principles described here
+can be adapted to various contexts and scales of operation.
+
+Practitioners should consider local conditions, available
+resources, and specific goals when applying these concepts.
+- [[a-b-watt-permaculture]]
+- [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]
+- [[aact-nitrogen-forms-nitrate-amino-sugars-plant-nutrition-ingham]]
+- [[aboriginal-ecology-permaculture-two]]
+- [[acacia-species-permaculture-pioneer-fodder-timber]]

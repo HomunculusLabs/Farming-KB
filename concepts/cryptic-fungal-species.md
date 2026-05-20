@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [mycology, taxonomy, cryptic-species, fungal-diversity]
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 ## Cryptic Fungal Species

@@ -7,7 +7,7 @@ tags: [ecology, succession, biodiversity, nutrient-cycling, conservation, plants
 sources: []
 ---
 
-## Prairie Ecology
+# Prairie Ecology
 
 ## Overview
 
@@ -141,10 +141,49 @@ Important for migrating butterflies and seed-eating birds:
 
 ## Prairie Wildlife
 
-## See Also
+### Grassland Birds
+Prairie birds are among the most rapidly declining bird groups in North America:
 
-- [[prairie-dog-ecology]]
-- [[comparison-prairie-restoration-vs-silvopasture]]
-- [[fungal-succession-woody-debris-ecology]]
-- [[earthworm-ecology]]
-- [[fukuoka-no-weeding-principle-weed-ecology-utility]]
+- Greater prairie chicken (threatened): Requires large, unfragmented blocks of grassland
+- Bobolink: Nests in tall grass; neotropical migrant
+- Eastern meadowlark: Territory requires 6+ acres of grassland
+- Grasshopper sparrow: Specialist of dry, open prairie
+- Henslow's sparrow: Requires dense grass cover with litter layer
+
+### Mammals
+Prairie mammals include both large herbivores and small residents:
+
+- Bison: Keystone grazers that maintain grassland structure
+- Prairie dogs: Ecosystem engineers creating habitat for burrowing owls, ferrets, and snakes
+- Coyotes: Apex predators regulating rodent and rabbit populations
+- Meadow [[voles-control-methods|voles]]: Primary prey base for raptors and carnivores
+
+### Insects
+Prairies support enormous insect diversity:
+
+- Over 100 butterfly species in tallgrass prairie regions
+- Hundreds of native bee species
+- Grasshoppers, katydids, and crickets form the base of the grassland food web
+- Firefly species that require open grassland habitat
+
+## Soil Ecology
+
+Prairie soils are alive with microbial activity:
+
+- **Mycorrhizal associations**: Nearly all prairie plants form mycorrhizal connections, creating an underground network that facilitates nutrient sharing and plant communication
+- **Soil food web**: Bacteria, fungi, protozoa, nematodes, and microarthropods cycle nutrients through the soil
+- **Earthworms**: While non-native earthworms can disrupt forest ecosystems, they play a beneficial role in prairie soils by accelerating decomposition and improving soil structure
+- **Biological crusts**: In drier prairies, cryptobiotic soil crusts (cyanobacteria, mosses, lichens) stabilize soil surface and fix nitrogen
+
+## Restoration on the Homestead
+
+Even small prairie plantings (100+ sq ft) provide ecological benefits:
+
+- Replace unused lawn with native grasses and forbs
+- Use native warm-season grasses for [[hay-and-forage-management|forage]] and hay production
+- Integrate prairie plantings into [[food-forest-design|food forest]] edges as buffer zones
+- Plant native wildflower strips for [[pollinator-conservation]]
+- Use prescribed fire or mowing to maintain prairie plantings
+- Avoid tilling established prairie areas to protect the soil carbon bank
+
+Prairie seed can be established using no-till methods: site preparation with herbicide or solarization, followed by dormant-season seeding and mowing in the first year to reduce weed competition.

@@ -2,7 +2,7 @@
 title: "Oyster Mushroom"
 type: entity
 tags: []
-sources: []
+sources: [oyster-mushroom-cultivation.md]
 ---
 
 ## Identification

@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychedelics, phenethylamine, amphetamine, histo
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-## MDMA in PIHKAL Context
+# MDMA in PIHKAL Context
 
 ## Chemical Identity
 
@@ -87,38 +87,3 @@ MDMA's legal trajectory has been contentious:
 While MDMA is one of the most famous phenethylamines, it is one of many in PIHKAL's 179-compound catalog. Its inclusion in the book reflects Shulgin's systematic documentation approach — MDMA is treated with the same analytical rigor as every other compound, with synthesis, dosage, duration, qualitative comments, and extensions. Its prominence in popular culture and clinical research, however, far exceeds its relative position within the broader PIHKAL framework.
 
 See also: [[mda-compound-profile]], [[2c-b-compound-profile]], [[shulgin-research-contributions]], [[phenethylamine-receptor-pharmacology]], [[pihkal-introduction-and-methodology]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-Field trials provide essential data for validating theoretical approaches and refining methodologies.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-Peer-reviewed publications and practitioner reports contribute complementary perspectives.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-Regional networks and demonstration sites play crucial roles in technology transfer.
-
-## Implementation Notes
-Start with small-scale trials before expanding to larger operations.
-Maintain detailed records of conditions, inputs, and outcomes for iterative refinement.
-Regular review and adjustment of strategies based on observed results ensures continuous improvement.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

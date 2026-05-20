@@ -7,7 +7,7 @@ tags: [cultivation, gardening, vegetables, plant-growth, harvesting, beginner]
 sources: []
 ---
 
-## Pepper Growing Guide
+# Pepper Growing Guide
 
 Peppers (Capsicum species) are warm-season crops that thrive in heat and full sun. This guide covers sweet and hot pepper varieties, indoor seed starting, transplanting, nutrient management, and harvesting for optimal yield and flavor.
 
@@ -141,10 +141,17 @@ Peppers are moderate feeders — not as heavy as tomatoes or corn.
 
 ## Preserving
 
-## See Also
+- **Drying**: Thread hot peppers on string (ristras), hang in a dry, well-ventilated area. Cayenne, Thai, and thin-walled peppers dry best.
+- **Freezing**: Chop sweet peppers, spread on a sheet pan, freeze, then bag. Best for cooking.
+- **Pickling**: Jalapeños, banana peppers, and sweet peppers pickle well.
+- **Hot sauce**: Blend fermented or fresh hot peppers with vinegar, garlic, and salt.
+- **Smoking and drying**: Chipotle (smoked jalapeño), smoked cayenne for spice blends.
 
-- [[comparison-pepper-growing-guide-vs-tomato-growing-guide]]
-- [[tomato-pepper-eggplant-growing-guide]]
-- [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
-- [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]
-- [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]
+## Related
+
+- [[fermented-hot-sauce-guide]] Concepts
+
+- [[tomato-growing-guide]] — related nightshade with similar growing conditions
+- [[companion-planting-reference]] — basil, tomatoes, and carrots as pepper companions
+- [[seed-starting-reference]] — indoor starting techniques and schedules
+- [[soil-amendment-reference]] — calcium, phosphorus, and potassium sources

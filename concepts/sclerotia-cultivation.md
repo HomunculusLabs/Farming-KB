@@ -1,4 +1,5 @@
 ---
+
 title: Sclerotia Cultivation
 created: 2026-04-12
 updated: 2026-04-12
@@ -18,7 +19,7 @@ sources:
 - raw/papers/unknown-cultivation-of-fruitbodies-and-sclerotia.md
 ---
 
-## Sclerotia Cultivation
+# Sclerotia Cultivation
 
 Sclerotia (singular: sclerotium) are dense, hardened masses of mycelium that serve as survival structures for certain fungi. In cultivation, sclerotia-producing species of *Psilocybe* can form these "truffles" directly in sealed jars without ever requiring fruiting conditions, making them one of the easiest methods for indoor cultivation. See [[psilocybin-mushroom-cultivation]] for fruiting body methods and [[mushroom-substrates]] for substrate details.
 
@@ -60,7 +61,7 @@ Grass seed (particularly rye grass, *Lolium perenne*) is the preferred substrate
 
 ## Inoculation and Colonization
 
-- Inoculate with spore syringe, mycelium syringe, or agar squares (see [[mushroom-sterile-technique]])
+- Inoculate with spore syringe, mycelium syringe, or agar squares (see [[mushroom-sterile-technique-detailed]])
 - Work clean — even a cardboard box hood prevents drafts and contamination
 - Flame-sterilize needles and scalpels before use
 - After inoculation, close lids, shake jars, then **loosen lids again** for gas exchange
@@ -137,7 +138,7 @@ Mix ingredients dry, then add water while stirring until maximum moisture withou
 
 - [[psilocybin-mushroom-cultivation]] — Fruiting body methods and species parameters
 - [[mushroom-substrates]] — Detailed substrate science and formulations
-- [[mushroom-sterile-technique]] — Contamination prevention
+- [[mushroom-sterile-technique-detailed]] — Contamination prevention
 - [[psilocybin-mushroom-chemistry]] — Potency data for sclerotia-producing species
 - [[mushroom-spawn-making-detailed]] — Grain spawn preparation methods
 - [[monotub-cultivation]] — Alternative indoor bulk method

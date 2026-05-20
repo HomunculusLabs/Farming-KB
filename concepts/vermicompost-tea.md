@@ -7,7 +7,7 @@ tags: [vermicompost, compost, microbes, tea, fertilizer, soil, biology, soil-bio
 sources: []
 ---
 
-## Vermicompost Tea
+# Vermicompost Tea
 
 > Note: This page is compiled from general knowledge, not sourced from a specific file in the wiki's raw/ directory.
 

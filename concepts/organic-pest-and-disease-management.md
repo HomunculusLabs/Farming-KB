@@ -23,7 +23,7 @@ Solomon repeatedly emphasizes (pages 217-218) that insects and diseases primaril
 
 ### Nutritional Balance as Pest Prevention
 
-The [[complete-organic-fertilizer]] (COF) system described throughout the book provides balanced primary [[solomon-phosphorus-potassium-and-secondary-nutrients]] that support strong cell walls, vigorous growth, and natural pest resistance:
+The [[complete-organic-fertilizer-cof]] (COF) system described throughout the book provides balanced primary [[solomon-phosphorus-potassium-and-secondary-nutrients]] that support strong cell walls, vigorous growth, and natural pest resistance:
 
 - **Calcium** strengthens cell walls and reduces susceptibility to many fungal diseases
 - **Phosphorus** supports strong root development, enabling plants to access water and nutrients even under stress

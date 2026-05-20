@@ -5,7 +5,7 @@ tags: [medicinal-chemistry, pharmacology, drug-discovery, organic-chemistry, ADM
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 
 ## Overview

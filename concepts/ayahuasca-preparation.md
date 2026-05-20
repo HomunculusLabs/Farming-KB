@@ -8,11 +8,11 @@ sources:
 - raw/papers/amaringo-p-ayahuasca-visions.md
 ---
 
-## Ayahuasca Preparation
+# Ayahuasca Preparation
 
 ## Overview
 
-Ayahuasca (from Quechua: "vine of the souls" or "vine of the dead") is a psychoactive brew originating from the Amazon basin, used traditionally by Indigenous peoples of Peru, Ecuador, Colombia, Brazil, and Bolivia. The brew combines **[[banisteriopsis-caapi]]** (ayahuasca vine), which contains [[beta-carboline]] harmala alkaloids (MAO inhibitors), with **Psychotria viridis** (chacruna) or **Diplopterys cabrerana** (chaliponga), which provide N,N-dimethyltryptamine (DMT). The MAO inhibition allows orally active DMT, which would otherwise be degraded by monoamine oxidase enzymes in the gut.
+Ayahuasca (from Quechua: "vine of the souls" or "vine of the dead") is a psychoactive brew originating from the Amazon basin, used traditionally by Indigenous peoples of Peru, Ecuador, Colombia, Brazil, and Bolivia. The brew combines **Banisteriopsis caapi** (ayahuasca vine), which contains beta-carboline harmala alkaloids (MAO inhibitors), with **Psychotria viridis** (chacruna) or **Diplopterys cabrerana** (chaliponga), which provide N,N-dimethyltryptamine (DMT). The MAO inhibition allows orally active DMT, which would otherwise be degraded by monoamine oxidase enzymes in the gut.
 
 See [[dmt-reference]] for detailed pharmacology of DMT.
 
@@ -148,3 +148,20 @@ Traditional ayahuasca use involves dietary restrictions, partially pharmacologic
 - Avoid: SSRIs, SNRIs, tramadol, dextromethorphan, 5-HTP, St. John's wort, meperidine
 - Avoid: fermented foods, aged cheeses, cured meats, red wine (tyramine interaction)
 - Avoid: alcohol, recreational drugs, excessive caffeine
+- Many traditions additionally restrict: pork, spicy food, salt, sugar, dairy, sexual activity
+- The dieta period typically extends from days to weeks before and after ceremony
+
+## Safety Considerations
+
+- Ayahuasca is generally physiologically safe at traditional doses
+- Primary risks: serotonin syndrome (especially with SSRI use), hypertensive crisis, psychological distress
+- Purgation (vomiting, diarrhea) is a normal and expected part of the experience in many traditions
+- Contra-indicated with: MAOIs, SSRIs, certain psychiatric medications, schizophrenia spectrum disorders (controversial), cardiovascular disease
+- See [[harm-reduction-guide|harm reduction]]] for comprehensive safety guidelines
+
+## Related Pages
+
+- [[dmt-reference]] for DMT pharmacology and chemistry
+- [[ayahuasca-visions]] for phenomenology and artistic interpretation
+- [[pablo-amaringo]] for the artistic tradition of ayahuasca imagery
+- [[psychedelic-compounds-reference]] for comparison with other entheogenic substances

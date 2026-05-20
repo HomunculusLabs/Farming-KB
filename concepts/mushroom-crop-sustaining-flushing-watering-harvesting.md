@@ -4,7 +4,7 @@ created: 2026-04-26
 tags: [mycology, mushroom-cultivation, harvesting, flushing, watering, environmental-control, crop-management, stamets]
 date: 2026-04-25
 updated: 2026-04-28
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 type: concept
 ---
 ## mushroom crop sustaining flushing watering harvesting, Flushing, Watering, and Harvesting Chapter X of The [[mushroom-growing-room-environmental-control]] — humidifiers, steam

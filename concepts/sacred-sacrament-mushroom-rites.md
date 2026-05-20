@@ -1,4 +1,5 @@
 ---
+
 title: Sacred Sacrament and Mushroom Rites
 created: 2026-04-12
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
 - raw/papers/arthur-j-mushrooms-and-mankind.md
 ---
 
-## Sacred Sacrament and Mushroom Rites
+# Sacred Sacrament and Mushroom Rites
 
 The comparative analysis of sacramental mushroom use across religious traditions, centering on the "sacred meal" — a ritual consumption of psychoactive mushrooms as the "body of God." [[james-arthur]] and others argue that virtually every world religion's central sacrament originally involved entheogenic mushrooms, later replaced by symbolic substitutes (bread, wine, wafers).
 

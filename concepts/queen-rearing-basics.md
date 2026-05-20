@@ -7,7 +7,7 @@ tags: [homesteading, animal-husbandry, beginner, pollinators, genetics]
 sources: []
 ---
 
-## Queen Rearing Basics
+# Queen Rearing Basics
 
 Queen rearing is the practice of raising new honey bee queens from existing
 colony stock. It enables beekeepers to replace failing queens, increase
@@ -140,10 +140,19 @@ or kill a queen they do not accept.
   7 days
 - Ensure the colony has adequate food during the introduction period
 
-## See Also
+## Selecting Breeder Stock
 
-- [[oner-jack-the-ripper-jacks-cleaner-space-queen]]
-- [[queen-inamullo]]
-- [[oner-jack-the-ripper-jacks-cleaner-space-queen-tga-subcool]]
-- [[cannabis-oil-extraction-basics]]
-- [[comparison-bamboo-construction-vs-timber-frame-basics]]
+The quality of your queens depends on the genetics of the breeder colony.
+Select for:
+- Gentle temperament
+- High honey production
+- Good winter survival
+- Low Varroa mite loads (VSH or hygiene traits)
+- Resistance to brood diseases
+
+Maintain records of colony performance to inform breeding decisions. See
+[[beekeeping-problems-and-solutions]] for information on selecting for
+disease resistance and [[beekeeping-seasonal-calendar]] for timing queen
+rearing with the seasonal cycle.
+## See Also
+- [[comparison-biogas-digester-basics-vs-solar-cooking-methods]]

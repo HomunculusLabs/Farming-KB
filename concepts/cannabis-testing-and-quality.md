@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Testing And Quality"
+title: Cannabis Testing and Quality
 created: 2026-2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,11 +7,11 @@ tags: [cannabis, lab-technique, potency, safety, chemistry, psychopharmacology, 
 sources: []
 ---
 
-## Cannabis Testing and Quality
+# Cannabis Testing and Quality
 
 ## Overview
 
-Cannabis testing is the [[solomon-soil-testing-laboratory-analysis-low-input-gardening]] of cannabis flowers, concentrates, and products to determine their [[chemical-composition-of-hallucinogens]], potency, and safety profile. In regulated markets, testing is legally required before products reach consumers. Even in non-regulated contexts, understanding testing methods and quality indicators helps growers and consumers make informed decisions about the products they grow and consume.
+Cannabis testing is the laboratory analysis of cannabis flowers, concentrates, and products to determine their chemical composition, potency, and safety profile. In regulated markets, testing is legally required before products reach consumers. Even in non-regulated contexts, understanding testing methods and quality indicators helps growers and consumers make informed decisions about the products they grow and consume.
 
 ## Types of Cannabis Testing
 
@@ -23,9 +23,9 @@ Potency testing measures the concentration of cannabinoids in a sample. This is 
 - **THC (Delta-9 Tetrahydrocannabinol):** Primary psychoactive compound
 - **THCA (Tetrahydrocannabinolic Acid):** Non-psychoactive precursor to THC (converts to THC through decarboxylation with heat)
 - **Total THC:** THCA multiplied by 0.877 plus THC (estimates total THC after decarboxylation)
-- **CBD (Cannabidiol):** Non-psychoactive cannabinoid with [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]]
+- **CBD (Cannabidiol):** Non-psychoactive cannabinoid with therapeutic properties
 - **CBDA (Cannabidiolic Acid):** Precursor to CBD
-- **CBG (Cannabigerol):** Minor cannabinoid with potential [[psilocybin-therapeutic-applications]]
+- **CBG (Cannabigerol):** Minor cannabinoid with potential therapeutic applications
 - **CBN (Cannabinol):** Degradation product of THC, associated with sedative effects
 - **THCV (Tetrahydrocannabivarin):** Minor cannabinoid that may modulate THC effects
 - **Delta-8 THC:** Minor cannabinoid with psychoactive properties, often derived from CBD
@@ -42,7 +42,7 @@ Potency testing measures the concentration of cannabinoids in a sample. This is 
 
 ### Terpene Testing
 
-Terpenes are aromatic compounds contributing to flavor, aroma, and effects. [[cannabis-terpenes-and-the-entourage-effect]] means the same THC percentage can produce different experiences depending on terpene profile.
+Terpenes are aromatic compounds contributing to flavor, aroma, and effects. The entourage effect means the same THC percentage can produce different experiences depending on terpene profile.
 
 **Primary terpenes:** Myrcene (earthy, sedative), limonene (citrus, mood elevation), pinene (pine, focus), linalool (floral, calming), caryophyllene (pepper, anti-inflammatory via CB2), humulene (earthy, anti-inflammatory), terpinolene (piney, sedative at high doses), geraniol (floral, antioxidant).
 
@@ -114,7 +114,3 @@ Testing is a snapshot. Other quality factors include:
 - **Microscope:** For pest and mold identification
 
 These supplement but do not replace professional lab testing. Quality [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] genetics can produce excellent testing results when cultivated properly.
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.

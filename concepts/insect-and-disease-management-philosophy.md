@@ -58,7 +58,7 @@ Before rushing to spray poisons (even natural ones), before investing in predato
 
 ### The Best "Cure"
 
-Often the best cure is not a "killer" but liquid [[complete-organic-fertilizer]]:
+Often the best cure is not a "killer" but liquid [[complete-organic-fertilizer-cof]]:
 - **Foliar spray**: Combined fish emulsion and liquid kelp (a triple whammy — two fertilizers, one of which temporarily disguises the plant's odor from predators)
 - **Spot fertigation**: A bucket of compost tea or diluted liquid fertilizer at the base of struggling plants
 

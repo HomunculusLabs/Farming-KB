@@ -7,7 +7,7 @@ tags: [mycology, psychiatry, psychopharmacology, psychedelics, entheogen-researc
 sources: []
 ---
 
-## Psilocybin Clinical Trials
+# Psilocybin Clinical Trials
 
 ## Overview
 
@@ -118,11 +118,5 @@ Across all published trials, psilocybin has demonstrated an excellent safety pro
 - **Canada**: Special Access Programme available for psilocybin under specific circumstances
 
 See [[psychedelic-assisted-therapy-protocol]] for the therapeutic framework and [[psychedelic-mushroom-pharmacology]] for the pharmacological basis of clinical effects.
-
 ## See Also
-
-- [[stamets-african-psilocybin-mushroom-distribution]]
-- [[emcdda-psilocybin-mushroom-market-variety-names-and-strain-marketing-2006]]
-- [[powell-psilocybin-end-of-life-anxiety]]
-- [[psilocybin-mushroom-image-guide-habitat-clues]]
-- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
+- [[clinical-trials-of-mushroom-polysaccharides-in-cancer-treatment]]

@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, cultivation, permaculture, ecology, food, species, gard
 sources: []
 ---
 
-## King Stropharia (Garden Giant)
+# King Stropharia (Garden Giant)
 
 King Stropharia (Stropharia rugosoannulata), commonly known as the Wine Cap mushroom or Garden Giant, is a large, robust mushroom well-suited to outdoor cultivation in temperate climates. It is one of the easiest mushrooms to grow outdoors and integrates beautifully into permaculture garden designs, particularly in mulched garden beds, orchard understories, and food forest systems.
 
@@ -140,11 +140,18 @@ Harvest when caps are fully expanded but before the gills darken significantly:
 
 - Variable depending on climate, substrate volume, and maintenance
 - Expect 1-5 pounds per 10 square feet per year at maturity
+- Peak beds can produce impressive flushes of 10-20 pounds in a single fruiting event
 
-## See Also
+## Common Problems
 
-- [[fukuoka-road-farming-for-kings-and-clergy]]
-- [[mckenna-wasson-soma-doubts-and-stropharia-case]]
-- [[comparison-enoki-vs-king-stropharia-cultivation]]
-- [[cotter-king-stropharia-cultivation]]
-- [[stropharia-rugosoannulata-permaculture]]
+- Bed dries out: improve mulching and watering schedule
+- Slugs and snails: use beer traps or hand-pick; avoid poisons in food gardens
+- Competing fungi: use fresh substrate and adequate spawn rates
+- No fruiting: insufficient rain/moisture; try a deep soaking
+- Chip-eating insects (pillbugs): generally not a major problem
+
+## Related Topics
+
+- [[wine-cap-stropharia-cultivation]] for detailed bed preparation and cultivation
+- kings stropharia garden giant for companion planting strategies
+- [[shiitake-cultivation-guide]] for another outdoor log/wood cultivation method

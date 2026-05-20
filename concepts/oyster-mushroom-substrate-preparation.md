@@ -7,9 +7,9 @@ tags: [mushrooms, mycology, cultivation, gardening]
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
 
-## Oyster Mushroom Substrate Preparation
+# Oyster Mushroom Substrate Preparation
 
-Oyster mushrooms (Pleurotus spp.) are among the easiest [[choosing-mushrooms-to-cultivate-and-infrastructure-planning]] because they grow on a wide variety of agricultural waste materials. Proper substrate preparation — cleaning and partially sterilizing the growing medium — is the most critical step for success.
+Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate because they grow on a wide variety of agricultural waste materials. Proper substrate preparation — cleaning and partially sterilizing the growing medium — is the most critical step for success.
 
 ## Suitable Substrates
 
@@ -21,10 +21,10 @@ Oyster mushrooms (Pleurotus spp.) are among the easiest [[choosing-mushrooms-to-
 - Straw should be fresh (not moldy), dry, and free of seed treatment chemicals
 
 ### Wood-Based Substrates
-- [[hardwood-sawdust-substrate]] (oak, beech, maple — avoid cedar and redwood)
+- Hardwood sawdust (oak, beech, maple — avoid cedar and redwood)
 - Hardwood chips (supplemented with bran)
 - Paper/cardboard (shredded, soaked)
-- Cotton waste (from [[staycare-fungal-treatment-of-textile-industry-wastewater]])
+- Cotton waste (from textile industry)
 - Coffee grounds (can be used fresh without pasteurization at up to 25% of substrate)
 
 ### Other Substrates
@@ -76,12 +76,12 @@ Oyster mushrooms (Pleurotus spp.) are among the easiest [[choosing-mushrooms-to-
 
 ### Flow-Through Steam
 - Steam at 212°F (100°C) for 8-12 hours
-- Works for [[oyster-mushroom-supplemented-sawdust-blocks]]
+- Works for supplemented sawdust blocks
 
 ## Moisture Content
 - Target: 60-70% by weight
 - Test: Squeeze a handful firmly — should form a ball that holds shape, with 1-5 drops of water
-- Too wet (>75%): [[aact-ph-and-anaerobic-conditions]], bacterial contamination, poor mycelium growth
+- Too wet (>75%): anaerobic conditions, bacterial contamination, poor mycelium growth
 - Too dry (<55%): slow colonization, reduced yield, dry mushrooms
 
 ## Container Options

@@ -4,12 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, law, safety, reform, psychopharmacology, counterculture, activism, history, culture, reference, entheogen-research]
-sources:
-  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
-  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
+sources: []
 ---
 
-## Psychedelic Plants Legal Status
+# Psychedelic Plants Legal Status
 
 ## Overview
 
@@ -133,11 +131,5 @@ See [[psychedelic-mushroom-decriminalization]] for a detailed look at the US ref
 
 - [[psychedelic-mushroom-decriminalization]] — US decriminalization movement in detail
 - [[entheogen-vendors-and-sources]] — legal sourcing of plants and materials
-
 ## See Also
-
-- [[psycholytic-vs-psychedelic-therapy-historical-models-metzner]]
-- [[sidney-cohen-oscar-janiger-hollywood-psychedelic-therapy-1960s]]
 - [[psychedelic-plants-in-ancient-cultures]]
-- [[archaeology-of-psychedelic-mushrooms]]
-- [[psychedelic-crisis-response-protocol]]

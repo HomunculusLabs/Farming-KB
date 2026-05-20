@@ -1,4 +1,5 @@
 ---
+
 title: Homestead Startup Checklist
 created: 2026-04-11
 updated: 2026-04-12
@@ -37,7 +38,7 @@ sources:
 - concepts/seed-saving.md
 ---
 
-## Homestead Startup Checklist
+# Homestead Startup Checklist
 
 A phased startup plan synthesizing the wiki's homesteading knowledge into actionable steps. Assumes USDA Zone 7-8, 2-10 acres. Adapt timelines and scale to your site. See [[seasonal-planning]] for the full monthly calendar.
 
@@ -144,3 +145,33 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 | Jul | Peak | Harvest daily, preserve, mulch heavily, monitor animals |
 | Aug | Preserve | Can/freeze/dry peak harvest, start fall crops, cover crop empty beds |
 | Sep | Harvest | Peak harvest, cure cannabis, winterize animal housing |
+| Oct | Winterize | Plant garlic/cover crops, root cellaring, clean grow space |
+| Nov | Rest | Mulch perennials, greenhouse winter growing, evaluate year |
+| Dec | Plan | Tool repair, seed orders, review and adjust systems |
+
+## Key Principles
+
+1. **Start small, observe, expand** \u2014 don't build everything at once
+2. **Close the loops** \u2014 animal manure \u2192 compost \u2192 garden \u2192 food \u2192 scraps \u2192 compost
+3. **Water first** \u2014 nothing works without reliable water infrastructure
+4. **Soil is everything** \u2014 invest in compost, biology, and no-till before buying inputs
+5. **Animals integrate systems** \u2014 ducks eat pests, goats clear brush, manure feeds soil
+
+## See Also
+
+- [[homesteading-infrastructure]] \u2014 core systems design and layout
+- [[seasonal-planning]] \u2014 full monthly task calendar for Zone 7-8
+- [[permaculture-design]] \u2014 zone and sector analysis methodology
+- [[duck-keeping]] \u2014 breed selection, housing, feed, predator protection
+- [[goat-keeping]] \u2014 breeds, fencing, pasture, health, dairy
+- [[food-forest-design]] \u2014 seven layers, guilds, planting order
+- [[greenhouse-design]] \u2014 types, sizing, passive solar, budget
+- [[composting-systems]] \u2014 hot/cold composting, vermicompost, bokashi
+- [[water-management]] \u2014 catchment, irrigation, greywater
+- [[food-preservation-canning]] \u2014 canning, fermentation, dehydrating, root cellaring
+- [[seed-saving-techniques]] \u2014 open-pollinated varieties, isolation, storage
+- [[cover-cropping-guide]] \u2014 cover crop selection and management
+
+## Related
+
+- [[outdoor-shelter-building]]

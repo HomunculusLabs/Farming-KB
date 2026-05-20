@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Cannabis pest management uses [[integrated-pest-management]] (IPM) principles to prevent, identify, and eliminate insect pests in the grow space. IPM prioritizes prevention and least-toxic interventions before resorting to chemical controls. Early detection is critical — small pest populations are manageable; large infestations can destroy entire crops.
+Cannabis pest management uses Integrated Pest Management (IPM) principles to prevent, identify, and eliminate insect pests in the grow space. IPM prioritizes prevention and least-toxic interventions before resorting to chemical controls. Early detection is critical — small pest populations are manageable; large infestations can destroy entire crops.
 
 ## Integrated Pest Management (IPM) Framework
 
@@ -17,9 +17,9 @@ Cannabis pest management uses [[integrated-pest-management]] (IPM) principles to
 
 - **Quarantine**: Isolate new plants, clones, or soil for 7-14 days before introducing to the grow space
 - **Cleanliness**: Remove dead plant material, sanitize surfaces between grows, wash hands before handling plants
-- **Environmental control**: Proper [[greg-green-temperature-and-humidity-control]] make the environment less hospitable to pests. See [[cannabis-environment-control]].
+- **Environmental control**: Proper temperature and humidity make the environment less hospitable to pests. See [[cannabis-environment-control]].
 - **Physical barriers**: HEPA intake filters, sticky traps, and sealed grow spaces prevent pest entry
-- **[[beneficial-insects-and-biological-pest-control]]**: Introduce predatory insects preventively in living soil or greenhouse grows
+- **Beneficial insects**: Introduce predatory insects preventively in living soil or greenhouse grows
 - **Regular inspection**: Check undersides of leaves, soil surface, and bud sites with a loupe or magnifier at least twice weekly
 
 ### Monitoring
@@ -72,9 +72,9 @@ Small dark flies that hover around the soil surface. Larvae feed on organic matt
 **Management**:
 - Allow soil surface to dry between waterings (larvae need moisture)
 - Yellow sticky traps to catch adults and monitor population
-- Mosquito Bits ([[bacillus-thuringiensis]] israelensis — Bti) as a soil drench
+- Mosquito Bits (Bacillus thuringiensis israelensis — Bti) as a soil drench
 - Diatomaceous earth (DE) sprinkled on soil surface (desiccates larvae)
-- [[ingham-beneficial-nematodes-soil-food-web]] (Steinernema feltiae) applied to soil
+- Beneficial nematodes (Steinernema feltiae) applied to soil
 - Cinnamon powder on soil surface as a deterrent
 
 ### Thrips (Order Thysanoptera)
@@ -135,7 +135,7 @@ Soft-bodied insects that cluster on new growth and undersides of leaves, sucking
 - Follow label directions for Captain Jack's Dead Bug Brew or Monterey Garden Insect Spray
 - Effective against thrips, spider mites, and caterpillars
 - Apply every 3-5 days
-- Relatively safe [[query-how-do-i-design-habitat-for-beneficial-insects]] once dry
+- Relatively safe for beneficial insects once dry
 
 ## Pest Prevention Checklist
 
@@ -148,3 +148,7 @@ Soft-bodied insects that cluster on new growth and undersides of leaves, sucking
 - Quarantine any plant showing pest symptoms immediately
 
 Pest-damaged plants are more susceptible to [[cannabis-disease-guide]] pathogens. Weak, stressed plants attract more pests — maintaining plant health through proper [[cannabis-nutrient-recipes]] is foundational to pest resistance.
+
+## Related
+
+- cannabis pest management

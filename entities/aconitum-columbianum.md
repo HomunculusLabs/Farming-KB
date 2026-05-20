@@ -40,7 +40,7 @@ The lethal dose in humans is estimated at 1 to 5 mg of aconitine for an adult, m
 
 Concentrations of total alkaloids vary geographically, with some Rocky Mountain populations showing elevated levels compared to coastal populations.
 
-Despite the extreme toxicity, Indigenous peoples of western North America developed specialized [[amanita-muscaria-preparation-methods]] to reduce alkaloid content for medicinal use.
+Despite the extreme toxicity, Indigenous peoples of western North America developed specialized [[amanita-preparation-methods]] to reduce alkaloid content for medicinal use.
 
 ## Ethnobotanical Use
 

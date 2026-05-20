@@ -7,7 +7,7 @@ tags: [homesteading, equipment, engineering, safety, community]
 sources: []
 ---
 
-## Homestead Communication
+# Homestead Communication
 
 Reliable communication is a lifeline for rural homesteaders. Remote locations often lack cellular service and high-speed internet, and during emergencies, standard communication networks can fail entirely. This page covers amateur (ham) radio, internet options for rural areas, satellite communication, and emergency communication planning.
 
@@ -140,11 +140,29 @@ Every homestead should have a dedicated emergency communication kit:
 - Written list of emergency contacts (physical copy)
 - Whistle for signaling
 - Signal mirror
+- Flares or signal strobe
 
-## See Also
+### Emergency Frequencies
 
-- [[homestead-energy-conservation]]
-- [[homestead-mushroom-business]]
-- [[homestead-winter-preparations]]
-- [[homestead-tool-maintenance]]
-- [[homestead-internet-options]]
+- 146.520 MHz — National simplex calling frequency (ham)
+- 446.000 MHz — National UHF simplex calling frequency (ham)
+- Channel 19 (27.185 MHz) — CB emergency and trucker channel
+- FRS/GMRS Channel 1 — Family communication
+- NOAA Weather Radio — 162.400-162.550 MHz (your local frequency)
+- 3.840 MHz — Amateur Radio Emergency Service (ARES) frequency
+- 7.093 MHz — Southern California Emergency Net (example — find your local equivalent)
+
+### Family Communication Plan
+
+- Establish a check-in schedule (every 6-12 hours during emergencies)
+- Designate an out-of-area contact person as a relay point
+- Know how to reach local emergency services (911, sheriff direct line)
+- Practice using your communication equipment regularly
+- Ensure all family members can operate the radio equipment
+
+## Related Concepts
+
+- [[mushroom-foraging-safety-guide]] — Emergency preparedness and risk management
+- [[homestead-security]] — Communication as part of the security posture
+- [[emergency-preparedness]] — Communication during extended power outages
+- [[emergency-preparedness]] — Emergency communication during evacuation scenarios

@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Grow Equipment
 created: 2026-04-11
 updated: 2026-04-12
@@ -27,9 +28,9 @@ sources:
 - raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-## Mushroom Grow Equipment
+# Mushroom Grow Equipment
 
-Quality equipment dramatically reduces contamination rates and improves yields. This page covers the full range from minimum viable setups to professional-grade labs. See [[mushroom-sterile-technique]] for how to use this equipment, and [[mushroom-indoor-cultivation]] for grow chamber setup.
+Quality equipment dramatically reduces contamination rates and improves yields. This page covers the full range from minimum viable setups to professional-grade labs. See [[mushroom-sterile-technique-detailed]] for how to use this equipment, and [[mushroom-indoor-cultivation]] for grow chamber setup.
 
 ## Equipment by Category
 
@@ -74,7 +75,7 @@ Based on construction guide from Luftfilterbau. Total cost: ~€304 ($320):
 - Select blower rated for this airflow at ~150 Pa pressure drop through the HEPA
 - Oversize slightly to account for dirty filters and prefilter resistance
 
-**Construction**: Horizontal airflow recommended (air moves back to front). Enclosure of press boards with transparent plexiglas top for light. See [[mushroom-sterile-technique]] for HEPA specifications.
+**Construction**: Horizontal airflow recommended (air moves back to front). Enclosure of press boards with transparent plexiglas top for light. See [[mushroom-sterile-technique-detailed]] for HEPA specifications.
 
 **Usage**: Run blower 30 min before work. Wipe sterile area with alcohol-soaked paper before and after 30-min run.
 
@@ -108,7 +109,7 @@ Based on construction guide from Luftfilterbau. Total cost: ~€304 ($320):
 | Inoculation loop / scalpel | $5–15 | Transfers | Scalpel blades: flame until red hot |
 | Quart mason jars (12+) | $12–20 | Grain spawn | Wide-mouth preferred for easy removal |
 | Polypropylene grow bags (100) | $20–40 | Bulk substrate | Autoclavable. Filter patch equipped. |
-| Agar, malt extract, dextrose | $15–30 | Media preparation | See [[mushroom-sterile-technique]] for recipes |
+| Agar, malt extract, dextrose | $15–30 | Media preparation | See [[mushroom-sterile-technique-detailed]] for recipes |
 | Petri dishes (500, 90mm) | $25–40 | Agar culture | Pre-sterilized plastic or reusable glass |
 | pH meter or strips | $10–30 | Substrate/media pH | Target 5.5–7.0 for most species |
 | Digital scale | $10–25 | Precise measurements | 0.1g accuracy sufficient |
@@ -139,8 +140,55 @@ The original PF TEK requires no pressure cooker. Complete kit:
 
 **Jar lid prep**: Punch 4 holes in lid with nail. Rubber seal faces up (rubber side touching jar mouth). Fill with substrate, wipe rim, add dry vermiculite barrier (1/2-3/4 inch), screw lid down tight.
 
-## See Also
+**Boil-a-Bag method (Jarrold)**: Polypropylene autoclave bags filled with substrate, sealed, and sterilized by boiling in water for 60 minutes. Alternative to jars for those without pressure canners.
 
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[straw-based-mushroom-substrate-preparation]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+## Indoor Growing Technique Equipment (A4 Doc)
+
+Alternative indoor setup using sealed grow bags with filter patches:
+- Polypropylene grow bags with self-healing injection port and filter patch
+- Liquid culture syringes for faster colonization
+- Heat mat with thermostat for temperature control
+- Spray bottle for humidity management
+
+## Oss & Oeric / Growers Guide Equipment
+
+From the Magic Mushroom Growers Guide (McKenna brothers):
+- **Pressure cooker**: 6-quart Presto minimum; 22-quart recommended. All-American 941 for serious work.
+- **Spore syringes**: 10-20cc capacity. Sterile water + spore print material.
+- **Substrate containers**: Quart canning jars with filter discs, or spawn bags.
+- **Incubation**: Heating pad or warm spot (75-80F). Dark cabinet or closet.
+- **Fruiting environment**: Aquarium or plastic tote with perlite humidification.
+- **Desiccant chamber**: Drying box with silica gel or DampRid for final drying of harvest.
+
+## Setup Tiers
+
+| Tier | Cost | What You Get | Suitable For |
+|---|---|---|---|
+| **Bare minimum** | $30–50 | SAB, pressure cooker, jars, alcohol, torch, perlite, tote | PF Tek, first-time growers |
+| **Standard home lab** | $150–300 | Above + agar supplies, petri dishes, bags, heat mat, monitor | Grain-to-grain, agar work, bulk grows |
+| **Serious hobbyist** | $400–800 | Above + DIY flow hood, Martha tent, humidifier, multiple tubs | Consistent results, multiple species |
+| **Professional** | $2000–5000+ | Commercial flow hood, autoclave, dedicated grow room, environmental controls | Commercial spawn production, gourmet cultivation |
+
+## Sourcing Equipment
+
+- **Mycology suppliers**: Out-Grow, Mushroom Media Online, First Light Mushroom Farm (US)
+- **General**: Amazon, hardware stores for pressure cookers, totes, shelving
+- **Lab supplies**: Scientific supply companies for petri dishes, agar, scalpels, parafilm
+- **HEPA filters**: Luftfilterbau, Fungi Perfecti, or HVAC suppliers (specify H14, 99.97% at 0.3 microns)
+- **DIY**: Many items can be improvised — the key investments are pressure cooker and sterile workspace
+
+## Growing Room Design (Stamets)
+
+For professional growing rooms, Stamets specifies air-to-bed ratios (4:1 for grain, 5:1 for compost), minimum 3-5 air exchanges/hour at 85-92% humidity, cooling strategies, humidification methods (steam, atomizing nozzles, evaporative pads), and lighting requirements (6500K fluorescent, 18+ inches above cropping surface). See [[mushroom-grow-room-design]] for complete room design details, including pressure canner specifications.
+
+## See Also
+- [[mushroom-contamination-identification]]
+- [[mushroom-sterile-technique-detailed]]
+- [[mushroom-indoor-cultivation]]
+
+## Related
+
+- [[psylocybe-fanaticus]]
+- [[led-vs-hps-grow-lights]]
+- [[mushroom-species-cultivation-parameters]]
+- [[maitake-cultivation-guide]]

@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Fungal Cyanide Degradation ## Overview Cyanide is a potent metabolic inhibitor that targets cytochrome oxidase in the mitochondrial respiratory chain. Despite its extreme toxicity, several fungal species can tolerate, degrade, and even utilize cyanide as a nitrogen source. This capability has applications in treating industrial wastes from gold mining, electroplating, and coal gasification. For broader context on fungal enzymatic degradation, see [[fungal-heavy-metal-biosorption-detailed]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with

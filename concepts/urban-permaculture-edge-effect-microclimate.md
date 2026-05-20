@@ -1,7 +1,7 @@
 ---
 title: "Urban Permaculture Edge Effect Microclimate"
 tags: []
-sources: []
+sources: [/wiki/raw/papers/urban-permaculture-guerilla-gardening.md]
 ---
 
 ## Edge Effect and Microclimate Design The herb-spiral-microclimate-design by manipulating:

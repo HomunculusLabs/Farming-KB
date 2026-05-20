@@ -7,7 +7,7 @@ tags: [homesteading, seeds, genetics, harvesting, storage, cultivation, sustaina
 sources: []
 ---
 
-## Saving Seeds
+# Saving Seeds
 
 [[permaculture-seed-saving-and-selection|Seed saving]] is one of the most empowering homesteading skills. It reduces costs, preserves genetic diversity, and develops plant varieties uniquely adapted to your local conditions. Over generations, saved seeds become more resilient and productive on your specific land.
 
@@ -140,11 +140,18 @@ Some crops (carrots, beets, onions, cabbage, kale, parsnips) are biennials -- th
 
 1. Grow the crop in year one and select the best roots/plants at harvest
 2. Store selected roots in a cool, humid location over winter (root cellar, refrigerator in damp sand, or mulched in the ground)
+3. Replant in early spring of year two
+4. Allow plants to flower and set seed
+5. Harvest seed when dry
 
-## See Also
+This requires planning a year in advance and dedicated garden space in year two.
 
-- [[query-how-to-start-seed-saving]]
-- [[natural-farming-seed-saving]]
-- [[seed-saving-storage]]
-- [[solomon-seed-saving-guide]]
-- [[seed-saving-vegetables]]
+## Seed Libraries and Sharing
+
+Many communities have seed libraries where members can borrow seeds, grow them, save seeds, and return some. This is an excellent way to access new varieties and build local seed sovereignty. Always follow the library's guidelines and return clean, well-labeled seed.
+
+## Related Concepts
+
+- [[small-scale-grain-growing]] -- grain seed saving and selection
+- [[fruit-tree-propagation]] -- vegetative propagation as an alternative to seed saving for fruit trees
+- [[medicinal-herb-growing]] -- save seeds from your best medicinal herb plants

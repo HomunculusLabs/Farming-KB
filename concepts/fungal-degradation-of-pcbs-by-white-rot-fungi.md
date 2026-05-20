@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 ## Fungal Degradation of PCBs by White-Rot Fungi White-rot fungi are among the most effective microorganisms for degrading polychlorinated biphenyls (PCBs), exploiting their lignin-degrading enzyme system. This system, secreted extracellularly, includes lignin peroxidases (LiPs), Mn(II)-dependent manganese peroxidases (MnPs), and H2O2-producing enzymes, all induced during secondary metabolism under nutrient-limiting conditions. Their non-specific free radical mechanism provides the basis for degradation of a wide variety of structurally diverse pollutants. ## PCB Properties and Environmental Significance Polychlorinated biphenyls were used in dielectric fluids, heat-transfer fluids, hydraulic fluids, flame retardants, adhesives, solvent extenders, textiles, and printing. PCBs are marketed as complex mixtures under trade names such as Aroclor, Clophen, and Delor. Commonly used Aroclors include 1242, 1254, and 1260, containing 42, 54, and 60% chlorine by weight with an average of 3, 5, and 6 chlorine atoms per biphenyl molecule. Their inherent chemical inertness, stable molecular structure, and hydrophobicity result in low biodegradation and environmental persistence. Mutagenic effects of PCBs in rodents are well documented. ## Principal PCB-Degrading Species Beyond the model organism Phanerochaete chrysosporium, multiple white-rot fungi degrade PCBs effectively: - [[maitake-grifola-frondosa-comprehensive-profile]] (Maitake mushroom M51)
 

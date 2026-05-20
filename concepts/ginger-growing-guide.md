@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-## Ginger Growing Guide (Zingiber officinale)
+# Ginger Growing Guide (Zingiber officinale)
 
 ## Overview
 
@@ -140,10 +140,48 @@ A simple method: Plant ginger in a large pot in a sunny window in late
 winter. Move outdoors to a sheltered, partially shaded location after frost
 danger passes. Harvest before first frost.
 
+## Harvesting
+
+For fresh ginger:
+- "Green ginger" or baby ginger can be harvested 4-5 months after planting
+- At this stage, the skin is tender and does not need peeling
+- Simply dig around the plant and cut off desired pieces; the plant will
+  continue growing
+
+For mature ginger:
+- Harvest when foliage begins to yellow and die back (8-10 months)
+- Dig up the entire root mass with a garden fork
+- Cure rhizomes in a warm, dry location for 1-2 weeks
+- Save healthy rhizomes with good buds for next year's planting
+
+## Processing and Storage
+
+Fresh storage:
+- Uncut, unpeeled ginger stores in the refrigerator for 2-3 weeks
+- Wrap in paper towels to absorb moisture
+- For longer storage, freeze whole or sliced ginger (grate directly from
+  frozen)
+
+Drying:
+- Slice fresh ginger 1/8 inch thick
+- Dehydrate at 130-140 degrees F until completely brittle
+- Grind into powder as needed (fresh-ground is far superior to store-bought)
+- Store powder in airtight jars away from light and moisture
+
+Pickling (preserved ginger):
+- Slice fresh ginger thinly
+- Cover with rice vinegar, sugar, and salt
+- Store refrigerated for months
+
+## Yields
+
+- Baby ginger: 2-4 lbs per square foot
+- Mature ginger: 1-2 lbs per plant under good conditions
+- Container-grown: 0.5-1 lb per 15-gallon pot
+
 ## See Also
 
-- [[comparison-turmeric-vs-ginger]]
-- [[query-how-do-i-grow-and-use-ginger-and-turmeric]]
-- [[ginger-garlic-extract]]
-- [[ginger-garlic-extract-bionutrient]]
-- [[turmeric-and-ginger-rhizome-cultivation]]
+- [[turmeric-growing-guide]] -- close relative with identical cultivation
+  approach and complementary medicinal uses
+- [[holy-basil-tulsi-guide]] -- pair fresh ginger with tulsi tea for
+  respiratory and digestive wellness

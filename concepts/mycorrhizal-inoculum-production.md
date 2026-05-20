@@ -1,4 +1,5 @@
 ---
+
 title: Mycorrhizal Inoculum Production
 created: 2026-04-12
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
   - raw/articles/jeff-lowenfels-teaming-with-fungi.md
 ---
 
-## Mycorrhizal Inoculum Production
+# Mycorrhizal Inoculum Production
 
 Methods for producing your own arbuscular and ectomycorrhizal fungal inoculum, from field harvesting to greenhouse pot culturing. Based on Jeff Lowenfels' *Teaming with Fungi*. See [[mycorrhizal-fungi]] for the overview of mycorrhizal types and [[inoculation-methods]] for mushroom spawn production.
 

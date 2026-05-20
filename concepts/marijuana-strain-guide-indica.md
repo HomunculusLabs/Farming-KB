@@ -7,7 +7,7 @@ tags: [cannabis, beginner, plants, species-profiles, ethnobotany, psychopharmaco
 sources: []
 ---
 
-## Marijuana Strain Guide — Indica
+# Marijuana Strain Guide — Indica
 
 ## Overview
 
@@ -25,7 +25,7 @@ Indica plants are compact, bushy, and well-suited for confined growing spaces. K
 - Thick resin production
 - Strong, pungent aroma
 
-The compact growth habit makes indicas ideal for [[cannabis-indoor-growing-basics]] where vertical space is limited. Their shorter flowering time also means faster harvests.
+The compact growth habit makes indicas ideal for [[cannabis-indoor-growing-basics|indoor cultivation]] where vertical space is limited. Their shorter flowering time also means faster harvests.
 
 ## Effects Profile
 
@@ -44,7 +44,7 @@ These effects are often described as "couch-lock" at higher doses. Indicas typic
 
 ### Northern Lights
 
-One of the most famous and foundational indica strains. Pure indica genetics from Afghanistan. Extremely resinous with a sweet, earthy aroma. Known for fast flowering (6-7 weeks), ease of growth, and powerful body high. Has been used extensively in [[cannabis-breeding-basics]] and appears in countless hybrid crosses.
+One of the most famous and foundational indica strains. Pure indica genetics from Afghanistan. Extremely resinous with a sweet, earthy aroma. Known for fast flowering (6-7 weeks), ease of growth, and powerful body high. Has been used extensively in [[cannabis-breeding-basics|breeding programs]] and appears in countless hybrid crosses.
 
 ### Granddaddy Purple (GDP)
 
@@ -56,7 +56,7 @@ While technically a hybrid, OG Kush expresses strong indica-dominant effects. Ea
 
 ### Afghan Kush
 
-A pure landrace indica from the Hindu Kush mountains. Used for hashish production for centuries. Extremely resinous with earthy, hash-like flavor. Short flowering time and hardy genetics make it excellent for [[cannabis-outdoor-growing]] in temperate climates.
+A pure landrace indica from the Hindu Kush mountains. Used for hashish production for centuries. Extremely resinous with earthy, hash-like flavor. Short flowering time and hardy genetics make it excellent for [[cannabis-outdoor-growing|outdoor growing]] in temperate climates.
 
 ### Blueberry
 
@@ -72,11 +72,11 @@ Indicas are generally considered easier to grow than sativas, making them popula
 
 ### Light Requirements
 
-Indicas are more forgiving with light intensity than sativas. They perform well under a range of lighting setups in [[cannabis-indoor-growing-basics]]. During flowering, 12/12 light schedule triggers bud production reliably.
+Indicas are more forgiving with light intensity than sativas. They perform well under a range of lighting setups in [[cannabis-indoor-growing-basics|indoor environments]]. During flowering, 12/12 light schedule triggers bud production reliably.
 
 ### Nutrient Needs
 
-Indicas tend to be heavier feeders than sativas, particularly during the flowering stage when bud development demands significant phosphorus and potassium. They respond well to nutrient-dense growing methods including [[cannabis-living-soil-guide]] systems.
+Indicas tend to be heavier feeders than sativas, particularly during the flowering stage when bud development demands significant phosphorus and potassium. They respond well to nutrient-dense growing methods including [[cannabis-living-soil-guide|living soil]] systems.
 
 ### Flowering Time
 
@@ -101,7 +101,7 @@ Indica strains are generally best suited for:
 - Anxiety and stress relief
 - Muscle spasms and tremors
 - Appetite stimulation for medical patients
-- Post-workout [[cannabis-and-exercise-recovery]] for deep relaxation
+- Post-workout [[cannabis-and-exercise-recovery|recovery]] for deep relaxation
 
 ## Terpene Profile
 
@@ -129,11 +129,11 @@ Patients commonly use indica strains for:
 
 ## Choosing Quality Indica Genetics
 
-When selecting indica strains from [[cannabis-seed-banks-and-genetics]], consider:
+When selecting indica strains from [[cannabis-seed-banks-and-genetics|seed banks]], consider:
 
 - Purity of indica lineage vs. hybrid ratio
 - Expected yield and flowering time
 - Resistance to mold and pests
 - Terpene profile for desired flavor and effects
 - Cannabinoid ratios (THC:CBD)
-- Suitability for your growing environment and [[cannabis-regulations-by-state]]
+- Suitability for your growing environment and [[cannabis-regulations-by-state|local regulations]]

@@ -7,7 +7,7 @@ tags: [gardening, agriculture, timeline, vegetables, annual-calendar, cultivatio
 sources: []
 ---
 
-## Succession Planting
+# Succession Planting
 
 Succession planting is the practice of staggering plantings of the same or different crops throughout the growing season to ensure continuous harvests and maximize garden productivity. Rather than planting everything at once and harvesting all at once, succession planting spreads production across weeks and months.
 
@@ -42,7 +42,7 @@ Planting a new crop immediately after harvesting the previous one in the same sp
 |------------|------------|-----------|
 | Peas | Peppers or eggplant | Garlic |
 | Lettuce | Bush beans | Spinach |
-| Radishes | Summer squash | [[cover-crop]] |
+| Radishes | Summer squash | Cover crop |
 | Spinach | Tomatoes | Kale |
 | Beets | Sweet corn | Carrots |
 | Onions (sets) | Cucumbers | Broccoli |
@@ -147,3 +147,34 @@ Plant in fall for early spring harvest:
 - Interplant fast crops (radishes) between slow crops (carrots, parsnips)
 - Use [[cover-cropping-guide]] for any period longer than 4 weeks between cash crops
 - Keep a garden journal recording actual planting and harvest dates to refine future plans
+
+## Regional Considerations
+
+### Short-Season Climates (100-150 frost-free days)
+
+- Focus on fast-maturing varieties (look for "early" in variety names)
+- Use season extension structures to extend both ends of the season
+- Maximize succession plantings of quick crops (radishes, lettuce, beans)
+- Choose day-neutral varieties that do not require long days to mature
+
+### Long-Season Climates (200+ frost-free days)
+
+- Extended succession planting windows for most crops
+- Multiple plantings of determinate tomatoes for staggered harvest
+- Summer cover crops between spring and fall plantings
+- Overwintering crops possible without heavy protection
+
+### Mild Winter Climates (Zones 8-10)
+
+- Year-round gardening possible with minimal protection
+- Winter succession plantings of cool-season crops
+- Summer may be too hot for some crops — use shade cloth or take a summer break
+- Two distinct growing seasons: cool (fall-winter-spring) and warm (spring-summer)
+
+## Related Topics
+
+- [[winter-gardening-techniques]] for cold-season growing methods
+- [[season-extension-techniques]] for protecting crops from cold
+- [[seed-starting-reference]] for starting transplants on schedule
+- [[intercropping-systems]] for combining crops in space and time
+- [[cover-cropping-guide]] for filling gaps between cash crops

@@ -22,7 +22,7 @@ Heterotrophic leaching is the fungal dissolution of metals from ores, industrial
 ### Fungal Genera Involved
 
 Key leaching fungi include:
-- [[mycoremediation-heavy-metals]]
+- [[mycoremediation-of-heavy-metals]]
 - [[fungal-treatment-of-textile-dyes-mechanisms]]
 ## Practical Applications
 

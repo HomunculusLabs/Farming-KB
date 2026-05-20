@@ -7,7 +7,7 @@ tags: [entheogen, chemistry, preparation, lab-technique, cacti, psychopharmacolo
 sources: []
 ---
 
-## Mescaline Extraction Guide
+# Mescaline Extraction Guide
 
 ## Overview
 
@@ -140,10 +140,20 @@ All doses below are for mescaline hydrochloride:
 
 Note: Mescaline sulfate and acetate have different molecular weights, so adjust doses accordingly.
 
-## See Also
+Onset: 45–90 minutes. Peak: 2–4 hours. Duration: 8–12 hours.
 
-- [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]]
-- [[turner-mescaline]]
-- [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]
-- [[schultes-peyote-and-mescaline]]
-- [[mescaline-peyote-san-pedro-cactus]]
+## Safety Considerations
+
+- Mescaline produces a long-duration experience — plan for 12+ hours
+- Nausea during onset is common and sometimes severe
+- Cardiovascular effects include increased heart rate and blood pressure
+- Not recommended for people with heart conditions, schizophrenia, or bipolar disorder
+- NaOH and solvents are hazardous — use proper safety equipment
+- Xylene and toluene are toxic and flammable — adequate ventilation is critical
+- See [[psychedelic-plants-legal-status]] for legal status
+- See [[san-pedro-cactus-preparation]] for non-extraction cactus preparation
+
+## Related Topics
+
+- [[san-pedro-cactus-preparation]] — traditional San Pedro preparation without chemistry
+- [[peyote-ceremony-guide]] — traditional peyote use and ceremony

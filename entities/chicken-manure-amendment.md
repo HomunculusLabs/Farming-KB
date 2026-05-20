@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-[[chicken-manure]] is a [[hamilton-concentrated-organic-fertilizer-products]] widely used in [[dryland-vegetable-gardening]]. In bagged form (somewhat composted but not labeled "compost"), it is significantly more nutrient-dense than steer manure and serves as the intermediate-tier amendment in Steve Solomon's [[soil-fertility-gradient-approach]]. Solomon used bagged chicken manure (NPK 4-3-2) as his primary fertilizer before switching to his proprietary [[complete-organic-fertilizer]] (COF) blend.
+[[chicken-manure]] is a [[hamilton-concentrated-organic-fertilizer-products]] widely used in [[dryland-vegetable-gardening]]. In bagged form (somewhat composted but not labeled "compost"), it is significantly more nutrient-dense than steer manure and serves as the intermediate-tier amendment in Steve Solomon's [[soil-fertility-gradient-approach]]. Solomon used bagged chicken manure (NPK 4-3-2) as his primary fertilizer before switching to his proprietary [[complete-organic-fertilizer-cof]] (COF) blend.
 
 ## Classification
 

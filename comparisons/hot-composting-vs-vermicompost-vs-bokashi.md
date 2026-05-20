@@ -1,4 +1,5 @@
 ---
+
 title: Hot Composting vs Vermicompost vs Bokashi
 created: 2026-04-11
 updated: 2026-04-12
@@ -24,7 +25,7 @@ sources:
 - concepts/bokashi.md
 ---
 
-## Hot Composting vs Vermicompost vs Bokashi
+# Hot Composting vs Vermicompost vs Bokashi
 
 Three composting approaches suited to different scales, inputs, and timelines on a homestead. Each has distinct strengths — most homesteads benefit from running all three in parallel.
 

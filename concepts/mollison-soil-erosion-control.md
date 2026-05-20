@@ -106,7 +106,7 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mollison-arid-lands-aquatic-species]]
 - [[mollison-orographic-and-forest-rainfall-effects]]
 - [[mollison-spiral-patterns-in-nature-and-design]]
-- [[soil-ph-nutrient-availability-mollison]]
+- [[soil-ph-and-nutrient-availability]]
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.

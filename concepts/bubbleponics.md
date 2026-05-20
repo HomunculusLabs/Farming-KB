@@ -2,7 +2,7 @@
 title: Bubbleponics for Cannabis
 created: 2026-04-26
 updated: 2026-04-23
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [reference]

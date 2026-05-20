@@ -1,18 +1,17 @@
 ---
-title: "PF TEK Vermiculite Type Comparison: Water Holding Capacity and Substrate Performance"
-tags:
-  - concept
+title: "Pf Tek Vermiculite Type Comparison Water Holding Capacity"
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 ## Overview
 
-The type of vermiculite used in the PF TEK [[pf-tek-psilocybe-fanaticus-cultivation-method]] explicitly addressed vermiculite selection in the PF TEK instructions, noting that vermiculite particle size varies considerably between brands and that the coarser type holds less water than the finer type. This variation is critical because the PF TEK substrate relies on vermiculite as both the structural base and the primary water reservoir for [[cho-brown-rice-vinegar-preparation]] method improved by using vermiculite as a base and adding pulverized brown rice on top. The vermiculite serves several critical functions:
+The type of [[vermiculite]] used in the [[pf-tek]] [[pf-tek-psilocybe-fanaticus-cultivation-method]] explicitly addressed vermiculite selection in the PF TEK instructions, noting that vermiculite particle size varies considerably between brands and that the coarser type holds less water than the finer type. This variation is critical because the PF TEK substrate relies on vermiculite as both the structural base and the primary water reservoir for [[cho-brown-rice-vinegar-preparation]] method improved by using vermiculite as a base and adding pulverized brown rice on top. The vermiculite serves several critical functions:
 
 1. **Air space creation:** When mycelium is cultured in just grain, it turns into a dense mass with little air space. Vermiculite creates air gaps that allow mycelial threads to stretch across space rather than compacting
 2. **Water reservoir:** The expanded mineral structure of vermiculite absorbs and retains water, providing consistent moisture to the growing mycelium
 3. **Contaminant barrier:** A [[pf-tek-dry-vermiculite-contaminant-barrier]] layer on top of the substrate protects the wet substrate from airborne contaminants (a key PF innovation)
-4. **Moisture regulation:** The top vermiculite layer absorbs and regulates moisture transpiration and condensation within the jar
-5. **Structural support:** Provides the physical matrix that holds the brown rice powder and water together
+4. **Moisture regulation:** The top vermiculite layer absorbs and regulates moisture [[transpiration]] and condensation within the jar
+5. **Structural support:** Provides the physical matrix that holds the [[brown-rice-powder]] and water together
 
 ## Vermiculite Types
 

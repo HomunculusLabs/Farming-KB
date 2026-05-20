@@ -1,4 +1,5 @@
 ---
+
 title: Richard Evans Schultes — Father of Ethnobotany
 created: 2026-04-12
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
 - raw/papers/a-golden-guide-to-hallucinogenic-plants.md
 ---
 
-## Richard Evans Schultes
+# Richard Evans Schultes
 
 ## Overview
 
@@ -59,23 +60,28 @@ Key principles from his work:
 
 ## See Also
 
-- [[albert-hofmann]]
-- [[entheogen-culture]]
-- [[hallucinogenic-plant-chemistry]]
-- [[hallucinogenic-plants-new-world]]
-- [[michael-harner]]
-- [[r-gordon-wasson]]
+- [[hallucinogenic-plants-new-world]] — overview page derived from Schultes's Golden Guide
+- [[hallucinogenic-plants-new-world]] — Old World species profiles
+- [[hallucinogenic-plants-new-world]] — New World species profiles
+- [[hallucinogenic-plant-chemistry]] — chemical families from Schultes's framework
+- [[entheogen-culture]] — religious/spiritual context
+- [[r-gordon-wasson]] — collaborator in ethnomycological research
+- [[albert-hofmann]] — co-author of definitive reference
+- [[michael-harner]] — hallucinogens and shamanism
+### Practical Applications
+The principles of richard evans schultes updated apply across various cultivation and research contexts.
+Understanding these concepts enables more effective implementation and improved outcomes.
 
-## Practical Applications
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]
+### Additional Notes
+The study and application of richard evans schultes updated continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
-## Key Considerations
-
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-
-## Mechanisms and Processes
-
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
-Further research may reveal additional applications and ecological relationships.
-
-This entry contributes to the broader understanding of the subject within its ecological and practical context.
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

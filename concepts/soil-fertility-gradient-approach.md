@@ -20,7 +20,7 @@ If the gardener has composted [[chicken-manure]] available, even better — a th
 
 ## The COF Level (Complete Organic Fertilizer)
 
-A substantial improvement comes from replacing or supplementing manure with **[[complete-organic-fertilizer]] (COF)**. COF is a potent, balanced mixture of seed meals, agricultural lime (or dolomite), gypsum, and bone meal (or rock phosphate) that provides all the major and minor nutrients plants need. The recommended application rate is approximately **1 quart per 100 square feet** (about 4–6 liters per 10 m²), mixed into the top few inches of soil.
+A substantial improvement comes from replacing or supplementing manure with **[[complete-organic-fertilizer-cof]] (COF)**. COF is a potent, balanced mixture of seed meals, agricultural lime (or dolomite), gypsum, and bone meal (or rock phosphate) that provides all the major and minor nutrients plants need. The recommended application rate is approximately **1 quart per 100 square feet** (about 4–6 liters per 10 m²), mixed into the top few inches of soil.
 
 COF is far more economical and effective per dollar than purchasing bulk manure, and it avoids the risk of applying excessive organic matter that can unbalance soil mineral ratios.
 

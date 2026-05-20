@@ -104,7 +104,7 @@ Fill bin 1 in year 1, bin 2 in year 2, while bin 3 cures. Allows continuous fill
 
 Thermophilic composting relies on successive waves of microorganisms:
 
-1. **[[psychrophilic-bacteria]]** — Active below 68F, initiate decomposition
+1. **Psychrophilic bacteria** — Active below 68F, initiate decomposition
 2. **Mesophilic bacteria and fungi** — Active 70-100F, dominate early decomposition
 3. **Thermophilic bacteria** — Active 105-170F, drive pathogen destruction. Key genera include Bacillus, Thermus, and Thermomonospora
 4. **Thermophilic fungi** — Active up to 140F, contribute to cellulose breakdown
@@ -131,8 +131,8 @@ Minimum recommended curing time is one year. Two years provides an additional ma
 Finished humanure compost is a valuable soil amendment:
 
 - Nutrient content comparable to other composts (NPK roughly 1-1-1)
-- High in humic acids, [[forest-and-bamboo-beneficial-microorganisms]], and trace minerals
-- Improves soil structure, water retention, and [[cation-exchange-capacity]]
+- High in humic acids, beneficial microorganisms, and trace minerals
+- Improves soil structure, water retention, and cation exchange capacity
 - Application rate: 1-2 inches worked into garden beds, or top-dressed around perennials
 
 Best practices suggest applying to fruit trees, berry bushes, and ornamental plants first. Application to root crops and leafy vegetables is safe after proper composting but may face greater social resistance.

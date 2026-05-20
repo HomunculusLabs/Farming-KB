@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Fungal Diversity in Cave and Subterranean Environments Caves and subterranean environments represent unique fungal habitats characterized by constant temperature, high humidity, darkness, and limited organic matter input. These conditions select for specialized fungal communities adapted to perpetual darkness and oligotrophic conditions. [[arbuscule-isolation-metabolic-activity-assays]] on minimal substrate availability.
 

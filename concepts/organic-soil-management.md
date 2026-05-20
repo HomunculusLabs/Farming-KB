@@ -1,4 +1,5 @@
 ---
+
 title: Organic Soil Management
 created: 2026-04-11
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
   - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 ---
 
-## Organic Soil Management
+# Organic Soil Management
 
 Comprehensive approach to building and maintaining healthy soil without synthetic chemicals. Based on Geoff Hamilton's organic gardening methods. See [[geoff-hamilton-organic-techniques]] for the full organic system and [[no-till-gardening-method]] for minimum-disturbance approaches.
 
@@ -100,22 +101,3 @@ Sources of organic matter ranked by availability and value:
 - [[no-till-gardening-method]] -- Minimum disturbance soil management
 - [[cannabis-living-soil-guide]] -- Soil biology and food web
 - [[soil-fertility-management]] -- Organic nutrient management
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-
-These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

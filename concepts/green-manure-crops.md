@@ -7,7 +7,7 @@ tags: [cover-crop, soil, regenerative, compost, fertilizer, nutrient-cycling, ag
 sources: []
 ---
 
-## Green Manure Crops
+# Green Manure Crops
 
 Green manure crops are plants grown specifically to be incorporated into the soil while still green, adding organic matter, nitrogen, and biological activity. Unlike cover crops that may be terminated on the surface, green manures are typically tilled or dug in. They are a cornerstone of organic fertility management.
 
@@ -140,6 +140,6 @@ Balanced green manure mixes combine nitrogen fixers with biomass builders:
 ## Related Topics
 
 - [[cover-cropping-guide]] for comprehensive cover crop families and regional guidance
-- [[biochar-in-agriculture|biochar]] for soil amendment pairing with green manures
+- [[biochar-in-agriculture|biochar]]] for soil amendment pairing with green manures
 - [[crop-rotation-principles]] for fitting green manures into rotations
 - [[companion-planting-reference]] for intercropping with cash crops

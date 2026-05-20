@@ -1,7 +1,7 @@
 ---
 title: "Amanita Muscaria Cultural History"
 tags: []
-sources: []
+sources: [raw/papers/amanita-muscaria-herb-of-immortality.md]
 ---
 
 ## Amanita Muscaria: Cultural History and Pharmacology

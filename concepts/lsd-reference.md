@@ -7,7 +7,7 @@ tags: [entheogen, psychopharmacology, chemistry, pharmacology, consciousness, co
 sources: []
 ---
 
-## LSD Reference
+# LSD Reference
 
 LSD (lysergic acid diethylamide) is one of the most potent psychoactive substances known. Discovered by Swiss chemist Albert Hofmann in 1938, it became the defining psychedelic of the 20th century counterculture and remains one of the most extensively studied psychedelics in modern psychiatric research. A single dose measured in micrograms can produce profound alterations in consciousness lasting 8-12 hours.
 
@@ -141,10 +141,50 @@ Note: underground LSD potency is notoriously unreliable. Testing with an Ehrlich
 
 ## Safety Profile
 
+- Very high therapeutic index (LD50 estimated at 12,000+ μg — ~100x a strong dose)
+- No confirmed human deaths from LSD overdose alone
+- Primary risks are psychological, not physiological
+
+### Contraindications
+
+- Personal or family history of schizophrenia or psychotic disorders
+- Pregnancy, cardiovascular disease
+- Current SSRI use (reduces effects; stopping SSRIs carries its own risks)
+- Lithium use (increased seizure risk)
+- MAOIs (increased and prolonged effects)
+
+### Harm Reduction
+
+- Test substance (Ehrlich reagent for indole presence)
+- Start with low dose; prepare set and setting (calm mindset, safe environment)
+- Trusted sitter present, especially at higher doses
+- Avoid mixing with alcohol, stimulants, or other substances
+- Stay hydrated, eat light food, allow recovery time (max once per 1-2 weeks)
+- Integration: journaling, meditation, or therapy after the experience
+
+## Legal Status
+
+- United States: Schedule I under the Controlled Substances Act (since 1970)
+- United Nations: Schedule I under the 1971 Convention on Psychotropic Substances
+- Canada: Schedule III
+- United Kingdom: Class A
+- Most countries worldwide: Schedule I or equivalent (prohibited)
+
+## Modern Research
+
+Current clinical investigation areas:
+- Treatment-resistant depression
+- End-of-life anxiety in terminal illness
+- Cluster headache and migraine
+- PTSD and alcohol use disorder
+- Microdosing (controversial — mixed placebo-controlled trial results)
+
 ## See Also
 
-- [[cover-crop-quick-reference]]
-- [[seed-starting-reference]]
-- [[cactus-alkaloids-reference]]
-- [[ketamine-reference]]
-- [[mescaline-reference]]
+- [[mescaline-reference]] for comparison with a phenethylamine psychedelic
+- [[psilocybin-pharmacology-detail]] for tryptamine psychedelic pharmacology
+- [[mdma-reference]] for comparison with an empathogen-entactogen
+
+## Related
+
+- [[lsd-synthesis-history]]

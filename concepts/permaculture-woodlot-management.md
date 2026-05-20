@@ -4,7 +4,7 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [permaculture, design]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Permaculture Woodlot Management A [[permaculture-design]] approach, the bark and small branch material removed during splitting can be chipped for mulch rather than discarded. This closes the nutrient cycle and returns [[fukuoka-citrus-orchard-ground-cover-cultivation]] supports a rich diversity of wildlife. Permaculture woodlot management explicitly values this ecological function alongside wood production.
 

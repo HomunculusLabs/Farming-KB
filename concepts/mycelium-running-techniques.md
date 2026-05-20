@@ -8,7 +8,7 @@ sources:
   - raw/papers/mycelium-running-stamets.md
 ---
 
-## Mycelium Running — Techniques & Spawn Preparation
+# Mycelium Running — Techniques & Spawn Preparation
 
 Practical cultivation methods from *Mycelium Running* by [[paul-stamets]]. Covers inoculation, spawn preparation, and deployment for both food production and mycorestoration.
 
@@ -25,7 +25,7 @@ Practical cultivation methods from *Mycelium Running* by [[paul-stamets]]. Cover
 - Take a piece of internal flesh from a fresh mushroom
 - Place on sterilized agar media in a petri dish
 - Captures the exact genetic composition of the parent mushroom
-- Requires [[cultivator-sterile-technique-and-agar-culture]] a clean workspace
+- Requires sterile technique and a clean workspace
 - Best for: replicating exceptional specimens, commercial production
 
 ### From Stem Butts
@@ -93,13 +93,13 @@ Layered construction for filtering water (see [[mycoremediation-techniques]]):
 | Stropharia rugoso-annulata | Wood chips, straw | 60-80°F | 2-6 months | Garden giant; loves bacteria |
 | Pleurotus ostreatus | Straw, corncobs, paper | 55-80°F | 2-4 weeks | Very aggressive; multiple flushes |
 | Lentinula edodes (Shiitake) | Hardwood logs, sawdust | 55-75°F | 6-18 months | Needs cold shock to fruit |
-| [[grifola-frondosa]] (Maitake) | Oak logs, buried wood | 55-70°F | 6-12 months | Difficult to cultivate |
+| Grifola frondosa (Maitake) | Oak logs, buried wood | 55-70°F | 6-12 months | Difficult to cultivate |
 | Ganoderma lucidum (Reishi) | Hardwood, supplemented sawdust | 70-85°F | 2-4 months | Medicinal; antiviral, anticancer |
 | Trametes versicolor (Turkey tail) | Wood chips, logs | 60-80°F | 2-6 months | Medicinal; PSK/PSP anticancer |
 
 ## Sterile Technique Essentials
 
-For tissue cloning and [[cotter-grain-spawn-production]]:
+For tissue cloning and grain spawn production:
 - Work in a still-air box or laminar flow hood
 - Flame-sterilize tools between transfers
 - Use 70% isopropyl alcohol for surface sterilization
@@ -111,17 +111,4 @@ For tissue cloning and [[cotter-grain-spawn-production]]:
 - [[garden-mushroom-growing]] for companion planting strategies
 - [[mycoremediation-techniques]] for pollution cleanup deployment
 - [[fungal-pest-control]] for insect control applications
-- [[mycorestoration]] for the broader framework
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
+- [[mycorestoration-overview]] for the broader framework

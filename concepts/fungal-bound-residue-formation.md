@@ -4,7 +4,7 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 ## Fungal Bound Residue Formation in Soil Bioremediation Bound residue formation is a significant but often overlooked mechanism in fungal soil bioremediation. When organic pollutants are transformed by fungi, a portion of the products becomes irreversibly incorporated into soil organic matter (humus), forming non-extractable residues that represent an important detoxification pathway. ## Definition and Significance Bound residues are defined as chemical compounds originating from pesticides or other pollutants that persist in soil in structures unextractable by methods that do not substantially alter the chemical structure of the compounds themselves. In fungal bioremediation, bound residues form when reactive intermediates generated during [[singh-fungal-oxidation-petroleum-enzymes]] are highly reactive electrophiles that undergo Michael addition with humic acid nucleophiles
 

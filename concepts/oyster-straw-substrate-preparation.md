@@ -10,7 +10,7 @@ type: concept
 
 ## Straw Substrate Preparation for Oyster Mushrooms
 
-Straw has long been favored as a substrate for oyster [[non-sterilized-wheat-straw-oyster-cultivation]], rice straw, and [[amanita-muscaria-preparation-methods]] vary
+Straw has long been favored as a substrate for oyster [[non-sterilized-wheat-straw-oyster-cultivation]], rice straw, and [[amanita-preparation-methods]] vary
 considerably by region, reflecting local traditions, available equipment, and
 climatic conditions.
 

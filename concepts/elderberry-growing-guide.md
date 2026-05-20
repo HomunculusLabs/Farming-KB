@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, pruning, harvesting, pro
 sources: []
 ---
 
-## Elderberry Growing Guide (Sambucus nigra / S. canadensis)
+# Elderberry Growing Guide (Sambucus nigra / S. canadensis)
 
 ## Overview
 
@@ -140,11 +140,48 @@ Berries:
 - Harvest when berry clusters are fully dark purple-black, usually August to
   September depending on variety and location
 - Test a few berries for sweetness; ripe berries detach easily from the stem
+- Cut entire clusters with pruning shears
+- Harvest in dry weather; wet berries are more prone to mold
+- Process or freeze within 24 hours of harvest
+
+Elderflowers:
+- Harvest in early to mid-summer when flower umbels are fully open
+- Pick on a dry morning after dew has dried
+- Use fresh for cordials, fritters, and tea, or dry for later use
+
+## Processing and Storage
+
+- Remove berries from stems using a fork or specialized destemming tool
+- Do not include any green (unripe) berries or stems
+- Cook berries before use (essential for safety)
+- Freeze cleaned berries on sheet trays, then transfer to bags for long-term
+  storage
+- Dried berries: Dehydrate at 130-140 degrees F until leathery; store in
+  airtight containers
+- Syrup: Refrigerate up to 3 months; freeze for up to 6 months
+
+## Pests and Diseases
+
+- Elderberry borer: The most serious pest. Larvae tunnel in stems causing
+  wilting. Remove and destroy affected canes.
+- Japanese beetles: Defoliate plants. Handpick or use neem.
+- Cane borers: Similar to elderberry borer; prune out affected canes.
+- Powdery mildew: Ensure good air circulation; resistant varieties available.
+- Birds: Net bushes as berries ripen, or plant enough to share.
+- Tomatoes and peppers nearby can attract pests to elderberries -- maintain
+  spacing.
+
+## Yields
+
+- Year 2: Small harvest (1-2 lbs per plant)
+- Year 3+: 8-15 lbs of berries per mature plant
+- A mature hedgerow can produce substantial quantities for family use and
+  value-added products
 
 ## See Also
+- [[onion-growing-guide]]
 
-- [[comparison-elderberry-vs-gooseberry-vs-currant]]
-- [[comparison-serviceberry-vs-elderberry-vs-aronia]]
-- [[comparison-elderberry-vs-echinacea]]
-- [[elderberry-cultivation-and-variety-guide]]
-- [[hamilton-greenhouse-polytunnel-growing]]
+- [[hawthorn-berry-guide]] -- another berry-producing medicinal shrub for
+  the homestead
+- [[echinacea-growing-guide]] -- combine with elderberry for comprehensive
+  immune support

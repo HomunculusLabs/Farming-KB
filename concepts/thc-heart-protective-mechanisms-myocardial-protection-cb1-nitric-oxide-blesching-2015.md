@@ -2,7 +2,7 @@
 title: "Thc Heart Protective Mechanisms Myocardial Protection Cb1 Nitric Oxide Blesching 2015"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 ## Mechanism 1: Reduction of Heart Attack Size

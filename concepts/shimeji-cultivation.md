@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, cultivation, indoor, species, food, asia]
 sources: []
 ---
 
-## Shimeji Cultivation Guide (Hypsizygus tessulatus)
+# Shimeji Cultivation Guide (Hypsizygus tessulatus)
 
 Shimeji refers to a group of cultivated mushrooms in the genus Hypsizygus, primarily H. tessulatus (also known as H. marmoreus), which includes both brown (Buna-shimeji) and white (Hakata-shimeji or Bunapi) varieties. Shimeji is a premium mushroom in Japanese cuisine and one of the most commercially important cultivated mushrooms in East Asia.
 
@@ -43,7 +43,7 @@ True shimeji (Lyophyllum shimeji) is a different, mycorrhizal species that canno
 
 ## Cultivation Method: Bottle Culture
 
-Shimeji is commercially produced almost exclusively in bottles, following the same general method used for [[enoki-cultivation]] and [[nameko-cultivation]].
+Shimeji is commercially produced almost exclusively in bottles, following the same general method used for [[enoki-cultivation-guide]] and [[nameko-cultivation]].
 
 ### Substrate Formula
 
@@ -140,10 +140,45 @@ Grading standards:
 
 ## Post-Harvest Storage
 
-## See Also
+Shimeji has one of the best shelf lives among cultivated mushrooms:
 
-- [[growing-gourmet-buna-shimeji-hypsizygus-cultivation]]
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[solomon-sweet-potato-cultivation-guide]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[species-specific-fruiting-timelines-grass-seed-cultivation]]
+- Refrigerated (35-38 F): 14-21 days
+- Store in breathable packaging
+- The firm texture resists deterioration
+- Brown variety: color darkens slightly but quality maintained
+- White variety: may yellow if stored too warm
+- Freezing: not recommended (texture degrades significantly)
+- Drying: possible but uncommon; fresh use preferred
+
+## Culinary Applications
+
+Shimeji is versatile and widely used in Japanese cuisine:
+
+- Best cooked thoroughly — raw shimeji has a bitter taste
+- Stir-fried with butter, garlic, and soy sauce
+- In miso soup and nabemono (hot pot)
+- Tempura batter-fried
+- Pasta dishes (pairs well with cream sauces)
+- As a topping for pizza, rice bowls, and noodle dishes
+- The firm texture holds up well to cooking and does not become mushy
+
+## Common Problems
+
+- Poor pinning: inadequate cold shock or surface not properly scraped
+- Uneven clusters: uneven scraping or temperature variation
+- Bacterial contamination: improve sterilization; shimeji is moderately susceptible
+- Small clusters: insufficient thinning — too many pins competing
+- Brown color on white variety: temperature too high during fruiting
+- Slow colonization: old spawn or low incubation temperature
+
+## Related Topics
+
+- [[enoki-cultivation-guide]] for another bottle-cultivated Japanese mushroom
+- [[nameko-cultivation]] for cold-shock fruiting techniques
+- [[oyster-mushroom-species-guide]] for species cultivated on similar substrates
+- [[mushroom-substrates]]
+- [[mushroom-grow-room-design]]
+- [[grain-spawn-preparation]]
+- [[oyster-mushroom-cultivation]]
+- [[mushroom-cultivation-basics]]
+- [[mushroom-cultivation-fruiting-chambers]]

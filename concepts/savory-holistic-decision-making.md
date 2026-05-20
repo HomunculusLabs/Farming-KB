@@ -2,7 +2,7 @@
 title: "Savory Holistic Decision Making"
 type: concept
 tags: []
-sources: []
+sources: [papers/savory-holistic-resource-management.md]
 ---
 
 ## The Three-Part Goal

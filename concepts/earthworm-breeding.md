@@ -7,7 +7,7 @@ tags: [permaculture, earthworm, compost, living-soil, vermicompost, soil-biology
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-## Earthworm Breeding
+# Earthworm Breeding
 
 Earthworms are among the most important helpers in every garden. Breeding them is inexpensive, requires very little time, and produces high-quality compost while disposing of organic waste.
 
@@ -18,8 +18,8 @@ Three main species complement each other in their work:
 | Species | Habitat | Function |
 |---------|---------|----------|
 | Brandling worm (Eisenia foetida) | Epigeal — lives on soil surface | Processes large amounts of organic material, provides the best compost. Dark red with distinctive yellow bands. |
-| Red earthworm ([[lumbricus-rubellus]]) | Surface in youth, burrows into deeper layers as adult | Aerates soil, produces nutrient-rich compost. No distinctive banding. |
-| Common earthworm ([[lumbricus-terrestris]]) | Creates burrows at depths up to 3 metres | Creates drainage system, aerates soil deeply. The "typical" earthworm. |
+| Red earthworm (Lumbricus rubellus) | Surface in youth, burrows into deeper layers as adult | Aerates soil, produces nutrient-rich compost. No distinctive banding. |
+| Common earthworm (Lumbricus terrestris) | Creates burrows at depths up to 3 metres | Creates drainage system, aerates soil deeply. The "typical" earthworm. |
 
 ## Benefits of Earthworms
 
@@ -53,8 +53,8 @@ The soil should be loose and well aerated.
 
 - Any cooking waste can be used as food
 - Onions and garlic should be avoided — worms do not seem to like them
-- Worms particularly like used coffee filters complete with [[oyster-mushroom-coffee-grounds-cultivation]]
-- Provide a regular supply of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
+- Worms particularly like used coffee filters complete with coffee grounds
+- Provide a regular supply of organic matter
 - Adjust the amount of food to the number of earthworms
 - If worms can break down food as quickly as new food accumulates, the rate is optimal
 - This prevents harmful build-ups of mould
@@ -78,7 +78,7 @@ In greenhouses, worms can be bred directly in the soil instead of boxes: cover t
 
 ## Using Worm Products
 
-- Scatter bred worms along with soil and worm eggs over new terraces [[sepp-holzer-terrace-systems-and-raised-beds]] (in the evening, during wet weather)
+- Scatter bred worms along with soil and worm eggs over new terraces and raised beds (in the evening, during wet weather)
 - Use nutrient-rich, fine crumbly worm humus for especially valuable and demanding plants
 - Also suitable for flowers on balconies
 
@@ -94,30 +94,3 @@ In greenhouses, worms can be bred directly in the soil instead of boxes: cover t
 - [[holzer-raised-bed-design]]
 - [[holzer-balcony-garden]]
 - [[polyculture-design-holzer]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.

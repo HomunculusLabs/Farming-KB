@@ -13,9 +13,9 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-## Permaculture Insectary Plants
+# Permaculture Insectary Plants
 
-Insectary plants are those specifically included in a design to attract, shelter, and sustain [[beneficial-insects-and-biological-pest-control]] -- predators and pollinators that provide [[biological-pest-control-balance]] and crop pollination services. Throughout the Designers' Manual, Mollison emphasises that any innovative designer can see ways to add "a vine, a fungus, a beneficial insect" to a seemingly fully-planted area.
+Insectary plants are those specifically included in a design to attract, shelter, and sustain beneficial insects -- predators and pollinators that provide biological pest control and crop pollination services. Throughout the Designers' Manual, Mollison emphasises that any innovative designer can see ways to add "a vine, a fungus, a beneficial insect" to a seemingly fully-planted area.
 
 ## The Role of Beneficial Insects
 
@@ -34,13 +34,13 @@ These insects require specific habitat conditions: nectar and pollen sources (of
 The umbelliferae (Apiaceae) family is among the most important for attracting beneficial insects. Their shallow, open flower umbels provide easy access to nectar and pollen for tiny parasitic wasps. The Manual notes that when saving seed from any umbelliferous plant (fennel, parsley, parsnip, etc.), the strong mature seed from the terminal panicle germinates best, and these plants self-seed readily in garden systems.
 
 Key umbellifers for insectary use:
-- Fennel ([[foeniculum-vulgare-entity]]) -- self-seeds readily, perennial
-- Parsley ([[petroselinum-crispum]]) -- biennial, flowers in second year
+- Fennel (Foeniculum vulgare) -- self-seeds readily, perennial
+- Parsley (Petroselinum crispum) -- biennial, flowers in second year
 - Parsnip (Pastinaca sativa) -- biennial, left to flower provides major insectary value
-- Dill ([[anethum-graveolens]]) -- annual, attracts parasitic wasps
-- Coriander ([[coriandrum-sativum]]) -- annual, succession planting extends bloom period
+- Dill (Anethum graveolens) -- annual, attracts parasitic wasps
+- Coriander (Coriandrum sativum) -- annual, succession planting extends bloom period
 - Queen Anne's lace (Daucus carota) -- wild carrot, excellent insectary
-- Yarrow ([[achillea-millefolium]]) -- flat flower heads attract many beneficials
+- Yarrow (Achillea millefolium) -- flat flower heads attract many beneficials
 
 ### Composite Flowers
 
@@ -92,30 +92,3 @@ Perennial insectary hedges along garden edges and between crop zones provide per
 - [[permaculture-livestock-forage-systems]] -- Including bees as pollinators and honey producers
 - [[permaculture-forestry-systems]] -- Insectary plants in the understory of food forests
 - [[permaculture-introduction-and-ethics]] -- The ethical basis for working with natural systems
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.

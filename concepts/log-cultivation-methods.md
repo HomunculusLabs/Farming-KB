@@ -1,4 +1,5 @@
 ---
+
 title: Log Cultivation Methods — Growing Mushrooms on Logs and Stumps
 created: 2026-04-11
 updated: 2026-04-13
@@ -18,27 +19,8 @@ tags:
 sources:
 - raw/papers/mycelium-running-stamets.md
 ---
-title: Log Cultivation Methods — Growing Mushrooms on Logs and Stumps
-created: 2026-04-11
-updated: 2026-04-13
-type: concept
 
-tags:
-- fungi
-- mushrooms
-- cultivation
-- methods
-- wood-rot
-- fruit-tree
-- ph
-- fruiting
-- field-methods
-
-sources:
-- raw/papers/mycelium-running-stamets.md
----
-
-## Log Cultivation Methods
+# Log Cultivation Methods
 
 From Chapter 11 of *Mycelium Running* by [[paul-stamets]]. Growing mushrooms on logs and stumps is the most traditional and long-lasting cultivation method, producing for years or even decades.
 
@@ -53,7 +35,7 @@ The ideal trees are those the mushroom species grows upon naturally. Consult a f
 | Rapidly decomposing (alder, birch, aspen) | 6-12 months | Until bark peels | Fastest returns |
 | Medium density (oak, maple, elm) | 1-2 years | 4-7 years | Best balance |
 | Dense hardwoods (ironwood, hickory) | 2-3 years | 5-10 years | Longest production |
-| Cedar, redwood | 20+ years (aged) | Unknown | Only [[hypholoma-capnoides]] known to work |
+| Cedar, redwood | 20+ years (aged) | Unknown | Only Hypholoma capnoides known to work |
 
 ### Key Principles
 - Oak is the natural host for shiitake, but alder, eucalyptus, and other fast-decomposing hardwoods are readily colonized
@@ -97,7 +79,7 @@ The standard method for homeowners and small-scale growers:
 
 ### Combination Method
 Using multiple inoculation strategies simultaneously:
-- Spores in chain-saw bar oil + plug/[[sawdust-spawn]] of matching strain
+- Spores in chain-saw bar oil + plug/sawdust spawn of matching strain
 - Overcomes resistance barriers through synergistic complementary inoculations
 - Recommended when single methods fail
 
@@ -140,7 +122,52 @@ Using multiple inoculation strategies simultaneously:
 
 ### Method
 1. Select fresh stumps with bright, homogeneous wood color (no fungal activity or preexisting mushrooms)
+2. Use plug spawn, sawdust spawn, rope spawn, or spored oils — separately or in combination
+3. For plug/sawdust: drill into the stump face and around the sides near the ground line
+4. For rope spawn: place myceliated rope into chainsaw cuts
+5. Cover inoculation sites with fresh wood chips to retain moisture
+6. Patience: may take several years before first fruiting
+
+### Stump Inoculation Tips
+- Wound the stump face with a chain saw before applying spawn (creates more surface area)
+- Place sawdust spawn over the wounds and across gaps between stacked logs
+- Cover with fresh wood chips to protect from drying
+- Stumps of recently felled trees have the highest success rate
+- Long-lived species like reishi and turkey tail are excellent stump candidates
+
+## Bunker Spawn — Scalable Habitat Restoration
+
+Bunker spawn is wood chip-filled burlap bags inoculated with mycelium:
+
+### Making Bunker Spawn
+1. Fill burlap sacks with fresh wood chips
+2. Inoculate with: pure culture plug spawn (100-200 per sack), sawdust spawn, recycled kit substrate, stem butts, or cardboard sheet spawn
+3. Stack 3 high on pallets or cardboard in shade
+4. Incubate 6-12 months; colonized bags become snow-white
+5. Select bags fused together by interconnecting rhizomorphs — these have the most vigorous mycelium
+6. Use to inoculate more bags (10-100x expansion), or place directly in the landscape
+
+### Applications
+- Place on watershed peripheries for mycofiltration
+- Filter contaminants from farm runoff (bacteria, viruses, nitrates, pesticides)
+- Create riparian buffer mycofiltration layers
+- Works with garden giants, woodlovers, turkey tails, cauliflowers, woodland Agaricus
+
+### Preferred Expansion Paths
+1. Pure culture plug spawn mixed into fresh wood chips in burlap bags (100-200 plugs/sack)
+2. Sawdust spawn or recycled mushroom kit substrate stuffed into wood chip burlap sacks
+3. Stem butt dowel spawn → mixed into wood chip burlap sacks
+
+**Rule: "Move it or lose it"** — spawn must be expanded before it consumes its substrate and dies back.
+
 ## See Also
 
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[solomon-sweet-potato-cultivation-guide]]
+- [[mushroom-cultivation-basics]] — The 10-step cultivation process
+- [[inoculation-methods]] — Spore, spawn, and stem butt techniques
+- [[straw-cultivation-methods]] — Pasteurization and low-tech straw growing
+- [[mushroom-species-guide]] — Species-specific wood preferences and growth parameters
+- [[fungal-ecology]] — Natural decomposition succession on wood
+
+## Related
+
+- [[outdoor-mushroom-bed-preparation]]

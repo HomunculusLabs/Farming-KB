@@ -143,5 +143,5 @@ The single greatest threat to dung beetles is veterinary pharmaceuticals:
 ## See Also
 
 - [[the-soil-food-web]]
-- [[integrated-pest-management-ipm]]
+- [[integrated-pest-management]]
 - [[keystone-species-and-trophic-cascades]]

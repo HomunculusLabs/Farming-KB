@@ -1,4 +1,5 @@
 ---
+
 title: Orchard Management
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,9 +22,10 @@ sources:
 - raw/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 - raw/mr-bloomfields-orchard
 - raw/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
+- web-research
 ---
 
-## Orchard Management
+# Orchard Management
 
 Establishing and maintaining a productive orchard is a cornerstone of [[regenerative-agriculture-history]] and [[food-forest-design]]. This guide covers site selection through harvest for homestead-scale orchards in zones 7-8. For detailed variety recommendations, rootstock selection, and chill hours, see [[fruit-tree-varieties]].
 
@@ -144,3 +146,52 @@ Orchard IPM targets the most common pests and diseases: codling moth, cedar appl
 - Increases fruit size
 - Reduces limb breakage
 - Improves air circulation and disease resistance
+
+### When and How
+- **Apples/Pears**: When fruit are dime- to quarter-sized. Thin to 6-8" apart.
+- **Peaches**: When fruit are 1/2-3/4" diameter. Thin to 6-8" apart.
+- **Plums**: 3-4" between fruit
+- **Cherries**: Generally not thinned
+- Aggressive thinning pays off — better to over-thin than under-thin
+
+## Harvest
+
+### Signs of Ripeness
+- **Apples**: Background color changes green to yellow-cream; fruit separates easily with upward twist
+- **Pears**: Pick when still firm — pears ripen off the tree
+- **Peaches**: Ground color green to yellow; fruit softens; aromatic
+- **Cherries**: Color fully developed; firm but not hard; stems pull easily
+- **Figs**: Fruit droops; skin fully colored; soft; figs don't ripen further after picking
+
+### Storage
+- Short-term: Refrigerate 32-38°F, high humidity. Stone fruits 1-2 weeks max.
+- Long-term (apples): 32-35°F, 90-95% humidity. Best keepers: GoldRush, Arkansas Black. 3-6 months.
+- See [[food-preservation-canning]] for canning, drying, freezing methods
+
+## Seasonal Calendar
+
+| Month | Tasks |
+|-------|-------|
+| **Jan** | Order trees, prune dormant, copper spray for peach leaf curl |
+| **Feb** | Plant bareroot trees, continue pruning |
+| **Mar** | Finish planting, dormant oil, monitor for plum curculio |
+| **Apr** | Bloom sprays, set codling moth traps, begin thinning |
+| **May** | Thin fruit, mulch, monitor pests, install apple maggot traps |
+| **Jun** | Summer pruning, codling moth spray, understory maintenance |
+| **Jul** | Early harvest, pest monitoring |
+| **Aug** | Main harvest, trunk banding, soil prep |
+| **Sep** | Late harvest, preservation |
+| **Oct** | Fall planting, sow cover crops |
+| Nov | Apply compost, mouse guards |
+| Dec | Planning, tool sharpening |
+
+See [[seasonal-planning]] for integrated annual planning.
+
+## Troubleshooting
+
+| Problem | Likely Cause | Solution |
+|---------|-------------|----------|
+| No fruit set | Poor pollination, frost, insufficient chill | Check bloom overlap, protect from frost, verify chill hours |
+| Sparse, yellow leaves | Nitrogen deficiency, water stress | Soil test, check irrigation |
+| Leaves curl (peach) | Peach leaf curl | Copper spray next dormant season |
+| Cankers on branches | Fire blight, winter injury | Prune out, improve air circulation |

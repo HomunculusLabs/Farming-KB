@@ -2,7 +2,7 @@
 title: "Coprophilous Fungi Taxonomic Groups Distribution"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 Zygomycetes generally are observed early in succession on dung (within

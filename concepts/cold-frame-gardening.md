@@ -7,7 +7,7 @@ tags: [season-extension, gardening, permaculture, homesteading, construction]
 sources: []
 ---
 
-## Cold Frame Gardening
+# Cold Frame Gardening
 
 A cold frame is a simple, bottomless box with a transparent lid that captures solar energy to create a warm, protected microclimate for plants. It is the most basic and affordable season extension structure, providing 10-20°F of frost protection and extending the growing season by 4-8 weeks in both spring and fall. Cold frames are also indispensable for hardening off seedlings started indoors.
 
@@ -140,11 +140,19 @@ Ventilation is the most important cold frame management task:
 | May-August | Remove lid or use cold frame as a raised bed |
 | September | Sow fall greens (lettuce, spinach, arugula, radishes) |
 | October | Sow overwintering crops (spinach, mache, garlic) |
+| November-December | Harvest fall crops; close lid at night |
 
-## See Also
+## Maintenance
 
-- [[permaculture-designers-manual-cold-climate-design]]
-- [[coleman-overwintered-spinach-cold-house-production]]
-- [[comparison-cold-frame-gardening-vs-greenhouse-growing]]
-- [[plant-antifreeze-proteins-cold-acclimation]]
-- [[query-what-is-the-difference-between-hot-compost-and-cold-compost]]
+- **Clean the lid:** Dirty glazing reduces light transmission by 20-40%. Wash periodically with mild soap and water.
+- **Check seals:** Replace weatherstripping around the lid if you notice gaps where heat escapes
+- **Replace the covering:** Poly film lasts 1-2 seasons; polycarbonate lasts 10+ years; old windows may need re-puttying
+- **Refresh the soil:** Add 1-2 inches of compost each spring before replanting
+- **Pest control:** Check for slugs and snails — they love the humid cold frame environment. Set beer traps or hand-pick.
+
+## Related Concepts
+
+- [[grow-tunnel-and-hoop-house]] for larger-scale season extension structures
+- [[solar-food-dehydrator-diy]] for another passive solar structure
+- [[geodesic-greenhouse-design]] for a permanent, year-round growing structure
+- [[cold-frame-construction]]

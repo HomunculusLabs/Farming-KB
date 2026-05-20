@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-## Passionflower Growing Guide (Passiflora incarnata)
+# Passionflower Growing Guide (Passiflora incarnata)
 
 ## Overview
 
@@ -140,11 +140,38 @@ From layering:
 ## Pollinator Plant
 
 Passionflower is an excellent pollinator plant:
+- The complex flowers are pollinated primarily by large bees (carpenter
+  bees, bumblebees) and some butterfly species
+- The leaves are the sole larval food source for several butterfly species,
+  most notably the Gulf fritillary (Agraulis vanillae), variegated fritillary,
+  and zebra longwing
+## Harvesting
+
+Harvest aerial parts (leaves, stems, and flowers) during peak bloom on dry
+mornings. Cut vines 6-12 inches above ground; the plant will regrow. For
+fresh tincture, process immediately into 50-60% alcohol (1:2 ratio) and
+macerate 4-6 weeks. For drying, spread on screens at 90-100 degrees F;
+store dried herb in airtight containers for up to 2 years.
+
+## Common Issues
+
+- Japanese beetles: Handpick or use neem
+- Caterpillars: Butterfly larvae; a feature for butterfly gardeners
+- Root rot: Prevent with well-drained soil
+- Spider mites: Increase humidity in hot, dry conditions
+
+## Yields
+
+An established vine produces 2-4 lbs fresh herb per year (approximately
+0.5-1 lb dried), plus edible fruit if flowers are not all harvested.
 
 ## See Also
 
-- [[comparison-chamomile-vs-passionflower]]
-- [[comparison-valerian-vs-passionflower]]
-- [[passionflower-passiflora]]
-- [[comparison-passionflower-vs-tulsi]]
-- [[comparison-lemon-balm-vs-passionflower]]
+- [[valerian-growing-guide]] -- the classic combination with passionflower
+  for sleep and relaxation formulas
+- [[yarrow-plant-guide]] -- pair with passionflower in nervine tea blends
+  for daytime anxiety support
+
+## Related
+
+- [[st-johns-wort-guide]]

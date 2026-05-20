@@ -12,12 +12,12 @@ tags:
   - holmgren
   - mollison
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  - raw/papers/bill-mollison-permaculture-design-course.md
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
-## Permaculture Edge Effect Design
+# Permaculture Edge Effect Design
 
 The edge effect is one of the most powerful concepts in permaculture design. Both Mollison and Holmgren emphasize that the interface between two ecosystems or conditions is where biological productivity, diversity, and interaction are greatest. Deliberately designing for and maximizing edge is a fundamental permaculture strategy.
 
@@ -112,17 +112,3 @@ Williams defines an ecotone as a "clash zone" where two or more biomes come toge
 - [[mandala-garden-design]]
 - [[permaculture-pond-and-water-garden]]
 - [[permaculture-pattern-literacy]]
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.

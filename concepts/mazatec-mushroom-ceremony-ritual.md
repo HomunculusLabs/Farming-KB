@@ -120,6 +120,6 @@ This syncretism is not merely superficial; the Mazatecs have integrated Christia
 ## See Also
 - [[mazatec-mushroom-tradition]]
 - [[psilocybin-mushroom]]
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]
 - [[mazatec-mushroom-ceremony-roman-estrada-ethnographic-account]]
 - [[mazatec-mushroom-ceremony-poetics-and-existential-path]]

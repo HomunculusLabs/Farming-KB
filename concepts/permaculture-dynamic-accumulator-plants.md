@@ -11,11 +11,11 @@ tags:
   - deep-rooted-plants
   - mineral-accumulation
 sources:
-  - "raw/papers/gaias-garden-toby-hemenway.md"
+  - raw/papers/gaias-garden-toby-hemenway.md
   - raw/papers/a-selection-permaculture-plants.md
 ---
 
-## Permaculture Dynamic Accumulator Plants
+# Permaculture Dynamic Accumulator Plants
 
 Dynamic accumulators are plants with deep taproots that mine minerals from subsoil layers and concentrate them in their leaves and above-ground tissues. When these plants are cut and used as mulch or compost, they cycle nutrients from deep in the soil profile to the surface where other plants can access them. Toby Hemenway discusses nutrient accumulators as a critical guild component in Gaia's Garden.
 
@@ -126,4 +126,4 @@ Grow accumulators as cover crops before establishing gardens or orchards to brin
 - [[comfrey-plant-guide]]
 - [[yarrow-plant-guide]]
 - [[nitrogen-cycle-in-soil]]
-- [[permaculture-plant-selection]]
+- [[permaculture-plant-selection-guide]]

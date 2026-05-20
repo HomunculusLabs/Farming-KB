@@ -1,4 +1,5 @@
 ---
+
 title: First-Time Grower Common Mistakes
 created: 2026-04-12
 updated: 2026-04-12
@@ -29,7 +30,7 @@ sources:
 - concepts/mushroom-sterile-technique.md
 ---
 
-## First-Time Grower Common Mistakes
+# First-Time Grower Common Mistakes
 
 The 20 most common mistakes split between mushroom cultivation and cannabis cultivation. Learn from others' failures before making your own. See [[mushroom-contamination-identification]] and [[cannabis-pest-management]] for detailed fixes.
 
@@ -40,7 +41,7 @@ The 20 most common mistakes split between mushroom cultivation and cannabis cult
 ### 1. Skipping Sterile Technique
 **What happens**: Contamination wipes out your entire grow -- green mold, bacteria, or yeasts take over before mycelium colonizes.
 **Why**: Airborne spores are everywhere. Opening jars outside the SAB, not flame-sterilizing tools, or working in a dirty room introduces competitors.
-**How to avoid**: Work in a still air box or flow hood. Flame-sterilize tools between every transfer. Wipe surfaces with 70% isopropyl alcohol. Shower and wear clean clothes. See [[mushroom-sterile-technique]].
+**How to avoid**: Work in a still air box or flow hood. Flame-sterilize tools between every transfer. Wipe surfaces with 70% isopropyl alcohol. Shower and wear clean clothes. See [[mushroom-sterile-technique-detailed]].
 
 ### 2. Substrate Too Wet
 **What happens**: Bacterial contamination (sour rot), anaerobic conditions, stunted mycelial growth, grain jars that never fully colonize.
@@ -144,3 +145,12 @@ The 20 most common mistakes split between mushroom cultivation and cannabis cult
 ---
 
 ## See Also
+
+- [[mushroom-contamination-identification]] — contaminant identification and response
+- [[mushroom-sterile-technique-detailed]] — proper lab procedures
+- [[mushroom-cultivation-basics]] — 10-step cultivation process
+- [[cannabis-vegetative-stage]] — veg environment, training, watering
+- [[cannabis-flowering-stage]] — flower timeline, nutrition, environment
+- [[cannabis-plant-nutrition]] — NPK, organic sources, deficiency diagnosis
+- [[cannabis-harvest-and-curing]] — proper harvest, dry, and cure
+- [[cannabis-pest-management]] — IPM and organic controls

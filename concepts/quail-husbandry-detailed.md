@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, livestock, byproducts, livestock-health]
 sources: []
 ---
 
-## Quail Husbandry (Detailed)
+# Quail Husbandry (Detailed)
 
 Coturnix quail (Coturnix japonica) are the most practical micro-livestock for
 the homestead. They reach maturity in just 6 weeks, begin laying eggs at 7-8
@@ -140,11 +140,56 @@ several color and production varieties:
 - Rinse and pat dry.
 - Yield: approximately 70% dress-out (live to edible weight).
 - Quail are typically cooked whole (roasted, grilled, fried).
+- See [[animal-harvest-and-processing]] for broader processing principles.
 
-## See Also
+## Breeding and Incubation
 
-- [[comparison-quail-husbandry-vs-rabbit-husbandry]]
-- [[quail-egg-production]]
-- [[query-how-to-raise-quail-in-a-permaculture-system]]
-- [[faires-pigeon-quail-and-waterfowl-systems]]
-- [[comparison-chicken-keeping-vs-quail-husbandry]]
+### Breeding Ratio
+- 1 male per 2-3 females in breeder cages.
+- Males become aggressive in crowded conditions. Monitor and separate.
+- Breeding season: year-round with 14+ hours of light.
+- Peak fertility: 8-20 weeks of age. Replace breeders after 6-8 months.
+
+### Incubation
+- Collect hatching eggs daily, store pointed-end down at 55-65°F.
+- Incubator temperature: 99.5°F, humidity: 50-55% (increase to 65-70%
+  last 3 days).
+- Incubation period: 17-18 days.
+- Turn eggs 3-5 times daily for first 14 days. Stop turning day 15.
+- Quail chicks are tiny — use a non-slip surface in the brooder (paper
+  towels, rubber shelf liner). Slick surfaces cause splayed legs.
+- Brooder temperature: 95°F first week, reduce 5°F per week until feathered
+  (4 weeks).
+
+## Space Requirements
+
+- Brooder: 1 sq ft per 15-20 chicks first 2 weeks, expanding as they grow.
+- Grow-out cage: 1 sq ft per 3-4 birds (6-8 weeks).
+- Breeder cage: 1 sq ft per 2-3 adults.
+- Layer cage: 1 sq ft per 2 birds.
+- Floor height: minimum 12 inches. Quail are ground birds and will flush
+  upward when startled — headroom prevents injury.
+- Minimum colony size: never keep a single quail alone. They are social.
+
+## Health Care
+
+### Common Issues
+- Cannibalism — overcrowding, bright light, or protein deficiency.
+  Reduce density, dim lights, ensure adequate protein.
+- Coccidiosis — young quail on floor systems. Medicated feed or amprolium.
+- Quail bronchitis — viral, highly contagious, no treatment. Prevent with
+  biosecurity.
+- Ulcerative enteritis — bacterial, stress-triggered. Treat with antibiotics.
+- Egg binding — over-conditioned hens. Provide calcium.
+- Pasty vent — chicks. Clean with warm water, check feed quality.
+
+### Preventive Care
+- Clean water, dry litter, good ventilation. Quarantine new birds. See
+  [[homestead-poultry-health]]. Avoid mixing age groups.
+- Monitor daily for lethargy, hunched posture, ruffled feathers.
+
+## Links
+
+- [[duck-keeping]]
+- [[rabbit-husbandry]]
+- [[homestead-poultry-health]]

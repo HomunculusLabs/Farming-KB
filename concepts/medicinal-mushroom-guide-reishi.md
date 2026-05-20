@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushroom Guide Reishi
+title: Reishi (Ganoderma lucidum) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,11 +7,11 @@ tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, sp
 sources: []
 ---
 
-## Reishi (Ganoderma lucidum)
+# Reishi (Ganoderma lucidum)
 
 ## Overview
 
-Reishi, known as Lingzhi in Chinese medicine and Mannentake in Japanese, is a polypore mushroom that has been used for over 2,000 years in East Asian medicine. Its scientific name Ganoderma lucidum translates roughly to "shiny brilliant skin," referencing the varnished appearance of its conk. Reishi is one of the most researched [[medicinal-mushrooms-and-cancer-chemoprevention]] holds the nickname "the mushroom of immortality."
+Reishi, known as Lingzhi in Chinese medicine and Mannentake in Japanese, is a polypore mushroom that has been used for over 2,000 years in East Asian medicine. Its scientific name Ganoderma lucidum translates roughly to "shiny brilliant skin," referencing the varnished appearance of its conk. Reishi is one of the most researched medicinal mushrooms and holds the nickname "the mushroom of immortality."
 
 ## Key Compounds
 
@@ -47,7 +47,7 @@ The traditional method. Slice dried reishi into thin pieces or use powder. Simme
 **Recipe:** 5-10g dried reishi per liter of water. Simmer covered for 90 minutes. Strain and drink throughout the day. The liquid will be dark and quite bitter.
 
 ### Dual Extraction Tincture
-Combines hot water extraction (polysaccharides) with [[pf-tek-alcohol-extraction-method]] (triterpenes). This is considered the most comprehensive preparation:
+Combines hot water extraction (polysaccharides) with alcohol extraction (triterpenes). This is considered the most comprehensive preparation:
 
 1. Hot water extract the mushroom material first (90 min simmer).
 2. Separate liquid, reserve.
@@ -70,13 +70,13 @@ Consistency matters more than dose size. Reishi works cumulatively over weeks an
 
 Reishi can be cultivated on hardwood sawdust substrates (oak, maple, beech) supplemented with bran. It requires:
 
-- [[pf-tek-substrate-moisture-diagnosis-and-correction]] content of 60-65%
+- Substrate moisture content of 60-65%
 - Fruiting temperatures of 70-80°F (21-27°C)
 - High humidity (85-95%) for antler or conk formation
 - Indirect light for proper conk development
 - Fresh air exchange for normal conk morphology (low CO2 produces antler growth)
 
-Indoor cultivation on [[oyster-mushroom-supplemented-sawdust-blocks]] blocks is most common. Outdoors on hardwood logs is possible but slower (6-12 months to fruit).
+Indoor cultivation on supplemented sawdust blocks is most common. Outdoors on hardwood logs is possible but slower (6-12 months to fruit).
 
 ## Safety Considerations
 
@@ -99,34 +99,3 @@ Multiple Ganoderma species are sold as "reishi" commercially:
 - [[medicinal-mushroom-guide-lions-mane]] for cognitive mushroom comparisons
 - [[medicinal-mushroom-guide-turkey-tail]] for immune-focused alternatives
 - [[adaptogenic-herbs-guide]] for complementary adaptogens
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-
-## Historical Context
-
-Historical development of medicinal mushroom guide spans several decades of research.
-Early experiments established foundational principles that continue to inform
-modern practices. The evolution of understanding has been marked by
-significant breakthroughs in methodology and application.
-
-## Common Methods
-
-Practitioners employ various methods to achieve optimal results with medicinal mushroom guide.
-Each approach offers distinct advantages depending on scale, available resources,
-and specific objectives. Selection of the appropriate method requires
-careful consideration of the operating environment.

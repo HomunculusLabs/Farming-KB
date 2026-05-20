@@ -7,9 +7,9 @@ tags: [comparison, compost, microbes, homesteading, equipment]
 sources: []
 ---
 
-## Worm Bin Types Comparison
+# Worm Bin Types Comparison
 
-Vermicomposting is a cornerstone of homestead waste management, converting kitchen scraps [[hamilton-composting-and-organic-matter-management]] into nutrient-rich castings. The right bin design depends on available space, volume of waste, budget, and how hands-on you want to be. This page compares the four most common worm bin types used by homesteaders.
+Vermicomposting is a cornerstone of homestead waste management, converting kitchen scraps and organic matter into nutrient-rich castings. The right bin design depends on available space, volume of waste, budget, and how hands-on you want to be. This page compares the four most common worm bin types used by homesteaders.
 
 ## Overview of Types
 
@@ -65,7 +65,7 @@ Large bins where worms work from the top down. Finished castings are harvested f
 - Can dry out in arid climates without regular watering
 - Initial startup takes longer to establish full worm population
 
-**Build Notes:** The bottom grate should have 1/4-inch gaps — large enough for castings to pass but small enough to retain most worms. Bars across the bottom are scraped with a tool to drop finished [[compost]].
+**Build Notes:** The bottom grate should have 1/4-inch gaps — large enough for castings to pass but small enough to retain most worms. Bars across the bottom are scraped with a tool to drop finished compost.
 
 ## Worm Towers
 
@@ -118,8 +118,8 @@ Most homestead bins use one of two species:
 
 ## Related Concepts
 
-- [[vermicomposting]] — Detailed guide on worm [[composting]] process and management
-- [[composting-methods-comparison]] — General [[humanure-composting-methods-and-safety]] including [[thermophilic-composting]] as an alternative or complement to vermicomposting
+- [[vermicomposting]] — Detailed guide on worm composting process and management
+- [[composting-methods-comparison]] — General composting methods including thermophilic composting as an alternative or complement to vermicomposting
 - [[cannabis-living-soil-guide]] — How worm castings contribute to living soil biology
 
 ## Key Maintenance Tips

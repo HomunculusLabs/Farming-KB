@@ -1,4 +1,5 @@
 ---
+
 title: Bokashi Fermentation
 created: 2026-04-10
 updated: 2026-04-12
@@ -18,7 +19,7 @@ sources:
 - raw/papers/bahay-kubo-indigenous-microorganisms_.md
 ---
 
-## Bokashi Fermentation
+# Bokashi Fermentation
 
 Bokashi is an anaerobic fermentation process that preserves organic waste using effective microorganisms. Unlike composting, bokashi uses lactic acid bacteria and yeast to pickle food scraps and organic matter. The result is pre-digested material that breaks down rapidly when buried in soil.
 
@@ -117,5 +118,3 @@ Bokashi doesn't finish composting — it pre-digests. The final step is burial:
 - [[fermented-plant-extract-fpe]]
 - [[knf-preparations]]
 - [[hot-composting-vs-vermicompost-vs-bokashi]] — comparison
-
-These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

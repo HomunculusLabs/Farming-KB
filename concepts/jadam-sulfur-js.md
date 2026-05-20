@@ -1,4 +1,5 @@
 ---
+
 title: JADAM Sulfur (JS) — Natural Germicide Recipe
 created: 2026-04-11
 updated: 2026-04-12
@@ -19,9 +20,9 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-## JADAM Sulfur (JS)
+# JADAM Sulfur (JS)
 
-JS is a natural germicide made by melting sulfur in caustic soda (NaOH) with water -- no external heating required. The exothermic reaction produces enough heat (~100C) to fully liquefy sulfur. Effective against [[cervantes-powdery-mildew-prevention-treatment]], downy mildew, canker, black spot, pear rust, anthracnose, and most [[duggar-mushroom-insect-pests-and-fungal-diseases]]. Costs under $0.50/L. No expiration date. Unlike lime-sulfur, JS does not damage [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]] or steel pipes.
+JS is a natural germicide made by melting sulfur in caustic soda (NaOH) with water -- no external heating required. The exothermic reaction produces enough heat (~100C) to fully liquefy sulfur. Effective against powdery mildew, downy mildew, canker, black spot, pear rust, anthracnose, and most fungal diseases. Costs under $0.50/L. No expiration date. Unlike lime-sulfur, JS does not damage greenhouse plastic or steel pipes.
 
 ## Recipe: 100L (26 gal) Batch
 
@@ -30,7 +31,7 @@ JS is a natural germicide made by melting sulfur in caustic soda (NaOH) with wat
 - Caustic soda (NaOH, 98%): 20 kg (44 lb) -- flakes preferred over powder
 - Soft water: 82L total (50L initial + 32L added later; in summer >27C use 54L + 28L)
 - Phyllite powder: 0.5 kg (1.1 lb) -- fine rock powder substitute OK
-- [[jadam-red-clay-powder-method]]: 0.5 kg (1.1 lb) -- fine rock powder substitute OK
+- Red clay powder: 0.5 kg (1.1 lb) -- fine rock powder substitute OK
 - Sea salt: 1.5 kg (3.3 lb)
 
 **Equipment**: 110L heat-resistant plastic container (NO aluminum), 1.2m wooden stick, gloves, goggles, mask, boots, jacket, 1-2L emergency water
@@ -80,7 +81,7 @@ Increase in 0.2L increments only. Above 2.5L causes concentration damage (burned
 - Anthracnose, grey mold, green mold
 - Rice blast, rice sheath blight, smut
 - Leaf fungus, white rot, valsa canker
-- [[jadam-rice-bakanae-treatment]] disease (seed soak: 5L JS in 500L cold water, 48 hrs)
+- Rice bakanae disease (seed soak: 5L JS in 500L cold water, 48 hrs)
 
 ## JS Germicide Recipe (JS + JWA)
 
@@ -122,6 +123,6 @@ Grapes, persimmons, walnuts, and perilla are sensitive to sulfur. Always do conc
 ## See Also
 
 - [[jadam-wetting-agent-jwa]] — required companion for JS application
-- [[jadam-natural-pesticide-jnp]] — complete [[jadam-combined-pesticide-programs-jwa-js-jhs]]
+- [[jadam-natural-pesticide-jnp]] — complete pesticide programs
 - [[jadam-methods]] — JADAM system overview
 - [[knf-preparations]] — KNF alternatives for comparison

@@ -1,4 +1,5 @@
 ---
+
 title: Water Management -- Swales, Keyline, and Rainwater Harvesting
 created: 2026-04-10
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
-## Water Management -- Swales, Keyline, and Rainwater Harvesting
+# Water Management -- Swales, Keyline, and Rainwater Harvesting
 
 Water is the most critical resource on a homestead. Permaculture water management aims to slow water down, spread it across the landscape, and sink it into the soil. The principle: "Make water walk, not run." Every drop that leaves your property is a missed opportunity.
 

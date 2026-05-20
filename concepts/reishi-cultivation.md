@@ -13,11 +13,11 @@ sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
-## Reishi Cultivation
+# Reishi Cultivation
 
 ## Overview
 
-Reishi ([[ganoderma-lucidum]]), known as Lingzhi in Chinese medicine, is arguably the most revered [[gourmet-medicinal-mushroom-casing-layer-techniques]] in the world, with over 2,000 years of recorded use in traditional Chinese medicine. It is characterized by its distinctive kidney- or fan-shaped, lacquered appearance with a reddish-brown, varnished upper surface. While too woody and bitter for culinary use, Reishi is cultivated primarily for its [[cotter-mushroom-nutrition-medicinal-compounds]], particularly polysaccharides and triterpenoids.
+Reishi (Ganoderma lucidum), known as Lingzhi in Chinese medicine, is arguably the most revered medicinal mushroom in the world, with over 2,000 years of recorded use in traditional Chinese medicine. It is characterized by its distinctive kidney- or fan-shaped, lacquered appearance with a reddish-brown, varnished upper surface. While too woody and bitter for culinary use, Reishi is cultivated primarily for its medicinal compounds, particularly polysaccharides and triterpenoids.
 
 ## Species Description
 
@@ -48,7 +48,7 @@ A specialized technique that produces elongated, antler-like growths rather than
 - **Effect:** Without adequate fresh air, the mushroom cannot develop the normal cap/conk morphology and instead grows upward as branching, antler-like structures
 - **Duration:** 8-12 weeks or longer for substantial antler growth
 - **Advantages:** Some research suggests antler-grown Reishi may have higher concentrations of certain triterpenoids; also produces an aesthetically unusual product
-- **[[blesching-cannabis-contaminants-testing-quality-control]]:** Antlers are harvested when they reach the desired length and before they begin to deteriorate at the base
+- **Quality control:** Antlers are harvested when they reach the desired length and before they begin to deteriorate at the base
 
 ### Wood Log Cultivation
 
@@ -78,7 +78,7 @@ Reishi grows well on a variety of grains including rye, millet, and brown rice. 
 
 Reishi fruiting demands specific conditions:
 
-- **Temperature:** Reishi fruits at warmer temperatures than most [[fungi-cultivated-mushrooms-pathogens-competitors]] (70-85°F / 21-29°C)
+- **Temperature:** Reishi fruits at warmer temperatures than most cultivated mushrooms (70-85°F / 21-29°C)
 - **Humidity:** Very high (85-95%); lower humidity leads to cracked, malformed conks
 - **Fresh air exchange:** Moderate for standard conks; minimal for antler growth
 - **Light:** Important for color development -- low light produces pale, poorly formed conks
@@ -121,11 +121,11 @@ Reishi is the most extensively studied [[medicinal-mushroom-guide-reishi|medicin
 - **Anti-tumor activity:** Laboratory studies show tumor-inhibiting effects; clinical trials ongoing
 - **Liver protection:** Hepatoprotective effects demonstrated in multiple studies
 - **Cardiovascular benefits:** Blood pressure reduction, cholesterol modulation, antiplatelet effects
-- **[[ashwagandha]]:** Helps the body manage stress and maintain homeostasis
+- **Adaptogenic properties:** Helps the body manage stress and maintain homeostasis
 
 ## See Also
 
-- Reishi detailed cultivation guide
+- [[reishi-cultivation-guide|Reishi detailed cultivation guide]]
 - [[reishi-mushroom-medicinal-research|Reishi medicinal research]]
 - [[medicinal-mushroom-guide-reishi|Reishi medicinal properties]]
 - [[mushroom-drying-storage|mushroom drying and storage]]

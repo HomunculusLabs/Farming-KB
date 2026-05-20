@@ -1,4 +1,5 @@
 ---
+
 title: Fungal Biodiversity
 created: 2026-04-11
 updated: 2026-04-12
@@ -19,28 +20,8 @@ tags:
 sources:
 - raw/papers/unknown-biodiversity-of-fungi.md
 ---
-title: Fungal Biodiversity
-created: 2026-04-11
-updated: 2026-04-12
-type: concept
 
-tags:
-- mycology
-- biology
-- ecology
-- academia
-- fungi
-- fungal-diversity
-- ph
-- plant-systems
-- biodiversity
-- species
-
-sources:
-- raw/papers/unknown-biodiversity-of-fungi.md
----
-
-## Fungal Biodiversity
+# Fungal Biodiversity
 
 Fungi constitute one of the largest and least-known groups of organisms on Earth. Despite their ubiquity and critical ecological roles, an estimated 95% of fungal species remain undescribed. This page synthesizes findings from the landmark reference "Biodiversity of Fungi" (Mueller, Bills, Foster) and related sources.
 
@@ -55,8 +36,8 @@ Fungi constitute one of the largest and least-known groups of organisms on Earth
 ## Why Fungal Diversity Matters
 
 Fungi are essential to:
-- **Nutrient cycling** — [[decomposition]] of organic matter
-- **Nutrient transport** — [[mycorrhizal-networks]] securing nutrients for plants
+- **Nutrient cycling** — decomposition of organic matter
+- **Nutrient transport** — mycorrhizal networks securing nutrients for plants
 - **Sustainable development** — sources of antibiotics, pharmaceuticals, food, industrial enzymes
 - **Ecosystem health** — indicators of environmental change
 - **Plant health** — as pathogens, mutualists, and endophytes
@@ -74,11 +55,11 @@ Fungi and fungus-like organisms span **three kingdoms comprising 11 phyla:**
 |---|---|---|
 | **Chytridiomycota** | Zoosporic, flagellated spores; mostly aquatic | Batrachochytrium (frog pathogen), Olpidium (plant virus vector) |
 | **Zygomycota** | Zygospore formation; pin molds, bread molds | Rhizopus, Mucor, Entomophthora |
-| **[[ascomycota]]** | Ascospores in asci; largest phylum | Morels, truffles, yeasts, Penicillium, Neurospora |
+| **Ascomycota** | Ascospores in asci; largest phylum | Morels, truffles, yeasts, Penicillium, Neurospora |
 | **Basidiomycota** | Basidiospores on basidia; mushrooms | Agaricus, Amanita, Russula, rusts, smuts |
 
 ### Clade Glomales (now Glomeromycota)
-- [[arbuscular-mycorrhizal-fungi]] (AMF)
+- Arbuscular mycorrhizal fungi (AMF)
 - Oblate root symbionts of most terrestrial plants
 - Produce glomalin (27-30% of soil carbon in colonized soils)
 - See [[fungal-symbiosis-types]]
@@ -89,7 +70,7 @@ Fungi and fungus-like organisms span **three kingdoms comprising 11 phyla:**
 |---|---|---|
 | **Oomycota** | Biflagellate zoospores; water molds | Saprolegnia, Pythium, Phytophthora |
 | **Hyphochytriomycota** | Single anterior flagellum with filaments | Aquatic parasites |
-| **Labyrinthulomycota** | Net-like [[slime-molds]]; marine | Labyrinthula |
+| **Labyrinthulomycota** | Net-like slime molds; marine | Labyrinthula |
 
 ### Kingdom Protista (Slime Molds)
 
@@ -131,16 +112,47 @@ Different fungal groups demand entirely different detection and identification m
 - Powdery mildews: ~400 species across 19-22 genera, 4.5% ratio to angiosperm species (9,838 host species documented by Hirata 1986)
 - Smuts: major pathogens of grasses; distribution follows host plant biogeography
 - Endophytes: estimated 80% of species in species-rich groups are widely distributed, leaving 20% with more limited distributions
-- [[ectomycorrhizal-fungi]]: 90% undescribed in some tropical surveys
+- Ectomycorrhizal fungi: 90% undescribed in some tropical surveys
 
 ### Geographic Patterns
 
-- North-temperate regions have far more documented [[powdery-mildew]] host species than tropical/subtropical
+- North-temperate regions have far more documented powdery mildew host species than tropical/subtropical
 - Whether this reflects true diversity or sampling bias remains unresolved
 - Areas of greatest powdery mildew abundance/damage: California and Israel (warm, rain-free summers + intensive agriculture)
 
 ## Conservation and Monitoring
+
+### Baseline Data Needs
+
+- European macrofungal surveys show marked changes over 20-30 years: previously common species no longer encountered, others designated rare/endangered (Arnolds 1988, 1991; Pegler et al. 1993)
+- Without baseline data, these changes could not be detected
+- Fungal species composition is used as an **indicator of ecosystem health**
+
+### Climate Change Effects
+
+- Global warming linked to amphibian declines via fungal pathogens (Saprolegnia on toad eggs)
+- Chain of events: warming -> decreased rainfall -> reduced pond depth -> UV-B exposure -> fungal infection
+- This complex interaction model is more compelling than single-factor explanations
+
+### Herbaria as Critical Resources
+
+- House historical specimens necessary to examine changes in species composition over time
+- Provide materials for chemical and molecular analyses
+- Document fruiting patterns, host associations, and distribution changes
+- Essential for identifying newly collected specimens
+
+## Molecular Methods
+
+DNA-based approaches are revolutionizing fungal biodiversity studies:
+- Environmental DNA (eDNA) from soil/water samples reveals species never cultured
+- Metabarcoding can detect hundreds of species from single samples
+- Molecular phylogenetics has revealed that "fungi" are polyphyletic — their filamentous forms evolved independently multiple times
+- 88 contributing mycologists collaborated on the Biodiversity of Fungi volume
+
 ## See Also
 
-- [[fungi-in-the-environment-fungal-ecosystems]]
-- [[fungal-amber-fossils]]
+- [[fungal-spore-biology]] — Spore diversity and dispersal mechanisms
+- [[fungal-sexual-reproduction]] — Reproductive strategies affecting diversity
+- [[fungal-symbiosis-types]] — Plant-fungal associations
+- [[mycotoxins-and-human-health]] — Fungal effects on human health
+- [[nicholas-money]] — Popular science writing on fungal biology

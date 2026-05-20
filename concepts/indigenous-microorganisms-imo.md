@@ -1,4 +1,5 @@
 ---
+
 title: Indigenous Microorganisms (IMO) — Collection and Cultivation
 created: 2026-04-10
 updated: 2026-04-12
@@ -23,34 +24,10 @@ sources:
 - raw/papers/chos-global-natural-farming.md
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
-title: [[indigenous-microorganisms]] (IMO) — Collection and Cultivation
-created: 2026-04-10
-updated: 2026-04-12
-type: concept
 
-tags:
-- knf
-- fermentation
-- microbes
-- recipe
-- soil
-- biology
-- processing
-- wood-rot
-- health
-- plant-systems
+# Indigenous Microorganisms (IMO)
 
-sources:
-- raw/papers/master-cho-knf-recipe-book.md
-- raw/papers/unknown-natural-farming-poster.md
-- raw/papers/bahay-kubo-indigenous-microorganisms_.md
-- raw/papers/chos-global-natural-farming.md
-- raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
----
-
-## Indigenous Microorganisms (IMO)
-
-IMO is the foundation of [[korean-natural-farming]]. It captures and multiplies the native beneficial microorganisms from your local environment and reintroduces them to your soil. These are the microbes already adapted to your climate and ecosystem. As [[master-cho]] states: "In non-chemical agriculture we do not feed the plant. We nurture the soil and the soil nurtures the plant through the IMOs."
+IMO is the foundation of Korean Natural Farming. It captures and multiplies the native beneficial microorganisms from your local environment and reintroduces them to your soil. These are the microbes already adapted to your climate and ecosystem. As Master Cho states: "In non-chemical agriculture we do not feed the plant. We nurture the soil and the soil nurtures the plant through the IMOs."
 
 Microorganisms have two major functions in farming:
 1. Decompose complex organic compounds (dead plants/animals, wastes) into nutrients absorbable by plants
@@ -94,7 +71,7 @@ Microorganisms have two major functions in farming:
 2. Cover with steel wire net (mice/rat protection) and plastic sheet
 3. IMOs gather in ~1 week; mostly anaerobic microbes including:
    - Bacillus licheniformis (breaks down protein, fat, carbohydrates)
-   - [[bacillus-subtilis]] (breaks up strong fibers like straw and reeds)
+   - Bacillus subtilis (breaks up strong fibers like straw and reeds)
 
 **Signs of success**: Rice should have colorful growth — white, gray, yellow, orange, or pink molds. White fuzzy growth (fungi) is ideal. **Black molds indicate you have exceeded the collection days** — discard and try again.
 
@@ -128,7 +105,7 @@ Microorganisms have two major functions in farming:
 
 **Materials**:
 - IMO-2 liquid, diluted 1:1000 with water
-- Rice bran or [[wheat-bran]] (main carbon carrier)
+- Rice bran or wheat bran (main carbon carrier)
 - Paddy straw or leaf mold (covering material)
 - Optional: diluted NF inputs (FPJ, FAA, OHN, LAB at 1:1000) in place of plain water
 
@@ -140,4 +117,74 @@ Microorganisms have two major functions in farming:
 5. Flip straw every 2 days; turn rice bran when temp reaches 40-50C
 6. If temp drops below 40C (too wet) or rises above 70C (nutrient loss), turn immediately
 7. Takes 5-7 days for white spores to cover surface = complete
-11. Finished IMO-3 has a pleasant smell (Absida, [[aspergillus]], Mucor, Rhizopus) and white colonies
+11. Finished IMO-3 has a pleasant smell (Absida, Aspergillus, Mucor, Rhizopus) and white colonies
+
+**Expected microbes**: Aspergillus oryzae, Bacillus subtilis, and many others from the paddy straw.
+
+**Storage**: Keep in jute/gunny/cloth bags in shaded, cool, ventilated area. Pile containers 3 layers high, shield from sun and rain. Moisture drops to 20-30% (dormancy phase). No need to turn during storage.
+
+### Stage 4: IMO-4 (Final Product)
+
+**What**: Build a complete soil inoculant by harmonizing wild IMOs with field soil.
+
+**Materials**:
+- IMO-3: 10 kg
+- Field/crop soil: 5 kg (50%)
+- Red fine soil from anthill/termite mound: 5 kg (20%)
+- Additional field soil: ~5 kg (30% of total soil)
+- Optional: seawater and diluted NF inputs for moisture adjustment
+
+**Process**:
+1. Mix 1 part IMO-3 with 1 part soil total
+2. Soil composition: 50% field soil + 20% anthill/termite mound soil + 30% additional field soil
+3. Mix on soil floor (NOT concrete)
+4. Create heap not more than 20 cm high
+5. Adjust moisture to 65-75% with diluted NF inputs (FPJ, FFJ, FAA, LAB at 1:1000)
+6. Add seawater for IMOs to work best when inoculated into soil
+7. Cover for 2 days
+8. Ready to apply — moisture may need adjusting before use (add nutrient liquids if dried)
+
+**Application**: Scatter IMO-4 in small lumps over the field (minimum 1500 kg per acre). Do not bury deeply — the deeper the soil, the richer it is, so don't bury IMO. Apply 2-3 hours before sunset. The lumps help soil build aggregated structure rapidly.
+
+## IMO Diversity Principles
+
+From Cho's book:
+- **Collect from multiple environments**: sunny vs. shaded, high altitude vs. low, mountain summit vs. valley
+- **Collect from all four directions** of the field
+- **Mix different types**: forest, bamboo, paddy field microorganisms
+- **Use the "tough guys"**: collect from high mountains or uncontaminated regions for resilient microbes
+- **Culture at different weather conditions** and mix
+- **Use continuously**: collect and prepare IMOs every year, maintain them in the soil
+
+## Alternative: Carandang BIM Method
+
+Gil Carandang's Philippine approach uses simpler equipment (plastic OK), shorter fermentation (1 week vs 3-5), and a single blended serum rather than sequential stages. Composition: 50% lactic acid bacteria + 50% other microorganisms (forest, bamboo, plant-specific). See [[beneficial-indigenous-microorganisms-bim]] for the full BIM method, recipes, and a detailed comparison with Cho's IMO.
+
+## Storage
+
+- IMO-2 liquid: store in glass bottles in cool dark place, lasts 6-12 months
+- IMO-3: keep in ventilated jute/cloth bags, shaded and cool. Can enter dormancy at 20-30% moisture
+- IMO-4: use promptly; adjust moisture with NF inputs before applying
+- Never store in airtight containers while actively fermenting
+
+## Application Rates
+
+- Soil drench: IMO-2 at 1:500-1000 dilution, apply every 2-4 weeks
+- Compost activation: add IMO-2 at 1:100 to compost pile
+- Seed treatment: use SES solution (see [[knf-preparations]])
+- Transplant: dip roots in 1:100 IMO-2 solution
+- Field application: IMO-4 at 1500+ kg per acre, in small lumps
+- With LAB: IMO mixed with LAB sprayed on field recovers fertility and makes soil soft/fluffy
+
+## See Also
+
+- [[knf-preparations]] — all KNF inputs overview
+- [[bionutrients-guide]] — Carandang's bionutrient system pairing with BIM
+- [[soil-food-web-nutrient-cycling]] — what IMO does in the soil
+- [[jadam-methods]] — JADAM's alternative microorganism solution (JMS)
+- [[lactic-acid-bacteria-lab]] — LAB serum recipe (key component of BIM)
+- [[fermented-mixed-compost-fmc]] — FMC uses IMO-4 as base
+
+## Related
+
+- [[cho-han-kyu]]

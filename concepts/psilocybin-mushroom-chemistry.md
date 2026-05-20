@@ -1,4 +1,5 @@
 ---
+
 title: Psilocybin Mushroom Chemistry
 created: 2026-04-12
 updated: 2026-04-12
@@ -24,7 +25,7 @@ sources:
 - raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 ---
 
-## Psilocybin Mushroom Chemistry
+# Psilocybin Mushroom Chemistry
 
 Chemical composition, analysis methods, biosynthetic pathways, and alkaloid profiles of psilocybin-containing mushrooms. Based on [[jochen-gartz]]'s extensive HPLC analyses and the broader literature. See also psilocybin mushroom chemistry for pharmacology and [[psilocybe-genus-classification]] for taxonomy.
 
@@ -125,7 +126,7 @@ The biosynthetic gene cluster (PsiD, PsiH, PsiK, PsiM) is found across all psilo
 The entire pathway originates from the Shikimate pathway, present in plants, fungi, and bacteria but absent in animals:
 
 1. **Glycolysis** produces phosphoenolpyruvate (PEP)
-2. **[[pentose-phosphate-pathway]]** produces erythrose 4-phosphate (E4P)
+2. **Pentose phosphate pathway** produces erythrose 4-phosphate (E4P)
 3. These combine via DAHP synthase → 3-dehydroquinate synthase → 3-dehydroquinate dehydratase → shikimate 5-dehydrogenase → shikimate kinase → EPSP synthase → chorismate synthase → **chorismate**
 4. Chorismate → anthranilate → tryptophan (via anthranilate synthase, phosphoribosyl transferase, and tryptophan synthase)
 5. Tryptophan → tryptamine via **tryptophan decarboxylase** — this is the key regulated step
@@ -143,3 +144,55 @@ The final step before the psilocybin-specific pathway is subject to feedback inh
 | Indole-3-acetaldehyde | Unknown mechanism | 50% |
 
 Non-inhibitors: 5-Methoxy-DMT, 5-methoxytryptamine, indole-3-pyruvic acid (0% inhibition). This feedback system explains why simply adding tryptamine to substrate can dramatically alter alkaloid profiles (see Gartz biotransformation below).
+
+### Gartz Tryptamine Biotransformation (1989)
+
+[[jochen-gartz]] demonstrated that adding 25 mM tryptamine HCl to a cow dung/rice substrate caused P. cubensis to hydroxylate and methylate the fed tryptamine, producing unprecedented psilocin levels:
+
+| Flush | Psilocin (with tryptamine) | Psilocin (control) | Psilocybin (with tryptamine) | Psilocybin (control) |
+|-------|---------------------------|-------------------|-----------------------------|---------------------|
+| 1 | 2.1% | 0% | 0.01% | 0.55% |
+| 2 | 3.3% | 0.01% | 0.02% | 0.48% |
+| 3 | 2.8% | 0.02% | 0.2% | 0.51% |
+| 4 | 3.1% | 0.09% | 0.07% | 0.46% |
+| 5 | 2.9% | 0.15% | 0.13% | 0.61% |
+
+Key findings: psilocin levels reached 3.3% dry mass (the highest ever recorded in any mushroom), while psilocybin dropped to near-zero. This suggests the enzyme systems have high hydroxylation/methylation capacity but that excess tryptamine downregulates the phosphorylation step (PsiK). No residual tryptamine was detected in fruiting bodies or mycelium — it was completely converted. Fruiting times, yields, and sizes were unchanged from control cultures.
+
+### Brassinosteroid Growth Promotion (Gartz, Adam & Vorbrodt, 1990)
+
+Adding 10^-2 ppm 22S,23S-homobrassinolide (a plant steroidal growth regulator) to P. cubensis cultures on both 6% malt agar and horse dung/rice substrate:
+- **Mycelial growth rate**: 2-3x faster than control on agar
+- **Time to first flush**: Reduced from 4-5 weeks to 3-3.5 weeks
+- **First flush yield**: 4-7 mushrooms vs. 1-3 in control
+- **Total dry mass**: 3.4-3.9g per 10g substrate vs. 2.3-2.9g in control
+- **Incomplete fruit bodies**: Almost completely suppressed
+- **Morphological change**: Fruit bodies lacked the typical membranous annulus on stems
+
+This was the first study demonstrating brassinosteroid activity on fungi, suggesting these plant hormones may have biological roles in higher fungi.
+
+## Species Potency Comparison
+
+From [[jochen-gartz]]'s HPLC analyses (total psilocybin + psilocin, % dry weight):
+
+### Highest Potency (Group 1: >1.0%)
+
+| Species | Total Alkaloids | Notes |
+|---|---|---|
+| P. azurescens | 1.1-1.8% | Highest reliably documented |
+| P. bohemica | 0.9-1.6% | Central European species |
+| P. semilanceata | 0.5-2.4% | Extremely variable; UK specimens can be very strong |
+| P. cyanescens | 0.5-1.5% | Pacific Northwest |
+| P. subaeruginosa | 0.6-1.4% | Australia/New Zealand |
+
+### Moderate Potency (Group 2: 0.3-1.0%)
+
+| Species | Total Alkaloids | Notes |
+|---|---|---|
+| P. cubensis | 0.5-1.0% | Most widely cultivated |
+| P. bohemica/serbica | 0.3-1.0% | European wood chips |
+| P. baeocystis | 0.3-0.8% | Pacific Northwest |
+| P. allenii | 0.3-0.7% | Pacific Northwest |
+| P. mexicana | 0.2-0.6% | Mexico, produces sclerotia |
+| P. zapotecorum | 0.2-0.6% | Mexico/South America |
+| P. natalensis | 0.3-0.6% | South Africa |

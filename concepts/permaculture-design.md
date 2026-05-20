@@ -1,4 +1,5 @@
 ---
+
 title: Permaculture Design -- Zones, Sectors, and Site Analysis
 created: 2026-04-10
 updated: 2026-04-12
@@ -23,7 +24,7 @@ sources:
 - raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 ---
 
-## Permaculture Design -- Zones, Sectors, and Site Analysis
+# Permaculture Design -- Zones, Sectors, and Site Analysis
 
 Permaculture design is a methodology for organizing space, resources, and elements on a site to maximize efficiency, yield, and ecological health. The two primary organizing frameworks are **zones** (based on frequency of use) and **sectors** (based on external energies like sun, wind, and water).
 
@@ -140,7 +141,3 @@ Cold air drains downhill and collects in low spots. Avoid placing frost-sensitiv
 - [[chinampas]]
 - [[herb-spiral]]
 - [[hugelkultur]]
-
-## See Also
-
-- [[permaculture-design-criteria-and-implementation-priorities]]

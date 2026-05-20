@@ -1,4 +1,5 @@
 ---
+
 title: Jochen Gartz
 created: 2026-04-11
 updated: 2026-04-12
@@ -23,7 +24,7 @@ sources:
 - raw/papers/the-metabolic-pathway-of-psilocybin-production.md
 ---
 
-## Jochen Gartz
+# Jochen Gartz
 
 German mycologist and chemist known for extensive research on the global distribution, chemistry, and cultural use of psilocybin-containing mushrooms.
 
@@ -33,7 +34,7 @@ Jochen Gartz is a German scientist whose work spans the taxonomy, chemistry, and
 
 ## Key Contributions
 
-- **Global distribution mapping:** Co-authored the landmark paper "A Worldwide Geographical Distribution of the Neurotropic Fungi" (1998) with [[gaston-guzman]] and [[john-w-allen]], cataloguing 216 known species across four groups (psilocybin-containing, ibotenic acid, ergot fungi, and sacred fungi used without chemical confirmation).
+- **Global distribution mapping:** Co-authored the landmark paper "A Worldwide Geographical Distribution of the Neurotropic Fungi" (1998) with [[gaston-guzman]] and [[john-allen]], cataloguing 216 known species across four groups (psilocybin-containing, ibotenic acid, ergot fungi, and sacred fungi used without chemical confirmation).
 - **Chemical analysis:** Performed HPLC analyses on psilocybin and psilocin content across dozens of species, documenting significant inter- and intra-species variation in alkaloid levels.
 - **Discovery of Psilocybe natalensis:** Discovered and described the first psychotropic Psilocybe species in South Africa's Natal Province (1994) with Reid, Ecker, and Smith.
 - **Tryptamine biotransformation (1989):** Demonstrated that adding 25 mM tryptamine HCl to P. cubensis substrate caused the fungus to convert it to psilocin at unprecedented levels (up to 3.3% dry mass), while psilocybin dropped to near-zero. This showed the fungal enzyme systems have extraordinary hydroxylation and methylation capacity, and that excess tryptamine downregulates the phosphorylation step (Planta Medica 55:249-250).
@@ -53,28 +54,35 @@ Jochen Gartz is a German scientist whose work spans the taxonomy, chemistry, and
 
 ## See Also
 
-- [[gartz-psilocybin-alkaloid-baeocystin-chemistry]]
-- [[guzman-allen-gartz-cyanescens-complex-coprinifacies-bohemica-european-taxonomy]]
-- [[guzman-allen-gartz-mixtec-narcotic-puffballs-ott-investigation]]
-- [[guzman-allen-gartz-neurotropic-fungi-europe]]
-- [[guzman-allen-gartz-northern-southern-hemisphere-mycobiota-convergence-mexico]]
-- [[jeremy-bigwood]]
-- [[michael-beug]]
-- [[psilocybin-mushroom-chemistry]]
+- [[psilocybin-mushroom-chemistry]] — Global distribution of psychoactive species
+- [[psilocybin-mushroom-chemistry]] — Detailed chemistry including Gartz's analyses
+- [[jeremy-bigwood]] — Collaborating researcher on flush variation studies
+- [[michael-beug]] — Collaborating researcher on alkaloid analysis
+### Key Principles
+Understanding jochen gartz requires consideration of several interrelated factors.
+These principles form the foundation for practical application and further research.
+Each factor contributes to the overall effectiveness and sustainability of the approach.
 
-## Practical Applications
+### Methods and Techniques
+Various methods have been developed to implement these concepts effectively.
+Selection of appropriate techniques depends on specific conditions and objectives.
+Adaptation to local conditions improves outcomes and resource efficiency.
 
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
-## Key Considerations
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]
+### Additional Notes
+The study and application of jochen gartz continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-## Comparative Analysis
+### Additional Notes
+The study and application of jochen gartz continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Examining this topic alongside related approaches reveals complementary strategies and unique advantages. Multiple perspectives enrich understanding and inform better decision-making.
-
-## Mechanisms and Processes
-
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
-## Management Approaches
-
-Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

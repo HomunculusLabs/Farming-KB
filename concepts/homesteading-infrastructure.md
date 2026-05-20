@@ -1,4 +1,5 @@
 ---
+
 title: Homesteading Infrastructure
 created: 2026-04-10
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
-## Homesteading Infrastructure
+# Homesteading Infrastructure
 
 A well-designed homestead integrates housing, animal systems, gardens, water, energy, and waste into a closed-loop system. The goal is to minimize external inputs and maximize the connections between elements so that the output of one system becomes the input of another.
 
@@ -144,3 +145,8 @@ Zone 5: Wildlife area, observation, reference ecosystem
 
 ## Related Pages
 - [[permaculture-design]]
+- [[water-management]]
+- [[sepp-holzer-methods]]
+- [[food-forest-design]]
+- [[cover-cropping-guide]]
+- [[homestead-energy-conservation]]

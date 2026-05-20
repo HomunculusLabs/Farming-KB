@@ -10,7 +10,7 @@ In *[[gardening-when-it-counts]]*, [[steve-solomon]] presents a stepwise gradien
 for [[building-soil-fertility-long-term]]. Rather than insisting on one "ideal" fertility
 level, Solomon recognizes that gardeners operate under wildly different resource
 constraints and offers a graduated sequence — from zero amendments up to full
-[[complete-organic-fertilizer]] (COF) application — so that anyone can grow
+[[complete-organic-fertilizer-cof]] (COF) application — so that anyone can grow
 productive vegetables regardless of their starting point.
 
 ## The Fertility Gradient

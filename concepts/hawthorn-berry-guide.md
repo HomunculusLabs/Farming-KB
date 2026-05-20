@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-## Hawthorn Berry Growing Guide (Crataegus species)
+# Hawthorn Berry Growing Guide (Crataegus species)
 
 ## Overview
 
@@ -140,11 +140,36 @@ Berries:
 Tincture:
 - Combine dried berries with alcohol (1:5 ratio, 45-60% alcohol)
 - Macerate for 4-6 weeks, shaking daily
+- Strain and bottle in amber glass
+
+Hawthorn vinegar:
+- Fill a jar with dried berries
+- Cover with apple cider vinegar
+- Steep 4-6 weeks in a cool, dark place
+- Strain and bottle; use as a daily tonic (1 tablespoon in water)
+
+## Pests and Diseases
+
+- Cedar-hawthorn rust: Requires nearby juniper to complete lifecycle. Remove
+  nearby junipers or use resistant varieties.
+- Fire blight: Can affect hawthorns; prune out affected branches well below
+  the infection.
+- Aphids: Occasionally affect new growth; generally not serious.
+- Borers: Rare in healthy, well-maintained trees.
+- Birds: Birds relish the berries; netting may be needed for a serious harvest.
+
+## Additional Uses
+
+- Windbreaks: Dense, thorny growth makes excellent windbreaks and livestock
+  barriers
+- Wildlife habitat: Provides food and nesting sites for birds
+- Pollinator plant: Spring flowers attract bees and other pollinators
+- [[edible-landscaping|Edible landscaping]]: Attractive in all seasons (flowers, berries, fall color)
+- Living fence: Thorny branches create an impenetrable hedge
 
 ## See Also
 
-- [[berry-growing]]
-- [[berry-species-guide]]
-- [[comparison-goji-berry-vs-aronia-chokeberry]]
-- [[berry-white]]
-- [[berry-and-small-fruit-growing]]
+- [[elderberry-growing-guide]] -- pair with hawthorn berries in cardiovascular
+  and immune-support formulas
+- [[comfrey-plant-guide]] -- plant comfrey beneath hawthorn trees in a food
+  forest guild

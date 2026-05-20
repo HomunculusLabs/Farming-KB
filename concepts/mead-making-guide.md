@@ -7,7 +7,7 @@ tags: [homesteading, fermentation, food, recipe, preparation, processing, homest
 sources: []
 ---
 
-## Mead Making Guide
+# Mead Making Guide
 
 Mead is the world's oldest fermented beverage -- honey wine made from honey, water, and yeast. It is one of the simplest alcoholic beverages to make at home and is an excellent use for homestead honey. With patience and minimal equipment, you can produce meads ranging from dry and complex to sweet and fruity.
 
@@ -23,10 +23,10 @@ Mead with fruit added. The most popular mead category. Fruit can be added as fre
 - Pyment: grape mead (honey + grape juice)
 - Berry meads: blackberry, raspberry, strawberry, blueberry, cherry
 - Stone fruit meads: peach, plum, cherry, apricot
-- Tropical meads: mango, pineapple, [[comparison-dragon-fruit-vs-passion-fruit-cultivation]]
+- Tropical meads: mango, pineapple, passion fruit
 
 ### Metheglin (Spiced Mead)
-Mead with spices and herbs added. Historical meads often contained [[medicinal-herbs-for-livestock]].
+Mead with spices and herbs added. Historical meads often contained medicinal herbs.
 
 - Common additions: cinnamon, cloves, ginger, nutmeg, allspice, cardamom, vanilla
 - Herbal additions: rosemary, thyme, lavender, chamomile, hops (braggot if also includes malt)
@@ -91,7 +91,7 @@ Basic mead-making requires the same equipment as [[beer-brewing-basics]]:
 - Long-handled spoon
 - Pot for heating water/honey
 
-Optional but helpful: pH meter or strips, [[hamilton-greenhouse-heating-and-temperature-control]], degassing tool.
+Optional but helpful: pH meter or strips, temperature control, degassing tool.
 
 ## The Mead Making Process
 
@@ -111,7 +111,7 @@ Optional but helpful: pH meter or strips, [[hamilton-greenhouse-heating-and-temp
 12. Bottle. Age at least 1 month before drinking.
 
 ### Melomel Variation
-Add 1-3 pounds of fruit per gallon. Fresh or frozen fruit works (freezing breaks down cell walls for better juice extraction). Add fruit in primary fermentation (more fruit flavor integration) or secondary fermentation (clearer mead, more fruit aroma). Berries are added whole or crushed; [[query-how-do-i-grow-stone-fruits-like-peaches-plums-and-cherries]] should be pitted and sliced.
+Add 1-3 pounds of fruit per gallon. Fresh or frozen fruit works (freezing breaks down cell walls for better juice extraction). Add fruit in primary fermentation (more fruit flavor integration) or secondary fermentation (clearer mead, more fruit aroma). Berries are added whole or crushed; stone fruits should be pitted and sliced.
 
 ### Metheglin Variation
 Add spices during secondary fermentation. Start with small amounts -- spices intensify over time. Typical additions per gallon: 1 cinnamon stick, 3-4 whole cloves, 1 inch fresh ginger (sliced), 1 vanilla bean. Taste monthly and remove when flavor is where you want it.
@@ -130,12 +130,12 @@ Mead is one of the most age-worthy beverages. Unlike beer, which peaks in weeks 
 
 - Stalled fermentation: usually caused by insufficient nutrients, low temperature, or exceeding yeast alcohol tolerance. Add more nutrient, warm the mead, or pitch a more tolerant yeast.
 - Medicinal/band-aid off-flavors: caused by chlorine in water or wild yeast contamination
-- Sulphur/rotten egg smell: stressed yeast from [[cannabis-grow-nutrient-deficiency-problem-solving]]. Add nutrient and aerate.
+- Sulphur/rotten egg smell: stressed yeast from nutrient deficiency. Add nutrient and aerate.
 - Too sweet: fermentation stopped early. Check gravity. May need to repitch with a more tolerant yeast.
 - Too dry: can backsweeten after stabilizing with potassium sorbate and sulfite.
 
 ## Related Concepts
 
-- [[beer-brewing-basics]] -- shared equipment and [[jadam-anaerobic-fermentation-principles]]
+- [[beer-brewing-basics]] -- shared equipment and fermentation principles
 - [[cider-making-guide]] -- another accessible homestead fermentation
 - [[homesteading-income-streams]] -- mead can be a premium value-added product

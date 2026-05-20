@@ -13,7 +13,7 @@ Beyond whole-plant cannabis flowers, the concentrated resin of the cannabis plan
 
 ## Trichomes: The Source of Medicinal Resin
 
-The resinous crystals that coat mature cannabis flower buds are produced by tiny glandular structures called **trichomes**. Trichomes are the primary sites of cannabinoid and [[amanita-muscaria-preparation-methods]] seek to separate these trichome heads from the plant matter to create more concentrated and refined medicinal products.
+The resinous crystals that coat mature cannabis flower buds are produced by tiny glandular structures called **trichomes**. Trichomes are the primary sites of cannabinoid and [[amanita-preparation-methods]] seek to separate these trichome heads from the plant matter to create more concentrated and refined medicinal products.
 
 ## Kief
 

@@ -1,5 +1,5 @@
 ---
-title: "Medicinal Mushroom Guide Lions Mane"
+title: Lion's Mane (Hericium erinaceus) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, neuroscience, mycology, preparation, 
 sources: []
 ---
 
-## Lion's Mane (Hericium erinaceus)
+# Lion's Mane (Hericium erinaceus)
 
 ## Overview
 
@@ -32,7 +32,7 @@ The neuroregenerative action of lion's mane centers on NGF, a protein essential 
 4. Enhanced neuroplasticity supports learning, memory, and cognitive function.
 5. BDNF stimulation supports hippocampal neurogenesis.
 
-This mechanism is unique among [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] makes lion's mane the primary fungal nootropic.
+This mechanism is unique among medicinal mushrooms and makes lion's mane the primary fungal nootropic.
 
 ## Cognitive Benefits
 
@@ -58,7 +58,7 @@ Clinical trials have shown improvements in mild cognitive impairment (MCI):
 
 ## Digestive Health
 
-Lion's mane has a secondary traditional use [[cannabis-for-gastrointestinal-conditions]]:
+Lion's mane has a secondary traditional use for gastrointestinal conditions:
 - Protects gastric mucosa against NSAID-induced ulcers.
 - Inhibits H. pylori growth.
 - Reduces intestinal inflammation in colitis models.
@@ -76,7 +76,7 @@ Fresh lion's mane has a texture and flavor often compared to crab or lobster mea
 Dried mushroom powder simmered for 30-60 minutes. Extracts water-soluble beta-glucans. Less effective for hericenone extraction compared to dual extraction.
 
 ### Dual Extraction Tincture
-Combines water extraction (polysaccharides) with [[pf-tek-alcohol-extraction-method]] (hericenones):
+Combines water extraction (polysaccharides) with alcohol extraction (hericenones):
 1. Simmer powder in water for 60 minutes.
 2. Macerate spent material in ethanol (40-50%) for 4-6 weeks.
 3. Combine extracts.
@@ -100,7 +100,7 @@ Lion's mane is one of the easier medicinal mushrooms to cultivate at home:
 - **Substrate:** Hardwood sawdust (oak, maple) supplemented with wheat bran (5-10%).
 - **Spawn to fruit:** 2-4 weeks colonization, then 1-3 weeks to fruit.
 - **Temperature:** 65-75°F (18-24°C) for colonization; 60-70°F (15-21°C) for fruiting.
-- **Humidity:** 85-95% for [[growing-gourmet-primordia-formation-pinning]]; 80-90% for fruit development.
+- **Humidity:** 85-95% for primordia formation; 80-90% for fruit development.
 - **Fresh air exchange:** Critical — poor air circulation causes deformed, dense fruiting bodies.
 
 Can also be grown on sterilized hardwood logs (oak) outdoors, fruiting in fall.

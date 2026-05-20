@@ -12,7 +12,7 @@ sources:
 
 ## The Shaman as Healer and Seer
 
-The shaman is the original healer, the first physician, the first priest, the first artist. The shaman's role in society is to maintain the balance between the human community and the larger world of spirits, ancestors, and natural forces. The shaman does this by entering into [[maria-sabina-and-mazatec-mushroom-ceremony]] ceremony. Their account of this experience, published in Life magazine in 1957, introduced the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]'s inability to understand or respect the sacred dimension of plant-human relationships.
+The shaman is the original healer, the first physician, the first priest, the first artist. The shaman's role in society is to maintain the balance between the human community and the larger world of spirits, ancestors, and natural forces. The shaman does this by entering into [[maria-sabina-mazatec-mushroom-ceremony]] ceremony. Their account of this experience, published in Life magazine in 1957, introduced the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]'s inability to understand or respect the sacred dimension of plant-human relationships.
 
 ## The Shamanic Universe
 

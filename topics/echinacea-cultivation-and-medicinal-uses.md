@@ -97,7 +97,7 @@ Among the Pawnee, echinacea root was considered one of the most
 important plants in their pharmacopoeia, used for both internal and
 external applications. The root was typically harvested in autumn when
 alkylamide concentrations peak, dried, and stored for year-round use.
-[[amanita-muscaria-preparation-methods]] included chewing the fresh root, preparing decoctions
+[[amanita-preparation-methods]] included chewing the fresh root, preparing decoctions
 by simmering the dried root, applying poultices of mashed root to
 wounds and burns, and inhaling smoke from the burning plant for
 respiratory complaints.

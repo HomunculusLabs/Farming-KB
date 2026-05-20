@@ -10,7 +10,7 @@ tags: [history, mushroom-cultivation]
 
 ## Mushroom Art and Iconography
 
-## From "Shroom: A Cultural History of the Magic Mushroom" by [[mckenna-tassili-plateau-round-head-civilization]] of southern Algeria (Neolithic to Common Era). The image, popularised by [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] — The living artistic tradition of [[maria-sabina-and-mazatec-mushroom-ceremony]] chants
+## From "Shroom: A Cultural History of the Magic Mushroom" by [[mckenna-tassili-plateau-round-head-civilization]] of southern Algeria (Neolithic to Common Era). The image, popularised by [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] — The living artistic tradition of [[maria-sabina-mazatec-mushroom-ceremony]] chants
 ## Practical Applications
 
 Mushroom Art and Iconography — Shroom has a range of practical applications that make it relevant to

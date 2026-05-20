@@ -33,7 +33,7 @@ The most commercially successful entomopathogenic fungus:
 - Broad host range: aphids, whiteflies, thrips, beetles, caterpillars, mites
 - Produces beauvericin and bassianolide toxins
 - Multiple commercial formulations available worldwide
-- Compatible with many [[beneficial-insects-cannabis]] (can be selective with proper application timing)
+- Compatible with many beneficial insects (can be selective with proper application timing)
 
 Applications:
 - Greenhouse vegetable production (tomato, pepper, cucumber)
@@ -80,9 +80,9 @@ Species and applications:
 
 Mechanisms of action:
 - **Mycoparasitism**: Trichoderma coils around and penetrates pathogen hyphae, dissolving cell walls with chitinases and glucanases
-- **Antibiosis**: Produces [[antifungal-secondary-metabolites-coprophilous-fungi]] (trichodermin, gliotoxin, viridin) toxic to pathogens
+- **Antibiosis**: Produces secondary metabolites (trichodermin, gliotoxin, viridin) toxic to pathogens
 - **Competition**: Rapidly colonizes root zone, outcompeting pathogens for nutrients and space
-- **[[endophytic-mycorrhizal-induced-systemic-resistance]]**: Triggers plant defense responses (ISR)
+- **Induced systemic resistance**: Triggers plant defense responses (ISR)
 - **Plant growth promotion**: Produces auxin-like compounds, solubilizes phosphorus
 
 ### Gliocladium virens
@@ -91,7 +91,7 @@ Mechanisms of action:
 - Used as soil drench and seed treatment
 
 ### Coniothyrium minitans
-- Specific mycoparasite of [[sclerotinia-sclerotiorum]] and S. minor
+- Specific mycoparasite of Sclerotinia sclerotiorum and S. minor
 - Parasitizes and destroys sclerotia (survival structures) in soil
 - Breaks disease cycle for Sclerotinia stem rot, white mold
 - Commercial product "Contans"
@@ -110,7 +110,7 @@ Mechanisms of action:
 - Require specific environmental conditions (moisture, temperature) for infection
 
 ### Other Mycoherbicides
-- **[[chondrostereum-purpureum]]**: Controls stump sprouting in forest management
+- **Chondrostereum purpureum**: Controls stump sprouting in forest management
 - **Phytophthora palmivora**: Commercial product "Devine" for stranglervine control
 - **Myrothecium verrucaria**: Under investigation for kudzu control
 
@@ -139,7 +139,7 @@ Mechanisms of action:
 ## Integration with Homestead Systems
 
 - Combine with [[endophytic-fungi-in-agriculture]] for multi-layered plant protection
-- Use as part of fungal biopesticides programs [[query-what-is-the-role-of-trichoderma-in-organic-growing]]
+- Use as part of fungal biopesticides programs in organic growing
 - Trichoderma inoculation of compost and potting mixes for disease prevention
 - Apply Beauveria to compost piles to control fungus gnats and other pest flies
 
@@ -148,3 +148,11 @@ Mechanisms of action:
 - Slower action than chemical pesticides (days vs. hours)
 - Environmental conditions strongly affect efficacy
 - Generally more expensive per application than broad-spectrum chemicals
+- May require multiple applications per season
+- Registration and regulatory approval varies by country
+- Shelf life limitations for living organism products
+
+## See Also
+
+- [[endophytic-fungi-in-agriculture]] -- fungi living inside plant tissues for pest resistance
+- [[mycoremediation-of-heavy-metals]] -- fungi in environmental cleanup (different but related application)

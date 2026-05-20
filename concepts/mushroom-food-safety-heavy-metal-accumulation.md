@@ -15,7 +15,7 @@ metals and other toxic compounds from [[fungal-biosorption-of-heavy-metals-by-fi
 other toxic elements. When cultivated on contaminated substrates,
 [[query-can-fungi-break-down-plastic-pollution]] or sequester pollutants. The very
 mechanism that makes fungi effective remediators, their ability
-to absorb and metabolize diverse [[mycoremediation-heavy-metals]] from the
+to absorb and metabolize diverse [[mycoremediation-of-heavy-metals]] from the
 surrounding matrix. Additionally, the extensive [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
 hydrocarbons (PAHs), and other persistent organic pollutants.
 [[cotter-outdoor-mushroom-garden-mulch-beds]], animal feed, or compost for food crops.

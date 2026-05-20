@@ -1,4 +1,5 @@
 ---
+
 title: Nutrient Dense Gardening
 created: 2026-04-11
 updated: 2026-04-12
@@ -19,7 +20,7 @@ sources:
 - raw/papers/gardening-when-it-counts-steve-solomon.md
 ---
 
-## Nutrient Dense Gardening
+# Nutrient Dense Gardening
 
 Nutrient-dense gardening is the practice of growing fruits and vegetables with maximized vitamin and mineral content. Pioneered by [[steve-solomon]], it focuses on re-mineralizing soil with complete mineral fertilizers rather than relying solely on NPK or organic matter.
 
@@ -127,5 +128,5 @@ The only way to know if your produce is truly nutrient-dense:
 
 ## Related
 
-- [[drip-irrigation]]
+- [[drip-irrigation-guide]]
 - [[food-preservation-canning]]

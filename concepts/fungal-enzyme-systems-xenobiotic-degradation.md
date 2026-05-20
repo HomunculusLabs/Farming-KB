@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: mycology, fungi]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Fungal Enzyme Systems for Xenobiotic Degradation Fungi deploy a diverse arsenal of enzyme systems to degrade xenobiotic compounds. These range from the highly non-specific extracellular white-rot-fungi-effluent-decolorization to more specific intracellular cytochrome P450 monooxygenases. Understanding these systems is essential for developing effective fungal-biodegradation-of-synthetic-pollutants. Organism selection must be based on enzyme profiling, not taxonomy alone. ## See Also - fungal-lignin-degradation-enzymology - [[fungal-degradation-explosives-tnt-rdx]]
 ## Background and Context

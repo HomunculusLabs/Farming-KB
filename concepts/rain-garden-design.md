@@ -7,7 +7,7 @@ tags: [water-management, ecology, permaculture, gardening, plants, earthworks]
 sources: []
 ---
 
-## Rain Garden Design
+# Rain Garden Design
 
 Rain gardens are shallow, vegetated depressions designed to capture, absorb, and filter stormwater runoff from impervious surfaces like roofs, driveways, and sidewalks. They combine [[water-management]], [[fungal-ecology|ecology]], and [[native-plant-gardening]] to reduce flooding, filter pollutants, and recharge groundwater.
 

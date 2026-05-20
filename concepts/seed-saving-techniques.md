@@ -7,7 +7,7 @@ tags: [cultivation, gardening, methods, homesteading, plant-growth]
 sources: []
 ---
 
-## Seed Saving Techniques
+# Seed Saving Techniques
 
 Seed saving is the practice of harvesting, processing, and storing seeds from your garden for future planting. It is a foundational skill for self-sufficiency, genetic preservation, and the development of locally adapted crop varieties. Open-pollinated and heirloom varieties produce true-to-type seeds, while hybrids do not reliably do so.
 

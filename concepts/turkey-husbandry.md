@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, livestock, byproducts, livestock-health]
 sources: []
 ---
 
-## Turkey Husbandry
+# Turkey Husbandry
 
 Turkeys are rewarding homestead poultry that produce premium meat and serve
 as excellent foragers and pest controllers. The choice between heritage and
@@ -141,10 +141,46 @@ faster but cannot breed naturally.
   heavier breast meat).
 - Breast meat is 30-35% of carcass weight.
 
-## See Also
+## Breeding
 
-- [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
-- [[turkey-tail-mushroom-cancer-research]]
-- [[comparison-reishi-vs-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
-- [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]
-- [[turkey-tail-mushroom-cancer-research]]
+- Heritage turkeys breed naturally. Broad-breasted require AI.
+- Turkey breeding season: March-June, triggered by increasing daylength.
+- Toms display (strut, fan tail, gobble) to attract hens.
+- Mating ratio: 1 tom per 8-10 hens.
+- Hens lay 10-15 eggs per clutch, may lay 40-100 per season.
+- Incubation: 28 days. Hen will set her own clutch or use an incubator.
+- Temperature: 99.5°F, humidity: 55-65% (80% last 3 days). Turn 3-5 times
+  daily.
+- Poults are precocial — they walk and eat within hours of hatching.
+- Hens are excellent, protective mothers in heritage breeds.
+
+## Health Care
+
+### Common Issues
+- Blackhead (histomoniasis) — protozoan disease transmitted by chicken
+  cecal nematodes. Often fatal to turkeys. Keep separate from chickens or
+  manage aggressively. Symptoms: yellow diarrhea, lethargy, darkened head.
+- Respiratory disease (mycoplasma, aspergillosis) — prevent with good
+  ventilation and dry conditions.
+- Coccidiosis — common in young poults. Prevent with medicated feed or
+  clean management.
+- Fowl pox — viral, spread by mosquitoes. Dry scabs on unfeathered areas.
+  No treatment; vaccinate if endemic.
+- Worms — roundworms, capillaria. Treat with fenbendazole or ivermectin.
+- Pododermatitis (foot sores) — from hard or dirty surfaces. Provide
+  clean bedding.
+
+### Preventive Care
+- Quarantine new birds for 30 days.
+- Biosecurity: change clothes and footwear between turkey and chicken areas.
+- See [[homestead-poultry-health]] for comprehensive biosecurity protocols.
+- Clean water, dry litter, good ventilation are the foundations of health.
+- Apple cider vinegar in water (1 tbsp/gallon) supports immune health.
+
+## Links
+
+- [[duck-keeping]]
+- [[homestead-poultry-health]]
+- [[quail-husbandry-detailed]]
+- [[livestock-feed-formulation]]
+- [[animal-harvest-and-processing]]

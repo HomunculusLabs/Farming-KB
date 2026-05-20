@@ -2,7 +2,7 @@
 title: "Flocculation And Natural Subsoil Loosening Solomon"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 ## The Plow Pan Problem

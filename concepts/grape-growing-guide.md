@@ -140,11 +140,42 @@ Grapes are susceptible to several fungal diseases, especially in humid climates.
 - Gray mold on berries, especially in wet conditions near harvest
 - More problematic on tight-clustered varieties
 - Improve air circulation, thin clusters, remove leaves around fruit
+- Can be beneficial in dry conditions (noble rot in wine grapes)
+
+### Pierce's Disease
+- Bacterial disease fatal to European (vinifera) grapes
+- Spread by sharpshooter insects
+- Primarily a problem in the southeastern US and California
+- No cure; plant resistant varieties in affected areas
+- American and Muscadine grapes are resistant
+
+### Integrated Management
+1. Choose disease-resistant varieties suited to your climate
+2. Prune annually for good air circulation
+3. Remove fallen leaves and mummified fruit in autumn
+4. Apply preventive sprays in humid climates; avoid overhead irrigation
+
+## Harvesting
+
+### When to Harvest
+- Taste is the best indicator — sample berries regularly as they approach ripeness
+- Table grapes: 16-22% sugar (Brix), good flavor balance
+- Wine grapes: specific Brix depends on variety and wine style
+- Color change alone is not sufficient — some varieties color up before they are sweet
+- Seeds turn brown at full ripeness (seeded varieties)
+- Stems at the cluster base turn from green to brown
+
+### How to Harvest
+- Cut clusters from the vine with shears or a knife
+- Handle gently; harvest in morning after dew dries
+- Pick during dry weather; discard damaged berries
+
+### Yield Expectations
+- Table grapes: 15-30 lbs/vine; Wine grapes: 8-15 lbs/vine
+- Significant production by year 3-4; full production by year 5-6
 
 ## See Also
 
-- [[holzer-kiwi-and-grape-growing]]
-- [[oner-space-grape-ultra-genetics-nebula-grapefruit]]
-- [[grape-ape]]
-- [[comparison-grape-vs-hardy-kiwi-for-homestead-trellising]]
-- [[grape-cultivation-and-variety-guide]]
+- [[apple-tree-care]] for companion orchard fruit management
+- [[backyard-orchard-design]] for orchard layout and integration
+- [[stone-fruit-tree-care]] for companion fruit tree care

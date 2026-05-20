@@ -7,7 +7,7 @@ tags: [composting, insects, animal-husbandry, byproducts, homesteading, sustaina
 sources: []
 ---
 
-## Black Soldier Fly Composting
+# Black Soldier Fly Composting
 
 Black soldier fly (Hermetia illucens) composting is a bioconversion method that uses larvae to rapidly break down organic waste into protein-rich animal feed and frass fertilizer. Adult BSF do not bite, sting, or transmit disease, making them safe for homestead-scale operations.
 
@@ -92,33 +92,5 @@ The residue left after larval digestion is called frass. It is a dark, odorless 
 BSF composting closes nutrient loops on the homestead. Food waste becomes protein for [[chickshaw-and-poultry-tractors|poultry]] and fish, and frass returns nutrients to garden beds. The system requires minimal labor once established and produces no foul odor when properly managed.
 
 The leachate can be applied to gardens as a liquid fertilizer (dilute 1:10 with water), though it should be used with caution on edible crops due to potential pathogen load from meat and dairy inputs.
-
 ## See Also
-
-- [[comparison-mesquite-vs-black-locust-vs-carob-tree]]
-- [[comparison-black-soldier-fly-vs-vermicomposting]]
-- [[black-soldier-fly-farming-and-insect-protein]]
-- [[comparison-black-soldier-fly-composting-vs-bokashi]]
-- [[black-tuna]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.
+- [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]

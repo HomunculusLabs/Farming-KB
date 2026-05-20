@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Networks Common Mycelial Network
+title: Mycorrhizal Networks (Common Mycelial Network)
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -7,9 +7,9 @@ tags: [mycology, soil-biology, ecology, fungi]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-## Mycorrhizal Networks (Common Mycelial Network)
+# Mycorrhizal Networks (Common Mycelial Network)
 
-The "Wood Wide Web" — mycorrhizal networks connect individual plants into an [[teaming-with-microbes-fungi-the-underground-network]] through shared fungal hyphae. Through these networks, plants can transfer carbon, nutrients, water, and chemical signals between individuals, including between different species. This is one of the most significant ecological discoveries of recent decades.
+The "Wood Wide Web" — mycorrhizal networks connect individual plants into an underground network through shared fungal hyphae. Through these networks, plants can transfer carbon, nutrients, water, and chemical signals between individuals, including between different species. This is one of the most significant ecological discoveries of recent decades.
 
 ## How Networks Form
 
@@ -59,15 +59,15 @@ The "Wood Wide Web" — mycorrhizal networks connect individual plants into an [
 
 ### Plant Community Composition
 - Networks can increase biodiversity by connecting species
-- Networks can also favor dominant species by facilitating [[interplant-resource-transfer-mycorrhizal-succession]]
-- Net effect depends on [[mycelial-network-structure]] and plant species involved
+- Networks can also favor dominant species by facilitating resource transfer
+- Net effect depends on network structure and plant species involved
 
 ### Seedling Establishment
 - Seedlings connected to mycorrhizal networks have:
   - Higher survival rates (10-50% improvement)
   - Faster growth
   - Better nutrient status
-  - Greater [[dighton-fungal-drought-tolerance-plant-water-relations]]
+  - Greater drought tolerance
 - This is why maintaining undisturbed soil under trees is so important for regeneration
 
 ## Threats to Networks
@@ -94,7 +94,7 @@ The "Wood Wide Web" — mycorrhizal networks connect individual plants into an [
 - Retain living trees and root systems during harvest (avoid clear-cutting where possible)
 - Minimize soil disturbance
 - Maintain understory plants as network links
-- Allow [[biodiversity-power-natural-regeneration]] rather than planting bare-root seedlings
+- Allow natural regeneration rather than planting bare-root seedlings
 
 ### Agriculture
 - Reduce tillage (no-till or minimum till)
@@ -107,19 +107,3 @@ The "Wood Wide Web" — mycorrhizal networks connect individual plants into an [
 - [[ectomycorrhizal-ecology]] — for ECM networks in forests
 - [[soil-food-web-structure]] — for the broader soil web
 - [[fungal-role-in-carbon-cycling]] — for carbon flow through networks
-
-## Practical Considerations
-
-Understanding the practical applications of this
-concept requires considering both theoretical frameworks
-and real-world implementation challenges. Practitioners
-must balance ideal approaches with available resources
-and site-specific conditions to achieve meaningful results.
-
-## Research Context
-
-Current research in this area builds upon foundational
-principles while exploring new methodological approaches.
-Empirical findings continue to refine our understanding
-and suggest promising directions for future investigation
-across multiple disciplines and application domains.

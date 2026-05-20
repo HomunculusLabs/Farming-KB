@@ -13,7 +13,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-## Coprophilous Fungi
+# Coprophilous Fungi
 
 Coprophilous (dung-inhabiting) fungi represent one of the most diverse and specialized ecological guilds in the fungal kingdom. They colonize the dung of herbivorous mammals, birds, and other animals, playing critical roles in nutrient cycling and decomposition of herbivore waste.
 
@@ -140,11 +140,23 @@ Coprophilous fungi have evolved remarkable dispersal strategies:
 ## Ecological Significance
 
 - Primary decomposers of herbivore waste, recycling nutrients in grassland and forest ecosystems
+- Spore dispersal depends on herbivore behavior, linking fungal and animal ecology
+- Mycoparasitic species (Piptocephalis, Syncephalis) regulate other fungal populations in dung communities
+- Predaceous fungi (Stylopage, Zoopagales) prey on nematodes and amoebae in dung microfauna
+- Some species are indicators of herbivore presence and ecosystem health
 
-## See Also
+## Biogeography
 
-- [[coprophilous-fungi-succession]]
-- [[coprophilous-fungi-taxonomic-groups-distribution]]
-- [[coprophilous-fungi-biodiversity-indicators]]
-- [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]]
-- [[biodiversity-coprophilous-zygomycetes-dung]]
+Most coprophilous fungi are thought to be cosmopolitan, distributed worldwide alongside their herbivore hosts. However, some tropical species have restricted ranges. The composition of dung fungal communities varies with:
+- Herbivore diet (grass vs. browse)
+- Habitat (tropical vs. temperate)
+- Season and moisture conditions
+- Dung size and consistency
+
+## Related Topics
+
+- [[saprotrophic-fungi]] — Decomposer fungi general
+- [[fungal-spore-biology]] — Spore launch physics
+- [[fungal-ecology]] — Fungal ecology overview
+- [[fungal-biodiversity-biogeography]] — Global fungal diversity patterns
+- [[soil-food-web-nutrient-cycling]] — Nutrient cycling in ecosystems

@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-19
 type: concept
 tags: [food, nutrition]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 ## Lacto-Fermentation and Food Preservation Methods

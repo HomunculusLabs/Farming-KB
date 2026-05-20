@@ -9,7 +9,7 @@ tags: [amendment, fertilizer, organic-growing, soil-fertility]
 
 ## Description
 
-Alfalfa meal is a finely ground [[complete-organic-fertilizer]] and soil amendment made from dried alfalfa (Medicago sativa) plants. At [[four-season-farm]], it serves as the standard extra-boost fertilizer applied between greenhouse crops in the [[no-tillage-rice-barley-succession-cropping]] cycle. Coleman values it not only for its effectiveness but also because it is an amendment farmers could theoretically produce themselves, aligning with his philosophy of locally based fertility programs.
+Alfalfa meal is a finely ground [[complete-organic-fertilizer-cof]] and soil amendment made from dried alfalfa (Medicago sativa) plants. At [[four-season-farm]], it serves as the standard extra-boost fertilizer applied between greenhouse crops in the [[no-tillage-rice-barley-succession-cropping]] cycle. Coleman values it not only for its effectiveness but also because it is an amendment farmers could theoretically produce themselves, aligning with his philosophy of locally based fertility programs.
 
 ## Classification
 

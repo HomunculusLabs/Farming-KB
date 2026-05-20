@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 ## Fungal Communities in Water and Aquatic Ecosystems Fungi play essential roles in aquatic and marine ecosystems as decomposers of organic matter, nutrient cyclers, and food sources for invertebrates. Although less intensively studied than terrestrial [[fungal-leaf-litter-succession]] (Gessner et al., 1993):
 

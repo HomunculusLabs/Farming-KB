@@ -1,5 +1,5 @@
 ---
-title: "Sheep Husbandry"
+title: Sheep Husbandry
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,12 +7,12 @@ tags: [animal-husbandry, homesteading, livestock, forage, byproducts, livestock-
 sources: []
 ---
 
-## Sheep Husbandry
+# Sheep Husbandry
 
 Sheep are excellent homestead livestock for meat, wool, and milk production.
 They are natural grazers that convert pasture into protein efficiently, and
 their flocking instinct makes them easier to manage than goats. However, they
-require attentive [[fukuoka-natural-predator-protection]] and parasite management.
+require attentive predator protection and parasite management.
 
 ## Breed Selection
 
@@ -32,7 +32,7 @@ require attentive [[fukuoka-natural-predator-protection]] and parasite managemen
 - **Romney** — Long wool, lustrous, good for handspinning. Hardy.
 - **Lincoln** — Very long staple, strong wool. Less common but useful.
 - **Shetland** — Small, hardy, multiple natural colors. Great for handspinning
-  and [[homestead-scale-assessment]].
+  and homestead scale.
 
 ### Dual-Purpose
 - **Columbia, Corriedale, Targhee** — Good wool and acceptable meat
@@ -49,11 +49,11 @@ require attentive [[fukuoka-natural-predator-protection]] and parasite managemen
 Sheep are grazers (unlike goats, which are browsers) and thrive on quality
 pasture.
 
-- [[comparison-rotational-grazing-vs-continuous-grazing]] is essential — move sheep every 1-5 days depending on
+- Rotational grazing is essential — move sheep every 1-5 days depending on
   stocking density and season. See [[pasture-management]].
 - Ideal sward height: 3-6 inches. Graze down to 2-3 inches, then rotate.
 - Sheep do well on mixed grass-clover pastures. White clover provides
-  [[legume-nitrogen-fixation-and-green-manure]] high protein.
+  nitrogen fixation and high protein.
 - Toxic plants: rhododendron, azalea, bracken fern, hemlock. Less prone to
   browse toxic plants than goats, but still at risk.
 - Stocking rate: 4-6 sheep per acre on good pasture with rotational grazing.
@@ -78,7 +78,7 @@ Wool sheep must be shorn annually, usually in spring before lambing.
 - Minimum 10-15 sq ft per sheep indoors. Sheep tolerate cold well but need
   protection from rain and wind.
 - Three-sided shelters are often sufficient in moderate climates.
-- Bedding: straw or wood shavings, deep-bedded. Clean and add to [[compost]].
+- Bedding: straw or wood shavings, deep-bedded. Clean and add to compost.
 - Lambing jugs (small pens 4x4 to 4x6 ft) for ewes with newborn lambs.
 - Ventilation is critical — ammonia and moisture cause respiratory disease.
 - Sheep prefer to lamb on dry ground. Provide lambing pens with clean bedding.
@@ -95,7 +95,7 @@ Sheep are less prone to escape than goats but still need good fencing.
 
 ## Feeding
 
-- Good pasture is the primary feed source during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+- Good pasture is the primary feed source during the growing season.
 - Supplement with hay in winter: 2-4% of body weight daily.
 - Feeder lambs on grain (corn, barley, oats) for faster finishing.
 - Ewes in late gestation and early lactation need higher energy and protein
@@ -147,3 +147,35 @@ Sheep are extremely vulnerable to predation. Protection is essential.
 - CD&T (Clostridium perfringens C & D + tetanus) — core vaccine.
 - Ewes: booster 4-6 weeks pre-lambing to pass immunity to lambs via colostrum.
 - Lambs: first dose at 6-8 weeks, booster at 10-12 weeks.
+
+### Common Health Issues
+- Foot rot — caused by bacteria in wet conditions. Trim hooves, zinc sulfate
+  foot baths, improve drainage.
+- Caseous lymphadenitis (CL) — chronic abscesses, no cure, cull affected
+  animals.
+- Scrapie — fatal prion disease. Participate in USDA scrapie eradication program.
+- Enterotoxemia (overeating disease) — prevent with CD&T vaccination.
+- Fly strike — especially in wool breeds. Crutching, shearing, and insect
+  control help prevent.
+
+## Manure and Byproducts
+
+- Sheep manure is an excellent cold fertilizer, higher in nitrogen than
+  horse or cow manure.
+- Can be applied directly to gardens or composted first.
+- Average sheep produces ~500-1000 lbs of manure per year.
+- Wool can be sold raw, spun into yarn, felted, or used for insulation.
+- Sheepskins can be tanned as hides. See [[animal-harvest-and-processing]].
+- Bones are excellent for bone meal fertilizer or stock.
+
+## Links
+
+- [[goat-husbandry]]
+- [[pasture-management]]
+- [[livestock-fencing-guide]]
+- [[hay-and-forage-management]]
+- [[animal-harvest-and-processing]]
+
+## Related
+
+- [[sheep-health-and-production]]

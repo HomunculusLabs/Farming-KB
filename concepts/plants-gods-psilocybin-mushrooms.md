@@ -19,7 +19,7 @@ hallucinogenic fungi in human history. Found primarily in Mexico and
   studied by Hofmann. Found in subtropical grasslands of Mexico.
 - **[[psilocybe-bohemica]].
 - **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]], visionary doses are approximately 1 gram of
-the dried mushroom. For [[maria-sabina-and-mazatec-mushroom-ceremony]] ceremonies, bringing
+the dried mushroom. For [[maria-sabina-mazatec-mushroom-ceremony]] ceremonies, bringing
 Teonanacatl to global attention. Subsequently, Roger Heim identified
 and cultivated the species, and Albert Hofmann isolated psilocybine and
 psilocine in pure crystalline form. The Aztec statue of Xochipilli, the

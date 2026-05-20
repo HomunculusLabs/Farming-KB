@@ -1,4 +1,5 @@
 ---
+
 title: Cannabis Spiritual and Ritual Use
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/papers/a-practitioners-guide-marijuana-magick.md
 ---
 
-## Cannabis Spiritual and Ritual Use
+# Cannabis Spiritual and Ritual Use
 
 Cannabis has served as a sacrament in numerous religious and spiritual traditions throughout history. From Rastafarianism to possible early Christian use, the plant has been integrated into worship, meditation, and healing practices across cultures.
 

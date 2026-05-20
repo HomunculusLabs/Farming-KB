@@ -7,7 +7,7 @@ tags: [plant-systems, agriculture, regenerative, companion-planting, permacultur
 sources: []
 ---
 
-## Intercropping Systems
+# Intercropping Systems
 
 Intercropping is the practice of growing two or more crop species simultaneously in the same field or garden bed. Unlike monoculture, intercropping leverages ecological interactions between species to increase total yield per unit area, reduce pest pressure, improve soil health, and manage risk through diversification.
 
@@ -148,3 +148,27 @@ An LER > 1.0 means intercropping produces more total yield than growing the same
 - Reduce planting density of each component crop by 25-50% compared to monoculture
 - Ensure adequate spacing between rows to reduce direct competition
 - Choose crops with complementary nutrient requirements
+- Provide additional water and fertility for intercrop beds
+
+### Harvest Timing
+
+- Plan for different harvest times to reduce damage to remaining crops
+- Use [[succession-planting]] to replace harvested components with new crops
+- Consider how harvest of one crop affects the remaining crops (e.g., removing corn stalks exposes beans)
+
+## Challenges
+
+- More complex planning and management than monoculture
+- Harvest can be more labor-intensive (different crops mature at different times)
+- Mechanization is difficult for mixed and row intercropping (strip intercropping is most equipment-friendly)
+- Competition can reduce yields if not properly managed
+- Pest and disease identification is harder in diverse plantings
+- Seed saving becomes complicated with closely related species nearby
+
+## Related Topics
+
+- [[companion-planting-reference]] for specific plant pairings
+- [[crop-rotation-principles]] for temporal crop diversification
+- [[succession-planting]] for timing strategies
+- [[cover-cropping-guide]] for intercropping with non-cash crops
+- [[trap-cropping]] for pest management within intercrops

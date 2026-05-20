@@ -140,11 +140,48 @@ A highly refined, nearly pure cannabinoid extract that has been stripped of near
 2. Winterization and filtration
 3. Short-path or wiped-film distillation
 4. The distillate is heated to separate cannabinoids by their boiling points
+5. THC boils at approximately 315 F (157 C); CBD at approximately 356 F (180 C)
 
-## See Also
+**Characteristics**:
+- Clear, thick, honey-like liquid
+- Potency: 85-99% THC or CBD
+- Nearly tasteless and odorless (terpenes removed)
+- Base ingredient for vape cartridges, edibles, and tinctures
+- Terpenes are often re-added (botanical or cannabis-derived) for flavor
 
-- [[cannabis-cultivar-microbiome-specificity]]
-- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
-- [[cannabis-and-endometriosis]]
-- [[blesching-cannabis-immune-system-modulation]]
-- [[cannabis-seed-germination-viability-breeding-clarke]]
+## Comparison Table
+
+| Concentrate | THC % | Terpenes | Solvent | Consistency |
+|---|---|---|---|---|
+| Kief | 30-60% | Low-Medium | None | Powder |
+| Dry Sift | 40-70% | Medium | None | Crumbly |
+| Bubble Hash | 40-70% | Medium-High | Water | Crumbly/Pressable |
+| Rosin (flower) | 50-70% | High | None | Sap/Budder |
+| Rosin (hash) | 60-80%+ | Very High | None | Sap/Budder |
+| Live Rosin | 65-85%+ | Highest | None | Jam/Sap |
+| Shatter | 60-85% | Low-Medium | BHO/EtOH | Glass |
+| Wax/Budder | 60-85% | Medium | BHO/EtOH | Creamy |
+| Crumble | 60-85% | Medium | BHO/EtOH | Crumbly |
+| Live Resin | 60-85% | Very High | BHO | Saucy |
+| Distillate | 85-99% | None | Any | Liquid |
+
+## Consumption Methods
+
+- **Dabbing**: Heating a nail/banger with a torch and applying concentrate. Most potent and efficient method.
+- **Vaporizer pens**: Pre-filled or refillable cartridges with distillate or live resin. Discreet and convenient.
+- **Dab pens**: Portable devices for solid concentrates (wax, crumble, rosin).
+- **Topping bowls**: Sprinkle kief or crumble on top of flower in a bowl or joint.
+- **Twaxing**: Rolling a joint with rosin or hash inside or outside.
+- **Edibles**: Distillate and infused oils are used in edible production. See [[cannabis-edibles-guide]].
+- **Tinctures**: Concentrates dissolved in alcohol, glycerin, or MCT oil. See [[cannabis-tinctures-guide]].
+
+## Quality Indicators
+
+- **Color**: Light gold to amber indicates quality. Dark brown or black suggests poor processing, residual solvents, or degraded material.
+- **Aroma**: Strong, complex terpene smell indicates good preservation. Little to no smell suggests over-processing or age.
+- **Consistency**: Should be appropriate for the type (shatter should be stable, rosin should be sappy, etc.)
+- **Residual solvents**: Legal products must pass lab testing for residual solvent content. Home extracts should be thoroughly purged.
+- **Bubble test**: High-quality bubble hash and rosin will bubble and melt when heated on a nail. Contaminated material will not melt cleanly.
+## Related
+
+- [[live-resin-processing]]

@@ -5,7 +5,7 @@ aliases: [biological monitoring, landscape monitoring, photo points, ecosystem m
 tags: [monitoring, land-health, ecosystem-assessment, photo-points, biodiversity]
 related: [savory-holistic-management-overview, savory-holistic-decision-making, savory-livestock-grazing-planning]
 type: concept
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 updated: 2026-04-26
 ---
 

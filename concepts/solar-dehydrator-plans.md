@@ -1,5 +1,5 @@
 ---
-title: "Solar Dehydrator Plans"
+title: Solar Dehydrator Plans
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,22 +7,22 @@ tags: [homesteading, equipment, drying, preservation, design, engineering]
 sources: []
 ---
 
-## Solar Dehydrator Plans
+# Solar Dehydrator Plans
 
-A [[query-how-to-build-and-use-a-solar-food-dehydrator]] uses the sun's energy to preserve fruits, vegetables, herbs, and meats without electricity. Well-designed models reach 110-140F internally — the ideal range for food dehydration — using nothing but sunlight and natural convection. This is one of the most practical and cost-effective off-grid preservation tools available to a homesteader.
+A solar food dehydrator uses the sun's energy to preserve fruits, vegetables, herbs, and meats without electricity. Well-designed models reach 110-140F internally — the ideal range for food dehydration — using nothing but sunlight and natural convection. This is one of the most practical and cost-effective off-grid preservation tools available to a homesteader.
 
 ## Design Principles
 
 Solar dehydrators work on two fundamental principles:
 
-1. **Solar collection** — a dark-colored absorber plate captures [[solar-radiation-and-plant-light-responses]] converts it to heat
+1. **Solar collection** — a dark-colored absorber plate captures solar radiation and converts it to heat
 2. **Convection** — warm air rises, creating a natural draft that pulls cool air in at the bottom, passes it over the heated absorber plate, and exhausts warm moist air out the top
 
 The key design variables are:
 - **Collector area** — determines how much solar energy is captured. Larger area = higher temperatures and faster drying.
 - **Airflow path** — must be smooth and unrestricted. Any bottleneck reduces performance.
 - **Insulation** — reduces heat loss, especially on cloudy days and in cool climates.
-- **Vents** — inlet at the bottom (cool air), outlet at the top (warm moist air). Adjustable vents allow [[hamilton-greenhouse-heating-and-temperature-control]].
+- **Vents** — inlet at the bottom (cool air), outlet at the top (warm moist air). Adjustable vents allow temperature control.
 
 ## The Indirect Solar Dehydrator (Recommended Design)
 
@@ -53,7 +53,7 @@ The indirect design separates the solar collector from the drying chamber. Sun h
 
 ### Orientation
 
-- Face the collector toward true south (Northern Hemisphere) or true north ([[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]])
+- Face the collector toward true south (Northern Hemisphere) or true north (Southern Hemisphere)
 - Tilt angle: approximately your latitude for year-round use. For summer-only use, tilt at latitude minus 10-15 degrees.
 - Avoid shading from trees, buildings, or other structures
 
@@ -96,7 +96,7 @@ Food is properly dried when it is leathery and pliable (fruits), brittle and cri
 
 ## Storage
 
-Condition dried foods before storage: place in jars, seal, and shake daily for 7-10 days. If condensation appears inside the jar, the food needs more drying. Once conditioned, store in airtight containers in a cool, dark place. Properly dehydrated foods keep for 6-12 months. For longer storage, use oxygen absorbers in mason jars or vacuum seal bags. See [[emergency-preparedness]] for long-term food [[yield-extension-and-storage-strategies]].
+Condition dried foods before storage: place in jars, seal, and shake daily for 7-10 days. If condensation appears inside the jar, the food needs more drying. Once conditioned, store in airtight containers in a cool, dark place. Properly dehydrated foods keep for 6-12 months. For longer storage, use oxygen absorbers in mason jars or vacuum seal bags. See [[emergency-preparedness]] for long-term food storage strategies.
 
 ## Maintenance
 
@@ -107,18 +107,3 @@ Condition dried foods before storage: place in jars, seal, and shake daily for 7
 - Clean the absorber plate annually (wipe with a damp cloth)
 
 For other off-grid cooking and heating methods, see [[rocket-stove-design]] and [[cob-oven-construction]]. For long-term storage of your dehydrated goods, refer to [[emergency-preparedness]].
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.

@@ -1,4 +1,5 @@
 ---
+
 title: Permaculture Climate-Specific Design Strategies
 created: 2026-04-11
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
 - raw/papers/sepp-holzer-practical-guide.md
 ---
 
-## Permaculture Climate-Specific Design Strategies
+# Permaculture Climate-Specific Design Strategies
 
 Climate-specific design from Mollison's Permaculture Two and field implementations. The fundamental principle: "Design must be climate-specific. What works in humid cool temperate fails in arid lands." See [[permaculture-design-methods]] for the design toolkit and [[edge-effect-and-microclimate]] for microclimate creation.
 
@@ -139,8 +140,35 @@ From Mollison's detailed treatment:
 - Multiple staggered rows better than single dense row
 - Species selection: fast-growing pioneer protected by slower permanent species
 
-## See Also
+### Sun Trap Design
 
-- [[dryland-permaculture-strategies]]
-- [[vines-in-desert-permaculture]]
-- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- U-shaped plantings open to the sun (south in northern hemisphere)
+- Reflective pond in front increases light and heat
+- Dense windbreak on the exposed side
+- Deciduous trees admit winter sun, provide summer shade
+- Used for frost-sensitive species, early vegetables, and livestock shelters
+
+### Frost Pocket Management
+
+- Cold air drains downhill like water — never plant frost-sensitive crops in low points
+- Stone walls absorb heat by day, release by night
+- Water bodies moderate nearby temperature
+- Slope positioning more important than latitude for frost avoidance
+- See [[edge-effect-and-microclimate]] for detailed techniques
+
+## Links
+
+- [[permaculture-design-methods]] — Full design toolkit
+- [[permaculture-design]] — Zone/sector analysis
+- [[edge-effect-and-microclimate]] — Microclimate creation techniques
+- [[water-management]] — Water harvesting strategies
+- [[sepp-holzer-methods]] — Holzer's mountain climate techniques
+- [[hugelkultur-guide]] — Raised bed water retention
+- [[no-till-gardening-method]] — Minimum disturbance soil management
+- [[mulching-guide]] — Mulch types and application
+
+## Related
+
+- [[coastal-gardening]]
+- [[tropical-gardening]]
+- [[desert-gardening]]

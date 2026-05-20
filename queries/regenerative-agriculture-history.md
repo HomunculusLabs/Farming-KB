@@ -8,7 +8,7 @@ sources:
 - raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 ---
 
-## Regenerative Agriculture History
+# Regenerative Agriculture History
 
 The evolution from organic certification to the regenerative agriculture movement.
 See [[organic-farming-history]] for pre-2000 roots and regenerative agriculture history

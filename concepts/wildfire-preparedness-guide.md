@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [safety, homesteading, climate, environment, plants]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+sources: []
 ---
 
-## Wildfire Preparedness Guide
+# Wildfire Preparedness Guide
 
-Wildfires are an escalating threat across [[guzman-psilocybin-mushrooms-north-america]], driven by decades of fire suppression, [[dighton-fungal-responses-climate-change]], and expanding wildland-urban interface. Homesteads in fire-prone regions face catastrophic risk, but advance preparation dramatically improves survival odds and property protection. This guide covers defensible space, structure hardening, evacuation planning, and recovery.
+Wildfires are an escalating threat across North America, driven by decades of fire suppression, climate change, and expanding wildland-urban interface. Homesteads in fire-prone regions face catastrophic risk, but advance preparation dramatically improves survival odds and property protection. This guide covers defensible space, structure hardening, evacuation planning, and recovery.
 
 ## Understanding Wildfire Risk
 
@@ -26,8 +25,8 @@ Assess your risk using:
 - Historical fire data for your area (CAL FIRE, USFS, local fire agencies)
 - Vegetation type and density on and around your property
 - Slope — fire moves faster uphill (steeper = faster)
-- Prevailing [[wind-patterns-and-beaufort-scale]] during fire season
-- [[gadd-fungal-biodegradation-concrete-building-materials]] and construction of your home and outbuildings
+- Prevailing wind patterns during fire season
+- Building materials and construction of your home and outbuildings
 
 ## Defensible Space
 
@@ -55,7 +54,7 @@ This is the most critical zone. Embers accumulate here and directly threaten the
 - Mow grass to 4 inches maximum
 - Remove all dead plants, leaves, and pine needles
 - Space shrubs at least 2 times their mature height apart
-- Replace highly flammable plants (juniper, arborvitae, [[ornamental-grasses-guide]]) with fire-resistant species
+- Replace highly flammable plants (juniper, arborvitae, ornamental grasses) with fire-resistant species
 - Keep woodpiles and propane tanks in this zone minimum (better at 30+ feet)
 
 ### Zone 3: Extended Zone (30-100 feet)
@@ -142,9 +141,31 @@ Keep a packed bag for each family member and pet at all times during fire season
 
 ## Insurance and Documentation
 
-## See Also
+- Review your homeowner's insurance annually for adequate wildfire coverage
+- Document everything: photograph all structures, contents, livestock, equipment, and infrastructure
+- Store documentation in three places: physical copy in go bag, cloud storage, and off-site physical location
+- Understand your policy's coverage for: structure, contents, additional living expenses, debris removal, and livestock
+- Keep insurance agent contact information readily available
+- Inventory all major purchases and improvements as they are made
 
-- [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]]
-- [[mollison-wildfire-dynamics-and-firestorm-behavior]]
+## Recovery After Wildfire
+
+- Do not return until fire authorities declare it safe
+- Check for structural damage before entering buildings
+- Test water sources — wells may be contaminated by fire retardant, ash, and debris
+- Document all damage immediately with photos and video for insurance claims
+- Contact your insurance company within 24-48 hours
+- Assess livestock injuries and separate from healthy animals
+- Remove ash and debris wearing N95 respirator, goggles, and gloves
+- Test soil for contamination if ash covered food-producing areas
+- Apply for FEMA assistance if the area receives a federal disaster declaration
+- Be aware of post-fire flooding and debris flow risk on burned slopes
+
+## Related Concepts
+
+- [[mushroom-foraging-safety-guide]] — General safety principles and risk management
+- [[homestead-first-aid-guide]] — First aid supplies for fire-related injuries
+- [[homestead-communication]] — Emergency communication during wildfire events
+- [[emergency-preparedness]] — Multi-hazard preparedness for earthquake zones
+- [[earthquake-preparedness-guide]]
 - [[extreme-heat-preparedness]]
-- [[hurricane-preparedness-guide]]

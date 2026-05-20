@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, soil-biology, symbiosis]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Mycorrhizal Biocontrol of Phytophthora Through Root Exudate Modification [[root-exudates]]
 

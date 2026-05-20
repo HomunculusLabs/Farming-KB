@@ -7,9 +7,9 @@ tags: [homesteading, construction, design, sustainability, homestead-crafts]
 sources: []
 ---
 
-## Building with Natural Materials
+# Building with Natural Materials
 
-[[natural-building]] uses locally sourced, minimally processed materials to create structures that are healthy, energy-efficient, and low in embodied energy. For the homesteader, natural building reduces costs, eliminates dependency on industrial supply chains, and creates buildings that are uniquely suited to their climate and landscape.
+Natural building uses locally sourced, minimally processed materials to create structures that are healthy, energy-efficient, and low in embodied energy. For the homesteader, natural building reduces costs, eliminates dependency on industrial supply chains, and creates buildings that are uniquely suited to their climate and landscape.
 
 ## Cob
 
@@ -39,7 +39,7 @@ Test your subsoil by doing a simple shake test: fill a jar 1/3 with subsoil, add
 - Allow each course to firm up before adding the next
 - Sculpt niches, shelves, and furniture directly into the walls
 - Embed windows and doors with wooden frames as you build
-- Walls should be 18-24 inches thick for [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] and thermal mass
+- Walls should be 18-24 inches thick for structural strength and thermal mass
 - Install a roof overhang of at least 2 feet to protect walls from rain
 
 ### Pros and Cons
@@ -50,7 +50,7 @@ Cons: Labor intensive, slow building process, vulnerable to prolonged moisture e
 
 ## Straw Bale
 
-[[straw-bale-construction]] uses baled straw (not hay) as either infill insulation within a structural frame (post-and-beam) or as the structural wall itself (load-bearing, also called Nebraska style).
+Straw bale construction uses baled straw (not hay) as either infill insulation within a structural frame (post-and-beam) or as the structural wall itself (load-bearing, also called Nebraska style).
 
 ### Straw vs Hay
 
@@ -58,7 +58,7 @@ Straw is the hollow stem of grain crops (wheat, oats, barley) after the grain is
 
 ### Building Methods
 
-Post-and-beam (non-load-bearing): A timber frame provides [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]. Straw bales fill the spaces between posts as insulation. This is the most common approach and easiest to get permitted.
+Post-and-beam (non-load-bearing): A timber frame provides structural support. Straw bales fill the spaces between posts as insulation. This is the most common approach and easiest to get permitted.
 
 Load-bearing (Nebraska style): Bales carry the weight of the roof. Requires careful bale selection, compression, and pinning. Limited to single-story construction.
 
@@ -114,7 +114,7 @@ Earthships are passive solar buildings developed by Michael Reynolds that use re
 
 ### Considerations
 
-Earthships are labor-intensive (hundreds of hours of tire pounding) but use free materials. They perform well in arid and [[fukuoka-natural-farming-temperate-climates]] but can have moisture issues in humid climates. Not permitted in all areas.
+Earthships are labor-intensive (hundreds of hours of tire pounding) but use free materials. They perform well in arid and temperate climates but can have moisture issues in humid climates. Not permitted in all areas.
 
 ## Natural Plasters
 

@@ -4,25 +4,23 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, law, reform, activism, history, counterculture, psychopharmacology, entheogen-research, psychedelics, culture, community]
-sources:
-  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
-  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
+sources: []
 ---
 
-## Psychedelic Mushroom Decriminalization
+# Psychedelic Mushroom Decriminalization
 
 ## Overview
 
-The movement to decriminalize [[psilocybin]]-containing mushrooms has been one of the most significant drug policy developments of the 21st century. Beginning with grassroots activism in the mid-2010s, the movement has achieved remarkable success at both the local and state level in the United States, with ripple effects worldwide. As of 2026, [[psilocybin-mushrooms]] have been decriminalized in over two dozen US cities and legalized for therapeutic use in two states.
+The movement to decriminalize psilocybin-containing mushrooms has been one of the most significant drug policy developments of the 21st century. Beginning with grassroots activism in the mid-2010s, the movement has achieved remarkable success at both the local and state level in the United States, with ripple effects worldwide. As of 2026, psilocybin mushrooms have been decriminalized in over two dozen US cities and legalized for therapeutic use in two states.
 
 This page traces the history, strategy, and current status of the psychedelic mushroom decriminalization movement.
 
 ## Background: Why Mushrooms?
 
-[[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]] occupy a unique position in drug policy discussions:
+Psilocybin mushrooms occupy a unique position in drug policy discussions:
 
 - They have been used sacramentally for thousands of years
-- They show remarkable [[metzner-ayahuasca-therapeutic-potential]] in clinical trials for depression, anxiety, PTSD, and addiction
+- They show remarkable therapeutic potential in clinical trials for depression, anxiety, PTSD, and addiction
 - They are non-addictive and have a very low toxicity profile
 - They are naturally occurring — not synthetic drugs
 - Their criminalization was largely a historical accident of the War on Drugs rather than evidence-based policy
@@ -41,7 +39,7 @@ This page traces the history, strategy, and current status of the psychedelic mu
 
 **Oakland, California (June 2019)**
 - City council unanimously passed a resolution decriminalizing psilocybin
-- Went further than Denver by decriminalizing all "entheogenic plants and fungi" — including [[peyote]], ayahuasca, iboga, and mescaline-containing cacti
+- Went further than Denver by decriminalizing all "entheogenic plants and fungi" — including peyote, ayahuasca, iboga, and mescaline-containing cacti
 - Became the model for subsequent broader entheogen decriminalization
 
 **Santa Cruz, California (January 2020)**
@@ -64,10 +62,10 @@ Cities that decriminalized during this period include:
 
 Oregon became the first state to legalize psilocybin for therapeutic use:
 
-- **Measure 109** (passed November 2020, 55.6% of vote): Created a regulated [[psilocybin-therapy]] program overseen by the Oregon Health Authority
+- **Measure 109** (passed November 2020, 55.6% of vote): Created a regulated psilocybin therapy program overseen by the Oregon Health Authority
 - Licensed service centers can administer psilocybin to clients 21+
 - Trained facilitators guide sessions (not requiring a medical diagnosis)
-- The program launched in 2023, making Oregon the first jurisdiction to offer legal, regulated [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]]
+- The program launched in 2023, making Oregon the first jurisdiction to offer legal, regulated psychedelic therapy
 - Multiple service centers opened across the state
 
 - **Measure 110** (also November 2020): Broader drug decriminalization measure that also covered psilocybin (though Measure 109 superseded it for mushrooms specifically)
@@ -107,7 +105,7 @@ Colorado became the second state to legalize psilocybin:
 ### Legalization / Regulated Access
 - Creates a legal framework for the production and therapeutic administration of psilocybin
 - Establishes licensing for growers, manufacturers, facilitators, and service centers
-- Does not typically allow retail sales like [[cannabis-legalization-era]]
+- Does not typically allow retail sales like cannabis legalization
 - More complex to implement — requires regulatory infrastructure
 - This is the Oregon Measure 109 and Colorado Proposition 122 model
 
@@ -116,7 +114,7 @@ Colorado became the second state to legalize psilocybin:
 - **Decriminalize Nature**: Originated in Oakland, has supported campaigns in dozens of cities
 - **SPORE (Society for Psychedelic Outreach, Reform, and Education)**: Oregon advocacy
 - **Healing Advocacy Fund**: Supports Colorado implementation
-- **MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies)**: Research-focused, broader psychedelic policy
+- **MAPS (Multidisciplinary Association for Psychedelic Studies)**: Research-focused, broader psychedelic policy
 - **Flow State Microdosing**: Community microdosing advocacy
 - **Veterans groups**: Have become powerful advocates for psychedelic access, particularly for PTSD treatment
 
@@ -142,3 +140,13 @@ Colorado became the second state to legalize psilocybin:
 The US movement has inspired reform efforts worldwide:
 - **Netherlands**: Magic truffles (sclerotia) remain legally available
 - **Portugal**: All drugs decriminalized since 2001
+- **Canada**: Expanding medical exemptions for psilocybin
+- **Australia**: Rescheduled psilocybin for medical use in 2023 (restricted to psychiatrists in clinical settings)
+- **Brazil, Peru, Ecuador**: Traditional use of entheogens is legally protected
+
+## Related Topics
+
+- [[psychedelic-plants-legal-status]] — comprehensive legal status for all entheogens
+- [[psilocybin-extraction-guide]] — preparation methods for psilocybin mushrooms
+## See Also
+- [[psychedelic-mushroom-art-and-iconography]]

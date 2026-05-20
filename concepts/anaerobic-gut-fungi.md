@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-## Anaerobic Gut Fungi
+# Anaerobic Gut Fungi
 
 Anaerobic gut fungi (phylum Chytridiomycota, order Neocallimastigales) are obligate anaerobic fungi found exclusively in the digestive tracts of herbivorous animals. They are among the most fibrolytic organisms known, playing critical roles in plant fiber digestion.
 

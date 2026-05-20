@@ -7,8 +7,7 @@ tags: [mushrooms, mycology, culture, history, medicine, health, therapy, counter
 sources:
 - raw/papers/carolina-mushrooms_08qxp.md
 ---
-
-## Mushroom Legislation Worldwide
+# Mushroom Legislation Worldwide
 
 ## Overview
 
@@ -51,7 +50,7 @@ See [[psychedelic-mushroom-history]] for the historical context of prohibition.
 - Psilocybin mushrooms (teonanacatl) are not specifically scheduled in federal law
 - Sale and commercial distribution are prohibited under general drug laws
 - Traditional indigenous use (Mazatec and other groups) is culturally tolerated
-- See [[maria-sabina-and-mazatec-mushroom-ceremony]] for indigenous context
+- See [[maria-sabina-mazatec-mushroom-ceremony]] for indigenous context
 
 ## Europe
 
@@ -140,11 +139,14 @@ Six EU member states tightened mushroom legislation in response to increasing pr
 ### Costa Rica
 
 - Not specifically scheduled; mushrooms grow naturally in the country
+- No active enforcement against personal use
+- Several retreat centers operate openly, primarily catering to international visitors
 
+## Asia and Oceania
+
+### Japan
+
+- Psilocybin is controlled under the Narcotics and Psychotropics Control Law
+- Psilocybin mushrooms were specifically banned in 2002 (previously existed in a legal gray area)
 ## See Also
-
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[straw-based-mushroom-substrate-preparation]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[straw-mushroom-cultivation]]
-- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]
+- [[oyster-mushroom-heat-treatment-sterilization-pasteurization-worldwide]]

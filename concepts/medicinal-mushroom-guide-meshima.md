@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushroom Guide Meshima
+title: Meshima (Phellinus linteus) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, sp
 sources: []
 ---
 
-## Meshima (Phellinus linteus)
+# Meshima (Phellinus linteus)
 
 ## Overview
 
@@ -39,7 +39,7 @@ Meshima is one of the most potent anti-inflammatory medicinal mushrooms:
 ### Applications
 - Arthritis and joint inflammation (animal models show significant reduction in joint swelling).
 - Allergic conditions (asthma, atopic dermatitis, allergic rhinitis).
-- [[blesching-cannabis-inflammatory-bowel-disease]] (Crohn's disease, ulcerative colitis models).
+- Inflammatory bowel disease (Crohn's disease, ulcerative colitis models).
 - Chronic systemic inflammation.
 - Dermatitis and skin inflammation.
 
@@ -99,7 +99,7 @@ Meshima's immune effects are distinctive:
 
 ### Dual Extraction Tincture
 1. Hot water extraction (60-90 min) for polysaccharides.
-2. Alcohol maceration (4-6 weeks in 40-50% ethanol) for hispidin [[terpenes-and-phenolic-compounds-soil]].
+2. Alcohol maceration (4-6 weeks in 40-50% ethanol) for hispidin and phenolic compounds.
 3. Combine extracts.
 
 ### Supplements
@@ -140,10 +140,24 @@ Meshima is difficult to find and identify in the wild:
 
 Meshima cultivation is challenging and less developed than other medicinal mushrooms:
 
-## See Also
+- Can be cultivated on hardwood sawdust substrates, though yields are lower than most commercial species.
+- Requires extended incubation periods (3-6 months colonization).
+- Fruiting conditions are not fully optimized for commercial production.
+- Most commercial meshima is still wild-harvested in Korea and China.
+- Liquid culture and submerged fermentation methods are being developed for mycelium-based products.
 
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
-- [[medicinal-mushrooms]]
-- [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]
-- [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]
+## Safety Considerations
+
+- Generally safe with traditional use history.
+- Potent immune-stimulating effects — caution with autoimmune conditions.
+- May interact with immunosuppressant medications.
+- Possible interactions with blood-thinning medications.
+- Avoid during pregnancy and breastfeeding.
+- High doses may cause gastrointestinal discomfort.
+- Always consult a healthcare provider when using for cancer adjunct therapy.
+
+## Related Topics
+
+- [[medicinal-mushroom-guide-reishi]] for complementary anti-inflammatory mushroom
+- [[medicinal-mushroom-guide-turkey-tail]] for cancer adjunct comparison
+- [[medicinal-mushroom-guide-chaga]] for another woody medicinal bracket fungus

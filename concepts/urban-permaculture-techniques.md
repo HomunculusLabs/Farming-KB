@@ -11,11 +11,11 @@ tags:
   - community-gardens
   - intensive-gardening
 sources:
-  - "raw/papers/gaias-garden-toby-hemenway.md"
+  - raw/papers/gaias-garden-toby-hemenway.md
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
-## Urban Permaculture Techniques
+# Urban Permaculture Techniques
 
 Urban and suburban environments present unique challenges for permaculture design: limited space, contaminated soils, restricted sunlight, and regulations. However, they also offer unique opportunities -- high population density, abundant waste resources, and infrastructure to leverage. Both Hemenway and Williams address urban permaculture extensively.
 

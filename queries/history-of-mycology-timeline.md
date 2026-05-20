@@ -12,7 +12,7 @@ sources:
 - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-## History of Mycology Timeline
+# History of Mycology Timeline
 
 Chronological milestones in the scientific study of fungi, from ancient observations to modern genomics.
 Draws from history of mycology timeline, [[fungal-evolution]], and entity pages for key mycologists.
@@ -40,7 +40,7 @@ Draws from history of mycology timeline, [[fungal-evolution]], and entity pages 
   [[r-gordon-wasson]] proposed (1968) in Soma: Divine Mushroom of Immortality
   that the divine Soma of Vedic ritual was Amanita muscaria.
   This remains debated among scholars.
-  See [[amanita-muscaria]] and [[soma-hypothesis]].
+  See [[amanita-muscaria-guide]] and [[soma-hypothesis]].
 
 - **~300 BCE — Eleusinian Mysteries:**
   Annual initiation rites at Eleusis honoring Demeter and Persephone,
@@ -148,3 +148,23 @@ Draws from history of mycology timeline, [[fungal-evolution]], and entity pages 
 
 - **1930s — Sinden's grain spawn revolution:**
   Development of pure culture grain spawn using sterilized grain
+  inoculated with mycelium, replacing unreliable wild-collected spawn.
+  This technique remains the standard today.
+  See [[mushroom-spawn-making-detailed]].
+
+## Modern Era (1940–Present)
+
+The post-WWII expansion of mycology — from Hofmann's discoveries and the psychedelic era through molecular taxonomy, DNA phylogenetics, mycorrhizal network science, and 21st century genomics — is covered in detail on [[mycology-modern-era]]. Key milestones include Rolf Singer's taxonomic reforms, Whittaker's five-kingdom system, the Stamets and Guzman monographs, and Simard's "wood wide web" research. See also [[mycology-21st-century-frontiers]].
+
+## Related Pages
+
+- [[mycology-modern-era]] — modern era mycology from 1940 to present
+- history of mycology timeline — existing concept page with additional detail
+- [[fungal-evolution]] — phylogeny, fossil record, and molecular dating
+- [[psychedelic-mushroom-history]] — parallel timeline of psychoactive fungi
+- [[historical-mushroom-cultivation]] — cultivation-focused history
+- [[victorian-mycology]] — Victorian-era fungal taxonomy and the Woolhope Club
+- [[fungal-biology-fundamentals]] — modern understanding of fungal life cycles
+- [[fungal-ecology]] — fungi as keystone ecosystem engineers
+- [[buller-ahr]]
+- [[ingold-cecil-t]]

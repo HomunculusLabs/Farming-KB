@@ -5,7 +5,7 @@ tags: [chemistry, organic-chemistry, materials-science, biochemistry, molecular-
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 ## Overview

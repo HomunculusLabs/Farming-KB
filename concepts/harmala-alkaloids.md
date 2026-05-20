@@ -7,7 +7,7 @@ tags: [entheogen, chemistry, psychopharmacology, biochemistry, pharmacology, saf
 sources: []
 ---
 
-## Harmala Alkaloids
+# Harmala Alkaloids
 
 ## Overview
 
@@ -141,10 +141,34 @@ At high doses (overdose range), harmala alkaloids can produce:
 
 ## Safety Cautions and Interactions
 
-## See Also
+### Serotonin Syndrome Risk
+Harmala alkaloids must NEVER be combined with:
+- SSRIs (fluoxetine, sertraline, escitalopram, etc.) — stop 2+ weeks before
+- MAOIs (pharmaceutical MAOIs like phenelzine, tranylcypromine)
+- SNRIs (venlafaxine, duloxetine)
+- Tricyclic antidepressants
+- Tramadol, dextromethorphan
+- 5-HTP or tryptophan supplements
+- Other serotonergic psychedelics at high doses
 
-- [[peganum-harmala]]
-- [[mckenna-food-gods-peganum-harmala-soma]]
-- [[harmala-alkaloids-and-ayahuasca-preparation]]
-- [[mckenna-telepathine-harmala-alkaloid-discovery]]
-- [[turner-harmala-alkaloids-preparation-and-dosage]]
+This is the most dangerous interaction — serotonin syndrome can be fatal.
+
+### Tyramine Interaction
+RIMAs are less dangerous with tyramine than irreversible MAOIs, but caution is still warranted. Avoid:
+- Aged cheeses
+- Cured meats (salami, pepperoni)
+- Fermented foods (sauerkraut, soy sauce, miso)
+- Red wine (especially aged)
+- Yeast extracts
+
+### Other Cautions
+- Not safe during pregnancy — P. harmala has traditional use as an abortifacient
+- Cardiovascular conditions require medical evaluation
+- Start with low doses — individual sensitivity varies greatly
+
+## Related Topics
+
+- [[ayahuasca-brewing-guide]] — traditional use of harmala alkaloids with DMT
+- [[dmt-extraction-guide]] — DMT extraction, the other half of the ayahuasca equation
+## See Also
+- [[tihkal-harmala-alkaloids]]

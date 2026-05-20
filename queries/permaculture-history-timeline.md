@@ -16,7 +16,7 @@ sources:
 - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
-## Permaculture History Timeline
+# Permaculture History Timeline
 
 From the coining of "permanent agriculture" in 1978
 to a global design movement spanning every continent.
@@ -130,7 +130,7 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
   hugelkultur beds, terracing, and water retention landscapes.
   Publishes Sepp Holzer's Permaculture (2004)
   and Desert or Paradise (2012).
-  See [[sepp-holzer-methods]] and [[hugelkultur]].
+  See [[sepp-holzer-methods]] and [[hugelkultur-guide]].
 
 - **1980s-1990s — Mollison's global teaching:**
   Teaches over 200 PDCs worldwide, adapting content
@@ -148,3 +148,22 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
   Known for accessible teaching and women's leadership.
 
 - **1990s-2000s — Rosemary Morrow:**
+  Known for making PDCs accessible in developing countries,
+  refugee camps, and conflict zones.
+  Author of Earth User's Guide to Permaculture (1993).
+
+## North American Popularization and Beyond (2000s-Present)
+
+The modern era of permaculture — from Gaia's Garden and Holmgren's 12 principles through global PDC spread, digital democratization, and convergence with regenerative agriculture — is covered in detail on permaculture history timeline. Key milestones include Hemenway's best-selling Gaia's Garden, Holmgren's Principles and Pathways, the spread of online PDCs, Transition Towns, YouTube democratization, and integration with KNF/JADAM methods.
+
+## Related Pages
+
+- [[permaculture-principles]] — the 12 design principles detailed
+- [[permaculture-design]] — complete design methodology
+- [[permaculture-design-methods]] — Mollison's design toolkit and process
+- [[food-forest-design]] — food forest systems and implementation
+- [[permaculture-zones-in-practice]] — zone planning with examples
+- [[permaculture-plant-catalog]] — plant reference for design
+- [[urban-permaculture-design]] — small-space and urban permaculture
+- [[regenerative-agriculture-history]] — broader regenerative context
+- [[keyline-design]] — water management precursor and integration

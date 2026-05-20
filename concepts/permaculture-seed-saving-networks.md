@@ -7,7 +7,7 @@ tags: [permaculture, seeds, community, ecology, genetics, sustainability, plants
 sources: []
 ---
 
-## Permaculture Seed Saving Networks
+# Permaculture Seed Saving Networks
 
 Seed saving networks are community-based systems for preserving, sharing, and breeding open-pollinated plant varieties. In permaculture, seed sovereignty — the right and ability to save, exchange, and breed seeds — is fundamental to self-reliance, regional adaptation, and the preservation of genetic diversity against corporate monoculture.
 
@@ -84,7 +84,7 @@ Seed libraries are community collections where members can borrow seeds, grow pl
 2. Members "check out" seeds for planting
 3. Members grow plants and save seeds from the healthiest individuals
 4. Members return a portion of saved seeds to the library
-5. The library maintains the collection and provides education on [[seed-saving-techniques]]
+5. The library maintains the collection and provides education on seed saving techniques
 
 ### Hosting Models
 - **Public libraries** — many public libraries host seed collections as a community service

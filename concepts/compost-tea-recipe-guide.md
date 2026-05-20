@@ -5,15 +5,15 @@ updated: 2026-04-12
 type: concept
 tags: [soil, compost, tea, biology, application, microbes]
 sources:
-  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
+  - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
   - raw/papers/lowenfels-teaming-with-microbes.md
 ---
 
-## Compost Tea Recipe Guide
+# Compost Tea Recipe Guide
 
 ## Overview
 
-[[actively-aerated-compost-tea]] (AACT) is a water extract of compost that is brewed with foods to select for beneficial organism growth. It must stay aerobic throughout the brewing process to retain beneficial fungi, protozoa, and nematodes. If the tea goes anaerobic, these organisms are killed and the liquid can no longer be considered compost tea.
+Actively Aerated Compost Tea (AACT) is a water extract of compost that is brewed with foods to select for beneficial organism growth. It must stay aerobic throughout the brewing process to retain beneficial fungi, protozoa, and nematodes. If the tea goes anaerobic, these organisms are killed and the liquid can no longer be considered compost tea.
 
 ## Critical Brewing Parameters
 
@@ -148,3 +148,5 @@ AACT must stay aerobic to retain beneficial fungi, protozoa, and nematodes. Anae
 - [[bacterial-vs-fungal-soil]]
 - [[protozoa-in-soil]]
 - [[mycorrhizal-inoculation]]
+- [[foliar-feeding-plants]]
+- [[nitrogen-cycle-in-soil]]

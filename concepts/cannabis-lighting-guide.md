@@ -7,7 +7,7 @@ tags: [cannabis, indoor, lighting, equipment, plant-growth]
 sources: []
 ---
 
-## Cannabis Lighting Guide
+# Cannabis Lighting Guide
 
 Light is the single most important factor in indoor cannabis cultivation. It drives photosynthesis, regulates the plant's life cycle through photoperiod, and directly influences yield, potency, and morphology. This guide covers the science of grow lighting, fixture types, and practical setup guidance.
 
@@ -140,10 +140,30 @@ Proper distance between the light source and the canopy is critical:
 | CMH 315W | 24-30 inches | 18-24 inches |
 | T5 fluorescent | 2-4 inches | N/A (not for flower) |
 
+Use a PAR meter if available to measure PPFD at the canopy level. If you don't have one, observe your plants: leaves reaching upward and praying (flat, wide) indicate good intensity. Leaves curling down or bleaching means too close.
+
+## Canopy Management and Light Distribution
+
+- **Even coverage**: Position lights so PPFD varies by no more than 30% across the canopy.
+- **Reflective walls**: Use mylar (95% reflectivity) or flat white paint to maximize light utilization.
+- **Light movers**: Rail systems that move lights back and forth can improve coverage in larger areas.
+- **Defoliation and training**: See [[cannabis-topping-training]] for techniques to create an even canopy that maximizes light absorption.
+
+## Electricity and Safety
+
+- Calculate your power needs: total wattage of lights + 20% buffer for ballasts and cooling.
+- Use dedicated circuits for grow lighting — don't share with other equipment.
+- Install GFCI (ground fault circuit interrupter) outlets in grow spaces.
+- Ensure proper ventilation for any lights that generate significant heat.
+- Keep all electrical connections away from water sources.
+
 ## See Also
 
-- [[cannabis-cultivar-microbiome-specificity]]
-- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
-- [[cannabis-and-endometriosis]]
-- [[blesching-cannabis-immune-system-modulation]]
-- [[cannabis-seed-germination-viability-breeding-clarke]]
+- [[cannabis-topping-training]] — Training techniques to optimize light absorption
+- [[cannabis-vegetative-stage]] — Lighting requirements during veg
+- [[cannabis-living-soil-guide]] — Integrating lighting with a living soil grow
+- [[cannabis-flowering-stage]] — Lighting adjustments for the flowering phase
+
+## Related
+
+- [[led-vs-hps-grow-lights]]

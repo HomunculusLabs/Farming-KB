@@ -7,11 +7,11 @@ tags: [mycology, fungi, taxonomy, mushrooms, species, species-profiles, entheoge
 sources: []
 ---
 
-## Psychedelic Mushroom Taxonomy
+# Psychedelic Mushroom Taxonomy
 
 ## Overview
 
-Psychedelic mushrooms are fungi that produce psychoactive tryptamine compounds, primarily [[hplc-analysis-of-psilocybin-and-psilocin]]. The taxonomy of these fungi has undergone significant revision with the advent of molecular phylogenetics, reshaping our understanding of their evolutionary relationships.
+Psychedelic mushrooms are fungi that produce psychoactive tryptamine compounds, primarily psilocybin and psilocin. The taxonomy of these fungi has undergone significant revision with the advent of molecular phylogenetics, reshaping our understanding of their evolutionary relationships.
 
 ## The Psilocybe Genus
 
@@ -21,10 +21,10 @@ As of 2026, over 180 species within Psilocybe are recognized as containing psilo
 
 ### Key Species Groups
 
-- **[[psilocybe-cubensis]]** — The most widely cultivated species, native to subtropical regions of the Americas. Large, robust fruiting bodies with moderate potency. Often found on bovine dung.
+- **Psilocybe cubensis** — The most widely cultivated species, native to subtropical regions of the Americas. Large, robust fruiting bodies with moderate potency. Often found on bovine dung.
 - **Psilocybe semilanceata** — "Liberty cap," native to temperate grasslands of Europe and North America. Among the most potent species naturally. Found in association with grasses, particularly in autumn.
 - **Psilocybe cyanescens** — "Wavy caps," found on decaying wood chips in temperate coastal regions. Known for high potency and blueing reaction.
-- **Psilocybe azurescens** — Among the most potent known species, restricted to the [[psilocybin-north-america-pacific-northwest]] coast of North America. Grows on dune grasses and decaying wood.
+- **Psilocybe azurescens** — Among the most potent known species, restricted to the Pacific Northwest coast of North America. Grows on dune grasses and decaying wood.
 - **Psilocybe mexicana** — The species used in traditional Mazatec ceremonies and the first psilocybin mushroom identified by Western science. Native to highland Mexico.
 - **Psilocybe allenii** — Found in the Pacific Northwest, closely related to P. cyanescens but with distinct morphological features.
 - **Psilocybe weilii** — Discovered in Georgia, USA, found in red clay soils beneath Loblolly Pine.
@@ -54,11 +54,11 @@ Panaeolus species are small, dark-spored mushrooms found on dung and enriched so
 
 ### Inocybe
 
-Inocybe is a large genus with over 1,400 described species. Most are mycorrhizal associates of trees. Several Inocybe species contain psilocybin, including **Inocybe corydalina** and **[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]**. However, many Inocybe species contain dangerous levels of **muscarine**, a toxin that causes sweating, salivation, lacrimation, urination, defecation, gastrointestinal distress, and in severe cases, respiratory failure. Inocybe species are notoriously difficult to identify and should be avoided by casual foragers.
+Inocybe is a large genus with over 1,400 described species. Most are mycorrhizal associates of trees. Several Inocybe species contain psilocybin, including **Inocybe corydalina** and **Inocybe aeruginascens**. However, many Inocybe species contain dangerous levels of **muscarine**, a toxin that causes sweating, salivation, lacrimation, urination, defecation, gastrointestinal distress, and in severe cases, respiratory failure. Inocybe species are notoriously difficult to identify and should be avoided by casual foragers.
 
 ### Galerina
 
-**[[galerina-marginata]]** (Deadly Galerina) is one of the most dangerous look-alikes. It contains the same amatoxins found in **Amanita phalloides** (Death Cap) and can be lethal. G. marginata grows in similar habitats to Psilocybe cyanescens — on decaying wood and wood chips — and has a similar brown cap appearance. Key distinguishing features include a brown spore print (Psilocybe has a purple-brown to dark purple-black print) and a persistent annulus. See [[fungal-toxins-reference]] for details on amatoxin poisoning.
+**Galerina marginata** (Deadly Galerina) is one of the most dangerous look-alikes. It contains the same amatoxins found in **Amanita phalloides** (Death Cap) and can be lethal. G. marginata grows in similar habitats to Psilocybe cyanescens — on decaying wood and wood chips — and has a similar brown cap appearance. Key distinguishing features include a brown spore print (Psilocybe has a purple-brown to dark purple-black print) and a persistent annulus. See [[fungal-toxins-reference]] for details on amatoxin poisoning.
 
 ## Morphological Identification Features
 
@@ -73,7 +73,7 @@ Key features for distinguishing Psilocybe from look-alikes:
 
 ## The Psilocybin Biosynthetic Gene Cluster
 
-The discovery of the psilocybin biosynthetic gene cluster has added a molecular dimension to taxonomy. Researchers can now use PCR-based detection of psiD, psiH, psiK, and psiM to confirm the presence of psilocybin biosynthesis capability in fungal tissue, even before [[bloomfield-fungal-fruiting-body-morphology-ecological-function]] is available. This is particularly valuable for identifying active species among the many undescribed or poorly characterized taxa [[fukuoka-natural-farming-in-tropical-regions]].
+The discovery of the psilocybin biosynthetic gene cluster has added a molecular dimension to taxonomy. Researchers can now use PCR-based detection of psiD, psiH, psiK, and psiM to confirm the presence of psilocybin biosynthesis capability in fungal tissue, even before fruiting body morphology is available. This is particularly valuable for identifying active species among the many undescribed or poorly characterized taxa in tropical regions.
 
 ## Distribution Patterns
 
@@ -88,38 +88,3 @@ Many species have restricted ranges, suggesting long evolutionary histories in s
 ## Conservation Considerations
 
 Several Psilocybe species have restricted distributions and are threatened by habitat destruction. P. azurescens, for instance, occupies a very narrow coastal dune habitat. Collection pressure can also threaten local populations, particularly for easily accessible species like P. semilanceata. The legal status of psilocybin mushrooms in most countries complicates conservation efforts.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-Field trials provide essential data for validating theoretical approaches and refining methodologies.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-Peer-reviewed publications and practitioner reports contribute complementary perspectives.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-Regional networks and demonstration sites play crucial roles in technology transfer.
-
-## Implementation Notes
-Start with small-scale trials before expanding to larger operations.
-Maintain detailed records of conditions, inputs, and outcomes for iterative refinement.
-Regular review and adjustment of strategies based on observed results ensures continuous improvement.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

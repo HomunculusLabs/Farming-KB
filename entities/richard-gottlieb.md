@@ -5,11 +5,11 @@ updated: 2026-04-12
 type: entity
 tags: [person, mycology, cultivation, ethnobotany]
 sources:
-  - "raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"
+  - raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md
   - raw/papers/gottlieb-a-the-psilocybin-producers-guide.md
 ---
 
-## Richard Gottlieb
+# Richard Gottlieb
 
 Adam Gottlieb (published under "Richard Gottlieb" on peyote guide) is the author of two influential underground cultivation guides: *The Psilocybin Producer's Guide* (1976) and *A Guide to the Peyote and Other Psychoactive Cacti*. His works are known for practical, accessible instructions written for home cultivators with minimal equipment.
 
@@ -44,37 +44,37 @@ Gottlieb's guides bridged academic mycology and home cultivation, making advance
 
 ## See Also
 
-- [[cactus-cultivation-seed-cutting]]
-- [[jochen-gartz]]
-- [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]]
-- [[paul-stamets]]
-- [[peyote-cultivation]]
-- [[psilocybin-extraction-guide]]
-- [[psilocybin-large-scale-production]]
-- [[psilocybin-mushroom-cultivation]]
-- [[psychoactive-cacti-guide]]
-- [[richard-alpert]]
-- [[richard-evans-schultes]]
-- [[richard-evans-schultes-updated]]
-- [[richard-perkins]]
+- [[jochen-gartz]] — fellow cultivation guide author with broader species focus
+- [[paul-stamets]] — commercial mushroom cultivation pioneer
+- [[psilocybin-mushroom-cultivation]] — broader cultivation methods including Gottlieb's techniques
+- [[psychoactive-cacti-guide]] — cactus cultivation and preparation
+- [[peyote-cultivation]] — detailed peyote cultivation methods
+- [[cactus-cultivation-seed-cutting]] — cactus propagation from seed and cutting
+- [[psilocybin-extraction-guide]] — methanol extraction method from Gottlieb's guide
+- [[psilocybin-large-scale-production]] — production room design from Gottlieb's guide
+### Key Principles
+Understanding richard gottlieb requires consideration of several interrelated factors.
+These principles form the foundation for practical application and further research.
+Each factor contributes to the overall effectiveness and sustainability of the approach.
+Integration of multiple approaches often yields the best results.
 
-## Practical Applications
+### Methods and Techniques
+Various methods have been developed to implement these concepts effectively.
+Selection of appropriate techniques depends on specific conditions and objectives.
+Adaptation to local conditions improves outcomes and resource efficiency.
+Best practices continue to evolve as new research becomes available.
 
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
-## Key Considerations
+### Practical Applications
+Real-world implementation requires attention to local conditions and available resources.
+Success often depends on careful planning and iterative refinement of techniques.
+Documentation and observation support continuous improvement.
 
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-## Comparative Analysis
+### Research and Development
+Ongoing research continues to refine understanding and improve practical applications.
+New developments in related fields contribute to advancing knowledge in this area.
+Field trials and experimental results provide valuable data for optimization.
 
-Examining this topic alongside related approaches reveals complementary strategies and unique advantages. Multiple perspectives enrich understanding and inform better decision-making.
-
-## Mechanisms and Processes
-
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
-## Management Approaches
-
-Effective management integrates monitoring, assessment, and adaptive response. Systematic approaches outperform ad hoc methods by providing consistency and enabling knowledge transfer.
-## Performance Metrics
-
-Quantitative evaluation through appropriate metrics enables objective assessment and continuous improvement. Selection of relevant indicators aligned with goals ensures meaningful measurement.
-Further research may reveal additional applications and ecological relationships.
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

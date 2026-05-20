@@ -1,4 +1,5 @@
 ---
+
 title: Pollinator Habitat
 created: 2026-04-11
 updated: 2026-04-12
@@ -24,7 +25,7 @@ sources:
 - raw/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md
 ---
 
-## Pollinator Habitat
+# Pollinator Habitat
 
 Creating and managing habitat for native bees, butterflies, hummingbirds, and other pollinators. Based on Xerces Society guidelines and university extension research. Over 80% of flowering plants and one-third of human food crops depend on animal pollinators.
 

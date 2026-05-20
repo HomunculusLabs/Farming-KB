@@ -1,4 +1,5 @@
 ---
+
 title: The One-Straw Revolution — Book Guide
 created: 2026-04-12
 updated: 2026-04-12
@@ -21,32 +22,10 @@ tags:
 sources:
 - raw/papers/one-straw-revolution-masanobu-fukuoka.md
 ---
-title: The One-Straw Revolution — Book Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: summary
 
-tags:
-- regenerative
-- living-soil
-- permaculture
-- principles
-- philosophy
-- person
-- rice
-- grain
-- agriculture
-- season-extension
-- old-world
-- lighting
+# The One-Straw Revolution — Book Guide
 
-sources:
-- raw/papers/one-straw-revolution-masanobu-fukuoka.md
----
-
-## The One-Straw Revolution — Book Guide
-
-*The One-Straw Revolution* (1975, 1978 English) by [[masanobu-fukuoka]] is the foundational text of [[natural-farming]]. Originally published in Japanese as *Ichi-mugi no Kakumei*, it was translated into 25+ languages and became one of the most influential books on sustainable agriculture. It is part philosophy, part memoir, part farming manual — structured as five "books" told through conversations with visitors at his hilltop orchard.
+*The One-Straw Revolution* (1975, 1978 English) by Masanobu Fukuoka is the foundational text of natural farming. Originally published in Japanese as *Ichi-mugi no Kakumei*, it was translated into 25+ languages and became one of the most influential books on sustainable agriculture. It is part philosophy, part memoir, part farming manual — structured as five "books" told through conversations with visitors at his hilltop orchard.
 
 ## Book I: Look At This Grain
 
@@ -58,14 +37,14 @@ Fukuoka opens by showing his fields: rye and barley yielding ~22 bushels (1,300 
 2. **Early November**: Harvest rice, treading on young grain shoots; thresh; scatter rice straw uncut; form clay pellets with rice seed; broadcast before New Year
 3. **Winter**: Clover and barley grow together; rice seed dormant in clay pellets
 4. **Late May**: Harvest winter grain; scatter straw; hold water 7-10 days to weaken clover
-5. **June-July**: No irrigation — soil stays moist under straw and [[green-manure]]
+5. **June-July**: No irrigation — soil stays moist under straw and green manure
 6. **August**: Run water through once weekly without standing
 
 "One or two people can do all the work of growing rice and winter grain in a matter of a few days."
 
 ### The Awakening (Nothing At All)
 
-Fukuoka's transformation at age 25 (May 15th, ~1933). Working as a plant pathologist at Yokohama Customs Bureau under Professor [[eiichi-kurosawa]] (who first isolated gibberellin), he contracted acute pneumonia. After hospital release, he wandered nightly in existential crisis, finally collapsing against a tree overlooking Yokohama harbor at dawn:
+Fukuoka's transformation at age 25 (May 15th, ~1933). Working as a plant pathologist at Yokohama Customs Bureau under Professor Eiichi Kurosawa (who first isolated gibberellin), he contracted acute pneumonia. After hospital release, he wandered nightly in existential crisis, finally collapsing against a tree overlooking Yokohama harbor at dawn:
 
 "In this world there is nothing at all."
 
@@ -87,7 +66,7 @@ Fukuoka walks visitors through his fields: dragonflies, moths, honeybees, spider
 
 1. **NO CULTIVATION** — The earth cultivates itself through plant roots, microorganisms, small animals, and earthworms
 2. **NO CHEMICAL FERTILIZER OR PREPARED COMPOST** — White clover cover, returned straw, a little poultry manure. "If left to itself, the soil maintains its fertility naturally"
-3. **NO WEEDING BY TILLAGE OR HERBICIDES** — Straw mulch, [[white-clover-ground-cover]], temporary flooding
+3. **NO WEEDING BY TILLAGE OR HERBICIDES** — Straw mulch, white clover ground cover, temporary flooding
 4. **NO DEPENDENCE ON CHEMICALS** — "Nature, left alone, is in perfect balance. Harmful insects and plant diseases are always present, but do not occur in nature to an extent which requires poisonous chemicals"
 
 ### Cultivation
@@ -96,11 +75,11 @@ Fukuoka walks visitors through his fields: dragonflies, moths, honeybees, spider
 
 ### Fertilizer
 
-Soil fertility experts: if a field is left to itself, harvest settles at ~9 bushels per quarter acre — "the earth would become neither enriched nor depleted." But if nature is truly left alone, fertility *increases*. A barren mountain with poor red [[clay-soil]], planted with pine/cedar and a ground cover of clover and alfalfa, can see the top four inches enriched in less than ten years.
+Soil fertility experts: if a field is left to itself, harvest settles at ~9 bushels per quarter acre — "the earth would become neither enriched nor depleted." But if nature is truly left alone, fertility *increases*. A barren mountain with poor red clay soil, planted with pine/cedar and a ground cover of clover and alfalfa, can see the top four inches enriched in less than ten years.
 
 ### Ducks for Fertility
 
-For many years Fukuoka used ducks: "Ten ducks will supply all the manure necessary for a quarter acre and will also help to control the weeds." Construction of a national highway made duck passage impossible, so he switched to [[chicken-manure]].
+For many years Fukuoka used ducks: "Ten ducks will supply all the manure necessary for a quarter acre and will also help to control the weeds." Construction of a national highway made duck passage impossible, so he switched to chicken manure.
 
 ### Growing Rice in a Dry Field
 
@@ -141,3 +120,46 @@ Key evidence: his stem borer experiment at Kochi showed the untreated field with
 Fukuoka attended a pollution conference organized by the Agricultural Management Research Centre and the Organic Agricultural Council. When he proposed ending chemical use in farming, the chairman shut him down: "Mr. Fukuoka, you are upsetting the conference." He argues the root cause is systemic — "the Co-ops and the modern agricultural policy-makers depend on large capital investment in fertilizer and agricultural machinery for their base of power."
 
 ### The Fruit Processing Chain
+
+From tree to market: 5-6 chemicals applied (fertilizers, sprays during growth, colouring agents, ripening gas, preservatives, paraffin wax). "This is all because the consumer wants to buy fruit just a little more attractive."
+
+## Book IV: Confusion About Food
+
+### Natural Diet Philosophy
+
+Distinguishes between discriminating knowledge (analytic, wilful intellect) and non-discriminating knowledge (accepting experience as it is). "Nature as grasped by scientific knowledge is a nature that has been destroyed; it is a ghost possessing a skeleton, but no soul."
+
+### Nature's Food Mandala
+
+Fukuoka's food mandala maps seasonal eating: seven herbs in early spring, mountain vegetables in March, bamboo shoots with rock cod in season, brown rice and vegetables as staples. "A natural diet lies right at one's feet."
+
+## Book V: Foolishness Comes Out Looking Smart
+
+### Life at the Orchard
+
+Young people from cities, researchers, students, poets, wanderers gathered at the mud-walled huts. "Many people come, thinking they will find a utopia where one can live without ever having to get out of bed. These people are in for a big surprise. Hauling water from the spring in the early morning fog, splitting firewood until their hands are red and stinging with blisters."
+
+### Philosophy of Non-Understanding
+
+"People study because they think they do not understand, but studying is not going to help one to understand. They study hard only to find out in the end that people cannot know anything." The path: abandon discriminating knowledge, and "non-discriminating knowledge of itself arises within him."
+
+"The more people do, the more society develops, and the more problems arise. The increasing desolation of nature, the exhaustion of resources, the uneasiness and disintegration of the human spirit, all have been brought about by humanity's trying to accomplish something."
+
+## Key Quotes
+
+"The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings."
+
+"If you throw away the concept of 'nature' and 'natural farming' and just do what comes naturally, you will be on the right path."
+
+"The only road for man is to do nothing. If everyone were to do nothing, the world would become a place of peace and plenty."
+
+"Rain does not fall from the heavens; it issues forth from the ground. Deserts do not form because there is no rain; rather, rain ceases to fall because the vegetation has disappeared."
+
+## See Also
+
+- [[natural-farming-fukuoka]] — Full method summary and practical applications
+- [[fukuoka-philosophy-in-practice]] — Deeper philosophical exploration
+- [[natural-farming-seed-balls]] — Clay pellet technique
+- [[natural-way-of-farming-guide]] — Deep dive into Fukuoka's technical masterwork
+- [[natural-farming-vs-organic-vs-conventional]] — Three-way comparison
+- [[masanobu-fukuoka]] — Biographical entity page

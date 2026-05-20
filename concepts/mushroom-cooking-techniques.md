@@ -140,11 +140,60 @@ Preservation method that also creates flavor:
 - King oyster (P. eryngii): much meatier; slice and sear like scallops
 
 ### Hen of the Woods/Maitake (Grifola frondosa)
+- Complex, peppery flavor; layered, feathery texture
+- Tear into pieces along natural segments
+- Best methods: roasting, braising, tempura, soups
+- Pair with: soy sauce, butter, sage, roasted meats
+- Crisps beautifully when roasted at high heat
+
+### Chicken of the Woods (Laetiporus sulphureus)
+- Chicken-like texture and mild flavor when young
+- Only harvest and eat young, soft specimens (tender when pressed)
+- Older specimens become woody, bitter, and can cause GI issues
+- Best methods: sauteing like chicken, breading and frying
+- Pair with: lemon, butter, garlic, herbs, cream sauces
+
+### Lion's Mane (Hericium erinaceus)
+- Delicate, seafood-like flavor and texture
+- Compares to lobster or crab meat
+- Best methods: gentle sauteing in butter, tempura, crab cake substitute
+- Pair with: lemon, butter, Old Bay seasoning, cream
+- Overcooking makes it rubbery; cook just until golden
+
+## Avoiding Bitterness
+
+### Causes of Bitter Mushrooms
+- Old or over-mature specimens (most common cause)
+- Certain species are inherently slightly bitter (some boletes, Russula)
+- Improper storage (refrigerate immediately; use within days)
+- Contamination from bitter tree species (eucalyptus, some conifers)
+- Burning during cooking
+
+### Fixing Bitterness
+- Parboil bitter mushrooms in salted water for 5-10 minutes; discard water
+- Soak in milk or buttermilk (works for some bitter compounds)
+- Use in strongly flavored dishes where bitterness is less noticeable
+- Add sweetness to balance (mirin, honey, caramelized onions)
+- Acid (lemon juice, vinegar) can mask bitterness in some dishes
+
+## Flavor Pairing Guide
+
+### Classic Combinations
+- Mushrooms + cream + thyme (universal)
+- Mushrooms + garlic + butter + parsley (French)
+- Mushrooms + soy sauce + ginger + sesame (Asian)
+- Mushrooms + Parmesan + white wine + risotto (Italian)
+- Mushrooms + bacon + cream (Anglo-American)
+- Mushrooms + eggs + chives (breakfast)
+
+### Wine Pairings
+- Earthy mushrooms (porcini, chanterelle): Pinot Noir, Nebbiolo
+- Delicate mushrooms (morel, chanterelle): Chardonnay, Chenin Blanc
+- Rich preparations (cream sauces): Chardonnay, Viognier
+- Asian preparations: Riesling, Gewurztraminer
+- Avoid heavy tannic reds that clash with mushroom earthiness
 
 ## See Also
 
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[straw-based-mushroom-substrate-preparation]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[straw-mushroom-cultivation]]
-- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]
+- [[edible-wild-mushrooms-by-region]] -- finding mushrooms to cook with
+- [[mushroom-foraging-safety-guide]] -- ethical harvesting for the kitchen

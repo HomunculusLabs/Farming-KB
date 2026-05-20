@@ -7,9 +7,9 @@ tags: [cultivation, gardening, vegetables, pruning, pest-control, plant-growth, 
 sources: []
 ---
 
-## Tomato Growing Guide
+# Tomato Growing Guide
 
-Tomatoes ([[solanum-lycopersicum]]) are the most popular home garden crop. This guide covers the key distinctions between varieties, pruning techniques, support systems, disease management, and harvesting for maximum productivity.
+Tomatoes (Solanum lycopersicum) are the most popular home garden crop. This guide covers the key distinctions between varieties, pruning techniques, support systems, disease management, and harvesting for maximum productivity.
 
 ## Determinate vs. Indeterminate
 
@@ -36,7 +36,7 @@ Tomatoes ([[solanum-lycopersicum]]) are the most popular home garden crop. This 
 - Nighttime temperatures should be consistently above 50°F.
 - Plant deep: bury stem up to the first set of true leaves — tomatoes root from the stem. Up to 2/3 of the plant can be buried.
 - Space determinates 18-24 inches apart; indeterminates 24-36 inches apart (closer with trellising).
-- Add a handful of bone meal or [[rock-phosphate]] to each planting hole.
+- Add a handful of bone meal or rock phosphate to each planting hole.
 - Water in well with diluted compost tea or fish emulsion.
 - Install supports (stakes or cages) at planting time — root damage from later installation can set plants back.
 
@@ -148,3 +148,4 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 - [[companion-planting-reference]] — basil, marigolds, borage as tomato companions
 - [[seed-starting-reference]] — indoor starting schedule and techniques
 - [[soil-amendment-reference]] — calcium, phosphorus, and potassium sources
+- [[pepper-growing-guide]] — related nightshade crop with similar requirements

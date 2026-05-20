@@ -7,7 +7,7 @@ tags: [permaculture, water-harvesting, swales, ponds, rainwater, greywater, eart
 sources: [raw/papers/bill-mollison-permaculture-design-course.md, raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-## Permaculture Water Harvesting
+# Permaculture Water Harvesting
 
 ## Overview
 
@@ -41,7 +41,7 @@ A swale is a level ditch on contour that catches water running off the land surf
 - Reduce erosion by slowing water flow
 - Create a moist planting zone on the berm
 - Distribute water across the landscape rather than concentrating it
-- Build soil through accumulated [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] on the berm
+- Build soil through accumulated organic matter on the berm
 
 ## Ponds and Dams
 
@@ -56,7 +56,7 @@ Ponds store water at the surface for irrigation, livestock, fire control, and aq
 
 ## Rainwater Collection
 
-[[comparison-drip-irrigation-vs-rainwater-harvesting]] from roofs provides high-quality water for domestic and garden use:
+Rainwater harvesting from roofs provides high-quality water for domestic and garden use:
 
 - Every square meter of roof collects approximately 1 liter of water per millimeter of rainfall
 - First-flush diverters discard the initial contaminated runoff from roof surfaces
@@ -68,15 +68,15 @@ Ponds store water at the surface for irrigation, livestock, fire control, and aq
 
 Greywater (water from showers, sinks, and laundry) can be treated and reused in the landscape:
 
-- Greywater contains nutrients from soaps [[hamilton-composting-and-organic-matter-management]] that benefit plants
+- Greywater contains nutrients from soaps and organic matter that benefit plants
 - Simple systems use settling tanks, grease traps, and biological filtration
-- Reed beds and [[comparison-constructed-wetlands-vs-bioswales]] effectively treat greywater using aquatic plants
+- Reed beds and constructed wetlands effectively treat greywater using aquatic plants
 - Mulch basins around trees can directly receive filtered greywater
 - Never store untreated greywater -- use it immediately or treat it aerobically
 
 ## Keyline Design
 
-Keyline is a [[slope-analysis-landscape-planning]] technique developed by P.A. Yeomans that optimizes water distribution on agricultural land:
+Keyline is a landscape planning technique developed by P.A. Yeomans that optimizes water distribution on agricultural land:
 
 - The keyline is identified as the point of maximum change in slope (where a convex slope becomes concave)
 - Cultivation parallel to the keyline, widening toward valleys, spreads water from valleys to ridges
@@ -92,29 +92,9 @@ Keyline is a [[slope-analysis-landscape-planning]] technique developed by P.A. Y
 - Deep-rooted perennial plants access water that annuals cannot reach
 - Ground covers protect soil from direct sun and rain impact
 
-## Scaling Considerations
-
-Factors for scaling operations effectively. For permaculture water harvesting, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
-
-## Monitoring Protocols
-
-Systematic observation and data collection methods. For permaculture water harvesting, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
-
-## Resource Requirements
-
-Materials and resources needed for implementation. For permaculture water harvesting, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
-
-## Adaptive Management
-
-Flexible approaches that respond to changing conditions. For permaculture water harvesting, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
-
 ## See Also
 
 - [[permaculture-mapping-and-reading-the-landscape]]
 - [[permaculture-aquaculture-guide]]
 - [[permaculture-site-analysis]]
 - [[homestead-water-systems]]
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.

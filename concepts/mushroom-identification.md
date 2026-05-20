@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Identification
 created: 2026-04-11
 updated: 2026-04-12
@@ -25,7 +26,7 @@ sources:
 - raw/papers/carolina-mushrooms_08qxp.md
 ---
 
-## Mushroom Identification
+# Mushroom Identification
 
 Safe wild mushroom foraging requires systematic observation of multiple features. No single rule (peelability, silver spoon, color) reliably separates edible from poisonous species (Ramsbottom, 1945). The only safe method is learning to identify each species individually.
 
@@ -127,5 +128,5 @@ Essential diagnostic tool. Place cap gills-down on half white/half black paper, 
 
 See also: [[fc-ghouled]] — author of early North American psilocybin identification guide.
 - [[mushroom-toxicity-identification-warnings]]
-- [[mushroom-foraging-safety]]
+- [[mushroom-foraging-safety-guide]]
 - [[mushroom-poisoning-guide]]

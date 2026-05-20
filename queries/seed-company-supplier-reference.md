@@ -1,4 +1,5 @@
 ---
+
 title: Seed Company and Supplier Reference
 created: 2026-04-11
 updated: 2026-04-12
@@ -29,7 +30,7 @@ sources:
 - queries/homestead-startup-checklist.md
 ---
 
-## Seed Company and Supplier Reference
+# Seed Company and Supplier Reference
 
 Compiled from all wiki source texts. Lists seed companies, mushroom spawn suppliers, cannabis seed banks, organic supply companies, and equipment suppliers mentioned or referenced across the wiki.
 

@@ -7,7 +7,7 @@ tags: [permaculture, equipment, design, homesteading, methods, regenerative, eco
 sources: []
 ---
 
-## Rocket Stove
+# Rocket Stove
 
 A rocket stove is an efficient, clean-burning wood-burning stove that uses an insulated J-tube or L-tube combustion chamber to achieve near-complete combustion of wood fuel. Designed for maximum heat transfer with minimal fuel consumption, rocket stoves can achieve combustion efficiencies of 80-90% compared to 10-15% for open campfires. They produce significantly less smoke, use small-diameter wood that would otherwise be waste, and can be built from inexpensive or salvaged materials. Rocket stove technology, developed by Dr. Larry Winiarski at Aprovecho Research Center in the 1980s, is widely used in developing countries for cooking and adapted for homestead heating, water heating, and cob oven integration.
 
@@ -148,3 +148,24 @@ Rocket stoves are designed to burn small-diameter wood efficiently:
 ## Safety Considerations
 
 - The combustion chamber and heat riser reach temperatures of 1000-1800F — serious burn hazard
+- Provide a stable, non-combustible base for the stove
+- Maintain clearances from combustible walls and ceilings (minimum 36 inches)
+- Install a carbon monoxide detector if using indoors or in enclosed spaces
+- Ensure adequate ventilation — rocket stoves consume oxygen and produce CO2
+- Keep children and pets away from the hot surfaces
+- Check local regulations before installing permanent indoor rocket mass heaters
+
+## Troubleshooting
+
+| Problem | Cause | Solution |
+|---|---|---|
+| Excessive smoke | Insufficient draft; wet wood; cold start; wrong dimensions | Use dry fuel; preheat the chimney with newspaper; check dimensions match specifications |
+| Fire goes out | Draft reversed; chimney too short; blockage | Ensure chimney is tall enough (15+ ft for mass heaters); clear blockages; warm the chimney |
+| Back-puffing (smoke from feed tube) | Wind blowing down chimney; insufficient chimney height | Add a chimney cap; extend chimney height; block wind |
+| Stove overheating | Insulation too thin; continuous over-firing | Add more insulation; reduce fuel feed rate; let stove cool between uses |
+| Cooking surface too cool | Gap between riser and pot too large or too small | Adjust cooking surface height to 1.5x riser diameter |
+| Metal parts burning through | Thin steel in combustion chamber; high temperatures | Use thicker steel, firebrick, or cast refractory for the J-tube |
+
+## Related
+
+- [[mud-oven]]

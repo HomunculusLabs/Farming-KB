@@ -7,7 +7,7 @@ tags: [permaculture, plants, plant-catalog, species, remediation, difficult-site
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
 
-## Salt Tolerant Plant Guide
+# Salt Tolerant Plant Guide
 
 Salt-affected land can be rehabilitated by establishing a cover of salt-tolerant species. It is common practice in saline, waterlogged conditions to plant into mounds 200-300 mm above normal ground level, following contours where possible. Salt affected land should be fenced from stock until fodder species are established.
 
@@ -68,7 +68,7 @@ Companions to saltbushes, native to Australia.
 - **Arctotis stoechadifolia** (African Daisy): Bushy creeping perennial from South Africa, half-hardy. Excellent sand binder
 - **Armeria maritima** (Sea Pink): Hardy frost-hardy perennial, covers sand banks readily
 - **Batis maritima** (Saltwort): Prostrate shrub from mangrove swamps and salt marshes, native to Florida
-- **[[sarcocornia-quinqueflora]]** (Chicken Claws): Extensive colonies on tidal mudflats. Succulent stems absorb pickle flavours
+- **Sarcocornia quinqueflora** (Chicken Claws): Extensive colonies on tidal mudflats. Succulent stems absorb pickle flavours
 - **Sesuvium portulacastrum** (Sea Purslane): Fleshy-leaved shrubby herb. Leaves make excellent vegetable and pickle ingredient
 - **Suaeda australis** (Sea Blight): Shrubby herb of saltflats and sandbanks. Used as vegetable and in pickles
 
@@ -76,74 +76,4 @@ Companions to saltbushes, native to Australia.
 
 - [[difficult-site-planting]]
 - [[water-plant-guide]]
-- [[permaculture-plant-selection]]
-
-## Overview
-
-Salt Tolerant Plant Guide represents an important element within sustainable
-design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
-and integration contributes to the resilience and productivity of
-designed ecosystems and agricultural systems.
-
-## Key Characteristics
-
-Several defining characteristics distinguish salt tolerant plant guide
-from related concepts in permaculture and ecological design.
-Understanding these traits supports effective implementation
-and management across diverse environmental conditions.
-
-## Ecological Context
-
-The ecological relationships involving salt extend
-across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
-with this element in complex and beneficial ways.
-
-## Practical Applications
-
-Salt Tolerant Plant Guide finds practical application in multiple design contexts.
-[[mollisonian-permaculture-principles]] guide integration strategies that maximize
-beneficial interactions while minimizing external inputs.
-Site-specific adaptation ensures relevance to local conditions.
-
-## Management and Implementation
-
-Effective management requires attention to seasonal patterns
-and environmental feedback loops. Monitoring outcomes supports
-adaptive [[livestock-grassland-management-strategies]] that improve results over time.
-Integration with complementary elements enhances system function.
-
-## Regional Considerations
-
-Different geographic regions present unique challenges and
-opportunities for salt tolerant plant guide. [[jeavons-climate-adaptation-growing-seasons]]
-strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
-
-## Sustainability
-
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
-
-## Research and Development
-
-Ongoing research continues to expand understanding of
-salt tolerant plant guide and its applications. Active investigation
-areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
-Published findings contribute to an evolving evidence base.
-
-## Historical Context
-
-Salt Tolerant Plant Guide has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
-
-## Integration Strategies
-
-Successful integration of salt tolerant plant guide into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
+- [[permaculture-plant-selection-guide]]

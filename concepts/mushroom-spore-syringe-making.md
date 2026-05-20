@@ -12,21 +12,21 @@ sources:
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
-## Mushroom Spore Syringe Making
+# Mushroom Spore Syringe Making
 
 ## Overview
 
-A spore syringe is a suspension of mushroom spores in sterile water, used to inoculate [[fungal-culture-media]] or [[mushroom-cultivation-grain-spawn]]. Making spore syringes from [[fungal-spore-print-guide]] is a fundamental skill in mushroom cultivation, serving as the starting point for tissue culture, strain isolation, and genetic preservation.
+A spore syringe is a suspension of mushroom spores in sterile water, used to inoculate [[fungal-culture-media|agar media]] or [[mushroom-cultivation-grain-spawn|grain spawn]]. Making spore syringes from [[fungal-spore-print-guide|spore prints]] is a fundamental skill in mushroom cultivation, serving as the starting point for tissue culture, strain isolation, and genetic preservation.
 
 ## Materials and Equipment
 
 ### Essential Items
 
-- **Spore print:** Fresh print on foil, glass, or paper (see [[mushroom-spore-printing-and-storage]])
+- **Spore print:** Fresh print on foil, glass, or paper (see [[mushroom-spore-printing-and-storage|spore printing]])
 - **Sterile syringes:** 10-12 mL luer-lock syringes (typically 2-4 per print)
 - **Sterile syringe needles:** 18-20 gauge, 1.5 inch
 - **Sterile water:** Distilled water, sterilized by pressure cooking (15 psi, 20 min)
-- **Sterile working environment:** [[laminar-flow-hood]] or still-air box (glove box)
+- **Sterile working environment:** [[laminar-flow-hood-guide|laminar flow hood]] or still-air box (glove box)
 - **Alcohol lamp or lighter:** For flame sterilization
 - **Isopropyl alcohol (70%):** For surface sterilization
 - **Small glass jar or vial:** For water reservoir (pre-sterilized)
@@ -86,7 +86,7 @@ A spore syringe is a suspension of mushroom spores in sterile water, used to ino
 
 ### Inoculating Agar Plates
 
-Spore syringes are commonly used to inoculate [[pda-and-tissue-culture]]:
+Spore syringes are commonly used to inoculate [[pda-and-tissue-culture|agar media]]:
 
 1. Flame sterilize the needle until red hot, then cool by expressing a small drop of liquid
 2. Lift the lid of the agar plate slightly and deposit 1-2 drops of spore suspension onto the agar surface
@@ -102,7 +102,7 @@ Spore syringes can inoculate grain jars/bags directly:
 3. Shake the jar to distribute spores
 4. Incubate at appropriate temperature
 
-Note: Spore inoculation of grain is slower and less reliable than using [[mushroom-cultivation-cloning-isolation]], because spores must germinate (a process that can take days to weeks) and the resulting mycelium is genetically diverse rather than cloned.
+Note: Spore inoculation of grain is slower and less reliable than using [[mushroom-cultivation-cloning-isolation|agar-cultured mycelium]], because spores must germinate (a process that can take days to weeks) and the resulting mycelium is genetically diverse rather than cloned.
 
 ## Spore Syringe Storage
 
@@ -123,10 +123,10 @@ Common contamination sources in spore syringe preparation:
 
 ## See Also
 
-- [[mushroom-spore-syringe-preparation]]
-- [[fungal-spore-print-guide]]
-- [[mushroom-spore-printing-and-storage]]
-- [[mushroom-cultivation-sterile-technique]]
+- [[mushroom-spore-syringe-preparation|spore syringe preparation guide]]
+- [[fungal-spore-print-guide|spore print guide]]
+- [[mushroom-spore-printing-and-storage|spore printing and storage]]
+- [[mushroom-cultivation-sterile-technique|sterile technique in mushroom cultivation]]
 
 ## Related
 

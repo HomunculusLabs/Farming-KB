@@ -65,7 +65,7 @@ It is not easy to obtain manure that you can be confident will grow a great gard
 
 ## Why COF Over Manure Alone
 
-The [[complete-organic-fertilizer]] approach has several advantages over relying solely on manure:
+The [[complete-organic-fertilizer-cof]] approach has several advantages over relying solely on manure:
 
 1. **Predictable nutrition**: You know exactly what minerals you are adding and in what quantities.
 2. **Complete spectrum**: COF provides trace minerals that manure may lack.

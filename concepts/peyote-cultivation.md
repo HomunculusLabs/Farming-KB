@@ -7,7 +7,7 @@ tags: [cacti, cultivation, ethnobotany, religion, culture, plants, ecology]
 sources: []
 ---
 
-## Peyote Cultivation
+# Peyote Cultivation
 
 ## Overview
 

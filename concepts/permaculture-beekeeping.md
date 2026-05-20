@@ -4,7 +4,7 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [permaculture, design]
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 ## Permaculture Beekeeping updated: 2026-04-18 Bees are essential producers in any [[pollinator-habitat]]
 - [[korean-natural-farming-fpj-and-ffp-recipes]]

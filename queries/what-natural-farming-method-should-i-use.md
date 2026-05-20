@@ -1,4 +1,5 @@
 ---
+
 title: What Natural Farming Method Should I Use
 created: 2026-04-11
 updated: 2026-04-12
@@ -24,7 +25,7 @@ sources:
 - raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md
 ---
 
-## What Natural Farming Method Should I Use
+# What Natural Farming Method Should I Use
 
 A decision guide for choosing between natural farming approaches based on your goals, resources, and situation.
 

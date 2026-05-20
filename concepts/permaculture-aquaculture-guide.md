@@ -7,20 +7,20 @@ tags: [permaculture, aquaculture, fish, ponds, polyculture, water, design, food-
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-## Permaculture Aquaculture Guide
+# Permaculture Aquaculture Guide
 
 ## Overview
 
-Aquaculture is the integration of fish, water plants, and [[fungi-aquatic-animals-pathogens-parasites]] into designed landscapes. Permaculture aquaculture systems mimic natural pond ecologies, producing high yields of fish, crustaceans, and aquatic plants while performing essential water storage and purification functions on the site.
+Aquaculture is the integration of fish, water plants, and aquatic animals into designed landscapes. Permaculture aquaculture systems mimic natural pond ecologies, producing high yields of fish, crustaceans, and aquatic plants while performing essential water storage and purification functions on the site.
 
 ## The Case for Aquaculture
 
-[[comparison-aquaculture-in-permaculture-vs-backyard-pond-building]] serves multiple functions simultaneously:
+Aquaculture in permaculture serves multiple functions simultaneously:
 - Water storage for irrigation and domestic use
 - Food production (fish, crustaceans, edible water plants)
 - Fire control through stored water
 - Microclimate moderation (ponds buffer temperature extremes)
-- [[amphibian-habitat-creation]] for wildlife and beneficial species
+- Habitat creation for wildlife and beneficial species
 - Water purification through biological filtration
 - Flood control and runoff management
 - Recreation and aesthetic value
@@ -43,7 +43,7 @@ Multiple pond types serve different functions in a permaculture system:
 - **Fish-rearing ponds** for food production
 - **Settlement ponds** for water clarification
 - **Duck ponds** integrated with poultry systems
-- **[[biological-sewage-treatment-plants]] ponds** (oxidation ponds) for greywater and blackwater purification
+- **Sewage treatment ponds** (oxidation ponds) for greywater and blackwater purification
 
 ### Depth and Shape
 
@@ -67,7 +67,7 @@ Common species in permaculture systems include carp, tilapia, catfish, perch, an
 Aquaculture integrates with other elements:
 - **Ducks and geese** on ponds provide manure that feeds plankton and fish
 - **Duckweed (Lemna spp.)** grown on pond surfaces provides high-protein feed for poultry and pigs
-- **Water chestnuts, lotus, and watercress** grow in [[holzer-pond-shape-deep-shallow-zones]]
+- **Water chestnuts, lotus, and watercress** grow in shallow zones
 - **Edge plantings** of willow, bamboo, and comfrey provide fodder and mulch
 
 ### Biological Filtration
@@ -75,7 +75,7 @@ Aquaculture integrates with other elements:
 Water purification in aquaculture systems uses multiple stages:
 - Skimming and sieving to remove large organic particles
 - Filtration via sand beds or charcoal-fibre columns, soils, the roots of aquatic plants
-- Coagulation or flocculation using [[building-with-natural-materials]]
+- Coagulation or flocculation using natural materials
 - Biological treatment through algae, aquatic plants, and microbial activity
 
 ## Pond Ecology
@@ -96,30 +96,3 @@ Edge plantings are critical -- the transition zone between water and land suppor
 - [[permaculture-design-methods]]
 - [[permaculture-site-analysis]]
 - [[homestead-water-systems]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.

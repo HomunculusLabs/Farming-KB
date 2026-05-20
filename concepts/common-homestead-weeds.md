@@ -1,4 +1,5 @@
 ---
+
 title: Common Homestead Weeds — Identification, Uses, and Management
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 ---
 
-## Common Homestead Weeds
+# Common Homestead Weeds
 
 Detailed profiles of the most common weeds found on a regenerative homestead. Covers identification, edible/medicinal uses, ecological roles, and management strategies. See [[weed-management-strategies]] for prevention, control methods, and seasonal calendar.
 
@@ -144,3 +145,38 @@ Detailed profiles of the most common weeds found on a regenerative homestead. Co
 **Identification**: Tall (4-10 feet) bamboo-like stems with red/purple speckles. Large heart-shaped leaves. Small white flower clusters in late summer.
 
 **Why it's a problem**: Extremely invasive — can damage foundations. Spreads by rhizome (any fragment regrows). Listed as noxious weed in many states.
+
+**Management**: Cut repeatedly to starve roots (takes 5+ years of consistent effort). Consult local extension for approved treatments. Never compost or move soil from knotweed areas. Report infestations to local authorities.
+
+### Crabgrass (*Digitaria spp.*)
+
+**Identification**: Prostrate annual grass with wide, hairy blades. Spreads by stolons (above-ground runners) and seed. Forms dense mat.
+
+**Management**: Dense planting/mulch to shade out. Pre-emergent corn gluten meal in early spring. Improve soil structure (crabgrass thrives in compacted soil). Pull before seed set.
+
+## Quick Reference — What to Do With Each Weed
+
+| Weed | Eat It? | Accumulator? | Key Management |
+|---|---|---|---|
+| Dandelion | Yes (all parts) | Ca, K, trace minerals | Harvest, allow in lawn |
+| Purslane | Yes (raw, cooked) | Moisture retention | Eat it; mulch heavily |
+| Lamb's quarters | Yes (cook) | Nitrogen indicator | Pull before seed set |
+| Plantain | Yes (young leaves) | Ca, Mg, S, K | Allow in pathways |
+| Chickweed | Yes (raw, cooked) | Fe, Zn | Easy pull; eat it |
+| Nettles | Yes (blanched) | N, Fe, K, Ca, Mg, S | Contain roots; harvest |
+| Amaranth | Yes (leaves, seeds) | Nitrogen indicator | Pull before seed set |
+| Bindweed | No | — | Smother, never till |
+| Quackgrass | No | — | Smother, dig rhizomes |
+| Thistle | No | — | Cut before flowering |
+| Knotweed | No | — | Report; multi-year effort |
+| Crabgrass | No | — | Dense planting, pre-emergent |
+
+## See Also
+
+- [[weed-management-strategies]] — prevention, control methods, organic herbicides, seasonal calendar
+- [[dynamic-accumulators]] — detailed accumulator plant profiles
+- [[herbal-medicine]] — medicinal uses for common weeds
+- [[no-till-gardening-method]] — soil management approach that reduces weed pressure
+- [[cover-cropping-guide]] — using cover crops for weed suppression
+- [[soil-fertility-management]] — interpreting weed soil indicators and amending
+- [[companion-planting-reference]] — plant communities that compete with weeds

@@ -7,7 +7,7 @@ tags: [mycology, fungi, health, medicine, academia, biology, lab-technique, immu
 sources: []
 ---
 
-## Fungal Vaccines
+# Fungal Vaccines
 
 ## Overview
 
@@ -140,11 +140,8 @@ The success of mRNA vaccines against SARS-CoV-2 has renewed interest in mRNA pla
 - **Combination vaccines**: Incorporating antigens from multiple fungi into a single formulation
 - **Therapeutic vaccines**: Designed to boost immune responses in patients already infected
 - **Improved adjuvants**: TLR agonists and other pattern recognition receptor agonists to enhance fungal-specific immune responses
+- **Personalized approaches**: Tailoring vaccine strategies to individual patient risk profiles and immune status
 
+See [[fungal-infections-human]] for details on the diseases these vaccines aim to prevent and [[fungal-antibiotics]] for current treatment approaches.
 ## See Also
-
-- [[fungi-in-the-environment-fungal-ecosystems]]
-- [[fungal-amber-fossils]]
-- [[singh-fungal-pellet-formation-bioremediation]]
-- [[dark-septate-endophytes]]
-- [[fungal-pathogens-human-disease]]
+- [[fungal-nutrient-immobilization-and-cycling]]

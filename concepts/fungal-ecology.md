@@ -8,7 +8,7 @@ sources:
   - raw/papers/mycelium-running-stamets.md
 ---
 
-## Fungal Ecology
+# Fungal Ecology
 
 Fungi are the grand recyclers of the planet — keystone organisms that create soil, cycle nutrients, and govern ecological equilibrium. From *Mycelium Running* by [[paul-stamets]].
 
@@ -119,7 +119,7 @@ Select saprophytic mushrooms can outcompete parasitic forest pathogens:
 
 ## See Also
 
-- [[mycorestoration]] for applied fungal ecology
+- [[mycorestoration-overview]] for applied fungal ecology
 - [[mycorrhizal-networks]] for plant-fungal partnerships
 - [[fungal-ecosystem-roles]] for nutrient cycling details
 - [[mushroom-natural-habitats]] for where fungi thrive in nature

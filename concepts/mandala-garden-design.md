@@ -7,7 +7,7 @@ tags: [gardening, permaculture, design, plant-systems, sustainability]
 sources: []
 ---
 
-## Mandala Garden Design
+# Mandala Garden Design
 
 A mandala garden is a circular garden layout based on repeating geometric patterns, typically using a combination of circular beds, keyhole paths, and radiating walkways. The design maximizes growing space, reduces pathways, and creates a beautiful, productive food garden inspired by sacred geometry found in nature and traditional art.
 
@@ -140,11 +140,34 @@ The mandala's clearly defined beds make rotation straightforward:
 - **Year 1:** Brassicas in bed A, legumes in bed B, nightshades in bed C, roots in bed D
 - **Year 2:** Move each family to the next bed clockwise
 - **Year 3:** Move again — each bed sees each family only once every 4+ years
+- Keep a simple map or journal to track what was planted where
 
-## See Also
+## Planting by Sector
 
-- [[keyhole-garden-mandala-design]]
-- [[fukuoka-five-grains-food-mandala]]
-- [[gangammas-mandala-tropical-sustenance-garden]]
-- [[query-what-is-a-mandala-garden-in-permaculture]]
-- [[gaias-garden-keyhole-beds-and-mandala-gardens]]
+Divide the mandala into functional zones:
+
+- **Leafy greens:** Plant on the east side (morning sun, afternoon shade)
+- **Fruiting crops (tomatoes, peppers, eggplant):** Plant on the south side (full sun)
+- **Root crops:** Plant in deep, well-prepared beds
+- **Herbs and flowers:** Distribute throughout all beds for pest management and pollination
+- **Perennials (asparagus, rhubarb, artichokes):** Plant on the outer ring where they won't be disturbed by annual rotation
+
+## Water Management
+
+- **Water from the center:** If the center feature is a tree or herb spiral, water there and let it wick outward
+- **Drip irrigation:** Lay drip lines in each bed for efficient, targeted watering
+- **Swale around the perimeter:** A shallow swale around the outside of the mandala captures runoff and directs it into the garden
+- **Olla pots:** Bury unglazed clay pots in the beds and fill with water for slow, deep irrigation
+
+## Seasonal Considerations
+
+- **Spring:** Plant cool-season crops (peas, lettuce, spinach, radishes, brassicas) in all beds. The center warms first if it has a tree or structure.
+- **Summer:** Transition to warm-season crops (tomatoes, peppers, squash, beans). Shade the north side with tall crops.
+- **Fall:** Plant a second round of cool-season crops. Add a cold frame or row cover over one or two beds for winter extension (see [[cold-frame-gardening]] and [[grow-tunnel-and-hoop-house]]).
+- **Winter:** Cover crop beds not in use, or add compost and let them rest
+
+## Related Concepts
+
+- [[keyhole-garden-design]] for the keyhole path concept used within mandala gardens
+- [[herb-spiral-construction]] for a center feature option in mandala design
+- [[grow-tunnel-and-hoop-house]] for season extension within mandala garden beds

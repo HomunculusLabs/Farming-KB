@@ -7,7 +7,7 @@ tags: [pharmacology, psychopharmacology, dosage, timing, harm-reduction, psyched
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-## Phenethylamine Duration and Timing
+# Phenethylamine Duration and Timing
 
 ## Overview
 
@@ -114,7 +114,3 @@ Shulgin's documentation implicitly emphasizes the importance of duration awarene
 | Mescaline analogues | 8-12 hours | Ring substitution pattern |
 
 See also: [[shulgin-dosage-guidelines]], [[psychedelic-mushroom-set-and-setting]], [[2c-family-compounds-overview]], [[dob-compound-profile]], phenethylamine duration and timing
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.

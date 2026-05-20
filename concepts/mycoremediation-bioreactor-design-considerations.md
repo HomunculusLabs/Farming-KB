@@ -4,7 +4,7 @@ created: 2026-04-28
 updated: 2026-05-06
 tags: [mycoremediation, bioreactor, bioremediation, engineering, fungi]
 type: concept
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 ## Mycoremediation Bioreactor Design Considerations
@@ -37,7 +37,7 @@ Fungal metabolism and metal biosorption are highly pH-dependent:
 ### Temperature
 - Mesophilic fungi (Trametes, Pleurotus, Phanerochaete) operate optimally at 25-30°C
 - [[fungal-manganese-peroxidase-remediation]], [[mycoremediation-techniques]] — overview of mycoremediation approaches
-- [[mycoremediation-heavy-metals]] — metal-specific reactor considerations
+- [[mycoremediation-of-heavy-metals]] — metal-specific reactor considerations
 ## Practical Considerations
 
 Successful implementation of Mycoremediation Bioreactor Design Considerations requires attention to

@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## [[saprotrophic-fungi]] release exoenzymes into their environment to break down complex organic molecules in dead plant and animal remains. The degradative products are then absorbed through the fungal hyphal surface. This reliance on extracellular enzymatic activity is less efficient than internal digestion, meaning some mineralized nutrients escape absorption and enter the soil solution as available fertility.
 

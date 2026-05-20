@@ -4,11 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, energy, off-grid, equipment, food, sustainability]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+sources: []
 ---
 
-## Solar Oven Cooking
+# Solar Oven Cooking
 
 Solar ovens use concentrated sunlight to cook food without fuel, electricity,
 or flame. They are a practical off-grid cooking solution, especially in sunny
@@ -23,8 +22,8 @@ reflective surfaces. The greenhouse effect traps heat inside the chamber,
 while insulation minimizes heat loss. Key principles:
 
 - **Reflectors** — direct additional sunlight into the cooking chamber
-- **Absorber plate** — dark surface (black) absorbs maximum [[albedo-and-solar-radiation]]
-- **Insulation** — minimizes conductive [[thermal-belts-thermosiphons-and-convective-heat]] loss
+- **Absorber plate** — dark surface (black) absorbs maximum solar radiation
+- **Insulation** — minimizes conductive and convective heat loss
 - **Glazing** — transparent cover (glass or plastic) allows light in but
   prevents convective heat loss
 
@@ -96,7 +95,7 @@ hours. More durable versions using plywood or sheet metal cost $50-150.
 
 ## Cooking Times and Techniques
 
-Solar cooking is slower than [[microwave-sterilization-versus-conventional-methods-comparison]]. Plan for 1.5-2x the
+Solar cooking is slower than conventional methods. Plan for 1.5-2x the
 normal cooking time.
 
 ### General Guidelines
@@ -141,10 +140,25 @@ normal cooking time.
 - Place in solar oven for 45-60 minutes
 - Let stand 10 minutes before opening
 
-## See Also
+## Water Pasteurization
 
-- [[mollison-designers-passive-solar-heating-building-design]]
-- [[comparison-charcoal-production-for-cooking-vs-solar-cooking-methods]]
-- [[comparison-agrovoltaics-vs-traditional-solar-farms]]
-- [[holmgren-trees-solar-power-plants-detailed]]
-- [[mollison-designers-home-energy-conservation-and-solar-heating]]
+Solar ovens can pasteurize water when fuel is unavailable. Water does not
+need to boil to be safe — pasteurization occurs at 150F (65C) held for
+6 minutes. A WAPI (Water Pasteurization Indicator) — a small tube of wax
+that melts at 150F — indicates when water is safe.
+
+## Limitations and Considerations
+
+- **Weather dependent** — clouds, rain, and short winter days limit usability
+- **Time investment** — requires planning and periodic adjustment
+- **Learning curve** — cooking times vary with conditions; requires
+  experimentation
+- **Complement, don't replace** — best used alongside other cooking methods;
+  see [[root-cellaring-guide]] and [[ice-house-and-spring-house]] for
+  other off-grid food preservation approaches
+
+## Off-Grid Integration
+
+Solar ovens pair well with other off-grid infrastructure. For water heating
+systems, see [[solar-water-heating]]. For general off-grid living principles,
+see [[rainwater-harvesting-systems]].

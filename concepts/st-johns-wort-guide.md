@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-## St. John's Wort Growing Guide (Hypericum perforatum)
+# St. John's Wort Growing Guide (Hypericum perforatum)
 
 ## Overview
 
@@ -140,11 +140,46 @@ For medicinal use, harvest the upper 6-12 inches of the plant (flowering
 tops including buds, flowers, and upper leaves) during peak bloom.
 
 Optimal harvest timing:
+- Harvest on a dry, sunny day in mid-morning after dew has dried
+- The highest hypericin content is when approximately 50% of flowers are
+  open and 50% are in bud
+- Snip stems above a leaf node to allow regrowth
+- Handle fresh material minimally to avoid losing the red pigment on your
+  fingers (it stains)
+
+## Processing
+
+### Drying for Tea/Capsules/Tincture
+- Spread flowering tops on screens in a warm, dark, well-ventilated area
+- Dry at 90-100 degrees F
+- Material is dry when stems snap and flowers are crisp
+- Store in airtight containers in a cool, dark place
+- Potency lasts 1-2 years
+
+### Oil Infusion (Red Oil)
+This is the most prized preparation:
+
+1. Harvest fresh flowering tops at peak bloom
+2. Do not wash -- use only clean, dry material
+3. Coarsely chop the material
+4. Fill a glass jar loosely (not packed) with the herb
+5. Cover completely with a carrier oil (olive oil is traditional)
+6. Ensure all plant material is submerged (use a fermentation weight if
+   needed)
+7. Place in a sunny window for 4-6 weeks, shaking daily
+8. The oil will turn a deep, rich red as hypericin is extracted
+9. Strain through cheesecloth or a fine mesh
+10. Store in amber glass bottles away from heat and light
+11. Shelf life: approximately 1 year
+
+The oil is ready when it has developed a deep red color. Some herbalists
+also make a double extraction (tincture + oil) for maximum therapeutic
+effect.
 
 ## See Also
+- [[comparison-mullein-vs-st-johns-wort]]
 
-- [[comparison-calendula-vs-st-johns-wort]]
-- [[johns-hopkins-psychedelic-research]]
-- [[comparison-arnica-vs-st-johns-wort]]
-- [[comparison-valerian-vs-st-johns-wort]]
-- [[comparison-chamomile-vs-st-johns-wort]]
+- [[valerian-growing-guide]] -- often combined with St. John's Wort in
+  formulas for anxiety and depression
+- [[lemon-balm-growing-guide]] -- another nervine herb with mood-supporting
+  properties

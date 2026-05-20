@@ -7,7 +7,7 @@ tags: [fungi, biology, ecology, symbiosis, academia, plants]
 sources: []
 ---
 
-## Lichens
+# Lichens
 
 Lichens are composite organisms that arise from a symbiotic relationship between a fungus (the mycobiont) and a photosynthetic partner (the photobiont — either a green alga or a cyanobacterium). They are among the oldest and most resilient living systems on Earth, capable of surviving in extreme environments from arctic tundra to desert rocks to tropical tree bark.
 
@@ -41,7 +41,7 @@ The traditional view of lichens as "mutualism" (both partners benefit) has been 
 - Loosely attached to substrate by rhizines (root-like structures)
 - Can be peeled or lifted from the surface
 - Often have lobed margins
-- Examples: [[xanthoria-parietina]] (common orange wall lichen), Parmelia sulcata, Flavoparmelia caperata
+- Examples: Xanthoria parietina (common orange wall lichen), Parmelia sulcata, Flavoparmelia caperata
 - More complex internal structure with distinct cortical, algal, and medullary layers
 
 ### Fruticose (Shrubby)
@@ -140,9 +140,37 @@ Functions of secondary metabolites:
 
 ### Traditional Uses
 
+- **Dyes**: Orchil (Roccella) produces purple dye (orcein). Used since ancient Mediterranean civilizations. Cudbear (Ochrolechia) produces red-purple. Historically significant before synthetic dyes
+- **Food**: Umbilicaria (rock tripe) eaten by indigenous peoples and during famines. Iwatake (rock tripe) is a delicacy in Japanese cuisine
+- **Medicine**: Usnic acid used in traditional medicine across cultures. Lobaria pulmonaria used for lung ailments (doctrine of signatures — it resembles lung tissue)
+- **Fiber**: Some lichens produce durable fiber (Icelandic "candles" from Cetraria islandica burned as wicks)
+
+### Modern Research
+
+- **Antibiotics**: Usnic acid, evernic acid studied for antimicrobial properties
+- **Anti-cancer**: Several lichen compounds show cytotoxic activity in laboratory studies
+- **UV protection**: Lichen compounds investigated for sunscreen formulations
+- **Traditional knowledge**: Ethnolichenology studies the relationship between humans and lichens across cultures
+
+## Lichen Growth and Longevity
+
+- **Growth rate**: Typically 1-10 mm per year for foliose and fruticose species. Crustose species grow even slower
+- **Longevity**: Some lichen thalli are estimated to be 1,000-9,000+ years old (Rhizocarpon geographicum in arctic/alpine environments)
+- **Radial growth**: Lichenometry — measuring lichen size to date rock surfaces (glacier retreat, landslides, building construction)
+- **Reproduction**: Primarily asexual (soredia, isidia). Sexual reproduction through fungal spores requires re-association with a compatible photobiont — a low-probability event
+
+## Threats and Conservation
+
+- **Air pollution**: The primary threat to lichens. SO2 from fossil fuels is particularly damaging
+- **Habitat loss**: Old-growth forests support the highest lichen diversity. Logging removes substrate
+- **Climate change**: Shifting temperature and moisture regimes alter lichen distributions. Warming threatens arctic lichen communities
+- **Overharvesting**: Commercial collection of Usnea for natural products in some regions
+- **Nitrogen deposition**: Excess atmospheric nitrogen favors nitrophilic species (Xanthoria) over sensitive old-growth species (Lobaria)
+
 ## See Also
 
-- [[gadd-lichens-water-relations-symbiosis]]
-- [[lichens-primary-production-soil-formation-dighton]]
-- [[bloomfield-lichens-symbiosis-extreme-survival]]
-- [[lichens-biogeochemistry-and-pioneer-colonization]]
+- [[fungal-symbiosis-types]] for broader fungal symbiosis context
+- [[fungal-ecology]] for fungi in ecological systems
+- [[fungal-biodiversity]] for lichen diversity in the fungal kingdom
+- [[mycorrhizal-fungi]] for the other major fungal symbiosis type
+- [[fungal-evolution]] for the evolutionary origins of lichen symbiosis

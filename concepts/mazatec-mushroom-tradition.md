@@ -144,7 +144,7 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[hofmann-lsd-mazatec-and-psilocybin]]
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]
 - [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]]
 - [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]
 - [[schizophyllum-commune-mazatec-nis-confusion-psilocybe-mexicana]]

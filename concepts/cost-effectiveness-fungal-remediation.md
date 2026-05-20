@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [remediation, environment]
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 ## Cost-Effectiveness of Fungal Remediation Technologies
 

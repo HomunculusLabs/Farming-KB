@@ -1,4 +1,5 @@
 ---
+
 title: Dynamic Accumulator Quick Reference
 created: 2026-04-11
 updated: 2026-04-12
@@ -25,7 +26,7 @@ sources:
 - concepts/knf-preparations.md
 ---
 
-## Dynamic Accumulator Quick Reference
+# Dynamic Accumulator Quick Reference
 
 Plants that mine nutrients from deep subsoil layers and concentrate them in above-ground biomass. Cut and surface-mulch to cycle those nutrients to neighboring crops. See [[dynamic-accumulators]] for the full concept page.
 

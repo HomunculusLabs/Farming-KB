@@ -5,7 +5,7 @@ tags: [hallucinogenic-plants, iboga, ibogaine, tabernanthe, apocynaceae,
   bwiti, gabon, congo, stimulant, ethnobotany, initiation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources: [golden-guide-to-hallucinogenic-plants.md]
 type: concept
 ---
 

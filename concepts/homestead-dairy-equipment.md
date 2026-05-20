@@ -7,7 +7,7 @@ tags: [goats, equipment, food, processing, homesteading, tools, homestead-crafts
 sources: []
 ---
 
-## Homestead Dairy Equipment
+# Homestead Dairy Equipment
 
 A well-equipped homestead dairy makes milking, processing, and value-added production efficient and enjoyable. The right equipment reduces labor, improves product quality, and enables diversification into cheese, butter, yogurt, and other dairy products. This guide covers the essential equipment for a small-scale homestead dairy operation (1-10 milking animals).
 
@@ -141,10 +141,29 @@ A cheese press applies controlled pressure to drained curds, expelling whey and 
 
 ### Pressing Guidelines
 
-## See Also
+| Cheese | Pressure | Duration |
+|--------|----------|----------|
+| Feta | None (self-pressing under brine) | 24 hours |
+| Chevre | None (gravity drain) | 6-12 hours |
+| Gouda | 2.5 kg / 9 kg / 23 kg (increasing) | 20 min / 20 min / 12 hr |
+| Cheddar | 5 kg / 11 kg / 22 kg | 15 min / 15 min / 12 hr |
+| Parmesan | 5 kg / 11 kg / 22 kg / 45 kg | 30 min / 30 min / 2 hr / 12 hr |
 
-- [[homestead-energy-conservation]]
-- [[homestead-mushroom-business]]
-- [[homestead-winter-preparations]]
-- [[homestead-tool-maintenance]]
-- [[homestead-internet-options]]
+## Additional Useful Equipment
+
+-  **Yogurt maker** — An electric incubator that maintains 40-43 C for yogurt fermentation. Alternatively, use a dehydrator, thermos, or oven with the light on.
+-  **Cheese wax melter** — Small electric pot for melting cheese wax evenly. Prevents scorching. Cost: $30-60.
+-  **Curd knife** — A long, thin knife (30+ cm) with a flat blade for cutting curds evenly.
+-  **pH meter** — Essential for consistent cheese making. Measures acidity development during the cheese making process. Cost: $50-200.
+-  **Refractometer** — Measures total solids in milk. Useful for assessing milk quality and predicting cheese yield. Cost: $30-100.
+
+## Equipment Maintenance
+
+- Clean all dairy equipment immediately after each use — milk residue bakes onto surfaces and becomes nearly impossible to remove
+- Use dairy-specific cleaners (alkaline wash for milk fat removal, acid wash for mineral deposits)
+- Sanitize before each use with a dairy sanitizer
+- Replace rubber parts (inflatable liners, gaskets) annually or when they show signs of wear
+- Store stainless steel equipment dry to prevent pitting
+- Follow manufacturer maintenance schedules for milking machines (oil vacuum pump, check pulsator timing)
+## See Also
+- [[homestead-dairy-guide]]

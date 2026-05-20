@@ -1,5 +1,5 @@
 ---
-title: Permaculture Mapping and Base Maps
+title: Permaculture Mapping And Base Maps
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -15,7 +15,7 @@ sources:
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
-## Permaculture Mapping and Base Maps
+# Permaculture Mapping and Base Maps
 
 Mapping is the foundational design tool in permaculture. William Ozier Williams provides detailed guidance on creating and using base maps in his PDC, describing the base map as the starting point from which all analysis and design decisions flow.
 
@@ -141,10 +141,33 @@ Choose a scale appropriate to your property size and the level of detail needed:
 - Too large a scale (too zoomed in) and the map becomes unwieldy with multiple sheets
 - The scale should allow you to show the smallest detail you need to design while fitting the entire property on one sheet
 
-## See Also
+## Digital Mapping Tools
 
-- [[dryland-permaculture-strategies]]
-- [[vines-in-desert-permaculture]]
-- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
-- [[permaculture-principle-use-and-value-renewable-resources]]
-- [[permaculture-ethics-of-permanence]]
+Modern permaculture designers increasingly use digital tools:
+
+- **Google Earth/Google Maps**: Free imagery, measurement tools, and export capabilities
+- **GIS software (QGIS)**: Professional-grade mapping with multiple data layers
+- **CAD software**: Precise drafting for detailed designs
+- **Drawing apps**: SketchUp, Illustrator, or similar for attractive presentation maps
+- **Dedicated permaculture software**: Specialized tools for zone/sector analysis
+
+## The Design Process Using Maps
+
+1. Obtain or create the base map
+2. Add analytical layers (sectors, zones, water flow, soils, vegetation)
+3. Synthesize analysis to identify opportunities and constraints
+4. Create design overlays showing proposed elements
+5. Present the design with clear before-and-after comparisons
+
+Williams recommends showing the original base map, the analytical overlays, and the new design with zones and elements as part of any design presentation.
+
+## Related Concepts
+
+- [[permaculture-site-analysis]]
+- [[permaculture-site-assessment-checklist]]
+- [[permaculture-design-methods]]
+- [[permaculture-zone-and-sector-analysis]]
+- [[permaculture-slope-analysis-and-reading]]
+- [[permaculture-sector-analysis]]
+- [[permaculture-access-and-circulation-design]]
+- [[permaculture-garden-design-process]]

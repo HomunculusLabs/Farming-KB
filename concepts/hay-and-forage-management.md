@@ -4,11 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [forage, animal-husbandry, homesteading, livestock, storage, preservation]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+sources: []
 ---
 
-## Hay and Forage Management
+# Hay and Forage Management
 
 Producing and managing high-quality hay and forage is essential for any
 livestock homestead. Winter feeding typically represents 40-60% of annual
@@ -36,8 +35,8 @@ feed inputs.
   digestibility. Excellent for lactating dairy animals, growing livestock,
   and horses in work. Can cause bloat if fed as the sole forage to cattle
   and sheep.
-- **Clover hay (red/white):** 12-18% protein. Good quality, but [[red-clover]]
-  can cause reproductive issues in sheep (phytoestrogens). [[fukuoka-white-clover-cover-crop-system]] is
+- **Clover hay (red/white):** 12-18% protein. Good quality, but red clover
+  can cause reproductive issues in sheep (phytoestrogens). White clover is
   lower-yielding but excellent quality.
 - **Birdsfoot Trefoil:** 12-16% protein. Non-bloating legume. Tolerates
   wet and acid soils. Good for sheep and cattle pastures and hay.
@@ -130,21 +129,70 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
 - Store on pallets or gravel floor (never directly on concrete or dirt).
 - Stack with adequate ventilation between bales.
 - Barn-stored hay retains quality for 2-3 years.
-- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: below 70°F. Monitor for heating in the first 2 weeks
+- Ideal temperature: below 70°F. Monitor for heating in the first 2 weeks
   after baling.
 
 ### Outdoor Storage
 - Net-wrapped round bales stored outside lose 10-20% of dry matter in the
   outer 4-6 inches.
-- Store bales on gravel or raised racks (never on [[savory-bare-ground-and-soil-exposure]]).
+- Store bales on gravel or raised racks (never on bare ground).
 - Line bales up end-to-end (not in pyramid) in a well-drained area.
 - Store north-south to maximize sun exposure and drying on both sides.
 - Use bales stored outside first (oldest first, FIFO system).
 - Plastic-wrapped baleage/bale silage: 40-60% moisture, anaerobic
+  fermentation. Requires specialized wrapper and plastic. Excellent feed
+  quality if properly sealed.
 
-## See Also
+### Hay Storage Management
+- Inventory hay in fall: calculate total tons needed based on number of
+  animals and days of feeding.
+- Rule of thumb: 1 ton of hay per cow-calf pair per winter (120-150 days).
+- Sheep: 1 ton per 5-6 adult sheep per winter.
+- Goats: similar to sheep.
+- Always have a 20% buffer for unexpected cold or longer winter.
+- Feed oldest hay first.
 
-- [[mollison-designers-poultry-forage-design-pastured-systems]]
-- [[poultry-forage-days-mollison]]
-- [[tropical-forage-legumes]]
-- [[integrated-poultry-forage-systems-zone-two]] systems zone two
+## Nutritional Value
+
+### Key Measurements
+- **Crude Protein (CP):** Most important quality indicator.
+  - Alfalfa: 15-22% (early cut) to 8-12% (late cut).
+  - Grass hay: 8-18% (early cut) to 5-8% (late cut).
+- **Total Digestible Nutrients (TDN):** Energy value.
+  - Good hay: 55-65% TDN. Poor hay: 45-50%.
+- **Acid Detergent Fiber (ADF):** Lower is better. Indicates digestibility.
+  - Premium: <30%. Good: 30-35%. Fair: 35-40%. Poor: >40%.
+- **Neutral Detergent Fiber (NDF):** Indicates intake potential.
+  - Premium: <40%. Good: 40-50%. Fair: 50-60%. Poor: >60%.
+- **Relative Feed Value (RFV):** Composite score based on ADF and NDF.
+  - Premium: >151. Good: 125-150. Fair: 101-124. Poor: 77-100.
+
+### Forage Testing
+
+- The only way to know actual nutritional value. Send samples to a certified
+  lab (Dairy One, Ward Laboratories, local extension).
+- Use a forage probe to take 15-20 cores from random bales in each lot.
+  Mix and submit the composite sample.
+- Test for: CP, TDN, ADF, NDF, moisture, minerals.
+- Test each cutting and field separately. Cost: $15-30 per sample.
+
+### Matching Hay to Animal Needs
+- Lactating dairy cows/ewes: 15%+ CP, 60%+ TDN.
+- Growing calves/lambs: 14%+ CP, 58%+ TDN.
+- Dry cows/ewes: 10-12% CP, 52-55% TDN.
+- Maintenance: 8-10% CP, 50%+ TDN.
+- Horses: moderate to high quality, free of mold and dust.
+
+### Hay Feeding Strategies
+
+- Use feeders to minimize waste (25-45% without, 5-15% with feeders).
+- Supplement poor-quality hay with grain or protein blocks. See
+  [[livestock-feed-formulation]].
+- Transition gradually between hay types. Monitor body condition to ensure
+  quality meets needs.
+
+## Links
+
+- [[pasture-management]]
+- [[livestock-feed-formulation]]
+- [[sheep-husbandry]]

@@ -140,4 +140,4 @@ For accurate readings:
 - [[soil-temperature-plant-growth-rate-doubling-rule]]
 - [[soil-temperature-oxygen-plant-growth]]
 - [[solomon-soil-temperature-and-nighttime-plant-growth]]
-- [[soil-temperature-growth]]
+- soil temperature and plant growth

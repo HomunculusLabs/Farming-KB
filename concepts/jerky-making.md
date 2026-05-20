@@ -36,7 +36,7 @@ Homemade jerky allows full control over ingredients, flavor, and quality, avoidi
 - Turkey breast — lean, mild, takes marinades well
 - Chicken breast — must be cooked to 165F before dehydrating
 - Pork loin — lean portions work; be extra careful about fat
-- Salmon — fish jerky is a [[psilocybin-north-america-pacific-northwest]] tradition
+- Salmon — fish jerky is a Pacific Northwest tradition
 - Bison — similar to beef, leaner
 
 ## Slicing Technique
@@ -63,7 +63,7 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 
 - Salt: soy sauce, Worcestershire sauce, or straight salt — 1-2 teaspoons per pound of meat minimum
 - Acid: vinegar, lemon juice, lime juice — tenderizes and adds tang
-- Sweetener: brown sugar, honey, [[maple-syrup-production]], molasses — balances salt and heat
+- Sweetener: brown sugar, honey, maple syrup, molasses — balances salt and heat
 - Umami: soy sauce, Worcestershire, fish sauce, MSG
 - Liquid smoke: hickory, mesquite, applewood — for smoky flavor without a smoker
 - Spices: black pepper, garlic powder, onion powder, chili powder, cayenne, cumin, smoked paprika
@@ -127,7 +127,7 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 
 - Set oven to the lowest setting (usually 170F / 77C)
 - Prop the door open slightly with a wooden spoon to allow moisture to escape
-- Place wire racks over sheet pans to allow [[stamets-growing-room-air-circulation-co2-management]]
+- Place wire racks over sheet pans to allow air circulation
 - Flip jerky every 2 hours
 - Total time: 4-8 hours
 
@@ -140,11 +140,35 @@ The USDA recommends that jerky reach an internal temperature of 160F (71C) for b
 Methods to achieve this:
 - Pre-cook meat by boiling in marinade for 3-5 minutes before dehydrating (safest method)
 - Dehydrate at 160F — most dehydrators reach this; check with a thermometer
+- Post-dry in an oven at 275F (135C) for 10 minutes after dehydrating
+
+### Moisture and Spoilage
+
+- Jerky should be dry but not brittle
+- Properly dried jerky should bend and crack, not snap
+- Any moisture remaining promotes mold growth
+- Test: take a piece, bend it — if it cracks but does not break, it is done
+- If it is spongy or flexible without cracking, it needs more time
+
+### General Safety
+
+- Start with fresh, high-quality meat from a trusted source
+- Keep meat refrigerated until ready to process
+- Work quickly during slicing and marinating
+- Sanitize all equipment, surfaces, and hands before and after
+- Do not skip the 160F safety step
+
+## Storage
+
+- Cool jerky completely before storing — warm jerky creates condensation
+- Vacuum-sealed: store at room temperature for up to 1 month, refrigerated for up to 6 months, frozen for up to 1 year
+- In ziplock bags: squeeze out all air, refrigerate for up to 2 months, freeze for up to 6 months
+- Glass jars with desiccant packets: cool, dark, dry place for 1-2 months
+- Check for mold periodically — any mold means the batch should be discarded
+- Absorb moisture packets (food-safe silica gel) extend shelf life significantly
 
 ## See Also
 
-- [[compost-making-methods-solomon]]
-- [[granola-making]]
-- [[natto-making]]
-- [[mushroom-spawn-making-pure-culture]]
-- [[pickle-making]]
+- [[dried-herb-storage]] — principles of drying and storing dried foods
+- [[pickle-making]] — another food preservation method
+- [[jam-and-jelly-making]] — water bath canning and preservation

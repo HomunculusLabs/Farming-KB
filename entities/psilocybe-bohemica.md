@@ -1,4 +1,5 @@
 ---
+
 title: Psilocybe bohemica
 created: 2026-04-12
 updated: 2026-04-12
@@ -18,13 +19,13 @@ sources:
   - raw/papers/magic-mushrooms-around-the-world-gartz.md
 ---
 
-## Psilocybe bohemica
+# Psilocybe bohemica
 
 A psychoactive mushroom species found primarily in Central Europe, particularly the Czech Republic (Bohemia). Known for having the most intense bluing reaction of any psilocybin-containing species despite relatively low psilocin content. Named for the Bohemian region where it was first documented. See [[european-psilocybin-species]] for comparison with other European species and [[psilocybin-bluing-reaction]] for its unique biochemical properties.
 
 ## Taxonomy and Discovery
 
-Originally described from specimens collected near Sázava, Bohemia (Czech Republic). The species was confirmed as distinct from *[[psilocybe-cyanescens]]* through cross-breeding experiments — mycelia from *P. bohemica* and *P. cyanescens* (US collections) cannot be fused together, proving they are separate species.
+Originally described from specimens collected near Sázava, Bohemia (Czech Republic). The species was confirmed as distinct from *Psilocybe cyanescens* through cross-breeding experiments — mycelia from *P. bohemica* and *P. cyanescens* (US collections) cannot be fused together, proving they are separate species.
 
 ## Identification
 

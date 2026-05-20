@@ -1,7 +1,7 @@
 ---
 title: "Palmer Mushroom Cooking Culinary Uses"
 tags: [wiki]
-sources: []
+sources: [oyster-mushroom-cultivation.md]
 ---
 
 ## The Two Proper Cooking Methods

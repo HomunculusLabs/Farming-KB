@@ -7,11 +7,11 @@ tags: [entheogen, preparation, ethnobotany, africa, psychopharmacology, safety, 
 sources: []
 ---
 
-## Iboga Root Bark Preparation
+# Iboga Root Bark Preparation
 
 ## Overview
 
-[[tabernanthe-iboga|Tabernanthe iboga]] is a perennial rainforest shrub native to Gabon, Cameroon, and the Republic of Congo in West-Central Africa. The root bark of iboga contains ibogaine — a complex [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] with unique psychoactive properties. Unlike classical psychedelics (which primarily act on [[psilocybin-pharmacology-and-serotonin-receptors]]), ibogaine acts on multiple receptor systems simultaneously, including NMDA receptors, kappa opioid receptors, and the serotonin transporter.
+Tabernanthe iboga is a perennial rainforest shrub native to Gabon, Cameroon, and the Republic of Congo in West-Central Africa. The root bark of iboga contains ibogaine — a complex indole alkaloid with unique psychoactive properties. Unlike classical psychedelics (which primarily act on serotonin receptors), ibogaine acts on multiple receptor systems simultaneously, including NMDA receptors, kappa opioid receptors, and the serotonin transporter.
 
 Iboga has been used for centuries in the Bwiti spiritual tradition of the Fang people of Gabon. In the West, ibogaine has gained attention for its reputed ability to interrupt substance addiction, particularly opioid dependence — though this application remains experimental and unapproved by major medical regulatory bodies.
 
@@ -20,7 +20,7 @@ Iboga has been used for centuries in the Bwiti spiritual tradition of the Fang p
 Bwiti is a syncretic spiritual practice that combines elements of Fang ancestral worship with Christian symbolism. Iboga is the central sacrament:
 
 - Initiation ceremonies involve consuming large doses of iboga root bark
-- The experience is understood as a [[shamanism-death-and-rebirth]] — the initiate "dies" to their old self and is "reborn" into the Bwiti community
+- The experience is understood as a death and rebirth — the initiate "dies" to their old self and is "reborn" into the Bwiti community
 - Ceremonies are conducted in a temple (mbandja) by a spiritual leader (nganga)
 - Participants see visions of ancestors and receive guidance
 - The ceremony involves drumming, singing, and dancing throughout the night
@@ -30,7 +30,7 @@ Bwiti is a syncretic spiritual practice that combines elements of Fang ancestral
 
 ### Ibogaine
 - Primary psychoactive alkaloid — typically 0.3–1.5% of dry root bark weight
-- Complex pharmacology: NMDA antagonist, kappa [[salvinorin-a-pharmacology-non-nitrogenous-opioid-agonist]], serotonin reuptake inhibitor
+- Complex pharmacology: NMDA antagonist, kappa opioid agonist, serotonin reuptake inhibitor
 - Long duration: 12–36 hours for acute effects, with aftereffects lasting days to weeks
 - Metabolized in the liver to noribogaine (active metabolite with longer half-life)
 
@@ -65,7 +65,7 @@ Traditional Bwiti practice involves consuming raw or minimally processed root ba
 A "flood dose" is a large, single dose intended to produce the full visionary experience. This is the traditional initiation approach:
 
 **Preparation Phase (1–2 weeks before):**
-- Discontinue all [[cultural-evolution-and-psychoactive-substances]] (critical safety requirement)
+- Discontinue all psychoactive substances (critical safety requirement)
 - Stop SSRIs at least 2 weeks prior (serotonin syndrome risk)
 - Discontinue opioids — withdrawal should be managed before the flood dose
 - Light, healthy diet
@@ -110,11 +110,11 @@ This is a simplified overview of the general process — detailed procedures are
 
 ### Voacanga as a Source
 
-[[voacanga-africana]] seeds contain voacangine, which can be chemically converted to ibogaine. This is the industrial source for most purified ibogaine HCl on the market.
+Voacanga africana seeds contain voacangine, which can be chemically converted to ibogaine. This is the industrial source for most purified ibogaine HCl on the market.
 
 ## Safety Screening
 
-Ibogaine carries significant [[ayahuasca-tourism-medical-risks-prescription-interactions]] and requires thorough screening:
+Ibogaine carries significant medical risks and requires thorough screening:
 
 **Absolute contraindications:**
 - History of heart arrhythmia, prolonged QT interval, or recent cardiac events
@@ -147,3 +147,5 @@ Ibogaine is classified as a Schedule I substance in the United States. It is ill
 
 - [[dmt-extraction-guide]] — extraction methods for another major entheogenic compound
 - [[psychedelic-plants-legal-status]] — comprehensive legal status information
+## See Also
+- [[endophytic-fungi-bark-root-xylotropic-specialized-hosts]]

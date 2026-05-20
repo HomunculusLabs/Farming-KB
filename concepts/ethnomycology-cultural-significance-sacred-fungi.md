@@ -23,7 +23,7 @@ by human societies. The field encompasses the religious, ceremonial,
 medicinal, and social roles of fungi in indigenous and traditional
 cultures. The paper by Guzman, Allen, and Gartz, while primarily a
 taxonomic and biogeographic work, provides extensive documentation of the
-ethnomycological significance [[maria-sabina-and-mazatec-mushroom-ceremony]] (velada) is a healing
+ethnomycological significance [[maria-sabina-mazatec-mushroom-ceremony]] (velada) is a healing
 ritual involving all-night vigils where the curandero (healer) consumes
 sacred fungi to diagnose illness, locate lost objects, predict the
 future, and communicate with the divine. The mushrooms are considered

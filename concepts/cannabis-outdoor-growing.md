@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Outdoor Growing"
+title: Cannabis Outdoor Growing
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,11 +7,11 @@ tags: [cannabis, outdoor, climate, timeline, companion-planting, cover-crop, org
 sources: []
 ---
 
-## Cannabis Outdoor Growing
+# Cannabis Outdoor Growing
 
 ## Overview
 
-Outdoor cannabis cultivation leverages natural sunlight and environmental conditions to produce crops with lower costs and often superior quality compared to [[cannabis-indoor-growing-basics|indoor growing]]. Sun-grown cannabis benefits from the full spectrum of natural light, producing robust [[sativa-terpene-profiles-and-aromatic-diversity]] complex cannabinoid expression. This guide covers seasonal timelines, companion planting, climate considerations, and techniques for successful outdoor cultivation.
+Outdoor cannabis cultivation leverages natural sunlight and environmental conditions to produce crops with lower costs and often superior quality compared to [[cannabis-indoor-growing-basics|indoor growing]]. Sun-grown cannabis benefits from the full spectrum of natural light, producing robust terpene profiles and complex cannabinoid expression. This guide covers seasonal timelines, companion planting, climate considerations, and techniques for successful outdoor cultivation.
 
 ## Advantages of Outdoor Growing
 
@@ -45,11 +45,11 @@ Shorter growing season with distinct seasons. Northeast US, Northern Europe, par
 
 ### Tropical and Subtropical (Zone 10-12)
 
-Year-round growing potential in areas without frost. Hawaii, Southeast Asia, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], parts of South America. High humidity requires mold-resistant strains and good airflow management. [[marijuana-strain-guide-sativa|Sativa]] strains are naturally adapted to these conditions.
+Year-round growing potential in areas without frost. Hawaii, Southeast Asia, Central America, parts of South America. High humidity requires mold-resistant strains and good airflow management. [[marijuana-strain-guide-sativa|Sativa]] strains are naturally adapted to these conditions.
 
 ### Arid and Semi-Arid
 
-Low rainfall regions with intense sunlight. Desert Southwest US, parts of the Middle East and Central Asia. Requires irrigation infrastructure. Low humidity reduces mold risk. [[marijuana-strain-guide-indica|Indica]] and Afghan [[cannabis-landrace-strains]] thrive in these conditions.
+Low rainfall regions with intense sunlight. Desert Southwest US, parts of the Middle East and Central Asia. Requires irrigation infrastructure. Low humidity reduces mold risk. [[marijuana-strain-guide-indica|Indica]] and Afghan landrace strains thrive in these conditions.
 
 ### Cold Climates (Zone 3-4)
 
@@ -62,7 +62,7 @@ Very short growing season. Scandinavia, high altitude, northern Canada. Greenhou
 - Select strains appropriate for your climate and season length
 - Source genetics from [[cannabis-seed-banks-and-genetics|seed banks]]
 - Prepare growing site (soil amendment, bed building, irrigation)
-- [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] or in a greenhouse (4-6 weeks before last frost)
+- Start seeds indoors or in a greenhouse (4-6 weeks before last frost)
 - Harden off seedlings before transplanting
 - Plant companion plants
 
@@ -140,10 +140,14 @@ Cultivating cannabis in remote, hidden locations. Use autoflowering strains for 
 
 - **Aphids:** Control with ladybugs, neem oil, insecticidal soap
 - **Spider mites:** Control with predatory mites, increased humidity, neem oil
-- **Caterpillars:** Hand-pick or use Bt ([[bacillus-thuringiensis]])
+- **Caterpillars:** Hand-pick or use Bt (Bacillus thuringiensis)
 - **Slugs/snails:** Diatomaceous earth, beer traps, copper barriers
 - **Deer/rabbits:** Physical fencing barriers
 
 ### Organic Pest Control
 
 Neem oil, insecticidal soap, diatomaceous earth, Bt, beneficial insect releases (ladybugs, lacewings, predatory mites), and companion planting.
+
+## Greenhouse and Light Deprivation
+
+Greenhouses extend the season with protection from rain, wind, and temperature extremes. Light deprivation (light dep) uses blackout covers to create 12-hour dark periods, triggering flowering 4-6 weeks earlier and enabling multiple harvests per season.

@@ -111,3 +111,10 @@ The essential lesson of Palmer's article is that **mushroom identification canno
 - *Toadstool-Eating* — full article, *Popular Science Monthly*, May 1877
 - Dr. Moses Ashley Curtis — pioneer American mycologist
 - Berkeley, Cooke, Smith, Badham — British mycological authorities
+
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[mushroom-fruiting-conditions]]
+- [[mushroom-substrate-preparation]]
+- [[2c-b-psychedelic-empathogen-guide]]
+- [[aact-applications-guide-ingham]]

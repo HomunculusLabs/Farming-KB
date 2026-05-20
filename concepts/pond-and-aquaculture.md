@@ -1,4 +1,5 @@
 ---
+
 title: Pond and Aquaculture
 created: 2026-04-11
 updated: 2026-04-12
@@ -22,7 +23,7 @@ sources:
 - raw/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md
 ---
 
-## Pond and Aquaculture
+# Pond and Aquaculture
 
 A farm pond is one of the highest-leverage infrastructure investments on a regenerative homestead — providing fish protein, irrigation water, duck habitat, wildlife refuge, fire protection, and nutrient cycling. In [[regenerative-agriculture-history]], ponds serve as the keystone water element that connects [[duck-keeping]], gardens, and pasture systems. For water quality management, feeding, harvest, winter care, and troubleshooting, see [[pond-maintenance-and-troubleshooting]].
 
@@ -113,8 +114,7 @@ Ducks and ponds are synergistic — see [[duck-keeping]] for duck-specific care.
 
 ## See Also
 
-- [[pond-depth-zones-water-stratification]]
-- [[pond-edge-effect-design]]
-- [[pond-furniture-and-structures]]
-- [[pond-series-flow-evolutionary-systems]]
-- [[pond-shape-edge-effects-aquaculture]]
+- [[pond-maintenance-and-troubleshooting]] — Water quality, feeding, harvest, winter care, predator control
+- [[duck-keeping]] — Duck breeds, housing, and care
+- [[water-management]] — Water management strategies for the homestead
+- [[homesteading-infrastructure]] — Infrastructure planning

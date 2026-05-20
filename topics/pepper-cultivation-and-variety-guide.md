@@ -77,7 +77,7 @@ the two plants are entirely unrelated. Columbus and subsequent Spanish
 and Portuguese traders carried Capsicum seeds across the globe. Peppers
 reached West Africa by the early sixteenth century, India by the middle
 of the century, [[pepper-growing-guide]]
-- [[integrated-pest-management-ipm]]
+- [[integrated-pest-management]]
 - [[seed-saving-and-plant-breeding]]
 - [[fermented-foods-and-beverages]]
 

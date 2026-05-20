@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Functional Genomics of Arbuscular Mycorrhizal Symbiosis
 Functional genomics of arbuscular mycorrhizal (AM) symbiosis encompasses transcriptomic, proteomic, and metabolomic approaches to understanding the molecular basis of the AMF-plant interaction. Using model systems like Medicago truncatula and Glomus spp., researchers have identified hundreds of genes and proteins whose expression changes during symbiosis, revealing the complex regulatory networks underlying this ancient mutualism.

@@ -6,8 +6,7 @@ type: concept
 tags: [water, homesteading, off-grid, filtration, sustainability, health]
 sources: []
 ---
-
-## Homestead Water Purification
+# Homestead Water Purification
 
 Reliable water purification is essential for any [[off-grid-waste-management|off-grid]] or [[homesteading|rural]] [[homesteading|homestead]]. Whether your water comes from a well, spring, creek, or rainwater catchment, it may contain bacteria, viruses, parasites, chemicals, heavy metals, or sediment. A multi-barrier approach using complementary treatment methods ensures safe drinking water.
 
@@ -140,11 +139,14 @@ Before selecting a purification system, test your water:
 
 **Calcium hypochlorite (pool shock):**
 - More stable than bleach for long-term storage
+- Mix a small amount with water to create a chlorine solution
+- Treat drinking water with the solution
+- Excellent for emergency preparedness and long-term off-grid use
 
+### Biosand Filters
+
+**How they work:** A container filled with sand and gravel supports a biological layer (schmutzdecke) that breaks down pathogens as water slowly percolates through.
+
+**Pros:**
 ## See Also
-
-- [[homestead-energy-conservation]]
-- [[homestead-mushroom-business]]
-- [[homestead-winter-preparations]]
-- [[homestead-tool-maintenance]]
-- [[homestead-internet-options]]
+- [[water-purification-contaminants]]

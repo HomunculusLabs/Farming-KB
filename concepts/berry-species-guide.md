@@ -1,4 +1,5 @@
 ---
+
 title: Berry Species Guide
 created: 2026-04-11
 updated: 2026-04-12
@@ -22,7 +23,7 @@ sources:
 note: Composed from model knowledge — web tools unavailable. Mark for user review.
 ---
 
-## Berry Species Guide
+# Berry Species Guide
 
 Detailed profiles for each berry type. For overview, planning, IPM, calendar, and preservation, see [[berry-growing]].
 
@@ -144,3 +145,53 @@ Hardy, productive shrubs (8-12 ft) thriving in partial shade and wet soils. Exce
 
 ### Varieties (Zone 7-8)
 - American: Adams, York, Johns, Nova
+- European: Haschberg, Samdal, Marge
+
+## Gooseberries and Currants (*Ribes* spp.)
+
+Cold-hardy shrubs (3-5 ft) tolerating partial shade and poor soils. **Check local regulations** — banned in some states (white pine blister rust host). See [[homesteading-legal-considerations]].
+
+### Planting
+- **Spacing:** 3-5 ft in rows 6-8 ft. Early spring. pH 5.5-7.0
+- **Care:** Keep 6-8 main stems, remove oldest (>4 yr) in winter. Mulch 3-4 inches
+- **Common issues:** Powdery mildew, sawfly, currant worm
+- **Harvest:** Gooseberries — underripe for pies, ripe for fresh. Currants — full color
+
+### Varieties (Zone 7-8)
+- Gooseberries: Invicta, Hinnonmaki Red/Yellow, Pixwell
+- Black currants: Consort, Crandall, Titania
+- Red currants: Red Lake, Cherry, Rovada
+
+## Grapes (*Vitis* spp.)
+
+Vigorous perennial vines for fences, arbors, and food forest canopy gaps. Wine, juice, jelly, raisins, fresh eating.
+
+### Planting
+- **Spacing:** 6-8 ft in rows 8-10 ft. Early spring
+- **Support:** Sturdy trellis — end posts need anchoring. Kniffen system (2 wires), high cordon, or umbrella Kniffen
+- **Soil:** Deep, well-drained, pH 5.5-6.5. Drought-tolerant once established
+- **Pollination:** Self-fertile
+
+### Care
+- **Training:** Main trunk to wire year 1-2, cordons/spurs year 3+
+- **Pruning:** CRITICAL — fruit on 1-year-old wood. 40-60 buds/vine in late winter. Spur (2-3 buds) or cane prune (8-12 buds)
+- **Canopy management:** Summer shoot thinning, positioning, leaf removal around clusters
+- **Common issues:** Japanese beetles, grape berry moth, black rot, powdery/downy mildew, phylloxera, birds
+
+### Varieties (Zone 7-8)
+- Table: Concord, Niagara, Reliance, Himrod (seedless)
+- Wine: Chambourcin, Norton (Cynthiana), Vidal Blanc, Traminette
+
+## Hardy Kiwi (*Actinidia arguta*)
+
+Grape-sized, smooth-skinned kiwifruit. Hardy to -25°F. Dioecious — need male + female (1:8 ratio). Excellent for pergolas and fences.
+
+### Planting
+- **Spacing:** 8-15 ft apart. Spring after frost. VERY vigorous
+- **Support:** Strong trellis/arbor (6-7 ft T-bar). Male + female (1:8 ratio)
+- **Soil:** Well-drained, fertile, pH 5.5-7.0
+
+### Care
+- **Pruning:** Winter — remove dead, thin crowded. Summer — tip-prune vigorous shoots. Fruit on current season from 1-yr canes
+- **Harvest:** Late Sept-Oct. Pick when soft — doesn't ripen well off vine
+- **Caution:** EXTREMELY invasive in some regions — check local lists

@@ -13,7 +13,7 @@ created: 2026-05-08
 Ralph Metzner identified three features that consistently distinguish
 traditional shamanic entheogenic ceremonies from the typical psychedelic
 psychotherapy session: minimal verbal interaction among participants, the
-essential role of the shaman's singing, and the use of darkness or [[maria-sabina-and-mazatec-mushroom-ceremony]] ceremonies of Mexico, the healer "sings almost
+essential role of the shaman's singing, and the use of darkness or [[maria-sabina-mazatec-mushroom-ceremony]] ceremonies of Mexico, the healer "sings almost
 uninterruptedly throughout the night, weaving into his or her chants the names
 of Christian saints, spirit allies and the spirits of the Earth, the elements,
 animals and plants, the sky, the waters and the fire." The syncretic blending

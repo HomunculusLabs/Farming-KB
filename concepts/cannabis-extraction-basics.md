@@ -19,7 +19,7 @@ Solvent-based methods use a chemical solvent to dissolve cannabinoids and terpen
 
 #### Ethanol Extraction
 
-[[ethanol]] (food-grade grain alcohol) is a versatile solvent capable of extracting a full spectrum of cannabinoids and terpenes.
+Ethanol (food-grade grain alcohol) is a versatile solvent capable of extracting a full spectrum of cannabinoids and terpenes.
 
 **Process**:
 1. Plant material is soaked or washed with cold ethanol (cryogenic extraction preserves terpenes)
@@ -141,9 +141,36 @@ Winterization is not typically needed for BHO or CO2 extracts that are processed
 
 ## Decarboxylation
 
-Raw cannabis contains THCA and CBDA (acidic, non-intoxicating forms). [[decarboxylation]] converts these to active THC and CBD through heat:
+Raw cannabis contains THCA and CBDA (acidic, non-intoxicating forms). Decarboxylation converts these to active THC and CBD through heat:
 
 - THCA → THC at approximately 220 F (105 C) over 30-60 minutes
 - CBDA → CBD at similar temperatures
 
 Decarboxylation is necessary for any extract intended for oral consumption (edibles, tinctures). See [[cannabis-edibles-guide]] and [[cannabis-tinctures-guide]].
+
+## Safety Considerations
+
+- **Never attempt open-blasting with butane**: Risk of explosion, fire, and toxic exposure
+- **Work in ventilated areas**: All solvent-based extraction requires fume management
+- **Closed-loop systems**: Use only certified, professionally manufactured equipment
+- **PPE**: Chemical-resistant gloves, safety glasses, and fire extinguishers
+- **Residual solvent limits**: Legal products must meet state-mandated PPM limits for residual solvents
+- **Home extraction**: Rosin press and water extraction are the only safe methods for non-laboratory settings
+
+## Extraction Yields
+
+Typical yields by method:
+
+| Method | Yield (% by weight) |
+|---|---|
+| Rosin press (flower) | 15-25% |
+| Rosin press (hash) | 30-50% |
+| BHO | 15-30% |
+| Ethanol | 12-20% |
+| CO2 | 8-18% |
+| Ice water hash | 5-15% |
+
+Yields depend heavily on starting material quality, strain, and operator skill.
+## Related
+
+- [[live-resin-processing]]

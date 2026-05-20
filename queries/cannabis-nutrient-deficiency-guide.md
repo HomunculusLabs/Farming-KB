@@ -1,4 +1,5 @@
 ---
+
 title: Cannabis Nutrient Deficiency Guide
 created: 2026-04-11
 updated: 2026-04-12
@@ -25,7 +26,7 @@ sources:
 - queries/soil-amendment-reference.md
 ---
 
-## Cannabis Nutrient Deficiency Guide
+# Cannabis Nutrient Deficiency Guide
 
 Visual symptom reference for diagnosing nutrient deficiencies in cannabis. Covers all 12 essential nutrients with mobility classification, symptom location, quick fixes, and a reverse-lookup table. Synthesized from [[cannabis-plant-nutrition]], [[cannabis-vegetative-stage]], [[cannabis-flowering-stage]], and [[soil-amendment-reference]].
 

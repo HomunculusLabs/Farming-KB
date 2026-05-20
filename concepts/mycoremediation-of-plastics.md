@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycoremediation, pollution, fungi, decomposition, mycology, ecology, environment, sustainability]
-sources:
-  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+sources: []
 ---
 
 ## Overview
@@ -123,10 +122,7 @@ Fungi often degrade plastics more effectively when alternative carbon sources ar
 - Life cycle assessment comparing fungal degradation to conventional disposal methods
 
 ## See Also
+- [[organic-mushroom-farming-and-mycoremediation-overview]]
+
 - [[mycoremediation-of-oil-spills]] -- established fungal remediation of petroleum hydrocarbons
-- [[mycoremediation-heavy-metals]] -- fungal biosorption and immobilization of toxic metals
-- [[mycoremediation-mushroom-cultivation-contaminated-substrates]]
-- [[cotter-mycoremediation-techniques]]
-- [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
-- [[stamets-mycoremediation-case-studies]]
-- [[mycoremediation-regulatory-framework]]
+- [[mycoremediation-of-heavy-metals]] -- fungal biosorption and immobilization of toxic metals

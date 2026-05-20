@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [psychedelics]
-sources: []
+sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 
 ## Psychedelic Microdosing

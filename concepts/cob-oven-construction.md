@@ -1,5 +1,5 @@
 ---
-title: "Cob Oven Construction"
+title: Cob Oven Construction
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,13 +7,13 @@ tags: [homesteading, construction, design, homestead-crafts, food]
 sources: []
 ---
 
-## Cob Oven Construction
+# Cob Oven Construction
 
-A cob oven (also called an earth oven, clay oven, or wood-fired bread oven) is an outdoor baking structure built from [[building-with-natural-materials]]: clay, sand, and straw. Cob ovens reach 700-900F and bake excellent bread, pizza, roasts, casseroles, and more. They cost very little to build, require no special skills, and can last for decades with basic maintenance. A cob oven pairs naturally with a [[rocket-stove-design]] for complementary cooking infrastructure.
+A cob oven (also called an earth oven, clay oven, or wood-fired bread oven) is an outdoor baking structure built from natural materials: clay, sand, and straw. Cob ovens reach 700-900F and bake excellent bread, pizza, roasts, casseroles, and more. They cost very little to build, require no special skills, and can last for decades with basic maintenance. A cob oven pairs naturally with a [[rocket-stove-design]] for complementary cooking infrastructure.
 
 ## Cob Basics
 
-Cob is an ancient [[bamboo-as-building-material]] made from:
+Cob is an ancient building material made from:
 
 - **Clay** — the binder. Acts like glue. Source from your subsoil (dig 12-24 inches below topsoil) or purchase powdered clay.
 - **Sand** — the aggregate. Provides structure and prevents cracking. Sharp sand (builder's sand) works best.
@@ -36,7 +36,7 @@ The oven is heavy (500-1000+ pounds). A proper foundation prevents settling and 
 ### Simple Foundation (Temporary Installations)
 1. Dig a shallow pad 4-6 inches deep, slightly wider than the oven base
 2. Fill with compacted gravel or crushed rock
-3. Top with a layer of [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]] and 2-3 inches of sand, leveled
+3. Top with a layer of landscape fabric and 2-3 inches of sand, leveled
 
 ### Permanent Foundation
 1. Pour a concrete pad or lay concrete blocks (CMUs)
@@ -53,7 +53,7 @@ The oven is heavy (500-1000+ pounds). A proper foundation prevents settling and 
 - Recycled brick or stone for the oven base walls (optional but attractive)
 - Newspaper (for insulation layer)
 - Optional: ceramic fiber blanket for additional insulation
-- Optional: lime wash or [[comparison-lime-plaster-vs-earthen-plaster]] for the finished exterior
+- Optional: lime wash or earthen plaster for the finished exterior
 
 ## Construction Steps
 
@@ -102,7 +102,7 @@ Set a wooden form (a piece of 2x6 or similar cut to your desired door opening) i
 4. Optional: apply a lime wash (1 part lime to 3 parts water) for weather protection and a white finish.
 
 ### Step 8: Remove the Sand Form
-1. Let the entire oven dry for several days to a week (longer in [[berry-fruit-production-cool-humid-climates]])
+1. Let the entire oven dry for several days to a week (longer in humid climates)
 2. Remove the door form
 3. Reach in and scoop out the sand through the door opening
 4. Pull out the newspaper layer

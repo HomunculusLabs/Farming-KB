@@ -5,13 +5,13 @@ updated: 2026-04-12
 type: concept
 tags: [knf, fermentation, reference, fertilizer]
 sources:
-  - "raw/papers/master-cho-knf-recipe-book.md"
+  - raw/papers/master-cho-knf-recipe-book.md
   - raw/papers/chos-global-natural-farming.md
 ---
 
-## KNF FPJ Ratio Guide
+# KNF FPJ Ratio Guide
 
-[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) and [[bionutrients-lab-fermented-fruit-juice-ffj]] (FFJ) both follow the same fundamental [[fungal-fruiting-body-mechanics-osmotic-pressure]] [[lemon-cannabis-alchemy-high-volume-extraction-method]]. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation times.
+Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) both follow the same fundamental osmotic pressure extraction method. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation times.
 
 ## Base Ratio
 
@@ -29,7 +29,7 @@ Choose plant material that matches the growth stage of your target crop:
 | Target Stage | Use Material From | Examples |
 |-------------|-------------------|----------|
 | Early growth (spring) | Fast-growing spring plants | Mugwort, dropwort, bamboo shoot |
-| [[cannabis-vegetative-growth-stage]] | Summer-growing plants | Sweet potato tips, squash tips, tomato |
+| Vegetative growth | Summer-growing plants | Sweet potato tips, squash tips, tomato |
 | Flowering | Plants that flower in your season | Fruit blossoms, mugwort flowers |
 | Fruiting | Mature/fruiting plants | Banana peel, mango, papaya |
 
@@ -92,7 +92,7 @@ Choose plant material that matches the growth stage of your target crop:
 | Early growth boost | 1:500 |
 | Stress recovery | 1:500 |
 | Soil drench | 1:1,000 |
-| [[ingham-aact-seed-treatment-bare-root-transplant-inoculation]] | 1:1,000 |
+| Seed treatment | 1:1,000 |
 
 ## Temperature
 
@@ -106,18 +106,3 @@ Choose plant material that matches the growth stage of your target crop:
 - [[jadam-fermented-plant-juice]]
 - [[knf-fish-amino-acid]]
 - [[knf-lactic-acid-bacteria-serum]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.

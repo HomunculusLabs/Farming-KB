@@ -5,11 +5,11 @@ updated: 2026-04-12
 type: concept
 tags: [psychopharmacology, consciousness, ethnobotany, culture]
 sources:
-  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
+  - raw/papers/the-essential-psychedelics-guide-by-dm-turner.md
   - raw/papers/shulgin-a-tihkal.md
 ---
 
-## DMT and 5-MeO-DMT Reference
+# DMT and 5-MeO-DMT Reference
 
 N,N-Dimethyltryptamine (DMT) and 5-Methoxy-DMT (5-MeO-DMT) are among the most powerful psychedelics known. Found naturally in plants, animals, and the human body, they produce experiences of extraordinary intensity lasting only minutes. See [[psychedelic-compounds-reference]] for the broader compounds table.
 
@@ -146,5 +146,10 @@ Turner rates ketamine at "Intensity: 10 - Infinity" — the only substance rated
 - [[psychedelic-compounds-reference]] — Broader compounds table
 - [[psychedelic-mushroom-history]] — Psilocybin (4-OH-DMT) history
 - [[entheogen-culture]] — Religious and spiritual use of psychoactive plants
-- [[amanita-muscaria]] — GABA-ergic psychedelic (contrast with serotonergic DMT)
+- [[amanita-muscaria-guide]] — GABA-ergic psychedelic (contrast with serotonergic DMT)
 - [[soma-hypothesis]] — Ancient psychoactive plant use
+
+## Related
+
+- [[salvia-divinorum]]
+- [[5-meo-dmt-reference]]

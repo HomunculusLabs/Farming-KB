@@ -34,7 +34,7 @@ Long-term ecological health depends on responsible stewardship.
 - [[mollison-designers-seed-saving-varieties]]
 - [[mollison-orographic-and-forest-rainfall-effects]]
 - [[mollison-spiral-patterns-in-nature-and-design]]
-- [[soil-ph-nutrient-availability-mollison]]
+- [[soil-ph-and-nutrient-availability]]
 
 ## Practical Applications
 

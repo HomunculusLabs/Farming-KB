@@ -56,7 +56,7 @@ maintained throughout the brewing process. A stagnant, motionless field
 suggests oxygen levels dropped and [[microscope-identification-soil-organisms]]
 - [[compost-tea-and-biological-extracts]]
 - [[mycorrhizal-fungi]]
-- [[integrated-pest-management-ipm]]
+- [[integrated-pest-management]]
 - [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]] Resilience and Electron Microscope
   Survival." University of Edinburgh.
 - Ingham, Elaine. "Soil Foodweb Assessment Methods." Soil Foodweb Inc.,

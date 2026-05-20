@@ -7,7 +7,7 @@ tags: [livestock, animal-husbandry, forage, agriculture, economics, homesteading
 sources: []
 ---
 
-## Grass-Fed Beef Production
+# Grass-Fed Beef Production
 
 Grass-fed and grass-finished beef comes from cattle raised entirely on pasture and forage -- never grain-finished in a feedlot. This model fits homestead and small-scale operations, producing premium meat with strong market demand and lower input costs than grain-based systems.
 
@@ -118,7 +118,7 @@ Improving finish quality:
 - Farmers markets: sell frozen cuts, take pre-orders
 - Buying clubs: sell quarter/half beef shares (best margin, least labor)
 - Restaurant sales: chefs pay premium for local grass-fed
-- Online: [[online-homestead-sales]] platforms
+- Online: online homestead sales platforms
 - On-farm store: if location permits
 - Word of mouth and repeat customers are the strongest channels
 
@@ -131,9 +131,3 @@ Improving finish quality:
 - Dark-cutting beef (from stress) loses $100-200 per carcass in value
 
 Grass-fed beef integrates well with [[pastured-pork-production]] in a diversified homestead livestock operation and benefits from [[hay-and-forage-management|forage]] systems and [[cover-cropping-guide|cover-crop]] rotations.
-
-## See Also
-
-- [[grass-seed-jar-lid-management-loose-cooling-vacuum-prevention]]
-- [[grass-seed-substrate-preparation-mycology]]
-- [[grass-seed-water-absorption-variability-substrate-preparation]]

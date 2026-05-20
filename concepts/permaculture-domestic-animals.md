@@ -7,7 +7,7 @@ tags: [permaculture, animal-husbandry, livestock, ducks, goats, forage, polycult
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-## Permaculture Domestic Animals
+# Permaculture Domestic Animals
 
 Domestic animals in permaculture are valued not for single-product yields but for their multiple functions: pest control, nutrient cycling, forage conversion, soil preparation, and food production. Mollison emphasises that the complexity of connections an animal makes in a system far exceeds what designers can plan -- "we must simply trust the chicken."
 
@@ -27,7 +27,7 @@ Animals occupy different trophic niches:
 ### Chickens
 Chickens are the most integrated domestic animal in permaculture systems:
 - **In orchards**: At 120-240/ha, they scavenge windfall fruit, control codlin moth and fruit fly, and provide manurial turnover. They have a well-tested effect on orchard pests, reducing incidence to insignificant proportions over a few years.
-- **[[chicken-tractor-systems]]**: Confined flocks on 5-6 fenced plots, rotated over 18 months. Chickens pioneer weeds; vegetables and papaya succeed them. All chicken tractors show remarkable lack of weeds and high production.
+- **Chicken tractor systems**: Confined flocks on 5-6 fenced plots, rotated over 18 months. Chickens pioneer weeds; vegetables and papaya succeed them. All chicken tractors show remarkable lack of weeds and high production.
 - **Forage plants**: Oxalis, cleavers, dandelion, onion weed, nettle, nut grass, and Solanum family species (huckleberry, black nightshade, pepino, kangaroo apple, tomato) are excellent chicken fodders.
 - **Breeding**: A few small top-netted rearing pens allow broody hens to replace culled chickens, making the flock self-replacing.
 
@@ -79,44 +79,3 @@ Bees are among the most easily protected from predators by elevation on pole str
 - [[animal-manure-guide]] -- nutrient cycling from animals
 - [[permaculture-tree-crop-systems]] -- animals integrated with tree crops
 - permaculture domestic animals -- this page
-
-## Design Considerations
-
-Effective implementation requires careful site analysis including
-sun patterns, water flow, existing vegetation, and soil type.
-Zone planning places frequently-accessed elements closer to
-the home. Observing natural patterns informs better design.
-## Regional Adaptations
-
-Principles must be adapted to local climate, altitude, and
-growing season length. Mediterranean, tropical, temperate, and
-arid regions each require different species selections, water
-management strategies, and seasonal timing approaches.
-## Economic Aspects
-
-Cost-benefit analysis should account for long-term yields,
-reduced input costs over time, and ecosystem services provided.
-Initial establishment costs are offset by decreasing maintenance
-as the system matures and self-regulates.
-
-## Water Management
-
-Water harvesting, storage, and distribution form critical
-infrastructure in any land management system. Swales, ponds,
-and keyline design capture and retain rainfall. Greywater
-recycling reduces demand on freshwater sources.
-
-## Soil Building Strategies
-
-Building soil organic matter through composting, mulching, cover
-cropping, and reduced tillage improves structure, water retention,
-and nutrient availability. Biological soil management prioritizes
-feeding soil organisms over direct plant fertilization.
-## See Also
-
-- [[permaculture-interaction-of-plants-and-animals]]
-- [[mollison-domestic-small-animals-zone-one]]
-- [[permaculture-pyrethrum-daisy]]
-- [[urban-permaculture-and-city-farming]]
-- [[permaculture-woodlot-management]]
-- [[sepp-holzer-permaculture-water-landscapes-climate-restoration]]

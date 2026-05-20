@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Fungal Coal Biodegradation and Lignite Solubilization The biological solubilization and degradation of coal by fungi represents a unique application of [[fungal-bioremediation-mechanisms]] reduce the surface tension at the coal-water interface, increasing the contact between fungal biomass and coal particles.
 

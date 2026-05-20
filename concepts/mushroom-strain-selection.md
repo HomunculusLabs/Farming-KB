@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-"Strain" in the context of [[psilocybe-cubensis-cultivation]] refers to a selectively propagated variety with distinct visual and growth characteristics. Unlike botanical strains, mushroom strains are not genetically distinct subspecies — all P. [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] can interbreed and are the same species. The differences between strains are analogous to dog breeds: the same species with varying traits selected for by cultivators. Choosing the right strain depends on your goals: yield, potency, ease of cultivation, visual appeal, or personal preference.
+"Strain" in the context of Psilocybe cubensis cultivation refers to a selectively propagated variety with distinct visual and growth characteristics. Unlike botanical strains, mushroom strains are not genetically distinct subspecies — all P. cubensis strains can interbreed and are the same species. The differences between strains are analogous to dog breeds: the same species with varying traits selected for by cultivators. Choosing the right strain depends on your goals: yield, potency, ease of cultivation, visual appeal, or personal preference.
 
 ## Important Terminology
 
@@ -28,7 +28,7 @@ The most widely known and cultivated P. cubensis variety. A reliable, forgiving 
 - **Cultivation**: Easy. Colonizes grain and bulk substrate quickly. Tolerant of minor environmental fluctuations. Consistent yields.
 - **Potency**: Moderate. Typical P. cubensis potency (0.6-1.0% psilocybin by dry weight).
 - **Yield**: Good. First flush yields of 2-4 oz dry from a standard monotub.
-- **Growth characteristics**: Thick, [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]. Fruits readily without complicated [[fungal-fruiting-body-formation-environmental-triggers]].
+- **Growth characteristics**: Thick, rhizomorphic mycelium. Fruits readily without complicated environmental triggers.
 - **Best for**: Beginners, cultivators seeking reliability and consistency.
 
 ### B+
@@ -47,9 +47,9 @@ One of the oldest and most widely distributed varieties. Originally collected in
 A distinctive and highly sought-after variety known for its unusual appearance and reportedly high potency.
 
 - **Appearance**: Thick, dense, bulbous stems with small, underdeveloped caps. The overall shape is phallic, hence the name. Often produces "blob" mutations — dense masses of tissue without clear cap/stem differentiation. Colors range from pale to deep blue.
-- **Cultivation**: Difficult. Slower colonization than most varieties. Often produces fewer but much larger mushrooms. Requires patience and good [[chen-maitake-growth-parameters-environmental-control]]. Higher contamination risk due to slow early growth.
+- **Cultivation**: Difficult. Slower colonization than most varieties. Often produces fewer but much larger mushrooms. Requires patience and good environmental control. Higher contamination risk due to slow early growth.
 - **Potency**: High to very high. Widely reported as 1.5-3x more potent than standard cubensis varieties, though scientific verification is limited. Some sources cite 1.3-1.8% psilocybin by dry weight.
-- **Yield**: Lower by count but potentially higher by total weight due to dense tissue. [[biological-efficiency]] may be similar or slightly below average, but potency per gram is significantly higher.
+- **Yield**: Lower by count but potentially higher by total weight due to dense tissue. Biological efficiency may be similar or slightly below average, but potency per gram is significantly higher.
 - **Growth characteristics**: Very slow colonizer (often 30-50% longer than GT). Dense mycelium that can look bacterial due to its thick, wet appearance.
 - **Subvarieties**: Penis Envy Uncut (caps rarely open), Melmac, Albino Penis Envy (APE), and Texas Penis Envy are all related variants with similar characteristics.
 - **Best for**: Experienced cultivators seeking maximum potency. Not recommended for beginners.
@@ -130,7 +130,7 @@ Penis Envy (and its variants), McKennaii, and Albino Penis Envy are consistently
 
 ### For Maximum Yield
 
-B+, Amazonian, and Golden Teacher produce the most consistent yields. Proper [[boil-a-bag-mushroom-cultivation-technique]] matters far more than strain selection for yield.
+B+, Amazonian, and Golden Teacher produce the most consistent yields. Proper cultivation technique matters far more than strain selection for yield.
 
 ### For Speed
 
@@ -148,3 +148,5 @@ It is important to understand that strain selection is less important than genet
 
 - [[mushroom-agar-work]] — isolating and selecting the best genetics within a strain
 - [[psilocybin-mushroom-cultivation]] — cultivation overview for applying strain knowledge
+- [[mushroom-yield-optimization]] — maximizing yield regardless of strain
+- [[psilocybin-mushroom-chemistry]] — factors affecting psilocybin content

@@ -1,4 +1,5 @@
 ---
+
 title: Brown Rice Vinegar (BRV) — Natural Acetic Acid
 created: 2026-04-11
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
 - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-## Brown Rice Vinegar (BRV)
+# Brown Rice Vinegar (BRV)
 
 Brown Rice Vinegar is a KNF input made by fermenting brown rice into natural acetic acid (vinegar). It serves multiple functions: as a growth stimulant, an extraction solvent for calcium and phosphate inputs, a sour nutrient for the changeover period, and a promoter of root development. BRV is one of the most versatile KNF inputs.
 
@@ -144,3 +145,7 @@ BRV works synergistically with:
 - [[knf-preparations]] — all KNF inputs overview
 - [[nutritive-cycle-theory]] — when to apply BRV
 - [[water-soluble-calcium-wca]] — WS-Ca made with BRV
+- [[water-soluble-calcium-phosphate-wcp]] — WS-CaPo made with BRV
+- [[indigenous-microorganisms-imo]] — IMO for fermentation inoculation
+- [[fermented-plant-extract-fpe]] — FPJ pairing with BRV
+- [[oriental-herbal-nutrient-ohn]] — OHN for pest control

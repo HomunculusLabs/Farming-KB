@@ -1,5 +1,6 @@
 ---
-title: Oriental Herbal Nutrient Ohn
+
+title: Oriental Herbal Nutrient (OHN) — Preparation and Use
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -23,21 +24,21 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-## Oriental Herbal Nutrient (OHN)
+# Oriental Herbal Nutrient (OHN)
 
-OHN is a medicinal herbal tincture in [[korean-natural-farming]]. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
+OHN is a medicinal herbal tincture in Korean Natural Farming. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
 
 ## The Five Herbs
 
-Cho's original formulation uses five medicinal herbs, each contributing specific [[cordyceps-cancer-bioactive-compounds]]:
+Cho's original formulation uses five medicinal herbs, each contributing specific bioactive compounds:
 
 | Herb | Active Compounds | Primary Function |
 |------|-----------------|-----------------|
 | Angelica (Angelica gigas/Dong Quai) | Coumarins, angelic acid | Immune system stimulation, disease resistance |
-| Cinnamon ([[cinnamomum-cassia]]) | Cinnamaldehyde, eugenol | Antifungal, antibacterial, growth promotion |
+| Cinnamon (Cinnamomum cassia) | Cinnamaldehyde, eugenol | Antifungal, antibacterial, growth promotion |
 | Garlic | Allicin, diallyl disulfide | Broad-spectrum antimicrobial, pest repellent |
 | Ginger | Gingerol, shogaol | Antifungal, growth stimulant, digestive aid |
-| Licorice ([[glycyrrhiza-uralensis]]) | Glycyrrhizin | Harmonizer, anti-inflammatory, enhances other herbs |
+| Licorice (Glycyrrhiza uralensis) | Glycyrrhizin | Harmonizer, anti-inflammatory, enhances other herbs |
 
 ### Herb Substitutions
 - Angelica: Can substitute with local medicinal roots (valerian, echinacea)
@@ -116,7 +117,7 @@ From the IMO/bionutrients paper — a faster approach:
 4. Strain and add equal amount crude sugar/molasses for storage
 5. Dilute 2 tablespoons per gallon for spray
 
-This simplified version focuses on the two most potent herbs (garlic and ginger) and produces a functional pest control + [[cannabis-nutrient-solution-preparation]] in less time. It lacks the angelica and licorice components of Cho's full OHN but is effective for most [[hamilton-pest-and-disease-control-organic]] situations.
+This simplified version focuses on the two most potent herbs (garlic and ginger) and produces a functional pest control + nutrient solution in less time. It lacks the angelica and licorice components of Cho's full OHN but is effective for most pest and disease situations.
 
 ## Application Rates
 
@@ -124,11 +125,11 @@ This simplified version focuses on the two most potent herbs (garlic and ginger)
 |----------|----------|-------|
 | General plant health | 1:1000 | Foliar spray |
 | Pest prevention | 1:500-1000 | Spray before pest season |
-| [[cervantes-damping-off-seedling-disease-prevention]] | 1:500 | During humid/wet conditions |
+| Disease prevention | 1:500 | During humid/wet conditions |
 | Active pest infestation | 1:200-500 | Stronger dose, repeat every 3-5 days |
 | Seed treatment (SES) | 1 ml/L | Part of SES solution |
 | Soil drench | 1:500-1000 | Suppress soil-borne pathogens |
-| [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]] | 1:500 | Dip roots or soil drench |
+| Transplant shock | 1:500 | Dip roots or soil drench |
 | Cannabis (vegetative) | 1:500-1000 | IPM spray |
 | Cannabis (flowering) | 1:1000 | Very sparingly — strong smell |
 
@@ -144,3 +145,55 @@ For crops that are visibly struggling, yellowing, or recovering from damage:
 | BRV | 2 ml |
 | OHN | 1 ml |
 | FAA | 1 ml (for nitrogen-deficient crops) |
+| WS-Ca | 1 ml (for over-luxurious, soft growth) |
+
+Apply every 3-5 days until recovery is visible.
+
+## Pre-Harvest Sweetness Formula (Cho)
+
+Applied 15 days and 2 days before harvest:
+
+| Input | Amount per 1000ml water |
+|-------|------------------------|
+| OHN | 1 ml |
+| WS-Ca | 2 ml |
+| Seawater | 30 ml |
+
+Promotes fruit sweetness, maturity, and shelf life.
+
+## Pest Control Applications
+
+OHN is one of KNF's primary pest management tools:
+
+**Insects**: Allicin (garlic) and capsaicin (if hot pepper added) repel sucking and chewing insects. Spray at 1:500 every 5-7 days as preventive.
+
+**Fungal diseases**: Cinnamon's cinnamaldehyde and ginger's gingerol have strong antifungal properties. Effective against powdery mildew, downy mildew, botrytis.
+
+**Bacterial diseases**: Garlic's allicin is broad-spectrum antibacterial. Angelica compounds boost plant immunity.
+
+**Mites**: OHN combined with mackerel FAA creates unfavorable conditions for mite reproduction.
+
+For serious pest pressure, combine OHN with:
+- [[fermented-plant-extract-fpe]] — neem or garlic FPJ for extra punch
+- [[indigenous-microorganisms-imo]] — IMO foliar spray to outcompete pathogens
+- [[lactic-acid-bacteria-lab]] — LAB suppresses pathogenic bacteria
+
+## OHN in the Nutritive Cycle
+
+According to [[nutritive-cycle-theory]]:
+- **Vegetative stage**: OHN at 1:1000 — disease prevention on soft new growth
+- **Changeover period**: OHN at 1:1000 — protect during vulnerable transition
+- **Reproductive stage**: OHN at 1:1000 — pest/disease prevention on flowers/fruit
+- **Pre-harvest**: OHN + WS-Ca + Seawater — sweetness and maturity
+
+OHN can be applied at all growth stages — it does not interfere with the nutritive cycle the way FAA does.
+
+## Safety Notes
+
+- OHN contains alcohol — keep away from open flames
+- Wear gloves when handling concentrated OHN (capsaicin and allicin can irritate skin)
+- Strong smell during application — apply in well-ventilated areas
+- Do not apply OHN to edible portions within 3-5 days of harvest (alcohol and strong herbal taste)
+- For cannabis: strong smell can affect terpene profile if over-applied during late flowering — use sparingly
+
+## See Also

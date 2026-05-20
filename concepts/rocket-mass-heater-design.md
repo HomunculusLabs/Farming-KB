@@ -7,7 +7,7 @@ tags: [energy, construction, homesteading, off-grid, safety, sustainability]
 sources: []
 ---
 
-## Rocket Mass Heater Design
+# Rocket Mass Heater Design
 
 A rocket mass heater (RMH) is a highly efficient wood-burning heating system that uses a J-shaped combustion chamber to achieve near-complete combustion of wood, followed by a thermal mass bench that absorbs and slowly radiates heat for many hours. RMHs typically use 75-90% less wood than conventional wood stoves while producing far less smoke and pollution.
 
@@ -137,11 +137,5 @@ A cob bench is the most common and accessible approach:
 
 - [[natural-building-materials-guide]] for cob and earth materials used in bench construction
 - [[earth-plaster-and-natural-finishes]] for finishing the cob bench surface
-
 ## See Also
-
-- [[comparison-cob-oven-vs-rocket-stove]]
-- [[comparison-rocket-stove-vs-pellet-stove]]
-- [[comparison-rocket-stove-vs-masonry-heater]]
-- [[comparison-solar-cooking-vs-rocket-stove]]
-- [[rocket-stoves-and-efficient-wood-burning-design]]
+- [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]]

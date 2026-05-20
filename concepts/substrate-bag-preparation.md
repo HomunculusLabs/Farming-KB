@@ -7,7 +7,7 @@ tags: [mushrooms, cultivation, recipe, methods, fungi, compost]
 sources: [raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
 
-## Substrate Bag Preparation
+# Substrate Bag Preparation
 
 Complete step-by-step guide to producing substrate bags for mushroom cultivation. Based on FAO training manual for tropical mushroom cultivation in Thailand. See [[mushroom-substrates]] for substrate science and [[mushroom-pasteurization]] for pasteurization methods.
 
@@ -118,6 +118,6 @@ Multiple species can be cultivated in substrate bags. See [[mushroom-species-cul
 - [[pda-and-tissue-culture]] — PDA and tissue culture for spawn production
 - [[mushroom-substrates]] — Substrate science, C:N ratios, alternatives
 - [[mushroom-spawn-making-detailed]] — Grain and sawdust spawn production
-- [[mushroom-sterile-technique]] — Sterile inoculation procedures
+- [[mushroom-sterile-technique-detailed]] — Sterile inoculation procedures
 - [[mushroom-cultivation-basics]] — Adaptations for people with disabilities
 - [[mushroom-cultivation-basics]] — Complete cultivation overview

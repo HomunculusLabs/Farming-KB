@@ -7,7 +7,7 @@ tags: [conservation, wildlife, freshwater, ecology, biodiversity, species, resto
 sources: []
 ---
 
-## Amphibian Habitat Creation
+# Amphibian Habitat Creation
 
 ## Overview
 
@@ -140,10 +140,48 @@ Creating a range of hydroperiods supports the greatest amphibian diversity. Temp
 
 ## Native Species Selection
 
-## See Also
+### Plants for Amphibian Ponds
+| Plant | Type | Function |
+|-------|------|----------|
+| Blue flag iris (Iris versicolor) | Emergent | Egg-laying; cover; aesthetic |
+| Pickerelweed (Pontederia cordata) | Emergent | Cover; nectar for pollinators |
+| Soft rush (Juncus effusus) | Emergent | Egg attachment; cover |
+| Cattail (Typha latifolia) | Emergent | Cover; but can be aggressive—contain with barriers |
+| Swamp milkweed (Asclepias incarnata) | Marginal | Pollinator plant; cover |
+| Cardinal flower (Lobelia cardinalis) | Marginal | Hummingbird attractant; aesthetic |
+| Hornwort (Ceratophyllum demersum) | Submerged | Oxygenation; tadpole cover |
+| Water lily (Nymphaea spp.) | Floating | Shade; cover; aesthetic |
+| Duckweed (Lemna minor) | Floating | Shade; food source; control spread |
 
-- [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
-- [[chytridiomycota-zoosporic-fungi-amphibian-decline]]
-- [[mycelium-running-mycorestoration-habitat-survey]]
-- [[guzman-magic-mushrooms-habitat-ecology]]
-- [[psilocybin-mushroom-habitat-and-ecology]]
+### Avoid Invasive Aquatic Plants
+Do not plant invasive aquatic species (purple loosestrife, water hyacinth, parrot's feather); see [[invasive-species-management]]
+
+## Chytrid Awareness
+
+### Chytrid Fungi (Bd and Bsal)
+The amphibian chytrid fungi are the most devastating wildlife diseases documented, causing declines in 500+ species worldwide. **Bd** (*Batrachochytrium dendrobatidis*) infects keratinized skin and spreads via water and equipment. **Bsal** (*B. salamandrivorans*) specifically targets salamanders — not yet in North America but poses an extreme threat. Prevention is critical:
+
+- **Never move amphibians** between water bodies
+- **Clean equipment** with 10% bleach between sites
+- **Never release** captive amphibians into the wild
+- **Avoid importing** amphibians from other regions
+
+## Terrestrial Habitat
+
+Amphibians spend most of their lives on land and need quality terrestrial habitat near breeding ponds:
+
+- **Leaf litter**: Maintain deep leaf litter in woodlands adjacent to ponds; essential for salamanders and toads
+- **Log and rock piles**: Provide moisture-retaining cover for salamanders and toads
+- **Meadow edges**: Open areas adjacent to woodland provide foraging habitat
+- **Chemical-free zone**: No pesticides or fertilizers within 100+ feet of breeding ponds; see [[integrated-pest-management|pest management]]
+- **Night lighting**: Minimize lighting that disorients amphibians during breeding migrations
+
+## Monitoring
+
+Simple monitoring practices help track amphibian populations:
+
+- **Call surveys**: Listen for calling frogs on warm, rainy spring nights; record species and abundance
+- **Egg mass surveys**: Search shallow water for frog and salamander egg masses in early spring
+- **Visual surveys**: Walk the pond margin at dusk with a headlamp; count frogs at the water's edge
+- **Cover boards**: Place untreated wooden boards (12x12 in) in moist areas; check for salamanders and toads
+- **Report**: Submit sightings to citizen science platforms (iNaturalist, HerpMapper, state databases)

@@ -7,13 +7,13 @@ tags: [fungi, mushrooms, cultivation, indoor, fruiting, species, food, medicine,
 sources: []
 ---
 
-## Lion's Mane Cultivation Guide
+# Lion's Mane Cultivation Guide
 
-Lion's Mane ([[cancer-medicinal-mushrooms-hericium-erinaceus]]) is a distinctive [[holzer-medicinal-and-culinary-herbs-compendium]] mushroom prized for both its unique appearance — cascading white spines resembling a waterfall or cheerleader pom-pom — and its neuroprotective compounds. Growing interest in its cognitive health benefits has made it one of the most sought-after cultivated mushrooms.
+Lion's Mane (Hericium erinaceus) is a distinctive medicinal and culinary mushroom prized for both its unique appearance — cascading white spines resembling a waterfall or cheerleader pom-pom — and its neuroprotective compounds. Growing interest in its cognitive health benefits has made it one of the most sought-after cultivated mushrooms.
 
 ## Overview
 
-Lion's Mane is a wood-decomposing basidiomycete that grows on dead and dying hardwood trees across North America, Europe, and Asia. In the wild it fruits in late summer through fall on oaks, walnuts, beeches, and other hardwoods. It is one of the easier medicinal mushrooms to cultivate on [[oyster-mushroom-supplemented-sawdust-blocks]] substrates, making it accessible to home growers.
+Lion's Mane is a wood-decomposing basidiomycete that grows on dead and dying hardwood trees across North America, Europe, and Asia. In the wild it fruits in late summer through fall on oaks, walnuts, beeches, and other hardwoods. It is one of the easier medicinal mushrooms to cultivate on supplemented sawdust substrates, making it accessible to home growers.
 
 ## Species Identification
 
@@ -28,7 +28,7 @@ Lion's Mane is one of the most researched medicinal mushrooms, particularly for 
 
 ### Nerve Growth Factor (NGF)
 
-The primary [[cordyceps-cancer-bioactive-compounds]] are erinacines and hericenones:
+The primary bioactive compounds are erinacines and hericenones:
 
 - Erinacines (especially erinacine A): found in the mycelium; stimulate NGF synthesis in the brain
 - Hericenones (especially hericenones C and D): found in the fruiting body; cross the blood-brain barrier and promote NGF production
@@ -47,7 +47,7 @@ Research (primarily in Japan) has demonstrated:
 ### Other Health Benefits
 
 - Anti-inflammatory properties (reduces pro-inflammatory cytokines)
-- Antioxidant activity ([[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], scavenging free radicals)
+- Antioxidant activity (phenolic compounds, scavenging free radicals)
 - Gastrointestinal health (protects gastric mucosa, combats H. pylori)
 - Immune modulation (enhances NK cell activity via beta-glucans)
 - Nervous system repair (promotes myelination and nerve regeneration in animal models)
@@ -136,7 +136,7 @@ Lion's Mane has a mild, sweet flavor often compared to lobster or crab. The text
 ## Related Topics
 
 - reishi cultivation for another medicinal mushroom grown on similar substrates
-- [[shiitake-cultivation-guide]] for log [[cannabis-sativa-indoor-cultivation-techniques]] applicable to Lion's Mane
+- [[shiitake-cultivation-guide]] for log cultivation techniques applicable to Lion's Mane
 - [[oyster-mushroom-pleurotus-ostreatus|oyster mushroom species]] for species comparison
 - [[medicinal-mushroom-guide]]
-- [[reishi-cultivation]]
+- [[reishi-cultivation-guide]]

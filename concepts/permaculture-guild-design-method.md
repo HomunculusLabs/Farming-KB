@@ -14,7 +14,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-## Permaculture Guild Design Method
+# Permaculture Guild Design Method
 
 Guild design is the art and science of creating plant communities where species support each other, reducing the gardener's work while increasing yields and ecological health. Toby Hemenway devotes two full chapters in Gaia's Garden to guild design, presenting it as the core technique for assembling productive, self-maintaining gardens.
 

@@ -4,20 +4,18 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, spawn, inoculation, workflow, preparation, storage]
-sources:
-  - "raw/papers/2-laminar-flow-hood-construction.md"
-  - "raw/papers/laminar-flow-hood-construction-1.md"
+sources: []
 ---
 
 ## Overview
 
-Spawn making is the process of expanding [[antimicrobial-compounds-mushroom-mycelium]] from a small starting culture to a large volume of colonized grain. The core technique is grain-to-grain (G2G) transfer, where colonized grain from a "master jar" is used to inoculate multiple "receiver jars" of sterile grain. This allows exponential expansion: one jar can become ten, ten can become a hundred. Proper spawn making is the key to scaling cultivation from a single monotub to a full grow room operation while maintaining genetic consistency and low contamination rates.
+Spawn making is the process of expanding mushroom mycelium from a small starting culture to a large volume of colonized grain. The core technique is grain-to-grain (G2G) transfer, where colonized grain from a "master jar" is used to inoculate multiple "receiver jars" of sterile grain. This allows exponential expansion: one jar can become ten, ten can become a hundred. Proper spawn making is the key to scaling cultivation from a single monotub to a full grow room operation while maintaining genetic consistency and low contamination rates.
 
 ## Grain-to-Grain Transfer (G2G)
 
 ### Concept
 
-G2G transfer works because each colonized grain kernel contains thousands of living mycelium cells. When you transfer colonized grains to fresh sterile grain, each kernel becomes a new [[inoculation-point-taping-technique-sterile-bag-inoculation-jarrold]]. Instead of waiting for spores to germinate or a single agar wedge to expand, the mycelium is already growing and immediately begins colonizing the new grain from dozens or hundreds of [[permaculture-site-design-starting-points]] simultaneously.
+G2G transfer works because each colonized grain kernel contains thousands of living mycelium cells. When you transfer colonized grains to fresh sterile grain, each kernel becomes a new inoculation point. Instead of waiting for spores to germinate or a single agar wedge to expand, the mycelium is already growing and immediately begins colonizing the new grain from dozens or hundreds of starting points simultaneously.
 
 ### The Math of Expansion
 
@@ -32,7 +30,7 @@ In practice, most cultivators limit expansion to 2-3 generations. Beyond this, s
 
 The master jar is the foundation of the entire spawn run. It must be absolutely clean:
 
-1. **Inoculate from the cleanest possible source**: Agar wedge or [[liquid-culture]]. Never use a spore syringe for a master jar intended for G2G expansion — spore syringes carry higher contamination risk and introduce genetic variability.
+1. **Inoculate from the cleanest possible source**: Agar wedge or liquid culture. Never use a spore syringe for a master jar intended for G2G expansion — spore syringes carry higher contamination risk and introduce genetic variability.
 2. **Use the best grain preparation**: Perfectly hydrated, thoroughly sterilized grain. See [[grain-spawn-preparation]].
 3. **Shake at 20-30% colonization**: Redistribute colonized kernels for faster, more complete colonization.
 4. **Verify 100% colonization**: Every kernel should be white with mycelium. No uncolonized grain visible.
@@ -52,8 +50,8 @@ The master jar is the foundation of the entire spawn run. It must be absolutely 
 **Equipment**:
 - Master jar (fully colonized)
 - Receiver jars (sterilized, cooled)
-- Still air box (SAB) or [[laminar-flow-hood]] (strongly preferred for G2G)
-- 70% [[isopropyl-alcohol]]
+- Still air box (SAB) or laminar flow hood (strongly preferred for G2G)
+- 70% isopropyl alcohol
 - Clean spoon or similar transfer tool (optional)
 - Nitrile gloves and mask
 
@@ -96,7 +94,7 @@ See [[mushroom-liquid-culture]] for full LC preparation details.
 
 ## Agar-to-Grain (A2G)
 
-[[saprobic-soil-fungi-appendix-direct-inoculation-particle-filtration-pasteurization]] of grain jars from agar plates:
+Direct inoculation of grain jars from agar plates:
 
 1. Prepare sterilized grain jars.
 2. Inside the SAB or flow hood, open the agar plate and the grain jar simultaneously.
@@ -142,3 +140,40 @@ Bad spawn (do not use):
 - Wet, slimy areas (bacterial contamination).
 - Sour or rotten smell.
 - Uncolonized patches after the expected colonization time.
+- Grains stuck together in a wet mass.
+- Mycelium that appears thin, weak, or gray rather than white.
+
+## Shake Timing Strategy
+
+Strategic shaking dramatically speeds spawn colonization:
+
+1. **No shake after inoculation**: Allow the inoculation point to establish (3-5 days).
+2. **First shake at 20-30% colonization**: Break up the colonized grain and redistribute. This is the most impactful shake.
+3. **Optional second shake at 70-80%**: Less commonly needed but can help even out the last bits of colonization.
+4. **Final shake before spawning**: When the jar is 100% colonized, shake vigorously to break kernels apart. This makes the grain easier to mix evenly with bulk substrate.
+
+## Shelf Life of Spawn
+
+- **Room temperature (70-78F)**: Use within 2-4 weeks of full colonization. Mycelium continues to metabolize and will eventually consume available nutrients and begin to decline.
+- **Refrigerated (35-45F / 2-7C)**: Viable for 2-4 months. Mycelial metabolism slows dramatically. Allow to warm to room temperature before spawning — cold spawn takes longer to recover.
+- **Frozen**: Not recommended. Ice crystal formation damages mycelial cells.
+
+Best practice: plan your grow timeline so that spawn is used within 2 weeks of full colonization for maximum vigor.
+
+## Clean Spawn Workflow Summary
+
+1. Start with a verified clean agar culture or liquid culture.
+2. Inoculate a single master grain jar.
+3. Verify master jar is 100% clean and colonized.
+4. Perform G2G transfer to receiver jars in a sterile environment.
+5. Verify receiver jars are clean and colonized.
+6. Use receiver jars to spawn bulk substrates (monotubs, bags, etc.).
+7. Return to step 1 periodically (every 3-6 months) to maintain genetic vigor.
+
+## Related Topics
+
+- [[grain-spawn-preparation]] — grain types, hydration, and sterilization
+- [[mushroom-liquid-culture]] — liquid culture as an alternative expansion method
+- [[mushroom-agar-work]] — maintaining clean cultures for spawn production
+- [[mushroom-sterile-technique-detailed]] — sterile procedure for G2G transfers
+- [[mushroom-cultivation-grain-spawn]]

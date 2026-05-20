@@ -7,7 +7,7 @@ tags: [mycology, soil-biology, geology, ecology]
 sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md]
 ---
 
-## Fungal Mineral Weathering
+# Fungal Mineral Weathering
 
 Fungi are among the most significant biological agents of mineral weathering — the process by which rocks and minerals break down into soil. Through a combination of mechanical and chemical mechanisms, fungi accelerate the conversion of rock into soil by orders of magnitude compared to abiotic processes alone.
 
@@ -74,77 +74,8 @@ Fungi are among the most significant biological agents of mineral weathering —
 - Fungal siderophores and oxalates mediate metal mobility
 
 ## Applications
-- [[cotter-mycoremediation-overview]] — fungal weathering for bioremediation
+- [[mycoremediation-overview]] — fungal weathering for bioremediation
 - [[fungal-role-in-phosphorus-cycling]] — P release from minerals
 -  — fungi in pedogenesis
-
-## Overview
-
-Fungal Mineral Weathering represents an important element within sustainable
-design and ecological management systems. Its proper understanding
-and integration contributes to the resilience and productivity of
-designed ecosystems and agricultural systems.
-
-## Key Characteristics
-
-Several defining characteristics distinguish fungal mineral weathering
-from related concepts in permaculture and ecological design.
-Understanding these traits supports effective implementation
-and management across diverse environmental conditions.
-
-## Ecological Context
-
-The ecological relationships involving fungal extend
-across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
-with this element in complex and beneficial ways.
-
-## Practical Applications
-
-Fungal Mineral Weathering finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
-beneficial interactions while minimizing external inputs.
-Site-specific adaptation ensures relevance to local conditions.
-
-## Management and Implementation
-
-Effective management requires attention to seasonal patterns
-and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
-Integration with complementary elements enhances system function.
-
-## Regional Considerations
-
-Different geographic regions present unique challenges and
-opportunities for fungal mineral weathering. Climate adaptation
-strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
-
-## Sustainability
-
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
-
-## Research and Development
-
-Ongoing research continues to expand understanding of
-fungal mineral weathering and its applications. Active investigation
-areas include ecological interactions and optimization.
-Published findings contribute to an evolving evidence base.
-
-## Historical Context
-
-Fungal Mineral Weathering has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
-
 ## See Also
-
-- [[fungi-in-the-environment-fungal-ecosystems]]
-- [[fungal-amber-fossils]]
-- [[singh-fungal-pellet-formation-bioremediation]]
-- [[dark-septate-endophytes]]
-- [[fungal-pathogens-human-disease]]
+- [[dighton-fungal-rock-weathering-mineral-dissolution]]

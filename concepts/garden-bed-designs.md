@@ -7,9 +7,9 @@ tags: [gardening, design, construction, permaculture, soil-building]
 sources: []
 ---
 
-## Garden Bed Designs
+# Garden Bed Designs
 
-Garden beds concentrate soil, nutrients, and water in defined growing areas, improving yields and reducing maintenance compared to row cropping. Different bed designs suit different climates, spaces, and growing goals, from [[edible-landscaping]] to intensive [[coleman-french-historical-winter-vegetable-production]].
+Garden beds concentrate soil, nutrients, and water in defined growing areas, improving yields and reducing maintenance compared to row cropping. Different bed designs suit different climates, spaces, and growing goals, from [[edible-landscaping]] to intensive vegetable production.
 
 ## Raised Beds
 
@@ -17,7 +17,7 @@ The most popular backyard garden bed type. A framed box filled with soil mix, ra
 
 ### Advantages
 - Improved drainage in heavy or compacted soils
-- Soil warms faster in spring, extending [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
+- Soil warms faster in spring, extending the growing season
 - Reduced bending and kneeling for the gardener
 - Clean separation between garden and lawn
 - Easy to add amendments and manage soil biology
@@ -26,7 +26,7 @@ The most popular backyard garden bed type. A framed box filled with soil mix, ra
 - **Dimensions**: 4 feet wide (reachable from both sides), 8-12 feet long, 10-18 inches tall
 - **Materials**: Untreated cedar, redwood, or hemlock (naturally rot-resistant); avoid pressure-treated lumber near food crops; galvanized metal, concrete blocks, or stone also work
 - **Soil mix**: 50% topsoil, 30% compost, 20% aeration (perlite, vermiculite, or coarse sand)
-- **Bottom**: Line with cardboard to suppress grass/weeds before filling (no plastic — blocks drainage and [[soil-life]])
+- **Bottom**: Line with cardboard to suppress grass/weeds before filling (no plastic — blocks drainage and soil life)
 - **Placement**: Orient long sides east-west for even sun exposure; level the frame
 
 ### Limitations
@@ -48,7 +48,7 @@ Originating in Africa, keyhole gardens are circular raised beds with a central c
 - Compost in the central basket leaches nutrients outward into the surrounding soil
 - Moisture wicks from the compost basket to the bed
 - Kitchen scraps decompose in place, feeding the garden continuously
-- Excellent for [[water-management]] [[fukuoka-natural-farming-in-arid-regions]]
+- Excellent for [[water-management]] in arid regions
 
 ### Construction
 - Build circular stone, brick, or wood wall 3 feet tall
@@ -58,7 +58,7 @@ Originating in Africa, keyhole gardens are circular raised beds with a central c
 
 ## Wicking Beds
 
-Self-watering garden beds that draw moisture up from a reservoir below the soil via [[capillary-action-in-soils]].
+Self-watering garden beds that draw moisture up from a reservoir below the soil via capillary action.
 
 ### Design
 - Waterproof container with a water reservoir in the bottom (6-12 inches)
@@ -90,7 +90,7 @@ Self-watering garden beds that draw moisture up from a reservoir below the soil 
 Hugel beds (mound culture) bury wood and organic debris under a soil mound, creating a long-term, self-fertilizing garden bed. Central to [[permaculture-design|permaculture]] and [[regenerative-agriculture-history|regenerative]] growing.
 
 ### Design
-- Mound of rotting wood, branches, leaves, [[hamilton-composting-and-organic-matter-management]]
+- Mound of rotting wood, branches, leaves, and organic matter
 - Covered with inverted sod, compost, and topsoil
 - Can be freestanding mounds or built in trenches
 
@@ -117,7 +117,7 @@ Hugel beds (mound culture) bury wood and organic debris under a soil mound, crea
 
 ## Straw Bale Gardens
 
-[[container-growing-vegetables-herbs]] directly in conditioned straw bales, no soil required.
+Growing vegetables directly in conditioned straw bales, no soil required.
 
 ### Conditioning Process (10-14 days)
 - Days 1-3: Water bales thoroughly, add high-nitrogen fertilizer (fish emulsion, blood meal)
@@ -138,12 +138,15 @@ Hugel beds (mound culture) bury wood and organic debris under a soil mound, crea
 - Potatoes (stuff seed potatoes into holes in the bale)
 - Avoid root vegetables (carrots, beets) — limited depth
 
+### Limitations
+- Single-season use (bales decompose significantly)
+- Requires purchased straw (not hay — hay contains seeds)
+- Conditioning requires daily attention
+- May need staking for tall plants
+
 ## See Also
 
-- [[garden-seed-management]]
-- [[garden-seed-sourcing-and-storage]]
-- [[garden-size-and-food-self-sufficiency]]
-- [[garden-sizing-and-land-requirements]]
-- [[garden-tools-and-sharpening]]
-- [[garden-tools-selection-and-care]]
-- [[garden-tools-selection-sharpening]]
+- [[edible-landscaping]]
+- [[container-gardening-guide]]
+- [[rain-garden-design]]
+- [[xeriscaping-guide]]

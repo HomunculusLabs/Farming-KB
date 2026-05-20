@@ -4,7 +4,7 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [plant-nutrition, silicon, beneficial-elements, crop-health]
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 ## Silicon in Plant Nutrition — Beneficial Element

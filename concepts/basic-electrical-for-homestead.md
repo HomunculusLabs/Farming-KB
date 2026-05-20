@@ -7,7 +7,7 @@ tags: [homesteading, equipment, engineering, safety, construction]
 sources: []
 ---
 
-## Basic Electrical for Homestead
+# Basic Electrical for Homestead
 
 Electrical work on a homestead ranges from wiring a simple shed to installing a full residential service panel. Electricity is the most dangerous system a homeowner can work with — mistakes cause fires, electrocution, and death. This page covers wiring fundamentals, circuit basics, outlet installation, GFCI protection, and critical safety guidelines. It also covers when to hire a licensed electrician.
 
@@ -140,11 +140,38 @@ Required in modern construction for bedrooms, living rooms, and other habitable 
 
 - Loose bulb — tighten or replace
 - Loose wire connection at the switch or fixture
+- Voltage drop from overloaded circuit
+- Failing light switch — replace if it feels warm or makes crackling sounds
+- If widespread, may indicate a failing main connection — call an electrician
 
-## See Also
+## Tools for Basic Electrical Work
 
-- [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]
-- [[basic-plumbing-for-homestead]]
-- [[cervantes-ballasts-hid-electrical]]
-- [[chamovitz-plant-electrical-signaling-action-potentials]]
-- [[tompkins-plant-electrical-signals]]
+- Non-contact voltage tester (essential)
+- Multimeter
+- Wire strippers (combo with cutter and crimper)
+- Screwdrivers (insulated set)
+- Needle-nose pliers
+- Lineman's pliers
+- Fish tape (for pulling wire through walls)
+- Circuit tracer (for identifying circuits)
+- Headlamp (for working in panels and dark spaces)
+
+## When to Hire a Licensed Electrician
+
+- Any work on the service entrance (masthead, main panel, meter socket)
+- Installing a new circuit or subpanel
+- Work requiring a permit or inspection
+- Aluminum wiring repairs (specialized and dangerous)
+- Any work in wet or hazardous locations
+- Upgrading service amperage
+- Generator transfer switch installation
+- Solar panel electrical connections
+- If you are not 100% confident in your understanding and ability
+
+Electrical mistakes can kill. The cost of hiring an electrician is always less than the cost of a house fire or electrocution. Know your limits.
+
+## Related Concepts
+
+- [[barn-construction-reference]] — Building and construction infrastructure for the homestead
+- [[mushroom-foraging-safety-guide]] — Safety principles and risk management across homestead systems
+- [[emergency-preparedness]] — Backup power considerations during electrical outages

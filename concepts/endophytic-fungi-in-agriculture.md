@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-[[endophytic-fungi]] live inside plant tissues without causing disease symptoms. These symbiotic relationships, found in virtually all plant species studied, can confer drought tolerance, pest resistance, disease resistance, and enhanced nutrient uptake to host plants. Agricultural research is increasingly focused on harnessing endophytes as alternatives to chemical inputs.
+Endophytic fungi live inside plant tissues without causing disease symptoms. These symbiotic relationships, found in virtually all plant species studied, can confer drought tolerance, pest resistance, disease resistance, and enhanced nutrient uptake to host plants. Agricultural research is increasingly focused on harnessing endophytes as alternatives to chemical inputs.
 
 ## Types of Endophytic Fungi
 
@@ -23,7 +23,7 @@ sources: []
 ### Non-clavicipitaceous Endophytes (Classes 2-4)
 - Found in all plant families, not just grasses
 - Localized infections, not systemic
-- Horizontal transmission ([[spore-dispersal]])
+- Horizontal transmission (spore dispersal)
 - Include diverse genera: Fusarium, Trichoderma, Piriformospora, Serendipita
 - Generally do not produce toxic alkaloids
 - Increasingly studied for agricultural applications
@@ -39,13 +39,13 @@ sources: []
 
 ### Pest and Herbivore Resistance
 - Production of alkaloid deterrents (clavicipitaceous endophytes)
-- Induction of [[plant-volatile-organic-compounds-and-chemical-ecology]] (VOCs) that attract natural enemies of pests
+- Induction of plant volatile organic compounds (VOCs) that attract natural enemies of pests
 - Priming of jasmonic acid defense pathways
 - Physical reinforcement of cell walls through callose deposition
 - Production of protease inhibitors that reduce insect digestion
 
 ### Disease Resistance
-- [[endophytic-mycorrhizal-induced-systemic-resistance]] (ISR): Endophytes prime plant immune responses
+- Induced Systemic Resistance (ISR): Endophytes prime plant immune responses
 - Production of antimicrobial compounds (antibiotics, siderophores)
 - Competition with pathogens for colonization sites and nutrients
 - Activation of plant pathogenesis-related (PR) proteins
@@ -57,10 +57,10 @@ sources: []
 - Regulation of stomatal conductance
 - Maintenance of membrane stability under water stress
 - Production of antioxidants that reduce drought-induced oxidative damage
-- [[dark-septate-endophytes]] particularly effective for drought tolerance
+- Dark septate endophytes particularly effective for drought tolerance
 
 ### Nutrient Enhancement
-- [[biological-nitrogen-fixation-agriculture]] by some endophytic species
+- Biological nitrogen fixation by some endophytic species
 - Phosphorus solubilization through organic acid production
 - Enhanced iron acquisition through siderophore production
 - Increased root branching and exploration
@@ -70,7 +70,7 @@ sources: []
 - Ionic homeostasis regulation
 - Sequestration of sodium ions in vacuoles
 - Production of compatible solutes
-- See [[mycoremediation-heavy-metals]] for heavy metal context
+- See [[mycoremediation-of-heavy-metals]] for heavy metal context
 
 ## Notable Endophytic Species
 
@@ -148,3 +148,51 @@ One of the most studied agricultural endophytes:
 ### Vegetables
 - Tomato: Endophytes reduce Fusarium wilt, improve fruit quality
 - Pepper: Enhanced resistance to Phytophthora and aphids
+- Cucumber: Trichoderma endophytes suppress powdery mildew
+- Lettuce: Endophyte inoculation reduces post-harvest decay
+
+### Fruit Trees
+- Citrus: Endophytic Beauveria reduces psyllid vectors of citrus greening
+- Apple: Endophytes suppress apple scab and fire blight
+- Grape: Endophytes reduce Botrytis bunch rot; some improve wine quality
+
+### Legumes
+- Soybean: Endophytes increase nodulation and nitrogen fixation
+- Bean: Piriformospora indica improves drought tolerance and yield
+- Endophytes can synergize with rhizobial inoculants
+
+## Research Frontiers
+
+### Microbiome Engineering
+- Designing synthetic endophyte consortia for specific crops and conditions
+- Combining endophytes with mycorrhizal inoculants for multi-functional protection
+- Understanding endophyte-endophyte interactions within plant hosts
+
+### Stress Adaptation
+- Screening endophytes from extreme environments (deserts, salt flats, thermal vents)
+- Pre-conditioning crops with endophytes for climate change resilience
+- Connecting to [[fungi-in-climate-change]] adaptation strategies
+
+### Molecular Mechanisms
+- Multi-omics approaches to understand endophyte-plant communication
+- Small RNA exchange between fungi and plant hosts
+- Epigenetic effects of endophyte colonization on plant gene expression
+
+## Limitations and Challenges
+
+- Endophyte colonization is variable and influenced by environment
+- Laboratory results often exceed field performance
+- Regulatory approval for novel endophyte products varies by jurisdiction
+- Potential for non-target effects (endophytes may affect non-pest organisms)
+- Long-term stability of endophyte-plant associations in agricultural fields is uncertain
+- Some endophytes may become pathogenic under stress or in new hosts
+
+## See Also
+
+- [[fungal-biopesticides]] -- external fungal biocontrol agents that complement endophytes
+- [[fungi-in-climate-change]] -- endophytes as tools for climate-resilient agriculture
+- [[mycorrhizal-networks-and-forest-communication]] -- related underground fungal networks
+
+## Related
+
+- [[fungal-pathogens-in-agriculture]]

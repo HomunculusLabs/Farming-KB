@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profil
 sources: []
 ---
 
-## Shiitake (Lentinula edodes)
+# Shiitake (Lentinula edodes)
 
 ## Overview
 
@@ -140,11 +140,12 @@ Shiitake is one of the easiest mushrooms to cultivate at home:
 - **Shiitake dermatitis:** Rare skin reaction (flagellate erythema) caused by lentinan ingestion. More common in raw or undercooked shiitake. Always cook thoroughly.
 - May increase bleeding risk — caution with anticoagulant medications.
 - Immune-stimulating effects — caution with autoimmune conditions.
+- Avoid large medicinal doses during pregnancy (culinary amounts are fine).
+- Gout risk: shiitake contains purines that may trigger gout in susceptible individuals.
+- Possible interaction with immunosuppressant drugs.
 
-## See Also
+## Related Topics
 
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
-- [[medicinal-mushrooms]]
-- [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]
-- [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]
+- [[medicinal-mushroom-guide-maitake]] for complementary beta-glucan rich mushroom
+- [[medicinal-mushroom-guide-reishi]] for a non-culinary medicinal mushroom comparison
+- [[medicinal-mushroom-guide-oyster]] for another cultivated medicinal edible

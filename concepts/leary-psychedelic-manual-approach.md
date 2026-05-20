@@ -9,11 +9,11 @@ sources: [raw/papers/leary-t-the-psychedelic-experience.md]
 
 ## Leary's Manual Based on the Tibetan Book of the Dead
 
-"The Psychedelic Experience" (1964) by [[timothy-leary]], Ralph Metzner, and Richard Alpert adapts the Tibetan Book of the Dead (Bardo Thodol) as a guide for navigating psychedelic sessions. The manual maps the stages of ego [[shamanism-death-and-rebirth]] onto three Bardo phases, providing both philosophical framework and practical instructions.
+"The Psychedelic Experience" (1964) by Timothy Leary, Ralph Metzner, and Richard Alpert adapts the Tibetan Book of the Dead (Bardo Thodol) as a guide for navigating psychedelic sessions. The manual maps the stages of ego death and rebirth onto three Bardo phases, providing both philosophical framework and practical instructions.
 
 ### Central Thesis: Set and Setting
 
-Leary's foundational principle: "The psychedelic experience depends almost entirely on [[set-and-setting]]."
+Leary's foundational principle: "The psychedelic experience depends almost entirely on set and setting."
 
 - **Set**: the preparation of the individual — expectations, personality, mood, intention
 - **Setting**: the physical and social environment — the room, the people present, the sounds
@@ -82,41 +82,14 @@ Those who resist ego-loss may experience:
 
 ### Cross-Reference
 
-Leary's Bardo model parallels [[psychedelic-experience-stages]] — the Chikhai Bardo corresponds to Turner's "peak," the Chonyid Bardo to the extended peak/plateau, and the Sidpa Bardo to the "comedown/return." Both frameworks serve the same purpose: providing conceptual navigation tools for non-ordinary consciousness.
+Leary's Bardo model parallels [[psychedelic-experience-stages|Turner's phenomenological stages]] — the Chikhai Bardo corresponds to Turner's "peak," the Chonyid Bardo to the extended peak/plateau, and the Sidpa Bardo to the "comedown/return." Both frameworks serve the same purpose: providing conceptual navigation tools for non-ordinary consciousness.
 
 ### Critical Note
 
-Leary's approach has been criticized for being culturally appropriative (mapping Tibetan Buddhist concepts onto Western psychedelic use), overly intellectualizing experiences that may not fit the framework, and for Leary's later advocacy that contributed to the backlash against psychedelic research. However, the core insights — set and setting, the importance of surrender, the value of preparation and a guide — remain foundational to modern [[psychedelic-therapy-and-research]] harm reduction.
+Leary's approach has been criticized for being culturally appropriative (mapping Tibetan Buddhist concepts onto Western psychedelic use), overly intellectualizing experiences that may not fit the framework, and for Leary's later advocacy that contributed to the backlash against psychedelic research. However, the core insights — set and setting, the importance of surrender, the value of preparation and a guide — remain foundational to modern psychedelic therapy and harm reduction.
 
 ## See Also
 
 - [[psychedelic-experience-stages]]
 - [[psychedelic-dose-response]]
 - [[ayahuasca-pharmacology]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

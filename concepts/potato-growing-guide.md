@@ -7,7 +7,7 @@ tags: [cultivation, gardening, vegetables, harvesting, storage, plant-growth]
 sources: []
 ---
 
-## Potato Growing Guide
+# Potato Growing Guide
 
 Potatoes (Solanum tuberosum) are a high-yielding, calorie-dense staple crop well-suited to home gardens. This guide covers seed potato selection, hilling methods, container growing, harvest timing, storage, and popular varieties.
 
@@ -140,11 +140,13 @@ Potatoes grow very well in containers — ideal for small spaces and patios.
 | Green potatoes | Sunlight exposure | Hill adequately, keep tubers covered |
 | Scab (brown corky spots) | High soil pH, fresh manure | Keep pH 5.0-6.0, avoid lime, use aged compost |
 | Knobby tubers | Inconsistent watering | Water consistently, especially during tubering |
+| Hollow heart | Rapid growth after dry period | Consistent watering |
+| Wireworm holes | Wireworms in soil | Rotate crops, avoid planting after grass sod |
+| Late blight | Phytophthora infestans | Fungicide (copper), remove infected plants, good airflow |
 
-## See Also
+## Related Concepts
 
-- [[comparison-potato-vs-sweet-potato-cultivation]]
-- [[solomon-sweet-potato-cultivation-guide]]
-- [[jeavons-potato-growing]]
-- [[ingham-nematode-potato-cover-crop-rotation]]
-- [[sweet-potato-guide]]
+- [[tomato-growing-guide]] — related nightshade, shared disease management
+- [[companion-planting-reference]] — beans, cabbage, horseradish as potato companions
+- [[soil-amendment-reference]] — phosphorus for tuber development
+- [[mulching-guide]] — straw mulching as an alternative to soil hilling

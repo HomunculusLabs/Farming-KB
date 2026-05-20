@@ -4,10 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, cultivation, medicine, plants, gardening, drying, harvesting, plant-growth, ethnobotany]
-sources: ["raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"]
+sources: []
 ---
 
-## Medicinal Herb Growing
+# Medicinal Herb Growing
 
 Growing your own medicinal herbs ensures quality, potency, and a ready supply of remedies. Many medicinal herbs are easy to grow, perennial, and thrive in a variety of conditions. This guide covers 15 essential medicinal herbs for the homestead garden.
 
@@ -91,30 +91,6 @@ Uses: immune support, antiviral, anti-inflammatory, fever reduction. Deciduous s
 
 ## Related Concepts
 
-- [[greenhouse-growing]] -- many medicinal herbs can be grown year-round in a greenhouse
+- [[greenhouse-growing-guide]] -- many medicinal herbs can be grown year-round in a greenhouse
 - [[wild-foraging-guide]] -- some medicinal herbs can also be wildcrafted
 - [[saving-seeds]] -- save seeds from your best medicinal herb specimens
-
-## See Also
-
-- [[medicinal-mushroom-derived-polysaccharides-and-immune-modulation]]
-- [[medicinal-mushroom-dietary-supplements-and-future-development]]
-- [[medicinal-mushrooms-and-cancer-chemoprevention]]
-- [[medicinal-mushrooms-beyond-cancer-cardiovascular-antidiabetic-antimicrobial]]
-- [[medicinal-mushrooms-compounds-and-benefits]]
-- [[medicinal-mushrooms-overview-and-cancer-treatment-potential]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.

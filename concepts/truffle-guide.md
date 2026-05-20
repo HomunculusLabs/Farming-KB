@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, foraging, species, mycorrhizae, ecology, cultivation, f
 sources: []
 ---
 
-## Truffle Guide
+# Truffle Guide
 
 Truffles are the fruiting bodies of subterranean fungi in the genus Tuber, among the most expensive foods in the world. Unlike any other mushroom, truffles grow entirely underground and are found with the help of trained animals. They form obligate mycorrhizal associations with tree roots and have been prized in European cuisine since Roman times.
 
@@ -140,11 +140,28 @@ Truffle-hunting dogs are essential for finding ripe truffles underground. While 
 - Ripe truffles are firm, dark, and intensely aromatic
 - Unripe truffles are soft, light-colored, and have minimal aroma
 - Use a trained dog to locate; gentle extraction with a trowel
+- Handle minimally — skin oils and rough handling degrade quality
+- Clean gently with a soft brush (never wash)
+- Store at 35-40 F in paper towels, in an airtight container
+- Consume within 5-7 days of harvest — aroma diminishes rapidly
+- Freeze for longer storage (whole, wrapped tightly)
 
-## See Also
+## Foraging Safety
 
-- [[psilocybin-mushroom-sclerotia-philosophers-stone-truffle]]
-- [[elaphomyces-deer-truffle-ceremonial-director-fungi-mexico]]
-- [[truffle-dog-training]]
-- [[teaming-with-fungi-truffle-cultivation-basics]]
-- [[african-truffle-species]]
+- All true Tuber species are edible when properly identified
+- The primary risk is misidentification with toxic underground fungi (rare but possible)
+- Most dangerous: some species in the genera Hebeloma and Inocybe can be found underground
+- Work with experienced foragers initially
+- Always verify the marbled interior pattern characteristic of Tuber
+- See [[chanterelle-guide]] for general wild mushroom foraging safety principles
+
+## Economics
+
+The global truffle market is estimated at several billion dollars annually. European production has declined significantly over the past century due to habitat loss, deforestation, and climate change, driving prices upward. Truffle cultivation is a long-term investment with high potential returns but significant risk and uncertainty.
+
+## Related Topics
+
+- [[matsutake-mushroom]] for another mycorrhizal fungus that cannot be cultivated
+- [[porcini-boletus-guide]] for another high-value wild foraged mushroom
+- [[chanterelle-guide]] for wild mushroom foraging methods and safety
+- [[mycorrhizal-networks]]

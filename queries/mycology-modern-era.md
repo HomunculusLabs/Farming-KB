@@ -12,7 +12,7 @@ sources:
 - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-## Mycology — Modern Era (1940–Present)
+# Mycology — Modern Era (1940–Present)
 
 Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion of mycology through the psychedelic era, molecular taxonomy revolution, and 21st century genomics.
 
@@ -41,7 +41,7 @@ Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion
   the first outsiders recorded to do so.
   Wasson's 1957 Life magazine article brought psilocybin mushrooms
   to global attention.
-  See [[maria-sabina-and-mazatec-mushroom-ceremony]].
+  See [[maria-sabina-mazatec-mushroom-ceremony]].
 
 - **1958 — Hofmann isolates psilocybin:**
   Identified and synthesized psilocybin and psilocin

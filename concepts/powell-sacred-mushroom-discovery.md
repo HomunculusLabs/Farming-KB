@@ -40,7 +40,7 @@ the "bemushroomed" state, and everyone Pike asked agreed they were
 ## First Journey to Mexico: 1953
 
 In August 1953, the Wassons traveled to Huautla and enlisted a
-Mazatec curandero (shaman) for a [[maria-sabina-and-mazatec-mushroom-ceremony]]. Under the pretense
+Mazatec curandero (shaman) for a [[maria-sabina-mazatec-mushroom-ceremony]]. Under the pretense
 of seeking supernaturally inspired news about their son, they were
 
 ## Overview

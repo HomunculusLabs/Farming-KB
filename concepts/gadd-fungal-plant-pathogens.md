@@ -110,3 +110,11 @@ Collaborative research networks facilitate knowledge exchange and accelerate inn
 Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
 Integration with existing systems often yields better results than complete replacement strategies.
 Monitoring and adaptive management are essential for long-term success and continuous improvement.
+
+## See Also
+- [[aact-fungal-dominant-tea]]
+- [[aact-fungal-foods-chitin-rock-dust-protozoa-nematodes-ingham]]
+- [[aact-ingredients-bacterial-fungal-teas]]
+- [[aact-nitrogen-forms-nitrate-amino-sugars-plant-nutrition-ingham]]
+- [[aact-nutrient-available-forms-microbial-chelation-plant-uptake-ingham]]
+- [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]

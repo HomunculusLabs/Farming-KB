@@ -5,11 +5,11 @@ updated: 2026-04-12
 type: concept
 tags: [soil, plant-growth, biology, nutrient-cycling, rhizosphere]
 sources:
-  - "raw/papers/lowenfels-teaming-with-microbes.md"
+  - raw/papers/lowenfels-teaming-with-microbes.md
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 ---
 
-## Root Exudates
+# Root Exudates
 
 ## Overview
 
@@ -87,39 +87,3 @@ In addition to chemical exudates, plant root tips constantly slough off cellular
 - [[phosphorus-availability]]
 - [[bacterial-vs-fungal-soil]]
 - [[plant-nutrient-uptake-mechanisms]]
-
-## Notes
-
-This topic is connected to related areas of study within
-the broader field. Further research continues to expand
-our understanding of root exudates and its applications.
-
-## See Also
-
-- [[mycorrhiza-root-exudates]]
-- [[phloem-transport-root-exudates]]
-- [[solomon-root-exudates-and-allelopathy]]
-- [[mycorrhizal-root-exudates-pathogen-interactions]]
-- [[mycorrhizal-biocontrol-phytophthora-root-exudates]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

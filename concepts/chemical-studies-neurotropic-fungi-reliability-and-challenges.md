@@ -2,7 +2,7 @@
 title: "Chemical Studies Neurotropic Fungi Reliability And Challenges"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 ## Species Misidentification

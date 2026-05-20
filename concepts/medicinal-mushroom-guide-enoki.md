@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushroom Guide Enoki
+title: Enoki (Flammulina velutipes) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, sp
 sources: []
 ---
 
-## Enoki (Flammulina velutipes)
+# Enoki (Flammulina velutipes)
 
 ## Overview
 
@@ -22,7 +22,7 @@ Beyond its culinary popularity, enoki has a growing body of research supporting 
 ## Key Compounds
 
 - **Proflamin:** A glycoprotein unique to F. velutipes with significant anti-tumor activity. Induces apoptosis in cancer cells.
-- **FVE ([[flammulina-velutipes]] lectin):** A lectin with immunomodulatory properties. Activates immune cells and has anti-proliferative effects on cancer cells.
+- **FVE (Flammulina velutipes lectin):** A lectin with immunomodulatory properties. Activates immune cells and has anti-proliferative effects on cancer cells.
 - **Beta-glucans:** Polysaccharides with immune-stimulating effects, though at lower concentrations than turkey tail or maitake.
 - **Flammutoxin:** A pore-forming cytotoxic protein found in wild enoki. This compound is heat-labile and destroyed by cooking.
 - **Ergothioneine:** A potent antioxidant amino acid found at high concentrations in enoki.
@@ -36,7 +36,7 @@ Proflamin is the most distinctive medicinal compound in enoki:
 - Isolated from the mycelium and fruiting body.
 - Demonstrates anti-tumor activity in animal models, particularly against sarcoma 180 and other transplantable tumors.
 - Mechanism involves induction of cancer cell apoptosis via mitochondrial pathway.
-- Unlike many [[clinical-trials-of-mushroom-polysaccharides-in-cancer-treatment]], proflamin is a protein, not a carbohydrate.
+- Unlike many mushroom polysaccharides, proflamin is a protein, not a carbohydrate.
 - Also shows immunomodulatory effects by activating macrophages.
 
 ### FVE (Fungal Lectin)
@@ -46,7 +46,7 @@ Proflamin is the most distinctive medicinal compound in enoki:
 - May enhance dendritic cell function.
 
 ### Beta-Glucans
-- Standard [[ganoderma-and-psk-psp-immunomodulatory-mechanisms]] (macrophage activation, NK cell stimulation).
+- Standard immunomodulatory mechanisms (macrophage activation, NK cell stimulation).
 - Present at lower levels than in dedicated medicinal mushrooms but still contribute to overall immune support.
 
 ## Anti-Tumor Research
@@ -64,7 +64,7 @@ Enoki has been studied for anti-cancer properties, primarily in East Asian resea
 An emerging and interesting area of enoki research:
 
 - **Ergothioneine:** A powerful antioxidant that accumulates in the brain and protects neurons from oxidative stress. Enoki is one of the richest dietary sources.
-- **Trehalose:** Induces autophagy (cellular cleanup process) in neurons. May help clear protein aggregates associated with [[blesching-cannabis-neurodegenerative-diseases]] (Alzheimer's, Parkinson's, Huntington's).
+- **Trehalose:** Induces autophagy (cellular cleanup process) in neurons. May help clear protein aggregates associated with neurodegenerative diseases (Alzheimer's, Parkinson's, Huntington's).
 - Enoki extracts demonstrate protective effects in animal models of:
   - Alzheimer's disease (reduces amyloid-beta accumulation)
   - Parkinson's disease (protects dopaminergic neurons)
@@ -135,7 +135,7 @@ Wild enoki fruits in late fall through winter, even at temperatures near freezin
 - **Must be cooked** — raw enoki contains flammutoxin.
 - Wash thoroughly to reduce bacterial contamination risk.
 - Generally safe when properly prepared.
-- Immune-stimulating effects — caution with [[blesching-cannabis-health-index-autoimmune-conditions]].
+- Immune-stimulating effects — caution with autoimmune conditions.
 - May interact with anticoagulant medications.
 - Avoid large medicinal doses during pregnancy and breastfeeding.
 - Ergothioneine supplementation is considered safe, but whole mushroom preparations have broader effects.

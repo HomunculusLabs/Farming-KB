@@ -7,16 +7,16 @@ tags: [water-management, ecology, wildlife, plants, design, permaculture]
 sources: []
 ---
 
-## Water Gardens and Ponds
+# Water Gardens and Ponds
 
-Water gardens and ponds introduce [[dighton-fungal-biomass-production-aquatic-ecosystems]] into the landscape, supporting wildlife, creating tranquil focal points, and enabling the cultivation of aquatic plants and fish. They integrate [[water-management]] with [[fungal-ecology|ecology]] and [[permaculture-design|design]] principles.
+Water gardens and ponds introduce aquatic ecosystems into the landscape, supporting wildlife, creating tranquil focal points, and enabling the cultivation of aquatic plants and fish. They integrate [[water-management]] with [[fungal-ecology|ecology]] and [[permaculture-design|design]] principles.
 
 ## Pond Construction
 
 ### Planning
 - **Location**: Minimum 6 hours of sunlight for water lilies and most aquatic plants; partial shade reduces algae
-- **Size**: Larger ponds are more stable (fewer temperature swings, easier biological balance); minimum 50 square feet for [[fukuoka-bushman-world-ecological-balance]], ideally 100+ square feet
-- **Depth**: Shelves for marginal plants (6-12 inches), deeper zone for fish and overwintering (24-36 inches minimum; 48+ inches [[query-how-do-i-grow-figs-in-cold-climates]] to prevent freezing to the bottom)
+- **Size**: Larger ponds are more stable (fewer temperature swings, easier biological balance); minimum 50 square feet for ecological balance, ideally 100+ square feet
+- **Depth**: Shelves for marginal plants (6-12 inches), deeper zone for fish and overwintering (24-36 inches minimum; 48+ inches in cold climates to prevent freezing to the bottom)
 - **Utilities**: Plan for electrical access (pumps, lighting, aeration) and water supply
 - **Zoning**: Avoid placing under trees (leaf debris causes water quality issues) or in low spots that receive runoff (fertilizers, pesticides)
 
@@ -59,8 +59,8 @@ Water gardens and ponds introduce [[dighton-fungal-biomass-production-aquatic-ec
 ### Planting Zones
 
 **Submerged Plants (Oxygenators)**
-- Grow entirely underwater, [[query-how-does-hemoglobin-know-when-to-release-oxygen]], absorb nutrients (reduce algae)
-- Species: Hornwort ([[ceratophyllum-demersum]]), anacharis (Egeria densa), water milfoil, cabomba
+- Grow entirely underwater, release oxygen, absorb nutrients (reduce algae)
+- Species: Hornwort (Ceratophyllum demersum), anacharis (Egeria densa), water milfoil, cabomba
 - Plant in pots on the pond bottom; 1 bunch per 2 square feet of surface area
 - Often free-floating or loosely anchored
 
@@ -79,7 +79,7 @@ Water gardens and ponds introduce [[dighton-fungal-biomass-production-aquatic-ec
 
 **Marginal Plants (Bog Plants)**
 - Grow in shallow water at pond edges (0-6 inches of water over the crown)
-- Species: Iris ([[iris-versicolor]], I. pseudacorus), pickerel weed, cattail, arrowhead, cardinal flower, marsh marigold, sweet flag
+- Species: Iris (Iris versicolor, I. pseudacorus), pickerel weed, cattail, arrowhead, cardinal flower, marsh marigold, sweet flag
 - Plant in pots placed on the marginal shelf
 - Soften the transition between water and land
 
@@ -122,7 +122,7 @@ Water gardens and ponds introduce [[dighton-fungal-biomass-production-aquatic-ec
 ## Filtration
 
 ### Biological Filtration
-- [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] convert toxic ammonia (from fish waste) to nitrite, then to relatively harmless nitrate
+- Beneficial bacteria convert toxic ammonia (from fish waste) to nitrite, then to relatively harmless nitrate
 - Biofilter media: lava rock, bio-balls, ceramic rings, foam pads
 - Essential for any pond with fish
 - Bacteria colonize surfaces — never clean all filter media at once
@@ -135,7 +135,7 @@ Water gardens and ponds introduce [[dighton-fungal-biomass-production-aquatic-ec
 
 ### Natural Filtration
 - **Plant filters**: Bog areas or separate bog filters where water flows through gravel-planted zones
-- **[[comparison-constructed-wetlands-vs-bioswales]]**: The most effective natural filtration — water pumped through a gravel wetland bed planted with marginals
+- **Constructed wetlands**: The most effective natural filtration — water pumped through a gravel wetland bed planted with marginals
 - **Beneficial bacteria**: Add bacterial starter cultures; maintain surface area for colonization
 
 ### UV Clarifiers
@@ -148,3 +148,21 @@ Water gardens and ponds introduce [[dighton-fungal-biomass-production-aquatic-ec
 A well-designed pond becomes a magnet for wildlife:
 
 - **Amphibians**: Frogs, toads, and salamanders will colonize naturally (no stocking needed)
+- **Dragonflies**: Lay eggs in water; larvae are voracious mosquito predators
+- **Birds**: Provide a sloped beach area for drinking and bathing
+- **Insects**: Water striders, whirligig beetles, and other aquatic insects add to biodiversity
+- **Design for wildlife**: Include shallow edges, varied depths, native marginal plants, and hiding spots (rocks, logs)
+
+## Maintenance
+
+- **Spring**: Clean out debris, divide plants, restart pump, check liner
+- **Summer**: Monitor water level, top off as needed, control algae, feed fish lightly
+- **Fall**: Remove fallen leaves with net, trim dead foliage, prepare for winter
+- **Winter**: Keep a hole in ice for gas exchange (use a floating de-icer), stop feeding fish below 50F, leave hardy plants in place
+
+## See Also
+
+- [[rain-garden-design]]
+- [[xeriscaping-guide]]
+- [[native-plant-gardening]]
+- [[green-roof-and-living-walls]]

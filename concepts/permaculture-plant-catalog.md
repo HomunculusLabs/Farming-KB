@@ -1,4 +1,5 @@
 ---
+
 title: Permaculture Plant Catalog
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-## Permaculture Plant Catalog
+# Permaculture Plant Catalog
 
 Reference table of plants organised by function. Sourced primarily from "Permaculture Plants: A Selection" with additions from Mollison's Designer's Manual. See permaculture plant catalog companion pages: [[dynamic-accumulators]], [[cover-cropping-guide]], [[food-forest-layers-and-species]], [[companion-planting-reference]].
 
@@ -107,15 +108,3 @@ Key species for fire-prone areas: carob, black locust, English oak, holm oak, co
 - [[companion-planting-reference]] -- Plant partnerships and antagonisms
 - [[permaculture-useful-plants-reference]] -- General permaculture plant reference
 - [[pollinator-habitat]] -- Bloom calendar and nesting habitat
-
-## See Also
-
-- [[permaculture-plant-index-c-e]]
-- [[permaculture-plant-index-i-m]]
-- [[permaculture-plant-species-botanical-index-a-m]]
-- [[permaculture-plant-species-botanical-index-m-t]]
-- [[permaculture-plant-species-catalog-t-z]]
-- [[permaculture-plant-species-reference]]
-Ongoing developments continue to expand practical applications and theoretical understanding.
-
-These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

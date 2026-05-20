@@ -130,7 +130,7 @@ In cool climates, [[frost-protection-strategies]] and [[season-extension-techniq
 
 ## Key Points
 
-- Soil temperature controls germination, root growth, nutrient uptake, and microbial activity as described in [[soil-temperature-growth]].
+- Soil temperature controls germination, root growth, nutrient uptake, and microbial activity as described in [[soil-temperature-and-plant-growth]].
 - Most vegetables have specific optimal soil temperature ranges — planting outside these ranges wastes seed and time.
 - Cold soils lock up phosphorus and slow nitrogen mineralization, even when nutrients are present.
 - Warm soil in spring using plastic mulch, raised beds, cold frames, and row covers.

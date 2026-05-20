@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Folklore and Culture
 created: 2026-04-11
 updated: 2026-04-12
@@ -23,9 +24,9 @@ sources:
 - raw/papers/arthur-j-mushrooms-and-mankind.md
 ---
 
-## Mushroom Folklore and Culture
+# Mushroom Folklore and Culture
 
-The cultural, artistic, and symbolic significance of mushrooms across human history, from prehistoric rock art to modern mycological subcultures. See also [[psychedelic-mushroom-history]] for a chronological timeline and [[amanita-muscaria]] for Amanita-specific traditions.
+The cultural, artistic, and symbolic significance of mushrooms across human history, from prehistoric rock art to modern mycological subcultures. See also [[psychedelic-mushroom-history]] for a chronological timeline and [[amanita-muscaria-guide]] for Amanita-specific traditions.
 
 ## Prehistoric and Ancient Roots
 
@@ -141,6 +142,16 @@ The title of [[nicholas-money]]'s book refers to an abandoned apple orchard belo
 ## See Also
 
 - [[psychedelic-mushroom-history]] — Chronological timeline from prehistoric to modern
-- [[amanita-muscaria]] — Fly agaric identification, chemistry, and Siberian use
+- [[amanita-muscaria-guide]] — Fly agaric identification, chemistry, and Siberian use
 - [[entheogen-culture]] — Entheogens across cultures
 - [[mushroom-identification-resources]] — Identification methods and safety
+- [[edible-wild-mushrooms-by-region]] — Regional foraging guide
+- [[nicholas-money]] — Author of Mr. Bloomfield's Orchard
+- [[christmas-mushroom-symbolism]] — Christmas traditions and Amanita connections
+- [[mythological-mushroom-symbolism]] — Mushroom symbolic vocabulary across cultures
+- [[mushrooms-and-mankind]] — Arthur's comprehensive ethnomycological theory
+- [[sacred-sacrament-mushroom-rites]] — Comparative sacramental mushroom rites
+
+## Related
+
+- [[psychedelic-integration-guide]]

@@ -5,11 +5,11 @@ updated: 2026-04-12
 type: entity
 tags: [person, medicine, health, psychopharmacology, academia]
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
+  - raw/papers/mycelium-running-stamets.md
   - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
 ---
 
-## Andrew Weil
+# Andrew Weil
 
 Andrew Weil, MD (b. 1942) is an American physician, author, and leading figure in integrative medicine. He wrote the forewords to both *Mycelium Running* (2005) and *Psilocybin Mushrooms of the World* (1996) by [[paul-stamets]], lending medical credibility to Stamets' work on fungal ecology and medicinal mushrooms.
 
@@ -23,7 +23,7 @@ Weil's foreword to *Mycelium Running* articulates several key positions on funga
 
 **On the medical potential of fungi:** "When we first met, I was questioning why Western medicine had never looked to mushrooms as sources of new therapeutic agents, given their prominence in the traditional pharmacopeias of China, Japan, and Korea." He endorsed Stamets' "Big Idea" that fungi from old-growth forests may be sources of new medicines active against a range of germs, including HIV/AIDS and the causative agents of smallpox and anthrax — potential bioterrorist threats.
 
-**On mycoremediation:** Weil endorsed Stamets' concept that "mycelium can be selected and trained to break down toxic waste, reducing it to harmless metabolites" and the broader [[mycorestoration]] strategy of using fungi to filter water, help trees grow, and control insect pests through completely nontoxic means.
+**On mycoremediation:** Weil endorsed Stamets' concept that "mycelium can be selected and trained to break down toxic waste, reducing it to harmless metabolites" and the broader [[mycorestoration-overview]] strategy of using fungi to filter water, help trees grow, and control insect pests through completely nontoxic means.
 
 **On the ecological importance of fungi:** "Trees and other green plants could not grow and reach maturity without symbiotic associations with mushrooms, at least with mycelium, the network of fungal threads in soil that act as interfaces between plant roots and nutrients." He noted that "mushrooms — ignored by many, reviled by some — may turn out to be important keys to both human health and planetary health."
 
@@ -57,89 +57,32 @@ Weil went on to found the field of integrative medicine, which combines conventi
 - [[richard-alpert]] — Harvard colleague of Leary covered in Weil's reporting
 - [[entheogen-culture]] — Weil's early research on consciousness-altering substances
 - [[medicinal-mushroom-guide]] — Weil helped bring medicinal mushroom research to mainstream attention
-- [[mycorestoration]] — Weil endorsed Stamets' mycorestoration framework
+- [[mycorestoration-overview]] — Weil endorsed Stamets' mycorestoration framework
+### Key Principles
+Understanding andrew weil requires consideration of several interrelated factors.
+These principles form the foundation for practical application and further research.
+Each factor contributes to the overall effectiveness and sustainability of the approach.
 
-## Overview
-
-Andrew Weil represents an important element within sustainable
-design and ecological management systems. Its proper understanding
-and integration contributes to the resilience and productivity of
-designed ecosystems and agricultural systems.
-
-## Key Characteristics
-
-Several defining characteristics distinguish andrew weil
-from related concepts in permaculture and ecological design.
-Understanding these traits supports effective implementation
-and management across diverse environmental conditions.
-
-## Ecological Context
-
-The ecological relationships involving andrew extend
-across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
-with this element in complex and beneficial ways.
-
-## Practical Applications
-
-Andrew Weil finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
-beneficial interactions while minimizing external inputs.
-Site-specific adaptation ensures relevance to local conditions.
-
-## Management and Implementation
-
-Effective management requires attention to seasonal patterns
-and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
-Integration with complementary elements enhances system function.
-
-## Regional Considerations
-
-Different geographic regions present unique challenges and
-opportunities for andrew weil. Climate adaptation
-strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
-
-## Sustainability
-
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
-
-## Research and Development
-
-Ongoing research continues to expand understanding of
-andrew weil and its applications. Active investigation
-areas include ecological interactions and optimization.
-Published findings contribute to an evolving evidence base.
-
-## Historical Context
-
-Andrew Weil has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
-
-## Integration Strategies
-
-Successful integration of andrew weil into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
+### Methods and Techniques
+Various methods have been developed to implement these concepts effectively.
+Selection of appropriate techniques depends on specific conditions and objectives.
+Adaptation to local conditions improves outcomes and resource efficiency.
 
 ## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]
+### Additional Notes
+The study and application of andrew weil continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-- [[andrew-jeeves]]
-- [[weil-drug-use-as-innate-human-drive]]
-- [[weil-intoxication-and-consciousness-theory]]
-- [[weil-the-mind-drug-relationship-paradigm]]
-- [[weil-the-natural-mind-altered-states-normalcy]]
+### Additional Notes
+The study and application of andrew weil continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
+
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

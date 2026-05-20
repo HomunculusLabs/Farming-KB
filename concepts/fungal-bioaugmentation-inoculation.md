@@ -1,4 +1,5 @@
 ---
+
 title: Fungal Bioaugmentation and Inoculation
 created: 2026-04-11
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
   - raw/papers/staycare-mngmt-fungi-in-bioremediation.md
 ---
 
-## Fungal Bioaugmentation and Inoculation
+# Fungal Bioaugmentation and Inoculation
 
 Practical methods for introducing fungal inocula into contaminated environments for [[mycoremediation-basics]]. Covers formulation, delivery, and field challenges. Based on research from Evans & Hedger, Bennett et al., and Singh (2006).
 
@@ -98,34 +99,3 @@ Laboratory studies use pure cultures, controlled environments, single chemicals,
 - [[mycoremediation-techniques]] -- Deployment methods
 - [[mycoremediation-of-oil-spills]] -- Petroleum-specific remediation
 - [[fungal-ecosystem-roles]] -- Ecological context
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-
-## Historical Context
-
-Historical development of fungal bioaugmentation inoculation spans several decades of research.
-Early experiments established foundational principles that continue to inform
-modern practices. The evolution of understanding has been marked by
-significant breakthroughs in methodology and application.
-
-## Common Methods
-
-Practitioners employ various methods to achieve optimal results with fungal bioaugmentation inoculation.
-Each approach offers distinct advantages depending on scale, available resources,
-and specific objectives. Selection of the appropriate method requires
-careful consideration of the operating environment.

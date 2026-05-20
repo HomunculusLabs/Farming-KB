@@ -7,7 +7,7 @@ tags: [season-extension, construction, gardening, permaculture, sustainability]
 sources: []
 ---
 
-## Grow Tunnel and Hoop House
+# Grow Tunnel and Hoop House
 
 Grow tunnels and hoop houses are simple, affordable structures that extend the growing season by protecting plants from cold, wind, and pests. They range from small, temporary low tunnels covering individual rows to large, semi-permanent high tunnels (hoop houses) that a person can walk inside. All use a curved frame covered with polyethylene film or other material to create a protected microclimate.
 
@@ -141,10 +141,17 @@ Adequate ventilation is critical — high tunnels can overheat rapidly on sunny 
 
 ### Fall
 
-## See Also
+- **September-October:** Plant cool-season greens for winter harvest
+- **October-November:** Add a second layer of row cover inside the tunnel for double protection
+- **Advantage:** Extend harvest 4-8 weeks past first frost
 
-- [[query-how-to-grow-reishi-mushrooms]]
-- [[query-how-to-grow-wine-cap-mushrooms]]
-- [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]
-- [[mushroom-grow-room-design]]
-- [[cervantes-indoor-grow-room-setup]]
+### Winter
+
+- In mild climates (zone 7+): Grow hardy greens (spinach, kale, mache, claytonia) with row cover inside the tunnel
+- In cold climates: Use a high tunnel as a multi-bay cold frame, or add a small heater for frost-sensitive crops
+
+## Related Concepts
+
+- [[cold-frame-gardening]] for the simplest season extension structure
+- [[geodesic-greenhouse-design]] for a more permanent, year-round growing structure
+- [[underground-greenhouse-walipini]] for maximum passive solar heating in cold climates

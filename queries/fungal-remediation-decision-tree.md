@@ -1,4 +1,5 @@
 ---
+
 title: Fungal Remediation Decision Tree
 created: 2026-04-11
 updated: 2026-04-12
@@ -26,7 +27,7 @@ sources:
 - concepts/mushroom-species-guide.md
 ---
 
-## Fungal Remediation Decision Tree
+# Fungal Remediation Decision Tree
 
 Flowchart-style reference for matching fungal species to contaminant types. Covers heavy metals, petroleum hydrocarbons, PAHs, PCBs, dioxins, pesticides, pathogens, dyes, pharmaceuticals, and explosives. Compiled from [[mycoremediation-basics]], [[mycoremediation-techniques]], and [[mycofiltration-overview]].
 
@@ -107,7 +108,7 @@ Key rules: surface area should be several times the contamination source; water 
 - [[mycoremediation-techniques]] — spawn types, mycelial mat construction, site strategies
 - [[mycofiltration-overview]] — water filtration design, E. coli discovery, agricultural apps
 - [[mushroom-species-guide]] — species parameters for cultivation
-- [[mycorestoration]] — broader restoration framework
+- [[mycorestoration-overview]] — broader restoration framework
 
 ## Related
 

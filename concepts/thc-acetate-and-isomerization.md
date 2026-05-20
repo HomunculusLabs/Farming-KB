@@ -1,5 +1,6 @@
 ---
-title: Thc Acetate And Isomerization
+
+title: THC Acetate and Isomerization
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -19,9 +20,9 @@ sources:
 - raw/papers/ben-lemon-cannabis-alchemy.md
 ---
 
-## THC Acetate and Isomerization
+# THC Acetate and Isomerization
 
-Chemical modification techniques for cannabis extracts, documented in Ben Lemon's "[[cannabis-alchemy-book]]" (1979). These processes convert non-psychoactive cannabidiol (CBD) to psychoactive THC (isomerization) and further modify THC to produce THC acetate -- a compound approximately twice as potent with distinct psychoactive properties.
+Chemical modification techniques for cannabis extracts, documented in Ben Lemon's "Cannabis Alchemy" (1979). These processes convert non-psychoactive cannabidiol (CBD) to psychoactive THC (isomerization) and further modify THC to produce THC acetate -- a compound approximately twice as potent with distinct psychoactive properties.
 
 Related: [[cannabis-extraction-basics]], [[cannabis-hashish-guide]]
 
@@ -29,7 +30,7 @@ Related: [[cannabis-extraction-basics]], [[cannabis-hashish-guide]]
 
 ### Cannabidiol to THC (Isomerization)
 
-Cannabidiol (CBD) is a non-psychoactive cannabinoid that typically occurs in quantities at least equal to THC in most [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]. Through acid-catalyzed cyclization, CBD can be converted to THC, potentially doubling or more the potency of cannabis oil.
+Cannabidiol (CBD) is a non-psychoactive cannabinoid that typically occurs in quantities at least equal to THC in most cannabis strains. Through acid-catalyzed cyclization, CBD can be converted to THC, potentially doubling or more the potency of cannabis oil.
 
 **Mechanism**: CBD contains an open ring structure. Under acidic conditions, a third ring closes, converting it to THC. Simultaneously, the THC can be converted from its lower-rotating to higher-rotating isomeric form, which produces a more psychedelic and spiritual effect.
 
@@ -37,7 +38,7 @@ Cannabidiol (CBD) is a non-psychoactive cannabinoid that typically occurs in qua
 
 ### THC to THC Acetate (Acetylation)
 
-THC acetate is produced by reacting THC with [[acetic-anhydride]], which adds an acetyl group (CH3CO) to the molecule.
+THC acetate is produced by reacting THC with acetic anhydride, which adds an acetyl group (CH3CO) to the molecule.
 
 **Properties**:
 - Adams scale potency: THC = 7.3, THC acetate = 14.6 (approximately double)
@@ -48,7 +49,7 @@ THC acetate is produced by reacting THC with [[acetic-anhydride]], which adds an
 ## Isomerization Process
 
 ### Starting Material
-Begin with cannabis oil that has been extracted and purified by [[petroleum-ether]] re-extraction (see [[cannabis-extraction-basics]]). The oil should be dissolved in absolute ethanol or pure methanol at a ratio of 1 gram oil to 10 grams solvent.
+Begin with cannabis oil that has been extracted and purified by petroleum ether re-extraction (see [[cannabis-extraction-basics]]). The oil should be dissolved in absolute ethanol or pure methanol at a ratio of 1 gram oil to 10 grams solvent.
 
 ### Acid Catalysis
 Add 1 drop of 100% sulfuric acid per gram of oil, slowly with continuous stirring. Safety requirements: safety glasses, long rubber gloves, clothing covering as much body surface as possible. Sulfuric acid burns are treated by immediate washing with water and bicarbonate of soda. Store in a safety bottle (glass bottle fitted into a styrofoam-lined metal can).
@@ -141,6 +142,8 @@ These techniques, documented in 1979, prefigured the modern cannabis concentrate
 - [[cannabis-extraction-basics]] for the initial extraction and solvent purification
 - [[ben-lemon]] for the author
 - [[cannabis-hashish-guide]] for traditional concentrate methods
-- [[cannabis-health-therapeutics]] for [[oner-sativa-medical-applications]]
+- [[cannabis-health-therapeutics]] for medical applications
 
 ## Related
+
+- [[cannabis-hashish-guide]]

@@ -19,7 +19,7 @@ type: concept
 ## Overview
 
 Jochen Gartz documents the pivotal role of R. Gordon Wasson in bringing
-the sacred [[maria-sabina-and-mazatec-mushroom-ceremony]] ceremony on June 29, 1955, and his
+the sacred [[maria-sabina-mazatec-mushroom-ceremony]] ceremony on June 29, 1955, and his
 subsequent publication in *Life* magazine on June 10, 1957, represents
 one of the most significant events in the history of ethnobotany and
 [[gartz-psilocybin-potency-and-alkaloid-variations]]

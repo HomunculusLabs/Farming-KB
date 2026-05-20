@@ -1,4 +1,5 @@
 ---
+
 title: European Psilocybin Species
 created: 2026-04-11
 updated: 2026-04-12
@@ -22,33 +23,10 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 - raw/papers/magic-mushrooms-around-the-world-gartz.md
 ---
-title: European [[psilocybin]] Species
-created: 2026-04-11
-updated: 2026-04-12
-type: concept
 
-tags:
-- mushrooms
-- mycology
-- ethnobotany
-- psychopharmacology
-- consciousness
-- europe
-- species
-- entheogen
-- lighting
-- fungal-diversity
-- fruit-tree
+# European Psilocybin Species
 
-sources:
-- raw/papers/magic_mushrooms_around_the_world.md
-- raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
-- raw/papers/magic-mushrooms-around-the-world-gartz.md
----
-
-## European Psilocybin Species
-
-Beyond the well-known [[psilocybe-semilanceata]], Europe hosts several additional psilocybin-containing genera that are less recognized but scientifically significant. Data primarily from [[jochen-gartz]]'s field research and chemical analyses (1980s-1990s). See also [[mushroom-species-guide]] and [[fungal-biodiversity]].
+Beyond the well-known Psilocybe semilanceata, Europe hosts several additional psilocybin-containing genera that are less recognized but scientifically significant. Data primarily from Jochen Gartz's field research and chemical analyses (1980s-1990s). See also [[mushroom-species-guide]] and [[fungal-biodiversity]].
 
 ## Inocybe aeruginascens
 
@@ -66,7 +44,7 @@ Originally described by M. Babos in 1968. First found near Potsdam, Eastern Germ
 | Berlin | 1975 | 0.11 |
 | Hungary | 1967 | 0.22 |
 
-Psilocybin levels are comparable to [[psilocybe-mexicana]]. Contains baeocystin at levels comparable to psilocybin. Only trace amounts of psilocin. Average alkaloid content is remarkably constant across samples and does not vary much with prolonged storage.
+Psilocybin levels are comparable to Psilocybe mexicana. Contains baeocystin at levels comparable to psilocybin. Only trace amounts of psilocin. Average alkaloid content is remarkably constant across samples and does not vary much with prolonged storage.
 
 **Aeruginascin**: Gartz identified a previously unknown alkaloid unique to this species, named aeruginascin. Soluble only in polar solvents (water, methanol, acetic acid). Concentration comparable to psilocybin and baeocystin. The compound may contribute to the consistently euphoric experiences reported in involuntary intoxications, even under unfavorable set/setting conditions.
 
@@ -110,7 +88,7 @@ Note: Psilocin is unstable — significant decay observed during one year of sto
 
 ### Yurimagua Indians Connection
 
-Jesuit missionaries (17th-18th century) reported that the Yurimagua Indians of the western Amazon (Peru) prepared a potently intoxicating potion from a "reddish tree-dwelling mushroom with spicy taste." Gartz proposes this was likely a Gymnopilus species rather than the previously assumed [[psilocybe-yungensis]], since Gymnopilus species are reddish and colonize dense tree trunks.
+Jesuit missionaries (17th-18th century) reported that the Yurimagua Indians of the western Amazon (Peru) prepared a potently intoxicating potion from a "reddish tree-dwelling mushroom with spicy taste." Gartz proposes this was likely a Gymnopilus species rather than the previously assumed Psilocybe yungensis, since Gymnopilus species are reddish and colonize dense tree trunks.
 
 ## Conocybe cyanopus
 
@@ -142,3 +120,48 @@ Light-spored mushroom (rose-colored spore dust) in the Pluteaceae family. First 
 ### Description
 
 - **Cap**: Up to 8 cm, lighter at margin, silver grey, hairy/felt-like, often scaly
+- **Stem**: Up to 10 cm, grey-green or grey-blue discolorations at base
+- **Spore print**: Rose/pink (unlike all other psychoactive genera)
+- **Habitat**: Stumps of willows, alders, lindens, beeches, poplars, maples; May-October
+- **Note**: Albino forms exist with grey-green stem bases and cap apex areas
+
+### Alkaloid Content (German samples, non-bluing)
+
+| Sample | Cap Psilocybin (%) | Stem Psilocybin (%) | Cap Urea (%) |
+|--------|-------------------|--------------------|--------------------|
+| 1 | 1.38 | 0.48 | 2.50 |
+| 2 | 1.57 | 0.71 | 2.60 |
+| 3 | 1.57 | 0.71 | 2.60 |
+| 4 | 1.22 | 1.14 | 1.40 |
+| 5 | 1.39 | 0.64 | 2.40 |
+
+Swiss samples (Stijve): average 0.25% psilocybin. Bluing Dubener marshlands samples: 0.2-0.7% psilocybin + trace baeocystin. European mushrooms produce only traces of psilocin. North American and European populations may not be identical species.
+
+### Other Pluteus Species
+
+- **Pluteus nigroviridis Babos**: Extremely rare (Hungary), only 0.035% psilocybin
+- **Pluteus cyanopus**: Reported from Europe; bluish/violet discolorations
+
+## Mushroom Identification Dangers
+
+### Galerina Fatalities
+
+On December 16, 1981, three teenagers on Whidbey Island, WA collected Galerina species mistaking them for Psilocybe. Two recovered after medical treatment; a 16-year-old girl died on December 24. Galerina species contain the same deadly amatoxins as Amanita phalloides — symptoms are insidious with a 12-hour latency period during which irreversible internal damage occurs.
+
+### Key Identification Risks
+
+- Psilocybin-producing species share characteristics with many culinary and toxic species
+- "Little Brown Mushrooms" (LBMs) are especially problematic — habitats and variations are poorly studied
+- Wood-debris Psilocybe species are much harder to identify than pasture-dwelling P. semilanceata
+- North America has a much broader spectrum of mushroom species than Europe, increasing confusion risk
+- Red light is NOT a safe "safe light" for mushroom work — it may interact with blue-light photoreceptor systems
+
+## See Also
+
+- [[psilocybin-mushroom-chemistry]] — Global distribution patterns
+- [[mushroom-species-guide]] — Cultivated species profiles
+- [[fungal-research-compound-reference]] — Alkaloid chemistry data
+- [[jochen-gartz]] — Primary researcher
+## Related
+
+- [[gymnopilus-purpuratus]]

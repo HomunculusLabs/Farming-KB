@@ -5,14 +5,14 @@ updated: 2026-04-12
 type: concept
 tags: [mycology, pollution, biology, ecology, microbes, methods]
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
-  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
+  - raw/papers/mycelium-running-stamets.md
+  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
   - raw/papers/staycare-mngmt-fungi-in-bioremediation.md
 ---
 
-## Mycoremediation Basics
+# Mycoremediation Basics
 
-Mycoremediation is the use of fungal mycelium to break down or sequester toxic contaminants in soil and water. Part of the [[mycorestoration]] framework developed by [[paul-stamets]]. The term was popularized by Singh (2006) in the encyclopedic reference "Mycoremediation: Fungal Bioremediation."
+Mycoremediation is the use of fungal mycelium to break down or sequester toxic contaminants in soil and water. Part of the [[mycorestoration-overview]] framework developed by [[paul-stamets]]. The term was popularized by Singh (2006) in the encyclopedic reference "Mycoremediation: Fungal Bioremediation."
 
 ## Why Fungi?
 
@@ -30,7 +30,7 @@ Fungi are among nature's most versatile organisms in structure, metabolism, ecol
 Mycelium secretes extracellular enzymes and acids that can break down:
 - **Petroleum hydrocarbons** — PAHs, diesel, motor oil, BTEX ([[mycoremediation-of-oil-spills]])
 - **PCBs and dioxins** — persistent organic pollutants ([[mycoremediation-pcbs-and-dioxins]])
-- **Heavy metals** — lead, mercury, cadmium, copper, zinc via biosorption ([[mycoremediation-heavy-metals]])
+- **Heavy metals** — lead, mercury, cadmium, copper, zinc via biosorption ([[mycoremediation-of-heavy-metals]])
 - **PAHs** — polycyclic aromatic hydrocarbons ([[mycoremediation-pahs]])
 - **Phenols and chlorophenols** — industrial wastewater contaminants
 - **Agricultural chemicals** — pesticides, herbicides, nitrates, phosphorus
@@ -89,7 +89,7 @@ Stamets and Battelle scientists identified a fungus that metabolized **dimethyl 
 - Aspergillus niger removed 91% copper and 70% zinc from swine effluent (Price et al. 2001)
 - Fungal biosorption uses living or dead biomass; cell wall components (chitin, glucans, proteins) bind metal ions via ion exchange, complexation, and adsorption
 - Mycorrhizal fungi protect host plants from metal toxicity while accumulating metals in their tissues
-- See [[mycoremediation-heavy-metals]] for detailed coverage
+- See [[mycoremediation-of-heavy-metals]] for detailed coverage
 
 ### PAH Degradation
 - White-rot fungi degrade PAHs via cytochrome P450 and ligninolytic enzymes
@@ -146,5 +146,20 @@ Fungi are known to degrade a wide variety of materials (Singh 2006):
 ## See Also
 
 [[fungal-bioaugmentation-inoculation]]
-- [[mycorestoration]] for the broader framework
+- [[mycorestoration-overview]] for the broader framework
 - [[fungal-enzyme-systems-bioremediation]] for detailed enzyme mechanisms
+- [[mycoremediation-techniques]] for specific deployment methods
+- [[mycoremediation-of-heavy-metals]] for heavy metal biosorption
+- [[mycoremediation-of-oil-spills]] for petroleum cleanup
+- [[mycoremediation-pahs]] for PAH degradation
+- [[mycoremediation-pcbs-and-dioxins]] for PCB/dioxin degradation
+- [[mycelium-running-techniques]] for spawn preparation
+- [[fungal-ecology]] for the science of fungal enzymes
+- [[harbhajan-singh]] — author/editor of the comprehensive mycoremediation reference
+
+## Related
+
+- [[fungal-remediation-decision-tree]]
+- [[fungal-enzyme-systems-bioremediation]]
+- [[mycoremediation-case-studies]]
+- [[mycoremediation-regulatory-framework]]

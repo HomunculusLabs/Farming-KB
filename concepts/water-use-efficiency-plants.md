@@ -5,7 +5,7 @@ tags: [plant-physiology, agronomy, irrigation, drought, photosynthesis]
 date: 2026-05-02
 updated: 2026-05-02
 type: concept
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 ## Overview

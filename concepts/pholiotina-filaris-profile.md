@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [pholiotina, conocybe, toxic-mushroom, mycology, mushroom-profile]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 type: concept
 ---
 ## Pholiotina filaris Profile

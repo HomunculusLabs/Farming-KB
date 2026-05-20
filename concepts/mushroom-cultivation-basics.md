@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Cultivation Basics
 created: 2026-04-11
 updated: 2026-04-13
@@ -18,15 +19,14 @@ sources:
 - raw/articles/fungi-and-sustainability-fungi-magazine.md
 - raw/papers/mycelium-running-stamets.md
 ---
+# Mushroom Cultivation Basics
 
-## Mushroom Cultivation Basics
-
-Mushroom cultivation is the process of isolating a mushroom species from the wild and growing it under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]]. Unlike plants, mushrooms are the fruiting bodies of mycelium — a vast network of fungal cells that decompose organic matter. All [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] follow the same basic lifecycle: spore → mycelium → primordium → mushroom.
+Mushroom cultivation is the process of isolating a mushroom species from the wild and growing it under controlled conditions. Unlike plants, mushrooms are the fruiting bodies of mycelium — a vast network of fungal cells that decompose organic matter. All cultivation methods follow the same basic lifecycle: spore → mycelium → primordium → mushroom.
 
 ## The 10 Steps of Mushroom Cultivation (Stamets)
 
 1. **Preparation of agar media** — nutrient-rich gel in petri dishes
-2. **Spore germination / [[mushroom-tissue-cloning]]** — starting a pure culture
+2. **Spore germination / tissue cloning** — starting a pure culture
 3. **Expansion of mycelium on agar** — transferring clean growth to new plates
 4. **Preparation of grain media** — rye, millet, or wheat for spawn
 5. **Inoculation of grain** — transferring mycelium to grain jars
@@ -52,13 +52,13 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 - Surface sterilize with alcohol swab, break cap/stem to expose interior
 - Transfer tissue fragment to center of agar plate
 - **Preserves exact genetics** — a clone, unlike multispore which creates new strains
-- 10-25% contamination rate is normal for primary cultures [[strain-isolation-from-wild-specimens]]
+- 10-25% contamination rate is normal for primary cultures from wild specimens
 
 ### Agar Media Recipes
 
 | Media | Ingredients (per liter) | Notes |
 |-------|------------------------|-------|
-| **PDY** ([[potato-dextrose-agar]] Yeast) | 300g sliced potato broth + 10g dextrose + 2g yeast + 20g agar | Most common |
+| **PDY** (Potato Dextrose Yeast) | 300g sliced potato broth + 10g dextrose + 2g yeast + 20g agar | Most common |
 | **MEA** (Malt Extract) | 20g light tan malt + 2g yeast + 20g agar | Avoid dark/caramelized malts |
 | **MPG** (Malt Peptone Grain) | 20g malt + 5g ground rye + 5g peptone + 2g yeast + 20g agar | Promotes strandy growth |
 
@@ -88,7 +88,7 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 ### Contamination Control Hierarchy
 1. **Bleach spray + hygiene** (basic)
 2. **Glove box** — still-air chamber for transfers
-3. **[[comparison-laminar-flow-hood-vs-fruiting-chamber]]** with HEPA filter (0.1-0.3 micron screening) — professional standard
+3. **Laminar flow hood** with HEPA filter (0.1-0.3 micron screening) — professional standard
 
 ## Grain Spawn
 
@@ -108,7 +108,7 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 ## Substrates
 
 ### Wood-Based Substrates (Lignicolous Species)
-- **Best for**: Shiitake, oyster, [[enoki-cultivation]], reishi, lion's mane
+- **Best for**: Shiitake, oyster, [[enoki-cultivation|enoki]], reishi, lion's mane
 - **Hardwoods**: Oak, elm, chestnut, beech, maple, alder (best choices)
 - **Conifers**: High resin/tannin content makes them less suitable; mix 1:1 with hardwood if used
 - **Standard formula**: 4 parts sawdust + 1 part bran (by volume)
@@ -139,8 +139,15 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 - Uncover in fall, water twice weekly
 - Perennial — expands 5x annually from established beds
 
-## See Also
+## Fruiting Conditions
 
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[straw-based-mushroom-substrate-preparation]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+### Universal Initiation Triggers
+- **Temperature drop** (species-specific, typically 5-10°F below incubation)
+- **High humidity** (95%)
+- **Increased fresh air exchange** (lower CO2)
+- **Light introduction** (indirect ambient light, not direct sun)
+
+### Cropping Phase
+## See Also
+- [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]]
+- [[psilocybin-mushroom-cultivation-compost-basics]]

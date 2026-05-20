@@ -109,7 +109,7 @@ Terraced lands, given a reserve of local [[cover-crops]] or composts and adequat
 
 While related, terraces and benches differ in important ways:
 - **Terraces** typically have retaining walls or bunds to hold soil on steep slopes for [[latitude-effects-on-photosynthesis-and-crop-production]], often with [[water-management]] features
-- **Benches** are simpler cuts into the slope, often without retaining walls, used more for access and [[tree-establishment-deserts]]
+- **Benches** are simpler cuts into the slope, often without retaining walls, used more for access and [[tree-establishment-in-deserts]]
 
 ## Machine Operation Principles
 

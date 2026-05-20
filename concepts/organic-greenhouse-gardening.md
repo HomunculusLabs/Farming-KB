@@ -1,5 +1,6 @@
 ---
-title: Organic Greenhouse Gardening And Season Extension
+
+title: Organic Greenhouse Gardening
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -19,9 +20,9 @@ sources:
   - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 ---
 
-## Organic Greenhouse Gardening
+# Organic Greenhouse Gardening
 
-Growing under protection using organic methods. Based on Geoff Hamilton's approach to [[coleman-mobile-greenhouse-design-and-operation]] management. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[greenhouse-design]] for structure design.
+Growing under protection using organic methods. Based on Geoff Hamilton's approach to greenhouse design and management. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[greenhouse-design]] for structure design.
 
 ## Choosing and Siting a Greenhouse
 
@@ -47,14 +48,14 @@ Growing under protection using organic methods. Based on Geoff Hamilton's approa
 - **Bubble wrap insulation** -- line the interior with horticultural bubble wrap from November to March. Reduces heat loss by 30-40%
 - **Heat sink** -- water barrels painted black absorb heat during day, release at night. Place against north wall
 - **Compost heating** -- a hot compost pile inside the greenhouse generates heat as it decomposes. A well-built pile reaches 50-60°C internally
-- **Paraffin heater** -- traditional, simple, adequate for [[frost-protection-in-permaculture]] small greenhouses
+- **Paraffin heater** -- traditional, simple, adequate for frost protection in small greenhouses
 - **Horse manure hotbed** -- fresh manure layered with straw generates heat for 4-6 weeks. Classic technique for early melons, cucumbers, and capsicums. Layer 30cm manure + 15cm soil. Wait until temperature drops below 30°C before planting
 - **Passive solar** -- maximize south-facing glazing, use thermal mass (stone, brick, water), insulate north wall
 
 ## Growing in the Greenhouse
 
 ### Summer Crops
-- **Tomatoes** -- the primary greenhouse crop. Cordon varieties need string support, side shooting, and regular feeding once first truss sets. Good air circulation essential for [[cervantes-damping-off-seedling-disease-prevention]]
+- **Tomatoes** -- the primary greenhouse crop. Cordon varieties need string support, side shooting, and regular feeding once first truss sets. Good air circulation essential for disease prevention
 - **Cucumbers** -- need high humidity and consistent moisture. Train up canes or wire. All-female varieties avoid bitter fruits
 - **Peppers and aubergines** -- need consistent warmth (minimum 12°C at night). Slow starters; sow in February for June planting
 - **Melons** -- hotbed technique (manure heating) or grow bag culture. Need pinching out and pollination
@@ -85,40 +86,13 @@ Growing under protection using organic methods. Based on Geoff Hamilton's approa
 
 - Ventilation is critical -- open doors and vents on all but the coldest days. Stagnant air promotes fungal disease
 - Water in the morning so foliage dries before evening
-- Use water at [[jadam-ambient-temperature-principle]] (not freezing from the tap in winter)
+- Use water at ambient temperature (not freezing from the tap in winter)
 - Automatic watering systems with seep hoses or capillary matting save time and provide consistent moisture
 - Group plants by water need -- tomatoes need less than cucumbers
 
 ## Links
 
 - [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
-- [[greenhouse-design]] -- Structure [[farm-pond-design-and-construction]]
+- [[greenhouse-design]] -- Structure design and construction
 - [[seed-starting-reference]] -- Propagation under protection
 - [[seasonal-planning]] -- Monthly task calendar
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

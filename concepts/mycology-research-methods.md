@@ -4,12 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, biology, lab-technique, field-methods, methods, taxonomy, genomics, microscopy]
-sources:
-  - "raw/papers/2-laminar-flow-hood-construction.md"
-  - "raw/papers/laminar-flow-hood-construction-1.md"
+sources: []
 ---
 
-## Mycology Research Methods
+# Mycology Research Methods
 
 ## Overview
 
@@ -53,7 +51,7 @@ Non-invasive methods to detect fungal presence from environmental samples:
 
 All fungal culture work requires strict aseptic (sterile) technique to prevent contamination:
 
-- Work in a [[laminar-flow-hood]] (Class II biological safety cabinet) whenever possible
+- Work in a laminar flow hood (Class II biological safety cabinet) whenever possible
 - Sterilize work surfaces with 70% ethanol or 10% bleach between operations
 - Flame sterilize inoculating loops, scalpels, and forceps before each use
 - Wear gloves; change between handling different cultures
@@ -61,14 +59,14 @@ All fungal culture work requires strict aseptic (sterile) technique to prevent c
 
 ### Media Preparation
 
-Common [[fungal-culture-media]]:
+Common fungal culture media:
 
-- **[[potato-dextrose-agar]] (PDA)**: General-purpose medium; supports growth of most fungi. 200g potato, 20g dextrose, 15g agar per liter. Autoclave at 121°C for 15 minutes
-- **[[malt-extract-agar]] (MEA)**: Similar to PDA; good for mushroom-forming fungi. 30g malt extract, 15g agar per liter
+- **Potato Dextrose Agar (PDA)**: General-purpose medium; supports growth of most fungi. 200g potato, 20g dextrose, 15g agar per liter. Autoclave at 121°C for 15 minutes
+- **Malt Extract Agar (MEA)**: Similar to PDA; good for mushroom-forming fungi. 30g malt extract, 15g agar per liter
 - **Sabouraud Dextrose Agar (SDA)**: Standard clinical mycology medium; acidic pH (5.6) inhibits bacterial growth. 40g dextrose, 10g peptone, 15g agar per liter
 - **Cornmeal Agar (CMA)**: Promotes sporulation in many fungi; useful for microscopic identification
 - **Minimal media**: Defined synthetic media for studying nutritional requirements and metabolic capabilities
-- **Selective media**: Media with antibiotics (chloramphenicol, gentamicin) to suppress bacterial contamination; cycloheximide to inhibit [[saprotrophic-fungi]] when isolating pathogens
+- **Selective media**: Media with antibiotics (chloramphenicol, gentamicin) to suppress bacterial contamination; cycloheximide to inhibit saprotrophic fungi when isolating pathogens
 
 ### Isolation Methods
 
@@ -142,3 +140,54 @@ Provides high-resolution surface detail:
 
 - **DNA Sequencing**:
   - **Sanger sequencing**: Standard for single-locus identification. PCR product purified and sequenced bidirectionally. Cost-effective for routine identification
+  - **Next-generation sequencing (NGS)**: Illumina MiSeq for metabarcoding; sequences hundreds of samples simultaneously using barcode-tagged primers
+  - **Oxford Nanopore / PacBio**: Long-read sequencing for genome assemblies and resolving repetitive regions
+
+### Bioinformatics
+
+- **Sequence quality control**: Trimmomatic, FastQC for NGS data
+- **OTU/ASV clustering**: DADA2, UNOISE for denoising and clustering amplicon sequences into exact sequence variants
+- **Taxonomic assignment**: BLAST against UNITE database (fungal ITS), GenBank. QIIME2 pipeline for community analysis
+- **Phylogenetic analysis**: MAFFT or MUSCLE for alignment; IQ-TREE, RAxML, or MrBayes for tree construction
+- **Functional analysis**: FUNGuild for ecological guild assignment; PICRUSt for functional prediction
+
+## Metabolomics
+
+- **HPLC-MS/MS**: Quantitative analysis of fungal secondary metabolites (mycotoxins, antibiotics, psychoactive compounds)
+- **GC-MS**: Volatile organic compound profiling; useful for identifying fungal species based on volatile metabolite signatures
+- **NMR spectroscopy**: Structural elucidation of novel compounds
+- **Metabolite extraction**: Methanol or ethyl acetate extraction of dried fungal material or culture filtrates
+
+## Documentation and Data Management
+
+### Specimen Documentation
+
+- **Voucher specimens**: Physical specimens deposited in recognized herbaria (e.g., BPI, NY, K, MEL) with unique accession numbers. Essential for verification of molecular identifications
+- **Photography**: Multiple angles, scale bars, consistent lighting. Macro (whole specimen) and micro (microscopic features) photography
+- **Field notes**: Habitat, substrate, associated organisms, weather, abundance, fruiting pattern
+
+### Data Standards
+
+- **Deposit sequences**: Submit to GenBank (NCBI) or UNITE with complete metadata
+- **Occurrence records**: Submit to GBIF (Global Biodiversity Information Facility) or iNaturalist
+- **Metadata standards**: Follow Darwin Core or MIxS (Minimum Information about any (x) Sequence) standards for data reporting
+- **Reproducibility**: Document all methods, primers, cycling conditions, and software versions
+
+### Taxonomic Publishing
+
+- **International Code of Nomenclature for algae, fungi, and plants (ICN)**: Governs fungal nomenclature
+- **Mycobank / Fungal Names**: Registration databases for new fungal names
+- **Peer review**: Publish descriptions in mycological journals (Mycologia, MycoKeys, IMA Fungus, Persoonia)
+- **Type specimens**: Designate holotype and deposit in a recognized herbarium
+
+## Emerging Methods
+
+- **CRISPR-Cas9 gene editing**: Functional genetics to understand gene function, pathogenicity, and secondary metabolite biosynthesis
+- **Spatial transcriptomics**: Mapping gene expression in fungal tissues and host interactions
+- **Machine learning**: AI-based image recognition for automated mushroom identification from photographs
+- **Portable DNA sequencing**: MinION (Oxford Nanopore) for field-based real-time species identification
+- **Metatranscriptomics and stable isotope probing**: Active gene expression and carbon/nitrogen flow through fungal networks
+
+See [[psychedelic-mushroom-taxonomy]] for how these methods are applied to psychedelic mushroom classification and [[fungal-antibiotics]] for applications in drug discovery.
+## See Also
+- [[international-mycology-research-network]]

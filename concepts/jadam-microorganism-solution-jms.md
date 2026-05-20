@@ -1,5 +1,6 @@
 ---
-title: Jadam Microorganism Solution Culturing (JMS) — Microbe Culture Recipe
+
+title: JADAM Microorganism Solution (JMS) — Microbe Culture Recipe
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -20,9 +21,9 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-## JADAM Microorganism Solution (JMS)
+# JADAM Microorganism Solution (JMS)
 
-JMS cultures [[beneficial-indigenous-microorganisms]] from forest leaf mold using boiled potato as food. Simpler than [[indigenous-microorganisms-imo]] -- no multi-stage collection, no sugar/molasses needed. At peak fermentation, 1ml contains ~0.1-1 billion microbes. The core of [[jadam-methods]] soil management. 500L batch costs nearly nothing.
+JMS cultures indigenous microorganisms from forest leaf mold using boiled potato as food. Simpler than [[indigenous-microorganisms-imo]] -- no multi-stage collection, no sugar/molasses needed. At peak fermentation, 1ml contains ~0.1-1 billion microbes. The core of [[jadam-methods]] soil management. 500L batch costs nearly nothing.
 
 ## Collecting Leaf Mold (Starter)
 
@@ -48,7 +49,7 @@ Store in black plastic bags or gunnysack in shade. Keep loosely closed. Becoming
 3. Dissolve sea salt in the water
 4. (Optional) Blend crop residues, put in bag, knead into water
 5. Hang bags underwater so contents are submerged
-6. Close lid, place in sun, at [[jadam-ambient-temperature-principle]] matching your crops
+6. Close lid, place in sun, at ambient temperature matching your crops
 7. **Fermentation time**: 24 hrs at 28C (82F), 72 hrs at 25C (77F), 96 hrs at 19C (66F)
 8. Bubbles appear first, then foam forms a circular disc (pizza-like layer)
 9. **Ready when foam is at peak** -- clear disc with vigorous foam, edges well-defined
@@ -70,7 +71,7 @@ Store in black plastic bags or gunnysack in shade. Keep loosely closed. Becoming
 - Apply with every watering, 3-4 times per month
 - Before transplanting or before lowering/sprouting of fruit trees: apply abundantly
 - 500L serves 0.1 to 3.3 ha (0.25 to 8.2 acres)
-- Combine with sea water/salt and [[jadam-phyllite-solution]] for full mineral program
+- Combine with sea water/salt and phyllite solution for full mineral program
 
 **Foliar spray** (prevention):
 - JMS 10-20L + JWA 3L per 500L water
@@ -79,7 +80,7 @@ Store in black plastic bags or gunnysack in shade. Keep loosely closed. Becoming
 - Increases microbial diversity on leaf surface, preventing pathogen dominance
 
 **JMS Pesticide** (prevention formula, per 500L):
-- JMS 20L + [[comparison-jerusalem-artichoke-vs-potato]] JHS 5L + ginkgo JHS 5L + JWA 3L
+- JMS 20L + Jerusalem artichoke JHS 5L + ginkgo JHS 5L + JWA 3L
 - Use regularly before disease/pest outbreaks
 - If disease breaks out, replace JMS with JS; if pest occurs, use KPFR JHS instead
 
@@ -118,4 +119,4 @@ When pest pressure requires more than prevention, add JHS to JMS:
 - [[jadam-wetting-agent-jwa]] — required for foliar application of JMS
 - [[jadam-herb-solution-jhs]] — add to JMS for pest control
 - [[indigenous-microorganisms-imo]] — KNF's 4-stage IMO method for comparison
-- [[jadam-methods]] — JADAM system overview and soil [[holzer-vole-management-philosophy]]
+- [[jadam-methods]] — JADAM system overview and soil management philosophy

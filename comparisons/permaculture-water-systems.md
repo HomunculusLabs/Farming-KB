@@ -1,4 +1,5 @@
 ---
+
 title: Permaculture Water Systems Comparison
 created: 2026-04-11
 updated: 2026-04-12
@@ -28,9 +29,9 @@ sources:
 - concepts/homestead-water-systems.md
 ---
 
-## Permaculture Water Systems Comparison
+# Permaculture Water Systems Comparison
 
-Water management is the foundation of regenerative land design. On a homestead, water systems work together as an integrated strategy: rain is captured and stored, runoff is slowed and infiltrated, graywater is recycled, and distribution is optimized for plant growth. This comparison covers nine major water management approaches synthesized from [[swale-design-construction]], [[graywater-systems]], [[rainwater-harvesting-systems]], [[keyline-design]], [[drip-irrigation]], and [[homestead-water-systems]].
+Water management is the foundation of regenerative land design. On a homestead, water systems work together as an integrated strategy: rain is captured and stored, runoff is slowed and infiltrated, graywater is recycled, and distribution is optimized for plant growth. This comparison covers nine major water management approaches synthesized from [[swale-design-construction]], [[graywater-systems]], [[rainwater-harvesting-systems]], [[keyline-design]], [[drip-irrigation-guide]], and [[homestead-water-systems]].
 
 The permaculture principle is to slow, spread, and sink water on the landscape rather than allowing it to run off. Each system in this comparison addresses a different part of the water cycle: swales and keyline design manage landscape-scale water movement; rainwater tanks capture and store; graywater systems recycle household water; ponds and dams provide storage and aquaculture; gabions and check dams control erosion in waterways. The most resilient homesteads combine multiple systems.
 
@@ -43,7 +44,7 @@ The permaculture principle is to slow, spread, and sink water on the landscape r
 | **Keyline plowing** | Distribute water from valleys to ridges; deep soil infiltration | Large | $500-3000 (tractor + keyline plow) | Moderate-High (requires land analysis) | Low (periodic subsoiling every 3-5 years) | Waters entire landscape profile; no ponding | Undulating terrain with primary valleys; 4-12% slopes | Swale systems; tree planting along keylines; [[permaculture-design-methods]] |
 | **Greywater (branched drain)** | Recycle household wastewater to landscape irrigation | Small-Medium | $100-500 | Moderate (plumbing modifications) | Very Low (top off mulch annually) | 30-80 gallons/day (household) | House with 2%+ slope to landscape; gravity-fed | Food forest irrigation; [[food-forest-design]]; [[graywater-systems]] |
 | **Greywater (mulch basin)** | Treat and infiltrate graywater at point of discharge | Small | $20-100 per basin | Easy | Low (refresh mulch every 2-3 years) | 15-40 gallons per use (surge) | Any landscape area near graywater outlet | Branched drain outlets; fruit tree irrigation; [[graywater-systems]] |
-| **Rainwater tanks** | Capture and store roof runoff for later use | Small-Large | $500-5000+ (tank dominates cost) | Moderate (gutters, plumbing, foundation) | Low-Moderate (screen cleaning, annual tank inspection) | 500-50,000+ gallons (tank dependent) | Any building with roof catchment; elevated for gravity | [[drip-irrigation]]; [[pond-and-aquaculture]]; [[emergency-preparedness]] |
+| **Rainwater tanks** | Capture and store roof runoff for later use | Small-Large | $500-5000+ (tank dominates cost) | Moderate (gutters, plumbing, foundation) | Low-Moderate (screen cleaning, annual tank inspection) | 500-50,000+ gallons (tank dependent) | Any building with roof catchment; elevated for gravity | [[drip-irrigation-guide]]; [[pond-and-aquaculture]]; [[emergency-preparedness]] |
 | **Earth dams** | Store large volumes of water in landscape | Large | $2000-20000+ | High (earthworks, permits, engineering) | Moderate (inspect spillway, monitor seepage) | Thousands to millions of gallons | Valleys with suitable topography; impermeable subsoil | Keyline dam series; livestock water; [[pond-and-aquaculture]]; irrigation |
 | **Ponds** | Store water, provide habitat, aquaculture, fire protection | Medium-Large | $500-5000+ | Moderate-High (excavation, sealing) | Moderate (water quality, algae, aeration) | Thousands to hundreds of thousands of gallons | Low area with clay soil or lined; near zone 2-3 use | [[pond-and-aquaculture]]; [[duck-keeping]]; irrigation; [[rainwater-harvesting-systems]] overflow |
 | **Gabions / check dams** | Slow water flow in drainage channels, reduce erosion | Small-Medium | $50-500 | Easy-Moderate | Low (inspect after storms) | Variable; slows peak flow rather than storing | Active drainage channels, gullies, seasonal streams | Swale overflow; gully restoration; [[swale-design-construction]] spillway protection |
@@ -56,7 +57,7 @@ The most effective homestead water strategy combines multiple systems in sequenc
 2. **Tank overflow** directs to ponds or swales for secondary storage
 3. **Swales on contour** infiltrate overflow into soil, recharging groundwater
 4. **Graywater from house** irrigates food forests through branched drain to mulch basins
-5. [[drip-irrigation]] distributes stored rainwater efficiently to garden zones
+5. [[drip-irrigation-guide]] distributes stored rainwater efficiently to garden zones
 6. **Keyline design** manages the broader landscape water distribution pattern
 
 On a well-designed property, water passes through multiple systems before leaving the land, ensuring maximum utilization. The goal is zero runoff — every drop of rain that falls on the property should be captured, slowed, infiltrated, or stored before it reaches a waterway or property boundary.
@@ -91,6 +92,6 @@ Start with rainwater harvesting (tanks) and graywater reuse (branched drain to m
 - [[graywater-systems]] — System types, soap considerations, mulch basin design
 - [[rainwater-harvesting-systems]] — Catchment calculation, tanks, filtration, distribution
 - [[keyline-design]] — Keypoints, keylines, dam series, cultivation patterns
-- [[drip-irrigation]] — System design, emitter sizing, scheduling
+- [[drip-irrigation-guide]] — System design, emitter sizing, scheduling
 - [[homestead-water-systems]] — Complete water sourcing, storage, and distribution
 - [[permaculture-design-methods]] — Water management in the broader design process

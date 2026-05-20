@@ -140,10 +140,29 @@ Curing is the slow oxidation and breakdown of chlorophyll, sugars, and residual 
 
 After curing, proper storage preserves quality for months to years.
 
-## See Also
+### Best Practices
 
-- [[cannabis-cultivar-microbiome-specificity]]
-- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
-- [[cannabis-and-endometriosis]]
-- [[blesching-cannabis-immune-system-modulation]]
-- [[cannabis-seed-germination-viability-breeding-clarke]]
+- **Airtight glass jars**: Mason jars with tight lids
+- **Temperature**: 60-70 F (15-21 C) — cooler is better, but avoid refrigeration (condensation risk)
+- **Darkness**: Store in a dark cabinet or closet
+- **Humidity**: Maintain 58-62% RH using 2-way humidity packs (Boveda 58% or 62%)
+- **Avoid**: Plastic bags (static damages trichomes), refrigerators (condensation), freezers (trichomes become brittle and break off)
+- **Vacuum sealing**: Acceptable for long-term storage if buds are properly cured first
+
+### Shelf Life
+
+- Properly cured and stored buds maintain peak quality for 6-12 months
+- Gradual potency loss occurs over time (THC converts to CBN)
+- After 18+ months, noticeable degradation in flavor and potency
+- Vacuum-sealed and frozen buds can maintain quality for 2+ years
+
+## Common Mistakes
+
+- **Harvesting too early**: Significantly reduces potency and terpene development
+- **Drying too fast** (high heat, low humidity): Harsh, grassy taste; brittle buds
+- **Drying too slow** (high humidity): Mold risk, especially with dense buds
+- **Not burping jars**: Anaerobic conditions produce ammonia smell and encourage mold
+- **Overpacking jars**: No air circulation; mold risk
+- **Using plastic for storage**: Static pulls trichomes off buds; plastic is permeable to air and moisture
+## See Also
+- [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]]

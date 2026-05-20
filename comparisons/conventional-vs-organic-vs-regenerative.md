@@ -1,4 +1,5 @@
 ---
+
 title: Conventional vs Organic vs Regenerative Agriculture
 created: 2026-04-11
 updated: 2026-04-12
@@ -24,7 +25,7 @@ sources:
 - raw/articles/fungi-and-sustainability-fungi-magazine.md
 ---
 
-## Conventional vs Organic vs Regenerative Agriculture
+# Conventional vs Organic vs Regenerative Agriculture
 
 These three paradigms represent fundamentally different relationships between the farmer and the land. On a homestead scale, the choice affects soil health, input costs, pest pressure, water management, and long-term productivity. This comparison synthesizes findings from [[regenerative-agriculture-history]], [[no-till-gardening-method]], [[natural-farming-fukuoka]], [[permaculture-principles]], and [[soil-fertility-management]].
 

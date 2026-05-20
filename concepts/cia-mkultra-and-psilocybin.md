@@ -86,7 +86,7 @@ The program was later expanded to include unwitting dosing of people in restaura
 Ken Kesey, who would later become a key figure in the psychedelic counterculture as author of "One Flew Over the Cuckoo's Nest," first encountered LSD as a volunteer in what he believed was a legitimate government research program at the Veterans Administration Hospital in Menlo Park — a program that was in fact an MKULTRA-funded experiment.
 The irony of MKULTRA inadvertently seeding the counterculture it sought to suppress is a recurring theme in psychedelic history.
 See [[psychedelic-prohibition-and-the-war-on-consciousness]] — The broader prohibition movement
-- [[maria-sabina-and-mazatec-mushroom-ceremony]] ceremonies
+- [[maria-sabina-mazatec-mushroom-ceremony]] ceremonies
 - albert hofmann — The chemist who isolated psilocybin
 - [[psilocybin]]
 - [[dom]]

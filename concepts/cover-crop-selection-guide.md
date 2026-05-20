@@ -8,17 +8,17 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-## Cover Crop Selection Guide
+# Cover Crop Selection Guide
 
 ## Why Cover Crops
 
-[[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] planted specifically to build and hold soil and to smother weeds. Their leaves shield soil from hammering rains and carpet the earth with humus-building litter. Their roots drive deep into soil, loosening earth, drawing up nutrients, and placing [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] farther down than even the deepest plowing. Many send roots 10 to 15 feet deep.
+Cover crops are planted specifically to build and hold soil and to smother weeds. Their leaves shield soil from hammering rains and carpet the earth with humus-building litter. Their roots drive deep into soil, loosening earth, drawing up nutrients, and placing organic matter farther down than even the deepest plowing. Many send roots 10 to 15 feet deep.
 
 ## Selection Principles
 
 ### Diversity Is Key
 
-As in so much of [[ecological-gardening-principles]], diversity provides the key. Seed a mélange of varieties and record which thrive. Each plant type secretes its own array of sugars and compounds from its roots, attracting a different community of soil organisms. The more species of [[cover-crop]] planted, the more varied the soil life's diversity, which subdues disease and boosts plant growth.
+As in so much of ecological gardening, diversity provides the key. Seed a mélange of varieties and record which thrive. Each plant type secretes its own array of sugars and compounds from its roots, attracting a different community of soil organisms. The more species of cover crop planted, the more varied the soil life's diversity, which subdues disease and boosts plant growth.
 
 ### Annual vs Perennial
 
@@ -42,7 +42,7 @@ Planted late summer or fall; mowed or tilled in spring while flowering and befor
 | Crop | N-fixer | Height | Notes |
 |------|---------|--------|-------|
 | Austrian winter pea | Yes | 2 ft | Hardy to 0°F |
-| [[comparison-lupin-vs-crimson-clover-green-manure]] | Yes | 18 in | Hardy to 10°F |
+| Crimson clover | Yes | 18 in | Hardy to 10°F |
 | Hairy vetch | Yes | 3-6 ft | Hardy to -10°F |
 | Common vetch | Yes | 3-6 ft | Hardy to 0°F |
 | Fava/bell bean | Yes | 3-6 ft | Mix with legumes |
@@ -63,7 +63,7 @@ Planted spring or summer; tilled or mowed before seed set.
 | Crop | N-fixer | Height | Notes |
 |------|---------|--------|-------|
 | Buckwheat | No | 1-3 ft | Chokes weeds |
-| Cowpeas (red) | Yes | 1-2 ft | Chokes weeds, [[drought-resistant-gardening-and-water-wise-landscaping]] |
+| Cowpeas (red) | Yes | 1-2 ft | Chokes weeds, drought resistant |
 | Black-eyed peas | Yes | 3-4 ft | Drought resistant |
 | Soybeans | Yes | 2-4 ft | Mix with nonlegume |
 | Sunn hemp | Yes | 6-8 ft | Drought resistant |
@@ -90,37 +90,3 @@ Excellent for no-till gardens; mowed to generate mulch and compost. Shorter vari
 - [[chop-and-drop-mulching]] -- slashing cover crops in place
 - [[white-clover-ground-cover]] -- Fukuoka's use of clover as permanent living mulch
 - [[sheet-mulching]] -- another approach to soil building
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

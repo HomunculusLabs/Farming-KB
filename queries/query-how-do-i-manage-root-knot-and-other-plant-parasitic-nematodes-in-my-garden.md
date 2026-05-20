@@ -83,7 +83,7 @@ When nematode pressure is extreme, growing in [[raised-bed-gardening]] or [[cont
 
 ## Integrated Management Plan
 
-[[integrated-pest-management]] and [[integrated-pest-management-ipm]] combine multiple strategies for the best results against nematodes.
+[[integrated-pest-management]] and [[integrated-pest-management]] combine multiple strategies for the best results against nematodes.
 A typical integrated approach for a nematode-infested bed might include: a fall brassica cover crop for biofumigation, spring solarization before planting, AMF inoculation at transplant, and resistant varieties.
 [[soil-food-web]] and [[soil-food-web-introduction]] provide the foundation for understanding how biological management fits into the larger picture.
 [[organic-pest-and-disease-management]] and [[nematode-management]] offer additional organic-compatible approaches.

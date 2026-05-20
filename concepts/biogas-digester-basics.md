@@ -140,10 +140,30 @@ Application rate: dilute 1:3 to 1:5 with water and apply to garden beds, fruit t
 
 ### Storage
 
-## See Also
+- Low-pressure storage in a flexible gas bag (heavy-duty PVC or rubber)
+- Alternatively, the digester itself acts as the storage vessel (fixed-dome or floating-drum designs)
+- 1 cubic meter of biogas = roughly 2 hours of cooking on a single-burner stove
 
-- [[query-what-is-biogas-and-how-do-i-build-a-small-scale-digester-system]]
-- [[comparison-biogas-vs-composting-toilet]]
-- [[biogas-digester]]
-- [[mollison-designers-biogas-digester-sewage-treatment]]
-- [[comparison-biogas-digester-basics-vs-rocket-stove-design]]
+### Use Options
+
+- Cooking (primary use, modified LPG stove), lighting (mantle lamps), space/water heating, and small-scale electricity generation (requires H2S removal)
+
+### Hydrogen Sulfide Removal
+
+H2S corrodes metal appliances and engines. Removal methods:
+
+- **Iron filings** — Pass gas through a container of iron filings or steel wool. H2S reacts to form iron sulfide. Replace when saturated.
+- **Activated carbon** — Commercial H2S filters available
+- **Water scrubbing** — Bubble gas through water (removes some H2S and CO2)
+
+## Troubleshooting
+
+- No gas production: Temperature too low — insulate or heat digester
+- Gas won't burn: Too much CO2 — system not mature; wait or add seed material
+- Low gas production: Check temperature, increase feedstock
+- Sour smell: pH too low — stop feeding, add crushed limestone, wait for recovery
+- Scum layer: Reduce straw/woody feedstock, stir if possible
+
+## Related Topics
+
+Biogas digestion complements other waste-to-energy systems. See [[biodiesel-production]] for liquid fuel alternatives. The digestate byproduct integrates with [[composting-methods-comparison]] and [[fukuoka-soil-building-method]]. Combined with [[humanure-composting-systems]], a homestead can process nearly all organic waste streams.

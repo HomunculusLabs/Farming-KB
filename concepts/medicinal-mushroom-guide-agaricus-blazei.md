@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushroom Guide Agaricus Blazei
+title: Agaricus blazei (Brazilian Mushroom) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,17 +7,17 @@ tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, sp
 sources: []
 ---
 
-## Agaricus blazei (Brazilian Mushroom)
+# Agaricus blazei (Brazilian Mushroom)
 
 ## Overview
 
-[[agaricus-blazei]] Murill (also known as [[agaricus-subrufescens]], [[agaricus-brasiliensis]], and "the almond mushroom") is a gilled mushroom native to the coastal region of Sao Paulo state in Brazil. It was first identified by the American mycologist William A. Murrill in 1945 but gained prominence in the 1970s-80s when researchers noticed extremely low cancer rates in the Piedade region of Brazil where it was traditionally consumed.
+Agaricus blazei Murill (also known as Agaricus subrufescens, Agaricus brasiliensis, and "the almond mushroom") is a gilled mushroom native to the coastal region of Sao Paulo state in Brazil. It was first identified by the American mycologist William A. Murrill in 1945 but gained prominence in the 1970s-80s when researchers noticed extremely low cancer rates in the Piedade region of Brazil where it was traditionally consumed.
 
 The mushroom has a distinctive almond-like aroma when fresh, which is the origin of its common name "cogumelo do sol" (mushroom of the sun) in Brazil and "himematsutake" (princess matsutake) in Japan.
 
 ## Key Compounds
 
-- **Beta-glucans:** The primary immunomodulatory compounds. A. blazei contains particularly high concentrations of 1,3-beta and 1,6-beta-glucans, comparable to or exceeding those of [[medicinal-mushrooms-reishi-and-maitake]].
+- **Beta-glucans:** The primary immunomodulatory compounds. A. blazei contains particularly high concentrations of 1,3-beta and 1,6-beta-glucans, comparable to or exceeding those of reishi and maitake.
 - **Proteoglucans:** Protein-bound polysaccharides including the well-studied ABM-P (Agaricus blazei Murill polysaccharide).
 - **Ergosterol:** Provitamin D2 precursor with anti-tumor properties.
 - **Blazein and blazeispirols:** Triterpenes with anti-inflammatory activity.
@@ -44,7 +44,7 @@ Agaricus blazei has generated significant research interest for immune modulatio
 ### Anti-Inflammatory Effects
 - Reduces TNF-alpha, IL-1beta, and IL-6 production.
 - Suppresses NF-kB signaling pathway.
-- Demonstrated efficacy in [[blesching-cannabis-inflammatory-bowel-disease]] (IBD) models.
+- Demonstrated efficacy in inflammatory bowel disease (IBD) models.
 - May help with allergic conditions by modulating Th1/Th2 balance.
 
 ### Antioxidant Properties
@@ -112,7 +112,7 @@ Agaricus blazei is commercially cultivated on a large scale, primarily in Japan,
 - Generally safe with a history of culinary use.
 - **Important note:** Agaricus species can contain hydrazine compounds. Properly cultivated and prepared A. blazei has not shown significant hydrazine issues, but this is a consideration for Agaricus mushrooms broadly.
 - May cause gastrointestinal upset at high doses.
-- Immune-stimulating effects — caution with [[blesching-cannabis-health-index-autoimmune-conditions]] and immunosuppressant drugs.
+- Immune-stimulating effects — caution with autoimmune conditions and immunosuppressant drugs.
 - Possible interactions with diabetes and blood pressure medications.
 - Avoid during pregnancy and breastfeeding (insufficient safety data at medicinal doses).
 - Rare reports of liver enzyme elevation at very high doses — monitor if using therapeutically.

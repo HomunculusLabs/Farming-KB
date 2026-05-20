@@ -8,9 +8,9 @@ sources:
   - raw/papers/mycelium-running-stamets.md
 ---
 
-## Mycofiltration Overview
+# Mycofiltration Overview
 
-Using mycelial mats to filter water — removing silt, pathogens, chemicals, and excess nutrients. One of the four branches of [[mycorestoration]]. From Chapter 8 of *Mycelium Running* by [[paul-stamets]].
+Using mycelial mats to filter water — removing silt, pathogens, chemicals, and excess nutrients. One of the four branches of [[mycorestoration-overview]]. From Chapter 8 of *Mycelium Running* by [[paul-stamets]].
 
 ## What Mycofiltration Can Remove
 
@@ -113,7 +113,7 @@ Benefits over conventional methods (tank traps, ditches, scarification):
 
 ## See Also
 
-- [[mycorestoration]] for the broader framework
+- [[mycorestoration-overview]] for the broader framework
 - [[mycoremediation-techniques]] for overlapping deployment methods
 - [[fungal-pest-control]] for combined insect/pathogen management
 - [[mycoforestry]] for road reclamation in forest contexts

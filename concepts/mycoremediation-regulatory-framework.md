@@ -7,16 +7,16 @@ tags: [mycology, mycoremediation, law, ecology]
 sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 ---
 
-## Mycoremediation Regulatory Framework
+# Mycoremediation Regulatory Framework
 
-The regulatory landscape for [[mycoremediation]] is still developing. While fungi offer promising solutions for environmental cleanup, deploying living organisms in the environment involves regulatory considerations around safety, efficacy, and liability. Understanding this framework is essential for anyone considering field-scale mycoremediation projects.
+The regulatory landscape for mycoremediation is still developing. While fungi offer promising solutions for environmental cleanup, deploying living organisms in the environment involves regulatory considerations around safety, efficacy, and liability. Understanding this framework is essential for anyone considering field-scale mycoremediation projects.
 
 ## Current Status
 
 ### Regulatory Gap
 - No specific regulations exist for mycoremediation in most jurisdictions
 - Falls under general bioremediation regulations
-- Often treated as "land application of biological material" — similar to [[composting]] or bioaugmentation
+- Often treated as "land application of biological material" — similar to composting or bioaugmentation
 - Regulatory agencies are still developing guidance specific to fungal remediation
 
 ### Regulatory Bodies (US)
@@ -96,25 +96,6 @@ The regulatory landscape for [[mycoremediation]] is still developing. While fung
 - Growing acceptance as pilot projects demonstrate efficacy
 
 ## Related
-- [[cotter-mycoremediation-overview]] — for the science
+- [[mycoremediation-overview]] — for the science
 - [[mycoremediation-field-applications]] — for case studies
 - [[mycoremediation-petroleum-hydrocarbons]] — for the most common application
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-See also [[singh-mycoremediation-regulatory-frameworks]] and [[mycoremediation-testing-bioassays]] for related information.Related topics include [[advanced-mycoremediation-research-techniques]] and associated practices.
-Continued evolution of environmental regulations will likely expand opportunities

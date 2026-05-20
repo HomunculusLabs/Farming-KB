@@ -7,9 +7,9 @@ tags: [construction, permaculture, homesteading, sustainability, design, enginee
 sources: []
 ---
 
-## Earthbag Building
+# Earthbag Building
 
-[[earthbag-construction|Earthbag construction]] uses polypropylene sandbags filled with subsoil to build walls, domes, and vaults. Developed by architect Nader Khalili in the 1990s, this technique is extremely affordable, requires minimal tools, and produces structures that are resistant to earthquakes, floods, hurricanes, and fire. Earthbag building is one of the most accessible natural building methods for homesteaders.
+Earthbag construction uses polypropylene sandbags filled with subsoil to build walls, domes, and vaults. Developed by architect Nader Khalili in the 1990s, this technique is extremely affordable, requires minimal tools, and produces structures that are resistant to earthquakes, floods, hurricanes, and fire. Earthbag building is one of the most accessible natural building methods for homesteaders.
 
 ## Core Advantages
 
@@ -141,10 +141,24 @@ Earthbag walls must be plastered to protect the bags from UV degradation.
 
 ## Limitations
 
+- Labor intensive: Filling and placing bags is physically demanding
+- Building codes: Rarely accepted without engineering approval
+- Roof options: Flat roofs require beams; domes solve this but complicate code approval
+- Interior space: Thick walls reduce interior floor area
+- Moisture sensitivity: Earth walls must be protected from prolonged moisture exposure
+- Bag degradation: Polypropylene eventually degrades — plaster is essential for longevity
+
+## Cost Estimates
+
+- Bags: $0.10-0.50 each (200-400 bags for a small structure)
+- Barbed wire: $50-100 per structure
+- Fill: Free (on-site subsoil)
+- Plaster materials: $100-500
+- Total for a 200 sq ft structure: $500-2,000 in materials
+
 ## See Also
 
-- [[comparison-earthship-vs-earthbag-construction]]
-- [[comparison-ferrocement-vs-earthbag]]
-- [[comparison-earthbag-vs-adobe-construction]]
-- [[comparison-earthbag-construction-vs-cob-construction]]
-- [[comparison-earthbag-vs-cob-construction]]
+- [[cob-building-basics-detailed]]
+- [[cordwood-construction]]
+- [[passive-solar-design]]
+- [[bamboo-as-building-material]]

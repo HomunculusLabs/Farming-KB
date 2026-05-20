@@ -140,11 +140,46 @@ Agar is the best diagnostic tool because all contaminants are visible against th
 
 - **Color**: Green, black, blue, pink, or yellow patches = mold contamination.
 - **Wet spots**: Slimy or soupy areas = bacterial contamination.
+- **Smell**: Open jars should smell earthy or mushroomy. Sour, sweet, rotten, or fecal smells indicate contamination.
+- **Growth pattern**: Mycelium growing only at inoculation points with no spreading suggests the inoculant was contaminated or the grain is too dry.
 
-## See Also
+### On Bulk Substrate
 
-- [[reishi-mushroom-cultivation-and-medicinal-properties]]
-- [[straw-based-mushroom-substrate-preparation]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[straw-mushroom-cultivation]]
-- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]
+- **Surface patches**: Green, blue, or colored growth = mold contamination.
+- **Cobweb**: Gray, fast-growing, cobweb-like growth = cobweb mold.
+- **Slimy areas**: Bacterial contamination.
+- **Smell**: A healthy tub has a mild mushroomy smell. Any foul odor indicates problems.
+
+## Prevention Strategies
+
+1. **Sterile technique**: The single most important factor. See [[mushroom-sterile-technique-detailed]].
+2. **Proper sterilization**: Pressure cook grain for 90-120 minutes at 15 PSI. Do not cut corners.
+3. **Clean inoculant**: Only inoculate with clean agar cultures or proven liquid culture. Spore syringes are the riskiest inoculant.
+4. **Proper hydration**: Grain at correct field capacity is less prone to bacterial contamination.
+5. **Clean environment**: Maintain a clean grow room. See [[mushroom-grow-room-design]].
+6. **Quarantine new cultures**: Isolate new agar plates and grain jars from established grows until confirmed clean.
+7. **Work from clean to dirty**: Always handle clean cultures before contaminated ones. Never open a contaminated jar and then handle clean materials.
+
+## Contamination Rate Benchmarks
+
+- **Beginner**: 20-50% contamination rate is common while learning sterile technique.
+- **Intermediate**: 5-15% with good SAB technique.
+- **Advanced (flow hood)**: 1-5% with consistent technique.
+- **Expert**: Under 1% with optimized workflows.
+
+## Health Considerations
+
+Some contaminants pose health risks, especially when sporulating:
+- **Aspergillus**: Can cause aspergillosis, a serious lung infection, particularly in immunocompromised individuals.
+- **Trichoderma**: Generally not pathogenic but can cause allergic reactions in sensitive individuals.
+- **Any mold**: Sporulating molds can trigger asthma and allergic reactions.
+
+Always handle contaminated materials carefully. Dispose of them in sealed bags. Wear a mask when dealing with heavily sporulating molds. Clean the area with 10% bleach after removing contaminated materials.
+
+## Related Topics
+
+- [[mushroom-sterile-technique-detailed]] — preventing contamination through proper technique
+- [[mushroom-laminarar-flow-hood]] — equipment for reducing contamination
+- [[mushroom-agar-work]] — using agar to identify and isolate away from contamination
+- [[mushroom-grow-room-design]] — grow room contamination prevention
+- [[laminar-flow-hood-guide]]

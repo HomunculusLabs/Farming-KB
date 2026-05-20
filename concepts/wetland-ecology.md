@@ -7,7 +7,7 @@ tags: [ecology, freshwater, conservation, biodiversity, water-management, nutrie
 sources: []
 ---
 
-## Wetland Ecology
+# Wetland Ecology
 
 ## Overview
 
@@ -148,3 +148,16 @@ Wetland vegetation stabilizes shorelines and stream banks by:
 - Reducing flow velocity during flood events
 
 This function connects directly to [[soil-erosion-control]] and [[riparian-zone-restoration]] practices.
+
+## Threats to Wetlands
+
+- Agricultural drainage and conversion
+- Urban development and fill
+- Hydrologic alteration (dams, diversions, groundwater pumping)
+- [[invasive-species-management]] needs (purple loosestrife, phragmites, hydrilla)
+- Climate change (altered precipitation patterns, sea level rise)
+- Pollution (nutrient loading, sedimentation, contaminants)
+
+## Wetland Creation and Restoration
+
+Creating or restoring wetlands on the homestead can serve multiple functions: wastewater treatment via [[graywater-systems|greywater]] systems, wildlife habitat, flood control, and aesthetic value. Key considerations include hydrology (ensuring consistent saturation), substrate, and appropriate native plant selection. Even small constructed wetlands (100-500 sq ft) can provide significant ecological benefit.

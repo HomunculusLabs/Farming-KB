@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 ## Fungal Specimen Collection and Herbarium Management Preservation of voucher specimens resulting from biodiversity surveys is extremely important for scientific studies. Voucher specimens and their accompanying field notes document the existence of a fungus at a given place and time and provide the raw data from which [[psilocybe-global-biodiversity-hotspots]] Information Facility) aggregate herbarium records for broad-scale analyses of fungal distribution and phenology.
 

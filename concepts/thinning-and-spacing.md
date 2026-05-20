@@ -60,7 +60,7 @@ When seedlings are established with three true leaves and growing well, they are
 
 For small seeds that will grow into large plants (cabbage, broccoli, Brussels sprouts, cauliflower, [[growing-chinese-cabbage]], celery, celeriac, and kale):
 
-1. Spread [[complete-organic-fertilizer]] or [[chicken-manure]] compost and dig the bed
+1. Spread [[complete-organic-fertilizer-cof]] or [[chicken-manure]] compost and dig the bed
 2. Let a few days pass for the soil to resettle and capillary connections to restore
 3. Place manure/compost on the surface and rake level
 4. With your thumb, press a small indentation slightly over half an inch (1.25 cm) deep

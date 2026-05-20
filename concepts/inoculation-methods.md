@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Inoculation Methods — Spores, Spawn, and Stem Butts
 created: 2026-04-11
 updated: 2026-04-12
@@ -17,26 +18,8 @@ tags:
 sources:
 - raw/papers/mycelium-running-stamets.md
 ---
-title: [[mushroom-inoculation]] Methods — Spores, Spawn, and Stem Butts
-created: 2026-04-11
-updated: 2026-04-12
-type: concept
 
-tags:
-- fungi
-- mushrooms
-- cultivation
-- methods
-- cover-crop
-- field-methods
-- water
-- wood-rot
-
-sources:
-- raw/papers/mycelium-running-stamets.md
----
-
-## Mushroom Inoculation Methods
+# Mushroom Inoculation Methods
 
 From Chapter 9 of *Mycelium Running* by [[paul-stamets]]. This chapter covers the practical methods for starting and expanding mycelium, from the simplest spore techniques to advanced spawn multiplication.
 
@@ -77,7 +60,7 @@ The salt limits bacterial growth without stifling spore germination. This is a m
 ### Spores on Straw (Cold Incubation)
 - Immerse 1g spores in 1 liter water; spread over 10 lbs moist untreated straw
 - Place in perforated bag, burlap sack, or wooden crate
-- Store outside at 35-50F in January; [[oyster-mushrooms]] fruit by late March
+- Store outside at 35-50F in January; oyster mushrooms fruit by late March
 - Works because cold temperatures suppress competitors more than the target species
 
 ### Spores on Burlap
@@ -103,8 +86,8 @@ Spawn is mycelium that has been grown on a carrier medium and is used to inocula
 
 | Spawn Type | Carrier | Best For |
 |-----------|---------|----------|
-| [[grain-spawn]] | Sterilized rye, millet, wheat | Indoor cultivation, fast expansion |
-| [[sawdust-spawn]] | Sterilized hardwood sawdust + bran | Logs, stumps, bulk substrates |
+| Grain spawn | Sterilized rye, millet, wheat | Indoor cultivation, fast expansion |
+| Sawdust spawn | Sterilized hardwood sawdust + bran | Logs, stumps, bulk substrates |
 | Plug/dowel spawn | Wooden dowels grooved for mycelium | Logs, stumps, outdoor beds |
 | Wood chip spawn | Fresh hardwood chips | Outdoor beds, bunker spawn |
 | Cardboard sheet spawn | Corrugated cardboard | Outdoor expansion, low-tech |
@@ -121,7 +104,7 @@ Stamets recommends creating "mother patches" from laboratory spawn:
 ### Finding and Identifying Wild Mycelium
 - Look beneath downed logs, in firewood stacks, in leaf/wood chip piles
 - Healthy mycelium grips wood chips firmly — tenacity reflects vigor
-- Scent is key: oyster = anise, [[clitocybe-odora]] = sweet, matsutake = pine
+- Scent is key: oyster = anise, Clitocybe odora = sweet, matsutake = pine
 - Mycelial "lens" or "motherlode" = a large natural concentration usable as mother patch
 
 ### Transplantation Protocol
@@ -140,7 +123,48 @@ One of Stamets' most elegant methods:
 2. Soak until saturated; place exposed-corragation side against mycelium
 3. Scrape away top layer of wood chips if mycelium is buried; expose it to cardboard
 4. Cover with loose straw; incubate several months, checking periodically
+5. Once 25-50% colonized, transfer at the "crest of growth" ("surfing the mycelial wave")
+6. Place mycelial face down onto fresh wood chips ("mycelial footprint")
+7. Alternatively: sandwich between burlap sacks (bunker spawn) or layer into cardboard towers
+
+**Critical rule**: Never place mycelium onto dry surfaces — the wood will suck moisture from the mycelium, collapsing cell walls. Always transfer onto wet materials. Mycelium has only 1 cell layer (vs. human skin's 5-6 layers).
+
+## Stem Butt Spawn — The 1-Dowel Revolution
+
+Perhaps the most underappreciated cultivation method:
+
+### How It Works
+- The basal rhizomorphs radiating from a mushroom's stem base contain active mycelium
+- When cut with rhizomorphs intact and transplanted into wood chips, cardboard, or dowels, they regrow with astonishing vigor
+- The stem butt acts as a nutrient source for the regrowing rhizomorphs
+- This is an evolutionary advantage: animals eat the soft upper flesh, discard the tough base, inadvertently inoculating new habitats
+
+### Making Cardboard Spawn from Stem Butts
+1. Gather fresh mushrooms with stem bases and rhizomorphs intact
+2. Clip base just above where stem narrows; keep rootlike rhizomorphs attached
+3. Soak cardboard; place 1 stem butt per ~16 sq inches between panels
+4. Soak, place in box/tub, cover with wood chips
+5. Incubate in shade on the ground 4-5 months
+6. Use each colonized sheet as a mycelial footprint for outdoor beds
+
+### Making Dowel Spawn from Stem Butts
+1. Submerge 10,000 birch dowels in water for days/weeks; drain
+2. Place 4-8 stem butts into the box, pushed 2-4 inches deep, ~4 inches apart
+3. Cover with layers of corrugated cardboard; incubate outdoors (e.g., in a blackberry patch)
+4. After 6 months, harvest large mycelial islands
+5. Remove a third of the dowels; mix remaining ones to stimulate regrowth
+6. Broken rhizomorphs regrow with astonishing vigor
+
+### Exponential Expansion Potential
+- Year 1: 1 stem butt → 10,000 colonized dowels
+- Year 2: Each dowel multiplied 1,000-10,000x = 10-100 million dowels (2,000-20,000 lbs)
+- Year 3: Bunker spawn from these dowels could remediate many acres
+
+**Motto: "Move it or lose it"** — mycelium must be transplanted before it consumes its substrate and dies back.
+
 ## See Also
 
-- [[pf-tek-steam-sterilization-and-inoculation-technique]]
-- [[fungal-formulation-and-inoculation-for-in-situ-bioremediation]]
+- [[mushroom-cultivation-basics]] — The 10-step cultivation process, sterile technique
+- [[straw-cultivation-methods]] — Substrate preparation for straw-based growing
+- [[log-cultivation-methods]] — Plug spawn inoculation of logs and stumps
+- [[fungal-ecology]] — Understanding where mushrooms grow naturally

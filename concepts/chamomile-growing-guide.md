@@ -7,13 +7,13 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-## Chamomile Growing Guide
+# Chamomile Growing Guide
 
 ## Overview
 
 Chamomile is one of the most ancient and widely used medicinal herbs, prized
 for its calming, anti-inflammatory, and digestive properties. Two species are
-primarily cultivated: German chamomile ([[matricaria-chamomilla]], syn. M.
+primarily cultivated: German chamomile (Matricaria chamomilla, syn. M.
 recutita) and Roman chamomile (Chamaemelum nobile). While they share many
 medicinal qualities, they differ significantly in growth habit, cultivation
 requirements, and ideal uses.
@@ -50,7 +50,7 @@ Primary applications:
 - Teething and colic: Mild chamomile tea is traditionally used for infants
   with colic (consult a pediatrician first).
 - Menstrual discomfort: Anti-spasmodic action eases menstrual cramps.
-- Immune support: Mild [[medicinal-mushroom-antimicrobial-properties]] support respiratory health.
+- Immune support: Mild antimicrobial properties support respiratory health.
 
 Safety: Chamomile is generally very safe. Individuals with allergies to
 ragweed, chrysanthemums, or other Asteraceae family members should use
@@ -94,7 +94,7 @@ lush foliage with fewer flowers. pH 5.6-7.5.
 - Dense planting helps support the tall, sometimes floppy stems
 
 ### Care
-- Water seedlings regularly; established plants are moderately [[drought-tolerant-planting-design]]
+- Water seedlings regularly; established plants are moderately drought tolerant
 - Pinch back young plants to encourage bushier growth
 - No fertilizer needed; excess nitrogen reduces flower production
 - Generally pest and disease free
@@ -140,11 +140,22 @@ For both species:
 - Aphids: Occasionally appear on flower buds; spray with water or insecticidal
   soap.
 - Powdery mildew: Improve air circulation around plants.
+- Leggy growth: Indicates too much shade or excessive nitrogen.
+
+## Companion Planting
+
+Chamomile is an excellent companion plant:
+- Said to improve the flavor and growth of nearby herbs and vegetables
+- Attracts beneficial insects including hoverflies and wasps
+- Its anti-fungal properties may help prevent damping off in nearby seedlings
+- Compatible with most garden plants; traditionally paired with onions,
+  cabbage, and cucumbers
 
 ## See Also
 
-- [[comparison-chamomile-vs-nettle]]
-- [[comparison-chamomile-vs-valerian]]
-- [[comparison-chamomile-vs-dandelion]]
-- [[chamomile-cultivation-and-uses]]
-- [[comparison-chamomile-vs-passionflower]]
+- [[yarrow-plant-guide]] -- combine with chamomile in calming tea blends
+- [[holy-basil-tulsi-guide]] -- another adaptogenic tea herb for daily use
+
+## Related
+
+- [[st-johns-wort-guide]]

@@ -8,7 +8,7 @@ sources:
   - raw/papers/mycelium-running-stamets.md
 ---
 
-## Garden Mushroom Growing
+# Garden Mushroom Growing
 
 Incorporating gourmet and medicinal mushrooms into vegetable gardens using companion planting strategies. From Chapter 12 of *Mycelium Running* by [[paul-stamets]].
 
@@ -118,7 +118,7 @@ The elm oyster mycelium interacts with plant roots, enhancing growth while produ
 
 ## See Also
 
-- [[mycorestoration]] for the broader ecological framework
+- [[mycorestoration-overview]] for the broader ecological framework
 - [[mycoremediation-techniques]] for more spawn preparation methods
 - [[fungal-pest-control]] for insect management
 - [[fungal-ecology]] for the science behind plant-fungal interactions

@@ -9,7 +9,7 @@ sources: [raw/particles/cancer-treatments-medicinal-mushrooms.md]
 
 ## Inonotus obliquus (Chaga) — Research Summary
 
-Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch trees (Betula spp.) [[query-how-do-i-grow-figs-in-cold-climates]] across the Northern Hemisphere — Siberia, Scandinavia, Canada, and northern parts of the United States and Japan. Unlike other [[anti-cancer-polysaccharides-from-medicinal-mushrooms]], the commercially used part is not the fruiting body but a dense mass of mycelium and wood that has been infected and transformed by the fungus over years or decades.
+Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch trees (Betula spp.) in cold climates across the Northern Hemisphere — Siberia, Scandinavia, Canada, and northern parts of the United States and Japan. Unlike other medicinal mushrooms, the commercially used part is not the fruiting body but a dense mass of mycelium and wood that has been infected and transformed by the fungus over years or decades.
 
 ### Active Compounds
 
@@ -30,7 +30,7 @@ Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch tre
 
 **Superoxide dismutase (SOD)**:
 - Chaga contains a form of SOD, one of the body's most important antioxidant enzymes
-- SOD catalyzes the conversion of superoxide radicals (damaging) to [[cervantes-hydrogen-peroxide-sterilization]] and oxygen
+- SOD catalyzes the conversion of superoxide radicals (damaging) to hydrogen peroxide and oxygen
 - Chaga SOD is one of the highest natural sources of this enzyme
 
 **Other**: polyphenols, triterpenoids (inotodiol, trametenolic acid), lanosterol, ergosterol, and various minerals
@@ -40,7 +40,7 @@ Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch tre
 **Antioxidant** (most prominent property):
 - Among the highest antioxidant activities of any natural substance, as measured by ORAC (Oxygen Radical Absorbance Capacity) and other assays
 - Melanin provides broad-spectrum free radical scavenging
-- SOD provides enzymatic [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
+- SOD provides enzymatic antioxidant defense
 - Protects cells from oxidative stress-mediated DNA damage
 
 **Anti-tumor**:
@@ -78,7 +78,7 @@ Human clinical data is more limited than for [[turkey-tail-mushroom-cancer-resea
 Wild chaga is a slow-growing resource — the sclerotium can take 10-20 years to reach harvestable size. Overharvesting of wild chaga is a significant concern, particularly in Siberia where it has been commercially collected for centuries. Sustainable practices include:
 - Only harvesting from living birch trees (not fallen)
 - Leaving at least 30-40% of the conk to allow regrowth
-- Developing cultivated chaga production using [[cancer-medicinal-mushrooms-submerged-fermentation-production]] methods
+- Developing cultivated chaga production using submerged fermentation methods
 
 ### Traditional Use
 
@@ -87,7 +87,7 @@ Used extensively in Siberian, Russian, and Scandinavian folk medicine for centur
 ### Preparation
 
 - **Tea/decoction**: Traditional method, simmered for extended periods (hours). Extracts water-soluble components (polysaccharides, melanin).
-- **Dual extract**: Water extraction followed by [[ethyl-alcohol-extraction]] captures both water-soluble (beta-glucans, melanin) and alcohol-soluble (betulin, triterpenes) components.
+- **Dual extract**: Water extraction followed by alcohol extraction captures both water-soluble (beta-glucans, melanin) and alcohol-soluble (betulin, triterpenes) components.
 - **Powder**: Dried and ground, can be added to foods or encapsulated.
 
 ## See Also
@@ -96,30 +96,3 @@ Used extensively in Siberian, Russian, and Scandinavian folk medicine for centur
 - [[reishi-mushroom-medicinal-research]]
 - [[maitake-mushroom-research]]
 - [[medicinal-mushroom-guide-chaga]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

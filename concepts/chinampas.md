@@ -7,7 +7,7 @@ tags: [permaculture, design, water, ecology, regenerative, methods, plant-growth
 sources: []
 ---
 
-## Chinampas
+# Chinampas
 
 Chinampas are artificial agricultural islands built in shallow lake beds, often called "floating gardens." Developed by the Aztec civilization in the Valley of Mexico starting around the 14th century, chinampas were among the most productive agricultural systems in human history, supporting the massive population of Tenochtitlan (pre-Columbian Mexico City). Modern adaptations of chinampa principles offer a highly productive, aquaculture-integrated growing system applicable to homestead-scale water features, ponds, and wetland edges.
 
@@ -148,3 +148,16 @@ The traditional chinampa system integrates fish production with crop production:
 - **Soil building**: Continuous deposition of organic matter from the water builds deep topsoil over time
 
 ## Troubleshooting
+
+| Problem | Cause | Solution |
+|---|---|---|
+| Bed is sinking | Insufficient fill; organic matter decomposing faster than added | Add more fill material; increase willow stake density for structural support |
+| Plants are waterlogged | Bed too low; drainage insufficient | Raise bed level; add sandier soil to upper layers; improve drainage channels |
+| Algae growth in water | Excess nutrients; too much sun exposure | Add floating plants (duckweed, water hyacinth) to shade water; reduce nutrient input |
+| Erosion of bed edges | Wave action; insufficient retaining wall | Reinforce with more willow stakes; add stone riprap; plant erosion-controlling species |
+| Mosquitoes | Stagnant water | Add fish that eat mosquito larvae (mosquitofish, gambusia); add Bti dunks; ensure water movement |
+| Pest pressure | Limited predator habitat | Add insectary plants; provide habitat for frogs and dragonflies; integrate ducks |
+| Bed drying out | Water level dropped; bed too high above water | Lower the bed; increase water level; add mulch; supplement with irrigation |
+## Related
+
+- [[permaculture-history-timeline]]

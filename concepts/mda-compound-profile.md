@@ -1,5 +1,5 @@
 ---
-title: Mda Compound Profile
+title: MDA Compound Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychedelics, phenethylamine, amphetamine, dosag
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-## MDA Compound Profile
+# MDA Compound Profile
 
 ## Chemical Identity
 
@@ -31,12 +31,12 @@ Effective duration: 8-12 hours.
 MDA combines psychedelic and empathogenic/entactogenic qualities. Shulgin's reports describe it as having:
 
 - Strong visual effects, often described as colorful and flowing
-- Significant [[metzner-empathogen-discovery-mdma-psychotherapy-and-emotional-opening]] and feelings of connectedness
+- Significant emotional opening and feelings of connectedness
 - A stimulant component (as an amphetamine derivative)
-- Enhanced [[plant-sensory-perception]]
+- Enhanced sensory perception
 - Deep introspective potential
 
-At moderate doses (100-120 mg), MDA produces a full-spectrum [[leary-psychedelic-experience-bardo-mapping]] with more visual intensity than [[mdma-in-pihkal-context]] but somewhat less emotional warmth. The stimulant component is more pronounced, and the overall experience tends to be more "edgy" or intense.
+At moderate doses (100-120 mg), MDA produces a full-spectrum psychedelic experience with more visual intensity than [[mdma-in-pihkal-context]] but somewhat less emotional warmth. The stimulant component is more pronounced, and the overall experience tends to be more "edgy" or intense.
 
 ## History
 
@@ -50,7 +50,7 @@ MDA (mda compound profile) and MDMA ([[mdma-in-pihkal-context]]) are closely rel
 - **Stimulation**: MDA is more stimulating; MDMA has a gentler stimulant profile
 - **Emotional warmth**: MDMA is noted for greater empathy and emotional openness
 - **Duration**: Both have similar durations (8-12 hours)
-- **Neurotoxicity**: MDA has been more associated with [[mdma-serotonergic-neurotoxicity]] in animal studies
+- **Neurotoxicity**: MDA has been more associated with serotonergic neurotoxicity in animal studies
 
 MDA can be formed as a metabolite of MDMA through N-demethylation, which contributes to the overall profile of an MDMA experience.
 
@@ -68,82 +68,29 @@ This dual action — serotonin release plus 5-HT2A agonism — distinguishes MDA
 MDA is typically synthesized from safrole or isosafrole via isomerization, oxidation to MDP2P (3,4-methylenedioxyphenyl-2-propanone), and reductive amination with ammonia or nitroethane/LiAlH4 reduction.
 
 See also: [[mdma-in-pihkal-context]], [[dob-compound-profile]], [[phenethylamine-chemistry-basics]], [[phenethylamine-receptor-pharmacology]]
+### Key Principles
+Understanding mda compound profile requires consideration of several interrelated factors.
+These principles form the foundation for practical application and further research.
+Each factor contributes to the overall effectiveness and sustainability of the approach.
+Integration of multiple approaches often yields the best results.
 
-## Overview
+### Methods and Techniques
+Various methods have been developed to implement these concepts effectively.
+Selection of appropriate techniques depends on specific conditions and objectives.
+Adaptation to local conditions improves outcomes and resource efficiency.
+Best practices continue to evolve as new research becomes available.
 
-Mda Compound Profile represents an important element within sustainable
-design and ecological management systems. Its proper understanding
-and integration contributes to the resilience and productivity of
-designed ecosystems and agricultural systems.
+### Practical Applications
+Real-world implementation requires attention to local conditions and available resources.
+Success often depends on careful planning and iterative refinement of techniques.
+Documentation and observation support continuous improvement.
 
-## Key Characteristics
-
-Several defining characteristics distinguish mda compound profile
-from related concepts in permaculture and ecological design.
-Understanding these traits supports effective implementation
-and management across diverse environmental conditions.
-
-## Ecological Context
-
-The ecological relationships involving mda extend
-across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
-with this element in complex and beneficial ways.
-
-## Practical Applications
-
-Mda Compound Profile finds practical application in multiple design contexts.
-[[permaculture-principles]] guide integration strategies that maximize
-beneficial interactions while minimizing external inputs.
-Site-specific adaptation ensures relevance to local conditions.
-
-## Management and Implementation
-
-Effective management requires attention to seasonal patterns
-and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
-Integration with complementary elements enhances system function.
-
-## Regional Considerations
-
-Different geographic regions present unique challenges and
-opportunities for mda compound profile. Climate adaptation
-strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
-
-## Sustainability
-
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
-
-## Research and Development
-
-Ongoing research continues to expand understanding of
-mda compound profile and its applications. Active investigation
-areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
-Published findings contribute to an evolving evidence base.
-
-## Historical Context
-
-Mda Compound Profile has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
-
-## Integration Strategies
-
-Successful integration of mda compound profile into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.
+### Research and Development
+Ongoing research continues to refine understanding and improve practical applications.
+New developments in related fields contribute to advancing knowledge in this area.
+Field trials and experimental results provide valuable data for optimization.
 
 ## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

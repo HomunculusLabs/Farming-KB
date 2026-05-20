@@ -1,5 +1,5 @@
 ---
-title: Permaculture Windbreak Design Species
+title: Permaculture Windbreak Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,7 +7,7 @@ tags: [permaculture, windbreak, trees, microclimate, design, shelter, forestry, 
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
-## Permaculture Windbreak Design
+# Permaculture Windbreak Design
 
 ## Overview
 
@@ -15,7 +15,7 @@ Windbreaks may mean the difference between some crop and a good crop, but in sev
 
 ## Wind Behavior and Analysis
 
-Winds are fairly predictable and often bi-modal in their directions and effects in local areas. For the landscape designer, wind-flagging on older trees and wind-pruning tell the story; the site itself has summed total [[tree-biomass-and-wind-effects]] over time.
+Winds are fairly predictable and often bi-modal in their directions and effects in local areas. For the landscape designer, wind-flagging on older trees and wind-pruning tell the story; the site itself has summed total wind effects over time.
 
 From latitudes 0 to 35 degrees north and south in oceanic areas, winds will be bi-modal and seasonal. Locally, the directions will be modified by landscape, but the phenomena of windward and leeward coasts are almost universal.
 
@@ -23,7 +23,7 @@ Wind harmonics are important: ground winds do not blow steadily, but vary as gus
 
 ## Design Principles
 
-On sites with predictable [[wind-patterns-and-beaufort-scale]], we can plan directional, patterned windbreak of earthbank and trees. On sites where severe winds may come from any direction, the strategy is to impose a close rectangular or network pattern on windbreak.
+On sites with predictable wind patterns, we can plan directional, patterned windbreak of earthbank and trees. On sites where severe winds may come from any direction, the strategy is to impose a close rectangular or network pattern on windbreak.
 
 ### Essential Requirements
 
@@ -62,7 +62,7 @@ Blizzards will kill livestock and newborn lambs, and even hardy animals can lose
 
 ### On Croplands
 
-A matrix of shelterbelt species 10-16m in height and 33-66m apart (Casuarina, poplar, Matsudana willow, trimmed eucalypt) affords [[cervantes-wind-protection-outdoor-cannabis]]. Citrus culled as damaged is 50% of crop in unsheltered areas versus 18.5% in shelterbelt systems. Cotton yields are 17.4% higher within five times the height of the shelterbelt.
+A matrix of shelterbelt species 10-16m in height and 33-66m apart (Casuarina, poplar, Matsudana willow, trimmed eucalypt) affords wind protection. Citrus culled as damaged is 50% of crop in unsheltered areas versus 18.5% in shelterbelt systems. Cotton yields are 17.4% higher within five times the height of the shelterbelt.
 
 ### On Soil Moisture
 
@@ -70,8 +70,8 @@ Windbreak increases soil moisture 4% to four times the height of the break, and 
 
 ## Shelterbelt Design Considerations
 
-Species [[cannabis-breeding-traits-selection-criteria-clarke]] include:
-- [[biological-nitrogen-fixation-agriculture]] or good mulch potential from leaves and trimmings
+Species selection criteria include:
+- Nitrogen fixation or good mulch potential from leaves and trimmings
 - Hosting of predatory insects or birds that control crop pests
 - Least moisture competition with crop
 - Excellent forage yields or concentrated foods for livestock
@@ -87,38 +87,3 @@ On coasts, it is not until after the fourth or even fifth tree row that wind-pro
 - [[permaculture-site-analysis]]
 - [[rainwater-harvesting-systems]]
 - [[permaculture-forestry-systems]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-Field trials provide essential data for validating theoretical approaches and refining methodologies.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-Peer-reviewed publications and practitioner reports contribute complementary perspectives.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-Regional networks and demonstration sites play crucial roles in technology transfer.
-
-## Implementation Notes
-Start with small-scale trials before expanding to larger operations.
-Maintain detailed records of conditions, inputs, and outcomes for iterative refinement.
-Regular review and adjustment of strategies based on observed results ensures continuous improvement.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

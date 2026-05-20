@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Fungal Degradation of Chlorophenols and BTEX Compounds Chlorinated monoaromatic compounds and BTEX (benzene, toluene, ethylbenzene, xylene) represent important classes of environmental pollutants. Fungi, particularly cellulase-enzyme-systems-in-fungi that evolved to break down the complex aromatic polymer lignin. ## Chlorophenols as Priority Pollutants Chlorophenols are widespread in terrestrial and aquatic ecosystems and are listed as priority pollutants. Pentachlorophenol (PCP) has been widely used as a wood preservative and biocide, while other chlorophenols serve as precursors for herbicide synthesis. A variety of microorganisms can degrade PCP, primarily through pathways involving dechlorination, hydroxylation, and [[fungal-enzyme-systems-xenobiotic-degradation]]
 

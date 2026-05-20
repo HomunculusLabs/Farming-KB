@@ -7,14 +7,14 @@ tags: [permaculture, herbs, medicine, herbalism, calendula, thyme, natural-remed
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-## Calendula Salve and Herbal Remedies
+# Calendula Salve and Herbal Remedies
 
 These traditional herbal remedies were once found in almost every "home pharmacy." Because the potency of medicinal plants can vary from place to place, the recipes should be adapted. With a little experience the correct strength can easily be determined.
 
 ## Calendula Salve
 
 ### Ingredients
-- Two heaped double handfuls of calendula ([[calendula-officinalis]]) — whole plant including stem, leaves and flowers
+- Two heaped double handfuls of calendula (Calendula officinalis) — whole plant including stem, leaves and flowers
 - Roughly half a litre of lard (available from a butcher), or vegetable oil (e.g. olive oil)
 - If using vegetable oil: 200-250g beeswax per litre of oil as thickening agent
 
@@ -55,7 +55,7 @@ Calendula salve can be used to treat all kinds of injuries because it encourages
 ## Chicory Tea for Diabetics
 
 ### Ingredients
-- Equal amounts of: chicory root ([[cichorium-intybus]]), dandelion root, stinging nettles, French lilac, bilberry leaves
+- Equal amounts of: chicory root (Cichorium intybus), dandelion root, stinging nettles, French lilac, bilberry leaves
 - Three tablespoons of the plant mixture per litre of water
 
 ### Method
@@ -88,37 +88,3 @@ Made with lard and applied with hot cloths. Effective medicinal remedy used trad
 - [[sepp-holzer-method]]
 - [[holzer-balcony-garden]]
 - [[polyculture-design-holzer]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

@@ -140,11 +140,44 @@ Edible wild mushroom species vary significantly by region in North America. This
 - **Yellowfoot chanterelles**: December-February; the Pacific Northwest has the best winter foraging in North America
 - **Oyster mushrooms**: Winter on alder
 - **Enoki**: Winter on alder and cottonwood
+- **Black trumpet (Craterellus cornucopioides)**: Winter in coastal forests
+
+## Dangerous Look-alikes by Region
+
+### Amanita Species (Nationwide)
+- **Death cap (Amanita phalloides)**: West Coast, expanding eastward; looks like edible paddy straw mushroom
+- **Destroying angel (A. virosa, A. bisporigera)**: White mushroom in the button stage resembles meadow mushroom and puffballs
+- Always check for: white gills, volva (cup at base), ring on stem, growing from volva in soil
+- Rule: never eat any white-gilled mushroom unless you are absolutely certain
+
+### Galerina marginata (Nationwide)
+- Looks similar to honey mushroom and some Psilocybe species
+- Contains the same deadly amatoxins as Amanita phalloides
+- Key difference: Galerina has a brown spore print (honey mushroom has white)
+- Growing on wood is NOT a safety indicator
+
+### Jack O'Lantern (Omphalotus olearius)
+- Orange mushroom that resembles chanterelles
+- Key differences: grows in clusters on wood (chanterelles on soil), has true gills (chanterelles have blunt ridges), is bioluminescent
+- Causes severe GI distress
+
+## Seasonal Calendar Summary
+
+| Month | Northeast | Southeast | Midwest | West | Pacific NW |
+|-------|-----------|-----------|---------|------|------------|
+| Mar   | --        | Morel     | --      | --   | --          |
+| Apr   | Morel     | Morel     | Morel   | Morel| --          |
+| May   | Morel     | --        | Morel   | Morel| Morel       |
+| Jun   | --        | Chicken   | Chanter.| --   | Chanter.    |
+| Jul   | Chanter.  | Chanter.  | Chanter.| Bolete| Bolete     |
+| Aug   | Chanter.  | Chanter.  | Bolete  | Bolete| Chanter.   |
+| Sep   | Hen/Bolete| Hen       | Hen     | Matsut.| Chanter.  |
+| Oct   | Hen/Honey | Matsutake | Honey   | Matsut.| Chanter./Matsut.|
+| Nov   | Honey     | Hen       | --      | --   | Yellowfoot  |
+| Dec   | Oyster    | Oyster    | --      | --   | Yellowfoot  |
 
 ## See Also
 
-- [[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]
-- [[mycorrhizal-edible-mushroom-species-overview]]
-- [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]]
-- [[perennial-vegetables]]
-- [[coastal-edible-plants-permaculture]]
+- [[mushroom-foraging-safety-guide]] -- ethical harvesting practices for all regions
+- [[mushroom-cooking-techniques]] -- how to prepare your regional finds
+- [[mushroom-festivals-and-events]] -- forays and events by region

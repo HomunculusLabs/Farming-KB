@@ -126,7 +126,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]
 - [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]]
 - [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]]
 - [[shroom-mazatec-tradition]]

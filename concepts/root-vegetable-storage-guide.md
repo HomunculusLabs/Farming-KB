@@ -29,20 +29,20 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 
 ### Temperature Zones
 
-| Zone | [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | Crops |
+| Zone | Temperature Range | Crops |
 |------|------------------|-------|
 | Cold and moist | 32-40F, 90-95% humidity | Carrots, beets, parsnips, turnips, rutabagas |
 | Cool and dry | 50-60F, 60-70% humidity | Potatoes |
 | Cool and moist | 32-40F, 85-90% humidity | Celeriac, horseradish |
-| Warm and dry | 55-65F, 50-60% humidity | [[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]], winter squash (not roots but similar storage) |
+| Warm and dry | 55-65F, 50-60% humidity | Sweet potatoes, winter squash (not roots but similar storage) |
 
 ### Critical Variables
 
 - **Temperature consistency** — Fluctuations cause condensation, sprouting, and decay. Aim for variation of less than 5F
 - **Humidity** — Too dry: roots shrivel. Too wet: rot and mold. Most roots need high humidity
-- **Ventilation** — Roots are alive and respire. They need oxygen and produce [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]]. Stagnant air causes off-flavors and decay
+- **Ventilation** — Roots are alive and respire. They need oxygen and produce carbon dioxide. Stagnant air causes off-flavors and decay
 - **Darkness** — Light causes potatoes to turn green (solanine production) and most roots to sprout
-- **[[stamets-growing-room-air-circulation-co2-management]]** — Roots should not be packed tightly. Air must flow around them
+- **Air circulation** — Roots should not be packed tightly. Air must flow around them
 
 ### Potatoes
 
@@ -60,7 +60,7 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 ### Storage Methods
 
 **In sand or sawdust (best for home storage):**
-1. Use a clean container (wooden crate, [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]], or [[cardboard-box-inoculation-hood-draft-prevention-mycology]])
+1. Use a clean container (wooden crate, plastic bin, or cardboard box)
 2. Alternate layers of carrots with slightly damp sand or sawdust
 3. Do not let carrots touch each other (prevents rot spread)
 4. Keep sand barely moist — not wet, not dry
@@ -120,8 +120,64 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 - Indoor storage: same sand/sawdust method as carrots
 - Larger roots store better than small ones
 
-## See Also
-- root vegetable storage guide
-- [[vegetable-harvest-and-storage-guide]]
-- [[purdue-vegetable-harvest-and-storage-guide]]
-- [[vegetable-storage-conditions-by-temperature-and-humidity]]
+## Turnip Storage (Brassica rapa)
+
+### Ideal Conditions
+- Temperature: 32-35F
+- Humidity: 90-95%
+- Darkness: Important
+- Ventilation: Good
+
+### Harvest and Storage
+- Harvest before heavy frost (though light frost improves flavor)
+- Cut tops to 1/2 inch
+- Store in damp sand or sawdust
+- Storage life: 2-4 months (shorter than other roots)
+- Best eaten within 2 months for optimal texture
+
+### Common Problems
+- **Pithiness** — Woody, spongy texture from oversized or over-mature roots
+- **Strong flavor** — More pronounced with age; young turnips are milder
+- **Rapid softening** — Turnips lose quality faster than carrots or beets
+
+## Rutabaga Storage (Brassica napus)
+
+### Ideal Conditions
+- Temperature: 32-35F
+- Humidity: 90-95%
+- Darkness: Important
+- Ventilation: Good
+
+### Harvest and Storage
+- Harvest after first light frost (improves sweetness)
+- Cut tops to 1/2 inch
+- Can be waxed for market storage (not necessary for home storage)
+- Store in damp sand or sawdust
+- Storage life: 4-6 months (longer than turnips)
+- Rutabagas are denser and store better than turnips
+- Do not store near apples or pears — ethylene gas causes bitter flavor
+
+## Root Cellar Design Principles
+
+A functional root cellar requires:
+
+- **Below-grade location** — Earth provides natural insulation and temperature stability
+- **Two ventilation pipes** — One high (exhaust) and one low (intake) for passive airflow
+- **Humidity control** — Earthen floor or damp sand on a concrete floor provides moisture
+- **Shelving** — Wooden slatted shelves allow air circulation; avoid plastic shelving
+- **Multiple zones** — Potatoes need warmer temps than other roots; separate storage areas
+- **Pest exclusion** — Screen ventilation openings against rodents
+
+## Companion Storage Crops
+
+Other crops store well in root cellar conditions:
+
+- Onions and garlic: 32-40F, 60-70% humidity (store in mesh bags separately)
+- Cabbage: 32-40F, 90-95% humidity (wrap in newspaper to contain odors)
+- Winter squash: 50-55F, 50-70% humidity (much warmer and drier than roots)
+- Apples: 30-35F, 85-90% humidity (do not store near potatoes — ethylene causes sprouting)
+
+## Related Topics
+
+Root storage complements other preservation methods for winter food security. See [[mason-jar-preserving-guide]] for canning excess roots, and [[smoking-meat-and-fish]] for protein preservation. Growing root crops connects to [[perennial-vegetables]] and broader [[winter-gardening-techniques]] practices. Storage design integrates with [[swale-design-construction]] and homestead [[fungi-and-sustainability]] planning.
+- [[deer-fencing-and-deterrents]]

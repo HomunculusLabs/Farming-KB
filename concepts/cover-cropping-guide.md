@@ -1,4 +1,5 @@
 ---
+
 title: Cover Cropping Guide
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/papers/teaming-with-microbes-lowenfels.md
 ---
 
-## Cover Cropping Guide
+# Cover Cropping Guide
 
 Cover crops are plants grown primarily to benefit the soil rather than for harvest. They protect soil from erosion, add organic matter, fix nitrogen, suppress weeds, and feed the [[soil-food-web-nutrient-cycling]].
 
@@ -144,3 +145,5 @@ Steve Solomon recommends letting garden beds go fallow every 3-4 years:
 
 ## Related
 
+- [[cover-crop-termination]]
+- [[cover-crop-species-comparison]]

@@ -1,4 +1,5 @@
 ---
+
 title: Permaculture Zones in Practice
 created: 2026-04-11
 updated: 2026-04-12
@@ -23,7 +24,7 @@ sources:
 - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
-## Permaculture Zones in Practice
+# Permaculture Zones in Practice
 
 Practical application of permaculture zones 0-5 for a regenerative homestead with ducks, goats, cannabis, food forests, and integrated systems. See [[permaculture-principles]] for the ethical framework and [[permaculture-design]] for zone/sector analysis methodology. See [[integrated-homestead-design]] for the full system integration map.
 
@@ -144,3 +145,23 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 - Connect Zone 5 to Zone 4 with hedgerow corridors for wildlife movement.
 
 ## Zone Summary for This Homestead
+
+| Zone | Key Systems | Visit Frequency | Priority |
+|------|-------------|-----------------|----------|
+| 0 | Cannabis grow, kitchen, KNF lab, vermicompost | Constant | Start here |
+| 1 | Vegetables, herbs, greenhouse, compost, ducks | Daily | Build in year 1 |
+| 2 | Fruit trees, berries, goats, bees, food forest edges | Daily-weekly | Build in year 1-2 |
+| 3 | Pasture, main crops, cover crops, full food forest | Weekly-monthly | Build in year 2-3 |
+| 4 | Woodlot, pond, foraging, mushroom logs | Monthly | Establish year 2-3 |
+| 5 | Wildlife corridor, IMO collection, observation | Rarely | Protect from day 1 |
+
+## Related Pages
+- [[permaculture-principles]] — Ethics and 12 design principles
+- [[permaculture-design]] — Zone/sector analysis methodology
+- [[permaculture-design-methods]] — Comprehensive design process and tools
+- [[keyline-design]] — Water storage and landscape patterning
+- [[edge-effect-and-microclimate]] — Edge theory for zone boundary design
+- [[integrated-homestead-design]] — Capstone synthesis of all systems
+- [[homesteading-infrastructure]] — Infrastructure planning by zone
+- [[seasonal-planning]] — Monthly calendar across all zones
+- [[food-forest-design]] — Food forest layer design

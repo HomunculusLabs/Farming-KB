@@ -4,7 +4,7 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [soil-physics, soil-compaction, soil-health, tillage]
-sources: []
+sources: [raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
 ---
 
 ## Soil Compaction — Diagnosis and Remediation

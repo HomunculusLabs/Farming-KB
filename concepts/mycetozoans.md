@@ -15,7 +15,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-## Mycetozoans
+# Mycetozoans
 
 Mycetozoans (slime molds) are a polyphyletic group of fungus-like protists that produce fruiting bodies and feed as predators on bacteria and other microorganisms. They comprise several distinct lineages within the Eumycetozoa and related groups.
 
@@ -140,11 +140,55 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 
 ### Moist Chamber Technique
 - Standard method for most mycetozoans
+- Substrata placed in Petri dishes on moistened paper or agar
+- Incubated at ambient temperature; examined periodically over several weeks
+- Works for all groups, especially larger myxomycetes that won't fruit in harsh field conditions
 
-## See Also
+### Field Collection
+- Myxomycetes: collect fruiting bodies from natural substrata; store in boxes with glued substrata
+- Preserve as dried specimens or permanent slide mounts
+- Photograph in situ when possible
 
-- [[bloomfield-coprophilous-dung-fungi-spore-dispersal-herbivore]]
-- [[mushroom-life-cycle-spore-to-fruiting-body]]
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]]
-- [[fungal-fruiting-body-formation-environmental-triggers]]
+### Culture Methods
+- Protostelids and dictyostelids require culture for identification
+- Bait with bacteria (Escherichia coli) on weak nutrient agar
+- Soil/litter samples plated; emerging colonies documented over time
+- ATCC and specialized collections maintain living cultures
+
+### Substrata by Group
+
+| Group | Dead plant parts | Litter | Soil | Bark | Dung | Rotting wood |
+|-------|-----------------|--------|------|------|------|-------------|
+| Protostelids | +++ | +++ | + | +++ | + | ++ |
+| Myxomycetes | ++ | +++ | +++ | ++ | ++ | +++ |
+| Dictyostelids | * | ++ | +++ | * | +++ | * |
+| Acrasis | +++ | - | - | + | - | - |
+| Pocheina | - | - | - | +++ | - | * |
+| Copromyxa | - | - | - | - | ++ | - |
+
+(+ = occasional, ++ = common, +++ = abundant, * = very rare, - = absent)
+
+## Ecological Significance
+
+- Major bacterial predators in soil and litter ecosystems
+- Food source for specialized mycetophagous invertebrates
+- Contribute to nutrient cycling by regulating bacterial populations
+- Myxomycete plasmodia concentrate and redistribute nutrients
+- Dictyostelids are model organisms for studying cell differentiation and chemotaxis
+- Can be major components of agricultural soils (Feest 1987)
+
+## Conservation and Research Needs
+
+- Many species remain undescribed (especially protostelids in tropics)
+- Tropical mycetozoan fauna poorly documented
+- Long-term monitoring studies needed to assess seasonal and annual variation
+- Molecular phylogenetics reshaping understanding of relationships within and between groups
+- Climate change effects on mycetozoan communities unknown
+
+## Related Topics
+
+- [[fungal-biodiversity-biogeography]] — Global diversity patterns
+- [[fungal-ecology]] — Fungal ecology overview
+- [[soil-food-web-nutrient-cycling]] — Soil ecosystem processes
+- [[fungal-ecosystem-roles]] — Fungal roles in ecosystems
+- [[coprophilous-fungi]] — Dung-inhabiting mycetozoans

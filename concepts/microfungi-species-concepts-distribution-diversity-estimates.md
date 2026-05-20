@@ -78,3 +78,43 @@ Hammond (1995) cautioned that the proportion of species known to science varies 
 The implication is clear: even with well-established and productive sampling methods, current knowledge captures only a small fraction of the microfungal diversity that exists in natural ecosystems. Addressing this knowledge gap will require sustained investment in taxonomic expertise, molecular systematics, and comprehensive biodiversity surveys across under-sampled regions and habitats.
 
 These principles provide a foundation for practical application and continued learning in this area.
+
+## Key Considerations
+
+The study of microfungi — species concepts, distribution patterns, and diversity estimates encompasses several interrelated
+domains that inform both theoretical understanding and practical
+application. Researchers and practitioners continue to refine
+methodologies and expand the body of knowledge in this area.
+
+Cross-disciplinary approaches have proven particularly valuable,
+integrating insights from related fields to develop more
+comprehensive frameworks for analysis and implementation.
+
+## Practical Applications
+
+Understanding microfungi — species concepts, distribution patterns, and diversity estimates has direct implications for
+practical work in the field. The principles described here
+can be adapted to various contexts and scales of operation.
+
+Practitioners should consider local conditions, available
+resources, and specific goals when applying these concepts.
+
+## See Also
+
+- [[acacia-species-permaculture-pioneer-fodder-timber]]
+- [[african-neurotropic-fungi-distribution-and-underexplored-biodiversity-guzman-1998]]
+- [[african-neurotropic-fungi-distribution-gaps-exploration-potential]]
+- [[african-truffle-species]]
+- [[agaricus-cultivation-and-species-guide]]
+- [[agaricus-species-guide]]
+- [[alkaloid-distribution-mushroom-caps-stems]]
+- [[allen-australian-psilocybe-species-comprehensive-guide]]
+- [[allen-pans-cyanescens-australia-distribution]]
+- [[allen-psilocybin-potency-australian-species]]
+- [[alpha-beta-diversity-cannabis-root-microbiomes]]
+- [[alpha-beta-gamma-diversity-fungi]]
+- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
+- [[amanita-species-ecology-identification-mycohhizal]]
+- [[amanita-species-muscaria-pantherina-verna-virosa-mappa]]
+- [[amanita-species-southeastern-us]]
+- [[amatoxins-and-phallotoxins-mechanism-distribution]]

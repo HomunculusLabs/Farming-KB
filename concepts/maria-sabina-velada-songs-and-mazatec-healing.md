@@ -145,6 +145,6 @@ current understanding and implementation strategies.
 ## See Also
 
 - [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]
 - [[juniperus-sabina]]
 - [[mazatec-mushroom-culture-and-velada]]

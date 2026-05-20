@@ -1,5 +1,5 @@
 ---
-title: Fungal Pest Control
+title: Fungal Pest Control — Using Mushrooms Against Insects
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -8,9 +8,9 @@ sources:
   - raw/papers/mycelium-running-stamets.md
 ---
 
-## Fungal Pest Control
+# Fungal Pest Control
 
-Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to [[comparison-parasitoid-wasps-vs-chemical-pesticides]]. Part of the [[mycorestoration]] framework.
+Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to chemical pesticides. Part of the [[mycorestoration-overview]] framework.
 
 ## Core Species
 
@@ -54,7 +54,7 @@ Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to [[comp
 | Target specificity | Often broad, kills beneficials | Can be species-specific |
 | Application safety | Requires PPE, restricted areas | Generally safe, no reentry periods |
 | Soil/water contamination | Significant | None; fungi are natural soil organisms |
-| Cost | Variable, often subsidized | Low — can be cultured on [[agricultural-waste-recycling]] |
+| Cost | Variable, often subsidized | Low — can be cultured on agricultural waste |
 
 ## Fire Ant Control
 
@@ -66,14 +66,14 @@ Similar social-disruption strategy used against fire ants:
 
 ## Integration with Gardens
 
-- **[[cervantes-companion-planting-pest-deterrent]]** with insect-attractive plants near mycelial beds draws pests into fungal traps
+- **Companion planting** with insect-attractive plants near mycelial beds draws pests into fungal traps
 - **Sawdust spawn** placed at the base of vulnerable plants creates a protective mycelial zone
 - **Spore sprays** can be applied to foliage using standard garden sprayers
 - Works synergistically with [[garden-mushroom-growing]] — same beds can produce food mushrooms AND control pests
 
 ## Limitations
 
-- Effectiveness varies with [[greg-green-temperature-and-humidity-control]] — fungi need moisture to sporulate
+- Effectiveness varies with temperature and humidity — fungi need moisture to sporulate
 - UV light degrades spores — shade or evening application recommended
 - Not instantaneous — requires days to weeks for full effect
 - Some insect species have grooming behaviors that remove spores
@@ -81,46 +81,6 @@ Similar social-disruption strategy used against fire ants:
 
 ## See Also
 
-- [[mycorestoration]] for the broader framework
-- [[garden-mushroom-growing]] for combining [[jadam-pest-control-with-natural-pesticides-jhs]] food production
+- [[mycorestoration-overview]] for the broader framework
+- [[garden-mushroom-growing]] for combining pest control with food production
 - [[fungal-ecology]] for how fungi interact with insect populations in nature
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-
-## Implementation Notes
-Start with small-scale trials before expanding to larger operations.
-Maintain detailed records of conditions, inputs, and outcomes for iterative refinement.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-Documentation of results enables continuous improvement and knowledge sharing.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-Collaborative networks facilitate rapid dissemination of innovations and best practices.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

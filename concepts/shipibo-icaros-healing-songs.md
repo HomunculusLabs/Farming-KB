@@ -8,11 +8,11 @@ sources:
 - raw/papers/amaringo-p-ayahuasca-visions.md
 ---
 
-## Shipibo Icaros — Healing Songs of the Amazon
+# Shipibo Icaros — Healing Songs of the Amazon
 
 ## Overview
 
-Icaros are sacred healing songs used by Amazonian vegetalistas (plant healers) during [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]. They are received directly from plant spirits during dieta (plant dieting) and serve multiple functions: calling protective spirits, directing the visionary experience, extracting illness, and defending against hostile entities. [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s paintings frequently depict icaros as visible, luminous energies — ribbons, waves, or geometric patterns that radiate from the mouth of the singing vegetalista.
+Icaros are sacred healing songs used by Amazonian vegetalistas (plant healers) during ayahuasca ceremonies. They are received directly from plant spirits during dieta (plant dieting) and serve multiple functions: calling protective spirits, directing the visionary experience, extracting illness, and defending against hostile entities. Pablo Amaringo's paintings frequently depict icaros as visible, luminous energies — ribbons, waves, or geometric patterns that radiate from the mouth of the singing vegetalista.
 
 ## Nature and Origin of Icaros
 
@@ -32,7 +32,7 @@ Icaros are sacred healing songs used by Amazonian vegetalistas (plant healers) d
 - Depicted in Amaringo's paintings as colorful geometric arcs, nets, or barriers
 - Some form visible "arkana" defenses — luminous walls of light
 
-**[[mckenna-ayahuasca-healing-icaros-sound-suggestion]]**
+**Healing Icaros**
 - Used to extract illness from a patient's body
 - Can be directed at specific organs or spiritual blockages
 - The vegetalista sings while blowing tobacco smoke or sucking at the affected area
@@ -85,8 +85,8 @@ Amaringo's paintings represent a visual translation of icaros — the patterns, 
 
 ## Modern Context
 
-Icaros have become one of the most studied aspects of [[chullachaki-and-soul-recovery-in-amazonian-shamanism]]. They represent:
-- An [[allegro-religion-prehistory-oral-tradition-etymology]] of immense complexity and specificity
+Icaros have become one of the most studied aspects of Amazonian shamanism. They represent:
+- An oral tradition of immense complexity and specificity
 - A pharmacological component (sound/vibration affecting consciousness states)
 - A cultural bridge between Indigenous Amazonian knowledge and the modern world
 - A living tradition that continues to evolve
@@ -97,30 +97,3 @@ Icaros have become one of the most studied aspects of [[chullachaki-and-soul-rec
 - [[pablo-amaringo]] — Artist who visually documented icaro experiences
 - [[ayahuasca-preparation]] — Ceremony and brewing context
 - [[amazonian-medicinal-plants-reference]] — Plants indexed by use
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

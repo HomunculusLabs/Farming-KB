@@ -18,7 +18,7 @@ sources: []
 - **Species:** P. wassonii
 - **Authority:** Heim (1958)
 - **Synonyms:** Sometimes treated as a variety or synonym within the [[psilocybe-mexicana]] species complex, sharing similar alkaloid profiles
-- The strong [[maria-sabina-and-mazatec-mushroom-ceremony]] pharmacopeia used in healing ceremonies and divination
+- The strong [[maria-sabina-mazatec-mushroom-ceremony]] pharmacopeia used in healing ceremonies and divination
 - María Sabina used multiple species interchangeably in her ceremonies, including P. wassonii, [[psilocybe-mexicana]] by its more robust size, more strongly viscid cap, and more intense bluing reaction
 - The gelatinous pellicle on the cap is more prominent than in related species
 - Microscopic features including spore size and cystidia morphology are needed for definitive separation from closely related taxa

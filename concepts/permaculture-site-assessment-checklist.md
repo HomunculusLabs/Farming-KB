@@ -16,7 +16,7 @@ sources:
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
-## Permaculture Site Assessment Checklist
+# Permaculture Site Assessment Checklist
 
 A thorough site assessment is the foundation of any permaculture design. William Ozier Williams presents a systematic approach in his PDC, emphasizing that the designer must analyze the site comprehensively before making any design decisions. This checklist consolidates the key elements to assess.
 
@@ -141,10 +141,31 @@ Create lists of existing on-site resources:
 - Animals (domestic and wild)
 - Potential building materials (timber, stone, earth)
 - Salvageable materials
+- Water sources and storage
+- Available labor and skills
+- Community resources and networks
 
-## See Also
+## Ecological Design Checklist
 
-- [[dryland-permaculture-strategies]]
-- [[vines-in-desert-permaculture]]
-- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
-- [[permaculture-principle-use-and-value-renewable-resources]]
+Williams recommends evaluating the design against these criteria:
+
+- Use as little energy as possible
+- Provide comfortable shelter
+- Generate and harness as much energy as possible
+- Provide as much clean water as possible
+- Provide as much food as possible
+- Provide space for social interaction and connection with nature
+- Include habitat for other species
+- Be easily maintained by inhabitants
+- Be designed for maintenance, upgrade, and disposal
+- Manage all of its own waste
+- Follow the triple bottom line (ecological, social, economic)
+
+## Related Concepts
+
+- [[permaculture-site-analysis]]
+- [[permaculture-mapping-and-reading-the-landscape]]
+- [[permaculture-design-methods]]
+- [[permaculture-zone-and-sector-analysis]]
+- [[permaculture-slope-analysis-and-reading]]
+- [[permaculture-climate-classification]]

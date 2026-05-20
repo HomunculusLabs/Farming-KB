@@ -140,10 +140,28 @@ Adding sunflower or soy lecithin (1 teaspoon per cup of oil) improves cannabinoi
 
 ## Dosing
 
-## See Also
+Topical dosing is less precise than other methods. General guidelines:
 
-- [[cannabis-cultivar-microbiome-specificity]]
-- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
-- [[cannabis-and-endometriosis]]
-- [[blesching-cannabis-immune-system-modulation]]
-- [[cannabis-seed-germination-viability-breeding-clarke]]
+- **Mild potency**: 1/4 ounce (7g) cannabis per 1 cup oil
+- **Medium potency**: 1/2 ounce (14g) cannabis per 1 cup oil
+- **Strong potency**: 1 ounce (28g) cannabis per 1 cup oil
+
+Start with a small amount and apply more as needed. Effects are typically felt within 15-30 minutes and last 2-4 hours. For chronic conditions, consistent daily application is more effective than sporadic heavy use.
+
+## Storage
+
+- Store in a cool, dark place (cabinet, not refrigerator)
+- Use opaque or dark glass containers to prevent light degradation
+- Shelf life: 3-6 months for homemade preparations
+- Vitamin E oil (1/2 teaspoon per cup) can extend shelf life as a natural preservative
+
+## Common Applications
+
+- **Arthritis and joint pain**: Apply to affected joints 2-3 times daily
+- **Muscle soreness**: Apply after exercise or physical labor
+- **Menstrual cramps**: Apply to lower abdomen
+- **Headaches**: Apply to temples and neck (peppermint + cannabis)
+- **Skin conditions**: Psoriasis, eczema, dermatitis (CBD-dominant preparations)
+- **Nerve pain**: Apply to the affected area; some find relief with regular application
+
+For internal consumption methods, see [[cannabis-tinctures-guide]] and [[cannabis-edibles-guide]]. For the extracts used in topical production, see [[cannabis-extraction-basics]]. Cannabis potency in topicals can be estimated using dosing principles from [[cannabis-concentrates-types]].

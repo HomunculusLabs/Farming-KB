@@ -1,5 +1,5 @@
 ---
-title: Underground Greenhouse Walipini
+title: Underground Greenhouse (Walipini)
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,9 +7,9 @@ tags: [season-extension, construction, permaculture, sustainability, homesteadin
 sources: []
 ---
 
-## Underground Greenhouse (Walipini)
+# Underground Greenhouse (Walipini)
 
-A walipini (from the Aymara word for "place of warmth") is an underground or earth-sheltered greenhouse that uses the earth's thermal mass to maintain stable growing temperatures year-round. By digging the growing area into the ground and covering it with a glazed roof, the walipini harnesses [[mollison-designers-passive-solar-heating-building-design]] combined with geothermal insulation to grow food through winter in climates that would otherwise be too cold for outdoor production.
+A walipini (from the Aymara word for "place of warmth") is an underground or earth-sheltered greenhouse that uses the earth's thermal mass to maintain stable growing temperatures year-round. By digging the growing area into the ground and covering it with a glazed roof, the walipini harnesses passive solar heating combined with geothermal insulation to grow food through winter in climates that would otherwise be too cold for outdoor production.
 
 ## How It Works
 
@@ -100,7 +100,7 @@ Water is the enemy of underground structures. Install drainage before building a
 
 ### 4. Build the Walls
 
-- **Back wall (north):** Build from stone, concrete block, rammed earth, or poured concrete. This wall should be thick and massive for [[coleman-soil-heat-mass-passive-thermal-storage]].
+- **Back wall (north):** Build from stone, concrete block, rammed earth, or poured concrete. This wall should be thick and massive for thermal storage.
 - **Side walls:** Continue the excavation walls with retained earth, stone, or concrete block. These should also be massive.
 - **Front wall (south):** Build from concrete block, stone, or timber. This wall is low and supports the glazing.
 - **Waterproofing:** Apply waterproof coating or membrane to the outside of all below-grade walls.
@@ -140,11 +140,32 @@ Water is the enemy of underground structures. Install drainage before building a
 - **Leafy greens:** Spinach, kale, lettuce, chard, Asian greens, arugula, mustard
 - **Root crops:** Carrots, beets, radishes, turnips, parsnips
 - **Alliums:** Garlic, onions, leeks, scallions
+- **Herbs:** Parsley, cilantro, chives, mint, rosemary (if warm enough)
 
-## See Also
+### Summer Management
 
-- [[magic-mushrooms-british-underground]]
-- [[neurotropic-fungi-underground-trade-legislation-guzman-1998]]
-- [[underground-earth-sheltered-housing]]
-- [[guzman-allen-gartz-recreational-use-degeneration-underground-neurotropic-fungi-trade]]
-- [[oss-oeric-history-and-impact-underground-classic]]
+- **Ventilation:** Open all vents and doors. Consider removing sections of glazing.
+- **Shade cloth:** 50-70% shade cloth over the glazing reduces heat load
+- **Crop selection:** Switch to heat-loving crops (tomatoes, peppers, cucumbers) or use the walipini as a propagation area
+- **Night ventilation:** Leave vents open at night in summer to release accumulated heat
+
+### Temperature Management
+
+- **Monitor:** Place min/max thermometers at plant height and near the ceiling
+- **Heating backup:** In extreme cold (-20°F and below), a small space heater or rocket mass heater (see [[rocket-mass-heater-design]]) may be needed
+- **Thermal mass enhancement:** Add water barrels (painted black) along the back wall to increase heat storage capacity
+
+## Common Problems and Solutions
+
+- **Water infiltration:** Improve drainage. This is the most common and most serious problem — address it before building.
+- **Poor ventilation and mold:** Increase vent size, add a fan, ensure the top vent is high enough for effective chimney effect
+- **Summer overheating:** Increase ventilation, add shade cloth, consider removable roof panels for summer
+- **Poor light levels in winter:** Keep glazing clean, use reflective surfaces on the back wall, prune any vegetation that shades the structure
+- **Insect pests:** Screen all vents and doors; introduce beneficial insects (ladybugs, parasitic wasps)
+- **Soil-borne diseases:** Rotate crops, practice good sanitation, avoid overhead watering
+
+## Related Concepts
+
+- [[geodesic-greenhouse-design]] for an above-ground alternative with excellent structural efficiency
+- [[rocket-mass-heater-design]] for a supplementary heating system in very cold climates
+- [[cold-frame-gardening]] for the simplest passive solar growing structure

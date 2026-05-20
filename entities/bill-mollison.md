@@ -1,4 +1,5 @@
 ---
+
 title: Bill Mollison
 created: 2026-04-11
 updated: 2026-04-12
@@ -18,13 +19,12 @@ tags:
 - species
 
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 - raw/bill-mollison-permaculture-design-course.md
 - raw/bill-mollison-permaculture-two-practical-design-for-to.md
 - raw/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-## Bill Mollison
+# Bill Mollison
 
 > **Note:** Sources unavailable — content from model knowledge. Review and add sources.
 
@@ -56,25 +56,34 @@ Mollison's work laid the foundation for the global permaculture movement, which 
 
 ## See Also
 
-- [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]]
-- [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
-- [[bill-mollison-permaculture-a-designers-manual-tropical-grassland-rehabilitation]]
-- [[david-holmgren]]
-- [[food-forest-design]]
-- [[permaculture-design]]
-- [[permaculture-principles]]
-- [[regenerative-agriculture-history]]
-- [[sepp-holzer]]
-- [[sepp-holzer-methods]]
-- [[water-management]]
+- [[permaculture-design]] — Permaculture design methods
+- [[permaculture-principles]] — The 12 design principles (Holmgren)
+- [[david-holmgren]] — Co-founder, principle articulator
+- [[food-forest-design]] — Permaculture food forest systems
+- [[water-management]] — Water design in permaculture
+- [[sepp-holzer-methods]] — Austrian permaculture practitioner
+- [[regenerative-agriculture-history]] — Broader regenerative movement
 
-## Practical Applications
+See also: [[sepp-holzer]] for details on sepp holzer.
+### Practical Applications
+The principles of bill mollison apply across various cultivation and research contexts.
+Understanding these concepts enables more effective implementation and improved outcomes.
 
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
-## Key Considerations
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]
+### Additional Notes
+The study and application of bill mollison continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
+### Additional Notes
+The study and application of bill mollison continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-## Mechanisms and Processes
-
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

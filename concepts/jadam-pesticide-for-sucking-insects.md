@@ -1,4 +1,5 @@
 ---
+
 title: JADAM Pesticide for Sucking Insects
 created: 2026-04-11
 updated: 2026-04-12
@@ -18,7 +19,7 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-## JADAM Pesticide for Sucking Insects
+# JADAM Pesticide for Sucking Insects
 
 Stinkbugs, thrips, whiteflies, leafhoppers, planthoppers, and fruit flies require the strongest JADAM pesticide formulations. These tough-shelled insects resist basic treatments and need high concentrations of [[jadam-wetting-agent-jwa]] combined with potent [[jadam-herb-solution-jhs]] (Korean pasque flower root or gingko).
 
@@ -103,18 +104,3 @@ Adding 0.5kg fine red clay powder increases effectiveness but do NOT exceed JWA 
 - [[jadam-pesticide-for-aphids-and-mites]] -- lighter formulation for aphids and mites
 - [[jadam-natural-pesticide-jnp]] -- complete formulation reference with all combinations
 - [[insect-allies]] -- beneficial predators of sucking insects
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.

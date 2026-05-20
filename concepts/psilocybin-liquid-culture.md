@@ -1,4 +1,5 @@
 ---
+
 title: Psilocybin Liquid Culture and Species Parameters
 created: 2026-04-11
 updated: 2026-04-12
@@ -19,7 +20,7 @@ sources:
 - raw/papers/psilocybin-production-gottlieb.md
 ---
 
-## Psilocybin Liquid Culture and Species Parameters
+# Psilocybin Liquid Culture and Species Parameters
 
 Mycelial liquid culture method, pure culture technique, strain maintenance, and detailed species cultivation parameters for psilocybin-containing mushrooms, from Gottlieb's Psilocybin Producer's Guide (1976).
 
@@ -93,35 +94,5 @@ Gottlieb describes a simple home test: dry and pulverize mushroom sample, extrac
 - [[psilocybin-mushroom-cultivation]] — Species overview, PF TEK, monotub, G2G, light requirements
 - [[psilocybin-fruiting-chambers]] — Fruiting stages, chamber construction, casing, drying
 - [[mushroom-cultivation-basics]] — General agar, spawn, and substrate methods
-- [[mushroom-sterile-technique]] — Modern sterile technique (SAB, flow hood)
+- [[mushroom-sterile-technique-detailed]] — Modern sterile technique (SAB, flow hood)
 - [[psilocybin-mushroom-chemistry]] — Comparative potency data and dosage guidelines
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-Documentation of results enables continuous improvement and knowledge sharing.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-Collaborative networks facilitate rapid dissemination of innovations and best practices.
-
-## Implementation Notes
-Start with small-scale trials before expanding to larger operations.
-Maintain detailed records of conditions, inputs, and outcomes for iterative refinement.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-
-## Practical Applications
-
-Understanding psilocybin liquid culture is essential for practical implementation in the field.
-Researchers and practitioners have developed standardized approaches that balance
-efficiency with safety. Field studies demonstrate consistent results across
-multiple environments and growing conditions.
-
-## Historical Context
-
-Historical development of psilocybin liquid culture spans several decades of research.
-Early experiments established foundational principles that continue to inform
-modern practices. The evolution of understanding has been marked by
-significant breakthroughs in methodology and application.

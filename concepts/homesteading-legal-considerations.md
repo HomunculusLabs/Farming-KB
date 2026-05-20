@@ -1,4 +1,5 @@
 ---
+
 title: Homesteading Legal Considerations
 created: 2026-04-11
 updated: 2026-04-12
@@ -22,7 +23,7 @@ sources:
 note: Composed from model knowledge — web tools were unavailable. Mark for user review.
 ---
 
-## Homesteading Legal Considerations
+# Homesteading Legal Considerations
 
 > Legal framework for homesteading in the United States. This page covers zoning, livestock,
 > water rights, and building permits. See [[selling-farm-products-and-business]] for cottage
@@ -144,3 +145,19 @@ See also [[homesteading-infrastructure]] and [[greenhouse-design]].
 3. **Connect with local farming community**: Practical realities vs. what's on the books
 4. **Document everything**: Permits, licenses, sales, expenses — essential for taxes, insurance, inspections
 5. **Stay current**: Subscribe to your state department of agriculture's newsletter
+6. **Attend local zoning meetings**: Building relationships before you need them
+7. **When in doubt, ask**: Most officials prefer to help you comply than to fine you
+
+## See Also
+
+- [[selling-farm-products-and-business]] — Cottage food laws, business structure, insurance, land access
+- [[homesteading-infrastructure]] — Physical infrastructure planning
+- [[homestead-water-systems]] — Water sourcing, rights, and management
+- [[duck-keeping]] — Duck regulations and management
+- [[goat-keeping]] — Goat keeping, dairy, and regulatory considerations
+- [[dairy-and-cheesemaking]] — Milk processing regulations and licensing
+- [[beekeeping-basics]] — Apiary regulations and registration
+- [[seasonal-planning]] — Annual homesteading calendar
+- [[regenerative-agriculture-history]] — Principles that align with conservation program incentives
+- [[food-forest-design]] — Perennial food systems and land use classification
+- [[humanure-composting]] — Composting toilet regulations and graywater legality

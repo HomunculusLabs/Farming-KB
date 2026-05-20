@@ -102,3 +102,19 @@ Practical experience combined with systematic observation yields the most reliab
 ## Future Directions
 Emerging approaches and technologies offer new opportunities for advancement.
 Collaborative knowledge sharing accelerates progress across related domains.
+## Practical Applications
+
+Understanding aact water quality, chlorine removal, and brewing water standards has direct implications for
+practical work in the field. The principles described here
+can be adapted to various contexts and scales of operation.
+
+Practitioners should consider local conditions, available
+resources, and specific goals when applying these concepts.
+- [[aact-aeration-oxygen-management-ingham]]
+- [[aact-aerobic-vs-anaerobic-brew-comparison-ingham]]
+- [[aact-applications-guide-ingham]]
+- [[aact-bacterial-dominant-tea]]
+- [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]]
+- [[aact-biochar-seawater-charcoal-ingredients-ingham]]
+- [[aact-brew-duration-timing-optimization-ingham]]
+- [[aact-brewer-design-principles-aeration-systems-ingham]]

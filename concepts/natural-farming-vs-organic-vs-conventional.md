@@ -1,4 +1,5 @@
 ---
+
 title: Natural Farming vs Organic vs Conventional
 created: 2026-04-11
 updated: 2026-04-12
@@ -23,7 +24,7 @@ sources:
 - raw/papers/chos-global-natural-farming.md
 ---
 
-## Natural Farming vs Organic vs Conventional
+# Natural Farming vs Organic vs Conventional
 
 Understanding the philosophical and practical differences between three major approaches to growing food. Each represents a fundamentally different relationship with land. See [[natural-farming-fukuoka]] for the Fukuoka method, [[knf-preparations]] for Korean Natural Farming inputs, and [[regenerative-agriculture-history]] for the modern synthesis.
 
@@ -76,71 +77,3 @@ Fukuoka calculated that scientific agriculture requires an energy expenditure pe
 - [[regenerative-agriculture-history]] -- Modern regenerative synthesis
 - [[fukuoka-philosophy-in-practice]] -- Deep philosophy dive
 - [[natural-farming-seed-balls]] -- Seed ball technique
-
-## Overview
-
-Natural Farming Vs Organic Vs Conventional represents an important element within sustainable
-design and ecological management systems. Its proper understanding
-and integration contributes to the resilience and productivity of
-designed ecosystems and agricultural systems.
-
-## Key Characteristics
-
-Several defining characteristics distinguish natural farming vs organic vs conventional
-from related concepts in permaculture and ecological design.
-Understanding these traits supports effective implementation
-and management across diverse environmental conditions.
-
-## Ecological Context
-
-The ecological relationships involving natural extend
-across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
-with this element in complex and beneficial ways.
-
-## Practical Applications
-
-Natural Farming Vs Organic Vs Conventional finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
-beneficial interactions while minimizing external inputs.
-Site-specific adaptation ensures relevance to local conditions.
-
-## Management and Implementation
-
-Effective management requires attention to seasonal patterns
-and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
-Integration with complementary elements enhances system function.
-
-## Regional Considerations
-
-Different geographic regions present unique challenges and
-opportunities for natural farming vs organic vs conventional. Climate adaptation
-strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
-
-## Sustainability
-
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
-
-## Research and Development
-
-Ongoing research continues to expand understanding of
-natural farming vs organic vs conventional and its applications. Active investigation
-areas include ecological interactions and optimization.
-Published findings contribute to an evolving evidence base.
-
-## Historical Context
-
-Natural Farming Vs Organic Vs Conventional has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
-
-## Integration Strategies
-
-Successful integration of natural farming vs organic vs conventional into broader
-systems requires careful planning and observation.

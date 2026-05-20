@@ -1,4 +1,5 @@
 ---
+
 title: Fermented Mixed Compost (FMC) — IMO-Enriched Compost
 created: 2026-04-11
 updated: 2026-04-12
@@ -20,9 +21,9 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-## Fermented Mixed Compost (FMC)
+# Fermented Mixed Compost (FMC)
 
-Fermented Mixed Compost is KNF's signature composting method. It combines IMO-4 (cultivated [[beneficial-indigenous-microorganisms]]) with organic matter and select KNF inputs to create a microbially-rich, nutrient-balanced compost. Unlike traditional composting which relies on ambient microbes, FMC actively inoculates the compost with targeted [[forest-and-bamboo-beneficial-microorganisms]] from your local environment.
+Fermented Mixed Compost is KNF's signature composting method. It combines IMO-4 (cultivated indigenous microorganisms) with organic matter and select KNF inputs to create a microbially-rich, nutrient-balanced compost. Unlike traditional composting which relies on ambient microbes, FMC actively inoculates the compost with targeted beneficial microorganisms from your local environment.
 
 FMC is the bridge between KNF liquid inputs and long-term soil building. While KNF sprays provide immediate nutrition, FMC builds the soil food web infrastructure that sustains plant health between applications.
 
@@ -72,7 +73,7 @@ Cho's comprehensive method with precise layering and nutrient input scheduling.
 | FPJ diluted 1:1000 | 20-30 L | Microbial energy |
 | FAA diluted 1:1000 | 10-20 L | Nitrogen boost |
 | OHN diluted 1:1000 | 10-20 L | Disease prevention |
-| LAB diluted 1:1000 | 10-20 L | [[bionutrients-lab-lactic-acid-bacteria-serum]] boost |
+| LAB diluted 1:1000 | 10-20 L | Lactic acid bacteria boost |
 | Seawater | 3-5 L | Full-spectrum minerals |
 | Water (non-chlorinated) | As needed | Moisture adjustment |
 
@@ -89,7 +90,7 @@ Cho's comprehensive method with precise layering and nutrient input scheduling.
    - Repeat layers until pile reaches 50-70 cm height
    - Top layer: Cover with rice straw or gunny sack
 
-3. **[[cervantes-reservoir-temperature-management]]** (critical):
+3. **Temperature management** (critical):
    - Monitor pile temperature daily
    - Ideal range: 40-60C (104-140F)
    - Below 40C: Too wet or too cold → turn and add dry material
@@ -105,7 +106,7 @@ Cho's comprehensive method with precise layering and nutrient input scheduling.
    - Day 28: Fifth turn (if needed)
    - After each turn: re-cover with straw
 
-5. **[[mushroom-bed-moisture-management]]**:
+5. **Moisture management**:
    - Check moisture at each turn
    - Target: 60-65% throughout process
    - If too dry: spray diluted NF inputs (FPJ, LAB at 1:1000)
@@ -114,7 +115,7 @@ Cho's comprehensive method with precise layering and nutrient input scheduling.
 6. **Curing** (after active composting):
    - When temperature drops to ambient and stays there for 3+ days, active composting is complete
    - Let compost cure for 2-4 weeks in covered pile
-   - Curing allows [[cannabis-rhizosphere-microbial-communities]] to stabilize and phytotoxic compounds to break down
+   - Curing allows microbial communities to stabilize and phytotoxic compounds to break down
 
 **Total time**: 6-8 weeks from start to finished compost
 
@@ -139,8 +140,28 @@ Cho's comprehensive method with precise layering and nutrient input scheduling.
 
 Make FMC between November and March for best results. Cool, dry weather favors fermenting microbes (Aspergillus oryzae, Absida, Mucor, Rhizopus) over bacteria. In summer's heat and humidity, bacteria multiply too fast and outcompete fermenters, causing decay. The first stage of FMC is saccharification — fermenting microbes make sugars unimpeded by bacteria in late fall/winter conditions.
 
+## Material Selection Philosophy
+
+From Cho's recipe book — four principles for choosing FMC ingredients:
+
+1. **Include all four realms**: mountain (fallen leaf or fruit), paddy (rice bran or straw), field (oil dreg, bean dreg, bush clover), and sea (fish waste or seaweed)
+2. **Protein-rich animal materials**: bone meal, fish meal as major ingredients alongside plant materials
+3. **Avoid agricultural by-products** (chemically treated residues)
+4. **Microbe food = human food = plant food**: choose high-quality diverse materials
+
+Good additions: bush clover (with flowers), immature beans, clover at flowering, green tea powder, citron, mountain fruits, flower pollen, seaweed, broccoli, spinach, Japanese mugwort. These provide vitamins (supportive enzymes), minerals, and proteins that enhance disease resistance and crop quality.
+
+## Application and Troubleshooting
+
+For application rates, soil treatment solution (SOS), Carandang's bokashi alternative, and troubleshooting common FMC problems, see [[fmc-application-and-troubleshooting]].
+
 ## See Also
 
-- [[fermented-plant-extract]]
-- [[knf-fermented-plant-juice]]
-- [[comparison-fermented-vegetables-vs-canning]]
+- [[knf-leaf-mold-humus]]
+
+- [[fmc-application-and-troubleshooting]] — Application rates, SOS, troubleshooting
+- [[indigenous-microorganisms-imo]] — IMO collection and cultivation (source of IMO-4)
+- [[knf-preparations]] — KNF liquid inputs (FPJ, FAA, OHN, LAB)
+- [[composting-systems]] — Other composting methods
+- [[bokashi]] — EM-based anaerobic fermentation
+- [[soil-food-web-nutrient-cycling]] — How FMC feeds the soil food web

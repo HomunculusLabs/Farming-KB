@@ -7,7 +7,7 @@ tags: [homesteading, animal-husbandry, processing, food, equipment]
 sources: []
 ---
 
-## Honey Extraction and Processing
+# Honey Extraction and Processing
 
 Extracting honey is the culmination of the beekeeping season. Proper
 technique preserves honey quality, ensures food safety, and maximizes
@@ -140,11 +140,24 @@ high-quality beeswax.
 ### Solar Wax Melter
 A simple insulated box with a glass lid. Sun melts wax, which flows into
 a collection container. Slumgum stays behind on the screen. Excellent
+off-grid method — see [[solar-oven-cooking]] for related solar energy
+principles.
 
-## See Also
+### Uses for Beeswax
+- Candles, lip balm, salves, furniture polish
+- Waxing frames (foundation coating with a wax dip tank)
+- Cheese waxing and food preservation
+- See [[bee-product-medicinal-uses]] for medicinal applications
 
-- [[holzer-beekeeping-and-honey-production]]
-- [[mushroom-infused-honey-preparation]]
-- [[mckenna-food-gods-mead-honey-dionysian]]
-- [[mckenna-honey-mead-dionysian-cult]]
-- [[mckenna-myth-of-glaukos-honey-preservation-mushroom]]
+## Storage
+
+Honey is one of the few foods that never spoils if stored properly.
+
+- **Moisture**: keep below 18.2%; fermented honey tastes sour
+- **Temperature**: 70-80F ideal; refrigeration accelerates crystallization
+- **Container**: airtight; honey is hygroscopic and absorbs moisture
+- **Shelf life**: indefinite; crystallized honey can be gently warmed
+
+For troubleshooting extraction issues, see [[beekeeping-problems-and-solutions]].
+For understanding the varieties you are extracting, see
+[[honey-varieties-guide]].

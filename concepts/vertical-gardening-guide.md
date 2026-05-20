@@ -7,7 +7,7 @@ tags: [gardening, design, construction, permaculture, cultivation]
 sources: []
 ---
 
-## Vertical Gardening Guide
+# Vertical Gardening Guide
 
 Vertical gardening uses trellises, towers, walls, and other structures to grow plants upward, dramatically increasing growing space per square foot of ground. It is essential for [[edible-landscaping]] in small spaces and maximizes light exposure in [[food-forest-design|food forest]] understory layers.
 
@@ -140,10 +140,29 @@ The simplest and cheapest vertical support system, ideal for lightweight climber
 - Space strings 6-12 inches apart
 - Train vines to climb by wrapping tendrils around string
 
+### Best Uses
+- Pole beans (train around strings, they self-climb)
+- Cucumbers (may need help initially)
+- Peas (naturally twine around string)
+- Malabar spinach, climbing nasturtium
+
+### Advantages
+- Extremely low cost (jute twine is biodegradable)
+- No storage needed — compost at season end
+- Adjust spacing and height to any crop
+- Minimal construction skill required
+
+## Vertical Garden Planning Tips
+
+- Place vertical structures on the north side of beds to avoid shading other crops
+- Ensure adequate anchoring — wind can topple tall, heavy structures
+- Plan for easy harvest — can you reach all parts of the structure?
+- Match crop weight to structure strength — melons and heavy squash need rigid support
+- Consider irrigation: vertical gardens dry out faster than ground-level beds
+
 ## See Also
 
-- [[permaculture-plant-stacking-vertical-guilds]]
-- [[coleman-vertical-trellis-growing-greenhouse-tomatoes]]
-- [[coleman-greenhouse-tomato-vertical-growing]]
-- [[urban-rooftop-and-vertical-gardening]]
-- [[comparison-vertical-gardening-vs-container-gardening]]
+- [[container-gardening-guide]]
+- [[edible-landscaping]]
+- [[green-roof-and-living-walls]]
+- [[garden-bed-designs]]

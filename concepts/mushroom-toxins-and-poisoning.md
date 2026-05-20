@@ -1,5 +1,5 @@
 ---
-title: Mushroom Toxins and Poisoning
+title: Mushroom Toxins And Poisoning
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,11 +12,11 @@ sources:
   - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 ---
 
-## Mushroom Toxins and Poisoning
+# Mushroom Toxins and Poisoning
 
 ## Overview
 
-Mushroom poisoning is a serious medical concern that results from ingestion of toxic fungal species. While the vast majority of mushrooms are harmless, a relatively small number of species contain potent toxins that can cause illness ranging from mild gastrointestinal distress to organ failure and death. Understanding the major toxin classes, the species that produce them, and the symptoms they cause is essential for safe [[mushroom-foraging-safety]].
+Mushroom poisoning is a serious medical concern that results from ingestion of toxic fungal species. While the vast majority of mushrooms are harmless, a relatively small number of species contain potent toxins that can cause illness ranging from mild gastrointestinal distress to organ failure and death. Understanding the major toxin classes, the species that produce them, and the symptoms they cause is essential for safe [[mushroom-foraging-safety|mushroom foraging]].
 
 ## Major Toxin Classes
 
@@ -29,7 +29,7 @@ The most dangerous mushroom toxins, responsible for the majority of fatal mushro
 **Species containing amatoxins:**
 - **Amanita phalloides** (death cap): The single most dangerous mushroom. Native to Europe but now established in North America and elsewhere. Responsible for the majority of fatal mushroom poisonings.
 - **Amanita virosa** and **Amanita verna** (destroying angels): North American species containing lethal amatoxin concentrations
-- **Galerina marginata** and other Galerina species: Small brown mushrooms that can be confused with [[psilocybe-genus-classification]] species by recreational mushroom hunters
+- **Galerina marginata** and other Galerina species: Small brown mushrooms that can be confused with [[psilocybe-genus-classification|Psilocybe]] species by recreational mushroom hunters
 - **Lepiota species** (parasol mushrooms): Some species contain amatoxins
 
 **Symptom progression:**
@@ -88,7 +88,7 @@ The long latency period makes orellanine poisoning particularly insidious, as vi
 
 **Chemistry:** Ibotenic acid is a glutamate receptor agonist that acts as a neurotoxin. In the body, it is partially decarboxylated to muscimol, a GABA-A receptor agonist with sedative-hallucinogenic properties.
 
-**Species:** [[amanita-muscaria]] (fly agaric) and Amanita pantherina (panther cap).
+**Species:** [[amanita-muscaria-guide|Amanita muscaria]] (fly agaric) and Amanita pantherina (panther cap).
 
 **Symptoms:** Variable and unpredictable -- agitation, confusion, dizziness, visual distortions, hallucinations, drowsiness, and deep sleep. Effects typically begin 30-60 minutes after ingestion and last 4-8 hours.
 
@@ -96,7 +96,7 @@ The long latency period makes orellanine poisoning particularly insidious, as vi
 
 **Chemistry:** Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) is a prodrug that is dephosphorylated in the body to psilocin, a serotonergic psychedelic (5-HT2A receptor agonist).
 
-**Species:** Primarily [[psilocybe-genus-classification]] species (P. cubensis, P. semilanceata, P. cyanescens) and several other genera (Gymnopilus, Panaeolus, Inocybe).
+**Species:** Primarily [[psilocybe-genus-classification|Psilocybe]] species (P. cubensis, P. semilanceata, P. cyanescens) and several other genera (Gymnopilus, Panaeolus, Inocybe).
 
 **Effects:** Altered perception, visual hallucinations, emotional changes, spiritual experiences. Physiologically safe at typical doses; psychological risks include anxiety, paranoia, and precipitating psychotic episodes in predisposed individuals.
 
@@ -116,20 +116,20 @@ The long latency period makes orellanine poisoning particularly insidious, as vi
 - Positive identification to species level is the only safe approach
 - Multiple features must be considered: cap, gills, stem, ring, volva, spore print color, bruising reactions, habitat, and association
 - When in doubt, do not eat it
-- [[mushroom-identification]] resources and local mycological societies provide essential support
+- [[mushroom-identification|mushroom identification]] resources and local mycological societies provide essential support
 
 ### Particularly Dangerous Look-Alikes
 
-- **Galerina marginata** can closely resemble [[psilocybin-mushroom-identification]] and other "little brown mushrooms" sought by recreational foragers
+- **Galerina marginata** can closely resemble [[psilocybin-mushroom-identification-guide|Psilocybe cyanescens]] and other "little brown mushrooms" sought by recreational foragers
 - **Conocybe species** on lawns are both poisonous and hallucinogenic, a dangerous combination
-- **Amanita phalloides** juvenile buttons can be mistaken for [[agaricus-species-guide]] (field mushrooms) or puffball species by inexperienced foragers
+- **Amanita phalloides** juvenile buttons can be mistaken for [[agaricus-species-guide|Agaricus]] (field mushrooms) or puffball species by inexperienced foragers
 
 ## See Also
 
-- [[mushroom-poisoning-guide]]
-- [[mushroom-foraging-safety]]
-- [[fungal-toxins-reference]]
-- [[ramsbottom-poisonous-fungi-species]]
+- [[mushroom-poisoning-guide|mushroom poisoning guide]]
+- [[mushroom-foraging-safety|foraging safety]]
+- [[fungal-toxins-reference|fungal toxins reference]]
+- [[ramsbottom-poisonous-fungi-species|poisonous fungi species]]
 
 ## Related
 

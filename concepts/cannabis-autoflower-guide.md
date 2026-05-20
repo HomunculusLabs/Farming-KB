@@ -7,11 +7,11 @@ tags: [cannabis, beginner, plants, species-profiles, genetics, cultivation, time
 sources: []
 ---
 
-## Cannabis Autoflower Guide
+# Cannabis Autoflower Guide
 
 ## Overview
 
-[[autoflowering-cannabis]] strains automatically transition from vegetative growth to flowering based on age rather than light cycle. This trait comes from [[cannabis-ruderalis]], a subspecies that evolved in extreme northern latitudes with very short [[jeavons-climate-adaptation-growing-seasons]]. Incorporating ruderalis genetics into [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] lines has created a category of fast-finishing, low-maintenance plants popular with both beginners and experienced growers.
+Autoflowering cannabis strains automatically transition from vegetative growth to flowering based on age rather than light cycle. This trait comes from Cannabis ruderalis, a subspecies that evolved in extreme northern latitudes with very short growing seasons. Incorporating ruderalis genetics into [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] lines has created a category of fast-finishing, low-maintenance plants popular with both beginners and experienced growers.
 
 ## Ruderalis Genetics
 
@@ -76,7 +76,7 @@ Most autoflowers stay under 3 feet tall, making them ideal for:
 - Small grow spaces and closets
 - Stealth growing
 - Balcony and patio cultivation
-- SOG ([[sea-of-green]]) setups with many small plants
+- SOG (Sea of Green) setups with many small plants
 
 ### Hardiness
 
@@ -99,7 +99,7 @@ Autoflowers typically produce 1-4 ounces per plant, compared to 4-16+ ounces for
 
 ### Reduced Training Options
 
-Autoflowers have a limited recovery window due to their fixed life cycle. High-stress training (HST) techniques like [[query-what-is-the-difference-between-topping-and-fimming-cannabis]] can stall growth and reduce yield. Recommended [[mckenna-shamanic-identification-signs-and-training-methods]] include:
+Autoflowers have a limited recovery window due to their fixed life cycle. High-stress training (HST) techniques like topping and fimming can stall growth and reduce yield. Recommended training methods include:
 
 - Low-stress training (LST) — gentle bending and tying
 - Defoliation (light, conservative)
@@ -124,7 +124,7 @@ Early autoflowers had significantly lower THC than photoperiod strains. Modern b
 
 - **Gorilla Glue Auto:** 20-25% THC, resin-heavy indica-dominant
 - **Amnesia Haze Auto:** 20-22% THC, sativa-dominant with cerebral effects
-- **[[girl-scout-cookies]] Auto:** 21-25% THC, balanced hybrid effects
+- **Girl Scout Cookies Auto:** 21-25% THC, balanced hybrid effects
 - **Bruce Banner Auto:** 22-26% THC, potent and fast-finishing
 
 ### High-CBD Autoflowers
@@ -147,3 +147,39 @@ Early autoflowers had significantly lower THC than photoperiod strains. Modern b
 Direct sowing is preferred over starting in small pots. Autoflowers do not handle transplanting well due to their short life cycle. Plant seeds directly in their final container (3-5 gallon fabric pots are common).
 
 ### Light Schedule
+
+18/6 is the most widely recommended schedule. Some growers use 20/4 for slightly faster growth. Avoid 24/0 as plants benefit from a dark period for metabolic processes.
+
+### Nutrient Requirements
+
+Autoflowers are lighter feeders than photoperiod plants:
+
+- Start with half-strength nutrients
+- Use calmag supplements (autoflowers are sensitive to calcium/magnesium deficiency)
+- Reduce feeding during flowering compared to photoperiod schedules
+- [[cannabis-living-soil-guide|Living soil]] is an excellent approach — it provides gentle, steady nutrition without risk of burn
+
+### Watering
+
+Overwatering is the most common mistake with autoflowers. Allow the top inch of soil to dry between waterings. Their smaller root systems are more sensitive to waterlogged conditions.
+
+### Temperature and Humidity
+
+Optimal ranges:
+- Vegetative: 70-85F, 50-70% humidity
+- Flowering: 65-80F, 40-50% humidity
+- Avoid temperatures below 60F during early growth
+
+## Autoflowers and Living Soil
+
+[[cannabis-living-soil-guide|Living soil]] systems are particularly well-suited for autoflowers because:
+
+- Slow, steady nutrient release matches autoflower needs
+- No risk of nutrient burn from concentrated liquid feeds
+- Beneficial microbes support the fast-paced life cycle
+- No-till approaches reduce plant stress from disturbance
+- Organic growing enhances terpene production and flavor
+
+## Related
+
+- [[cannabis-seed-germination]]

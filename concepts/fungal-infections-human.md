@@ -7,7 +7,7 @@ tags: [mycology, fungi, health, medicine, biology, safety, species, pathogens]
 sources: []
 ---
 
-## Fungal Infections in Humans
+# Fungal Infections in Humans
 
 ## Overview
 
@@ -141,10 +141,34 @@ Caused by Pneumocystis jirovecii (formerly P. carinii), now classified as a fung
 
 **Risk factors**: HIV/AIDS (CD4 < 200), primary immunodeficiencies, organ transplantation, chemotherapy, chronic corticosteroid use.
 
-## See Also
+**Clinical features**: Subacute onset of fever, non-productive cough, progressive dyspnea. Chest X-ray shows bilateral interstitial infiltrates; may be normal early. Elevated serum LDH.
 
-- [[fungi-in-the-environment-fungal-ecosystems]]
-- [[fungal-amber-fossils]]
-- [[singh-fungal-pellet-formation-bioremediation]]
-- [[dark-septate-endophytes]]
-- [[fungal-pathogens-human-disease]]
+**Treatment**:
+- **Trimethoprim-sulfamethoxazole (TMP-SMX)**: First-line; both treatment and prophylaxis
+- **Alternatives**: Atovaquone, clindamycin-primaquine, pentamidine, caspofungin
+
+### Endemic Mycoses
+
+Geographically restricted systemic mycoses:
+
+- **Histoplasmosis** (Histoplasma capsulatum): Endemic in Ohio and Mississippi River valleys, Central and South America. Found in bat guano and bird droppings. Acute pulmonary infection; can disseminate in immunocompromised patients
+- **Coccidioidomycosis** (Valley Fever; Coccidioides immitis, C. posadasii): Endemic in southwestern US, northern Mexico, parts of Central and South America. Desert soil fungus. Often self-limited pneumonia; can disseminate (meningitis, bone, skin)
+- **Blastomycosis** (Blastomyces dermatitidis): Endemic in Mississippi and Ohio River valleys, Great Lakes region. Acute or chronic pulmonary disease; can disseminate to skin, bone, genitourinary tract
+- **Talaromycosis** (Penicilliosis; Talaromyces marneffei): Endemic in Southeast Asia. Opportunistic infection in HIV/AIDS patients. Fever, skin lesions, generalized lymphadenopathy
+
+## Antifungal Drug Classes
+
+| Class | Examples | Mechanism | Spectrum |
+|-------|---------|-----------|----------|
+| Polyenes | Amphotericin B | Binds ergosterol, forms membrane pores | Broad (yeasts, molds, some dimorphic) |
+| Azoles | Fluconazole, Itraconazole, Voriconazole, Posaconazole, Isavuconazole | Inhibit ergosterol synthesis (lanosterol 14α-demethylase) | Broad, species-dependent |
+| Echinocandins | Caspofungin, Micafungin, Anidulafungin | Inhibit β-1,3-glucan synthase | Candida, Aspergillus (not Cryptococcus or Mucorales) |
+| Flucytosine | Flucytosine | Inhibits DNA/RNA synthesis (pyrimidine analog) | Candida, Cryptococcus (used in combination) |
+| Terbinafine | Terbinafine | Inhibits squalene epoxidase | Dermatophytes (primarily) |
+
+See [[fungal-toxins-reference]] for poisoning from toxic mushrooms and [[fungal-antibiotics]] for antifungal compounds derived from fungi.
+
+## Related
+
+- [[fungal-allergies]]
+- [[fungal-vaccines]]

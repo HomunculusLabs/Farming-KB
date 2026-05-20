@@ -14,7 +14,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-## Fungicolous Fungi
+# Fungicolous Fungi
 
 Fungicolous fungi are fungi that are associated with other fungi — as parasites, hyperparasites, commensals, or saprotrophs on fungal tissue. They represent a fascinating but often overlooked component of fungal biodiversity, with implications for biocontrol, fungal ecology, and plant pathology.
 
@@ -140,11 +140,30 @@ The term "fungicolous" encompasses all fungi that grow on or within other fungi.
 
 ### Medicine
 - Fungicolous fungi are sources of antifungal antibiotics
+- Understanding mycoparasitism may lead to new antifungal drugs
+- Competition between fungi in human body (e.g., oral cavity, gut) involves fungicolous interactions
 
-## See Also
+## Collection and Study
 
-- [[fungicolous-fungi-parasitic-interfaces]]
-- [[fungicolous-fungi-spores-sclerotia-oospores]]
-- [[fungicolous-fungi-parasites-associates]]
-- [[fungicolous-mycophilic-fungi-biodiversity-mycoparasitism]]
-- [[biodiversity-fungicolous-mycoparasitic-fungi]]
+- Collect diseased or abnormal fungal fruiting bodies
+- Observe fungal specimens for overgrowth, discoloration, or deformity caused by parasites
+- Isolate fungicolous fungi from surface-sterilized fungal tissue
+- Hypomyces Fruiting Agar (HFA) stimulates perithecia of Hypomyces
+- Pairing cultures of suspected mycoparasite with potential hosts on agar
+
+## Research Needs
+
+- Many fungicolous species remain undescribed
+- Molecular tools revealing previously unknown diversity
+- Metagenomic surveys of fungal communities detecting fungicolous interactions
+- Co-evolutionary dynamics between hosts and parasites poorly understood
+- Climate change effects on fungicolous relationships unknown
+
+## Related Topics
+
+- [[fungal-bacterial-interactions]] — Fungal interactions with bacteria
+- [[fungal-plant-diseases]] — Plant pathogenic fungi
+- [[mycopesticides]] — Fungal-based pest control
+- [[fungal-parasites]] — Fungal parasites
+- [[fungal-ecology]] — Fungal ecology overview
+- [[mushroom-contamination-identification]] — Contamination in cultivation

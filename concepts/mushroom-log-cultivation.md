@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Log Cultivation
 created: 2026-04-11
 updated: 2026-04-12
@@ -20,9 +21,9 @@ sources:
 - raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md
 ---
 
-## Mushroom Log Cultivation
+# Mushroom Log Cultivation
 
-Growing mushrooms on freshly cut hardwood logs -- a low-tech, sustainable method that mimics natural wood decomposition. Yields gourmet and [[anti-cancer-polysaccharides-from-medicinal-mushrooms]] over multiple years with minimal infrastructure.
+Growing mushrooms on freshly cut hardwood logs -- a low-tech, sustainable method that mimics natural wood decomposition. Yields gourmet and medicinal mushrooms over multiple years with minimal infrastructure.
 
 ## Log Selection
 
@@ -31,7 +32,7 @@ Best species for log cultivation are dense hardwoods with intact bark:
 - **Oak** (Quercus spp.) -- gold standard for shiitake; long-lasting, slow decay
 - **Maple** (Acer spp.) -- good for oyster, shiitake, and lion's mane
 - **Beech** (Fagus spp.) -- excellent for shiitake and maitake
-- **Sweetgum** ([[liquidambar-styraciflua]]) -- suitable for oyster species
+- **Sweetgum** (Liquidambar styraciflua) -- suitable for oyster species
 - Other options: alder, poplar, cottonwood, ironwood, birch
 
 Avoid conifers (resin inhibits mycelium), dead/dying trees (competing fungi already established), and species with paper-thin bark (rapid decomposition). Logs should be 4-8 inches diameter and 3-4 feet long.
@@ -69,7 +70,7 @@ Cut logs during dormancy (late fall through early spring, ideally Dec-March). Sa
 
 - **Soaking (force fruiting):** Submerge colonized logs in cold water for 12-24 hours, then rest in shade. Japanese growers call this "soak and strike." Triggers fruiting by simulating rainfall + temperature drop
 - **Natural fruiting:** Occurs in response to seasonal rain, temperature shifts (especially fall), and humidity changes
-- Maitake forms primordia in enclosed bags, requiring bag opening for [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
+- Maitake forms primordia in enclosed bags, requiring bag opening for fruiting body development
 
 ## Species by Log Type
 
@@ -90,8 +91,8 @@ Cut logs during dormancy (late fall through early spring, ideally Dec-March). Sa
 
 ## Synthetic Log Cultivation (Indoor)
 
-[[oyster-mushroom-supplemented-sawdust-blocks]] in filter bags provide faster turnaround than natural logs:
-- 75-80% [[hardwood-sawdust-substrate]] (fine + coarse 3:1), 18-23% wheat bran, 1% sucrose, 1% lime/gypsum
+Supplemented sawdust blocks in filter bags provide faster turnaround than natural logs:
+- 75-80% hardwood sawdust (fine + coarse 3:1), 18-23% wheat bran, 1% sucrose, 1% lime/gypsum
 - Moisture content 60-63%, pH 5.5-6.5
 - Sterilized, inoculated, incubated at 20-25C, fruited at lower temperatures
 - See [[mushroom-substrates]] for detailed substrate formulations
@@ -101,20 +102,3 @@ Cut logs during dormancy (late fall through early spring, ideally Dec-March). Sa
 - [[mushroom-cultivation-basics]] -- Stamets' 10-step process overview
 - [[mushroom-species-guide]] -- Species-specific parameters and difficulty ratings
 - [[fungal-decomposition]] -- Wood decay ecology behind log cultivation
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

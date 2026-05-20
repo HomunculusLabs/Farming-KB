@@ -7,7 +7,7 @@ tags: [chemistry, pharmacology, psychopharmacology, neuroscience, biochemistry, 
 sources: []
 ---
 
-## N,N-Dimethyltryptamine (DMT) Reference
+# N,N-Dimethyltryptamine (DMT) Reference
 
 ## Overview
 
@@ -141,10 +141,41 @@ DMT is primarily a serotonin (5-HT) receptor agonist:
 
 **Smoked/Vaporized (Freebase)**: Threshold 2-5 mg, Light 10-20 mg, Moderate 20-40 mg, Strong 40-60 mg, Breakthrough 60-100+ mg.
 
+**Oral (Ayahuasca)**: Typical ceremonial dose 50-100 mg DMT with 50-150 mg harmine/harmaline. Effects depend heavily on MAOI dose and individual MAO activity.
+
+## Safety
+
+### Physical Safety
+
+- DMT has very low toxicity; no known lethal dose in humans
+- Primary risks are psychological, not physiological
+- Avoid with cardiovascular conditions (transient BP/HR increase)
+- Avoid with personal/family history of psychosis
+- Serotonin syndrome risk with SSRIs or other serotonergic drugs
+
+### Psychological Safety
+
+- Set and setting are critical for safe experiences
+- Integration support recommended after intense experiences
+- Contraindicated for schizophrenia, bipolar, or psychotic disorders
+- "Bad trips" can occur — preparation and a trusted guide reduce risk
+
+### Legal Status
+
+- Schedule I in the United States (illegal to possess, manufacture, or distribute)
+- Controlled substance in most countries worldwide
+- Ayahuasca legally protected for religious use in some jurisdictions (Brazil, Peru, certain US exemptions)
+- DMT-containing plants have varying legal status depending on preparation and intent
+
+## Clinical Research
+
+- Ongoing research at institutions including Johns Hopkins, Imperial College London, and Usona Institute
+- Investigating DMT for treatment-resistant depression, anxiety related to life-threatening illness, and substance use disorders
+- Ayahuasca research for depression, PTSD, and addiction
+- Neuroscience studies of brain mechanisms (default mode network disruption, increased global connectivity)
+
 ## See Also
 
-- [[cover-crop-quick-reference]]
-- [[seed-starting-reference]]
-- [[cactus-alkaloids-reference]]
-- [[ketamine-reference]]
-- [[lsd-reference]]
+- [[bioluminescent-fungi]] — Fungal chemistry and ecology
+- [[fungal-symbiosis-types]] — Natural compounds in fungal relationships
+- [[mushroom-taxonomy-history]] — Classification of psychoactive fungi

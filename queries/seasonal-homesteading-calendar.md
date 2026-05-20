@@ -1,4 +1,5 @@
 ---
+
 title: Seasonal Homesteading Calendar
 created: 2026-04-12
 updated: 2026-04-12
@@ -28,7 +29,7 @@ sources:
 - concepts/composting-systems.md
 ---
 
-## Seasonal Homesteading Calendar
+# Seasonal Homesteading Calendar
 
 Month-by-month task list for temperate climate zones 5-7. Last frost ~April 5-15, first frost ~October 25-November 5, growing season 180-210 days. Adapt dates for your specific zone. See [[seasonal-planning]] for the cannabis-integrated version and [[homesteading]] for planning priorities.
 

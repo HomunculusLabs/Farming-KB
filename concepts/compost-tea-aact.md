@@ -1,4 +1,5 @@
 ---
+
 title: Compost Tea (AACT) — Actively Aerated Compost Tea
 created: 2026-04-10
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
 - raw/papers/lowenfels-teaming-with-microbes.md
 ---
 
-## Compost Tea (AACT) — Actively Aerated Compost Tea
+# Compost Tea (AACT) — Actively Aerated Compost Tea
 
 AACT is a liquid extract of compost, actively aerated to multiply beneficial microorganisms. Developed by Dr. Elaine Ingham, it's used to restore and boost the [[soil-food-web-nutrient-cycling]] in soils and on plant surfaces. AACT is NOT the same as anaerobic compost tea or leachate — it must be aerated.
 
@@ -102,25 +103,9 @@ The quality of your AACT depends entirely on the compost:
 
 ## See Also
 
-- [[compost-tea-application-methods-and-rates]]
-- [[compost-tea-definitions-and-classification]]
-- [[compost-tea-disease-suppression-mechanisms]]
-- [[compost-tea-recipes-and-ratios]]
-- [[compost-tea-specific-disease-management]]
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
-Collaborative networks and knowledge sharing accelerate progress in this field.
-Emerging technologies offer new tools for analysis and implementation.
-Local adaptation and context-specific strategies remain essential for success.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
+- [[soil-food-web-nutrient-cycling]] — the organisms AACT delivers
+- [[vermicomposting]] — worm castings as AACT ingredient
+- [[mycorrhizal-fungi]] — add spores to AACT for mycorrhizal inoculation
+- [[effective-microorganisms-em]] — EM as alternative inoculant
+- [[knf-preparations]] — KNF fermented inputs vs. AACT approach
+- [[cannabis-living-soil-guide]] — AACT in living soil cannabis

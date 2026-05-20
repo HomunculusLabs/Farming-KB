@@ -42,7 +42,7 @@ Solomon positions humanure as part of a [[soil-fertility-gradient-approach]] to 
 
 ## See Also
 
-- [[complete-organic-fertilizer]] (COF)
+- [[complete-organic-fertilizer-cof]] (COF)
 - Composting
 - [[soil-fertility-management]]
 - [[steer-manure]]

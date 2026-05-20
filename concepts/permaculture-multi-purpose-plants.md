@@ -1,5 +1,5 @@
 ---
-title: Permaculture Multi-Purpose Plants
+title: Permaculture Multi Purpose Plants
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,11 +12,11 @@ tags:
   - moringa
   - polyculture
 sources:
-  - "raw/papers/gaias-garden-toby-hemenway.md"
+  - raw/papers/gaias-garden-toby-hemenway.md
   - raw/papers/a-selection-permaculture-plants.md
 ---
 
-## Permaculture Multi-Purpose Plants
+# Permaculture Multi-Purpose Plants
 
 Multi-purpose plants are species that perform many different functions in a permaculture system. The permaculture principle of "each element performing multiple functions" is best embodied by these plants. Rather than growing many single-purpose species, permaculture designers select plants that stack functions -- producing food, building soil, providing habitat, yielding materials, and offering medicine all from the same plant. Hemenway calls comfrey "the winner in the multifunctional sweepstakes."
 
@@ -115,10 +115,6 @@ When choosing plants for a design, evaluate each candidate against the following
 - [[permaculture-dynamic-accumulator-plants]]
 - [[permaculture-nitrogen-fixing-trees]]
 - permaculture-useful-plants-reference
-- [[permaculture-plant-selection]]
+- [[permaculture-plant-selection-guide]]
 - [[comfrey-plant-guide]]
 - [[bamboo-species-guide]]
-
-## Practical Considerations
-
-Understanding the practical applications of this topic requires considering both theoretical frameworks and real-world implementation challenges.

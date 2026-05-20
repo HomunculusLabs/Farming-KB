@@ -76,7 +76,7 @@ Both are "horse manure." Both are free or cheap. One grows food; the other barel
 Given the unpredictability of manure quality, Solomon recommends:
 
 1. **Use only the minimum amount of manure necessary** to supply the soil ecology's requirement for organic matter
-2. **Rely on COF ([[complete-organic-fertilizer]])** for the plants' mineral [[cannabis-soil-and-nutrient-requirements]]
+2. **Rely on COF ([[complete-organic-fertilizer-cof]])** for the plants' mineral [[cannabis-soil-and-nutrient-requirements]]
 3. **Do not assume manure provides balanced nutrition** — it almost certainly does not
 4. **If you must rely primarily on manure**, get it from the best possible source: animals fed premium diets with known supplements
 

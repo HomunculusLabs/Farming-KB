@@ -1,38 +1,38 @@
 ---
-title: Knf Fermented Fruit Juice
+title: KNF Fermented Fruit Juice
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [knf, fermentation, fertilizer]
 sources:
-  - "raw/papers/master-cho-knf-recipe-book.md"
+  - raw/papers/master-cho-knf-recipe-book.md
   - raw/papers/chos-global-natural-farming.md
 ---
 
-## KNF Fermented Fruit Juice (FFJ)
+# KNF Fermented Fruit Juice (FFJ)
 
-Fermented Fruit Juice is made by extracting plant juice using [[fungal-fruiting-body-mechanics-osmotic-pressure]] from brown sugar. FFJ provides hormones, nutrients, enzymes, and bio-active substances to plants and microorganisms.
+Fermented Fruit Juice is made by extracting plant juice using osmotic pressure from brown sugar. FFJ provides hormones, nutrients, enzymes, and bio-active substances to plants and microorganisms.
 
 ## Purpose and Effects
 
 - Promotes plant growth through bio-active substances and natural hormones
 - Enzymes in FFJ help manufacturing of nutrients for plant growth
 - Supports microorganisms in the soil
-- Different fruits provide different benefits based on their [[extending-growing-season]]
+- Different fruits provide different benefits based on their growing season
 
 ## Selecting Fruits
 
-Choose fruits appropriate to the plant's [[cannabis-growth-stage-checklist]]:
+Choose fruits appropriate to the plant's growth stage:
 
 | Season | Recommended Fruits |
 |--------|-------------------|
-| Spring ([[mushroom-growing-period-and-crop-management]]) | Mulberry, strawberry, grape, raspberry, apple |
+| Spring (growing period) | Mulberry, strawberry, grape, raspberry, apple |
 | Summer (fast growth) | Cherry, tomato, apricot, peach, persimmon, watermelon |
 | Autumn (flowering/fruiting) | Mango, banana, apple, grape, pineapple, papaya |
 
 - Banana peel FFJ: very effective for fruiting/flowering plants
 - Tomato FFJ: good for leafy growth
-- Mango FFJ: excellent for [[cannabis-flowering-stage]]
+- Mango FFJ: excellent for flowering stage
 - Papaya FFJ: contains lots of enzymes
 
 ## Best Time to Pick
@@ -91,30 +91,3 @@ Choose fruits appropriate to the plant's [[cannabis-growth-stage-checklist]]:
 - [[knf-fish-amino-acid]]
 - [[jadam-fermented-plant-juice]]
 - [[knf-oriental-herbal-nutrient]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.

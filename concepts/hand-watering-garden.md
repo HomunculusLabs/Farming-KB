@@ -7,13 +7,13 @@ tags: [gardening, water, water-management, techniques, vegetables, beginner]
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-## Hand Watering the Garden
+# Hand Watering the Garden
 
-Techniques for watering gardens with a hose and nozzle or watering can, as described in [[steve-solomon]]'s *Gardening When It Counts*. Solomon notes that before 1880, over 90% of all vegetable gardens were grown without running water at all.
+Techniques for watering gardens with a hose and nozzle or watering can, as described in Steve Solomon's *Gardening When It Counts*. Solomon notes that before 1880, over 90% of all vegetable gardens were grown without running water at all.
 
 ## The Fan Nozzle Method
 
-Many gardeners wet down their gardens almost daily with a hose and fan nozzle. [[john-jeavons]] recommends this method:
+Many gardeners wet down their gardens almost daily with a hose and fan nozzle. John Jeavons recommends this method:
 
 1. **Water daily** with a fan nozzle, continuing on each bed until the entire surface sparkles (becomes shiny wet)
 2. **The sparkle test**: The sparkling results from water that has not yet flowed into the bed beading up on the surface. The shine lasts only briefly initially, but as deeper soil becomes saturated, it lasts longer
@@ -74,45 +74,6 @@ The basic plan:
 
 All soils lose water at about the same rate through evapotranspiration, regardless of soil texture. It is not the sun shining on the earth that dries soil out; it is the sun evaporating moisture from plants' leaves.
 
-## Mechanisms and Processes
-
-The systems involved in hand watering garden operate through interconnected biological and ecological pathways. Understanding these mechanisms is essential for effective implementation and optimization of related practices.
-
-## Practical Applications
-
-Practical implementation of hand watering garden varies by context, scale, and local conditions. Key considerations include site assessment, resource availability, and integration with existing systems.
-
-## Research and Evidence
-
-Contemporary research continues to explore the underlying principles and effectiveness of hand watering garden. Studies range from controlled laboratory experiments to long-term field observations, contributing to an evolving understanding of best practices.
-
-## Limitations and Considerations
-
-Several limitations and considerations apply to hand watering garden. These include environmental constraints, scalability challenges, and potential interactions with other systems. Practitioners should evaluate local conditions and adapt approaches accordingly.
-
-## Future Directions
-
-Emerging research and technological advances continue to shape the understanding and application of hand watering garden. Areas of active investigation include improved methodologies, integration with complementary approaches, and long-term sustainability assessments.
-
-## Key Principles
-
-The core principles underlying hand watering garden emphasize working with natural systems rather than against them. Understanding these foundational concepts enables practitioners to adapt techniques to diverse conditions while maintaining ecological integrity and long-term productivity.
-
-## Comparative Analysis
-
-Comparative evaluation of hand watering garden alongside alternative approaches reveals distinct advantages and trade-offs. Factors such as resource efficiency, scalability, environmental impact, and practical feasibility all inform the selection of appropriate methods for specific contexts.
-
-## Integration Strategies
-
-Effective integration of hand watering garden requires careful planning and adaptive management. Successful approaches combine theoretical knowledge with hands-on observation and iterative refinement based on site-specific feedback.
-
-## See Also
-
-- [[permaculture-design-principles]]
-- [[permaculture-zones]]
-- [[permaculture-guilds]]
-- [[food-forest-design]]
-- [[permaculture-ethics]]
 ## Related
 
 - [[irrigation-systems]] — Sprinkler systems and fertigation

@@ -4,7 +4,7 @@ created: 2026-04-10
 updated: 2026-04-18
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 Fungi occupy virtually every environmental niche on Earth, including some of the most extreme habitats where temperatures, pH, salinity, water availability, or radiation levels would preclude most other life forms. The study of fungi in extreme environments — extremotolerant and extremophilic fungi — has revealed remarkable physiological adaptations and has practical implications for biotechnology, astrobiology, and environmental management. These organisms challenge our understanding of the limits of eukaryotic life and provide models for how fungi might respond to [[query-how-do-fungi-contribute-to-carbon-sequestration]] to the thermophilic phase of composting, where temperatures of 50-70°C accelerate the decomposition of [[fungi-in-the-environment-extremophilic-fungi]]
 

@@ -1,4 +1,5 @@
 ---
+
 title: Fungal Decomposition
 created: 2026-04-11
 updated: 2026-04-12
@@ -22,7 +23,7 @@ sources:
 - raw/papers/staycare-mngmt-fungi-in-bioremediation.md
 ---
 
-## Fungal Decomposition
+# Fungal Decomposition
 
 Fungi are the primary decomposers of lignocellulosic material in terrestrial ecosystems. Their ability to break down the structural polymers of wood — cellulose, hemicellulose, and lignin — underpins nutrient cycling, soil formation, and carbon sequestration worldwide.
 
@@ -109,13 +110,3 @@ Fungi are fundamental to pedogenesis (soil formation):
 - [[mushroom-composting-and-recycling]]
 - [[mycorrhizal-fungi]]
 - [[mushroom-species-guide]]
-
-## See Also
-
-- [[fungal-decomposition-ecosystem-processes]]
-- [[fungal-decomposition-in-aquatic-ecosystems-concluding-perspectives]]
-- [[fungal-decomposition-mycorrhizal-types]]
-## Further Reading
-Continued research and field trials yield new insights into this subject.
-
-These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

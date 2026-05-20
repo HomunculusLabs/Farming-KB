@@ -141,10 +141,29 @@ Not technically drying, but freezing preserves herbs well for culinary use.
 
 ## Labeling
 
+Every container should be labeled with:
+- Herb name (common and botanical if desired)
+- Date dried or packaged
+- Source (garden location, purchased, wild-harvested)
+- Any notes on variety or use
+
+A simple label system prevents the common problem of unidentifiable dried herbs in the back of the pantry.
+
+## Herb-Specific Notes
+
+- Basil: air drying causes blackening; use a dehydrator at 95F or freeze instead
+- Mint: dries well by air; retains good flavor
+- Rosemary: very low moisture; air dries easily; retains flavor for years
+- Thyme: small leaves dry fast; strip from woody stems after drying
+- Sage: sturdy, air dries well; strong flavor persists
+- Oregano: air dries beautifully; flavor intensifies when dried
+- Cilantro: loses much flavor when dried; freeze instead
+- Chives: freeze for best flavor retention
+- Lavender: dry flower heads on screens; use in sachets and cooking
+- Chamomile: dry flowers on screens; store in dark containers to preserve color
+
 ## See Also
 
-- [[emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-potency-variability-2006]]
-- [[medicinal-herb-growing]]
-- [[herb-spiral-microclimate-design]]
-- [[herb-spiral-construction]]
-- [[herb-gardening-organic-hamilton]]
+- [[granola-making]] — using dried herbs in homemade granola
+- [[pickle-making]] — herbs as aromatics in pickling
+- [[jerky-making]] — dried herbs in jerky marinades

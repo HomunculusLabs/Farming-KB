@@ -7,7 +7,7 @@ tags: [homesteading, water, soil, climate, permaculture, sustainability]
 sources: []
 ---
 
-## Land Selection for Homesteading
+# Land Selection for Homesteading
 
 Choosing the right parcel of land is the most consequential decision a homesteader makes. Mistakes in land selection are expensive or impossible to correct. This guide covers the critical factors to evaluate before purchasing.
 

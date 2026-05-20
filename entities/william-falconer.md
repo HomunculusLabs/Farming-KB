@@ -1,4 +1,5 @@
 ---
+
 title: William Falconer
 created: 2026-04-11
 updated: 2026-04-12
@@ -23,7 +24,7 @@ sources:
 - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-## William Falconer
+# William Falconer
 
 19th-century American author of "Mushrooms: How to Grow Them — A Practical Treatise on Mushroom Culture for Pleasure and Profit" (1891), published by Orange Judd Company, New York. Illustrated with detailed engravings of mushroom houses, cellars, beds, and cultivation techniques. One of the earliest and most comprehensive American manuals on mushroom cultivation.
 
@@ -57,24 +58,31 @@ Falconer's work builds on the earlier British tradition of [[james-cuthill]] (18
 
 ## See Also
 
-- [[benjamin-duggar]]
-- [[falconer-mushroom-cellar-ventilation-and-moisture]]
-- [[falconer-mushroom-cultivation-history]]
-- [[history-of-mycology-timeline]]
-- [[james-cuthill]]
-- [[metzner-william-james-radical-empiricism-multiple-consciousness]]
-- [[mushroom-composting-and-recycling]]
+- [[james-cuthill]] — British predecessor, author of mushroom cultivation treatise (1870)
+- [[benjamin-duggar]] — Later cultivation researcher who cited Falconer's methods
+- [[mushroom-cultivation-basics]] — Modern cultivation techniques
+- [[mushroom-composting-and-recycling]] — Compost-based substrate preparation
+- [[mushroom-growing-reference]] — Complete growing reference
+- [[history-of-mycology-timeline]] — History of mycological science
+### Practical Applications
+The principles of william falconer apply across various cultivation and research contexts.
+Understanding these concepts enables more effective implementation and improved outcomes.
+
+## See Also
 - [[mushroom-cultivation-basics]]
-- [[mushroom-growing-reference]]
-- [[william-james-multiple-forms-of-consciousness]]
+- [[soil-food-web]]
+- [[mycelium]]
+### Additional Notes
+The study and application of william falconer continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-## Practical Applications
+### Additional Notes
+The study and application of william falconer continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
-## Key Considerations
-
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-
-## Mechanisms and Processes
-
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

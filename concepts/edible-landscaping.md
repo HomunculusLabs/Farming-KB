@@ -7,13 +7,13 @@ tags: [permaculture, gardening, food-forest, design, plants, cultivation]
 sources: []
 ---
 
-## Edible Landscaping
+# Edible Landscaping
 
-Edible landscaping replaces or supplements ornamental plants with food-producing species while maintaining aesthetic appeal. It integrates [[permaculture-design]] design principles with traditional landscape architecture, creating productive spaces that look intentional and beautiful.
+Edible landscaping replaces or supplements ornamental plants with food-producing species while maintaining aesthetic appeal. It integrates [[permaculture-design|permaculture]] design principles with traditional landscape architecture, creating productive spaces that look intentional and beautiful.
 
 ## Core Design Principles
 
-- **Function meets form**: Every plant should serve at least two purposes — food production plus beauty, shade, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], or [[hemenway-backyard-wildlife-habitat]]
+- **Function meets form**: Every plant should serve at least two purposes — food production plus beauty, shade, erosion control, or wildlife habitat
 - **Right plant, right place**: Match species to site conditions (sun, soil, moisture, hardiness zone)
 - **Layer vertically**: Use canopy trees, understory shrubs, herbaceous plants, ground covers, and vines to maximize production per square foot
 - **Year-round interest**: Plan for sequential bloom, foliage color, structure, and harvest windows
@@ -52,7 +52,7 @@ A suburban food forest layers productive perennial plants to mimic a forest ecos
 
 ### Herbaceous Layer
 - [[perennial-vegetables]] (asparagus, rhubarb, sorrel)
-- [[culinary-herbs-cultivation-and-kitchen-garden-guide]] (thyme, oregano, mint in containers)
+- Culinary herbs (thyme, oregano, mint in containers)
 - Annual vegetables interplanted in gaps
 
 ### Ground Cover Layer
@@ -69,7 +69,7 @@ A suburban food forest layers productive perennial plants to mimic a forest ecos
 - Use espalier or cordon-trained fruit trees against fences and walls
 - Select dwarf and semi-dwarf rootstocks for small spaces
 - Multi-graft trees provide multiple varieties on one tree
-- Utilize [[comparison-vertical-gardening-vs-container-gardening]] on fences, arbors, and trellises
+- Utilize vertical gardening on fences, arbors, and trellises
 - Replace foundation plantings with edible shrubs and herbs
 
 ## Front Yard Gardens
@@ -93,35 +93,19 @@ Many municipalities restrict or regulate food gardening in front yards. Key stra
 6. **Plan infrastructure**: Irrigation, pathways, compost area, tool storage
 7. **Install hardscape first**: Paths, raised beds, trellises, irrigation before planting
 8. **Plant perennials first**: Fruit trees, berries, and [[perennial-vegetables]] take years to produce
-9. **Fill in with annuals**: Use annual [[query-how-do-i-grow-vegetables-and-herbs-in-shaded-areas]] while perennials mature
+9. **Fill in with annuals**: Use annual vegetables and herbs while perennials mature
 
 ## Maintenance Considerations
 
 - Edible landscapes need more active management than traditional ornamental landscapes
 - Plan for seasonal harvest and preservation time
 - Pest management requires vigilance — avoid spraying food crops with non-organic treatments
-- Mulch heavily to [[query-how-do-cover-crops-suppress-weeds]] and retain moisture
+- Mulch heavily to suppress weeds and retain moisture
 - Compost on-site to close nutrient loops
 
 ## See Also
 
 - [[perennial-vegetables]]
 - [[garden-bed-designs]]
-- [[food-forest-design]]
+- [[food-forest-design|food forest]]
 - [[vertical-gardening-guide]]
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
-Collaborative networks and knowledge sharing accelerate progress in this field.
-Emerging technologies offer new tools for analysis and implementation.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.

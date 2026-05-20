@@ -8,7 +8,7 @@ sources:
   - raw/papers/unknown-mycelium-running.md
 ---
 
-## Fungal Ecology — Decomposition Cycles
+# Fungal Ecology — Decomposition Cycles
 
 How fungi drive decomposition, nutrient cycling, and soil formation in ecosystems. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[fungal-ecology]], [[fungal-decomposition]], [[fungal-ecosystem-roles]], and [[soil-food-web-nutrient-cycling]].
 
@@ -147,3 +147,24 @@ Stamets emphasizes that fungi are primary soil builders:
 ## Fungal Bacterial Partnerships
 
 Stamets emphasizes the interdependence of fungi and bacteria:
+
+- **Bacteria on hyphae**: Bacterial biofilms on hyphal surfaces benefit from fungal exudates
+- **Enzyme synergy**: Bacterial and fungal enzymes work together to degrade complex compounds
+- **Nitrogen fixation**: Nitrogen-fixing bacteria associate with fungal hyphae
+- **Nutrient exchange**: Fungi concentrate nutrients that bacteria need; bacteria produce compounds fungi use
+- **Disease suppression**: Fungal-bacterial consortia suppress plant pathogens more effectively than either alone
+
+## See Also
+
+- [[fungal-ecology]] for the broad overview of fungal roles in ecosystems
+- [[fungal-decomposition]] for detailed white/brown rot chemistry
+- [[fungal-ecosystem-roles]] for water transport, erosion, fire ecology
+- [[soil-food-web-nutrient-cycling]] for the complete soil biology picture
+- [[soil-food-web-nutrient-cycling]] for nutrient cycling details
+- [[mycorrhizal-fungi]] for plant-fungal partnerships
+- [[mycoforestry-forest-restoration]] for forest applications
+- [[glomalin]] for the carbon sequestration glycoprotein
+
+## Related
+
+- [[fungal-conservation-strategies]]

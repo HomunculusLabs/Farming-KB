@@ -7,16 +7,16 @@ tags: [homesteading, off-grid, sustainability, livestock, water, energy, prepara
 sources: []
 ---
 
-## Homestead Winter Preparations
+# Homestead Winter Preparations
 
-Winter preparation is a critical annual cycle for any homestead. [[query-how-do-i-grow-figs-in-cold-climates]], inadequate preparation means frozen pipes, hungry livestock, cold buildings, and unnecessary hardship. A systematic approach beginning in late summer ensures that buildings, animals, water systems, food stores, and energy supplies are ready for months of cold, snow, and short days.
+Winter preparation is a critical annual cycle for any homestead. In cold climates, inadequate preparation means frozen pipes, hungry livestock, cold buildings, and unnecessary hardship. A systematic approach beginning in late summer ensures that buildings, animals, water systems, food stores, and energy supplies are ready for months of cold, snow, and short days.
 
 ## Timeline
 
 ### August-September: Planning and Procurement
 
 - Order firewood (or begin cutting and splitting your own)
-- Order [[livestock-feed-formulation]] and bedding for winter (prices rise in winter)
+- Order livestock feed and bedding for winter (prices rise in winter)
 - Inspect and order replacement parts for heating systems
 - Test [[homestead-internet-options|internet]] and communication equipment
 - Review last winter's problems and plan solutions
@@ -77,7 +77,7 @@ Winter preparation is a critical annual cycle for any homestead. [[query-how-do-
 ### Greenhouses and Season Extension
 
 - Insulate north wall with reflective insulation
-- Add [[comparison-windbreak-vs-thermal-mass]] (water barrels painted black) for nighttime heat retention
+- Add thermal mass (water barrels painted black) for nighttime heat retention
 - Install a backup heater for extreme cold events
 - Double-layer poly film or add bubble wrap for insulation
 - Ensure automatic vent openers are disabled or adjusted for winter
@@ -87,7 +87,7 @@ Winter preparation is a critical annual cycle for any homestead. [[query-how-do-
 
 ### General Principles
 
-- Most livestock tolerate cold better than heat — focus on [[cervantes-wind-protection-outdoor-cannabis]] and dry bedding
+- Most livestock tolerate cold better than heat — focus on wind protection and dry bedding
 - Access to clean, unfrozen water is the most critical winter livestock challenge
 - Increase feed rations 10-20% in cold weather (animals burn more calories to stay warm)
 - Provide shelter from wind and precipitation (not necessarily heated space)
@@ -138,7 +138,7 @@ Winter preparation is a critical annual cycle for any homestead. [[query-how-do-
 - Heat tape on exposed pipes from well to house
 - Ensure pump house or well house is insulated and has a heat source
 - Know how to prime the pump if it loses prime
-- Have a backup [[mollison-designers-hand-pump-and-water-lifting-devices]] if possible
+- Have a backup hand pump if possible
 
 ### Outdoor Plumbing
 
@@ -147,3 +147,53 @@ Winter preparation is a critical annual cycle for any homestead. [[query-how-do-
 - Drain sprinkler systems
 - Insulate any exposed pipes with foam insulation or heat tape
 - Open cabinet doors under sinks on exterior walls during extreme cold
+
+### Rainwater Catchment
+
+- Drain or disconnect rain barrels before freezing
+- If keeping system active, insulate pipes and tank
+- First-flush diverters and downspout filters can freeze and crack — drain them
+- [[homestead-water-purification|Water purification]] equipment should be moved indoors or protected from freezing
+
+### Greywater Systems
+
+- [[off-grid-waste-management|Greywater]] lines can freeze — insulate or divert to indoor holding tank
+- Mulch basins will freeze — plan for reduced or suspended greywater dispersal
+- Switch to minimal water use during deep freezes
+
+## Firewood
+
+### How Much Firewood
+
+A typical well-insulated home requires 3-6 cords of firewood per heating season, depending on climate, house size, and heating system efficiency.
+
+- One cord = 128 cubic feet (4x4x8 foot stack)
+- Hardwood (oak, maple, hickory): 3-4 cords for a cold winter
+- Softwood (pine, spruce): 5-8 cords (lower heat value per cord)
+
+### Firewood Preparation
+
+- Cut, split, and stack firewood at least 6 months before burning (1 year is better)
+- Seasoned firewood should have moisture content below 20%
+- Test: split wood should have cracks on the ends; two pieces knocked together should sound hollow
+- Stack off the ground (on pallets or a rack) for airflow
+- Cover the top only — leave sides exposed for air circulation
+- Stack in a location accessible in deep snow
+
+### Wood Stove Maintenance
+
+- Clean chimney and flue before heating season (hire a professional or do it yourself with proper brushes)
+- Inspect stove pipe and connections for leaks or corrosion
+- Replace gaskets around doors if they do not seal tightly
+- Clean the stove interior (remove ashes, clean baffle, check catalyst if equipped)
+- Stock stove glass cleaner and extra door gaskets
+
+## Food Storage for Winter
+
+### Root Cellaring
+
+- Ideal conditions: 32-40F, 90-95% humidity
+- Store potatoes, carrots, beets, turnips, parsnips, onions, garlic, winter squash
+- Do not store apples and potatoes together (apples release ethylene that causes potatoes to sprout)
+- Check stored produce weekly and remove anything rotting
+- Insulate root cellar walls if temperatures drop below freezing

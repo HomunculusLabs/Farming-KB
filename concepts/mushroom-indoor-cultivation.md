@@ -1,5 +1,6 @@
 ---
-title: Comparison Mushroom Log Cultivation Vs Mushroom Indoor Cultivation
+
+title: Mushroom Indoor Cultivation
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -20,14 +21,14 @@ sources:
 - raw/papers/unknown-oyster-mushroom-cultivation.md
 ---
 
-## Mushroom Indoor Cultivation
+# Mushroom Indoor Cultivation
 
 Controlled-environment mushroom growing using enclosed chambers to manage temperature, humidity, fresh air exchange, and light. Ranges from simple closet setups to automated grow rooms.
 
 ## Growing Environments
 
 - **Monotub** -- Modified plastic storage bin with polyfill-filtered holes for FAE; self-contained fruiting chamber. Common for cubensis and oysters. Simple, low-cost, good for beginners
-- **[[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] (SGFC)** -- Perlite-lined tub with 1/4" holes drilled on all six sides. Passive humidity via evaporation. Best for cake/grain-based grows
+- **Shotgun Fruiting Chamber (SGFC)** -- Perlite-lined tub with 1/4" holes drilled on all six sides. Passive humidity via evaporation. Best for cake/grain-based grows
 - **Martha Tent / Greenhouse** -- Enclosed plastic greenhouse with humidifier and fan on timers. Scalable, good for multiple substrates. Requires external humidification
 - **Dedicated grow room** -- Climate-controlled room with shelves, HVAC, humidification, CO2 monitoring. Commercial scale. See Stamets Ch. IV for full design specs
 
@@ -44,7 +45,7 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 - Temperature: drop 5-10F below colonization temp triggers pinning
 - Humidity: 90-95% (critical -- pins desiccate quickly)
 - FAE: increased; CO2 below 800-1000 ppm for most species
-- Light: 12 hours on/off at 6500K daylight spectrum; blue wavelengths (370-460 nm) most effective for [[light-basidiocarp-initiation-psilocybe-cubensis-research]]
+- Light: 12 hours on/off at 6500K daylight spectrum; blue wavelengths (370-460 nm) most effective for basidiocarp initiation
 - Evaporation from substrate surface is a primary pinning trigger
 
 ### Fruiting (Cropping)
@@ -73,12 +74,12 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 - 6500K daylight fluorescent or LED; 12 hours on/off cycle
 - Blue light (440-460 nm) most effective for fruiting initiation per Badham (1980)
 - Light intensity: 100-1000 lux sufficient; too much heat from incandescent is harmful
-- Light from above promotes upright growth ([[negative-geotropism-in-mushroom-fruiting]] stipes)
-- Light is required for spore production and [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]]
+- Light from above promotes upright growth (negative geotropism in stipes)
+- Light is required for spore production and geotropic sensitivity
 
 ## Contamination Management
 
-- Prevention > treatment: sterile technique at inoculation is critical ([[mushroom-sterile-technique]])
+- Prevention > treatment: sterile technique at inoculation is critical ([[mushroom-sterile-technique-detailed]])
 - Common contaminants: Trichoderma (green mold), cobweb mold (Dactylium), bacteria (wet spot), pin mold
 - Identification: green = Trichoderma (discard); gray webbing = cobweb (can spray with H2O2); sour smell = bacteria
 - Environmental controls: proper FAE, correct humidity, clean surfaces with 10% bleach
@@ -94,38 +95,7 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 
 ## Related Pages
 
-- [[mushroom-sterile-technique]] -- SAB/flow hood procedures, contamination prevention
+- [[mushroom-sterile-technique-detailed]] -- SAB/flow hood procedures, contamination prevention
 - [[mushroom-substrates]] -- Grain spawn, bulk substrates, supplementation
-- [[mushroom-species-guide]] -- Species-specific [[greg-green-temperature-and-humidity-control]] ranges
+- [[mushroom-species-guide]] -- Species-specific temperature and humidity ranges
 - [[mushroom-pests-and-diseases]] — pests and diseases
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-
-## Historical Context
-
-Historical development of mushroom indoor cultivation spans several decades of research.
-Early experiments established foundational principles that continue to inform
-modern practices. The evolution of understanding has been marked by
-significant breakthroughs in methodology and application.
-
-## Common Methods
-
-Practitioners employ various methods to achieve optimal results with mushroom indoor cultivation.
-Each approach offers distinct advantages depending on scale, available resources,
-and specific objectives. Selection of the appropriate method requires
-careful consideration of the operating environment.

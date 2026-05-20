@@ -1,5 +1,6 @@
 ---
-title: Jadam Wetting Agent (JWA) — Natural Surfactant Recipe
+
+title: JADAM Wetting Agent (JWA) — Natural Surfactant Recipe
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -19,9 +20,9 @@ sources:
 - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-## JADAM Wetting Agent (JWA)
+# JADAM Wetting Agent (JWA)
 
-JWA is the most important ingredient in [[jadam-methods]] pesticide system. It is a natural surfactant (soap) made from canola oil and caustic potash (KOH) without heating. It provides wetting, coating and penetrating power -- without it, no [[jadam-pesticide-dosage-guide]] works. It also has its own pesticide and germicide effect. Costs under $0.50/L to make. No expiration date.
+JWA is the most important ingredient in [[jadam-methods]] pesticide system. It is a natural surfactant (soap) made from canola oil and caustic potash (KOH) without heating. It provides wetting, coating and penetrating power -- without it, no JADAM pesticide works. It also has its own pesticide and germicide effect. Costs under $0.50/L to make. No expiration date.
 
 Replaces: commercial synthetic surfactants, machine oil, neem oil. 99.9% biodegrades in 5 days.
 
@@ -75,15 +76,15 @@ Solutions for hard water: collect rainwater (discard first 30 min), use a water 
 | Serious infestation | 5-10L (1.3-2.6 gal) |
 | Emergency, one-time only | 10-15L (2.6-4 gal) |
 | Winter dormant spray | 10-20L (2.6-5.3 gal) |
-| With [[jadam-natural-vs-chemical-pesticide]] (after tests) | 3-5L (0.8-1.3 gal) |
+| With chemical pesticide (after tests) | 3-5L (0.8-1.3 gal) |
 | Fog machine (17L tank) | 0.5L (0.13 gal) |
 
 Do NOT exceed 10L continuously -- can suppress growth and damage white powdery coating on fruits. Return to 3L once problem is controlled.
 
 ## What JWA Alone Can Control
 
-- [[jadam-pesticide-for-aphids-and-mites]] (early stages)
-- [[cervantes-powdery-mildew-prevention-treatment]] (early stages)
+- Aphids and mites (early stages)
+- Powdery mildew (early stages)
 - Can replace machine oil for winter fruit tree pest control
 - Moderately effective for improving fruit color and promoting maturity
 
@@ -107,20 +108,6 @@ Do NOT exceed 10L continuously -- can suppress growth and damage white powdery c
 ## See Also
 
 - [[jadam-sulfur-js]] — combine with JWA for JS germicide
-- [[jadam-herb-solution-jhs]] — combine with JWA for [[cervantes-mealybugs-scale-insect-control]]
+- [[jadam-herb-solution-jhs]] — combine with JWA for insect control
 - [[jadam-natural-pesticide-jnp]] — master pesticide combinations
 - [[jadam-methods]] — JADAM system overview
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.

@@ -101,7 +101,7 @@ His insistence on "participant observation"—personally
 experiencing the hallucinogens he studied—pioneered a more
 phenomenologically grounded approach to ethnobotany. His
 documentation of Jivaro *Banisteriopsis* use provides crucial
-data on [[amanita-muscaria-preparation-methods]], dosage, experiential effects,
+data on [[amanita-preparation-methods]], dosage, experiential effects,
 and cultural integration of hallucinogenic plants.
 
 ## Sources

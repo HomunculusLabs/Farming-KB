@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, foraging, species, ecology, mycorrhizae, food, safety]
 sources: []
 ---
 
-## Chanterelle Guide
+# Chanterelle Guide
 
 Chanterelles are among the most prized wild mushrooms for foraging, valued for their fruity aroma, peppery flavor, and firm, meaty texture. Found across the Northern Hemisphere in association with specific trees, chanterelles are reliable, abundant, and relatively easy to identify — making them an ideal target for beginning foragers.
 
@@ -140,11 +140,59 @@ The most dangerous chanterelle look-alike:
 - Mature forests (30+ years old) with a mix of tree species
 - Moist but well-drained soils
 - Areas with dappled light (forest edges, gaps in canopy)
+- Mossy areas, especially near streams
+- Check the same spots annually — chanterelles are site-loyal
 
-## See Also
+### Timing
 
-- [[comparison-morel-vs-chanterelle]]
-- [[growing-gourmet-chanterelle-truffle-cultivation-challenges]]
-- [[chanterelle-species-eastern-us]]
-- [[solomon-sweet-potato-cultivation-guide]]
-- [[bionutrients]]
+- After sustained rain (2+ inches over several days)
+- 2-7 days after significant rainfall
+- Morning foraging is best (mushrooms are fresh before insects and heat)
+- Golden hour (early morning light) makes yellow chanterelles easier to spot
+- Carry a GPS or mark productive spots discreetly
+
+### Harvesting
+
+- Cut at the base with a knife or pinch off at ground level
+- Do not pull up — this damages the mycelial network
+- Brush off debris gently in the field
+- Carry in a mesh bag or basket (allows spores to disperse)
+- Do not wash until ready to use
+- Leave small specimens to mature and spread spores
+
+## Culinary Use
+
+Chanterelles are versatile and highly regarded:
+
+- Flavor: fruity (apricot), peppery, earthy
+- Texture: firm, meaty, holds shape when cooked
+- Best cooking methods: sauteed in butter, cream sauces, risotto, omelets, soups
+- Do not eat raw — can cause mild GI upset
+- Pairs well with: cream, thyme, garlic, shallots, white wine, chicken, eggs
+- Drying: dehydrate at 95-110 F; reconstitutes well; flavor concentrates
+- Freezing: saute first, then freeze for up to 6 months
+- Preserving: excellent in compound butters, oils, and vinegars
+
+## Preservation
+
+- Fresh: 7-10 days refrigerated in paper bag
+- Dried: 1+ year in airtight container; excellent for soups and sauces
+- Frozen: cook first, then freeze 6-12 months
+- Pickled: viable but less common
+- Oil infusion: excellent way to capture the apricot aroma
+
+## Common Mistakes
+
+- Confusing false gills with true gills: the most dangerous error
+- Over-harvesting small or immature specimens
+- Washing before storage (accelerates spoilage)
+- Storing in sealed plastic (trapped moisture causes rapid decay)
+- Cooking at too high temperature (burns the delicate flavors)
+
+## Related Topics
+
+- [[porcini-boletus-guide]] for another premier wild-foraged mycorrhizal mushroom
+- [[matsutake-mushroom]] for high-value mycorrhizal mushroom ecology
+- [[truffle-guide]] for another uncultivable mycorrhizal fungus
+
+## Related

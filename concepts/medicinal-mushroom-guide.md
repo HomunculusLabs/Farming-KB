@@ -1,4 +1,5 @@
 ---
+
 title: Medicinal Mushroom Guide
 created: 2026-04-11
 updated: 2026-04-13
@@ -19,7 +20,7 @@ sources:
 - raw/papers/mushrooms-as-medicine.md
 ---
 
-## Medicinal Mushroom Guide
+# Medicinal Mushroom Guide
 
 Comprehensive guide to medicinal mushrooms: active compounds, health benefits, preparations, dosing, and cultivation. Draws primarily from peer-reviewed cancer immunotherapy literature.
 
@@ -31,7 +32,7 @@ Related: [[mushroom-species-guide]], [[herbal-medicine]], [[fungal-ecology]]
 - **Lentinan**: Beta-glucan specific to shiitake (Lentinula edodes). FDA-approved as adjunct cancer therapy in Japan.
 - **PSK (Polysaccharide-K)**: Protein-bound polysaccharide from turkey tail (Trametes versicolor). Approved anticancer drug in Japan since 1977. Brand name Krestin.
 - **PSP (Polysaccharide-Peptide)**: From Trametes versicolor. Similar to PSK but with different protein binding. Approved in China.
-- **Ganoderic acids**: Triterpenoids from [[reishi-cultivation]] (Ganoderma lucidum). Anti-inflammatory, hepatoprotective, anticancer via apoptosis induction.
+- **Ganoderic acids**: Triterpenoids from [[reishi-cultivation|reishi]] (Ganoderma lucidum). Anti-inflammatory, hepatoprotective, anticancer via apoptosis induction.
 - **Hericenones and erinacines**: Compounds from lion's mane (Hericium erinaceus). Stimulate NGF (nerve growth factor) synthesis. Erinacines in mycelium; hericenones in fruiting body.
 - **Cordycepin (3'-deoxyadenosine)**: Nucleoside analog from Cordyceps militaris. Anti-proliferative, immunomodulatory, anti-inflammatory.
 - **Ergothioneine**: Amino acid antioxidant found in all mushrooms. Protects against oxidative stress. High concentrations in shiitake, oyster, porcini.
@@ -65,7 +66,7 @@ Related: [[mushroom-species-guide]], [[herbal-medicine]], [[fungal-ecology]]
 - **Preparations**: Fresh: cook like seafood (crab/lobster flavor). Dried powder in capsules. Dual extract tincture (mycelium for erinacines, fruiting body for hericenones). Tea from dried slices
 - **Dosage**: 500-3000 mg extract/day; 2-4 g dried mushroom/day; fresh: 100-250 g cooked
 - **Cultivation**: Moderate. Prefers hardwood supplemented sawdust. Fruiting in 2-4 weeks after primordia. Can be grown on logs but less reliable than indoor cultivation.
-- **Sourcing**: Fresh at specialty [[mushroom-market-and-economics]] s. Supplements widely available. Both mycelium and fruiting body products sold -- ideally use both for full spectrum of compounds.
+- **Sourcing**: Fresh at specialty [[mushroom-market-and-economics|market]]s. Supplements widely available. Both mycelium and fruiting body products sold -- ideally use both for full spectrum of compounds.
 - **Cautions**: Rare cases of contact dermatitis from fresh mushrooms. Generally very safe.
 
 ### Cordyceps (Cordyceps militaris / C. sinensis)
@@ -88,7 +89,7 @@ Related: [[mushroom-species-guide]], [[herbal-medicine]], [[fungal-ecology]]
 - **Sourcing**: Widely available fresh and dried at grocery stores. Supplements less common than reishi/turkey tail.
 - **Cautions**: "Shiitake dermatitis" (flagellate erythema) in rare cases from raw or undercooked mushrooms. Always cook thoroughly. Rare allergic reactions.
 
-### [[maitake-cultivation]] / Hen of the Woods (Grifola frondosa)
+### [[maitake-cultivation|Maitake]] / Hen of the Woods (Grifola frondosa)
 
 - **Active compounds**: Maitake D-fraction (MD-fraction, specific beta-glucan), grifolan, beta-glucans, ergosterol
 - **Health benefits**: MD-fraction activates macrophages, NK cells, and T-cells. Anti-tumor activity in animal models and early clinical trials. Insulin sensitization -- may help manage type 2 diabetes and metabolic syndrome. Hypotensive. Hepatoprotective.
@@ -108,7 +109,7 @@ Related: [[mushroom-species-guide]], [[herbal-medicine]], [[fungal-ecology]]
 - **Sourcing**: Wild harvested from birch forests (Siberia, Canada, northern US, Scandinavia). Quality varies widely. Look for betulin content and third-party testing for heavy metals. Overharvesting is a conservation concern.
 - **Cautions**: High oxalate content -- may contribute to kidney stones with heavy use. Contains compounds that may interact with blood thinners. Avoid in pregnancy (traditional禁忌). Potential for contamination with heavy metals from polluted environments.
 
-### [[medicinal-mushroom-guide-agaricus-blazei]] (Agaricus subrufescens)
+### [[medicinal-mushroom-guide-agaricus-blazei|Agaricus blazei]] (Agaricus subrufescens)
 
 - **Active compounds**: Beta-glucans (high concentration), ergosterol, agaritine, blazein, linoleic acid derivatives
 - **Health benefits**: Originally discovered in Brazil where local populations had very low cancer rates. Immunostimulatory (NK cell activation). Anti-tumor activity in animal models and some clinical trials. Anti-inflammatory. Anti-diabetic. Antioxidant.
@@ -144,3 +145,54 @@ Medicinal mushrooms work primarily through immunomodulation rather than direct c
 - Extends survival in gastric cancer: 5-year survival +11% when combined with chemotherapy
 - Effective in colorectal cancer, breast cancer, and non-small cell lung cancer
 - Used as standard adjuvant in Japanese cancer treatment since 1977
+- Mechanism: Activates cytotoxic T-cells and NK cells; induces cytokine production; enhances dendritic cell maturation
+- Dose: 3 g/day standardized PSK (oral)
+- Also shows antiviral activity against HPV, HIV, and hepatitis
+
+### Reishi (Ganoderma lucidum)
+- Ganoderic acids induce apoptosis and inhibit metastasis in vitro and in animal models
+- Inhibits tumor-induced angiogenesis via suppression of VEGF
+- Clinical evidence emerging but less robust than PSK
+- Used extensively in traditional Chinese medicine for "fu zheng" (restoring normal body function)
+- Ganodermanontriol and lucidenic acids show direct cytotoxic effects on cancer cell lines
+
+### Safety Profile
+- Remarkably few adverse reactions in Phase I clinical trials
+- No reports of short-term or long-term toxicity from purified mushroom polysaccharides used clinically
+- However, immunostimulatory effects could theoretically interfere with certain immunotherapies — consult oncologist
+
+### Key Insight from Cancer Research Commission
+"The ability of mushroom-derived polysaccharides when taken prior to and during radiotherapy and/or chemotherapy to significantly reduce the side-effects of these treatments" is perhaps the most encouraging observation. Mushrooms improve quality of life and survival while reducing the debilitating effects of conventional treatment.
+
+## Preparation Methods Summary
+
+| Method | Best For | Notes |
+|--------|----------|-------|
+| Hot water decoction | Beta-glucans, water-soluble polysaccharides | Simmer 30-120 min. Standard for PSK/PSP |
+| Ethanol tincture | Triterpenes, sterols, terpenoids | Essential for reishi triterpenes |
+| Dual extraction | Full-spectrum products | Water + ethanol, combined |
+| Capsules (powder) | General wellness | Limited bioavailability without extraction |
+| Food/culinary | Daily maintenance | Shiitake, maitake, lion's mane are excellent food |
+| Fermented products | Gut health synergy | Kombucha, tempeh-style products |
+
+## Sourcing Quality
+
+- Look for: beta-glucan content on label, third-party testing (heavy metals, pesticides), fruiting body vs mycelium specification, extraction method
+- Fruiting body extracts generally preferred for most species (higher beta-glucan concentration in mature fruiting bodies)
+- Mycelium-on-grain products: ensure starch content is subtracted from total polysaccharide claims
+- Organic certification preferred -- mushrooms bioaccumulate environmental contaminants
+- Avoid products with fillers or unlisted ingredients
+
+## See Also
+
+- [[medicinal-mushroom-guide-meshima]]
+
+- [[andrew-weil]]
+
+- [[mushroom-species-guide]] -- Cultivation parameters, substrate, environmental needs
+- [[herbal-medicine]] -- Integration with plant-based remedies
+- [[fungal-ecology]] -- Ecological roles and decomposition mechanisms
+- [[mycoremediation-basics]] -- Fungal enzyme systems relevant to medicinal applications
+- [[soil-food-web-nutrient-cycling]] — Fungi in the soil trophic web
+
+See also: [[eugenia-bone]] — author of Mycophilia, food and science writer on fungi.

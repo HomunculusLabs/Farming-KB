@@ -7,7 +7,7 @@ tags: [permaculture, regenerative, ecology, design, cultivation]
 sources: [raw/papers/gaias-garden-toby-hemenway.md]
 ---
 
-## Ecological Succession and Garden Assembly
+# Ecological Succession and Garden Assembly
 
 Ecological succession is the process by which landscapes evolve from bare ground through pioneer species to mature ecosystems. In nearly every climate, the end result of succession — when not interrupted by fire or other disturbance — is forest. Understanding and accelerating this process is central to permaculture gardening. From Gaia's Garden's final chapters, succession drives the transformation from a sterile yard to a self-sustaining ecosystem.
 
@@ -117,11 +117,3 @@ Hemenway advises pragmatism: "Using nonrenewable resources to create a landscape
 - [[permaculture-zones-in-practice]] — Zone planning for garden assembly
 - [[soil-food-web-nutrient-cycling]] — The decomposer foundation of succession
 - [[edge-effect-and-microclimate]] — Creating benign microclimates for establishment
-
-## Practical Considerations
-
-Understanding the practical applications of this
-concept requires considering both theoretical frameworks
-and real-world implementation challenges. Practitioners
-must balance ideal approaches with available resources
-and site-specific conditions to achieve meaningful results.

@@ -141,10 +141,50 @@ The primary grain for most home millers:
 
 ### After Milling
 
-## See Also
+1. **Use immediately or store briefly** — Fresh flour is at peak nutrition within hours of milling
+2. **Short-term storage** — Room temperature in a paper bag or breathable container for 1-2 weeks
+3. **Longer storage** — Refrigerate for up to 1 month, freeze for up to 3 months
+4. **Do not store fresh flour in sealed containers at room temperature** — The oils in the germ will go rancid
 
-- [[natural-farming-guide-no-till-grain-strategy]]
-- [[grain-to-grain-transfer]]
-- [[grain-processing-and-milling-guide]]
-- [[working-with-agar-grain-to-agar-transfer-techniques]]
-- [[fukuoka-winter-grain-rice-rotation]]
+## Grain Storage
+
+### Whole Grain Berries
+
+Whole grains store far longer than milled flour:
+
+- **Cool, dry, dark location** — A basement, pantry, or dedicated storage room
+- **Food-grade storage buckets** with gamma seal lids — The standard for bulk storage
+- **Mylar bags with oxygen absorbers** — For maximum shelf life (up to 30+ years)
+- **Temperature** — 50-70F ideal; cooler is better
+- **Moisture** — Below 12% moisture content
+- **Pest protection** — Food-grade diatomaceous earth mixed with grain (1 cup per 50 pounds) prevents weevils and other pests without chemicals
+- **Rotation** — First in, first out. Use oldest grain first
+
+### Shelf Life by Grain
+
+| Grain | Expected Shelf Life |
+|-------|-------------------|
+| Hard wheat berries | 10-30 years |
+| Soft wheat berries | 5-15 years |
+| Corn (whole) | 5-10 years |
+| Oats (groats) | 3-5 years |
+| Rye berries | 5-15 years |
+| Rice (white) | 10-30 years |
+
+### Purchasing Grain
+
+- Buy in bulk (25-50 pound bags) from feed stores, grain mills, or online suppliers
+- Verify "seed" or "feed" grain is not chemically treated before using for food
+- Organic grain is available from specialty suppliers
+- Test a small quantity before buying in bulk
+
+## Yield Calculations
+
+- 1 pound of wheat berries yields approximately 3 cups of flour
+- A standard loaf of bread uses 3-4 cups of flour (approximately 1-1.3 pounds of berries)
+- 1 bushel of wheat (60 pounds) yields approximately 45-60 loaves of bread
+- A family using 2 loaves per week needs roughly 2,000-2,500 pounds of wheat per year
+
+## Related Topics
+
+Freshly milled flour connects directly to bread baking. See [[homestead-bakery-guide]] for sourdough and whole wheat bread techniques. Grain production ties into broader [[small-scale-grain-growing]] crop management and [[food-preservation-canning]] methods. For storing milled flour alongside other preserved foods, see [[root-vegetable-storage-guide]] and [[mason-jar-preserving-guide]].

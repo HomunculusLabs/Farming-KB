@@ -1,4 +1,5 @@
 ---
+
 title: Mycorrhizal Fungi
 created: 2026-04-10
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/articles/fungi-and-sustainability-fungi-magazine.md
 ---
 
-## Mycorrhizal Fungi
+# Mycorrhizal Fungi
 
 Mycorrhizal fungi form symbiotic relationships with plant roots — the fungi get carbohydrates from the plant, and the plant gets water, phosphorus, and other nutrients in return. 80-95% of all terrestrial plants form mycorrhizae. Without them, plants cannot obtain optimal nutrition.
 

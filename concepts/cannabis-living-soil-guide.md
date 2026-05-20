@@ -7,7 +7,7 @@ tags: [cannabis, living-soil, no-till, microbes, compost, soil, biology, organic
 sources: []
 ---
 
-## Cannabis Living Soil Guide
+# Cannabis Living Soil Guide
 
 ## Overview
 
@@ -140,11 +140,16 @@ Grow clover, alfalfa, buckwheat, or daikon radish between grows to protect soil 
 - Superior terpene profiles and flavor ([[cannabis-testing-and-quality|testing labs]] confirm)
 - Self-regulating pH, no nutrient runoff
 - Soil improves over time — costs decrease with successive grows
+- More forgiving of over/underfeeding
+- Aligns with regenerative practices
 
-## See Also
+## Challenges
 
-- [[cannabis-cultivar-microbiome-specificity]]
-- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
-- [[cannabis-and-endometriosis]]
-- [[blesching-cannabis-immune-system-modulation]]
-- [[cannabis-seed-germination-viability-breeding-clarke]]
+- Higher initial setup cost than conventional media
+- Slower to correct deficiencies (biological processes take time)
+- Requires understanding of soil biology
+- Heavier containers, not ideal for rapid-cycle grows
+
+## Related
+
+- [[cannabis-seed-germination]]

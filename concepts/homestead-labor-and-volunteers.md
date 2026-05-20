@@ -7,7 +7,7 @@ tags: [homesteading, business, community, law, regulation, economics]
 sources: []
 ---
 
-## Homestead Labor and Volunteers
+# Homestead Labor and Volunteers
 
 As a homestead grows beyond what one or two people can manage, labor becomes a critical consideration. Options range from informal volunteer exchanges to formal employees. Each approach has legal, financial, and interpersonal implications. This guide covers WWOOF, Workaway, apprenticeships, hiring, and labor law compliance.
 
@@ -140,11 +140,49 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Fair Labor Standards Act (FLSA): minimum wage, overtime (1.5x after 40 hours/week)
 - Small farm exemption: farms with fewer than 500 man-days in any calendar quarter are exempt from FLSA minimum wage and overtime (but not from all labor laws)
 - Child labor: workers under 16 restricted from hazardous tasks (operating machinery, working with certain animals, working at heights)
+- OSHA: Occupational Safety and Health Administration applies to farms with 11+ employees (smaller farms largely exempt)
+- H-2A visa program: for hiring seasonal foreign agricultural workers (complex, expensive, but legal pathway for labor shortage)
 
+### State Requirements
+- State minimum wage may exceed federal ($7.25/hour) -- most states are $12-16/hour
+- State workers comp requirements vary
+- State unemployment insurance: required for most employers
+- State-mandated breaks and meal periods
+- Agricultural exemptions: many states have specific exemptions for small farms
+- Check your state department of labor for specifics
+
+### Best Practices
+- Written job descriptions for all positions
+- Employee handbook (even a simple one-page version)
+- Clear payroll records (hours, rate, deductions)
+- Regular performance feedback
+- Safety training and documented safety procedures
+- Clear termination procedures
+
+## Managing Volunteers and Employees
+
+### Onboarding
+- Farm tour and orientation on day one
+- Safety briefing: hazards, emergency procedures, first aid kit locations
+- Demonstrate tasks before expecting independent work
+- Pair new helpers with experienced people
+- Check in frequently during first week
+
+### Communication
+- Daily check-ins: what needs to be done, any questions
+- Weekly meetings for longer-term helpers
+- Written task lists for clarity
+- Open door policy: encourage questions and feedback
+- Address problems early -- small issues become big problems quickly
+
+### Retention
+- Treat all helpers with respect regardless of arrangement
+- Provide meaningful work (not just the worst tasks)
+- Share the harvest: send volunteers home with produce
+- Say thank you -- genuinely and often
+- Provide learning opportunities and skill development
+- Build community: shared meals, celebrations, social events
+
+Effective labor management is often the difference between a [[homestead-scale-assessment]] that stays at hobby level and one that grows to full-time farm income.
 ## See Also
-
-- [[homestead-energy-conservation]]
-- [[homestead-mushroom-business]]
-- [[homestead-winter-preparations]]
-- [[homestead-tool-maintenance]]
-- [[homestead-internet-options]]
+- [[fukuoka-textdoc-postwar-farm-labor-appropriated-urban-prosperity]]

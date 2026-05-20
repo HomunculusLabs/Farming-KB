@@ -11,7 +11,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-## Cover Crop Guide Detailed
+# Cover Crop Guide Detailed
 
 Cover crops are plants grown primarily to benefit the soil rather than for harvest. They protect soil from erosion, suppress weeds, fix nitrogen, improve soil structure, and feed soil biology. A well-planned cover crop program is foundational to any regenerative homestead.
 
@@ -132,6 +132,6 @@ Cover crops are an excellent way to maintain soil biology between cash crop cycl
 ## See Also
 
 - [[no-till-gardening-method]]
-- [[hugelkultur-bed-construction]]
+- [[hugelkultur-bed-construction-detailed]]
 - [[sheet-mulching]]
 - [[cannabis-living-soil-guide]]

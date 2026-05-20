@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Experience Stages
+title: Psychedelic Experience Stages — Turner's Model
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
 
 ## The Stages of the Psychedelic Experience
 
-D.M. Turner's [[turner-essential-psychedelics-5-meo-dmt-void-experience]] Guide provides a practical phenomenological map of the psychedelic experience, breaking it into recognizable stages. Understanding these stages helps users navigate what can be otherwise overwhelming experiences.
+D.M. Turner's Essential Psychedelics Guide provides a practical phenomenological map of the psychedelic experience, breaking it into recognizable stages. Understanding these stages helps users navigate what can be otherwise overwhelming experiences.
 
 ### Stage 1 — Onset
 
@@ -37,9 +37,9 @@ Turner describes this as the period where the ego begins to lose its grip on ord
 
 The most intense phase. Duration and character depend heavily on the compound and dose:
 
-- At lower doses: enhanced colors, [[pattern-recognition-and-geometric-garden-design-permaculture]], mood elevation, philosophical reverie
+- At lower doses: enhanced colors, pattern recognition, mood elevation, philosophical reverie
 - At moderate doses: complete visual transformation of the visual field with eyes closed, ego softening, emotional openness, enhanced music appreciation, synesthesia
-- At high doses: complete [[default-mode-network-and-ego-dissolution]], mystical/peak experiences, encounters with apparently autonomous entities, profound insights or terror, complete loss of ordinary reality framework
+- At high doses: complete ego dissolution, mystical/peak experiences, encounters with apparently autonomous entities, profound insights or terror, complete loss of ordinary reality framework
 
 Turner distinguishes several peak-quality categories:
 - **Aesthetic**: primarily visual and sensory enhancement
@@ -72,14 +72,14 @@ Gradual return to ordinary consciousness:
 The period hours to days after the acute experience:
 
 - Residual perceptual sensitivity (colors still appear brighter, music sounds fuller)
-- Integration of insights and [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
+- Integration of insights and emotional processing
 - Dreams may be unusually vivid for several nights
 - Some users report lasting positive changes in mood, perspective, or behavior
 - Difficult experiences may require additional time to process
 
 ### Cross-Reference with Leary
 
-Turner's stage model parallels [[leary-psychedelic-manual-approach]] but uses more phenomenological rather than Tibetan Buddhist terminology. Where Turner describes "onset" and "peak," Leary maps these onto the Chikhai and Chonyid Bardos. Both models serve the same purpose: providing a [[holmgren-permaculture-flower-conceptual-framework]] to navigate non-ordinary states.
+Turner's stage model parallels [[leary-psychedelic-manual-approach|Leary's Bardo model]] but uses more phenomenological rather than Tibetan Buddhist terminology. Where Turner describes "onset" and "peak," Leary maps these onto the Chikhai and Chonyid Bardos. Both models serve the same purpose: providing a conceptual framework to navigate non-ordinary states.
 
 ## See Also
 
@@ -87,36 +87,3 @@ Turner's stage model parallels [[leary-psychedelic-manual-approach]] but uses mo
 - [[leary-psychedelic-manual-approach]]
 - [[ayahuasca-pharmacology]]
 - [[dmt-compound-profile]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-
-## Implementation Notes
-Start with small-scale trials before expanding to larger operations.
-Maintain detailed records of conditions, inputs, and outcomes for iterative refinement.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-Documentation of results enables continuous improvement and knowledge sharing.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-Collaborative networks facilitate rapid dissemination of innovations and best practices.

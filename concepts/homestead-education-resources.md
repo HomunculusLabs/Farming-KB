@@ -4,16 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, beginner, education, reference, homestead-crafts]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/lowenfels-teaming-with-microbes.md"
-  - "raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md"
-  - "raw/papers/teaming-with-microbes-lowenfels.md"
-  - "raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md"
-  - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
+sources: []
 ---
 
-## Homestead Education Resources
+# Homestead Education Resources
 
 Homesteading requires knowledge across dozens of disciplines: agriculture, animal husbandry, construction, food preservation, mechanics, ecology, and business. No one is born knowing all of this. Continuous learning is part of the lifestyle. This guide organizes the best educational resources by type and topic.
 

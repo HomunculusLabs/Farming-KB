@@ -7,6 +7,46 @@ tags: [plants, medicine, health, pharmacology, preparation, species-profiles, bi
 sources: []
 ---
 
+# Adaptogenic Herbs Guide
+
+## Overview
+
+Adaptogens are a class of herbs and mushrooms that help the body resist physiological and psychological stress. The concept originated in Soviet research in the 1940s-1960s, pioneered by toxicologist Nikolai Lazarev. The formal definition requires that an adaptogen:
+1. Be non-specific (increase resistance to a broad range of stressors).
+2. Have a normalizing effect (bring homeostasis regardless of direction of imbalance).
+3. Be safe and non-toxic with minimal side effects.
+
+This guide covers five primary adaptogenic herbs: ashwagandha, rhodiola, holy basil, eleuthero, and maca.
+
+## Ashwagandha (Withania somnifera)
+
+### Overview
+Ayurvedic rasayana (rejuvenative) herb used for over 3,000 years. One of the most researched adaptogens. Known as "Indian ginseng" (though botanically unrelated to ginseng). The name means "smell of a horse," referring to both its aroma and its reputation for imparting vigor.
+
+### Key Compounds
+- **Withanolides:** Steroidal lactones (withaferin A, withanolide D). Primary active compounds. Anti-inflammatory, anti-tumor, neuroprotective.
+- **Withanosides:** Glycosides with anxiolytic and cognitive-enhancing effects.
+- **Alkaloids:** Including withanine and somniferine.
+
+### Mechanisms
+- Modulates HPA axis (hypothalamic-pituitary-adrenal), reducing cortisol.
+- GABAergic activity: enhances GABA receptor signaling (anxiolytic effect).
+- Anti-inflammatory: inhibits NF-kB, reduces TNF-alpha and IL-6.
+- Thyroid support: enhances T3/T4 production in hypothyroid states.
+- Neuroprotective: promotes neurite outgrowth, reduces amyloid-beta accumulation.
+- Improves sleep quality via triethylene glycol content.
+
+### Dosing
+- **Root powder (KSM-66):** 300-600mg, twice daily.
+- **Root extract (sensoril):** 125-250mg, once or twice daily.
+- **Traditional churna:** 1-6g per day.
+- Take with food. Consistent use for 6-8 weeks for full effects.
+
+### Contraindications
+- Pregnancy (uterine stimulant). Autoimmune conditions. Hyperthyroidism. Nightshade allergy (Solanaceae family). May enhance effects of sedatives and thyroid medications.
+
+---
+
 ## Rhodiola (Rhodiola rosea)
 
 ### Overview
@@ -100,10 +140,57 @@ Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub na
 
 ---
 
-## See Also
+## Maca (Lepidium meyenii)
 
-- [[adaptogenic-herbs-overview]]
-- [[query-what-are-adaptogenic-herbs-and-how-do-they-work]]
-- [[rhodiola-rosea]]
-- [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
-- [[ashwagandha]]
+### Overview
+Root vegetable from the high Andes of Peru, cultivated at altitudes above 3,500 meters. Used as food and medicine by indigenous Andean peoples for over 2,000 years. Not a true adaptogen by strict definition (lacks HPA axis modulation) but commonly classified as one due to its stress-resistance and vitality-enhancing properties. Three main varieties: yellow (most common), red, and black (each with slightly different properties).
+
+### Key Compounds
+- **Macaenes and macamides:** Unique fatty acid amides. Believed responsible for many of maca's effects, particularly on sexual function and mood.
+- **Glucosinolates:** Sulfur-containing compounds (also found in cruciferous vegetables).
+- **Alkaloids:** Including macaridine.
+- **Sterols:** Beta-sitosterol, campesterol, stigmasterol.
+- **Amino acids:** Rich in arginine and histidine.
+
+### Mechanisms
+- Does not directly affect hormones but may support endocrine function indirectly.
+- Enhances libido and sexual function (mechanism unclear — possibly central nervous system effects).
+- Mood enhancement: may increase serotonin and dopamine receptor sensitivity.
+- Improves energy and reduces fatigue (non-stimulant mechanism).
+- Antioxidant properties reduce oxidative stress.
+- Black maca shows the strongest effects on sperm quality and memory; red maca shows the strongest effects on prostate health.
+
+### Dosing
+- **Gelatinized powder (preferred):** 1.5-3g per day.
+- **Raw powder:** 3-6g per day (higher dose needed due to reduced bioavailability).
+- **Extract:** 500-1000mg daily.
+- Start with lower dose and increase gradually.
+- Cycling recommended: daily use for 6-8 weeks, then 2-4 week break.
+
+### Contraindications
+- Pregnancy and breastfeeding. Thyroid conditions (glucosinolates may affect thyroid function, particularly with iodine deficiency). Hormone-sensitive conditions (controversial — evidence is mixed). Caution with blood pressure medications.
+
+---
+
+## Choosing the Right Adaptogen
+
+| Goal | Primary | Secondary |
+|------|---------|-----------|
+| Stress/anxiety | Ashwagandha, Holy Basil | Rhodiola |
+| Fatigue/energy | Rhodiola, Eleuthero | Maca |
+| Athletic performance | Rhodiola, Eleuthero | Maca |
+| Sexual health | Maca, Ashwagandha | — |
+| Cognitive focus | Rhodiola, Ashwagandha | Eleuthero |
+| Sleep improvement | Ashwagandha, Holy Basil | — |
+| Immune support | Eleuthero, Holy Basil | Ashwagandha |
+
+## Combining Adaptogens
+
+Adaptogens can generally be combined safely. Start with one adaptogen for 2-4 weeks before adding another to assess individual response. Common pairings: Ashwagandha + Rhodiola (comprehensive stress), Holy Basil + Ashwagandha (anxiolytic), Eleuthero + Rhodiola (endurance), Maca + Ashwagandha (sexual health).
+
+## Related Topics
+
+- [[medicinal-mushroom-guide-reishi]] for mushroom adaptogens
+- [[medicinal-mushroom-guide-cordyceps]] for energy-focused mushroom adaptogens
+- [[nootropic-herbs-guide]] for cognitive enhancement herbs
+- [[herbal-tinctures-guide]]

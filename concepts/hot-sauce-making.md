@@ -140,10 +140,24 @@ After fermentation (or as part of the quick method), cooking develops the final 
 
 ### Green Chile Sauce
 
+- Jalapenos or serranos, tomatillos, cilantro, lime juice, garlic, onion
+- Bright, herbaceous
+
+### Pineapple Habanero
+
+- Habaneros, fresh pineapple, lime juice, honey, garlic, white vinegar
+- Tropical, sweet heat
+
+## Safety Considerations
+
+- Wear gloves when handling hot peppers — capsaicin burns skin and eyes
+- Work in a well-ventilated area or under an exhaust fan when blending hot peppers
+- Never touch your face or eyes while handling peppers
+- Wash hands, cutting boards, and knives thoroughly after working with hot peppers
+- Label bottles clearly with pepper type and heat level
+
 ## See Also
 
-- [[fermented-hot-sauce-guide]]
-- [[compost-making-methods-solomon]]
-- [[granola-making]]
-- [[natto-making]]
-- [[mushroom-spawn-making-pure-culture]]
+- [[pickle-making]] — fermentation of vegetables in brine
+- [[kimchi-making]] — Korean fermented vegetable condiment
+- [[vinegar-making]] — making your own vinegar for hot sauce base

@@ -17,7 +17,7 @@ There are two distinct types: milk kefir and water kefir. They use different gra
 
 ### Milk Kefir Grains
 
-Milk kefir grains are not actual cereal grains — they are gelatinous colonies of [[lactic-acid-bacteria]] ([[lactobacillus]], Lactococcus, Leuconostoc), yeasts (Kluyveromyces, Saccharomyces), and acetic acid bacteria bound together by a polysaccharide matrix called kefiran.
+Milk kefir grains are not actual cereal grains — they are gelatinous colonies of lactic acid bacteria (Lactobacillus, Lactococcus, Leuconostoc), yeasts (Kluyveromyces, Saccharomyces), and acetic acid bacteria bound together by a polysaccharide matrix called kefiran.
 
 Key characteristics:
 - Resemble small cauliflower florets, cream to white in color

@@ -1,4 +1,5 @@
 ---
+
 title: Complete KNF Input Quick Reference
 created: 2026-04-11
 updated: 2026-04-12
@@ -33,7 +34,7 @@ sources:
 - concepts/nutritive-cycle-theory.md
 ---
 
-## Complete KNF Input Quick Reference
+# Complete KNF Input Quick Reference
 
 Consolidated reference for all Korean Natural Farming (KNF) inputs — ingredients, fermentation times, dilution rates, and growth-stage application. See [[nutritive-cycle-theory]] for the science behind stage-based feeding.
 

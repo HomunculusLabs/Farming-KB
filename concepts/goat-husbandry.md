@@ -7,7 +7,7 @@ tags: [goats, animal-husbandry, homesteading, livestock, byproducts, livestock-h
 sources: []
 ---
 
-## Goat Husbandry
+# Goat Husbandry
 
 Goats are among the most versatile and manageable livestock for the homestead.
 They provide milk, meat, fiber, and brush-clearing services while requiring
@@ -43,9 +43,9 @@ make them both rewarding and occasionally challenging to keep.
 Goats detest rain and wind. Dry shelter is non-negotiable.
 
 - Minimum 15-20 sq ft per goat indoors, plus 30+ sq ft outdoor per animal.
-- Bed with deep straw or wood shavings; clean weekly, add carbon to [[compost]].
-- Ventilation is critical — ammonia buildup causes [[bloomfield-lycoperdonosis-puffball-spore-inhalation-respiratory-illness]]. Avoid
-  drafts at animal level but allow [[growing-gourmet-growing-room-ventilation-air-exchange]] at the roofline.
+- Bed with deep straw or wood shavings; clean weekly, add carbon to compost.
+- Ventilation is critical — ammonia buildup causes respiratory illness. Avoid
+  drafts at animal level but allow air exchange at the roofline.
 - Provide sturdy, level sleeping platforms. Goats prefer to be off the ground.
 - Bucks need separate housing during off-season to prevent unwanted breedings
   and buck odor from tainting milk.
@@ -148,3 +148,26 @@ plants over grass.
 - Signs of impending kidding: ligaments around tailhead soften, udder fills,
   discharge, restlessness, pawing.
 - Stages of labor: (1) cervical dilation 0-12 hours, (2) active labor with
+  pushing 30-60 minutes, (3) placenta delivery within 4 hours.
+- Clear membranes from kid's nose immediately. Dip navel in 7% iodine.
+- Ensure kid colostrum within first 2 hours — critical for immunity.
+- Bottle raise or dam raise depending on management goals. Bottle raising
+  produces friendlier, more manageable goats.
+
+## Manure and Byproducts
+
+- Goat manure is "cold" — can go directly on gardens without composting,
+  though composting is preferred.
+- Average goat produces ~1 ton of manure per year. Rich in nitrogen and
+  potassium.
+- Goat hides can be tanned for leather. See [[animal-harvest-and-processing]].
+- Buck horns (if left intact) and bones are useful for bone broth and
+  [[animal-byproducts]].
+
+## Links
+
+- [[sheep-husbandry]]
+- [[pasture-management]]
+- [[livestock-fencing-guide]]
+- [[livestock-feed-formulation]]
+- [[animal-harvest-and-processing]]

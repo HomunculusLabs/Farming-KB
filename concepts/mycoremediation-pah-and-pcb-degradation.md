@@ -4,7 +4,7 @@ created: 2026-04-28
 updated: 2026-05-06
 tags: [mycoremediation, pah, pcb, bioremediation, pollution, fungi]
 type: concept
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 ## Mycoremediation of PAH and PCB Degradation

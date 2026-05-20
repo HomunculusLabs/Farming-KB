@@ -58,7 +58,7 @@ Chicken manure is a key tool in the gradient soil fertility system described by 
 ## Related Entities
 
 - [[steer-manure]] — weaker but safer alternative
-- [[complete-organic-fertilizer]] — Solomon's preferred concentrated fertilizer
+- [[complete-organic-fertilizer-cof]] — Solomon's preferred concentrated fertilizer
 - [[compost]] — general organic matter
 - [[green-manure]] — plant-based fertility alternative
 

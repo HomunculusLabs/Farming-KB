@@ -7,7 +7,7 @@ tags: [psychology, harm-reduction, psychedelics, therapeutic-potential, research
 sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 
-## Phenethylamine Set and Setting
+# Phenethylamine Set and Setting
 
 ## Overview
 
@@ -115,6 +115,3 @@ See also: [[shulgin-dosage-guidelines]], [[pihkal-introduction-and-methodology]]
 ## Related
 
 - [[pihkal-qualitative-effects-themes]]
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.

@@ -7,9 +7,9 @@ tags: [gardening, permaculture, water-management, sustainability, compost, desig
 sources: []
 ---
 
-## Keyhole Garden Design
+# Keyhole Garden Design
 
-A keyhole garden is a raised, circular garden bed with a central compost basket and a wedge-shaped notch (the "keyhole") that provides access to the center. Originally developed in Africa for drought-prone regions, keyhole gardens combine composting, water conservation, and intensive [[coleman-french-historical-winter-vegetable-production]] in a compact, accessible design.
+A keyhole garden is a raised, circular garden bed with a central compost basket and a wedge-shaped notch (the "keyhole") that provides access to the center. Originally developed in Africa for drought-prone regions, keyhole gardens combine composting, water conservation, and intensive vegetable production in a compact, accessible design.
 
 ## Origin and Purpose
 
@@ -20,7 +20,7 @@ Key advantages of the keyhole design:
 - **Integrated composting:** A central basket continuously feeds the garden with nutrients from kitchen scraps and yard waste
 - **Water efficiency:** The compost basket distributes moisture throughout the bed via wicking action
 - **Accessibility:** The raised bed design reduces bending; the keyhole path provides easy access to the entire bed from one spot
-- **[[mollison-designers-market-garden-intensive-production-design]]:** The circular design maximizes growing area per square foot
+- **Intensive production:** The circular design maximizes growing area per square foot
 - **Soil building:** Continuous composting builds rich, living soil over time
 
 ## Design and Dimensions
@@ -140,10 +140,14 @@ As the compost breaks down, it shrinks. Keep topping it up with fresh materials.
 
 ## Maintenance
 
-## See Also
+- **Mulch:** Apply 2-3 inches of organic mulch to the soil surface to retain moisture and suppress weeds
+- **Replenish soil:** Add compost to the top layer annually
+- **Rebuild the wall:** Check stone or block walls annually for settling or displacement
+- **Basket maintenance:** If the wire basket degrades, replace it (every 2-4 years depending on material)
 
-- [[keyhole-garden-mandala-design]]
-- [[keyhole-bed-design]]
-- [[comparison-keyhole-garden-vs-square-foot-gardening]]
-- [[gaias-garden-keyhole-beds-and-mandala-gardens]]
-- [[planting-categories-and-keyhole-beds]]
+## Related Concepts
+
+- [[wicking-bed-construction]] for another water-efficient raised bed approach
+- [[herb-spiral-construction]] for microclimate-based planting design in a compact space
+- [[garden-bed-designs]] for another circular, intensive garden layout
+- [[herb-spiral-design]] — Herb Spiral Design is a classic permaculture pattern that, like keyhole gardens, maximizes growing space and edge effects.

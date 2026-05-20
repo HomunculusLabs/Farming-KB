@@ -7,7 +7,7 @@ tags: [cannabis, chemistry, medicine, biology, potency, plant-growth, biochemist
 sources: []
 ---
 
-## Cannabis Flavonoids
+# Cannabis Flavonoids
 
 Flavonoids are a diverse class of phytonutrients found throughout the plant kingdom, responsible for the non-green pigmentation in plants (yellow, red, blue, purple hues). In cannabis, flavonoids contribute to flavor, aroma, color, and therapeutic effects. They are less discussed than cannabinoids and terpenes but play an important role in the entourage effect and the plant's medicinal profile.
 
@@ -141,10 +141,33 @@ Cool temperatures during flowering trigger anthocyanin accumulation, producing p
 
 ### Nutrient Status
 
+Phosphorus and potassium levels influence flavonoid biosynthesis. Deficiencies can stress plants into producing more flavonoids as protective compounds, though this is not an optimal production strategy.
+
+### Post-Harvest
+
+Flavonoids are relatively stable compared to terpenes but can degrade with excessive light, heat, or prolonged storage. Proper curing conditions preserve flavonoid content.
+
+## Extraction and Isolation
+
+Flavonoids are typically extracted using:
+- Ethanol extraction (captures flavonoids along with cannabinoids and terpenes)
+- Supercritical CO2 (can be tuned to capture flavonoids)
+- Water extraction (some flavonoids are water-soluble glycosides)
+
+Cannflavin isolation is challenging due to low concentrations in plant material. Synthetic biology approaches (engineered yeast) are being developed to produce cannflavins at scale for pharmaceutical applications.
+
+## Research Status
+
+Cannabis flavonoid research is significantly behind cannabinoid and terpene research. Most studies have been in vitro or in animal models. Key areas of active research:
+
+- Cannflavin A/B anti-inflammatory mechanisms and therapeutic potential
+- Flavonoid contribution to the entourage effect
+- Flavonoid interactions with specific cannabinoid receptors
+- Genetic pathways controlling flavonoid biosynthesis in cannabis
+- Synthetic biology production of cannflavins
+
 ## See Also
 
-- [[cannabis-cultivar-microbiome-specificity]]
-- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
-- [[cannabis-and-endometriosis]]
-- [[blesching-cannabis-immune-system-modulation]]
-- [[cannabis-seed-germination-viability-breeding-clarke]]
+- [[cannabis-trichome-guide]] for the glandular structures that house flavonoids
+- [[cannabis-terpene-profile]] for the other major class of cannabis aromatic compounds
+- [[cannabis-lighting-guide]] for how light influences flavonoid production

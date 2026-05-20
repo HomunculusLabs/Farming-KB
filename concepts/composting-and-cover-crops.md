@@ -48,7 +48,7 @@ Medium-quality compost requires more attention to materials and proportions:
 - **Comfrey as compost activator**: Comfrey (page 203-204) is exceptionally valuable because its deep taproot mines subsoil minerals and concentrates them in its leaves. Adding comfrey to compost piles significantly raises mineral content.
 - **Coffee grounds** (page 203): A readily available nitrogen source that also adds trace minerals. Can be obtained free from coffee shops.
 - **Grinders** (page 196-197): Shredding or grinding coarse materials before composting dramatically speeds decomposition by increasing surface area.
-- **Uses**: Can partially substitute for [[complete-organic-fertilizer]] (COF) in moderate-demand vegetable beds.
+- **Uses**: Can partially substitute for [[complete-organic-fertilizer-cof]] (COF) in moderate-demand vegetable beds.
 
 ### Making Highest-Quality Compost (Page 207)
 

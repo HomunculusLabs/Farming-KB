@@ -1,4 +1,5 @@
 ---
+
 title: Ramsbottom Poisonous Fungi Species
 created: 2026-04-12
 updated: 2026-04-12
@@ -18,8 +19,7 @@ tags:
 sources:
 - raw/papers/mushrooms
 ---
-
-## Ramsbottom Poisonous Fungi Species
+# Ramsbottom Poisonous Fungi Species
 
 Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" with colour plates by Rose Ellenby. All measurements in inches. See [[mushroom-poisoning-guide]] for modern toxicological summaries.
 
@@ -139,8 +139,14 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Gills**: Shining white, more or less free, somewhat crowded.
 
-## See Also
+**Stem**: 3" tall, 1" wide. Rigid, white or pink-tinged.
 
-- [[ramsbottom-poisonous-fungi-identification-guide]]
+**Flesh**: Firm, white, pink under cap skin. Very acrid taste after a few seconds (persistent). Pleasant smell.
+
+**Habitat**: Woods, summer and autumn.
+
+**Notes**: Acrid substance dispersed in cooking, but best avoided.
+
+## ENTOLOMA LIVIDUM -- Leaden Entoloma
+## See Also
 - [[ramsbottom-poisonous-fungi-toxins-and-symptoms]]
-- [[savory-locoweed-and-poisonous-plant-management]]

@@ -13,7 +13,7 @@ sources:
   - raw/papers/unknown-biodiversity-of-fungi.md
 ---
 
-## Fungal Biodiversity Conservation Status
+# Fungal Biodiversity Conservation Status
 
 ## Overview
 
@@ -23,10 +23,10 @@ Fungi represent one of the most biodiverse kingdoms of life, yet their conservat
 
 ### Why Fungi Are Underrepresented
 
-The [[fungal-species-concept-and-taxonomy]] itself poses difficulties for conservation assessments. Unlike animals and plants, fungi often lack conspicuous above-ground structures for much of their life cycle, existing primarily as microscopic mycelial networks in soil, wood, or other substrates. Key challenges include:
+The [[fungal-species-concept-and-taxonomy|species concept]] itself poses difficulties for conservation assessments. Unlike animals and plants, fungi often lack conspicuous above-ground structures for much of their life cycle, existing primarily as microscopic mycelial networks in soil, wood, or other substrates. Key challenges include:
 
 - **Ephemeral fruiting:** Many fungi produce visible fruiting bodies only briefly, making population assessment difficult
-- **Cryptic lifestyles:** [[saprotrophic-fungi]] and [[endophytic-fungi]] species are largely invisible
+- **Cryptic lifestyles:** [[saprotrophic-fungi|saprotrophic]] and [[endophytic-fungi|endophytic]] species are largely invisible
 - **Lack of baseline data:** For most described species, there are insufficient records to establish population trends
 - **Taxonomic uncertainty:** Many fungal species complexes remain unresolved, hampering conservation decisions
 
@@ -39,13 +39,13 @@ Standard IUCN criteria (population decline, geographic range, small population s
 - "Population size" is ambiguous for organisms whose biomass is primarily underground
 - Geographic range data relies on sporadic fruiting records rather than actual mycelial distribution
 - Generation time is difficult to estimate for many species
-- [[fungal-spore-biology]] dispersal mechanisms make range calculations complex
+- [[fungal-spore-biology|spore]] dispersal mechanisms make range calculations complex
 
 ## Major Threats to Fungal Diversity
 
 ### Habitat Destruction
 
-The primary threat to fungal diversity is habitat loss. Forest clearance, wetland drainage, and agricultural expansion destroy the substrates and ecological networks fungi depend on. Old-growth forests are particularly critical reservoirs of fungal biodiversity, harboring many [[ectomycorrhizal-ecology]] species that require specific host trees and decades of undisturbed soil conditions.
+The primary threat to fungal diversity is habitat loss. Forest clearance, wetland drainage, and agricultural expansion destroy the substrates and ecological networks fungi depend on. Old-growth forests are particularly critical reservoirs of fungal biodiversity, harboring many [[ectomycorrhizal-ecology|ectomycorrhizal]] species that require specific host trees and decades of undisturbed soil conditions.
 
 ### Pollution
 
@@ -55,17 +55,17 @@ The primary threat to fungal diversity is habitat loss. Forest clearance, wetlan
 
 ### Climate Change
 
-Shifts in temperature and precipitation patterns affect fungal fruiting phenology, distribution ranges, and host-plant relationships. [[fungi-in-climate-change]] may decouple fungal fruiting from host availability and disrupt [[mycorrhizal-networks]] that forest ecosystems depend upon.
+Shifts in temperature and precipitation patterns affect fungal fruiting phenology, distribution ranges, and host-plant relationships. [[fungi-in-climate-change|Climate change]] may decouple fungal fruiting from host availability and disrupt [[mycorrhizal-networks|mycorrhizal networks]] that forest ecosystems depend upon.
 
 ### Overharvesting
 
-Commercial and recreational harvesting of wild edible mushrooms (particularly in Europe and Asia) can reduce local populations of target species. [[matsutake-mushroom]] (Tricholoma matsutake) and [[porcini-boletus-guide]] (Boletus edulis) are notable examples of species subject to significant harvesting pressure.
+Commercial and recreational harvesting of wild edible mushrooms (particularly in Europe and Asia) can reduce local populations of target species. [[matsutake-mushroom|Matsutake]] (Tricholoma matsutake) and [[porcini-boletus-guide|porcini]] (Boletus edulis) are notable examples of species subject to significant harvesting pressure.
 
 ## Conservation Strategies
 
 ### Habitat Protection
 
-Protecting forest ecosystems, particularly old-growth stands, is the single most effective strategy for fungal conservation. [[fungal-conservation-strategies]] should include:
+Protecting forest ecosystems, particularly old-growth stands, is the single most effective strategy for fungal conservation. [[fungal-conservation-strategies|Conservation strategies]] should include:
 
 - Maintaining dead wood and woody debris in managed forests
 - Preserving diverse age classes of trees for mycorrhizal partner continuity
@@ -73,7 +73,7 @@ Protecting forest ecosystems, particularly old-growth stands, is the single most
 
 ### Monitoring and Survey Programs
 
-Systematic fungal surveys using standardized methodologies are essential for establishing baseline data. Long-term monitoring sites, citizen science programs (e.g., fungal forays with voucher specimen collection), and integration of [[fungal-dna-barcoding]] into biodiversity assessments all contribute to better conservation data.
+Systematic fungal surveys using standardized methodologies are essential for establishing baseline data. Long-term monitoring sites, citizen science programs (e.g., fungal forays with voucher specimen collection), and integration of [[fungal-dna-barcoding|DNA barcoding]] into biodiversity assessments all contribute to better conservation data.
 
 ### Protected Species Designations
 
@@ -81,41 +81,12 @@ Some countries have begun listing fungal species as protected. Scandinavian coun
 
 ## See Also
 
-- [[fungal-biodiversity]]
-- [[fungal-biodiversity-measurement-methods]]
-- [[fungal-biodiversity-biogeography]]
-- [[mycorrhizal-fungi]]
+- [[fungal-biodiversity|fungal biodiversity overview]]
+- [[fungal-biodiversity-measurement-methods|how to measure fungal diversity]]
+- [[fungal-biodiversity-biogeography|biogeographic patterns in fungi]]
+- [[mycorrhizal-fungi|mycorrhizal fungi conservation]]
 
 ## Related
 
 - [[fungal-biodiversity-in-extreme-environments]]
 - [[mycoforestry]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-Documentation of results enables continuous improvement and knowledge sharing.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-Collaborative networks facilitate rapid dissemination of innovations and best practices.

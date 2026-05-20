@@ -75,7 +75,7 @@ Bill Mollison placed animal integration within a broader framework of
 [[chicken-tractor-systems]] — chicken tractor design and management
 - [[faires-chicken-coops-tractors-and-breeding-guide]] — coop design and
   breeding guide
-- [[holistic-grazing-and-pasture-management]] — [[integrated-pest-management-ipm]] — biological pest control
+- [[holistic-grazing-and-pasture-management]] — [[integrated-pest-management]] — biological pest control
 - [[sepp-holzer]] only keeps old pig breeds on his farm because they fulfil all necessary criteria and are much more valuable, being bred only on a small scale. Free-roaming pigs are still a rarity in Austria and raise a great deal of public interest. ...
 
 ## Paddock System for Pigs

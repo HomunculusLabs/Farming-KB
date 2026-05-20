@@ -36,7 +36,7 @@ Arthur decodes several widespread mythological motifs as descriptions of the mus
 
 ## The Holy Grail as Mushroom
 
-Arthur identifies the Holy Grail with the mature Amanita muscaria: the cup-shaped upturned cap holding the "blood of God" (its juices). The Grail quest becomes a metaphor for the search for [[amanita-muscaria-preparation-methods]], and chemical properties of entheogenic fungi
+Arthur identifies the Holy Grail with the mature Amanita muscaria: the cup-shaped upturned cap holding the "blood of God" (its juices). The Grail quest becomes a metaphor for the search for [[amanita-preparation-methods]], and chemical properties of entheogenic fungi
 
 Arthur notes that the field is necessarily interdisciplinary because the knowledge was deliberately encoded in symbols and myth rather than stated openly, for fear of persecution by authorities who wanted to monopolize spiritual access.
 

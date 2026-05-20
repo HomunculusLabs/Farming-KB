@@ -13,7 +13,7 @@ sources:
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 ---
 
-## Plant Micronutrient Functions
+# Plant Micronutrient Functions
 
 ## Overview
 
@@ -141,10 +141,36 @@ More commonly a concern than deficiency. Excess chlorine causes yellowing of lea
 
 ### Functions
 
+- **Phosphorus utilization:** Necessary for the synthesis of organic phosphorus compounds once phosphorus enters the plant
+- **Nitrogen fixation:** Essential for Rhizobia and Frankia bacteria to fix atmospheric nitrogen in root nodules of legumes
+
+### Deficiency Symptoms
+
+- Chlorosis in older leaves (molybdenum is mobile)
+- "Whiptail" -- leaf curling caused by nitrate buildup when molybdenum is insufficient for nitrogen processing
+
+### Soil Behavior
+
+Becomes less available at low pH. Unlike most micronutrients, molybdenum availability increases with increasing soil pH.
+
+## Nickel (Ni)
+
+### Functions
+
+- **Urea metabolism:** When nickel is absent, nitrogen in the form of urea accumulates in leaves, causing leaf tip burns. Nickel is required for the enzyme urease, which processes urea.
+
+### Deficiency Symptoms
+
+- Leaf tip necrosis (burn)
+- Nickel is immobile in plants
+
+### Status
+
+Nickel is a relatively recent addition to the list of essential nutrients, and some scientists still do not universally recognize it due to its obscure functions and the fact that deficiency is rarely observed in field conditions.
+
 ## See Also
 
-- [[two-tier-selection-model-plant-microbiome-assembly]]
-- [[holzer-problem-plant-regulation]]
-- [[what-a-plant-knows-plant-hearing-acoustic-sensing]]
-- [[medicinal-plant-preparations-tinctures-salves-teas]]
-- [[rhodopsin-photopsins-animal-visual-pigments-plant-photoreceptor-parallels]]
+- [[plant-macronutrient-functions|macronutrient functions]]
+- [[plant-nutrient-mobility-in-soil|nutrient mobility]]
+- [[micronutrient-deficiency-symptoms|micronutrient deficiency symptoms]]
+- [[trace-elements-in-soil|trace elements in soil]]

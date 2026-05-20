@@ -7,7 +7,7 @@ tags: [cannabis, law, reform, regulation, health, safety, economics]
 sources: []
 ---
 
-## Cannabis Regulations by State
+# Cannabis Regulations by State
 
 ## Overview
 
@@ -17,7 +17,7 @@ Cannabis legality in the United States is a complex patchwork of federal prohibi
 
 ### Schedule I Classification
 
-Cannabis remains classified as a Schedule I substance under the federal [[controlled-substances-act-and-psychedelic-research]] (CSA), defined as having "no currently accepted medical use" and "a high potential for abuse." This creates ongoing conflicts with state-level legalization and impacts:
+Cannabis remains classified as a Schedule I substance under the federal Controlled Substances Act (CSA), defined as having "no currently accepted medical use" and "a high potential for abuse." This creates ongoing conflicts with state-level legalization and impacts:
 
 - Banking access for cannabis businesses (many banks won't serve the industry)
 - Interstate commerce (cannot transport cannabis across state lines, even between legal states)
@@ -39,11 +39,11 @@ Most medical programs include:
 - Chronic pain
 - Cancer (and treatment side effects)
 - PTSD (Post-Traumatic Stress Disorder)
-- [[blesching-cannabis-multiple-sclerosis]]
-- [[cannabis-for-epilepsy-and-seizure-disorders]] disorders
+- Multiple sclerosis
+- Epilepsy and seizure disorders
 - Glaucoma
 - HIV/AIDS
-- Crohn's disease and [[blesching-cannabis-inflammatory-bowel-disease]]
+- Crohn's disease and inflammatory bowel disease
 - Amyotrophic lateral sclerosis (ALS)
 - Parkinson's disease
 - Severe nausea
@@ -56,7 +56,7 @@ Some states have broader qualifying condition lists or allow physician recommend
 - **Physician recommendation:** Written certification from a licensed physician
 - **Patient card:** ID card identifying the patient as a registered medical user
 - **Designated caregiver:** Many states allow a caregiver to purchase and transport on behalf of a patient
-- **Dispensary access:** Licensed dispensaries sell medical [[hashish-preparation-and-cannabis-products]]
+- **Dispensary access:** Licensed dispensaries sell medical cannabis products
 - **Possession limits:** Typically higher than recreational limits (varies by state)
 - **Cultivation:** Some states allow home cultivation for medical patients
 
@@ -127,7 +127,7 @@ Medical cultivation is generally more permissive where it exists.
 - **Processing/manufacturing license:** Extracts, edibles, topicals production
 - **Dispensary/retail license:** Selling to consumers
 - **Distribution license:** Transporting between licensed businesses
-- **[[solomon-soil-testing-laboratory-analysis-low-input-gardening]] license:** Analytical testing of products
+- **Testing laboratory license:** Analytical testing of products
 - **Microbusiness license:** Limited-scale operations combining multiple license types
 
 ### Compliance Requirements
@@ -147,3 +147,18 @@ Many states have implemented social equity provisions to address disproportionat
 - Community reinvestment requirements and expungement provisions
 
 ## Interstate Issues
+
+Despite state-level legalization, federal issues remain:
+- **Interstate transport:** Illegal under federal law, even between legal states
+- **Banking:** Most federally insured banks won't serve cannabis businesses
+- **Taxation:** Section 280E prevents standard business deductions
+- **Employment:** Federal contractors can still test for cannabis
+- **Housing:** Federal housing regulations prohibit cannabis in subsidized housing
+- **Travel:** Cannabis cannot be brought on airplanes (TSA jurisdiction)
+
+## Staying Current
+
+- State cannabis regulatory agency websites
+- NORML (National Organization for the Reform of Marijuana Laws)
+- MPP (Marijuana Policy Project)
+- Local cannabis attorney consultations

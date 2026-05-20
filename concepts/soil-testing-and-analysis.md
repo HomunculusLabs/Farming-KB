@@ -7,7 +7,7 @@ tags: [soil, ph, npk, fertility, nutrients, soil-amendment, minerals, gardening,
 sources: []
 ---
 
-## Soil Testing and Analysis
+# Soil Testing and Analysis
 
 Soil testing is the foundation of informed soil management. Without knowing your soil's current condition, amendment decisions are guesswork that can waste money, harm soil biology, and even make existing problems worse. This guide covers pH testing, macronutrient analysis, cation exchange capacity, and how to interpret and act on results.
 
@@ -140,10 +140,51 @@ Beyond pH testing, several simple DIY assessments provide useful information:
 4. 5-10: moderate biological activity
 5. Fewer than 5: likely compacted, chemically treated, or low organic matter
 
+### Organic Matter Estimation
+Dark, rich soil typically contains 3-5% organic matter. Very light-colored sandy soil may be below 1%. For accurate organic matter percentage, use a commercial lab test.
+
+## Commercial Laboratory Testing
+
+For comprehensive analysis, send samples to a professional soil testing laboratory.
+
+### How to Collect a Representative Sample
+1. Use a clean stainless steel trowel or soil probe
+2. Take 10-15 subsamples from the area to be tested
+3. Sample at a consistent depth (6-8 inches for gardens, 4 inches for lawns)
+4. Mix all subsamples in a clean plastic bucket
+5. Remove rocks, roots, and debris
+6. Fill lab sample bag (usually provided) with 1-2 cups of the composite sample
+7. Label clearly with sample ID and date
+8. Air-dry if the lab recommends it (some want moist samples)
+
+### Recommended Labs
+- Local university extension soil testing lab (usually the most affordable, $10-30)
+- Logan Labs (Ohio) -- comprehensive analysis, $25-50
+- UMASS Amherst Soil and Plant Tissue Testing Lab
+- Peaceful Valley Farm Supply (mail-order kit)
+
+### What to Request
+- Standard soil test (pH, organic matter, CEC, base saturation)
+- Macronutrients (N, P, K)
+- Micronutrients (Ca, Mg, S, Fe, Mn, Zn, Cu, B)
+- Lead screening (especially for urban gardens)
+- Recommendations specific to your crops
+
+## Interpreting Results and Taking Action
+
+1. Compare results to optimal ranges for your intended crops
+2. Address pH first -- incorrect pH makes other nutrients unavailable regardless of how much you add
+3. Address major deficiencies (N, P, K) before minor ones
+4. Consider CEC when calculating amendment rates (high-CEC soils need more amendment to see the same result)
+5. Prioritize organic matter building as a long-term strategy (improves CEC, water retention, microbial habitat)
+6. Retest every 2-3 years to track changes
+
 ## See Also
 
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[comparison-no-till-vs-mulch-soil-management]]
-- [[soil-conditioning-chisel-plow-biological-methods]]
-- [[cannabis-living-soil-guide]]
-- [[soil-fertility-gradient-approach]]
+- [[composting-methods-comparison]] -- building soil fertility through composting
+- soil testing and analysis -- understanding your soil before amending
+- [[soil-food-web-nutrient-cycling]]
+
+## Related
+
+- [[garden-soil-basics]]

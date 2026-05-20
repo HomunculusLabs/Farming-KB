@@ -1,4 +1,5 @@
 ---
+
 title: Organic Herb Gardening
 created: 2026-04-11
 updated: 2026-04-12
@@ -19,9 +20,9 @@ sources:
   - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 ---
 
-## Organic Herb Gardening
+# Organic Herb Gardening
 
-Growing herbs using organic methods. Herbs are among the most rewarding plants to grow organically -- most are naturally pest-resistant, require minimal feeding, and many attract [[beneficial-insects-and-biological-pest-control]]. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[companion-planting-reference]] for herb-based [[cervantes-companion-planting-pest-deterrent]] strategies.
+Growing herbs using organic methods. Herbs are among the most rewarding plants to grow organically -- most are naturally pest-resistant, require minimal feeding, and many attract beneficial insects. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[companion-planting-reference]] for herb-based companion planting strategies.
 
 ## Herb Classification by Growth Habit
 
@@ -56,7 +57,7 @@ Growing herbs using organic methods. Herbs are among the most rewarding plants t
 |------|-------|
 | Bay laurel | Evergreen shrub. Bring indoors or wrap in fleece in hard winters. Slow-growing; buy a plant |
 | Lavender | Full sun, very well-drained soil. Prune after flowering to keep compact. English lavender hardiest |
-| Myrtle | Tender evergreen. Excellent in pots. Bring indoors in winter [[query-how-do-i-grow-figs-in-cold-climates]] |
+| Myrtle | Tender evergreen. Excellent in pots. Bring indoors in winter in cold climates |
 
 ## Growing Herbs from Seed
 
@@ -72,7 +73,7 @@ Growing herbs using organic methods. Herbs are among the most rewarding plants t
 - **Division** -- mint, chives, lemon balm, oregano: lift in spring, divide into sections, replant
 - **Cuttings** -- rosemary, sage, thyme, lavender: take softwood cuttings in summer, hardwood in autumn. Root in free-draining compost (50/50 compost/perlite). Use rooting hormone for woody cuttings
 - **Layering** -- rosemary, thyme, sage: bend a low stem to ground, peg down, cover with soil. Separate when rooted
-- **Seed** -- see [[seed-starting-reference]] for detailed [[organic-propagation-methods]]
+- **Seed** -- see [[seed-starting-reference]] for detailed propagation methods
 
 ## Harvesting
 
@@ -93,7 +94,7 @@ Growing herbs using organic methods. Herbs are among the most rewarding plants t
 Herbs are central to organic pest management. See [[companion-planting-reference]] for full details:
 - **Basil** with tomatoes -- repels whitefly, improves flavour
 - **Rosemary, sage, thyme** with brassicas -- deter cabbage white butterfly
-- **Mint** near [[cabbage-family-pests]] -- deters flea beetles and cabbage moths
+- **Mint** near cabbage family -- deters flea beetles and cabbage moths
 - **Dill** with carrots -- attracts predatory wasps that control carrot fly
 - **Borage** -- attracts pollinators and predatory insects; companion for tomatoes, squash, strawberries
 - **Tansy** -- deters ants, flea beetles, and Japanese beetles
@@ -101,22 +102,7 @@ Herbs are central to organic pest management. See [[companion-planting-reference
 
 ## Links
 
-- [[geoff-hamilton-organic-techniques]] -- Full [[chemical-to-organic-gardening-paradigm]] system
+- [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
 - [[companion-planting-reference]] -- Herb-based pest deterrence and companion combinations
 - [[seed-starting-reference]] -- Propagation methods
 - [[seasonal-planning]] -- Monthly task calendar
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.

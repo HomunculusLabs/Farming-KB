@@ -11,7 +11,7 @@ sources: []
 
 Miso is a traditional Japanese fermented soybean paste. It is one of the most complex and time-intensive ferments in the culinary world, requiring months to years of aging to develop its characteristic deep umami flavor. Miso serves as the base for soups, marinades, glazes, dressings, and pickling brines.
 
-The essential components are: cooked soybeans, koji (rice or barley inoculated with [[aspergillus-oryzae]]), salt, and time.
+The essential components are: cooked soybeans, koji (rice or barley inoculated with Aspergillus oryzae), salt, and time.
 
 ## Koji Preparation
 
@@ -124,5 +124,5 @@ Salt serves two critical roles: inhibiting unwanted bacteria and controlling the
 ## See Also
 
 - [[tempeh-making]] — another soybean fermentation using different fungi
-- [[natto-making]] — fermented soybeans using [[bacillus-subtilis]]
+- [[natto-making]] — fermented soybeans using Bacillus subtilis
 - [[vinegar-making]] — another traditional fermentation process

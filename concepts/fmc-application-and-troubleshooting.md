@@ -1,4 +1,5 @@
 ---
+
 title: FMC Application and Troubleshooting
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-## FMC Application and Troubleshooting
+# FMC Application and Troubleshooting
 
 Application rates, soil treatment solution (SOS), Carandang's bokashi alternative, and troubleshooting for Fermented Mixed Compost. See [[fermented-mixed-compost-fmc]] for the two FMC methods and quality indicators.
 
@@ -107,20 +108,3 @@ The charcoal in FMC is particularly important — it provides:
 - [[compost-tea-aact]] — Compost tea as liquid FMC extension
 - [[bokashi]] — EM bokashi as alternative approach
 - [[soil-food-web-nutrient-cycling]] — Nutrient cycling from FMC
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
-Collaborative networks and knowledge sharing accelerate progress in this field.
-Emerging technologies offer new tools for analysis and implementation.
-Local adaptation and context-specific strategies remain essential for success.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.

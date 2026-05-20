@@ -1,4 +1,5 @@
 ---
+
 title: Hallucinogenic Mushrooms -- European Legal and Social Trends
 created: 2026-04-11
 updated: 2026-04-12
@@ -19,7 +20,7 @@ sources:
   - raw/papers/carolina-mushrooms_08qxp.md
 ---
 
-## Hallucinogenic Mushrooms -- European Legal and Social Trends
+# Hallucinogenic Mushrooms -- European Legal and Social Trends
 
 EMCDDA (European Monitoring Centre for Drugs and Drug Addiction) case study on hallucinogenic mushroom use trends in Europe (2006). Covers prevalence, market dynamics, legal responses, and health considerations. See [[mushroom-identification]] for species identification and [[psychedelic-compounds-reference]] for pharmacology.
 
@@ -102,23 +103,7 @@ The EMCDDA's Early Warning System (EWS) was instrumental in tracking the emergen
 - [[psilocybin-large-scale-production]] — Room design and production workflow (Gottlieb)
 - [[psilocybin-mushroom-chemistry]] — Potency data
 - [[mushroom-species-guide]] — Species profiles
-- [[amanita-muscaria]] -- Amanita muscaria-specific information
+- [[amanita-muscaria-guide]] -- Amanita muscaria-specific information
 - [[psilocybin-mushroom-chemistry]] -- Dose/effects/health risks (includes EMCDDA clinical data)
 - [[mushroom-legislation-worldwide]] -- Global legal status (includes EU timeline from EMCDDA)
 - hallucinogenic mushrooms european trends -- This page (prevalence and market data)
-
-## Practical Considerations
-
-Understanding the practical applications of this
-concept requires considering both theoretical frameworks
-and real-world implementation challenges. Practitioners
-must balance ideal approaches with available resources
-and site-specific conditions to achieve meaningful results.
-
-## Research Context
-
-Current research in this area builds upon foundational
-principles while exploring new methodological approaches.
-Empirical findings continue to refine our understanding
-and suggest promising directions for future investigation
-across multiple disciplines and application domains.

@@ -1,4 +1,5 @@
 ---
+
 title: KNF Mineral Liquid
 created: 2026-04-11
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
 - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-## KNF Mineral Liquid
+# KNF Mineral Liquid
 
 Mineral liquid is a KNF input derived from rocks, rich in Ca, Mg, Fe, and trace elements. It reflects the structural characteristics of the rocks used. Mineral liquid balances soil ecosystems, activates microorganisms, breaks down hardpan layers, and improves water/soil particle structure for better plant absorption.
 
@@ -91,30 +92,3 @@ Mineral liquid is derived from various rocks containing diverse elements. The sp
 - [[knf-seawater-and-fermented-seawater]] — seawater as full-spectrum mineral source
 - [[indigenous-microorganisms-imo]] — M-A used in IMO #3 and #4 cultivation
 - [[nutritive-cycle-theory]] — when to apply each mineral liquid type
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.

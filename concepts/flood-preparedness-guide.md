@@ -7,7 +7,7 @@ tags: [safety, homesteading, climate, water, water-management]
 sources: []
 ---
 
-## Flood Preparedness Guide
+# Flood Preparedness Guide
 
 Floods are the most common and costly natural disaster in the United States. Homesteads near rivers, streams, low-lying areas, or in regions with intense rainfall are at elevated risk. Even areas far from waterways can experience flash flooding, storm surge, or localized flooding from overwhelmed drainage. This guide covers flood risk assessment, protection measures, evacuation, and recovery.
 
@@ -140,11 +140,21 @@ In addition to standard emergency supplies, include:
 
 ### Insurance
 - Standard homeowner's insurance does NOT cover flooding — you need a separate flood insurance policy through FEMA's National Flood Insurance Program (NFIP)
+- There is typically a 30-day waiting period for new flood insurance policies to take effect
+- Document all losses with receipts, photos, and serial numbers
+- File claims as soon as possible — delays can complicate reimbursement
 
-## See Also
+## Long-Term Flood Mitigation
 
-- [[fukuoka-textdoc-flood-irrigation-clover-suppression]]
-- [[fukuoka-plow-hardens-soil-flood-mechanism]]
-- [[mollison-flood-retardation-by-trees-and-earthworks]]
-- [[wildfire-preparedness-guide]]
-- [[extreme-heat-preparedness]]
+- Work with local agencies on watershed management and drainage improvements
+- Consider relocating structures if flooding is frequent and severe
+- Plant native vegetation along waterways to stabilize banks and slow runoff
+- Maintain wetland areas — they absorb and slow floodwaters naturally
+- Build berms or swales to redirect water flow around critical areas
+
+## Related Concepts
+
+- [[water-management]] — Drainage, irrigation, and water management planning
+- [[mushroom-foraging-safety-guide]] — Comprehensive safety planning
+- [[homestead-first-aid-guide]] — First aid for flood-related injuries and illness
+- [[hurricane-preparedness-guide]] — Hurricanes bring both storm surge flooding and inland flooding

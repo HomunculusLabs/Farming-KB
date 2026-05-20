@@ -5,11 +5,11 @@ updated: 2026-04-12
 type: concept
 tags: [knf, nutritive-cycle, reference, application]
 sources:
-  - "raw/papers/chos-global-natural-farming.md"
+  - raw/papers/chos-global-natural-farming.md
   - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-## KNF Input Application Timing
+# KNF Input Application Timing
 
 The Nutritive Cycle Theory states that plants need different nutrients during different stages of growth. Like humans, plants need different kinds of food at different stages. This guide covers when to apply each KNF input during the plant growth cycle.
 
@@ -115,6 +115,3 @@ Dr. Cho's view: providing nutrients in excess to plants is not needed -- it will
 - [[knf-oriental-herbal-nutrient]]
 - [[knf-lactic-acid-bacteria-serum]]
 - [[knf-fpj-ratio-guide]]
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.

@@ -7,7 +7,7 @@ tags: [entheogen, psychopharmacology, pharmacology, chemistry, therapy, safety, 
 sources: []
 ---
 
-## MDMA Reference
+# MDMA Reference
 
 MDMA (3,4-methylenedioxymethamphetamine) is an empathogen-entactogen — a compound that produces feelings of emotional openness, empathy, connection, and reduced fear. Originally synthesized in 1912 and rediscovered in the 1970s, MDMA has become one of the most promising substances in modern psychiatric research, particularly for the treatment of post-traumatic stress disorder (PTSD). Unlike classical psychedelics, MDMA's primary mechanism involves serotonin release and reuptake inhibition rather than direct receptor agonism.
 
@@ -41,7 +41,7 @@ MDMA is structurally related to:
 - Gained popularity in recreational settings in the early 1980s
 - Emergency scheduling by the DEA in 1985 despite ongoing legal challenges
 - Made permanently Schedule I in 1986
-- Rick Doblin founded MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]]) in 1986 to pursue MDMA research
+- Rick Doblin founded MAPS (Multidisciplinary Association for Psychedelic Studies) in 1986 to pursue MDMA research
 - MAPS-sponsored Phase 3 clinical trials for MDMA-assisted therapy for PTSD completed in 2021-2024 with positive results
 - FDA advisory committee review for MDMA-PTSD approval began in 2024
 
@@ -73,7 +73,7 @@ The serotonin release mechanism is the key differentiator. While classical psych
 
 - High-dose or frequent use depletes serotonin stores and may damage serotonergic neurons (animal studies)
 - Relevance to humans is debated; human SERT density can recover with abstinence
-- Hyperthermia is a major risk factor; antioxidants [[hamilton-greenhouse-heating-and-temperature-control]] may help
+- Hyperthermia is a major risk factor; antioxidants and temperature control may help
 - Risk is dose- and frequency-dependent: occasional moderate doses carry much lower risk
 
 ## Dosage
@@ -126,7 +126,7 @@ This is the most advanced clinical application:
   - ~67% of MDMA-assisted therapy participants no longer met PTSD diagnostic criteria
   - ~88% showed clinically significant improvement
   - Compared to ~32% in placebo-assisted therapy group
-- Protocol: 3 MDMA therapy sessions (80-120 mg) spaced 3-5 weeks apart, with extensive [[metzner-neoshamanic-preparation-and-integration-practices]] therapy
+- Protocol: 3 MDMA therapy sessions (80-120 mg) spaced 3-5 weeks apart, with extensive preparation and integration therapy
 - MDMA allows patients to revisit traumatic memories with reduced fear and increased emotional processing capacity
 - The empathogenic effects enhance the therapeutic alliance between patient and therapist
 - FDA review for approval was initiated in 2024
@@ -141,10 +141,44 @@ This is the most advanced clinical application:
 
 ## Harm Reduction
 
-## See Also
+### Acute Risks
 
-- [[turner-ecstasy-mdma-heart-opening-psychedelic]]
-- [[mdma]]
-- [[mdma-compound-profile]]
-- [[ecstasy-mdma-guide]]
-- [[metzner-mdma-assisted-therapy-research]]
+- Hyponatremia: from drinking excessive water (SIADH). Drink 250-500 ml/hour; do not overhydrate
+- Hyperthermia: most dangerous acute risk. Stay cool, take breaks, use cool water
+- Serotonin syndrome: risk when combined with other serotonergic drugs (SSRIs, MAOIs, tramadol). Can be fatal
+- Cardiovascular events: dangerous for those with cardiovascular conditions
+
+### Reducing Harm
+
+- Test substance (reagent tests, ideally fentanyl test strips)
+- Start low dose (especially with unknown purity)
+- Stay hydrated: 250-500 ml/hour non-alcoholic fluids; don't overhydrate
+- Take breaks from physical activity; maintain cool environment
+- Do not combine with SSRIs (reduces effects AND increases serotonin syndrome risk)
+- Wait 6-8 weeks between uses for serotonin recovery
+- Magnesium supplements before use may reduce jaw clenching
+- Have trusted friend present
+
+### Long-Term Harm Reduction
+
+- Frequency: maximum once per month; ideally much less
+- Dose: keep doses moderate (75-125 mg)
+- Avoid redosing (increases neurotoxicity risk with less benefit)
+- Exercise, good nutrition, and adequate sleep support recovery
+- Monitor mood and cognitive function for persistent problems
+
+## Legal Status
+
+- United States: Schedule I (since 1986)
+- United Nations: Schedule I under the 1971 Convention
+- Canada: Schedule I
+- United Kingdom: Class A
+- Australia: Schedule 9 (prohibited)
+- Most countries: Schedule I or equivalent
+- Clinical research permitted under specific regulatory frameworks
+
+## See Also
+- [[mckenna-mdma-and-drug-terror-of-the-1980s]]
+
+- [[lsd-reference]] for comparison with a classical psychedelic
+- [[ketamine-reference]] for another drug with breakthrough psychiatric applications

@@ -8,24 +8,24 @@ sources:
   - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 
-## JADAM Herbal Pest Control (JHS)
+# JADAM Herbal Pest Control (JHS)
 
-JADAM herb solution (JHS) is a boiled extract of insect-repelling plants, used as a natural pesticide. Combined with [[jadam-wetting-agent]] (JWA) and optionally JADAM sulfur (JS), it forms a complete pest [[vegetable-insect-and-disease-control]] system that costs a fraction of commercial pesticides.
+JADAM herb solution (JHS) is a boiled extract of insect-repelling plants, used as a natural pesticide. Combined with JADAM wetting agent (JWA) and optionally JADAM sulfur (JS), it forms a complete pest and disease control system that costs a fraction of commercial pesticides.
 
 ## Why Herbal Pest Control
 
 Trees want their fruits eaten to spread seeds -- they do not produce anti-insect substances in autumn. Farming's purpose is opposite to nature's: humans want to take all the fruits. Pesticide is therefore essential for fruit production. JADAM's natural pesticides are permitted under organic regulations, environment-friendly, not harmful to human health, effective, cheap, and easy.
 
-[[jadam-natural-pesticide-jnp]] costs about 1/50 of buying chemical pesticides.
+JADAM natural pesticide costs about 1/50 of buying chemical pesticides.
 
 ## Recommended Herb Plants
 
 Common plants with strong insect-repelling effects:
 
-- **[[comparison-jerusalem-artichoke-vs-potato]]** ([[helianthus-tuberosus]]) -- Easily grown anywhere, grows tall (no weeding needed). Boil leaves, branches, and roots. Controls aphids, mites, and most moths. Assumed that inulin in the plant acts as pesticide.
+- **Jerusalem artichoke** (Helianthus tuberosus) -- Easily grown anywhere, grows tall (no weeding needed). Boil leaves, branches, and roots. Controls aphids, mites, and most moths. Assumed that inulin in the plant acts as pesticide.
 - **Gingko** -- Tree has perfect defense mechanism against pests and diseases. Use fresh leaves, fallen leaves, and fruits.
 - **Korean pasque flower** (Pulsatilla koreana) -- Root is used. Strongest pesticide effect of all. Used in oriental medicine for blood circulation.
-- **Red spider lily** ([[lycoris-radiata]]) -- Root is used. Used in oriental medicine for tumors. Repels moles and snakes when planted.
+- **Red spider lily** (Lycoris radiata) -- Root is used. Used in oriental medicine for tumors. Repels moles and snakes when planted.
 - **Pokeweed, water pepper, bracken, foxglove** -- Also effective
 
 Other options: tobacco leaves (steep 15 days), hot pepper (steep 1 month), garlic (steep 1 month), gingko fruits (steep 1 month).
@@ -85,36 +85,3 @@ Analysis of Korean pasque flower root JHS shows: pH 6.9, contains organic matter
 - [[jadam-sulfur-application]]
 - [[jadam-fermented-plant-juice]]
 - [[knf-oriental-herbal-nutrient]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-
-## Implementation Notes
-Start with small-scale trials before expanding to larger operations.
-Maintain detailed records of conditions, inputs, and outcomes for iterative refinement.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-Documentation of results enables continuous improvement and knowledge sharing.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-Collaborative networks facilitate rapid dissemination of innovations and best practices.

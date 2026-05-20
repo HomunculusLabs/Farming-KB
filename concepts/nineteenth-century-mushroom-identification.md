@@ -7,7 +7,7 @@ tags: [mushrooms, foraging, history, biology]
 sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 ---
 
-## Nineteenth-Century Mushroom Identification and Foraging
+# Nineteenth-Century Mushroom Identification and Foraging
 
 Palmer's classification system, species descriptions, and foraging philosophy from "About Mushrooms" (1894).
 
@@ -72,78 +72,8 @@ For new species: "I broil it with the addition of salt and butter (no pepper) an
 
 Palmer identified the Amanita family as the source of all fatal mushroom poisonings. Three diagnostic marks: (1) white wrapper/volva at stem base, (2) ring/veil around stem, (3) scurfy warts on sticky cap. "The three marks — wrapper, ring, and scurfy top — must exist together." Colors variable: white, drab, golden, red, or greenish. Most common variety has yellow center fading to white.
 
-See also: [[edible-wild-mushrooms-by-region]] | [[mushroom-poisoning-guide]] | [[julius-palmer]] | [[amanita-muscaria]]
+See also: [[edible-wild-mushrooms-by-region]] | [[mushroom-poisoning-guide]] | [[julius-palmer]] | [[amanita-muscaria-guide]]
 
 ## Related
 
 - [[mushroom-toxicology-palmer-theory]]
-
-## Overview
-
-Nineteenth Century Mushroom Identification represents an important element within sustainable
-design and ecological management systems. Its proper understanding
-and integration contributes to the resilience and productivity of
-designed ecosystems and agricultural systems.
-
-## Key Characteristics
-
-Several defining characteristics distinguish nineteenth century mushroom identification
-from related concepts in permaculture and ecological design.
-Understanding these traits supports effective implementation
-and management across diverse environmental conditions.
-
-## Ecological Context
-
-The ecological relationships involving nineteenth extend
-across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
-with this element in complex and beneficial ways.
-
-## Practical Applications
-
-Nineteenth Century Mushroom Identification finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
-beneficial interactions while minimizing external inputs.
-Site-specific adaptation ensures relevance to local conditions.
-
-## Management and Implementation
-
-Effective management requires attention to seasonal patterns
-and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
-Integration with complementary elements enhances system function.
-
-## Regional Considerations
-
-Different geographic regions present unique challenges and
-opportunities for nineteenth century mushroom identification. Climate adaptation
-strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
-
-## Sustainability
-
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
-
-## Research and Development
-
-Ongoing research continues to expand understanding of
-nineteenth century mushroom identification and its applications. Active investigation
-areas include ecological interactions and optimization.
-Published findings contribute to an evolving evidence base.
-
-## Historical Context
-
-Nineteenth Century Mushroom Identification has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
-
-## Integration Strategies
-
-Successful integration of nineteenth century mushroom identification into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.

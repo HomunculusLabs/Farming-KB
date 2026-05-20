@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 Updated: 2026-04-18 [[black-locust-entity]] ([[robinia-pseudoacacia]]) is a valuable hardwood tree prized for its rot-resistant timber, excellent firewood, and nitrogen-fixing ability. It is one of the most valuable bee forages in France and a key [[urban-permaculture-trees-water-cycling]] where branch pruning provides livestock browse.
 

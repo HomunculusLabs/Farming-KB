@@ -7,7 +7,7 @@ tags: [permaculture, plants, plant-systems, pollinators, forage, design]
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
 
-## Bee Forage Plant System
+# Bee Forage Plant System
 
 A year-round honey flow can be established for permanent hive sites, eliminating the need to transport hives long distances (commercial apiarists in Australia move hives up to 1000 km to follow the honey flow -- essentially converting fossil fuel to honey with poor efficiency).
 
@@ -28,7 +28,7 @@ The hedgerow system provides food for bees AND wind-free flight paths for greate
 | Basswood | -- | -- | Early summer |
 | Citrus | N | P | -- |
 | Elm | N | P | -- |
-| [[grevillea-robusta]] | -- | -- | Spring-summer |
+| Grevillea robusta | -- | -- | Spring-summer |
 | Hakea salicifolia | -- | -- | Spring |
 | Hawthorn | N | -- | Spring; pleach for fences |
 | Maple | N | P | Including box elder |
@@ -82,39 +82,20 @@ The hedgerow system provides food for bees AND wind-free flight paths for greate
 
 Selected from extensive listings (over 40 species documented):
 
-- **[[eucalyptus-melliodora]]** (Yellow Box): Considered the best honey of all eucalypts; spring, summer
-- **[[eucalyptus-salmonophloia]]** (Salmon Gum): Choice honey; summer, autumn
-- **[[eucalyptus-globulus]]** (Blue Gum): N and P; winter, spring, summer
+- **Eucalyptus melliodora** (Yellow Box): Considered the best honey of all eucalypts; spring, summer
+- **Eucalyptus salmonophloia** (Salmon Gum): Choice honey; summer, autumn
+- **Eucalyptus globulus** (Blue Gum): N and P; winter, spring, summer
 - **Eucalyptus maculata** (Spotted Gum): Major source of winter/spring nectar
-- **[[eucalyptus-marginata]]** (Jarrah): N; spring, summer
+- **Eucalyptus marginata** (Jarrah): N; spring, summer
 - **Eucalyptus stellulata** (Black Sally): Flowers most of the year
 - **Eucryphia lucida** (Leatherwood): N; extended nectar flow
 
 ## Other Bee Forage Plants
 
-Blueberries, Buddleja spp, cape lilac, castor, Chilean nut (Gevuina avellana), [[chinese-tallow-tree]] tree, citrus (high honey producers), grey mangrove (autumn/winter, good light honey), ivy, Japanese raisin tree, marsh marigold, palms, pride of Madeira (masses of winter flowers), Prunus spp (spring), tupelo.
+Blueberries, Buddleja spp, cape lilac, castor, Chilean nut (Gevuina avellana), Chinese tallow tree, citrus (high honey producers), grey mangrove (autumn/winter, good light honey), ivy, Japanese raisin tree, marsh marigold, palms, pride of Madeira (masses of winter flowers), Prunus spp (spring), tupelo.
 
 ## Related
 
 - [[medicinal-herbs-for-livestock]]
 - [[permaculture-zone-and-sector-analysis]]
-- [[permaculture-plant-selection]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-See also [[plant-immune-system-pti-eti]] and [[tompkins-bose-plant-nervous-system-hypothesis]] for related information.Related topics include [[aact-nitrogen-forms-nitrate-amino-sugars-plant-nutrition-ingham]] and associated practices.
-Effective bee forage plant systems requires attention to hygiene, timing, and environmental conditions.
+- [[permaculture-plant-selection-guide]]

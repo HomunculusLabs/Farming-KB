@@ -7,7 +7,7 @@ tags: [homesteading, homestead-crafts, recipe, preparation]
 sources: []
 ---
 
-## Candle Making
+# Candle Making
 
 Candle making is one of the oldest homestead crafts, transforming beeswax, tallow, or plant-based waxes into functional light sources. For the regenerative homesteader, beeswax candles represent a value-added product that utilizes wax from [[top-bar-hive]] honey harvests and beekeeping operations.
 
@@ -39,7 +39,7 @@ Pillar candles are free-standing candles poured into molds. They require harder 
 
 ### Container Candles
 
-Container candles are poured directly into jars, tins, or ceramic vessels. Softer waxes like soy work well here since the container provides [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]. These are the easiest candles for beginners and are popular gifts.
+Container candles are poured directly into jars, tins, or ceramic vessels. Softer waxes like soy work well here since the container provides structural support. These are the easiest candles for beginners and are popular gifts.
 
 ### Votives and Tealights
 
@@ -59,7 +59,7 @@ Wick materials include cotton (most common for beeswax), paper core, and hemp. A
 
 Beeswax candles carry a natural honey scent. For additional fragrance:
 
-- Add [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] at 185-195 F (just below pouring temperature)
+- Add essential oils at 185-195 F (just below pouring temperature)
 - Use 0.5-1 ounce of essential oil per pound of wax
 - Good essential oils for candles: lavender, cedar, cinnamon, sweet orange, pine
 - Stir gently for 2 minutes after adding oil to ensure even distribution
@@ -90,37 +90,3 @@ Avoid synthetic fragrance oils if natural purity is important. Some essential oi
 - [[top-bar-hive]] for producing your own beeswax
 - [[herbal-salves-and-balms]] for beeswax uses beyond candles
 - [[soap-making-guide]] for another homestead craft using natural fats
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, [[mycorrhizal-fungi-ecological-restoration]], and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

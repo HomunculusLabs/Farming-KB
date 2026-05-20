@@ -7,7 +7,7 @@ tags: [homesteading, equipment, design, animal-husbandry]
 sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
 
-## Barn Design
+# Barn Design
 
 A well-designed barn protects animals, stores feed and equipment, and serves as the central hub of a homestead livestock operation. This guide covers design principles, layout, flooring, and construction considerations for small to medium homesteads. Drawn from [[nicole-faires]]' comprehensive manual.
 

@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [water, sustainability, homesteading, construction, ecology, off-grid, water-management]
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+sources: []
 ---
 
 ## Overview
 
-[[mollison-designers-natural-swimming-pools-and-water-purification]] (also called swimming ponds or bio-pools) use biological filtration instead of chlorine or other chemicals to maintain clean, clear water. They combine a swimming zone with one or more planted filtration zones where aquatic plants and [[forest-and-bamboo-beneficial-microorganisms]] purify the water. The result is a pool that looks and functions like a natural pond while being safe for swimming.
+Natural swimming pools (also called swimming ponds or bio-pools) use biological filtration instead of chlorine or other chemicals to maintain clean, clear water. They combine a swimming zone with one or more planted filtration zones where aquatic plants and beneficial microorganisms purify the water. The result is a pool that looks and functions like a natural pond while being safe for swimming.
 
 ## How Natural Pools Work
 
@@ -55,7 +54,7 @@ Combines biological filtration with a small mechanical component (UV sterilizer 
 
 The filtration zone must be proportional to the swimming zone:
 
-- **[[fukuoka-natural-farming-temperate-climates]]:** Regeneration zone = 50-70% of total surface area
+- **Temperate climates:** Regeneration zone = 50-70% of total surface area
 - **Warm/hot climates:** Regeneration zone = 60-80% of total surface area
 - **Shaded sites:** Can reduce regeneration zone by 10-15%
 - **Sunny sites:** Increase regeneration zone by 10-15%
@@ -88,14 +87,14 @@ Minimum total surface area for effective biological filtration: approximately 30
 Plants are the primary filtration mechanism. Select for:
 
 **Oxygenating submerged plants** (planted in gravel):
-- Hornwort ([[ceratophyllum-demersum]])
+- Hornwort (Ceratophyllum demersum)
 - Eelgrass (Vallisneria)
 - Water milfoil (Myriophyllum)
 
 **Marginal/emergent plants** (planted on shelf):
-- Pickerel weed ([[pontederia-cordata]])
+- Pickerel weed (Pontederia cordata)
 - Iris (Iris versicolor, I. pseudacorus)
-- Arrowhead ([[sagittaria-latifolia]])
+- Arrowhead (Sagittaria latifolia)
 - Cattail (Typha latifolia) — aggressive, use sparingly
 - Sweet flag (Acorus calamus)
 - Water mint (Mentha aquatica)
@@ -141,10 +140,39 @@ Plants are the primary filtration mechanism. Select for:
 ### Green Water (Algae Bloom)
 
 - Cause: Excess nutrients, insufficient filtration, or warm temperatures
+- Solutions: Add more plants, reduce nutrient input (no fertilizers near pool), increase circulation, add Daphnia (water fleas) to consume algae
 
-## See Also
+### Slime on Surfaces
 
-- [[natural-beekeeping-practices]]
-- [[fukuoka-rice-and-barley-natural-farming]]
-- [[natural-building]]
-- [[fukuoka-natural-farming-philosophy-five-principles]]
+- Cause: Biofilm buildup — actually normal and beneficial
+- Solution: Brush walls gently; this is part of the biological process
+
+### Mosquitoes
+
+- Cause: Stagnant water areas
+- Solution: Ensure adequate circulation, add mosquito fish (Gambusia) to swimming zone, maintain healthy zooplankton population
+
+### Leaks
+
+- Cause: Liner puncture or seam failure
+- Solution: Locate leak by observing water level drop, drain pool partially, patch with EPDM repair kit
+
+## Cost Considerations
+
+- DIY construction: $15,000-$40,000 depending on size and materials
+- Professional installation: $50,000-$100,000+
+- Operating costs: Minimal — small pump electricity ($5-15/month), occasional plant replacement
+- Compared to chemical pools: Lower long-term cost, no chemical purchases, longer liner life than typical pool surfaces
+
+## Winter Considerations
+
+In cold climates:
+- The pool can freeze solid without damage to the liner
+- Cut back plants to 2-3 inches above the water line
+- Remove and store the pump indoors
+- Do not break ice on the surface — let it freeze naturally
+- Aquatic plants are perennial and will return in spring
+
+## Related Topics
+
+Natural pools are part of a broader ecological water management approach. See [[greywater-systems-detailed]] for household wastewater and [[water-management]] for comprehensive water system design. The aquatic plants in a natural pool can also serve as [[mulching-guide]] and [[composting-methods-comparison]] material when trimmed.

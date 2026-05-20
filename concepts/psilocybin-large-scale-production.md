@@ -1,5 +1,6 @@
 ---
-title: Psilocybin Large Scale Production
+
+title: Large-Scale Psilocybin Production — Room Design and Workflow
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -20,9 +21,9 @@ sources:
 - raw/papers/psilocybin-production-gottlieb.md
 ---
 
-## Large-Scale Psilocybin Production — Room Design and Workflow
+# Large-Scale Psilocybin Production — Room Design and Workflow
 
-Gottlieb's design for a dedicated 10x15 ft production room for bulk [[psilocybin-mushroom]] cultivation. This represents the practical scale-up from individual jar cultivation to a coordinated production schedule. See [[psilocybin-fruiting-chambers]] for fruiting chamber details and [[psilocybin-liquid-culture]] for culture preparation.
+Gottlieb's design for a dedicated 10x15 ft production room for bulk psilocybin mushroom cultivation. This represents the practical scale-up from individual jar cultivation to a coordinated production schedule. See [[psilocybin-fruiting-chambers]] for fruiting chamber details and [[psilocybin-liquid-culture]] for culture preparation.
 
 Related: [[psilocybin-mushroom-cultivation]], [[psilocybin-extraction-guide]]
 
@@ -37,7 +38,7 @@ Related: [[psilocybin-mushroom-cultivation]], [[psilocybin-extraction-guide]]
 - **Humidity control**: Ultrasonic humidifier or misting system
 - **Lighting**: Fluorescent ceiling light on timer (12 hours on/12 hours off)
 - **Shelving**: Four-tier shelving units, each shelf approximately 12 inches apart
-- **Door**: Sealed to maintain [[cannabis-indoor-growing-environmental-control]]
+- **Door**: Sealed to maintain environmental control
 
 ### Equipment Checklist
 - 50+ quart Mason jars (or equivalent)
@@ -82,7 +83,7 @@ Gottlieb designed a rotating 10-day cultivation cycle for continuous production:
 - Mushrooms typically begin appearing within 48-72 hours
 
 **Day 10 — Harvest**
-- Harvest mushrooms as veils begin to tear ([[partial-veil-tropism-protection-before-spore-release]])
+- Harvest mushrooms as veils begin to tear (before spore release)
 - This is also the day to inoculate the next batch of jars
 - Repeat cycle continuously
 
@@ -144,3 +145,19 @@ This allows for harvesting approximately every 3-4 days from a single room.
 ## Cost and Materials (1976 Prices, Gottlieb)
 
 - Mason jars: ~$1.00 each (reusable)
+- Pressure cooker: ~$20-30
+- Rye grain: ~$0.50/lb
+- Syringes: ~$0.25 each
+- Fluorescent fixture: ~$10
+- Humidifier: ~$15
+- Shelving: ~$10-15 per unit
+
+Gottlieb estimated total startup cost at approximately $100-150 (1976 dollars) for a fully equipped production room.
+
+## See Also
+
+- [[psilocybin-fruiting-chambers]] — Detailed fruiting chamber construction and management
+- [[psilocybin-liquid-culture]] — Pure culture preparation and maintenance
+- [[psilocybin-extraction-guide]] — Post-harvest alkaloid extraction
+- [[psilocybin-mushroom-cultivation]] — General cultivation overview
+- [[mushroom-sterile-technique-detailed]] — Comprehensive contamination prevention

@@ -12,14 +12,14 @@ tags:
   - fly-agaric
   - shamanism
 sources:
-  - "raw/papers/amanita-muscaria-herb-of-immortality.md"
-  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
+  - raw/papers/amanita-muscaria-herb-of-immortality.md
+  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
   - raw/papers/mckenna_t-food_of_the_gods.md
 ---
 
-## Amanita Muscaria Ethnobotany
+# Amanita Muscaria Ethnobotany
 
-The ethnobotanical history of the [[fly-agaric]] mushroom (*[[amanita-muscaria]]*), from Siberian shamanism to its role in psychedelic theories about ancient religion.
+The ethnobotanical history of the fly-agaric mushroom (*Amanita muscaria*), from Siberian shamanism to its role in psychedelic theories about ancient religion.
 
 ## The Mushroom
 
@@ -98,25 +98,3 @@ Despite scholarly weaknesses, Wasson's theory was enormously influential in the 
 - [[psychedelic-plants-in-ancient-cultures]] for the Soma and Eleusinian mysteries
 - [[sacred-mushroom-hypothesis]] for Allegro's theory about Christianity
 - [[shamanic-use-of-psychedelics]] for cross-cultural shamanic use
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

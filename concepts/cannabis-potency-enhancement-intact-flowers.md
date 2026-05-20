@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-18
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 ## Cannabis Potency Enhancement of Intact Flowers
 

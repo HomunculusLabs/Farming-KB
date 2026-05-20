@@ -68,7 +68,7 @@ Row gardening — spacing plants far enough apart to walk between them — offer
 After decades of experience, Solomon recommends a hybrid approach:
 
 1. Use wider spacing than intensive methods prescribe — enough for each plant to reach full size without excessive competition
-2. Apply moderate amounts of [[complete-organic-fertilizer]] (COF) rather than massive quantities of compost
+2. Apply moderate amounts of [[complete-organic-fertilizer-cof]] (COF) rather than massive quantities of compost
 3. Maintain [[humus-and-soil-organic-matter]] with cover crops and ley rotations (grass/clover fallows)
 4. Minimize irrigation, aiming for dry-gardening techniques where climate permits
 5. Rotate garden beds into grass/clover leys every 4-5 years to rebuild soil biology

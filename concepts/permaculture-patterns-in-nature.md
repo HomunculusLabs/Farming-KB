@@ -13,9 +13,9 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-## Permaculture Patterns in Nature
+# Permaculture Patterns in Nature
 
-Chapter 4 of the Designers' Manual is devoted to [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] -- the recognition that natural systems express themselves through recurring patterns that can be applied to design. Pattern application is what distinguishes permaculture from other design approaches.
+Chapter 4 of the Designers' Manual is devoted to pattern understanding -- the recognition that natural systems express themselves through recurring patterns that can be applied to design. Pattern application is what distinguishes permaculture from other design approaches.
 
 ## The Role of Pattern in Design
 
@@ -27,7 +27,7 @@ Permaculture design works from pattern to detail. Understanding the patterns tha
 
 Branching patterns appear throughout nature: in trees, rivers, blood vessels, lightning, root systems, and neural networks. Branching is an efficient distribution system -- it minimises the distance any element must travel while maximising surface area for exchange. In permaculture design, branching patterns inform road layout, water distribution, pathway systems, and the placement of elements in zone planning.
 
-The Manual discusses [[event-classification-and-orders-of-magnitude]] in branches and how branching affects the efficiency of conduits for flow (water, nutrients, energy).
+The Manual discusses orders of magnitude in branches and how branching affects the efficiency of conduits for flow (water, nutrients, energy).
 
 ### Spirals
 
@@ -63,58 +63,18 @@ Events in natural systems can be classified by their scale, frequency, and patte
 
 ## The World as Tessellation
 
-The world we live in can be understood as a [[world-as-tessellation-of-events]] -- a mosaic of overlapping patterns at different scales. Design involves reading these existing patterns and placing new elements in harmony with them.
+The world we live in can be understood as a tessellation of events -- a mosaic of overlapping patterns at different scales. Design involves reading these existing patterns and placing new elements in harmony with them.
 
 ## Pattern in Society
 
-Tribal societies have long used patterning in their design of settlements, agriculture, and social organisation. The [[mnemonics-of-meaning]] -- songs, stories, and art -- encode pattern knowledge across generations. The arts are in the service of life when they express natural patterns.
+Tribal societies have long used patterning in their design of settlements, agriculture, and social organisation. The mnemonics of meaning -- songs, stories, and art -- encode pattern knowledge across generations. The arts are in the service of life when they express natural patterns.
 
 ## Designers' Checklist
 
-The Manual provides a pattern application checklist for designers, covering [[boundary-conditions-and-edge-effect]], flow analysis, edge effects, branching efficiency, and the compatibility of placed elements.
+The Manual provides a pattern application checklist for designers, covering boundary conditions, flow analysis, edge effects, branching efficiency, and the compatibility of placed elements.
 
 ## Related Concepts
 
 - [[permaculture-design]] -- Pattern understanding as input to design process
-- [[permaculture-zone-and-sector-analysis]] -- Pattern of [[permaculture-beginners-guide-zones-and-sectors]] as master layout
+- [[permaculture-zone-and-sector-analysis]] -- Pattern of zones and sectors as master layout
 - [[permaculture-introduction-and-ethics]] -- Ethical foundation for design decisions
-## Design Considerations
-
-Permaculture design emphasizes working with natural patterns rather
-than against them. Key principles include observation of energy
-flows, stacking functions, and maximizing beneficial relationships.
-Zone planning places frequently accessed elements closer to the
-dwelling while less intensive activities occupy outer zones. Sector
-analysis maps external energies to optimize element placement.
-Effective designs integrate multiple outputs from each element,
-creating resilient and productive biological systems.
-
-## Practical Applications
-
-Implementation requires careful site analysis followed by phased
-development building soil fertility and ecological complexity.
-Swales and earthworks capture and infiltrate water. Guild planting
-combines species with complementary functions. Animals are integrated
-as workers providing fertilizer, pest control, and food production.
-Succession planning guides the evolution from pioneer species to
-mature food forest systems over time.
-
-## Challenges and Considerations
-
-Implementing permaculture systems requires patience, as ecological
-processes develop over years rather than single growing seasons.
-Initial establishment costs can be significant, though long-term
-operational costs decrease as systems mature and self-regulate.
-Local climate, soil conditions, and available resources constrain
-design options. Knowledge of local ecology and indigenous practices
-informs appropriate species selection and management strategies.
-Community support and knowledge sharing networks facilitate
-successful implementation and ongoing adaptation.
-
-## See Also
-
-- [[a-b-watt-permaculture]]
-- [[aaa-digestion-mollison]]
-- [[aboriginal-ecology-permaculture-two]]
-- [[acacia-species-permaculture-pioneer-fodder-timber]]
-- [[acerola-barbados-cherry-permaculture-guide]]

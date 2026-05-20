@@ -1,4 +1,5 @@
 ---
+
 title: Plant Sensing and Communication
 created: 2026-04-11
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
 - raw/papers/grahamholmes-what-a-plant-knowsindd.md
 ---
 
-## Plant Sensing and Communication
+# Plant Sensing and Communication
 
 Plants perceive and respond to their environment through sophisticated sensory systems that, while fundamentally different from animal senses, achieve many of the same functions. Research by Chamovitz and others reveals that plants detect light (color, direction, duration), chemical signals (volatile organic compounds), mechanical stimuli (touch, vibration), gravity, and moisture -- and use this information to coordinate growth, defense, and reproduction.
 

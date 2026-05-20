@@ -95,4 +95,4 @@ few remote indigenous communities of the Sierra Mazateca, Zapotec highlands,
 
 - [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]
 - [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]]
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]

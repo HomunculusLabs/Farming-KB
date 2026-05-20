@@ -96,3 +96,29 @@ These observations suggest that intrinsic metal tolerance mechanisms — includi
 ## Summary
 
 Fungi have colonized virtually every stressful environment on Earth through a combination of three fundamental life strategies — competitive, stress-tolerant, and ruderal — that can be deployed flexibly depending on conditions. Thermophilic and thermotolerant species exploit heated substrates from compost to volcanic springs, psychrotolerant and [[psychrophilic-fungi]] dominate the vast cold biosphere from glacial ice to polar soils, and metal-tolerant populations persist in both contaminated and pristine environments. The ecological understanding of these adaptations directly informs their application in industry, agriculture, and environmental management.
+
+## Key Considerations
+
+The study of fungi in stressful environments — ecological strategies, thermophilic, psychrophilic, and metal-tolerant fungi encompasses several interrelated
+domains that inform both theoretical understanding and practical
+application. Researchers and practitioners continue to refine
+methodologies and expand the body of knowledge in this area.
+
+Cross-disciplinary approaches have proven particularly valuable,
+integrating insights from related fields to develop more
+comprehensive frameworks for analysis and implementation.
+
+## Practical Applications
+
+Understanding fungi in stressful environments — ecological strategies, thermophilic, psychrophilic, and metal-tolerant fungi has direct implications for
+practical work in the field. The principles described here
+can be adapted to various contexts and scales of operation.
+
+Practitioners should consider local conditions, available
+resources, and specific goals when applying these concepts.
+
+## See Also
+
+- [[aact-calcium-fungi-interaction-nutrient-bioavailability-ingham]]
+- [[aact-forest-litter-fungi-mycorrhizal-ingham]]
+- [[aact-mite-management-and-biocontrol-fungi]]

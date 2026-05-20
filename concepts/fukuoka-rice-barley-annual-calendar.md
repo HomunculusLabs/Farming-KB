@@ -1,5 +1,6 @@
 ---
-title: Fukuoka Rice Barley Annual Calendar
+
+title: Fukuoka Rice-Barley Annual Calendar
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -17,14 +18,13 @@ tags:
 - equipment
 
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 - raw/papers/masanobu-fukuoka-fukuoka.md
 - raw/papers/one-straw-revolution-masanobu-fukuoka.md
 ---
 
-## Fukuoka Rice-Barley Annual Calendar
+# Fukuoka Rice-Barley Annual Calendar
 
-[[masanobu-fukuoka]]'s direct-seeded, no-tillage rice/[[direct-seeded-no-tillage-rice-barley-succession]] produces ~22 bushels (1,300 lbs) of rice and 22 bushels of barley per quarter-acre -- matching conventional Japanese yields at a fraction of the labor. The entire year's planting for one field is finished by New Year's Day. See [[natural-farming-fukuoka]] for the full method overview and [[fukuoka-philosophy-in-practice]] for the philosophical context.
+Masanobu Fukuoka's direct-seeded, no-tillage rice/barley succession produces ~22 bushels (1,300 lbs) of rice and 22 bushels of barley per quarter-acre -- matching conventional Japanese yields at a fraction of the labor. The entire year's planting for one field is finished by New Year's Day. See [[natural-farming-fukuoka]] for the full method overview and [[fukuoka-philosophy-in-practice]] for the philosophical context.
 
 ## Annual Cycle
 
@@ -38,7 +38,7 @@ sources:
 - **Harvest rice** while trampling young barley/rye seedlings underfoot -- they recover immediately
 - **Thresh rice** on site
 - **Scatter ALL rice straw uncut** over the field -- do NOT chop or arrange neatly
-- **Add [[chicken-manure]]** (650-900 lbs/quarter-acre) to help decompose straw
+- **Add chicken manure** (650-900 lbs/quarter-acre) to help decompose straw
 - **Form clay pellets** containing rice seed (4.5-9 lbs/quarter-acre); see [[natural-farming-seed-balls]]
 
 ### Mid-November to Mid-December
@@ -71,7 +71,7 @@ sources:
 - Drain as soon as possible after the week
 
 ### June-July
-- **No irrigation needed** -- even in dry years, soil stays moist under straw [[fukuoka-clover-and-green-manure-cropping]] mulch
+- **No irrigation needed** -- even in dry years, soil stays moist under straw and green manure mulch
 - Rainfall alone is sufficient
 - If extremely dry, light irrigation is acceptable
 - Rice plants develop strong roots in unflooded soil
@@ -107,7 +107,7 @@ Fukuoka's water regime is the opposite of conventional paddy farming:
 3. **August**: Run fresh water through weekly, never let it stand
 4. **Never hold water more than 5 days** at any point
 
-Conventional farming keeps fields flooded all season to [[query-how-do-cover-crops-suppress-weeds]]. Fukuoka suppresses weeds with straw mulch and clover instead. The result: rice plants develop stronger roots, are more disease-resistant, and sunlight reaches the base of every plant.
+Conventional farming keeps fields flooded all season to suppress weeds. Fukuoka suppresses weeds with straw mulch and clover instead. The result: rice plants develop stronger roots, are more disease-resistant, and sunlight reaches the base of every plant.
 
 ## The "No Gap" Principle
 
@@ -121,7 +121,7 @@ A critical insight: timing seeding so there is **no interval between succeeding 
 - **Always scatter uncut** -- chopped straw does not work as well
 - **Never arrange neatly** -- toss "every which way, just as though the stalks had fallen naturally"
 - **Cross-species mulching is safe**: rice straw on barley field (fall), barley straw on rice field (spring)
-- **Do NOT use same-species fresh straw**: fresh [[fukuoka-straw-winter-grain-straw-mulch]] should not mulch other winter grain (disease risk)
+- **Do NOT use same-species fresh straw**: fresh winter grain straw should not mulch other winter grain (disease risk)
 - **Rice straw decomposes completely** by the time rice sprouts the following spring
 - **All straw and hulls** from threshing go back to the field -- nothing is removed
 
@@ -143,3 +143,19 @@ For fields currently under conventional cultivation:
 4. **Use more seed initially** (up to 22 lbs/quarter-acre for winter grain) -- reduce as soil improves
 5. The most important factor is "the state of mind of the farmer" -- patience and observation over intervention
 
+## Adapting to Other Climates
+
+Fukuoka noted this method could be adapted:
+- Where water is scarce: upland rice, buckwheat, sorghum, millet
+- Instead of white clover: other clover varieties, alfalfa, vetch, or lupine
+- "Natural farming takes a distinctive form in accordance with the unique conditions of the area in which it is applied"
+
+## See Also
+
+- [[natural-farming-fukuoka]] -- Full method overview
+- [[fukuoka-philosophy-in-practice]] -- Philosophy and orchard management
+- [[fukuoka-soil-building-method]] -- Soil restoration method
+- [[natural-farming-seed-balls]] -- Clay pellet technique
+- [[natural-farming-vs-organic-vs-conventional]] -- Three-way comparison
+- [[no-tillage-grain-systems]] -- Modern no-till methods
+- [[cover-cropping-guide]] -- Green manure and soil protection

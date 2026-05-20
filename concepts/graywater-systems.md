@@ -7,7 +7,7 @@ tags: [permaculture, water, design, ecology, regenerative, methods, homesteading
 sources: []
 ---
 
-## Graywater Systems
+# Graywater Systems
 
 Graywater is wastewater from household sources other than toilets (sinks, showers, bathtubs, washing machines). A graywater system captures, treats, and reuses this water for landscape irrigation, reducing municipal water consumption by 30-50% and returning nutrients to the soil. Graywater reuse is a key component of [[permaculture-design]] water management and [[homestead-water-systems]], closing the loop between household water use and landscape productivity.
 

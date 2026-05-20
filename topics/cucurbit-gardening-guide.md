@@ -114,7 +114,7 @@ and nutrition throughout the season.
 
 ## See Also
 
-[[integrated-pest-management-ipm]]
+[[integrated-pest-management]]
 pollinator-gardens-and-beneficial-insects
 [[composting-and-soil-biology]] [[permaculture-design-principles]] [[drip-irrigation]] three-sisters
 

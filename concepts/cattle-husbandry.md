@@ -7,11 +7,11 @@ tags: [animal-husbandry, homesteading, livestock, forage, byproducts, livestock-
 sources: []
 ---
 
-## Cattle Husbandry
+# Cattle Husbandry
 
 Cattle are the largest and most land-intensive homestead livestock, but they
 offer unmatched production of meat, milk, and draft power. On a homestead
-scale, cattle are best managed through [[comparison-rotational-grazing-vs-continuous-grazing]] on improved pasture,
+scale, cattle are best managed through rotational grazing on improved pasture,
 minimizing purchased inputs and maximizing the conversion of forage to food.
 
 ## Beef Breeds
@@ -56,7 +56,7 @@ pair can be sustained on 2-5 acres depending on climate and pasture quality.
 - Rest periods vary: 21-45 days in spring, 45-90+ days in summer drought.
 - See [[pasture-management]] for detailed rotational grazing design.
 - Stocking density: start conservative and increase as you learn your land's
-  [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]].
+  carrying capacity.
 - Multi-species grazing (cattle + sheep + goats) improves pasture utilization
   and reduces parasite loads.
 
@@ -89,7 +89,7 @@ handler safety.
 - Strategic deworming: at turnout on pasture, mid-summer, and before winter.
 - Cooperia and Ostertagia are the most problematic internal parasites in cattle.
 - External parasites: flies (horn flies, face flies), lice, ticks. Use
-  pour-on insecticides, fly tags, or [[integrated-pest-management]].
+  pour-on insecticides, fly tags, or integrated pest management.
 
 ### Common Health Issues
 - Bovine Respiratory Disease (BRD) — stress-related, most common in
@@ -99,11 +99,11 @@ handler safety.
   fly control.
 - Foot rot — caused by bacteria in wet/muddy conditions. Zinc sulfate foot
   baths, improve drainage.
-- Grass tetany — [[query-how-to-fix-magnesium-deficiency-in-cannabis]] lactating cows on lush spring grass.
+- Grass tetany — magnesium deficiency in lactating cows on lush spring grass.
   Provide magnesium mineral supplement.
 - Bloat — frothy bloat on legume-rich pasture. Poloxalene blocks, manage
   legume intake.
-- Milk fever — [[knf-calcium-deficiency-symptoms]] at calving. Provide calcium pre-calving.
+- Milk fever — calcium deficiency at calving. Provide calcium pre-calving.
 
 ### Breeding Health
 - Bull breeding soundness exam (BSE) annually.
@@ -127,7 +127,7 @@ handler safety.
 - Cattle finished entirely on pasture and stored forage.
 - Longer finishing period: 24-30 months total (vs 18-20 for grain-finished).
 - Higher omega-3 fatty acids, CLA, vitamin E. Leaner meat.
-- Requires quality [[pasture-management-and-forage]] winter feed storage. See
+- Requires quality pasture management and winter feed storage. See
   [[hay-and-forage-management]].
 - Premium market prices available. Requires consistent marbling genetics.
 - Finish on high-quality pasture or stockpiled fescue for best results.
@@ -148,3 +148,34 @@ handler safety.
 
 - Calving difficulty (dystocia) is higher in first-calf heifers. Monitor
   closely. Assist only if necessary — know when to call a vet.
+- Ensure colostrum intake within 4 hours. Calf must receive 2-4 quarts of
+  high-quality colostrum.
+- Process calves: tag, castrate (band or knife), and vaccinate within first
+  week.
+- Creep feed: offer grain to nursing calves starting at 2-3 months to
+  supplement milk and prepare for weaning.
+- Wean at 6-8 months. Fenceline weaning reduces stress.
+
+## Manure and Byproducts
+
+- One beef cow produces ~60-80 lbs of manure per day (20-30 tons/year).
+- Excellent compost ingredient. High carbon from bedding plus nitrogen from
+  manure.
+- Can be directly applied to pastures (not gardens without composting).
+- Cow bones and horns: excellent for bone broth, bone meal, and [[animal-byproducts]].
+- Cowhide: tanning for leather. See [[animal-harvest-and-processing]].
+- Tallow: rendered beef fat for cooking, soap making, candles, leather
+  conditioning.
+
+## Links
+
+- [[sheep-husbandry]]
+- [[pasture-management]]
+- [[hay-and-forage-management]]
+- [[livestock-feed-formulation]]
+- [[livestock-fencing-guide]]
+- [[animal-harvest-and-processing]]
+
+## Related
+
+- [[cattle-health-and-production]]

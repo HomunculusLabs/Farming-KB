@@ -7,7 +7,7 @@ tags: [entheogen, chemistry, preparation, lab-technique, mycology, psychopharmac
 sources: []
 ---
 
-## Psilocybin Extraction Guide
+# Psilocybin Extraction Guide
 
 ## Overview
 
@@ -140,11 +140,19 @@ Converting mushroom extract into purified psilocybin crystals:
 - Dried mushrooms: store in airtight container with desiccant, in a cool dark place — potency stable for 1–2 years
 - Ethanol tincture: 6–12 months in amber glass, refrigerated
 - Psilocybin degrades with heat, light, and oxygen exposure
+- Oxidation of psilocin is what causes mushrooms to turn blue when bruised
 
-## See Also
+## Safety Considerations
 
-- [[psilocybin-in-human-evolution]]
-- [[psilocybin-pharmacology-5ht2a-receptor-mechanism]]
-- [[emcdda-psilocybin-non-addictive-profile-tolerance]]
-- [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]
-- [[metzner-harvard-psilocybin-prison-project-behavior-change]]
+- Start with low doses — potency is unpredictable without testing
+- A sitter is recommended, especially at higher doses
+- Screen for SSRIs or other serotonergic medications (serotonin syndrome risk)
+- Avoid if personal or family history of psychosis or schizophrenia
+- Set and setting are critical for a positive experience
+- See [[psychedelic-plants-legal-status]] for legal information
+- See [[psychedelic-mushroom-decriminalization]] for reform efforts
+
+## Related Topics
+
+- [[psychedelic-mushroom-decriminalization]] — legal reform movement
+- [[dmt-extraction-guide]] — extraction methods for DMT, a related tryptamine

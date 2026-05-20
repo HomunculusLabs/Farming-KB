@@ -140,11 +140,17 @@ Common homestead recipes include:
 | Lid buckled | Too much headspace, pressure fluctuation | Measure headspace accurately, maintain steady pressure |
 | Liquid lost from jar | Rapid pressure change, siphoning | Let canner depressurize naturally, do not force-cool |
 | Cloudy liquid | Minerals in water, starch from food | Use soft water, blanch vegetables before canning |
+| Discolored food | Iron in water, reaction with metal | Use soft water, do not use aluminum cookware |
 
-## See Also
+## Storage and Shelf Life
 
-- [[comparison-root-cellaring-guide-vs-canning-and-preserving]]
-- [[holzer-seed-autonomy-preserving-old-varieties]]
-- [[canning-and-preserving]]
-- [[preserving-wood-timber-framing]]
-- [[falconer-mushroom-preserving-and-drying]]
+- Store jars in a cool (50-70F), dark, dry location
+- Do not store above 95F or below freezing
+- Remove rings before storage to detect seal failure
+- Shelf life: 12-18 months for best quality; safe indefinitely if properly sealed and stored, though quality declines over time
+- Check seals before use: lid should be concave and should not flex when pressed
+- Discard any jar with a broken seal, bulging lid, or off odor
+
+## Related Topics
+
+For the critical safety aspects of pressure canning, see [[pressure-canning-safety]]. For other preservation methods, see [[smoking-meat-and-fish]] and [[root-vegetable-storage-guide]]. Fresh produce for canning connects to [[perennial-vegetables]] and broader homestead food production.

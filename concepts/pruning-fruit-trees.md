@@ -7,7 +7,7 @@ tags: [pruning, fruit-tree, orchard, agriculture, cultivation, techniques, plant
 sources: []
 ---
 
-## Pruning Fruit Trees
+# Pruning Fruit Trees
 
 Pruning is the selective removal of branches to shape the tree, improve fruit quality, increase light penetration, remove diseased or dead wood, and maintain tree health. Proper pruning is one of the most important skills for fruit tree care and directly affects yield, fruit size, and tree longevity.
 
@@ -140,10 +140,40 @@ Espalier is the practice of training trees to grow flat against a wall, fence, o
    - Second cut: Cut from the top, just outside the first cut, removing the branch
    - Third cut: Remove the remaining stub, cutting just outside the branch collar
 
-## See Also
+## Timing by Tree Type
 
-- [[fukuoka-pruning-cascade-self-perpetuating-cycle]]
-- [[pruning-techniques-organic]]
-- [[comparison-lollipopping-vs-cannabis-pruning-and-defoliation]]
-- [[cervantes-root-pruning-rootbound-management]]
-- [[garden-myths-planting-and-pruning]]
+### Apples and Pears
+
+- **Winter pruning (February-March)**: Primary structural pruning. Tree is dormant; branch structure is visible.
+- **Summer pruning (June-August)**: Remove water sprouts, thin crowded areas, improve light. Less vigorous regrowth from summer cuts.
+- Best pruned during dormancy; summer pruning is supplemental.
+
+### Peaches and Nectarines
+
+- **Winter pruning (February-March)**: Major structural pruning and renewal of fruiting wood. Remove 50% of last year's growth.
+- **Summer pruning (May-August)**: Essential for peaches. Remove vigorous upright shoots, thin fruit, maintain open center. Summer pruning reduces disease pressure significantly.
+- Peaches require aggressive annual pruning for consistent production.
+
+### Cherries
+
+- **Sweet cherries**: Prune only in summer (June-July) to avoid bacterial canker infection. Minimal pruning needed after framework is established.
+- **Sour cherries**: Can be pruned in late winter. Fruit on 1-year-old wood; remove oldest wood to renew.
+
+### Plums and Apricots
+
+- **Winter pruning (February-March)**: Light structural pruning.
+- **Avoid pruning in wet weather**: Both are susceptible to bacterial canker and silver leaf disease.
+- Japanese plums fruit on 1-year wood; European plums on older spurs. Adjust renewal pruning accordingly.
+
+### Citrus
+
+- **Minimal pruning needed**: Remove dead wood, crossing branches, and suckers.
+- **Best timing**: After harvest, before spring bloom.
+- **Avoid heavy pruning**: Citrus fruit is produced on the outside of the canopy; heavy pruning removes fruiting wood.
+
+## Related Topics
+
+- [[grafting-fruit-trees]] for propagating fruit trees to prune
+- [[plant-propagation-methods]] for other propagation techniques
+- [[fruit-tree-pruning]] for general fruit tree care
+- [[orchard-management]] for orchard management

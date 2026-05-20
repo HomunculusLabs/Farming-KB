@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-20
 type: concept
 tags: [remediation, environment]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 ## White-Rot Fungi in Pesticide and BTEX Bioremediation

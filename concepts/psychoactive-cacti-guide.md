@@ -1,4 +1,5 @@
 ---
+
 title: Psychoactive Cacti Guide
 created: 2026-04-11
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
 - raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
 ---
 
-## Psychoactive Cacti Guide
+# Psychoactive Cacti Guide
 
 Mescaline-containing cacti have been used ceremonially for thousands of years. The principal species are peyote (Lophophora williamsii), San Pedro (Echinopsis pachanoi), and Peruvian Torch (Echinopsis peruvianus).
 
@@ -94,28 +95,9 @@ Peyote's slow growth rate makes grafting attractive. Pereskiopsis spathulata or 
 
 - [[psychedelic-compounds-reference]] for mescaline pharmacology and comparisons
 - [[entheogen-culture]] for broader context of ceremonial plant use
-- [[amanita-muscaria]] for another major entheogenic fungi
+- [[amanita-muscaria-guide]] for another major entheogenic fungi
 - [[richard-gottlieb]] — Author of peyote and psychoactive cacti cultivation guides
 
 ## Related
 
 - [[peyote-cultivation]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-
-These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

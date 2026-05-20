@@ -7,7 +7,7 @@ tags: [construction, homesteading, off-grid, design, sustainability, engineering
 sources: []
 ---
 
-## Tiny House on Wheels
+# Tiny House on Wheels
 
 A Tiny House on Wheels (THOW) is a dwelling built on a trailer chassis, typically 8.5 feet wide and 13.5-22 feet long, designed to be mobile yet function as a permanent home. THOWs are a popular entry point for homesteaders seeking affordable, self-built housing with the flexibility to relocate. Building codes generally exempt structures on wheels, giving builders freedom in design.
 
@@ -88,7 +88,7 @@ Weight is the critical constraint in THOW design. Every material choice has weig
 - Acts as air barrier, vapor barrier, and structural reinforcement
 - Eliminates thermal bridging through framing
 - Cost: $2,000-4,000 for a typical THOW
-- Best for: [[avalanche-phenomenon]] where insulation performance is critical
+- Best for: Cold climates where insulation performance is critical
 
 ### Rigid Foam Board (Best Value)
 
@@ -119,28 +119,28 @@ Weight is the critical constraint in THOW design. Every material choice has weig
 - Battery bank: 200-400 Ah lithium (LiFePO4 preferred)
 - Charge controller and inverter: 2000-3000W pure sine wave
 - Daily capacity: 2-4 kWh (enough for lights, laptop, phone, water pump)
-- See [[homestead-internet-options]] for off-grid communication
+- See [[homestead-internet-options|connectivity options]] for off-grid communication
 
 ### Water System
 
 - Fresh water tank: 30-50 gallons
 - 12V water pump and pressure tank
 - Propane tankless water heater
-- Greywater tank: 20-40 gallons (or [[off-grid-waste-management]] disposal system)
+- Greywater tank: 20-40 gallons (or [[off-grid-waste-management|greywater]] disposal system)
 
 ### Composting Toilet
 
 - Nature's Head, Separett, or Air Head are popular THOW models
 - No blackwater tank needed — significant weight and complexity savings
 - Vent fan requires small 12V power draw
-- See [[off-grid-waste-management]] for detailed comparison
+- See [[off-grid-waste-management|waste management]] for detailed comparison
 
 ### Heating and Cooling
 
 - Propane heater: Dickinson Newport or similar marine heater (vented)
 - Mini-split: 9,000 BTU unit heats and cools (requires 1500W power)
 - Wood stove: Cubic Mini or similar small wood stove (requires proper clearance and venting)
-- [[passive-solar-design]] orientation helps with both heating and cooling
+- [[passive-solar-design|Passive solar]] orientation helps with both heating and cooling
 
 ## Design Considerations
 
@@ -148,3 +148,24 @@ Weight is the critical constraint in THOW design. Every material choice has weig
 - Stairs vs. ladder: Stairs provide storage underneath and are safer; ladders save space
 - Kitchen layout: Galley (along one wall) maximizes counter space in narrow footprint
 - Bathroom: Minimum 30x36 inches for shower; wet baths combine toilet and shower
+- Windows: Maximize natural light and ventilation; operable windows on every wall
+- Ventilation: Range hood for cooking, bathroom exhaust fan, roof vent for moisture control
+
+## Building Process
+
+1. Design (1-4 weeks): Create detailed plans including weight calculations
+2. Trailer preparation (1 week): Remove existing deck, add tie-down plates, rust-proof
+3. Framing (2-4 weeks): Floor framing first, then walls, then roof
+4. Sheathing and weatherproofing (1-2 weeks): Tyvek wrap, windows, doors, roofing
+5. Rough-in utilities (1-2 weeks): Plumbing, electrical, propane lines
+6. Insulation (3-5 days)
+7. Interior finishing (2-4 weeks): Walls, flooring, cabinets, trim
+8. Systems installation (1-2 weeks): Appliances, solar, water tanks
+9. Final touches (1 week): Paint, hardware, exterior finish
+
+## See Also
+
+- [[skoolie-bus-conversion]]
+- [[van-life-off-grid]]
+- [[passive-solar-design]]
+- [[off-grid-waste-management]]

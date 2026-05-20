@@ -7,7 +7,7 @@ tags: [mushrooms, fungi, mycology, medicine, health, biology, species-profiles, 
 sources: []
 ---
 
-## Turkey Tail (Trametes versicolor)
+# Turkey Tail (Trametes versicolor)
 
 ## Overview
 
@@ -140,11 +140,23 @@ Beta-glucans are water-soluble, while triterpenoids are alcohol-soluble. A dual 
 Commercial turkey tail products vary widely in quality:
 - Look for products that specify beta-glucan content (>30%)
 - Verify species identity (some products contain fillers or wrong species)
+- Prefer products that use both fruiting body and mycelium
+- Reputable brands: Host Defense, Fungi Perfecti, Nammex, Real Mushrooms
+
+## Precautions
+
+- Generally considered safe with minimal side effects (occasional mild digestive upset)
+- Consult oncologist before using alongside cancer treatment
+- May enhance immune activity — use caution with autoimmune conditions
+- Possible interactions with immunosuppressant drugs
+- Not recommended during pregnancy or breastfeeding (insufficient safety data)
+
+## Ecology
+
+Turkey tail is a white-rot fungus, meaning it degrades lignin in wood. It plays an important role in forest nutrient cycling by breaking down dead hardwood and returning nutrients to the soil. It is one of the most common wood-decay fungi in temperate forests and can be found year-round on standing dead trees, fallen logs, and branches.
 
 ## See Also
 
-- [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
-- [[turkey-tail-mushroom-cancer-research]]
-- [[comparison-reishi-vs-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
-- [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]
-- [[turkey-tail-mushroom-cancer-research]]
+- [[mushroom-cooking-techniques]] — General mushroom preparation and safety
+- [[fungal-symbiosis-types]] — How fungi interact with other organisms
+- [[bioluminescent-fungi]] — Other notable fungal species

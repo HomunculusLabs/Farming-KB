@@ -112,7 +112,7 @@ Water-soluble fertilizers are injected into the irrigation line using a proporti
 
 ### Fertigation in Organic Systems
 
-Solomon connects fertigation to his [[complete-organic-fertilizer]] (COF) program (pp. 20–21) and broader organic gardening approach. While COF is typically applied as a dry amendment, its soluble components can be adapted for liquid fertigation. Foliar feeding is a related technique—applying dilute nutrient solutions directly to plant leaves—which can supplement soil-applied nutrients, especially when root uptake is impaired by moisture stress or soil conditions.
+Solomon connects fertigation to his [[complete-organic-fertilizer-cof]] (COF) program (pp. 20–21) and broader organic gardening approach. While COF is typically applied as a dry amendment, its soluble components can be adapted for liquid fertigation. Foliar feeding is a related technique—applying dilute nutrient solutions directly to plant leaves—which can supplement soil-applied nutrients, especially when root uptake is impaired by moisture stress or soil conditions.
 
 ## Soil Water Retention
 

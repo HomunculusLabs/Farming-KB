@@ -7,9 +7,9 @@ tags: [construction, design, water-management, ecology, permaculture, plants]
 sources: []
 ---
 
-## Green Roofs and Living Walls
+# Green Roofs and Living Walls
 
-Green roofs and living walls integrate vegetation into building envelopes, providing insulation, [[mollison-designers-cloudburst-and-stormwater-management]], biodiversity habitat, and aesthetic benefits. They are advanced [[water-management]] and [[gaias-garden-ecological-design-process-checklist]] techniques that connect buildings to natural systems.
+Green roofs and living walls integrate vegetation into building envelopes, providing insulation, stormwater management, biodiversity habitat, and aesthetic benefits. They are advanced [[water-management]] and ecological design techniques that connect buildings to natural systems.
 
 ## Green Roof Types
 
@@ -69,14 +69,14 @@ A middle ground combining features of both extensive and intensive systems.
 ### Plant Selection for Green Roofs
 
 **Extensive roofs** (drought, wind, shallow soil):
-- Sedum species ([[sedum-acre]], S. album, S. kamtschaticum)
+- Sedum species (Sedum acre, S. album, S. kamtschaticum)
 - Delosperma (ice plant)
 - Allium cernuum (nodding onion)
 - Talinum calycinum (fameflower)
 - Native grasses (little bluestem, prairie dropseed in deeper substrates)
 
 **Intensive roofs** (deeper soil, irrigation available):
-- [[ornamental-grasses-guide]], perennials, [[culinary-herbs-cultivation-and-kitchen-garden-guide]]
+- Ornamental grasses, perennials, culinary herbs
 - Dwarf fruit trees in large planters
 - Vegetables in raised beds set on the roof surface
 - Native wildflower meadows
@@ -113,7 +113,7 @@ A middle ground combining features of both extensive and intensive systems.
 - Plants grow without soil in nutrient-infused water
 - Recirculating water system with pump and reservoir
 - Clean, no soil mess (good for indoor walls)
-- Requires electricity, monitoring, [[pond-fertilisation-and-nutrient-management]]
+- Requires electricity, monitoring, and nutrient management
 - Higher maintenance than soil-based systems
 
 ## Living Wall Plant Selection
@@ -123,7 +123,7 @@ A middle ground combining features of both extensive and intensive systems.
 - Spider plant (Chlorophytum comosum): Easy, adaptable, produces offsets
 - Peace lily (Spathiphyllum): Shade tolerant, removes air pollutants
 - Ferns (Boston fern, bird's nest fern): Require humidity
-- Philodendron: Multiple species, various [[growing-gourmet-light-requirements-mushroom-fruiting]]
+- Philodendron: Multiple species, various light requirements
 - Fittonia: Colorful foliage, compact, needs humidity
 
 ### Outdoor Living Walls
@@ -148,3 +148,5 @@ A middle ground combining features of both extensive and intensive systems.
 
 - [[vertical-gardening-guide]]
 - [[rain-garden-design]]
+- [[container-gardening-guide]]
+- [[xeriscaping-guide]]

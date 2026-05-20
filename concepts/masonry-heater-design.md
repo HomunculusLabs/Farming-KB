@@ -7,7 +7,7 @@ tags: [energy, construction, homesteading, off-grid, design, engineering]
 sources: []
 ---
 
-## Masonry Heater Design
+# Masonry Heater Design
 
 A masonry heater (also called a masonry stove, kachelofen, or Russian stove) is a high-efficiency wood-burning heating appliance that stores heat in a large thermal mass of brick, stone, or [[cob-building-basics-detailed|cob]]. Unlike conventional wood stoves that burn continuously and radiate heat directly, a masonry heater burns a hot, fast fire and stores the heat in its mass, releasing it slowly over 12-24 hours. A single intense fire in the morning can heat a home all day.
 
@@ -140,11 +140,41 @@ Masonry heaters are sized by the square footage they need to heat:
 2. Foundation: Pour reinforced concrete pad
 3. Base course: Lay first courses of brick, establishing the footprint
 4. Firebox: Build firebox with firebrick and refractory mortar
+5. Baffles: Build internal channels or bell chambers
+6. Outer shell: Continue masonry courses, enclosing the internal structure
+7. Cleanouts: Install access doors at channel bottoms
+8. Chimney connection: Transition to chimney flue
+9. Facing: Apply stone, tile, or plaster to the exterior
+10. Curing: Build small, cool fires for the first week to dry the mortar gradually
+
+### Safety Clearances
+
+- To combustible walls: 36 inches minimum (can be reduced with proper shielding)
+- To ceiling: 18 inches minimum
+- Floor protection: 16 inches in front of the load door
+- Hearth extension: Non-combustible surface extending 16-20 inches in front
+
+## Operating a Masonry Heater
+
+1. Build a hot fire with dry, well-seasoned hardwood
+2. Load the firebox to capacity (do not small fires frequently)
+3. The fire should burn vigorously for 1-2 hours
+4. Do not damper down the fire — let it burn hot and fast
+5. Close all dampers after the fire burns down
+6. The heater continues radiating heat for 12-24 hours
+7. One or two fires per day is sufficient for most climates
+
+## Integration with Other Systems
+
+- **Bake oven**: Many masonry heaters include a bake oven on the side
+- **Water heating**: A coil in the firebox can heat domestic water
+- **[[radiant-floor-heating|Radiant floor]]**: Water heated by the heater circulates through floor tubing
+- **Cob bench**: A heated cob bench attached to the heater provides warm seating
+- **Cooktop**: Some designs include a flat cooking surface on top
 
 ## See Also
 
-- [[comparison-rocket-stove-vs-masonry-heater]]
-- [[comparison-masonry-heater-vs-pellet-stove]]
-- [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]]
-- [[rocket-mass-heater-design]]
-- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[radiant-floor-heating]]
+- [[passive-solar-design]]
+- [[cob-building-basics-detailed]]
+- [[homestead-winter-preparations]]

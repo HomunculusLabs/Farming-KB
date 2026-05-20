@@ -58,7 +58,7 @@ A further criticism concerns the political implications of the "innate drive" ar
 
 ## Weil's Personal Experience
 
-The arguments in *The Natural Mind* are grounded in Weil's personal experience as a Harvard medical student in the 1960s. As a student richard [[maria-sabina-and-mazatec-mushroom-ceremony]] ceremonies, where he observed firsthand the integration of psychoactive plant use into a coherent cultural and spiritual framework.
+The arguments in *The Natural Mind* are grounded in Weil's personal experience as a Harvard medical student in the 1960s. As a student richard [[maria-sabina-mazatec-mushroom-ceremony]] ceremonies, where he observed firsthand the integration of psychoactive plant use into a coherent cultural and spiritual framework.
 
 Simultaneously, Weil witnessed the chaotic and often destructive drug experimentation of the American counterculture — young people using powerful psychoactive substances without preparation, guidance, or cultural context, frequently with harmful results. This juxtaposition — the sophisticated, functional traditional framework versus the chaotic, dysfunctional modern one — was central to the book's argument. It was not the substances themselves that were the problem, Weil concluded, but the absence of any meaningful cultural framework for their use.
 

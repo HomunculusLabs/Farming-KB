@@ -7,9 +7,9 @@ tags: [soil, fertilizer, minerals, calcium, phosphorus, npk, ph, soil-amendment,
 sources: []
 ---
 
-## Soil Amendment Reference
+# Soil Amendment Reference
 
-This reference covers common [[jeavons-fertilization-organic-soil-amendments]], their nutrient profiles, application rates, and best use cases. Always base amendments on [[interpreting-soil-test-results]] rather than routine application.
+This reference covers common organic soil amendments, their nutrient profiles, application rates, and best use cases. Always base amendments on soil test results rather than routine application.
 
 ## pH Adjusters
 
@@ -26,7 +26,7 @@ This reference covers common [[jeavons-fertilization-organic-soil-amendments]], 
 - Also provides sulfur (15-18% S), which lowers pH very slightly.
 - Application rate: 1-2 lbs per 100 sq ft.
 - Improves soil structure in clay soils by flocculating particles.
-- Good for treating blossom end rot in tomatoes and peppers ([[knf-calcium-deficiency-symptoms]]).
+- Good for treating blossom end rot in tomatoes and peppers (calcium deficiency).
 - Can help displace excess sodium in sodic soils.
 
 ## Phosphorus Sources
@@ -40,7 +40,7 @@ This reference covers common [[jeavons-fertilization-organic-soil-amendments]], 
 - Not effective in alkaline soils (pH above 7.0).
 
 ### Bone Meal
-- Higher [[phosphorus-availability]] than rock phosphate (3-15-0).
+- Higher phosphorus availability than rock phosphate (3-15-0).
 - Also provides calcium (12-16%).
 - Application rate: 1-2 lbs per 100 sq ft.
 - Effective for bulbs, root crops, and flowering plants.
@@ -70,7 +70,7 @@ This reference covers common [[jeavons-fertilization-organic-soil-amendments]], 
 - Excellent for sandy soils needing mineral diversity.
 
 ### Azomite (Hydrated Sodium Calcium Aluminosilicate)
-- Volcanic ash-derived trace [[azomite-mineral-amendment]] (0-0-0.2).
+- Volcanic ash-derived trace mineral amendment (0-0-0.2).
 - Contains 67+ major and trace minerals.
 - Application rate: 1-2 lbs per 100 sq ft (light) or 5-10 lbs (remedial).
 - Re-mineralizes depleted soils.
@@ -118,7 +118,7 @@ This reference covers common [[jeavons-fertilization-organic-soil-amendments]], 
 
 ## Related Concepts
 
-- [[composting-methods-comparison]] for building organic matter alongside [[cervantes-organic-mineral-amendments]]
+- [[composting-methods-comparison]] for building organic matter alongside mineral amendments
 - [[compost-tea-brewing]] for delivering soluble nutrients biologically
 - [[soil-food-web-nutrient-cycling]] for understanding soil composition and testing
 - [[raised-bed-gardening]] for amendment rates in contained beds

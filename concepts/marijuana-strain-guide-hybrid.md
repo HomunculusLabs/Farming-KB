@@ -7,11 +7,11 @@ tags: [cannabis, beginner, plants, species-profiles, genetics, psychopharmacolog
 sources: []
 ---
 
-## Marijuana Strain Guide — Hybrid
+# Marijuana Strain Guide — Hybrid
 
 ## Overview
 
-Hybrid cannabis strains are crosses between [[marijuana-strain-guide-sativa]] and [[marijuana-strain-guide-indica]] varieties. The vast majority of cannabis strains available today are hybrids to some degree. Through careful [[cannabis-breeding-basics]], cultivators have created strains that combine the best traits of both lineages — the cerebral energy of sativas with the physical relaxation of indicas.
+Hybrid cannabis strains are crosses between [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] varieties. The vast majority of cannabis strains available today are hybrids to some degree. Through careful [[cannabis-breeding-basics|breeding]], cultivators have created strains that combine the best traits of both lineages — the cerebral energy of sativas with the physical relaxation of indicas.
 
 ## Understanding Hybrid Ratios
 
@@ -45,7 +45,7 @@ A cross of Blueberry (indica) and Haze (sativa). Often considered the quintessen
 
 ### White Widow
 
-A classic Dutch hybrid from the 1990s. Brazilian sativa crossed with South Indian indica. Covered in white trichomes that give it its name. Balanced effects with both mental energy and physical comfort. Resilient genetics make it popular for [[cannabis-outdoor-growing]].
+A classic Dutch hybrid from the 1990s. Brazilian sativa crossed with South Indian indica. Covered in white trichomes that give it its name. Balanced effects with both mental energy and physical comfort. Resilient genetics make it popular for [[cannabis-outdoor-growing|outdoor cultivation]].
 
 ### Wedding Cake
 
@@ -65,7 +65,7 @@ Indica-dominant hybrid with Grape Ape and Grapefruit lineage. Sweet, candy-like 
 
 ## Hybrid Breeding Principles
 
-Creating hybrids involves understanding [[cannabis-breeding-basics]]:
+Creating hybrids involves understanding [[cannabis-breeding-basics|fundamental breeding concepts]]:
 
 ### Selection of Parent Plants
 
@@ -98,7 +98,7 @@ Hybrid growing characteristics fall between sativa and indica norms:
 
 ### Space Requirements
 
-Most hybrids reach medium height (4-7 feet), making them adaptable to both [[cannabis-indoor-growing-basics]] and [[cannabis-outdoor-growing]] environments. Training techniques like topping, LST, and trellising help manage canopy structure.
+Most hybrids reach medium height (4-7 feet), making them adaptable to both [[cannabis-indoor-growing-basics|indoor]] and [[cannabis-outdoor-growing|outdoor]] environments. Training techniques like topping, LST, and trellising help manage canopy structure.
 
 ### Flowering Time
 
@@ -110,7 +110,7 @@ Hybrids often produce the highest yields due to hybrid vigor (heterosis). The co
 
 ### Environmental Flexibility
 
-Hybrids tend to be more adaptable to varying growing conditions than pure sativas or indicas. This makes them popular with [[cannabis-living-soil-guide]] and organic growers who work with natural systems.
+Hybrids tend to be more adaptable to varying growing conditions than pure sativas or indicas. This makes them popular with [[cannabis-living-soil-guide|living soil]] and organic growers who work with natural systems.
 
 ## Medical Applications of Hybrids
 
@@ -120,12 +120,12 @@ Hybrids are popular medical strains because they can be tailored to specific con
 - Chronic pain: indica-dominant hybrids with caryophyllene
 - Daytime symptom management: sativa-dominant hybrids
 - Nausea: hybrids with limonene and pinene terpenes
-- [[cannabis-and-exercise-recovery]]: balanced hybrids for anti-inflammatory benefits without heavy sedation
+- [[cannabis-and-exercise-recovery|Exercise recovery]]: balanced hybrids for anti-inflammatory benefits without heavy sedation
 - Sleep disorders: indica-dominant hybrids with myrcene and linalool
 
 ## Testing Hybrid Quality
 
-Reputable [[cannabis-testing-and-quality]] analyze hybrids for:
+Reputable [[cannabis-testing-and-quality|testing labs]] analyze hybrids for:
 
 - Cannabinoid profile (THC, CBD, CBG, THCV percentages)
 - Terpene profile and dominant terpenes

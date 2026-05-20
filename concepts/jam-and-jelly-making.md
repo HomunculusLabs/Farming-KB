@@ -9,13 +9,13 @@ sources: []
 
 ## What Is Jam and Jelly
 
-Jam and jelly are sweet fruit preserves made by cooking fruit with sugar and pectin until it sets into a spreadable consistency. The difference: jam contains crushed or chopped fruit (with pieces), while jelly is made from [[bionutrients-lab-fermented-fruit-juice-ffj]] (smooth and clear). Related products include marmalade (citrus preserves with peel), preserves (large fruit pieces), and fruit butter (fruit cooked with sugar until very smooth, like apple butter).
+Jam and jelly are sweet fruit preserves made by cooking fruit with sugar and pectin until it sets into a spreadable consistency. The difference: jam contains crushed or chopped fruit (with pieces), while jelly is made from fruit juice (smooth and clear). Related products include marmalade (citrus preserves with peel), preserves (large fruit pieces), and fruit butter (fruit cooked with sugar until very smooth, like apple butter).
 
 Homemade jam captures peak-season fruit flavor and avoids the high-fructose corn syrup and artificial preservatives found in many commercial products.
 
 ## Pectin
 
-Pectin is a natural carbohydrate found in the [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] of fruits. It acts as a gelling agent when combined with sugar and acid at the right concentration and temperature.
+Pectin is a natural carbohydrate found in the cell walls of fruits. It acts as a gelling agent when combined with sugar and acid at the right concentration and temperature.
 
 ### Natural Pectin Levels in Fruit
 
@@ -136,14 +136,21 @@ If any element is out of balance, the jam will not set properly.
 
 - Reduced-sugar pectin or Pomona's Universal Pectin allows jam making with less sugar
 - Honey can replace up to half the sugar; use slightly less than the sugar amount
-- [[maple-syrup-production]] adds distinctive flavor; replace up to half the sugar
+- Maple syrup adds distinctive flavor; replace up to half the sugar
 - Stevia and monk fruit do not provide the preservative and textural benefits of sugar; use with calcium-activated pectin
 - Sugar-free jam has shorter shelf life and softer set; always refrigerate
 
+## Common Problems
+
+- Jam does not set: insufficient pectin, acid, or sugar; undercooking; wrong pectin-to-fruit ratio. Remake by recooking with additional pectin.
+- Jam is too stiff: too much pectin or overcooking. Thin with water or fruit juice and re-can.
+- Jam is too dark: overcooking or excessive sugar. Use lower heat and shorter cooking time.
+- Fruit floats to top: fruit was not cooked long enough before canning; mixture was not stirred after filling jars. Turn jars occasionally during cooling.
+- Mold on surface: indicates improper seal or insufficient processing; discard the entire jar (mold can produce mycotoxins below the surface).
+- Crystallization: too much sugar or sugar not fully dissolved. Ensure sugar is fully dissolved during cooking.
+
 ## See Also
 
-- [[compost-making-methods-solomon]]
-- [[granola-making]]
-- [[natto-making]]
-- [[mushroom-spawn-making-pure-culture]]
-- [[pickle-making]]
+- [[pickle-making]] — another water bath canning and preservation method
+- [[dried-herb-storage]] — alternative preservation for herbs and some fruits
+- [[vinegar-making]] — homemade vinegar for fruit-based shrubs and drinking vinegars

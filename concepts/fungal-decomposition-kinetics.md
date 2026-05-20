@@ -4,7 +4,7 @@ created: 2026-04-10
 updated: 2026-04-18
 type: concept
 tags: [mycology, decomposition, ecology, carbon-cycling]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Fungal Decomposition Kinetics
 

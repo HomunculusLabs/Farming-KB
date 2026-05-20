@@ -7,7 +7,7 @@ tags: [soil, soil-amendment, minerals, microbes, regenerative, carbon-sequestrat
 sources: []
 ---
 
-## Biochar Soil Amendment
+# Biochar Soil Amendment
 
 > Note: This page is compiled from general knowledge, not sourced from a specific file in the wiki's raw/ directory. See also [[biochar]] for the existing wiki page on biochar fundamentals.
 

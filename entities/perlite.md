@@ -33,7 +33,7 @@ and gradually evaporates it into the surrounding air.
   adequate humidity for weeks, suitable for multi-flush growing cycles.
 - Perlite does not actually absorb water like [[vermiculite]]; instead, water
   adheres to its porous surface and gradually transpires.
-- In the [[pf-tek]] method, [[perlite-humidification]] was found to be more
+- In the [[pf-tek]] method, [[perlite-humidification-technique]] was found to be more
   effective than aquarium bubbler systems alone.
 - Cakes can be placed directly on the perlite layer, allowing additional
   wick-like moisture transfer directly to the substrate.

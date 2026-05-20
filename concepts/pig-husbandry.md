@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, livestock, byproducts, livestock-health, 
 sources: []
 ---
 
-## Pig Husbandry
+# Pig Husbandry
 
 Pigs are extraordinarily productive homestead livestock. They grow fast,
 convert feed efficiently, and produce excellent meat. Their rooting behavior
@@ -140,11 +140,48 @@ Pigs are notorious for testing and destroying fencing.
 ## Farrowing
 
 - Prepare farrowing pen 1 week before due date. Clean, dry, bedded deeply.
+- Signs of farrowing: restlessness, nesting behavior, vulva swelling, milk
+  letdown (12-24 hours before).
+- Farrowing typically takes 2-6 hours. Piglets born every 10-20 minutes.
+- Dry each piglet immediately, clear airways, ensure first colostrum.
+- Dip navels in iodine.
+- Process piglets (iron injection, clip needle teeth, dock tails, castrate
+  males) within first 3 days.
 
-## See Also
+## Finishing
 
-- [[rabbit-husbandry]]
-- pig husbandry
-- [[comparison-rabbit-husbandry-vs-chicken-keeping]]
-- [[goat-husbandry-detailed-guide]]
-- [[comparison-quail-husbandry-vs-rabbit-husbandry]]
+### Grass-Fed/Pasture-Finished
+- Heritage breeds perform best on pasture-based systems.
+- Longer finishing period (8-12 months vs 5-6 months grain-fed).
+- Leaner meat, different flavor profile. Often commands premium price.
+- Supplement with grain for last 60-90 days to improve marbling.
+
+### Grain-Finished
+- Faster, more efficient. 5-6 months from birth to market.
+- Better marbling and conventional flavor.
+- Higher feed costs but shorter time to harvest.
+
+## Processing
+
+- Ideal harvest weight: 220-280 lbs live weight (160-200 lbs hanging).
+- On-farm slaughter is legal in most areas if done for personal use. See
+  [[animal-harvest-and-processing]].
+- Bacon, ham, sausage, lard, and hocks are high-value cuts.
+- Lard rendering: excellent cooking fat, soap making, and leather conditioning.
+
+## Manure and Byproducts
+
+- Pig manure is extremely nutrient-dense ("hot" manure). Must be composted
+  before garden use to avoid burning plants.
+- One pig produces roughly 10-15 lbs of manure per day.
+- Excellent nitrogen source for compost. Add to carbon-heavy piles.
+- Pig manure can be anaerobically digested for biogas production.
+
+## Links
+
+- [[goat-husbandry]]
+- [[cattle-husbandry]]
+- [[pasture-management]]
+- [[livestock-fencing-guide]]
+- [[livestock-feed-formulation]]
+- [[animal-harvest-and-processing]]

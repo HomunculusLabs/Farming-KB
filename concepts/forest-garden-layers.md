@@ -7,9 +7,9 @@ tags: [permaculture, food-forest, plant-systems, guild, plants, ecology, success
 sources: []
 ---
 
-## Forest Garden Layers
+# Forest Garden Layers
 
-A forest garden (or [[food-forest|food forest]]) mimics the structure of a natural forest while producing food, medicine, fiber, and fuel. The core design concept is vertical stacking: occupying all seven ecological layers from canopy to underground, maximizing productivity per unit area. This plant-systems approach creates diverse, resilient, self-maintaining systems that require less input than conventional agriculture.
+A forest garden (or food forest) mimics the structure of a natural forest while producing food, medicine, fiber, and fuel. The core design concept is vertical stacking: occupying all seven ecological layers from canopy to underground, maximizing productivity per unit area. This plant-systems approach creates diverse, resilient, self-maintaining systems that require less input than conventional agriculture.
 
 ## The Seven Layers
 
@@ -140,11 +140,20 @@ A guild is a group of plants (and sometimes animals) that work together synergis
 1. Map the site — sun, shade, water flow, existing vegetation
 2. Choose your canopy and understory trees first (they are permanent and take longest to establish)
 3. Fill in shrub, herb, and ground cover layers around the trees
+4. Add vine supports and root crops where space allows
+5. Plant support species (nitrogen fixers, dynamic accumulators) throughout
+6. Mulch heavily in the early years before ground covers fill in
+7. Observe, adjust, and replace plants that fail or underperform
+
+## Integration with Permaculture Zones
+
+- Zone 1-2: intensive food forest with highest-value fruits, herbs, and vegetables
+- Zone 3: larger scale orchard with canopy trees, understory, and grazing beneath
+- Zone 4: managed wild with foraging from established forest systems
 
 ## See Also
 
-- [[fruit-forest-establishment]]
-- [[fukuoka-textdoc-natural-livestock-forest-pasture-method]]
-- [[forest-gardening-and-food-forests]]
-- [[aact-forest-litter-fungi-mycorrhizal-ingham]]
-- [[faires-food-forest-design]]
+- [[permaculture-zones-and-sectors]] for siting your forest garden
+- [[permaculture-earthworks]] for water management infrastructure
+- [[food-forest-plant-palette]] for detailed species lists by climate
+- [[dynamic-accumulators]] for mineral-accumulating plant selections

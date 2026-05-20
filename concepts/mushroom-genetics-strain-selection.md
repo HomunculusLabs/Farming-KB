@@ -1,17 +1,15 @@
 ---
-title: Mushroom Genetics Strain Selection
+title: Mushroom Genetics and Strain Selection
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, biology, lab-technique, academia, methods]
-sources:
-  - "raw/papers/unknown-working-with-agar.md"
-  - "raw/papers/working-with-agar.md"
+sources: []
 ---
 
-## Mushroom Genetics and Strain Selection
+# Mushroom Genetics and Strain Selection
 
-Understanding [[fungal-genetics]] is essential for selecting productive, stable cultures and maintaining genetic quality over generations. Unlike plants, fungi have unique reproductive strategies — including heterokaryosis [[basidiomycete-sexual-reproduction-and-clamp-connections]] — that shape how traits are inherited and expressed.
+Understanding fungal genetics is essential for selecting productive, stable cultures and maintaining genetic quality over generations. Unlike plants, fungi have unique reproductive strategies — including heterokaryosis and clamp connections — that shape how traits are inherited and expressed.
 
 ## Fungal Genetics Fundamentals
 
@@ -22,7 +20,7 @@ Most basidiomycete fungi (the club fungi that produce mushrooms) are dikaryotic 
 - Each cell contains **two genetically distinct nuclei** (n + n)
 - These nuclei pair up and divide synchronously (conjugate division)
 - The dikaryotic state is maintained by **clamp connections** — small hook-like bridges on septa that ensure each new cell receives one nucleus of each type
-- Fruiting ([[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]) only occurs from dikaryotic mycelium
+- Fruiting (mushroom formation) only occurs from dikaryotic mycelium
 - At the basidium (spore-producing cell), the two nuclei finally fuse (karyogamy), undergo meiosis, and produce haploid spores
 
 ### Monokaryon vs. Dikaryon
@@ -53,14 +51,14 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 ### Homothallism
 
 - Self-fertile: a single spore can produce a fertile dikaryon
-- [[agaricus-bisporus]] is predominantly homothallic (secondary homothallism) — most spores contain two compatible nuclei
+- Agaricus bisporus is predominantly homothallic (secondary homothallism) — most spores contain two compatible nuclei
 - Simpler breeding but less genetic diversity
 
 ## Strain Isolation
 
 ### From Spores (Multispore)
 
-- [[spore-print]] or spore syringe contains thousands of haploid spores
+- Spore print or spore syringe contains thousands of haploid spores
 - When inoculated onto agar or grain, spores germinate into many monokaryons that pair randomly
 - Result: a patchwork of many different dikaryotic strains
 - **Pros**: Maximum genetic diversity; potential for novel traits; inexpensive
@@ -103,7 +101,7 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 
 - Environmental conditions can affect gene expression without changing DNA sequence
 - The same genetics can produce different results under different conditions
-- Temperature, substrate, light, and CO2 levels influence morphology and potentially [[mycelial-broth-alkaloid-production]]
+- Temperature, substrate, light, and CO2 levels influence morphology and potentially alkaloid production
 
 ## Popular Strains and Selection Criteria
 
@@ -124,7 +122,7 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 
 - **Colonization speed**: Faster colonization means less time for contamination
 - **Rhizomorphic growth**: Rope-like, organized mycelium correlates with vigorous fruiting
-- **Yield**: Total [[biological-efficiency]] (fresh weight of mushrooms / dry weight of substrate)
+- **Yield**: Total biological efficiency (fresh weight of mushrooms / dry weight of substrate)
 - **Potency**: For active species, alkaloid content varies significantly between strains
 - **Environmental tolerance**: Some strains handle temperature or humidity fluctuations better
 - **Appearance**: Cap shape, color, stem thickness — aesthetic preference
@@ -142,3 +140,29 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 ## Genetic Tools
 
 ### Microscopy
+
+- Spore size and shape can indicate species and sometimes strain
+- Basidium morphology, cheilocystidia shape — taxonomic identification
+- Requires compound microscope (400-1000x magnification)
+
+### DNA Barcoding
+
+- ITS (Internal Transcribed Spacer) region is the standard barcode for fungi
+- Confirms species identification
+- Cannot reliably distinguish between strains of the same species
+- Commercial services available; costs $10-30 per sample
+
+### Breeding
+
+- Deliberate crossing: mate selected monokaryons with known traits
+- Requires isolating monokaryons first (from single-spore germination)
+- Test each cross for compatibility and performance
+- Time-intensive but allows creation of novel strains with desired trait combinations
+
+## See Also
+
+- [[fungal-biology-fundamentals]] for the complete fungal lifecycle
+- [[fungal-sexual-reproduction]] for mating type genetics
+- [[agar-work-guide]] for isolation techniques
+- [[mushroom-spawn-making-detailed]] for propagating selected strains
+- [[fungal-genetics]] for advanced genetic tools and CRISPR applications

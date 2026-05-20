@@ -42,7 +42,7 @@ side by side under identical conditions. Solomon's approach:
    to show their true characteristics.
 
 3. **Use identical soil preparation** across the entire trial area. Apply the
-   same [[complete-organic-fertilizer]] (COF) at the same rate to every plot.
+   same [[complete-organic-fertilizer-cof]] (COF) at the same rate to every plot.
 
 4. **Plant all varieties on the same day** using the same [[coleman-leek-deep-planting-technique]].
    If direct-seeding, sow at the same depth with the same spacing.

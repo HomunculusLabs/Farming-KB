@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]] is a technique for isolating psilocybin from dried magic mushrooms using pure ethyl alcohol as a solvent. The process produces a concentrated [[psilocybin-mushroom-alcohol-extraction-pf-tek|tek]]-[[ethyl-alcohol-extraction]]-psilocybin-liqueur|psilocybin liqueur that can be dosed with precision. Because the extraction uses only mushrooms and drinkable alcohol, the resulting tincture is free from chemical contaminants. This method was popularized within the mycological community as a straightforward, low-tech approach to creating a potent and storable [[mckenna-food-gods-set-setting-psychedelic-preparation]].
+[[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]] is a technique for isolating psilocybin from dried magic mushrooms using pure ethyl alcohol as a solvent. The process produces a concentrated [[psilocybin-mushroom-alcohol-extraction-pf-tek|tek]]-[[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]-psilocybin-liqueur|psilocybin liqueur that can be dosed with precision. Because the extraction uses only mushrooms and drinkable alcohol, the resulting tincture is free from chemical contaminants. This method was popularized within the mycological community as a straightforward, low-tech approach to creating a potent and storable [[mckenna-food-gods-set-setting-psychedelic-preparation]].
 
 ## Chemistry of the Extraction
 

@@ -7,7 +7,7 @@ tags: [mushrooms, cultivation, lab-technique, recipe, methods]
 sources: [raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
 
-## PDA and Tissue Culture
+# PDA and Tissue Culture
 
 Potato Dextrose Agar (PDA) is the standard medium for mushroom tissue culture and spawn propagation. This page covers PDA preparation, tissue culture selection, and PDA-to-PDA transfer from the FAO training manual.
 
@@ -102,21 +102,6 @@ Because tissue culture has high contamination risk, do only a few bottles from f
 
 - [[mushroom-spawn-making-detailed]] — Grain spawn from PDA cultures
 - [[substrate-bag-preparation]] — Substrate bags for inoculation
-- [[mushroom-sterile-technique]] — Inoculation and sterile procedures
+- [[mushroom-sterile-technique-detailed]] — Inoculation and sterile procedures
 - [[mushroom-cultivation-basics]] — Complete cultivation overview
 - [[mushroom-genetics-strain-selection]] — Strain isolation and selection
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.

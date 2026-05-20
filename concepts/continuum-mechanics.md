@@ -5,7 +5,7 @@ tags: [physics, engineering, mechanics, materials-science, fluid-dynamics]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 ## Overview

@@ -1,4 +1,5 @@
 ---
+
 title: Psilocybin Psychotherapy
 created: 2026-04-12
 updated: 2026-04-12
@@ -19,7 +20,7 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-## Psilocybin Psychotherapy
+# Psilocybin Psychotherapy
 
 The use of psilocybin and psilocybin-containing mushrooms in clinical and therapeutic settings, from early psycholytic therapy to modern clinical trials. Based on [[jochen-gartz]]'s historical survey and contemporary research. See also [[psilocybin-mushroom-chemistry]] for pharmacological details.
 
@@ -35,7 +36,7 @@ The "psycholytic" (mind-loosening) approach was developed primarily in Europe:
 
 - **Method:** Low to moderate doses (1-3 tablets of synthetic psilocybin) administered in a series of sessions over weeks or months, accompanied by psychotherapy
 - **Pioneers:** H. Leuner (Germany), S. Kurland (USA, Maryland Psychiatric Research Center), R. Sandison (UK)
-- **Target conditions:** Neuroses, personality disorders, PTSD, alcoholism, depression, [[cannabis-for-anxiety-disorders]], obsessive-compulsive disorder
+- **Target conditions:** Neuroses, personality disorders, PTSD, alcoholism, depression, anxiety disorders, obsessive-compulsive disorder
 - **Approach:** The psychedelic experience was viewed as a tool to access unconscious material and facilitate psychotherapeutic processing. Sessions were followed by extensive discussion and integration work.
 - **Results:** Many studies reported significant improvement rates, particularly for alcoholism (50%+ abstinence at follow-up) and anxiety related to terminal illness
 
@@ -53,7 +54,7 @@ The "psychedelic" (mind-manifesting) approach used higher doses to produce a tra
 
 Research was effectively halted worldwide in the late 1960s and early 1970s due to:
 - Political backlash against the counterculture's association with psychedelics
-- Passage of the [[controlled-substances-act-and-psychedelic-research]] (1970, USA) and UN Convention on Psychotropic Substances (1971)
+- Passage of the Controlled Substances Act (1970, USA) and UN Convention on Psychotropic Substances (1971)
 - Media sensationalism focusing on adverse reactions rather than therapeutic results
 - Classification of psilocybin as Schedule I (no accepted medical use, high potential for abuse)
 - Sandoz ceased production of Indocybin in the mid-1960s
@@ -87,10 +88,10 @@ Gartz preserved documentation of Sandoz's psilocybin preparation:
 Research resumed slowly after regulatory barriers were overcome:
 
 - **Johns Hopkins University (Roland Griffiths):** First major study in decades (2006) — demonstrated that psilocybin could produce mystical-type experiences with lasting positive effects in healthy volunteers. Follow-up studies on cancer-related anxiety (2016), depression, addiction, and religious experiences.
-- **Imperial College London (Robin Carhart-Harris, David Nutt):** Brain imaging studies showing psilocybin's effects on neural connectivity, decreased activity in the [[default-mode-network-and-ego-dissolution]], and therapeutic potential for treatment-resistant depression.
+- **Imperial College London (Robin Carhart-Harris, David Nutt):** Brain imaging studies showing psilocybin's effects on neural connectivity, decreased activity in the Default Mode Network, and therapeutic potential for treatment-resistant depression.
 - **Usona Institute:** Large-scale clinical trials for major depressive disorder.
-- **[[compass-pathways]]:** Phase 2/3 trials of synthetic psilocybin for treatment-resistant depression.
-- **[[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies (MAPS):** While primarily focused on MDMA, MAPS has supported broader psychedelic therapy research.
+- **Compass Pathways:** Phase 2/3 trials of synthetic psilocybin for treatment-resistant depression.
+- **Multidisciplinary Association for Psychedelic Studies (MAPS):** While primarily focused on MDMA, MAPS has supported broader psychedelic therapy research.
 
 ### Current Clinical Trial Results
 
@@ -101,7 +102,7 @@ Key findings from modern trials:
 | Treatment-resistant depression | Significant symptom reduction vs. placebo; 67% response rate (Imperial) | RCT, Phase 2 |
 | Cancer-related anxiety/depression | Large, rapid, sustained reductions in anxiety and depression (Hopkins) | RCT |
 | Tobacco addiction | 80% abstinence at 6-month follow-up (Hopkins) | Open-label pilot |
-| [[cannabis-for-alcohol-dependence]] | Significant reduction in drinking days vs. placebo (NYU) | RCT, Phase 2 |
+| Alcohol dependence | Significant reduction in drinking days vs. placebo (NYU) | RCT, Phase 2 |
 | Obsessive-compulsive disorder | Symptom reduction in open-label study (Arizona) | Open-label pilot |
 
 ### Brain Imaging Insights
@@ -144,3 +145,14 @@ fMRI studies (primarily from Carhart-Harris at Imperial) reveal:
 Gartz noted that early European researchers documented both remarkable therapeutic successes and significant challenges:
 
 - **Therapeutic window:** Benefits were most pronounced when psilocybin was used as an adjunct to psychotherapy, not as a standalone treatment
+- **Importance of set and setting:** European researchers consistently emphasized that the therapeutic context (relationship with therapist, physical environment, music) was as important as the pharmacological agent
+- **Long-term follow-up:** The best studies tracked patients for months to years, finding sustained benefits in many cases
+- **Caution with diagnoses:** Schizophrenia-spectrum patients generally did not benefit and could be harmed; careful screening was essential
+
+## See Also
+
+- [[psilocybin-mushroom-chemistry]] — Pharmacology and toxicity
+- [[psilocybin-mushroom-chemistry]] — Chemical composition and analysis
+- [[psychedelic-mushroom-history]] — Historical timeline
+- [[jochen-gartz]] — Researcher who documented European psycholytic therapy
+- [[albert-hofmann]] — Discoverer of psilocybin

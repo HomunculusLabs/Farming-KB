@@ -7,7 +7,7 @@ tags: [homesteading, economics, regulation, law, business, safety]
 sources: []
 ---
 
-## Homestead Insurance Guide
+# Homestead Insurance Guide
 
 Insurance protects homestead businesses from financial catastrophe. As a farm or agricultural business, standard homeowner's policies do not cover most farm activities. This guide covers the types of insurance needed, what to look for, and how to manage costs.
 
@@ -140,11 +140,13 @@ Insurance protects homestead businesses from financial catastrophe. As a farm or
 
 | Coverage Type | Annual Cost | Priority |
 |---|---|---|
+| Farm liability ($1M/$2M) | $400-1,200 | Essential |
+| Farm property (structures + equipment) | $500-2,000 | Essential |
+| Product liability (if selling food) | $300-800 | Essential |
+| Crop insurance / NAP | $325+ | Recommended |
+| Workers comp (if employees) | $200-600 | Required in most states |
+| Umbrella policy | $200-500 | Recommended |
 
+Insurance costs should be factored into [[homestead-scale-assessment]] and are a legitimate deduction for [[homestead-financial-planning]].
 ## See Also
-
-- [[homestead-energy-conservation]]
-- [[homestead-mushroom-business]]
-- [[homestead-winter-preparations]]
-- [[homestead-tool-maintenance]]
-- [[homestead-internet-options]]
+- [[homestead-dairy-guide]]

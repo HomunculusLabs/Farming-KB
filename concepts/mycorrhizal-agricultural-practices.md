@@ -1,4 +1,5 @@
 ---
+
 title: Mycorrhizal Agricultural Practices
 created: 2026-04-12
 updated: 2026-04-12
@@ -19,7 +20,7 @@ sources:
   - raw/articles/jeff-lowenfels-teaming-with-fungi.md
 ---
 
-## Mycorrhizal Agricultural Practices
+# Mycorrhizal Agricultural Practices
 
 How farming and gardening practices affect mycorrhizal fungi — what helps, what hurts, and how to manage soils for maximum mycorrhizal benefit. Based on Jeff Lowenfels' *Teaming with Fungi*. See [[mycorrhizal-fungi]] for the biological overview and [[mycorrhizal-inoculum-production]] for making inoculum.
 
@@ -123,24 +124,3 @@ Example: A label showing 10-20-10 actually contains 10% N, 8.8% P, 8.3% K.
 - [[composting-systems]] — Compost compatibility with mycorrhizae
 - [[fertilizer-npk-decoded]] — Fertilizer math and nutrient management
 - [[soil-food-web-nutrient-cycling]] — The soil ecosystem supporting mycorrhizae
-
-## See Also
-
-- [[mycorrhizal-biodiversity-drought-stress-response]]
-- [[mycorrhizal-biodiversity-drought-tolerance-edaphic-relations]]
-- [[mycorrhizal-biodiversity-edaphic-relations]]
-- [[mycorrhizal-carbon-storage-and-interplant-transfer]]
-- [[mycorrhizal-communities-ecosystem-function]]
-- [[mycorrhizal-community-dynamics-functional-diversity]]
-- [[mycorrhizal-distribution-nutrient-availability]]
-- [[mycorrhizal-diversity-and-leaf-litter-effects]]
-- [[mycorrhizal-ecology-research-themes]]
-- [[mycorrhizal-fungi-ecological-restoration]]
-- [[mycorrhizal-fungi-heavy-metal-tolerance]]
-- [[mycorrhizal-fungi-pollution-responses]]
-- [[mycorrhizal-heavy-metal-tolerance]]
-- [[mycorrhizal-interactions-plant-pathogens]]
-- [[mycorrhizal-nematode-interactions]]
-- [[mycorrhizal-nitrogen-nutrition-litter-decomposition]]
-- [[mycorrhizal-nutrient-uptake-mechanisms]]
-- [[mycorrhizal-protection-against-plant-pathogens]]

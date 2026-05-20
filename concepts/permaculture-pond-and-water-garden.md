@@ -1,5 +1,5 @@
 ---
-title: Permaculture Pond and Water Garden
+title: Permaculture Pond And Water Garden
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -15,7 +15,7 @@ sources:
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 
-## Permaculture Pond and Water Garden
+# Permaculture Pond and Water Garden
 
 Ponds and water features are among the most productive and ecologically valuable elements in a permaculture design. Toby Hemenway dedicates significant attention to backyard ponds in Gaia's Garden, describing them as multi-functional systems that provide food, habitat, water storage, and aesthetic value.
 
@@ -142,9 +142,23 @@ To support wildlife:
 - **Native fish**: Species appropriate to your region; check local regulations
 - **Tilapia**: In warm climates, edible and productive but require warm water
 
-## See Also
+Stock approximately 1 inch of fish per square foot of surface area in an unfiltered pond; less in a new pond until the ecosystem stabilizes.
 
-- [[dryland-permaculture-strategies]]
-- [[vines-in-desert-permaculture]]
-- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
-- [[permaculture-principle-use-and-value-renewable-resources]]
+## Maintenance
+
+- Remove excess algae by hand or with barley straw
+- Thin plants as needed to prevent the pond from becoming choked
+- Top up water during dry periods
+- Clean out debris in autumn if excessive leaf fall is a problem
+- Monitor water quality; clear water with balanced plant life indicates a healthy pond
+
+## Related Concepts
+
+- [[permaculture-pond-construction]]
+- [[water-garden-and-ponds]]
+- [[permaculture-aquaculture-guide]]
+- [[permaculture-water-harvesting]]
+- [[pond-and-aquaculture]]
+- [[pond-maintenance-and-troubleshooting]]
+- [[backyard-pond-building]]
+- [[rain-garden-design]]

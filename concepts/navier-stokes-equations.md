@@ -6,7 +6,7 @@ aliases: computational-fluid-dynamics equations, NS equations]
 tags: [physics, fluid-dynamics, engineering, partial-differential-equations]
 related: [reynolds-number-and-flow-regimes, laws-of-thermodynamics
 type: concept
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 ## Overview

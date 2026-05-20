@@ -1,4 +1,5 @@
 ---
+
 title: Natural Farming Methods Comparison
 created: 2026-04-11
 updated: 2026-04-12
@@ -24,7 +25,7 @@ sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
-## Natural Farming Methods Comparison
+# Natural Farming Methods Comparison
 
 A comparison of the major natural farming approaches that avoid synthetic chemical inputs while maintaining or increasing productivity.
 

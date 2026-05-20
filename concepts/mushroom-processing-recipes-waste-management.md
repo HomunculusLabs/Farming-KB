@@ -104,3 +104,17 @@ Practical experience combined with systematic observation yields the most reliab
 ## Future Directions
 Emerging approaches and technologies offer new opportunities for advancement.
 Collaborative knowledge sharing accelerates progress across related domains.
+## Practical Applications
+
+Understanding mushroom processing recipes and waste management has direct implications for
+practical work in the field. The principles described here
+can be adapted to various contexts and scales of operation.
+
+Practitioners should consider local conditions, available
+resources, and specific goals when applying these concepts.
+- [[aact-aeration-oxygen-management-ingham]]
+- [[aact-brewing-techniques-and-oxygen-management]]
+- [[aact-disease-suppression-recipes]]
+- [[aact-foam-management-troubleshooting-ingham]]
+- [[aact-ingredient-ratios-compost-volume-and-recipes]]
+- [[aact-ingredients-and-tea-recipes]]

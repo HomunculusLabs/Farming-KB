@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-## Echinacea Growing Guide (Echinacea purpurea / E. angustifolia)
+# Echinacea Growing Guide (Echinacea purpurea / E. angustifolia)
 
 ## Overview
 
@@ -141,10 +141,25 @@ Roots:
 - Roots are fully dry when they snap rather than bend
 - Store in airtight glass jars in a cool, dark place
 
+Aerial parts:
+- Bundle stems and hang upside down to dry, or spread on screens
+- Dry away from direct sunlight to preserve compounds
+- Store dried herb in airtight containers
+- Properly stored echinacea retains potency for 1-2 years
+
+## Yields
+
+Under good conditions, expect approximately:
+- E. purpurea: 0.5-1 lb dried root per plant (3rd year)
+- E. angustifolia: 0.25-0.5 lb dried root per plant (3rd-4th year)
+- Aerial parts: 0.25-0.5 lb dried herb per plant per year
+
 ## See Also
 
-- [[comparison-echinacea-vs-yarrow]]
-- [[echinacea-tennesseensis]]
-- [[echinacea-cultivation-and-medicinal-uses]]
-- [[comparison-echinacea-vs-lemon-balm]]
-- [[comparison-valerian-vs-echinacea]]
+- [[yarrow-plant-guide]] -- excellent companion plant; combine in immune teas
+- [[comfrey-plant-guide]] -- another medicinal perennial for the homestead
+  medicine garden
+
+## Related
+
+- [[gotu-kola-growing-guide]]

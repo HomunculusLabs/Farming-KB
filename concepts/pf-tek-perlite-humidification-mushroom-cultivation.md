@@ -2,7 +2,7 @@
 title: "Pf Tek Perlite Humidification Mushroom Cultivation"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 When properly prepared in the terrarium base, wet perlite maintains 90%+ relative
@@ -24,7 +24,7 @@ Perlite is inexpensive, widely available at [[mushroom-crop-management-flush-har
 
 ## The "Less is More" Approach
 
-[[perlite-humidification]] exemplifies the [[pf-tek]] philosophy of minimal
+[[perlite-humidification-technique]] exemplifies the [[pf-tek]] philosophy of minimal
 intervention. [[pf-tek-psilocybe-fanaticus]] advocated for simpler solutions over complex
 technical systems:
 

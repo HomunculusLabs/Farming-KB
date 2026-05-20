@@ -7,11 +7,11 @@ tags: [homesteading, animal-husbandry, beginner, pollinators]
 sources: []
 ---
 
-## Swarm Capture Guide
+# Swarm Capture Guide
 
 Swarming is the natural means of honey bee colony reproduction. A swarm
 represents a free colony for the beekeeper who can capture and rehive it.
-This guide covers swarm biology, [[game-species-management-capture-techniques]], hive baiting, and
+This guide covers swarm biology, capture techniques, hive baiting, and
 successful rehiving.
 
 ## Swarm Biology
@@ -89,12 +89,12 @@ hive can catch swarms without any effort during swarm season.
 - Entrance: 1.5 square inches, facing south or southeast
 - Height: 10-15 feet off the ground (simulates a tree cavity)
 - Shade: partial shade is preferred
-- Scent: 5-10 drops of lemongrass [[permaculture-designers-manual-essential-oil-plants]] on a cotton ball inside
+- Scent: 5-10 drops of lemongrass essential oil on a cotton ball inside
 - Comb: one frame of old dark drawn comb is highly attractive
 
 ### Placement Strategy
 - Place traps 50-200 yards from known colonies
-- Install by early April [[query-how-to-grow-and-use-oca-in-temperate-climates]]
+- Install by early April in temperate climates
 - Check traps weekly during swarm season (May-June)
 - Use Swarm Commander or lemongrass oil as attractant
 - Place near tree lines or hedgerows along flight paths
@@ -123,6 +123,6 @@ hive can catch swarms without any effort during swarm season.
 ## Swarm Prevention in Your Own Colonies
 
 While catching swarms is rewarding, preventing your own colonies from
-swarming preserves [[faires-beekeeping-and-honey-production]]. See [[beekeeping-problems-and-solutions]]
+swarming preserves honey production. See [[beekeeping-problems-and-solutions]]
 for prevention strategies, and [[beekeeping-seasonal-calendar]] for timing
 of management actions.

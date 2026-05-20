@@ -4,7 +4,7 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 ## Fungal Binary and Ternary Biosorption Systems Real-world contaminated wastewaters rarely contain single metal ions. [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]** — Dead mycelia show higher uptake than live for Cu(II), Pb(II), and Zn(II) in binary systems; Cu uptake capacity of 1.84 mM (heat-inactivated) vs. 1.51 mM (live)
 - **Saccharomyces cerevisiae** — Effective for Cr(III) and Cr(VI) binary removal with 96-97% efficiency

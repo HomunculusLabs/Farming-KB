@@ -12,18 +12,18 @@ tags:
   - cross-cultural
   - ceremony
 sources:
-  - "raw/particles/harner-j-hallucinogens-and-shamanism.md"
-  - "raw/papers/mckenna_t-food_of_the_gods.md"
+  - raw/particles/harner-j-hallucinogens-and-shamanism.md
+  - raw/papers/mckenna_t-food_of_the_gods.md
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 
-## Shamanic Use of Psychedelics
+# Shamanic Use of Psychedelics
 
 The cross-cultural patterns of psychedelic plant use in shamanic and indigenous healing traditions worldwide.
 
 ## Defining Shamanism
 
-Shamanism has been described by Mircea Eliade as "the archaic [[mckenna-shamanism-and-techniques-of-ecstasy]]." The shaman is a figure who gains entrance into a hidden world through altered states of consciousness, interacting with powers both helpful and malevolent that operate by rules different from those of ordinary reality. In this other dimension, shamans diagnose illness, retrieve lost souls, negotiate with spirits, and restore balance to individuals and communities.
+Shamanism has been described by Mircea Eliade as "the archaic techniques of ecstasy." The shaman is a figure who gains entrance into a hidden world through altered states of consciousness, interacting with powers both helpful and malevolent that operate by rules different from those of ordinary reality. In this other dimension, shamans diagnose illness, retrieve lost souls, negotiate with spirits, and restore balance to individuals and communities.
 
 Psychedelic plants are not universal in shamanism, but they constitute the most reliable and culturally widespread method of inducing the shamanic trance state across the Americas, parts of Africa, and Asia.
 
@@ -33,14 +33,14 @@ Psychedelic plants are not universal in shamanism, but they constitute the most 
 
 The most complex and powerful of shamanic plant preparations. See [[ayahuasca-preparation-and-ceremony]] for detailed coverage.
 
-- A brew combining *Banisteriopsis caapi* (containing [[harmala-alkaloids]] that act as MAO inhibitors) with DMT-containing plants (typically *[[chacruna-psychotria-viridis]]* or *Diplopterys cabrerana*).
+- A brew combining *Banisteriopsis caapi* (containing harmala alkaloids that act as MAO inhibitors) with DMT-containing plants (typically *Psychotria viridis* or *Diplopterys cabrerana*).
 - Used by indigenous peoples throughout the Amazon basin, including the Shipibo-Conibo, Shuar, Ashaninka, Quechua, and many others.
 - Shamans use ayahuasca to diagnose illness, communicate with plant spirits, conduct healing ceremonies, and hunt for knowledge.
 - Michael Harner described his first ayahuasca experience among the Shuar of Ecuador: he felt his soul transported in a ship crewed by bird-headed deities and was shown the secrets of life by great black whale-like entities with pterodactyl wings.
 
 ### Psilocybin Mushrooms (Mesoamerica)
 
-See [[maria-sabina-and-mazatec-mushroom-ceremony]] for detailed coverage of the Mazatec tradition.
+See [[maria-sabina-mazatec-mushroom-ceremony]] for detailed coverage of the Mazatec tradition.
 
 - Used by Mazatec, Mixtec, Zapotec, Nahuatl, and other peoples of Oaxaca and surrounding regions.
 - The Mazatec velada ceremony is a healing practice in which the mushroom spirits (the "saint children") speak through the curandero, revealing the cause of illness and the cure.
@@ -48,8 +48,8 @@ See [[maria-sabina-and-mazatec-mushroom-ceremony]] for detailed coverage of the 
 
 ### Peyote (North America)
 
-- *[[lophophora-williamsii]]*, a small cactus containing mescaline, has been used for thousands of years by indigenous peoples of Mexico and the southwestern United States.
-- The **[[halpern-sacramental-peyote-and-native-american-church]]** (NAC) is the largest and most legally recognized peyote-using religious organization, with an estimated 250,000-400,000 members.
+- *Lophophora williamsii*, a small cactus containing mescaline, has been used for thousands of years by indigenous peoples of Mexico and the southwestern United States.
+- The **Native American Church** (NAC) is the largest and most legally recognized peyote-using religious organization, with an estimated 250,000-400,000 members.
 - Peyote ceremonies typically involve all-night prayer, singing, drumming, and the consumption of peyote buttons in a structured ritual context.
 - The NAC has fought legal battles to protect peyote use as a religious freedom, achieving partial legal protections under the American Indian Religious Freedom Act (1994).
 
@@ -61,7 +61,7 @@ See [[maria-sabina-and-mazatec-mushroom-ceremony]] for detailed coverage of the 
 
 ### San Pedro / Huachuma (Andean South America)
 
-- *[[echinopsis-pachanoi]]* (San Pedro cactus) contains mescaline and has been used in Andean healing ceremonies for at least 3,000 years, as evidenced by archaeological finds at Chavin de Huantar in Peru.
+- *Echinopsis pachanoi* (San Pedro cactus) contains mescaline and has been used in Andean healing ceremonies for at least 3,000 years, as evidenced by archaeological finds at Chavin de Huantar in Peru.
 - Healers (curanderos) use San Pedro in ceremonies called *mesadas* to diagnose illness, cleanse negative energies, and promote healing.
 
 ### Fly-Agaric / Amanita Muscaria (Siberia and Northern Europe)
@@ -90,34 +90,6 @@ Michael Harner, after his experiences with ayahuasca among the Shuar, left acade
 ## Related Topics
 
 - [[ayahuasca-preparation-and-ceremony]] for the Amazonian tradition
-- [[maria-sabina-and-mazatec-mushroom-ceremony]] for the Mazatec tradition
+- [[maria-sabina-mazatec-mushroom-ceremony]] for the Mazatec tradition
 - [[amanita-muscaria-ethnobotany]] for the Siberian tradition
 - [[entheogenic-ceremony-preparation]] for modern ceremony practices
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-Field trials provide essential data for validating theoretical approaches and refining methodologies.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-Peer-reviewed publications and practitioner reports contribute complementary perspectives.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-Regional networks and demonstration sites play crucial roles in technology transfer.
-
-## Implementation Notes
-Start with small-scale trials before expanding to larger operations.
-Maintain detailed records of conditions, inputs, and outcomes for iterative refinement.
-Regular review and adjustment of strategies based on observed results ensures continuous improvement.

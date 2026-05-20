@@ -7,7 +7,7 @@ tags: [regenerative, no-till, soil-building, gardening, vegetables, water-manage
 sources: []
 ---
 
-## Mulching Guide
+# Mulching Guide
 
 Mulch is any material spread over the soil surface to conserve moisture, suppress weeds, regulate temperature, and feed soil biology. Proper mulching is one of the highest-impact, lowest-cost practices in a regenerative garden.
 
@@ -112,9 +112,8 @@ Key points:
 
 ## Related Concepts
 
-- [[hugelkultur]] for mound-based growing with built-in organic matter
+- [[hugelkultur-guide]] for mound-based growing with built-in organic matter
 - [[composting-methods-comparison]] for converting mulch materials into finished compost
 - [[soil-amendment-reference]] for mineral additions beneath mulch
 - [[no-till-gardening-method]] for mulch-based growing systems
 - [[sheet-mulching-lasagna-gardening]] — Sheet Mulching and Lasagna Gardening is the detailed technique for creating no-dig garden beds using layered organic materials.
-Ongoing developments continue to expand practical applications and theoretical understanding.

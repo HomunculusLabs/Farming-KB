@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Poisoning Guide
 created: 2026-04-12
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
 - raw/papers/mushrooms
 ---
 
-## Mushroom Poisoning Guide
+# Mushroom Poisoning Guide
 
 Understanding the major categories of mushroom poisoning is essential for safe foraging. This guide covers the most dangerous species, their toxins, mechanisms of action, and clinical consequences. For identification guidance, see [[mushroom-identification]] and [[mushroom-toxicity-identification-warnings]].
 
@@ -98,7 +99,7 @@ The delayed action of amatoxins means they cannot function as effective deterren
 
 ## Amanita Muscaria (Fly Agaric)
 
-**Active compounds**: Muscimol (sedates nervous system by binding to GABA receptors) and ibotenic acid (excites nervous system by binding to glutamate receptors). See [[amanita-muscaria]] for full details.
+**Active compounds**: Muscimol (sedates nervous system by binding to GABA receptors) and ibotenic acid (excites nervous system by binding to glutamate receptors). See [[amanita-muscaria-guide]] for full details.
 
 ## Aflatoxins (Mycotoxins from Molds)
 
@@ -140,6 +141,8 @@ Caused by inhaling massive quantities of puffball (*Lycoperdon*) spores. In 1994
 4. LBMs (little brown mushrooms) on wood should always be treated with extreme suspicion — deadly galerinas grow in the same habitat as edible species
 5. Immigrants who forage based on species familiarity from their home country are at elevated risk — *Volvariella volvacea* (paddy straw mushroom) resembles deadly *Amanita* species
 
-See also [[mushroom-identification]], [[mushroom-toxicity-identification-warnings]], [[mycotoxins-and-human-health]], [[amanita-muscaria]], [[mushroom-identification-resources]]
+See also [[mushroom-identification]], [[mushroom-toxicity-identification-warnings]], [[mycotoxins-and-human-health]], [[amanita-muscaria-guide]], [[mushroom-identification-resources]]
 
 ## Related
+
+- [[mushroom-toxicology-palmer-theory]]

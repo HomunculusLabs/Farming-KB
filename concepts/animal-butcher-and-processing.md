@@ -6,7 +6,7 @@ type: concept
 tags: [animal-husbandry, homesteading, livestock, byproducts, processing, preservation]
 sources: []
 ---
-## Animal Butcher and Processing
+# Animal Butcher and Processing
 On-farm slaughter and processing is a fundamental homesteading skill that
 provides complete control over meat quality, animal welfare at harvest, and
 food safety. Processing your own animals eliminates processing fees and
@@ -140,11 +140,15 @@ sheep, goats, pigs, and cattle).
 
 ### Basic Cuts (Beef/Lamb/Goat/Pork)
 - **Primal cuts:** Chuck, rib, loin, round, flank, brisket, plate (beef).
-
+  Shoulder, rack, loin, leg, shank (lamb/goat). Shoulder, loin, belly,
+  leg, ham (pork).
+- **Sub-primal cuts:** Break primals into roasts, steaks, chops, stew meat,
+  and ground meat.
+- **Cutting order:** Remove legs first, then separate chuck/shoulder from
+  rib/loin, then break individual cuts.
+- **Ground meat:** Trim and grind trimmings. Mix with fat (pork fat or
+  beef fat) for proper consistency. 80/20 or 75/25 lean-to-fat ratio.
 ## See Also
-
-- [[permaculture-animal-integration]]
-- [[mollison-designers-domestic-animal-integration-design]]
-- [[savory-animal-impact-and-herd-effect]]
-- [[animal-face]]
-- [[permaculture-designers-manual-animal-forage-systems]]
+- [[animal-harvest-and-processing]]
+- [[savory-holistic-resource-management-animal-impact]]
+- [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]

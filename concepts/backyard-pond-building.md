@@ -7,7 +7,7 @@ tags: [water, construction, wildlife, permaculture, homesteading, plant-systems,
 sources: []
 ---
 
-## Backyard Pond Building
+# Backyard Pond Building
 
 A backyard pond serves multiple functions on a homestead: wildlife habitat, irrigation water storage, aesthetic enjoyment, aquaculture, and fire suppression. Building a successful pond requires careful planning around site selection, design, liner installation, and ongoing maintenance.
 
@@ -140,10 +140,12 @@ A well-designed pond attracts frogs, dragonflies, birds, and beneficial insects:
 
 In cold climates, ponds need winter preparation:
 
-## See Also
+-  **Keep a hole open** in ice for gas exchange. Use a floating de-icer or air pump bubbler. Never break ice by hitting it — the shock can harm fish.
+-  **Stop feeding fish** when water temperature drops below 10 C (50 F). Their metabolism slows and they cannot digest food.
+-  **Trim dead vegetation** in fall to prevent decomposition in the pond over winter.
+-  **Deep ponds** (90+ cm) in most temperate climates allow fish to overwinter without additional heating. The bottom stays at 4 C even when surface freezes.
+-  **Tropical plants** must be brought indoors or treated as annuals.
 
-- [[comparison-backyard-food-forest-vs-urban-permaculture]]
-- [[aquaponics]]
-- [[comparison-aquaculture-in-permaculture-vs-backyard-pond-building]]
-- [[comparison-food-forest-vs-backyard-orchard]]
-- [[query-how-to-set-up-a-backyard-pond]]
+## Integration with Homestead Systems
+
+A backyard pond connects to broader homestead water management. Overflow can feed [[passive-irrigation-systems]] for garden beds. Pond water can supplement [[rainwater-harvesting-systems]] during dry periods. The pond creates microclimate benefits — cooling adjacent areas in summer and providing humidity for nearby plantings. Combined with [[aquaponics-fish-species]] knowledge, a pond can serve as the foundation for a more intensive aquaponic production system. Fish waste from the pond can also enrich [[drip-irrigation-guide]] water for adjacent garden beds.

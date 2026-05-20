@@ -57,7 +57,7 @@ The wood blewit is considered a **good edible mushroom** when properly cooked:
 - **Must be cooked thoroughly** — raw or undercooked specimens can cause gastrointestinal distress in some individuals
 - **Flavor profile:** Mild, nutty, and slightly sweet with a pleasant aromatic quality
 - **Texture:** Firm and meaty, holds up well in cooking
-- **[[amanita-muscaria-preparation-methods]]:** Sautéing, braising, soups, stews, and drying for later use
+- **[[amanita-preparation-methods]]:** Sautéing, braising, soups, stews, and drying for later use
 
 ## Overview
 

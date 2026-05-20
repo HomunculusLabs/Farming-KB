@@ -1,30 +1,34 @@
 ---
-title: "KNF Troubleshooting"
+
+title: KNF Troubleshooting — Problems and Solutions
+created: 2026-04-11
+updated: 2026-04-12
+type: concept
+
 tags:
-  - knf
-  - troubleshooting
-  - fermentation
-  - recipe
-  - microbes
-  - old-world
-  - rice
-  - plant-growth
+- knf
+- troubleshooting
+- fermentation
+- recipe
+- microbes
+- old-world
+- rice
+- plant-growth
+
 sources:
-  - raw/papers/master-cho-knf-recipe-book.md
-  - raw/papers/bahay-kubo-indigenous-microorganisms_.md
-  - raw/papers/chos-global-natural-farming.md
-  - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
+- raw/papers/master-cho-knf-recipe-book.md
+- raw/papers/bahay-kubo-indigenous-microorganisms_.md
+- raw/papers/chos-global-natural-farming.md
+- raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-## KNF Troubleshooting
+# KNF Troubleshooting
 
-Synthesized from all [[korean-natural-farming]] input pages. Covers preparation failures, plant symptom diagnosis, pest/disease responses, and emergency rescue treatments. See [[knf-preparations]] for recipes, [[nutritive-cycle-theory]] for growth-stage timing, and [[knf-plant-stage-treatments]] for stage-specific protocols.
+Synthesized from all KNF input pages. Covers preparation failures, plant symptom diagnosis, pest/disease responses, and emergency rescue treatments. See [[knf-preparations]] for recipes and [[nutritive-cycle-theory]] for growth-stage timing.
 
 ## Preparation Failures
 
 ### IMO Won't Culture
-
-See [[knf-indigenous-microorganism-culture]] for full IMO collection and culturing instructions.
 
 | Symptom | Cause | Fix |
 |---------|-------|-----|
@@ -37,8 +41,6 @@ See [[knf-indigenous-microorganism-culture]] for full IMO collection and culturi
 
 ### FPJ/FFJ Smells Bad
 
-See [[knf-fermented-plant-juice]] and [[knf-fermented-fruit-juice]] for proper preparation methods.
-
 | Symptom | Cause | Fix |
 |---------|-------|-----|
 | Putrid/rotten smell | Anaerobic fermentation, wrong plant | Discard. Ensure breathable cover first 1-2 days. Avoid cucumber, melon, strawberry (too much sugar) |
@@ -49,8 +51,6 @@ See [[knf-fermented-plant-juice]] and [[knf-fermented-fruit-juice]] for proper p
 
 ### FAA Smells Rotten
 
-See [[knf-fish-amino-acid]] for the complete FAA production guide.
-
 | Symptom | Cause | Fix |
 |---------|-------|-----|
 | Strong putrid/rotten | Fat not dissolving, anaerobic | Add IMO-3 (lipase bacteria dissolve fat), more sugar, burp daily |
@@ -60,8 +60,6 @@ See [[knf-fish-amino-acid]] for the complete FAA production guide.
 
 ### OHN Mold
 
-See [[knf-oriental-herbal-nutrient]] for the full OHN recipe and preparation process.
-
 | Symptom | Cause | Fix |
 |---------|-------|-----|
 | Surface mold on extract | Low alcohol content, contamination | Ensure beer/wine is 5%+ ABV; add more sugar as preservative |
@@ -69,8 +67,6 @@ See [[knf-oriental-herbal-nutrient]] for the full OHN recipe and preparation pro
 | Separation in final product | Normal — herbs settling | Shake before use |
 
 ### WCA Won't Dissolve
-
-See [[knf-water-soluble-calcium]] for the standard WCA recipe.
 
 | Symptom | Cause | Fix |
 |---------|-------|-----|
@@ -80,8 +76,6 @@ See [[knf-water-soluble-calcium]] for the standard WCA recipe.
 
 ### LAB Weak / Won't Separate
 
-See [[knf-lactic-acid-bacteria-serum]] for the complete LAB culturing procedure.
-
 | Symptom | Cause | Fix |
 |---------|-------|-----|
 | No curd separation after 8 days | Ultra-pasteurized milk used | Use raw or regular pasteurized milk (UP milk lacks enzymes) |
@@ -89,8 +83,6 @@ See [[knf-lactic-acid-bacteria-serum]] for the complete LAB culturing procedure.
 | Foul smell | Bad bacteria dominated | Discard; sanitize jar; ensure anaerobic with airlock for phase 2 |
 
 ### WS-CaPo Won't Extract
-
-See [[knf-water-soluble-calcium-phosphate]] for the standard WS-CaPo method.
 
 | Symptom | Cause | Fix |
 |---------|-------|-----|
@@ -104,10 +96,10 @@ See [[knf-water-soluble-calcium-phosphate]] for the standard WS-CaPo method.
 | Symptom | Likely Cause | KNF Response |
 |---------|-------------|--------------|
 | Yellowing lower leaves (veg) | N deficiency or natural senescence | FAA 1:1000 foliar; check if old growth (normal) |
-| Yellowing upper/new leaves | Fe, S, or general [[nutrient-lockout]] | [[knf-seawater-and-fermented-seawater]] 1:30 (trace minerals); check pH |
+| Yellowing upper/new leaves | Fe, S, or general nutrient lockout | Seawater 1:30 (trace minerals); check pH |
 | Leaf curl (upward) | Ca deficiency, heat stress | WS-Ca 1:500 foliar; improve airflow |
 | Leaf curl (downward) | Overwatering, P toxicity | Reduce water; check drainage |
-| Interveinal chlorosis | Mg or Fe deficiency | [[chlorosis]] treatment: Seawater 1:30; Epsom salt soil drench |
+| Interveinal chlorosis | Mg or Fe deficiency | Seawater 1:30; Epsom salt soil drench |
 | Purple stems/leaves | P deficiency (cold) | WS-CaPo 1:500; WS-PA 1:30; raise temps |
 | Brown spots on leaves | Fungal disease, Ca deficiency | OHN 1:500 + WS-Ca 1:500; improve airflow |
 | Soft, sappy growth | Excess N, insufficient Ca | Stop FAA; apply WS-Ca 1:500 |
@@ -129,4 +121,51 @@ See [[knf-water-soluble-calcium-phosphate]] for the standard WS-CaPo method.
 
 | Symptom | Likely Pest/Disease | KNF Treatment |
 |---------|-------------------|---------------|
-| Fine webbing, yellow stippling | Spider mites | [[knf-pest-control-methods]]: Mackerel FAA 1:500 + OHN 1:500; increase humidity; predatory mites |
+| Fine webbing, yellow stippling | Spider mites | Mackerel FAA 1:500 + OHN 1:500; increase humidity; predatory mites |
+| Tiny black flies at soil | Fungus gnats | Let soil dry; LAB 1:500 soil drench; BTi |
+| Silver streaks, black dots | Thrips | OHN 1:500 + neem FPJ; blue sticky traps |
+| Clusters on new growth | Aphids | OHN 1:500; ladybugs; neem FPJ |
+| White flying insects | Whiteflies | OHN 1:500; yellow sticky traps |
+| White powder on leaves | Powdery mildew | OHN 1:500 (cinnamon antifungal); milk spray 1:9; improve airflow |
+| Brown mushy buds | Bud rot (Botrytis) | Remove affected buds; reduce humidity <50%; OHN 1:500 preventive |
+| Wilting, brown roots | Root rot | Improve drainage; LAB 1:500 soil drench; H2O2 1:4 |
+
+## Emergency Rescue Formula
+
+For weakened, stressed, or recovering crops (Cho's formula):
+
+| Input | Amount per 1000ml water |
+|-------|------------------------|
+| FPJ | 2 ml |
+| BRV | 2 ml |
+| OHN | 1 ml |
+| FAA | 1 ml (if N-deficient) |
+| WS-Ca | 1 ml (if over-luxurious/soft) |
+
+Apply every 3-5 days until recovery visible. Works for transplant shock, pest damage recovery, nutrient burn recovery.
+
+## Seawater Use
+
+Seawater provides full-spectrum minerals (Na, Mg, K, Ca, plus 70+ trace elements). Use surface seawater diluted 1:30.
+
+- Reproductive stage: 1:30 promotes fruit quality and sugar content
+- Pre-harvest: OHN 1ml + WS-Ca 2ml + Seawater 30ml per liter (sweetness)
+- Stress recovery: trace minerals help plants recover from heat/cold/drought
+- SOS soil treatment: 3L per 200L water per acre
+- Crack prevention: included in drought-to-rain formula
+
+**Caution**: Never use undiluted seawater. Salt toxicity occurs above 1:20 dilution. Avoid on salt-sensitive plants.
+
+## Related
+
+- [[knf-preparations]] — complete input guide with recipes
+- [[indigenous-microorganisms-imo]] — IMO collection and cultivation
+- [[nutritive-cycle-theory]] — growth stage framework for timing inputs
+- [[fermented-plant-extract-fpe]] — FPJ/FFJ detailed troubleshooting
+- [[fish-amino-acid-faa]] — FAA troubleshooting and pairing
+- [[oriental-herbal-nutrient-ohn]] — OHN pest control applications
+- [[water-soluble-calcium-wca]] — WCA troubleshooting
+- [[brown-rice-vinegar-brv]] — BRV as extraction solvent
+- [[lactic-acid-bacteria-lab]] — LAB production troubleshooting
+- [[cannabis-pest-management]] — cannabis-specific IPM
+- [[soil-food-web-nutrient-cycling]] — biological foundation for all KNF inputs

@@ -1,4 +1,5 @@
 ---
+
 title: Organic Gardening Techniques (Geoff Hamilton)
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 ---
 
-## Organic Gardening Techniques (Geoff Hamilton)
+# Organic Gardening Techniques (Geoff Hamilton)
 
 Practical techniques from Geoff Hamilton's organic gardening encyclopedia. Hamilton was a BBC Gardeners' World presenter and advocate of no-chemical gardening. This page covers techniques NOT already detailed in existing wiki pages. See [[composting-systems]] for composting methods, [[seed-starting-reference]] for propagation, [[greenhouse-design]] for protected growing, and [[orchard-management]] for fruit trees.
 
@@ -144,3 +145,14 @@ See [[companion-planting-reference]] for full details. Hamilton's top combinatio
 - [[greenhouse-design]] — Protected growing structures
 - [[orchard-management]] — Fruit tree care
 - [[mulching-guide]] — Mulch types and application
+- [[no-till-gardening-method]] — Minimum disturbance soil management
+- [[weed-management-strategies]] — Weed ecology and control
+- [[seasonal-planning]] — Monthly task calendar
+- [[soil-fertility-management]] — Organic soil management
+- [[cover-cropping-guide]] — Green manures and cover crops
+- [[organic-soil-management]] — Detailed soil care phases and conditioners
+- [[organic-greenhouse-gardening]] — Greenhouse growing, heating, and pest management
+- [[organic-herb-gardening]] — Herb classification, propagation, harvesting, and preserving
+## Related
+
+- [[geoff-hamilton]]

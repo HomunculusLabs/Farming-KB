@@ -13,7 +13,7 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-## Permaculture Currency and Economics
+# Permaculture Currency and Economics
 
 Permaculture extends beyond physical landscape design into the realm of community economics. In Bill Mollison's Designers' Manual (Chapter 14), the financial and economic dimension is treated as inseparable from ecological design: money should serve the proliferation of life, not the accumulation of monuments.
 
@@ -100,27 +100,5 @@ Mollison's key metaphor: "Money is to the social fabric as water is to landscape
 - [[permaculture-introduction-and-ethics]] -- The ethical foundation underlying permaculture economics
 - [[permaculture-design-process]] -- Community-scale design for self-reliance
 - [[permaculture-design-process]] -- Reducing household costs through design
-
 ## See Also
-
-- [[nut-tree-cultivation-for-permaculture-food-forests]]
-- [[stametsian-permaculture-model]]
-- [[permaculture-farm-design-principles]]
-- [[nitrogen-fixing-plants-in-permaculture]]
-- [[urban-permaculture-and-integrated-land-management]]
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
-Collaborative networks and knowledge sharing accelerate progress in this field.
-Emerging technologies offer new tools for analysis and implementation.
-Local adaptation and context-specific strategies remain essential for success.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.
+- [[pdc-right-livelihood-and-permaculture-economics]]

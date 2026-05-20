@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
-sources: []
+sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 ## Orchid Mycorrhiza and Protocorm Development
 

@@ -36,7 +36,7 @@ Pongamia is a leguminous tree genus, with the primary species *[[indian-beech]].
 - Seed production begins at 4-7 years of age
 - Trees can live 80-100+ years
 - Coppices readily when cut, regenerating from the stump
-- Seed cake (after oil extraction) makes excellent [[complete-organic-fertilizer]]
+- Seed cake (after oil extraction) makes excellent [[complete-organic-fertilizer-cof]]
 
 ## Source References
 

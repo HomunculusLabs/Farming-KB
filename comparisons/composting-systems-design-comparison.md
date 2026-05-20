@@ -1,4 +1,5 @@
 ---
+
 title: Composting Systems Design Comparison
 created: 2026-04-11
 updated: 2026-04-12
@@ -22,7 +23,7 @@ sources:
 - concepts/bokashi.md
 ---
 
-## Composting Systems Design Comparison
+# Composting Systems Design Comparison
 
 Composting systems range from simple open piles to enclosed bins, tumblers, and in-ground methods. The right system depends on your space, volume of organic waste, desired speed, and how much labor you want to invest. This comparison focuses on physical system designs (not biological methods — see [[hot-composting-vs-vermicompost-vs-bokashi]] for process comparisons).
 

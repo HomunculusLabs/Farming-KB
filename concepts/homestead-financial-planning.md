@@ -7,7 +7,7 @@ tags: [homesteading, economics, sustainability, reference, workflow]
 sources: []
 ---
 
-## Homestead Financial Planning
+# Homestead Financial Planning
 
 Financial planning is the least glamorous but most critical aspect of homesteading. Without realistic budgeting, even the most well-designed homestead can fail. This guide covers startup costs, ongoing expenses, income strategies, tax considerations, and financial risk management.
 
@@ -92,7 +92,7 @@ If you operate your homestead as a business (even a small one), you may deduct o
 - **Home office deduction** — if you have a dedicated space for farm business administration
 - **Vehicle expenses** — mileage or actual expenses for farm-related travel
 - **Depreciation** — equipment, buildings, fencing, and improvements depreciated over their useful life (3-20 years depending on asset)
-- **Soil and [[water-conservation]] expenses** — up to 25% of gross farm income
+- **Soil and water conservation expenses** — up to 25% of gross farm income
 - **Agricultural tax exemptions** — many states exempt farm equipment, feed, seed, and fertilizer from sales tax
 
 **Important:** The IRS requires you to show profit intent. If you report a loss for 3 out of 5 consecutive years, the IRS may reclassify your farm as a hobby, eliminating deductions. Keep good records — see [[homestead-record-keeping]].

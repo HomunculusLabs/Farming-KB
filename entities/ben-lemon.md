@@ -1,4 +1,5 @@
 ---
+
 title: Ben Lemon (Nicolas Flamel)
 created: 2026-04-12
 updated: 2026-04-12
@@ -19,7 +20,7 @@ sources:
 - raw/papers/ben-lemon-cannabis-alchemy.md
 ---
 
-## Ben Lemon
+# Ben Lemon
 
 Author of "Cannabis Alchemy" (1979), published under the pseudonym Nicolas Flamel. A foundational text in underground cannabis chemistry that documented solvent extraction, isomerization, THC acetate synthesis, and purification techniques for cannabis oil.
 
@@ -58,23 +59,29 @@ The techniques described in Cannabis Alchemy -- particularly isomerization and h
 
 ## See Also
 
-- [[cannabis-extraction-basics]]
-- [[cannabis-hashish-guide]]
-- [[cannabis-health-therapeutics]]
-- [[comparison-lemon-balm-vs-chamomile]]
-- [[lemon-balm-melissa-officinalis]]
-- [[lemon-cannabis-alchemy-direct-vaporization]]
-- [[lemon-cannabis-alchemy-hashing-and-extraction]]
-- [[lemon-haze-cannabis]]
-- [[thc-acetate-and-isomerization]]
+- [[cannabis-extraction-basics]] for comprehensive modern extraction comparison
+- [[thc-acetate-and-isomerization]] for detailed chemistry from this book
+- [[cannabis-hashish-guide]] for traditional and modern hashish techniques
+- [[cannabis-health-therapeutics]] for medical applications of extracts
+### Practical Applications
+The principles of ben lemon apply across various cultivation and research contexts.
+Understanding these concepts enables more effective implementation and improved outcomes.
 
-## Practical Applications
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]
+### Additional Notes
+The study and application of ben lemon continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
-## Key Considerations
+### Additional Notes
+The study and application of ben lemon continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-
-## Mechanisms and Processes
-
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

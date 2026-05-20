@@ -12,12 +12,12 @@ tags:
   - ssri
   - trip-sitting
 sources:
-  - "raw/particles/psilocybin-mushrooms-of-the-world-stamets.md"
-  - "raw/particles/magic-mushrooms-around-the-world-by-jochen-gartz.md"
+  - raw/particles/psilocybin-mushrooms-of-the-world-stamets.md
+  - raw/particles/magic-mushrooms-around-the-world-by-jochen-gartz.md
   - raw/particles/hofmann-a-lsd-my-problem-child.md
 ---
 
-## Psychedelic Harm Reduction
+# Psychedelic Harm Reduction
 
 Evidence-based safety practices for psychedelic use, including substance testing, dosage guidelines, contraindications, SSRI interactions, and trip sitting principles.
 
@@ -29,7 +29,7 @@ Psychedelic harm reduction operates on the principle that people will use these 
 
 ### Why Test?
 
-- Natural mushrooms can be confused with toxic lookalikes (see [[psilocybin-mushroom-identification]]).
+- Natural mushrooms can be confused with toxic lookalikes (see [[psilocybin-mushroom-identification-guide]]).
 - Synthetic substances sold as psychedelics may be adulterated or misidentified.
 - Testing services such as **Erowid's DrugsData**, **DanceSafe**, **Energy Control**, and **MAPS** provide analytical testing of submitted samples.
 
@@ -132,7 +132,7 @@ Psilocybin and LSD are Schedule I substances in many jurisdictions. Possession, 
 
 ## Related Topics
 
-- [[psychedelic-mushroom-set-and-setting]] for the [[set-and-setting-framework]]
+- [[psychedelic-mushroom-set-and-setting]] for the set and setting framework
 - [[psychedelic-integration-practices]] for post-experience care
-- [[psilocybin-mushroom-identification]] for mushroom identification safety
-- [[psychedelic-integration]] for detailed integration guidance
+- [[psilocybin-mushroom-identification-guide]] for mushroom identification safety
+- [[psychedelic-integration-guide]] for detailed integration guidance

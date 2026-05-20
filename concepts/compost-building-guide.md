@@ -7,7 +7,7 @@ tags: [compost, soil, fertilizer, gardening, methods, microbes, composting, soil
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 ---
 
-## Compost Building Guide
+# Compost Building Guide
 
 Comprehensive guide to building high-quality compost, distilled from Steve Solomon's "Gardening When It Counts." Producing compost that will effectively grow vegetables is a highly skilled activity requiring hard work, close attention, and a desire to observe what is happening inside the heap.
 
@@ -116,5 +116,3 @@ For gardens under 3,000-4,000 sq ft without livestock:
 - [[hot-composting-method]] — detailed thermophilic composting process
 - [[vermicompost-tea]] — liquid extracts from finished compost
 - [[biochar-soil-amendment]] — charcoal-based soil amendment
-## Further Reading
-Continued research and field trials yield new insights into this subject.

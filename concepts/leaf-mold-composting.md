@@ -7,7 +7,7 @@ tags: [composting, compost, soil-building, methods, soil, decomposition, regener
 sources: []
 ---
 
-## Leaf Mold Composting
+# Leaf Mold Composting
 
 Leaf mold is the product of decomposed leaves, broken down primarily by fungi rather than the bacteria that dominate traditional composting. The result is a dark, crumbly, earthy-smelling material that is an exceptional soil conditioner. While not as nutrient-rich as finished compost, leaf mold excels at improving soil structure, water retention, and microbial habitat. It is one of the simplest and most rewarding composting methods available, requiring minimal effort and no purchased inputs.
 
@@ -141,10 +141,24 @@ For faster leaf mold (6-9 months), you can add:
 - Creates a lightweight, moisture-retentive potting mix
 - Excellent for seed starting and container growing
 
+### Lawn Topdressing
+- Spread a thin layer (1/4 inch) over established lawn in fall or early spring
+- Improves soil structure without disturbing grass
+- Reduces thatch buildup
+- Provides slow-release organic matter
+
+### Moisture Management
+- Add to the bottom of planting holes for water-loving plants
+- Mix into raised beds to improve water retention
+- Use as a component in [[soil-testing-and-analysis]] remediation plans for sandy soils
+
 ## See Also
 
-- [[ingham-leaf-curl-taphrina-disease-control]]
-- [[comparison-vermicomposting-vs-leaf-mold]]
-- [[fungal-succession-leaf-litter]]
-- [[knf-leaf-mold-humus]]
-- [[leaf-based-photoperiodic-perception]]
+- [[composting-methods-comparison]] -- how leaf mold compares to other composting methods
+- [[soil-testing-and-analysis]] -- assessing soil needs before applying leaf mold amendments
+- [[soil-food-web-nutrient-cycling]]
+- [[forest-garden-layers]]
+
+## Related
+
+- [[litter-wood-decomposing-fungi]]

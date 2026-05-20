@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Growing Reference
 created: 2026-04-11
 updated: 2026-04-12
@@ -28,7 +29,7 @@ sources:
 - raw/papers/growing-psilocybe-azurescens.md
 ---
 
-## Mushroom Growing Reference
+# Mushroom Growing Reference
 
 Complete practical reference synthesizing all cultivation sources into one actionable page. See [[mushroom-cultivation-methods]] for method selection and [[mushroom-contamination-identification]] for problem-solving.
 
@@ -138,7 +139,7 @@ Outdoor beds in shaded locations. Wood chip spawn preferred over direct grain in
 - [[mushroom-contamination-identification]] — Contaminant ID and recovery
 - [[mushroom-species-guide]] — Detailed species parameters
 - [[mushroom-substrates]] — Substrate recipes and C:N ratios
-- [[mushroom-sterile-technique]] — Sterile workflow
+- [[mushroom-sterile-technique-detailed]] — Sterile workflow
 - [[mushroom-grow-equipment]] — Gear by tier
 - [[mushroom-spore-printing-and-storage]] — Spore collection and viability
 - [[outdoor-wood-lover-cultivation]] — Detailed outdoor bed guide for wood lovers

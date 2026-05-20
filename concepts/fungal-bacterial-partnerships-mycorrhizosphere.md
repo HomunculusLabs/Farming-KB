@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 ## Fungal-Bacterial Partnerships in the Mycorrhizosphere The mycorrhizosphere is the zone of soil influenced by mycorrhizal roots and their associated fungal structures. Within this zone, complex interactions between mycorrhizal-symbiosis beyond the binary plant-fungus interaction. These fungal-bacterial partnerships are fundamental to soil health, nutrient cycling, and plant protection. ## The Mycorrhizosphere Concept The traditional rhizosphere concept (the soil zone influenced by plant roots) was expanded to include fungal structures: - **Rhizosphere**: Soil zone influenced by [[growing-gourmet-spore-germination-strain-isolation]] and hyphal growth
 - Enhance mycorrhizal root colonization rates

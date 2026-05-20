@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushroom Guide Cordyceps
+title: Cordyceps (C. militaris, C. sinensis) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profil
 sources: []
 ---
 
-## Cordyceps (Cordyceps militaris and Ophiocordyceps sinensis)
+# Cordyceps (Cordyceps militaris and Ophiocordyceps sinensis)
 
 ## Overview
 
@@ -30,7 +30,7 @@ Cordyceps has been used in Tibetan and Chinese medicine for centuries as a tonic
 
 ### Energy and ATP Production
 Cordyceps enhances cellular energy metabolism:
-- Increases ATP ([[adenosine-triphosphate-atp]]) synthesis in mitochondria.
+- Increases ATP (adenosine triphosphate) synthesis in mitochondria.
 - Improves oxygen utilization efficiency (VO2 max).
 - Activates AMPK pathway (cellular energy sensor), similar to exercise.
 - Enhances lactate clearance during exercise.
@@ -62,7 +62,7 @@ Cordyceps is one of the most studied ergogenic mushrooms:
 
 ## Respiratory Health
 
-Traditional and modern use for [[cannabis-respiratory-conditions]]:
+Traditional and modern use for respiratory conditions:
 - Bronchodilatory effects (relaxation of airway smooth muscle).
 - Increased lung capacity and oxygen uptake.
 - Used traditionally for chronic bronchitis, asthma, and COPD.
@@ -87,7 +87,7 @@ Traditional use as a kidney tonic in Chinese medicine:
 ### C. militaris (Cultivated)
 Most commercially available cordyceps products are C. militaris:
 - **Whole dried fruiting bodies:** Can be added to soups, broths, or teas.
-- **Hot water extract:** Simmer 30-45 minutes for [[mushroom-polysaccharide-extraction-chemistry]].
+- **Hot water extract:** Simmer 30-45 minutes for polysaccharide extraction.
 - **Dual extraction:** Water + alcohol to capture both polysaccharides and cordycepin.
 - **Powder/capsules:** Most common supplement form. Look for standardized cordycepin content.
 
@@ -115,14 +115,14 @@ Wild O. sinensis faces severe overharvesting:
 - Harvests have declined by 50-90% in some regions of the Tibetan Plateau over the past 20 years.
 - Climate change is reducing the range and abundance of the host ghost moth larvae.
 - Prices have skyrocketed, driving overharvesting by rural communities dependent on the income.
-- C. [[cordyceps-militaris-cultivation]] is the sustainable alternative and provides comparable or superior cordycepin content.
+- C. militaris cultivation is the sustainable alternative and provides comparable or superior cordycepin content.
 
 ## Cultivation of C. militaris
 
 C. militaris can be cultivated on grain substrates (rice, wheat) or insect pupae:
 - **Substrate:** Sterilized rice or wheat grain, sometimes supplemented with insect protein.
 - **Temperature:** 68-75°F (20-24°C) colonization; 50-65°F (10-18°C) for fruiting (cool fruiting triggers).
-- **Light:** Required for [[fruiting-body-development]] and cordycepin production.
+- **Light:** Required for fruiting body development and cordycepin production.
 - **Fruiting time:** 3-6 weeks after inoculation.
 - **Yield:** 30-50% biological efficiency on grain substrates.
 - Insect pupae substrates produce fruiting bodies more chemically similar to wild O. sinensis.
@@ -132,7 +132,7 @@ C. militaris can be cultivated on grain substrates (rice, wheat) or insect pupae
 - Generally well-tolerated.
 - May lower blood sugar — caution with diabetes medications.
 - Possible blood-thinning effects — caution with anticoagulants.
-- [[blesching-cannabis-health-index-autoimmune-conditions]]: immune-stimulating effects may be problematic.
+- Autoimmune conditions: immune-stimulating effects may be problematic.
 - Avoid during pregnancy and breastfeeding.
 - Rare reports of dry mouth, nausea, and diarrhea at high doses.
 

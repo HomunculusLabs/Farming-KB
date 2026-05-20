@@ -1,4 +1,5 @@
 ---
+
 title: Tryptamine Consciousness Theory
 created: 2026-04-12
 updated: 2026-04-12
@@ -19,7 +20,7 @@ sources:
 - raw/papers/mckenna_t-tryptamines_consciousness.md
 ---
 
-## Tryptamine Consciousness Theory
+# Tryptamine Consciousness Theory
 
 [[terence-mckenna]]'s 1983 Esalen lecture "Tryptamine Hallucinogens and Consciousness" (published in *The Archaic Revival*, 1992) presents his most detailed phenomenological account of DMT and psilocybin experiences, with theoretical implications for consciousness studies.
 

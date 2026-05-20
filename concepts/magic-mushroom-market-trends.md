@@ -2,7 +2,7 @@
 title: "Magic Mushroom Market Trends"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
 ---
 
 ## Market Development Timeline

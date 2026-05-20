@@ -1,4 +1,5 @@
 ---
+
 title: Mycotoxins and Human Health
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/papers/mr-bloomfields-orchard
 ---
 
-## Mycotoxins and Human Health
+# Mycotoxins and Human Health
 
 Mycotoxins are poisonous compounds produced by fungi that contaminate food, indoor environments, and agricultural products. While most people are familiar with poisonous mushrooms, the more pervasive threats come from mold-produced toxins that operate invisibly in food chains and buildings. This page draws extensively from [[nicholas-money]]'s Mr. Bloomfield's Orchard.
 

@@ -7,11 +7,11 @@ tags: [compost, composting, equipment, construction, organic, gardening, soil-bu
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-## Compost Container Types
+# Compost Container Types
 
 ## Overview
 
-[[compost]] containers keep compost moist right up to the edges and keep the area tidy. Whether you build or buy, the key requirement is easy access to the compost when it is ready for the garden. Several types are available, from manufactured bins to simple homemade solutions.
+Compost containers keep compost moist right up to the edges and keep the area tidy. Whether you build or buy, the key requirement is easy access to the compost when it is ready for the garden. Several types are available, from manufactured bins to simple homemade solutions.
 
 ## Manufactured Containers
 
@@ -75,52 +75,8 @@ Use rough-sawn lumber (cheaper and looks fine). Old floorboards work well for si
 - Old natural-fiber clothes can go on the heap if cut into strips
 - In a hot year, expect two binfuls from each bin in summer plus one in spring
 
-## Practical Applications
-
-Real-world applications and use cases are diverse and context-dependent. Working with compost container types requires systematic evaluation of local conditions. Each situation presents unique variables that must be assessed independently. Documentation enables continuous improvement.
-
-## Key Considerations
-
-Several critical factors must be evaluated when approaching this subject. Working with compost container types requires systematic evaluation of local conditions. Each situation presents unique variables that must be assessed independently. Documentation enables continuous improvement.
-
-## Common Challenges
-
-Practitioners frequently encounter predictable obstacles that can be mitigated. Working with compost container types requires systematic evaluation of local conditions. Each situation presents unique variables that must be assessed independently. Documentation enables continuous improvement.
-
-## Research Developments
-
-Current research continues to expand understanding of the field. Working with compost container types requires systematic evaluation of local conditions. Each situation presents unique variables that must be assessed independently. Documentation enables continuous improvement.
-
-## Implementation Methods
-
-Proven approaches for putting theory into practice with measurable outcomes. Working with compost container types requires systematic evaluation of local conditions. Each situation presents unique variables that must be assessed independently. Documentation enables continuous improvement.
-
-## Quality Assessment
-
-Methods for evaluating outcomes and ensuring quality standards. Working with compost container types requires systematic evaluation of local conditions. Each situation presents unique variables that must be assessed independently. Documentation enables continuous improvement.
-
-## Technical Specifications
-
-Technical parameters that govern successful implementation. Working with compost container types requires systematic evaluation of local conditions. Each situation presents unique variables that must be assessed independently. Documentation enables continuous improvement.
-
 ## Related
 
-- [[wormery-construction]] — [[vermicomposting]] in a purpose-built box
+- [[wormery-construction]] — vermicomposting in a purpose-built box
 - [[composting-materials-alternative]] — sourcing compost materials beyond the garden
 - [[soil-conditioners-guide]] — alternative soil conditioners for bed preparation
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
-Collaborative networks and knowledge sharing accelerate progress in this field.
-Emerging technologies offer new tools for analysis and implementation.
-Local adaptation and context-specific strategies remain essential for success.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

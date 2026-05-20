@@ -8,7 +8,7 @@ sources:
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 ---
 
-## Potassium Role in Plants
+# Potassium Role in Plants
 
 ## Overview
 
@@ -18,7 +18,7 @@ Potassium (K) is unique among essential nutrients: it is not a constituent of an
 
 ### Stomatal Regulation
 
-Potassium ions (K+) play the key role in the movement of water into and out of guard cells in leaves. When potassium concentrations change, guard cells open or close, regulating [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] intake and water loss through transpiration. Chloride ions (Cl-) serve as the counterbalance to potassium in operating stomata.
+Potassium ions (K+) play the key role in the movement of water into and out of guard cells in leaves. When potassium concentrations change, guard cells open or close, regulating carbon dioxide intake and water loss through transpiration. Chloride ions (Cl-) serve as the counterbalance to potassium in operating stomata.
 
 ### Enzyme Activation
 
@@ -38,7 +38,7 @@ Potassium is involved in protein synthesis and the activation of enzymes needed 
 
 ## Potassium in Soil
 
-Potassium is the eighth most abundant element, making up about 2.5 percent of the Earth's crust. In soil, it is held by negative charges on the surfaces of clay particles [[hamilton-composting-and-organic-matter-management]]. It is not adsorbed as tightly as some other cations (like calcium with its 2+ charge), making it relatively available for plant uptake.
+Potassium is the eighth most abundant element, making up about 2.5 percent of the Earth's crust. In soil, it is held by negative charges on the surfaces of clay particles and organic matter. It is not adsorbed as tightly as some other cations (like calcium with its 2+ charge), making it relatively available for plant uptake.
 
 Potassium is relatively immobile in soils, so banding near root zones improves uptake efficiency significantly.
 
@@ -60,47 +60,19 @@ Aside from oxygen, potassium uptake is the nutrient most affected by compacted s
 
 | Source | N-P-K | Notes |
 |--------|-------|-------|
-| Greensand | 0-0-3 | [[solomon-chemical-vs-organic-fertilizer-slow-release-trace-minerals]], contains many [[dynamic-accumulator-plants-trace-minerals]] |
+| Greensand | 0-0-3 | Slow release, contains many trace minerals |
 | Wood ashes | 0-1-3 | Fast-acting, raises pH |
 | Sulfate of potash | 0-0-50 | Highly concentrated, quick release |
 | Kelp meal | 1-0.5-2 | Also provides micronutrients and hormones |
-| [[alfalfa-meal]] | 2-1-3 | Good all-purpose, also feeds soil biology |
+| Alfalfa meal | 2-1-3 | Good all-purpose, also feeds soil biology |
 
 ## Key Points
 
 - Potassium is not structural -- it is a regulator of plant functions
-- It controls stomatal opening/closing, [[ectomycorrhizal-enzyme-activity-organic-nutrients]], water balance, and sugar transport
+- It controls stomatal opening/closing, enzyme activity, water balance, and sugar transport
 - Deficiency causes wilting and necrosis in older leaves
 - Compacted soils severely reduce potassium uptake
 - Potassium is relatively immobile in soil -- banding improves efficiency
-
-## Practical Applications
-
-Real-world applications and implementation strategies for this topic. Success with potassium role plants depends on understanding the interplay of multiple factors in any given context. Practitioners benefit from maintaining detailed records and adapting their approach based on observed results and changing conditions.
-
-## Key Considerations
-
-Critical factors that must be evaluated when working with this subject. Success with potassium role plants depends on understanding the interplay of multiple factors in any given context. Practitioners benefit from maintaining detailed records and adapting their approach based on observed results and changing conditions.
-
-## Common Challenges
-
-Frequently encountered obstacles and their proven solutions. Success with potassium role plants depends on understanding the interplay of multiple factors in any given context. Practitioners benefit from maintaining detailed records and adapting their approach based on observed results and changing conditions.
-
-## Research Developments
-
-Current research directions and emerging findings in this field. Success with potassium role plants depends on understanding the interplay of multiple factors in any given context. Practitioners benefit from maintaining detailed records and adapting their approach based on observed results and changing conditions.
-
-## Implementation Methods
-
-Proven approaches for putting theory into practice effectively. Success with potassium role plants depends on understanding the interplay of multiple factors in any given context. Practitioners benefit from maintaining detailed records and adapting their approach based on observed results and changing conditions.
-
-## Quality Indicators
-
-Metrics and indicators for evaluating success and measuring outcomes. Success with potassium role plants depends on understanding the interplay of multiple factors in any given context. Practitioners benefit from maintaining detailed records and adapting their approach based on observed results and changing conditions.
-
-## Technical Parameters
-
-Specific technical specifications that govern successful results. Success with potassium role plants depends on understanding the interplay of multiple factors in any given context. Practitioners benefit from maintaining detailed records and adapting their approach based on observed results and changing conditions.
 
 ## Related
 
@@ -108,19 +80,3 @@ Specific technical specifications that govern successful results. Success with p
 - [[micronutrient-deficiency-symptoms]]
 - [[plant-nutrient-uptake-mechanisms]]
 - [[bacterial-vs-fungal-soil]]
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
-Collaborative networks and knowledge sharing accelerate progress in this field.
-Emerging technologies offer new tools for analysis and implementation.
-Local adaptation and context-specific strategies remain essential for success.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.

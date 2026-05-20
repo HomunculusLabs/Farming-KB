@@ -7,7 +7,7 @@ tags: [mycology, engineering, construction, sustainability, environment, process
 sources: []
 ---
 
-## Fungal-Based Materials
+# Fungal-Based Materials
 
 ## Overview
 
@@ -140,10 +140,16 @@ Applications: non-load-bearing walls, insulation panels (most commercially viabl
 - **Textiles**: Non-woven mats for filters, geotextiles, erosion control; spun fibers in research
 - **Electronics**: Biodegradable circuit board substrates (early research)
 
+## Environmental Impact & Challenges
+
+Carbon-negative or neutral (sequesters CO₂ during growth), uses agricultural waste, ~95% less water than leather, fully compostable, low energy (ambient temperature growth). Challenges: no industry standards, not in building codes, scaling maturing, moisture sensitivity, higher cost than conventional, immature supply chains.
+
+## Future Directions
+
+3D printing with mycelium, genetic engineering for optimized properties, hybrid materials, smart materials responsive to stimuli, localized distributed manufacturing using local waste substrates.
+
 ## See Also
 
-- [[fungi-in-the-environment-fungal-ecosystems]]
-- [[fungal-amber-fossils]]
-- [[singh-fungal-pellet-formation-bioremediation]]
-- [[dark-septate-endophytes]]
-- [[fungal-pathogens-human-disease]]
+- [[mycoremediation-techniques]] — environmental applications of fungal biology
+- [[medicinal-mushroom-guide]] — bioactive compounds from the same organisms
+- [[functional-mushroom-products]] — mushroom-derived products for health applications

@@ -1,5 +1,5 @@
 ---
-title: "Medicinal Mushroom Guide Turkey Tail"
+title: Turkey Tail (Trametes versicolor) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, sp
 sources: []
 ---
 
-## Turkey Tail (Trametes versicolor)
+# Turkey Tail (Trametes versicolor)
 
 ## Overview
 
@@ -21,7 +21,7 @@ Turkey tail is the most extensively researched medicinal mushroom for immune sup
 - **PSP (Polysaccharide-peptide):** Similar protein-bound polysaccharide. Approved as a drug in China since 1987.
 - **Beta-glucans:** The primary immunomodulatory compounds, particularly 1,3-beta and 1,6-beta-glucans.
 - **Triterpenes:** Present at lower concentrations than reishi or chaga.
-- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and flavonoids:** Contribute antioxidant activity.
+- **Phenolic compounds and flavonoids:** Contribute antioxidant activity.
 
 ## PSK and PSP — Mechanisms
 
@@ -112,11 +112,11 @@ Turkey tail is one of the easiest mushrooms to identify, but has lookalikes:
 
 ### Lookalikes
 - **False turkey tail (Stereum ostrea):** Similar zonate cap but has a smooth, poreless underside (no pores visible). Generally considered non-toxic but not medicinal.
-- **[[trametes-hirsuta]]:** Very similar but less colorful; also medicinal.
+- **Trametes hirsuta:** Very similar but less colorful; also medicinal.
 
 ### Habitat
 - Dead hardwood (oak, maple, beech, birch).
-- Found year-round [[query-how-to-grow-and-use-oca-in-temperate-climates]].
+- Found year-round in temperate climates.
 - One of the most common wood-decay fungi worldwide.
 
 ## Cultivation
@@ -131,7 +131,7 @@ Turkey tail can be cultivated but is often wild-harvested due to abundance:
 
 - Extremely safe with long history of use as food and medicine.
 - No significant toxicity in animal or human studies even at high doses.
-- May enhance immune function — caution with autoimmune conditions (lupus, MS, [[blesching-cannabis-rheumatoid-arthritis]]).
+- May enhance immune function — caution with autoimmune conditions (lupus, MS, rheumatoid arthritis).
 - Possible interactions with immunosuppressant medications.
 - Safe during most chemotherapy regimens but always consult oncologist.
 

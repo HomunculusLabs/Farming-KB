@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, byproducts, forage]
 sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
 
-## Goose Husbandry
+# Goose Husbandry
 
 Geese are excellent homestead birds -- they are largely self-feeding on pasture, produce large eggs, provide meat, and serve as effective weeders and alarm animals. They require less feed and housing than chickens or ducks. Drawn from [[nicole-faires]]' comprehensive manual.
 
@@ -28,11 +28,11 @@ Geese are excellent homestead birds -- they are largely self-feeding on pasture,
 ### Choosing
 
 - Meat production: Embden, Toulouse
-- [[mollison-designers-chicken-tractors-egg-production]]: Chinese, Pilgrim
-- Weed/[[mollison-geese-grass-control-and-integrated-poultry]]: Chinese, Roman Tufted
+- Egg production: Chinese, Pilgrim
+- Weed/grass control: Chinese, Roman Tufted
 - Small homestead: Pilgrim, Roman Tufted
 - Watchdog/alert: African, Chinese
-- [[cold-climate-design-strategies]] hardiness: Embden, Toulouse, Pilgrim
+- Cold climate hardiness: Embden, Toulouse, Pilgrim
 
 ## Housing
 
@@ -51,7 +51,7 @@ Geese are excellent homestead birds -- they are largely self-feeding on pasture,
 
 - Geese are large and generally not preyed upon by small predators
 - 3-4 foot fencing is sufficient to contain them (they don't fly well)
-- Electric poultry netting works well for [[comparison-rotational-grazing-vs-continuous-grazing]]
+- Electric poultry netting works well for rotational grazing
 - Protect from coyotes, stray dogs, and foxes -- especially goslings
 - Night shelter recommended even for free-range birds
 
@@ -141,10 +141,51 @@ Geese are primarily grazers and can meet most of their nutritional needs from go
 - Geese lay in nests early in the morning
 - Collect eggs daily; geese are not reliable setters unless broody
 
-## See Also
+### Meat Production
 
-- [[goose-keeping-and-husbandry-guide]]
-- goose keeping
-- [[faires-goose-management-and-integration]]
-- [[chicken-keeping]]
-- [[comparison-rabbit-husbandry-vs-chicken-keeping]]
+- Processing age: 12-16 weeks for tender meat, 20+ weeks for roasting birds
+- Dressing percentage: approximately 70-75% of live weight
+- Goose fat is highly valued for cooking (renders easily from skin and fat deposits)
+- See [[animal-harvest-and-processing]] for detailed processing
+
+## Health
+
+### Common Issues
+
+| Problem | Symptoms | Prevention |
+|---------|----------|------------|
+| Worms | Weight loss, poor growth | Regular deworming, clean pasture |
+| Bumblefoot | Swollen foot pads | Dry bedding, clean water areas |
+| Respiratory | Sneezing, nasal discharge | Good ventilation, dry housing |
+| Predator losses | Missing birds | Night housing, fencing |
+| Angel wing | Wing tips twist outward | Avoid overfeeding, limit protein in goslings |
+
+### Preventive Care
+
+- Deworm twice yearly (spring and fall)
+- Keep water sources clean to prevent disease spread
+- Provide dry bedding -- wet conditions cause foot problems
+- Monitor for predators (coyotes, dogs, foxes, owls)
+- Goslings are vulnerable to cold and damp -- keep warm and dry
+- Adult geese are very hardy and disease-resistant compared to chickens
+
+## Special Uses
+
+Geese serve multiple homestead roles: **Weeder geese** (Chinese, Roman Tufted) control grasses and weeds in crops; **guard geese** (African, Chinese) alert to intruders; **down and feathers** collected during molt provide superior insulation material.
+
+## Integration with Homestead Systems
+
+- Geese graze pastures that are too tough for ducks
+- Manure enriches pasture (moderate nitrogen content)
+- Can be rotated through garden beds after harvest for weed/grass cleanup
+- Work well with goats and sheep in multi-species grazing
+- Eggs and meat contribute to [[food-preservation-canning]] stores
+- See [[homesteading-livestock-comparison]] for comparison with other livestock
+
+## Related Pages
+
+- [[duck-keeping]] -- related waterfowl
+- [[goat-husbandry]] -- complementary grazing animal
+- [[animal-harvest-and-processing]] -- butchering and processing
+- [[homesteading-livestock-comparison]] -- livestock comparison
+- [[pasture-management]] -- rotational grazing systems

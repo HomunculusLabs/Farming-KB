@@ -7,7 +7,7 @@ tags: [homesteading, construction, safety, design, beginner]
 sources: []
 ---
 
-## Outdoor Shelter Building
+# Outdoor Shelter Building
 
 The ability to build a shelter from natural and salvaged materials is a fundamental homesteading skill. Whether you need emergency protection in the backcountry, a temporary structure during a building project, a seasonal shelter for livestock, or a hunting camp, knowing how to construct effective shelters with minimal tools is invaluable. This guide covers the most practical shelter types for both survival and homesteading contexts.
 
@@ -140,11 +140,17 @@ On a working homestead, shelter-building skills apply beyond survival:
 - Folding saw or bow saw
 - Hatchet or small axe
 - Knife (fixed blade, full tang)
+- 50-100 feet of paracord or natural cordage
+- Tarp (8x10 or 10x12)
+- 8-10 metal or wooden stakes
+- Work gloves
 
-## See Also
+## Practice
 
-- [[query-how-to-build-a-cob-oven-for-outdoor-cooking]]
-- [[cervantes-outdoor-vertebrate-pest-control]]
-- [[cotter-outdoor-mushroom-garden-mulch-beds]]
-- [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]]
-- [[query-how-do-i-start-an-outdoor-mushroom-garden-in-my-backyard]]
+Build shelters for fun before you need them for survival. Practice each type in good weather, then in bad weather. Time yourself. Learn which natural materials in your specific area work best for thatching and insulation. Competence comes from repetition, not reading.
+
+For the broader homestead infrastructure context, see [[homestead-workshop-tools]] and [[emergency-preparedness]].
+
+## Related
+
+- [[roundwood-shelter-building]]

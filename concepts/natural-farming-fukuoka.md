@@ -1,4 +1,5 @@
 ---
+
 title: Fukuoka's Natural Farming
 created: 2026-04-10
 updated: 2026-04-12
@@ -19,7 +20,6 @@ tags:
 - culture-media
 
 sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 - raw/papers/one-straw-revolution-masanobu-fukuoka.md
 - raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
@@ -27,7 +27,7 @@ sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
-## Fukuoka's Natural Farming
+# Fukuoka's Natural Farming
 
 Masanobu Fukuoka (1913-2008) was a Japanese farmer and philosopher who developed a method of natural farming that requires no tilling, no cultivation, no chemical fertilizer, and no pesticides. His approach, documented in *The One-Straw Revolution* and *The Natural Way of Farming*, stands as one of the most radical and effective alternatives to industrial agriculture.
 
@@ -143,3 +143,44 @@ Fukuoka's hilltop citrus orchard demonstrated natural farming principles for tre
 - **No spraying**: Balanced ecosystem with ground cover and chickens controls pests
 - **No fertilizer**: Clover and returned organic matter build soil. See [[orchard-management]].
 
+## Semi-Wild Vegetable Cultivation
+
+Fukuoka scattered vegetable seed on unused land -- orchards, levees, open fields -- mixed with clover:
+
+- **Timing**: Sow autumn vegetables when summer weeds fade but before winter weeds germinate. Sow spring vegetables after winter weeds pass but before summer weeds emerge.
+- **Method**: Broadcast clover + vegetable seed mixture among standing weeds. The dying weeds act as mulch.
+- **Self-seeding**: Leave a few plants to flower and drop seed. Second-generation hybrids grow larger and hardier with unique flavors.
+- **Tough vegetables**: Garlic, scallion, leek, honewort, dropwort, shepherd's-purse take hold and persist year after year
+- **Weak vegetables**: Tomatoes and eggplants need transplanting into clover/weed cover; let them grow as bushes, not staked single stems
+
+## Application on a Homestead
+
+- Adopt [[no-till-gardening-method]] methods for all garden beds
+- Replace fertilizer inputs with [[cover-cropping-guide]] and compost
+- Use ducks for pest control in gardens (they eat slugs, snails, and insects)
+- Stop fighting weeds -- manage them with mulch and competitive plantings
+- Return all plant residues to the soil
+- Let clover or other legumes grow as living mulch between crops
+- Observe before acting -- spend a full year watching your land before making changes
+
+## Key Quotes
+
+"The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings."
+
+"If you throw away the concept of 'nature' and 'natural farming' and just do what comes naturally, you will be on the right path."
+
+## Related Pages
+- [[one-straw-revolution-guide]] — Complete deep dive into The One-Straw Revolution
+- [[natural-way-of-farming-guide]] — Complete deep dive into The Natural Way of Farming
+- [[fukuoka-no-prune-fruit-tree-method]] — Detailed orchard no-pruning technique
+- [[fukuoka-soil-building-method]] — Soil restoration from barren land
+- [[no-till-gardening-method]]
+- [[cover-cropping-guide]]
+- [[permaculture-principles]]
+- [[cannabis-living-soil-guide]]
+- [[companion-planting-reference]]
+- [[fukuoka-philosophy-in-practice]] — deep philosophy dive
+- [[natural-farming-seed-balls]] — clay pellet technique
+- [[natural-farming-vs-organic-vs-conventional]] — three-way comparison
+- [[orchard-management]]
+- [[knf-preparations]]

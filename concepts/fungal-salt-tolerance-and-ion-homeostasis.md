@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 Fungal salt tolerance encompasses the [[marine-fungi-diversity-sampling]] show physiological adaptations that allow them to survive under
 the stress of a high saline environment, especially in their regulation of

@@ -1,4 +1,5 @@
 ---
+
 title: Animal Harvest and Processing
 created: 2026-04-11
 updated: 2026-04-12
@@ -26,8 +27,7 @@ sources:
 - https://www.joelsalatin.com/
 - https://www.leeners.com/recipes/sausage-making
 ---
-
-## Animal Harvest and Processing
+# Animal Harvest and Processing
 
 Ethical harvesting, butchering, and processing of ducks and goats for the homestead. Covers dispatching, processing, cuts, food safety, curing, sausage, fat rendering, and offal use. See [[duck-keeping]] and [[goat-keeping]] for raising animals to harvest weight.
 
@@ -137,9 +137,14 @@ Goats are typically skinned, not scalded:
 
 ## Curing and Smoking
 
-See [[food-preservation-canning]] for detailed methods. [[cover-crop-quick-reference]]:
+See [[food-preservation-canning]] for detailed methods. Quick reference:
 - **Dry cure**: Salt + sugar + spices rub; 7-10 days per inch thickness
 - **Brine cure**: Submerge in salt/sugar/water 1-2 weeks
 - **Smoking**: Cold smoke (80-100F) 4-8 hours after curing; hardwood (hickory, apple, cherry)
 - **Bacon from duck/goat belly**: Cure 7 days, cold smoke 4 hours, cook to 150F
 - **Jerky**: Slice 1/4" strips, marinate, dehydrate at 160F until brittle
+
+## Sausage Making
+
+**Basic fresh sausage ratio** (adjust to taste):
+- 70% lean meat (shoulder, leg trim)

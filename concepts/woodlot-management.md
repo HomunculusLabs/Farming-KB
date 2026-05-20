@@ -1,5 +1,5 @@
 ---
-title: "Woodlot Management"
+title: Woodlot Management
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,9 +7,9 @@ tags: [homesteading, forestry, sustainability, ecology, safety]
 sources: []
 ---
 
-## Woodlot Management
+# Woodlot Management
 
-A woodlot is a managed forest or wooded area on the homestead that provides firewood, timber, habitat, and [[biodiversity-of-fungi-ecosystem-services-agriculture]]. Sustainable woodlot management balances harvest with regeneration, ensuring that the forest continues to produce wood and support wildlife indefinitely. Even a small woodlot of 5-10 acres can supply a homestead's heating needs with proper management.
+A woodlot is a managed forest or wooded area on the homestead that provides firewood, timber, habitat, and ecosystem services. Sustainable woodlot management balances harvest with regeneration, ensuring that the forest continues to produce wood and support wildlife indefinitely. Even a small woodlot of 5-10 acres can supply a homestead's heating needs with proper management.
 
 ## Sustainable Forestry Principles
 
@@ -17,11 +17,11 @@ Sustainable forestry means harvesting no more wood than the forest grows each ye
 
 - Maintain forest canopy cover to protect soil and microclimate
 - Harvest individual trees or small groups rather than clear-cutting
-- Retain dead standing trees (snags) for [[hemenway-backyard-wildlife-habitat]]
+- Retain dead standing trees (snags) for wildlife habitat
 - Protect riparian zones (stream banks) with uncut buffer strips
 - Encourage species diversity for resilience
 - Minimize soil disturbance during logging operations
-- Regenerate harvested areas promptly ([[fukuoka-natural-seeding-direct-seeding-development]] or planting)
+- Regenerate harvested areas promptly (natural seeding or planting)
 
 ## Firewood Species
 
@@ -115,8 +115,8 @@ Chainsaws are the most dangerous tool on the homestead. Follow these rules witho
 
 Coppicing is the practice of cutting a tree at ground level, which stimulates the stump (stool) to send up multiple new shoots. These shoots grow rapidly and can be harvested on a rotation of 5-25 years depending on species and intended use.
 
-- Best species for coppicing: oak, ash, hazel, willow, [[holzer-sweet-chestnut-and-nut-trees]], birch
-- [[cervantes-perpetual-harvest-cycle]]: 5-7 years for small poles, 15-25 years for firewood
+- Best species for coppicing: oak, ash, hazel, willow, sweet chestnut, birch
+- Harvest cycle: 5-7 years for small poles, 15-25 years for firewood
 - Benefits: Continuous wood production without replanting, extended tree lifespan (coppiced stools can live for centuries), rapid growth from established root systems
 - Applications: Fence posts, bean poles, basketry material, firewood, charcoal
 

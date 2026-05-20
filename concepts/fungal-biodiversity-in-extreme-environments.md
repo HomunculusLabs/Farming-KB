@@ -1,5 +1,5 @@
 ---
-title: Fungal Biodiversity in Extreme Environments
+title: Fungal Biodiversity In Extreme Environments
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,7 +12,7 @@ sources:
   - raw/papers/unknown-biodiversity-of-fungi.md
 ---
 
-## Fungal Biodiversity in Extreme Environments
+# Fungal Biodiversity in Extreme Environments
 
 ## Overview
 
@@ -31,7 +31,7 @@ Desert soils harbor diverse fungal communities adapted to extreme desiccation, h
 
 ### Desert Truffles and Terfeziaceae
 
-In arid regions of the Mediterranean, Middle East, and North Africa, desert truffles (Terfezia, Tirmania) form ecologically important [[plants-without-mycorrhizal-associations]] with desert shrubs (particularly Helianthemum species). These fungi have been collected as food for thousands of years and remain economically significant in local markets.
+In arid regions of the Mediterranean, Middle East, and North Africa, desert truffles (Terfezia, Tirmania) form ecologically important mycorrhizal associations with desert shrubs (particularly Helianthemum species). These fungi have been collected as food for thousands of years and remain economically significant in local markets.
 
 ### Microcolonial Fungi
 
@@ -41,11 +41,11 @@ Rock-inhabiting microcolonial fungi (also called black fungi or meristematic fun
 
 ### Deep-Sea Sediment Communities
 
-The deep sea floor hosts diverse fungal communities in sediments at depths exceeding 5,000 meters. These fungi participate in organic matter decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] in one of Earth's most extreme environments -- characterized by high pressure, low temperature, complete darkness, and limited organic input.
+The deep sea floor hosts diverse fungal communities in sediments at depths exceeding 5,000 meters. These fungi participate in organic matter decomposition and nutrient cycling in one of Earth's most extreme environments -- characterized by high pressure, low temperature, complete darkness, and limited organic input.
 
 ### Wood-Boring and Shipworm-Associated Fungi
 
-Marine fungi colonize submerged wood, contributing to its decomposition in [[fungal-roles-aquatic-environments]]. Some form symbiotic associations with wood-boring bivalves (shipworms), aiding in wood digestion. The [[marine-estuarine-fungi|marine and estuarine fungi]] represent a distinct ecological group with specialized adaptations.
+Marine fungi colonize submerged wood, contributing to its decomposition in aquatic environments. Some form symbiotic associations with wood-boring bivalves (shipworms), aiding in wood digestion. The [[marine-estuarine-fungi|marine and estuarine fungi]] represent a distinct ecological group with specialized adaptations.
 
 ### Hydrothermal Vent Fungi
 
@@ -57,13 +57,13 @@ Fungi have been isolated from deep-sea hydrothermal vent environments, where the
 
 Caves present a stable but extreme environment: constant darkness, high humidity, limited organic nutrient input, and in many cases, elevated CO2 levels. Cave fungi include:
 
-- **Lampenflora-associated fungi:** Communities that develop around [[marijuana-horticulture-cervantes-artificial-lighting-and-electricity]] in show caves
-- **Guano-dependent fungi:** Coprophilous communities in bat caves, including some pathogenic species ([[bloomfield-histoplasma-capsulatum-ohio-valley-disease]], the causative agent of histoplasmosis)
+- **Lampenflora-associated fungi:** Communities that develop around artificial lighting in show caves
+- **Guano-dependent fungi:** Coprophilous communities in bat caves, including some pathogenic species (Histoplasma capsulatum, the causative agent of histoplasmosis)
 - **Obligate cave fungi:** True troglobitic species found only in subterranean environments, often associated with specific mineral substrates or bat guano deposits
 
 ### Speleothem-Colonizing Fungi
 
-Some fungi actively contribute to the formation and degradation of cave formations (speleothems) through [[fungal-oxalate-secretion-and-mineral-dissolution]] and precipitation processes, linking fungal activity to geological processes.
+Some fungi actively contribute to the formation and degradation of cave formations (speleothems) through mineral dissolution and precipitation processes, linking fungal activity to geological processes.
 
 ## Volcanic and Geothermal Environments
 
@@ -106,18 +106,3 @@ The ability of fungi to survive extreme conditions makes them of particular inte
 - [[extremophilic-fungi|extremophilic fungi]]
 - [[freshwater-fungi-biodiversity|freshwater fungal diversity]]
 - [[fungal-ecology-extreme-environments|fungal ecology in extreme environments]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.

@@ -8,7 +8,7 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 
-## Fungi in Soil Food Webs
+# Fungi in Soil Food Webs
 
 Trophic structure, energy flow, biomass, and the role of fungi in soil food webs. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-ecology-decomposition-cycles]], [[fungal-nutrient-cycling-mineral-transformations]], [[fungal-bacterial-interactions]], and [[soil-food-web-nutrient-cycling]].
 
@@ -101,7 +101,7 @@ The ratio of fungal to bacterial biomass (F:B ratio) is a useful indicator of:
 Fungi play a major role in creating and stabilizing soil aggregates:
 
 - **Hyphal entanglement**: Fungal hyphae physically bind soil particles together, forming macroaggregates (>250 um). This is especially important in sandy and loamy soils.
-- **Glomalin**: AM fungi produce glomalin, a glycoprotein that acts as a biological glue. Glomalin persists in soil for years to decades and is a significant component of soil organic matter (1-5% of total SOC). See [[glomalin-and-soil-carbon]].
+- **Glomalin**: AM fungi produce glomalin, a glycoprotein that acts as a biological glue. Glomalin persists in soil for years to decades and is a significant component of soil organic matter (1-5% of total SOC). See [[glomalin]].
 - **Hyphal residues**: Dead fungal hyphae contribute polysaccharides and other compounds that stabilize aggregates. Fungal necromass is a major source of stable soil organic carbon.
 - **Water stability**: Fungal-stabilized aggregates are more water-stable than those stabilized by bacteria, reducing erosion risk.
 
@@ -148,3 +148,26 @@ Fungal hyphae respond dynamically to spatial and temporal heterogeneity in soil 
   - **Domain**: Moderately dense exploration with intermittent branching (e.g., many ECM fungi)
 
 ## Seasonal Dynamics
+
+Fungal biomass and activity fluctuate seasonally:
+
+- **Temperate forests**: Peak fungal biomass and fruiting in autumn, corresponding to leaf fall and increased moisture. Minimum in winter (low temperatures) and summer (drought).
+- **Grasslands**: Peak activity in spring and autumn; summer drought reduces activity.
+- **Tropical forests**: Less seasonal variation; fungal activity tracks rainfall patterns.
+- **Agricultural soils**: Peaks after crop planting (root exudate stimulation) and after harvest (residue incorporation).
+
+## Key References
+
+- Moore, J.C. & Hunt, H.W. (1988) "Resource compartmentalization and the stability of real ecosystems." Nature 333: 261-3.
+- Wardle, D.A. (2002) *Communities and Ecosystems: Linking the Aboveground and Belowground Components*. Princeton University Press.
+- de Vries, F.T. et al. (2006) "Fungal/bacterial ratios in grasslands with contrasting nitrogen management." Soil Biology and Biochemistry 38: 2092-103.
+
+## Related Pages
+
+- [[fungal-ecology-decomposition-cycles]] -- decomposition succession
+- [[fungal-nutrient-cycling-mineral-transformations]] -- mineral cycling
+- [[fungal-bacterial-interactions]] -- competition and cooperation
+- [[glomalin]] -- AM fungal glycoprotein for soil aggregation
+- [[soil-food-web-nutrient-cycling]] -- full soil food web structure
+- [[soil-food-web-nutrient-cycling]] -- nutrient cycling through the food web
+- [[no-till-gardening-method]] -- impacts on fungal communities

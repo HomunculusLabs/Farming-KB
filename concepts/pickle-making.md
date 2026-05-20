@@ -140,11 +140,13 @@ Note: Fermented pickles can also be canned, but the heat of water bath processin
 - Hollow centers: fermentation temperature too high or cucumbers too large
 - Cloudy brine (fermented): normal — indicates active fermentation and lactic acid production
 - Cloudy brine (vinegar): can indicate bacterial growth if canned improperly
+- White film (kahm yeast): harmless; skim off the surface
+- Mold (fuzzy, colored): discard the batch
+- Too salty: use less salt in the brine; soak pickles in fresh water before eating
+- Bitter taste: possibly from spices; check mustard seeds and clove amounts
 
 ## See Also
 
-- [[compost-making-methods-solomon]]
-- [[granola-making]]
-- [[natto-making]]
-- [[mushroom-spawn-making-pure-culture]]
-- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]
+- [[kimchi-making]] — Korean fermented vegetable tradition
+- [[hot-sauce-making]] — another spicy fermented or vinegar-preserved condiment
+- [[vinegar-making]] — making your own vinegar for pickling

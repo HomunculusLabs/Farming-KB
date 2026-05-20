@@ -140,11 +140,43 @@ Complete their life cycle in one growing season. Must be replanted each year, th
 Growing herbs indoors extends the harvest year-round, especially for tender perennials and annuals.
 
 ### Best Herbs for Indoors
+- Basil, chives, mint, parsley, oregano, thyme, rosemary, cilantro
+- Avoid: dill and fennel (too tall), lavender (needs specific conditions)
+
+### Light Requirements
+- Minimum 6 hours of bright, direct light daily
+- South-facing window is ideal in northern hemisphere
+- Supplement with full-spectrum LED grow lights if natural light is insufficient
+- Use a timer for 12-14 hours of light per day with supplemental lighting
+- See [[urban-farming-methods]] for indoor growing setup details
+
+### Containers and Soil
+- Use pots with drainage holes — standing water kills herbs
+- Well-draining potting mix with added perlite or sand
+- Mediterranean herbs: add extra perlite for sharp drainage
+- Basil: richer potting mix with compost
+- Fertilize monthly with diluted fish emulsion or liquid kelp during active growth
+
+### Common Indoor Herb Problems
+- **Leggy, weak growth**: Not enough light — move to brighter spot or add grow lights
+- **Yellowing leaves**: Overwatering is the most common cause; let soil dry between waterings
+- **Pests**: Aphids, spider mites, and fungus gnats are common indoors. Isolate new plants, use insecticidal soap
+- **Mint dying back**: Mint needs more water than most herbs; do not let it dry completely
+- **Basil blackening**: Cold drafts below 50F cause immediate damage; basil is extremely cold-sensitive
+
+### Bringing Outdoor Herbs Indoors for Winter
+- Pot up divisions of perennial herbs in late summer (rosemary, thyme, oregano)
+- Acclimate gradually by bringing indoors at night for a week before full-time
+- Expect some leaf drop during transition
+- Reduce watering compared to outdoor conditions
+- Rosemary is notoriously difficult indoors — mist regularly, provide excellent drainage
 
 ## See Also
 
-- [[medicinal-herb-growing]]
-- [[herb-spiral-microclimate-design]]
-- [[herb-spiral-construction]]
-- [[herb-gardening-organic-hamilton]]
-- [[jadam-herb-solution-jhs]]
+- [[lettuce-and-leafy-greens]] for companion greens
+- [[urban-farming-methods]] for container and indoor growing techniques
+- [[seasonal-gardening-calendar]] for planting and harvesting timing
+
+## Related
+
+- [[herb-spiral-design]] — Herb Spiral Design is a permaculture pattern for growing herbs in a space-efficient spiral that creates multiple microclimates.

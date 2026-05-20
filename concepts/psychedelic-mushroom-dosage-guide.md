@@ -7,7 +7,7 @@ tags: [mycology, fungi, psychopharmacology, psychedelics, entheogen, safety, pot
 sources: []
 ---
 
-## Psychedelic Mushroom Dosage Guide
+# Psychedelic Mushroom Dosage Guide
 
 ## Overview
 
@@ -140,10 +140,26 @@ Mushrooms are steeped in hot (not boiling) water for 10-20 minutes, optionally w
 - More consistent dosing (thorough extraction)
 - Potential loss of some alkaloids in discarded material
 
-## See Also
+### Capsules
 
-- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
-- [[psychedelic-1960s-counterculture]]
-- [[psychedelic-consciousness-expansion]]
-- [[psychedelic-prohibition-and-the-war-on-consciousness]]
-- [[psychedelic-therapy-set-and-setting]]
+Dried, powdered mushrooms encapsulated for precise dosing. Effects are similar to whole consumption but with more predictable dosing and easier storage.
+
+## Tolerance
+
+Tolerance to psilocybin develops rapidly:
+
+- **Day 1**: Full sensitivity
+- **Day 2**: Requires approximately 2x the original dose for equivalent effects
+- **Day 4**: Requires approximately 3-4x the original dose
+- **Day 7-14**: Sensitivity substantially returns
+- **Day 14+**: Full sensitivity typically restored
+
+This cross-tolerance extends to LSD, DMT, mescaline, and other 5-HT2A agonists. For therapeutic use, sessions are typically spaced 2-4 weeks apart to allow full tolerance reset and integration.
+
+## Special Populations
+
+- **SSRI/SNRI users**: May require 2-3x normal dose due to receptor downregulation. Discontinuation of 2-4 weeks before psychedelic use is recommended when possible
+- **Older adults**: No specific dosage adjustments are established; start conservatively and monitor cardiovascular response
+- **Individuals with trauma histories**: Lower doses with professional therapeutic support are recommended; high-dose approaches carry risk of re-traumatization
+
+See [[psychedelic-mushroom-chemistry]] for the biochemical basis of potency variation and [[psychedelic-mushroom-pharmacology]] for pharmacokinetic details affecting dose-response.

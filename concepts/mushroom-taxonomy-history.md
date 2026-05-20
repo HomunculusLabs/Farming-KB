@@ -4,10 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, taxonomy, history, species, biology, fungi, academia, methods, genomics]
-sources: ["raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"]
+sources: []
 ---
 
-## Mushroom Taxonomy History
+# Mushroom Taxonomy History
 
 ## Overview
 

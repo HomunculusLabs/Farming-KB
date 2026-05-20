@@ -7,7 +7,7 @@ tags: [homesteading, fermentation, food, recipe, fruit-tree, orchard, preparatio
 sources: []
 ---
 
-## Cider Making Guide
+# Cider Making Guide
 
 Hard cider is one of the most accessible and rewarding homestead fermentation projects. If you have apple trees, you have the primary ingredient. Hard cider has a long history in rural homesteading and is experiencing a major renaissance. The process is simpler than [[beer-brewing-basics]] or [[wine-making-from-grapes]] but produces a beverage of equal complexity and character.
 
@@ -141,10 +141,36 @@ If you want sweet or semi-sweet cider, you must stabilize before adding sugar:
 - Sparkling cider: bottle in thick beer bottles with caps. Prime with sugar as for beer. Age 2-4 weeks for carbonation.
 - Condition at room temperature, then store cool. Serve chilled.
 
-## See Also
+## Aging
 
-- [[comparison-cider-vs-mead-making]]
-- [[comparison-beer-brewing-vs-cider-making]]
-- [[compost-making-methods-solomon]]
-- [[granola-making]]
-- [[natto-making]]
+- Young cider (1-3 months): fresh, bright apple character, simple but pleasant
+- Aged cider (6-12 months): more complex, mellow, developed flavors
+- Extended aging (1-3+ years): gains depth and complexity. Higher-tannin ciders benefit most from aging.
+- Store at 50-60F, on their side if corked, away from light
+
+## Advanced Techniques
+
+### Bottle Conditioning
+Prime with sugar and yeast for natural carbonation in the bottle. Use strong bottles ( Belgian-style or champagne bottles) and add extra sugar (1 cup per 5 gallons) for higher carbonation levels. Age 2-6 weeks before serving.
+
+### Keeving (Traditional French Method)
+A complex process that creates naturally sweet, sparkling cider by retaining nutrients that promote a slow, incomplete fermentation. Involves calcium chloride addition, cold settling, and careful racking. Produces the finest traditional ciders but requires experience.
+
+### Barrel Aging
+Age cider in oak barrels (5-50 gallon). Adds vanilla, spice, and tannin complexity. New barrels impart more oak character; used bourbon or wine barrels add unique flavors. Age 1-6 months depending on the barrel and desired intensity.
+
+## Common Problems
+
+- Cider tastes like vinegar: acetic acid bacteria from excessive air exposure. Prevent with full vessels and proper sulfiting.
+- Cloudy cider: pectin haze from insufficient pectin enzyme. Add pectic enzyme before fermentation.
+- Rotten egg smell: hydrogen sulfide from stressed yeast. Add yeast nutrient and aerate.
+- Cider won't clear: time is the best solution. Rack again. Fining agents (gelatin, sparkolloid) can speed clearing.
+- Exploding bottles: fermentation not complete when bottled. Always confirm fermentation is finished (stable gravity) before bottling.
+
+## Related Concepts
+
+- [[fruit-tree-propagation]] -- plant cider apple trees on your homestead
+- [[beer-brewing-basics]] -- shared fermentation and carbonation techniques
+- [[mead-making-guide]] -- cyser is a honey-apple mead combining both traditions
+- [[root-beer-making]]
+- [[calendula-salve-making]]

@@ -69,7 +69,7 @@ USDA data tracked over the past 80 years shows a steady decline in the vitamin a
 
 ## The Complete Organic Fertilizer (COF) Solution
 
-Solomon's answer to this problem is the [[complete-organic-fertilizer]] (COF) — a carefully balanced blend that provides all major and trace minerals in proportions that produce highly nutritious vegetables. The COF approach recognizes that:
+Solomon's answer to this problem is the [[complete-organic-fertilizer-cof]] (COF) — a carefully balanced blend that provides all major and trace minerals in proportions that produce highly nutritious vegetables. The COF approach recognizes that:
 
 1. Organic matter alone (compost/manure) cannot correct mineral imbalances
 2. Rock powders and seed meals provide slow-release, biologically available minerals

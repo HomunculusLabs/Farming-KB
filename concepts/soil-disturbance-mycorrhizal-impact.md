@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [soil, agriculture]
-sources: []
+sources: [/wiki/raw/papers/urban-permaculture-guerilla-gardening.md]
 ---
 
 Updated: 2026-04-18

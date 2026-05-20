@@ -7,7 +7,7 @@ tags: [companion-planting, insects, plants, agriculture, gardening, pest-managem
 sources: []
 ---
 
-## Insectary Plantings
+# Insectary Plantings
 
 Insectary plantings are dedicated areas of flowering plants grown specifically to attract, feed, and shelter beneficial insects — predators, parasitoids, and pollinators. By providing nectar, pollen, and habitat, insectary plantings increase the population of insects that control pests and pollinate crops, reducing the need for chemical interventions.
 
@@ -29,14 +29,14 @@ The most important family for attracting predatory and parasitic insects. Their 
 
 | Plant | Bloom Period | Height | Notes |
 |-------|-------------|--------|-------|
-| Dill ([[anethum-graveolens]]) | Jun-Aug | 3-4 ft | Annual, reseeds freely, excellent for parasitic wasps |
+| Dill (Anethum graveolens) | Jun-Aug | 3-4 ft | Annual, reseeds freely, excellent for parasitic wasps |
 | Fennel (Foeniculum vulgare) | Jul-Sep | 4-6 ft | Perennial, bronze fennel is less invasive, attracts ladybugs |
-| Cilantro/Coriander ([[coriandrum-sativum]]) | May-Jul | 1-2 ft | Annual, let it bolt and flower, attracts hover flies |
-| Parsley ([[petroselinum-crispum]]) | Jun-Aug | 1-2 ft | Biennial, flowers in second year |
-| Yarrow ([[achillea-millefolium]]) | Jun-Sep | 2-3 ft | Perennial, drought-tolerant, long bloom period |
+| Cilantro/Coriander (Coriandrum sativum) | May-Jul | 1-2 ft | Annual, let it bolt and flower, attracts hover flies |
+| Parsley (Petroselinum crispum) | Jun-Aug | 1-2 ft | Biennial, flowers in second year |
+| Yarrow (Achillea millefolium) | Jun-Sep | 2-3 ft | Perennial, drought-tolerant, long bloom period |
 | Queen Anne's Lace (Daucus carota) | Jun-Aug | 2-4 ft | Biennial, can be weedy in some areas |
 | Ammi majus (Bishop's weed) | Jun-Aug | 3-4 ft | Annual, excellent cut flower, very attractive to wasps |
-| Lovage ([[levisticum-officinale]]) | Jun-Aug | 4-6 ft | Perennial, edible leaves, long-lived |
+| Lovage (Levisticum officinale) | Jun-Aug | 4-6 ft | Perennial, edible leaves, long-lived |
 
 ### Composites (Asteraceae)
 
@@ -78,7 +78,7 @@ Legumes provide nectar and pollen, fix nitrogen, and serve as host plants for so
 | Plant | Bloom Period | Height | Notes |
 |-------|-------------|--------|-------|
 | White clover (Trifolium repens) | May-Oct | 0.3 ft | Perennial, excellent ground cover, nitrogen fixer |
-| Crimson clover ([[trifolium-incarnatum]]) | Apr-Jun | 1-2 ft | Winter annual, excellent spring nectar source |
+| Crimson clover (Trifolium incarnatum) | Apr-Jun | 1-2 ft | Winter annual, excellent spring nectar source |
 | Sweet clover (Melilotus spp.) | Jun-Sep | 3-6 ft | Biennial, very attractive to bees, can be weedy |
 | Vetch (Vicia spp.) | Apr-Jun | 2-6 ft | Annual/perennial, nitrogen fixer, see [[cover-cropping-guide]] |
 
@@ -98,7 +98,7 @@ Dedicated strips of flowering plants within or alongside crop areas.
 
 Linear plantings of woody shrubs and perennial flowers along field edges, fence lines, or property boundaries.
 
-- **Benefits**: Windbreak, privacy, wildlife corridor, and year-round [[beneficial-insect-habitat]]
+- **Benefits**: Windbreak, privacy, wildlife corridor, and year-round beneficial insect habitat
 - **Species**: Combine flowering shrubs (elderberry, chokeberry, serviceberry) with perennial flowers and native grasses
 - **Maintenance**: Prune annually to maintain shape and flower production
 
@@ -147,3 +147,16 @@ Continuous bloom from early spring through late fall is the goal. Plan insectary
 - Some warm winters allow late kale and brassica flowers to support bees
 
 ## Maintaining Insectary Plantings
+
+- **Water during establishment**: New plantings need regular water for the first season
+- **Minimal weeding**: Allow some "weeds" (dandelion, Queen Anne's lace, clover) to persist — they are excellent insectary plants
+- **Selective mowing**: Mow insectary strips in sections to maintain continuous bloom
+- **Avoid pesticides**: This is the most important maintenance rule. Even organic pesticides kill beneficial insects.
+- **Replant annuals**: Buckwheat, alyssum, and other annuals need replanting each year or succession planting
+
+## Related Topics
+
+- [[beneficial-insects-guide]] for identifying and supporting specific beneficial species
+- [[companion-planting-reference]] for pairing insectary plants with crops
+- [[trap-cropping]] for using plants to attract and trap pests
+- [[intercropping-systems]] for integrating insectaries into crop systems

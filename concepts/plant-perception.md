@@ -1,4 +1,5 @@
 ---
+
 title: Plant Perception
 created: 2026-04-10
 updated: 2026-04-12
@@ -19,7 +20,7 @@ sources:
 - raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md
 ---
 
-## Plant Perception
+# Plant Perception
 
 Plants perceive their environment through sophisticated sensory systems that detect light, chemicals, touch, gravity, moisture, and more. Understanding plant perception is not just academic — it directly informs how we grow cannabis, from photoperiod management to soil health and pest responses.
 
@@ -114,8 +115,3 @@ Plants exhibit forms of memory:
 - [[cannabis-flowering-stage]] — photoperiod control for flowering
 - [[cannabis-pest-management]] — plant defense responses to pest attack
 - [[soil-food-web-nutrient-cycling]] — chemical signaling in the root zone
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-
-These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

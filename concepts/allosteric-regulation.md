@@ -5,7 +5,7 @@ tags: [biochemistry, enzymology, pharmacology, protein-dynamics, regulation]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 
 ## Overview

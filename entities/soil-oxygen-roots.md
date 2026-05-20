@@ -51,7 +51,7 @@ Roots never produce oxygen. They always consume it.
 
 - [[clay-soil-gardening]] — soil type with severe oxygen limitation
 - tilth — soil structure that maintains air spaces
-- [[soil-temperature-growth]] — the other critical underground growth factor
+- [[soil-temperature-and-plant-growth]] — the other critical underground growth factor
 
 ## Soil Health Context
 Understanding soil structure and management is essential for

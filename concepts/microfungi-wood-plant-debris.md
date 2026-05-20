@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [/wiki/raw/papers/urban-permaculture-guerilla-gardening.md]
 ---
 ## Microfungi on Wood and Plant Debris ## Overview Microfungi on wood and plant debris represent one of the most species-rich and ecologically important groups of fungi. They are responsible for the [[leaf-litter-microfungal-diversity-tropical-temperate]] on leaf litter varies by habitat and method:
 

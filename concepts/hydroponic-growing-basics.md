@@ -7,7 +7,7 @@ tags: [cannabis, indoor, equipment, ph, nutrients, cultivation, methods, plant-g
 sources: []
 ---
 
-## Hydroponic Growing Basics
+# Hydroponic Growing Basics
 
 Hydroponics is the practice of growing plants without soil by delivering nutrients dissolved in water directly to the root zone. For cannabis cultivation, hydroponics offers faster growth rates, higher yields, and precise control over nutrient delivery compared to soil-based methods. This guide covers the major hydroponic systems, nutrient management, pH control, and essential practices.
 
@@ -140,10 +140,49 @@ Cons:
 - Requires regular maintenance of delivery lines
 - Organic nutrients are problematic in drip systems (clogging, biofilm)
 
+## Nutrient Solution Management
+
+### Electrical Conductivity (EC)
+
+EC measures dissolved nutrient concentration in millisiemens/cm (mS/cm) or PPM:
+
+- Seedlings/clones: EC 0.4-0.8 (PPM 200-400)
+- Early vegetative: EC 0.8-1.2 (PPM 400-600)
+- Late vegetative: EC 1.2-1.8 (PPM 600-900)
+- Early flowering: EC 1.5-2.0 (PPM 750-1000)
+- Mid flowering: EC 1.8-2.4 (PPM 900-1200)
+- Late flowering: EC 1.5-2.0 (PPM 750-1000, reducing nitrogen)
+
+### pH Management
+
+Optimal range: 5.5-6.5 (ideal: 5.8-6.2). Below 5.5 risks micronutrient toxicity; above 6.5 causes macronutrient lockout. pH drifts naturally — check daily. pH Down: phosphoric acid. pH Up: potassium hydroxide or potassium silicate.
+
+### Water Quality
+
+- RO water is ideal — clean base for nutrient mixing
+- Municipal water may need carbon filtration (chlorine/chloramine removal)
+- Hard water complicates nutrient management
+
+### Nutrient Products
+
+Synthetic mineral lines: General Hydroponics (Flora), Advanced Nutrients, Canna, Botanicare. Organic hydroponics is possible but prone to biofilm clogging.
+
+## Temperature and Dissolved Oxygen
+
+- Water temperature: 65-70°F (18-21°C). Above 72°F / 22°C promotes root rot; below 60°F / 15°C slows uptake
+- Dissolved oxygen target: 6-8 mg/L (air pumps and stones essential for DWC)
+- Water chillers may be needed in warm environments
+
+## Common Problems
+
+- Root rot (Pythium): brown, slimy roots with foul odor. Prevent with proper temperature, beneficial bacteria (Hydroguard, Voodoo Juice), and hydrogen peroxide
+- Nutrient lockout: pH outside optimal range. Flush and adjust pH
+- Nutrient burn: EC too high. Lower concentration and flush with plain water
+- Algae: caused by light exposure to nutrient solution. Cover all reservoirs and tubing
+- Tip burn: potassium or calcium deficiency, or excessive light/heat
+
 ## See Also
 
-- [[cervantes-hydroponic-systems]]
-- [[green-cannabis-rockwool-hydroponic-growing-media]]
-- [[query-what-is-the-difference-between-living-soil-and-hydroponic-growing]]
-- [[query-how-do-i-choose-a-hydroponic-system-for-cannabis-or-vegetables]]
-- [[comparison-aquaponics-vs-cannabis-hydroponic-systems]]
+- [[aeroponics-guide]] for the most advanced hydroponic method
+- [[cannabis-lighting-guide]] for optimizing light in hydroponic grows
+- [[plant-nutrient-deficiency-guide]] for diagnosing nutrient issues in solution

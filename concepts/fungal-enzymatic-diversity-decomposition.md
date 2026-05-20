@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/working-with-agar.md]
 ---
 ## Fungal Enzymatic Diversity in Decomposition
 Fungi produce a remarkably diverse array of [[maintaining-organic-matter-in-vegetable-gardens]] terrestrial ecosystems,

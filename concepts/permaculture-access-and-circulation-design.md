@@ -1,5 +1,5 @@
 ---
-title: Permaculture Access and Circulation Design
+title: Permaculture Access And Circulation Design
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,11 +12,11 @@ tags:
   - zone-planning
   - mollison
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - raw/papers/bill-mollison-permaculture-design-course.md
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 
-## Permaculture Access and Circulation Design
+# Permaculture Access and Circulation Design
 
 Access design -- the planning of roads, pathways, tracks, and circulation patterns -- is a critical but often overlooked aspect of permaculture design. Bill Mollison treats access as a primary design element because it determines how people, animals, water, and materials move across the landscape. Poor access design creates erosion, wastes energy, and makes the site difficult to maintain.
 
@@ -144,5 +144,5 @@ Mollison emphasizes the connection between roads and water:
 - [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-slope-analysis-and-reading]]
 - [[keyline-design]]
-- [[permaculture-earthworks]]
+- [[permaculture-earthworks-guide]]
 - [[permaculture-mapping-and-reading-the-landscape]]

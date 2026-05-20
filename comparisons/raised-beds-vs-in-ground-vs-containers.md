@@ -1,4 +1,5 @@
 ---
+
 title: Raised Beds vs In-Ground vs Containers
 created: 2026-04-11
 updated: 2026-04-12
@@ -26,7 +27,7 @@ sources:
 - concepts/soil-fertility-management.md
 ---
 
-## Raised Beds vs In-Ground vs Containers
+# Raised Beds vs In-Ground vs Containers
 
 Three growing approaches for a homestead garden. The right choice depends on scale, soil conditions, mobility needs, and crop type. Most homesteads use all three for different purposes.
 

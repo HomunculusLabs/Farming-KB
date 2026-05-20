@@ -7,7 +7,7 @@ tags: [fungi, biology, academia, microbes, ecology]
 sources: []
 ---
 
-## Yeast Biology
+# Yeast Biology
 
 Yeasts are single-celled fungi that reproduce primarily by budding (or fission). Though they represent only a small fraction of fungal diversity, yeasts have an outsized impact on human civilization through fermentation, food production, biotechnology, and medicine.
 
@@ -140,10 +140,41 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 - **Glutamic acid**: Naturally contains MSG-like umami flavor
 - **Not the same as brewer's yeast** (which has a bitter taste from hops residue)
 
+## Yeast Pathogens
+
+### Candida albicans
+
+- Part of the normal human microbiome (mouth, gut, vagina) but causes opportunistic infections (candidiasis)
+- **Thrush**: Oral infection — white patches on tongue and mouth
+- **Vaginal yeast infection**: Common, affects ~75% of women at least once
+- **Systemic candidiasis**: Life-threatening in immunocompromised patients. Mortality rate 30-50%
+- Dimorphic: switches between yeast form (round, budding) and hyphal form (filamentous) in response to environmental cues
+- Biofilm formation on medical devices (catheters, implants) complicates treatment
+- Antifungal resistance is growing — fluconazole-resistant strains increasingly reported
+
+### Cryptococcus neoformans
+
+- Environmental yeast found in soil and pigeon droppings
+- Causes cryptococcal meningitis, primarily in immunocompromised patients (HIV/AIDS)
+- Has a polysaccharide capsule that evades the immune system
+- **Basidiomycete**: Unusual for a pathogenic yeast (most yeast pathogens are ascomycetes)
+- Approximately 220,000 cases of cryptococcal meningitis per year globally, with ~180,000 deaths
+
+## Yeast in Research
+
+S. cerevisiae is one of the most important model organisms in biology:
+
+- **Cell cycle**: Discovery of cyclins and CDKs (Nobel Prize, 2001)
+- **Autophagy**: Mechanisms of cellular recycling (Nobel Prize, 2016 — Ohsumi)
+- **Genetics**: First eukaryote with a complete gene deletion collection (Yeast Knockout Collection — every gene individually deleted)
+- **Aging**: Sir2 and sirtuin pathway discovery — links caloric restriction to lifespan extension
+- **Protein folding**: Understanding of prion biology ([PSI+], [URE3])
+- **Synthetic biology**: First synthetic eukaryotic chromosome (Sc2.0 project, 2017)
+
 ## See Also
 
-- [[yeast-diversity-taxonomy-and-inventory-methods]]
-- [[comparison-sourdough-vs-wild-yeast]]
-- [[ribosomal-rna-sequencing-yeast-identification]]
-- [[marmite-yeast-extract-straw-substrate]]
-- [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]
+- [[fungal-biology-fundamentals]] for yeast cell structure in the broader fungal context
+- [[fungal-genetics]] for yeast as a genetic model organism
+- [[fungal-evolution]] for the evolutionary origin of yeast forms
+- [[food-fermentation-guide]] for yeast in broader fermentation contexts
+- [[knf-yeast-preparation-detailed]] for wild yeast capture and use in Korean Natural Farming

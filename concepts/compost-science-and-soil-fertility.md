@@ -68,7 +68,7 @@ Mulch gardening makes sense for someone who is physically weak or whose mobility
 The most effective strategy is:
 
 1. **Heap-compost enough organic material** to maintain soil humus at healthy levels
-2. **Use [[complete-organic-fertilizer]] (COF)** or poultry manure compost as fertilizer on medium- and high-demand vegetables
+2. **Use [[complete-organic-fertilizer-cof]] (COF)** or poultry manure compost as fertilizer on medium- and high-demand vegetables
 3. **Apply compost as a soil conditioner**, not as the sole source of nutrition
 
 This approach is less effort and far more effective than permanent mulching.

@@ -1,4 +1,5 @@
 ---
+
 title: Fungal Spore Biology
 created: 2026-04-11
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
 - raw/papers/unknown-biodiversity-of-fungi.md
 ---
 
-## Fungal Spore Biology
+# Fungal Spore Biology
 
 Fungal spores are the primary vehicles for dispersal, survival, and reproduction in the fungal kingdom. They range from microscopic single cells to elaborate multi-armed structures adapted to specific environments. This page covers spore formation, discharge mechanisms, dispersal strategies, and the remarkable diversity of spore forms documented by [[nicholas-money]] and others.
 

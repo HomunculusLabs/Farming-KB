@@ -7,7 +7,7 @@ tags: [cannabis, processing, preparation, ethnobotany, history, chemistry, psych
 sources: []
 ---
 
-## Cannabis Hashish Guide
+# Cannabis Hashish Guide
 
 ## Overview
 
@@ -140,10 +140,23 @@ Solventless extract made by applying heat and pressure to flowers, kief, or bubb
 
 Rosin presses use heated plates (180-220F) with 3-20 tons of pressure for 30 seconds to several minutes.
 
-## See Also
+### Live Hash / Live Bubble Hash
 
-- [[cannabis-cultivar-microbiome-specificity]]
-- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
-- [[cannabis-and-endometriosis]]
-- [[blesching-cannabis-immune-system-modulation]]
-- [[cannabis-seed-germination-viability-breeding-clarke]]
+Made from fresh frozen cannabis (harvested and immediately frozen rather than dried):
+- Preserves the plant's full terpene profile
+- Higher quality and more complex flavor than hash from dried material
+- Considered the premium tier of solventless concentrates
+
+## Storage and Consumption
+
+### Storage
+- Airtight glass containers (not plastic), cool dark location
+- Refrigerator for long-term, 55-62% RH with humidity packs
+- Properly stored hash maintains quality 1-2 years
+- [[cannabis-testing-and-quality|Lab testing]] can verify potency and purity
+
+### Consumption
+- **Smoking:** In pipes, bowls, chillums, or mixed with flower in joints
+- **Dabbing:** Vaporizing rosin or high-quality hash on a heated nail
+- **Hot knives:** Heated knife blades vaporize small pieces
+- **Vaporizers:** Some dry herb vaporizers accommodate hash

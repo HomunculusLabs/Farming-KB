@@ -13,11 +13,11 @@ tags:
   - psilocybin
   - clinical-research
 sources:
-  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
+  - raw/papers/the-psilocybin-solution-by-simon-g-powell.md
   - raw/particles/psilocybin-mushrooms-of-the-world-stamets.md
 ---
 
-## Psilocybin Therapeutic Applications
+# Psilocybin Therapeutic Applications
 
 The clinical research on psilocybin for treating mental health conditions, including depression, anxiety, PTSD, addiction, and end-of-life distress.
 
@@ -101,20 +101,5 @@ This model emphasizes **set and setting** -- the psychological preparation and t
 
 - [[psilocybin-psychological-mechanisms]] for the neuroscience
 - [[psychedelic-integration-practices]] for post-session integration
-- [[psychedelic-mushroom-set-and-setting]] for the [[set-and-setting-framework]]
+- [[psychedelic-mushroom-set-and-setting]] for the set and setting framework
 - [[psychedelic-harm-reduction]] for safety considerations
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.

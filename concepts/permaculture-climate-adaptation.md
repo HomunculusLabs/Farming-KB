@@ -7,7 +7,7 @@ tags: [permaculture, climate, resilience, design, water-management, sustainabili
 sources: []
 ---
 
-## Permaculture Climate Adaptation
+# Permaculture Climate Adaptation
 
 Climate adaptation in permaculture means designing systems that can withstand and even benefit from extreme weather events — drought, flood, heat waves, freezes, storms, and unpredictable seasonal patterns. Rather than fighting climate conditions with inputs and infrastructure, permaculture works with natural patterns to build inherent resilience into the landscape.
 
@@ -140,11 +140,21 @@ Climate change is making weather patterns increasingly erratic. Resilient design
 - Keep detailed records of weather, yields, and system performance
 - Monitor early warning signs (soil moisture, pest pressure, plant stress)
 - Design for easy modification — movable structures, flexible planting plans
+- Connect with local knowledge networks for shared learning
+
+## Resilience Through Diversity
+
+The single most effective climate adaptation strategy is biodiversity. Diverse systems with many species, many functions, and many income streams are inherently more resilient than simplified systems. Monocultures fail catastrophically; polycultures adapt.
+
+- Species diversity — many types of plants, animals, and microorganisms
+- Functional diversity — many ways of meeting each need (food, water, fertility)
+- Genetic diversity — many varieties of each species for adaptability
+- Temporal diversity — plants producing at different times of year
+- Structural diversity — multiple layers and habitats
 
 ## See Also
 
-- [[dryland-permaculture-strategies]]
-- [[vines-in-desert-permaculture]]
-- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
-- [[permaculture-principle-use-and-value-renewable-resources]]
-- [[permaculture-ethics-of-permanence]]
+- [[water-management]] — water earthworks for drought and flood
+- [[permaculture-site-analysis]] — understanding climate and microclimate
+- [[permaculture-forest-garden-establishment]] — perennial systems for climate resilience
+- [[permaculture-community-resilience]] — social and economic climate adaptation

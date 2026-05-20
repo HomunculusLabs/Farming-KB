@@ -1,4 +1,5 @@
 ---
+
 title: Fertilizer NPK Decoded
 created: 2026-04-12
 updated: 2026-04-12
@@ -23,32 +24,8 @@ sources:
 - concepts/nutrient-dense-gardening.md
 - concepts/plant-nutrient-uptake.md
 ---
-title: Fertilizer NPK Decoded
-created: 2026-04-12
-updated: 2026-04-12
-type: query
 
-tags:
-- fertilizer
-- soil
-- nutrients
-- gardening
-- living-soil
-- npk
-- ph
-- nutrient-cycling
-- plant-growth
-- vegetables
-- reference
-
-sources:
-- concepts/cannabis-plant-nutrition.md
-- concepts/soil-fertility-management.md
-- concepts/nutrient-dense-gardening.md
-- concepts/plant-nutrient-uptake.md
----
-
-## Fertilizer NPK Decoded
+# Fertilizer NPK Decoded
 
 Understanding NPK numbers, what each macronutrient does, common organic and synthetic fertilizer values, and how to calculate application rates for your garden. See [[soil-fertility-management]] for Solomon's COF recipe and [[cannabis-plant-nutrition]] for cannabis-specific needs.
 
@@ -86,7 +63,7 @@ The remaining percentage is filler, organic matter, micronutrients, and other in
 - **Deficiency**: Dark green or purplish leaves (especially undersides), slow growth, poor root development
 - **Excess**: Can inhibit mycorrhizal formation (>70 ppm P), iron/zinc lockout
 - **Mobility**: Mobile -- deficiency shows in older leaves
-- **Note**: Very slow to become available from organic sources -- [[rock-phosphate]] takes years
+- **Note**: Very slow to become available from organic sources -- rock phosphate takes years
 
 ### Potassium (K) -- The Quality Nutrient
 - Osmoregulation, enzyme activation, stomatal function, disease resistance, cold hardiness, bud density
@@ -102,12 +79,12 @@ The remaining percentage is filler, organic matter, micronutrients, and other in
 
 | Fertilizer | NPK | Best Use | Notes |
 |---|---|---|---|
-| [[blood-meal]] | 12-0-0 | Nitrogen boost, vegetative stage | Fast-release. Can burn if overapplied. Attracts animals. |
-| [[feather-meal]] | 13-0-0 | Slow nitrogen release | Very slow release (months). Good for pre-plant amendment. |
-| [[fish-meal]] | 5-3-3 | Balanced early growth | Moderate release. Good all-around organic fertilizer. |
-| [[alfalfa-meal]] | 2-1-2 | Gentle balanced feeding | Contains triacontanol (growth stimulant). Good as mulch. |
+| Blood meal | 12-0-0 | Nitrogen boost, vegetative stage | Fast-release. Can burn if overapplied. Attracts animals. |
+| Feather meal | 13-0-0 | Slow nitrogen release | Very slow release (months). Good for pre-plant amendment. |
+| Fish meal | 5-3-3 | Balanced early growth | Moderate release. Good all-around organic fertilizer. |
+| Alfalfa meal | 2-1-2 | Gentle balanced feeding | Contains triacontanol (growth stimulant). Good as mulch. |
 | Bone meal | 3-15-0 | Phosphorus and calcium | Slow release (1-4 months). Essential for flowering and roots. |
-| Rock phosphate | 0-3-0 | Long-term P reserves | Very slow release (years). Best for [[building-soil]] P over time. |
+| Rock phosphate | 0-3-0 | Long-term P reserves | Very slow release (years). Best for building soil P over time. |
 | Bat guano (high P) | 3-10-1 | Flowering boost | Fast-acting P source. Use as top-dress during flower. |
 | Bat guano (high N) | 10-3-1 | Vegetative growth | Fast-acting N source. Water-soluble for teas. |
 | Kelp meal | 1-0.5-2 | Micronutrients + K | Contains all trace minerals, cytokinins, auxins. Excellent all-around. |
@@ -141,3 +118,68 @@ The remaining percentage is filler, organic matter, micronutrients, and other in
 ---
 
 ## How to Calculate Application Rates
+
+**Step 1: Determine how much actual nutrient you need.**
+
+Example: You want to apply 0.1 lbs of nitrogen per 100 sq ft (a moderate rate for veg).
+
+**Step 2: Divide by the fertilizer's N percentage.**
+
+Using blood meal (12-0-0):
+- 0.1 lbs N / 0.12 = 0.83 lbs of blood meal per 100 sq ft
+
+Using fish meal (5-3-3):
+- 0.1 lbs N / 0.05 = 2.0 lbs of fish meal per 100 sq ft
+
+**Step 3: Convert to volume if needed.**
+
+Most organic fertilizers weigh roughly 1 lb per quart (varies). So 0.83 lbs blood meal is approximately 3.3 cups per 100 sq ft.
+
+### Quick Rate Table for Pre-Plant Amendment (per 100 sq ft)
+
+| Goal | Fertilizer | Rate (cups) | Notes |
+|---|---|---|---|
+| Nitrogen base | Blood meal or seed meal | 2-4 cups | Work into top 4-6 inches |
+| Phosphorus | Bone meal | 1-2 cups | Slow release; good for roots and flowers |
+| Potassium | Kelp meal | 1-2 cups | Adds micronutrients too |
+| Calcium + pH | Dolomite lime | 1-2 cups | Only if pH is below 6.5 and Mg is needed |
+| Calcium (no pH change) | Gypsum | 1-2 cups | Use on alkaline soils |
+| Micronutrients | Kelp meal or azomite | 1 cup | Trace minerals for nutrient density |
+| Biology boost | Worm castings | 2-4 cups | Microbial inoculant, mild nutrition |
+
+---
+
+## NPK Ratios by Growth Stage
+
+| Stage | Preferred NPK Ratio | Why |
+|---|---|---|
+| Seedling | Low NPK (1-1-1 or less) | Soil amendments provide enough; seedlings burn easily |
+| Early vegetative | Higher N (3-1-1 or 5-2-3) | Leaf and stem growth demands nitrogen |
+| Late vegetative | Balanced (3-2-3 or 5-3-3) | Building structure, root mass expanding |
+| Early flower | Shift to P/K (1-3-4 or 2-5-4) | Root development and flower initiation |
+| Mid flower | Higher P/K (0-5-5 or 1-6-6) | Bud formation, resin production |
+| Late flower | Low N, high K (0-3-8 or 0-2-6) | Bud density, terpene production, finishing |
+
+---
+
+## NPK and Living Soil
+
+In a [[cannabis-living-soil-guide]] system, NPK management is different from conventional growing:
+
+- Pre-amend the soil mix at planting -- the biology converts organic inputs to plant-available forms over weeks
+- Avoid synthetic NPK -- it disrupts the [[soil-food-web-nutrient-cycling]] by feeding bacteria selectively and creating salt stress
+- Top-dress with organic amendments (bone meal, kelp, langbeinite) when deficiencies appear
+- Compost tea feeds the biology, not the plant directly
+- Mycorrhizal fungi provide up to 80% of plant P and significant N -- don't over-apply P (>70 ppm inhibits colonization)
+- See [[organic-nutrients-vs-synthetic-nutrients]] for a full comparison
+
+---
+
+## See Also
+
+- [[soil-fertility-management]] -- Solomon's COF recipe, pH management, crop-specific rates
+- [[nutrient-dense-gardening]] -- 13 essential nutrients, brix testing, Albrecht system
+- [[cannabis-plant-nutrition]] -- cannabis-specific NPK needs, organic sources, deficiency symptoms
+- [[soil-amendment-reference]] -- comprehensive amendment quick-reference by nutrient
+- [[plant-nutrient-uptake]] -- how plants absorb nutrients, cation exchange, mycorrhizal pathways
+- [[organic-fertilizer-recipes]] -- Solomon COF, KNF FAA/OHN/FPJ, accumulator feeds

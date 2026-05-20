@@ -140,11 +140,15 @@ Stone fruits have specific chill hour requirements for proper dormancy release a
 ### Cherry Fruit Fly
 - Maggots in sweet cherries — the primary pest of sweet cherries
 - Yellow sticky traps for monitoring
+- Apply spinosad when flies are trapped
+- Sour cherries are rarely affected
+
+### Crown Gall
+- Bacterial disease causing galls on roots and crown
+- Enters through wounds; no cure — remove severely affected trees
 
 ## See Also
 
-- [[holzer-stone-fruit-varieties-and-growing]]
-- [[slip-form-stone-construction]]
-- [[psilocybin-mushroom-sclerotia-philosophers-stone-truffle]]
-- [[comparison-slip-form-stone-vs-timber-frame]]
-- [[plants-of-the-gods-mushroom-stone-artifacts]]
+- [[apple-tree-care]] for companion orchard tree management
+- [[backyard-orchard-design]] for orchard layout and spacing
+- [[seasonal-gardening-calendar]] for seasonal spray and maintenance timing

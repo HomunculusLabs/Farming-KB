@@ -7,7 +7,7 @@ tags: [cannabis, health, medicine, psychopharmacology, therapy, beginner]
 sources: []
 ---
 
-## Cannabis and Exercise Recovery
+# Cannabis and Exercise Recovery
 
 ## Overview
 
@@ -23,7 +23,7 @@ After exercise, the body undergoes several recovery processes:
 - **Lactic acid accumulation:** Contributes to muscle fatigue and soreness (though its role is less significant than once believed)
 - **Micro-tears in muscle fibers:** Triggered by resistance training and intense exercise; repair leads to muscle growth
 - **Glycogen depletion:** Muscles deplete stored glycogen during exercise
-- **Hormonal changes:** Cortisol ([[abscisic-acid-plant-stress-hormone]]) rises during exercise and gradually returns to baseline
+- **Hormonal changes:** Cortisol (stress hormone) rises during exercise and gradually returns to baseline
 - **Immune function:** Intense exercise temporarily suppresses immune function
 
 ### Recovery Timeline
@@ -66,7 +66,7 @@ Cannabis provides analgesic effects through multiple mechanisms:
 
 ### Muscle Relaxation
 
-THC has muscle-relaxant properties through CNS modulation. CBD reduces muscle spasticity (studied in [[blesching-cannabis-multiple-sclerosis]] patients). [[cannabis-topicals-guide|Cannabis topicals]] are particularly effective for targeted muscle relaxation without systemic effects.
+THC has muscle-relaxant properties through CNS modulation. CBD reduces muscle spasticity (studied in multiple sclerosis patients). [[cannabis-topicals-guide|Cannabis topicals]] are particularly effective for targeted muscle relaxation without systemic effects.
 
 ### Sleep Enhancement
 
@@ -74,7 +74,7 @@ Quality sleep is critical for recovery, and cannabis can influence it:
 
 - **THC:** Shortens sleep onset, may increase deep sleep. Long-term use may disrupt sleep architecture.
 - **CBD:** May improve sleep quality, particularly anxiety-related disturbance. Higher doses (160mg+) show sleep-promoting effects in studies.
-- **Myrcene and linalool:** Common [[cannabis-terpenes-and-the-entourage-effect]] associated with sedative and calming properties
+- **Myrcene and linalool:** Common cannabis terpenes associated with sedative and calming properties
 - Timing matters: using cannabis too close to bedtime may disrupt REM sleep
 
 ### Stress Reduction
@@ -97,10 +97,10 @@ In 2018, WADA removed CBD from prohibited substances. THC remains banned in comp
 ## Strain Selection for Recovery
 
 ### For Anti-Inflammatory Benefits (high CBD and caryophyllene)
-Harlequin, Cannatonic, ACDC, [[sour-tsunami]], Pennywise (1:1 CBD:THC).
+Harlequin, Cannatonic, ACDC, Sour Tsunami, Pennywise (1:1 CBD:THC).
 
 ### For Muscle Relaxation (indica-dominant, myrcene and linalool)
-[[granddaddy-purple]], [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], Afghan Kush, Blueberry. See [[marijuana-strain-guide-indica|indica strain guide]] for more.
+Granddaddy Purple, Northern Lights, Afghan Kush, Blueberry. See [[marijuana-strain-guide-indica|indica strain guide]] for more.
 
 ### For Sleep and Recovery
 
@@ -108,7 +108,7 @@ High-myrcene, high-linalool indica strains: God's Gift, Bubba Kush, 9 Pound Hamm
 
 ### For Energy and Active Recovery
 
-Sativa-dominant strains for light movement: Green Crack, Durban Poison, [[super-lemon-haze]]. See [[marijuana-strain-guide-sativa|sativa strain guide]].
+Sativa-dominant strains for light movement: Green Crack, Durban Poison, Super Lemon Haze. See [[marijuana-strain-guide-sativa|sativa strain guide]].
 
 ## Timing and Method of Consumption
 
@@ -147,3 +147,41 @@ Sativa-dominant strains for light movement: Green Crack, Durban Poison, [[super-
 - Low: 2.5-5mg (mild relaxation without impairment)
 - Medium: 5-15mg (noticeable relaxation and pain relief)
 - High: 15mg+ (significant sedation — best for evening)
+
+Start low, increase gradually. New users should start with CBD-only products.
+
+## Research Landscape
+
+### Current Evidence
+
+- Animal studies consistently demonstrate anti-inflammatory and analgesic effects
+- Human studies on CBD for pain show promising but inconclusive results
+- Survey research indicates 25-60% of athletes already use cannabis for recovery
+- WADA's removal of CBD suggests sufficient safety evidence
+- More rigorous human clinical trials are needed
+
+### Areas Needing More Research
+
+- Optimal dosing protocols for different exercise types
+- Long-term effects of cannabis on athletic performance
+- Interactions with other recovery modalities (ice baths, NSAIDs, compression)
+- Impact on muscle protein synthesis and adaptation
+
+## Practical Integration
+
+### Sample Recovery Protocol
+
+**Post-workout (within 30 min):** Apply [[cannabis-topicals-guide|cannabis topical]] to sore areas, stretch and cool down.
+
+**1-2 hours post-workout:** Take 25mg CBD sublingually, rehydrate and eat a recovery meal.
+
+**Evening (2-4 hours before bed):** Additional topical if needed, consider low-dose edible (10mg CBD, optional 2.5mg THC).
+
+### Important Considerations
+
+- Cannabis should complement, not replace, fundamental recovery practices (nutrition, hydration, sleep)
+- Consistency matters more than high doses
+- Individual responses vary — experiment to find what works
+- Avoid combining with alcohol for recovery purposes
+- Consult healthcare provider, especially if taking other medications
+- Be aware of [[cannabis-regulations-by-state|local regulations]]

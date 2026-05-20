@@ -4,7 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 Fungal mycoparasitism refers to the direct antagonistic interaction in which
 one fungal species parasitizes another. These interactions are central to

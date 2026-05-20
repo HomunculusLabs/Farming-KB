@@ -7,9 +7,9 @@ tags: [mycology, ecology, plant-growth, fungi]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-## Endophytic Fungi and Plant Interactions
+# Endophytic Fungi and Plant Interactions
 
-[[endophytic-fungi]] live inside plant tissues (leaves, stems, roots) without causing disease symptoms. Nearly all plants in natural ecosystems harbor endophytes, which can significantly influence plant growth, stress tolerance, and resistance to pests and pathogens.
+Endophytic fungi live inside plant tissues (leaves, stems, roots) without causing disease symptoms. Nearly all plants in natural ecosystems harbor endophytes, which can significantly influence plant growth, stress tolerance, and resistance to pests and pathogens.
 
 ## Types of Endophytes
 
@@ -17,7 +17,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 - Systemic infections of grasses (cool-season grasses: Festuca, Lolium)
 - Vertically transmitted (through seeds) and horizontally (through spores)
 - Produce alkaloids toxic to herbivores and some pathogens
-- Examples: [[epichloe-festucae]] in tall fescue, Neotyphodium in perennial ryegrass
+- Examples: Epichloe festucae in tall fescue, Neotyphodium in perennial ryegrass
 
 ### Non-Clavicipitaceous Endophytes (Classes 2-4)
 - Found in all plant groups (not just grasses)
@@ -32,7 +32,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 - Produce plant hormones (auxins, gibberellins, cytokinins)
 - Enhance nutrient uptake (solubilize phosphate, fix nitrogen)
 - Increase root biomass and branching
-- Improve [[photosynthetic-efficiency]]
+- Improve photosynthetic efficiency
 
 ### Stress Tolerance
 - **Drought**: Endophytes produce osmolytes that help plants retain water
@@ -44,7 +44,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 ### Pest and Disease Resistance
 - Produce anti-herbivore alkaloids (in Clavicipitaceous endophytes)
 - Antibacterial and antifungal metabolites suppress pathogens
-- Induce [[endophytic-mycorrhizal-induced-systemic-resistance]] in the host plant
+- Induce systemic resistance in the host plant
 - Competitive exclusion of pathogens in plant tissue
 
 ### Competitive Advantage
@@ -62,7 +62,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 ### Crop Plants
 - Inoculation with endophytes to improve stress tolerance
 - Endophyte-treated rice shows improved drought and salt tolerance
-- Endophytes of medicinal plants produce [[cordyceps-cancer-bioactive-compounds]]
+- Endophytes of medicinal plants produce bioactive compounds
 - Potential for reducing fertilizer and pesticide inputs
 
 ### Biocontrol
@@ -75,75 +75,29 @@ sources: [raw/papers/symbiotic-fungi.md]
 - [[mycorrhizal-fungi]] — for root-associated symbionts
 - [[mycopesticides-fungal-biocontrol]] — for entomopathogenic fungi
 - [[fungal-symbiosis-types]] — for broader symbiosis context
+### Key Principles
+Understanding endophytic fungi plant interactions requires consideration of several interrelated factors.
+These principles form the foundation for practical application and further research.
+Each factor contributes to the overall effectiveness and sustainability of the approach.
+Integration of multiple approaches often yields the best results.
 
-## Overview
+### Methods and Techniques
+Various methods have been developed to implement these concepts effectively.
+Selection of appropriate techniques depends on specific conditions and objectives.
+Adaptation to local conditions improves outcomes and resource efficiency.
+Best practices continue to evolve as new research becomes available.
 
-Endophytic Fungi Plant Interactions represents an important element within sustainable
-design and ecological management systems. Its proper understanding
-and integration contributes to the resilience and productivity of
-designed ecosystems and agricultural systems.
+### Practical Applications
+Real-world implementation requires attention to local conditions and available resources.
+Success often depends on careful planning and iterative refinement of techniques.
+Documentation and observation support continuous improvement.
 
-## Key Characteristics
+### Research and Development
+Ongoing research continues to refine understanding and improve practical applications.
+New developments in related fields contribute to advancing knowledge in this area.
+Field trials and experimental results provide valuable data for optimization.
 
-Several defining characteristics distinguish endophytic fungi plant interactions
-from related concepts in permaculture and ecological design.
-Understanding these traits supports effective implementation
-and management across diverse environmental conditions.
-
-## Ecological Context
-
-The ecological relationships involving endophytic extend
-across multiple trophic levels and functional groups.
-Soil biology, water cycles, and energy flows all interact
-with this element in complex and beneficial ways.
-
-## Practical Applications
-
-Endophytic Fungi Plant Interactions finds practical application in multiple design contexts.
-[[mollisonian-permaculture-principles]] guide integration strategies that maximize
-beneficial interactions while minimizing external inputs.
-Site-specific adaptation ensures relevance to local conditions.
-
-## Management and Implementation
-
-Effective management requires attention to seasonal patterns
-and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
-Integration with complementary elements enhances system function.
-
-## Regional Considerations
-
-Different geographic regions present unique challenges and
-opportunities for endophytic fungi plant interactions. Climate adaptation
-strategies vary across cultivation zones and latitude ranges.
-Local knowledge and site observation remain essential guides.
-
-## Sustainability
-
-Sustainable management practices ensure long-term viability.
-Biodiversity considerations guide implementation decisions.
-Responsible stewardship maintains ecological health over time.
-Economic sustainability balances environmental and social needs.
-
-## Research and Development
-
-Ongoing research continues to expand understanding of
-endophytic fungi plant interactions and its applications. Active investigation
-areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
-Published findings contribute to an evolving evidence base.
-
-## Historical Context
-
-Endophytic Fungi Plant Interactions has been recognized across multiple knowledge traditions.
-Indigenous and traditional practices have informed modern approaches.
-The synthesis of historical and contemporary knowledge enriches
-current understanding and implementation strategies.
-
-## Integration Strategies
-
-Successful integration of endophytic fungi plant interactions into broader
-systems requires careful planning and observation.
-Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions
+## See Also
+- [[aact-calcium-fungi-interaction-nutrient-bioavailability-ingham]]
+- [[aact-forest-litter-fungi-mycorrhizal-ingham]]
+- [[aact-mite-management-and-biocontrol-fungi]]

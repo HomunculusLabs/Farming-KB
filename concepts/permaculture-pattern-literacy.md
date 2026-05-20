@@ -12,11 +12,11 @@ tags:
   - observation
   - landscape-reading
 sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
   - raw/papers/bill-mollison-permaculture-design-course.md
 ---
 
-## Permaculture Pattern Literacy
+# Permaculture Pattern Literacy
 
 Pattern literacy is the ability to read, understand, and apply the patterns found in nature and society to design. David Holmgren makes it a central theme in "Permaculture: Principles and Pathways Beyond Sustainability," and Bill Mollison similarly emphasized pattern understanding throughout the Permaculture Design Course. Pattern literacy is the foundation of the permaculture principle "Design from patterns to details."
 

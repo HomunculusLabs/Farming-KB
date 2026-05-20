@@ -1,4 +1,5 @@
 ---
+
 title: Pond Maintenance and Troubleshooting
 created: 2026-04-11
 updated: 2026-04-12
@@ -22,7 +23,7 @@ sources:
 - raw/greg-green-the-cannabis-grow-bible.md
 ---
 
-## Pond Maintenance and Troubleshooting
+# Pond Maintenance and Troubleshooting
 
 Operational guidance for farm ponds — water quality management, feeding strategies, fish harvest, winter care, predator control, and regenerative integration. See [[pond-and-aquaculture]] for pond design, site selection, fish species, and duck integration.
 
@@ -144,3 +145,25 @@ A pond is the connective tissue of a regenerative homestead:
 - **Duck forage**: Pond supports ducks year-round with aquatic plants, insects, and snails. See [[duck-keeping]].
 - **Irrigation relay**: Pond overflow → swales → [[cover-cropping-guide]] fields → [[water-management]] storage. No water leaves the property.
 - **Goat/duck watering**: Gravity-fed troughs from pond reduce well dependence. See [[goat-keeping]].
+- **Pest management**: Frog populations from pond provide natural pest control in gardens. Reference [[cannabis-pest-management]].
+
+## Getting Started Checklist
+
+1. **Assess site**: Soil test (clay content), watershed area, existing water flow
+2. **Check regulations**: County permits, dam safety (if embankment), fish stocking permits
+3. **Design**: Size, depth, shape, overflow, shelves, access points
+4. **Excavate**: Hire excavator (1-3 days for ¼ acre) or rent mini-excavator
+5. **Seal**: Compact clay core, or install liner if needed
+6. **Fill**: Natural watershed (best), well, or municipal fill. Takes weeks to months.
+7. **Plant**: Emergent plants on shelves once water level is stable
+8. **Stock fish**: Wait 2-4 weeks after filling for pond biology to establish
+9. **Add ducks**: 2-4 weeks after fish stocking, once plants are established
+10. **Monitor**: Weekly water quality checks, adjust feeding and stocking as needed
+
+See [[seasonal-planning]] for month-by-month pond management tasks and [[homesteading-infrastructure]] for integration with other systems.
+
+## See Also
+
+- [[pond-and-aquaculture]] — Pond design, fish species, duck integration, aquatic plants
+- [[duck-keeping]] — Duck care and management
+- [[water-management]] — Water systems for the homestead

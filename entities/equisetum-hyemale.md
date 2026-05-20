@@ -30,7 +30,7 @@ Equisetum hyemale is cultivated as an **architectural ornamental plant** for its
 
 Rough horsetail has a **circumboreal distribution**, occurring across Europe, Asia, and [[coleman-overwintered-onions-and-early-spring-crops]] or by **spore**. Spore propagation is slow and unreliable for garden purposes. Division produces established clumps within a single [[biodiversity-rust-fungi-urediniomycetes]] (*Puccinia* spp.) occasionally infect stems but rarely cause serious damage.
 
-In modern [[mycoremediation-heavy-metals]] including arsenic, cadmium, lead, and zinc. Research has demonstrated its capacity to concentrate these metals in above-ground tissues at levels exceeding soil concentrations by 10–100 times. This trait has generated interest in its use for **phytoremediation** of contaminated sites.
+In modern [[mycoremediation-of-heavy-metals]] including arsenic, cadmium, lead, and zinc. Research has demonstrated its capacity to concentrate these metals in above-ground tissues at levels exceeding soil concentrations by 10–100 times. This trait has generated interest in its use for **phytoremediation** of contaminated sites.
 
 Equisetum species produce **equisetolic acid** and other [[antifungal-secondary-metabolites-coprophilous-fungi]] with allelopathic properties. These compounds can inhibit germination and growth of competing plant species, contributing to the often near-monoculture stands observed in the wild.
 

@@ -7,7 +7,7 @@ tags: [livestock, animal-husbandry, forage, agriculture, economics, homesteading
 sources: []
 ---
 
-## Pastured Pork Production
+# Pastured Pork Production
 
 Pasture-raised pork comes from pigs raised outdoors with access to living vegetation, fresh air, and space to root and forage. Unlike confinement operations, pastured pigs produce well-marbled, flavorful meat with superior nutritional profiles and strong market appeal.
 
@@ -140,10 +140,21 @@ Average yield from 250 lb live pig:
 - Custom cuts retail: $700-1,200 ($5-8/lb average retail)
 - Premium retail (farmers market): $900-1,500 ($6-10/lb)
 
-## See Also
+### Profitability
+- Net profit per pig (retail): $200-600
+- Selling live: $50-150 profit (thin margins)
+- Key is direct marketing -- see farmers market selling guide
+- Annual production of 6-10 pigs can generate $2,000-6,000 net income
 
-- [[mollison-designers-poultry-forage-design-pastured-systems]]
+## Health Considerations
+
+- Vaccinate for erysipelas and circovirus
+- Deworm: ivermectin or fenbendazole, 2-3 times/year
+- Watch for external parasites (mange, lice) -- treat promptly
+- Provide shade and wallows to prevent heat stress
+- Pigs are susceptible to stress -- handle calmly and consistently
+- Biosecurity: quarantine new arrivals for 30 days
+
+Pastured pork complements [[grass-fed-beef-production]] in a diversified livestock operation and generates valuable manure for [[hot-composting-vs-vermicompost-vs-bokashi|compost]] and soil building.
+## See Also
 - [[pastured-egg-production]]
-- [[ligninolytic-enzyme-production-bioremediation]]
-- [[staycare-fungal-organic-acid-production-metal-leaching]]
-- [[cattle-health-and-production]]

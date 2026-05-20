@@ -4,10 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, history, ethnomycology, ethnobotany, counterculture, culture, entheogen, mesoamerica, religion]
-sources: ["raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"]
+sources: []
 ---
 
-## Psychedelic Mushroom History
+# Psychedelic Mushroom History
 
 ## Overview
 
@@ -133,11 +133,5 @@ Psilocybin mushrooms have experienced a dramatic cultural rehabilitation:
 - Academic conferences and training programs for psychedelic therapists
 
 See [[psychedelic-mushroom-taxonomy]] for the scientific classification of these fungi and [[psilocybin-clinical-trials]] for current research status.
-
 ## See Also
-
-- [[psycholytic-vs-psychedelic-therapy-historical-models-metzner]]
-- [[sidney-cohen-oscar-janiger-hollywood-psychedelic-therapy-1960s]]
-- [[psychedelic-plants-in-ancient-cultures]]
-- [[archaeology-of-psychedelic-mushrooms]]
-- [[psychedelic-crisis-response-protocol]]
+- [[psychedelic-mushroom-art-and-iconography]]

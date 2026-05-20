@@ -1,4 +1,5 @@
 ---
+
 title: Compost Tea Guide — Complete AACT Manual
 created: 2026-04-11
 updated: 2026-04-12
@@ -21,9 +22,9 @@ sources:
 - raw/papers/lowenfels-teaming-with-microbes.md
 ---
 
-## Compost Tea Guide — Complete AACT Manual
+# Compost Tea Guide — Complete AACT Manual
 
-[[actively-aerated-compost-tea]] (AACT) is a water extract of compost, brewed with food resources and [[actively-aerated-compost-tea-aact-brewing]] to multiply [[forest-and-bamboo-beneficial-microorganisms]]. Developed by Dr. Elaine Ingham, AACT delivers the full [[soil-food-web-nutrient-cycling]] — bacteria, fungi, protozoa, and nematodes — to soil and foliage. It is NOT anaerobic tea, leachate, or manure tea. True compost contains no human pathogens; AACT brewed aerobically maintains that safety.
+Actively Aerated Compost Tea (AACT) is a water extract of compost, brewed with food resources and actively aerated to multiply beneficial microorganisms. Developed by Dr. Elaine Ingham, AACT delivers the full [[soil-food-web-nutrient-cycling]] — bacteria, fungi, protozoa, and nematodes — to soil and foliage. It is NOT anaerobic tea, leachate, or manure tea. True compost contains no human pathogens; AACT brewed aerobically maintains that safety.
 
 ## Equipment
 
@@ -37,7 +38,7 @@ sources:
 - **Air pump**: Must run continuously. Diaphragm pumps for small batches; regenerative blowers for large.
 - **Air stones/diffusers**: Create fine bubbles for maximum oxygen transfer. Clean between brews.
 - **Mesh bag** (400 micron paint strainer or similar): Holds compost for easy removal. Do NOT squeeze — this damages fungi.
-- **DO meter**: [[dissolved-oxygen-meter-aact]] is critical. DO must remain above 6 ppm (target 7-8 ppm).
+- **DO meter**: Dissolved oxygen meter is critical. DO must remain above 6 ppm (target 7-8 ppm).
 
 ## Recipe
 
@@ -53,7 +54,7 @@ sources:
 
 | Food | Feeds | Rate (per 5 gal) |
 |------|-------|-------------------|
-| Unsulfured [[blackstrap-molasses]] | Bacteria | 1-4 Tbsp |
+| Unsulfured blackstrap molasses | Bacteria | 1-4 Tbsp |
 | Fish hydrolysate | Bacteria + fungi | 1-2 Tbsp |
 | Kelp meal | Fungi + micronutrients | 1-2 Tbsp |
 | Humic/fulvic acid | Fungi | 1 Tbsp |
@@ -117,18 +118,18 @@ Ingham recommends microscope assessment at 400x magnification:
 | Flagellates | Small motile cells | 1000-10000/g |
 | Amoebae | Large, moving, irregular shape | 100-10000/g |
 | Ciliates | Large, fast-moving, oval | Low numbers (high = anaerobic) |
-| Bacterial-feeding nematodes | Small, transparent, wriggling | 10-100/g |
+| Bacterial-feeding nematodes | Small, transparent,蠕动 | 10-100/g |
 | Fungal-feeding nematodes | Stylet visible, slow | 5-50/g |
 | Predatory nematodes | Large mouth, fast | 1-5/g |
 
 - High ciliates indicate anaerobic/compacted conditions
-- Root-feeding nematodes present = need more [[ingham-beneficial-nematodes-soil-food-web]], mycorrhizae, and fungi
+- Root-feeding nematodes present = need more beneficial nematodes, mycorrhizae, and fungi
 
 ## Troubleshooting
 
 | Problem | Cause | Fix |
 |---------|-------|-----|
-| Foul/putrid/sour smell | [[aact-ph-and-anaerobic-conditions]] | Discard brew. Increase aeration, reduce food, check DO meter |
+| Foul/putrid/sour smell | Anaerobic conditions | Discard brew. Increase aeration, reduce food, check DO meter |
 | Thick bad-smelling foam | Anaerobic bacteria producing proteins | Discard. Foam from healthy brew is light and smells sweet/earthy |
 | Low DO (<5.5 ppm) | Too much food, warm temp, insufficient aeration | Add more air, reduce food next batch, cool water |
 | No foam at all | Low biology in compost, insufficient food | Use better compost, add molasses |
@@ -143,3 +144,24 @@ Ingham recommends microscope assessment at 400x magnification:
 - If must store briefly: keep aerated, use within 24 hours, biology declining rapidly
 - Compost tea cannot be shipped or stored long-term — brew fresh on-site
 - This is why commercial compost tea products are typically extracts, not true AACT
+
+## Bacterial vs. Fungal Tea
+
+| Factor | Bacterial Tea | Fungal Tea |
+|--------|--------------|------------|
+| Target crops | Vegetables, annuals, brassicas | Trees, shrubs, perennials, cannabis flower |
+| Compost source | Worm castings, thermal compost | Forest humus, fungal compost |
+| Food | Molasses, fish hydrolysate | Kelp, humic acid, oatmeal, oat straw |
+| Molasses | 2-4 Tbsp | 0-1 Tbsp (less) |
+| Brew time | 18-24 hours | 24-36 hours |
+| Bacteria:Fungi ratio | High bacterial | High fungal |
+
+## See Also
+
+- [[composting-systems]] — compost production as AACT ingredient source
+- [[soil-food-web-nutrient-cycling]] — the organisms AACT delivers
+- [[cannabis-living-soil-guide]] — AACT in living soil cannabis cultivation
+- [[vermicomposting]] — worm castings as premium AACT ingredient
+- [[mycorrhizal-fungi]] — add spores at application time
+- [[compost-tea-aact]] — concise AACT summary
+- [[elaine-ingham]] — AACT methodology developer

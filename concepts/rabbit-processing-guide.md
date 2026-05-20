@@ -7,7 +7,7 @@ tags: [animal-husbandry, livestock, processing, food, homesteading, safety, work
 sources: []
 ---
 
-## Rabbit Processing Guide
+# Rabbit Processing Guide
 
 On-farm rabbit processing provides a direct source of lean, high-quality meat and is one of the most approachable livestock processing tasks for homesteaders. Rabbits are productive (a single doe can produce 60+ lb of meat per year), have a small physical footprint, and the processing itself requires minimal equipment compared to larger livestock.
 
@@ -140,11 +140,17 @@ Rabbit meat is exceptionally lean and nutritious:
 ## Regulations
 
 In the United States, the USDA exempts rabbit processing from federal inspection if:
+- The producer raises and processes the rabbits on their own farm
+- Sales are direct to the end consumer (no retail, restaurant, or wholesale)
+- The producer does not process rabbits from other farms
 
+Some states have additional requirements. Check local regulations before selling processed rabbit meat. For a more permanent processing setup, see [[home-butcher-shop-setup]].
+
+## Waste Utilization
+
+-  **Pelts** — Rabbit pelts can be tanned for fur or sold to crafters. Raw pelts should be salted or frozen immediately.
+-  **Offal** — Hearts, livers, and kidneys are edible and nutritious. Intestines and stomach contents go to compost.
+-  **Bones** — Make bone broth or add to compost. Bones decompose readily in a hot compost pile.
+-  **Blood** — Dilute and add to compost as a nitrogen source, or collect for [[black-soldier-fly-composting]].
 ## See Also
-
-- [[comparison-duck-keeping-vs-rabbit-husbandry]]
-- [[mollison-designers-rabbit-housing-and-manure-management]]
-- [[rabbit-husbandry]]
-- [[fukuoka-textdoc-fox-rabbit-grass-energy-cascade-caloric-waste-luxury-foods]]
-- [[rabbit-husbandry-basics]]
+- [[grain-processing-and-milling-guide]]

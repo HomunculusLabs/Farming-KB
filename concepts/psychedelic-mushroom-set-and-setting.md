@@ -7,11 +7,11 @@ tags: [mycology, psychedelics, psychology, consciousness, therapy, safety, enthe
 sources: []
 ---
 
-## Psychedelic Mushroom Set and Setting
+# Psychedelic Mushroom Set and Setting
 
 ## Overview
 
-The concepts of "set" and "setting" are foundational principles in psychedelic use, first articulated by Timothy Leary and popularized through the counterculture movement. Set refers to the internal psychological state of the person, while setting refers to the external physical and social environment. Together, they are the most significant determinants of the quality, safety, and therapeutic value of a [[leary-psychedelic-experience-bardo-mapping]] — often more so than the dose itself.
+The concepts of "set" and "setting" are foundational principles in psychedelic use, first articulated by Timothy Leary and popularized through the counterculture movement. Set refers to the internal psychological state of the person, while setting refers to the external physical and social environment. Together, they are the most significant determinants of the quality, safety, and therapeutic value of a psychedelic experience — often more so than the dose itself.
 
 ## Set: Mental Preparation
 
@@ -35,8 +35,8 @@ Current mental health significantly affects the experience:
 - **Recent stress**: Can amplify anxiety during the experience; consider postponing
 - **Grief or loss**: Can surface powerfully; may be therapeutic with proper support or destabilizing without
 - **Depression**: Clinical depression does not preclude therapeutic use but requires careful screening and professional guidance
-- **[[cannabis-for-anxiety-disorders]]**: Generalized anxiety can be amplified; controlled settings with professional support are essential
-- **[[blesching-cannabis-bipolar-disorder]]**: Risk of manic episodes; generally contraindicated without psychiatric supervision
+- **Anxiety disorders**: Generalized anxiety can be amplified; controlled settings with professional support are essential
+- **Bipolar disorder**: Risk of manic episodes; generally contraindicated without psychiatric supervision
 - **Psychosis risk**: Personal or family history of psychotic disorders is a strong contraindication
 - **Recent substance use**: Alcohol, stimulants, and other drugs can unpredictably interact; avoid for at least 24-48 hours before
 
@@ -140,11 +140,12 @@ Integration is the process of making sense of and incorporating the insights, em
 ## Harm Reduction Principles
 
 - Start with lower doses and increase gradually
+- Always have a trusted trip sitter, especially at moderate to high doses
+- Test substances when possible — see [[fungal-toxins-reference]] for risks of misidentification
+- Never combine with alcohol, stimulants, or other psychoactive substances without expert guidance
+- Avoid driving or operating machinery during and for at least 12 hours after the experience
+- Have a plan for difficult experiences — breathing techniques, change of setting, grounding objects
+- Know your limits and respect them
+- Leave adequate time between experiences (minimum 1-2 weeks; ideally 1-3 months)
 
-## See Also
-
-- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
-- [[psychedelic-1960s-counterculture]]
-- [[psychedelic-consciousness-expansion]]
-- [[psychedelic-prohibition-and-the-war-on-consciousness]]
-- [[psychedelic-therapy-set-and-setting]]
+See [[psychedelic-assisted-therapy-protocol]] for structured clinical approaches to set and setting and [[psychedelic-mushroom-effects-guide]] for what to expect at various dose levels.

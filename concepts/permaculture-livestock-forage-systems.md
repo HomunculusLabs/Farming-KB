@@ -13,7 +13,7 @@ sources:
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 
-## Permaculture Livestock Forage Systems
+# Permaculture Livestock Forage Systems
 
 Permaculture integrates livestock into designed systems through diverse forage sources including pasture grasses, leguminous shrubs, fodder trees, and crop residues. Mollison's Manual (particularly Chapters 9-10) details extensive species lists and management strategies for forage production across climate zones.
 
@@ -83,40 +83,6 @@ Tagasaste is drilled with turnip for future sheep forage; seedling trees establi
 - permaculture livestock forage systems -- Rotational grazing and pasture management
 - permaculture livestock forage systems -- Animal species in permaculture systems
 - [[permaculture-woody-mulch-systems]] -- Forage species that double as mulch producers
-
 ## See Also
-
-- [[nut-tree-cultivation-for-permaculture-food-forests]]
-- [[stametsian-permaculture-model]]
-- [[permaculture-farm-design-principles]]
-- [[nitrogen-fixing-plants-in-permaculture]]
-- [[urban-permaculture-and-integrated-land-management]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-Documentation of results enables continuous improvement and knowledge sharing.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-Collaborative networks facilitate rapid dissemination of innovations and best practices.
+- [[permaculture-designers-manual-animal-forage-systems]]
+- [[bee-forage-systems-permaculture-design]]

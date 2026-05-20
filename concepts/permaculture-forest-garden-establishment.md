@@ -4,12 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, food-forest, succession, plant-systems, guild, design, timeline, trees]
-sources:
-  - "raw/papers/nutrient-and-dynamic-accumulators.md"
-  - "raw/papers/unknown-nutrient-and-dynamic-accumulators.md"
+sources: []
 ---
 
-## Permaculture Forest Garden Establishment
+# Permaculture Forest Garden Establishment
 
 A forest garden (or food forest) is a perennial polyculture designed to mimic the structure and function of a natural forest while producing food, fiber, fuel, medicine, and habitat. Forest gardens are the most complex and productive systems in permaculture, layering trees, shrubs, herbs, ground covers, roots, and vines into a self-sustaining ecosystem. Establishing one is a long-term project that unfolds over years through planned succession.
 

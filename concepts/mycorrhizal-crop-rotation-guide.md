@@ -4,7 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, soil-biology, symbiosis]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 Updated: 2026-04-18 ## Overview Crop rotation is a standard agricultural practice for improving and maintaining soil quality. However, the type of crop planted can profoundly affect whether [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and [[soil-disturbance-mycorrhizal-impact]] destroys hyphal networks. If tillage is necessary:
 - Time it as close to planting as possible

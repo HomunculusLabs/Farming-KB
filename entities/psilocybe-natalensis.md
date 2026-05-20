@@ -8,7 +8,7 @@ sources:
   - raw/papers/magic-mushrooms-around-the-world-gartz.md
 ---
 
-## Psilocybe natalensis
+# Psilocybe natalensis
 
 A psychoactive mushroom species first discovered in January 1994 in Natal Province, South Africa, by [[jochen-gartz]] and M. Smith. It was the first psychotropic Psilocybe species documented from southern Africa, published as *Psilocybe natalensis* Gartz, Reid, Ecker & Smith (1995) with the descriptor "the first indigenous blueing member of the Agaricales of South Africa" (*Integration*, 6, 29-34). See [[psilocybin-mushroom-chemistry]] for broader context and [[african-psilocybin-mushroom-guide]] for African species survey.
 
@@ -62,20 +62,18 @@ The discovery of *P. natalensis* was important because:
 
 ## See Also
 
-- [[african-psilocybin-mushroom-guide]]
-- [[archaeology-of-psychedelic-mushrooms]]
-- [[jochen-gartz]]
-- [[psilocybin-mushroom-chemistry]]
-- [[psilocybin-mushroom-cultivation]]
-- [[psychedelic-mushroom-history]]
+- [[psilocybin-mushroom-chemistry]] — Global species distribution
+- [[jochen-gartz]] — Discoverer of the species
+- [[african-psilocybin-mushroom-guide]] — African species survey and Tassili rock art
+- [[psilocybin-mushroom-cultivation]] — Cultivation methods
+- [[psychedelic-mushroom-history]] — Historical timeline including African evidence
+- [[archaeology-of-psychedelic-mushrooms]] — Archaeological evidence of ancient use
+- [[psilocybin-mushroom-chemistry]] — Field identification of 16 species
+### Practical Applications
+The principles of psilocybe natalensis apply across various cultivation and research contexts.
+Understanding these concepts enables more effective implementation and improved outcomes.
 
-## Practical Applications
-
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
-## Key Considerations
-
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-
-## Mechanisms and Processes
-
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

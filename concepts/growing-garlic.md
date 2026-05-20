@@ -64,7 +64,7 @@ Even where the soil freezes, garlic should overwinter if given some mulch before
 
 - Give them fertile soil — big tops before bulbing means big heads
 - Side-dress the garlic about a month before bulbing begins
-- Use COF ([[complete-organic-fertilizer]]), or [[chicken-manure]] compost
+- Use COF ([[complete-organic-fertilizer-cof]]), or [[chicken-manure]] compost
 - Your entire garlic harvest will be higher-quality if dug from soil that is just barely damp at harvest time
 - Dig a plant once a week to learn by observation how your variety matures
 

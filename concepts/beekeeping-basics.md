@@ -1,22 +1,21 @@
 ---
-title: "Beekeeping Basics"
+title: Beekeeping Basics
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [homesteading, biology, methods, troubleshooting, ecology]
-sources:
-  - "raw/papers/dave-jacke-forest-garden.md"
+sources: []
 ---
 
-## Beekeeping Basics
+# Beekeeping Basics
 
-Beekeeping (apiculture) is the maintenance of honey bee colonies for [[faires-beekeeping-and-honey-production]], pollination services, and wax harvesting. Honey bees (Apis mellifera) are essential pollinators for many food crops, and a single hive can significantly improve fruit set and yields in your garden and orchard. This page covers the fundamentals for beginning beekeepers.
+Beekeeping (apiculture) is the maintenance of honey bee colonies for honey production, pollination services, and wax harvesting. Honey bees (Apis mellifera) are essential pollinators for many food crops, and a single hive can significantly improve fruit set and yields in your garden and orchard. This page covers the fundamentals for beginning beekeepers.
 
 ## Why Keep Bees
 
 - **Pollination**: Honey bees dramatically increase fruit, vegetable, and seed set in home gardens and orchards. They pollinate apples, pears, berries, squash, cucumbers, melons, and many other crops.
 - **Honey**: A healthy hive produces 30-60 pounds of surplus honey per year in most climates.
-- **Beeswax**: Used for [[candle-making|candle]] s, salves, food wraps, woodworking, and cosmetics.
+- **Beeswax**: Used for [[candle-making|candle]]s, salves, food wraps, woodworking, and cosmetics.
 - **Propolis and pollen**: Valuable bee products with medicinal and nutritional properties.
 - **Ecological benefit**: Supporting pollinators contributes to broader ecosystem health.
 - **Education and connection**: Beekeeping connects you to the natural world and provides a deeper understanding of ecology and seasonal cycles.
@@ -29,7 +28,7 @@ Beekeeping (apiculture) is the maintenance of honey bee colonies for [[faires-be
 A honey bee colony is a superorganism consisting of three types of bees:
 
 - **Queen bee**: The single reproductive female. Lays up to 2,000 eggs per day during peak season. Lives 2-5 years. Her pheromones regulate colony cohesion and behavior.
-- **Worker bees**: Sterile females that perform all colony tasks — foraging, nursing brood, building comb, guarding, cleaning, [[blesching-cannabis-fever-temperature-regulation]]. Live 4-6 weeks in summer, 4-6 months in winter.
+- **Worker bees**: Sterile females that perform all colony tasks — foraging, nursing brood, building comb, guarding, cleaning, temperature regulation. Live 4-6 weeks in summer, 4-6 months in winter.
 - **Drones**: Male bees whose sole function is mating with virgin queens from other colonies. Drones do not forage or perform hive work. Ejected from the hive in fall.
 
 ### Life Cycle
@@ -63,9 +62,9 @@ A horizontal hive with no frames. Bees build comb from wooden bars suspended acr
 - **Disadvantages**: Less honey production, comb is fragile and cannot be extracted with a spinner, less standardized equipment.
 
 ### Warre Hive
-A vertical [[top-bar-hive]]. Boxes are added to the bottom (nadiring) rather than the top (supering). Bees build natural comb downward.
+A vertical top bar hive. Boxes are added to the bottom (nadiring) rather than the top (supering). Bees build natural comb downward.
 
-- **Advantages**: Minimal disturbance to bees, natural comb, good [[query-best-kiwifruit-varieties-for-cold-climates]] (bees cluster at the top near warmth).
+- **Advantages**: Minimal disturbance to bees, natural comb, good for cold climates (bees cluster at the top near warmth).
 - **Disadvantages**: Lower honey production, heavy boxes when full, less common equipment.
 
 **Recommendation for beginners**: Langstroth hives are the most practical choice due to standardized equipment, availability of supplies and education, and ease of management.
@@ -122,7 +121,7 @@ A vertical [[top-bar-hive]]. Boxes are added to the bottom (nadiring) rather tha
 - **Inspections**: Every 2-3 weeks. Check for queen, brood pattern, disease, and stores.
 
 ### Fall (September-November)
-- **Harvest honey**: Remove and extract honey supers before temperatures drop. Leave enough honey for winter (60-80 pounds [[query-how-do-i-grow-figs-in-cold-climates]], 40-60 pounds in mild climates).
+- **Harvest honey**: Remove and extract honey supers before temperatures drop. Leave enough honey for winter (60-80 pounds in cold climates, 40-60 pounds in mild climates).
 - **Varroa treatment**: Critical fall treatment to ensure healthy winter bees. Oxalic acid vaporization or glycerin strips are common treatments.
 - **Feeding**: Feed 2:1 sugar syrup (2 parts sugar : 1 part water) if stores are insufficient. Stop feeding when temperatures drop below 50°F.
 - **Reduce entrance**: Install entrance reducer for winter to prevent mice and cold drafts.
@@ -144,7 +143,32 @@ The most serious threat to honey bees worldwide. Mites feed on adult bees and br
 
 ### Small Hive Beetle (Aethina tumida)
 Beetles that lay eggs in hives. Larvae tunnel through comb, defecating and fermenting honey, which runs out of the hive.
-**Management**: Maintain strong colonies that can [[query-how-do-plants-defend-themselves-chemically]]. Beetle traps (oil traps, beetle blasters). Keep apiary clean and remove debris.
+**Management**: Maintain strong colonies that can defend themselves. Beetle traps (oil traps, beetle blasters). Keep apiary clean and remove debris.
 
 ### Wax Moths
 Larvae that destroy comb, especially in weak colonies or stored equipment.
+**Management**: Maintain strong colonies. Freeze stored frames for 48 hours before storage. Store supers with paradichlorobenzene (PDB) crystals (not mothballs).
+
+### Swarming
+Natural colony reproduction — the old queen and half the bees leave to establish a new colony. Swarming reduces your honey production and the parent colony.
+
+**Prevention**: Provide adequate space (add supers early). Requeen annually with young queens. Remove queen cells during inspections. Create artificial swarms (splits) to manage colony expansion.
+
+## Honey Harvest
+
+1. **Remove supers**: Clear bees from honey supers using a bee escape board, bee brush, or fume board.
+2. **Uncap**: Remove the wax cappings from honeycomb frames using a hot knife or uncapping fork.
+3. **Extract**: Place frames in a honey extractor and spin to fling honey out of the comb by centrifugal force.
+4. **Filter and bottle**: Strain honey through a coarse filter or cheesecloth. Bottle in clean, dry jars.
+5. **Store**: Honey never spoils. Store at room temperature. Do not refrigerate (crystallization). If honey crystallizes, gently warm the jar in a water bath to reliquefy.
+
+## See Also
+
+- [[companion-planting-reference]] — Planting for bee forage
+- [[food-forest-design]] — Creating pollinator habitat in food forests
+- [[fruit-tree-pruning]] — Fruit trees benefit from bee pollination
+- [[homesteading]] — Beekeeping as a homestead enterprise
+
+## Related
+
+- [[bee-products-beyond-honey]]

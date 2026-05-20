@@ -4,7 +4,7 @@ created: 2026-04-28
 updated: 2026-04-28
 type: concept
 tags: [mycology, psychedelic-therapy, psychology, consciousness]
-sources: []
+sources: [raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 
 ## Psychedelic Psychotherapy

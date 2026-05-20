@@ -1,4 +1,5 @@
 ---
+
 title: Integrated Homestead Design
 created: 2026-04-11
 updated: 2026-04-12
@@ -26,7 +27,7 @@ sources:
 contradictions: []
 ---
 
-## Integrated Homestead Design
+# Integrated Homestead Design
 
 The capstone synthesis of this wiki — how every system on the regenerative homestead connects, feeds, and supports every other. A well-designed homestead is not a collection of independent operations but a closed-loop ecosystem where the output of one system is the input of another. See [[integrated-homestead-annual-calendar]] for the seasonal detail.
 
@@ -144,3 +145,44 @@ How systems distribute across permaculture zones (see [[permaculture-design]]):
 | [[pond-and-aquaculture]] | [[duck-keeping]] | Ducks control mosquitoes, fertilize pond |
 | [[knf-preparations]] | [[goat-keeping]] | Milk→LAB, bones→WS-CaPo, manure→FMC |
 | [[cover-cropping-guide]] | [[pasture-management]] | Cover crops double as grazing |
+| [[dairy-and-cheesemaking]] | [[lactic-acid-bacteria-lab]] | Same LAB for cheese and KNF |
+
+## The 80/20 Integration Priorities
+
+If you can only close a few loops, these have the highest impact:
+
+1. **Animal manure → compost → garden** — Eliminates purchased fertilizer. Set up [[composting-systems]] before animals.
+2. **Kitchen scraps → bokashi/vermicompost → soil** — Closes the waste loop. [[bokashi]] handles what [[vermicomposting]] can't.
+3. **Rainwater → garden/animals** — Reduces well dependence 30-60%. ([[water-management]])
+4. **Cover crops → nitrogen + organic matter** — Free fertilizer. Never leave soil bare. ([[cover-cropping-guide]])
+5. **Ducks in garden rotation** — Chemical-free pest control. ([[duck-keeping]], [[cannabis-pest-management]])
+6. **Mushrooms on waste substrate** — Straw/sawdust → food + compost input. ([[mushroom-cultivation-basics]])
+7. **KNF inputs from on-farm materials** — Self-made from weeds, eggshells, fish, rice. ([[knf-preparations]])
+
+## Startup Sequence
+
+1. **Water** ([[homestead-water-systems]], [[water-management]])
+2. **Compost** ([[composting-systems]], [[vermicomposting]])
+3. **Animals** ([[duck-keeping]] first, then [[goat-keeping]])
+4. **KNF/EM** ([[indigenous-microorganisms-imo]], [[knf-preparations]], or [[jadam-methods]])
+5. **Garden & food forest** ([[no-till-gardening-method]], [[food-forest-design]], [[orchard-management]])
+6. **Mushrooms** ([[mushroom-cultivation-basics]])
+7. **Cannabis** ([[cannabis-living-soil-guide]])
+8. **Dairy** ([[dairy-and-cheesemaking]])
+9. **Bees** ([[beekeeping-basics]])
+10. **Pond** ([[pond-and-aquaculture]])
+
+See [[homestead-startup-checklist]] for detailed phased plan with budgets. See [[integrated-homestead-annual-calendar]] for seasonal integration details.
+
+## Measuring Integration Success
+
+| Metric | Beginner | Intermediate | Advanced |
+|--------|----------|--------------|----------|
+| External fertilizer | 100% | 10-30% | Near zero |
+| Kitchen waste → compost | 0% | 50% | 95%+ |
+| Animal feed on-farm | 0% | 20-40% | 60%+ |
+| Irrigation from rain/pond | 0% | 30-50% | 70%+ |
+| KNF inputs self-made | 0% | 50% | 90%+ |
+| Cover crops on bare soil | 0% | 50% | 90%+ |
+
+The goal: reducing external inputs while increasing yields, soil health, and ecosystem function. See [[regenerative-agriculture-history]] and [[permaculture-principles]]. See [[permaculture-zones-in-practice]] for zone-by-zone element placement details. See [[permaculture-design-methods]] for the full analytical design process, [[keyline-design]] for landscape water management, and [[edge-effect-and-microclimate]] for maximising productivity at system boundaries.

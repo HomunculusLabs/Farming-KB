@@ -9,13 +9,13 @@ sources: []
 
 ## Overview
 
-A dedicated grow room provides controlled environmental conditions for [[mushroom-cultivation]] at scale. While a single monotub can be managed in a closet or spare room, growers running multiple tubs or bags benefit from a purpose-built space that maintains stable temperature, humidity, and fresh air exchange. Good grow room design reduces daily maintenance, improves consistency, and maximizes yields.
+A dedicated grow room provides controlled environmental conditions for mushroom cultivation at scale. While a single monotub can be managed in a closet or spare room, growers running multiple tubs or bags benefit from a purpose-built space that maintains stable temperature, humidity, and fresh air exchange. Good grow room design reduces daily maintenance, improves consistency, and maximizes yields.
 
 ## Environmental Parameters
 
 ### Temperature
 
-[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] thrives at 70-78F (21-26C) during both colonization and fruiting. Temperature requirements:
+Psilocybe cubensis thrives at 70-78F (21-26C) during both colonization and fruiting. Temperature requirements:
 
 - **Colonization**: 75F (24C) is optimal. Temperatures above 80F promote bacterial growth without significantly speeding mycelial growth. Below 65F, colonization slows dramatically.
 - **Fruiting**: 70-75F (21-24C) is ideal. A slight drop from colonization temperature (3-5 degrees) can help trigger fruiting.
@@ -24,7 +24,7 @@ A dedicated grow room provides controlled environmental conditions for [[mushroo
 ### Humidity
 
 - **Colonization**: Ambient humidity is fine (40-60%). Jars and tubs maintain their own internal humidity.
-- **Fruiting**: 85-95% relative humidity is required for proper [[acropetal-cell-expansion-stipe-elongation-mushroom-development]]. The monotub's internal humidity is maintained by the substrate moisture and evaporation, supplemented by misting.
+- **Fruiting**: 85-95% relative humidity is required for proper mushroom development. The monotub's internal humidity is maintained by the substrate moisture and evaporation, supplemented by misting.
 - **Grow room ambient**: Maintaining 50-60% ambient humidity in the grow room reduces substrate moisture loss and lessens the need for misting.
 
 ### Fresh Air Exchange (FAE)
@@ -120,7 +120,7 @@ A dedicated grow room provides controlled environmental conditions for [[mushroo
 
 ## Automation
 
-- **Inkbird or similar controllers**: Dual-stage [[greg-green-temperature-and-humidity-control]] controllers can automate heaters and humidifiers.
+- **Inkbird or similar controllers**: Dual-stage temperature and humidity controllers can automate heaters and humidifiers.
 - **Timers**: For lighting (12/12), humidifiers (on/off cycles), and fans.
 - **Smart plugs**: WiFi-enabled plugs allow remote monitoring and control via smartphone.
 - **Data logging**: Some hygrometers log temperature and humidity over time, useful for identifying patterns and problems.

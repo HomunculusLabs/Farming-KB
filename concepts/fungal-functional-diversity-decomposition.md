@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 ## Fungal Functional Diversity in Decomposition Fungal functional diversity in decomposition encompasses the range of enzymatic capabilities, substrate preferences, and ecological strategies that fungi employ to break down organic matter. Understanding functional diversity is essential for predicting ecosystem-level decomposition processes. fungal-functional-diversity [[coprophilous-fungi]] [[fungal-decomposition-succession-resource-quality]] [[brassinosteroid-fungal-growth-promotion]] in general and may affect diversity because fungi vary in their tolerances to water stress.
 

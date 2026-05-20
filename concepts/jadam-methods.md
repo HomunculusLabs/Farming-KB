@@ -1,4 +1,5 @@
 ---
+
 title: JADAM Methods — Ultra-Low-Cost Organic Farming
 created: 2026-04-10
 updated: 2026-04-13
@@ -19,7 +20,7 @@ sources:
 - raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md
 ---
 
-## JADAM Methods
+# JADAM Methods
 
 JADAM (Jayondamul Agac Yeongu Moe) is an organic farming system developed by Youngsang Cho in South Korea. Its core principle: all inputs are self-made from locally available materials at near-zero cost. The goal is $100/acre/year total input cost. JADAM shares [[knf-preparations]] philosophy but uses different recipes and emphasizes ultra-low-cost pest control.
 
@@ -144,3 +145,4 @@ Both systems are compatible — many growers combine techniques from both.
 
 - [[knf-vs-jadam-vs-em]] — comparison
 - [[water-soluble-potassium-wp]]
+- [[natural-farming-pest-management]]

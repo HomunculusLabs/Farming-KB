@@ -1,7 +1,7 @@
 ---
 title: "Ayahuasca Commercial Vs Authentic Ceremony Dynamics"
 tags: []
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 The ceremony serves multiple functions: healing

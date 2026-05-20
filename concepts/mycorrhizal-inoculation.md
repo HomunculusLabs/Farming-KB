@@ -5,11 +5,11 @@ updated: 2026-04-12
 type: concept
 tags: [soil, mycorrhizae, fungi, plant-growth, inoculation]
 sources:
-  - "raw/papers/lowenfels-teaming-with-microbes.md"
+  - raw/papers/lowenfels-teaming-with-microbes.md
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 ---
 
-## Mycorrhizal Inoculation
+# Mycorrhizal Inoculation
 
 ## Overview
 
@@ -99,22 +99,3 @@ Mycorrhizal fungi are ubiquitous in established natural systems and usually only
 - [[soil-food-web-structure]]
 - [[root-exudates]]
 - [[compost-tea-recipe-guide]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-See also [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] and mycorrhizal inoculation for related information.Related topics include [[aact-forest-litter-fungi-mycorrhizal-ingham]] and associated practices.
-Selecting appropriate inoculant species matched to local soil conditions and host

@@ -7,7 +7,7 @@ tags: [mushrooms, biology, medicine]
 sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 ---
 
-## Mushroom Toxicology — Palmer's Theory
+# Mushroom Toxicology — Palmer's Theory
 
 Julius Palmer's pioneering (if partially mistaken) theory of fungal poison absorption, based on self-experimentation and case reports from "About Mushrooms" (1894).
 
@@ -30,7 +30,7 @@ Palmer proposed that fungal toxins work by **absorption** rather than digestion:
 
 1. **Intestinal absorption**: The alkaloid enters the system through the villi of the intestinal canal. "Were we to remove every vestige of the mushroom, the system might possibly be left so charged with poison as to refuse to rally."
 
-2. **Cross-contamination**: Edible mushrooms absorb the properties of poisonous ones when stored together. "If edible and noxious toadstools be gathered together, the former will absorb the properties of the latter." He proved this by personal experience — eating common mushrooms that had been in a box with decomposing [[coprinus-deliquescens]] caused immediate symptoms.
+2. **Cross-contamination**: Edible mushrooms absorb the properties of poisonous ones when stored together. "If edible and noxious toadstools be gathered together, the former will absorb the properties of the latter." He proved this by personal experience — eating common mushrooms that had been in a box with decomposing Coprinus deliquescens caused immediate symptoms.
 
 3. **Dermal absorption**: "An Amanita held in the closed hand will produce all the symptoms of poisoning, even to convulsions." He experienced nausea from holding Amanitas in a warm, perspiring hand while traveling in a closed railway car.
 
@@ -60,7 +60,7 @@ Palmer correctly noted that one case survivor used vinegar on the toadstool befo
 - Absorption (not just ingestion) of fungal toxins is real
 
 **Where Palmer was mistaken:**
-- His "Amanitine" conflated muscarine (A. muscaria), amatoxins (A. phalloides), and [[ibotenic-acid]]/muscimol — different toxins with different mechanisms
+- His "Amanitine" conflated muscarine (A. muscaria), amatoxins (A. phalloides), and ibotenic acid/muscimol — different toxins with different mechanisms
 - Atropine antagonizes muscarine but not amatoxins (the truly deadly compounds)
 - Dermal absorption of amatoxins is not medically established
 - The "vinegar antidote" is not reliable
@@ -83,39 +83,4 @@ Palmer observed that animal susceptibility to mushroom toxins does not correlate
 
 "Because a mushroom is eaten with impunity by the lower animals it by no means follows that it is fit for the food of man."
 
-See also: [[amanita-muscaria]] | [[amanita-muscaria-preparation-methods]] | [[nineteenth-century-mushroom-identification]] | [[julius-palmer]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-Field trials provide essential data for validating theoretical approaches and refining methodologies.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-Peer-reviewed publications and practitioner reports contribute complementary perspectives.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-Regional networks and demonstration sites play crucial roles in technology transfer.
-
-## Implementation Notes
-Start with small-scale trials before expanding to larger operations.
-Maintain detailed records of conditions, inputs, and outcomes for iterative refinement.
-Regular review and adjustment of strategies based on observed results ensures continuous improvement.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.
+See also: [[amanita-muscaria-guide]] | [[amanita-preparation-methods]] | [[nineteenth-century-mushroom-identification]] | [[julius-palmer]]

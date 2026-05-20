@@ -108,7 +108,7 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]
 - [[mazatec-mushroom-tradition]]
 - [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]]
 - [[munn-mazatec-mushroom-oracular-cure]]

@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [composting, compost, homesteading, sustainability, off-grid, water-management, safety, microbes]
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+sources: []
 ---
 
 ## Overview
 
-A sawdust toilet is a simple, waterless [[comparison-biogas-vs-composting-toilet]] system that collects human waste in a container, covering each deposit with a carbon-rich cover material like sawdust, peat moss, or shredded leaves. The contents are later transferred to an outdoor compost bin where thermophilic decomposition renders the material safe for agricultural use.
+A sawdust toilet is a simple, waterless composting toilet system that collects human waste in a container, covering each deposit with a carbon-rich cover material like sawdust, peat moss, or shredded leaves. The contents are later transferred to an outdoor compost bin where thermophilic decomposition renders the material safe for agricultural use.
 
 ## How It Works
 
@@ -47,12 +46,12 @@ Avoid pressure-treated wood sawdust, glossy paper, or materials with chemical co
 
 ## The Compost Bin
 
-Once a bucket is full, its contents are deposited into a compost bin outdoors. Key [[aact-brewer-design-principles-aeration-systems-ingham]]:
+Once a bucket is full, its contents are deposited into a compost bin outdoors. Key design principles:
 
 - **Size** — Minimum 4x4x4 feet for a single household. Two bins are ideal so one can cure while the other fills.
 - **Construction** — Wire mesh, wooden pallets, or cinder blocks with open bottoms for drainage and earthworm access.
 - **Layering** — Empty bucket contents, then add a thick layer of coarse carbon material (straw, leaves, wood chips) on top.
-- **Moisture** — The pile should be as damp as a wrung-out sponge. Too wet creates [[aact-ph-and-anaerobic-conditions]]; too dry slows decomposition.
+- **Moisture** — The pile should be as damp as a wrung-out sponge. Too wet creates anaerobic conditions; too dry slows decomposition.
 - **Aeration** — The pile benefits from periodic turning or from incorporating bulky materials that create air channels.
 
 ## Thermophilic Process
@@ -72,7 +71,7 @@ The primary health concern is destroying human pathogens. Key facts:
 
 - **Temperature threshold** — Most pathogens are killed at 122F held for 24 hours. A margin of safety targets 131F for several days.
 - **Time factor** — Even without sustained high temperatures, compost that cures for 12-24 months is generally safe due to microbial competition and predation.
-- **[[comparison-primary-vs-secondary-succession]] treatment** — The toilet bucket is primary containment. The compost bin is secondary treatment. Neither stage alone is sufficient; the full process is what makes it safe.
+- **Primary vs secondary treatment** — The toilet bucket is primary containment. The compost bin is secondary treatment. Neither stage alone is sufficient; the full process is what makes it safe.
 - **Testing** — Home composters can send samples to labs for fecal coliform testing if desired, but proper management makes this unnecessary in practice.
 
 ## What Not to Compost
@@ -92,33 +91,8 @@ The primary health concern is destroying human pathogens. Key facts:
 
 ## Relationship to Other Systems
 
-A sawdust toilet integrates with broader off-grid [[community-recycling-waste-management]]. See [[humanure-composting-systems]] for the Jenkins method in detail and [[greywater-systems-detailed]] for handling sink and shower water separately. The finished compost feeds back into [[fukuoka-soil-building-method]] and [[composting-methods-comparison]] garden fertility programs.
+A sawdust toilet integrates with broader off-grid waste management. See [[humanure-composting-systems]] for the Jenkins method in detail and [[greywater-systems-detailed]] for handling sink and shower water separately. The finished compost feeds back into [[fukuoka-soil-building-method]] and [[composting-methods-comparison]] garden fertility programs.
 
 ## Legal Considerations
 
-[[humanure-composting]] is legally restricted or regulated in many jurisdictions. Some areas prohibit it outright; others allow it under specific conditions (e.g., minimum composting times, distance from water sources, no food crop application). Always check local regulations before implementing a system. The finished compost integrates into [[fukuoka-soil-building-method]] and [[composting-methods-comparison]] practices on the homestead.
-## Practical Applications
-The principles discussed here have direct applications across diverse ecological and agricultural contexts.
-Practitioners have demonstrated successful implementation across varied climates and conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-
-## Integration Strategies
-Successful implementation draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from small plots to broadacre systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement.
-
-## Implementation Notes
-Start with small-scale trials before expanding to larger operations.
-Maintain detailed records for iterative refinement of methods and strategies.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.
+Humanure composting is legally restricted or regulated in many jurisdictions. Some areas prohibit it outright; others allow it under specific conditions (e.g., minimum composting times, distance from water sources, no food crop application). Always check local regulations before implementing a system. The finished compost integrates into [[fukuoka-soil-building-method]] and [[composting-methods-comparison]] practices on the homestead.

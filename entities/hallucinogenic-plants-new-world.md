@@ -1,4 +1,5 @@
 ---
+
 title: Golden Guide — Hallucinogenic Plants of the New World
 created: 2026-04-12
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
 - raw/papers/a-golden-guide-to-hallucinogenic-plants.md
 ---
 
-## Hallucinogenic Plants of the New World
+# Hallucinogenic Plants of the New World
 
 Based on [[richard-evans-schultes-updated]]'s Golden Guide. The New World has far more hallucinogenic species in active cultural use (90+) than the Old World (15-20). This disparity is not explained by botanical distribution — Old World plants like Cannabis and Amanita have been largely abandoned for hallucinogenic use. See hallucinogenic plants new world for Old World species.
 
@@ -142,4 +143,38 @@ Based on [[richard-evans-schultes-updated]]'s Golden Guide. The New World has fa
 - **Distribution**: Endemic to Sierra Mazateca, Oaxaca, Mexico; found only in a few localities at 1000-1800 ft elevation
 - **Use**: Used by Mazatec curanderos for divination and healing. Called "ska María Pastora" (leaves of Mary the Shepherdess). Often used as a substitute when psilocybin mushrooms are unavailable. See [[salvia-divinorum]]
 - **Chemistry**: Salvinorin A (neoclerodane diterpene) — the first non-alkaloid, non-nitrogenous plant hallucinogen known (before cannabinoid mechanisms were fully understood). Not a tryptamine, ergoline, or tropane. Discovered as psychoactive in the 1960s by Wasson; chemical structure identified by Ortega et al. (1982); salvinorin A isolated by Valdes (1994)
-- **Cultivation**: Propagated vegetatively; rarely sets seed. Propagated from cuttings
+- **Cultivation**: Propagated vegetatively; rarely sets seed.极易 propagated from cuttings
+
+---
+
+## Piperaceae
+
+### Jurema — Mimosa hostilis Benth.
+- **Synonyms**: Mimosa tenuiflora
+- **Distribution**: Northeast Brazil; also found in Central America
+- **Use**: Used in Brazilian northeast as "vinho de jurema" (jurema wine) for ceremonial purposes. Recent revival of use in ayahuasca analogs
+- **Chemistry**: DMT in root bark (up to 1%)
+
+---
+
+## Beans and Seeds (Quinolizidine Alkaloids)
+
+### Mescal Bean — Sophora secundiflora (Ortega) Lagasca ex DC.
+- **Family**: Leguminosae
+- **Distribution**: Texas, New Mexico, northern Mexico
+- **Use**: Important in Plains Indian and southwestern US tribal ceremonies (peyote substitute in some cases). The "red bean" or "mescal bean" was used before peyote spread northward; the word "mescal" was originally applied to this bean, not the cactus
+- **Chemistry**: Cytisine (a toxic quinolizidine alkaloid). Though used ceremonially, its hallucinogenic properties are not well demonstrated; may have been used for its stimulant or purgative effects
+
+---
+
+## See Also
+
+- hallucinogenic plants new world — Old World species profiles
+- [[hallucinogenic-plant-chemistry]] — chemical taxonomy
+- hallucinogenic plants new world — overview and cross-cultural analysis
+- [[richard-evans-schultes-updated]] — author and ethnobotanist
+- [[ayahuasca-preparation]] — detailed ayahuasca methodology
+- [[salvia-divinorum]] — Salvia profile
+- [[dmt-reference]] — DMT pharmacology
+- [[mescaline-reference]] — mescaline pharmacology
+- [[psychedelic-compounds-reference]] — modern compound reference

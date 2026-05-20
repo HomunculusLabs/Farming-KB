@@ -22,7 +22,7 @@ sources:
 
 ## Psilocybe huautla
 
-**Psilocybe huautla** is a [[maria-sabina-and-mazatec-mushroom-ceremony]] use — this species is deeply intertwined with the [[maria-sabina]] first introduced psilocybin mushrooms to the wider world through ceremonies attended by R. Gordon Wasson in 1955. The Mazatec name for these mushrooms is *nti xí tho* ("the little ones that spring forth"), though they are more broadly known under the Nahuatl-derived term *teonanácatl* ("flesh of the gods").
+**Psilocybe huautla** is a [[maria-sabina-mazatec-mushroom-ceremony]] use — this species is deeply intertwined with the [[maria-sabina]] first introduced psilocybin mushrooms to the wider world through ceremonies attended by R. Gordon Wasson in 1955. The Mazatec name for these mushrooms is *nti xí tho* ("the little ones that spring forth"), though they are more broadly known under the Nahuatl-derived term *teonanácatl* ("flesh of the gods").
 
 Phylogenetic analysis places *P. huautla* within the *Psilocybe caerulescens* complex of section *Mexicanae*, closely related to *P. caerulescens*, *P. mexicana*, and *P. ochraceocentrata*. It was distinguished from similar species through careful morphological comparison and ITS rDNA sequencing.
 

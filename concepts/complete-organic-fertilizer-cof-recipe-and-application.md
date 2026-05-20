@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The [[complete-organic-fertilizer]] (COF) is [[steve-solomon]]'s carefully formulated blend of organic amendments designed to provide vegetables with all essential major and trace minerals in balanced proportions. Unlike simple compost or manure, the COF addresses the specific mineral balance needed for maximum nutritional quality in harvested vegetables.
+The [[complete-organic-fertilizer-cof]] (COF) is [[steve-solomon]]'s carefully formulated blend of organic amendments designed to provide vegetables with all essential major and trace minerals in balanced proportions. Unlike simple compost or manure, the COF addresses the specific mineral balance needed for maximum nutritional quality in harvested vegetables.
 
 ## Why COF Instead of Compost or Manure Alone
 

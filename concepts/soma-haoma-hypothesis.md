@@ -57,7 +57,7 @@ scholarship to the question. His argument drew on multiple lines of evidence:
    mountains, which matches the habitat of [[allegro-amanita-muscaria-properties-and-pharmacology]], a boreal-montane
    species
 
-2. **[[amanita-muscaria-preparation-methods]]**: The pressing of Soma between stones parallels the
+2. **[[amanita-preparation-methods]]**: The pressing of Soma between stones parallels the
    [[kava-traditional-preparation-ceremonial-context]] of Amanita
 
 3. **Color descriptions**: Soma is described as "fiery," "tawny," and

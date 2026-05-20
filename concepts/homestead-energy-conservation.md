@@ -7,7 +7,7 @@ tags: [homesteading, sustainability, engineering, construction, beginner]
 sources: []
 ---
 
-## Homestead Energy Conservation
+# Homestead Energy Conservation
 
 Energy conservation is the practice of reducing energy consumption through design, efficiency improvements, and behavioral changes. For off-grid or grid-tied homesteaders, conservation is the first and most cost-effective strategy — every watt saved is a watt that doesn't need to be generated, stored, or purchased. The cheapest energy is the energy you never use.
 
@@ -35,7 +35,7 @@ Materials that absorb, store, and slowly release heat:
 - Concrete floors and walls
 - Stone and brick
 - Tile
-- [[pdc-earthen-construction-techniques]] (cob, adobe, [[rammed-earth]])
+- Earthen construction (cob, adobe, rammed earth)
 
 **How it works**: Sun heats thermal mass during the day; mass releases heat slowly at night, moderating indoor temperature swings.
 
@@ -134,7 +134,7 @@ Water heating accounts for 15-25% of home energy use:
 - **Solar ovens**: Reach 250-350°F on sunny days, zero fuel
 - **Pressure cookers**: Reduce cooking time and fuel by 60-70%
 - **Haybox cooking**: Bring to boil, insulate, let residual heat finish cooking
-- **[[rocket-stoves-and-efficient-wood-burning-design]]**: Very efficient wood combustion for cooking
+- **Rocket stoves**: Very efficient wood combustion for cooking
 - **Thermal cookware**: Vacuum-insulated pots maintain temperature without fuel
 
 ## Water Conservation
@@ -142,8 +142,57 @@ Water heating accounts for 15-25% of home energy use:
 Saving water saves energy (pumping, heating, treating):
 
 - Low-flow showerheads: 1.5 GPM vs standard 2.5 GPM
-- Dual-flush toilets or [[comparison-composting-toilets-vs-greywater-systems-detailed]]
+- Dual-flush toilets or composting toilets
 - Fix all leaks immediately (a dripping faucet wastes 3000+ gallons/year)
-- [[greywater-recycling-drylands]] for irrigation (see [[graywater-systems]])
-- [[comparison-drip-irrigation-vs-rainwater-harvesting]] reduces well pump energy (see [[rainwater-harvesting-systems]])
+- Greywater recycling for irrigation (see [[graywater-systems]])
+- Rainwater harvesting reduces well pump energy (see [[rainwater-harvesting-systems]])
 - Mulch gardens heavily to reduce irrigation needs
+
+## Behavioral Changes
+
+- Turn off lights when leaving a room
+- Unplug chargers and electronics when not in use (phantom loads: 5-10% of total usage)
+- Run appliances during peak solar production (if solar-powered)
+- Batch cooking — cook multiple meals at once
+- Cold water laundry (modern detergents work fine)
+- Air dry dishes instead of using heated dry cycle
+- Monitor energy usage with a kill-a-watt meter or whole-house monitor
+
+## Phantom Loads
+
+Devices that consume power even when "off":
+
+| Device | Standby Power |
+|--------|--------------|
+| TV/cable box | 10-40W |
+| Computer (sleep) | 5-15W |
+| Microwave clock | 3-5W |
+- Phone charger (plugged in, no phone) | 0.1-0.5W |
+| Power strips (active) | 1-2W |
+| Router/modem | 5-12W |
+
+Solution: Smart power strips that cut power to devices when the control device is off.
+
+## Measuring and Monitoring
+
+- **Kill-a-watt meter**: $20-30, measures individual device consumption
+- **Whole-house monitor**: Track total usage in real-time (Sense, Emporia, Victron)
+- **Battery monitor**: Essential for off-grid systems (tracks state of charge)
+- **Monthly audit**: Track usage and identify reductions
+
+## Quick Wins (Low-Cost, High-Impact)
+
+1. Replace all bulbs with LED — $50, saves $100-200/year
+2. Weatherstrip exterior doors — $20, saves $50-100/year
+3. Caulk window frames — $10, saves $30-50/year
+4. Lower water heater to 120°F — Free, saves $30-60/year
+5. Use a clothesline — $10, saves $100-200/year
+6. Install low-flow showerheads — $15, saves $30-50/year
+7. Unplug phantom loads — Free, saves $50-100/year
+
+Total investment: ~$100-150. Annual savings: $400-700. Payback: 2-3 months.
+
+## See Also
+
+- [[off-grid-electricity-basics]] — System sizing and component selection
+- homestead energy conservation — Renewable energy generation

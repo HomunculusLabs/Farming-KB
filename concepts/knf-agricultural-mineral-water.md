@@ -1,4 +1,5 @@
 ---
+
 title: KNF Agricultural Mineral Water (AMW)
 created: 2026-04-11
 updated: 2026-04-12
@@ -18,7 +19,7 @@ sources:
 - raw/papers/master-cho-knf-recipe-book.md
 ---
 
-## KNF Agricultural Mineral Water (AMW)
+# KNF Agricultural Mineral Water (AMW)
 
 Agricultural Mineral Water is KNF's approach to creating vital, mineral-rich water for irrigation. It uses the waterfall principle — rocks and IMO #4 are combined in a flowing water system to produce water with abundant dissolved oxygen, minerals, and microorganisms. AMW replaces regular irrigation water with enhanced water that promotes plant growth and livestock health.
 
@@ -84,38 +85,8 @@ There is no special dilution — use AMW like regular water:
 
 ## See Also
 
-- [[knf-fmc-method-1-detailed]]
-- [[knf-fpj-usage-timing-contraindications]]
-- [[knf-imo-collection-methods]]
-- [[knf-large-scale-farming]]
-- [[knf-maltose-preparation]]
-- [[knf-teaching-methodology]]
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-
-## Integration Strategies
-Successful implementation often draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from backyard gardens to broadacre agricultural systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement of methods.
-## Practical Considerations
-Successful implementation requires attention to detail and adaptation to local conditions.
-Field experience and systematic observation remain the most reliable guides for practitioners.
-
-## Future Directions
-Emerging research continues to validate and refine traditional approaches.
-Integration with modern technology offers new possibilities for monitoring and optimization.
-
-These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.
+- [[knf-preparations]] — all KNF inputs overview
+- [[knf-mineral-liquid]] — Mineral Liquid types A-E for targeted applications
+- [[indigenous-microorganisms-imo]] — IMO #4 as microbial inoculant in AMW
+- [[knf-seawater-and-fermented-seawater]] — seawater as alternative mineral source
+- [[homestead-water-systems]] — broader water system design

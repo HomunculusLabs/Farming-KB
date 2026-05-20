@@ -1,5 +1,6 @@
 ---
-title: "Soil Fertility Management"
+
+title: Soil Fertility Management
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -19,9 +20,9 @@ sources:
 - raw/papers/gardening-when-it-counts-steve-solomon.md
 ---
 
-## Soil Fertility Management
+# Soil Fertility Management
 
-Steve Solomon's "Gardening When It Counts" provides a comprehensive framework for managing soil fertility, especially for low-input homestead gardeners who cannot afford or choose not to use [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]. The core thesis: you must understand the actual mineral needs of your crops and provide them systematically from organic or mineral sources.
+Steve Solomon's "Gardening When It Counts" provides a comprehensive framework for managing soil fertility, especially for low-input homestead gardeners who cannot afford or choose not to use synthetic fertilizers. The core thesis: you must understand the actual mineral needs of your crops and provide them systematically from organic or mineral sources.
 
 ## The Complete Organic Fertilizer (COF)
 
@@ -69,7 +70,7 @@ Solomon's signature contribution is a balanced, custom organic fertilizer recipe
 - Rock phosphate at 30% P2O5 is the standard slow-release source
 
 ### Potassium (K)
-- Essential for disease resistance, fruit quality, [[dighton-fungal-drought-tolerance-plant-water-relations]], cell wall strength
+- Essential for disease resistance, fruit quality, drought tolerance, cell wall strength
 - **Deficiency**: Weak stems, poor fruit quality, yellowing leaf edges
 - **Most soils have adequate K** — deficiency is less common than N or P
 - **Organic sources**: Wood ash, kelp meal, greensand, sulfate of potash (mined)
@@ -78,7 +79,7 @@ Solomon's signature contribution is a balanced, custom organic fertilizer recipe
 ## pH: The Master Variable
 
 ### Why pH Matters
-Soil pH (0-14 scale, 7 = neutral) determines [[ph-and-nutrient-availability-garden-soils]]. Most garden vegetables prefer slightly acid soil (pH 6.0-6.8). At the wrong pH, even abundant nutrients become "locked out" and unavailable to plants.
+Soil pH (0-14 scale, 7 = neutral) determines nutrient availability. Most garden vegetables prefer slightly acid soil (pH 6.0-6.8). At the wrong pH, even abundant nutrients become "locked out" and unavailable to plants.
 
 ### Key pH Relationships
 - **Below 5.5**: Aluminum and manganese become toxic; phosphorus, calcium, and magnesium become unavailable
@@ -106,7 +107,7 @@ Solomon cautions against relying on compost alone as a fertility source:
 - To supply adequate nitrogen from compost alone, you would need to apply impractical volumes (several inches per year)
 - **Best use of compost**: As a soil conditioner applied at 1/4-1/2 inch per year, plus the COF for actual nutrient supply
 - Compost from manure is more nutrient-dense than compost from yard waste only
-- See [[vermicomposting]] for worm-based [[composting-methods-comparison]]
+- See [[vermicomposting]] for worm-based composting methods
 
 ## The Importance of Calcium
 
@@ -130,7 +131,7 @@ Calcium is arguably the most underappreciated nutrient in home gardening:
 - Releases nutrients slowly through microbial decomposition
 
 ### Building Organic Matter
-- [[cover-cropping-guide]] with legumes adds both N [[mollison-humus-and-organic-matter-in-soils]]
+- [[cover-cropping-guide]] with legumes adds both N and organic matter
 - Incorporating crop residues (not removing them)
 - Applying compost at 1/4-1/2 inch annually
 - Green manures (grown and tilled in before maturity)
@@ -144,3 +145,53 @@ Calcium is arguably the most underappreciated nutrient in home gardening:
 ## Mineral Deficiencies: Visual Diagnosis
 
 | Symptom | Likely Deficiency |
+|---------|-------------------|
+| Pale/yellowing older leaves first | Nitrogen |
+| Purplish tinge on leaves/stems | Phosphorus |
+| Yellowing leaf edges (margins) | Potassium |
+| Blossom end rot (tomatoes) | Calcium |
+| Interveinal chlorosis (yellow between veins) | Iron (if soil is alkaline) or Magnesium |
+| Stunted, bushy growth | Zinc |
+| Heart rot in beets, hollow stem in cauliflower | Boron |
+| Death of growing tip | Calcium or Boron |
+
+## Fertilizing by Crop Type
+
+### Heavy Feeders (need full COF rate)
+- Tomatoes, peppers, eggplant, corn, brassicas (cabbage, broccoli), onions, garlic, potatoes
+
+### Medium Feeders (moderate needs)
+- Beans, peas, lettuce, spinach, carrots, beets, Swiss chard
+
+### Light Feeders (minimal fertilization)
+- Herbs, radishes, turnips, most greens when intercropped with heavy feeders
+
+### Legume Exception
+- Beans and peas (when inoculated with Rhizobium bacteria) fix atmospheric nitrogen
+- They still need phosphorus and potassium — use COF but omit or reduce the seed meal portion
+- The nitrogen they fix becomes available to subsequent crops through root decomposition
+
+## Long-Term Fertility Strategy
+
+1. **Start with a soil test** — know your baseline pH, NPK, calcium, and organic matter percentage
+2. **Correct pH first** — if pH is wrong, plants can't access nutrients regardless of how much you add
+3. **Apply COF** at full rate for initial beds, side-dress heavy feeders during growth
+4. **Add compost** at 1/4-1/2 inch annually as a soil conditioner
+5. **Use cover crops** in fall/winter to prevent erosion and add organic matter
+6. **Rotate crop families** to prevent disease buildup and balance nutrient demands
+7. **Retest every 2-3 years** and adjust — soils change over time
+8. **Mulch** to retain moisture, suppress weeds, and add organic matter as it breaks down
+
+## Related Pages
+- [[soil-food-web-nutrient-cycling]]
+- [[vermicomposting]]
+- [[cover-cropping-guide]]
+- [[no-till-gardening-method]]
+- [[regenerative-agriculture-history]]
+- [[permaculture-principles]]
+- [[conventional-vs-organic-vs-regenerative]] — comparison
+- [[cover-crop-quick-reference]] — quick reference
+- [[organic-nutrients-vs-synthetic-nutrients]] — comparison
+- [[soil-amendment-reference]] — comprehensive amendment quick-reference by nutrient
+- [[organic-fertilizer-recipes]]
+- [[fertilizer-npk-decoded]]

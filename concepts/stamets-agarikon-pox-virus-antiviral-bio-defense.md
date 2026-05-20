@@ -31,7 +31,7 @@ cultures were then screened through the BioShield program.
 
 Specially prepared extracts from living mycelium showed potent activity against
 vaccinia pox and cowpox viruses. Strains of agarikon varied in their potency,
-suggesting that [[amanita-muscaria-preparation-methods]] would not capture the active constituents. Only carefully
+suggesting that [[amanita-preparation-methods]] would not capture the active constituents. Only carefully
 prepared extracts from living mycelial cultures demonstrated the antiviral
 effect.
 

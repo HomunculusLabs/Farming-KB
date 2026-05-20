@@ -44,7 +44,7 @@ Once clay has been capped with loam topsoil, annual management reduces to 2–3 
 - Ready-to-till test
 - Plow pan
 - Combination shovel
-- [[complete-organic-fertilizer]] (COF)
+- [[complete-organic-fertilizer-cof]] (COF)
 - Soil structure
 
 ## Soil Health Context

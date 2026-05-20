@@ -8,7 +8,7 @@ sources:
   - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 ---
 
-## Mycoremediation of Polycyclic Aromatic Hydrocarbons (PAHs)
+# Mycoremediation of Polycyclic Aromatic Hydrocarbons (PAHs)
 
 PAHs are a group of over 100 different organic compounds containing two or more fused benzene rings. They are among the most widespread and hazardous environmental contaminants, produced by incomplete combustion of organic matter (fossil fuels, wood, tobacco) and found at creosote sites, gasworks, and former industrial facilities. See [[mycoremediation-basics]] for the general framework.
 
@@ -141,10 +141,34 @@ Synergistic degradation occurs when fungi and bacteria work together:
 - Co-cultures of P. chrysosporium with Pseudomonas showed enhanced mineralization rates
 - Fungal mycelium also provides surface area for bacterial biofilm formation
 
+## Factors Affecting PAH Degradation
+
+- **Molecular weight**: Lower MW PAHs (2-3 rings) degrade faster than higher MW (4-5 rings)
+- **Bioavailability**: PAHs adsorb to soil organic matter; bioavailability decreases with aging
+- **Nutrient limitation**: White-rot fungi produce ligninolytic enzymes under nitrogen limitation (C:N ratio > 40)
+- **Oxygen**: Aerobic conditions required; ligninolytic enzymes need H2O2
+- **Surfactants**: Addition of surfactants (Tween 80) can increase PAH bioavailability
+- **Temperature**: Optimal 25-30C for most species
+- **pH**: Near-neutral pH (5.5-7) for most applications
+
+## Field Applications
+
+- **Creosote-contaminated sites**: White-rot fungi inoculated on wood chips or straw; monitored over months
+- **Former gasworks**: PAH-contaminated soil treated with fungal inoculation and nutrient amendment
+- **Oil spill sites**: Oyster mushroom (P. ostreatus) mycelium deployed on contaminated soil; PAHs degraded alongside petroleum hydrocarbons
+
+## Monitoring and Assessment
+
+- **GC-MS**: Gas chromatography-mass spectrometry for PAH identification and quantification
+- **Mineralization assays**: Use of [14C]-labeled PAHs to measure CO2 evolution
+- **Toxicity testing**: Mutagenicity assays (Ames test) to confirm detoxification
+- **Enzyme assays**: Measure LiP, MnP, and laccase activity as indicators of fungal degradation
+
 ## See Also
 
-- [[singh-ecology-of-mycoremediation]]
-- [[factors-affecting-mycoremediation-efficiency]]
-- [[mycoremediation-heavy-metals]]
-- [[mycoremediation-site-assessment]]
-- [[mycoremediation-applications]]
+- [[mycoremediation-basics]] — General mycoremediation framework and enzyme systems
+- [[mycoremediation-of-oil-spills]] — Related petroleum contamination cleanup
+- [[mycoremediation-of-heavy-metals]] — Heavy metal biosorption
+- [[mycoremediation-pcbs-and-dioxins]] — PCB and dioxin degradation
+- [[mycorestoration-overview]] — Broader ecological restoration framework
+- [[harbhajan-singh]] — Comprehensive mycoremediation reference

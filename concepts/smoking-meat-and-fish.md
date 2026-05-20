@@ -141,10 +141,32 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 
 Cold smoking is riskier because food spends extended time in the danger zone:
 
-## See Also
+- Always cure with salt and nitrites before cold smoking
+- Monitor temperature; if it exceeds 90F, move product to cooler location
+- After smoking, products should lose 20-25% of original weight through moisture loss
+- Cold-smoked fish: 2-3 weeks refrigerated, 3-6 months frozen
+- Cold-smoked meats: 1-2 weeks refrigerated, 4-6 months frozen
 
-- [[comparison-smoking-vs-canning]]
-- [[faires-meat-processing-curing-and-smoking]]
-- [[blesching-cannabis-smoking-lung-pulmonary-effects]]
-- [[dmt-smoking-and-administration-methods]]
-- [[dmt-smoking-technique-and-preparation]]
+### Hot Smoking Safety
+
+- Use thermometer to verify safe internal temperatures
+- Refrigerate within 2 hours, consume within 3-4 days or freeze up to 6 months
+
+### Botulism Risk
+
+- Low oxygen + moderate temperatures + moisture creates botulism potential
+- Curing salts (Prague Powder #1) are the primary defense
+- Never cold-smoke uncured meat for extended periods
+- Discard any product with off-odor, slime, mold, or unusual color
+
+## Storage Guidelines
+
+- Hot-smoked fish: 3-4 days refrigerated, 2-3 months frozen
+- Cold-smoked salmon: 2-3 weeks refrigerated, 3-6 months frozen
+- Hot-smoked chicken: 3-4 days refrigerated, 4 months frozen
+- Bacon (cold smoked): 1-2 weeks refrigerated, 6 months frozen
+- Smoked jerky: 2-3 weeks refrigerated, 6 months frozen
+
+## Related Topics
+
+Smoking complements other preservation methods. See [[mason-jar-preserving-guide]] and [[pressure-canning-safety]] for jar-based preservation. For storing the fresh meat before smoking, see [[root-vegetable-storage-guide]] for general cold storage principles and [[food-preservation-canning]] for a comprehensive overview.

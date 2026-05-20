@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 ## Fungal Competition and Survival in Contaminated Soils One of the most significant obstacles to successful mycoremediation-field-applications-case-studies. ## The Competition Problem When [[ingham-bacterial-fungal-succession]]** -- in some cases, fungal-bacterial consortia show synergistic pollutant degradation, where fungi perform initial attack on complex molecules and bacteria complete mineralization.
 

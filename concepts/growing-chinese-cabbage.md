@@ -33,7 +33,7 @@ Breeders have not yet fully overcome the bolting trait. A variety that pretends 
 
 ### Fertility
 
-Consider Chinese cabbage a high-demand crop. COF ([[complete-organic-fertilizer]]) worked into the bed before sowing, plus side-dressing as plants grow, will support rapid head formation.
+Consider Chinese cabbage a high-demand crop. COF ([[complete-organic-fertilizer-cof]]) worked into the bed before sowing, plus side-dressing as plants grow, will support rapid head formation.
 
 ## Varieties
 

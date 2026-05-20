@@ -7,10 +7,10 @@ tags: [ducks, animal-husbandry, homesteading, livestock, byproducts, livestock-h
 sources: []
 ---
 
-## Duck Keeping
+# Duck Keeping
 
 Ducks are among the most practical and enjoyable poultry for the homestead.
-They lay large, rich eggs, provide excellent meat, [[query-how-to-control-pests-without-chemicals]], and
+They lay large, rich eggs, provide excellent meat, control pests, and
 fertilize gardens with their nitrogen-rich manure. Unlike chickens, ducks
 thrive on wet ground, forage aggressively for insects and slugs, and are
 generally more cold-hardy and disease-resistant.
@@ -44,7 +44,7 @@ generally more cold-hardy and disease-resistant.
 - **Swedish Blue** — 5-6.5 lbs. 130-180 eggs/year. Hardy, good foragers.
 
 ### Bantam and Ornamental
-- **Call Ducks** — Tiny, vocal, primarily ornamental. Good for [[cervantes-mealybugs-scale-insect-control]]
+- **Call Ducks** — Tiny, vocal, primarily ornamental. Good for insect control
   in gardens.
 - **Silver Appleyard** — 6-8 lbs. Good layers, good meat, beautiful.
 
@@ -87,7 +87,7 @@ generally more cold-hardy and disease-resistant.
 - Ducks are excellent foragers. On good pasture with a pond, they can meet
   30-50% of their nutritional needs.
 - They consume enormous quantities of slugs, snails, insects, and tadpoles.
-- Excellent [[insectary-plants-for-pest-control]] in gardens and orchards.
+- Excellent for pest control in gardens and orchards.
 - Duck foraging in rice paddies is a traditional Asian polyculture.
 - See [[pasture-management]] for integration with grazing systems.
 
@@ -107,7 +107,7 @@ generally more cold-hardy and disease-resistant.
 - Duck eggs are larger than chicken eggs (3-3.5 oz vs 2-2.5 oz).
 - Higher fat and protein content. Excellent for baking — richer texture,
   better rise.
-- Thicker shells, longer [[ingham-aact-holding-time-shelf-life-decay]] (up to 6 weeks refrigerated).
+- Thicker shells, longer shelf life (up to 6 weeks refrigerated).
 - Most breeds lay 200-300+ eggs per year.
 - Ducks lay primarily in the morning. Collect eggs daily.
 - Broodiness varies by breed. Muscovies are excellent setters. Most
@@ -117,13 +117,13 @@ generally more cold-hardy and disease-resistant.
 
 ## Foraging and Pest Control
 
-- One duck can consume hundreds of [[jadam-pesticide-for-slugs-and-snails]] per day.
+- One duck can consume hundreds of slugs and snails per day.
 - They effectively control mosquito larvae in ponds and water features.
 - Ducks in orchards eat fallen fruit (reducing pest habitat) and fertilize
   trees.
 - Integrate with [[integrated-homestead-design]] for maximum benefit.
 - Ducks can be used in rice paddies, cabbage fields, and vineyards for
-  [[integrated-pest-management]].
+  integrated pest management.
 - Avoid letting ducks near young vegetable seedlings — they will trample
   and eat them.
 
@@ -148,3 +148,39 @@ Ducks are generally hardy and disease-resistant compared to chickens.
 ### Common Issues
 - Bumblefoot — bacterial infection of foot pad. More common on rough or
   wire surfaces. Treat with Epsom salt soaks and antibiotic ointment.
+- Respiratory infections — prevent with good ventilation and dry bedding.
+  Ducks are sensitive to ammonia.
+- Botulism — from stagnant water or decaying organic matter. Provide clean
+  water. Treatment: antitoxin from vet.
+- Impacted crop — from eating long grass without water access. Ensure water
+  is always available with food.
+- Duck virus hepatitis — affects ducklings under 4 weeks. Vaccination
+  available.
+- Niemann-Pick disease (Angara disease) — genetic, no treatment.
+
+### Preventive Care
+- Clean water, dry bedding, good ventilation.
+- Biosecurity: quarantine new birds for 2 weeks. See
+  [[homestead-poultry-health]].
+- Regular observation: watch for lethargy, limping, ruffled feathers,
+  discharge from eyes/nares.
+- Apple cider vinegar in water (1 tbsp per gallon) supports general health.
+- Diatomaceous earth in bedding helps control external parasites.
+
+## Manure
+
+- Duck manure is "hot" — higher nitrogen than chicken manure. Must be
+  composted before garden use or it will burn plants.
+- Excellent addition to compost piles. Add carbon-rich material.
+- Duck pond water is a nutrient-rich liquid fertilizer when diluted.
+- Ducks on pasture improve soil fertility through manure distribution.
+- Integrate duck manure management with [[pasture-management]] systems.
+
+## Links
+
+- [[goat-husbandry]]
+- [[homestead-poultry-health]]
+- [[livestock-fencing-guide]]
+- [[pasture-management]]
+- [[integrated-homestead-design]]
+- [[quail-husbandry-detailed]]

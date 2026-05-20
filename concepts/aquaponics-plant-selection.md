@@ -7,7 +7,7 @@ tags: [aquaponics, plant-systems, cultivation, gardening, vegetables, water-mana
 sources: []
 ---
 
-## Aquaponics Plant Selection
+# Aquaponics Plant Selection
 
 Plant selection in aquaponics depends on system type (media bed, raft, NFT), nutrient density of the fish water, available light, and grower experience. Some plants thrive in the nutrient-rich, constantly moist aquaponic environment while others struggle. Matching plants to system conditions is key to productivity.
 
@@ -44,7 +44,7 @@ Root crops are challenging in aquaponics because dense media beds can restrict r
 
 ## Nutrient Needs by Plant Category
 
-The fish stocking density determines [[ph-and-nutrient-availability-garden-soils]] for plants. Match plant selection to nutrient levels:
+The fish stocking density determines nutrient availability for plants. Match plant selection to nutrient levels:
 
 -  **Low nutrient systems** (1-2 kg fish per 1000L water): Leafy greens, herbs, watercress. Ideal for goldfish or koi systems.
 -  **Medium nutrient systems** (3-5 kg fish per 1000L): Leafy greens plus peppers, cucumbers, beans, peas.
@@ -53,7 +53,7 @@ The fish stocking density determines [[ph-and-nutrient-availability-garden-soils
 Most nutrients are provided by fish waste converted through the nitrogen cycle. However, aquaponics systems commonly run low in:
 
 -  **Potassium** — Deficiency shows as yellowing leaf edges and poor fruit set. Supplement with potassium hydroxide (also raises pH) or kelp extract.
--  **Calcium** — Blossom end rot in tomatoes indicates [[knf-calcium-deficiency-symptoms]]. Add calcium hydroxide or [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]].
+-  **Calcium** — Blossom end rot in tomatoes indicates calcium deficiency. Add calcium hydroxide or calcium carbonate.
 -  **Iron** — Yellowing between leaf veins (interveinal chlorosis) indicates iron deficiency. Chelated iron (DTPA or EDTA) at 2-5 mg/L is the standard supplement.
 -  **Phosphorus** — Usually adequate from fish feed, but can be low in heavily planted systems. Rock phosphate is not soluble enough for direct application; use phosphoric acid (also lowers pH) if needed.
 
@@ -88,37 +88,12 @@ Most nutrients are provided by fish waste converted through the nitrogen cycle. 
 ## Common Problems
 
 -  **Nutrient deficiency** — Yellowing leaves, stunted growth, poor fruit set. Test water for iron, potassium, and calcium first. Supplement as needed.
--  **Pythium (root rot)** — Brown, slimy roots in warm water. Improve aeration, lower water temperature if possible, and ensure adequate biological filtration. [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] in healthy systems suppress pythium.
--  **Pest insects** — Aphids, whiteflies, and spider mites can move in quickly. Use neem oil, insecticidal soap, or introduce [[beneficial-insects-and-biological-pest-control]] (ladybugs, lacewings).
+-  **Pythium (root rot)** — Brown, slimy roots in warm water. Improve aeration, lower water temperature if possible, and ensure adequate biological filtration. Beneficial bacteria in healthy systems suppress pythium.
+-  **Pest insects** — Aphids, whiteflies, and spider mites can move in quickly. Use neem oil, insecticidal soap, or introduce beneficial insects (ladybugs, lacewings).
 -  **pH drift** — Nitrification produces acid, lowering pH over time. Monitor weekly and adjust with potassium carbonate or calcium carbonate as needed.
 
 ## Seasonal Planning
 
 In outdoor aquaponics, plant selection should follow seasonal temperature patterns. Pair cool-loving plants (lettuce, kale, spinach) with cold-water fish (trout) in cooler months. Switch to warm-loving plants (tomatoes, basil, peppers) with warm-water fish (tilapia) in summer. This seasonal rotation maximizes year-round production.
 
-See [[aquaponics-fish-species]] for matching fish to your climate and plant goals. Water management from [[rainwater-harvesting-systems]] can supplement system top-off water during dry periods. For [[botanical-pesticides-and-natural-pest-control]] in outdoor aquaponics, [[black-soldier-fly-composting]] systems can attract beneficial insects to the growing area.
-## Practical Applications
-The principles discussed here have direct applications across diverse ecological and agricultural contexts.
-Practitioners have demonstrated successful implementation across varied climates and conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-
-## Integration Strategies
-Successful implementation draws on multiple complementary approaches working in concert.
-Scale-appropriate solutions range from small plots to broadacre systems.
-Knowledge sharing between practitioners accelerates collective learning and refinement.
-
-## Implementation Notes
-Start with small-scale trials before expanding to larger operations.
-Maintain detailed records for iterative refinement of methods and strategies.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.
+See [[aquaponics-fish-species]] for matching fish to your climate and plant goals. Water management from [[rainwater-harvesting-systems]] can supplement system top-off water during dry periods. For natural pest control in outdoor aquaponics, [[black-soldier-fly-composting]] systems can attract beneficial insects to the growing area.

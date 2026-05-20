@@ -102,7 +102,7 @@ to release nitrogen at the soil surface.
 - [[dynamic-accumulators]] — plants that mine nutrients from deep soil
 - [[permaculture-design-principles]] — the design philosophy underlying
   guild thinking
-- [[integrated-pest-management-ipm]] — biological pest control that
+- [[integrated-pest-management]] — biological pest control that
   guilds support
 - [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]*. Chelsea
   Green, 2005.

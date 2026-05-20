@@ -7,7 +7,7 @@ tags: [gardening, season-extension, vegetables, agriculture, climate, cultivatio
 sources: []
 ---
 
-## Winter Gardening Techniques
+# Winter Gardening Techniques
 
 Winter gardening extends the growing season into the cold months using protective structures, crop selection, and strategic planting. With proper techniques, gardeners in most climates can harvest fresh greens and root vegetables year-round, even through snow and freezing temperatures. Winter gardening overlaps with [[season-extension-techniques]] but focuses specifically on cold-season strategies.
 
@@ -63,7 +63,7 @@ Row covers are lightweight, spun-bonded polyester or polypropylene fabrics drape
 - Row covers are most effective for low-growing crops (greens, root vegetables, strawberries)
 - Combined with mulch, row covers can provide significant winter protection
 - Row covers also exclude insect pests — useful for flea beetles on brassicas and cabbage maggots on root crops
-- See [[insectary-plantings]] and [[trap-cropping]] for [[integrated-pest-management]]
+- See [[insectary-plantings]] and [[trap-cropping]] for integrated pest management
 
 ## Low Tunnels
 
@@ -123,7 +123,7 @@ Mulch is the simplest winter protection. A deep layer of organic mulch insulates
 | Leaves (shredded) | 6-10 inches | Shred to prevent matting. Oak leaves are excellent. |
 | Pine needles | 4-8 inches | Good for acid-loving plants. Lightweight. |
 | Wood chips | 4-6 inches | Do not mix into soil. Good for perennial beds. |
-| [[compost]] | 2-4 inches | Nutrient-rich but less insulating than straw or leaves. |
+| Compost | 2-4 inches | Nutrient-rich but less insulating than straw or leaves. |
 
 ### Mulching Tips
 
@@ -147,3 +147,15 @@ Mulch is the simplest winter protection. A deep layer of organic mulch insulates
 | March | Begin removing protection; direct seed spring crops |
 
 ### Zone-Specific Strategies
+
+- **Zones 3-4**: Focus on root crops in underground storage, cold frames with heavy insulation, sprouting indoors
+- **Zones 5-6**: Cold frames and low tunnels with double covering; harvest kale, spinach, carrots through winter
+- **Zones 7-8**: Row covers alone sufficient for many crops; minimal protection needed for hardy greens
+- **Zones 9-10**: Year-round outdoor gardening; frost protection only needed for a few nights
+
+## Related Topics
+
+- [[season-extension-techniques]] for hoop houses, high tunnels, and greenhouses
+- [[succession-planting]] for timing fall plantings
+- [[seed-starting-reference]] for starting winter crop transplants
+- [[cover-cropping-guide]] for protecting soil through winter

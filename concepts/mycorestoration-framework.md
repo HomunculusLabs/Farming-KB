@@ -8,7 +8,7 @@ sources:
   - raw/papers/unknown-mycelium-running.md
 ---
 
-## Mycorestoration Overview
+# Mycorestoration Overview
 
 [[paul-stamets]]' umbrella concept for using fungi to heal the environment. Coined in *Mycelium Running* (2005), mycorestoration encompasses four branches: mycoremediation, mycofiltration, mycoforestry, and mycopesticides.
 
@@ -22,7 +22,7 @@ Using fungi to degrade or sequester environmental toxins:
 - Radioactive elements (cesium-134, cesium-137)
 - Chemical warfare agents (VX, sarin, soman surrogates)
 - Pesticides and herbicides
-- See: [[mycoremediation-basics]], [[mycoremediation-of-oil-spills]], [[mycoremediation-heavy-metals]]
+- See: [[mycoremediation-basics]], [[mycoremediation-of-oil-spills]], [[mycoremediation-of-heavy-metals]]
 
 ### 2. Mycofiltration
 Using mycelial mats to filter water and protect watersheds:

@@ -4,15 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, climate, season-extension, plants, cultivation, earthworks, conservation]
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+sources: []
 ---
 
-## Mountain Gardening
+# Mountain Gardening
 
 ## Overview
 
-Mountain gardening is the practice of cultivating plants at high elevations (typically above 3,000 feet) where short [[jeavons-climate-adaptation-growing-seasons]], cool temperatures, intense UV radiation, thin soils, and frost risk present unique challenges. Every 1,000 feet of elevation gain roughly corresponds to moving 200-300 miles northward in terms of growing conditions. Mountain gardeners must work creatively with microclimates, cold-hardy varieties, and season-extension techniques to achieve productive harvests.
+Mountain gardening is the practice of cultivating plants at high elevations (typically above 3,000 feet) where short growing seasons, cool temperatures, intense UV radiation, thin soils, and frost risk present unique challenges. Every 1,000 feet of elevation gain roughly corresponds to moving 200-300 miles northward in terms of growing conditions. Mountain gardeners must work creatively with microclimates, cold-hardy varieties, and season-extension techniques to achieve productive harvests.
 
 ## Altitude Effects on Growing
 
@@ -56,7 +55,7 @@ Methods that require no external energy:
 
 - **Stone walls**: Absorb heat during the day and radiate it at night; a south-facing stone wall can create a microclimate 5-10°F warmer than surrounding areas
 - **Water bodies**: Ponds, water barrels, and even large containers of water moderate temperature; water releases heat as it cools
-- **[[comparison-windbreak-vs-thermal-mass]]**: Rocks, brick, and concrete pathways absorb daytime heat and release it slowly at night
+- **Thermal mass**: Rocks, brick, and concrete pathways absorb daytime heat and release it slowly at night
 - **Slope position**: Cold air drains downhill; avoid planting in low spots and frost pockets
 - **Windbreaks**: Dense plantings or fences on the north and west sides reduce cold wind exposure
 - **Mulch**: A thick layer of mulch insulates soil and protects shallow roots from freezing
@@ -64,7 +63,7 @@ Methods that require no external energy:
 ### Active Frost Protection
 Methods requiring energy or materials:
 
-- **Row covers**: [[floating-row-cover]] provides 2-6°F of frost protection
+- **Row covers**: Floating row cover provides 2-6°F of frost protection
 - **Low tunnels**: PVC or wire hoops covered with row cover or plastic; 4-10°F protection
 - **Wall o' water**: Water-filled plastic tubes around individual plants; 8-16°F protection
 - **Cloches**: Glass or plastic covers for individual plants
@@ -80,7 +79,7 @@ Methods requiring energy or materials:
 ### Stone Wall Construction
 Stone walls are the traditional mountain garden's most valuable tool:
 
-- **South-facing walls**: Absorb maximum [[albedo-and-solar-radiation]]; create the warmest microclimates
+- **South-facing walls**: Absorb maximum solar radiation; create the warmest microclimates
 - **Terrace walls**: Convert slopes into level planting areas; retain soil and moisture
 - **Free-standing walls**: Absorb and radiate heat to nearby plantings
 - Build walls 2-3 feet high for maximum heat absorption
@@ -89,7 +88,7 @@ Stone walls are the traditional mountain garden's most valuable tool:
 ### Other Microclimate Strategies
 - **Slope aspect**: South-facing slopes warm earliest in spring
 - **Terracing**: Level areas warm faster than slopes; reduce erosion
-- **[[cervantes-wind-protection-outdoor-cannabis]]**: Plantings on the leeward side of buildings or windbreak hedgerows
+- **Wind protection**: Plantings on the leeward side of buildings or windbreak hedgerows
 - **Heat sinks**: Dark-colored rocks or gravel beds placed near sensitive plants
 
 ## Cold-Hardy Varieties
@@ -136,15 +135,55 @@ Perennials that survive and produce at high elevations:
 ## Soil Building at Elevation
 
 ### Thin Mountain Soils
-Mountain soils are typically shallow, rocky, and low in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]:
+Mountain soils are typically shallow, rocky, and low in organic matter:
 
 - Glacial, alluvial, or residual soils with limited topsoil depth
 - High rock content provides drainage but limits root growth
 - Low organic matter due to slow decomposition in cool temperatures
+- Often acidic due to conifer influence and high rainfall
 
-## See Also
+### Building Soil
+- Import compost and organic matter; incorporate 4-6 inches into new beds
+- Use raised beds to increase rooting depth above rocky subsoil
+- Plant green manure cover crops during short off-seasons (hairy vetch, field peas, oats, winter rye)
+- Mulch heavily to retain moisture and build organic matter
+- Add biochar to improve nutrient retention in sandy mountain soils
+- Test soil regularly; mountain soils may need lime ([[water-soluble-calcium-wca|calcium]]) to raise pH
+- Avoid overworking wet mountain soil; it compacts easily
 
-- [[fukuoka-mountain-soil-restoration]]
-- [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]]
-- [[fukuoka-european-villages-mountain-cabin-life]]
-- [[table-mountain-south-africa-mollison]]
+### Composting in Cool Climates
+- Compost decomposes 2-3x slower at high elevations
+- Use insulated bins or compost in direct sun
+- Chop materials finely to speed decomposition
+- Add nitrogen-rich materials to boost microbial activity
+
+## Season Extension
+
+### Cold Frames
+Simple, bottomless boxes with glass or polycarbonate lids:
+
+- Provide 10-20°F of frost protection
+- Start seedlings 4-6 weeks earlier in spring
+- Extend harvest of fall crops by 4-8 weeks
+
+### High Tunnels / Hoop Houses
+Unheated structures covered with greenhouse plastic:
+
+- Provide 5-15°F of frost protection depending on design
+- Extend growing season by 4-8 weeks on each end
+- See [[season-extension-techniques|season extension]] for detailed construction guidance
+
+### Indoor Growing
+For year-round production, [[cannabis-living-soil-guide|indoor]] growing systems can supplement the short outdoor season:
+
+- Start all seedlings indoors under lights
+- Consider [[cannabis-living-soil-amendment-schedule|living soil]] beds for indoor vegetable production
+
+## Integration with Homesteading
+
+Mountain gardening connects to broader homesteading systems:
+
+- Terraced gardens integrate with [[permaculture-earthworks|earthworks]] and water management
+- Cold-hardy perennials reduce annual planting labor
+- Composting connects to [[composting-systems|composting]] systems and soil [[fungal-biology-fundamentals|biology]]
+- Wildlife habitat around mountain gardens supports [[pollinator-conservation|conservation]] goals

@@ -1,5 +1,5 @@
 ---
-title: Square Foot Gardening
+title: Square Foot Gardening Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,9 +7,9 @@ tags: [regenerative, gardening, vegetables, permaculture, beginner, plant-system
 sources: []
 ---
 
-## Square Foot Gardening Guide
+# Square Foot Gardening Guide
 
-Square foot gardening (SFG) is an [[intensive-planting-spacing]] method developed by Mel Bartholomew that divides raised beds into 1x1 foot squares, each planted with a specific number of crops based on plant size. The system maximizes yield per square foot while reducing wasted space, seeds, water, and weeding.
+Square foot gardening (SFG) is an intensive planting method developed by Mel Bartholomew that divides raised beds into 1x1 foot squares, each planted with a specific number of crops based on plant size. The system maximizes yield per square foot while reducing wasted space, seeds, water, and weeding.
 
 ## Core Principles
 
@@ -101,7 +101,7 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 
 ### Succession Timing Rules
 - Know your days to maturity (DTM) for each crop.
-- Start next crop's [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] or in a nursery flat while current crop finishes.
+- Start next crop's seeds indoors or in a nursery flat while current crop finishes.
 - Pull spent plants, add 1-2 inches of compost, replant immediately.
 - Cool-season crops (spinach, lettuce, peas, radishes) can be double- or triple-cropped.
 - Warm-season crops (tomatoes, peppers) occupy a square all summer — plant garlic in fall after cleanup.
@@ -140,11 +140,14 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 ## Common Mistakes
 
 - Overcrowding — more plants per square does NOT mean more yield.
+- Skipping the grid — the grid is what makes SFG work; freehand spacing drifts.
+- Using garden soil instead of Mel's mix — heavy soil compacts and defeats the purpose.
+- Not replanting — empty squares are wasted production.
+- Planting too early — raised beds warm up fast, but frost still kills tender crops.
 
-## See Also
+## Related Concepts
 
-- [[comparison-sheet-mulching-vs-square-foot-gardening]]
-- [[comparison-square-foot-vs-raised-bed-gardening]]
-- [[comparison-keyhole-garden-vs-square-foot-gardening]]
-- [[comparison-biointensive-vs-square-foot-gardening]]
-- [[comparison-deep-bed-cultivation-vs-square-foot-gardening]]
+- [[raised-bed-gardening]] for bed construction and soil preparation
+- [[companion-planting-reference]] for pairing crops in adjacent squares
+- [[seed-starting-reference]] for producing transplants
+- [[hugelkultur-guide]] for an alternative intensive growing method

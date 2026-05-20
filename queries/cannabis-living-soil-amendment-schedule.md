@@ -1,4 +1,5 @@
 ---
+
 title: Cannabis Living Soil Amendment Schedule
 created: 2026-04-11
 updated: 2026-04-12
@@ -28,7 +29,7 @@ sources:
 - concepts/cannabis-plant-nutrition.md
 ---
 
-## Cannabis Living Soil Amendment Schedule
+# Cannabis Living Soil Amendment Schedule
 
 A synthesized week-by-week schedule combining [[knf-preparations]], [[nutritive-cycle-theory]], [[cannabis-vegetative-stage]], [[cannabis-flowering-stage]], [[cannabis-living-soil-guide]], and [[cannabis-plant-nutrition]]. Designed for indoor living soil beds with KNF supplement inputs.
 

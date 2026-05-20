@@ -6,8 +6,7 @@ type: concept
 tags: [fungi, mycology, health, biology, troubleshooting, species-profiles]
 sources: []
 ---
-
-## Mold Identification Guide
+# Mold Identification Guide
 
 Molds are rapidly growing, filamentous fungi that reproduce primarily by producing airborne spores (conidia). They are among the most common organisms encountered in indoor environments and are significant concerns for human health, food safety, and building maintenance. Most indoor molds belong to the phyla Ascomycota and Zygomycota.
 
@@ -140,11 +139,13 @@ Zygomycete molds (see [[zygomycete-phylum-guide]]).
 ## Health Effects
 
 ### Allergic Reactions
+Most common health effect of indoor mold exposure. Symptoms include:
+- Sneezing, runny nose, nasal congestion
+- Red, itchy, or watery eyes
+- Coughing, wheezing, throat irritation
+- Skin rash in sensitive individuals
 
+### Asthma Exacerbation
+Mold spores and fragments can trigger asthma attacks. Sensitization to specific mold species (Alternaria, Cladosporium, Aspergillus) is a risk factor for severe asthma.
 ## See Also
-
-- [[comparison-vermicomposting-vs-leaf-mold]]
-- [[knf-leaf-mold-humus]]
-- [[bloomfield-fungal-allergens-indoor-mold-respiratory-health-lycoperdonosis]]
-- [[cervantes-gray-mold-botrytis-prevention]]
-- [[dactylium-cobweb-mold-mushroom-pathogens]]
+- [[trichoderma-forest-green-mold-guide]]

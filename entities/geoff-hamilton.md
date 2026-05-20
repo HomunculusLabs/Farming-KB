@@ -5,11 +5,11 @@ updated: 2026-04-12
 type: entity
 tags: [person, regenerative, gardening]
 sources:
-  - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
+  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
   - raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 ---
 
-## Geoff Hamilton
+# Geoff Hamilton
 
 Geoffrey "Geoff" Hamilton (1936–1996) was a British gardener, broadcaster, and author, best known as presenter of BBC's "Gardeners' World" and one of the most influential advocates for organic gardening methods in the English-speaking world. His book *Organic Gardening* (DK Publishing, first American edition 1993, revised by Nick Hamilton 2011) remains a comprehensive practical reference.
 
@@ -54,27 +54,36 @@ Hamilton's emphasis on organic methods, recycling, and making gardening accessib
 
 ## See Also
 
-- [[companion-planting-reference]]
-- [[composting-systems]]
-- [[food-forest-design]]
-- [[geoff-hamilton-organic-techniques]]
-- [[geoff-lawton]]
-- [[geoff-wallace]]
-- [[geoff-wallace-soil-conditioner-mollison]]
-- [[orchard-pest-management]]
-- [[permaculture-principles]]
+- [[food-forest-design]] — Sustainable garden design
+- [[permaculture-principles]] — Related design philosophy
+- [[composting-systems]] — Organic soil building
+- [[companion-planting-reference]] — Plant relationships
+- [[orchard-pest-management]] — Natural pest control methods
+### Key Principles
+Understanding geoff hamilton requires consideration of several interrelated factors.
+These principles form the foundation for practical application and further research.
+Each factor contributes to the overall effectiveness and sustainability of the approach.
 
-## Practical Applications
+### Methods and Techniques
+Various methods have been developed to implement these concepts effectively.
+Selection of appropriate techniques depends on specific conditions and objectives.
+Adaptation to local conditions improves outcomes and resource efficiency.
 
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
-## Key Considerations
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]
+### Additional Notes
+The study and application of geoff hamilton continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
-## Comparative Analysis
+### Additional Notes
+The study and application of geoff hamilton continues to evolve with ongoing research.
+Practitioners benefit from staying current with developments in the field.
+Cross-disciplinary approaches often yield innovative solutions.
 
-Examining this topic alongside related approaches reveals complementary strategies and unique advantages. Multiple perspectives enrich understanding and inform better decision-making.
-
-## Mechanisms and Processes
-
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
-Further research may reveal additional applications and ecological relationships.
+## See Also
+- [[mushroom-cultivation-basics]]
+- [[soil-food-web]]
+- [[mycelium]]

@@ -7,7 +7,7 @@ tags: [forest-ecology, ecology, biodiversity, nutrient-cycling, succession, cons
 sources: []
 ---
 
-## Forest Ecology Basics
+# Forest Ecology Basics
 
 ## Overview
 
@@ -30,7 +30,7 @@ Composed of woody plants under 15-20 feet. This layer includes berry-producing s
 Non-woody plants including ferns, wildflowers, and grasses. This layer is most diverse in spring before canopy leaf-out creates deep shade. Many spring ephemerals complete their entire life cycle in this brief window.
 
 ### Forest Floor and Litter Layer
-The ground layer includes leaf litter, downed wood, and [[humus]]. This zone hosts the majority of forest [[fungal-decomposition|decomposition]] [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]. Fungal networks ([[mycorrhizal-types|mycorrhizae]]) are concentrated here, connecting trees and facilitating nutrient exchange.
+The ground layer includes leaf litter, downed wood, and soil organic matter. This zone hosts the majority of forest [[fungal-decomposition|decomposition]] and nutrient cycling. Fungal networks ([[mycorrhizal-types|mycorrhizae]]) are concentrated here, connecting trees and facilitating nutrient exchange.
 
 ### Root Zone
 Below ground, root systems create a complex network. Most tree roots are in the top 2-3 feet of soil, though taproots can extend much deeper. The root zone is the primary interface between plants and soil [[fungal-biology-fundamentals|biology]].
@@ -83,12 +83,12 @@ In forests, 90%+ of nutrients are held in living and dead biomass rather than fr
 
 1. Fresh litter arrives (leaves, twigs, woody debris)
 2. Fungi colonize and begin breaking down lignin and cellulose
-3. [[cannabis-endorhiza-bacterial-communities]] process simpler compounds
+3. Bacterial communities process simpler compounds
 4. Invertebrates (springtails, mites, millipedes) fragment and mix material
 5. Mineral nutrients are released and taken up by plant roots and mycorrhizae
 
 ### Mycorrhizal Networks
-Most forest trees form [[plants-without-mycorrhizal-associations]]. These fungal networks:
+Most forest trees form mycorrhizal associations. These fungal networks:
 
 - Extend root absorption surface area 100-1000x
 - Transfer water and nutrients between trees (including from older to younger trees)
@@ -119,11 +119,11 @@ The thickness and character of each horizon depends on climate, parent material,
 
 Understanding forest ecology informs several homesteading practices:
 
-- [[food-forest-design|food forest]] design mimics natural forest [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+- [[food-forest-design|food forest]] design mimics natural forest structure and succession
 - agroforestry integrates productive trees with crops and livestock
 - [[pollinator-conservation|conservation]] of existing forest stands preserves biodiversity and watershed function
 - Forest management for timber or firewood can follow natural disturbance patterns
-- Dead wood retention supports [[hemenway-backyard-wildlife-habitat]] and soil [[fungal-biology-fundamentals|biology]]
+- Dead wood retention supports wildlife habitat and soil [[fungal-biology-fundamentals|biology]]
 
 ## References and Further Reading
 

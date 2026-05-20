@@ -88,7 +88,7 @@ Systems thinking reveals feedback loops and emergent properties that affect over
 - [[psilocybe-mexicana]]
 - [[sierra-mazateca]]
 - [[mazatec-mushrooms-of-language]] — broader overview of Mazatec mushroom linguistics
-- [[maria-sabina-and-mazatec-mushroom-ceremony]] — María Sabina's specific practices
+- [[maria-sabina-mazatec-mushroom-ceremony]] — María Sabina's specific practices
 - [[mazatec-mushroom-tradition]] — general Mazatec mushroom tradition
 ## Practical Applications
 The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.

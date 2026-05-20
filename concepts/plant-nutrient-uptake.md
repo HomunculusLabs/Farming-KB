@@ -1,4 +1,5 @@
 ---
+
 title: Plant Nutrient Uptake — How Plants Absorb Nutrients
 created: 2026-04-11
 updated: 2026-04-12
@@ -20,7 +21,7 @@ sources:
 - raw/papers/lowenfels-teaming-with-microbes.md
 ---
 
-## Plant Nutrient Uptake
+# Plant Nutrient Uptake
 
 Plants absorb 17 essential elements: C, H, O (from air and water, ~96% of plant mass) plus 14 mineral nutrients from soil. Understanding HOW plants access these minerals — through cation exchange, root exudates, mycorrhizal pathways, and foliar feeding — is the foundation of [[soil-fertility-management]] and [[cannabis-plant-nutrition]].
 
@@ -117,5 +118,3 @@ The [[soil-food-web-nutrient-cycling]] converts organic matter into plant-availa
 
 - [[foliar-feeding]]
 - [[daniel-chamovitz]]
-
-These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

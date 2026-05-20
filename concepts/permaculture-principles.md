@@ -1,4 +1,5 @@
 ---
+
 title: Permaculture Principles
 created: 2026-04-10
 updated: 2026-04-12
@@ -21,7 +22,7 @@ sources:
 - raw/articles/permaculture-beginners-guide-graham-burnett.md
 ---
 
-## Permaculture Principles and Ethics
+# Permaculture Principles and Ethics
 
 Permaculture is a design system for creating sustainable human habitats by mimicking natural ecosystems. Co-founded by Bill Mollison and David Holmgren in the 1970s, it began as "permanent agriculture" and evolved into "permanent culture" -- a holistic approach to designing all human systems.
 
@@ -144,3 +145,22 @@ Graham Burnett's "Permaculture: A Beginner's Guide" adds practical framing for n
 - **Yield is limited only by imagination** — yield isn't just kilograms of food; it includes information, skills learned, health benefits, community connections, and ecological restoration
 
 ### Key Design Heuristics (Burnett's "Ecological Truisms")
+1. **Every function should be supported by many elements** — redundancy creates resilience. If one crop fails in a polyculture, others still produce
+2. **Every element should serve many functions** — a chicken provides eggs, manure, pest control, and soil cultivation
+3. **Stacking** — nature doesn't separate ornamentals, vegetables, and fruit trees. The [[food-forest-design]] concept replicates woodland layering with useful plants
+4. **Everything cycles** — in nature there is no waste; every output is an input elsewhere. Composting, [[vermicomposting]], and [[bokashi]] close fertility loops
+5. **Local distinctiveness** — preserve regional heritage varieties (2,200+ UK apple varieties exist but only 5-6 are sold in shops). Community orchards serve as genetic banks and cultural bridges
+
+### Rolling Permaculture
+- Don't try to transform everything at once — start small on the margins
+- A farmer might use permaculture on "waste" land first, then gradually roll the design across the entire site
+- Urban projects on derelict sites serve as examples and inspiration that spread organically
+- This maps to the "Use Small and Slow Solutions" principle but adds the practical insight that sustainable incomes can slowly replace destructive ones
+
+### Community Economics
+- 80% of money spent in chain stores leaves the community immediately (transport, packaging, advertising, corporate profits)
+- Money spent locally with people using local materials stays within the community and is continually reinvested
+- LETS (Local Exchange Trading Systems) and local currencies keep wealth circulating
+- Diverse skills = resilience, just as diverse plantings = resilience (the same principle applies to human communities)
+- [[graham-burnett]]
+- [[permaculture-energy-descent-planning]]

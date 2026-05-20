@@ -7,9 +7,9 @@ tags: [mushrooms, mycology, cultivation, seeds]
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
 
-## Oyster Mushroom Spawn Production
+# Oyster Mushroom Spawn Production
 
-Spawn is the mycelium-rich material used to inoculate bulk substrates [[grass-seed-substrate-for-mushroom-cultivation]]. Producing high-quality spawn is the foundation of successful mushroom growing. Poor spawn = poor or no mushrooms, regardless of substrate quality.
+Spawn is the mycelium-rich material used to inoculate bulk substrates for mushroom cultivation. Producing high-quality spawn is the foundation of successful mushroom growing. Poor spawn = poor or no mushrooms, regardless of substrate quality.
 
 ## Types of Spawn
 
@@ -21,7 +21,7 @@ Spawn is the mycelium-rich material used to inoculate bulk substrates [[grass-se
 - Disadvantages: Requires sterilization, contamination risk
 
 ### Sawdust Spawn
-- Mycelium grown on sterilized [[hardwood-sawdust-substrate]] + bran
+- Mycelium grown on sterilized hardwood sawdust + bran
 - Preferred for log inoculation (sawdust plugs)
 - Longer shelf life than grain spawn
 - Slower to colonize than grain spawn
@@ -76,10 +76,10 @@ Spawn is the mycelium-rich material used to inoculate bulk substrates [[grass-se
 ## Strain Selection for Oyster Mushrooms
 
 ### Common Cultivated Species
-- **[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]** (Pearl oyster): Most common, versatile, 55-75°F
-- **[[pleurotus-pulmonarius]]** (Phoenix oyster): Similar but warmer, 65-85°F
+- **Pleurotus ostreatus** (Pearl oyster): Most common, versatile, 55-75°F
+- **Pleurotus pulmonarius** (Phoenix oyster): Similar but warmer, 65-85°F
 - **Pleurotus eryngii** (King oyster): Large, thick stems, 55-65°F
-- **[[pleurotus-citrinopileatus]]** (Golden oyster): Yellow, tropical, 70-85°F
+- **Pleurotus citrinopileatus** (Golden oyster): Yellow, tropical, 70-85°F
 - **Pleurotus djamor** (Pink oyster): Tropical, 70-90°F, very fast
 
 ### Sourcing Strains
@@ -98,25 +98,3 @@ Spawn is the mycelium-rich material used to inoculate bulk substrates [[grass-se
 - [[oyster-mushroom-substrate-preparation]] — for substrate preparation
 - [[mushroom-cultivation-grain-spawn]] — for detailed grain spawn protocols
 - [[mushroom-cultivation-sterile-technique]] — for cleanliness requirements
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
-Adaptation to local conditions and careful observation remain central to effective application.
-
-## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
-Comparative studies across different bioregions provide valuable insights into generalizable principles.
-Long-term monitoring and documentation continue to build the evidence base for these approaches.
-Collaborative research networks facilitate knowledge exchange and accelerate innovation.
-
-## Key Considerations
-Context-specific implementation requires attention to local ecology, climate patterns, and community needs.
-Integration with existing systems often yields better results than complete replacement strategies.
-Monitoring and adaptive management are essential for long-term success and continuous improvement.
-## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
-## See Also
-
-- [[oyster-mushroom-spawn-production-grain-sawdust]]
-- [[gourmet-medicinal-mushroom-spawn-grain-production]]
-- [[mushroom-cultivator-grain-spawn-production]]

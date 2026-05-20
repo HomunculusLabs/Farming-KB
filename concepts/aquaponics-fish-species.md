@@ -4,11 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [aquaponics, animal-husbandry, species, homesteading, water-management, sustainability]
-sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
+sources: []
 ---
 
-## Aquaponics Fish Species
+# Aquaponics Fish Species
 
 Choosing the right fish species is critical to aquaponics system success. Fish provide the nutrient source (ammonia via waste) that feeds plants through bacterial conversion to nitrates. The best species for a given system depends on water temperature, climate, system size, and whether the fish are also a food crop.
 
@@ -16,12 +15,12 @@ Choosing the right fish species is critical to aquaponics system success. Fish p
 
 Tilapia is the most popular aquaponics fish worldwide for good reason.
 
-- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 20-30 C (68-86 F), optimal 26-28 C
+- Temperature range: 20-30 C (68-86 F), optimal 26-28 C
 - Growth rate: Fast — reach harvest size (350-500g) in 6-9 months
 - Stocking density: 1 fish per 10-20 liters (conservative) up to 1 per 5 liters (aggressive with aeration)
 - pH tolerance: 6.5-8.5, prefer 7.0-7.5
 - Pros: Hardy, tolerate poor water quality, fast growth, readily breed in captivity, mild-flavored white flesh, efficient feed converters (1.5-2.0 FCR)
-- Cons: Require warm water (need heaters in [[glasshouse-heat-management-cool-climates-mollison]]), invasive risk (never release), can overpopulate if breeding is uncontrolled, some jurisdictions restrict or ban tilapia possession
+- Cons: Require warm water (need heaters in cool climates), invasive risk (never release), can overpopulate if breeding is uncontrolled, some jurisdictions restrict or ban tilapia possession
 - Notes: Use all-male populations to prevent uncontrolled breeding. Hand-sorting or hormone-treated fry are common. Maintain water temperature above 20 C at all times.
 
 ## Channel Catfish (Ictalurus punctatus)
@@ -32,7 +31,7 @@ Catfish are well-suited to larger aquaponics systems, especially in warm climate
 - Growth rate: Moderate — harvest size (450-700g) in 12-18 months
 - Stocking density: 1 fish per 20-40 liters
 - pH tolerance: 6.0-8.0
-- Pros: Very hardy, tolerate low [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], tolerant of wide water quality ranges, excellent table fish, can be raised in murky water
+- Pros: Very hardy, tolerate low dissolved oxygen, tolerant of wide water quality ranges, excellent table fish, can be raised in murky water
 - Cons: Bottom feeders (produce more waste than mid-water fish), can be aggressive toward each other, slower growth than tilapia, difficult to harvest from deep tanks (need traps or draining)
 - Notes: Need hiding structures in the tank. They are nocturnal and may startle easily. Best suited for raft or deep-water culture aquaponics rather than media beds.
 
@@ -46,7 +45,7 @@ Trout are the premium choice for cool-climate aquaponics and produce excellent f
 - pH tolerance: 6.5-8.0, prefer 7.0
 - Pros: Excellent-tasting fish, high market value, fast growth in cool water, relatively clean (less waste than catfish)
 - Cons: Require cold water (unsuitable for warm climates without chillers), demand high dissolved oxygen (6+ mg/L), sensitive to water quality fluctuations, stressed by handling and noise
-- Notes: Trout systems need robust aeration and water cooling capacity. Ideal for basement or indoor systems [[query-how-to-grow-and-use-oca-in-temperate-climates]]. Pair well with cool-season plants like lettuce and herbs in [[aquaponics-plant-selection]].
+- Notes: Trout systems need robust aeration and water cooling capacity. Ideal for basement or indoor systems in temperate climates. Pair well with cool-season plants like lettuce and herbs in [[aquaponics-plant-selection]].
 
 ## Koi (Cyprinus rubrofuscus)
 
@@ -107,20 +106,4 @@ Regular water testing is essential. Test ammonia, nitrite, nitrate, and pH at le
 
 ## Integration with Homestead Systems
 
-Aquaponics fish production integrates with broader homestead [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]. Fish waste feeds plants, plant-filtered water returns to fish tanks, and excess fish can be processed through a [[home-butcher-shop-setup]]. Water from the system can supplement [[rainwater-harvesting-systems]] for irrigation during drought periods. The fish production component makes aquaponics significantly more productive per [[comparison-biointensive-vs-square-foot-gardening]] than hydroponics alone.
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
-Collaborative networks and knowledge sharing accelerate progress in this field.
-Emerging technologies offer new tools for analysis and implementation.
-Local adaptation and context-specific strategies remain essential for success.
-## Further Considerations
-Ongoing research and field trials continue to expand our understanding of this subject.
-Practical experience combined with systematic observation yields the most reliable insights.
-
-## Future Directions
-Emerging approaches and technologies offer new opportunities for advancement.
-Collaborative knowledge sharing accelerates progress across related domains.
+Aquaponics fish production integrates with broader homestead nutrient cycling. Fish waste feeds plants, plant-filtered water returns to fish tanks, and excess fish can be processed through a [[home-butcher-shop-setup]]. Water from the system can supplement [[rainwater-harvesting-systems]] for irrigation during drought periods. The fish production component makes aquaponics significantly more productive per square foot than hydroponics alone.

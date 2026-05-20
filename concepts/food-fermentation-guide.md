@@ -4,11 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, fermentation, food, preservation, recipe, microbes]
-sources:
-  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+sources: []
 ---
 
-## Food Fermentation Guide
+# Food Fermentation Guide
 
 Lacto-fermentation is the process of preserving food through the action of lactic acid bacteria (LAB), primarily Lactobacillus species. These bacteria convert sugars into lactic acid, lowering pH below 4.6, which inhibits pathogenic organisms and preserves the food. Fermentation is one of the oldest food preservation methods and is central to homestead food security and nutrition.
 
@@ -123,6 +122,6 @@ Lacto-fermentation is inherently safe when basic principles are followed:
 
 - [[fermented-hot-sauce-guide]] Topics
 
-- [[root-cellaring]] for storing finished ferments at cool temperatures
+- [[root-cellaring-guide]] for storing finished ferments at cool temperatures
 - [[canning-and-preserving]] for complementary preservation methods
 - [[sourdough-bread-guide]] for grain-based fermentation

@@ -78,3 +78,43 @@ Histological methods allow direct microscopic visualization of endophytic coloni
 - [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]
 
 These principles provide a foundation for practical application and continued learning in this area.
+
+## Key Considerations
+
+The study of endophytic fungi — selective isolation agents, molecular approaches, and histological methods encompasses several interrelated
+domains that inform both theoretical understanding and practical
+application. Researchers and practitioners continue to refine
+methodologies and expand the body of knowledge in this area.
+
+Cross-disciplinary approaches have proven particularly valuable,
+integrating insights from related fields to develop more
+comprehensive frameworks for analysis and implementation.
+
+## Practical Applications
+
+Understanding endophytic fungi — selective isolation agents, molecular approaches, and histological methods has direct implications for
+practical work in the field. The principles described here
+can be adapted to various contexts and scales of operation.
+
+Practitioners should consider local conditions, available
+resources, and specific goals when applying these concepts.
+
+## See Also
+
+- [[aact-calcium-fungi-interaction-nutrient-bioavailability-ingham]]
+- [[aact-forest-litter-fungi-mycorrhizal-ingham]]
+- [[aact-mite-management-and-biocontrol-fungi]]
+- [[aact-natural-growth-regulators-bacteria-fungi-humus-cycle-ingham]]
+- [[aact-plate-counts-vs-direct-microscopy-molecular-dna-testing-ingham]]
+- [[acidifying-pollutants-saprotrophic-fungi-lichen-communities]]
+- [[acidophilic-alkalophilic-fungi]]
+- [[african-neurotropic-fungi-distribution-and-underexplored-biodiversity-guzman-1998]]
+- [[african-neurotropic-fungi-distribution-gaps-exploration-potential]]
+- [[agar-culture-and-isolation]]
+- [[allegro-biblical-references-to-mushrooms-and-fungi]]
+- [[allen-new-zealand-psychoactive-fungi]]
+- [[alpha-beta-gamma-diversity-fungi]]
+- [[am-fungal-survey-methods]]
+- [[am-fungi-autofluorescence-colonization-assessment]]
+- [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]
+- [[amanita-preparation-methods]]

@@ -1,4 +1,5 @@
 ---
+
 title: Gymnopilus purpuratus
 created: 2026-04-12
 updated: 2026-04-12
@@ -19,7 +20,7 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-## Gymnopilus purpuratus
+# Gymnopilus purpuratus
 
 A large, orange psychoactive mushroom of the genus Gymnopilus, notable for its striking appearance and wide Southern Hemisphere distribution. Contains psilocybin, psilocin, and bis-noryangonin. Documented extensively by [[jochen-gartz]].
 
@@ -39,7 +40,7 @@ A large, orange psychoactive mushroom of the genus Gymnopilus, notable for its s
 - **Gills (lamellae):** Adnate to slightly decurrent, moderately crowded. Color: chrome yellow when young, becoming rusty-orange to purplish-brown with spore maturity. Edge often paler and finely serrate.
 - **Stem (stipe):** 4-10 cm long, 0.5-1.5 cm thick. Equal or tapering slightly upward. Surface fibrous, often with longitudinal striations. Color: yellow-orange above, darker brownish below. Ring (annulus): present but evanescent — a thin, yellowish membranous ring that often disappears. Cortina-like veil in young specimens.
 - **Flesh:** Yellow-orange, firm. Turns purplish-brown to greenish on exposure (not blue — this is a Gymnopilus characteristic).
-- **[[spore-print]]:** Rusty brown to purplish-brown (distinctive).
+- **Spore print:** Rusty brown to purplish-brown (distinctive).
 - **Spores:** Rough/warty (echinulate), elliptical to amygdaliform, 7-10 x 4.5-6 µm.
 - **Odor:** Mild to slightly farinaceous (flour-like) or not distinctive.
 - **Taste:** Mild to slightly bitter.
@@ -85,7 +86,7 @@ Gymnopilus purpuratus contains a unique combination of psychoactive compounds:
 
 ### Bis-noryangonin
 
-G. purpuratus is notable for containing bis-noryangonin, a [[beta-carboline]] compound with monoamine oxidase inhibiting (MAOI) properties. This is significant because:
+G. purpuratus is notable for containing bis-noryangonin, a beta-carboline compound with monoamine oxidase inhibiting (MAOI) properties. This is significant because:
 - MAOIs can potentiate the effects of tryptamines by inhibiting their enzymatic breakdown
 - The presence of a natural MAOI alongside psilocybin/psilocin may alter the pharmacokinetics of the experience
 - This compound is characteristic of the Gymnopilus genus and is not found in Psilocybe or Panaeolus species

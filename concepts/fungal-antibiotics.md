@@ -7,7 +7,7 @@ tags: [mycology, fungi, chemistry, health, medicine, history, biology, lab-techn
 sources: []
 ---
 
-## Fungal Antibiotics
+# Fungal Antibiotics
 
 ## Overview
 
@@ -68,7 +68,7 @@ Cephalosporins are classified into five generations based on their antimicrobial
 2. **Second generation**: Cefuroxime, Cefoxitin — expanded Gram-negative coverage, some anaerobic activity
 3. **Third generation**: Ceftriaxone, Cefotaxime, Ceftazidime — potent Gram-negative activity, some cross blood-brain barrier
 4. **Fourth generation**: Cefepime — broad spectrum including resistant Gram-negatives and some Gram-positives
-5. **Fifth generation**: Ceftaroline, Ceftobiprole — activity against MRSA (methicillin-resistant [[staphylococcus-aureus]]) and resistant Gram-negatives
+5. **Fifth generation**: Ceftaroline, Ceftobiprole — activity against MRSA (methicillin-resistant Staphylococcus aureus) and resistant Gram-negatives
 
 ## Other Fungal-Derived Antibiotics
 
@@ -116,17 +116,17 @@ Modern techniques allow researchers to identify biosynthetic gene clusters (BGCs
 
 - Co-culturing fungi with bacteria to trigger defensive compound production
 - Epigenetic modulators (histone deacetylase inhibitors, DNA methyltransferase inhibitors) to activate silent genes
-- Heterologous expression of BGCs in model fungal hosts (Aspergillus oryzae, [[saccharomyces-cerevisiae]])
+- Heterologous expression of BGCs in model fungal hosts (Aspergillus oryzae, Saccharomyces cerevisiae)
 
 ### Environmental Sampling
 
 Underexplored environments are being targeted for novel fungal isolates:
 
 - Deep-sea sediments and hydrothermal vents
-- [[endophytic-fungi-living-inside-plants]] plant tissues
+- Endophytic fungi living inside plant tissues
 - Fungi associated with insects (especially social insects with sophisticated antimicrobial defenses)
 - Cave and mine environments
-- Polar [[fungal-rock-colonization-and-extreme-environments]]
+- Polar and extreme environments
 
 ### Novel Compound Classes
 
@@ -143,7 +143,7 @@ Promising fungal-derived compounds in development:
 - **Drug development cost**: Bringing a new antibiotic to market costs $1-2 billion, with poor return on investment compared to chronic disease drugs
 - **Regulatory hurdles**: Stringent requirements for safety and efficacy testing
 
-See [[mycology-research-methods]] for techniques used in fungal antibiotic discovery and [[fungal-infections-human]] for an overview of the [[human-fungal-pathogens]] these drugs aim to treat.
+See [[mycology-research-methods]] for techniques used in fungal antibiotic discovery and [[fungal-infections-human]] for an overview of the human fungal pathogens these drugs aim to treat.
 
 ## Related
 

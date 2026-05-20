@@ -1,4 +1,5 @@
 ---
+
 title: Psilocybin Bluing Reaction
 created: 2026-04-12
 updated: 2026-04-12
@@ -15,11 +16,11 @@ tags:
 - patterns
 
 sources:
-  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
+  - raw/papers/magic-mushrooms-around-the-world-gartz.md
   - raw/papers/magic_mushrooms_around_the_world.md
 ---
 
-## Psilocybin Bluing Reaction
+# Psilocybin Bluing Reaction
 
 The characteristic blue-to-green discoloration observed in psilocybin-producing mushrooms when bruised, handled, or aged. Understanding this reaction is essential for [[mushroom-identification]] and distinguishes psychoactive Agaricales from non-psychoactive species. See also [[psilocybin-mushroom-chemistry]] for alkaloid content and [[mushroom-toxicity-identification-warnings]] for lookalike species.
 
@@ -44,8 +45,8 @@ Different psilocybin-containing species show markedly different bluing behavior:
 | *Psilocybe cubensis* | Strong stem bluing, caps often don't blue | Stems develop deep blue to blackish-blue |
 | *Psilocybe cyanescens* | Strong overall bluing | Cap and stem both blue readily |
 | *Psilocybe semilanceata* | Slight stem staining, delayed | May take considerable time to appear |
-| *[[conocybe-cyanopus]]* | Slight stem staining, delayed | Similar to P. semilanceata |
-| *[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]* | Slight stem staining, delayed | Only trace psilocin |
+| *Conocybe cyanopus* | Slight stem staining, delayed | Similar to P. semilanceata |
+| *Inocybe aeruginascens* | Slight stem staining, delayed | Only trace psilocin |
 | *Gymnopilus purpuratus* | Moderate, intermediate timing | Falls between extremes |
 | *Panaeolus subbalteatus* | Minimal to none | Despite containing psilocybin at similar levels to strongly bluing species |
 
@@ -90,22 +91,6 @@ Iron chloride (FeCl₃) produces a deep blue color with *Inocybe aeruginascens* 
 - **1958**: A. Hofmann confirmed that pure psilocin becomes unstable (turns bluish-green) when exposed to oxidizing agents
 - **1960s**: Blaschko, Levine, Bocks, Horita and Weber demonstrated that only psilocin (not psilocybin) oxidizes to blue-green products
 
-## Scaling Considerations
-
-Factors for scaling operations effectively. For psilocybin bluing reaction, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
-
-## Monitoring Protocols
-
-Systematic observation and data collection methods. For psilocybin bluing reaction, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
-
-## Resource Requirements
-
-Materials and resources needed for implementation. For psilocybin bluing reaction, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
-
-## Adaptive Management
-
-Flexible approaches that respond to changing conditions. For psilocybin bluing reaction, careful planning and systematic observation yield the most reliable outcomes. Experienced practitioners emphasize the importance of maintaining detailed records and adapting approaches based on observed results rather than rigid prescriptions.
-
 ## See Also
 
 - [[mushroom-identification]] — Field identification methods and tools
@@ -113,9 +98,3 @@ Flexible approaches that respond to changing conditions. For psilocybin bluing r
 - [[mushroom-toxicity-identification-warnings]] — Dangerous lookalikes
 - [[european-psilocybin-species]] — European psychoactive species
 - [[psilocybin-mushroom-chemistry]] — Global distribution
-## Further Reading
-Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
-Cross-disciplinary approaches offer promising avenues for further investigation.
-
-These principles provide a foundation for understanding the broader implications and practical applications discussed throughout this topic.

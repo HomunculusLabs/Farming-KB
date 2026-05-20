@@ -7,9 +7,9 @@ tags: [permaculture, design, patterns, ecological-design, water-management, prin
 sources: []
 ---
 
-## Permaculture Zones and Sectors
+# Permaculture Zones and Sectors
 
-[[permaculture-zones]] and sectors are the foundational spatial planning tools of permaculture design. Zones organize elements by frequency of human use and maintenance needs. Sectors map external energies (sun, wind, fire, water, wildlife) flowing through a site. Together they enable efficient, resilient landscape design that minimizes energy input while maximizing yield.
+Permaculture zones and sectors are the foundational spatial planning tools of permaculture design. Zones organize elements by frequency of human use and maintenance needs. Sectors map external energies (sun, wind, fire, water, wildlife) flowing through a site. Together they enable efficient, resilient landscape design that minimizes energy input while maximizing yield.
 
 ## Zone Analysis
 
@@ -22,7 +22,7 @@ The house or primary dwelling. This is the center of activity where people spend
 - Indoor living spaces
 - Kitchen and food preparation areas
 - Indoor herb gardens, sprouting setups
-- [[passive-solar-design]] elements
+- Passive solar design elements
 - Water harvesting from rooftops
 - Composting toilet or worm bin in attached greenhouse
 
@@ -147,3 +147,34 @@ Key design response: [[permaculture-earthworks]] such as swales and keyline syst
 ### Wildlife Sector
 
 Track animal movement corridors and foraging patterns:
+
+- Deer trails and browsing pressure zones
+- Bird migration routes and nesting areas
+- Beneficial insect habitat (hedgerows, wildflower strips)
+- Predator presence and livestock protection needs
+
+Key design response: Use fencing strategically, create wildlife corridors that bypass sensitive crops, and integrate habitat features that support beneficial species.
+
+## The Design Process
+
+1. Observe — Spend at least one full year observing the site through all seasons before major changes
+2. Map — Create base maps of topography, water flow, existing vegetation, structures
+3. overlay zones and sectors onto the base map
+4. place elements where zone needs match sector conditions
+5. Connect elements so outputs of one become inputs for another
+6. Iterate — design is never finished; adjust based on observation and feedback
+
+## Key Principles Applied
+
+- Relative location: every element should be placed in relation to others for maximum efficiency
+- Each element performs multiple functions
+- Each function is supported by multiple elements
+- Use biological resources over mechanical where possible
+- Work with nature, not against it
+
+## See Also
+
+- [[forest-garden-layers]] for detailed polyculture layer design
+- [[permaculture-earthworks]] for water management infrastructure
+- [[keyline-design]] for advanced water harvesting on slope
+- [[food-forest-plant-palette]] for species selection by zone

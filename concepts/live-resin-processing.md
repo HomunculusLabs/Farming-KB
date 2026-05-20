@@ -7,7 +7,7 @@ tags: [cannabis, processing, lab-technique, methods, troubleshooting]
 sources: []
 ---
 
-## Live Resin Processing
+# Live Resin Processing
 
 Live resin is a premium cannabis concentrate known for its exceptional terpene content and flavor profile. Unlike traditional extraction methods that use dried and cured flower, live resin is made from freshly harvested plant material that has been immediately frozen to preserve the living terpene and cannabinoid profile. This page covers the process from harvest through extraction.
 
@@ -88,7 +88,7 @@ The entire live resin process is designed around terpene preservation. Key strat
 - **Cold extraction**: Running solvent at sub-zero temperatures minimizes terpene loss during the wash.
 - **Short path processing**: Minimizing the distance and time the extract travels reduces terpene evaporation.
 - **Low-temperature purging**: Vacuum ovens set to lower temperatures with deep vacuum remove solvents without volatilizing terpenes.
-- **Terpene separation**: Some processors use [[fractional-distillation]] or chromatography to separate and recombine terpenes in optimized ratios.
+- **Terpene separation**: Some processors use fractional distillation or chromatography to separate and recombine terpenes in optimized ratios.
 - **Opaque containers**: Store final product in UV-blocking glass to prevent light degradation of terpenes.
 
 ## Product Forms

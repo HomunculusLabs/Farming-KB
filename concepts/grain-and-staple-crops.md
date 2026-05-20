@@ -1,4 +1,5 @@
 ---
+
 title: Grain and Staple Crops for the Homestead
 created: 2026-04-11
 updated: 2026-04-12
@@ -24,7 +25,7 @@ sources:
 - https://www.johnnyseeds.com/grains/
 ---
 
-## Grain and Staple Crops for the Homestead
+# Grain and Staple Crops for the Homestead
 
 Growing grains on a homestead scale provides food security, animal feed, soil building, and [[cover-cropping-guide]] benefits. While commercial grain production requires specialized equipment, home-scale growing is practical within [[regenerative-agriculture-history]] systems — many grains double as cover crops, and processing can be done with hand tools.
 
@@ -144,3 +145,29 @@ Grain crop → harvest grain + straw → grain feeds [[duck-keeping]]/[[goat-kee
 | Winter wheat | 4-8 lbs | Threshing + milling required |
 | Rye | 4-7 lbs | Easiest for beginners |
 | Oats | 3-6 lbs | Hull-less varieties easier to process |
+| Corn (dry) | 6-12 lbs | Highest caloric yield per area |
+| Amaranth | 2-5 lbs | Very high nutrition per pound |
+| Buckwheat | 2-4 lbs | Short season; dual-purpose |
+| Dry beans | 3-8 lbs | Easy seed saving; nitrogen fixer |
+
+## Planting Calendar (Zone 7-8)
+
+See [[seasonal-planning]] for full monthly calendar.
+
+| Month | Plant / Harvest |
+|-------|----------------|
+| Sep 1–15 | Winter rye, field peas |
+| Sep 15–Oct 15 | Winter wheat, barley, winter oats |
+| Mar 1–Apr 1 | Spring oats, barley, peas |
+| Apr 15–May 1 | Corn, dry beans (after last frost) |
+| May 15–Jun 1 | Sorghum, cowpeas, amaranth |
+| Jun–Aug | Buckwheat (succession any time) |
+| Jun–Jul | Winter grain harvest |
+| Jul–Aug | Spring grain harvest |
+| Sep–Oct | Corn, sorghum harvest |
+
+## Pest Management
+- **Birds**: Net grain heads; scare devices; plant enough for sharing
+- **Stored grain**: Freeze 72 hours; store with diatomaceous earth; airtight containers
+- **Diseases**: Crop rotation is primary defense; certified disease-free seed; burn infected residue
+- **See also**: [[cannabis-pest-management]] for general IPM principles

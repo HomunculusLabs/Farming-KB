@@ -4,7 +4,7 @@ created: 2026-04-28
 updated: 2026-05-06
 tags: [mycoremediation, site-assessment, bioremediation, contamination, fungi]
 type: concept
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 ## Mycoremediation Site Assessment

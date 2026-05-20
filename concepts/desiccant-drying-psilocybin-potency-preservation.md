@@ -2,7 +2,7 @@
 title: "Desiccant Drying Psilocybin Potency Preservation"
 type: concept
 tags: []
-sources: []
+sources: [raw/papers/field-guide-to-the-psilocybin-mushroom.md]
 ---
 
 The choice of drying method directly affects the chemical stability of the

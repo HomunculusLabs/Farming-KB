@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-05-09
 type: concept
 tags: [mycology, mushroom-cultivation, contaminants, identification, stamets]
-sources: []
+sources: [raw/papers/beneficial-indigenous-microorganisms-bionutrients.md]
 ---
 
 ## Mushroom Contaminant Identification Key

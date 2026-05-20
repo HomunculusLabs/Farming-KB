@@ -38,7 +38,7 @@ psilocybin-containing species do not bruise prominently.
 
 The use of psilocybin mushrooms in Mesoamerican cultures is well documented.
 The Aztecs called them teonanacatl, meaning "flesh of the gods" or "divine
-mushroom," and used them in [[maria-sabina-and-mazatec-mushroom-ceremony]] with
+mushroom," and used them in [[maria-sabina-mazatec-mushroom-ceremony]] with
 curandera Maria Sabina. This article introduced psilocybin mushrooms to
 Western culture and triggered both scientific interest and popular
 enthusiasm. In 1958, Albert Hofmann isolated and identified psilocybin and

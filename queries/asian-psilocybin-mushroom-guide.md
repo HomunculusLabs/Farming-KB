@@ -1,4 +1,5 @@
 ---
+
 title: Asian Psilocybin Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
@@ -18,9 +19,9 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
-## Asian Psilocybin Mushroom Guide
+# Asian Psilocybin Mushroom Guide
 
-Regional distribution guide for psilocybin-containing mushrooms across Asia, covering species, habitats, seasonal patterns, and cultural use. Based on [[jochen-gartz]]'s global survey and [[john-w-allen]]'s Southeast Asian research. See also [[psilocybin-mushroom-chemistry]] for the worldwide overview and [[mushroom-species-guide]] for species profiles.
+Regional distribution guide for psilocybin-containing mushrooms across Asia, covering species, habitats, seasonal patterns, and cultural use. Based on [[jochen-gartz]]'s global survey and [[john-allen]]'s Southeast Asian research. See also [[psilocybin-mushroom-chemistry]] for the worldwide overview and [[mushroom-species-guide]] for species profiles.
 
 ## Southeast Asia
 
@@ -144,3 +145,21 @@ Across Asia, psychoactive mushrooms follow predictable substrate patterns:
 | Bovine dung (cattle/water buffalo) | P. cubensis, P. samuiensis | Tropical lowlands |
 | Equine dung | P. subbalteatus, Panaeolus cyanescens | Tropical/subtropical |
 | Decomposing wood | P. subcaerulipes, Pluteus salicinus | Temperate forests |
+| Forest floor litter | P. argentipes, P. venenata | Temperate forests |
+| Dead hardwood (logs/stumps) | Gymnopilus spectabilis | Temperate |
+| Disturbed soil/grassland | P. subaeruginascens | Subtropical/tropical |
+
+## Seasonal Patterns
+
+- **Equatorial regions** (Indonesia, Malaysia, Philippines, Thailand south): Year-round fruiting possible with adequate rainfall; peaks during monsoon seasons
+- **Subtropical regions** (southern Japan, Taiwan, southern China): Peak fruiting during warm rainy months (May-September)
+- **Temperate regions** (Japan, Korea, northern China): Peak fruiting in warm months (June-October) with autumn peaks for wood-inhabiting species
+- **Monsoon dependence:** Across South and Southeast Asia, the monsoon season is the primary driver of mushroom fruiting. The southwest monsoon (June-September) brings peak conditions across most of the region.
+
+## See Also
+
+- [[psilocybin-mushroom-chemistry]] — Worldwide distribution overview
+- [[mushroom-species-guide]] — Detailed species profiles
+- [[mushroom-folklore-and-culture]] — Cultural use of mushrooms
+- [[jochen-gartz]] — Primary source researcher
+- [[john-allen]] — Southeast Asian mushroom researcher

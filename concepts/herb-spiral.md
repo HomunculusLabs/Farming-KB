@@ -7,7 +7,7 @@ tags: [permaculture, design, gardening, plant-growth, patterns, methods, ecology
 sources: []
 ---
 
-## Herb Spiral
+# Herb Spiral
 
 The herb spiral is a classic permaculture design element that creates a vertical, spiral-shaped garden bed for growing herbs and culinary plants. By building upward in a spiral, it creates multiple microclimates within a small footprint — from a dry, sunny, well-drained top to a moist, shaded, water-retentive bottom. A single herb spiral can replace a 20-30 foot row of conventional garden bed while providing ideal growing conditions for a diverse range of herbs.
 
@@ -148,3 +148,11 @@ The herb spiral integrates with broader permaculture design:
 | Mediterranean herbs dying (rotting) | Too much moisture; planted too low | Move to top of spiral; improve drainage with sand/gravel |
 | Mint taking over entire spiral | Mint spreads by runners | Plant mint in a buried pot; or confine to bottom zone with root barrier |
 | Basil dying quickly | Cold exposure; planted too low or north side | Move to warm, sunny middle zone; basil needs heat |
+| Spiral is drying out too fast | Sandy soil throughout; insufficient water retention | Add more compost to middle and lower zones; increase watering |
+| Water pooling at bottom | No drainage in bottom zone | Add gravel layer at base; ensure soil slopes toward edges |
+| Stone wall collapsing | Insufficient batter angle; poor foundation | Rebuild with stones angled slightly inward; ensure firm base |
+| Herbs bolting (going to seed) | Too hot; planted in wrong zone | Move cool-season herbs (cilantro, dill) to shadier north side |
+
+## Related
+
+- [[permaculture-zones-and-sectors]]

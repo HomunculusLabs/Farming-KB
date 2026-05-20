@@ -1,4 +1,5 @@
 ---
+
 title: Insect Allies
 created: 2026-04-11
 updated: 2026-04-12
@@ -29,7 +30,7 @@ sources:
 - https://ipm.ucanr.edu/
 ---
 
-## Insect Allies
+# Insect Allies
 
 Beneficial insects are the backbone of any ecological pest management strategy. Rather than eradicating all insects, the goal is to build balanced predator-prey populations where pests stay below economic damage thresholds. See [[cannabis-pest-management]] for crop-specific IPM protocols.
 
@@ -100,7 +101,7 @@ Plant specific species to provide nectar, pollen, and alternative prey:
 
 ## Biological Control Products
 
-- **Bt ([[bacillus-thuringiensis]])**: Targeted bacteria — kurstaki for caterpillars, israelensis for fungus gnat larvae. Must be ingested; no effect on adults. Apply at dusk (UV degrades it).
+- **Bt (Bacillus thuringiensis)**: Targeted bacteria — kurstaki for caterpillars, israelensis for fungus gnat larvae. Must be ingested; no effect on adults. Apply at dusk (UV degrades it).
 - **Spinosad (Spinosyn A+D)**: Broad-spectrum but organic; effective on thrips, caterpillars, leafminers. Toxic to bees when wet — apply evening after bloom.
 - **Neem oil (azadirachtin)**: Antifeedant, growth disruptor, mild repellent. Effective on aphids, whiteflies, mites, soft-bodied insects. Can harm beneficials — spot-treat.
 - **Diatomaceous Earth (DE)**: Mechanical desiccant; works on soft-bodied insects (slugs, aphids, ants). Non-selective — kills beneficials too. Use in dry conditions only; loses effectiveness when wet.
@@ -110,11 +111,11 @@ Plant specific species to provide nectar, pollen, and alternative prey:
 
 - **Insect hotels**: Bundled hollow stems, drilled wood blocks, pinecones — attract solitary bees and predatory insects. Keep dry, face southeast. Avoid kits with too-deep holes or smooth plastic tunnels (disease trap).
 - **Pollinator corridors**: Connected habitat strips linking garden, orchard, and wild areas. Hedgerows, native wildflower margins, unmowed buffer zones. See [[companion-planting-reference]] for integrated planting strategies.
-- **Limitation**: Insect hotels alone don't solve pest problems — they're one element of a habitat strategy that includes diverse plantings, [[comparison-no-till-vs-reduced-tillage]], and no broad-spectrum pesticides.
+- **Limitation**: Insect hotels alone don't solve pest problems — they're one element of a habitat strategy that includes diverse plantings, reduced tillage, and no broad-spectrum pesticides.
 
 ## IPM Framework
 
-Biological controls work within an [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] framework:
+Biological controls work within an Integrated Pest Management framework:
 1. **Monitor/identify** — scout regularly; know what's a pest vs beneficial
 2. **Prevent** — healthy soil, resistant varieties, crop rotation, habitat for predators
 3. **Intervene** — start with least-toxic options; biological controls before chemicals

@@ -8,11 +8,11 @@ sources:
 - raw/papers/urban-permaculture-guerilla-gardening.md
 ---
 
-## Urban Guerrilla Gardening
+# Urban Guerrilla Gardening
 
 ## Overview
 
-Urban guerrilla gardening is the practice of cultivating food, native plants, and productive ecosystems on neglected, abandoned, or unauthorized urban land. It combines [[permaculture-design-principles]] with direct action to reclaim concrete-dominated cityscapes for food production, ecological restoration, and community building. The term encompasses a spectrum from seed-bombing vacant lots to systematic reclamation of abandoned properties with full garden installations.
+Urban guerrilla gardening is the practice of cultivating food, native plants, and productive ecosystems on neglected, abandoned, or unauthorized urban land. It combines permaculture design principles with direct action to reclaim concrete-dominated cityscapes for food production, ecological restoration, and community building. The term encompasses a spectrum from seed-bombing vacant lots to systematic reclamation of abandoned properties with full garden installations.
 
 ## Philosophy and Motivation
 
@@ -53,7 +53,7 @@ Core drivers from practitioner accounts:
 
 ### Grafting Urban Fruit Trees
 
-- Graft scion wood of good [[fruit-tree-varieties]] onto crabapples in alleyways
+- Graft scion wood of good fruit tree varieties onto crabapples in alleyways
 - Graft onto non-fruiting cherries, peaches, and plums in parks
 - T-bud graft fruit trees and root semi-hardwood cuttings in tins of wet sand
 - Save diverse vegetable, flower, and herb seeds
