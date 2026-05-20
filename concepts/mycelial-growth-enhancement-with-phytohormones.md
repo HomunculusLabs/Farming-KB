@@ -9,15 +9,15 @@ sources: []
 
 For decades, phytohormones were assumed to function exclusively within
 the plant kingdom. The discovery that brassinosteroids could promote
-mycelial growth and fruiting in fungi (Gartz et al., 1990) challenged
+[[mycelial-growth-and-colonization]] fruiting in fungi (Gartz et al., 1990) challenged
 this assumption and opened the question of whether other plant hormone
 classes might have similar cross-kingdom activity.
 
 Prior to the [[brassinosteroid]] findings, some studies had examined the
-effects of auxins and gibberellins on fungal morphology, but results
+effects of auxins and gibberellins on [[brassinosteroid-effects-on-fungal-morphology]], but results
 were inconsistent and the field received little sustained attention.
 The brassinosteroid work was notable for the magnitude of effect
-observed — 2–3× increases in growth rate — which was far more dramatic
+observed — 2–3× increases in [[soil-temperature-plant-growth-rate-doubling-rule]] — which was far more dramatic
 than earlier reports with other hormone classes.
 
 ## Brassinosteroids
@@ -42,7 +42,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -66,7 +66,7 @@ enables more sustainable and successful long-term implementations.
 
 ## Research Developments
 
-Current research directions and emerging findings for mycelial growth enhancement with phytohormones. Understanding
+[[psychedelic-therapy-current-research]] directions and emerging findings for mycelial growth enhancement with phytohormones. Understanding
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 
@@ -90,7 +90,7 @@ Careful observation and documentation support ongoing improvement.
 
 ## Safety Measures
 
-Essential safety protocols and risk mitigation for mycelial growth enhancement with phytohormones. Understanding
+Essential [[mushroom-edibility-testing-safety-protocols]] and risk mitigation for mycelial growth enhancement with phytohormones. Understanding
 the underlying principles helps practitioners achieve consistent results.
 Careful observation and documentation support ongoing improvement.
 

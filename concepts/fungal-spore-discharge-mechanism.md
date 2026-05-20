@@ -24,7 +24,7 @@ forces rather than muscular or chemical propulsion.
 
 ## Buller's Drop Formation
 
-The discharge mechanism proceeds through a precise sequence:
+The [[basidiospore-discharge-mechanism]] proceeds through a precise sequence:
 
 ### 1. Secretion and Condensation
 
@@ -53,7 +53,7 @@ of its weight concentrated at the base near the drop.
 
 Water continues to accumulate until the two condensation regions — the
 drop on the hilar appendix and the film on the spore surface — become
-large enough to make contact. When this happens, surface tension causes
+large enough to make contact. When this happens, [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] causes
 the droplet to snap from the hump and merge with the fluid on the rest
 of the spore surface. This is similar to two raindrops running down a
 windowpane that suddenly snap together when they touch.
@@ -83,7 +83,7 @@ plume of basidiospores is visible swirling from an active mushroom cap.
 The principles and techniques discussed here have wide-ranging applications
 across multiple disciplines and contexts. Practitioners and researchers
 continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+adapting [[wasted-human-resources-and-traditional-knowledge]] to contemporary challenges and opportunities.
 
 ## Key Considerations
 
@@ -94,7 +94,7 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] of this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
@@ -119,10 +119,10 @@ Historical context provides important lessons for modern applications.
 Collaborative networks and knowledge sharing accelerate progress in this field.
 Emerging technologies offer new tools for analysis and implementation.
 ## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+The principles discussed here have direct applications in agricultural systems, [[mycorrhizal-fungi-ecological-restoration]], and sustainable resource management.
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+Current research explores the intersections between traditional knowledge and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.

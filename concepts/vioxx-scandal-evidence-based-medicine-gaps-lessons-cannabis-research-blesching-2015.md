@@ -42,7 +42,7 @@ but only the marketing of them." This distinction has several important
 implications:
 
 - The FDA evaluates whether a drug is more effective than placebo and
-  "more or less safe" based on pre-approval clinical trials
+  "more or less safe" based on pre-approval [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]]
 - Once marketing is approved, physicians can prescribe the drug for any
   condition they see fit (off-label use), regardless of whether safety has
   been established for those indications

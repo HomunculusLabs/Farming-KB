@@ -36,7 +36,7 @@ and proved to be a superb teacher. He treated every lecture as a word-perfect
 performance, leavening botanical details with humor and genuine interest in his
 audience. Students nicknamed him "Uncle Regie" and many adored him. On Saturday
 mornings, he would walk to the farmers' market, stand on a wooden crate, and
-lecture to crowds about cereal crops and the fungal diseases that afflicted
+lecture to crowds about cereal crops and the [[duggar-mushroom-insect-pests-and-fungal-diseases]] that afflicted
 them. In England he would have been ignored. In Winnipeg he was a star.
 
 ### Spore Discharge Research
@@ -47,7 +47,7 @@ Winnipeg experiments investigated spore discharge — a phenomenon described sin
 the sixteenth century but whose mechanism remained mysterious. This was virgin
 scientific territory.
 
-He estimated spore release rates by collecting deposits beneath mushroom caps
+He estimated [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]] rates by collecting deposits beneath mushroom caps
 and visualized the invisible spore rain with strong light beams. He recognized
 that spore behavior might offer a critical test of Stokes' law of fluid
 dynamics. To substitute spores for water droplets, Buller measured spore size
@@ -99,11 +99,11 @@ mechanisms, hyphal growth physics, genetic material distribution. Lloyd sought
 to catalogue *what* fungi existed — classification, diversity, geographic
 distribution. Both approaches proved essential to the advancement of mycology. Without the
 taxonomic foundation laid by naturalists like Lloyd, experimentalists would lack
-organized knowledge of fungal diversity needed to select appropriate study
+organized knowledge of [[arbuscular-mycorrhizal-fungal-diversity]] needed to select appropriate study
 organisms. Without mechanistic insights produced by experimentalists, taxonomists
 would lack the understanding of process needed to interpret the patterns they
 observe in nature. The odd couple, in their very different ways, each pushed
-the science of mycology forward, and their combined legacy reminds us that
+the [[neglected-science-of-mycology]] forward, and their combined legacy reminds us that
 the deepest understanding comes from the interplay of observation and
 experiment.
 
@@ -113,10 +113,10 @@ experiment.
 - [[bloomfield-mushroom-aerodynamics-wind-spore-dispersal]]
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
+Field observations and experimental data continue to inform [[arbuscular-mycorrhizal-inoculum-production-best-practices]].
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
+[[ghouled-field-guide-historical-context]] provides important lessons for modern applications.
 Collaborative networks and knowledge sharing accelerate progress in this field.
 ## Further Considerations
 Ongoing research and field trials continue to expand our understanding of this subject.

@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-**Melissa officinalis** L., commonly known as [[comparison-astragalus-vs-lemon-balm]], balm, or sweet balm, is a perennial herbaceous plant in the mint family Lamiaceae. It is native to southern Europe, the Mediterranean basin, and Central Asia.
+**[[lemon-balm-melissa-officinalis]]** L., commonly known as [[comparison-astragalus-vs-lemon-balm]], balm, or sweet balm, is a perennial herbaceous plant in the mint family Lamiaceae. It is native to southern Europe, the Mediterranean basin, and Central Asia.
 
 The species has been cultivated for over 2,000 years for its culinary, medicinal, and aromatic properties. Its leaves emit a distinctive lemon fragrance when crushed due to high concentrations of citral, geranial, and neral.
 

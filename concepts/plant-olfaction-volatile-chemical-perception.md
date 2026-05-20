@@ -19,7 +19,7 @@ atmosphere. These include:
   released from damaged leaves. Examples: hexenal, hexanol, hexenyl acetate
 - **Phenylpropanoids/benzenoids** — derived from phenylalanine. Examples:
   methyl salicylate, eugenol
-- **Fatty acid derivatives** — including jasmonic acid and its volatile
+- **Fatty acid derivatives** — including [[jasmonic-acid-plant-defense-signaling]] and its volatile
   methyl ester (methyl jasmonate)
 - **Ethylene** — the simplest plant hormone (C2H4), a gaseous signal
   molecule involved in fruit ripening, senescence, [[mycovolatiles-fungal-volatile-compounds]] through several mechanisms:
@@ -33,13 +33,13 @@ atmosphere. These include:
    they interact with intracellular sensors or modify protein function.
 
 3. **Enzymatic conversion** — some VOCs are converted to active forms upon
-   entering tissues. Methyl salicylate → salicylic acid is one example.
+   entering tissues. Methyl salicylate → [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] is one example.
 4. **Membrane modulation** — certain volatiles alter membrane fluidity or
    ion channel function, triggering rapid physiological responses.
 
 ### Ethylene Perception: The Best-Characterized System
 
-Ethylene perception is the most thoroughly understood volatile signaling system
+Ethylene perception is the most thoroughly understood [[plant-olfaction-and-volatile-signaling]] system
 in plants. Ethylene receptors are membrane-bound histidine kinases related to
 bacterial two-component systems. In the absence of ethylene, these receptors
 actively suppress the ethylene response pathway. When ethylene binds, receptor
@@ -62,7 +62,7 @@ bouquet of VOCs that serve multiple functions:
 - **Direct defense** — some compounds are directly toxic or repellent to
   herbivores
 - **Predator attraction** — VOCs recruit natural enemies of the herbivore
-  (parasitoid wasps, predatory mites)
+  ([[comparison-parasitoid-wasps-vs-chemical-pesticides]], [[comparison-predatory-mites-vs-ladybugs-biocontrol]])
 - **Neighbor warning** — undamaged neighboring plants perceive the VOCs and
   preemptively activate their own defense pathways
 
@@ -118,6 +118,6 @@ Plant olfaction operates at every ecological scale:
 - **Individual level** — detecting tissue damage and activating defenses
 - **Population level** — coordinating flowering, ripening, and dormancy
 - **Community level** — mediating competitive and mutualistic interactions
-- **Ecosystem level** — influencing nutrient cycling through VOC effects on soil
+- **Ecosystem level** — influencing [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] through VOC effects on soil
   [[chamovitz-ultraviolet-and-infrared-plant-light-perception]] — how plants "feel"
 - [[ethylene-plant-hormone-ripening-stress]] — ethylene in fruit development

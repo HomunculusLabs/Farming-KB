@@ -43,7 +43,7 @@ It grows naturally on rocky slopes, scree, limestone outcrops, and dry alpine me
 
 The plant is well adapted to harsh mountain conditions, tolerating cold temperatures, strong winds, and intense UV radiation. Its woolly foliage provides insulation and reflects excess solar radiation.
 
-It has become naturalized in parts of North America, particularly in the northeastern [[green-cannabis-grow-bible-cloning-and-seed-propagation]] is possible but rarely practiced, as vegetative methods are faster and more reliable. Seeds germinate in 14–21 days at 15–20 °C without pretreatment requirements.
+It has become naturalized in parts of North America, particularly in the northeastern [[green-cannabis-grow-bible-cloning-and-seed-propagation]] is possible but rarely practiced, as [[query-how-do-i-propagate-plants-from-cuttings-and-other-vegetative-methods]] are faster and more reliable. Seeds germinate in 14–21 days at 15–20 °C without pretreatment requirements.
 
 The plant spreads rapidly by rooting at the nodes where stems contact soil. A single plant can spread to cover 60–90 cm within two [[cannabis-root-rot-prevention-and-treatment]] occur readily in heavy, poorly drained soils or in areas with high summer rainfall.
 
@@ -62,7 +62,7 @@ The plant is deer-resistant and rarely bothered by rabbits. Its woolly, bitter-t
 ## Overview
 
 Cerastium Tomentosum represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -76,7 +76,7 @@ and management across diverse environmental conditions.
 ## Ecological Context
 
 The ecological relationships involving cerastium extend
-across multiple trophic levels and functional groups.
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
 Soil biology, water cycles, and energy flows all interact
 with this element in complex and beneficial ways.
 
@@ -91,13 +91,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for cerastium tomentosum. Climate adaptation
+opportunities for cerastium tomentosum. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -112,7 +112,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 cerastium tomentosum and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

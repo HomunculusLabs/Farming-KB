@@ -24,7 +24,7 @@ vicinity of Lake Titicaca, straddling modern-day Peru and Bolivia. It
 remained a staple crop of Andean civilizations through the pre-Columbian
 era.
 
-The United Nations declared 2013 the International Year of Quinoa in
+The [[new-united-nations-concept]] declared 2013 the International Year of Quinoa in
 recognition of its nutritional value and potential contribution to global
 food security.
 

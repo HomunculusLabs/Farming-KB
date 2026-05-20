@@ -24,7 +24,7 @@ between the gills, then is swept away by air currents beneath the cap.
 
 ## The Problem of Speed
 
-The spore discharge is so fast that even high-speed cameras struggled to
+The [[bloomfield-fungal-spore-discharge-and-dispersal]] is so fast that even high-speed cameras struggled to
 capture it. John Webster attempted to film the process at a film institute in
 Germany, watching through a microscope and holding a trigger for the camera.
 Even at very high speeds, the best sequences showed hundreds of frames with
@@ -116,10 +116,10 @@ Field observations and experimental data continue to inform best practices.
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
 ## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+The principles discussed here have direct applications in agricultural systems, [[mycorrhizal-fungi-ecological-restoration]], and sustainable [[savory-holistic-resource-management-animal-impact]].
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+[[psychedelic-therapy-current-research]] explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.

@@ -25,7 +25,7 @@ Cones are slender and cylindrical, 5–9 cm long and 2–2.5 cm wide, with thin,
 
 Seeds are small with long wings, dispersed by wind in autumn. Seed viability declines rapidly; most seeds germinate within the first year after dispersal.
 
-Natural regeneration is most successful on exposed mineral soil following disturbance, particularly on alluvial floodplains and recently deglaciated terrain. Seedling establishment requires high light levels and continuous moisture.
+[[biodiversity-power-natural-regeneration]] is most successful on exposed mineral soil following disturbance, particularly on alluvial floodplains and recently deglaciated terrain. Seedling establishment requires high light levels and continuous moisture.
 
 Vegetative reproduction is rare under natural conditions, though layering has been observed on steep slopes where lower branches contact moist substrate.
 
@@ -37,7 +37,7 @@ Its inland range rarely extends more than 80 km from the Pacific Ocean, reflecti
 
 Elevational range spans from sea level to approximately 900 meters, with the tallest specimens occurring in low-elevation valleys with deep, moist alluvial soils.
 
-The species thrives in the cool, wet maritime climate of the Pacific Northwest, where annual precipitation ranges from 1,000 to over 5,000 mm. Fog drip is a critical supplemental moisture source during dry summer months.
+The species thrives in the cool, wet maritime climate of the [[psilocybin-north-america-pacific-northwest]], where annual precipitation ranges from 1,000 to over 5,000 mm. Fog drip is a critical supplemental moisture source during dry summer months.
 
 It grows on a wide range of soil types but performs best on deep, well-drained alluvial and colluvial soils with ample [[coleman-sunlight-and-winter-crop-growth-rates]] and increased mortality.
 
@@ -70,7 +70,7 @@ The species accounts for a significant proportion of commercial softwood product
 ## Overview
 
 Picea Sitchensis represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -99,13 +99,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for picea sitchensis. Climate adaptation
+opportunities for picea sitchensis. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -120,7 +120,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 picea sitchensis and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

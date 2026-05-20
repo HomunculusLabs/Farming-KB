@@ -82,3 +82,11 @@ Native to Bolivia (departments of La Paz, Cochabamba, Santa Cruz), growing at 2,
 | Tissue | Mescaline Content (dry weight) |
 |---|---|
 | Outer green tissue (skin) | 0.3–2.0% (typically 0.5–1.2%) |
+
+## See Also
+
+- [[cactus-alkaloids-reference]]
+- [[cactus-cultivation-seed-cutting]]
+- [[echinocactus-grusonii]]
+- [[echinopsis-lageniformis]]
+- [[echinopsis-pachanoi]]

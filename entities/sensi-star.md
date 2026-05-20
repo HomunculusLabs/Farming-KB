@@ -34,7 +34,7 @@ Afghani heritage contributes the strain's dense [[cannabis-glandular-trichome-ty
 
 Buds are compact, dense, and heavy for their size, typical of Afghani-descended indicas.
 
-The calyxes are tightly packed with a thick coating of trichomes that gives them a frosty appearance.
+The calyxes are tightly packed with a thick coating of [[trichomes]] that gives them a frosty appearance.
 
 Colors range from deep green to slightly purple, especially in cooler growing conditions.
 
@@ -58,7 +58,7 @@ CBD levels are generally low, usually below 0.5%.
 
 Some phenotypes have tested above 25% THC in competitive grows.
 
-The high myrcene content contributes to the strain's sedative character.
+The high [[myrcene]] content contributes to the strain's sedative character.
 
 ## Effects
 

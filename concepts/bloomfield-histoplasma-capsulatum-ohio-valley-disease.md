@@ -118,5 +118,5 @@ Understanding these interconnected mechanisms provides a foundation for both res
 
 This synthesis highlights the importance of cross-disciplinary
 approaches to understanding complex biological phenomena.
-The interplay between molecular mechanisms and ecological
+The interplay between molecular [[fungal-allelopathy-mechanisms-and-ecological-effects]]
 context continues to yield new insights for practitioners.

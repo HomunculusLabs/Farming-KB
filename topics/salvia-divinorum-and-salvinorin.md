@@ -147,4 +147,3 @@ protection from direct sunlight and frost. The plant is sensitive to
 - [[salvinorin-a-kappa-opioid-receptor-pharmacology]] — receptor pharmacology
 - [[psycholytic-versus-psychedelic-therapy-models]] — therapeutic applications
 - [[mazatec-mushroom-velada]] — traditional ceremonial context
-

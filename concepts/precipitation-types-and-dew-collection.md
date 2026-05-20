@@ -9,7 +9,7 @@ regional characteristics.
 The world average rainfall is approximately 86cm (34 inches) per year. Regions
 receiving 50cm or less are classified as semi-arid, while arid or desert regions
 receive 25cm or less annually. These thresholds are critical benchmarks for
-selecting water storage strategies, conservation measures, and plant species.
+selecting water [[yield-extension-and-storage-strategies]], conservation measures, and plant species.
 
 Water storage strategies become essential as precipitation decreases. In dry
 climates, evaporation routinely exceeds precipitation, so without active capture
@@ -25,7 +25,7 @@ than one receiving the same total spread evenly across 200 days. Flooding
 histories are particularly important — understanding the frequency, severity,
 and seasonal timing of flood events allows designers to position structures and
 growing areas safely. Averages smooth out extreme events that cause the most
-damage and offer the most design opportunities, through floodwater harvesting
+damage and offer the most design opportunities, through [[floodwater-harvesting-and-braided-stream-management]]
 and spreading channels that turn destructive flows into productive infiltration.
 
 There is an inverse relationship between precipitation and available light. As
@@ -72,7 +72,7 @@ averages, and developing strategies to capture, store, and distribute each
 ## Overview
 
 Precipitation Types And Dew Collection represents an important element within sustainable
-design and ecological management systems. Its proper understanding
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.
 
@@ -101,13 +101,13 @@ Site-specific adaptation ensures relevance to local conditions.
 
 Effective management requires attention to seasonal patterns
 and environmental feedback loops. Monitoring outcomes supports
-adaptive management strategies that improve results over time.
+adaptive [[forest-management-strategies]] that improve results over time.
 Integration with complementary elements enhances system function.
 
 ## Regional Considerations
 
 Different geographic regions present unique challenges and
-opportunities for precipitation types and dew collection. Climate adaptation
+opportunities for precipitation types and dew collection. [[jeavons-climate-adaptation-growing-seasons]]
 strategies vary across cultivation zones and latitude ranges.
 Local knowledge and site observation remain essential guides.
 
@@ -122,7 +122,7 @@ Economic sustainability balances environmental and social needs.
 
 Ongoing research continues to expand understanding of
 precipitation types and dew collection and its applications. Active investigation
-areas include ecological interactions and optimization.
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
 Published findings contribute to an evolving evidence base.
 
 ## Historical Context

@@ -86,7 +86,7 @@ Frequently encountered obstacles and their proven solutions. Success with shirot
 
 ## Research Developments
 
-Current research directions and emerging findings in this field. Success with shirota glyoxalylamide formation oxalyl chloride i depends on understanding the interplay of multiple factors in any given context. Practitioners benefit from maintaining detailed records and adapting their approach based on observed results and changing conditions.
+[[psychedelic-therapy-current-research]] directions and emerging findings in this field. Success with shirota glyoxalylamide formation oxalyl chloride i depends on understanding the interplay of multiple factors in any given context. Practitioners benefit from maintaining detailed records and adapting their approach based on observed results and changing conditions.
 
 ## Implementation Methods
 
@@ -102,7 +102,7 @@ Specific technical specifications that govern successful results. Success with s
 
 ## Significance in the Synthetic Route
 
-The glyoxalylamide intermediate is the direct precursor to psilocin in the Shirota synthesis.
+The [[glyoxalylamide-intermediate-in-tryptamine-synthesis]] is the direct precursor to psilocin in the Shirota synthesis.
 
 Reduction of the glyoxalylamide with lithium aluminum hydride converts both the glyoxalyl carbonyl and the acetyl carbonyl to methylene groups, producing psilocin in a single operation.
 
@@ -111,10 +111,10 @@ This reduction step is remarkable because it simultaneously removes the acetyl p
 The efficiency of this transformation is a key advantage of the Shirota route over alternative syntheses.
 ## Further Reading
 Continued research and practical application deepen understanding of this topic.
-Field observations and experimental data continue to inform best practices.
+Field observations and experimental data continue to inform [[arbuscular-mycorrhizal-inoculum-production-best-practices]].
 Cross-disciplinary approaches offer promising avenues for further investigation.
 Integration with ecological principles enhances long-term sustainability.
-Historical context provides important lessons for modern applications.
+[[ghouled-field-guide-historical-context]] provides important lessons for modern applications.
 Collaborative networks and knowledge sharing accelerate progress in this field.
 Emerging technologies offer new tools for analysis and implementation.
 Local adaptation and context-specific strategies remain essential for success.

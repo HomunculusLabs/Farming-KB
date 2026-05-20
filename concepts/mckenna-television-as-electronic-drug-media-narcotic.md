@@ -88,12 +88,12 @@ suppression was a necessary precondition for the establishment of
 - [[mckenna-ayahuasca-healing-icaros-sound-suggestion]]
 - [[mckenna-food-of-the-gods-thesis]]
 ## Practical Applications
-The principles discussed here have direct applications in agricultural systems, ecological restoration, and sustainable resource management.
+The principles discussed here have direct applications in agricultural systems, [[mycorrhizal-fungi-ecological-restoration]], and sustainable [[savory-holistic-resource-management-animal-impact]].
 Practitioners have demonstrated successful implementation across diverse climates and soil conditions.
 Adaptation to local conditions and careful observation remain central to effective application.
 
 ## Research Directions
-Current research explores the intersections between traditional knowledge and modern scientific understanding.
+[[psychedelic-therapy-current-research]] explores the intersections between [[wasted-human-resources-and-traditional-knowledge]] and modern [[fukuoka-fallacies-scientific-understanding]].
 Comparative studies across different bioregions provide valuable insights into generalizable principles.
 Long-term monitoring and documentation continue to build the evidence base for these approaches.
 Collaborative research networks facilitate knowledge exchange and accelerate innovation.
@@ -119,4 +119,4 @@ Documentation of results enables continuous improvement and knowledge sharing.
 ## Future Directions
 Emerging research continues to validate and refine traditional approaches.
 Integration with modern technology offers new possibilities for monitoring and optimization.
-Collaborative networks facilitate rapid dissemination of innovations and best practices.
+Collaborative networks facilitate rapid dissemination of innovations and [[arbuscular-mycorrhizal-inoculum-production-best-practices]].

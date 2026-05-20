@@ -63,7 +63,7 @@ In Hawaii, it invades mid-elevation moist forests (600–1,700 m), forming dense
 
 The Azores archipelago has experienced severe invasion, particularly on São Miguel island, where it dominates riparian areas and native laurel forest understories. Climate modeling suggests its invasive range will expand with warming temperatures.
 
-Effective management requires sustained control efforts combining manual removal, herbicide application, and biological control research.
+Effective management requires sustained control efforts combining manual removal, herbicide application, and [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] research.
 ## Ecology and Environmental Impact
 
 Kahili ginger reproduces both sexually (seed) and asexually (rhizome fragmentation). This dual reproductive strategy contributes to its aggressive colonization ability.
@@ -76,6 +76,6 @@ The dense leaf canopy shades out native seedlings, while the thick rhizome mat p
 
 In New Zealand, invasion leads to the displacement of native [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research has identified the ginger weevil (*Derelomus hedychi*) and a leaf roller (*Exeristes roborator*) as potential agents, but no [[entheogenic-folk-religious-ceremonies]], particularly in Nepal and Bengal. Garlands of Kahili ginger flowers are offered during festivals and placed at temples.
 
-Essential oil extracted from flowers and rhizomes is used in perfumery. The fragrance is described as warm, floral, and slightly spicy with honey-like undertones.
+[[permaculture-designers-manual-essential-oil-plants]] extracted from flowers and rhizomes is used in perfumery. The fragrance is described as warm, floral, and slightly spicy with honey-like undertones.
 
 Ornamental cultivation remains the primary use globally. The plant is valued for its dramatic flowers, tropical appearance, and sweet fragrance. It grows well in subtropical gardens with adequate moisture and partial shade.

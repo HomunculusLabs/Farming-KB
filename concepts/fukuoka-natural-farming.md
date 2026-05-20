@@ -153,4 +153,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fukuoka-do-nothing-health-philosophy]]
 - [[fukuoka-orchard-method]]
 - [[fukuoka-machine-culture-doomed]]
-
