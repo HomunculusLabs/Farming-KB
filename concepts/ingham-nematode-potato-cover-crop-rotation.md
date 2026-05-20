@@ -1,4 +1,5 @@
 ---
+title: Nematode Management in Potato Crops Using Cover Crop Rotation
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 source_type: paper
 topics: [nematodes, potatoes, cover-crop, rotation, root-knot,

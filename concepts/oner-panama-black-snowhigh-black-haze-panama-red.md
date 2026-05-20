@@ -1,4 +1,5 @@
 ---
+title: Panama Black — Black Haze × polm-gold-moroccan-chefchaouen-sativa-hybrid brid bred by America's
 source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 source_type: paper
 topics: [cannabis, sativa, panama-black, snowhigh-seeds,
@@ -147,4 +148,3 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also

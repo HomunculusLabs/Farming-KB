@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [psychotherapy, hallucinogens, history, lsd, psilocybin, mescaline, mdma, grof, osmond, leary, metzner, shamanism]
 sources:
-  - raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+  - "raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md"
   - raw/papers/hofmann-a-lsd-my-problem-child.md
 ---
 

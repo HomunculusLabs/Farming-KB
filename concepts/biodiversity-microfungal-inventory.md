@@ -12,6 +12,7 @@ updated: 2026-04-28
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
+---
 
 ## Microfungal Inventory Methods
 

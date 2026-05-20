@@ -5,8 +5,8 @@ tags: [query, natural-building, slipform, stone-masonry, homesteading, construct
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - raw/concepts/slip-form-stone-construction.md
-  - raw/concepts/cordwood-construction.md
+  - "raw/concepts/slip-form-stone-construction.md"
+  - "raw/concepts/cordwood-construction.md"
 related_concepts:
   - slip-form-stone-construction
   - natural-building-techniques

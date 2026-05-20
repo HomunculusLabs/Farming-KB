@@ -11,7 +11,7 @@ tags:
   - controversy
   - etymology
 sources:
-  - raw/papers/allegro-j-the-sacred-mushroomcross.md
+  - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 

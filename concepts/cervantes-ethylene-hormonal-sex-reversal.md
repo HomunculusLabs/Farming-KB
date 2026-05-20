@@ -9,6 +9,8 @@ tags:
 determination. Understanding how ethylene regulates floral development
 has enabled breeders to develop techniques for producing feminized
 (all-female) seed through hormonal sex reversal.
+type: concept
+---
 
 ## The Role of Ethylene in Cannabis
 

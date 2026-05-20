@@ -6,6 +6,7 @@ type: concept
 tags: [cannabis]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## [[cervantes-growing-medium]] — Rooting medium options

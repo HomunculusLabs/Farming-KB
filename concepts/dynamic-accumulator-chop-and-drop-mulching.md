@@ -3,7 +3,7 @@ title: nutrient-dynamic-accumulator-reference — Chop-and-Drop Mulching
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/nutrient-and-dynamic-accumulators.md
+  - "raw/papers/nutrient-and-dynamic-accumulators.md"
 type: concept
 tags: [mulch]
 ---

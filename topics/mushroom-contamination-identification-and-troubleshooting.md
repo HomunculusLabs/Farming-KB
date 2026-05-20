@@ -3,12 +3,12 @@ title: Mushroom Contamination Identification and Troubleshooting
 created: 2026-05-19
 tags: [mushroom-cultivation, contamination, mold, bacteria, pests, sterile-technique, troubleshooting, mycology]
 sources:
-  - raw/papers/the-mushroom-cultivator-stamets.md
-  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
-  - raw/papers/unknown-oyster-mushroom-cultivation.md
-  - raw/papers/marijuana-horticulture-cervantes.md
-  - raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md
-  - raw/papers/cotter-organic-mushroom-farming-mycoremediation.md
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
+  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md"
+  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 type: topic
 ---
 

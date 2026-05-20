@@ -1,4 +1,5 @@
 ---
+title: Permaculture Access and Circulation Design
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -11,7 +12,7 @@ tags:
   - zone-planning
   - mollison
 sources:
-  - raw/papers/bill-mollison-permaculture-design-course.md
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 

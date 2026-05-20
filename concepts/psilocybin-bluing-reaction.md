@@ -16,7 +16,7 @@ tags:
 - patterns
 
 sources:
-  - raw/papers/magic-mushrooms-around-the-world-gartz.md
+  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
   - raw/papers/magic_mushrooms_around_the_world.md
 ---
 

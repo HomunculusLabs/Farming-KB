@@ -12,8 +12,8 @@ tags:
   - aftercare
   - community
 sources:
-  - raw/papers/the-psilocybin-solution-by-simon-g-powell.md
-  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
   - raw/particles/hofmann-a-lsd-my-problem-child.md
 ---
 

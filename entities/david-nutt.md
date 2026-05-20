@@ -1,4 +1,5 @@
 ---
+title: David Nutt
 name: David Nutt
 type: person
 categories: [neuropsychopharmacologist, drug-policy-reformer, author, professor]

@@ -11,7 +11,7 @@ tags:
   - neuroscience
   - pharmacokinetics
 sources:
-  - raw/particles/hofmann-a-lsd-my-problem-child.md
+  - "raw/particles/hofmann-a-lsd-my-problem-child.md"
   - raw/papers/the-psilocybin-solution-by-simon-g-powell.md
 ---
 

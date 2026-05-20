@@ -1,4 +1,5 @@
 ---
+title: Liberty Cap Discovery and Naturalisation in Britain
 
 ## Liberty Cap Discovery and Naturalisation in Britain
 

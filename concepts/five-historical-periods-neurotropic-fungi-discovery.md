@@ -1,4 +1,5 @@
 ---
+title: Five Historical Periods of Neurotropic Fungi Discovery
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-gartz.md
 tags: [neurotropic-fungi, history, discovery, ethnomycology, wasson, guzman]
 ---

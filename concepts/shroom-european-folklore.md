@@ -1,4 +1,5 @@
 ---
+title: Magic Mushrooms in European Folklore
 
 ## Magic Mushrooms in European Folklore
 

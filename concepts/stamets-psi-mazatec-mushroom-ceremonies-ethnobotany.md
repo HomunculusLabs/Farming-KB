@@ -5,8 +5,8 @@ tags: [ethnobotany, mazatec, ceremonial, history, mexico]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 type: concept
 ---
 

@@ -5,8 +5,8 @@ updated: 2026-04-12
 type: entity
 tags: [person, mycology, microbes, academia]
 sources:
-  - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
-  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
   - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 ---
 

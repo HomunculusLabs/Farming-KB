@@ -57,7 +57,7 @@ construct that seeks purification through punishment (of self or other).
 
 ### Preventing Guilt
 
-A person guided by ideals (healthy motivations) and principles (specific
+A person guided by ideals (healthy motivations) [[permaculture-ethics-and-principles]] (specific
 behaviors that steer toward ideals), with the character to consistently apply
 those principles to inform all behavior, has no need for guilt.
 
@@ -118,7 +118,7 @@ less conscious choice and as such can be changed or undone by another choice.
 
 ### Forgiveness as a Release Tool
 
-When we do not let ourselves take the easy way (of choice) because we hold a
+When we do not let ourselves take [[raising-seedlings-the-easy-way]] (of choice) because we hold a
 judgment, we can employ forgiveness. As we forgive guilt, martyrdom, and
 harbored anger, we significantly strengthen our capacity to heal.
 
@@ -134,7 +134,7 @@ harbored anger, we significantly strengthen our capacity to heal.
 On a piece of paper, write out your anger. Get descriptive and detailed. Use
 as many senses as possible. The idea is not to show anyone but to get the
 anger out of your system. When you feel done, safely destroy the paper. This
-gives your subconscious the message that this is how you want to deal with
+gives your subconscious the message that this is how you want [[query-how-to-deal-with-deer-and-other-wildlife-in-your-garden]]
 anger: honestly, in detail, and definitively.
 
 ## See Also

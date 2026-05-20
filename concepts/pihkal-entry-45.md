@@ -1,4 +1,5 @@
 ---
+title: 2C-T-9 — 2,5-Dimethoxy-4-(t)-butylthiophenethylamine
 source: shulgin-a-pihkal.md
 source_path: ~/wiki/raw/papers/shulgin-a-pihkal.md
 entry_number: 45

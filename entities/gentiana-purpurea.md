@@ -1,4 +1,5 @@
 ---
+title: Gentiana purpurea
 name: Gentiana purpurea
 type: entity
 category: species

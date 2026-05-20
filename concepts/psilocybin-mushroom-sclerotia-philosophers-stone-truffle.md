@@ -1,4 +1,5 @@
 ---
+title: Psilocybin Mushroom Sclerotia: Philosopher's Stone and Truffles
 source: carolina-mushrooms_08qxp.md
 tags: [emcdda, europe, hallucinogenic-mushrooms, sclerotia, psilocybe-mexicana, truffles]
 ---

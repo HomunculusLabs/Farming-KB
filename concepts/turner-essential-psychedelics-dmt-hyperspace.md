@@ -3,7 +3,7 @@ title: Turner Essential Psychedelics Dmt Hyperspace
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/the-essential-psychedelics-guide-by-dm-turner.md
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 type: concept
 tags: [dmt, psychedelics]
 ---

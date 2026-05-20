@@ -22,6 +22,7 @@ sources:
   - Smith, A.H. & Thiers, H.D. (1964). "A contribution toward a monograph of growing-gourmet-north-american-reishi-species species of Suillus." Ann Arbor: University of Michigan Press.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - Kuo, M. (2024). "Suillus pungens." MushroomExpert.com. https://www.mushroomexpert.com/suillus_pungens.html---
+---
 
 ## Suillus pungens
 

@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [peyote, cacti, mescaline, san-pedro, peruvian-torch, ethnobotany, native-american-church, cultivation, extraction]
 sources:
-  - raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md
+  - "raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"
   - raw/papers/a-golden-guide-to-hallucinogenic-plants.md
 ---
 

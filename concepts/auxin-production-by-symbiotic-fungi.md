@@ -5,7 +5,7 @@ tags: mycorrhiza, auxin, plant-hormones, fungal-physiology, root-development]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/symbiotic-fungi.md
+  - "raw/papers/symbiotic-fungi.md"
 type: concept
 ---# Auxin Production by Symbiotic Fungi
 

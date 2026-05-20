@@ -5,6 +5,7 @@ updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 ## Fukuoka on Agricultural Pollution and Consumer Culpability

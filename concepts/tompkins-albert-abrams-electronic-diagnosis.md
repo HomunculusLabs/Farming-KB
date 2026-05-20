@@ -5,7 +5,7 @@ tags: [history, alternative-medicine, electromagnetism, biophysics]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/tompkins-secret-life-of-plants.md
+  - "raw/papers/tompkins-secret-life-of-plants.md"
 type: concept
 ---# Albert Abrams and Electronic Diagnosis of Disease
 

@@ -17,7 +17,6 @@ sources:
   - "raw/papers/mushrooms-fungi-from-around-the-world.md"
   - "raw/papers/growing-the-woodlovers-outdoors.md"
   - "raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md"
-  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 related_concepts:
   - mushroom-identification-basics
   - mushroom-identification-resources

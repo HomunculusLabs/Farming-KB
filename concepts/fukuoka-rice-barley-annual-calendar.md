@@ -18,6 +18,7 @@ tags:
 - equipment
 
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 - raw/papers/masanobu-fukuoka-fukuoka.md
 - raw/papers/one-straw-revolution-masanobu-fukuoka.md
 ---
@@ -147,4 +148,3 @@ For fields currently under conventional cultivation:
 
 Fukuoka noted this method could be adapted:
 - Where water is scarce: upland rice, buckwheat, sorghum, millet
-- Instead of white clover: other clover varieties, alfalfa, vetch, or lupine

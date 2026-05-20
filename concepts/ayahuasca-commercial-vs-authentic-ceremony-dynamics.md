@@ -1,20 +1,3 @@
----
-title: Ayahuasca Commercial Vs Authentic Ceremony Dynamics
-created: 2026-04-28
-updated: 2026-04-28
-sources:
-  - raw/papers/stuart-r-ayahuasca-tourism.md
-type: concept
-tags:
-  - ayahuasca
-  - stuart-r-ayahuasca-tourism-cautionary-ethnography. R. Stuart's 2002 field observations
-in Peru's [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] are conducted within
-a framework of community relationships, dietary
-restrictions, and spiritual preparation that extends
-far beyond the ceremony itself. Participants typically
-know the shaman personally, have observed the
-preparation of the brew, and share a cultural
-understanding of the experience's purpose and meaning.
 
 The ceremony serves multiple functions: healing
 physical and psychological ailments, resolving
@@ -77,7 +60,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish ayahuasca commercial vs authentic ceremony dynamics
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -91,7 +74,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Ayahuasca Commercial Vs Authentic Ceremony Dynamics finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -147,4 +130,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[ayahuasca-ceremony-and-mariri-system]]
-- [[ayahuasca-sorcery-types]]

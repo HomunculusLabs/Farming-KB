@@ -1,30 +1,7 @@
----
-
-title: Fukuoka No-Prune Fruit Tree Method
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-
-tags:
-- regenerative
-- no-till
-- pest-management
-- orchard
-- fruit-tree
-- pruning
-- trees
-- ph
-- leaf-litter
-- plant-systems
-
-sources:
-- raw/papers/one-straw-revolution-masanobu-fukuoka.md
-- raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
----
 
 ## Fukuoka No-Prune Fruit Tree Method
 
-Masanobu Fukuoka's most radical orchard claim: **fruit trees do not need pruning if grown in their natural form from the start**. This runs counter to virtually all commercial fruit growing, which considers pruning the most essential orchard skill. Fukuoka argues that pruning creates the very problems it claims to solve — tangled branches, poor ventilation, alternate bearing — because it forces trees into unnatural shapes that then require constant maintenance.
+[[masanobu-fukuoka]]'s most radical orchard claim: **fruit trees do not need pruning if grown in their natural form from the start**. This runs counter to virtually all commercial fruit growing, which considers pruning the most essential orchard skill. Fukuoka argues that pruning creates the very problems it claims to solve — tangled branches, poor ventilation, alternate bearing — because it forces trees into unnatural shapes that then require constant maintenance.
 
 ## The Natural Form of a Tree
 
@@ -70,7 +47,7 @@ Variation by type:
 The tree must be:
 1. **Started from seed or unpruned nursery stock** — most nursery trees are already pruned or root-damaged, which makes pruning necessary from the start
 2. **Grown with no-till, no-fertilizer, no-spray methods** — these methods create the conditions where natural form can express itself
-3. **Supported by biodiversity** — ground cover, beneficial insect habitat, windbreaks
+3. **Supported by biodiversity** — ground cover, [[beneficial-insect-habitat]], windbreaks
 4. **Given proper spacing** — no competition from neighboring trees
 
 ### Correcting Previously Pruned Trees
@@ -147,4 +124,3 @@ Fukuoka provides a resistance guide (from Natural Way of Farming):
 - [[fukuoka-old-rice-variety-yield-scientific-agriculture-critique]]
 - [[fukuoka-rice-and-barley-natural-farming]]
 - [[fukuoka-western-commitment-and-japanese-halfheartedness]]
-- [[fukuoka-deficit-farming-agricultural-energy-crisis]]

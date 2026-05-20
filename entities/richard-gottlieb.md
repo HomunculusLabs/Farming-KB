@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: entity
 tags: [person, mycology, cultivation, ethnobotany]
 sources:
-  - raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md
+  - "raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"
   - raw/papers/gottlieb-a-the-psilocybin-producers-guide.md
 ---
 

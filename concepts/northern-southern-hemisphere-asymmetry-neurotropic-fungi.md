@@ -1,4 +1,5 @@
 ---
+title: Northern-Southern Hemisphere Asymmetry in Neurotropic Fungi
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-gartz.md
 tags: [neurotropic-fungi, distribution, biogeography, psilocybe, diversity, hemisphere]
 ---

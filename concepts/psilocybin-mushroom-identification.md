@@ -1,5 +1,8 @@
 ---
-
+title: Psilocybin Mushroom Identification
+tags: []
+type: concept
+---
 ## Psilocybin Mushroom Identification
 
 Accurate identification of psilocybin-containing mushrooms is essential for both
@@ -145,4 +148,3 @@ current understanding and implementation strategies.
 Successful integration of psilocybin mushroom identification into broader
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
-Monitoring integration outcomes supports adaptive management.

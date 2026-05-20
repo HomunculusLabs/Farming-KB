@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - raw/papers/greg-green-the-cannabis-grow-bible.md
+  - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 type: concept
 tags: [cannabis]
 ---

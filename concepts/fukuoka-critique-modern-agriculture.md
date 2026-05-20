@@ -1,4 +1,5 @@
 ---
+title: Fukuoka Critique of Modern Agriculture
 
 ## Fukuoka Critique of Modern Agriculture
 

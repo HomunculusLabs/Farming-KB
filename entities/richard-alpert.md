@@ -5,10 +5,10 @@ updated: 2026-04-12
 type: entity
 tags: [person, psychedelics, spirituality, academia]
 sources:
-  - raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
-  - raw/papers/hofmann-a-lsd-my-problem-child.md
-  - raw/papers/leary-t-the-psychedelic-experience.md
-  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - "raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md"
+  - "raw/papers/hofmann-a-lsd-my-problem-child.md"
+  - "raw/papers/leary-t-the-psychedelic-experience.md"
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
   - raw/papers/mckenna_t-food_of_the_gods.md
 ---
 

@@ -6,9 +6,9 @@ tags: [comparison, natural-building, straw-bale, earthbag, homesteading, sustain
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - raw/concepts/straw-bale-construction.md
-  - raw/concepts/earthbag-construction.md
-  - raw/concepts/earthbag-building.md
+  - "raw/concepts/straw-bale-construction.md"
+  - "raw/concepts/earthbag-construction.md"
+  - "raw/concepts/earthbag-building.md"
 related_concepts:
   - straw-bale-construction
   - earthbag-construction

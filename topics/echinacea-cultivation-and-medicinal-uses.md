@@ -7,7 +7,7 @@ tags: [echinacea, medicinal-herbs, cultivation, immunology, herbal-medicine,
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - raw/papers/the-permaculture-garden-graham-burnett.md
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 related_concepts:
   - echinacea-growing-guide
   - echinacea-angustifolia

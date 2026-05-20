@@ -142,5 +142,5 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 - [[mckenna-food-gods-cannabis-culture-dreaming-weavers]]
-- [[permaculture-plants-nitrogen-fixing-trees]]
+- [[permaculture-nitrogen-fixing-trees]]
 - [[hallucinogenic-plants-overview]]

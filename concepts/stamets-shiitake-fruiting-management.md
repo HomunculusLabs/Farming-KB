@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [mushroom-cultivation, species-guide, equipment, shiitake, gourmet-mushrooms]
 sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---

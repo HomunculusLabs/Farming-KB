@@ -6,21 +6,21 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - raw/concepts/faires-coppicing-and-woodlot-management.md
-  - raw/concepts/mollison-course-coppice-forest-management.md
-  - raw/concepts/mollison-designers-fuelwood-forestry-coppice-pollard.md
-  - raw/concepts/mollison-designers-fuelwood-forestry-systems.md
-  - raw/concepts/mollison-farm-forestry-and-woodlot-design.md
-  - raw/concepts/permaculture-designers-manual-coppice-systems.md
-  - raw/concepts/farm-forestry-design-mollison.md
-  - raw/concepts/holmgren-long-rotation-forestry-slow-growth.md
-  - raw/concepts/mollison-designers-conifer-forestry-and-timber.md
-  - raw/concepts/mollison-woodlot-timber-durability-and-hedgerow-barriers.md
-  - raw/concepts/permplant-willows-salix-erosion-control-fodder.md
-  - raw/concepts/permaculture-willow-guide.md
-  - raw/concepts/mycoforestry-principles-stamets.md
-  - raw/concepts/mycoforestry-forest-management-with-fungi.md
-  - raw/concepts/mycoforestry-applications.md
+  - "raw/concepts/faires-coppicing-and-woodlot-management.md"
+  - "raw/concepts/mollison-course-coppice-forest-management.md"
+  - "raw/concepts/mollison-designers-fuelwood-forestry-coppice-pollard.md"
+  - "raw/concepts/mollison-designers-fuelwood-forestry-systems.md"
+  - "raw/concepts/mollison-farm-forestry-and-woodlot-design.md"
+  - "raw/concepts/permaculture-designers-manual-coppice-systems.md"
+  - "raw/concepts/farm-forestry-design-mollison.md"
+  - "raw/concepts/holmgren-long-rotation-forestry-slow-growth.md"
+  - "raw/concepts/mollison-designers-conifer-forestry-and-timber.md"
+  - "raw/concepts/mollison-woodlot-timber-durability-and-hedgerow-barriers.md"
+  - "raw/concepts/permplant-willows-salix-erosion-control-fodder.md"
+  - "raw/concepts/permaculture-willow-guide.md"
+  - "raw/concepts/mycoforestry-principles-stamets.md"
+  - "raw/concepts/mycoforestry-forest-management-with-fungi.md"
+  - "raw/concepts/mycoforestry-applications.md"
 related_concepts:
   - faires-coppicing-and-woodlot-management
   - mollison-course-coppice-forest-management

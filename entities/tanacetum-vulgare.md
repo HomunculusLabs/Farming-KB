@@ -17,6 +17,7 @@ sources:
   - "Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing, 2nd ed. CRC Press."
   - "Stoilov, I. et al. (2005). \"Traditional medicinal plants of Bulgaria.\" Fitoterapia, 76(3–4), 273–281."
   - "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:186896-1"---
+---
 
 ## Tanacetum Vulgare
 

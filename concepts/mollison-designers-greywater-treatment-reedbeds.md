@@ -11,7 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---# [[query-can-fungi-break-down-plastic-pollution]] [[phragmites-australis]]): The most widely used reedbed plant
   worldwide. Deep, extensive root system (rhizomes reach 1 to 2 metres

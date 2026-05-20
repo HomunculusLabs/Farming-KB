@@ -6,6 +6,7 @@ type: concept
 tags: [permaculture, design, animal-husbandry]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ## Poultry Range Management (Mollison)
 Updated: 2026-04-18

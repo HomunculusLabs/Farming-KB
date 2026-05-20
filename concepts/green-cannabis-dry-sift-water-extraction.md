@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/greg-green-the-cannabis-grow-bible.md
+  - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 type: concept
 --- Dry Sift and Water Extraction Methods
 The collection and processing of trichomes -- the tiny [[greg-green]] provides detailed instructions for effective screening:

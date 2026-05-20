@@ -24,6 +24,7 @@ sources:
   - Kershaw, L. (2000). "Trees of the Rocky Mountains and Intermountain West." Lone Pine Publishing.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
   - Morgan, J. & Carter, M. (2013). "The Permaculture Promise." Timber Press.
+---
 
 ## Overview
 
@@ -32,7 +33,7 @@ or juneberry, is a deciduous shrub in the rose family (Rosaceae). Native to west
 and central [[serviceberry-and-native-fruiting-shrubs]] succeed. It is cold-hardy
 to USDA Zone 2, making it one of the most cold-tolerant [[backyard-food-forest-design]], *A. alnifolia* is valued as a productive,
 low-maintenance fruiting shrub that supports pollinators, provides [[hemenway-backyard-wildlife-habitat]],
-and produces nutrient-dense fruit with minimal input.
+[[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]] s nutrient-dense fruit with minimal input.
 
 ## Taxonomy and Morphology
 
@@ -65,17 +66,17 @@ It occupies a broad ecological range, from dry prairie hillsides and open woodla
 to streambanks and rocky outcrops. It is particularly abundant in the aspen parkland
 belt of the Canadian prairies, where it forms extensive thickets.
 
-The species tolerates a wide range of soil conditions, from sandy loams to clay
+The species tolerates a wide range [[biological-indicators-of-soil-conditions]], from sandy loams to clay
 soils, and prefers slightly acidic to neutral pH (5.5–7.0). It is moderately
-drought-tolerant once established and can persist in semi-arid environments with
+drought-tolerant once established and can persist in semi-[[fungal-diversity-arid-environments]] with
 as little as 30 cm annual precipitation.
 
 It tolerates full sun to partial shade and resprouts vigorously from the root crown
-after fire or cutting.
+[[holzer-reforestation-after-fire]] or cutting.
 
 ## Nutritional Profile
 
-Saskatoon berries are exceptionally nutritious, exceeding most common berries in
+Saskatoon berries are exceptionally nutritious, exceeding [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] berries in
 several key metrics.
 
 - **Antioxidants:** 2–3× higher ORAC value than blueberries

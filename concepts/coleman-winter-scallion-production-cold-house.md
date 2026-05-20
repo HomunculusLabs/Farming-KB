@@ -1,4 +1,5 @@
 ---
+title: Winter Scallio mollison-designers-trout-and-cool-water-aquaculture-species ol Houses
 source: eliot-coleman-winter-harvest-handbook.md
 source_type: paper
 topics: [scallions, winter-harvest, cold-house, cool-house,

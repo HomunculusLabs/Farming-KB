@@ -6,7 +6,7 @@ tags: [plant-intelligence, plant-perception, consciousness,
 date: 2026-05-12
 updated: 2026-05-12
 sources:
-  - raw/papers/tompkins-secret-life-of-plants.md
+  - "raw/papers/tompkins-secret-life-of-plants.md"
 related_concepts:
   - cleve-backster-plant-perception-experiments
   - marcel-vogel-plant-communication

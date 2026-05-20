@@ -5,8 +5,8 @@ tags: [sterilization, grain-spawn, contamination, mushroom-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/mycelium-running-stamets.md"
 type: concept
 ---
 
@@ -147,4 +147,3 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also

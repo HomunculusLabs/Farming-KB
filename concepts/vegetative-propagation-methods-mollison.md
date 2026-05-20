@@ -6,6 +6,7 @@ type: concept
 tags: [permaculture, design, gardening, plants]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ## Vegetative Propagation Methods (Mollison)
 Updated: 2026-04-18

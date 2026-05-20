@@ -1,5 +1,8 @@
 ---
-
+title: Overview
+tags: []
+type: entitie
+---
 ## Overview
 
 The [[fukuoka-east-coast-forest-livestock-soil-damage]] of the dmt-containing-plants-united-states-halpern in the 1990s, Sour Diesel and its descendants have become cornerstones of both the recreational and medical cannabis markets. *comparison-cannabis-sativa-vs-cannabis-indica Volume 3* features multiple Sour Diesel-related entries that collectively illuminate the breadth and complexity of this genetic family.
@@ -145,5 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[blesching-cannabis-vasopressin-aggression]]
-- [[cannabis-cultivar-microbiome-specificity]]
-- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

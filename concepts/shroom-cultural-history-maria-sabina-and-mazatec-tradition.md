@@ -3,7 +3,7 @@ title: shroom cultural history maria sabina and mazatec tradition and the Mazate
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 type: concept
 tags: [history, mazatec]
 ---

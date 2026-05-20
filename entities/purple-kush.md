@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
+  - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]." University of California Press.
   - ElSohly, M.A. et al. (2016). "Changes in  Over the Last Two Decades." Biological Psychiatry 79(7): 613-619.
   - Small, E. (2017). "Cannabis: A Complete Guide." CRC Press.
   - Peace, M.R. et al. (2016). "Cannabinoid profile of popular strains." Journal of Forensic Sciences 61(2): 472-479.
@@ -36,7 +36,7 @@ Buds are dense, compact, and tightly coiled in classic indica
 structure.
 
 Calyxes display vivid purple to deep violet hues, especially when
-exposed to cooler nighttime temperatures during late flowering.
+exposed to cooler night [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]] s during late flowering.
 
 Pistils are dark orange to rust-colored against the purple foliage.
 
@@ -63,9 +63,9 @@ applications.
 
 Successful implementation of purple kush requires attention to
 several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
+resource availability, and timing. Careful [[soil-moisture-monitoring-and-field-capacity]]
 adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
+conditions. Integration with other [[integrated-house-garden-system-elements]] enhances
 overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
@@ -74,7 +74,7 @@ improve resilience and productivity over time.
 Continued development in this area promises new insights and
 improved approaches for both research and practical application.
 Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
+methods create opportunities for innovation [[high-volume-cannabis-extraction-and-refinement]].
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 Continued genetic analysis helps preserve the heritage of this landmark indica cultivar.

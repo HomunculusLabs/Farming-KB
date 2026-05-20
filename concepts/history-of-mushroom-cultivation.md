@@ -1,4 +1,5 @@
 ---
+title: History of Mushroom Cultivation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -8,9 +9,9 @@ tags:
   - cultivation
   - agriculture
 sources:
-  - raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
-  - raw/papers/benjamin-minge-duggar-mushroom-growing.md
-  - raw/papers/william-falconer-mushroom-how-to-grow-them.md
+  - "raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"
+  - "raw/papers/benjamin-minge-duggar-mushroom-growing.md"
+  - "raw/papers/william-falconer-mushroom-how-to-grow-them.md"
   - raw/papers/the-mushroom-cultivator-stamets.md
 ---
 

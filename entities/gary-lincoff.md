@@ -5,12 +5,12 @@ updated: 2026-04-12
 type: entity
 tags: [person, mycology, academia]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
-  - raw/papers/mycelium-running-stamets.md
-  - raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md
-  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
-  - raw/papers/unknown-oyster-mushroom-cultivation.md
-  - raw/papers/unknown-biodiversity-of-fungi.md
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  - "raw/papers/mycelium-running-stamets.md"
+  - "raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md"
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
+  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
+  - "raw/papers/unknown-biodiversity-of-fungi.md"
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 

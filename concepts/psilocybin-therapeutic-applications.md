@@ -13,7 +13,7 @@ tags:
   - psilocybin
   - clinical-research
 sources:
-  - raw/papers/the-psilocybin-solution-by-simon-g-powell.md
+  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
   - raw/particles/psilocybin-mushrooms-of-the-world-stamets.md
 ---
 

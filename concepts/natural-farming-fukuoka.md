@@ -20,6 +20,7 @@ tags:
 - culture-media
 
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 - raw/papers/one-straw-revolution-masanobu-fukuoka.md
 - raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
@@ -147,4 +148,3 @@ Fukuoka's hilltop citrus orchard demonstrated natural farming principles for tre
 
 Fukuoka scattered vegetable seed on unused land -- orchards, levees, open fields -- mixed with clover:
 
-- **Timing**: Sow autumn vegetables when summer weeds fade but before winter weeds germinate. Sow spring vegetables after winter weeds pass but before summer weeds emerge.

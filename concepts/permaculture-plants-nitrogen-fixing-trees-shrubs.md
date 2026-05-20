@@ -84,7 +84,7 @@ native to Australia:
 
 ## Overview
 
-[[permaculture-plants-nitrogen-fixing-trees]] Shrubs represents an important element within sustainable
+[[permaculture-nitrogen-fixing-trees]] Shrubs represents an important element within sustainable
 design and ecological management systems. Its proper understanding
 and integration contributes to the resilience and productivity of
 designed ecosystems and agricultural systems.

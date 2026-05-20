@@ -1,33 +1,7 @@
----
-
-title: Fukuoka Soil Building Method
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-
-tags:
-- regenerative
-- living-soil
-- no-till
-- orchard
-- soil-amendment
-- cover-crop
-- soil
-- processing
-- soil-building
-- fertilizer
-- organic
-- agriculture
-
-sources:
-- raw/papers/one-straw-revolution-masanobu-fukuoka.md
-- raw/papers/masanobu-fukuoka-fukuoka.md
-- raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
----
 
 ## Fukuoka Soil Building Method
 
-Masanobu Fukuoka's approach to soil fertility is radically simple: **return all organic matter to the field, grow green manure crops, and let living organisms build soil**. Over 25-40 years on his farm, he transformed hard, barren red clay into rich, dark, humus-filled earth without plowing, chemical fertilizers, or prepared compost.
+[[masanobu-fukuoka]]'s approach to soil fertility is radically simple: **return all organic matter to the field, grow [[green-manure-crops]], and let living organisms build soil**. Over 25-40 years on his farm, he transformed hard, barren red clay into rich, dark, humus-filled earth without plowing, chemical fertilizers, or prepared compost.
 
 ## The Starting Point: Barren Red Clay
 
@@ -66,7 +40,7 @@ Fukuoka's system addresses soil at three depths simultaneously:
 **Process**:
 - Rice straw scattered over field immediately after threshing in fall → decomposes by spring
 - Barley straw scattered over field in late May → decomposes by rice heading
-- "A thin layer of chicken manure or duck droppings" speeds decomposition
+- "A thin layer of [[chicken-manure]] or duck droppings" speeds decomposition
 - White clover fixes nitrogen, suppresses weeds, retains moisture
 - Result: "The surface layer, rich in humus, has become enriched to a depth of more than four inches during these years"
 
@@ -83,7 +57,7 @@ Fukuoka's system addresses soil at three depths simultaneously:
 
 **Clover**: White clover (and alfalfa) roots penetrate and fix nitrogen throughout the upper soil profile. "One can understand the nature of the soil more quickly by examining the weeds growing in it than by examining the soil itself."
 
-**Daikon radish** (Japanese radish):
+**[[daikon-radish]]** (Japanese radish):
 - Roots penetrate deeply, opening channels for air and water circulation
 - Add organic matter at depth when they decompose
 - "Reseeds itself easily and after one sowing, you can almost forget about it"
@@ -110,7 +84,7 @@ Fukuoka's system addresses soil at three depths simultaneously:
 | Year 20-25 | Surface soil transformed: "loose, dark coloured, and rich with earthworms and organic matter" |
 | Year 25+ | Soil continues improving; yields increase; "The quality of the soil improves with each season" |
 
-"Soil improvement by natural farming takes a long time." Five to ten years to build six inches of topsoil through cover crops alone. "To current economic perceptions, one disadvantage of natural farming methods is that they take too long."
+"Soil improvement by [[natural-farming]] takes a long time." Five to ten years to build six inches of topsoil through [[cover-crops]] alone. "To current economic perceptions, one disadvantage of natural farming methods is that they take too long."
 
 ## The Weed Succession Principle
 
@@ -147,4 +121,3 @@ Fukuoka compares 30 years of natural farming with conventional methods:
 - [[fukuoka-old-rice-variety-yield-scientific-agriculture-critique]]
 - [[fukuoka-rice-and-barley-natural-farming]]
 - [[fukuoka-western-commitment-and-japanese-halfheartedness]]
-- [[fukuoka-deficit-farming-agricultural-energy-crisis]]

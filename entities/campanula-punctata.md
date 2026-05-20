@@ -1,4 +1,5 @@
 ---
+title: Campanula punctata
 name: Campanula punctata
 type: entity
 category: species

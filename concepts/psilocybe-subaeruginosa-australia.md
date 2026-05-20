@@ -11,7 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md
+  - "raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md"
 type: concept
 ---# Psilocybe subaeruginosa in Australia and New Zealand
 

@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [lsd, therapy, psychiatry, psychotherapy, psycholytic, psychedelic-therapy, hofmann, grof, osmond, sandison, history]
 sources:
-  - raw/papers/hofmann-a-lsd-my-problem-child.md
+  - "raw/papers/hofmann-a-lsd-my-problem-child.md"
   - raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 

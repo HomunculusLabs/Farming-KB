@@ -11,7 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/mycelium-running-stamets.md"
-  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 type: concept
 ---# Casing Soils for Mushroom Cultivation
 

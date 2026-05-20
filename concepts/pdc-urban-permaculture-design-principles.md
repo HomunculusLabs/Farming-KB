@@ -3,7 +3,7 @@ title: Urban bill-mollison-permaculture-a-designers-manual-permaculture-design-p
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
+  - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
 type: concept
 tags: [culture, design, permaculture, principles]
 ---

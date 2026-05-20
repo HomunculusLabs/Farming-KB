@@ -6,12 +6,12 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - raw/concepts/ingham-microscope-identification-soil-biology.md
-  - raw/concepts/microscope-identification-soil-organisms.md
-  - raw/concepts/ingham-field-guide-compost-tea-microscope-analysis.md
-  - raw/concepts/bloomfield-ascospore-extreme-resilience-electron-microscope-survival.md
-  - raw/concepts/aact-compost-organism-levels.md
-  - raw/concepts/aact-nematode-protozoa-management-ingham.md
+  - "raw/concepts/ingham-microscope-identification-soil-biology.md"
+  - "raw/concepts/microscope-identification-soil-organisms.md"
+  - "raw/concepts/ingham-field-guide-compost-tea-microscope-analysis.md"
+  - "raw/concepts/bloomfield-ascospore-extreme-resilience-electron-microscope-survival.md"
+  - "raw/concepts/aact-compost-organism-levels.md"
+  - "raw/concepts/aact-nematode-protozoa-management-ingham.md"
 related_concepts:
   - microscope-identification-soil-organisms
   - ingham-microscope-identification-soil-biology

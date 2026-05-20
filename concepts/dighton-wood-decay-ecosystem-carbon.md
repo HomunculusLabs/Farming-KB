@@ -3,7 +3,7 @@ title: "Wood Decay and Ecosystem Carbon"
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/john-dighton-fungi-fungi-fungi-in-the-environment-soil-fungal-community-structure-environment-fungal-radionuclide-interactions-environment-decomposition-wood-decay-ecosystem-processes.md
+  - "raw/papers/john-dighton-fungi-fungi-fungi-in-the-environment-soil-fungal-community-structure-environment-fungal-radionuclide-interactions-environment-decomposition-wood-decay-ecosystem-processes.md"
 type: concept
 tags: [ecosystem]
 ---

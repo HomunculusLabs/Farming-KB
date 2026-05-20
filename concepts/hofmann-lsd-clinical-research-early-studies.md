@@ -3,7 +3,7 @@ title: Early LSD psilocybin-clinical-research-history in Hofmann's LSD: My Probl
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/hofmann-a-lsd-my-problem-child.md
+  - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 type: concept
 tags: [lsd]
 ---

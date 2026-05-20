@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/a-golden-guide-to-hallucinogenic-plants.md
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: concept
 ---# Hallucinogenic Plants: History and Ethnobotany
 

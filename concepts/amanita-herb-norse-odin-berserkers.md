@@ -1,5 +1,8 @@
 ---
-
+title: Amanita Muscaria in Norse Mythology: Odin and the Berserkers
+tags: []
+type: concept
+---
 ## Amanita Muscaria in Norse Mythology: Odin and the Berserkers
 
 In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter dedicates Chapter 23 ("Odin; God of Wisdom") to the argument that the Norse god Odin and the berserker warriors are connected to the same Indo-European amanita-muscaria-drying-and-preparation that underlies the [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]] -- a motif that, in Teeter's reading, parallels the Soma ceremony's theme of a god who undergoes death and transformation to acquire divine wisdom.
@@ -145,6 +148,3 @@ Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
 ## Challenges and Solutions
-
-Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and

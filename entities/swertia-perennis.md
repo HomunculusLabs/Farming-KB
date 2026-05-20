@@ -1,4 +1,5 @@
 ---
+title: Swertia perennis
 name: Swertia perennis
 type: entity
 category: species
@@ -147,4 +148,3 @@ systems requires careful planning and observation.
 - [[swertia-japonica]]
 - [[swertia-chirayita]]
 - [[swertia-diluta]]
-- [[swertia-bimaculata]]

@@ -9,6 +9,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/mycelium-running-stamets.md"
   - antimicrobial-compounds-mushroom-mycelium through successive transfers across nutrient-filled petri dishes. It provides cultivators with a simple metric for tracking how many cell divisions a strain has undergone since its original isolation, allowing them to maintain cultures at peak genetic vitality and avoid the degenerative effects of senescence.
 ---
@@ -147,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.

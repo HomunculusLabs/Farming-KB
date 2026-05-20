@@ -6,8 +6,8 @@ tags: [mycology, safety, toxicology, galerina, identification]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 type: concept
 ---
 ## Galerina Deadly Look-alikes and Mushroom Safety
@@ -147,4 +147,3 @@ Monitoring integration outcomes supports adaptive management.
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.

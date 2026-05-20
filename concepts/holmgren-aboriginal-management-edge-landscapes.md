@@ -13,6 +13,8 @@ to large-scale monocultures eliminated much of this landscape complexity in edge
 reducing [[permaculture]]
 - [[holmgren-genetic-engineering-and-evolution]]
 - [[holmgren-wind-power-and-renewable-energy-debate]]
+type: concept
+---
 
 ## Practical Applications
 

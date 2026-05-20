@@ -25,6 +25,7 @@ sources:
   - Garcia-Mendoza, A. (2007). "Agavaceae." In: "Flora del Valle de Tehuacán-Cuicatlán," UNAM.
   - Eguiarte, L.E. et al. (2000). "Agave (Agavaceae)." In: "Economic Botany," Springer.
   - Colunga-GarcíaMarín, P. et al. (2007). "Diversidad y Distribución del Género Agave." Boletín de la Sociedad Botánica de México, 81, 43–52.
+---
 
 ## Agave americana
 
@@ -35,7 +36,7 @@ in the family Asparagaceae, native to Mexico and the southern [[cannabis-vegetat
 
 The species is one of the most widely cultivated agaves globally, valued for
 its dramatic architectural form, [[shroom-mesoamerican-civilization]] as the
-source of pulque (fermented agave nectar), fiber (ixtle), food, and building
+source of pulque (fermented agave nectar), fiber (ixtle), food, [[reactive-house-design-and-building-integration]]
 materials, a cultural legacy that persists in contemporary Mexico.
 
 ## Taxonomy and Morphology
@@ -43,17 +44,17 @@ materials, a cultural legacy that persists in contemporary Mexico.
 Asparagales → Asparagaceae → Agavoideae → **Agave → *A. americana***
 
 Described by Linnaeus in 1753. The genus *Agave* contains approximately 270
-species, with the greatest diversity in Mexico. *A. americana* is the type
+species, with the greatest [[rebuilding-diversity-in-permaculture]] Mexico. *A. americana* is the type
 species of the genus and one of the largest agaves.
 
-Plants form massive rosettes of thick, fleshy, lanceolate leaves 1–2 m long,
+[[query-what-are-the-best-companion-plants-for-cannabis]] m massive rosettes of thick, fleshy, lanceolate leaves 1–2 m long,
 15–25 cm wide, with marginal teeth and a stout terminal spine 2–5 cm. Leaves
 are glaucous blue-green to gray-green, with variegated cultivars common in
 horticulture. Mature rosettes reach 2–3.5 m in diameter and 1–2 m in height.
 
 The flowering stalk (inflorescence) is a massive panicle, 5–10 m tall, bearing
 numerous yellow-green flowers in lateral clusters. The stalk grows rapidly (up
-to 10 cm/day), drawing on stored carbohydrates from the rosette. After flowering
+to 10 cm/day), drawing on stored [[carbohydrate]] s from the rosette. After flowering
 and seed set, the entire plant dies (monocarpic semelparity), though basal
 offsets (pups) typically survive.
 
@@ -61,7 +62,7 @@ offsets (pups) typically survive.
 
 Native to eastern and [[guzman-psilocybin-mushrooms-south-america]].
 
-It inhabits arid and semi-arid environments including rocky hillsides, desert
+It inhabits arid and semi-[[fungal-diversity-arid-environments]] including rocky hillsides, desert
 grasslands, thorn scrub, and disturbed sites. Tolerance ranges from near-sea
 level to 2,500 m elevation, with minimal rainfall requirements (250–500 mm
 annually) once established.

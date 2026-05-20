@@ -6,8 +6,8 @@ tags: [comparison, organometallic-chemistry, photoredox, catalysis, radical-chem
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - raw/concepts/oxidative-addition-organometallic-chemistry.md
-  - raw/concepts/photoredox-catalysis.md
+  - "raw/concepts/oxidative-addition-organometallic-chemistry.md"
+  - "raw/concepts/photoredox-catalysis.md"
 related_concepts:
   - oxidative-addition-organometallic-chemistry
   - photoredox-catalysis

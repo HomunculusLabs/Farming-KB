@@ -1,4 +1,5 @@
 ---
+title: Easy Ryder — Auto-Flowering Sativa by th berry-and-small-fruit-growing and fruity flavors, and grows well both indoors and outdoors under a 20psilocybin-logos-consciousness nd the Joint Doctor
 source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 source_type: paper
 topics: [cannabis, sativa, auto-flowering, lowryder, joint-doctor, ak-47, indoor-growing, outdoor-growing, fast-flowering, high-bred-seeds, berry-flavor]

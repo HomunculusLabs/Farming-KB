@@ -1,4 +1,5 @@
 ---
+title: 2C-T-8 — 2,5-Dimethoxy-4-cyclopropylmethylthiophenethylamine
 source: shulgin-a-pihkal.md
 source_path: ~/wiki/raw/papers/shulgin-a-pihkal.md
 entry_number: 44

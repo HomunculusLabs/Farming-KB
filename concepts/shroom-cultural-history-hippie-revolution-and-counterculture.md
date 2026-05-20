@@ -3,7 +3,7 @@ title: The shroom cultural history hippie revolution and counterculture and Coun
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 type: concept
 tags: [counterculture, culture, history]
 ---

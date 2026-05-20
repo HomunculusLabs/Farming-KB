@@ -3,7 +3,7 @@ title: harner ayahuasca shamanism amazon in the Amazon (Harner)
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/harner-j-hallucinogens-and-shamanism.md
+  - "raw/papers/harner-j-hallucinogens-and-shamanism.md"
 type: concept
 tags: [ayahuasca, shamanism]
 ---

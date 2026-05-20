@@ -12,8 +12,8 @@ tags:
   - maoi
   - shamanism
 sources:
-  - raw/particles/harner-j-hallucinogens-and-shamanism.md
-  - raw/papers/mckenna_t-food_of_the-gods.md
+  - "raw/particles/harner-j-hallucinogens-and-shamanism.md"
+  - "raw/papers/mckenna_t-food_of_the-gods.md"
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 

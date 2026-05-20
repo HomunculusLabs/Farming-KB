@@ -3,7 +3,7 @@ title: Master Cho's Fish Aminos and ingham-seaweed-sea-minerals-compost-tea
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/master-cho-knf-recipe-book.md
+  - "raw/papers/master-cho-knf-recipe-book.md"
 type: concept
 tags: [knf, minerals]
 ---

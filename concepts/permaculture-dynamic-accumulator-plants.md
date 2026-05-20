@@ -1,4 +1,5 @@
 ---
+title: Permaculture Dynamic Accumulator Plants
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -10,7 +11,7 @@ tags:
   - deep-rooted-plants
   - mineral-accumulation
 sources:
-  - raw/papers/gaias-garden-toby-hemenway.md
+  - "raw/papers/gaias-garden-toby-hemenway.md"
   - raw/papers/a-selection-permaculture-plants.md
 ---
 

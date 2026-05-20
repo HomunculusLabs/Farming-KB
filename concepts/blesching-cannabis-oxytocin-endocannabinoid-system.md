@@ -5,7 +5,7 @@ tags: [oxytocin, endocannabinoid, neurotransmitter, bonding, hormones]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 type: concept
 ---# Oxytocin and the Endocannabinoid System
 

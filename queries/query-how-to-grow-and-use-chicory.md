@@ -1,4 +1,5 @@
 ---
+title: How to Grow and Use Chicory (Cichorium intybus) — From Garden Greens to Coffee Substitute
 
 ## How to Grow and Use Chicory (Cichorium intybus) — From Garden Greens to Coffee Substitute
 

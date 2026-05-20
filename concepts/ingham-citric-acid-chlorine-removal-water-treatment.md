@@ -1,4 +1,5 @@
 ---
+title: Citric Acid and Chlorine Removal for AACT Water Treatment
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 source_type: paper
 topics: [aact, water-treatment, chlorine, chloramine, citric-acid,

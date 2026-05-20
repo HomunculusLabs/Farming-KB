@@ -8,8 +8,8 @@ tags: [livestock, pig-husbandry, permaculture, homesteading,
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - raw/concepts/pig-husbandry.md
-  - raw/concepts/pig-keeping-guide.md
+  - "raw/concepts/pig-husbandry.md"
+  - "raw/concepts/pig-keeping-guide.md"
 related_concepts:
   - pig-husbandry
   - pig-keeping-guide

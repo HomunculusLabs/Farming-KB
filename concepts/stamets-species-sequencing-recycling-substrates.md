@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [mushroom-cultivation, species-guide, equipment, sustainability]
 sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 ## Stamets Species Sequencing and Substrate Recycling #mushroom-cultivation #permaculture #sustainable-agriculture #substrate-recycling Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Ch. 22 ## Overview Species sequencing is Stamets' technique for recycling spent mushroom substrates by re-inoculating them with a different mushroom species. Each decomposer has unique enzymes that partially break down wood and lignocellulose. By sequencing species in succession, cultivators can extract maximum nutritional value from a single batch of substrate material, with the end product being rich humus for gardening and permaculture. See also [[paddy-straw-mushroom-volvariella-volvacea-cultivation]], [[king-oyster-cultivation]], king-stropharia-wine-cap-cultivation, [[permaculture-principles]]:

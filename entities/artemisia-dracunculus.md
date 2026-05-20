@@ -10,6 +10,7 @@ tags:
   - holzer-medicinal-and-culinary-herbs-compendium and Spices of the World. Royal Botanic Gardens, Kew."
   - "Duke, J.A. (2002). Handbook of what-a-plant-knows-plant-vision-and-light-perceptionae
 - **Di[[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]:** A. dracunculus L.
+---
 
 **Synonyms:** Artemisia dracunculoides Pursh; A. glauca Pall. ex Willd.
 

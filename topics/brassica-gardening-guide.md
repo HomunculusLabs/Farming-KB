@@ -5,11 +5,11 @@ tags: [brassicas, cole-crops, vegetable-gardening, organic-growing, cool-season-
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - raw/concepts/brassica-growing-guide.md
-  - raw/concepts/growing-brassicas-organically.md
-  - raw/concepts/solomon-growing-brassicas-guide.md
-  - raw/concepts/hamilton-brassica-growing-organic.md
-  - raw/concepts/cole-crop-harvest-and-storage.md
+  - "raw/concepts/brassica-growing-guide.md"
+  - "raw/concepts/growing-brassicas-organically.md"
+  - "raw/concepts/solomon-growing-brassicas-guide.md"
+  - "raw/concepts/hamilton-brassica-growing-organic.md"
+  - "raw/concepts/cole-crop-harvest-and-storage.md"
 related_concepts:
   - brassica-growing-guide
   - cole-crop-harvest-and-storage

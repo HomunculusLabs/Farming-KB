@@ -6,7 +6,7 @@ synonyms:
 type: concept
 tags: [fungi]
 sources:
-  - raw/papers/mycoremediation-biotechnological-singh.md
+  - "raw/papers/mycoremediation-biotechnological-singh.md"
 updated: 2026-04-26
 ---
 

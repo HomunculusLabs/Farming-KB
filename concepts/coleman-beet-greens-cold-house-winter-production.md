@@ -1,4 +1,5 @@
 ---
+title: Beet Greens and Baby Beets i coleman-sunlight-and-winter-crop-growth-rates crop in Eliot Coleman's cold-house system coleman-salad-mix-quality-standards i coleman-salad-braising-mix-composition ix throughout
 source: eliot-coleman-winter-harvest-handbook.md
 source_type: paper
 topics: [beet-greens, bulls-blood, cold-house, winter-harvest,

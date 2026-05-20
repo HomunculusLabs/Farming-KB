@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
-  - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+  - "raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"
 type: concept
 ---
 

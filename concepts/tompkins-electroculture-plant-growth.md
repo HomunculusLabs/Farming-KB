@@ -5,7 +5,7 @@ tags: [agriculture, biophysics, botany, electromagnetism]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/tompkins-secret-life-of-plants.md
+  - "raw/papers/tompkins-secret-life-of-plants.md"
 type: concept
 ---# Electroculture: Electrical Stimulation of [[mckenna-club-des-hachischins-nineteenth-century-literary-hashish]]-century European researchers to twentieth-century [[palmer-early-american-mycology-nineteenth-century]] Experiments: Atmospheric Electricity
 

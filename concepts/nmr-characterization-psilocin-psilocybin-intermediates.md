@@ -9,7 +9,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/concise-psilocybin-large-scale-production-psilocin-synthesis-4-hydroxyindole-to-psilocin-of-psilocin-powell-mayan-civilisation-and-psilocybin-psilocybin-psilocybin-psilocybin-mushroom-image-guide-habitat-clues-guide-identification-methods-guide-spore-color-chart-guide-bruising-reactions-use-chemistry-psilocybin-shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis|shirota-hakamata-goda.md"
+  - "raw/papers/concise-psilocybin-large-scale-production-psilocin-synthesis-4-hydroxyindole-to-psilocin-of-psilocin-powell-mayan-civilisation-and-psilocybin-psilocybin-psilocybin-psilocybin-mushroom-image-guide-habitat-clues-guide-identification-methods-guide-spore-color-chart-guide-bruising-reactions-use-chemistry-psilocybin-shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis"
 type: concept
 ---
 

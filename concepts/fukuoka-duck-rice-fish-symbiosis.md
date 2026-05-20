@@ -3,6 +3,7 @@ title: Fukuoka Duck, Rice, and Fish Symbiosis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 type: concept

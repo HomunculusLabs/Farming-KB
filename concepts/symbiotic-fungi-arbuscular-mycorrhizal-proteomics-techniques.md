@@ -5,7 +5,7 @@ tags: [proteomics, mycorrhiza, AMF, protein-analysis, functional-genomics]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/symbiotic-fungi.md
+  - "raw/papers/symbiotic-fungi.md"
 type: concept
 ---# Arbuscular [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] Topics
 

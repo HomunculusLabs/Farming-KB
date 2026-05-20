@@ -3,7 +3,7 @@ title: Cannabinoid-Terpene Synergy (Blesching, blesching-cannabis-health-index-a
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 type: concept
 tags: [cannabis]
 ---

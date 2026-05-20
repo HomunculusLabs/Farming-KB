@@ -3,7 +3,7 @@ title: Green Cannabis Grow Bible Vegetative Phase Management
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/greg-green-the-cannabis-grow-bible.md
+  - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 type: concept
 tags: [cannabis]
 ---

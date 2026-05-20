@@ -1,4 +1,5 @@
 ---
+title: Shrine Grove Trees Grow Without Human Aid
 source: "The Natural Way of Farming - natural-farming, fukuoka, forests, shrine-groves, ecological-observation, trees, no-intervention, scientific-forestry-critique]
 ---
 

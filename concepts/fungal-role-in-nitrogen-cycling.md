@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [nutrient-cycling, nitrogen, fungi, fungal-ecology, ecosystem, soil-health]
 sources:
-  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
 

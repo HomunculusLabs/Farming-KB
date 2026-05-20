@@ -3,7 +3,7 @@ title: Gottlieb Psilocybin Cultivation Bulk Substrate Preparation
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/gottlieb-a-the-psilocybin-producers-guide.md
+  - "raw/papers/gottlieb-a-the-psilocybin-producers-guide.md"
 type: concept
 tags: [bulk-substrate, cultivation, psilocybin]
 ---

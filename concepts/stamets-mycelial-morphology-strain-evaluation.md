@@ -5,8 +5,8 @@ tags: mushroom-cultivation, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/mycelium-running-stamets.md"
 type: concept
 ---
 

@@ -12,6 +12,8 @@ been cultivated and revered for millennia. The plant is so deeply
 embedded in indigenous culture that it serves simultaneously as a
 stimulant, a medicine, a religious offering, and a symbol of
 cultural identity.
+type: concept
+---
 
 ## Botanical Background
 

@@ -14,9 +14,10 @@ tags:
 It is the most commercially important hickory species, cultivated
 primarily for its edible nuts, which are rich in monounsaturated fats,
 antioxidants, and minerals.
+---
 
 Pecan holds significant cultural importance for Indigenous peoples of
-the southeastern US, who cultivated and traded the nuts for millennia
+the [[amanita-species-southeastern-us]], who [[edges-in-cultivated-and-indigenous-landscapes]] traded the nuts for millennia
 before European contact. Today it is the state tree of Texas and a
 multibillion-dollar crop in the southern US, with major plantings in
 Georgia, New Mexico, Texas, and Arizona.
@@ -31,7 +32,7 @@ described. The common name "pecan" derives from the Algonquin word
 *paccan*, meaning a nut requiring a stone to crack.
 
 The genus *Carya* contains approximately 17–19 species of hickories
-native to [[neurotropic-fungi]] japan east asia species cultural context. *C. illinoinensis* is the only
+native to [[neurotropic-fungi]] [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. *C. illinoinensis* is the only
 commercially cultivated species on a large scale.
 
 ## Morphology
@@ -71,11 +72,11 @@ Natural habitat is bottomland hardwood forests, river floodplains, and
 
 ## Practical Applications
 
-Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse conditions and resource constraints.
+Applied methodologies translate theoretical knowledge into actionable strategies. Field-tested approaches provide reliable frameworks adaptable to diverse [[fruiting-conditions-and-harvesting]] resource constraints.
 ## Key Considerations
 
 Successful implementation requires attention to multiple interacting factors. Environmental conditions, resource availability, and timing considerations all influence outcomes significantly.
 
 ## Mechanisms and Processes
 
-Understanding the underlying mechanisms enables optimization and troubleshooting. Process control parameters and their interactions determine system performance and reliability.
+Understanding the underlying mechanisms enables optimization [[mushroom-contamination-identification-and-troubleshooting]]. Process control parameters and their interactions determine system performance and reliability.

@@ -6,6 +6,8 @@ tags:
   - microclimate
   - mollison-drought-proofing-strategies
 strategy.
+type: concept
+---
 
 ## Dew: Formation and Significance
 

@@ -15,7 +15,7 @@ tags:
   - plant-pathology
   - composting
 sources:
-  - raw/papers/pseudomonas_pgpr_review.md
+  - "raw/papers/pseudomonas_pgpr_review.md"
   - raw/papers/pseudomonas_biocontrol.md
 ---
 

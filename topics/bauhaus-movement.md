@@ -5,7 +5,7 @@ tags: [design-history, architecture, modernism, art-education, industrial-design
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - raw/concepts/bauhaus-movement.md
+  - "raw/concepts/bauhaus-movement.md"
 related_concepts:
   - bauhaus-movement
   - modernist-architecture

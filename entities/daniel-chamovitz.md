@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: entity
 tags: [person, biology, academia, plant-growth]
 sources:
-  - raw/papers/what-a-plant-knows-daniel-chamovitz.md
+  - "raw/papers/what-a-plant-knows-daniel-chamovitz.md"
   - raw/papers/grahamholmes-what-a-plant-knowsindd.md
 ---
 

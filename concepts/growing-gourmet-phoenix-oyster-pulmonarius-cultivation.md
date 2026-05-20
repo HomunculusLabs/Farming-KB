@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 type: concept
 ---# Phoenix Oyster Mushroom (pleurotus-species-and-varieties and differs largely in
 its habitat preference for conifer woods. In the Western [[growing-gourmet-north-american-reishi-species]] collections show a wider range in color than

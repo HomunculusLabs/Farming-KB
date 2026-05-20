@@ -1,4 +1,5 @@
 ---
+title: Tobacco: From Shamanic Plant to Commercial Cigarette — The Dilution Process
 source: mckenna_t-food_of_the_gods.md
 extracted: 2026-05-09
 type: concept

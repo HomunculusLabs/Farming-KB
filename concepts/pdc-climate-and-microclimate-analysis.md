@@ -3,7 +3,7 @@ title: Pdc Climate And Microclimate Analysis
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
+  - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
 type: concept
 tags: [climate, microclimate]
 ---

@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
+  - "raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md"
 type: concept
 ---
 

@@ -5,8 +5,9 @@ updated: 2026-04-12
 type: entity
 tags: [person, mycology, academia, fungi]
 sources:
-  - raw/papers/mycelium-running-stamets.md
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/mycelium-running-stamets.md"
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - raw/papers/the-mushroom-cultivator-stamets.md
 ---
 

@@ -12,7 +12,7 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 related:
   - "ingham-field-guide-compost-tea-ingredients-and-recipes"
   - "ingham-compost-tea-recipe-ratios"

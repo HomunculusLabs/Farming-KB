@@ -1,4 +1,5 @@
 ---
+title: Plow Hardens Soil and Creates Need for Plowing
 source: "The Natural Way of Farming - masanobu-fukuoka"
 source_file: administrator-microsoft-word-fukuoka-textdoc.md
 extracted: 2026-04-10

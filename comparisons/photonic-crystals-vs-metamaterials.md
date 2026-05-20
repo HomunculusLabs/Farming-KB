@@ -6,7 +6,7 @@ tags: [optics, photonics, materials-science, metamaterials, nanotechnology]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - raw/concepts/photonic-crystals.md
+  - "raw/concepts/photonic-crystals.md"
 related_concepts:
   - photonic-crystals
   - topological-insulators

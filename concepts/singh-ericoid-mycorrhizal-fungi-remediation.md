@@ -5,7 +5,7 @@ tags: [mycoremediation, mycorrhiza, ericoid-mycorrhiza, biodegradation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
 ---# Ericoid [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]], which generally do not produce
 extracellular proteases or polyphenol oxidases. The ability to break

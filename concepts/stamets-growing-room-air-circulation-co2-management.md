@@ -1,13 +1,3 @@
----
-title: duggar-mushroom-growing-room-design Air Circulation and CO2 Management
-created: 2026-04-28
-tags: [mushroom-cultivation, ventilation, co2-management, growing-room-design]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-type: concept
----
 ## Growing Room Air Circulation and CO2 Management The environmental control system of a mushroom growing room is designed to maintain a selected [[growing-gourmet-growing-room-ventilation-air-exchange]] ced conditions throughout
 the growing room. The central component is the mixing box, where filtered
 fresh air enters and is proportionally regulated with recirculated room air by
@@ -77,7 +67,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish stamets growing room air circulation co2 management
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -91,7 +81,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Stamets Growing Room Air Circulation Co2 Management finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -147,4 +137,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[mushroom-inoculation-techniques-stamets]]
-- [[stamets-crop-watering-flushing-management]]

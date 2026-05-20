@@ -6,8 +6,8 @@ tags: [comparison, signal-processing, estimation, wavelets, control-theory]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
- - raw/concepts/kalman-filter.md
- - raw/concepts/wavelet-transform.md
+  - "raw/concepts/kalman-filter.md"
+  - "raw/concepts/wavelet-transform.md"
 related_concepts:
  - kalman-filter
  - wavelet-transform

@@ -9,6 +9,8 @@ tags:
 [[biodiversity-fungal-genetic-diversity]] and allow
 growers to save their own seed, preserving valuable traits across
 generations.
+type: concept
+---
 
 ## Open Pollinated Varieties
 
@@ -146,4 +148,3 @@ systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
-## Challenges and Solutions

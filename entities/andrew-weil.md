@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: entity
 tags: [person, medicine, health, psychopharmacology, academia]
 sources:
-  - raw/papers/mycelium-running-stamets.md
+  - "raw/papers/mycelium-running-stamets.md"
   - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
 ---
 

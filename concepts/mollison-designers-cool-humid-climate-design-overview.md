@@ -9,8 +9,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---# Cool Humid Climate Design Overview
 

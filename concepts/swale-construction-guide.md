@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [permaculture, earthworks, water-management, construction, methods, agriculture]
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 

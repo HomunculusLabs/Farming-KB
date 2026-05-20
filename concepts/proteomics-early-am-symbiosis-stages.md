@@ -5,7 +5,7 @@ tags: [mycorrhiza, proteomics, transcriptomics, plant-microbe-interaction, funct
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/symbiotic-fungi.md
+  - "raw/papers/symbiotic-fungi.md"
 type: concept
 ---# Proteomics of Early AM Symbiosis Stages
 

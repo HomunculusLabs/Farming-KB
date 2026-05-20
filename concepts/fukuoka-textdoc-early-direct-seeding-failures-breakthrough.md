@@ -1,4 +1,5 @@
 ---
+title: Fukuoka's Early Direct Seeding Failures and the Clover Ground Cover Breakthrough
 source: administrator-microsoft-word-fukuoka-textdoc.md
 extracted: 2026-05-09
 type: concept

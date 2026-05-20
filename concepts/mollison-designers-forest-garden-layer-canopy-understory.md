@@ -10,7 +10,8 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
 
@@ -147,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 - [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
 - [[terminalia-mollison]]
 - [[mollison-designers-bamboo-treatment-preservation]]
-- [[mallee-fowl-leipoa-ocellata-mollison]]

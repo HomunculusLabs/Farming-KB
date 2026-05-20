@@ -1,4 +1,5 @@
 ---
+title: bill-mollison presents them
 source: bill-mollison-permaculture-a-designers-manual.md
 source_path: ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 chapter: 7

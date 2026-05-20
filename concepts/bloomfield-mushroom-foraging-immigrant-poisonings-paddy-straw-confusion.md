@@ -1,4 +1,5 @@
 ---
+title: Mushroom Foraging Immigrant Poisonings and Paddy Straw Confusion
 source: Mr. Bloomfield's Orchard (Money, 2002)
 source_path: raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 type: concept

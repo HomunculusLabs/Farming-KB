@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [fungi, fungal-biodiversity, forest-ecology, biodiversity, ecology, mycology, ecosystem, decomposition, saprotrophs]
 sources:
-  - raw/papers/unknown-biodiversity-of-fungi.md
+  - "raw/papers/unknown-biodiversity-of-fungi.md"
   - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 ---
 

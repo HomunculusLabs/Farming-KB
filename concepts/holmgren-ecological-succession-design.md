@@ -6,6 +6,7 @@ type: concept
 tags: [permaculture, ecology, succession]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 ## [[permaculture-design]]
 Updated: 2026-04-18

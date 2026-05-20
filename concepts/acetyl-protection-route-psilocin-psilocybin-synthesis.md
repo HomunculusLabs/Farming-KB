@@ -9,6 +9,8 @@ tags:
   - 4-hydroxyindole
   - acetylation
   - grass-seed-cultivation-of-psilocybe-mushrooms, commonly called "magic mushrooms." These compounds closely resemble the neurotransmitter serotonin (psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine, serotonin is 5-hydroxytryptamine), and their hallucinogenic effects are probably caused by interference with normal brain serotonin actions. Following the regulation of psilocybin-containing fungi under Japan's Narcotics and Psychotropic Control Law on June 6, 2002, reliable analytical methods became essential for law enforcement. Identification by morphological and microscopic analysis is difficult without experts, making chromatographic methods (TLC, GC, HPLC) the standard approach, all of which require pure reference compounds.
+type: concept
+---
 
 Isolation from fungal material on gram scale is impractical because psilocin is unstable and psilocybin has high polarity. Several syntheses of psilocin had been published, but reports on psilocybin synthesis were few, with previously reported yields of only 20% and 47%. The Shirota route achieves dramatically higher yields without any chromatographic purification.
 
@@ -146,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.

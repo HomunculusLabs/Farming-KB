@@ -3,7 +3,7 @@ title: Powell - Psychedelics and maitake-problem-solving-troubleshooting
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/the-psilocybin-solution-by-simon-g-powell.md
+  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 type: concept
 tags: [psilocybin, psychedelics]
 ---

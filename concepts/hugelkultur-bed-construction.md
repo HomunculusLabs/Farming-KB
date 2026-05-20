@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [permaculture, soil, compost, gardening, methods, construction, no-till]
 sources:
-  - raw/papers/gaias-garden-toby-hemenway.md
+  - "raw/papers/gaias-garden-toby-hemenway.md"
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 

@@ -6,10 +6,9 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
-  - raw/papers/sepp-holzer-practical-guide.md
-  - raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l.md
-  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
+  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l.md"
+  - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 related_concepts:
   - pond-design-and-construction
   - dam-construction

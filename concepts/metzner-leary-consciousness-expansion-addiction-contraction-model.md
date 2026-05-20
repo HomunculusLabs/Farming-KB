@@ -8,6 +8,8 @@ tags:
   - metzner-addiction-transcendence-consciousness-expansion-as-antidote
 of psychedelic states with the narrowed, fixated awareness typical of narcotic
 addictions and obsessive-compulsive patterns.
+type: concept
+---
 
 ## Origins at Harvard
 

@@ -3,7 +3,7 @@ title: "mycelium-running-stamets-fungi-and-climate-change Change Feedback"
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 type: concept
 tags: [climate, fungi]
 ---

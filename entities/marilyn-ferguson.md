@@ -1,4 +1,5 @@
 ---
+title: Marilyn Ferguson
 name: Marilyn Ferguson
 type: person
 categories: [author, journalist, consciousness-movement-leader, social-theorist]

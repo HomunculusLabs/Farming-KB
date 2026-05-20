@@ -1,4 +1,5 @@
 ---
+title: Permaculture Pattern Literacy
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -11,7 +12,7 @@ tags:
   - observation
   - landscape-reading
 sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - raw/papers/bill-mollison-permaculture-design-course.md
 ---
 

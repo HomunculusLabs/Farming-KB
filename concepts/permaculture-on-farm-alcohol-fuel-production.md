@@ -7,6 +7,7 @@ tags:
   - permaculture
   - agriculture
   - query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed (pig, worm, fish) to plant food, thus closing a solar cycle that will fuel every tractor or motorbike needed for essential use. The technology is simple, well-known and widespread.
+---
 
 The integration of alcohol production within a glasshouse system means that waste heat from fermentation and distillation can be used to maintain growing temperatures, while elevated CO2 levels boost plant growth. This synergistic design is characteristic of the [[permaculture-tree-crop-systems]] for [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.

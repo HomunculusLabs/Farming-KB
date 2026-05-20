@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [soil, microbes, biology, nutrient-cycling, ecology]
 sources:
-  - raw/papers/lowenfels-teaming-with-microbes.md
+  - "raw/papers/lowenfels-teaming-with-microbes.md"
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 ---
 

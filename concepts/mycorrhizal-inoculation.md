@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [soil, mycorrhizae, fungi, plant-growth, inoculation]
 sources:
-  - raw/papers/lowenfels-teaming-with-microbes.md
+  - "raw/papers/lowenfels-teaming-with-microbes.md"
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 ---
 

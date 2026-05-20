@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [soil, plant-growth, biology, nutrient-cycling, rhizosphere]
 sources:
-  - raw/papers/lowenfels-teaming-with-microbes.md
+  - "raw/papers/lowenfels-teaming-with-microbes.md"
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
 ---
 

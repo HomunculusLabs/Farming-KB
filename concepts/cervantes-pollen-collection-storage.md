@@ -8,6 +8,8 @@ tags:
   - pollination
   - psilocybin-shelf-life-stability
 to enable breeding across different flowering timelines.
+type: concept
+---
 
 ## When to Collect Pollen
 

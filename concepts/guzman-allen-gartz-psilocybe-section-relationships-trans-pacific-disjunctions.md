@@ -1,4 +1,5 @@
 ---
+title: Psilocybe Section Relationships and Trans-Pacific Biogeographic Disjunctions
 source: Worldwide psilocybe-geographical-distribution-patterns of the Neurotropic Fungi (Guzmán, Allen & Gartz, 1998)
 source_path: raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 type: concept

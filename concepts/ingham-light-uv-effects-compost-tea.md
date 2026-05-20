@@ -1,5 +1,8 @@
 ---
-
+title: Light and UV Effects on Compost Tea Organisms
+tags: []
+type: concept
+---
 ## Light and UV Effects on Compost Tea Organisms
 
 ## Sun Tea Misconceptions

@@ -9,6 +9,8 @@ decisive role in the rapid emergence of human consciousness and the
 tripling of brain size that occurred over approximately three million
 years of hominid evolution. This theory, sometimes called the [[neurotropic-fungi-chemical-compounds]]
 in the early human diet provided the missing catalyst.
+type: concept
+---
 
 ## Three Levels of Psilocybin Use
 

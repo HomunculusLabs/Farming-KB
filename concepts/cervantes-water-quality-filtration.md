@@ -1,4 +1,5 @@
 ---
+title: Water Quality and Filtration for Cannabis Cultivation
 source: marijuana-horticulture-cervantes.md
 source_path: ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
 extracted: 2026-05-10

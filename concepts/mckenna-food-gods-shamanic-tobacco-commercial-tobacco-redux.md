@@ -1,4 +1,5 @@
 ---
+title: Shamanic Tobacco vs. Commercial Tobacco: The Forgotten Visionary Plant
 source: "Food of the Gods - terence-mckenna"
 source_file: mckenna_t-food_of_the_gods.md
 extracted: 2026-04-11

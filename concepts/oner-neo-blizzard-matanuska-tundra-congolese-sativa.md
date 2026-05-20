@@ -1,4 +1,5 @@
 ---
+title: Neo Blizzard — Matanuska Tundra × Congolese by Evil Seeds
 source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 source_type: paper
 topics: [cannabis, sativa, matanuska-tundra, congolese, evil-seeds, steak-aroma, heavy-yield, indoor-growing, outdoor-growing, 75-percent-sativa]
@@ -147,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.

@@ -5,7 +5,7 @@ tags: [knf, fermented-plant-juice, natural-farming, korean-farming, fertilizers]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/master-cho-knf-recipe-book.md
+  - "raw/papers/master-cho-knf-recipe-book.md"
 type: concept
 ---# KNF Fermented Plant Juice
 

@@ -12,8 +12,8 @@ tags:
   - religion
   - ethnobotany
 sources:
-  - raw/papers/mckenna_t-food_of_the_gods.md
-  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - "raw/papers/mckenna_t-food_of_the_gods.md"
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
   - raw/papers/allegro-j-the-sacred-mushroomcross.md
 ---
 

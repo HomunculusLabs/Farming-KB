@@ -5,7 +5,7 @@ tags: [tissue-culture, agar, laboratory, strain-isolation, cloning]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/cotter-organic-mushroom-farming-mycoremediation.md
+  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 type: concept
 ---# Agar and Tissue Culture Techniques
 

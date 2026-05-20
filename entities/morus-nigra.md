@@ -17,6 +17,7 @@ sources:
   - USDA Natural Resources Conservation Service. "Morus nigra L." PLANTS Database.
   - M. L. Kafkas et al. (2008). "Molecular characterization of mulberry accessions from Turkey." Scientia Horticulturae, 116(4), 364–368.
   - A. K. Pandey et al. (2018). "Mulberry: A potential source of query-what-are-the-main-bioactive-compounds-in-medicinal-plants." Journal of Integrative Medicine, 16(5), 367–376.---
+---
 
 ## Overview
 
@@ -28,7 +29,7 @@ and Roman medicine, where it was valued for throat ailments, digestive complaint
 general tonic.
 
 The species is slow-growing but long-lived, with specimens exceeding 300 years recorded in
-Europe. Its fruit is commercially important for jams, syrups, liqueurs, and traditional
+Europe. Its fruit is [[commercially-important-pleurotus-species-cultivation-guide]] for jams, syrups, liqueurs, [[query-what-is-the-difference-between-vermicompost-and-traditional-compost]]
 desserts across the Mediterranean, Middle East, and Central Asia.
 
 ## Taxonomy and Morphology
@@ -72,17 +73,17 @@ hotter regions where afternoon protection is beneficial.
 ## Cultivation
 
 Propagation is most commonly by hardwood cuttings (30–45 cm, taken in winter), which root
-readily within 6–8 weeks under mist. Softwood cuttings and grafting onto *M. alba* rootstock
+readily within 6–8 weeks under mist. Softwood [[query-how-do-i-propagate-plants-from-cuttings-and-other-vegetative-methods]] grafting onto *M. alba* rootstock
 are also practiced. [[jeavons-seed-propagation-techniques]] produces variable offspring and is generally avoided for
 named cultivars.
 
-Trees begin bearing fruit 3–5 years after planting from cuttings. Mature trees can produce
+Trees begin bearing fruit 3–5 years after planting [[query-how-do-i-propagate-plants-from-cuttings-and-other-vegetative-methods]]. Mature trees can produce
 25–50 kg of fruit annually. Peak productivity occurs between 10–30 years, though trees
 remain productive for over a century.
 
 Pruning is essential for managing the spreading habit and maintaining harvestable height.
 Summer pruning after fruiting is recommended, as black mulberry bleeds heavily if pruned
-during dormancy. A modified open-center form works well for home orchards.
+during dormancy. A modified open-center form works well for [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]] s.
 
 Key cultivars include 'Hicks Fancy' (Australia), 'King James' (England), and 'Noir de
 

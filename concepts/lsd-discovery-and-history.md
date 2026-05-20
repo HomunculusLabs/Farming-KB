@@ -12,7 +12,7 @@ tags:
   - mk-ultra
   - discovery
 sources:
-  - raw/particles/hofmann-a-lsd-my-problem-child.md
+  - "raw/particles/hofmann-a-lsd-my-problem-child.md"
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 

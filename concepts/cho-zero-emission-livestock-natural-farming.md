@@ -4,7 +4,7 @@ tags: [natural-farming, animal-husbandry, cho-han-kyu, sustainability]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - raw/papers/chos-global-natural-farming.md
+  - "raw/papers/chos-global-natural-farming.md"
 created: 2026-05-07
 type: concept
 ---

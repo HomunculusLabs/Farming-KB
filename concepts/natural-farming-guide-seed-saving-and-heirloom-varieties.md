@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-24
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md
+  - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
 type: concept
 tags: [natural-farming, plant-growth]
 ---

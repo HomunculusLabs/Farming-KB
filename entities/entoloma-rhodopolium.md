@@ -6,6 +6,7 @@ tags:
   - agaricales
   - entolomataceae
   - psilocybin-north-america-pacific-northwest.
+---
 
 The species is notable for its close morphological similarity to several deadly
 poisonous Entoloma species, most notably [[boil-a-bag-spore-print-technique-jarrold]] is salmon-pink. Spores are angular, 5- to 6-sided, measuring

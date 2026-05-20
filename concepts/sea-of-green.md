@@ -4,7 +4,6 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - raw/papers/marijuana-horticulture-cervantes.md
   - "Cervantes - marijuana-horticulture-cervantes-artificial-lighting-and-electricity"
 type: concept
 tags: [reference]
@@ -118,3 +117,4 @@ The SOG methodology remains one of the most space-efficient indoor cultivation a
 - [[2-ag-endocannabinoid-signaling-blesching]]
 - [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
 - [[actinobacteria-enrichment-cannabis-endorhiza]]
+Understanding these principles enables more effective and sustainable cultivation practices.

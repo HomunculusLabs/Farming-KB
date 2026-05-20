@@ -3,7 +3,7 @@ title: Green Cannabis Vegetative Growth
 created: 2026-04-26
 updated: 2026-04-25
 sources:
-  - raw/papers/greg-green-sinsemilla-and-pollination-the-cannabis-grow-bible.md
+  - "raw/papers/greg-green-sinsemilla-and-pollination-the-cannabis-grow-bible.md"
 type: concept
 tags: [cannabis]
 ---

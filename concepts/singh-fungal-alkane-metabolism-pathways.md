@@ -5,7 +5,7 @@ tags: [alkane-metabolism, fungal-enzymes, petroleum-biodegradation, monoxygenase
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
 ---# Fungal Alkane Metabolism Pathways
 

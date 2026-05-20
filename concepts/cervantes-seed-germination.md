@@ -6,6 +6,7 @@ type: concept
 tags: [cannabis, plant-growth]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## [[query-how-to-store-cannabis-seeds-for-long-term-viability]] need only three things to germinate:

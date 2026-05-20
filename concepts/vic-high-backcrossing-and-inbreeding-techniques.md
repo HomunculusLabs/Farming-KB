@@ -3,7 +3,7 @@ title: Vic High Backcrossing and Inbreeding Techniques
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/vic-high-creating-true-breeding-strains.md
+  - "raw/papers/vic-high-creating-true-breeding-strains.md"
 type: concept
 tags: [reference]
 ---

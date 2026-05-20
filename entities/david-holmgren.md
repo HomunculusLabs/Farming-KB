@@ -18,6 +18,7 @@ tags:
 - species
 
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 - raw/papers/permaculture-a-designers-manual-bill-mollison.md
 - raw/papers/permaculture-one-bill-mollison-david-holmgren.md
 ---

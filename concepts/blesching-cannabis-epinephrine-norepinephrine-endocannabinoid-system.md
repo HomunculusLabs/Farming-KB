@@ -5,7 +5,7 @@ tags: [epinephrine, norepinephrine, catecholamines, stress-response, endocannabi
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 type: concept
 ---# Epinephrine, Norepinephrine, and the Endocannabinoid System
 

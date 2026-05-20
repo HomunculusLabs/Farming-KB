@@ -6,6 +6,8 @@ tags:
   - timing
   - fruit-tree-pruning-training
 - [[query-how-do-i-prune-fruit-trees-naturally]]
+type: querie
+---
 ## Practical Considerations
 
 When working with When and How Should I Prune My Fruit Trees?, several practical factors should be

@@ -147,4 +147,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[stamets-crop-watering-flushing-management]]
 - [[stamets-mycorrhizal-mushrooms-forest-ecology-cultivation-challenges]]
 - [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]]
-- [[stamets-psi-psilocybin-potency-comparative-scale]]

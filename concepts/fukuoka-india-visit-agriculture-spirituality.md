@@ -6,6 +6,7 @@ type: concept
 tags: [regenerative]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## India Visit: Observations on Agriculture and Spirituality

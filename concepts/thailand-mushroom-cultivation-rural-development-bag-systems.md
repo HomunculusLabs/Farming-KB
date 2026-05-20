@@ -10,7 +10,7 @@ tags:
   - rural-development
   - substrate-bags
 sources:
-  - raw/papers/unknown-oyster-mushroom-cultivation.md
+  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 source_chunks:
   - source: unknown-oyster-mushroom-cultivation.md
     chunk_id: 7

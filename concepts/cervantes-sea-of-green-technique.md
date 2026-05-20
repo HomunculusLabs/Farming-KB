@@ -1,4 +1,5 @@
 ---
+title: Sea of Green (SOG)
 source: marijuana-horticulture-cervantes.md
 source_path: ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
 chapter: 12

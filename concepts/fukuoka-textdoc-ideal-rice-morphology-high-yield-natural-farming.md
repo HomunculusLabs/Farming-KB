@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+  - "raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"
 type: concept
 ---
 
@@ -147,4 +147,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[fukuoka-earthen-levee-building-artistic-religious-work]]

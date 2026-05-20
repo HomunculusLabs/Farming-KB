@@ -5,8 +5,8 @@ updated: 2026-04-13
 type: concept
 tags: [cultural-history, entheogen, soma, amanita-muscaria, wasson, allegro, rig-veda, scholarship, debate]
 sources:
-  - raw/papers/allegro-j-the-sacred-mushroomcross.md
-  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
   - raw/papers/the-psilocybin-solution-by-simon-g-powell.md
 ---
 

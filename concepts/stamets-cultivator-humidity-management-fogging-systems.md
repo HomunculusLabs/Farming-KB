@@ -5,8 +5,8 @@ tags: [environmental-control, humidity, fogging, growing-room, climate-systems]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/mycelium-running-stamets.md"
 type: concept
 ---
 
@@ -147,4 +147,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[mushroom-inoculation-techniques-stamets]]
 - [[stamets-crop-watering-flushing-management]]
-- [[stamets-mycorrhizal-mushrooms-forest-ecology-cultivation-challenges]]

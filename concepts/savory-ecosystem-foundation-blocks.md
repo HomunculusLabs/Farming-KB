@@ -9,7 +9,7 @@ related: [savory-holistic-management-overview, savory-water-cycle-management,
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/savory-holistic-resource-management.md
+  - "raw/papers/savory-holistic-resource-management.md"
 type: concept
 ---# The Four Ecosystem Foundation Blocks
 

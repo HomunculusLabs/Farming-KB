@@ -5,7 +5,7 @@ tags: [coca, inca, sacred-plants, ethnobotany, McKenna, food-of-the-gods, indige
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - raw/papers/mckenna_t-food_of_the-gods.md
+  - "raw/papers/mckenna_t-food_of_the-gods.md"
 type: concept
 ---
 ## Coca and the Mama Coca Goddess Tradition of the Inca

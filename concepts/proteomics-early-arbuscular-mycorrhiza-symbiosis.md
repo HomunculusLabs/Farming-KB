@@ -9,6 +9,8 @@ recognition, root colonization, and the establishment of the symbiotic
 interface. Using two-dimensional gel electrophoresis and mass
 spectrometry, researchers have identified differentially expressed
 proteins involved in [[mycorrhizal-symbiosis]].
+type: concept
+---
 
 ## Practical Applications
 

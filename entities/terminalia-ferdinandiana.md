@@ -18,6 +18,7 @@ sources:
   - Tan Y, et al. (2011). "Antioxidant and cytotoxic activities of Terminalia ferdinandiana." Journal of Agricultural and Food Chemistry, 59(1), 365-372.
   - http://www.anbg.gov.au/gnp/interns-2005/terminalia-ferdinandiana.html
 created: 2026-04-28
+---
 
 ## Terminalia ferdinandiana
 
@@ -25,7 +26,7 @@ created: 2026-04-28
 
 **Terminalia ferdinandiana** (Exell) is a small-to-medium deciduous tree in the family Combretaceae, native to northern Australia. It is widely known as the **Kakadu plum**, **gubinge**, **billygoat plum**, or **murunga**. The species holds the record for the highest naturally occurring vitamin C concentration of any food, with reported levels reaching 5,300 mg per 100 g of fresh fruit weight.
 
-The fruit has sustained Aboriginal Australian communities for millennia as both a dietary staple and a medicinal resource. Commercial interest in the species has grown substantially since the early 2000s, driven by demand for native superfoods and bioactive phytochemicals.
+The fruit has sustained Aboriginal Australian communities for millennia as both a dietary staple and a medicinal resource. Commercial interest in the species has grown substantially since the early 2000s, driven by demand for native superfoods [[ganoderma-lucidum-pharmacology-and-bioactive-compounds]] phytochemicals.
 
 ## Taxonomy and Morphology
 
@@ -49,7 +50,7 @@ The species occupies a variety of well-drained habitats including sandstone esca
 
 ## Nutritional Profile
 
-The Kakadu plum's most celebrated attribute is its extraordinary **ascorbic acid (vitamin C) content**. Reported concentrations range from 900 to 5,300 mg per 100 g fresh weight, representing 50–100 times the concentration found in oranges ([[cannabis-harvest-timing-visual-cues]], and post-harvest handling. Shade-dried fruit retains approximately 40–50% of fresh vitamin C content.
+The Kakadu plum's most celebrated attribute is its extraordinary **ascorbic acid (vitamin C) content**. Reported concentrations range from 900 to 5,300 mg per 100 g fresh weight, representing 50–100 times the concentration found in oranges ([[cannabis-harvest-timing-visual-cues]], and post-[[mushroom-harvesting-and-post-harvest-handling]]. Shade-dried fruit retains approximately 40–50% of fresh vitamin C content.
 
 Additional nutritional constituents include:
 
@@ -75,9 +76,9 @@ In vitro studies have demonstrated:
 
 ## Traditional and Contemporary Uses
 
-Aboriginal Australians have used the Kakadu plum as a food and medicine for an estimated 40,000–60,000 years. The fruit is eaten fresh when ripe and can be sun-dried for later use.
+Aboriginal Australians have used the Kakadu plum as a [[mushroom-cultivation-for-food-and-medicine]] for an estimated 40,000–60,000 years. The fruit is eaten fresh when ripe and can be sun-dried for later use.
 
-Traditional medicinal applications include treatment of colds, headaches, and [[cannabis-for-skin-conditions-detailed]]. The inner bark is used topically for wounds, and sap is applied as an antiseptic.
+Traditional medicinal [[pattern-applications-in-permaculture-design]] clude [[fungal-treatment-of-textile-dyes-mechanisms]] colds, headaches, and [[cannabis-for-skin-conditions-detailed]]. The inner bark is used topically for wounds, and sap is applied as an antiseptic.
 
 Contemporary commercial applications include:
 

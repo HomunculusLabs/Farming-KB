@@ -1,4 +1,5 @@
 ---
+title: Psilocybin Mushrooms Beyond Psilocybe: Other Genera
 
 ## Psilocybin Mushrooms Beyond Psilocybe: Other Genera
 

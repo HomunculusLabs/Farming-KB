@@ -11,6 +11,7 @@ tags:
   - edible-mushroom
   - tropical-fungi
   - psilocybe-southeast-asia-pacific, where it is cultivated within termite mounds as the primary food source for the colony.
+---
 
 T. clypeatus is one of the most widely consumed wild [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] originated within the termite comb.
 

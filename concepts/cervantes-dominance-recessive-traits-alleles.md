@@ -7,6 +7,8 @@ tags:
   - breeding
   - alleles
   - vic-high-cannabis-genetics-mendelian-inheritance of a single gene trait.
+type: concept
+---
 
 ## Naming Conventions for Genotypes
 

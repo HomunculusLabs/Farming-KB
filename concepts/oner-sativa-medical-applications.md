@@ -1,5 +1,8 @@
 ---
-
+title: Overview
+tags: []
+type: concept
+---
 ## Overview
 
 As [[cannabidiol-cbd-therapeutic-profile-blesching]] centered on energy, focus, mood elevation, and daytime functionality. *comparison-cannabis-sativa-vs-cannabis-indica Volume 3* documents this shift, with the introduction noting that "many cervantes-medical-marijuana-pharmacology users realized they'd been smoking the wrong variety altogether, numbing themselves with indicas when they really needed something to give them a kick of energy and inspiration."
@@ -145,4 +148,3 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also

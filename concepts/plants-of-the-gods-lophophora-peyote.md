@@ -11,6 +11,8 @@ phenylethylamines and isoquinolines. L. diffusa has a gray-green,
 sometimes yellowish green crown with indefinite ribs and sinuate
 furrows. The flowers are usually much larger than in L. williamsii.
 The chemical constitution of L. diffusa is much simpler.
+type: concept
+---
 
 ## Distribution and Habitat
 

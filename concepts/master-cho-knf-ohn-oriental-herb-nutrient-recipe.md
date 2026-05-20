@@ -3,7 +3,7 @@ title: Master Cho Knf Ohn Oriental Herb Nutrient Recipe
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/master-cho-knf-recipe-book.md
+  - "raw/papers/master-cho-knf-recipe-book.md"
 type: concept
 tags: [knf, nutrients]
 ---

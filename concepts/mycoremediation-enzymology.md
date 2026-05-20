@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [mycoremediation, biochemistry, mycology, chemistry, enzymes]
 sources:
-  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md
 ---
 

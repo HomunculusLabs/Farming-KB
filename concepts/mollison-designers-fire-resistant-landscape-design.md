@@ -10,7 +10,7 @@ updated: 2026-05-06
 date: permaculturepdated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 tags: [reference]
 --- Fire-Resistant Landscape Design

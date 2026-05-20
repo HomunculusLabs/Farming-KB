@@ -56,7 +56,7 @@ Populations occur in the Jura, Vosges, Black Forest, Apennines, and Dinaric Alps
 
 The species inhabits damp woodland margins, stream banks, and subalpine meadows. It grows at elevations of 500–2,200 m in areas with reliable summer moisture.
 
-Plants prefer humus-rich, moist, well-drained soils in partial to full shade. Unlike most gentians, it tolerates acidic conditions and grows well under deciduous trees.
+Plants prefer [[humus]]-rich, moist, well-drained soils in partial to full shade. Unlike most gentians, it tolerates acidic conditions and grows well under deciduous trees.
 
 The species associates with [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]]. This relationship helps it thrive in the low-light, nutrient-poor soils of forest floors.
 
@@ -68,7 +68,7 @@ The species is hardy to USDA zones 4–8. It tolerates winter cold well but disl
 
 In hot climates, afternoon shade is essential to prevent leaf scorch. Plants may go dormant early if stressed by heat or drought.
 
-Propagation is by seed sown fresh in autumn, or by division in [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. A mulch of [[comparison-leaf-mold-composting-vs-hot-composting-method]] or compost helps retain moisture and mimic woodland conditions.
+Propagation is by seed sown fresh in autumn, or by division in [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. A mulch of [[comparison-leaf-mold-composting-vs-hot-composting-method]] or [[compost]] helps retain moisture and mimic woodland conditions.
 
 The species has received the RHS Award of Garden Merit. Notable cultivars include 'Alba' (white flowers) and 'Shirley' (large, dark blue flowers).
 

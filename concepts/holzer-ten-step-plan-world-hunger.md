@@ -9,6 +9,8 @@ instead of 7 billion) through respect for all living beings and sensible
 management of nature's resources: sun, rain, and soil. He contends that famine
 is man-made, caused primarily by wrong global politics in agriculture rather
 than by insufficient productive capacity.
+type: concept
+---
 
 ## The Root Cause of Hunger
 

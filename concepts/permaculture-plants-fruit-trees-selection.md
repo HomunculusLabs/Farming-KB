@@ -3,7 +3,7 @@ title: Permaculture comparison-pruning-fruit-trees-vs-grafting-fruit-trees Selec
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/a-selection-permaculture-plants.md
+  - "raw/papers/a-selection-permaculture-plants.md"
 type: concept
 tags: [culture, fruit-tree, permaculture, plants, tree-crop]
 ---

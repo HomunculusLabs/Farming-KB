@@ -15,11 +15,12 @@ sources:
   - Yuan, C.S. et al. (1998). "Traditional Chinese ." American Journal of Chinese Medicine, 26(2), 133–145.
   - Liu, Z. et al. (2018). "Gastrodin: A Review of Its Pharmacological Effects and Mechanisms." Evidence-Based Complementary and Alternative Medicine, 2018, 7421409.
   - Huang, L.Q. et al. (2020). "Cultivation and blesching-cannabis-contaminants-testing-quality-control of Gastrodia elata in China." Journal of Ethnopharmacology, 254, 112681.---
+
 ---# Overview
 
-Gastrodia elata, known as Tianma in Chinese, is a fully mycoheterotrophic orchid in the family Orchidaceae.
+Gastrodia elata, known as Tianma in Chinese, is a fully mycoheterotrophic [[vanilla-cultivation-and-orchid-ecology]] in the family Orchidaceae.
 
-It is one of the most important medicinal plants in traditional Chinese medicine.
+It is one of the most important [[medicinal-plant-guide]] plants in traditional Chinese medicine.
 
 The species entirely lacks chlorophyll and depends on [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], organic acids, and polysaccharides.
 

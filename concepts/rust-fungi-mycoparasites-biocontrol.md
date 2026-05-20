@@ -10,7 +10,7 @@ tags:
   - rust-fungi
   - biocontrol
 sources:
-  - raw/papers/unknown-biodiversity-of-fungi.md
+  - "raw/papers/unknown-biodiversity-of-fungi.md"
 source_chunks:
   - source: unknown-biodiversity-of-fungi.md
     chunk_id: 97

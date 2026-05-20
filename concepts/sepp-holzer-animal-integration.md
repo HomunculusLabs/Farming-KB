@@ -6,6 +6,7 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 ## Sepp Holzer Animal Integration (Pigs, Cattle, Poultry)

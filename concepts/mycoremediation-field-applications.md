@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [mycoremediation, remediation, pollution, deployment, mycology]
 sources:
-  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
   - raw/papers/staycare-mngmt-fungi-in-bioremediation.md
 ---
 

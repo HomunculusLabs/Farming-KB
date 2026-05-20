@@ -3,7 +3,7 @@ title: Cannabis Soil Mixes - Greg Green's green-cannabis-grow-bible-breeding-gen
 created: 2026-04-26
 updated: 2026-04-25
 sources:
-  - raw/papers/greg-green-the-cannabis-grow-bible.md
+  - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 type: concept
 tags: [cannabis, soil]
 ---

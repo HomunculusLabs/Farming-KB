@@ -5,10 +5,10 @@ updated: 2026-04-12
 type: entity
 tags: [person, mycology, cultivation, academia]
 sources:
-  - raw/papers/peter-oei-5-pages-mushroom-cultivation.md
-  - raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md
-  - raw/papers/unknown-oyster-mushroom-cultivation.md
-  - raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md
+  - "raw/papers/peter-oei-5-pages-mushroom-cultivation.md"
+  - "raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md"
+  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
+  - "raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md"
   - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 

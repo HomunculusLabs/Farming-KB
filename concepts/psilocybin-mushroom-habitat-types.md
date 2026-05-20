@@ -10,7 +10,7 @@ tags:
   - psilocybin
   - identification
 sources:
-  - raw/particles/psilocybin-mushrooms-of-the-world-stamets.md
+  - "raw/particles/psilocybin-mushrooms-of-the-world-stamets.md"
   - raw/particles/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 

@@ -4,7 +4,7 @@ titlsoma-hypothesisothesis in allegro-amanita-muscaria-properties-and-pharmacolo
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/amanita-muscaria-herb-of-immortality.md
+  - "raw/papers/amanita-muscaria-herb-of-immortality.md"
 type: concept
 tags: [amanita-muscaria]
 ---

@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: entity
 tags: [person, cannabis, indoor, cultivation, lighting]
 sources:
-  - raw/papers/greg-green-the-cannabis-grow-bible.md
+  - "raw/papers/greg-green-the-cannabis-grow-bible.md"
   - raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 

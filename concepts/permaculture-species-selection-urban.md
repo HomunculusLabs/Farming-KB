@@ -3,7 +3,7 @@ title: Permaculture Species Selection for Urban Environments
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/urban-permaculture-guerilla-gardening.md
+  - "raw/papers/urban-permaculture-guerilla-gardening.md"
 type: concept
 tags: [culture, permaculture, species]
 --- Permaculture Species Selection for Urban Environments

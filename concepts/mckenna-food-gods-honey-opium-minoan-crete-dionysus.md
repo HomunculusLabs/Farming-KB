@@ -1,4 +1,5 @@
 ---
+title: Honey, Opium, and the Minoan Roots of Dionysus
 source: "Food of the Gods - Terence McKenna"
 source_file: mckenna_t-food_of_the_gods.md
 extracted: 2026-04-11

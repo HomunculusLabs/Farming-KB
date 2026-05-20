@@ -6,6 +6,7 @@ type: concept
 tags: [agriculture, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Fukuoka Scientific Farming Paradoxes

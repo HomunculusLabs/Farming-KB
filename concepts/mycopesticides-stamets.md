@@ -5,6 +5,7 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---

@@ -9,6 +9,7 @@ tags:
 polyculture — bean, maize, and squash — is a celebrated example of
 [[jadam-canker-leaf-spot-pesticide]],
 anthracnose, bacterial blight, bean rust, and [[cannabis-root-rot-prevention-and-treatment]] complexes.
+---
 
 ## Overview
 

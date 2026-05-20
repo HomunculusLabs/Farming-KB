@@ -5,8 +5,8 @@ updated: 2026-04-12
 type: concept
 tags: [mycology, pollution, biology, ecology, microbes, methods]
 sources:
-  - raw/papers/mycelium-running-stamets.md
-  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - "raw/papers/mycelium-running-stamets.md"
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
   - raw/papers/staycare-mngmt-fungi-in-bioremediation.md
 ---
 

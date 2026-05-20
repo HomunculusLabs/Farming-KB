@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [cover-crop, no-till, permaculture, nitrogen, rice, green-manure]
 sources:
-  - raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 

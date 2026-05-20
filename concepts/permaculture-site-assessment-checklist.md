@@ -1,4 +1,5 @@
 ---
+title: Permaculture Site Assessment Checklist
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -147,4 +148,3 @@ Create lists of existing on-site resources:
 - [[vines-in-desert-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
 - [[permaculture-principle-use-and-value-renewable-resources]]
-- [[permaculture-ethics-of-permanence]]

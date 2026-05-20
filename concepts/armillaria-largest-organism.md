@@ -5,6 +5,8 @@ tags:
   - fungal-ecology
   - basidiomycota-classification-major-clades
 - [[fungal-ecology-forest-ecosystems]]
+type: concept
+---
 ## Practical Applications
 
 Armillaria - The Largest Living Organism has a range of practical applications that make it relevant to

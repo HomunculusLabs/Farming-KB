@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [mushroom-cultivation, species-guide, reishi, medicinal-mushrooms]
 sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
@@ -147,4 +148,3 @@ systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
 
-## Challenges and Solutions

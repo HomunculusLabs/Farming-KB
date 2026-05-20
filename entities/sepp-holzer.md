@@ -20,6 +20,7 @@ tags:
 - species
 
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 - raw/sepp-holzer-practical-guide-to-small-scale-integrative.md
 - raw/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 - raw/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md

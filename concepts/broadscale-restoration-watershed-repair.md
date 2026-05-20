@@ -3,7 +3,7 @@ title: "Broadscale Restoration Watershed Repair"
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/urban-permaculture-plants-aquatic-systems-water-plants|permaculture-guerilla-gardening.md
+  - "raw/papers/urban-permaculture-plants-aquatic-systems-water-plants"
 type: concept
 tags: [forest-restoration, water]
 --- Broadscale Restoration and Watershed Repair

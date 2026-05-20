@@ -5,7 +5,7 @@ tags: [isotope-labelling, mycorrhiza, carbon-allocation, AMF, fatty-acids]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/symbiotic-fungi.md
+  - "raw/papers/symbiotic-fungi.md"
 type: concept
 ---# Stable Carbon Isotope Labelling for Mycorrhizal Carbon Tracking
 

@@ -1,4 +1,5 @@
 ---
+title: Neurotropic Fungi Diversity and Vegetation Types: Mesophytic and Cloud Forest Corridors
 source: Worldwide psilocybe-geographical-distribution-patterns of the Neurotropic Fungi (Guzmán, Allen & Gartz, 1998)
 source_path: raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 type: concept

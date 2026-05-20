@@ -11,6 +11,8 @@ techno-optimism -- the belief that technological breakthroughs will
 maintain or increase energy availability regardless of resource limits.
 His analysis contextualises nuclear within the broader pattern of
 fossil-fuel techno-faith and its repeated failures.
+type: concept
+---
 
 ## Nuclear Energy as Techno-Faith
 
@@ -146,5 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 ## Challenges and Solutions
 
 Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.

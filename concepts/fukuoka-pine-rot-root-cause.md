@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## gaias-garden-forest-garden-installation-phased-design Rot Research

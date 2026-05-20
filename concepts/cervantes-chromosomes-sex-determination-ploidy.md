@@ -8,6 +8,8 @@ tags:
   - ploidy
   - cervantes-feminized-seed-production. This is because no Y chromosome
 exists in either parent, so no male offspring can be produced.
+type: concept
+---
 
 ## Haploid, Diploid, and Polyploid States
 

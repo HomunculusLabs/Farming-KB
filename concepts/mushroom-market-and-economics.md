@@ -1,4 +1,5 @@
 ---
+title: Mushroom Market and Economics
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,8 +10,8 @@ tags:
   - cultivation
   - business
 sources:
-  - raw/papers/william-falconer-mushroom-how-to-grow-them.md
-  - raw/papers/benjamin-minge-duggar-mushroom-growing.md
+  - "raw/papers/william-falconer-mushroom-how-to-grow-them.md"
+  - "raw/papers/benjamin-minge-duggar-mushroom-growing.md"
   - raw/papers/the-mushroom-cultivator-stamets.md
 ---
 

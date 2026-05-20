@@ -9,6 +9,7 @@ tags:
   - myrtaceae
   - australia
   - permaculture-designers-manual-essential-oil-plants.
+---
 
 The oil contains high concentrations of 1,8-cineole ([[dighton-fungal-drought-tolerance-plant-water-relations]].
 

@@ -147,4 +147,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[fukuoka-earthen-levee-building-artistic-religious-work]]

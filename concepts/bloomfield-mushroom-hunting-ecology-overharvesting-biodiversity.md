@@ -1,4 +1,5 @@
 ---
+title: Mushroom Hunting: Ecology, Overharvesting, and Biodiversity Concerns
 source: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 extracted: 2026-05-09
 type: concept

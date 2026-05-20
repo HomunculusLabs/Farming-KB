@@ -6,6 +6,7 @@ type: concept
 tags: [rice, seed-saving]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Fukuoka Old Rice Variety Testing

@@ -5,7 +5,7 @@ tags: [heavy-metals, biosorption, bioaccumulation, metallothioneins, tolerance]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
 ---# Fungal Interactions with Heavy Metals in Soil
 

@@ -23,6 +23,8 @@ sources:
   - "Rosenthal, Ed. The Cannabis Encyclopedia"
   - "Clarke, Robert Connell. Marijuana Botany"
   - "Oner, S.T. [[cannabis-sativa]] Volume 3: The Essential Guide"
+type: topic
+---
 
 ## Cannabis Advanced Growing Techniques
 
@@ -146,5 +148,3 @@ All colas receive equal light intensity.
 ## See Also
 - [[cannabis-drying-and-curing]]
 - [[defoliation-cannabis]]
-- [[cannabis-hydroponics-systems-nutrients]]
-- [[cannabis-screen-of-green-scrog-guide]]

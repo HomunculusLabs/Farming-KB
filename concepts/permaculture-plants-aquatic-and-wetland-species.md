@@ -3,7 +3,7 @@ title: Permaculture Plants Aquatic And Wetland Species
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/a-selection-permaculture-plants.md
+  - "raw/papers/a-selection-permaculture-plants.md"
 type: concept
 tags: [culture, permaculture, plants, species]
 ---

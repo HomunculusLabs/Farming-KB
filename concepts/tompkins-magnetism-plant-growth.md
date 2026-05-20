@@ -5,7 +5,7 @@ tags: [botany, biophysics, agriculture, electromagnetism]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/tompkins-secret-life-of-plants.md
+  - "raw/papers/tompkins-secret-life-of-plants.md"
 type: concept
 ---# Magnetism and Plant Growth
 

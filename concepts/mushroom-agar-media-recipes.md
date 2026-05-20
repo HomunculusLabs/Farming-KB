@@ -1,4 +1,5 @@
 ---
+title: Mushroom Agar Media Recipes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -147,4 +148,3 @@ A richer medium for fastidious species:
 
 1. Allow sterilized media to cool to approximately 50-55°C (comfortable to touch but still liquid)
 2. Pour 20-25 mL into each sterile Petri dish inside a [[laminar-flow-hood]]
-3. Cover immediately and allow to solidify (15-30 minutes)

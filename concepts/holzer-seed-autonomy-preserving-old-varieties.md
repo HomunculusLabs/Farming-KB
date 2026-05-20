@@ -10,8 +10,9 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - raw/papers/holzer-desert-or-paradise.md
+  - "raw/papers/holzer-desert-or-paradise.md"
 type: concept
 ---# Holzer Seed Autonomy and Preserving Old Varieties
 

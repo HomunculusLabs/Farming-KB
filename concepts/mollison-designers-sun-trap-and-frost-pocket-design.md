@@ -1,24 +1,8 @@
----
-title: Mollison Designers Sun Trap And Frost Pocket Design
-created: 2026-04-28
-tags:
-  - permaculture
-  - microclimate
-  - frost-protection
-  - landscape-design
-  - thermal-mass
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
 
 ## Sun Trap and Frost Pocket Design
 
 [[bill-mollison]] covers these topics
-extensively in Permaculture: A Designers' Manual (Chapter 3: Methods
+extensively in [[permaculture]]: A Designers' Manual (Chapter 3: Methods
 of Design, and Chapter 6: [[comparison-windbreak-vs-thermal-mass]] building
 - mollison-designers-house-site-preparation-and-drainage-design
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
@@ -91,7 +75,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mollison Designers Sun Trap And Frost Pocket Design finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -147,4 +131,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[mentha-aquatica-mollison]]
-- [[mollison-designers-conifer-forestry-and-timber]]

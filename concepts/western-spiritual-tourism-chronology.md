@@ -3,7 +3,7 @@ title: Western western spiritual tourism chronology Chronology
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - raw/papers/stuart-r-ayahuasca-tourism.md
+  - "raw/papers/stuart-r-ayahuasca-tourism.md"
 type: concept
 tags:
   - spirituality
@@ -15,6 +15,7 @@ generation gravitating toward a different imported tradition.
 This chronological pattern reveals persistent cultural
 dissatisfaction with mainstream religion and an ongoing
 search for authentic spiritual experience.
+---
 
 ## The Beat Generation and Zen Buddhism (1950s)
 

@@ -2628,7 +2628,7 @@
 - [[permaculture-nitrogen-fixing-trees]]
 - [[permaculture-nitrogen-fixing-trees-guide]]
 - [[permaculture-plants-legume-trees-acacia-carob-locust]]
-- [[permaculture-plants-nitrogen-fixing-trees]]
+- [[permaculture-nitrogen-fixing-trees]]
 - [[permaculture-plants-nitrogen-fixing-trees-shrubs]]
 - [[permplant-alder-alnus-nitrogen-fixing-non-legume]]
 - [[permplant-black-locust-nitrogen-fixing-timber]]

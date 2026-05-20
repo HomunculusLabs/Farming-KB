@@ -11,7 +11,7 @@ tags:
   - lsd
   - 1960s
 sources:
-  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
   - raw/particles/hofmann-a-lsd-my-problem-child.md
 ---
 

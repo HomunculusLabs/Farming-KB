@@ -3,7 +3,7 @@ title: Gaias Garden Many Gardens Garden Design Process
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
+  - "raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"
 type: concept
 tags: [design, gardening]
 ---

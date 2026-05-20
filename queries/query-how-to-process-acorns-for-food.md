@@ -9,6 +9,8 @@ tags:
   - leaching
   - nutrition
   - psilocybin-north-america-pacific-northwest, Europe, and Asia for thousands of years. They are nutritious, abundant, and widely available, yet they require processing to remove bitter tannins before consumption. With proper leaching, acorns yield a versatile, nutty flour that can be used in breads, porridges, pancakes, and more.
+type: querie
+---
 
 ## Are All Acorns Edible?
 

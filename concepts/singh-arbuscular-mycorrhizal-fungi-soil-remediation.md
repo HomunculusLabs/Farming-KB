@@ -5,7 +5,7 @@ tags: [mycoremediation, mycorrhiza, arbuscular-mycorrhiza, soil-remediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 type: concept
 ---# Arbuscular mycorrhizal-symbiosis, associating with approximately
 two-thirds of all plant species. In the context of bioremediation, AMF

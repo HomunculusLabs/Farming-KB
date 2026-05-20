@@ -3,7 +3,7 @@ title: Cuthill Mushroom Spawn Preparation Historical
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md
+  - "raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md"
 type: concept
 tags: [grain-spawn, mushroom-cultivation]
 ---

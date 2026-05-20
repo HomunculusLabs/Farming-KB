@@ -20,7 +20,6 @@ sources:
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
   - "raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"
   - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
-  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 related_concepts:
   - mushroom-cultivation-fundamentals

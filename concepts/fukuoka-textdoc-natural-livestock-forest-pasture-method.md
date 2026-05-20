@@ -3,6 +3,7 @@ title: "Fukuoka Textdoc Natural Livestock Forest Pasture Method"
 type: concept
 tags: []
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -147,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
-proactive planning mitigate potential problems effectively.

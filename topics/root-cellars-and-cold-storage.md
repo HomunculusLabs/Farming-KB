@@ -6,17 +6,17 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - raw/concepts/root-cellar-design-and-construction.md
-  - raw/concepts/root-cellaring-and-no-energy-food-storage.md
-  - raw/concepts/root-cellaring-guide.md
-  - raw/concepts/solomon-on-root-cellaring.md
-  - raw/concepts/solomon-root-cellaring-and-crop-storage.md
-  - raw/concepts/solomon-root-cellaring-food-preservation.md
-  - raw/concepts/mollison-designers-cold-caves-root-cellar-storage.md
-  - raw/concepts/faires-no-energy-food-storage.md
-  - raw/concepts/vegetable-storage-conditions-by-temperature-and-humidity.md
-  - raw/concepts/root-vegetable-storage-guide.md
-  - raw/concepts/permaculture-designers-manual-food-storage.md
+  - "raw/concepts/root-cellar-design-and-construction.md"
+  - "raw/concepts/root-cellaring-and-no-energy-food-storage.md"
+  - "raw/concepts/root-cellaring-guide.md"
+  - "raw/concepts/solomon-on-root-cellaring.md"
+  - "raw/concepts/solomon-root-cellaring-and-crop-storage.md"
+  - "raw/concepts/solomon-root-cellaring-food-preservation.md"
+  - "raw/concepts/mollison-designers-cold-caves-root-cellar-storage.md"
+  - "raw/concepts/faires-no-energy-food-storage.md"
+  - "raw/concepts/vegetable-storage-conditions-by-temperature-and-humidity.md"
+  - "raw/concepts/root-vegetable-storage-guide.md"
+  - "raw/concepts/permaculture-designers-manual-food-storage.md"
 related_concepts:
   - root-cellar-design-and-construction
   - root-cellaring-and-no-energy-food-storage

@@ -1,4 +1,5 @@
 ---
+title: The Ecological Logic
 
 ## The Ecological Logic
 
@@ -147,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 
 - [[query-how-do-clay-seed-balls-work-for-natural-farming]]
 - [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]]
-- [[query-how-to-manage-cannabis-odor-and-stay-discreet]]

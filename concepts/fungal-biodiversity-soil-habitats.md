@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [fungi, fungal-biodiversity, soil, microbes, fungal-ecology, ecology, mycology, decomposition, nutrient-cycling]
 sources:
-  - raw/papers/unknown-biodiversity-of-fungi.md
+  - "raw/papers/unknown-biodiversity-of-fungi.md"
   - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 ---
 

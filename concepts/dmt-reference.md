@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [psychopharmacology, consciousness, ethnobotany, culture]
 sources:
-  - raw/papers/the-essential-psychedelics-guide-by-dm-turner.md
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
   - raw/papers/shulgin-a-tihkal.md
 ---
 

@@ -6,6 +6,7 @@ type: concept
 tags: [cannabis]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## Cannabis Pest and Disease Identification

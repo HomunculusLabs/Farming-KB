@@ -6,9 +6,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - raw/papers/gaias-garden-toby-hemenway.md
-  - raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l.md
-  - raw/papers/urban-permaculture-guerilla-gardening.md
+  - "raw/papers/gaias-garden-toby-hemenway.md"
+  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l.md"
+  - "raw/papers/urban-permaculture-guerilla-gardening.md"
 related_concepts:
   - sheet-mulching
   - sheet-mulching-guide

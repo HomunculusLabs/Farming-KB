@@ -11,6 +11,8 @@ haywire, and that the pursuit of deliciousness has paradoxically made truly
 delicious food increasingly rare. This page explores his arguments about
 flavor, instinct, and the relationship between spirit and sustenance as
 articulated in the textdoc source material.
+type: concept
+---
 
 ## Form Is Emptiness: Seven Colors and Seven Flavors
 
@@ -146,4 +148,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]
 - [[fukuoka-rice-dry-field-cultivation]]
-- [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]

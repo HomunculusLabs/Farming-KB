@@ -1,4 +1,5 @@
 ---
+title: Robin Carhart-Harris
 name: Robin Carhart-Harris
 type: person
 categories: [neuroscientist, psychedelic-researcher, professor, brain-imaging-specialist]

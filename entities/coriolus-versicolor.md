@@ -12,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
+---
 
 ## Taxonomy
 
@@ -24,7 +25,7 @@ generally
 known as [[fungi-in-ecosystem-processes-dighton]]
 processes, C. versicolor is discussed primarily in the context of
 wood
-decay succession in forest canopies and its interactions with
+decay succession in forest canopies and its [[fungal-interactions-with-humans]]
 specialist fungivorous insects. The species exemplifies the
 complex
 ecological dynamics that operate within deadwood habitats, where
@@ -33,12 +34,12 @@ ecological dynamics that operate within deadwood habitats, where
 
 Coriolus versicolor has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
+requires familiarity with the underlying [[biodynamic-farming-principles-and-practice]] their
 manifestation in real-world contexts. The breadth of applications
 reflects the fundamental importance of this topic across disciplines.
 
 Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
+specific objectives. Small-[[mycoremediation-small-scale-applications]] may be relatively
 straightforward, while larger implementations require more careful
 planning and coordination. Adaptation to local conditions is always
 essential for achieving optimal results regardless of scale.
@@ -55,7 +56,7 @@ Several important considerations should guide approach and decision-
 making when working with this topic. These include environmental
 factors, resource availability, timing, and the specific goals of the
 implementation. Careful attention to these factors improves outcomes
-and reduces the likelihood of common problems and setbacks.
+and reduces the likelihood of [[query-how-to-troubleshoot-common-problems-in-mushroom-cultivation]] and setbacks.
 
 Environmental conditions play a particularly significant role in
 determining outcomes. Factors such as temperature, moisture, light
@@ -72,7 +73,7 @@ enables more sustainable and successful long-term implementations.
 
 Practitioners commonly encounter several challenges when working with
 Coriolus versicolor. These include both technical difficulties and broader systemic
-issues that require adaptive management and creative problem-solving.
+issues that require adaptive [[soil-mineral-management-and-amendment-strategies]] creative problem-solving.
 Awareness of these common challenges enables more proactive planning
 and faster resolution when issues do arise during implementation.
 

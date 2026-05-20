@@ -1,4 +1,5 @@
 ---
+title: AACT Holding Time, Shelf Life, and Microbial Decay
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 source_type: paper
 topics: [aact, shelf-life, holding-time, viability, anaerobic,

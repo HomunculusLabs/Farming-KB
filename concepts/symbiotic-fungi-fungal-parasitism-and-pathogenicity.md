@@ -3,7 +3,7 @@ title: Symbiotic Fungi — Fungal Parasitism and Pathogenicity
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/symbiotic-fungi.md
+  - "raw/papers/symbiotic-fungi.md"
 type: concept
 tags: [fungi]
 ---

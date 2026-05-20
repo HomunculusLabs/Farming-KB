@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/unknown-biodiversity-of-fungi.md
+  - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
 --- Sooty Molds and Black Mildews - Tropical Foliar Fungi
 Sooty molds and black mildews are two groups of

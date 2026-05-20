@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, irrigation, soil-degradation, salt-accumulation, topsoil-erosion, natural-farming]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Fukuoka on Irrigation, Topsoil Erosion, and Salt Accumulation

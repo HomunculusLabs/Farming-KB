@@ -10,6 +10,7 @@ tags:
   - bill-mollison and permaculture
 - permaculture | Keyline is a core technique within permaculture [[food-forest]]
 - [[paul-stamets]]
+---
 ## Practical Applications
 
 Keyline Design has a range of practical applications that make it relevant to
@@ -147,4 +148,3 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also

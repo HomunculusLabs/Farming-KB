@@ -43,7 +43,7 @@ methyl]ethanamine
 - **Chemical class:** Phenethylamine, NBOMe derivative
 
 The N-(2-methoxy)benzyl substitution dramatically increases receptor
-potency and metabolic stability compared to parent compound 2C-B.
+[[mushroom-potency-and-harvesting]] metabolic stability compared to parent compound 2C-B.
 
 ## Pharmacology
 

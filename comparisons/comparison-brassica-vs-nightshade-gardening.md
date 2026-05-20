@@ -5,10 +5,10 @@ tags: [comparison, brassicas, nightshades, vegetable-gardening, cool-season, war
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - raw/concepts/brassica-growing-guide.md
-  - raw/concepts/tomato-pepper-eggplant-growing-guide.md
-  - raw/concepts/growing-brassicas-organically.md
-  - raw/concepts/solomon-growing-brassicas-guide.md
+  - "raw/concepts/brassica-growing-guide.md"
+  - "raw/concepts/tomato-pepper-eggplant-growing-guide.md"
+  - "raw/concepts/growing-brassicas-organically.md"
+  - "raw/concepts/solomon-growing-brassicas-guide.md"
 type: comparison
 ---
 

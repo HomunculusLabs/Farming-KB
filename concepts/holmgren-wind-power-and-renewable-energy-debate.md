@@ -7,6 +7,8 @@ tags:
   - holmgren-biomass-fuels-and-energy-yield-ratios,
 permaculture-emergy-accounting,
 permaculture-energy-systems.
+type: concept
+---
 ## Practical Applications
 
 Wind Power and the Renewable Energy Debate has a range of practical applications that make it relevant to

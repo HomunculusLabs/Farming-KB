@@ -1,4 +1,5 @@
 ---
+title: Ninja Turtle fukuoka-god-nature-and-man-as-one psilocybin-logos-consciousness and the author
 source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 source_type: paper
 topics: [cannabis, sativa, white-russian, martian-mean-green,

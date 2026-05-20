@@ -4,7 +4,7 @@ tags: [juncao, mushroom, substrate, grass, cultivation, china, pleurotus, altern
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - raw/papers/unknown-oyster-mushroom-cultivation.md
+  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 created: 2026-04-28
 type: concept
 ---

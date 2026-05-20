@@ -8,6 +8,7 @@ tags:
 recognizable by its brown, cup-shaped apothecia with a distinctly wrinkled
 or blistered inner surface. Though widely distributed, it is not considered
 culinary due to its small size and tough texture.
+---
 
 ## Taxonomy
 

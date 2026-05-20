@@ -3,7 +3,7 @@ title: Weil Intoxication and Consciousness Theory
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/weil-andrew-the-natural-mind.md
+  - "raw/papers/weil-andrew-the-natural-mind.md"
 type: concept
 tags: [toxic]
 ---

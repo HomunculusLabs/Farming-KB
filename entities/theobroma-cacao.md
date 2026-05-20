@@ -15,6 +15,7 @@ supporting millions of smallholder farmers globally with a confectionery market
 exceeding $130 billion annually. The name *Theobroma* means "food of the gods,"
 reflecting the deep cultural reverence among Mesoamerican civilizations who
 domesticated it over 5,000 years ago.
+---
 
 ## Taxonomy and Morphology
 

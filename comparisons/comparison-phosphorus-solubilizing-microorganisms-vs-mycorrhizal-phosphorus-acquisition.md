@@ -3,6 +3,8 @@ title: Comparison Phosphorus Solubilizing Microorganisms Vs Mycorrhizal Phosphor
 tags: [phosphorus, biofertilizers, mycorrhiza, soil-microbiology, plant-nutrition, arbuscular-mycorrhizal-fungi fungi in plant nutrition and growth. Mycologia. 2012;104(1):1-13.
   - Bhattacharyya PN, Gupta A. Planta bacillus-subtilisfunneliformis-mosseae rmis mosseae*, *Gigaspora margarita*, *Claroideoglomus* spp. |
 | **Host specificity** | None — free-living organisms act independently of plant species | Obligate symbionts with varying compatibility across plant families |
+type: comparison
+---
 
 ## How PSMs Solubilize Phosphorus
 

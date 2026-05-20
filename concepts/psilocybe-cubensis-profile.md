@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [species-profiles, species-identification, mycology, psilocybin, tropics, mushroom-cultivation, pf-tek, monotub]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 

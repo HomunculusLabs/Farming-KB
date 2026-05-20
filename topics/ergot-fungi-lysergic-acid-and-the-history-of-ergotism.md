@@ -6,10 +6,10 @@ tags: [ergot, claviceps, lysergic-acid, lsd, mycology, history, toxicology,
 date: 2026-05-19
 updated: 2026-05-19
 sources:
-  - raw/papers/hofmann-a-lsd-my-problem-child.md
-  - raw/papers/mckenna_t-food_of_the-gods.md
-  - raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
-  - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+  - "raw/papers/hofmann-a-lsd-my-problem-child.md"
+  - "raw/papers/mckenna_t-food_of_the-gods.md"
+  - "raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md"
+  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 related_concepts:
   - ergot-and-lysergic-acid-history
   - ergot-fungi-and-ergotism-claviceps-purpurea

@@ -20,6 +20,7 @@ sources:
   - https://earthship.com/
   - The Natural Plaster Book, Cedar Rose Guelberth & Dan Chiras (New Society Publishers, 2003)
 type: query---
+---
 
 ## What is the Best Natural Plaster for Earthship or Cob Walls?
 

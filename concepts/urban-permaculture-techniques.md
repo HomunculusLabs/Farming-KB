@@ -1,4 +1,5 @@
 ---
+title: Urban Permaculture Techniques
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -10,7 +11,7 @@ tags:
   - community-gardens
   - intensive-gardening
 sources:
-  - raw/papers/gaias-garden-toby-hemenway.md
+  - "raw/papers/gaias-garden-toby-hemenway.md"
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 ---
 

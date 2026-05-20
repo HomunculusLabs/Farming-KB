@@ -1,4 +1,5 @@
 ---
+title: The European Smartshop Market for Hallucinogenic Mushrooms
 source: carolina-mushrooms_08qxp.md
 tags: [emcdda, europe, hallucinogenic-mushrooms, regulation, smartshops, market]
 ---

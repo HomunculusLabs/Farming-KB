@@ -5,6 +5,7 @@ updated: 2026-04-12
 type: entity
 tags: [mycology, patents, intellectual-property, mycoremediation, pest-control]
 sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - raw/papers/mycelium-running-stamets.md
 ---
 
@@ -147,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 ## Challenges and Solutions
 
 Common challenges include environmental variability, resource
-constraints, and knowledge gaps. Diversified approaches and

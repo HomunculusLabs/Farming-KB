@@ -1,4 +1,5 @@
 ---
+title: Wash and Pack Infrastructure a chicken-of-the-woods he farm'coleman-winter-harvest-washing-and-packing ng area,
 source: eliot-coleman-winter-harvest-handbook.md
 source_type: paper
 topics: [wash-pack, post-harvest, four-season-farm,

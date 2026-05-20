@@ -5,6 +5,8 @@ tags:
   - entheogen
   - mckenna-collective-gnosis-epigenetic-evolution-symbolic-storage lay behind the faith of earlier
 centuries in "universal truths" and common human values.
+type: concept
+---
 
 Shamanism is the practice of the Upper Paleolithic tradition of healing,
 divination, and cultural management. For perhaps one hundred thousand

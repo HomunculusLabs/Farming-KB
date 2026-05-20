@@ -147,4 +147,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[fukuoka-five-grains-food-mandala]]
 - [[fukuoka-philosophy-of-non-intervention]]
 - [[fukuoka-rice-dry-field-cultivation]]
-- [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]

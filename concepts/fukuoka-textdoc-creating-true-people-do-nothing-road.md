@@ -10,6 +10,8 @@ farming, Fukuoka detects a profound sense of futility. It is something
 like scooping up duckweed floating on the surface of a pond and watching
 it slip through one's fingers. Between the producer and consumer, both
 concerned with the same problems, lies an endless parade of
+type: concept
+---
 
 ## Practical Applications
 

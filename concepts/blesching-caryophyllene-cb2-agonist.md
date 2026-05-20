@@ -5,7 +5,7 @@ tags: [caryophyllene, cb2-receptor, terpene, anti-inflammatory, cannabis]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/uwe-blesching-the-cannabis-health-index.md
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 type: concept
 ---# Beta-Caryophyllene as a Dietary CB2 Agonist
 

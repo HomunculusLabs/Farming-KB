@@ -5,8 +5,8 @@ tags: [mycology, mushroom-cultivation, stamets, life-cycle, basidiomycete]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/mycelium-running-stamets.md"
 type: concept
 ---
 ## Mushroom Life Cycle — The Mushroom Cultivator The mushroom life cycle, as presented by Paul Stamets in The Mushroom Cultivator (1983), is the foundation upon which all cultivation techniques rest. Understanding this cycle is prerequisite to mastering sterile technique, [[mushroom-cultivator-grain-spawn-production]] must be

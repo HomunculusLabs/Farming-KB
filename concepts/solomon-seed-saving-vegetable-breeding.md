@@ -2,7 +2,7 @@
 title: comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques and Vegetable Breeding
 updated: 2026-04-24
 sources:
-  - raw/papers/gardening-when-it-counts-steve-solomon.md
+  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 type: concept
 tags: [soil-management, organic-gardening, compost, nutrients]
 created: 2026-04-24

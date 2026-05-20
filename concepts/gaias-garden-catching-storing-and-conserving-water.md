@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-24
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
+  - "raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"
 type: concept
 tags: [gardening, water]
 ---

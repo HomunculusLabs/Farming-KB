@@ -11,9 +11,10 @@ sources:
   - "ATTRA / NCAT, Garlic: Organic Production (ncat.org/attra-pub/summaries/summary.php?pub=111)"
   - "Ira Wallace, The Timber Press Guide to  in the Southeast (Timber Press, 2013)"
 type: comparison---
+
 ---# Hardneck Garlic vs Softneck Garlic
 
-All garlic falls into two broad categories: **hardneck** (*[[organic-pest-and-disease-management]]
+All [[comparison-garlic-vs-onion-growing]] falls into two broad categories: **[[query-what-is-the-difference-between-hardneck-and-softneck-garlic]]** (*[[organic-pest-and-disease-management]]
 
 ## See Also
 

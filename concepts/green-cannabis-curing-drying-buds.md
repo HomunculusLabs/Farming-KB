@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/greg-green-the-cannabis-grow-bible.md
+  - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 type: concept
 ---# Curing and [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible" describes curing as essential for producing a finer
 product, with the "canning" method being the most common and effective

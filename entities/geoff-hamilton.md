@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: entity
 tags: [person, regenerative, gardening]
 sources:
-  - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+  - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
   - raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 ---
 

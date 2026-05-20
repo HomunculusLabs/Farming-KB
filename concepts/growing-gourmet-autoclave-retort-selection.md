@@ -5,7 +5,7 @@ tags: [sterilization, mushroom-cultivation, equipment, autoclave, spawn-producti
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 type: concept
 --- Autoclave and Retort Selection for [[bacteria-and-microorganisms-in-mushroom-fruiting]] cultivation. Home-style
 pressure cookers are ideal for sterilizing [[allegro-names-of-the-gods-and-their-fertility-origins]] pressure ratings have been

@@ -10,6 +10,7 @@ tags:
   - plant-immune-system-pti-eti in the family Verbenaceae. It has a long history of
 use in European traditional medicine, Egyptian ritual, and Roman religious
 ceremony, where it was called *herba sacra* (sacred herb).
+---
 
 The aerial parts contain iridoid glycosides (verbenalin), flavonoids, and
 triterpenoids with documented anti-[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]:** Angiospermae (Magnoliophyta)

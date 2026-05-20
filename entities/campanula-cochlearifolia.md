@@ -1,4 +1,5 @@
 ---
+title: Campanula cochlearifolia
 name: Campanula cochlearifolia
 type: entity
 category: species
@@ -147,4 +148,3 @@ current understanding and implementation strategies.
 - [[campanula-thyrsoidea]]
 - [[campanula-americana]]
 - [[campanula-unguicularis]]
-- [[campanula-versicolor]]

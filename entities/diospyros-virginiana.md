@@ -31,12 +31,13 @@ sources:
   - Fulbright TP (2004). "Persimmon (Diospyros virginiana) Ecology and
     Management." USDA Forest Service General Technical Report.
   - USDA NRCS Plant Profile. https://plants.usda.gov/home/plantProfile?symbol=DIVI5
+---
 
 ## Overview
 
 Diospyros virginiana, the American persimmon, is a deciduous tree native
 to the eastern [[dighton-fungal-drought-tolerance-plant-water-relations]], minimal pest pressure, wildlife
-attractant properties, and high-quality timber. Native Americans utilized
+attractant properties, and high-quality timber. [[native-american-church]] s utilized
 the fruit extensively, and the species remains culturally significant
 across its range.
 
@@ -44,7 +45,7 @@ across its range.
 
 Diospyros virginiana was described by Carl Linnaeus in 1753. The genus
 Diospyros contains approximately 500–700 species worldwide, including the
-commercially important Asian persimmon (D. kaki) and the ebony species
+[[commercially-important-pleurotus-species-cultivation-guide]] Asian persimmon (D. kaki) and the ebony species
 (D. ebenum) prized for timber.
 
 American persimmon is a medium-sized tree, typically 15–25 meters tall
@@ -67,11 +68,11 @@ diameter, orange to yellow-orange when ripe, containing 1–8 seeds.
 D. virginiana is native to the eastern and central [[dmt-maoi-plants-united-states]], ranging
 from Connecticut west to eastern Kansas, south to Texas and central
 Florida. It is most abundant in the lower Mississippi Valley and
-Appalachian regions.
+[[bolete-fungi-appalachian-region]] s.
 
 The species grows in a wide range of habitats, from bottomland hardwood
-forests and river floodplains to upland ridges and disturbed sites. It is
-extremely adaptable to soil conditions, tolerating clay, sandy, and rocky
+[[food-forests-and-the-seven-story-garden]] river floodplains to upland ridges and disturbed sites. It is
+extremely adaptable to [[ingham-pleomorphism-microbial-form-shifting-soil-conditions]], tolerating clay, sandy, and rocky
 substrates with pH 4.5–7.5.
 
 [[dighton-mycorrhizal-drought-tolerance-plant-water-relations]] is exceptional once established, and the species is

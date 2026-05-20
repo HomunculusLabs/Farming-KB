@@ -1,4 +1,5 @@
 ---
+title: Tryptamine Hallucinogen Classification: Four Major Groups of Plants
 source: Food of the Gods (McKenna, 1992)
 source_path: raw/papers/mckenna_t-food_of_the_gods.md
 type: concept

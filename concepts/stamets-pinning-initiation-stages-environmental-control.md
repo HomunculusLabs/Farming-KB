@@ -1,5 +1,8 @@
 ---
-
+title: Pinning Initiation Stages and Environmental Control
+tags: []
+type: concept
+---
 ## Pinning Initiation Stages and Environmental Control
 
 ## Overview

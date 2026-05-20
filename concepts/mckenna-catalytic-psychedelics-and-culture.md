@@ -3,7 +3,7 @@ title: McKenna on mckenna catalytic psychedelics and culture and Culture
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/mckenna_t-food_of_the-gods.md
+  - "raw/papers/mckenna_t-food_of_the-gods.md"
 type: concept
 tags: [culture, psychedelics]
 ---

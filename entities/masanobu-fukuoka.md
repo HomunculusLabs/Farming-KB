@@ -19,6 +19,7 @@ tags:
 - species
 
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 - raw/papers/one-straw-revolution-masanobu-fukuoka.md
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 - raw/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
@@ -147,4 +148,3 @@ Monitoring integration outcomes supports adaptive management.
 Common challenges include environmental variability, resource
 constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
-Knowledge sharing among practitioners accelerates solutions.

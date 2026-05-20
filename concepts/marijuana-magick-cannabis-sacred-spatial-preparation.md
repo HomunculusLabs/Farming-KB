@@ -3,7 +3,7 @@ title: Cannabis Sacred Spatial Preparation
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/a-practitioners-guide-marijuana-magick.md
+  - "raw/papers/a-practitioners-guide-marijuana-magick.md"
 type: concept
 tags: [cannabis, religion]
 ---

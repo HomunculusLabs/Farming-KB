@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [knf, microbes, fermentation, soil]
 sources:
-  - raw/papers/master-cho-knf-recipe-book.md
+  - "raw/papers/master-cho-knf-recipe-book.md"
   - raw/papers/chos-global-natural-farming.md
 ---
 

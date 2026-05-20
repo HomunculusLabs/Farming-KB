@@ -5,7 +5,7 @@ tags: [mycology, psilocybe, species-guide, pacific-northwest]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/the-mushroom-cultivator-stamets.md
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 ## Psilocybe stuntzii -- Blue Ringers Guide

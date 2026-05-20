@@ -6,7 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-  - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 type: concept
 ---# Soil Drench and Dilution Rates for Compost Tea
 

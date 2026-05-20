@@ -5,12 +5,12 @@ updated: 2026-04-12
 type: entity
 tags: [person, mycology, academia]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
-  - raw/papers/mycelium-running-stamets.md
-  - raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
-  - raw/papers/cancer-treatments-medicinal-mushrooms.md
-  - raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
-  - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  - "raw/papers/mycelium-running-stamets.md"
+  - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
+  - "raw/papers/cancer-treatments-medicinal-mushrooms.md"
+  - "raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md"
+  - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
   - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 ---
 

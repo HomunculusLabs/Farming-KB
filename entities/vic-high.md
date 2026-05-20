@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: entity
 tags: [person, cannabis, cultivation, genetics]
 sources:
-  - raw/papers/vic-high-creating-true-breeding-strains.md
+  - "raw/papers/vic-high-creating-true-breeding-strains.md"
   - raw/papers/greg-green-the-cannabis-grow-bible.md
 ---
 

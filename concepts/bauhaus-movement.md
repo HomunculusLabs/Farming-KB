@@ -3,7 +3,7 @@ title: Bauhaus Movement
 created: 2026-04-28
 updated: 2026-05-06
 sources:
-  - "raw/papers/permaculture|permaculture-a-designers-manual-bill-mollison.md"
+  - "raw/papers/permaculture"
 tags: []
 type: concept
 ---

@@ -1,4 +1,5 @@
 ---
+title: Wood Chips in Compost for Fungal Domination
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 source_type: paper
 topics: [compost, fungal-dominance, wood-chips, woody-materials,

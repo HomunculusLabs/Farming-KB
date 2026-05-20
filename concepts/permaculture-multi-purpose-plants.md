@@ -1,4 +1,5 @@
 ---
+title: Permaculture Multi-Purpose Plants
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -11,7 +12,7 @@ tags:
   - moringa
   - polyculture
 sources:
-  - raw/papers/gaias-garden-toby-hemenway.md
+  - "raw/papers/gaias-garden-toby-hemenway.md"
   - raw/papers/a-selection-permaculture-plants.md
 ---
 

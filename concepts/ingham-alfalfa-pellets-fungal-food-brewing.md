@@ -1,4 +1,5 @@
 ---
+title: Alfalfa Pellets as Fungal Food in AACT Brewing
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 source_type: paper
 topics: [aact, brewing, fungal-food, alfalfa, molasses, nutrients,

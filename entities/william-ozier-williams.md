@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: entity
 tags: [person, regenerative, permaculture, design, principles]
 sources:
-  - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
+  - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
   - raw/papers/bill-mollison-permaculture-design-course.md
 ---
 

@@ -3,7 +3,7 @@ title: bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-pe
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
+  - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
 type: concept
 tags: [design]
 ---

@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/unknown-biodiversity-of-fungi.md
+  - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
 ---# [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], with very broad host and geographic range
 - **Phialocephala dimorphospora** and **P. finlandia**: closely

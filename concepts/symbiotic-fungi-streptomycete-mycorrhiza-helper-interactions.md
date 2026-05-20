@@ -5,7 +5,7 @@ tags: [mycorrhiza, helper-bacteria, streptomyces, symbiosis, soil-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/symbiotic-fungi.md
+  - "raw/papers/symbiotic-fungi.md"
 type: concept
 ---# Streptomycete Mycorrhiza Helper Bacteria Interactions
 

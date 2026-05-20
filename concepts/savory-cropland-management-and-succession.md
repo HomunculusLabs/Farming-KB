@@ -6,7 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - raw/papers/savory-holistic-resource-management.md
+  - "raw/papers/savory-holistic-resource-management.md"
 type: concept
 ---# Cropland Management and Succession
 

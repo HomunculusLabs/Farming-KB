@@ -5,7 +5,7 @@ created: 2026-04-26
 updated: 2026-04-24
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - raw/papers/a-selection-permaculture-plants.md
+  - "raw/papers/a-selection-permaculture-plants.md"
 type: concept
 tags: [culture, fruit-tree, permaculture, plants, tree-crop]
 ---

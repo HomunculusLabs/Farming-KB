@@ -5,8 +5,8 @@ tags: [ketamine, pharmacology, dissociative, nmda-antagonist, antidepressant, ps
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
-  - raw/papers/the-essential-psychedelics-guide-by-dm-turner.md
+  - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
+  - "raw/papers/the-essential-psychedelics-guide-by-dm-turner.md"
 related_concepts:
   - ketamine-compound-profile
   - ketamine-dissociative-pharmacology

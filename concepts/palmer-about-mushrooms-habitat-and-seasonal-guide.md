@@ -3,7 +3,7 @@ title: Palmer About Mushrooms Habitat And Seasonal Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/julius-auboineau-palmer-about-mushrooms.md
+  - "raw/papers/julius-auboineau-palmer-about-mushrooms.md"
 type: concept
 tags: [habitat, mycelium. A heavy dew or evening shower straightens the stem and expands the cap, breaking the earth during the night -- so the gatherer finds white buttons in the morning where nothing was visible the day before.
 ---

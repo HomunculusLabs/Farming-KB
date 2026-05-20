@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [cannabis, processing, lab-technique, methods]
 sources:
-  - raw/papers/ben-lemon-cannabis-alchemy.md
+  - "raw/papers/ben-lemon-cannabis-alchemy.md"
   - raw/papers/Uwe Blesching-the-cannabis-health-index.md
 ---
 

@@ -5,9 +5,9 @@ updated: 2026-04-12
 type: entity
 tags: [person, mycology, lab-technique, psychopharmacology, academia]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
-  - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
-  - raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
+  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
   - raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 ---
 

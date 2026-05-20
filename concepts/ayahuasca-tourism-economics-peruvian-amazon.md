@@ -17,7 +17,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - raw/papers/stuart-r-ayahuasca-tourism.md
+  - "raw/papers/stuart-r-ayahuasca-tourism.md"
 type: concept
 ---
 

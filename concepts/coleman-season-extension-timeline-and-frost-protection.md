@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/eliot-coleman-winter-harvest-handbook.md
+  - "raw/papers/eliot-coleman-winter-harvest-handbook.md"
 type: concept
 ---# Season Extension Timeline and Frost Protection
 

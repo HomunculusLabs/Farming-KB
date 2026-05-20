@@ -57,7 +57,7 @@ commercial cultivation began in the 1970s.
 Many older references use the genus *Spirulina*, but commercially cultivated
 species are now classified under *Arthrospira* based on helical trichome
 morphology and ultrastructural differences. *A. platensis* and *A. maxima*
-are the two primary species in commercial production.
+are the two primary [[palm-species-in-permaculture]] ies-in-permaculture commercial production.
 
 ## Morphology
 

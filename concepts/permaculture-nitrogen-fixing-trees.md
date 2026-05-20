@@ -1,4 +1,5 @@
 ---
+title: Permaculture Nitrogen-Fixing Trees
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -11,7 +12,7 @@ tags:
   - legumes
   - multi-purpose-trees
 sources:
-  - raw/papers/a-selection-permaculture-plants.md
+  - "raw/papers/a-selection-permaculture-plants.md"
   - raw/papers/gaias-garden-toby-hemenway.md
 ---
 

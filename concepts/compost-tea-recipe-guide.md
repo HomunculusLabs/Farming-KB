@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [soil, compost, tea, biology, application, microbes]
 sources:
-  - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
   - raw/papers/lowenfels-teaming-with-microbes.md
 ---
 

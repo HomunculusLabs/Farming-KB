@@ -10,9 +10,9 @@ tags: [organization, sustainability, circular-economy, fungi, blue-economy, zero
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - raw/concepts/fungal-roles-in-mass-extinction-recovery.md
-  - raw/concepts/fungi-sustainable-packaging-and-materials.md
-  - raw/concepts/oyster-mushroom-spent-substrate-recycling.md
+  - "raw/concepts/fungal-roles-in-mass-extinction-recovery.md"
+  - "raw/concepts/fungi-sustainable-packaging-and-materials.md"
+  - "raw/concepts/oyster-mushroom-spent-substrate-recycling.md"
   - https://en.wikipedia.org/wiki/Zero_Emissions_Research_and_Initiatives
 ---
 

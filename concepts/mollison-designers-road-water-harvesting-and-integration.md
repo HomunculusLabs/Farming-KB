@@ -147,4 +147,3 @@ Knowledge sharing among practitioners accelerates solutions.
 - [[mollison-designers-conifer-forestry-and-timber]]
 - [[mollison-designers-wickiup-and-quick-shelter-construction]]
 - [[mollison-orographic-and-forest-rainfall-effects]]
-- [[mollison-permaculture-design-course-curriculum]]

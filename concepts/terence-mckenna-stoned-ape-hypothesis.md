@@ -11,7 +11,7 @@ tags:
   - theory
   - hominid
 sources:
-  - raw/papers/mckenna_t-food_of_the_gods.md
+  - "raw/papers/mckenna_t-food_of_the_gods.md"
   - raw/particles/mckenna_t-tryptamines_consciousness.md
 ---
 

@@ -12,8 +12,8 @@ tags:
   - fly-agaric
   - shamanism
 sources:
-  - raw/papers/amanita-muscaria-herb-of-immortality.md
-  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
+  - "raw/papers/amanita-muscaria-herb-of-immortality.md"
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
   - raw/papers/mckenna_t-food_of_the_gods.md
 ---
 

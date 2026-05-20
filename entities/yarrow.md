@@ -12,6 +12,7 @@ Native to [[luteolin]]  | Flavonoid      | Anti-inflammatory, antiox. |
 | Tannins             | Polyphenol     | Astringent, wound healing  |
 | Cineole             | Monoterpene    | Expectorant, antimicrobial |
 | [[dynamic-accumulators]]
+---
 ## Practical Applications
 
 Yarrow has a range of practical applications that make it relevant to
@@ -147,4 +148,3 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also

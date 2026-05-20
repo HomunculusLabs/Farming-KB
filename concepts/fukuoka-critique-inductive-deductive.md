@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 ## Critique of the Inductive and Deductive Methods
 From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 1 of "The Theory

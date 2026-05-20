@@ -5,6 +5,7 @@ tags: [farming, permaculture, agriculture, philosophy]
 date: 2026-05-11
 updated: 2026-05-11
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"
 type: concept
 ---

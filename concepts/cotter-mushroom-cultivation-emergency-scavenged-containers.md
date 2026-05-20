@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/cotter-organic-mushroom-farming-mycoremediation.md
+  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
 type: concept
 ---# Emergency and Scavenged Container Use for Mushroom Cultivation
 

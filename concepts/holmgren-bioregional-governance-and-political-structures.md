@@ -7,6 +7,8 @@ tags:
   - holmgren-community-design-and-intentional-communities,
 [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
+type: concept
+---
 
 ## Key Considerations
 

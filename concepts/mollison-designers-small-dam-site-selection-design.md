@@ -15,6 +15,8 @@ small dams provide irrigation, stock water, fire protection, [[biochar-and-fungi
   moist soil into a ribbon; longer ribbons indicate higher clay content)
   and the pond test (filling a small hole with water and observing the
   seepage rate).
+type: concept
+---
 
 - **Seepage problems:** Sandy, gravelly, or fractured rock sites may
   require clay lining, bentonite treatment, or geomembrane liners to
@@ -146,5 +148,3 @@ Successful integration of mollison designers small dam site selection design int
 systems requires careful planning and observation.
 Design for multiple functions increases overall efficiency.
 Monitoring integration outcomes supports adaptive management.
-
-## Challenges and Solutions

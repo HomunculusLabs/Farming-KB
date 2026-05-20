@@ -1,4 +1,5 @@
 ---
+title: Fukuoka's Natural Rice and Barley Cultivation
 
 ## Fukuoka's Natural Rice and Barley Cultivation
 

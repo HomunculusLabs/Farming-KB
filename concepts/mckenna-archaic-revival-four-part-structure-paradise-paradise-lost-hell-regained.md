@@ -1,4 +1,5 @@
 ---
+title: The Four-Part Structure in Detail
 | Social organization | Egalitarian, matrifocal | Hierarchical, patriarchal |
 | Relationship to nature | Symbiotic, reverent | Extractive, exploitative |
 | Religion | Immanent, experiential | Transcendent, dogmatic |

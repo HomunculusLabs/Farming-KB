@@ -9,6 +9,7 @@ tags:
   - nutrient-dynamic-accumulator-reference, and
 long-lived perennial vegetable requiring minimal maintenance
 once established.
+---
 
 ## Taxonomy
 

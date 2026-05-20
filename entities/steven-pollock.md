@@ -5,8 +5,8 @@ updated: 2026-04-12
 type: entity
 tags: [person, mycology, psychopharmacology, academia]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
-  - raw/papers/magic-mushrooms-around-the-world-gartz.md
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-garten.md
 ---
 

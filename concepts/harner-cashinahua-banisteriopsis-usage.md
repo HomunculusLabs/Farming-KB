@@ -9,6 +9,8 @@ Jura-Purus Culture Area. Their use of Banisteriopsis, called nixi pae
 ("the vine drunkenness") or ayahuasca, represents one of the most
 thoroughly documented examples of communal hallucinogen use in Amazonian
 societies.
+type: concept
+---
 
 ## Botanical and Chemical Basis
 

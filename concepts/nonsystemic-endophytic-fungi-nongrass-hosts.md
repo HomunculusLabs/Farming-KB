@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/unknown-biodiversity-of-fungi.md
+  - "raw/papers/unknown-biodiversity-of-fungi.md"
 type: concept
 ---# Nonsystemic Endophytic Fungi of Nongrass Hosts
 Nonsystemic endophytic fungi colonize plant tissues internally

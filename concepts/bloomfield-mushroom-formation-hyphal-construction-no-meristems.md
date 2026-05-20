@@ -1,4 +1,5 @@
 ---
+title: Mushroom Formation Without Meristems: Hyphal Construction and Inflation
 source: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 extracted: 2026-05-09
 type: concept

@@ -5,7 +5,7 @@ tags: [signal-processing, mathematics, data-analysis, compression, time-frequenc
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - raw/concepts/wavelet-transform.md
+  - "raw/concepts/wavelet-transform.md"
 related_concepts:
   - wavelet-transform
   - kalman-filter

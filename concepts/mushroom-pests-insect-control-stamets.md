@@ -5,6 +5,7 @@ tags: [mycology, mushroom-cultivation, pests, integrated-pest-management, stamet
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 type: concept
 ---

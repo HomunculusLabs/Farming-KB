@@ -33,13 +33,13 @@ Cornelian cherry has been cultivated since antiquity — references
 appear in Homer's Iliad and Roman agricultural texts. The fruit is
 exceptionally high in vitamin C, anthocyanins, and iridoid glycosides,
 with growing interest in its nutraceutical potential. It is widely
-regarded as one of the most valuable multi-purpose plants for
+regarded as one of the most valuable multi-[[permaculture-multi-purpose-plants]] for
 temperate [[food-forest-layers-and-species]]
 
 - [[permaculture-dogwood-cornus-capitata]]
 ## Practical Considerations
 
-When working with Cornus mas, several practical factors should be
+When [[working-with-agar-guide]] Cornus mas, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -56,7 +56,7 @@ protocols regardless of circumstances or local variation.
 [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
+that implementations remain viable and productive over the [[mushroom-long-term-storage]].
 
 ## Common Challenges and Solutions
 
@@ -69,16 +69,16 @@ these challenges enables more proactive and effective management.
 Building resilience into implementations through diversity, redundancy,
 and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
-inherent in working with natural systems and plans accordingly rather
+inherent in working [[building-with-natural-materials]] systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
+complexity of day-to-day [[pasture-management-and-forage]] observation activities.
 
 ## Future Directions
 
-Ongoing developments in research and practice continue to expand our
+Ongoing developments in research [[microdosing-theory-and-practice]] continue to expand our
 understanding and improve available approaches. New techniques, tools,

@@ -6,8 +6,7 @@ type: entity
 tags: [psilocybe, psychoactive, australian-fungi, lignicolous, section-cyanescens]
 sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
-  - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
+  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
   - raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md
 ---
 

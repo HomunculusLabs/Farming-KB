@@ -10,6 +10,7 @@ tags:
   - query-what-are-the-main-bioactive-compounds-in-medicinal-plants Foods. Wiley-Blackwell, 89-115.
   - Singh, R. et al. (2013). "Mangifera indica: uncommon-specialty-fruit-crops-for-permaculture crops for permaculture globally, with annual production exceeding 55 million
 tonnes. India alone accounts for approximately 45% of world production.
+---
 
 Beyond its economic importance as a fruit, virtually every part of the mango
 tree — bark, leaves, fruit, seed, and kernel — has documented medicinal use

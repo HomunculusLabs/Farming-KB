@@ -6,7 +6,7 @@ tags: [ethnobotany, mexico, rhynchosia, leguminosae, aztec, seeds,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
+  - "raw/papers/cho-han-kyu-korean-natural-farming-handbook.md"
 type: concept
 ---
 

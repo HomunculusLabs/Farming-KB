@@ -10,8 +10,8 @@ tags:
   - mycology
   - ethnobotany
 sources:
-  - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
-  - raw/particles/hofmann-a-lsd-my-problem-child.md
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
+  - "raw/particles/hofmann-a-lsd-my-problem-child.md"
   - raw/papers/mckenna_t-food_of_the_gods.md
 ---
 

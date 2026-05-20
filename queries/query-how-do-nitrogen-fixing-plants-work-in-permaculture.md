@@ -23,7 +23,7 @@ These bacteria trigger the formation of nodules on the roots, which serve as tin
 Inside each nodule, the bacteria use an enzyme called nitrogenase to split atmospheric nitrogen gas (N2) into ammonium (NH4+).
 This is remarkable because most plants cannot access atmospheric nitrogen directly.
 The [[legume-nitrogen-dynamics]] provides detailed data on how much nitrogen different legume species actually fix.
-Not all nitrogen is equal, and the timing of release matters significantly for [[permaculture-plants-nitrogen-fixing-trees]] resource provides a comprehensive species list for various climates.
+Not all nitrogen is equal, and the timing of release matters significantly for [[permaculture-nitrogen-fixing-trees]] resource provides a comprehensive species list for various climates.
 Shrubby nitrogen fixers can serve dual purposes as windbreaks, wildlife habitat, and sources of biomass for mulch.
 When designing a food forest, nitrogen fixers should be distributed throughout each planting zone.
 Strategic placement ensures that nitrogen is being fixed in close proximity to heavy-feeding fruit trees and berry bushes.

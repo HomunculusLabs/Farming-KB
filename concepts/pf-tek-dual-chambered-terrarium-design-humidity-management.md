@@ -1,4 +1,5 @@
 ---
+title: PF TEK Dual Chambered Terrarium Design and Humidity Management
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [pf-tek, mushroom-cultivation, psilocybe-cubensis]
 ---

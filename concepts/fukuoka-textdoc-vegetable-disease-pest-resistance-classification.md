@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+  - "raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"
 type: concept
 ---
 
@@ -147,4 +147,3 @@ constraints, and knowledge gaps. Diversified approaches and
 proactive planning mitigate potential problems effectively.
 Knowledge sharing among practitioners accelerates solutions.
 
-## See Also

@@ -3,7 +3,7 @@ title: urban guerilla food growing
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/urban-permaculture-guerilla-gardening.md
+  - "raw/papers/urban-permaculture-guerilla-gardening.md"
 type: concept
 tags: [reference]
 --- Urban Guerilla Food Growing

@@ -3,7 +3,7 @@ title: Ayahuasca Tourism Shamanic Tourism Economics
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/stuart-r-ayahuasca-tourism.md
+  - "raw/papers/stuart-r-ayahuasca-tourism.md"
 type: concept
 tags: [ayahuasca, shamanism]
 ---

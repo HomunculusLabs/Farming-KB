@@ -6,11 +6,10 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - raw/papers/eliot-coleman-winter-harvest-handbook.md
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
-  - raw/papers/bill-mollison-permaculture-design-course.md
-  - raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md
-  - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
+  - "raw/papers/eliot-coleman-winter-harvest-handbook.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
+  - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
 related_concepts:
   - community-supported-agriculture-csa
   - csa-farm-share-model

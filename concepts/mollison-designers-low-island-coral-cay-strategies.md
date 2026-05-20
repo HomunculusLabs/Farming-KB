@@ -1,4 +1,5 @@
 ---
+title: Low Island and Coral Cay Strategies in Permaculture Design
 source: bill-mollison-permaculture-a-designers-manual.md
 source_path: ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 chapter: 10

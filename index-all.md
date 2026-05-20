@@ -15846,7 +15846,7 @@
 - [[permaculture-plants-insectary-bee-forage]]
 - [[permaculture-plants-legume-trees-acacia-carob-locust]]
 - [[permaculture-plants-medicinal-herbs-healing]]
-- [[permaculture-plants-nitrogen-fixing-trees]]
+- [[permaculture-nitrogen-fixing-trees]]
 - [[permaculture-plants-nitrogen-fixing-trees-shrubs]]
 - [[permaculture-plants-pioneer-nurse-trees]]
 - [[permaculture-plants-root-crops-and-tubers]]

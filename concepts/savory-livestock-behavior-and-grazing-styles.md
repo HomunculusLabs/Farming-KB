@@ -5,7 +5,7 @@ tags: [livestock-behavior, grazing-styles, diet-selection, animal-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/savory-holistic-resource-management.md
+  - "raw/papers/savory-holistic-resource-management.md"
 type: concept
 ---# Livestock Behavior and Grazing Styles
 

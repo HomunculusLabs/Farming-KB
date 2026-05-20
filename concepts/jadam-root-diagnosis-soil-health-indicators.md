@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
+  - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 type: concept
 ---# JADAM Root Diagnosis and [[beneficial-indigenous-microorganisms-bim]]"
 (IMO). These are already adapted to local conditions. Bringing them home,

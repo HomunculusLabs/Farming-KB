@@ -1,20 +1,8 @@
----
-title: Mushroom mushroom substrate sterilization and pasteurization and Pasteurization
-created: 2026-04-28
-tags:
-  - mycology
-  - sterilization
-  - substrate
-  - mushroom-spore-syringe-preparation must also be sterilized. Syringes, needles, and water for spore
-suspension are wrapped in tin foil and pressure cooked at 15 psi for 20
-minutes. Glass jars used for collecting spore prints are sterilized in an oven
-at half maximum heat for 30 minutes. These parallel sterilization processes
-ensure that contamination is not introduced during inoculation.
 
 ## Common Issues
 
-Inadequate sterilization is one of the most common causes of failure in home
-mushroom cultivation. Signs of insufficient sterilization include unexpected
+Inadequate [[sterilization]] is one of the most common causes of failure in home
+[[mushroom-cultivation]]. Signs of insufficient sterilization include unexpected
 colours (green, blue, black, or pink) appearing in the substrate, foul odours,
 and stalled [[pasteurization-techniques]]
 
@@ -76,7 +64,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish mushroom substrate sterilization and pasteurization
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -90,7 +78,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Mushroom Substrate Sterilization And Pasteurization finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 
@@ -146,4 +134,3 @@ Knowledge sharing among practitioners accelerates solutions.
 ## See Also
 
 - [[classic-mushroom-recipes-traditional-preparations]]
-- [[emcdda-european-mushroom-varieties-and-market-products]]

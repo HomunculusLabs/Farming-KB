@@ -6,6 +6,7 @@ type: concept
 tags: [agriculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 ## Krameterhof - Sepp Holzer's Model Farm

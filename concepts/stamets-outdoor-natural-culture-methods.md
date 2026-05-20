@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [mushroom-cultivation, species-guide, outdoor-beds]
 sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---

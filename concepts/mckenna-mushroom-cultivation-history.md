@@ -3,7 +3,7 @@ title: McKenna on accessible-mushroom-cultivation-for-disabilities History
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - raw/papers/mckenna_t-food_of_the-gods.md
+  - "raw/papers/mckenna_t-food_of_the-gods.md"
 type: concept
 tags: [cultivation, history, mushroom-cultivation]
 ---

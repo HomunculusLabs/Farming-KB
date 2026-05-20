@@ -1,4 +1,5 @@
 ---
+title: Gentiana clusii
 name: Gentiana clusii
 type: entity
 category: species

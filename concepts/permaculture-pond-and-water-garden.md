@@ -1,4 +1,5 @@
 ---
+title: Permaculture Pond and Water Garden
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -147,4 +148,3 @@ To support wildlife:
 - [[vines-in-desert-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
 - [[permaculture-principle-use-and-value-renewable-resources]]
-- [[permaculture-ethics-of-permanence]]

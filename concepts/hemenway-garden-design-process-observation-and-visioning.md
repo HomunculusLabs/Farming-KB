@@ -6,7 +6,6 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
-  - raw/papers/gaias-garden-toby-hemenway.md
 type: concept
 ---# Garden Design Process: Observation and Visioning
 
@@ -118,3 +117,4 @@ This overview of hemenway garden design process observation visioni covers the e
 Ongoing developments continue to expand practical applications and theoretical understanding.
 
 These interconnections demonstrate the importance of integrated approaches to understanding and applying this knowledge.
+Understanding these principles enables more effective and sustainable cultivation practices.

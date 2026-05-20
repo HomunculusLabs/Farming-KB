@@ -19,6 +19,7 @@ sources:
   - Schultes, R.E. & Hofmann, A. (1980). Plants of the Gods. Healing Arts Press.
   - Torres, C.M. & Repke, D.B. (2006). Anadenanthera. Cactus Conservation Institute.
   - Anderson, E.F. (2001). The Cactus Family. Timber Press.
+---
 
 ## Echinopsis bridgesii (Bolivian Torch)
 

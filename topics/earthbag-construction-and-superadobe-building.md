@@ -5,9 +5,9 @@ tags: [natural-building, earthbag, superadobe, permaculture, sustainable-housing
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - raw/concepts/earthbag-construction.md
-  - raw/concepts/earthbag-building.md
-  - raw/concepts/natfarm-earthbag-construction-method.md
+  - "raw/concepts/earthbag-construction.md"
+  - "raw/concepts/earthbag-building.md"
+  - "raw/concepts/natfarm-earthbag-construction-method.md"
 related_concepts:
   - cob-building
   - straw-bale-construction

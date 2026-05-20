@@ -61,7 +61,7 @@ reflects:
 
 - The predominance of expert opinion and clinical tradition over randomized
   controlled trial evidence in routine medical practice
-- The limited external validity of many clinical trials, which enroll
+- The limited external validity of many [[psp-phase-clinical-trials]]-cancer-clinical-trials inical-trials, which enroll
   highly selected populations that may not represent real-world patients
 - The lag between emerging evidence and incorporation into clinical
   guidelines
@@ -76,11 +76,11 @@ to evidence gaps in medicine. Key features of the Cochrane approach include:
   given intervention
 - Thousands of health care practitioners and researchers from more than
   120 nations contributing to evidence synthesis
-- Explicit methodology for evaluating study quality and risk of bias
+- Explicit methodology for evaluating study [[seed-quality-and-selection]] risk of bias
 - Regular updates as new evidence becomes available
 
 The Cochrane definition of evidence-based medicine that Blesching cites is:
-"the conscientious, explicit, and judicious use of current best evidence in
+"the conscientious, explicit, and judicious [[shamanic-use-of-psychedelics]] current best evidence in
 making decisions about the care of individual patients."
 
 ## Implications for Cannabis Research
@@ -89,7 +89,7 @@ The Vioxx case study has direct relevance to the cannabis therapeutics debate:
 
 1. **Evidence standards should apply equally**: The demand for rigorous
    evidence for cannabis should be matched by equally rigorous standards for
-   pharmaceutical alternatives. Many conventional pharmaceuticals in common
+   pharmaceutical alternatives. Many conventional pharmaceuticals [[phytocannabinoids-in-common-spices]]
    use have limited evidence bases and known safety concerns.
 
 2. **Off-label prescribing precedes evidence**: The rapid off-label expansion

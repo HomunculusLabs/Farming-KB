@@ -6,6 +6,7 @@ type: concept
 tags: [regenerative, plant-systems]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## Citrus Orchard Establishment from Bare Hillside

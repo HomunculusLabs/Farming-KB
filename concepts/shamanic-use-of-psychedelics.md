@@ -12,8 +12,8 @@ tags:
   - cross-cultural
   - ceremony
 sources:
-  - raw/particles/harner-j-hallucinogens-and-shamanism.md
-  - raw/papers/mckenna_t-food_of_the_gods.md
+  - "raw/particles/harner-j-hallucinogens-and-shamanism.md"
+  - "raw/papers/mckenna_t-food_of_the_gods.md"
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 

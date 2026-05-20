@@ -1,4 +1,5 @@
 ---
+title: Gothic Arc coleman-four-season-farm Farm relies on
 source: eliot-coleman-winter-harvest-handbook.md
 source_type: paper
 topics: [greenhouse-design, gothic-arch, four-season-farm, high-tunnel, winter-harvest, protected-cultivation]

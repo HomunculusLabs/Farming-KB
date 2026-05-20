@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [species-profiles, species-identification, mycology, psilocybin, mesoamerica, mazatec, entheogen, wasson]
 sources:
-  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md
 ---
 

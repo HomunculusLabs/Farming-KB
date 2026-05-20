@@ -11,7 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
-  - raw/papers/holzer-desert-or-paradise.md
+  - "raw/papers/holzer-desert-or-paradise.md"
 type: concept
 ---# Holzer Urban Gardening and the Rubbish permaculture offers solutions for growing food even in the most
 challenging [[holzer-crater-gardens-hugelkultur]] with one key difference: the core is filled
