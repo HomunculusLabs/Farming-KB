@@ -140,6 +140,6 @@ Balanced green manure mixes combine nitrogen fixers with biomass builders:
 ## Related Topics
 
 - [[cover-cropping-guide]] for comprehensive cover crop families and regional guidance
-- [[biochar-in-agriculture|biochar]]] for soil amendment pairing with green manures
+- [[biochar-in-agriculture|biochar]] for soil amendment pairing with green manures
 - [[crop-rotation-principles]] for fitting green manures into rotations
 - [[companion-planting-reference]] for intercropping with cash crops

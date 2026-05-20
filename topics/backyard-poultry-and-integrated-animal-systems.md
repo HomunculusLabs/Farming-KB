@@ -52,7 +52,6 @@ The permaculture principle of "integrating rather than segregating" finds its mo
 This article covers the design and management of integrated animal systems on the homestead scale, extending from chickens as the cornerstone species to ducks, geese, rabbits, quail, and pigeons.
 
 ## The Permaculture Principle of Animal Integration
-## The Permaculture Principle of Animal Integration
 
 The industrial model isolates livestock in massive facilities, feeds them grain from distant fields, and treats manure as waste. The homestead model inverts this entirely — animals live where their services are needed.
 Manure becomes fertilizer. Foraging replaces pesticides and herbicides. Each animal element serves multiple functions simultaneously, reducing external inputs while producing food and fertility.
@@ -61,7 +60,6 @@ Cycling wastes through animals captures more stored energy than direct compostin
 A duck is a slug-hunting patrol that protects lettuce and strawberries without chemical input. A goose is a grass clipper, fertilizer spreader, and watchdog all at once.
 
 ## Chickens — The Cornerstone Species
-## Chickens — The Cornerstone Species
 
 Chickens are the most versatile homestead poultry. Their scratching cultivates soil, replacing tractor work. Their insect foraging replaces toxic insecticides. Their manure replaces purchased fertilizers.
 Mollison observed that a fowl performs all the functions of a tractor simultaneously, at no energy cost, while producing food. A flock of 50-60 birds prepares seedbeds and controls pests in a single pass.
@@ -69,7 +67,6 @@ Hens begin laying at 18-22 weeks with peak production in years one and two, decl
 Egg color does not affect nutrition or taste — it is purely a breed characteristic. Brown, white, blue, and green eggs are nutritionally identical.
 Chickens in forage systems show remarkable longevity. Mollison reported birds laying until death at six years, often passing at roost having laid the day before.
 
-## Chicken Breeds for the Homestead
 ## Chicken Breeds for the Homestead
 
 Breed selection depends on climate, space, and purpose. Dual-purpose breeds suit most homesteads because they provide eggs and meat while maintaining hardiness and foraging ability.
@@ -115,14 +112,12 @@ A pond provides water, duck habitat, irrigation reserves, and fire protection. A
 Observe and adapt over years. Mollison's advice: "The problem is the solution." A chicken destroying mulch signals a redesign need — perhaps wire barriers or timed access rather than continuous ranging.
 
 ## Summary
-## Summary
 
 Integrated animal systems are among the most powerful permaculture design strategies. By positioning livestock where services are needed most, the homesteader eliminates external inputs of fertilizer and pesticide.
 The concepts developed by Mollison, Hemenway, Cho, Holzer, and Faires cover breed selection, coop design, forage species, rotational grazing, health management, and economics in comprehensive detail.
 The key principle throughout is integration: every animal serves multiple functions, every function is supported by multiple elements, and the system produces more than the sum of its parts.
 A well-designed integrated animal system builds soil fertility, controls pests, produces protein, and creates resilience — all while reducing dependence on external inputs and purchased feeds.
 
-## See Also
 ## See Also
 
 - [[composting-and-soil-biology]] — the soil food web that poultry manure feeds
